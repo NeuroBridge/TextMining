@@ -2,6 +2,8 @@
 
 Here lies code used to extract entity from raw text. 
 
+See TokenPipeline for our two-stage token level entity recognition work. Preprocessed data and results are available in this folder. 
+
 ## Other code that will appear here later:
 
 Basic data preprocessing: Codes transforming the original wtsv files to Conll form will be available here, as well as code used to split train/test data and generate sentence-level annotated files.

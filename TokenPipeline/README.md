@@ -19,5 +19,7 @@ Currently we use Bert-Base along with CRF layer. Result of the binary classifica
 Trigrams Jaccard similarity is utilized by default. Results of entity linking can be found in 2stage_res.txt
 
 
+### Data Format:
 
+Every line of these two files contains three items: [word, true_label, predicted_label].
 

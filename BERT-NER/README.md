@@ -1,4 +1,4 @@
-## For better performance, you can try NLPGNN, see [NLPGNN](https://github.com/kyzhouhzau/NLPGNN) for more details.
+## Please see https://github.com/kyzhouhzau/BERT-NER for more detail of this model.
 
 # BERT-NER Version 2
 

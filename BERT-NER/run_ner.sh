@@ -19,4 +19,4 @@
 
 
 perl conlleval.pl -d '\t' < ./output/result_dir/label_test.txt
-  python3 NER_Eval.py 
+  python3 Entity_linker.py 

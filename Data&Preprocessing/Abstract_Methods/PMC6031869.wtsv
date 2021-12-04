@@ -1,0 +1,1752 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.ConceptLayer|identifier
+
+
+#Text=Abnormal degree centrality in chronic users of codeine-containing cough syrups: A resting-state functional magnetic resonance imaging study
+#Text=Codeine-containing cough syrups (CCS) have become one of the most popular drugs of abuse in young population worldwide.
+1-1	0-8	Abnormal	_	
+1-2	9-15	degree	_	
+1-3	16-26	centrality	_	
+1-4	27-29	in	_	
+1-5	30-37	chronic	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder[1]	
+1-6	38-43	users	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder[1]	
+1-7	44-46	of	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder[1]	
+1-8	47-65	codeine-containing	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder[1]	
+1-9	66-71	cough	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder[1]	
+1-10	72-78	syrups	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder[1]	
+1-11	78-79	:	_	
+1-12	80-81	A	_	
+1-13	82-95	resting-state	_	
+1-14	96-106	functional	_	
+1-15	107-115	magnetic	_	
+1-16	116-125	resonance	_	
+1-17	126-133	imaging	_	
+1-18	134-139	study	_	
+1-19	140-158	Codeine-containing	_	
+1-20	159-164	cough	_	
+1-21	165-171	syrups	_	
+1-22	172-173	(	_	
+1-23	173-176	CCS	_	
+1-24	176-177	)	_	
+1-25	178-182	have	_	
+1-26	183-189	become	_	
+1-27	190-193	one	_	
+1-28	194-196	of	_	
+1-29	197-200	the	_	
+1-30	201-205	most	_	
+1-31	206-213	popular	_	
+1-32	214-219	drugs	_	
+1-33	220-222	of	_	
+1-34	223-228	abuse	_	
+1-35	229-231	in	_	
+1-36	232-237	young	_	
+1-37	238-248	population	_	
+1-38	249-258	worldwide	_	
+1-39	258-259	.	_	
+
+#Text=However, the neurobiological mechanisms underlying CCS-dependence are yet ill-defined.
+2-1	260-267	However	_	
+2-2	267-268	,	_	
+2-3	269-272	the	_	
+2-4	273-288	neurobiological	_	
+2-5	289-299	mechanisms	_	
+2-6	300-310	underlying	_	
+2-7	311-325	CCS-dependence	_	
+2-8	326-329	are	_	
+2-9	330-333	yet	_	
+2-10	334-345	ill-defined	_	
+2-11	345-346	.	_	
+
+#Text=Therefore, understanding the brain abnormalities in chronic users of CCS is crucial for developing effective interventions.
+3-1	347-356	Therefore	_	
+3-2	356-357	,	_	
+3-3	358-371	understanding	_	
+3-4	372-375	the	_	
+3-5	376-381	brain	_	
+3-6	382-395	abnormalities	_	
+3-7	396-398	in	_	
+3-8	399-406	chronic	_	
+3-9	407-412	users	_	
+3-10	413-415	of	_	
+3-11	416-419	CCS	_	
+3-12	420-422	is	_	
+3-13	423-430	crucial	_	
+3-14	431-434	for	_	
+3-15	435-445	developing	_	
+3-16	446-455	effective	_	
+3-17	456-469	interventions	_	
+3-18	469-470	.	_	
+
+#Text=The present study depicted the intrinsic dysconnectivity pattern of whole-brain functional networks at the voxel level in chronic users of CCS.
+4-1	471-474	The	_	
+4-2	475-482	present	_	
+4-3	483-488	study	_	
+4-4	489-497	depicted	_	
+4-5	498-501	the	_	
+4-6	502-511	intrinsic	_	
+4-7	512-527	dysconnectivity	_	
+4-8	528-535	pattern	_	
+4-9	536-538	of	_	
+4-10	539-550	whole-brain	_	
+4-11	551-561	functional	_	
+4-12	562-570	networks	_	
+4-13	571-573	at	_	
+4-14	574-577	the	_	
+4-15	578-583	voxel	_	
+4-16	584-589	level	_	
+4-17	590-592	in	_	
+4-18	593-600	chronic	_	
+4-19	601-606	users	_	
+4-20	607-609	of	_	
+4-21	610-613	CCS	_	
+4-22	613-614	.	_	
+
+#Text=In addition, the degree centrality (DC) changes were correlated to the Barratt Impulsiveness Scale (BIS-11) total score, dose, duration of CCS use, and the age at first use of cough syrups.
+5-1	615-617	In	_	
+5-2	618-626	addition	_	
+5-3	626-627	,	_	
+5-4	628-631	the	_	
+5-5	632-638	degree	_	
+5-6	639-649	centrality	_	
+5-7	650-651	(	_	
+5-8	651-653	DC	_	
+5-9	653-654	)	_	
+5-10	655-662	changes	_	
+5-11	663-667	were	_	
+5-12	668-678	correlated	_	
+5-13	679-681	to	_	
+5-14	682-685	the	_	
+5-15	686-693	Barratt	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[2]	
+5-16	694-707	Impulsiveness	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[2]	
+5-17	708-713	Scale	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[2]	
+5-18	714-715	(	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[2]	
+5-19	715-718	BIS	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[2]	
+5-20	718-719	-	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[2]	
+5-21	719-721	11	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[2]	
+5-22	721-722	)	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[2]	
+5-23	723-728	total	_	
+5-24	729-734	score	_	
+5-25	734-735	,	_	
+5-26	736-740	dose	_	
+5-27	740-741	,	_	
+5-28	742-750	duration	_	
+5-29	751-753	of	_	
+5-30	754-757	CCS	_	
+5-31	758-761	use	_	
+5-32	761-762	,	_	
+5-33	763-766	and	_	
+5-34	767-770	the	_	
+5-35	771-774	age	_	
+5-36	775-777	at	_	
+5-37	778-783	first	_	
+5-38	784-787	use	_	
+5-39	788-790	of	_	
+5-40	791-796	cough	_	
+5-41	797-803	syrups	_	
+5-42	803-804	.	_	
+
+#Text=The current study included 38 chronic CCS users and 34 matched control subjects.
+6-1	805-808	The	_	
+6-2	809-816	current	_	
+6-3	817-822	study	_	
+6-4	823-831	included	_	
+6-5	832-834	38	_	
+6-6	835-842	chronic	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder[3]	
+6-7	843-846	CCS	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder[3]	
+6-8	847-852	users	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder[3]	
+6-9	853-856	and	_	
+6-10	857-859	34	_	
+6-11	860-867	matched	_	
+6-12	868-875	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[4]	
+6-13	876-884	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[4]	
+6-14	884-885	.	_	
+
+#Text=All patients were evaluated using the BIS-11.
+7-1	886-889	All	_	
+7-2	890-898	patients	_	
+7-3	899-903	were	_	
+7-4	904-913	evaluated	_	
+7-5	914-919	using	_	
+7-6	920-923	the	_	
+7-7	924-927	BIS	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[5]	
+7-8	927-928	-	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[5]	
+7-9	928-930	11	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[5]	
+7-10	930-931	.	_	
+
+#Text=Next, resting-state functional magnetic resonance imaging (rs-fMRI) datasets were acquired from these CCS users and controls.
+8-1	932-936	Next	_	
+8-2	936-937	,	_	
+8-3	938-951	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging[6]	
+8-4	952-962	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging[6]	
+8-5	963-971	magnetic	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging[6]	
+8-6	972-981	resonance	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging[6]	
+8-7	982-989	imaging	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging[6]	
+8-8	990-991	(	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging[6]	
+8-9	991-998	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging[6]	
+8-10	998-999	)	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging[6]	
+8-11	1000-1008	datasets	_	
+8-12	1009-1013	were	_	
+8-13	1014-1022	acquired	_	
+8-14	1023-1027	from	_	
+8-15	1028-1033	these	_	
+8-16	1034-1037	CCS	_	
+8-17	1038-1043	users	_	
+8-18	1044-1047	and	_	
+8-19	1048-1056	controls	_	
+8-20	1056-1057	.	_	
+
+#Text=Whole-brain connectivity was analyzed using a graph theory approach: degree centrality (DC).
+9-1	1058-1069	Whole-brain	_	
+9-2	1070-1082	connectivity	_	
+9-3	1083-1086	was	_	
+9-4	1087-1095	analyzed	_	
+9-5	1096-1101	using	_	
+9-6	1102-1103	a	_	
+9-7	1104-1109	graph	_	
+9-8	1110-1116	theory	_	
+9-9	1117-1125	approach	_	
+9-10	1125-1126	:	_	
+9-11	1127-1133	degree	_	
+9-12	1134-1144	centrality	_	
+9-13	1145-1146	(	_	
+9-14	1146-1148	DC	_	
+9-15	1148-1149	)	_	
+9-16	1149-1150	.	_	
+
+#Text=CCS-dependent individuals exhibited low DC values in the left inferior parietal lobule and the left middle temporal gyrus, while high DC values were noted in the right pallidum and the right hippocampus (P < 0.01, AlphaSim corrected).
+10-1	1151-1164	CCS-dependent	_	
+10-2	1165-1176	individuals	_	
+10-3	1177-1186	exhibited	_	
+10-4	1187-1190	low	_	
+10-5	1191-1193	DC	_	
+10-6	1194-1200	values	_	
+10-7	1201-1203	in	_	
+10-8	1204-1207	the	_	
+10-9	1208-1212	left	_	
+10-10	1213-1221	inferior	_	
+10-11	1222-1230	parietal	_	
+10-12	1231-1237	lobule	_	
+10-13	1238-1241	and	_	
+10-14	1242-1245	the	_	
+10-15	1246-1250	left	_	
+10-16	1251-1257	middle	_	
+10-17	1258-1266	temporal	_	
+10-18	1267-1272	gyrus	_	
+10-19	1272-1273	,	_	
+10-20	1274-1279	while	_	
+10-21	1280-1284	high	_	
+10-22	1285-1287	DC	_	
+10-23	1288-1294	values	_	
+10-24	1295-1299	were	_	
+10-25	1300-1305	noted	_	
+10-26	1306-1308	in	_	
+10-27	1309-1312	the	_	
+10-28	1313-1318	right	_	
+10-29	1319-1327	pallidum	_	
+10-30	1328-1331	and	_	
+10-31	1332-1335	the	_	
+10-32	1336-1341	right	_	
+10-33	1342-1353	hippocampus	_	
+10-34	1354-1355	(	_	
+10-35	1355-1356	P	_	
+10-36	1356-1357	 	_	
+10-37	1357-1358	<	_	
+10-38	1358-1359	 	_	
+10-39	1359-1363	0.01	_	
+10-40	1363-1364	,	_	
+10-41	1365-1373	AlphaSim	_	
+10-42	1374-1383	corrected	_	
+10-43	1383-1384	)	_	
+10-44	1384-1385	.	_	
+
+#Text=Also, significant correlations were established between average DC value in the left inferior parietal lobule and attentional impulsivity scores and the age at first CCS use.
+11-1	1386-1390	Also	_	
+11-2	1390-1391	,	_	
+11-3	1392-1403	significant	_	
+11-4	1404-1416	correlations	_	
+11-5	1417-1421	were	_	
+11-6	1422-1433	established	_	
+11-7	1434-1441	between	_	
+11-8	1442-1449	average	_	
+11-9	1450-1452	DC	_	
+11-10	1453-1458	value	_	
+11-11	1459-1461	in	_	
+11-12	1462-1465	the	_	
+11-13	1466-1470	left	_	
+11-14	1471-1479	inferior	_	
+11-15	1480-1488	parietal	_	
+11-16	1489-1495	lobule	_	
+11-17	1496-1499	and	_	
+11-18	1500-1511	attentional	_	
+11-19	1512-1523	impulsivity	_	
+11-20	1524-1530	scores	_	
+11-21	1531-1534	and	_	
+11-22	1535-1538	the	_	
+11-23	1539-1542	age	_	
+11-24	1543-1545	at	_	
+11-25	1546-1551	first	_	
+11-26	1552-1555	CCS	_	
+11-27	1556-1559	use	_	
+11-28	1559-1560	.	_	
+
+#Text=The rs-fMRI study suggested that the abnormal intrinsic dysconnectivity pattern of whole-brain functional networks may provide an insight into the neural substrates of abnormalities in the cognitive control circuit, the reward circuit, and the learning and memory circuit in CCS-dependent individuals.
+12-1	1561-1564	The	_	
+12-2	1565-1572	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging	
+12-3	1573-1578	study	_	
+12-4	1579-1588	suggested	_	
+12-5	1589-1593	that	_	
+12-6	1594-1597	the	_	
+12-7	1598-1606	abnormal	_	
+12-8	1607-1616	intrinsic	_	
+12-9	1617-1632	dysconnectivity	_	
+12-10	1633-1640	pattern	_	
+12-11	1641-1643	of	_	
+12-12	1644-1655	whole-brain	_	
+12-13	1656-1666	functional	_	
+12-14	1667-1675	networks	_	
+12-15	1676-1679	may	_	
+12-16	1680-1687	provide	_	
+12-17	1688-1690	an	_	
+12-18	1691-1698	insight	_	
+12-19	1699-1703	into	_	
+12-20	1704-1707	the	_	
+12-21	1708-1714	neural	_	
+12-22	1715-1725	substrates	_	
+12-23	1726-1728	of	_	
+12-24	1729-1742	abnormalities	_	
+12-25	1743-1745	in	_	
+12-26	1746-1749	the	_	
+12-27	1750-1759	cognitive	_	
+12-28	1760-1767	control	_	
+12-29	1768-1775	circuit	_	
+12-30	1775-1776	,	_	
+12-31	1777-1780	the	_	
+12-32	1781-1787	reward	_	
+12-33	1788-1795	circuit	_	
+12-34	1795-1796	,	_	
+12-35	1797-1800	and	_	
+12-36	1801-1804	the	_	
+12-37	1805-1813	learning	_	
+12-38	1814-1817	and	_	
+12-39	1818-1824	memory	_	
+12-40	1825-1832	circuit	_	
+12-41	1833-1835	in	_	
+12-42	1836-1849	CCS-dependent	_	
+12-43	1850-1861	individuals	_	
+12-44	1861-1862	.	_	
+
+#Text=Highlights
+#Text=The abuse of CCS has gained a severe foothold among young individuals worldwide.
+13-1	1863-1873	Highlights	_	
+13-2	1874-1877	The	_	
+13-3	1878-1883	abuse	_	
+13-4	1884-1886	of	_	
+13-5	1887-1890	CCS	_	
+13-6	1891-1894	has	_	
+13-7	1895-1901	gained	_	
+13-8	1902-1903	a	_	
+13-9	1904-1910	severe	_	
+13-10	1911-1919	foothold	_	
+13-11	1920-1925	among	_	
+13-12	1926-1931	young	_	
+13-13	1932-1943	individuals	_	
+13-14	1944-1953	worldwide	_	
+13-15	1953-1954	.	_	
+
+#Text=DC is one of the more reliable and compelling measures among several nodal network metrics.
+14-1	1955-1957	DC	_	
+14-2	1958-1960	is	_	
+14-3	1961-1964	one	_	
+14-4	1965-1967	of	_	
+14-5	1968-1971	the	_	
+14-6	1972-1976	more	_	
+14-7	1977-1985	reliable	_	
+14-8	1986-1989	and	_	
+14-9	1990-2000	compelling	_	
+14-10	2001-2009	measures	_	
+14-11	2010-2015	among	_	
+14-12	2016-2023	several	_	
+14-13	2024-2029	nodal	_	
+14-14	2030-2037	network	_	
+14-15	2038-2045	metrics	_	
+14-16	2045-2046	.	_	
+
+#Text=The present study depicted intrinsic dysconnectivity pattern of whole-brain functional networks in CCS-dependent individuals.
+15-1	2047-2050	The	_	
+15-2	2051-2058	present	_	
+15-3	2059-2064	study	_	
+15-4	2065-2073	depicted	_	
+15-5	2074-2083	intrinsic	_	
+15-6	2084-2099	dysconnectivity	_	
+15-7	2100-2107	pattern	_	
+15-8	2108-2110	of	_	
+15-9	2111-2122	whole-brain	_	
+15-10	2123-2133	functional	_	
+15-11	2134-2142	networks	_	
+15-12	2143-2145	in	_	
+15-13	2146-2159	CCS-dependent	_	
+15-14	2160-2171	individuals	_	
+15-15	2171-2172	.	_	
+
+#Text=CCS-dependent individuals showed altered DC in the right pallidum, right hippocampus, left IPL and left middle temporal gyrus.
+16-1	2173-2186	CCS-dependent	_	
+16-2	2187-2198	individuals	_	
+16-3	2199-2205	showed	_	
+16-4	2206-2213	altered	_	
+16-5	2214-2216	DC	_	
+16-6	2217-2219	in	_	
+16-7	2220-2223	the	_	
+16-8	2224-2229	right	_	
+16-9	2230-2238	pallidum	_	
+16-10	2238-2239	,	_	
+16-11	2240-2245	right	_	
+16-12	2246-2257	hippocampus	_	
+16-13	2257-2258	,	_	
+16-14	2259-2263	left	_	
+16-15	2264-2267	IPL	_	
+16-16	2268-2271	and	_	
+16-17	2272-2276	left	_	
+16-18	2277-2283	middle	_	
+16-19	2284-2292	temporal	_	
+16-20	2293-2298	gyrus	_	
+16-21	2298-2299	.	_	
+
+#Text=Significant correlations were established between average DC value in the left IPL and attentional impulsivity scores and the age at first CCS use.
+17-1	2300-2311	Significant	_	
+17-2	2312-2324	correlations	_	
+17-3	2325-2329	were	_	
+17-4	2330-2341	established	_	
+17-5	2342-2349	between	_	
+17-6	2350-2357	average	_	
+17-7	2358-2360	DC	_	
+17-8	2361-2366	value	_	
+17-9	2367-2369	in	_	
+17-10	2370-2373	the	_	
+17-11	2374-2378	left	_	
+17-12	2379-2382	IPL	_	
+17-13	2383-2386	and	_	
+17-14	2387-2398	attentional	_	
+17-15	2399-2410	impulsivity	_	
+17-16	2411-2417	scores	_	
+17-17	2418-2421	and	_	
+17-18	2422-2425	the	_	
+17-19	2426-2429	age	_	
+17-20	2430-2432	at	_	
+17-21	2433-2438	first	_	
+17-22	2439-2442	CCS	_	
+17-23	2443-2446	use	_	
+17-24	2446-2447	.	_	
+
+
+#Text=Materials and methods
+#Text=Participants
+#Text=This prospective study was approved by the Ethics Committee of Guangdong Second Provincial General Hospital.
+49-1	8627-8636	Materials	http://www.case.edu/ProvCaRe/provcare#StudyMethod[7]	
+49-2	8637-8640	and	http://www.case.edu/ProvCaRe/provcare#StudyMethod[7]	
+49-3	8641-8648	methods	http://www.case.edu/ProvCaRe/provcare#StudyMethod[7]	
+49-4	8649-8661	Participants	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-5	8662-8666	This	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-6	8667-8678	prospective	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-7	8679-8684	study	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-8	8685-8688	was	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-9	8689-8697	approved	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-10	8698-8700	by	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-11	8701-8704	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-12	8705-8711	Ethics	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-13	8712-8721	Committee	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-14	8722-8724	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-15	8725-8734	Guangdong	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-16	8735-8741	Second	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-17	8742-8752	Provincial	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-18	8753-8760	General	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-19	8761-8769	Hospital	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+49-20	8769-8770	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+
+#Text=Written informed consent was obtained from all subjects.
+50-1	8771-8778	Written	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+50-2	8779-8787	informed	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+50-3	8788-8795	consent	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+50-4	8796-8799	was	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+50-5	8800-8808	obtained	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+50-6	8809-8813	from	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+50-7	8814-8817	all	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+50-8	8818-8826	subjects	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+50-9	8826-8827	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[8]	
+
+#Text=A total of 72 right-handed participants, including 34 control subjects and 38 CCS-dependent individuals, were enrolled in this study.
+51-1	8828-8829	A	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-2	8830-8835	total	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-3	8836-8838	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-4	8839-8841	72	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-5	8842-8854	right-handed	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-6	8855-8867	participants	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-7	8867-8868	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-8	8869-8878	including	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-9	8879-8881	34	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-10	8882-8889	control	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]|http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[10]	
+51-11	8890-8898	subjects	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]|http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[10]	
+51-12	8899-8902	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-13	8903-8905	38	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-14	8906-8919	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]|http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus[11]	
+51-15	8920-8931	individuals	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]|http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus[11]	
+51-16	8931-8932	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-17	8933-8937	were	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-18	8938-8946	enrolled	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-19	8947-8949	in	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-20	8950-8954	this	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-21	8955-8960	study	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+51-22	8960-8961	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+
+#Text=The CCS-dependent individuals were recruited from the patients seeking treatment at the Addiction Medicine Division of the Guangdong Second Provincial General Hospital.
+52-1	8962-8965	The	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-2	8966-8979	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]|http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus[12]	
+52-3	8980-8991	individuals	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]|http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus[12]	
+52-4	8992-8996	were	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-5	8997-9006	recruited	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-6	9007-9011	from	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-7	9012-9015	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-8	9016-9024	patients	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-9	9025-9032	seeking	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-10	9033-9042	treatment	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-11	9043-9045	at	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-12	9046-9049	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-13	9050-9059	Addiction	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-14	9060-9068	Medicine	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-15	9069-9077	Division	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-16	9078-9080	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-17	9081-9084	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-18	9085-9094	Guangdong	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-19	9095-9101	Second	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-20	9102-9112	Provincial	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-21	9113-9120	General	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-22	9121-9129	Hospital	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+52-23	9129-9130	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[9]	
+
+#Text=All the patients were screened based on the DSM-IV criteria from medical history and underwent a urine test and an interview on the same day.
+53-1	9131-9134	All	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-2	9135-9138	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-3	9139-9147	patients	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-4	9148-9152	were	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-5	9153-9161	screened	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-6	9162-9167	based	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-7	9168-9170	on	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-8	9171-9174	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-9	9175-9181	DSM-IV	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-10	9182-9190	criteria	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-11	9191-9195	from	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-12	9196-9203	medical	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-13	9204-9211	history	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-14	9212-9215	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-15	9216-9225	underwent	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-16	9226-9227	a	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-17	9228-9233	urine	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-18	9234-9238	test	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-19	9239-9242	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-20	9243-9245	an	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-21	9246-9255	interview	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-22	9256-9258	on	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-23	9259-9262	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-24	9263-9267	same	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-25	9268-9271	day	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+53-26	9271-9272	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+
+#Text=All participants regularly smoked cigarettes but did not use any type of psychotropic agents prior to the rs-fMRI scan.
+54-1	9273-9276	All	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-2	9277-9289	participants	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-3	9290-9299	regularly	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-4	9300-9306	smoked	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-5	9307-9317	cigarettes	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-6	9318-9321	but	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-7	9322-9325	did	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-8	9326-9329	not	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-9	9330-9333	use	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-10	9334-9337	any	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-11	9338-9342	type	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-12	9343-9345	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-13	9346-9358	psychotropic	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-14	9359-9365	agents	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-15	9366-9371	prior	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-16	9372-9374	to	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-17	9375-9378	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+54-18	9379-9386	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]|http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging[14]	
+54-19	9387-9391	scan	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]|http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging[14]	
+54-20	9391-9392	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+
+#Text=The exclusion criteria for all participants included central nervous system diseases, schizophrenia, bipolar disorder, prior significant head trauma, positive human immunodeficiency virus (HIV) status, diabetes, hepatitis C, other major medical illness, and left-handedness.
+55-1	9393-9396	The	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-2	9397-9406	exclusion	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-3	9407-9415	criteria	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-4	9416-9419	for	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-5	9420-9423	all	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-6	9424-9436	participants	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-7	9437-9445	included	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-8	9446-9453	central	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-9	9454-9461	nervous	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-10	9462-9468	system	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-11	9469-9477	diseases	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-12	9477-9478	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-13	9479-9492	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-14	9492-9493	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-15	9494-9501	bipolar	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-16	9502-9510	disorder	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-17	9510-9511	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-18	9512-9517	prior	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-19	9518-9529	significant	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-20	9530-9534	head	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-21	9535-9541	trauma	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-22	9541-9542	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-23	9543-9551	positive	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-24	9552-9557	human	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-25	9558-9574	immunodeficiency	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-26	9575-9580	virus	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-27	9581-9582	(	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-28	9582-9585	HIV	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-29	9585-9586	)	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-30	9587-9593	status	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-31	9593-9594	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-32	9595-9603	diabetes	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-33	9603-9604	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-34	9605-9614	hepatitis	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-35	9615-9616	C	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-36	9616-9617	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-37	9618-9623	other	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-38	9624-9629	major	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-39	9630-9637	medical	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-40	9638-9645	illness	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-41	9645-9646	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-42	9647-9650	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-43	9651-9666	left-handedness	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+55-44	9666-9667	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+
+#Text=The inclusion criteria for the control subjects was the absence of diagnosis of any type of substance abuse or dependence.
+56-1	9668-9671	The	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-2	9672-9681	inclusion	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-3	9682-9690	criteria	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-4	9691-9694	for	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-5	9695-9698	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-6	9699-9706	control	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-7	9707-9715	subjects	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-8	9716-9719	was	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-9	9720-9723	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-10	9724-9731	absence	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-11	9732-9734	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-12	9735-9744	diagnosis	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-13	9745-9747	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-14	9748-9751	any	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-15	9752-9756	type	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-16	9757-9759	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-17	9760-9769	substance	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-18	9770-9775	abuse	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-19	9776-9778	or	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-20	9779-9789	dependence	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+56-21	9789-9790	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+
+#Text=Impulsivity assessment
+#Text=BIS-11 was used for assessing the impulsivity.
+57-1	9791-9802	Impulsivity	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]|http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[16]	
+57-2	9803-9813	assessment	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]|http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[16]	
+57-3	9814-9817	BIS	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]|http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[16]	
+57-4	9817-9818	-	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]|http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[16]	
+57-5	9818-9820	11	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]|http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[16]	
+57-6	9821-9824	was	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+57-7	9825-9829	used	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+57-8	9830-9833	for	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+57-9	9834-9843	assessing	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+57-10	9844-9847	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+57-11	9848-9859	impulsivity	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+57-12	9859-9860	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[15]	
+
+#Text=This 30-item self-rated scale has three oblique factors: attentional/cognitive that measures the toleration for cognitive complexity and persistence; motor that estimates the tendency to act on the spur of the moment; and non-planning impulsivity, which evaluates the lack of sense of the future.
+58-1	9861-9865	This	_	
+58-2	9866-9868	30	_	
+58-3	9868-9869	-	_	
+58-4	9869-9873	item	_	
+58-5	9874-9884	self-rated	_	
+58-6	9885-9890	scale	_	
+58-7	9891-9894	has	_	
+58-8	9895-9900	three	_	
+58-9	9901-9908	oblique	_	
+58-10	9909-9916	factors	_	
+58-11	9916-9917	:	_	
+58-12	9918-9929	attentional	_	
+58-13	9929-9930	/	_	
+58-14	9930-9939	cognitive	_	
+58-15	9940-9944	that	_	
+58-16	9945-9953	measures	_	
+58-17	9954-9957	the	_	
+58-18	9958-9968	toleration	_	
+58-19	9969-9972	for	_	
+58-20	9973-9982	cognitive	_	
+58-21	9983-9993	complexity	_	
+58-22	9994-9997	and	_	
+58-23	9998-10009	persistence	_	
+58-24	10009-10010	;	_	
+58-25	10011-10016	motor	_	
+58-26	10017-10021	that	_	
+58-27	10022-10031	estimates	_	
+58-28	10032-10035	the	_	
+58-29	10036-10044	tendency	_	
+58-30	10045-10047	to	_	
+58-31	10048-10051	act	_	
+58-32	10052-10054	on	_	
+58-33	10055-10058	the	_	
+58-34	10059-10063	spur	_	
+58-35	10064-10066	of	_	
+58-36	10067-10070	the	_	
+58-37	10071-10077	moment	_	
+58-38	10077-10078	;	_	
+58-39	10079-10082	and	_	
+58-40	10083-10095	non-planning	_	
+58-41	10096-10107	impulsivity	_	
+58-42	10107-10108	,	_	
+58-43	10109-10114	which	_	
+58-44	10115-10124	evaluates	_	
+58-45	10125-10128	the	_	
+58-46	10129-10133	lack	_	
+58-47	10134-10136	of	_	
+58-48	10137-10142	sense	_	
+58-49	10143-10145	of	_	
+58-50	10146-10149	the	_	
+58-51	10150-10156	future	_	
+58-52	10156-10157	.	_	
+
+#Text=Items are rated from 1 (rarely/never) to 4 (almost always/always).
+59-1	10158-10163	Items	_	
+59-2	10164-10167	are	_	
+59-3	10168-10173	rated	_	
+59-4	10174-10178	from	_	
+59-5	10179-10180	1	_	
+59-6	10181-10182	(	_	
+59-7	10182-10188	rarely	_	
+59-8	10188-10189	/	_	
+59-9	10189-10194	never	_	
+59-10	10194-10195	)	_	
+59-11	10196-10198	to	_	
+59-12	10199-10200	4	_	
+59-13	10201-10202	(	_	
+59-14	10202-10208	almost	_	
+59-15	10209-10215	always	_	
+59-16	10215-10216	/	_	
+59-17	10216-10222	always	_	
+59-18	10222-10223	)	_	
+59-19	10223-10224	.	_	
+
+#Text=To determine the overall impulsiveness scores, all items are summed; high scores indicate remarkable impulsivity.
+60-1	10225-10227	To	_	
+60-2	10228-10237	determine	_	
+60-3	10238-10241	the	_	
+60-4	10242-10249	overall	_	
+60-5	10250-10263	impulsiveness	_	
+60-6	10264-10270	scores	_	
+60-7	10270-10271	,	_	
+60-8	10272-10275	all	_	
+60-9	10276-10281	items	_	
+60-10	10282-10285	are	_	
+60-11	10286-10292	summed	_	
+60-12	10292-10293	;	_	
+60-13	10294-10298	high	_	
+60-14	10299-10305	scores	_	
+60-15	10306-10314	indicate	_	
+60-16	10315-10325	remarkable	_	
+60-17	10326-10337	impulsivity	_	
+60-18	10337-10338	.	_	
+
+#Text=BIS-11 is a valid and reliable instrument for healthy Chinese and psychiatric populations.
+61-1	10339-10342	BIS	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[17]	
+61-2	10342-10343	-	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[17]	
+61-3	10343-10345	11	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire[17]	
+61-4	10346-10348	is	_	
+61-5	10349-10350	a	_	
+61-6	10351-10356	valid	_	
+61-7	10357-10360	and	_	
+61-8	10361-10369	reliable	_	
+61-9	10370-10380	instrument	_	
+61-10	10381-10384	for	_	
+61-11	10385-10392	healthy	_	
+61-12	10393-10400	Chinese	_	
+61-13	10401-10404	and	_	
+61-14	10405-10416	psychiatric	_	
+61-15	10417-10428	populations	_	
+61-16	10428-10429	.	_	
+
+#Text=Data acquisition
+#Text=All MRI datasets were obtained using a Philips Achieva 1.5 T Nova dual MR scanner at the Department of Medical Imaging, Guangdong Second Provincial General Hospital.
+62-1	10430-10434	Data	_	
+62-2	10435-10446	acquisition	_	
+62-3	10447-10450	All	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging[18]	
+62-4	10451-10454	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging[18]	
+62-5	10455-10463	datasets	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging[18]	
+62-6	10464-10468	were	_	
+62-7	10469-10477	obtained	_	
+62-8	10478-10483	using	_	
+62-9	10484-10485	a	_	
+62-10	10486-10493	Philips	_	
+62-11	10494-10501	Achieva	_	
+62-12	10502-10505	1.5	_	
+62-13	10505-10506	 	_	
+62-14	10506-10507	T	_	
+62-15	10508-10512	Nova	_	
+62-16	10513-10517	dual	_	
+62-17	10518-10520	MR	_	
+62-18	10521-10528	scanner	_	
+62-19	10529-10531	at	_	
+62-20	10532-10535	the	_	
+62-21	10536-10546	Department	_	
+62-22	10547-10549	of	_	
+62-23	10550-10557	Medical	_	
+62-24	10558-10565	Imaging	_	
+62-25	10565-10566	,	_	
+62-26	10567-10576	Guangdong	_	
+62-27	10577-10583	Second	_	
+62-28	10584-10594	Provincial	_	
+62-29	10595-10602	General	_	
+62-30	10603-10611	Hospital	_	
+62-31	10611-10612	.	_	
+
+#Text=These datasets included rs-fMRI dataset and T1-weighted structural images.
+63-1	10613-10618	These	_	
+63-2	10619-10627	datasets	_	
+63-3	10628-10636	included	_	
+63-4	10637-10644	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging	
+63-5	10645-10652	dataset	_	
+63-6	10653-10656	and	_	
+63-7	10657-10659	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[19]	
+63-8	10659-10660	-	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[19]	
+63-9	10660-10668	weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[19]	
+63-10	10669-10679	structural	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[19]	
+63-11	10680-10686	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[19]	
+63-12	10686-10687	.	_	
+
+#Text=The rs-fMRI dataset [22 axial slices, repetition time (TR)/echo time (TE) = 2000 ms/50 ms, matrix = 64 × 64, field of view (FOV) = 230 × 230 mm2, slice thickness = 4.5 mm without gap, flip angle = 90°] was acquired using an echo planar imaging (EPI) sequence.
+64-1	10688-10691	The	_	
+64-2	10692-10699	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging[20]	
+64-3	10700-10707	dataset	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging[20]	
+64-4	10708-10709	[	_	
+64-5	10709-10711	22	_	
+64-6	10712-10717	axial	_	
+64-7	10718-10724	slices	_	
+64-8	10724-10725	,	_	
+64-9	10726-10736	repetition	_	
+64-10	10737-10741	time	_	
+64-11	10742-10743	(	_	
+64-12	10743-10745	TR	_	
+64-13	10745-10746	)	_	
+64-14	10746-10747	/	_	
+64-15	10747-10751	echo	_	
+64-16	10752-10756	time	_	
+64-17	10757-10758	(	_	
+64-18	10758-10760	TE	_	
+64-19	10760-10761	)	_	
+64-20	10761-10762	 	_	
+64-21	10762-10763	=	_	
+64-22	10763-10764	 	_	
+64-23	10764-10768	2000	_	
+64-24	10768-10769	 	_	
+64-25	10769-10771	ms	_	
+64-26	10771-10772	/	_	
+64-27	10772-10774	50	_	
+64-28	10774-10775	 	_	
+64-29	10775-10777	ms	_	
+64-30	10777-10778	,	_	
+64-31	10779-10785	matrix	_	
+64-32	10785-10786	 	_	
+64-33	10786-10787	=	_	
+64-34	10787-10788	 	_	
+64-35	10788-10790	64	_	
+64-36	10790-10791	 	_	
+64-37	10791-10792	×	_	
+64-38	10792-10793	 	_	
+64-39	10793-10795	64	_	
+64-40	10795-10796	,	_	
+64-41	10797-10802	field	_	
+64-42	10803-10805	of	_	
+64-43	10806-10810	view	_	
+64-44	10811-10812	(	_	
+64-45	10812-10815	FOV	_	
+64-46	10815-10816	)	_	
+64-47	10816-10817	 	_	
+64-48	10817-10818	=	_	
+64-49	10818-10819	 	_	
+64-50	10819-10822	230	_	
+64-51	10822-10823	 	_	
+64-52	10823-10824	×	_	
+64-53	10824-10825	 	_	
+64-54	10825-10828	230	_	
+64-55	10828-10829	 	_	
+64-56	10829-10832	mm2	_	
+64-57	10832-10833	,	_	
+64-58	10834-10839	slice	_	
+64-59	10840-10849	thickness	_	
+64-60	10849-10850	 	_	
+64-61	10850-10851	=	_	
+64-62	10851-10852	 	_	
+64-63	10852-10855	4.5	_	
+64-64	10855-10856	 	_	
+64-65	10856-10858	mm	_	
+64-66	10859-10866	without	_	
+64-67	10867-10870	gap	_	
+64-68	10870-10871	,	_	
+64-69	10872-10876	flip	_	
+64-70	10877-10882	angle	_	
+64-71	10882-10883	 	_	
+64-72	10883-10884	=	_	
+64-73	10884-10885	 	_	
+64-74	10885-10887	90	_	
+64-75	10887-10888	°	_	
+64-76	10888-10889	]	_	
+64-77	10890-10893	was	_	
+64-78	10894-10902	acquired	_	
+64-79	10903-10908	using	_	
+64-80	10909-10911	an	_	
+64-81	10912-10916	echo	_	
+64-82	10917-10923	planar	_	
+64-83	10924-10931	imaging	_	
+64-84	10932-10933	(	_	
+64-85	10933-10936	EPI	_	
+64-86	10936-10937	)	_	
+64-87	10938-10946	sequence	_	
+64-88	10946-10947	.	_	
+
+#Text=Each functional run contained 240 volumes (8 min) [the slices were approximately along the anterior commissure-posterior commissure (AC-PC) line and covered approximately 230 to 60 in the inferosuperior direction], and the subjects were asked to lie quietly with their eyes closed and avoid eye movement or thinking of anything specific or falling asleep while in the scanner, during the rs-fMRI data acquisition.
+65-1	10948-10952	Each	_	
+65-2	10953-10963	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging[21]	
+65-3	10964-10967	run	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging[21]	
+65-4	10968-10977	contained	_	
+65-5	10978-10981	240	_	
+65-6	10982-10989	volumes	_	
+65-7	10990-10991	(	_	
+65-8	10991-10992	8	_	
+65-9	10992-10993	 	_	
+65-10	10993-10996	min	_	
+65-11	10996-10997	)	_	
+65-12	10998-10999	[	_	
+65-13	10999-11002	the	_	
+65-14	11003-11009	slices	_	
+65-15	11010-11014	were	_	
+65-16	11015-11028	approximately	_	
+65-17	11029-11034	along	_	
+65-18	11035-11038	the	_	
+65-19	11039-11047	anterior	_	
+65-20	11048-11068	commissure-posterior	_	
+65-21	11069-11079	commissure	_	
+65-22	11080-11081	(	_	
+65-23	11081-11086	AC-PC	_	
+65-24	11086-11087	)	_	
+65-25	11088-11092	line	_	
+65-26	11093-11096	and	_	
+65-27	11097-11104	covered	_	
+65-28	11105-11118	approximately	_	
+65-29	11119-11122	230	_	
+65-30	11123-11125	to	_	
+65-31	11126-11128	60	_	
+65-32	11129-11131	in	_	
+65-33	11132-11135	the	_	
+65-34	11136-11150	inferosuperior	_	
+65-35	11151-11160	direction	_	
+65-36	11160-11161	]	_	
+65-37	11161-11162	,	_	
+65-38	11163-11166	and	_	
+65-39	11167-11170	the	_	
+65-40	11171-11179	subjects	_	
+65-41	11180-11184	were	_	
+65-42	11185-11190	asked	_	
+65-43	11191-11193	to	_	
+65-44	11194-11197	lie	_	
+65-45	11198-11205	quietly	_	
+65-46	11206-11210	with	_	
+65-47	11211-11216	their	_	
+65-48	11217-11221	eyes	_	
+65-49	11222-11228	closed	_	
+65-50	11229-11232	and	_	
+65-51	11233-11238	avoid	_	
+65-52	11239-11242	eye	_	
+65-53	11243-11251	movement	_	
+65-54	11252-11254	or	_	
+65-55	11255-11263	thinking	_	
+65-56	11264-11266	of	_	
+65-57	11267-11275	anything	_	
+65-58	11276-11284	specific	_	
+65-59	11285-11287	or	_	
+65-60	11288-11295	falling	_	
+65-61	11296-11302	asleep	_	
+65-62	11303-11308	while	_	
+65-63	11309-11311	in	_	
+65-64	11312-11315	the	_	
+65-65	11316-11323	scanner	_	
+65-66	11323-11324	,	_	
+65-67	11325-11331	during	_	
+65-68	11332-11335	the	_	
+65-69	11336-11343	rs-fMRI	_	
+65-70	11344-11348	data	_	
+65-71	11349-11360	acquisition	_	
+65-72	11360-11361	.	_	
+
+#Text=Sagittal structural images (160 sagittal slices, TR/TE = 25 ms/4.1 ms, thickness = 1.0 mm, no gap, in-plane resolution = 231 × 232, FOV = 230 × 230 mm, flip angle = 30°) were acquired using a fast field echo (FFE) three-dimensional (3D) T1-weighted sequence.
+66-1	11362-11370	Sagittal	_	
+66-2	11371-11381	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging[22]	
+66-3	11382-11388	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging[22]	
+66-4	11389-11390	(	_	
+66-5	11390-11393	160	_	
+66-6	11394-11402	sagittal	_	
+66-7	11403-11409	slices	_	
+66-8	11409-11410	,	_	
+66-9	11411-11413	TR	_	
+66-10	11413-11414	/	_	
+66-11	11414-11416	TE	_	
+66-12	11416-11417	 	_	
+66-13	11417-11418	=	_	
+66-14	11418-11419	 	_	
+66-15	11419-11421	25	_	
+66-16	11421-11422	 	_	
+66-17	11422-11424	ms	_	
+66-18	11424-11425	/	_	
+66-19	11425-11428	4.1	_	
+66-20	11428-11429	 	_	
+66-21	11429-11431	ms	_	
+66-22	11431-11432	,	_	
+66-23	11433-11442	thickness	_	
+66-24	11442-11443	 	_	
+66-25	11443-11444	=	_	
+66-26	11444-11445	 	_	
+66-27	11445-11448	1.0	_	
+66-28	11448-11449	 	_	
+66-29	11449-11451	mm	_	
+66-30	11451-11452	,	_	
+66-31	11453-11455	no	_	
+66-32	11456-11459	gap	_	
+66-33	11459-11460	,	_	
+66-34	11461-11469	in-plane	_	
+66-35	11470-11480	resolution	_	
+66-36	11480-11481	 	_	
+66-37	11481-11482	=	_	
+66-38	11482-11483	 	_	
+66-39	11483-11486	231	_	
+66-40	11486-11487	 	_	
+66-41	11487-11488	×	_	
+66-42	11488-11489	 	_	
+66-43	11489-11492	232	_	
+66-44	11492-11493	,	_	
+66-45	11494-11497	FOV	_	
+66-46	11497-11498	 	_	
+66-47	11498-11499	=	_	
+66-48	11499-11500	 	_	
+66-49	11500-11503	230	_	
+66-50	11503-11504	 	_	
+66-51	11504-11505	×	_	
+66-52	11505-11506	 	_	
+66-53	11506-11509	230	_	
+66-54	11509-11510	 	_	
+66-55	11510-11512	mm	_	
+66-56	11512-11513	,	_	
+66-57	11514-11518	flip	_	
+66-58	11519-11524	angle	_	
+66-59	11524-11525	 	_	
+66-60	11525-11526	=	_	
+66-61	11526-11527	 	_	
+66-62	11527-11529	30	_	
+66-63	11529-11530	°	_	
+66-64	11530-11531	)	_	
+66-65	11532-11536	were	_	
+66-66	11537-11545	acquired	_	
+66-67	11546-11551	using	_	
+66-68	11552-11553	a	_	
+66-69	11554-11558	fast	_	
+66-70	11559-11564	field	_	
+66-71	11565-11569	echo	_	
+66-72	11570-11571	(	_	
+66-73	11571-11574	FFE	_	
+66-74	11574-11575	)	_	
+66-75	11576-11593	three-dimensional	_	
+66-76	11594-11595	(	_	
+66-77	11595-11597	3D	_	
+66-78	11597-11598	)	_	
+66-79	11599-11601	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[23]	
+66-80	11601-11602	-	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[23]	
+66-81	11602-11610	weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[23]	
+66-82	11611-11619	sequence	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[23]	
+66-83	11619-11620	.	_	
+
+#Text=Data pre-processing and DC calculation
+#Text=Data Processing Assistant for Resting-State Functional MR Imaging toolbox (http://www.restfmri.net.sci-hub.cc/forum/DPARSF,) was used for the post-processing of the imaging data.
+67-1	11621-11625	Data	_	
+67-2	11626-11640	pre-processing	_	
+67-3	11641-11644	and	_	
+67-4	11645-11647	DC	_	
+67-5	11648-11659	calculation	_	
+67-6	11660-11664	Data	_	
+67-7	11665-11675	Processing	_	
+67-8	11676-11685	Assistant	_	
+67-9	11686-11689	for	_	
+67-10	11690-11703	Resting-State	_	
+67-11	11704-11714	Functional	_	
+67-12	11715-11717	MR	_	
+67-13	11718-11725	Imaging	_	
+67-14	11726-11733	toolbox	_	
+67-15	11734-11735	(	_	
+67-16	11735-11739	http	_	
+67-17	11739-11740	:	_	
+67-18	11740-11741	/	_	
+67-19	11741-11742	/	_	
+67-20	11742-11769	www.restfmri.net.sci-hub.cc	_	
+67-21	11769-11770	/	_	
+67-22	11770-11775	forum	_	
+67-23	11775-11776	/	_	
+67-24	11776-11782	DPARSF	_	
+67-25	11782-11783	,	_	
+67-26	11783-11784	)	_	
+67-27	11785-11788	was	_	
+67-28	11789-11793	used	_	
+67-29	11794-11797	for	_	
+67-30	11798-11801	the	_	
+67-31	11802-11817	post-processing	_	
+67-32	11818-11820	of	_	
+67-33	11821-11824	the	_	
+67-34	11825-11832	imaging	_	
+67-35	11833-11837	data	_	
+67-36	11837-11838	.	_	
+
+#Text=Before pre-processing, the first 10 volumes were discarded for each subject so that magnetization reached a steady state and subjects adapted to the MRI scanning noise.
+68-1	11839-11845	Before	_	
+68-2	11846-11860	pre-processing	_	
+68-3	11860-11861	,	_	
+68-4	11862-11865	the	_	
+68-5	11866-11871	first	_	
+68-6	11872-11874	10	_	
+68-7	11875-11882	volumes	_	
+68-8	11883-11887	were	_	
+68-9	11888-11897	discarded	_	
+68-10	11898-11901	for	_	
+68-11	11902-11906	each	_	
+68-12	11907-11914	subject	_	
+68-13	11915-11917	so	_	
+68-14	11918-11922	that	_	
+68-15	11923-11936	magnetization	_	
+68-16	11937-11944	reached	_	
+68-17	11945-11946	a	_	
+68-18	11947-11953	steady	_	
+68-19	11954-11959	state	_	
+68-20	11960-11963	and	_	
+68-21	11964-11972	subjects	_	
+68-22	11973-11980	adapted	_	
+68-23	11981-11983	to	_	
+68-24	11984-11987	the	_	
+68-25	11988-11991	MRI	_	
+68-26	11992-12000	scanning	_	
+68-27	12001-12006	noise	_	
+68-28	12006-12007	.	_	
+
+#Text=Then, the remaining 230 fMRI images were obtained with slice time correction for the acquisition time delay and realignment of the head motion correction.
+69-1	12008-12012	Then	_	
+69-2	12012-12013	,	_	
+69-3	12014-12017	the	_	
+69-4	12018-12027	remaining	_	
+69-5	12028-12031	230	_	
+69-6	12032-12036	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol[24]	
+69-7	12037-12043	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol[24]	
+69-8	12044-12048	were	_	
+69-9	12049-12057	obtained	_	
+69-10	12058-12062	with	_	
+69-11	12063-12068	slice	_	
+69-12	12069-12073	time	_	
+69-13	12074-12084	correction	_	
+69-14	12085-12088	for	_	
+69-15	12089-12092	the	_	
+69-16	12093-12104	acquisition	_	
+69-17	12105-12109	time	_	
+69-18	12110-12115	delay	_	
+69-19	12116-12119	and	_	
+69-20	12120-12131	realignment	_	
+69-21	12132-12134	of	_	
+69-22	12135-12138	the	_	
+69-23	12139-12143	head	_	
+69-24	12144-12150	motion	_	
+69-25	12151-12161	correction	_	
+69-26	12161-12162	.	_	
+
+#Text=One patient and two control subjects, who showed head motion >1.5 mm or 1.5° during image acquisition, were excluded in subsequent analysis.
+70-1	12163-12166	One	_	
+70-2	12167-12174	patient	_	
+70-3	12175-12178	and	_	
+70-4	12179-12182	two	_	
+70-5	12183-12190	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[25]	
+70-6	12191-12199	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[25]	
+70-7	12199-12200	,	_	
+70-8	12201-12204	who	_	
+70-9	12205-12211	showed	_	
+70-10	12212-12216	head	_	
+70-11	12217-12223	motion	_	
+70-12	12224-12225	>	_	
+70-13	12225-12228	1.5	_	
+70-14	12228-12229	 	_	
+70-15	12229-12231	mm	_	
+70-16	12232-12234	or	_	
+70-17	12235-12238	1.5	_	
+70-18	12238-12239	°	_	
+70-19	12240-12246	during	_	
+70-20	12247-12252	image	_	
+70-21	12253-12264	acquisition	_	
+70-22	12264-12265	,	_	
+70-23	12266-12270	were	_	
+70-24	12271-12279	excluded	_	
+70-25	12280-12282	in	_	
+70-26	12283-12293	subsequent	_	
+70-27	12294-12302	analysis	_	
+70-28	12302-12303	.	_	
+
+#Text=All realigned images were normalized to the standard Montreal Neurological Institute (MNI) template by applying the echo planar imaging (EPI) template at a 3 × 3 × 3 mm3 resolution.
+71-1	12304-12307	All	_	
+71-2	12308-12317	realigned	_	
+71-3	12318-12324	images	_	
+71-4	12325-12329	were	_	
+71-5	12330-12340	normalized	_	
+71-6	12341-12343	to	_	
+71-7	12344-12347	the	_	
+71-8	12348-12356	standard	_	
+71-9	12357-12365	Montreal	_	
+71-10	12366-12378	Neurological	_	
+71-11	12379-12388	Institute	_	
+71-12	12389-12390	(	_	
+71-13	12390-12393	MNI	_	
+71-14	12393-12394	)	_	
+71-15	12395-12403	template	_	
+71-16	12404-12406	by	_	
+71-17	12407-12415	applying	_	
+71-18	12416-12419	the	_	
+71-19	12420-12424	echo	_	
+71-20	12425-12431	planar	_	
+71-21	12432-12439	imaging	_	
+71-22	12440-12441	(	_	
+71-23	12441-12444	EPI	_	
+71-24	12444-12445	)	_	
+71-25	12446-12454	template	_	
+71-26	12455-12457	at	_	
+71-27	12458-12459	a	_	
+71-28	12460-12461	3	_	
+71-29	12461-12462	 	_	
+71-30	12462-12463	×	_	
+71-31	12463-12464	 	_	
+71-32	12464-12465	3	_	
+71-33	12465-12466	 	_	
+71-34	12466-12467	×	_	
+71-35	12467-12468	 	_	
+71-36	12468-12469	3	_	
+71-37	12469-12470	 	_	
+71-38	12470-12473	mm3	_	
+71-39	12474-12484	resolution	_	
+71-40	12484-12485	.	_	
+
+#Text=The normalized functional image was subjected to spatial smoothing [6 mm half high full-width (FWHM) Gaussian kernel].
+72-1	12486-12489	The	_	
+72-2	12490-12500	normalized	_	
+72-3	12501-12511	functional	_	
+72-4	12512-12517	image	_	
+72-5	12518-12521	was	_	
+72-6	12522-12531	subjected	_	
+72-7	12532-12534	to	_	
+72-8	12535-12542	spatial	_	
+72-9	12543-12552	smoothing	_	
+72-10	12553-12554	[	_	
+72-11	12554-12555	6	_	
+72-12	12555-12556	 	_	
+72-13	12556-12558	mm	_	
+72-14	12559-12563	half	_	
+72-15	12564-12568	high	_	
+72-16	12569-12579	full-width	_	
+72-17	12580-12581	(	_	
+72-18	12581-12585	FWHM	_	
+72-19	12585-12586	)	_	
+72-20	12587-12595	Gaussian	_	
+72-21	12596-12602	kernel	_	
+72-22	12602-12603	]	_	
+72-23	12603-12604	.	_	
+
+#Text=Finally, the imaging data were processed to remove the linear trends and filtered using typical temporal bandpass (0.01–0.08 Hz) to reduce the low-frequency drift and high-frequency noise.
+73-1	12605-12612	Finally	_	
+73-2	12612-12613	,	_	
+73-3	12614-12617	the	_	
+73-4	12618-12625	imaging	_	
+73-5	12626-12630	data	_	
+73-6	12631-12635	were	_	
+73-7	12636-12645	processed	_	
+73-8	12646-12648	to	_	
+73-9	12649-12655	remove	_	
+73-10	12656-12659	the	_	
+73-11	12660-12666	linear	_	
+73-12	12667-12673	trends	_	
+73-13	12674-12677	and	_	
+73-14	12678-12686	filtered	_	
+73-15	12687-12692	using	_	
+73-16	12693-12700	typical	_	
+73-17	12701-12709	temporal	_	
+73-18	12710-12718	bandpass	_	
+73-19	12719-12720	(	_	
+73-20	12720-12724	0.01	_	
+73-21	12724-12725	–	_	
+73-22	12725-12729	0.08	_	
+73-23	12729-12730	 	_	
+73-24	12730-12732	Hz	_	
+73-25	12732-12733	)	_	
+73-26	12734-12736	to	_	
+73-27	12737-12743	reduce	_	
+73-28	12744-12747	the	_	
+73-29	12748-12761	low-frequency	_	
+73-30	12762-12767	drift	_	
+73-31	12768-12771	and	_	
+73-32	12772-12786	high-frequency	_	
+73-33	12787-12792	noise	_	
+73-34	12792-12793	.	_	
+
+#Text=For calculating the DC, we performed voxel-wise voxel-based whole-brain correlation analysis on the pre-processed fMRI data, as described previously.
+74-1	12794-12797	For	_	
+74-2	12798-12809	calculating	_	
+74-3	12810-12813	the	_	
+74-4	12814-12816	DC	_	
+74-5	12816-12817	,	_	
+74-6	12818-12820	we	_	
+74-7	12821-12830	performed	_	
+74-8	12831-12841	voxel-wise	_	
+74-9	12842-12853	voxel-based	_	
+74-10	12854-12865	whole-brain	_	
+74-11	12866-12877	correlation	_	
+74-12	12878-12886	analysis	_	
+74-13	12887-12889	on	_	
+74-14	12890-12893	the	_	
+74-15	12894-12907	pre-processed	_	
+74-16	12908-12912	fMRI	_	
+74-17	12913-12917	data	_	
+74-18	12917-12918	,	_	
+74-19	12919-12921	as	_	
+74-20	12922-12931	described	_	
+74-21	12932-12942	previously	_	
+74-22	12942-12943	.	_	
+
+#Text=The time course of each voxel in each brain was correlated to every other voxel time course in the GM mask.
+75-1	12944-12947	The	_	
+75-2	12948-12952	time	_	
+75-3	12953-12959	course	_	
+75-4	12960-12962	of	_	
+75-5	12963-12967	each	_	
+75-6	12968-12973	voxel	_	
+75-7	12974-12976	in	_	
+75-8	12977-12981	each	_	
+75-9	12982-12987	brain	_	
+75-10	12988-12991	was	_	
+75-11	12992-13002	correlated	_	
+75-12	13003-13005	to	_	
+75-13	13006-13011	every	_	
+75-14	13012-13017	other	_	
+75-15	13018-13023	voxel	_	
+75-16	13024-13028	time	_	
+75-17	13029-13035	course	_	
+75-18	13036-13038	in	_	
+75-19	13039-13042	the	_	
+75-20	13043-13045	GM	_	
+75-21	13046-13050	mask	_	
+75-22	13050-13051	.	_	
+
+#Text=Thus, we could acquire a n × n matrix of Pearson's correlation coefficients between any pair of voxels, where n is the voxel number of the GM mask.
+76-1	13052-13056	Thus	_	
+76-2	13056-13057	,	_	
+76-3	13058-13060	we	_	
+76-4	13061-13066	could	_	
+76-5	13067-13074	acquire	_	
+76-6	13075-13076	a	_	
+76-7	13077-13078	n	_	
+76-8	13078-13079	 	_	
+76-9	13079-13080	×	_	
+76-10	13080-13081	 	_	
+76-11	13081-13082	n	_	
+76-12	13083-13089	matrix	_	
+76-13	13090-13092	of	_	
+76-14	13093-13102	Pearson's	_	
+76-15	13103-13114	correlation	_	
+76-16	13115-13127	coefficients	_	
+76-17	13128-13135	between	_	
+76-18	13136-13139	any	_	
+76-19	13140-13144	pair	_	
+76-20	13145-13147	of	_	
+76-21	13148-13154	voxels	_	
+76-22	13154-13155	,	_	
+76-23	13156-13161	where	_	
+76-24	13162-13163	n	_	
+76-25	13164-13166	is	_	
+76-26	13167-13170	the	_	
+76-27	13171-13176	voxel	_	
+76-28	13177-13183	number	_	
+76-29	13184-13186	of	_	
+76-30	13187-13190	the	_	
+76-31	13191-13193	GM	_	
+76-32	13194-13198	mask	_	
+76-33	13198-13199	.	_	
+
+#Text=Next, we transformed the Pearson's correlation data into normally distributed Fisher Z-scores and constructed the whole-brain functional network by thresholding each correlation at r > 0.25.
+77-1	13200-13204	Next	_	
+77-2	13204-13205	,	_	
+77-3	13206-13208	we	_	
+77-4	13209-13220	transformed	_	
+77-5	13221-13224	the	_	
+77-6	13225-13234	Pearson's	_	
+77-7	13235-13246	correlation	_	
+77-8	13247-13251	data	_	
+77-9	13252-13256	into	_	
+77-10	13257-13265	normally	_	
+77-11	13266-13277	distributed	_	
+77-12	13278-13284	Fisher	_	
+77-13	13285-13293	Z-scores	_	
+77-14	13294-13297	and	_	
+77-15	13298-13309	constructed	_	
+77-16	13310-13313	the	_	
+77-17	13314-13325	whole-brain	_	
+77-18	13326-13336	functional	_	
+77-19	13337-13344	network	_	
+77-20	13345-13347	by	_	
+77-21	13348-13360	thresholding	_	
+77-22	13361-13365	each	_	
+77-23	13366-13377	correlation	_	
+77-24	13378-13380	at	_	
+77-25	13381-13382	r	_	
+77-26	13382-13383	 	_	
+77-27	13383-13384	>	_	
+77-28	13384-13385	 	_	
+77-29	13385-13389	0.25	_	
+77-30	13389-13390	.	_	
+
+#Text=The threshold was the default setting while constructing the DC map.
+78-1	13391-13394	The	_	
+78-2	13395-13404	threshold	_	
+78-3	13405-13408	was	_	
+78-4	13409-13412	the	_	
+78-5	13413-13420	default	_	
+78-6	13421-13428	setting	_	
+78-7	13429-13434	while	_	
+78-8	13435-13447	constructing	_	
+78-9	13448-13451	the	_	
+78-10	13452-13454	DC	_	
+78-11	13455-13458	map	_	
+78-12	13458-13459	.	_	
+
+#Text=Only positive Pearson's correlation coefficients were considered in the present study.
+79-1	13460-13464	Only	_	
+79-2	13465-13473	positive	_	
+79-3	13474-13483	Pearson's	_	
+79-4	13484-13495	correlation	_	
+79-5	13496-13508	coefficients	_	
+79-6	13509-13513	were	_	
+79-7	13514-13524	considered	_	
+79-8	13525-13527	in	_	
+79-9	13528-13531	the	_	
+79-10	13532-13539	present	_	
+79-11	13540-13545	study	_	
+79-12	13545-13546	.	_	
+
+#Text=For a given voxel, the DC was calculated as the sum of the significant connections at the individual level.
+80-1	13547-13550	For	_	
+80-2	13551-13552	a	_	
+80-3	13553-13558	given	_	
+80-4	13559-13564	voxel	_	
+80-5	13564-13565	,	_	
+80-6	13566-13569	the	_	
+80-7	13570-13572	DC	_	
+80-8	13573-13576	was	_	
+80-9	13577-13587	calculated	_	
+80-10	13588-13590	as	_	
+80-11	13591-13594	the	_	
+80-12	13595-13598	sum	_	
+80-13	13599-13601	of	_	
+80-14	13602-13605	the	_	
+80-15	13606-13617	significant	_	
+80-16	13618-13629	connections	_	
+80-17	13630-13632	at	_	
+80-18	13633-13636	the	_	
+80-19	13637-13647	individual	_	
+80-20	13648-13653	level	_	
+80-21	13653-13654	.	_	
+
+#Text=As described by previous studies, DC represents the number of direct connections for a given voxel in the voxel-based graphs.
+81-1	13655-13657	As	_	
+81-2	13658-13667	described	_	
+81-3	13668-13670	by	_	
+81-4	13671-13679	previous	_	
+81-5	13680-13687	studies	_	
+81-6	13687-13688	,	_	
+81-7	13689-13691	DC	_	
+81-8	13692-13702	represents	_	
+81-9	13703-13706	the	_	
+81-10	13707-13713	number	_	
+81-11	13714-13716	of	_	
+81-12	13717-13723	direct	_	
+81-13	13724-13735	connections	_	
+81-14	13736-13739	for	_	
+81-15	13740-13741	a	_	
+81-16	13742-13747	given	_	
+81-17	13748-13753	voxel	_	
+81-18	13754-13756	in	_	
+81-19	13757-13760	the	_	
+81-20	13761-13772	voxel-based	_	
+81-21	13773-13779	graphs	_	
+81-22	13779-13780	.	_	
+
+#Text=It has been widely used to represent the node characteristics of large-scale brain intrinsic connectivity networks.
+82-1	13781-13783	It	_	
+82-2	13784-13787	has	_	
+82-3	13788-13792	been	_	
+82-4	13793-13799	widely	_	
+82-5	13800-13804	used	_	
+82-6	13805-13807	to	_	
+82-7	13808-13817	represent	_	
+82-8	13818-13821	the	_	
+82-9	13822-13826	node	_	
+82-10	13827-13842	characteristics	_	
+82-11	13843-13845	of	_	
+82-12	13846-13857	large-scale	_	
+82-13	13858-13863	brain	_	
+82-14	13864-13873	intrinsic	_	
+82-15	13874-13886	connectivity	_	
+82-16	13887-13895	networks	_	
+82-17	13895-13896	.	_	
+
+#Text=Statistical analysis
+#Text=The differences in age, education, and nicotine use between the CCS-dependent and control groups were assessed by two-sample two-tailed t-tests using SPSS statistical software.
+83-1	13897-13908	Statistical	_	
+83-2	13909-13917	analysis	_	
+83-3	13918-13921	The	_	
+83-4	13922-13933	differences	_	
+83-5	13934-13936	in	_	
+83-6	13937-13940	age	_	
+83-7	13940-13941	,	_	
+83-8	13942-13951	education	_	
+83-9	13951-13952	,	_	
+83-10	13953-13956	and	_	
+83-11	13957-13965	nicotine	_	
+83-12	13966-13969	use	_	
+83-13	13970-13977	between	_	
+83-14	13978-13981	the	_	
+83-15	13982-13995	CCS-dependent	_	
+83-16	13996-13999	and	_	
+83-17	14000-14007	control	_	
+83-18	14008-14014	groups	_	
+83-19	14015-14019	were	_	
+83-20	14020-14028	assessed	_	
+83-21	14029-14031	by	_	
+83-22	14032-14042	two-sample	_	
+83-23	14043-14053	two-tailed	_	
+83-24	14054-14061	t-tests	_	
+83-25	14062-14067	using	_	
+83-26	14068-14072	SPSS	_	
+83-27	14073-14084	statistical	_	
+83-28	14085-14093	software	_	
+83-29	14093-14094	.	_	
+
+#Text=A two-tailed Pearson's chi-square test was performed to determine the differences in the gender between the two groups.
+84-1	14095-14096	A	_	
+84-2	14097-14107	two-tailed	_	
+84-3	14108-14117	Pearson's	_	
+84-4	14118-14128	chi-square	_	
+84-5	14129-14133	test	_	
+84-6	14134-14137	was	_	
+84-7	14138-14147	performed	_	
+84-8	14148-14150	to	_	
+84-9	14151-14160	determine	_	
+84-10	14161-14164	the	_	
+84-11	14165-14176	differences	_	
+84-12	14177-14179	in	_	
+84-13	14180-14183	the	_	
+84-14	14184-14190	gender	_	
+84-15	14191-14198	between	_	
+84-16	14199-14202	the	_	
+84-17	14203-14206	two	_	
+84-18	14207-14213	groups	_	
+84-19	14213-14214	.	_	
+
+#Text=To examine the between-group differences in the DC using zDC maps, a two-sample t-test was performed between the two groups using REST.
+85-1	14215-14217	To	_	
+85-2	14218-14225	examine	_	
+85-3	14226-14229	the	_	
+85-4	14230-14243	between-group	_	
+85-5	14244-14255	differences	_	
+85-6	14256-14258	in	_	
+85-7	14259-14262	the	_	
+85-8	14263-14265	DC	_	
+85-9	14266-14271	using	_	
+85-10	14272-14275	zDC	_	
+85-11	14276-14280	maps	_	
+85-12	14280-14281	,	_	
+85-13	14282-14283	a	_	
+85-14	14284-14294	two-sample	_	
+85-15	14295-14301	t-test	_	
+85-16	14302-14305	was	_	
+85-17	14306-14315	performed	_	
+85-18	14316-14323	between	_	
+85-19	14324-14327	the	_	
+85-20	14328-14331	two	_	
+85-21	14332-14338	groups	_	
+85-22	14339-14344	using	_	
+85-23	14345-14349	REST	_	
+85-24	14349-14350	.	_	
+
+#Text=A correction for multiple comparisons was performed by Monte Carlo simulation using the AlphaSim program, (http://afni.nimh.nih.gov).
+86-1	14351-14352	A	_	
+86-2	14353-14363	correction	_	
+86-3	14364-14367	for	_	
+86-4	14368-14376	multiple	_	
+86-5	14377-14388	comparisons	_	
+86-6	14389-14392	was	_	
+86-7	14393-14402	performed	_	
+86-8	14403-14405	by	_	
+86-9	14406-14411	Monte	_	
+86-10	14412-14417	Carlo	_	
+86-11	14418-14428	simulation	_	
+86-12	14429-14434	using	_	
+86-13	14435-14438	the	_	
+86-14	14439-14447	AlphaSim	_	
+86-15	14448-14455	program	_	
+86-16	14455-14456	,	_	
+86-17	14457-14458	(	_	
+86-18	14458-14462	http	_	
+86-19	14462-14463	:	_	
+86-20	14463-14464	/	_	
+86-21	14464-14465	/	_	
+86-22	14465-14482	afni.nimh.nih.gov	_	
+86-23	14482-14483	)	_	
+86-24	14483-14484	.	_	
+
+#Text=The AlphaSim program was implemented in the REST software by combining the height threshold of P < 0.001 and an extent threshold of P < 0.01, which corresponded to a corrected P < 0.01.
+87-1	14485-14488	The	_	
+87-2	14489-14497	AlphaSim	_	
+87-3	14498-14505	program	_	
+87-4	14506-14509	was	_	
+87-5	14510-14521	implemented	_	
+87-6	14522-14524	in	_	
+87-7	14525-14528	the	_	
+87-8	14529-14533	REST	_	
+87-9	14534-14542	software	_	
+87-10	14543-14545	by	_	
+87-11	14546-14555	combining	_	
+87-12	14556-14559	the	_	
+87-13	14560-14566	height	_	
+87-14	14567-14576	threshold	_	
+87-15	14577-14579	of	_	
+87-16	14580-14581	P	_	
+87-17	14581-14582	 	_	
+87-18	14582-14583	<	_	
+87-19	14583-14584	 	_	
+87-20	14584-14589	0.001	_	
+87-21	14590-14593	and	_	
+87-22	14594-14596	an	_	
+87-23	14597-14603	extent	_	
+87-24	14604-14613	threshold	_	
+87-25	14614-14616	of	_	
+87-26	14617-14618	P	_	
+87-27	14618-14619	 	_	
+87-28	14619-14620	<	_	
+87-29	14620-14621	 	_	
+87-30	14621-14625	0.01	_	
+87-31	14625-14626	,	_	
+87-32	14627-14632	which	_	
+87-33	14633-14645	corresponded	_	
+87-34	14646-14648	to	_	
+87-35	14649-14650	a	_	
+87-36	14651-14660	corrected	_	
+87-37	14661-14662	P	_	
+87-38	14662-14663	 	_	
+87-39	14663-14664	<	_	
+87-40	14664-14665	 	_	
+87-41	14665-14669	0.01	_	
+87-42	14669-14670	.	_	
+
+#Text=The average DC values of all voxels in the significantly different regions demonstrated by voxel-based analysis were extracted independently using the extract time series in REST and entered into SPSS.
+88-1	14671-14674	The	_	
+88-2	14675-14682	average	_	
+88-3	14683-14685	DC	_	
+88-4	14686-14692	values	_	
+88-5	14693-14695	of	_	
+88-6	14696-14699	all	_	
+88-7	14700-14706	voxels	_	
+88-8	14707-14709	in	_	
+88-9	14710-14713	the	_	
+88-10	14714-14727	significantly	_	
+88-11	14728-14737	different	_	
+88-12	14738-14745	regions	_	
+88-13	14746-14758	demonstrated	_	
+88-14	14759-14761	by	_	
+88-15	14762-14773	voxel-based	_	
+88-16	14774-14782	analysis	_	
+88-17	14783-14787	were	_	
+88-18	14788-14797	extracted	_	
+88-19	14798-14811	independently	_	
+88-20	14812-14817	using	_	
+88-21	14818-14821	the	_	
+88-22	14822-14829	extract	_	
+88-23	14830-14834	time	_	
+88-24	14835-14841	series	_	
+88-25	14842-14844	in	_	
+88-26	14845-14849	REST	_	
+88-27	14850-14853	and	_	
+88-28	14854-14861	entered	_	
+88-29	14862-14866	into	_	
+88-30	14867-14871	SPSS	_	
+88-31	14871-14872	.	_	
+
+#Text=Then, a Pearson's correlation analysis was performed to clarify the relationships between abnormal DC values of significantly different regions and clinical characteristics in CCS-dependent patients, including the duration of CCS usage, age at first CCS use, and BIS-11 scores; the significance levels were set at P < 0.05 (two-tailed).
+89-1	14873-14877	Then	_	
+89-2	14877-14878	,	_	
+89-3	14879-14880	a	_	
+89-4	14881-14890	Pearson's	_	
+89-5	14891-14902	correlation	_	
+89-6	14903-14911	analysis	_	
+89-7	14912-14915	was	_	
+89-8	14916-14925	performed	_	
+89-9	14926-14928	to	_	
+89-10	14929-14936	clarify	_	
+89-11	14937-14940	the	_	
+89-12	14941-14954	relationships	_	
+89-13	14955-14962	between	_	
+89-14	14963-14971	abnormal	_	
+89-15	14972-14974	DC	_	
+89-16	14975-14981	values	_	
+89-17	14982-14984	of	_	
+89-18	14985-14998	significantly	_	
+89-19	14999-15008	different	_	
+89-20	15009-15016	regions	_	
+89-21	15017-15020	and	_	
+89-22	15021-15029	clinical	_	
+89-23	15030-15045	characteristics	_	
+89-24	15046-15048	in	_	
+89-25	15049-15062	CCS-dependent	_	
+89-26	15063-15071	patients	_	
+89-27	15071-15072	,	_	
+89-28	15073-15082	including	_	
+89-29	15083-15086	the	_	
+89-30	15087-15095	duration	_	
+89-31	15096-15098	of	_	
+89-32	15099-15102	CCS	_	
+89-33	15103-15108	usage	_	
+89-34	15108-15109	,	_	
+89-35	15110-15113	age	_	
+89-36	15114-15116	at	_	
+89-37	15117-15122	first	_	
+89-38	15123-15126	CCS	_	
+89-39	15127-15130	use	_	
+89-40	15130-15131	,	_	
+89-41	15132-15135	and	_	
+89-42	15136-15139	BIS	_	
+89-43	15139-15140	-	_	
+89-44	15140-15142	11	_	
+89-45	15143-15149	scores	_	
+89-46	15149-15150	;	_	
+89-47	15151-15154	the	_	
+89-48	15155-15167	significance	_	
+89-49	15168-15174	levels	_	
+89-50	15175-15179	were	_	
+89-51	15180-15183	set	_	
+89-52	15184-15186	at	_	
+89-53	15187-15188	P	_	
+89-54	15188-15189	 	_	
+89-55	15189-15190	<	_	
+89-56	15190-15191	 	_	
+89-57	15191-15195	0.05	_	
+89-58	15196-15197	(	_	
+89-59	15197-15207	two-tailed	_	
+89-60	15207-15208	)	_	
+89-61	15208-15209	.	_	
+

@@ -8,6 +8,13 @@ This model should be used in Tensorflow 1.x and Python 3.x environment.
 bash run_ner.sh
 ```
 
+### Download BERT Base Cased:
+
+```
+wget https://storage.googleapis.com/bert_models/2018_10_18/cased_L-12_H-768_A-12.zip
+unzip cased_L-12_H-768_A-12.zip
+```
+
 ### Binary Classification
 
 Currently we use Bert-Base along with CRF layer. Result of the binary classification will be available in ./output/result_dir/label_test.txt after running the script.

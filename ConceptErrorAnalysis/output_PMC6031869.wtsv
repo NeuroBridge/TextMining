@@ -1,6 +1,6 @@
 #FORMAT=WebAnno TSV 3.3
 #T_SP=webanno.custom.ConceptLayer|identifier
-
+#Human Annotation
 
 Text=Abnormal degree centrality in chronic users of codeine-containing cough syrups: A resting-state functional magnetic resonance imaging study Codeine-containing cough syrups (CCS) have become one of the most popular drugs of abuse in young population worldwide.
 1-1	0-8	Abnormal	_
@@ -9,24 +9,24 @@ Text=Abnormal degree centrality in chronic users of codeine-containing cough syr
 1-4	27-29	in	_
 1-5	30-37	chronic	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-6	38-43	users	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-1-7	44-46	of	_
+1-7	44-46	of	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-8	47-65	codeine-containing	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-9	66-71	cough	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-10	72-78	syrups	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-11	78-79	:	_
 1-12	80-81	A	_
-1-13	82-95	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-1-14	96-106	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-1-15	107-115	magnetic	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-1-16	116-125	resonance	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-1-17	126-133	imaging	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-1-18	134-139	study	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-1-19	140-158	Codeine-containing	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
-1-20	159-164	cough	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
-1-21	165-171	syrups	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
-1-22	172-173	(	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
-1-23	173-176	CCS	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
-1-24	176-177	)	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-13	82-95	resting-state	_
+1-14	96-106	functional	_
+1-15	107-115	magnetic	_
+1-16	116-125	resonance	_
+1-17	126-133	imaging	_
+1-18	134-139	study	_
+1-19	140-158	Codeine-containing	_
+1-20	159-164	cough	_
+1-21	165-171	syrups	_
+1-22	172-173	(	_
+1-23	173-176	CCS	_
+1-24	176-177	)	_
 1-25	178-182	have	_
 1-26	183-189	become	_
 1-27	190-193	one	_
@@ -67,7 +67,7 @@ Text=Therefore, understanding the brain abnormalities in chronic users of CCS is
 3-8	399-406	chronic	_
 3-9	407-412	users	_
 3-10	413-415	of	_
-3-11	416-419	CCS	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+3-11	416-419	CCS	_
 3-12	420-422	is	_
 3-13	423-430	crucial	_
 3-14	431-434	for	_
@@ -97,7 +97,7 @@ Text=The present study depicted the intrinsic dysconnectivity pattern of whole-b
 4-18	593-600	chronic	_
 4-19	601-606	users	_
 4-20	607-609	of	_
-4-21	610-613	CCS	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+4-21	610-613	CCS	_
 4-22	613-614	.	_
 
 Text=In addition, the degree centrality (DC) changes were correlated to the Barratt Impulsiveness Scale (BIS - 11) total score, dose, duration of CCS use, and the age at first use of cough syrups.
@@ -119,10 +119,10 @@ Text=In addition, the degree centrality (DC) changes were correlated to the Barr
 5-16	694-707	Impulsiveness	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 5-17	708-713	Scale	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 5-18	714-715	(	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-5-19	715-718	BIS	_
-5-20	718-719	-	http://maven.renci.org/NeuroBridge/neurobridge#Thing
-5-21	719-721	11	http://maven.renci.org/NeuroBridge/neurobridge#Thing
-5-22	721-722	)	http://maven.renci.org/NeuroBridge/neurobridge#Thing
+5-19	715-718	BIS	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-20	718-719	-	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-21	719-721	11	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-22	721-722	)	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 5-23	723-728	total	_
 5-24	729-734	score	_
 5-25	734-735	,	_
@@ -150,9 +150,9 @@ Text=The current study included 38 chronic CCS users and 34 matched control subj
 6-3	817-822	study	_
 6-4	823-831	included	_
 6-5	832-834	38	_
-6-6	835-842	chronic	_
-6-7	843-846	CCS	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
-6-8	847-852	users	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+6-6	835-842	chronic	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+6-7	843-846	CCS	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+6-8	847-852	users	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 6-9	853-856	and	_
 6-10	857-859	34	_
 6-11	860-867	matched	_
@@ -167,31 +167,31 @@ Text=All patients were evaluated using the BIS - 11.
 7-4	904-913	evaluated	_
 7-5	914-919	using	_
 7-6	920-923	the	_
-7-7	924-927	BIS	_
-7-8	927-928	-	_
-7-9	928-930	11	_
+7-7	924-927	BIS	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+7-8	927-928	-	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+7-9	928-930	11	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 7-10	930-931	.	_
 
 Text=Next, resting-state functional magnetic resonance imaging (rs-fMRI) datasets were acquired from these CCS users and controls.
 8-1	932-936	Next	_
 8-2	936-937	,	_
-8-3	938-951	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-8-4	952-962	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-8-5	963-971	magnetic	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-8-6	972-981	resonance	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-8-7	982-989	imaging	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-8-8	990-991	(	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-8-9	991-998	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-8-10	998-999	)	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+8-3	938-951	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-4	952-962	functional	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-5	963-971	magnetic	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-6	972-981	resonance	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-7	982-989	imaging	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-8	990-991	(	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-9	991-998	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-10	998-999	)	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 8-11	1000-1008	datasets	_
 8-12	1009-1013	were	_
 8-13	1014-1022	acquired	_
 8-14	1023-1027	from	_
 8-15	1028-1033	these	_
-8-16	1034-1037	CCS	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
-8-17	1038-1043	users	_
+8-16	1034-1037	CCS	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+8-17	1038-1043	users	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 8-18	1044-1047	and	_
-8-19	1048-1056	controls	_
+8-19	1048-1056	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 8-20	1056-1057	.	_
 
 Text=Whole-brain connectivity was analyzed using a graph theory approach: degree centrality (DC).
@@ -213,8 +213,8 @@ Text=Whole-brain connectivity was analyzed using a graph theory approach: degree
 9-16	1149-1150	.	_
 
 Text=CCS-dependent individuals exhibited low DC values in the left inferior parietal lobule and the left middle temporal gyrus, while high DC values were noted in the right pallidum and the right hippocampus (P   <  0.01, AlphaSim corrected).
-10-1	1151-1164	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
-10-2	1165-1176	individuals	_
+10-1	1151-1164	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+10-2	1165-1176	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 10-3	1177-1186	exhibited	_
 10-4	1187-1190	low	_
 10-5	1191-1193	DC	_
@@ -290,7 +290,7 @@ Text=Also, significant correlations were established between average DC value in
 
 Text=The rs-fMRI study suggested that the abnormal intrinsic dysconnectivity pattern of whole-brain functional networks may provide an insight into the neural substrates of abnormalities in the cognitive control circuit, the reward circuit, and the learning and memory circuit in CCS-dependent individuals.
 12-1	1561-1564	The	_
-12-2	1565-1572	rs-fMRI	_
+12-2	1565-1572	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 12-3	1573-1578	study	_
 12-4	1579-1588	suggested	_
 12-5	1589-1593	that	_
@@ -330,16 +330,16 @@ Text=The rs-fMRI study suggested that the abnormal intrinsic dysconnectivity pat
 12-39	1818-1824	memory	_
 12-40	1825-1832	circuit	_
 12-41	1833-1835	in	_
-12-42	1836-1849	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
-12-43	1850-1861	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+12-42	1836-1849	CCS-dependent	_
+12-43	1850-1861	individuals	_
 12-44	1861-1862	.	_
 
 Text=Highlights The abuse of CCS has gained a severe foothold among young individuals worldwide.
 13-1	1863-1873	Highlights	_
 13-2	1874-1877	The	_
-13-3	1878-1883	abuse	_
-13-4	1884-1886	of	_
-13-5	1887-1890	CCS	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+13-3	1878-1883	abuse	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+13-4	1884-1886	of	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+13-5	1887-1890	CCS	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 13-6	1891-1894	has	_
 13-7	1895-1901	gained	_
 13-8	1902-1903	a	_
@@ -382,13 +382,13 @@ Text=The present study depicted intrinsic dysconnectivity pattern of whole-brain
 15-10	2123-2133	functional	_
 15-11	2134-2142	networks	_
 15-12	2143-2145	in	_
-15-13	2146-2159	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
-15-14	2160-2171	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+15-13	2146-2159	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+15-14	2160-2171	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 15-15	2171-2172	.	_
 
 Text=CCS-dependent individuals showed altered DC in the right pallidum, right hippocampus, left IPL and left middle temporal gyrus.
-16-1	2173-2186	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
-16-2	2187-2198	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+16-1	2173-2186	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+16-2	2187-2198	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 16-3	2199-2205	showed	_
 16-4	2206-2213	altered	_
 16-5	2214-2216	DC	_
@@ -482,8 +482,8 @@ Text=A total of 72 right-handed participants, including 34 control subjects and 
 51-11	8890-8898	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 51-12	8899-8902	and	_
 51-13	8903-8905	38	_
-51-14	8906-8919	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
-51-15	8920-8931	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+51-14	8906-8919	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+51-15	8920-8931	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 51-16	8931-8932	,	_
 51-17	8933-8937	were	_
 51-18	8938-8946	enrolled	_
@@ -494,8 +494,8 @@ Text=A total of 72 right-handed participants, including 34 control subjects and 
 
 Text=The CCS-dependent individuals were recruited from the patients seeking treatment at the Addiction Medicine Division of the Guangdong Second Provincial General Hospital.
 52-1	8962-8965	The	_
-52-2	8966-8979	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
-52-3	8980-8991	individuals	_
+52-2	8966-8979	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+52-3	8980-8991	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 52-4	8992-8996	were	_
 52-5	8997-9006	recruited	_
 52-6	9007-9011	from	_
@@ -619,8 +619,8 @@ Text=The inclusion criteria for the control subjects was the absence of diagnosi
 56-3	9682-9690	criteria	_
 56-4	9691-9694	for	_
 56-5	9695-9698	the	_
-56-6	9699-9706	control	_
-56-7	9707-9715	subjects	_
+56-6	9699-9706	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+56-7	9707-9715	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 56-8	9716-9719	was	_
 56-9	9720-9723	the	_
 56-10	9724-9731	absence	_
@@ -637,11 +637,11 @@ Text=The inclusion criteria for the control subjects was the absence of diagnosi
 56-21	9789-9790	.	_
 
 Text=Impulsivity assessment BIS - 11 was used for assessing the impulsivity.
-57-1	9791-9802	Impulsivity	_
-57-2	9803-9813	assessment	_
-57-3	9814-9817	BIS	_
-57-4	9817-9818	-	_
-57-5	9818-9820	11	_
+57-1	9791-9802	Impulsivity	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+57-2	9803-9813	assessment	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+57-3	9814-9817	BIS	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+57-4	9817-9818	-	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+57-5	9818-9820	11	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 57-6	9821-9824	was	_
 57-7	9825-9829	used	_
 57-8	9830-9833	for	_
@@ -746,9 +746,9 @@ Text=To determine the overall impulsiveness scores, all items are summed; high s
 60-18	10337-10338	.	_
 
 Text=BIS - 11 is a valid and reliable instrument for healthy Chinese and psychiatric populations.
-61-1	10339-10342	BIS	_
-61-2	10342-10343	-	_
-61-3	10343-10345	11	_
+61-1	10339-10342	BIS	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+61-2	10342-10343	-	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+61-3	10343-10345	11	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 61-4	10346-10348	is	_
 61-5	10349-10350	a	_
 61-6	10351-10356	valid	_
@@ -766,22 +766,22 @@ Text=BIS - 11 is a valid and reliable instrument for healthy Chinese and psychia
 Text=Data acquisition All MRI datasets were obtained using a Philips Achieva 1.5   T Nova dual MR scanner at the Department of Medical Imaging, Guangdong Second Provincial General Hospital.
 62-1	10430-10434	Data	_
 62-2	10435-10446	acquisition	_
-62-3	10447-10450	All	_
+62-3	10447-10450	All	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 62-4	10451-10454	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
-62-5	10455-10463	datasets	_
+62-5	10455-10463	datasets	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 62-6	10464-10468	were	_
 62-7	10469-10477	obtained	_
 62-8	10478-10483	using	_
 62-9	10484-10485	a	_
-62-10	10486-10493	Philips	http://maven.renci.org/NeuroBridge/neurobridge#WideRangeAchievementTest
-62-11	10494-10501	Achieva	http://maven.renci.org/NeuroBridge/neurobridge#WideRangeAchievementTest
+62-10	10486-10493	Philips	_
+62-11	10494-10501	Achieva	_
 62-12	10502-10505	1.5	_
-62-13	10505-10506	 	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
-62-14	10506-10507	T	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
-62-15	10508-10512	Nova	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
-62-16	10513-10517	dual	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
-62-17	10518-10520	MR	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
-62-18	10521-10528	scanner	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+62-13	10505-10506	 	_
+62-14	10506-10507	T	_
+62-15	10508-10512	Nova	_
+62-16	10513-10517	dual	_
+62-17	10518-10520	MR	_
+62-18	10521-10528	scanner	_
 62-19	10529-10531	at	_
 62-20	10532-10535	the	_
 62-21	10536-10546	Department	_
@@ -801,7 +801,7 @@ Text=These datasets included rs-fMRI dataset and T1 - weighted structural images
 63-2	10619-10627	datasets	_
 63-3	10628-10636	included	_
 63-4	10637-10644	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-63-5	10645-10652	dataset	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+63-5	10645-10652	dataset	_
 63-6	10653-10656	and	_
 63-7	10657-10659	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 63-8	10659-10660	-	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -813,7 +813,7 @@ Text=These datasets included rs-fMRI dataset and T1 - weighted structural images
 Text=The rs-fMRI dataset [22 axial slices, repetition time (TR) / echo time (TE)   =   2000   ms / 50   ms, matrix   =   64   ×   64, field of view (FOV)   =   230   ×   230   mm2, slice thickness   =   4.5   mm without gap, flip angle   =   90 °] was acquired using an echo planar imaging (EPI) sequence.
 64-1	10688-10691	The	_
 64-2	10692-10699	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-64-3	10700-10707	dataset	_
+64-3	10700-10707	dataset	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 64-4	10708-10709	[	_
 64-5	10709-10711	22	_
 64-6	10712-10717	axial	_
@@ -891,18 +891,18 @@ Text=The rs-fMRI dataset [22 axial slices, repetition time (TR) / echo time (TE)
 64-78	10894-10902	acquired	_
 64-79	10903-10908	using	_
 64-80	10909-10911	an	_
-64-81	10912-10916	echo	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
-64-82	10917-10923	planar	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
-64-83	10924-10931	imaging	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
-64-84	10932-10933	(	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
-64-85	10933-10936	EPI	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
-64-86	10936-10937	)	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
-64-87	10938-10946	sequence	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+64-81	10912-10916	echo	_
+64-82	10917-10923	planar	_
+64-83	10924-10931	imaging	_
+64-84	10932-10933	(	_
+64-85	10933-10936	EPI	_
+64-86	10936-10937	)	_
+64-87	10938-10946	sequence	_
 64-88	10946-10947	.	_
 
 Text=Each functional run contained 240 volumes (8   min) [the slices were approximately along the anterior commissure-posterior commissure (AC-PC) line and covered approximately 230 to 60 in the inferosuperior direction], and the subjects were asked to lie quietly with their eyes closed and avoid eye movement or thinking of anything specific or falling asleep while in the scanner, during the rs-fMRI data acquisition.
 65-1	10948-10952	Each	_
-65-2	10953-10963	functional	_
+65-2	10953-10963	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 65-3	10964-10967	run	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 65-4	10968-10977	contained	_
 65-5	10978-10981	240	_
@@ -975,7 +975,7 @@ Text=Each functional run contained 240 volumes (8   min) [the slices were appr
 65-72	11360-11361	.	_
 
 Text=Sagittal structural images (160 sagittal slices, TR / TE   =   25   ms / 4.1   ms, thickness   =   1.0   mm, no gap, in-plane resolution   =   231   ×   232, FOV   =   230   ×   230   mm, flip angle   =   30 °) were acquired using a fast field echo (FFE) three-dimensional (3D) T1 - weighted sequence.
-66-1	11362-11370	Sagittal	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
+66-1	11362-11370	Sagittal	_
 66-2	11371-11381	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 66-3	11382-11388	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 66-4	11389-11390	(	_
@@ -1045,10 +1045,10 @@ Text=Sagittal structural images (160 sagittal slices, TR / TE   =   25   m
 66-68	11552-11553	a	_
 66-69	11554-11558	fast	_
 66-70	11559-11564	field	_
-66-71	11565-11569	echo	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
-66-72	11570-11571	(	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
-66-73	11571-11574	FFE	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
-66-74	11574-11575	)	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+66-71	11565-11569	echo	_
+66-72	11570-11571	(	_
+66-73	11571-11574	FFE	_
+66-74	11574-11575	)	_
 66-75	11576-11593	three-dimensional	_
 66-76	11594-11595	(	_
 66-77	11595-11597	3D	_
@@ -1122,7 +1122,7 @@ Text=Before pre-processing, the first 10 volumes were discarded for each subject
 68-22	11973-11980	adapted	_
 68-23	11981-11983	to	_
 68-24	11984-11987	the	_
-68-25	11988-11991	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+68-25	11988-11991	MRI	_
 68-26	11992-12000	scanning	_
 68-27	12001-12006	noise	_
 68-28	12006-12007	.	_
@@ -1133,8 +1133,8 @@ Text=Then, the remaining 230 fMRI images were obtained with slice time correctio
 69-3	12014-12017	the	_
 69-4	12018-12027	remaining	_
 69-5	12028-12031	230	_
-69-6	12032-12036	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-69-7	12037-12043	images	_
+69-6	12032-12036	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+69-7	12037-12043	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 69-8	12044-12048	were	_
 69-9	12049-12057	obtained	_
 69-10	12058-12062	with	_
@@ -1160,8 +1160,8 @@ Text=One patient and two control subjects, who showed head motion> 1.5   mm or
 70-2	12167-12174	patient	_
 70-3	12175-12178	and	_
 70-4	12179-12182	two	_
-70-5	12183-12190	control	_
-70-6	12191-12199	subjects	_
+70-5	12183-12190	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+70-6	12191-12199	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 70-7	12199-12200	,	_
 70-8	12201-12204	who	_
 70-9	12205-12211	showed	_
@@ -1205,11 +1205,11 @@ Text=All realigned images were normalized to the standard Montreal Neurological 
 71-17	12407-12415	applying	_
 71-18	12416-12419	the	_
 71-19	12420-12424	echo	_
-71-20	12425-12431	planar	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
-71-21	12432-12439	imaging	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
-71-22	12440-12441	(	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
-71-23	12441-12444	EPI	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
-71-24	12444-12445	)	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+71-20	12425-12431	planar	_
+71-21	12432-12439	imaging	_
+71-22	12440-12441	(	_
+71-23	12441-12444	EPI	_
+71-24	12444-12445	)	_
 71-25	12446-12454	template	_
 71-26	12455-12457	at	_
 71-27	12458-12459	a	_

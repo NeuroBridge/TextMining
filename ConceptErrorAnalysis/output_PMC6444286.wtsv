@@ -1,0 +1,3447 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.ConceptLayer|identifier
+
+
+#Human Annotation
+Text=Bayesian computational markers of relapse in methamphetamine dependence Methamphetamine use disorder is associated with a high likelihood of relapse.
+1-1	0-8	Bayesian	_
+1-2	9-22	computational	_
+1-3	23-30	markers	_
+1-4	31-33	of	_
+1-5	34-41	relapse	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-6	42-44	in	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-7	45-60	methamphetamine	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-8	61-71	dependence	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-9	72-87	Methamphetamine	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-10	88-91	use	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-11	92-100	disorder	_
+1-12	101-103	is	_
+1-13	104-114	associated	_
+1-14	115-119	with	_
+1-15	120-121	a	_
+1-16	122-126	high	_
+1-17	127-137	likelihood	_
+1-18	138-140	of	_
+1-19	141-148	relapse	_
+1-20	148-149	.	_
+
+Text=Identifying robust predictors of relapse that have explanatory power is critical to develop secondary prevention based on a mechanistic understanding of relapse.
+2-1	150-161	Identifying	_
+2-2	162-168	robust	_
+2-3	169-179	predictors	_
+2-4	180-182	of	_
+2-5	183-190	relapse	_
+2-6	191-195	that	_
+2-7	196-200	have	_
+2-8	201-212	explanatory	_
+2-9	213-218	power	_
+2-10	219-221	is	_
+2-11	222-230	critical	_
+2-12	231-233	to	_
+2-13	234-241	develop	_
+2-14	242-251	secondary	_
+2-15	252-262	prevention	_
+2-16	263-268	based	_
+2-17	269-271	on	_
+2-18	272-273	a	_
+2-19	274-285	mechanistic	_
+2-20	286-299	understanding	_
+2-21	300-302	of	_
+2-22	303-310	relapse	_
+2-23	310-311	.	_
+
+Text=Computational approaches have the potential to identify such predictive markers of psychiatric illness, with the advantage of providing a finer mechanistic explanation of the cognitive processes underlying psychiatric vulnerability.
+3-1	312-325	Computational	_
+3-2	326-336	approaches	_
+3-3	337-341	have	_
+3-4	342-345	the	_
+3-5	346-355	potential	_
+3-6	356-358	to	_
+3-7	359-367	identify	_
+3-8	368-372	such	_
+3-9	373-383	predictive	_
+3-10	384-391	markers	_
+3-11	392-394	of	_
+3-12	395-406	psychiatric	_
+3-13	407-414	illness	_
+3-14	414-415	,	_
+3-15	416-420	with	_
+3-16	421-424	the	_
+3-17	425-434	advantage	_
+3-18	435-437	of	_
+3-19	438-447	providing	_
+3-20	448-449	a	_
+3-21	450-455	finer	_
+3-22	456-467	mechanistic	_
+3-23	468-479	explanation	_
+3-24	480-482	of	_
+3-25	483-486	the	_
+3-26	487-496	cognitive	_
+3-27	497-506	processes	_
+3-28	507-517	underlying	_
+3-29	518-529	psychiatric	_
+3-30	530-543	vulnerability	_
+3-31	543-544	.	_
+
+Text=In this study, sixty-two recently sober methamphetamine-dependent individuals were recruited from a 28 - day inpatient treatment program, and completed a Stop Signal Task (SST) while undergoing functional magnetic resonance imaging (fMRI).
+4-1	545-547	In	_
+4-2	548-552	this	_
+4-3	553-558	study	_
+4-4	558-559	,	_
+4-5	560-569	sixty-two	_
+4-6	570-578	recently	_
+4-7	579-584	sober	_
+4-8	585-610	methamphetamine-dependent	_
+4-9	611-622	individuals	_
+4-10	623-627	were	_
+4-11	628-637	recruited	_
+4-12	638-642	from	_
+4-13	643-644	a	_
+4-14	645-647	28	_
+4-15	647-648	-	_
+4-16	648-651	day	_
+4-17	652-661	inpatient	_
+4-18	662-671	treatment	_
+4-19	672-679	program	_
+4-20	679-680	,	_
+4-21	681-684	and	_
+4-22	685-694	completed	_
+4-23	695-696	a	_
+4-24	697-701	Stop	_
+4-25	702-708	Signal	_
+4-26	709-713	Task	_
+4-27	714-715	(	_
+4-28	715-718	SST	_
+4-29	718-719	)	_
+4-30	720-725	while	_
+4-31	726-736	undergoing	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+4-32	737-747	functional	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+4-33	748-756	magnetic	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+4-34	757-766	resonance	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+4-35	767-774	imaging	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+4-36	775-776	(	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+4-37	776-780	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+4-38	780-781	)	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+4-39	781-782	.	_
+
+Text=These individuals were prospectively followed for 1   year and assessed for relapse to methamphetamine use.
+5-1	783-788	These	_
+5-2	789-800	individuals	_
+5-3	801-805	were	_
+5-4	806-819	prospectively	_
+5-5	820-828	followed	_
+5-6	829-832	for	_
+5-7	833-834	1	_
+5-8	834-835	 	_
+5-9	835-839	year	_
+5-10	840-843	and	_
+5-11	844-852	assessed	_
+5-12	853-856	for	_
+5-13	857-864	relapse	_
+5-14	865-867	to	_
+5-15	868-883	methamphetamine	_
+5-16	884-887	use	_
+5-17	887-888	.	_
+
+Text=Thirty-three percent of followed participants reported relapse.
+6-1	889-901	Thirty-three	_
+6-2	902-909	percent	_
+6-3	910-912	of	_
+6-4	913-921	followed	_
+6-5	922-934	participants	_
+6-6	935-943	reported	_
+6-7	944-951	relapse	_
+6-8	951-952	.	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+
+Text=We found that neural activity associated with two types of Bayesian prediction error, i.e. the difference between actual and expected need to stop on a given trial, significantly differentiated those individuals who remained abstinent and those who relapsed.
+7-1	953-955	We	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-2	956-961	found	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-3	962-966	that	_
+7-4	967-973	neural	_
+7-5	974-982	activity	_
+7-6	983-993	associated	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+7-7	994-998	with	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+7-8	999-1002	two	_
+7-9	1003-1008	types	_
+7-10	1009-1011	of	_
+7-11	1012-1020	Bayesian	_
+7-12	1021-1031	prediction	_
+7-13	1032-1037	error	_
+7-14	1037-1038	,	_
+7-15	1039-1042	i.e	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+7-16	1042-1043	.	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+7-17	1044-1047	the	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+7-18	1048-1058	difference	_
+7-19	1059-1066	between	_
+7-20	1067-1073	actual	_
+7-21	1074-1077	and	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-22	1078-1086	expected	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-23	1087-1091	need	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-24	1092-1094	to	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-25	1095-1099	stop	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-26	1100-1102	on	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-27	1103-1104	a	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-28	1105-1110	given	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-29	1111-1116	trial	_
+7-30	1116-1117	,	_
+7-31	1118-1131	significantly	_
+7-32	1132-1146	differentiated	_
+7-33	1147-1152	those	_
+7-34	1153-1164	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-35	1165-1168	who	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-36	1169-1177	remained	_
+7-37	1178-1187	abstinent	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+7-38	1188-1191	and	_
+7-39	1192-1197	those	_
+7-40	1198-1201	who	_
+7-41	1202-1210	relapsed	_
+7-42	1210-1211	.	_
+
+Text=Specifically, relapsed individuals exhibited smaller neural activations to such Bayesian prediction errors relative to those individuals who remained abstinent in the left temporoparietal junction (Cohen's d   =   0.91), the left inferior frontal gyrus (Cohen's d   =   0.57), and left anterior insula (Cohen's d   =   0.63).
+8-1	1212-1224	Specifically	_
+8-2	1224-1225	,	_
+8-3	1226-1234	relapsed	_
+8-4	1235-1246	individuals	_
+8-5	1247-1256	exhibited	_
+8-6	1257-1264	smaller	_
+8-7	1265-1271	neural	_
+8-8	1272-1283	activations	_
+8-9	1284-1286	to	_
+8-10	1287-1291	such	_
+8-11	1292-1300	Bayesian	_
+8-12	1301-1311	prediction	_
+8-13	1312-1318	errors	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+8-14	1319-1327	relative	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+8-15	1328-1330	to	_
+8-16	1331-1336	those	_
+8-17	1337-1348	individuals	_
+8-18	1349-1352	who	_
+8-19	1353-1361	remained	_
+8-20	1362-1371	abstinent	_
+8-21	1372-1374	in	_
+8-22	1375-1378	the	_
+8-23	1379-1383	left	_
+8-24	1384-1399	temporoparietal	_
+8-25	1400-1408	junction	_
+8-26	1409-1410	(	_
+8-27	1410-1417	Cohen's	_
+8-28	1418-1419	d	_
+8-29	1419-1420	 	_
+8-30	1420-1421	=	_
+8-31	1421-1422	 	_
+8-32	1422-1426	0.91	_
+8-33	1426-1427	)	_
+8-34	1427-1428	,	_
+8-35	1429-1432	the	_
+8-36	1433-1437	left	_
+8-37	1438-1446	inferior	_
+8-38	1447-1454	frontal	_
+8-39	1455-1460	gyrus	_
+8-40	1461-1462	(	_
+8-41	1462-1469	Cohen's	_
+8-42	1470-1471	d	_
+8-43	1471-1472	 	_
+8-44	1472-1473	=	_
+8-45	1473-1474	 	_
+8-46	1474-1478	0.57	_
+8-47	1478-1479	)	_
+8-48	1479-1480	,	_
+8-49	1481-1484	and	_
+8-50	1485-1489	left	_
+8-51	1490-1498	anterior	_
+8-52	1499-1505	insula	_
+8-53	1506-1507	(	_
+8-54	1507-1514	Cohen's	_
+8-55	1515-1516	d	_
+8-56	1516-1517	 	_
+8-57	1517-1518	=	_
+8-58	1518-1519	 	_
+8-59	1519-1523	0.63	_
+8-60	1523-1524	)	_
+8-61	1524-1525	.	_
+
+Text=In contrast, abstinent and relapsed participants did not differ in neural activation to non-model based task contrasts or on various self-report clinical measures.
+9-1	1526-1528	In	_
+9-2	1529-1537	contrast	_
+9-3	1537-1538	,	_
+9-4	1539-1548	abstinent	_
+9-5	1549-1552	and	_
+9-6	1553-1561	relapsed	_
+9-7	1562-1574	participants	_
+9-8	1575-1578	did	_
+9-9	1579-1582	not	_
+9-10	1583-1589	differ	_
+9-11	1590-1592	in	_
+9-12	1593-1599	neural	_
+9-13	1600-1610	activation	_
+9-14	1611-1613	to	_
+9-15	1614-1623	non-model	_
+9-16	1624-1629	based	_
+9-17	1630-1634	task	_
+9-18	1635-1644	contrasts	_
+9-19	1645-1647	or	_
+9-20	1648-1650	on	_
+9-21	1651-1658	various	_
+9-22	1659-1670	self-report	_
+9-23	1671-1679	clinical	_
+9-24	1680-1688	measures	_
+9-25	1688-1689	.	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+
+Text=In conclusion, Bayesian cognitive models may help identify predictive biomarkers of relapse, while providing a computational explanation of belief processing and updating deficits in individuals with methamphetamine use disorder.
+10-1	1690-1692	In	_
+10-2	1693-1703	conclusion	_
+10-3	1703-1704	,	_
+10-4	1705-1713	Bayesian	_
+10-5	1714-1723	cognitive	_
+10-6	1724-1730	models	_
+10-7	1731-1734	may	_
+10-8	1735-1739	help	_
+10-9	1740-1748	identify	_
+10-10	1749-1759	predictive	_
+10-11	1760-1770	biomarkers	_
+10-12	1771-1773	of	_
+10-13	1774-1781	relapse	_
+10-14	1781-1782	,	_
+10-15	1783-1788	while	_
+10-16	1789-1798	providing	_
+10-17	1799-1800	a	_
+10-18	1801-1814	computational	_
+10-19	1815-1826	explanation	_
+10-20	1827-1829	of	_
+10-21	1830-1836	belief	_
+10-22	1837-1847	processing	_
+10-23	1848-1851	and	_
+10-24	1852-1860	updating	_
+10-25	1861-1869	deficits	_
+10-26	1870-1872	in	_
+10-27	1873-1884	individuals	_
+10-28	1885-1889	with	_
+10-29	1890-1905	methamphetamine	_
+10-30	1906-1909	use	_
+10-31	1910-1918	disorder	_
+10-32	1918-1919	.	_
+
+Text=Highlights Methamphetamine-dependent individuals (MDI) face a high rate of relapse after treatment.
+11-1	1920-1930	Highlights	_
+11-2	1931-1956	Methamphetamine-dependent	_
+11-3	1957-1968	individuals	_
+11-4	1969-1970	(	_
+11-5	1970-1973	MDI	_
+11-6	1973-1974	)	_
+11-7	1975-1979	face	_
+11-8	1980-1981	a	_
+11-9	1982-1986	high	_
+11-10	1987-1991	rate	_
+11-11	1992-1994	of	_
+11-12	1995-2002	relapse	_
+11-13	2003-2008	after	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+11-14	2009-2018	treatment	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+11-15	2018-2019	.	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+
+Text=Can a Bayesian learning modeling and fMRI be used to identify markers of relapse?
+12-1	2020-2023	Can	_
+12-2	2024-2025	a	_
+12-3	2026-2034	Bayesian	_
+12-4	2035-2043	learning	_
+12-5	2044-2052	modeling	_
+12-6	2053-2056	and	_
+12-7	2057-2061	fMRI	_
+12-8	2062-2064	be	_
+12-9	2065-2069	used	_
+12-10	2070-2072	to	_
+12-11	2073-2081	identify	_
+12-12	2082-2089	markers	_
+12-13	2090-2092	of	_
+12-14	2093-2100	relapse	_
+12-15	2100-2101	?	_
+
+Text=MDI who relapsed within 1   year have smaller activation to Bayesian model-based prediction errors.
+13-1	2102-2105	MDI	_
+13-2	2106-2109	who	_
+13-3	2110-2118	relapsed	_
+13-4	2119-2125	within	_
+13-5	2126-2127	1	_
+13-6	2127-2128	 	_
+13-7	2128-2132	year	_
+13-8	2133-2137	have	_
+13-9	2138-2145	smaller	_
+13-10	2146-2156	activation	_
+13-11	2157-2159	to	_
+13-12	2160-2168	Bayesian	_
+13-13	2169-2180	model-based	_
+13-14	2181-2191	prediction	_
+13-15	2192-2198	errors	_
+13-16	2198-2199	.	_
+
+Text=Such neural pattern was observed in left temporo-parietal junction, IFG, and anterior insula.
+14-1	2200-2204	Such	_
+14-2	2205-2211	neural	_
+14-3	2212-2219	pattern	_
+14-4	2220-2223	was	_
+14-5	2224-2232	observed	_
+14-6	2233-2235	in	_
+14-7	2236-2240	left	_
+14-8	2241-2257	temporo-parietal	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+14-9	2258-2266	junction	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+14-10	2266-2267	,	_
+14-11	2268-2271	IFG	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+14-12	2271-2272	,	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+14-13	2273-2276	and	_
+14-14	2277-2285	anterior	_
+14-15	2286-2292	insula	_
+14-16	2292-2293	.	_
+
+Text=MDI more likely to relapse show weaker tracking of uncertainty and updating of their belief model.
+15-1	2294-2297	MDI	_
+15-2	2298-2302	more	_
+15-3	2303-2309	likely	_
+15-4	2310-2312	to	_
+15-5	2313-2320	relapse	_
+15-6	2321-2325	show	_
+15-7	2326-2332	weaker	_
+15-8	2333-2341	tracking	_
+15-9	2342-2344	of	_
+15-10	2345-2356	uncertainty	_
+15-11	2357-2360	and	_
+15-12	2361-2369	updating	_
+15-13	2370-2372	of	_
+15-14	2373-2378	their	_
+15-15	2379-2385	belief	_
+15-16	2386-2391	model	_
+15-17	2391-2392	.	_
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=Methods Participants The study protocol was approved by the UCSD Human Research Protections Program and all subjects gave written informed consent.
+39-1	8182-8189	Methods	_
+39-2	8190-8202	Participants	_
+39-3	8203-8206	The	_
+39-4	8207-8212	study	_
+39-5	8213-8221	protocol	_
+39-6	8222-8225	was	_
+39-7	8226-8234	approved	_
+39-8	8235-8237	by	_
+39-9	8238-8241	the	_
+39-10	8242-8246	UCSD	_
+39-11	8247-8252	Human	_
+39-12	8253-8261	Research	_
+39-13	8262-8273	Protections	_
+39-14	8274-8281	Program	_
+39-15	8282-8285	and	_
+39-16	8286-8289	all	_
+39-17	8290-8298	subjects	_
+39-18	8299-8303	gave	_
+39-19	8304-8311	written	_
+39-20	8312-8320	informed	_
+39-21	8321-8328	consent	_
+39-22	8328-8329	.	_
+
+Text=Sixty-two (21% female) recently sober methamphetamine-dependent individuals were recruited from a 28 - day inpatient Alcohol and Drug Treatment Program at the Veterans Affairs San Diego Healthcare System and Scripps Green Hospital (La Jolla, CA; cross-sectional analysis of these data published elsewhere).
+40-1	8330-8339	Sixty-two	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
+40-2	8340-8341	(	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
+40-3	8341-8344	21%	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
+40-4	8345-8351	female	_
+40-5	8351-8352	)	_
+40-6	8353-8361	recently	_
+40-7	8362-8367	sober	_
+40-8	8368-8393	methamphetamine-dependent	_
+40-9	8394-8405	individuals	_
+40-10	8406-8410	were	_
+40-11	8411-8420	recruited	_
+40-12	8421-8425	from	_
+40-13	8426-8427	a	_
+40-14	8428-8430	28	_
+40-15	8430-8431	-	_
+40-16	8431-8434	day	_
+40-17	8435-8444	inpatient	_
+40-18	8445-8452	Alcohol	_
+40-19	8453-8456	and	_
+40-20	8457-8461	Drug	_
+40-21	8462-8471	Treatment	_
+40-22	8472-8479	Program	_
+40-23	8480-8482	at	_
+40-24	8483-8486	the	_
+40-25	8487-8495	Veterans	_
+40-26	8496-8503	Affairs	_
+40-27	8504-8507	San	_
+40-28	8508-8513	Diego	_
+40-29	8514-8524	Healthcare	_
+40-30	8525-8531	System	_
+40-31	8532-8535	and	_
+40-32	8536-8543	Scripps	_
+40-33	8544-8549	Green	_
+40-34	8550-8558	Hospital	_
+40-35	8559-8560	(	_
+40-36	8560-8562	La	_
+40-37	8563-8568	Jolla	_
+40-38	8568-8569	,	_
+40-39	8570-8572	CA	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+40-40	8572-8573	;	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+40-41	8574-8589	cross-sectional	_
+40-42	8590-8598	analysis	_
+40-43	8599-8601	of	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+40-44	8602-8607	these	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+40-45	8608-8612	data	_
+40-46	8613-8622	published	_
+40-47	8623-8632	elsewhere	_
+40-48	8632-8633	)	_
+40-49	8633-8634	.	_
+
+Text=All study procedures, including the neuroimaging session examining brain and behavior responses during the SST, occurred during the third or fourth week of treatment for all participants (i.e., all had been abstinent from methamphetamine or any other drugs, including alcohol, for 3 – 4   weeks).
+41-1	8635-8638	All	_
+41-2	8639-8644	study	_
+41-3	8645-8655	procedures	_
+41-4	8655-8656	,	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+41-5	8657-8666	including	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+41-6	8667-8670	the	_
+41-7	8671-8683	neuroimaging	_
+41-8	8684-8691	session	_
+41-9	8692-8701	examining	_
+41-10	8702-8707	brain	_
+41-11	8708-8711	and	_
+41-12	8712-8720	behavior	_
+41-13	8721-8730	responses	_
+41-14	8731-8737	during	_
+41-15	8738-8741	the	_
+41-16	8742-8745	SST	_
+41-17	8745-8746	,	_
+41-18	8747-8755	occurred	_
+41-19	8756-8762	during	_
+41-20	8763-8766	the	_
+41-21	8767-8772	third	_
+41-22	8773-8775	or	_
+41-23	8776-8782	fourth	_
+41-24	8783-8787	week	_
+41-25	8788-8790	of	_
+41-26	8791-8800	treatment	_
+41-27	8801-8804	for	_
+41-28	8805-8808	all	_
+41-29	8809-8821	participants	_
+41-30	8822-8823	(	_
+41-31	8823-8826	i.e	_
+41-32	8826-8827	.	_
+41-33	8827-8828	,	_
+41-34	8829-8832	all	_
+41-35	8833-8836	had	_
+41-36	8837-8841	been	_
+41-37	8842-8851	abstinent	_
+41-38	8852-8856	from	_
+41-39	8857-8872	methamphetamine	_
+41-40	8873-8875	or	_
+41-41	8876-8879	any	_
+41-42	8880-8885	other	_
+41-43	8886-8891	drugs	_
+41-44	8891-8892	,	_
+41-45	8893-8902	including	_
+41-46	8903-8910	alcohol	_
+41-47	8910-8911	,	_
+41-48	8912-8915	for	_
+41-49	8916-8917	3	_
+41-50	8917-8918	–	_
+41-51	8918-8919	4	_
+41-52	8919-8920	 	_
+41-53	8920-8925	weeks	_
+41-54	8925-8926	)	_
+41-55	8926-8927	.	_
+
+Text=To maintain sobriety during the program, participants were screened for the presence of drugs via random urine toxicology or whenever they left the facility, and were terminated from the program if tested positive.
+42-1	8928-8930	To	_
+42-2	8931-8939	maintain	_
+42-3	8940-8948	sobriety	_
+42-4	8949-8955	during	_
+42-5	8956-8959	the	_
+42-6	8960-8967	program	_
+42-7	8967-8968	,	_
+42-8	8969-8981	participants	_
+42-9	8982-8986	were	_
+42-10	8987-8995	screened	_
+42-11	8996-8999	for	_
+42-12	9000-9003	the	_
+42-13	9004-9012	presence	_
+42-14	9013-9015	of	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+42-15	9016-9021	drugs	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+42-16	9022-9025	via	_
+42-17	9026-9032	random	_
+42-18	9033-9038	urine	_
+42-19	9039-9049	toxicology	_
+42-20	9050-9052	or	_
+42-21	9053-9061	whenever	_
+42-22	9062-9066	they	_
+42-23	9067-9071	left	_
+42-24	9072-9075	the	_
+42-25	9076-9084	facility	_
+42-26	9084-9085	,	_
+42-27	9086-9089	and	_
+42-28	9090-9094	were	_
+42-29	9095-9105	terminated	_
+42-30	9106-9110	from	_
+42-31	9111-9114	the	_
+42-32	9115-9122	program	_
+42-33	9123-9125	if	_
+42-34	9126-9132	tested	_
+42-35	9133-9141	positive	_
+42-36	9141-9142	.	_
+
+Text=Participants also performed the North American Adult Reading Test as a measure of verbal intelligence, and completed self-report measures of personality and affective measures previously associated with stimulant addiction vulnerability, including the Barratt Impulsiveness Scale (BIS - 11), the Sensation Seeking Scale (SSS-V), and the Beck Depression Inventory (BDI).
+43-1	9143-9155	Participants	_
+43-2	9156-9160	also	_
+43-3	9161-9170	performed	_
+43-4	9171-9174	the	_
+43-5	9175-9180	North	_
+43-6	9181-9189	American	_
+43-7	9190-9195	Adult	_
+43-8	9196-9203	Reading	_
+43-9	9204-9208	Test	_
+43-10	9209-9211	as	_
+43-11	9212-9213	a	_
+43-12	9214-9221	measure	_
+43-13	9222-9224	of	_
+43-14	9225-9231	verbal	_
+43-15	9232-9244	intelligence	_
+43-16	9244-9245	,	_
+43-17	9246-9249	and	_
+43-18	9250-9259	completed	_
+43-19	9260-9271	self-report	_
+43-20	9272-9280	measures	_
+43-21	9281-9283	of	_
+43-22	9284-9295	personality	_
+43-23	9296-9299	and	_
+43-24	9300-9309	affective	_
+43-25	9310-9318	measures	_
+43-26	9319-9329	previously	_
+43-27	9330-9340	associated	_
+43-28	9341-9345	with	_
+43-29	9346-9355	stimulant	_
+43-30	9356-9365	addiction	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+43-31	9366-9379	vulnerability	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+43-32	9379-9380	,	_
+43-33	9381-9390	including	_
+43-34	9391-9394	the	_
+43-35	9395-9402	Barratt	_
+43-36	9403-9416	Impulsiveness	_
+43-37	9417-9422	Scale	_
+43-38	9423-9424	(	_
+43-39	9424-9427	BIS	_
+43-40	9427-9428	-	_
+43-41	9428-9430	11	_
+43-42	9430-9431	)	_
+43-43	9431-9432	,	_
+43-44	9433-9436	the	_
+43-45	9437-9446	Sensation	_
+43-46	9447-9454	Seeking	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+43-47	9455-9460	Scale	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+43-48	9461-9462	(	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+43-49	9462-9467	SSS-V	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+43-50	9467-9468	)	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+43-51	9468-9469	,	_
+43-52	9470-9473	and	_
+43-53	9474-9477	the	_
+43-54	9478-9482	Beck	_
+43-55	9483-9493	Depression	_
+43-56	9494-9503	Inventory	_
+43-57	9504-9505	(	_
+43-58	9505-9508	BDI	_
+43-59	9508-9509	)	_
+43-60	9509-9510	.	_
+
+Text=Lifetime DSM-IV Axis I and II diagnoses at baseline were assessed with the Semi Structured Assessment for the Genetics of Alcoholism and based on consensus meetings with the supervising clinician and trained study personnel, including a Masters-level research assistant and postdoctoral-level psychologist (see Supplementary Text 1 for exclusion criteria).
+44-1	9511-9519	Lifetime	_
+44-2	9520-9526	DSM-IV	_
+44-3	9527-9531	Axis	_
+44-4	9532-9533	I	_
+44-5	9534-9537	and	_
+44-6	9538-9540	II	_
+44-7	9541-9550	diagnoses	_
+44-8	9551-9553	at	_
+44-9	9554-9562	baseline	_
+44-10	9563-9567	were	_
+44-11	9568-9576	assessed	_
+44-12	9577-9581	with	_
+44-13	9582-9585	the	_
+44-14	9586-9590	Semi	_
+44-15	9591-9601	Structured	_
+44-16	9602-9612	Assessment	_
+44-17	9613-9616	for	_
+44-18	9617-9620	the	_
+44-19	9621-9629	Genetics	_
+44-20	9630-9632	of	_
+44-21	9633-9643	Alcoholism	_
+44-22	9644-9647	and	_
+44-23	9648-9653	based	_
+44-24	9654-9656	on	_
+44-25	9657-9666	consensus	_
+44-26	9667-9675	meetings	_
+44-27	9676-9680	with	_
+44-28	9681-9684	the	_
+44-29	9685-9696	supervising	_
+44-30	9697-9706	clinician	_
+44-31	9707-9710	and	_
+44-32	9711-9718	trained	_
+44-33	9719-9724	study	_
+44-34	9725-9734	personnel	_
+44-35	9734-9735	,	_
+44-36	9736-9745	including	_
+44-37	9746-9747	a	_
+44-38	9748-9761	Masters-level	_
+44-39	9762-9770	research	_
+44-40	9771-9780	assistant	_
+44-41	9781-9784	and	_
+44-42	9785-9803	postdoctoral-level	_
+44-43	9804-9816	psychologist	_
+44-44	9817-9818	(	_
+44-45	9818-9821	see	_
+44-46	9822-9835	Supplementary	_
+44-47	9836-9840	Text	_
+44-48	9841-9842	1	_
+44-49	9843-9846	for	_
+44-50	9847-9856	exclusion	_
+44-51	9857-9865	criteria	_
+44-52	9865-9866	)	_
+44-53	9866-9867	.	_
+
+Text=Methamphetamine dependence, and not DSM - 5 diagnosis of methamphetamine use disorder, was assessed because DSM-IV was in effect at the start of the study.
+45-1	9868-9883	Methamphetamine	_
+45-2	9884-9894	dependence	_
+45-3	9894-9895	,	_
+45-4	9896-9899	and	_
+45-5	9900-9903	not	_
+45-6	9904-9907	DSM	_
+45-7	9907-9908	-	_
+45-8	9908-9909	5	_
+45-9	9910-9919	diagnosis	_
+45-10	9920-9922	of	_
+45-11	9923-9938	methamphetamine	_
+45-12	9939-9942	use	_
+45-13	9943-9951	disorder	_
+45-14	9951-9952	,	_
+45-15	9953-9956	was	_
+45-16	9957-9965	assessed	_
+45-17	9966-9973	because	_
+45-18	9974-9980	DSM-IV	_
+45-19	9981-9984	was	_
+45-20	9985-9987	in	_
+45-21	9988-9994	effect	_
+45-22	9995-9997	at	_
+45-23	9998-10001	the	_
+45-24	10002-10007	start	_
+45-25	10008-10010	of	_
+45-26	10011-10014	the	_
+45-27	10015-10020	study	_
+45-28	10020-10021	.	_
+
+Text=Participants were contacted one year later for a brief structured phone interview to assess for any use of methamphetamine, level of use, and time of relapse.
+46-1	10022-10034	Participants	_
+46-2	10035-10039	were	_
+46-3	10040-10049	contacted	_
+46-4	10050-10053	one	_
+46-5	10054-10058	year	_
+46-6	10059-10064	later	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+46-7	10065-10068	for	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+46-8	10069-10070	a	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+46-9	10071-10076	brief	_
+46-10	10077-10087	structured	_
+46-11	10088-10093	phone	_
+46-12	10094-10103	interview	_
+46-13	10104-10106	to	_
+46-14	10107-10113	assess	_
+46-15	10114-10117	for	_
+46-16	10118-10121	any	_
+46-17	10122-10125	use	_
+46-18	10126-10128	of	_
+46-19	10129-10144	methamphetamine	_
+46-20	10144-10145	,	_
+46-21	10146-10151	level	_
+46-22	10152-10154	of	_
+46-23	10155-10158	use	_
+46-24	10158-10159	,	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+46-25	10160-10163	and	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+46-26	10164-10168	time	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+46-27	10169-10171	of	_
+46-28	10172-10179	relapse	_
+46-29	10179-10180	.	_
+
+Text=At baseline, we also assessed for use and abuse / dependence criteria for other drugs (i.e., sedatives, hallucinogens, marijuana, cocaine or opiates) in the past year, as part of a larger longitudinal study, which also followed individuals with other primary drugs of abuse.
+47-1	10181-10183	At	_
+47-2	10184-10192	baseline	_
+47-3	10192-10193	,	_
+47-4	10194-10196	we	_
+47-5	10197-10201	also	_
+47-6	10202-10210	assessed	_
+47-7	10211-10214	for	_
+47-8	10215-10218	use	_
+47-9	10219-10222	and	_
+47-10	10223-10228	abuse	_
+47-11	10228-10229	/	_
+47-12	10229-10239	dependence	_
+47-13	10240-10248	criteria	_
+47-14	10249-10252	for	_
+47-15	10253-10258	other	_
+47-16	10259-10264	drugs	_
+47-17	10265-10266	(	_
+47-18	10266-10269	i.e	_
+47-19	10269-10270	.	_
+47-20	10270-10271	,	_
+47-21	10272-10281	sedatives	_
+47-22	10281-10282	,	_
+47-23	10283-10296	hallucinogens	_
+47-24	10296-10297	,	_
+47-25	10298-10307	marijuana	_
+47-26	10307-10308	,	_
+47-27	10309-10316	cocaine	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+47-28	10317-10319	or	_
+47-29	10320-10327	opiates	_
+47-30	10327-10328	)	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+47-31	10329-10331	in	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+47-32	10332-10335	the	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+47-33	10336-10340	past	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+47-34	10341-10345	year	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+47-35	10345-10346	,	_
+47-36	10347-10349	as	_
+47-37	10350-10354	part	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+47-38	10355-10357	of	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+47-39	10358-10359	a	_
+47-40	10360-10366	larger	_
+47-41	10367-10379	longitudinal	_
+47-42	10380-10385	study	_
+47-43	10385-10386	,	_
+47-44	10387-10392	which	_
+47-45	10393-10397	also	_
+47-46	10398-10406	followed	_
+47-47	10407-10418	individuals	_
+47-48	10419-10423	with	_
+47-49	10424-10429	other	_
+47-50	10430-10437	primary	_
+47-51	10438-10443	drugs	_
+47-52	10444-10446	of	_
+47-53	10447-10452	abuse	_
+47-54	10452-10453	.	_
+
+Text=For all participants in this study, methamphetamine was confirmed as participants' drug of choice.
+48-1	10454-10457	For	_
+48-2	10458-10461	all	_
+48-3	10462-10474	participants	_
+48-4	10475-10477	in	_
+48-5	10478-10482	this	_
+48-6	10483-10488	study	_
+48-7	10488-10489	,	_
+48-8	10490-10505	methamphetamine	_
+48-9	10506-10509	was	_
+48-10	10510-10519	confirmed	_
+48-11	10520-10522	as	_
+48-12	10523-10535	participants	_
+48-13	10535-10536	'	_
+48-14	10537-10541	drug	_
+48-15	10542-10544	of	_
+48-16	10545-10551	choice	_
+48-17	10551-10552	.	_
+
+Text=Relapse was defined as use of methamphetamine at any point during the follow-up period, while some participants may have additionally relapsed to any of these other substances (not assessed at follow-up).
+49-1	10553-10560	Relapse	_
+49-2	10561-10564	was	_
+49-3	10565-10572	defined	_
+49-4	10573-10575	as	_
+49-5	10576-10579	use	_
+49-6	10580-10582	of	_
+49-7	10583-10598	methamphetamine	_
+49-8	10599-10601	at	_
+49-9	10602-10605	any	_
+49-10	10606-10611	point	_
+49-11	10612-10618	during	_
+49-12	10619-10622	the	_
+49-13	10623-10632	follow-up	_
+49-14	10633-10639	period	_
+49-15	10639-10640	,	_
+49-16	10641-10646	while	_
+49-17	10647-10651	some	_
+49-18	10652-10664	participants	_
+49-19	10665-10668	may	_
+49-20	10669-10673	have	_
+49-21	10674-10686	additionally	_
+49-22	10687-10695	relapsed	_
+49-23	10696-10698	to	_
+49-24	10699-10702	any	_
+49-25	10703-10705	of	_
+49-26	10706-10711	these	_
+49-27	10712-10717	other	_
+49-28	10718-10728	substances	_
+49-29	10729-10730	(	_
+49-30	10730-10733	not	_
+49-31	10734-10742	assessed	_
+49-32	10743-10745	at	_
+49-33	10746-10755	follow-up	_
+49-34	10755-10756	)	_
+49-35	10756-10757	.	_
+
+Text=Based on interview responses, thirty-nine methamphetamine-dependent individuals remained abstinent from methamphetamine from the time of treatment to one-year follow-up.
+50-1	10758-10763	Based	_
+50-2	10764-10766	on	_
+50-3	10767-10776	interview	_
+50-4	10777-10786	responses	_
+50-5	10786-10787	,	_
+50-6	10788-10799	thirty-nine	_
+50-7	10800-10825	methamphetamine-dependent	_
+50-8	10826-10837	individuals	_
+50-9	10838-10846	remained	_
+50-10	10847-10856	abstinent	_
+50-11	10857-10861	from	_
+50-12	10862-10877	methamphetamine	_
+50-13	10878-10882	from	_
+50-14	10883-10886	the	_
+50-15	10887-10891	time	_
+50-16	10892-10894	of	_
+50-17	10895-10904	treatment	_
+50-18	10905-10907	to	_
+50-19	10908-10916	one-year	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+50-20	10917-10926	follow-up	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+50-21	10926-10927	.	_
+
+Text=Nineteen individuals reported that they relapsed.
+51-1	10928-10936	Nineteen	_
+51-2	10937-10948	individuals	_
+51-3	10949-10957	reported	_
+51-4	10958-10962	that	_
+51-5	10963-10967	they	_
+51-6	10968-10976	relapsed	_
+51-7	10976-10977	.	_
+
+Text=Four participants could not be tracked.
+52-1	10978-10982	Four	_
+52-2	10983-10995	participants	_
+52-3	10996-11001	could	_
+52-4	11002-11005	not	_
+52-5	11006-11008	be	_
+52-6	11009-11016	tracked	_
+52-7	11016-11017	.	_
+
+Text=Stop signal task Participants completed a stop-signal task (6 blocks of 48 trials) while undergoing fMRI.
+53-1	11018-11022	Stop	_
+53-2	11023-11029	signal	_
+53-3	11030-11034	task	_
+53-4	11035-11047	Participants	_
+53-5	11048-11057	completed	_
+53-6	11058-11059	a	_
+53-7	11060-11071	stop-signal	_
+53-8	11072-11076	task	_
+53-9	11077-11078	(	_
+53-10	11078-11079	6	_
+53-11	11080-11086	blocks	_
+53-12	11087-11089	of	_
+53-13	11090-11092	48	_
+53-14	11093-11099	trials	_
+53-15	11099-11100	)	_
+53-16	11101-11106	while	_
+53-17	11107-11117	undergoing	_
+53-18	11118-11122	fMRI	_
+53-19	11122-11123	.	_
+
+Text=On 216 go trials (75% of all trials), they had to press as fast as possible the left button when an ‘ X' appeared or the right button when an ‘ O' appeared.
+54-1	11124-11126	On	_
+54-2	11127-11130	216	_
+54-3	11131-11133	go	_
+54-4	11134-11140	trials	_
+54-5	11141-11142	(	_
+54-6	11142-11145	75%	_
+54-7	11146-11148	of	_
+54-8	11149-11152	all	_
+54-9	11153-11159	trials	_
+54-10	11159-11160	)	_
+54-11	11160-11161	,	_
+54-12	11162-11166	they	_
+54-13	11167-11170	had	_
+54-14	11171-11173	to	_
+54-15	11174-11179	press	_
+54-16	11180-11182	as	_
+54-17	11183-11187	fast	_
+54-18	11188-11190	as	_
+54-19	11191-11199	possible	_
+54-20	11200-11203	the	_
+54-21	11204-11208	left	_
+54-22	11209-11215	button	_
+54-23	11216-11220	when	_
+54-24	11221-11223	an	_
+54-25	11224-11225	‘	_
+54-26	11225-11226	X	_
+54-27	11226-11227	'	_
+54-28	11228-11236	appeared	_
+54-29	11237-11239	or	_
+54-30	11240-11243	the	_
+54-31	11244-11249	right	_
+54-32	11250-11256	button	_
+54-33	11257-11261	when	_
+54-34	11262-11264	an	_
+54-35	11265-11266	‘	_
+54-36	11266-11267	O	_
+54-37	11267-11268	'	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
+54-38	11269-11277	appeared	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
+54-39	11277-11278	.	_
+
+Text=On 72 stop trials (25% of all trials), they heard a tone shortly after onset of the go stimulus, which instructed them not to press either button.
+55-1	11279-11281	On	_
+55-2	11282-11284	72	_
+55-3	11285-11289	stop	_
+55-4	11290-11296	trials	_
+55-5	11297-11298	(	_
+55-6	11298-11301	25%	_
+55-7	11302-11304	of	_
+55-8	11305-11308	all	_
+55-9	11309-11315	trials	_
+55-10	11315-11316	)	_
+55-11	11316-11317	,	_
+55-12	11318-11322	they	_
+55-13	11323-11328	heard	_
+55-14	11329-11330	a	_
+55-15	11331-11335	tone	_
+55-16	11336-11343	shortly	_
+55-17	11344-11349	after	_
+55-18	11350-11355	onset	_
+55-19	11356-11358	of	_
+55-20	11359-11362	the	_
+55-21	11363-11365	go	_
+55-22	11366-11374	stimulus	_
+55-23	11374-11375	,	_
+55-24	11376-11381	which	_
+55-25	11382-11392	instructed	_
+55-26	11393-11397	them	_
+55-27	11398-11401	not	_
+55-28	11402-11404	to	_
+55-29	11405-11410	press	_
+55-30	11411-11417	either	_
+55-31	11418-11424	button	_
+55-32	11424-11425	.	_
+
+Text=Each trial lasted around 1300   ms, and trials were separated by a 200 - ms inter-stimulus intervals (blank screen).
+56-1	11426-11430	Each	_
+56-2	11431-11436	trial	_
+56-3	11437-11443	lasted	_
+56-4	11444-11450	around	_
+56-5	11451-11455	1300	_
+56-6	11455-11456	 	_
+56-7	11456-11458	ms	_
+56-8	11458-11459	,	_
+56-9	11460-11463	and	_
+56-10	11464-11470	trials	_
+56-11	11471-11475	were	_
+56-12	11476-11485	separated	_
+56-13	11486-11488	by	_
+56-14	11489-11490	a	_
+56-15	11491-11494	200	_
+56-16	11494-11495	-	_
+56-17	11495-11497	ms	_
+56-18	11498-11512	inter-stimulus	_
+56-19	11513-11522	intervals	_
+56-20	11523-11524	(	_
+56-21	11524-11529	blank	_
+56-22	11530-11536	screen	_
+56-23	11536-11537	)	_
+56-24	11537-11538	.	_
+
+Text=Individuals' reaction time (time from stimulus onset to button press) provided a natural jitter.
+57-1	11539-11550	Individuals	_
+57-2	11550-11551	'	_
+57-3	11552-11560	reaction	_
+57-4	11561-11565	time	_
+57-5	11566-11567	(	_
+57-6	11567-11571	time	_
+57-7	11572-11576	from	_
+57-8	11577-11585	stimulus	_
+57-9	11586-11591	onset	_
+57-10	11592-11594	to	_
+57-11	11595-11601	button	_
+57-12	11602-11607	press	_
+57-13	11607-11608	)	_
+57-14	11609-11617	provided	_
+57-15	11618-11619	a	_
+57-16	11620-11627	natural	_
+57-17	11628-11634	jitter	_
+57-18	11634-11635	.	_
+
+Text=The sequence of trial types presented was pseudo-randomized.
+58-1	11636-11639	The	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+58-2	11640-11648	sequence	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+58-3	11649-11651	of	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+58-4	11652-11657	trial	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+58-5	11658-11663	types	_
+58-6	11664-11673	presented	_
+58-7	11674-11677	was	_
+58-8	11678-11695	pseudo-randomized	_
+58-9	11695-11696	.	_
+
+Text=Finally, prior to scanning, participants completed the SST outside the scanner to determine their mean ‘ Go ’ reaction time (MRT).
+59-1	11697-11704	Finally	_
+59-2	11704-11705	,	_
+59-3	11706-11711	prior	_
+59-4	11712-11714	to	_
+59-5	11715-11723	scanning	_
+59-6	11723-11724	,	_
+59-7	11725-11737	participants	_
+59-8	11738-11747	completed	_
+59-9	11748-11751	the	_
+59-10	11752-11755	SST	_
+59-11	11756-11763	outside	_
+59-12	11764-11767	the	_
+59-13	11768-11775	scanner	_
+59-14	11776-11778	to	_
+59-15	11779-11788	determine	_
+59-16	11789-11794	their	_
+59-17	11795-11799	mean	_
+59-18	11800-11801	‘	_
+59-19	11801-11803	Go	_
+59-20	11803-11804	’	_
+59-21	11805-11813	reaction	_
+59-22	11814-11818	time	_
+59-23	11819-11820	(	_
+59-24	11820-11823	MRT	_
+59-25	11823-11824	)	_
+59-26	11824-11825	.	_
+
+Text=This measure was then used to determine the stop signal delay (SSD) for six different types stop trial of increasing difficulty, providing a subject-dependent jittered reference function.
+60-1	11826-11830	This	_
+60-2	11831-11838	measure	_
+60-3	11839-11842	was	_
+60-4	11843-11847	then	_
+60-5	11848-11852	used	_
+60-6	11853-11855	to	_
+60-7	11856-11865	determine	_
+60-8	11866-11869	the	_
+60-9	11870-11874	stop	_
+60-10	11875-11881	signal	_
+60-11	11882-11887	delay	_
+60-12	11888-11889	(	_
+60-13	11889-11892	SSD	_
+60-14	11892-11893	)	_
+60-15	11894-11897	for	_
+60-16	11898-11901	six	_
+60-17	11902-11911	different	_
+60-18	11912-11917	types	_
+60-19	11918-11922	stop	_
+60-20	11923-11928	trial	_
+60-21	11929-11931	of	_
+60-22	11932-11942	increasing	_
+60-23	11943-11953	difficulty	_
+60-24	11953-11954	,	_
+60-25	11955-11964	providing	_
+60-26	11965-11966	a	_
+60-27	11967-11984	subject-dependent	_
+60-28	11985-11993	jittered	_
+60-29	11994-12003	reference	_
+60-30	12004-12012	function	_
+60-31	12012-12013	.	_
+
+Text=Specifically, stop signals were delivered in equal amounts at MRT - 0   ms, MRT - 100   ms, MRT - 200   ms, MRT - 300   ms, MRT - 400   ms, and MRT - 500   ms providing an individually customized range of difficulty; see Supplementary Text 2 for task instructions).
+61-1	12014-12026	Specifically	_
+61-2	12026-12027	,	_
+61-3	12028-12032	stop	_
+61-4	12033-12040	signals	_
+61-5	12041-12045	were	_
+61-6	12046-12055	delivered	_
+61-7	12056-12058	in	_
+61-8	12059-12064	equal	_
+61-9	12065-12072	amounts	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+61-10	12073-12075	at	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+61-11	12076-12079	MRT	_
+61-12	12079-12080	-	_
+61-13	12080-12081	0	_
+61-14	12081-12082	 	_
+61-15	12082-12084	ms	_
+61-16	12084-12085	,	_
+61-17	12086-12089	MRT	_
+61-18	12089-12090	-	_
+61-19	12090-12093	100	_
+61-20	12093-12094	 	_
+61-21	12094-12096	ms	_
+61-22	12096-12097	,	_
+61-23	12098-12101	MRT	_
+61-24	12101-12102	-	_
+61-25	12102-12105	200	_
+61-26	12105-12106	 	_
+61-27	12106-12108	ms	_
+61-28	12108-12109	,	_
+61-29	12110-12113	MRT	_
+61-30	12113-12114	-	_
+61-31	12114-12117	300	_
+61-32	12117-12118	 	_
+61-33	12118-12120	ms	_
+61-34	12120-12121	,	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+61-35	12122-12125	MRT	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+61-36	12125-12126	-	_
+61-37	12126-12129	400	_
+61-38	12129-12130	 	_
+61-39	12130-12132	ms	_
+61-40	12132-12133	,	_
+61-41	12134-12137	and	_
+61-42	12138-12141	MRT	_
+61-43	12141-12142	-	_
+61-44	12142-12145	500	_
+61-45	12145-12146	 	_
+61-46	12146-12148	ms	_
+61-47	12149-12158	providing	_
+61-48	12159-12161	an	_
+61-49	12162-12174	individually	_
+61-50	12175-12185	customized	_
+61-51	12186-12191	range	_
+61-52	12192-12194	of	_
+61-53	12195-12205	difficulty	_
+61-54	12205-12206	;	_
+61-55	12207-12210	see	_
+61-56	12211-12224	Supplementary	_
+61-57	12225-12229	Text	_
+61-58	12230-12231	2	_
+61-59	12232-12235	for	_
+61-60	12236-12240	task	_
+61-61	12241-12253	instructions	_
+61-62	12253-12254	)	_
+61-63	12254-12255	.	_
+
+Text=Bayesian model of the inhibitory response expectation To model behavior, we used a Bayes-optimal Dynamic Belief Model, which has been robustly established to capture behavioral adjustments in the SST in both healthy individuals and substance users.
+62-1	12256-12264	Bayesian	_
+62-2	12265-12270	model	_
+62-3	12271-12273	of	_
+62-4	12274-12277	the	_
+62-5	12278-12288	inhibitory	_
+62-6	12289-12297	response	_
+62-7	12298-12309	expectation	_
+62-8	12310-12312	To	_
+62-9	12313-12318	model	_
+62-10	12319-12327	behavior	_
+62-11	12327-12328	,	_
+62-12	12329-12331	we	_
+62-13	12332-12336	used	_
+62-14	12337-12338	a	_
+62-15	12339-12352	Bayes-optimal	_
+62-16	12353-12360	Dynamic	_
+62-17	12361-12367	Belief	_
+62-18	12368-12373	Model	_
+62-19	12373-12374	,	_
+62-20	12375-12380	which	_
+62-21	12381-12384	has	_
+62-22	12385-12389	been	_
+62-23	12390-12398	robustly	_
+62-24	12399-12410	established	_
+62-25	12411-12413	to	_
+62-26	12414-12421	capture	_
+62-27	12422-12432	behavioral	_
+62-28	12433-12444	adjustments	_
+62-29	12445-12447	in	_
+62-30	12448-12451	the	_
+62-31	12452-12455	SST	_
+62-32	12456-12458	in	_
+62-33	12459-12463	both	_
+62-34	12464-12471	healthy	_
+62-35	12472-12483	individuals	_
+62-36	12484-12487	and	_
+62-37	12488-12497	substance	_
+62-38	12498-12503	users	_
+62-39	12503-12504	.	_
+
+Text=The model assumes that one 1) updates the prior probability of encountering stop trials, P (stop), on a trial-by-trial basis based on trial history, and 2) adjusts behavior as a function of P (stop) with higher predicted P (stop) prompting slower Go RT and higher likelihood of correctly stopping on a stop trial.
+63-1	12505-12508	The	_
+63-2	12509-12514	model	_
+63-3	12515-12522	assumes	_
+63-4	12523-12527	that	_
+63-5	12528-12531	one	_
+63-6	12532-12533	1	_
+63-7	12533-12534	)	_
+63-8	12535-12542	updates	_
+63-9	12543-12546	the	_
+63-10	12547-12552	prior	_
+63-11	12553-12564	probability	_
+63-12	12565-12567	of	_
+63-13	12568-12580	encountering	_
+63-14	12581-12585	stop	_
+63-15	12586-12592	trials	_
+63-16	12592-12593	,	_
+63-17	12594-12595	P	_
+63-18	12595-12596	(	_
+63-19	12596-12600	stop	_
+63-20	12600-12601	)	_
+63-21	12601-12602	,	_
+63-22	12603-12605	on	_
+63-23	12606-12607	a	_
+63-24	12608-12622	trial-by-trial	_
+63-25	12623-12628	basis	_
+63-26	12629-12634	based	_
+63-27	12635-12637	on	_
+63-28	12638-12643	trial	_
+63-29	12644-12651	history	_
+63-30	12651-12652	,	_
+63-31	12653-12656	and	_
+63-32	12657-12658	2	_
+63-33	12658-12659	)	_
+63-34	12660-12667	adjusts	_
+63-35	12668-12676	behavior	_
+63-36	12677-12679	as	_
+63-37	12680-12681	a	_
+63-38	12682-12690	function	_
+63-39	12691-12693	of	_
+63-40	12694-12695	P	_
+63-41	12695-12696	(	_
+63-42	12696-12700	stop	_
+63-43	12700-12701	)	_
+63-44	12702-12706	with	_
+63-45	12707-12713	higher	_
+63-46	12714-12723	predicted	_
+63-47	12724-12725	P	_
+63-48	12725-12726	(	_
+63-49	12726-12730	stop	_
+63-50	12730-12731	)	_
+63-51	12732-12741	prompting	_
+63-52	12742-12748	slower	_
+63-53	12749-12751	Go	_
+63-54	12752-12754	RT	_
+63-55	12755-12758	and	_
+63-56	12759-12765	higher	_
+63-57	12766-12776	likelihood	_
+63-58	12777-12779	of	_
+63-59	12780-12789	correctly	_
+63-60	12790-12798	stopping	_
+63-61	12799-12801	on	_
+63-62	12802-12803	a	_
+63-63	12804-12808	stop	_
+63-64	12809-12814	trial	_
+63-65	12814-12815	.	_
+
+Text=Mathematically, on each trial k, Pk (stop) is the mean of the predictive distribution p (rk | sk - 1), which is a mixture of the previous posterior distribution and a fixed prior distribution, with α and 1   −   α acting as the mixing coefficients, respectively, and where Sk   =   (s1, …, sk) is 1 on stop trials and 0 on go trials: with the posterior distribution being updated according to Bayes' Rule: A.
+64-1	12816-12830	Mathematically	_
+64-2	12830-12831	,	_
+64-3	12832-12834	on	_
+64-4	12835-12839	each	_
+64-5	12840-12845	trial	_
+64-6	12846-12847	k	_
+64-7	12847-12848	,	_
+64-8	12849-12851	Pk	_
+64-9	12851-12852	(	_
+64-10	12852-12856	stop	_
+64-11	12856-12857	)	_
+64-12	12858-12860	is	_
+64-13	12861-12864	the	_
+64-14	12865-12869	mean	_
+64-15	12870-12872	of	_
+64-16	12873-12876	the	_
+64-17	12877-12887	predictive	_
+64-18	12888-12900	distribution	_
+64-19	12901-12902	p	_
+64-20	12902-12903	(	_
+64-21	12903-12905	rk	_
+64-22	12905-12906	|	_
+64-23	12906-12908	sk	_
+64-24	12908-12909	-	_
+64-25	12909-12910	1	_
+64-26	12910-12911	)	_
+64-27	12911-12912	,	_
+64-28	12913-12918	which	_
+64-29	12919-12921	is	_
+64-30	12922-12923	a	_
+64-31	12924-12931	mixture	_
+64-32	12932-12934	of	_
+64-33	12935-12938	the	_
+64-34	12939-12947	previous	_
+64-35	12948-12957	posterior	_
+64-36	12958-12970	distribution	_
+64-37	12971-12974	and	_
+64-38	12975-12976	a	_
+64-39	12977-12982	fixed	_
+64-40	12983-12988	prior	_
+64-41	12989-13001	distribution	_
+64-42	13001-13002	,	_
+64-43	13003-13007	with	_
+64-44	13008-13009	α	_
+64-45	13010-13013	and	_
+64-46	13014-13015	1	_
+64-47	13015-13016	 	_
+64-48	13016-13017	−	_
+64-49	13017-13018	 	_
+64-50	13018-13019	α	_
+64-51	13020-13026	acting	_
+64-52	13027-13029	as	_
+64-53	13030-13033	the	_
+64-54	13034-13040	mixing	_
+64-55	13041-13053	coefficients	_
+64-56	13053-13054	,	_
+64-57	13055-13067	respectively	_
+64-58	13067-13068	,	_
+64-59	13069-13072	and	_
+64-60	13073-13078	where	_
+64-61	13079-13081	Sk	_
+64-62	13081-13082	 	_
+64-63	13082-13083	=	_
+64-64	13083-13084	 	_
+64-65	13084-13085	(	_
+64-66	13085-13087	s1	_
+64-67	13087-13088	,	_
+64-68	13089-13090	…	_
+64-69	13090-13091	,	_
+64-70	13091-13093	sk	_
+64-71	13093-13094	)	_
+64-72	13095-13097	is	_
+64-73	13098-13099	1	_
+64-74	13100-13102	on	_
+64-75	13103-13107	stop	_
+64-76	13108-13114	trials	_
+64-77	13115-13118	and	_
+64-78	13119-13120	0	_
+64-79	13121-13123	on	_
+64-80	13124-13126	go	_
+64-81	13127-13133	trials	_
+64-82	13133-13134	:	_
+64-83	13135-13139	with	_
+64-84	13140-13143	the	_
+64-85	13144-13153	posterior	_
+64-86	13154-13166	distribution	_
+64-87	13167-13172	being	_
+64-88	13173-13180	updated	_
+64-89	13181-13190	according	_
+64-90	13191-13193	to	_
+64-91	13194-13199	Bayes	_
+64-92	13199-13200	'	_
+64-93	13201-13205	Rule	_
+64-94	13205-13206	:	_
+64-95	13207-13208	A	_
+64-96	13208-13209	.	_
+
+Text=P (stop) as a function of trial sequence.
+65-1	13210-13211	P	_
+65-2	13211-13212	(	_
+65-3	13212-13216	stop	_
+65-4	13216-13217	)	_
+65-5	13218-13220	as	_
+65-6	13221-13222	a	_
+65-7	13223-13231	function	_
+65-8	13232-13234	of	_
+65-9	13235-13240	trial	_
+65-10	13241-13249	sequence	_
+65-11	13249-13250	.	_
+
+Text=Top: for the sequence of go (green dots, outcome   =   0) and stop (blue dots, outcome   =   1) trials, Bayesian prior belief about encountering a stop trial (P (stop), red line), as predicted by the Dynamic Belief Model.
+66-1	13251-13254	Top	_
+66-2	13254-13255	:	_
+66-3	13256-13259	for	_
+66-4	13260-13263	the	_
+66-5	13264-13272	sequence	_
+66-6	13273-13275	of	_
+66-7	13276-13278	go	_
+66-8	13279-13280	(	_
+66-9	13280-13285	green	_
+66-10	13286-13290	dots	_
+66-11	13290-13291	,	_
+66-12	13292-13299	outcome	_
+66-13	13299-13300	 	_
+66-14	13300-13301	=	_
+66-15	13301-13302	 	_
+66-16	13302-13303	0	_
+66-17	13303-13304	)	_
+66-18	13305-13308	and	_
+66-19	13309-13313	stop	_
+66-20	13314-13315	(	_
+66-21	13315-13319	blue	_
+66-22	13320-13324	dots	_
+66-23	13324-13325	,	_
+66-24	13326-13333	outcome	_
+66-25	13333-13334	 	_
+66-26	13334-13335	=	_
+66-27	13335-13336	 	_
+66-28	13336-13337	1	_
+66-29	13337-13338	)	_
+66-30	13339-13345	trials	_
+66-31	13345-13346	,	_
+66-32	13347-13355	Bayesian	_
+66-33	13356-13361	prior	_
+66-34	13362-13368	belief	_
+66-35	13369-13374	about	_
+66-36	13375-13387	encountering	_
+66-37	13388-13389	a	_
+66-38	13390-13394	stop	_
+66-39	13395-13400	trial	_
+66-40	13401-13402	(	_
+66-41	13402-13403	P	_
+66-42	13403-13404	(	_
+66-43	13404-13408	stop	_
+66-44	13408-13409	)	_
+66-45	13409-13410	,	_
+66-46	13411-13414	red	_
+66-47	13415-13419	line	_
+66-48	13419-13420	)	_
+66-49	13420-13421	,	_
+66-50	13422-13424	as	_
+66-51	13425-13434	predicted	_
+66-52	13435-13437	by	_
+66-53	13438-13441	the	_
+66-54	13442-13449	Dynamic	_
+66-55	13450-13456	Belief	_
+66-56	13457-13462	Model	_
+66-57	13462-13463	.	_
+
+Text=P (stop) increases after each stop trial, and decreases after each go trial.
+67-1	13464-13465	P	_
+67-2	13465-13466	(	_
+67-3	13466-13470	stop	_
+67-4	13470-13471	)	_
+67-5	13472-13481	increases	_
+67-6	13482-13487	after	_
+67-7	13488-13492	each	_
+67-8	13493-13497	stop	_
+67-9	13498-13503	trial	_
+67-10	13503-13504	,	_
+67-11	13505-13508	and	_
+67-12	13509-13518	decreases	_
+67-13	13519-13524	after	_
+67-14	13525-13529	each	_
+67-15	13530-13532	go	_
+67-16	13533-13538	trial	_
+67-17	13538-13539	.	_
+
+Text=Bottom: The corresponding signed prediction error (SPE, red line, solid), SPE   =   stimulus outcome − P (stop), and unsigned prediction error (UPE, blue, dashed), SPE   =   | stimulus outcome − P (stop) |.
+68-1	13540-13546	Bottom	_
+68-2	13546-13547	:	_
+68-3	13548-13551	The	_
+68-4	13552-13565	corresponding	_
+68-5	13566-13572	signed	_
+68-6	13573-13583	prediction	_
+68-7	13584-13589	error	_
+68-8	13590-13591	(	_
+68-9	13591-13594	SPE	_
+68-10	13594-13595	,	_
+68-11	13596-13599	red	_
+68-12	13600-13604	line	_
+68-13	13604-13605	,	_
+68-14	13606-13611	solid	_
+68-15	13611-13612	)	_
+68-16	13612-13613	,	_
+68-17	13614-13617	SPE	_
+68-18	13617-13618	 	_
+68-19	13618-13619	=	_
+68-20	13619-13620	 	_
+68-21	13620-13628	stimulus	_
+68-22	13629-13636	outcome	_
+68-23	13637-13638	−	_
+68-24	13639-13640	P	_
+68-25	13640-13641	(	_
+68-26	13641-13645	stop	_
+68-27	13645-13646	)	_
+68-28	13646-13647	,	_
+68-29	13648-13651	and	_
+68-30	13652-13660	unsigned	_
+68-31	13661-13671	prediction	_
+68-32	13672-13677	error	_
+68-33	13678-13679	(	_
+68-34	13679-13682	UPE	_
+68-35	13682-13683	,	_
+68-36	13684-13688	blue	_
+68-37	13688-13689	,	_
+68-38	13690-13696	dashed	_
+68-39	13696-13697	)	_
+68-40	13697-13698	,	_
+68-41	13699-13702	SPE	_
+68-42	13702-13703	 	_
+68-43	13703-13704	=	_
+68-44	13704-13705	 	_
+68-45	13705-13706	|	_
+68-46	13706-13714	stimulus	_
+68-47	13715-13722	outcome	_
+68-48	13723-13724	−	_
+68-49	13725-13726	P	_
+68-50	13726-13727	(	_
+68-51	13727-13731	stop	_
+68-52	13731-13732	)	_
+68-53	13732-13733	|	_
+68-54	13733-13734	.	_
+
+Text=B.
+69-1	13735-13736	B	_
+69-2	13736-13737	.	_
+
+Text=Model fit for both methamphetamine dependent individuals who maintained abstinence over a 1   year (black; n   =   39) and those who relapsed within 1   year of treatment (red; n   =   19); data collapsed across all subjects for relapsed and abstinent groups separately, where Go trials were binned by P (stop) and average RT calculated for each bin separately; as predicted by our Bayes optimal decision-making model, a significant positive relationship was observed between individuals' Go reaction times (RT) and trial-wise P (stop) model estimates in each group; black and red lines represent best linear regression fit to mean go reaction time for each group.
+70-1	13738-13743	Model	_
+70-2	13744-13747	fit	_
+70-3	13748-13751	for	_
+70-4	13752-13756	both	_
+70-5	13757-13772	methamphetamine	_
+70-6	13773-13782	dependent	_
+70-7	13783-13794	individuals	_
+70-8	13795-13798	who	_
+70-9	13799-13809	maintained	_
+70-10	13810-13820	abstinence	_
+70-11	13821-13825	over	_
+70-12	13826-13827	a	_
+70-13	13828-13829	1	_
+70-14	13829-13830	 	_
+70-15	13830-13834	year	_
+70-16	13835-13836	(	_
+70-17	13836-13841	black	_
+70-18	13841-13842	;	_
+70-19	13843-13844	n	_
+70-20	13844-13845	 	_
+70-21	13845-13846	=	_
+70-22	13846-13847	 	_
+70-23	13847-13849	39	_
+70-24	13849-13850	)	_
+70-25	13851-13854	and	_
+70-26	13855-13860	those	_
+70-27	13861-13864	who	_
+70-28	13865-13873	relapsed	_
+70-29	13874-13880	within	_
+70-30	13881-13882	1	_
+70-31	13882-13883	 	_
+70-32	13883-13887	year	_
+70-33	13888-13890	of	_
+70-34	13891-13900	treatment	_
+70-35	13901-13902	(	_
+70-36	13902-13905	red	_
+70-37	13905-13906	;	_
+70-38	13907-13908	n	_
+70-39	13908-13909	 	_
+70-40	13909-13910	=	_
+70-41	13910-13911	 	_
+70-42	13911-13913	19	_
+70-43	13913-13914	)	_
+70-44	13914-13915	;	_
+70-45	13916-13920	data	_
+70-46	13921-13930	collapsed	_
+70-47	13931-13937	across	_
+70-48	13938-13941	all	_
+70-49	13942-13950	subjects	_
+70-50	13951-13954	for	_
+70-51	13955-13963	relapsed	_
+70-52	13964-13967	and	_
+70-53	13968-13977	abstinent	_
+70-54	13978-13984	groups	_
+70-55	13985-13995	separately	_
+70-56	13995-13996	,	_
+70-57	13997-14002	where	_
+70-58	14003-14005	Go	_
+70-59	14006-14012	trials	_
+70-60	14013-14017	were	_
+70-61	14018-14024	binned	_
+70-62	14025-14027	by	_
+70-63	14028-14029	P	_
+70-64	14029-14030	(	_
+70-65	14030-14034	stop	_
+70-66	14034-14035	)	_
+70-67	14036-14039	and	_
+70-68	14040-14047	average	_
+70-69	14048-14050	RT	_
+70-70	14051-14061	calculated	_
+70-71	14062-14065	for	_
+70-72	14066-14070	each	_
+70-73	14071-14074	bin	_
+70-74	14075-14085	separately	_
+70-75	14085-14086	;	_
+70-76	14087-14089	as	_
+70-77	14090-14099	predicted	_
+70-78	14100-14102	by	_
+70-79	14103-14106	our	_
+70-80	14107-14112	Bayes	_
+70-81	14113-14120	optimal	_
+70-82	14121-14136	decision-making	_
+70-83	14137-14142	model	_
+70-84	14142-14143	,	_
+70-85	14144-14145	a	_
+70-86	14146-14157	significant	_
+70-87	14158-14166	positive	_
+70-88	14167-14179	relationship	_
+70-89	14180-14183	was	_
+70-90	14184-14192	observed	_
+70-91	14193-14200	between	_
+70-92	14201-14212	individuals	_
+70-93	14212-14213	'	_
+70-94	14214-14216	Go	_
+70-95	14217-14225	reaction	_
+70-96	14226-14231	times	_
+70-97	14232-14233	(	_
+70-98	14233-14235	RT	_
+70-99	14235-14236	)	_
+70-100	14237-14240	and	_
+70-101	14241-14251	trial-wise	_
+70-102	14252-14253	P	_
+70-103	14253-14254	(	_
+70-104	14254-14258	stop	_
+70-105	14258-14259	)	_
+70-106	14260-14265	model	_
+70-107	14266-14275	estimates	_
+70-108	14276-14278	in	_
+70-109	14279-14283	each	_
+70-110	14284-14289	group	_
+70-111	14289-14290	;	_
+70-112	14291-14296	black	_
+70-113	14297-14300	and	_
+70-114	14301-14304	red	_
+70-115	14305-14310	lines	_
+70-116	14311-14320	represent	_
+70-117	14321-14325	best	_
+70-118	14326-14332	linear	_
+70-119	14333-14343	regression	_
+70-120	14344-14347	fit	_
+70-121	14348-14350	to	_
+70-122	14351-14355	mean	_
+70-123	14356-14358	go	_
+70-124	14359-14367	reaction	_
+70-125	14368-14372	time	_
+70-126	14373-14376	for	_
+70-127	14377-14381	each	_
+70-128	14382-14387	group	_
+70-129	14387-14388	.	_
+
+Text=Error bars   =   SEM.
+71-1	14389-14394	Error	_
+71-2	14395-14399	bars	_
+71-3	14399-14400	 	_
+71-4	14400-14401	=	_
+71-5	14401-14402	 	_
+71-6	14402-14405	SEM	_
+71-7	14405-14406	.	_
+
+Text=Fig. 1 In this study, model parameters for the beta distribution p0 (r) and α were kept constant across all participants, based on prior simulations that sought to optimize behavioral fit at the group level, i.e., maximizing the goodness-of-fit of the linear regression of P (Stop) on RT across all participants (see Supplementary Text 3).
+72-1	14407-14410	Fig	_
+72-2	14410-14411	.	_
+72-3	14412-14413	1	_
+72-4	14414-14416	In	_
+72-5	14417-14421	this	_
+72-6	14422-14427	study	_
+72-7	14427-14428	,	_
+72-8	14429-14434	model	_
+72-9	14435-14445	parameters	_
+72-10	14446-14449	for	_
+72-11	14450-14453	the	_
+72-12	14454-14458	beta	_
+72-13	14459-14471	distribution	_
+72-14	14472-14474	p0	_
+72-15	14474-14475	(	_
+72-16	14475-14476	r	_
+72-17	14476-14477	)	_
+72-18	14478-14481	and	_
+72-19	14482-14483	α	_
+72-20	14484-14488	were	_
+72-21	14489-14493	kept	_
+72-22	14494-14502	constant	_
+72-23	14503-14509	across	_
+72-24	14510-14513	all	_
+72-25	14514-14526	participants	_
+72-26	14526-14527	,	_
+72-27	14528-14533	based	_
+72-28	14534-14536	on	_
+72-29	14537-14542	prior	_
+72-30	14543-14554	simulations	_
+72-31	14555-14559	that	_
+72-32	14560-14566	sought	_
+72-33	14567-14569	to	_
+72-34	14570-14578	optimize	_
+72-35	14579-14589	behavioral	_
+72-36	14590-14593	fit	_
+72-37	14594-14596	at	_
+72-38	14597-14600	the	_
+72-39	14601-14606	group	_
+72-40	14607-14612	level	_
+72-41	14612-14613	,	_
+72-42	14614-14617	i.e	_
+72-43	14617-14618	.	_
+72-44	14618-14619	,	_
+72-45	14620-14630	maximizing	_
+72-46	14631-14634	the	_
+72-47	14635-14650	goodness-of-fit	_
+72-48	14651-14653	of	_
+72-49	14654-14657	the	_
+72-50	14658-14664	linear	_
+72-51	14665-14675	regression	_
+72-52	14676-14678	of	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+72-53	14679-14680	P	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+72-54	14680-14681	(	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+72-55	14681-14685	Stop	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+72-56	14685-14686	)	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+72-57	14687-14689	on	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+72-58	14690-14692	RT	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+72-59	14693-14699	across	_
+72-60	14700-14703	all	_
+72-61	14704-14716	participants	_
+72-62	14717-14718	(	_
+72-63	14718-14721	see	_
+72-64	14722-14735	Supplementary	_
+72-65	14736-14740	Text	_
+72-66	14741-14742	3	_
+72-67	14742-14743	)	_
+72-68	14743-14744	.	_
+
+Text=A fixed setting of p0   =   Beta (a   =   2.5, b   =   7.5; s   =   a   +   b   =   10; mean   =   0.25) was used, and alpha was fit to participants' data (range tested: 0.25 – 1.0; α   =   0.5 maximized overall fit across all participants; see Fig. 1A for P (stop) sequence).
+73-1	14745-14746	A	_
+73-2	14747-14752	fixed	_
+73-3	14753-14760	setting	_
+73-4	14761-14763	of	_
+73-5	14764-14766	p0	_
+73-6	14766-14767	 	_
+73-7	14767-14768	=	_
+73-8	14768-14769	 	_
+73-9	14769-14773	Beta	_
+73-10	14773-14774	(	_
+73-11	14774-14775	a	_
+73-12	14775-14776	 	_
+73-13	14776-14777	=	_
+73-14	14777-14778	 	_
+73-15	14778-14781	2.5	_
+73-16	14781-14782	,	_
+73-17	14782-14783	b	_
+73-18	14783-14784	 	_
+73-19	14784-14785	=	_
+73-20	14785-14786	 	_
+73-21	14786-14789	7.5	_
+73-22	14789-14790	;	_
+73-23	14791-14792	s	_
+73-24	14792-14793	 	_
+73-25	14793-14794	=	_
+73-26	14794-14795	 	_
+73-27	14795-14796	a	_
+73-28	14796-14797	 	_
+73-29	14797-14798	+	_
+73-30	14798-14799	 	_
+73-31	14799-14800	b	_
+73-32	14800-14801	 	_
+73-33	14801-14802	=	_
+73-34	14802-14803	 	_
+73-35	14803-14805	10	_
+73-36	14805-14806	;	_
+73-37	14807-14811	mean	_
+73-38	14811-14812	 	_
+73-39	14812-14813	=	_
+73-40	14813-14814	 	_
+73-41	14814-14818	0.25	_
+73-42	14818-14819	)	_
+73-43	14820-14823	was	_
+73-44	14824-14828	used	_
+73-45	14828-14829	,	_
+73-46	14830-14833	and	_
+73-47	14834-14839	alpha	_
+73-48	14840-14843	was	_
+73-49	14844-14847	fit	_
+73-50	14848-14850	to	_
+73-51	14851-14863	participants	_
+73-52	14863-14864	'	_
+73-53	14865-14869	data	_
+73-54	14870-14871	(	_
+73-55	14871-14876	range	_
+73-56	14877-14883	tested	_
+73-57	14883-14884	:	_
+73-58	14885-14889	0.25	_
+73-59	14889-14890	–	_
+73-60	14890-14893	1.0	_
+73-61	14893-14894	;	_
+73-62	14895-14896	α	_
+73-63	14896-14897	 	_
+73-64	14897-14898	=	_
+73-65	14898-14899	 	_
+73-66	14899-14902	0.5	_
+73-67	14903-14912	maximized	_
+73-68	14913-14920	overall	_
+73-69	14921-14924	fit	_
+73-70	14925-14931	across	_
+73-71	14932-14935	all	_
+73-72	14936-14948	participants	_
+73-73	14948-14949	;	_
+73-74	14950-14953	see	_
+73-75	14954-14957	Fig	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+73-76	14957-14958	.	_
+73-77	14959-14961	1A	_
+73-78	14962-14965	for	_
+73-79	14966-14967	P	_
+73-80	14967-14968	(	_
+73-81	14968-14972	stop	_
+73-82	14972-14973	)	_
+73-83	14974-14982	sequence	_
+73-84	14982-14983	)	_
+73-85	14983-14984	.	_
+
+Text=Image acquisition and preprocessing Using a fast event-related fMRI design, six T2 * - weighted EPI functional runs were collected for each participant, along with one T1 - weighted anatomical image.
+74-1	14985-14990	Image	_
+74-2	14991-15002	acquisition	_
+74-3	15003-15006	and	_
+74-4	15007-15020	preprocessing	_
+74-5	15021-15026	Using	_
+74-6	15027-15028	a	_
+74-7	15029-15033	fast	_
+74-8	15034-15047	event-related	_
+74-9	15048-15052	fMRI	_
+74-10	15053-15059	design	_
+74-11	15059-15060	,	_
+74-12	15061-15064	six	_
+74-13	15065-15067	T2	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+74-14	15067-15068	*	_
+74-15	15068-15069	-	_
+74-16	15069-15077	weighted	_
+74-17	15078-15081	EPI	_
+74-18	15082-15092	functional	_
+74-19	15093-15097	runs	_
+74-20	15098-15102	were	_
+74-21	15103-15112	collected	_
+74-22	15113-15116	for	_
+74-23	15117-15121	each	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+74-24	15122-15133	participant	_
+74-25	15133-15134	,	_
+74-26	15135-15140	along	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+74-27	15141-15145	with	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+74-28	15146-15149	one	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+74-29	15150-15152	T1	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+74-30	15152-15153	-	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+74-31	15153-15161	weighted	_
+74-32	15162-15172	anatomical	_
+74-33	15173-15178	image	_
+74-34	15178-15179	.	_
+
+Text=Each scanning session was conducted on a 3   T General Electric scanner with the following parameters: T2 * - weighted EPI, repetition time   =   2000   ms, echo time   =   40   ms, 64   ×   64 matrix, 30 4 - mm axial slices, FOV   =   220   ×   220   mm, in-plane voxel size   =   3.437, and flip angle   =   90o.
+75-1	15180-15184	Each	_
+75-2	15185-15193	scanning	_
+75-3	15194-15201	session	_
+75-4	15202-15205	was	_
+75-5	15206-15215	conducted	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-6	15216-15218	on	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-7	15219-15220	a	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-8	15221-15222	3	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-9	15222-15223	 	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-10	15223-15224	T	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-11	15225-15232	General	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-12	15233-15241	Electric	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-13	15242-15249	scanner	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-14	15250-15254	with	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-15	15255-15258	the	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-16	15259-15268	following	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-17	15269-15279	parameters	_
+75-18	15279-15280	:	_
+75-19	15281-15283	T2	_
+75-20	15283-15284	*	_
+75-21	15284-15285	-	_
+75-22	15285-15293	weighted	_
+75-23	15294-15297	EPI	_
+75-24	15297-15298	,	_
+75-25	15299-15309	repetition	_
+75-26	15310-15314	time	_
+75-27	15314-15315	 	_
+75-28	15315-15316	=	_
+75-29	15316-15317	 	_
+75-30	15317-15321	2000	_
+75-31	15321-15322	 	_
+75-32	15322-15324	ms	_
+75-33	15324-15325	,	_
+75-34	15326-15330	echo	_
+75-35	15331-15335	time	_
+75-36	15335-15336	 	_
+75-37	15336-15337	=	_
+75-38	15337-15338	 	_
+75-39	15338-15340	40	_
+75-40	15340-15341	 	_
+75-41	15341-15343	ms	_
+75-42	15343-15344	,	_
+75-43	15345-15347	64	_
+75-44	15347-15348	 	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+75-45	15348-15349	×	_
+75-46	15349-15350	 	_
+75-47	15350-15352	64	_
+75-48	15353-15359	matrix	_
+75-49	15359-15360	,	_
+75-50	15361-15363	30	_
+75-51	15364-15365	4	_
+75-52	15365-15366	-	_
+75-53	15366-15368	mm	_
+75-54	15369-15374	axial	_
+75-55	15375-15381	slices	_
+75-56	15381-15382	,	_
+75-57	15383-15386	FOV	_
+75-58	15386-15387	 	_
+75-59	15387-15388	=	_
+75-60	15388-15389	 	_
+75-61	15389-15392	220	_
+75-62	15392-15393	 	_
+75-63	15393-15394	×	_
+75-64	15394-15395	 	_
+75-65	15395-15398	220	_
+75-66	15398-15399	 	_
+75-67	15399-15401	mm	_
+75-68	15401-15402	,	_
+75-69	15403-15411	in-plane	_
+75-70	15412-15417	voxel	_
+75-71	15418-15422	size	_
+75-72	15422-15423	 	_
+75-73	15423-15424	=	_
+75-74	15424-15425	 	_
+75-75	15425-15430	3.437	_
+75-76	15430-15431	,	_
+75-77	15432-15435	and	_
+75-78	15436-15440	flip	_
+75-79	15441-15446	angle	_
+75-80	15446-15447	 	_
+75-81	15447-15448	=	_
+75-82	15448-15449	 	_
+75-83	15449-15452	90o	_
+75-84	15452-15453	.	_
+
+Text=Each run included 256 repetitions for a length of 8   min and 32   s.
+76-1	15454-15458	Each	_
+76-2	15459-15462	run	_
+76-3	15463-15471	included	_
+76-4	15472-15475	256	_
+76-5	15476-15487	repetitions	_
+76-6	15488-15491	for	_
+76-7	15492-15493	a	_
+76-8	15494-15500	length	_
+76-9	15501-15503	of	_
+76-10	15504-15505	8	_
+76-11	15505-15506	 	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+76-12	15506-15509	min	_
+76-13	15510-15513	and	_
+76-14	15514-15516	32	_
+76-15	15516-15517	 	_
+76-16	15517-15518	s	_
+76-17	15518-15519	.	_
+
+Text=Functional volume acquisitions were time-locked to task onset.
+77-1	15520-15530	Functional	_
+77-2	15531-15537	volume	_
+77-3	15538-15550	acquisitions	_
+77-4	15551-15555	were	_
+77-5	15556-15567	time-locked	_
+77-6	15568-15570	to	_
+77-7	15571-15575	task	_
+77-8	15576-15581	onset	_
+77-9	15581-15582	.	_
+
+Text=During the same experimental session, we collected a T1 - weighted image (MPRAGE, TR   =   11.4   ms, TE   =   4.4   ms, flip angle   =   10 degree, FOV   =   256   ×   256, 1   mm3 voxels) to be used for anatomical reference.
+78-1	15583-15589	During	_
+78-2	15590-15593	the	_
+78-3	15594-15598	same	_
+78-4	15599-15611	experimental	_
+78-5	15612-15619	session	_
+78-6	15619-15620	,	_
+78-7	15621-15623	we	_
+78-8	15624-15633	collected	_
+78-9	15634-15635	a	_
+78-10	15636-15638	T1	_
+78-11	15638-15639	-	_
+78-12	15639-15647	weighted	_
+78-13	15648-15653	image	_
+78-14	15654-15655	(	_
+78-15	15655-15661	MPRAGE	_
+78-16	15661-15662	,	_
+78-17	15663-15665	TR	_
+78-18	15665-15666	 	_
+78-19	15666-15667	=	_
+78-20	15667-15668	 	_
+78-21	15668-15672	11.4	_
+78-22	15672-15673	 	_
+78-23	15673-15675	ms	_
+78-24	15675-15676	,	_
+78-25	15677-15679	TE	_
+78-26	15679-15680	 	_
+78-27	15680-15681	=	_
+78-28	15681-15682	 	_
+78-29	15682-15685	4.4	_
+78-30	15685-15686	 	_
+78-31	15686-15688	ms	_
+78-32	15688-15689	,	_
+78-33	15690-15694	flip	_
+78-34	15695-15700	angle	_
+78-35	15700-15701	 	_
+78-36	15701-15702	=	_
+78-37	15702-15703	 	_
+78-38	15703-15705	10	_
+78-39	15706-15712	degree	_
+78-40	15712-15713	,	_
+78-41	15714-15717	FOV	_
+78-42	15717-15718	 	_
+78-43	15718-15719	=	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+78-44	15719-15720	 	_
+78-45	15720-15723	256	_
+78-46	15723-15724	 	_
+78-47	15724-15725	×	_
+78-48	15725-15726	 	_
+78-49	15726-15729	256	_
+78-50	15729-15730	,	_
+78-51	15731-15732	1	_
+78-52	15732-15733	 	_
+78-53	15733-15736	mm3	_
+78-54	15737-15743	voxels	_
+78-55	15743-15744	)	_
+78-56	15745-15747	to	_
+78-57	15748-15750	be	_
+78-58	15751-15755	used	_
+78-59	15756-15759	for	_
+78-60	15760-15770	anatomical	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+78-61	15771-15780	reference	_
+78-62	15780-15781	.	_
+
+Text=All structural and functional image processing and analysis was performed with the Analysis of Functional Neuroimages (AFNI) software package, and MRI x-y slices were reconstructed into AFNI BRIK format.
+79-1	15782-15785	All	_
+79-2	15786-15796	structural	_
+79-3	15797-15800	and	_
+79-4	15801-15811	functional	_
+79-5	15812-15817	image	_
+79-6	15818-15828	processing	_
+79-7	15829-15832	and	_
+79-8	15833-15841	analysis	_
+79-9	15842-15845	was	_
+79-10	15846-15855	performed	_
+79-11	15856-15860	with	_
+79-12	15861-15864	the	_
+79-13	15865-15873	Analysis	_
+79-14	15874-15876	of	_
+79-15	15877-15887	Functional	_
+79-16	15888-15899	Neuroimages	_
+79-17	15900-15901	(	_
+79-18	15901-15905	AFNI	_
+79-19	15905-15906	)	_
+79-20	15907-15915	software	_
+79-21	15916-15923	package	_
+79-22	15923-15924	,	_
+79-23	15925-15928	and	_
+79-24	15929-15932	MRI	_
+79-25	15933-15936	x-y	_
+79-26	15937-15943	slices	_
+79-27	15944-15948	were	_
+79-28	15949-15962	reconstructed	_
+79-29	15963-15967	into	_
+79-30	15968-15972	AFNI	_
+79-31	15973-15977	BRIK	_
+79-32	15978-15984	format	_
+79-33	15984-15985	.	_
+
+Text=Echoplanar images underwent automatic coregistration to the anatomical image and each participant dataset was visually inspected to confirm successful alignment.
+80-1	15986-15996	Echoplanar	_
+80-2	15997-16003	images	_
+80-3	16004-16013	underwent	_
+80-4	16014-16023	automatic	_
+80-5	16024-16038	coregistration	_
+80-6	16039-16041	to	_
+80-7	16042-16045	the	_
+80-8	16046-16056	anatomical	_
+80-9	16057-16062	image	_
+80-10	16063-16066	and	_
+80-11	16067-16071	each	_
+80-12	16072-16083	participant	_
+80-13	16084-16091	dataset	_
+80-14	16092-16095	was	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+80-15	16096-16104	visually	_
+80-16	16105-16114	inspected	_
+80-17	16115-16117	to	_
+80-18	16118-16125	confirm	_
+80-19	16126-16136	successful	_
+80-20	16137-16146	alignment	_
+80-21	16146-16147	.	_
+
+Text=Outlier voxels were identified in the aligned images based on whether a given time point greatly exceeded the mean number of voxel outliers for the time-series.
+81-1	16148-16155	Outlier	_
+81-2	16156-16162	voxels	_
+81-3	16163-16167	were	_
+81-4	16168-16178	identified	_
+81-5	16179-16181	in	_
+81-6	16182-16185	the	_
+81-7	16186-16193	aligned	_
+81-8	16194-16200	images	_
+81-9	16201-16206	based	_
+81-10	16207-16209	on	_
+81-11	16210-16217	whether	_
+81-12	16218-16219	a	_
+81-13	16220-16225	given	_
+81-14	16226-16230	time	_
+81-15	16231-16236	point	_
+81-16	16237-16244	greatly	_
+81-17	16245-16253	exceeded	_
+81-18	16254-16257	the	_
+81-19	16258-16262	mean	_
+81-20	16263-16269	number	_
+81-21	16270-16272	of	_
+81-22	16273-16278	voxel	_
+81-23	16279-16287	outliers	_
+81-24	16288-16291	for	_
+81-25	16292-16295	the	_
+81-26	16296-16307	time-series	_
+81-27	16307-16308	.	_
+
+Text=Time points with high numbers of outlier voxels were excluded from subsequent analyses.
+82-1	16309-16313	Time	_
+82-2	16314-16320	points	_
+82-3	16321-16325	with	_
+82-4	16326-16330	high	_
+82-5	16331-16338	numbers	_
+82-6	16339-16341	of	_
+82-7	16342-16349	outlier	_
+82-8	16350-16356	voxels	_
+82-9	16357-16361	were	_
+82-10	16362-16370	excluded	_
+82-11	16371-16375	from	_
+82-12	16376-16386	subsequent	_
+82-13	16387-16395	analyses	_
+82-14	16395-16396	.	_
+
+Text=First-level fMRI analyses In a first general linear model (GLM), Go, Stop Success / SS, and Stop Error / SE trials were distinguished and convolved with a canonical hemodynamic response function (Go Error trials were scarce and not included in these analyses).
+83-1	16397-16408	First-level	_
+83-2	16409-16413	fMRI	_
+83-3	16414-16422	analyses	_
+83-4	16423-16425	In	_
+83-5	16426-16427	a	_
+83-6	16428-16433	first	_
+83-7	16434-16441	general	_
+83-8	16442-16448	linear	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+83-9	16449-16454	model	_
+83-10	16455-16456	(	_
+83-11	16456-16459	GLM	_
+83-12	16459-16460	)	_
+83-13	16460-16461	,	_
+83-14	16462-16464	Go	_
+83-15	16464-16465	,	_
+83-16	16466-16470	Stop	_
+83-17	16471-16478	Success	_
+83-18	16478-16479	/	_
+83-19	16479-16481	SS	_
+83-20	16481-16482	,	_
+83-21	16483-16486	and	_
+83-22	16487-16491	Stop	_
+83-23	16492-16497	Error	_
+83-24	16497-16498	/	_
+83-25	16498-16500	SE	_
+83-26	16501-16507	trials	_
+83-27	16508-16512	were	_
+83-28	16513-16526	distinguished	_
+83-29	16527-16530	and	_
+83-30	16531-16540	convolved	_
+83-31	16541-16545	with	_
+83-32	16546-16547	a	_
+83-33	16548-16557	canonical	_
+83-34	16558-16569	hemodynamic	_
+83-35	16570-16578	response	_
+83-36	16579-16587	function	_
+83-37	16588-16589	(	_
+83-38	16589-16591	Go	_
+83-39	16592-16597	Error	_
+83-40	16598-16604	trials	_
+83-41	16605-16609	were	_
+83-42	16610-16616	scarce	_
+83-43	16617-16620	and	_
+83-44	16621-16624	not	_
+83-45	16625-16633	included	_
+83-46	16634-16636	in	_
+83-47	16637-16642	these	_
+83-48	16643-16651	analyses	_
+83-49	16651-16652	)	_
+83-50	16652-16653	.	_
+
+Text=Each was entered as both categorical and P (stop) - modulated regressor (i.e., Go, SS, SE, GoxPk (stop), SSxPk (stop), and SExPk (stop)).
+84-1	16654-16658	Each	_
+84-2	16659-16662	was	_
+84-3	16663-16670	entered	_
+84-4	16671-16673	as	_
+84-5	16674-16678	both	_
+84-6	16679-16690	categorical	_
+84-7	16691-16694	and	_
+84-8	16695-16696	P	_
+84-9	16696-16697	(	_
+84-10	16697-16701	stop	_
+84-11	16701-16702	)	_
+84-12	16702-16703	-	_
+84-13	16703-16712	modulated	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+84-14	16713-16722	regressor	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+84-15	16723-16724	(	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+84-16	16724-16727	i.e	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+84-17	16727-16728	.	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+84-18	16728-16729	,	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+84-19	16730-16732	Go	_
+84-20	16732-16733	,	_
+84-21	16734-16736	SS	_
+84-22	16736-16737	,	_
+84-23	16738-16740	SE	_
+84-24	16740-16741	,	_
+84-25	16742-16747	GoxPk	_
+84-26	16747-16748	(	_
+84-27	16748-16752	stop	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+84-28	16752-16753	)	_
+84-29	16753-16754	,	_
+84-30	16755-16760	SSxPk	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+84-31	16760-16761	(	_
+84-32	16761-16765	stop	_
+84-33	16765-16766	)	_
+84-34	16766-16767	,	_
+84-35	16768-16771	and	_
+84-36	16772-16777	SExPk	_
+84-37	16777-16778	(	_
+84-38	16778-16782	stop	_
+84-39	16782-16783	)	_
+84-40	16783-16784	)	_
+84-41	16784-16785	.	_
+
+Text=To more specifically isolate neural activity related to belief updating processes vs uncertainty tracking, a second GLM was created with two types of trial-wise Bayesian prediction errors as parametric regressors, representing the discrepancy between expected likelihood of having to stop on the upcoming trial (i.e., P (stop)) and actual trial type observed (i.e., Go   =   0, Stop   =   1).
+85-1	16786-16788	To	_
+85-2	16789-16793	more	_
+85-3	16794-16806	specifically	_
+85-4	16807-16814	isolate	_
+85-5	16815-16821	neural	_
+85-6	16822-16830	activity	_
+85-7	16831-16838	related	_
+85-8	16839-16841	to	_
+85-9	16842-16848	belief	_
+85-10	16849-16857	updating	_
+85-11	16858-16867	processes	_
+85-12	16868-16870	vs	_
+85-13	16871-16882	uncertainty	_
+85-14	16883-16891	tracking	_
+85-15	16891-16892	,	_
+85-16	16893-16894	a	_
+85-17	16895-16901	second	_
+85-18	16902-16905	GLM	_
+85-19	16906-16909	was	_
+85-20	16910-16917	created	_
+85-21	16918-16922	with	_
+85-22	16923-16926	two	_
+85-23	16927-16932	types	_
+85-24	16933-16935	of	_
+85-25	16936-16946	trial-wise	_
+85-26	16947-16955	Bayesian	_
+85-27	16956-16966	prediction	_
+85-28	16967-16973	errors	_
+85-29	16974-16976	as	_
+85-30	16977-16987	parametric	_
+85-31	16988-16998	regressors	_
+85-32	16998-16999	,	_
+85-33	17000-17012	representing	_
+85-34	17013-17016	the	_
+85-35	17017-17028	discrepancy	_
+85-36	17029-17036	between	_
+85-37	17037-17045	expected	_
+85-38	17046-17056	likelihood	_
+85-39	17057-17059	of	_
+85-40	17060-17066	having	_
+85-41	17067-17069	to	_
+85-42	17070-17074	stop	_
+85-43	17075-17077	on	_
+85-44	17078-17081	the	_
+85-45	17082-17090	upcoming	_
+85-46	17091-17096	trial	_
+85-47	17097-17098	(	_
+85-48	17098-17101	i.e	_
+85-49	17101-17102	.	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+85-50	17102-17103	,	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+85-51	17104-17105	P	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+85-52	17105-17106	(	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+85-53	17106-17110	stop	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+85-54	17110-17111	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+85-55	17111-17112	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+85-56	17113-17116	and	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+85-57	17117-17123	actual	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+85-58	17124-17129	trial	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+85-59	17130-17134	type	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+85-60	17135-17143	observed	_
+85-61	17144-17145	(	_
+85-62	17145-17148	i.e	_
+85-63	17148-17149	.	_
+85-64	17149-17150	,	_
+85-65	17151-17153	Go	_
+85-66	17153-17154	 	_
+85-67	17154-17155	=	_
+85-68	17155-17156	 	_
+85-69	17156-17157	0	_
+85-70	17157-17158	,	_
+85-71	17159-17163	Stop	_
+85-72	17163-17164	 	_
+85-73	17164-17165	=	_
+85-74	17165-17166	 	_
+85-75	17166-17167	1	_
+85-76	17167-17168	)	_
+85-77	17168-17169	.	_
+
+Text=These regressors included in this order the signed prediction error (SPE   =   outcome-P (stop)   =   sk-Pk (stop)) and the unsigned prediction error (UPE   =   | outcome-Pk (stop) |   =   | sk-Pk (stop) |; see Fig. 1A, bottom), as well as trial error (0   =   correct or 1   =   error) to control for performance error related activity.
+86-1	17170-17175	These	_
+86-2	17176-17186	regressors	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+86-3	17187-17195	included	_
+86-4	17196-17198	in	_
+86-5	17199-17203	this	_
+86-6	17204-17209	order	_
+86-7	17210-17213	the	_
+86-8	17214-17220	signed	_
+86-9	17221-17231	prediction	_
+86-10	17232-17237	error	_
+86-11	17238-17239	(	_
+86-12	17239-17242	SPE	_
+86-13	17242-17243	 	_
+86-14	17243-17244	=	_
+86-15	17244-17245	 	_
+86-16	17245-17254	outcome-P	_
+86-17	17254-17255	(	_
+86-18	17255-17259	stop	_
+86-19	17259-17260	)	_
+86-20	17260-17261	 	_
+86-21	17261-17262	=	_
+86-22	17262-17263	 	_
+86-23	17263-17268	sk-Pk	_
+86-24	17268-17269	(	_
+86-25	17269-17273	stop	_
+86-26	17273-17274	)	_
+86-27	17274-17275	)	_
+86-28	17276-17279	and	_
+86-29	17280-17283	the	_
+86-30	17284-17292	unsigned	_
+86-31	17293-17303	prediction	_
+86-32	17304-17309	error	_
+86-33	17310-17311	(	_
+86-34	17311-17314	UPE	_
+86-35	17314-17315	 	_
+86-36	17315-17316	=	_
+86-37	17316-17317	 	_
+86-38	17317-17318	|	_
+86-39	17318-17328	outcome-Pk	_
+86-40	17328-17329	(	_
+86-41	17329-17333	stop	_
+86-42	17333-17334	)	_
+86-43	17334-17335	|	_
+86-44	17335-17336	 	_
+86-45	17336-17337	=	_
+86-46	17337-17338	 	_
+86-47	17338-17339	|	_
+86-48	17339-17344	sk-Pk	_
+86-49	17344-17345	(	_
+86-50	17345-17349	stop	_
+86-51	17349-17350	)	_
+86-52	17350-17351	|	_
+86-53	17351-17352	;	_
+86-54	17353-17356	see	_
+86-55	17357-17360	Fig	_
+86-56	17360-17361	.	_
+86-57	17362-17364	1A	_
+86-58	17364-17365	,	_
+86-59	17366-17372	bottom	_
+86-60	17372-17373	)	_
+86-61	17373-17374	,	_
+86-62	17375-17377	as	_
+86-63	17378-17382	well	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+86-64	17383-17385	as	_
+86-65	17386-17391	trial	_
+86-66	17392-17397	error	_
+86-67	17398-17399	(	_
+86-68	17399-17400	0	_
+86-69	17400-17401	 	_
+86-70	17401-17402	=	_
+86-71	17402-17403	 	_
+86-72	17403-17410	correct	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+86-73	17411-17413	or	_
+86-74	17414-17415	1	_
+86-75	17415-17416	 	_
+86-76	17416-17417	=	_
+86-77	17417-17418	 	_
+86-78	17418-17423	error	_
+86-79	17423-17424	)	_
+86-80	17425-17427	to	_
+86-81	17428-17435	control	_
+86-82	17436-17439	for	_
+86-83	17440-17451	performance	_
+86-84	17452-17457	error	_
+86-85	17458-17465	related	_
+86-86	17466-17474	activity	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+86-87	17474-17475	.	_
+
+Text=Each of these regressors were orthogonalized with respect to the preceding one given the non-trivial collinearity between them.
+87-1	17476-17480	Each	_
+87-2	17481-17483	of	_
+87-3	17484-17489	these	_
+87-4	17490-17500	regressors	_
+87-5	17501-17505	were	_
+87-6	17506-17520	orthogonalized	_
+87-7	17521-17525	with	_
+87-8	17526-17533	respect	_
+87-9	17534-17536	to	_
+87-10	17537-17540	the	_
+87-11	17541-17550	preceding	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+87-12	17551-17554	one	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+87-13	17555-17560	given	_
+87-14	17561-17564	the	_
+87-15	17565-17576	non-trivial	_
+87-16	17577-17589	collinearity	_
+87-17	17590-17597	between	_
+87-18	17598-17602	them	_
+87-19	17602-17603	.	_
+
+Text=Both GLMs included the following regressors of no-interest: a baseline regressor (inter-trial intervals), three linear drift regressors (x, y, z), and three motion regressors (pitch, yaw, roll), and Go RTs (residualized with respect to P (stop)) to control for motor response confounds.
+88-1	17604-17608	Both	_
+88-2	17609-17613	GLMs	_
+88-3	17614-17622	included	_
+88-4	17623-17626	the	_
+88-5	17627-17636	following	_
+88-6	17637-17647	regressors	_
+88-7	17648-17650	of	_
+88-8	17651-17662	no-interest	_
+88-9	17662-17663	:	_
+88-10	17664-17665	a	_
+88-11	17666-17674	baseline	_
+88-12	17675-17684	regressor	_
+88-13	17685-17686	(	_
+88-14	17686-17697	inter-trial	_
+88-15	17698-17707	intervals	_
+88-16	17707-17708	)	_
+88-17	17708-17709	,	_
+88-18	17710-17715	three	_
+88-19	17716-17722	linear	_
+88-20	17723-17728	drift	_
+88-21	17729-17739	regressors	_
+88-22	17740-17741	(	_
+88-23	17741-17742	x	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+88-24	17742-17743	,	_
+88-25	17743-17744	y	_
+88-26	17744-17745	,	_
+88-27	17745-17746	z	_
+88-28	17746-17747	)	_
+88-29	17747-17748	,	_
+88-30	17749-17752	and	_
+88-31	17753-17758	three	_
+88-32	17759-17765	motion	_
+88-33	17766-17776	regressors	_
+88-34	17777-17778	(	_
+88-35	17778-17783	pitch	_
+88-36	17783-17784	,	_
+88-37	17785-17788	yaw	_
+88-38	17788-17789	,	_
+88-39	17790-17794	roll	_
+88-40	17794-17795	)	_
+88-41	17795-17796	,	_
+88-42	17797-17800	and	_
+88-43	17801-17803	Go	_
+88-44	17804-17807	RTs	_
+88-45	17808-17809	(	_
+88-46	17809-17821	residualized	_
+88-47	17822-17826	with	_
+88-48	17827-17834	respect	_
+88-49	17835-17837	to	_
+88-50	17838-17839	P	_
+88-51	17839-17840	(	_
+88-52	17840-17844	stop	_
+88-53	17844-17845	)	_
+88-54	17845-17846	)	_
+88-55	17847-17849	to	_
+88-56	17850-17857	control	_
+88-57	17858-17861	for	_
+88-58	17862-17867	motor	_
+88-59	17868-17876	response	_
+88-60	17877-17886	confounds	_
+88-61	17886-17887	.	_
+
+Text=Images were spatially filtered (Gaussian full width half maximum 4   mm) to account for individual anatomical differences.
+89-1	17888-17894	Images	_
+89-2	17895-17899	were	_
+89-3	17900-17909	spatially	_
+89-4	17910-17918	filtered	_
+89-5	17919-17920	(	_
+89-6	17920-17928	Gaussian	_
+89-7	17929-17933	full	_
+89-8	17934-17939	width	_
+89-9	17940-17944	half	_
+89-10	17945-17952	maximum	_
+89-11	17953-17954	4	_
+89-12	17954-17955	 	_
+89-13	17955-17957	mm	_
+89-14	17957-17958	)	_
+89-15	17959-17961	to	_
+89-16	17962-17969	account	_
+89-17	17970-17973	for	_
+89-18	17974-17984	individual	_
+89-19	17985-17995	anatomical	_
+89-20	17996-18007	differences	_
+89-21	18007-18008	.	_
+
+Text=Automated Talairach transformations were applied to anatomical images and functional images were subsequently transformed into Talairach space.
+90-1	18009-18018	Automated	_
+90-2	18019-18028	Talairach	_
+90-3	18029-18044	transformations	_
+90-4	18045-18049	were	_
+90-5	18050-18057	applied	_
+90-6	18058-18060	to	_
+90-7	18061-18071	anatomical	_
+90-8	18072-18078	images	_
+90-9	18079-18082	and	_
+90-10	18083-18093	functional	_
+90-11	18094-18100	images	_
+90-12	18101-18105	were	_
+90-13	18106-18118	subsequently	_
+90-14	18119-18130	transformed	_
+90-15	18131-18135	into	_
+90-16	18136-18145	Talairach	_
+90-17	18146-18151	space	_
+90-18	18151-18152	.	_
+
+Text=Percent signal change (% SC) was determined by dividing the signal for each regressor of interest by the baseline regressor.
+91-1	18153-18160	Percent	_
+91-2	18161-18167	signal	_
+91-3	18168-18174	change	_
+91-4	18175-18176	(	_
+91-5	18176-18177	%	_
+91-6	18177-18179	SC	_
+91-7	18179-18180	)	_
+91-8	18181-18184	was	_
+91-9	18185-18195	determined	_
+91-10	18196-18198	by	_
+91-11	18199-18207	dividing	_
+91-12	18208-18211	the	_
+91-13	18212-18218	signal	_
+91-14	18219-18222	for	_
+91-15	18223-18227	each	_
+91-16	18228-18237	regressor	_
+91-17	18238-18240	of	_
+91-18	18241-18249	interest	_
+91-19	18250-18252	by	_
+91-20	18253-18256	the	_
+91-21	18257-18265	baseline	_
+91-22	18266-18275	regressor	_
+91-23	18275-18276	.	_
+
+Text=Second-level analyses At the between-subject level, two types of voxelwise mixed-effects linear models (LME) were fit to the coefficients of our first-level GLM.
+92-1	18277-18289	Second-level	_
+92-2	18290-18298	analyses	_
+92-3	18299-18301	At	_
+92-4	18302-18305	the	_
+92-5	18306-18321	between-subject	_
+92-6	18322-18327	level	_
+92-7	18327-18328	,	_
+92-8	18329-18332	two	_
+92-9	18333-18338	types	_
+92-10	18339-18341	of	_
+92-11	18342-18351	voxelwise	_
+92-12	18352-18365	mixed-effects	_
+92-13	18366-18372	linear	_
+92-14	18373-18379	models	_
+92-15	18380-18381	(	_
+92-16	18381-18384	LME	_
+92-17	18384-18385	)	_
+92-18	18386-18390	were	_
+92-19	18391-18394	fit	_
+92-20	18395-18397	to	_
+92-21	18398-18401	the	_
+92-22	18402-18414	coefficients	_
+92-23	18415-18417	of	_
+92-24	18418-18421	our	_
+92-25	18422-18433	first-level	_
+92-26	18434-18437	GLM	_
+92-27	18437-18438	.	_
+
+Text=In the first LME, we first tested for the interaction of clinical status (abstinent vs relapsed) and modulation of P (Stop) under each Go vs Stop trials (i.e, GoxP (stop) vs StopxPk (stop), SS and SE were averaged), with subject treated as random intercept effect.
+93-1	18439-18441	In	_
+93-2	18442-18445	the	_
+93-3	18446-18451	first	_
+93-4	18452-18455	LME	_
+93-5	18455-18456	,	_
+93-6	18457-18459	we	_
+93-7	18460-18465	first	_
+93-8	18466-18472	tested	_
+93-9	18473-18476	for	_
+93-10	18477-18480	the	_
+93-11	18481-18492	interaction	_
+93-12	18493-18495	of	_
+93-13	18496-18504	clinical	_
+93-14	18505-18511	status	_
+93-15	18512-18513	(	_
+93-16	18513-18522	abstinent	_
+93-17	18523-18525	vs	_
+93-18	18526-18534	relapsed	_
+93-19	18534-18535	)	_
+93-20	18536-18539	and	_
+93-21	18540-18550	modulation	_
+93-22	18551-18553	of	_
+93-23	18554-18555	P	_
+93-24	18555-18556	(	_
+93-25	18556-18560	Stop	_
+93-26	18560-18561	)	_
+93-27	18562-18567	under	_
+93-28	18568-18572	each	_
+93-29	18573-18575	Go	_
+93-30	18576-18578	vs	_
+93-31	18579-18583	Stop	_
+93-32	18584-18590	trials	_
+93-33	18591-18592	(	_
+93-34	18592-18595	i.e	_
+93-35	18595-18596	,	_
+93-36	18597-18601	GoxP	_
+93-37	18601-18602	(	_
+93-38	18602-18606	stop	_
+93-39	18606-18607	)	_
+93-40	18608-18610	vs	_
+93-41	18611-18618	StopxPk	_
+93-42	18618-18619	(	_
+93-43	18619-18623	stop	_
+93-44	18623-18624	)	_
+93-45	18624-18625	,	_
+93-46	18626-18628	SS	_
+93-47	18629-18632	and	_
+93-48	18633-18635	SE	_
+93-49	18636-18640	were	_
+93-50	18641-18649	averaged	_
+93-51	18649-18650	)	_
+93-52	18650-18651	,	_
+93-53	18652-18656	with	_
+93-54	18657-18664	subject	_
+93-55	18665-18672	treated	_
+93-56	18673-18675	as	_
+93-57	18676-18682	random	_
+93-58	18683-18692	intercept	_
+93-59	18693-18699	effect	_
+93-60	18699-18700	.	_
+
+Text=Whole brain statistical maps were obtained for the group main effect (reflecting areas tracking a clinical status group difference in prior P (stop) value irrespective of trial type) and the clinical status X P (stop) modulated trial type interaction.
+94-1	18701-18706	Whole	_
+94-2	18707-18712	brain	_
+94-3	18713-18724	statistical	_
+94-4	18725-18729	maps	_
+94-5	18730-18734	were	_
+94-6	18735-18743	obtained	_
+94-7	18744-18747	for	_
+94-8	18748-18751	the	_
+94-9	18752-18757	group	_
+94-10	18758-18762	main	_
+94-11	18763-18769	effect	_
+94-12	18770-18771	(	_
+94-13	18771-18781	reflecting	_
+94-14	18782-18787	areas	_
+94-15	18788-18796	tracking	_
+94-16	18797-18798	a	_
+94-17	18799-18807	clinical	_
+94-18	18808-18814	status	_
+94-19	18815-18820	group	_
+94-20	18821-18831	difference	_
+94-21	18832-18834	in	_
+94-22	18835-18840	prior	_
+94-23	18841-18842	P	_
+94-24	18842-18843	(	_
+94-25	18843-18847	stop	_
+94-26	18847-18848	)	_
+94-27	18849-18854	value	_
+94-28	18855-18867	irrespective	_
+94-29	18868-18870	of	_
+94-30	18871-18876	trial	_
+94-31	18877-18881	type	_
+94-32	18881-18882	)	_
+94-33	18883-18886	and	_
+94-34	18887-18890	the	_
+94-35	18891-18899	clinical	_
+94-36	18900-18906	status	_
+94-37	18907-18908	X	_
+94-38	18909-18910	P	_
+94-39	18910-18911	(	_
+94-40	18911-18915	stop	_
+94-41	18915-18916	)	_
+94-42	18917-18926	modulated	_
+94-43	18927-18932	trial	_
+94-44	18933-18937	type	_
+94-45	18938-18949	interaction	_
+94-46	18949-18950	.	_
+
+Text=In order to assess for potential group difference in the modulation of trial accuracy (i.e., successful vs failed inhibition) by P (stop), a similar LME approach was used.
+95-1	18951-18953	In	_
+95-2	18954-18959	order	_
+95-3	18960-18962	to	_
+95-4	18963-18969	assess	_
+95-5	18970-18973	for	_
+95-6	18974-18983	potential	_
+95-7	18984-18989	group	_
+95-8	18990-19000	difference	_
+95-9	19001-19003	in	_
+95-10	19004-19007	the	_
+95-11	19008-19018	modulation	_
+95-12	19019-19021	of	_
+95-13	19022-19027	trial	_
+95-14	19028-19036	accuracy	_
+95-15	19037-19038	(	_
+95-16	19038-19041	i.e	_
+95-17	19041-19042	.	_
+95-18	19042-19043	,	_
+95-19	19044-19054	successful	_
+95-20	19055-19057	vs	_
+95-21	19058-19064	failed	_
+95-22	19065-19075	inhibition	_
+95-23	19075-19076	)	_
+95-24	19077-19079	by	_
+95-25	19080-19081	P	_
+95-26	19081-19082	(	_
+95-27	19082-19086	stop	_
+95-28	19086-19087	)	_
+95-29	19087-19088	,	_
+95-30	19089-19090	a	_
+95-31	19091-19098	similar	_
+95-32	19099-19102	LME	_
+95-33	19103-19111	approach	_
+95-34	19112-19115	was	_
+95-35	19116-19120	used	_
+95-36	19120-19121	.	_
+
+Text=Specifically, we obtained statistical maps for the main effect of clinical status (reflecting potential group difference in P (stop) activation on Stop trials irrespective of accuracy) and for the clinical status X P (stop) modulated trial type (SE vs SS) interaction.
+96-1	19122-19134	Specifically	_
+96-2	19134-19135	,	_
+96-3	19136-19138	we	_
+96-4	19139-19147	obtained	_
+96-5	19148-19159	statistical	_
+96-6	19160-19164	maps	_
+96-7	19165-19168	for	_
+96-8	19169-19172	the	_
+96-9	19173-19177	main	_
+96-10	19178-19184	effect	_
+96-11	19185-19187	of	_
+96-12	19188-19196	clinical	_
+96-13	19197-19203	status	_
+96-14	19204-19205	(	_
+96-15	19205-19215	reflecting	_
+96-16	19216-19225	potential	_
+96-17	19226-19231	group	_
+96-18	19232-19242	difference	_
+96-19	19243-19245	in	_
+96-20	19246-19247	P	_
+96-21	19247-19248	(	_
+96-22	19248-19252	stop	_
+96-23	19252-19253	)	_
+96-24	19254-19264	activation	_
+96-25	19265-19267	on	_
+96-26	19268-19272	Stop	_
+96-27	19273-19279	trials	_
+96-28	19280-19292	irrespective	_
+96-29	19293-19295	of	_
+96-30	19296-19304	accuracy	_
+96-31	19304-19305	)	_
+96-32	19306-19309	and	_
+96-33	19310-19313	for	_
+96-34	19314-19317	the	_
+96-35	19318-19326	clinical	_
+96-36	19327-19333	status	_
+96-37	19334-19335	X	_
+96-38	19336-19337	P	_
+96-39	19337-19338	(	_
+96-40	19338-19342	stop	_
+96-41	19342-19343	)	_
+96-42	19344-19353	modulated	_
+96-43	19354-19359	trial	_
+96-44	19360-19364	type	_
+96-45	19365-19366	(	_
+96-46	19366-19368	SE	_
+96-47	19369-19371	vs	_
+96-48	19372-19374	SS	_
+96-49	19374-19375	)	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+96-50	19376-19387	interaction	_
+96-51	19387-19388	.	_
+
+Text=To correct for multiple comparisons, we used a cluster threshold adjustment based on Monte Carlo simulations (generated with AFNI's 3dClustSim program).
+97-1	19389-19391	To	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+97-2	19392-19399	correct	_
+97-3	19400-19403	for	_
+97-4	19404-19412	multiple	_
+97-5	19413-19424	comparisons	_
+97-6	19424-19425	,	_
+97-7	19426-19428	we	_
+97-8	19429-19433	used	_
+97-9	19434-19435	a	_
+97-10	19436-19443	cluster	_
+97-11	19444-19453	threshold	_
+97-12	19454-19464	adjustment	_
+97-13	19465-19470	based	_
+97-14	19471-19473	on	_
+97-15	19474-19479	Monte	_
+97-16	19480-19485	Carlo	_
+97-17	19486-19497	simulations	_
+97-18	19498-19499	(	_
+97-19	19499-19508	generated	_
+97-20	19509-19513	with	_
+97-21	19514-19520	AFNI's	_
+97-22	19521-19531	3dClustSim	_
+97-23	19532-19539	program	_
+97-24	19539-19540	)	_
+97-25	19540-19541	.	_
+
+Text=We first calculated spatial autocorrelation function (acf) parameters from the 1st glm model residuals, using the 3dFHWMx function (which does not assume a purely Gaussian acf function, but rather a mixture of Gaussian and mono-exponential).
+98-1	19542-19544	We	_
+98-2	19545-19550	first	_
+98-3	19551-19561	calculated	_
+98-4	19562-19569	spatial	_
+98-5	19570-19585	autocorrelation	_
+98-6	19586-19594	function	_
+98-7	19595-19596	(	_
+98-8	19596-19599	acf	_
+98-9	19599-19600	)	_
+98-10	19601-19611	parameters	_
+98-11	19612-19616	from	_
+98-12	19617-19620	the	_
+98-13	19621-19624	1st	_
+98-14	19625-19628	glm	_
+98-15	19629-19634	model	_
+98-16	19635-19644	residuals	_
+98-17	19644-19645	,	_
+98-18	19646-19651	using	_
+98-19	19652-19655	the	_
+98-20	19656-19663	3dFHWMx	_
+98-21	19664-19672	function	_
+98-22	19673-19674	(	_
+98-23	19674-19679	which	_
+98-24	19680-19684	does	_
+98-25	19685-19688	not	_
+98-26	19689-19695	assume	_
+98-27	19696-19697	a	_
+98-28	19698-19704	purely	_
+98-29	19705-19713	Gaussian	_
+98-30	19714-19717	acf	_
+98-31	19718-19726	function	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+98-32	19726-19727	,	_
+98-33	19728-19731	but	_
+98-34	19732-19738	rather	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+98-35	19739-19740	a	_
+98-36	19741-19748	mixture	_
+98-37	19749-19751	of	_
+98-38	19752-19760	Gaussian	_
+98-39	19761-19764	and	_
+98-40	19765-19781	mono-exponential	_
+98-41	19781-19782	)	_
+98-42	19782-19783	.	_
+
+Text=The obtained parameters, averaged across participants, were fed to the 3dClustSim function to determine FWER corrected cluster size.
+99-1	19784-19787	The	_
+99-2	19788-19796	obtained	_
+99-3	19797-19807	parameters	_
+99-4	19807-19808	,	_
+99-5	19809-19817	averaged	_
+99-6	19818-19824	across	_
+99-7	19825-19837	participants	_
+99-8	19837-19838	,	_
+99-9	19839-19843	were	_
+99-10	19844-19847	fed	_
+99-11	19848-19850	to	_
+99-12	19851-19854	the	_
+99-13	19855-19865	3dClustSim	_
+99-14	19866-19874	function	_
+99-15	19875-19877	to	_
+99-16	19878-19887	determine	_
+99-17	19888-19892	FWER	_
+99-18	19893-19902	corrected	_
+99-19	19903-19910	cluster	_
+99-20	19911-19915	size	_
+99-21	19915-19916	.	_
+
+Text=Based on the simulations, a minimum cluster volume of 896   μL was found to be sufficient to correct for multiple comparisons at FWER   =   p   < .05 with a minimum voxelwise significant threshold of p   < .005.
+100-1	19917-19922	Based	_
+100-2	19923-19925	on	_
+100-3	19926-19929	the	_
+100-4	19930-19941	simulations	_
+100-5	19941-19942	,	_
+100-6	19943-19944	a	_
+100-7	19945-19952	minimum	_
+100-8	19953-19960	cluster	_
+100-9	19961-19967	volume	_
+100-10	19968-19970	of	_
+100-11	19971-19974	896	_
+100-12	19974-19975	 	_
+100-13	19975-19977	μL	_
+100-14	19978-19981	was	_
+100-15	19982-19987	found	_
+100-16	19988-19990	to	_
+100-17	19991-19993	be	_
+100-18	19994-20004	sufficient	_
+100-19	20005-20007	to	_
+100-20	20008-20015	correct	_
+100-21	20016-20019	for	_
+100-22	20020-20028	multiple	_
+100-23	20029-20040	comparisons	_
+100-24	20041-20043	at	_
+100-25	20044-20048	FWER	_
+100-26	20048-20049	 	_
+100-27	20049-20050	=	_
+100-28	20050-20051	 	_
+100-29	20051-20052	p	_
+100-30	20052-20053	 	_
+100-31	20053-20054	<	_
+100-32	20054-20055	 	_
+100-33	20055-20058	.05	_
+100-34	20059-20063	with	_
+100-35	20064-20065	a	_
+100-36	20066-20073	minimum	_
+100-37	20074-20083	voxelwise	_
+100-38	20084-20095	significant	_
+100-39	20096-20105	threshold	_
+100-40	20106-20108	of	_
+100-41	20109-20110	p	_
+100-42	20110-20111	 	_
+100-43	20111-20112	<	_
+100-44	20112-20113	 	_
+100-45	20113-20117	.005	_
+100-46	20117-20118	.	_
+
+Text=While less conservative than using a p   < .001 or p   < .002 voxelwise threshold, this setting provides a balance of adequate correction for multiple comparisons while ensuring a substantial minimum cluster size.
+101-1	20119-20124	While	_
+101-2	20125-20129	less	_
+101-3	20130-20142	conservative	_
+101-4	20143-20147	than	_
+101-5	20148-20153	using	_
+101-6	20154-20155	a	_
+101-7	20156-20157	p	_
+101-8	20157-20158	 	_
+101-9	20158-20159	<	_
+101-10	20159-20160	 	_
+101-11	20160-20164	.001	_
+101-12	20165-20167	or	_
+101-13	20168-20169	p	_
+101-14	20169-20170	 	_
+101-15	20170-20171	<	_
+101-16	20171-20172	 	_
+101-17	20172-20176	.002	_
+101-18	20177-20186	voxelwise	_
+101-19	20187-20196	threshold	_
+101-20	20196-20197	,	_
+101-21	20198-20202	this	_
+101-22	20203-20210	setting	_
+101-23	20211-20219	provides	_
+101-24	20220-20221	a	_
+101-25	20222-20229	balance	_
+101-26	20230-20232	of	_
+101-27	20233-20241	adequate	_
+101-28	20242-20252	correction	_
+101-29	20253-20256	for	_
+101-30	20257-20265	multiple	_
+101-31	20266-20277	comparisons	_
+101-32	20278-20283	while	_
+101-33	20284-20292	ensuring	_
+101-34	20293-20294	a	_
+101-35	20295-20306	substantial	_
+101-36	20307-20314	minimum	_
+101-37	20315-20322	cluster	_
+101-38	20323-20327	size	_
+101-39	20327-20328	.	_
+
+Text=We also note that this threshold is still relatively conservative in light of previous work having applied this Bayesian computational model in similar populations and experimental settings, which would provide grounds for a more focused search within the brain based on regions of interest.
+102-1	20329-20331	We	_
+102-2	20332-20336	also	_
+102-3	20337-20341	note	_
+102-4	20342-20346	that	_
+102-5	20347-20351	this	_
+102-6	20352-20361	threshold	_
+102-7	20362-20364	is	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+102-8	20365-20370	still	_
+102-9	20371-20381	relatively	_
+102-10	20382-20394	conservative	_
+102-11	20395-20397	in	_
+102-12	20398-20403	light	_
+102-13	20404-20406	of	_
+102-14	20407-20415	previous	_
+102-15	20416-20420	work	_
+102-16	20421-20427	having	_
+102-17	20428-20435	applied	_
+102-18	20436-20440	this	_
+102-19	20441-20449	Bayesian	_
+102-20	20450-20463	computational	_
+102-21	20464-20469	model	_
+102-22	20470-20472	in	_
+102-23	20473-20480	similar	_
+102-24	20481-20492	populations	_
+102-25	20493-20496	and	_
+102-26	20497-20509	experimental	_
+102-27	20510-20518	settings	_
+102-28	20518-20519	,	_
+102-29	20520-20525	which	_
+102-30	20526-20531	would	_
+102-31	20532-20539	provide	_
+102-32	20540-20547	grounds	_
+102-33	20548-20551	for	_
+102-34	20552-20553	a	_
+102-35	20554-20558	more	_
+102-36	20559-20566	focused	_
+102-37	20567-20573	search	_
+102-38	20574-20580	within	_
+102-39	20581-20584	the	_
+102-40	20585-20590	brain	_
+102-41	20591-20596	based	_
+102-42	20597-20599	on	_
+102-43	20600-20607	regions	_
+102-44	20608-20610	of	_
+102-45	20611-20619	interest	_
+102-46	20619-20620	.	_
+
+Text=Finally, within the regions identified with those LMEs, we identified those that were consistent with a potential group difference in either type of Bayesian prediction errors (UPE or SPE), using our second GLM for regions of interest (ROI) analyses.
+103-1	20621-20628	Finally	_
+103-2	20628-20629	,	_
+103-3	20630-20636	within	_
+103-4	20637-20640	the	_
+103-5	20641-20648	regions	_
+103-6	20649-20659	identified	_
+103-7	20660-20664	with	_
+103-8	20665-20670	those	_
+103-9	20671-20675	LMEs	_
+103-10	20675-20676	,	_
+103-11	20677-20679	we	_
+103-12	20680-20690	identified	_
+103-13	20691-20696	those	_
+103-14	20697-20701	that	_
+103-15	20702-20706	were	_
+103-16	20707-20717	consistent	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+103-17	20718-20722	with	_
+103-18	20723-20724	a	_
+103-19	20725-20734	potential	_
+103-20	20735-20740	group	_
+103-21	20741-20751	difference	_
+103-22	20752-20754	in	_
+103-23	20755-20761	either	_
+103-24	20762-20766	type	_
+103-25	20767-20769	of	_
+103-26	20770-20778	Bayesian	_
+103-27	20779-20789	prediction	_
+103-28	20790-20796	errors	_
+103-29	20797-20798	(	_
+103-30	20798-20801	UPE	_
+103-31	20802-20804	or	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+103-32	20805-20808	SPE	_
+103-33	20808-20809	)	_
+103-34	20809-20810	,	_
+103-35	20811-20816	using	_
+103-36	20817-20820	our	_
+103-37	20821-20827	second	_
+103-38	20828-20831	GLM	_
+103-39	20832-20835	for	_
+103-40	20836-20843	regions	_
+103-41	20844-20846	of	_
+103-42	20847-20855	interest	_
+103-43	20856-20857	(	_
+103-44	20857-20860	ROI	_
+103-45	20860-20861	)	_
+103-46	20862-20870	analyses	_
+103-47	20870-20871	.	_
+
+Text=Moreover, for regions consistent with a group main effect or group X trial type interaction, we specifically checked for convergence between results from the second GLM and the pattern of activation to P (Stop) as function of trial type (first GLM).
+104-1	20872-20880	Moreover	_
+104-2	20880-20881	,	_
+104-3	20882-20885	for	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+104-4	20886-20893	regions	_
+104-5	20894-20904	consistent	_
+104-6	20905-20909	with	_
+104-7	20910-20911	a	_
+104-8	20912-20917	group	_
+104-9	20918-20922	main	_
+104-10	20923-20929	effect	_
+104-11	20930-20932	or	_
+104-12	20933-20938	group	_
+104-13	20939-20940	X	_
+104-14	20941-20946	trial	_
+104-15	20947-20951	type	_
+104-16	20952-20963	interaction	_
+104-17	20963-20964	,	_
+104-18	20965-20967	we	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+104-19	20968-20980	specifically	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+104-20	20981-20988	checked	_
+104-21	20989-20992	for	_
+104-22	20993-21004	convergence	_
+104-23	21005-21012	between	_
+104-24	21013-21020	results	_
+104-25	21021-21025	from	_
+104-26	21026-21029	the	_
+104-27	21030-21036	second	_
+104-28	21037-21040	GLM	_
+104-29	21041-21044	and	_
+104-30	21045-21048	the	_
+104-31	21049-21056	pattern	_
+104-32	21057-21059	of	_
+104-33	21060-21070	activation	_
+104-34	21071-21073	to	_
+104-35	21074-21075	P	_
+104-36	21075-21076	(	_
+104-37	21076-21080	Stop	_
+104-38	21080-21081	)	_
+104-39	21082-21084	as	_
+104-40	21085-21093	function	_
+104-41	21094-21096	of	_
+104-42	21097-21102	trial	_
+104-43	21103-21107	type	_
+104-44	21108-21109	(	_
+104-45	21109-21114	first	_
+104-46	21115-21118	GLM	_
+104-47	21118-21119	)	_
+104-48	21119-21120	.	_
+
+Text=Specifically, regions with non-zero P (stop) activations of opposite signs or with the same signs across Go and Stop trials, should be consistent with a significant group difference in UPE and SPE activations, respectively.
+105-1	21121-21133	Specifically	_
+105-2	21133-21134	,	_
+105-3	21135-21142	regions	_
+105-4	21143-21147	with	_
+105-5	21148-21156	non-zero	_
+105-6	21157-21158	P	_
+105-7	21158-21159	(	_
+105-8	21159-21163	stop	_
+105-9	21163-21164	)	_
+105-10	21165-21176	activations	_
+105-11	21177-21179	of	_
+105-12	21180-21188	opposite	_
+105-13	21189-21194	signs	_
+105-14	21195-21197	or	_
+105-15	21198-21202	with	_
+105-16	21203-21206	the	_
+105-17	21207-21211	same	_
+105-18	21212-21217	signs	_
+105-19	21218-21224	across	_
+105-20	21225-21227	Go	_
+105-21	21228-21231	and	_
+105-22	21232-21236	Stop	_
+105-23	21237-21243	trials	_
+105-24	21243-21244	,	_
+105-25	21245-21251	should	_
+105-26	21252-21254	be	_
+105-27	21255-21265	consistent	_
+105-28	21266-21270	with	_
+105-29	21271-21272	a	_
+105-30	21273-21284	significant	_
+105-31	21285-21290	group	_
+105-32	21291-21301	difference	_
+105-33	21302-21304	in	_
+105-34	21305-21308	UPE	_
+105-35	21309-21312	and	_
+105-36	21313-21316	SPE	_
+105-37	21317-21328	activations	_
+105-38	21328-21329	,	_
+105-39	21330-21342	respectively	_
+105-40	21342-21343	.	_
+
+Text=This is because an SPE is equal to 0 - P (stop)   =   − P (stop) on Go trials, and SPE   =   1 – P (stop) on Stop trials, and thus negatively correlated with P (stop) on both type of trials.
+106-1	21344-21348	This	_
+106-2	21349-21351	is	_
+106-3	21352-21359	because	_
+106-4	21360-21362	an	_
+106-5	21363-21366	SPE	_
+106-6	21367-21369	is	_
+106-7	21370-21375	equal	_
+106-8	21376-21378	to	_
+106-9	21379-21380	0	_
+106-10	21381-21382	-	_
+106-11	21383-21384	P	_
+106-12	21384-21385	(	_
+106-13	21385-21389	stop	_
+106-14	21389-21390	)	_
+106-15	21390-21391	 	_
+106-16	21391-21392	=	_
+106-17	21392-21393	 	_
+106-18	21393-21394	−	_
+106-19	21395-21396	P	_
+106-20	21396-21397	(	_
+106-21	21397-21401	stop	_
+106-22	21401-21402	)	_
+106-23	21403-21405	on	_
+106-24	21406-21408	Go	_
+106-25	21409-21415	trials	_
+106-26	21415-21416	,	_
+106-27	21417-21420	and	_
+106-28	21421-21424	SPE	_
+106-29	21424-21425	 	_
+106-30	21425-21426	=	_
+106-31	21426-21427	 	_
+106-32	21427-21428	1	_
+106-33	21429-21430	–	_
+106-34	21431-21432	P	_
+106-35	21432-21433	(	_
+106-36	21433-21437	stop	_
+106-37	21437-21438	)	_
+106-38	21439-21441	on	_
+106-39	21442-21446	Stop	_
+106-40	21447-21453	trials	_
+106-41	21453-21454	,	_
+106-42	21455-21458	and	_
+106-43	21459-21463	thus	_
+106-44	21464-21474	negatively	_
+106-45	21475-21485	correlated	_
+106-46	21486-21490	with	_
+106-47	21491-21492	P	_
+106-48	21492-21493	(	_
+106-49	21493-21497	stop	_
+106-50	21497-21498	)	_
+106-51	21499-21501	on	_
+106-52	21502-21506	both	_
+106-53	21507-21511	type	_
+106-54	21512-21514	of	_
+106-55	21515-21521	trials	_
+106-56	21521-21522	.	_
+
+Text=In contrast, UPE is equal to | 0 - P (stop) |   =   P (stop) on Go trials and to | 1 - P (stop) |   =   1 – P (stop) on Stop trials, and thus should be positively correlated on Go trials but negatively correlated with P (stop) on Stop trials (see.
+107-1	21523-21525	In	_
+107-2	21526-21534	contrast	_
+107-3	21534-21535	,	_
+107-4	21536-21539	UPE	_
+107-5	21540-21542	is	_
+107-6	21543-21548	equal	_
+107-7	21549-21551	to	_
+107-8	21552-21553	|	_
+107-9	21553-21554	0	_
+107-10	21555-21556	-	_
+107-11	21557-21558	P	_
+107-12	21558-21559	(	_
+107-13	21559-21563	stop	_
+107-14	21563-21564	)	_
+107-15	21564-21565	|	_
+107-16	21565-21566	 	_
+107-17	21566-21567	=	_
+107-18	21567-21568	 	_
+107-19	21568-21569	P	_
+107-20	21569-21570	(	_
+107-21	21570-21574	stop	_
+107-22	21574-21575	)	_
+107-23	21576-21578	on	_
+107-24	21579-21581	Go	_
+107-25	21582-21588	trials	_
+107-26	21589-21592	and	_
+107-27	21593-21595	to	_
+107-28	21596-21597	|	_
+107-29	21597-21598	1	_
+107-30	21599-21600	-	_
+107-31	21601-21602	P	_
+107-32	21602-21603	(	_
+107-33	21603-21607	stop	_
+107-34	21607-21608	)	_
+107-35	21608-21609	|	_
+107-36	21609-21610	 	_
+107-37	21610-21611	=	_
+107-38	21611-21612	 	_
+107-39	21612-21613	1	_
+107-40	21614-21615	–	_
+107-41	21616-21617	P	_
+107-42	21617-21618	(	_
+107-43	21618-21622	stop	_
+107-44	21622-21623	)	_
+107-45	21624-21626	on	_
+107-46	21627-21631	Stop	_
+107-47	21632-21638	trials	_
+107-48	21638-21639	,	_
+107-49	21640-21643	and	_
+107-50	21644-21648	thus	_
+107-51	21649-21655	should	_
+107-52	21656-21658	be	_
+107-53	21659-21669	positively	_
+107-54	21670-21680	correlated	_
+107-55	21681-21683	on	_
+107-56	21684-21686	Go	_
+107-57	21687-21693	trials	_
+107-58	21694-21697	but	_
+107-59	21698-21708	negatively	_
+107-60	21709-21719	correlated	_
+107-61	21720-21724	with	_
+107-62	21725-21726	P	_
+107-63	21726-21727	(	_
+107-64	21727-21731	stop	_
+107-65	21731-21732	)	_
+107-66	21733-21735	on	_
+107-67	21736-21740	Stop	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+107-68	21741-21747	trials	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+107-69	21748-21749	(	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+107-70	21749-21752	see	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+107-71	21752-21753	.	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+

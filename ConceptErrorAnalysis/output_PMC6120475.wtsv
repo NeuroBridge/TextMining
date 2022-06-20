@@ -1,0 +1,2694 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.ConceptLayer|identifier
+
+
+#Human Annotation
+Text=Time‐dependent neuronal changes associated with craving in opioid dependence: an fMRI study Abstract Relapse after initially successful treatment is a significant problem facing the treatment of opioid dependence.
+1-1	0-14	Time‐dependent	_
+1-2	15-23	neuronal	_
+1-3	24-31	changes	_
+1-4	32-42	associated	_
+1-5	43-47	with	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-6	48-55	craving	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-7	56-58	in	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-8	59-65	opioid	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-9	66-76	dependence	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-10	76-77	:	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-11	78-80	an	_
+1-12	81-85	fMRI	_
+1-13	86-91	study	_
+1-14	92-100	Abstract	_
+1-15	101-108	Relapse	_
+1-16	109-114	after	_
+1-17	115-124	initially	_
+1-18	125-135	successful	_
+1-19	136-145	treatment	_
+1-20	146-148	is	_
+1-21	149-150	a	_
+1-22	151-162	significant	_
+1-23	163-170	problem	_
+1-24	171-177	facing	_
+1-25	178-181	the	_
+1-26	182-191	treatment	_
+1-27	192-194	of	_
+1-28	195-201	opioid	_
+1-29	202-212	dependence	_
+1-30	212-213	.	_
+
+Text=Evidence suggests craving elicited by re‐exposure to drug cues may precipitate relapse.
+2-1	214-222	Evidence	_
+2-2	223-231	suggests	_
+2-3	232-239	craving	_
+2-4	240-248	elicited	_
+2-5	249-251	by	_
+2-6	252-263	re‐exposure	_
+2-7	264-266	to	_
+2-8	267-271	drug	_
+2-9	272-276	cues	_
+2-10	277-280	may	_
+2-11	281-292	precipitate	_
+2-12	293-300	relapse	_
+2-13	300-301	.	_
+
+Text=Attempts to identify neural biomarkers of cue‐elicited craving have yielded inconsistent findings.
+3-1	302-310	Attempts	_
+3-2	311-313	to	_
+3-3	314-322	identify	_
+3-4	323-329	neural	_
+3-5	330-340	biomarkers	_
+3-6	341-343	of	_
+3-7	344-356	cue‐elicited	_
+3-8	357-364	craving	_
+3-9	365-369	have	_
+3-10	370-377	yielded	_
+3-11	378-390	inconsistent	_
+3-12	391-399	findings	_
+3-13	399-400	.	_
+
+Text=We aimed to apply a novel continuous functional magnetic resonance imaging technique to follow the minute‐to‐minute evolution of brain responses, which correlate with the waxing and waning of craving.
+4-1	401-403	We	_
+4-2	404-409	aimed	_
+4-3	410-412	to	_
+4-4	413-418	apply	_
+4-5	419-420	a	_
+4-6	421-426	novel	_
+4-7	427-437	continuous	_
+4-8	438-448	functional	_
+4-9	449-457	magnetic	_
+4-10	458-467	resonance	_
+4-11	468-475	imaging	_
+4-12	476-485	technique	_
+4-13	486-488	to	_
+4-14	489-495	follow	_
+4-15	496-499	the	_
+4-16	500-516	minute‐to‐minute	_
+4-17	517-526	evolution	_
+4-18	527-529	of	_
+4-19	530-535	brain	_
+4-20	536-545	responses	_
+4-21	545-546	,	_
+4-22	547-552	which	_
+4-23	553-562	correlate	_
+4-24	563-567	with	_
+4-25	568-571	the	_
+4-26	572-578	waxing	_
+4-27	579-582	and	_
+4-28	583-589	waning	_
+4-29	590-592	of	_
+4-30	593-600	craving	_
+4-31	600-601	.	_
+
+Text=Newly detoxified male opioid‐dependent patients and healthy control participants attended two separate, counterbalanced, functional magnetic resonance imaging scanning sessions during which they viewed a 10 ‐ minute video (drug cue or neutral cue) followed by 5   minutes of fixation.
+5-1	602-607	Newly	_
+5-2	608-618	detoxified	_
+5-3	619-623	male	_
+5-4	624-640	opioid‐dependent	_
+5-5	641-649	patients	_
+5-6	650-653	and	_
+5-7	654-661	healthy	_
+5-8	662-669	control	_
+5-9	670-682	participants	_
+5-10	683-691	attended	_
+5-11	692-695	two	_
+5-12	696-704	separate	_
+5-13	704-705	,	_
+5-14	706-721	counterbalanced	_
+5-15	721-722	,	_
+5-16	723-733	functional	_
+5-17	734-742	magnetic	_
+5-18	743-752	resonance	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-19	753-760	imaging	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-20	761-769	scanning	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-21	770-778	sessions	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-22	779-785	during	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-23	786-791	which	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-24	792-796	they	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-25	797-803	viewed	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-26	804-805	a	_
+5-27	806-808	10	_
+5-28	808-809	‐	_
+5-29	809-815	minute	_
+5-30	816-821	video	_
+5-31	822-823	(	_
+5-32	823-827	drug	_
+5-33	828-831	cue	_
+5-34	832-834	or	_
+5-35	835-842	neutral	_
+5-36	843-846	cue	_
+5-37	846-847	)	_
+5-38	848-856	followed	_
+5-39	857-859	by	_
+5-40	860-861	5	_
+5-41	861-862	 	_
+5-42	862-869	minutes	_
+5-43	870-872	of	_
+5-44	873-881	fixation	_
+5-45	881-882	.	_
+
+Text=Participants rated the intensity of their craving throughout each session.
+6-1	883-895	Participants	_
+6-2	896-901	rated	_
+6-3	902-905	the	_
+6-4	906-915	intensity	_
+6-5	916-918	of	_
+6-6	919-924	their	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+6-7	925-932	craving	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+6-8	933-943	throughout	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+6-9	944-948	each	_
+6-10	949-956	session	_
+6-11	956-957	.	_
+
+Text=We hypothesized that subcortical / ventral prefrontal cortex (PFC) regions and dorsal PFC regions would show different associations with craving reflecting their putative roles in appetitive processing versus cognitive control.
+7-1	958-960	We	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+7-2	961-973	hypothesized	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+7-3	974-978	that	_
+7-4	979-990	subcortical	_
+7-5	990-991	/	_
+7-6	991-998	ventral	_
+7-7	999-1009	prefrontal	_
+7-8	1010-1016	cortex	_
+7-9	1017-1018	(	_
+7-10	1018-1021	PFC	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+7-11	1021-1022	)	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+7-12	1023-1030	regions	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+7-13	1031-1034	and	_
+7-14	1035-1041	dorsal	_
+7-15	1042-1045	PFC	_
+7-16	1046-1053	regions	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-17	1054-1059	would	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-18	1060-1064	show	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-19	1065-1074	different	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-20	1075-1087	associations	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-21	1088-1092	with	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-22	1093-1100	craving	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-23	1101-1111	reflecting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-24	1112-1117	their	_
+7-25	1118-1126	putative	_
+7-26	1127-1132	roles	_
+7-27	1133-1135	in	_
+7-28	1136-1146	appetitive	_
+7-29	1147-1157	processing	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-30	1158-1164	versus	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-31	1165-1174	cognitive	_
+7-32	1175-1182	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+7-33	1182-1183	.	_
+
+Text=Compared with controls, drug cue (minus neutral cue) video recruited the left amygdala and was temporally correlated with craving.
+8-1	1184-1192	Compared	_
+8-2	1193-1197	with	_
+8-3	1198-1206	controls	_
+8-4	1206-1207	,	_
+8-5	1208-1212	drug	_
+8-6	1213-1216	cue	_
+8-7	1217-1218	(	_
+8-8	1218-1223	minus	_
+8-9	1224-1231	neutral	_
+8-10	1232-1235	cue	_
+8-11	1235-1236	)	_
+8-12	1237-1242	video	_
+8-13	1243-1252	recruited	_
+8-14	1253-1256	the	_
+8-15	1257-1261	left	_
+8-16	1262-1270	amygdala	_
+8-17	1271-1274	and	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+8-18	1275-1278	was	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+8-19	1279-1289	temporally	_
+8-20	1290-1300	correlated	_
+8-21	1301-1305	with	_
+8-22	1306-1313	craving	_
+8-23	1313-1314	.	_
+
+Text=In contrast, dorsal anterior cingulate blood‐oxygen‐level‐dependent signal time course was higher than controls only during a period after cue exposure when craving levels were declining.
+9-1	1315-1317	In	_
+9-2	1318-1326	contrast	_
+9-3	1326-1327	,	_
+9-4	1328-1334	dorsal	_
+9-5	1335-1343	anterior	_
+9-6	1344-1353	cingulate	_
+9-7	1354-1382	blood‐oxygen‐level‐dependent	_
+9-8	1383-1389	signal	_
+9-9	1390-1394	time	_
+9-10	1395-1401	course	_
+9-11	1402-1405	was	_
+9-12	1406-1412	higher	_
+9-13	1413-1417	than	_
+9-14	1418-1426	controls	_
+9-15	1427-1431	only	_
+9-16	1432-1438	during	_
+9-17	1439-1440	a	_
+9-18	1441-1447	period	_
+9-19	1448-1453	after	_
+9-20	1454-1457	cue	_
+9-21	1458-1466	exposure	_
+9-22	1467-1471	when	_
+9-23	1472-1479	craving	_
+9-24	1480-1486	levels	_
+9-25	1487-1491	were	_
+9-26	1492-1501	declining	_
+9-27	1501-1502	.	_
+
+Text=Against expectations, neither the ventral striatum nor ventral PFC was significantly recruited by drug cue exposure.
+10-1	1503-1510	Against	_
+10-2	1511-1523	expectations	_
+10-3	1523-1524	,	_
+10-4	1525-1532	neither	_
+10-5	1533-1536	the	_
+10-6	1537-1544	ventral	_
+10-7	1545-1553	striatum	_
+10-8	1554-1557	nor	_
+10-9	1558-1565	ventral	_
+10-10	1566-1569	PFC	_
+10-11	1570-1573	was	_
+10-12	1574-1587	significantly	_
+10-13	1588-1597	recruited	_
+10-14	1598-1600	by	_
+10-15	1601-1605	drug	_
+10-16	1606-1609	cue	_
+10-17	1610-1618	exposure	_
+10-18	1618-1619	.	_
+
+Text=Findings suggest that the amygdala has a central role in craving, whereas the dorsal anterior cingulate may control craving in treatment‐seeking patients.
+11-1	1620-1628	Findings	_
+11-2	1629-1636	suggest	_
+11-3	1637-1641	that	_
+11-4	1642-1645	the	_
+11-5	1646-1654	amygdala	_
+11-6	1655-1658	has	_
+11-7	1659-1660	a	_
+11-8	1661-1668	central	_
+11-9	1669-1673	role	_
+11-10	1674-1676	in	_
+11-11	1677-1684	craving	_
+11-12	1684-1685	,	_
+11-13	1686-1693	whereas	_
+11-14	1694-1697	the	_
+11-15	1698-1704	dorsal	_
+11-16	1705-1713	anterior	_
+11-17	1714-1723	cingulate	_
+11-18	1724-1727	may	_
+11-19	1728-1735	control	_
+11-20	1736-1743	craving	_
+11-21	1744-1746	in	_
+11-22	1747-1764	treatment‐seeking	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+11-23	1765-1773	patients	_
+11-24	1773-1774	.	_
+
+Text=Time course analysis yielded new insights into the neural substrates of craving that could objectively validate development of psychological and pharmacological approaches to sustained abstinence.
+12-1	1775-1779	Time	_
+12-2	1780-1786	course	_
+12-3	1787-1795	analysis	_
+12-4	1796-1803	yielded	_
+12-5	1804-1807	new	_
+12-6	1808-1816	insights	_
+12-7	1817-1821	into	_
+12-8	1822-1825	the	_
+12-9	1826-1832	neural	_
+12-10	1833-1843	substrates	_
+12-11	1844-1846	of	_
+12-12	1847-1854	craving	_
+12-13	1855-1859	that	_
+12-14	1860-1865	could	_
+12-15	1866-1877	objectively	_
+12-16	1878-1886	validate	_
+12-17	1887-1898	development	_
+12-18	1899-1901	of	_
+12-19	1902-1915	psychological	_
+12-20	1916-1919	and	_
+12-21	1920-1935	pharmacological	_
+12-22	1936-1946	approaches	_
+12-23	1947-1949	to	_
+12-24	1950-1959	sustained	_
+12-25	1960-1970	abstinence	_
+12-26	1970-1971	.	_
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=Methods and Materials Participants Opioid‐dependent individuals (n   =   18) This study was approved by the NHS Research Ethics Committee.
+33-1	6617-6624	Methods	_
+33-2	6625-6628	and	_
+33-3	6629-6638	Materials	_
+33-4	6639-6651	Participants	_
+33-5	6652-6668	Opioid‐dependent	_
+33-6	6669-6680	individuals	_
+33-7	6681-6682	(	_
+33-8	6682-6683	n	_
+33-9	6683-6684	 	_
+33-10	6684-6685	=	_
+33-11	6685-6686	 	_
+33-12	6686-6688	18	_
+33-13	6688-6689	)	_
+33-14	6690-6694	This	_
+33-15	6695-6700	study	_
+33-16	6701-6704	was	_
+33-17	6705-6713	approved	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+33-18	6714-6716	by	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+33-19	6717-6720	the	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+33-20	6721-6724	NHS	_
+33-21	6725-6733	Research	_
+33-22	6734-6740	Ethics	_
+33-23	6741-6750	Committee	_
+33-24	6750-6751	.	_
+
+Text=Participants with OD were recruited from a residential detoxification unit within Greater Manchester (see Table   1 for demographic information).
+34-1	6752-6764	Participants	_
+34-2	6765-6769	with	_
+34-3	6770-6772	OD	_
+34-4	6773-6777	were	_
+34-5	6778-6787	recruited	_
+34-6	6788-6792	from	_
+34-7	6793-6794	a	_
+34-8	6795-6806	residential	_
+34-9	6807-6821	detoxification	_
+34-10	6822-6826	unit	_
+34-11	6827-6833	within	_
+34-12	6834-6841	Greater	_
+34-13	6842-6852	Manchester	_
+34-14	6853-6854	(	_
+34-15	6854-6857	see	_
+34-16	6858-6863	Table	_
+34-17	6863-6864	 	_
+34-18	6864-6865	1	_
+34-19	6866-6869	for	_
+34-20	6870-6881	demographic	_
+34-21	6882-6893	information	_
+34-22	6893-6894	)	_
+34-23	6894-6895	.	_
+
+Text=Treatment involved a 4 ‐ week residential stay with a 10 ‐ day methadone stabilization and reduction, followed by 10   days of lofexidine treatment, an alpha ‐ 2 adrenergic receptor agonist used to treat opioid withdrawal symptoms.
+35-1	6896-6905	Treatment	_
+35-2	6906-6914	involved	_
+35-3	6915-6916	a	_
+35-4	6917-6918	4	_
+35-5	6918-6919	‐	_
+35-6	6919-6923	week	_
+35-7	6924-6935	residential	_
+35-8	6936-6940	stay	_
+35-9	6941-6945	with	_
+35-10	6946-6947	a	_
+35-11	6948-6950	10	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+35-12	6950-6951	‐	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+35-13	6951-6954	day	_
+35-14	6955-6964	methadone	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+35-15	6965-6978	stabilization	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+35-16	6979-6982	and	_
+35-17	6983-6992	reduction	_
+35-18	6992-6993	,	_
+35-19	6994-7002	followed	_
+35-20	7003-7005	by	_
+35-21	7006-7008	10	_
+35-22	7008-7009	 	_
+35-23	7009-7013	days	_
+35-24	7014-7016	of	_
+35-25	7017-7027	lofexidine	_
+35-26	7028-7037	treatment	_
+35-27	7037-7038	,	_
+35-28	7039-7041	an	_
+35-29	7042-7047	alpha	_
+35-30	7047-7048	‐	_
+35-31	7048-7049	2	_
+35-32	7050-7060	adrenergic	_
+35-33	7061-7069	receptor	_
+35-34	7070-7077	agonist	_
+35-35	7078-7082	used	_
+35-36	7083-7085	to	_
+35-37	7086-7091	treat	_
+35-38	7092-7098	opioid	_
+35-39	7099-7109	withdrawal	_
+35-40	7110-7118	symptoms	_
+35-41	7118-7119	.	_
+
+Text=Participants took part in the study during the last week of their residential stay when they were opioid free (confirmed by urine drug screen).
+36-1	7120-7132	Participants	_
+36-2	7133-7137	took	_
+36-3	7138-7142	part	_
+36-4	7143-7145	in	_
+36-5	7146-7149	the	_
+36-6	7150-7155	study	_
+36-7	7156-7162	during	_
+36-8	7163-7166	the	_
+36-9	7167-7171	last	_
+36-10	7172-7176	week	_
+36-11	7177-7179	of	_
+36-12	7180-7185	their	_
+36-13	7186-7197	residential	_
+36-14	7198-7202	stay	_
+36-15	7203-7207	when	_
+36-16	7208-7212	they	_
+36-17	7213-7217	were	_
+36-18	7218-7224	opioid	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
+36-19	7225-7229	free	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
+36-20	7230-7231	(	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
+36-21	7231-7240	confirmed	_
+36-22	7241-7243	by	_
+36-23	7244-7249	urine	_
+36-24	7250-7254	drug	_
+36-25	7255-7261	screen	_
+36-26	7261-7262	)	_
+36-27	7262-7263	.	_
+
+Text=Lofexidine was extended at low doses for participants still experiencing withdrawal symptoms during this final week, and some ODs were receiving other psychoactive medications as indicated by Supporting Information Table   S1.
+37-1	7264-7274	Lofexidine	_
+37-2	7275-7278	was	_
+37-3	7279-7287	extended	_
+37-4	7288-7290	at	_
+37-5	7291-7294	low	_
+37-6	7295-7300	doses	_
+37-7	7301-7304	for	_
+37-8	7305-7317	participants	_
+37-9	7318-7323	still	_
+37-10	7324-7336	experiencing	_
+37-11	7337-7347	withdrawal	_
+37-12	7348-7356	symptoms	_
+37-13	7357-7363	during	_
+37-14	7364-7368	this	_
+37-15	7369-7374	final	_
+37-16	7375-7379	week	_
+37-17	7379-7380	,	_
+37-18	7381-7384	and	_
+37-19	7385-7389	some	_
+37-20	7390-7393	ODs	_
+37-21	7394-7398	were	_
+37-22	7399-7408	receiving	_
+37-23	7409-7414	other	_
+37-24	7415-7427	psychoactive	_
+37-25	7428-7439	medications	_
+37-26	7440-7442	as	_
+37-27	7443-7452	indicated	_
+37-28	7453-7455	by	_
+37-29	7456-7466	Supporting	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+37-30	7467-7478	Information	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+37-31	7479-7484	Table	_
+37-32	7484-7485	 	_
+37-33	7486-7488	S1	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+37-34	7489-7490	.	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+
+Text=The OD group was recruited according to the following inclusion criteria: male, aged 18 – 55; current DSM IV heroin dependence (the majority of patients also met criteria for current or past dependence on other substances; Table   1); no history of serious psychiatric, neurological or physical illness; no contraindications for MRI; and IQ of ≥ 85 [determined using the Wechsler Test of Adult Reading (Holdnack 2001)].
+38-1	7491-7494	The	_
+38-2	7495-7497	OD	_
+38-3	7498-7503	group	_
+38-4	7504-7507	was	_
+38-5	7508-7517	recruited	_
+38-6	7518-7527	according	_
+38-7	7528-7530	to	_
+38-8	7531-7534	the	_
+38-9	7535-7544	following	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+38-10	7545-7554	inclusion	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+38-11	7555-7563	criteria	_
+38-12	7563-7564	:	_
+38-13	7565-7569	male	_
+38-14	7569-7570	,	_
+38-15	7571-7575	aged	_
+38-16	7576-7578	18	_
+38-17	7578-7579	–	_
+38-18	7579-7581	55	_
+38-19	7581-7582	;	_
+38-20	7583-7590	current	_
+38-21	7591-7594	DSM	_
+38-22	7595-7597	IV	_
+38-23	7598-7604	heroin	_
+38-24	7605-7615	dependence	_
+38-25	7616-7617	(	_
+38-26	7617-7620	the	_
+38-27	7621-7629	majority	_
+38-28	7630-7632	of	_
+38-29	7633-7641	patients	_
+38-30	7642-7646	also	_
+38-31	7647-7650	met	_
+38-32	7651-7659	criteria	_
+38-33	7660-7663	for	_
+38-34	7664-7671	current	_
+38-35	7672-7674	or	_
+38-36	7675-7679	past	_
+38-37	7680-7690	dependence	_
+38-38	7691-7693	on	_
+38-39	7694-7699	other	_
+38-40	7700-7710	substances	_
+38-41	7710-7711	;	_
+38-42	7712-7717	Table	_
+38-43	7717-7718	 	_
+38-44	7718-7719	1	_
+38-45	7719-7720	)	_
+38-46	7720-7721	;	_
+38-47	7722-7724	no	_
+38-48	7725-7732	history	_
+38-49	7733-7735	of	_
+38-50	7736-7743	serious	_
+38-51	7744-7755	psychiatric	_
+38-52	7755-7756	,	_
+38-53	7757-7769	neurological	_
+38-54	7770-7772	or	_
+38-55	7773-7781	physical	_
+38-56	7782-7789	illness	_
+38-57	7789-7790	;	_
+38-58	7791-7793	no	_
+38-59	7794-7811	contraindications	_
+38-60	7812-7815	for	_
+38-61	7816-7819	MRI	_
+38-62	7819-7820	;	_
+38-63	7821-7824	and	_
+38-64	7825-7827	IQ	_
+38-65	7828-7830	of	_
+38-66	7831-7832	≥	_
+38-67	7832-7834	85	_
+38-68	7835-7836	[	_
+38-69	7836-7846	determined	_
+38-70	7847-7852	using	_
+38-71	7853-7856	the	_
+38-72	7857-7865	Wechsler	_
+38-73	7866-7870	Test	_
+38-74	7871-7873	of	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+38-75	7874-7879	Adult	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+38-76	7880-7887	Reading	_
+38-77	7888-7889	(	_
+38-78	7889-7897	Holdnack	_
+38-79	7898-7902	2001	_
+38-80	7902-7903	)	_
+38-81	7903-7904	]	_
+38-82	7904-7905	.	_
+
+Text=Participants were identified and approached by members of the clinical team on the basis of detailed physical and mental health assessments on admission to the unit.
+39-1	7906-7918	Participants	_
+39-2	7919-7923	were	_
+39-3	7924-7934	identified	_
+39-4	7935-7938	and	_
+39-5	7939-7949	approached	_
+39-6	7950-7952	by	_
+39-7	7953-7960	members	_
+39-8	7961-7963	of	_
+39-9	7964-7967	the	_
+39-10	7968-7976	clinical	_
+39-11	7977-7981	team	_
+39-12	7982-7984	on	_
+39-13	7985-7988	the	_
+39-14	7989-7994	basis	_
+39-15	7995-7997	of	_
+39-16	7998-8006	detailed	_
+39-17	8007-8015	physical	_
+39-18	8016-8019	and	_
+39-19	8020-8026	mental	_
+39-20	8027-8033	health	_
+39-21	8034-8045	assessments	_
+39-22	8046-8048	on	_
+39-23	8049-8058	admission	_
+39-24	8059-8061	to	_
+39-25	8062-8065	the	_
+39-26	8066-8070	unit	_
+39-27	8070-8071	.	_
+
+Text=All participants meeting the inclusion criteria were approached to take part in the study.
+40-1	8072-8075	All	_
+40-2	8076-8088	participants	_
+40-3	8089-8096	meeting	_
+40-4	8097-8100	the	_
+40-5	8101-8110	inclusion	_
+40-6	8111-8119	criteria	_
+40-7	8120-8124	were	_
+40-8	8125-8135	approached	_
+40-9	8136-8138	to	_
+40-10	8139-8143	take	_
+40-11	8144-8148	part	_
+40-12	8149-8151	in	_
+40-13	8152-8155	the	_
+40-14	8156-8161	study	_
+40-15	8161-8162	.	_
+
+Text=A total of 39 patients were enrolled in the craving study; however, 19 were discharged from the unit before any testing could take place (mainly self‐discharge or early discharge due to use of prohibited substances).
+41-1	8163-8164	A	_
+41-2	8165-8170	total	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+41-3	8171-8173	of	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+41-4	8174-8176	39	_
+41-5	8177-8185	patients	_
+41-6	8186-8190	were	_
+41-7	8191-8199	enrolled	_
+41-8	8200-8202	in	_
+41-9	8203-8206	the	_
+41-10	8207-8214	craving	_
+41-11	8215-8220	study	_
+41-12	8220-8221	;	_
+41-13	8222-8229	however	_
+41-14	8229-8230	,	_
+41-15	8231-8233	19	_
+41-16	8234-8238	were	_
+41-17	8239-8249	discharged	_
+41-18	8250-8254	from	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+41-19	8255-8258	the	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+41-20	8259-8263	unit	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+41-21	8264-8270	before	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+41-22	8271-8274	any	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+41-23	8275-8282	testing	_
+41-24	8283-8288	could	_
+41-25	8289-8293	take	_
+41-26	8294-8299	place	_
+41-27	8300-8301	(	_
+41-28	8301-8307	mainly	_
+41-29	8308-8322	self‐discharge	_
+41-30	8323-8325	or	_
+41-31	8326-8331	early	_
+41-32	8332-8341	discharge	_
+41-33	8342-8345	due	_
+41-34	8346-8348	to	_
+41-35	8349-8352	use	_
+41-36	8353-8355	of	_
+41-37	8356-8366	prohibited	_
+41-38	8367-8377	substances	_
+41-39	8377-8378	)	_
+41-40	8378-8379	.	_
+
+Text=Twenty patients were scanned as part of the study, although two were excluded from analysis because of excessive movement (see Preprocessing section for further details), leaving n   =   18 who were included in analysis.
+42-1	8380-8386	Twenty	_
+42-2	8387-8395	patients	_
+42-3	8396-8400	were	_
+42-4	8401-8408	scanned	_
+42-5	8409-8411	as	_
+42-6	8412-8416	part	_
+42-7	8417-8419	of	_
+42-8	8420-8423	the	_
+42-9	8424-8429	study	_
+42-10	8429-8430	,	_
+42-11	8431-8439	although	_
+42-12	8440-8443	two	_
+42-13	8444-8448	were	_
+42-14	8449-8457	excluded	_
+42-15	8458-8462	from	_
+42-16	8463-8471	analysis	_
+42-17	8472-8479	because	_
+42-18	8480-8482	of	_
+42-19	8483-8492	excessive	_
+42-20	8493-8501	movement	_
+42-21	8502-8503	(	_
+42-22	8503-8506	see	_
+42-23	8507-8520	Preprocessing	_
+42-24	8521-8528	section	_
+42-25	8529-8532	for	_
+42-26	8533-8540	further	_
+42-27	8541-8548	details	_
+42-28	8548-8549	)	_
+42-29	8549-8550	,	_
+42-30	8551-8558	leaving	_
+42-31	8559-8560	n	_
+42-32	8560-8561	 	_
+42-33	8561-8562	=	_
+42-34	8562-8563	 	_
+42-35	8563-8565	18	_
+42-36	8566-8569	who	_
+42-37	8570-8574	were	_
+42-38	8575-8583	included	_
+42-39	8584-8586	in	_
+42-40	8587-8595	analysis	_
+42-41	8595-8596	.	_
+
+Text=Handedness was assessed with the Edinburgh Handedness Inventory (Oldfield 1971).
+43-1	8597-8607	Handedness	_
+43-2	8608-8611	was	_
+43-3	8612-8620	assessed	_
+43-4	8621-8625	with	_
+43-5	8626-8629	the	_
+43-6	8630-8639	Edinburgh	_
+43-7	8640-8650	Handedness	_
+43-8	8651-8660	Inventory	_
+43-9	8661-8662	(	_
+43-10	8662-8670	Oldfield	_
+43-11	8671-8675	1971	_
+43-12	8675-8676	)	_
+43-13	8676-8677	.	_
+
+Text=Demographic and clinical information of OD (n   =   18) and HC (n   =   20) groups included in the analysis.
+44-1	8678-8689	Demographic	_
+44-2	8690-8693	and	_
+44-3	8694-8702	clinical	_
+44-4	8703-8714	information	_
+44-5	8715-8717	of	_
+44-6	8718-8720	OD	_
+44-7	8721-8722	(	_
+44-8	8722-8723	n	_
+44-9	8723-8724	 	_
+44-10	8724-8725	=	_
+44-11	8725-8726	 	_
+44-12	8726-8728	18	_
+44-13	8728-8729	)	_
+44-14	8730-8733	and	_
+44-15	8734-8736	HC	_
+44-16	8737-8738	(	_
+44-17	8738-8739	n	_
+44-18	8739-8740	 	_
+44-19	8740-8741	=	_
+44-20	8741-8742	 	_
+44-21	8742-8744	20	_
+44-22	8744-8745	)	_
+44-23	8746-8752	groups	_
+44-24	8753-8761	included	_
+44-25	8762-8764	in	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+44-26	8765-8768	the	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+44-27	8769-8777	analysis	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+44-28	8777-8778	.	_
+
+Text=OD group HC group p‐value Age 34.8 (6.3) 31.6 (7.2) 0.15 IQ 103.1.9 (7.7) 114.1 (4.7) <0.05 Years of education 11.5 (2.2) 16.5 (3.3) <0.05 No. of right handers 16 (89 percent) 18 (90 percent) 0.91 No. of smokers (nicotine) 13 (72 percent) 9 (45 percent) 0.09 Clinical Variables for OD group Years of opioid dependence 12.8 (7.7) — Average daily opioid use (g) 0.7 (0.6) — Age of first use (years) 20.3 (4.3) No. who primarily smoke / inject / or use both methods for heroin administration 5 (28 percent) / 5 (28 percent) / 8 (44 percent) — No. of OD group with current / past history of: — Alcohol dependence 7 (39 percent) — Cocaine dependence 7 (39 percent) Amphetamine dependence 1 (6 percent) — Benzodiazepine dependence 3 (17 percent) — Heroin dependence only (except nicotine) 6 (33 percent) — Age, IQ, years of education, years of dependence, average daily amount used and age of first use expressed as mean and standard deviation (in brackets).
+45-1	8780-8782	OD	_
+45-2	8783-8788	group	_
+45-3	8789-8791	HC	_
+45-4	8792-8797	group	_
+45-5	8798-8805	p‐value	_
+45-6	8808-8811	Age	_
+45-7	8812-8816	34.8	_
+45-8	8817-8818	(	_
+45-9	8818-8821	6.3	_
+45-10	8821-8822	)	_
+45-11	8823-8827	31.6	_
+45-12	8828-8829	(	_
+45-13	8829-8832	7.2	_
+45-14	8832-8833	)	_
+45-15	8834-8838	0.15	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+45-16	8841-8843	IQ	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+45-17	8844-8851	103.1.9	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+45-18	8852-8853	(	_
+45-19	8853-8856	7.7	_
+45-20	8856-8857	)	_
+45-21	8858-8863	114.1	_
+45-22	8864-8865	(	_
+45-23	8865-8868	4.7	_
+45-24	8868-8869	)	_
+45-25	8870-8871	<	_
+45-26	8871-8875	0.05	_
+45-27	8878-8883	Years	_
+45-28	8884-8886	of	_
+45-29	8887-8896	education	_
+45-30	8897-8901	11.5	_
+45-31	8902-8903	(	_
+45-32	8903-8906	2.2	_
+45-33	8906-8907	)	_
+45-34	8908-8912	16.5	_
+45-35	8913-8914	(	_
+45-36	8914-8917	3.3	_
+45-37	8917-8918	)	_
+45-38	8919-8920	<	_
+45-39	8920-8924	0.05	_
+45-40	8927-8929	No	_
+45-41	8929-8930	.	_
+45-42	8931-8933	of	_
+45-43	8934-8939	right	_
+45-44	8940-8947	handers	_
+45-45	8948-8950	16	_
+45-46	8951-8952	(	_
+45-47	8952-8954	89	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+45-48	8955-8962	percent	_
+45-49	8962-8963	)	_
+45-50	8964-8966	18	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+45-51	8967-8968	(	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+45-52	8968-8970	90	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+45-53	8971-8978	percent	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+45-54	8978-8979	)	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+45-55	8980-8984	0.91	_
+45-56	8987-8989	No	_
+45-57	8989-8990	.	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+45-58	8991-8993	of	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+45-59	8994-9001	smokers	_
+45-60	9002-9003	(	_
+45-61	9003-9011	nicotine	_
+45-62	9011-9012	)	_
+45-63	9013-9015	13	_
+45-64	9016-9017	(	_
+45-65	9017-9019	72	_
+45-66	9020-9027	percent	_
+45-67	9027-9028	)	_
+45-68	9029-9030	9	_
+45-69	9031-9032	(	_
+45-70	9032-9034	45	_
+45-71	9035-9042	percent	_
+45-72	9042-9043	)	_
+45-73	9044-9048	0.09	_
+45-74	9051-9059	Clinical	_
+45-75	9060-9069	Variables	_
+45-76	9070-9073	for	_
+45-77	9074-9076	OD	_
+45-78	9077-9082	group	_
+45-79	9088-9093	Years	_
+45-80	9094-9096	of	_
+45-81	9097-9103	opioid	_
+45-82	9104-9114	dependence	_
+45-83	9115-9119	12.8	_
+45-84	9120-9121	(	_
+45-85	9121-9124	7.7	_
+45-86	9124-9125	)	_
+45-87	9126-9127	—	_
+45-88	9131-9138	Average	_
+45-89	9139-9144	daily	_
+45-90	9145-9151	opioid	_
+45-91	9152-9155	use	_
+45-92	9156-9157	(	_
+45-93	9157-9158	g	_
+45-94	9158-9159	)	_
+45-95	9160-9163	0.7	_
+45-96	9164-9165	(	_
+45-97	9165-9168	0.6	_
+45-98	9168-9169	)	_
+45-99	9170-9171	—	_
+45-100	9175-9178	Age	_
+45-101	9179-9181	of	_
+45-102	9182-9187	first	_
+45-103	9188-9191	use	_
+45-104	9192-9193	(	_
+45-105	9193-9198	years	_
+45-106	9198-9199	)	_
+45-107	9200-9204	20.3	_
+45-108	9205-9206	(	_
+45-109	9206-9209	4.3	_
+45-110	9209-9210	)	_
+45-111	9215-9217	No	_
+45-112	9217-9218	.	_
+45-113	9219-9222	who	_
+45-114	9223-9232	primarily	_
+45-115	9233-9238	smoke	_
+45-116	9238-9239	/	_
+45-117	9239-9245	inject	_
+45-118	9245-9246	/	_
+45-119	9247-9249	or	_
+45-120	9250-9253	use	_
+45-121	9254-9258	both	_
+45-122	9259-9266	methods	_
+45-123	9267-9270	for	_
+45-124	9271-9277	heroin	_
+45-125	9278-9292	administration	_
+45-126	9293-9294	5	_
+45-127	9295-9296	(	_
+45-128	9296-9298	28	_
+45-129	9299-9306	percent	_
+45-130	9306-9307	)	_
+45-131	9307-9308	/	_
+45-132	9308-9309	5	_
+45-133	9310-9311	(	_
+45-134	9311-9313	28	_
+45-135	9314-9321	percent	_
+45-136	9321-9322	)	_
+45-137	9322-9323	/	_
+45-138	9323-9324	8	_
+45-139	9325-9326	(	_
+45-140	9326-9328	44	_
+45-141	9329-9336	percent	_
+45-142	9336-9337	)	_
+45-143	9338-9339	—	_
+45-144	9343-9345	No	_
+45-145	9345-9346	.	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+45-146	9347-9349	of	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+45-147	9350-9352	OD	_
+45-148	9353-9358	group	_
+45-149	9359-9363	with	_
+45-150	9364-9371	current	_
+45-151	9371-9372	/	_
+45-152	9372-9376	past	_
+45-153	9377-9384	history	_
+45-154	9385-9387	of	_
+45-155	9387-9388	:	_
+45-156	9390-9391	—	_
+45-157	9395-9402	Alcohol	_
+45-158	9403-9413	dependence	_
+45-159	9414-9415	7	_
+45-160	9416-9417	(	_
+45-161	9417-9419	39	_
+45-162	9420-9427	percent	_
+45-163	9427-9428	)	_
+45-164	9429-9430	—	_
+45-165	9434-9441	Cocaine	_
+45-166	9442-9452	dependence	_
+45-167	9453-9454	7	_
+45-168	9455-9456	(	_
+45-169	9456-9458	39	_
+45-170	9459-9466	percent	_
+45-171	9466-9467	)	_
+45-172	9472-9483	Amphetamine	_
+45-173	9484-9494	dependence	_
+45-174	9495-9496	1	_
+45-175	9497-9498	(	_
+45-176	9498-9499	6	_
+45-177	9500-9507	percent	_
+45-178	9507-9508	)	_
+45-179	9509-9510	—	_
+45-180	9514-9528	Benzodiazepine	_
+45-181	9529-9539	dependence	_
+45-182	9540-9541	3	_
+45-183	9542-9543	(	_
+45-184	9543-9545	17	_
+45-185	9546-9553	percent	_
+45-186	9553-9554	)	_
+45-187	9555-9556	—	_
+45-188	9560-9566	Heroin	_
+45-189	9567-9577	dependence	_
+45-190	9578-9582	only	_
+45-191	9583-9584	(	_
+45-192	9584-9590	except	_
+45-193	9591-9599	nicotine	_
+45-194	9599-9600	)	_
+45-195	9601-9602	6	_
+45-196	9603-9604	(	_
+45-197	9604-9606	33	_
+45-198	9607-9614	percent	_
+45-199	9614-9615	)	_
+45-200	9616-9617	—	_
+45-201	9622-9625	Age	_
+45-202	9625-9626	,	_
+45-203	9627-9629	IQ	_
+45-204	9629-9630	,	_
+45-205	9631-9636	years	_
+45-206	9637-9639	of	_
+45-207	9640-9649	education	_
+45-208	9649-9650	,	_
+45-209	9651-9656	years	_
+45-210	9657-9659	of	_
+45-211	9660-9670	dependence	_
+45-212	9670-9671	,	_
+45-213	9672-9679	average	_
+45-214	9680-9685	daily	_
+45-215	9686-9692	amount	_
+45-216	9693-9697	used	_
+45-217	9698-9701	and	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
+45-218	9702-9705	age	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
+45-219	9706-9708	of	_
+45-220	9709-9714	first	_
+45-221	9715-9718	use	_
+45-222	9719-9728	expressed	_
+45-223	9729-9731	as	_
+45-224	9732-9736	mean	_
+45-225	9737-9740	and	_
+45-226	9741-9749	standard	_
+45-227	9750-9759	deviation	_
+45-228	9760-9761	(	_
+45-229	9761-9763	in	_
+45-230	9764-9772	brackets	_
+45-231	9772-9773	)	_
+45-232	9773-9774	.	_
+
+Text=All other variables expressed as frequency and proportion of group (in brackets).
+46-1	9775-9778	All	_
+46-2	9779-9784	other	_
+46-3	9785-9794	variables	_
+46-4	9795-9804	expressed	_
+46-5	9805-9807	as	_
+46-6	9808-9817	frequency	_
+46-7	9818-9821	and	_
+46-8	9822-9832	proportion	_
+46-9	9833-9835	of	_
+46-10	9836-9841	group	_
+46-11	9842-9843	(	_
+46-12	9843-9845	in	_
+46-13	9846-9854	brackets	_
+46-14	9854-9855	)	_
+46-15	9855-9856	.	_
+
+Text=P‐values taken from independent t‐tests for continuous data and chi‐squared tests for frequency data.
+47-1	9857-9865	P‐values	_
+47-2	9866-9871	taken	_
+47-3	9872-9876	from	_
+47-4	9877-9888	independent	_
+47-5	9889-9896	t‐tests	_
+47-6	9897-9900	for	_
+47-7	9901-9911	continuous	_
+47-8	9912-9916	data	_
+47-9	9917-9920	and	_
+47-10	9921-9932	chi‐squared	_
+47-11	9933-9938	tests	_
+47-12	9939-9942	for	_
+47-13	9943-9952	frequency	_
+47-14	9953-9957	data	_
+47-15	9957-9958	.	_
+
+Text=Healthy controls (n   =   20) Healthy controls (HCs) were recruited who were familiar with graphic scenes of drug use because of occupational experience (e.g. drug treatment workers and other health professionals).
+48-1	9959-9966	Healthy	_
+48-2	9967-9975	controls	_
+48-3	9976-9977	(	_
+48-4	9977-9978	n	_
+48-5	9978-9979	 	_
+48-6	9979-9980	=	_
+48-7	9980-9981	 	_
+48-8	9981-9983	20	_
+48-9	9983-9984	)	_
+48-10	9985-9992	Healthy	_
+48-11	9993-10001	controls	_
+48-12	10002-10003	(	_
+48-13	10003-10006	HCs	_
+48-14	10006-10007	)	_
+48-15	10008-10012	were	_
+48-16	10013-10022	recruited	_
+48-17	10023-10026	who	_
+48-18	10027-10031	were	_
+48-19	10032-10040	familiar	_
+48-20	10041-10045	with	_
+48-21	10046-10053	graphic	_
+48-22	10054-10060	scenes	_
+48-23	10061-10063	of	_
+48-24	10064-10068	drug	_
+48-25	10069-10072	use	_
+48-26	10073-10080	because	_
+48-27	10081-10083	of	_
+48-28	10084-10096	occupational	_
+48-29	10097-10107	experience	_
+48-30	10108-10109	(	_
+48-31	10109-10112	e.g	_
+48-32	10112-10113	.	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+48-33	10114-10118	drug	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+48-34	10119-10128	treatment	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+48-35	10129-10136	workers	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+48-36	10137-10140	and	_
+48-37	10141-10146	other	_
+48-38	10147-10153	health	_
+48-39	10154-10167	professionals	_
+48-40	10167-10168	)	_
+48-41	10168-10169	.	_
+
+Text=The HC group met the same inclusion criteria outlined previously and additionally had no current or past history of drug dependence or misuse (except nicotine) and had never used heroin in their lifetime.
+49-1	10170-10173	The	_
+49-2	10174-10176	HC	_
+49-3	10177-10182	group	_
+49-4	10183-10186	met	_
+49-5	10187-10190	the	_
+49-6	10191-10195	same	_
+49-7	10196-10205	inclusion	_
+49-8	10206-10214	criteria	_
+49-9	10215-10223	outlined	_
+49-10	10224-10234	previously	_
+49-11	10235-10238	and	_
+49-12	10239-10251	additionally	_
+49-13	10252-10255	had	_
+49-14	10256-10258	no	_
+49-15	10259-10266	current	_
+49-16	10267-10269	or	_
+49-17	10270-10274	past	_
+49-18	10275-10282	history	_
+49-19	10283-10285	of	_
+49-20	10286-10290	drug	_
+49-21	10291-10301	dependence	_
+49-22	10302-10304	or	_
+49-23	10305-10311	misuse	_
+49-24	10312-10313	(	_
+49-25	10313-10319	except	_
+49-26	10320-10328	nicotine	_
+49-27	10328-10329	)	_
+49-28	10330-10333	and	_
+49-29	10334-10337	had	_
+49-30	10338-10343	never	_
+49-31	10344-10348	used	_
+49-32	10349-10355	heroin	_
+49-33	10356-10358	in	_
+49-34	10359-10364	their	_
+49-35	10365-10373	lifetime	_
+49-36	10373-10374	.	_
+
+Text=No healthy volunteers were receiving psychoactive medications.
+50-1	10375-10377	No	_
+50-2	10378-10385	healthy	_
+50-3	10386-10396	volunteers	_
+50-4	10397-10401	were	_
+50-5	10402-10411	receiving	_
+50-6	10412-10424	psychoactive	_
+50-7	10425-10436	medications	_
+50-8	10436-10437	.	_
+
+Text=Participants were screened with the Mini International Neuropsychiatric Interview (Sheehan et al. 1998), Wechsler Test of Adult Reading and Edinburgh Handedness Inventory.
+51-1	10438-10450	Participants	_
+51-2	10451-10455	were	_
+51-3	10456-10464	screened	_
+51-4	10465-10469	with	_
+51-5	10470-10473	the	_
+51-6	10474-10478	Mini	_
+51-7	10479-10492	International	_
+51-8	10493-10509	Neuropsychiatric	_
+51-9	10510-10519	Interview	_
+51-10	10520-10521	(	_
+51-11	10521-10528	Sheehan	_
+51-12	10529-10531	et	_
+51-13	10532-10534	al	_
+51-14	10534-10535	.	_
+51-15	10536-10540	1998	_
+51-16	10540-10541	)	_
+51-17	10541-10542	,	_
+51-18	10543-10551	Wechsler	_
+51-19	10552-10556	Test	_
+51-20	10557-10559	of	_
+51-21	10560-10565	Adult	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+51-22	10566-10573	Reading	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+51-23	10574-10577	and	_
+51-24	10578-10587	Edinburgh	_
+51-25	10588-10598	Handedness	_
+51-26	10599-10608	Inventory	_
+51-27	10608-10609	.	_
+
+Text=All participants provided written consent and were paid for their participation with vouchers.
+52-1	10610-10613	All	_
+52-2	10614-10626	participants	_
+52-3	10627-10635	provided	_
+52-4	10636-10643	written	_
+52-5	10644-10651	consent	_
+52-6	10652-10655	and	_
+52-7	10656-10660	were	_
+52-8	10661-10665	paid	_
+52-9	10666-10669	for	_
+52-10	10670-10675	their	_
+52-11	10676-10689	participation	_
+52-12	10690-10694	with	_
+52-13	10695-10703	vouchers	_
+52-14	10703-10704	.	_
+
+Text=Procedures Participants attended two separate, counterbalanced sessions.
+53-1	10705-10715	Procedures	_
+53-2	10716-10728	Participants	_
+53-3	10729-10737	attended	_
+53-4	10738-10741	two	_
+53-5	10742-10750	separate	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+53-6	10750-10751	,	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+53-7	10752-10767	counterbalanced	_
+53-8	10768-10776	sessions	_
+53-9	10776-10777	.	_
+
+Text=Patients were scanned in the last week of their residential stay when they were opioid free.
+54-1	10778-10786	Patients	_
+54-2	10787-10791	were	_
+54-3	10792-10799	scanned	_
+54-4	10800-10802	in	_
+54-5	10803-10806	the	_
+54-6	10807-10811	last	_
+54-7	10812-10816	week	_
+54-8	10817-10819	of	_
+54-9	10820-10825	their	_
+54-10	10826-10837	residential	_
+54-11	10838-10842	stay	_
+54-12	10843-10847	when	_
+54-13	10848-10852	they	_
+54-14	10853-10857	were	_
+54-15	10858-10864	opioid	_
+54-16	10865-10869	free	_
+54-17	10869-10870	.	_
+
+Text=On each occasion, participants underwent fMRI, once whilst viewing a 10 ‐ minute heroin video (drug cue session) and once whilst viewing a 10 ‐ minute video containing scenes matched for visual complexity but lacking emotionally arousing content (neutral session).
+55-1	10871-10873	On	_
+55-2	10874-10878	each	_
+55-3	10879-10887	occasion	_
+55-4	10887-10888	,	_
+55-5	10889-10901	participants	_
+55-6	10902-10911	underwent	_
+55-7	10912-10916	fMRI	_
+55-8	10916-10917	,	_
+55-9	10918-10922	once	_
+55-10	10923-10929	whilst	_
+55-11	10930-10937	viewing	_
+55-12	10938-10939	a	_
+55-13	10940-10942	10	_
+55-14	10942-10943	‐	_
+55-15	10943-10949	minute	_
+55-16	10950-10956	heroin	_
+55-17	10957-10962	video	_
+55-18	10963-10964	(	_
+55-19	10964-10968	drug	_
+55-20	10969-10972	cue	_
+55-21	10973-10980	session	_
+55-22	10980-10981	)	_
+55-23	10982-10985	and	_
+55-24	10986-10990	once	_
+55-25	10991-10997	whilst	_
+55-26	10998-11005	viewing	_
+55-27	11006-11007	a	_
+55-28	11008-11010	10	_
+55-29	11010-11011	‐	_
+55-30	11011-11017	minute	_
+55-31	11018-11023	video	_
+55-32	11024-11034	containing	_
+55-33	11035-11041	scenes	_
+55-34	11042-11049	matched	_
+55-35	11050-11053	for	_
+55-36	11054-11060	visual	_
+55-37	11061-11071	complexity	_
+55-38	11072-11075	but	_
+55-39	11076-11083	lacking	_
+55-40	11084-11095	emotionally	_
+55-41	11096-11104	arousing	_
+55-42	11105-11112	content	_
+55-43	11113-11114	(	_
+55-44	11114-11121	neutral	_
+55-45	11122-11129	session	_
+55-46	11129-11130	)	_
+55-47	11130-11131	.	_
+
+Text=Videos were preceded and followed by 5   minutes of fixation (Fig.   1).
+56-1	11132-11138	Videos	_
+56-2	11139-11143	were	_
+56-3	11144-11152	preceded	_
+56-4	11153-11156	and	_
+56-5	11157-11165	followed	_
+56-6	11166-11168	by	_
+56-7	11169-11170	5	_
+56-8	11170-11171	 	_
+56-9	11171-11178	minutes	_
+56-10	11179-11181	of	_
+56-11	11182-11190	fixation	_
+56-12	11191-11192	(	_
+56-13	11192-11195	Fig	_
+56-14	11195-11196	.	_
+56-15	11196-11197	 	_
+56-16	11197-11198	1	_
+56-17	11198-11199	)	_
+56-18	11199-11200	.	_
+
+Text=Images were presented using e‐prime (Psychology Software Tools, Inc, Sharpsburg, USA) (version 2.0).
+57-1	11201-11207	Images	_
+57-2	11208-11212	were	_
+57-3	11213-11222	presented	_
+57-4	11223-11228	using	_
+57-5	11229-11236	e‐prime	_
+57-6	11237-11238	(	_
+57-7	11238-11248	Psychology	_
+57-8	11249-11257	Software	_
+57-9	11258-11263	Tools	_
+57-10	11263-11264	,	_
+57-11	11265-11268	Inc	_
+57-12	11268-11269	,	_
+57-13	11270-11280	Sharpsburg	_
+57-14	11280-11281	,	_
+57-15	11282-11285	USA	_
+57-16	11285-11286	)	_
+57-17	11287-11288	(	_
+57-18	11288-11295	version	_
+57-19	11296-11299	2.0	_
+57-20	11299-11300	)	_
+57-21	11300-11301	.	_
+
+Text=Diagram illustrating 1 ‐ minute time‐bins for the drug cue and neutral sessions.
+58-1	11302-11309	Diagram	_
+58-2	11310-11322	illustrating	_
+58-3	11323-11324	1	_
+58-4	11324-11325	‐	_
+58-5	11325-11331	minute	_
+58-6	11332-11341	time‐bins	_
+58-7	11342-11345	for	_
+58-8	11346-11349	the	_
+58-9	11350-11354	drug	_
+58-10	11355-11358	cue	_
+58-11	11359-11362	and	_
+58-12	11363-11370	neutral	_
+58-13	11371-11379	sessions	_
+58-14	11379-11380	.	_
+
+Text=The 480 scans were divided into 1   minute time‐bins.
+59-1	11381-11384	The	_
+59-2	11385-11388	480	_
+59-3	11389-11394	scans	_
+59-4	11395-11399	were	_
+59-5	11400-11407	divided	_
+59-6	11408-11412	into	_
+59-7	11413-11414	1	_
+59-8	11414-11415	 	_
+59-9	11415-11421	minute	_
+59-10	11422-11431	time‐bins	_
+59-11	11431-11432	.	_
+
+Text=T0 was the 5th minute of the pre‐video baseline, T1 – T10 were the time‐bins acquired during the video and T11 ‐ T15 were the post‐video time‐bins.
+60-1	11433-11435	T0	_
+60-2	11436-11439	was	_
+60-3	11440-11443	the	_
+60-4	11444-11447	5th	_
+60-5	11448-11454	minute	_
+60-6	11455-11457	of	_
+60-7	11458-11461	the	_
+60-8	11462-11471	pre‐video	_
+60-9	11472-11480	baseline	_
+60-10	11480-11481	,	_
+60-11	11482-11484	T1	_
+60-12	11484-11485	–	_
+60-13	11485-11488	T10	_
+60-14	11489-11493	were	_
+60-15	11494-11497	the	_
+60-16	11498-11507	time‐bins	_
+60-17	11508-11516	acquired	_
+60-18	11517-11523	during	_
+60-19	11524-11527	the	_
+60-20	11528-11533	video	_
+60-21	11534-11537	and	_
+60-22	11538-11541	T11	_
+60-23	11541-11542	‐	_
+60-24	11542-11545	T15	_
+60-25	11546-11550	were	_
+60-26	11551-11554	the	_
+60-27	11555-11565	post‐video	_
+60-28	11566-11575	time‐bins	_
+60-29	11575-11576	.	_
+
+Text=The arrows indicate the time points of the presentation of the Likert‐like subjective rating scales Measures Participants were presented with Likert‐like subjective rating scales throughout the scanning session.
+61-1	11577-11580	The	_
+61-2	11581-11587	arrows	_
+61-3	11588-11596	indicate	_
+61-4	11597-11600	the	_
+61-5	11601-11605	time	_
+61-6	11606-11612	points	_
+61-7	11613-11615	of	_
+61-8	11616-11619	the	_
+61-9	11620-11632	presentation	_
+61-10	11633-11635	of	_
+61-11	11636-11639	the	_
+61-12	11640-11651	Likert‐like	_
+61-13	11652-11662	subjective	_
+61-14	11663-11669	rating	_
+61-15	11670-11676	scales	_
+61-16	11677-11685	Measures	_
+61-17	11686-11698	Participants	_
+61-18	11699-11703	were	_
+61-19	11704-11713	presented	_
+61-20	11714-11718	with	_
+61-21	11719-11730	Likert‐like	_
+61-22	11731-11741	subjective	_
+61-23	11742-11748	rating	_
+61-24	11749-11755	scales	_
+61-25	11756-11766	throughout	_
+61-26	11767-11770	the	_
+61-27	11771-11779	scanning	_
+61-28	11780-11787	session	_
+61-29	11787-11788	.	_
+
+Text=Participants were prompted to respond by a screen displaying the following text ‘ do you feel you are … ’, which was presented for 3   seconds before slides stating ‘ Craving? ’
+62-1	11789-11801	Participants	_
+62-2	11802-11806	were	_
+62-3	11807-11815	prompted	_
+62-4	11816-11818	to	_
+62-5	11819-11826	respond	_
+62-6	11827-11829	by	_
+62-7	11830-11831	a	_
+62-8	11832-11838	screen	_
+62-9	11839-11849	displaying	_
+62-10	11850-11853	the	_
+62-11	11854-11863	following	_
+62-12	11864-11868	text	_
+62-13	11869-11870	‘	_
+62-14	11870-11872	do	_
+62-15	11873-11876	you	_
+62-16	11877-11881	feel	_
+62-17	11882-11885	you	_
+62-18	11886-11889	are	_
+62-19	11890-11891	…	_
+62-20	11891-11892	’	_
+62-21	11892-11893	,	_
+62-22	11894-11899	which	_
+62-23	11900-11903	was	_
+62-24	11904-11913	presented	_
+62-25	11914-11917	for	_
+62-26	11918-11919	3	_
+62-27	11919-11920	 	_
+62-28	11920-11927	seconds	_
+62-29	11928-11934	before	_
+62-30	11935-11941	slides	_
+62-31	11942-11949	stating	_
+62-32	11950-11951	‘	_
+62-33	11951-11958	Craving	_
+62-34	11958-11959	?	_
+62-35	11959-11960	’	_
+
+Text=, ‘ Withdrawing? ’
+63-1	11960-11961	,	_
+63-2	11962-11963	‘	_
+63-3	11963-11974	Withdrawing	_
+63-4	11974-11975	?	_
+63-5	11975-11976	’	_
+
+Text=, ‘ Anxious? ’
+64-1	11976-11977	,	_
+64-2	11978-11979	‘	_
+64-3	11979-11986	Anxious	_
+64-4	11986-11987	?	_
+64-5	11987-11988	’	_
+
+Text=or ‘ High? ’
+65-1	11989-11991	or	_
+65-2	11992-11993	‘	_
+65-3	11993-11997	High	_
+65-4	11997-11998	?	_
+65-5	11998-11999	’	_
+
+Text=, were presented for 4   seconds along with the following scale: 1 (not all), 2 (slightly), 3 (moderately) and 4 (extremely).
+66-1	11999-12000	,	_
+66-2	12001-12005	were	_
+66-3	12006-12015	presented	_
+66-4	12016-12019	for	_
+66-5	12020-12021	4	_
+66-6	12021-12022	 	_
+66-7	12022-12029	seconds	_
+66-8	12030-12035	along	_
+66-9	12036-12040	with	_
+66-10	12041-12044	the	_
+66-11	12045-12054	following	_
+66-12	12055-12060	scale	_
+66-13	12060-12061	:	_
+66-14	12062-12063	1	_
+66-15	12064-12065	(	_
+66-16	12065-12068	not	_
+66-17	12069-12072	all	_
+66-18	12072-12073	)	_
+66-19	12073-12074	,	_
+66-20	12075-12076	2	_
+66-21	12077-12078	(	_
+66-22	12078-12086	slightly	_
+66-23	12086-12087	)	_
+66-24	12087-12088	,	_
+66-25	12089-12090	3	_
+66-26	12091-12092	(	_
+66-27	12092-12102	moderately	_
+66-28	12102-12103	)	_
+66-29	12104-12107	and	_
+66-30	12108-12109	4	_
+66-31	12110-12111	(	_
+66-32	12111-12120	extremely	_
+66-33	12120-12121	)	_
+66-34	12121-12122	.	_
+
+Text=Participants responded via a button box.
+67-1	12123-12135	Participants	_
+67-2	12136-12145	responded	_
+67-3	12146-12149	via	_
+67-4	12150-12151	a	_
+67-5	12152-12158	button	_
+67-6	12159-12162	box	_
+67-7	12162-12163	.	_
+
+Text=The scales were presented at 3 ‐ minute intervals in each session (Fig.   1) Behavioural data Mixed ANOVAs were carried out for each of the four subjective rating scales with time of rating (six levels including a pre‐video baseline rating, three during the video and two post‐video ratings) and session (drug cue, neutral) as within‐subject factors and group (HC, OD) as the between‐subject factor.
+68-1	12164-12167	The	_
+68-2	12168-12174	scales	_
+68-3	12175-12179	were	_
+68-4	12180-12189	presented	_
+68-5	12190-12192	at	_
+68-6	12193-12194	3	_
+68-7	12194-12195	‐	_
+68-8	12195-12201	minute	_
+68-9	12202-12211	intervals	_
+68-10	12212-12214	in	_
+68-11	12215-12219	each	_
+68-12	12220-12227	session	_
+68-13	12228-12229	(	_
+68-14	12229-12232	Fig	_
+68-15	12232-12233	.	_
+68-16	12233-12234	 	_
+68-17	12234-12235	1	_
+68-18	12235-12236	)	_
+68-19	12237-12248	Behavioural	_
+68-20	12249-12253	data	_
+68-21	12254-12259	Mixed	_
+68-22	12260-12266	ANOVAs	_
+68-23	12267-12271	were	_
+68-24	12272-12279	carried	_
+68-25	12280-12283	out	_
+68-26	12284-12287	for	_
+68-27	12288-12292	each	_
+68-28	12293-12295	of	_
+68-29	12296-12299	the	_
+68-30	12300-12304	four	_
+68-31	12305-12315	subjective	_
+68-32	12316-12322	rating	_
+68-33	12323-12329	scales	_
+68-34	12330-12334	with	_
+68-35	12335-12339	time	_
+68-36	12340-12342	of	_
+68-37	12343-12349	rating	_
+68-38	12350-12351	(	_
+68-39	12351-12354	six	_
+68-40	12355-12361	levels	_
+68-41	12362-12371	including	_
+68-42	12372-12373	a	_
+68-43	12374-12383	pre‐video	_
+68-44	12384-12392	baseline	_
+68-45	12393-12399	rating	_
+68-46	12399-12400	,	_
+68-47	12401-12406	three	_
+68-48	12407-12413	during	_
+68-49	12414-12417	the	_
+68-50	12418-12423	video	_
+68-51	12424-12427	and	_
+68-52	12428-12431	two	_
+68-53	12432-12442	post‐video	_
+68-54	12443-12450	ratings	_
+68-55	12450-12451	)	_
+68-56	12452-12455	and	_
+68-57	12456-12463	session	_
+68-58	12464-12465	(	_
+68-59	12465-12469	drug	_
+68-60	12470-12473	cue	_
+68-61	12473-12474	,	_
+68-62	12475-12482	neutral	_
+68-63	12482-12483	)	_
+68-64	12484-12486	as	_
+68-65	12487-12501	within‐subject	_
+68-66	12502-12509	factors	_
+68-67	12510-12513	and	_
+68-68	12514-12519	group	_
+68-69	12520-12521	(	_
+68-70	12521-12523	HC	_
+68-71	12523-12524	,	_
+68-72	12525-12527	OD	_
+68-73	12527-12528	)	_
+68-74	12529-12531	as	_
+68-75	12532-12535	the	_
+68-76	12536-12551	between‐subject	_
+68-77	12552-12558	factor	_
+68-78	12558-12559	.	_
+
+Text=Session order was included as a covariate.
+69-1	12560-12567	Session	_
+69-2	12568-12573	order	_
+69-3	12574-12577	was	_
+69-4	12578-12586	included	_
+69-5	12587-12589	as	_
+69-6	12590-12591	a	_
+69-7	12592-12601	covariate	_
+69-8	12601-12602	.	_
+
+Text=The pre‐video rating taken during the last minute of the baseline period (T0) was used as the pre‐video baseline rating.
+70-1	12603-12606	The	_
+70-2	12607-12616	pre‐video	_
+70-3	12617-12623	rating	_
+70-4	12624-12629	taken	_
+70-5	12630-12636	during	_
+70-6	12637-12640	the	_
+70-7	12641-12645	last	_
+70-8	12646-12652	minute	_
+70-9	12653-12655	of	_
+70-10	12656-12659	the	_
+70-11	12660-12668	baseline	_
+70-12	12669-12675	period	_
+70-13	12676-12677	(	_
+70-14	12677-12679	T0	_
+70-15	12679-12680	)	_
+70-16	12681-12684	was	_
+70-17	12685-12689	used	_
+70-18	12690-12692	as	_
+70-19	12693-12696	the	_
+70-20	12697-12706	pre‐video	_
+70-21	12707-12715	baseline	_
+70-22	12716-12722	rating	_
+70-23	12722-12723	.	_
+
+Text=A Greenhouse‐Geisser correction was applied when Mauchley's assumption of sphericity was violated.
+71-1	12724-12725	A	_
+71-2	12726-12744	Greenhouse‐Geisser	_
+71-3	12745-12755	correction	_
+71-4	12756-12759	was	_
+71-5	12760-12767	applied	_
+71-6	12768-12772	when	_
+71-7	12773-12783	Mauchley's	_
+71-8	12784-12794	assumption	_
+71-9	12795-12797	of	_
+71-10	12798-12808	sphericity	_
+71-11	12809-12812	was	_
+71-12	12813-12821	violated	_
+71-13	12821-12822	.	_
+
+Text=Ratings from one HC were not included as the participant could not see the rating scales.
+72-1	12823-12830	Ratings	_
+72-2	12831-12835	from	_
+72-3	12836-12839	one	_
+72-4	12840-12842	HC	_
+72-5	12843-12847	were	_
+72-6	12848-12851	not	_
+72-7	12852-12860	included	_
+72-8	12861-12863	as	_
+72-9	12864-12867	the	_
+72-10	12868-12879	participant	_
+72-11	12880-12885	could	_
+72-12	12886-12889	not	_
+72-13	12890-12893	see	_
+72-14	12894-12897	the	_
+72-15	12898-12904	rating	_
+72-16	12905-12911	scales	_
+72-17	12911-12912	.	_
+
+Text=Scanning and analysis Whole brain T2 * weighted images were acquired on a 3 Tesla Philips Achieva scanner with single shot, multi‐slice echo planar (EPI) pulse sequence.
+73-1	12913-12921	Scanning	_
+73-2	12922-12925	and	_
+73-3	12926-12934	analysis	_
+73-4	12935-12940	Whole	_
+73-5	12941-12946	brain	_
+73-6	12947-12949	T2	_
+73-7	12949-12950	*	_
+73-8	12951-12959	weighted	_
+73-9	12960-12966	images	_
+73-10	12967-12971	were	_
+73-11	12972-12980	acquired	_
+73-12	12981-12983	on	_
+73-13	12984-12985	a	_
+73-14	12986-12987	3	_
+73-15	12988-12993	Tesla	_
+73-16	12994-13001	Philips	_
+73-17	13002-13009	Achieva	_
+73-18	13010-13017	scanner	_
+73-19	13018-13022	with	_
+73-20	13023-13029	single	_
+73-21	13030-13034	shot	_
+73-22	13034-13035	,	_
+73-23	13036-13047	multi‐slice	_
+73-24	13048-13052	echo	_
+73-25	13053-13059	planar	_
+73-26	13060-13061	(	_
+73-27	13061-13064	EPI	_
+73-28	13064-13065	)	_
+73-29	13066-13071	pulse	_
+73-30	13072-13080	sequence	_
+73-31	13080-13081	.	_
+
+Text=Each volume comprised 34 contiguous axial slices (TR   =   2.5   s, TE   =   35   ms, 96   ×   96 matrix, in‐plane voxel size 3.0   mm   ×   3.0   mm, slice thickness 3.5   mm).
+74-1	13082-13086	Each	_
+74-2	13087-13093	volume	_
+74-3	13094-13103	comprised	_
+74-4	13104-13106	34	_
+74-5	13107-13117	contiguous	_
+74-6	13118-13123	axial	_
+74-7	13124-13130	slices	_
+74-8	13131-13132	(	_
+74-9	13132-13134	TR	_
+74-10	13134-13135	 	_
+74-11	13135-13136	=	_
+74-12	13136-13137	 	_
+74-13	13137-13140	2.5	_
+74-14	13140-13141	 	_
+74-15	13141-13142	s	_
+74-16	13142-13143	,	_
+74-17	13144-13146	TE	_
+74-18	13146-13147	 	_
+74-19	13147-13148	=	_
+74-20	13148-13149	 	_
+74-21	13149-13151	35	_
+74-22	13151-13152	 	_
+74-23	13152-13154	ms	_
+74-24	13154-13155	,	_
+74-25	13156-13158	96	_
+74-26	13158-13159	 	_
+74-27	13159-13160	×	_
+74-28	13160-13161	 	_
+74-29	13161-13163	96	_
+74-30	13164-13170	matrix	_
+74-31	13170-13171	,	_
+74-32	13172-13180	in‐plane	_
+74-33	13181-13186	voxel	_
+74-34	13187-13191	size	_
+74-35	13192-13195	3.0	_
+74-36	13195-13196	 	_
+74-37	13196-13198	mm	_
+74-38	13198-13199	 	_
+74-39	13199-13200	×	_
+74-40	13200-13201	 	_
+74-41	13201-13204	3.0	_
+74-42	13204-13205	 	_
+74-43	13205-13207	mm	_
+74-44	13207-13208	,	_
+74-45	13209-13214	slice	_
+74-46	13215-13224	thickness	_
+74-47	13225-13228	3.5	_
+74-48	13228-13229	 	_
+74-49	13229-13231	mm	_
+74-50	13231-13232	)	_
+74-51	13232-13233	.	_
+
+Text=A high‐resolution T1 ‐ weighted structural image was also acquired for each participant for coregistration during preprocessing and to exclude any structural abnormality.
+75-1	13234-13235	A	_
+75-2	13236-13251	high‐resolution	_
+75-3	13252-13254	T1	_
+75-4	13254-13255	‐	_
+75-5	13255-13263	weighted	_
+75-6	13264-13274	structural	_
+75-7	13275-13280	image	_
+75-8	13281-13284	was	_
+75-9	13285-13289	also	_
+75-10	13290-13298	acquired	_
+75-11	13299-13302	for	_
+75-12	13303-13307	each	_
+75-13	13308-13319	participant	_
+75-14	13320-13323	for	_
+75-15	13324-13338	coregistration	_
+75-16	13339-13345	during	_
+75-17	13346-13359	preprocessing	_
+75-18	13360-13363	and	_
+75-19	13364-13366	to	_
+75-20	13367-13374	exclude	_
+75-21	13375-13378	any	_
+75-22	13379-13389	structural	_
+75-23	13390-13401	abnormality	_
+75-24	13401-13402	.	_
+
+Text=Preprocessing Functional data were analysed using statistical parametric mapping (SPM8; The Wellcome Department of Cognitive Neurology, London, UK) running in MATLAB (Matlab, R2012a; Mathworks, Natick, Massachusetts, U.S.A.).
+76-1	13403-13416	Preprocessing	_
+76-2	13417-13427	Functional	_
+76-3	13428-13432	data	_
+76-4	13433-13437	were	_
+76-5	13438-13446	analysed	_
+76-6	13447-13452	using	_
+76-7	13453-13464	statistical	_
+76-8	13465-13475	parametric	_
+76-9	13476-13483	mapping	_
+76-10	13484-13485	(	_
+76-11	13485-13489	SPM8	_
+76-12	13489-13490	;	_
+76-13	13491-13494	The	_
+76-14	13495-13503	Wellcome	_
+76-15	13504-13514	Department	_
+76-16	13515-13517	of	_
+76-17	13518-13527	Cognitive	_
+76-18	13528-13537	Neurology	_
+76-19	13537-13538	,	_
+76-20	13539-13545	London	_
+76-21	13545-13546	,	_
+76-22	13547-13549	UK	_
+76-23	13549-13550	)	_
+76-24	13551-13558	running	_
+76-25	13559-13561	in	_
+76-26	13562-13568	MATLAB	_
+76-27	13569-13570	(	_
+76-28	13570-13576	Matlab	_
+76-29	13576-13577	,	_
+76-30	13578-13584	R2012a	_
+76-31	13584-13585	;	_
+76-32	13586-13595	Mathworks	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+76-33	13595-13596	,	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+76-34	13597-13603	Natick	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+76-35	13603-13604	,	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+76-36	13605-13618	Massachusetts	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+76-37	13618-13619	,	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+76-38	13620-13625	U.S.A	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+76-39	13625-13626	.	_
+76-40	13626-13627	)	_
+76-41	13627-13628	.	_
+
+Text=Functional images were realigned and coregistered with the T1 structural image before normalization of the functional images into standard space was carried out using the unified segmentation approach (Ashburner & Friston 2005).
+77-1	13629-13639	Functional	_
+77-2	13640-13646	images	_
+77-3	13647-13651	were	_
+77-4	13652-13661	realigned	_
+77-5	13662-13665	and	_
+77-6	13666-13678	coregistered	_
+77-7	13679-13683	with	_
+77-8	13684-13687	the	_
+77-9	13688-13690	T1	_
+77-10	13691-13701	structural	_
+77-11	13702-13707	image	_
+77-12	13708-13714	before	_
+77-13	13715-13728	normalization	_
+77-14	13729-13731	of	_
+77-15	13732-13735	the	_
+77-16	13736-13746	functional	_
+77-17	13747-13753	images	_
+77-18	13754-13758	into	_
+77-19	13759-13767	standard	_
+77-20	13768-13773	space	_
+77-21	13774-13777	was	_
+77-22	13778-13785	carried	_
+77-23	13786-13789	out	_
+77-24	13790-13795	using	_
+77-25	13796-13799	the	_
+77-26	13800-13807	unified	_
+77-27	13808-13820	segmentation	_
+77-28	13821-13829	approach	_
+77-29	13830-13831	(	_
+77-30	13831-13840	Ashburner	_
+77-31	13841-13842	&	_
+77-32	13843-13850	Friston	_
+77-33	13851-13855	2005	_
+77-34	13855-13856	)	_
+77-35	13856-13857	.	_
+
+Text=Normalized images were smoothed using an 8 ‐ mm Gaussian kernel.
+78-1	13858-13868	Normalized	_
+78-2	13869-13875	images	_
+78-3	13876-13880	were	_
+78-4	13881-13889	smoothed	_
+78-5	13890-13895	using	_
+78-6	13896-13898	an	_
+78-7	13899-13900	8	_
+78-8	13900-13901	‐	_
+78-9	13901-13903	mm	_
+78-10	13904-13912	Gaussian	_
+78-11	13913-13919	kernel	_
+78-12	13919-13920	.	_
+
+Text=The smoothed functional images of the participants who moved more than 1   voxel were repaired by an interpolation method using the artefact repair toolbox (http: / / cibsr.stanford.edu / tools / ArtRepair / ArtRepair.htm).
+79-1	13921-13924	The	_
+79-2	13925-13933	smoothed	_
+79-3	13934-13944	functional	_
+79-4	13945-13951	images	_
+79-5	13952-13954	of	_
+79-6	13955-13958	the	_
+79-7	13959-13971	participants	_
+79-8	13972-13975	who	_
+79-9	13976-13981	moved	_
+79-10	13982-13986	more	_
+79-11	13987-13991	than	_
+79-12	13992-13993	1	_
+79-13	13993-13994	 	_
+79-14	13994-13999	voxel	_
+79-15	14000-14004	were	_
+79-16	14005-14013	repaired	_
+79-17	14014-14016	by	_
+79-18	14017-14019	an	_
+79-19	14020-14033	interpolation	_
+79-20	14034-14040	method	_
+79-21	14041-14046	using	_
+79-22	14047-14050	the	_
+79-23	14051-14059	artefact	_
+79-24	14060-14066	repair	_
+79-25	14067-14074	toolbox	_
+79-26	14075-14076	(	_
+79-27	14076-14080	http	_
+79-28	14080-14081	:	_
+79-29	14081-14082	/	_
+79-30	14082-14083	/	_
+79-31	14083-14101	cibsr.stanford.edu	_
+79-32	14101-14102	/	_
+79-33	14102-14107	tools	_
+79-34	14107-14108	/	_
+79-35	14108-14117	ArtRepair	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+79-36	14117-14118	/	_
+79-37	14118-14131	ArtRepair.htm	_
+79-38	14131-14132	)	_
+79-39	14132-14133	.	_
+
+Text=Two ODs with excessive movement were excluded (> 10 percent volumes needing repairing).
+80-1	14134-14137	Two	_
+80-2	14138-14141	ODs	_
+80-3	14142-14146	with	_
+80-4	14147-14156	excessive	_
+80-5	14157-14165	movement	_
+80-6	14166-14170	were	_
+80-7	14171-14179	excluded	_
+80-8	14180-14181	(	_
+80-9	14181-14182	>	_
+80-10	14182-14184	10	_
+80-11	14185-14192	percent	_
+80-12	14193-14200	volumes	_
+80-13	14201-14208	needing	_
+80-14	14209-14218	repairing	_
+80-15	14218-14219	)	_
+80-16	14219-14220	.	_
+
+Text=Eighteen ODs and 20 HCs were entered into subsequent analyses.
+81-1	14221-14229	Eighteen	_
+81-2	14230-14233	ODs	_
+81-3	14234-14237	and	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+81-4	14238-14240	20	_
+81-5	14241-14244	HCs	_
+81-6	14245-14249	were	_
+81-7	14250-14257	entered	_
+81-8	14258-14262	into	_
+81-9	14263-14273	subsequent	_
+81-10	14274-14282	analyses	_
+81-11	14282-14283	.	_
+
+Text=First‐level analysis For both the drug cue and the neutral session, data were acquired continuously for 20   minutes (5   minutes before the start of each video to allow participants to acclimatize to the scanner environment, 10   minutes during presentation of the video and an additional 5   minutes after the end of the video) (Fig.   1).
+82-1	14284-14295	First‐level	_
+82-2	14296-14304	analysis	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+82-3	14305-14308	For	_
+82-4	14309-14313	both	_
+82-5	14314-14317	the	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+82-6	14318-14322	drug	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+82-7	14323-14326	cue	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+82-8	14327-14330	and	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+82-9	14331-14334	the	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+82-10	14335-14342	neutral	_
+82-11	14343-14350	session	_
+82-12	14350-14351	,	_
+82-13	14352-14356	data	_
+82-14	14357-14361	were	_
+82-15	14362-14370	acquired	_
+82-16	14371-14383	continuously	_
+82-17	14384-14387	for	_
+82-18	14388-14390	20	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+82-19	14390-14391	 	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+82-20	14391-14398	minutes	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+82-21	14399-14400	(	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+82-22	14400-14401	5	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+82-23	14401-14402	 	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+82-24	14402-14409	minutes	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+82-25	14410-14416	before	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+82-26	14417-14420	the	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+82-27	14421-14426	start	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+82-28	14427-14429	of	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+82-29	14430-14434	each	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+82-30	14435-14440	video	_
+82-31	14441-14443	to	_
+82-32	14444-14449	allow	_
+82-33	14450-14462	participants	_
+82-34	14463-14465	to	_
+82-35	14466-14477	acclimatize	_
+82-36	14478-14480	to	_
+82-37	14481-14484	the	_
+82-38	14485-14492	scanner	_
+82-39	14493-14504	environment	_
+82-40	14504-14505	,	_
+82-41	14506-14508	10	_
+82-42	14508-14509	 	_
+82-43	14509-14516	minutes	_
+82-44	14517-14523	during	_
+82-45	14524-14536	presentation	_
+82-46	14537-14539	of	_
+82-47	14540-14543	the	_
+82-48	14544-14549	video	_
+82-49	14550-14553	and	_
+82-50	14554-14556	an	_
+82-51	14557-14567	additional	_
+82-52	14568-14569	5	_
+82-53	14569-14570	 	_
+82-54	14570-14577	minutes	_
+82-55	14578-14583	after	_
+82-56	14584-14587	the	_
+82-57	14588-14591	end	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+82-58	14592-14594	of	_
+82-59	14595-14598	the	_
+82-60	14599-14604	video	_
+82-61	14604-14605	)	_
+82-62	14606-14607	(	_
+82-63	14607-14610	Fig	_
+82-64	14610-14611	.	_
+82-65	14611-14612	 	_
+82-66	14612-14613	1	_
+82-67	14613-14614	)	_
+82-68	14614-14615	.	_
+
+Text=The resultant 480 acquired scans were divided into 1 ‐ minute time‐bins (20 time‐bins in total).
+83-1	14616-14619	The	_
+83-2	14620-14629	resultant	_
+83-3	14630-14633	480	_
+83-4	14634-14642	acquired	_
+83-5	14643-14648	scans	_
+83-6	14649-14653	were	_
+83-7	14654-14661	divided	_
+83-8	14662-14666	into	_
+83-9	14667-14668	1	_
+83-10	14668-14669	‐	_
+83-11	14669-14675	minute	_
+83-12	14676-14685	time‐bins	_
+83-13	14686-14687	(	_
+83-14	14687-14689	20	_
+83-15	14690-14699	time‐bins	_
+83-16	14700-14702	in	_
+83-17	14703-14708	total	_
+83-18	14708-14709	)	_
+83-19	14709-14710	.	_
+
+Text=The 5th minute of the pre‐video baseline was treated as the baseline time‐bin T0, with each subsequent time‐bin (T1 – 15) compared with T0 using regression analysis within a general linear model framework.
+84-1	14711-14714	The	_
+84-2	14715-14718	5th	_
+84-3	14719-14725	minute	_
+84-4	14726-14728	of	_
+84-5	14729-14732	the	_
+84-6	14733-14742	pre‐video	_
+84-7	14743-14751	baseline	_
+84-8	14752-14755	was	_
+84-9	14756-14763	treated	_
+84-10	14764-14766	as	_
+84-11	14767-14770	the	_
+84-12	14771-14779	baseline	_
+84-13	14780-14788	time‐bin	_
+84-14	14789-14791	T0	_
+84-15	14791-14792	,	_
+84-16	14793-14797	with	_
+84-17	14798-14802	each	_
+84-18	14803-14813	subsequent	_
+84-19	14814-14822	time‐bin	_
+84-20	14823-14824	(	_
+84-21	14824-14826	T1	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+84-22	14826-14827	–	_
+84-23	14827-14829	15	_
+84-24	14829-14830	)	_
+84-25	14831-14839	compared	_
+84-26	14840-14844	with	_
+84-27	14845-14847	T0	_
+84-28	14848-14853	using	_
+84-29	14854-14864	regression	_
+84-30	14865-14873	analysis	_
+84-31	14874-14880	within	_
+84-32	14881-14882	a	_
+84-33	14883-14890	general	_
+84-34	14891-14897	linear	_
+84-35	14898-14903	model	_
+84-36	14904-14913	framework	_
+84-37	14913-14914	.	_
+
+Text=The exact shape of the signal of interest was unknown; therefore, no high‐pass filter was used.
+85-1	14915-14918	The	_
+85-2	14919-14924	exact	_
+85-3	14925-14930	shape	_
+85-4	14931-14933	of	_
+85-5	14934-14937	the	_
+85-6	14938-14944	signal	_
+85-7	14945-14947	of	_
+85-8	14948-14956	interest	_
+85-9	14957-14960	was	_
+85-10	14961-14968	unknown	_
+85-11	14968-14969	;	_
+85-12	14970-14979	therefore	_
+85-13	14979-14980	,	_
+85-14	14981-14983	no	_
+85-15	14984-14993	high‐pass	_
+85-16	14994-15000	filter	_
+85-17	15001-15004	was	_
+85-18	15005-15009	used	_
+85-19	15009-15010	.	_
+
+Text=The neutral session averages were subtracted from the time equivalent drug cue session averages, resulting in ‘ drug cue session–neutral session ’ contrast images.
+86-1	15011-15014	The	_
+86-2	15015-15022	neutral	_
+86-3	15023-15030	session	_
+86-4	15031-15039	averages	_
+86-5	15040-15044	were	_
+86-6	15045-15055	subtracted	_
+86-7	15056-15060	from	_
+86-8	15061-15064	the	_
+86-9	15065-15069	time	_
+86-10	15070-15080	equivalent	_
+86-11	15081-15085	drug	_
+86-12	15086-15089	cue	_
+86-13	15090-15097	session	_
+86-14	15098-15106	averages	_
+86-15	15106-15107	,	_
+86-16	15108-15117	resulting	_
+86-17	15118-15120	in	_
+86-18	15121-15122	‘	_
+86-19	15122-15126	drug	_
+86-20	15127-15130	cue	_
+86-21	15131-15146	session–neutral	_
+86-22	15147-15154	session	_
+86-23	15154-15155	’	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+86-24	15156-15164	contrast	_
+86-25	15165-15171	images	_
+86-26	15171-15172	.	_
+
+Text=Region‐of‐interest analysis A region‐of‐interest (ROI) approach was used to extract time course signals from key brain regions involved in drug cue reactivity based on recent meta‐analyses (Chase et al. 2011; Kuhn & Gallinat 2011).
+87-1	15173-15191	Region‐of‐interest	_
+87-2	15192-15200	analysis	_
+87-3	15201-15202	A	_
+87-4	15203-15221	region‐of‐interest	_
+87-5	15222-15223	(	_
+87-6	15223-15226	ROI	_
+87-7	15226-15227	)	_
+87-8	15228-15236	approach	_
+87-9	15237-15240	was	_
+87-10	15241-15245	used	_
+87-11	15246-15248	to	_
+87-12	15249-15256	extract	_
+87-13	15257-15261	time	_
+87-14	15262-15268	course	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+87-15	15269-15276	signals	_
+87-16	15277-15281	from	_
+87-17	15282-15285	key	_
+87-18	15286-15291	brain	_
+87-19	15292-15299	regions	_
+87-20	15300-15308	involved	_
+87-21	15309-15311	in	_
+87-22	15312-15316	drug	_
+87-23	15317-15320	cue	_
+87-24	15321-15331	reactivity	_
+87-25	15332-15337	based	_
+87-26	15338-15340	on	_
+87-27	15341-15347	recent	_
+87-28	15348-15361	meta‐analyses	_
+87-29	15362-15363	(	_
+87-30	15363-15368	Chase	_
+87-31	15369-15371	et	_
+87-32	15372-15374	al	_
+87-33	15374-15375	.	_
+87-34	15376-15380	2011	_
+87-35	15380-15381	;	_
+87-36	15382-15386	Kuhn	_
+87-37	15387-15388	&	_
+87-38	15389-15397	Gallinat	_
+87-39	15398-15402	2011	_
+87-40	15402-15403	)	_
+87-41	15403-15404	.	_
+
+Text=These composed of spheres of 7 ‐ mm radius centred around the bilateral ventral striatum, amygdala and VmPFC, coordinates from Chase et al. (2011), and anterior cingulate cortex, coordinates from Kuhn & Gallinat (2011), as displayed in Fig.   3.
+88-1	15405-15410	These	_
+88-2	15411-15419	composed	_
+88-3	15420-15422	of	_
+88-4	15423-15430	spheres	_
+88-5	15431-15433	of	_
+88-6	15434-15435	7	_
+88-7	15435-15436	‐	_
+88-8	15436-15438	mm	_
+88-9	15439-15445	radius	_
+88-10	15446-15453	centred	_
+88-11	15454-15460	around	_
+88-12	15461-15464	the	_
+88-13	15465-15474	bilateral	_
+88-14	15475-15482	ventral	_
+88-15	15483-15491	striatum	_
+88-16	15491-15492	,	_
+88-17	15493-15501	amygdala	_
+88-18	15502-15505	and	_
+88-19	15506-15511	VmPFC	_
+88-20	15511-15512	,	_
+88-21	15513-15524	coordinates	_
+88-22	15525-15529	from	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+88-23	15530-15535	Chase	_
+88-24	15536-15538	et	_
+88-25	15539-15541	al	_
+88-26	15541-15542	.	_
+88-27	15543-15544	(	_
+88-28	15544-15548	2011	_
+88-29	15548-15549	)	_
+88-30	15549-15550	,	_
+88-31	15551-15554	and	_
+88-32	15555-15563	anterior	_
+88-33	15564-15573	cingulate	_
+88-34	15574-15580	cortex	_
+88-35	15580-15581	,	_
+88-36	15582-15593	coordinates	_
+88-37	15594-15598	from	_
+88-38	15599-15603	Kuhn	_
+88-39	15604-15605	&	_
+88-40	15606-15614	Gallinat	_
+88-41	15615-15616	(	_
+88-42	15616-15620	2011	_
+88-43	15620-15621	)	_
+88-44	15621-15622	,	_
+88-45	15623-15625	as	_
+88-46	15626-15635	displayed	_
+88-47	15636-15638	in	_
+88-48	15639-15642	Fig	_
+88-49	15642-15643	.	_
+88-50	15643-15644	 	_
+88-51	15644-15645	3	_
+88-52	15645-15646	.	_
+
+Text=Mean drug cue‐neutral session contrast estimates were extracted from each of the six ROIs using the Easy ROI toolbox implemented in SPM (http: / / www.sbirc.ed.ac.uk / LCL / LCL_M1. html) and entered into mixed ANOVAs in SPSS (version 20) to investigate effects of time and group on drug cue‐neutral session BOLD signal.
+89-1	15647-15651	Mean	_
+89-2	15652-15656	drug	_
+89-3	15657-15668	cue‐neutral	_
+89-4	15669-15676	session	_
+89-5	15677-15685	contrast	_
+89-6	15686-15695	estimates	_
+89-7	15696-15700	were	_
+89-8	15701-15710	extracted	_
+89-9	15711-15715	from	_
+89-10	15716-15720	each	_
+89-11	15721-15723	of	_
+89-12	15724-15727	the	_
+89-13	15728-15731	six	_
+89-14	15732-15736	ROIs	_
+89-15	15737-15742	using	_
+89-16	15743-15746	the	_
+89-17	15747-15751	Easy	_
+89-18	15752-15755	ROI	_
+89-19	15756-15763	toolbox	_
+89-20	15764-15775	implemented	_
+89-21	15776-15778	in	_
+89-22	15779-15782	SPM	_
+89-23	15783-15784	(	_
+89-24	15784-15788	http	_
+89-25	15788-15789	:	_
+89-26	15789-15790	/	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+89-27	15790-15791	/	_
+89-28	15791-15809	www.sbirc.ed.ac.uk	_
+89-29	15809-15810	/	_
+89-30	15810-15813	LCL	_
+89-31	15813-15814	/	_
+89-32	15814-15820	LCL_M1	_
+89-33	15820-15821	.	_
+89-34	15821-15825	html	_
+89-35	15825-15826	)	_
+89-36	15827-15830	and	_
+89-37	15831-15838	entered	_
+89-38	15839-15843	into	_
+89-39	15844-15849	mixed	_
+89-40	15850-15856	ANOVAs	_
+89-41	15857-15859	in	_
+89-42	15860-15864	SPSS	_
+89-43	15865-15866	(	_
+89-44	15866-15873	version	_
+89-45	15874-15876	20	_
+89-46	15876-15877	)	_
+89-47	15878-15880	to	_
+89-48	15881-15892	investigate	_
+89-49	15893-15900	effects	_
+89-50	15901-15903	of	_
+89-51	15904-15908	time	_
+89-52	15909-15912	and	_
+89-53	15913-15918	group	_
+89-54	15919-15921	on	_
+89-55	15922-15926	drug	_
+89-56	15927-15938	cue‐neutral	_
+89-57	15939-15946	session	_
+89-58	15947-15951	BOLD	_
+89-59	15952-15958	signal	_
+89-60	15958-15959	.	_
+
+Text=Investigations were carried out for the whole session (T0 to T15) and for the video time‐bins (T1 – T10) and post‐video time‐bins separately (T11 to T15) with session order included as a covariate.
+90-1	15960-15974	Investigations	_
+90-2	15975-15979	were	_
+90-3	15980-15987	carried	_
+90-4	15988-15991	out	_
+90-5	15992-15995	for	_
+90-6	15996-15999	the	_
+90-7	16000-16005	whole	_
+90-8	16006-16013	session	_
+90-9	16014-16015	(	_
+90-10	16015-16017	T0	_
+90-11	16018-16020	to	_
+90-12	16021-16024	T15	_
+90-13	16024-16025	)	_
+90-14	16026-16029	and	_
+90-15	16030-16033	for	_
+90-16	16034-16037	the	_
+90-17	16038-16043	video	_
+90-18	16044-16053	time‐bins	_
+90-19	16054-16055	(	_
+90-20	16055-16057	T1	_
+90-21	16057-16058	–	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+90-22	16058-16061	T10	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+90-23	16061-16062	)	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+90-24	16063-16066	and	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+90-25	16067-16077	post‐video	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+90-26	16078-16087	time‐bins	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+90-27	16088-16098	separately	_
+90-28	16099-16100	(	_
+90-29	16100-16103	T11	_
+90-30	16104-16106	to	_
+90-31	16107-16110	T15	_
+90-32	16110-16111	)	_
+90-33	16112-16116	with	_
+90-34	16117-16124	session	_
+90-35	16125-16130	order	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+90-36	16131-16139	included	_
+90-37	16140-16142	as	_
+90-38	16143-16144	a	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+90-39	16145-16154	covariate	_
+90-40	16154-16155	.	_
+
+Text=A Greenhouse‐Geisser correction was applied when Mauchley's assumption of sphericity was violated.
+91-1	16156-16157	A	_
+91-2	16158-16176	Greenhouse‐Geisser	_
+91-3	16177-16187	correction	_
+91-4	16188-16191	was	_
+91-5	16192-16199	applied	_
+91-6	16200-16204	when	_
+91-7	16205-16215	Mauchley's	_
+91-8	16216-16226	assumption	_
+91-9	16227-16229	of	_
+91-10	16230-16240	sphericity	_
+91-11	16241-16244	was	_
+91-12	16245-16253	violated	_
+91-13	16253-16254	.	_
+
+Text=A Bonferroni correction for the six separate ROIs results in a significance value of p   <  0.008 for this analysis.
+92-1	16255-16256	A	_
+92-2	16257-16267	Bonferroni	_
+92-3	16268-16278	correction	_
+92-4	16279-16282	for	_
+92-5	16283-16286	the	_
+92-6	16287-16290	six	_
+92-7	16291-16299	separate	_
+92-8	16300-16304	ROIs	_
+92-9	16305-16312	results	_
+92-10	16313-16315	in	_
+92-11	16316-16317	a	_
+92-12	16318-16330	significance	_
+92-13	16331-16336	value	_
+92-14	16337-16339	of	_
+92-15	16340-16341	p	_
+92-16	16341-16342	 	_
+92-17	16342-16343	<	_
+92-18	16343-16344	 	_
+92-19	16344-16349	0.008	_
+92-20	16350-16353	for	_
+92-21	16354-16358	this	_
+92-22	16359-16367	analysis	_
+92-23	16367-16368	.	_
+
+Text=However, this is a conservative approach, which may result in false negatives.
+93-1	16369-16376	However	_
+93-2	16376-16377	,	_
+93-3	16378-16382	this	_
+93-4	16383-16385	is	_
+93-5	16386-16387	a	_
+93-6	16388-16400	conservative	_
+93-7	16401-16409	approach	_
+93-8	16409-16410	,	_
+93-9	16411-16416	which	_
+93-10	16417-16420	may	_
+93-11	16421-16427	result	_
+93-12	16428-16430	in	_
+93-13	16431-16436	false	_
+93-14	16437-16446	negatives	_
+93-15	16446-16447	.	_
+
+Text=Results are therefore reported significant at p   <  0.05 with results surviving Bonferroni correction highlighted.
+94-1	16448-16455	Results	_
+94-2	16456-16459	are	_
+94-3	16460-16469	therefore	_
+94-4	16470-16478	reported	_
+94-5	16479-16490	significant	_
+94-6	16491-16493	at	_
+94-7	16494-16495	p	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+94-8	16495-16496	 	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+94-9	16496-16497	<	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+94-10	16497-16498	 	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+94-11	16498-16502	0.05	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+94-12	16503-16507	with	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+94-13	16508-16515	results	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+94-14	16516-16525	surviving	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+94-15	16526-16536	Bonferroni	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+94-16	16537-16547	correction	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+94-17	16548-16559	highlighted	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+94-18	16559-16560	.	_
+
+Text=ROI BOLD signal time course and subjective rating time course temporal correlation analysis In participants reporting a subjective rating change in response to the drug cue session, we investigated whether their subjective rating time course was temporally correlated with fMRI signal in the ROIs.
+95-1	16562-16565	ROI	_
+95-2	16566-16570	BOLD	_
+95-3	16571-16577	signal	_
+95-4	16578-16582	time	_
+95-5	16583-16589	course	_
+95-6	16590-16593	and	_
+95-7	16594-16604	subjective	_
+95-8	16605-16611	rating	_
+95-9	16612-16616	time	_
+95-10	16617-16623	course	_
+95-11	16624-16632	temporal	_
+95-12	16633-16644	correlation	_
+95-13	16645-16653	analysis	_
+95-14	16654-16656	In	_
+95-15	16657-16669	participants	_
+95-16	16670-16679	reporting	_
+95-17	16680-16681	a	_
+95-18	16682-16692	subjective	_
+95-19	16693-16699	rating	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+95-20	16700-16706	change	_
+95-21	16707-16709	in	_
+95-22	16710-16718	response	_
+95-23	16719-16721	to	_
+95-24	16722-16725	the	_
+95-25	16726-16730	drug	_
+95-26	16731-16734	cue	_
+95-27	16735-16742	session	_
+95-28	16742-16743	,	_
+95-29	16744-16746	we	_
+95-30	16747-16759	investigated	_
+95-31	16760-16767	whether	_
+95-32	16768-16773	their	_
+95-33	16774-16784	subjective	_
+95-34	16785-16791	rating	_
+95-35	16792-16796	time	_
+95-36	16797-16803	course	_
+95-37	16804-16807	was	_
+95-38	16808-16818	temporally	_
+95-39	16819-16829	correlated	_
+95-40	16830-16834	with	_
+95-41	16835-16839	fMRI	_
+95-42	16840-16846	signal	_
+95-43	16847-16849	in	_
+95-44	16850-16853	the	_
+95-45	16854-16858	ROIs	_
+95-46	16858-16859	.	_
+
+Text=Analyses were restricted to subjective ratings and ROI BOLD signal time courses, demonstrating significant effects in the ANOVAs.
+96-1	16860-16868	Analyses	_
+96-2	16869-16873	were	_
+96-3	16874-16884	restricted	_
+96-4	16885-16887	to	_
+96-5	16888-16898	subjective	_
+96-6	16899-16906	ratings	_
+96-7	16907-16910	and	_
+96-8	16911-16914	ROI	_
+96-9	16915-16919	BOLD	_
+96-10	16920-16926	signal	_
+96-11	16927-16931	time	_
+96-12	16932-16939	courses	_
+96-13	16939-16940	,	_
+96-14	16941-16954	demonstrating	_
+96-15	16955-16966	significant	_
+96-16	16967-16974	effects	_
+96-17	16975-16977	in	_
+96-18	16978-16981	the	_
+96-19	16982-16988	ANOVAs	_
+96-20	16988-16989	.	_
+
+Text=Before correlations were carried out, the pre‐video baseline subjective rating was subtracted from each video and post‐video rating for each session.
+97-1	16990-16996	Before	_
+97-2	16997-17009	correlations	_
+97-3	17010-17014	were	_
+97-4	17015-17022	carried	_
+97-5	17023-17026	out	_
+97-6	17026-17027	,	_
+97-7	17028-17031	the	_
+97-8	17032-17041	pre‐video	_
+97-9	17042-17050	baseline	_
+97-10	17051-17061	subjective	_
+97-11	17062-17068	rating	_
+97-12	17069-17072	was	_
+97-13	17073-17083	subtracted	_
+97-14	17084-17088	from	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+97-15	17089-17093	each	_
+97-16	17094-17099	video	_
+97-17	17100-17103	and	_
+97-18	17104-17114	post‐video	_
+97-19	17115-17121	rating	_
+97-20	17122-17125	for	_
+97-21	17126-17130	each	_
+97-22	17131-17138	session	_
+97-23	17138-17139	.	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+
+Text=The neutral session ratings were then subtracted from the drug cue session ratings.
+98-1	17140-17143	The	_
+98-2	17144-17151	neutral	_
+98-3	17152-17159	session	_
+98-4	17160-17167	ratings	_
+98-5	17168-17172	were	_
+98-6	17173-17177	then	_
+98-7	17178-17188	subtracted	_
+98-8	17189-17193	from	_
+98-9	17194-17197	the	_
+98-10	17198-17202	drug	_
+98-11	17203-17206	cue	_
+98-12	17207-17214	session	_
+98-13	17215-17222	ratings	_
+98-14	17222-17223	.	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+
+Text=This was to ensure both the fMRI and subjective rating data reflected drug cue session changes from baseline minus neutral session changes from baseline (fMRI data already in this format after first‐level analysis).
+99-1	17224-17228	This	_
+99-2	17229-17232	was	_
+99-3	17233-17235	to	_
+99-4	17236-17242	ensure	_
+99-5	17243-17247	both	_
+99-6	17248-17251	the	_
+99-7	17252-17256	fMRI	_
+99-8	17257-17260	and	_
+99-9	17261-17271	subjective	_
+99-10	17272-17278	rating	_
+99-11	17279-17283	data	_
+99-12	17284-17293	reflected	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+99-13	17294-17298	drug	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+99-14	17299-17302	cue	_
+99-15	17303-17310	session	_
+99-16	17311-17318	changes	_
+99-17	17319-17323	from	_
+99-18	17324-17332	baseline	_
+99-19	17333-17338	minus	_
+99-20	17339-17346	neutral	_
+99-21	17347-17354	session	_
+99-22	17355-17362	changes	_
+99-23	17363-17367	from	_
+99-24	17368-17376	baseline	_
+99-25	17377-17378	(	_
+99-26	17378-17382	fMRI	_
+99-27	17383-17387	data	_
+99-28	17388-17395	already	_
+99-29	17396-17398	in	_
+99-30	17399-17403	this	_
+99-31	17404-17410	format	_
+99-32	17411-17416	after	_
+99-33	17417-17428	first‐level	_
+99-34	17429-17437	analysis	_
+99-35	17437-17438	)	_
+99-36	17438-17439	.	_
+
+Text=Finally, the fMRI BOLD signal data were averaged over 3 ‐ minute intervals to reflect the 3 ‐ minute interval of subjective rating presentation during each session.
+100-1	17440-17447	Finally	_
+100-2	17447-17448	,	_
+100-3	17449-17452	the	_
+100-4	17453-17457	fMRI	_
+100-5	17458-17462	BOLD	_
+100-6	17463-17469	signal	_
+100-7	17470-17474	data	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+100-8	17475-17479	were	_
+100-9	17480-17488	averaged	_
+100-10	17489-17493	over	_
+100-11	17494-17495	3	_
+100-12	17495-17496	‐	_
+100-13	17496-17502	minute	_
+100-14	17503-17512	intervals	_
+100-15	17513-17515	to	_
+100-16	17516-17523	reflect	_
+100-17	17524-17527	the	_
+100-18	17528-17529	3	_
+100-19	17529-17530	‐	_
+100-20	17530-17536	minute	_
+100-21	17537-17545	interval	_
+100-22	17546-17548	of	_
+100-23	17549-17559	subjective	_
+100-24	17560-17566	rating	_
+100-25	17567-17579	presentation	_
+100-26	17580-17586	during	_
+100-27	17587-17591	each	_
+100-28	17592-17599	session	_
+100-29	17599-17600	.	_
+
+Text=Correlational analyses were carried out between each individual's subjective rating and ROI BOLD signal time courses using Pearson's product moment correlation coefficient.
+101-1	17601-17614	Correlational	_
+101-2	17615-17623	analyses	_
+101-3	17624-17628	were	_
+101-4	17629-17636	carried	_
+101-5	17637-17640	out	_
+101-6	17641-17648	between	_
+101-7	17649-17653	each	_
+101-8	17654-17666	individual's	_
+101-9	17667-17677	subjective	_
+101-10	17678-17684	rating	_
+101-11	17685-17688	and	_
+101-12	17689-17692	ROI	_
+101-13	17693-17697	BOLD	_
+101-14	17698-17704	signal	_
+101-15	17705-17709	time	_
+101-16	17710-17717	courses	_
+101-17	17718-17723	using	_
+101-18	17724-17733	Pearson's	_
+101-19	17734-17741	product	_
+101-20	17742-17748	moment	_
+101-21	17749-17760	correlation	_
+101-22	17761-17772	coefficient	_
+101-23	17772-17773	.	_
+
+Text=Resultant correlation coefficients were Fisher's z‐transformed and entered into one‐sample t‐tests to determine group level significance.
+102-1	17774-17783	Resultant	_
+102-2	17784-17795	correlation	_
+102-3	17796-17808	coefficients	_
+102-4	17809-17813	were	_
+102-5	17814-17822	Fisher's	_
+102-6	17823-17836	z‐transformed	_
+102-7	17837-17840	and	_
+102-8	17841-17848	entered	_
+102-9	17849-17853	into	_
+102-10	17854-17864	one‐sample	_
+102-11	17865-17872	t‐tests	_
+102-12	17873-17875	to	_
+102-13	17876-17885	determine	_
+102-14	17886-17891	group	_
+102-15	17892-17897	level	_
+102-16	17898-17910	significance	_
+102-17	17910-17911	.	_
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+

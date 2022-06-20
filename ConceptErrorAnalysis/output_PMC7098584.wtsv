@@ -1,0 +1,3223 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.ConceptLayer|identifier
+
+
+#Human Annotation
+Text=Alcohol effects on globus pallidus connectivity: Role of impulsivity and binge drinking Despite the harm caused by binge drinking, the neural mechanisms leading to risky and disinhibited intoxication-related behaviors are not well understood.
+1-1	0-7	Alcohol	_
+1-2	8-15	effects	_
+1-3	16-18	on	_
+1-4	19-25	globus	_
+1-5	26-34	pallidus	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-6	35-47	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-7	47-48	:	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-8	49-53	Role	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-9	54-56	of	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-10	57-68	impulsivity	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-11	69-72	and	_
+1-12	73-78	binge	_
+1-13	79-87	drinking	_
+1-14	88-95	Despite	_
+1-15	96-99	the	_
+1-16	100-104	harm	_
+1-17	105-111	caused	_
+1-18	112-114	by	_
+1-19	115-120	binge	_
+1-20	121-129	drinking	_
+1-21	129-130	,	_
+1-22	131-134	the	_
+1-23	135-141	neural	_
+1-24	142-152	mechanisms	_
+1-25	153-160	leading	_
+1-26	161-163	to	_
+1-27	164-169	risky	_
+1-28	170-173	and	_
+1-29	174-186	disinhibited	_
+1-30	187-207	intoxication-related	_
+1-31	208-217	behaviors	_
+1-32	218-221	are	_
+1-33	222-225	not	_
+1-34	226-230	well	_
+1-35	231-241	understood	_
+1-36	241-242	.	_
+
+Text=Evidence suggests that the globus pallidus externus (GPe), a substructure within the basal ganglia, participates in inhibitory control processes, as examined in stop-signaling tasks.
+2-1	243-251	Evidence	_
+2-2	252-260	suggests	_
+2-3	261-265	that	_
+2-4	266-269	the	_
+2-5	270-276	globus	_
+2-6	277-285	pallidus	_
+2-7	286-294	externus	_
+2-8	295-296	(	_
+2-9	296-299	GPe	_
+2-10	299-300	)	_
+2-11	300-301	,	_
+2-12	302-303	a	_
+2-13	304-316	substructure	_
+2-14	317-323	within	_
+2-15	324-327	the	_
+2-16	328-333	basal	_
+2-17	334-341	ganglia	_
+2-18	341-342	,	_
+2-19	343-355	participates	_
+2-20	356-358	in	_
+2-21	359-369	inhibitory	_
+2-22	370-377	control	_
+2-23	378-387	processes	_
+2-24	387-388	,	_
+2-25	389-391	as	_
+2-26	392-400	examined	_
+2-27	401-403	in	_
+2-28	404-418	stop-signaling	_
+2-29	419-424	tasks	_
+2-30	424-425	.	_
+
+Text=In fact, studies in rodents have revealed that alcohol can change GPe activity by decreasing neuronal firing rates, suggesting that the GPe may have a central role in explaining impulsive behaviors and failures of inhibition that occur during binge drinking.
+3-1	426-428	In	_
+3-2	429-433	fact	_
+3-3	433-434	,	_
+3-4	435-442	studies	_
+3-5	443-445	in	_
+3-6	446-453	rodents	_
+3-7	454-458	have	_
+3-8	459-467	revealed	_
+3-9	468-472	that	_
+3-10	473-480	alcohol	_
+3-11	481-484	can	_
+3-12	485-491	change	_
+3-13	492-495	GPe	_
+3-14	496-504	activity	_
+3-15	505-507	by	_
+3-16	508-518	decreasing	_
+3-17	519-527	neuronal	_
+3-18	528-534	firing	_
+3-19	535-540	rates	_
+3-20	540-541	,	_
+3-21	542-552	suggesting	_
+3-22	553-557	that	_
+3-23	558-561	the	_
+3-24	562-565	GPe	_
+3-25	566-569	may	_
+3-26	570-574	have	_
+3-27	575-576	a	_
+3-28	577-584	central	_
+3-29	585-589	role	_
+3-30	590-592	in	_
+3-31	593-603	explaining	_
+3-32	604-613	impulsive	_
+3-33	614-623	behaviors	_
+3-34	624-627	and	_
+3-35	628-636	failures	_
+3-36	637-639	of	_
+3-37	640-650	inhibition	_
+3-38	651-655	that	_
+3-39	656-661	occur	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+3-40	662-668	during	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+3-41	669-674	binge	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+3-42	675-683	drinking	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+3-43	683-684	.	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+
+Text=In this study, twenty-five healthy volunteers underwent intravenous alcohol infusion to achieve a blood alcohol level of 0.08 g / dl, which is equivalent to a binge drinking episode.
+4-1	685-687	In	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+4-2	688-692	this	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+4-3	693-698	study	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+4-4	698-699	,	_
+4-5	700-711	twenty-five	_
+4-6	712-719	healthy	_
+4-7	720-730	volunteers	_
+4-8	731-740	underwent	_
+4-9	741-752	intravenous	_
+4-10	753-760	alcohol	_
+4-11	761-769	infusion	_
+4-12	770-772	to	_
+4-13	773-780	achieve	_
+4-14	781-782	a	_
+4-15	783-788	blood	_
+4-16	789-796	alcohol	_
+4-17	797-802	level	_
+4-18	803-805	of	_
+4-19	806-810	0.08	_
+4-20	811-812	g	_
+4-21	812-813	/	_
+4-22	813-815	dl	_
+4-23	815-816	,	_
+4-24	817-822	which	_
+4-25	823-825	is	_
+4-26	826-836	equivalent	_
+4-27	837-839	to	_
+4-28	840-841	a	_
+4-29	842-847	binge	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+4-30	848-856	drinking	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+4-31	857-864	episode	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+4-32	864-865	.	_
+
+Text=A resting state functional magnetic resonance imaging scan was collected prior to the infusion and at binge-level exposure.
+5-1	866-867	A	_
+5-2	868-875	resting	_
+5-3	876-881	state	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+5-4	882-892	functional	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+5-5	893-901	magnetic	_
+5-6	902-911	resonance	_
+5-7	912-919	imaging	_
+5-8	920-924	scan	_
+5-9	925-928	was	_
+5-10	929-938	collected	_
+5-11	939-944	prior	_
+5-12	945-947	to	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-13	948-951	the	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-14	952-960	infusion	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-15	961-964	and	_
+5-16	965-967	at	_
+5-17	968-979	binge-level	_
+5-18	980-988	exposure	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+5-19	988-989	.	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+
+Text=Functional connectivity analysis was used to investigate the association between alcohol-induced changes in GPe connectivity, drinking behaviors, and impulsivity traits.
+6-1	990-1000	Functional	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+6-2	1001-1013	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+6-3	1014-1022	analysis	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+6-4	1023-1026	was	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+6-5	1027-1031	used	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+6-6	1032-1034	to	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+6-7	1035-1046	investigate	_
+6-8	1047-1050	the	_
+6-9	1051-1062	association	_
+6-10	1063-1070	between	_
+6-11	1071-1086	alcohol-induced	_
+6-12	1087-1094	changes	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+6-13	1095-1097	in	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+6-14	1098-1101	GPe	_
+6-15	1102-1114	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+6-16	1114-1115	,	_
+6-17	1116-1124	drinking	_
+6-18	1125-1134	behaviors	_
+6-19	1134-1135	,	_
+6-20	1136-1139	and	_
+6-21	1140-1151	impulsivity	_
+6-22	1152-1158	traits	_
+6-23	1158-1159	.	_
+
+Text=We found that individuals with greater number of drinks or heavy drinking days in the recent past had greater alcohol-induced deficits in GPe connectivity, particularly to the striatum.
+7-1	1160-1162	We	_
+7-2	1163-1168	found	_
+7-3	1169-1173	that	_
+7-4	1174-1185	individuals	_
+7-5	1186-1190	with	_
+7-6	1191-1198	greater	_
+7-7	1199-1205	number	_
+7-8	1206-1208	of	_
+7-9	1209-1215	drinks	_
+7-10	1216-1218	or	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-11	1219-1224	heavy	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-12	1225-1233	drinking	_
+7-13	1234-1238	days	_
+7-14	1239-1241	in	_
+7-15	1242-1245	the	_
+7-16	1246-1252	recent	_
+7-17	1253-1257	past	_
+7-18	1258-1261	had	_
+7-19	1262-1269	greater	_
+7-20	1270-1285	alcohol-induced	_
+7-21	1286-1294	deficits	_
+7-22	1295-1297	in	_
+7-23	1298-1301	GPe	_
+7-24	1302-1314	connectivity	_
+7-25	1314-1315	,	_
+7-26	1316-1328	particularly	_
+7-27	1329-1331	to	_
+7-28	1332-1335	the	_
+7-29	1336-1344	striatum	_
+7-30	1344-1345	.	_
+
+Text=Our data also indicated an association between impulsivity and alcohol-induced deficits in GPe—frontal / precentral connectivity.
+8-1	1346-1349	Our	_
+8-2	1350-1354	data	_
+8-3	1355-1359	also	_
+8-4	1360-1369	indicated	_
+8-5	1370-1372	an	_
+8-6	1373-1384	association	_
+8-7	1385-1392	between	_
+8-8	1393-1404	impulsivity	_
+8-9	1405-1408	and	_
+8-10	1409-1424	alcohol-induced	_
+8-11	1425-1433	deficits	_
+8-12	1434-1436	in	_
+8-13	1437-1448	GPe—frontal	_
+8-14	1448-1449	/	_
+8-15	1449-1459	precentral	_
+8-16	1460-1472	connectivity	_
+8-17	1472-1473	.	_
+
+Text=Moreover, alcohol induced changes in GPe-amygdala circuitry suggested greater vulnerabilities to stress-related drinking in some individuals.
+9-1	1474-1482	Moreover	_
+9-2	1482-1483	,	_
+9-3	1484-1491	alcohol	_
+9-4	1492-1499	induced	_
+9-5	1500-1507	changes	_
+9-6	1508-1510	in	_
+9-7	1511-1523	GPe-amygdala	_
+9-8	1524-1533	circuitry	_
+9-9	1534-1543	suggested	_
+9-10	1544-1551	greater	_
+9-11	1552-1567	vulnerabilities	_
+9-12	1568-1570	to	_
+9-13	1571-1585	stress-related	_
+9-14	1586-1594	drinking	_
+9-15	1595-1597	in	_
+9-16	1598-1602	some	_
+9-17	1603-1614	individuals	_
+9-18	1614-1615	.	_
+
+Text=Taken together, these findings suggest that alcohol may interact with impulsive personality traits and drinking patterns to drive alterations in GPe circuitry associated with behavioral inhibition, possibly indicating a neural mechanism by which binge drinking could lead to impulsive behaviors.
+10-1	1616-1621	Taken	_
+10-2	1622-1630	together	_
+10-3	1630-1631	,	_
+10-4	1632-1637	these	_
+10-5	1638-1646	findings	_
+10-6	1647-1654	suggest	_
+10-7	1655-1659	that	_
+10-8	1660-1667	alcohol	_
+10-9	1668-1671	may	_
+10-10	1672-1680	interact	_
+10-11	1681-1685	with	_
+10-12	1686-1695	impulsive	_
+10-13	1696-1707	personality	_
+10-14	1708-1714	traits	_
+10-15	1715-1718	and	_
+10-16	1719-1727	drinking	_
+10-17	1728-1736	patterns	_
+10-18	1737-1739	to	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+10-19	1740-1745	drive	_
+10-20	1746-1757	alterations	_
+10-21	1758-1760	in	_
+10-22	1761-1764	GPe	_
+10-23	1765-1774	circuitry	_
+10-24	1775-1785	associated	_
+10-25	1786-1790	with	_
+10-26	1791-1801	behavioral	_
+10-27	1802-1812	inhibition	_
+10-28	1812-1813	,	_
+10-29	1814-1822	possibly	_
+10-30	1823-1833	indicating	_
+10-31	1834-1835	a	_
+10-32	1836-1842	neural	_
+10-33	1843-1852	mechanism	_
+10-34	1853-1855	by	_
+10-35	1856-1861	which	_
+10-36	1862-1867	binge	_
+10-37	1868-1876	drinking	_
+10-38	1877-1882	could	_
+10-39	1883-1887	lead	_
+10-40	1888-1890	to	_
+10-41	1891-1900	impulsive	_
+10-42	1901-1910	behaviors	_
+10-43	1910-1911	.	_
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=Methods This study was approved by the NIH Addictions Institutional Review Board under 12 - AA - 0032.
+30-1	5405-5412	Methods	_
+30-2	5413-5417	This	_
+30-3	5418-5423	study	_
+30-4	5424-5427	was	_
+30-5	5428-5436	approved	_
+30-6	5437-5439	by	_
+30-7	5440-5443	the	_
+30-8	5444-5447	NIH	_
+30-9	5448-5458	Addictions	_
+30-10	5459-5472	Institutional	_
+30-11	5473-5479	Review	_
+30-12	5480-5485	Board	_
+30-13	5486-5491	under	_
+30-14	5492-5494	12	_
+30-15	5494-5495	-	_
+30-16	5495-5497	AA	_
+30-17	5497-5498	-	_
+30-18	5498-5502	0032	_
+30-19	5502-5503	.	_
+
+Text=All subjects provided written informed consent prior to their participation in the study.
+31-1	5504-5507	All	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+31-2	5508-5516	subjects	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+31-3	5517-5525	provided	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+31-4	5526-5533	written	_
+31-5	5534-5542	informed	_
+31-6	5543-5550	consent	_
+31-7	5551-5556	prior	_
+31-8	5557-5559	to	_
+31-9	5560-5565	their	_
+31-10	5566-5579	participation	_
+31-11	5580-5582	in	_
+31-12	5583-5586	the	_
+31-13	5587-5592	study	_
+31-14	5592-5593	.	_
+
+Text=Participants Twenty-five healthy (13 males, 12 females; mean age: 28.85 years), light social drinkers were recruited by local advertisement, according to approved National Institutes of Health Institutional Review Board procedures.
+32-1	5594-5606	Participants	_
+32-2	5607-5618	Twenty-five	_
+32-3	5619-5626	healthy	_
+32-4	5627-5628	(	_
+32-5	5628-5630	13	_
+32-6	5631-5636	males	_
+32-7	5636-5637	,	_
+32-8	5638-5640	12	_
+32-9	5641-5648	females	_
+32-10	5648-5649	;	_
+32-11	5650-5654	mean	_
+32-12	5655-5658	age	_
+32-13	5658-5659	:	_
+32-14	5660-5665	28.85	_
+32-15	5666-5671	years	_
+32-16	5671-5672	)	_
+32-17	5672-5673	,	_
+32-18	5674-5679	light	_
+32-19	5680-5686	social	_
+32-20	5687-5695	drinkers	_
+32-21	5696-5700	were	_
+32-22	5701-5710	recruited	_
+32-23	5711-5713	by	_
+32-24	5714-5719	local	_
+32-25	5720-5733	advertisement	_
+32-26	5733-5734	,	_
+32-27	5735-5744	according	_
+32-28	5745-5747	to	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+32-29	5748-5756	approved	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+32-30	5757-5765	National	_
+32-31	5766-5776	Institutes	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+32-32	5777-5779	of	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+32-33	5780-5786	Health	_
+32-34	5787-5800	Institutional	_
+32-35	5801-5807	Review	_
+32-36	5808-5813	Board	_
+32-37	5814-5824	procedures	_
+32-38	5824-5825	.	_
+
+Text=The demographic data of participants is summarized in Table 1.
+33-1	5826-5829	The	_
+33-2	5830-5841	demographic	_
+33-3	5842-5846	data	_
+33-4	5847-5849	of	_
+33-5	5850-5862	participants	_
+33-6	5863-5865	is	_
+33-7	5866-5876	summarized	_
+33-8	5877-5879	in	_
+33-9	5880-5885	Table	_
+33-10	5886-5887	1	_
+33-11	5887-5888	.	_
+
+Text=After obtaining written informed consent, all participants underwent a comprehensive medical screen, including blood work, urinalysis, medical history, physical exam, and a Structured Clinical Interview for the DSM Axis-I Disorders (SCID-IV).
+34-1	5889-5894	After	_
+34-2	5895-5904	obtaining	_
+34-3	5905-5912	written	_
+34-4	5913-5921	informed	_
+34-5	5922-5929	consent	_
+34-6	5929-5930	,	_
+34-7	5931-5934	all	_
+34-8	5935-5947	participants	_
+34-9	5948-5957	underwent	_
+34-10	5958-5959	a	_
+34-11	5960-5973	comprehensive	_
+34-12	5974-5981	medical	_
+34-13	5982-5988	screen	_
+34-14	5988-5989	,	_
+34-15	5990-5999	including	_
+34-16	6000-6005	blood	_
+34-17	6006-6010	work	_
+34-18	6010-6011	,	_
+34-19	6012-6022	urinalysis	_
+34-20	6022-6023	,	_
+34-21	6024-6031	medical	_
+34-22	6032-6039	history	_
+34-23	6039-6040	,	_
+34-24	6041-6049	physical	_
+34-25	6050-6054	exam	_
+34-26	6054-6055	,	_
+34-27	6056-6059	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
+34-28	6060-6061	a	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
+34-29	6062-6072	Structured	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
+34-30	6073-6081	Clinical	_
+34-31	6082-6091	Interview	_
+34-32	6092-6095	for	_
+34-33	6096-6099	the	_
+34-34	6100-6103	DSM	_
+34-35	6104-6110	Axis-I	_
+34-36	6111-6120	Disorders	_
+34-37	6121-6122	(	_
+34-38	6122-6129	SCID-IV	_
+34-39	6129-6130	)	_
+34-40	6130-6131	.	_
+
+Text=Criteria for inclusion in this study were: healthy, 21 – 45 years old, consumption of 1 to 10 drinks per week for females and 1 to 14 drinks per week for males.
+35-1	6132-6140	Criteria	_
+35-2	6141-6144	for	_
+35-3	6145-6154	inclusion	_
+35-4	6155-6157	in	_
+35-5	6158-6162	this	_
+35-6	6163-6168	study	_
+35-7	6169-6173	were	_
+35-8	6173-6174	:	_
+35-9	6175-6182	healthy	_
+35-10	6182-6183	,	_
+35-11	6184-6186	21	_
+35-12	6186-6187	–	_
+35-13	6187-6189	45	_
+35-14	6190-6195	years	_
+35-15	6196-6199	old	_
+35-16	6199-6200	,	_
+35-17	6201-6212	consumption	_
+35-18	6213-6215	of	_
+35-19	6216-6217	1	_
+35-20	6218-6220	to	_
+35-21	6221-6223	10	_
+35-22	6224-6230	drinks	_
+35-23	6231-6234	per	_
+35-24	6235-6239	week	_
+35-25	6240-6243	for	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+35-26	6244-6251	females	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+35-27	6252-6255	and	_
+35-28	6256-6257	1	_
+35-29	6258-6260	to	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+35-30	6261-6263	14	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+35-31	6264-6270	drinks	_
+35-32	6271-6274	per	_
+35-33	6275-6279	week	_
+35-34	6280-6283	for	_
+35-35	6284-6289	males	_
+35-36	6289-6290	.	_
+
+Text=Subjects also had to have consumed at least two standard drinks of alcohol within one hour on at least one occasion in their lifetime.
+36-1	6291-6299	Subjects	_
+36-2	6300-6304	also	_
+36-3	6305-6308	had	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+36-4	6309-6311	to	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+36-5	6312-6316	have	_
+36-6	6317-6325	consumed	_
+36-7	6326-6328	at	_
+36-8	6329-6334	least	_
+36-9	6335-6338	two	_
+36-10	6339-6347	standard	_
+36-11	6348-6354	drinks	_
+36-12	6355-6357	of	_
+36-13	6358-6365	alcohol	_
+36-14	6366-6372	within	_
+36-15	6373-6376	one	_
+36-16	6377-6381	hour	_
+36-17	6382-6384	on	_
+36-18	6385-6387	at	_
+36-19	6388-6393	least	_
+36-20	6394-6397	one	_
+36-21	6398-6406	occasion	_
+36-22	6407-6409	in	_
+36-23	6410-6415	their	_
+36-24	6416-6424	lifetime	_
+36-25	6424-6425	.	_
+
+Text=Criteria for exclusion included: abnormal blood or urine lab test values or findings from the medical screen, DSM-IV criteria for alcohol or other substance dependence (excluding nicotine) at any time; current or past major psychiatric disorder (DSM-IV Axis I), head injury requiring hospitalization, Body Mass Index (BMI) value over 30, inability to stop taking any medication or drugs 3 days prior to study days, and MRI contraindications.
+37-1	6426-6434	Criteria	_
+37-2	6435-6438	for	_
+37-3	6439-6448	exclusion	_
+37-4	6449-6457	included	_
+37-5	6457-6458	:	_
+37-6	6459-6467	abnormal	_
+37-7	6468-6473	blood	_
+37-8	6474-6476	or	_
+37-9	6477-6482	urine	_
+37-10	6483-6486	lab	_
+37-11	6487-6491	test	_
+37-12	6492-6498	values	_
+37-13	6499-6501	or	_
+37-14	6502-6510	findings	_
+37-15	6511-6515	from	_
+37-16	6516-6519	the	_
+37-17	6520-6527	medical	_
+37-18	6528-6534	screen	_
+37-19	6534-6535	,	_
+37-20	6536-6542	DSM-IV	_
+37-21	6543-6551	criteria	_
+37-22	6552-6555	for	_
+37-23	6556-6563	alcohol	_
+37-24	6564-6566	or	_
+37-25	6567-6572	other	_
+37-26	6573-6582	substance	_
+37-27	6583-6593	dependence	_
+37-28	6594-6595	(	_
+37-29	6595-6604	excluding	_
+37-30	6605-6613	nicotine	_
+37-31	6613-6614	)	_
+37-32	6615-6617	at	_
+37-33	6618-6621	any	_
+37-34	6622-6626	time	_
+37-35	6626-6627	;	_
+37-36	6628-6635	current	_
+37-37	6636-6638	or	_
+37-38	6639-6643	past	_
+37-39	6644-6649	major	_
+37-40	6650-6661	psychiatric	_
+37-41	6662-6670	disorder	_
+37-42	6671-6672	(	_
+37-43	6672-6678	DSM-IV	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+37-44	6679-6683	Axis	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+37-45	6684-6685	I	_
+37-46	6685-6686	)	_
+37-47	6686-6687	,	_
+37-48	6688-6692	head	_
+37-49	6693-6699	injury	_
+37-50	6700-6709	requiring	_
+37-51	6710-6725	hospitalization	_
+37-52	6725-6726	,	_
+37-53	6727-6731	Body	_
+37-54	6732-6736	Mass	_
+37-55	6737-6742	Index	_
+37-56	6743-6744	(	_
+37-57	6744-6747	BMI	_
+37-58	6747-6748	)	_
+37-59	6749-6754	value	_
+37-60	6755-6759	over	_
+37-61	6760-6762	30	_
+37-62	6762-6763	,	_
+37-63	6764-6773	inability	_
+37-64	6774-6776	to	_
+37-65	6777-6781	stop	_
+37-66	6782-6788	taking	_
+37-67	6789-6792	any	_
+37-68	6793-6803	medication	_
+37-69	6804-6806	or	_
+37-70	6807-6812	drugs	_
+37-71	6813-6814	3	_
+37-72	6815-6819	days	_
+37-73	6820-6825	prior	_
+37-74	6826-6828	to	_
+37-75	6829-6834	study	_
+37-76	6835-6839	days	_
+37-77	6839-6840	,	_
+37-78	6841-6844	and	_
+37-79	6845-6848	MRI	_
+37-80	6849-6866	contraindications	_
+37-81	6866-6867	.	_
+
+Text=Also, non-drinkers were excluded from the study due to ethical concerns related to alcohol administration.
+38-1	6868-6872	Also	_
+38-2	6872-6873	,	_
+38-3	6874-6886	non-drinkers	_
+38-4	6887-6891	were	_
+38-5	6892-6900	excluded	_
+38-6	6901-6905	from	_
+38-7	6906-6909	the	_
+38-8	6910-6915	study	_
+38-9	6916-6919	due	_
+38-10	6920-6922	to	_
+38-11	6923-6930	ethical	_
+38-12	6931-6939	concerns	_
+38-13	6940-6947	related	_
+38-14	6948-6950	to	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+38-15	6951-6958	alcohol	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+38-16	6959-6973	administration	_
+38-17	6973-6974	.	_
+
+Text=Demographic, drinking, and impulsivity characteristics.
+39-1	6975-6986	Demographic	_
+39-2	6986-6987	,	_
+39-3	6988-6996	drinking	_
+39-4	6996-6997	,	_
+39-5	6998-7001	and	_
+39-6	7002-7013	impulsivity	_
+39-7	7014-7029	characteristics	_
+39-8	7029-7030	.	_
+
+Text=Variable Count Total n 25 Gender (Male / Female) 13 / 12 Smokers 1 Mean SD Age 28.85 7.40 Years Of Education 15.88 1.88 BIS: Total 54.76 9.62 Attentional Impulsiveness 12.96 2.99 Motor Impulsiveness 20.92 3.32 Nonplanning Impulsiveness 19.72 4.21 UPPS-P: Positive Urgency 1.36 0.31 Negative Urgency 1.66 0.44 Premeditation 1.78 0.42 Perseverence 1.53 0.39 Sensation Seeking 2.85 0.70 Delay Discounting Rate (K) 0.02 0.06 TLFB—Drinks Per Thirty Days 20.19 13.69 TLFB—Heavy Drinking Days 19.08 10.96 Abbreviations as follow: BIS - Barratt Impulsiveness Scale; TLFB - Alcohol Timeline Followback.
+40-1	7031-7039	Variable	_
+40-2	7040-7045	Count	_
+40-3	7048-7053	Total	_
+40-4	7054-7055	n	_
+40-5	7056-7058	25	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+40-6	7061-7067	Gender	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+40-7	7068-7069	(	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+40-8	7069-7073	Male	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+40-9	7074-7075	/	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+40-10	7076-7082	Female	_
+40-11	7082-7083	)	_
+40-12	7084-7086	13	_
+40-13	7087-7088	/	_
+40-14	7089-7091	12	_
+40-15	7094-7101	Smokers	_
+40-16	7102-7103	1	_
+40-17	7107-7111	Mean	_
+40-18	7112-7114	SD	_
+40-19	7117-7120	Age	_
+40-20	7121-7126	28.85	_
+40-21	7127-7131	7.40	_
+40-22	7134-7139	Years	_
+40-23	7140-7142	Of	_
+40-24	7143-7152	Education	_
+40-25	7153-7158	15.88	_
+40-26	7159-7163	1.88	_
+40-27	7166-7169	BIS	_
+40-28	7169-7170	:	_
+40-29	7171-7176	Total	_
+40-30	7177-7182	54.76	_
+40-31	7183-7187	9.62	_
+40-32	7190-7201	Attentional	_
+40-33	7202-7215	Impulsiveness	_
+40-34	7216-7221	12.96	_
+40-35	7222-7226	2.99	_
+40-36	7229-7234	Motor	_
+40-37	7235-7248	Impulsiveness	_
+40-38	7249-7254	20.92	_
+40-39	7255-7259	3.32	_
+40-40	7262-7273	Nonplanning	_
+40-41	7274-7287	Impulsiveness	_
+40-42	7288-7293	19.72	_
+40-43	7294-7298	4.21	_
+40-44	7301-7307	UPPS-P	_
+40-45	7307-7308	:	_
+40-46	7309-7317	Positive	_
+40-47	7318-7325	Urgency	_
+40-48	7326-7330	1.36	_
+40-49	7331-7335	0.31	_
+40-50	7338-7346	Negative	_
+40-51	7347-7354	Urgency	_
+40-52	7355-7359	1.66	_
+40-53	7360-7364	0.44	_
+40-54	7367-7380	Premeditation	_
+40-55	7381-7385	1.78	_
+40-56	7386-7390	0.42	_
+40-57	7393-7405	Perseverence	_
+40-58	7406-7410	1.53	_
+40-59	7411-7415	0.39	_
+40-60	7418-7427	Sensation	_
+40-61	7428-7435	Seeking	_
+40-62	7436-7440	2.85	_
+40-63	7441-7445	0.70	_
+40-64	7448-7453	Delay	_
+40-65	7454-7465	Discounting	_
+40-66	7466-7470	Rate	_
+40-67	7471-7472	(	_
+40-68	7472-7473	K	_
+40-69	7473-7474	)	_
+40-70	7475-7479	0.02	_
+40-71	7480-7484	0.06	_
+40-72	7487-7498	TLFB—Drinks	_
+40-73	7499-7502	Per	_
+40-74	7503-7509	Thirty	_
+40-75	7510-7514	Days	_
+40-76	7515-7520	20.19	_
+40-77	7521-7526	13.69	_
+40-78	7529-7539	TLFB—Heavy	_
+40-79	7540-7548	Drinking	_
+40-80	7549-7553	Days	_
+40-81	7554-7559	19.08	_
+40-82	7560-7565	10.96	_
+40-83	7569-7582	Abbreviations	_
+40-84	7583-7585	as	_
+40-85	7586-7592	follow	_
+40-86	7592-7593	:	_
+40-87	7594-7597	BIS	_
+40-88	7597-7598	-	_
+40-89	7599-7606	Barratt	_
+40-90	7607-7620	Impulsiveness	_
+40-91	7621-7626	Scale	_
+40-92	7626-7627	;	_
+40-93	7628-7632	TLFB	_
+40-94	7632-7633	-	_
+40-95	7634-7641	Alcohol	_
+40-96	7642-7650	Timeline	_
+40-97	7651-7661	Followback	_
+40-98	7661-7662	.	_
+
+Text=Measures Alcohol drinking measures The amount of daily alcohol consumption over the last 90 days was measured using the Alcohol Timeline-Followback (TLFB) calendar—a drinking assessment method with good psychometric characteristics for estimating retrospective daily drinking patterns.
+41-1	7663-7671	Measures	_
+41-2	7672-7679	Alcohol	_
+41-3	7680-7688	drinking	_
+41-4	7689-7697	measures	_
+41-5	7698-7701	The	_
+41-6	7702-7708	amount	_
+41-7	7709-7711	of	_
+41-8	7712-7717	daily	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+41-9	7718-7725	alcohol	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+41-10	7726-7737	consumption	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+41-11	7738-7742	over	_
+41-12	7743-7746	the	_
+41-13	7747-7751	last	_
+41-14	7752-7754	90	_
+41-15	7755-7759	days	_
+41-16	7760-7763	was	_
+41-17	7764-7772	measured	_
+41-18	7773-7778	using	_
+41-19	7779-7782	the	_
+41-20	7783-7790	Alcohol	_
+41-21	7791-7810	Timeline-Followback	_
+41-22	7811-7812	(	_
+41-23	7812-7816	TLFB	_
+41-24	7816-7817	)	_
+41-25	7818-7828	calendar—a	_
+41-26	7829-7837	drinking	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+41-27	7838-7848	assessment	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+41-28	7849-7855	method	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+41-29	7856-7860	with	_
+41-30	7861-7865	good	_
+41-31	7866-7878	psychometric	_
+41-32	7879-7894	characteristics	_
+41-33	7895-7898	for	_
+41-34	7899-7909	estimating	_
+41-35	7910-7923	retrospective	_
+41-36	7924-7929	daily	_
+41-37	7930-7938	drinking	_
+41-38	7939-7947	patterns	_
+41-39	7947-7948	.	_
+
+Text=The number of heavy drinking days in the last 90 days was calculated from the TLFB; a heavy drinking day is defined as 4 or more drinks per day for women and 5 or more drinks per day for men.
+42-1	7949-7952	The	_
+42-2	7953-7959	number	_
+42-3	7960-7962	of	_
+42-4	7963-7968	heavy	_
+42-5	7969-7977	drinking	_
+42-6	7978-7982	days	_
+42-7	7983-7985	in	_
+42-8	7986-7989	the	_
+42-9	7990-7994	last	_
+42-10	7995-7997	90	_
+42-11	7998-8002	days	_
+42-12	8003-8006	was	_
+42-13	8007-8017	calculated	_
+42-14	8018-8022	from	_
+42-15	8023-8026	the	_
+42-16	8027-8031	TLFB	_
+42-17	8031-8032	;	_
+42-18	8033-8034	a	_
+42-19	8035-8040	heavy	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+42-20	8041-8049	drinking	_
+42-21	8050-8053	day	_
+42-22	8054-8056	is	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+42-23	8057-8064	defined	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+42-24	8065-8067	as	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+42-25	8068-8069	4	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+42-26	8070-8072	or	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+42-27	8073-8077	more	_
+42-28	8078-8084	drinks	_
+42-29	8085-8088	per	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+42-30	8089-8092	day	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+42-31	8093-8096	for	_
+42-32	8097-8102	women	_
+42-33	8103-8106	and	_
+42-34	8107-8108	5	_
+42-35	8109-8111	or	_
+42-36	8112-8116	more	_
+42-37	8117-8123	drinks	_
+42-38	8124-8127	per	_
+42-39	8128-8131	day	_
+42-40	8132-8135	for	_
+42-41	8136-8139	men	_
+42-42	8139-8140	.	_
+
+Text=We used this as a measure for binge drinking.
+43-1	8141-8143	We	_
+43-2	8144-8148	used	_
+43-3	8149-8153	this	_
+43-4	8154-8156	as	_
+43-5	8157-8158	a	_
+43-6	8159-8166	measure	_
+43-7	8167-8170	for	_
+43-8	8171-8176	binge	_
+43-9	8177-8185	drinking	_
+43-10	8185-8186	.	_
+
+Text=Total drinks in the past 30 days was also calculated from the TLFB.
+44-1	8187-8192	Total	_
+44-2	8193-8199	drinks	_
+44-3	8200-8202	in	_
+44-4	8203-8206	the	_
+44-5	8207-8211	past	_
+44-6	8212-8214	30	_
+44-7	8215-8219	days	_
+44-8	8220-8223	was	_
+44-9	8224-8228	also	_
+44-10	8229-8239	calculated	_
+44-11	8240-8244	from	_
+44-12	8245-8248	the	_
+44-13	8249-8253	TLFB	_
+44-14	8253-8254	.	_
+
+Text=Past 30 - day drinking was used rather than 90 - day drinking given that we were interested in recent drinking, and that recent reports of drinking may be more reliable.
+45-1	8255-8259	Past	_
+45-2	8260-8262	30	_
+45-3	8262-8263	-	_
+45-4	8263-8266	day	_
+45-5	8267-8275	drinking	_
+45-6	8276-8279	was	_
+45-7	8280-8284	used	_
+45-8	8285-8291	rather	_
+45-9	8292-8296	than	_
+45-10	8297-8299	90	_
+45-11	8299-8300	-	_
+45-12	8300-8303	day	_
+45-13	8304-8312	drinking	_
+45-14	8313-8318	given	_
+45-15	8319-8323	that	_
+45-16	8324-8326	we	_
+45-17	8327-8331	were	_
+45-18	8332-8342	interested	_
+45-19	8343-8345	in	_
+45-20	8346-8352	recent	_
+45-21	8353-8361	drinking	_
+45-22	8361-8362	,	_
+45-23	8363-8366	and	_
+45-24	8367-8371	that	_
+45-25	8372-8378	recent	_
+45-26	8379-8386	reports	_
+45-27	8387-8389	of	_
+45-28	8390-8398	drinking	_
+45-29	8399-8402	may	_
+45-30	8403-8405	be	_
+45-31	8406-8410	more	_
+45-32	8411-8419	reliable	_
+45-33	8419-8420	.	_
+
+Text=Impulsivity measures Impulsive behavioral traits were measured using the Barratt Impulsiveness Scale (BIS - 11) and the UPPS-P Impulsive Behavior Scale, two of the most widely-used self-report tools in the evaluation of trait impulsivity.
+46-1	8421-8432	Impulsivity	_
+46-2	8433-8441	measures	_
+46-3	8442-8451	Impulsive	_
+46-4	8452-8462	behavioral	_
+46-5	8463-8469	traits	_
+46-6	8470-8474	were	_
+46-7	8475-8483	measured	_
+46-8	8484-8489	using	_
+46-9	8490-8493	the	_
+46-10	8494-8501	Barratt	_
+46-11	8502-8515	Impulsiveness	_
+46-12	8516-8521	Scale	_
+46-13	8522-8523	(	_
+46-14	8523-8526	BIS	_
+46-15	8526-8527	-	_
+46-16	8527-8529	11	_
+46-17	8529-8530	)	_
+46-18	8531-8534	and	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+46-19	8535-8538	the	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+46-20	8539-8545	UPPS-P	_
+46-21	8546-8555	Impulsive	_
+46-22	8556-8564	Behavior	_
+46-23	8565-8570	Scale	_
+46-24	8570-8571	,	_
+46-25	8572-8575	two	_
+46-26	8576-8578	of	_
+46-27	8579-8582	the	_
+46-28	8583-8587	most	_
+46-29	8588-8599	widely-used	_
+46-30	8600-8611	self-report	_
+46-31	8612-8617	tools	_
+46-32	8618-8620	in	_
+46-33	8621-8624	the	_
+46-34	8625-8635	evaluation	_
+46-35	8636-8638	of	_
+46-36	8639-8644	trait	_
+46-37	8645-8656	impulsivity	_
+46-38	8656-8657	.	_
+
+Text=The BIS - 11 scale evaluates impulsive behavior in general, and the motor, attentional and non-planning sub-scales evaluate acting without thinking, inability to focus attention and lack of forethought, respectively.
+47-1	8658-8661	The	_
+47-2	8662-8665	BIS	_
+47-3	8665-8666	-	_
+47-4	8666-8668	11	_
+47-5	8669-8674	scale	_
+47-6	8675-8684	evaluates	_
+47-7	8685-8694	impulsive	_
+47-8	8695-8703	behavior	_
+47-9	8704-8706	in	_
+47-10	8707-8714	general	_
+47-11	8714-8715	,	_
+47-12	8716-8719	and	_
+47-13	8720-8723	the	_
+47-14	8724-8729	motor	_
+47-15	8729-8730	,	_
+47-16	8731-8742	attentional	_
+47-17	8743-8746	and	_
+47-18	8747-8759	non-planning	_
+47-19	8760-8770	sub-scales	_
+47-20	8771-8779	evaluate	_
+47-21	8780-8786	acting	_
+47-22	8787-8794	without	_
+47-23	8795-8803	thinking	_
+47-24	8803-8804	,	_
+47-25	8805-8814	inability	_
+47-26	8815-8817	to	_
+47-27	8818-8823	focus	_
+47-28	8824-8833	attention	_
+47-29	8834-8837	and	_
+47-30	8838-8842	lack	_
+47-31	8843-8845	of	_
+47-32	8846-8857	forethought	_
+47-33	8857-8858	,	_
+47-34	8859-8871	respectively	_
+47-35	8871-8872	.	_
+
+Text=The UPPS-P measures personality traits conducive to impulsive behavior including Urgency (negative) — tendency to impulsively act under strong negative emotions, Premeditation (lack of) — tendency to act without thinking, Perseverance (lack of) to remain focused on a task, Sensation-seeking—tendency to seek out novel / thrilling experiences, and Positive-urgency—tendency to impulsively act under strong positive emotions.
+48-1	8873-8876	The	_
+48-2	8877-8883	UPPS-P	_
+48-3	8884-8892	measures	_
+48-4	8893-8904	personality	_
+48-5	8905-8911	traits	_
+48-6	8912-8921	conducive	_
+48-7	8922-8924	to	_
+48-8	8925-8934	impulsive	_
+48-9	8935-8943	behavior	_
+48-10	8944-8953	including	_
+48-11	8954-8961	Urgency	_
+48-12	8962-8963	(	_
+48-13	8963-8971	negative	_
+48-14	8971-8972	)	_
+48-15	8972-8973	—	_
+48-16	8973-8981	tendency	_
+48-17	8982-8984	to	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
+48-18	8985-8996	impulsively	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
+48-19	8997-9000	act	_
+48-20	9001-9006	under	_
+48-21	9007-9013	strong	_
+48-22	9014-9022	negative	_
+48-23	9023-9031	emotions	_
+48-24	9031-9032	,	_
+48-25	9033-9046	Premeditation	_
+48-26	9047-9048	(	_
+48-27	9048-9052	lack	_
+48-28	9053-9055	of	_
+48-29	9055-9056	)	_
+48-30	9056-9057	—	_
+48-31	9057-9065	tendency	_
+48-32	9066-9068	to	_
+48-33	9069-9072	act	_
+48-34	9073-9080	without	_
+48-35	9081-9089	thinking	_
+48-36	9089-9090	,	_
+48-37	9091-9103	Perseverance	_
+48-38	9104-9105	(	_
+48-39	9105-9109	lack	_
+48-40	9110-9112	of	_
+48-41	9112-9113	)	_
+48-42	9114-9116	to	_
+48-43	9117-9123	remain	_
+48-44	9124-9131	focused	_
+48-45	9132-9134	on	_
+48-46	9135-9136	a	_
+48-47	9137-9141	task	_
+48-48	9141-9142	,	_
+48-49	9143-9169	Sensation-seeking—tendency	_
+48-50	9170-9172	to	_
+48-51	9173-9177	seek	_
+48-52	9178-9181	out	_
+48-53	9182-9187	novel	_
+48-54	9187-9188	/	_
+48-55	9188-9197	thrilling	_
+48-56	9198-9209	experiences	_
+48-57	9209-9210	,	_
+48-58	9211-9214	and	_
+48-59	9215-9240	Positive-urgency—tendency	_
+48-60	9241-9243	to	_
+48-61	9244-9255	impulsively	_
+48-62	9256-9259	act	_
+48-63	9260-9265	under	_
+48-64	9266-9272	strong	_
+48-65	9273-9281	positive	_
+48-66	9282-9290	emotions	_
+48-67	9290-9291	.	_
+
+Text=We also evaluated choice impulsivity with the Delay Discounting Task (DDT).
+49-1	9292-9294	We	_
+49-2	9295-9299	also	_
+49-3	9300-9309	evaluated	_
+49-4	9310-9316	choice	_
+49-5	9317-9328	impulsivity	_
+49-6	9329-9333	with	_
+49-7	9334-9337	the	_
+49-8	9338-9343	Delay	_
+49-9	9344-9355	Discounting	_
+49-10	9356-9360	Task	_
+49-11	9361-9362	(	_
+49-12	9362-9365	DDT	_
+49-13	9365-9366	)	_
+49-14	9366-9367	.	_
+
+Text=The DDT measures impulsivity by presenting the subject with a series of hypothetical choices between receiving a smaller immediate monetary reward or a larger delayed reward.
+50-1	9368-9371	The	_
+50-2	9372-9375	DDT	_
+50-3	9376-9384	measures	_
+50-4	9385-9396	impulsivity	_
+50-5	9397-9399	by	_
+50-6	9400-9410	presenting	_
+50-7	9411-9414	the	_
+50-8	9415-9422	subject	_
+50-9	9423-9427	with	_
+50-10	9428-9429	a	_
+50-11	9430-9436	series	_
+50-12	9437-9439	of	_
+50-13	9440-9452	hypothetical	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+50-14	9453-9460	choices	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+50-15	9461-9468	between	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+50-16	9469-9478	receiving	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+50-17	9479-9480	a	_
+50-18	9481-9488	smaller	_
+50-19	9489-9498	immediate	_
+50-20	9499-9507	monetary	_
+50-21	9508-9514	reward	_
+50-22	9515-9517	or	_
+50-23	9518-9519	a	_
+50-24	9520-9526	larger	_
+50-25	9527-9534	delayed	_
+50-26	9535-9541	reward	_
+50-27	9541-9542	.	_
+
+Text=Subjects were presented as their immediate reward values between $100 and $0 dollars in increments of $10, while the delayed reward was $100.
+51-1	9543-9551	Subjects	_
+51-2	9552-9556	were	_
+51-3	9557-9566	presented	_
+51-4	9567-9569	as	_
+51-5	9570-9575	their	_
+51-6	9576-9585	immediate	_
+51-7	9586-9592	reward	_
+51-8	9593-9599	values	_
+51-9	9600-9607	between	_
+51-10	9608-9612	$100	_
+51-11	9613-9616	and	_
+51-12	9617-9619	$0	_
+51-13	9620-9627	dollars	_
+51-14	9628-9630	in	_
+51-15	9631-9641	increments	_
+51-16	9642-9644	of	_
+51-17	9645-9648	$10	_
+51-18	9648-9649	,	_
+51-19	9650-9655	while	_
+51-20	9656-9659	the	_
+51-21	9660-9667	delayed	_
+51-22	9668-9674	reward	_
+51-23	9675-9678	was	_
+51-24	9679-9683	$100	_
+51-25	9683-9684	.	_
+
+Text=Delays were 0, 7, 14, 20, 25, or 30 days.
+52-1	9685-9691	Delays	_
+52-2	9692-9696	were	_
+52-3	9697-9698	0	_
+52-4	9698-9699	,	_
+52-5	9700-9701	7	_
+52-6	9701-9702	,	_
+52-7	9703-9705	14	_
+52-8	9705-9706	,	_
+52-9	9707-9709	20	_
+52-10	9709-9710	,	_
+52-11	9711-9713	25	_
+52-12	9713-9714	,	_
+52-13	9715-9717	or	_
+52-14	9718-9720	30	_
+52-15	9721-9725	days	_
+52-16	9725-9726	.	_
+
+Text=Subjects completed trials with all iterations of these parameters.
+53-1	9727-9735	Subjects	_
+53-2	9736-9745	completed	_
+53-3	9746-9752	trials	_
+53-4	9753-9757	with	_
+53-5	9758-9761	all	_
+53-6	9762-9772	iterations	_
+53-7	9773-9775	of	_
+53-8	9776-9781	these	_
+53-9	9782-9792	parameters	_
+53-10	9792-9793	.	_
+
+Text=The rate of discounting of the delayed outcome (k) was calculated and then a natural log-transformation was applied to correct for the non-normal distribution of k values.
+54-1	9794-9797	The	_
+54-2	9798-9802	rate	_
+54-3	9803-9805	of	_
+54-4	9806-9817	discounting	_
+54-5	9818-9820	of	_
+54-6	9821-9824	the	_
+54-7	9825-9832	delayed	_
+54-8	9833-9840	outcome	_
+54-9	9841-9842	(	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+54-10	9842-9843	k	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+54-11	9843-9844	)	_
+54-12	9845-9848	was	_
+54-13	9849-9859	calculated	_
+54-14	9860-9863	and	_
+54-15	9864-9868	then	_
+54-16	9869-9870	a	_
+54-17	9871-9878	natural	_
+54-18	9879-9897	log-transformation	_
+54-19	9898-9901	was	_
+54-20	9902-9909	applied	_
+54-21	9910-9912	to	_
+54-22	9913-9920	correct	_
+54-23	9921-9924	for	_
+54-24	9925-9928	the	_
+54-25	9929-9939	non-normal	_
+54-26	9940-9952	distribution	_
+54-27	9953-9955	of	_
+54-28	9956-9957	k	_
+54-29	9958-9964	values	_
+54-30	9964-9965	.	_
+
+Text=The resulting ln (k) is used to represent delay discounting, where higher ln (k) values mean greater preference for immediate rewards (see Table 1 for descriptive statistics of drinking and impulsivity scores for the sample).
+55-1	9966-9969	The	_
+55-2	9970-9979	resulting	_
+55-3	9980-9982	ln	_
+55-4	9982-9983	(	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+55-5	9983-9984	k	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+55-6	9984-9985	)	_
+55-7	9986-9988	is	_
+55-8	9989-9993	used	_
+55-9	9994-9996	to	_
+55-10	9997-10006	represent	_
+55-11	10007-10012	delay	_
+55-12	10013-10024	discounting	_
+55-13	10024-10025	,	_
+55-14	10026-10031	where	_
+55-15	10032-10038	higher	_
+55-16	10039-10041	ln	_
+55-17	10041-10042	(	_
+55-18	10042-10043	k	_
+55-19	10043-10044	)	_
+55-20	10045-10051	values	_
+55-21	10052-10056	mean	_
+55-22	10057-10064	greater	_
+55-23	10065-10075	preference	_
+55-24	10076-10079	for	_
+55-25	10080-10089	immediate	_
+55-26	10090-10097	rewards	_
+55-27	10098-10099	(	_
+55-28	10099-10102	see	_
+55-29	10103-10108	Table	_
+55-30	10109-10110	1	_
+55-31	10111-10114	for	_
+55-32	10115-10126	descriptive	_
+55-33	10127-10137	statistics	_
+55-34	10138-10140	of	_
+55-35	10141-10149	drinking	_
+55-36	10150-10153	and	_
+55-37	10154-10165	impulsivity	_
+55-38	10166-10172	scores	_
+55-39	10173-10176	for	_
+55-40	10177-10180	the	_
+55-41	10181-10187	sample	_
+55-42	10187-10188	)	_
+55-43	10188-10189	.	_
+
+Text=Experimental design and statistical analysis Overall timeline In this two-session study, healthy light drinkers received an IV alcohol infusion on two separate days.
+56-1	10190-10202	Experimental	_
+56-2	10203-10209	design	_
+56-3	10210-10213	and	_
+56-4	10214-10225	statistical	_
+56-5	10226-10234	analysis	_
+56-6	10235-10242	Overall	_
+56-7	10243-10251	timeline	_
+56-8	10252-10254	In	_
+56-9	10255-10259	this	_
+56-10	10260-10271	two-session	_
+56-11	10272-10277	study	_
+56-12	10277-10278	,	_
+56-13	10279-10286	healthy	_
+56-14	10287-10292	light	_
+56-15	10293-10301	drinkers	_
+56-16	10302-10310	received	_
+56-17	10311-10313	an	_
+56-18	10314-10316	IV	_
+56-19	10317-10324	alcohol	_
+56-20	10325-10333	infusion	_
+56-21	10334-10336	on	_
+56-22	10337-10340	two	_
+56-23	10341-10349	separate	_
+56-24	10350-10354	days	_
+56-25	10354-10355	.	_
+
+Text=The first session was conducted outside the scanner to establish the alcohol infusion rate profile to achieve and maintain the target BrAC exposure, and to ensure tolerability.
+57-1	10356-10359	The	_
+57-2	10360-10365	first	_
+57-3	10366-10373	session	_
+57-4	10374-10377	was	_
+57-5	10378-10387	conducted	_
+57-6	10388-10395	outside	_
+57-7	10396-10399	the	_
+57-8	10400-10407	scanner	_
+57-9	10408-10410	to	_
+57-10	10411-10420	establish	_
+57-11	10421-10424	the	_
+57-12	10425-10432	alcohol	_
+57-13	10433-10441	infusion	_
+57-14	10442-10446	rate	_
+57-15	10447-10454	profile	_
+57-16	10455-10457	to	_
+57-17	10458-10465	achieve	_
+57-18	10466-10469	and	_
+57-19	10470-10478	maintain	_
+57-20	10479-10482	the	_
+57-21	10483-10489	target	_
+57-22	10490-10494	BrAC	_
+57-23	10495-10503	exposure	_
+57-24	10503-10504	,	_
+57-25	10505-10508	and	_
+57-26	10509-10511	to	_
+57-27	10512-10518	ensure	_
+57-28	10519-10531	tolerability	_
+57-29	10531-10532	.	_
+
+Text=The alcohol infusion for the second session was conducted inside the scanner at least three days after the first session (Fig 1).
+58-1	10533-10536	The	_
+58-2	10537-10544	alcohol	_
+58-3	10545-10553	infusion	_
+58-4	10554-10557	for	_
+58-5	10558-10561	the	_
+58-6	10562-10568	second	_
+58-7	10569-10576	session	_
+58-8	10577-10580	was	_
+58-9	10581-10590	conducted	_
+58-10	10591-10597	inside	_
+58-11	10598-10601	the	_
+58-12	10602-10609	scanner	_
+58-13	10610-10612	at	_
+58-14	10613-10618	least	_
+58-15	10619-10624	three	_
+58-16	10625-10629	days	_
+58-17	10630-10635	after	_
+58-18	10636-10639	the	_
+58-19	10640-10645	first	_
+58-20	10646-10653	session	_
+58-21	10654-10655	(	_
+58-22	10655-10658	Fig	_
+58-23	10659-10660	1	_
+58-24	10660-10661	)	_
+58-25	10661-10662	.	_
+
+Text=Participants were asked to fast the night before each session.
+59-1	10663-10675	Participants	_
+59-2	10676-10680	were	_
+59-3	10681-10686	asked	_
+59-4	10687-10689	to	_
+59-5	10690-10694	fast	_
+59-6	10695-10698	the	_
+59-7	10699-10704	night	_
+59-8	10705-10711	before	_
+59-9	10712-10716	each	_
+59-10	10717-10724	session	_
+59-11	10724-10725	.	_
+
+Text=At the start of each visit, breath alcohol levels, urine pregnancy tests (if applicable) and urine drug screens were collected.
+60-1	10726-10728	At	_
+60-2	10729-10732	the	_
+60-3	10733-10738	start	_
+60-4	10739-10741	of	_
+60-5	10742-10746	each	_
+60-6	10747-10752	visit	_
+60-7	10752-10753	,	_
+60-8	10754-10760	breath	_
+60-9	10761-10768	alcohol	_
+60-10	10769-10775	levels	_
+60-11	10775-10776	,	_
+60-12	10777-10782	urine	_
+60-13	10783-10792	pregnancy	_
+60-14	10793-10798	tests	_
+60-15	10799-10800	(	_
+60-16	10800-10802	if	_
+60-17	10803-10813	applicable	_
+60-18	10813-10814	)	_
+60-19	10815-10818	and	_
+60-20	10819-10824	urine	_
+60-21	10825-10829	drug	_
+60-22	10830-10837	screens	_
+60-23	10838-10842	were	_
+60-24	10843-10852	collected	_
+60-25	10852-10853	.	_
+
+Text=In addition, we conducted a brief history interview about recent alcohol, medication, and nicotine use, changes in physical health, and menstruation (if applicable).
+61-1	10854-10856	In	_
+61-2	10857-10865	addition	_
+61-3	10865-10866	,	_
+61-4	10867-10869	we	_
+61-5	10870-10879	conducted	_
+61-6	10880-10881	a	_
+61-7	10882-10887	brief	_
+61-8	10888-10895	history	_
+61-9	10896-10905	interview	_
+61-10	10906-10911	about	_
+61-11	10912-10918	recent	_
+61-12	10919-10926	alcohol	_
+61-13	10926-10927	,	_
+61-14	10928-10938	medication	_
+61-15	10938-10939	,	_
+61-16	10940-10943	and	_
+61-17	10944-10952	nicotine	_
+61-18	10953-10956	use	_
+61-19	10956-10957	,	_
+61-20	10958-10965	changes	_
+61-21	10966-10968	in	_
+61-22	10969-10977	physical	_
+61-23	10978-10984	health	_
+61-24	10984-10985	,	_
+61-25	10986-10989	and	_
+61-26	10990-11002	menstruation	_
+61-27	11003-11004	(	_
+61-28	11004-11006	if	_
+61-29	11007-11017	applicable	_
+61-30	11017-11018	)	_
+61-31	11018-11019	.	_
+
+Text=Timeline of intravenous alcohol infusion study.
+62-1	11020-11028	Timeline	_
+62-2	11029-11031	of	_
+62-3	11032-11043	intravenous	_
+62-4	11044-11051	alcohol	_
+62-5	11052-11060	infusion	_
+62-6	11061-11066	study	_
+62-7	11066-11067	.	_
+
+Text=The timeline depiction of the two-session intravenous alcohol infusion study; sessions were separated at least three days from each other.
+63-1	11068-11071	The	_
+63-2	11072-11080	timeline	_
+63-3	11081-11090	depiction	_
+63-4	11091-11093	of	_
+63-5	11094-11097	the	_
+63-6	11098-11109	two-session	_
+63-7	11110-11121	intravenous	_
+63-8	11122-11129	alcohol	_
+63-9	11130-11138	infusion	_
+63-10	11139-11144	study	_
+63-11	11144-11145	;	_
+63-12	11146-11154	sessions	_
+63-13	11155-11159	were	_
+63-14	11160-11169	separated	_
+63-15	11170-11172	at	_
+63-16	11173-11178	least	_
+63-17	11179-11184	three	_
+63-18	11185-11189	days	_
+63-19	11190-11194	from	_
+63-20	11195-11199	each	_
+63-21	11200-11205	other	_
+63-22	11205-11206	.	_
+
+Text=The session 2 timeline indicates timepoints of resting state and BAC measurement alongside IV infusion; the first resting state scan occurred before the IV infusion at blood alcohol level of 0.0 g / dl and the second one was collected when the blood alcohol level reached the binge levels (0.08 g / dl).
+64-1	11207-11210	The	_
+64-2	11211-11218	session	_
+64-3	11219-11220	2	_
+64-4	11221-11229	timeline	_
+64-5	11230-11239	indicates	_
+64-6	11240-11250	timepoints	_
+64-7	11251-11253	of	_
+64-8	11254-11261	resting	_
+64-9	11262-11267	state	_
+64-10	11268-11271	and	_
+64-11	11272-11275	BAC	_
+64-12	11276-11287	measurement	_
+64-13	11288-11297	alongside	_
+64-14	11298-11300	IV	_
+64-15	11301-11309	infusion	_
+64-16	11309-11310	;	_
+64-17	11311-11314	the	_
+64-18	11315-11320	first	_
+64-19	11321-11328	resting	_
+64-20	11329-11334	state	_
+64-21	11335-11339	scan	_
+64-22	11340-11348	occurred	_
+64-23	11349-11355	before	_
+64-24	11356-11359	the	_
+64-25	11360-11362	IV	_
+64-26	11363-11371	infusion	_
+64-27	11372-11374	at	_
+64-28	11375-11380	blood	_
+64-29	11381-11388	alcohol	_
+64-30	11389-11394	level	_
+64-31	11395-11397	of	_
+64-32	11398-11401	0.0	_
+64-33	11402-11403	g	_
+64-34	11403-11404	/	_
+64-35	11404-11406	dl	_
+64-36	11407-11410	and	_
+64-37	11411-11414	the	_
+64-38	11415-11421	second	_
+64-39	11422-11425	one	_
+64-40	11426-11429	was	_
+64-41	11430-11439	collected	_
+64-42	11440-11444	when	_
+64-43	11445-11448	the	_
+64-44	11449-11454	blood	_
+64-45	11455-11462	alcohol	_
+64-46	11463-11468	level	_
+64-47	11469-11476	reached	_
+64-48	11477-11480	the	_
+64-49	11481-11486	binge	_
+64-50	11487-11493	levels	_
+64-51	11494-11495	(	_
+64-52	11495-11499	0.08	_
+64-53	11500-11501	g	_
+64-54	11501-11502	/	_
+64-55	11502-11504	dl	_
+64-56	11504-11505	)	_
+64-57	11505-11506	.	_
+
+Text=Alcohol infusion to binge level exposure We performed the alcohol infusion procedure following previously published methods (fMRI and PET).
+65-1	11507-11514	Alcohol	_
+65-2	11515-11523	infusion	_
+65-3	11524-11526	to	_
+65-4	11527-11532	binge	_
+65-5	11533-11538	level	_
+65-6	11539-11547	exposure	_
+65-7	11548-11550	We	_
+65-8	11551-11560	performed	_
+65-9	11561-11564	the	_
+65-10	11565-11572	alcohol	_
+65-11	11573-11581	infusion	_
+65-12	11582-11591	procedure	_
+65-13	11592-11601	following	_
+65-14	11602-11612	previously	_
+65-15	11613-11622	published	_
+65-16	11623-11630	methods	_
+65-17	11631-11632	(	_
+65-18	11632-11636	fMRI	_
+65-19	11637-11640	and	_
+65-20	11641-11644	PET	_
+65-21	11644-11645	)	_
+65-22	11645-11646	.	_
+
+Text=In both sessions, participants received an intravenous (IV) infusion of 6% v / v ethanol solution in saline to achieve a target breath alcohol concentration (BrAC) of 0.08 ± 0.005 g / dl at 15 min after the start of the infusion, and to maintain (or clamp) the target BrAC level for 30 min (Fig 1).
+66-1	11647-11649	In	_
+66-2	11650-11654	both	_
+66-3	11655-11663	sessions	_
+66-4	11663-11664	,	_
+66-5	11665-11677	participants	_
+66-6	11678-11686	received	_
+66-7	11687-11689	an	_
+66-8	11690-11701	intravenous	_
+66-9	11702-11703	(	_
+66-10	11703-11705	IV	_
+66-11	11705-11706	)	_
+66-12	11707-11715	infusion	_
+66-13	11716-11718	of	_
+66-14	11719-11721	6%	_
+66-15	11722-11723	v	_
+66-16	11723-11724	/	_
+66-17	11724-11725	v	_
+66-18	11726-11733	ethanol	_
+66-19	11734-11742	solution	_
+66-20	11743-11745	in	_
+66-21	11746-11752	saline	_
+66-22	11753-11755	to	_
+66-23	11756-11763	achieve	_
+66-24	11764-11765	a	_
+66-25	11766-11772	target	_
+66-26	11773-11779	breath	_
+66-27	11780-11787	alcohol	_
+66-28	11788-11801	concentration	_
+66-29	11802-11803	(	_
+66-30	11803-11807	BrAC	_
+66-31	11807-11808	)	_
+66-32	11809-11811	of	_
+66-33	11812-11816	0.08	_
+66-34	11817-11818	±	_
+66-35	11819-11824	0.005	_
+66-36	11825-11826	g	_
+66-37	11826-11827	/	_
+66-38	11827-11829	dl	_
+66-39	11830-11832	at	_
+66-40	11833-11835	15	_
+66-41	11836-11839	min	_
+66-42	11840-11845	after	_
+66-43	11846-11849	the	_
+66-44	11850-11855	start	_
+66-45	11856-11858	of	_
+66-46	11859-11862	the	_
+66-47	11863-11871	infusion	_
+66-48	11871-11872	,	_
+66-49	11873-11876	and	_
+66-50	11877-11879	to	_
+66-51	11880-11888	maintain	_
+66-52	11889-11890	(	_
+66-53	11890-11892	or	_
+66-54	11893-11898	clamp	_
+66-55	11898-11899	)	_
+66-56	11900-11903	the	_
+66-57	11904-11910	target	_
+66-58	11911-11915	BrAC	_
+66-59	11916-11921	level	_
+66-60	11922-11925	for	_
+66-61	11926-11928	30	_
+66-62	11929-11932	min	_
+66-63	11933-11934	(	_
+66-64	11934-11937	Fig	_
+66-65	11938-11939	1	_
+66-66	11939-11940	)	_
+66-67	11940-11941	.	_
+
+Text=The infusion-rate profile was computed for each subject using a physiologically-based pharmacokinetic (PBPK) model-based algorithm, with individualized estimates of the model parameters estimated from the subject ’ s height, weight, age and sex.
+67-1	11942-11945	The	_
+67-2	11946-11959	infusion-rate	_
+67-3	11960-11967	profile	_
+67-4	11968-11971	was	_
+67-5	11972-11980	computed	_
+67-6	11981-11984	for	_
+67-7	11985-11989	each	_
+67-8	11990-11997	subject	_
+67-9	11998-12003	using	_
+67-10	12004-12005	a	_
+67-11	12006-12027	physiologically-based	_
+67-12	12028-12043	pharmacokinetic	_
+67-13	12044-12045	(	_
+67-14	12045-12049	PBPK	_
+67-15	12049-12050	)	_
+67-16	12051-12062	model-based	_
+67-17	12063-12072	algorithm	_
+67-18	12072-12073	,	_
+67-19	12074-12078	with	_
+67-20	12079-12093	individualized	_
+67-21	12094-12103	estimates	_
+67-22	12104-12106	of	_
+67-23	12107-12110	the	_
+67-24	12111-12116	model	_
+67-25	12117-12127	parameters	_
+67-26	12128-12137	estimated	_
+67-27	12138-12142	from	_
+67-28	12143-12146	the	_
+67-29	12147-12154	subject	_
+67-30	12154-12155	’	_
+67-31	12155-12156	s	_
+67-32	12157-12163	height	_
+67-33	12163-12164	,	_
+67-34	12165-12171	weight	_
+67-35	12171-12172	,	_
+67-36	12173-12176	age	_
+67-37	12177-12180	and	_
+67-38	12181-12184	sex	_
+67-39	12184-12185	.	_
+
+Text=During the first session conducted outside the scanner, serial BrACs were measured at frequent intervals (5 – 15 minutes) using the Alcotest 7410 + handheld breathalyzer (Drager Safety Inc., CO), to ensure that each BrAC was within 0.005 g / dl of the target, and to enable minor adjustments to the infusion rates to overcome errors in parameter estimation and experimental variability.
+68-1	12186-12192	During	_
+68-2	12193-12196	the	_
+68-3	12197-12202	first	_
+68-4	12203-12210	session	_
+68-5	12211-12220	conducted	_
+68-6	12221-12228	outside	_
+68-7	12229-12232	the	_
+68-8	12233-12240	scanner	_
+68-9	12240-12241	,	_
+68-10	12242-12248	serial	_
+68-11	12249-12254	BrACs	_
+68-12	12255-12259	were	_
+68-13	12260-12268	measured	_
+68-14	12269-12271	at	_
+68-15	12272-12280	frequent	_
+68-16	12281-12290	intervals	_
+68-17	12291-12292	(	_
+68-18	12292-12293	5	_
+68-19	12293-12294	–	_
+68-20	12294-12296	15	_
+68-21	12297-12304	minutes	_
+68-22	12304-12305	)	_
+68-23	12306-12311	using	_
+68-24	12312-12315	the	_
+68-25	12316-12324	Alcotest	_
+68-26	12325-12329	7410	_
+68-27	12329-12330	+	_
+68-28	12331-12339	handheld	_
+68-29	12340-12352	breathalyzer	_
+68-30	12353-12354	(	_
+68-31	12354-12360	Drager	_
+68-32	12361-12367	Safety	_
+68-33	12368-12371	Inc	_
+68-34	12371-12372	.	_
+68-35	12372-12373	,	_
+68-36	12374-12376	CO	_
+68-37	12376-12377	)	_
+68-38	12377-12378	,	_
+68-39	12379-12381	to	_
+68-40	12382-12388	ensure	_
+68-41	12389-12393	that	_
+68-42	12394-12398	each	_
+68-43	12399-12403	BrAC	_
+68-44	12404-12407	was	_
+68-45	12408-12414	within	_
+68-46	12415-12420	0.005	_
+68-47	12421-12422	g	_
+68-48	12422-12423	/	_
+68-49	12423-12425	dl	_
+68-50	12426-12428	of	_
+68-51	12429-12432	the	_
+68-52	12433-12439	target	_
+68-53	12439-12440	,	_
+68-54	12441-12444	and	_
+68-55	12445-12447	to	_
+68-56	12448-12454	enable	_
+68-57	12455-12460	minor	_
+68-58	12461-12472	adjustments	_
+68-59	12473-12475	to	_
+68-60	12476-12479	the	_
+68-61	12480-12488	infusion	_
+68-62	12489-12494	rates	_
+68-63	12495-12497	to	_
+68-64	12498-12506	overcome	_
+68-65	12507-12513	errors	_
+68-66	12514-12516	in	_
+68-67	12517-12526	parameter	_
+68-68	12527-12537	estimation	_
+68-69	12538-12541	and	_
+68-70	12542-12554	experimental	_
+68-71	12555-12566	variability	_
+68-72	12566-12567	.	_
+
+Text=The adjusted infusion rate profile from the first session was used in the imaging session to replicate the target BrAC profile for each subject.
+69-1	12568-12571	The	_
+69-2	12572-12580	adjusted	_
+69-3	12581-12589	infusion	_
+69-4	12590-12594	rate	_
+69-5	12595-12602	profile	_
+69-6	12603-12607	from	_
+69-7	12608-12611	the	_
+69-8	12612-12617	first	_
+69-9	12618-12625	session	_
+69-10	12626-12629	was	_
+69-11	12630-12634	used	_
+69-12	12635-12637	in	_
+69-13	12638-12641	the	_
+69-14	12642-12649	imaging	_
+69-15	12650-12657	session	_
+69-16	12658-12660	to	_
+69-17	12661-12670	replicate	_
+69-18	12671-12674	the	_
+69-19	12675-12681	target	_
+69-20	12682-12686	BrAC	_
+69-21	12687-12694	profile	_
+69-22	12695-12698	for	_
+69-23	12699-12703	each	_
+69-24	12704-12711	subject	_
+69-25	12711-12712	.	_
+
+Text=This approach has been used to successfully achieve and maintain target BrACs, as verified by blood alcohol concentrations measured in samples drawn during the scan in other neuroimaging studies.
+70-1	12713-12717	This	_
+70-2	12718-12726	approach	_
+70-3	12727-12730	has	_
+70-4	12731-12735	been	_
+70-5	12736-12740	used	_
+70-6	12741-12743	to	_
+70-7	12744-12756	successfully	_
+70-8	12757-12764	achieve	_
+70-9	12765-12768	and	_
+70-10	12769-12777	maintain	_
+70-11	12778-12784	target	_
+70-12	12785-12790	BrACs	_
+70-13	12790-12791	,	_
+70-14	12792-12794	as	_
+70-15	12795-12803	verified	_
+70-16	12804-12806	by	_
+70-17	12807-12812	blood	_
+70-18	12813-12820	alcohol	_
+70-19	12821-12835	concentrations	_
+70-20	12836-12844	measured	_
+70-21	12845-12847	in	_
+70-22	12848-12855	samples	_
+70-23	12856-12861	drawn	_
+70-24	12862-12868	during	_
+70-25	12869-12872	the	_
+70-26	12873-12877	scan	_
+70-27	12878-12880	in	_
+70-28	12881-12886	other	_
+70-29	12887-12899	neuroimaging	_
+70-30	12900-12907	studies	_
+70-31	12907-12908	.	_
+
+Text=After the end of the infusion, subjects were provided a meal, and BrAC was tracked until it dropped to 0.02 g / dL or below, at which time subjects were taken home by a designated driver or taxi.
+71-1	12909-12914	After	_
+71-2	12915-12918	the	_
+71-3	12919-12922	end	_
+71-4	12923-12925	of	_
+71-5	12926-12929	the	_
+71-6	12930-12938	infusion	_
+71-7	12938-12939	,	_
+71-8	12940-12948	subjects	_
+71-9	12949-12953	were	_
+71-10	12954-12962	provided	_
+71-11	12963-12964	a	_
+71-12	12965-12969	meal	_
+71-13	12969-12970	,	_
+71-14	12971-12974	and	_
+71-15	12975-12979	BrAC	_
+71-16	12980-12983	was	_
+71-17	12984-12991	tracked	_
+71-18	12992-12997	until	_
+71-19	12998-13000	it	_
+71-20	13001-13008	dropped	_
+71-21	13009-13011	to	_
+71-22	13012-13016	0.02	_
+71-23	13017-13018	g	_
+71-24	13018-13019	/	_
+71-25	13019-13021	dL	_
+71-26	13022-13024	or	_
+71-27	13025-13030	below	_
+71-28	13030-13031	,	_
+71-29	13032-13034	at	_
+71-30	13035-13040	which	_
+71-31	13041-13045	time	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+71-32	13046-13054	subjects	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+71-33	13055-13059	were	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+71-34	13060-13065	taken	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+71-35	13066-13070	home	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+71-36	13071-13073	by	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+71-37	13074-13075	a	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+71-38	13076-13086	designated	_
+71-39	13087-13093	driver	_
+71-40	13094-13096	or	_
+71-41	13097-13101	taxi	_
+71-42	13101-13102	.	_
+
+Text=Neuroimaging acquisition and preprocessing During session 2, after the IV catheters were placed for alcohol infusion, participants were placed in a 3T SIEMENS Skyra MR scanner at the NMR Research Center at the NIH.
+72-1	13103-13115	Neuroimaging	_
+72-2	13116-13127	acquisition	_
+72-3	13128-13131	and	_
+72-4	13132-13145	preprocessing	_
+72-5	13146-13152	During	_
+72-6	13153-13160	session	_
+72-7	13161-13162	2	_
+72-8	13162-13163	,	_
+72-9	13164-13169	after	_
+72-10	13170-13173	the	_
+72-11	13174-13176	IV	_
+72-12	13177-13186	catheters	_
+72-13	13187-13191	were	_
+72-14	13192-13198	placed	_
+72-15	13199-13202	for	_
+72-16	13203-13210	alcohol	_
+72-17	13211-13219	infusion	_
+72-18	13219-13220	,	_
+72-19	13221-13233	participants	_
+72-20	13234-13238	were	_
+72-21	13239-13245	placed	_
+72-22	13246-13248	in	_
+72-23	13249-13250	a	_
+72-24	13251-13253	3T	_
+72-25	13254-13261	SIEMENS	_
+72-26	13262-13267	Skyra	_
+72-27	13268-13270	MR	_
+72-28	13271-13278	scanner	_
+72-29	13279-13281	at	_
+72-30	13282-13285	the	_
+72-31	13286-13289	NMR	_
+72-32	13290-13298	Research	_
+72-33	13299-13305	Center	_
+72-34	13306-13308	at	_
+72-35	13309-13312	the	_
+72-36	13313-13316	NIH	_
+72-37	13316-13317	.	_
+
+Text=Before starting the IV infusion of alcohol, a 5 - min closed eyes resting-state fMRI scan was acquired with an echo-planar imaging sequence (36 axial slices, 3.8 mm thickness, 64 × 64 matrix and repetition time of 2000 ms, echo time 30, flip angle 90).
+73-1	13318-13324	Before	_
+73-2	13325-13333	starting	_
+73-3	13334-13337	the	_
+73-4	13338-13340	IV	_
+73-5	13341-13349	infusion	_
+73-6	13350-13352	of	_
+73-7	13353-13360	alcohol	_
+73-8	13360-13361	,	_
+73-9	13362-13363	a	_
+73-10	13364-13365	5	_
+73-11	13365-13366	-	_
+73-12	13366-13369	min	_
+73-13	13370-13376	closed	_
+73-14	13377-13381	eyes	_
+73-15	13382-13395	resting-state	_
+73-16	13396-13400	fMRI	_
+73-17	13401-13405	scan	_
+73-18	13406-13409	was	_
+73-19	13410-13418	acquired	_
+73-20	13419-13423	with	_
+73-21	13424-13426	an	_
+73-22	13427-13438	echo-planar	_
+73-23	13439-13446	imaging	_
+73-24	13447-13455	sequence	_
+73-25	13456-13457	(	_
+73-26	13457-13459	36	_
+73-27	13460-13465	axial	_
+73-28	13466-13472	slices	_
+73-29	13472-13473	,	_
+73-30	13474-13477	3.8	_
+73-31	13478-13480	mm	_
+73-32	13481-13490	thickness	_
+73-33	13490-13491	,	_
+73-34	13492-13494	64	_
+73-35	13495-13496	×	_
+73-36	13497-13499	64	_
+73-37	13500-13506	matrix	_
+73-38	13507-13510	and	_
+73-39	13511-13521	repetition	_
+73-40	13522-13526	time	_
+73-41	13527-13529	of	_
+73-42	13530-13534	2000	_
+73-43	13535-13537	ms	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+73-44	13537-13538	,	_
+73-45	13539-13543	echo	_
+73-46	13544-13548	time	_
+73-47	13549-13551	30	_
+73-48	13551-13552	,	_
+73-49	13553-13557	flip	_
+73-50	13558-13563	angle	_
+73-51	13564-13566	90	_
+73-52	13566-13567	)	_
+73-53	13567-13568	.	_
+
+Text=After collecting this baseline resting-state fMRI scan, the alcohol infusion started and once the target BAC was achieved, a 10 - minute waiting period was allowed to ensure the BAC was stable at the 0.08 g / dl level.
+74-1	13569-13574	After	_
+74-2	13575-13585	collecting	_
+74-3	13586-13590	this	_
+74-4	13591-13599	baseline	_
+74-5	13600-13613	resting-state	_
+74-6	13614-13618	fMRI	_
+74-7	13619-13623	scan	_
+74-8	13623-13624	,	_
+74-9	13625-13628	the	_
+74-10	13629-13636	alcohol	_
+74-11	13637-13645	infusion	_
+74-12	13646-13653	started	_
+74-13	13654-13657	and	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+74-14	13658-13662	once	_
+74-15	13663-13666	the	_
+74-16	13667-13673	target	_
+74-17	13674-13677	BAC	_
+74-18	13678-13681	was	_
+74-19	13682-13690	achieved	_
+74-20	13690-13691	,	_
+74-21	13692-13693	a	_
+74-22	13694-13696	10	_
+74-23	13696-13697	-	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+74-24	13697-13703	minute	_
+74-25	13704-13711	waiting	_
+74-26	13712-13718	period	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+74-27	13719-13722	was	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+74-28	13723-13730	allowed	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+74-29	13731-13733	to	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+74-30	13734-13740	ensure	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+74-31	13741-13744	the	_
+74-32	13745-13748	BAC	_
+74-33	13749-13752	was	_
+74-34	13753-13759	stable	_
+74-35	13760-13762	at	_
+74-36	13763-13766	the	_
+74-37	13767-13771	0.08	_
+74-38	13772-13773	g	_
+74-39	13773-13774	/	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+74-40	13774-13776	dl	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+74-41	13777-13782	level	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+74-42	13782-13783	.	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+
+Text=During the waiting period, whole-brain structural and diffusion-weighted images of the brain were collected.
+75-1	13784-13790	During	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-2	13791-13794	the	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-3	13795-13802	waiting	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-4	13803-13809	period	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-5	13809-13810	,	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-6	13811-13822	whole-brain	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-7	13823-13833	structural	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-8	13834-13837	and	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-9	13838-13856	diffusion-weighted	_
+75-10	13857-13863	images	_
+75-11	13864-13866	of	_
+75-12	13867-13870	the	_
+75-13	13871-13876	brain	_
+75-14	13877-13881	were	_
+75-15	13882-13891	collected	_
+75-16	13891-13892	.	_
+
+Text=Then, a second eyes-closed resting-state fMRI scan was collected while the target BAC (0.08 g / dl) was maintained.
+76-1	13893-13897	Then	_
+76-2	13897-13898	,	_
+76-3	13899-13900	a	_
+76-4	13901-13907	second	_
+76-5	13908-13919	eyes-closed	_
+76-6	13920-13933	resting-state	_
+76-7	13934-13938	fMRI	_
+76-8	13939-13943	scan	_
+76-9	13944-13947	was	_
+76-10	13948-13957	collected	_
+76-11	13958-13963	while	_
+76-12	13964-13967	the	_
+76-13	13968-13974	target	_
+76-14	13975-13978	BAC	_
+76-15	13979-13980	(	_
+76-16	13980-13984	0.08	_
+76-17	13985-13986	g	_
+76-18	13986-13987	/	_
+76-19	13987-13989	dl	_
+76-20	13989-13990	)	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+76-21	13991-13994	was	_
+76-22	13995-14005	maintained	_
+76-23	14005-14006	.	_
+
+Text=Following the MRI session, the Drug Effects Questionnaire was used to evaluate and quantify subjective effects of alcohol (DEQ).
+77-1	14007-14016	Following	_
+77-2	14017-14020	the	_
+77-3	14021-14024	MRI	_
+77-4	14025-14032	session	_
+77-5	14032-14033	,	_
+77-6	14034-14037	the	_
+77-7	14038-14042	Drug	_
+77-8	14043-14050	Effects	_
+77-9	14051-14064	Questionnaire	_
+77-10	14065-14068	was	_
+77-11	14069-14073	used	_
+77-12	14074-14076	to	_
+77-13	14077-14085	evaluate	_
+77-14	14086-14089	and	_
+77-15	14090-14098	quantify	_
+77-16	14099-14109	subjective	_
+77-17	14110-14117	effects	_
+77-18	14118-14120	of	_
+77-19	14121-14128	alcohol	_
+77-20	14129-14130	(	_
+77-21	14130-14133	DEQ	_
+77-22	14133-14134	)	_
+77-23	14134-14135	.	_
+
+Text=CONN ver.17f (http: / / www.conn-toolbox.org), a MATLAB / SPM-based (www.fil.ion.ucl.ac.uk / spm /) software, was used to conduct spatial / temporal preprocessing and analyses.
+78-1	14136-14140	CONN	_
+78-2	14141-14144	ver	_
+78-3	14144-14148	.17f	_
+78-4	14149-14150	(	_
+78-5	14150-14154	http	_
+78-6	14154-14155	:	_
+78-7	14155-14156	/	_
+78-8	14156-14157	/	_
+78-9	14157-14177	www.conn-toolbox.org	_
+78-10	14177-14178	)	_
+78-11	14178-14179	,	_
+78-12	14180-14181	a	_
+78-13	14182-14188	MATLAB	_
+78-14	14188-14189	/	_
+78-15	14189-14198	SPM-based	_
+78-16	14199-14200	(	_
+78-17	14200-14221	www.fil.ion.ucl.ac.uk	_
+78-18	14221-14222	/	_
+78-19	14222-14225	spm	_
+78-20	14225-14226	/	_
+78-21	14226-14227	)	_
+78-22	14228-14236	software	_
+78-23	14236-14237	,	_
+78-24	14238-14241	was	_
+78-25	14242-14246	used	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+78-26	14247-14249	to	_
+78-27	14250-14257	conduct	_
+78-28	14258-14265	spatial	_
+78-29	14265-14266	/	_
+78-30	14266-14274	temporal	_
+78-31	14275-14288	preprocessing	_
+78-32	14289-14292	and	_
+78-33	14293-14301	analyses	_
+78-34	14301-14302	.	_
+
+Text=Spatial preprocessing included slice-timing correction, realignment, co-registration, normalization, and spatial smoothing (8 mm).
+79-1	14303-14310	Spatial	_
+79-2	14311-14324	preprocessing	_
+79-3	14325-14333	included	_
+79-4	14334-14346	slice-timing	_
+79-5	14347-14357	correction	_
+79-6	14357-14358	,	_
+79-7	14359-14370	realignment	_
+79-8	14370-14371	,	_
+79-9	14372-14387	co-registration	_
+79-10	14387-14388	,	_
+79-11	14389-14402	normalization	_
+79-12	14402-14403	,	_
+79-13	14404-14407	and	_
+79-14	14408-14415	spatial	_
+79-15	14416-14425	smoothing	_
+79-16	14426-14427	(	_
+79-17	14427-14428	8	_
+79-18	14429-14431	mm	_
+79-19	14431-14432	)	_
+79-20	14432-14433	.	_
+
+Text=Using the default settings in CONN, images were resliced into isotropic 2mm voxels.
+80-1	14434-14439	Using	_
+80-2	14440-14443	the	_
+80-3	14444-14451	default	_
+80-4	14452-14460	settings	_
+80-5	14461-14463	in	_
+80-6	14464-14468	CONN	_
+80-7	14468-14469	,	_
+80-8	14470-14476	images	_
+80-9	14477-14481	were	_
+80-10	14482-14490	resliced	_
+80-11	14491-14495	into	_
+80-12	14496-14505	isotropic	_
+80-13	14506-14509	2mm	_
+80-14	14510-14516	voxels	_
+80-15	14516-14517	.	_
+
+Text=Anatomical volumes were segmented into grey matter, white matter, and cerebrospinal fluid (CSF) areas and the resulting masks were eroded to minimize partial volume effects.
+81-1	14518-14528	Anatomical	_
+81-2	14529-14536	volumes	_
+81-3	14537-14541	were	_
+81-4	14542-14551	segmented	_
+81-5	14552-14556	into	_
+81-6	14557-14561	grey	_
+81-7	14562-14568	matter	_
+81-8	14568-14569	,	_
+81-9	14570-14575	white	_
+81-10	14576-14582	matter	_
+81-11	14582-14583	,	_
+81-12	14584-14587	and	_
+81-13	14588-14601	cerebrospinal	_
+81-14	14602-14607	fluid	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+81-15	14608-14609	(	_
+81-16	14609-14612	CSF	_
+81-17	14612-14613	)	_
+81-18	14614-14619	areas	_
+81-19	14620-14623	and	_
+81-20	14624-14627	the	_
+81-21	14628-14637	resulting	_
+81-22	14638-14643	masks	_
+81-23	14644-14648	were	_
+81-24	14649-14655	eroded	_
+81-25	14656-14658	to	_
+81-26	14659-14667	minimize	_
+81-27	14668-14675	partial	_
+81-28	14676-14682	volume	_
+81-29	14683-14690	effects	_
+81-30	14690-14691	.	_
+
+Text=At the individual level, the temporal timeseries of the participant-specific six rotation-translation motion parameters and the timeseries from within the white matter / CSF masks were used as temporal covariates, and removed from the blood oxygen level-dependent (BOLD) functional data using linear regression.
+82-1	14692-14694	At	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+82-2	14695-14698	the	_
+82-3	14699-14709	individual	_
+82-4	14710-14715	level	_
+82-5	14715-14716	,	_
+82-6	14717-14720	the	_
+82-7	14721-14729	temporal	_
+82-8	14730-14740	timeseries	_
+82-9	14741-14743	of	_
+82-10	14744-14747	the	_
+82-11	14748-14768	participant-specific	_
+82-12	14769-14772	six	_
+82-13	14773-14793	rotation-translation	_
+82-14	14794-14800	motion	_
+82-15	14801-14811	parameters	_
+82-16	14812-14815	and	_
+82-17	14816-14819	the	_
+82-18	14820-14830	timeseries	_
+82-19	14831-14835	from	_
+82-20	14836-14842	within	_
+82-21	14843-14846	the	_
+82-22	14847-14852	white	_
+82-23	14853-14859	matter	_
+82-24	14859-14860	/	_
+82-25	14860-14863	CSF	_
+82-26	14864-14869	masks	_
+82-27	14870-14874	were	_
+82-28	14875-14879	used	_
+82-29	14880-14882	as	_
+82-30	14883-14891	temporal	_
+82-31	14892-14902	covariates	_
+82-32	14902-14903	,	_
+82-33	14904-14907	and	_
+82-34	14908-14915	removed	_
+82-35	14916-14920	from	_
+82-36	14921-14924	the	_
+82-37	14925-14930	blood	_
+82-38	14931-14937	oxygen	_
+82-39	14938-14953	level-dependent	_
+82-40	14954-14955	(	_
+82-41	14955-14959	BOLD	_
+82-42	14959-14960	)	_
+82-43	14961-14971	functional	_
+82-44	14972-14976	data	_
+82-45	14977-14982	using	_
+82-46	14983-14989	linear	_
+82-47	14990-15000	regression	_
+82-48	15000-15001	.	_
+
+Text=The resulting residual BOLD timeseries were band-pass filtered (0.008Hz <f <0.15Hz).
+83-1	15002-15005	The	_
+83-2	15006-15015	resulting	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+83-3	15016-15024	residual	_
+83-4	15025-15029	BOLD	_
+83-5	15030-15040	timeseries	_
+83-6	15041-15045	were	_
+83-7	15046-15055	band-pass	_
+83-8	15056-15064	filtered	_
+83-9	15065-15066	(	_
+83-10	15066-15073	0.008Hz	_
+83-11	15074-15075	<	_
+83-12	15076-15077	f	_
+83-13	15078-15079	<	_
+83-14	15080-15086	0.15Hz	_
+83-15	15086-15087	)	_
+83-16	15087-15088	.	_
+
+Text=Neuroimaging analysis To our knowledge there is no reported sub-division of human GPe with concrete landmark definition and / or Talairach coordinate demarcation.
+84-1	15089-15101	Neuroimaging	_
+84-2	15102-15110	analysis	_
+84-3	15111-15113	To	_
+84-4	15114-15117	our	_
+84-5	15118-15127	knowledge	_
+84-6	15128-15133	there	_
+84-7	15134-15136	is	_
+84-8	15137-15139	no	_
+84-9	15140-15148	reported	_
+84-10	15149-15161	sub-division	_
+84-11	15162-15164	of	_
+84-12	15165-15170	human	_
+84-13	15171-15174	GPe	_
+84-14	15175-15179	with	_
+84-15	15180-15188	concrete	_
+84-16	15189-15197	landmark	_
+84-17	15198-15208	definition	_
+84-18	15209-15212	and	_
+84-19	15212-15213	/	_
+84-20	15213-15215	or	_
+84-21	15216-15225	Talairach	_
+84-22	15226-15236	coordinate	_
+84-23	15237-15248	demarcation	_
+84-24	15248-15249	.	_
+
+Text=Therefore, for these analyses, we used right and left GPe masks obtained from the Lead-DBS toolbox (http: / / www.lead-dbs.org /).
+85-1	15250-15259	Therefore	_
+85-2	15259-15260	,	_
+85-3	15261-15264	for	_
+85-4	15265-15270	these	_
+85-5	15271-15279	analyses	_
+85-6	15279-15280	,	_
+85-7	15281-15283	we	_
+85-8	15284-15288	used	_
+85-9	15289-15294	right	_
+85-10	15295-15298	and	_
+85-11	15299-15303	left	_
+85-12	15304-15307	GPe	_
+85-13	15308-15313	masks	_
+85-14	15314-15322	obtained	_
+85-15	15323-15327	from	_
+85-16	15328-15331	the	_
+85-17	15332-15340	Lead-DBS	_
+85-18	15341-15348	toolbox	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+85-19	15349-15350	(	_
+85-20	15350-15354	http	_
+85-21	15354-15355	:	_
+85-22	15355-15356	/	_
+85-23	15356-15357	/	_
+85-24	15357-15373	www.lead-dbs.org	_
+85-25	15373-15374	/	_
+85-26	15374-15375	)	_
+85-27	15375-15376	.	_
+
+Text=These anatomical masks were generated using manual tracing of several structural MRIs and subsequent co-registration with histological studies, and have a combined volume of approximately 929 mm3.
+86-1	15377-15382	These	_
+86-2	15383-15393	anatomical	_
+86-3	15394-15399	masks	_
+86-4	15400-15404	were	_
+86-5	15405-15414	generated	_
+86-6	15415-15420	using	_
+86-7	15421-15427	manual	_
+86-8	15428-15435	tracing	_
+86-9	15436-15438	of	_
+86-10	15439-15446	several	_
+86-11	15447-15457	structural	_
+86-12	15458-15462	MRIs	_
+86-13	15463-15466	and	_
+86-14	15467-15477	subsequent	_
+86-15	15478-15493	co-registration	_
+86-16	15494-15498	with	_
+86-17	15499-15511	histological	_
+86-18	15512-15519	studies	_
+86-19	15519-15520	,	_
+86-20	15521-15524	and	_
+86-21	15525-15529	have	_
+86-22	15530-15531	a	_
+86-23	15532-15540	combined	_
+86-24	15541-15547	volume	_
+86-25	15548-15550	of	_
+86-26	15551-15564	approximately	_
+86-27	15565-15568	929	_
+86-28	15569-15572	mm3	_
+86-29	15572-15573	.	_
+
+Text=Seed-based correlations were calculated as Fisher-transformed bivariate correlation coefficients between the BOLD activity timeseries in the seed ROI and each other individual voxel BOLD.
+87-1	15574-15584	Seed-based	_
+87-2	15585-15597	correlations	_
+87-3	15598-15602	were	_
+87-4	15603-15613	calculated	_
+87-5	15614-15616	as	_
+87-6	15617-15635	Fisher-transformed	_
+87-7	15636-15645	bivariate	_
+87-8	15646-15657	correlation	_
+87-9	15658-15670	coefficients	_
+87-10	15671-15678	between	_
+87-11	15679-15682	the	_
+87-12	15683-15687	BOLD	_
+87-13	15688-15696	activity	_
+87-14	15697-15707	timeseries	_
+87-15	15708-15710	in	_
+87-16	15711-15714	the	_
+87-17	15715-15719	seed	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+87-18	15720-15723	ROI	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+87-19	15724-15727	and	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+87-20	15728-15732	each	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+87-21	15733-15738	other	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+87-22	15739-15749	individual	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+87-23	15750-15755	voxel	_
+87-24	15756-15760	BOLD	_
+87-25	15760-15761	.	_
+
+Text=CSF, grey matter, white matter signals and motion were included as covariates for this model at the single subject level.
+88-1	15762-15765	CSF	_
+88-2	15765-15766	,	_
+88-3	15767-15771	grey	_
+88-4	15772-15778	matter	_
+88-5	15778-15779	,	_
+88-6	15780-15785	white	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+88-7	15786-15792	matter	_
+88-8	15793-15800	signals	_
+88-9	15801-15804	and	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+88-10	15805-15811	motion	_
+88-11	15812-15816	were	_
+88-12	15817-15825	included	_
+88-13	15826-15828	as	_
+88-14	15829-15839	covariates	_
+88-15	15840-15843	for	_
+88-16	15844-15848	this	_
+88-17	15849-15854	model	_
+88-18	15855-15857	at	_
+88-19	15858-15861	the	_
+88-20	15862-15868	single	_
+88-21	15869-15876	subject	_
+88-22	15877-15882	level	_
+88-23	15882-15883	.	_
+
+Text=These correlations were calculated separately for the pre-infusion and post-infusion scans and for right and left GPe seeds.
+89-1	15884-15889	These	_
+89-2	15890-15902	correlations	_
+89-3	15903-15907	were	_
+89-4	15908-15918	calculated	_
+89-5	15919-15929	separately	_
+89-6	15930-15933	for	_
+89-7	15934-15937	the	_
+89-8	15938-15950	pre-infusion	_
+89-9	15951-15954	and	_
+89-10	15955-15968	post-infusion	_
+89-11	15969-15974	scans	_
+89-12	15975-15978	and	_
+89-13	15979-15982	for	_
+89-14	15983-15988	right	_
+89-15	15989-15992	and	_
+89-16	15993-15997	left	_
+89-17	15998-16001	GPe	_
+89-18	16002-16007	seeds	_
+89-19	16007-16008	.	_
+
+Text=For each of the pre - and post-infusion analyses, 150 time points (across 300 seconds) were used.
+90-1	16009-16012	For	_
+90-2	16013-16017	each	_
+90-3	16018-16020	of	_
+90-4	16021-16024	the	_
+90-5	16025-16028	pre	_
+90-6	16028-16029	-	_
+90-7	16030-16033	and	_
+90-8	16034-16047	post-infusion	_
+90-9	16048-16056	analyses	_
+90-10	16056-16057	,	_
+90-11	16058-16061	150	_
+90-12	16062-16066	time	_
+90-13	16067-16073	points	_
+90-14	16074-16075	(	_
+90-15	16075-16081	across	_
+90-16	16082-16085	300	_
+90-17	16086-16093	seconds	_
+90-18	16093-16094	)	_
+90-19	16095-16099	were	_
+90-20	16100-16104	used	_
+90-21	16104-16105	.	_
+
+Text=To examine group level effects, the resulting single-subject connectivity maps were used as input for second level analyses in a general linear model.
+91-1	16106-16108	To	_
+91-2	16109-16116	examine	_
+91-3	16117-16122	group	_
+91-4	16123-16128	level	_
+91-5	16129-16136	effects	_
+91-6	16136-16137	,	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+91-7	16138-16141	the	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+91-8	16142-16151	resulting	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+91-9	16152-16166	single-subject	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+91-10	16167-16179	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+91-11	16180-16184	maps	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+91-12	16185-16189	were	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+91-13	16190-16194	used	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+91-14	16195-16197	as	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+91-15	16198-16203	input	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+91-16	16204-16207	for	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+91-17	16208-16214	second	_
+91-18	16215-16220	level	_
+91-19	16221-16229	analyses	_
+91-20	16230-16232	in	_
+91-21	16233-16234	a	_
+91-22	16235-16242	general	_
+91-23	16243-16249	linear	_
+91-24	16250-16255	model	_
+91-25	16255-16256	.	_
+
+Text=We modeled the within-subject effect of timepoint (i.e., post - versus pre-alcohol infusion; see S1 File, S1 Fig and S1 Table for report of the main effects of alcohol administration) and between-subject effects of impulsivity (BIS - 11, UPPS-P, and DDT) and recent drinking behaviors (number of drinks in the last 30 days, number of heavy drinking days).
+92-1	16257-16259	We	_
+92-2	16260-16267	modeled	_
+92-3	16268-16271	the	_
+92-4	16272-16286	within-subject	_
+92-5	16287-16293	effect	_
+92-6	16294-16296	of	_
+92-7	16297-16306	timepoint	_
+92-8	16307-16308	(	_
+92-9	16308-16311	i.e	_
+92-10	16311-16312	.	_
+92-11	16312-16313	,	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+92-12	16314-16318	post	_
+92-13	16318-16319	-	_
+92-14	16320-16326	versus	_
+92-15	16327-16338	pre-alcohol	_
+92-16	16339-16347	infusion	_
+92-17	16347-16348	;	_
+92-18	16349-16352	see	_
+92-19	16353-16355	S1	_
+92-20	16356-16360	File	_
+92-21	16360-16361	,	_
+92-22	16362-16364	S1	_
+92-23	16365-16368	Fig	_
+92-24	16369-16372	and	_
+92-25	16373-16375	S1	_
+92-26	16376-16381	Table	_
+92-27	16382-16385	for	_
+92-28	16386-16392	report	_
+92-29	16393-16395	of	_
+92-30	16396-16399	the	_
+92-31	16400-16404	main	_
+92-32	16405-16412	effects	_
+92-33	16413-16415	of	_
+92-34	16416-16423	alcohol	_
+92-35	16424-16438	administration	_
+92-36	16438-16439	)	_
+92-37	16440-16443	and	_
+92-38	16444-16459	between-subject	_
+92-39	16460-16467	effects	_
+92-40	16468-16470	of	_
+92-41	16471-16482	impulsivity	_
+92-42	16483-16484	(	_
+92-43	16484-16487	BIS	_
+92-44	16487-16488	-	_
+92-45	16488-16490	11	_
+92-46	16490-16491	,	_
+92-47	16492-16498	UPPS-P	_
+92-48	16498-16499	,	_
+92-49	16500-16503	and	_
+92-50	16504-16507	DDT	_
+92-51	16507-16508	)	_
+92-52	16509-16512	and	_
+92-53	16513-16519	recent	_
+92-54	16520-16528	drinking	_
+92-55	16529-16538	behaviors	_
+92-56	16539-16540	(	_
+92-57	16540-16546	number	_
+92-58	16547-16549	of	_
+92-59	16550-16556	drinks	_
+92-60	16557-16559	in	_
+92-61	16560-16563	the	_
+92-62	16564-16568	last	_
+92-63	16569-16571	30	_
+92-64	16572-16576	days	_
+92-65	16576-16577	,	_
+92-66	16578-16584	number	_
+92-67	16585-16587	of	_
+92-68	16588-16593	heavy	_
+92-69	16594-16602	drinking	_
+92-70	16603-16607	days	_
+92-71	16607-16608	)	_
+92-72	16608-16609	.	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+
+Text=S1 Table indicates clusters identified as showing significant changes from pre to post alcohol infusion, as well as associated statistics.
+93-1	16610-16612	S1	_
+93-2	16613-16618	Table	_
+93-3	16619-16628	indicates	_
+93-4	16629-16637	clusters	_
+93-5	16638-16648	identified	_
+93-6	16649-16651	as	_
+93-7	16652-16659	showing	_
+93-8	16660-16671	significant	_
+93-9	16672-16679	changes	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+93-10	16680-16684	from	_
+93-11	16685-16688	pre	_
+93-12	16689-16691	to	_
+93-13	16692-16696	post	_
+93-14	16697-16704	alcohol	_
+93-15	16705-16713	infusion	_
+93-16	16713-16714	,	_
+93-17	16715-16717	as	_
+93-18	16718-16722	well	_
+93-19	16723-16725	as	_
+93-20	16726-16736	associated	_
+93-21	16737-16747	statistics	_
+93-22	16747-16748	.	_
+
+Text=For the seed-to-voxel analysis, reported clusters survived a height threshold of uncorrected p <0.001 with a cluster level extent threshold of FDR-corrected p <0.05.
+94-1	16749-16752	For	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+94-2	16753-16756	the	_
+94-3	16757-16770	seed-to-voxel	_
+94-4	16771-16779	analysis	_
+94-5	16779-16780	,	_
+94-6	16781-16789	reported	_
+94-7	16790-16798	clusters	_
+94-8	16799-16807	survived	_
+94-9	16808-16809	a	_
+94-10	16810-16816	height	_
+94-11	16817-16826	threshold	_
+94-12	16827-16829	of	_
+94-13	16830-16841	uncorrected	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+94-14	16842-16843	p	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+94-15	16844-16845	<	_
+94-16	16846-16851	0.001	_
+94-17	16852-16856	with	_
+94-18	16857-16858	a	_
+94-19	16859-16866	cluster	_
+94-20	16867-16872	level	_
+94-21	16873-16879	extent	_
+94-22	16880-16889	threshold	_
+94-23	16890-16892	of	_
+94-24	16893-16906	FDR-corrected	_
+94-25	16907-16908	p	_
+94-26	16909-16910	<	_
+94-27	16911-16915	0.05	_
+94-28	16915-16916	.	_
+
+Text=In Figs 3 – 5, these clusters are shown overlaid on structural brain cutaways.
+95-1	16917-16919	In	_
+95-2	16920-16924	Figs	_
+95-3	16925-16926	3	_
+95-4	16926-16927	–	_
+95-5	16927-16928	5	_
+95-6	16928-16929	,	_
+95-7	16930-16935	these	_
+95-8	16936-16944	clusters	_
+95-9	16945-16948	are	_
+95-10	16949-16954	shown	_
+95-11	16955-16963	overlaid	_
+95-12	16964-16966	on	_
+95-13	16967-16977	structural	_
+95-14	16978-16983	brain	_
+95-15	16984-16992	cutaways	_
+95-16	16992-16993	.	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+
+Text=Corresponding line plots are only for visual interpretation of these effects.
+96-1	16994-17007	Corresponding	_
+96-2	17008-17012	line	_
+96-3	17013-17018	plots	_
+96-4	17019-17022	are	_
+96-5	17023-17027	only	_
+96-6	17028-17031	for	_
+96-7	17032-17038	visual	_
+96-8	17039-17053	interpretation	_
+96-9	17054-17056	of	_
+96-10	17057-17062	these	_
+96-11	17063-17070	effects	_
+96-12	17070-17071	.	_
+
+Text=We also examined sex effects on alcohol-related changes in GPe connectivity at the whole brain level; there were no significant differences between males and females.
+97-1	17072-17074	We	_
+97-2	17075-17079	also	_
+97-3	17080-17088	examined	_
+97-4	17089-17092	sex	_
+97-5	17093-17100	effects	_
+97-6	17101-17103	on	_
+97-7	17104-17119	alcohol-related	_
+97-8	17120-17127	changes	_
+97-9	17128-17130	in	_
+97-10	17131-17134	GPe	_
+97-11	17135-17147	connectivity	_
+97-12	17148-17150	at	_
+97-13	17151-17154	the	_
+97-14	17155-17160	whole	_
+97-15	17161-17166	brain	_
+97-16	17167-17172	level	_
+97-17	17172-17173	;	_
+97-18	17174-17179	there	_
+97-19	17180-17184	were	_
+97-20	17185-17187	no	_
+97-21	17188-17199	significant	_
+97-22	17200-17211	differences	_
+97-23	17212-17219	between	_
+97-24	17220-17225	males	_
+97-25	17226-17229	and	_
+97-26	17230-17237	females	_
+97-27	17237-17238	.	_
+
+Text=In order to test our hypothesis that the interaction between recent drinking behaviors and impulsivity would contribute to alcohol-induced changes in GPe functional connectivity, we extracted ROI-to-voxel correlation values between the seeds and significant clusters and used those values to conduct multiple regression analysis in R / RStudio (version 3.4.2 / 1.1.383).
+98-1	17239-17241	In	_
+98-2	17242-17247	order	_
+98-3	17248-17250	to	_
+98-4	17251-17255	test	_
+98-5	17256-17259	our	_
+98-6	17260-17270	hypothesis	_
+98-7	17271-17275	that	_
+98-8	17276-17279	the	_
+98-9	17280-17291	interaction	_
+98-10	17292-17299	between	_
+98-11	17300-17306	recent	_
+98-12	17307-17315	drinking	_
+98-13	17316-17325	behaviors	_
+98-14	17326-17329	and	_
+98-15	17330-17341	impulsivity	_
+98-16	17342-17347	would	_
+98-17	17348-17358	contribute	_
+98-18	17359-17361	to	_
+98-19	17362-17377	alcohol-induced	_
+98-20	17378-17385	changes	_
+98-21	17386-17388	in	_
+98-22	17389-17392	GPe	_
+98-23	17393-17403	functional	_
+98-24	17404-17416	connectivity	_
+98-25	17416-17417	,	_
+98-26	17418-17420	we	_
+98-27	17421-17430	extracted	_
+98-28	17431-17443	ROI-to-voxel	_
+98-29	17444-17455	correlation	_
+98-30	17456-17462	values	_
+98-31	17463-17470	between	_
+98-32	17471-17474	the	_
+98-33	17475-17480	seeds	_
+98-34	17481-17484	and	_
+98-35	17485-17496	significant	_
+98-36	17497-17505	clusters	_
+98-37	17506-17509	and	_
+98-38	17510-17514	used	_
+98-39	17515-17520	those	_
+98-40	17521-17527	values	_
+98-41	17528-17530	to	_
+98-42	17531-17538	conduct	_
+98-43	17539-17547	multiple	_
+98-44	17548-17558	regression	_
+98-45	17559-17567	analysis	_
+98-46	17568-17570	in	_
+98-47	17571-17572	R	_
+98-48	17572-17573	/	_
+98-49	17573-17580	RStudio	_
+98-50	17581-17582	(	_
+98-51	17582-17589	version	_
+98-52	17590-17595	3.4.2	_
+98-53	17595-17596	/	_
+98-54	17596-17603	1.1.383	_
+98-55	17603-17604	)	_
+98-56	17604-17605	.	_
+
+Text=We modeled drinking history, impulsivity, and the interaction between the two as independent variables on the dependent variable of change in GPe connectivity.
+99-1	17606-17608	We	_
+99-2	17609-17616	modeled	_
+99-3	17617-17625	drinking	_
+99-4	17626-17633	history	_
+99-5	17633-17634	,	_
+99-6	17635-17646	impulsivity	_
+99-7	17646-17647	,	_
+99-8	17648-17651	and	_
+99-9	17652-17655	the	_
+99-10	17656-17667	interaction	_
+99-11	17668-17675	between	_
+99-12	17676-17679	the	_
+99-13	17680-17683	two	_
+99-14	17684-17686	as	_
+99-15	17687-17698	independent	_
+99-16	17699-17708	variables	_
+99-17	17709-17711	on	_
+99-18	17712-17715	the	_
+99-19	17716-17725	dependent	_
+99-20	17726-17734	variable	_
+99-21	17735-17737	of	_
+99-22	17738-17744	change	_
+99-23	17745-17747	in	_
+99-24	17748-17751	GPe	_
+99-25	17752-17764	connectivity	_
+99-26	17764-17765	.	_
+
+Text=We conducted these analyses only for significant clusters identified in the seed-to-voxel analysis, and only for the significant drinking and impulsivity measures.
+100-1	17766-17768	We	_
+100-2	17769-17778	conducted	_
+100-3	17779-17784	these	_
+100-4	17785-17793	analyses	_
+100-5	17794-17798	only	_
+100-6	17799-17802	for	_
+100-7	17803-17814	significant	_
+100-8	17815-17823	clusters	_
+100-9	17824-17834	identified	_
+100-10	17835-17837	in	_
+100-11	17838-17841	the	_
+100-12	17842-17855	seed-to-voxel	_
+100-13	17856-17864	analysis	_
+100-14	17864-17865	,	_
+100-15	17866-17869	and	_
+100-16	17870-17874	only	_
+100-17	17875-17878	for	_
+100-18	17879-17882	the	_
+100-19	17883-17894	significant	_
+100-20	17895-17903	drinking	_
+100-21	17904-17907	and	_
+100-22	17908-17919	impulsivity	_
+100-23	17920-17928	measures	_
+100-24	17928-17929	.	_
+
+Text=For the drinking measures identified in that seed-to-voxel analysis, models (for the specific significant cluster only) included the significant drinking variable as well as one of the two significant impulsivity variables; thus, 2 regressions per cluster were run.
+101-1	17930-17933	For	_
+101-2	17934-17937	the	_
+101-3	17938-17946	drinking	_
+101-4	17947-17955	measures	_
+101-5	17956-17966	identified	_
+101-6	17967-17969	in	_
+101-7	17970-17974	that	_
+101-8	17975-17988	seed-to-voxel	_
+101-9	17989-17997	analysis	_
+101-10	17997-17998	,	_
+101-11	17999-18005	models	_
+101-12	18006-18007	(	_
+101-13	18007-18010	for	_
+101-14	18011-18014	the	_
+101-15	18015-18023	specific	_
+101-16	18024-18035	significant	_
+101-17	18036-18043	cluster	_
+101-18	18044-18048	only	_
+101-19	18048-18049	)	_
+101-20	18050-18058	included	_
+101-21	18059-18062	the	_
+101-22	18063-18074	significant	_
+101-23	18075-18083	drinking	_
+101-24	18084-18092	variable	_
+101-25	18093-18095	as	_
+101-26	18096-18100	well	_
+101-27	18101-18103	as	_
+101-28	18104-18107	one	_
+101-29	18108-18110	of	_
+101-30	18111-18114	the	_
+101-31	18115-18118	two	_
+101-32	18119-18130	significant	_
+101-33	18131-18142	impulsivity	_
+101-34	18143-18152	variables	_
+101-35	18152-18153	;	_
+101-36	18154-18158	thus	_
+101-37	18158-18159	,	_
+101-38	18160-18161	2	_
+101-39	18162-18173	regressions	_
+101-40	18174-18177	per	_
+101-41	18178-18185	cluster	_
+101-42	18186-18190	were	_
+101-43	18191-18194	run	_
+101-44	18194-18195	.	_
+
+Text=Similarly, for significant impulsivity measures, 2 regressions per cluster were run (as there are two drinking variables).
+102-1	18196-18205	Similarly	_
+102-2	18205-18206	,	_
+102-3	18207-18210	for	_
+102-4	18211-18222	significant	_
+102-5	18223-18234	impulsivity	_
+102-6	18235-18243	measures	_
+102-7	18243-18244	,	_
+102-8	18245-18246	2	_
+102-9	18247-18258	regressions	_
+102-10	18259-18262	per	_
+102-11	18263-18270	cluster	_
+102-12	18271-18275	were	_
+102-13	18276-18279	run	_
+102-14	18280-18281	(	_
+102-15	18281-18283	as	_
+102-16	18284-18289	there	_
+102-17	18290-18293	are	_
+102-18	18294-18297	two	_
+102-19	18298-18306	drinking	_
+102-20	18307-18316	variables	_
+102-21	18316-18317	)	_
+102-22	18317-18318	.	_
+
+Text=This resulted in a total of 20 tests.
+103-1	18319-18323	This	_
+103-2	18324-18332	resulted	_
+103-3	18333-18335	in	_
+103-4	18336-18337	a	_
+103-5	18338-18343	total	_
+103-6	18344-18346	of	_
+103-7	18347-18349	20	_
+103-8	18350-18355	tests	_
+103-9	18355-18356	.	_
+
+Text=We then adjusted the omnibus test statistics to correct for multiple comparisons using FDR of <0.05.
+104-1	18357-18359	We	_
+104-2	18360-18364	then	_
+104-3	18365-18373	adjusted	_
+104-4	18374-18377	the	_
+104-5	18378-18385	omnibus	_
+104-6	18386-18390	test	_
+104-7	18391-18401	statistics	_
+104-8	18402-18404	to	_
+104-9	18405-18412	correct	_
+104-10	18413-18416	for	_
+104-11	18417-18425	multiple	_
+104-12	18426-18437	comparisons	_
+104-13	18438-18443	using	_
+104-14	18444-18447	FDR	_
+104-15	18448-18450	of	_
+104-16	18451-18452	<	_
+104-17	18453-18457	0.05	_
+104-18	18457-18458	.	_
+
+Text=Of those regressions, only those with significant interaction effects are reported.
+105-1	18459-18461	Of	_
+105-2	18462-18467	those	_
+105-3	18468-18479	regressions	_
+105-4	18479-18480	,	_
+105-5	18481-18485	only	_
+105-6	18486-18491	those	_
+105-7	18492-18496	with	_
+105-8	18497-18508	significant	_
+105-9	18509-18520	interaction	_
+105-10	18521-18528	effects	_
+105-11	18529-18532	are	_
+105-12	18533-18541	reported	_
+105-13	18541-18542	.	_
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+

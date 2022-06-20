@@ -1,0 +1,4761 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.ConceptLayer|identifier
+
+
+#Human Annotation
+Text=Modeling subjective relevance in schizophrenia and its relation to aberrant salience In schizophrenia, increased aberrant salience to irrelevant events and reduced learning of relevant information may relate to an underlying deficit in relevance detection.
+1-1	0-8	Modeling	_
+1-2	9-19	subjective	_
+1-3	20-29	relevance	_
+1-4	30-32	in	_
+1-5	33-46	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-6	47-50	and	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-7	51-54	its	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-8	55-63	relation	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-9	64-66	to	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-10	67-75	aberrant	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-11	76-84	salience	_
+1-12	85-87	In	_
+1-13	88-101	schizophrenia	_
+1-14	101-102	,	_
+1-15	103-112	increased	_
+1-16	113-121	aberrant	_
+1-17	122-130	salience	_
+1-18	131-133	to	_
+1-19	134-144	irrelevant	_
+1-20	145-151	events	_
+1-21	152-155	and	_
+1-22	156-163	reduced	_
+1-23	164-172	learning	_
+1-24	173-175	of	_
+1-25	176-184	relevant	_
+1-26	185-196	information	_
+1-27	197-200	may	_
+1-28	201-207	relate	_
+1-29	208-210	to	_
+1-30	211-213	an	_
+1-31	214-224	underlying	_
+1-32	225-232	deficit	_
+1-33	233-235	in	_
+1-34	236-245	relevance	_
+1-35	246-255	detection	_
+1-36	255-256	.	_
+
+Text=So far, subjective estimates of relevance have not been probed in schizophrenia patients.
+2-1	257-259	So	_
+2-2	260-263	far	_
+2-3	263-264	,	_
+2-4	265-275	subjective	_
+2-5	276-285	estimates	_
+2-6	286-288	of	_
+2-7	289-298	relevance	_
+2-8	299-303	have	_
+2-9	304-307	not	_
+2-10	308-312	been	_
+2-11	313-319	probed	_
+2-12	320-322	in	_
+2-13	323-336	schizophrenia	_
+2-14	337-345	patients	_
+2-15	345-346	.	_
+
+Text=The mechanisms underlying belief formation about relevance and their translation into decisions are unclear.
+3-1	347-350	The	_
+3-2	351-361	mechanisms	_
+3-3	362-372	underlying	_
+3-4	373-379	belief	_
+3-5	380-389	formation	_
+3-6	390-395	about	_
+3-7	396-405	relevance	_
+3-8	406-409	and	_
+3-9	410-415	their	_
+3-10	416-427	translation	_
+3-11	428-432	into	_
+3-12	433-442	decisions	_
+3-13	443-446	are	_
+3-14	447-454	unclear	_
+3-15	454-455	.	_
+
+Text=Using novel computational methods, we investigated relevance detection during implicit learning in 42 schizophrenia patients and 42 healthy individuals.
+4-1	456-461	Using	_
+4-2	462-467	novel	_
+4-3	468-481	computational	_
+4-4	482-489	methods	_
+4-5	489-490	,	_
+4-6	491-493	we	_
+4-7	494-506	investigated	_
+4-8	507-516	relevance	_
+4-9	517-526	detection	_
+4-10	527-533	during	_
+4-11	534-542	implicit	_
+4-12	543-551	learning	_
+4-13	552-554	in	_
+4-14	555-557	42	_
+4-15	558-571	schizophrenia	_
+4-16	572-580	patients	_
+4-17	581-584	and	_
+4-18	585-587	42	_
+4-19	588-595	healthy	_
+4-20	596-607	individuals	_
+4-21	607-608	.	_
+
+Text=Participants underwent functional magnetic resonance imaging while detecting the outcomes in a learning task.
+5-1	609-621	Participants	_
+5-2	622-631	underwent	_
+5-3	632-642	functional	_
+5-4	643-651	magnetic	_
+5-5	652-661	resonance	_
+5-6	662-669	imaging	_
+5-7	670-675	while	_
+5-8	676-685	detecting	_
+5-9	686-689	the	_
+5-10	690-698	outcomes	_
+5-11	699-701	in	_
+5-12	702-703	a	_
+5-13	704-712	learning	_
+5-14	713-717	task	_
+5-15	717-718	.	_
+
+Text=These were preceded by cues differing in color and shape, which were either relevant or irrelevant for outcome prediction.
+6-1	719-724	These	_
+6-2	725-729	were	_
+6-3	730-738	preceded	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+6-4	739-741	by	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+6-5	742-746	cues	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+6-6	747-756	differing	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+6-7	757-759	in	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+6-8	760-765	color	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+6-9	766-769	and	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+6-10	770-775	shape	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+6-11	775-776	,	_
+6-12	777-782	which	_
+6-13	783-787	were	_
+6-14	788-794	either	_
+6-15	795-803	relevant	_
+6-16	804-806	or	_
+6-17	807-817	irrelevant	_
+6-18	818-821	for	_
+6-19	822-829	outcome	_
+6-20	830-840	prediction	_
+6-21	840-841	.	_
+
+Text=We provided a novel definition of relevance based on Bayesian precision and modeled reaction times as a function of relevance weighted unsigned prediction errors (UPE).
+7-1	842-844	We	_
+7-2	845-853	provided	_
+7-3	854-855	a	_
+7-4	856-861	novel	_
+7-5	862-872	definition	_
+7-6	873-875	of	_
+7-7	876-885	relevance	_
+7-8	886-891	based	_
+7-9	892-894	on	_
+7-10	895-903	Bayesian	_
+7-11	904-913	precision	_
+7-12	914-917	and	_
+7-13	918-925	modeled	_
+7-14	926-934	reaction	_
+7-15	935-940	times	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-16	941-943	as	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-17	944-945	a	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-18	946-954	function	_
+7-19	955-957	of	_
+7-20	958-967	relevance	_
+7-21	968-976	weighted	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+7-22	977-985	unsigned	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+7-23	986-996	prediction	_
+7-24	997-1003	errors	_
+7-25	1004-1005	(	_
+7-26	1005-1008	UPE	_
+7-27	1008-1009	)	_
+7-28	1009-1010	.	_
+
+Text=For aberrant salience, we assessed responses to subjectively irrelevant cue manifestations.
+8-1	1011-1014	For	_
+8-2	1015-1023	aberrant	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+8-3	1024-1032	salience	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+8-4	1032-1033	,	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+8-5	1034-1036	we	_
+8-6	1037-1045	assessed	_
+8-7	1046-1055	responses	_
+8-8	1056-1058	to	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-9	1059-1071	subjectively	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-10	1072-1082	irrelevant	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-11	1083-1086	cue	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-12	1087-1101	manifestations	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-13	1101-1102	.	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+
+Text=Participants learned the contingencies and slowed down their responses following unexpected events.
+9-1	1103-1115	Participants	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+9-2	1116-1123	learned	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+9-3	1124-1127	the	_
+9-4	1128-1141	contingencies	_
+9-5	1142-1145	and	_
+9-6	1146-1152	slowed	_
+9-7	1153-1157	down	_
+9-8	1158-1163	their	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+9-9	1164-1173	responses	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+9-10	1174-1183	following	_
+9-11	1184-1194	unexpected	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+9-12	1195-1201	events	_
+9-13	1201-1202	.	_
+
+Text=Model selection revealed that individuals inferred the relevance of cue features and used it for behavioral adaption to the relevant cue feature.
+10-1	1203-1208	Model	_
+10-2	1209-1218	selection	_
+10-3	1219-1227	revealed	_
+10-4	1228-1232	that	_
+10-5	1233-1244	individuals	_
+10-6	1245-1253	inferred	_
+10-7	1254-1257	the	_
+10-8	1258-1267	relevance	_
+10-9	1268-1270	of	_
+10-10	1271-1274	cue	_
+10-11	1275-1283	features	_
+10-12	1284-1287	and	_
+10-13	1288-1292	used	_
+10-14	1293-1295	it	_
+10-15	1296-1299	for	_
+10-16	1300-1310	behavioral	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+10-17	1311-1319	adaption	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+10-18	1320-1322	to	_
+10-19	1323-1326	the	_
+10-20	1327-1335	relevant	_
+10-21	1336-1339	cue	_
+10-22	1340-1347	feature	_
+10-23	1347-1348	.	_
+
+Text=Relevance weighted UPEs correlated with dorsal anterior cingulate cortex activation and hippocampus deactivation.
+11-1	1349-1358	Relevance	_
+11-2	1359-1367	weighted	_
+11-3	1368-1372	UPEs	_
+11-4	1373-1383	correlated	_
+11-5	1384-1388	with	_
+11-6	1389-1395	dorsal	_
+11-7	1396-1404	anterior	_
+11-8	1405-1414	cingulate	_
+11-9	1415-1421	cortex	_
+11-10	1422-1432	activation	_
+11-11	1433-1436	and	_
+11-12	1437-1448	hippocampus	_
+11-13	1449-1461	deactivation	_
+11-14	1461-1462	.	_
+
+Text=In patients, the aberrant salience bias to subjectively task-irrelevant information was increased and correlated with decreased striatal UPE activation and increased negative symptoms.
+12-1	1463-1465	In	_
+12-2	1466-1474	patients	_
+12-3	1474-1475	,	_
+12-4	1476-1479	the	_
+12-5	1480-1488	aberrant	_
+12-6	1489-1497	salience	_
+12-7	1498-1502	bias	_
+12-8	1503-1505	to	_
+12-9	1506-1518	subjectively	_
+12-10	1519-1534	task-irrelevant	_
+12-11	1535-1546	information	_
+12-12	1547-1550	was	_
+12-13	1551-1560	increased	_
+12-14	1561-1564	and	_
+12-15	1565-1575	correlated	_
+12-16	1576-1580	with	_
+12-17	1581-1590	decreased	_
+12-18	1591-1599	striatal	_
+12-19	1600-1603	UPE	_
+12-20	1604-1614	activation	_
+12-21	1615-1618	and	_
+12-22	1619-1628	increased	_
+12-23	1629-1637	negative	_
+12-24	1638-1646	symptoms	_
+12-25	1646-1647	.	_
+
+Text=This study shows that relevance estimates based on Bayesian precision can be inferred from observed behavior.
+13-1	1648-1652	This	_
+13-2	1653-1658	study	_
+13-3	1659-1664	shows	_
+13-4	1665-1669	that	_
+13-5	1670-1679	relevance	_
+13-6	1680-1689	estimates	_
+13-7	1690-1695	based	_
+13-8	1696-1698	on	_
+13-9	1699-1707	Bayesian	_
+13-10	1708-1717	precision	_
+13-11	1718-1721	can	_
+13-12	1722-1724	be	_
+13-13	1725-1733	inferred	_
+13-14	1734-1738	from	_
+13-15	1739-1747	observed	_
+13-16	1748-1756	behavior	_
+13-17	1756-1757	.	_
+
+Text=This underscores the importance of relevance detection as an underlying mechanism for behavioral adaptation in complex environments and enhances the understanding of aberrant salience in schizophrenia.
+14-1	1758-1762	This	_
+14-2	1763-1774	underscores	_
+14-3	1775-1778	the	_
+14-4	1779-1789	importance	_
+14-5	1790-1792	of	_
+14-6	1793-1802	relevance	_
+14-7	1803-1812	detection	_
+14-8	1813-1815	as	_
+14-9	1816-1818	an	_
+14-10	1819-1829	underlying	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+14-11	1830-1839	mechanism	_
+14-12	1840-1843	for	_
+14-13	1844-1854	behavioral	_
+14-14	1855-1865	adaptation	_
+14-15	1866-1868	in	_
+14-16	1869-1876	complex	_
+14-17	1877-1889	environments	_
+14-18	1890-1893	and	_
+14-19	1894-1902	enhances	_
+14-20	1903-1906	the	_
+14-21	1907-1920	understanding	_
+14-22	1921-1923	of	_
+14-23	1924-1932	aberrant	_
+14-24	1933-1941	salience	_
+14-25	1942-1944	in	_
+14-26	1945-1958	schizophrenia	_
+14-27	1958-1959	.	_
+
+Text=Author summary Schizophrenia patients display deficits in the appropriate attribution of meaningfulness to stimuli; such as aberrantly increased processing of irrelevant and insufficient processing of relevant information.
+15-1	1960-1966	Author	_
+15-2	1967-1974	summary	_
+15-3	1975-1988	Schizophrenia	_
+15-4	1989-1997	patients	_
+15-5	1998-2005	display	_
+15-6	2006-2014	deficits	_
+15-7	2015-2017	in	_
+15-8	2018-2021	the	_
+15-9	2022-2033	appropriate	_
+15-10	2034-2045	attribution	_
+15-11	2046-2048	of	_
+15-12	2049-2063	meaningfulness	_
+15-13	2064-2066	to	_
+15-14	2067-2074	stimuli	_
+15-15	2074-2075	;	_
+15-16	2076-2080	such	_
+15-17	2081-2083	as	_
+15-18	2084-2094	aberrantly	_
+15-19	2095-2104	increased	_
+15-20	2105-2115	processing	_
+15-21	2116-2118	of	_
+15-22	2119-2129	irrelevant	_
+15-23	2130-2133	and	_
+15-24	2134-2146	insufficient	_
+15-25	2147-2157	processing	_
+15-26	2158-2160	of	_
+15-27	2161-2169	relevant	_
+15-28	2170-2181	information	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+15-29	2181-2182	.	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+
+Text=We aimed to investigate the subjective nature of relevance detection and its deficit in schizophrenia and developed an implicit learning paradigm that allowed for parallel learning from relevant and irrelevant information.
+16-1	2183-2185	We	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+16-2	2186-2191	aimed	_
+16-3	2192-2194	to	_
+16-4	2195-2206	investigate	_
+16-5	2207-2210	the	_
+16-6	2211-2221	subjective	_
+16-7	2222-2228	nature	_
+16-8	2229-2231	of	_
+16-9	2232-2241	relevance	_
+16-10	2242-2251	detection	_
+16-11	2252-2255	and	_
+16-12	2256-2259	its	_
+16-13	2260-2267	deficit	_
+16-14	2268-2270	in	_
+16-15	2271-2284	schizophrenia	_
+16-16	2285-2288	and	_
+16-17	2289-2298	developed	_
+16-18	2299-2301	an	_
+16-19	2302-2310	implicit	_
+16-20	2311-2319	learning	_
+16-21	2320-2328	paradigm	_
+16-22	2329-2333	that	_
+16-23	2334-2341	allowed	_
+16-24	2342-2345	for	_
+16-25	2346-2354	parallel	_
+16-26	2355-2363	learning	_
+16-27	2364-2368	from	_
+16-28	2369-2377	relevant	_
+16-29	2378-2381	and	_
+16-30	2382-2392	irrelevant	_
+16-31	2393-2404	information	_
+16-32	2404-2405	.	_
+
+Text=Based on the idea that subjective relevance might be captured by Bayesian precision we set up different computational models of how subjective relevance guides learning and behavioral adaptation.
+17-1	2406-2411	Based	_
+17-2	2412-2414	on	_
+17-3	2415-2418	the	_
+17-4	2419-2423	idea	_
+17-5	2424-2428	that	_
+17-6	2429-2439	subjective	_
+17-7	2440-2449	relevance	_
+17-8	2450-2455	might	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+17-9	2456-2458	be	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+17-10	2459-2467	captured	_
+17-11	2468-2470	by	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+17-12	2471-2479	Bayesian	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+17-13	2480-2489	precision	_
+17-14	2490-2492	we	_
+17-15	2493-2496	set	_
+17-16	2497-2499	up	_
+17-17	2500-2509	different	_
+17-18	2510-2523	computational	_
+17-19	2524-2530	models	_
+17-20	2531-2533	of	_
+17-21	2534-2537	how	_
+17-22	2538-2548	subjective	_
+17-23	2549-2558	relevance	_
+17-24	2559-2565	guides	_
+17-25	2566-2574	learning	_
+17-26	2575-2578	and	_
+17-27	2579-2589	behavioral	_
+17-28	2590-2600	adaptation	_
+17-29	2600-2601	.	_
+
+Text=We found that subjects use Bayesian precision to estimate stimulus relevance in order to integrate multidimensional information and adapt more to the subjectively relevant stimuli.
+18-1	2602-2604	We	_
+18-2	2605-2610	found	_
+18-3	2611-2615	that	_
+18-4	2616-2624	subjects	_
+18-5	2625-2628	use	_
+18-6	2629-2637	Bayesian	_
+18-7	2638-2647	precision	_
+18-8	2648-2650	to	_
+18-9	2651-2659	estimate	_
+18-10	2660-2668	stimulus	_
+18-11	2669-2678	relevance	_
+18-12	2679-2681	in	_
+18-13	2682-2687	order	_
+18-14	2688-2690	to	_
+18-15	2691-2700	integrate	_
+18-16	2701-2717	multidimensional	_
+18-17	2718-2729	information	_
+18-18	2730-2733	and	_
+18-19	2734-2739	adapt	_
+18-20	2740-2744	more	_
+18-21	2745-2747	to	_
+18-22	2748-2751	the	_
+18-23	2752-2764	subjectively	_
+18-24	2765-2773	relevant	_
+18-25	2774-2781	stimuli	_
+18-26	2781-2782	.	_
+
+Text=This relevance weighted adaptation correlated with brain activation within the salience network.
+19-1	2783-2787	This	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
+19-2	2788-2797	relevance	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
+19-3	2798-2806	weighted	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
+19-4	2807-2817	adaptation	_
+19-5	2818-2828	correlated	_
+19-6	2829-2833	with	_
+19-7	2834-2839	brain	_
+19-8	2840-2850	activation	_
+19-9	2851-2857	within	_
+19-10	2858-2861	the	_
+19-11	2862-2870	salience	_
+19-12	2871-2878	network	_
+19-13	2878-2879	.	_
+
+Text=Further, schizophrenia patients displayed an increased aberrant tendency to irrelevant events which related to decreased striatal coding of the relevant learning signal.
+20-1	2880-2887	Further	_
+20-2	2887-2888	,	_
+20-3	2889-2902	schizophrenia	_
+20-4	2903-2911	patients	_
+20-5	2912-2921	displayed	_
+20-6	2922-2924	an	_
+20-7	2925-2934	increased	_
+20-8	2935-2943	aberrant	_
+20-9	2944-2952	tendency	_
+20-10	2953-2955	to	_
+20-11	2956-2966	irrelevant	_
+20-12	2967-2973	events	_
+20-13	2974-2979	which	_
+20-14	2980-2987	related	_
+20-15	2988-2990	to	_
+20-16	2991-3000	decreased	_
+20-17	3001-3009	striatal	_
+20-18	3010-3016	coding	_
+20-19	3017-3019	of	_
+20-20	3020-3023	the	_
+20-21	3024-3032	relevant	_
+20-22	3033-3041	learning	_
+20-23	3042-3048	signal	_
+20-24	3048-3049	.	_
+
+Text=To conclude, our findings demonstrate how individual beliefs about relevance can be inferred from computational models.
+21-1	3050-3052	To	_
+21-2	3053-3061	conclude	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+21-3	3061-3062	,	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+21-4	3063-3066	our	_
+21-5	3067-3075	findings	_
+21-6	3076-3087	demonstrate	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+21-7	3088-3091	how	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+21-8	3092-3102	individual	_
+21-9	3103-3110	beliefs	_
+21-10	3111-3116	about	_
+21-11	3117-3126	relevance	_
+21-12	3127-3130	can	_
+21-13	3131-3133	be	_
+21-14	3134-3142	inferred	_
+21-15	3143-3147	from	_
+21-16	3148-3161	computational	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+21-17	3162-3168	models	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+21-18	3168-3169	.	_
+
+Text=Furthermore, we suggest that aberrant salience observed in patients with schizophrenia reflects an idiosyncratic bias in states of high subjective uncertainty.
+22-1	3170-3181	Furthermore	_
+22-2	3181-3182	,	_
+22-3	3183-3185	we	_
+22-4	3186-3193	suggest	_
+22-5	3194-3198	that	_
+22-6	3199-3207	aberrant	_
+22-7	3208-3216	salience	_
+22-8	3217-3225	observed	_
+22-9	3226-3228	in	_
+22-10	3229-3237	patients	_
+22-11	3238-3242	with	_
+22-12	3243-3256	schizophrenia	_
+22-13	3257-3265	reflects	_
+22-14	3266-3268	an	_
+22-15	3269-3282	idiosyncratic	_
+22-16	3283-3287	bias	_
+22-17	3288-3290	in	_
+22-18	3291-3297	states	_
+22-19	3298-3300	of	_
+22-20	3301-3305	high	_
+22-21	3306-3316	subjective	_
+22-22	3317-3328	uncertainty	_
+22-23	3328-3329	.	_
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=Materials and methods Ethics statement All participants gave written informed consent and received monetary compensation as well as the total wins of the task battery.
+81-1	13468-13477	Materials	_
+81-2	13478-13481	and	_
+81-3	13482-13489	methods	_
+81-4	13490-13496	Ethics	_
+81-5	13497-13506	statement	_
+81-6	13507-13510	All	_
+81-7	13511-13523	participants	_
+81-8	13524-13528	gave	_
+81-9	13529-13536	written	_
+81-10	13537-13545	informed	_
+81-11	13546-13553	consent	_
+81-12	13554-13557	and	_
+81-13	13558-13566	received	_
+81-14	13567-13575	monetary	_
+81-15	13576-13588	compensation	_
+81-16	13589-13591	as	_
+81-17	13592-13596	well	_
+81-18	13597-13599	as	_
+81-19	13600-13603	the	_
+81-20	13604-13609	total	_
+81-21	13610-13614	wins	_
+81-22	13615-13617	of	_
+81-23	13618-13621	the	_
+81-24	13622-13626	task	_
+81-25	13627-13634	battery	_
+81-26	13634-13635	.	_
+
+Text=The study was performed in accordance with the Declaration of Helsinki and was approved by the local ethics committee of Charité Universitätsmedizin.
+82-1	13636-13639	The	_
+82-2	13640-13645	study	_
+82-3	13646-13649	was	_
+82-4	13650-13659	performed	_
+82-5	13660-13662	in	_
+82-6	13663-13673	accordance	_
+82-7	13674-13678	with	_
+82-8	13679-13682	the	_
+82-9	13683-13694	Declaration	_
+82-10	13695-13697	of	_
+82-11	13698-13706	Helsinki	_
+82-12	13707-13710	and	_
+82-13	13711-13714	was	_
+82-14	13715-13723	approved	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+82-15	13724-13726	by	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+82-16	13727-13730	the	_
+82-17	13731-13736	local	_
+82-18	13737-13743	ethics	_
+82-19	13744-13753	committee	_
+82-20	13754-13756	of	_
+82-21	13757-13764	Charité	_
+82-22	13765-13784	Universitätsmedizin	_
+82-23	13784-13785	.	_
+
+Text=Participants In total, 42 schizophrenia patients and a matched healthy control group of 42 individuals participated in this study.
+83-1	13786-13798	Participants	_
+83-2	13799-13801	In	_
+83-3	13802-13807	total	_
+83-4	13807-13808	,	_
+83-5	13809-13811	42	_
+83-6	13812-13825	schizophrenia	_
+83-7	13826-13834	patients	_
+83-8	13835-13838	and	_
+83-9	13839-13840	a	_
+83-10	13841-13848	matched	_
+83-11	13849-13856	healthy	_
+83-12	13857-13864	control	_
+83-13	13865-13870	group	_
+83-14	13871-13873	of	_
+83-15	13874-13876	42	_
+83-16	13877-13888	individuals	_
+83-17	13889-13901	participated	_
+83-18	13902-13904	in	_
+83-19	13905-13909	this	_
+83-20	13910-13915	study	_
+83-21	13915-13916	.	_
+
+Text=Healthy individuals reported no past or present psychiatric disorder according to the SKID-I.
+84-1	13917-13924	Healthy	_
+84-2	13925-13936	individuals	_
+84-3	13937-13945	reported	_
+84-4	13946-13948	no	_
+84-5	13949-13953	past	_
+84-6	13954-13956	or	_
+84-7	13957-13964	present	_
+84-8	13965-13976	psychiatric	_
+84-9	13977-13985	disorder	_
+84-10	13986-13995	according	_
+84-11	13996-13998	to	_
+84-12	13999-14002	the	_
+84-13	14003-14009	SKID-I	_
+84-14	14009-14010	.	_
+
+Text=Patients were diagnosed with schizophrenia according to the DSM-IV and ICD - 10.
+85-1	14011-14019	Patients	_
+85-2	14020-14024	were	_
+85-3	14025-14034	diagnosed	_
+85-4	14035-14039	with	_
+85-5	14040-14053	schizophrenia	_
+85-6	14054-14063	according	_
+85-7	14064-14066	to	_
+85-8	14067-14070	the	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+85-9	14071-14077	DSM-IV	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+85-10	14078-14081	and	_
+85-11	14082-14085	ICD	_
+85-12	14085-14086	-	_
+85-13	14086-14088	10	_
+85-14	14088-14089	.	_
+
+Text=Psychopathology was assessed using the Positive and Negative Syndrome Scale (PANSS) as well as the subscale for delusions and anhedonia of the Scale for the Assessment of Positive (SAPS) and Negative Symptoms (SANS), respectively (for information on demographics and psychopathology, see Table 1).
+86-1	14090-14105	Psychopathology	_
+86-2	14106-14109	was	_
+86-3	14110-14118	assessed	_
+86-4	14119-14124	using	_
+86-5	14125-14128	the	_
+86-6	14129-14137	Positive	_
+86-7	14138-14141	and	_
+86-8	14142-14150	Negative	_
+86-9	14151-14159	Syndrome	_
+86-10	14160-14165	Scale	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+86-11	14166-14167	(	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+86-12	14167-14172	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+86-13	14172-14173	)	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+86-14	14174-14176	as	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+86-15	14177-14181	well	_
+86-16	14182-14184	as	_
+86-17	14185-14188	the	_
+86-18	14189-14197	subscale	_
+86-19	14198-14201	for	_
+86-20	14202-14211	delusions	_
+86-21	14212-14215	and	_
+86-22	14216-14225	anhedonia	_
+86-23	14226-14228	of	_
+86-24	14229-14232	the	_
+86-25	14233-14238	Scale	_
+86-26	14239-14242	for	_
+86-27	14243-14246	the	_
+86-28	14247-14257	Assessment	_
+86-29	14258-14260	of	_
+86-30	14261-14269	Positive	_
+86-31	14270-14271	(	_
+86-32	14271-14275	SAPS	_
+86-33	14275-14276	)	_
+86-34	14277-14280	and	_
+86-35	14281-14289	Negative	_
+86-36	14290-14298	Symptoms	_
+86-37	14299-14300	(	_
+86-38	14300-14304	SANS	_
+86-39	14304-14305	)	_
+86-40	14305-14306	,	_
+86-41	14307-14319	respectively	_
+86-42	14320-14321	(	_
+86-43	14321-14324	for	_
+86-44	14325-14336	information	_
+86-45	14337-14339	on	_
+86-46	14340-14352	demographics	_
+86-47	14353-14356	and	_
+86-48	14357-14372	psychopathology	_
+86-49	14372-14373	,	_
+86-50	14374-14377	see	_
+86-51	14378-14383	Table	_
+86-52	14384-14385	1	_
+86-53	14385-14386	)	_
+86-54	14386-14387	.	_
+
+Text=All patients were on antipsychotic medication (for more details, see Table A in the Supplement).
+87-1	14388-14391	All	_
+87-2	14392-14400	patients	_
+87-3	14401-14405	were	_
+87-4	14406-14408	on	_
+87-5	14409-14422	antipsychotic	_
+87-6	14423-14433	medication	_
+87-7	14434-14435	(	_
+87-8	14435-14438	for	_
+87-9	14439-14443	more	_
+87-10	14444-14451	details	_
+87-11	14451-14452	,	_
+87-12	14453-14456	see	_
+87-13	14457-14462	Table	_
+87-14	14463-14464	A	_
+87-15	14465-14467	in	_
+87-16	14468-14471	the	_
+87-17	14472-14482	Supplement	_
+87-18	14482-14483	)	_
+87-19	14483-14484	.	_
+
+Text=They were recruited from the inpatient and outpatient units of the Department of Psychiatry and Psychotherapy, Charité-Universitätsmedizin Berlin and the Psychiatric Department of the Schlossparkklinik Berlin.
+88-1	14485-14489	They	_
+88-2	14490-14494	were	_
+88-3	14495-14504	recruited	_
+88-4	14505-14509	from	_
+88-5	14510-14513	the	_
+88-6	14514-14523	inpatient	_
+88-7	14524-14527	and	_
+88-8	14528-14538	outpatient	_
+88-9	14539-14544	units	_
+88-10	14545-14547	of	_
+88-11	14548-14551	the	_
+88-12	14552-14562	Department	_
+88-13	14563-14565	of	_
+88-14	14566-14576	Psychiatry	_
+88-15	14577-14580	and	_
+88-16	14581-14594	Psychotherapy	_
+88-17	14594-14595	,	_
+88-18	14596-14623	Charité-Universitätsmedizin	_
+88-19	14624-14630	Berlin	_
+88-20	14631-14634	and	_
+88-21	14635-14638	the	_
+88-22	14639-14650	Psychiatric	_
+88-23	14651-14661	Department	_
+88-24	14662-14664	of	_
+88-25	14665-14668	the	_
+88-26	14669-14686	Schlossparkklinik	_
+88-27	14687-14693	Berlin	_
+88-28	14693-14694	.	_
+
+Text=Aberrant salience raw data scores of a partially overlapping sample (37 healthy controls and 34 schizophrenia patients) were reported in a previous publication.
+89-1	14695-14703	Aberrant	_
+89-2	14704-14712	salience	_
+89-3	14713-14716	raw	_
+89-4	14717-14721	data	_
+89-5	14722-14728	scores	_
+89-6	14729-14731	of	_
+89-7	14732-14733	a	_
+89-8	14734-14743	partially	_
+89-9	14744-14755	overlapping	_
+89-10	14756-14762	sample	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+89-11	14763-14764	(	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+89-12	14764-14766	37	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+89-13	14767-14774	healthy	_
+89-14	14775-14783	controls	_
+89-15	14784-14787	and	_
+89-16	14788-14790	34	_
+89-17	14791-14804	schizophrenia	_
+89-18	14805-14813	patients	_
+89-19	14813-14814	)	_
+89-20	14815-14819	were	_
+89-21	14820-14828	reported	_
+89-22	14829-14831	in	_
+89-23	14832-14833	a	_
+89-24	14834-14842	previous	_
+89-25	14843-14854	publication	_
+89-26	14854-14855	.	_
+
+Text=Demographic and clinical characteristics.
+90-1	14856-14867	Demographic	_
+90-2	14868-14871	and	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+90-3	14872-14880	clinical	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+90-4	14881-14896	characteristics	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+90-5	14896-14897	.	_
+
+Text=SCHIZOPHRENIA PATIENTS (N = 42) HEALTHY INDIVIDUALS (N = 42) STATISTICS Gender 12 females, 30 males 16 females, 26 males χ2 (1) =.355, p = 0.488 AGE (IN YEARS) 35.1 (± 7.4) 33.5 (± 7.8) t (82) = 1, p = 0.321 VERBAL IQ 101 (± 9.4) 104.9 (± 9.4) t (78) = 2.13, p = 0.036 EHI 67.4 (± 53) 69.72 (± 48.09) t (77) =.21, p =.837 DURATION OF ILLNESS (YEARS) 9.4 (± 6) AGE OF ILLNESS ONSET (YEARS) 25.9 (± 7.1) PANSS POSITIVE 20.7 (± 6.7) PANSS NEGATIVE 22.6 (± 7.6) PANSS GENERAL 41 (± 10.9) PANSS TOTAL 84.5 (± 21.5) SAPS DELUSIONS 21.3 (± 10.9) SANS ANHEDONIA 12.4 (± 4.9) Implicit salience paradigm (ISP) This paradigm was explicitly instructed like a target-detection task though implicitly being a learning paradigm where features of neutral stimuli predicted certain outcomes.
+91-1	14899-14912	SCHIZOPHRENIA	_
+91-2	14913-14921	PATIENTS	_
+91-3	14922-14923	(	_
+91-4	14923-14924	N	_
+91-5	14925-14926	=	_
+91-6	14927-14929	42	_
+91-7	14929-14930	)	_
+91-8	14931-14938	HEALTHY	_
+91-9	14939-14950	INDIVIDUALS	_
+91-10	14951-14952	(	_
+91-11	14952-14953	N	_
+91-12	14954-14955	=	_
+91-13	14956-14958	42	_
+91-14	14958-14959	)	_
+91-15	14960-14970	STATISTICS	_
+91-16	14973-14979	Gender	_
+91-17	14980-14982	12	_
+91-18	14983-14990	females	_
+91-19	14990-14991	,	_
+91-20	14992-14994	30	_
+91-21	14995-15000	males	_
+91-22	15001-15003	16	_
+91-23	15004-15011	females	_
+91-24	15011-15012	,	_
+91-25	15013-15015	26	_
+91-26	15016-15021	males	_
+91-27	15022-15024	χ2	_
+91-28	15024-15025	(	_
+91-29	15025-15026	1	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+91-30	15026-15027	)	_
+91-31	15028-15029	=	_
+91-32	15030-15034	.355	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+91-33	15034-15035	,	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+91-34	15036-15037	p	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+91-35	15038-15039	=	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+91-36	15040-15045	0.488	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+91-37	15048-15051	AGE	_
+91-38	15052-15053	(	_
+91-39	15053-15055	IN	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+91-40	15056-15061	YEARS	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+91-41	15061-15062	)	_
+91-42	15063-15067	35.1	_
+91-43	15068-15069	(	_
+91-44	15069-15070	±	_
+91-45	15070-15073	7.4	_
+91-46	15073-15074	)	_
+91-47	15075-15079	33.5	_
+91-48	15080-15081	(	_
+91-49	15081-15082	±	_
+91-50	15082-15085	7.8	_
+91-51	15085-15086	)	_
+91-52	15087-15088	t	_
+91-53	15088-15089	(	_
+91-54	15089-15091	82	_
+91-55	15091-15092	)	_
+91-56	15093-15094	=	_
+91-57	15095-15096	1	_
+91-58	15096-15097	,	_
+91-59	15098-15099	p	_
+91-60	15100-15101	=	_
+91-61	15102-15107	0.321	_
+91-62	15110-15116	VERBAL	_
+91-63	15117-15119	IQ	_
+91-64	15120-15123	101	_
+91-65	15124-15125	(	_
+91-66	15125-15126	±	_
+91-67	15126-15129	9.4	_
+91-68	15129-15130	)	_
+91-69	15131-15136	104.9	_
+91-70	15137-15138	(	_
+91-71	15138-15139	±	_
+91-72	15139-15142	9.4	_
+91-73	15142-15143	)	_
+91-74	15144-15145	t	_
+91-75	15145-15146	(	_
+91-76	15146-15148	78	_
+91-77	15148-15149	)	_
+91-78	15150-15151	=	_
+91-79	15152-15156	2.13	_
+91-80	15156-15157	,	_
+91-81	15158-15159	p	_
+91-82	15160-15161	=	_
+91-83	15162-15167	0.036	_
+91-84	15170-15173	EHI	_
+91-85	15174-15178	67.4	_
+91-86	15178-15179	(	_
+91-87	15179-15180	±	_
+91-88	15180-15182	53	_
+91-89	15182-15183	)	_
+91-90	15184-15189	69.72	_
+91-91	15190-15191	(	_
+91-92	15191-15192	±	_
+91-93	15192-15197	48.09	_
+91-94	15197-15198	)	_
+91-95	15199-15200	t	_
+91-96	15200-15201	(	_
+91-97	15201-15203	77	_
+91-98	15203-15204	)	_
+91-99	15205-15206	=	_
+91-100	15207-15210	.21	_
+91-101	15210-15211	,	_
+91-102	15212-15213	p	_
+91-103	15214-15215	=	_
+91-104	15216-15220	.837	_
+91-105	15223-15231	DURATION	_
+91-106	15232-15234	OF	_
+91-107	15235-15242	ILLNESS	_
+91-108	15243-15244	(	_
+91-109	15244-15249	YEARS	_
+91-110	15249-15250	)	_
+91-111	15251-15254	9.4	_
+91-112	15255-15256	(	_
+91-113	15256-15257	±	_
+91-114	15257-15258	6	_
+91-115	15258-15259	)	_
+91-116	15264-15267	AGE	_
+91-117	15268-15270	OF	_
+91-118	15271-15278	ILLNESS	_
+91-119	15279-15284	ONSET	_
+91-120	15285-15286	(	_
+91-121	15286-15291	YEARS	_
+91-122	15291-15292	)	_
+91-123	15293-15297	25.9	_
+91-124	15298-15299	(	_
+91-125	15299-15300	±	_
+91-126	15300-15303	7.1	_
+91-127	15303-15304	)	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+91-128	15309-15314	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+91-129	15315-15323	POSITIVE	_
+91-130	15324-15328	20.7	_
+91-131	15329-15330	(	_
+91-132	15330-15331	±	_
+91-133	15331-15334	6.7	_
+91-134	15334-15335	)	_
+91-135	15340-15345	PANSS	_
+91-136	15346-15354	NEGATIVE	_
+91-137	15355-15359	22.6	_
+91-138	15360-15361	(	_
+91-139	15361-15362	±	_
+91-140	15362-15365	7.6	_
+91-141	15365-15366	)	_
+91-142	15371-15376	PANSS	_
+91-143	15377-15384	GENERAL	_
+91-144	15385-15387	41	_
+91-145	15388-15389	(	_
+91-146	15389-15390	±	_
+91-147	15390-15394	10.9	_
+91-148	15394-15395	)	_
+91-149	15400-15405	PANSS	_
+91-150	15406-15411	TOTAL	_
+91-151	15412-15416	84.5	_
+91-152	15417-15418	(	_
+91-153	15418-15419	±	_
+91-154	15419-15423	21.5	_
+91-155	15423-15424	)	_
+91-156	15429-15433	SAPS	_
+91-157	15434-15443	DELUSIONS	_
+91-158	15444-15448	21.3	_
+91-159	15449-15450	(	_
+91-160	15450-15451	±	_
+91-161	15451-15455	10.9	_
+91-162	15455-15456	)	_
+91-163	15461-15465	SANS	_
+91-164	15466-15475	ANHEDONIA	_
+91-165	15476-15480	12.4	_
+91-166	15481-15482	(	_
+91-167	15482-15483	±	_
+91-168	15483-15486	4.9	_
+91-169	15486-15487	)	_
+91-170	15493-15501	Implicit	_
+91-171	15502-15510	salience	_
+91-172	15511-15519	paradigm	_
+91-173	15520-15521	(	_
+91-174	15521-15524	ISP	_
+91-175	15524-15525	)	_
+91-176	15526-15530	This	_
+91-177	15531-15539	paradigm	_
+91-178	15540-15543	was	_
+91-179	15544-15554	explicitly	_
+91-180	15555-15565	instructed	_
+91-181	15566-15570	like	_
+91-182	15571-15572	a	_
+91-183	15573-15589	target-detection	_
+91-184	15590-15594	task	_
+91-185	15595-15601	though	_
+91-186	15602-15612	implicitly	_
+91-187	15613-15618	being	_
+91-188	15619-15620	a	_
+91-189	15621-15629	learning	_
+91-190	15630-15638	paradigm	_
+91-191	15639-15644	where	_
+91-192	15645-15653	features	_
+91-193	15654-15656	of	_
+91-194	15657-15664	neutral	_
+91-195	15665-15672	stimuli	_
+91-196	15673-15682	predicted	_
+91-197	15683-15690	certain	_
+91-198	15691-15699	outcomes	_
+91-199	15699-15700	.	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
+
+Text=It consisted of 160 trials where subjects were told to discriminate the outcomes (10 Eurocent coin or blue circle) of each trial.
+92-1	15701-15703	It	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
+92-2	15704-15713	consisted	_
+92-3	15714-15716	of	_
+92-4	15717-15720	160	_
+92-5	15721-15727	trials	_
+92-6	15728-15733	where	_
+92-7	15734-15742	subjects	_
+92-8	15743-15747	were	_
+92-9	15748-15752	told	_
+92-10	15753-15755	to	_
+92-11	15756-15768	discriminate	_
+92-12	15769-15772	the	_
+92-13	15773-15781	outcomes	_
+92-14	15782-15783	(	_
+92-15	15783-15785	10	_
+92-16	15786-15794	Eurocent	_
+92-17	15795-15799	coin	_
+92-18	15800-15802	or	_
+92-19	15803-15807	blue	_
+92-20	15808-15814	circle	_
+92-21	15814-15815	)	_
+92-22	15816-15818	of	_
+92-23	15819-15823	each	_
+92-24	15824-15829	trial	_
+92-25	15829-15830	.	_
+
+Text=Therefore, their only task was to press a respective button when they saw a coin, versus another button when they saw the blue circle.
+93-1	15831-15840	Therefore	_
+93-2	15840-15841	,	_
+93-3	15842-15847	their	_
+93-4	15848-15852	only	_
+93-5	15853-15857	task	_
+93-6	15858-15861	was	_
+93-7	15862-15864	to	_
+93-8	15865-15870	press	_
+93-9	15871-15872	a	_
+93-10	15873-15883	respective	_
+93-11	15884-15890	button	_
+93-12	15891-15895	when	_
+93-13	15896-15900	they	_
+93-14	15901-15904	saw	_
+93-15	15905-15906	a	_
+93-16	15907-15911	coin	_
+93-17	15911-15912	,	_
+93-18	15913-15919	versus	_
+93-19	15920-15927	another	_
+93-20	15928-15934	button	_
+93-21	15935-15939	when	_
+93-22	15940-15944	they	_
+93-23	15945-15948	saw	_
+93-24	15949-15952	the	_
+93-25	15953-15957	blue	_
+93-26	15958-15964	circle	_
+93-27	15964-15965	.	_
+
+Text=Subjects were told that they would receive the amount of money they had seen during the task irrespective of whether they had pressed a button or not, though they were encouraged by the experimenters not to miss too many trials because this would impede the analysis.
+94-1	15966-15974	Subjects	_
+94-2	15975-15979	were	_
+94-3	15980-15984	told	_
+94-4	15985-15989	that	_
+94-5	15990-15994	they	_
+94-6	15995-16000	would	_
+94-7	16001-16008	receive	_
+94-8	16009-16012	the	_
+94-9	16013-16019	amount	_
+94-10	16020-16022	of	_
+94-11	16023-16028	money	_
+94-12	16029-16033	they	_
+94-13	16034-16037	had	_
+94-14	16038-16042	seen	_
+94-15	16043-16049	during	_
+94-16	16050-16053	the	_
+94-17	16054-16058	task	_
+94-18	16059-16071	irrespective	_
+94-19	16072-16074	of	_
+94-20	16075-16082	whether	_
+94-21	16083-16087	they	_
+94-22	16088-16091	had	_
+94-23	16092-16099	pressed	_
+94-24	16100-16101	a	_
+94-25	16102-16108	button	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+94-26	16109-16111	or	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+94-27	16112-16115	not	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+94-28	16115-16116	,	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
+94-29	16117-16123	though	_
+94-30	16124-16128	they	_
+94-31	16129-16133	were	_
+94-32	16134-16144	encouraged	_
+94-33	16145-16147	by	_
+94-34	16148-16151	the	_
+94-35	16152-16165	experimenters	_
+94-36	16166-16169	not	_
+94-37	16170-16172	to	_
+94-38	16173-16177	miss	_
+94-39	16178-16181	too	_
+94-40	16182-16186	many	_
+94-41	16187-16193	trials	_
+94-42	16194-16201	because	_
+94-43	16202-16206	this	_
+94-44	16207-16212	would	_
+94-45	16213-16219	impede	_
+94-46	16220-16223	the	_
+94-47	16224-16232	analysis	_
+94-48	16232-16233	.	_
+
+Text=The outcomes were preceded by conditioned stimuli that differed in color and shape: gray or colorful squares or triangles (see Fig 1A and 1B).
+95-1	16234-16237	The	_
+95-2	16238-16246	outcomes	_
+95-3	16247-16251	were	_
+95-4	16252-16260	preceded	_
+95-5	16261-16263	by	_
+95-6	16264-16275	conditioned	_
+95-7	16276-16283	stimuli	_
+95-8	16284-16288	that	_
+95-9	16289-16297	differed	_
+95-10	16298-16300	in	_
+95-11	16301-16306	color	_
+95-12	16307-16310	and	_
+95-13	16311-16316	shape	_
+95-14	16316-16317	:	_
+95-15	16318-16322	gray	_
+95-16	16323-16325	or	_
+95-17	16326-16334	colorful	_
+95-18	16335-16342	squares	_
+95-19	16343-16345	or	_
+95-20	16346-16355	triangles	_
+95-21	16356-16357	(	_
+95-22	16357-16360	see	_
+95-23	16361-16364	Fig	_
+95-24	16365-16367	1A	_
+95-25	16368-16371	and	_
+95-26	16372-16374	1B	_
+95-27	16374-16375	)	_
+95-28	16375-16376	.	_
+
+Text=During the instructions, subjects were told not to pay attention to these stimuli preceding the outcomes.
+96-1	16377-16383	During	_
+96-2	16384-16387	the	_
+96-3	16388-16400	instructions	_
+96-4	16400-16401	,	_
+96-5	16402-16410	subjects	_
+96-6	16411-16415	were	_
+96-7	16416-16420	told	_
+96-8	16421-16424	not	_
+96-9	16425-16427	to	_
+96-10	16428-16431	pay	_
+96-11	16432-16441	attention	_
+96-12	16442-16444	to	_
+96-13	16445-16450	these	_
+96-14	16451-16458	stimuli	_
+96-15	16459-16468	preceding	_
+96-16	16469-16472	the	_
+96-17	16473-16481	outcomes	_
+96-18	16481-16482	.	_
+
+Text=However, prior to scanning, participants were primed with the stimulus features while they were asked to name the color and the shape of each of the four conditioned stimuli.
+97-1	16483-16490	However	_
+97-2	16490-16491	,	_
+97-3	16492-16497	prior	_
+97-4	16498-16500	to	_
+97-5	16501-16509	scanning	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+97-6	16509-16510	,	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+97-7	16511-16523	participants	_
+97-8	16524-16528	were	_
+97-9	16529-16535	primed	_
+97-10	16536-16540	with	_
+97-11	16541-16544	the	_
+97-12	16545-16553	stimulus	_
+97-13	16554-16562	features	_
+97-14	16563-16568	while	_
+97-15	16569-16573	they	_
+97-16	16574-16578	were	_
+97-17	16579-16584	asked	_
+97-18	16585-16587	to	_
+97-19	16588-16592	name	_
+97-20	16593-16596	the	_
+97-21	16597-16602	color	_
+97-22	16603-16606	and	_
+97-23	16607-16610	the	_
+97-24	16611-16616	shape	_
+97-25	16617-16619	of	_
+97-26	16620-16624	each	_
+97-27	16625-16627	of	_
+97-28	16628-16631	the	_
+97-29	16632-16636	four	_
+97-30	16637-16648	conditioned	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+97-31	16649-16656	stimuli	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+97-32	16656-16657	.	_
+
+Text=Then, they practiced the outcome detection for 10 trials.
+98-1	16658-16662	Then	_
+98-2	16662-16663	,	_
+98-3	16664-16668	they	_
+98-4	16669-16678	practiced	_
+98-5	16679-16682	the	_
+98-6	16683-16690	outcome	_
+98-7	16691-16700	detection	_
+98-8	16701-16704	for	_
+98-9	16705-16707	10	_
+98-10	16708-16714	trials	_
+98-11	16714-16715	.	_
+
+Text=In this practice session, all outcomes were preceded by a stimulus that was not presented during the main experiment in the scanner.
+99-1	16716-16718	In	_
+99-2	16719-16723	this	_
+99-3	16724-16732	practice	_
+99-4	16733-16740	session	_
+99-5	16740-16741	,	_
+99-6	16742-16745	all	_
+99-7	16746-16754	outcomes	_
+99-8	16755-16759	were	_
+99-9	16760-16768	preceded	_
+99-10	16769-16771	by	_
+99-11	16772-16773	a	_
+99-12	16774-16782	stimulus	_
+99-13	16783-16787	that	_
+99-14	16788-16791	was	_
+99-15	16792-16795	not	_
+99-16	16796-16805	presented	_
+99-17	16806-16812	during	_
+99-18	16813-16816	the	_
+99-19	16817-16821	main	_
+99-20	16822-16832	experiment	_
+99-21	16833-16835	in	_
+99-22	16836-16839	the	_
+99-23	16840-16847	scanner	_
+99-24	16847-16848	.	_
+
+Text=In the main experiment, the conditioned stimuli predicted the outcome types in a probabilistic manner that reversed during the task.
+100-1	16849-16851	In	_
+100-2	16852-16855	the	_
+100-3	16856-16860	main	_
+100-4	16861-16871	experiment	_
+100-5	16871-16872	,	_
+100-6	16873-16876	the	_
+100-7	16877-16888	conditioned	_
+100-8	16889-16896	stimuli	_
+100-9	16897-16906	predicted	_
+100-10	16907-16910	the	_
+100-11	16911-16918	outcome	_
+100-12	16919-16924	types	_
+100-13	16925-16927	in	_
+100-14	16928-16929	a	_
+100-15	16930-16943	probabilistic	_
+100-16	16944-16950	manner	_
+100-17	16951-16955	that	_
+100-18	16956-16964	reversed	_
+100-19	16965-16971	during	_
+100-20	16972-16975	the	_
+100-21	16976-16980	task	_
+100-22	16980-16981	.	_
+
+Text=Importantly, only one stimulus feature reliably predicted the outcome (eg, shape).
+101-1	16982-16993	Importantly	_
+101-2	16993-16994	,	_
+101-3	16995-16999	only	_
+101-4	17000-17003	one	_
+101-5	17004-17012	stimulus	_
+101-6	17013-17020	feature	_
+101-7	17021-17029	reliably	_
+101-8	17030-17039	predicted	_
+101-9	17040-17043	the	_
+101-10	17044-17051	outcome	_
+101-11	17052-17053	(	_
+101-12	17053-17055	eg	_
+101-13	17055-17056	,	_
+101-14	17057-17062	shape	_
+101-15	17062-17063	)	_
+101-16	17063-17064	.	_
+
+Text=For instance, 80% of all triangles were followed by the coin (20% circle), and 80% of all squares were followed by the blue circle (20% coin).
+102-1	17065-17068	For	_
+102-2	17069-17077	instance	_
+102-3	17077-17078	,	_
+102-4	17079-17082	80%	_
+102-5	17083-17085	of	_
+102-6	17086-17089	all	_
+102-7	17090-17099	triangles	_
+102-8	17100-17104	were	_
+102-9	17105-17113	followed	_
+102-10	17114-17116	by	_
+102-11	17117-17120	the	_
+102-12	17121-17125	coin	_
+102-13	17126-17127	(	_
+102-14	17127-17130	20%	_
+102-15	17131-17137	circle	_
+102-16	17137-17138	)	_
+102-17	17138-17139	,	_
+102-18	17140-17143	and	_
+102-19	17144-17147	80%	_
+102-20	17148-17150	of	_
+102-21	17151-17154	all	_
+102-22	17155-17162	squares	_
+102-23	17163-17167	were	_
+102-24	17168-17176	followed	_
+102-25	17177-17179	by	_
+102-26	17180-17183	the	_
+102-27	17184-17188	blue	_
+102-28	17189-17195	circle	_
+102-29	17196-17197	(	_
+102-30	17197-17200	20%	_
+102-31	17201-17205	coin	_
+102-32	17205-17206	)	_
+102-33	17206-17207	.	_
+
+Text=Whether the square or the triangle predicted the coin reversed every 20 trials.
+103-1	17208-17215	Whether	_
+103-2	17216-17219	the	_
+103-3	17220-17226	square	_
+103-4	17227-17229	or	_
+103-5	17230-17233	the	_
+103-6	17234-17242	triangle	_
+103-7	17243-17252	predicted	_
+103-8	17253-17256	the	_
+103-9	17257-17261	coin	_
+103-10	17262-17270	reversed	_
+103-11	17271-17276	every	_
+103-12	17277-17279	20	_
+103-13	17280-17286	trials	_
+103-14	17286-17287	.	_
+
+Text=In the meantime, the color of the stimuli was irrelevant in predicting the outcome; colorful and gray stimuli were equally followed by coins and circles (50% each).
+104-1	17288-17290	In	_
+104-2	17291-17294	the	_
+104-3	17295-17303	meantime	_
+104-4	17303-17304	,	_
+104-5	17305-17308	the	_
+104-6	17309-17314	color	_
+104-7	17315-17317	of	_
+104-8	17318-17321	the	_
+104-9	17322-17329	stimuli	_
+104-10	17330-17333	was	_
+104-11	17334-17344	irrelevant	_
+104-12	17345-17347	in	_
+104-13	17348-17358	predicting	_
+104-14	17359-17362	the	_
+104-15	17363-17370	outcome	_
+104-16	17370-17371	;	_
+104-17	17372-17380	colorful	_
+104-18	17381-17384	and	_
+104-19	17385-17389	gray	_
+104-20	17390-17397	stimuli	_
+104-21	17398-17402	were	_
+104-22	17403-17410	equally	_
+104-23	17411-17419	followed	_
+104-24	17420-17422	by	_
+104-25	17423-17428	coins	_
+104-26	17429-17432	and	_
+104-27	17433-17440	circles	_
+104-28	17441-17442	(	_
+104-29	17442-17445	50%	_
+104-30	17446-17450	each	_
+104-31	17450-17451	)	_
+104-32	17451-17452	.	_
+
+Text=After the first half of the experiment this was reversed, and then the formerly irrelevant feature (here: shape) predicted the outcome, whereas the other feature turned irrelevant (see Fig 2).
+105-1	17453-17458	After	_
+105-2	17459-17462	the	_
+105-3	17463-17468	first	_
+105-4	17469-17473	half	_
+105-5	17474-17476	of	_
+105-6	17477-17480	the	_
+105-7	17481-17491	experiment	_
+105-8	17492-17496	this	_
+105-9	17497-17500	was	_
+105-10	17501-17509	reversed	_
+105-11	17509-17510	,	_
+105-12	17511-17514	and	_
+105-13	17515-17519	then	_
+105-14	17520-17523	the	_
+105-15	17524-17532	formerly	_
+105-16	17533-17543	irrelevant	_
+105-17	17544-17551	feature	_
+105-18	17552-17553	(	_
+105-19	17553-17557	here	_
+105-20	17557-17558	:	_
+105-21	17559-17564	shape	_
+105-22	17564-17565	)	_
+105-23	17566-17575	predicted	_
+105-24	17576-17579	the	_
+105-25	17580-17587	outcome	_
+105-26	17587-17588	,	_
+105-27	17589-17596	whereas	_
+105-28	17597-17600	the	_
+105-29	17601-17606	other	_
+105-30	17607-17614	feature	_
+105-31	17615-17621	turned	_
+105-32	17622-17632	irrelevant	_
+105-33	17633-17634	(	_
+105-34	17634-17637	see	_
+105-35	17638-17641	Fig	_
+105-36	17642-17643	2	_
+105-37	17643-17644	)	_
+105-38	17644-17645	.	_
+
+Text=The relevant dimensions were counterbalanced across participants and coins and neutral outcomes were each displayed in 50% of all trials.
+106-1	17646-17649	The	_
+106-2	17650-17658	relevant	_
+106-3	17659-17669	dimensions	_
+106-4	17670-17674	were	_
+106-5	17675-17690	counterbalanced	_
+106-6	17691-17697	across	_
+106-7	17698-17710	participants	_
+106-8	17711-17714	and	_
+106-9	17715-17720	coins	_
+106-10	17721-17724	and	_
+106-11	17725-17732	neutral	_
+106-12	17733-17741	outcomes	_
+106-13	17742-17746	were	_
+106-14	17747-17751	each	_
+106-15	17752-17761	displayed	_
+106-16	17762-17764	in	_
+106-17	17765-17768	50%	_
+106-18	17769-17771	of	_
+106-19	17772-17775	all	_
+106-20	17776-17782	trials	_
+106-21	17782-17783	.	_
+
+Text=In total, the experiment lasted 15 minutes and took place during fMRI scanning.
+107-1	17784-17786	In	_
+107-2	17787-17792	total	_
+107-3	17792-17793	,	_
+107-4	17794-17797	the	_
+107-5	17798-17808	experiment	_
+107-6	17809-17815	lasted	_
+107-7	17816-17818	15	_
+107-8	17819-17826	minutes	_
+107-9	17827-17830	and	_
+107-10	17831-17835	took	_
+107-11	17836-17841	place	_
+107-12	17842-17848	during	_
+107-13	17849-17853	fMRI	_
+107-14	17854-17862	scanning	_
+107-15	17862-17863	.	_
+
+Text=Participants received the amount of coins seen in the experiment (8 Euro).
+108-1	17864-17876	Participants	_
+108-2	17877-17885	received	_
+108-3	17886-17889	the	_
+108-4	17890-17896	amount	_
+108-5	17897-17899	of	_
+108-6	17900-17905	coins	_
+108-7	17906-17910	seen	_
+108-8	17911-17913	in	_
+108-9	17914-17917	the	_
+108-10	17918-17928	experiment	_
+108-11	17929-17930	(	_
+108-12	17930-17931	8	_
+108-13	17932-17936	Euro	_
+108-14	17936-17937	)	_
+108-15	17937-17938	.	_
+
+Text=(A) Depiction of one ISP trial.
+109-1	17939-17940	(	_
+109-2	17940-17941	A	_
+109-3	17941-17942	)	_
+109-4	17943-17952	Depiction	_
+109-5	17953-17955	of	_
+109-6	17956-17959	one	_
+109-7	17960-17963	ISP	_
+109-8	17964-17969	trial	_
+109-9	17969-17970	.	_
+
+Text=Participants see one of four cues (B) that is then followed by either a coin (representing reward) or a blue circle (neutral outcome).
+110-1	17971-17983	Participants	_
+110-2	17984-17987	see	_
+110-3	17988-17991	one	_
+110-4	17992-17994	of	_
+110-5	17995-17999	four	_
+110-6	18000-18004	cues	_
+110-7	18005-18006	(	_
+110-8	18006-18007	B	_
+110-9	18007-18008	)	_
+110-10	18009-18013	that	_
+110-11	18014-18016	is	_
+110-12	18017-18021	then	_
+110-13	18022-18030	followed	_
+110-14	18031-18033	by	_
+110-15	18034-18040	either	_
+110-16	18041-18042	a	_
+110-17	18043-18047	coin	_
+110-18	18048-18049	(	_
+110-19	18049-18061	representing	_
+110-20	18062-18068	reward	_
+110-21	18068-18069	)	_
+110-22	18070-18072	or	_
+110-23	18073-18074	a	_
+110-24	18075-18079	blue	_
+110-25	18080-18086	circle	_
+110-26	18087-18088	(	_
+110-27	18088-18095	neutral	_
+110-28	18096-18103	outcome	_
+110-29	18103-18104	)	_
+110-30	18104-18105	.	_
+
+Text=They have to respond to each outcome via a respective button press.
+111-1	18106-18110	They	_
+111-2	18111-18115	have	_
+111-3	18116-18118	to	_
+111-4	18119-18126	respond	_
+111-5	18127-18129	to	_
+111-6	18130-18134	each	_
+111-7	18135-18142	outcome	_
+111-8	18143-18146	via	_
+111-9	18147-18148	a	_
+111-10	18149-18159	respective	_
+111-11	18160-18166	button	_
+111-12	18167-18172	press	_
+111-13	18172-18173	.	_
+
+Text=(B) Conditioned cues varying in color and shape.
+112-1	18174-18175	(	_
+112-2	18175-18176	B	_
+112-3	18176-18177	)	_
+112-4	18178-18189	Conditioned	_
+112-5	18190-18194	cues	_
+112-6	18195-18202	varying	_
+112-7	18203-18205	in	_
+112-8	18206-18211	color	_
+112-9	18212-18215	and	_
+112-10	18216-18221	shape	_
+112-11	18221-18222	.	_
+
+Text=(C) Log reaction times (logRT) and simulated logRT (dashed lines, based on the best model) for coin (green) and circle (orange) trials.
+113-1	18223-18224	(	_
+113-2	18224-18225	C	_
+113-3	18225-18226	)	_
+113-4	18227-18230	Log	_
+113-5	18231-18239	reaction	_
+113-6	18240-18245	times	_
+113-7	18246-18247	(	_
+113-8	18247-18252	logRT	_
+113-9	18252-18253	)	_
+113-10	18254-18257	and	_
+113-11	18258-18267	simulated	_
+113-12	18268-18273	logRT	_
+113-13	18274-18275	(	_
+113-14	18275-18281	dashed	_
+113-15	18282-18287	lines	_
+113-16	18287-18288	,	_
+113-17	18289-18294	based	_
+113-18	18295-18297	on	_
+113-19	18298-18301	the	_
+113-20	18302-18306	best	_
+113-21	18307-18312	model	_
+113-22	18312-18313	)	_
+113-23	18314-18317	for	_
+113-24	18318-18322	coin	_
+113-25	18323-18324	(	_
+113-26	18324-18329	green	_
+113-27	18329-18330	)	_
+113-28	18331-18334	and	_
+113-29	18335-18341	circle	_
+113-30	18342-18343	(	_
+113-31	18343-18349	orange	_
+113-32	18349-18350	)	_
+113-33	18351-18357	trials	_
+113-34	18357-18358	.	_
+
+Text=Subjects were faster in coin than in circle trials and speeded up their responses over the course of each block.
+114-1	18359-18367	Subjects	_
+114-2	18368-18372	were	_
+114-3	18373-18379	faster	_
+114-4	18380-18382	in	_
+114-5	18383-18387	coin	_
+114-6	18388-18392	than	_
+114-7	18393-18395	in	_
+114-8	18396-18402	circle	_
+114-9	18403-18409	trials	_
+114-10	18410-18413	and	_
+114-11	18414-18421	speeded	_
+114-12	18422-18424	up	_
+114-13	18425-18430	their	_
+114-14	18431-18440	responses	_
+114-15	18441-18445	over	_
+114-16	18446-18449	the	_
+114-17	18450-18456	course	_
+114-18	18457-18459	of	_
+114-19	18460-18464	each	_
+114-20	18465-18470	block	_
+114-21	18470-18471	.	_
+
+Text=These effects were also captured by the best fitting model.
+115-1	18472-18477	These	_
+115-2	18478-18485	effects	_
+115-3	18486-18490	were	_
+115-4	18491-18495	also	_
+115-5	18496-18504	captured	_
+115-6	18505-18507	by	_
+115-7	18508-18511	the	_
+115-8	18512-18516	best	_
+115-9	18517-18524	fitting	_
+115-10	18525-18530	model	_
+115-11	18530-18531	.	_
+
+Text=Upper plot: Underlying task contingencies between color and outcome (blue) and shape and outcome (red).
+116-1	18532-18537	Upper	_
+116-2	18538-18542	plot	_
+116-3	18542-18543	:	_
+116-4	18544-18554	Underlying	_
+116-5	18555-18559	task	_
+116-6	18560-18573	contingencies	_
+116-7	18574-18581	between	_
+116-8	18582-18587	color	_
+116-9	18588-18591	and	_
+116-10	18592-18599	outcome	_
+116-11	18600-18601	(	_
+116-12	18601-18605	blue	_
+116-13	18605-18606	)	_
+116-14	18607-18610	and	_
+116-15	18611-18616	shape	_
+116-16	18617-18620	and	_
+116-17	18621-18628	outcome	_
+116-18	18629-18630	(	_
+116-19	18630-18633	red	_
+116-20	18633-18634	)	_
+116-21	18634-18635	.	_
+
+Text=Note that the direction of the trajectories reflects a tendency towards an association (eg, 1 for [triangle → reward; square → circle] and 0 for the opposite associations) and does not reflect a reward value.
+117-1	18636-18640	Note	_
+117-2	18641-18645	that	_
+117-3	18646-18649	the	_
+117-4	18650-18659	direction	_
+117-5	18660-18662	of	_
+117-6	18663-18666	the	_
+117-7	18667-18679	trajectories	_
+117-8	18680-18688	reflects	_
+117-9	18689-18690	a	_
+117-10	18691-18699	tendency	_
+117-11	18700-18707	towards	_
+117-12	18708-18710	an	_
+117-13	18711-18722	association	_
+117-14	18723-18724	(	_
+117-15	18724-18726	eg	_
+117-16	18726-18727	,	_
+117-17	18728-18729	1	_
+117-18	18730-18733	for	_
+117-19	18734-18735	[	_
+117-20	18735-18743	triangle	_
+117-21	18744-18745	→	_
+117-22	18746-18752	reward	_
+117-23	18752-18753	;	_
+117-24	18754-18760	square	_
+117-25	18761-18762	→	_
+117-26	18762-18768	circle	_
+117-27	18768-18769	]	_
+117-28	18770-18773	and	_
+117-29	18774-18775	0	_
+117-30	18776-18779	for	_
+117-31	18780-18783	the	_
+117-32	18784-18792	opposite	_
+117-33	18793-18805	associations	_
+117-34	18805-18806	)	_
+117-35	18807-18810	and	_
+117-36	18811-18815	does	_
+117-37	18816-18819	not	_
+117-38	18820-18827	reflect	_
+117-39	18828-18829	a	_
+117-40	18830-18836	reward	_
+117-41	18837-18842	value	_
+117-42	18842-18843	.	_
+
+Text=In this example, during the first half of the ISP, color is relevant for predicting the outcome, whereas the squares and triangles both predict coin and circle with a probability of 0.5 and are therefore irrelevant.
+118-1	18844-18846	In	_
+118-2	18847-18851	this	_
+118-3	18852-18859	example	_
+118-4	18859-18860	,	_
+118-5	18861-18867	during	_
+118-6	18868-18871	the	_
+118-7	18872-18877	first	_
+118-8	18878-18882	half	_
+118-9	18883-18885	of	_
+118-10	18886-18889	the	_
+118-11	18890-18893	ISP	_
+118-12	18893-18894	,	_
+118-13	18895-18900	color	_
+118-14	18901-18903	is	_
+118-15	18904-18912	relevant	_
+118-16	18913-18916	for	_
+118-17	18917-18927	predicting	_
+118-18	18928-18931	the	_
+118-19	18932-18939	outcome	_
+118-20	18939-18940	,	_
+118-21	18941-18948	whereas	_
+118-22	18949-18952	the	_
+118-23	18953-18960	squares	_
+118-24	18961-18964	and	_
+118-25	18965-18974	triangles	_
+118-26	18975-18979	both	_
+118-27	18980-18987	predict	_
+118-28	18988-18992	coin	_
+118-29	18993-18996	and	_
+118-30	18997-19003	circle	_
+118-31	19004-19008	with	_
+118-32	19009-19010	a	_
+118-33	19011-19022	probability	_
+118-34	19023-19025	of	_
+118-35	19026-19029	0.5	_
+118-36	19030-19033	and	_
+118-37	19034-19037	are	_
+118-38	19038-19047	therefore	_
+118-39	19048-19058	irrelevant	_
+118-40	19058-19059	.	_
+
+Text=The extradimensional relevance reverses after 80 trials, and shape becomes relevant.
+119-1	19060-19063	The	_
+119-2	19064-19080	extradimensional	_
+119-3	19081-19090	relevance	_
+119-4	19091-19099	reverses	_
+119-5	19100-19105	after	_
+119-6	19106-19108	80	_
+119-7	19109-19115	trials	_
+119-8	19115-19116	,	_
+119-9	19117-19120	and	_
+119-10	19121-19126	shape	_
+119-11	19127-19134	becomes	_
+119-12	19135-19143	relevant	_
+119-13	19143-19144	.	_
+
+Text=Inside the relevant features, the 80% rewarded feature manifestation reverses every 20 trial block.
+120-1	19145-19151	Inside	_
+120-2	19152-19155	the	_
+120-3	19156-19164	relevant	_
+120-4	19165-19173	features	_
+120-5	19173-19174	,	_
+120-6	19175-19178	the	_
+120-7	19179-19182	80%	_
+120-8	19183-19191	rewarded	_
+120-9	19192-19199	feature	_
+120-10	19200-19213	manifestation	_
+120-11	19214-19222	reverses	_
+120-12	19223-19228	every	_
+120-13	19229-19231	20	_
+120-14	19232-19237	trial	_
+120-15	19238-19243	block	_
+120-16	19243-19244	.	_
+
+Text=That is to say, if colorful cues are rewarded in 80% of trials (gray cues in 20%) in the beginning, gray cues are followed by coins (colorful cues by a circle) for the next 20 trials.
+121-1	19245-19249	That	_
+121-2	19250-19252	is	_
+121-3	19253-19255	to	_
+121-4	19256-19259	say	_
+121-5	19259-19260	,	_
+121-6	19261-19263	if	_
+121-7	19264-19272	colorful	_
+121-8	19273-19277	cues	_
+121-9	19278-19281	are	_
+121-10	19282-19290	rewarded	_
+121-11	19291-19293	in	_
+121-12	19294-19297	80%	_
+121-13	19298-19300	of	_
+121-14	19301-19307	trials	_
+121-15	19308-19309	(	_
+121-16	19309-19313	gray	_
+121-17	19314-19318	cues	_
+121-18	19319-19321	in	_
+121-19	19322-19325	20%	_
+121-20	19325-19326	)	_
+121-21	19327-19329	in	_
+121-22	19330-19333	the	_
+121-23	19334-19343	beginning	_
+121-24	19343-19344	,	_
+121-25	19345-19349	gray	_
+121-26	19350-19354	cues	_
+121-27	19355-19358	are	_
+121-28	19359-19367	followed	_
+121-29	19368-19370	by	_
+121-30	19371-19376	coins	_
+121-31	19377-19378	(	_
+121-32	19378-19386	colorful	_
+121-33	19387-19391	cues	_
+121-34	19392-19394	by	_
+121-35	19395-19396	a	_
+121-36	19397-19403	circle	_
+121-37	19403-19404	)	_
+121-38	19405-19408	for	_
+121-39	19409-19412	the	_
+121-40	19413-19417	next	_
+121-41	19418-19420	20	_
+121-42	19421-19427	trials	_
+121-43	19427-19428	.	_
+
+Text=Middle plot: One subject ’ s individual belief trajectories for color (blue) and shape (red) associations with outcome based on the best fitting model (2HGF RelPE + IrrelBias).
+122-1	19429-19435	Middle	_
+122-2	19436-19440	plot	_
+122-3	19440-19441	:	_
+122-4	19442-19445	One	_
+122-5	19446-19453	subject	_
+122-6	19453-19454	’	_
+122-7	19454-19455	s	_
+122-8	19456-19466	individual	_
+122-9	19467-19473	belief	_
+122-10	19474-19486	trajectories	_
+122-11	19487-19490	for	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+122-12	19491-19496	color	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+122-13	19497-19498	(	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+122-14	19498-19502	blue	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+122-15	19502-19503	)	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+122-16	19504-19507	and	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+122-17	19508-19513	shape	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+122-18	19514-19515	(	_
+122-19	19515-19518	red	_
+122-20	19518-19519	)	_
+122-21	19520-19532	associations	_
+122-22	19533-19537	with	_
+122-23	19538-19545	outcome	_
+122-24	19546-19551	based	_
+122-25	19552-19554	on	_
+122-26	19555-19558	the	_
+122-27	19559-19563	best	_
+122-28	19564-19571	fitting	_
+122-29	19572-19577	model	_
+122-30	19578-19579	(	_
+122-31	19579-19583	2HGF	_
+122-32	19584-19589	RelPE	_
+122-33	19589-19590	+	_
+122-34	19590-19599	IrrelBias	_
+122-35	19599-19600	)	_
+122-36	19600-19601	.	_
+
+Text=Lower plot: Trajectories that were used to determine individual reaction times in the best response model: Inferred relevance weights (see Eq 5) for color (blue) and shape (red) predictions and the mean relevance weighted prediction error (magenta; see Eq 4.1.2).
+123-1	19602-19607	Lower	_
+123-2	19608-19612	plot	_
+123-3	19612-19613	:	_
+123-4	19614-19626	Trajectories	_
+123-5	19627-19631	that	_
+123-6	19632-19636	were	_
+123-7	19637-19641	used	_
+123-8	19642-19644	to	_
+123-9	19645-19654	determine	_
+123-10	19655-19665	individual	_
+123-11	19666-19674	reaction	_
+123-12	19675-19680	times	_
+123-13	19681-19683	in	_
+123-14	19684-19687	the	_
+123-15	19688-19692	best	_
+123-16	19693-19701	response	_
+123-17	19702-19707	model	_
+123-18	19707-19708	:	_
+123-19	19709-19717	Inferred	_
+123-20	19718-19727	relevance	_
+123-21	19728-19735	weights	_
+123-22	19736-19737	(	_
+123-23	19737-19740	see	_
+123-24	19741-19743	Eq	_
+123-25	19744-19745	5	_
+123-26	19745-19746	)	_
+123-27	19747-19750	for	_
+123-28	19751-19756	color	_
+123-29	19757-19758	(	_
+123-30	19758-19762	blue	_
+123-31	19762-19763	)	_
+123-32	19764-19767	and	_
+123-33	19768-19773	shape	_
+123-34	19774-19775	(	_
+123-35	19775-19778	red	_
+123-36	19778-19779	)	_
+123-37	19780-19791	predictions	_
+123-38	19792-19795	and	_
+123-39	19796-19799	the	_
+123-40	19800-19804	mean	_
+123-41	19805-19814	relevance	_
+123-42	19815-19823	weighted	_
+123-43	19824-19834	prediction	_
+123-44	19835-19840	error	_
+123-45	19841-19842	(	_
+123-46	19842-19849	magenta	_
+123-47	19849-19850	;	_
+123-48	19851-19854	see	_
+123-49	19855-19857	Eq	_
+123-50	19858-19863	4.1.2	_
+123-51	19863-19864	)	_
+123-52	19864-19865	.	_
+
+Text=Raw data analysis In our raw data analysis of reaction times, we focused on two aspects: (i) learning of the regularly reversing relevant feature and (ii) aberrant salience towards one manifestation of the irrelevant feature.
+124-1	19866-19869	Raw	_
+124-2	19870-19874	data	_
+124-3	19875-19883	analysis	_
+124-4	19884-19886	In	_
+124-5	19887-19890	our	_
+124-6	19891-19894	raw	_
+124-7	19895-19899	data	_
+124-8	19900-19908	analysis	_
+124-9	19909-19911	of	_
+124-10	19912-19920	reaction	_
+124-11	19921-19926	times	_
+124-12	19926-19927	,	_
+124-13	19928-19930	we	_
+124-14	19931-19938	focused	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+124-15	19939-19941	on	_
+124-16	19942-19945	two	_
+124-17	19946-19953	aspects	_
+124-18	19953-19954	:	_
+124-19	19955-19956	(	_
+124-20	19956-19957	i	_
+124-21	19957-19958	)	_
+124-22	19959-19967	learning	_
+124-23	19968-19970	of	_
+124-24	19971-19974	the	_
+124-25	19975-19984	regularly	_
+124-26	19985-19994	reversing	_
+124-27	19995-20003	relevant	_
+124-28	20004-20011	feature	_
+124-29	20012-20015	and	_
+124-30	20016-20017	(	_
+124-31	20017-20019	ii	_
+124-32	20019-20020	)	_
+124-33	20021-20029	aberrant	_
+124-34	20030-20038	salience	_
+124-35	20039-20046	towards	_
+124-36	20047-20050	one	_
+124-37	20051-20064	manifestation	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+124-38	20065-20067	of	_
+124-39	20068-20071	the	_
+124-40	20072-20082	irrelevant	_
+124-41	20083-20090	feature	_
+124-42	20090-20091	.	_
+
+Text=Extreme reaction times (<150 ms and> 1.5 s) were excluded.
+125-1	20092-20099	Extreme	_
+125-2	20100-20108	reaction	_
+125-3	20109-20114	times	_
+125-4	20115-20116	(	_
+125-5	20116-20117	<	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+125-6	20117-20120	150	_
+125-7	20121-20123	ms	_
+125-8	20124-20127	and	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+125-9	20128-20129	>	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+125-10	20129-20132	1.5	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+125-11	20133-20134	s	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+125-12	20134-20135	)	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+125-13	20136-20140	were	_
+125-14	20141-20149	excluded	_
+125-15	20149-20150	.	_
+
+Text=For analyses of potential learning, reaction times (in ms) were log transformed to achieve normal distribution required for variance analyses.
+126-1	20151-20154	For	_
+126-2	20155-20163	analyses	_
+126-3	20164-20166	of	_
+126-4	20167-20176	potential	_
+126-5	20177-20185	learning	_
+126-6	20185-20186	,	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+126-7	20187-20195	reaction	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+126-8	20196-20201	times	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+126-9	20202-20203	(	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+126-10	20203-20205	in	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+126-11	20206-20208	ms	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+126-12	20208-20209	)	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+126-13	20210-20214	were	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+126-14	20215-20218	log	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+126-15	20219-20230	transformed	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+126-16	20231-20233	to	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+126-17	20234-20241	achieve	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+126-18	20242-20248	normal	_
+126-19	20249-20261	distribution	_
+126-20	20262-20270	required	_
+126-21	20271-20274	for	_
+126-22	20275-20283	variance	_
+126-23	20284-20292	analyses	_
+126-24	20292-20293	.	_
+
+Text=First, we tested whether subjects learned the cue-outcome contingencies and slowed down their responses if the outcome could not be predicted based on the preceding cues and thus violated their expectation.
+127-1	20294-20299	First	_
+127-2	20299-20300	,	_
+127-3	20301-20303	we	_
+127-4	20304-20310	tested	_
+127-5	20311-20318	whether	_
+127-6	20319-20327	subjects	_
+127-7	20328-20335	learned	_
+127-8	20336-20339	the	_
+127-9	20340-20351	cue-outcome	_
+127-10	20352-20365	contingencies	_
+127-11	20366-20369	and	_
+127-12	20370-20376	slowed	_
+127-13	20377-20381	down	_
+127-14	20382-20387	their	_
+127-15	20388-20397	responses	_
+127-16	20398-20400	if	_
+127-17	20401-20404	the	_
+127-18	20405-20412	outcome	_
+127-19	20413-20418	could	_
+127-20	20419-20422	not	_
+127-21	20423-20425	be	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+127-22	20426-20435	predicted	_
+127-23	20436-20441	based	_
+127-24	20442-20444	on	_
+127-25	20445-20448	the	_
+127-26	20449-20458	preceding	_
+127-27	20459-20463	cues	_
+127-28	20464-20467	and	_
+127-29	20468-20472	thus	_
+127-30	20473-20481	violated	_
+127-31	20482-20487	their	_
+127-32	20488-20499	expectation	_
+127-33	20499-20500	.	_
+
+Text=For that, log reaction times were compared for expected (i.e. trials when the 0.8 rewarded feature was followed by reward and trials when the 0.8 non-rewarded feature was followed by a circle) versus unexpected events (i.e. trials when the 0.8 rewarded feature was followed by the circle and trials when the 0.8 non-rewarded feature was followed by a coin) of the relevant condition in a repeated-measures ANOVA with group as between-subject factor (HC versus patients) and event type as within factor (expected versus unexpected).
+128-1	20501-20504	For	_
+128-2	20505-20509	that	_
+128-3	20509-20510	,	_
+128-4	20511-20514	log	_
+128-5	20515-20523	reaction	_
+128-6	20524-20529	times	_
+128-7	20530-20534	were	_
+128-8	20535-20543	compared	_
+128-9	20544-20547	for	_
+128-10	20548-20556	expected	_
+128-11	20557-20558	(	_
+128-12	20558-20561	i.e	_
+128-13	20561-20562	.	_
+128-14	20563-20569	trials	_
+128-15	20570-20574	when	_
+128-16	20575-20578	the	_
+128-17	20579-20582	0.8	_
+128-18	20583-20591	rewarded	_
+128-19	20592-20599	feature	_
+128-20	20600-20603	was	_
+128-21	20604-20612	followed	_
+128-22	20613-20615	by	_
+128-23	20616-20622	reward	_
+128-24	20623-20626	and	_
+128-25	20627-20633	trials	_
+128-26	20634-20638	when	_
+128-27	20639-20642	the	_
+128-28	20643-20646	0.8	_
+128-29	20647-20659	non-rewarded	_
+128-30	20660-20667	feature	_
+128-31	20668-20671	was	_
+128-32	20672-20680	followed	_
+128-33	20681-20683	by	_
+128-34	20684-20685	a	_
+128-35	20686-20692	circle	_
+128-36	20692-20693	)	_
+128-37	20694-20700	versus	_
+128-38	20701-20711	unexpected	_
+128-39	20712-20718	events	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+128-40	20719-20720	(	_
+128-41	20720-20723	i.e	_
+128-42	20723-20724	.	_
+128-43	20725-20731	trials	_
+128-44	20732-20736	when	_
+128-45	20737-20740	the	_
+128-46	20741-20744	0.8	_
+128-47	20745-20753	rewarded	_
+128-48	20754-20761	feature	_
+128-49	20762-20765	was	_
+128-50	20766-20774	followed	_
+128-51	20775-20777	by	_
+128-52	20778-20781	the	_
+128-53	20782-20788	circle	_
+128-54	20789-20792	and	_
+128-55	20793-20799	trials	_
+128-56	20800-20804	when	_
+128-57	20805-20808	the	_
+128-58	20809-20812	0.8	_
+128-59	20813-20825	non-rewarded	_
+128-60	20826-20833	feature	_
+128-61	20834-20837	was	_
+128-62	20838-20846	followed	_
+128-63	20847-20849	by	_
+128-64	20850-20851	a	_
+128-65	20852-20856	coin	_
+128-66	20856-20857	)	_
+128-67	20858-20860	of	_
+128-68	20861-20864	the	_
+128-69	20865-20873	relevant	_
+128-70	20874-20883	condition	_
+128-71	20884-20886	in	_
+128-72	20887-20888	a	_
+128-73	20889-20906	repeated-measures	_
+128-74	20907-20912	ANOVA	_
+128-75	20913-20917	with	_
+128-76	20918-20923	group	_
+128-77	20924-20926	as	_
+128-78	20927-20942	between-subject	_
+128-79	20943-20949	factor	_
+128-80	20950-20951	(	_
+128-81	20951-20953	HC	_
+128-82	20954-20960	versus	_
+128-83	20961-20969	patients	_
+128-84	20969-20970	)	_
+128-85	20971-20974	and	_
+128-86	20975-20980	event	_
+128-87	20981-20985	type	_
+128-88	20986-20988	as	_
+128-89	20989-20995	within	_
+128-90	20996-21002	factor	_
+128-91	21003-21004	(	_
+128-92	21004-21012	expected	_
+128-93	21013-21019	versus	_
+128-94	21020-21030	unexpected	_
+128-95	21030-21031	)	_
+128-96	21031-21032	.	_
+
+Text=Second, a change in reaction times over time following contingency changes inside the relevant cue feature was tested using a repeated-measures ANOVA.
+129-1	21033-21039	Second	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+129-2	21039-21040	,	_
+129-3	21041-21042	a	_
+129-4	21043-21049	change	_
+129-5	21050-21052	in	_
+129-6	21053-21061	reaction	_
+129-7	21062-21067	times	_
+129-8	21068-21072	over	_
+129-9	21073-21077	time	_
+129-10	21078-21087	following	_
+129-11	21088-21099	contingency	_
+129-12	21100-21107	changes	_
+129-13	21108-21114	inside	_
+129-14	21115-21118	the	_
+129-15	21119-21127	relevant	_
+129-16	21128-21131	cue	_
+129-17	21132-21139	feature	_
+129-18	21140-21143	was	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+129-19	21144-21150	tested	_
+129-20	21151-21156	using	_
+129-21	21157-21158	a	_
+129-22	21159-21176	repeated-measures	_
+129-23	21177-21182	ANOVA	_
+129-24	21182-21183	.	_
+
+Text=For all eight blocks with 20 trials each, log-reaction times of the 16 expected events (ie, spanning those 8 trials when the rewarded feature was followed by reward and the 8 trials when the non-rewarded feature was followed by a circle) were grouped for rewarded versus neutral outcome trials (Condition factor) and combined into 4 time bins each, consisting of 2 consecutive trials (Time factor).
+130-1	21184-21187	For	_
+130-2	21188-21191	all	_
+130-3	21192-21197	eight	_
+130-4	21198-21204	blocks	_
+130-5	21205-21209	with	_
+130-6	21210-21212	20	_
+130-7	21213-21219	trials	_
+130-8	21220-21224	each	_
+130-9	21224-21225	,	_
+130-10	21226-21238	log-reaction	_
+130-11	21239-21244	times	_
+130-12	21245-21247	of	_
+130-13	21248-21251	the	_
+130-14	21252-21254	16	_
+130-15	21255-21263	expected	_
+130-16	21264-21270	events	_
+130-17	21271-21272	(	_
+130-18	21272-21274	ie	_
+130-19	21274-21275	,	_
+130-20	21276-21284	spanning	_
+130-21	21285-21290	those	_
+130-22	21291-21292	8	_
+130-23	21293-21299	trials	_
+130-24	21300-21304	when	_
+130-25	21305-21308	the	_
+130-26	21309-21317	rewarded	_
+130-27	21318-21325	feature	_
+130-28	21326-21329	was	_
+130-29	21330-21338	followed	_
+130-30	21339-21341	by	_
+130-31	21342-21348	reward	_
+130-32	21349-21352	and	_
+130-33	21353-21356	the	_
+130-34	21357-21358	8	_
+130-35	21359-21365	trials	_
+130-36	21366-21370	when	_
+130-37	21371-21374	the	_
+130-38	21375-21387	non-rewarded	_
+130-39	21388-21395	feature	_
+130-40	21396-21399	was	_
+130-41	21400-21408	followed	_
+130-42	21409-21411	by	_
+130-43	21412-21413	a	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+130-44	21414-21420	circle	_
+130-45	21420-21421	)	_
+130-46	21422-21426	were	_
+130-47	21427-21434	grouped	_
+130-48	21435-21438	for	_
+130-49	21439-21447	rewarded	_
+130-50	21448-21454	versus	_
+130-51	21455-21462	neutral	_
+130-52	21463-21470	outcome	_
+130-53	21471-21477	trials	_
+130-54	21478-21479	(	_
+130-55	21479-21488	Condition	_
+130-56	21489-21495	factor	_
+130-57	21495-21496	)	_
+130-58	21497-21500	and	_
+130-59	21501-21509	combined	_
+130-60	21510-21514	into	_
+130-61	21515-21516	4	_
+130-62	21517-21521	time	_
+130-63	21522-21526	bins	_
+130-64	21527-21531	each	_
+130-65	21531-21532	,	_
+130-66	21533-21543	consisting	_
+130-67	21544-21546	of	_
+130-68	21547-21548	2	_
+130-69	21549-21560	consecutive	_
+130-70	21561-21567	trials	_
+130-71	21568-21569	(	_
+130-72	21569-21573	Time	_
+130-73	21574-21580	factor	_
+130-74	21580-21581	)	_
+130-75	21581-21582	.	_
+
+Text=For analyses targeting responses with regard to different cue features, please see the Supplement.
+131-1	21583-21586	For	_
+131-2	21587-21595	analyses	_
+131-3	21596-21605	targeting	_
+131-4	21606-21615	responses	_
+131-5	21616-21620	with	_
+131-6	21621-21627	regard	_
+131-7	21628-21630	to	_
+131-8	21631-21640	different	_
+131-9	21641-21644	cue	_
+131-10	21645-21653	features	_
+131-11	21653-21654	,	_
+131-12	21655-21661	please	_
+131-13	21662-21665	see	_
+131-14	21666-21669	the	_
+131-15	21670-21680	Supplement	_
+131-16	21680-21681	.	_
+
+Text=For aberrant salience attribution, aberrant salience scores were calculated as in the previous literature, and reflected an individual bias towards one of the two irrelevant cue manifestations based on the ground truth contingencies.
+132-1	21682-21685	For	_
+132-2	21686-21694	aberrant	_
+132-3	21695-21703	salience	_
+132-4	21704-21715	attribution	_
+132-5	21715-21716	,	_
+132-6	21717-21725	aberrant	_
+132-7	21726-21734	salience	_
+132-8	21735-21741	scores	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+132-9	21742-21746	were	_
+132-10	21747-21757	calculated	_
+132-11	21758-21760	as	_
+132-12	21761-21763	in	_
+132-13	21764-21767	the	_
+132-14	21768-21776	previous	_
+132-15	21777-21787	literature	_
+132-16	21787-21788	,	_
+132-17	21789-21792	and	_
+132-18	21793-21802	reflected	_
+132-19	21803-21805	an	_
+132-20	21806-21816	individual	_
+132-21	21817-21821	bias	_
+132-22	21822-21829	towards	_
+132-23	21830-21833	one	_
+132-24	21834-21836	of	_
+132-25	21837-21840	the	_
+132-26	21841-21844	two	_
+132-27	21845-21855	irrelevant	_
+132-28	21856-21859	cue	_
+132-29	21860-21874	manifestations	_
+132-30	21875-21880	based	_
+132-31	21881-21883	on	_
+132-32	21884-21887	the	_
+132-33	21888-21894	ground	_
+132-34	21895-21900	truth	_
+132-35	21901-21914	contingencies	_
+132-36	21914-21915	.	_
+
+Text=For that, the mean reaction times (in ms) to each of the four cue features when they were irrelevant to the task were calculated.
+133-1	21916-21919	For	_
+133-2	21920-21924	that	_
+133-3	21924-21925	,	_
+133-4	21926-21929	the	_
+133-5	21930-21934	mean	_
+133-6	21935-21943	reaction	_
+133-7	21944-21949	times	_
+133-8	21950-21951	(	_
+133-9	21951-21953	in	_
+133-10	21954-21956	ms	_
+133-11	21956-21957	)	_
+133-12	21958-21960	to	_
+133-13	21961-21965	each	_
+133-14	21966-21968	of	_
+133-15	21969-21972	the	_
+133-16	21973-21977	four	_
+133-17	21978-21981	cue	_
+133-18	21982-21990	features	_
+133-19	21991-21995	when	_
+133-20	21996-22000	they	_
+133-21	22001-22005	were	_
+133-22	22006-22016	irrelevant	_
+133-23	22017-22019	to	_
+133-24	22020-22023	the	_
+133-25	22024-22028	task	_
+133-26	22029-22033	were	_
+133-27	22034-22044	calculated	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+133-28	22044-22045	.	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+
+Text=Then, aberrant salience was calculated as the absolute difference in reaction times between both manifestations of each condition (eg, square over triangle when shape is irrelevant).
+134-1	22046-22050	Then	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+134-2	22050-22051	,	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+134-3	22052-22060	aberrant	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+134-4	22061-22069	salience	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+134-5	22070-22073	was	_
+134-6	22074-22084	calculated	_
+134-7	22085-22087	as	_
+134-8	22088-22091	the	_
+134-9	22092-22100	absolute	_
+134-10	22101-22111	difference	_
+134-11	22112-22114	in	_
+134-12	22115-22123	reaction	_
+134-13	22124-22129	times	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+134-14	22130-22137	between	_
+134-15	22138-22142	both	_
+134-16	22143-22157	manifestations	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+134-17	22158-22160	of	_
+134-18	22161-22165	each	_
+134-19	22166-22175	condition	_
+134-20	22176-22177	(	_
+134-21	22177-22179	eg	_
+134-22	22179-22180	,	_
+134-23	22181-22187	square	_
+134-24	22188-22192	over	_
+134-25	22193-22201	triangle	_
+134-26	22202-22206	when	_
+134-27	22207-22212	shape	_
+134-28	22213-22215	is	_
+134-29	22216-22226	irrelevant	_
+134-30	22226-22227	)	_
+134-31	22227-22228	.	_
+
+Text=Then, these two scores were collapsed across test halves.
+135-1	22229-22233	Then	_
+135-2	22233-22234	,	_
+135-3	22235-22240	these	_
+135-4	22241-22244	two	_
+135-5	22245-22251	scores	_
+135-6	22252-22256	were	_
+135-7	22257-22266	collapsed	_
+135-8	22267-22273	across	_
+135-9	22274-22278	test	_
+135-10	22279-22285	halves	_
+135-11	22285-22286	.	_
+
+Text=Computational modeling of relevant and irrelevant predictions We used detailed computational modeling combined with model selection in order to assess the learning mechanisms driving the observed individual behavior.
+136-1	22287-22300	Computational	_
+136-2	22301-22309	modeling	_
+136-3	22310-22312	of	_
+136-4	22313-22321	relevant	_
+136-5	22322-22325	and	_
+136-6	22326-22336	irrelevant	_
+136-7	22337-22348	predictions	_
+136-8	22349-22351	We	_
+136-9	22352-22356	used	_
+136-10	22357-22365	detailed	_
+136-11	22366-22379	computational	_
+136-12	22380-22388	modeling	_
+136-13	22389-22397	combined	_
+136-14	22398-22402	with	_
+136-15	22403-22408	model	_
+136-16	22409-22418	selection	_
+136-17	22419-22421	in	_
+136-18	22422-22427	order	_
+136-19	22428-22430	to	_
+136-20	22431-22437	assess	_
+136-21	22438-22441	the	_
+136-22	22442-22450	learning	_
+136-23	22451-22461	mechanisms	_
+136-24	22462-22469	driving	_
+136-25	22470-22473	the	_
+136-26	22474-22482	observed	_
+136-27	22483-22493	individual	_
+136-28	22494-22502	behavior	_
+136-29	22502-22503	.	_
+
+Text=By that we tested if subjects learned the underlying cue-outcome associations and inferred the relevant cue feature.
+137-1	22504-22506	By	_
+137-2	22507-22511	that	_
+137-3	22512-22514	we	_
+137-4	22515-22521	tested	_
+137-5	22522-22524	if	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+137-6	22525-22533	subjects	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+137-7	22534-22541	learned	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+137-8	22542-22545	the	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+137-9	22546-22556	underlying	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+137-10	22557-22568	cue-outcome	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+137-11	22569-22581	associations	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+137-12	22582-22585	and	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+137-13	22586-22594	inferred	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+137-14	22595-22598	the	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+137-15	22599-22607	relevant	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+137-16	22608-22611	cue	_
+137-17	22612-22619	feature	_
+137-18	22619-22620	.	_
+
+Text=In keeping with our initial definition of relevance, a cue feature should be perceived as more relevant the more precisely it is believed to predict the outcome.
+138-1	22621-22623	In	_
+138-2	22624-22631	keeping	_
+138-3	22632-22636	with	_
+138-4	22637-22640	our	_
+138-5	22641-22648	initial	_
+138-6	22649-22659	definition	_
+138-7	22660-22662	of	_
+138-8	22663-22672	relevance	_
+138-9	22672-22673	,	_
+138-10	22674-22675	a	_
+138-11	22676-22679	cue	_
+138-12	22680-22687	feature	_
+138-13	22688-22694	should	_
+138-14	22695-22697	be	_
+138-15	22698-22707	perceived	_
+138-16	22708-22710	as	_
+138-17	22711-22715	more	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+138-18	22716-22724	relevant	_
+138-19	22725-22728	the	_
+138-20	22729-22733	more	_
+138-21	22734-22743	precisely	_
+138-22	22744-22746	it	_
+138-23	22747-22749	is	_
+138-24	22750-22758	believed	_
+138-25	22759-22761	to	_
+138-26	22762-22769	predict	_
+138-27	22770-22773	the	_
+138-28	22774-22781	outcome	_
+138-29	22781-22782	.	_
+
+Text=In contrast, if the association between cue feature and outcome is very noisy, because the occurrence of reward and circle are equally probable this feature should be perceived as irrelevant.
+139-1	22783-22785	In	_
+139-2	22786-22794	contrast	_
+139-3	22794-22795	,	_
+139-4	22796-22798	if	_
+139-5	22799-22802	the	_
+139-6	22803-22814	association	_
+139-7	22815-22822	between	_
+139-8	22823-22826	cue	_
+139-9	22827-22834	feature	_
+139-10	22835-22838	and	_
+139-11	22839-22846	outcome	_
+139-12	22847-22849	is	_
+139-13	22850-22854	very	_
+139-14	22855-22860	noisy	_
+139-15	22860-22861	,	_
+139-16	22862-22869	because	_
+139-17	22870-22873	the	_
+139-18	22874-22884	occurrence	_
+139-19	22885-22887	of	_
+139-20	22888-22894	reward	_
+139-21	22895-22898	and	_
+139-22	22899-22905	circle	_
+139-23	22906-22909	are	_
+139-24	22910-22917	equally	_
+139-25	22918-22926	probable	_
+139-26	22927-22931	this	_
+139-27	22932-22939	feature	_
+139-28	22940-22946	should	_
+139-29	22947-22949	be	_
+139-30	22950-22959	perceived	_
+139-31	22960-22962	as	_
+139-32	22963-22973	irrelevant	_
+139-33	22973-22974	.	_
+
+Text=We set up novel response models that postulated slowing down of responses when the expectations were violated.
+140-1	22975-22977	We	_
+140-2	22978-22981	set	_
+140-3	22982-22984	up	_
+140-4	22985-22990	novel	_
+140-5	22991-22999	response	_
+140-6	23000-23006	models	_
+140-7	23007-23011	that	_
+140-8	23012-23022	postulated	_
+140-9	23023-23030	slowing	_
+140-10	23031-23035	down	_
+140-11	23036-23038	of	_
+140-12	23039-23048	responses	_
+140-13	23049-23053	when	_
+140-14	23054-23057	the	_
+140-15	23058-23070	expectations	_
+140-16	23071-23075	were	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+140-17	23076-23084	violated	_
+140-18	23084-23085	.	_
+
+Text=Computationally, a violation was captured by the unsigned PE of each feature.
+141-1	23086-23101	Computationally	_
+141-2	23101-23102	,	_
+141-3	23103-23104	a	_
+141-4	23105-23114	violation	_
+141-5	23115-23118	was	_
+141-6	23119-23127	captured	_
+141-7	23128-23130	by	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+141-8	23131-23134	the	_
+141-9	23135-23143	unsigned	_
+141-10	23144-23146	PE	_
+141-11	23147-23149	of	_
+141-12	23150-23154	each	_
+141-13	23155-23162	feature	_
+141-14	23162-23163	.	_
+
+Text=In different models, we compared if unsigned PEs of the different cue features differentially affected behavior based on their current relevance.
+142-1	23164-23166	In	_
+142-2	23167-23176	different	_
+142-3	23177-23183	models	_
+142-4	23183-23184	,	_
+142-5	23185-23187	we	_
+142-6	23188-23196	compared	_
+142-7	23197-23199	if	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+142-8	23200-23208	unsigned	_
+142-9	23209-23212	PEs	_
+142-10	23213-23215	of	_
+142-11	23216-23219	the	_
+142-12	23220-23229	different	_
+142-13	23230-23233	cue	_
+142-14	23234-23242	features	_
+142-15	23243-23257	differentially	_
+142-16	23258-23266	affected	_
+142-17	23267-23275	behavior	_
+142-18	23276-23281	based	_
+142-19	23282-23284	on	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+142-20	23285-23290	their	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+142-21	23291-23298	current	_
+142-22	23299-23308	relevance	_
+142-23	23308-23309	.	_
+
+Text=By the relevance weighted PE, we implemented increased adaptation to surprising events (unsigned PE) predicted by the most relevant cue feature as well as decreased adaptation to the irrelevant cue feature.
+143-1	23310-23312	By	_
+143-2	23313-23316	the	_
+143-3	23317-23326	relevance	_
+143-4	23327-23335	weighted	_
+143-5	23336-23338	PE	_
+143-6	23338-23339	,	_
+143-7	23340-23342	we	_
+143-8	23343-23354	implemented	_
+143-9	23355-23364	increased	_
+143-10	23365-23375	adaptation	_
+143-11	23376-23378	to	_
+143-12	23379-23389	surprising	_
+143-13	23390-23396	events	_
+143-14	23397-23398	(	_
+143-15	23398-23406	unsigned	_
+143-16	23407-23409	PE	_
+143-17	23409-23410	)	_
+143-18	23411-23420	predicted	_
+143-19	23421-23423	by	_
+143-20	23424-23427	the	_
+143-21	23428-23432	most	_
+143-22	23433-23441	relevant	_
+143-23	23442-23445	cue	_
+143-24	23446-23453	feature	_
+143-25	23454-23456	as	_
+143-26	23457-23461	well	_
+143-27	23462-23464	as	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+143-28	23465-23474	decreased	_
+143-29	23475-23485	adaptation	_
+143-30	23486-23488	to	_
+143-31	23489-23492	the	_
+143-32	23493-23503	irrelevant	_
+143-33	23504-23507	cue	_
+143-34	23508-23515	feature	_
+143-35	23515-23516	.	_
+
+Text=Thereby, we tested if individuals adapted their behavior less to events when these had proven to be noisy and uninformative in the past.
+144-1	23517-23524	Thereby	_
+144-2	23524-23525	,	_
+144-3	23526-23528	we	_
+144-4	23529-23535	tested	_
+144-5	23536-23538	if	_
+144-6	23539-23550	individuals	_
+144-7	23551-23558	adapted	_
+144-8	23559-23564	their	_
+144-9	23565-23573	behavior	_
+144-10	23574-23578	less	_
+144-11	23579-23581	to	_
+144-12	23582-23588	events	_
+144-13	23589-23593	when	_
+144-14	23594-23599	these	_
+144-15	23600-23603	had	_
+144-16	23604-23610	proven	_
+144-17	23611-23613	to	_
+144-18	23614-23616	be	_
+144-19	23617-23622	noisy	_
+144-20	23623-23626	and	_
+144-21	23627-23640	uninformative	_
+144-22	23641-23643	in	_
+144-23	23644-23647	the	_
+144-24	23648-23652	past	_
+144-25	23652-23653	.	_
+
+Text=Instead, they would adapt their behavior to those unexpected events that were held to be informative because these may actually signal a real change in the environment (as the contingency changes in our task).
+145-1	23654-23661	Instead	_
+145-2	23661-23662	,	_
+145-3	23663-23667	they	_
+145-4	23668-23673	would	_
+145-5	23674-23679	adapt	_
+145-6	23680-23685	their	_
+145-7	23686-23694	behavior	_
+145-8	23695-23697	to	_
+145-9	23698-23703	those	_
+145-10	23704-23714	unexpected	_
+145-11	23715-23721	events	_
+145-12	23722-23726	that	_
+145-13	23727-23731	were	_
+145-14	23732-23736	held	_
+145-15	23737-23739	to	_
+145-16	23740-23742	be	_
+145-17	23743-23754	informative	_
+145-18	23755-23762	because	_
+145-19	23763-23768	these	_
+145-20	23769-23772	may	_
+145-21	23773-23781	actually	_
+145-22	23782-23788	signal	_
+145-23	23789-23790	a	_
+145-24	23791-23795	real	_
+145-25	23796-23802	change	_
+145-26	23803-23805	in	_
+145-27	23806-23809	the	_
+145-28	23810-23821	environment	_
+145-29	23822-23823	(	_
+145-30	23823-23825	as	_
+145-31	23826-23829	the	_
+145-32	23830-23841	contingency	_
+145-33	23842-23849	changes	_
+145-34	23850-23852	in	_
+145-35	23853-23856	our	_
+145-36	23857-23861	task	_
+145-37	23861-23862	)	_
+145-38	23862-23863	.	_
+
+Text=Our modeling analysis was guided by two aims: Modeling two parallel learning processes of predicting the relevant and the irrelevant cue feature in order to compute distinct prediction error trajectories [for a comparable learning model, please see].
+146-1	23864-23867	Our	_
+146-2	23868-23876	modeling	_
+146-3	23877-23885	analysis	_
+146-4	23886-23889	was	_
+146-5	23890-23896	guided	_
+146-6	23897-23899	by	_
+146-7	23900-23903	two	_
+146-8	23904-23908	aims	_
+146-9	23908-23909	:	_
+146-10	23910-23918	Modeling	_
+146-11	23919-23922	two	_
+146-12	23923-23931	parallel	_
+146-13	23932-23940	learning	_
+146-14	23941-23950	processes	_
+146-15	23951-23953	of	_
+146-16	23954-23964	predicting	_
+146-17	23965-23968	the	_
+146-18	23969-23977	relevant	_
+146-19	23978-23981	and	_
+146-20	23982-23985	the	_
+146-21	23986-23996	irrelevant	_
+146-22	23997-24000	cue	_
+146-23	24001-24008	feature	_
+146-24	24009-24011	in	_
+146-25	24012-24017	order	_
+146-26	24018-24020	to	_
+146-27	24021-24028	compute	_
+146-28	24029-24037	distinct	_
+146-29	24038-24048	prediction	_
+146-30	24049-24054	error	_
+146-31	24055-24067	trajectories	_
+146-32	24068-24069	[	_
+146-33	24069-24072	for	_
+146-34	24073-24074	a	_
+146-35	24075-24085	comparable	_
+146-36	24086-24094	learning	_
+146-37	24095-24100	model	_
+146-38	24100-24101	,	_
+146-39	24102-24108	please	_
+146-40	24109-24112	see	_
+146-41	24113-24114	]	_
+146-42	24114-24115	.	_
+
+Text=Here, it is crucial to determine a formal definition of “ relevance ” since the participants had to dynamically infer which cue feature was relevant for predicting the outcome (even though this was not necessary to solve the task, that is, discriminating between a coin and a circle).
+147-1	24116-24120	Here	_
+147-2	24120-24121	,	_
+147-3	24122-24124	it	_
+147-4	24125-24127	is	_
+147-5	24128-24135	crucial	_
+147-6	24136-24138	to	_
+147-7	24139-24148	determine	_
+147-8	24149-24150	a	_
+147-9	24151-24157	formal	_
+147-10	24158-24168	definition	_
+147-11	24169-24171	of	_
+147-12	24172-24173	“	_
+147-13	24173-24182	relevance	_
+147-14	24182-24183	”	_
+147-15	24184-24189	since	_
+147-16	24190-24193	the	_
+147-17	24194-24206	participants	_
+147-18	24207-24210	had	_
+147-19	24211-24213	to	_
+147-20	24214-24225	dynamically	_
+147-21	24226-24231	infer	_
+147-22	24232-24237	which	_
+147-23	24238-24241	cue	_
+147-24	24242-24249	feature	_
+147-25	24250-24253	was	_
+147-26	24254-24262	relevant	_
+147-27	24263-24266	for	_
+147-28	24267-24277	predicting	_
+147-29	24278-24281	the	_
+147-30	24282-24289	outcome	_
+147-31	24290-24291	(	_
+147-32	24291-24295	even	_
+147-33	24296-24302	though	_
+147-34	24303-24307	this	_
+147-35	24308-24311	was	_
+147-36	24312-24315	not	_
+147-37	24316-24325	necessary	_
+147-38	24326-24328	to	_
+147-39	24329-24334	solve	_
+147-40	24335-24338	the	_
+147-41	24339-24343	task	_
+147-42	24343-24344	,	_
+147-43	24345-24349	that	_
+147-44	24350-24352	is	_
+147-45	24352-24353	,	_
+147-46	24354-24368	discriminating	_
+147-47	24369-24376	between	_
+147-48	24377-24378	a	_
+147-49	24379-24383	coin	_
+147-50	24384-24387	and	_
+147-51	24388-24389	a	_
+147-52	24390-24396	circle	_
+147-53	24396-24397	)	_
+147-54	24397-24398	.	_
+
+Text=Describing the aberrant salience effect to an irrelevant feature as seen in previous analyses on a computational level by finding interindividual differences in model parameters capturing this effect.
+148-1	24399-24409	Describing	_
+148-2	24410-24413	the	_
+148-3	24414-24422	aberrant	_
+148-4	24423-24431	salience	_
+148-5	24432-24438	effect	_
+148-6	24439-24441	to	_
+148-7	24442-24444	an	_
+148-8	24445-24455	irrelevant	_
+148-9	24456-24463	feature	_
+148-10	24464-24466	as	_
+148-11	24467-24471	seen	_
+148-12	24472-24474	in	_
+148-13	24475-24483	previous	_
+148-14	24484-24492	analyses	_
+148-15	24493-24495	on	_
+148-16	24496-24497	a	_
+148-17	24498-24511	computational	_
+148-18	24512-24517	level	_
+148-19	24518-24520	by	_
+148-20	24521-24528	finding	_
+148-21	24529-24544	interindividual	_
+148-22	24545-24556	differences	_
+148-23	24557-24559	in	_
+148-24	24560-24565	model	_
+148-25	24566-24576	parameters	_
+148-26	24577-24586	capturing	_
+148-27	24587-24591	this	_
+148-28	24592-24598	effect	_
+148-29	24598-24599	.	_
+
+Text=We modeled predictions for each of the two cue features, shape and color, in separate HGF learning models so that a trial-by-trial expectation was computed for each feature (learning model).
+149-1	24600-24602	We	_
+149-2	24603-24610	modeled	_
+149-3	24611-24622	predictions	_
+149-4	24623-24626	for	_
+149-5	24627-24631	each	_
+149-6	24632-24634	of	_
+149-7	24635-24638	the	_
+149-8	24639-24642	two	_
+149-9	24643-24646	cue	_
+149-10	24647-24655	features	_
+149-11	24655-24656	,	_
+149-12	24657-24662	shape	_
+149-13	24663-24666	and	_
+149-14	24667-24672	color	_
+149-15	24672-24673	,	_
+149-16	24674-24676	in	_
+149-17	24677-24685	separate	_
+149-18	24686-24689	HGF	_
+149-19	24690-24698	learning	_
+149-20	24699-24705	models	_
+149-21	24706-24708	so	_
+149-22	24709-24713	that	_
+149-23	24714-24715	a	_
+149-24	24716-24730	trial-by-trial	_
+149-25	24731-24742	expectation	_
+149-26	24743-24746	was	_
+149-27	24747-24755	computed	_
+149-28	24756-24759	for	_
+149-29	24760-24764	each	_
+149-30	24765-24772	feature	_
+149-31	24773-24774	(	_
+149-32	24774-24782	learning	_
+149-33	24783-24788	model	_
+149-34	24788-24789	)	_
+149-35	24789-24790	.	_
+
+Text=We did not model relevant and irrelevant conditions separately because of two reasons.
+150-1	24791-24793	We	_
+150-2	24794-24797	did	_
+150-3	24798-24801	not	_
+150-4	24802-24807	model	_
+150-5	24808-24816	relevant	_
+150-6	24817-24820	and	_
+150-7	24821-24831	irrelevant	_
+150-8	24832-24842	conditions	_
+150-9	24843-24853	separately	_
+150-10	24854-24861	because	_
+150-11	24862-24864	of	_
+150-12	24865-24868	two	_
+150-13	24869-24876	reasons	_
+150-14	24876-24877	.	_
+
+Text=First, the generative model was supposed to capture the subjects ’ learning experience and they were not instructed about the task structure having relevant and irrelevant conditions.
+151-1	24878-24883	First	_
+151-2	24883-24884	,	_
+151-3	24885-24888	the	_
+151-4	24889-24899	generative	_
+151-5	24900-24905	model	_
+151-6	24906-24909	was	_
+151-7	24910-24918	supposed	_
+151-8	24919-24921	to	_
+151-9	24922-24929	capture	_
+151-10	24930-24933	the	_
+151-11	24934-24942	subjects	_
+151-12	24942-24943	’	_
+151-13	24944-24952	learning	_
+151-14	24953-24963	experience	_
+151-15	24964-24967	and	_
+151-16	24968-24972	they	_
+151-17	24973-24977	were	_
+151-18	24978-24981	not	_
+151-19	24982-24992	instructed	_
+151-20	24993-24998	about	_
+151-21	24999-25002	the	_
+151-22	25003-25007	task	_
+151-23	25008-25017	structure	_
+151-24	25018-25024	having	_
+151-25	25025-25033	relevant	_
+151-26	25034-25037	and	_
+151-27	25038-25048	irrelevant	_
+151-28	25049-25059	conditions	_
+151-29	25059-25060	.	_
+
+Text=Instead they were only primed with the distinction by feature, color and shape, in the practice session.
+152-1	25061-25068	Instead	_
+152-2	25069-25073	they	_
+152-3	25074-25078	were	_
+152-4	25079-25083	only	_
+152-5	25084-25090	primed	_
+152-6	25091-25095	with	_
+152-7	25096-25099	the	_
+152-8	25100-25111	distinction	_
+152-9	25112-25114	by	_
+152-10	25115-25122	feature	_
+152-11	25122-25123	,	_
+152-12	25124-25129	color	_
+152-13	25130-25133	and	_
+152-14	25134-25139	shape	_
+152-15	25139-25140	,	_
+152-16	25141-25143	in	_
+152-17	25144-25147	the	_
+152-18	25148-25156	practice	_
+152-19	25157-25164	session	_
+152-20	25164-25165	.	_
+
+Text=Second, after the first half of the experiment we switched the relevant dimension (e.g. shape to color).
+153-1	25166-25172	Second	_
+153-2	25172-25173	,	_
+153-3	25174-25179	after	_
+153-4	25180-25183	the	_
+153-5	25184-25189	first	_
+153-6	25190-25194	half	_
+153-7	25195-25197	of	_
+153-8	25198-25201	the	_
+153-9	25202-25212	experiment	_
+153-10	25213-25215	we	_
+153-11	25216-25224	switched	_
+153-12	25225-25228	the	_
+153-13	25229-25237	relevant	_
+153-14	25238-25247	dimension	_
+153-15	25248-25249	(	_
+153-16	25249-25252	e.g	_
+153-17	25252-25253	.	_
+153-18	25254-25259	shape	_
+153-19	25260-25262	to	_
+153-20	25263-25268	color	_
+153-21	25268-25269	)	_
+153-22	25269-25270	.	_
+
+Text=Hence, modeling separately for relevance versus irrelevance would have introduced external information on the task structure that was not accessible to subjects and thus not generative.
+154-1	25271-25276	Hence	_
+154-2	25276-25277	,	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+154-3	25278-25286	modeling	_
+154-4	25287-25297	separately	_
+154-5	25298-25301	for	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+154-6	25302-25311	relevance	_
+154-7	25312-25318	versus	_
+154-8	25319-25330	irrelevance	_
+154-9	25331-25336	would	_
+154-10	25337-25341	have	_
+154-11	25342-25352	introduced	_
+154-12	25353-25361	external	_
+154-13	25362-25373	information	_
+154-14	25374-25376	on	_
+154-15	25377-25380	the	_
+154-16	25381-25385	task	_
+154-17	25386-25395	structure	_
+154-18	25396-25400	that	_
+154-19	25401-25404	was	_
+154-20	25405-25408	not	_
+154-21	25409-25419	accessible	_
+154-22	25420-25422	to	_
+154-23	25423-25431	subjects	_
+154-24	25432-25435	and	_
+154-25	25436-25440	thus	_
+154-26	25441-25444	not	_
+154-27	25445-25455	generative	_
+154-28	25455-25456	.	_
+
+Text=The resulting learning trajectories for shape and color were transformed into trial-by-trial predictors of reaction times (response model).
+155-1	25457-25460	The	_
+155-2	25461-25470	resulting	_
+155-3	25471-25479	learning	_
+155-4	25480-25492	trajectories	_
+155-5	25493-25496	for	_
+155-6	25497-25502	shape	_
+155-7	25503-25506	and	_
+155-8	25507-25512	color	_
+155-9	25513-25517	were	_
+155-10	25518-25529	transformed	_
+155-11	25530-25534	into	_
+155-12	25535-25549	trial-by-trial	_
+155-13	25550-25560	predictors	_
+155-14	25561-25563	of	_
+155-15	25564-25572	reaction	_
+155-16	25573-25578	times	_
+155-17	25579-25580	(	_
+155-18	25580-25588	response	_
+155-19	25589-25594	model	_
+155-20	25594-25595	)	_
+155-21	25595-25596	.	_
+
+Text=Hierarchical Gaussian filter [HGF;] According to the ‘ Bayesian brain ’ hypothesis, an agent forms a generative model of the world in part by increasing the precision of predictions (μ) to successfully adapt one ’ s behavior.
+156-1	25597-25609	Hierarchical	_
+156-2	25610-25618	Gaussian	_
+156-3	25619-25625	filter	_
+156-4	25626-25627	[	_
+156-5	25627-25630	HGF	_
+156-6	25630-25631	;	_
+156-7	25632-25633	]	_
+156-8	25634-25643	According	_
+156-9	25644-25646	to	_
+156-10	25647-25650	the	_
+156-11	25651-25652	‘	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+156-12	25652-25660	Bayesian	_
+156-13	25661-25666	brain	_
+156-14	25666-25667	’	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+156-15	25668-25678	hypothesis	_
+156-16	25678-25679	,	_
+156-17	25680-25682	an	_
+156-18	25683-25688	agent	_
+156-19	25689-25694	forms	_
+156-20	25695-25696	a	_
+156-21	25697-25707	generative	_
+156-22	25708-25713	model	_
+156-23	25714-25716	of	_
+156-24	25717-25720	the	_
+156-25	25721-25726	world	_
+156-26	25727-25729	in	_
+156-27	25730-25734	part	_
+156-28	25735-25737	by	_
+156-29	25738-25748	increasing	_
+156-30	25749-25752	the	_
+156-31	25753-25762	precision	_
+156-32	25763-25765	of	_
+156-33	25766-25777	predictions	_
+156-34	25778-25779	(	_
+156-35	25779-25780	μ	_
+156-36	25780-25781	)	_
+156-37	25782-25784	to	_
+156-38	25785-25797	successfully	_
+156-39	25798-25803	adapt	_
+156-40	25804-25807	one	_
+156-41	25807-25808	’	_
+156-42	25808-25809	s	_
+156-43	25810-25818	behavior	_
+156-44	25818-25819	.	_
+
+Text=The HGF offers a generic framework for Bayesian learning on multiple hierarchical levels.
+157-1	25820-25823	The	_
+157-2	25824-25827	HGF	_
+157-3	25828-25834	offers	_
+157-4	25835-25836	a	_
+157-5	25837-25844	generic	_
+157-6	25845-25854	framework	_
+157-7	25855-25858	for	_
+157-8	25859-25867	Bayesian	_
+157-9	25868-25876	learning	_
+157-10	25877-25879	on	_
+157-11	25880-25888	multiple	_
+157-12	25889-25901	hierarchical	_
+157-13	25902-25908	levels	_
+157-14	25908-25909	.	_
+
+Text=Crucially, the belief update at each level is comprised of a lower-level prediction error that is weighted according to a cross-level precision ratio (Eqs 1 and 2; i for learning level, and k for trial number).
+158-1	25910-25919	Crucially	_
+158-2	25919-25920	,	_
+158-3	25921-25924	the	_
+158-4	25925-25931	belief	_
+158-5	25932-25938	update	_
+158-6	25939-25941	at	_
+158-7	25942-25946	each	_
+158-8	25947-25952	level	_
+158-9	25953-25955	is	_
+158-10	25956-25965	comprised	_
+158-11	25966-25968	of	_
+158-12	25969-25970	a	_
+158-13	25971-25982	lower-level	_
+158-14	25983-25993	prediction	_
+158-15	25994-25999	error	_
+158-16	26001-26005	that	_
+158-17	26006-26008	is	_
+158-18	26009-26017	weighted	_
+158-19	26018-26027	according	_
+158-20	26028-26030	to	_
+158-21	26031-26032	a	_
+158-22	26033-26044	cross-level	_
+158-23	26045-26054	precision	_
+158-24	26055-26060	ratio	_
+158-25	26061-26062	(	_
+158-26	26062-26065	Eqs	_
+158-27	26066-26067	1	_
+158-28	26068-26071	and	_
+158-29	26072-26073	2	_
+158-30	26073-26074	;	_
+158-31	26075-26076	i	_
+158-32	26077-26080	for	_
+158-33	26081-26089	learning	_
+158-34	26090-26095	level	_
+158-35	26095-26096	,	_
+158-36	26097-26100	and	_
+158-37	26101-26102	k	_
+158-38	26103-26106	for	_
+158-39	26107-26112	trial	_
+158-40	26113-26119	number	_
+158-41	26119-26120	)	_
+158-42	26120-26121	.	_
+
+Text=The precision of each level ’ s prediction is defined as the inverse variance of the prediction.
+159-1	26122-26125	The	_
+159-2	26126-26135	precision	_
+159-3	26136-26138	of	_
+159-4	26139-26143	each	_
+159-5	26144-26149	level	_
+159-6	26149-26150	’	_
+159-7	26150-26151	s	_
+159-8	26152-26162	prediction	_
+159-9	26164-26166	is	_
+159-10	26167-26174	defined	_
+159-11	26175-26177	as	_
+159-12	26178-26181	the	_
+159-13	26182-26189	inverse	_
+159-14	26190-26198	variance	_
+159-15	26199-26201	of	_
+159-16	26202-26205	the	_
+159-17	26206-26216	prediction	_
+159-18	26216-26217	.	_
+
+Text=We used a “ two branches ” version of the HGF for parallel learning of the shape and color associations with the outcome.
+160-1	26218-26220	We	_
+160-2	26221-26225	used	_
+160-3	26226-26227	a	_
+160-4	26228-26229	“	_
+160-5	26229-26232	two	_
+160-6	26233-26241	branches	_
+160-7	26241-26242	”	_
+160-8	26243-26250	version	_
+160-9	26251-26253	of	_
+160-10	26254-26257	the	_
+160-11	26258-26261	HGF	_
+160-12	26262-26265	for	_
+160-13	26266-26274	parallel	_
+160-14	26275-26283	learning	_
+160-15	26284-26286	of	_
+160-16	26287-26290	the	_
+160-17	26291-26296	shape	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+160-18	26297-26300	and	_
+160-19	26301-26306	color	_
+160-20	26307-26319	associations	_
+160-21	26320-26324	with	_
+160-22	26325-26328	the	_
+160-23	26329-26336	outcome	_
+160-24	26336-26337	.	_
+
+Text=In our modelling, we focused on the reliability and thus undirected beliefs about associations.
+161-1	26338-26340	In	_
+161-2	26341-26344	our	_
+161-3	26345-26354	modelling	_
+161-4	26354-26355	,	_
+161-5	26356-26358	we	_
+161-6	26359-26366	focused	_
+161-7	26367-26369	on	_
+161-8	26370-26373	the	_
+161-9	26374-26385	reliability	_
+161-10	26386-26389	and	_
+161-11	26390-26394	thus	_
+161-12	26395-26405	undirected	_
+161-13	26406-26413	beliefs	_
+161-14	26414-26419	about	_
+161-15	26420-26432	associations	_
+161-16	26432-26433	.	_
+
+Text=Thus, the direction of the learning trajectories (association beliefs and prediction errors δ) did not reflect the reward value but an arbitrarily determined relationship between cue feature manifestations and outcomes.
+162-1	26434-26438	Thus	_
+162-2	26438-26439	,	_
+162-3	26440-26443	the	_
+162-4	26444-26453	direction	_
+162-5	26454-26456	of	_
+162-6	26457-26460	the	_
+162-7	26461-26469	learning	_
+162-8	26470-26482	trajectories	_
+162-9	26483-26484	(	_
+162-10	26484-26495	association	_
+162-11	26496-26503	beliefs	_
+162-12	26505-26508	and	_
+162-13	26509-26519	prediction	_
+162-14	26520-26526	errors	_
+162-15	26527-26528	δ	_
+162-16	26528-26529	)	_
+162-17	26530-26533	did	_
+162-18	26534-26537	not	_
+162-19	26538-26545	reflect	_
+162-20	26546-26549	the	_
+162-21	26550-26556	reward	_
+162-22	26557-26562	value	_
+162-23	26563-26566	but	_
+162-24	26567-26569	an	_
+162-25	26570-26581	arbitrarily	_
+162-26	26582-26592	determined	_
+162-27	26593-26605	relationship	_
+162-28	26606-26613	between	_
+162-29	26614-26617	cue	_
+162-30	26618-26625	feature	_
+162-31	26626-26640	manifestations	_
+162-32	26641-26644	and	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+162-33	26645-26653	outcomes	_
+162-34	26653-26654	.	_
+
+Text=A more detailed description of the HGF and its levels can be found in the Supplement.
+163-1	26655-26656	A	_
+163-2	26657-26661	more	_
+163-3	26662-26670	detailed	_
+163-4	26671-26682	description	_
+163-5	26683-26685	of	_
+163-6	26686-26689	the	_
+163-7	26690-26693	HGF	_
+163-8	26694-26697	and	_
+163-9	26698-26701	its	_
+163-10	26702-26708	levels	_
+163-11	26709-26712	can	_
+163-12	26713-26715	be	_
+163-13	26716-26721	found	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+163-14	26722-26724	in	_
+163-15	26725-26728	the	_
+163-16	26729-26739	Supplement	_
+163-17	26739-26740	.	_
+
+Text=A novel definition of relevance: First-level precision Since the core aim of this study was the dissociation between learning about relevant versus irrelevant cue features, the term relevance needs to be defined formally.
+164-1	26741-26742	A	_
+164-2	26743-26748	novel	_
+164-3	26749-26759	definition	_
+164-4	26760-26762	of	_
+164-5	26763-26772	relevance	_
+164-6	26772-26773	:	_
+164-7	26774-26785	First-level	_
+164-8	26786-26795	precision	_
+164-9	26796-26801	Since	_
+164-10	26802-26805	the	_
+164-11	26806-26810	core	_
+164-12	26811-26814	aim	_
+164-13	26815-26817	of	_
+164-14	26818-26822	this	_
+164-15	26823-26828	study	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+164-16	26829-26832	was	_
+164-17	26833-26836	the	_
+164-18	26837-26849	dissociation	_
+164-19	26850-26857	between	_
+164-20	26858-26866	learning	_
+164-21	26867-26872	about	_
+164-22	26873-26881	relevant	_
+164-23	26882-26888	versus	_
+164-24	26889-26899	irrelevant	_
+164-25	26900-26903	cue	_
+164-26	26904-26912	features	_
+164-27	26912-26913	,	_
+164-28	26914-26917	the	_
+164-29	26918-26922	term	_
+164-30	26923-26932	relevance	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+164-31	26933-26938	needs	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+164-32	26939-26941	to	_
+164-33	26942-26944	be	_
+164-34	26945-26952	defined	_
+164-35	26953-26961	formally	_
+164-36	26961-26962	.	_
+
+Text=In terms of the ISP, a cue feature should be perceived as more relevant the more precisely it is believed to predict the outcome.
+165-1	26963-26965	In	_
+165-2	26966-26971	terms	_
+165-3	26972-26974	of	_
+165-4	26975-26978	the	_
+165-5	26979-26982	ISP	_
+165-6	26982-26983	,	_
+165-7	26984-26985	a	_
+165-8	26986-26989	cue	_
+165-9	26990-26997	feature	_
+165-10	26998-27004	should	_
+165-11	27005-27007	be	_
+165-12	27008-27017	perceived	_
+165-13	27018-27020	as	_
+165-14	27021-27025	more	_
+165-15	27026-27034	relevant	_
+165-16	27035-27038	the	_
+165-17	27039-27043	more	_
+165-18	27044-27053	precisely	_
+165-19	27054-27056	it	_
+165-20	27057-27059	is	_
+165-21	27060-27068	believed	_
+165-22	27069-27071	to	_
+165-23	27072-27079	predict	_
+165-24	27080-27083	the	_
+165-25	27084-27091	outcome	_
+165-26	27091-27092	.	_
+
+Text=In contrast, if the belief of an association is 0.5 it should be perceived as irrelevant for outcome prediction (because in this case reward and circle will occur with the same probability and cannot be reliably predicted).
+166-1	27093-27095	In	_
+166-2	27096-27104	contrast	_
+166-3	27104-27105	,	_
+166-4	27106-27108	if	_
+166-5	27109-27112	the	_
+166-6	27113-27119	belief	_
+166-7	27121-27123	of	_
+166-8	27124-27126	an	_
+166-9	27127-27138	association	_
+166-10	27139-27141	is	_
+166-11	27142-27145	0.5	_
+166-12	27146-27148	it	_
+166-13	27149-27155	should	_
+166-14	27156-27158	be	_
+166-15	27159-27168	perceived	_
+166-16	27169-27171	as	_
+166-17	27172-27182	irrelevant	_
+166-18	27183-27186	for	_
+166-19	27187-27194	outcome	_
+166-20	27195-27205	prediction	_
+166-21	27206-27207	(	_
+166-22	27207-27214	because	_
+166-23	27215-27217	in	_
+166-24	27218-27222	this	_
+166-25	27223-27227	case	_
+166-26	27228-27234	reward	_
+166-27	27235-27238	and	_
+166-28	27239-27245	circle	_
+166-29	27246-27250	will	_
+166-30	27251-27256	occur	_
+166-31	27257-27261	with	_
+166-32	27262-27265	the	_
+166-33	27266-27270	same	_
+166-34	27271-27282	probability	_
+166-35	27283-27286	and	_
+166-36	27287-27293	cannot	_
+166-37	27294-27296	be	_
+166-38	27297-27305	reliably	_
+166-39	27306-27315	predicted	_
+166-40	27315-27316	)	_
+166-41	27316-27317	.	_
+
+Text=In the HGF framework, this interpretation of relevance is reflected in the estimated precision of prediction on the first level (see 4).
+167-1	27318-27320	In	_
+167-2	27321-27324	the	_
+167-3	27325-27328	HGF	_
+167-4	27329-27338	framework	_
+167-5	27338-27339	,	_
+167-6	27340-27344	this	_
+167-7	27345-27359	interpretation	_
+167-8	27360-27362	of	_
+167-9	27363-27372	relevance	_
+167-10	27373-27375	is	_
+167-11	27376-27385	reflected	_
+167-12	27386-27388	in	_
+167-13	27389-27392	the	_
+167-14	27393-27402	estimated	_
+167-15	27403-27412	precision	_
+167-16	27413-27415	of	_
+167-17	27416-27426	prediction	_
+167-18	27427-27429	on	_
+167-19	27430-27433	the	_
+167-20	27434-27439	first	_
+167-21	27440-27445	level	_
+167-22	27447-27448	(	_
+167-23	27448-27451	see	_
+167-24	27452-27453	4	_
+167-25	27453-27454	)	_
+167-26	27454-27455	.	_
+
+Text=It is a function only of the first-level association prediction, which ranges between 0 and 1.
+168-1	27456-27458	It	_
+168-2	27459-27461	is	_
+168-3	27462-27463	a	_
+168-4	27464-27472	function	_
+168-5	27473-27477	only	_
+168-6	27478-27480	of	_
+168-7	27481-27484	the	_
+168-8	27485-27496	first-level	_
+168-9	27497-27508	association	_
+168-10	27509-27519	prediction	_
+168-11	27520-27521	,	_
+168-12	27522-27527	which	_
+168-13	27528-27534	ranges	_
+168-14	27535-27542	between	_
+168-15	27543-27544	0	_
+168-16	27545-27548	and	_
+168-17	27549-27550	1	_
+168-18	27550-27551	.	_
+
+Text=has a minimum of 4 for and increases symmetrically to infinity as approaches 0 or 1.
+169-1	27553-27556	has	_
+169-2	27557-27558	a	_
+169-3	27559-27566	minimum	_
+169-4	27567-27569	of	_
+169-5	27570-27571	4	_
+169-6	27572-27575	for	_
+169-7	27577-27580	and	_
+169-8	27581-27590	increases	_
+169-9	27591-27604	symmetrically	_
+169-10	27605-27607	to	_
+169-11	27608-27616	infinity	_
+169-12	27617-27619	as	_
+169-13	27621-27631	approaches	_
+169-14	27632-27633	0	_
+169-15	27634-27636	or	_
+169-16	27637-27638	1	_
+169-17	27638-27639	.	_
+
+Text=This relevance could affect how beliefs are updated (for this implementation (‘ precision feedback ’), see the Supplement) and / or how learning signals affect behavior, which we implemented in four response models.
+170-1	27640-27644	This	_
+170-2	27645-27654	relevance	_
+170-3	27655-27660	could	_
+170-4	27661-27667	affect	_
+170-5	27668-27671	how	_
+170-6	27672-27679	beliefs	_
+170-7	27680-27683	are	_
+170-8	27684-27691	updated	_
+170-9	27692-27693	(	_
+170-10	27693-27696	for	_
+170-11	27697-27701	this	_
+170-12	27702-27716	implementation	_
+170-13	27717-27718	(	_
+170-14	27718-27719	‘	_
+170-15	27719-27728	precision	_
+170-16	27729-27737	feedback	_
+170-17	27737-27738	’	_
+170-18	27738-27739	)	_
+170-19	27739-27740	,	_
+170-20	27741-27744	see	_
+170-21	27745-27748	the	_
+170-22	27749-27759	Supplement	_
+170-23	27759-27760	)	_
+170-24	27761-27764	and	_
+170-25	27764-27765	/	_
+170-26	27765-27767	or	_
+170-27	27768-27771	how	_
+170-28	27772-27780	learning	_
+170-29	27781-27788	signals	_
+170-30	27789-27795	affect	_
+170-31	27796-27804	behavior	_
+170-32	27804-27805	,	_
+170-33	27806-27811	which	_
+170-34	27812-27814	we	_
+170-35	27815-27826	implemented	_
+170-36	27827-27829	in	_
+170-37	27830-27834	four	_
+170-38	27835-27843	response	_
+170-39	27844-27850	models	_
+170-40	27850-27851	.	_
+
+Text=Our learning model space contained 2 - level and 3 - level HGFs with and without precision feedback (see Supplement), leading to four different hierarchical learning models: 2HGF, 2HGFprecfb, 3HGF, and 3HGFprecfb.
+171-1	27852-27855	Our	_
+171-2	27856-27864	learning	_
+171-3	27865-27870	model	_
+171-4	27871-27876	space	_
+171-5	27877-27886	contained	_
+171-6	27887-27888	2	_
+171-7	27888-27889	-	_
+171-8	27889-27894	level	_
+171-9	27895-27898	and	_
+171-10	27899-27900	3	_
+171-11	27900-27901	-	_
+171-12	27901-27906	level	_
+171-13	27907-27911	HGFs	_
+171-14	27912-27916	with	_
+171-15	27917-27920	and	_
+171-16	27921-27928	without	_
+171-17	27929-27938	precision	_
+171-18	27939-27947	feedback	_
+171-19	27948-27949	(	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+171-20	27949-27952	see	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+171-21	27953-27963	Supplement	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+171-22	27963-27964	)	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+171-23	27964-27965	,	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+171-24	27966-27973	leading	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+171-25	27974-27976	to	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+171-26	27977-27981	four	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+171-27	27982-27991	different	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+171-28	27992-28004	hierarchical	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+171-29	28005-28013	learning	_
+171-30	28014-28020	models	_
+171-31	28020-28021	:	_
+171-32	28022-28026	2HGF	_
+171-33	28026-28027	,	_
+171-34	28028-28038	2HGFprecfb	_
+171-35	28038-28039	,	_
+171-36	28040-28044	3HGF	_
+171-37	28044-28045	,	_
+171-38	28046-28049	and	_
+171-39	28050-28060	3HGFprecfb	_
+171-40	28060-28061	.	_
+
+Text=Response models Prediction errors relating to the cue feature that is thought to be more relevant might translate more strongly into reaction times, and the aberrant salience effect found in the raw data may be explained as a bias towards one of the irrelevant features on a trial-by-trial basis.
+172-1	28062-28070	Response	_
+172-2	28071-28077	models	_
+172-3	28078-28088	Prediction	_
+172-4	28089-28095	errors	_
+172-5	28096-28104	relating	_
+172-6	28105-28107	to	_
+172-7	28108-28111	the	_
+172-8	28112-28115	cue	_
+172-9	28116-28123	feature	_
+172-10	28124-28128	that	_
+172-11	28129-28131	is	_
+172-12	28132-28139	thought	_
+172-13	28140-28142	to	_
+172-14	28143-28145	be	_
+172-15	28146-28150	more	_
+172-16	28151-28159	relevant	_
+172-17	28160-28165	might	_
+172-18	28166-28175	translate	_
+172-19	28176-28180	more	_
+172-20	28181-28189	strongly	_
+172-21	28190-28194	into	_
+172-22	28195-28203	reaction	_
+172-23	28204-28209	times	_
+172-24	28209-28210	,	_
+172-25	28211-28214	and	_
+172-26	28215-28218	the	_
+172-27	28219-28227	aberrant	_
+172-28	28228-28236	salience	_
+172-29	28237-28243	effect	_
+172-30	28244-28249	found	_
+172-31	28250-28252	in	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
+172-32	28253-28256	the	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
+172-33	28257-28260	raw	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
+172-34	28261-28265	data	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
+172-35	28266-28269	may	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
+172-36	28270-28272	be	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
+172-37	28273-28282	explained	_
+172-38	28283-28285	as	_
+172-39	28286-28287	a	_
+172-40	28288-28292	bias	_
+172-41	28293-28300	towards	_
+172-42	28301-28304	one	_
+172-43	28305-28307	of	_
+172-44	28308-28311	the	_
+172-45	28312-28322	irrelevant	_
+172-46	28323-28331	features	_
+172-47	28332-28334	on	_
+172-48	28335-28336	a	_
+172-49	28337-28351	trial-by-trial	_
+172-50	28352-28357	basis	_
+172-51	28357-28358	.	_
+
+Text=Both aspects were formalized in the following four response models.
+173-1	28359-28363	Both	_
+173-2	28364-28371	aspects	_
+173-3	28372-28376	were	_
+173-4	28377-28387	formalized	_
+173-5	28388-28390	in	_
+173-6	28391-28394	the	_
+173-7	28395-28404	following	_
+173-8	28405-28409	four	_
+173-9	28410-28418	response	_
+173-10	28419-28425	models	_
+173-11	28425-28426	.	_
+
+Text=The baseline response model (see Eq 4) postulates that trial-by-trial reaction times are a linear function of the mean of the prediction errors of both features (4.1.1), a constant bias towards one feature manifestation (eg, triangles over squares) and the outcome (eg, slower for circles than for coin trials; 4.2.1).
+174-1	28427-28430	The	_
+174-2	28431-28439	baseline	_
+174-3	28440-28448	response	_
+174-4	28449-28454	model	_
+174-5	28455-28456	(	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
+174-6	28456-28459	see	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
+174-7	28460-28462	Eq	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
+174-8	28463-28464	4	_
+174-9	28464-28465	)	_
+174-10	28466-28476	postulates	_
+174-11	28477-28481	that	_
+174-12	28482-28496	trial-by-trial	_
+174-13	28497-28505	reaction	_
+174-14	28506-28511	times	_
+174-15	28512-28515	are	_
+174-16	28516-28517	a	_
+174-17	28518-28524	linear	_
+174-18	28525-28533	function	_
+174-19	28534-28536	of	_
+174-20	28537-28540	the	_
+174-21	28541-28545	mean	_
+174-22	28546-28548	of	_
+174-23	28549-28552	the	_
+174-24	28553-28563	prediction	_
+174-25	28564-28570	errors	_
+174-26	28571-28573	of	_
+174-27	28574-28578	both	_
+174-28	28579-28587	features	_
+174-29	28588-28589	(	_
+174-30	28589-28594	4.1.1	_
+174-31	28594-28595	)	_
+174-32	28595-28596	,	_
+174-33	28597-28598	a	_
+174-34	28599-28607	constant	_
+174-35	28608-28612	bias	_
+174-36	28613-28620	towards	_
+174-37	28621-28624	one	_
+174-38	28625-28632	feature	_
+174-39	28633-28646	manifestation	_
+174-40	28647-28648	(	_
+174-41	28648-28650	eg	_
+174-42	28650-28651	,	_
+174-43	28652-28661	triangles	_
+174-44	28662-28666	over	_
+174-45	28667-28674	squares	_
+174-46	28674-28675	)	_
+174-47	28676-28679	and	_
+174-48	28680-28683	the	_
+174-49	28684-28691	outcome	_
+174-50	28692-28693	(	_
+174-51	28693-28695	eg	_
+174-52	28695-28696	,	_
+174-53	28697-28703	slower	_
+174-54	28704-28707	for	_
+174-55	28708-28715	circles	_
+174-56	28716-28720	than	_
+174-57	28721-28724	for	_
+174-58	28725-28729	coin	_
+174-59	28730-28736	trials	_
+174-60	28736-28737	;	_
+174-61	28738-28743	4.2.1	_
+174-62	28743-28744	)	_
+174-63	28744-28745	.	_
+
+Text=The four cue manifestation vectors m reflect whether the respective manifestations were displayed for every trial (eg, 1 for triangles and 0 for squares in mtriangle).
+175-1	28746-28749	The	_
+175-2	28750-28754	four	_
+175-3	28755-28758	cue	_
+175-4	28759-28772	manifestation	_
+175-5	28773-28780	vectors	_
+175-6	28781-28782	m	_
+175-7	28783-28790	reflect	_
+175-8	28791-28798	whether	_
+175-9	28799-28802	the	_
+175-10	28803-28813	respective	_
+175-11	28814-28828	manifestations	_
+175-12	28829-28833	were	_
+175-13	28834-28843	displayed	_
+175-14	28844-28847	for	_
+175-15	28848-28853	every	_
+175-16	28854-28859	trial	_
+175-17	28860-28861	(	_
+175-18	28861-28863	eg	_
+175-19	28863-28864	,	_
+175-20	28865-28866	1	_
+175-21	28867-28870	for	_
+175-22	28871-28880	triangles	_
+175-23	28881-28884	and	_
+175-24	28885-28886	0	_
+175-25	28887-28890	for	_
+175-26	28891-28898	squares	_
+175-27	28899-28901	in	_
+175-28	28902-28911	mtriangle	_
+175-29	28911-28912	)	_
+175-30	28912-28913	.	_
+
+Text=This response model was modified in three ways.
+176-1	28914-28918	This	_
+176-2	28919-28927	response	_
+176-3	28928-28933	model	_
+176-4	28934-28937	was	_
+176-5	28938-28946	modified	_
+176-6	28947-28949	in	_
+176-7	28950-28955	three	_
+176-8	28956-28960	ways	_
+176-9	28960-28961	.	_
+
+Text=In a first modification (4.1.2), the absolute prediction errors of each feature were weighted according to their respective relevance weight (rel; 5).
+177-1	28962-28964	In	_
+177-2	28965-28966	a	_
+177-3	28967-28972	first	_
+177-4	28973-28985	modification	_
+177-5	28986-28987	(	_
+177-6	28987-28992	4.1.2	_
+177-7	28992-28993	)	_
+177-8	28993-28994	,	_
+177-9	28995-28998	the	_
+177-10	28999-29007	absolute	_
+177-11	29008-29018	prediction	_
+177-12	29019-29025	errors	_
+177-13	29026-29028	of	_
+177-14	29029-29033	each	_
+177-15	29034-29041	feature	_
+177-16	29042-29046	were	_
+177-17	29047-29055	weighted	_
+177-18	29056-29065	according	_
+177-19	29066-29068	to	_
+177-20	29069-29074	their	_
+177-21	29075-29085	respective	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+177-22	29086-29095	relevance	_
+177-23	29096-29102	weight	_
+177-24	29103-29104	(	_
+177-25	29104-29107	rel	_
+177-26	29107-29108	;	_
+177-27	29109-29110	5	_
+177-28	29110-29111	)	_
+177-29	29111-29112	.	_
+
+Text=The latter is formalized as the relative amount of each feature ’ s precision given the overall precisions of both features.
+178-1	29113-29116	The	_
+178-2	29117-29123	latter	_
+178-3	29124-29126	is	_
+178-4	29127-29137	formalized	_
+178-5	29138-29140	as	_
+178-6	29141-29144	the	_
+178-7	29145-29153	relative	_
+178-8	29154-29160	amount	_
+178-9	29161-29163	of	_
+178-10	29164-29168	each	_
+178-11	29169-29176	feature	_
+178-12	29176-29177	’	_
+178-13	29177-29178	s	_
+178-14	29179-29188	precision	_
+178-15	29189-29194	given	_
+178-16	29195-29198	the	_
+178-17	29199-29206	overall	_
+178-18	29207-29217	precisions	_
+178-19	29218-29220	of	_
+178-20	29221-29225	both	_
+178-21	29226-29234	features	_
+178-22	29234-29235	.	_
+
+Text=In a second modification and in line with the aberrant salience effect, the constant bias was weighted according to its feature ’ s irrelevance (irrel; see Eq 4.2.2).
+179-1	29236-29238	In	_
+179-2	29239-29240	a	_
+179-3	29241-29247	second	_
+179-4	29248-29260	modification	_
+179-5	29261-29264	and	_
+179-6	29265-29267	in	_
+179-7	29268-29272	line	_
+179-8	29273-29277	with	_
+179-9	29278-29281	the	_
+179-10	29282-29290	aberrant	_
+179-11	29291-29299	salience	_
+179-12	29300-29306	effect	_
+179-13	29306-29307	,	_
+179-14	29308-29311	the	_
+179-15	29312-29320	constant	_
+179-16	29321-29325	bias	_
+179-17	29326-29329	was	_
+179-18	29330-29338	weighted	_
+179-19	29339-29348	according	_
+179-20	29349-29351	to	_
+179-21	29352-29355	its	_
+179-22	29356-29363	feature	_
+179-23	29363-29364	’	_
+179-24	29364-29365	s	_
+179-25	29366-29377	irrelevance	_
+179-26	29378-29379	(	_
+179-27	29379-29384	irrel	_
+179-28	29384-29385	;	_
+179-29	29386-29389	see	_
+179-30	29390-29392	Eq	_
+179-31	29393-29398	4.2.2	_
+179-32	29398-29399	)	_
+179-33	29399-29400	.	_
+
+Text=The irrelevance weight of one feature was defined as the relevance weight of the opposing feature (see Eq 5).
+180-1	29401-29404	The	_
+180-2	29405-29416	irrelevance	_
+180-3	29417-29423	weight	_
+180-4	29424-29426	of	_
+180-5	29427-29430	one	_
+180-6	29431-29438	feature	_
+180-7	29439-29442	was	_
+180-8	29443-29450	defined	_
+180-9	29451-29453	as	_
+180-10	29454-29457	the	_
+180-11	29458-29467	relevance	_
+180-12	29468-29474	weight	_
+180-13	29475-29477	of	_
+180-14	29478-29481	the	_
+180-15	29482-29490	opposing	_
+180-16	29491-29498	feature	_
+180-17	29499-29500	(	_
+180-18	29500-29503	see	_
+180-19	29504-29506	Eq	_
+180-20	29507-29508	5	_
+180-21	29508-29509	)	_
+180-22	29509-29510	.	_
+
+Text=From the four cue feature parameters (β2, …, β5) one composite parameter was calculated in two steps.
+181-1	29511-29515	From	_
+181-2	29516-29519	the	_
+181-3	29520-29524	four	_
+181-4	29525-29528	cue	_
+181-5	29529-29536	feature	_
+181-6	29537-29547	parameters	_
+181-7	29548-29549	(	_
+181-8	29549-29551	β2	_
+181-9	29551-29552	,	_
+181-10	29553-29554	…	_
+181-11	29554-29555	,	_
+181-12	29556-29558	β5	_
+181-13	29558-29559	)	_
+181-14	29560-29563	one	_
+181-15	29564-29573	composite	_
+181-16	29574-29583	parameter	_
+181-17	29584-29587	was	_
+181-18	29588-29598	calculated	_
+181-19	29599-29601	in	_
+181-20	29602-29605	two	_
+181-21	29606-29611	steps	_
+181-22	29611-29612	.	_
+
+Text=First, the individual absolute differences between the β2 and β3 for irrelevance weighted manifestations within color (and between the β4 and β5 for shape manifestations) were calculated.
+182-1	29613-29618	First	_
+182-2	29618-29619	,	_
+182-3	29620-29623	the	_
+182-4	29624-29634	individual	_
+182-5	29635-29643	absolute	_
+182-6	29644-29655	differences	_
+182-7	29656-29663	between	_
+182-8	29664-29667	the	_
+182-9	29668-29670	β2	_
+182-10	29671-29674	and	_
+182-11	29675-29677	β3	_
+182-12	29678-29681	for	_
+182-13	29682-29693	irrelevance	_
+182-14	29694-29702	weighted	_
+182-15	29703-29717	manifestations	_
+182-16	29718-29724	within	_
+182-17	29725-29730	color	_
+182-18	29731-29732	(	_
+182-19	29732-29735	and	_
+182-20	29736-29743	between	_
+182-21	29744-29747	the	_
+182-22	29748-29750	β4	_
+182-23	29751-29754	and	_
+182-24	29755-29757	β5	_
+182-25	29758-29761	for	_
+182-26	29762-29767	shape	_
+182-27	29768-29782	manifestations	_
+182-28	29782-29783	)	_
+182-29	29784-29788	were	_
+182-30	29789-29799	calculated	_
+182-31	29799-29800	.	_
+
+Text=Then, they were collapsed across color and shape to achieve one parameter βirrelevance capturing the bias towards one cue feature manifestation that increased with subjective irrelevance.
+183-1	29801-29805	Then	_
+183-2	29805-29806	,	_
+183-3	29807-29811	they	_
+183-4	29812-29816	were	_
+183-5	29817-29826	collapsed	_
+183-6	29827-29833	across	_
+183-7	29834-29839	color	_
+183-8	29840-29843	and	_
+183-9	29844-29849	shape	_
+183-10	29850-29852	to	_
+183-11	29853-29860	achieve	_
+183-12	29861-29864	one	_
+183-13	29865-29874	parameter	_
+183-14	29875-29887	βirrelevance	_
+183-15	29888-29897	capturing	_
+183-16	29898-29901	the	_
+183-17	29902-29906	bias	_
+183-18	29907-29914	towards	_
+183-19	29915-29918	one	_
+183-20	29919-29922	cue	_
+183-21	29923-29930	feature	_
+183-22	29931-29944	manifestation	_
+183-23	29945-29949	that	_
+183-24	29950-29959	increased	_
+183-25	29960-29964	with	_
+183-26	29965-29975	subjective	_
+183-27	29976-29987	irrelevance	_
+183-28	29987-29988	.	_
+
+Text=Thus, we compared four different response models: the baseline model (Eq 4), the baseline model with relevance weighted absolute prediction errors (Eq 4 with modification term 4.1.2; RelPE), the baseline model with only the irrelevance bias (Eq 4 with modification term 4.2.2; IrrelBias), and a full model with both modifications (Eq 4 with modification terms 4.1.2 and 4.2.2; RelPE + IrrelBias).
+184-1	29989-29993	Thus	_
+184-2	29993-29994	,	_
+184-3	29995-29997	we	_
+184-4	29998-30006	compared	_
+184-5	30007-30011	four	_
+184-6	30012-30021	different	_
+184-7	30022-30030	response	_
+184-8	30031-30037	models	_
+184-9	30037-30038	:	_
+184-10	30039-30042	the	_
+184-11	30043-30051	baseline	_
+184-12	30052-30057	model	_
+184-13	30058-30059	(	_
+184-14	30059-30061	Eq	_
+184-15	30062-30063	4	_
+184-16	30063-30064	)	_
+184-17	30064-30065	,	_
+184-18	30066-30069	the	_
+184-19	30070-30078	baseline	_
+184-20	30079-30084	model	_
+184-21	30085-30089	with	_
+184-22	30090-30099	relevance	_
+184-23	30100-30108	weighted	_
+184-24	30109-30117	absolute	_
+184-25	30118-30128	prediction	_
+184-26	30129-30135	errors	_
+184-27	30136-30137	(	_
+184-28	30137-30139	Eq	_
+184-29	30140-30141	4	_
+184-30	30142-30146	with	_
+184-31	30147-30159	modification	_
+184-32	30160-30164	term	_
+184-33	30165-30170	4.1.2	_
+184-34	30170-30171	;	_
+184-35	30172-30177	RelPE	_
+184-36	30177-30178	)	_
+184-37	30178-30179	,	_
+184-38	30180-30183	the	_
+184-39	30184-30192	baseline	_
+184-40	30193-30198	model	_
+184-41	30199-30203	with	_
+184-42	30204-30208	only	_
+184-43	30209-30212	the	_
+184-44	30213-30224	irrelevance	_
+184-45	30225-30229	bias	_
+184-46	30230-30231	(	_
+184-47	30231-30233	Eq	_
+184-48	30234-30235	4	_
+184-49	30236-30240	with	_
+184-50	30241-30253	modification	_
+184-51	30254-30258	term	_
+184-52	30259-30264	4.2.2	_
+184-53	30264-30265	;	_
+184-54	30266-30275	IrrelBias	_
+184-55	30275-30276	)	_
+184-56	30276-30277	,	_
+184-57	30278-30281	and	_
+184-58	30282-30283	a	_
+184-59	30284-30288	full	_
+184-60	30289-30294	model	_
+184-61	30295-30299	with	_
+184-62	30300-30304	both	_
+184-63	30305-30318	modifications	_
+184-64	30319-30320	(	_
+184-65	30320-30322	Eq	_
+184-66	30323-30324	4	_
+184-67	30325-30329	with	_
+184-68	30330-30342	modification	_
+184-69	30343-30348	terms	_
+184-70	30349-30354	4.1.2	_
+184-71	30355-30358	and	_
+184-72	30359-30364	4.2.2	_
+184-73	30364-30365	;	_
+184-74	30366-30371	RelPE	_
+184-75	30371-30372	+	_
+184-76	30372-30381	IrrelBias	_
+184-77	30381-30382	)	_
+184-78	30382-30383	.	_
+
+Text=This led to a total model space of 16 model combinations (see Figure S1).
+185-1	30384-30388	This	_
+185-2	30389-30392	led	_
+185-3	30393-30395	to	_
+185-4	30396-30397	a	_
+185-5	30398-30403	total	_
+185-6	30404-30409	model	_
+185-7	30410-30415	space	_
+185-8	30416-30418	of	_
+185-9	30419-30421	16	_
+185-10	30422-30427	model	_
+185-11	30428-30440	combinations	_
+185-12	30441-30442	(	_
+185-13	30442-30445	see	_
+185-14	30446-30452	Figure	_
+185-15	30453-30455	S1	_
+185-16	30455-30456	)	_
+185-17	30456-30457	.	_
+
+Text=Model fitting and Bayesian model comparison All models were fitted using the HGF toolbox 4.15 as part of TNU Algorithms for Psychiatry-Advancing Science (TAPAS, http: / / www.translationalneuromodeling.org / tapas /).
+186-1	30458-30463	Model	_
+186-2	30464-30471	fitting	_
+186-3	30472-30475	and	_
+186-4	30476-30484	Bayesian	_
+186-5	30485-30490	model	_
+186-6	30491-30501	comparison	_
+186-7	30502-30505	All	_
+186-8	30506-30512	models	_
+186-9	30513-30517	were	_
+186-10	30518-30524	fitted	_
+186-11	30525-30530	using	_
+186-12	30531-30534	the	_
+186-13	30535-30538	HGF	_
+186-14	30539-30546	toolbox	_
+186-15	30547-30551	4.15	_
+186-16	30552-30554	as	_
+186-17	30555-30559	part	_
+186-18	30560-30562	of	_
+186-19	30563-30566	TNU	_
+186-20	30567-30577	Algorithms	_
+186-21	30578-30581	for	_
+186-22	30582-30602	Psychiatry-Advancing	_
+186-23	30603-30610	Science	_
+186-24	30611-30612	(	_
+186-25	30612-30617	TAPAS	_
+186-26	30617-30618	,	_
+186-27	30619-30623	http	_
+186-28	30623-30624	:	_
+186-29	30624-30625	/	_
+186-30	30625-30626	/	_
+186-31	30626-30660	www.translationalneuromodeling.org	_
+186-32	30660-30661	/	_
+186-33	30661-30666	tapas	_
+186-34	30666-30667	/	_
+186-35	30667-30668	)	_
+186-36	30668-30669	.	_
+
+Text=For optimization, a quasi-Newton optimization algorithm was applied.
+187-1	30670-30673	For	_
+187-2	30674-30686	optimization	_
+187-3	30686-30687	,	_
+187-4	30688-30689	a	_
+187-5	30690-30702	quasi-Newton	_
+187-6	30703-30715	optimization	_
+187-7	30716-30725	algorithm	_
+187-8	30726-30729	was	_
+187-9	30730-30737	applied	_
+187-10	30737-30738	.	_
+
+Text=We used random-effects Bayesian Model Selection [BMS, spm_BMS in SPM12, www.fil.ion.ucl.uk / spm;] for each subject ’ s and each model ’ s negative free energy (as an approximation to log-model evidence) in order to identify which of the competing models best explained the subjects ’ response time data.
+188-1	30739-30741	We	_
+188-2	30742-30746	used	_
+188-3	30747-30761	random-effects	_
+188-4	30762-30770	Bayesian	_
+188-5	30771-30776	Model	_
+188-6	30777-30786	Selection	_
+188-7	30787-30788	[	_
+188-8	30788-30791	BMS	_
+188-9	30791-30792	,	_
+188-10	30793-30800	spm_BMS	_
+188-11	30801-30803	in	_
+188-12	30804-30809	SPM12	_
+188-13	30809-30810	,	_
+188-14	30811-30829	www.fil.ion.ucl.uk	_
+188-15	30829-30830	/	_
+188-16	30830-30833	spm	_
+188-17	30833-30834	;	_
+188-18	30835-30836	]	_
+188-19	30837-30840	for	_
+188-20	30841-30845	each	_
+188-21	30846-30853	subject	_
+188-22	30853-30854	’	_
+188-23	30854-30855	s	_
+188-24	30856-30859	and	_
+188-25	30860-30864	each	_
+188-26	30865-30870	model	_
+188-27	30870-30871	’	_
+188-28	30871-30872	s	_
+188-29	30873-30881	negative	_
+188-30	30882-30886	free	_
+188-31	30887-30893	energy	_
+188-32	30894-30895	(	_
+188-33	30895-30897	as	_
+188-34	30898-30900	an	_
+188-35	30901-30914	approximation	_
+188-36	30915-30917	to	_
+188-37	30918-30927	log-model	_
+188-38	30928-30936	evidence	_
+188-39	30936-30937	)	_
+188-40	30938-30940	in	_
+188-41	30941-30946	order	_
+188-42	30947-30949	to	_
+188-43	30950-30958	identify	_
+188-44	30959-30964	which	_
+188-45	30965-30967	of	_
+188-46	30968-30971	the	_
+188-47	30972-30981	competing	_
+188-48	30982-30988	models	_
+188-49	30989-30993	best	_
+188-50	30994-31003	explained	_
+188-51	31004-31007	the	_
+188-52	31008-31016	subjects	_
+188-53	31016-31017	’	_
+188-54	31018-31026	response	_
+188-55	31027-31031	time	_
+188-56	31032-31036	data	_
+188-57	31036-31037	.	_
+
+Text=BMS takes into account accuracy of each model and also penalizes for complexity.
+189-1	31038-31041	BMS	_
+189-2	31042-31047	takes	_
+189-3	31048-31052	into	_
+189-4	31053-31060	account	_
+189-5	31061-31069	accuracy	_
+189-6	31070-31072	of	_
+189-7	31073-31077	each	_
+189-8	31078-31083	model	_
+189-9	31084-31087	and	_
+189-10	31088-31092	also	_
+189-11	31093-31102	penalizes	_
+189-12	31103-31106	for	_
+189-13	31107-31117	complexity	_
+189-14	31117-31118	.	_
+
+Text=It accounts for heterogeneity across subjects and treats each model as a random variable in the population.
+190-1	31119-31121	It	_
+190-2	31122-31130	accounts	_
+190-3	31131-31134	for	_
+190-4	31135-31148	heterogeneity	_
+190-5	31149-31155	across	_
+190-6	31156-31164	subjects	_
+190-7	31165-31168	and	_
+190-8	31169-31175	treats	_
+190-9	31176-31180	each	_
+190-10	31181-31186	model	_
+190-11	31187-31189	as	_
+190-12	31190-31191	a	_
+190-13	31192-31198	random	_
+190-14	31199-31207	variable	_
+190-15	31208-31210	in	_
+190-16	31211-31214	the	_
+190-17	31215-31225	population	_
+190-18	31225-31226	.	_
+
+Text=We report protected exceedance probabilities for each model (PXP) and posterior probabilities (PP) as well as exceedance probabilities (XP) for model families (HGF vs.
+191-1	31227-31229	We	_
+191-2	31230-31236	report	_
+191-3	31237-31246	protected	_
+191-4	31247-31257	exceedance	_
+191-5	31258-31271	probabilities	_
+191-6	31272-31275	for	_
+191-7	31276-31280	each	_
+191-8	31281-31286	model	_
+191-9	31287-31288	(	_
+191-10	31288-31291	PXP	_
+191-11	31291-31292	)	_
+191-12	31293-31296	and	_
+191-13	31297-31306	posterior	_
+191-14	31307-31320	probabilities	_
+191-15	31321-31322	(	_
+191-16	31322-31324	PP	_
+191-17	31324-31325	)	_
+191-18	31326-31328	as	_
+191-19	31329-31333	well	_
+191-20	31334-31336	as	_
+191-21	31337-31347	exceedance	_
+191-22	31348-31361	probabilities	_
+191-23	31362-31363	(	_
+191-24	31363-31365	XP	_
+191-25	31365-31366	)	_
+191-26	31367-31370	for	_
+191-27	31371-31376	model	_
+191-28	31377-31385	families	_
+191-29	31386-31387	(	_
+191-30	31387-31390	HGF	_
+191-31	31391-31393	vs	_
+191-32	31393-31394	.	_
+
+Text=HGFprecfb; 2HGF vs. 3HGF; BL vs.
+192-1	31395-31404	HGFprecfb	_
+192-2	31404-31405	;	_
+192-3	31406-31410	2HGF	_
+192-4	31411-31413	vs	_
+192-5	31413-31414	.	_
+192-6	31415-31419	3HGF	_
+192-7	31419-31420	;	_
+192-8	31421-31423	BL	_
+192-9	31424-31426	vs	_
+192-10	31426-31427	.	_
+
+Text=RelPE vs.
+193-1	31428-31433	RelPE	_
+193-2	31434-31436	vs	_
+193-3	31436-31437	.	_
+
+Text=IrrelBias vs.
+194-1	31438-31447	IrrelBias	_
+194-2	31448-31450	vs	_
+194-3	31450-31451	.	_
+
+Text=RelPE + IrrelBias).
+195-1	31452-31457	RelPE	_
+195-2	31457-31458	+	_
+195-3	31458-31467	IrrelBias	_
+195-4	31467-31468	)	_
+195-5	31468-31469	.	_
+
+Text=The XP describes the relative probability that the model would better replicate the data in comparison with the other models.
+196-1	31470-31473	The	_
+196-2	31474-31476	XP	_
+196-3	31477-31486	describes	_
+196-4	31487-31490	the	_
+196-5	31491-31499	relative	_
+196-6	31500-31511	probability	_
+196-7	31512-31516	that	_
+196-8	31517-31520	the	_
+196-9	31521-31526	model	_
+196-10	31527-31532	would	_
+196-11	31533-31539	better	_
+196-12	31540-31549	replicate	_
+196-13	31550-31553	the	_
+196-14	31554-31558	data	_
+196-15	31559-31561	in	_
+196-16	31562-31572	comparison	_
+196-17	31573-31577	with	_
+196-18	31578-31581	the	_
+196-19	31582-31587	other	_
+196-20	31588-31594	models	_
+196-21	31594-31595	.	_
+
+Text=The PXP that governed our model selection protects against the ‘ null ’ possibility that there are no differences in the likelihood of models across the population.
+197-1	31596-31599	The	_
+197-2	31600-31603	PXP	_
+197-3	31604-31608	that	_
+197-4	31609-31617	governed	_
+197-5	31618-31621	our	_
+197-6	31622-31627	model	_
+197-7	31628-31637	selection	_
+197-8	31638-31646	protects	_
+197-9	31647-31654	against	_
+197-10	31655-31658	the	_
+197-11	31659-31660	‘	_
+197-12	31660-31664	null	_
+197-13	31664-31665	’	_
+197-14	31666-31677	possibility	_
+197-15	31678-31682	that	_
+197-16	31683-31688	there	_
+197-17	31689-31692	are	_
+197-18	31693-31695	no	_
+197-19	31696-31707	differences	_
+197-20	31708-31710	in	_
+197-21	31711-31714	the	_
+197-22	31715-31725	likelihood	_
+197-23	31726-31728	of	_
+197-24	31729-31735	models	_
+197-25	31736-31742	across	_
+197-26	31743-31746	the	_
+197-27	31747-31757	population	_
+197-28	31757-31758	.	_
+
+Text=Simulation analyses Based on the estimated individual parameters from the best-fitting model, we simulated trial-by-trial reaction time data.
+198-1	31759-31769	Simulation	_
+198-2	31770-31778	analyses	_
+198-3	31779-31784	Based	_
+198-4	31785-31787	on	_
+198-5	31788-31791	the	_
+198-6	31792-31801	estimated	_
+198-7	31802-31812	individual	_
+198-8	31813-31823	parameters	_
+198-9	31824-31828	from	_
+198-10	31829-31832	the	_
+198-11	31833-31845	best-fitting	_
+198-12	31846-31851	model	_
+198-13	31851-31852	,	_
+198-14	31853-31855	we	_
+198-15	31856-31865	simulated	_
+198-16	31866-31880	trial-by-trial	_
+198-17	31881-31889	reaction	_
+198-18	31890-31894	time	_
+198-19	31895-31899	data	_
+198-20	31899-31900	.	_
+
+Text=In addition to the Bayesian model comparison, we tested the model ’ s credibility by carrying out the same analyses as in the raw data section on the simulated data ((1) Expectedness * Group ANOVA, (2) Condition * Time * Group ANOVA, (3) ‘ ground truth ’ aberrant salience group differences).
+199-1	31901-31903	In	_
+199-2	31904-31912	addition	_
+199-3	31913-31915	to	_
+199-4	31916-31919	the	_
+199-5	31920-31928	Bayesian	_
+199-6	31929-31934	model	_
+199-7	31935-31945	comparison	_
+199-8	31945-31946	,	_
+199-9	31947-31949	we	_
+199-10	31950-31956	tested	_
+199-11	31957-31960	the	_
+199-12	31961-31966	model	_
+199-13	31966-31967	’	_
+199-14	31967-31968	s	_
+199-15	31969-31980	credibility	_
+199-16	31981-31983	by	_
+199-17	31984-31992	carrying	_
+199-18	31993-31996	out	_
+199-19	31997-32000	the	_
+199-20	32001-32005	same	_
+199-21	32006-32014	analyses	_
+199-22	32015-32017	as	_
+199-23	32018-32020	in	_
+199-24	32021-32024	the	_
+199-25	32025-32028	raw	_
+199-26	32029-32033	data	_
+199-27	32034-32041	section	_
+199-28	32042-32044	on	_
+199-29	32045-32048	the	_
+199-30	32049-32058	simulated	_
+199-31	32059-32063	data	_
+199-32	32064-32065	(	_
+199-33	32065-32066	(	_
+199-34	32066-32067	1	_
+199-35	32067-32068	)	_
+199-36	32069-32081	Expectedness	_
+199-37	32081-32082	*	_
+199-38	32082-32087	Group	_
+199-39	32088-32093	ANOVA	_
+199-40	32093-32094	,	_
+199-41	32095-32096	(	_
+199-42	32096-32097	2	_
+199-43	32097-32098	)	_
+199-44	32099-32108	Condition	_
+199-45	32108-32109	*	_
+199-46	32109-32113	Time	_
+199-47	32113-32114	*	_
+199-48	32114-32119	Group	_
+199-49	32120-32125	ANOVA	_
+199-50	32125-32126	,	_
+199-51	32127-32128	(	_
+199-52	32128-32129	3	_
+199-53	32129-32130	)	_
+199-54	32131-32132	‘	_
+199-55	32132-32138	ground	_
+199-56	32139-32144	truth	_
+199-57	32144-32145	’	_
+199-58	32146-32154	aberrant	_
+199-59	32155-32163	salience	_
+199-60	32164-32169	group	_
+199-61	32170-32181	differences	_
+199-62	32181-32182	)	_
+199-63	32182-32183	.	_
+
+Text=Using this approach, we checked whether the model was capable of reproducing the meaningful effects and group differences that were evident in the data.
+200-1	32184-32189	Using	_
+200-2	32190-32194	this	_
+200-3	32195-32203	approach	_
+200-4	32203-32204	,	_
+200-5	32205-32207	we	_
+200-6	32208-32215	checked	_
+200-7	32216-32223	whether	_
+200-8	32224-32227	the	_
+200-9	32228-32233	model	_
+200-10	32234-32237	was	_
+200-11	32238-32245	capable	_
+200-12	32246-32248	of	_
+200-13	32249-32260	reproducing	_
+200-14	32261-32264	the	_
+200-15	32265-32275	meaningful	_
+200-16	32276-32283	effects	_
+200-17	32284-32287	and	_
+200-18	32288-32293	group	_
+200-19	32294-32305	differences	_
+200-20	32306-32310	that	_
+200-21	32311-32315	were	_
+200-22	32316-32323	evident	_
+200-23	32324-32326	in	_
+200-24	32327-32330	the	_
+200-25	32331-32335	data	_
+200-26	32335-32336	.	_
+
+Text=Functional magnetic resonance imaging For single and group statistics, an event-related analysis was applied using the general linear model (GLM) approach as implemented in SPM12 (http: / / www.fil.ion.ucl.ac.uk / spm / software / spm12 /).
+201-1	32337-32347	Functional	_
+201-2	32348-32356	magnetic	_
+201-3	32357-32366	resonance	_
+201-4	32367-32374	imaging	_
+201-5	32375-32378	For	_
+201-6	32379-32385	single	_
+201-7	32386-32389	and	_
+201-8	32390-32395	group	_
+201-9	32396-32406	statistics	_
+201-10	32406-32407	,	_
+201-11	32408-32410	an	_
+201-12	32411-32424	event-related	_
+201-13	32425-32433	analysis	_
+201-14	32434-32437	was	_
+201-15	32438-32445	applied	_
+201-16	32446-32451	using	_
+201-17	32452-32455	the	_
+201-18	32456-32463	general	_
+201-19	32464-32470	linear	_
+201-20	32471-32476	model	_
+201-21	32477-32478	(	_
+201-22	32478-32481	GLM	_
+201-23	32481-32482	)	_
+201-24	32483-32491	approach	_
+201-25	32492-32494	as	_
+201-26	32495-32506	implemented	_
+201-27	32507-32509	in	_
+201-28	32510-32515	SPM12	_
+201-29	32516-32517	(	_
+201-30	32517-32521	http	_
+201-31	32521-32522	:	_
+201-32	32522-32523	/	_
+201-33	32523-32524	/	_
+201-34	32524-32545	www.fil.ion.ucl.ac.uk	_
+201-35	32545-32546	/	_
+201-36	32546-32549	spm	_
+201-37	32549-32550	/	_
+201-38	32550-32558	software	_
+201-39	32558-32559	/	_
+201-40	32559-32564	spm12	_
+201-41	32564-32565	/	_
+201-42	32565-32566	)	_
+201-43	32566-32567	.	_
+
+Text=On the single subject level, the outcome onsets were convolved with the hemodynamic response function and its temporal derivative.
+202-1	32568-32570	On	_
+202-2	32571-32574	the	_
+202-3	32575-32581	single	_
+202-4	32582-32589	subject	_
+202-5	32590-32595	level	_
+202-6	32595-32596	,	_
+202-7	32597-32600	the	_
+202-8	32601-32608	outcome	_
+202-9	32609-32615	onsets	_
+202-10	32616-32620	were	_
+202-11	32621-32630	convolved	_
+202-12	32631-32635	with	_
+202-13	32636-32639	the	_
+202-14	32640-32651	hemodynamic	_
+202-15	32652-32660	response	_
+202-16	32661-32669	function	_
+202-17	32670-32673	and	_
+202-18	32674-32677	its	_
+202-19	32678-32686	temporal	_
+202-20	32687-32697	derivative	_
+202-21	32697-32698	.	_
+
+Text=As parametric modulator, the mean of the relevance weighted absolute prediction errors of the best fitting model (2HGF-RelPe + IrrelBias) was introduced, representing how unexpected and salient the observed outcome was based on the subjects ’ learned expectations about the two cue features.
+203-1	32699-32701	As	_
+203-2	32702-32712	parametric	_
+203-3	32713-32722	modulator	_
+203-4	32722-32723	,	_
+203-5	32724-32727	the	_
+203-6	32728-32732	mean	_
+203-7	32733-32735	of	_
+203-8	32736-32739	the	_
+203-9	32740-32749	relevance	_
+203-10	32750-32758	weighted	_
+203-11	32759-32767	absolute	_
+203-12	32768-32778	prediction	_
+203-13	32779-32785	errors	_
+203-14	32786-32788	of	_
+203-15	32789-32792	the	_
+203-16	32793-32797	best	_
+203-17	32798-32805	fitting	_
+203-18	32806-32811	model	_
+203-19	32812-32813	(	_
+203-20	32813-32823	2HGF-RelPe	_
+203-21	32823-32824	+	_
+203-22	32824-32833	IrrelBias	_
+203-23	32833-32834	)	_
+203-24	32835-32838	was	_
+203-25	32839-32849	introduced	_
+203-26	32849-32850	,	_
+203-27	32851-32863	representing	_
+203-28	32864-32867	how	_
+203-29	32868-32878	unexpected	_
+203-30	32879-32882	and	_
+203-31	32883-32890	salient	_
+203-32	32891-32894	the	_
+203-33	32895-32903	observed	_
+203-34	32904-32911	outcome	_
+203-35	32912-32915	was	_
+203-36	32916-32921	based	_
+203-37	32922-32924	on	_
+203-38	32925-32928	the	_
+203-39	32929-32937	subjects	_
+203-40	32937-32938	’	_
+203-41	32939-32946	learned	_
+203-42	32947-32959	expectations	_
+203-43	32960-32965	about	_
+203-44	32966-32969	the	_
+203-45	32970-32973	two	_
+203-46	32974-32977	cue	_
+203-47	32978-32986	features	_
+203-48	32986-32987	.	_
+
+Text=Regressors of no interest were no response trials, trials with reaction times> 1.5 seconds and <150 milliseconds, realignment parameters with their first temporal derivative of translational movement, and one regressor for scans with> 1mm scan-to-scan movement.
+204-1	32988-32998	Regressors	_
+204-2	32999-33001	of	_
+204-3	33002-33004	no	_
+204-4	33005-33013	interest	_
+204-5	33014-33018	were	_
+204-6	33019-33021	no	_
+204-7	33022-33030	response	_
+204-8	33031-33037	trials	_
+204-9	33037-33038	,	_
+204-10	33039-33045	trials	_
+204-11	33046-33050	with	_
+204-12	33051-33059	reaction	_
+204-13	33060-33065	times	_
+204-14	33065-33066	>	_
+204-15	33066-33069	1.5	_
+204-16	33070-33077	seconds	_
+204-17	33078-33081	and	_
+204-18	33082-33083	<	_
+204-19	33083-33086	150	_
+204-20	33087-33099	milliseconds	_
+204-21	33099-33100	,	_
+204-22	33101-33112	realignment	_
+204-23	33113-33123	parameters	_
+204-24	33124-33128	with	_
+204-25	33129-33134	their	_
+204-26	33135-33140	first	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+204-27	33141-33149	temporal	_
+204-28	33150-33160	derivative	_
+204-29	33161-33163	of	_
+204-30	33164-33177	translational	_
+204-31	33178-33186	movement	_
+204-32	33186-33187	,	_
+204-33	33188-33191	and	_
+204-34	33192-33195	one	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+204-35	33196-33205	regressor	_
+204-36	33206-33209	for	_
+204-37	33210-33215	scans	_
+204-38	33216-33220	with	_
+204-39	33221-33222	>	_
+204-40	33222-33225	1mm	_
+204-41	33226-33238	scan-to-scan	_
+204-42	33239-33247	movement	_
+204-43	33247-33248	.	_
+
+Text=For random effects group-level analysis, the individual contrast images for mean relevance weighted PEs were used in a two-sample t-test for between-group comparisons (controls vs. patients).
+205-1	33249-33252	For	_
+205-2	33253-33259	random	_
+205-3	33260-33267	effects	_
+205-4	33268-33279	group-level	_
+205-5	33280-33288	analysis	_
+205-6	33288-33289	,	_
+205-7	33290-33293	the	_
+205-8	33294-33304	individual	_
+205-9	33305-33313	contrast	_
+205-10	33314-33320	images	_
+205-11	33321-33324	for	_
+205-12	33325-33329	mean	_
+205-13	33330-33339	relevance	_
+205-14	33340-33348	weighted	_
+205-15	33349-33352	PEs	_
+205-16	33353-33357	were	_
+205-17	33358-33362	used	_
+205-18	33363-33365	in	_
+205-19	33366-33367	a	_
+205-20	33368-33378	two-sample	_
+205-21	33379-33385	t-test	_
+205-22	33386-33389	for	_
+205-23	33390-33403	between-group	_
+205-24	33404-33415	comparisons	_
+205-25	33416-33417	(	_
+205-26	33417-33425	controls	_
+205-27	33426-33428	vs	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+205-28	33428-33429	.	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+205-29	33430-33438	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+205-30	33438-33439	)	_
+205-31	33439-33440	.	_
+
+Text=Explorative analysis probed the association between model parameter βirrelevance and neural relevance weighted PE signals in schizophrenia patients.
+206-1	33441-33452	Explorative	_
+206-2	33453-33461	analysis	_
+206-3	33462-33468	probed	_
+206-4	33469-33472	the	_
+206-5	33473-33484	association	_
+206-6	33485-33492	between	_
+206-7	33493-33498	model	_
+206-8	33499-33508	parameter	_
+206-9	33509-33521	βirrelevance	_
+206-10	33522-33525	and	_
+206-11	33526-33532	neural	_
+206-12	33533-33542	relevance	_
+206-13	33543-33551	weighted	_
+206-14	33552-33554	PE	_
+206-15	33555-33562	signals	_
+206-16	33563-33565	in	_
+206-17	33566-33579	schizophrenia	_
+206-18	33580-33588	patients	_
+206-19	33588-33589	.	_
+
+Text=Hence, interindividual βirrelevance scores were introduced as a covariate in a one-sample t-test using the Mean relevance weighted PE contrast.
+207-1	33590-33595	Hence	_
+207-2	33595-33596	,	_
+207-3	33597-33612	interindividual	_
+207-4	33613-33625	βirrelevance	_
+207-5	33626-33632	scores	_
+207-6	33633-33637	were	_
+207-7	33638-33648	introduced	_
+207-8	33649-33651	as	_
+207-9	33652-33653	a	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+207-10	33654-33663	covariate	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+207-11	33664-33666	in	_
+207-12	33667-33668	a	_
+207-13	33669-33679	one-sample	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+207-14	33680-33686	t-test	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+207-15	33687-33692	using	_
+207-16	33693-33696	the	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+207-17	33697-33701	Mean	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+207-18	33702-33711	relevance	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+207-19	33712-33720	weighted	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+207-20	33721-33723	PE	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+207-21	33724-33732	contrast	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+207-22	33732-33733	.	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+
+Text=Results are reported using FWE correction at the voxel level across the whole brain.
+208-1	33734-33741	Results	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+208-2	33742-33745	are	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+208-3	33746-33754	reported	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+208-4	33755-33760	using	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+208-5	33761-33764	FWE	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+208-6	33765-33775	correction	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+208-7	33776-33778	at	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+208-8	33779-33782	the	_
+208-9	33783-33788	voxel	_
+208-10	33789-33794	level	_
+208-11	33795-33801	across	_
+208-12	33802-33805	the	_
+208-13	33806-33811	whole	_
+208-14	33812-33817	brain	_
+208-15	33817-33818	.	_
+
+Text=Based on our hypothesis concerning activations in areas previously shown to code salience such as the ACC and insula, namely the so-called salience network, and the nucleus accumbens, we applied small volume correction at the voxel level for the respective bilateral anatomical masks derived from the WFU PickAtlas (http: / / fmri.wfubmc.edu / software / pickatlas).
+209-1	33819-33824	Based	_
+209-2	33825-33827	on	_
+209-3	33828-33831	our	_
+209-4	33832-33842	hypothesis	_
+209-5	33843-33853	concerning	_
+209-6	33854-33865	activations	_
+209-7	33866-33868	in	_
+209-8	33869-33874	areas	_
+209-9	33875-33885	previously	_
+209-10	33886-33891	shown	_
+209-11	33892-33894	to	_
+209-12	33895-33899	code	_
+209-13	33900-33908	salience	_
+209-14	33909-33913	such	_
+209-15	33914-33916	as	_
+209-16	33917-33920	the	_
+209-17	33921-33924	ACC	_
+209-18	33925-33928	and	_
+209-19	33929-33935	insula	_
+209-20	33935-33936	,	_
+209-21	33937-33943	namely	_
+209-22	33944-33947	the	_
+209-23	33948-33957	so-called	_
+209-24	33958-33966	salience	_
+209-25	33967-33974	network	_
+209-26	33974-33975	,	_
+209-27	33976-33979	and	_
+209-28	33980-33983	the	_
+209-29	33984-33991	nucleus	_
+209-30	33992-34001	accumbens	_
+209-31	34001-34002	,	_
+209-32	34003-34005	we	_
+209-33	34006-34013	applied	_
+209-34	34014-34019	small	_
+209-35	34020-34026	volume	_
+209-36	34027-34037	correction	_
+209-37	34038-34040	at	_
+209-38	34041-34044	the	_
+209-39	34045-34050	voxel	_
+209-40	34051-34056	level	_
+209-41	34057-34060	for	_
+209-42	34061-34064	the	_
+209-43	34065-34075	respective	_
+209-44	34076-34085	bilateral	_
+209-45	34086-34096	anatomical	_
+209-46	34097-34102	masks	_
+209-47	34103-34110	derived	_
+209-48	34111-34115	from	_
+209-49	34116-34119	the	_
+209-50	34120-34123	WFU	_
+209-51	34124-34133	PickAtlas	_
+209-52	34134-34135	(	_
+209-53	34135-34139	http	_
+209-54	34139-34140	:	_
+209-55	34140-34141	/	_
+209-56	34141-34142	/	_
+209-57	34142-34157	fmri.wfubmc.edu	_
+209-58	34157-34158	/	_
+209-59	34158-34166	software	_
+209-60	34166-34167	/	_
+209-61	34167-34176	pickatlas	_
+209-62	34176-34177	)	_
+209-63	34177-34178	.	_
+
+Text=Thus, three VOIs were used for small volume correction at pFWE <0.05 and we indicate which results survive Bonferroni correction for three tests.
+210-1	34179-34183	Thus	_
+210-2	34183-34184	,	_
+210-3	34185-34190	three	_
+210-4	34191-34195	VOIs	_
+210-5	34196-34200	were	_
+210-6	34201-34205	used	_
+210-7	34206-34209	for	_
+210-8	34210-34215	small	_
+210-9	34216-34222	volume	_
+210-10	34223-34233	correction	_
+210-11	34234-34236	at	_
+210-12	34237-34241	pFWE	_
+210-13	34241-34242	<	_
+210-14	34242-34246	0.05	_
+210-15	34247-34250	and	_
+210-16	34251-34253	we	_
+210-17	34254-34262	indicate	_
+210-18	34263-34268	which	_
+210-19	34269-34276	results	_
+210-20	34277-34284	survive	_
+210-21	34285-34295	Bonferroni	_
+210-22	34296-34306	correction	_
+210-23	34307-34310	for	_
+210-24	34311-34316	three	_
+210-25	34317-34322	tests	_
+210-26	34322-34323	.	_
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+
+Text=
+

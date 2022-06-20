@@ -2,7 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
-#Human Annotation
+#Machine Prediction
 Text=Alcohol effects on globus pallidus connectivity: Role of impulsivity and binge drinking Despite the harm caused by binge drinking, the neural mechanisms leading to risky and disinhibited intoxication-related behaviors are not well understood.
 1-1	0-7	Alcohol	_
 1-2	8-15	effects	_
@@ -10,24 +10,24 @@ Text=Alcohol effects on globus pallidus connectivity: Role of impulsivity and bi
 1-4	19-25	globus	_
 1-5	26-34	pallidus	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-6	35-47	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-1-7	47-48	:	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-7	47-48	:	_
 1-8	49-53	Role	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-9	54-56	of	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-10	57-68	impulsivity	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-11	69-72	and	_
 1-12	73-78	binge	_
-1-13	79-87	drinking	_
-1-14	88-95	Despite	_
-1-15	96-99	the	_
-1-16	100-104	harm	_
-1-17	105-111	caused	_
-1-18	112-114	by	_
-1-19	115-120	binge	_
-1-20	121-129	drinking	_
-1-21	129-130	,	_
-1-22	131-134	the	_
-1-23	135-141	neural	_
-1-24	142-152	mechanisms	_
+1-13	79-87	drinking	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-14	88-95	Despite	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-15	96-99	the	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-16	100-104	harm	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-17	105-111	caused	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-18	112-114	by	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-19	115-120	binge	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-20	121-129	drinking	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-21	129-130	,	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-22	131-134	the	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-23	135-141	neural	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-24	142-152	mechanisms	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
 1-25	153-160	leading	_
 1-26	161-163	to	_
 1-27	164-169	risky	_
@@ -66,7 +66,7 @@ Text=Evidence suggests that the globus pallidus externus (GPe), a substructure w
 2-22	370-377	control	_
 2-23	378-387	processes	_
 2-24	387-388	,	_
-2-25	389-391	as	_
+2-25	389-391	as	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 2-26	392-400	examined	_
 2-27	401-403	in	_
 2-28	404-418	stop-signaling	_
@@ -96,7 +96,7 @@ Text=In fact, studies in rodents have revealed that alcohol can change GPe activ
 3-20	540-541	,	_
 3-21	542-552	suggesting	_
 3-22	553-557	that	_
-3-23	558-561	the	_
+3-23	558-561	the	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 3-24	562-565	GPe	_
 3-25	566-569	may	_
 3-26	570-574	have	_
@@ -116,12 +116,12 @@ Text=In fact, studies in rodents have revealed that alcohol can change GPe activ
 3-40	662-668	during	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 3-41	669-674	binge	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 3-42	675-683	drinking	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-3-43	683-684	.	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+3-43	683-684	.	_
 
 Text=In this study, twenty-five healthy volunteers underwent intravenous alcohol infusion to achieve a blood alcohol level of 0.08 g / dl, which is equivalent to a binge drinking episode.
-4-1	685-687	In	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-4-2	688-692	this	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-4-3	693-698	study	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+4-1	685-687	In	http://maven.renci.org/NeuroBridge/neurobridge#Thing
+4-2	688-692	this	http://maven.renci.org/NeuroBridge/neurobridge#Thing
+4-3	693-698	study	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 4-4	698-699	,	_
 4-5	700-711	twenty-five	_
 4-6	712-719	healthy	_
@@ -147,9 +147,9 @@ Text=In this study, twenty-five healthy volunteers underwent intravenous alcohol
 4-26	826-836	equivalent	_
 4-27	837-839	to	_
 4-28	840-841	a	_
-4-29	842-847	binge	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-4-30	848-856	drinking	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-4-31	857-864	episode	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+4-29	842-847	binge	_
+4-30	848-856	drinking	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+4-31	857-864	episode	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 4-32	864-865	.	_
 
 Text=A resting state functional magnetic resonance imaging scan was collected prior to the infusion and at binge-level exposure.
@@ -164,31 +164,31 @@ Text=A resting state functional magnetic resonance imaging scan was collected pr
 5-9	925-928	was	_
 5-10	929-938	collected	_
 5-11	939-944	prior	_
-5-12	945-947	to	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-5-13	948-951	the	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-5-14	952-960	infusion	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-12	945-947	to	_
+5-13	948-951	the	_
+5-14	952-960	infusion	_
 5-15	961-964	and	_
 5-16	965-967	at	_
 5-17	968-979	binge-level	_
-5-18	980-988	exposure	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-5-19	988-989	.	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+5-18	980-988	exposure	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+5-19	988-989	.	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 
 Text=Functional connectivity analysis was used to investigate the association between alcohol-induced changes in GPe connectivity, drinking behaviors, and impulsivity traits.
-6-1	990-1000	Functional	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-6-2	1001-1013	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-6-3	1014-1022	analysis	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-6-4	1023-1026	was	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-6-5	1027-1031	used	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-6-6	1032-1034	to	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+6-1	990-1000	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+6-2	1001-1013	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+6-3	1014-1022	analysis	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+6-4	1023-1026	was	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+6-5	1027-1031	used	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+6-6	1032-1034	to	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 6-7	1035-1046	investigate	_
 6-8	1047-1050	the	_
 6-9	1051-1062	association	_
 6-10	1063-1070	between	_
 6-11	1071-1086	alcohol-induced	_
-6-12	1087-1094	changes	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-6-13	1095-1097	in	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+6-12	1087-1094	changes	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+6-13	1095-1097	in	_
 6-14	1098-1101	GPe	_
-6-15	1102-1114	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+6-15	1102-1114	connectivity	_
 6-16	1114-1115	,	_
 6-17	1116-1124	drinking	_
 6-18	1125-1134	behaviors	_
@@ -208,8 +208,8 @@ Text=We found that individuals with greater number of drinks or heavy drinking d
 7-7	1199-1205	number	_
 7-8	1206-1208	of	_
 7-9	1209-1215	drinks	_
-7-10	1216-1218	or	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-7-11	1219-1224	heavy	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-10	1216-1218	or	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+7-11	1219-1224	heavy	_
 7-12	1225-1233	drinking	_
 7-13	1234-1238	days	_
 7-14	1239-1241	in	_
@@ -287,7 +287,7 @@ Text=Taken together, these findings suggest that alcohol may interact with impul
 10-15	1715-1718	and	_
 10-16	1719-1727	drinking	_
 10-17	1728-1736	patterns	_
-10-18	1737-1739	to	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+10-18	1737-1739	to	_
 10-19	1740-1745	drive	_
 10-20	1746-1757	alterations	_
 10-21	1758-1760	in	_
@@ -347,16 +347,16 @@ Text=Methods This study was approved by the NIH Addictions Institutional Review 
 30-12	5480-5485	Board	_
 30-13	5486-5491	under	_
 30-14	5492-5494	12	_
-30-15	5494-5495	-	_
-30-16	5495-5497	AA	_
+30-15	5494-5495	-	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+30-16	5495-5497	AA	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 30-17	5497-5498	-	_
 30-18	5498-5502	0032	_
 30-19	5502-5503	.	_
 
 Text=All subjects provided written informed consent prior to their participation in the study.
-31-1	5504-5507	All	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-31-2	5508-5516	subjects	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-31-3	5517-5525	provided	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+31-1	5504-5507	All	_
+31-2	5508-5516	subjects	_
+31-3	5517-5525	provided	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 31-4	5526-5533	written	_
 31-5	5534-5542	informed	_
 31-6	5543-5550	consent	_
@@ -397,11 +397,11 @@ Text=Participants Twenty-five healthy (13 males, 12 females; mean age: 28.85 yea
 32-25	5720-5733	advertisement	_
 32-26	5733-5734	,	_
 32-27	5735-5744	according	_
-32-28	5745-5747	to	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-32-29	5748-5756	approved	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+32-28	5745-5747	to	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+32-29	5748-5756	approved	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 32-30	5757-5765	National	_
-32-31	5766-5776	Institutes	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-32-32	5777-5779	of	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+32-31	5766-5776	Institutes	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+32-32	5777-5779	of	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 32-33	5780-5786	Health	_
 32-34	5787-5800	Institutional	_
 32-35	5801-5807	Review	_
@@ -493,8 +493,8 @@ Text=Criteria for inclusion in this study were: healthy, 21 – 45 years old, co
 35-26	6244-6251	females	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 35-27	6252-6255	and	_
 35-28	6256-6257	1	_
-35-29	6258-6260	to	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-35-30	6261-6263	14	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+35-29	6258-6260	to	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+35-30	6261-6263	14	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 35-31	6264-6270	drinks	_
 35-32	6271-6274	per	_
 35-33	6275-6279	week	_
@@ -505,8 +505,8 @@ Text=Criteria for inclusion in this study were: healthy, 21 – 45 years old, co
 Text=Subjects also had to have consumed at least two standard drinks of alcohol within one hour on at least one occasion in their lifetime.
 36-1	6291-6299	Subjects	_
 36-2	6300-6304	also	_
-36-3	6305-6308	had	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-36-4	6309-6311	to	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+36-3	6305-6308	had	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+36-4	6309-6311	to	_
 36-5	6312-6316	have	_
 36-6	6317-6325	consumed	_
 36-7	6326-6328	at	_
@@ -626,8 +626,8 @@ Text=Also, non-drinkers were excluded from the study due to ethical concerns rel
 38-11	6923-6930	ethical	_
 38-12	6931-6939	concerns	_
 38-13	6940-6947	related	_
-38-14	6948-6950	to	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-38-15	6951-6958	alcohol	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+38-14	6948-6950	to	_
+38-15	6951-6958	alcohol	_
 38-16	6959-6973	administration	_
 38-17	6973-6974	.	_
 
@@ -646,11 +646,11 @@ Text=Variable Count Total n 25 Gender (Male / Female) 13 / 12 Smokers 1 Mean SD 
 40-2	7040-7045	Count	_
 40-3	7048-7053	Total	_
 40-4	7054-7055	n	_
-40-5	7056-7058	25	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-40-6	7061-7067	Gender	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-40-7	7068-7069	(	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-40-8	7069-7073	Male	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-40-9	7074-7075	/	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+40-5	7056-7058	25	_
+40-6	7061-7067	Gender	_
+40-7	7068-7069	(	_
+40-8	7069-7073	Male	_
+40-9	7074-7075	/	_
 40-10	7076-7082	Female	_
 40-11	7082-7083	)	_
 40-12	7084-7086	13	_
@@ -749,9 +749,9 @@ Text=Measures Alcohol drinking measures The amount of daily alcohol consumption 
 41-5	7698-7701	The	_
 41-6	7702-7708	amount	_
 41-7	7709-7711	of	_
-41-8	7712-7717	daily	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-41-9	7718-7725	alcohol	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-41-10	7726-7737	consumption	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+41-8	7712-7717	daily	_
+41-9	7718-7725	alcohol	_
+41-10	7726-7737	consumption	_
 41-11	7738-7742	over	_
 41-12	7743-7746	the	_
 41-13	7747-7751	last	_
@@ -767,24 +767,24 @@ Text=Measures Alcohol drinking measures The amount of daily alcohol consumption 
 41-23	7812-7816	TLFB	_
 41-24	7816-7817	)	_
 41-25	7818-7828	calendar—a	_
-41-26	7829-7837	drinking	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+41-26	7829-7837	drinking	_
 41-27	7838-7848	assessment	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
-41-28	7849-7855	method	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+41-28	7849-7855	method	_
 41-29	7856-7860	with	_
 41-30	7861-7865	good	_
 41-31	7866-7878	psychometric	_
 41-32	7879-7894	characteristics	_
-41-33	7895-7898	for	_
-41-34	7899-7909	estimating	_
+41-33	7895-7898	for	http://maven.renci.org/NeuroBridge/neurobridge#WideRangeAchievementTest
+41-34	7899-7909	estimating	http://maven.renci.org/NeuroBridge/neurobridge#WideRangeAchievementTest
 41-35	7910-7923	retrospective	_
-41-36	7924-7929	daily	_
-41-37	7930-7938	drinking	_
-41-38	7939-7947	patterns	_
-41-39	7947-7948	.	_
+41-36	7924-7929	daily	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+41-37	7930-7938	drinking	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+41-38	7939-7947	patterns	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+41-39	7947-7948	.	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
 
 Text=The number of heavy drinking days in the last 90 days was calculated from the TLFB; a heavy drinking day is defined as 4 or more drinks per day for women and 5 or more drinks per day for men.
-42-1	7949-7952	The	_
-42-2	7953-7959	number	_
+42-1	7949-7952	The	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+42-2	7953-7959	number	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
 42-3	7960-7962	of	_
 42-4	7963-7968	heavy	_
 42-5	7969-7977	drinking	_
@@ -802,7 +802,7 @@ Text=The number of heavy drinking days in the last 90 days was calculated from t
 42-17	8031-8032	;	_
 42-18	8033-8034	a	_
 42-19	8035-8040	heavy	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-42-20	8041-8049	drinking	_
+42-20	8041-8049	drinking	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 42-21	8050-8053	day	_
 42-22	8054-8056	is	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 42-23	8057-8064	defined	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -812,7 +812,7 @@ Text=The number of heavy drinking days in the last 90 days was calculated from t
 42-27	8073-8077	more	_
 42-28	8078-8084	drinks	_
 42-29	8085-8088	per	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-42-30	8089-8092	day	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+42-30	8089-8092	day	_
 42-31	8093-8096	for	_
 42-32	8097-8102	women	_
 42-33	8103-8106	and	_
@@ -898,16 +898,16 @@ Text=Impulsivity measures Impulsive behavioral traits were measured using the Ba
 46-6	8470-8474	were	_
 46-7	8475-8483	measured	_
 46-8	8484-8489	using	_
-46-9	8490-8493	the	_
-46-10	8494-8501	Barratt	_
-46-11	8502-8515	Impulsiveness	_
-46-12	8516-8521	Scale	_
-46-13	8522-8523	(	_
-46-14	8523-8526	BIS	_
-46-15	8526-8527	-	_
+46-9	8490-8493	the	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+46-10	8494-8501	Barratt	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+46-11	8502-8515	Impulsiveness	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+46-12	8516-8521	Scale	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+46-13	8522-8523	(	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+46-14	8523-8526	BIS	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+46-15	8526-8527	-	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 46-16	8527-8529	11	_
 46-17	8529-8530	)	_
-46-18	8531-8534	and	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+46-18	8531-8534	and	_
 46-19	8535-8538	the	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 46-20	8539-8545	UPPS-P	_
 46-21	8546-8555	Impulsive	_
@@ -982,7 +982,7 @@ Text=The UPPS-P measures personality traits conducive to impulsive behavior incl
 48-13	8963-8971	negative	_
 48-14	8971-8972	)	_
 48-15	8972-8973	—	_
-48-16	8973-8981	tendency	_
+48-16	8973-8981	tendency	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 48-17	8982-8984	to	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 48-18	8985-8996	impulsively	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 48-19	8997-9000	act	_
@@ -1056,10 +1056,10 @@ Text=The DDT measures impulsivity by presenting the subject with a series of hyp
 50-2	9372-9375	DDT	_
 50-3	9376-9384	measures	_
 50-4	9385-9396	impulsivity	_
-50-5	9397-9399	by	_
-50-6	9400-9410	presenting	_
-50-7	9411-9414	the	_
-50-8	9415-9422	subject	_
+50-5	9397-9399	by	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+50-6	9400-9410	presenting	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+50-7	9411-9414	the	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+50-8	9415-9422	subject	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
 50-9	9423-9427	with	_
 50-10	9428-9429	a	_
 50-11	9430-9436	series	_
@@ -1135,7 +1135,7 @@ Text=Subjects completed trials with all iterations of these parameters.
 53-7	9773-9775	of	_
 53-8	9776-9781	these	_
 53-9	9782-9792	parameters	_
-53-10	9792-9793	.	_
+53-10	9792-9793	.	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 
 Text=The rate of discounting of the delayed outcome (k) was calculated and then a natural log-transformation was applied to correct for the non-normal distribution of k values.
 54-1	9794-9797	The	_
@@ -1146,8 +1146,8 @@ Text=The rate of discounting of the delayed outcome (k) was calculated and then 
 54-6	9821-9824	the	_
 54-7	9825-9832	delayed	_
 54-8	9833-9840	outcome	_
-54-9	9841-9842	(	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
-54-10	9842-9843	k	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+54-9	9841-9842	(	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+54-10	9842-9843	k	_
 54-11	9843-9844	)	_
 54-12	9845-9848	was	_
 54-13	9849-9859	calculated	_
@@ -1173,8 +1173,8 @@ Text=The resulting ln (k) is used to represent delay discounting, where higher l
 55-1	9966-9969	The	_
 55-2	9970-9979	resulting	_
 55-3	9980-9982	ln	_
-55-4	9982-9983	(	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-55-5	9983-9984	k	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+55-4	9982-9983	(	_
+55-5	9983-9984	k	_
 55-6	9984-9985	)	_
 55-7	9986-9988	is	_
 55-8	9989-9993	used	_
@@ -1218,11 +1218,11 @@ Text=Experimental design and statistical analysis Overall timeline In this two-s
 56-1	10190-10202	Experimental	_
 56-2	10203-10209	design	_
 56-3	10210-10213	and	_
-56-4	10214-10225	statistical	_
-56-5	10226-10234	analysis	_
-56-6	10235-10242	Overall	_
-56-7	10243-10251	timeline	_
-56-8	10252-10254	In	_
+56-4	10214-10225	statistical	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+56-5	10226-10234	analysis	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+56-6	10235-10242	Overall	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+56-7	10243-10251	timeline	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+56-8	10252-10254	In	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 56-9	10255-10259	this	_
 56-10	10260-10271	two-session	_
 56-11	10272-10277	study	_
@@ -1748,7 +1748,7 @@ Text=After the end of the infusion, subjects were provided a meal, and BrAC was 
 71-13	12969-12970	,	_
 71-14	12971-12974	and	_
 71-15	12975-12979	BrAC	_
-71-16	12980-12983	was	_
+71-16	12980-12983	was	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 71-17	12984-12991	tracked	_
 71-18	12992-12997	until	_
 71-19	12998-13000	it	_
@@ -1765,22 +1765,22 @@ Text=After the end of the infusion, subjects were provided a meal, and BrAC was 
 71-30	13035-13040	which	_
 71-31	13041-13045	time	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 71-32	13046-13054	subjects	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-71-33	13055-13059	were	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-71-34	13060-13065	taken	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-71-35	13066-13070	home	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-71-36	13071-13073	by	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-71-37	13074-13075	a	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+71-33	13055-13059	were	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+71-34	13060-13065	taken	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+71-35	13066-13070	home	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+71-36	13071-13073	by	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+71-37	13074-13075	a	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
 71-38	13076-13086	designated	_
 71-39	13087-13093	driver	_
 71-40	13094-13096	or	_
-71-41	13097-13101	taxi	_
-71-42	13101-13102	.	_
+71-41	13097-13101	taxi	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+71-42	13101-13102	.	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 
 Text=Neuroimaging acquisition and preprocessing During session 2, after the IV catheters were placed for alcohol infusion, participants were placed in a 3T SIEMENS Skyra MR scanner at the NMR Research Center at the NIH.
-72-1	13103-13115	Neuroimaging	_
-72-2	13116-13127	acquisition	_
-72-3	13128-13131	and	_
-72-4	13132-13145	preprocessing	_
+72-1	13103-13115	Neuroimaging	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+72-2	13116-13127	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+72-3	13128-13131	and	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+72-4	13132-13145	preprocessing	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 72-5	13146-13152	During	_
 72-6	13153-13160	session	_
 72-7	13161-13162	2	_
@@ -1817,7 +1817,7 @@ Text=Neuroimaging acquisition and preprocessing During session 2, after the IV c
 
 Text=Before starting the IV infusion of alcohol, a 5 - min closed eyes resting-state fMRI scan was acquired with an echo-planar imaging sequence (36 axial slices, 3.8 mm thickness, 64 × 64 matrix and repetition time of 2000 ms, echo time 30, flip angle 90).
 73-1	13318-13324	Before	_
-73-2	13325-13333	starting	_
+73-2	13325-13333	starting	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 73-3	13334-13337	the	_
 73-4	13338-13340	IV	_
 73-5	13341-13349	infusion	_
@@ -1860,7 +1860,7 @@ Text=Before starting the IV infusion of alcohol, a 5 - min closed eyes resting-s
 73-42	13530-13534	2000	_
 73-43	13535-13537	ms	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 73-44	13537-13538	,	_
-73-45	13539-13543	echo	_
+73-45	13539-13543	echo	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 73-46	13544-13548	time	_
 73-47	13549-13551	30	_
 73-48	13551-13552	,	_
@@ -1891,16 +1891,16 @@ Text=After collecting this baseline resting-state fMRI scan, the alcohol infusio
 74-18	13678-13681	was	_
 74-19	13682-13690	achieved	_
 74-20	13690-13691	,	_
-74-21	13692-13693	a	_
-74-22	13694-13696	10	_
-74-23	13696-13697	-	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+74-21	13692-13693	a	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+74-22	13694-13696	10	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+74-23	13696-13697	-	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 74-24	13697-13703	minute	_
 74-25	13704-13711	waiting	_
-74-26	13712-13718	period	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-74-27	13719-13722	was	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-74-28	13723-13730	allowed	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-74-29	13731-13733	to	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-74-30	13734-13740	ensure	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+74-26	13712-13718	period	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+74-27	13719-13722	was	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+74-28	13723-13730	allowed	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+74-29	13731-13733	to	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+74-30	13734-13740	ensure	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 74-31	13741-13744	the	_
 74-32	13745-13748	BAC	_
 74-33	13749-13752	was	_
@@ -1916,13 +1916,13 @@ Text=After collecting this baseline resting-state fMRI scan, the alcohol infusio
 
 Text=During the waiting period, whole-brain structural and diffusion-weighted images of the brain were collected.
 75-1	13784-13790	During	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-75-2	13791-13794	the	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-75-3	13795-13802	waiting	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-75-4	13803-13809	period	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-75-5	13809-13810	,	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-75-6	13811-13822	whole-brain	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-75-7	13823-13833	structural	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-75-8	13834-13837	and	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+75-2	13791-13794	the	_
+75-3	13795-13802	waiting	_
+75-4	13803-13809	period	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+75-5	13809-13810	,	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+75-6	13811-13822	whole-brain	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+75-7	13823-13833	structural	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+75-8	13834-13837	and	_
 75-9	13838-13856	diffusion-weighted	_
 75-10	13857-13863	images	_
 75-11	13864-13866	of	_
@@ -1952,8 +1952,8 @@ Text=Then, a second eyes-closed resting-state fMRI scan was collected while the 
 76-17	13985-13986	g	_
 76-18	13986-13987	/	_
 76-19	13987-13989	dl	_
-76-20	13989-13990	)	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-76-21	13991-13994	was	_
+76-20	13989-13990	)	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
+76-21	13991-13994	was	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
 76-22	13995-14005	maintained	_
 76-23	14005-14006	.	_
 
@@ -2007,8 +2007,8 @@ Text=CONN ver.17f (http: / / www.conn-toolbox.org), a MATLAB / SPM-based (www.fi
 78-22	14228-14236	software	_
 78-23	14236-14237	,	_
 78-24	14238-14241	was	_
-78-25	14242-14246	used	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-78-26	14247-14249	to	_
+78-25	14242-14246	used	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
+78-26	14247-14249	to	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
 78-27	14250-14257	conduct	_
 78-28	14258-14265	spatial	_
 78-29	14265-14266	/	_
@@ -2071,7 +2071,7 @@ Text=Anatomical volumes were segmented into grey matter, white matter, and cereb
 81-11	14582-14583	,	_
 81-12	14584-14587	and	_
 81-13	14588-14601	cerebrospinal	_
-81-14	14602-14607	fluid	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+81-14	14602-14607	fluid	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 81-15	14608-14609	(	_
 81-16	14609-14612	CSF	_
 81-17	14612-14613	)	_
@@ -2090,7 +2090,7 @@ Text=Anatomical volumes were segmented into grey matter, white matter, and cereb
 81-30	14690-14691	.	_
 
 Text=At the individual level, the temporal timeseries of the participant-specific six rotation-translation motion parameters and the timeseries from within the white matter / CSF masks were used as temporal covariates, and removed from the blood oxygen level-dependent (BOLD) functional data using linear regression.
-82-1	14692-14694	At	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+82-1	14692-14694	At	_
 82-2	14695-14698	the	_
 82-3	14699-14709	individual	_
 82-4	14710-14715	level	_
@@ -2135,14 +2135,14 @@ Text=At the individual level, the temporal timeseries of the participant-specifi
 82-43	14961-14971	functional	_
 82-44	14972-14976	data	_
 82-45	14977-14982	using	_
-82-46	14983-14989	linear	_
-82-47	14990-15000	regression	_
-82-48	15000-15001	.	_
+82-46	14983-14989	linear	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+82-47	14990-15000	regression	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+82-48	15000-15001	.	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 
 Text=The resulting residual BOLD timeseries were band-pass filtered (0.008Hz <f <0.15Hz).
-83-1	15002-15005	The	_
+83-1	15002-15005	The	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 83-2	15006-15015	resulting	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-83-3	15016-15024	residual	_
+83-3	15016-15024	residual	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 83-4	15025-15029	BOLD	_
 83-5	15030-15040	timeseries	_
 83-6	15041-15045	were	_
@@ -2187,7 +2187,7 @@ Text=Therefore, for these analyses, we used right and left GPe masks obtained fr
 85-1	15250-15259	Therefore	_
 85-2	15259-15260	,	_
 85-3	15261-15264	for	_
-85-4	15265-15270	these	_
+85-4	15265-15270	these	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 85-5	15271-15279	analyses	_
 85-6	15279-15280	,	_
 85-7	15281-15283	we	_
@@ -2260,7 +2260,7 @@ Text=Seed-based correlations were calculated as Fisher-transformed bivariate cor
 87-14	15697-15707	timeseries	_
 87-15	15708-15710	in	_
 87-16	15711-15714	the	_
-87-17	15715-15719	seed	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+87-17	15715-15719	seed	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 87-18	15720-15723	ROI	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 87-19	15724-15727	and	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 87-20	15728-15732	each	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
@@ -2307,9 +2307,9 @@ Text=These correlations were calculated separately for the pre-infusion and post
 89-9	15951-15954	and	_
 89-10	15955-15968	post-infusion	_
 89-11	15969-15974	scans	_
-89-12	15975-15978	and	_
+89-12	15975-15978	and	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 89-13	15979-15982	for	_
-89-14	15983-15988	right	_
+89-14	15983-15988	right	http://maven.renci.org/NeuroBridge/neurobridge#Pyromania
 89-15	15989-15992	and	_
 89-16	15993-15997	left	_
 89-17	15998-16001	GPe	_
@@ -2364,11 +2364,11 @@ Text=To examine group level effects, the resulting single-subject connectivity m
 91-22	16235-16242	general	_
 91-23	16243-16249	linear	_
 91-24	16250-16255	model	_
-91-25	16255-16256	.	_
+91-25	16255-16256	.	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 
 Text=We modeled the within-subject effect of timepoint (i.e., post - versus pre-alcohol infusion; see S1 File, S1 Fig and S1 Table for report of the main effects of alcohol administration) and between-subject effects of impulsivity (BIS - 11, UPPS-P, and DDT) and recent drinking behaviors (number of drinks in the last 30 days, number of heavy drinking days).
-92-1	16257-16259	We	_
-92-2	16260-16267	modeled	_
+92-1	16257-16259	We	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
+92-2	16260-16267	modeled	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 92-3	16268-16271	the	_
 92-4	16272-16286	within-subject	_
 92-5	16287-16293	effect	_
@@ -2389,8 +2389,8 @@ Text=We modeled the within-subject effect of timepoint (i.e., post - versus pre-
 92-20	16356-16360	File	_
 92-21	16360-16361	,	_
 92-22	16362-16364	S1	_
-92-23	16365-16368	Fig	_
-92-24	16369-16372	and	_
+92-23	16365-16368	Fig	http://maven.renci.org/NeuroBridge/neurobridge#DissociativeDrugHarmfulUse
+92-24	16369-16372	and	http://maven.renci.org/NeuroBridge/neurobridge#DissociativeDrugHarmfulUse
 92-25	16373-16375	S1	_
 92-26	16376-16381	Table	_
 92-27	16382-16385	for	_
@@ -2438,10 +2438,10 @@ Text=We modeled the within-subject effect of timepoint (i.e., post - versus pre-
 92-69	16594-16602	drinking	_
 92-70	16603-16607	days	_
 92-71	16607-16608	)	_
-92-72	16608-16609	.	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+92-72	16608-16609	.	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 
 Text=S1 Table indicates clusters identified as showing significant changes from pre to post alcohol infusion, as well as associated statistics.
-93-1	16610-16612	S1	_
+93-1	16610-16612	S1	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 93-2	16613-16618	Table	_
 93-3	16619-16628	indicates	_
 93-4	16629-16637	clusters	_
@@ -2449,7 +2449,7 @@ Text=S1 Table indicates clusters identified as showing significant changes from 
 93-6	16649-16651	as	_
 93-7	16652-16659	showing	_
 93-8	16660-16671	significant	_
-93-9	16672-16679	changes	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+93-9	16672-16679	changes	_
 93-10	16680-16684	from	_
 93-11	16685-16688	pre	_
 93-12	16689-16691	to	_
@@ -2465,7 +2465,7 @@ Text=S1 Table indicates clusters identified as showing significant changes from 
 93-22	16747-16748	.	_
 
 Text=For the seed-to-voxel analysis, reported clusters survived a height threshold of uncorrected p <0.001 with a cluster level extent threshold of FDR-corrected p <0.05.
-94-1	16749-16752	For	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+94-1	16749-16752	For	_
 94-2	16753-16756	the	_
 94-3	16757-16770	seed-to-voxel	_
 94-4	16771-16779	analysis	_
@@ -2477,8 +2477,8 @@ Text=For the seed-to-voxel analysis, reported clusters survived a height thresho
 94-10	16810-16816	height	_
 94-11	16817-16826	threshold	_
 94-12	16827-16829	of	_
-94-13	16830-16841	uncorrected	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-94-14	16842-16843	p	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+94-13	16830-16841	uncorrected	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
+94-14	16842-16843	p	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 94-15	16844-16845	<	_
 94-16	16846-16851	0.001	_
 94-17	16852-16856	with	_
@@ -2510,10 +2510,10 @@ Text=In Figs 3 – 5, these clusters are shown overlaid on structural brain cuta
 95-13	16967-16977	structural	_
 95-14	16978-16983	brain	_
 95-15	16984-16992	cutaways	_
-95-16	16992-16993	.	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+95-16	16992-16993	.	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 
 Text=Corresponding line plots are only for visual interpretation of these effects.
-96-1	16994-17007	Corresponding	_
+96-1	16994-17007	Corresponding	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 96-2	17008-17012	line	_
 96-3	17013-17018	plots	_
 96-4	17019-17022	are	_
@@ -2757,7 +2757,7 @@ Text=We then adjusted the omnibus test statistics to correct for multiple compar
 104-6	18386-18390	test	_
 104-7	18391-18401	statistics	_
 104-8	18402-18404	to	_
-104-9	18405-18412	correct	_
+104-9	18405-18412	correct	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 104-10	18413-18416	for	_
 104-11	18417-18425	multiple	_
 104-12	18426-18437	comparisons	_

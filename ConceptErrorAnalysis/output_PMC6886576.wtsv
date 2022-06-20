@@ -2,7 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
-#Human Annotation
+#Machine Prediction
 Text=Understanding marijuana ’ s effects on functional connectivity of the default mode network in patients with schizophrenia and co-occurring cannabis use disorder: A Pilot Investigation Nearly half of patients with schizophrenia (SCZ) have co-occurring cannabis use disorder (CUD), which has been associated with decreased treatment efficacy, increased risk of psychotic relapse, and poor global functioning.
 1-1	0-13	Understanding	_
 1-2	14-23	marijuana	_
@@ -10,24 +10,24 @@ Text=Understanding marijuana ’ s effects on functional connectivity of the def
 1-4	24-25	s	_
 1-5	26-33	effects	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-6	34-36	on	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-1-7	37-47	functional	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-7	37-47	functional	_
 1-8	48-60	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-9	61-63	of	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-10	64-67	the	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-11	68-75	default	_
 1-12	76-80	mode	_
-1-13	81-88	network	_
-1-14	89-91	in	_
-1-15	92-100	patients	_
-1-16	101-105	with	_
-1-17	106-119	schizophrenia	_
-1-18	120-123	and	_
-1-19	124-136	co-occurring	_
-1-20	137-145	cannabis	_
-1-21	146-149	use	_
-1-22	150-158	disorder	_
-1-23	158-159	:	_
-1-24	160-161	A	_
+1-13	81-88	network	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-14	89-91	in	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-15	92-100	patients	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-16	101-105	with	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-17	106-119	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-18	120-123	and	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-19	124-136	co-occurring	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-20	137-145	cannabis	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-21	146-149	use	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-22	150-158	disorder	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-23	158-159	:	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-24	160-161	A	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
 1-25	162-167	Pilot	_
 1-26	168-181	Investigation	_
 1-27	182-188	Nearly	_
@@ -64,7 +64,7 @@ Text=Understanding marijuana ’ s effects on functional connectivity of the def
 1-58	367-374	relapse	_
 1-59	374-375	,	_
 1-60	376-379	and	_
-1-61	380-384	poor	_
+1-61	380-384	poor	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 1-62	385-391	global	_
 1-63	392-403	functioning	_
 1-64	403-404	.	_
@@ -94,7 +94,7 @@ Text=While reports on the effects of cannabis on cognitive performance in patien
 2-22	524-532	networks	_
 2-23	533-540	related	_
 2-24	541-543	to	_
-2-25	544-553	executive	_
+2-25	544-553	executive	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 2-26	554-562	function	_
 2-27	563-566	may	_
 2-28	567-574	clarify	_
@@ -116,10 +116,10 @@ Text=In the present pilot study, patients with SCZ and CUD (n = 12) and healthy 
 3-2	664-667	the	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 3-3	668-675	present	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 3-4	676-681	pilot	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-3-5	682-687	study	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-3-6	687-688	,	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-3-7	689-697	patients	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-3-8	698-702	with	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+3-5	682-687	study	_
+3-6	687-688	,	http://maven.renci.org/NeuroBridge/neurobridge#Thing
+3-7	689-697	patients	http://maven.renci.org/NeuroBridge/neurobridge#Thing
+3-8	698-702	with	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 3-9	703-706	SCZ	_
 3-10	707-710	and	_
 3-11	711-714	CUD	_
@@ -145,9 +145,9 @@ Text=In the present pilot study, patients with SCZ and CUD (n = 12) and healthy 
 3-31	802-803	(	_
 3-32	803-807	fMRI	_
 3-33	807-808	)	_
-3-34	809-816	resting	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-3-35	817-822	scans	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-3-36	822-823	.	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+3-34	809-816	resting	_
+3-35	817-822	scans	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+3-36	822-823	.	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 
 Text=Prior to the second scan, patients smoked a 3.6% tetrahydrocannabinol (THC) cannabis cigarette or ingested a 15mg delta - 9 - tetrahydrocannabinol (THC) pill.
 4-1	824-829	Prior	_
@@ -162,20 +162,20 @@ Text=Prior to the second scan, patients smoked a 3.6% tetrahydrocannabinol (THC)
 4-10	868-872	3.6%	_
 4-11	873-893	tetrahydrocannabinol	_
 4-12	894-895	(	_
-4-13	895-898	THC	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-4-14	898-899	)	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-4-15	900-908	cannabis	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+4-13	895-898	THC	_
+4-14	898-899	)	_
+4-15	900-908	cannabis	_
 4-16	909-918	cigarette	_
 4-17	919-921	or	_
 4-18	922-930	ingested	_
-4-19	931-932	a	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-4-20	933-937	15mg	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-4-21	938-943	delta	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-4-22	943-944	-	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-4-23	944-945	9	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-4-24	945-946	-	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-4-25	946-966	tetrahydrocannabinol	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-4-26	967-968	(	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+4-19	931-932	a	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+4-20	933-937	15mg	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+4-21	938-943	delta	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+4-22	943-944	-	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+4-23	944-945	9	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+4-24	945-946	-	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+4-25	946-966	tetrahydrocannabinol	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+4-26	967-968	(	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 4-27	968-971	THC	_
 4-28	971-972	)	_
 4-29	973-977	pill	_
@@ -183,10 +183,10 @@ Text=Prior to the second scan, patients smoked a 3.6% tetrahydrocannabinol (THC)
 
 Text=We used resting-state functional connectivity to examine the default mode network (DMN) during both scans, as connectivity / activity within this network is negatively correlated with connectivity of the network involved in executive control and shows reduced activity during task performance in normal individuals.
 5-1	979-981	We	_
-5-2	982-986	used	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-5-3	987-1000	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+5-2	982-986	used	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+5-3	987-1000	resting-state	_
 5-4	1001-1011	functional	_
-5-5	1012-1024	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+5-5	1012-1024	connectivity	_
 5-6	1025-1027	to	_
 5-7	1028-1035	examine	_
 5-8	1036-1039	the	_
@@ -204,8 +204,8 @@ Text=We used resting-state functional connectivity to examine the default mode n
 5-20	1089-1101	connectivity	_
 5-21	1101-1102	/	_
 5-22	1102-1110	activity	_
-5-23	1111-1117	within	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-5-24	1118-1122	this	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+5-23	1111-1117	within	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+5-24	1118-1122	this	_
 5-25	1123-1130	network	_
 5-26	1131-1133	is	_
 5-27	1134-1144	negatively	_
@@ -283,7 +283,7 @@ Text=Moreover, the magnitude of anticorrelation in the controls, and in the pati
 8-2	1606-1607	,	_
 8-3	1608-1611	the	_
 8-4	1612-1621	magnitude	_
-8-5	1622-1624	of	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-5	1622-1624	of	_
 8-6	1625-1640	anticorrelation	_
 8-7	1641-1643	in	_
 8-8	1644-1647	the	_
@@ -325,14 +325,14 @@ Text=The finding that DMN brain connectivity is plastic may have implications fo
 9-18	1875-1884	treatment	_
 9-19	1885-1893	efficacy	_
 9-20	1894-1899	could	_
-9-21	1900-1902	be	_
-9-22	1903-1911	assessed	_
+9-21	1900-1902	be	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+9-22	1903-1911	assessed	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 9-23	1912-1919	through	_
 9-24	1920-1923	the	_
 9-25	1924-1931	ability	_
-9-26	1932-1934	of	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-9-27	1935-1944	therapies	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-9-28	1945-1947	to	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+9-26	1932-1934	of	_
+9-27	1935-1944	therapies	_
+9-28	1945-1947	to	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 9-29	1948-1957	normalize	_
 9-30	1958-1968	underlying	_
 9-31	1969-1982	circuit-level	_
@@ -397,11 +397,11 @@ Text=As previously described in all patients were recruited from community menta
 34-10	7296-7305	community	_
 34-11	7306-7312	mental	_
 34-12	7313-7319	health	_
-34-13	7320-7327	centers	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-34-14	7328-7331	and	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+34-13	7320-7327	centers	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+34-14	7328-7331	and	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 34-15	7332-7335	met	_
-34-16	7336-7344	criteria	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-34-17	7345-7348	for	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+34-16	7336-7344	criteria	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+34-17	7345-7348	for	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 34-18	7349-7352	SCZ	_
 34-19	7353-7356	and	_
 34-20	7357-7360	CUD	_
@@ -491,8 +491,8 @@ Text=Tobacco users were included in the study, since up to 90% of patients with 
 36-6	7792-7795	the	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 36-7	7796-7801	study	_
 36-8	7801-7802	,	_
-36-9	7803-7808	since	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-36-10	7809-7811	up	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+36-9	7803-7808	since	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+36-10	7809-7811	up	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 36-11	7812-7814	to	_
 36-12	7815-7818	90%	_
 36-13	7819-7821	of	_
@@ -501,10 +501,10 @@ Text=Tobacco users were included in the study, since up to 90% of patients with 
 36-16	7836-7839	SCZ	_
 36-17	7840-7845	smoke	_
 36-18	7846-7856	cigarettes	_
-36-19	7856-7857	.	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+36-19	7856-7857	.	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 
 Text=All patients were on a stable dose of antipsychotic medication for a minimum of one month prior to study participation.
-37-1	7858-7861	All	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+37-1	7858-7861	All	_
 37-2	7862-7870	patients	_
 37-3	7871-7875	were	_
 37-4	7876-7878	on	_
@@ -630,8 +630,8 @@ Text=In addition to the exclusion criteria noted above, controls were excluded i
 41-32	8523-8524	.	_
 
 Text=A signed informed consent was obtained from participants prior to initiation of the study.
-42-1	8525-8526	A	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-42-2	8527-8533	signed	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+42-1	8525-8526	A	_
+42-2	8527-8533	signed	_
 42-3	8534-8542	informed	_
 42-4	8543-8550	consent	_
 42-5	8551-8554	was	_
@@ -648,11 +648,11 @@ Text=A signed informed consent was obtained from participants prior to initiatio
 
 Text=The protocol was approved by the Committee for the Protection of Human Subjects (IRB) at Dartmouth College.
 43-1	8616-8619	The	_
-43-2	8620-8628	protocol	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-43-3	8629-8632	was	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-43-4	8633-8641	approved	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-43-5	8642-8644	by	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-43-6	8645-8648	the	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+43-2	8620-8628	protocol	_
+43-3	8629-8632	was	_
+43-4	8633-8641	approved	_
+43-5	8642-8644	by	_
+43-6	8645-8648	the	_
 43-7	8649-8658	Committee	_
 43-8	8659-8662	for	_
 43-9	8663-8666	the	_
@@ -755,9 +755,9 @@ Text=Subjects completed a ‘ baseline ’ session (T1), and then returned one w
 46-47	9142-9143	6	_
 46-48	9143-9144	)	_
 46-49	9145-9147	or	_
-46-50	9148-9150	an	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-46-51	9151-9157	active	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-46-52	9158-9166	cannabis	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+46-50	9148-9150	an	_
+46-51	9151-9157	active	_
+46-52	9158-9166	cannabis	_
 46-53	9167-9176	cigarette	_
 46-54	9177-9178	(	_
 46-55	9178-9182	3.6%	_
@@ -775,22 +775,22 @@ Text=Those in the THC group were given a 15mg THC pill (three hours prior to sca
 47-1	9201-9206	Those	_
 47-2	9207-9209	in	_
 47-3	9210-9213	the	_
-47-4	9214-9217	THC	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+47-4	9214-9217	THC	_
 47-5	9218-9223	group	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
-47-6	9224-9228	were	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+47-6	9224-9228	were	_
 47-7	9229-9234	given	_
 47-8	9235-9236	a	_
 47-9	9237-9241	15mg	_
 47-10	9242-9245	THC	_
-47-11	9246-9250	pill	_
-47-12	9251-9252	(	_
+47-11	9246-9250	pill	http://maven.renci.org/NeuroBridge/neurobridge#WideRangeAchievementTest
+47-12	9251-9252	(	http://maven.renci.org/NeuroBridge/neurobridge#WideRangeAchievementTest
 47-13	9252-9257	three	_
-47-14	9258-9263	hours	_
-47-15	9264-9269	prior	_
-47-16	9270-9272	to	_
-47-17	9273-9281	scanning	_
-47-18	9281-9282	)	_
-47-19	9283-9286	and	_
+47-14	9258-9263	hours	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+47-15	9264-9269	prior	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+47-16	9270-9272	to	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+47-17	9273-9281	scanning	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+47-18	9281-9282	)	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+47-19	9283-9286	and	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
 47-20	9287-9291	then	_
 47-21	9292-9298	smoked	_
 47-22	9299-9300	a	_
@@ -810,7 +810,7 @@ Text=Those in the cannabis group were given a placebo pill (3 hours prior to sca
 48-4	9372-9380	cannabis	_
 48-5	9381-9386	group	_
 48-6	9387-9391	were	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-48-7	9392-9397	given	_
+48-7	9392-9397	given	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 48-8	9398-9399	a	_
 48-9	9400-9407	placebo	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 48-10	9408-9412	pill	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -820,7 +820,7 @@ Text=Those in the cannabis group were given a placebo pill (3 hours prior to sca
 48-14	9422-9427	prior	_
 48-15	9428-9430	to	_
 48-16	9431-9439	scanning	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-48-17	9439-9440	)	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+48-17	9439-9440	)	_
 48-18	9441-9444	and	_
 48-19	9445-9449	then	_
 48-20	9450-9456	smoked	_
@@ -906,18 +906,18 @@ Text=Healthy control participants followed the same study protocol, but did not 
 52-10	9870-9873	but	_
 52-11	9874-9877	did	_
 52-12	9878-9881	not	_
-52-13	9882-9889	receive	_
-52-14	9890-9893	any	_
-52-15	9894-9907	pharmacologic	_
-52-16	9908-9920	intervention	_
-52-17	9921-9927	during	_
-52-18	9928-9930	T2	_
-52-19	9930-9931	.	_
+52-13	9882-9889	receive	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+52-14	9890-9893	any	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+52-15	9894-9907	pharmacologic	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+52-16	9908-9920	intervention	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+52-17	9921-9927	during	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+52-18	9928-9930	T2	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+52-19	9930-9931	.	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 
 Text=In order to assist patients in remaining abstinent from substance use for the duration of the study, they were assessed three times in the week prior to each scan session.
 53-1	9932-9934	In	_
 53-2	9935-9940	order	_
-53-3	9941-9943	to	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+53-3	9941-9943	to	_
 53-4	9944-9950	assist	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 53-5	9951-9959	patients	_
 53-6	9960-9962	in	_
@@ -992,7 +992,7 @@ Text=Patients were discontinued from the study if screening suggested substance 
 55-1	10300-10308	Patients	_
 55-2	10309-10313	were	_
 55-3	10314-10326	discontinued	_
-55-4	10327-10331	from	_
+55-4	10327-10331	from	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 55-5	10332-10335	the	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 55-6	10336-10341	study	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 55-7	10342-10344	if	_
@@ -1066,10 +1066,10 @@ Text=The Marijuana Craving Questionnaire (MCQ), Cannabis Withdrawal Scale (CWS),
 57-19	10694-10702	Negative	_
 57-20	10703-10711	Syndrome	_
 57-21	10712-10717	Scale	_
-57-22	10718-10719	(	_
-57-23	10719-10724	PANSS	_
-57-24	10724-10725	)	_
-57-25	10726-10730	were	_
+57-22	10718-10719	(	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+57-23	10719-10724	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+57-24	10724-10725	)	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+57-25	10726-10730	were	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
 57-26	10731-10743	administered	_
 57-27	10744-10746	to	_
 57-28	10747-10753	assess	_
@@ -1143,7 +1143,7 @@ Text=Working memory performance To assess for change in working memory performan
 59-7	11125-11131	change	_
 59-8	11132-11134	in	_
 59-9	11135-11142	working	_
-59-10	11143-11149	memory	_
+59-10	11143-11149	memory	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 59-11	11150-11161	performance	_
 59-12	11162-11169	induced	_
 59-13	11170-11172	by	_
@@ -1152,8 +1152,8 @@ Text=Working memory performance To assess for change in working memory performan
 59-16	11186-11189	THC	_
 59-17	11189-11190	,	_
 59-18	11191-11194	the	_
-59-19	11195-11203	Wechsler	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
-59-20	11204-11209	Adult	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+59-19	11195-11203	Wechsler	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+59-20	11204-11209	Adult	_
 59-21	11210-11222	Intelligence	_
 59-22	11223-11228	Scale	_
 59-23	11229-11230	(	_
@@ -1177,8 +1177,8 @@ Text=Working memory performance To assess for change in working memory performan
 59-41	11333-11341	scanning	_
 59-42	11342-11350	sessions	_
 59-43	11351-11353	at	_
-59-44	11354-11356	T1	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-59-45	11357-11360	and	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+59-44	11354-11356	T1	_
+59-45	11357-11360	and	_
 59-46	11361-11363	T2	_
 59-47	11363-11364	.	_
 
@@ -1226,11 +1226,11 @@ Text=A correlation analysis between WM performance and the magnitude of DMN-ECN 
 62-3	11598-11606	analysis	_
 62-4	11607-11614	between	_
 62-5	11615-11617	WM	_
-62-6	11618-11629	performance	_
-62-7	11630-11633	and	_
-62-8	11634-11637	the	_
-62-9	11638-11647	magnitude	_
-62-10	11648-11650	of	_
+62-6	11618-11629	performance	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+62-7	11630-11633	and	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+62-8	11634-11637	the	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+62-9	11638-11647	magnitude	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+62-10	11648-11650	of	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 62-11	11651-11658	DMN-ECN	_
 62-12	11659-11674	anticorrelation	_
 62-13	11675-11678	was	_
@@ -1752,7 +1752,7 @@ Text=The anatomical image for each participant was segmented into white matter, 
 74-25	14248-14249	.	_
 
 Text=To minimize partial voluming with grey matter, the white matter and CSF masks were eroded by one voxel, which resulted in substantially smaller masks than the original segmentations.
-75-1	14250-14252	To	_
+75-1	14250-14252	To	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 75-2	14253-14261	minimize	_
 75-3	14262-14269	partial	_
 75-4	14270-14278	voluming	_
@@ -1769,20 +1769,20 @@ Text=To minimize partial voluming with grey matter, the white matter and CSF mas
 75-15	14328-14332	were	_
 75-16	14333-14339	eroded	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 75-17	14340-14342	by	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-75-18	14343-14346	one	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-75-19	14347-14352	voxel	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-75-20	14352-14353	,	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-75-21	14354-14359	which	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-75-22	14360-14368	resulted	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+75-18	14343-14346	one	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+75-19	14347-14352	voxel	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+75-20	14352-14353	,	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+75-21	14354-14359	which	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+75-22	14360-14368	resulted	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
 75-23	14369-14371	in	_
 75-24	14372-14385	substantially	_
 75-25	14386-14393	smaller	_
-75-26	14394-14399	masks	_
-75-27	14400-14404	than	_
-75-28	14405-14408	the	_
-75-29	14409-14417	original	_
-75-30	14418-14431	segmentations	_
-75-31	14431-14432	.	_
+75-26	14394-14399	masks	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+75-27	14400-14404	than	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+75-28	14405-14408	the	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+75-29	14409-14417	original	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+75-30	14418-14431	segmentations	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+75-31	14431-14432	.	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 
 Text=The eroded white matter and CSF masks were then used as noise regions of interest (ROI).
 76-1	14433-14436	The	_
@@ -1821,7 +1821,7 @@ Text=Signals from the white matter and CSF noise ROIs were extracted from the un
 77-13	14591-14594	the	_
 77-14	14595-14605	unsmoothed	_
 77-15	14606-14616	functional	_
-77-16	14617-14624	volumes	_
+77-16	14617-14624	volumes	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 77-17	14625-14627	to	_
 77-18	14628-14633	avoid	_
 77-19	14634-14644	additional	_
@@ -1866,7 +1866,7 @@ Text=Previous results showed that aCompCor signals were considerably different f
 78-24	14882-14888	signal	_
 78-25	14889-14899	diminished	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 78-26	14900-14904	both	_
-78-27	14905-14913	positive	_
+78-27	14905-14913	positive	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 78-28	14914-14917	and	_
 78-29	14918-14926	negative	_
 78-30	14927-14939	correlations	_
@@ -1897,16 +1897,16 @@ Text=Based on previous results, five principal components of the signals from wh
 79-10	15108-15111	the	_
 79-11	15112-15119	signals	_
 79-12	15120-15124	from	_
-79-13	15125-15130	white	_
-79-14	15131-15137	matter	_
-79-15	15138-15141	and	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+79-13	15125-15130	white	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+79-14	15131-15137	matter	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+79-15	15138-15141	and	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 79-16	15142-15145	CSF	_
 79-17	15146-15151	noise	_
-79-18	15152-15156	ROIs	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-79-19	15157-15161	were	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-79-20	15162-15169	removed	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-79-21	15170-15174	with	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-79-22	15175-15185	regression	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+79-18	15152-15156	ROIs	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+79-19	15157-15161	were	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+79-20	15162-15169	removed	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+79-21	15170-15174	with	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+79-22	15175-15185	regression	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 79-23	15185-15186	.	_
 
 Text=A temporal band-pass filter of 0.009 Hz to 0.08 Hz was applied to the time series.
@@ -1922,15 +1922,15 @@ Text=A temporal band-pass filter of 0.009 Hz to 0.08 Hz was applied to the time 
 80-10	15235-15237	Hz	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 80-11	15238-15241	was	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 80-12	15242-15249	applied	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-80-13	15250-15252	to	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-80-14	15253-15256	the	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-80-15	15257-15261	time	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-80-16	15262-15268	series	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-80-17	15268-15269	.	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+80-13	15250-15252	to	_
+80-14	15253-15256	the	_
+80-15	15257-15261	time	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+80-16	15262-15268	series	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+80-17	15268-15269	.	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 
 Text=The residual BOLD time-series was band-pass filtered over a low-frequency window of interest (0.009Hz <f <0.08Hz).
-81-1	15270-15273	The	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-81-2	15274-15282	residual	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+81-1	15270-15273	The	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+81-2	15274-15282	residual	_
 81-3	15283-15287	BOLD	_
 81-4	15288-15299	time-series	_
 81-5	15300-15303	was	_
@@ -1960,8 +1960,8 @@ Text=Correlation maps were produced by extracting the residual BOLD time course 
 82-6	15417-15427	extracting	_
 82-7	15428-15431	the	_
 82-8	15432-15440	residual	_
-82-9	15441-15445	BOLD	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-82-10	15446-15450	time	_
+82-9	15441-15445	BOLD	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
+82-10	15446-15450	time	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
 82-11	15451-15457	course	_
 82-12	15458-15462	from	_
 82-13	15463-15467	seed	_
@@ -2015,8 +2015,8 @@ Text=Pearson ’ s correlation coefficients were then calculated between the DMN
 84-19	15701-15704	all	_
 84-20	15705-15710	other	_
 84-21	15711-15717	voxels	_
-84-22	15718-15720	in	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-84-23	15721-15724	the	_
+84-22	15718-15720	in	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
+84-23	15721-15724	the	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
 84-24	15725-15730	brain	_
 84-25	15730-15731	.	_
 
@@ -2079,7 +2079,7 @@ Text=Correction for multiple comparisons on analyses were implemented with an FD
 87-7	16064-16068	were	_
 87-8	16069-16080	implemented	_
 87-9	16081-16085	with	_
-87-10	16086-16088	an	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+87-10	16086-16088	an	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 87-11	16089-16092	FDR	_
 87-12	16093-16103	correction	_
 87-13	16104-16106	of	_

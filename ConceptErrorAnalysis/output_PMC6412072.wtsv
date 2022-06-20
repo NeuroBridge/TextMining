@@ -2,7 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
-#Human Annotation
+#Machine Prediction
 Text=Interhemispheric connectivity and hemispheric specialization in schizophrenia patients and their unaffected siblings Hemispheric integration and specialization are two prominent organizational principles for macroscopic brain function.
 1-1	0-16	Interhemispheric	_
 1-2	17-29	connectivity	_
@@ -10,24 +10,24 @@ Text=Interhemispheric connectivity and hemispheric specialization in schizophren
 1-4	34-45	hemispheric	_
 1-5	46-60	specialization	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-6	61-63	in	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-1-7	64-77	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-7	64-77	schizophrenia	_
 1-8	78-86	patients	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-9	87-90	and	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-10	91-96	their	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-11	97-107	unaffected	_
 1-12	108-116	siblings	_
-1-13	117-128	Hemispheric	_
-1-14	129-140	integration	_
-1-15	141-144	and	_
-1-16	145-159	specialization	_
-1-17	160-163	are	_
-1-18	164-167	two	_
-1-19	168-177	prominent	_
-1-20	178-192	organizational	_
-1-21	193-203	principles	_
-1-22	204-207	for	_
-1-23	208-219	macroscopic	_
-1-24	220-225	brain	_
+1-13	117-128	Hemispheric	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-14	129-140	integration	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-15	141-144	and	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-16	145-159	specialization	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-17	160-163	are	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-18	164-167	two	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-19	168-177	prominent	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-20	178-192	organizational	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-21	193-203	principles	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-22	204-207	for	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-23	208-219	macroscopic	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-24	220-225	brain	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
 1-25	226-234	function	_
 1-26	234-235	.	_
 
@@ -68,7 +68,7 @@ Text=Moreover, it is unclear how abnormalities in interhemispheric connectivity 
 3-4	452-454	is	_
 3-5	455-462	unclear	_
 3-6	463-466	how	_
-3-7	467-480	abnormalities	_
+3-7	467-480	abnormalities	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 3-8	481-483	in	_
 3-9	484-500	interhemispheric	_
 3-10	501-513	connectivity	_
@@ -98,7 +98,7 @@ Text=To address these questions, we performed magnetic resonance imaging (MRI) i
 4-18	641-643	of	_
 4-19	644-647	253	_
 4-20	648-660	participants	_
-4-21	660-661	,	_
+4-21	660-661	,	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 4-22	662-671	including	_
 4-23	672-674	84	_
 4-24	675-688	schizophrenia	_
@@ -120,10 +120,10 @@ Text=Interhemispheric connectivity and hemispheric specialization were calculate
 5-2	774-786	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 5-3	787-790	and	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 5-4	791-802	hemispheric	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-5-5	803-817	specialization	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-5-6	818-822	were	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-5-7	823-833	calculated	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-5-8	834-838	from	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-5	803-817	specialization	_
+5-6	818-822	were	http://maven.renci.org/NeuroBridge/neurobridge#Thing
+5-7	823-833	calculated	http://maven.renci.org/NeuroBridge/neurobridge#Thing
+5-8	834-838	from	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 5-9	839-852	resting-state	_
 5-10	853-863	functional	_
 5-11	864-876	connectivity	_
@@ -153,9 +153,9 @@ Text=Results showed that schizophrenia patients exhibit lower interhemispheric c
 6-16	1029-1030	.	_
 
 Text=In addition, patients showed higher levels of hemispheric specialization as compared to siblings.
-7-1	1031-1033	In	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-7-2	1034-1042	addition	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-7-3	1042-1043	,	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-1	1031-1033	In	_
+7-2	1034-1042	addition	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+7-3	1042-1043	,	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 7-4	1044-1052	patients	_
 7-5	1053-1059	showed	_
 7-6	1060-1066	higher	_
@@ -170,20 +170,20 @@ Text=In addition, patients showed higher levels of hemispheric specialization as
 7-15	1127-1128	.	_
 
 Text=Level of interhemispheric connectivity and hemispheric specialization correlated with duration of illness in patients.
-8-1	1129-1134	Level	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-8-2	1135-1137	of	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-8-3	1138-1154	interhemispheric	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+8-1	1129-1134	Level	_
+8-2	1135-1137	of	_
+8-3	1138-1154	interhemispheric	_
 8-4	1155-1167	connectivity	_
 8-5	1168-1171	and	_
 8-6	1172-1183	hemispheric	_
-8-7	1184-1198	specialization	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-8-8	1199-1209	correlated	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-8-9	1210-1214	with	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-8-10	1215-1223	duration	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-8-11	1224-1226	of	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-8-12	1227-1234	illness	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-8-13	1235-1237	in	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-8-14	1238-1246	patients	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-7	1184-1198	specialization	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+8-8	1199-1209	correlated	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+8-9	1210-1214	with	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+8-10	1215-1223	duration	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+8-11	1224-1226	of	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+8-12	1227-1234	illness	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+8-13	1235-1237	in	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+8-14	1238-1246	patients	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 8-15	1246-1247	.	_
 
 Text=No significant alterations were identified in siblings relative to controls on both measurements.
@@ -191,10 +191,10 @@ Text=No significant alterations were identified in siblings relative to controls
 9-2	1251-1262	significant	_
 9-3	1263-1274	alterations	_
 9-4	1275-1279	were	_
-9-5	1280-1290	identified	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-9-6	1291-1293	in	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+9-5	1280-1290	identified	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+9-6	1291-1293	in	_
 9-7	1294-1302	siblings	_
-9-8	1303-1311	relative	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+9-8	1303-1311	relative	_
 9-9	1312-1314	to	_
 9-10	1315-1323	controls	_
 9-11	1324-1326	on	_
@@ -214,8 +214,8 @@ Text=Furthermore, alterations in interhemispheric connectivity correlated with c
 10-9	1420-1427	changes	_
 10-10	1428-1430	in	_
 10-11	1431-1442	hemispheric	_
-10-12	1443-1457	specialization	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-10-13	1458-1460	in	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+10-12	1443-1457	specialization	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+10-13	1458-1460	in	_
 10-14	1461-1469	patients	_
 10-15	1470-1478	relative	_
 10-16	1479-1481	to	_
@@ -295,7 +295,7 @@ Text=Lower IC is associated with higher hemispheric specialization (HS) in patie
 
 Text=Siblings do not show changes on IC and HS relative to controls.
 14-1	1949-1957	Siblings	_
-14-2	1958-1960	do	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+14-2	1958-1960	do	_
 14-3	1961-1964	not	_
 14-4	1965-1969	show	_
 14-5	1970-1977	changes	_
@@ -357,14 +357,14 @@ Text=Material and methods Participants A total of 253 participants, including 84
 34-11	6217-6226	including	_
 34-12	6227-6229	84	_
 34-13	6230-6243	schizophrenia	_
-34-14	6244-6252	patients	_
-34-15	6252-6253	,	_
+34-14	6244-6252	patients	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+34-15	6252-6253	,	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 34-16	6254-6257	106	_
 34-17	6258-6260	of	_
 34-18	6261-6266	their	_
-34-19	6267-6277	unaffected	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-34-20	6278-6286	siblings	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-34-21	6287-6290	and	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+34-19	6267-6277	unaffected	_
+34-20	6278-6286	siblings	_
+34-21	6287-6290	and	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 34-22	6291-6293	63	_
 34-23	6294-6301	healthy	_
 34-24	6302-6310	controls	_
@@ -405,11 +405,11 @@ Text=The GROUP study was conducted by four university psychiatric centers and th
 35-2	6479-6484	GROUP	_
 35-3	6485-6490	study	_
 35-4	6491-6494	was	_
-35-5	6495-6504	conducted	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-35-6	6505-6507	by	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+35-5	6495-6504	conducted	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+35-6	6505-6507	by	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 35-7	6508-6512	four	_
-35-8	6513-6523	university	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-35-9	6524-6535	psychiatric	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+35-8	6513-6523	university	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+35-9	6524-6535	psychiatric	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 35-10	6536-6543	centers	_
 35-11	6544-6547	and	_
 35-12	6548-6553	their	_
@@ -503,8 +503,8 @@ Text=This semi-structured interview is designed to obtain comprehensive informat
 39-20	7090-7099	disorders	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 39-21	7099-7100	,	_
 39-22	7101-7110	premorbid	_
-39-23	7111-7122	functioning	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-39-24	7122-7123	,	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+39-23	7111-7122	functioning	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+39-24	7122-7123	,	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 39-25	7124-7140	sociodemographic	_
 39-26	7141-7147	status	_
 39-27	7147-7148	,	_
@@ -513,8 +513,8 @@ Text=This semi-structured interview is designed to obtain comprehensive informat
 39-30	7160-7163	and	_
 39-31	7164-7170	course	_
 39-32	7171-7173	of	_
-39-33	7174-7181	illness	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-39-34	7181-7182	.	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+39-33	7174-7181	illness	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+39-34	7181-7182	.	_
 
 Text=Patients were included if they met Diagnostic and Statistical Manual of Mental Disorders fourth edition (DSM-IV) criteria for schizophrenia or schizoaffective disorder.
 40-1	7183-7191	Patients	_
@@ -640,8 +640,8 @@ Text=Table 1 Controls Siblings Patients Statisticsa Age 29.16   ±   7.59 29
 44-25	7800-7805	2,250	_
 44-26	7805-7806	)	_
 44-27	7806-7807	 	_
-44-28	7807-7808	=	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-44-29	7808-7809	 	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+44-28	7807-7808	=	_
+44-29	7808-7809	 	_
 44-30	7809-7813	0.18	_
 44-31	7813-7814	,	_
 44-32	7815-7816	p	_
@@ -656,11 +656,11 @@ Text=Table 1 Controls Siblings Patients Statisticsa Age 29.16   ±   7.59 29
 44-41	7834-7835	F	_
 44-42	7835-7836	)	_
 44-43	7837-7839	29	_
-44-44	7839-7840	/	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-44-45	7840-7842	34	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-44-46	7843-7845	49	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-44-47	7846-7847	/	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-44-48	7848-7850	57	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+44-44	7839-7840	/	_
+44-45	7840-7842	34	_
+44-46	7843-7845	49	_
+44-47	7846-7847	/	_
+44-48	7848-7850	57	_
 44-49	7851-7853	70	_
 44-50	7853-7854	/	_
 44-51	7854-7856	14	_
@@ -757,9 +757,9 @@ Text=Table 1 Controls Siblings Patients Statisticsa Age 29.16   ±   7.59 29
 44-142	8059-8060	/	_
 44-143	8061-8063	28	_
 44-144	8064-8066	59	_
-44-145	8067-8068	/	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-44-146	8069-8071	47	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-44-147	8072-8074	49	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+44-145	8067-8068	/	_
+44-146	8069-8071	47	_
+44-147	8072-8074	49	_
 44-148	8075-8076	/	_
 44-149	8077-8079	33	_
 44-150	8080-8081	χ	_
@@ -775,22 +775,22 @@ Text=Table 1 Controls Siblings Patients Statisticsa Age 29.16   ±   7.59 29
 44-160	8094-8095	p	_
 44-161	8095-8096	 	_
 44-162	8096-8097	=	_
-44-163	8097-8098	 	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+44-163	8097-8098	 	_
 44-164	8098-8101	.53	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
-44-165	8104-8111	Illness	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+44-165	8104-8111	Illness	_
 44-166	8112-8120	duration	_
 44-167	8121-8122	(	_
 44-168	8122-8127	years	_
 44-169	8127-8128	)	_
-44-170	8128-8129	b	_
-44-171	8130-8131	–	_
+44-170	8128-8129	b	http://maven.renci.org/NeuroBridge/neurobridge#WideRangeAchievementTest
+44-171	8130-8131	–	http://maven.renci.org/NeuroBridge/neurobridge#WideRangeAchievementTest
 44-172	8132-8133	–	_
-44-173	8134-8138	5.91	_
-44-174	8139-8140	(	_
-44-175	8140-8144	4.12	_
-44-176	8144-8145	)	_
-44-177	8146-8147	–	_
-44-178	8150-8164	Chlorpromazine	_
+44-173	8134-8138	5.91	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+44-174	8139-8140	(	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+44-175	8140-8144	4.12	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+44-176	8144-8145	)	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+44-177	8146-8147	–	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+44-178	8150-8164	Chlorpromazine	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
 44-179	8165-8171	dosage	_
 44-180	8172-8173	(	_
 44-181	8173-8175	mg	_
@@ -808,7 +808,7 @@ Text=Table 1 Controls Siblings Patients Statisticsa Age 29.16   ±   7.59 29
 44-193	8200-8201	–	_
 44-194	8204-8209	PANSS	_
 44-195	8210-8215	total	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-44-196	8216-8217	–	_
+44-196	8216-8217	–	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 44-197	8218-8219	–	_
 44-198	8220-8225	48.38	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 44-199	8225-8226	 	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -818,7 +818,7 @@ Text=Table 1 Controls Siblings Patients Statisticsa Age 29.16   ±   7.59 29
 44-203	8234-8235	–	_
 44-204	8238-8243	PANSS	_
 44-205	8244-8252	positive	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-44-206	8253-8254	–	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+44-206	8253-8254	–	_
 44-207	8255-8256	–	_
 44-208	8257-8262	11.58	_
 44-209	8262-8263	 	_
@@ -900,18 +900,18 @@ Text=Distribution of illness duration and medication is skewed, therefore median
 46-11	8624-8630	median	_
 46-12	8631-8634	and	_
 46-13	8635-8649	inter-quartile	_
-46-14	8650-8655	range	_
-46-15	8656-8659	was	_
-46-16	8660-8668	reported	_
-46-17	8668-8669	.	_
+46-14	8650-8655	range	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+46-15	8656-8659	was	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+46-16	8660-8668	reported	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+46-17	8668-8669	.	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 
 Text=Patients and siblings originated from 120 unique families and included 48 patient-sibling pairs or triplets.
-47-1	8670-8678	Patients	_
-47-2	8679-8682	and	_
-47-3	8683-8691	siblings	_
+47-1	8670-8678	Patients	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+47-2	8679-8682	and	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+47-3	8683-8691	siblings	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 47-4	8692-8702	originated	_
 47-5	8703-8707	from	_
-47-6	8708-8711	120	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+47-6	8708-8711	120	_
 47-7	8712-8718	unique	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 47-8	8719-8727	families	_
 47-9	8728-8731	and	_
@@ -990,7 +990,7 @@ Text=In addition, controls were examined with the Family Interview for Genetic S
 51-14	9115-9116	,	_
 51-15	9117-9119	to	_
 51-16	9120-9127	exclude	_
-51-17	9128-9129	a	_
+51-17	9128-9129	a	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 51-18	9130-9136	family	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 51-19	9137-9144	history	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 51-20	9145-9147	of	_
@@ -1068,10 +1068,10 @@ Text=Data acquisition MRI scans were acquired on two 1.5   T Philips Achieva s
 55-8	9511-9514	two	_
 55-9	9515-9518	1.5	_
 55-10	9518-9519	 	_
-55-11	9519-9520	T	_
-55-12	9521-9528	Philips	_
-55-13	9529-9536	Achieva	_
-55-14	9537-9545	scanners	_
+55-11	9519-9520	T	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+55-12	9521-9528	Philips	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+55-13	9529-9536	Achieva	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+55-14	9537-9545	scanners	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
 55-15	9546-9548	at	_
 55-16	9549-9552	the	_
 55-17	9553-9563	University	_
@@ -1147,7 +1147,7 @@ Text=The PRESTO protocol combines the echo shifting technique with multiple grad
 58-6	9944-9948	echo	_
 58-7	9949-9957	shifting	_
 58-8	9958-9967	technique	_
-58-9	9968-9972	with	_
+58-9	9968-9972	with	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 58-10	9973-9981	multiple	_
 58-11	9982-9990	gradient	_
 58-12	9991-9997	echoes	_
@@ -1156,8 +1156,8 @@ Text=The PRESTO protocol combines the echo shifting technique with multiple grad
 58-15	10013-10015	to	_
 58-16	10016-10021	allow	_
 58-17	10022-10025	for	_
-58-18	10026-10027	a	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
-58-19	10028-10038	repetition	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+58-18	10026-10027	a	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+58-19	10028-10038	repetition	_
 58-20	10039-10043	time	_
 58-21	10044-10051	shorter	_
 58-22	10052-10056	than	_
@@ -1183,8 +1183,8 @@ Text=The acquisition parameters were: TR / TE   =   21.1 / 31.1   ms; flip
 59-15	10122-10123	 	_
 59-16	10123-10125	ms	_
 59-17	10125-10126	;	_
-59-18	10127-10131	flip	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-59-19	10132-10137	angle	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+59-18	10127-10131	flip	_
+59-19	10132-10137	angle	_
 59-20	10137-10138	 	_
 59-21	10138-10139	=	_
 59-22	10139-10140	 	_
@@ -1226,11 +1226,11 @@ Text=The acquisition parameters were: TR / TE   =   21.1 / 31.1   ms; flip
 59-58	10208-10212	time	_
 59-59	10213-10219	frames	_
 59-60	10219-10220	,	_
-59-61	10221-10231	consisting	_
-59-62	10232-10234	of	_
-59-63	10235-10237	32	_
-59-64	10238-10244	slices	_
-59-65	10245-10253	covering	_
+59-61	10221-10231	consisting	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+59-62	10232-10234	of	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+59-63	10235-10237	32	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+59-64	10238-10244	slices	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+59-65	10245-10253	covering	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 59-66	10254-10259	whole	_
 59-67	10260-10265	brain	_
 59-68	10265-10266	.	_
@@ -1756,7 +1756,7 @@ Text=Correlation coefficients were converted to z scores using Fisher's z transf
 74-10	12723-12724	z	_
 74-11	12725-12739	transformation	_
 74-12	12739-12740	,	_
-74-13	12741-12748	serving	_
+74-13	12741-12748	serving	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 74-14	12749-12751	as	_
 74-15	12752-12753	a	_
 74-16	12754-12761	measure	_
@@ -1775,20 +1775,20 @@ Text=Interhemispheric connectivity The level of functional connectivity between 
 75-3	12849-12852	The	_
 75-4	12853-12858	level	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 75-5	12859-12861	of	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-75-6	12862-12872	functional	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-75-7	12873-12885	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-75-8	12886-12893	between	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-75-9	12894-12896	56	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-75-10	12897-12904	regions	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+75-6	12862-12872	functional	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+75-7	12873-12885	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+75-8	12886-12893	between	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+75-9	12894-12896	56	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+75-10	12897-12904	regions	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
 75-11	12905-12907	in	_
 75-12	12908-12911	one	_
 75-13	12912-12922	hemisphere	_
-75-14	12923-12926	and	_
-75-15	12927-12932	their	_
-75-16	12933-12946	corresponding	_
-75-17	12947-12952	areas	_
-75-18	12953-12955	in	_
-75-19	12956-12959	the	_
+75-14	12923-12926	and	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+75-15	12927-12932	their	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+75-16	12933-12946	corresponding	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+75-17	12947-12952	areas	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+75-18	12953-12955	in	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+75-19	12956-12959	the	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 75-20	12960-12965	other	_
 75-21	12966-12976	hemisphere	_
 75-22	12977-12979	is	_
@@ -1825,7 +1825,7 @@ Text=Interhemispheric connections between homotopic regions are among the strong
 76-20	13210-13212	in	_
 76-21	13213-13217	both	_
 76-22	13218-13225	healthy	_
-76-23	13226-13229	and	_
+76-23	13226-13229	and	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 76-24	13230-13238	clinical	_
 76-25	13239-13250	populations	_
 76-26	13250-13251	.	_
@@ -1872,7 +1872,7 @@ Text=Moreover, to assess the consistency of interhemispheric connectivity measur
 78-10	13539-13551	measurements	_
 78-11	13552-13559	between	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 78-12	13560-13567	studies	_
-78-13	13567-13568	,	_
+78-13	13567-13568	,	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 78-14	13569-13571	we	_
 78-15	13572-13581	performed	_
 78-16	13582-13584	an	_
@@ -1903,16 +1903,16 @@ Text=Hemispheric specialization Hemispheric specialization is calculated here as
 79-4	13761-13775	specialization	_
 79-5	13776-13778	is	_
 79-6	13779-13789	calculated	_
-79-7	13790-13794	here	_
-79-8	13795-13797	as	_
-79-9	13798-13801	the	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+79-7	13790-13794	here	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+79-8	13795-13797	as	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+79-9	13798-13801	the	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 79-10	13802-13812	difference	_
 79-11	13813-13815	in	_
-79-12	13816-13828	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-79-13	13829-13837	strength	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-79-14	13838-13845	between	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-79-15	13846-13862	intrahemispheric	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-79-16	13863-13866	and	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+79-12	13816-13828	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+79-13	13829-13837	strength	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+79-14	13838-13845	between	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+79-15	13846-13862	intrahemispheric	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+79-16	13863-13866	and	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 79-17	13867-13878	heterotopic	_
 79-18	13879-13895	interhemispheric	_
 79-19	13896-13907	connections	_
@@ -1928,13 +1928,13 @@ Text=Homotopic interhemispheric connections were not used in the calculation of 
 80-3	13957-13968	connections	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 80-4	13969-13973	were	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 80-5	13974-13977	not	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-80-6	13978-13982	used	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-80-7	13983-13985	in	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-80-8	13986-13989	the	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-80-9	13990-14001	calculation	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-80-10	14002-14004	of	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-80-11	14005-14016	hemispheric	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-80-12	14017-14031	specialization	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+80-6	13978-13982	used	_
+80-7	13983-13985	in	_
+80-8	13986-13989	the	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+80-9	13990-14001	calculation	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+80-10	14002-14004	of	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+80-11	14005-14016	hemispheric	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+80-12	14017-14031	specialization	_
 80-13	14032-14034	so	_
 80-14	14035-14039	that	_
 80-15	14040-14042	we	_
@@ -1964,8 +1964,8 @@ Text=A positive value of hemispheric specialization indicates that a region or h
 81-8	14223-14227	that	_
 81-9	14228-14229	a	_
 81-10	14230-14236	region	_
-81-11	14237-14239	or	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-81-12	14240-14250	hemisphere	_
+81-11	14237-14239	or	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
+81-12	14240-14250	hemisphere	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
 81-13	14251-14253	is	_
 81-14	14254-14268	preferentially	_
 81-15	14269-14278	connected	_
@@ -2017,8 +2017,8 @@ Text=The method used to compute hemispheric specialization using intrinsic funct
 82-15	14569-14571	in	_
 82-16	14572-14580	previous	_
 82-17	14581-14588	studies	_
-82-18	14589-14594	using	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-82-19	14595-14596	a	_
+82-18	14589-14594	using	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
+82-19	14595-14596	a	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
 82-20	14597-14608	voxel-based	_
 82-21	14609-14617	analysis	_
 82-22	14617-14618	.	_
@@ -2079,7 +2079,7 @@ Text=For interhemispheric connectivity, fixed-effects include: group status (con
 84-31	14932-14939	scanner	_
 84-32	14940-14941	(	_
 84-33	14941-14943	#1	_
-84-34	14944-14945	/	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+84-34	14944-14945	/	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 84-35	14946-14948	#2	_
 84-36	14948-14949	)	_
 84-37	14950-14953	and	_
@@ -2098,7 +2098,7 @@ Text=To control for potential group-differences in global connectivity, mean con
 85-8	15020-15032	connectivity	_
 85-9	15032-15033	,	_
 85-10	15034-15038	mean	_
-85-11	15039-15051	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+85-11	15039-15051	connectivity	_
 85-12	15052-15060	strength	_
 85-13	15061-15063	of	_
 85-14	15064-15067	all	_
@@ -2145,12 +2145,12 @@ Text=Family ID, encoding the subjects' pedigree information, was included as ran
 86-15	15303-15307	term	_
 86-16	15308-15310	to	_
 86-17	15311-15318	control	_
-86-18	15319-15322	for	_
-86-19	15323-15329	family	_
-86-20	15330-15334	ties	_
-86-21	15335-15342	between	_
+86-18	15319-15322	for	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+86-19	15323-15329	family	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+86-20	15330-15334	ties	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+86-21	15335-15342	between	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 86-22	15343-15351	subjects	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-86-23	15352-15353	(	_
+86-23	15352-15353	(	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 86-24	15353-15355	Eq	_
 86-25	15355-15356	.	_
 86-26	15357-15358	(	_
@@ -2193,7 +2193,7 @@ Text=The model has 237 observations (number of subjects with complete informatio
 87-31	15532-15547	handedness_left	_
 87-32	15547-15548	,	_
 87-33	15549-15565	handedness_mixed	_
-87-34	15565-15566	,	_
+87-34	15565-15566	,	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 87-35	15567-15574	scanner	_
 87-36	15574-15575	_	_
 87-37	15575-15577	#2	_
@@ -2266,7 +2266,7 @@ Text=Additionally, we included hemisphere as a fixed factor to examine potential
 89-13	15874-15885	differences	_
 89-14	15886-15888	in	_
 89-15	15889-15901	connectivity	_
-89-16	15902-15910	patterns	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+89-16	15902-15910	patterns	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 89-17	15911-15918	between	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 89-18	15919-15922	the	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 89-19	15923-15926	two	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
@@ -2313,9 +2313,9 @@ Text=The number of fixed term predictors is 10 (constant, group_sibling, group_p
 91-21	16136-16137	,	_
 91-22	16138-16154	handedness_mixed	_
 91-23	16154-16155	,	_
-91-24	16156-16163	scanner	_
+91-24	16156-16163	scanner	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 91-25	16163-16164	_	_
-91-26	16164-16166	#2	_
+91-26	16164-16166	#2	http://maven.renci.org/NeuroBridge/neurobridge#Pyromania
 91-27	16166-16167	,	_
 91-28	16168-16174	motion	_
 91-29	16174-16175	,	_
@@ -2368,9 +2368,9 @@ Text=Equation 2: Linear-mixed effects analysis was first applied to overall inte
 92-21	16396-16397	 	_
 92-22	16397-16400	.05	_
 92-23	16400-16401	)	_
-92-24	16401-16402	,	_
-92-25	16403-16406	and	_
-92-26	16407-16411	then	_
+92-24	16401-16402	,	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
+92-25	16403-16406	and	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
+92-26	16407-16411	then	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 92-27	16412-16414	to	_
 92-28	16415-16419	each	_
 92-29	16420-16422	of	_
@@ -2391,8 +2391,8 @@ Text=Equation 2: Linear-mixed effects analysis was first applied to overall inte
 92-44	16494-16495	,	_
 92-45	16496-16506	Bonferroni	_
 92-46	16507-16516	corrected	_
-92-47	16516-16517	)	_
-92-48	16517-16518	.	_
+92-47	16516-16517	)	http://maven.renci.org/NeuroBridge/neurobridge#DissociativeDrugHarmfulUse
+92-48	16517-16518	.	http://maven.renci.org/NeuroBridge/neurobridge#DissociativeDrugHarmfulUse
 
 Text=Overall and regional measurements with significant group effects were subjected to post-hoc bivariate comparisons between each pair of subject groups (p   < .05).
 93-1	16519-16526	Overall	_
@@ -2444,8 +2444,8 @@ Text=Relationship between interhemispheric connectivity and hemispheric speciali
 94-17	16849-16853	with	_
 94-18	16854-16865	alterations	_
 94-19	16866-16868	in	_
-94-20	16869-16880	hemispheric	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-94-21	16881-16895	specialization	_
+94-20	16869-16880	hemispheric	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
+94-21	16881-16895	specialization	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 94-22	16895-16896	,	_
 94-23	16897-16899	we	_
 94-24	16900-16910	calculated	_
@@ -2453,7 +2453,7 @@ Text=Relationship between interhemispheric connectivity and hemispheric speciali
 94-26	16915-16919	mean	_
 94-27	16920-16930	difference	_
 94-28	16931-16938	between	_
-94-29	16939-16947	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+94-29	16939-16947	controls	_
 94-30	16948-16951	and	_
 94-31	16952-16960	patients	_
 94-32	16961-16963	on	_
@@ -2469,7 +2469,7 @@ Text=Pearson's correlation analysis was performed on group-differences of interh
 95-1	17005-17014	Pearson's	_
 95-2	17015-17026	correlation	_
 95-3	17027-17035	analysis	_
-95-4	17036-17039	was	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+95-4	17036-17039	was	_
 95-5	17040-17049	performed	_
 95-6	17050-17052	on	_
 95-7	17053-17070	group-differences	_
@@ -2481,8 +2481,8 @@ Text=Pearson's correlation analysis was performed on group-differences of interh
 95-13	17120-17134	specialization	_
 95-14	17135-17141	across	_
 95-15	17142-17149	regions	_
-95-16	17150-17151	(	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-95-17	17151-17152	p	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+95-16	17150-17151	(	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
+95-17	17151-17152	p	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 95-18	17152-17153	 	_
 95-19	17153-17154	<	_
 95-20	17154-17155	 	_
@@ -2516,8 +2516,8 @@ Text=Correlation between connectivity alteration and clinical factors To examine
 97-2	17282-17289	between	_
 97-3	17290-17302	connectivity	_
 97-4	17303-17313	alteration	_
-97-5	17314-17317	and	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-97-6	17318-17326	clinical	_
+97-5	17314-17317	and	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
+97-6	17318-17326	clinical	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 97-7	17327-17334	factors	_
 97-8	17335-17337	To	_
 97-9	17338-17345	examine	_

@@ -2,7 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
-#Human Annotation
+#Machine Prediction
 Text=Modeling subjective relevance in schizophrenia and its relation to aberrant salience In schizophrenia, increased aberrant salience to irrelevant events and reduced learning of relevant information may relate to an underlying deficit in relevance detection.
 1-1	0-8	Modeling	_
 1-2	9-19	subjective	_
@@ -10,24 +10,24 @@ Text=Modeling subjective relevance in schizophrenia and its relation to aberrant
 1-4	30-32	in	_
 1-5	33-46	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-6	47-50	and	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-1-7	51-54	its	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-7	51-54	its	_
 1-8	55-63	relation	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-9	64-66	to	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-10	67-75	aberrant	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-11	76-84	salience	_
 1-12	85-87	In	_
-1-13	88-101	schizophrenia	_
-1-14	101-102	,	_
-1-15	103-112	increased	_
-1-16	113-121	aberrant	_
-1-17	122-130	salience	_
-1-18	131-133	to	_
-1-19	134-144	irrelevant	_
-1-20	145-151	events	_
-1-21	152-155	and	_
-1-22	156-163	reduced	_
-1-23	164-172	learning	_
-1-24	173-175	of	_
+1-13	88-101	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-14	101-102	,	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-15	103-112	increased	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-16	113-121	aberrant	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-17	122-130	salience	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-18	131-133	to	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-19	134-144	irrelevant	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-20	145-151	events	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-21	152-155	and	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-22	156-163	reduced	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-23	164-172	learning	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-24	173-175	of	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
 1-25	176-184	relevant	_
 1-26	185-196	information	_
 1-27	197-200	may	_
@@ -68,7 +68,7 @@ Text=The mechanisms underlying belief formation about relevance and their transl
 3-7	396-405	relevance	_
 3-8	406-409	and	_
 3-9	410-415	their	_
-3-10	416-427	translation	_
+3-10	416-427	translation	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 3-11	428-432	into	_
 3-12	433-442	decisions	_
 3-13	443-446	are	_
@@ -100,7 +100,7 @@ Text=Using novel computational methods, we investigated relevance detection duri
 
 Text=Participants underwent functional magnetic resonance imaging while detecting the outcomes in a learning task.
 5-1	609-621	Participants	_
-5-2	622-631	underwent	_
+5-2	622-631	underwent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 5-3	632-642	functional	_
 5-4	643-651	magnetic	_
 5-5	652-661	resonance	_
@@ -122,10 +122,10 @@ Text=These were preceded by cues differing in color and shape, which were either
 6-4	739-741	by	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 6-5	742-746	cues	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 6-6	747-756	differing	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-6-7	757-759	in	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-6-8	760-765	color	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-6-9	766-769	and	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-6-10	770-775	shape	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+6-7	757-759	in	_
+6-8	760-765	color	http://maven.renci.org/NeuroBridge/neurobridge#Thing
+6-9	766-769	and	http://maven.renci.org/NeuroBridge/neurobridge#Thing
+6-10	770-775	shape	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 6-11	775-776	,	_
 6-12	777-782	which	_
 6-13	783-787	were	_
@@ -153,9 +153,9 @@ Text=We provided a novel definition of relevance based on Bayesian precision and
 7-12	914-917	and	_
 7-13	918-925	modeled	_
 7-14	926-934	reaction	_
-7-15	935-940	times	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-7-16	941-943	as	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-7-17	944-945	a	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-15	935-940	times	_
+7-16	941-943	as	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+7-17	944-945	a	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 7-18	946-954	function	_
 7-19	955-957	of	_
 7-20	958-967	relevance	_
@@ -170,31 +170,31 @@ Text=We provided a novel definition of relevance based on Bayesian precision and
 
 Text=For aberrant salience, we assessed responses to subjectively irrelevant cue manifestations.
 8-1	1011-1014	For	_
-8-2	1015-1023	aberrant	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-8-3	1024-1032	salience	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-8-4	1032-1033	,	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+8-2	1015-1023	aberrant	_
+8-3	1024-1032	salience	_
+8-4	1032-1033	,	_
 8-5	1034-1036	we	_
 8-6	1037-1045	assessed	_
 8-7	1046-1055	responses	_
-8-8	1056-1058	to	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-8-9	1059-1071	subjectively	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-8-10	1072-1082	irrelevant	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-8-11	1083-1086	cue	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-8-12	1087-1101	manifestations	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-8-13	1101-1102	.	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+8-8	1056-1058	to	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+8-9	1059-1071	subjectively	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+8-10	1072-1082	irrelevant	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+8-11	1083-1086	cue	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+8-12	1087-1101	manifestations	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+8-13	1101-1102	.	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 
 Text=Participants learned the contingencies and slowed down their responses following unexpected events.
-9-1	1103-1115	Participants	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-9-2	1116-1123	learned	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+9-1	1103-1115	Participants	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+9-2	1116-1123	learned	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 9-3	1124-1127	the	_
 9-4	1128-1141	contingencies	_
 9-5	1142-1145	and	_
 9-6	1146-1152	slowed	_
 9-7	1153-1157	down	_
-9-8	1158-1163	their	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-9-9	1164-1173	responses	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+9-8	1158-1163	their	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+9-9	1164-1173	responses	_
 9-10	1174-1183	following	_
-9-11	1184-1194	unexpected	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+9-11	1184-1194	unexpected	_
 9-12	1195-1201	events	_
 9-13	1201-1202	.	_
 
@@ -214,8 +214,8 @@ Text=Model selection revealed that individuals inferred the relevance of cue fea
 10-13	1288-1292	used	_
 10-14	1293-1295	it	_
 10-15	1296-1299	for	_
-10-16	1300-1310	behavioral	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-10-17	1311-1319	adaption	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+10-16	1300-1310	behavioral	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+10-17	1311-1319	adaption	_
 10-18	1320-1322	to	_
 10-19	1323-1326	the	_
 10-20	1327-1335	relevant	_
@@ -295,7 +295,7 @@ Text=This underscores the importance of relevance detection as an underlying mec
 14-7	1803-1812	detection	_
 14-8	1813-1815	as	_
 14-9	1816-1818	an	_
-14-10	1819-1829	underlying	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+14-10	1819-1829	underlying	_
 14-11	1830-1839	mechanism	_
 14-12	1840-1843	for	_
 14-13	1844-1854	behavioral	_
@@ -337,16 +337,16 @@ Text=Author summary Schizophrenia patients display deficits in the appropriate a
 15-20	2105-2115	processing	_
 15-21	2116-2118	of	_
 15-22	2119-2129	irrelevant	_
-15-23	2130-2133	and	_
-15-24	2134-2146	insufficient	_
+15-23	2130-2133	and	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+15-24	2134-2146	insufficient	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 15-25	2147-2157	processing	_
 15-26	2158-2160	of	_
 15-27	2161-2169	relevant	_
-15-28	2170-2181	information	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-15-29	2181-2182	.	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+15-28	2170-2181	information	_
+15-29	2181-2182	.	_
 
 Text=We aimed to investigate the subjective nature of relevance detection and its deficit in schizophrenia and developed an implicit learning paradigm that allowed for parallel learning from relevant and irrelevant information.
-16-1	2183-2185	We	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+16-1	2183-2185	We	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 16-2	2186-2191	aimed	_
 16-3	2192-2194	to	_
 16-4	2195-2206	investigate	_
@@ -387,11 +387,11 @@ Text=Based on the idea that subjective relevance might be captured by Bayesian p
 17-5	2424-2428	that	_
 17-6	2429-2439	subjective	_
 17-7	2440-2449	relevance	_
-17-8	2450-2455	might	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-17-9	2456-2458	be	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+17-8	2450-2455	might	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+17-9	2456-2458	be	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 17-10	2459-2467	captured	_
-17-11	2468-2470	by	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-17-12	2471-2479	Bayesian	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+17-11	2468-2470	by	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+17-12	2471-2479	Bayesian	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 17-13	2480-2489	precision	_
 17-14	2490-2492	we	_
 17-15	2493-2496	set	_
@@ -485,8 +485,8 @@ Text=To conclude, our findings demonstrate how individual beliefs about relevanc
 21-3	3061-3062	,	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 21-4	3063-3066	our	_
 21-5	3067-3075	findings	_
-21-6	3076-3087	demonstrate	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-21-7	3088-3091	how	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+21-6	3076-3087	demonstrate	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+21-7	3088-3091	how	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 21-8	3092-3102	individual	_
 21-9	3103-3110	beliefs	_
 21-10	3111-3116	about	_
@@ -495,8 +495,8 @@ Text=To conclude, our findings demonstrate how individual beliefs about relevanc
 21-13	3131-3133	be	_
 21-14	3134-3142	inferred	_
 21-15	3143-3147	from	_
-21-16	3148-3161	computational	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-21-17	3162-3168	models	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+21-16	3148-3161	computational	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+21-17	3162-3168	models	_
 21-18	3168-3169	.	_
 
 Text=Furthermore, we suggest that aberrant salience observed in patients with schizophrenia reflects an idiosyncratic bias in states of high subjective uncertainty.
@@ -682,8 +682,8 @@ Text=Patients were diagnosed with schizophrenia according to the DSM-IV and ICD 
 85-5	14040-14053	schizophrenia	_
 85-6	14054-14063	according	_
 85-7	14064-14066	to	_
-85-8	14067-14070	the	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-85-9	14071-14077	DSM-IV	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+85-8	14067-14070	the	_
+85-9	14071-14077	DSM-IV	_
 85-10	14078-14081	and	_
 85-11	14082-14085	ICD	_
 85-12	14085-14086	-	_
@@ -700,11 +700,11 @@ Text=Psychopathology was assessed using the Positive and Negative Syndrome Scale
 86-7	14138-14141	and	_
 86-8	14142-14150	Negative	_
 86-9	14151-14159	Syndrome	_
-86-10	14160-14165	Scale	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-86-11	14166-14167	(	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-86-12	14167-14172	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-86-13	14172-14173	)	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-86-14	14174-14176	as	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+86-10	14160-14165	Scale	_
+86-11	14166-14167	(	_
+86-12	14167-14172	PANSS	_
+86-13	14172-14173	)	_
+86-14	14174-14176	as	_
 86-15	14177-14181	well	_
 86-16	14182-14184	as	_
 86-17	14185-14188	the	_
@@ -807,9 +807,9 @@ Text=Aberrant salience raw data scores of a partially overlapping sample (37 hea
 89-7	14732-14733	a	_
 89-8	14734-14743	partially	_
 89-9	14744-14755	overlapping	_
-89-10	14756-14762	sample	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-89-11	14763-14764	(	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-89-12	14764-14766	37	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+89-10	14756-14762	sample	_
+89-11	14763-14764	(	_
+89-12	14764-14766	37	_
 89-13	14767-14774	healthy	_
 89-14	14775-14783	controls	_
 89-15	14784-14787	and	_
@@ -827,24 +827,24 @@ Text=Aberrant salience raw data scores of a partially overlapping sample (37 hea
 
 Text=Demographic and clinical characteristics.
 90-1	14856-14867	Demographic	_
-90-2	14868-14871	and	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+90-2	14868-14871	and	_
 90-3	14872-14880	clinical	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
-90-4	14881-14896	characteristics	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+90-4	14881-14896	characteristics	_
 90-5	14896-14897	.	_
 
 Text=SCHIZOPHRENIA PATIENTS (N = 42) HEALTHY INDIVIDUALS (N = 42) STATISTICS Gender 12 females, 30 males 16 females, 26 males χ2 (1) =.355, p = 0.488 AGE (IN YEARS) 35.1 (± 7.4) 33.5 (± 7.8) t (82) = 1, p = 0.321 VERBAL IQ 101 (± 9.4) 104.9 (± 9.4) t (78) = 2.13, p = 0.036 EHI 67.4 (± 53) 69.72 (± 48.09) t (77) =.21, p =.837 DURATION OF ILLNESS (YEARS) 9.4 (± 6) AGE OF ILLNESS ONSET (YEARS) 25.9 (± 7.1) PANSS POSITIVE 20.7 (± 6.7) PANSS NEGATIVE 22.6 (± 7.6) PANSS GENERAL 41 (± 10.9) PANSS TOTAL 84.5 (± 21.5) SAPS DELUSIONS 21.3 (± 10.9) SANS ANHEDONIA 12.4 (± 4.9) Implicit salience paradigm (ISP) This paradigm was explicitly instructed like a target-detection task though implicitly being a learning paradigm where features of neutral stimuli predicted certain outcomes.
 91-1	14899-14912	SCHIZOPHRENIA	_
 91-2	14913-14921	PATIENTS	_
 91-3	14922-14923	(	_
-91-4	14923-14924	N	_
-91-5	14925-14926	=	_
+91-4	14923-14924	N	http://maven.renci.org/NeuroBridge/neurobridge#WideRangeAchievementTest
+91-5	14925-14926	=	http://maven.renci.org/NeuroBridge/neurobridge#WideRangeAchievementTest
 91-6	14927-14929	42	_
-91-7	14929-14930	)	_
-91-8	14931-14938	HEALTHY	_
-91-9	14939-14950	INDIVIDUALS	_
-91-10	14951-14952	(	_
-91-11	14952-14953	N	_
-91-12	14954-14955	=	_
+91-7	14929-14930	)	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+91-8	14931-14938	HEALTHY	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+91-9	14939-14950	INDIVIDUALS	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+91-10	14951-14952	(	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+91-11	14952-14953	N	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+91-12	14954-14955	=	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
 91-13	14956-14958	42	_
 91-14	14958-14959	)	_
 91-15	14960-14970	STATISTICS	_
@@ -862,7 +862,7 @@ Text=SCHIZOPHRENIA PATIENTS (N = 42) HEALTHY INDIVIDUALS (N = 42) STATISTICS Gen
 91-27	15022-15024	χ2	_
 91-28	15024-15025	(	_
 91-29	15025-15026	1	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-91-30	15026-15027	)	_
+91-30	15026-15027	)	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 91-31	15028-15029	=	_
 91-32	15030-15034	.355	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 91-33	15034-15035	,	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -872,7 +872,7 @@ Text=SCHIZOPHRENIA PATIENTS (N = 42) HEALTHY INDIVIDUALS (N = 42) STATISTICS Gen
 91-37	15048-15051	AGE	_
 91-38	15052-15053	(	_
 91-39	15053-15055	IN	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-91-40	15056-15061	YEARS	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+91-40	15056-15061	YEARS	_
 91-41	15061-15062	)	_
 91-42	15063-15067	35.1	_
 91-43	15068-15069	(	_
@@ -950,16 +950,16 @@ Text=SCHIZOPHRENIA PATIENTS (N = 42) HEALTHY INDIVIDUALS (N = 42) STATISTICS Gen
 91-115	15258-15259	)	_
 91-116	15264-15267	AGE	_
 91-117	15268-15270	OF	_
-91-118	15271-15278	ILLNESS	_
-91-119	15279-15284	ONSET	_
-91-120	15285-15286	(	_
-91-121	15286-15291	YEARS	_
-91-122	15291-15292	)	_
-91-123	15293-15297	25.9	_
-91-124	15298-15299	(	_
+91-118	15271-15278	ILLNESS	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+91-119	15279-15284	ONSET	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+91-120	15285-15286	(	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+91-121	15286-15291	YEARS	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+91-122	15291-15292	)	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+91-123	15293-15297	25.9	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+91-124	15298-15299	(	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 91-125	15299-15300	±	_
 91-126	15300-15303	7.1	_
-91-127	15303-15304	)	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+91-127	15303-15304	)	_
 91-128	15309-15314	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 91-129	15315-15323	POSITIVE	_
 91-130	15324-15328	20.7	_
@@ -1030,7 +1030,7 @@ Text=SCHIZOPHRENIA PATIENTS (N = 42) HEALTHY INDIVIDUALS (N = 42) STATISTICS Gen
 91-195	15665-15672	stimuli	_
 91-196	15673-15682	predicted	_
 91-197	15683-15690	certain	_
-91-198	15691-15699	outcomes	_
+91-198	15691-15699	outcomes	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 91-199	15699-15700	.	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 
 Text=It consisted of 160 trials where subjects were told to discriminate the outcomes (10 Eurocent coin or blue circle) of each trial.
@@ -1106,10 +1106,10 @@ Text=Subjects were told that they would receive the amount of money they had see
 94-14	16038-16042	seen	_
 94-15	16043-16049	during	_
 94-16	16050-16053	the	_
-94-17	16054-16058	task	_
-94-18	16059-16071	irrespective	_
-94-19	16072-16074	of	_
-94-20	16075-16082	whether	_
+94-17	16054-16058	task	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+94-18	16059-16071	irrespective	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+94-19	16072-16074	of	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+94-20	16075-16082	whether	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
 94-21	16083-16087	they	_
 94-22	16088-16091	had	_
 94-23	16092-16099	pressed	_
@@ -1183,7 +1183,7 @@ Text=During the instructions, subjects were told not to pay attention to these s
 96-11	16432-16441	attention	_
 96-12	16442-16444	to	_
 96-13	16445-16450	these	_
-96-14	16451-16458	stimuli	_
+96-14	16451-16458	stimuli	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 96-15	16459-16468	preceding	_
 96-16	16469-16472	the	_
 96-17	16473-16481	outcomes	_
@@ -1194,8 +1194,8 @@ Text=However, prior to scanning, participants were primed with the stimulus feat
 97-2	16490-16491	,	_
 97-3	16492-16497	prior	_
 97-4	16498-16500	to	_
-97-5	16501-16509	scanning	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
-97-6	16509-16510	,	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+97-5	16501-16509	scanning	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+97-6	16509-16510	,	_
 97-7	16511-16523	participants	_
 97-8	16524-16528	were	_
 97-9	16529-16535	primed	_
@@ -1219,8 +1219,8 @@ Text=However, prior to scanning, participants were primed with the stimulus feat
 97-27	16625-16627	of	_
 97-28	16628-16631	the	_
 97-29	16632-16636	four	_
-97-30	16637-16648	conditioned	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-97-31	16649-16656	stimuli	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+97-30	16637-16648	conditioned	_
+97-31	16649-16656	stimuli	_
 97-32	16656-16657	.	_
 
 Text=Then, they practiced the outcome detection for 10 trials.
@@ -1268,11 +1268,11 @@ Text=In the main experiment, the conditioned stimuli predicted the outcome types
 100-3	16856-16860	main	_
 100-4	16861-16871	experiment	_
 100-5	16871-16872	,	_
-100-6	16873-16876	the	_
-100-7	16877-16888	conditioned	_
-100-8	16889-16896	stimuli	_
-100-9	16897-16906	predicted	_
-100-10	16907-16910	the	_
+100-6	16873-16876	the	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+100-7	16877-16888	conditioned	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+100-8	16889-16896	stimuli	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+100-9	16897-16906	predicted	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+100-10	16907-16910	the	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 100-11	16911-16918	outcome	_
 100-12	16919-16924	types	_
 100-13	16925-16927	in	_
@@ -1810,7 +1810,7 @@ Text=That is to say, if colorful cues are rewarded in 80% of trials (gray cues i
 121-36	19397-19403	circle	_
 121-37	19403-19404	)	_
 121-38	19405-19408	for	_
-121-39	19409-19412	the	_
+121-39	19409-19412	the	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 121-40	19413-19417	next	_
 121-41	19418-19420	20	_
 121-42	19421-19427	trials	_
@@ -1829,20 +1829,20 @@ Text=Middle plot: One subject ’ s individual belief trajectories for color (bl
 122-10	19474-19486	trajectories	_
 122-11	19487-19490	for	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 122-12	19491-19496	color	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-122-13	19497-19498	(	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-122-14	19498-19502	blue	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-122-15	19502-19503	)	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-122-16	19504-19507	and	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-122-17	19508-19513	shape	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+122-13	19497-19498	(	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+122-14	19498-19502	blue	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+122-15	19502-19503	)	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+122-16	19504-19507	and	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+122-17	19508-19513	shape	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
 122-18	19514-19515	(	_
 122-19	19515-19518	red	_
 122-20	19518-19519	)	_
-122-21	19520-19532	associations	_
-122-22	19533-19537	with	_
-122-23	19538-19545	outcome	_
-122-24	19546-19551	based	_
-122-25	19552-19554	on	_
-122-26	19555-19558	the	_
+122-21	19520-19532	associations	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+122-22	19533-19537	with	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+122-23	19538-19545	outcome	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+122-24	19546-19551	based	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+122-25	19552-19554	on	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+122-26	19555-19558	the	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 122-27	19559-19563	best	_
 122-28	19564-19571	fitting	_
 122-29	19572-19577	model	_
@@ -1879,7 +1879,7 @@ Text=Lower plot: Trajectories that were used to determine individual reaction ti
 123-22	19736-19737	(	_
 123-23	19737-19740	see	_
 123-24	19741-19743	Eq	_
-123-25	19744-19745	5	_
+123-25	19744-19745	5	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 123-26	19745-19746	)	_
 123-27	19747-19750	for	_
 123-28	19751-19756	color	_
@@ -1924,7 +1924,7 @@ Text=Raw data analysis In our raw data analysis of reaction times, we focused on
 124-13	19928-19930	we	_
 124-14	19931-19938	focused	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 124-15	19939-19941	on	_
-124-16	19942-19945	two	_
+124-16	19942-19945	two	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 124-17	19946-19953	aspects	_
 124-18	19953-19954	:	_
 124-19	19955-19956	(	_
@@ -1955,16 +1955,16 @@ Text=Raw data analysis In our raw data analysis of reaction times, we focused on
 Text=Extreme reaction times (<150 ms and> 1.5 s) were excluded.
 125-1	20092-20099	Extreme	_
 125-2	20100-20108	reaction	_
-125-3	20109-20114	times	_
-125-4	20115-20116	(	_
-125-5	20116-20117	<	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+125-3	20109-20114	times	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+125-4	20115-20116	(	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+125-5	20116-20117	<	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 125-6	20117-20120	150	_
 125-7	20121-20123	ms	_
-125-8	20124-20127	and	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-125-9	20128-20129	>	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-125-10	20129-20132	1.5	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-125-11	20133-20134	s	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-125-12	20134-20135	)	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+125-8	20124-20127	and	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+125-9	20128-20129	>	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+125-10	20129-20132	1.5	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+125-11	20133-20134	s	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+125-12	20134-20135	)	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 125-13	20136-20140	were	_
 125-14	20141-20149	excluded	_
 125-15	20149-20150	.	_
@@ -1980,13 +1980,13 @@ Text=For analyses of potential learning, reaction times (in ms) were log transfo
 126-8	20196-20201	times	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 126-9	20202-20203	(	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 126-10	20203-20205	in	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-126-11	20206-20208	ms	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-126-12	20208-20209	)	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-126-13	20210-20214	were	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-126-14	20215-20218	log	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-126-15	20219-20230	transformed	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-126-16	20231-20233	to	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-126-17	20234-20241	achieve	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+126-11	20206-20208	ms	_
+126-12	20208-20209	)	_
+126-13	20210-20214	were	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+126-14	20215-20218	log	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+126-15	20219-20230	transformed	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+126-16	20231-20233	to	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+126-17	20234-20241	achieve	_
 126-18	20242-20248	normal	_
 126-19	20249-20261	distribution	_
 126-20	20262-20270	required	_
@@ -2016,8 +2016,8 @@ Text=First, we tested whether subjects learned the cue-outcome contingencies and
 127-18	20405-20412	outcome	_
 127-19	20413-20418	could	_
 127-20	20419-20422	not	_
-127-21	20423-20425	be	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-127-22	20426-20435	predicted	_
+127-21	20423-20425	be	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
+127-22	20426-20435	predicted	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
 127-23	20436-20441	based	_
 127-24	20442-20444	on	_
 127-25	20445-20448	the	_
@@ -2069,8 +2069,8 @@ Text=For that, log reaction times were compared for expected (i.e. trials when t
 128-36	20692-20693	)	_
 128-37	20694-20700	versus	_
 128-38	20701-20711	unexpected	_
-128-39	20712-20718	events	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-128-40	20719-20720	(	_
+128-39	20712-20718	events	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
+128-40	20719-20720	(	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
 128-41	20720-20723	i.e	_
 128-42	20723-20724	.	_
 128-43	20725-20731	trials	_
@@ -2129,7 +2129,7 @@ Text=For that, log reaction times were compared for expected (i.e. trials when t
 128-96	21031-21032	.	_
 
 Text=Second, a change in reaction times over time following contingency changes inside the relevant cue feature was tested using a repeated-measures ANOVA.
-129-1	21033-21039	Second	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+129-1	21033-21039	Second	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 129-2	21039-21040	,	_
 129-3	21041-21042	a	_
 129-4	21043-21049	change	_
@@ -2146,7 +2146,7 @@ Text=Second, a change in reaction times over time following contingency changes 
 129-15	21119-21127	relevant	_
 129-16	21128-21131	cue	_
 129-17	21132-21139	feature	_
-129-18	21140-21143	was	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+129-18	21140-21143	was	_
 129-19	21144-21150	tested	_
 129-20	21151-21156	using	_
 129-21	21157-21158	a	_
@@ -2193,12 +2193,12 @@ Text=For all eight blocks with 20 trials each, log-reaction times of the 16 expe
 130-36	21366-21370	when	_
 130-37	21371-21374	the	_
 130-38	21375-21387	non-rewarded	_
-130-39	21388-21395	feature	_
-130-40	21396-21399	was	_
-130-41	21400-21408	followed	_
-130-42	21409-21411	by	_
+130-39	21388-21395	feature	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+130-40	21396-21399	was	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+130-41	21400-21408	followed	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+130-42	21409-21411	by	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 130-43	21412-21413	a	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-130-44	21414-21420	circle	_
+130-44	21414-21420	circle	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 130-45	21420-21421	)	_
 130-46	21422-21426	were	_
 130-47	21427-21434	grouped	_
@@ -2241,7 +2241,7 @@ Text=For analyses targeting responses with regard to different cue features, ple
 131-7	21628-21630	to	_
 131-8	21631-21640	different	_
 131-9	21641-21644	cue	_
-131-10	21645-21653	features	_
+131-10	21645-21653	features	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 131-11	21653-21654	,	_
 131-12	21655-21661	please	_
 131-13	21662-21665	see	_
@@ -2314,7 +2314,7 @@ Text=For that, the mean reaction times (in ms) to each of the four cue features 
 133-24	22020-22023	the	_
 133-25	22024-22028	task	_
 133-26	22029-22033	were	_
-133-27	22034-22044	calculated	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+133-27	22034-22044	calculated	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 133-28	22044-22045	.	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 
 Text=Then, aberrant salience was calculated as the absolute difference in reaction times between both manifestations of each condition (eg, square over triangle when shape is irrelevant).
@@ -2361,11 +2361,11 @@ Text=Then, these two scores were collapsed across test halves.
 135-8	22267-22273	across	_
 135-9	22274-22278	test	_
 135-10	22279-22285	halves	_
-135-11	22285-22286	.	_
+135-11	22285-22286	.	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 
 Text=Computational modeling of relevant and irrelevant predictions We used detailed computational modeling combined with model selection in order to assess the learning mechanisms driving the observed individual behavior.
 136-1	22287-22300	Computational	_
-136-2	22301-22309	modeling	_
+136-2	22301-22309	modeling	http://maven.renci.org/NeuroBridge/neurobridge#Pyromania
 136-3	22310-22312	of	_
 136-4	22313-22321	relevant	_
 136-5	22322-22325	and	_
@@ -2420,9 +2420,9 @@ Text=In keeping with our initial definition of relevance, a cue feature should b
 138-3	22632-22636	with	_
 138-4	22637-22640	our	_
 138-5	22641-22648	initial	_
-138-6	22649-22659	definition	_
-138-7	22660-22662	of	_
-138-8	22663-22672	relevance	_
+138-6	22649-22659	definition	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
+138-7	22660-22662	of	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
+138-8	22663-22672	relevance	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 138-9	22672-22673	,	_
 138-10	22674-22675	a	_
 138-11	22676-22679	cue	_
@@ -2443,10 +2443,10 @@ Text=In keeping with our initial definition of relevance, a cue feature should b
 138-26	22762-22769	predict	_
 138-27	22770-22773	the	_
 138-28	22774-22781	outcome	_
-138-29	22781-22782	.	_
+138-29	22781-22782	.	http://maven.renci.org/NeuroBridge/neurobridge#DissociativeDrugHarmfulUse
 
 Text=In contrast, if the association between cue feature and outcome is very noisy, because the occurrence of reward and circle are equally probable this feature should be perceived as irrelevant.
-139-1	22783-22785	In	_
+139-1	22783-22785	In	http://maven.renci.org/NeuroBridge/neurobridge#DissociativeDrugHarmfulUse
 139-2	22786-22794	contrast	_
 139-3	22794-22795	,	_
 139-4	22796-22798	if	_
@@ -2496,8 +2496,8 @@ Text=We set up novel response models that postulated slowing down of responses w
 140-13	23049-23053	when	_
 140-14	23054-23057	the	_
 140-15	23058-23070	expectations	_
-140-16	23071-23075	were	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-140-17	23076-23084	violated	_
+140-16	23071-23075	were	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
+140-17	23076-23084	violated	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 140-18	23084-23085	.	_
 
 Text=Computationally, a violation was captured by the unsigned PE of each feature.
@@ -2507,7 +2507,7 @@ Text=Computationally, a violation was captured by the unsigned PE of each featur
 141-4	23105-23114	violation	_
 141-5	23115-23118	was	_
 141-6	23119-23127	captured	_
-141-7	23128-23130	by	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+141-7	23128-23130	by	_
 141-8	23131-23134	the	_
 141-9	23135-23143	unsigned	_
 141-10	23144-23146	PE	_
@@ -2523,7 +2523,7 @@ Text=In different models, we compared if unsigned PEs of the different cue featu
 142-4	23183-23184	,	_
 142-5	23185-23187	we	_
 142-6	23188-23196	compared	_
-142-7	23197-23199	if	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+142-7	23197-23199	if	_
 142-8	23200-23208	unsigned	_
 142-9	23209-23212	PEs	_
 142-10	23213-23215	of	_
@@ -2535,8 +2535,8 @@ Text=In different models, we compared if unsigned PEs of the different cue featu
 142-16	23258-23266	affected	_
 142-17	23267-23275	behavior	_
 142-18	23276-23281	based	_
-142-19	23282-23284	on	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-142-20	23285-23290	their	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+142-19	23282-23284	on	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
+142-20	23285-23290	their	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 142-21	23291-23298	current	_
 142-22	23299-23308	relevance	_
 142-23	23308-23309	.	_
@@ -2568,8 +2568,8 @@ Text=By the relevance weighted PE, we implemented increased adaptation to surpri
 143-24	23446-23453	feature	_
 143-25	23454-23456	as	_
 143-26	23457-23461	well	_
-143-27	23462-23464	as	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-143-28	23465-23474	decreased	_
+143-27	23462-23464	as	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
+143-28	23465-23474	decreased	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 143-29	23475-23485	adaptation	_
 143-30	23486-23488	to	_
 143-31	23489-23492	the	_
@@ -2809,7 +2809,7 @@ Text=We modeled predictions for each of the two cue features, shape and color, i
 149-30	24765-24772	feature	_
 149-31	24773-24774	(	_
 149-32	24774-24782	learning	_
-149-33	24783-24788	model	_
+149-33	24783-24788	model	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 149-34	24788-24789	)	_
 149-35	24789-24790	.	_
 
@@ -2889,29 +2889,29 @@ Text=Second, after the first half of the experiment we switched the relevant dim
 153-4	25180-25183	the	_
 153-5	25184-25189	first	_
 153-6	25190-25194	half	_
-153-7	25195-25197	of	_
-153-8	25198-25201	the	_
-153-9	25202-25212	experiment	_
-153-10	25213-25215	we	_
-153-11	25216-25224	switched	_
+153-7	25195-25197	of	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+153-8	25198-25201	the	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+153-9	25202-25212	experiment	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+153-10	25213-25215	we	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
+153-11	25216-25224	switched	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 153-12	25225-25228	the	_
-153-13	25229-25237	relevant	_
+153-13	25229-25237	relevant	http://maven.renci.org/NeuroBridge/neurobridge#Pyromania
 153-14	25238-25247	dimension	_
 153-15	25248-25249	(	_
 153-16	25249-25252	e.g	_
 153-17	25252-25253	.	_
-153-18	25254-25259	shape	_
-153-19	25260-25262	to	_
-153-20	25263-25268	color	_
-153-21	25268-25269	)	_
-153-22	25269-25270	.	_
+153-18	25254-25259	shape	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+153-19	25260-25262	to	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+153-20	25263-25268	color	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+153-21	25268-25269	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+153-22	25269-25270	.	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 
 Text=Hence, modeling separately for relevance versus irrelevance would have introduced external information on the task structure that was not accessible to subjects and thus not generative.
-154-1	25271-25276	Hence	_
-154-2	25276-25277	,	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+154-1	25271-25276	Hence	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+154-2	25276-25277	,	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 154-3	25278-25286	modeling	_
 154-4	25287-25297	separately	_
-154-5	25298-25301	for	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+154-5	25298-25301	for	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 154-6	25302-25311	relevance	_
 154-7	25312-25318	versus	_
 154-8	25319-25330	irrelevance	_
@@ -2947,12 +2947,12 @@ Text=The resulting learning trajectories for shape and color were transformed in
 155-8	25507-25512	color	_
 155-9	25513-25517	were	_
 155-10	25518-25529	transformed	_
-155-11	25530-25534	into	_
-155-12	25535-25549	trial-by-trial	_
-155-13	25550-25560	predictors	_
+155-11	25530-25534	into	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+155-12	25535-25549	trial-by-trial	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+155-13	25550-25560	predictors	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 155-14	25561-25563	of	_
 155-15	25564-25572	reaction	_
-155-16	25573-25578	times	_
+155-16	25573-25578	times	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 155-17	25579-25580	(	_
 155-18	25580-25588	response	_
 155-19	25589-25594	model	_
@@ -2968,8 +2968,8 @@ Text=Hierarchical Gaussian filter [HGF;] According to the ‘ Bayesian brain ’
 156-6	25630-25631	;	_
 156-7	25632-25633	]	_
 156-8	25634-25643	According	_
-156-9	25644-25646	to	_
-156-10	25647-25650	the	_
+156-9	25644-25646	to	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+156-10	25647-25650	the	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 156-11	25651-25652	‘	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 156-12	25652-25660	Bayesian	_
 156-13	25661-25666	brain	_
@@ -2980,7 +2980,7 @@ Text=Hierarchical Gaussian filter [HGF;] According to the ‘ Bayesian brain ’
 156-18	25683-25688	agent	_
 156-19	25689-25694	forms	_
 156-20	25695-25696	a	_
-156-21	25697-25707	generative	_
+156-21	25697-25707	generative	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 156-22	25708-25713	model	_
 156-23	25714-25716	of	_
 156-24	25717-25720	the	_
@@ -3041,10 +3041,10 @@ Text=Crucially, the belief update at each level is comprised of a lower-level pr
 158-17	26006-26008	is	_
 158-18	26009-26017	weighted	_
 158-19	26018-26027	according	_
-158-20	26028-26030	to	_
+158-20	26028-26030	to	http://maven.renci.org/NeuroBridge/neurobridge#StudySubject
 158-21	26031-26032	a	_
 158-22	26033-26044	cross-level	_
-158-23	26045-26054	precision	_
+158-23	26045-26054	precision	http://maven.renci.org/NeuroBridge/neurobridge#PolysubstanceDependence
 158-24	26055-26060	ratio	_
 158-25	26061-26062	(	_
 158-26	26062-26065	Eqs	_
@@ -3053,10 +3053,10 @@ Text=Crucially, the belief update at each level is comprised of a lower-level pr
 158-29	26072-26073	2	_
 158-30	26073-26074	;	_
 158-31	26075-26076	i	_
-158-32	26077-26080	for	_
+158-32	26077-26080	for	http://maven.renci.org/NeuroBridge/neurobridge#StudySubject
 158-33	26081-26089	learning	_
 158-34	26090-26095	level	_
-158-35	26095-26096	,	_
+158-35	26095-26096	,	http://maven.renci.org/NeuroBridge/neurobridge#PolysubstanceDependence
 158-36	26097-26100	and	_
 158-37	26101-26102	k	_
 158-38	26103-26106	for	_
@@ -3080,7 +3080,7 @@ Text=The precision of each level ’ s prediction is defined as the inverse vari
 159-12	26178-26181	the	_
 159-13	26182-26189	inverse	_
 159-14	26190-26198	variance	_
-159-15	26199-26201	of	_
+159-15	26199-26201	of	http://maven.renci.org/NeuroBridge/neurobridge#Age
 159-16	26202-26205	the	_
 159-17	26206-26216	prediction	_
 159-18	26216-26217	.	_
@@ -3118,7 +3118,7 @@ Text=In our modelling, we focused on the reliability and thus undirected beliefs
 161-4	26354-26355	,	_
 161-5	26356-26358	we	_
 161-6	26359-26366	focused	_
-161-7	26367-26369	on	_
+161-7	26367-26369	on	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 161-8	26370-26373	the	_
 161-9	26374-26385	reliability	_
 161-10	26386-26389	and	_
@@ -3140,7 +3140,7 @@ Text=Thus, the direction of the learning trajectories (association beliefs and p
 162-8	26470-26482	trajectories	_
 162-9	26483-26484	(	_
 162-10	26484-26495	association	_
-162-11	26496-26503	beliefs	_
+162-11	26496-26503	beliefs	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 162-12	26505-26508	and	_
 162-13	26509-26519	prediction	_
 162-14	26520-26526	errors	_
@@ -3178,7 +3178,7 @@ Text=A more detailed description of the HGF and its levels can be found in the S
 163-10	26702-26708	levels	_
 163-11	26709-26712	can	_
 163-12	26713-26715	be	_
-163-13	26716-26721	found	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+163-13	26716-26721	found	_
 163-14	26722-26724	in	_
 163-15	26725-26728	the	_
 163-16	26729-26739	Supplement	_
@@ -3214,8 +3214,8 @@ Text=A novel definition of relevance: First-level precision Since the core aim o
 164-27	26912-26913	,	_
 164-28	26914-26917	the	_
 164-29	26918-26922	term	_
-164-30	26923-26932	relevance	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-164-31	26933-26938	needs	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+164-30	26923-26932	relevance	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
+164-31	26933-26938	needs	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 164-32	26939-26941	to	_
 164-33	26942-26944	be	_
 164-34	26945-26952	defined	_
@@ -3421,16 +3421,16 @@ Text=Our learning model space contained 2 - level and 3 - level HGFs with and wi
 171-16	27921-27928	without	_
 171-17	27929-27938	precision	_
 171-18	27939-27947	feedback	_
-171-19	27948-27949	(	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-171-20	27949-27952	see	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-171-21	27953-27963	Supplement	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+171-19	27948-27949	(	_
+171-20	27949-27952	see	_
+171-21	27953-27963	Supplement	_
 171-22	27963-27964	)	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 171-23	27964-27965	,	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-171-24	27966-27973	leading	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-171-25	27974-27976	to	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-171-26	27977-27981	four	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-171-27	27982-27991	different	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-171-28	27992-28004	hierarchical	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+171-24	27966-27973	leading	_
+171-25	27974-27976	to	_
+171-26	27977-27981	four	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
+171-27	27982-27991	different	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
+171-28	27992-28004	hierarchical	_
 171-29	28005-28013	learning	_
 171-30	28014-28020	models	_
 171-31	28020-28021	:	_
@@ -3470,23 +3470,23 @@ Text=Response models Prediction errors relating to the cue feature that is thoug
 172-23	28204-28209	times	_
 172-24	28209-28210	,	_
 172-25	28211-28214	and	_
-172-26	28215-28218	the	_
+172-26	28215-28218	the	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 172-27	28219-28227	aberrant	_
 172-28	28228-28236	salience	_
 172-29	28237-28243	effect	_
 172-30	28244-28249	found	_
-172-31	28250-28252	in	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
-172-32	28253-28256	the	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
-172-33	28257-28260	raw	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
-172-34	28261-28265	data	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
-172-35	28266-28269	may	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
-172-36	28270-28272	be	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
+172-31	28250-28252	in	_
+172-32	28253-28256	the	_
+172-33	28257-28260	raw	http://maven.renci.org/NeuroBridge/neurobridge#2Level
+172-34	28261-28265	data	http://maven.renci.org/NeuroBridge/neurobridge#2Level
+172-35	28266-28269	may	http://maven.renci.org/NeuroBridge/neurobridge#2Level
+172-36	28270-28272	be	_
 172-37	28273-28282	explained	_
 172-38	28283-28285	as	_
 172-39	28286-28287	a	_
 172-40	28288-28292	bias	_
 172-41	28293-28300	towards	_
-172-42	28301-28304	one	_
+172-42	28301-28304	one	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 172-43	28305-28307	of	_
 172-44	28308-28311	the	_
 172-45	28312-28322	irrelevant	_
@@ -3515,9 +3515,9 @@ Text=The baseline response model (see Eq 4) postulates that trial-by-trial react
 174-2	28431-28439	baseline	_
 174-3	28440-28448	response	_
 174-4	28449-28454	model	_
-174-5	28455-28456	(	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
-174-6	28456-28459	see	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
-174-7	28460-28462	Eq	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
+174-5	28455-28456	(	http://maven.renci.org/NeuroBridge/neurobridge#Asperger'sDisorder
+174-6	28456-28459	see	_
+174-7	28460-28462	Eq	_
 174-8	28463-28464	4	_
 174-9	28464-28465	)	_
 174-10	28466-28476	postulates	_
@@ -4485,8 +4485,8 @@ Text=For random effects group-level analysis, the individual contrast images for
 205-25	33416-33417	(	_
 205-26	33417-33425	controls	_
 205-27	33426-33428	vs	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
-205-28	33428-33429	.	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
-205-29	33430-33438	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+205-28	33428-33429	.	_
+205-29	33430-33438	patients	_
 205-30	33438-33439	)	_
 205-31	33439-33440	.	_
 
@@ -4527,22 +4527,22 @@ Text=Hence, interindividual βirrelevance scores were introduced as a covariate 
 207-13	33669-33679	one-sample	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 207-14	33680-33686	t-test	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 207-15	33687-33692	using	_
-207-16	33693-33696	the	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-207-17	33697-33701	Mean	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+207-16	33693-33696	the	_
+207-17	33697-33701	Mean	_
 207-18	33702-33711	relevance	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 207-19	33712-33720	weighted	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 207-20	33721-33723	PE	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 207-21	33724-33732	contrast	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
-207-22	33732-33733	.	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+207-22	33732-33733	.	_
 
 Text=Results are reported using FWE correction at the voxel level across the whole brain.
-208-1	33734-33741	Results	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-208-2	33742-33745	are	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-208-3	33746-33754	reported	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-208-4	33755-33760	using	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-208-5	33761-33764	FWE	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-208-6	33765-33775	correction	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-208-7	33776-33778	at	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+208-1	33734-33741	Results	_
+208-2	33742-33745	are	_
+208-3	33746-33754	reported	_
+208-4	33755-33760	using	_
+208-5	33761-33764	FWE	_
+208-6	33765-33775	correction	_
+208-7	33776-33778	at	_
 208-8	33779-33782	the	_
 208-9	33783-33788	voxel	_
 208-10	33789-33794	level	_

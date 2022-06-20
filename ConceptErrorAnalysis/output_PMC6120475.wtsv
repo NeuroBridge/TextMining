@@ -2,7 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
-#Human Annotation
+#Machine Prediction
 Text=Time‐dependent neuronal changes associated with craving in opioid dependence: an fMRI study Abstract Relapse after initially successful treatment is a significant problem facing the treatment of opioid dependence.
 1-1	0-14	Time‐dependent	_
 1-2	15-23	neuronal	_
@@ -10,24 +10,24 @@ Text=Time‐dependent neuronal changes associated with craving in opioid depende
 1-4	32-42	associated	_
 1-5	43-47	with	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-6	48-55	craving	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-1-7	56-58	in	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+1-7	56-58	in	_
 1-8	59-65	opioid	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-9	66-76	dependence	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-10	76-77	:	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-11	78-80	an	_
 1-12	81-85	fMRI	_
-1-13	86-91	study	_
-1-14	92-100	Abstract	_
-1-15	101-108	Relapse	_
-1-16	109-114	after	_
-1-17	115-124	initially	_
-1-18	125-135	successful	_
-1-19	136-145	treatment	_
-1-20	146-148	is	_
-1-21	149-150	a	_
-1-22	151-162	significant	_
-1-23	163-170	problem	_
-1-24	171-177	facing	_
+1-13	86-91	study	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-14	92-100	Abstract	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-15	101-108	Relapse	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-16	109-114	after	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-17	115-124	initially	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-18	125-135	successful	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+1-19	136-145	treatment	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-20	146-148	is	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-21	149-150	a	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-22	151-162	significant	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-23	163-170	problem	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
+1-24	171-177	facing	http://maven.renci.org/NeuroBridge/neurobridge#ContinuousNondependentCocaineAbuse
 1-25	178-181	the	_
 1-26	182-191	treatment	_
 1-27	192-194	of	_
@@ -70,7 +70,7 @@ Text=We aimed to apply a novel continuous functional magnetic resonance imaging 
 4-2	404-409	aimed	_
 4-3	410-412	to	_
 4-4	413-418	apply	_
-4-5	419-420	a	_
+4-5	419-420	a	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 4-6	421-426	novel	_
 4-7	427-437	continuous	_
 4-8	438-448	functional	_
@@ -100,7 +100,7 @@ Text=We aimed to apply a novel continuous functional magnetic resonance imaging 
 
 Text=Newly detoxified male opioid‐dependent patients and healthy control participants attended two separate, counterbalanced, functional magnetic resonance imaging scanning sessions during which they viewed a 10 ‐ minute video (drug cue or neutral cue) followed by 5   minutes of fixation.
 5-1	602-607	Newly	_
-5-2	608-618	detoxified	_
+5-2	608-618	detoxified	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 5-3	619-623	male	_
 5-4	624-640	opioid‐dependent	_
 5-5	641-649	patients	_
@@ -120,10 +120,10 @@ Text=Newly detoxified male opioid‐dependent patients and healthy control parti
 5-19	753-760	imaging	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 5-20	761-769	scanning	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
 5-21	770-778	sessions	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-5-22	779-785	during	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-5-23	786-791	which	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-5-24	792-796	they	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-5-25	797-803	viewed	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+5-22	779-785	during	_
+5-23	786-791	which	http://maven.renci.org/NeuroBridge/neurobridge#Thing
+5-24	792-796	they	http://maven.renci.org/NeuroBridge/neurobridge#Thing
+5-25	797-803	viewed	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 5-26	804-805	a	_
 5-27	806-808	10	_
 5-28	808-809	‐	_
@@ -151,9 +151,9 @@ Text=Participants rated the intensity of their craving throughout each session.
 6-3	902-905	the	_
 6-4	906-915	intensity	_
 6-5	916-918	of	_
-6-6	919-924	their	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-6-7	925-932	craving	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-6-8	933-943	throughout	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+6-6	919-924	their	_
+6-7	925-932	craving	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+6-8	933-943	throughout	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 6-9	944-948	each	_
 6-10	949-956	session	_
 6-11	956-957	.	_
@@ -168,29 +168,29 @@ Text=We hypothesized that subcortical / ventral prefrontal cortex (PFC) regions 
 7-7	999-1009	prefrontal	_
 7-8	1010-1016	cortex	_
 7-9	1017-1018	(	_
-7-10	1018-1021	PFC	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-7-11	1021-1022	)	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-7-12	1023-1030	regions	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+7-10	1018-1021	PFC	_
+7-11	1021-1022	)	_
+7-12	1023-1030	regions	_
 7-13	1031-1034	and	_
 7-14	1035-1041	dorsal	_
 7-15	1042-1045	PFC	_
-7-16	1046-1053	regions	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-7-17	1054-1059	would	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-7-18	1060-1064	show	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-7-19	1065-1074	different	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-7-20	1075-1087	associations	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-7-21	1088-1092	with	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-7-22	1093-1100	craving	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-7-23	1101-1111	reflecting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+7-16	1046-1053	regions	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+7-17	1054-1059	would	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+7-18	1060-1064	show	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+7-19	1065-1074	different	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+7-20	1075-1087	associations	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+7-21	1088-1092	with	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+7-22	1093-1100	craving	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+7-23	1101-1111	reflecting	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 7-24	1112-1117	their	_
 7-25	1118-1126	putative	_
 7-26	1127-1132	roles	_
 7-27	1133-1135	in	_
 7-28	1136-1146	appetitive	_
-7-29	1147-1157	processing	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-7-30	1158-1164	versus	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+7-29	1147-1157	processing	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+7-30	1158-1164	versus	_
 7-31	1165-1174	cognitive	_
-7-32	1175-1182	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+7-32	1175-1182	control	_
 7-33	1182-1183	.	_
 
 Text=Compared with controls, drug cue (minus neutral cue) video recruited the left amygdala and was temporally correlated with craving.
@@ -210,8 +210,8 @@ Text=Compared with controls, drug cue (minus neutral cue) video recruited the le
 8-14	1253-1256	the	_
 8-15	1257-1261	left	_
 8-16	1262-1270	amygdala	_
-8-17	1271-1274	and	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-8-18	1275-1278	was	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+8-17	1271-1274	and	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+8-18	1275-1278	was	_
 8-19	1279-1289	temporally	_
 8-20	1290-1300	correlated	_
 8-21	1301-1305	with	_
@@ -289,7 +289,7 @@ Text=Findings suggest that the amygdala has a central role in craving, whereas t
 11-19	1728-1735	control	_
 11-20	1736-1743	craving	_
 11-21	1744-1746	in	_
-11-22	1747-1764	treatment‐seeking	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+11-22	1747-1764	treatment‐seeking	_
 11-23	1765-1773	patients	_
 11-24	1773-1774	.	_
 
@@ -353,14 +353,14 @@ Text=Methods and Materials Participants Opioid‐dependent individuals (n   = �
 33-9	6683-6684	 	_
 33-10	6684-6685	=	_
 33-11	6685-6686	 	_
-33-12	6686-6688	18	_
-33-13	6688-6689	)	_
+33-12	6686-6688	18	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+33-13	6688-6689	)	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 33-14	6690-6694	This	_
 33-15	6695-6700	study	_
 33-16	6701-6704	was	_
-33-17	6705-6713	approved	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-33-18	6714-6716	by	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-33-19	6717-6720	the	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+33-17	6705-6713	approved	_
+33-18	6714-6716	by	_
+33-19	6717-6720	the	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 33-20	6721-6724	NHS	_
 33-21	6725-6733	Research	_
 33-22	6734-6740	Ethics	_
@@ -403,11 +403,11 @@ Text=Treatment involved a 4 ‐ week residential stay with a 10 ‐ day methadon
 35-8	6936-6940	stay	_
 35-9	6941-6945	with	_
 35-10	6946-6947	a	_
-35-11	6948-6950	10	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-35-12	6950-6951	‐	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+35-11	6948-6950	10	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+35-12	6950-6951	‐	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 35-13	6951-6954	day	_
-35-14	6955-6964	methadone	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-35-15	6965-6978	stabilization	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+35-14	6955-6964	methadone	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+35-15	6965-6978	stabilization	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 35-16	6979-6982	and	_
 35-17	6983-6992	reduction	_
 35-18	6992-6993	,	_
@@ -497,8 +497,8 @@ Text=Lofexidine was extended at low doses for participants still experiencing wi
 37-30	7467-7478	Information	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 37-31	7479-7484	Table	_
 37-32	7484-7485	 	_
-37-33	7486-7488	S1	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-37-34	7489-7490	.	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+37-33	7486-7488	S1	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+37-34	7489-7490	.	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 
 Text=The OD group was recruited according to the following inclusion criteria: male, aged 18 – 55; current DSM IV heroin dependence (the majority of patients also met criteria for current or past dependence on other substances; Table   1); no history of serious psychiatric, neurological or physical illness; no contraindications for MRI; and IQ of ≥ 85 [determined using the Wechsler Test of Adult Reading (Holdnack 2001)].
 38-1	7491-7494	The	_
@@ -509,8 +509,8 @@ Text=The OD group was recruited according to the following inclusion criteria: m
 38-6	7518-7527	according	_
 38-7	7528-7530	to	_
 38-8	7531-7534	the	_
-38-9	7535-7544	following	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
-38-10	7545-7554	inclusion	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
+38-9	7535-7544	following	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
+38-10	7545-7554	inclusion	_
 38-11	7555-7563	criteria	_
 38-12	7563-7564	:	_
 38-13	7565-7569	male	_
@@ -632,8 +632,8 @@ Text=All participants meeting the inclusion criteria were approached to take par
 
 Text=A total of 39 patients were enrolled in the craving study; however, 19 were discharged from the unit before any testing could take place (mainly self‐discharge or early discharge due to use of prohibited substances).
 41-1	8163-8164	A	_
-41-2	8165-8170	total	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-41-3	8171-8173	of	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+41-2	8165-8170	total	_
+41-3	8171-8173	of	_
 41-4	8174-8176	39	_
 41-5	8177-8185	patients	_
 41-6	8186-8190	were	_
@@ -648,11 +648,11 @@ Text=A total of 39 patients were enrolled in the craving study; however, 19 were
 41-15	8231-8233	19	_
 41-16	8234-8238	were	_
 41-17	8239-8249	discharged	_
-41-18	8250-8254	from	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-41-19	8255-8258	the	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-41-20	8259-8263	unit	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-41-21	8264-8270	before	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-41-22	8271-8274	any	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+41-18	8250-8254	from	_
+41-19	8255-8258	the	_
+41-20	8259-8263	unit	_
+41-21	8264-8270	before	_
+41-22	8271-8274	any	_
 41-23	8275-8282	testing	_
 41-24	8283-8288	could	_
 41-25	8289-8293	take	_
@@ -755,9 +755,9 @@ Text=Demographic and clinical information of OD (n   =   18) and HC (n   =  
 44-22	8744-8745	)	_
 44-23	8746-8752	groups	_
 44-24	8753-8761	included	_
-44-25	8762-8764	in	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-44-26	8765-8768	the	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
-44-27	8769-8777	analysis	http://maven.renci.org/NeuroBridge/neurobridge#BarrattImpulsivenessQuestionnaire
+44-25	8762-8764	in	_
+44-26	8765-8768	the	_
+44-27	8769-8777	analysis	_
 44-28	8777-8778	.	_
 
 Text=OD group HC group p‐value Age 34.8 (6.3) 31.6 (7.2) 0.15 IQ 103.1.9 (7.7) 114.1 (4.7) <0.05 Years of education 11.5 (2.2) 16.5 (3.3) <0.05 No. of right handers 16 (89 percent) 18 (90 percent) 0.91 No. of smokers (nicotine) 13 (72 percent) 9 (45 percent) 0.09 Clinical Variables for OD group Years of opioid dependence 12.8 (7.7) — Average daily opioid use (g) 0.7 (0.6) — Age of first use (years) 20.3 (4.3) No. who primarily smoke / inject / or use both methods for heroin administration 5 (28 percent) / 5 (28 percent) / 8 (44 percent) — No. of OD group with current / past history of: — Alcohol dependence 7 (39 percent) — Cocaine dependence 7 (39 percent) Amphetamine dependence 1 (6 percent) — Benzodiazepine dependence 3 (17 percent) — Heroin dependence only (except nicotine) 6 (33 percent) — Age, IQ, years of education, years of dependence, average daily amount used and age of first use expressed as mean and standard deviation (in brackets).
@@ -775,22 +775,22 @@ Text=OD group HC group p‐value Age 34.8 (6.3) 31.6 (7.2) 0.15 IQ 103.1.9 (7.7)
 45-12	8828-8829	(	_
 45-13	8829-8832	7.2	_
 45-14	8832-8833	)	_
-45-15	8834-8838	0.15	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+45-15	8834-8838	0.15	_
 45-16	8841-8843	IQ	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
-45-17	8844-8851	103.1.9	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+45-17	8844-8851	103.1.9	_
 45-18	8852-8853	(	_
 45-19	8853-8856	7.7	_
 45-20	8856-8857	)	_
 45-21	8858-8863	114.1	_
-45-22	8864-8865	(	_
-45-23	8865-8868	4.7	_
+45-22	8864-8865	(	http://maven.renci.org/NeuroBridge/neurobridge#WideRangeAchievementTest
+45-23	8865-8868	4.7	http://maven.renci.org/NeuroBridge/neurobridge#WideRangeAchievementTest
 45-24	8868-8869	)	_
-45-25	8870-8871	<	_
-45-26	8871-8875	0.05	_
-45-27	8878-8883	Years	_
-45-28	8884-8886	of	_
-45-29	8887-8896	education	_
-45-30	8897-8901	11.5	_
+45-25	8870-8871	<	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+45-26	8871-8875	0.05	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+45-27	8878-8883	Years	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+45-28	8884-8886	of	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+45-29	8887-8896	education	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
+45-30	8897-8901	11.5	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
 45-31	8902-8903	(	_
 45-32	8903-8906	2.2	_
 45-33	8906-8907	)	_
@@ -808,7 +808,7 @@ Text=OD group HC group p‐value Age 34.8 (6.3) 31.6 (7.2) 0.15 IQ 103.1.9 (7.7)
 45-45	8948-8950	16	_
 45-46	8951-8952	(	_
 45-47	8952-8954	89	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-45-48	8955-8962	percent	_
+45-48	8955-8962	percent	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 45-49	8962-8963	)	_
 45-50	8964-8966	18	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 45-51	8967-8968	(	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -818,7 +818,7 @@ Text=OD group HC group p‐value Age 34.8 (6.3) 31.6 (7.2) 0.15 IQ 103.1.9 (7.7)
 45-55	8980-8984	0.91	_
 45-56	8987-8989	No	_
 45-57	8989-8990	.	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
-45-58	8991-8993	of	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
+45-58	8991-8993	of	_
 45-59	8994-9001	smokers	_
 45-60	9002-9003	(	_
 45-61	9003-9011	nicotine	_
@@ -896,16 +896,16 @@ Text=OD group HC group p‐value Age 34.8 (6.3) 31.6 (7.2) 0.15 IQ 103.1.9 (7.7)
 45-133	9310-9311	(	_
 45-134	9311-9313	28	_
 45-135	9314-9321	percent	_
-45-136	9321-9322	)	_
-45-137	9322-9323	/	_
-45-138	9323-9324	8	_
-45-139	9325-9326	(	_
-45-140	9326-9328	44	_
-45-141	9329-9336	percent	_
-45-142	9336-9337	)	_
+45-136	9321-9322	)	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+45-137	9322-9323	/	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+45-138	9323-9324	8	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+45-139	9325-9326	(	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+45-140	9326-9328	44	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+45-141	9329-9336	percent	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+45-142	9336-9337	)	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 45-143	9338-9339	—	_
 45-144	9343-9345	No	_
-45-145	9345-9346	.	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+45-145	9345-9346	.	_
 45-146	9347-9349	of	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 45-147	9350-9352	OD	_
 45-148	9353-9358	group	_
@@ -976,7 +976,7 @@ Text=OD group HC group p‐value Age 34.8 (6.3) 31.6 (7.2) 0.15 IQ 103.1.9 (7.7)
 45-213	9672-9679	average	_
 45-214	9680-9685	daily	_
 45-215	9686-9692	amount	_
-45-216	9693-9697	used	_
+45-216	9693-9697	used	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 45-217	9698-9701	and	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 45-218	9702-9705	age	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 45-219	9706-9708	of	_
@@ -1052,10 +1052,10 @@ Text=Healthy controls (n   =   20) Healthy controls (HCs) were recruited who w
 48-21	10046-10053	graphic	_
 48-22	10054-10060	scenes	_
 48-23	10061-10063	of	_
-48-24	10064-10068	drug	_
-48-25	10069-10072	use	_
-48-26	10073-10080	because	_
-48-27	10081-10083	of	_
+48-24	10064-10068	drug	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+48-25	10069-10072	use	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+48-26	10073-10080	because	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
+48-27	10081-10083	of	http://maven.renci.org/NeuroBridge/neurobridge#Cholesterol
 48-28	10084-10096	occupational	_
 48-29	10097-10107	experience	_
 48-30	10108-10109	(	_
@@ -1131,7 +1131,7 @@ Text=Participants were screened with the Mini International Neuropsychiatric Int
 51-9	10510-10519	Interview	_
 51-10	10520-10521	(	_
 51-11	10521-10528	Sheehan	_
-51-12	10529-10531	et	_
+51-12	10529-10531	et	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 51-13	10532-10534	al	_
 51-14	10534-10535	.	_
 51-15	10536-10540	1998	_
@@ -1140,8 +1140,8 @@ Text=Participants were screened with the Mini International Neuropsychiatric Int
 51-18	10543-10551	Wechsler	_
 51-19	10552-10556	Test	_
 51-20	10557-10559	of	_
-51-21	10560-10565	Adult	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
-51-22	10566-10573	Reading	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
+51-21	10560-10565	Adult	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+51-22	10566-10573	Reading	_
 51-23	10574-10577	and	_
 51-24	10578-10587	Edinburgh	_
 51-25	10588-10598	Handedness	_
@@ -1169,8 +1169,8 @@ Text=Procedures Participants attended two separate, counterbalanced sessions.
 53-2	10716-10728	Participants	_
 53-3	10729-10737	attended	_
 53-4	10738-10741	two	_
-53-5	10742-10750	separate	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-53-6	10750-10751	,	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+53-5	10742-10750	separate	_
+53-6	10750-10751	,	_
 53-7	10752-10767	counterbalanced	_
 53-8	10768-10776	sessions	_
 53-9	10776-10777	.	_
@@ -1216,11 +1216,11 @@ Text=On each occasion, participants underwent fMRI, once whilst viewing a 10 ‐
 55-19	10964-10968	drug	_
 55-20	10969-10972	cue	_
 55-21	10973-10980	session	_
-55-22	10980-10981	)	_
-55-23	10982-10985	and	_
-55-24	10986-10990	once	_
-55-25	10991-10997	whilst	_
-55-26	10998-11005	viewing	_
+55-22	10980-10981	)	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+55-23	10982-10985	and	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+55-24	10986-10990	once	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+55-25	10991-10997	whilst	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
+55-26	10998-11005	viewing	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 55-27	11006-11007	a	_
 55-28	11008-11010	10	_
 55-29	11010-11011	‐	_
@@ -1758,7 +1758,7 @@ Text=Preprocessing Functional data were analysed using statistical parametric ma
 76-14	13495-13503	Wellcome	_
 76-15	13504-13514	Department	_
 76-16	13515-13517	of	_
-76-17	13518-13527	Cognitive	_
+76-17	13518-13527	Cognitive	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 76-18	13528-13537	Neurology	_
 76-19	13537-13538	,	_
 76-20	13539-13545	London	_
@@ -1775,22 +1775,22 @@ Text=Preprocessing Functional data were analysed using statistical parametric ma
 76-31	13584-13585	;	_
 76-32	13586-13595	Mathworks	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 76-33	13595-13596	,	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-76-34	13597-13603	Natick	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-76-35	13603-13604	,	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-76-36	13605-13618	Massachusetts	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-76-37	13618-13619	,	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-76-38	13620-13625	U.S.A	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+76-34	13597-13603	Natick	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+76-35	13603-13604	,	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+76-36	13605-13618	Massachusetts	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+76-37	13618-13619	,	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
+76-38	13620-13625	U.S.A	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
 76-39	13625-13626	.	_
 76-40	13626-13627	)	_
 76-41	13627-13628	.	_
 
 Text=Functional images were realigned and coregistered with the T1 structural image before normalization of the functional images into standard space was carried out using the unified segmentation approach (Ashburner & Friston 2005).
-77-1	13629-13639	Functional	_
-77-2	13640-13646	images	_
-77-3	13647-13651	were	_
-77-4	13652-13661	realigned	_
-77-5	13662-13665	and	_
-77-6	13666-13678	coregistered	_
+77-1	13629-13639	Functional	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+77-2	13640-13646	images	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+77-3	13647-13651	were	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+77-4	13652-13661	realigned	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+77-5	13662-13665	and	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
+77-6	13666-13678	coregistered	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 77-7	13679-13683	with	_
 77-8	13684-13687	the	_
 77-9	13688-13690	T1	_
@@ -1827,7 +1827,7 @@ Text=Normalized images were smoothed using an 8 ‐ mm Gaussian kernel.
 78-3	13876-13880	were	_
 78-4	13881-13889	smoothed	_
 78-5	13890-13895	using	_
-78-6	13896-13898	an	_
+78-6	13896-13898	an	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 78-7	13899-13900	8	_
 78-8	13900-13901	‐	_
 78-9	13901-13903	mm	_
@@ -1872,7 +1872,7 @@ Text=The smoothed functional images of the participants who moved more than 1  
 79-34	14107-14108	/	_
 79-35	14108-14117	ArtRepair	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 79-36	14117-14118	/	_
-79-37	14118-14131	ArtRepair.htm	_
+79-37	14118-14131	ArtRepair.htm	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 79-38	14131-14132	)	_
 79-39	14132-14133	.	_
 
@@ -1905,18 +1905,18 @@ Text=Eighteen ODs and 20 HCs were entered into subsequent analyses.
 81-8	14258-14262	into	_
 81-9	14263-14273	subsequent	_
 81-10	14274-14282	analyses	_
-81-11	14282-14283	.	_
+81-11	14282-14283	.	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 
 Text=First‐level analysis For both the drug cue and the neutral session, data were acquired continuously for 20   minutes (5   minutes before the start of each video to allow participants to acclimatize to the scanner environment, 10   minutes during presentation of the video and an additional 5   minutes after the end of the video) (Fig.   1).
-82-1	14284-14295	First‐level	_
-82-2	14296-14304	analysis	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+82-1	14284-14295	First‐level	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
+82-2	14296-14304	analysis	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 82-3	14305-14308	For	_
 82-4	14309-14313	both	_
-82-5	14314-14317	the	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-82-6	14318-14322	drug	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-82-7	14323-14326	cue	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-82-8	14327-14330	and	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-82-9	14331-14334	the	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+82-5	14314-14317	the	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+82-6	14318-14322	drug	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+82-7	14323-14326	cue	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+82-8	14327-14330	and	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
+82-9	14331-14334	the	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 82-10	14335-14342	neutral	_
 82-11	14343-14350	session	_
 82-12	14350-14351	,	_
@@ -1930,13 +1930,13 @@ Text=First‐level analysis For both the drug cue and the neutral session, data 
 82-20	14391-14398	minutes	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 82-21	14399-14400	(	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 82-22	14400-14401	5	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-82-23	14401-14402	 	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-82-24	14402-14409	minutes	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-82-25	14410-14416	before	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-82-26	14417-14420	the	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-82-27	14421-14426	start	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-82-28	14427-14429	of	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-82-29	14430-14434	each	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+82-23	14401-14402	 	_
+82-24	14402-14409	minutes	_
+82-25	14410-14416	before	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+82-26	14417-14420	the	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+82-27	14421-14426	start	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+82-28	14427-14429	of	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
+82-29	14430-14434	each	_
 82-30	14435-14440	video	_
 82-31	14441-14443	to	_
 82-32	14444-14449	allow	_
@@ -1964,8 +1964,8 @@ Text=First‐level analysis For both the drug cue and the neutral session, data 
 82-54	14570-14577	minutes	_
 82-55	14578-14583	after	_
 82-56	14584-14587	the	_
-82-57	14588-14591	end	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-82-58	14592-14594	of	_
+82-57	14588-14591	end	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
+82-58	14592-14594	of	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
 82-59	14595-14598	the	_
 82-60	14599-14604	video	_
 82-61	14604-14605	)	_
@@ -2019,8 +2019,8 @@ Text=The 5th minute of the pre‐video baseline was treated as the baseline time
 84-18	14803-14813	subsequent	_
 84-19	14814-14822	time‐bin	_
 84-20	14823-14824	(	_
-84-21	14824-14826	T1	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-84-22	14826-14827	–	_
+84-21	14824-14826	T1	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
+84-22	14826-14827	–	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
 84-23	14827-14829	15	_
 84-24	14829-14830	)	_
 84-25	14831-14839	compared	_
@@ -2081,7 +2081,7 @@ Text=The neutral session averages were subtracted from the time equivalent drug 
 86-20	15127-15130	cue	_
 86-21	15131-15146	session–neutral	_
 86-22	15147-15154	session	_
-86-23	15154-15155	’	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+86-23	15154-15155	’	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 86-24	15156-15164	contrast	_
 86-25	15165-15171	images	_
 86-26	15171-15172	.	_
@@ -2100,7 +2100,7 @@ Text=Region‐of‐interest analysis A region‐of‐interest (ROI) approach was
 87-11	15246-15248	to	_
 87-12	15249-15256	extract	_
 87-13	15257-15261	time	_
-87-14	15262-15268	course	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+87-14	15262-15268	course	_
 87-15	15269-15276	signals	_
 87-16	15277-15281	from	_
 87-17	15282-15285	key	_
@@ -2147,12 +2147,12 @@ Text=These composed of spheres of 7 ‐ mm radius centred around the bilateral v
 88-15	15483-15491	striatum	_
 88-16	15491-15492	,	_
 88-17	15493-15501	amygdala	_
-88-18	15502-15505	and	_
-88-19	15506-15511	VmPFC	_
-88-20	15511-15512	,	_
-88-21	15513-15524	coordinates	_
+88-18	15502-15505	and	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+88-19	15506-15511	VmPFC	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+88-20	15511-15512	,	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
+88-21	15513-15524	coordinates	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 88-22	15525-15529	from	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
-88-23	15530-15535	Chase	_
+88-23	15530-15535	Chase	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 88-24	15536-15538	et	_
 88-25	15539-15541	al	_
 88-26	15541-15542	.	_
@@ -2195,7 +2195,7 @@ Text=Mean drug cue‐neutral session contrast estimates were extracted from each
 89-9	15711-15715	from	_
 89-10	15716-15720	each	_
 89-11	15721-15723	of	_
-89-12	15724-15727	the	_
+89-12	15724-15727	the	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 89-13	15728-15731	six	_
 89-14	15732-15736	ROIs	_
 89-15	15737-15742	using	_
@@ -2266,7 +2266,7 @@ Text=Investigations were carried out for the whole session (T0 to T15) and for t
 90-18	16044-16053	time‐bins	_
 90-19	16054-16055	(	_
 90-20	16055-16057	T1	_
-90-21	16057-16058	–	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
+90-21	16057-16058	–	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 90-22	16058-16061	T10	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 90-23	16061-16062	)	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
 90-24	16063-16066	and	http://maven.renci.org/NeuroBridge/neurobridge#Montgomery–AsbergDepressionRatingScale
@@ -2313,9 +2313,9 @@ Text=A Bonferroni correction for the six separate ROIs results in a significance
 92-8	16300-16304	ROIs	_
 92-9	16305-16312	results	_
 92-10	16313-16315	in	_
-92-11	16316-16317	a	_
+92-11	16316-16317	a	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 92-12	16318-16330	significance	_
-92-13	16331-16336	value	_
+92-13	16331-16336	value	http://maven.renci.org/NeuroBridge/neurobridge#Pyromania
 92-14	16337-16339	of	_
 92-15	16340-16341	p	_
 92-16	16341-16342	 	_
@@ -2372,9 +2372,9 @@ Text=ROI BOLD signal time course and subjective rating time course temporal corr
 95-5	16583-16589	course	_
 95-6	16590-16593	and	_
 95-7	16594-16604	subjective	_
-95-8	16605-16611	rating	_
-95-9	16612-16616	time	_
-95-10	16617-16623	course	_
+95-8	16605-16611	rating	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
+95-9	16612-16616	time	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
+95-10	16617-16623	course	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 95-11	16624-16632	temporal	_
 95-12	16633-16644	correlation	_
 95-13	16645-16653	analysis	_
@@ -2395,8 +2395,8 @@ Text=ROI BOLD signal time course and subjective rating time course temporal corr
 95-28	16742-16743	,	_
 95-29	16744-16746	we	_
 95-30	16747-16759	investigated	_
-95-31	16760-16767	whether	_
-95-32	16768-16773	their	_
+95-31	16760-16767	whether	http://maven.renci.org/NeuroBridge/neurobridge#DissociativeDrugHarmfulUse
+95-32	16768-16773	their	http://maven.renci.org/NeuroBridge/neurobridge#DissociativeDrugHarmfulUse
 95-33	16774-16784	subjective	_
 95-34	16785-16791	rating	_
 95-35	16792-16796	time	_
@@ -2448,8 +2448,8 @@ Text=Before correlations were carried out, the pre‐video baseline subjective r
 97-11	17062-17068	rating	_
 97-12	17069-17072	was	_
 97-13	17073-17083	subtracted	_
-97-14	17084-17088	from	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-97-15	17089-17093	each	_
+97-14	17084-17088	from	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
+97-15	17089-17093	each	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 97-16	17094-17099	video	_
 97-17	17100-17103	and	_
 97-18	17104-17114	post‐video	_
@@ -2457,7 +2457,7 @@ Text=Before correlations were carried out, the pre‐video baseline subjective r
 97-20	17122-17125	for	_
 97-21	17126-17130	each	_
 97-22	17131-17138	session	_
-97-23	17138-17139	.	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
+97-23	17138-17139	.	_
 
 Text=The neutral session ratings were then subtracted from the drug cue session ratings.
 98-1	17140-17143	The	_
@@ -2473,7 +2473,7 @@ Text=The neutral session ratings were then subtracted from the drug cue session 
 98-11	17203-17206	cue	_
 98-12	17207-17214	session	_
 98-13	17215-17222	ratings	_
-98-14	17222-17223	.	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
+98-14	17222-17223	.	_
 
 Text=This was to ensure both the fMRI and subjective rating data reflected drug cue session changes from baseline minus neutral session changes from baseline (fMRI data already in this format after first‐level analysis).
 99-1	17224-17228	This	_
@@ -2487,8 +2487,8 @@ Text=This was to ensure both the fMRI and subjective rating data reflected drug 
 99-9	17261-17271	subjective	_
 99-10	17272-17278	rating	_
 99-11	17279-17283	data	_
-99-12	17284-17293	reflected	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
-99-13	17294-17298	drug	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
+99-12	17284-17293	reflected	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
+99-13	17294-17298	drug	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 99-14	17299-17302	cue	_
 99-15	17303-17310	session	_
 99-16	17311-17318	changes	_
@@ -2520,8 +2520,8 @@ Text=Finally, the fMRI BOLD signal data were averaged over 3 ‐ minute interval
 100-4	17453-17457	fMRI	_
 100-5	17458-17462	BOLD	_
 100-6	17463-17469	signal	_
-100-7	17470-17474	data	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
-100-8	17475-17479	were	_
+100-7	17470-17474	data	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
+100-8	17475-17479	were	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 100-9	17480-17488	averaged	_
 100-10	17489-17493	over	_
 100-11	17494-17495	3	_

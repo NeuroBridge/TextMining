@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Aberrant patterns of neural activity when perceiving emotion from biological motion in schizophrenia Social perceptual deficits in schizophrenia are well established.
 1-1	0-8	Aberrant	_
 1-2	9-17	patterns	_
 1-3	18-20	of	_
@@ -25,6 +26,7 @@
 1-21	154-165	established	_
 1-22	166-167	.	_
 
+Text=Recent work suggests that the ability to extract social information from bodily cues is reduced in patients.
 2-1	168-174	Recent	_
 2-2	175-179	work	_
 2-3	180-188	suggests	_
@@ -44,6 +46,7 @@
 2-17	267-275	patients	_
 2-18	276-277	.	_
 
+Text=However, little is known about the neurobiological mechanisms underlying this deficit.
 3-1	278-285	However	_
 3-2	286-287	,	_
 3-3	288-294	little	_
@@ -58,6 +61,7 @@
 3-12	357-364	deficit	_
 3-13	365-366	.	_
 
+Text=In the current study, 20 schizophrenia patients and 16 controls completed two tasks using point-light animations during fMRI: a basic biological motion task and an emotion in biological motion task.
 4-1	367-369	In	_
 4-2	370-373	the	_
 4-3	374-381	current	_
@@ -92,6 +96,7 @@
 4-32	562-566	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 4-33	567-568	.	_
 
+Text=The basic biological motion task was used to localize activity in posterior superior temporal sulcus (pSTS), a critical region for biological motion perception.
 5-1	569-572	The	_
 5-2	573-578	basic	_
 5-3	579-589	biological	_
@@ -120,6 +125,7 @@
 5-26	721-731	perception	_
 5-27	732-733	.	_
 
+Text=During the emotion in biological motion task, participants viewed brief videos depicting happiness, fear, anger, or neutral emotions and were asked to decide which emotion was portrayed.
 6-1	734-740	During	_
 6-2	741-744	the	_
 6-3	745-752	emotion	http://maven.renci.org/NeuroBridge/neurobridge#PennEmotionRecognitionTask
@@ -153,6 +159,7 @@
 6-31	914-923	portrayed	_
 6-32	924-925	.	_
 
+Text=Activity in pSTS and amygdala was interrogated during this task.
 7-1	926-934	Activity	_
 7-2	935-937	in	_
 7-3	938-942	pSTS	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -165,6 +172,7 @@
 7-10	985-989	task	_
 7-11	990-991	.	_
 
+Text=Results indicated that patients showed overall reduced activation compared to controls in pSTS and at a trend level in amygdala across emotions, despite similar task performance.
 8-1	992-999	Results	_
 8-2	1000-1009	indicated	_
 8-3	1010-1014	that	_
@@ -194,6 +202,7 @@
 8-27	1159-1170	performance	_
 8-28	1171-1172	.	_
 
+Text=Further, a functional connectivity analysis revealed that controls, but not patients, showed significant positive connectivity between pSTS and left frontal regions as well as bilateral angular gyrus during the emotion in biological motion task.
 9-1	1173-1180	Further	_
 9-2	1181-1182	,	_
 9-3	1183-1184	a	_
@@ -233,6 +242,7 @@
 9-37	1416-1420	task	_
 9-38	1421-1422	.	_
 
+Text=These findings indicate that schizophrenia patients show aberrant neural activity and functional connectivity when extracting complex social information from simple motion stimuli, which may contribute to social perception deficits in this disorder.
 10-1	1423-1428	These	_
 10-2	1429-1437	findings	_
 10-3	1438-1446	indicate	_
@@ -268,6 +278,7 @@
 10-33	1664-1672	disorder	_
 10-34	1673-1674	.	_
 
+Text=Highlights Perception of social information from bodily cues is impaired in schizophrenia.
 11-1	1675-1685	Highlights	_
 11-2	1686-1696	Perception	_
 11-3	1697-1699	of	_
@@ -282,6 +293,7 @@
 11-12	1751-1764	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-13	1765-1766	.	_
 
+Text=We examined neural correlates of perception of emotion from biological motion.
 12-1	1767-1769	We	_
 12-2	1770-1778	examined	_
 12-3	1779-1785	neural	_
@@ -295,6 +307,7 @@
 12-11	1838-1844	motion	_
 12-12	1845-1846	.	_
 
+Text=Activity in amygdala and posterior superior temporal sulcus was reduced in patients.
 13-1	1847-1855	Activity	_
 13-2	1856-1858	in	_
 13-3	1859-1867	amygdala	_
@@ -309,6 +322,7 @@
 13-12	1922-1930	patients	_
 13-13	1931-1932	.	_
 
+Text=pSTS functional connectivity with frontal and parietal regions was reduced in patients.
 14-1	1933-1937	pSTS	_
 14-2	1938-1948	functional	_
 14-3	1949-1961	connectivity	_
@@ -323,6 +337,7 @@
 14-12	2011-2019	patients	_
 14-13	2020-2021	.	_
 
+Text=Aberrant neural responses may contribute to social perceptual deficits in schizophrenia.
 15-1	2022-2030	Aberrant	_
 15-2	2031-2037	neural	_
 15-3	2038-2047	responses	_
@@ -336,6 +351,7 @@
 15-11	2096-2109	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 15-12	2110-2111	.	_
 
+Text=Methods Participants Twenty patients with schizophrenia (7 female) and 16 healthy controls (5 female) completed the study.
 16-1	2112-2119	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 16-2	2120-2132	Participants	_
 16-3	2133-2139	Twenty	_
@@ -359,6 +375,7 @@
 16-21	2232-2237	study	_
 16-22	2238-2239	.	_
 
+Text=Patients were recruited from community outpatient treatment clinics and met diagnostic criteria for schizophrenia based on the Structured Clinical Interview for DSM-IV Axis I Disorders (SCID).
 17-1	2240-2248	Patients	_
 17-2	2249-2253	were	_
 17-3	2254-2263	recruited	_
@@ -389,6 +406,7 @@
 17-28	2432-2433	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 17-29	2434-2435	.	_
 
+Text=Controls were recruited through internet postings and interviewed with the SCID-I and portions of the Structured Clinical Interview for DSM-IV Axis II Disorders (SCID-II).
 18-1	2436-2444	Controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 18-2	2445-2449	were	_
 18-3	2450-2459	recruited	_
@@ -417,6 +435,7 @@
 18-26	2607-2608	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 18-27	2609-2610	.	_
 
+Text=All participants were between 18 and 65 years of age, and were excluded from participation if they had: an identifiable neurological disorder, history of loss of consciousness for more than 1 h, or were not sufficiently fluent in English to consent and understand procedures.
 19-1	2611-2614	All	_
 19-2	2615-2627	participants	_
 19-3	2628-2632	were	_
@@ -467,6 +486,7 @@
 19-48	2879-2889	procedures	_
 19-49	2890-2891	.	_
 
+Text=Additional exclusion criteria for patients was self-reported substance abuse in the past month or dependence in the last six months, and indication of IQ <70 based on chart review.
 20-1	2892-2902	Additional	_
 20-2	2903-2912	exclusion	_
 20-3	2913-2921	criteria	_
@@ -500,6 +520,7 @@
 20-31	3067-3073	review	_
 20-32	3074-3075	.	_
 
+Text=Additional exclusion criteria for controls was a first-degree relative with schizophrenia or another psychotic disorder, a personal history of schizophrenia or other psychotic disorder, bipolar disorder, or recurrent depression, a lifetime history of substance dependence or any substance abuse in the last 6 months, and any of the following Axis II disorders: avoidant, paranoid, schizoid, or schizotypal.
 21-1	3076-3086	Additional	_
 21-2	3087-3096	exclusion	_
 21-3	3097-3105	criteria	_
@@ -568,6 +589,7 @@
 21-66	3479-3490	schizotypal	_
 21-67	3491-3492	.	_
 
+Text=Clinical measures Psychiatric symptoms in patients were evaluated using the 24-item version of the Brief Psychiatric Rating Scale (BPRS) and Scale for the Assessment of Negative Symptoms (SANS).
 22-1	3493-3501	Clinical	_
 22-2	3502-3510	measures	_
 22-3	3511-3522	Psychiatric	_
@@ -602,6 +624,7 @@
 22-32	3689-3690	)	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofNegativeSymptoms
 22-33	3691-3692	.	_
 
+Text=For the BPRS we report the total score and the mean for the positive symptom factor.
 23-1	3693-3696	For	_
 23-2	3697-3700	the	_
 23-3	3701-3705	BPRS	_
@@ -620,6 +643,7 @@
 23-16	3770-3776	factor	_
 23-17	3777-3778	.	_
 
+Text=For the SANS we report the sum of four global scales: Affective Flattening, Alogia, Avolition-Apathy, and Anhedonia-Asociality.
 24-1	3779-3782	For	_
 24-2	3783-3786	the	_
 24-3	3787-3791	SANS	_
@@ -643,6 +667,7 @@
 24-21	3889-3909	Anhedonia-Asociality	_
 24-22	3910-3911	.	_
 
+Text=Functional outcome was assessed with the Role Functioning Scale (RFS).
 25-1	3912-3922	Functional	_
 25-2	3923-3930	outcome	_
 25-3	3931-3934	was	_
@@ -657,6 +682,7 @@
 25-12	3982-3983	)	http://maven.renci.org/NeuroBridge/neurobridge#BirchwoodSocialFunctioningScale
 25-13	3984-3985	.	_
 
+Text=All clinical assessments were conducted by interviewers trained to reliability through the Treatment Unit of the Department of Veterans Affairs VISN 22 Mental Illness Research, Education, and Clinical Center (MIRECC) based on established procedures.
 26-1	3986-3989	All	_
 26-2	3990-3998	clinical	_
 26-3	3999-4010	assessments	_
@@ -697,6 +723,7 @@
 26-38	4228-4238	procedures	_
 26-39	4239-4240	.	_
 
+Text=The study protocol was reviewed and approved by the Institutional Review Board of the University of California, Los Angeles.
 27-1	4241-4244	The	_
 27-2	4245-4250	study	_
 27-3	4251-4259	protocol	_
@@ -719,6 +746,7 @@
 27-20	4358-4365	Angeles	_
 27-21	4366-4367	.	_
 
+Text=All participants provided written informed consent after procedures were fully explained.
 28-1	4368-4371	All	_
 28-2	4372-4384	participants	_
 28-3	4385-4393	provided	_
@@ -732,6 +760,7 @@
 28-11	4447-4456	explained	_
 28-12	4457-4458	.	_
 
+Text=Procedures Activation paradigms Participants completed two tasks involving point-light animations during fMRI (Fig.
 29-1	4459-4469	Procedures	_
 29-2	4470-4480	Activation	_
 29-3	4481-4490	paradigms	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -748,10 +777,12 @@
 29-14	4571-4574	Fig	_
 29-15	4575-4576	.	_
 
+Text=1).
 30-1	4577-4578	1	_
 30-2	4579-4580	)	_
 30-3	4581-4582	.	_
 
+Text=The first was the Basic Biological Motion Task.
 31-1	4583-4586	The	_
 31-2	4587-4592	first	_
 31-3	4593-4596	was	_
@@ -762,6 +793,7 @@
 31-8	4625-4629	Task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 31-9	4630-4631	.	_
 
+Text=The second task was the Emotion in Biological Motion Task.
 32-1	4632-4635	The	_
 32-2	4636-4642	second	_
 32-3	4643-4647	task	_
@@ -774,6 +806,7 @@
 32-10	4685-4689	Task	http://maven.renci.org/NeuroBridge/neurobridge#PennEmotionRecognitionTask
 32-11	4690-4691	.	_
 
+Text=The tasks were generated using E-Prime version 2.0 professional (Psychology Software Tools, USA).
 33-1	4692-4695	The	_
 33-2	4696-4701	tasks	_
 33-3	4702-4706	were	_
@@ -792,6 +825,7 @@
 33-16	4790-4791	)	_
 33-17	4792-4793	.	_
 
+Text=Prior to the scan session, participants completed practice trials to become familiar with each task.
 34-1	4794-4799	Prior	_
 34-2	4800-4802	to	_
 34-3	4803-4806	the	_
@@ -810,6 +844,7 @@
 34-16	4890-4894	task	_
 34-17	4895-4896	.	_
 
+Text=Basic biological motion task (localizer): Stimuli consisted of 1 s animations of point-light walkers; each animation video was comprised of 12 black dots presented on a white background at central fixation.
 35-1	4897-4902	Basic	_
 35-2	4903-4913	biological	http://maven.renci.org/NeuroBridge/neurobridge#PhysiologicalState
 35-3	4914-4920	motion	http://maven.renci.org/NeuroBridge/neurobridge#PhysiologicalState
@@ -847,6 +882,7 @@
 35-35	5098-5106	fixation	_
 35-36	5107-5108	.	_
 
+Text=The dots were arranged and animated in a manner that corresponded to human (e.g., walking, jumping) or random movement (Fig.
 36-1	5109-5112	The	_
 36-2	5113-5117	dots	_
 36-3	5118-5122	were	_
@@ -874,10 +910,12 @@
 36-25	5234-5237	Fig	_
 36-26	5238-5239	.	_
 
+Text=1A).
 37-1	5240-5242	1A	_
 37-2	5243-5244	)	_
 37-3	5245-5246	.	_
 
+Text=Participants viewed 12 alternating blocks of human (0% scrambled) and random (100% scrambled) movement.
 38-1	5247-5259	Participants	_
 38-2	5260-5266	viewed	_
 38-3	5267-5269	12	_
@@ -900,6 +938,7 @@
 38-20	5347-5355	movement	_
 38-21	5356-5357	.	_
 
+Text=Each block included 7 animations with an inter-stimulus interval (ISI) of 1 s. A 1 s fixation cross was presented during each ISI.
 39-1	5358-5362	Each	_
 39-2	5363-5368	block	_
 39-3	5369-5377	included	_
@@ -927,6 +966,7 @@
 39-25	5486-5489	ISI	_
 39-26	5490-5491	.	_
 
+Text=A 4 s fixation cross was presented between each block.
 40-1	5492-5493	A	_
 40-2	5494-5495	4	_
 40-3	5496-5497	s	_
@@ -939,6 +979,7 @@
 40-10	5540-5545	block	_
 40-11	5546-5547	.	_
 
+Text=To maintain the participant's attention, each block required performance of a 1-back task in which they were required to press a button whenever the current animation was identical to the one appearing immediately before it.
 41-1	5548-5550	To	_
 41-2	5551-5559	maintain	_
 41-3	5560-5563	the	_
@@ -978,6 +1019,7 @@
 41-37	5771-5773	it	_
 41-38	5774-5775	.	_
 
+Text=Participants had 2 s to make their response; they could respond at any time after stimulus onset and prior to the onset of the next video.
 42-1	5776-5788	Participants	_
 42-2	5789-5792	had	_
 42-3	5793-5794	2	_
@@ -1007,6 +1049,7 @@
 42-27	5909-5914	video	_
 42-28	5915-5916	.	_
 
+Text=Emotion in biological motion task (Emo Bio): Stimuli consisted of 20 animations of point-light walkers (average duration: 8.05 s, standard deviation: 6.7 s); videos were comprised of 12 white dots presented on a black background at central fixation.
 43-1	5917-5924	Emotion	http://maven.renci.org/NeuroBridge/neurobridge#PennEmotionRecognitionTask
 43-2	5925-5927	in	http://maven.renci.org/NeuroBridge/neurobridge#PennEmotionRecognitionTask
 43-3	5928-5938	biological	http://maven.renci.org/NeuroBridge/neurobridge#PennEmotionRecognitionTask
@@ -1056,6 +1099,7 @@
 43-47	6166-6174	fixation	_
 43-48	6175-6176	.	_
 
+Text=The dots were arranged and animated in a manner that depicted happiness, fear, anger, or neutral human emotion.
 44-1	6177-6180	The	_
 44-2	6181-6185	dots	_
 44-3	6186-6190	were	_
@@ -1079,6 +1123,7 @@
 44-21	6283-6290	emotion	_
 44-22	6291-6292	.	_
 
+Text=A 1 s fixation cross was presented prior to each animation.
 45-1	6293-6294	A	_
 45-2	6295-6296	1	_
 45-3	6297-6298	s	_
@@ -1092,6 +1137,7 @@
 45-11	6342-6351	animation	_
 45-12	6352-6353	.	_
 
+Text=After stimulus offset, the screen prompted the participant to make their response.
 46-1	6354-6359	After	_
 46-2	6360-6368	stimulus	_
 46-3	6369-6375	offset	_
@@ -1107,6 +1153,7 @@
 46-13	6428-6436	response	_
 46-14	6437-6438	.	_
 
+Text=Participants were asked to decide which emotion was being portrayed by pressing a corresponding button on a 4-button response box.
 47-1	6439-6451	Participants	_
 47-2	6452-6456	were	_
 47-3	6457-6462	asked	_
@@ -1129,6 +1176,7 @@
 47-20	6565-6568	box	_
 47-21	6569-6570	.	_
 
+Text=Participants had 4 s to make their response.
 48-1	6571-6583	Participants	_
 48-2	6584-6587	had	_
 48-3	6588-6589	4	_
@@ -1139,6 +1187,7 @@
 48-8	6606-6614	response	_
 48-9	6615-6616	.	_
 
+Text=Responses triggered progression to a blank screen for the remainder of the 4 s response period.
 49-1	6617-6626	Responses	_
 49-2	6627-6636	triggered	_
 49-3	6637-6648	progression	_
@@ -1157,6 +1206,7 @@
 49-16	6705-6711	period	_
 49-17	6712-6713	.	_
 
+Text=Each animation was followed by a “ null ” trial consisting of a fixation cross (mean duration: 4.25 s, range: 2.5–7.5 s).
 50-1	6714-6718	Each	_
 50-2	6719-6728	animation	_
 50-3	6729-6732	was	_
@@ -1186,6 +1236,7 @@
 50-27	6838-6839	)	_
 50-28	6840-6841	.	_
 
+Text=fMRI data acquisition and processing All scanning was performed using two identical 3 T Siemens Tim Trio scanners running identical software at the UCLA Ahmanson-Lovelace Brain Mapping Center and the UCLA Staglin Center for Cognitive Neuroscience.
 51-1	6842-6846	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 51-2	6847-6851	data	_
 51-3	6852-6863	acquisition	_
@@ -1224,6 +1275,7 @@
 51-36	7076-7088	Neuroscience	_
 51-37	7089-7090	.	_
 
+Text=Each scanner utilized the same quality assurance protocols daily to assess scanner performance.
 52-1	7091-7095	Each	_
 52-2	7096-7103	scanner	_
 52-3	7104-7112	utilized	_
@@ -1239,6 +1291,7 @@
 52-13	7174-7185	performance	_
 52-14	7186-7187	.	_
 
+Text=There was no difference between scanners in terms of number of subjects per group or signal-to-noise ratio (Supplementary Table 1).
 53-1	7188-7193	There	_
 53-2	7194-7197	was	_
 53-3	7198-7200	no	_
@@ -1263,6 +1316,7 @@
 53-22	7319-7320	)	_
 53-23	7321-7322	.	_
 
+Text=Functional runs were acquired with T2 * -weighted blood oxygen level-dependent (BOLD) gradient echo planar imaging (EPI) sequences for each activation task (TR = 2500 ms, TE = 35 ms, flip angle = 75°, 38 interleaved slices, slice thickness = 3.3 mm; matrix = 64 × 64; FOV = 192 mm; in-plane resolution = 3x3mm).
 54-1	7323-7333	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 54-2	7334-7338	runs	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 54-3	7339-7343	were	_
@@ -1333,6 +1387,7 @@
 54-68	7645-7646	)	_
 54-69	7647-7648	.	_
 
+Text=Two sets of structural images were acquired from each subject for anatomical localization and registration of functional data: a high-resolution T1-weighted magnetization prepared rapid-acquisition gradient echo image (MPRAGE) [TR = 1900 ms; TE = 3.43 ms; flip angle = 9°; 160 sagittal slices; slice thickness = 1 mm; matrix = 256 × 256; FOV = 256 mm; voxel size = 1x1x1mm] and a T2-weighted matched-bandwidth high-resolution scan with the same slice prescription as the EPI [TR = 6000 ms; TE = 66 ms; flip angle = 90°; 38 slices; slice thickness = 3.3 mm; matrix = 128 × 128; FOV = 192 mm; voxel size = 1.5 × 1.5 × 3.3 mm].
 55-1	7649-7652	Two	_
 55-2	7653-7657	sets	_
 55-3	7658-7660	of	_
@@ -1468,6 +1523,7 @@
 55-133	8292-8293	]	_
 55-134	8294-8295	.	_
 
+Text=Image preprocessing was carried out using the FMRIB Software Library (FSL v5.0.9; Analysis Group, Oxford, UK).
 56-1	8296-8301	Image	_
 56-2	8302-8315	preprocessing	_
 56-3	8316-8319	was	_
@@ -1491,6 +1547,7 @@
 56-21	8409-8410	)	_
 56-22	8411-8412	.	_
 
+Text=Preprocessing steps included high-pass filtering (100 s cut-off), spatial smoothing (5 mm FWHM), skull stripping, and registration.
 57-1	8413-8426	Preprocessing	_
 57-2	8427-8432	steps	_
 57-3	8433-8441	included	_
@@ -1517,6 +1574,7 @@
 57-24	8538-8550	registration	_
 57-25	8551-8552	.	_
 
+Text=Registration was carried out using FSL's FLIRT (FMRIB's Linear Image Registration Tool v6.0).
 58-1	8553-8565	Registration	_
 58-2	8566-8569	was	_
 58-3	8570-8577	carried	_
@@ -1536,6 +1594,7 @@
 58-17	8648-8649	)	_
 58-18	8650-8651	.	_
 
+Text=Each run of individual EPI data was registered first to the co-planar matched-bandwidth T2-weighted image (affine transformation; 6 degrees of freedom), then to the T1-weighted MPRAGE (Boundary-Based Registration, BBR) and finally, to Montreal Neurological Institute (MNI) standard space (affine transformation, 12 degrees of freedom).
 59-1	8652-8656	Each	_
 59-2	8657-8660	run	_
 59-3	8661-8663	of	_
@@ -1595,6 +1654,7 @@
 59-57	8998-8999	)	_
 59-58	9000-9001	.	_
 
+Text=We addressed potential motion artifacts in several ways.
 60-1	9002-9004	We	_
 60-2	9005-9014	addressed	_
 60-3	9015-9024	potential	_
@@ -1605,6 +1665,7 @@
 60-8	9053-9057	ways	_
 60-9	9058-9059	.	_
 
+Text=Motion estimates were inspected to ensure that relative mean displacement did not exceed 0.5 mm for any participant.
 61-1	9060-9066	Motion	_
 61-2	9067-9076	estimates	_
 61-3	9077-9081	were	_
@@ -1625,6 +1686,7 @@
 61-18	9164-9175	participant	_
 61-19	9176-9177	.	_
 
+Text=In addition, all images were realigned to the middle volume using MCFLIRT and movement parameters calculated by MCFLIRT were modeled as nuisance covariates.
 62-1	9178-9180	In	_
 62-2	9181-9189	addition	_
 62-3	9190-9191	,	_
@@ -1651,6 +1713,7 @@
 62-24	9324-9334	covariates	_
 62-25	9335-9336	.	_
 
+Text=Finally, the FSL motion outliers tool was used to remove the effects of any time-points corrupted by motion beyond what realignment and linear motion parameter regression methods can fix.
 63-1	9337-9344	Finally	_
 63-2	9345-9346	,	_
 63-3	9347-9350	the	_
@@ -1683,6 +1746,7 @@
 63-30	9521-9524	fix	_
 63-31	9525-9526	.	_
 
+Text=Behavioral analyses For the demographic data, independent samples t-tests and chi-square tests were used to assess group differences for continuous and categorical variables, respectively.
 64-1	9527-9537	Behavioral	_
 64-2	9538-9546	analyses	_
 64-3	9547-9550	For	_
@@ -1711,6 +1775,7 @@
 64-26	9704-9716	respectively	_
 64-27	9717-9718	.	_
 
+Text=For the localizer task, behavioral data were collected to ensure participants were attending to the task but these data were not analyzed as a primary outcome variable.
 65-1	9719-9722	For	_
 65-2	9723-9726	the	_
 65-3	9727-9736	localizer	_
@@ -1741,6 +1806,7 @@
 65-28	9879-9887	variable	_
 65-29	9888-9889	.	_
 
+Text=For the Emo Bio task, separate independent samples t-tests were used to assess group differences in response time and accuracy across condition (emotion type).
 66-1	9890-9893	For	_
 66-2	9894-9897	the	_
 66-3	9898-9901	Emo	_
@@ -1770,6 +1836,7 @@
 66-27	10050-10051	)	_
 66-28	10052-10053	.	_
 
+Text=Analyses measured significance at the 0.05 level, two-tailed.
 67-1	10054-10062	Analyses	_
 67-2	10063-10071	measured	_
 67-3	10072-10084	significance	_
@@ -1781,6 +1848,7 @@
 67-9	10105-10115	two-tailed	_
 67-10	10116-10117	.	_
 
+Text=Given our relatively small sample size, we also give weight to any findings with an effect size of medium or greater.
 68-1	10118-10123	Given	_
 68-2	10124-10127	our	_
 68-3	10128-10138	relatively	_
@@ -1805,6 +1873,7 @@
 68-22	10228-10235	greater	_
 68-23	10236-10237	.	_
 
+Text=fMRI analyses Analysis of fMRI data was performed separately for the two tasks.
 69-1	10238-10242	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 69-2	10243-10251	analyses	_
 69-3	10252-10260	Analysis	_
@@ -1820,6 +1889,7 @@
 69-13	10311-10316	tasks	_
 69-14	10317-10318	.	_
 
+Text=For both tasks, we used a general linear model (GLM) approach with FEAT (FMRI Expert Analysis Tool v6.0), and a timing model based on a double-gamma hemodynamic response function.
 70-1	10319-10322	For	_
 70-2	10323-10327	both	_
 70-3	10328-10333	tasks	_
@@ -1857,6 +1927,7 @@
 70-35	10495-10503	function	_
 70-36	10504-10505	.	_
 
+Text=In the first-level analysis, linear contrasts of trials by condition were created for each subject.
 71-1	10506-10508	In	_
 71-2	10509-10512	the	_
 71-3	10513-10524	first-level	_
@@ -1875,6 +1946,7 @@
 71-16	10598-10605	subject	_
 71-17	10606-10607	.	_
 
+Text=The primary contrast of interest for the Basic Biological Motion Task was “ biological ”> “ non-biological. ” For the Emotion in Biological Motion Task, the primary contrasts of interest were each condition (“ happy, ” “ afraid, ” “ angry, ” “ neutral ”) versus baseline.
 72-1	10608-10611	The	_
 72-2	10612-10619	primary	_
 72-3	10620-10628	contrast	_
@@ -1931,6 +2003,7 @@
 72-54	10877-10885	baseline	_
 72-55	10886-10887	.	_
 
+Text=Localizer task: The primary goal of the localizer task analyses was to identify voxels responsive to biological motion within bilateral pSTS.
 73-1	10888-10897	Localizer	_
 73-2	10898-10902	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 73-3	10903-10904	:	_
@@ -1955,6 +2028,7 @@
 73-22	11025-11029	pSTS	_
 73-23	11030-11031	.	_
 
+Text=An anatomically constrained functional region of interest (ROI) for pSTS was created using a two-step procedure.
 74-1	11032-11034	An	_
 74-2	11035-11047	anatomically	_
 74-3	11048-11059	constrained	_
@@ -1975,6 +2049,7 @@
 74-18	11136-11145	procedure	_
 74-19	11146-11147	.	_
 
+Text=First, a 20 mm diameter spheres were created around peak coordinates in MNI standard space (x = ±52, y = −56, z = 6) identified by a recent meta-analysis.
 75-1	11148-11153	First	_
 75-2	11154-11155	,	_
 75-3	11156-11157	a	_
@@ -2011,6 +2086,7 @@
 75-34	11293-11306	meta-analysis	_
 75-35	11307-11308	.	_
 
+Text=Next, contiguous voxels within that anatomical region of cortex were identified that were significantly activated at the group level (all subjects combined) by biological motion relative to scrambled motion at a false discovery rate (FDR) of q <0.05 (Fig.
 76-1	11309-11313	Next	_
 76-2	11314-11315	,	_
 76-3	11316-11326	contiguous	_
@@ -2059,10 +2135,12 @@
 76-46	11567-11570	Fig	_
 76-47	11571-11572	.	_
 
+Text=2A).
 77-1	11573-11575	2A	_
 77-2	11576-11577	)	_
 77-3	11578-11579	.	_
 
+Text=Emo Bio task: Our primary analytic approach for the Emo Bio task was to use ROIs to focus on pSTS and amygdala.
 78-1	11580-11583	Emo	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 78-2	11584-11587	Bio	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 78-3	11588-11592	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -2088,6 +2166,7 @@
 78-23	11683-11691	amygdala	_
 78-24	11692-11693	.	_
 
+Text=The bilateral pSTS ROI was defined as outlined above and transformed to each individual's native space.
 79-1	11694-11697	The	_
 79-2	11698-11707	bilateral	_
 79-3	11708-11712	pSTS	_
@@ -2107,6 +2186,7 @@
 79-17	11792-11797	space	_
 79-18	11798-11799	.	_
 
+Text=Bilateral anatomical amygdala ROIs were created in individual native space based on the HarvardOxford subcortical probability atlas at a 25% probability threshold (Fig.
 80-1	11800-11809	Bilateral	_
 80-2	11810-11820	anatomical	_
 80-3	11821-11829	amygdala	_
@@ -2134,10 +2214,12 @@
 80-25	11966-11969	Fig	_
 80-26	11970-11971	.	_
 
+Text=3A).
 81-1	11972-11974	3A	_
 81-2	11975-11976	)	_
 81-3	11977-11978	.	_
 
+Text=First, separate 2 (Group) × 2 (Condition: all emotions vs. neutral) rmANOVAs were conducted on parameter estimates (i.e., beta values) for each ROI to compare within and between groups on fMRI activity during the task.
 82-1	11979-11984	First	_
 82-2	11985-11986	,	_
 82-3	11987-11995	separate	_
@@ -2184,6 +2266,7 @@
 82-44	12201-12205	task	_
 82-45	12206-12207	.	_
 
+Text=Follow-up 2 (Group) x 3 (Condition: separate emotions) rmANOVAs were conducted for each ROI to explore ROI activity by emotion.
 83-1	12208-12217	Follow-up	_
 83-2	12218-12219	2	_
 83-3	12220-12221	(	_
@@ -2211,6 +2294,7 @@
 83-25	12332-12339	emotion	_
 83-26	12340-12341	.	_
 
+Text=A two-tailed significance threshold of p <.05 was applied, with additional weight given to any findings with an effect size of medium or greater.
 84-1	12342-12343	A	_
 84-2	12344-12354	two-tailed	_
 84-3	12355-12367	significance	_
@@ -2239,6 +2323,7 @@
 84-26	12481-12488	greater	_
 84-27	12489-12490	.	_
 
+Text=A secondary voxel-wise whole-brain analysis was conducted using FSL.
 85-1	12491-12492	A	_
 85-2	12493-12502	secondary	_
 85-3	12503-12513	voxel-wise	_
@@ -2250,6 +2335,7 @@
 85-9	12555-12558	FSL	_
 85-10	12559-12560	.	_
 
+Text=Within- and between-group averages for contrasts of interest were compared using mixed effects analysis via the FLAME (FMRIB's Local Analysis of Mixed Effects) stage 1 module.
 86-1	12561-12568	Within-	_
 86-2	12569-12572	and	_
 86-3	12573-12586	between-group	_
@@ -2281,6 +2367,7 @@
 86-29	12732-12738	module	_
 86-30	12739-12740	.	_
 
+Text=Variance estimates were calculated for each group separately.
 87-1	12741-12749	Variance	_
 87-2	12750-12759	estimates	_
 87-3	12760-12764	were	_
@@ -2291,6 +2378,7 @@
 87-8	12791-12801	separately	_
 87-9	12802-12803	.	_
 
+Text=Clusters exceeding a height threshold of Z> 2.3 and a cluster probability of p <.05, corrected for whole-brain multiple comparisons are reported.
 88-1	12804-12812	Clusters	_
 88-2	12813-12822	exceeding	_
 88-3	12823-12824	a	_
@@ -2318,6 +2406,7 @@
 88-25	12943-12951	reported	_
 88-26	12952-12953	.	_
 
+Text=We examined functional connectivity during the emotion conditions (excluding the neutral condition) between pSTS as a seed region and amygdala, and between pSTS and the rest of the brain.
 89-1	12954-12956	We	_
 89-2	12957-12965	examined	_
 89-3	12966-12976	functional	_
@@ -2352,6 +2441,7 @@
 89-32	13138-13143	brain	_
 89-33	13144-13145	.	_
 
+Text=Individual subject time courses from the Emo Bio task were extracted from the preprocessed data for each subject's pSTS ROI.
 90-1	13146-13156	Individual	_
 90-2	13157-13164	subject	_
 90-3	13165-13169	time	_
@@ -2375,6 +2465,7 @@
 90-21	13267-13270	ROI	_
 90-22	13271-13272	.	_
 
+Text=The time course was then entered into individual subject general linear models in FSL as a psychophysiological interaction with the combined emotion conditions.
 91-1	13273-13276	The	_
 91-2	13277-13281	time	_
 91-3	13282-13288	course	_
@@ -2400,6 +2491,7 @@
 91-23	13422-13432	conditions	_
 91-24	13433-13434	.	_
 
+Text=The neutral condition was entered as a separate regressor to account for variance associated with that condition.
 92-1	13435-13438	The	_
 92-2	13439-13446	neutral	_
 92-3	13447-13456	condition	_
@@ -2419,6 +2511,7 @@
 92-17	13538-13547	condition	_
 92-18	13548-13549	.	_
 
+Text=For the whole-brain voxel-wise connectivity analysis, within and between groups averages were compared using mixed effects analysis via FLAME stage 1 module using the same significance thresholds as the whole-brain GLM analysis.
 93-1	13550-13553	For	_
 93-2	13554-13557	the	_
 93-3	13558-13569	whole-brain	_

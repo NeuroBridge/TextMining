@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Disrupted modular organization of primary sensory brain areas in schizophrenia Abnormal brain resting-state functional connectivity has been consistently observed in patients affected by schizophrenia (SCZ) using functional MRI and other neuroimaging techniques.
 1-1	0-9	Disrupted	_
 1-2	10-17	modular	_
 1-3	18-30	organization	_
@@ -38,6 +39,7 @@
 1-34	253-263	techniques	_
 1-35	264-265	.	_
 
+Text=Graph theoretical methods provide a framework to investigate these defective functional interactions and their effects on the organization of brain connectivity networks.
 2-1	266-271	Graph	_
 2-2	272-283	theoretical	_
 2-3	284-291	methods	_
@@ -62,6 +64,7 @@
 2-22	427-435	networks	_
 2-23	436-437	.	_
 
+Text=A few studies have shown altered distribution of connectivity within and between functional modules in SCZ patients, an indication of imbalanced functional segregation ad integration.
 3-1	438-439	A	_
 3-2	440-443	few	_
 3-3	444-451	studies	_
@@ -90,6 +93,7 @@
 3-26	610-621	integration	_
 3-27	622-623	.	_
 
+Text=However, no major alterations of modular organization have been reported in patients, and unambiguous identification of the neural substrates affected remains elusive.
 4-1	624-631	However	_
 4-2	632-633	,	_
 4-3	634-636	no	_
@@ -116,6 +120,7 @@
 4-24	785-792	elusive	_
 4-25	793-794	.	_
 
+Text=Recently, it has been demonstrated that current modularity analysis methods suffer from a fundamental and severe resolution limit, as they fail to detect features that are smaller than a scale determined by the size of the entire connectivity network.
 5-1	795-803	Recently	_
 5-2	804-805	,	_
 5-3	806-808	it	_
@@ -159,6 +164,7 @@
 5-41	1040-1047	network	_
 5-42	1048-1049	.	_
 
+Text=This resolution limit is likely to have hampered the ability to resolve differences between patients and controls in previous studies.
 6-1	1050-1054	This	_
 6-2	1055-1065	resolution	_
 6-3	1066-1071	limit	_
@@ -181,6 +187,7 @@
 6-20	1176-1183	studies	_
 6-21	1184-1185	.	_
 
+Text=Here, we apply Surprise, a novel resolution limit-free approach, to study the modular organization of resting state functional connectivity networks in a large cohort of SCZ patients and in matched healthy controls.
 7-1	1186-1190	Here	_
 7-2	1191-1192	,	_
 7-3	1193-1195	we	_
@@ -218,6 +225,7 @@
 7-35	1395-1403	controls	_
 7-36	1404-1405	.	_
 
+Text=Leveraging these important methodological advances we find new evidence of substantial fragmentation and reorganization involving primary sensory, auditory and visual areas in SCZ patients.
 8-1	1406-1416	Leveraging	_
 8-2	1417-1422	these	_
 8-3	1423-1432	important	_
@@ -245,6 +253,7 @@
 8-25	1587-1595	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-26	1596-1597	.	_
 
+Text=Conversely, frontal and prefrontal areas, typically associated with higher cognitive functions, appear to be largely unaffected, with changes selectively involving language and speech processing areas.
 9-1	1598-1608	Conversely	_
 9-2	1609-1610	,	_
 9-3	1611-1618	frontal	_
@@ -276,6 +285,7 @@
 9-29	1797-1802	areas	_
 9-30	1803-1804	.	_
 
+Text=Our findings support the hypothesis that cognitive dysfunction in SCZ may involve deficits occurring already at early stages of sensory processing.
 10-1	1805-1808	Our	_
 10-2	1809-1817	findings	_
 10-3	1818-1825	support	_
@@ -299,6 +309,7 @@
 10-21	1941-1951	processing	_
 10-22	1952-1953	.	_
 
+Text=Materials and methods Participants MRI data from 78 patients with schizophrenia strict diagnosis (DSM IV) SCZ and 91 healthy controls (CON) were downloaded from the open COBRE database (http: //fcon_1000.projects.nitrc.org/indi/retro/cobre.html).
 11-1	1954-1963	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	1964-1967	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	1968-1975	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -338,6 +349,7 @@
 11-37	2205-2206	)	_
 11-38	2207-2208	.	_
 
+Text=Age ranged from 18 to 65 years in both groups.
 12-1	2209-2212	Age	_
 12-2	2213-2219	ranged	_
 12-3	2220-2224	from	_
@@ -350,6 +362,7 @@
 12-10	2248-2254	groups	_
 12-11	2255-2256	.	_
 
+Text=There was no significant mean age difference between the two populations (t-test, p-value = 0.52).
 13-1	2257-2262	There	_
 13-2	2263-2266	was	_
 13-3	2267-2269	no	_
@@ -370,6 +383,7 @@
 13-18	2356-2357	)	_
 13-19	2358-2359	.	_
 
+Text=28% of patients were scanned within a year from diagnosis, 54% between 1 and 5 years, the remaining ones after 5 years.
 14-1	2360-2362	28	_
 14-2	2363-2364	%	_
 14-3	2365-2367	of	_
@@ -398,6 +412,7 @@
 14-26	2477-2482	years	_
 14-27	2483-2484	.	_
 
+Text=Participant demographics are reported in Table 1.
 15-1	2485-2496	Participant	_
 15-2	2497-2509	demographics	_
 15-3	2510-2513	are	_
@@ -407,6 +422,7 @@
 15-7	2532-2533	1	_
 15-8	2534-2535	.	_
 
+Text=All subjects in the COBRE were screened and excluded if they had history of neurological disorder, history of mental retardation, history of severe head trauma with> 5 minutes loss of consciousness, history of substance abuse or dependence within the last 12 months.
 16-1	2536-2539	All	_
 16-2	2540-2548	subjects	_
 16-3	2549-2551	in	_
@@ -455,6 +471,7 @@
 16-46	2799-2805	months	_
 16-47	2806-2807	.	_
 
+Text=Ethical statements are contained in the original publication of this dataset: informed consent was obtained from all subjects according to institutional guidelines at the University of New Mexico Human Research Protections Office, and all data were anonymized prior to group analysis.
 17-1	2808-2815	Ethical	_
 17-2	2816-2826	statements	_
 17-3	2827-2830	are	_
@@ -500,6 +517,7 @@
 17-43	3085-3093	analysis	_
 17-44	3094-3095	.	_
 
+Text=Patients were treated with one of the three atypical antipsychotics, olanzapine, risperidone or ziprasidone, and had retrospective and prospective clinical stability.
 18-1	3096-3104	Patients	_
 18-2	3105-3109	were	_
 18-3	3110-3117	treated	_
@@ -526,6 +544,7 @@
 18-24	3255-3264	stability	_
 18-25	3265-3266	.	_
 
+Text=None of the patients was under mood stabilizing treatment at the time of study.
 19-1	3267-3271	None	_
 19-2	3272-3274	of	_
 19-3	3275-3278	the	_
@@ -542,6 +561,7 @@
 19-14	3340-3345	study	_
 19-15	3346-3347	.	_
 
+Text=fMRI acquisition and pre-processing Images were acquired with a Siemens MIND TRIO 3 T scanner equipped for echo-planar imaging (EPI).
 20-1	3348-3352	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 20-2	3353-3364	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 20-3	3365-3368	and	_
@@ -566,6 +586,7 @@
 20-22	3481-3482	)	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 20-23	3483-3484	.	_
 
+Text=Echo-planar imaging was used for resting state fMRI data collection with (Repetition Time) TR = 2 s, (Echo Time) TE = 29 ms, matrix size: 64 × 64, slices = 33, voxel size = 3 × 3 × 4 mm3 (for more details see).
 21-1	3485-3496	Echo-planar	_
 21-2	3497-3504	imaging	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 21-3	3505-3508	was	_
@@ -623,6 +644,7 @@
 21-55	3704-3705	)	_
 21-56	3706-3707	.	_
 
+Text=A total of 150 volumes of functional images were obtained for all subjects except one (this subject was excluded from the present study).
 22-1	3708-3709	A	_
 22-2	3710-3715	total	_
 22-3	3716-3718	of	_
@@ -650,6 +672,7 @@
 22-25	3845-3846	)	_
 22-26	3847-3848	.	_
 
+Text=The data were pre-processed using SPM8 (Wellcome Trust Centre for Neuroimaging, London, UK).
 23-1	3849-3852	The	_
 23-2	3853-3857	data	_
 23-3	3858-3862	were	_
@@ -669,6 +692,7 @@
 23-17	3943-3944	)	_
 23-18	3945-3946	.	_
 
+Text=After discarding the four initial volumes, the remaining volumes were corrected for slice timing, head-motion realigned (translational displacement and rotation along and around X, Y and Z axes) and normalized to the standard MNI EPI template space (voxel-size re-sampled to 3 × 3 × 3 mm3).
 24-1	3947-3952	After	_
 24-2	3953-3963	discarding	_
 24-3	3964-3967	the	_
@@ -724,6 +748,7 @@
 24-53	4242-4243	)	_
 24-54	4244-4245	.	_
 
+Text=Means and standard deviations of motion parameters extracted with SPM for each subject included in this study are shown in the Supplementary information section (Fig.
 25-1	4246-4251	Means	_
 25-2	4252-4255	and	_
 25-3	4256-4264	standard	_
@@ -752,10 +777,12 @@
 25-26	4409-4412	Fig	_
 25-27	4413-4414	.	_
 
+Text=S5).
 26-1	4415-4417	S5	_
 26-2	4418-4419	)	_
 26-3	4420-4421	.	_
 
+Text=Given the impact of motion on functional connectivity measures, and the potential confounds arising from differential motion across experimental groups, we assessed the effects of movement for each subject in the SZ and healthy control groups.
 27-1	4422-4427	Given	_
 27-2	4428-4431	the	_
 27-3	4432-4438	impact	_
@@ -796,6 +823,7 @@
 27-38	4660-4666	groups	_
 27-39	4667-4668	.	_
 
+Text=Analysis of motion parameters did not show any significant difference between groups (z translation: p = 0.265; y translation: p = 0.525; x translation: p = 0.2446; x rotation: p = 0.245; y rotation: p = 0.652; z rotation: p = 0.194).
 28-1	4669-4677	Analysis	_
 28-2	4678-4680	of	_
 28-3	4681-4687	motion	_
@@ -853,6 +881,7 @@
 28-55	4914-4915	)	_
 28-56	4916-4917	.	_
 
+Text=Additionally, Framewise Displacement (FD) and DVARS, two indices of data quality, were computed following.
 29-1	4918-4930	Additionally	_
 29-2	4931-4932	,	_
 29-3	4933-4942	Framewise	_
@@ -874,6 +903,7 @@
 29-19	5019-5028	following	_
 29-20	5029-5030	.	_
 
+Text=FD is a measure of head motion between subsequent volumes, whereas DVARS is an index of signal intensity changes across volumes.
 30-1	5031-5033	FD	_
 30-2	5034-5036	is	_
 30-3	5037-5038	a	_
@@ -898,6 +928,7 @@
 30-22	5152-5159	volumes	_
 30-23	5160-5161	.	_
 
+Text=No outliers were identified in either group, nor significant between-group differences were observed in these metrics, and in the number and extent of motion-related spikes (Table S1 in the Supplementary information section).
 31-1	5162-5164	No	_
 31-2	5165-5173	outliers	_
 31-3	5174-5178	were	_
@@ -936,6 +967,7 @@
 31-36	5389-5390	)	_
 31-37	5391-5392	.	_
 
+Text=In the light of this analysis we did not apply frame censoring to avoid loss of information and decrease of temporal degrees of freedom.
 32-1	5393-5395	In	_
 32-2	5396-5399	the	_
 32-3	5400-5405	light	_
@@ -962,6 +994,7 @@
 32-24	5521-5528	freedom	_
 32-25	5529-5530	.	_
 
+Text=However, we performed community detection in a subgroup of patients (61) selected by stricter motion criteria (i.e.
 33-1	5531-5538	However	_
 33-2	5539-5540	,	_
 33-3	5541-5543	we	_
@@ -985,6 +1018,7 @@
 33-21	5646-5649	i.e	_
 33-22	5650-5651	.	_
 
+Text=removing subjects with relative movement> 0.5 mm) to further rule out effects of differential motion (see Discussion and Supplementary information section).
 34-1	5652-5660	removing	_
 34-2	5661-5669	subjects	_
 34-3	5670-5674	with	_
@@ -1012,6 +1046,7 @@
 34-25	5810-5811	)	_
 34-26	5812-5813	.	_
 
+Text=Comparisons of motion parameters, DVARS and FD for the experimental groups are reported in the Supplementary materials section.
 35-1	5814-5825	Comparisons	_
 35-2	5826-5828	of	_
 35-3	5829-5835	motion	_
@@ -1033,6 +1068,7 @@
 35-19	5934-5941	section	_
 35-20	5942-5943	.	_
 
+Text=Adjacency matrices and connectivity parameters For each participant, 638 regional mean time series were computed by averaging the voxel time series within each of the parcellized areas of the template described in.
 36-1	5944-5953	Adjacency	_
 36-2	5954-5962	matrices	_
 36-3	5963-5966	and	_
@@ -1068,6 +1104,7 @@
 36-33	6156-6158	in	_
 36-34	6159-6160	.	_
 
+Text=After regressing movement parameters, we estimated the connectivity matrix by computing pairwise inter-regional correlation for each individual.
 37-1	6161-6166	After	_
 37-2	6167-6177	regressing	_
 37-3	6178-6186	movement	_
@@ -1088,6 +1125,7 @@
 37-18	6295-6305	individual	_
 37-19	6306-6307	.	_
 
+Text=In order to compute group-level connectivity matrices, individual correlation matrices were Fisher-transformed and averaged by group.
 38-1	6308-6310	In	_
 38-2	6311-6316	order	_
 38-3	6317-6319	to	_
@@ -1107,6 +1145,7 @@
 38-17	6436-6441	group	_
 38-18	6442-6443	.	_
 
+Text=Several critiques of correlation as a measure of functional connectivity have been proposed, but this definition is the most widely accepted choice, and we have adopted it to ensure comparability of our results with previous studies.
 39-1	6444-6451	Several	_
 39-2	6452-6461	critiques	_
 39-3	6462-6464	of	_
@@ -1147,6 +1186,7 @@
 39-38	6671-6678	studies	_
 39-39	6679-6680	.	_
 
+Text=From the adjacency matrix, we extracted the distribution of z-score (corresponding to the weighted edges of our network), and we computed nodal and global measures of connectivity to compare this dataset with those used in previous studies.
 40-1	6681-6685	From	_
 40-2	6686-6689	the	_
 40-3	6690-6699	adjacency	_
@@ -1190,6 +1230,7 @@
 40-41	6917-6924	studies	_
 40-42	6925-6926	.	_
 
+Text=The degree of a node represents the number of connections towards the other nodes.
 41-1	6927-6930	The	_
 41-2	6931-6937	degree	_
 41-3	6938-6940	of	_
@@ -1206,6 +1247,7 @@
 41-14	7003-7008	nodes	_
 41-15	7009-7010	.	_
 
+Text=The network density indicates the ratio between the connections in the matrix and all possible connection.
 42-1	7011-7014	The	_
 42-2	7015-7022	network	_
 42-3	7023-7030	density	_
@@ -1224,6 +1266,7 @@
 42-16	7106-7116	connection	_
 42-17	7117-7118	.	_
 
+Text=Global efficiency represents the average of the inverse shortest weighted path lengths connecting every pair of nodes, and is inversely related to the network characteristic path length.
 43-1	7119-7125	Global	_
 43-2	7126-7136	efficiency	_
 43-3	7137-7147	represents	_
@@ -1254,6 +1297,7 @@
 43-28	7299-7305	length	_
 43-29	7306-7307	.	_
 
+Text=The weighted global efficiency can be written as: where dijw is the weighted shortest-path length between node i and node j of a graph with n nodes.
 44-1	7308-7311	The	_
 44-2	7312-7320	weighted	_
 44-3	7321-7327	global	_
@@ -1284,6 +1328,7 @@
 44-28	7451-7456	nodes	_
 44-29	7457-7458	.	_
 
+Text=Weighted local efficiency quantifies a network's resistance to failure on a local scale.
 45-1	7459-7467	Weighted	_
 45-2	7468-7473	local	_
 45-3	7474-7484	efficiency	_
@@ -1300,6 +1345,7 @@
 45-14	7542-7547	scale	_
 45-15	7548-7549	.	_
 
+Text=The definition of weighted local efficiency used in this manuscript is the one given by.
 46-1	7550-7553	The	_
 46-2	7554-7564	definition	_
 46-3	7565-7567	of	_
@@ -1317,6 +1363,7 @@
 46-15	7635-7637	by	_
 46-16	7638-7639	.	_
 
+Text=Asymptotical Surprise The quality function that we chose to determine community structure in this study is Asymptotical Surprise, a recently developed approach rooted in information theory that aims to encode the relative entropy between the observed intracluster density and its expected value as on the basis of a null model.
 47-1	7640-7652	Asymptotical	_
 47-2	7653-7661	Surprise	_
 47-3	7662-7665	The	_
@@ -1370,6 +1417,7 @@
 47-51	7962-7967	model	_
 47-52	7968-7969	.	_
 
+Text=Asymptotical Surprise was recently shown to be quasi-resolution-limit free, and to provide improved means to resolve the modular structure of complex networks of brain functional connectivity.
 48-1	7970-7982	Asymptotical	_
 48-2	7983-7991	Surprise	_
 48-3	7992-7995	was	_
@@ -1399,6 +1447,7 @@
 48-27	8150-8162	connectivity	_
 48-28	8163-8164	.	_
 
+Text=Asymptotical Surprise is defined as: where m is the sum of all edge weights, mζ is the sum of intracluster edge weights, p is the total number of possible links, pζ is the total sum of possible intracluster links.
 49-1	8165-8177	Asymptotical	_
 49-2	8178-8186	Surprise	_
 49-3	8187-8189	is	_
@@ -1444,6 +1493,7 @@
 49-43	8376-8381	links	_
 49-44	8382-8383	.	_
 
+Text=Optimization of Asymptotical Surprise was carried out by means of PACO (PArtitioning Cost Optimization), an iterative agglomerative algorithm built on a variation of the Kruskal algorithm for minimum spanning trees.
 50-1	8384-8396	Optimization	_
 50-2	8397-8399	of	_
 50-3	8400-8412	Asymptotical	_
@@ -1479,6 +1529,7 @@
 50-33	8596-8601	trees	_
 50-34	8602-8603	.	_
 
+Text=We have recently shown that maximization of Asymptotical Surprise enables detection of heterogeneously distributed communities, thus making it possible to resolve differences in the modular organization of different networks representing functional connectivity in different subjects or experimental groups.
 51-1	8604-8606	We	_
 51-2	8607-8611	have	_
 51-3	8612-8620	recently	_
@@ -1520,6 +1571,7 @@
 51-39	8905-8911	groups	_
 51-40	8912-8913	.	_
 
+Text=A MATLAB toolbox including binary and weighted versions of Surprise optimization is available upon request at http: //forms.iit.it/view.php? id=68447.
 52-1	8914-8915	A	_
 52-2	8916-8922	MATLAB	_
 52-3	8923-8930	toolbox	_
@@ -1543,6 +1595,7 @@
 52-21	9057-9065	id=68447	_
 52-22	9066-9067	.	_
 
+Text=PACO is a non-deterministic heuristic, like many other methods used to maximize quality functions for community detection.
 53-1	9068-9072	PACO	_
 53-2	9073-9075	is	_
 53-3	9076-9077	a	_
@@ -1563,6 +1616,7 @@
 53-18	9181-9190	detection	_
 53-19	9191-9192	.	_
 
+Text=This means that multiple runs of PACO on the same graph may yield slightly different resulting partitions.
 54-1	9193-9197	This	_
 54-2	9198-9203	means	_
 54-3	9204-9208	that	_
@@ -1582,6 +1636,7 @@
 54-17	9288-9298	partitions	_
 54-18	9299-9300	.	_
 
+Text=In this study, we used 1000 runs and picked the partition with the highest value of Asymptotical Surprise.
 55-1	9301-9303	In	_
 55-2	9304-9308	this	_
 55-3	9309-9314	study	_
@@ -1603,6 +1658,7 @@
 55-19	9399-9407	Surprise	_
 55-20	9408-9409	.	_
 
+Text=As shown in, Asymptotical Surprise does not suffer from degeneracy of nearly optimal solutions, and is characterized by a sharply distinct global optimum.
 56-1	9410-9412	As	_
 56-2	9413-9418	shown	_
 56-3	9419-9421	in	_
@@ -1630,6 +1686,7 @@
 56-25	9558-9565	optimum	_
 56-26	9566-9567	.	_
 
+Text=Hence, there is no need to determine a consensus solution over an ensemble of different nearly optimal partitions with similarly large values of the fitness function, and the solutions with the highest value of Asymptotical Surprise were selected.
 57-1	9568-9573	Hence	_
 57-2	9574-9575	,	_
 57-3	9576-9581	there	_
@@ -1672,6 +1729,7 @@
 57-40	9808-9816	selected	_
 57-41	9817-9818	.	_
 
+Text=All visual representations of the anatomical distribution of modules and topological parameters were produced using the BrainNet viewer toolbox.
 58-1	9819-9822	All	_
 58-2	9823-9829	visual	_
 58-3	9830-9845	representations	_
@@ -1693,6 +1751,7 @@
 58-19	9955-9962	toolbox	_
 58-20	9963-9964	.	_
 
+Text=Percolation analysis In weighted networks, sparsification procedures are often applied to remove the weakest edges, which are the most affected by experimental noise, and to reduce the density of the graph, thus making it theoretically and computationally more tractable.
 59-1	9965-9976	Percolation	_
 59-2	9977-9985	analysis	_
 59-3	9986-9988	In	_
@@ -1738,6 +1797,7 @@
 59-43	10230-10239	tractable	_
 59-44	10240-10241	.	_
 
+Text=To this end, we used a percolation analysis approach.
 60-1	10242-10244	To	_
 60-2	10245-10249	this	_
 60-3	10250-10253	end	_
@@ -1750,6 +1810,7 @@
 60-10	10287-10295	approach	_
 60-11	10296-10297	.	_
 
+Text=This method, grounded in statistical physics, was first demonstrated in brain networks by, and previously applied to study phase transitions of connected subgraphs in random networks.
 61-1	10298-10302	This	_
 61-2	10303-10309	method	_
 61-3	10310-10311	,	_
@@ -1781,6 +1842,7 @@
 61-29	10475-10483	networks	_
 61-30	10484-10485	.	_
 
+Text=In brief, percolation analysis measures the size of the largest connected component of the network upon iterative removal of the weakest edges and enables data-driven determination of the optimal sparsification threshold that preserves network structure and connectedness while removing potentially spurious correlations.
 62-1	10486-10488	In	_
 62-2	10489-10494	brief	_
 62-3	10495-10496	,	_
@@ -1826,6 +1888,7 @@
 62-43	10795-10807	correlations	_
 62-44	10808-10809	.	_
 
+Text=In random graphs, the size of the largest connected component shows a sharp transition at some threshold value.
 63-1	10810-10812	In	_
 63-2	10813-10819	random	_
 63-3	10820-10826	graphs	_
@@ -1847,6 +1910,7 @@
 63-19	10916-10921	value	_
 63-20	10922-10923	.	_
 
+Text=Brain networks can exhibit multiple drops with increasing threshold, revealing a hierarchy of clusters.
 64-1	10924-10929	Brain	_
 64-2	10930-10938	networks	_
 64-3	10939-10942	can	_
@@ -1864,6 +1928,7 @@
 64-15	11019-11027	clusters	_
 64-16	11028-11029	.	_
 
+Text=The steeper the percolation curve, the more susceptible is the graph to break apart into subcomponents upon removal of weaker edges.
 65-1	11030-11033	The	_
 65-2	11034-11041	steeper	_
 65-3	11042-11045	the	_
@@ -1888,6 +1953,7 @@
 65-22	11157-11162	edges	_
 65-23	11163-11164	.	_
 
+Text=Based on these observations, we have recently demonstrated that a threshold just above the onset of fragmentation of the largest connected component strikes the optimal balance between removal of noise-induced spurious correlations and loss of information that may be contained in the discarded, weaker links.
 66-1	11165-11170	Based	_
 66-2	11171-11173	on	_
 66-3	11174-11179	these	_
@@ -1937,6 +2003,7 @@
 66-47	11470-11475	links	_
 66-48	11476-11477	.	_
 
+Text=Specifically, the percolation threshold maximizes information that can be extracted about the network's modular organization, simultaneously maximizing sensitivity and specificity in the assignment of nodes to different modules, as shown in synthetic networks endowed with a ground-truth community structure and in human resting state functional connectivity networks.
 67-1	11478-11490	Specifically	_
 67-2	11491-11492	,	_
 67-3	11493-11496	the	_
@@ -1990,6 +2057,7 @@
 67-51	11841-11849	networks	_
 67-52	11850-11851	.	_
 
+Text=Thresholding by percolation analysis has been previously applied in human and animal functional connectivity studies.
 68-1	11852-11864	Thresholding	_
 68-2	11865-11867	by	_
 68-3	11868-11879	percolation	_
@@ -2007,6 +2075,7 @@
 68-15	11961-11968	studies	_
 68-16	11969-11970	.	_
 
+Text=Percolation analysis was performed independently in the two groups prior to community detection by Asymptotical Surprise maximization.
 69-1	11971-11982	Percolation	_
 69-2	11983-11991	analysis	_
 69-3	11992-11995	was	_
@@ -2026,6 +2095,7 @@
 69-17	12092-12104	maximization	_
 69-18	12105-12106	.	_
 
+Text=This is an important conceptual step, as it overcomes a conundrum in the comparison between groups characterized by different connectivity strengths.
 70-1	12107-12111	This	_
 70-2	12112-12114	is	_
 70-3	12115-12117	an	_
@@ -2050,6 +2120,7 @@
 70-22	12247-12256	strengths	_
 70-23	12257-12258	.	_
 
+Text=In many previous studies, thresholds were determined by fixing the same edge densities in the connectivity graphs of the groups to be compared.
 71-1	12259-12261	In	_
 71-2	12262-12266	many	_
 71-3	12267-12275	previous	_
@@ -2076,6 +2147,7 @@
 71-24	12394-12402	compared	_
 71-25	12403-12404	.	_
 
+Text=However, constant edge density may bias group comparisons when the experimental groups exhibit intrinsic differences in connectivity strength, like in the present case.
 72-1	12405-12412	However	_
 72-2	12413-12414	,	_
 72-3	12415-12423	constant	_
@@ -2103,6 +2175,7 @@
 72-25	12570-12574	case	_
 72-26	12575-12576	.	_
 
+Text=Imposing equal densities for graphs describing connectivity in patients and controls may lead to the inclusion of a greater number of potentially spurious links in the group with weaker connectivity, and to the exclusion of topologically relevant links in the group with stronger connectivity.
 73-1	12577-12585	Imposing	_
 73-2	12586-12591	equal	_
 73-3	12592-12601	densities	_
@@ -2150,6 +2223,7 @@
 73-45	12858-12870	connectivity	_
 73-46	12871-12872	.	_
 
+Text=A higher proportion of spurious connection results in a more random network topology, and intergroup differences may just reflect different levels of noise, rather than genuine topological differences.
 74-1	12873-12874	A	_
 74-2	12875-12881	higher	_
 74-3	12882-12892	proportion	_
@@ -2182,6 +2256,7 @@
 74-30	13064-13075	differences	_
 74-31	13076-13077	.	_
 
+Text=Identification of optimal thresholds that maximize information about the modular organization of each group enables unbiased comparison of the two community structures.
 75-1	13078-13092	Identification	_
 75-2	13093-13095	of	_
 75-3	13096-13103	optimal	_
@@ -2206,6 +2281,7 @@
 75-22	13235-13245	structures	_
 75-23	13246-13247	.	_
 
+Text=It should be noted that modules are defined in terms of node membership and do not dependent on the total density of edges, but rather on the balance between inwards and outwards edges.
 76-1	13248-13250	It	_
 76-2	13251-13257	should	_
 76-3	13258-13260	be	_
@@ -2242,6 +2318,7 @@
 76-34	13428-13433	edges	_
 76-35	13434-13435	.	_
 
+Text=Community detection was performed on the thresholded group-level graphs maintaining the weight distribution above percolation threshold.
 77-1	13436-13445	Community	_
 77-2	13446-13455	detection	_
 77-3	13456-13459	was	_
@@ -2260,6 +2337,7 @@
 77-16	13562-13571	threshold	_
 77-17	13572-13573	.	_
 
+Text=In other words, graphs were not binarized after thresholding, as optimization of Asymptotical Surprise by PACO enables community detection in weighted graphs.
 78-1	13574-13576	In	_
 78-2	13577-13582	other	_
 78-3	13583-13588	words	_
@@ -2286,6 +2364,7 @@
 78-24	13727-13733	graphs	_
 78-25	13734-13735	.	_
 
+Text=Hence, the percolation threshold was applied solely for graph sparsification and removal of the noisiest edges.
 79-1	13736-13741	Hence	_
 79-2	13742-13743	,	_
 79-3	13744-13747	the	_
@@ -2305,6 +2384,7 @@
 79-17	13842-13847	edges	_
 79-18	13848-13849	.	_
 
+Text=A total of 8207 and 17,171 edges were retained after thresholding in the patient and control groups, respectively, corresponding to graph densities of 0.0404 and 0.0845.
 80-1	13850-13851	A	_
 80-2	13852-13857	total	_
 80-3	13858-13860	of	_
@@ -2335,6 +2415,7 @@
 80-28	14014-14020	0.0845	_
 80-29	14021-14022	.	_
 
+Text=Group level comparison After community detection by Asymptotical Surprise in the two populations (SCZ and CON), we computed the similarity between the extracted modular partitions in terms of normalized mutual information (NMI), and used an approach proposed by to test for statistical differences.
 81-1	14023-14028	Group	_
 81-2	14029-14034	level	_
 81-3	14035-14045	comparison	_
@@ -2386,6 +2467,7 @@
 81-49	14315-14326	differences	_
 81-50	14327-14328	.	_
 
+Text=This method is based on the idea that if variance in the community structure data is reliably explained by group membership, then the mean NMI between all possible pairs of participants within an experimental group should be higher than the mean NMI of pairs of participants from random groups.
 82-1	14329-14333	This	_
 82-2	14334-14340	method	_
 82-3	14341-14343	is	_
@@ -2438,6 +2520,7 @@
 82-50	14617-14623	groups	_
 82-51	14624-14625	.	_
 
+Text=As the underlying distribution of group means NMI is unknown, a null-distribution is generated through a permutation method between the two experimental groups (10,000 permutations).
 83-1	14626-14628	As	_
 83-2	14629-14632	the	_
 83-3	14633-14643	underlying	_
@@ -2468,6 +2551,7 @@
 83-28	14809-14810	)	_
 83-29	14811-14812	.	_
 
+Text=This approach was also applied to test for between-group differences in sub-networks defined by individual modules in the CON group partition.
 84-1	14813-14817	This	_
 84-2	14818-14826	approach	_
 84-3	14827-14830	was	_
@@ -2491,6 +2575,7 @@
 84-21	14945-14954	partition	_
 84-22	14955-14956	.	_
 
+Text=Participation coefficient To complete the investigation at the node level, we considered the alteration in node role between the two populations based on the differences in modular organization revealed by Asymptotical Surprise.
 85-1	14957-14970	Participation	_
 85-2	14971-14982	coefficient	_
 85-3	14983-14985	To	_
@@ -2526,6 +2611,7 @@
 85-33	15177-15185	Surprise	_
 85-34	15186-15187	.	_
 
+Text=To this end, we adopted Guimera and Amaral classification scheme, whereby nodes are classified by their within-community degree z (a measure of how well connected a node is to other nodes in the same community) and their participation coefficient P, a parameter that reflects the extent to which a node is connected to nodes in other modules.
 86-1	15188-15190	To	_
 86-2	15191-15195	this	_
 86-3	15196-15199	end	_
@@ -2590,6 +2676,7 @@
 86-62	15527-15534	modules	_
 86-63	15535-15536	.	_
 
+Text=P can be written as: where kic is the number of links of node i to nodes in module c, and ki is the total degree of node i.
 87-1	15537-15538	P	_
 87-2	15539-15542	can	_
 87-3	15543-15545	be	_
@@ -2623,6 +2710,7 @@
 87-31	15660-15661	i	_
 87-32	15662-15663	.	_
 
+Text=To assess statistical differences, we computed the P index of each node for each subjects and ran a t-test between groups, Bonferroni corrected.
 88-1	15664-15666	To	_
 88-2	15667-15673	assess	_
 88-3	15674-15685	statistical	_
@@ -2650,6 +2738,7 @@
 88-25	15800-15809	corrected	_
 88-26	15810-15811	.	_
 
+Text=Node-wise statistical significance was parametrically mapped on the MRI template.
 89-1	15812-15821	Node-wise	_
 89-2	15822-15833	statistical	_
 89-3	15834-15846	significance	_
@@ -2662,6 +2751,7 @@
 89-10	15884-15892	template	_
 89-11	15893-15894	.	_
 
+Text=Cognitive scores We selected three tests probing different cognitive domains and available in the COBRE database for all patients included in this study: the Brief Assessment of Cognition in Schizophrenia (BACS), the Mazes test from the Neuropsychological Assessment Battery (NAB), and the Brief Visuospatial Memory Test (BVMT).
 90-1	15895-15904	Cognitive	_
 90-2	15905-15911	scores	_
 90-3	15912-15914	We	_
@@ -2720,6 +2810,7 @@
 90-56	16230-16231	)	http://maven.renci.org/NeuroBridge/neurobridge#SpatialWorkingMemory
 90-57	16232-16233	.	_
 
+Text=The BACS includes assessments of verbal memory, working memory, verbal fluency, attention and executive function.
 91-1	16234-16237	The	_
 91-2	16238-16242	BACS	_
 91-3	16243-16251	includes	_
@@ -2740,6 +2831,7 @@
 91-18	16341-16349	function	_
 91-19	16350-16351	.	_
 
+Text=The NAB-Mazes test measures aspects of executive function often impaired in SZ patients.
 92-1	16352-16355	The	_
 92-2	16356-16365	NAB-Mazes	_
 92-3	16366-16370	test	_
@@ -2755,6 +2847,7 @@
 92-13	16431-16439	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 92-14	16440-16441	.	_
 
+Text=The BVMT measures visuospatial learning performance; processing speed has been shown to be a predictor of performance in the BVMT.
 93-1	16442-16445	The	_
 93-2	16446-16450	BVMT	_
 93-3	16451-16459	measures	_
@@ -2778,6 +2871,7 @@
 93-21	16568-16572	BVMT	_
 93-22	16573-16574	.	_
 
+Text=We performed multiple regression analysis of subject-wise Global Efficiency and slope of the correlation curve (extracted by fitting a psychometric function) against the aggregated scores of these three tests.
 94-1	16575-16577	We	_
 94-2	16578-16587	performed	_
 94-3	16588-16596	multiple	_
@@ -2811,6 +2905,7 @@
 94-31	16780-16785	tests	_
 94-32	16786-16787	.	_
 
+Text=These parameters reflect the efficiency in information exchange across the network, and the “ fragility ” of its modular organization upon edge removal, respectively.
 95-1	16788-16793	These	_
 95-2	16794-16804	parameters	_
 95-3	16805-16812	reflect	_

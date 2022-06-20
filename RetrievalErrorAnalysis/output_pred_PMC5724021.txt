@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=The persuasion network is modulated by drug-use risk and predicts anti-drug message effectiveness Abstract While a persuasion network has been proposed, little is known about how network connections between brain regions contribute to attitude change.
 1-1	0-3	The	_
 1-2	4-14	persuasion	_
 1-3	15-22	network	_
@@ -40,6 +41,7 @@
 1-36	245-251	change	_
 1-37	252-253	.	_
 
+Text=Two possible mechanisms have been advanced.
 2-1	254-257	Two	_
 2-2	258-266	possible	_
 2-3	267-277	mechanisms	_
@@ -48,6 +50,7 @@
 2-6	288-296	advanced	_
 2-7	297-298	.	_
 
+Text=One hypothesis predicts that attitude change results from increased connectivity between structures implicated in affective and executive processing in response to increases in argument strength.
 3-1	299-302	One	_
 3-2	303-313	hypothesis	_
 3-3	314-322	predicts	_
@@ -75,6 +78,7 @@
 3-25	485-493	strength	_
 3-26	494-495	.	_
 
+Text=A second functional perspective suggests that highly arousing messages reduce connectivity between structures implicated in the encoding of sensory information, which disrupts message processing and thereby inhibits attitude change.
 4-1	496-497	A	_
 4-2	498-504	second	_
 4-3	505-515	functional	_
@@ -107,6 +111,7 @@
 4-30	722-728	change	_
 4-31	729-730	.	_
 
+Text=However, persuasion is a multi-determined construct that results from both message features and audience characteristics.
 5-1	731-738	However	_
 5-2	739-740	,	_
 5-3	741-751	persuasion	_
@@ -125,6 +130,7 @@
 5-16	837-852	characteristics	_
 5-17	853-854	.	_
 
+Text=Therefore, persuasive messages should lead to specific functional connectivity patterns among a priori defined structures within the persuasion network.
 6-1	855-864	Therefore	_
 6-2	865-866	,	_
 6-3	867-877	persuasive	_
@@ -147,6 +153,7 @@
 6-20	1000-1007	network	_
 6-21	1008-1009	.	_
 
+Text=The present study exposed 28 subjects to anti-drug public service announcements where arousal, argument strength, and subject drug-use risk were systematically varied.
 7-1	1010-1013	The	_
 7-2	1014-1021	present	_
 7-3	1022-1027	study	_
@@ -173,6 +180,7 @@
 7-24	1172-1178	varied	_
 7-25	1179-1180	.	_
 
+Text=Psychophysiological interaction analyses provide support for the affective-executive hypothesis but not for the encoding-disruption hypothesis.
 8-1	1181-1200	Psychophysiological	_
 8-2	1201-1212	interaction	_
 8-3	1213-1221	analyses	_
@@ -190,6 +198,7 @@
 8-15	1313-1323	hypothesis	_
 8-16	1324-1325	.	_
 
+Text=Secondary analyses show that video-level connectivity patterns among structures within the persuasion network predict audience responses in independent samples (one college-aged, one nationally representative).
 9-1	1326-1335	Secondary	_
 9-2	1336-1344	analyses	_
 9-3	1345-1349	show	_
@@ -219,6 +228,7 @@
 9-27	1537-1538	)	_
 9-28	1539-1540	.	_
 
+Text=We propose that persuasion neuroscience research is best advanced by considering network-level effects while accounting for interactions between message features and target audience characteristics.
 10-1	1541-1543	We	_
 10-2	1544-1551	propose	_
 10-3	1552-1556	that	_
@@ -245,6 +255,7 @@
 10-24	1723-1738	characteristics	_
 10-25	1739-1740	.	_
 
+Text=Methods Previous reporting and general method The subjects, materials, measures, experimental procedures, functional magnetic resonance imaging (fMRI) scanner parameters, and pre-processing pipeline used in this study are reported by.
 11-1	1741-1748	Methods	_
 11-2	1749-1757	Previous	_
 11-3	1758-1767	reporting	_
@@ -283,6 +294,7 @@
 11-36	1979-1981	by	_
 11-37	1982-1983	.	_
 
+Text=Briefly, the imaging data reported herein were pre-processed using FEAT (fMRI Expert Analysis Tool v6.0) from the Oxford Center for Functional MRI of the Brain (FMRIB) Software Library (FSL v5.0) using a standard pipeline.
 12-1	1984-1991	Briefly	_
 12-2	1992-1993	,	_
 12-3	1994-1997	the	_
@@ -326,6 +338,7 @@
 12-41	2204-2212	pipeline	_
 12-42	2213-2214	.	_
 
+Text=The study adopted a 2x2x2 mixed factorial design which manipulated AS (high/low) and MSV (high/low) as within-subjects factors and subject drug-use risk (high/low) as between-subjects factors.
 13-1	2215-2218	The	_
 13-2	2219-2224	study	_
 13-3	2225-2232	adopted	_
@@ -360,6 +373,7 @@
 13-32	2405-2412	factors	_
 13-33	2413-2414	.	_
 
+Text=A total of 28 subjects, split evenly among high/low drug-use risk (assessed using the risk for marijuana use scale), were exposed to 32 30-second anti-drug PSAs (drawn from the Annenberg School for Communication at the University of Pennsylvania antidrug PSA archive) and eight control conditions; four of which featured PSAs where the video and audio had been scrambled (thereby preserving luminosity, auditory levels, and low-level visual features such as cuts, but removing semantic meaning), and four that showed a black screen with no visual or auditory features.
 14-1	2415-2416	A	_
 14-2	2417-2422	total	_
 14-3	2423-2425	of	_
@@ -462,6 +476,7 @@
 14-100	2987-2995	features	_
 14-101	2996-2997	.	_
 
+Text=PSAs and control conditions were split evenly between two runs in a counterbalanced order.
 15-1	2998-3002	PSAs	_
 15-2	3003-3006	and	_
 15-3	3007-3014	control	_
@@ -478,6 +493,7 @@
 15-14	3082-3087	order	_
 15-15	3088-3089	.	_
 
+Text=Subjects in the fMRI sample (henceforth referred to as MRIS) were drawn from the undergraduate research pool at University of California, Santa Barbara M (s.d.
 16-1	3090-3098	Subjects	_
 16-2	3099-3101	in	_
 16-3	3102-3105	the	_
@@ -509,6 +525,7 @@
 16-29	3249-3252	s.d	_
 16-30	3253-3254	.	_
 
+Text=) age = 20.3 (1.5).
 17-1	3255-3256	)	_
 17-2	3257-3260	age	_
 17-3	3261-3262	=	_
@@ -518,6 +535,7 @@
 17-7	3274-3275	)	_
 17-8	3276-3277	.	_
 
+Text=Subjects did not show any contraindication to fMRI scanning.
 18-1	3278-3286	Subjects	_
 18-2	3287-3290	did	_
 18-3	3291-3294	not	_
@@ -529,6 +547,7 @@
 18-9	3329-3337	scanning	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 18-10	3338-3339	.	_
 
+Text=All procedures conformed to the Declaration of Helsinki and were approved by the University ’ s Institutional Research Board.
 19-1	3340-3343	All	_
 19-2	3344-3354	procedures	_
 19-3	3355-3364	conformed	_
@@ -550,6 +569,7 @@
 19-19	3459-3464	Board	_
 19-20	3465-3466	.	_
 
+Text=Subjects watched each PSA while undergoing fMRI scanning.
 20-1	3467-3475	Subjects	_
 20-2	3476-3483	watched	_
 20-3	3484-3488	each	_
@@ -560,6 +580,7 @@
 20-8	3515-3523	scanning	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 20-9	3524-3525	.	_
 
+Text=Participants provided a continuous response measure (CRM; not reported in this manuscript) of message convincingness (not at all convincing—very convincing) during the scanning session.
 21-1	3526-3538	Participants	_
 21-2	3539-3547	provided	_
 21-3	3548-3549	a	_
@@ -591,6 +612,7 @@
 21-29	3708-3715	session	_
 21-30	3716-3717	.	_
 
+Text=After the fMRI scan was complete, subjects were then exposed to the PSAs for a second time in a session that took place outside of the scanner.
 22-1	3718-3723	After	_
 22-2	3724-3727	the	_
 22-3	3728-3732	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -621,6 +643,7 @@
 22-28	3854-3861	scanner	_
 22-29	3862-3863	.	_
 
+Text=Self-report measures were collected during this session.
 23-1	3864-3875	Self-report	_
 23-2	3876-3884	measures	_
 23-3	3885-3889	were	_
@@ -630,6 +653,7 @@
 23-7	3912-3919	session	_
 23-8	3920-3921	.	_
 
+Text=Subjects rated each PSA on perceived argument strength (pAS) and perceived message sensation value (pMSV).
 24-1	3922-3930	Subjects	_
 24-2	3931-3936	rated	_
 24-3	3937-3941	each	_
@@ -651,6 +675,7 @@
 24-19	4030-4031	)	_
 24-20	4032-4033	.	_
 
+Text=Self-reported ratings of message effectiveness were evaluated using the perceived message effectiveness (PME) scale, which has been shown to correlate highly with actual PSA effectiveness and behavior change (Dillard et al.,).
 25-1	4034-4047	Self-reported	_
 25-2	4048-4055	ratings	_
 25-3	4056-4058	of	_
@@ -690,6 +715,7 @@
 25-37	4264-4265	)	_
 25-38	4266-4267	.	_
 
+Text=These PME ratings were drawn from two independent studies where subjects rated PME for each PSA.
 26-1	4268-4273	These	_
 26-2	4274-4277	PME	_
 26-3	4278-4285	ratings	_
@@ -708,6 +734,7 @@
 26-16	4360-4363	PSA	_
 26-17	4364-4365	.	_
 
+Text=The first sample (henceforth referred to as IS1) was among 599 college students M (s.d.
 27-1	4366-4369	The	_
 27-2	4370-4375	first	_
 27-3	4376-4382	sample	_
@@ -728,6 +755,7 @@
 27-18	4452-4455	s.d	_
 27-19	4456-4457	.	_
 
+Text=) age = 19.55 (2.12), 73.8% female.
 28-1	4458-4459	)	_
 28-2	4460-4463	age	_
 28-3	4464-4465	=	_
@@ -741,6 +769,7 @@
 28-11	4490-4496	female	_
 28-12	4497-4498	.	_
 
+Text=The second sample (IS2) was nationally representative of adolescents in the United States.
 29-1	4499-4502	The	_
 29-2	4503-4509	second	_
 29-3	4510-4516	sample	_
@@ -758,6 +787,7 @@
 29-15	4584-4590	States	_
 29-16	4591-4592	.	_
 
+Text=This sample (n = 601, Mage = 15.30, range 12–18) was balanced across males and females.
 30-1	4593-4597	This	_
 30-2	4598-4604	sample	_
 30-3	4605-4606	(	_
@@ -780,6 +810,7 @@
 30-20	4676-4683	females	_
 30-21	4684-4685	.	_
 
+Text=PPI analysis Whole-brain functional connectivity patterns for a set of structures in the persuasion network were evaluated using a series of PPI analyses.
 31-1	4686-4689	PPI	_
 31-2	4690-4698	analysis	_
 31-3	4699-4710	Whole-brain	_
@@ -805,6 +836,7 @@
 31-23	4831-4839	analyses	_
 31-24	4840-4841	.	_
 
+Text=As discussed above, the seed ROIs used in this study were selected a priori based on the empirical literature.
 32-1	4842-4844	As	_
 32-2	4845-4854	discussed	_
 32-3	4855-4860	above	_
@@ -827,6 +859,7 @@
 32-20	4942-4952	literature	_
 32-21	4953-4954	.	_
 
+Text=Seed ROIs were constructed in FSL by drawing a binary 5 mm sphere (in MNI152 space) around coordinates previously reported in the literature and included the medial prefrontal cortex (MPFC, −4, 56, −4), middle frontal and superior termporal gyri (MFG, 38, 30, 34; STG, 56, 4, −18), IFG (−46, 28, 12), and inferior lateral occipital cortex (iLOC, −32, −70, −16).
 33-1	4955-4959	Seed	_
 33-2	4960-4964	ROIs	_
 33-3	4965-4969	were	_
@@ -917,6 +950,7 @@
 33-88	5342-5343	)	_
 33-89	5344-5345	.	_
 
+Text=Time series data (PHYS) were extracted from filtered functional data for each subject for each run within each seed ROI by taking the arithmetic mean of all voxels within the corresponding binary mask.
 34-1	5346-5350	Time	_
 34-2	5351-5357	series	_
 34-3	5358-5362	data	_
@@ -954,6 +988,7 @@
 34-35	5544-5548	mask	_
 34-36	5549-5550	.	_
 
+Text=First-level PPI general linear models (GLMs) were then fit separately using each seed ROI.
 35-1	5551-5562	First-level	_
 35-2	5563-5566	PPI	_
 35-3	5567-5574	general	_
@@ -972,6 +1007,7 @@
 35-16	5639-5642	ROI	_
 35-17	5643-5644	.	_
 
+Text=Following established guidelines, each first-level GLM included explanatory variables (EVs) that encoded experimental conditions (i.e.
 36-1	5645-5654	Following	_
 36-2	5655-5666	established	_
 36-3	5667-5677	guidelines	_
@@ -993,6 +1029,7 @@
 36-19	5779-5782	i.e	_
 36-20	5783-5784	.	_
 
+Text=MSV High> MSV Low, AS High> AS Low), control conditions (C1 = scrambled, C2 = black screen), a PHYS EV, and two- and three-way condition by PHYS interaction terms (equation 1).
 37-1	5785-5788	MSV	_
 37-2	5789-5793	High	_
 37-3	5794-5795	>	_
@@ -1038,6 +1075,7 @@
 37-43	5971-5972	)	_
 37-44	5973-5974	.	_
 
+Text=Following a hybrid generalized PPI approach (gPPI), contrasts were constructed between interaction EV coefficients (e.g.
 38-1	5975-5984	Following	_
 38-2	5985-5986	a	_
 38-3	5987-5993	hybrid	_
@@ -1059,6 +1097,7 @@
 38-19	6095-6098	e.g	_
 38-20	6099-6100	.	_
 
+Text=AS × PHYS> C1 × PHYS).
 39-1	6101-6103	AS	_
 39-2	6104-6105	×	_
 39-3	6106-6110	PHYS	_
@@ -1069,6 +1108,7 @@
 39-8	6123-6124	)	_
 39-9	6125-6126	.	_
 
+Text=Importantly, while the full model was estimated, we deliberately do not consider the MSV × AS × PHYS> C1 × PHYS contrast.
 40-1	6127-6138	Importantly	_
 40-2	6139-6140	,	_
 40-3	6141-6146	while	_
@@ -1096,6 +1136,7 @@
 40-25	6242-6250	contrast	_
 40-26	6251-6252	.	_
 
+Text=The reason is that the sign of a three-way interaction does not have the same straightforward interpretation as a two-way interaction (where a positive sign indicates an increase and a negative sign a decrease in connectivity).
 41-1	6253-6256	The	_
 41-2	6257-6263	reason	_
 41-3	6264-6266	is	_
@@ -1136,6 +1177,7 @@
 41-38	6480-6481	)	_
 41-39	6482-6483	.	_
 
+Text=This renders any contrast of a three-way interaction EV coefficient nearly uninterpretable against a two-way interaction EV coefficient.
 42-1	6484-6488	This	_
 42-2	6489-6496	renders	_
 42-3	6497-6500	any	_
@@ -1156,6 +1198,7 @@
 42-18	6608-6619	coefficient	_
 42-19	6620-6621	.	_
 
+Text=Still, the analysis and results are appropriate given that we are replicating/extending existing hypotheses (i.e.
 43-1	6622-6627	Still	_
 43-2	6628-6629	,	_
 43-3	6630-6633	the	_
@@ -1175,6 +1218,7 @@
 43-17	6733-6736	i.e	_
 43-18	6737-6738	.	_
 
+Text=affective-executive, encoding-disruption) and their analytical paradigms.
 44-1	6739-6758	affective-executive	_
 44-2	6759-6760	,	_
 44-3	6761-6780	encoding-disruption	_
@@ -1185,6 +1229,7 @@
 44-8	6804-6813	paradigms	_
 44-9	6814-6815	.	_
 
+Text=A second-level analysis then combined runs for each subject in a fixed effects model.
 45-1	6816-6817	A	_
 45-2	6818-6830	second-level	_
 45-3	6831-6839	analysis	_
@@ -1201,6 +1246,7 @@
 45-14	6895-6900	model	_
 45-15	6901-6902	.	_
 
+Text=Finally, the interaction terms were analyzed in a series of third-level mixed effects models (FLAME 1).
 46-1	6903-6910	Finally	_
 46-2	6911-6912	,	_
 46-3	6913-6916	the	_
@@ -1222,6 +1268,7 @@
 46-19	7007-7008	)	_
 46-20	7009-7010	.	_
 
+Text=Subject drug-use risk (high/low) was specified as two groups in FSL ’ s FEAT tool (which lets variance estimates differ between groups), and then encoded using indicator variables.
 47-1	7011-7018	Subject	_
 47-2	7019-7027	drug-use	_
 47-3	7028-7032	risk	_
@@ -1257,6 +1304,7 @@
 47-33	7186-7195	variables	_
 47-34	7196-7197	.	_
 
+Text=Contrasts at the third-level assessed mean functional connectivity by risk group, as well as in the high-risk> low-risk and low-risk> high-risk contrasts.
 48-1	7198-7207	Contrasts	_
 48-2	7208-7210	at	_
 48-3	7211-7214	the	_
@@ -1284,6 +1332,7 @@
 48-25	7345-7354	contrasts	_
 48-26	7355-7356	.	_
 
+Text=A cluster-based procedure was applied to correct for multiple comparisons with a cluster defining threshold of Z = 2.3 and a cluster extent threshold of P <.05.
 49-1	7357-7358	A	_
 49-2	7359-7372	cluster-based	_
 49-3	7373-7382	procedure	_
@@ -1314,6 +1363,7 @@
 49-28	7514-7517	.05	_
 49-29	7518-7519	.	_
 
+Text=All structural localizations were identified using FSL ’ s probabilistic atlases and cross referenced with the Neurosynth database.
 50-1	7520-7523	All	_
 50-2	7524-7534	structural	_
 50-3	7535-7548	localizations	_
@@ -1334,6 +1384,7 @@
 50-18	7642-7650	database	_
 50-19	7651-7652	.	_
 
+Text=Network-as-predictor analysis The previous section described a classic PPI analysis where task-modulated neural activity in a seed ROI is fit to every other voxel in the brain.
 51-1	7653-7673	Network-as-predictor	_
 51-2	7674-7682	analysis	_
 51-3	7683-7686	The	_
@@ -1363,6 +1414,7 @@
 51-27	7823-7828	brain	_
 51-28	7829-7830	.	_
 
+Text=Our network-as-predictor analyses had different aims, and a different analytical approach.
 52-1	7831-7834	Our	_
 52-2	7835-7855	network-as-predictor	_
 52-3	7856-7864	analyses	_
@@ -1377,6 +1429,7 @@
 52-12	7913-7921	approach	_
 52-13	7922-7923	.	_
 
+Text=Here, we wanted to identify network connectivity patterns specific to each PSA and the degree to which variation in these patterns was predictive of PME in two independent samples.
 53-1	7924-7928	Here	_
 53-2	7929-7930	,	_
 53-3	7931-7933	we	_
@@ -1409,6 +1462,7 @@
 53-30	8097-8104	samples	_
 53-31	8105-8106	.	_
 
+Text=To do this, we modified the brain-as-predictor analytical paradigm.
 54-1	8107-8109	To	_
 54-2	8110-8112	do	_
 54-3	8113-8117	this	_
@@ -1421,6 +1475,7 @@
 54-10	8166-8174	paradigm	_
 54-11	8175-8176	.	_
 
+Text=Whereas earlier brain-as-predictor studies used signal change in seed ROIs for each video (e.g.)
 55-1	8177-8184	Whereas	_
 55-2	8185-8192	earlier	_
 55-3	8193-8211	brain-as-predictor	_
@@ -1439,6 +1494,7 @@
 55-16	8273-8274	.	_
 55-17	8275-8276	)	_
 
+Text=to predict message effectiveness in independent samples, we used connectivity parameter estimates (PEs) between seed and target ROIs.
 56-1	8277-8279	to	_
 56-2	8280-8287	predict	_
 56-3	8288-8295	message	_
@@ -1462,6 +1518,7 @@
 56-21	8408-8412	ROIs	_
 56-22	8413-8414	.	_
 
+Text=Our seed ROIs were the same as those reported above in the PPI Analysis section while target ROIs for the encoding-disruption and affective-executive hypotheses were selected based on previous empirical results and therefore represent connectivity patterns that have been reported in the literature.
 57-1	8415-8418	Our	_
 57-2	8419-8423	seed	_
 57-3	8424-8428	ROIs	_
@@ -1507,6 +1564,7 @@
 57-43	8703-8713	literature	_
 57-44	8714-8715	.	_
 
+Text=A full list of seeds and their corresponding target ROIs can be found in Table 1.
 58-1	8716-8717	A	_
 58-2	8718-8722	full	_
 58-3	8723-8727	list	_
@@ -1525,6 +1583,7 @@
 58-16	8795-8796	1	_
 58-17	8797-8798	.	_
 
+Text=Said differently, this seed-target ROI-based analysis examined how each PSA video modulated functional connectivity among a-priori defined structures within the persuasion network (for subjects in the MRIS sample) and the extent to which this variation was predictive of PME-ratings for each PSA in two large independent samples (IS1, IS2).
 59-1	8799-8803	Said	_
 59-2	8804-8815	differently	_
 59-3	8816-8817	,	_
@@ -1582,6 +1641,7 @@
 59-55	9143-9144	)	_
 59-56	9145-9146	.	_
 
+Text=To that end, a series of gPPI models were constructed for each of the seed ROIs defined above.
 60-1	9147-9149	To	_
 60-2	9150-9154	that	_
 60-3	9155-9158	end	_
@@ -1603,6 +1663,7 @@
 60-19	9236-9241	above	_
 60-20	9242-9243	.	_
 
+Text=The first-level models (one model for each subject for each run for each seed ROI) included EVs that encoded each PSA video and control condition (C1 = scrambled, C2 = black screen), a PHYS EV, and then interaction terms (Equation 2).
 61-1	9244-9247	The	_
 61-2	9248-9259	first-level	_
 61-3	9260-9266	models	_
@@ -1655,6 +1716,7 @@
 61-50	9485-9486	)	_
 61-51	9487-9488	.	_
 
+Text=Contrasts at the first-level followed a gPPI logic and were defined as: VideoN × PHYS> C1 × PHYS.
 62-1	9489-9498	Contrasts	_
 62-2	9499-9501	at	_
 62-3	9502-9505	the	_
@@ -1677,6 +1739,7 @@
 62-20	9583-9587	PHYS	_
 62-21	9588-9589	.	_
 
+Text=These contrasts of parameter estimates were then carried forward into two fixed-effects second-level analyses (one analysis for each run).
 63-1	9590-9595	These	_
 63-2	9596-9605	contrasts	_
 63-3	9606-9608	of	_
@@ -1700,6 +1763,7 @@
 63-21	9728-9729	)	_
 63-22	9730-9731	.	_
 
+Text=At the second-level, indicator variables encoded subject drug-use risk (high/low).
 64-1	9732-9734	At	_
 64-2	9735-9738	the	_
 64-3	9739-9751	second-level	_
@@ -1715,6 +1779,7 @@
 64-13	9815-9816	)	_
 64-14	9817-9818	.	_
 
+Text=Planned contrasts evaluated functional connectivity for each PSA by risk group.
 65-1	9819-9826	Planned	_
 65-2	9827-9836	contrasts	_
 65-3	9837-9846	evaluated	_
@@ -1728,6 +1793,7 @@
 65-11	9892-9897	group	_
 65-12	9898-9899	.	_
 
+Text=A 5 mm binary spherical mask was drawn for each a-priori defined target ROI.
 66-1	9900-9901	A	_
 66-2	9902-9903	5	_
 66-3	9904-9906	mm	_
@@ -1744,6 +1810,7 @@
 66-14	9972-9975	ROI	_
 66-15	9976-9977	.	_
 
+Text=Finally, FSL ’ s Featquery tool was used to extract median functional connectivity parameter estimates (PEs) between seed and target ROIs for each PSA for each of the second-level contrasts.
 67-1	9978-9985	Finally	_
 67-2	9986-9987	,	_
 67-3	9988-9991	FSL	_
@@ -1779,6 +1846,7 @@
 67-33	10161-10170	contrasts	_
 67-34	10171-10172	.	_
 
+Text=These parameter estimates represent the strength of functional connectivity between key structures in the persuasion network for each risk group, as modulated by each PSA.
 68-1	10173-10178	These	_
 68-2	10179-10188	parameter	_
 68-3	10189-10198	estimates	_
@@ -1807,6 +1875,7 @@
 68-26	10341-10344	PSA	_
 68-27	10345-10346	.	_
 
+Text=We then computed a zero order correlation matrix to examine the relationship between PEs and PME ratings in our two independent samples for each risk group.
 69-1	10347-10349	We	_
 69-2	10350-10354	then	_
 69-3	10355-10363	computed	_
@@ -1835,6 +1904,7 @@
 69-26	10497-10502	group	_
 69-27	10503-10504	.	_
 
+Text=We considered PEs that were significantly correlated with out-of-sample PME ratings as promising candidates in our network-as-predictor regression models.
 70-1	10505-10507	We	_
 70-2	10508-10518	considered	_
 70-3	10519-10522	PEs	_
@@ -1856,6 +1926,7 @@
 70-19	10652-10658	models	_
 70-20	10659-10660	.	_
 
+Text=The actual prediction regression models followed the analytical logic established in with one notable change: instead of transforming all PEs and PME evaluations into ranks for each PSA and risk group, we used the original unranked continuous data in our prediction models (making sure that no outliers were present).
 71-1	10661-10664	The	_
 71-2	10665-10671	actual	_
 71-3	10672-10682	prediction	_
@@ -1911,6 +1982,7 @@
 71-53	10980-10981	)	_
 71-54	10982-10983	.	_
 
+Text=Unranked data did not lead to any substantial differences (compared to ranked data) and in a few cases, our modified procedure was slightly more conservative (that is, it led to lower prediction accuracies).
 72-1	10984-10992	Unranked	_
 72-2	10993-10997	data	_
 72-3	10998-11001	did	_
@@ -1952,6 +2024,7 @@
 72-39	11195-11196	)	_
 72-40	11197-11198	.	_
 
+Text=As in our network-as-predictor analysis employed a step-wise regression procedure.
 73-1	11199-11201	As	_
 73-2	11202-11204	in	_
 73-3	11205-11208	our	_
@@ -1964,6 +2037,7 @@
 73-10	11271-11280	procedure	_
 73-11	11281-11282	.	_
 
+Text=In a first step we estimated baseline regression models which included the self-reported PSA evaluations in our MRIS sample that are known to be predictive from traditional persuasion theory (pMSV, pAS, and the pMSV × pAS interaction).
 74-1	11283-11285	In	_
 74-2	11286-11287	a	_
 74-3	11288-11293	first	_
@@ -2007,6 +2081,7 @@
 74-41	11520-11521	)	_
 74-42	11522-11523	.	_
 
+Text=All self-report predictors were group mean centered to reduce bias in predictor coefficients due to the inherent multicollinearity between main- and interaction-effect predictors.
 75-1	11524-11527	All	_
 75-2	11528-11539	self-report	_
 75-3	11540-11550	predictors	_
@@ -2032,6 +2107,7 @@
 75-23	11692-11702	predictors	_
 75-24	11703-11704	.	_
 
+Text=We then included the brain network PEs as predictors in a second step.
 76-1	11705-11707	We	_
 76-2	11708-11712	then	_
 76-3	11713-11721	included	_
@@ -2047,6 +2123,7 @@
 76-13	11770-11774	step	_
 76-14	11775-11776	.	_
 
+Text=This procedure allowed us to identify the network connectivity PEs that increased PME prediction accuracy above and beyond self-reported PSA evaluations.
 77-1	11777-11781	This	_
 77-2	11782-11791	procedure	_
 77-3	11792-11799	allowed	_

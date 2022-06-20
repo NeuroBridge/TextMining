@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Reading the (functional) writing on the (structural) wall: multimodal fusion of brain structural and function via a deep neural network based translation approach reveals novel impairments in schizophrenia This work presents a novel approach using a deep neural network for finding linkage/association between multimodal brain imaging data, such as structural MRI (sMRI) and functional MRI (fMRI).
 1-1	0-7	Reading	_
 1-2	8-11	the	_
 1-3	12-13	(	_
@@ -70,6 +71,7 @@
 1-66	405-406	)	_
 1-67	407-408	.	_
 
+Text=Motivated by the machine translation domain, we consider two different imaging views of the same brain like two different languages conveying some common facts that enables finding linkages between two modalities.
 2-1	409-418	Motivated	_
 2-2	419-421	by	_
 2-3	422-425	the	_
@@ -104,6 +106,7 @@
 2-32	612-622	modalities	_
 2-33	623-624	.	_
 
+Text=The proposed translation based fusion model contains a computing layer that learns “ alignments ” (or links) between dynamic connectivity features from fMRI data and static gray matter patterns from sMRI data.
 3-1	625-628	The	_
 3-2	629-637	proposed	_
 3-3	638-649	translation	_
@@ -140,6 +143,7 @@
 3-34	831-835	data	_
 3-35	836-837	.	_
 
+Text=The approach is evaluated on a multi-site dataset consisting of eye-closed resting state imaging data collected from 298 subjects (age- and gender matched 154 healthy controls and 144 patients with schizophrenia).
 4-1	838-841	The	_
 4-2	842-850	approach	_
 4-3	851-853	is	_
@@ -175,6 +179,7 @@
 4-33	1051-1052	)	_
 4-34	1053-1054	.	_
 
+Text=We used dynamic functional connectivity (dFNC) states as the functional features and ICA-based sources from gray matter densities as the structural features.
 5-1	1055-1057	We	_
 5-2	1058-1062	used	_
 5-3	1063-1070	dynamic	_
@@ -201,6 +206,7 @@
 5-24	1205-1213	features	_
 5-25	1214-1215	.	_
 
+Text=The dFNC states characterized by weakly correlated intrinsic connectivity networks (ICNs) were found to have stronger association with putamen and insular gray matter pattern, while the dFNC states of profuse strongly correlated ICNs exhibited stronger links with the gray matter pattern in precuneus, posterior cingulate cortex (PCC), and temporal cortex.
 6-1	1216-1219	The	_
 6-2	1220-1224	dFNC	_
 6-3	1225-1231	states	_
@@ -260,6 +266,7 @@
 6-57	1572-1578	cortex	_
 6-58	1579-1580	.	_
 
+Text=Further investigation with the estimated link strength (or alignment score) showed significant group differences between healthy controls and patients with schizophrenia in several key regions including temporal lobe, and linked these to connectivity states showing less occupancy in healthy controls.
 7-1	1581-1588	Further	_
 7-2	1589-1602	investigation	_
 7-3	1603-1607	with	_
@@ -305,6 +312,7 @@
 7-43	1876-1884	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 7-44	1885-1886	.	_
 
+Text=Moreover, this novel approach revealed significant correlation between a cognitive score (attention/vigilance) and the function/structure alignment score that was not detected when data modalities were considered separately.
 8-1	1887-1895	Moreover	_
 8-2	1896-1897	,	_
 8-3	1898-1902	this	_
@@ -337,6 +345,7 @@
 8-30	2103-2113	separately	_
 8-31	2114-2115	.	_
 
+Text=Materials and Methods We first briefly describe about data collection and preprocessing, and then the translation-based fusion model is explained in this section.
 9-1	2116-2125	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-2	2126-2129	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-3	2130-2137	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -363,6 +372,7 @@
 9-24	2271-2278	section	_
 9-25	2279-2280	.	_
 
+Text=Participants In this work, we perform analysis on two modalities of data, T1-weighted structural images and T2 * -weighted functional images.
 10-1	2281-2293	Participants	_
 10-2	2294-2296	In	_
 10-3	2297-2301	this	_
@@ -388,6 +398,7 @@
 10-23	2417-2423	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 10-24	2424-2425	.	_
 
+Text=The resting state fMRI data were collected from 154 healthy controls (110 males, 44 females; mean age 37) and 144 schizophrenic patients (110 males, 34 females; mean age 38) during eye closed condition at seven different scanning sites.
 11-1	2426-2429	The	_
 11-2	2430-2437	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 11-3	2438-2443	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -436,6 +447,7 @@
 11-46	2664-2669	sites	_
 11-47	2670-2671	.	_
 
+Text=A total of 162 volumes of echo planar imaging BOLD fMRI data were collected with a TR of 2 s on 3T scanners.
 12-1	2672-2673	A	_
 12-2	2674-2679	total	_
 12-3	2680-2682	of	_
@@ -461,6 +473,7 @@
 12-23	2771-2779	scanners	_
 12-24	2780-2781	.	_
 
+Text=For the same subjects, T1-weighted structural images were collected as well.
 13-1	2782-2785	For	_
 13-2	2786-2789	the	_
 13-3	2790-2794	same	_
@@ -475,6 +488,7 @@
 13-12	2854-2858	well	_
 13-13	2859-2860	.	_
 
+Text=Full details on the participants and data collection can be found in and a summary of demographics are provided in.
 14-1	2861-2865	Full	_
 14-2	2866-2873	details	_
 14-3	2874-2876	on	_
@@ -497,6 +511,7 @@
 14-20	2973-2975	in	_
 14-21	2976-2977	.	_
 
+Text=Data collection MR images were collected on a 3-Tesla Siemens Trio scanner at six sites and on a 3T General Electric Discovery MR750 scanner at one site.
 15-1	2978-2982	Data	_
 15-2	2983-2993	collection	_
 15-3	2994-2996	MR	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -526,6 +541,7 @@
 15-27	3126-3130	site	_
 15-28	3131-3132	.	_
 
+Text=High-resolution T1-weighted structural images were acquired with a turbo-flash sequence (TE = 2.94 ms, TR = 2.3 s, flip angle = 9°, number of excitations = 1, slice thickness = 1.2 mm, field of view = 256 mm, resolution = 256 × 256) resulting in 0.86 × 0.86 × 1.2 mm3 voxels.
 16-1	3133-3148	High-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 16-2	3149-3160	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 16-3	3161-3171	structural	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -588,6 +604,7 @@
 16-60	3409-3415	voxels	_
 16-61	3416-3417	.	_
 
+Text=T2 * -weighted functional images were acquired using a gradient-echo EPI sequence (TR/TE 2s/30ms, flip angle 77 degrees, 32 slices collected sequentially from superior to inferior, 3.4 × 3.4 × 4 mm3 with 1 mm gap, 162 frames, 5:38 min).
 17-1	3418-3420	T2	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 17-2	3421-3422	*	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 17-3	3423-3432	-weighted	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -637,6 +654,7 @@
 17-47	3659-3660	)	_
 17-48	3661-3662	.	_
 
+Text=Participants were instructed to keep their eyes closed during the scan.
 18-1	3663-3675	Participants	_
 18-2	3676-3680	were	_
 18-3	3681-3691	instructed	_
@@ -650,6 +668,7 @@
 18-11	3729-3733	scan	_
 18-12	3734-3735	.	_
 
+Text=Data preprocessing Structural data: T1-weighted images were normalized to MNI space, resliced to 2 × 2 × 2 mm, and segmented into gray, white, and CSF images using the unified segmentation methods of SPM5.
 19-1	3736-3740	Data	_
 19-2	3741-3754	preprocessing	_
 19-3	3755-3765	Structural	_
@@ -691,6 +710,7 @@
 19-39	3941-3945	SPM5	_
 19-40	3946-3947	.	_
 
+Text=Data quality was checked by correlations against the segmented templates; if the subject ’ s segmented gray matter data did not correlate at 0.9 or higher with the template across all voxels, it was removed from consideration.
 20-1	3948-3952	Data	_
 20-2	3953-3960	quality	_
 20-3	3961-3964	was	_
@@ -732,6 +752,7 @@
 20-39	4162-4175	consideration	_
 20-40	4176-4177	.	_
 
+Text=Gray matter segmentations were finally smoothed by a Gaussian filter of 10 mm Full Width Half Maximum (FWHM).
 21-1	4178-4182	Gray	_
 21-2	4183-4189	matter	_
 21-3	4190-4203	segmentations	_
@@ -754,6 +775,7 @@
 21-20	4287-4288	)	_
 21-21	4289-4290	.	_
 
+Text=We analyzed gray matter density (GMD) with independent component analysis (ICA) to extract features as relationships among GMD regions, which is called source-based morphometry (SBM).
 22-1	4291-4293	We	_
 22-2	4294-4302	analyzed	_
 22-3	4303-4307	gray	_
@@ -788,6 +810,7 @@
 22-32	4479-4480	)	_
 22-33	4481-4482	.	_
 
+Text=The ICA was performed using the group ICA of fMRI (GIFT) toolbox1 and 50 components were estimated.
 23-1	4483-4486	The	_
 23-2	4487-4490	ICA	_
 23-3	4491-4494	was	_
@@ -809,6 +832,7 @@
 23-19	4574-4583	estimated	_
 23-20	4584-4585	.	_
 
+Text=After analyzing stability of the components and visual inspection, 23 components were selected, and hereafter they are referred to as structural components.
 24-1	4586-4591	After	_
 24-2	4592-4601	analyzing	_
 24-3	4602-4611	stability	_
@@ -835,6 +859,7 @@
 24-24	4733-4743	components	_
 24-25	4744-4745	.	_
 
+Text=Functional data: We used resting state fMRI data and performed rigid body motion correction using the INRIAlign toolbox in SPM to correct for subject head motion followed by slice-timing correction to account for timing differences in slice acquisition.
 25-1	4746-4756	Functional	_
 25-2	4757-4761	data	_
 25-3	4762-4763	:	_
@@ -876,6 +901,7 @@
 25-39	4988-4999	acquisition	_
 25-40	5000-5001	.	_
 
+Text=Then the fMRI data were despiked using AFNI ’ s 3dDespike algorithm to mitigate the impact of outliers.
 26-1	5002-5006	Then	_
 26-2	5007-5010	the	_
 26-3	5011-5015	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -896,6 +922,7 @@
 26-18	5096-5104	outliers	_
 26-19	5105-5106	.	_
 
+Text=The fMRI data were subsequently warped to a Montreal Neurological Institute (MNI) template and resampled to 3 mm3 isotropic voxels.
 27-1	5107-5110	The	_
 27-2	5111-5115	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 27-3	5116-5120	data	_
@@ -920,6 +947,7 @@
 27-22	5233-5239	voxels	_
 27-23	5240-5241	.	_
 
+Text=Instead of Gaussian smoothing, we smoothed the data to 6 mm full width at half maximum (FWHM) using AFNI ’ s BlurToFWHM algorithm which performs smoothing by a conservative finite difference approximation to the diffusion equation.
 28-1	5242-5249	Instead	_
 28-2	5250-5252	of	_
 28-3	5253-5261	Gaussian	_
@@ -961,6 +989,7 @@
 28-39	5467-5475	equation	_
 28-40	5476-5477	.	_
 
+Text=This approach has been shown to reduce scanner specific variability in smoothness providing “ smoothness equivalence ” to data across sites.
 29-1	5478-5482	This	_
 29-2	5483-5491	approach	_
 29-3	5492-5495	has	_
@@ -984,6 +1013,7 @@
 29-21	5612-5617	sites	_
 29-22	5618-5619	.	_
 
+Text=Each voxel time course was variance normalized prior to performing group independent component analysis.
 30-1	5620-5624	Each	_
 30-2	5625-5630	voxel	_
 30-3	5631-5635	time	_
@@ -1000,6 +1030,7 @@
 30-14	5715-5723	analysis	_
 30-15	5724-5725	.	_
 
+Text=These processed data were then decomposed into components using spatial group independent component analysis (GICA) implemented in the GIFT toolbox.
 31-1	5726-5731	These	_
 31-2	5732-5741	processed	_
 31-3	5742-5746	data	_
@@ -1024,6 +1055,7 @@
 31-22	5868-5875	toolbox	_
 31-23	5876-5877	.	_
 
+Text=Each component can be regarded as temporally coherent intrinsic connectivity networks (ICN), and 47 such networks were selected as in.
 32-1	5878-5882	Each	_
 32-2	5883-5892	component	_
 32-3	5893-5896	can	_
@@ -1049,6 +1081,7 @@
 32-23	6012-6014	in	_
 32-24	6015-6016	.	_
 
+Text=For feature representation, pairwise correlation between ICN time courses were computed yielding a correlation matrix of size 47 × 47.
 33-1	6017-6020	For	_
 33-2	6021-6028	feature	_
 33-3	6029-6043	representation	_
@@ -1072,6 +1105,7 @@
 33-21	6149-6151	47	_
 33-22	6152-6153	.	_
 
+Text=In order to capture dynamics, correlation was estimated using a sliding window approach with a window size of 22 TR (44 s) in steps of 1 TR (2 s) [see for details].
 34-1	6154-6156	In	_
 34-2	6157-6162	order	_
 34-3	6163-6165	to	_
@@ -1113,6 +1147,7 @@
 34-39	6323-6324	]	_
 34-40	6325-6326	.	_
 
+Text=We refer to this windowed correlation matrix as dynamic functional network connectivity (dFNC).
 35-1	6327-6329	We	_
 35-2	6330-6335	refer	_
 35-3	6336-6338	to	_
@@ -1130,6 +1165,7 @@
 35-15	6422-6423	)	_
 35-16	6424-6425	.	_
 
+Text=However, in order to reduce the total time steps for our translation model, we took average of every 4 consecutive correlation matrices.
 36-1	6426-6433	However	_
 36-2	6434-6435	,	_
 36-3	6436-6438	in	_
@@ -1156,6 +1192,7 @@
 36-24	6555-6563	matrices	_
 36-25	6564-6565	.	_
 
+Text=Finally, a discrete sequence of dFNC states were obtained using k-means clustering algorithm on the dFNC matrices, with a setting of k = 5 using the elbow criterion.
 37-1	6566-6573	Finally	_
 37-2	6574-6575	,	_
 37-3	6576-6577	a	_
@@ -1188,6 +1225,7 @@
 37-30	6723-6732	criterion	_
 37-31	6733-6734	.	_
 
+Text=Translation-based multimodal fusion model Machine translation models that produce sentences in one language from another are common in the natural language processing discipline.
 38-1	6735-6752	Translation-based	_
 38-2	6753-6763	multimodal	_
 38-3	6764-6770	fusion	_
@@ -1213,6 +1251,7 @@
 38-23	6902-6912	discipline	_
 38-24	6913-6914	.	_
 
+Text=Essentially, different languages convey common concept or fact in different ways with their own constructs.
 39-1	6915-6926	Essentially	_
 39-2	6927-6928	,	_
 39-3	6929-6938	different	_
@@ -1231,6 +1270,7 @@
 39-16	7012-7022	constructs	_
 39-17	7023-7024	.	_
 
+Text=We can consider sMRI and fMRI as two different views of the same brain, and take an approach from the machine translation discipline to deal with multimodal neuroimaging data.
 40-1	7025-7027	We	_
 40-2	7028-7031	can	_
 40-3	7032-7040	consider	_
@@ -1263,6 +1303,7 @@
 40-30	7196-7200	data	_
 40-31	7201-7202	.	_
 
+Text=A recently proposed neural machine translation model has shown state-of-the-art performance with its novel attention mechanism.
 41-1	7203-7204	A	_
 41-2	7205-7213	recently	_
 41-3	7214-7222	proposed	_
@@ -1281,6 +1322,7 @@
 41-16	7320-7329	mechanism	_
 41-17	7330-7331	.	_
 
+Text=The main feature of the attention module is to learn alignment between phrases of two different languages for improving translation performance.
 42-1	7332-7335	The	_
 42-2	7336-7340	main	_
 42-3	7341-7348	feature	_
@@ -1304,6 +1346,7 @@
 42-21	7464-7475	performance	_
 42-22	7476-7477	.	_
 
+Text=We exploit this idea of attention mechanism to learn alignment (linkage) between dFNC states and brain structural components.
 43-1	7478-7480	We	_
 43-2	7481-7488	exploit	_
 43-3	7489-7493	this	_
@@ -1326,6 +1369,7 @@
 43-20	7594-7604	components	_
 43-21	7605-7606	.	_
 
+Text=However, unlike the sequence to sequence matching in the language translation, input in our case is an unordered set of sMRI component loadings and output are temporally ordered dFNC states.
 44-1	7607-7614	However	_
 44-2	7615-7616	,	_
 44-3	7617-7623	unlike	_
@@ -1360,6 +1404,7 @@
 44-32	7792-7798	states	_
 44-33	7799-7800	.	_
 
+Text=To tackle this problem, we propose a simple modification in the attention network in our translation model.
 45-1	7801-7803	To	_
 45-2	7804-7810	tackle	_
 45-3	7811-7815	this	_
@@ -1380,6 +1425,7 @@
 45-18	7903-7908	model	_
 45-19	7909-7910	.	_
 
+Text=Figure 1 depicts the different parts of our translation model in the context of neuroimaging.
 46-1	7911-7917	Figure	_
 46-2	7918-7919	1	_
 46-3	7920-7927	depicts	_
@@ -1397,6 +1443,7 @@
 46-15	7991-8003	neuroimaging	_
 46-16	8004-8005	.	_
 
+Text=The model stacks several neural-network layers (six layers in total) which we describe below.
 47-1	8006-8009	The	_
 47-2	8010-8015	model	_
 47-3	8016-8022	stacks	_
@@ -1415,12 +1462,14 @@
 47-16	8095-8100	below	_
 47-17	8101-8102	.	_
 
+Text=As shown in Fig.
 48-1	8103-8105	As	_
 48-2	8106-8111	shown	_
 48-3	8112-8114	in	_
 48-4	8115-8118	Fig	_
 48-5	8119-8120	.	_
 
+Text=1, two main parts of our translation-based fusion model are: (1) sequence predictor and (2) attention network.
 49-1	8121-8122	1	_
 49-2	8123-8124	,	_
 49-3	8125-8128	two	_
@@ -1446,6 +1495,7 @@
 49-23	8229-8236	network	_
 49-24	8237-8238	.	_
 
+Text=The input-output setting of the model is as follows.
 50-1	8239-8242	The	_
 50-2	8243-8255	input-output	_
 50-3	8256-8263	setting	_
@@ -1457,6 +1507,7 @@
 50-9	8283-8290	follows	_
 50-10	8291-8292	.	_
 
+Text=Input is an unordered set of structural component loadings of a subject, x = {x1, …, xj, … xJ}, and the output is a temporally ordered dFNC state sequence, y = {y1, …, yi, …yT}, of the same subject estimated from the preprocessing step described in Section 2.3.
 51-1	8293-8298	Input	_
 51-2	8299-8301	is	_
 51-3	8302-8304	an	_
@@ -1521,6 +1572,7 @@
 51-62	8564-8567	2.3	_
 51-63	8568-8569	.	_
 
+Text=The central theme of the model is that information for predicting a sequence y from the corresponding loading coefficients x may spread through out the structural components, which can be selectively retrieved as the sequence predictor predicts a dFNC state at each time step.
 52-1	8570-8573	The	_
 52-2	8574-8581	central	_
 52-3	8582-8587	theme	_
@@ -1568,6 +1620,7 @@
 52-45	8842-8846	step	_
 52-46	8847-8848	.	_
 
+Text=This is achieved by training both sequence predictor and attention network jointly from the multimodal data.
 53-1	8849-8853	This	_
 53-2	8854-8856	is	_
 53-3	8857-8865	achieved	_
@@ -1586,6 +1639,7 @@
 53-16	8952-8956	data	_
 53-17	8957-8958	.	_
 
+Text=Further details of the model are described below.
 54-1	8959-8966	Further	_
 54-2	8967-8974	details	_
 54-3	8975-8977	of	_
@@ -1596,6 +1650,7 @@
 54-8	9002-9007	below	_
 54-9	9008-9009	.	_
 
+Text=Sequence predictor The sequence predictor is a probabilistic model that predicts one dFNC state of a sequence at each time step, where we define each conditional probability as where si is the current hidden state of a unidirectional recurrent layer and ci (more details will be provided shortly) is the current selective focus over structural components, referred to as context hereafter.
 55-1	9010-9018	Sequence	_
 55-2	9019-9028	predictor	_
 55-3	9029-9032	The	_
@@ -1663,6 +1718,7 @@
 55-65	9393-9402	hereafter	_
 55-66	9403-9404	.	_
 
+Text=A few points about the probability model of Eq.
 56-1	9405-9406	A	_
 56-2	9407-9410	few	_
 56-3	9411-9417	points	_
@@ -1674,6 +1730,7 @@
 56-9	9449-9451	Eq	_
 56-10	9452-9453	.	_
 
+Text=(1) are noteworthy.
 57-1	9454-9455	(	_
 57-2	9456-9457	1	_
 57-3	9458-9459	)	_
@@ -1681,6 +1738,7 @@
 57-5	9464-9474	noteworthy	_
 57-6	9475-9476	.	_
 
+Text=First, it embodies a fusion implicitly as the probability is conditioned on previous output history (from one modality) and the input (from the other modality).
 58-1	9477-9482	First	_
 58-2	9483-9484	,	_
 58-3	9485-9487	it	_
@@ -1713,6 +1771,7 @@
 58-30	9640-9641	)	_
 58-31	9642-9643	.	_
 
+Text=Second, the time index i indicates dynamic property of one of data modalities.
 59-1	9644-9650	Second	_
 59-2	9651-9652	,	_
 59-3	9653-9656	the	_
@@ -1729,6 +1788,7 @@
 59-14	9712-9722	modalities	_
 59-15	9723-9724	.	_
 
+Text=Finally, right hand side of Eq.
 60-1	9725-9732	Finally	_
 60-2	9733-9734	,	_
 60-3	9735-9740	right	_
@@ -1738,6 +1798,7 @@
 60-7	9754-9756	Eq	_
 60-8	9757-9758	.	_
 
+Text=(1) captures the aspect of deep learning, i.e., the predictor works with latent representations of input and output as opposed to the direct input-output, which are learned from the data.
 61-1	9759-9760	(	_
 61-2	9761-9762	1	_
 61-3	9763-9764	)	_
@@ -1775,11 +1836,13 @@
 61-35	9946-9950	data	_
 61-36	9951-9952	.	_
 
+Text=We realize Eq.
 62-1	9953-9955	We	_
 62-2	9956-9963	realize	_
 62-3	9964-9966	Eq	_
 62-4	9967-9968	.	_
 
+Text=(1) by a feedforward neural network (NN) [a single hidden layer with softmax output] stacking it on a recurrent layer.
 63-1	9969-9970	(	_
 63-2	9971-9972	1	_
 63-3	9973-9974	)	_
@@ -1808,6 +1871,7 @@
 63-26	10087-10092	layer	_
 63-27	10093-10094	.	_
 
+Text=At each time point, the recurrent layer computes the current hidden state si which is a function of past state, previous output from the feedforward NN, and the current context, i.e., The recurrent layer helps finding a learnable smooth trajectory in a latent representational space.
 64-1	10095-10097	At	_
 64-2	10098-10102	each	_
 64-3	10103-10107	time	_
@@ -1860,6 +1924,7 @@
 64-50	10377-10382	space	_
 64-51	10383-10384	.	_
 
+Text=We use gated recurrent units (GRUs) in the recurrent layer as they work well for sequence representation.
 65-1	10385-10387	We	_
 65-2	10388-10391	use	_
 65-3	10392-10397	gated	_
@@ -1881,6 +1946,7 @@
 65-19	10477-10491	representation	_
 65-20	10492-10493	.	_
 
+Text=Each output dFNC state yi indicates one of the centroids of five clusters (see Section 2.3).
 66-1	10494-10498	Each	_
 66-2	10499-10505	output	_
 66-3	10506-10510	dFNC	_
@@ -1901,6 +1967,7 @@
 66-18	10586-10587	)	_
 66-19	10588-10589	.	_
 
+Text=Since the centroids are 47 × 47 matrices lying in rather a low dimensional subspace, we reduce the dimension into 4, i.e., yi ∈ R4, using principal component analysis (PCA).
 67-1	10590-10595	Since	_
 67-2	10596-10599	the	_
 67-3	10600-10609	centroids	_
@@ -1939,6 +2006,7 @@
 67-36	10767-10768	)	_
 67-37	10769-10770	.	_
 
+Text=The remaining term, current context ci, is described in the next subsection.
 68-1	10771-10774	The	_
 68-2	10775-10784	remaining	_
 68-3	10785-10789	term	_
@@ -1955,6 +2023,7 @@
 68-14	10838-10848	subsection	_
 68-15	10849-10850	.	_
 
+Text=Attention network For our study, attention network is the most important part as it enables learning association (s) between functional dynamics and structural features.
 69-1	10851-10860	Attention	_
 69-2	10861-10868	network	_
 69-3	10869-10872	For	_
@@ -1984,6 +2053,7 @@
 69-27	11014-11022	features	_
 69-28	11023-11024	.	_
 
+Text=Just before the sequence predictor predicts i-th dFNC state, the attention network first computes an alignment score (indicating strength of association) as to how well the structural component xj matches with dFNC state yi.
 70-1	11025-11029	Just	_
 70-2	11030-11036	before	_
 70-3	11037-11040	the	_
@@ -2023,6 +2093,7 @@
 70-37	11249-11251	yi	_
 70-38	11252-11253	.	_
 
+Text=This score is based on recurrent state si–1 and evaluated for all structural components, i.e., for j = 1, 2, …, J, in each time step i.
 71-1	11254-11258	This	_
 71-2	11259-11264	score	_
 71-3	11265-11267	is	_
@@ -2058,6 +2129,7 @@
 71-33	11393-11394	i	_
 71-34	11395-11396	.	_
 
+Text=We use a feedforward neural network (NN) with a single hidden layer for the attention module as described below.
 72-1	11397-11399	We	_
 72-2	11400-11403	use	_
 72-3	11404-11405	a	_
@@ -2081,6 +2153,7 @@
 72-21	11505-11510	below	_
 72-22	11511-11512	.	_
 
+Text=Here V, Ws and Wx are the parameters of a feedforward NN, and ei is a vector of length J containing unnormalized alignments.
 73-1	11513-11517	Here	_
 73-2	11518-11519	V	_
 73-3	11520-11521	,	_
@@ -2108,6 +2181,7 @@
 73-25	11628-11638	alignments	_
 73-26	11639-11640	.	_
 
+Text=Then the normalized alignments are computed according to Eq.
 74-1	11641-11645	Then	_
 74-2	11646-11649	the	_
 74-3	11650-11660	normalized	_
@@ -2119,6 +2193,7 @@
 74-9	11698-11700	Eq	_
 74-10	11701-11702	.	_
 
+Text=(3) to provide a probabilistic interpretation.
 75-1	11703-11704	(	_
 75-2	11705-11706	3	_
 75-3	11707-11708	)	_
@@ -2129,6 +2204,7 @@
 75-8	11736-11750	interpretation	_
 75-9	11751-11752	.	_
 
+Text=The attention network modulates the structural components with its learned alignments and computes a context vector ci at i-th time step as where ● indicates element wise multiplication.
 76-1	11753-11756	The	_
 76-2	11757-11766	attention	_
 76-3	11767-11774	network	_
@@ -2159,6 +2235,7 @@
 76-28	11924-11938	multiplication	_
 76-29	11939-11940	.	_
 
+Text=In other words, the context vector serves as the currently focused structural components with their soft alignments.
 77-1	11941-11943	In	_
 77-2	11944-11949	other	_
 77-3	11950-11955	words	_
@@ -2179,6 +2256,7 @@
 77-18	12047-12057	alignments	_
 77-19	12058-12059	.	_
 
+Text=In effect, each alignment αij reflects the importance of structural component xj with respect to previous hidden state si–1 in deciding next state si and generating dFNC state yi by the sequence predictor.
 78-1	12060-12062	In	_
 78-2	12063-12069	effect	_
 78-3	12070-12071	,	_
@@ -2215,6 +2293,7 @@
 78-34	12256-12265	predictor	_
 78-35	12266-12267	.	_
 
+Text=Our interest with the translation-based fusion model described above is to examine brain structure-function relationship in terms of the alignments, αij, for i-th dFNC state and j-th structural components.
 79-1	12268-12271	Our	_
 79-2	12272-12280	interest	_
 79-3	12281-12285	with	_
@@ -2248,6 +2327,7 @@
 79-31	12464-12474	components	_
 79-32	12475-12476	.	_
 
+Text=Note that these alignments are learned from the data, thus taking representational advantage of deep learning.
 80-1	12477-12481	Note	_
 80-2	12482-12486	that	_
 80-3	12487-12492	these	_
@@ -2267,6 +2347,7 @@
 80-17	12579-12587	learning	_
 80-18	12588-12589	.	_
 
+Text=Since similar models have been proved to be able to find meaningful associations in machine translation (e.g., alignment between phrases of two languages) and image caption generation (e.g., association between phrases in text and regions in image), we rely on our method for finding associations between fMRI and sMRI features faithfully.
 81-1	12590-12595	Since	_
 81-2	12596-12603	similar	_
 81-3	12604-12610	models	_
@@ -2327,6 +2408,7 @@
 81-58	12925-12935	faithfully	_
 81-59	12936-12937	.	_
 
+Text=Both the sequence predictor and attention network are trained jointly using a gradient based optimization algorithm called rmsprop with respect to a negative log-likelihood based cost function, In order to avoid the overfitting problem, we use L2 regularization on alignments and a 50% dropout in the hidden layers of feedforward NNs (see Fig.
 82-1	12938-12942	Both	_
 82-2	12943-12946	the	_
 82-3	12947-12955	sequence	_
@@ -2386,10 +2468,12 @@
 82-57	13281-13284	Fig	_
 82-58	13285-13286	.	_
 
+Text=1).
 83-1	13287-13288	1	_
 83-2	13289-13290	)	_
 83-3	13291-13292	.	_
 
+Text=No dropout was adopted in the recurrent layer and inputs.
 84-1	13293-13295	No	_
 84-2	13296-13303	dropout	_
 84-3	13304-13307	was	_
@@ -2402,6 +2486,7 @@
 84-10	13343-13349	inputs	_
 84-11	13350-13351	.	_
 
+Text=There are some architectural choices and hyper parameters for our model shown in Fig.
 85-1	13352-13357	There	_
 85-2	13358-13361	are	_
 85-3	13362-13366	some	_
@@ -2418,9 +2503,11 @@
 85-14	13433-13436	Fig	_
 85-15	13437-13438	.	_
 
+Text=1.
 86-1	13439-13440	1	_
 86-2	13441-13442	.	_
 
+Text=Based on the lowest negative log-likelihood on a hold out subset of data over several configurations, we selected number of the hidden neurons in both feedforward NNs as 50, the number of recurrent units in the recurrent layer as 50; and set the learning rate and the coefficient of L2 norm as 0.01 and 0.5, respectively.
 87-1	13443-13448	Based	_
 87-2	13449-13451	on	_
 87-3	13452-13455	the	_
@@ -2483,6 +2570,7 @@
 87-60	13755-13767	respectively	_
 87-61	13768-13769	.	_
 
+Text=The model with this configuration was trained using a gradient descent algorithm over entire data, and then the alignments were extracted from the model.
 88-1	13770-13773	The	_
 88-2	13774-13779	model	_
 88-3	13780-13784	with	_
@@ -2510,6 +2598,7 @@
 88-25	13918-13923	model	_
 88-26	13924-13925	.	_
 
+Text=We took 100 runs with different random neural-network weight initializations of the model, and the alignments were averaged over 100 runs for subsequent analysis.
 89-1	13926-13928	We	_
 89-2	13929-13933	took	_
 89-3	13934-13937	100	_

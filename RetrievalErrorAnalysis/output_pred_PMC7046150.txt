@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Real-time fMRI neurofeedback reduces auditory hallucinations and modulates resting state connectivity of involved brain regions: Part 2: Default Mode Network -Preliminary evidence- Auditory hallucinations (AHs) are one of the most distressing symptoms of schizophrenia (SZ) and are often resistant to medication.
 1-1	0-9	Real-time	_
 1-2	10-14	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 1-3	15-28	neurofeedback	_
@@ -51,6 +52,7 @@
 1-47	307-317	medication	_
 1-48	318-319	.	_
 
+Text=Imaging studies of individuals with SZ show hyperactivation of the default mode network (DMN) and the superior temporal gyrus (STG).
 2-1	320-327	Imaging	_
 2-2	328-335	studies	_
 2-3	336-338	of	_
@@ -77,6 +79,7 @@
 2-24	454-455	)	_
 2-25	456-457	.	_
 
+Text=Studies in SZ show DMN hyperconnectivity and reduced anticorrelation between DMN and the central executive network (CEN).
 3-1	458-465	Studies	_
 3-2	466-468	in	_
 3-3	469-471	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -98,6 +101,7 @@
 3-19	579-580	)	_
 3-20	581-582	.	_
 
+Text=DMN hyperconnectivity has been associated with positive symptoms such as AHs while reduced DMN anticorrelations with cognitive impairment.
 4-1	583-586	DMN	_
 4-2	587-604	hyperconnectivity	_
 4-3	605-608	has	_
@@ -118,6 +122,7 @@
 4-18	710-720	impairment	_
 4-19	721-722	.	_
 
+Text=Using real-time fMRI neurofeedback (rt-fMRI-NFB) we trained SZ patients to modulate DMN and CEN networks.
 5-1	723-728	Using	_
 5-2	729-738	real-time	_
 5-3	739-743	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -137,6 +142,7 @@
 5-17	821-829	networks	_
 5-18	830-831	.	_
 
+Text=Meditation is effective in reducing AHs in SZ and to modulate brain network integration and increase DMN anticorrelations.
 6-1	832-842	Meditation	_
 6-2	843-845	is	_
 6-3	846-855	effective	_
@@ -157,6 +163,7 @@
 6-18	937-953	anticorrelations	_
 6-19	954-955	.	_
 
+Text=Consequently, patients were provided with meditation strategies to enhance their abilities to modulate DMN/CEN.
 7-1	956-968	Consequently	_
 7-2	969-970	,	_
 7-3	971-979	patients	_
@@ -174,6 +181,7 @@
 7-15	1060-1067	DMN/CEN	_
 7-16	1068-1069	.	_
 
+Text=Results show a reduction of DMN hyperconnectivity and increase in DMN-CEN anticorrelation.
 8-1	1070-1077	Results	_
 8-2	1078-1082	show	_
 8-3	1083-1084	a	_
@@ -188,6 +196,7 @@
 8-12	1144-1159	anticorrelation	_
 8-13	1160-1161	.	_
 
+Text=Furthermore, the change in individual DMN connectivity significantly correlated with reductions in AHs.
 9-1	1162-1173	Furthermore	_
 9-2	1174-1175	,	_
 9-3	1176-1179	the	_
@@ -204,6 +213,7 @@
 9-14	1262-1265	AHs	_
 9-15	1266-1267	.	_
 
+Text=This is the first time that meditation enhanced through rt-fMRI-NFB is used to reduce AHs in SZ.
 10-1	1268-1272	This	_
 10-2	1273-1275	is	_
 10-3	1276-1279	the	_
@@ -223,6 +233,7 @@
 10-17	1361-1363	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 10-18	1364-1365	.	_
 
+Text=Moreover, it provides the first empirical evidence for a direct causal relation between meditation enhanced rt-fMRI-NFB modulation of DMN-CEN activity and post-intervention modulation of resting state networks ensuing in reductions in frequency and severity of AHs.
 11-1	1366-1374	Moreover	_
 11-2	1375-1376	,	_
 11-3	1377-1379	it	_
@@ -262,6 +273,7 @@
 11-37	1628-1631	AHs	_
 11-38	1632-1633	.	_
 
+Text=Materials and Methods Participants Eleven patients (mean age = 43.5 years (SD = 10.3years); 1 female) diagnosed with SZ or schizoaffective disorder using DSM-5 criteria participated in the experiment.
 12-1	1634-1643	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	1644-1647	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	1648-1655	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -298,6 +310,7 @@
 12-34	1828-1838	experiment	_
 12-35	1839-1840	.	_
 
+Text=Ten out of eleven patients tested in this study participated in the experiment described in Part I of the paper.
 13-1	1841-1844	Ten	_
 13-2	1845-1848	out	_
 13-3	1849-1851	of	_
@@ -320,6 +333,7 @@
 13-20	1947-1952	paper	_
 13-21	1953-1954	.	_
 
+Text=The exclusion criteria included neurologic illness or major head trauma, electroconvulsive therapy, alcohol or drug dependence, alcohol or drug abuse within the past five years, verbal IQ below 70, and the absence of auditory hallucinations not responsive to medication as assessed with the SCID interview.
 14-1	1955-1958	The	_
 14-2	1959-1968	exclusion	_
 14-3	1969-1977	criteria	_
@@ -372,6 +386,7 @@
 14-50	2256-2265	interview	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 14-51	2266-2267	.	_
 
+Text=All participants were native English speakers and were right handed.
 15-1	2268-2271	All	_
 15-2	2272-2284	participants	_
 15-3	2285-2289	were	_
@@ -384,6 +399,7 @@
 15-10	2329-2335	handed	_
 15-11	2336-2337	.	_
 
+Text=The participants ’ verbal IQ as assessed with WAIS was 101.8 (SD = 10.3) and their performance IQ was 94.5 (SD = 5.8).
 16-1	2338-2341	The	_
 16-2	2342-2354	participants	_
 16-3	2355-2356	’	_
@@ -413,6 +429,7 @@
 16-27	2458-2459	)	_
 16-28	2460-2461	.	_
 
+Text=All patients experienced AHs that were not controlled with antipsychotic medication at least once daily within the two weeks prior to the assessment (The list of prescribed medications, across patients, was the following: Aripiprizole, Clozapine, Abilify, Chlondapine, Zoloft, Buspirone, Olanzopine, Citalopram, Risperdal, Gabapentin, and Ziprasidone).
 17-1	2462-2465	All	_
 17-2	2466-2474	patients	_
 17-3	2475-2486	experienced	_
@@ -475,6 +492,7 @@
 17-60	2827-2828	)	_
 17-61	2829-2830	.	_
 
+Text=Hallucinatory experience was captured using Auditory Hallucinations Rating Scale (AHRS), developed by R. Hoffman, on the day of the rt-fMRI session, i .. e, before the first NFB session, within a week after the rt-fMRI NFB session, on the day of the control NFB session, and one week after the control NFB session.
 18-1	2831-2844	Hallucinatory	_
 18-2	2845-2855	experience	_
 18-3	2856-2859	was	_
@@ -539,6 +557,7 @@
 18-62	3146-3153	session	_
 18-63	3154-3155	.	_
 
+Text=All participants gave written consent in accordance with the guidelines of Harvard Medical School, MIT and Veterans Affairs (VA) Committees on Human Subjects and they were compensated for their participation.
 19-1	3156-3159	All	_
 19-2	3160-3172	participants	_
 19-3	3173-3177	gave	_
@@ -574,6 +593,7 @@
 19-33	3353-3366	participation	_
 19-34	3367-3368	.	_
 
+Text=Procedure The experiment took place over two sessions.
 20-1	3369-3378	Procedure	_
 20-2	3379-3382	The	_
 20-3	3383-3393	experiment	_
@@ -584,6 +604,7 @@
 20-8	3414-3422	sessions	_
 20-9	3423-3424	.	_
 
+Text=In the first session, participants were taught mental noting meditation (see below) as a strategy to effectively modulate the DMN, completed two 6 min resting state (RS) scans (RS-pre & RS-post feedback scans), one T1 weighted structural scan, two no-feedback transfer scans (TT-pre & TT-post feedback scans) and four feedback scans.
 21-1	3425-3427	In	_
 21-2	3428-3431	the	_
 21-3	3432-3437	first	_
@@ -649,6 +670,7 @@
 21-63	3764-3769	scans	_
 21-64	3770-3771	.	_
 
+Text=The second session had exactly the same structure as session one, with the exception that subjects were instructed to tap their fingers during feedback in order to modulate SMC.
 22-1	3772-3775	The	_
 22-2	3776-3782	second	_
 22-3	3783-3790	session	_
@@ -681,6 +703,7 @@
 22-30	3946-3949	SMC	_
 22-31	3950-3951	.	_
 
+Text=Mental noting training Before the start of session one, all participants were taught “ mental noting ” meditation.
 23-1	3952-3958	Mental	_
 23-2	3959-3965	noting	_
 23-3	3966-3974	training	_
@@ -702,6 +725,7 @@
 23-19	4056-4066	meditation	_
 23-20	4067-4068	.	_
 
+Text=Mental noting is a major component of Vipassana or insight meditation practice and consists of the factors “ concentration ”, “ observing sensory experience, ” “ not ‘ efforting ’ “ and “ contentment ” (, p. 95).
 24-1	4069-4075	Mental	_
 24-2	4076-4082	noting	_
 24-3	4083-4085	is	_
@@ -746,6 +770,7 @@
 24-42	4283-4284	)	_
 24-43	4285-4286	.	_
 
+Text=As part of “ mental noting ” participants were taught to mentally label whatever experience was most prominent in their sense experience from moment to moment (i.e.
 25-1	4287-4289	As	_
 25-2	4290-4294	part	_
 25-3	4295-4297	of	_
@@ -776,6 +801,7 @@
 25-28	4448-4451	i.e	_
 25-29	4452-4453	.	_
 
+Text=seeing, hearing, feeling, thinking, etc).
 26-1	4454-4460	seeing	_
 26-2	4461-4462	,	_
 26-3	4463-4470	hearing	_
@@ -788,6 +814,7 @@
 26-10	4498-4499	)	_
 26-11	4500-4501	.	_
 
+Text=For example, if someone noticed that they were seeing something, regardless of the object, they would silently label that experience “ seeing. ” If hearing, they would label it “ hearing ”; if thinking, they would label it “ thinking ” and so on. ” Thus, this practice helps individuals observe “ one ’ s thoughts and feelings as temporary, objective events in the mind, as opposed to reflections of the self that are necessarily true ” which is sometimes referred to as “ decentering ”.
 27-1	4502-4505	For	_
 27-2	4506-4513	example	_
 27-3	4514-4515	,	_
@@ -885,6 +912,7 @@
 27-95	4996-4997	”	_
 27-96	4998-4999	.	_
 
+Text=All participants performed a short mental noting session (~30 s) in front of the experimenter during which they verbalized the mental noting out loud to confirm that they could follow the instructions.
 28-1	5000-5003	All	_
 28-2	5004-5016	participants	_
 28-3	5017-5026	performed	_
@@ -921,6 +949,7 @@
 28-34	5190-5202	instructions	_
 28-35	5203-5204	.	_
 
+Text=Next, they completed a short silent practice session (~30 s).
 29-1	5205-5209	Next	_
 29-2	5210-5211	,	_
 29-3	5212-5216	they	_
@@ -936,6 +965,7 @@
 29-13	5267-5268	)	_
 29-14	5269-5270	.	_
 
+Text=All participants were able to engage in mental noting.
 30-1	5271-5274	All	_
 30-2	5275-5287	participants	_
 30-3	5288-5292	were	_
@@ -947,6 +977,7 @@
 30-9	5318-5324	noting	_
 30-10	5325-5326	.	_
 
+Text=The exact instructions for the mental noting and the practice session are provided in Supplementary Text S1.
 31-1	5327-5330	The	_
 31-2	5331-5336	exact	_
 31-3	5337-5349	instructions	_
@@ -966,6 +997,7 @@
 31-17	5432-5434	S1	_
 31-18	5435-5436	.	_
 
+Text=During the rt-fMRI scans participants performed mental noting with their eyes open.
 32-1	5437-5443	During	_
 32-2	5444-5447	the	_
 32-3	5448-5455	rt-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -980,6 +1012,7 @@
 32-12	5515-5519	open	_
 32-13	5520-5521	.	_
 
+Text=fMRI acquisition Scanning parameters All scans were acquired using a 3T Trio MR System with a 32-channel, phased-array head coil (Siemens Healthcare, Erlangen, Germany).
 33-1	5522-5526	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 33-2	5527-5538	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 33-3	5539-5547	Scanning	_
@@ -1011,6 +1044,7 @@
 33-29	5694-5695	)	_
 33-30	5696-5697	.	_
 
+Text=Structural scans were acquired using a three-dimensional T1-weighted MP-RAGE pulse sequence with a voxel resolution of 1 mm3, flip angle (FA) = 7°, echo time (TE) = 1.61 ms, inversion time (TI) = 1,200 ms, and repetition time (TR) = 2530 ms. For functional images, the BOLD signal was measured using a T2 * weighted gradient-echo, echo-planar imaging (EPI) pulse sequence with prospective acquisition correction (PACE) for motion (Thesen et al., 2000) with imaging parameters: TR = 2 s, TE = 30 ms, FA = 90°, voxel size = 3.5 × 3.5 × 3.5 mm3, number of slices = 33, and slice gap = 10%.
 34-1	5698-5708	Structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 34-2	5709-5714	scans	_
 34-3	5715-5719	were	_
@@ -1146,6 +1180,7 @@
 34-133	6310-6311	%	_
 34-134	6312-6313	.	_
 
+Text=Functional Localizer & ROI definitions At the start of session one, a 6-min resting state scan (RS-pre) was acquired in order to extract the subject specific DMN, CEN & SMC networks (Figure 1B).
 35-1	6314-6324	Functional	_
 35-2	6325-6334	Localizer	_
 35-3	6335-6336	&	_
@@ -1187,6 +1222,7 @@
 35-39	6512-6513	)	_
 35-40	6514-6515	.	_
 
+Text=(8) To obtain the masks for the feedback protocols we thresholded the obtained subject specific DMN, CEN & SMC network to yield the upper 10% and binarized them.
 36-1	6516-6517	(	_
 36-2	6518-6519	8	_
 36-3	6520-6521	)	_
@@ -1221,6 +1257,7 @@
 36-32	6676-6680	them	_
 36-33	6681-6682	.	_
 
+Text=(9) Manual inspection was performed to confirm that the obtained networks cover approximate DMN, CEN & SMC brain regions.
 37-1	6683-6684	(	_
 37-2	6685-6686	9	_
 37-3	6687-6688	)	_
@@ -1245,6 +1282,7 @@
 37-22	6799-6806	regions	_
 37-23	6807-6808	.	_
 
+Text=DMN Feedback Scans There were six runs in this task, with the first and sixth run having no feedback and serving as transfer tasks (TT-pre & TT-post), while runs 2-5 provided real-time feedback to the participants by means of a Positive Diametric Activity (PDA) metric.This PDA metric is based on the hypothesis that there is a causal neural mechanism by which the CEN negatively regulates the DMN.
 38-1	6809-6812	DMN	_
 38-2	6813-6821	Feedback	_
 38-3	6822-6827	Scans	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1320,6 +1358,7 @@
 38-73	7209-7212	DMN	_
 38-74	7213-7214	.	_
 
+Text=Accordingly, we defined the PDA as follows: Each run lasted 2.5 min, while BOLD fluctuations were measured using rtfMRI analysis as described in.
 39-1	7215-7226	Accordingly	_
 39-2	7227-7228	,	_
 39-3	7229-7231	we	_
@@ -1348,6 +1387,7 @@
 39-26	7360-7362	in	_
 39-27	7363-7364	.	_
 
+Text=During triggering, functional runs of incoming images from the scanner were analyzed in real-time to estimate mean activation levels in DMN & CEN from the subject specific regions of interest (ROIs) obtained from RS-pre ICA network extraction protocol (see Functional Localizer & ROI definitions).
 40-1	7365-7371	During	_
 40-2	7372-7382	triggering	_
 40-3	7383-7384	,	_
@@ -1399,6 +1439,7 @@
 40-49	7665-7666	)	_
 40-50	7667-7668	.	_
 
+Text=To accomplish the estimation, a voxel-wise incremental general linear model (GLM) fit was performed where the design matrix included a 30 sec baseline and a 120 sec active block to account for the mean voxel signal and linear trends.
 41-1	7669-7671	To	_
 41-2	7672-7682	accomplish	_
 41-3	7683-7686	the	_
@@ -1443,6 +1484,7 @@
 41-42	7898-7904	trends	_
 41-43	7905-7906	.	_
 
+Text=To discount components of the voxel signal due to nuisance sources (e.g., low-frequency signal drifts), the GLM reconstruction of the expected voxel intensity at time t was subtracted from the measured voxel intensity at time t, leaving a residual signal that has components due to two sources: BOLD signal fluctuations and unmodeled fMRI noise.
 42-1	7907-7909	To	_
 42-2	7910-7918	discount	_
 42-3	7919-7929	components	_
@@ -1505,6 +1547,7 @@
 42-60	8252-8257	noise	_
 42-61	8258-8259	.	_
 
+Text=This residual is scaled by an estimate of voxel reliability, which is computed as the average GLM residual over the first 15 functional images of the baseline.
 43-1	8260-8264	This	_
 43-2	8265-8273	residual	_
 43-3	8274-8276	is	_
@@ -1535,6 +1578,7 @@
 43-28	8411-8419	baseline	_
 43-29	8420-8421	.	_
 
+Text=This analysis results in an estimate of the strength of activation at each voxel at time t in units of standard deviation (SD).
 44-1	8422-8426	This	_
 44-2	8427-8435	analysis	_
 44-3	8436-8443	results	_
@@ -1562,6 +1606,7 @@
 44-25	8549-8550	)	_
 44-26	8551-8552	.	_
 
+Text=Activations in DMN & CEN ROIs were computed as the median SD of the voxels in each ROI.
 45-1	8553-8564	Activations	_
 45-2	8565-8567	in	_
 45-3	8568-8571	DMN	_
@@ -1582,6 +1627,7 @@
 45-18	8636-8639	ROI	_
 45-19	8640-8641	.	_
 
+Text=The participants were provided with a visual feedback of these activation changes in real time.
 46-1	8642-8645	The	_
 46-2	8646-8658	participants	_
 46-3	8659-8663	were	_
@@ -1599,6 +1645,7 @@
 46-15	8732-8736	time	_
 46-16	8737-8738	.	_
 
+Text=The visual feedback consisted of a rectangle with one centrally displayed white dot and two circles: a red circle located above and a blue circle located below the white central dot.
 47-1	8739-8742	The	_
 47-2	8743-8749	visual	_
 47-3	8750-8758	feedback	_
@@ -1633,6 +1680,7 @@
 47-32	8918-8921	dot	_
 47-33	8922-8923	.	_
 
+Text=The central white dot tracked the increase or decrease of PDA (see above) by moving upwards, i.e., in the direction of a red circle for increased PDA, and downward, i.e., in the direction of the blue circle for decreased PDA.
 48-1	8924-8927	The	_
 48-2	8928-8935	central	_
 48-3	8936-8941	white	_
@@ -1682,6 +1730,7 @@
 48-47	9152-9155	PDA	_
 48-48	9156-9157	.	_
 
+Text=The hop size of the ball movement was proportional to the magnitude of PDA value.
 49-1	9158-9161	The	_
 49-2	9162-9165	hop	_
 49-3	9166-9170	size	_
@@ -1699,6 +1748,7 @@
 49-15	9233-9238	value	_
 49-16	9239-9240	.	_
 
+Text=To accomplish this visual feedback, a signal was sent to the stimulus computer via a TCP/IP connection, where the stimulus program coded in PsychoPy received this signal and moved the central white dot in the direction corresponding to what PDA indicated.
 50-1	9241-9243	To	_
 50-2	9244-9254	accomplish	_
 50-3	9255-9259	this	_
@@ -1744,6 +1794,7 @@
 50-43	9488-9497	indicated	_
 50-44	9498-9499	.	_
 
+Text=The time delay between collection of a complete EPI volume and a trial trigger was 0.5 s. A schematic depicting the brain state monitoring and the feedback process is shown in Figure 1.
 51-1	9500-9503	The	_
 51-2	9504-9508	time	_
 51-3	9509-9514	delay	_
@@ -1779,6 +1830,7 @@
 51-33	9683-9684	1	_
 51-34	9685-9686	.	_
 
+Text=Participants were instructed that upward movement of the dot (indicating an increase in PDA) was associated with effective mental noting performance and downward movement (indicating a decrease in PDA) with ineffective mental noting such as self-related processing and mind-wandering.
 52-1	9687-9699	Participants	_
 52-2	9700-9704	were	_
 52-3	9705-9715	instructed	_
@@ -1824,6 +1876,7 @@
 52-43	9960-9974	mind-wandering	_
 52-44	9975-9976	.	_
 
+Text=This instruction was provided so that participants could anchor their subjective experience of engaging in mental noting to the observed PDA level.
 53-1	9977-9981	This	_
 53-2	9982-9993	instruction	_
 53-3	9994-9997	was	_
@@ -1848,6 +1901,7 @@
 53-22	10118-10123	level	_
 53-23	10124-10125	.	_
 
+Text=Participants were instructed to try to move the white dot into the upper-red circle by performing the mental noting.
 54-1	10126-10138	Participants	_
 54-2	10139-10143	were	_
 54-3	10144-10154	instructed	_
@@ -1869,6 +1923,7 @@
 54-19	10235-10241	noting	_
 54-20	10242-10243	.	_
 
+Text=Control Feedback Task The control feedback task was conducted at least 12 weeks after the neurofeedback study.
 55-1	10244-10251	Control	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 55-2	10252-10260	Feedback	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 55-3	10261-10265	Task	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
@@ -1888,6 +1943,7 @@
 55-17	10348-10353	study	_
 55-18	10354-10355	.	_
 
+Text=This task comprised six runs, with the first and sixth run having no feedback and serving as transfer tasks (TT-pre & TT-post), while runs 2-5 provided real-time neurofeedback to the participants by means of a Control Positive Diametric Activity (C-PDA) metric.
 56-1	10356-10360	This	_
 56-2	10361-10365	task	_
 56-3	10366-10375	comprised	_
@@ -1937,6 +1993,7 @@
 56-47	10616-10622	metric	_
 56-48	10623-10624	.	_
 
+Text=This C-PDA metric compared the right and left SMC (rSMC & lSMC respectively) activity in order to provide feedback for the tapping of fingers in either the right or left hand.
 57-1	10625-10629	This	_
 57-2	10630-10635	C-PDA	_
 57-3	10636-10642	metric	_
@@ -1972,6 +2029,7 @@
 57-33	10797-10801	hand	_
 57-34	10802-10803	.	_
 
+Text=Accordingly, we defined the C-PDA as follows: Each run had 4 randomized blocks comprised of 2 rSMC blocks and 2 lSMC blocks.
 58-1	10804-10815	Accordingly	_
 58-2	10816-10817	,	_
 58-3	10818-10820	we	_
@@ -1998,6 +2056,7 @@
 58-24	10923-10929	blocks	_
 58-25	10930-10931	.	_
 
+Text=Before each block participants saw a prompt stating either “ right ” or “ left ”, so participants knew which hand ’ s fingers they had to move.
 59-1	10932-10938	Before	_
 59-2	10939-10943	each	_
 59-3	10944-10949	block	_
@@ -2029,6 +2088,7 @@
 59-29	11071-11075	move	_
 59-30	11076-11077	.	_
 
+Text=All participants were instructed how to perform finger tapping outside the scanner before the feedback session.
 60-1	11078-11081	All	_
 60-2	11082-11094	participants	_
 60-3	11095-11099	were	_
@@ -2047,6 +2107,7 @@
 60-16	11181-11188	session	_
 60-17	11189-11190	.	_
 
+Text=After each tapping block, a prompt appeared to rate how intense they were tapping their fingers on a scale of 1 (low intensity) to 6 (high intensity).
 61-1	11191-11196	After	_
 61-2	11197-11201	each	_
 61-3	11202-11209	tapping	_
@@ -2081,6 +2142,7 @@
 61-32	11344-11345	)	_
 61-33	11346-11347	.	_
 
+Text=In the feedback blocks, participants saw a thermometer showing how well they were able to increase their brain activity by tapping their fingers (Figure S2).
 62-1	11348-11350	In	_
 62-2	11351-11354	the	_
 62-3	11355-11363	feedback	_
@@ -2111,6 +2173,7 @@
 62-28	11506-11507	)	_
 62-29	11508-11509	.	_
 
+Text=fMRI data analysis Preprocessing The preprocessing of resting state and feedback images was done using custom software CONN 17.e and SPM 12 software (http: //www.fil.ion.ucl.ac.uk/spm) implemented in a MATLAB suite (Mathworks, Inc., Natick, Massachusetts).
 63-1	11510-11514	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 63-2	11515-11519	data	_
 63-3	11520-11528	analysis	_
@@ -2155,6 +2218,7 @@
 63-42	11772-11773	)	_
 63-43	11774-11775	.	_
 
+Text=It included slice time correction, head motion correction, co-registration to subjects ’ structural images, segmentation, normalization to Montreal Neurological Institute (MNI) space, linear detrending and smoothing (FWHM = 6 mm).
 64-1	11776-11778	It	_
 64-2	11779-11787	included	_
 64-3	11788-11793	slice	_
@@ -2196,6 +2260,7 @@
 64-39	12013-12014	)	_
 64-40	12015-12016	.	_
 
+Text=Functional Connectivity Analysis Functional connectivity (FC) analysis was performed using a seed-driven approach with in-house, custom software CONN 17.e.
 65-1	12017-12027	Functional	_
 65-2	12028-12040	Connectivity	_
 65-3	12041-12049	Analysis	_
@@ -2220,6 +2285,7 @@
 65-22	12170-12174	17.e	_
 65-23	12175-12176	.	_
 
+Text=We performed seed-voxel correlations by estimating maps showing temporal correlations between the BOLD time-series from the MPFC & superior temporal gyrus (STG) seeds and that of every brain voxel.
 66-1	12177-12179	We	_
 66-2	12180-12189	performed	_
 66-3	12190-12200	seed-voxel	_
@@ -2253,6 +2319,7 @@
 66-31	12370-12375	voxel	_
 66-32	12376-12377	.	_
 
+Text=We defined the MPFC seed following the literature as a 10–mm sphere around the coordinates (−1, 49, −2) in MNI space.
 67-1	12378-12380	We	_
 67-2	12381-12388	defined	_
 67-3	12389-12392	the	_
@@ -2280,6 +2347,7 @@
 67-25	12493-12498	space	_
 67-26	12499-12500	.	_
 
+Text=The STG was defined anatomically using WFU PickAtlasROIs (created in WFU PickAtlas; http: //fmri.wfubmc.edu/software/PickAtlas).
 68-1	12501-12504	The	_
 68-2	12505-12508	STG	_
 68-3	12509-12512	was	_
@@ -2300,6 +2368,7 @@
 68-18	12631-12632	)	_
 68-19	12633-12634	.	_
 
+Text=Physiological and other spurious sources of noise were estimated and regressed out using the anatomical CompCor method (aCompCor).
 69-1	12635-12648	Physiological	_
 69-2	12649-12652	and	_
 69-3	12653-12658	other	_
@@ -2322,6 +2391,7 @@
 69-20	12765-12766	)	_
 69-21	12767-12768	.	_
 
+Text=Global signal regression, a widely used preprocessing method, was not used because it mathematically mandates anticorrelations, rendering them uninterpretable, and can contribute to group differences in positive correlations.
 70-1	12769-12775	Global	_
 70-2	12776-12782	signal	_
 70-3	12783-12793	regression	_
@@ -2356,6 +2426,7 @@
 70-32	12985-12997	correlations	_
 70-33	12998-12999	.	_
 
+Text=Instead, a CompCor allows for interpretation of anticorrelations and yields higher specificity and sensitivity compared with global signal regression.
 71-1	13000-13007	Instead	_
 71-2	13008-13009	,	_
 71-3	13010-13011	a	_
@@ -2378,6 +2449,7 @@
 71-20	13140-13150	regression	_
 71-21	13151-13152	.	_
 
+Text=A temporal band-pass filter of .008 Hz to .09 Hz was applied simultaneously to all regressors in the model.
 72-1	13153-13154	A	_
 72-2	13155-13163	temporal	_
 72-3	13164-13173	band-pass	_
@@ -2399,6 +2471,7 @@
 72-19	13254-13259	model	_
 72-20	13260-13261	.	_
 
+Text=We used methods that minimize the influence of motion and artifact and that allow for valid identification of correlated and anticorrelated networks.
 73-1	13262-13264	We	_
 73-2	13265-13269	used	_
 73-3	13270-13277	methods	_
@@ -2423,6 +2496,7 @@
 73-22	13402-13410	networks	_
 73-23	13411-13412	.	_
 
+Text=To address the spurious correlations in resting-state networks caused by head motion we used quality assurance software Artifact Detection Tools to identify problematic time points during the scan.
 74-1	13413-13415	To	_
 74-2	13416-13423	address	_
 74-3	13424-13427	the	_
@@ -2453,6 +2527,7 @@
 74-28	13605-13609	scan	_
 74-29	13610-13611	.	_
 
+Text=Specifically, an image was defined as an outlier if the head displacement in x, y, or z direction was greater than 0.5 mm from the previous frame, or if the global mean intensity in the image was greater than 3 standard deviations from the mean image intensity for the entire resting scan.
 75-1	13612-13624	Specifically	_
 75-2	13625-13626	,	_
 75-3	13627-13629	an	_
@@ -2511,6 +2586,7 @@
 75-56	13900-13904	scan	_
 75-57	13905-13906	.	_
 
+Text=A single regressor for each outlier image was included in the first level GLM along with motion parameters and first order derivatives (there were no significant differences between runs).
 76-1	13907-13908	A	_
 76-2	13909-13915	single	_
 76-3	13916-13925	regressor	_
@@ -2544,6 +2620,7 @@
 76-31	14095-14096	)	_
 76-32	14097-14098	.	_
 
+Text=The anatomical image for each participant was segmented into white matter, grey matter, and cerebrospinal fluid (CSF) masks using SPM12.
 77-1	14099-14102	The	_
 77-2	14103-14113	anatomical	_
 77-3	14114-14119	image	_
@@ -2570,6 +2647,7 @@
 77-24	14233-14238	SPM12	_
 77-25	14239-14240	.	_
 
+Text=To minimize partial voluming with grey matter, the white matter and CSF masks were eroded by one voxel, which resulted in substantially smaller masks than the original segmentations.
 78-1	14241-14243	To	_
 78-2	14244-14252	minimize	_
 78-3	14253-14260	partial	_
@@ -2602,6 +2680,7 @@
 78-30	14411-14424	segmentations	_
 78-31	14425-14426	.	_
 
+Text=The eroded white matter and CSF masks were then used as noise regions of interest (ROI).
 79-1	14427-14430	The	_
 79-2	14431-14437	eroded	_
 79-3	14438-14443	white	_
@@ -2622,6 +2701,7 @@
 79-18	14515-14516	)	_
 79-19	14517-14518	.	_
 
+Text=Based on previous results, five principal components of the signals from white matter and CSF noise ROIs were removed with regression.
 80-1	14519-14524	Based	_
 80-2	14525-14527	on	_
 80-3	14528-14536	previous	_
@@ -2646,6 +2726,7 @@
 80-22	14643-14653	regression	_
 80-23	14654-14655	.	_
 
+Text=Time series of all the voxels within each seed were averaged, and first-level correlation maps were produced by extracting the residual blood oxygen level–dependent time course from each seed and computing Pearson correlation coefficients between that time course and the time course of all other voxels.
 81-1	14656-14660	Time	_
 81-2	14661-14667	series	_
 81-3	14668-14670	of	_
@@ -2695,6 +2776,7 @@
 81-47	14954-14960	voxels	_
 81-48	14961-14962	.	_
 
+Text=Correlation coefficients were converted to normally distributed Z-scores using the Fisher transformation to allow for second-level GLM analyses.
 82-1	14963-14974	Correlation	_
 82-2	14975-14987	coefficients	_
 82-3	14988-14992	were	_
@@ -2715,6 +2797,7 @@
 82-18	15098-15106	analyses	_
 82-19	15107-15108	.	_
 
+Text=Second-level random effects analysis, connectivity maps from MPFC & STG seeds respectively from all participants were entered into a paired t-test, to identify regions with connectivity differences between pre and post RS.
 83-1	15109-15121	Second-level	_
 83-2	15122-15128	random	_
 83-3	15129-15136	effects	_
@@ -2751,6 +2834,7 @@
 83-34	15330-15332	RS	_
 83-35	15333-15334	.	_
 
+Text=Additionally, in order to assess if there was a relationship between AHs and STG-MPFC resting state connectivity, we correlated the individual change in AHs (ΔAHs Score) with the change in STG-MPFC connectivity (ΔSTG-MPFC).
 84-1	15335-15347	Additionally	_
 84-2	15348-15349	,	_
 84-3	15350-15352	in	_
@@ -2792,6 +2876,7 @@
 84-39	15562-15563	)	_
 84-40	15564-15565	.	_
 
+Text=Statistical tests for AHs, mental noting and finger tapping performance related analyses were conducted using R Studio version 1.0.136 (www.r-project.org).
 85-1	15566-15577	Statistical	_
 85-2	15578-15583	tests	_
 85-3	15584-15587	for	_
@@ -2817,6 +2902,7 @@
 85-23	15722-15723	)	_
 85-24	15724-15725	.	_
 
+Text=Statistical significance level was set at 0.05 (one-tailed; pairwise comparisons with directional hypotheses).
 86-1	15726-15737	Statistical	_
 86-2	15738-15750	significance	_
 86-3	15751-15756	level	_
@@ -2835,6 +2921,7 @@
 86-16	15837-15838	)	_
 86-17	15839-15840	.	_
 
+Text=Unless otherwise stated all functional connectivity statistical analyses have a height threshold of p <0.01 at the voxel level and an extent threshold of FDR-corrected p <0.05.
 87-1	15841-15847	Unless	_
 87-2	15848-15857	otherwise	_
 87-3	15858-15864	stated	_

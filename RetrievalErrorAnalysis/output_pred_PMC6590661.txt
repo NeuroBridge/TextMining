@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Recreational use of GHB is associated with alterations of resting state functional connectivity of the central executive and default mode networks Abstract Gamma‐hydroxybutyrate acid (GHB) is a recreational drug with a high addictive potential.
 1-1	0-12	Recreational	_
 1-2	13-16	use	_
 1-3	17-19	of	_
@@ -40,6 +41,7 @@
 1-36	236-245	potential	_
 1-37	246-247	.	_
 
+Text=Severe side effects such as GHB‐induced coma are common and linked to increased emergency room attendances.
 2-1	248-254	Severe	_
 2-2	255-259	side	_
 2-3	260-267	effects	_
@@ -58,6 +60,7 @@
 2-16	343-354	attendances	_
 2-17	355-356	.	_
 
+Text=Task‐based functional‐imaging studies have revealed an association between the regular use of GHB and multiple GHB‐induced comas, and altered neurocognitive function.
 3-1	357-367	Task‐based	_
 3-2	368-386	functional‐imaging	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 3-3	387-394	studies	_
@@ -82,6 +85,7 @@
 3-22	515-523	function	_
 3-23	524-525	.	_
 
+Text=However the effects of multiple GHB‐induced comas and regular GHB‐use on intrinsic brain connectivity during rest remain unknown.
 4-1	526-533	However	_
 4-2	534-537	the	_
 4-3	538-545	effects	_
@@ -102,6 +106,7 @@
 4-18	647-654	unknown	_
 4-19	655-656	.	_
 
+Text=The study population consisted of 23 GHB‐users with ≥4 GHB‐induced comas (GHB‐Coma), 22 GHB‐users who never experienced a GHB‐induced coma (GHB‐NoComa) and 24 polydrug users who never used GHB (No‐GHB).
 5-1	657-660	The	_
 5-2	661-666	study	_
 5-3	667-677	population	_
@@ -141,6 +146,7 @@
 5-37	864-865	)	_
 5-38	866-867	.	_
 
+Text=Resting‐state scans were collected to assess resting‐state functional‐connectivity within and between the default mode network (DMN), the bilateral central executive network (CEN) and the salience network (SN).
 6-1	868-881	Resting‐state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 6-2	882-887	scans	_
 6-3	888-892	were	_
@@ -177,6 +183,7 @@
 6-34	1083-1084	)	_
 6-35	1085-1086	.	_
 
+Text=The GHB‐NoComa group showed decreased rsFC of the right CEN with a region in the anterior cingulate cortex (p FWE = 0.048) and decreased rsFC between the right CEN and the DMN (p FWE = 0.048) when compared with the No‐GHB group.
 7-1	1087-1090	The	_
 7-2	1091-1101	GHB‐NoComa	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 7-3	1102-1107	group	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
@@ -225,6 +232,7 @@
 7-46	1313-1318	group	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 7-47	1319-1320	.	_
 
+Text=These results suggest that regular GHB‐use is associated with decreased rsFC within the right CEN and between the right CEN and the DMN.
 8-1	1321-1326	These	_
 8-2	1327-1334	results	_
 8-3	1335-1342	suggest	_
@@ -250,6 +258,7 @@
 8-23	1453-1456	DMN	_
 8-24	1457-1458	.	_
 
+Text=The presence of multiple GHB‐induced comas is not associated with (additional) alterations in rsFC.
 9-1	1459-1462	The	_
 9-2	1463-1471	presence	_
 9-3	1472-1474	of	_
@@ -268,6 +277,7 @@
 9-16	1555-1559	rsFC	_
 9-17	1560-1561	.	_
 
+Text=MATERIALS AND METHODS Participants For this cross‐sectional study, 77 participants were recruited through addiction centers in the Netherlands, flyers, internet advertisements, and snowball sampling.
 10-1	1562-1571	MATERIALS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	1572-1575	AND	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1576-1583	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -298,6 +308,7 @@
 10-28	1756-1764	sampling	_
 10-29	1765-1766	.	_
 
+Text=Three different groups of participants matched on age and education level were included: 23 GHB‐users with ≥4 GHB‐induced comas (GHB‐Coma); 22 GHB‐users without GHB‐induced comas (GHB‐NoComa); and 24 polydrug users who never used GHB (No‐GHB).
 11-1	1767-1772	Three	_
 11-2	1773-1782	different	_
 11-3	1783-1789	groups	_
@@ -344,6 +355,7 @@
 11-44	2017-2018	)	_
 11-45	2019-2020	.	_
 
+Text=Inclusion criteria for all participants were: age between 18 and 40 years; native Dutch speaker; male gender (since the majority of GHB‐users are males; Miró et al., 2017).
 12-1	2021-2030	Inclusion	_
 12-2	2031-2039	criteria	_
 12-3	2040-2043	for	_
@@ -381,6 +393,7 @@
 12-35	2198-2199	)	_
 12-36	2200-2201	.	_
 
+Text=An additional inclusion criterion for GHB‐users was the use of GHB ≥25 times in the last 2 years preceding this assessment.
 13-1	2202-2204	An	_
 13-2	2205-2215	additional	_
 13-3	2216-2225	inclusion	_
@@ -404,6 +417,7 @@
 13-21	2314-2324	assessment	_
 13-22	2325-2326	.	_
 
+Text=An additional inclusion criterion for the GHB‐Coma group was a minimum of 4 GHB‐induced comas in order to increase the contrast with the GHB‐NoComa group.
 14-1	2327-2329	An	_
 14-2	2330-2340	additional	_
 14-3	2341-2350	inclusion	_
@@ -431,6 +445,7 @@
 14-25	2475-2480	group	_
 14-26	2481-2482	.	_
 
+Text=Polydrug use (or co‐use) of other recreational drugs was defined as the use of alcohol, nicotine, cannabis, cocaine, any other stimulants (amphetamines, khat, methylphenidate), ecstasy, ketamine, and/or sedatives (benzodiazepines).
 15-1	2483-2491	Polydrug	_
 15-2	2492-2495	use	_
 15-3	2496-2497	(	_
@@ -477,6 +492,7 @@
 15-44	2727-2728	)	_
 15-45	2729-2730	.	_
 
+Text=The exclusion criteria for the study were: a history of epilepsy, general anesthesia in the 2 years before the study; a contra‐indication for fMRI scanning (e.g., metal objects in the body or head injury); any coma unrelated to GHB‐use; and currently under treatment for narcolepsy with cataplexy (since treatment may involve the use of medication based on GHB).
 16-1	2731-2734	The	_
 16-2	2735-2744	exclusion	_
 16-3	2745-2753	criteria	_
@@ -547,6 +563,7 @@
 16-68	3101-3102	)	_
 16-69	3103-3104	.	_
 
+Text=After explanation of the study procedure, written informed consent was obtained from all participants prior to initiation of the study.
 17-1	3105-3110	After	_
 17-2	3111-3122	explanation	_
 17-3	3123-3125	of	_
@@ -570,6 +587,7 @@
 17-21	3235-3240	study	_
 17-22	3241-3242	.	_
 
+Text=This study was in accordance with the Helsinki Declaration principles (7th revision, 2013), the Medical Research Involving Human Subjects (WMO, 1998), and approved by the Medical Ethics Review Committee of the Academic Medical Centre (World Medical Association, 2013).
 18-1	3243-3247	This	_
 18-2	3248-3253	study	_
 18-3	3254-3257	was	_
@@ -621,6 +639,7 @@
 18-49	3520-3521	)	_
 18-50	3522-3523	.	_
 
+Text=Procedure The data presented here were part of a larger study assessing the neurocognitive and neural effects of regular GHB‐use and GHB‐induced comas in humans.
 19-1	3524-3533	Procedure	_
 19-2	3534-3537	The	_
 19-3	3538-3542	data	_
@@ -648,6 +667,7 @@
 19-25	3678-3684	humans	_
 19-26	3685-3686	.	_
 
+Text=The study consisted of an initial urine test, followed by completing questionnaires related to GHB and other drug use, depression, anxiety, stress, and impulsivity levels.
 20-1	3687-3690	The	_
 20-2	3691-3696	study	_
 20-3	3697-3706	consisted	_
@@ -680,6 +700,7 @@
 20-30	3856-3862	levels	_
 20-31	3863-3864	.	_
 
+Text=During the subsequent neuroimaging session, structural, and functional scans were collected in the following order: structural MRI; resting‐state fMRI; long‐term memory task; diffusion weighted imaging, working‐memory task; emotion processing.
 21-1	3865-3871	During	_
 21-2	3872-3875	the	_
 21-3	3876-3886	subsequent	_
@@ -719,6 +740,7 @@
 21-37	4105-4115	processing	_
 21-38	4116-4117	.	_
 
+Text=Finally outside the scanner, participants performed digitized neuropsychological tests, including verbal memory, spatial memory, intra‐extra dimensional set shifting, and probabilistic reversal learning.
 22-1	4118-4125	Finally	_
 22-2	4126-4133	outside	_
 22-3	4134-4137	the	_
@@ -748,6 +770,7 @@
 22-27	4317-4325	learning	_
 22-28	4326-4327	.	_
 
+Text=In this report we will present data focused on the rsFC analysis of this sample only.
 23-1	4328-4330	In	_
 23-2	4331-4335	this	_
 23-3	4336-4342	report	_
@@ -766,6 +789,7 @@
 23-16	4408-4412	only	_
 23-17	4413-4414	.	_
 
+Text=Other data from this study have been presented elsewhere (Raposo Pereira et al., 2018a, 2018b).
 24-1	4415-4420	Other	_
 24-2	4421-4425	data	_
 24-3	4426-4430	from	_
@@ -787,6 +811,7 @@
 24-19	4512-4513	)	_
 24-20	4514-4515	.	_
 
+Text=Questionnaire and cognitive test Premorbid intellectual functioning was assessed with the Dutch version of the Adult reading test, as proxy for IQ (Schmand, Bakker, Saan, & Louman, 1991).
 25-1	4516-4529	Questionnaire	_
 25-2	4530-4533	and	_
 25-3	4534-4543	cognitive	_
@@ -824,6 +849,7 @@
 25-35	4708-4709	)	_
 25-36	4710-4711	.	_
 
+Text=The MATE 2:1 substance use section was used to assess the use of different recreational drugs (Schippers, Broekman, & Buchholz, 2011).
 26-1	4712-4715	The	_
 26-2	4716-4720	MATE	_
 26-3	4721-4724	2:1	_
@@ -852,6 +878,7 @@
 26-26	4849-4850	)	_
 26-27	4851-4852	.	_
 
+Text=Statistical analysis Demographic and clinical data were analyzed with the SPSS24 software (IBM Software Analytics, New York, NY).
 27-1	4853-4864	Statistical	_
 27-2	4865-4873	analysis	_
 27-3	4874-4885	Demographic	_
@@ -876,6 +903,7 @@
 27-22	4984-4985	)	_
 27-23	4986-4987	.	_
 
+Text=Normally distributed data were evaluated through analysis of variance (ANOVA).
 28-1	4988-4996	Normally	_
 28-2	4997-5008	distributed	_
 28-3	5009-5013	data	_
@@ -890,6 +918,7 @@
 28-12	5066-5067	)	_
 28-13	5068-5069	.	_
 
+Text=If not normally distributed, data was transformed in order to obtain a normal distribution or evaluated with nonparametric tests).
 29-1	5070-5072	If	_
 29-2	5073-5076	not	_
 29-3	5077-5085	normally	_
@@ -913,6 +942,7 @@
 29-21	5200-5201	)	_
 29-22	5202-5203	.	_
 
+Text=Group differences in GHB daily dose (mL/day), years since first use, prevalence of days using GHB on the previous month, months of daily use, and total exposure as defined by years of use × daily dose, were tested in the groups that used GHB (Table 1).
 30-1	5204-5209	Group	_
 30-2	5210-5221	differences	_
 30-3	5222-5224	in	_
@@ -970,6 +1000,7 @@
 30-55	5463-5464	)	_
 30-56	5465-5466	.	_
 
+Text=The assessment of co‐use of different recreational drugs was performed by asking participants about the number of days they used a specific drug in the preceding month, their usual daily dose and the number of years they weekly used each drug.
 31-1	5467-5470	The	_
 31-2	5471-5481	assessment	_
 31-3	5482-5484	of	_
@@ -1014,6 +1045,7 @@
 31-42	5706-5710	drug	_
 31-43	5711-5712	.	_
 
+Text=As a result we defined a final drug‐exposure variable that was calculated as follows: years of weekly use × daily dose for each recreational drug considered on the MATE:2.1 questionnaire (Table 2).
 32-1	5713-5715	As	_
 32-2	5716-5717	a	_
 32-3	5718-5724	result	_
@@ -1051,6 +1083,7 @@
 32-35	5911-5912	)	_
 32-36	5913-5914	.	_
 
+Text=MRI data acquisition MRI data were collected with a 3 T Ingenia scanner with a 32 channel head coil (Phillips Medical System, Best, the Netherlands).
 33-1	5915-5918	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 33-2	5919-5923	data	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 33-3	5924-5935	acquisition	_
@@ -1082,6 +1115,7 @@
 33-29	6066-6067	)	_
 33-30	6068-6069	.	_
 
+Text=T1‐weighted structural images ([sagittal acquisition; voxel size: 1.0 × 1.0 × 1.0 mm3; flip angle: 9°; field of view [FOV]: 256 × 240 mm2) were acquired with a magnetization prepared rapid gradient echo (MPRAGE) sequence for spatial normalization purposes.
 34-1	6070-6081	T1‐weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 34-2	6082-6092	structural	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 34-3	6093-6099	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1136,6 +1170,7 @@
 34-52	6330-6338	purposes	_
 34-53	6339-6340	.	_
 
+Text=T2 * ‐weighted functional images were acquired using a 160 echo‐planar imaging (EPI) sequence with 37 ascending slices [anterior–posterior acquisition; TR/TE = 2000/27 ms; voxel size: 3.0 × 3.08 × 3.0 mm3; FOV: 240 × 240 mm2; duration: 5:28 min].
 35-1	6341-6343	T2	http://maven.renci.org/NeuroBridge/neurobridge#T2WeightedImaging
 35-2	6344-6345	*	http://maven.renci.org/NeuroBridge/neurobridge#T2WeightedImaging
 35-3	6346-6355	‐weighted	http://maven.renci.org/NeuroBridge/neurobridge#T2WeightedImaging
@@ -1189,6 +1224,7 @@
 35-51	6596-6597	]	_
 35-52	6598-6599	.	_
 
+Text=Participants were asked to keep their eyes open, not to think about anything in particular, and not to fall asleep.
 36-1	6600-6612	Participants	_
 36-2	6613-6617	were	_
 36-3	6618-6623	asked	_
@@ -1213,6 +1249,7 @@
 36-22	6710-6716	asleep	_
 36-23	6717-6718	.	_
 
+Text=MRI preprocessing Neuroimaging data was analyzed with Advanced Normalization Tools (ANTs; http: //stnava.github.io/ANTs/) software and FMRIB Software Library 5.0.10 (FSL; Analysis Group, FMRIB, Oxford, UK; http: //www.fmrib.ox.ac.uk/fsl; Avants et al., 2011).
 37-1	6719-6722	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 37-2	6723-6736	preprocessing	_
 37-3	6737-6749	Neuroimaging	_
@@ -1260,6 +1297,7 @@
 37-45	6990-6991	)	_
 37-46	6992-6993	.	_
 
+Text=Preprocessing of T1‐weighthed images was performed in the following order: (a) bias‐field correction using the N4‐algorithm; (b) registration based brain‐extraction using the OASIS atlas template; (c) segmentation into gray matter (GM; GM maps were used as voxel‐wise covariates during the analysis), white matter (WM), and cerebrospinal fluid (CSF) partial volume estimates using FSL's FAST tool; and (d) registration into MNI152 space using ANTs' symmetric normalization algorithm (Avants et al., 2011; Marcus et al., 2007; Tustison et al., 2010).
 38-1	6994-7007	Preprocessing	_
 38-2	7008-7010	of	_
 38-3	7011-7023	T1‐weighthed	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1370,6 +1408,7 @@
 38-108	7571-7572	)	_
 38-109	7573-7574	.	_
 
+Text=Preprocessing of T2 * functional images consisted of: realignment using MCFLIRT; co‐registration to T1‐weighted images using the boundary‐based registration algorithm; spatial smoothing with a 6 mm FWHM Gaussian kernel (Greve & Fischl, 2009).
 39-1	7575-7588	Preprocessing	_
 39-2	7589-7591	of	_
 39-3	7592-7594	T2	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -1411,6 +1450,7 @@
 39-39	7821-7822	)	_
 39-40	7823-7824	.	_
 
+Text=The general level of motion in these scans was assessed with frame‐wise displacement estimates (FD; Jenkinson, Bannister, Brady, & Smith, 2002; Jenkinson, Beckmann, Behrens, Woolrich, & Smith, 2012).
 40-1	7825-7828	The	_
 40-2	7829-7836	general	_
 40-3	7837-7842	level	_
@@ -1454,6 +1494,7 @@
 40-41	8035-8036	)	_
 40-42	8037-8038	.	_
 
+Text=High‐motion subjects were excluded based on the following criteria: (a) if any translation or rotation parameters exceeded 4 mm/degree; (b) if the average FD was> 0.3 mm; (c) if more than 40 volumes had an individual FD value> 0.25 mm leading to <4 min of motion unaffected resting‐state data for the analysis; (d) partial field of view during scanning (Satterthwaite et al., 2013; van Dijk, Sabuncu, & Buckner, 2012).
 41-1	8039-8050	High‐motion	_
 41-2	8051-8059	subjects	_
 41-3	8060-8064	were	_
@@ -1547,6 +1588,7 @@
 41-91	8477-8478	)	_
 41-92	8479-8480	.	_
 
+Text=Based on these criteria two participants from the GHB‐Coma group, three participant from the GHB‐NoComa group, and three participants from the No‐GHB group were excluded.
 42-1	8481-8486	Based	_
 42-2	8487-8489	on	_
 42-3	8490-8495	these	_
@@ -1576,6 +1618,7 @@
 42-27	8644-8652	excluded	_
 42-28	8653-8654	.	_
 
+Text=The remaining participants did not show any group differences on average FD (F (2,66) = 1.822; p = 0.170; Table 1).
 43-1	8655-8658	The	_
 43-2	8659-8668	remaining	_
 43-3	8669-8681	participants	_
@@ -1605,6 +1648,7 @@
 43-27	8774-8775	)	_
 43-28	8776-8777	.	_
 
+Text=As remaining motion can still exhibit a strong effect on resting‐state fMRI data, additional motion denoising was performed using ICA‐AROMA (Ciric et al., 2017; Parkes, Fulcher, Yücel, & Fornito, 2018).
 44-1	8778-8780	As	_
 44-2	8781-8790	remaining	_
 44-3	8791-8797	motion	_
@@ -1646,6 +1690,7 @@
 44-39	8987-8988	)	_
 44-40	8989-8990	.	_
 
+Text=ICA‐AROMA automatically identifies motion components of single‐subject ICA and removes them from each participant's functional data (Pruim et al., 2015; Pruim, Mennes, Buitelaar, & Beckmann, 2015).
 45-1	8991-9000	ICA‐AROMA	_
 45-2	9001-9014	automatically	_
 45-3	9015-9025	identifies	_
@@ -1683,6 +1728,7 @@
 45-35	9195-9196	)	_
 45-36	9197-9198	.	_
 
+Text=To address additional structured noise present in the data, the mean CSF and WM signal was regressed out of the functional images by transforming the WM/CSF segmentations obtained from the T1 image to EPI space.
 46-1	9199-9201	To	_
 46-2	9202-9209	address	_
 46-3	9210-9220	additional	_
@@ -1721,6 +1767,7 @@
 46-36	9405-9410	space	_
 46-37	9411-9412	.	_
 
+Text=Subsequently, these images were conservatively thresholded at 99%, eroded once, and used for calculating the mean signal within each of the masks.
 47-1	9413-9425	Subsequently	_
 47-2	9426-9427	,	_
 47-3	9428-9433	these	_
@@ -1749,6 +1796,7 @@
 47-26	9557-9562	masks	_
 47-27	9563-9564	.	_
 
+Text=The cleaned functional images were then high‐pass filtered with a cut‐off of 100 s and transformed into MNI152 space at 4 mm3.
 48-1	9565-9568	The	_
 48-2	9569-9576	cleaned	_
 48-3	9577-9587	functional	_
@@ -1773,6 +1821,7 @@
 48-22	9687-9690	mm3	_
 48-23	9691-9692	.	_
 
+Text=fMRI analysis RSNs were estimated using the MELODIC software implemented in FSL by performing ICA on the temporally concatenated fMRI data (group‐ICA; Beckmann, DeLuca, Devlin, & Smith, 2005).
 49-1	9693-9697	fMRI	_
 49-2	9698-9706	analysis	_
 49-3	9707-9711	RSNs	_
@@ -1810,6 +1859,7 @@
 49-35	9890-9891	)	_
 49-36	9892-9893	.	_
 
+Text=In order to produce more stable RS components a meta‐ICA approach was used (Biswal et al., 2010; Cerliani et al., 2015; Poppe et al., 2013; Smith et al., 2009).
 50-1	9894-9896	In	_
 50-2	9897-9902	order	_
 50-3	9903-9905	to	_
@@ -1850,6 +1900,7 @@
 50-38	10061-10062	)	_
 50-39	10063-10064	.	_
 
+Text=For this, an independent randomized subset of 10 participants per group from an eligible sample of 69 individuals was extracted 25 times, and group‐ICAs were performed for each of those.
 51-1	10065-10068	For	_
 51-2	10069-10073	this	_
 51-3	10074-10075	,	_
@@ -1884,6 +1935,7 @@
 51-32	10247-10252	those	_
 51-33	10253-10254	.	_
 
+Text=Subsequently, a meta‐ICA was performed on the concatenated spatial components from all single ICA runs.
 52-1	10255-10267	Subsequently	_
 52-2	10268-10269	,	_
 52-3	10270-10271	a	_
@@ -1902,6 +1954,7 @@
 52-16	10354-10358	runs	_
 52-17	10359-10360	.	_
 
+Text=Twenty dimensions were used both for the single and meta‐ICA to obtain a low‐dimensional representation of the data which makes it comparable to the literature (Biswal et al., 2010; Smith et al., 2009).
 53-1	10361-10367	Twenty	_
 53-2	10368-10378	dimensions	_
 53-3	10379-10383	were	_
@@ -1942,6 +1995,7 @@
 53-38	10566-10567	)	_
 53-39	10568-10569	.	_
 
+Text=The 20 obtained independent components were visually checked and compared with well‐known RSN templates from the literature.
 54-1	10570-10573	The	_
 54-2	10574-10576	20	_
 54-3	10577-10585	obtained	_
@@ -1961,6 +2015,7 @@
 54-17	10683-10693	literature	_
 54-18	10694-10695	.	_
 
+Text=From these, 19 ICs were identified as established RSNs from which four, namely the right CEN (R‐CEN), left CEN (L‐CEN), SN, and DMN were selected as the RSNs of interest for further analysis (Figure 1; Supporting Information Figure S1; Biswal et al., 2010; Laird et al., 2011; Smith et al., 2009).
 55-1	10696-10700	From	_
 55-2	10701-10706	these	_
 55-3	10707-10708	,	_
@@ -2032,6 +2087,7 @@
 55-69	11009-11010	)	_
 55-70	11011-11012	.	_
 
+Text=To verify whether the target networks corresponded to our networks of interest we spatially correlated our 20 independent components with the 20 components provided by Smith et al.
 56-1	11013-11015	To	_
 56-2	11016-11022	verify	_
 56-3	11023-11030	whether	_
@@ -2062,6 +2118,7 @@
 56-28	11190-11192	al	_
 56-29	11193-11194	.	_
 
+Text=(2009) using the “ fslcc ” tool from FSL (Smith et al., 2009).
 57-1	11195-11196	(	_
 57-2	11197-11201	2009	_
 57-3	11202-11203	)	_
@@ -2082,6 +2139,7 @@
 57-18	11260-11261	)	_
 57-19	11262-11263	.	_
 
+Text=The four networks in Figure 1 showed the highest correlation with Smith's DMN (r = 0.6048), frontoparietal (R‐CEN: r = 0.6961; L‐CEN: r = 0.782), and executive control networks (r = 0.6983).
 58-1	11264-11267	The	_
 58-2	11268-11272	four	_
 58-3	11273-11281	networks	_
@@ -2128,6 +2186,7 @@
 58-44	11464-11465	)	_
 58-45	11466-11467	.	_
 
+Text=To estimate group‐differences in connectivity within the networks of interest, FSL's dual regression analysis was performed (Beckmann, Mackay, Filippini, & Smith, 2009; Nickerson, Smith, Öngür, & Beckmann, 2017).
 59-1	11468-11470	To	_
 59-2	11471-11479	estimate	_
 59-3	11480-11497	group‐differences	_
@@ -2171,6 +2230,7 @@
 59-41	11691-11692	)	_
 59-42	11693-11694	.	_
 
+Text=In short, this approach takes the estimated group RSNs computed via meta‐ICA and creates single‐subject representations of the spatial components.
 60-1	11695-11697	In	_
 60-2	11698-11703	short	_
 60-3	11704-11705	,	_
@@ -2194,6 +2254,7 @@
 60-21	11831-11841	components	_
 60-22	11842-11843	.	_
 
+Text=These components can then be tested for group differences using permutation tests.
 61-1	11844-11849	These	_
 61-2	11850-11860	components	_
 61-3	11861-11864	can	_
@@ -2208,6 +2269,7 @@
 61-12	11920-11925	tests	_
 61-13	11926-11927	.	_
 
+Text=To test our hypotheses, we performed the following planned comparisons: GHB‐Coma versus GHB‐NoComa/No‐GHB (effect of multiple GHB‐induced comas) and GHB‐NoComa versus No‐GHB (effect of GHB‐use per se).
 62-1	11928-11930	To	_
 62-2	11931-11935	test	_
 62-3	11936-11939	our	_
@@ -2243,6 +2305,7 @@
 62-33	12133-12134	)	_
 62-34	12135-12136	.	_
 
+Text=The randomize tool from FSL with 10,000 permutations and family‐wise‐error (FWE; p <0.05) correction using the threshold‐free cluster enhancement followed by Bonferroni correction across networks were used (Smith & Nichols, 2009).
 63-1	12137-12140	The	_
 63-2	12141-12150	randomize	_
 63-3	12151-12155	tool	_
@@ -2283,6 +2346,7 @@
 63-38	12372-12373	)	_
 63-39	12374-12375	.	_
 
+Text=Covariates of no‐interest were introduced to control for premorbid‐verbal IQ, exposure to recreational drugs other than GHB (cocaine, stimulants other than cocaine, ecstasy, and sedatives), and GM volume (IQ and GM introduced as linear variables; exposure to the referenced drugs as five dummy variables) (Oakes et al., 2007).
 64-1	12376-12386	Covariates	_
 64-2	12387-12389	of	_
 64-3	12390-12401	no‐interest	_
@@ -2346,6 +2410,7 @@
 64-61	12713-12714	)	_
 64-62	12715-12716	.	_
 
+Text=The analysis was repeated without the use of the GM covariate.
 65-1	12717-12720	The	_
 65-2	12721-12729	analysis	_
 65-3	12730-12733	was	_
@@ -2359,6 +2424,7 @@
 65-11	12769-12778	covariate	_
 65-12	12779-12780	.	_
 
+Text=Between‐network connectivity analysis was performed using FSLNets tool (version 0.6, https: //fsl.fmrib.ox.
 66-1	12781-12796	Between‐network	_
 66-2	12797-12809	connectivity	_
 66-3	12810-12818	analysis	_
@@ -2376,10 +2442,12 @@
 66-15	12876-12890	//fsl.fmrib.ox	_
 66-16	12891-12892	.	_
 
+Text=ac.uk/fsl/fslwiki/FSLNets).
 67-1	12893-12918	ac.uk/fsl/fslwiki/FSLNets	_
 67-2	12919-12920	)	_
 67-3	12921-12922	.	_
 
+Text=For our four RSNs of interest, Pearson correlation and partial correlation coefficients were calculated, and Fisher r‐to‐z transformed.
 68-1	12923-12926	For	_
 68-2	12927-12930	our	_
 68-3	12931-12935	four	_
@@ -2402,6 +2470,7 @@
 68-20	13048-13059	transformed	_
 68-21	13060-13061	.	_
 
+Text=Group comparisons using the same contrasts as in the within network analysis were performed using 10,000 randomized permutations.
 69-1	13062-13067	Group	_
 69-2	13068-13079	comparisons	_
 69-3	13080-13085	using	_
@@ -2422,6 +2491,7 @@
 69-18	13178-13190	permutations	_
 69-19	13191-13192	.	_
 
+Text=Results were FWE‐corrected (p <0.05; Winkler, Ridgway, Webster, Smith, & Nichols, 2014).
 70-1	13193-13200	Results	_
 70-2	13201-13205	were	_
 70-3	13206-13219	FWE‐corrected	_

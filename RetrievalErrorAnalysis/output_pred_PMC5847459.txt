@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Hallucination- and speech-specific hypercoupling in frontotemporal auditory and language networks in schizophrenia using combined task-based fMRI data: an fBIRN study Hypercoupling of activity in speech-perception-specific brain networks has been proposed to play a role in the generation of auditory-verbal hallucinations (AVHs) in schizophrenia; however, it is unclear whether this hypercoupling extends to non-verbal auditory perception.
 1-1	0-14	Hallucination-	_
 1-2	15-18	and	_
 1-3	19-34	speech-specific	_
@@ -64,6 +65,7 @@
 1-60	434-444	perception	_
 1-61	445-446	.	_
 
+Text=We investigated this by comparing schizophrenia patients with and without AVHs, and healthy controls, on task-based functional magnetic resonance imaging (fMRI) data combining verbal speech perception (SP), inner verbal thought generation (VTG), and non-verbal auditory oddball detection (AO).
 2-1	447-449	We	_
 2-2	450-462	investigated	_
 2-3	463-467	this	_
@@ -116,6 +118,7 @@
 2-50	750-751	)	_
 2-51	752-753	.	_
 
+Text=Data from two previously-published fMRI studies were simultaneously analyzed using group constrained principal component analysis for fMRI (group fMRI-CPCA), which allowed for comparison of task-related functional brain networks across groups and tasks while holding the brain networks under study constant, leading to determination of the degree to which networks are common to verbal and non-verbal perception conditions, and which show coordinated hyperactivity in hallucinations.
 3-1	754-758	Data	_
 3-2	759-763	from	_
 3-3	764-767	two	_
@@ -187,6 +190,7 @@
 3-69	1227-1241	hallucinations	_
 3-70	1242-1243	.	_
 
+Text=Three functional brain networks emerged: (1) auditory-motor, (2) language processing, and (3) default-mode (DMN) networks.
 4-1	1244-1249	Three	_
 4-2	1250-1260	functional	_
 4-3	1261-1266	brain	_
@@ -215,6 +219,7 @@
 4-26	1368-1376	networks	_
 4-27	1377-1378	.	_
 
+Text=Combining the AO and sentence tasks allowed the auditory-motor and language networks to separately emerge, whereas they were aggregated when individual tasks were analyzed.
 5-1	1379-1388	Combining	_
 5-2	1389-1392	the	_
 5-3	1393-1395	AO	_
@@ -242,6 +247,7 @@
 5-25	1543-1551	analyzed	_
 5-26	1552-1553	.	_
 
+Text=AVH patients showed greater coordinated activity (deactivity for DMN regions) than non-AVH patients during SP in all networks, but this did not extend to VTG or AO.
 6-1	1554-1557	AVH	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 6-2	1558-1566	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 6-3	1567-1573	showed	_
@@ -274,6 +280,7 @@
 6-30	1718-1720	AO	_
 6-31	1721-1722	.	_
 
+Text=This suggests that the hypercoupling in AVH patients in speech-perception-related brain networks is specific to perceived speech, and does not extend to perceived non-speech or inner verbal thought generation.
 7-1	1723-1727	This	_
 7-2	1728-1736	suggests	_
 7-3	1737-1741	that	_
@@ -306,6 +313,7 @@
 7-30	1922-1932	generation	_
 7-31	1933-1934	.	_
 
+Text=Methods Participants Participants were schizophrenia patients and healthy controls from two functional magnetic resonance imaging (fMRI) datasets.
 8-1	1935-1942	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 8-2	1943-1955	Participants	_
 8-3	1956-1968	Participants	_
@@ -327,6 +335,7 @@
 8-19	2074-2082	datasets	_
 8-20	2083-2084	.	_
 
+Text=The first dataset consisted of 27 healthy controls, 11 non-AVH, and 12 AVH schizophrenia patients who performed a verbal sentence task including speech perception and inner verbal thought generation conditions.
 9-1	2085-2088	The	_
 9-2	2089-2094	first	_
 9-3	2095-2102	dataset	_
@@ -361,6 +370,7 @@
 9-32	2286-2296	conditions	_
 9-33	2297-2298	.	_
 
+Text=Mean illness duration was 14.05 years (SD = 10.14), and all but one patient was currently taking antipsychotic medication.
 10-1	2299-2303	Mean	_
 10-2	2304-2311	illness	_
 10-3	2312-2320	duration	_
@@ -385,6 +395,7 @@
 10-22	2413-2423	medication	_
 10-23	2424-2425	.	_
 
+Text=Nineteen patients were taking an atypical antipsychotic, and two were taking a typical antipsychotic, as their primary medication.
 11-1	2426-2434	Nineteen	_
 11-2	2435-2443	patients	_
 11-3	2444-2448	were	_
@@ -407,6 +418,7 @@
 11-20	2547-2557	medication	_
 11-21	2558-2559	.	_
 
+Text=Fourteen patients were also taking a second antipsychotic medication (2 typical, 12 atypical), and four were taking a third atypical medication (1 missing data).
 12-1	2560-2568	Fourteen	_
 12-2	2569-2577	patients	_
 12-3	2578-2582	were	_
@@ -439,6 +451,7 @@
 12-30	2725-2726	)	_
 12-31	2727-2728	.	_
 
+Text=Chlorpromazine equivalent dosages were available for 14 patients: mean = 1018.57; SD = 2402.92.
 13-1	2729-2743	Chlorpromazine	_
 13-2	2744-2754	equivalent	_
 13-3	2755-2762	dosages	_
@@ -457,6 +470,7 @@
 13-16	2818-2825	2402.92	_
 13-17	2826-2827	.	_
 
+Text=Symptoms were assessed using the Signs of Symptoms of Psychotic Illness (SSPI), which is scored on a 5-point scale corresponding to severity of hallucinations (0 = absent, 1 = vague descriptions of hallucinations, 2 = hallucinations that the patient accepts as arising from within his/her own mind, 3 = definite hallucinations occurring occasionally [e.g., <once/day], 4 = definite hallucinations that are frequent and/or influence observable behaviour).
 14-1	2828-2836	Symptoms	_
 14-2	2837-2841	were	_
 14-3	2842-2850	assessed	_
@@ -538,6 +552,7 @@
 14-79	3293-3294	)	_
 14-80	3295-3296	.	_
 
+Text=Patients scoring greater than 2 on the hallucinations item were included in the AVH group.
 15-1	3297-3305	Patients	_
 15-2	3306-3313	scoring	_
 15-3	3314-3321	greater	_
@@ -555,6 +570,7 @@
 15-15	3381-3386	group	_
 15-16	3387-3388	.	_
 
+Text=All patients experienced AVHs (i.e., voices), though two also experienced other auditory hallucinations, such as auditory distortions, simple noises, and music.
 16-1	3389-3392	All	_
 16-2	3393-3401	patients	_
 16-3	3402-3413	experienced	_
@@ -585,6 +601,7 @@
 16-28	3550-3555	music	_
 16-29	3556-3557	.	_
 
+Text=Six patients also experienced multimodal hallucinations (6 tactile, 3 visual, 1 olfactory).
 17-1	3558-3561	Six	_
 17-2	3562-3570	patients	_
 17-3	3571-3575	also	_
@@ -603,6 +620,7 @@
 17-16	3651-3652	)	_
 17-17	3653-3654	.	_
 
+Text=All participants were screened for MRI compatibility and gave written informed consent prior to participation.
 18-1	3655-3658	All	_
 18-2	3659-3671	participants	_
 18-3	3672-3676	were	_
@@ -620,6 +638,7 @@
 18-15	3751-3764	participation	_
 18-16	3765-3766	.	_
 
+Text=Experimental procedures were approved as part of a larger study by the University of British Columbia clinical research ethics board.
 19-1	3767-3779	Experimental	_
 19-2	3780-3790	procedures	_
 19-3	3791-3795	were	_
@@ -642,6 +661,7 @@
 19-20	3894-3899	board	_
 19-21	3900-3901	.	_
 
+Text=The second dataset was acquired from the publicly available fBIRN phase II multisite study, which consists of data collected at six sites across the United States of America: Duke/UNC, Brigham and Women ’ s Hospital, Massachusetts General Hospital, University of California – Irvine, University of New Mexico, and Yale.
 20-1	3902-3905	The	_
 20-2	3906-3912	second	_
 20-3	3913-3920	dataset	_
@@ -700,6 +720,7 @@
 20-56	4223-4227	Yale	_
 20-57	4228-4229	.	_
 
+Text=Data were downloaded from the fBIRN Data Repository, Project Accession Number 2007-BDR-6UHZ1.
 21-1	4230-4234	Data	_
 21-2	4235-4239	were	_
 21-3	4240-4250	downloaded	_
@@ -715,6 +736,7 @@
 21-13	4309-4323	2007-BDR-6UHZ1	_
 21-14	4324-4325	.	_
 
+Text=The quality-controlled data set (see) included 50 healthy controls, 23 non-AVH, and 35 AVH patients diagnosed with schizophrenia or schizoaffective disorder who completed an auditory oddball task.
 22-1	4326-4329	The	_
 22-2	4330-4348	quality-controlled	_
 22-3	4349-4353	data	_
@@ -748,6 +770,7 @@
 22-31	4521-4525	task	_
 22-32	4526-4527	.	_
 
+Text=Patients ’ symptoms were assessed using the Scale for the Assessment of Positive Symptoms (SAPS), which is scored on a six-point scale from 0 to 5 in increasing severity: 0 = none; 1 = questionable; 2 = mild (noises or single words, which only appear occasionally); 3 = moderate (clear evidence of voices occurring at least weekly); 4 = marked (clear evidence of voices occurring almost daily); 5 = severe (voices occur often daily).
 23-1	4528-4536	Patients	_
 23-2	4537-4538	’	_
 23-3	4539-4547	symptoms	_
@@ -842,6 +865,7 @@
 23-92	4977-4978	)	_
 23-93	4979-4980	.	_
 
+Text=As with the sentence task sample, patients scoring greater than 2 on the hallucinations item were included in the AVH group.
 24-1	4981-4983	As	_
 24-2	4984-4988	with	_
 24-3	4989-4992	the	_
@@ -866,6 +890,7 @@
 24-22	5100-5105	group	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 24-23	5106-5107	.	_
 
+Text=Observation of scores on the SAPS items Voices Commenting and Voices Conversing confirmed that most hallucinating patients experienced AVHs; however, the presence of AVHs could not be confirmed in eight patients who reported auditory hallucinations, as the AVH-specific items were not endorsed or were scored below the same cut-off value of 2.
 25-1	5108-5119	Observation	_
 25-2	5120-5122	of	_
 25-3	5123-5129	scores	_
@@ -923,6 +948,7 @@
 25-55	5452-5453	2	_
 25-56	5454-5455	.	_
 
+Text=Nineteen patients also reported multimodal hallucinations (10 somatic-tactile, 6 olfactory, 13 visual).
 26-1	5456-5464	Nineteen	_
 26-2	5465-5473	patients	_
 26-3	5474-5478	also	_
@@ -941,6 +967,7 @@
 26-16	5561-5562	)	_
 26-17	5563-5564	.	_
 
+Text=All patients were stable and had no changes in their medications in the two months prior to testing; however, additional information regarding medication and illness history was not available, which precluded us from comparing the two samples on these measures.
 27-1	5565-5568	All	_
 27-2	5569-5577	patients	_
 27-3	5578-5582	were	_
@@ -986,6 +1013,7 @@
 27-43	5820-5828	measures	_
 27-44	5829-5830	.	_
 
+Text=All fBIRN sites received local Institutional Review Board approval.
 28-1	5831-5834	All	_
 28-2	5835-5840	fBIRN	http://maven.renci.org/NeuroBridge/neurobridge#BirchwoodSocialFunctioningScale
 28-3	5841-5846	sites	_
@@ -997,6 +1025,7 @@
 28-9	5889-5897	approval	_
 28-10	5898-5899	.	_
 
+Text=Table 1 shows demographic information for each group, for the auditory oddball and sentence tasks separately.
 29-1	5900-5905	Table	_
 29-2	5906-5907	1	_
 29-3	5908-5913	shows	_
@@ -1016,6 +1045,7 @@
 29-17	5999-6009	separately	_
 29-18	6010-6011	.	_
 
+Text=There were no significant differences between groups on age, gender or handedness for either task.
 30-1	6012-6017	There	_
 30-2	6018-6022	were	_
 30-3	6023-6025	no	_
@@ -1034,6 +1064,7 @@
 30-16	6106-6110	task	_
 30-17	6111-6112	.	_
 
+Text=Experimental Design Sentence Task Participants were presented with a noun (object) and its corresponding image (e.g., Table) and instructed to either listen to (speech perception condition; SP) or mentally generate (inner verbal thought generation condition; VTG) a simple definition of the word (e.g., “ Something you eat dinner on ”; see Figures 1A and 1B, respectively).
 31-1	6113-6125	Experimental	_
 31-2	6126-6132	Design	_
 31-3	6133-6141	Sentence	_
@@ -1108,6 +1139,7 @@
 31-72	6500-6501	)	_
 31-73	6502-6503	.	_
 
+Text=The SP and VTG conditions were presented in blocks consisting of 15 trials each (30 trials total for each condition across two runs), with an inter-trial interval (ITI) between stimuli, and a 60s rest break between the two conditions.
 32-1	6504-6507	The	_
 32-2	6508-6510	SP	_
 32-3	6511-6514	and	_
@@ -1155,6 +1187,7 @@
 32-45	6733-6743	conditions	_
 32-46	6744-6745	.	_
 
+Text=The ITI was exponential to optimize deconvolution of the blood oxygenation level dependent (BOLD) signal, and lasted from 2 to 20s (mean = 4.46s).
 33-1	6746-6749	The	_
 33-2	6750-6753	ITI	_
 33-3	6754-6757	was	_
@@ -1186,6 +1219,7 @@
 33-29	6895-6896	)	_
 33-30	6897-6898	.	_
 
+Text=Stimuli were randomly assigned to each condition for each participant separately.
 34-1	6899-6906	Stimuli	_
 34-2	6907-6911	were	_
 34-3	6912-6920	randomly	_
@@ -1199,6 +1233,7 @@
 34-11	6969-6979	separately	_
 34-12	6980-6981	.	_
 
+Text=The conditions were cued with the words “ listen… ” and “ something you… ” presented under the images in the SP and VTG conditions, respectively, in order to ensure that at least some words were mentally generated on every trial, and to minimize any interpretational confounds between conditions.
 35-1	6982-6985	The	_
 35-2	6986-6996	conditions	_
 35-3	6997-7001	were	_
@@ -1253,6 +1288,7 @@
 35-52	7270-7280	conditions	_
 35-53	7281-7282	.	_
 
+Text=Following the experiment, participants were asked whether or not they experienced hallucinations during the scanning session.
 36-1	7283-7292	Following	_
 36-2	7293-7296	the	_
 36-3	7297-7307	experiment	_
@@ -1272,6 +1308,7 @@
 36-17	7401-7408	session	_
 36-18	7409-7410	.	_
 
+Text=One patient reported active AVHs during the speech perception trials, and one patient reported tactile hallucinations during the thought generation trials (data were missing for two subjects).
 37-1	7411-7414	One	_
 37-2	7415-7422	patient	_
 37-3	7423-7431	reported	_
@@ -1304,6 +1341,7 @@
 37-30	7604-7605	)	_
 37-31	7606-7607	.	_
 
+Text=fBIRN Auditory Oddball Task The two-tone AO task (Figure 1C) involved listening to a series of tones and indicating with a button press when a target tone (i.e., a tone deviating in frequency) was presented.
 38-1	7608-7613	fBIRN	http://maven.renci.org/NeuroBridge/neurobridge#BirchwoodSocialFunctioningScale
 38-2	7614-7622	Auditory	http://maven.renci.org/NeuroBridge/neurobridge#AuditoryOddballTask
 38-3	7623-7630	Oddball	http://maven.renci.org/NeuroBridge/neurobridge#AuditoryOddballTask
@@ -1346,6 +1384,7 @@
 38-40	7810-7819	presented	_
 38-41	7820-7821	.	_
 
+Text=Four runs of the auditory oddball task were completed in each of two sessions, leading to a total of eight runs per subject that each lasted 280s.
 39-1	7822-7826	Four	_
 39-2	7827-7831	runs	_
 39-3	7832-7834	of	_
@@ -1376,6 +1415,7 @@
 39-28	7964-7968	280s	_
 39-29	7969-7970	.	_
 
+Text=Each run began with 15s of silence, followed by a series of tones lasting 100ms each, with 500ms interstimulus intervals between them; a 15s period of silence indicated the end of each run.
 40-1	7971-7975	Each	_
 40-2	7976-7979	run	_
 40-3	7980-7985	began	_
@@ -1414,6 +1454,7 @@
 40-36	8159-8162	run	_
 40-37	8163-8164	.	_
 
+Text=The majority of the tones (standard tones; 95% occurrence) were presented at a frequency of 1000Hz and the remaining tones (target tones; 5% occurrence) were presented at a frequency of 1200Hz.
 41-1	8165-8168	The	_
 41-2	8169-8177	majority	_
 41-3	8178-8180	of	_
@@ -1455,6 +1496,7 @@
 41-39	8359-8365	1200Hz	_
 41-40	8366-8367	.	_
 
+Text=The latency between two target tones varied between 6s and 15s, allowing for deconvolution of the BOLD signal.
 42-1	8368-8371	The	_
 42-2	8372-8379	latency	_
 42-3	8380-8387	between	_
@@ -1476,6 +1518,7 @@
 42-19	8472-8478	signal	_
 42-20	8479-8480	.	_
 
+Text=Auditory stimuli were presented binaurally through headphones.
 43-1	8481-8489	Auditory	_
 43-2	8490-8497	stimuli	_
 43-3	8498-8502	were	_
@@ -1485,6 +1528,7 @@
 43-7	8532-8542	headphones	_
 43-8	8543-8544	.	_
 
+Text=Prior to the functional scan, participants adjusted right and left ear volumes to a test stimulus to ensure the tones could be heard over scanner noise.
 44-1	8545-8550	Prior	_
 44-2	8551-8553	to	_
 44-3	8554-8557	the	_
@@ -1514,6 +1558,7 @@
 44-27	8692-8697	noise	_
 44-28	8698-8699	.	_
 
+Text=Participants were instructed to focus on a black fixation cross displayed on a grey screen throughout the run, and to respond with a button press when they heard the target tone.
 45-1	8700-8712	Participants	_
 45-2	8713-8717	were	_
 45-3	8718-8728	instructed	_
@@ -1548,6 +1593,7 @@
 45-32	8874-8878	tone	_
 45-33	8879-8880	.	_
 
+Text=Stimuli were presented using E-Prime software (http: //www.pstnet.com/products/e-prime/).
 46-1	8881-8888	Stimuli	_
 46-2	8889-8893	were	_
 46-3	8894-8903	presented	_
@@ -1561,6 +1607,7 @@
 46-11	8971-8972	)	_
 46-12	8973-8974	.	_
 
+Text=After the experiment, patients were asked whether they experienced hallucinations during the scanning session, with one patient reporting AVHs “ almost constantly ”, one “ occasionally ”, and one reporting visual hallucinations occasionally (data were missing for 11 subjects).
 47-1	8975-8980	After	_
 47-2	8981-8984	the	_
 47-3	8985-8995	experiment	_
@@ -1608,6 +1655,7 @@
 47-45	9256-9257	)	_
 47-46	9258-9259	.	_
 
+Text=Image Acquisition and Processing Imaging for the sentence task data was performed at the University of British Columbia MRI Research Centre using a Philips Achieva 3.0 Tesla (T) MRI scanner with quasar dual gradients (maximum gradient amplitude, 80mT/m; maximum slew rate, 200 mT/m/s).
 48-1	9260-9265	Image	_
 48-2	9266-9277	Acquisition	_
 48-3	9278-9281	and	_
@@ -1660,6 +1708,7 @@
 48-50	9550-9551	)	_
 48-51	9552-9553	.	_
 
+Text=The participant ’ s head was firmly secured using a customized head holder.
 49-1	9554-9557	The	_
 49-2	9558-9569	participant	_
 49-3	9570-9571	’	_
@@ -1675,6 +1724,7 @@
 49-13	9622-9628	holder	_
 49-14	9629-9630	.	_
 
+Text=Functional image volumes were collected using a T2 * -weighted gradient-echo spin pulse sequence with 36 axial slices; thickness/gap, 3/1 mm; matrix, 80×80; repetition time (TR), 2500 ms; echo time (TE), 30 ms; flip angle (FA), 90°, field of view (FOV), 240×240 mm, effectively covering the whole brain.
 50-1	9631-9641	Functional	_
 50-2	9642-9647	image	_
 50-3	9648-9655	volumes	_
@@ -1746,6 +1796,7 @@
 50-69	9949-9954	brain	_
 50-70	9955-9956	.	_
 
+Text=352 images were acquired over two runs of approximately 7 min and 30 s each.
 51-1	9957-9960	352	_
 51-2	9961-9967	images	_
 51-3	9968-9972	were	_
@@ -1763,6 +1814,7 @@
 51-15	10028-10032	each	_
 51-16	10033-10034	.	_
 
+Text=Imaging for the fBIRN data was performed at five sites (one site was excluded during quality control) across the United States of America, for which imaging parameters were matched as closely as possible based on preliminary testing: 27 slices if possible; thickness/gap = 4mm/1mm; matrix = 64×64; repetition time (TR) = 2000 ms; echo time (TE) = 30ms (3T) /40ms (1.5T); flip angle (FA) = 90°; field of view (FOV) = 22cm; voxel dimensions = 3.4375 × 3.4375 × 4 mm).
 52-1	10035-10042	Imaging	_
 52-2	10043-10046	for	_
 52-3	10047-10050	the	_
@@ -1870,6 +1922,7 @@
 52-105	10522-10523	)	_
 52-106	10524-10525	.	_
 
+Text=One site (Duke/UNC) employed a spiral echo sequence, while all other sites used a single-shot EPI sequence.
 53-1	10526-10529	One	_
 53-2	10530-10534	site	_
 53-3	10535-10536	(	_
@@ -1892,6 +1945,7 @@
 53-20	10627-10635	sequence	_
 53-21	10636-10637	.	_
 
+Text=140 volumes were collected in each run lasting 280s.
 54-1	10638-10641	140	_
 54-2	10642-10649	volumes	_
 54-3	10650-10654	were	_
@@ -1903,6 +1957,7 @@
 54-9	10685-10689	280s	_
 54-10	10690-10691	.	_
 
+Text=Functional volumes for both datasets were pre-processed using Statistical Parametric Mapping 8 (SPM8; Wellcome Trust Centre for Neuroimaging, UK).
 55-1	10692-10702	Functional	_
 55-2	10703-10710	volumes	_
 55-3	10711-10714	for	_
@@ -1928,6 +1983,7 @@
 55-23	10840-10841	)	_
 55-24	10842-10843	.	_
 
+Text=For each participant, each functional run was realigned, normalized to the Montreal Neurological Institute (MNI) EPI brain template (voxel size = 2 mm3), and spatially smoothed with an 8mm full width at half maximum Gaussian filter.
 56-1	10844-10847	For	_
 56-2	10848-10852	each	_
 56-3	10853-10864	participant	_
@@ -1973,6 +2029,7 @@
 56-43	11076-11082	filter	_
 56-44	11083-11084	.	_
 
+Text=Following preprocessing, the SPM realignment parameters were examined, and any runs exceeding 3mm translation or 3° rotation were excluded from further analysis.
 57-1	11085-11094	Following	_
 57-2	11095-11108	preprocessing	_
 57-3	11109-11110	,	_
@@ -1999,6 +2056,7 @@
 57-24	11239-11247	analysis	_
 57-25	11248-11249	.	_
 
+Text=This led to the removal of 29 runs in the fBIRN sample.
 58-1	11250-11254	This	_
 58-2	11255-11258	led	_
 58-3	11259-11261	to	_
@@ -2013,6 +2071,7 @@
 58-12	11298-11304	sample	_
 58-13	11305-11306	.	_
 
+Text=Additional quality control procedures for the fBIRN sample included removing runs for images that showed artifacts and/or led to errors during preprocessing, and for runs in which there were few responses or a high false positive rate, suggesting participants were not engaged in the task.
 59-1	11307-11317	Additional	_
 59-2	11318-11325	quality	_
 59-3	11326-11333	control	_
@@ -2062,6 +2121,7 @@
 59-47	11593-11597	task	_
 59-48	11598-11599	.	_
 
+Text=Further information on this quality control can be found in previous work.
 60-1	11600-11607	Further	_
 60-2	11608-11619	information	_
 60-3	11620-11622	on	_
@@ -2076,6 +2136,7 @@
 60-12	11669-11673	work	_
 60-13	11674-11675	.	_
 
+Text=Data Analysis Group fMRI-CPCA fMRI data analysis was carried out using constrained principal component analysis for fMRI to compare groups (group fMRI-CPCA) with orthogonal rotation (;).
 61-1	11676-11680	Data	_
 61-2	11681-11689	Analysis	_
 61-3	11690-11695	Group	_
@@ -2108,6 +2169,7 @@
 61-30	11864-11865	)	_
 61-31	11866-11867	.	_
 
+Text=The theory and proofs for CPCA are detailed in previously published work.
 62-1	11868-11871	The	_
 62-2	11872-11878	theory	_
 62-3	11879-11882	and	_
@@ -2122,6 +2184,7 @@
 62-12	11936-11940	work	_
 62-13	11941-11942	.	_
 
+Text=The fMRI-CPCA application is available on-line, free of charge (www.nitrc.org/projects/fmricpca).
 63-1	11943-11946	The	_
 63-2	11947-11956	fMRI-CPCA	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 63-3	11957-11968	application	_
@@ -2137,6 +2200,7 @@
 63-13	12041-12042	)	_
 63-14	12043-12044	.	_
 
+Text=fMRI-CPCA computes (via PCA) components representing functional brain networks on blood-oxygen level-dependent (BOLD) signal for which variance has been constrained (via multivariate multiple regression) to that predictable from task timing, and provides both spatial (dominant brain regions) and temporal (hemodynamic response shapes) information for each task-based functional brain network.
 64-1	12045-12054	fMRI-CPCA	_
 64-2	12055-12063	computes	_
 64-3	12064-12065	(	_
@@ -2199,6 +2263,7 @@
 64-60	12441-12448	network	_
 64-61	12449-12450	.	_
 
+Text=When applied to multiple datasets, group fMRI-CPCA allows for visualization of task-common and task-specific networks, through observation of spatial and temporal replication across tasks within each network.
 65-1	12451-12455	When	_
 65-2	12456-12463	applied	_
 65-3	12464-12466	to	_
@@ -2230,6 +2295,7 @@
 65-29	12653-12660	network	_
 65-30	12661-12662	.	_
 
+Text=Group fMRI-CPCA involved the preparation of two matrices: (1) a data matrix (Z), containing the BOLD time series of each voxel, with one column per voxel and one row per whole brain scan; and (2) the design matrix (G), containing finite impulse response (FIR) models of the expected BOLD response to the timing onsets of stimulus presentations (i.e., pictures for the sentence task, target tones for the oddball task).
 66-1	12663-12668	Group	_
 66-2	12669-12678	fMRI-CPCA	_
 66-3	12679-12687	involved	_
@@ -2320,6 +2386,7 @@
 66-88	13098-13099	)	_
 66-89	13100-13101	.	_
 
+Text=In order to compare functional brain networks across experiments, data from all tasks (SP, VTG, AO) were included in Z, leading to a matrix of 115040 rows (158 subjects × up to 11 runs × up to 176 volumes) and 585,930 columns (voxels in 2mm3 resolution).
 67-1	13102-13104	In	_
 67-2	13105-13110	order	_
 67-3	13111-13113	to	_
@@ -2378,6 +2445,7 @@
 67-56	13364-13365	)	_
 67-57	13366-13367	.	_
 
+Text=Each column contained normalized and smoothed activations over all scans, with subjects, runs, and scans stacked vertically to produce Z.
 68-1	13368-13372	Each	_
 68-2	13373-13379	column	_
 68-3	13380-13389	contained	_
@@ -2403,6 +2471,7 @@
 68-23	13506-13507	Z	_
 68-24	13508-13509	.	_
 
+Text=In G, a value 1 was placed in rows for which BOLD signal amplitude was to be estimated, and the value 0 in all other rows, creating “ mini boxcar ” functions.
 69-1	13510-13512	In	_
 69-2	13513-13514	G	_
 69-3	13515-13516	,	_
@@ -2440,6 +2509,7 @@
 69-35	13661-13670	functions	_
 69-36	13671-13672	.	_
 
+Text=The columns of G code 7 poststimulus time points for each condition (SP, VTG, AO) for each of the (combined) 158 subjects, totaling 3318 columns (7 × 3 × 158 = 3318).
 70-1	13673-13676	The	_
 70-2	13677-13684	columns	_
 70-3	13685-13687	of	_
@@ -2483,6 +2553,7 @@
 70-41	13846-13847	)	_
 70-42	13848-13849	.	_
 
+Text=These time points reflect different poststimulus time points in each study due to the difference in TR across studies, and are converted to seconds in the figures and results section to facilitate interpretation.
 71-1	13850-13855	These	_
 71-2	13856-13860	time	_
 71-3	13861-13867	points	_
@@ -2519,6 +2590,7 @@
 71-34	14048-14062	interpretation	_
 71-35	14063-14064	.	_
 
+Text=Group fMRI-CPCA proceeds in two steps.
 72-1	14065-14070	Group	_
 72-2	14071-14080	fMRI-CPCA	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 72-3	14081-14089	proceeds	_
@@ -2527,6 +2599,7 @@
 72-6	14097-14102	steps	_
 72-7	14103-14104	.	_
 
+Text=First, the data matrix, Z, is regressed onto the design matrix, G, which partitions the overall variance into predicted and residual scores.
 73-1	14105-14110	First	_
 73-2	14111-14112	,	_
 73-3	14113-14116	the	_
@@ -2556,6 +2629,7 @@
 73-27	14243-14249	scores	_
 73-28	14250-14251	.	_
 
+Text=The matrix predicted scores, which reflects variance in BOLD signal that is predictable from task timing, is then submitted to a principal component analysis (PCA), resulting in task-specific functional brain networks.
 74-1	14252-14255	The	_
 74-2	14256-14262	matrix	_
 74-3	14263-14272	predicted	_
@@ -2594,6 +2668,7 @@
 74-36	14466-14474	networks	_
 74-37	14475-14476	.	_
 
+Text=Relation to Experimental Conditions Group fMRI-CPCA produces predictor weights for each combination of subject, task condition, and poststimulus time.
 75-1	14477-14485	Relation	_
 75-2	14486-14488	to	_
 75-3	14489-14501	Experimental	_
@@ -2617,6 +2692,7 @@
 75-21	14624-14628	time	_
 75-22	14629-14630	.	_
 
+Text=These predictor weights, which provide estimates of the engagement of functional networks, can be analyzed statistically to determine whether or not they reflect reliable and biologically plausible HDR shapes, and whether differences between groups and/or task conditions exist within each network.
 76-1	14631-14636	These	_
 76-2	14637-14646	predictor	_
 76-3	14647-14654	weights	_
@@ -2663,6 +2739,7 @@
 76-44	14924-14931	network	_
 76-45	14932-14933	.	_
 
+Text=These analyses were carried out for each task condition separately as three 3 × 7 × 3 mixed-model ANOVAs (one each for SP, VTG, and AO), with the within-subjects factors of Component (3 components were extracted) and Poststimulus Time (7 whole brain scans after stimulus onset), and the between-subjects factor of Group (control, non-AVH, AVH).
 77-1	14934-14939	These	_
 77-2	14940-14948	analyses	_
 77-3	14949-14953	were	_
@@ -2734,6 +2811,7 @@
 77-69	15290-15291	)	_
 77-70	15292-15293	.	_
 
+Text=Significant three-way interactions were followed up with separate 7 × 3 ANOVAs for each component, and significant two-way interactions were followed up with simple contrasts comparing each Group pair at each level of Poststimulus Time.
 78-1	15294-15305	Significant	_
 78-2	15306-15315	three-way	_
 78-3	15316-15328	interactions	_
@@ -2772,6 +2850,7 @@
 78-36	15526-15530	Time	_
 78-37	15531-15532	.	_
 
+Text=Tests of sphericity were carried out, and Greenhouse-Geisser adjustment in degrees of freedom for any analyses in which the assumption was violated did not affect interpretation of the results; therefore, the original degrees of free are reported below.
 79-1	15533-15538	Tests	_
 79-2	15539-15541	of	_
 79-3	15542-15552	sphericity	_
@@ -2815,6 +2894,7 @@
 79-41	15783-15788	below	_
 79-42	15789-15790	.	_
 
+Text=Effect sizes (partial eta squared, η2p) are displayed.
 80-1	15791-15797	Effect	_
 80-2	15798-15803	sizes	_
 80-3	15804-15805	(	_

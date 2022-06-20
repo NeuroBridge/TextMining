@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Resting-state network connectivity and metastability predict clinical symptoms in schizophrenia Background: The functional architecture of resting-state networks (RSNs) is defined by their connectivity and metastability.
 1-1	0-13	Resting-state	_
 1-2	14-21	network	_
 1-3	22-34	connectivity	_
@@ -32,6 +33,7 @@
 1-28	209-222	metastability	_
 1-29	223-224	.	_
 
+Text=Disrupted RSN connectivity has been amply demonstrated in schizophrenia while the role of metastability remains poorly defined.
 2-1	225-234	Disrupted	_
 2-2	235-238	RSN	_
 2-3	239-251	connectivity	_
@@ -51,6 +53,7 @@
 2-17	344-351	defined	_
 2-18	352-353	.	_
 
+Text=Here, we undertake a comprehensive characterisation of RSN organization in schizophrenia and test its contribution to the clinical profile of this disorder.
 3-1	354-358	Here	_
 3-2	359-360	,	_
 3-3	361-363	we	_
@@ -76,6 +79,7 @@
 3-23	502-510	disorder	_
 3-24	511-512	.	_
 
+Text=Methods: We extracted RSNs representing the default mode (DMN), central executive (CEN), salience (SAL), language (LAN), sensorimotor (SMN), auditory (AN) and visual (VN) networks from resting-state functional magnetic resonance imaging data obtained from patients with schizophrenia (n = 85) and healthy individuals (n = 48).
 4-1	513-520	Methods	_
 4-2	521-522	:	_
 4-3	523-525	We	_
@@ -147,6 +151,7 @@
 4-69	861-862	)	_
 4-70	863-864	.	_
 
+Text=For each network, we computed its functional cohesiveness and integration and used the Kuramoto order parameter to compute metastability.
 5-1	865-868	For	_
 5-2	869-873	each	_
 5-3	874-881	network	_
@@ -169,6 +174,7 @@
 5-20	989-1002	metastability	_
 5-21	1003-1004	.	_
 
+Text=We used stepwise multiple regression analyses to test these RSN features as predictors of symptom severity in patients.
 6-1	1005-1007	We	_
 6-2	1008-1012	used	_
 6-3	1013-1021	stepwise	_
@@ -189,6 +195,7 @@
 6-18	1115-1123	patients	_
 6-19	1124-1125	.	_
 
+Text=Results: RSN features respectively explained 14%, 17%, 12% and 5% of the variance in positive, negative, anxious/ depressive and agitation/disorganization symptoms.
 7-1	1126-1133	Results	_
 7-2	1134-1135	:	_
 7-3	1136-1139	RSN	_
@@ -221,6 +228,7 @@
 7-30	1290-1298	symptoms	_
 7-31	1299-1300	.	_
 
+Text=Lower functional integration between the DMN, CEN and SMN primarily contributed to positive symptoms.
 8-1	1301-1306	Lower	_
 8-2	1307-1317	functional	_
 8-3	1318-1329	integration	_
@@ -238,6 +246,7 @@
 8-15	1394-1402	symptoms	_
 8-16	1403-1404	.	_
 
+Text=The functional properties of the SAL network were key predictors of all other symptom dimensions; specifically, lower cohesiveness of the SAL, lower integration of this network with the LAN and higher integration with the CEN respectively contributed to negative, anxious/depressive and disorganization symptoms.
 9-1	1405-1408	The	_
 9-2	1409-1419	functional	_
 9-3	1420-1430	properties	_
@@ -287,6 +296,7 @@
 9-47	1712-1720	symptoms	_
 9-48	1721-1722	.	_
 
+Text=Increased SAL metastability was associated with negative symptoms.
 10-1	1723-1732	Increased	_
 10-2	1733-1736	SAL	_
 10-3	1737-1750	metastability	_
@@ -297,6 +307,7 @@
 10-8	1780-1788	symptoms	_
 10-9	1789-1790	.	_
 
+Text=Conclusions: These results confirm the primacy of the SAL network for schizophrenia and demonstrate that abnormalities in RSN connectivity and metastability are significant predictors of schizophrenia-related psychopathology.
 11-1	1791-1802	Conclusions	_
 11-2	1803-1804	:	_
 11-3	1805-1810	These	_
@@ -327,6 +338,7 @@
 11-28	2001-2016	psychopathology	_
 11-29	2017-2018	.	_
 
+Text=Materials and methods Participants The study sample comprised 93 patients with recent onset schizophrenia (illness duration <5 years) and 50 healthy individuals (Table 1).
 12-1	2019-2028	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	2029-2032	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	2033-2040	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -358,6 +370,7 @@
 12-29	2193-2194	)	_
 12-30	2195-2196	.	_
 
+Text=Patients fulfilled criteria for schizophrenia as defined by the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) and were recruited via clinician referrals from the psychiatric services of the Mount Sinai Health System, New York.
 13-1	2197-2205	Patients	_
 13-2	2206-2215	fulfilled	_
 13-3	2216-2224	criteria	_
@@ -402,6 +415,7 @@
 13-42	2458-2462	York	_
 13-43	2463-2464	.	_
 
+Text=Healthy individuals were recruited via advertisements in the local press.
 14-1	2465-2472	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 14-2	2473-2484	individuals	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 14-3	2485-2489	were	_
@@ -414,6 +428,7 @@
 14-10	2532-2537	press	_
 14-11	2538-2539	.	_
 
+Text=All participants were screened to exclude those with IQ <70, medical or neurological disorders, history of significant head trauma, and lifetime history of DSM-5 substance use disorder.
 15-1	2540-2543	All	_
 15-2	2544-2556	participants	_
 15-3	2557-2561	were	_
@@ -447,6 +462,7 @@
 15-31	2720-2728	disorder	_
 15-32	2729-2730	.	_
 
+Text=The diagnostic status of all participants was determined using the research version of the Structured Clinical interview for DSM-5 supplemented by information from medical records in the case of patients.
 16-1	2731-2734	The	_
 16-2	2735-2745	diagnostic	_
 16-3	2746-2752	status	_
@@ -479,6 +495,7 @@
 16-30	2926-2934	patients	_
 16-31	2935-2936	.	_
 
+Text=The presence and severity of psychopathology were assessed in all participants using the expanded 24-item Brief Psychotic Rating Scale (BPRS) which allows decomposition of the clinical profile of psychosis into four dimensions comprising positive symptoms, negative symptoms, anxiety/depression and agitation/disorganization.
 17-1	2937-2940	The	_
 17-2	2941-2949	presence	_
 17-3	2950-2953	and	_
@@ -525,6 +542,7 @@
 17-44	3240-3265	agitation/disorganization	_
 17-45	3266-3267	.	_
 
+Text=An estimate of IQ was obtained from all participants using the Wechsler Abbreviated Scale of Intelligence, 2nd Edition (WASI-II).
 18-1	3268-3270	An	_
 18-2	3271-3279	estimate	_
 18-3	3280-3282	of	_
@@ -549,6 +567,7 @@
 18-22	3398-3399	)	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 18-23	3400-3401	.	_
 
+Text=Medication type and dose was recorded in all patients and the daily antipsychotic dose was converted to chlorpromazine equivalents (CPZE).
 19-1	3402-3412	Medication	_
 19-2	3413-3417	type	_
 19-3	3418-3421	and	_
@@ -573,6 +592,7 @@
 19-22	3540-3541	)	_
 19-23	3542-3543	.	_
 
+Text=The study was approved by the Institutional Review Board of the Icahn School of Medicine at Mount Sinai (ISMMS).
 20-1	3544-3547	The	_
 20-2	3548-3553	study	_
 20-3	3554-3557	was	_
@@ -596,6 +616,7 @@
 20-21	3656-3657	)	_
 20-22	3658-3659	.	_
 
+Text=All participants provided written informed consent.
 21-1	3660-3663	All	_
 21-2	3664-3676	participants	_
 21-3	3677-3685	provided	_
@@ -604,6 +625,7 @@
 21-6	3703-3710	consent	_
 21-7	3711-3712	.	_
 
+Text=Neuroimaging data acquisition and quality assurance Anatomical and resting-state fMRI (eyes open) data were acquired on a Siemens Skyra 3 T scanner (Erlangen, Germany) at the ISMMS (details in Supplementary Material).
 22-1	3713-3725	Neuroimaging	_
 22-2	3726-3730	data	_
 22-3	3731-3742	acquisition	_
@@ -644,6 +666,7 @@
 22-38	3935-3936	)	_
 22-39	3937-3938	.	_
 
+Text=Data from the participants were preprocessed using established procedures implemented in Statistical Parametric Mapping software (SPM12; http: //www.fil.ion.ucl.ac.uk/spm/software/spm12) and the Data Processing Assistant for Resting-State fMRI software (DPARSF) available in the Data Processing and Analysis for Brain Imaging (DPABI) Toolbox (details in Supplementary Material).
 23-1	3939-3943	Data	_
 23-2	3944-3948	from	_
 23-3	3949-3952	the	_
@@ -700,6 +723,7 @@
 23-54	4325-4326	)	_
 23-55	4327-4328	.	_
 
+Text=Two healthy individuals and 8 patients with schizophrenia were excluded because of excessive head motion (linear shift> 3 mm or rotation> 1° across the run and on a frame-to-frame basis).
 24-1	4329-4332	Two	_
 24-2	4333-4340	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 24-3	4341-4352	individuals	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -736,6 +760,7 @@
 24-34	4518-4519	)	_
 24-35	4520-4521	.	_
 
+Text=After removal of these datasets, comparison between groups (patients, healthy volunteers) on multiple head motion parameters (i.e., mean and maximum scan-to-scan head motion and framewise displacement) did not yield significant difference (all p> 0.05; details in Supplementary Material).
 25-1	4522-4527	After	_
 25-2	4528-4535	removal	_
 25-3	4536-4538	of	_
@@ -787,6 +812,7 @@
 25-49	4819-4820	)	_
 25-50	4821-4822	.	_
 
+Text=Computation of RSN functional connectivity In each individual resting-state fMRI dataset, we defined seven major RSNs comprising the default mode network (DMN), the central executive network (CEN), the salience network (SAL), the sensorimotor network (SMN), the visual network (VN), the auditory network (AN), and the language network (LAN).
 26-1	4823-4834	Computation	_
 26-2	4835-4837	of	_
 26-3	4838-4841	RSN	_
@@ -858,6 +884,7 @@
 26-69	5183-5184	)	_
 26-70	5185-5186	.	_
 
+Text=These RSNs were defined using validated network masks that are publicly available through the Functional Imaging of Neuropsychiatric Disorders (FIND) Lab, Stanford University (http: //findlab.stanford.edu/functional_ROIs.html).
 27-1	5187-5192	These	_
 27-2	5193-5197	RSNs	_
 27-3	5198-5202	were	_
@@ -891,6 +918,7 @@
 27-31	5418-5419	)	_
 27-32	5420-5421	.	_
 
+Text=Each of the 7 RSN masks comprises its corresponding functional regions-of-interest (ROIs) (Fig.
 28-1	5422-5426	Each	_
 28-2	5427-5429	of	_
 28-3	5430-5433	the	_
@@ -909,6 +937,7 @@
 28-16	5516-5519	Fig	_
 28-17	5520-5521	.	_
 
+Text=1A; Supplemental Table S1).
 29-1	5522-5524	1A	_
 29-2	5525-5526	;	_
 29-3	5527-5539	Supplemental	_
@@ -917,6 +946,7 @@
 29-6	5549-5550	)	_
 29-7	5551-5552	.	_
 
+Text=We chose functionally defined RSN masks because they offer great cogency and reproducibility.
 30-1	5553-5555	We	_
 30-2	5556-5561	chose	_
 30-3	5562-5574	functionally	_
@@ -932,6 +962,7 @@
 30-13	5630-5645	reproducibility	_
 30-14	5646-5647	.	_
 
+Text=We have previously demonstrated the reproducibility of the FIND Lab masks using data from the Human Connectome Project (detailed in Supplemental Material and in).
 31-1	5648-5650	We	_
 31-2	5651-5655	have	_
 31-3	5656-5666	previously	_
@@ -960,6 +991,7 @@
 31-26	5810-5811	)	_
 31-27	5812-5813	.	_
 
+Text=The median overlap between functionally defined RSN masks and data-driven RSNs was 91%.
 32-1	5814-5817	The	_
 32-2	5818-5824	median	_
 32-3	5825-5832	overlap	_
@@ -976,6 +1008,7 @@
 32-14	5900-5901	%	_
 32-15	5902-5903	.	_
 
+Text=We assessed the cohesiveness and integration of each RSN by computing their within-and between-network functional connectivity.
 33-1	5904-5906	We	_
 33-2	5907-5915	assessed	_
 33-3	5916-5919	the	_
@@ -994,6 +1027,7 @@
 33-16	6018-6030	connectivity	_
 33-17	6031-6032	.	_
 
+Text=Within-network functional connectivity was estimated by averaging the fMRI time series over all the voxels within each network region and then calculating all possible pairwise Pearson ’ s correlation between the network regions.
 34-1	6033-6047	Within-network	_
 34-2	6048-6058	functional	_
 34-3	6059-6071	connectivity	_
@@ -1029,6 +1063,7 @@
 34-33	6254-6261	regions	_
 34-34	6262-6263	.	_
 
+Text=Between-network functional connectivity was estimated by computing pairwise Pearson ’ s correlation between the networks ’ average time series.
 35-1	6264-6279	Between-network	_
 35-2	6280-6290	functional	_
 35-3	6291-6303	connectivity	_
@@ -1050,6 +1085,7 @@
 35-19	6400-6406	series	_
 35-20	6407-6408	.	_
 
+Text=All correlation coefficients were transformed into Fisher ’ s z-score prior to further analyses.
 36-1	6409-6412	All	_
 36-2	6413-6424	correlation	_
 36-3	6425-6437	coefficients	_
@@ -1066,6 +1102,7 @@
 36-14	6496-6504	analyses	_
 36-15	6505-6506	.	_
 
+Text=These computations resulted in 28 connectivity measures per subject which were used in further analyses.
 37-1	6507-6512	These	_
 37-2	6513-6525	computations	_
 37-3	6526-6534	resulted	_
@@ -1083,6 +1120,7 @@
 37-15	6602-6610	analyses	_
 37-16	6611-6612	.	_
 
+Text=No correlation was found between any of these measures and framewise displacement (FD) even at p <0.05, uncorrected (detailed in Supplementary Material).
 38-1	6613-6615	No	_
 38-2	6616-6627	correlation	_
 38-3	6628-6631	was	_
@@ -1113,6 +1151,7 @@
 38-28	6770-6771	)	_
 38-29	6772-6773	.	_
 
+Text=Computation of network synchrony and metastability The voxel-wise BOLD data for each RSN were filtered to extract frequency-band fMRI signals using the maximal overlap discrete wavelet transform (MODWT).
 39-1	6774-6785	Computation	_
 39-2	6786-6788	of	_
 39-3	6789-6796	network	_
@@ -1145,6 +1184,7 @@
 39-30	6977-6978	)	_
 39-31	6979-6980	.	_
 
+Text=Because the repetition time of the fMRI data acquisition was 1 s, the frequency bands extracted were: scale 1 = 0.25–0.5 Hz; scale 2 = 0.13–0.25 Hz; scale 3 = 0.06–0.13 Hz; scale 4 = 0.03–0.06 Hz; scale 5 = 0.015–0.03 Hz.
 40-1	6981-6988	Because	_
 40-2	6989-6992	the	_
 40-3	6993-7003	repetition	_
@@ -1195,6 +1235,7 @@
 40-48	7205-7207	Hz	_
 40-49	7208-7209	.	_
 
+Text=We used a wavelet filter of Daubechies Least Asymmetric with a wavelet length of 8.
 41-1	7210-7212	We	_
 41-2	7213-7217	used	_
 41-3	7218-7219	a	_
@@ -1212,6 +1253,7 @@
 41-15	7291-7292	8	_
 41-16	7293-7294	.	_
 
+Text=We focused on scale 4 wavelet coefficients, because the most relevant information for resting-state fMRI data is mainly contained within this scale.
 42-1	7295-7297	We	_
 42-2	7298-7305	focused	_
 42-3	7306-7308	on	_
@@ -1237,6 +1279,7 @@
 42-23	7438-7443	scale	_
 42-24	7444-7445	.	_
 
+Text=We then extracted the phases of the fMRI time series for each RSN in each participant by applying the Hilbert transform to the wavelet-filtered fMRI BOLD signals to obtain the associated analytical signals.
 43-1	7446-7448	We	_
 43-2	7449-7453	then	_
 43-3	7454-7463	extracted	_
@@ -1272,6 +1315,7 @@
 43-33	7644-7651	signals	_
 43-34	7652-7653	.	_
 
+Text=The analytic signal represents a narrowband signal, s (t), in the time domain as a rotating vector with an instantaneous phase, φ (t), and an instantaneous amplitude, A (t), i.e., s (t) = A (t) cos (φ (t)).
 44-1	7654-7657	The	_
 44-2	7658-7666	analytic	_
 44-3	7667-7673	signal	_
@@ -1333,6 +1377,7 @@
 44-59	7879-7880	)	_
 44-60	7881-7882	.	_
 
+Text=The phase and the amplitude are given by the argument and the modulus, respectively, of the complex signal z (t), given by z (t) = s (t) + iH [s (t)], where i is the imaginary unit and H [s (t)] is the Hilbert transform of s (t).
 45-1	7883-7886	The	_
 45-2	7887-7892	phase	_
 45-3	7893-7896	and	_
@@ -1403,6 +1448,7 @@
 45-68	8130-8131	)	_
 45-69	8132-8133	.	_
 
+Text=Subsequently, the first and last 10 time steps were discarded to avoid border effect inherent to the Hilbert transform.
 46-1	8134-8146	Subsequently	_
 46-2	8147-8148	,	_
 46-3	8149-8152	the	_
@@ -1425,6 +1471,7 @@
 46-20	8244-8253	transform	_
 46-21	8254-8255	.	_
 
+Text=To evaluate the dynamic properties of each RSN, we computed the Kuramoto order parameter R (t), defined as where N is the total number of voxels within each RSN and φn (t) is the instantaneous phase of each fMRI BOLD signal at voxel n of each RSN.
 47-1	8256-8258	To	_
 47-2	8259-8267	evaluate	_
 47-3	8268-8271	the	_
@@ -1480,6 +1527,7 @@
 47-53	8505-8508	RSN	_
 47-54	8509-8510	.	_
 
+Text=This parameter measures the level of synchronization between brain regions across time (Fig.
 48-1	8511-8515	This	_
 48-2	8516-8525	parameter	_
 48-3	8526-8534	measures	_
@@ -1496,10 +1544,12 @@
 48-14	8600-8603	Fig	_
 48-15	8604-8605	.	_
 
+Text=1B).
 49-1	8606-8608	1B	_
 49-2	8609-8610	)	_
 49-3	8611-8612	.	_
 
+Text=For each network, synchrony (mean synchronization) and metastability (the variation in synchronization over time) were defined as the mean and the standard deviation of the Kuramoto order parameter over time, respectively.
 50-1	8613-8616	For	_
 50-2	8617-8621	each	_
 50-3	8622-8629	network	_
@@ -1539,6 +1589,7 @@
 50-37	8828-8840	respectively	_
 50-38	8841-8842	.	_
 
+Text=These computations resulted in 14 measures per subject that were used in further analyses.
 51-1	8843-8848	These	_
 51-2	8849-8861	computations	_
 51-3	8862-8870	resulted	_
@@ -1555,6 +1606,7 @@
 51-14	8924-8932	analyses	_
 51-15	8933-8934	.	_
 
+Text=Statistical analysis Group differences in demographic characteristics and IQ were examined using t- and χ2 tests as appropriate.
 52-1	8935-8946	Statistical	_
 52-2	8947-8955	analysis	_
 52-3	8956-8961	Group	_
@@ -1575,6 +1627,7 @@
 52-18	9051-9062	appropriate	_
 52-19	9063-9064	.	_
 
+Text=We detected an effect of group for sex and IQ and we therefore conducted collinearity diagnostics using regression models.
 53-1	9065-9067	We	_
 53-2	9068-9076	detected	_
 53-3	9077-9079	an	_
@@ -1596,6 +1649,7 @@
 53-19	9180-9186	models	_
 53-20	9187-9188	.	_
 
+Text=These variables were not collinear as their variance inflation factor (VIF) ranged between 1 and 1.4 which is below the traditional threshold of 2 for collinearity.
 54-1	9189-9194	These	_
 54-2	9195-9204	variables	_
 54-3	9205-9209	were	_
@@ -1626,6 +1680,7 @@
 54-28	9342-9354	collinearity	_
 54-29	9355-9356	.	_
 
+Text=We performed three multivariate analyses of covariance (MANOVAs) to examine the effect of diagnosis separately on measures of network dynamics (synchrony and metastability), measures of within-network functional connectivity and measures of between-network functional connectivity.
 55-1	9357-9359	We	_
 55-2	9360-9369	performed	_
 55-3	9370-9375	three	_
@@ -1667,6 +1722,7 @@
 55-39	9630-9642	connectivity	_
 55-40	9643-9644	.	_
 
+Text=Sex and IQ were entered as covariates in all analyses.
 56-1	9645-9648	Sex	_
 56-2	9649-9652	and	_
 56-3	9653-9655	IQ	_
@@ -1679,6 +1735,7 @@
 56-10	9690-9698	analyses	_
 56-11	9699-9700	.	_
 
+Text=For each MANOVA, when the overall model was significant at p <0.05, we conducted post-hoc pairwise comparisons for which the threshold of statistical significance was adjusted using Bonferroni correction based on the number of variables included in each model.
 57-1	9701-9704	For	_
 57-2	9705-9709	each	_
 57-3	9710-9716	MANOVA	_
@@ -1723,6 +1780,7 @@
 57-42	9958-9963	model	_
 57-43	9964-9965	.	_
 
+Text=In addition, the effect size of case-control differences in neuroimaging measures was calculated using the Cohen ’ s d. The predictive value of the neuroimaging variables for clinical symptoms was only tested in the patient group.
 58-1	9966-9968	In	_
 58-2	9969-9977	addition	_
 58-3	9978-9979	,	_
@@ -1762,6 +1820,7 @@
 58-37	10191-10196	group	_
 58-38	10197-10198	.	_
 
+Text=The four BPRS symptom scores were not collinear (|r| <0.4) and were used as dependent factors in separate stepwise regression analyses.
 59-1	10199-10202	The	_
 59-2	10203-10207	four	_
 59-3	10208-10212	BPRS	http://maven.renci.org/NeuroBridge/neurobridge#BriefPsychiatricRatingScale
@@ -1788,6 +1847,7 @@
 59-24	10328-10336	analyses	_
 59-25	10337-10338	.	_
 
+Text=This approach operates by successively adding and removing predictor variables based on their squared t-statistic to select the best grouping of predictor variables that accounts for most of the variance (R2) in the outcome.
 60-1	10339-10343	This	_
 60-2	10344-10352	approach	_
 60-3	10353-10361	operates	_
@@ -1826,6 +1886,7 @@
 60-36	10557-10564	outcome	_
 60-37	10565-10566	.	_
 
+Text=The assumptions, advantages and limitations of this approach are well understood (e.g .).
 61-1	10567-10570	The	_
 61-2	10571-10582	assumptions	_
 61-3	10583-10584	,	_
@@ -1844,6 +1905,7 @@
 61-16	10657-10658	)	_
 61-17	10659-10660	.	_
 
+Text=Stepwise regression models allow a principled and data-driven selection of predictor variables, that is largely independent of sample size, and are best suited for testing prespecified hypotheses about the predictor and outcome variables.
 62-1	10661-10669	Stepwise	_
 62-2	10670-10680	regression	_
 62-3	10681-10687	models	_
@@ -1881,6 +1943,7 @@
 62-35	10891-10900	variables	_
 62-36	10901-10902	.	_
 
+Text=This is the case here as our aim was to test the predictive value of predefined connectivity features for symptom severity in schizophrenia.
 63-1	10903-10907	This	_
 63-2	10908-10910	is	_
 63-3	10911-10914	the	_
@@ -1906,6 +1969,7 @@
 63-23	11029-11042	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 63-24	11043-11044	.	_
 
+Text=Stepwise regression analyses are prone to R2 values inflation and are sensitive to the presence of collinearity amongst the predictor variables.
 64-1	11045-11053	Stepwise	_
 64-2	11054-11064	regression	_
 64-3	11065-11073	analyses	_
@@ -1929,6 +1993,7 @@
 64-21	11179-11188	variables	_
 64-22	11189-11190	.	_
 
+Text=To address these concerns, we undertook the following three steps: (a) Curve estimation and collinearity assessments were conducted to select the neuroimaging variables entered as independent predictors.
 65-1	11191-11193	To	_
 65-2	11194-11201	address	_
 65-3	11202-11207	these	_
@@ -1962,6 +2027,7 @@
 65-31	11387-11397	predictors	_
 65-32	11398-11399	.	_
 
+Text=Variables were considered co-linear if their pairwise correlation was |r|> 0.4.
 66-1	11400-11409	Variables	_
 66-2	11410-11414	were	_
 66-3	11415-11425	considered	_
@@ -1976,6 +2042,7 @@
 66-12	11476-11479	0.4	_
 66-13	11480-11481	.	_
 
+Text=The synchrony and metastability of each network were the only highly correlated (r values ranged between 0.63 and 0.72) neuroimaging variables and therefore only metastability was entered in the regression analyses.
 67-1	11482-11485	The	_
 67-2	11486-11495	synchrony	_
 67-3	11496-11499	and	_
@@ -2011,6 +2078,7 @@
 67-33	11690-11698	analyses	_
 67-34	11699-11700	.	_
 
+Text=(b) We confirmed that none of the regression results showed collinearity based on VIF <2 and tolerance> 0.2.
 68-1	11701-11702	(	_
 68-2	11703-11704	b	_
 68-3	11705-11706	)	_
@@ -2035,6 +2103,7 @@
 68-22	11809-11812	0.2	_
 68-23	11813-11814	.	_
 
+Text=(c) We examined the reliability of the R2 values of the regression models using a leave-one-out method that enables testing the reliability of these values while preserving statistical power.
 69-1	11815-11816	(	_
 69-2	11817-11818	c	_
 69-3	11819-11820	)	_

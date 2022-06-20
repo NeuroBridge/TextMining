@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=ENFORCING CO-EXPRESSION IN MULTIMODAL REGRESSION FRAMEWORK We consider the problem of multimodal data integration for the study of complex neurological diseases (e.g.
 1-1	0-9	ENFORCING	_
 1-2	10-23	CO-EXPRESSION	_
 1-3	24-26	IN	_
@@ -27,10 +28,12 @@
 1-23	163-166	e.g	_
 1-24	167-168	.	_
 
+Text=schizophrenia).
 2-1	169-182	schizophrenia	_
 2-2	183-184	)	_
 2-3	185-186	.	_
 
+Text=Among the challenges arising in such situation, estimating the link between genetic and neurological variability within a population sample has been a promising direction.
 3-1	187-192	Among	_
 3-2	193-196	the	_
 3-3	197-207	challenges	_
@@ -58,6 +61,7 @@
 3-25	349-358	direction	_
 3-26	359-360	.	_
 
+Text=A wide variety of statistical models arose from such applications.
 4-1	361-362	A	_
 4-2	363-367	wide	_
 4-3	368-375	variety	_
@@ -70,6 +74,7 @@
 4-10	414-426	applications	_
 4-11	427-428	.	_
 
+Text=For example, Lasso regression and its multitask extension are often used to fit a multivariate linear relationship between given phenotype (s) and associated observations.
 5-1	429-432	For	_
 5-2	433-440	example	_
 5-3	441-442	,	_
@@ -99,6 +104,7 @@
 5-27	590-602	observations	_
 5-28	603-604	.	_
 
+Text=Other approaches, such as canonical correlation analysis (CCA), are widely used to extract relationships between sets of variables from different modalities.
 6-1	605-610	Other	_
 6-2	611-621	approaches	_
 6-3	622-623	,	_
@@ -126,6 +132,7 @@
 6-25	755-765	modalities	_
 6-26	766-767	.	_
 
+Text=In this paper, we propose an exploratory multivariate method combining these two methods.
 7-1	768-770	In	_
 7-2	771-775	this	_
 7-3	776-781	paper	_
@@ -142,6 +149,7 @@
 7-14	850-857	methods	_
 7-15	858-859	.	_
 
+Text=More Specifically, we rely on a ’ CCA-type ’ formulation in order to regularize the classical multimodal Lasso regression problem.
 8-1	860-864	More	_
 8-2	865-877	Specifically	_
 8-3	878-879	,	_
@@ -165,6 +173,7 @@
 8-21	983-990	problem	_
 8-22	991-992	.	_
 
+Text=The underlying motivation is to extract discriminative variables that display are also co-expressed across modalities.
 9-1	993-996	The	_
 9-2	997-1007	underlying	_
 9-3	1008-1018	motivation	_
@@ -182,6 +191,7 @@
 9-15	1100-1110	modalities	_
 9-16	1111-1112	.	_
 
+Text=We first evaluate the method on a simulated dataset, and further validate it using Single Nucleotide Polymorphisms (SNP) and functional Magnetic Resonance Imaging (fMRI) data for the study of schizophrenia.
 10-1	1113-1115	We	_
 10-2	1116-1121	first	_
 10-3	1122-1130	evaluate	_
@@ -219,13 +229,16 @@
 10-35	1310-1323	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 10-36	1324-1325	.	_
 
+Text=2.
 11-1	1326-1327	2	_
 11-2	1328-1329	.	_
 
+Text=Methods 2.1.
 12-1	1330-1337	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	1338-1341	2.1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	1342-1343	.	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 
+Text=Learning with L1 penalty We consider M ∈ ℕ+ distinct (i.e.
 13-1	1344-1352	Learning	_
 13-2	1353-1357	with	_
 13-3	1358-1360	L1	_
@@ -240,6 +253,7 @@
 13-12	1399-1402	i.e	_
 13-13	1403-1404	.	_
 
+Text=from different modalities) datasets with n samples and pm ∈ ℕ+ (m = 1, ‥, M) variables each.
 14-1	1405-1409	from	_
 14-2	1410-1419	different	_
 14-3	1420-1430	modalities	_
@@ -265,6 +279,7 @@
 14-23	1497-1501	each	_
 14-24	1502-1503	.	_
 
+Text=The m-th dataset is represented by a matrix Xm ∈ ℝn×pm.
 15-1	1504-1507	The	_
 15-2	1508-1512	m-th	_
 15-3	1513-1520	dataset	_
@@ -278,6 +293,7 @@
 15-11	1553-1558	ℝn×pm	_
 15-12	1559-1560	.	_
 
+Text=Additionally, each sample is assigned a class label (e.g.
 16-1	1561-1573	Additionally	_
 16-2	1574-1575	,	_
 16-3	1576-1580	each	_
@@ -291,6 +307,7 @@
 16-11	1616-1619	e.g	_
 16-12	1620-1621	.	_
 
+Text=case/controls) yi ∈ {−1, 1}, i = 1, ‥, n. Our goal is to look for a linear link between those class labels and the M data matrices.
 17-1	1622-1635	case/controls	_
 17-2	1636-1637	)	_
 17-3	1638-1640	yi	_
@@ -328,6 +345,7 @@
 17-35	1751-1759	matrices	_
 17-36	1760-1761	.	_
 
+Text=Let us consider the following regression model: The model described by Eq.
 18-1	1762-1765	Let	_
 18-2	1766-1768	us	_
 18-3	1769-1777	consider	_
@@ -343,6 +361,7 @@
 18-13	1834-1836	Eq	_
 18-14	1837-1838	.	_
 
+Text=1 performs both variable selection and regularization.
 19-1	1839-1840	1	_
 19-2	1841-1849	performs	_
 19-3	1850-1854	both	_
@@ -352,6 +371,7 @@
 19-7	1878-1892	regularization	_
 19-8	1893-1894	.	_
 
+Text=It often improves the prediction accuracy and interpretability of the results compared to the use of classical ℓ2 norm regularization terms, especially when the number of variables is far greater than the number of observations.
 20-1	1895-1897	It	_
 20-2	1898-1903	often	_
 20-3	1904-1912	improves	_
@@ -390,6 +410,7 @@
 20-36	2111-2123	observations	_
 20-37	2124-2125	.	_
 
+Text=In some situations, we have several output vectors ym, ∀m = 1, ‥, M and the m datasets are from the same modality: multi-task Lasso was proposed to capture shared structures among the various regression vectors.
 21-1	2126-2128	In	_
 21-2	2129-2133	some	_
 21-3	2134-2144	situations	_
@@ -433,6 +454,7 @@
 21-41	2334-2341	vectors	_
 21-42	2342-2343	.	_
 
+Text=We consider the following model: where P is the dimension of the problem and βp is the p-th row of the matrix such that β = [β1, ‥, βm] (i.e.
 22-1	2344-2346	We	_
 22-2	2347-2355	consider	_
 22-3	2356-2359	the	_
@@ -471,6 +493,7 @@
 22-36	2487-2490	i.e	_
 22-37	2491-2492	.	_
 
+Text=the βm are stacked horizontally).
 23-1	2493-2496	the	_
 23-2	2497-2499	βm	_
 23-3	2500-2503	are	_
@@ -479,6 +502,7 @@
 23-6	2525-2526	)	_
 23-7	2527-2528	.	_
 
+Text=Such norm is also referred to as the ℓ1/ℓ2 norm, and is used to both enforce joint sparsity across the multiple βm and estimate only a few non-zero coefficients.
 24-1	2529-2533	Such	_
 24-2	2534-2538	norm	_
 24-3	2539-2541	is	_
@@ -511,6 +535,7 @@
 24-30	2678-2690	coefficients	_
 24-31	2691-2692	.	_
 
+Text=Enforcing regularity within a modality (and across tasks) has been an active aspect of regression models, and has proven to increase reliability and results.
 25-1	2693-2702	Enforcing	_
 25-2	2703-2713	regularity	_
 25-3	2714-2720	within	_
@@ -540,6 +565,7 @@
 25-27	2845-2852	results	_
 25-28	2853-2854	.	_
 
+Text=However, since often pair-wise closeness is looked for in the common subspace, such methods will often fail to capture relationships across modalities.
 26-1	2855-2862	However	_
 26-2	2863-2864	,	_
 26-3	2865-2870	since	_
@@ -566,9 +592,11 @@
 26-24	2997-3007	modalities	_
 26-25	3008-3009	.	_
 
+Text=2.2.
 27-1	3010-3013	2.2	_
 27-2	3014-3015	.	_
 
+Text=Collaborative learning Collaborative (or Co-regularized) methods are based on the optimization of measures of agreement and smoothness across multi-modal datasets.
 28-1	3016-3029	Collaborative	_
 28-2	3030-3038	learning	_
 28-3	3039-3052	Collaborative	_
@@ -593,6 +621,7 @@
 28-22	3172-3180	datasets	_
 28-23	3181-3182	.	_
 
+Text=Smoothness across modalities is enforced through a joint regularization term.
 29-1	3183-3193	Smoothness	_
 29-2	3194-3200	across	_
 29-3	3201-3211	modalities	_
@@ -605,6 +634,7 @@
 29-10	3255-3259	term	_
 29-11	3260-3261	.	_
 
+Text=Their general model can be expressed as follows: where the Um, m = 1, ‥, M are arbitrary matrices whose roles are to control the cross-view joint regularization between each pair of vectors (βm, βq), m, q = 1, ‥, M. Scalar parameter γ ≥ 0 controls the influence of such cross-regularization term.
 30-1	3262-3267	Their	_
 30-2	3268-3275	general	_
 30-3	3276-3281	model	_
@@ -671,6 +701,7 @@
 30-64	3564-3568	term	_
 30-65	3569-3570	.	_
 
+Text=Notice that if γ = 0, we fall back on the original Lasso formulation.
 31-1	3571-3577	Notice	_
 31-2	3578-3582	that	_
 31-3	3583-3585	if	_
@@ -688,6 +719,7 @@
 31-15	3629-3640	formulation	_
 31-16	3641-3642	.	_
 
+Text=Collaborative learning is an interesting extension of Eq.1 allowing the user to explicitly enforce regularization across modalities.
 32-1	3643-3656	Collaborative	_
 32-2	3657-3665	learning	_
 32-3	3666-3668	is	_
@@ -707,6 +739,7 @@
 32-17	3764-3774	modalities	_
 32-18	3775-3776	.	_
 
+Text=In this work, we rely on a special case of collaborative methods (introduced later in section 3) to address the following aspects: (i) Extend the regularization idea across modalities, (ii) Assume that relationships between variable are not available as a prior knowledge (as opposed, e.g., to Xin), (iii) Define links between components using correlation measure.
 33-1	3777-3779	In	_
 33-2	3780-3784	this	_
 33-3	3785-3789	work	_
@@ -780,6 +813,7 @@
 33-71	4149-4156	measure	_
 33-72	4157-4158	.	_
 
+Text=To do so, we first briefly introduce in the next section some of the classical methods to extract meaningful relationships between variables across modalities.
 34-1	4159-4161	To	_
 34-2	4162-4164	do	_
 34-3	4165-4167	so	_
@@ -807,9 +841,11 @@
 34-25	4308-4318	modalities	_
 34-26	4319-4320	.	_
 
+Text=2.3.
 35-1	4321-4324	2.3	_
 35-2	4325-4326	.	_
 
+Text=Extracting relationship between datasets A wide variety of problems amount to the joint analysis of multimodal datasets describing the same set of observations.
 36-1	4327-4337	Extracting	_
 36-2	4338-4350	relationship	_
 36-3	4351-4358	between	_
@@ -835,6 +871,7 @@
 36-23	4474-4486	observations	_
 36-24	4487-4488	.	_
 
+Text=Often, a mean to perform such analysis is to learn projection subspaces using paired samples such that structures of interest appear more clearly.
 37-1	4489-4494	Often	_
 37-2	4495-4496	,	_
 37-3	4497-4498	a	_
@@ -861,6 +898,7 @@
 37-24	4628-4635	clearly	_
 37-25	4636-4637	.	_
 
+Text=Some of these methods are for example: Canonical correlation analysis (CCA), Partial least squares (PLS) or cross-modal factor analysis (CFA).
 38-1	4638-4642	Some	_
 38-2	4643-4645	of	_
 38-3	4646-4651	these	_
@@ -891,6 +929,7 @@
 38-28	4786-4787	)	_
 38-29	4788-4789	.	_
 
+Text=Among them, CCA is probably the most widely used.
 39-1	4790-4795	Among	_
 39-2	4796-4800	them	_
 39-3	4801-4802	,	_
@@ -903,6 +942,7 @@
 39-10	4835-4839	used	_
 39-11	4840-4841	.	_
 
+Text=Its goal is to extract linear combinations of variables with maximal correlation between two (or more) datasets.
 40-1	4842-4845	Its	_
 40-2	4846-4850	goal	_
 40-3	4851-4853	is	_
@@ -924,6 +964,7 @@
 40-19	4947-4955	datasets	_
 40-20	4956-4957	.	_
 
+Text=Using similar notations as in the previous section, and assuming M = 2, one formulation of CCA is expressed as follow: to which a constraint on the norm of canonical vectors β1, β2 is added to avoid the trivial null solution.
 41-1	4958-4963	Using	_
 41-2	4964-4971	similar	_
 41-3	4972-4981	notations	_
@@ -971,6 +1012,7 @@
 41-45	5178-5186	solution	_
 41-46	5187-5188	.	_
 
+Text=In recent years, CCA has been widely applied to genomic data analysis.
 42-1	5189-5191	In	_
 42-2	5192-5198	recent	_
 42-3	5199-5204	years	_
@@ -986,6 +1028,7 @@
 42-13	5251-5259	analysis	_
 42-14	5260-5261	.	_
 
+Text=As a consequence, many studies on sparse versions of CCA (sCCA) have been proposed to cope with the high dimension but low sample size problem.
 43-1	5262-5264	As	_
 43-2	5265-5266	a	_
 43-3	5267-5278	consequence	_
@@ -1016,6 +1059,7 @@
 43-28	5400-5407	problem	_
 43-29	5408-5409	.	_
 
+Text=In the next section, we will rely on a CCA term to measure co-expression between variables from different modalities.
 44-1	5410-5412	In	_
 44-2	5413-5416	the	_
 44-3	5417-5421	next	_
@@ -1038,9 +1082,11 @@
 44-20	5517-5527	modalities	_
 44-21	5528-5529	.	_
 
+Text=3.
 45-1	5530-5531	3	_
 45-2	5532-5533	.	_
 
+Text=Enforcing cross-correlation in regression problems 3.1.
 46-1	5534-5543	Enforcing	_
 46-2	5544-5561	cross-correlation	_
 46-3	5562-5564	in	_
@@ -1049,6 +1095,7 @@
 46-6	5585-5588	3.1	_
 46-7	5589-5590	.	_
 
+Text=MT-CoReg formulation As discussed in Section 1, several methods have been proposed to: (i) Associate a phenotype and datasets while enforcing prior over solution, (ii) Extract relationships between coupled or co-expressed datasets.
 47-1	5591-5599	MT-CoReg	_
 47-2	5600-5611	formulation	_
 47-3	5612-5614	As	_
@@ -1090,6 +1137,7 @@
 47-39	5820-5828	datasets	_
 47-40	5829-5830	.	_
 
+Text=In the present study, we propose to associate both the regression and CCA frameworks in the case of M = 2 datasets.
 48-1	5831-5833	In	_
 48-2	5834-5837	the	_
 48-3	5838-5845	present	_
@@ -1115,6 +1163,7 @@
 48-23	5938-5946	datasets	_
 48-24	5947-5948	.	_
 
+Text=Our motivation is to extract informative features that also display a significant amount of correlation across modalities.
 49-1	5949-5952	Our	_
 49-2	5953-5963	motivation	_
 49-3	5964-5966	is	_
@@ -1134,6 +1183,7 @@
 49-17	6060-6070	modalities	_
 49-18	6071-6072	.	_
 
+Text=A simple way to combine Lasso and sparse CCA would be a weighted combination of Eq.
 50-1	6073-6074	A	_
 50-2	6075-6081	simple	_
 50-3	6082-6085	way	_
@@ -1152,6 +1202,7 @@
 50-16	6153-6155	Eq	_
 50-17	6156-6157	.	_
 
+Text=(1) and Eq.
 51-1	6158-6159	(	_
 51-2	6160-6161	1	_
 51-3	6162-6163	)	_
@@ -1159,6 +1210,7 @@
 51-5	6168-6170	Eq	_
 51-6	6171-6172	.	_
 
+Text=(4): where γ ∈ [0, 1] is a weight parameter.
 52-1	6173-6174	(	_
 52-2	6175-6176	4	_
 52-3	6177-6178	)	_
@@ -1177,11 +1229,13 @@
 52-16	6213-6222	parameter	_
 52-17	6223-6224	.	_
 
+Text=Notice that Eq.
 53-1	6225-6231	Notice	_
 53-2	6232-6236	that	_
 53-3	6237-6239	Eq	_
 53-4	6240-6241	.	_
 
+Text=(5) can be expressed within the collaborative framework introduced in Section 2.2.
 54-1	6242-6243	(	_
 54-2	6244-6245	5	_
 54-3	6246-6247	)	_
@@ -1198,6 +1252,7 @@
 54-14	6322-6325	2.2	_
 54-15	6326-6327	.	_
 
+Text=If we take a look at Eq.
 55-1	6328-6330	If	_
 55-2	6331-6333	we	_
 55-3	6334-6338	take	_
@@ -1207,6 +1262,7 @@
 55-7	6349-6351	Eq	_
 55-8	6352-6353	.	_
 
+Text=(3) with M = 2, U1 = X1 and U2 = X2, we fall back on Eq . (5).
 56-1	6354-6355	(	_
 56-2	6356-6357	3	_
 56-3	6358-6359	)	_
@@ -1234,6 +1290,7 @@
 56-25	6420-6421	)	_
 56-26	6422-6423	.	_
 
+Text=Let us call this model CoReg for Collaborative Regression.
 57-1	6424-6427	Let	_
 57-2	6428-6430	us	_
 57-3	6431-6435	call	_
@@ -1245,6 +1302,7 @@
 57-9	6471-6481	Regression	_
 57-10	6482-6483	.	_
 
+Text=Interestingly, a similar model has been considered before by Gross to perform prediction using breast cancer data.
 58-1	6484-6497	Interestingly	_
 58-2	6498-6499	,	_
 58-3	6500-6501	a	_
@@ -1265,6 +1323,7 @@
 58-18	6594-6598	data	_
 58-19	6599-6600	.	_
 
+Text=However, to our opinion, such formulation might prove to be too constraining.
 59-1	6601-6608	However	_
 59-2	6609-6610	,	_
 59-3	6611-6613	to	_
@@ -1281,6 +1340,7 @@
 59-14	6667-6679	constraining	_
 59-15	6680-6681	.	_
 
+Text=It essentially amounts to force each component of the βm ’ s to fit both the regression term and the CCA one.
 60-1	6682-6684	It	_
 60-2	6685-6696	essentially	_
 60-3	6697-6704	amounts	_
@@ -1305,6 +1365,7 @@
 60-22	6787-6790	one	_
 60-23	6791-6792	.	_
 
+Text=We illustrate such behaviour using a toy dataset later in Section 3.4.
 61-1	6793-6795	We	_
 61-2	6796-6806	illustrate	_
 61-3	6807-6811	such	_
@@ -1319,6 +1380,7 @@
 61-12	6859-6862	3.4	_
 61-13	6863-6864	.	_
 
+Text=Since our goal is to perform feature selection, we may allow the model to be slightly more flexible.
 62-1	6865-6870	Since	_
 62-2	6871-6874	our	_
 62-3	6875-6879	goal	_
@@ -1340,6 +1402,7 @@
 62-19	6957-6965	flexible	_
 62-20	6966-6967	.	_
 
+Text=We thus propose an alternative formulation by first duplicating each βm into two components such that: where αm, θm are vectors from ℝpm.
 63-1	6968-6970	We	_
 63-2	6971-6975	thus	_
 63-3	6976-6983	propose	_
@@ -1367,6 +1430,7 @@
 63-25	7103-7106	ℝpm	_
 63-26	7107-7108	.	_
 
+Text=As a consequence, the βm ’ s are now matrices such that βm ∈ ℝpm×2 ∀m = 1, 2.
 64-1	7109-7111	As	_
 64-2	7112-7113	a	_
 64-3	7114-7125	consequence	_
@@ -1390,6 +1454,7 @@
 64-21	7186-7187	2	_
 64-22	7188-7189	.	_
 
+Text=We then propose the following MT-CoReg formulation: where is the i-th row of βm, i.e.
 65-1	7190-7192	We	_
 65-2	7193-7197	then	_
 65-3	7198-7205	propose	_
@@ -1409,8 +1474,10 @@
 65-17	7273-7276	i.e	_
 65-18	7277-7278	.	_
 
+Text=.
 66-1	7279-7280	.	_
 
+Text=The third term of Eq.
 67-1	7281-7284	The	_
 67-2	7285-7290	third	_
 67-3	7291-7295	term	_
@@ -1418,6 +1485,7 @@
 67-5	7299-7301	Eq	_
 67-6	7302-7303	.	_
 
+Text=(3.3) is simply the ℓ1/ℓ2 norm of each of the βm.
 68-1	7304-7305	(	_
 68-2	7306-7309	3.3	_
 68-3	7310-7311	)	_
@@ -1433,6 +1501,7 @@
 68-13	7352-7354	βm	_
 68-14	7355-7356	.	_
 
+Text=As we can observe from looking at Eq.
 69-1	7357-7359	As	_
 69-2	7360-7362	we	_
 69-3	7363-7366	can	_
@@ -1443,6 +1512,7 @@
 69-8	7391-7393	Eq	_
 69-9	7394-7395	.	_
 
+Text=(3.3), each ’ component ’ (i.e.
 70-1	7396-7397	(	_
 70-2	7398-7401	3.3	_
 70-3	7402-7403	)	_
@@ -1455,6 +1525,7 @@
 70-10	7427-7430	i.e	_
 70-11	7431-7432	.	_
 
+Text=column of βm) will be involved in separate parts of the functional J: (i) components αm are the fit to the regression term of Eq.
 71-1	7433-7439	column	_
 71-2	7440-7442	of	_
 71-3	7443-7445	βm	_
@@ -1486,6 +1557,7 @@
 71-29	7563-7565	Eq	_
 71-30	7566-7567	.	_
 
+Text=(3.3), (ii) components θm are the fit of the CCA term of Eq . (3.3).
 72-1	7568-7569	(	_
 72-2	7570-7573	3.3	_
 72-3	7574-7575	)	_
@@ -1510,6 +1582,7 @@
 72-22	7641-7642	)	_
 72-23	7643-7644	.	_
 
+Text=Each pair (αm, θm) and m = 1, 2 is coupled through the use of the ℓ1/ℓ2 norm from the third term in Eq . (3.3).
 73-1	7645-7649	Each	_
 73-2	7650-7654	pair	_
 73-3	7655-7656	(	_
@@ -1544,6 +1617,7 @@
 73-32	7760-7761	)	_
 73-33	7762-7763	.	_
 
+Text=Although their values are different, shared sparsity patterns are encouraged within each pair (αm, θm).
 74-1	7764-7772	Although	_
 74-2	7773-7778	their	_
 74-3	7779-7785	values	_
@@ -1565,6 +1639,7 @@
 74-19	7869-7870	)	_
 74-20	7871-7872	.	_
 
+Text=As a consequence, we allow the method to be significantly more flexible in terms of solutions: different values can be taken to simultaneously fit the Regression and CCA parts.
 75-1	7873-7875	As	_
 75-2	7876-7877	a	_
 75-3	7878-7889	consequence	_
@@ -1598,6 +1673,7 @@
 75-31	8045-8050	parts	_
 75-32	8051-8052	.	_
 
+Text=We hope that such framework will encourage the selection of features that are discriminative (via the regression part) but also co-expressed across modalities (via the CCA part).
 76-1	8053-8055	We	_
 76-2	8056-8060	hope	_
 76-3	8061-8065	that	_
@@ -1631,6 +1707,7 @@
 76-31	8233-8234	)	_
 76-32	8235-8236	.	_
 
+Text=Note that when γ = 0, criterion (3.3) essentially reduces to the initial regression problem of Eq.
 77-1	8237-8241	Note	_
 77-2	8242-8246	that	_
 77-3	8247-8251	when	_
@@ -1653,6 +1730,7 @@
 77-20	8335-8337	Eq	_
 77-21	8338-8339	.	_
 
+Text=(1), while setting γ = 1 amounts to solving a conventional sparse CCA problem.
 78-1	8340-8341	(	_
 78-2	8342-8343	1	_
 78-3	8344-8345	)	_
@@ -1672,6 +1750,7 @@
 78-17	8413-8420	problem	_
 78-18	8421-8422	.	_
 
+Text=A schematic view of the MT-CoReg pipeline can be seen in Fig . (1).
 79-1	8423-8424	A	_
 79-2	8425-8434	schematic	_
 79-3	8435-8439	view	_
@@ -1690,6 +1769,7 @@
 79-16	8490-8491	)	_
 79-17	8492-8493	.	_
 
+Text=In the next section, we briefly explain how to solve the problem described in Eq . (3.3).
 80-1	8494-8496	In	_
 80-2	8497-8500	the	_
 80-3	8501-8505	next	_
@@ -1712,9 +1792,11 @@
 80-20	8584-8585	)	_
 80-21	8586-8587	.	_
 
+Text=3.2.
 81-1	8588-8591	3.2	_
 81-2	8592-8593	.	_
 
+Text=Optimization Initialization: estimate initial values for α1, β1, α2, β2 using ridge regression and ridge CCA.
 82-1	8594-8606	Optimization	_
 82-2	8607-8621	Initialization	_
 82-3	8622-8623	:	_
@@ -1737,6 +1819,7 @@
 82-20	8703-8706	CCA	_
 82-21	8707-8708	.	_
 
+Text=Assume β1 ’ s value fixed, and update β2 using Eq . (8).
 83-1	8709-8715	Assume	_
 83-2	8716-8718	β1	_
 83-3	8719-8720	’	_
@@ -1755,6 +1838,7 @@
 83-16	8766-8767	)	_
 83-17	8768-8769	.	_
 
+Text=Assume β2 ’ s value fixed, and update β1 using the adapted version of Eq . (8).
 84-1	8770-8776	Assume	_
 84-2	8777-8779	β2	_
 84-3	8780-8781	’	_
@@ -1777,6 +1861,7 @@
 84-20	8850-8851	)	_
 84-21	8852-8853	.	_
 
+Text=Go back to step 2. until convergence We solve the problem from Eq.
 85-1	8854-8856	Go	_
 85-2	8857-8861	back	_
 85-3	8862-8864	to	_
@@ -1792,6 +1877,7 @@
 85-13	8917-8919	Eq	_
 85-14	8920-8921	.	_
 
+Text=(3.3) by optimizing the βm ’ s alternatively over iterations until convergence, in a similar fashion to Wilms et al.
 86-1	8922-8923	(	_
 86-2	8924-8927	3.3	_
 86-3	8928-8929	)	_
@@ -1817,11 +1903,13 @@
 86-23	9038-9040	al	_
 86-24	9041-9042	.	_
 
+Text=formulation of sCCA.
 87-1	9043-9054	formulation	_
 87-2	9055-9057	of	_
 87-3	9058-9062	sCCA	_
 87-4	9063-9064	.	_
 
+Text=Suppose we have an initial value for β1, and want to estimate β2.
 88-1	9065-9072	Suppose	_
 88-2	9073-9075	we	_
 88-3	9076-9080	have	_
@@ -1838,6 +1926,7 @@
 88-14	9128-9130	β2	_
 88-15	9131-9132	.	_
 
+Text=Updating matrix β2 can be recast into a problem of the following form: where Obviously, Eq.
 89-1	9133-9141	Updating	_
 89-2	9142-9148	matrix	_
 89-3	9149-9151	β2	_
@@ -1858,6 +1947,7 @@
 89-18	9223-9225	Eq	_
 89-19	9226-9227	.	_
 
+Text=(8) is a classical group-lasso regression problem (cf.
 90-1	9228-9229	(	_
 90-2	9230-9231	8	_
 90-3	9232-9233	)	_
@@ -1871,6 +1961,7 @@
 90-11	9282-9284	cf	_
 90-12	9285-9286	.	_
 
+Text=Eq . (2)).
 91-1	9287-9289	Eq	_
 91-2	9290-9291	.	_
 91-3	9292-9293	(	_
@@ -1879,6 +1970,7 @@
 91-6	9298-9299	)	_
 91-7	9300-9301	.	_
 
+Text=It is easy to show that updating β1 reduces to solving a similar problem.
 92-1	9302-9304	It	_
 92-2	9305-9307	is	_
 92-3	9308-9312	easy	_
@@ -1895,6 +1987,7 @@
 92-14	9367-9374	problem	_
 92-15	9375-9376	.	_
 
+Text=As a consequence, solving our mixed Lasso/CCA problem from Eq.
 93-1	9377-9379	As	_
 93-2	9380-9381	a	_
 93-3	9382-9393	consequence	_
@@ -1908,6 +2001,7 @@
 93-11	9437-9439	Eq	_
 93-12	9440-9441	.	_
 
+Text=(3.3) can be briefly summarized as: 3.3.
 94-1	9442-9443	(	_
 94-2	9444-9447	3.3	_
 94-3	9448-9449	)	_
@@ -1920,6 +2014,7 @@
 94-10	9481-9484	3.3	_
 94-11	9485-9486	.	_
 
+Text=Parameter selection Solving problem from Eq.
 95-1	9487-9496	Parameter	_
 95-2	9497-9506	selection	_
 95-3	9507-9514	Solving	_
@@ -1928,6 +2023,7 @@
 95-6	9528-9530	Eq	_
 95-7	9531-9532	.	_
 
+Text=(3.3) requires the estimation of two parameters, λ and γ, which respectively control the weights of the sparsity and the co-expression regularization terms.
 96-1	9533-9534	(	_
 96-2	9535-9538	3.3	_
 96-3	9539-9540	)	_
@@ -1957,6 +2053,7 @@
 96-27	9687-9692	terms	_
 96-28	9693-9694	.	_
 
+Text=The choice of sparsity parameter λ for this type of problems is known to display a high sensitivity.
 97-1	9695-9698	The	_
 97-2	9699-9705	choice	_
 97-3	9706-9708	of	_
@@ -1977,6 +2074,7 @@
 97-18	9783-9794	sensitivity	_
 97-19	9795-9796	.	_
 
+Text=In order to make the searching process more robust, we chose to let the sparsity level of the solution control the tuning parameter value.
 98-1	9797-9799	In	_
 98-2	9800-9805	order	_
 98-3	9806-9808	to	_
@@ -2004,6 +2102,7 @@
 98-25	9930-9935	value	_
 98-26	9936-9937	.	_
 
+Text=Consider a column vector β ∈ ℝp (e.g.
 99-1	9938-9946	Consider	_
 99-2	9947-9948	a	_
 99-3	9949-9955	column	_
@@ -2015,6 +2114,7 @@
 99-9	9972-9975	e.g	_
 99-10	9976-9977	.	_
 
+Text=a column of β from Eq.
 100-1	9978-9979	a	_
 100-2	9980-9986	column	_
 100-3	9987-9989	of	_
@@ -2023,6 +2123,7 @@
 100-6	9997-9999	Eq	_
 100-7	10000-10001	.	_
 
+Text=): let us denote |β|κ the κ-th (κ ∈ ℕ+) largest absolute magnitude of λ.
 101-1	10002-10003	)	_
 101-2	10004-10005	:	_
 101-3	10006-10009	let	_
@@ -2043,6 +2144,7 @@
 101-18	10075-10076	λ	_
 101-19	10077-10078	.	_
 
+Text=We can Define a correspondence between λ and κ by making sure that for each iteration, we have λ ∈ [|β|κ, |β|κ+1].
 102-1	10079-10081	We	_
 102-2	10082-10085	can	_
 102-3	10086-10092	Define	_
@@ -2071,6 +2173,7 @@
 102-26	10195-10196	]	_
 102-27	10197-10198	.	_
 
+Text=The selection can be looked for around the sample size (i.e.
 103-1	10199-10202	The	_
 103-2	10203-10212	selection	_
 103-3	10213-10216	can	_
@@ -2085,6 +2188,7 @@
 103-12	10256-10259	i.e	_
 103-13	10260-10261	.	_
 
+Text=κ = n for the entire estimation process), which helps drastically stabilize the estimation process in practice.
 104-1	10262-10263	κ	_
 104-2	10264-10265	=	_
 104-3	10266-10267	n	_
@@ -2106,6 +2210,7 @@
 104-19	10366-10374	practice	_
 104-20	10375-10376	.	_
 
+Text=As for the estimation of γ, we chose to rely on a technique introduced by Sun et al.
 105-1	10377-10379	As	_
 105-2	10380-10383	for	_
 105-3	10384-10387	the	_
@@ -2127,6 +2232,7 @@
 105-19	10459-10461	al	_
 105-20	10462-10463	.	_
 
+Text=based on variable selection stability.
 106-1	10464-10469	based	_
 106-2	10470-10472	on	_
 106-3	10473-10481	variable	_
@@ -2134,6 +2240,7 @@
 106-5	10492-10501	stability	_
 106-6	10502-10503	.	_
 
+Text=Its main goal is to select a given tuning parameter so that the associated variable selection method (in our case, the model from Eq.
 107-1	10504-10507	Its	_
 107-2	10508-10512	main	_
 107-3	10513-10517	goal	_
@@ -2162,6 +2269,7 @@
 107-26	10636-10638	Eq	_
 107-27	10639-10640	.	_
 
+Text=(3.3)) is stable in terms of the features it selects.
 108-1	10641-10642	(	_
 108-2	10643-10646	3.3	_
 108-3	10647-10648	)	_
@@ -2177,6 +2285,7 @@
 108-13	10689-10696	selects	_
 108-14	10697-10698	.	_
 
+Text=In this framework, the training set is split in two halves using resampling (bootstrap resampling in our case).
 109-1	10699-10701	In	_
 109-2	10702-10706	this	_
 109-3	10707-10716	framework	_
@@ -2200,6 +2309,7 @@
 109-21	10811-10812	)	_
 109-22	10813-10814	.	_
 
+Text=The variable selection method is then applied to each of the subsamples along a grid of candidate values for the parameter.
 110-1	10815-10818	The	_
 110-2	10819-10827	variable	_
 110-3	10828-10837	selection	_
@@ -2223,6 +2333,7 @@
 110-21	10928-10937	parameter	_
 110-22	10938-10939	.	_
 
+Text=Kappa selection criterion is then used to measure the degree of agreement between the two sets of variables obtained for a given parameter value.
 111-1	10940-10945	Kappa	_
 111-2	10946-10955	selection	_
 111-3	10956-10965	criterion	_
@@ -2249,6 +2360,7 @@
 111-24	11079-11084	value	_
 111-25	11085-11086	.	_
 
+Text=This process is then repeated a number of times, and an approximated measure of selection consistency is derived.
 112-1	11087-11091	This	_
 112-2	11092-11099	process	_
 112-3	11100-11102	is	_
@@ -2270,6 +2382,7 @@
 112-19	11193-11200	derived	_
 112-20	11201-11202	.	_
 
+Text=The parameter value for which this consistency is the highest (after correction for the number of non-zeros elements retained) is the one kept for the estimation.
 113-1	11203-11206	The	_
 113-2	11207-11216	parameter	_
 113-3	11217-11222	value	_
@@ -2300,9 +2413,11 @@
 113-28	11356-11366	estimation	_
 113-29	11367-11368	.	_
 
+Text=3.4.
 114-1	11369-11372	3.4	_
 114-2	11373-11374	.	_
 
+Text=MT-CoReg VS. CoReg As mentioned earlier in Section 3.1, in their CoReg model from Eq.
 115-1	11375-11383	MT-CoReg	_
 115-2	11384-11387	VS.	_
 115-3	11388-11393	CoReg	_
@@ -2321,6 +2436,7 @@
 115-16	11458-11460	Eq	_
 115-17	11461-11462	.	_
 
+Text=(5) Gross et al.
 116-1	11463-11464	(	_
 116-2	11465-11466	5	_
 116-3	11467-11468	)	_
@@ -2329,6 +2445,7 @@
 116-6	11478-11480	al	_
 116-7	11481-11482	.	_
 
+Text=did not separate the solution vectors βm into two components.
 117-1	11483-11486	did	_
 117-2	11487-11490	not	_
 117-3	11491-11499	separate	_
@@ -2341,6 +2458,7 @@
 117-10	11533-11543	components	_
 117-11	11544-11545	.	_
 
+Text=We then propose to illustrate the behavior of both models (Eq.
 118-1	11546-11548	We	_
 118-2	11549-11553	then	_
 118-3	11554-11561	propose	_
@@ -2355,6 +2473,7 @@
 118-12	11606-11608	Eq	_
 118-13	11609-11610	.	_
 
+Text=(5) and Eq.
 119-1	11611-11612	(	_
 119-2	11613-11614	5	_
 119-3	11615-11616	)	_
@@ -2362,6 +2481,7 @@
 119-5	11621-11623	Eq	_
 119-6	11624-11625	.	_
 
+Text=(3.3)) on a toy dataset.
 120-1	11626-11627	(	_
 120-2	11628-11631	3.3	_
 120-3	11632-11633	)	_
@@ -2372,6 +2492,7 @@
 120-8	11645-11652	dataset	_
 120-9	11653-11654	.	_
 
+Text=We generated M = 2 data matrices X1, X2 such that p1 = p2 = 30 and n = 50 observations.
 121-1	11655-11657	We	_
 121-2	11658-11667	generated	_
 121-3	11668-11669	M	_
@@ -2396,6 +2517,7 @@
 121-22	11730-11742	observations	_
 121-23	11743-11744	.	_
 
+Text=We used a latent variable model to simulate cross-correlated components so that columns p = [1, ‥5] ∪ [10, ‥15] of X1, X2 are mutually co-expressed.
 122-1	11745-11747	We	_
 122-2	11748-11752	used	_
 122-3	11753-11754	a	_
@@ -2431,6 +2553,7 @@
 122-33	11887-11899	co-expressed	_
 122-34	11900-11901	.	_
 
+Text=We further use columns p = [10, ‥ 15] ∪ [20, ‥25] to generate a phenotype vector y such that yi ∈ {−1; 1}.
 123-1	11902-11904	We	_
 123-2	11905-11912	further	_
 123-3	11913-11916	use	_
@@ -2466,6 +2589,7 @@
 123-33	12015-12016	}	_
 123-34	12017-12018	.	_
 
+Text=With such setup, columns p = [10, ‥ 15] correspond to both non-zeros values in the true regression and canonical coefficients.
 124-1	12019-12023	With	_
 124-2	12024-12028	such	_
 124-3	12029-12034	setup	_
@@ -2493,6 +2617,7 @@
 124-25	12136-12148	coefficients	_
 124-26	12149-12150	.	_
 
+Text=Furthermore, let us point out that these non-zero values are diferent (canonical coefficients ’ amplitude is lower than the regression ones).
 125-1	12151-12162	Furthermore	_
 125-2	12163-12164	,	_
 125-3	12165-12168	let	_
@@ -2519,6 +2644,7 @@
 125-24	12293-12294	)	_
 125-25	12295-12296	.	_
 
+Text=This setup can be seen in the first row of Fig.
 126-1	12297-12301	This	_
 126-2	12302-12307	setup	_
 126-3	12308-12311	can	_
@@ -2532,6 +2658,7 @@
 126-11	12340-12343	Fig	_
 126-12	12344-12345	.	_
 
+Text=(2, Truth), where the blue and red curves are the values taken by the canonical and regression coefficients respectively.
 127-1	12346-12347	(	_
 127-2	12348-12349	2	_
 127-3	12350-12351	,	_
@@ -2557,6 +2684,7 @@
 127-23	12458-12470	respectively	_
 127-24	12471-12472	.	_
 
+Text=Resulting estimates for sCCA, Lasso, CoReg as well as proposed method MT-CoReg can also be seen in Fig . (2).
 128-1	12473-12482	Resulting	_
 128-2	12483-12492	estimates	_
 128-3	12493-12496	for	_
@@ -2583,6 +2711,7 @@
 128-24	12584-12585	)	_
 128-25	12586-12587	.	_
 
+Text=In such scenario, while CoReg model assumes that regression and canonical coefficients have identical values, MT-CoReg has a wider scope and allows a finer joint estimation of both components types.
 129-1	12588-12590	In	_
 129-2	12591-12595	such	_
 129-3	12596-12604	scenario	_
@@ -2617,9 +2746,11 @@
 129-32	12782-12787	types	_
 129-33	12788-12789	.	_
 
+Text=4.
 130-1	12790-12791	4	_
 130-2	12792-12793	.	_
 
+Text=Experiments In this section, we evaluate the proposed estimator from Eq.3.3.
 131-1	12794-12805	Experiments	_
 131-2	12806-12808	In	_
 131-3	12809-12813	this	_
@@ -2634,6 +2765,7 @@
 131-12	12864-12870	Eq.3.3	_
 131-13	12871-12872	.	_
 
+Text=Performances will be assessed in terms of feature selection relevance on both simulated and real data.
 132-1	12873-12885	Performances	_
 132-2	12886-12890	will	_
 132-3	12891-12893	be	_
@@ -2652,9 +2784,11 @@
 132-16	12970-12974	data	_
 132-17	12975-12976	.	_
 
+Text=4.1.
 133-1	12977-12980	4.1	_
 133-2	12981-12982	.	_
 
+Text=Results on synthetic data For our first test, we simulate both fMRI and SNP datasets.
 134-1	12983-12990	Results	_
 134-2	12991-12993	on	_
 134-3	12994-13003	synthetic	_
@@ -2673,6 +2807,7 @@
 134-16	13060-13068	datasets	_
 134-17	13069-13070	.	_
 
+Text=Similar to the toy dataset from Section 3.4, we start by generating explanatory variables for both genomic and brain imaging data.
 135-1	13071-13078	Similar	_
 135-2	13079-13081	to	_
 135-3	13082-13085	the	_
@@ -2697,6 +2832,7 @@
 135-22	13197-13201	data	_
 135-23	13202-13203	.	_
 
+Text=The first 100 components of are drawn from Normal distribution, while the rest is set to zero.
 136-1	13204-13207	The	_
 136-2	13208-13213	first	_
 136-3	13214-13217	100	_
@@ -2717,6 +2853,7 @@
 136-18	13294-13298	zero	_
 136-19	13299-13300	.	_
 
+Text=The total number of observations is set to n = 200.
 137-1	13301-13304	The	_
 137-2	13305-13310	total	_
 137-3	13311-13317	number	_
@@ -2730,6 +2867,7 @@
 137-11	13348-13351	200	_
 137-12	13352-13353	.	_
 
+Text=Genomic values are coded as 0 (no minor allele), 1 (one minor allele), and 2 (two minor allele).
 138-1	13354-13361	Genomic	_
 138-2	13362-13368	values	_
 138-3	13369-13372	are	_
@@ -2758,6 +2896,7 @@
 138-26	13456-13457	)	_
 138-27	13458-13459	.	_
 
+Text=We first Define a minor allele frequency η drawn from a uniform distribution 𝒰 ([0.2, 0.4]).
 139-1	13460-13462	We	_
 139-2	13463-13468	first	_
 139-3	13469-13475	Define	_
@@ -2781,6 +2920,7 @@
 139-21	13555-13556	)	_
 139-22	13557-13558	.	_
 
+Text=The i-th SNP is then generated from a binomial distribution ℬ (2, ηi).
 140-1	13559-13562	The	_
 140-2	13563-13567	i-th	_
 140-3	13568-13571	SNP	_
@@ -2799,6 +2939,7 @@
 140-16	13630-13631	)	_
 140-17	13632-13633	.	_
 
+Text=For the imaging data, voxels values were drawn from a Gaussian distribution 𝒩 (0, Ip).
 141-1	13634-13637	For	_
 141-2	13638-13641	the	_
 141-3	13642-13649	imaging	_
@@ -2820,6 +2961,7 @@
 141-19	13722-13723	)	_
 141-20	13724-13725	.	_
 
+Text=Finally, binary phenotype y data are generated from ℬ (1, di), where.
 142-1	13726-13733	Finally	_
 142-2	13734-13735	,	_
 142-3	13736-13742	binary	_
@@ -2839,6 +2981,7 @@
 142-17	13794-13799	where	_
 142-18	13800-13801	.	_
 
+Text=Furthermore, we add 100 additional variables to the problem that will play the role of cross-correlated variables.
 143-1	13802-13813	Furthermore	_
 143-2	13814-13815	,	_
 143-3	13816-13818	we	_
@@ -2859,6 +3002,7 @@
 143-18	13907-13916	variables	_
 143-19	13917-13918	.	_
 
+Text=Two canonical vectors are drawn from Normal distribution.
 144-1	13919-13922	Two	_
 144-2	13923-13932	canonical	_
 144-3	13933-13940	vectors	_
@@ -2869,6 +3013,7 @@
 144-8	13963-13975	distribution	_
 144-9	13976-13977	.	_
 
+Text=Cross-correlated SNP are drawn from ℬ (2, logit−1 (−ai + logit (ηi))) where a is issued from, while cross-correlated voxels are drawn from.
 145-1	13978-13994	Cross-correlated	_
 145-2	13995-13998	SNP	_
 145-3	13999-14002	are	_
@@ -2902,6 +3047,7 @@
 145-31	14120-14124	from	_
 145-32	14125-14126	.	_
 
+Text=The final dataset is made of n = 200 observations of p = 1000 variables for both SNP and fMRI.
 146-1	14127-14130	The	_
 146-2	14131-14136	final	_
 146-3	14137-14144	dataset	_
@@ -2924,6 +3070,7 @@
 146-20	14216-14220	fMRI	_
 146-21	14221-14222	.	_
 
+Text=Each of these datasets is made of explanatory and cross-correlated components.
 147-1	14223-14227	Each	_
 147-2	14228-14230	of	_
 147-3	14231-14236	these	_
@@ -2937,6 +3084,7 @@
 147-11	14290-14300	components	_
 147-12	14301-14302	.	_
 
+Text=A common way to assess the performance of a model when it comes to feature selection is to measure the true positive rate (TPR) and false positive rate (FPR).
 148-1	14303-14304	A	_
 148-2	14305-14311	common	_
 148-3	14312-14315	way	_
@@ -2972,6 +3120,7 @@
 148-33	14463-14464	)	_
 148-34	14465-14466	.	_
 
+Text=TPR reflects the proportion of variables that are correctly identified, while FDR reflects the proportion of variables that are incorrectly selected by the model.
 149-1	14467-14470	TPR	_
 149-2	14471-14479	reflects	_
 149-3	14480-14483	the	_
@@ -2999,6 +3148,7 @@
 149-25	14624-14629	model	_
 149-26	14630-14631	.	_
 
+Text=We apply MT-CoReg to 100 random generation of the dataset described above.
 150-1	14632-14634	We	_
 150-2	14635-14640	apply	_
 150-3	14641-14649	MT-CoReg	_
@@ -3013,6 +3163,7 @@
 150-12	14700-14705	above	_
 150-13	14706-14707	.	_
 
+Text=The tuning parameter γ from Eq.
 151-1	14708-14711	The	_
 151-2	14712-14718	tuning	_
 151-3	14719-14728	parameter	_
@@ -3021,6 +3172,7 @@
 151-6	14736-14738	Eq	_
 151-7	14739-14740	.	_
 
+Text=(3.3) that weights the CCA term against the regression one is optimized through a grid search over {[0] ∪ [10−1+ℓ/20], ℓ = 0, ‥, 20}.
 152-1	14741-14742	(	_
 152-2	14743-14746	3.3	_
 152-3	14747-14748	)	_
@@ -3059,6 +3211,7 @@
 152-36	14883-14884	}	_
 152-37	14885-14886	.	_
 
+Text=We plotted TPR values against FDR ones in Fig.
 153-1	14887-14889	We	_
 153-2	14890-14897	plotted	_
 153-3	14898-14901	TPR	_
@@ -3070,6 +3223,7 @@
 153-9	14929-14932	Fig	_
 153-10	14933-14934	.	_
 
+Text=(3) for two different cases.
 154-1	14935-14936	(	_
 154-2	14937-14938	3	_
 154-3	14939-14940	)	_
@@ -3079,6 +3233,7 @@
 154-7	14959-14964	cases	_
 154-8	14965-14966	.	_
 
+Text=In the first (left) subfigure are displayed TPR/FDR values relative to non-zero components of for γ = 0 (i.e.
 155-1	14967-14969	In	_
 155-2	14970-14973	the	_
 155-3	14974-14979	first	_
@@ -3103,6 +3258,7 @@
 155-22	15075-15078	i.e	_
 155-23	15079-15080	.	_
 
+Text=classical Lasso), γ = γ (C.S.)
 156-1	15081-15090	classical	_
 156-2	15091-15096	Lasso	_
 156-3	15097-15098	)	_
@@ -3115,6 +3271,7 @@
 156-10	15113-15114	.	_
 156-11	15115-15116	)	_
 
+Text=where the weight value is determined using consistency selection (C.S.)
 157-1	15117-15122	where	_
 157-2	15123-15126	the	_
 157-3	15127-15133	weight	_
@@ -3129,6 +3286,7 @@
 157-12	15188-15189	.	_
 157-13	15190-15191	)	_
 
+Text=scheme described in Section 3.3, and γ = 1 (i.e.
 158-1	15192-15198	scheme	_
 158-2	15199-15208	described	_
 158-3	15209-15211	in	_
@@ -3143,11 +3301,13 @@
 158-12	15238-15241	i.e	_
 158-13	15242-15243	.	_
 
+Text=classical sCCA).
 159-1	15244-15253	classical	_
 159-2	15254-15258	sCCA	_
 159-3	15259-15260	)	_
 159-4	15261-15262	.	_
 
+Text=We can observe that although classical regression seems to perform slightly better for really low FDR values, MT-CoReg is quickly catching up around FDR ≈ 0.15. sCCA, on the other hand, has a low selection power.
 160-1	15263-15265	We	_
 160-2	15266-15269	can	_
 160-3	15270-15277	observe	_
@@ -3189,6 +3349,7 @@
 160-39	15472-15477	power	_
 160-40	15478-15479	.	_
 
+Text=The second (bottom) figure displays TPR/FDR values relative to non-zero components of, i.e.
 161-1	15480-15483	The	_
 161-2	15484-15490	second	_
 161-3	15491-15492	(	_
@@ -3207,11 +3368,13 @@
 161-16	15570-15573	i.e	_
 161-17	15574-15575	.	_
 
+Text=the cross-correlated components.
 162-1	15576-15579	the	_
 162-2	15580-15596	cross-correlated	_
 162-3	15597-15607	components	_
 162-4	15608-15609	.	_
 
+Text=We can observe that MT-CoReg performs as well as sCCA, while Lasso is unable to properly select the components of interest.
 163-1	15610-15612	We	_
 163-2	15613-15616	can	_
 163-3	15617-15624	observe	_
@@ -3236,6 +3399,7 @@
 163-22	15725-15733	interest	_
 163-23	15734-15735	.	_
 
+Text=It is encouraging to see that MT-CoReg takes the best of both methods and seems to properly select the components we are interested in.
 164-1	15736-15738	It	_
 164-2	15739-15741	is	_
 164-3	15742-15753	encouraging	_
@@ -3262,6 +3426,7 @@
 164-24	15868-15870	in	_
 164-25	15871-15872	.	_
 
+Text=It seems to confirm our hypothesis that using a mix of both terms may lead to an improved feature selection accuracy.
 165-1	15873-15875	It	_
 165-2	15876-15881	seems	_
 165-3	15882-15884	to	_
@@ -3285,6 +3450,7 @@
 165-21	15981-15989	accuracy	_
 165-22	15990-15991	.	_
 
+Text=In the next section, we apply the same method to a real dataset of fMRI and SNP data.
 166-1	15992-15994	In	_
 166-2	15995-15998	the	_
 166-3	15999-16003	next	_
@@ -3306,9 +3472,11 @@
 166-19	16073-16077	data	_
 166-20	16078-16079	.	_
 
+Text=4.2.
 167-1	16080-16083	4.2	_
 167-2	16084-16085	.	_
 
+Text=Results on real imaging genetics data 4.2.1.
 168-1	16086-16093	Results	_
 168-2	16094-16096	on	_
 168-3	16097-16101	real	_
@@ -3318,6 +3486,7 @@
 168-7	16124-16129	4.2.1	_
 168-8	16130-16131	.	_
 
+Text=Data acquisition Both SNP and fMRI acquisition were conducted by the Mind Clinical Imaging Consortium (MCIC) for 214 subjects, including 92 schizophrenia patients (age: 34 ± 11, 22 females) and 116 controls (age 32 ± 11, 44 females).
 169-1	16132-16136	Data	_
 169-2	16137-16148	acquisition	_
 169-3	16149-16153	Both	_
@@ -3368,6 +3537,7 @@
 169-48	16373-16374	)	_
 169-49	16375-16376	.	_
 
+Text=Schizophreniac were diagnosed based on DSM-IV-TR citeria.
 170-1	16377-16391	Schizophreniac	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 170-2	16392-16396	were	_
 170-3	16397-16406	diagnosed	_
@@ -3377,6 +3547,7 @@
 170-7	16426-16433	citeria	_
 170-8	16434-16435	.	_
 
+Text=Controls were free of any medical, neurological of psychiatric illnesses.
 171-1	16436-16444	Controls	_
 171-2	16445-16449	were	_
 171-3	16450-16454	free	_
@@ -3390,6 +3561,7 @@
 171-11	16500-16509	illnesses	_
 171-12	16510-16511	.	_
 
+Text=fMRI were acquired during a sensor motor task with auditory simulation.
 172-1	16512-16516	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 172-2	16517-16521	were	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 172-3	16522-16530	acquired	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -3403,6 +3575,7 @@
 172-11	16572-16582	simulation	_
 172-12	16583-16584	.	_
 
+Text=Data were pre-processed with SPM5, spatially normalized and resliced, smoothed, and analyzed by multiple regression considering the stimulus and their temporal derivatives plus an intercept term as regressors.
 173-1	16585-16589	Data	_
 173-2	16590-16594	were	_
 173-3	16595-16608	pre-processed	_
@@ -3436,6 +3609,7 @@
 173-31	16786-16796	regressors	_
 173-32	16797-16798	.	_
 
+Text=For each patient, a stimulus-on vs. stimulus-off contrast image was extracted.
 174-1	16799-16802	For	_
 174-2	16803-16807	each	_
 174-3	16808-16815	patient	_
@@ -3450,6 +3624,7 @@
 174-12	16868-16877	extracted	_
 174-13	16878-16879	.	_
 
+Text=116 ROIs were extracted based on the aal brain atlas, which resulted in 41236 voxels left for analysis.
 175-1	16880-16883	116	_
 175-2	16884-16888	ROIs	_
 175-3	16889-16893	were	_
@@ -3471,6 +3646,7 @@
 175-19	16975-16983	analysis	_
 175-20	16984-16985	.	_
 
+Text=SNP data were obtained from blood sample using Illumina Infinium HumanOmni1-Quad array covering 1,140,419 SNP loci.
 176-1	16986-16989	SNP	_
 176-2	16990-16994	data	_
 176-3	16995-16999	were	_
@@ -3489,6 +3665,7 @@
 176-16	17096-17100	loci	_
 176-17	17101-17102	.	_
 
+Text=After standard quality control procedures using PLINK software packagea, a final dataset spanning 777, 635 SNP loci was available.
 177-1	17103-17108	After	_
 177-2	17109-17117	standard	_
 177-3	17118-17125	quality	_
@@ -3512,6 +3689,7 @@
 177-21	17225-17234	available	_
 177-22	17235-17236	.	_
 
+Text=Each SNP was categorized into three clusters based on their genotype and was represented with discrete numbers: 0 (no minor allele), 1 (one minor allele) and 2 (two minor alleles).
 178-1	17237-17241	Each	_
 178-2	17242-17245	SNP	_
 178-3	17246-17249	was	_
@@ -3552,6 +3730,7 @@
 178-38	17423-17424	)	_
 178-39	17425-17426	.	_
 
+Text=SNPs with> 20% missing data were deleted and missing data were further imputed.
 179-1	17427-17431	SNPs	_
 179-2	17432-17436	with	_
 179-3	17437-17438	>	_
@@ -3569,6 +3748,7 @@
 179-15	17500-17507	imputed	_
 179-16	17508-17509	.	_
 
+Text=SNPs with minor allele frequency <5% were removed.
 180-1	17510-17514	SNPs	_
 180-2	17515-17519	with	_
 180-3	17520-17525	minor	_
@@ -3581,6 +3761,7 @@
 180-10	17554-17561	removed	_
 180-11	17562-17563	.	_
 
+Text=This procedure yielded a final set of 129, 145 SNPs.
 181-1	17564-17568	This	_
 181-2	17569-17578	procedure	_
 181-3	17579-17586	yielded	_
@@ -3594,9 +3775,11 @@
 181-11	17612-17616	SNPs	_
 181-12	17617-17618	.	_
 
+Text=4.2.2.
 182-1	17619-17624	4.2.2	_
 182-2	17625-17626	.	_
 
+Text=Significance analysis In order to achieve a stable feature selection process, we follow Lin and perform N = 100 random samplings out of the 214 total subjects, where for each time 80% are used for training and parameter selection, while the remaining 20% are used for evaluation.
 183-1	17627-17639	Significance	_
 183-2	17640-17648	analysis	_
 183-3	17649-17651	In	_
@@ -3651,6 +3834,7 @@
 183-52	17900-17910	evaluation	_
 183-53	17911-17912	.	_
 
+Text=At the k − th random sampling, we can calculate a set of solution vectors.
 184-1	17913-17915	At	_
 184-2	17916-17919	the	_
 184-3	17920-17921	k	_
@@ -3669,6 +3853,7 @@
 184-16	17980-17987	vectors	_
 184-17	17988-17989	.	_
 
+Text=It is then possible to Define a measure of relevance for the i-th feature in the m-th dataset such that: where i = 1, ‥, dm is the feature index and I (·) is the indicator function.
 185-1	17990-17992	It	_
 185-2	17993-17995	is	_
 185-3	17996-18000	then	_
@@ -3713,6 +3898,7 @@
 185-42	18167-18175	function	_
 185-43	18176-18177	.	_
 
+Text=We can then rank each SNP and voxel based on their associated relevance measure and apply a cut-off threshold of 0.3 (c.f.
 186-1	18178-18180	We	_
 186-2	18181-18184	can	_
 186-3	18185-18189	then	_
@@ -3738,10 +3924,12 @@
 186-23	18297-18300	c.f	_
 186-24	18301-18302	.	_
 
+Text=Lin).
 187-1	18303-18306	Lin	_
 187-2	18307-18308	)	_
 187-3	18309-18310	.	_
 
+Text=After applying this Significance test, we were left with a subset of 43 SNP spanning 30 genes and 6 ROI with a number of selected voxels over 5.
 188-1	18311-18316	After	_
 188-2	18317-18325	applying	_
 188-3	18326-18330	this	_
@@ -3773,12 +3961,14 @@
 188-29	18454-18455	5	_
 188-30	18456-18457	.	_
 
+Text=We display in Table.
 189-1	18458-18460	We	_
 189-2	18461-18468	display	_
 189-3	18469-18471	in	_
 189-4	18472-18477	Table	_
 189-5	18478-18479	.	_
 
+Text=1 the list of each of the 43 selected SNP, as well as their associated genes.
 190-1	18480-18481	1	_
 190-2	18482-18485	the	_
 190-3	18486-18490	list	_
@@ -3798,6 +3988,7 @@
 190-17	18552-18557	genes	_
 190-18	18558-18559	.	_
 
+Text=Some of them have been identified by other similar studies such as CNTNAP2, GLI2, GRIK3, NOTCH4, SUCLG2, GABRG2.
 191-1	18560-18564	Some	_
 191-2	18565-18567	of	_
 191-3	18568-18572	them	_
@@ -3823,6 +4014,7 @@
 191-23	18670-18676	GABRG2	_
 191-24	18677-18678	.	_
 
+Text=Others have been identified from well-known databases such as GRIK4 or HTR4.
 192-1	18679-18685	Others	_
 192-2	18686-18690	have	_
 192-3	18691-18695	been	_
@@ -3837,12 +4029,14 @@
 192-12	18750-18754	HTR4	_
 192-13	18755-18756	.	_
 
+Text=We display in Table.
 193-1	18757-18759	We	_
 193-2	18760-18767	display	_
 193-3	18768-18770	in	_
 193-4	18771-18776	Table	_
 193-5	18777-18778	.	_
 
+Text=2 the list of the selected ROI as well as the corresponding voxel count for each one of them.
 194-1	18779-18780	2	_
 194-2	18781-18784	the	_
 194-3	18785-18789	list	_
@@ -3864,6 +4058,7 @@
 194-19	18867-18871	them	_
 194-20	18872-18873	.	_
 
+Text=ROI for which less than 5 voxels were selected where dismissed.
 195-1	18874-18877	ROI	_
 195-2	18878-18881	for	_
 195-3	18882-18887	which	_
@@ -3877,6 +4072,7 @@
 195-11	18927-18936	dismissed	_
 195-12	18937-18938	.	_
 
+Text=Once again, it is encouraging to note that each of the selected ROI (3, 7, 11, 40, 51, 100 from aal.)
 196-1	18939-18943	Once	_
 196-2	18944-18949	again	_
 196-3	18950-18951	,	_
@@ -3908,6 +4104,7 @@
 196-29	19046-19047	.	_
 196-30	19048-19049	)	_
 
+Text=have been identified in similar studies on the same dataset.
 197-1	19050-19054	have	_
 197-2	19055-19059	been	_
 197-3	19060-19070	identified	_
@@ -3920,6 +4117,7 @@
 197-10	19102-19109	dataset	_
 197-11	19110-19111	.	_
 
+Text=Other studies pointed out both functionnal or structural differences in the middle occipital gyrus and the parahippocampal gyrus for schizophrenic patients.
 198-1	19112-19117	Other	_
 198-2	19118-19125	studies	_
 198-3	19126-19133	pointed	_
@@ -3943,6 +4141,7 @@
 198-21	19259-19267	patients	_
 198-22	19268-19269	.	_
 
+Text=Finally, a detailled slice view of the selected voxels can be seen in Fig . (4).
 199-1	19270-19277	Finally	_
 199-2	19278-19279	,	_
 199-3	19280-19281	a	_
@@ -3964,9 +4163,11 @@
 199-19	19351-19352	)	_
 199-20	19353-19354	.	_
 
+Text=4.2.3.
 200-1	19355-19360	4.2.3	_
 200-2	19361-19362	.	_
 
+Text=Quantitative analysis In this section, we try to analyze the results of MT-CoReg using some quantitative metrics.
 201-1	19363-19375	Quantitative	_
 201-2	19376-19384	analysis	_
 201-3	19385-19387	In	_
@@ -3987,6 +4188,7 @@
 201-18	19469-19476	metrics	_
 201-19	19477-19478	.	_
 
+Text=We can first turn our attention to the Sum of Squared Errors (SSE) values obtained on the testing set during our tests.
 202-1	19479-19481	We	_
 202-2	19482-19485	can	_
 202-3	19486-19491	first	_
@@ -4013,6 +4215,7 @@
 202-24	19594-19599	tests	_
 202-25	19600-19601	.	_
 
+Text=Histograms of SSE distributions for different γ values (i.e.
 203-1	19602-19612	Histograms	_
 203-2	19613-19615	of	_
 203-3	19616-19619	SSE	_
@@ -4025,6 +4228,7 @@
 203-10	19659-19662	i.e	_
 203-11	19663-19664	.	_
 
+Text=Lasso, MT-CoReg and sCCA) can be seen in Fig.
 204-1	19665-19670	Lasso	_
 204-2	19671-19672	,	_
 204-3	19673-19681	MT-CoReg	_
@@ -4038,6 +4242,7 @@
 204-11	19708-19711	Fig	_
 204-12	19712-19713	.	_
 
+Text=(5, left): unsurprisingly, Lasso and MT-CoReg produce the lowest RSS values, while sCCA does not fit the phenotype.
 205-1	19714-19715	(	_
 205-2	19716-19717	5	_
 205-3	19718-19719	,	_
@@ -4064,6 +4269,7 @@
 205-24	19825-19834	phenotype	_
 205-25	19835-19836	.	_
 
+Text=If we now look at Fig.
 206-1	19837-19839	If	_
 206-2	19840-19842	we	_
 206-3	19843-19846	now	_
@@ -4072,6 +4278,7 @@
 206-6	19855-19858	Fig	_
 206-7	19859-19860	.	_
 
+Text=(5, middle) where distributions of Pearson ’ s correlation on the testing set are displayed for the same 3 strategies, we can see that MT-CoReg produces a better selection than Lasso in terms of cross-correlation.
 207-1	19861-19862	(	_
 207-2	19863-19864	5	_
 207-3	19865-19866	,	_
@@ -4113,6 +4320,7 @@
 207-39	20060-20077	cross-correlation	_
 207-40	20078-20079	.	_
 
+Text=This seems to confirm our intuition that MT-CoReg makes the best of both Lasso and CCA by producing a solution that is good fit to the phenotype while selecting co-expressed features across modalities.
 208-1	20080-20084	This	_
 208-2	20085-20090	seems	_
 208-3	20091-20093	to	_
@@ -4148,6 +4356,7 @@
 208-33	20270-20280	modalities	_
 208-34	20281-20282	.	_
 
+Text=Distribution of γ values produced by the consistency selection scheme described in Section 3.3 can be seen in Fig.
 209-1	20283-20295	Distribution	_
 209-2	20296-20298	of	_
 209-3	20299-20300	γ	_
@@ -4169,6 +4378,7 @@
 209-19	20393-20396	Fig	_
 209-20	20397-20398	.	_
 
+Text=(5, right).
 210-1	20399-20400	(	_
 210-2	20401-20402	5	_
 210-3	20403-20404	,	_
@@ -4176,6 +4386,7 @@
 210-5	20411-20412	)	_
 210-6	20413-20414	.	_
 
+Text=Most of these values fall into the range [0; 0.4], with a peak in [0.2; 0.3].
 211-1	20415-20419	Most	_
 211-2	20420-20422	of	_
 211-3	20423-20428	these	_
@@ -4201,6 +4412,7 @@
 211-23	20497-20498	]	_
 211-24	20499-20500	.	_
 
+Text=It does appear, at least in term of feature consistency selection, that a non-zero weight for the CCA term in Eq.
 212-1	20501-20503	It	_
 212-2	20504-20508	does	_
 212-3	20509-20515	appear	_
@@ -4226,6 +4438,7 @@
 212-23	20613-20615	Eq	_
 212-24	20616-20617	.	_
 
+Text=(3.3) leads to improved performances.
 213-1	20618-20619	(	_
 213-2	20620-20623	3.3	_
 213-3	20624-20625	)	_

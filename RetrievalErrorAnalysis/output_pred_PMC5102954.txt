@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Brain structure–function associations identified in large-scale neuroimaging data The relationships between structural and functional measures of the human brain remain largely unknown.
 1-1	0-5	Brain	_
 1-2	6-24	structure–function	_
 1-3	25-37	associations	_
@@ -26,6 +27,7 @@
 1-22	177-184	unknown	_
 1-23	185-186	.	_
 
+Text=A majority of our limited knowledge regarding structure–function associations has been obtained through comparisons between specific groups of patients and healthy controls.
 2-1	187-188	A	_
 2-2	189-197	majority	_
 2-3	198-200	of	_
@@ -50,6 +52,7 @@
 2-22	351-359	controls	_
 2-23	360-361	.	_
 
+Text=Unfortunately, a direct and complete view of the associations across multiple structural and functional metrics in normal population is missing.
 3-1	362-375	Unfortunately	_
 3-2	376-377	,	_
 3-3	378-379	a	_
@@ -73,6 +76,7 @@
 3-21	499-506	missing	_
 3-22	507-508	.	_
 
+Text=We filled this gap by learning cross-individual co-variance among structural and functional measures using large-scale neuroimaging datasets.
 4-1	509-511	We	_
 4-2	512-518	filled	_
 4-3	519-523	this	_
@@ -92,6 +96,7 @@
 4-17	641-649	datasets	_
 4-18	650-651	.	_
 
+Text=A discover-confirm scheme was applied to two independent samples (N = 184 and N = 340) of multi-modal neuroimaging datasets.
 5-1	652-653	A	_
 5-2	654-670	discover-confirm	_
 5-3	671-677	scheme	_
@@ -116,6 +121,7 @@
 5-22	769-777	datasets	_
 5-23	778-779	.	_
 
+Text=A data mining tool, gRAICAR, was employed in the discover stage to generate quantitative and unbiased hypotheses of the co-variance among six functional and six structural imaging metrics.
 6-1	780-781	A	_
 6-2	782-786	data	_
 6-3	787-793	mining	_
@@ -148,6 +154,7 @@
 6-30	962-969	metrics	_
 6-31	970-971	.	_
 
+Text=These hypotheses were validated using an independent dataset in the confirm stage.
 7-1	972-977	These	_
 7-2	978-988	hypotheses	_
 7-3	989-993	were	_
@@ -162,6 +169,7 @@
 7-12	1048-1053	stage	_
 7-13	1054-1055	.	_
 
+Text=Fifteen multi-metric co-variance units, representing different co-variance relationships among the 12 metrics, were reliable across the two sets of neuroimaging datasets.
 8-1	1056-1063	Fifteen	_
 8-2	1064-1076	multi-metric	_
 8-3	1077-1088	co-variance	_
@@ -187,6 +195,7 @@
 8-23	1219-1227	datasets	_
 8-24	1228-1229	.	_
 
+Text=The reliable co-variance units were summarized into a database, where users can select any location on the cortical map of any metric to examine the co-varying maps with the other 11 metrics.
 9-1	1230-1233	The	_
 9-2	1234-1242	reliable	_
 9-3	1243-1254	co-variance	_
@@ -222,6 +231,7 @@
 9-33	1414-1421	metrics	_
 9-34	1422-1423	.	_
 
+Text=This database characterized the six functional metrics based on their co-variance with structural metrics, and provided a detailed reference to connect previous findings using different metrics and to predict maps of unexamined metrics.
 10-1	1424-1428	This	_
 10-2	1429-1437	database	_
 10-3	1438-1451	characterized	_
@@ -258,6 +268,7 @@
 10-34	1653-1660	metrics	_
 10-35	1661-1662	.	_
 
+Text=Gender, age, and handedness were associated to the co-variance units, and a sub-study of schizophrenia demonstrated the usefulness of the co-variance database.
 11-1	1663-1669	Gender	_
 11-2	1670-1671	,	_
 11-3	1672-1675	age	_
@@ -285,6 +296,7 @@
 11-25	1816-1824	database	_
 11-26	1825-1826	.	_
 
+Text=Electronic supplementary material The online version of this article (doi:10.1007/s00429-015-1177-6) contains supplementary material, which is available to authorized users.
 12-1	1827-1837	Electronic	_
 12-2	1838-1851	supplementary	_
 12-3	1852-1860	material	_
@@ -309,6 +321,7 @@
 12-22	1997-2002	users	_
 12-23	2003-2004	.	_
 
+Text=Methods Datasets We used two publicly available large datasets from the 1000 Functional Connectomes Project (FCP; http: //fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html) (Biswal et al.)
 13-1	2005-2012	Methods	_
 13-2	2013-2021	Datasets	_
 13-3	2022-2024	We	_
@@ -338,6 +351,7 @@
 13-27	2201-2202	.	_
 13-28	2203-2204	)	_
 
+Text=and the Consortium for Reliability and Reproducibility (Zuo et al.)
 14-1	2205-2208	and	_
 14-2	2209-2212	the	_
 14-3	2213-2223	Consortium	_
@@ -352,6 +366,7 @@
 14-12	2272-2273	.	_
 14-13	2274-2275	)	_
 
+Text=(CoRR; http: //fcon_1000.projects.nitrc.org/indi/CoRR).
 15-1	2276-2277	(	_
 15-2	2278-2282	CoRR	_
 15-3	2283-2284	;	_
@@ -361,6 +376,7 @@
 15-7	2333-2334	)	_
 15-8	2335-2336	.	_
 
+Text=Dataset 1 is from the FCP, the Cambridge-Buckner site (FCP-Cambridge), where high-resolution structural images and resting-state functional images were collected from 198 healthy subjects (123 females, ages: 18–40) using a Siemens 3 T Trio scanner.
 16-1	2337-2344	Dataset	_
 16-2	2345-2346	1	_
 16-3	2347-2349	is	_
@@ -406,6 +422,7 @@
 16-43	2585-2592	scanner	_
 16-44	2593-2594	.	_
 
+Text=The imaging sequences included MP-RAGE for T1 image acquisition (TR/TE/TI = 2200/1.04–7.01/1100 ms, Flip Angle = 7°, FOV = 230 mm, 144 sagittal slices, voxel size = 1.2 × 1.2 × 1.2 mm) and EPI for resting-state functional MRI (rfMRI) image acquisition (TR/TE = 3000/30 ms, FA = 85°, FOV = 216 mm, 47 axial slices, voxel size = 3.0 × 3.0 × 3.0 mm, 124 volumes).
 17-1	2595-2598	The	_
 17-2	2599-2606	imaging	_
 17-3	2607-2616	sequences	_
@@ -490,6 +507,7 @@
 17-82	2968-2969	)	_
 17-83	2970-2971	.	_
 
+Text=Dataset 2 is a part of the Consortium for Reliability and Reproducibility (CoRR; Zuo et al.)
 18-1	2972-2979	Dataset	_
 18-2	2980-2981	2	_
 18-3	2982-2984	is	_
@@ -511,6 +529,7 @@
 18-19	3065-3066	.	_
 18-20	3067-3068	)	_
 
+Text=and contains 345 healthy college students (182 females; ages: 17–27) recruited from Southwest University in Chongqing, China (CoRR-SWU).
 19-1	3069-3072	and	_
 19-2	3073-3081	contains	_
 19-3	3082-3085	345	_
@@ -538,6 +557,7 @@
 19-25	3210-3211	)	_
 19-26	3212-3213	.	_
 
+Text=Each participant underwent both MP-RAGE (TR/TE/TI = 1900/2.52/900 ms, Flip Angle = 9°, FOV = 256 mm, 176 sagittal slices, voxel size = 1.0 × 1.0 × 1.0 mm) and rfMRI scanning (TR/TE = 2000/30 ms, FA = 90°, FOV = 220 mm, 32 axial slices, voxel size = 3.44 × 3.44 × 4.0 mm, 242 volumes) using a Siemens 3 T Trio scanner.
 20-1	3214-3218	Each	_
 20-2	3219-3230	participant	_
 20-3	3231-3240	underwent	_
@@ -617,6 +637,7 @@
 20-77	3536-3543	scanner	_
 20-78	3544-3545	.	_
 
+Text=Preprocessing and quality control: structural images All structural MRI images were first inspected for quality control before being preprocessed using the structural preprocessing pipeline of the Connectome Computation System (CCS: Xu et al .).
 21-1	3546-3559	Preprocessing	_
 21-2	3560-3563	and	_
 21-3	3564-3571	quality	_
@@ -657,6 +678,7 @@
 21-38	3793-3794	)	_
 21-39	3795-3796	.	_
 
+Text=This pipeline first cleaned the images with a spatially adaptive non-local means filter and corrected the intensity inhomogeneity.
 22-1	3797-3801	This	_
 22-2	3802-3810	pipeline	_
 22-3	3811-3816	first	_
@@ -677,6 +699,7 @@
 22-18	3913-3926	inhomogeneity	_
 22-19	3927-3928	.	_
 
+Text=CCS then called FreeSurfer (Dale et al.)
 23-1	3929-3932	CCS	_
 23-2	3933-3937	then	_
 23-3	3938-3944	called	_
@@ -688,6 +711,7 @@
 23-9	3969-3970	.	_
 23-10	3971-3972	)	_
 
+Text=to implement the steps of brain tissue segmentation and cortical surface reconstruction.
 24-1	3973-3975	to	_
 24-2	3976-3985	implement	_
 24-3	3986-3989	the	_
@@ -702,6 +726,7 @@
 24-12	4046-4060	reconstruction	_
 24-13	4061-4062	.	_
 
+Text=Specific steps included: (1) brain extraction with a hybrid watershed/surface deformation; (2) tissue segmentation of the cerebrospinal fluid (CSF), white matter (WM) and deep gray matter (GM); (3) cutting plane generation to disconnect the two hemispheres and subcortical structures; (4) fixation of the interior holes of the segmentation; (5) a triangular mesh tessellation over a GM-WM boundary and mesh deformation to produce smooth GM-WM (white surface) and GM-CSF interfaces (pial surface); (6) topological defect correction on the surface; (7) individual surface mesh inflation to a sphere; and (8) estimation of the deformation between the resulting spherical mesh and a common spherical coordinate system to align the cortical folding patterns across subjects.
 25-1	4063-4071	Specific	_
 25-2	4072-4077	steps	_
 25-3	4078-4086	included	_
@@ -850,6 +875,7 @@
 25-146	4858-4866	subjects	_
 25-147	4867-4868	.	_
 
+Text=As a quality assessment, intermediate results from the above steps were visually inspected based upon the screenshots generated using CCS.
 26-1	4869-4871	As	_
 26-2	4872-4873	a	_
 26-3	4874-4881	quality	_
@@ -873,6 +899,7 @@
 26-21	5004-5007	CCS	_
 26-22	5008-5009	.	_
 
+Text=Subjects with bad brain extraction, tissue segmentation and surface reconstruction were excluded from the subsequent analysis.
 27-1	5010-5018	Subjects	_
 27-2	5019-5023	with	_
 27-3	5024-5027	bad	_
@@ -892,6 +919,7 @@
 27-17	5128-5136	analysis	_
 27-18	5137-5138	.	_
 
+Text=For each subject, six morphological metrics were derived from the cortical surface model created using FreeSurfer, including cortical vol, area, thick, curv, lgi, and sulc.
 28-1	5139-5142	For	_
 28-2	5143-5147	each	_
 28-3	5148-5155	subject	_
@@ -926,6 +954,7 @@
 28-32	5313-5317	sulc	_
 28-33	5318-5319	.	_
 
+Text=All abbreviations are listed in Supplementary Text 1, and detailed descriptions of the meaning and computation of these metrics are presented in Supplementary Text 2.
 29-1	5320-5323	All	_
 29-2	5324-5337	abbreviations	_
 29-3	5338-5341	are	_
@@ -954,6 +983,7 @@
 29-26	5485-5486	2	_
 29-27	5487-5488	.	_
 
+Text=The area metric was set to the total area of the triangles connected to a vertex (Fischl and Dale).
 30-1	5489-5492	The	_
 30-2	5493-5497	area	_
 30-3	5498-5504	metric	_
@@ -977,6 +1007,7 @@
 30-21	5588-5589	)	_
 30-22	5590-5591	.	_
 
+Text=The total cortical area generated using the FreeSurfer model was consistent with the surface area derived from postmortem studies and has been validated on several brain phantoms and compared with other surface-based analysis packages (Lee et al.
 31-1	5592-5595	The	_
 31-2	5596-5601	total	_
 31-3	5602-5610	cortical	_
@@ -1017,6 +1048,7 @@
 31-38	5836-5838	al	_
 31-39	5839-5840	.	_
 
+Text=; Makris et al .).
 32-1	5841-5842	;	_
 32-2	5843-5849	Makris	_
 32-3	5850-5852	et	_
@@ -1025,6 +1057,7 @@
 32-6	5858-5859	)	_
 32-7	5860-5861	.	_
 
+Text=The thick metric was calculated using the average linking distance between the pial and white surfaces (Fischl and Dale).
 33-1	5862-5865	The	_
 33-2	5866-5871	thick	_
 33-3	5872-5878	metric	_
@@ -1048,6 +1081,7 @@
 33-21	5983-5984	)	_
 33-22	5985-5986	.	_
 
+Text=This measure of cortical thickness showed adequate test–retest reliability across time, scanner manufacturers and field strengths (Han et al .).
 34-1	5987-5991	This	_
 34-2	5992-5999	measure	_
 34-3	6000-6002	of	_
@@ -1073,6 +1107,7 @@
 34-23	6132-6133	)	_
 34-24	6134-6135	.	_
 
+Text=The vol metric was calculated as the product of the thick and area metrics.
 35-1	6136-6139	The	_
 35-2	6140-6143	vol	_
 35-3	6144-6150	metric	_
@@ -1089,6 +1124,7 @@
 35-14	6203-6210	metrics	_
 35-15	6211-6212	.	_
 
+Text=The curv metric represents the mean of the two principal curvatures, which measures the maximum and minimum bending of the cortical surface at the vertex (Pienaar et al .).
 36-1	6213-6216	The	_
 36-2	6217-6221	curv	_
 36-3	6222-6228	metric	_
@@ -1123,6 +1159,7 @@
 36-32	6386-6387	)	_
 36-33	6388-6389	.	_
 
+Text=The lgi is a metric that quantifies the amount of cortex buried within the sulcal folds compared with the amount of cortex on the outer visible cortex.
 37-1	6390-6393	The	_
 37-2	6394-6397	lgi	_
 37-3	6398-6400	is	_
@@ -1152,6 +1189,7 @@
 37-27	6534-6540	cortex	_
 37-28	6541-6542	.	_
 
+Text=A cortex with extensive folding has a large lgi, whereas a cortex with limited folding has a small lgi.
 38-1	6543-6544	A	_
 38-2	6545-6551	cortex	_
 38-3	6552-6556	with	_
@@ -1174,6 +1212,7 @@
 38-20	6643-6646	lgi	_
 38-21	6647-6648	.	_
 
+Text=In Freesurfer, lgi was computed at thousands of points over the entire cortical surface (Schaer et al .).
 39-1	6649-6651	In	_
 39-2	6652-6662	Freesurfer	_
 39-3	6663-6664	,	_
@@ -1197,6 +1236,7 @@
 39-21	6755-6756	)	_
 39-22	6757-6758	.	_
 
+Text=Moreover, the sulc metric is the integrated dot product of the movement vector with the surface norm during inflation, indicating the large-scale geometry of the cortical surface.
 40-1	6759-6767	Moreover	_
 40-2	6768-6769	,	_
 40-3	6770-6773	the	_
@@ -1228,6 +1268,7 @@
 40-29	6932-6939	surface	_
 40-30	6940-6941	.	_
 
+Text=When deep regions consistently move outward, these regions have positive values of sulc, whereas when superficial regions move inward, these regions have negative values.
 41-1	6942-6946	When	_
 41-2	6947-6951	deep	_
 41-3	6952-6959	regions	_
@@ -1257,6 +1298,7 @@
 41-27	7108-7114	values	_
 41-28	7115-7116	.	_
 
+Text=Each of these metrics was computed in the native space and subsequently transferred onto the fsaverage standard spherical surface.
 42-1	7117-7121	Each	_
 42-2	7122-7124	of	_
 42-3	7125-7130	these	_
@@ -1278,6 +1320,7 @@
 42-19	7239-7246	surface	_
 42-20	7247-7248	.	_
 
+Text=To enable further comparisons with functional metrics, these metric maps were down sampled to an fsaverage5 standard cortical surface with 10,242 vertices per hemisphere, and a Gaussian filter (FWHM = 4 mm) was applied to smooth the surface maps.
 43-1	7249-7251	To	_
 43-2	7252-7258	enable	_
 43-3	7259-7266	further	_
@@ -1323,6 +1366,7 @@
 43-43	7494-7498	maps	_
 43-44	7499-7500	.	_
 
+Text=An outlier detection procedure was further performed to exclude subjects with extremely low/high metrics.
 44-1	7501-7503	An	_
 44-2	7504-7511	outlier	_
 44-3	7512-7521	detection	_
@@ -1339,6 +1383,7 @@
 44-14	7598-7605	metrics	_
 44-15	7606-7607	.	_
 
+Text=A subject was excluded from subsequent analyses when any of the six metrics was an outlier at any vertex of the fsaverage5 surface.
 45-1	7608-7609	A	_
 45-2	7610-7617	subject	_
 45-3	7618-7621	was	_
@@ -1364,6 +1409,7 @@
 45-23	7731-7738	surface	_
 45-24	7739-7740	.	_
 
+Text=The outliers were determined using the generalized extreme Studentized deviate test (p <0.001) (Rosner).
 46-1	7741-7744	The	_
 46-2	7745-7753	outliers	_
 46-3	7754-7758	were	_
@@ -1385,6 +1431,7 @@
 46-19	7848-7849	)	_
 46-20	7850-7851	.	_
 
+Text=Preprocessing and quality control: functional images Connectome computation system was employed to analyze rfMRI data using a functional pipeline.
 47-1	7852-7865	Preprocessing	_
 47-2	7866-7869	and	_
 47-3	7870-7877	quality	_
@@ -1407,6 +1454,7 @@
 47-20	7990-7998	pipeline	_
 47-21	7999-8000	.	_
 
+Text=The following procedures were included: (1) eliminating the first 5 EPI volumes from each scan for signal equilibration; (2) de-spiking the time series to detect and reduce outliers (spikes) using an hyperbolic tangent function; (3) slice timing using Fourier interpolation to temporally correct the interleaved slice acquisition; (4) aligning each volume to a “ base ” image (the mean EPI image) using Fourier interpolation to correct between-head movements; (5) normalizing the 4D global mean intensity to 10,000 to allow inter-subject comparisons; (6) regressing out the WM/CSF mean time series and the Friston-24 motion time series to reduce the effects of these confounding factors; (7) filtering the residual time series with a band-pass filter (0.01–0.1 Hz) to extract low-frequency fluctuations; (8) removing both linear and quadratic trends; and (9) aligning individual motion-corrected functional images to the individual structural image using a GM-WM boundary-based registration (BBR) algorithm.
 48-1	8001-8004	The	_
 48-2	8005-8014	following	_
 48-3	8015-8025	procedures	_
@@ -1589,6 +1637,7 @@
 48-180	9033-9042	algorithm	_
 48-181	9043-9044	.	_
 
+Text=The preprocessed time series were subsequently projected onto the fsaverage5 standard cortical surface.
 49-1	9045-9048	The	_
 49-2	9049-9061	preprocessed	_
 49-3	9062-9066	time	_
@@ -1604,6 +1653,7 @@
 49-13	9140-9147	surface	_
 49-14	9148-9149	.	_
 
+Text=For each subject in both preprocessed datasets, we computed six functional metrics that character low-frequency fluctuations (0.01–0.1 Hz), including alff and its fractional variant (falff), dc, ec, and surface-based regional homogeneity with length-one (reho) and length-two (reho2) neighbors.
 50-1	9150-9153	For	_
 50-2	9154-9158	each	_
 50-3	9159-9166	subject	_
@@ -1657,6 +1707,7 @@
 50-51	9447-9456	neighbors	_
 50-52	9457-9458	.	_
 
+Text=These metrics were commonly used to characterize properties of intrinsic connectivity networks (see Zuo and Xing for a review).
 51-1	9459-9464	These	_
 51-2	9465-9472	metrics	_
 51-3	9473-9477	were	_
@@ -1680,6 +1731,7 @@
 51-21	9586-9587	)	_
 51-22	9588-9589	.	_
 
+Text=Here, we provide a brief description of these metrics and more details are presented in Supplementary Text 3.
 52-1	9590-9594	Here	_
 52-2	9595-9596	,	_
 52-3	9597-9599	we	_
@@ -1701,6 +1753,7 @@
 52-19	9698-9699	3	_
 52-20	9700-9701	.	_
 
+Text=The alff metric indicates the power of low-frequency oscillations in the BOLD time series (Zang et al .).
 53-1	9702-9705	The	_
 53-2	9706-9710	alff	_
 53-3	9711-9717	metric	_
@@ -1723,6 +1776,7 @@
 53-20	9807-9808	)	_
 53-21	9809-9810	.	_
 
+Text=The normalized form, falff, further divides the alff value by the power of the entire frequency spectrum (Zou et al .).
 54-1	9811-9814	The	_
 54-2	9815-9825	normalized	_
 54-3	9826-9830	form	_
@@ -1750,6 +1804,7 @@
 54-25	9932-9933	)	_
 54-26	9934-9935	.	_
 
+Text=These metrics characterize single voxel/vertex properties.
 55-1	9936-9941	These	_
 55-2	9942-9949	metrics	_
 55-3	9950-9962	characterize	_
@@ -1758,6 +1813,7 @@
 55-6	9983-9993	properties	_
 55-7	9994-9995	.	_
 
+Text=In contrast, from a graph-theoretical perspective (Bullmore and Sporns), the dc and ec metrics depict the relationships of the BOLD time series between a given location and all other locations in the brain.
 56-1	9996-9998	In	_
 56-2	9999-10007	contrast	_
 56-3	10008-10009	,	_
@@ -1797,6 +1853,7 @@
 56-37	10200-10205	brain	_
 56-38	10206-10207	.	_
 
+Text=The relationships between the time series were characterized using Pearson ’ s Correlation coefficients.
 57-1	10208-10211	The	_
 57-2	10212-10225	relationships	_
 57-3	10226-10233	between	_
@@ -1813,6 +1870,7 @@
 57-14	10299-10311	coefficients	_
 57-15	10312-10313	.	_
 
+Text=The reho and reho2 metrics measure the multi-vertex relationship in a local neighborhood (Zang et al.
 58-1	10314-10317	The	_
 58-2	10318-10322	reho	_
 58-3	10323-10326	and	_
@@ -1832,12 +1890,14 @@
 58-17	10413-10415	al	_
 58-18	10416-10417	.	_
 
+Text=; Zuo et al.
 59-1	10418-10419	;	_
 59-2	10420-10423	Zuo	_
 59-3	10424-10426	et	_
 59-4	10427-10429	al	_
 59-5	10430-10431	.	_
 
+Text=), reflecting the local homogeneity of the BOLD time series.
 60-1	10432-10433	)	_
 60-2	10434-10435	,	_
 60-3	10436-10446	reflecting	_
@@ -1851,6 +1911,7 @@
 60-11	10486-10492	series	_
 60-12	10493-10494	.	_
 
+Text=The radius of the local neighborhood is different between the reho and reho2 metrics, where the reho metric has a radius of 1 vertex, and reho2 has a radius of 2 vertices.
 61-1	10495-10498	The	_
 61-2	10499-10505	radius	_
 61-3	10506-10508	of	_
@@ -1887,6 +1948,7 @@
 61-34	10659-10667	vertices	_
 61-35	10668-10669	.	_
 
+Text=We conducted the following quality assessments for functional images.
 62-1	10670-10672	We	_
 62-2	10673-10682	conducted	_
 62-3	10683-10686	the	_
@@ -1898,6 +1960,7 @@
 62-9	10732-10738	images	_
 62-10	10739-10740	.	_
 
+Text=To examine the head motion during rfMRI acquisition, we computed (1) the maximum distance of translational head movement (maxTran), (2) the maximum degree of rotational head movement (maxRot), and (3) the mean frame-wise displacement (meanFD).
 63-1	10741-10743	To	_
 63-2	10744-10751	examine	_
 63-3	10752-10755	the	_
@@ -1950,6 +2013,7 @@
 63-50	10997-10998	)	_
 63-51	10999-11000	.	_
 
+Text=To evaluate the quality of functional–structural image realignment with BBR registration, we collected the minimal cost of the BBR co-registration (mcBBR).
 64-1	11001-11003	To	_
 64-2	11004-11012	evaluate	_
 64-3	11013-11016	the	_
@@ -1976,6 +2040,7 @@
 64-24	11157-11158	)	_
 64-25	11159-11160	.	_
 
+Text=Subjects were excluded from further analysis when the following criteria were not met: (1) maxTran ≤ 2 mm, (2) maxRot ≤ 2°, (3) meanFD ≤ 0.2 mm, and (4) mcBBR ≤ 0.75.
 65-1	11161-11169	Subjects	_
 65-2	11170-11174	were	_
 65-3	11175-11183	excluded	_
@@ -2022,6 +2087,7 @@
 65-44	11334-11338	0.75	_
 65-45	11339-11340	.	_
 
+Text=As a result of the quality control procedures for both structural and functional images, 184 subjects from FCP-Cambridge (female 117, age range 18–30) and 340 subjects from CoRR-SWU (female = 180, age range 17–27) were retained for further analyses.
 66-1	11341-11343	As	_
 66-2	11344-11345	a	_
 66-3	11346-11352	result	_
@@ -2070,6 +2136,7 @@
 66-46	11588-11596	analyses	_
 66-47	11597-11598	.	_
 
+Text=Structure–function co-variance analysis: discovery A discover-confirm scheme was illustrated in Fig.
 67-1	11599-11617	Structure–function	_
 67-2	11618-11629	co-variance	_
 67-3	11630-11638	analysis	_
@@ -2084,6 +2151,7 @@
 67-12	11696-11699	Fig	_
 67-13	11700-11701	.	_
 
+Text=1 and was applied to the preprocessed FCP-Cambridge (N = 184) and CoRR-SWU (N = 340) datasets.
 68-1	11702-11703	1	_
 68-2	11704-11707	and	_
 68-3	11708-11711	was	_
@@ -2107,10 +2175,12 @@
 68-21	11791-11799	datasets	_
 68-22	11800-11801	.	_
 
+Text=Besides Fig.
 69-1	11802-11809	Besides	_
 69-2	11810-11813	Fig	_
 69-3	11814-11815	.	_
 
+Text=1, we made an animation to demonstrate the procedures.2 FCP-Cambridge was used in the discover stage.
 70-1	11816-11817	1	_
 70-2	11818-11819	,	_
 70-3	11820-11822	we	_
@@ -2130,6 +2200,7 @@
 70-17	11912-11917	stage	_
 70-18	11918-11919	.	_
 
+Text=We first decomposed the cross-subject variability of each cortical metric in FCP-Cambridge into a number of independent components.
 71-1	11920-11922	We	_
 71-2	11923-11928	first	_
 71-3	11929-11939	decomposed	_
@@ -2150,6 +2221,7 @@
 71-18	12040-12050	components	_
 71-19	12051-12052	.	_
 
+Text=Specifically, an n by v matrix was formed for each of the 12 metrics, where n is the number of subjects (n = 184), and v is the number of vertices on the surface map (for the ‘ fsaverage5 ’ mesh, v = 20,484).
 72-1	12053-12065	Specifically	_
 72-2	12066-12067	,	_
 72-3	12068-12070	an	_
@@ -2204,6 +2276,7 @@
 72-52	12267-12268	)	_
 72-53	12269-12270	.	_
 
+Text=Independent component analysis (ICA), as implemented in the MELODIC module of FSL software (Beckmann and Smith), was applied to the matrices (step 1 in Fig.
 73-1	12271-12282	Independent	_
 73-2	12283-12292	component	_
 73-3	12293-12301	analysis	_
@@ -2238,10 +2311,12 @@
 73-32	12430-12433	Fig	_
 73-33	12434-12435	.	_
 
+Text=1).
 74-1	12436-12437	1	_
 74-2	12438-12439	)	_
 74-3	12440-12441	.	_
 
+Text=The numbers of components were automatically determined using the Laplacian estimator in MELODIC.
 75-1	12442-12445	The	_
 75-2	12446-12453	numbers	_
 75-3	12454-12456	of	_
@@ -2257,6 +2332,7 @@
 75-13	12531-12538	MELODIC	_
 75-14	12539-12540	.	_
 
+Text=The ICA outputs are referred to as surface component maps (SCMs), each representing a spatial pattern of vertices.
 76-1	12541-12544	The	_
 76-2	12545-12548	ICA	_
 76-3	12549-12556	outputs	_
@@ -2280,6 +2356,7 @@
 76-21	12649-12657	vertices	_
 76-22	12658-12659	.	_
 
+Text=Each SCM is accompanied with a subject course that depicted the variation of the corresponding SCM across subjects.
 77-1	12660-12664	Each	_
 77-2	12665-12668	SCM	_
 77-3	12669-12671	is	_
@@ -2300,6 +2377,7 @@
 77-18	12766-12774	subjects	_
 77-19	12775-12776	.	_
 
+Text=Since the SCM is an unthresholded, continuous map of vertices, the values on the vertices indicate the relative contribution of the vertices to the subject course.
 78-1	12777-12782	Since	_
 78-2	12783-12786	the	_
 78-3	12787-12790	SCM	_
@@ -2330,6 +2408,7 @@
 78-28	12935-12941	course	_
 78-29	12942-12943	.	_
 
+Text=The above ICA decomposition was applied to the 12 metrics separately.
 79-1	12944-12947	The	_
 79-2	12948-12953	above	_
 79-3	12954-12957	ICA	_
@@ -2343,6 +2422,7 @@
 79-11	13002-13012	separately	_
 79-12	13013-13014	.	_
 
+Text=Next, we adopted gRAICAR (Yang et al.
 80-1	13015-13019	Next	_
 80-2	13020-13021	,	_
 80-3	13022-13024	we	_
@@ -2354,6 +2434,7 @@
 80-9	13051-13053	al	_
 80-10	13054-13055	.	_
 
+Text=; Yang et al.)
 81-1	13056-13057	;	_
 81-2	13058-13062	Yang	_
 81-3	13063-13065	et	_
@@ -2361,6 +2442,7 @@
 81-5	13069-13070	.	_
 81-6	13071-13072	)	_
 
+Text=to cluster the SCMs from the 12 metrics (step 2 in Fig.
 82-1	13073-13075	to	_
 82-2	13076-13083	cluster	_
 82-3	13084-13087	the	_
@@ -2376,10 +2458,12 @@
 82-13	13125-13128	Fig	_
 82-14	13129-13130	.	_
 
+Text=1).
 83-1	13131-13132	1	_
 83-2	13133-13134	)	_
 83-3	13135-13136	.	_
 
+Text=The gRAICAR algorithm is effective in revealing intrinsic inter-subject relationships (Kyathanahally et al.
 84-1	13137-13140	The	_
 84-2	13141-13148	gRAICAR	_
 84-3	13149-13158	algorithm	_
@@ -2396,6 +2480,7 @@
 84-14	13242-13244	al	_
 84-15	13245-13246	.	_
 
+Text=; Yang et al.)
 85-1	13247-13248	;	_
 85-2	13249-13253	Yang	_
 85-3	13254-13256	et	_
@@ -2403,6 +2488,7 @@
 85-5	13260-13261	.	_
 85-6	13262-13263	)	_
 
+Text=or patient subtypes (Yang et al .).
 86-1	13264-13266	or	_
 86-2	13267-13274	patient	_
 86-3	13275-13283	subtypes	_
@@ -2414,10 +2500,12 @@
 86-9	13299-13300	)	_
 86-10	13301-13302	.	_
 
+Text=Supplementary Fig.
 87-1	13303-13316	Supplementary	_
 87-2	13317-13320	Fig	_
 87-3	13321-13322	.	_
 
+Text=1 presents a demonstration of the gRAICAR algorithm.
 88-1	13323-13324	1	_
 88-2	13325-13333	presents	_
 88-3	13334-13335	a	_
@@ -2428,6 +2516,7 @@
 88-8	13365-13374	algorithm	_
 88-9	13375-13376	.	_
 
+Text=Specifically, gRAICAR first constructed a full similarity matrix (FSM) containing pair-wise similarity between all the SCMs from the 12 metrics (Fig.
 89-1	13377-13389	Specifically	_
 89-2	13390-13391	,	_
 89-3	13392-13399	gRAICAR	_
@@ -2455,10 +2544,12 @@
 89-25	13526-13529	Fig	_
 89-26	13530-13531	.	_
 
+Text=S1A).
 90-1	13532-13535	S1A	_
 90-2	13536-13537	)	_
 90-3	13538-13539	.	_
 
+Text=The similarity between the SCMs was defined as the Pearson ’ s correlation coefficients between their subject courses.
 91-1	13540-13543	The	_
 91-2	13544-13554	similarity	_
 91-3	13555-13562	between	_
@@ -2479,6 +2570,7 @@
 91-18	13650-13657	courses	_
 91-19	13658-13659	.	_
 
+Text=The value of this similarity reflects the coherence between two SCMs in terms of their cross-subject variations.
 92-1	13660-13663	The	_
 92-2	13664-13669	value	_
 92-3	13670-13672	of	_
@@ -2498,6 +2590,7 @@
 92-17	13761-13771	variations	_
 92-18	13772-13773	.	_
 
+Text=gRAICAR then searched through the FSM for clusters of SCMs (demonstrated in Fig.
 93-1	13774-13781	gRAICAR	_
 93-2	13782-13786	then	_
 93-3	13787-13795	searched	_
@@ -2514,10 +2607,12 @@
 93-14	13851-13854	Fig	_
 93-15	13855-13856	.	_
 
+Text=S1).
 94-1	13857-13859	S1	_
 94-2	13860-13861	)	_
 94-3	13862-13863	.	_
 
+Text=The first operation in the search procedure was ranking the SCMs according to their “ popularity ” among SCMs from different metrics.
 95-1	13864-13867	The	_
 95-2	13868-13873	first	_
 95-3	13874-13883	operation	_
@@ -2542,6 +2637,7 @@
 95-22	13989-13996	metrics	_
 95-23	13997-13998	.	_
 
+Text=The following steps were conducted to compute the “ popularity ” of SCMs: (1) the FSM was segmented into metric-blocks, so that the FSMs from the same metric stayed together and the similarity values between them were represented in a block within the FSM (Fig.
 96-1	13999-14002	The	_
 96-2	14003-14012	following	_
 96-3	14013-14018	steps	_
@@ -2594,10 +2690,12 @@
 96-50	14261-14264	Fig	_
 96-51	14265-14266	.	_
 
+Text=S1A).
 97-1	14267-14270	S1A	_
 97-2	14271-14272	)	_
 97-3	14273-14274	.	_
 
+Text=(2) The similarity values were converted into relative values (Zrow) within each row in each metric-block (Fig.
 98-1	14275-14276	(	_
 98-2	14277-14278	2	_
 98-3	14279-14280	)	_
@@ -2622,10 +2720,12 @@
 98-22	14387-14390	Fig	_
 98-23	14391-14392	.	_
 
+Text=S1B).
 99-1	14393-14396	S1B	_
 99-2	14397-14398	)	_
 99-3	14399-14400	.	_
 
+Text=(3) The maximal value in each row of each metric-block in Zrow was then retained in a new matrix (Zmax), and all other values were set to 0 (Fig.
 100-1	14401-14402	(	_
 100-2	14403-14404	3	_
 100-3	14405-14406	)	_
@@ -2663,10 +2763,12 @@
 100-35	14548-14551	Fig	_
 100-36	14552-14553	.	_
 
+Text=S1C).
 101-1	14554-14557	S1C	_
 101-2	14558-14559	)	_
 101-3	14560-14561	.	_
 
+Text=Each row in the Zmax matrix thus revealed the most similar SCMs from different metrics to the SCM represented in current row.
 102-1	14562-14566	Each	_
 102-2	14567-14570	row	_
 102-3	14571-14573	in	_
@@ -2691,6 +2793,7 @@
 102-22	14683-14686	row	_
 102-23	14687-14688	.	_
 
+Text=(4) The Zmax matrix was multiplied to its transform (multiply elements in corresponding locations, Fig.
 103-1	14689-14690	(	_
 103-2	14691-14692	4	_
 103-3	14693-14694	)	_
@@ -2712,10 +2815,12 @@
 103-19	14792-14795	Fig	_
 103-20	14796-14797	.	_
 
+Text=S1D).
 104-1	14798-14801	S1D	_
 104-2	14802-14803	)	_
 104-3	14804-14805	.	_
 
+Text=This operation eliminated unpaired inter-metric maximal similarities.
 105-1	14806-14810	This	_
 105-2	14811-14820	operation	_
 105-3	14821-14831	eliminated	_
@@ -2725,6 +2830,7 @@
 105-7	14862-14874	similarities	_
 105-8	14875-14876	.	_
 
+Text=(5) In the resultant matrix, the sum of each row yielded the “ popularity ” value for each SCM, representing a special form of centrality that takes specificity and mutual correspondence of SCMs into account.
 106-1	14877-14878	(	_
 106-2	14879-14880	5	_
 106-3	14881-14882	)	_
@@ -2766,6 +2872,7 @@
 106-39	15081-15088	account	_
 106-40	15089-15090	.	_
 
+Text=We then computed a standardized FSM by adding the Zrow matrix to its transpose, so that the similarity between a pair of SCMs from different metrics was standardized among all SCMs from the relevant metrics (Fig.
 107-1	15091-15093	We	_
 107-2	15094-15098	then	_
 107-3	15099-15107	computed	_
@@ -2806,10 +2913,12 @@
 107-38	15301-15304	Fig	_
 107-39	15305-15306	.	_
 
+Text=S1E).
 108-1	15307-15310	S1E	_
 108-2	15311-15312	)	_
 108-3	15313-15314	.	_
 
+Text=Starting from the top SCM in the popularity rank, 11 SCMs from different metrics were identified in the standardized FSM, by searching for maxima in metric-blocks on the top SCM ’ s row (Fig.
 109-1	15315-15323	Starting	_
 109-2	15324-15328	from	_
 109-3	15329-15332	the	_
@@ -2849,10 +2958,12 @@
 109-37	15505-15508	Fig	_
 109-38	15509-15510	.	_
 
+Text=S1F).
 110-1	15511-15514	S1F	_
 110-2	15515-15516	)	_
 110-3	15517-15518	.	_
 
+Text=As a result, the identified 12 SCMs shared similar trends of variability across subjects, and were grouped as a multi-metric co-variance unit (MMCU).
 111-1	15519-15521	As	_
 111-2	15522-15523	a	_
 111-3	15524-15530	result	_
@@ -2882,6 +2993,7 @@
 111-27	15670-15671	)	_
 111-28	15672-15673	.	_
 
+Text=An inter-metric co-variance matrix was extracted from the FSM for each MMCU to characterize the subject course similarity between SCMs from different metrics (Fig.
 112-1	15674-15676	An	_
 112-2	15677-15689	inter-metric	_
 112-3	15690-15701	co-variance	_
@@ -2909,10 +3021,12 @@
 112-25	15834-15837	Fig	_
 112-26	15838-15839	.	_
 
+Text=S1G).
 113-1	15840-15843	S1G	_
 113-2	15844-15845	)	_
 113-3	15846-15847	.	_
 
+Text=These 12 SCMs were thus eliminated from the popularity rank, and the above procedure was repeated until all SCMs were assigned to MMCUs.
 114-1	15848-15853	These	_
 114-2	15854-15856	12	_
 114-3	15857-15861	SCMs	_
@@ -2939,6 +3053,7 @@
 114-24	15979-15984	MMCUs	_
 114-25	15985-15986	.	_
 
+Text=Because different metrics had different numbers of SCMs, the number of MMCUs detected using gRAICAR equals the second maximal number of SCMs among the 12 metrics (An MMCU at least associates two metrics).
 115-1	15987-15994	Because	_
 115-2	15995-16004	different	_
 115-3	16005-16012	metrics	_
@@ -2977,6 +3092,7 @@
 115-36	16192-16193	)	_
 115-37	16194-16195	.	_
 
+Text=Structure–function co-variance analysis: validation In the confirm stage, we examined whether the MMCUs detected in FCP-Cambridge were reproducible across datasets.
 116-1	16196-16214	Structure–function	_
 116-2	16215-16226	co-variance	_
 116-3	16227-16235	analysis	_
@@ -3001,6 +3117,7 @@
 116-22	16353-16361	datasets	_
 116-23	16362-16363	.	_
 
+Text=This step is necessary because odd subjects or image artifacts might influence the MMCUs obtained in FCP-Cambridge.
 117-1	16364-16368	This	_
 117-2	16369-16373	step	_
 117-3	16374-16376	is	_
@@ -3020,6 +3137,7 @@
 117-17	16465-16478	FCP-Cambridge	_
 117-18	16479-16480	.	_
 
+Text=We first correlated each SCM in each MMCU (obtained in FCP-Cambridge) to the corresponding metric map of each subject in CoRR-SWU.
 118-1	16481-16483	We	_
 118-2	16484-16489	first	_
 118-3	16490-16500	correlated	_
@@ -3045,6 +3163,7 @@
 118-23	16604-16612	CoRR-SWU	_
 118-24	16613-16614	.	_
 
+Text=As a result, we obtained a series of correlation coefficients; each coefficient was from a participant in CoRR-SWU.
 119-1	16615-16617	As	_
 119-2	16618-16619	a	_
 119-3	16620-16626	result	_
@@ -3067,6 +3186,7 @@
 119-20	16723-16731	CoRR-SWU	_
 119-21	16732-16733	.	_
 
+Text=We treated the correlation coefficients as a cross-subject fluctuation course in CoRR-SWU for a given SCM in a given MMCU obtained in FCP-Cambridge (step 3 in Fig.
 120-1	16734-16736	We	_
 120-2	16737-16744	treated	_
 120-3	16745-16748	the	_
@@ -3097,10 +3217,12 @@
 120-28	16894-16897	Fig	_
 120-29	16898-16899	.	_
 
+Text=1).
 121-1	16900-16901	1	_
 121-2	16902-16903	)	_
 121-3	16904-16905	.	_
 
+Text=For instance, we correlated the SCM of the vol metric (obtained in FCP-Cambridge) to the vol map of all subjects in CoRR-SWU, yielding a course of correlation coefficients that represented fluctuating contributions of the vol SCM to the subjects in CoRR-SWU.
 122-1	16906-16909	For	_
 122-2	16910-16918	instance	_
 122-3	16919-16920	,	_
@@ -3148,6 +3270,7 @@
 122-45	17159-17167	CoRR-SWU	_
 122-46	17168-17169	.	_
 
+Text=Next, for each MMCU, we computed a correlation matrix between the cross-subject fluctuation courses of the 12 member SCMs in CoRR-SWU.
 123-1	17170-17174	Next	_
 123-2	17175-17176	,	_
 123-3	17177-17180	for	_
@@ -3173,6 +3296,7 @@
 123-23	17297-17305	CoRR-SWU	_
 123-24	17306-17307	.	_
 
+Text=We then used the intra-class correlation coefficient (ICC) to measure the consistency between the inter-metric co-variance matrices obtained in the CoRR-SWU and FCP-Cambridge datasets (step 4 in Fig.
 124-1	17308-17310	We	_
 124-2	17311-17315	then	_
 124-3	17316-17320	used	_
@@ -3206,10 +3330,12 @@
 124-31	17506-17509	Fig	_
 124-32	17510-17511	.	_
 
+Text=1).
 125-1	17512-17513	1	_
 125-2	17514-17515	)	_
 125-3	17516-17517	.	_
 
+Text=The rationale for using ICC here is to consider both the intra-MMCU variability and the inter-MMCU variability.
 126-1	17518-17521	The	_
 126-2	17522-17531	rationale	_
 126-3	17532-17535	for	_
@@ -3229,6 +3355,7 @@
 126-17	17617-17628	variability	_
 126-18	17629-17630	.	_
 
+Text=In this step, the elements of the co-variance matrices were first converted into Fisher ’ s Z scores, and the co-variance matrices obtained in both datasets were deemed as two observations of the same variable.
 127-1	17631-17633	In	_
 127-2	17634-17638	this	_
 127-3	17639-17643	step	_
@@ -3268,6 +3395,7 @@
 127-37	17834-17842	variable	_
 127-38	17843-17844	.	_
 
+Text=The resultant ICC, therefore, indicates the consistency between the inter-metric co-variance matrices obtained in FCP-Cambridge and CoRR-SWU, relative to the variability/similarity between the inter-metric co-variance matrices from different MMCUs.
 128-1	17845-17848	The	_
 128-2	17849-17858	resultant	_
 128-3	17859-17862	ICC	_
@@ -3302,6 +3430,7 @@
 128-32	18090-18095	MMCUs	_
 128-33	18096-18097	.	_
 
+Text=We conducted a permutation test to examine the significance of the ICC values.
 129-1	18098-18100	We	_
 129-2	18101-18110	conducted	_
 129-3	18111-18112	a	_
@@ -3317,6 +3446,7 @@
 129-13	18169-18175	values	_
 129-14	18176-18177	.	_
 
+Text=Specifically, the SCMs from different metrics were randomly grouped into fake MMCUs, and inter-metric co-variance matrices were computed by correlating the SCMs ’ subject courses in FCP-Cambridge.
 130-1	18178-18190	Specifically	_
 130-2	18191-18192	,	_
 130-3	18193-18196	the	_
@@ -3348,6 +3478,7 @@
 130-29	18362-18375	FCP-Cambridge	_
 130-30	18376-18377	.	_
 
+Text=Meanwhile, the subject courses corresponding to these SCMs were obtained in CoRR-SWU and were correlated to yield inter-metric co-variance matrices in CoRR-SWU.
 131-1	18378-18387	Meanwhile	_
 131-2	18388-18389	,	_
 131-3	18390-18393	the	_
@@ -3373,6 +3504,7 @@
 131-23	18530-18538	CoRR-SWU	_
 131-24	18539-18540	.	_
 
+Text=An ICC was then computed between every pair of fake inter-metric co-variance matrices (from FCP-Cambridge and CoRR-SWU, respectively).
 132-1	18541-18543	An	_
 132-2	18544-18547	ICC	_
 132-3	18548-18551	was	_
@@ -3396,6 +3528,7 @@
 132-21	18676-18677	)	_
 132-22	18678-18679	.	_
 
+Text=This procedure was repeated 5000 times to generate a null distribution of ICCs.
 133-1	18680-18684	This	_
 133-2	18685-18694	procedure	_
 133-3	18695-18698	was	_
@@ -3411,6 +3544,7 @@
 133-13	18754-18758	ICCs	_
 133-14	18759-18760	.	_
 
+Text=Percentiles corresponding to the original ICCs were calculated in this null distribution, yielding empirical significance levels.
 134-1	18761-18772	Percentiles	_
 134-2	18773-18786	corresponding	_
 134-3	18787-18789	to	_
@@ -3430,6 +3564,7 @@
 134-17	18884-18890	levels	_
 134-18	18891-18892	.	_
 
+Text=This permutation test was only applied to MMCUs with ICC values above 0.4, since 0.4 was commonly deemed as a threshold for fair reproducibility.
 135-1	18893-18897	This	_
 135-2	18898-18909	permutation	_
 135-3	18910-18914	test	_
@@ -3457,6 +3592,7 @@
 135-25	19023-19038	reproducibility	_
 135-26	19039-19040	.	_
 
+Text=Examine relevance to demographical variables The MMCUs with significant reproducibility were further examined for their relevance to demographical variables including age (18–30), sex (117 females), and handedness (25 left handed).
 136-1	19041-19048	Examine	_
 136-2	19049-19058	relevance	_
 136-3	19059-19061	to	_
@@ -3497,6 +3633,7 @@
 136-38	19278-19279	)	_
 136-39	19280-19281	.	_
 
+Text=Specifically, for each MMCU, the subject courses (obtained from ICA in the discover stage) corresponding to the member SCMs were collected and input into a principle component analysis.
 137-1	19282-19294	Specifically	_
 137-2	19295-19296	,	_
 137-3	19297-19300	for	_
@@ -3531,6 +3668,7 @@
 137-32	19462-19470	analysis	_
 137-33	19471-19472	.	_
 
+Text=The first principle component represented the most common variance across all the subject courses and thus can be considered as a representative subject course for the given MMCU.
 138-1	19473-19476	The	_
 138-2	19477-19482	first	_
 138-3	19483-19492	principle	_
@@ -3561,6 +3699,7 @@
 138-28	19647-19651	MMCU	_
 138-29	19652-19653	.	_
 
+Text=A regression model was then constructed to explain this representative subject course by variability in age, sex, and handedness.
 139-1	19654-19655	A	_
 139-2	19656-19666	regression	_
 139-3	19667-19672	model	_

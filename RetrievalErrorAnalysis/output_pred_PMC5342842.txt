@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Language Context Processing Deficits in Schizophrenia: The Role of Attentional Engagement Individuals with schizophrenia exhibit problems in language comprehension that are most evident during discourse processing.
 1-1	0-8	Language	_
 1-2	9-16	Context	_
 1-3	17-27	Processing	_
@@ -31,6 +32,7 @@
 1-27	204-214	processing	_
 1-28	215-216	.	_
 
+Text=We hypothesized that deficits in cognitive control contribute to these comprehension deficits during discourse processing, and investigated the underlying cognitive-neural mechanisms using EEG (alpha power) and ERPs (N400).
 2-1	217-219	We	_
 2-2	220-232	hypothesized	_
 2-3	233-237	that	_
@@ -66,6 +68,7 @@
 2-33	443-444	)	_
 2-34	445-446	.	_
 
+Text=N400 amplitudes to globally supported or unsupported target words near the end of stories were used to index sensitivity to previous context.
 3-1	447-451	N400	_
 3-2	452-462	amplitudes	_
 3-3	463-465	to	_
@@ -90,6 +93,7 @@
 3-22	580-587	context	_
 3-23	588-589	.	_
 
+Text=ERPs showed reduced sensitivity to context in patients versus controls.
 4-1	590-594	ERPs	_
 4-2	595-601	showed	_
 4-3	602-609	reduced	_
@@ -102,6 +106,7 @@
 4-10	652-660	controls	_
 4-11	661-662	.	_
 
+Text=EEG alpha-band activity was used to index attentional engagement while participants listened to the stories.
 5-1	663-666	EEG	_
 5-2	667-677	alpha-band	_
 5-3	678-686	activity	_
@@ -119,6 +124,7 @@
 5-15	763-770	stories	_
 5-16	771-772	.	_
 
+Text=We found that context effects varied with attentional engagement in both groups, as well as with negative symptom severity in patients.
 6-1	773-775	We	_
 6-2	776-781	found	_
 6-3	782-786	that	_
@@ -143,6 +149,7 @@
 6-22	900-908	patients	_
 6-23	909-910	.	_
 
+Text=Both groups demonstrated trial-to-trial fluctuations in alpha.
 7-1	911-915	Both	_
 7-2	916-922	groups	_
 7-3	923-935	demonstrated	_
@@ -152,6 +159,7 @@
 7-7	967-972	alpha	_
 7-8	973-974	.	_
 
+Text=Relatively high alpha power was associated with compromised discourse processing in participants with schizophrenia when it occurred during any early portion of the story.
 8-1	975-985	Relatively	_
 8-2	986-990	high	_
 8-3	991-996	alpha	_
@@ -178,6 +186,7 @@
 8-24	1140-1145	story	_
 8-25	1146-1147	.	_
 
+Text=In contrast, discourse processing was only compromised in controls only when alpha was relatively high for longer segments of the stories.
 9-1	1148-1150	In	_
 9-2	1151-1159	contrast	_
 9-3	1160-1161	,	_
@@ -202,6 +211,7 @@
 9-22	1279-1286	stories	_
 9-23	1287-1288	.	_
 
+Text=Our results indicate that shifts in attention from the story context may be more detrimental to discourse processing for participants with schizophrenia than for controls, most likely due to an impaired ability to benefit from global context.
 10-1	1289-1292	Our	_
 10-2	1293-1300	results	_
 10-3	1301-1309	indicate	_
@@ -242,6 +252,7 @@
 10-38	1524-1531	context	_
 10-39	1532-1533	.	_
 
+Text=Methods Participants Thirty individuals with schizophrenia or a schizophrenia-spectrum disorder and 27 healthy controls completed the study.
 11-1	1534-1541	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 11-2	1542-1554	Participants	_
 11-3	1555-1561	Thirty	_
@@ -261,6 +272,7 @@
 11-17	1668-1673	study	_
 11-18	1674-1675	.	_
 
+Text=All participants provided informed consent prior to enrollment, with the approval of the Institutional Review Board at the University of California, Davis.
 12-1	1676-1679	All	_
 12-2	1680-1692	participants	_
 12-3	1693-1701	provided	_
@@ -287,6 +299,7 @@
 12-24	1827-1832	Davis	_
 12-25	1833-1834	.	_
 
+Text=All participants were compensated at a rate of $15 per hour for EEG and behavioral testing; patient participants were compensated $25 for completion of a clinical interview and symptom ratings session.
 13-1	1835-1838	All	_
 13-2	1839-1851	participants	_
 13-3	1852-1856	were	_
@@ -323,6 +336,7 @@
 13-34	2031-2038	session	_
 13-35	2039-2040	.	_
 
+Text=Participants with schizophrenia were within 5 years of the onset of their psychotic symptoms, and were recruited through the Early Diagnosis and Preventive Treatment of Psychosis (EDAPT) clinic at the University of California, Davis Medical Center.
 14-1	2041-2053	Participants	_
 14-2	2054-2058	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-3	2059-2072	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -365,6 +379,7 @@
 14-40	2286-2292	Center	_
 14-41	2293-2294	.	_
 
+Text=Four participants in the schizophrenia (SZ) group and three HC were ultimately excluded from all analyses due to the presence of excessive artifacts in their EEG data (see EEG Recording & Processing section below for details).
 15-1	2295-2299	Four	_
 15-2	2300-2312	participants	_
 15-3	2313-2315	in	_
@@ -407,6 +422,7 @@
 15-40	2523-2524	)	_
 15-41	2525-2526	.	_
 
+Text=Thus, the SZ group included 26 individuals and the HC group included 23 individuals.
 16-1	2527-2531	Thus	_
 16-2	2532-2533	,	_
 16-3	2534-2537	the	_
@@ -424,6 +440,7 @@
 16-15	2600-2611	individuals	_
 16-16	2612-2613	.	_
 
+Text=Participants with schizophrenia ranged in age from 18–30 years (mean: 22.6); 81% were male.
 17-1	2614-2626	Participants	_
 17-2	2627-2631	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 17-3	2632-2645	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -445,6 +462,7 @@
 17-19	2705-2709	male	_
 17-20	2710-2711	.	_
 
+Text=HC ranged in age from 18–29 years (mean: 22); 74% were male.
 18-1	2712-2714	HC	_
 18-2	2715-2721	ranged	_
 18-3	2722-2724	in	_
@@ -464,6 +482,7 @@
 18-17	2772-2776	male	_
 18-18	2777-2778	.	_
 
+Text=All participants were recruited with the following exclusion criteria: (1) IQ below 70, as measured by the Wechsler Abbreviated Scale of Intelligence or Wechsler Test of Adult Reading; (2) history of neurological illness, including head injury; (3) substance-related disorder in the previous six months; (4) uncontrolled medical illness; (5) history of electro-convulsive therapy.
 19-1	2779-2782	All	_
 19-2	2783-2795	participants	_
 19-3	2796-2800	were	_
@@ -536,6 +555,7 @@
 19-70	3168-3175	therapy	_
 19-71	3176-3177	.	_
 
+Text=Twenty-four of the 26 participants with schizophrenia were right-handed (92.3%), and 21 of the 23 HC were right-handed (91.3%).
 20-1	3178-3189	Twenty-four	_
 20-2	3190-3192	of	_
 20-3	3193-3196	the	_
@@ -564,6 +584,7 @@
 20-26	3310-3311	)	_
 20-27	3312-3313	.	_
 
+Text=HC were evaluated using the Structured Clinical Interview for DSM-IV-TR (SCID) to exclude those with a history of an Axis 1 disorder or first-degree relatives with a psychotic disorder.
 21-1	3314-3316	HC	_
 21-2	3317-3321	were	_
 21-3	3322-3331	evaluated	_
@@ -597,6 +618,7 @@
 21-31	3492-3500	disorder	_
 21-32	3501-3502	.	_
 
+Text=All participants tested negative on a urine drug screen test immediately prior to completion of the study.
 22-1	3503-3506	All	_
 22-2	3507-3519	participants	_
 22-3	3520-3526	tested	_
@@ -616,6 +638,7 @@
 22-17	3603-3608	study	_
 22-18	3609-3610	.	_
 
+Text=See Table 2 for additional demographic information.
 23-1	3611-3614	See	_
 23-2	3615-3620	Table	_
 23-3	3621-3622	2	_
@@ -625,6 +648,7 @@
 23-7	3650-3661	information	_
 23-8	3662-3663	.	_
 
+Text=Clinical and Functional Characteristics Clinicians conducted all diagnostic evaluations, and diagnoses were confirmed by consensus conference.
 24-1	3664-3672	Clinical	_
 24-2	3673-3676	and	_
 24-3	3677-3687	Functional	_
@@ -644,6 +668,7 @@
 24-17	3796-3806	conference	_
 24-18	3807-3808	.	_
 
+Text=All clinicians had demonstrated reliability, defined by>.8 intra-class correlation-coefficients for continuous measures, and kappa>.7 for categorical measures; all participated in monthly reliability checks to prevent drift from these standards.
 25-1	3809-3812	All	_
 25-2	3813-3823	clinicians	_
 25-3	3824-3827	had	_
@@ -682,6 +707,7 @@
 25-36	4051-4060	standards	_
 25-37	4061-4062	.	_
 
+Text=Clinical symptom scores were measured using the Scales for the Assessment of Positive and Negative Symptoms (SAPS and SANS).
 26-1	4063-4071	Clinical	_
 26-2	4072-4079	symptom	_
 26-3	4080-4086	scores	_
@@ -705,6 +731,7 @@
 26-21	4187-4188	)	_
 26-22	4189-4190	.	_
 
+Text=EEG Task Stimuli The stimuli consisted of 80 story sets.
 27-1	4191-4194	EEG	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 27-2	4195-4199	Task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 27-3	4200-4207	Stimuli	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -717,6 +744,7 @@
 27-10	4242-4246	sets	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 27-11	4247-4248	.	_
 
+Text=A set was comprised of two conditions of the same story: Animate and Inanimate.
 28-1	4249-4250	A	_
 28-2	4251-4254	set	_
 28-3	4255-4258	was	_
@@ -734,6 +762,7 @@
 28-15	4319-4328	Inanimate	_
 28-16	4329-4330	.	_
 
+Text=Stories were translated from Dutch to English and adapted for the purposes of the current study from those used in.
 29-1	4331-4338	Stories	_
 29-2	4339-4343	were	_
 29-3	4344-4354	translated	_
@@ -756,6 +785,7 @@
 29-20	4443-4445	in	_
 29-21	4446-4447	.	_
 
+Text=Each story contained 4 sentences.
 30-1	4448-4452	Each	_
 30-2	4453-4458	story	_
 30-3	4459-4468	contained	_
@@ -763,6 +793,7 @@
 30-5	4471-4480	sentences	_
 30-6	4481-4482	.	_
 
+Text=For all stories, an inanimate, cartoon-like character was introduced in the first sentence (e.g.
 31-1	4483-4486	For	_
 31-2	4487-4490	all	_
 31-3	4491-4498	stories	_
@@ -782,6 +813,7 @@
 31-17	4578-4581	e.g	_
 31-18	4582-4583	.	_
 
+Text=a peanut that is described as happy and smiling).
 32-1	4584-4585	a	_
 32-2	4586-4592	peanut	_
 32-3	4593-4597	that	_
@@ -794,6 +826,7 @@
 32-10	4632-4633	)	_
 32-11	4634-4635	.	_
 
+Text=The passages were written so that each sentence reinforced that the normally inanimate object (e.g., the peanut) served as an animate character in this context.
 33-1	4636-4639	The	_
 33-2	4640-4648	passages	_
 33-3	4649-4653	were	_
@@ -824,6 +857,7 @@
 33-28	4791-4798	context	_
 33-29	4799-4800	.	_
 
+Text=This was accomplished by references in the first three sentences to the character using pronouns reserved for animate characters (he/she), and by the use of verbs and descriptions likewise reserved for animate characters (e.g.
 34-1	4801-4805	This	_
 34-2	4806-4809	was	_
 34-3	4810-4822	accomplished	_
@@ -864,6 +898,7 @@
 34-38	5027-5030	e.g	_
 34-39	5031-5032	.	_
 
+Text=the peanut had a big smile…; the peanut was amazed…).
 35-1	5033-5036	the	_
 35-2	5037-5043	peanut	_
 35-3	5044-5047	had	_
@@ -878,6 +913,7 @@
 35-12	5086-5087	)	_
 35-13	5088-5089	.	_
 
+Text=Then, in sentence 4, the character was described using a critical word that requires an animate or inanimate object to fill one of its thematic roles.
 36-1	5090-5094	Then	_
 36-2	5095-5096	,	_
 36-3	5097-5099	in	_
@@ -908,6 +944,7 @@
 36-28	5236-5241	roles	_
 36-29	5242-5243	.	_
 
+Text=This critical word was therefore consistent with either the immediately preceding context (cartoon-style context-Animate critical word), or inconsistent (cartoon-style context-Inanimate critical word).
 37-1	5244-5248	This	_
 37-2	5249-5257	critical	_
 37-3	5258-5262	word	_
@@ -937,6 +974,7 @@
 37-27	5448-5449	)	_
 37-28	5450-5451	.	_
 
+Text=Inanimate critical words were chosen to be consistent with the most typical, non-cartoon-style meaning of the inanimate objects that served as the animate character.
 38-1	5452-5461	Inanimate	_
 38-2	5462-5470	critical	_
 38-3	5471-5476	words	_
@@ -964,6 +1002,7 @@
 38-25	5608-5617	character	_
 38-26	5618-5619	.	_
 
+Text=See Table 1 for an example.
 39-1	5620-5623	See	_
 39-2	5624-5629	Table	_
 39-3	5630-5631	1	_
@@ -972,6 +1011,7 @@
 39-6	5639-5646	example	_
 39-7	5647-5648	.	_
 
+Text=The critical words (e.g.
 40-1	5649-5652	The	_
 40-2	5653-5661	critical	_
 40-3	5662-5667	words	_
@@ -979,6 +1019,7 @@
 40-5	5670-5673	e.g	_
 40-6	5674-5675	.	_
 
+Text=elated, salted) were matched in lexical frequency, length and number of syllables across conditions1.
 41-1	5676-5682	elated	_
 41-2	5683-5684	,	_
 41-3	5685-5691	salted	_
@@ -998,6 +1039,7 @@
 41-17	5768-5779	conditions1	_
 41-18	5780-5781	.	_
 
+Text=To measure lexical frequency, we used LG10CD values from the SUBTLEXus database (http: //expsy.ugent.be/subtlexus).
 42-1	5782-5784	To	_
 42-2	5785-5792	measure	_
 42-3	5793-5800	lexical	_
@@ -1018,6 +1060,7 @@
 42-18	5899-5900	)	_
 42-19	5901-5902	.	_
 
+Text=The average LG10CD lexical frequency value for critical words in the Animate condition was 1.94 (SD: .62), and 1.8 (SD: .66) in the Inanimate condition.
 43-1	5903-5906	The	_
 43-2	5907-5914	average	_
 43-3	5915-5921	LG10CD	_
@@ -1052,6 +1095,7 @@
 43-32	6052-6061	condition	_
 43-33	6062-6063	.	_
 
+Text=Critical words were also matched in length and number of syllables.
 44-1	6064-6072	Critical	_
 44-2	6073-6078	words	_
 44-3	6079-6083	were	_
@@ -1065,6 +1109,7 @@
 44-11	6121-6130	syllables	_
 44-12	6131-6132	.	_
 
+Text=The average length of Animate critical words was 7.9 characters (SD: 1.7), and 7.5 (SD: 1.9) for Inanimate critical words.
 45-1	6133-6136	The	_
 45-2	6137-6144	average	_
 45-3	6145-6151	length	_
@@ -1094,6 +1139,7 @@
 45-27	6256-6261	words	_
 45-28	6262-6263	.	_
 
+Text=The average number of syllables of Animate critical words was 2.6 (SD: 0.8), and 2.4 (SD: 0.84) for Inanimate critical words.
 46-1	6264-6267	The	_
 46-2	6268-6275	average	_
 46-3	6276-6282	number	_
@@ -1124,6 +1170,7 @@
 46-28	6390-6395	words	_
 46-29	6396-6397	.	_
 
+Text=Stimuli were recorded for auditory presentation by a female speaker, using a natural inflection and speaking rate.
 47-1	6398-6405	Stimuli	_
 47-2	6406-6410	were	_
 47-3	6411-6419	recorded	_
@@ -1144,6 +1191,7 @@
 47-18	6508-6512	rate	_
 47-19	6513-6514	.	_
 
+Text=The first three sentences of each passage, which comprised the discourse context for the fourth sentence (which contained the critical words), were recorded separately from the critical fourth sentences.
 48-1	6515-6518	The	_
 48-2	6519-6524	first	_
 48-3	6525-6530	three	_
@@ -1179,6 +1227,7 @@
 48-33	6712-6721	sentences	_
 48-34	6722-6723	.	_
 
+Text=The onset and offset of all critical words were determined by visual inspection of the speech waveform and by listening to the waveforms using speech-editing software (Audacity, by Soundforge).
 49-1	6724-6727	The	_
 49-2	6728-6733	onset	_
 49-3	6734-6737	and	_
@@ -1213,6 +1262,7 @@
 49-32	6918-6919	)	_
 49-33	6920-6921	.	_
 
+Text=The average duration of the critical words was 637.6 ms (range: 366- 974 ms); the critical words did not differ in duration between conditions (p=.4).
 50-1	6922-6925	The	_
 50-2	6926-6933	average	_
 50-3	6934-6942	duration	_
@@ -1246,6 +1296,7 @@
 50-31	7076-7077	)	_
 50-32	7078-7079	.	_
 
+Text=One hundred and sixty filler stories of comparable length and structure were also included.
 51-1	7080-7083	One	_
 51-2	7084-7091	hundred	_
 51-3	7092-7095	and	_
@@ -1262,6 +1313,7 @@
 51-14	7162-7170	included	_
 51-15	7171-7172	.	_
 
+Text=These served as experimental stories for a separate study, and also consisted of spoken 4-sentence stories, but did not feature cartoon-style protagonists.
 52-1	7173-7178	These	_
 52-2	7179-7185	served	_
 52-3	7186-7188	as	_
@@ -1288,6 +1340,7 @@
 52-24	7317-7329	protagonists	_
 52-25	7330-7331	.	_
 
+Text=Instead, the filler stories featured canonically animate protagonists in non-anomalous scenarios (e.g.
 53-1	7332-7339	Instead	_
 53-2	7340-7341	,	_
 53-3	7342-7345	the	_
@@ -1304,6 +1357,7 @@
 53-14	7432-7435	e.g	_
 53-15	7436-7437	.	_
 
+Text=a seamstress mending clothes).
 54-1	7438-7439	a	_
 54-2	7440-7450	seamstress	_
 54-3	7451-7458	mending	_
@@ -1311,6 +1365,7 @@
 54-5	7467-7468	)	_
 54-6	7469-7470	.	_
 
+Text=These stories included a syntactic manipulation in which a prepositional phrase in the fourth sentence attached to the main verb or attached to the direct object (e.g.
 55-1	7471-7476	These	_
 55-2	7477-7484	stories	_
 55-3	7485-7493	included	_
@@ -1341,6 +1396,7 @@
 55-28	7635-7638	e.g	_
 55-29	7639-7640	.	_
 
+Text=repaired the sock with the thread/hole).
 56-1	7641-7649	repaired	_
 56-2	7650-7653	the	_
 56-3	7654-7658	sock	_
@@ -1350,6 +1406,7 @@
 56-7	7680-7681	)	_
 56-8	7682-7683	.	_
 
+Text=Comprehension questions followed all stories (experimental items and fillers).
 57-1	7684-7697	Comprehension	_
 57-2	7698-7707	questions	_
 57-3	7708-7716	followed	_
@@ -1363,6 +1420,7 @@
 57-11	7762-7763	)	_
 57-12	7764-7765	.	_
 
+Text=The correct answer to half of the questions was true, whereas the correct answer to the other half was false.
 58-1	7766-7769	The	_
 58-2	7770-7777	correct	_
 58-3	7778-7784	answer	_
@@ -1386,6 +1444,7 @@
 58-21	7870-7875	false	_
 58-22	7876-7877	.	_
 
+Text=Stimuli were divided into four lists for presentation, such that each list contained 40 stories in each condition (Animate, Inanimate), and no list contained both conditions of the same item.
 59-1	7878-7885	Stimuli	_
 59-2	7886-7890	were	_
 59-3	7891-7898	divided	_
@@ -1423,6 +1482,7 @@
 59-35	8069-8073	item	_
 59-36	8074-8075	.	_
 
+Text=Stimuli for Behavioral Tasks In addition to the EEG task, participants completed three behavioral tasks designed to assess vocabulary, working memory, and cognitive control (the Nelson-Denny vocabulary test, Listening Span, and the AX-CPT, respectively).
 60-1	8076-8083	Stimuli	http://maven.renci.org/NeuroBridge/neurobridge#BehavioralActivationScale
 60-2	8084-8087	for	http://maven.renci.org/NeuroBridge/neurobridge#BehavioralActivationScale
 60-3	8088-8098	Behavioral	http://maven.renci.org/NeuroBridge/neurobridge#BehavioralActivationScale
@@ -1467,6 +1527,7 @@
 60-42	8336-8337	)	_
 60-43	8338-8339	.	_
 
+Text=All participants completed the vocabulary section of the Nelson-Denny Reading Test, a standardized paper and pencil multiple-choice assessment.
 61-1	8340-8343	All	_
 61-2	8344-8356	participants	_
 61-3	8357-8366	completed	_
@@ -1488,6 +1549,7 @@
 61-19	8473-8483	assessment	_
 61-20	8484-8485	.	_
 
+Text=Participants were allotted 15 minutes to complete the section.
 62-1	8486-8498	Participants	_
 62-2	8499-8503	were	_
 62-3	8504-8512	allotted	_
@@ -1499,6 +1561,7 @@
 62-9	8540-8547	section	_
 62-10	8548-8549	.	_
 
+Text=Vocabulary is strongly predictive of language comprehension abilities and was employed in this study to examine individual variation in the ERP/EEG data that may be due to variability in verbal ability.
 63-1	8550-8560	Vocabulary	_
 63-2	8561-8563	is	_
 63-3	8564-8572	strongly	_
@@ -1532,6 +1595,7 @@
 63-31	8744-8751	ability	_
 63-32	8752-8753	.	_
 
+Text=Nelson-Denny vocabulary scores were calculated as the total percent correct for the vocabulary section, Form G (out of 80 possible).
 64-1	8754-8766	Nelson-Denny	_
 64-2	8767-8777	vocabulary	_
 64-3	8778-8784	scores	_
@@ -1557,6 +1621,7 @@
 64-23	8887-8888	)	_
 64-24	8889-8890	.	_
 
+Text=The Listening Span task was adapted from and consisted of 25 sets of sentences ranging from two to six sentences per set; there were five sets of each set size.
 65-1	8891-8894	The	_
 65-2	8895-8904	Listening	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 65-3	8905-8909	Span	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -1590,6 +1655,7 @@
 65-31	9047-9051	size	_
 65-32	9052-9053	.	_
 
+Text=Participants were instructed to listen to all sentences within each set for comprehension and then to indicate whether each sentence was true or false immediately after hearing it.
 66-1	9054-9066	Participants	_
 66-2	9067-9071	were	_
 66-3	9072-9082	instructed	_
@@ -1620,6 +1686,7 @@
 66-28	9231-9233	it	_
 66-29	9234-9235	.	_
 
+Text=In addition, participants were instructed to remember the final word of each sentence in the set and were asked to recall them in any order after the whole set was presented.
 67-1	9236-9238	In	_
 67-2	9239-9247	addition	_
 67-3	9248-9249	,	_
@@ -1654,6 +1721,7 @@
 67-32	9401-9410	presented	_
 67-33	9411-9412	.	_
 
+Text=There was a 1500 ms pause between each sentence during which participants made their true/false response.
 68-1	9413-9418	There	_
 68-2	9419-9422	was	_
 68-3	9423-9424	a	_
@@ -1672,6 +1740,7 @@
 68-16	9509-9517	response	_
 68-17	9518-9519	.	_
 
+Text=Presentation of sets was random.
 69-1	9520-9532	Presentation	_
 69-2	9533-9535	of	_
 69-3	9536-9540	sets	_
@@ -1679,6 +1748,7 @@
 69-5	9545-9551	random	_
 69-6	9552-9553	.	_
 
+Text=Each correct response (accurate final word recall) was scored as one point, for a maximum of 100 points.
 70-1	9554-9558	Each	_
 70-2	9559-9566	correct	_
 70-3	9567-9575	response	_
@@ -1702,6 +1772,7 @@
 70-21	9654-9660	points	_
 70-22	9661-9662	.	_
 
+Text=The AX-CPT was designed to assess cognitive control mechanisms, specifically the ability to maintain task goals and task-relevant context.
 71-1	9663-9666	The	_
 71-2	9667-9673	AX-CPT	_
 71-3	9674-9677	was	_
@@ -1724,6 +1795,7 @@
 71-20	9794-9801	context	_
 71-21	9802-9803	.	_
 
+Text=The version used here was developed as part of the CNTRACS (Cognitive Neuroscience Test Reliability and Clinical applications for Schizophrenia) initiative, and is freely available via the CNTRACS website (http: //cntracs.ucdavis.edu/task/dpx).
 72-1	9804-9807	The	_
 72-2	9808-9815	version	_
 72-3	9816-9820	used	_
@@ -1763,6 +1835,7 @@
 72-37	10052-10053	)	_
 72-38	10054-10055	.	_
 
+Text=In this task, participants respond to a series of letters via key press.
 73-1	10056-10058	In	_
 73-2	10059-10063	this	_
 73-3	10064-10068	task	_
@@ -1779,6 +1852,7 @@
 73-14	10123-10128	press	_
 73-15	10129-10130	.	_
 
+Text=They are told to respond with their index finger only to the letter X (target) and only when the X is preceded by the letter A (cue); they are asked to respond with a middle finger button press to all other letters.
 74-1	10131-10135	They	_
 74-2	10136-10139	are	_
 74-3	10140-10144	told	_
@@ -1828,6 +1902,7 @@
 74-47	10343-10350	letters	_
 74-48	10351-10352	.	_
 
+Text=A-X cue-probe target sequences are frequent (70%) and set up a tendency to make a target response when the letter X occurs.
 75-1	10353-10356	A-X	_
 75-2	10357-10366	cue-probe	_
 75-3	10367-10373	target	_
@@ -1855,6 +1930,7 @@
 75-25	10472-10478	occurs	_
 75-26	10479-10480	.	_
 
+Text=Therefore, participants often make errors when the letter X appears, but was not preceded by an A (e.g., X preceded by the letter B).
 76-1	10481-10490	Therefore	_
 76-2	10491-10492	,	_
 76-3	10493-10505	participants	_
@@ -1886,6 +1962,7 @@
 76-29	10617-10618	)	_
 76-30	10619-10620	.	_
 
+Text=Good performance involves the ability to attend to the context in which the letter X occurs and to maintain the task goal throughout processing.
 77-1	10621-10625	Good	_
 77-2	10626-10637	performance	_
 77-3	10638-10646	involves	_
@@ -1912,6 +1989,7 @@
 77-24	10754-10764	processing	_
 77-25	10765-10766	.	_
 
+Text=D-prime values were computed as a measure of context processing, using accuracy on AX trials, controlling for errors on BX trials.
 78-1	10767-10774	D-prime	_
 78-2	10775-10781	values	_
 78-3	10782-10786	were	_
@@ -1937,6 +2015,7 @@
 78-23	10892-10898	trials	_
 78-24	10899-10900	.	_
 
+Text=This provides a measure of the ability to maintain context (having just seen an A) in order to correctly respond to the target (X), taking into account false alarms to BX trials (d ’ context = z (AX accuracy) - z (BX error)).
 79-1	10901-10905	This	_
 79-2	10906-10914	provides	_
 79-3	10915-10916	a	_
@@ -1993,6 +2072,7 @@
 79-54	11135-11136	)	_
 79-55	11137-11138	.	_
 
+Text=Procedure Stimuli were presented through Beyer dynamic headphones using Presentation software (Neurobehavioral Systems).
 80-1	11139-11148	Procedure	_
 80-2	11149-11156	Stimuli	_
 80-3	11157-11161	were	_
@@ -2010,6 +2090,7 @@
 80-15	11259-11260	)	_
 80-16	11261-11262	.	_
 
+Text=Trials began with a white fixation marker at the center of the screen.
 81-1	11263-11269	Trials	_
 81-2	11270-11275	began	_
 81-3	11276-11280	with	_
@@ -2025,6 +2106,7 @@
 81-13	11326-11332	screen	_
 81-14	11333-11334	.	_
 
+Text=The fixation marker was present from 1000 ms before stimulus onset and remained on the screen throughout presentation of the story.
 82-1	11335-11338	The	_
 82-2	11339-11347	fixation	_
 82-3	11348-11354	marker	_
@@ -2048,6 +2130,7 @@
 82-21	11460-11465	story	_
 82-22	11466-11467	.	_
 
+Text=Following story offset, the fixation marker remained on the screen for 1000 ms, and was then replaced by a true/false comprehension question.
 83-1	11468-11477	Following	_
 83-2	11478-11483	story	_
 83-3	11484-11490	offset	_
@@ -2074,6 +2157,7 @@
 83-24	11602-11610	question	_
 83-25	11611-11612	.	_
 
+Text=Questions never queried information from the fourth sentence, which contained the critical target words.
 84-1	11613-11622	Questions	_
 84-2	11623-11628	never	_
 84-3	11629-11636	queried	_
@@ -2091,6 +2175,7 @@
 84-15	11712-11717	words	_
 84-16	11718-11719	.	_
 
+Text=Participants were asked to make a true/false response via button press.
 85-1	11720-11732	Participants	_
 85-2	11733-11737	were	_
 85-3	11738-11743	asked	_
@@ -2104,6 +2189,7 @@
 85-11	11785-11790	press	_
 85-12	11791-11792	.	_
 
+Text=Comprehension questions remained on the screen until participants responded.
 86-1	11793-11806	Comprehension	_
 86-2	11807-11816	questions	_
 86-3	11817-11825	remained	_
@@ -2115,6 +2201,7 @@
 86-9	11859-11868	responded	_
 86-10	11869-11870	.	_
 
+Text=Each stimulus list was divided into 20 blocks for presentation.
 87-1	11871-11875	Each	_
 87-2	11876-11884	stimulus	_
 87-3	11885-11889	list	_
@@ -2127,6 +2214,7 @@
 87-10	11921-11933	presentation	_
 87-11	11934-11935	.	_
 
+Text=Participants completed the 20 blocks from one list over two EEG sessions.
 88-1	11936-11948	Participants	_
 88-2	11949-11958	completed	_
 88-3	11959-11962	the	_
@@ -2141,6 +2229,7 @@
 88-12	12000-12008	sessions	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 88-13	12009-12010	.	_
 
+Text=Each session began with a practice block consisting of 8 stories.
 89-1	12011-12015	Each	_
 89-2	12016-12023	session	_
 89-3	12024-12029	began	_
@@ -2154,6 +2243,7 @@
 89-11	12068-12075	stories	_
 89-12	12076-12077	.	_
 
+Text=Lists and blocks were presented in counterbalanced order across participants.
 90-1	12078-12083	Lists	_
 90-2	12084-12087	and	_
 90-3	12088-12094	blocks	_
@@ -2166,6 +2256,7 @@
 90-10	12142-12154	participants	_
 90-11	12155-12156	.	_
 
+Text=Participants completed the behavioral tasks after the second EEG session.
 91-1	12157-12169	Participants	_
 91-2	12170-12179	completed	_
 91-3	12180-12183	the	_
@@ -2178,6 +2269,7 @@
 91-10	12222-12229	session	_
 91-11	12230-12231	.	_
 
+Text=EEG Recording & Processing EEG was recorded from 29 tin electrodes fitted in an elastic cap (ElectroCap International).
 92-1	12232-12235	EEG	http://maven.renci.org/NeuroBridge/neurobridge#AffectiveProcessingScale
 92-2	12236-12245	Recording	http://maven.renci.org/NeuroBridge/neurobridge#AffectiveProcessingScale
 92-3	12246-12247	&	http://maven.renci.org/NeuroBridge/neurobridge#AffectiveProcessingScale
@@ -2200,6 +2292,7 @@
 92-20	12351-12352	)	_
 92-21	12353-12354	.	_
 
+Text=The right mastoid electrode was used as the recording reference for all electrodes except those used to measure eye-movements.
 93-1	12355-12358	The	_
 93-2	12359-12364	right	_
 93-3	12365-12372	mastoid	_
@@ -2221,6 +2314,7 @@
 93-19	12467-12480	eye-movements	_
 93-20	12481-12482	.	_
 
+Text=For these, electrodes above and below the left eye were referenced to each other and used to measure blinks; in addition, two electrodes at the outer canthi of each eye were referenced to each other and used to measure other eye-movements.
 94-1	12483-12486	For	_
 94-2	12487-12492	these	_
 94-3	12493-12494	,	_
@@ -2267,6 +2361,7 @@
 94-44	12711-12724	eye-movements	_
 94-45	12725-12726	.	_
 
+Text=Recordings from a left mastoid electrode were also obtained, and used for later re-referencing offline to the algebraic average of both mastoids.
 95-1	12727-12737	Recordings	_
 95-2	12738-12742	from	_
 95-3	12743-12744	a	_
@@ -2292,6 +2387,7 @@
 95-23	12864-12872	mastoids	_
 95-24	12873-12874	.	_
 
+Text=EEG was recorded using a Neuroscan Synamps 2 system, and digitized at a rate of 500 Hz, with half-amplitude cutoffs of .05 to 100 Hz.
 96-1	12875-12878	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 96-2	12879-12882	was	_
 96-3	12883-12891	recorded	_
@@ -2321,6 +2417,7 @@
 96-27	13007-13009	Hz	_
 96-28	13010-13011	.	_
 
+Text=Electrode impedances were kept below 5 kΩ.
 97-1	13012-13021	Electrode	_
 97-2	13022-13032	impedances	_
 97-3	13033-13037	were	_
@@ -2330,6 +2427,7 @@
 97-7	13051-13053	kΩ	_
 97-8	13054-13055	.	_
 
+Text=MATLAB (Mathworks) was used to process and analyze data, with the EEGlab toolbox and ERPlab plugin, along with custom MATLAB code.
 98-1	13056-13062	MATLAB	_
 98-2	13063-13064	(	_
 98-3	13065-13074	Mathworks	_
@@ -2357,6 +2455,7 @@
 98-25	13185-13189	code	_
 98-26	13190-13191	.	_
 
+Text=Independent component analysis (ICA) was used to correct for artifacts caused by blinks, and single-trial waveforms were additionally screened for horizontal eye-movements, and any remaining blinks or movement-related artifacts.
 99-1	13192-13203	Independent	_
 99-2	13204-13213	component	_
 99-3	13214-13222	analysis	_
@@ -2392,6 +2491,7 @@
 99-33	13414-13423	artifacts	_
 99-34	13424-13425	.	_
 
+Text=These artifact correction and rejection procedures were performed using epochs of 1200 ms for ERP analysis time-locked to the critical words (−200 to 1000 ms with respect to critical word onset).
 100-1	13426-13431	These	_
 100-2	13432-13440	artifact	_
 100-3	13441-13451	correction	_
@@ -2427,6 +2527,7 @@
 100-33	13621-13622	)	_
 100-34	13623-13624	.	_
 
+Text=Baseline correction was performed using a −200 to 0 ms window relative to critical word onset.
 101-1	13625-13633	Baseline	_
 101-2	13634-13644	correction	_
 101-3	13645-13648	was	_
@@ -2445,6 +2546,7 @@
 101-16	13713-13718	onset	_
 101-17	13719-13720	.	_
 
+Text=Average ERPs were computed using artifact-free trials in each of the two conditions.
 102-1	13721-13728	Average	_
 102-2	13729-13733	ERPs	_
 102-3	13734-13738	were	_
@@ -2460,6 +2562,7 @@
 102-13	13794-13804	conditions	_
 102-14	13805-13806	.	_
 
+Text=Four participants in the schizophrenia group and three in the healthy control group were excluded from all analyses because too few artifact-free trials (<20 per condition) remained following artifact correction and rejection procedures.
 103-1	13807-13811	Four	_
 103-2	13812-13824	participants	_
 103-3	13825-13827	in	_
@@ -2498,6 +2601,7 @@
 103-36	14036-14046	procedures	_
 103-37	14047-14048	.	_
 
+Text=The remaining participants in the HC group (N=23) had an average of 33 artifact-free Animate trials (SD: 5.1) and 32 artifact-free Inanimate trials (SD: 5.5).
 104-1	14049-14052	The	_
 104-2	14053-14062	remaining	_
 104-3	14063-14075	participants	_
@@ -2533,6 +2637,7 @@
 104-33	14213-14214	)	_
 104-34	14215-14216	.	_
 
+Text=The remaining participants in the SZ group (N=26) had an average of 31 artifact-free Animate trials (SD: 5.8) and 30 artifact-free Inanimate trials (SD: 5.8).
 105-1	14217-14220	The	_
 105-2	14221-14230	remaining	_
 105-3	14231-14243	participants	_
@@ -2568,6 +2673,7 @@
 105-33	14381-14382	)	_
 105-34	14383-14384	.	_
 
+Text=There were no statistically significant differences between groups in the number of trials included.
 106-1	14385-14390	There	_
 106-2	14391-14395	were	_
 106-3	14396-14398	no	_
@@ -2584,6 +2690,7 @@
 106-14	14476-14484	included	_
 106-15	14485-14486	.	_
 
+Text=All ERPs were filtered off-line using a Gaussian low-pass filter (25 Hz half-amplitude cutoff).
 107-1	14487-14490	All	_
 107-2	14491-14495	ERPs	_
 107-3	14496-14500	were	_
@@ -2602,6 +2709,7 @@
 107-16	14582-14583	)	_
 107-17	14584-14585	.	_
 
+Text=Statistical analyses were conducted using the filtered data.
 108-1	14586-14597	Statistical	_
 108-2	14598-14606	analyses	_
 108-3	14607-14611	were	_
@@ -2612,6 +2720,7 @@
 108-8	14641-14645	data	_
 108-9	14646-14647	.	_
 
+Text=For EEG analysis, epochs of 7300 ms were used (−1800 to 5550 ms with respect to 1st and 2nd sentence onset).
 109-1	14648-14651	For	_
 109-2	14652-14655	EEG	_
 109-3	14656-14664	analysis	_
@@ -2638,6 +2747,7 @@
 109-24	14757-14758	)	_
 109-25	14759-14760	.	_
 
+Text=EEG spectral power was calculated using the EEGlab toolbox, by convolving single-trial epochs with seven-cycle complex Morlet wavelets.
 110-1	14761-14764	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 110-2	14765-14773	spectral	_
 110-3	14774-14779	power	_
@@ -2659,6 +2769,7 @@
 110-19	14888-14896	wavelets	_
 110-20	14897-14898	.	_
 
+Text=Power for 52 log-spaced frequencies from 4–30Hz was calculated for all trials and log-transformed.
 111-1	14899-14904	Power	_
 111-2	14905-14908	for	_
 111-3	14909-14911	52	_
@@ -2675,6 +2786,7 @@
 111-14	14981-14996	log-transformed	_
 111-15	14997-14998	.	_
 
+Text=The alpha frequency band was defined as 8–12 Hz.
 112-1	14999-15002	The	_
 112-2	15003-15008	alpha	_
 112-3	15009-15018	frequency	_

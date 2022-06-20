@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Real-time motion analytics during brain MRI improve data quality and reduce costs Head motion systematically distorts clinical and research MRI data.
 1-1	0-9	Real-time	_
 1-2	10-16	motion	_
 1-3	17-26	analytics	_
@@ -25,6 +26,7 @@
 1-21	144-148	data	_
 1-22	149-150	.	_
 
+Text=Motion artifacts have biased findings from many structural and functional brain MRI studies.
 2-1	151-157	Motion	_
 2-2	158-167	artifacts	_
 2-3	168-172	have	_
@@ -40,6 +42,7 @@
 2-13	235-242	studies	_
 2-14	243-244	.	_
 
+Text=An effective way to remove motion artifacts is to exclude MRI data frames affected by head motion.
 3-1	245-247	An	_
 3-2	248-257	effective	_
 3-3	258-261	way	_
@@ -59,6 +62,7 @@
 3-17	336-342	motion	_
 3-18	343-344	.	_
 
+Text=However, such post-hoc frame censoring can lead to data loss rates of 50% or more in our pediatric patient cohorts.
 4-1	345-352	However	_
 4-2	353-354	,	_
 4-3	355-359	such	_
@@ -83,6 +87,7 @@
 4-22	454-461	cohorts	_
 4-23	462-463	.	_
 
+Text=Hence, many scanner operators collect additional ‘ buffer data ’, an expensive practice that, by itself, does not guarantee sufficient high-quality MRI data for a given participant.
 5-1	464-469	Hence	_
 5-2	470-471	,	_
 5-3	472-476	many	_
@@ -116,6 +121,7 @@
 5-31	637-648	participant	_
 5-32	649-650	.	_
 
+Text=Therefore, we developed an easy-to-setup, easy-to-use Framewise Integrated Real-time MRI Monitoring (FIRMM) software suite that provides scanner operators with head motion analytics in real-time, allowing them to scan each subject until the desired amount of low-movement data has been collected.
 6-1	651-660	Therefore	_
 6-2	661-662	,	_
 6-3	663-665	we	_
@@ -163,6 +169,7 @@
 6-45	942-951	collected	_
 6-46	952-953	.	_
 
+Text=Our analyses show that using FIRMM to identify the ideal scan time for each person can reduce total brain MRI scan times and associated costs by 50% or more.
 7-1	954-957	Our	_
 7-2	958-966	analyses	_
 7-3	967-971	show	_
@@ -195,15 +202,18 @@
 7-30	1107-1111	more	_
 7-31	1112-1113	.	_
 
+Text=2.
 8-1	1114-1115	2	_
 8-2	1116-1117	.	_
 
+Text=Materials and methods 2.1.
 9-1	1118-1127	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-2	1128-1131	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-3	1132-1139	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-4	1140-1143	2.1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-5	1144-1145	.	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 
+Text=FIRMM software suite FIRMM is built using several software packages, each with a specific purpose, to make installation and usage easier and more reliable.
 10-1	1146-1151	FIRMM	_
 10-2	1152-1160	software	_
 10-3	1161-1166	suite	_
@@ -232,6 +242,7 @@
 10-26	1294-1302	reliable	_
 10-27	1303-1304	.	_
 
+Text=Installation requires a Docker-capable Linux system.
 11-1	1305-1317	Installation	_
 11-2	1318-1326	requires	_
 11-3	1327-1328	a	_
@@ -240,6 +251,7 @@
 11-6	1350-1356	system	_
 11-7	1357-1358	.	_
 
+Text=Operation on Ubuntu 14.04 and CentOS 7 operating systems have both been tested and work well.
 12-1	1359-1368	Operation	_
 12-2	1369-1371	on	_
 12-3	1372-1378	Ubuntu	_
@@ -258,6 +270,7 @@
 12-16	1447-1451	well	_
 12-17	1452-1453	.	_
 
+Text=Installation is accomplished via a downloadable shell script which retrieves and installs FIRMM ’ s components.
 13-1	1454-1466	Installation	_
 13-2	1467-1469	is	_
 13-3	1470-1482	accomplished	_
@@ -276,6 +289,7 @@
 13-16	1554-1564	components	_
 13-17	1565-1566	.	_
 
+Text=After installation FIRMM is launched with a shell script tailored to use a pre-built Docker image.
 14-1	1567-1572	After	_
 14-2	1573-1585	installation	_
 14-3	1586-1591	FIRMM	_
@@ -294,6 +308,7 @@
 14-16	1659-1664	image	_
 14-17	1665-1666	.	_
 
+Text=FIRMM ’ s components are the compiled MATLAB (R2016b) binary backend which only requires an included MATLAB compiler runtime to run, shell scripts for image processing, a Docker image containing image processing software dependencies, and a Django web application front end.
 15-1	1667-1672	FIRMM	_
 15-2	1673-1674	’	_
 15-3	1675-1676	s	_
@@ -342,6 +357,7 @@
 15-46	1942-1945	end	_
 15-47	1946-1947	.	_
 
+Text=The compiled MATLAB binary backend monitors an incoming folder waiting for a new subfolder that has the current date and contains images created within the last few minutes.
 16-1	1948-1951	The	_
 16-2	1952-1960	compiled	_
 16-3	1961-1967	MATLAB	_
@@ -372,6 +388,7 @@
 16-28	2113-2120	minutes	_
 16-29	2121-2122	.	_
 
+Text=The backend does shell script image processing only on new functional images.
 17-1	2123-2126	The	_
 17-2	2127-2134	backend	_
 17-3	2135-2139	does	_
@@ -386,6 +403,7 @@
 17-12	2193-2199	images	_
 17-13	2200-2201	.	_
 
+Text=The required image processing software is already installed and configured inside the Docker image.
 18-1	2202-2205	The	_
 18-2	2206-2214	required	_
 18-3	2215-2220	image	_
@@ -402,6 +420,7 @@
 18-14	2295-2300	image	_
 18-15	2301-2302	.	_
 
+Text=Results are visually displayed in the Django web application frontend as plots and tables in a Chromium web browser.
 19-1	2303-2310	Results	_
 19-2	2311-2314	are	_
 19-3	2315-2323	visually	_
@@ -423,9 +442,11 @@
 19-19	2411-2418	browser	_
 19-20	2419-2420	.	_
 
+Text=2.2.
 20-1	2421-2424	2.2	_
 20-2	2425-2426	.	_
 
+Text=Real-time processing of DICOM images As soon as each frame/volume of EPI (echo planar imaging) data is acquired and reconstructed into DICOM format, it is transferred to a pre-designated folder that the FIRMM software monitors for new images.
 21-1	2427-2436	Real-time	_
 21-2	2437-2447	processing	_
 21-3	2448-2450	of	_
@@ -469,6 +490,7 @@
 21-41	2665-2671	images	_
 21-42	2672-2673	.	_
 
+Text=On Siemens scanners, rapid DICOM transfer can be achieved by selecting the ‘ send IMA ’ option in the ideacmdtool utility (requires ‘ advanced user ’ mode).
 22-1	2674-2676	On	_
 22-2	2677-2684	Siemens	_
 22-3	2685-2693	scanners	_
@@ -501,6 +523,7 @@
 22-30	2831-2832	)	_
 22-31	2833-2834	.	_
 
+Text=On Siemens scanners one can also use an MS-DOS batch script to add start ‘ FIRMM ’ and stop ‘ FIRMM ’ buttons to the scanner operating system.
 23-1	2835-2837	On	_
 23-2	2838-2845	Siemens	_
 23-3	2846-2854	scanners	_
@@ -531,6 +554,7 @@
 23-28	2970-2976	system	_
 23-29	2977-2978	.	_
 
+Text=This package is a standalone script that can be downloaded with FIRMM.
 24-1	2979-2983	This	_
 24-2	2984-2991	package	_
 24-3	2992-2994	is	_
@@ -545,6 +569,7 @@
 24-12	3043-3048	FIRMM	_
 24-13	3049-3050	.	_
 
+Text=FIRMM reads the DICOM headers and uses the header information to enter data sequentially into a job queuing system.
 25-1	3051-3056	FIRMM	_
 25-2	3057-3062	reads	_
 25-3	3063-3066	the	_
@@ -566,6 +591,7 @@
 25-19	3159-3165	system	_
 25-20	3166-3167	.	_
 
+Text=DICOMs are processed in the temporal order they were acquired.
 26-1	3168-3174	DICOMs	_
 26-2	3175-3178	are	_
 26-3	3179-3188	processed	_
@@ -578,6 +604,7 @@
 26-10	3221-3229	acquired	_
 26-11	3230-3231	.	_
 
+Text=FIRMM converts DICOMs into 4dfp format prior to any further processing.
 27-1	3232-3237	FIRMM	_
 27-2	3238-3246	converts	_
 27-3	3247-3253	DICOMs	_
@@ -591,6 +618,7 @@
 27-11	3292-3302	processing	_
 27-12	3303-3304	.	_
 
+Text=FIRMM realigns EPI data using the 4dfp cross_realign3d_4dfp algorithm.
 28-1	3305-3310	FIRMM	_
 28-2	3311-3319	realigns	_
 28-3	3320-3323	EPI	_
@@ -602,6 +630,7 @@
 28-9	3365-3374	algorithm	_
 28-10	3375-3376	.	_
 
+Text=The cross_realign3d_4dfp algorithm run by FIRMM has been optimized for computational speed, thus frame-to-frame image intensity normalization has been disabled and the realigned data are not written out, only the alignment parameters.
 29-1	3377-3380	The	_
 29-2	3381-3401	cross_realign3d_4dfp	_
 29-3	3402-3411	algorithm	_
@@ -638,6 +667,7 @@
 29-34	3602-3612	parameters	_
 29-35	3613-3614	.	_
 
+Text=Alternative alignment algorithms operating on NIfTI format data can also be utilized and will be made available in future releases.
 30-1	3615-3626	Alternative	_
 30-2	3627-3636	alignment	_
 30-3	3637-3647	algorithms	_
@@ -660,6 +690,7 @@
 30-20	3737-3745	releases	_
 30-21	3746-3747	.	_
 
+Text=The EPI images do not undergo pre-processing steps typically utilized in offline data analyses.
 31-1	3748-3751	The	_
 31-2	3752-3755	EPI	_
 31-3	3756-3762	images	_
@@ -676,6 +707,7 @@
 31-14	3834-3842	analyses	_
 31-15	3843-3844	.	_
 
+Text=For EPI images with a spatial resolution smaller than 4 mm3, data are down-sampled to 4 mm3 prior to realignment to increase processing speed.
 32-1	3845-3848	For	_
 32-2	3849-3852	EPI	_
 32-3	3853-3859	images	_
@@ -703,9 +735,11 @@
 32-25	3982-3987	speed	_
 32-26	3988-3989	.	_
 
+Text=2.3.
 33-1	3990-3993	2.3	_
 33-2	3994-3995	.	_
 
+Text=Estimation of head realignments Each data frame (volume) is aligned to the first frame of the run through a series of rigid body transforms, Ti, where i indexes the spatial registration of frame i to a reference of frame 1, starting with the second frame.
 34-1	3996-4006	Estimation	_
 34-2	4007-4009	of	_
 34-3	4010-4014	head	_
@@ -758,6 +792,7 @@
 34-50	4250-4255	frame	_
 34-51	4256-4257	.	_
 
+Text=Each transform is calculated by minimizing the registration error: such that I (x⃗) is the image intensity at locus x⃗ and s is a scalar factor that compensates for fluctuations in mean signal intensity, spatially averaged over the whole brain (angle brackets).
 35-1	4258-4262	Each	_
 35-2	4263-4272	transform	_
 35-3	4273-4275	is	_
@@ -808,6 +843,7 @@
 35-48	4523-4524	)	_
 35-49	4525-4526	.	_
 
+Text=Each transform is represented by a combination of rotations and displacements.
 36-1	4527-4531	Each	_
 36-2	4532-4541	transform	_
 36-3	4542-4544	is	_
@@ -821,6 +857,7 @@
 36-11	4591-4604	displacements	_
 36-12	4605-4606	.	_
 
+Text=Therefore, with Ri representing the 3 × 3 matrix of rotations and ḋi representing the 3 × 1 column vector of displacements.
 37-1	4607-4616	Therefore	_
 37-2	4617-4618	,	_
 37-3	4619-4623	with	_
@@ -846,6 +883,7 @@
 37-23	4717-4730	displacements	_
 37-24	4731-4732	.	_
 
+Text=Ri consists of the three elementary rotations at each of the three axes.
 38-1	4733-4735	Ri	_
 38-2	4736-4744	consists	_
 38-3	4745-4747	of	_
@@ -861,6 +899,7 @@
 38-13	4800-4804	axes	_
 38-14	4805-4806	.	_
 
+Text=Hence, Ri = RiαRiβRiγ and 2.4.
 39-1	4807-4812	Hence	_
 39-2	4813-4814	,	_
 39-3	4815-4817	Ri	_
@@ -870,6 +909,7 @@
 39-7	4834-4837	2.4	_
 39-8	4838-4839	.	_
 
+Text=Computation of framewise displacement (FD) Calculating head realignment parameters across frames starting with the second frame generates six displacement vectors of head motion.
 40-1	4840-4851	Computation	_
 40-2	4852-4854	of	_
 40-3	4855-4864	framewise	_
@@ -897,6 +937,7 @@
 40-25	5013-5019	motion	_
 40-26	5020-5021	.	_
 
+Text=We convert head motion to a scalar quantity with the formula, Displacementi = |Δdix| + |Δdiy| + |Δdiz| + |Δαi| + |Δβi| + |Δγi|, where Δdix = d (i−1) x − dix, Δdiy = d (i−1) y − diy, Δdiz = d (i−1) z − diz, and so forth.
 41-1	5022-5024	We	_
 41-2	5025-5032	convert	_
 41-3	5033-5037	head	_
@@ -959,6 +1000,7 @@
 41-60	5246-5251	forth	_
 41-61	5252-5253	.	_
 
+Text=Rotational displacements are converted from degrees to millimeters by computing displacement on the surface of a sphere of radius 50 mm, which is approximately the mean distance from the cerebral cortex to the center of the head for a healthy young adult.
 42-1	5254-5264	Rotational	_
 42-2	5265-5278	displacements	_
 42-3	5279-5282	are	_
@@ -1004,6 +1046,7 @@
 42-43	5504-5509	adult	_
 42-44	5510-5511	.	_
 
+Text=Since we realign each data frame to the first frame, FD is calculated by subtracting Displacementi−1 (for the previous frame) from Displacementi (for the current frame).
 43-1	5512-5517	Since	_
 43-2	5518-5520	we	_
 43-3	5521-5528	realign	_
@@ -1037,9 +1080,11 @@
 43-31	5684-5685	)	_
 43-32	5686-5687	.	_
 
+Text=2.5.
 44-1	5688-5691	2.5	_
 44-2	5692-5693	.	_
 
+Text=Model for predicting framewise displacement (FD) The head motion (FD) prediction algorithm is a linear model that updates with each new data frame (y = mx + b), where y is the predicted number of low-movement frames below a certain FD cutoff at the end of the scan or experiment, x is the consecutive frame count, and m and b are estimated for each participant in real time.
 45-1	5694-5699	Model	_
 45-2	5700-5703	for	_
 45-3	5704-5714	predicting	_
@@ -1119,6 +1164,7 @@
 45-77	6072-6076	time	_
 45-78	6077-6078	.	_
 
+Text=A given frame is labeled as usable if the relative object displacement is less than a given FD threshold (in mm), using as reference the object ’ s position in the previous frame.
 46-1	6079-6080	A	_
 46-2	6081-6086	given	_
 46-3	6087-6092	frame	_
@@ -1157,6 +1203,7 @@
 46-36	6255-6260	frame	_
 46-37	6261-6262	.	_
 
+Text=The prediction algorithm is implemented in Python using the scikit-learn package (http: //scikit-learn.org).
 47-1	6263-6266	The	_
 47-2	6267-6277	prediction	_
 47-3	6278-6287	algorithm	_
@@ -1175,6 +1222,7 @@
 47-16	6372-6373	)	_
 47-17	6374-6375	.	_
 
+Text=The prediction algorithm outputs are displayed inside the ‘ Predicted Duration to Scan Criteria ’ box in FIRMM ’ s graphical user interface (GUI), as minutes until the user-specified data criterion is reached.
 48-1	6376-6379	The	_
 48-2	6380-6390	prediction	_
 48-3	6391-6400	algorithm	_
@@ -1213,6 +1261,7 @@
 48-36	6580-6587	reached	_
 48-37	6588-6589	.	_
 
+Text=FIRMM users can select three FD thresholds (in mm) and the desired amount of low-movement data (in min.)
 49-1	6590-6595	FIRMM	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
 49-2	6596-6601	users	_
 49-3	6602-6605	can	_
@@ -1237,6 +1286,7 @@
 49-22	6696-6697	.	_
 49-23	6698-6699	)	_
 
+Text=using a simple settings file.
 50-1	6700-6705	using	_
 50-2	6706-6707	a	_
 50-3	6708-6714	simple	_
@@ -1244,9 +1294,11 @@
 50-5	6724-6728	file	_
 50-6	6729-6730	.	_
 
+Text=2.6.
 51-1	6731-6734	2.6	_
 51-2	6735-6736	.	_
 
+Text=Visualization of framewise displacement (FD) in real time FIRMM uses a GUI designed with Django (https: //www.djangoproject.com/) and Chart.js (http: //www.chartjs.org/) to display FD traces and summary counts of data quality in real time.
 52-1	6737-6750	Visualization	_
 52-2	6751-6753	of	_
 52-3	6754-6763	framewise	_
@@ -1291,6 +1343,7 @@
 52-42	6979-6983	time	_
 52-43	6984-6985	.	_
 
+Text=FIRMM continuously updates summary counts about the number of ‘ high-quality ’ low-movement frames already acquired (FD cutoff presets are 0.2 mm, 0.3 mm and 0.4 mm) in table format and as a color-coded bar graph.
 53-1	6986-6991	FIRMM	_
 53-2	6992-7004	continuously	_
 53-3	7005-7012	updates	_
@@ -1332,6 +1385,7 @@
 53-39	7196-7201	graph	_
 53-40	7202-7203	.	_
 
+Text=At the end of each data acquisition epoch (run) the summary counts for that run are displayed in a list that tabulates the summary head motion data for each run separately and for the sum of all the data acquired thus far in the active scanning session.
 54-1	7204-7206	At	_
 54-2	7207-7210	the	_
 54-3	7211-7214	end	_
@@ -1383,6 +1437,7 @@
 54-49	7451-7458	session	_
 54-50	7459-7460	.	_
 
+Text=FIRMM also displays predictions about how much longer a given subject will likely have to be scanned until the preset time-to-criterion (minutes of low-movement FD data) has been acquired.
 55-1	7461-7466	FIRMM	_
 55-2	7467-7471	also	_
 55-3	7472-7480	displays	_
@@ -1416,6 +1471,7 @@
 55-31	7642-7650	acquired	_
 55-32	7651-7652	.	_
 
+Text=There is also a graph of the actual amount of time (in min and s) one has scanned ‘ low-movement ’ frames toward a preset criterion amount of time.
 56-1	7653-7658	There	_
 56-2	7659-7661	is	_
 56-3	7662-7666	also	_
@@ -1449,6 +1505,7 @@
 56-31	7797-7801	time	_
 56-32	7802-7803	.	_
 
+Text=Users are able to customize the FD cutoffs and data amount criterion by opening FIRMM in the settings mode (FIRMM -s).
 57-1	7804-7809	Users	_
 57-2	7810-7813	are	_
 57-3	7814-7818	able	_
@@ -1474,6 +1531,7 @@
 57-23	7922-7923	)	_
 57-24	7924-7925	.	_
 
+Text=FIRMM can be run in the help mode by typing FIRMM -h. 2.7.
 58-1	7926-7931	FIRMM	_
 58-2	7932-7935	can	_
 58-3	7936-7938	be	_
@@ -1489,6 +1547,7 @@
 58-13	7980-7983	2.7	_
 58-14	7984-7985	.	_
 
+Text=FIRMM monitoring: scanner requirements FIRMM requires an MRI scanner enabled to rapidly reconstruct and transfer BOLD images.
 59-1	7986-7991	FIRMM	_
 59-2	7992-8002	monitoring	_
 59-3	8003-8004	:	_
@@ -1509,6 +1568,7 @@
 59-18	8105-8111	images	_
 59-19	8112-8113	.	_
 
+Text=FIRMM currently expects an EPI mosaic as provided by Siemens, but is customizable to work with non-mosaic formats (i.e.
 60-1	8114-8119	FIRMM	_
 60-2	8120-8129	currently	_
 60-3	8130-8137	expects	_
@@ -1532,12 +1592,14 @@
 60-21	8231-8234	i.e	_
 60-22	8235-8236	.	_
 
+Text=GE and Philips).
 61-1	8237-8239	GE	_
 61-2	8240-8243	and	_
 61-3	8244-8251	Philips	_
 61-4	8252-8253	)	_
 61-5	8254-8255	.	_
 
+Text=FIRMM monitoring was developed and tested on Siemens 3T Tim Trio and Siemens 3T Prisma scanners at Washington University School of Medicine (WUSM) and Oregon Health & Science University (OHSU).
 62-1	8256-8261	FIRMM	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
 62-2	8262-8272	monitoring	_
 62-3	8273-8276	was	_
@@ -1574,6 +1636,7 @@
 62-34	8451-8452	)	_
 62-35	8453-8454	.	_
 
+Text=Additional beta testing has been conducted as part of the Adolescent Brain Cognitive Development (ABCD) project at several MRI sites and is now being implemented as a core advancement for this national study of 10,000 children who will be scanned biannually over the next 10 years (http: //www.ABCDstudy.org).
 63-1	8455-8465	Additional	_
 63-2	8466-8470	beta	_
 63-3	8471-8478	testing	_
@@ -1629,6 +1692,7 @@
 63-53	8767-8768	)	_
 63-54	8769-8770	.	_
 
+Text=FIRMM was expressly designed to also be compatible with General Electric (GE) and Philips MRI scanners and dedicated GE and Philips versions are under development.
 64-1	8771-8776	FIRMM	_
 64-2	8777-8780	was	_
 64-3	8781-8790	expressly	_
@@ -1658,6 +1722,7 @@
 64-27	8924-8935	development	_
 64-28	8936-8937	.	_
 
+Text=On Siemens scanners FIRMM monitoring can utilize the ideacmdtool SendIMA option with buffering disabled.
 65-1	8938-8940	On	_
 65-2	8941-8948	Siemens	_
 65-3	8949-8957	scanners	_
@@ -1674,6 +1739,7 @@
 65-14	9033-9041	disabled	_
 65-15	9042-9043	.	_
 
+Text=Alternatively, rapid DICOM forwarding can also be built directly into Siemens sequences, or an MS-DOS batch can be used to insert FIRMM ‘ start ’ and ‘ stop ’ buttons into the operating system (stand-alone software that can be downloaded with FIRMM).
 66-1	9044-9057	Alternatively	_
 66-2	9058-9059	,	_
 66-3	9060-9065	rapid	_
@@ -1722,9 +1788,11 @@
 66-46	9296-9297	)	_
 66-47	9298-9299	.	_
 
+Text=2.8.
 67-1	9300-9303	2.8	_
 67-2	9304-9305	.	_
 
+Text=FIRMM works with a wide range of sequences and EPI image types Today ’ s MRI data acquisition landscape is changing rapidly.
 68-1	9306-9311	FIRMM	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
 68-2	9312-9317	works	_
 68-3	9318-9322	with	_
@@ -1749,6 +1817,7 @@
 68-22	9422-9429	rapidly	_
 68-23	9430-9431	.	_
 
+Text=With multiband imaging, EPI data for sequences such as BOLD can now be collected every few hundred milliseconds and at spatial resolutions as low as 2 mm isotropic.
 69-1	9432-9436	With	_
 69-2	9437-9446	multiband	_
 69-3	9447-9454	imaging	_
@@ -1780,6 +1849,7 @@
 69-29	9587-9596	isotropic	_
 69-30	9597-9598	.	_
 
+Text=While our estimations of FIRMM-driven time savings and the initial live testing of FIRMM were conducted on single-band EPI data with TRs of 2.0–2.5 s, we have since verified that FIRMM works equally well with multiband EPI data acquired at spatial resolutions as low as 2 mm isotropic and with TRs as short as 700 ms. For BOLD data with high multiband factors, small voxel sizes and short TRs, the rate-limiting step is image reconstruction from k-space data, not FIRMM ’ s FD calculations and predictions.
 70-1	9599-9604	While	_
 70-2	9605-9608	our	_
 70-3	9609-9620	estimations	_
@@ -1872,6 +1942,7 @@
 70-90	10097-10108	predictions	_
 70-91	10109-10110	.	_
 
+Text=While image reconstruction can take longer for these types of acquisition parameters, vendor software platforms are becoming faster.
 71-1	10111-10116	While	_
 71-2	10117-10122	image	_
 71-3	10123-10137	reconstruction	_
@@ -1893,6 +1964,7 @@
 71-19	10237-10243	faster	_
 71-20	10244-10245	.	_
 
+Text=Siemens image reconstruction as implemented in VE11B and VE11C is fast enough for FIRMM FD calculations to keep up with the speed of data acquisition at TRs of 700 ms.
 72-1	10246-10253	Siemens	_
 72-2	10254-10259	image	_
 72-3	10260-10274	reconstruction	_
@@ -1925,6 +1997,7 @@
 72-30	10410-10412	ms	_
 72-31	10413-10414	.	_
 
+Text=In addition, we simulated even faster image acquisition rates (TRs down to 500 ms) and FIRMM was still able to keep up and deliver accurate real-time FD calculations.
 73-1	10415-10417	In	_
 73-2	10418-10426	addition	_
 73-3	10427-10428	,	_
@@ -1958,6 +2031,7 @@
 73-31	10571-10583	calculations	_
 73-32	10584-10585	.	_
 
+Text=In addition to providing real-time head motion information during EPI imaging (rs-fcMRI, fMRI) at various resolutions and TRs, FIRMM can also be used to calculate FD on the EPI motion marker or navigator images collected as part of novel motion-correcting structural sequences.
 74-1	10586-10588	In	_
 74-2	10589-10597	addition	_
 74-3	10598-10600	to	_
@@ -2006,6 +2080,7 @@
 74-46	10857-10866	sequences	_
 74-47	10867-10868	.	_
 
+Text=Such navigator images are similar enough to other EPI images that FIRMM can monitor head motion as long as it receives the EPI navigator images in real time.
 75-1	10869-10873	Such	_
 75-2	10874-10883	navigator	_
 75-3	10884-10890	images	_
@@ -2036,6 +2111,7 @@
 75-28	11021-11025	time	_
 75-29	11026-11027	.	_
 
+Text=This use case is planned for development in a later release.
 76-1	11028-11032	This	_
 76-2	11033-11036	use	_
 76-3	11037-11041	case	_
@@ -2049,9 +2125,11 @@
 76-11	11080-11087	release	_
 76-12	11088-11089	.	_
 
+Text=2.9.
 77-1	11090-11093	2.9	_
 77-2	11094-11095	.	_
 
+Text=FIRMM computer requirements The only hardware requirement for running FIRMM is a Docker-capable Linux computer networked to the computer running the scanner operating system, which is already part of the typical setup for MRI scanners used in research.
 78-1	11096-11101	FIRMM	_
 78-2	11102-11110	computer	_
 78-3	11111-11123	requirements	_
@@ -2093,6 +2171,7 @@
 78-39	11340-11348	research	_
 78-40	11349-11350	.	_
 
+Text=The FIRMM software is self-contained in a Docker image and does not require licenses or the installation of other software packages.
 79-1	11351-11354	The	_
 79-2	11355-11360	FIRMM	_
 79-3	11361-11369	software	_
@@ -2116,6 +2195,7 @@
 79-21	11474-11482	packages	_
 79-22	11483-11484	.	_
 
+Text=FIRMM has been most extensively used with a self-built computer running Linux (Ubuntu 14.04 LTS) and the following hardware specifications: Intel Core i7 4790 K 4.0 GHz processor, 16 GB DDR3 memory, Samsung 850 EVO 120 GB SSD and NVIDIA GTX 960 GPU.
 80-1	11485-11490	FIRMM	_
 80-2	11491-11494	has	_
 80-3	11495-11499	been	_
@@ -2166,9 +2246,11 @@
 80-48	11735-11738	GPU	_
 80-49	11739-11740	.	_
 
+Text=2.10.
 81-1	11741-11745	2.10	_
 81-2	11746-11747	.	_
 
+Text=FIRMM code availability We are making the FIRMM software and manuals available on our website (http: //www.firmm.us) and on the Neuroimaging Informatics Tools and Resources Clearinghouse (https: //www.nitrc.org).
 82-1	11748-11753	FIRMM	_
 82-2	11754-11758	code	_
 82-3	11759-11771	availability	_
@@ -2205,6 +2287,7 @@
 82-34	11964-11965	)	_
 82-35	11966-11967	.	_
 
+Text=Installation instructions for FIRMM can be found at: http: //www.firmm.us.
 83-1	11968-11980	Installation	_
 83-2	11981-11993	instructions	_
 83-3	11994-11997	for	_
@@ -2219,6 +2302,7 @@
 83-12	12029-12043	//www.firmm.us	_
 83-13	12044-12045	.	_
 
+Text=Detailed documentation is included with the software download.
 84-1	12046-12054	Detailed	_
 84-2	12055-12068	documentation	_
 84-3	12069-12071	is	_
@@ -2229,9 +2313,11 @@
 84-8	12099-12107	download	_
 84-9	12108-12109	.	_
 
+Text=2.11.
 85-1	12110-12114	2.11	_
 85-2	12115-12116	.	_
 
+Text=Using FIRMM We focused on making FIRMM as easy to launch as possible to minimize the time interval between subject arrival and starting the first run, which can reduce costs and increase the chance of getting through the entire protocol for longer scanning sessions, especially in special populations.
 86-1	12117-12122	Using	_
 86-2	12123-12128	FIRMM	_
 86-3	12129-12131	We	_
@@ -2284,6 +2370,7 @@
 86-50	12408-12419	populations	_
 86-51	12420-12421	.	_
 
+Text=In its current version, scanner operators open the FIRMM monitoring GUI by typing ‘ FIRMM ’ into the command line.
 87-1	12422-12424	In	_
 87-2	12425-12428	its	_
 87-3	12429-12436	current	_
@@ -2307,6 +2394,7 @@
 87-21	12532-12536	line	_
 87-22	12537-12538	.	_
 
+Text=To start monitoring head movement in real time the scanner operator must open FIRMM and then click the ‘ Start FIRMM ’ button which will begin monitoring the backend JSON file for updates.
 88-1	12539-12541	To	_
 88-2	12542-12547	start	_
 88-3	12548-12558	monitoring	_
@@ -2342,6 +2430,7 @@
 88-33	12719-12726	updates	_
 88-34	12727-12728	.	_
 
+Text=Once launched, FIRMM requires no additional inputs because it automatically detects the active MRI scanning session folder and monitors for new incoming EPI acquisitions, separating images into distinct runs.
 89-1	12729-12733	Once	_
 89-2	12734-12742	launched	_
 89-3	12743-12744	,	_
@@ -2375,6 +2464,7 @@
 89-31	12934-12938	runs	_
 89-32	12939-12940	.	_
 
+Text=Should the scanner operator forget to launch FIRMM at the beginning of the scanning session, he or she can launch FIRMM at any point during the study and FIRMM will process all EPI images associated with the current session in the correct order until it catches up to ongoing image acquisition.
 90-1	12941-12947	Should	_
 90-2	12948-12951	the	_
 90-3	12952-12959	scanner	_
@@ -2429,6 +2519,7 @@
 90-52	13224-13235	acquisition	_
 90-53	13236-13237	.	_
 
+Text=FIRMM automatically saves a log file for each run during a scanning session.
 91-1	13238-13243	FIRMM	_
 91-2	13244-13257	automatically	_
 91-3	13258-13263	saves	_
@@ -2444,6 +2535,7 @@
 91-13	13306-13313	session	_
 91-14	13314-13315	.	_
 
+Text=Shutting down FIRMM only requires closing the FIRMM GUI window.
 92-1	13316-13324	Shutting	_
 92-2	13325-13329	down	_
 92-3	13330-13335	FIRMM	_
@@ -2456,6 +2548,7 @@
 92-10	13372-13378	window	_
 92-11	13379-13380	.	_
 
+Text=All synced dicoms are automatically deleted from the host computer after 48 h. 2.12.
 93-1	13381-13384	All	_
 93-2	13385-13391	synced	_
 93-3	13392-13398	dicoms	_
@@ -2472,6 +2565,7 @@
 93-14	13460-13464	2.12	_
 93-15	13465-13466	.	_
 
+Text=FIRMM outputs FIRMM saves a temporary processing folder per study using the DICOM header information.
 94-1	13467-13472	FIRMM	_
 94-2	13473-13480	outputs	_
 94-3	13481-13486	FIRMM	_
@@ -2489,6 +2583,7 @@
 94-15	13556-13567	information	_
 94-16	13568-13569	.	_
 
+Text=In that folder, FIRMM saves the head motion parameters and FD values associated with each data frame.
 95-1	13570-13572	In	_
 95-2	13573-13577	that	_
 95-3	13578-13584	folder	_
@@ -2509,6 +2604,7 @@
 95-18	13666-13671	frame	_
 95-19	13672-13673	.	_
 
+Text=FIRMM also generates and saves a JSON file of the full information displayed in the GUI at the conclusion of the scanning session.
 96-1	13674-13679	FIRMM	_
 96-2	13680-13684	also	_
 96-3	13685-13694	generates	_
@@ -2534,6 +2630,7 @@
 96-23	13796-13803	session	_
 96-24	13804-13805	.	_
 
+Text=By loading the JSONs of completed scans, users are able to recreate the final FIRMM display of previous scan session.
 97-1	13806-13808	By	_
 97-2	13809-13816	loading	_
 97-3	13817-13820	the	_
@@ -2557,6 +2654,7 @@
 97-21	13916-13923	session	_
 97-22	13924-13925	.	_
 
+Text=For each scanning session FIRMM also writes out a simple text log (.csv) containing each data frame ’ s FD value and the six underlying motion parameters.
 98-1	13926-13929	For	_
 98-2	13930-13934	each	_
 98-3	13935-13943	scanning	_
@@ -2588,6 +2686,7 @@
 98-29	14071-14081	parameters	_
 98-30	14082-14083	.	_
 
+Text=FIRMM users interested in using FIRMM ’ s motion numbers for data processing and denoising can either import them from the log files, or from the JSON files using the JQ command-line JSON processor (https: //stedolan.github.io/jq/).
 99-1	14084-14089	FIRMM	_
 99-2	14090-14095	users	_
 99-3	14096-14106	interested	_
@@ -2630,9 +2729,11 @@
 99-40	14318-14319	)	_
 99-41	14320-14321	.	_
 
+Text=2.13.
 100-1	14322-14326	2.13	_
 100-2	14327-14328	.	_
 
+Text=Future upgrades to FIRMM As noted above, the current version of FIRMM is part of the standard acquisition protocol for the 21-site ABCD study that will collect MRI data (structural, task fMRI, and rs-fcMRI) from 10,000 children biannually over the span of 10 years, starting at the age of 9.
 101-1	14329-14335	Future	_
 101-2	14336-14344	upgrades	_
 101-3	14345-14347	to	_
@@ -2691,6 +2792,7 @@
 101-56	14624-14625	9	_
 101-57	14626-14627	.	_
 
+Text=We expect the ABCD study to provide a great deal of valuable feedback to further improve FIRMM ’ s utility.
 102-1	14628-14630	We	_
 102-2	14631-14637	expect	_
 102-3	14638-14641	the	_
@@ -2713,6 +2815,7 @@
 102-20	14727-14734	utility	_
 102-21	14735-14736	.	_
 
+Text=ABCD functional (fMRI, rs-fcMRI) and structural (motion-correcting T1, motion-correcting T2) data should allow us to further improve the accuracy of our head motion prediction algorithm in the age range under investigation.
 103-1	14737-14741	ABCD	_
 103-2	14742-14752	functional	_
 103-3	14753-14754	(	_
@@ -2752,6 +2855,7 @@
 103-37	14952-14965	investigation	_
 103-38	14966-14967	.	_
 
+Text=FIRMM upgrades already under development are aimed at making it even easier to use and to broaden its capabilities.
 104-1	14968-14973	FIRMM	_
 104-2	14974-14982	upgrades	_
 104-3	14983-14990	already	_
@@ -2773,6 +2877,7 @@
 104-19	15070-15082	capabilities	_
 104-20	15083-15084	.	_
 
+Text=Hence, we are currently testing a version of FIRMM with interactive graphics that would further simplify its use by allowing the selection and deselection of specific individual scans for inclusion in the actual and predicted amount of low-movement data.
 105-1	15085-15090	Hence	_
 105-2	15091-15092	,	_
 105-3	15093-15095	we	_
@@ -2815,6 +2920,7 @@
 105-40	15335-15339	data	_
 105-41	15340-15341	.	_
 
+Text=Planned future versions of FIRMM should also allow users to display DVAR (D for derivative of timeseries, VAR for RMS variance across voxels) as an additional EPI data quality metric.
 106-1	15342-15349	Planned	_
 106-2	15350-15356	future	_
 106-3	15357-15365	versions	_
@@ -2850,6 +2956,7 @@
 106-33	15521-15527	metric	_
 106-34	15528-15529	.	_
 
+Text=DVAR measures how much the whole brain signal intensity varies from each data frame to the next, independent of the source of signal change.
 107-1	15530-15534	DVAR	_
 107-2	15535-15543	measures	_
 107-3	15544-15547	how	_
@@ -2877,6 +2984,7 @@
 107-25	15664-15670	change	_
 107-26	15671-15672	.	_
 
+Text=DVAR traces are very sensitive to frame-to-frame head motion but in principle can also detect EPI signal aberrancies from sources other than head motion.
 108-1	15673-15677	DVAR	_
 108-2	15678-15684	traces	_
 108-3	15685-15688	are	_
@@ -2903,6 +3011,7 @@
 108-24	15819-15825	motion	_
 108-25	15826-15827	.	_
 
+Text=In addition to the 4dfp alignment algorithm currently implemented by FIRMM, future versions will allow scanner operators to choose between similar, but slightly different, EPI image registration methods for calculating FD (FSL, AFNI, SPM).
 109-1	15828-15830	In	_
 109-2	15831-15839	addition	_
 109-3	15840-15842	to	_
@@ -2946,6 +3055,7 @@
 109-41	16072-16073	)	_
 109-42	16074-16075	.	_
 
+Text=Options for feeding information about head motion back to the subject, post-run and/or in real time are undergoing testing.
 110-1	16076-16083	Options	_
 110-2	16084-16087	for	_
 110-3	16088-16095	feeding	_
@@ -2968,6 +3078,7 @@
 110-20	16192-16199	testing	_
 110-21	16200-16201	.	_
 
+Text=Those feedback approaches most effective at reducing head motion will also be built into future versions of FIRMM.
 111-1	16202-16207	Those	_
 111-2	16208-16216	feedback	_
 111-3	16217-16227	approaches	_
@@ -2988,9 +3099,11 @@
 111-18	16310-16315	FIRMM	_
 111-19	16316-16317	.	_
 
+Text=2.14.
 112-1	16318-16322	2.14	_
 112-2	16323-16324	.	_
 
+Text=Validation data sets For this study, extant rs-fcMRI data (Table 1) from a total of 1134 scanning sessions of children, teens, and young adults (447 female scans) with a mean age of 12.4 years (range = 7.2–19.6 years), were utilized to compare FIRMM ’ s FD calculations to standard offline methods (WashU 4dfp) and to estimate the scanning cost reductions had FIRMM been available at the time of scanning.
 113-1	16325-16335	Validation	_
 113-2	16336-16340	data	_
 113-3	16341-16345	sets	_
@@ -3074,6 +3187,7 @@
 113-81	16733-16741	scanning	_
 113-82	16742-16743	.	_
 
+Text=These data came from two different data sets that were pooled for the purpose of this study.
 114-1	16744-16749	These	_
 114-2	16750-16754	data	_
 114-3	16755-16759	came	_
@@ -3093,6 +3207,7 @@
 114-17	16830-16835	study	_
 114-18	16836-16837	.	_
 
+Text=The same data were also used to validate FIRMM ’ s head motion prediction algorithm.
 115-1	16838-16841	The	_
 115-2	16842-16846	same	_
 115-3	16847-16851	data	_
@@ -3110,6 +3225,7 @@
 115-15	16912-16921	algorithm	_
 115-16	16922-16923	.	_
 
+Text=These data included cohorts with attention deficit hyperactivity disorder (ADHD: 425 scanning sessions, 140 female), autism spectrum disorder (ASD: 84 scanning sessions, 17 female), a family history of alcoholism (FHA: 304 scanning sessions, 141 female) and age-matched neurotypical controls (Controls: 321 scanning sessions, 149 female).
 116-1	16924-16929	These	_
 116-2	16930-16934	data	_
 116-3	16935-16943	included	_
@@ -3175,6 +3291,7 @@
 116-63	17278-17279	)	_
 116-64	17280-17281	.	_
 
+Text=The Human Investigation Review Board at OHSU (datasets 1, 2) approved the research.
 117-1	17282-17285	The	_
 117-2	17286-17291	Human	_
 117-3	17292-17305	Investigation	_
@@ -3193,6 +3310,7 @@
 117-16	17359-17367	research	_
 117-17	17368-17369	.	_
 
+Text=Written informed consent was obtained from respective parents and verbal or written assent was obtained from child participants.
 118-1	17370-17377	Written	_
 118-2	17378-17386	informed	_
 118-3	17387-17394	consent	_
@@ -3213,9 +3331,11 @@
 118-18	17485-17497	participants	_
 118-19	17498-17499	.	_
 
+Text=2.14.1.
 119-1	17500-17506	2.14.1	_
 119-2	17507-17508	.	_
 
+Text=ADHD, ASD, neurotypical controls (dataset 1) The ADHD and ASD cohorts, alongside age-matched neurotypical controls, were recruited as part of two ongoing longitudinal studies in the Fair and Nigg laboratories.
 120-1	17509-17513	ADHD	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 120-2	17514-17515	,	_
 120-3	17516-17519	ASD	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -3254,6 +3374,7 @@
 120-36	17711-17723	laboratories	_
 120-37	17724-17725	.	_
 
+Text=For neurotypical and ADHD participants, children were recruited from families who volunteered in response to mass mailings in the community.
 121-1	17726-17729	For	_
 121-2	17730-17742	neurotypical	http://maven.renci.org/NeuroBridge/neurobridge#AtypicalParkinsonism
 121-3	17743-17746	and	_
@@ -3277,6 +3398,7 @@
 121-21	17857-17866	community	_
 121-22	17867-17868	.	_
 
+Text=Their diagnostic grouping was carefully evaluated in best-estimate, multi-stage case finding procedure.
 122-1	17869-17874	Their	_
 122-2	17875-17885	diagnostic	_
 122-3	17886-17894	grouping	_
@@ -3292,6 +3414,7 @@
 122-13	17963-17972	procedure	_
 122-14	17973-17974	.	_
 
+Text=Children were excluded if they did not meet criteria for ADHD or non-ADHD groups.
 123-1	17975-17983	Children	_
 123-2	17984-17988	were	_
 123-3	17989-17997	excluded	_
@@ -3308,6 +3431,7 @@
 123-14	18049-18055	groups	_
 123-15	18056-18057	.	_
 
+Text=Exclusion criteria were tic disorder, psychotic disorder, bipolar disorder, autism spectrum disorder, conduct disorder, major depressive disorder, intellectual disability, neurological illness, chronic medical problems, sensorimotor disability, significant head trauma (with loss of consciousness); or if they were taking psychotropic medications other than psychostimulants.
 124-1	18058-18067	Exclusion	_
 124-2	18068-18076	criteria	_
 124-3	18077-18081	were	_
@@ -3366,6 +3490,7 @@
 124-56	18429-18445	psychostimulants	_
 124-57	18446-18447	.	_
 
+Text=Children were also excluded if they had contra-indications to MRI.
 125-1	18448-18456	Children	_
 125-2	18457-18461	were	_
 125-3	18462-18466	also	_
@@ -3378,6 +3503,7 @@
 125-10	18510-18513	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 125-11	18514-18515	.	_
 
+Text=Only right-handed children were included in the study.
 126-1	18516-18520	Only	_
 126-2	18521-18533	right-handed	_
 126-3	18534-18542	children	_
@@ -3388,6 +3514,7 @@
 126-8	18564-18569	study	_
 126-9	18570-18571	.	_
 
+Text=Children prescribed psychostimulant medications were scanned after a minimum washout period of five half-lives (i.e.
 127-1	18572-18580	Children	_
 127-2	18581-18591	prescribed	_
 127-3	18592-18607	psychostimulant	_
@@ -3406,6 +3533,7 @@
 127-16	18685-18688	i.e	_
 127-17	18689-18690	.	_
 
+Text=24–48 h depending on the preparation).
 128-1	18691-18696	24–48	_
 128-2	18697-18698	h	_
 128-3	18699-18708	depending	_
@@ -3415,6 +3543,7 @@
 128-7	18728-18729	)	_
 128-8	18730-18731	.	_
 
+Text=For ASD participants, diagnosis was determined by a multi-disciplinary clinical team that utilized the ADOS.
 129-1	18732-18735	For	_
 129-2	18736-18739	ASD	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
 129-3	18740-18752	participants	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
@@ -3433,6 +3562,7 @@
 129-16	18836-18840	ADOS	http://maven.renci.org/NeuroBridge/neurobridge#Hyperaldosteronism
 129-17	18841-18842	.	_
 
+Text=All children also met ASD criteria on the ADI-R, using DSM-IV criteria.
 130-1	18843-18846	All	_
 130-2	18847-18855	children	_
 130-3	18856-18860	also	_
@@ -3448,6 +3578,7 @@
 130-13	18906-18914	criteria	_
 130-14	18915-18916	.	_
 
+Text=Children with ASD were also assessed for ADHD by the same research methods noted above.
 131-1	18917-18925	Children	http://maven.renci.org/NeuroBridge/neurobridge#FrustrationEmotionTaskforChildren
 131-2	18926-18930	with	http://maven.renci.org/NeuroBridge/neurobridge#FrustrationEmotionTaskforChildren
 131-3	18931-18934	ASD	http://maven.renci.org/NeuroBridge/neurobridge#FrustrationEmotionTaskforChildren
@@ -3465,6 +3596,7 @@
 131-15	18998-19003	above	_
 131-16	19004-19005	.	_
 
+Text=As above, children with ASD who were taking psychostimulant medications were allowed in but were washed out for a minimum of 24–48 h (depending on formulation) or at least 7 half-lives of the formulation (i.e.
 132-1	19006-19008	As	_
 132-2	19009-19014	above	_
 132-3	19015-19016	,	_
@@ -3506,6 +3638,7 @@
 132-39	19215-19218	i.e	_
 132-40	19219-19220	.	_
 
+Text=the period of time it takes the body to metabolize/excrete half of the dose of the medication) prior to neuroimaging.
 133-1	19221-19224	the	_
 133-2	19225-19231	period	_
 133-3	19232-19234	of	_
@@ -3529,6 +3662,7 @@
 133-21	19326-19338	neuroimaging	_
 133-22	19339-19340	.	_
 
+Text=Children taking non-stimulant psychoactive medications (e.g.
 134-1	19341-19349	Children	_
 134-2	19350-19356	taking	_
 134-3	19357-19370	non-stimulant	_
@@ -3538,6 +3672,7 @@
 134-7	19398-19401	e.g	_
 134-8	19402-19403	.	_
 
+Text=tricyclic antidepressants, SSRIs, MAO inhibitors, or antipsychotic medication and atomoxetine) were excluded from the study.
 135-1	19404-19413	tricyclic	_
 135-2	19414-19429	antidepressants	_
 135-3	19430-19431	,	_
@@ -3559,9 +3694,11 @@
 135-19	19526-19531	study	_
 135-20	19532-19533	.	_
 
+Text=2.14.2.
 136-1	19534-19540	2.14.2	_
 136-2	19541-19542	.	_
 
+Text=Family history of alcoholism, neurotypical controls (dataset 2) Participants, ages 10–16 years, were recruited from the local community.
 137-1	19543-19549	Family	_
 137-2	19550-19557	history	_
 137-3	19558-19560	of	_
@@ -3587,6 +3724,7 @@
 137-23	19674-19683	community	_
 137-24	19684-19685	.	_
 
+Text=Family history of alcoholism (FHA) positive youth were part of an ongoing longitudinal study in the Nagel laboratory and matched for demographic characteristics to family history negative participants (neurotypical controls).
 138-1	19686-19692	Family	_
 138-2	19693-19700	history	_
 138-3	19701-19703	of	_
@@ -3623,6 +3761,7 @@
 138-34	19913-19914	)	_
 138-35	19915-19916	.	_
 
+Text=To determine eligibility, structured interviews were conducted by telephone with the youth and one of their parents [Structured Clinical Interview;].
 139-1	19917-19919	To	_
 139-2	19920-19929	determine	_
 139-3	19930-19941	eligibility	_
@@ -3649,6 +3788,7 @@
 139-24	20068-20069	]	_
 139-25	20070-20071	.	_
 
+Text=Exclusionary criteria included: lack of information on family history, family history of psychotic disorders (i.e.
 140-1	20072-20084	Exclusionary	_
 140-2	20085-20093	criteria	_
 140-3	20094-20102	included	_
@@ -3669,6 +3809,7 @@
 140-18	20185-20188	i.e	_
 140-19	20189-20190	.	_
 
+Text=schizophrenia or bipolar I), diagnosis of a DSM-IV psychiatric disorder [Diagnostic Interview Schedule for Children, Predictive Scales], significant lifetime alcohol or substance use (> 10 lifetime alcoholic drinks or> 2 drinks on any single occasion,> 5 uses of marijuana,> 4 cigarettes per day, any other drug use) [Customary Drinking and Drug Use Record;], neurological illness, significant head trauma (loss of consciousness> 2 min), serious medical conditions, intellectual disability or learning disability, prenatal exposure to drugs or alcohol, left-handedness [Edinburgh Handedness Inventory;], premature birth (<36 weeks), MRI contraindications, and pregnancy or possible pregnancy.
 141-1	20191-20204	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 141-2	20205-20207	or	_
 141-3	20208-20215	bipolar	_
@@ -3798,9 +3939,11 @@
 141-127	20908-20917	pregnancy	_
 141-128	20918-20919	.	_
 
+Text=2.15.
 142-1	20920-20924	2.15	_
 142-2	20925-20926	.	_
 
+Text=FIRMM usage testing After applying FIRMM to the 1134 extant scans (data sets 1, 2), we tested FIRMM ’ s utility for scanner operators in a new cohort of 29 children (FIRMM testing dataset 3: 11 female, mean age = 11.5 years, age range = 5.9–15.9 years).
 143-1	20927-20932	FIRMM	_
 143-2	20933-20938	usage	_
 143-3	20939-20946	testing	_
@@ -3859,6 +4002,7 @@
 143-56	21187-21188	)	_
 143-57	21189-21190	.	_
 
+Text=The Washington University (WU) Human Research Protection Office approved the research.
 144-1	21191-21194	The	_
 144-2	21195-21205	Washington	_
 144-3	21206-21216	University	_
@@ -3874,6 +4018,7 @@
 144-13	21270-21278	research	_
 144-14	21279-21280	.	_
 
+Text=Written informed consent was obtained from respective parents and verbal or written assent was obtained from child participants.
 145-1	21281-21288	Written	_
 145-2	21289-21297	informed	_
 145-3	21298-21305	consent	_
@@ -3894,6 +4039,7 @@
 145-18	21396-21408	participants	_
 145-19	21409-21410	.	_
 
+Text=A total of 29 children between the ages of 5–16 years old were recruited from the local community and underwent rs-fcMRI scanning for a study that provided access to FIRMM to the scanner operators (Table 2).
 146-1	21411-21412	A	_
 146-2	21413-21418	total	_
 146-3	21419-21421	of	_
@@ -3934,6 +4080,7 @@
 146-38	21618-21619	)	_
 146-39	21620-21621	.	_
 
+Text=Children were excluded for any contraindications to MRI.
 147-1	21622-21630	Children	_
 147-2	21631-21635	were	_
 147-3	21636-21644	excluded	_
@@ -3944,6 +4091,7 @@
 147-8	21674-21677	MRI	_
 147-9	21678-21679	.	_
 
+Text=Being left-handed was not an exclusion criterion.
 148-1	21680-21685	Being	_
 148-2	21686-21697	left-handed	_
 148-3	21698-21701	was	_
@@ -3953,6 +4101,7 @@
 148-7	21719-21728	criterion	_
 148-8	21729-21730	.	_
 
+Text=All participants were native English speakers.
 149-1	21731-21734	All	_
 149-2	21735-21747	participants	_
 149-3	21748-21752	were	_
@@ -3961,9 +4110,11 @@
 149-6	21768-21776	speakers	_
 149-7	21777-21778	.	_
 
+Text=2.16.
 150-1	21779-21783	2.16	_
 150-2	21784-21785	.	_
 
+Text=Validation and FIRMM usage testing data acquisition parameters Dataset 1 and 2 participants were scanned on a Siemens Tim Trio 3.0 T Magnetom Tim Trio system (Siemens Medical Solutions, Erlangen, Germany) with a 12-channel head coil, located at OHSU ’ s Advanced Imaging Research Center.
 151-1	21786-21796	Validation	_
 151-2	21797-21800	and	_
 151-3	21801-21806	FIRMM	_
@@ -4016,6 +4167,7 @@
 151-50	22071-22077	Center	_
 151-51	22078-22079	.	_
 
+Text=A high-resolution T1-weighted MPRAGE sequence was acquired (resolution = 1 × 1 × 1.1 mm).
 152-1	22080-22081	A	_
 152-2	22082-22097	high-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 152-3	22098-22109	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -4035,6 +4187,7 @@
 152-17	22169-22170	)	_
 152-18	22171-22172	.	_
 
+Text=BOLD-weighted functional images were collected (along the anterior–posterior commissure) using T2 * -weighted echo planar imaging (TR = 2500 ms, TE = 30 ms, flip angle = 90°, FOV = 240 mm2, 36 slices covering the entire brain, slice thickness = 3.8 mm, resolution = 3.75 × 3.75 × 3.8 mm).
 153-1	22173-22186	BOLD-weighted	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 153-2	22187-22197	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 153-3	22198-22204	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -4098,6 +4251,7 @@
 153-61	22469-22470	)	_
 153-62	22471-22472	.	_
 
+Text=Three runs of 5 min of resting state BOLD data were acquired, during which participants were instructed to stay still and fixate on a white crosshair in the center of a black screen projected from the head of the scanner and viewed with a mirror mounted on a 12-channel head coil.
 154-1	22473-22478	Three	_
 154-2	22479-22483	runs	_
 154-3	22484-22486	of	_
@@ -4152,6 +4306,7 @@
 154-52	22749-22753	coil	_
 154-53	22754-22755	.	_
 
+Text=Dataset 3 participants were scanned on a Siemens Tim Trio 3.0 T Magnetom system (Siemens Medical Solutions, Erlangen, Germany) with a 12-channel head coil, located at WU ’ s East Building Imaging Center.
 155-1	22756-22763	Dataset	_
 155-2	22764-22765	3	_
 155-3	22766-22778	participants	_
@@ -4192,6 +4347,7 @@
 155-38	22957-22963	Center	_
 155-39	22964-22965	.	_
 
+Text=A high-resolution T1-weighted MPRAGE sequence was acquired (resolution = 1 × 1 × 1 mm).
 156-1	22966-22967	A	_
 156-2	22968-22983	high-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 156-3	22984-22995	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -4211,6 +4367,7 @@
 156-17	23053-23054	)	_
 156-18	23055-23056	.	_
 
+Text=Functional images were acquired using a BOLD contrast-sensitive echoplanar sequence (TE = 27 ms, flip angle = 90°, in-plane resolution 4 × 4 mm; volume TR = 2.5 s).
 157-1	23057-23067	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 157-2	23068-23074	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 157-3	23075-23079	were	_
@@ -4247,6 +4404,7 @@
 157-34	23224-23225	)	_
 157-35	23226-23227	.	_
 
+Text=Whole-brain coverage was obtained with 32 contiguous interleaved 4 mm axial slices.
 158-1	23228-23239	Whole-brain	_
 158-2	23240-23248	coverage	_
 158-3	23249-23252	was	_
@@ -4261,6 +4419,7 @@
 158-12	23304-23310	slices	_
 158-13	23311-23312	.	_
 
+Text=Participants completed up to seven 6.8 min BOLD runs.
 159-1	23313-23325	Participants	_
 159-2	23326-23335	completed	_
 159-3	23336-23338	up	_
@@ -4272,6 +4431,7 @@
 159-9	23361-23365	runs	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 159-10	23366-23367	.	_
 
+Text=During two of seven runs participants were in the resting state, which consisted of viewing a centrally presented white crosshair (subtending <1° visual angle) on a black background.
 160-1	23368-23374	During	_
 160-2	23375-23378	two	_
 160-3	23379-23381	of	_
@@ -4306,6 +4466,7 @@
 160-32	23543-23553	background	_
 160-33	23554-23555	.	_
 
+Text=During the other five runs participants watched brief movies and/or received visual feedback about their head motion.
 161-1	23556-23562	During	_
 161-2	23563-23566	the	_
 161-3	23567-23572	other	_
@@ -4325,9 +4486,11 @@
 161-17	23666-23672	motion	_
 161-18	23673-23674	.	_
 
+Text=2.17.
 162-1	23675-23679	2.17	_
 162-2	23680-23681	.	_
 
+Text=Analyses comparing FIRMM and offline FD values For all 1134 scan sessions FD values were calculated using FIRMM (see sections 2.2, 2.3, 2.4) as well as using a previously published Offline method.
 163-1	23682-23690	Analyses	_
 163-2	23691-23700	comparing	_
 163-3	23701-23706	FIRMM	_
@@ -4366,6 +4529,7 @@
 163-36	23875-23881	method	_
 163-37	23882-23883	.	_
 
+Text=The differences between the FIRMM and Offline FD values are 1) that the FIRMM FD values are calculated on the ‘ raw ’ BOLD images, prior to de-banding and slice-time-correction, and 2) that the FIRMM FD values are computed from BOLD image alignments relative to the first data frame instead of the run ’ s middle frame (Offline).
 164-1	23884-23887	The	_
 164-2	23888-23899	differences	_
 164-3	23900-23907	between	_
@@ -4432,6 +4596,7 @@
 164-64	24217-24218	)	_
 164-65	24219-24220	.	_
 
+Text=All other steps such as the estimation of head realignment (section 2.3) and the formula for calculating FD (section 2.4) are the same for the FIRMM and Offline methods.
 165-1	24221-24224	All	_
 165-2	24225-24230	other	_
 165-3	24231-24236	steps	_
@@ -4467,6 +4632,7 @@
 165-33	24386-24393	methods	_
 165-34	24394-24395	.	_
 
+Text=For both FD calculation methods (FIRMM, Offline) the number of usable low movement frames were calculated for three commonly used stringent thresholds (FD <0.2 mm, FD <0.3 mm, FD <0.4 mm).
 166-1	24396-24399	For	_
 166-2	24400-24404	both	_
 166-3	24405-24407	FD	_
@@ -4510,6 +4676,7 @@
 166-41	24592-24593	)	_
 166-42	24594-24595	.	_
 
+Text=For the whole sample of 1134 scans the correlation in the percentage of usable low movement frames between FIRMM and Offline was calculated for each frame censoring threshold (Fig.
 167-1	24596-24599	For	_
 167-2	24600-24603	the	_
 167-3	24604-24609	whole	_
@@ -4542,18 +4709,22 @@
 167-30	24773-24776	Fig	_
 167-31	24777-24778	.	_
 
+Text=3, Supplementary Fig.
 168-1	24779-24780	3	_
 168-2	24781-24782	,	_
 168-3	24783-24796	Supplementary	_
 168-4	24797-24800	Fig	_
 168-5	24801-24802	.	_
 
+Text=2.
 169-1	24803-24804	2	_
 169-2	24805-24806	.	_
 
+Text=2.18.
 170-1	24807-24811	2.18	_
 170-2	24812-24813	.	_
 
+Text=Analyses estimating time savings generated by FIRMM To estimate how much scan time could have been saved by using FIRMM to scan until each subject had acquired the desired number of frames below the FD cutoff (scanning-to-criterion), we generated low movement data (FD <0.2 mm) accumulation plots for all 1134 scan session.
 171-1	24814-24822	Analyses	_
 171-2	24823-24833	estimating	_
 171-3	24834-24838	time	_
@@ -4614,6 +4785,7 @@
 171-58	25135-25142	session	_
 171-59	25143-25144	.	_
 
+Text=These plots show the accumulation of low movement data (min., y-axis) relative to the time spent scanning (min.
 172-1	25145-25150	These	_
 172-2	25151-25156	plots	_
 172-3	25157-25161	show	_
@@ -4638,6 +4810,7 @@
 172-22	25256-25259	min	_
 172-23	25260-25261	.	_
 
+Text=; x-axis) (Fig.
 173-1	25262-25263	;	_
 173-2	25264-25270	x-axis	_
 173-3	25271-25272	)	_
@@ -4645,10 +4818,12 @@
 173-5	25275-25278	Fig	_
 173-6	25279-25280	.	_
 
+Text=5a).
 174-1	25281-25283	5a	_
 174-2	25284-25285	)	_
 174-3	25286-25287	.	_
 
+Text=We then generated low movement data accumulation plots for each of our cohorts (ASD, ADHD, FHA, Control) (Fig.
 175-1	25288-25290	We	_
 175-2	25291-25295	then	_
 175-3	25296-25305	generated	_
@@ -4675,10 +4850,12 @@
 175-24	25400-25403	Fig	_
 175-25	25404-25405	.	_
 
+Text=5b).
 176-1	25406-25408	5b	_
 176-2	25409-25410	)	_
 176-3	25411-25412	.	_
 
+Text=In these plots the area under the curve represents the relative scan time savings (percent) when scanning-to-criterion instead of scanning all participants for 20 min.
 177-1	25413-25415	In	_
 177-2	25416-25421	these	_
 177-3	25422-25427	plots	_
@@ -4708,6 +4885,7 @@
 177-27	25578-25581	min	_
 177-28	25582-25583	.	_
 
+Text=For those scan sessions with <20 min of collected data, we linearly extrapolated the accumulation of usable frames from the existing data (Fig.
 178-1	25584-25587	For	_
 178-2	25588-25593	those	_
 178-3	25594-25598	scan	_
@@ -4736,10 +4914,12 @@
 178-26	25726-25729	Fig	_
 178-27	25730-25731	.	_
 
+Text=5b).
 179-1	25732-25734	5b	_
 179-2	25735-25736	)	_
 179-3	25737-25738	.	_
 
+Text=We also used the 1134 individual low movement data accumulation plots to calculate the time difference in time-to-criterion between the FIRMM and Offline methods (Supplementary Fig.
 180-1	25739-25741	We	_
 180-2	25742-25746	also	_
 180-3	25747-25751	used	_
@@ -4769,6 +4949,7 @@
 180-27	25917-25920	Fig	_
 180-28	25921-25922	.	_
 
+Text=4).
 181-1	25923-25924	4	_
 181-2	25925-25926	)	_
 181-3	25927-25928	.	_

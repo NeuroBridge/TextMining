@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Draining the pond and catching the fish: Uncovering the ecosystem of auditory verbal hallucinations The various models proposed for the mediation of auditory verbal hallucinations (AVH) implicate a considerable number of brain areas and mechanisms.
 1-1	0-8	Draining	_
 1-2	9-12	the	_
 1-3	13-17	pond	_
@@ -42,6 +43,7 @@
 1-38	240-250	mechanisms	_
 1-39	251-252	.	_
 
+Text=To establish which of those mechanisms are actually involved in the mediation of AVH, we developed a novel method to analyze functional MRI data, which allows for the detection of the full network of mutually interacting brain states, and the identification of those states that are relevant to the mediation of AVH, while applying a minimum number of preconceived assumptions.
 2-1	253-255	To	_
 2-2	256-265	establish	_
 2-3	266-271	which	_
@@ -108,6 +110,7 @@
 2-64	622-633	assumptions	_
 2-65	634-635	.	_
 
+Text=This method is comparable to the draining of a pond to lay bare the full ecosystem that affects the presence of a particular fish species.
 3-1	636-640	This	_
 3-2	641-647	method	_
 3-3	648-650	is	_
@@ -135,6 +138,7 @@
 3-25	766-773	species	_
 3-26	774-775	.	_
 
+Text=We used this model to analyze the fMRI data of 85 psychotic patients experiencing AVH.
 4-1	776-778	We	_
 4-2	779-783	used	_
 4-3	784-788	this	_
@@ -152,6 +156,7 @@
 4-15	858-861	AVH	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 4-16	862-863	.	_
 
+Text=The data were decomposed into 98 independent components (ICs) representing all major functions active in the brain during scanning.
 5-1	864-867	The	_
 5-2	868-872	data	_
 5-3	873-877	were	_
@@ -175,6 +180,7 @@
 5-21	988-996	scanning	_
 5-22	997-998	.	_
 
+Text=ICs involved in mediating AVH were identified by associating their time series with the hallucination time series as provided by subjects within the scanner.
 6-1	999-1002	ICs	_
 6-2	1003-1011	involved	_
 6-3	1012-1014	in	_
@@ -201,6 +207,7 @@
 6-24	1148-1155	scanner	_
 6-25	1156-1157	.	_
 
+Text=Using graph theory, a network of interacting ICs was created, which was clustered into IC modules.
 7-1	1158-1163	Using	_
 7-2	1164-1169	graph	_
 7-3	1170-1176	theory	_
@@ -221,6 +228,7 @@
 7-18	1250-1257	modules	_
 7-19	1258-1259	.	_
 
+Text=We used causal reasoning software to determine the direction of links in this network, and discover the chain of events that leads to the conscious experience of hallucinations.
 8-1	1260-1262	We	_
 8-2	1263-1267	used	_
 8-3	1268-1274	causal	_
@@ -252,6 +260,7 @@
 8-29	1423-1437	hallucinations	_
 8-30	1438-1439	.	_
 
+Text=Hallucinatory activity was linked to three of the seven IC clusters and 11 of the 98 ICs.
 9-1	1440-1453	Hallucinatory	_
 9-2	1454-1462	activity	_
 9-3	1463-1466	was	_
@@ -271,6 +280,7 @@
 9-17	1525-1528	ICs	_
 9-18	1529-1530	.	_
 
+Text=ICs with the most influential roles in producing AVH-related activity were those within the so-called salience network (comprising the anterior cingulate gyrus, right insula, Broca's homologue, premotor cortex, and supramarginal gyrus).
 10-1	1531-1534	ICs	_
 10-2	1535-1539	with	_
 10-3	1540-1543	the	_
@@ -311,6 +321,7 @@
 10-38	1772-1773	)	_
 10-39	1774-1775	.	_
 
+Text=Broca's area and the cerebellar regions were significantly, but more distantly involved in the mediation of AVH.
 11-1	1776-1781	Broca	_
 11-2	1782-1784	's	_
 11-3	1785-1789	area	_
@@ -332,6 +343,7 @@
 11-19	1886-1889	AVH	_
 11-20	1890-1891	.	_
 
+Text=These results support the notion that AVH are largely mediated by the salience network.
 12-1	1892-1897	These	_
 12-2	1898-1905	results	_
 12-3	1906-1913	support	_
@@ -348,6 +360,7 @@
 12-14	1971-1978	network	_
 12-15	1979-1980	.	_
 
+Text=We therefore propose that the mediation of AVH in the context of schizophrenia spectrum disorders involves the attribution of an excess of negative salience by anterior-cingulate areas to linguistic input from Broca's right homologue, followed by subsequent processing errors in areas further ‘ downstream ’ the causal chain of events.
 13-1	1981-1983	We	_
 13-2	1984-1993	therefore	_
 13-3	1994-2001	propose	_
@@ -402,6 +415,7 @@
 13-52	2311-2317	events	_
 13-53	2318-2319	.	_
 
+Text=We provide a detailed account of the origin of AVH for this patient group, and make suggestions for selective interventions directed at the most relevant brain areas.
 14-1	2320-2322	We	_
 14-2	2323-2330	provide	_
 14-3	2331-2332	a	_
@@ -432,6 +446,7 @@
 14-28	2481-2486	areas	_
 14-29	2487-2488	.	_
 
+Text=Highlights We use a data-driven and network-based approach to identify the brain circuits involved in hallucinations.
 15-1	2489-2499	Highlights	_
 15-2	2500-2502	We	_
 15-3	2503-2506	use	_
@@ -450,6 +465,7 @@
 15-16	2591-2605	hallucinations	_
 15-17	2606-2607	.	_
 
+Text=The mechanistic approach of this study directly informs the use of local intervention techniques.
 16-1	2608-2611	The	_
 16-2	2612-2623	mechanistic	_
 16-3	2624-2632	approach	_
@@ -466,6 +482,7 @@
 16-14	2694-2704	techniques	_
 16-15	2705-2706	.	_
 
+Text=A central role was played by the salience network and Broca ’ s homologue, important structures which would seem to be excellent targets for treatment.
 17-1	2707-2708	A	_
 17-2	2709-2716	central	_
 17-3	2717-2721	role	_
@@ -494,6 +511,7 @@
 17-26	2849-2858	treatment	_
 17-27	2859-2860	.	_
 
+Text=Materials and methods Participants A total of 85 right-handed patients experiencing frequent AVH (i.e., at least three episodes per 15 min) were recruited at Parnassia Psychiatric Institute and the University Medical Center Utrecht.
 18-1	2861-2870	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 18-2	2871-2874	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 18-3	2875-2882	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -532,6 +550,7 @@
 18-36	3088-3095	Utrecht	_
 18-37	3096-3097	.	_
 
+Text=Exclusion criteria included the presence of neurological disorders, IQ <80, structural brain deficits, and coarse scanner artefacts upon initial inspection of the fMRI data.
 19-1	3098-3107	Exclusion	_
 19-2	3108-3116	criteria	_
 19-3	3117-3125	included	_
@@ -562,6 +581,7 @@
 19-28	3270-3274	data	_
 19-29	3275-3276	.	_
 
+Text=Of all patients, 56% were male; mean age was 38 (SD 11.0) years, and average time spent on education was 12.5 (SD 2.5) years.
 20-1	3277-3279	Of	_
 20-2	3280-3283	all	_
 20-3	3284-3292	patients	_
@@ -596,6 +616,7 @@
 20-32	3404-3409	years	_
 20-33	3410-3411	.	_
 
+Text=All patients were diagnosed in accordance with the DSM-IV-TR criteria as suffering from Schizophrenia (77%), Schizoaffective Disorder (3%) or Psychotic Disorder Not Otherwise Specified (20%).
 21-1	3412-3415	All	_
 21-2	3416-3424	patients	_
 21-3	3425-3429	were	_
@@ -633,6 +654,7 @@
 21-35	3611-3612	)	_
 21-36	3613-3614	.	_
 
+Text=Diagnostic interviews had been carried out by independent psychiatrists using the Comprehensive Assessment of Symptoms and History (CASH).
 22-1	3615-3625	Diagnostic	_
 22-2	3626-3636	interviews	_
 22-3	3637-3640	had	_
@@ -655,6 +677,7 @@
 22-20	3753-3754	)	_
 22-21	3755-3756	.	_
 
+Text=There was a large range in the number of years since the onset of hallucinations, with a mean duration of 14.5 (SD 12.5) years.
 23-1	3757-3762	There	_
 23-2	3763-3766	was	_
 23-3	3767-3768	a	_
@@ -684,6 +707,7 @@
 23-27	3881-3886	years	_
 23-28	3887-3888	.	_
 
+Text=Total PANSS-score averaged 68 (SD 15.5).
 24-1	3889-3894	Total	_
 24-2	3895-3906	PANSS-score	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 24-3	3907-3915	averaged	_
@@ -694,6 +718,7 @@
 24-8	3929-3930	)	_
 24-9	3931-3932	.	_
 
+Text=The majority of participants used antipsychotic medication (89%), with a mean chlorpromazine-equivalent dose of 413 (SD 318) mg/d.
 25-1	3933-3936	The	_
 25-2	3937-3945	majority	_
 25-3	3946-3948	of	_
@@ -720,6 +745,7 @@
 25-24	4064-4068	mg/d	_
 25-25	4069-4070	.	_
 
+Text=Of the medicated participants, 36% used clozapine, 34% other second-generation antipsychotics, 26% first-generation antipsychotics, and 4% a combination of these.
 26-1	4071-4073	Of	_
 26-2	4074-4077	the	_
 26-3	4078-4087	medicated	_
@@ -750,6 +776,7 @@
 26-28	4235-4240	these	_
 26-29	4241-4242	.	_
 
+Text=As these figures indicate, a substantial number of our subjects was treatment-refractory with respect to their AVH.
 27-1	4243-4245	As	_
 27-2	4246-4251	these	_
 27-3	4252-4259	figures	_
@@ -770,6 +797,7 @@
 27-18	4355-4358	AVH	_
 27-19	4359-4360	.	_
 
+Text=After the participants had received a complete description of the study, written informed consent was obtained in accordance with the Declaration of Helsinki.
 28-1	4361-4366	After	_
 28-2	4367-4370	the	_
 28-3	4371-4383	participants	_
@@ -796,6 +824,7 @@
 28-24	4511-4519	Helsinki	_
 28-25	4520-4521	.	_
 
+Text=The study was approved by the Human Ethics Committee of the University Medical Center Utrecht.
 29-1	4522-4525	The	_
 29-2	4526-4531	study	_
 29-3	4532-4535	was	_
@@ -813,11 +842,13 @@
 29-15	4608-4615	Utrecht	_
 29-16	4616-4617	.	_
 
+Text=Looijestijn et al.
 30-1	4618-4629	Looijestijn	_
 30-2	4630-4632	et	_
 30-3	4633-4635	al	_
 30-4	4636-4637	.	_
 
+Text=previously reported on a subset of the fMRI data of these patients (52 of the 85 subjects), presenting the results of a model-based analysis of AVH perceived inside the head (internal AVH) versus those perceived as coming from outside the head (external AVH).
 31-1	4638-4648	previously	_
 31-2	4649-4657	reported	_
 31-3	4658-4660	on	_
@@ -870,6 +901,7 @@
 31-50	4902-4903	)	_
 31-51	4904-4905	.	_
 
+Text=Image acquisition Functional neuroimaging maps were obtained with a Philips Achieva 3 Tesla Clinical MRI scanner using a fast 3D PRESTO SENSE sequence, achieving full brain coverage within 0.609 s. PRESTO (PRinciple of Echo Shifting with a Train of Observations) makes optimal use of the time lapse between excitation by the radiofrequency pulse and readout, by applying the next excitation well before signal readout.
 32-1	4906-4911	Image	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 32-2	4912-4923	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 32-3	4924-4934	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalNearInfraredSpectroscopy
@@ -940,6 +972,7 @@
 32-68	5320-5327	readout	_
 32-69	5328-5329	.	_
 
+Text=The acquisition speed was further enhanced by combining PRESTO with parallel imaging techniques (sensitivity encoding; SENSE), thus allowing for a readout of fewer lines in K-space.
 33-1	5330-5333	The	_
 33-2	5334-5345	acquisition	_
 33-3	5346-5351	speed	_
@@ -972,6 +1005,7 @@
 33-30	5507-5514	K-space	_
 33-31	5515-5516	.	_
 
+Text=Scanning resulted in 800 3D images, depicting BOLD contrast acquired at the following parameter settings: 40 coronal slices, TR/TE 21.75/32.4 ms per slice, flip angle 10°, FOV 224 × 256 × 160 mm, matrix 64 × 64 × 40, voxel size 4 mm isotropic.
 34-1	5517-5525	Scanning	_
 34-2	5526-5534	resulted	_
 34-3	5535-5537	in	_
@@ -1025,6 +1059,7 @@
 34-51	5757-5766	isotropic	_
 34-52	5767-5768	.	_
 
+Text=The total functional imaging time per patient was approximately 8 min and 7 s. During the scanning sessions, participants were instructed to squeeze a balloon whenever they experienced AVH and to release it when the hallucinations subsided.
 35-1	5769-5772	The	_
 35-2	5773-5778	total	_
 35-3	5779-5789	functional	_
@@ -1065,6 +1100,7 @@
 35-38	6001-6009	subsided	_
 35-39	6010-6011	.	_
 
+Text=A high-resolution anatomical scan with parameters TR/TE 9.86/4.6 ms, 1 × 1 × 1 mm voxel size, flip angle 8°, was acquired to improve localisation of the functional data.
 36-1	6012-6013	A	_
 36-2	6014-6029	high-resolution	_
 36-3	6030-6040	anatomical	_
@@ -1099,6 +1135,7 @@
 36-32	6179-6183	data	_
 36-33	6184-6185	.	_
 
+Text=Preprocessing The FMRIB software library (FSL, Oxford, http: //www.fmrib.ox.ac.uk/fsl/) was used for data analysis.
 37-1	6186-6199	Preprocessing	_
 37-2	6200-6203	The	_
 37-3	6204-6209	FMRIB	_
@@ -1120,6 +1157,7 @@
 37-19	6297-6305	analysis	_
 37-20	6306-6307	.	_
 
+Text=Prestatistical processing consisted of motion correction and non-brain tissue removal.
 38-1	6308-6322	Prestatistical	_
 38-2	6323-6333	processing	_
 38-3	6334-6343	consisted	_
@@ -1132,6 +1170,7 @@
 38-10	6386-6393	removal	_
 38-11	6394-6395	.	_
 
+Text=Six initial volumes were deleted to reach steady-state imaging.
 39-1	6396-6399	Six	_
 39-2	6400-6407	initial	_
 39-3	6408-6415	volumes	_
@@ -1143,6 +1182,7 @@
 39-9	6451-6458	imaging	_
 39-10	6459-6460	.	_
 
+Text=Temporal band-pass filtering was applied, using a liberal bandwidth (0.007 <f <0.30 Hz) to maintain a broad range of frequencies, thus allowing for possible high-frequency AVH-related brain activity and upholding non-gaussianity in the data to perform causal searches.
 40-1	6461-6469	Temporal	_
 40-2	6470-6479	band-pass	_
 40-3	6480-6489	filtering	_
@@ -1189,6 +1229,7 @@
 40-44	6726-6734	searches	_
 40-45	6735-6736	.	_
 
+Text=This broad temporal range allowed us to delineate a greater number of (subdivided) functional networks.
 41-1	6737-6741	This	_
 41-2	6742-6747	broad	_
 41-3	6748-6756	temporal	_
@@ -1208,6 +1249,7 @@
 41-17	6833-6841	networks	_
 41-18	6842-6843	.	_
 
+Text=The 0.30 Hz cut-off was chosen to thoroughly remove a scanner artefact settled around 0.38 Hz.
 42-1	6844-6847	The	_
 42-2	6848-6852	0.30	_
 42-3	6853-6855	Hz	_
@@ -1226,6 +1268,7 @@
 42-16	6935-6937	Hz	_
 42-17	6938-6939	.	_
 
+Text=Individual fMRI data were denoised in three steps using the novel FMRIB's ICA-based Xnoisefier (FIX), a data-driven automated classifier of signal-versus-noise components.
 43-1	6940-6950	Individual	_
 43-2	6951-6955	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 43-3	6956-6960	data	_
@@ -1254,6 +1297,7 @@
 43-26	7104-7114	components	_
 43-27	7115-7116	.	_
 
+Text=No spatial smoothing was applied at initial pre-processing, as this might have reduced the sensitivity of ICA (and hence FIX) to certain artefacts and signals.
 44-1	7117-7119	No	_
 44-2	7120-7127	spatial	_
 44-3	7128-7137	smoothing	_
@@ -1284,9 +1328,11 @@
 44-28	7271-7278	signals	_
 44-29	7279-7280	.	_
 
+Text=Fig.
 45-1	7281-7284	Fig	_
 45-2	7285-7286	.	_
 
+Text=1 shows an analysis pipeline for an overview of the methods we used.
 46-1	7287-7288	1	_
 46-2	7289-7294	shows	_
 46-3	7295-7297	an	_
@@ -1302,6 +1348,7 @@
 46-13	7350-7354	used	_
 46-14	7355-7356	.	_
 
+Text=Denoising Since all fMRI data is inherently noisy (due to spurious signals produced by movement, respiratory motion, pulsation, and MRI acquisition) we started out with a thorough denoising process.
 47-1	7357-7366	Denoising	_
 47-2	7367-7372	Since	_
 47-3	7373-7376	all	_
@@ -1338,6 +1385,7 @@
 47-34	7552-7559	process	_
 47-35	7560-7561	.	_
 
+Text=The first step of this process involved training.
 48-1	7562-7565	The	_
 48-2	7566-7571	first	_
 48-3	7572-7576	step	_
@@ -1348,6 +1396,7 @@
 48-8	7602-7610	training	_
 48-9	7611-7612	.	_
 
+Text=To optimize FIX for the fMRI PRESTO task, we used a subset consisting of the first 33 participants (recruited from an alphabetically arranged list) for hand-training of the classifier.
 49-1	7613-7615	To	_
 49-2	7616-7624	optimize	_
 49-3	7625-7628	FIX	_
@@ -1382,6 +1431,7 @@
 49-32	7789-7799	classifier	_
 49-33	7800-7801	.	_
 
+Text=Thus subject-level independent components (IC) from the independent-component analysis (ICA) in FSL were assessed with regard to temporal and spatial characteristics by two raters from our study group and one external rater, all of whom scored the results either as ‘ signal ’ or ‘ noise ’.
 50-1	7802-7806	Thus	_
 50-2	7807-7820	subject-level	_
 50-3	7821-7832	independent	_
@@ -1436,6 +1486,7 @@
 50-52	8095-8096	’	_
 50-53	8097-8098	.	_
 
+Text=Spatial maps were assessed for noise from i) cardiac pulsation, ii) movement, iii) susceptibility artefacts, iv) white matter fluctuations, v) the sagittal sinus, and vi) MRI acquisition.
 51-1	8099-8106	Spatial	_
 51-2	8107-8111	maps	_
 51-3	8112-8116	were	_
@@ -1476,6 +1527,7 @@
 51-38	8285-8296	acquisition	_
 51-39	8297-8298	.	_
 
+Text=The intra-class correlation coefficient after the first (independent) pass of our three raters was 0.71 (F = 3.4, df = 1993, p = 0) and Fleiss kappa was 0.36 (Z = 27.5, p = 0), both signifying reasonable agreement.
 52-1	8299-8302	The	_
 52-2	8303-8314	intra-class	_
 52-3	8315-8326	correlation	_
@@ -1527,6 +1579,7 @@
 52-49	8513-8522	agreement	_
 52-50	8523-8524	.	_
 
+Text=A second non-independent pass (consensus meeting) was performed to reach a unanimous decision by all three raters.
 53-1	8525-8526	A	_
 53-2	8527-8533	second	_
 53-3	8534-8549	non-independent	_
@@ -1548,6 +1601,7 @@
 53-19	8634-8640	raters	_
 53-20	8641-8642	.	_
 
+Text=Any ambiguous components were given the benefit of the doubt in order to prevent the loss of valuable information.
 54-1	8643-8646	Any	_
 54-2	8647-8656	ambiguous	_
 54-3	8657-8667	components	_
@@ -1569,6 +1623,7 @@
 54-19	8745-8756	information	_
 54-20	8757-8758	.	_
 
+Text=The ensuing classifications were fed into FIX to train the multi-level classifier.
 55-1	8759-8762	The	_
 55-2	8763-8770	ensuing	_
 55-3	8771-8786	classifications	_
@@ -1583,6 +1638,7 @@
 55-12	8830-8840	classifier	_
 55-13	8841-8842	.	_
 
+Text=The second step involved classification.
 56-1	8843-8846	The	_
 56-2	8847-8853	second	_
 56-3	8854-8858	step	_
@@ -1590,6 +1646,7 @@
 56-5	8868-8882	classification	_
 56-6	8883-8884	.	_
 
+Text=During this stage, the resulting training file was used by the FIX algorithm to classify the ICs of all 85 participants as ‘ signal ’ or ‘ noise ’.
 57-1	8885-8891	During	_
 57-2	8892-8896	this	_
 57-3	8897-8902	stage	_
@@ -1622,6 +1679,7 @@
 57-30	9031-9032	’	_
 57-31	9033-9034	.	_
 
+Text=FIX requires a threshold for classification to be chosen (of 1–100) for the level of signal-versus-noise components.
 58-1	9035-9038	FIX	_
 58-2	9039-9047	requires	_
 58-3	9048-9049	a	_
@@ -1643,6 +1701,7 @@
 58-19	9142-9152	components	_
 58-20	9153-9154	.	_
 
+Text=We used a classification threshold of 40, based on the highest true-positive and false-negative rating results of the Leave One Out-testing (LOO-testing), and confirmed these by manually inspecting all signal-versus-noise classification decisions.
 59-1	9155-9157	We	_
 59-2	9158-9162	used	_
 59-3	9163-9164	a	_
@@ -1681,6 +1740,7 @@
 59-36	9396-9405	decisions	_
 59-37	9406-9407	.	_
 
+Text=The third and final step involved cleanup, meaning that all noise components were subtracted from the individual fMRI datasets (‘ soft-cleaning ’), including motion confounders, yielding 85 preprocessed and denoised fMRI datasets for further analysis.
 60-1	9408-9411	The	_
 60-2	9412-9417	third	_
 60-3	9418-9421	and	_
@@ -1723,6 +1783,7 @@
 60-40	9655-9663	analysis	_
 60-41	9664-9665	.	_
 
+Text=Group-level independent component analysis: identification of ICs During the next stage, we used a second run of GICA with automatic component estimation in FSL.
 61-1	9666-9677	Group-level	_
 61-2	9678-9689	independent	_
 61-3	9690-9699	component	_
@@ -1751,6 +1812,7 @@
 61-26	9825-9828	FSL	_
 61-27	9829-9830	.	_
 
+Text=At this phase normalization of the voxel-wise variance was done to focus the estimation on temporal dynamics and have less influence from a voxel's mean signal.
 62-1	9831-9833	At	_
 62-2	9834-9838	this	_
 62-3	9839-9844	phase	_
@@ -1780,6 +1842,7 @@
 62-27	9985-9991	signal	_
 62-28	9992-9993	.	_
 
+Text=The preprocessed functional data, containing 794 time points for each participant, were temporally concatenated across patients to create a single 4D data set.
 63-1	9994-9997	The	_
 63-2	9998-10010	preprocessed	_
 63-3	10011-10021	functional	_
@@ -1807,6 +1870,7 @@
 63-25	10151-10154	set	_
 63-26	10155-10156	.	_
 
+Text=The resulting 160 ICs were visually inspected to identify any remaining artefacts using a white-matter/cerebrospinal-fluid mask (WM/CSF mask), based on averaged individual anatomical scans.
 64-1	10157-10160	The	_
 64-2	10161-10170	resulting	_
 64-3	10171-10174	160	_
@@ -1836,6 +1900,7 @@
 64-27	10343-10348	scans	_
 64-28	10349-10350	.	_
 
+Text=Whenever the local maxima of IC spatial maps were located inside the WM/CSF mask (or whenever the IC constituted a clear rim artefact), group-level ICs were excluded from further analysis.
 65-1	10351-10359	Whenever	_
 65-2	10360-10363	the	_
 65-3	10364-10369	local	_
@@ -1871,6 +1936,7 @@
 65-33	10533-10541	analysis	_
 65-34	10542-10543	.	_
 
+Text=If there were any doubts regarding the nature of the signal, ICs were not excluded (IC2, IC68).
 66-1	10544-10546	If	_
 66-2	10547-10552	there	_
 66-3	10553-10557	were	_
@@ -1894,6 +1960,7 @@
 66-21	10641-10642	)	_
 66-22	10643-10644	.	_
 
+Text=As a result, of the initial 160 ICs, 98 were retained for further analysis.
 67-1	10645-10647	As	_
 67-2	10648-10649	a	_
 67-3	10650-10656	result	_
@@ -1912,6 +1979,7 @@
 67-16	10713-10721	analysis	_
 67-17	10722-10723	.	_
 
+Text=Constructing a sparse directed IC network The following stage involved the construction of a multimodular, directed IC network that would allow to estimate the effective connectivity (e.g., the causal directions) of the various links between ICs.
 68-1	10724-10736	Constructing	_
 68-2	10737-10738	a	_
 68-3	10739-10745	sparse	_
@@ -1954,6 +2022,7 @@
 68-40	10970-10973	ICs	_
 68-41	10974-10975	.	_
 
+Text=As Dynamic Causal Modelling and Granger Causality are highly controversial for use in fMRI, we opted for Bayesian network-modelling techniques.
 69-1	10976-10978	As	_
 69-2	10979-10986	Dynamic	_
 69-3	10987-10993	Causal	_
@@ -1977,6 +2046,7 @@
 69-21	11109-11119	techniques	_
 69-22	11120-11121	.	_
 
+Text=Most problems regarding the inference of causal directions in fMRI data can be overcome using these techniques, which have been tested on simulated fMRI data showing ≥95% accuracy.
 70-1	11122-11126	Most	_
 70-2	11127-11135	problems	_
 70-3	11136-11145	regarding	_
@@ -2009,6 +2079,7 @@
 70-30	11295-11303	accuracy	_
 70-31	11304-11305	.	_
 
+Text=Essential to this approach is to i) start by applying a model-selection algorithm to reduce the number of links, then ii) create an undirected sparse graph, and, during the next stage, iii) use non-gaussian information in the skeleton graph to estimate causal directions.
 71-1	11306-11315	Essential	_
 71-2	11316-11318	to	_
 71-3	11319-11323	this	_
@@ -2061,6 +2132,7 @@
 71-50	11573-11583	directions	_
 71-51	11584-11585	.	_
 
+Text=First, to establish links between the various ICs, single-subject time courses were reconstructed by regressing group-spatial maps into each subject's 4D dataset.
 72-1	11586-11591	First	_
 72-2	11592-11593	,	_
 72-3	11594-11596	to	_
@@ -2088,6 +2160,7 @@
 72-25	11743-11750	dataset	_
 72-26	11751-11752	.	_
 
+Text=Next, the time courses of the 98 individual ICs were concatenated (98 ICs with 85 × 794 time points) to calculate group-level covariance matrices.
 73-1	11753-11757	Next	_
 73-2	11758-11759	,	_
 73-3	11760-11763	the	_
@@ -2117,6 +2190,7 @@
 73-27	11893-11901	matrices	_
 73-28	11902-11903	.	_
 
+Text=This yielded a fully saturated network with 98 × 98 links, even though some correlations were weak.
 74-1	11904-11908	This	_
 74-2	11909-11916	yielded	_
 74-3	11917-11918	a	_
@@ -2137,6 +2211,7 @@
 74-18	11999-12003	weak	_
 74-19	12004-12005	.	_
 
+Text=Secondly, we used EBIC-glasso (Extended Bayesian Information Criterion, graphical least absolute shrinkage and selection operator), as implemented in the R-package qgraph (psychosystems.org), to perform initial model selection.
 75-1	12006-12014	Secondly	_
 75-2	12015-12016	,	_
 75-3	12017-12019	we	_
@@ -2174,6 +2249,7 @@
 75-35	12231-12240	selection	_
 75-36	12241-12242	.	_
 
+Text=EBIC-glasso is a data-driven method that employs a measure of information conservation (the EBIC) to optimally converge onto a network solution that possesses a high sparsity, but still succeeds in properly explaining the data.
 76-1	12243-12254	EBIC-glasso	_
 76-2	12255-12257	is	_
 76-3	12258-12259	a	_
@@ -2213,6 +2289,7 @@
 76-37	12468-12472	data	_
 76-38	12473-12474	.	_
 
+Text=Glasso is a regularization technique for fast estimations of optimal models in large networks.
 77-1	12475-12481	Glasso	_
 77-2	12482-12484	is	_
 77-3	12485-12486	a	_
@@ -2229,6 +2306,7 @@
 77-14	12560-12568	networks	_
 77-15	12569-12570	.	_
 
+Text=The basis for these estimations is a saturated partial correlation matrix where spurious connections are controlled for by means of a tuning parameter λ (lambda) for the penalization of the maximum likelihood estimation.
 78-1	12571-12574	The	_
 78-2	12575-12580	basis	_
 78-3	12581-12584	for	_
@@ -2266,6 +2344,7 @@
 78-35	12782-12792	estimation	_
 78-36	12793-12794	.	_
 
+Text=It thus creates 100 network solutions, ranging from fully saturated to fully disconnected.
 79-1	12795-12797	It	_
 79-2	12798-12802	thus	_
 79-3	12803-12810	creates	_
@@ -2282,6 +2361,7 @@
 79-14	12873-12885	disconnected	_
 79-15	12886-12887	.	_
 
+Text=From this range of networks, the graph with an optimal solution of sparsity while still representing the data (i.e., the EBIC score) was selected.
 80-1	12888-12892	From	_
 80-2	12893-12897	this	_
 80-3	12898-12903	range	_
@@ -2312,6 +2392,7 @@
 80-28	13029-13037	selected	_
 80-29	13038-13039	.	_
 
+Text=Covariance-based methods using regularization techniques are accurate in estimating the presence of network connections across a range of fMRI conditions.
 81-1	13040-13056	Covariance-based	_
 81-2	13057-13064	methods	_
 81-3	13065-13070	using	_
@@ -2334,6 +2415,7 @@
 81-20	13183-13193	conditions	_
 81-21	13194-13195	.	_
 
+Text=EBIC scores have been used successfully in fMRI studies that aimed to obtain sparse network models while investigating limited sets of nodes (e.g., regions of interest, ROIs).
 82-1	13196-13200	EBIC	_
 82-2	13201-13207	scores	_
 82-3	13208-13212	have	_
@@ -2367,6 +2449,7 @@
 82-31	13373-13374	)	_
 82-32	13375-13376	.	_
 
+Text=The hyperparameter γ (gamma) was set to a default of 0.5, which produces optimal solutions in most simulated datasets.
 83-1	13377-13380	The	_
 83-2	13381-13395	hyperparameter	_
 83-3	13396-13397	γ	_
@@ -2391,6 +2474,7 @@
 83-22	13489-13497	datasets	_
 83-23	13498-13499	.	_
 
+Text=Third, the Linear Non-Gaussian Orientation, Fixed Structure (LOFS) algorithm was used to estimate the direction of links with the aid of the R3 rule.
 84-1	13500-13505	Third	_
 84-2	13506-13507	,	_
 84-3	13508-13511	the	_
@@ -2421,6 +2505,7 @@
 84-28	13648-13652	rule	_
 84-29	13653-13654	.	_
 
+Text=LOFS uses rules that (like the LiNGAM algorithm) infer orientation in a linear, non-Gaussian system, while orienting links in a pairwise manner, without reference to the additional context in the graph.
 85-1	13655-13659	LOFS	_
 85-2	13660-13664	uses	_
 85-3	13665-13670	rules	_
@@ -2459,6 +2544,7 @@
 85-36	13856-13861	graph	_
 85-37	13862-13863	.	_
 
+Text=Effective connectivity is established by estimating the model with the highest non-gaussianity of the error term.
 86-1	13864-13873	Effective	_
 86-2	13874-13886	connectivity	_
 86-3	13887-13889	is	_
@@ -2477,6 +2563,7 @@
 86-16	13972-13976	term	_
 86-17	13977-13978	.	_
 
+Text=We estimated the degree of non-gaussianity by using Anderson-Darling scores.
 87-1	13979-13981	We	_
 87-2	13982-13991	estimated	_
 87-3	13992-13995	the	_
@@ -2489,6 +2576,7 @@
 87-10	14048-14054	scores	_
 87-11	14055-14056	.	_
 
+Text=The R3 rule was chosen for its conservative character in appointing causal links in combination with high accuracy.
 88-1	14057-14060	The	_
 88-2	14061-14063	R3	_
 88-3	14064-14068	rule	_
@@ -2509,6 +2597,7 @@
 88-18	14163-14171	accuracy	_
 88-19	14172-14173	.	_
 
+Text=Links between functional networks are expected to be reciprocal and, as such, we did not want to force direction, and only attain dominant directions of influence.
 89-1	14174-14179	Links	_
 89-2	14180-14187	between	_
 89-3	14188-14198	functional	_
@@ -2540,6 +2629,7 @@
 89-29	14330-14339	influence	_
 89-30	14340-14341	.	_
 
+Text=Links with ambiguous directions were conceptually taken as bidirectional.
 90-1	14342-14347	Links	_
 90-2	14348-14352	with	_
 90-3	14353-14362	ambiguous	_
@@ -2551,6 +2641,7 @@
 90-9	14401-14414	bidirectional	_
 90-10	14415-14416	.	_
 
+Text=Graph analyses were conducted using TETRAD-V (v.5.3.0; http: //www.phil.cmu.edu/projects/tetrad).
 91-1	14417-14422	Graph	_
 91-2	14423-14431	analyses	_
 91-3	14432-14436	were	_
@@ -2566,6 +2657,7 @@
 91-13	14516-14517	)	_
 91-14	14518-14519	.	_
 
+Text=Modularity We detected a modular structure in the sparse network by using the Louvain algorithm developed by Blondel et al., a search algorithm that optimizes modularity, which is capable of using weighted links and detecting nested clusters (i.e., smaller clusters within larger clusters).
 92-1	14520-14530	Modularity	_
 92-2	14531-14533	We	_
 92-3	14534-14542	detected	_
@@ -2616,6 +2708,7 @@
 92-48	14813-14814	)	_
 92-49	14815-14816	.	_
 
+Text=A methodological study by Rubinov and Sporns concluded that modularity primarily depends on the relative difference between weight magnitudes.
 93-1	14817-14818	A	_
 93-2	14819-14833	methodological	_
 93-3	14834-14839	study	_
@@ -2637,6 +2730,7 @@
 93-19	14948-14958	magnitudes	_
 93-20	14959-14960	.	_
 
+Text=Therefore, in the analysis we decided to include absolutes of negative links (7%), as these can provide valuable extra information regarding the organization of networks by indicating instances of deactivation of functionally related ICs.
 94-1	14961-14970	Therefore	_
 94-2	14971-14972	,	_
 94-3	14973-14975	in	_
@@ -2678,6 +2772,7 @@
 94-39	15200-15203	ICs	_
 94-40	15204-15205	.	_
 
+Text=In conformity with the calculations of links in the IC network, we also detected interactions at the level of IC modules, and thus created an IC-network graph.
 95-1	15206-15208	In	_
 95-2	15209-15219	conformity	_
 95-3	15220-15224	with	_
@@ -2709,6 +2804,7 @@
 95-29	15361-15366	graph	_
 95-30	15367-15368	.	_
 
+Text=General linear model with balloon presses The function of the various ICs and IC modules within the multimodular IC network was inferred by i) examining their spatial patterns, and comparing them with previous reports on the function of such networks, and ii) linking hallucinations to individual IC-time series with the aid of within-scanner hallucination timings.
 96-1	15369-15376	General	_
 96-2	15377-15383	linear	_
 96-3	15384-15389	model	_
@@ -2770,6 +2866,7 @@
 96-59	15730-15737	timings	_
 96-60	15738-15739	.	_
 
+Text=The time courses of consciously experienced AVH (as indicated by individual patients within the scanner with the aid of balloon presses) were linked to the time courses of subject-level ICs by performing a post-hoc general linear model (GLM) analysis with subject-level IC time series as an independent (to be explained) variable and the subject-level model of the BOLD response to the AVH as a dependent (explanatory) variable.
 97-1	15740-15743	The	_
 97-2	15744-15748	time	_
 97-3	15749-15756	courses	_
@@ -2847,6 +2944,7 @@
 97-75	16167-16175	variable	_
 97-76	16176-16177	.	_
 
+Text=The BOLD responses coinciding with AVH were modeled by a boxcar based on the within-scanner balloon presses, which was subsequently convolved with a single gamma function without post-stimulus undershoot to model the hemodynamic response.
 98-1	16178-16181	The	_
 98-2	16182-16186	BOLD	_
 98-3	16187-16196	responses	_
@@ -2884,6 +2982,7 @@
 98-35	16408-16416	response	_
 98-36	16417-16418	.	_
 
+Text=Excluded from this part of the analysis were patients who exhibited continuous AVH (n = 2), recorded no AVH during scanning (n = 1), reported difficulties with the balloon presses (n = 3), or showed> 50% ambiguous (n = 10) or missing (n = 5) AVH responses.
 99-1	16419-16427	Excluded	_
 99-2	16428-16432	from	_
 99-3	16433-16437	this	_
@@ -2948,6 +3047,7 @@
 99-62	16680-16689	responses	_
 99-63	16690-16691	.	_
 
+Text=Consequently, 64 patients qualified for this part of the analysis.
 100-1	16692-16704	Consequently	_
 100-2	16705-16706	,	_
 100-3	16707-16709	64	_
@@ -2961,6 +3061,7 @@
 100-11	16750-16758	analysis	_
 100-12	16759-16760	.	_
 
+Text=The average duration of hallucinations in the scanner was 17.7 s (SD 47.3), with a large range of 0.8–61.5 s across subjects.
 101-1	16761-16764	The	_
 101-2	16765-16772	average	_
 101-3	16773-16781	duration	_
@@ -2988,6 +3089,7 @@
 101-25	16880-16888	subjects	_
 101-26	16889-16890	.	_
 
+Text=Likewise, the frequency of AVH ranged from 1 to 129 hallucinations per scanning session (average 20, SD 21).
 102-1	16891-16899	Likewise	_
 102-2	16900-16901	,	_
 102-3	16902-16905	the	_
@@ -3012,6 +3114,7 @@
 102-22	17001-17002	)	_
 102-23	17003-17004	.	_
 
+Text=Each participant's AVH model was tested with the 98 ICs remaining after discarding noise ICs, resulting in 64 participants × 98 beta values.
 103-1	17005-17009	Each	_
 103-2	17010-17021	participant	_
 103-3	17022-17024	's	_
@@ -3039,6 +3142,7 @@
 103-25	17140-17146	values	_
 103-26	17147-17148	.	_
 
+Text=Calculated beta values were fed into a bootstrapping procedure (n = 10,000 repetitions) in Matlab to create an across-ICs confidence interval.
 104-1	17149-17159	Calculated	_
 104-2	17160-17164	beta	_
 104-3	17165-17171	values	_
@@ -3064,6 +3168,7 @@
 104-23	17284-17292	interval	_
 104-24	17293-17294	.	_
 
+Text=We used an FWE threshold at p <0.05 to identify AVH-related ICs, and also took the numerical beta value into account to keep an open perspective and value relative activation and deactivation of ICs during AVH.
 105-1	17295-17297	We	_
 105-2	17298-17302	used	_
 105-3	17303-17305	an	_
@@ -3104,6 +3209,7 @@
 105-38	17503-17506	AVH	_
 105-39	17507-17508	.	_
 
+Text=These post-hoc analyses provided information on the ‘ distance ’ of ICs to hallucinations and, thus, yielded information on the positioning of hallucination-related ICs in the IC network as a whole.
 106-1	17509-17514	These	_
 106-2	17515-17523	post-hoc	_
 106-3	17524-17532	analyses	_
@@ -3139,6 +3245,7 @@
 106-33	17703-17708	whole	_
 106-34	17709-17710	.	_
 
+Text=Network metrics Individual ICs were examined for the singular influence that they were likely to have in directing the flow of information through the network of IC correlations.
 107-1	17711-17718	Network	_
 107-2	17719-17726	metrics	_
 107-3	17727-17737	Individual	_
@@ -3169,6 +3276,7 @@
 107-28	17876-17888	correlations	_
 107-29	17889-17890	.	_
 
+Text=Interconnecting hubs were calculated using the betweenness-centrality measure adapted for weighted networks, with high values indicating that ICs participated in a large number of relatively short paths between the ICs of the network.
 108-1	17891-17906	Interconnecting	_
 108-2	17907-17911	hubs	_
 108-3	17912-17916	were	_
@@ -3205,6 +3313,7 @@
 108-34	18118-18125	network	_
 108-35	18126-18127	.	_
 
+Text=As interconnecting hubs comprise a large part of the information flow through networks (often bridging different modules), they are considered crucial for efficient communication and control of networks.
 109-1	18128-18130	As	_
 109-2	18131-18146	interconnecting	_
 109-3	18147-18151	hubs	_
@@ -3238,6 +3347,7 @@
 109-31	18325-18333	networks	_
 109-32	18334-18335	.	_
 
+Text=Furthermore, we calculated the weighted degree for a measure of local influence in the network.
 110-1	18336-18347	Furthermore	_
 110-2	18348-18349	,	_
 110-3	18350-18352	we	_
@@ -3256,6 +3366,7 @@
 110-16	18424-18431	network	_
 110-17	18432-18433	.	_
 
+Text=To investigate sources of brain activity that are indirectly linked to AVH (see Introduction), we calculated the weighted degree using only links with the AVH-related ICs identified in the GLM analysis.
 111-1	18434-18436	To	_
 111-2	18437-18448	investigate	_
 111-3	18449-18456	sources	_
@@ -3292,6 +3403,7 @@
 111-34	18630-18638	analysis	_
 111-35	18639-18640	.	_
 
+Text=The accordingly identified ICs were called ‘ tributaries ’ to indicate their hypothesized contributory function in the AVH circuits; a Z-score> 2.56 was used to identify these tributaries and their interconnecting hubs.
 112-1	18641-18644	The	_
 112-2	18645-18656	accordingly	_
 112-3	18657-18667	identified	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Individual Variation in Brain Network Topology Is Linked to Emotional Intelligence Background Social cognitive ability is a significant determinant of functional outcome, and deficits in social cognition are a disabling symptom of psychotic disorders.
 1-1	0-10	Individual	_
 1-2	11-20	Variation	_
 1-3	21-23	in	_
@@ -39,6 +40,7 @@
 1-35	242-251	disorders	_
 1-36	252-253	.	_
 
+Text=The neurobiological underpinnings of social cognition are not well understood, hampering our ability to ameliorate these deficits.
 2-1	254-257	The	_
 2-2	258-273	neurobiological	_
 2-3	274-287	underpinnings	_
@@ -59,6 +61,7 @@
 2-18	376-384	deficits	_
 2-19	385-386	.	_
 
+Text=Objective Using ‘ resting state ’ functional magnetic resonance imaging (rsfMRI) and a trans-diagnostic, data-driven analytic strategy, we sought to identify the brain network basis of emotional intelligence, a key domain of social cognition.
 3-1	387-396	Objective	_
 3-2	397-402	Using	_
 3-3	403-404	‘	_
@@ -100,6 +103,7 @@
 3-39	624-633	cognition	_
 3-40	634-635	.	_
 
+Text=Methods The study included 60 participants with a diagnosis of schizophrenia or schizoaffective disorder and 45 healthy controls.
 4-1	636-643	Methods	_
 4-2	644-647	The	_
 4-3	648-653	study	_
@@ -120,6 +124,7 @@
 4-18	756-764	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 4-19	765-766	.	_
 
+Text=All participants underwent a rsfMRI scan.
 5-1	767-770	All	_
 5-2	771-783	participants	_
 5-3	784-793	underwent	_
@@ -128,6 +133,7 @@
 5-6	803-807	scan	http://maven.renci.org/NeuroBridge/neurobridge#ComputedTomographyScan
 5-7	808-809	.	_
 
+Text=Emotional Intelligence was measured using the Mayer-Salovey-Caruso Emotional Intelligence Test (MSCEIT).
 6-1	810-819	Emotional	_
 6-2	820-832	Intelligence	_
 6-3	833-836	was	_
@@ -143,6 +149,7 @@
 6-13	914-915	)	http://maven.renci.org/NeuroBridge/neurobridge#TestofNonverbalIntelligence
 6-14	916-917	.	_
 
+Text=A connectome-wide analysis examined how each individual brain voxel ’ s connectivity correlated with emotional intelligence using multivariate distance matrix regression (MDMR).
 7-1	918-919	A	_
 7-2	920-935	connectome-wide	_
 7-3	936-944	analysis	_
@@ -169,6 +176,7 @@
 7-24	1095-1096	)	_
 7-25	1097-1098	.	_
 
+Text=Results We identified a region in the left superior parietal lobule (SPL) where individual network topology is linked to emotional intelligence.
 8-1	1099-1106	Results	_
 8-2	1107-1109	We	_
 8-3	1110-1120	identified	_
@@ -194,6 +202,7 @@
 8-23	1232-1244	intelligence	_
 8-24	1245-1246	.	_
 
+Text=Specifically, in high scoring individuals, this region is a node of the Default Mode Network and in low scoring individuals, it is a node of the Dorsal Attention Network.
 9-1	1247-1259	Specifically	_
 9-2	1260-1261	,	_
 9-3	1262-1264	in	_
@@ -228,6 +237,7 @@
 9-32	1412-1419	Network	_
 9-33	1420-1421	.	_
 
+Text=This relationship was observed in both schizophrenia and healthy comparison participants.
 10-1	1422-1426	This	_
 10-2	1427-1439	relationship	_
 10-3	1440-1443	was	_
@@ -241,6 +251,7 @@
 10-11	1498-1510	participants	_
 10-12	1511-1512	.	_
 
+Text=Conclusion Prior studies have demonstrated individual variance in the topology of canonical resting state networks but the cognitive or behavioral relevance of these differences has largely been undetermined.
 11-1	1513-1523	Conclusion	_
 11-2	1524-1529	Prior	_
 11-3	1530-1537	studies	_
@@ -271,6 +282,7 @@
 11-28	1708-1720	undetermined	_
 11-29	1721-1722	.	_
 
+Text=We observe that the left SPL, a region of high individual variance at the cytoarchitectonic level, also demonstrates individual variance in its association with large scale resting-state networks and that network topology is linked to emotional intelligence.
 12-1	1723-1725	We	_
 12-2	1726-1733	observe	_
 12-3	1734-1738	that	_
@@ -312,6 +324,7 @@
 12-39	1970-1982	intelligence	_
 12-40	1983-1984	.	_
 
+Text=Material and Methods Participants The study was approved by the Institutional Review Boards of the University of Pittsburgh (Pittsburgh, PA), McLean Hospital (Belmont, MA), and Beth-Israel Deaconess Medical Center (Boston, MA), and all participants gave written informed consent before participating.
 13-1	1985-1993	Material	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-2	1994-1997	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-3	1998-2005	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -366,6 +379,7 @@
 13-52	2283-2296	participating	_
 13-53	2297-2298	.	_
 
+Text=Participants were recruited from health centers using a variety of means including early psychosis treatment programs and community referral networks.
 14-1	2299-2311	Participants	_
 14-2	2312-2316	were	_
 14-3	2317-2326	recruited	_
@@ -388,6 +402,7 @@
 14-20	2440-2448	networks	_
 14-21	2449-2450	.	_
 
+Text=Participants at the Boston and Pittsburgh sites were recruited for a clinical trial (BICEPS,).
 15-1	2451-2463	Participants	_
 15-2	2464-2466	at	_
 15-3	2467-2470	the	_
@@ -407,6 +422,7 @@
 15-17	2546-2547	)	_
 15-18	2548-2549	.	_
 
+Text=Clinical and imaging data analyzed here was from participants ’ baseline (pre-intervention) evaluation.
 16-1	2550-2558	Clinical	_
 16-2	2559-2562	and	_
 16-3	2563-2570	imaging	_
@@ -424,6 +440,7 @@
 16-15	2644-2654	evaluation	_
 16-16	2655-2656	.	_
 
+Text=Diagnosis was determined using the Structured Clinical Interview for the DSM-IV (SCID).
 17-1	2657-2666	Diagnosis	_
 17-2	2667-2670	was	_
 17-3	2671-2681	determined	_
@@ -440,6 +457,7 @@
 17-14	2744-2745	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 17-15	2746-2747	.	_
 
+Text=Patients were assessed by raters trained in the administration and scoring of the SCID.
 18-1	2748-2756	Patients	_
 18-2	2757-2761	were	_
 18-3	2762-2770	assessed	_
@@ -456,6 +474,7 @@
 18-14	2830-2834	SCID	_
 18-15	2835-2836	.	_
 
+Text=Inclusion criteria for all participants included: (1) age 18–45 years; (2) current IQ ≥ 80 as assessed using the WASI-II; and (3) the ability to read (sixth grade level or higher) and speak fluent English.
 19-1	2837-2846	Inclusion	_
 19-2	2847-2855	criteria	_
 19-3	2856-2859	for	_
@@ -504,6 +523,7 @@
 19-46	3045-3052	English	_
 19-47	3053-3054	.	_
 
+Text=Additional inclusion criteria for psychotic disorder participants were (1) a diagnosis of schizophrenia or schizoaffective disorder verified using the SCID interview; (2) time since first psychotic symptom of ≤ 8 years; and (3) clinically stabilized on antipsychotic medication (assessed via SCID in consensus conferences).
 20-1	3055-3065	Additional	_
 20-2	3066-3075	inclusion	_
 20-3	3076-3084	criteria	_
@@ -560,6 +580,7 @@
 20-54	3386-3387	)	_
 20-55	3388-3389	.	_
 
+Text=Healthy comparison (HC) participants did not meet criteria for any Axis I psychiatric disorder currently or historically.
 21-1	3390-3397	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#Comparison
 21-2	3398-3408	comparison	http://maven.renci.org/NeuroBridge/neurobridge#Comparison
 21-3	3409-3410	(	http://maven.renci.org/NeuroBridge/neurobridge#Comparison
@@ -581,6 +602,7 @@
 21-19	3500-3512	historically	_
 21-20	3513-3514	.	_
 
+Text=Exclusion criteria were (1) significant neurological or medical disorders that may produce cognitive impairment (e.g., seizure disorder, traumatic brain injury); (2) persistent suicidal or homicidal behavior; (3) a recent history of substance abuse or dependence (within the past 3 months); (4) any MRI contraindications and (5) decisional incapacity requiring a guardian.
 22-1	3515-3524	Exclusion	_
 22-2	3525-3533	criteria	_
 22-3	3534-3538	were	_
@@ -653,6 +675,7 @@
 22-70	3897-3905	guardian	_
 22-71	3906-3907	.	_
 
+Text=Demographic, clinical, and medication regimen information are summarized in Supplemental Table 1.
 23-1	3908-3919	Demographic	_
 23-2	3920-3921	,	_
 23-3	3922-3930	clinical	_
@@ -669,6 +692,7 @@
 23-14	4005-4006	1	_
 23-15	4007-4008	.	_
 
+Text=Cognitive Testing Participant emotional intelligence was assessed using the MATRICS Consensus Cognitive Battery (MCCB).
 24-1	4009-4018	Cognitive	_
 24-2	4019-4026	Testing	_
 24-3	4027-4038	Participant	_
@@ -687,6 +711,7 @@
 24-16	4128-4129	)	http://maven.renci.org/NeuroBridge/neurobridge#CognitiveDisorder
 24-17	4130-4131	.	_
 
+Text=This testing battery includes 7 composite scores of processing speed, attention, working memory, verbal learning, visual learning, problem solving, and social cognition.
 25-1	4132-4136	This	_
 25-2	4137-4144	testing	_
 25-3	4145-4152	battery	_
@@ -717,6 +742,7 @@
 25-28	4297-4306	cognition	_
 25-29	4307-4308	.	_
 
+Text=The social cognition score is calculated from the Mayer-Salovey-Caruso Emotional Intelligence Test (MSCEIT) “ managing emotions ” subscale.
 26-1	4309-4312	The	_
 26-2	4313-4319	social	_
 26-3	4320-4329	cognition	_
@@ -739,6 +765,7 @@
 26-20	4441-4449	subscale	_
 26-21	4450-4451	.	_
 
+Text=The MSCEIT includes a series of vignettes.
 27-1	4452-4455	The	_
 27-2	4456-4462	MSCEIT	_
 27-3	4463-4471	includes	_
@@ -748,6 +775,7 @@
 27-7	4484-4493	vignettes	_
 27-8	4494-4495	.	_
 
+Text=Participants are presented with a series of possible actions related to each vignette and asked to assess the effects of each action on the actor ’ s or other characters ’ mood states or behaviors.
 28-1	4496-4508	Participants	_
 28-2	4509-4512	are	_
 28-3	4513-4522	presented	_
@@ -785,6 +813,7 @@
 28-35	4683-4692	behaviors	_
 28-36	4693-4694	.	_
 
+Text=Responses are based on a Likert-type scale.
 29-1	4695-4704	Responses	_
 29-2	4705-4708	are	_
 29-3	4709-4714	based	_
@@ -794,6 +823,7 @@
 29-7	4732-4737	scale	_
 29-8	4738-4739	.	_
 
+Text=We used age and sex normed T scores, which were calculated using the MCCB scoring package.
 30-1	4740-4742	We	_
 30-2	4743-4747	used	_
 30-3	4748-4751	age	_
@@ -813,6 +843,7 @@
 30-17	4823-4830	package	_
 30-18	4831-4832	.	_
 
+Text=MRI data acquisition Boston & Belmont sites Data were acquired on 3T Siemens Trio (TIM upgrade) scanners using a standard head coil.
 31-1	4833-4836	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 31-2	4837-4841	data	_
 31-3	4842-4853	acquisition	_
@@ -839,6 +870,7 @@
 31-24	4962-4966	coil	_
 31-25	4967-4968	.	_
 
+Text=The echoplanar imaging parameters were as follows: repetition time, 3000 milliseconds; echo time, 30 milliseconds; flip angle, 85°; 3 × 3 × 3-mm voxels; and 47 axial sections collected with interleaved acquisition and no gap.
 32-1	4969-4972	The	_
 32-2	4973-4983	echoplanar	_
 32-3	4984-4991	imaging	_
@@ -884,6 +916,7 @@
 32-43	5198-5201	gap	_
 32-44	5202-5203	.	_
 
+Text=Structural data included a high-resolution T1 image.
 33-1	5204-5214	Structural	_
 33-2	5215-5219	data	_
 33-3	5220-5228	included	_
@@ -893,6 +926,7 @@
 33-7	5250-5255	image	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 33-8	5256-5257	.	_
 
+Text=In addition, all participants underwent a resting fMRI run with the instructions ‘ remain still, stay awake, and keep your eyes open ’.
 34-1	5258-5260	In	_
 34-2	5261-5269	addition	_
 34-3	5270-5271	,	_
@@ -921,6 +955,7 @@
 34-26	5394-5395	’	_
 34-27	5396-5397	.	_
 
+Text=Each functional run lasted 6.2 minutes (124 time points).
 35-1	5398-5402	Each	_
 35-2	5403-5413	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 35-3	5414-5417	run	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -934,6 +969,7 @@
 35-11	5455-5456	)	_
 35-12	5457-5458	.	_
 
+Text=Pittsburgh site Data were acquired on a 3T Siemens Verio scanner using a standard head coil.
 36-1	5459-5469	Pittsburgh	_
 36-2	5470-5474	site	_
 36-3	5475-5479	Data	_
@@ -952,6 +988,7 @@
 36-16	5546-5550	coil	_
 36-17	5551-5552	.	_
 
+Text=The echoplanar imaging parameters were as follows: repetition time, 3000 milliseconds; echo time, 30 milliseconds; flip angle, 85°; 3 × 3 × 3-mm voxels; and 45 axial sections collected with interleaved acquisition and no gap.
 37-1	5553-5556	The	_
 37-2	5557-5567	echoplanar	_
 37-3	5568-5575	imaging	_
@@ -997,6 +1034,7 @@
 37-43	5782-5785	gap	_
 37-44	5786-5787	.	_
 
+Text=Structural data included a high-resolution T1 image.
 38-1	5788-5798	Structural	_
 38-2	5799-5803	data	_
 38-3	5804-5812	included	_
@@ -1006,6 +1044,7 @@
 38-7	5834-5839	image	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 38-8	5840-5841	.	_
 
+Text=In addition, all participants underwent a resting fMRI run that lasted 6.2 minutes (124 time points).
 39-1	5842-5844	In	_
 39-2	5845-5853	addition	_
 39-3	5854-5855	,	_
@@ -1027,6 +1066,7 @@
 39-19	5944-5945	)	_
 39-20	5946-5947	.	_
 
+Text=MRI data processing The imaging data was preprocessed using DPABI image processing software.
 40-1	5948-5951	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 40-2	5952-5956	data	_
 40-3	5957-5967	processing	_
@@ -1042,6 +1082,7 @@
 40-13	6031-6039	software	_
 40-14	6040-6041	.	_
 
+Text=To minimize effects of scanner signal stabilization, the first four images were omitted from all analysis.
 41-1	6042-6044	To	_
 41-2	6045-6053	minimize	_
 41-3	6054-6061	effects	_
@@ -1061,6 +1102,7 @@
 41-17	6140-6148	analysis	_
 41-18	6149-6150	.	_
 
+Text=Scans with head motion exceeding 3 mm or 3° of maximum rotation through the resting-state run were discarded (n = 28).
 42-1	6151-6156	Scans	_
 42-2	6157-6161	with	_
 42-3	6162-6166	head	_
@@ -1086,6 +1128,7 @@
 42-23	6269-6270	)	_
 42-24	6271-6272	.	_
 
+Text=Functional and structural images were co-registered.
 43-1	6273-6283	Functional	_
 43-2	6284-6287	and	_
 43-3	6288-6298	structural	_
@@ -1094,6 +1137,7 @@
 43-6	6311-6324	co-registered	_
 43-7	6325-6326	.	_
 
+Text=Structural images were then normalized and segmented into gray, white and CSF partitions using the DARTEL technique.
 44-1	6327-6337	Structural	_
 44-2	6338-6344	images	_
 44-3	6345-6349	were	_
@@ -1114,6 +1158,7 @@
 44-18	6434-6443	technique	_
 44-19	6444-6445	.	_
 
+Text=A Friston 24-parameter model was used to regress out head motion effects from the realigned data.
 45-1	6446-6447	A	_
 45-2	6448-6455	Friston	_
 45-3	6456-6468	24-parameter	_
@@ -1132,6 +1177,7 @@
 45-16	6538-6542	data	_
 45-17	6543-6544	.	_
 
+Text=CSF and white matter signals, global signal as well as the linear trend were also regressed out.
 46-1	6545-6548	CSF	_
 46-2	6549-6552	and	_
 46-3	6553-6558	white	_
@@ -1152,6 +1198,7 @@
 46-18	6638-6641	out	_
 46-19	6642-6643	.	_
 
+Text=The decision to regress the global signal was based on prior demonstration that the combination of this step plus volume-wise ‘ scrubbing ’ for head ‘ micromovements ’ is an effective strategy for removal of motion artifacts.
 47-1	6644-6647	The	_
 47-2	6648-6656	decision	_
 47-3	6657-6659	to	_
@@ -1191,6 +1238,7 @@
 47-37	6859-6868	artifacts	_
 47-38	6869-6870	.	_
 
+Text=After realigning, slice timing correction, and co-registration, framewise displacement (FD) was calculated for all resting state volumes.
 48-1	6871-6876	After	_
 48-2	6877-6887	realigning	_
 48-3	6888-6889	,	_
@@ -1215,6 +1263,7 @@
 48-22	7005-7012	volumes	_
 48-23	7013-7014	.	_
 
+Text=All volumes within a scan with a FD greater than 0.2-mm were censored.
 49-1	7015-7018	All	_
 49-2	7019-7026	volumes	_
 49-3	7027-7033	within	_
@@ -1230,6 +1279,7 @@
 49-13	7076-7084	censored	_
 49-14	7085-7086	.	_
 
+Text=Any scan with at least 50% of volumes requiring censoring was discarded (n = 18).
 50-1	7087-7090	Any	_
 50-2	7091-7095	scan	_
 50-3	7096-7100	with	_
@@ -1250,6 +1300,7 @@
 50-18	7169-7170	)	_
 50-19	7171-7172	.	_
 
+Text=After nuisance covariate regression, the resultant data were band-pass filtered to select low frequency (0.01 – 0.08Hz) signals.
 51-1	7173-7178	After	_
 51-2	7179-7187	nuisance	_
 51-3	7188-7197	covariate	_
@@ -1273,6 +1324,7 @@
 51-21	7296-7303	signals	_
 51-22	7304-7305	.	_
 
+Text=Filtered data were normalized by DARTEL into MNI space and then smoothed by a Gaussian kernel of 8mm3 full-width at half maximum (FWHM).
 52-1	7306-7314	Filtered	_
 52-2	7315-7319	data	_
 52-3	7320-7324	were	_
@@ -1300,6 +1352,7 @@
 52-25	7442-7443	)	_
 52-26	7444-7445	.	_
 
+Text=Voxels within a group derived gray matter mask were used for further analyses.
 53-1	7446-7452	Voxels	_
 53-2	7453-7459	within	_
 53-3	7460-7461	a	_
@@ -1315,6 +1368,7 @@
 53-13	7515-7523	analyses	_
 53-14	7524-7525	.	_
 
+Text=After preprocessing, a total of 60 participants with schizophrenia or schizoaffective disorder, and 45 HC participants across all sites remained in the study (Supplemental Table 1).
 54-1	7526-7531	After	_
 54-2	7532-7545	preprocessing	_
 54-3	7546-7547	,	_
@@ -1347,6 +1401,7 @@
 54-30	7709-7710	)	_
 54-31	7711-7712	.	_
 
+Text=Functional Connectivity Analysis Multivariate Distance Matrix Regression We performed a connectome-wide association study using multivariate distance matrix regression (MDMR) as originally described in.
 55-1	7713-7723	Functional	_
 55-2	7724-7736	Connectivity	_
 55-3	7737-7745	Analysis	_
@@ -1374,6 +1429,7 @@
 55-25	7914-7916	in	_
 55-26	7917-7918	.	_
 
+Text=Briefly, MDMR tests every voxel to determine if whole-brain connectivity to that voxel is more similar in individuals with similar MSCEIT score than in individuals with dissimilar MSCEIT score.
 56-1	7919-7926	Briefly	_
 56-2	7927-7928	,	_
 56-3	7929-7933	MDMR	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -1406,6 +1462,7 @@
 56-30	8107-8112	score	_
 56-31	8113-8114	.	_
 
+Text=As previously described, this analysis occurs in several stages: First, a seed-to-voxel connectivity map is generated by using an individual voxel ’ s BOLD signal time-course to calculate the temporal Pearson ’ s correlation coefficients between that voxel and all other gray matter voxels (Figure 1B).
 57-1	8115-8117	As	_
 57-2	8118-8128	previously	_
 57-3	8129-8138	described	_
@@ -1459,6 +1516,7 @@
 57-51	8420-8421	)	_
 57-52	8422-8423	.	_
 
+Text=These maps are generated for every participant.
 58-1	8424-8429	These	_
 58-2	8430-8434	maps	_
 58-3	8435-8438	are	_
@@ -1468,6 +1526,7 @@
 58-7	8459-8470	participant	_
 58-8	8471-8472	.	_
 
+Text=In the second stage, the temporal correlation coefficients for each voxel in the connectivity map is correlated with the values of corresponding voxels in maps generated from every other participant.
 59-1	8473-8475	In	_
 59-2	8476-8479	the	_
 59-3	8480-8486	second	_
@@ -1501,6 +1560,7 @@
 59-31	8661-8672	participant	_
 59-32	8673-8674	.	_
 
+Text=This Pearson ’ s correlation coefficient, r is a measure of the similarity of whole-brain connectivity to that voxel between patients.
 60-1	8675-8679	This	_
 60-2	8680-8687	Pearson	_
 60-3	8688-8689	’	_
@@ -1525,6 +1585,7 @@
 60-22	8801-8809	patients	_
 60-23	8810-8811	.	_
 
+Text=This value is used to calculate between-subject distance (or dissimilarity) using the metric where i and j are two subjects and r is the correlation coefficient above.
 61-1	8812-8816	This	_
 61-2	8817-8822	value	_
 61-3	8823-8825	is	_
@@ -1556,12 +1617,14 @@
 61-29	8975-8980	above	_
 61-30	8981-8982	.	_
 
+Text=(Figure 1C).
 62-1	8983-8984	(	_
 62-2	8985-8991	Figure	_
 62-3	8992-8994	1C	_
 62-4	8995-8996	)	_
 62-5	8997-8998	.	_
 
+Text=The next stage tests the relationship between a given variable (here MSCEIT score) and the inter-subject distances in connectivity generated in the previous stage.
 63-1	8999-9002	The	_
 63-2	9003-9007	next	_
 63-3	9008-9013	stage	_
@@ -1590,6 +1653,7 @@
 63-26	9158-9163	stage	_
 63-27	9164-9165	.	_
 
+Text=Broadly speaking, this process consists of ANOVA-like hypothesis testing where the tested relationship is between a variable of interest and a matrix of distances.
 64-1	9166-9173	Broadly	_
 64-2	9174-9182	speaking	_
 64-3	9183-9184	,	_
@@ -1617,6 +1681,7 @@
 64-25	9320-9329	distances	_
 64-26	9330-9331	.	_
 
+Text=This process was originally termed multivariate distance matrix regression by Zapala and Schork and used to test associations between gene expression and related variables.
 65-1	9332-9336	This	_
 65-2	9337-9344	process	_
 65-3	9345-9348	was	_
@@ -1643,11 +1708,13 @@
 65-24	9494-9503	variables	_
 65-25	9504-9505	.	_
 
+Text=Shezhad et al.
 66-1	9506-9513	Shezhad	_
 66-2	9514-9516	et	_
 66-3	9517-9519	al	_
 66-4	9520-9521	.	_
 
+Text=then used their framework for testing the relationship between variables of interest and a matrix of distances where the matrix is between-subject similarity in whole-brain functional connectivity.
 67-1	9522-9526	then	_
 67-2	9527-9531	used	_
 67-3	9532-9537	their	_
@@ -1677,6 +1744,7 @@
 67-27	9706-9718	connectivity	_
 67-28	9719-9720	.	_
 
+Text=This test consists of first forming a distance matrix among n participants where d = the between subject distance metric calculated above.
 68-1	9721-9725	This	_
 68-2	9726-9730	test	_
 68-3	9731-9739	consists	_
@@ -1701,6 +1769,7 @@
 68-22	9853-9858	above	_
 68-23	9859-9860	.	_
 
+Text=Next, this matrix is used to create a Gower ’ s centered matrix, in which n is the number of participants, I is the n × n identity matrix, and 1 is a vector of n 1s.
 69-1	9861-9865	Next	_
 69-2	9866-9867	,	_
 69-3	9868-9872	this	_
@@ -1744,6 +1813,7 @@
 69-41	10027-10029	1s	_
 69-42	10030-10031	.	_
 
+Text=The F statistic for assessing the relationship between a predictor variable (e.g.
 70-1	10032-10035	The	_
 70-2	10036-10037	F	_
 70-3	10038-10047	statistic	_
@@ -1759,6 +1829,7 @@
 70-13	10110-10113	e.g	_
 70-14	10114-10115	.	_
 
+Text=MSCEIT score) and dissimilarities in connectivity is calculated as follows: For m predictor variables, let X be a n× m design matrix of predictor values, and let H = X (XT X) −1 XT be the associated n × m “ hat ” matrix.
 71-1	10116-10122	MSCEIT	_
 71-2	10123-10128	score	_
 71-3	10129-10130	)	_
@@ -1811,12 +1882,14 @@
 71-50	10335-10341	matrix	_
 71-51	10342-10343	.	_
 
+Text=(Figure 1D).
 72-1	10344-10345	(	_
 72-2	10346-10352	Figure	_
 72-3	10353-10355	1D	_
 72-4	10356-10357	)	_
 72-5	10358-10359	.	_
 
+Text=This process is repeated for every voxel.
 73-1	10360-10364	This	_
 73-2	10365-10372	process	_
 73-3	10373-10375	is	_
@@ -1826,6 +1899,7 @@
 73-7	10395-10400	voxel	_
 73-8	10401-10402	.	_
 
+Text=The result is a whole brain map of how significantly MSCEIT scores are related to functional connectivity at every voxel (Figure 1E).
 74-1	10403-10406	The	_
 74-2	10407-10413	result	_
 74-3	10414-10416	is	_
@@ -1852,6 +1926,7 @@
 74-24	10536-10537	)	_
 74-25	10538-10539	.	_
 
+Text=From that map, ROIs for follow-up analysis are defined based on clusters of significant voxelwise F-statistics.
 75-1	10540-10544	From	_
 75-2	10545-10549	that	_
 75-3	10550-10553	map	_
@@ -1871,6 +1946,7 @@
 75-17	10639-10651	F-statistics	_
 75-18	10652-10653	.	_
 
+Text=To correct for multiple comparisons, a nonparametric permutation was calculated for voxels that exceeded the significance threshold of p <0.001 and clusters of such with an extent threshold of p <0.05, with a null distribution calculated from 5000 such permutations (Figure 1F).
 76-1	10654-10656	To	_
 76-2	10657-10664	correct	_
 76-3	10665-10668	for	_
@@ -1921,6 +1997,7 @@
 76-48	10936-10937	)	_
 76-49	10938-10939	.	_
 
+Text=Scanner site was included as a covariate in this analysis.
 77-1	10940-10947	Scanner	_
 77-2	10948-10952	site	_
 77-3	10953-10956	was	_
@@ -1933,6 +2010,7 @@
 77-10	10989-10997	analysis	_
 77-11	10998-10999	.	_
 
+Text=The voxelwise threshold was selected to maximize the likelihood of replicability.
 78-1	11000-11003	The	_
 78-2	11004-11013	voxelwise	_
 78-3	11014-11023	threshold	_
@@ -1946,6 +2024,7 @@
 78-11	11067-11080	replicability	_
 78-12	11081-11082	.	_
 
+Text=This analysis identifies anatomical regions where MSCEIT score is significantly related to functional connectivity.
 79-1	11083-11087	This	_
 79-2	11088-11096	analysis	_
 79-3	11097-11107	identifies	_
@@ -1962,6 +2041,7 @@
 79-14	11185-11197	connectivity	_
 79-15	11198-11199	.	_
 
+Text=Recall that at each brain voxel MDMR calculates a distance metric r between subjects by first calculating the temporal correlation in BOLD signal between that voxel and every other brain voxel.
 80-1	11200-11206	Recall	_
 80-2	11207-11211	that	_
 80-3	11212-11214	at	_
@@ -1995,6 +2075,7 @@
 80-31	11387-11392	voxel	_
 80-32	11393-11394	.	_
 
+Text=The generated set of temporal correlations is then correlated with the analogous set of temporal correlations from a different subject.
 81-1	11395-11398	The	_
 81-2	11399-11408	generated	_
 81-3	11409-11412	set	_
@@ -2017,6 +2098,7 @@
 81-20	11522-11529	subject	_
 81-21	11530-11531	.	_
 
+Text=The resulting between-subject correlation determines a distance metric that is a measure of between-subject similarity (or dissimilarity) in terms of functional connectivity at that voxel.
 82-1	11532-11535	The	_
 82-2	11536-11545	resulting	_
 82-3	11546-11561	between-subject	_
@@ -2046,6 +2128,7 @@
 82-27	11716-11721	voxel	_
 82-28	11722-11723	.	_
 
+Text=Notably, this process disregards spatial information about the voxels that gave rise to between-individual distances e.g.
 83-1	11724-11731	Notably	_
 83-2	11732-11733	,	_
 83-3	11734-11738	this	_
@@ -2065,6 +2148,7 @@
 83-17	11842-11845	e.g	_
 83-18	11846-11847	.	_
 
+Text=Two individuals may be very distant (dissimilar) in the functional connectivity of a voxel in the precuneus, but is their dissimilarity driven by differences in precuneus connectivity to the mPFC or temporal lobe or parietal lobe or all of the above?
 84-1	11848-11851	Two	_
 84-2	11852-11863	individuals	_
 84-3	11864-11867	may	_
@@ -2111,6 +2195,7 @@
 84-44	12095-12100	above	_
 84-45	12101-12102	?	_
 
+Text=MDMR as implemented by Shehzad et al.
 85-1	12103-12107	MDMR	_
 85-2	12108-12110	as	_
 85-3	12111-12122	implemented	_
@@ -2120,6 +2205,7 @@
 85-7	12137-12139	al	_
 85-8	12140-12141	.	_
 
+Text=does not display this information.
 86-1	12142-12146	does	_
 86-2	12147-12150	not	_
 86-3	12151-12158	display	_
@@ -2127,6 +2213,7 @@
 86-5	12164-12175	information	_
 86-6	12176-12177	.	_
 
+Text=To visualize this spatial information requires follow-on seed-based connectivity analysis.
 87-1	12178-12180	To	_
 87-2	12181-12190	visualize	_
 87-3	12191-12195	this	_
@@ -2139,11 +2226,13 @@
 87-10	12259-12267	analysis	_
 87-11	12268-12269	.	_
 
+Text=Shehzad et al.
 88-1	12270-12277	Shehzad	_
 88-2	12278-12280	et	_
 88-3	12281-12283	al	_
 88-4	12284-12285	.	_
 
+Text=and others have termed this follow-on analysis ‘ post-hoc ’ testing to make clear that this should not be considered independent hypothesis testing nor should it be considered independent validation of the original MDMR finding.
 89-1	12286-12289	and	_
 89-2	12290-12296	others	_
 89-3	12297-12301	have	_
@@ -2181,6 +2270,7 @@
 89-35	12506-12513	finding	_
 89-36	12514-12515	.	_
 
+Text=As in these prior manuscripts, we conducted the MDMR analysis to find anatomical regions where connectivity significantly varied with MSCEIT score and then conducted follow-on seed-based connectivity analysis to examine the spatial distribution of these connectivity differences.
 90-1	12516-12518	As	_
 90-2	12519-12521	in	_
 90-3	12522-12527	these	_
@@ -2221,6 +2311,7 @@
 90-38	12784-12795	differences	_
 90-39	12796-12797	.	_
 
+Text=Seed based connectivity analyses For seed based connectivity analyses we used DPABI to extract the time course of the BOLD signal in a given ROI.
 91-1	12798-12802	Seed	_
 91-2	12803-12808	based	_
 91-3	12809-12821	connectivity	_
@@ -2248,6 +2339,7 @@
 91-25	12939-12942	ROI	_
 91-26	12943-12944	.	_
 
+Text=We then generated whole brain maps of z-transformed Pearson ’ s correlation coefficients.
 92-1	12945-12947	We	_
 92-2	12948-12952	then	_
 92-3	12953-12962	generated	_
@@ -2263,6 +2355,7 @@
 92-13	13021-13033	coefficients	_
 92-14	13034-13035	.	_
 
+Text=These maps were entered into SPM12 (Statistical and Parametric Mapping, http: //www.fil.ion.ucl.ac.uk/spm).
 93-1	13036-13041	These	_
 93-2	13042-13046	maps	_
 93-3	13047-13051	were	_
@@ -2281,6 +2374,7 @@
 93-16	13145-13146	)	_
 93-17	13147-13148	.	_
 
+Text=For ROIs generated from MDMR above, we regressed the maps against MSCEIT score to generate spatial maps of how whole brain functional connectivity to the ROIs varies with MSCEIT score.
 94-1	13149-13152	For	_
 94-2	13153-13157	ROIs	_
 94-3	13158-13167	generated	_
@@ -2314,6 +2408,7 @@
 94-31	13328-13333	score	_
 94-32	13334-13335	.	_
 
+Text=To control for participant variables of non-interest, we performed these analyses with age, race, diagnosis (Schizophrenia or Healthy Comparison), scanner site, and sex as additional covariates.
 95-1	13336-13338	To	_
 95-2	13339-13346	control	_
 95-3	13347-13350	for	_
@@ -2349,6 +2444,7 @@
 95-33	13526-13536	covariates	_
 95-34	13537-13538	.	_
 
+Text=To control for movement effects we also included individual mean FD (framewise displacement) as a covariate as a subject-level correction for motion effects in all subjects.
 96-1	13539-13541	To	_
 96-2	13542-13549	control	_
 96-3	13550-13553	for	_
@@ -2379,6 +2475,7 @@
 96-28	13705-13713	subjects	_
 96-29	13714-13715	.	_
 
+Text=In addition to including mean FD as a covariate in the seed-based connectivity analysis, we did not observe a significant correlation between MSCEIT score and either mean within-scanner movement as measured by average framewise displacement (r=−.109, p=.268), nor did we observe a significant correlation between MSCEIT score and the number of volumes remaining after preprocessing for movement (r=0.14 and p=0.15).
 97-1	13716-13718	In	_
 97-2	13719-13727	addition	_
 97-3	13728-13730	to	_
@@ -2448,6 +2545,7 @@
 97-67	14136-14137	)	_
 97-68	14138-14139	.	_
 
+Text=To control for the effects of medication regimen, the analyses were re-performed with prescribed anti-psychotic dosage (in chlorpromazine equivalents, CPZE) as a covariate within the schizophrenia/schizoaffective group.
 98-1	14140-14142	To	_
 98-2	14143-14150	control	_
 98-3	14151-14154	for	_
@@ -2481,6 +2579,7 @@
 98-31	14357-14362	group	_
 98-32	14363-14364	.	_
 
+Text=For other, subsequent ROI based connectivity analyses described below, we used DPABI to calculate the time course of the average BOLD signal in a sphere, and then generated whole brain maps of z-transformed Pearson ’ s correlation coefficients.
 99-1	14365-14368	For	_
 99-2	14369-14374	other	_
 99-3	14375-14376	,	_
@@ -2524,6 +2623,7 @@
 99-41	14599-14611	coefficients	_
 99-42	14612-14613	.	_
 
+Text=We then used SPM12 to generate single-sample t-tests of these connectivity maps.
 100-1	14614-14616	We	_
 100-2	14617-14621	then	_
 100-3	14622-14626	used	_
@@ -2538,6 +2638,7 @@
 100-12	14689-14693	maps	_
 100-13	14694-14695	.	_
 
+Text=Correlations between ROI to ROI connectivity and emotional intelligence Partial correlation coefficients and statistic values were calculated in R using the ppcor package.
 101-1	14696-14708	Correlations	_
 101-2	14709-14716	between	_
 101-3	14717-14720	ROI	_
@@ -2563,6 +2664,7 @@
 101-23	14859-14866	package	_
 101-24	14867-14868	.	_
 
+Text=Nth-order partial correlation coefficients are Pearson ’ s correlations between two variables of interest while controlling for n covariates.
 102-1	14869-14878	Nth-order	_
 102-2	14879-14886	partial	_
 102-3	14887-14898	correlation	_
@@ -2584,12 +2686,14 @@
 102-19	14999-15009	covariates	_
 102-20	15010-15011	.	_
 
+Text=Categorical covariates were binarized.
 103-1	15012-15023	Categorical	_
 103-2	15024-15034	covariates	_
 103-3	15035-15039	were	_
 103-4	15040-15049	binarized	_
 103-5	15050-15051	.	_
 
+Text=Structural MRI Analysis Structural MPRAGE images were checked for artifacts and were processed using Freesurfer 6 (http: //surfer.nmr.mgh.harvard.edu/).
 104-1	15052-15062	Structural	_
 104-2	15063-15066	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 104-3	15067-15075	Analysis	_
@@ -2613,6 +2717,7 @@
 104-21	15205-15206	)	_
 104-22	15207-15208	.	_
 
+Text=The images went through first-level auto-reconstruction to register the scans in standard space and skull strip the brains.
 105-1	15209-15212	The	_
 105-2	15213-15219	images	_
 105-3	15220-15224	went	_
@@ -2633,6 +2738,7 @@
 105-18	15325-15331	brains	_
 105-19	15332-15333	.	_
 
+Text=One rater (OL) edited the images to remove dura, sinuses and vessels that could interfere with segmentation.
 106-1	15334-15337	One	_
 106-2	15338-15343	rater	_
 106-3	15344-15345	(	_
@@ -2655,6 +2761,7 @@
 106-20	15432-15444	segmentation	_
 106-21	15445-15446	.	_
 
+Text=After visual inspection, 98 images were retained for analysis.
 107-1	15447-15452	After	_
 107-2	15453-15459	visual	_
 107-3	15460-15470	inspection	_
@@ -2667,6 +2774,7 @@
 107-10	15501-15509	analysis	_
 107-11	15510-15511	.	_
 
+Text=The images then went through second and third level auto-reconstruction to register the brains to the Desikan-Killiany atlas and extract sulcal depth measurements.
 108-1	15512-15515	The	_
 108-2	15516-15522	images	_
 108-3	15523-15527	then	_
@@ -2692,6 +2800,7 @@
 108-23	15662-15674	measurements	_
 108-24	15675-15676	.	_
 
+Text=Sulcal depth in Freesurfer is the integrated dot product of the movement vector and the surface normal during inflation.
 109-1	15677-15683	Sulcal	_
 109-2	15684-15689	depth	_
 109-3	15690-15692	in	_
@@ -2713,6 +2822,7 @@
 109-19	15787-15796	inflation	_
 109-20	15797-15798	.	_
 
+Text=Deep regions therefore are expressed as positive values as they move outwards while more superficial regions move inwards.
 110-1	15799-15803	Deep	_
 110-2	15804-15811	regions	_
 110-3	15812-15821	therefore	_
@@ -2733,6 +2843,7 @@
 110-18	15913-15920	inwards	_
 110-19	15921-15922	.	_
 
+Text=Units are the standard deviation from the median value.
 111-1	15923-15928	Units	_
 111-2	15929-15932	are	_
 111-3	15933-15936	the	_
@@ -2744,6 +2855,7 @@
 111-9	15972-15977	value	_
 111-10	15978-15979	.	_
 
+Text=Table and figure generation Graphs of relationships between emotional intelligence and structural/functional measures were generated using R. Projections of ROIs and T contrast maps onto cortical surfaces was accomplished using FSL, Caret and Surf Ice (www.nitrc.org/projects/surfice/).
 112-1	15980-15985	Table	_
 112-2	15986-15989	and	_
 112-3	15990-15996	figure	_

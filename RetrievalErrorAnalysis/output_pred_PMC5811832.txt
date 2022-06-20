@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Naltrexone ameliorates functional network abnormalities in alcohol‐dependent individuals Abstract Naltrexone, an opioid receptor antagonist, is commonly used as a relapse prevention medication in alcohol and opiate addiction, but its efficacy and the mechanisms underpinning its clinical usefulness are not well characterized.
 1-1	0-10	Naltrexone	_
 1-2	11-22	ameliorates	_
 1-3	23-33	functional	_
@@ -48,6 +49,7 @@
 1-44	315-328	characterized	_
 1-45	329-330	.	_
 
+Text=In the current study, we examined the effects of 50‐mg naltrexone compared with placebo on neural network changes associated with substance dependence in 21 alcohol and 36 poly‐drug‐dependent individuals compared with 36 healthy volunteers.
 2-1	331-333	In	_
 2-2	334-337	the	_
 2-3	338-345	current	_
@@ -85,6 +87,7 @@
 2-35	561-571	volunteers	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 2-36	572-573	.	_
 
+Text=Graph theoretic and network‐based statistical analysis of resting‐state functional magnetic resonance imaging (MRI) data revealed that alcohol‐dependent subjects had reduced functional connectivity of a dispersed network compared with both poly‐drug‐dependent and healthy subjects.
 3-1	574-579	Graph	_
 3-2	580-589	theoretic	_
 3-3	590-593	and	_
@@ -122,6 +125,7 @@
 3-35	848-856	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 3-36	857-858	.	_
 
+Text=Higher local efficiency was observed in both patient groups, indicating clustered and segregated network topology and information processing.
 4-1	859-865	Higher	_
 4-2	866-871	local	_
 4-3	872-882	efficiency	_
@@ -143,6 +147,7 @@
 4-19	990-1000	processing	_
 4-20	1001-1002	.	_
 
+Text=Naltrexone normalized heightened local efficiency of the neural network in alcohol‐dependent individuals, to the same levels as healthy volunteers.
 5-1	1003-1013	Naltrexone	_
 5-2	1014-1024	normalized	_
 5-3	1025-1035	heightened	_
@@ -165,6 +170,7 @@
 5-20	1140-1150	volunteers	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 5-21	1151-1152	.	_
 
+Text=Naltrexone failed to have an effect on the local efficiency in abstinent poly‐substance‐dependent individuals.
 6-1	1153-1163	Naltrexone	_
 6-2	1164-1170	failed	_
 6-3	1171-1173	to	_
@@ -181,6 +187,7 @@
 6-14	1251-1262	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 6-15	1263-1264	.	_
 
+Text=Across groups, local efficiency was associated with substance, but no alcohol exposure implicating local efficiency as a potential premorbid risk factor in alcohol use disorders that can be ameliorated by naltrexone.
 7-1	1265-1271	Across	_
 7-2	1272-1278	groups	_
 7-3	1279-1280	,	_
@@ -216,6 +223,7 @@
 7-33	1472-1482	naltrexone	_
 7-34	1483-1484	.	_
 
+Text=These findings suggest one possible mechanism for the clinical effects of naltrexone, namely, the amelioration of disrupted network topology.
 8-1	1485-1490	These	_
 8-2	1491-1499	findings	_
 8-3	1500-1507	suggest	_
@@ -239,6 +247,7 @@
 8-21	1619-1627	topology	_
 8-22	1628-1629	.	_
 
+Text=Materials and Methods Participants Details of study design and procedures are reported elsewhere (Paterson et al.
 9-1	1630-1639	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-2	1640-1643	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-3	1644-1651	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -258,10 +267,12 @@
 9-17	1741-1743	al	_
 9-18	1744-1745	.	_
 
+Text=2015).
 10-1	1746-1750	2015	_
 10-2	1751-1752	)	_
 10-3	1753-1754	.	_
 
+Text=Inclusion criteria included individuals who met DSM‐IV criteria for current or prior AD, or another substance of dependence (e.g.
 11-1	1755-1764	Inclusion	_
 11-2	1765-1773	criteria	_
 11-3	1774-1782	included	_
@@ -285,6 +296,7 @@
 11-21	1882-1885	e.g	_
 11-22	1886-1887	.	_
 
+Text=amphetamines, benzodiazepines, cocaine and opiates) (poly‐drug SD).
 12-1	1888-1900	amphetamines	_
 12-2	1901-1902	,	_
 12-3	1903-1918	benzodiazepines	_
@@ -299,6 +311,7 @@
 12-12	1958-1959	)	_
 12-13	1960-1961	.	_
 
+Text=Participants were abstinent, and there was no upper limit for abstinence.
 13-1	1962-1974	Participants	_
 13-2	1975-1979	were	_
 13-3	1980-1989	abstinent	_
@@ -313,6 +326,7 @@
 13-12	2025-2035	abstinence	_
 13-13	2036-2037	.	_
 
+Text=Abstinence was determined through clinical interviews during the baseline session and by using urine and alcohol breath test on each day of testing.
 14-1	2038-2048	Abstinence	_
 14-2	2049-2052	was	_
 14-3	2053-2063	determined	_
@@ -338,6 +352,7 @@
 14-23	2178-2185	testing	_
 14-24	2186-2187	.	_
 
+Text=Participants were not undergoing pharmacological treatment.
 15-1	2188-2200	Participants	_
 15-2	2201-2205	were	_
 15-3	2206-2209	not	_
@@ -346,6 +361,7 @@
 15-6	2237-2246	treatment	_
 15-7	2247-2248	.	_
 
+Text=All participants were aged 21 to 64 years.
 16-1	2249-2252	All	_
 16-2	2253-2265	participants	_
 16-3	2266-2270	were	_
@@ -356,6 +372,7 @@
 16-8	2285-2290	years	_
 16-9	2291-2292	.	_
 
+Text=The healthy control group had no previous history of substance abuse, as assessed using the Alcohol, Smoking and Substance Involvement Screening Test (ASSIST) (Group WAW 2002) and timeline follow‐back.
 17-1	2293-2296	The	_
 17-2	2297-2304	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 17-3	2305-2312	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -393,6 +410,7 @@
 17-35	2488-2499	follow‐back	_
 17-36	2500-2501	.	_
 
+Text=The healthy control group was matched for age, gender and smoking status where possible.
 18-1	2502-2505	The	_
 18-2	2506-2513	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 18-3	2514-2521	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -410,6 +428,7 @@
 18-15	2582-2590	possible	_
 18-16	2591-2592	.	_
 
+Text=All participants were required to provide a negative breath alcohol test and a negative urine sample (screening for the presence of amphetamines, benzodiazepines, cocaine and opiates) on experimental days.
 19-1	2593-2596	All	_
 19-2	2597-2609	participants	_
 19-3	2610-2614	were	_
@@ -445,6 +464,7 @@
 19-33	2797-2801	days	_
 19-34	2802-2803	.	_
 
+Text=Participants were asked to refrain from cannabis use for the 7 days prior to testing.
 20-1	2804-2816	Participants	_
 20-2	2817-2821	were	_
 20-3	2822-2827	asked	_
@@ -462,6 +482,7 @@
 20-15	2881-2888	testing	_
 20-16	2889-2890	.	_
 
+Text=Positive results for cannabinoids were accepted; however, because of the long half‐life of metabolites, so long as the participant was not under intoxication or withdrawal.
 21-1	2891-2899	Positive	_
 21-2	2900-2907	results	_
 21-3	2908-2911	for	_
@@ -492,6 +513,7 @@
 21-28	3055-3065	withdrawal	_
 21-29	3066-3067	.	_
 
+Text=For the alcohol group, prior dependence on any other substance was exclusionary.
 22-1	3068-3071	For	_
 22-2	3072-3075	the	_
 22-3	3076-3083	alcohol	_
@@ -507,6 +529,7 @@
 22-13	3136-3148	exclusionary	_
 22-14	3149-3150	.	_
 
+Text=Exclusion criteria included are as follows: current use of regular prescription or non‐prescription medication that would interfere with study integrity or subject safety; current primary axis I diagnosis; current or past history of enduring severe mental illness; current or past psychiatric history that contraindicated participation; history or current significant neurological diagnosis that may have influenced analysis or results; claustrophobia or unable to lie in the MRI scanner for 90 minutes; a cardiac pacemaker, other electronic device or other MRI contraindication, including pregnancy, as assessed by a standard pre‐MRI questionnaire.
 23-1	3151-3160	Exclusion	_
 23-2	3161-3169	criteria	_
 23-3	3170-3178	included	_
@@ -608,6 +631,7 @@
 23-99	3796-3809	questionnaire	_
 23-100	3810-3811	.	_
 
+Text=Secondary or lifetime history of depression or anxiety was permitted in both SD and healthy volunteers, as these are common comorbidities in the former.
 24-1	3812-3821	Secondary	_
 24-2	3822-3824	or	_
 24-3	3825-3833	lifetime	_
@@ -635,6 +659,7 @@
 24-25	3958-3964	former	_
 24-26	3965-3966	.	_
 
+Text=Procedure All participants underwent a baseline session followed by two study sessions in which clinical, cognitive and neuroimaging tests were completed under either placebo or naltrexone, in counterbalanced order.
 25-1	3967-3976	Procedure	_
 25-2	3977-3980	All	_
 25-3	3981-3993	participants	_
@@ -668,6 +693,7 @@
 25-31	4178-4183	order	_
 25-32	4184-4185	.	_
 
+Text=The drug was administered 2 hours before each scan.
 26-1	4186-4189	The	_
 26-2	4190-4194	drug	_
 26-3	4195-4198	was	_
@@ -679,6 +705,7 @@
 26-9	4232-4236	scan	_
 26-10	4237-4238	.	_
 
+Text=A 50‐mg oral dose of naltrexone (manufactured by Bristol‐Myers Squibb Pharmaceutical Limited, UK) provided as per the British National Formulary was administered per participant.
 27-1	4239-4240	A	_
 27-2	4241-4246	50‐mg	_
 27-3	4247-4251	oral	_
@@ -708,6 +735,7 @@
 27-27	4408-4419	participant	_
 27-28	4420-4421	.	_
 
+Text=Subjects participated in resting state functional MRI, which was always first, and followed by three task‐based functional MRI scans.
 28-1	4422-4430	Subjects	_
 28-2	4431-4443	participated	_
 28-3	4444-4446	in	_
@@ -731,6 +759,7 @@
 28-21	4551-4556	scans	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 28-22	4557-4558	.	_
 
+Text=We examined individuals who completed both study sessions, which were counterbalanced, and there were no participant dropouts between these sessions (36 healthy volunteers [17 placebo first, Imperial/Cambridge/Manchester (ICM) = 13/12/11]; 36 poly‐drug SD (19 placebo first, ICM = 12/13/11); 21 AD (12 placebo first, ICM = 10/6/5)).
 29-1	4559-4561	We	_
 29-2	4562-4570	examined	_
 29-3	4571-4582	individuals	_
@@ -797,6 +826,7 @@
 29-64	4906-4907	)	_
 29-65	4908-4909	.	_
 
+Text=Please see Supporting Information for further details of procedure and assessments taken.
 30-1	4910-4916	Please	_
 30-2	4917-4920	see	_
 30-3	4921-4931	Supporting	_
@@ -811,6 +841,7 @@
 30-12	4993-4998	taken	_
 30-13	4999-5000	.	_
 
+Text=Resting State Functional MRI Acquisition and Processing Data acquisition procedures are reported elsewhere (McGonigle et al.
 31-1	5001-5008	Resting	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 31-2	5009-5014	State	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 31-3	5015-5025	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -830,10 +861,12 @@
 31-17	5123-5125	al	_
 31-18	5126-5127	.	_
 
+Text=2016).
 32-1	5128-5132	2016	_
 32-2	5133-5134	)	_
 32-3	5135-5136	.	_
 
+Text=Briefly, data were collected from three centres in the United Kingdom (Imperial College London and University of Cambridge with 3T Siemens Tim Trio with a Siemens 32 channel head coil, and Salford Royal NHS Foundation Trust, Manchester using 3T Philips Achieva with an eight‐element SENSE head coil).
 33-1	5137-5144	Briefly	_
 33-2	5145-5146	,	_
 33-3	5147-5151	data	_
@@ -888,6 +921,7 @@
 33-52	5440-5441	)	_
 33-53	5442-5443	.	_
 
+Text=A recent report (McGonigle et al.
 34-1	5444-5445	A	_
 34-2	5446-5452	recent	_
 34-3	5453-5459	report	_
@@ -897,6 +931,7 @@
 34-7	5475-5477	al	_
 34-8	5478-5479	.	_
 
+Text=2016) demonstrated no differences between centres for neuroimaging results during task performance, using the exact same data acquisition sequences and processing in healthy volunteers.
 35-1	5480-5484	2016	_
 35-2	5485-5486	)	_
 35-3	5487-5499	demonstrated	_
@@ -925,6 +960,7 @@
 35-26	5656-5666	volunteers	_
 35-27	5667-5668	.	_
 
+Text=Please see Supporting Information for further details.
 36-1	5669-5675	Please	_
 36-2	5676-5679	see	_
 36-3	5680-5690	Supporting	_
@@ -934,6 +970,7 @@
 36-7	5715-5722	details	_
 36-8	5723-5724	.	_
 
+Text=Resting state functional MRI data were collected for 360 seconds from all participants with eyes closed.
 37-1	5725-5732	Resting	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 37-2	5733-5738	state	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 37-3	5739-5749	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -952,6 +989,7 @@
 37-16	5822-5828	closed	_
 37-17	5829-5830	.	_
 
+Text=Participants were asked to think of nothing in particular.
 38-1	5831-5843	Participants	_
 38-2	5844-5848	were	_
 38-3	5849-5854	asked	_
@@ -963,6 +1001,7 @@
 38-9	5878-5888	particular	_
 38-10	5889-5890	.	_
 
+Text=Data were pre‐processed using speedypp.py as part of the fMRI signal processing toolbox v1.0, which draws upon modules from afni toolbox (http: //afni.nimh.nih.gov).
 39-1	5891-5895	Data	_
 39-2	5896-5900	were	_
 39-3	5901-5914	pre‐processed	_
@@ -992,6 +1031,7 @@
 39-27	6058-6059	)	_
 39-28	6060-6061	.	_
 
+Text=As motion significantly affects connectivity measures during resting state fMRI, motion parameters and derivatives and signal from cerebrospinal fluid were regressed out.
 40-1	6062-6064	As	_
 40-2	6065-6071	motion	_
 40-3	6072-6085	significantly	_
@@ -1017,6 +1057,7 @@
 40-23	6229-6232	out	_
 40-24	6233-6234	.	_
 
+Text=Signals with high change in BOLD signal from volume to volume, i.e.
 41-1	6235-6242	Signals	_
 41-2	6243-6247	with	_
 41-3	6248-6252	high	_
@@ -1032,6 +1073,7 @@
 41-13	6299-6302	i.e	_
 41-14	6303-6304	.	_
 
+Text=dvars> 2, may not have been sufficiently corrected for motion (Power et al.
 42-1	6305-6310	dvars	_
 42-2	6311-6312	>	_
 42-3	6313-6314	2	_
@@ -1050,6 +1092,7 @@
 42-16	6380-6382	al	_
 42-17	6383-6384	.	_
 
+Text=2012), and these subjects were removed in a secondary, more stringent analysis, resulting in removal of three AD, 10 poly‐drug SD and eight HV participants.
 43-1	6385-6389	2012	_
 43-2	6390-6391	)	_
 43-3	6392-6393	,	_
@@ -1082,6 +1125,7 @@
 43-30	6533-6545	participants	_
 43-31	6546-6547	.	_
 
+Text=Dvars were not significantly different between groups (P> 0.05).
 44-1	6548-6553	Dvars	_
 44-2	6554-6558	were	_
 44-3	6559-6562	not	_
@@ -1096,6 +1140,7 @@
 44-12	6613-6614	)	_
 44-13	6615-6616	.	_
 
+Text=Data were zero‐padded, despiked and slice‐time corrected.
 45-1	6617-6621	Data	_
 45-2	6622-6626	were	_
 45-3	6627-6638	zero‐padded	_
@@ -1106,6 +1151,7 @@
 45-8	6665-6674	corrected	_
 45-9	6675-6676	.	_
 
+Text=Anatomical and functional images were co‐registered and normalized to a Montreal Neurological Institute (MNI152) template.
 46-1	6677-6687	Anatomical	_
 46-2	6688-6691	and	_
 46-3	6692-6702	functional	_
@@ -1125,6 +1171,7 @@
 46-17	6792-6800	template	_
 46-18	6801-6802	.	_
 
+Text=Graph Theory Analysis We extracted regional mean fMRI time series for 90 regions of interest (ROI) in the Anatomical Automatic Labeling template (Tzourio‐Mazoyer et al.
 47-1	6803-6808	Graph	_
 47-2	6809-6815	Theory	_
 47-3	6816-6824	Analysis	_
@@ -1155,6 +1202,7 @@
 47-28	6971-6973	al	_
 47-29	6974-6975	.	_
 
+Text=2002) for each individual.
 48-1	6976-6980	2002	_
 48-2	6981-6982	)	_
 48-3	6983-6986	for	_
@@ -1162,6 +1210,7 @@
 48-5	6992-7002	individual	_
 48-6	7003-7004	.	_
 
+Text=Each regional mean time series was decomposed into wavelet coefficients at four scales using the maximum overlap discrete wavelet transform, a time‐frequency transformation.
 49-1	7005-7009	Each	_
 49-2	7010-7018	regional	_
 49-3	7019-7023	mean	_
@@ -1188,6 +1237,7 @@
 49-24	7164-7178	transformation	_
 49-25	7179-7180	.	_
 
+Text=We used the scale 2 wavelet correlation matrices, which represent functionally relevant signals in the frequency range of 0.061~0.125 Hz, in line with previous reports assessing network efficiency measures (Achard & Bullmore 2007).
 50-1	7181-7183	We	_
 50-2	7184-7188	used	_
 50-3	7189-7192	the	_
@@ -1227,6 +1277,7 @@
 50-37	7414-7415	)	_
 50-38	7416-7417	.	_
 
+Text=We constructed a whole brain ROI‐to‐ROI correlation matrix using pairwise region‐to‐region correlations between coefficients, as described in a previous study (Achard & Bullmore 2007).
 51-1	7418-7420	We	_
 51-2	7421-7432	constructed	_
 51-3	7433-7434	a	_
@@ -1256,6 +1307,7 @@
 51-27	7603-7604	)	_
 51-28	7605-7606	.	_
 
+Text=The functional connectivity weights were binarized with the density threshold of 5 percent to control network density between subjects (Achard & Bullmore 2007) and reduce the possibility of spurious connections, thus being the most parsimonious threshold generating the core connectivity of the network.
 52-1	7607-7610	The	_
 52-2	7611-7621	functional	_
 52-3	7622-7634	connectivity	_
@@ -1304,6 +1356,7 @@
 52-46	7905-7912	network	_
 52-47	7913-7914	.	_
 
+Text=Whole Brain Network Characteristics Local and global efficiency in the binarized graph were computed as described in previous literature (Meunier et al.
 53-1	7915-7920	Whole	_
 53-2	7921-7926	Brain	_
 53-3	7927-7934	Network	_
@@ -1329,6 +1382,7 @@
 53-23	8065-8067	al	_
 53-24	8068-8069	.	_
 
+Text=2009; Rubinov & Sporns 2010).
 54-1	8070-8074	2009	_
 54-2	8075-8076	;	_
 54-3	8077-8084	Rubinov	_
@@ -1338,6 +1392,7 @@
 54-7	8099-8100	)	_
 54-8	8101-8102	.	_
 
+Text=Local and global efficiency measures were entered into repeated measures ANOVA assessing group as a between‐subject factor and drug as a within‐subject factor.
 55-1	8103-8108	Local	_
 55-2	8109-8112	and	_
 55-3	8113-8119	global	_
@@ -1363,6 +1418,7 @@
 55-23	8255-8261	factor	_
 55-24	8262-8263	.	_
 
+Text=Comparisons were made using placebo, as a drug‐control session; however, the baseline session was additionally assessed to examine variability across sessions for each subject group.
 56-1	8264-8275	Comparisons	_
 56-2	8276-8280	were	_
 56-3	8281-8285	made	_
@@ -1393,6 +1449,7 @@
 56-28	8443-8448	group	_
 56-29	8449-8450	.	_
 
+Text=The AD and poly‐drug SD groups were then separately compared with the HV group.
 57-1	8451-8454	The	_
 57-2	8455-8457	AD	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 57-3	8458-8461	and	_
@@ -1409,6 +1466,7 @@
 57-14	8524-8529	group	_
 57-15	8530-8531	.	_
 
+Text=Local and global efficiency were correlated with drug and alcohol exposure using Pearson's correlation.
 58-1	8532-8537	Local	_
 58-2	8538-8541	and	_
 58-3	8542-8548	global	_
@@ -1426,6 +1484,7 @@
 58-15	8624-8635	correlation	_
 58-16	8636-8637	.	_
 
+Text=Outcomes of P <0.05 were considered significant.
 59-1	8638-8646	Outcomes	_
 59-2	8647-8649	of	_
 59-3	8650-8651	P	_
@@ -1436,6 +1495,7 @@
 59-8	8675-8686	significant	_
 59-9	8687-8688	.	_
 
+Text=Nodal efficiency was examined on an exploratory basis for significant main findings.
 60-1	8689-8694	Nodal	_
 60-2	8695-8705	efficiency	_
 60-3	8706-8709	was	_
@@ -1450,6 +1510,7 @@
 60-12	8764-8772	findings	_
 60-13	8773-8774	.	_
 
+Text=Network‐based Statistics Group comparisons in region‐to‐region connectivity were assessed using NBS Toolbox (Zalesky et al.
 61-1	8775-8788	Network‐based	_
 61-2	8789-8799	Statistics	_
 61-3	8800-8805	Group	_
@@ -1468,6 +1529,7 @@
 61-16	8896-8898	al	_
 61-17	8899-8900	.	_
 
+Text=2010), for MATLAB (The MathWorks, Inc., Natick, Massachusetts, United States).
 62-1	8901-8905	2010	_
 62-2	8906-8907	)	_
 62-3	8908-8909	,	_
@@ -1488,6 +1550,7 @@
 62-18	8985-8986	)	_
 62-19	8987-8988	.	_
 
+Text=Group differences are tested at every connection within the connectivity matrices (inter‐regional correlation in BOLD activity) using an initial threshold of T> 3 as described in the work of Zalesky et al (2010).
 63-1	8989-8994	Group	_
 63-2	8995-9006	differences	_
 63-3	9007-9010	are	_
@@ -1528,6 +1591,7 @@
 63-38	9204-9205	)	_
 63-39	9206-9207	.	_
 
+Text=NBS identified the interconnected subnetwork consisting of suprathreshold edges (T> 3 in group difference).
 64-1	9208-9211	NBS	_
 64-2	9212-9222	identified	_
 64-3	9223-9226	the	_
@@ -1547,6 +1611,7 @@
 64-17	9316-9317	)	_
 64-18	9318-9319	.	_
 
+Text=The size of the interconnected subnetwork (i.e.
 65-1	9320-9323	The	_
 65-2	9324-9328	size	_
 65-3	9329-9331	of	_
@@ -1557,6 +1622,7 @@
 65-8	9364-9367	i.e	_
 65-9	9368-9369	.	_
 
+Text=the number of interconnected suprathreshold edges) was used to calculate a family‐wise error corrected P‐value using 10 000 permutation tests (P <0.05, family‐wise error corrected).
 66-1	9370-9373	the	_
 66-2	9374-9380	number	_
 66-3	9381-9383	of	_
@@ -1589,6 +1655,7 @@
 66-30	9554-9555	)	_
 66-31	9556-9557	.	_
 
+Text=In other words, NBS identified an interconnected subnetwork of altered connectivity with a cluster‐level corrected P‐values using network cluster size (the number of interconnected suprathreshold edges).
 67-1	9558-9560	In	_
 67-2	9561-9566	other	_
 67-3	9567-9572	words	_
@@ -1620,6 +1687,7 @@
 67-29	9762-9763	)	_
 67-30	9764-9765	.	_
 
+Text=AD and poly‐drug SD were separately compared with HV.
 68-1	9766-9768	AD	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 68-2	9769-9772	and	_
 68-3	9773-9782	poly‐drug	_
@@ -1631,6 +1699,7 @@
 68-9	9816-9818	HV	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 68-10	9819-9820	.	_
 
+Text=AD and poly‐drug SD were compared with each other on an exploratory basis.
 69-1	9821-9823	AD	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 69-2	9824-9827	and	_
 69-3	9828-9837	poly‐drug	http://maven.renci.org/NeuroBridge/neurobridge#Abstinent

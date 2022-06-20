@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Reality monitoring impairment in schizophrenia reflects specific prefrontal cortex dysfunction Reality monitoring impairment is often reported in schizophrenia but the neural basis of this deficit is poorly understood.
 1-1	0-7	Reality	_
 1-2	8-18	monitoring	_
 1-3	19-29	impairment	_
@@ -32,6 +33,7 @@
 1-28	207-217	understood	_
 1-29	218-219	.	_
 
+Text=Difficulties with reality monitoring could be attributable to the same pattern of neural dysfunction as other cognitive deficits that characterize schizophrenia, or might instead represent a separable and dissociable impairment.
 2-1	220-232	Difficulties	_
 2-2	233-237	with	_
 2-3	238-245	reality	_
@@ -65,6 +67,7 @@
 2-31	438-448	impairment	_
 2-32	449-450	.	_
 
+Text=This question was addressed through direct comparison of behavioral performance and neural activity associated with reality monitoring and working memory in patients with schizophrenia and matched healthy controls.
 3-1	451-455	This	_
 3-2	456-464	question	_
 3-3	465-468	was	_
@@ -95,6 +98,7 @@
 3-28	656-664	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 3-29	665-666	.	_
 
+Text=Participants performed a word-pair reality monitoring task and a Sternberg working memory task while undergoing fMRI scanning.
 4-1	667-679	Participants	_
 4-2	680-689	performed	_
 4-3	690-691	a	_
@@ -114,6 +118,7 @@
 4-17	784-792	scanning	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 4-18	793-794	.	_
 
+Text=Distinct behavioral deficits were observed in the patients during performance of each task, which were associated with separable task- and region-specific dysfunction in the medial anterior prefrontal cortex for reality monitoring and dorsolateral prefrontal cortex for working memory.
 5-1	795-803	Distinct	_
 5-2	804-814	behavioral	_
 5-3	815-823	deficits	_
@@ -155,6 +160,7 @@
 5-39	1074-1080	memory	_
 5-40	1081-1082	.	_
 
+Text=The results suggest that reality monitoring impairment is a distinct neurocognitive deficit in schizophrenia.
 6-1	1083-1086	The	_
 6-2	1087-1094	results	_
 6-3	1095-1102	suggest	_
@@ -171,6 +177,7 @@
 6-14	1178-1191	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 6-15	1192-1193	.	_
 
+Text=The findings are consistent with the presence of a range of dissociable cognitive deficits in schizophrenia which may be associated with variable functional and structural dysconnectivity in underlying processing networks.
 7-1	1194-1197	The	_
 7-2	1198-1206	findings	_
 7-3	1207-1210	are	_
@@ -203,6 +210,7 @@
 7-30	1407-1415	networks	_
 7-31	1416-1417	.	_
 
+Text=Highlights We examined reality monitoring and working memory in patients with schizophrenia.
 8-1	1418-1428	Highlights	_
 8-2	1429-1431	We	_
 8-3	1432-1440	examined	_
@@ -217,6 +225,7 @@
 8-12	1496-1509	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-13	1510-1511	.	_
 
+Text=Distinct behavioral deficits observed during performance of each task Separable task- and region-specific dysfunction in distinct prefrontal cortex regions Reality monitoring appears to be a distinct neurocognitive deficit in schizophrenia.
 9-1	1512-1520	Distinct	_
 9-2	1521-1531	behavioral	_
 9-3	1532-1540	deficits	_
@@ -249,6 +258,7 @@
 9-30	1738-1751	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-31	1752-1753	.	_
 
+Text=Methods and materials Participants Participants comprised 20 patients who met the DSM-V criteria for schizophrenia, as diagnosed by their clinicians and verified using the Mini International Neuropsychiatric Interview, and 20 matched healthy control individuals.
 10-1	1754-1761	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	1762-1765	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1766-1775	materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -287,6 +297,7 @@
 10-36	2006-2017	individuals	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 10-37	2018-2019	.	_
 
+Text=All participants were native English speakers who had lived in the UK their whole lives.
 11-1	2020-2023	All	_
 11-2	2024-2036	participants	_
 11-3	2037-2041	were	_
@@ -304,6 +315,7 @@
 11-15	2102-2107	lives	_
 11-16	2108-2109	.	_
 
+Text=Written informed consent was obtained from participants in a manner approved by the UK National Research Ethics Service.
 12-1	2110-2117	Written	_
 12-2	2118-2126	informed	_
 12-3	2127-2134	consent	_
@@ -324,6 +336,7 @@
 12-18	2222-2229	Service	_
 12-19	2230-2231	.	_
 
+Text=To optimize the fMRI analysis, within-group variability was minimized by selecting patients who were clinically stable, high functioning, and able to meet the cognitive and psychological demands of the experiment.
 13-1	2232-2234	To	_
 13-2	2235-2243	optimize	_
 13-3	2244-2247	the	_
@@ -359,6 +372,7 @@
 13-33	2437-2447	experiment	_
 13-34	2448-2449	.	_
 
+Text=The patient and control groups were matched on age, gender, handedness, and verbal IQ (Table 1).
 14-1	2450-2453	The	_
 14-2	2454-2461	patient	_
 14-3	2462-2465	and	_
@@ -382,6 +396,7 @@
 14-21	2549-2550	)	_
 14-22	2551-2552	.	_
 
+Text=Patients exhibited the characteristic deficit in fluid IQ compared with the control participants.
 15-1	2553-2561	Patients	_
 15-2	2562-2571	exhibited	_
 15-3	2572-2575	the	_
@@ -397,6 +412,7 @@
 15-13	2637-2649	participants	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 15-14	2650-2651	.	_
 
+Text=All patients were receiving antipsychotic medication but none were on drug regimens that included typical antipsychotics, anticholinergics or benzodiazepines.
 16-1	2652-2655	All	_
 16-2	2656-2664	patients	_
 16-3	2665-2669	were	_
@@ -419,6 +435,7 @@
 16-20	2795-2810	benzodiazepines	_
 16-21	2811-2812	.	_
 
+Text=Participants were screened using the Mini International Neuropsychiatric Interview to ensure no additional current or previous neurological disorder.
 17-1	2813-2825	Participants	_
 17-2	2826-2830	were	_
 17-3	2831-2839	screened	_
@@ -439,6 +456,7 @@
 17-18	2953-2961	disorder	_
 17-19	2962-2963	.	_
 
+Text=Data from the first experimental block for one patient was excluded due to anxiety causing adverse movement in the scanner during that block (i.e.
 18-1	2964-2968	Data	_
 18-2	2969-2973	from	_
 18-3	2974-2977	the	_
@@ -466,6 +484,7 @@
 18-25	3107-3110	i.e	_
 18-26	3111-3112	.	_
 
+Text=translation of> 3 mm, rotation of> 4°).
 19-1	3113-3124	translation	_
 19-2	3125-3127	of	_
 19-3	3128-3129	>	_
@@ -479,6 +498,7 @@
 19-11	3154-3155	)	_
 19-12	3156-3157	.	_
 
+Text=Design Participants performed three tasks established in the previous literature to assess reality monitoring, working memory, and as a control condition, perceptual motor function.
 20-1	3158-3164	Design	_
 20-2	3165-3177	Participants	_
 20-3	3178-3187	performed	_
@@ -508,6 +528,7 @@
 20-27	3333-3341	function	_
 20-28	3342-3343	.	_
 
+Text=Reality monitoring Stimuli for the reality monitoring task consisted of 144 well-known word-pairs (e.g.
 21-1	3344-3351	Reality	http://maven.renci.org/NeuroBridge/neurobridge#Spirometer
 21-2	3352-3362	monitoring	http://maven.renci.org/NeuroBridge/neurobridge#Spirometer
 21-3	3363-3370	Stimuli	_
@@ -525,6 +546,7 @@
 21-15	3444-3447	e.g	_
 21-16	3448-3449	.	_
 
+Text=‘ Bacon and Eggs ’).
 22-1	3450-3451	‘	_
 22-2	3452-3457	Bacon	_
 22-3	3458-3461	and	_
@@ -533,6 +555,7 @@
 22-6	3469-3470	)	_
 22-7	3471-3472	.	_
 
+Text=The task comprised six blocks of a study and test phase, with 24 word-pair stimuli in each (six word-pairs presented in four combinations of Self/Researcher × Perceived/Imagined conditions; Fig.
 23-1	3473-3476	The	_
 23-2	3477-3481	task	_
 23-3	3482-3491	comprised	_
@@ -567,10 +590,12 @@
 23-32	3666-3669	Fig	_
 23-33	3670-3671	.	_
 
+Text=1).
 24-1	3672-3673	1	_
 24-2	3674-3675	)	_
 24-3	3676-3677	.	_
 
+Text=Each study trial commenced with a screen indicating whether the subject or researcher should read aloud the word-pair.
 25-1	3678-3682	Each	_
 25-2	3683-3688	study	_
 25-3	3689-3694	trial	_
@@ -591,6 +616,7 @@
 25-18	3786-3795	word-pair	_
 25-19	3796-3797	.	_
 
+Text=The word-pair was then shown, either complete (‘ perceived ’ trials) or with only the first letter of the second word provided such that the second word needed to be self-generated (‘ imagined ’ trials).
 26-1	3798-3801	The	_
 26-2	3802-3811	word-pair	_
 26-3	3812-3815	was	_
@@ -633,6 +659,7 @@
 26-40	4004-4005	)	_
 26-41	4006-4007	.	_
 
+Text=In both cases the subject or researcher then had 2.5 s to read aloud the entire word-pair, completing the word-pair as necessary for imagined trials.
 27-1	4008-4010	In	_
 27-2	4011-4015	both	_
 27-3	4016-4021	cases	_
@@ -661,6 +688,7 @@
 27-26	4151-4157	trials	_
 27-27	4158-4159	.	_
 
+Text=Each study phase was followed by its corresponding test phase, half the trials of which tested each of the different reality monitoring conditions.
 28-1	4160-4164	Each	_
 28-2	4165-4170	study	_
 28-3	4171-4176	phase	_
@@ -687,6 +715,7 @@
 28-24	4297-4307	conditions	_
 28-25	4308-4309	.	_
 
+Text=Each half of the test phase commenced with a question screen indicating the condition being tested, “ Was the accompanying word Seen or Imagined? ” or “ Was the accompanying word said by Self or Researcher? ” Each test phase trial involved presentation of the first word from one of the studied word-pairs together with the instruction to provide the appropriate response.
 29-1	4310-4314	Each	_
 29-2	4315-4319	half	_
 29-3	4320-4322	of	_
@@ -754,6 +783,7 @@
 29-65	4676-4684	response	_
 29-66	4685-4686	.	_
 
+Text=Participants had 4.5 s to make their response on a button box, using the first two fingers of their right hand.
 30-1	4687-4699	Participants	_
 30-2	4700-4703	had	_
 30-3	4704-4707	4.5	_
@@ -778,6 +808,7 @@
 30-22	4794-4798	hand	_
 30-23	4799-4800	.	_
 
+Text=The order of presentation of reality monitoring conditions in the test phase alternated across the six full blocks of the task and was counterbalanced across participants.
 31-1	4801-4804	The	_
 31-2	4805-4810	order	_
 31-3	4811-4813	of	_
@@ -806,6 +837,7 @@
 31-26	4959-4971	participants	_
 31-27	4972-4973	.	_
 
+Text=The word-pairs assigned to the perceived/imagined and self/researcher conditions were also counterbalanced across participants, and the order of presentation of word-pairs was pseudo-randomized to ensure no run of more than three items of the same condition in any study or test phase.
 32-1	4974-4977	The	_
 32-2	4978-4988	word-pairs	_
 32-3	4989-4997	assigned	_
@@ -851,6 +883,7 @@
 32-43	5254-5259	phase	_
 32-44	5260-5261	.	_
 
+Text=Working memory task A version of the Sternberg Item Recognition Paradigm (SIRP) was used with stimulus loads and timings matching those used in the Functional Imaging Biomedical Informatics Research Network Consortium study into working memory in schizophrenia, see Fig.
 33-1	5262-5269	Working	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
 33-2	5270-5276	memory	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
 33-3	5277-5281	task	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
@@ -895,9 +928,11 @@
 33-42	5531-5534	Fig	_
 33-43	5535-5536	.	_
 
+Text=1.
 34-1	5537-5538	1	_
 34-2	5539-5540	.	_
 
+Text=The SIRP task was administered over six scanned blocks, with three working memory loads included in each block.
 35-1	5541-5544	The	_
 35-2	5545-5549	SIRP	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 35-3	5550-5554	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -919,6 +954,7 @@
 35-19	5647-5652	block	_
 35-20	5653-5654	.	_
 
+Text=Each level comprised an encode phase, in which participants were instructed to learn one, three, or five stimuli which were presented sequentially as individual randomly selected letters, for 1.1 s each.
 36-1	5655-5659	Each	_
 36-2	5660-5665	level	_
 36-3	5666-5675	comprised	_
@@ -956,6 +992,7 @@
 36-35	5857-5861	each	_
 36-36	5862-5863	.	_
 
+Text=The encode phase was followed by a respond phase, in which a response was given on a button box, using the first two fingers of the right hand, as to whether a probe stimulus had been included in the learned list.
 37-1	5864-5867	The	_
 37-2	5868-5874	encode	_
 37-3	5875-5880	phase	_
@@ -1002,6 +1039,7 @@
 37-44	6075-6079	list	_
 37-45	6080-6081	.	_
 
+Text=Fourteen probes were used for each level of the task, seven of which were learned targets, and seven non-studied foils.
 38-1	6082-6090	Fourteen	_
 38-2	6091-6097	probes	_
 38-3	6098-6102	were	_
@@ -1026,6 +1064,7 @@
 38-22	6197-6202	foils	_
 38-23	6203-6204	.	_
 
+Text=Participants were given 1.1 s to make their response, and a jitter was introduced to the inter-trial interval in both encode and probe phases to maximize design efficiency and ensure participants paid attention to the screen.
 39-1	6205-6217	Participants	_
 39-2	6218-6222	were	_
 39-3	6223-6228	given	_
@@ -1065,6 +1104,7 @@
 39-37	6424-6430	screen	_
 39-38	6431-6432	.	_
 
+Text=The working memory block was completed when all three load conditions had been undertaken.
 40-1	6433-6436	The	_
 40-2	6437-6444	working	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
 40-3	6445-6451	memory	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
@@ -1081,6 +1121,7 @@
 40-14	6512-6522	undertaken	_
 40-15	6523-6524	.	_
 
+Text=The order of presentation of loads was counterbalanced between participants and across blocks, and new randomly selected stimuli were used for each block of the task.
 41-1	6525-6528	The	_
 41-2	6529-6534	order	_
 41-3	6535-6537	of	_
@@ -1110,6 +1151,7 @@
 41-27	6687-6691	task	_
 41-28	6692-6693	.	_
 
+Text=Perceptual motor baseline task Participants made left and right key presses using the first two fingers of the right hand alternately to make a row of nine ‘ X's flip as quickly as possible between a horizontal and vertical orientation.
 42-1	6694-6704	Perceptual	_
 42-2	6705-6710	motor	_
 42-3	6711-6719	baseline	_
@@ -1153,6 +1195,7 @@
 42-41	6919-6930	orientation	_
 42-42	6931-6932	.	_
 
+Text=The stimulus was immediately removed from the screen after each key press, followed by a random delay (between 300 and 700 ms) to induce participants to pay attention to the stimuli.
 43-1	6933-6936	The	_
 43-2	6937-6945	stimulus	_
 43-3	6946-6949	was	_
@@ -1189,6 +1232,7 @@
 43-34	7110-7117	stimuli	_
 43-35	7118-7119	.	_
 
+Text=Procedure The three tasks were administered over six separate functional scanner runs, which were acquired consecutively during a single visit.
 44-1	7120-7129	Procedure	_
 44-2	7130-7133	The	_
 44-3	7134-7139	three	_
@@ -1212,6 +1256,7 @@
 44-21	7258-7263	visit	_
 44-22	7264-7265	.	_
 
+Text=Each run comprised one scanned block of each of the three tasks, presented in varying order over the six scans with the run order counterbalanced between participants by starting each participant with a different run order and progressing through the sequence (see Fig.
 45-1	7266-7270	Each	_
 45-2	7271-7274	run	_
 45-3	7275-7284	comprised	_
@@ -1259,10 +1304,12 @@
 45-45	7533-7536	Fig	_
 45-46	7537-7538	.	_
 
+Text=2).
 46-1	7539-7540	2	_
 46-2	7541-7542	)	_
 46-3	7543-7544	.	_
 
+Text=Each run commenced with a spoken reality monitoring study phase, which was not scanned to avoid the disruption of scanner noise and of head movement associated with speech.
 47-1	7545-7549	Each	_
 47-2	7550-7553	run	_
 47-3	7554-7563	commenced	_
@@ -1294,6 +1341,7 @@
 47-29	7711-7717	speech	_
 47-30	7718-7719	.	_
 
+Text=In four of the six runs, additional versions of the working memory and perceptual motor tasks were administered before the scanner was switched on to equate the time (233 s) and cognitive demands between the study and test phases of the reality monitoring task across counterbalancing orders.
 48-1	7720-7722	In	_
 48-2	7723-7727	four	_
 48-3	7728-7730	of	_
@@ -1346,6 +1394,7 @@
 48-50	8008-8014	orders	_
 48-51	8015-8016	.	_
 
+Text=The data from these additional versions of the tasks was not analyzed.
 49-1	8017-8020	The	_
 49-2	8021-8025	data	_
 49-3	8026-8030	from	_
@@ -1360,6 +1409,7 @@
 49-12	8078-8086	analyzed	_
 49-13	8087-8088	.	_
 
+Text=Each of the six functional runs thus contained a single scanned block of each of the three tasks of interest, occurring in counterbalanced order.
 50-1	8089-8093	Each	_
 50-2	8094-8096	of	_
 50-3	8097-8100	the	_
@@ -1387,6 +1437,7 @@
 50-25	8229-8234	order	_
 50-26	8235-8236	.	_
 
+Text=Imaging acquisition and data analysis A 3 T Siemens Trio system was used to acquire structural and echo-planar functional images (TR 2140 ms, TE 30 ms, 36 sequential axial slices oriented 10–20° to the anterior commissure–posterior commissure transverse plane, 2 mm thickness, 1 mm interslice skip, 3 mm × 3 mm in-plane resolution, 64 × 64 pixels, 78° flip angle, 6 functional runs each of 170 volume acquisitions).
 51-1	8237-8244	Imaging	_
 51-2	8245-8256	acquisition	_
 51-3	8257-8260	and	_
@@ -1467,6 +1518,7 @@
 51-78	8660-8661	)	_
 51-79	8662-8663	.	_
 
+Text=To correct for distortion, field maps were acquired (TE = 5.19 and 7.65 ms, TR = 400 ms, matrix size = 64 × 64) using 32 slices covering the whole head (voxel size 3 mm × 3 mm × 3 mm).
 52-1	8664-8666	To	_
 52-2	8667-8674	correct	_
 52-3	8675-8678	for	_
@@ -1517,6 +1569,7 @@
 52-48	8853-8854	)	_
 52-49	8855-8856	.	_
 
+Text=fMRI data were analyzed using SPM8 software (http: //www.fil.ion.ucl.ac.uk/spm).
 53-1	8857-8861	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 53-2	8862-8866	data	_
 53-3	8867-8871	were	_
@@ -1531,6 +1584,7 @@
 53-12	8938-8939	)	_
 53-13	8940-8941	.	_
 
+Text=The first five volumes from each functional run were discarded to allow for T1 equilibration.
 54-1	8942-8945	The	_
 54-2	8946-8951	first	_
 54-3	8952-8956	five	_
@@ -1548,6 +1602,7 @@
 54-15	9021-9034	equilibration	_
 54-16	9035-9036	.	_
 
+Text=The remaining functional volumes were spatially realigned to the first image of the first series, and distortion corrections were applied based on the field maps using the unwarp routines in SPM.
 55-1	9037-9040	The	_
 55-2	9041-9050	remaining	_
 55-3	9051-9061	functional	_
@@ -1582,6 +1637,7 @@
 55-32	9229-9232	SPM	_
 55-33	9233-9234	.	_
 
+Text=Thereafter, volumes were normalised against the MNI reference brain using tri-linear interpolation, and smoothed with an isotropic 8 mm full-width half-maximum Gaussian kernel.
 56-1	9235-9245	Thereafter	_
 56-2	9246-9247	,	_
 56-3	9248-9255	volumes	_
@@ -1609,6 +1665,7 @@
 56-25	9406-9412	kernel	_
 56-26	9413-9414	.	_
 
+Text=The volumes acquired during the six scan runs were treated as separate time series.
 57-1	9415-9418	The	_
 57-2	9419-9426	volumes	_
 57-3	9427-9435	acquired	_
@@ -1625,6 +1682,7 @@
 57-14	9491-9497	series	_
 57-15	9498-9499	.	_
 
+Text=For each run, separate regressors coded for trial onsets for correct judgments for the self, researcher, perceived and imagined conditions in the reality monitoring task, correct responses for each load of the working memory task, and for responses to the perceptual motor baseline task.
 58-1	9500-9503	For	_
 58-2	9504-9508	each	_
 58-3	9509-9512	run	_
@@ -1676,6 +1734,7 @@
 58-49	9787-9791	task	_
 58-50	9792-9793	.	_
 
+Text=In each case, these were generated with delta functions corresponding to trial onsets convolved with a canonical hemodynamic response function.
 59-1	9794-9796	In	_
 59-2	9797-9801	each	_
 59-3	9802-9806	case	_
@@ -1699,6 +1758,7 @@
 59-21	9929-9937	function	_
 59-22	9938-9939	.	_
 
+Text=These regressors, together with a single regressor representing onsets for incorrect trials from all tasks, and six regressors coding movement parameters, comprised the full model for each run.
 60-1	9940-9945	These	_
 60-2	9946-9956	regressors	_
 60-3	9957-9958	,	_
@@ -1732,6 +1792,7 @@
 60-31	10132-10135	run	_
 60-32	10136-10137	.	_
 
+Text=The data and model were high-pass filtered to a cut off of 1/128 Hz.
 61-1	10138-10141	The	_
 61-2	10142-10146	data	_
 61-3	10147-10150	and	_
@@ -1748,6 +1809,7 @@
 61-14	10203-10205	Hz	_
 61-15	10206-10207	.	_
 
+Text=Contrasts of interest were performed on individual subject data using the following contrasts between correct response regressors: reality monitoring> perceptual motor baseline task and working memory load 5> load 3.
 62-1	10208-10217	Contrasts	_
 62-2	10218-10220	of	_
 62-3	10221-10229	interest	_
@@ -1783,6 +1845,7 @@
 62-33	10425-10426	3	_
 62-34	10427-10428	.	_
 
+Text=These contrasts were chosen to maximize power in terms of the number of trials available for the reality monitoring condition, and to maximize the difference in expected signal change in the dorsolateral PFC between groups for the working memory task, based on earlier findings using the same version of the SIRP task, (see).
 63-1	10429-10434	These	_
 63-2	10435-10444	contrasts	_
 63-3	10445-10449	were	_
@@ -1843,6 +1906,7 @@
 63-58	10757-10758	)	_
 63-59	10759-10760	.	_
 
+Text=Second-level one-sample t-tests were performed on the combined individual results to produce random-effects group analyses separately for the healthy control group and for the schizophrenia group.
 64-1	10761-10773	Second-level	_
 64-2	10774-10784	one-sample	_
 64-3	10785-10792	t-tests	_
@@ -1871,6 +1935,7 @@
 64-26	10951-10956	group	_
 64-27	10957-10958	.	_
 
+Text=Second-level two-sample t-tests were then performed on the combined individual results to enable random-effects between-group analyses.
 65-1	10959-10971	Second-level	_
 65-2	10972-10982	two-sample	_
 65-3	10983-10990	t-tests	_
@@ -1889,6 +1954,7 @@
 65-16	11085-11093	analyses	_
 65-17	11094-11095	.	_
 
+Text=To test the a priori hypothesis that the main contrasts of interest would reveal differences in distinct regions of the PFC, small volume corrections (SVCs) for multiple comparisons were conducted on the whole-brain group-level t-tests with a familywise-error (FWE) corrected voxel-wise height threshold of p <0.05.
 66-1	11096-11098	To	_
 66-2	11099-11103	test	_
 66-3	11104-11107	the	_
@@ -1943,6 +2009,7 @@
 66-52	11412-11416	0.05	_
 66-53	11417-11418	.	_
 
+Text=Regions of interest each comprised an 8 mm radius sphere centered on a priori coordinates derived from previous studies carried out on healthy adult participants as follows: Reality Monitoring: mean of the coordinates of peak activity in left (−16, 56, 14) and right (20, 56, 9) hemisphere medial anterior PFC from eight source memory studies testing recollection of self or other action, or perceived or self-generated stimulus generation; Working Memory: mean of the coordinates of peak activity in left (−45, 25, 25) and right (43, 38, 18) hemisphere dorsolateral PFC from four previous working memory studies which utilized load related contrasts for analysis of the SIRP task.
 67-1	11419-11426	Regions	_
 67-2	11427-11429	of	_
 67-3	11430-11438	interest	_
@@ -2073,6 +2140,7 @@
 67-128	12116-12120	task	_
 67-129	12121-12122	.	_
 
+Text=Comparison of activity in each of these regions for the two tasks was undertaken by extracting the percentage signal change for each subject within each voxel, then comparing the mean values using a repeated measures Anova, with Greenhouse-Geisser correction used where necessary to correct for violations of sphericity.
 68-1	12123-12133	Comparison	_
 68-2	12134-12136	of	_
 68-3	12137-12145	activity	_
@@ -2125,6 +2193,7 @@
 68-50	12434-12444	sphericity	_
 68-51	12445-12446	.	_
 
+Text=To further explore the nature of the activation associated with the two tasks in the different groups, activations outside the regions of interest were reported if they exceeded a FWE whole-brain corrected voxel-wise height threshold of p <0.05.
 69-1	12447-12449	To	_
 69-2	12450-12457	further	_
 69-3	12458-12465	explore	_

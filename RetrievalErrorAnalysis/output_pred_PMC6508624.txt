@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Simultaneous fMRI-EEG-DTI recording of MMN in patients with schizophrenia Functional magnetic resonance imaging (fMRI), electroencephalogram (EEG), and diffusion tensor imaging (DTI) recording have complementary spatiotemporal resolution limitations but can be powerful methods when used together to enable both functional and anatomical modeling, with each neuroimaging procedure used to maximum advantage.
 1-1	0-12	Simultaneous	_
 1-2	13-25	fMRI-EEG-DTI	http://maven.renci.org/NeuroBridge/neurobridge#DifffusionTensorImaging
 1-3	26-35	recording	_
@@ -63,6 +64,7 @@
 1-59	406-415	advantage	_
 1-60	416-417	.	_
 
+Text=We recorded EEGs during event-related fMRI followed by DTI in 15 healthy volunteers and 12 patients with schizophrenia using an omission mismatch negativity (MMN) paradigm.
 2-1	418-420	We	_
 2-2	421-429	recorded	_
 2-3	430-434	EEGs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -92,6 +94,7 @@
 2-27	583-591	paradigm	http://maven.renci.org/NeuroBridge/neurobridge#MismatchNegativityTask
 2-28	592-593	.	_
 
+Text=Blood oxygenation level-dependent (BOLD) signal changes were calculated in a region of interest (ROI) analysis, and fractional anisotropy (FA) in the white matter fibers related to each area was compared between groups using tract-specific analysis.
 3-1	594-599	Blood	_
 3-2	600-611	oxygenation	_
 3-3	612-627	level-dependent	_
@@ -136,6 +139,7 @@
 3-42	841-849	analysis	_
 3-43	850-851	.	_
 
+Text=Patients with schizophrenia had reduced BOLD activity in the left middle temporal gyrus, and BOLD activity in the right insula and right parahippocampal gyrus significantly correlated with positive symptoms on the Positive and Negative Syndrome Scale (PANSS) and hostility subscores.
 4-1	852-860	Patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 4-2	861-865	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 4-3	866-879	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -181,6 +185,7 @@
 4-43	1128-1137	subscores	_
 4-44	1138-1139	.	_
 
+Text=BOLD activation of Heschl ’ s gyri also correlated with the limbic system, including the insula.
 5-1	1140-1144	BOLD	_
 5-2	1145-1155	activation	_
 5-3	1156-1158	of	_
@@ -200,6 +205,7 @@
 5-17	1230-1236	insula	_
 5-18	1237-1238	.	_
 
+Text=FA values in the left anterior cingulate cortex (ACC) significantly correlated with changes in the BOLD signal in the right superior temporal gyrus (STG), and FA values in the right ACC significantly correlated with PANSS scores.
 6-1	1239-1241	FA	_
 6-2	1242-1248	values	_
 6-3	1249-1251	in	_
@@ -243,6 +249,7 @@
 6-41	1466-1472	scores	_
 6-42	1473-1474	.	_
 
+Text=This is the first study to examine MMN using simultaneous fMRI, EEG, and DTI recording in patients with schizophrenia to investigate the potential implications of abnormalities in the ACC and limbic system, including the insula and parahippocampal gyrus, as well as the STG.
 7-1	1475-1479	This	_
 7-2	1480-1482	is	_
 7-3	1483-1486	the	_
@@ -292,6 +299,7 @@
 7-47	1749-1752	STG	_
 7-48	1753-1754	.	_
 
+Text=Structural changes in the ACC during schizophrenia may represent part of the neural basis for the observed MMN deficits.
 8-1	1755-1765	Structural	_
 8-2	1766-1773	changes	_
 8-3	1774-1776	in	_
@@ -313,6 +321,7 @@
 8-19	1866-1874	deficits	_
 8-20	1875-1876	.	_
 
+Text=The deficits seen in the feedback/feedforward connections between the prefrontal cortex and STG modulated by the ACC and insula may specifically contribute to impaired MMN generation and clinical manifestations.
 9-1	1877-1880	The	_
 9-2	1881-1889	deficits	_
 9-3	1890-1894	seen	_
@@ -344,6 +353,7 @@
 9-29	2073-2087	manifestations	_
 9-30	2088-2089	.	_
 
+Text=Methods Ethical statement This study was approved by the Juntendo University Koshigaya Hospital Ethics Committee and Juntendo University Shizuoka Hospital Ethics Committee.
 10-1	2090-2097	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 10-2	2098-2105	Ethical	_
 10-3	2106-2115	statement	_
@@ -368,6 +378,7 @@
 10-22	2252-2261	Committee	_
 10-23	2262-2263	.	_
 
+Text=Subjects Twelve patients with schizophrenia (10 men and 2 women, mean age 36.8 ± 6.0 years, all right-handed except for one left-handed patient) and 15 healthy controls (13 men and 2 women, mean age 28.4 ± 9.6 years, all right-handed except for one left-handed subject) were included in the study.
 11-1	2264-2272	Subjects	_
 11-2	2273-2279	Twelve	_
 11-3	2280-2288	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -428,6 +439,7 @@
 11-58	2563-2568	study	_
 11-59	2569-2570	.	_
 
+Text=The groups were not age-matched (F [1,25] = 5.3, p = 0.11).
 12-1	2571-2574	The	_
 12-2	2575-2581	groups	_
 12-3	2582-2586	were	_
@@ -447,6 +459,7 @@
 12-17	2633-2634	)	_
 12-18	2635-2636	.	_
 
+Text=Attempts were made to match the groups for years of education, but this proved to be difficult because patients with schizophrenia are more likely to require hospitalization and the early age of onset, which can interfere with schooling.
 13-1	2637-2645	Attempts	_
 13-2	2646-2650	were	_
 13-3	2651-2655	made	_
@@ -489,6 +502,7 @@
 13-40	2866-2875	schooling	_
 13-41	2876-2877	.	_
 
+Text=Therefore, controls had significantly more (F [1,25] = 0.130, p <0.001) years of education (17.3 ± 1.9) than patients (13.3 ± 2.0).
 14-1	2878-2887	Therefore	_
 14-2	2888-2889	,	_
 14-3	2890-2898	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -524,6 +538,7 @@
 14-33	3018-3019	)	_
 14-34	3020-3021	.	_
 
+Text=The statistical procedures were adjusted for age and education.
 15-1	3022-3025	The	_
 15-2	3026-3037	statistical	_
 15-3	3038-3048	procedures	_
@@ -535,6 +550,7 @@
 15-9	3075-3084	education	_
 15-10	3085-3086	.	_
 
+Text=Patients were recruited from among the outpatients at Juntendo University Koshigaya Hospital in Saitama and Juntendo University Shizuoka Hospital in Shizuoka, Japan, and healthy controls were recruited from the staff of the same hospitals.
 16-1	3087-3095	Patients	_
 16-2	3096-3100	were	_
 16-3	3101-3110	recruited	_
@@ -573,6 +589,7 @@
 16-36	3318-3327	hospitals	_
 16-37	3328-3329	.	_
 
+Text=All controls were healthy and native to Japan.
 17-1	3330-3333	All	_
 17-2	3334-3342	controls	_
 17-3	3343-3347	were	_
@@ -583,6 +600,7 @@
 17-8	3370-3375	Japan	_
 17-9	3376-3377	.	_
 
+Text=The mean disease duration in the patient group was 14.3 ± 5.7 years, and the mean drug dose used for treatment (risperidone equivalent) was 10.5 ± 6.2 mg (Table 1).
 18-1	3378-3381	The	_
 18-2	3382-3386	mean	_
 18-3	3387-3394	disease	_
@@ -620,6 +638,7 @@
 18-35	3545-3546	)	_
 18-36	3547-3548	.	_
 
+Text=All patients were determined to be in good physical health based on medical history, physical examination, and laboratory measures.
 19-1	3549-3552	All	_
 19-2	3553-3561	patients	_
 19-3	3562-3566	were	_
@@ -643,6 +662,7 @@
 19-21	3673-3681	measures	_
 19-22	3682-3683	.	_
 
+Text=None of the subjects had a history of electroconvulsive shock treatment, alcohol or other drug abuse (DSM-5 criteria), addiction, or a neurological illness affecting the central nervous system, and all subjects reported having normal visual acuity.
 20-1	3684-3688	None	_
 20-2	3689-3691	of	_
 20-3	3692-3695	the	_
@@ -687,6 +707,7 @@
 20-42	3931-3937	acuity	_
 20-43	3938-3939	.	_
 
+Text=The DSM-5 diagnosis and Positive and Negative Syndrome Scale (PANSS) score were determined for each patient using a structured psychiatric interview and by reviewing the patients ’ medical charts.
 21-1	3940-3943	The	_
 21-2	3944-3949	DSM-5	_
 21-3	3950-3959	diagnosis	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
@@ -720,6 +741,7 @@
 21-31	4131-4137	charts	_
 21-32	4138-4139	.	_
 
+Text=The PANSS is a semi-structured interview with a 7-point scale to rate 30 symptoms common in schizophrenia and other mental disorders.
 22-1	4140-4143	The	_
 22-2	4144-4149	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 22-3	4150-4152	is	_
@@ -743,6 +765,7 @@
 22-21	4263-4272	disorders	_
 22-22	4273-4274	.	_
 
+Text=The mean PANSS scores were 15.4±6.9 (positive scales), 22.8±9.2 (negative scales), 36.8±10.3 (general psychopathology scales), and 74.9±22.9 (total score).
 23-1	4275-4278	The	_
 23-2	4279-4283	mean	_
 23-3	4284-4289	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
@@ -775,6 +798,7 @@
 23-30	4439-4440	)	_
 23-31	4441-4442	.	_
 
+Text=All participants were informed of the objectives and methods of the study and given written informed consent before the study began.
 24-1	4443-4446	All	_
 24-2	4447-4459	participants	_
 24-3	4460-4464	were	_
@@ -798,6 +822,7 @@
 24-21	4569-4574	began	_
 24-22	4575-4576	.	_
 
+Text=The treating psychiatrists evaluated the capability of the patients to give informed consent and confirmed that they understood the voluntariness of their participation.
 25-1	4577-4580	The	_
 25-2	4581-4589	treating	_
 25-3	4590-4603	psychiatrists	_
@@ -823,6 +848,7 @@
 25-23	4732-4745	participation	_
 25-24	4746-4747	.	_
 
+Text=Any participants who lacked adequate understanding of the study were excluded.
 26-1	4748-4751	Any	_
 26-2	4752-4764	participants	_
 26-3	4765-4768	who	_
@@ -836,6 +862,7 @@
 26-11	4817-4825	excluded	_
 26-12	4826-4827	.	_
 
+Text=Five-component model of the PANSS As described previously, clinical manifestations were evaluated by the PANSS, which is classified into five components according to the five-component model: negative (passive withdrawal, emotional withdrawal, blunted affects, lack of spontaneity, poor rapport, disturbance of volition, preoccupation, motor retardation), positive (delusions, unusual thoughts, somatic concern, grandiosity, suspiciousness, hallucinations), cognitive (difficulty in abstract thinking, stereotyped thinking, cognitive disorganization, lack of judgment and insight, poor attention, tension, mannerisms and posturing), emotional discomfort (depression, anxiety, guilt, active social avoidance), and hostility (excitement, hostility, impulse control, uncooperativeness).
 27-1	4828-4842	Five-component	_
 27-2	4843-4848	model	_
 27-3	4849-4851	of	_
@@ -967,6 +994,7 @@
 27-129	5650-5651	)	_
 27-130	5652-5653	.	_
 
+Text=Auditory stimuli: Passive oddball-omission paradigm ERPs and fMRI were recorded during a sound omission MMN paradigm in which repetitive sequences of a frequent auditory stimulus were omitted occasionally.
 28-1	5654-5662	Auditory	_
 28-2	5663-5670	stimuli	_
 28-3	5671-5672	:	_
@@ -998,6 +1026,7 @@
 28-29	5847-5859	occasionally	_
 28-30	5860-5861	.	_
 
+Text=A computer with custom-designed software generated the acoustic stimuli and controlled stimulus timing and presentation.
 29-1	5862-5863	A	_
 29-2	5864-5872	computer	_
 29-3	5873-5877	with	_
@@ -1015,6 +1044,7 @@
 29-15	5969-5981	presentation	_
 29-16	5982-5983	.	_
 
+Text=Tones were presented binaurally at a constant listening level (92–95 dB sound pressure level) through tube-connected headphones held in place by a headset.
 30-1	5984-5989	Tones	_
 30-2	5990-5994	were	_
 30-3	5995-6004	presented	_
@@ -1042,6 +1072,7 @@
 30-25	6133-6140	headset	_
 30-26	6141-6142	.	_
 
+Text=The acoustic stimuli consisted of sine wave tones with a duration of 35 ms, including 0 ms rise and 5 ms fall times.
 31-1	6143-6146	The	_
 31-2	6147-6155	acoustic	_
 31-3	6156-6163	stimuli	_
@@ -1068,6 +1099,7 @@
 31-24	6254-6259	times	_
 31-25	6260-6261	.	_
 
+Text=The tone frequency was 3000 Hz, and the onset-to-onset interval was 136 ms.
 32-1	6262-6265	The	_
 32-2	6266-6270	tone	_
 32-3	6271-6280	frequency	_
@@ -1084,6 +1116,7 @@
 32-14	6335-6337	ms	_
 32-15	6338-6339	.	_
 
+Text=The experimental task consisted of a single block including 6547 tones and 53 omission events.
 33-1	6340-6343	The	_
 33-2	6344-6356	experimental	_
 33-3	6357-6361	task	_
@@ -1101,6 +1134,7 @@
 33-15	6427-6433	events	_
 33-16	6434-6435	.	_
 
+Text=The probability of omission was 0.00803 (53/6600), and omission occurred in the 19th location in the sound trains during the “ event ” scans.
 34-1	6436-6439	The	_
 34-2	6440-6451	probability	_
 34-3	6452-6454	of	_
@@ -1130,6 +1164,7 @@
 34-27	6574-6579	scans	_
 34-28	6580-6581	.	_
 
+Text=ERPs were recorded in a ‘ passive ’ condition in which the subjects were asked to ignore the stimuli and watch a silent movie projected on a video monitor.
 35-1	6582-6586	ERPs	_
 35-2	6587-6591	were	_
 35-3	6592-6600	recorded	_
@@ -1161,6 +1196,7 @@
 35-29	6729-6736	monitor	_
 35-30	6737-6738	.	_
 
+Text=All subjects were told that they would have to give specific feedback about the movie at the end of the ERP session to standardize their level of attention.
 36-1	6739-6742	All	_
 36-2	6743-6751	subjects	_
 36-3	6752-6756	were	_
@@ -1191,6 +1227,7 @@
 36-28	6885-6894	attention	_
 36-29	6895-6896	.	_
 
+Text=Subjects were also instructed to avoid unnecessary eye movement and blinking during the session.
 37-1	6897-6905	Subjects	_
 37-2	6906-6910	were	_
 37-3	6911-6915	also	_
@@ -1207,6 +1244,7 @@
 37-14	6985-6992	session	_
 37-15	6993-6994	.	_
 
+Text=The 136-ms stimulus onset asynchrony (SOA) of the acoustic stimuli used in the present study was selected to be within the temporal window of integration (TWI) proposed by Yabe et al .. Acoustic signals presented within an approximate 200 ms temporal window are integrated into a single perceptual unit.
 38-1	6995-6998	The	_
 38-2	6999-7005	136-ms	_
 38-3	7006-7014	stimulus	_
@@ -1262,6 +1300,7 @@
 38-53	7297-7301	unit	_
 38-54	7302-7303	.	_
 
+Text=In addition, Yabe et al.
 39-1	7304-7306	In	_
 39-2	7307-7315	addition	_
 39-3	7316-7317	,	_
@@ -1270,6 +1309,7 @@
 39-6	7326-7328	al	_
 39-7	7329-7330	.	_
 
+Text=showed that acoustic information is integrated into a single unit within 160–170 ms to form a sound trace in sensory memory via a stimulus-omission MMN paradigm.
 40-1	7331-7337	showed	_
 40-2	7338-7342	that	_
 40-3	7343-7351	acoustic	_
@@ -1298,6 +1338,7 @@
 40-26	7483-7491	paradigm	_
 40-27	7492-7493	.	_
 
+Text=TWI is an aspect of temporal integration that determines the initial sound energy unit in the early, pre-attentive stages of auditory information processing.
 41-1	7494-7497	TWI	_
 41-2	7498-7500	is	_
 41-3	7501-7503	an	_
@@ -1324,6 +1365,7 @@
 41-24	7641-7651	processing	_
 41-25	7652-7653	.	_
 
+Text=fMRI design and synchronization between scan noise and auditory stimuli We used an event-related design for the fMRI.
 42-1	7654-7658	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 42-2	7659-7665	design	_
 42-3	7666-7669	and	_
@@ -1344,6 +1386,7 @@
 42-18	7766-7770	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 42-19	7771-7772	.	_
 
+Text=Scans of 22 slices generated equal numbers of scan noises during a single repetition time (TR) of 2992 ms, and the same number of tones with an SOA of 136 ms (TR/slice number = 2992/22) were presented.
 43-1	7773-7778	Scans	_
 43-2	7779-7781	of	_
 43-3	7782-7784	22	_
@@ -1388,6 +1431,7 @@
 43-42	7969-7978	presented	_
 43-43	7979-7980	.	_
 
+Text=The presentation of tones was completely synchronized to scans by triggers generated by the MRI system in order to minimize the effect of scan noise on fMRI and EEG raw data, which were also used to segregate and average EEG epochs in the ERP analysis.
 44-1	7981-7984	The	_
 44-2	7985-7997	presentation	_
 44-3	7998-8000	of	_
@@ -1436,6 +1480,7 @@
 44-46	8225-8233	analysis	_
 44-47	8234-8235	.	_
 
+Text=We averaged EEG epochs and subtracted the waveforms of the baseline tones from the omission events during ERP processing to eliminate fluctuations in the EEG signals due to scan noise.
 45-1	8236-8238	We	_
 45-2	8239-8247	averaged	_
 45-3	8248-8251	EEG	_
@@ -1468,6 +1513,7 @@
 45-30	8414-8419	noise	_
 45-31	8420-8421	.	_
 
+Text=A similar concept was applied for blood oxygen level-dependent (BOLD) signal processing using an event-related fMRI design.
 46-1	8422-8423	A	_
 46-2	8424-8431	similar	_
 46-3	8432-8439	concept	_
@@ -1489,6 +1535,7 @@
 46-19	8540-8546	design	_
 46-20	8547-8548	.	_
 
+Text=The SOA for event scans including the omission events and tones in the regular positions represent 7 or 8 scans (20,944 or 23,936 ms).
 47-1	8549-8552	The	_
 47-2	8553-8556	SOA	_
 47-3	8557-8560	for	_
@@ -1517,6 +1564,7 @@
 47-26	8683-8684	)	_
 47-27	8685-8686	.	_
 
+Text=Fifty-three event scans were assorted at random among the 247 baseline scans including baseline tones only, with no omission (Fig 1).
 48-1	8687-8698	Fifty-three	_
 48-2	8699-8704	event	_
 48-3	8705-8710	scans	_
@@ -1543,6 +1591,7 @@
 48-24	8821-8822	)	_
 48-25	8823-8824	.	_
 
+Text=BOLD hemodynamic responses for event scans were then compared to those for baseline scans.
 49-1	8825-8829	BOLD	_
 49-2	8830-8841	hemodynamic	_
 49-3	8842-8851	responses	_
@@ -1559,6 +1608,7 @@
 49-14	8909-8914	scans	_
 49-15	8915-8916	.	_
 
+Text=Image acquisition for fMRI BOLD fMRI data acquisition was performed at Juntendo University Hospital using a Philips Achieva 3.0 Tesla MRI scanner with a T2 * -weighted gradient-echo echo-planar imaging (EPI) sequence and 8-channel array receiving head coil for sensitivity-encoding parallel imaging.
 50-1	8917-8922	Image	_
 50-2	8923-8934	acquisition	_
 50-3	8935-8938	for	_
@@ -1605,6 +1655,7 @@
 50-44	9210-9217	imaging	_
 50-45	9218-9219	.	_
 
+Text=The parameters were as follows: echo time (TE) = 35 ms, TR = 2992 ms, field of view (FOV) = 240 × 240 mm, matrix = 96 × 96, flip angle = 90°, number of axial slices = 22, and voxel size = 2.5 × 2.5 × 6.0 mm.
 51-1	9220-9223	The	_
 51-2	9224-9234	parameters	_
 51-3	9235-9239	were	_
@@ -1667,6 +1718,7 @@
 51-60	9435-9437	mm	_
 51-61	9438-9439	.	_
 
+Text=Three hundred scans were collected in each session (total time = 2992 ms × 300 = 897,600 ms).
 52-1	9440-9445	Three	_
 52-2	9446-9453	hundred	_
 52-3	9454-9459	scans	_
@@ -1689,6 +1741,7 @@
 52-20	9533-9534	)	_
 52-21	9535-9536	.	_
 
+Text=Image processing As described in detail previously, imaging data were preprocessed and voxel-based statistical analysis performed using SPM8 software (Wellcome Department of Imaging Neuroscience) running on MATLAB (version 8.3.0, Math Works Inc., 2014).
 53-1	9537-9542	Image	_
 53-2	9543-9553	processing	_
 53-3	9554-9556	As	_
@@ -1731,6 +1784,7 @@
 53-40	9795-9796	)	_
 53-41	9797-9798	.	_
 
+Text=The first four volumes were discarded, and the remaining 296 volumes were preprocessed.
 54-1	9799-9802	The	_
 54-2	9803-9808	first	_
 54-3	9809-9813	four	_
@@ -1747,6 +1801,7 @@
 54-14	9874-9886	preprocessed	_
 54-15	9887-9888	.	_
 
+Text=Preprocessing steps prior to statistical analysis included slice time correction, motion correction, and spatial normalization to a standard template in Montreal Neurological Institute (MNI) space.
 55-1	9889-9902	Preprocessing	_
 55-2	9903-9908	steps	_
 55-3	9909-9914	prior	_
@@ -1778,6 +1833,7 @@
 55-29	10084-10089	space	_
 55-30	10090-10091	.	_
 
+Text=The slice timing was corrected according to the slice order and the fMRI data realigned and subsequently normalized to the standard MNI template using the T1 SPM template, resulting in voxels of 2 × 2 × 2 mm.
 56-1	10092-10095	The	_
 56-2	10096-10101	slice	_
 56-3	10102-10108	timing	_
@@ -1819,6 +1875,7 @@
 56-39	10298-10300	mm	_
 56-40	10301-10302	.	_
 
+Text=All functional images were spatially smoothed using a Gaussian filter kernel (full width at half maximum [FWHM] 8 mm) and the data bandpass filtered (0.008–0.09 Hz).
 57-1	10303-10306	All	_
 57-2	10307-10317	functional	_
 57-3	10318-10324	images	_
@@ -1853,6 +1910,7 @@
 57-32	10472-10473	)	_
 57-33	10474-10475	.	_
 
+Text=Image artifacts originating from head movement were handled using the ART scrubbing procedure (www.nitrc.org/projects/artifact_detect/), and signal contributions from white brain matter, cerebrospinal fluid, and micro head-movement (six parameters) were discerned from the data.
 58-1	10476-10481	Image	_
 58-2	10482-10491	artifacts	_
 58-3	10492-10503	originating	_
@@ -1895,6 +1953,7 @@
 58-40	10756-10760	data	_
 58-41	10761-10762	.	_
 
+Text=The six realignment parameters were included in the design matrix to correct for signal changes caused by head movement.
 59-1	10763-10766	The	_
 59-2	10767-10770	six	_
 59-3	10771-10782	realignment	_
@@ -1916,6 +1975,7 @@
 59-19	10874-10882	movement	_
 59-20	10883-10884	.	_
 
+Text=Event conditions (omission vs. baseline) were modeled using the standard hemodynamic response function.
 60-1	10885-10890	Event	_
 60-2	10891-10901	conditions	_
 60-3	10902-10903	(	_
@@ -1933,6 +1993,7 @@
 60-15	10981-10989	function	_
 60-16	10990-10991	.	_
 
+Text=First level analysis of individual participant images was performed to produce estimates for the contrast of interest (omission vs. tones) according to the general linear model (GLM), and significant signal changes in the contrast were assessed using F-statistics on a voxel-by-voxel basis.
 61-1	10992-10997	First	_
 61-2	10998-11003	level	_
 61-3	11004-11012	analysis	_
@@ -1982,6 +2043,7 @@
 61-47	11281-11286	basis	_
 61-48	11287-11288	.	_
 
+Text=The resulting set of voxel values for the contrast constituted statistical parametric mapping (SPM) of the F-statistic.
 62-1	11289-11292	The	_
 62-2	11293-11302	resulting	_
 62-3	11303-11306	set	_
@@ -2003,6 +2065,7 @@
 62-19	11398-11409	F-statistic	_
 62-20	11410-11411	.	_
 
+Text=Second level analysis was performed on contrast images in a group random-effects analysis using a one-sample t-test.
 63-1	11412-11418	Second	_
 63-2	11419-11424	level	_
 63-3	11425-11433	analysis	_
@@ -2022,6 +2085,7 @@
 63-17	11521-11527	t-test	_
 63-18	11528-11529	.	_
 
+Text=Two-sample t-tests between groups were performed with age and education as covariates (significance threshold p <0.05, family-wise error [FWE] corrected).
 64-1	11530-11540	Two-sample	_
 64-2	11541-11548	t-tests	_
 64-3	11549-11556	between	_
@@ -2050,6 +2114,7 @@
 64-26	11688-11689	)	_
 64-27	11690-11691	.	_
 
+Text=Correlation analysis was also performed between BOLD activities and other factors, including the PANSS, ERP, and DTI data.
 65-1	11692-11703	Correlation	_
 65-2	11704-11712	analysis	_
 65-3	11713-11716	was	_
@@ -2073,6 +2138,7 @@
 65-21	11812-11816	data	_
 65-22	11817-11818	.	_
 
+Text=The activated images were superimposed on the standardized T1-weighted images, and the MNI coordinates of the maximum response in the activated regions presented in SPM8 were converted to Talairach coordinates using the algorithm reported by Lacadie et al .. Talairach labels of activated regions were detected using the Talairach client version 2.4.2 (http: //www.talairach.org/client.html).
 66-1	11819-11822	The	_
 66-2	11823-11832	activated	_
 66-3	11833-11839	images	_
@@ -2133,6 +2199,7 @@
 66-58	12213-12214	)	_
 66-59	12215-12216	.	_
 
+Text=ROI analysis Quantitative analysis of the event-related fMRI data was performed using the region of interest (ROI) method centered on our areas of interest in the cingulate cortex and temporal lobe.
 67-1	12217-12220	ROI	_
 67-2	12221-12229	analysis	_
 67-3	12230-12242	Quantitative	_
@@ -2168,6 +2235,7 @@
 67-33	12412-12416	lobe	_
 67-34	12417-12418	.	_
 
+Text=Estimates of BOLD signal (%) and t-value changes at sound omission were also extracted from select ROIs, including the anterior (S1A Fig) and middle cingulate cortex (S1B Fig), superior and middle temporal gyrus (S1C Fig), and Heschl ’ s gyrus (HSC; S1D Fig), for each participant using the MarsBar SPM toolbox (MRC Cognition and Brain Sciences Unit, Cambridge, UK; http: //marsbar.sourceforge.net).
 68-1	12419-12428	Estimates	_
 68-2	12429-12431	of	_
 68-3	12432-12436	BOLD	_
@@ -2252,6 +2320,7 @@
 68-82	12837-12838	)	_
 68-83	12839-12840	.	_
 
+Text=Registration and analysis of EEG data We used a Brain Amp MR-compatible amplifier (Brain Products, Gilching, Germany) to simultaneously record the EEG and fMRI according to previously reported procedures.
 69-1	12841-12853	Registration	_
 69-2	12854-12857	and	_
 69-3	12858-12866	analysis	_
@@ -2287,6 +2356,7 @@
 69-33	13038-13048	procedures	_
 69-34	13049-13050	.	_
 
+Text=We used a 32-channel EEG cap (Easycap BrainCap-MR 3–0 32Ch) with 30 sintered Ag/Ag Cl ring electrodes placed in accordance with the international 10–10 system.
 70-1	13051-13053	We	_
 70-2	13054-13058	used	_
 70-3	13059-13060	a	_
@@ -2316,6 +2386,7 @@
 70-27	13205-13211	system	_
 70-28	13212-13213	.	_
 
+Text=The FCz site (between Fz and Cz) served as the online reference, maintaining a small distance between the recording reference and the “ active ” electrodes to minimize the risk of amplifier saturation.
 71-1	13214-13217	The	_
 71-2	13218-13221	FCz	_
 71-3	13222-13226	site	_
@@ -2354,6 +2425,7 @@
 71-36	13407-13417	saturation	_
 71-37	13418-13419	.	_
 
+Text=We placed an electrode on the subject ’ s back to record the electrocardiogram and another under their left eye to record the electrooculogram.
 72-1	13420-13422	We	_
 72-2	13423-13429	placed	_
 72-3	13430-13432	an	_
@@ -2380,6 +2452,7 @@
 72-24	13546-13562	electrooculogram	_
 72-25	13563-13564	.	_
 
+Text=We used custom head coils covered with inner foam padding compatible with the electrodes and cables to decrease head movements by reducing any discomfort or pressure from the electrode cap.
 73-1	13565-13567	We	_
 73-2	13568-13572	used	_
 73-3	13573-13579	custom	_
@@ -2412,6 +2485,7 @@
 73-30	13750-13753	cap	_
 73-31	13754-13755	.	_
 
+Text=We maintained an impedance of <5 kΩ between the electrode and scalp during EEG recording.
 74-1	13756-13758	We	_
 74-2	13759-13769	maintained	_
 74-3	13770-13772	an	_
@@ -2430,6 +2504,7 @@
 74-16	13836-13845	recording	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 74-17	13846-13847	.	_
 
+Text=Data were acquired at a 5000 Hz sampling rate (16 bit, 0.5 mV resolution, 16.38 mV dynamic range) with an online bandpass filter of 0.016–250 Hz.
 75-1	13848-13852	Data	_
 75-2	13853-13857	were	_
 75-3	13858-13866	acquired	_
@@ -2462,6 +2537,7 @@
 75-30	13994-13996	Hz	_
 75-31	13997-13998	.	_
 
+Text=EEG artifact correction and validation We subtracted averaged artifacts using Brain Vision Analyzer software algorithms (BrainProducts, Gilching, Germany) to correct the EEG data for MR gradient and ballistocardiac artifacts as described previously.
 76-1	13999-14002	EEG	_
 76-2	14003-14011	artifact	_
 76-3	14012-14022	correction	_
@@ -2500,6 +2576,7 @@
 76-36	14241-14251	previously	_
 76-37	14252-14253	.	_
 
+Text=The EEG data were processed using a bandpass filter of 0.53–70 Hz, down-sampled to 250 Hz, and re-referenced to a common average.
 77-1	14254-14257	The	_
 77-2	14258-14261	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 77-3	14262-14266	data	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -2526,6 +2603,7 @@
 77-24	14377-14384	average	_
 77-25	14385-14386	.	_
 
+Text=We applied additional artifact correction based on independent component analysis (ICA) to exclude repetitive uniform artifacts, such as line noise and eye blinks.
 78-1	14387-14389	We	_
 78-2	14390-14397	applied	_
 78-3	14398-14408	additional	_
@@ -2554,6 +2632,7 @@
 78-26	14546-14552	blinks	_
 78-27	14553-14554	.	_
 
+Text=All independent components that appeared to correspond to horizontal eye movements, blinks, or components potentially assignable to ballistocardiac and residual gradient artifacts were visually inspected and excluded.
 79-1	14555-14558	All	_
 79-2	14559-14570	independent	_
 79-3	14571-14581	components	_
@@ -2585,6 +2664,7 @@
 79-29	14765-14773	excluded	_
 79-30	14774-14775	.	_
 
+Text=We then performed back-projection of the remaining independent components to restore the EEG data to the original voltage and time scales.
 80-1	14776-14778	We	_
 80-2	14779-14783	then	_
 80-3	14784-14793	performed	_
@@ -2608,6 +2688,7 @@
 80-21	14907-14913	scales	_
 80-22	14914-14915	.	_
 
+Text=Finally, we rejected any intervals that included amplitudes> 70 mV.
 81-1	14916-14923	Finally	_
 81-2	14924-14925	,	_
 81-3	14926-14928	we	_
@@ -2622,6 +2703,7 @@
 81-12	14982-14984	mV	_
 81-13	14985-14986	.	_
 
+Text=ERP analysis EEG epochs (100 ms pre-stimulus, 412 ms post-stimulus) associated with each stimulus type were excised from the continuous record at the conclusion of the experiment.
 82-1	14987-14990	ERP	_
 82-2	14991-14999	analysis	_
 82-3	15000-15003	EEG	_
@@ -2654,6 +2736,7 @@
 82-30	15158-15168	experiment	_
 82-31	15169-15170	.	_
 
+Text=All single-trial epochs were pre-stimulus baseline-corrected, and artifact-free epochs were segregated by stimulus codes (omission or baseline tone) and averaged for each subject.
 83-1	15171-15174	All	_
 83-2	15175-15187	single-trial	_
 83-3	15188-15194	epochs	_
@@ -2682,6 +2765,7 @@
 83-26	15345-15352	subject	_
 83-27	15353-15354	.	_
 
+Text=No significant difference was found in the number of accepted epochs between the conditions, and a group average was calculated across all subjects of each group.
 84-1	15355-15357	No	_
 84-2	15358-15369	significant	_
 84-3	15370-15380	difference	_
@@ -2711,6 +2795,7 @@
 84-27	15512-15517	group	_
 84-28	15518-15519	.	_
 
+Text=Difference waveforms were constructed by subtracting the tone-associated waveforms from the omission-associated waveforms.
 85-1	15520-15530	Difference	_
 85-2	15531-15540	waveforms	_
 85-3	15541-15545	were	_
@@ -2726,6 +2811,7 @@
 85-13	15632-15641	waveforms	_
 85-14	15642-15643	.	_
 
+Text=Topographic distributions were inspected to verify that the maximum MMN was observed at the Fz or Cz electrodes, where the MMN is typically greatest.
 86-1	15644-15655	Topographic	_
 86-2	15656-15669	distributions	_
 86-3	15670-15674	were	_
@@ -2753,6 +2839,7 @@
 86-25	15785-15793	greatest	_
 86-26	15794-15795	.	_
 
+Text=Peak MMN amplitudes were detected within latency ranges of 120–185 ms.
 87-1	15796-15800	Peak	_
 87-2	15801-15804	MMN	_
 87-3	15805-15815	amplitudes	_
@@ -2766,6 +2853,7 @@
 87-11	15863-15865	ms	_
 87-12	15866-15867	.	_
 
+Text=Analyses were restricted to MMN amplitudes and latencies at Fz and Cz for the purposes of this study, and the MMN amplitudes were measured relative to the pre-stimulus baseline.
 88-1	15868-15876	Analyses	_
 88-2	15877-15881	were	_
 88-3	15882-15892	restricted	_
@@ -2798,6 +2886,7 @@
 88-30	16037-16045	baseline	_
 88-31	16046-16047	.	_
 
+Text=Image acquisition for DTI All MRI scans for DTI were obtained following image acquisition for fMRI as described previously.
 89-1	16048-16053	Image	_
 89-2	16054-16065	acquisition	_
 89-3	16066-16069	for	_
@@ -2819,6 +2908,7 @@
 89-19	16160-16170	previously	_
 89-20	16171-16172	.	_
 
+Text=Regular structural images, such as T1-weighted spin-echo images, T2-weighted turbo spin-echo images, and fluid-attenuated inversion recovery images, were obtained before the acquisition of diffusion tensor images.
 90-1	16173-16180	Regular	_
 90-2	16181-16191	structural	_
 90-3	16192-16198	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -2851,6 +2941,7 @@
 90-30	16383-16389	images	_
 90-31	16390-16391	.	_
 
+Text=DTI was performed utilizing the spin-echo echo-planar technique with the following parameters: echo time = 70 ms, repetition time = 5452 ms, voxel size = 1.75 × 1.75 × 3 mm, number of averages = 2, and contiguous axial slices = 50.
 91-1	16392-16395	DTI	_
 91-2	16396-16399	was	_
 91-3	16400-16409	performed	_
@@ -2900,6 +2991,7 @@
 91-47	16625-16627	50	_
 91-48	16628-16629	.	_
 
+Text=Images were obtained with 32-direction diffusion encoding (b = 1000 s/mm2 for each direction) and no diffusion encoding (b = 0 s/mm2).
 92-1	16630-16636	Images	_
 92-2	16637-16641	were	_
 92-3	16642-16650	obtained	_
@@ -2928,6 +3020,7 @@
 92-26	16766-16767	)	_
 92-27	16768-16769	.	_
 
+Text=The scan time was 7 min 17 s. DTI analysis Tract-based spatial statistics As described in detail previously, we first carried out voxel-wise statistical analysis as an exploratory analysis using tract-based spatial statistics (TBSS) (S2 Fig), which is available as part of the FMRIB software library (FSL).
 93-1	16770-16773	The	_
 93-2	16774-16778	scan	_
 93-3	16779-16783	time	_
@@ -2985,6 +3078,7 @@
 93-55	17082-17083	)	_
 93-56	17084-17085	.	_
 
+Text=Diffusion tensor images were preprocessed by FSL version 4.2.1, including skull stripping and eddy current correction.
 94-1	17086-17095	Diffusion	_
 94-2	17096-17102	tensor	_
 94-3	17103-17109	images	_
@@ -3004,6 +3098,7 @@
 94-17	17194-17204	correction	_
 94-18	17205-17206	.	_
 
+Text=All subjects ’ fractional anisotropy (FA) data were aligned into a common space by applying the non-linear registration tool FNIRT, which uses a b-spline representation of the registration warp field.
 95-1	17207-17210	All	_
 95-2	17211-17219	subjects	_
 95-3	17220-17221	’	_
@@ -3039,6 +3134,7 @@
 95-33	17404-17409	field	_
 95-34	17410-17411	.	_
 
+Text=A mean FA image was provided and thinned to create a mean FA skeleton representing the centers of all tracts common to the group.
 96-1	17412-17413	A	_
 96-2	17414-17418	mean	_
 96-3	17419-17421	FA	_
@@ -3065,6 +3161,7 @@
 96-24	17535-17540	group	_
 96-25	17541-17542	.	_
 
+Text=Group comparisons were performed with Randomise version 2.1 from FSL, and both control vs. patient and patient vs. control contrasts were tested with 5000 permutations.
 97-1	17543-17548	Group	_
 97-2	17549-17560	comparisons	_
 97-3	17561-17565	were	_
@@ -3093,6 +3190,7 @@
 97-26	17699-17711	permutations	_
 97-27	17712-17713	.	_
 
+Text=We used threshold-free cluster enhancement as implemented within Randomise, which provides the ability to perform cluster-based inferences without setting an arbitrary cluster-forming threshold.
 98-1	17714-17716	We	_
 98-2	17717-17721	used	_
 98-3	17722-17736	threshold-free	_
@@ -3119,6 +3217,7 @@
 98-24	17899-17908	threshold	_
 98-25	17909-17910	.	_
 
+Text=Voxel-wise statistical inferences were made on the resulting statistic image, and the significance was set to p <0.05 with correction for FWE.
 99-1	17911-17921	Voxel-wise	_
 99-2	17922-17933	statistical	_
 99-3	17934-17944	inferences	_
@@ -3145,6 +3244,7 @@
 99-24	18051-18054	FWE	_
 99-25	18055-18056	.	_
 
+Text=Tract-specific analysis As our specific interest was the ACC, we performed tract-specific analysis of the 3D diffusion tensor tractograph using dTV II and VOLUME-ONE software (free software from Masutani, http: //www.medimg.info.hiroshima-cu.ac.jp/dTV.IISR/dTV.htm) on a Windows PC workstation as described previously.
 100-1	18057-18071	Tract-specific	_
 100-2	18072-18080	analysis	_
 100-3	18081-18083	As	_
@@ -3191,6 +3291,7 @@
 100-44	18369-18379	previously	_
 100-45	18380-18381	.	_
 
+Text=Two ROIs were used to extract the cingulum bundle in accordance with the two-ROI method.
 101-1	18382-18385	Two	_
 101-2	18386-18390	ROIs	_
 101-3	18391-18395	were	_
@@ -3208,6 +3309,7 @@
 101-15	18463-18469	method	_
 101-16	18470-18471	.	_
 
+Text=The first ROI (‘ seed ’) was chosen on the coronal plane anterior to the pons (S3A Fig).
 102-1	18472-18475	The	_
 102-2	18476-18481	first	_
 102-3	18482-18485	ROI	_
@@ -3232,6 +3334,7 @@
 102-22	18562-18563	)	_
 102-23	18564-18565	.	_
 
+Text=The second ROI (‘ target ’) was placed on a coronal slice posterior to the genu of the corpus callosum (S3B Fig).
 103-1	18566-18569	The	_
 103-2	18570-18576	second	_
 103-3	18577-18580	ROI	_
@@ -3260,6 +3363,7 @@
 103-26	18681-18682	)	_
 103-27	18683-18684	.	_
 
+Text=The average FA values and mean diffusivity of the AC included in the seed and target (S3D Fig) were calculated separately for each hemisphere after extracting the cingulum bundle (S3C Fig).
 104-1	18685-18688	The	_
 104-2	18689-18696	average	_
 104-3	18697-18699	FA	_
@@ -3297,6 +3401,7 @@
 104-35	18876-18877	)	_
 104-36	18878-18879	.	_
 
+Text=Statistical analysis The MMN, ROI, and DTI data were analyzed by analysis of covariance (ANCOVA) with repeated measures using age and education as covariates.
 105-1	18880-18891	Statistical	_
 105-2	18892-18900	analysis	_
 105-3	18901-18904	The	_
@@ -3327,6 +3432,7 @@
 105-28	19031-19041	covariates	_
 105-29	19042-19043	.	_
 
+Text=Two factors were included for MMN amplitudes and latencies at Fz and Cz: group (patient or control) as a between-subject factor, and electrode (Fz or Cz) as a within-subject factor.
 106-1	19044-19047	Two	_
 106-2	19048-19055	factors	_
 106-3	19056-19060	were	_
@@ -3365,6 +3471,7 @@
 106-36	19224-19230	factor	_
 106-37	19231-19232	.	_
 
+Text=Three factors were included for changes in t-values in the ROI analysis of the cingulate and temporal cortex: group as a between-subject factor, and laterality (right or left) and location (anterior or middle cingulate; STG, MTG, or HSC) as within-subject factors.
 107-1	19233-19238	Three	_
 107-2	19239-19246	factors	_
 107-3	19247-19251	were	_
@@ -3417,6 +3524,7 @@
 107-50	19498-19505	factors	_
 107-51	19506-19507	.	_
 
+Text=Two factors were included for DTI FA values: group as a between-subject factor, and laterality (right or left) as a within-subject factor.
 108-1	19508-19511	Two	_
 108-2	19512-19519	factors	_
 108-3	19520-19524	were	_
@@ -3445,6 +3553,7 @@
 108-26	19643-19649	factor	_
 108-27	19650-19651	.	_
 
+Text=Reduced degrees of freedom (Greenhouse-Geisser) were used when appropriate to counter violations of the sphericity assumption underlying ANCOVA with repeated measures (epsilon values were provided).
 109-1	19652-19659	Reduced	_
 109-2	19660-19667	degrees	_
 109-3	19668-19670	of	_
@@ -3476,6 +3585,7 @@
 109-29	19852-19853	)	_
 109-30	19854-19855	.	_
 
+Text=Changes in the BOLD signal analyzed in ROI analysis using MarsBar were correlated with other fMRI and MMN measures by Pearson ’ s correlation, and alpha values of 0.05 were considered significant.
 110-1	19856-19863	Changes	_
 110-2	19864-19866	in	_
 110-3	19867-19870	the	_
@@ -3511,6 +3621,7 @@
 110-33	20041-20052	significant	_
 110-34	20053-20054	.	_
 
+Text=PASW Statistics software for Windows version 18.0.0 (SPSS Inc., Chicago, IL, USA) was used for all analyses.
 111-1	20055-20059	PASW	_
 111-2	20060-20070	Statistics	_
 111-3	20071-20079	software	_

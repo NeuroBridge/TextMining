@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Examining resting-state functional connectivity in first-episode schizophrenia with 7T fMRI and MEG Schizophrenia is often characterized by dysconnections in the brain, which can be estimated via functional connectivity analyses.
 1-1	0-9	Examining	_
 1-2	10-23	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 1-3	24-34	functional	_
@@ -34,6 +35,7 @@
 1-30	221-229	analyses	_
 1-31	230-231	.	_
 
+Text=Commonly measured using resting-state functional magnetic resonance imaging (fMRI) in order to characterize the intrinsic or baseline function of the brain, fMRI functional connectivity has significantly contributed to the understanding of schizophrenia.
 2-1	232-240	Commonly	_
 2-2	241-249	measured	_
 2-3	250-255	using	_
@@ -71,6 +73,7 @@
 2-35	475-488	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-36	489-490	.	_
 
+Text=However, these measures may not capture the full extent of functional connectivity abnormalities in schizophrenia as fMRI is temporally limited by the hemodynamic response.
 3-1	491-498	However	_
 3-2	499-500	,	_
 3-3	501-506	these	_
@@ -98,6 +101,7 @@
 3-25	655-663	response	_
 3-26	664-665	.	_
 
+Text=In order to extend fMRI functional connectivity findings, the complementary modality of magnetoencephalography (MEG) can be utilized to capture electrophysiological functional connectivity abnormalities in schizophrenia that are not obtainable with fMRI.
 4-1	666-668	In	_
 4-2	669-674	order	_
 4-3	675-677	to	_
@@ -134,6 +138,7 @@
 4-34	918-922	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 4-35	923-924	.	_
 
+Text=Therefore, we implemented a multimodal functional connectivity analysis using resting-state 7 Tesla fMRI and MEG data in a sample of first-episode patients with schizophrenia (n = 19) and healthy controls (n = 24).
 5-1	925-934	Therefore	_
 5-2	935-936	,	_
 5-3	937-939	we	_
@@ -174,6 +179,7 @@
 5-38	1142-1143	)	_
 5-39	1144-1145	.	_
 
+Text=fMRI and MEG data were decomposed into components reflecting resting state networks using a group spatial independent component analysis.
 6-1	1146-1150	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 6-2	1151-1154	and	_
 6-3	1155-1158	MEG	_
@@ -195,6 +201,7 @@
 6-19	1274-1282	analysis	_
 6-20	1283-1284	.	_
 
+Text=Functional connectivity between resting-state networks was computed and group differences were observed.
 7-1	1285-1295	Functional	_
 7-2	1296-1308	connectivity	_
 7-3	1309-1316	between	_
@@ -209,6 +216,7 @@
 7-12	1380-1388	observed	_
 7-13	1389-1390	.	_
 
+Text=In fMRI, patients demonstrated hyperconnectivity between subcortical and auditory networks, as well as hypoconnectivity between interhemispheric homotopic sensorimotor network components.
 8-1	1391-1393	In	_
 8-2	1394-1398	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 8-3	1399-1400	,	_
@@ -233,6 +241,7 @@
 8-22	1569-1579	components	_
 8-23	1580-1581	.	_
 
+Text=In MEG, patients demonstrated hypoconnectivity between sensorimotor and task positive networks in the delta frequency band.
 9-1	1582-1584	In	_
 9-2	1585-1588	MEG	_
 9-3	1589-1590	,	_
@@ -252,6 +261,7 @@
 9-17	1701-1705	band	_
 9-18	1706-1707	.	_
 
+Text=Results not only support the dysconnectivity hypothesis of schizophrenia, but also suggest the importance of jointly examining multimodal neuroimaging data as critical disorder-related information may not be detectable in a single modality alone.
 10-1	1708-1715	Results	_
 10-2	1716-1719	not	_
 10-3	1720-1724	only	_
@@ -288,6 +298,7 @@
 10-34	1949-1954	alone	_
 10-35	1955-1956	.	_
 
+Text=Highlights Altered subcortical-auditory fMRI functional connectivity at rest in first-episode.
 11-1	1957-1967	Highlights	_
 11-2	1968-1975	Altered	_
 11-3	1976-1996	subcortical-auditory	_
@@ -300,6 +311,7 @@
 11-10	2037-2050	first-episode	_
 11-11	2051-2052	.	_
 
+Text=fMRI sensorimotor interhemispheric homotopic connectivity altered in first-episode.
 12-1	2053-2057	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 12-2	2058-2070	sensorimotor	_
 12-3	2071-2087	interhemispheric	_
@@ -310,6 +322,7 @@
 12-8	2122-2135	first-episode	_
 12-9	2136-2137	.	_
 
+Text=Sensorimotor-task positive connectivity alterations in delta frequency band.
 13-1	2138-2155	Sensorimotor-task	_
 13-2	2156-2164	positive	_
 13-3	2165-2177	connectivity	_
@@ -320,6 +333,7 @@
 13-8	2209-2213	band	_
 13-9	2214-2215	.	_
 
+Text=Materials and methods Participants Minimally treated first-episode patients with schizophrenia were recruited from the University of Alabama at Birmingham (UAB) emergency room, inpatient units, and various outpatient clinics.
 14-1	2216-2225	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-2	2226-2229	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-3	2230-2237	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -354,6 +368,7 @@
 14-32	2437-2444	clinics	_
 14-33	2445-2446	.	_
 
+Text=Informed consent to participate in this UAB Institutional Review Board (IRB) approved study was obtained following evaluation of competency to provide informed consent.
 15-1	2447-2455	Informed	_
 15-2	2456-2463	consent	_
 15-3	2464-2466	to	_
@@ -381,6 +396,7 @@
 15-25	2609-2616	consent	_
 15-26	2617-2618	.	_
 
+Text=Additionally, healthy controls matched on age, gender, parental socioeconomic status (SES), years of education, and smoking status were enrolled in the study.
 16-1	2619-2631	Additionally	_
 16-2	2632-2633	,	_
 16-3	2634-2641	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -412,6 +428,7 @@
 16-29	2778-2783	study	_
 16-30	2784-2785	.	_
 
+Text=Diagnoses were established with a review of medical records and evaluation by two board certified psychiatrists (ACL and NVK) and confirmed using the Diagnostic Interview for Genetic Studies.
 17-1	2786-2795	Diagnoses	_
 17-2	2796-2800	were	_
 17-3	2801-2812	established	_
@@ -444,6 +461,7 @@
 17-30	2971-2978	Studies	http://maven.renci.org/NeuroBridge/neurobridge#DiagnosticInterviewforGeneticStudies
 17-31	2979-2980	.	_
 
+Text=Exclusion criteria for this study included the presence of major medical or neurological conditions, history of head trauma with loss of consciousness, substance abuse within six months of imaging (excluding nicotine), pregnancy, MRI contraindications, and use of medication altering brain function.
 18-1	2981-2990	Exclusion	_
 18-2	2991-2999	criteria	_
 18-3	3000-3003	for	_
@@ -494,6 +512,7 @@
 18-48	3278-3286	function	_
 18-49	3287-3288	.	_
 
+Text=Exclusion criteria for healthy controls also included a personal history of Axis I disorders or in first-degree relatives.
 19-1	3289-3298	Exclusion	_
 19-2	3299-3307	criteria	_
 19-3	3308-3311	for	_
@@ -514,6 +533,7 @@
 19-18	3401-3410	relatives	_
 19-19	3411-3412	.	_
 
+Text=A total of 23 first-episode patients with schizophrenia were enrolled in the study.
 20-1	3413-3414	A	_
 20-2	3415-3420	total	_
 20-3	3421-3423	of	_
@@ -529,6 +549,7 @@
 20-13	3490-3495	study	_
 20-14	3496-3497	.	_
 
+Text=Of these, fMRI resting-state data for 19 patients remained for analysis as one subject was too large, one subject was unable to complete the scan due to scanner intolerability, one subject was excluded due to poor scan quality, and one subject did not complete a resting-state fMRI scan.
 21-1	3498-3500	Of	_
 21-2	3501-3506	these	_
 21-3	3507-3508	,	_
@@ -583,6 +604,7 @@
 21-52	3784-3788	scan	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 21-53	3789-3790	.	_
 
+Text=MEG data for 19 patients remained for analysis as one subject was too large, one subject was lost to follow-up, one subject was hospitalized long-term, and data for one subject lacked head position sensor information.
 22-1	3791-3794	MEG	_
 22-2	3795-3799	data	_
 22-3	3800-3803	for	_
@@ -623,6 +645,7 @@
 22-38	3999-4010	information	_
 22-39	4011-4012	.	_
 
+Text=A total of 24 matched healthy controls were enrolled in the study.
 23-1	4013-4014	A	_
 23-2	4015-4020	total	_
 23-3	4021-4023	of	_
@@ -637,6 +660,7 @@
 23-12	4073-4078	study	_
 23-13	4079-4080	.	_
 
+Text=Of the 24 controls enrolled, fMRI resting-state data for 21 subjects remained for analysis as three subjects did not complete a resting-state fMRI scan.
 24-1	4081-4083	Of	_
 24-2	4084-4087	the	_
 24-3	4088-4090	24	_
@@ -664,6 +688,7 @@
 24-25	4229-4233	scan	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 24-26	4234-4235	.	_
 
+Text=MEG data for 24 controls remained for MEG analysis.
 25-1	4236-4239	MEG	_
 25-2	4240-4244	data	_
 25-3	4245-4248	for	_
@@ -675,6 +700,7 @@
 25-9	4278-4286	analysis	_
 25-10	4287-4288	.	_
 
+Text=Symptom severity was assessed using the Brief Psychiatric Rating Scale (BPRS), the Scale for the Assessment of Negative Symptoms (SANS), and the Scale for the Assessment of Positive Symptoms (SAPS).
 26-1	4289-4296	Symptom	_
 26-2	4297-4305	severity	_
 26-3	4306-4309	was	_
@@ -715,6 +741,7 @@
 26-38	4493-4494	)	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofPositiveSymptoms
 26-39	4495-4496	.	_
 
+Text=The Repeatable Battery for the Assessment of Neuropsychological Status (RBANS) was used to assess cognitive function for healthy controls and patients.
 27-1	4497-4500	The	_
 27-2	4501-4511	Repeatable	http://maven.renci.org/NeuroBridge/neurobridge#DevelopmentalNeuropsychologicalAssessment
 27-3	4512-4519	Battery	http://maven.renci.org/NeuroBridge/neurobridge#DevelopmentalNeuropsychologicalAssessment
@@ -740,6 +767,7 @@
 27-23	4641-4649	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 27-24	4650-4651	.	_
 
+Text=Functional MRI analysis fMRI scanning parameters All scans were performed at the Auburn University MRI Research Center on a whole-body 7 T Siemens MAGNETOM MRI scanner (Siemens Healthineers, Erlangen, Germany), with a 32-channel head coil.
 28-1	4652-4662	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 28-2	4663-4666	MRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 28-3	4667-4675	analysis	_
@@ -782,6 +810,7 @@
 28-40	4891-4895	coil	_
 28-41	4896-4897	.	_
 
+Text=High-resolution structural scans were acquired using a 3-dimensional T1-weighted magnetization-prepared rapid acquisition gradient-echo sequence (MPRAGE; 256 slices, repetition time/echo time/inversion time [TR/TE/TI] = 2000/2.89/1050 ms, 7° flip angle, 190 mm field of view, 0.7 mm isotropic voxels, base resolution = 256, sagittal acquisition, GRAPPA acceleration factor = 2).
 29-1	4898-4913	High-resolution	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 29-2	4914-4924	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 29-3	4925-4930	scans	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -844,6 +873,7 @@
 29-60	5286-5287	)	_
 29-61	5288-5289	.	_
 
+Text=Resting-state fMRI scans were acquired using a gradient recalled echo-planar imaging sequence (TR/TE = 3000/28 ms, 70° flip angle, 200 mm field of view, 37 slices, 0.85 mm × 0.85 mm × 1.8 mm voxels, iPAT GRAPPA acceleration factor = 3, base resolution = 234, interleaved acquisition, A> P phase encode direction, 1 ms echo spacing, gap = 1.08 mm).
 30-1	5290-5303	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 30-2	5304-5308	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 30-3	5309-5314	scans	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -919,6 +949,7 @@
 30-73	5648-5649	)	_
 30-74	5650-5651	.	_
 
+Text=Six-minute resting-state scans consisted of 120 volumes.
 31-1	5652-5662	Six-minute	_
 31-2	5663-5676	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 31-3	5677-5682	scans	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -928,6 +959,7 @@
 31-7	5700-5707	volumes	_
 31-8	5708-5709	.	_
 
+Text=Field maps were acquired using a gradient-recalled echo (GRE) sequence (TR/TE1/TE2 = 400/4.92/7.38 ms, 60° flip angle, 200 mm field of view, 36 slices, 3.1 mm × 3.1 mm × 3.0 mm voxels, base resolution = 64, interleaved acquisition, gap = 0.75 mm).
 32-1	5710-5715	Field	_
 32-2	5716-5720	maps	_
 32-3	5721-5725	were	_
@@ -984,6 +1016,7 @@
 32-54	5966-5967	)	_
 32-55	5968-5969	.	_
 
+Text=fMRI preprocessing Data preprocessing of resting-state scans was performed with SPM12 (Wellcome Trust Centre for Neuroimaging, London, UK; http: //www.fil.ion.ucl.ac.uk/spm/) and the “ CONN ” Connectivity Toolbox using standard preprocessing steps.
 33-1	5970-5974	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 33-2	5975-5988	preprocessing	_
 33-3	5989-5993	Data	_
@@ -1023,6 +1056,7 @@
 33-37	6218-6223	steps	_
 33-38	6224-6225	.	_
 
+Text=More specifically, preprocessing steps included realignment and unwarping using phase maps, slice timing correction, coregistration to anatomical space using the T1-weighted MPRAGE structural image and using the first functional image as reference, normalization to Montreal Neurological Institute (MNI) space using the first functional volume as reference, artifact detection, and Gaussian smoothing [5 mm full-width half-maximum (FWHM)].
 34-1	6226-6230	More	_
 34-2	6231-6243	specifically	_
 34-3	6244-6245	,	_
@@ -1093,6 +1127,7 @@
 34-68	6675-6676	]	_
 34-69	6677-6678	.	_
 
+Text=Resulting preprocessed functional resting-state data maintained a spatial resolution of 0.855 mm × 0.855 mm × 2.88 mm.
 35-1	6679-6688	Resulting	_
 35-2	6689-6701	preprocessed	_
 35-3	6702-6712	functional	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1113,6 +1148,7 @@
 35-18	6794-6796	mm	_
 35-19	6797-6798	.	_
 
+Text=fMRI group independent component analysis The Group ICA of fMRI Toolbox (GIFT; http: //mialab.mrn.org/software/gift) was used to perform group-level spatial independent component analysis (ICA).
 36-1	6799-6803	fMRI	_
 36-2	6804-6809	group	_
 36-3	6810-6821	independent	_
@@ -1145,6 +1181,7 @@
 36-30	6997-6998	)	_
 36-31	6999-7000	.	_
 
+Text=A subject-specific data reduction principal component analysis (PCA) first reduced the data to 75 principal components followed by a group data reduction retaining 50 principal components.
 37-1	7001-7002	A	_
 37-2	7003-7019	subject-specific	_
 37-3	7020-7024	data	_
@@ -1175,6 +1212,7 @@
 37-28	7180-7190	components	_
 37-29	7191-7192	.	_
 
+Text=In order to carry out PCA in a memory efficient-manner, PCA was carried out using the expectation maximization algorithm.
 38-1	7193-7195	In	_
 38-2	7196-7201	order	_
 38-3	7202-7204	to	_
@@ -1197,6 +1235,7 @@
 38-20	7305-7314	algorithm	_
 38-21	7315-7316	.	_
 
+Text=The infomax algorithm was then utilized for group-level spatial ICA to generate 50 spatially independent components (ICs) (See Supplementary Fig.
 39-1	7317-7320	The	_
 39-2	7321-7328	infomax	_
 39-3	7329-7338	algorithm	_
@@ -1222,6 +1261,7 @@
 39-23	7461-7464	Fig	_
 39-24	7465-7466	.	_
 
+Text=1 for estimation of the number of ICs using minimum description length criteria).
 40-1	7467-7468	1	_
 40-2	7469-7472	for	_
 40-3	7473-7483	estimation	_
@@ -1238,6 +1278,7 @@
 40-14	7547-7548	)	_
 40-15	7549-7550	.	_
 
+Text=In order to measure component stability/quality, the infomax ICA algorithm was repeated 20 times in ICASSO and the most representative run was used in subsequent steps.
 41-1	7551-7553	In	_
 41-2	7554-7559	order	_
 41-3	7560-7562	to	_
@@ -1267,6 +1308,7 @@
 41-27	7714-7719	steps	_
 41-28	7720-7721	.	_
 
+Text=Subject-specific spatial maps and time courses were estimated using GICA back-reconstruction.
 42-1	7722-7738	Subject-specific	_
 42-2	7739-7746	spatial	_
 42-3	7747-7751	maps	_
@@ -1280,6 +1322,7 @@
 42-11	7795-7814	back-reconstruction	_
 42-12	7815-7816	.	_
 
+Text=fMRI component identification In accordance with previous studies, ICs were classified as resting-state networks (RSNs), rather than artifacts, based on spectral properties and functional relevance.
 43-1	7817-7821	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 43-2	7822-7831	component	_
 43-3	7832-7846	identification	_
@@ -1312,6 +1355,7 @@
 43-30	8010-8019	relevance	_
 43-31	8020-8021	.	_
 
+Text=The power spectra for each component were characterized by dynamic range and the ratio of low frequency to high frequency power.
 44-1	8022-8025	The	_
 44-2	8026-8031	power	_
 44-3	8032-8039	spectra	_
@@ -1335,6 +1379,7 @@
 44-21	8144-8149	power	_
 44-22	8150-8151	.	_
 
+Text=Dynamic range can be defined as the difference between maximum power and minimum power at frequencies to the right of the power spectra peak.
 45-1	8152-8159	Dynamic	_
 45-2	8160-8165	range	_
 45-3	8166-8169	can	_
@@ -1361,6 +1406,7 @@
 45-24	8288-8292	peak	_
 45-25	8293-8294	.	_
 
+Text=The ratio of low frequency to high frequency power can be defined as the ratio of integral spectral power below 0.1 Hz to integral spectral power between 0.15 and 0.167 Hz.
 46-1	8295-8298	The	_
 46-2	8299-8304	ratio	_
 46-3	8305-8307	of	_
@@ -1394,6 +1440,7 @@
 46-31	8464-8466	Hz	_
 46-32	8467-8468	.	_
 
+Text=Components were also evaluated for functional relevance via visual inspection.
 47-1	8469-8479	Components	_
 47-2	8480-8484	were	_
 47-3	8485-8489	also	_
@@ -1406,6 +1453,7 @@
 47-10	8536-8546	inspection	_
 47-11	8547-8548	.	_
 
+Text=Components were inspected and classified as non-artifactual or RSNs based on the following criteria: (1) peak activations should occur primarily in grey matter and correspond anatomically to known functional brain networks, (2) low spatial overlap with vascular, ventricular, motion and susceptibility artifacts, (3) time courses predominantly characterized by low frequency fluctuations.
 48-1	8549-8559	Components	_
 48-2	8560-8564	were	_
 48-3	8565-8574	inspected	_
@@ -1470,6 +1518,7 @@
 48-62	8935-8947	fluctuations	_
 48-63	8948-8949	.	_
 
+Text=Of the 50 components extracted, 30 were identified as RSNs (Fig.
 49-1	8950-8952	Of	_
 49-2	8953-8956	the	_
 49-3	8957-8959	50	_
@@ -1485,10 +1534,12 @@
 49-13	9012-9015	Fig	_
 49-14	9016-9017	.	_
 
+Text=1).
 50-1	9018-9019	1	_
 50-2	9020-9021	)	_
 50-3	9022-9023	.	_
 
+Text=MEG analysis MEG scanning parameters Resting-state MEG recordings were collected in a shielded room below ground level using a 148-channel whole head magnetometer (MagnesTM 2500 WH, 4-D Neuroimaging) at the University of Alabama at Birmingham.
 51-1	9024-9027	MEG	_
 51-2	9028-9036	analysis	_
 51-3	9037-9040	MEG	_
@@ -1529,6 +1580,7 @@
 51-38	9259-9269	Birmingham	_
 51-39	9270-9271	.	_
 
+Text=Recordings were sampled at a rate of 1000 Hz, with a bandpass filter of 0.1 to 200 Hz.
 52-1	9272-9282	Recordings	_
 52-2	9283-9287	were	_
 52-3	9288-9295	sampled	_
@@ -1550,6 +1602,7 @@
 52-19	9356-9358	Hz	_
 52-20	9359-9360	.	_
 
+Text=Fiducial head-sensor coils were used to ensure the subject's head did not move during a scan.
 53-1	9361-9369	Fiducial	_
 53-2	9370-9381	head-sensor	_
 53-3	9382-9387	coils	_
@@ -1569,6 +1622,7 @@
 53-17	9450-9454	scan	_
 53-18	9455-9456	.	_
 
+Text=Additional head-sensor data were collected using a 3D digitizer and later used for registration between each subject's MEG and anatomical MRI.
 54-1	9457-9467	Additional	_
 54-2	9468-9479	head-sensor	_
 54-3	9480-9484	data	_
@@ -1593,6 +1647,7 @@
 54-22	9596-9599	MRI	_
 54-23	9600-9601	.	_
 
+Text=During the 5-min resting-state scan, subjects were placed in the supine position with eyes closed.
 55-1	9602-9608	During	_
 55-2	9609-9612	the	_
 55-3	9613-9618	5-min	_
@@ -1611,6 +1666,7 @@
 55-16	9694-9700	closed	_
 55-17	9701-9702	.	_
 
+Text=Visual inspection of the real-time display showed no MEG correlates of sleep.
 56-1	9703-9709	Visual	_
 56-2	9710-9720	inspection	_
 56-3	9721-9723	of	_
@@ -1625,6 +1681,7 @@
 56-12	9774-9779	sleep	_
 56-13	9780-9781	.	_
 
+Text=Subjects were also clearly responsive immediately before and after the scanning period as they all instantly opened their eyes upon instruction.
 57-1	9782-9790	Subjects	_
 57-2	9791-9795	were	_
 57-3	9796-9800	also	_
@@ -1648,6 +1705,7 @@
 57-21	9914-9925	instruction	_
 57-22	9926-9927	.	_
 
+Text=MEG preprocessing MEG data were analyzed using Brainstorm.
 58-1	9928-9931	MEG	_
 58-2	9932-9945	preprocessing	_
 58-3	9946-9949	MEG	_
@@ -1658,6 +1716,7 @@
 58-8	9975-9985	Brainstorm	_
 58-9	9986-9987	.	_
 
+Text=Preprocessing of the raw data included removal of line noise data using a notch filter (60, 120, 180, 240, 300 Hz) and high-pass filtering at 0.3 Hz.
 59-1	9988-10001	Preprocessing	_
 59-2	10002-10004	of	_
 59-3	10005-10008	the	_
@@ -1693,6 +1752,7 @@
 59-33	10140-10142	Hz	_
 59-34	10143-10144	.	_
 
+Text=Cardiac and motion artifact was removed from the signal using an independent component analysis where the signal was decomposed into 20 independent components using JADE (joint approximate diagonalization of eigenmatrices).
 60-1	10145-10152	Cardiac	_
 60-2	10153-10156	and	_
 60-3	10157-10163	motion	_
@@ -1727,6 +1787,7 @@
 60-32	10368-10369	)	_
 60-33	10370-10371	.	_
 
+Text=Additional artifacts were removed using a signal-space projection method.
 61-1	10372-10382	Additional	_
 61-2	10383-10392	artifacts	_
 61-3	10393-10397	were	_
@@ -1738,6 +1799,7 @@
 61-9	10438-10444	method	_
 61-10	10445-10446	.	_
 
+Text=Resting-state MEG data was then registered to individual subject high resolution structural MRI scans.
 62-1	10447-10460	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 62-2	10461-10464	MEG	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 62-3	10465-10469	data	_
@@ -1754,6 +1816,7 @@
 62-14	10543-10548	scans	_
 62-15	10549-10550	.	_
 
+Text=Prior to MEG-MRI registration, cortical surfaces and subcortical structures from each structural MRI were extracted using the FreeSurfer image analysis suite (http: //surfer.nmr.mgh.harvard.edu/) and subsequently inspected using FreeSurfer's QA Tools.
 63-1	10551-10556	Prior	_
 63-2	10557-10559	to	_
 63-3	10560-10567	MEG-MRI	http://maven.renci.org/NeuroBridge/neurobridge#Magnetoencephalography
@@ -1791,6 +1854,7 @@
 63-35	10801-10806	Tools	_
 63-36	10807-10808	.	_
 
+Text=Data identified as unsatisfactory during quality assurance were manually corrected and reprocessed.
 64-1	10809-10813	Data	_
 64-2	10814-10824	identified	_
 64-3	10825-10827	as	_
@@ -1805,6 +1869,7 @@
 64-12	10896-10907	reprocessed	_
 64-13	10908-10909	.	_
 
+Text=A pseudo-individual anatomy for each subject missing structural MRI scans (n = 5) was created by warping the default ICBM 152 template anatomy in Brainstorm to the digitized head points.
 65-1	10910-10911	A	_
 65-2	10912-10929	pseudo-individual	_
 65-3	10930-10937	anatomy	_
@@ -1839,6 +1904,7 @@
 65-32	11091-11097	points	_
 65-33	11098-11099	.	_
 
+Text=A 15,000-vertex cortical surface source model was used for head modeling.
 66-1	11100-11101	A	_
 66-2	11102-11115	15,000-vertex	_
 66-3	11116-11124	cortical	_
@@ -1852,6 +1918,7 @@
 66-11	11164-11172	modeling	_
 66-12	11173-11174	.	_
 
+Text=Forward volume head modeling of the magnetic field was defined using an overlapping-sphere method where voxels were placed on a 5 mm3 grid of the brain.
 67-1	11175-11182	Forward	_
 67-2	11183-11189	volume	_
 67-3	11190-11194	head	_
@@ -1880,6 +1947,7 @@
 67-26	11321-11326	brain	_
 67-27	11327-11328	.	_
 
+Text=Inverse source modeling was performed using a linearly-constrained minimum variance (LCMV) beamformer.
 68-1	11329-11336	Inverse	_
 68-2	11337-11343	source	_
 68-3	11344-11352	modeling	_
@@ -1896,6 +1964,7 @@
 68-14	11422-11432	beamformer	_
 68-15	11433-11434	.	_
 
+Text=Beamformer projection was performed using an unconstrained dipole orientation for each subject separately.
 69-1	11435-11445	Beamformer	_
 69-2	11446-11456	projection	_
 69-3	11457-11460	was	_
@@ -1911,6 +1980,7 @@
 69-13	11530-11540	separately	_
 69-14	11541-11542	.	_
 
+Text=Data covariance matrices generated for each subject were regularized using a median eigenvalue approach where the tail of the eigenvalues spectrum is flattened to the median value.
 70-1	11543-11547	Data	_
 70-2	11548-11558	covariance	_
 70-3	11559-11567	matrices	_
@@ -1940,6 +2010,7 @@
 70-27	11717-11722	value	_
 70-28	11723-11724	.	_
 
+Text=MEG Hilbert envelope computation The Hilbert transform was applied to the resting-state time courses in which the signals were first filtered into delta (1–4 Hz), theta (4–8 Hz), alpha (8–13 Hz), beta (13–30 Hz), and gamma (30–50 Hz) frequency bands using a band-pass filter followed by application of the Hilbert transform.
 71-1	11725-11728	MEG	_
 71-2	11729-11736	Hilbert	_
 71-3	11737-11745	envelope	_
@@ -2007,6 +2078,7 @@
 71-65	12053-12062	transform	_
 71-66	12063-12064	.	_
 
+Text=The absolute value of the transformed signals was subsequently computed in order to provide a measure of the envelope of the signal.
 72-1	12065-12068	The	_
 72-2	12069-12077	absolute	_
 72-3	12078-12083	value	_
@@ -2031,6 +2103,7 @@
 72-22	12190-12196	signal	_
 72-23	12197-12198	.	_
 
+Text=The Hilbert envelope values were then standardized using a 1/frequency compensation where values at each frequency bin were multiplied by the frequency value.
 73-1	12199-12202	The	_
 73-2	12203-12210	Hilbert	_
 73-3	12211-12219	envelope	_
@@ -2056,6 +2129,7 @@
 73-23	12351-12356	value	_
 73-24	12357-12358	.	_
 
+Text=Following spectrum normalization, the Hilbert envelope was downsampled to 1 Hz in accordance with previous studies.
 74-1	12359-12368	Following	_
 74-2	12369-12377	spectrum	_
 74-3	12378-12391	normalization	_
@@ -2075,6 +2149,7 @@
 74-17	12467-12474	studies	_
 74-18	12475-12476	.	_
 
+Text=Therefore, scans consisted of 301 volumes for each frequency band.
 75-1	12477-12486	Therefore	_
 75-2	12487-12488	,	_
 75-3	12489-12494	scans	_
@@ -2088,6 +2163,7 @@
 75-11	12539-12543	band	_
 75-12	12544-12545	.	_
 
+Text=In order to enable comparison between subjects and groups, downsampled source envelope data for each subject were spatially interpolated from the individual subject head model to the MNI ICBM 152 default MRI template in Brainstorm and spatially smoothed (5 mm FWHM).
 76-1	12546-12548	In	_
 76-2	12549-12554	order	_
 76-3	12555-12557	to	_
@@ -2134,6 +2210,7 @@
 76-44	12813-12814	)	_
 76-45	12815-12816	.	_
 
+Text=MEG Group independent component analysis Group-level spatial ICA was performed on the MEG data in the GIFT Toolbox where each frequency band – delta (1–4 Hz), theta (4–8 Hz), alpha (8–13 Hz), beta (13–30 Hz), and gamma (30–50 Hz) – was input as a different session for each individual.
 77-1	12817-12820	MEG	_
 77-2	12821-12826	Group	_
 77-3	12827-12838	independent	_
@@ -2199,6 +2276,7 @@
 77-63	13105-13115	individual	_
 77-64	13116-13117	.	_
 
+Text=Similar to fMRI group ICA analysis, MEG data were first reduced to 75 principal components using a subject-specific data reduction PCA and then reduced to 50 principal components via group data reduction.
 78-1	13118-13125	Similar	_
 78-2	13126-13128	to	_
 78-3	13129-13133	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -2234,6 +2312,7 @@
 78-33	13313-13322	reduction	_
 78-34	13323-13324	.	_
 
+Text=PCA was carried out using the expectation maximization algorithm.
 79-1	13325-13328	PCA	_
 79-2	13329-13332	was	_
 79-3	13333-13340	carried	_
@@ -2245,6 +2324,7 @@
 79-9	13380-13389	algorithm	_
 79-10	13390-13391	.	_
 
+Text=The infomax algorithm was then utilized for group-level spatial ICA to generate 50 spatially independent components (ICs) (See Supplementary Fig.
 80-1	13392-13395	The	_
 80-2	13396-13403	infomax	_
 80-3	13404-13413	algorithm	_
@@ -2270,6 +2350,7 @@
 80-23	13536-13539	Fig	_
 80-24	13540-13541	.	_
 
+Text=1 for estimation of the number of ICs using minimum description length criteria).
 81-1	13542-13543	1	_
 81-2	13544-13547	for	_
 81-3	13548-13558	estimation	_
@@ -2286,6 +2367,7 @@
 81-14	13622-13623	)	_
 81-15	13624-13625	.	_
 
+Text=Component stability/quality was measured by repeating the infomax ICA algorithm 20 times in ICASSO.
 82-1	13626-13635	Component	_
 82-2	13636-13653	stability/quality	_
 82-3	13654-13657	was	_
@@ -2302,6 +2384,7 @@
 82-14	13718-13724	ICASSO	_
 82-15	13725-13726	.	_
 
+Text=Subject-specific spatial maps and time courses were estimated using GICA back-reconstruction.
 83-1	13727-13743	Subject-specific	_
 83-2	13744-13751	spatial	_
 83-3	13752-13756	maps	_
@@ -2315,6 +2398,7 @@
 83-11	13800-13819	back-reconstruction	_
 83-12	13820-13821	.	_
 
+Text=MEG component identification MEG ICs were classified as RSNs, rather than artifacts, following the same method described in the previous section: fMRI Component Identification.
 84-1	13822-13825	MEG	_
 84-2	13826-13835	component	_
 84-3	13836-13850	identification	_
@@ -2344,6 +2428,7 @@
 84-27	13986-14000	Identification	_
 84-28	14001-14002	.	_
 
+Text=Of the 50 components extracted, 33 were identified as RSNs (Fig.
 85-1	14003-14005	Of	_
 85-2	14006-14009	the	_
 85-3	14010-14012	50	_
@@ -2359,10 +2444,12 @@
 85-13	14065-14068	Fig	_
 85-14	14069-14070	.	_
 
+Text=1).
 86-1	14071-14072	1	_
 86-2	14073-14074	)	_
 86-3	14075-14076	.	_
 
+Text=Functional connectivity analysis Functional connectivity analysis Functional connectivity analysis for fMRI and MEG was performed using the spatial maps and corresponding time courses extracted during the ICA analysis.
 87-1	14077-14087	Functional	_
 87-2	14088-14100	connectivity	_
 87-3	14101-14109	analysis	_
@@ -2393,6 +2480,7 @@
 87-28	14286-14294	analysis	_
 87-29	14295-14296	.	_
 
+Text=For the fMRI data, framewise displacement was regressed from the subject-specific RSN time courses prior to connectivity analyses.
 88-1	14297-14300	For	_
 88-2	14301-14304	the	_
 88-3	14305-14309	fMRI	_
@@ -2414,6 +2502,7 @@
 88-19	14419-14427	analyses	_
 88-20	14428-14429	.	_
 
+Text=Framewise displacement was computed as the absolute frame-to-frame displacement of the brain from six realignment parameters using a radius of 50 mm to convert angle rotations to displacements.
 89-1	14430-14439	Framewise	_
 89-2	14440-14452	displacement	_
 89-3	14453-14456	was	_
@@ -2444,6 +2533,7 @@
 89-28	14609-14622	displacements	_
 89-29	14623-14624	.	_
 
+Text=Therefore, individual displacement values for each volume of the time course (i.e., 120 frame-to-frame displacement values) resulted.
 90-1	14625-14634	Therefore	_
 90-2	14635-14636	,	_
 90-3	14637-14647	individual	_
@@ -2467,6 +2557,7 @@
 90-21	14753-14761	resulted	_
 90-22	14762-14763	.	_
 
+Text=Framewise displacement was regressed from the subject-specific RSN time courses prior to functional connectivity analysis.
 91-1	14764-14773	Framewise	_
 91-2	14774-14786	displacement	_
 91-3	14787-14790	was	_
@@ -2484,6 +2575,7 @@
 91-15	14877-14885	analysis	_
 91-16	14886-14887	.	_
 
+Text=It is important to note that mean framewise displacement did not differ between groups [HC: 0.19±0.09 mm (range: 0.07–0.44 mm); SZ: 0.21±0.14 mm (range: 0.04–0.47 mm); t = −0.78, p = .44].
 92-1	14888-14890	It	_
 92-2	14891-14893	is	_
 92-3	14894-14903	important	_
@@ -2531,6 +2623,7 @@
 92-45	15087-15088	]	_
 92-46	15089-15090	.	_
 
+Text=No participants exceeded mean framewise displacement of 0.5 mm.
 93-1	15091-15093	No	_
 93-2	15094-15106	participants	_
 93-3	15107-15115	exceeded	_
@@ -2542,6 +2635,7 @@
 93-9	15151-15153	mm	_
 93-10	15154-15155	.	_
 
+Text=The number of head motion outliers (defined as FD> 0.5 mm) did not differ between groups (HC: 5.67±6.51%, SZ: 6.79+/− 7.49%, t = −0.51 p = .62).
 94-1	15156-15159	The	_
 94-2	15160-15166	number	_
 94-3	15167-15169	of	_
@@ -2582,6 +2676,7 @@
 94-38	15309-15310	)	_
 94-39	15311-15312	.	_
 
+Text=Subject-specific fMRI and MEG RSN time courses were detrended and despiked using 3dDespike (http: //afni.nimh.nih.gov/afni) and then filtered with a fifth-order Butterworth low-pass filter (0.15 Hz cutoff) prior to connectivity computation.
 95-1	15313-15329	Subject-specific	_
 95-2	15330-15334	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 95-3	15335-15338	and	_
@@ -2620,6 +2715,7 @@
 95-36	15546-15557	computation	_
 95-37	15558-15559	.	_
 
+Text=Functional connectivity was calculated as the pairwise Pearson correlation between RSN time courses, resulting in individual correlation matrices for each subject's fMRI data and MEG frequency bands.
 96-1	15560-15570	Functional	_
 96-2	15571-15583	connectivity	_
 96-3	15584-15587	was	_
@@ -2651,6 +2747,7 @@
 96-29	15755-15760	bands	_
 96-30	15761-15762	.	_
 
+Text=Time courses were extracted from the independent components obtained by ICA.
 97-1	15763-15767	Time	_
 97-2	15768-15775	courses	_
 97-3	15776-15780	were	_
@@ -2664,6 +2761,7 @@
 97-11	15835-15838	ICA	_
 97-12	15839-15840	.	_
 
+Text=Correlations were based on the average time course across voxels within each independent component.
 98-1	15841-15853	Correlations	_
 98-2	15854-15858	were	_
 98-3	15859-15864	based	_
@@ -2680,6 +2778,7 @@
 98-14	15930-15939	component	_
 98-15	15940-15941	.	_
 
+Text=Individual correlation matrices were averaged across subjects in each group in order to generate group-level connectivity matrices.
 99-1	15942-15952	Individual	_
 99-2	15953-15964	correlation	_
 99-3	15965-15973	matrices	_
@@ -2699,6 +2798,7 @@
 99-17	16064-16072	matrices	_
 99-18	16073-16074	.	_
 
+Text=Within- and between-group differences in functional connectivity were evaluated on subject-level correlation matrices via paired and two-sample univariate t-tests, respectively.
 100-1	16075-16082	Within-	_
 100-2	16083-16086	and	_
 100-3	16087-16100	between-group	_
@@ -2722,6 +2822,7 @@
 100-21	16240-16252	respectively	_
 100-22	16253-16254	.	_
 
+Text=In exploratory post hoc analyses, the relationship between functional connectivity and symptom scores including, BPRS, SAPS, and SANS was explored using Spearman correlations in order to examine the potential impact of symptoms on functional connectivity.
 101-1	16255-16257	In	_
 101-2	16258-16269	exploratory	_
 101-3	16270-16274	post	_

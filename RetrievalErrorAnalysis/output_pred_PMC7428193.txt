@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Association Between Age and Familial Risk for Alcoholism on Functional Connectivity in Adolescence Objective: Youth with a family history of alcohol use disorder (family history positive [FHP]) are at increased risk for developing maladaptive substance use relative to family history negative (FHN) peers.
 1-1	0-11	Association	_
 1-2	12-19	Between	_
 1-3	20-23	Age	_
@@ -54,6 +55,7 @@
 1-50	306-311	peers	_
 1-51	312-313	.	_
 
+Text=Building on earlier studies demonstrating morphological differences and distinct patterns of neural activation in FHP, the purpose of the present study was to investigate differential intrinsic functional connectivity among brain networks indexing premorbid risk of developing alcohol use disorder (AUD).
 2-1	314-322	Building	_
 2-2	323-325	on	_
 2-3	326-333	earlier	_
@@ -99,6 +101,7 @@
 2-43	619-620	)	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 2-44	621-622	.	_
 
+Text=Method: The current study examined intrinsic functional connectivity using resting state functional magnetic resonance imaging in 191 adolescents 13 to 18 years of age with and without family history of AUD via independent component analysis, a method enabling data-driven investigation of internetwork and intranetwork connectivity among brain regions at rest.
 3-1	623-629	Method	_
 3-2	630-631	:	_
 3-3	632-635	The	_
@@ -153,6 +156,7 @@
 3-52	981-985	rest	_
 3-53	986-987	.	_
 
+Text=Results: Analyses revealed significantly lower intranetwork connectivity in FHP compared to FHN participants between the dorsal premotor cortex and other sensorimotor network regions.
 4-1	988-995	Results	_
 4-2	996-997	:	_
 4-3	998-1006	Analyses	_
@@ -179,6 +183,7 @@
 4-24	1164-1171	regions	_
 4-25	1172-1173	.	_
 
+Text=Reduced intranetwork connectivity in this region was further correlated with the number of biological family members with AUD and mood disorders.
 5-1	1174-1181	Reduced	_
 5-2	1182-1194	intranetwork	_
 5-3	1195-1207	connectivity	_
@@ -202,6 +207,7 @@
 5-21	1309-1318	disorders	_
 5-22	1319-1320	.	_
 
+Text=Robust differences were also evident in internetwork connectivity as a function of age.
 6-1	1321-1327	Robust	_
 6-2	1328-1339	differences	_
 6-3	1340-1344	were	_
@@ -217,6 +223,7 @@
 6-13	1404-1407	age	_
 6-14	1408-1409	.	_
 
+Text=However, there was no evidence for family history by age interactions.
 7-1	1410-1417	However	_
 7-2	1418-1419	,	_
 7-3	1420-1425	there	_
@@ -231,6 +238,7 @@
 7-12	1468-1480	interactions	_
 7-13	1481-1482	.	_
 
+Text=Conclusion: Intra- but not internetwork connectivity appears to differentiate FHP and FHN adolescents, whereas age differences within adolescence are marked by differences in internetwork connectivity.
 8-1	1483-1493	Conclusion	_
 8-2	1494-1495	:	_
 8-3	1496-1502	Intra-	_
@@ -260,6 +268,7 @@
 8-27	1673-1685	connectivity	_
 8-28	1686-1687	.	_
 
+Text=METHOD Participants Participants were 191 adolescents 13 to 18 years of age recruited via advertisements to the local community, through university e-mail listings, and from an additional ongoing study (Collaborative Studies on Genetics of Alcoholism [COGA]).
 9-1	1688-1694	METHOD	http://maven.renci.org/NeuroBridge/neurobridge#DataAnalysisMethod
 9-2	1695-1707	Participants	_
 9-3	1708-1720	Participants	_
@@ -304,6 +313,7 @@
 9-42	1951-1952	)	_
 9-43	1953-1954	.	_
 
+Text=The current study is part of a larger project on brain maturation and participant recruitment, for which inclusion/exclusion criteria, and participant characteristics have been previously reported.
 10-1	1955-1958	The	_
 10-2	1959-1966	current	_
 10-3	1967-1972	study	_
@@ -334,6 +344,7 @@
 10-28	2145-2153	reported	_
 10-29	2154-2155	.	_
 
+Text=All participants were right-handed and had an IQ of 80 or higher as determined by the brief form of the Wechsler Abbreviated Scale of Intelligence.
 11-1	2156-2159	All	_
 11-2	2160-2172	participants	_
 11-3	2173-2177	were	_
@@ -361,6 +372,7 @@
 11-25	2290-2302	Intelligence	http://maven.renci.org/NeuroBridge/neurobridge#DigitSymbolSubstitutionOfTheWechslerAdultIntelligenceScaleRevised
 11-26	2303-2304	.	_
 
+Text=Table 1 provides demographic information.
 12-1	2305-2310	Table	_
 12-2	2311-2312	1	_
 12-3	2313-2321	provides	_
@@ -368,6 +380,7 @@
 12-5	2334-2345	information	_
 12-6	2346-2347	.	_
 
+Text=To be included in the study, participants were required to screen negative for severe head injury, severe headaches, seizures, stroke, or brain surgery; metal in the body; and history of psychiatric or neurological disorders with the exception of externalizing disorders (EDs) including attention-deficit/hyperactivity disorder, oppositional-defiant disorder, conduct disorder, or antisocial personality disorder assessed using the Semi-Structured Assessment for the Genetics of Alcoholism (SSAGA).
 13-1	2348-2350	To	_
 13-2	2351-2353	be	_
 13-3	2354-2362	included	_
@@ -447,6 +460,7 @@
 13-77	2858-2859	)	_
 13-78	2860-2861	.	_
 
+Text=FHN participants (n = 96) were required to meet all of the above criteria for study participation in addition to lacking a biological parent with AUD and were also required to not have a history of ED.
 14-1	2862-2865	FHN	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 14-2	2866-2878	participants	_
 14-3	2879-2880	(	_
@@ -488,6 +502,7 @@
 14-39	3062-3064	ED	_
 14-40	3065-3066	.	_
 
+Text=FHP and FHN participants were matched according to age (binned into 3 groups: 13 to 14 years, 15 to 16 years, and 17 to 18 years of age) and biological sex.
 15-1	3067-3070	FHP	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 15-2	3071-3074	and	_
 15-3	3075-3078	FHN	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -526,6 +541,7 @@
 15-36	3224-3227	sex	_
 15-37	3228-3229	.	_
 
+Text=FHP participants (n = 95) had to have at least 1 biological parent screen positive (≥3 DSM-IV abuse or dependence items) for a history of AUD on the Semi-Structured Assessment for the Genetics of Alcoholism IV (SSAGA) interview.
 16-1	3230-3233	FHP	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 16-2	3234-3246	participants	_
 16-3	3247-3248	(	_
@@ -572,6 +588,7 @@
 16-44	3454-3463	interview	_
 16-45	3464-3465	.	_
 
+Text=If the affected parent was unavailable for interview, the Family History Assessment Module (FHAM) was used with the other biological parent or the adolescent participant (if he/she was 18 years of age) as the informant.
 17-1	3466-3468	If	_
 17-2	3469-3472	the	_
 17-3	3473-3481	affected	_
@@ -614,6 +631,7 @@
 17-40	3680-3689	informant	_
 17-41	3690-3691	.	_
 
+Text=Participants in the FHN group were required to have both biological parents screen negative for AUD using the FHAM.
 18-1	3692-3704	Participants	_
 18-2	3705-3707	in	_
 18-3	3708-3711	the	_
@@ -635,6 +653,7 @@
 18-19	3802-3806	FHAM	_
 18-20	3807-3808	.	_
 
+Text=The Family History Research Diagnostic Criteria (FHRDC) scale was administered to determine the number of first- and second-degree family members with AUD and mood disorders.
 19-1	3809-3812	The	_
 19-2	3813-3819	Family	http://maven.renci.org/NeuroBridge/neurobridge#FamilyHistoryAssessmentModule
 19-3	3820-3827	History	http://maven.renci.org/NeuroBridge/neurobridge#FamilyHistoryAssessmentModule
@@ -664,6 +683,7 @@
 19-27	3975-3984	disorders	_
 19-28	3985-3986	.	_
 
+Text=Participants were excluded if their mothers reported having more than three drinks of alcohol per week at any point during pregnancy.
 20-1	3987-3999	Participants	_
 20-2	4000-4004	were	_
 20-3	4005-4013	excluded	_
@@ -687,6 +707,7 @@
 20-21	4110-4119	pregnancy	_
 20-22	4120-4121	.	_
 
+Text=The highest education level of the participant ’ s two parents was used as a proxy for socioeconomic status.
 21-1	4122-4125	The	_
 21-2	4126-4133	highest	_
 21-3	4134-4143	education	_
@@ -708,6 +729,7 @@
 21-19	4223-4229	status	_
 21-20	4230-4231	.	_
 
+Text=Past or current use of substances other than alcohol, marijuana, and tobacco was exclusionary for FHP and FHN groups.
 22-1	4232-4236	Past	_
 22-2	4237-4239	or	_
 22-3	4240-4247	current	_
@@ -731,6 +753,7 @@
 22-21	4344-4350	groups	_
 22-22	4351-4352	.	_
 
+Text=Problem level use (scores> 7) on the Alcohol Use Disorders Identification Test (AUDIT) or the Alcohol, Smoking and Substance Involvement Screening Test (ASSIST) of alcohol, marijuana, and tobacco was also exclusionary.
 23-1	4353-4360	Problem	_
 23-2	4361-4366	level	_
 23-3	4367-4370	use	_
@@ -774,6 +797,7 @@
 23-41	4568-4580	exclusionary	_
 23-42	4581-4582	.	_
 
+Text=Measures Neuropsychological tests assessing spatial working memory and executive functioning were administered using the Computerized Multiphasic Interactive Neuropsychological DualDisplay System (CMINDS) (http: //www.neurocomp.com/Solutions/Cminds).
 24-1	4583-4591	Measures	_
 24-2	4592-4610	Neuropsychological	_
 24-3	4611-4616	tests	_
@@ -804,6 +828,7 @@
 24-28	4836-4837	)	_
 24-29	4838-4839	.	_
 
+Text=The following computerized tests were administered: Trail Making Test Parts A and B (a measure of visual attention and task switching), Digit Span Forward and Backward (verbal working memory), and Visuospatial Sequencing Test Forward and Reverse (visuospatial working memory).
 25-1	4840-4843	The	_
 25-2	4844-4853	following	_
 25-3	4854-4866	computerized	_
@@ -854,6 +879,7 @@
 25-48	5123-5124	)	_
 25-49	5125-5126	.	_
 
+Text=The Visuospatial Sequencing Test was added after data collection had already begun, so these data are available for only 89 FHP (92.7%) and 81 FHN (84.4%) participants.
 26-1	5127-5130	The	_
 26-2	5131-5143	Visuospatial	_
 26-3	5144-5154	Sequencing	_
@@ -890,6 +916,7 @@
 26-34	5289-5301	participants	_
 26-35	5302-5303	.	_
 
+Text=Mean differences between groups have previously been reported by Henderson et al.
 27-1	5304-5308	Mean	_
 27-2	5309-5320	differences	_
 27-3	5321-5328	between	_
@@ -904,6 +931,7 @@
 27-12	5382-5384	al	_
 27-13	5385-5386	.	_
 
+Text=Consequently, we report here correlations between connectivity and performance on these measures.
 28-1	5387-5399	Consequently	_
 28-2	5400-5401	,	_
 28-3	5402-5404	we	_
@@ -919,6 +947,7 @@
 28-13	5476-5484	measures	_
 28-14	5485-5486	.	_
 
+Text=Image Acquisition Imaging was performed on a 3T Siemens (Erlangen, Germany) Trio MRI scanner equipped with a 12-channel head coil.
 29-1	5487-5492	Image	_
 29-2	5493-5504	Acquisition	_
 29-3	5505-5512	Imaging	_
@@ -944,6 +973,7 @@
 29-23	5615-5619	coil	_
 29-24	5620-5621	.	_
 
+Text=A total of 32 slices 4 mm thick (in plane resolution 3.4 mm × 3.4 mm) were acquired using a T2 * sensitive echoplanar imaging sequence (TR = 2000 milliseconds, TE = 30 milliseconds, flip angle = 77°).
 30-1	5622-5623	A	_
 30-2	5624-5629	total	_
 30-3	5630-5632	of	_
@@ -990,6 +1020,7 @@
 30-44	5826-5827	)	_
 30-45	5828-5829	.	_
 
+Text=The resting state scan was acquired first and consisted of one run lasting 5 minutes 24 seconds.
 31-1	5830-5833	The	_
 31-2	5834-5841	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 31-3	5842-5847	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1009,6 +1040,7 @@
 31-17	5918-5925	seconds	_
 31-18	5926-5927	.	_
 
+Text=Before completing resting state scans, participants were told to lie in the scanner with eyes closed while thinking of nothing in particular.
 32-1	5928-5934	Before	_
 32-2	5935-5945	completing	_
 32-3	5946-5953	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1034,6 +1066,7 @@
 32-23	6059-6069	particular	_
 32-24	6070-6071	.	_
 
+Text=An MP-RAGE T1-weighted scan was also acquired for coregistration purposes (TR = 2300 milliseconds, TE = 2.82 milliseconds, flip angle = 10 degrees, series = interleaved).
 33-1	6072-6074	An	_
 33-2	6075-6082	MP-RAGE	http://maven.renci.org/NeuroBridge/neurobridge#Age
 33-3	6083-6094	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1067,6 +1100,7 @@
 33-31	6245-6246	)	_
 33-32	6247-6248	.	_
 
+Text=Participants were familiarized with the scanning procedure using an MRI simulator prior to the actual MRI scan.
 34-1	6249-6261	Participants	_
 34-2	6262-6266	were	_
 34-3	6267-6279	familiarized	_
@@ -1086,6 +1120,7 @@
 34-17	6355-6359	scan	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
 34-18	6360-6361	.	_
 
+Text=Preprocessing Preprocessing was completed in AFNI and involved the following: (1) volume registration, (2) despiking, (3) spatial normalization to Montreal Neurological Institute (MNI) space using a 12-parameter affine model, (4) reslicing all data to 3-mm isotropic voxels, and (5) spatial smoothing (8mm FWHM).
 35-1	6362-6375	Preprocessing	_
 35-2	6376-6389	Preprocessing	_
 35-3	6390-6393	was	_
@@ -1150,6 +1185,7 @@
 35-62	6691-6692	)	_
 35-63	6693-6694	.	_
 
+Text=Participant motion was estimated using AFNI ’ s enorm function (https: //afni.nimh.nih.gov/pub/dist/doc/program_help/1d_tool.py.html), which is similar to framewise displacement.
 36-1	6695-6706	Participant	_
 36-2	6707-6713	motion	_
 36-3	6714-6717	was	_
@@ -1174,6 +1210,7 @@
 36-22	6864-6876	displacement	_
 36-23	6877-6878	.	_
 
+Text=Displacement in millimeters for three directions and three rotations from one volume to the next were calculated and then a median value created for each participant.
 37-1	6879-6891	Displacement	_
 37-2	6892-6894	in	_
 37-3	6895-6906	millimeters	_
@@ -1202,6 +1239,7 @@
 37-26	7033-7044	participant	_
 37-27	7045-7046	.	_
 
+Text=Independent Components Analysis Spatial ICA was performed using GIFT on preprocessed data for all participants.
 38-1	7047-7058	Independent	_
 38-2	7059-7069	Components	_
 38-3	7070-7078	Analysis	_
@@ -1219,6 +1257,7 @@
 38-15	7145-7157	participants	_
 38-16	7158-7159	.	_
 
+Text=As implemented in GIFT, ICA identifies networks of brain regions with temporally correlated oscillations.
 39-1	7160-7162	As	_
 39-2	7163-7174	implemented	_
 39-3	7175-7177	in	_
@@ -1236,6 +1275,7 @@
 39-15	7253-7265	oscillations	_
 39-16	7266-7267	.	_
 
+Text=The joint fMRI data from the participants is structured by a temporal concatenation approach that assumes a common aggregate spatial map (ie, common funcitonal anatomy) but allows for participant-specific differences in the time-dependent networks signals.
 40-1	7268-7271	The	_
 40-2	7272-7277	joint	_
 40-3	7278-7282	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1276,6 +1316,7 @@
 40-38	7519-7526	signals	_
 40-39	7527-7528	.	_
 
+Text=Initial data reduction was achieved using a two-step standard principal components analysis process (participant- and group-level, as described by Erhardt et al.)
 41-1	7529-7536	Initial	_
 41-2	7537-7541	data	_
 41-3	7542-7551	reduction	_
@@ -1303,6 +1344,7 @@
 41-25	7692-7693	.	_
 41-26	7694-7695	)	_
 
+Text=with the full covariance matrix computed from stacked data sets in conjunction with packed storage, single precision, and selective eigen computation options available in GIFT.
 42-1	7696-7700	with	_
 42-2	7701-7704	the	_
 42-3	7705-7709	full	_
@@ -1332,6 +1374,7 @@
 42-27	7869-7873	GIFT	_
 42-28	7874-7875	.	_
 
+Text=Resting state time series data were normalized by removing the image mean per timepoint.
 43-1	7876-7883	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 43-2	7884-7889	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 43-3	7890-7894	time	_
@@ -1348,6 +1391,7 @@
 43-14	7954-7963	timepoint	_
 43-15	7964-7965	.	_
 
+Text=ICA was conducted using the FastICA algorithm, selecting the symmetrical approach, tanh nonlinearity, and stabilization parameters in GIFT.
 44-1	7966-7969	ICA	_
 44-2	7970-7973	was	_
 44-3	7974-7983	conducted	_
@@ -1371,6 +1415,7 @@
 44-21	8103-8107	GIFT	_
 44-22	8108-8109	.	_
 
+Text=Algorithmic reliability was also evaluated because the methods used here are stochastic and iterative, such that model solutions vary across runs.
 45-1	8110-8121	Algorithmic	_
 45-2	8122-8133	reliability	_
 45-3	8134-8137	was	_
@@ -1395,6 +1440,7 @@
 45-22	8252-8256	runs	_
 45-23	8257-8258	.	_
 
+Text=Using ICASSO, each ICA was repeated 20 times to evaluate the reliability and stability of resultant components through bootstrapping and use of random start points (1,000 iterations).
 46-1	8259-8264	Using	_
 46-2	8265-8271	ICASSO	_
 46-3	8272-8273	,	_
@@ -1427,6 +1473,7 @@
 46-30	8443-8444	)	_
 46-31	8445-8446	.	_
 
+Text=This step yields Iq values indexing compactness (solution variability across runs) and isolation (analogous to solution uniqueness) of component clusters.
 47-1	8447-8451	This	_
 47-2	8452-8456	step	_
 47-3	8457-8463	yields	_
@@ -1453,6 +1500,7 @@
 47-24	8596-8604	clusters	_
 47-25	8605-8606	.	_
 
+Text=Iq values were satisfactory for all components (Iq range: .568–.999).
 48-1	8607-8609	Iq	_
 48-2	8610-8616	values	_
 48-3	8617-8621	were	_
@@ -1468,6 +1516,7 @@
 48-13	8677-8678	)	_
 48-14	8679-8680	.	_
 
+Text=Finally, back-reconstruction was conducted via GICA, consistent with principal components analysis-based data-reduction methods employed in initial stages of the ICAs and with the low model order of the present analyses (in line with recommendations described in the GIFT manual, version 4.0, released in May 2015).
 49-1	8681-8688	Finally	_
 49-2	8689-8690	,	_
 49-3	8691-8710	back-reconstruction	_
@@ -1521,6 +1570,7 @@
 49-51	9000-9001	)	_
 49-52	9002-9003	.	_
 
+Text=Component Extraction As in earlier work and in keeping with recommendations by Calhoun and de Lacy, 75 components were extracted.
 50-1	9004-9013	Component	_
 50-2	9014-9024	Extraction	_
 50-3	9025-9027	As	_
@@ -1544,6 +1594,7 @@
 50-21	9124-9133	extracted	_
 50-22	9134-9135	.	_
 
+Text=Individual components were reviewed and components that (1) had low power in the canonical 0.01 to 0.15 Hz frequency spectrum, (2) had signal primarily in white matter or cerebrospinal fluid, or (3) had motion-related “ ringing ” artifact present on the images were discarded.
 51-1	9136-9146	Individual	_
 51-2	9147-9157	components	_
 51-3	9158-9162	were	_
@@ -1598,6 +1649,7 @@
 51-52	9410-9419	discarded	_
 51-53	9420-9421	.	_
 
+Text=Specifically, all components were reviewed by three of the authors (A.E., A.W., and J.V .).
 52-1	9422-9434	Specifically	_
 52-2	9435-9436	,	_
 52-3	9437-9440	all	_
@@ -1620,6 +1672,7 @@
 52-20	9516-9517	)	_
 52-21	9518-9519	.	_
 
+Text=Ratings were made on a 3-point scale (1 = retain; 2 = consider retaining, 3 = reject).
 53-1	9520-9527	Ratings	_
 53-2	9528-9532	were	_
 53-3	9533-9537	made	_
@@ -1643,6 +1696,7 @@
 53-21	9608-9609	)	_
 53-22	9610-9611	.	_
 
+Text=Only components that had at least two retain votes and no reject votes were ultimately included.
 54-1	9612-9616	Only	_
 54-2	9617-9627	components	_
 54-3	9628-9632	that	_
@@ -1661,6 +1715,7 @@
 54-16	9699-9707	included	_
 54-17	9708-9709	.	_
 
+Text=This approach resulted in 29 retained components (Figure 1).
 55-1	9710-9714	This	_
 55-2	9715-9723	approach	_
 55-3	9724-9732	resulted	_
@@ -1674,6 +1729,7 @@
 55-11	9770-9771	)	_
 55-12	9772-9773	.	_
 
+Text=Components were labeled based on anatomical regions involved and correspondence to other ICA-based network results.
 56-1	9774-9784	Components	_
 56-2	9785-9789	were	_
 56-3	9790-9797	labeled	_
@@ -1691,6 +1747,7 @@
 56-15	9881-9888	results	_
 56-16	9889-9890	.	_
 
+Text=Intranetwork and Internetwork Connectivity Analyses Finally, intranetwork and internetwork connectivity were examined via the MANCOVAN toolbox available in GIFT.
 57-1	9891-9903	Intranetwork	_
 57-2	9904-9907	and	_
 57-3	9908-9920	Internetwork	_
@@ -1713,6 +1770,7 @@
 57-20	10048-10052	GIFT	_
 57-21	10053-10054	.	_
 
+Text=Temporal synchrony between component networks (ie, internetwork connectivity) was examined via functional network connectivity (FNC) correlations.
 58-1	10055-10063	Temporal	_
 58-2	10064-10073	synchrony	_
 58-3	10074-10081	between	_
@@ -1736,6 +1794,7 @@
 58-21	10193-10205	correlations	_
 58-22	10206-10207	.	_
 
+Text=FNC correlations allow inferences regarding coordinated activity between networks of interest (indexed by internetwork temporal synchrony) and potential associations among these indices and group, the number of first- and second-degree family members with an AUD, age, sex, and parental education level.
 59-1	10208-10211	FNC	_
 59-2	10212-10224	correlations	_
 59-3	10225-10230	allow	_
@@ -1785,6 +1844,7 @@
 59-47	10511-10516	level	_
 59-48	10517-10518	.	_
 
+Text=In computing FNC correlations, network timecourses were detrended (filter cutoff = 0.15 Hz) but were not despiked to avoid redundancy with the initial preprocessing stage.
 60-1	10519-10521	In	_
 60-2	10522-10531	computing	_
 60-3	10532-10535	FNC	_
@@ -1815,6 +1875,7 @@
 60-28	10687-10692	stage	_
 60-29	10693-10694	.	_
 
+Text=Subsequently, correlations were computed between timecourses between components.
 61-1	10695-10707	Subsequently	_
 61-2	10708-10709	,	_
 61-3	10710-10722	correlations	_
@@ -1826,6 +1887,7 @@
 61-9	10765-10775	components	_
 61-10	10776-10777	.	_
 
+Text=Temporal synchrony within component networks (ie, intranetwork connectivity) was examined via spatial maps, indexing the contribution of the time course to each voxel comprising a given component.
 62-1	10778-10786	Temporal	_
 62-2	10787-10796	synchrony	_
 62-3	10797-10803	within	_
@@ -1859,6 +1921,7 @@
 62-31	10968-10977	component	_
 62-32	10978-10979	.	_
 
+Text=Significant effects revealed in spatial maps are therefore interpreted as reflecting either heightened or reduced functional connectivity of a given voxel with respect to other voxels comprising a given component.
 63-1	10980-10991	Significant	_
 63-2	10992-10999	effects	_
 63-3	11000-11008	revealed	_
@@ -1891,6 +1954,7 @@
 63-30	11183-11192	component	_
 63-31	11193-11194	.	_
 
+Text=All spatial maps were centered for ease of interpretation; all other parameters selected were identical to those for FNC correlations.
 64-1	11195-11198	All	_
 64-2	11199-11206	spatial	_
 64-3	11207-11211	maps	_
@@ -1914,6 +1978,7 @@
 64-21	11317-11329	correlations	_
 64-22	11330-11331	.	_
 
+Text=Main effects for family history group, age (13 – 14, 15 – 16, 17 – 18 years), and sex were included in the initial model.
 65-1	11332-11336	Main	_
 65-2	11337-11344	effects	_
 65-3	11345-11348	for	_
@@ -1947,6 +2012,7 @@
 65-31	11453-11458	model	_
 65-32	11459-11460	.	_
 
+Text=Subsequent follow-up analyses explored family history × age and family history × sex interactions.
 66-1	11461-11471	Subsequent	_
 66-2	11472-11481	follow-up	_
 66-3	11482-11490	analyses	_
@@ -1963,6 +2029,7 @@
 66-14	11546-11558	interactions	_
 66-15	11559-11560	.	_
 
+Text=False discovery rate (FDR) correction for multiple comparisons was applied to the group ICA analyses (corrected p = .05).
 67-1	11561-11566	False	_
 67-2	11567-11576	discovery	_
 67-3	11577-11581	rate	_
@@ -1988,6 +2055,7 @@
 67-23	11684-11685	)	_
 67-24	11686-11687	.	_
 
+Text=For intranetwork connectivity, FDR was applied for each component.
 68-1	11688-11691	For	_
 68-2	11692-11704	intranetwork	_
 68-3	11705-11717	connectivity	_
@@ -2000,6 +2068,7 @@
 68-10	11745-11754	component	_
 68-11	11755-11756	.	_
 
+Text=For internetwork connectivity, FDR was applied to the group comparison of the FNC correlations.
 69-1	11757-11760	For	_
 69-2	11761-11773	internetwork	_
 69-3	11774-11786	connectivity	_
@@ -2017,6 +2086,7 @@
 69-15	11840-11852	correlations	_
 69-16	11853-11854	.	_
 
+Text=Associations between significant connectivity findings and neuropsychological performance on the Trails A, Trails B, Digit Span, and Visuospatial Sequencing tests were explored.
 70-1	11855-11867	Associations	_
 70-2	11868-11875	between	_
 70-3	11876-11887	significant	_
@@ -2044,6 +2114,7 @@
 70-25	12026-12034	explored	_
 70-26	12035-12036	.	_
 
+Text=Finally, for significant differences between family history groups, follow-up analyes were computed to determine whether these results were associated with number of first- and second-degree family members with AUD and/or mood disorders.
 71-1	12037-12044	Finally	_
 71-2	12045-12046	,	_
 71-3	12047-12050	for	_

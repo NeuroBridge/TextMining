@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Altered intrinsic and extrinsic connectivity in schizophrenia Schizophrenia is a disorder characterized by functional dysconnectivity among distributed brain regions.
 1-1	0-7	Altered	_
 1-2	8-17	intrinsic	_
 1-3	18-21	and	_
@@ -23,6 +24,7 @@
 1-19	158-165	regions	_
 1-20	166-167	.	_
 
+Text=However, it is unclear how causal influences among large-scale brain networks are disrupted in schizophrenia.
 2-1	168-175	However	_
 2-2	176-177	,	_
 2-3	178-180	it	_
@@ -41,6 +43,7 @@
 2-16	264-277	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-17	278-279	.	_
 
+Text=In this study, we used dynamic causal modeling (DCM) to assess the hypothesis that there is aberrant directed (effective) connectivity within and between three key large-scale brain networks (the dorsal attention network, the salience network and the default mode network) in schizophrenia during a working memory task.
 3-1	280-282	In	_
 3-2	283-287	this	_
 3-3	288-293	study	_
@@ -98,6 +101,7 @@
 3-55	602-606	task	_
 3-56	607-608	.	_
 
+Text=Functional MRI data during an n-back task from 40 patients with schizophrenia and 62 healthy controls were analyzed.
 4-1	609-619	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 4-2	620-623	MRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 4-3	624-628	data	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -118,6 +122,7 @@
 4-18	716-724	analyzed	_
 4-19	725-726	.	_
 
+Text=Using hierarchical modeling of between-subject effects in DCM with Parametric Empirical Bayes, we found that intrinsic (within-region) and extrinsic (between-region) effective connectivity involving prefrontal regions were abnormal in schizophrenia.
 5-1	727-732	Using	_
 5-2	733-745	hierarchical	_
 5-3	746-754	modeling	_
@@ -154,6 +159,7 @@
 5-34	967-980	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 5-35	981-982	.	_
 
+Text=Specifically, in patients (i) inhibitory self-connections in prefrontal regions of the dorsal attention network were decreased across task conditions; (ii) extrinsic connectivity between regions of the default mode network was increased; specifically, from posterior cingulate cortex to the medial prefrontal cortex; (iii) between-network extrinsic connections involving the prefrontal cortex were altered; (iv) connections within networks and between networks were correlated with the severity of clinical symptoms and impaired cognition beyond working memory.
 6-1	983-995	Specifically	_
 6-2	996-997	,	_
 6-3	998-1000	in	_
@@ -242,6 +248,7 @@
 6-86	1551-1557	memory	_
 6-87	1558-1559	.	_
 
+Text=In short, this study revealed the predominance of reduced synaptic efficacy of prefrontal efferents and afferents in the pathophysiology of schizophrenia.
 7-1	1560-1562	In	_
 7-2	1563-1568	short	_
 7-3	1569-1570	,	_
@@ -266,6 +273,7 @@
 7-22	1701-1714	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-23	1715-1716	.	_
 
+Text=Highlights A first use of hierarchical modeling of effective connectivity to characterize large-scale networks in schizophrenia.
 8-1	1717-1727	Highlights	_
 8-2	1728-1729	A	_
 8-3	1730-1735	first	_
@@ -284,6 +292,7 @@
 8-16	1831-1844	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-17	1845-1846	.	_
 
+Text=Intrinsic and extrinsic effective connectivity involving prefrontal regions were abnormal in schizophrenia.
 9-1	1847-1856	Intrinsic	_
 9-2	1857-1860	and	_
 9-3	1861-1870	extrinsic	_
@@ -298,6 +307,7 @@
 9-12	1940-1953	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-13	1954-1955	.	_
 
+Text=Diagnostic connections could predict the severity of clinical symptoms and cognition in schizophrenia.
 10-1	1956-1966	Diagnostic	_
 10-2	1967-1978	connections	_
 10-3	1979-1984	could	_
@@ -313,6 +323,7 @@
 10-13	2044-2057	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 10-14	2058-2059	.	_
 
+Text=Materials and methods Participants Patients with schizophrenia were recruited from the Department of Psychiatry, Renmin Hospital of Wuhan University (Wuhan, China).
 11-1	2060-2069	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	2070-2073	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	2074-2081	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -340,6 +351,7 @@
 11-25	2226-2227	)	_
 11-26	2228-2229	.	_
 
+Text=The Structured Clinical Interview for the Diagnostic and Statistical Manual of Mental Disorder, 4th edition (DSM-IV) (SCID) was administered, to confirm diagnosis.
 12-1	2230-2233	The	_
 12-2	2234-2244	Structured	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewfortheDiagnosticStatisticalManualofMentalDisorder
 12-3	2245-2253	Clinical	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewfortheDiagnosticStatisticalManualofMentalDisorder
@@ -370,6 +382,7 @@
 12-28	2389-2398	diagnosis	_
 12-29	2399-2400	.	_
 
+Text=The patients also met the following inclusion criteria: (1) the total score of Positive and Negative Syndrome Scale (PANSS) was over 60, (2) duration of illness was <5 years, (3) 18–45 years of age, (4) at least 9 years of education, (5) right-handed, and (6) Han Chinese.
 13-1	2401-2404	The	_
 13-2	2405-2413	patients	_
 13-3	2414-2418	also	_
@@ -440,6 +453,7 @@
 13-68	2686-2693	Chinese	_
 13-69	2694-2695	.	_
 
+Text=Patients were excluded if they met the diagnosis criteria of any other DSM Axis-I disorders, had severe physical illness including cardiovascular disease, had received electroconvulsive therapy six months prior to recruitment, or had structural changes in the brain (such as a white matter lesion) diagnosed by a radiologist.
 14-1	2696-2704	Patients	_
 14-2	2705-2709	were	_
 14-3	2710-2718	excluded	_
@@ -495,6 +509,7 @@
 14-53	3014-3025	radiologist	_
 14-54	3026-3027	.	_
 
+Text=Healthy controls were recruited by word of mouth and bulletin board postings both in the hospital and nearby communities.
 15-1	3028-3035	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 15-2	3036-3044	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 15-3	3045-3049	were	_
@@ -516,6 +531,7 @@
 15-19	3137-3148	communities	_
 15-20	3149-3150	.	_
 
+Text=The healthy controls, who matched the patients on age, gender and educational level, had the same inclusion and exclusion criteria; except that healthy controls were excluded if they or their first-relatives met any diagnosis of a psychiatric disorder according to the DSM-IV criteria.
 16-1	3151-3154	The	_
 16-2	3155-3162	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 16-3	3163-3171	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -565,6 +581,7 @@
 16-47	3431-3439	criteria	_
 16-48	3440-3441	.	_
 
+Text=Fifty-one patients and 66 healthy controls were recruited.
 17-1	3442-3451	Fifty-one	_
 17-2	3452-3460	patients	_
 17-3	3461-3464	and	_
@@ -575,6 +592,7 @@
 17-8	3490-3499	recruited	_
 17-9	3500-3501	.	_
 
+Text=All the patients were receiving antipsychotic medications, which were converted to their chlorpromazine equivalents.
 18-1	3502-3505	All	_
 18-2	3506-3509	the	_
 18-3	3510-3518	patients	_
@@ -592,6 +610,7 @@
 18-15	3607-3618	equivalents	_
 18-16	3619-3620	.	_
 
+Text=Six patients and 4 healthy controls were excluded from the data analyses due to severe head motion during scanning (x, y, z translation> 3 mm or x, y, z rotation> 3°), 3 patients were excluded due to extremely high values in the mean frame displacement (FD) value and 2 patients were excluded due to extreme low scores in the 0-back performance (see details in Methodology).
 19-1	3621-3624	Six	_
 19-2	3625-3633	patients	_
 19-3	3634-3637	and	_
@@ -672,6 +691,7 @@
 19-78	4006-4007	)	_
 19-79	4008-4009	.	_
 
+Text=Finally, 40 patients and 62 normal controls were included in the following data analyses.
 20-1	4010-4017	Finally	_
 20-2	4018-4019	,	_
 20-3	4020-4022	40	_
@@ -689,6 +709,7 @@
 20-15	4091-4099	analyses	_
 20-16	4100-4101	.	_
 
+Text=Each participant or at least one first-degree relative for each patient provided informed consent before participation.
 21-1	4102-4106	Each	_
 21-2	4107-4118	participant	_
 21-3	4119-4121	or	_
@@ -707,6 +728,7 @@
 21-16	4207-4220	participation	_
 21-17	4221-4222	.	_
 
+Text=The Ethics Committee of Renmin Hospital of Wuhan University and the Institutional Review Board of the Institute of Psychology, Chinese Academy of Sciences approved the study.
 22-1	4223-4226	The	_
 22-2	4227-4233	Ethics	_
 22-3	4234-4243	Committee	_
@@ -736,6 +758,7 @@
 22-27	4392-4397	study	_
 22-28	4398-4399	.	_
 
+Text=Experimental design and task The WM paradigm used a blocked design, numeric n-back task, with numbers 0–9 as stimuli, which has been used in previous studies.
 23-1	4400-4412	Experimental	_
 23-2	4413-4419	design	_
 23-3	4420-4423	and	_
@@ -767,6 +790,7 @@
 23-29	4553-4560	studies	_
 23-30	4561-4562	.	_
 
+Text=The paradigm alternated between rest and task.
 24-1	4563-4566	The	_
 24-2	4567-4575	paradigm	_
 24-3	4576-4586	alternated	_
@@ -776,6 +800,7 @@
 24-7	4604-4608	task	_
 24-8	4609-4610	.	_
 
+Text=Rest periods, in which subjects were instructed to fixate on a cross at the centre of the screen, lasted for 5 scans (i.e.
 25-1	4611-4615	Rest	_
 25-2	4616-4623	periods	_
 25-3	4624-4625	,	_
@@ -804,11 +829,13 @@
 25-26	4732-4735	i.e	_
 25-27	4736-4737	.	_
 
+Text=10 s).
 26-1	4738-4740	10	_
 26-2	4741-4742	s	_
 26-3	4743-4744	)	_
 26-4	4745-4746	.	_
 
+Text=The task consisted of two conditions, 0-back (baseline) and 2-back (WM load condition), arranged as 0-2-0-0-2-2-2-0-0-2-2-0, each with duration of 12 scans (i.e.
 27-1	4747-4750	The	_
 27-2	4751-4755	task	_
 27-3	4756-4765	consisted	_
@@ -842,11 +869,13 @@
 27-31	4912-4915	i.e	_
 27-32	4916-4917	.	_
 
+Text=24 s).
 28-1	4918-4920	24	_
 28-2	4921-4922	s	_
 28-3	4923-4924	)	_
 28-4	4925-4926	.	_
 
+Text=Before each block a visual cue of one scan (i.e.
 29-1	4927-4933	Before	_
 29-2	4934-4938	each	_
 29-3	4939-4944	block	_
@@ -860,6 +889,7 @@
 29-11	4972-4975	i.e	_
 29-12	4976-4977	.	_
 
+Text=2 s) was presented, indicating the condition of the subsequent block.
 30-1	4978-4979	2	_
 30-2	4980-4981	s	_
 30-3	4982-4983	)	_
@@ -875,6 +905,7 @@
 30-13	5043-5048	block	_
 30-14	5049-5050	.	_
 
+Text=Each block comprised 12 stimuli, three of which were targets, each presented for 1000 ms with a 1000 ms interstimulus interval.
 31-1	5051-5055	Each	_
 31-2	5056-5061	block	_
 31-3	5062-5071	comprised	_
@@ -900,6 +931,7 @@
 31-23	5171-5179	interval	_
 31-24	5180-5181	.	_
 
+Text=Subjects were instructed to match the current number to a target, either the number 9 (0-back) or the number presented two trials earlier (2-back).
 32-1	5182-5190	Subjects	_
 32-2	5191-5195	were	_
 32-3	5196-5206	instructed	_
@@ -931,6 +963,7 @@
 32-29	5332-5333	)	_
 32-30	5334-5335	.	_
 
+Text=In order to ensure compliance during the subsequent acquisition, a training session was conducted prior to scanning.
 33-1	5336-5338	In	_
 33-2	5339-5344	order	_
 33-3	5345-5347	to	_
@@ -951,6 +984,7 @@
 33-18	5444-5452	scanning	_
 33-19	5453-5454	.	_
 
+Text=The training procedure was the same as that used in our previous study.
 34-1	5455-5458	The	_
 34-2	5459-5467	training	_
 34-3	5468-5477	procedure	_
@@ -966,6 +1000,7 @@
 34-13	5520-5525	study	_
 34-14	5526-5527	.	_
 
+Text=In brief, the training task was similar to the formal task, though only one 0-back and one 2-back trial were included.
 35-1	5528-5530	In	_
 35-2	5531-5536	brief	_
 35-3	5537-5538	,	_
@@ -991,6 +1026,7 @@
 35-23	5639-5647	included	_
 35-24	5648-5649	.	_
 
+Text=Accuracy was displayed on the monitor at the end of the practice task, and patients were provided with further practice opportunities, until they clearly understood the task.
 36-1	5650-5658	Accuracy	_
 36-2	5659-5662	was	_
 36-3	5663-5672	displayed	_
@@ -1022,6 +1058,7 @@
 36-29	5821-5825	task	_
 36-30	5826-5827	.	_
 
+Text=Cognition assessments Several cognitive assessments were conducted outside of scanning.
 37-1	5828-5837	Cognition	_
 37-2	5838-5849	assessments	_
 37-3	5850-5857	Several	_
@@ -1034,6 +1071,7 @@
 37-10	5906-5914	scanning	_
 37-11	5915-5916	.	_
 
+Text=These included the Digit Symbol Coding task, Digit Span (forward and backward) and Category Fluency test.
 38-1	5917-5922	These	_
 38-2	5923-5931	included	_
 38-3	5932-5935	the	_
@@ -1055,6 +1093,7 @@
 38-19	6020-6024	test	http://maven.renci.org/NeuroBridge/neurobridge#VerbalFluencyTask
 38-20	6025-6026	.	_
 
+Text=The Digit Symbol Coding task assesses information processing speed and is known to detect impairments in schizophrenia reliably.
 39-1	6027-6030	The	_
 39-2	6031-6036	Digit	http://maven.renci.org/NeuroBridge/neurobridge#DigitSymbolSubstitutionOfTheWechslerAdultIntelligenceScaleRevised
 39-3	6037-6043	Symbol	http://maven.renci.org/NeuroBridge/neurobridge#DigitSymbolSubstitutionOfTheWechslerAdultIntelligenceScaleRevised
@@ -1075,6 +1114,7 @@
 39-18	6146-6154	reliably	_
 39-19	6155-6156	.	_
 
+Text=The Category Fluency test is the cognitive assessment with the second largest effect size, followed by the Digit Symbol Coding task.
 40-1	6157-6160	The	_
 40-2	6161-6169	Category	_
 40-3	6170-6177	Fluency	_
@@ -1099,6 +1139,7 @@
 40-22	6285-6289	task	http://maven.renci.org/NeuroBridge/neurobridge#DigitSymbolSubstitutionOfTheWechslerAdultIntelligenceScaleRevised
 40-23	6290-6291	.	_
 
+Text=The Digit Span (forward and backward) is a general assessment of attention and working memory capacity.
 41-1	6292-6295	The	_
 41-2	6296-6301	Digit	_
 41-3	6302-6306	Span	_
@@ -1119,6 +1160,7 @@
 41-18	6388-6396	capacity	_
 41-19	6397-6398	.	_
 
+Text=MRI data acquisition and preprocessing MRI data were acquired from the Radiology Department of Renmin Hospital of Wuhan University with a General Electric HDxt 3.0T Scanner.
 42-1	6399-6402	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 42-2	6403-6407	data	_
 42-3	6408-6419	acquisition	_
@@ -1147,6 +1189,7 @@
 42-26	6564-6571	Scanner	_
 42-27	6572-6573	.	_
 
+Text=Whole-brain functional scans were collected in 32 axial slices using an echo-planar imaging (EPI) sequence (repetition time = 2000 ms, echo time = 30 ms; flip angle = 90°; matrix = 64 × 64; field of view = 220 mm × 220 mm; slice thickness = 4 mm; and slice gap = 0.6 mm).
 43-1	6574-6585	Whole-brain	http://maven.renci.org/NeuroBridge/neurobridge#DegenerativeBrainDisorder
 43-2	6586-6596	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 43-3	6597-6602	scans	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1213,6 +1256,7 @@
 43-64	6853-6854	)	_
 43-65	6855-6856	.	_
 
+Text=Anatomical images were acquired using a high-resolution T1-weighted sequence (repetition time = 7.8 ms; echo time = 3.0 ms; flip angle = 7°; matrix = 256 × 256; field of view = 256 × 256 mm2; slice thickness = 1 mm) composed of 188 slices in a sagittal orientation.
 44-1	6857-6867	Anatomical	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 44-2	6868-6874	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 44-3	6875-6879	were	_
@@ -1271,6 +1315,7 @@
 44-56	7117-7128	orientation	_
 44-57	7129-7130	.	_
 
+Text=Initial image preprocessing was performed using Statistical Parametric Mapping (SPM12) (http: //www.fil.ion.ucl.ac.uk/spm/) and included slice timing correction, motion correction, structural and functional image co-registration, segmentation, normalization (based on each participant's structural image) to the Montreal Neurological Institute (MNI) 152 template, and smoothing using a kernel with a full-width half maximum of 6 mm.
 45-1	7131-7138	Initial	_
 45-2	7139-7144	image	_
 45-3	7145-7158	preprocessing	_
@@ -1341,6 +1386,7 @@
 45-68	7575-7577	mm	_
 45-69	7578-7579	.	_
 
+Text=The normalized images were interpolated to a resolution of 3 × 3 × 3 mm3.
 46-1	7580-7583	The	_
 46-2	7584-7594	normalized	_
 46-3	7595-7601	images	_
@@ -1358,6 +1404,7 @@
 46-15	7649-7652	mm3	_
 46-16	7653-7654	.	_
 
+Text=Furthermore, based on the head motion parameters obtained after realignment, we computed the volume-based frame-wise displacement (FD) to quantify head motion.
 47-1	7655-7666	Furthermore	_
 47-2	7667-7668	,	_
 47-3	7669-7674	based	_
@@ -1385,6 +1432,7 @@
 47-25	7811-7817	motion	_
 47-26	7818-7819	.	_
 
+Text=Behavioral analysis To assess behavioral performance of the n-back task, the sensitivity index, d′ from signal detection theory was used.
 48-1	7820-7830	Behavioral	_
 48-2	7831-7839	analysis	_
 48-3	7840-7842	To	_
@@ -1409,6 +1457,7 @@
 48-22	7954-7958	used	_
 48-23	7959-7960	.	_
 
+Text=The score d′ describes sensitivity; i.e., the ability to separate signal (“ true ” events) and noise (“ false ” events).
 49-1	7961-7964	The	_
 49-2	7965-7970	score	_
 49-3	7971-7973	d′	_
@@ -1438,6 +1487,7 @@
 49-27	8085-8086	)	_
 49-28	8087-8088	.	_
 
+Text=The score was computed separately for 0-back condition and 2-back condition (d′0 and d′2) for each participant.
 50-1	8089-8092	The	_
 50-2	8093-8098	score	_
 50-3	8099-8102	was	_
@@ -1459,6 +1509,7 @@
 50-19	8190-8201	participant	_
 50-20	8202-8203	.	_
 
+Text=A repeated measures ANOVA with conditions as within-group factor and diagnosis as between-group factor was conducted using SPSS 20.0.
 51-1	8204-8205	A	_
 51-2	8206-8214	repeated	_
 51-3	8215-8223	measures	_
@@ -1480,6 +1531,7 @@
 51-19	8332-8336	20.0	_
 51-20	8337-8338	.	_
 
+Text=Two sample t-tests were used to assess group differences in the Digit Symbol Coding task, Digit Span task and Category Fluency task.
 52-1	8339-8342	Two	_
 52-2	8343-8349	sample	_
 52-3	8350-8357	t-tests	_
@@ -1505,6 +1557,7 @@
 52-23	8467-8471	task	_
 52-24	8472-8473	.	_
 
+Text=GLM analysis A general linear model (GLM) was constructed with regressors for each of the two task conditions (0-back and 2-back) as well as the instruction cues for the task blocks.
 53-1	8474-8477	GLM	_
 53-2	8478-8486	analysis	_
 53-3	8487-8488	A	_
@@ -1542,6 +1595,7 @@
 53-35	8653-8659	blocks	_
 53-36	8660-8661	.	_
 
+Text=To regress out motion and physiological noise (e.g., of cardiac and respiratory origin), additional covariates were included to model: (1) six head motion parameters obtained by rigid body head motion correction and (2) five principal components from an anatomically defined noise VOI (composed of white matter and cerebrospinal fluid), an approach that has been shown to accurately describe physiological noise in grey matter.
 54-1	8662-8664	To	_
 54-2	8665-8672	regress	_
 54-3	8673-8676	out	_
@@ -1619,6 +1673,7 @@
 54-75	9094-9100	matter	_
 54-76	9101-9102	.	_
 
+Text=Finally, a highpass filter with a cutoff of 250 s (0.004 Hz) was implemented to remove low frequency drifts while retaining most task-related frequencies.
 55-1	9103-9110	Finally	_
 55-2	9111-9112	,	_
 55-3	9113-9114	a	_
@@ -1648,6 +1703,7 @@
 55-27	9248-9259	frequencies	_
 55-28	9260-9261	.	_
 
+Text=At the group level, random-effects group analyses were conducted using an ANOVA, with diagnosis as a between-group factor and task condition as a within-group factor.
 56-1	9262-9264	At	_
 56-2	9265-9268	the	_
 56-3	9269-9274	group	_
@@ -1677,6 +1733,7 @@
 56-27	9423-9429	factor	_
 56-28	9430-9431	.	_
 
+Text=If not mentioned otherwise, significant effects in fMRI analyses were defined by a corrected voxel-level family-wise error (FWE) threshold of p <0.05.
 57-1	9432-9434	If	_
 57-2	9435-9438	not	_
 57-3	9439-9448	mentioned	_
@@ -1705,6 +1762,7 @@
 57-26	9581-9585	0.05	_
 57-27	9586-9587	.	_
 
+Text=Dynamic causal modeling VOI selections Regions that showed differential activation between the patients and control groups in the context of WM (i.e., a significant interaction between diagnosis and task) or activation/deactivation in association with the task (i.e., a significant main effect of task) were considered as volumes of interest (VOI) for use in subsequent DCM analysis.
 58-1	9588-9595	Dynamic	_
 58-2	9596-9602	causal	_
 58-3	9603-9611	modeling	_
@@ -1771,6 +1829,7 @@
 58-64	9970-9978	analysis	_
 58-65	9979-9980	.	_
 
+Text=Furthermore, in order to focus on the three networks of interest, i.e., dorsal attention network (DAN), salience network (SN), and default-mode network (DMN), preexisting templates were used as masks to identify peak voxels in the core regions in each of the three networks.
 59-1	9981-9992	Furthermore	_
 59-2	9993-9994	,	_
 59-3	9995-9997	in	_
@@ -1828,6 +1887,7 @@
 59-55	10258-10266	networks	_
 59-56	10267-10268	.	_
 
+Text=This procedure defined four nodes for the DAN: the bilateral frontal eye field (FEF) and the bilateral superior parietal lobule (SPL); three nodes for the SN: the SMA/ACC, the left anterior insula (AI) and the right AI; two nodes for the DMN: the medial prefrontal cortex (MPFC) and the posterior cingulate cortex (PCC).
 60-1	10269-10273	This	_
 60-2	10274-10283	procedure	_
 60-3	10284-10291	defined	_
@@ -1899,6 +1959,7 @@
 60-69	10603-10604	)	_
 60-70	10605-10606	.	_
 
+Text=The group-level VOI locations are listed in Table 2.
 61-1	10607-10610	The	_
 61-2	10611-10622	group-level	_
 61-3	10623-10626	VOI	_
@@ -1910,6 +1971,7 @@
 61-9	10657-10658	2	_
 61-10	10659-10660	.	_
 
+Text=These were obtained by intersecting functional defined templates with regions showing a significant interaction between diagnosis and task or main effect of task at a lesser conservative threshold of cluster-level FWE p <0.05 (cluster-defining threshold p = 0.001).
 62-1	10661-10666	These	_
 62-2	10667-10671	were	_
 62-3	10672-10680	obtained	_
@@ -1953,6 +2015,7 @@
 62-41	10927-10928	)	_
 62-42	10929-10930	.	_
 
+Text=We then searched for the local maximum within the group-level VOI and summarized the regional response with the first eigenvariate of (confound-corrected) voxels within a 6 mm radius.
 63-1	10931-10933	We	_
 63-2	10934-10938	then	_
 63-3	10939-10947	searched	_
@@ -1985,6 +2048,7 @@
 63-30	11109-11115	radius	_
 63-31	11116-11117	.	_
 
+Text=For the participants in which no supra-threshold voxels were identified, the first eigenvariate was extracted from a 6 mm sphere centered at the group-level maximum.
 64-1	11118-11121	For	_
 64-2	11122-11125	the	_
 64-3	11126-11138	participants	_
@@ -2013,6 +2077,7 @@
 64-26	11276-11283	maximum	_
 64-27	11284-11285	.	_
 
+Text=Individual level DCM specification and inversion DCM is a framework for specifying, estimating and comparing generative models of imaging time series.
 65-1	11286-11296	Individual	_
 65-2	11297-11302	level	_
 65-3	11303-11306	DCM	_
@@ -2037,6 +2102,7 @@
 65-22	11430-11436	series	_
 65-23	11437-11438	.	_
 
+Text=Here we used the basic (deterministic) model for fMRI, in which a vector z ∈ ℝn represents mass neural activity of each brain region at a given time.
 66-1	11439-11443	Here	_
 66-2	11444-11446	we	_
 66-3	11447-11451	used	_
@@ -2070,6 +2136,7 @@
 66-31	11586-11590	time	_
 66-32	11591-11592	.	_
 
+Text=The derivative of z with respect to time can be written as: where u is the experimental input and θn are neuronal coupling parameters that determine the strength of connections within and between brain regions.
 67-1	11593-11596	The	_
 67-2	11597-11607	derivative	_
 67-3	11608-11610	of	_
@@ -2108,6 +2175,7 @@
 67-36	11796-11803	regions	_
 67-37	11804-11805	.	_
 
+Text=This function is approximated using: where parameter matrix A ∈ ℝn × n represents the connectivity within and between each of the n regions (which in this study is the average connectivity of 0-back and 2-back conditions), B (j) ∈ ℝn × n is the modulatory effect of experimental manipulation j on each connection and C ∈ ℝn × J is the direct driving influence of each of the J experimental conditions on each region.
 68-1	11806-11810	This	_
 68-2	11811-11819	function	_
 68-3	11820-11822	is	_
@@ -2191,6 +2259,7 @@
 68-81	12221-12227	region	_
 68-82	12228-12229	.	_
 
+Text=The predicted neuronal activity enters a haemodynamic model that incorporates a model of neurovascular coupling and the subsequent BOLD response.
 69-1	12230-12233	The	_
 69-2	12234-12243	predicted	_
 69-3	12244-12252	neuronal	_
@@ -2213,6 +2282,7 @@
 69-20	12366-12374	response	_
 69-21	12375-12376	.	_
 
+Text=This provides the predicted fMRI time series that one would expect to measure, given the connectivity parameters θn = (A, B, C).
 70-1	12377-12381	This	_
 70-2	12382-12390	provides	_
 70-3	12391-12394	the	_
@@ -2242,6 +2312,7 @@
 70-27	12508-12509	)	_
 70-28	12510-12511	.	_
 
+Text=We specified a DCM for each participant.
 71-1	12512-12514	We	_
 71-2	12515-12524	specified	_
 71-3	12525-12526	a	_
@@ -2251,6 +2322,7 @@
 71-7	12540-12551	participant	_
 71-8	12552-12553	.	_
 
+Text=Model specification involved setting prior variances on the parameters in matrices A, B and C, where a prior variance of zero ‘ switches off ’ a connection and a non-zero prior variance ‘ switches on ’ a connection – so that it can be informed by data.
 72-1	12554-12559	Model	_
 72-2	12560-12573	specification	_
 72-3	12574-12582	involved	_
@@ -2302,6 +2374,7 @@
 72-49	12803-12807	data	_
 72-50	12808-12809	.	_
 
+Text=Here, there were two experimental inputs (J = 2): the main effect of task (all 0-back and 2-back events) and working memory load (contrasting 0-back with 2-back).
 73-1	12810-12814	Here	_
 73-2	12815-12816	,	_
 73-3	12817-12822	there	_
@@ -2339,6 +2412,7 @@
 73-35	12978-12979	)	_
 73-36	12980-12981	.	_
 
+Text=Task entered the model as a driving input (by setting the appropriate priors in matrix C).
 74-1	12982-12986	Task	_
 74-2	12987-12994	entered	_
 74-3	12995-12998	the	_
@@ -2359,6 +2433,7 @@
 74-18	13072-13073	)	_
 74-19	13074-13075	.	_
 
+Text=Working memory load entered the model as a modulatory input on each region's self-connection (i.e., intrinsic connection) by setting the appropriate priors on matrix B.
 75-1	13076-13083	Working	_
 75-2	13084-13090	memory	_
 75-3	13091-13095	load	_
@@ -2390,6 +2465,7 @@
 75-29	13246-13247	B	_
 75-30	13248-13249	.	_
 
+Text=The self-connections regulate a region's response to its inputs; i.e., they provide gain control in the model, akin to inhibitory inter-neurons – and consequent excitation-inhibition balance – in the brain.
 76-1	13250-13253	The	_
 76-2	13254-13270	self-connections	_
 76-3	13271-13279	regulate	_
@@ -2426,6 +2502,7 @@
 76-34	13454-13459	brain	_
 76-35	13460-13461	.	_
 
+Text=Thus, we modeled working memory load as modifying the sensitivity of each region to input from the rest of the network.
 77-1	13462-13466	Thus	_
 77-2	13467-13468	,	_
 77-3	13469-13471	we	_
@@ -2450,6 +2527,7 @@
 77-22	13574-13581	network	_
 77-23	13582-13583	.	_
 
+Text=Each subject's model was inverted, providing estimates of the connection strength parameters θ (n) which best explained the observed data.
 78-1	13584-13588	Each	_
 78-2	13589-13596	subject	_
 78-3	13597-13599	's	_
@@ -2476,6 +2554,7 @@
 78-24	13721-13725	data	_
 78-25	13726-13727	.	_
 
+Text=The resulting posterior densities were normally distributed, with expected values and covariance (uncertainty).
 79-1	13728-13731	The	_
 79-2	13732-13741	resulting	_
 79-3	13742-13751	posterior	_
@@ -2494,6 +2573,7 @@
 79-16	13840-13841	)	_
 79-17	13842-13843	.	_
 
+Text=Model estimation additionally provided the free energy approximation to log model evidence F, which scores the quality of each model in terms of accuracy and complexity: where y is the data and m is the model.
 80-1	13844-13849	Model	_
 80-2	13850-13860	estimation	_
 80-3	13861-13873	additionally	_
@@ -2534,6 +2614,7 @@
 80-38	14049-14054	model	_
 80-39	14055-14056	.	_
 
+Text=One uses the free energy F to compare competing models, in order to find the least complex model of the data that accurately explains the most variance.
 81-1	14057-14060	One	_
 81-2	14061-14065	uses	_
 81-3	14066-14069	the	_
@@ -2564,6 +2645,7 @@
 81-28	14201-14209	variance	_
 81-29	14210-14211	.	_
 
+Text=Empirical Bayes for group DCM Having fitted each subject's DCM to their data, we next performed a second level analysis to estimate the group mean and the effect of diagnosis for each connection.
 82-1	14212-14221	Empirical	_
 82-2	14222-14227	Bayes	_
 82-3	14228-14231	for	_
@@ -2601,6 +2683,7 @@
 82-35	14398-14408	connection	_
 82-36	14409-14410	.	_
 
+Text=This used recently developed routines for modeling connectivity at the group level (Parametric Empirical Bayes) in the context of DCM.
 83-1	14411-14415	This	_
 83-2	14416-14420	used	_
 83-3	14421-14429	recently	_
@@ -2625,6 +2708,7 @@
 83-22	14543-14546	DCM	_
 83-23	14547-14548	.	_
 
+Text=Parametric Empirical Bayes (PEB) is a between-subject hierarchical or empirical Bayesian model over parameters that models how individual (within-subject) connections relate to group or condition means.
 84-1	14549-14559	Parametric	_
 84-2	14560-14569	Empirical	_
 84-3	14570-14575	Bayes	_
@@ -2657,6 +2741,7 @@
 84-30	14749-14754	means	_
 84-31	14755-14756	.	_
 
+Text=This hierarchical approach treats each connection as a random (between-subject) effect, which is modeled by adding a random Gaussian variation to subject-specific predictions, based upon the group mean connectivity as well as between-subject effects such as diagnosis or age.
 85-1	14757-14761	This	_
 85-2	14762-14774	hierarchical	_
 85-3	14775-14783	approach	_
@@ -2702,6 +2787,7 @@
 85-43	15032-15035	age	_
 85-44	15036-15037	.	_
 
+Text=This parametric random effects modeling is important because, unlike a classical test (e.g.
 86-1	15038-15042	This	_
 86-2	15043-15053	parametric	_
 86-3	15054-15060	random	_
@@ -2719,6 +2805,7 @@
 86-15	15127-15130	e.g	_
 86-16	15131-15132	.	_
 
+Text=t-test), it uses the full posterior density over the parameters from each subject's DCM – both the expected strength of each connection and the associated uncertainty (i.e.
 87-1	15133-15139	t-test	_
 87-2	15140-15141	)	_
 87-3	15142-15143	,	_
@@ -2752,6 +2839,7 @@
 87-31	15305-15308	i.e	_
 87-32	15309-15310	.	_
 
+Text=posterior covariance) – to inform the group-level result (i.e., group differences).
 88-1	15311-15320	posterior	_
 88-2	15321-15331	covariance	_
 88-3	15332-15333	)	_
@@ -2769,6 +2857,7 @@
 88-15	15396-15397	)	_
 88-16	15398-15399	.	_
 
+Text=A PEB model has the following form: Starting with the last line, the observed fMRI data yi for subject i is generated by function Γi (1), which here is the subject's DCM, with parameters θ (1) and observation noise ϵi (1).
 89-1	15400-15401	A	_
 89-2	15402-15405	PEB	_
 89-3	15406-15411	model	_
@@ -2823,6 +2912,7 @@
 89-52	15631-15632	)	_
 89-53	15633-15634	.	_
 
+Text=The contribution of the PEB framework is that the DCM parameters θ (1) are themselves represented by a group or second-level model, written on the second line of the equation.
 90-1	15635-15638	The	_
 90-2	15639-15651	contribution	_
 90-3	15652-15654	of	_
@@ -2858,6 +2948,7 @@
 90-33	15804-15812	equation	_
 90-34	15813-15814	.	_
 
+Text=The second level function Γ (2) has parameters (e.g., average connection strengths) θ (2), plus between-subject variability ϵ (2).
 91-1	15815-15818	The	_
 91-2	15819-15825	second	_
 91-3	15826-15831	level	_
@@ -2889,6 +2980,7 @@
 91-29	15953-15954	)	_
 91-30	15955-15956	.	_
 
+Text=Finally, these second level parameters have priors, with mean η, as specified on the first line of the equation.
 92-1	15957-15964	Finally	_
 92-2	15965-15966	,	_
 92-3	15967-15972	these	_
@@ -2913,6 +3005,7 @@
 92-22	16063-16071	equation	_
 92-23	16072-16073	.	_
 
+Text=In this study, the first (within-subject) level of the model is the standard deterministic DCM for fMRI, where the parameters correspond to effective connectivity (please see above).
 93-1	16074-16076	In	_
 93-2	16077-16081	this	_
 93-3	16082-16087	study	_
@@ -2948,6 +3041,7 @@
 93-33	16260-16261	)	_
 93-34	16262-16263	.	_
 
+Text=The second (between-subject) level model Γ (2) is simply a GLM with the form: where X ∈ ℝS × C is the design matrix (S is the number of subjects, C is the number of covariates), IP is the identity matrix of dimension P (where P is the number of connection parameters in the DCM) and the operator ⊗ is the Kronecker product that duplicates each element of the design matrix for each DCM parameter.
 94-1	16264-16267	The	_
 94-2	16268-16274	second	_
 94-3	16275-16276	(	_
@@ -3036,6 +3130,7 @@
 94-86	16661-16670	parameter	_
 94-87	16671-16672	.	_
 
+Text=In other words, this model allows for every between subject-effect to be expressed at every within-subject effect.
 95-1	16673-16675	In	_
 95-2	16676-16681	other	_
 95-3	16682-16687	words	_
@@ -3056,6 +3151,7 @@
 95-18	16781-16787	effect	_
 95-19	16788-16789	.	_
 
+Text=The parameters of the GLM are β ⊂ θ (2).
 96-1	16790-16793	The	_
 96-2	16794-16804	parameters	_
 96-3	16805-16807	of	_
@@ -3070,6 +3166,7 @@
 96-12	16830-16831	)	_
 96-13	16832-16833	.	_
 
+Text=Thus, we had one β parameter representing the effect of each (between-subject) covariate on each DCM connection.
 97-1	16834-16838	Thus	_
 97-2	16839-16840	,	_
 97-3	16841-16843	we	_
@@ -3092,6 +3189,7 @@
 97-20	16938-16948	connection	_
 97-21	16949-16950	.	_
 
+Text=The priors on these second level parameters were set to match the priors of the first level parameters.
 98-1	16951-16954	The	_
 98-2	16955-16961	priors	_
 98-3	16962-16964	on	_
@@ -3112,6 +3210,7 @@
 98-18	17043-17053	parameters	_
 98-19	17054-17055	.	_
 
+Text=In order to identify differences between patients with schizophrenia and normal controls, we included two covariates of interest in the design matrix X: the group mean and diagnosis.
 99-1	17056-17058	In	_
 99-2	17059-17064	order	_
 99-3	17065-17067	to	_
@@ -3144,6 +3243,7 @@
 99-30	17230-17239	diagnosis	_
 99-31	17240-17241	.	_
 
+Text=We also included the working memory performance indexed by the ratio between d′2 score and d′0 score and the interaction between diagnosis and performance as nuisance covariates, in order to exclude the potential influence of performance components on the group mean and diagnosis effect.
 100-1	17242-17244	We	_
 100-2	17245-17249	also	_
 100-3	17250-17258	included	_
@@ -3191,6 +3291,7 @@
 100-45	17524-17530	effect	_
 100-46	17531-17532	.	_
 
+Text=The between-subject variability ϵ (2) with precision Π (2) was parameterized using a single precision parameter γ: where Q0 is the lower bound on precision, which takes on a small positive value, and the precision parameter γ ⊂ θ (2) scales a precision component Q1.
 101-1	17533-17536	The	_
 101-2	17537-17552	between-subject	_
 101-3	17553-17564	variability	_
@@ -3247,6 +3348,7 @@
 101-54	17805-17807	Q1	_
 101-55	17808-17809	.	_
 
+Text=Here, we used the defaults in SPM, which sets Q1 to, where pC is the prior covariance matrix of a single subject's DCM parameters and β = 16.
 102-1	17810-17814	Here	_
 102-2	17815-17816	,	_
 102-3	17817-17819	we	_
@@ -3281,6 +3383,7 @@
 102-32	17952-17954	16	_
 102-33	17955-17956	.	_
 
+Text=To summarize, the PEB model estimates the effect of each covariate on each connection (both the group mean and any group differences), as well as estimating the between-subject variability.
 103-1	17957-17959	To	_
 103-2	17960-17969	summarize	_
 103-3	17970-17971	,	_
@@ -3316,6 +3419,7 @@
 103-33	18138-18149	variability	_
 103-34	18150-18151	.	_
 
+Text=The parameters of the PEB model were estimated using a standard variational Laplace procedure, as is usually applied in DCM.
 104-1	18152-18155	The	_
 104-2	18156-18166	parameters	_
 104-3	18167-18169	of	_
@@ -3339,6 +3443,7 @@
 104-21	18273-18276	DCM	_
 104-22	18277-18278	.	_
 
+Text=Bayesian model reduction To evaluate how the connectivity of patients with schizophrenia differs from that of normal controls, we used Bayesian model comparison to explore the space of possible hypotheses (models), where each hypothesis or model assumes that a different combination of the connections could exist across participants or show phenotypic variance.
 105-1	18279-18287	Bayesian	_
 105-2	18288-18293	model	_
 105-3	18294-18303	reduction	_
@@ -3397,6 +3502,7 @@
 105-56	18636-18644	variance	_
 105-57	18645-18646	.	_
 
+Text=Candidate PEB models were obtained by removing one or more (second level) parameters from the full PEB model (described above) to produce reduced forms of the full model that differed only in their priors.
 106-1	18647-18656	Candidate	_
 106-2	18657-18660	PEB	_
 106-3	18661-18667	models	_
@@ -3437,6 +3543,7 @@
 106-38	18849-18855	priors	_
 106-39	18856-18857	.	_
 
+Text=We did this using Bayesian model reduction (BMR) that enables the evidence and parameters of nested (reduced) models to be derived directly from a full model.
 107-1	18858-18860	We	_
 107-2	18861-18864	did	_
 107-3	18865-18869	this	_
@@ -3469,6 +3576,7 @@
 107-30	19014-19019	model	_
 107-31	19020-19021	.	_
 
+Text=This provides an efficient search of the model space by scoring each reduced model, based on its log model-evidence or free energy; for details, see.
 108-1	19022-19026	This	_
 108-2	19027-19035	provides	_
 108-3	19036-19038	an	_
@@ -3499,6 +3607,7 @@
 108-28	19170-19173	see	_
 108-29	19174-19175	.	_
 
+Text=The (greedy) search algorithm used BMR to iteratively prune connection parameters from the full PEB model, until model-evidence started to decrease.
 109-1	19176-19179	The	_
 109-2	19180-19181	(	_
 109-3	19182-19188	greedy	_
@@ -3525,6 +3634,7 @@
 109-24	19318-19326	decrease	_
 109-25	19327-19328	.	_
 
+Text=The parameters of the best 256 pruned models were then averaged, weighted by their evidence (Bayesian Model Averaging).
 110-1	19329-19332	The	_
 110-2	19333-19343	parameters	_
 110-3	19344-19346	of	_
@@ -3548,6 +3658,7 @@
 110-21	19449-19450	)	_
 110-22	19451-19452	.	_
 
+Text=To summarize the DCM analysis pipeline, we first specified a DCM for each subject and fitted it to their data, providing estimates of the connectivity parameters.
 111-1	19453-19455	To	_
 111-2	19456-19465	summarize	_
 111-3	19466-19469	the	_
@@ -3578,6 +3689,7 @@
 111-28	19606-19616	parameters	_
 111-29	19617-19618	.	_
 
+Text=These subject-specific estimates (expected values and covariance) were taken to the group level and modeled using a Bayesian GLM (i.e., a PEB model).
 112-1	19619-19624	These	_
 112-2	19625-19641	subject-specific	_
 112-3	19642-19651	estimates	_
@@ -3608,6 +3720,7 @@
 112-28	19771-19772	)	_
 112-29	19773-19774	.	_
 
+Text=The parameters of the GLM represent the group average of each connectivity parameter, as well as any group differences between patients and controls.
 113-1	19775-19778	The	_
 113-2	19779-19789	parameters	_
 113-3	19790-19792	of	_
@@ -3634,6 +3747,7 @@
 113-24	19916-19924	controls	_
 113-25	19925-19926	.	_
 
+Text=We than used Bayesian model reduction to search over hundreds of reduced PEB models with different combinations of connections (and group differences).
 114-1	19927-19929	We	_
 114-2	19930-19934	than	_
 114-3	19935-19939	used	_
@@ -3660,6 +3774,7 @@
 114-24	20078-20079	)	_
 114-25	20080-20081	.	_
 
+Text=The best models from this search were combined using Bayesian model averaging.
 115-1	20082-20085	The	_
 115-2	20086-20090	best	_
 115-3	20091-20097	models	_
@@ -3674,6 +3789,7 @@
 115-12	20150-20159	averaging	_
 115-13	20160-20161	.	_
 
+Text=We report these averages in the Results section.
 116-1	20162-20164	We	_
 116-2	20165-20171	report	_
 116-3	20172-20177	these	_
@@ -3684,6 +3800,7 @@
 116-8	20202-20209	section	_
 116-9	20210-20211	.	_
 
+Text=Clinical correlates of differentiated connections Having identified the connections that differed between patients and controls in the working memory task, we next asked whether the strength of these connections correlated with the severity of symptoms in patients.
 117-1	20212-20220	Clinical	_
 117-2	20221-20231	correlates	_
 117-3	20232-20234	of	_
@@ -3724,6 +3841,7 @@
 117-38	20469-20477	patients	_
 117-39	20478-20479	.	_
 
+Text=As we had a large number of variables, we did not include these in the PEB model directly; instead, we used a (post hoc) canonical variates analysis (CVA) to identify linear relationships between the two sets of measures (strength of effective connectivity and clinical symptoms).
 118-1	20480-20482	As	_
 118-2	20483-20485	we	_
 118-3	20486-20489	had	_
@@ -3780,6 +3898,7 @@
 118-54	20767-20768	)	_
 118-55	20769-20770	.	_
 
+Text=This resulted in pairs of significantly correlated canonical variables (i.e., latent connectivity and symptom profiles).
 119-1	20771-20775	This	_
 119-2	20776-20784	resulted	_
 119-3	20785-20787	in	_
@@ -3800,6 +3919,7 @@
 119-18	20892-20893	)	_
 119-19	20894-20895	.	_
 
+Text=Using the same analysis, we asked whether our cognitive scores could be predicted by the effective connectivity.
 120-1	20896-20901	Using	_
 120-2	20902-20905	the	_
 120-3	20906-20910	same	_
@@ -3820,6 +3940,7 @@
 120-18	20996-21008	connectivity	_
 120-19	21009-21010	.	_
 
+Text=Effect of antipsychotic medication In order to ameliorate the confounding effect of antipsychotic medication on group differences, we included the chlorpromazine equivalents of antipsychotic medication as a nuisance covariate – in addition to the nuisance covariates above (working memory performance and interaction between diagnosis and performance) – in the between subject design matrix.
 121-1	21011-21017	Effect	_
 121-2	21018-21020	of	_
 121-3	21021-21034	antipsychotic	_
@@ -3878,6 +3999,7 @@
 121-56	21398-21404	matrix	_
 121-57	21405-21406	.	_
 
+Text=The main effects of group were unchanged when including antipsychotic medication as a between subject effect.
 122-1	21407-21410	The	_
 122-2	21411-21415	main	_
 122-3	21416-21423	effects	_
@@ -3896,6 +4018,7 @@
 122-16	21509-21515	effect	_
 122-17	21516-21517	.	_
 
+Text=We present the effect of the antipsychotic medication and other nuisance covariates on effective connectivity in the supplementary materials (Fig.
 123-1	21518-21520	We	_
 123-2	21521-21528	present	_
 123-3	21529-21532	the	_
@@ -3919,10 +4042,12 @@
 123-21	21661-21664	Fig	_
 123-22	21665-21666	.	_
 
+Text=S1).
 124-1	21667-21669	S1	_
 124-2	21670-21671	)	_
 124-3	21672-21673	.	_
 
+Text=We also include the chlorpromazine equivalents of antipsychotic medication into the CVA models while exploring the clinical correlates of differentiate connections.
 125-1	21674-21676	We	_
 125-2	21677-21681	also	_
 125-3	21682-21689	include	_

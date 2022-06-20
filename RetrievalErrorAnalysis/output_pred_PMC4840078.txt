@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=ADHD and Cannabis Use in Young Adults Examined Using fMRI of a Go/NoGo Task Background Children diagnosed with attention-deficit/hyperactivity disorder (ADHD) are at increased risk for substance abuse.
 1-1	0-4	ADHD	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 1-2	5-8	and	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 1-3	9-17	Cannabis	http://maven.renci.org/NeuroBridge/neurobridge#CannabisAbuse
@@ -34,6 +35,7 @@
 1-30	197-202	abuse	_
 1-31	203-204	.	_
 
+Text=Response inhibition is a hallmark of ADHD, yet the combined effects of ADHD and regular substance use on neural networks associated with response inhibition are unknown.
 2-1	205-213	Response	_
 2-2	214-224	inhibition	_
 2-3	225-227	is	_
@@ -63,6 +65,7 @@
 2-27	367-374	unknown	_
 2-28	375-376	.	_
 
+Text=Methods Task-based functional Magnetic Resonance Imaging (fMRI) data from young adults with childhood ADHD with (n=25) and without (n=25) cannabis use ≥ monthly in the past year were compared with a local normative comparison group (LNCG) with (n=11) and without (n=12) cannabis use.
 3-1	377-384	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 3-2	385-395	Task-based	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 3-3	396-406	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -120,6 +123,7 @@
 3-55	668-671	use	_
 3-56	672-673	.	_
 
+Text=Go/NoGo behavioral and fMRI data were evaluated for main and interaction effects of ADHD diagnosis and cannabis use.
 4-1	674-681	Go/NoGo	_
 4-2	682-692	behavioral	_
 4-3	693-696	and	_
@@ -140,6 +144,7 @@
 4-18	786-789	use	_
 4-19	790-791	.	_
 
+Text=Results ADHD participants made significantly more commission errors on NoGo trials than controls.
 5-1	792-799	Results	_
 5-2	800-804	ADHD	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 5-3	805-817	participants	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
@@ -155,6 +160,7 @@
 5-13	880-888	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 5-14	889-890	.	_
 
+Text=ADHD participants also had less frontoparietal and frontostriatal activity, independent of cannabis use.
 6-1	891-895	ADHD	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 6-2	896-908	participants	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 6-3	909-913	also	_
@@ -171,6 +177,7 @@
 6-14	992-995	use	_
 6-15	996-997	.	_
 
+Text=No main effects of cannabis use on response inhibition or functional brain activation were observed.
 7-1	998-1000	No	_
 7-2	1001-1005	main	_
 7-3	1006-1013	effects	_
@@ -188,6 +195,7 @@
 7-15	1089-1097	observed	_
 7-16	1098-1099	.	_
 
+Text=An interaction of ADHD diagnosis and cannabis use was found in the right hippocampus and cerebellar vermis, with increased recruitment of these regions in cannabis-using controls during correct response inhibition.
 8-1	1100-1102	An	_
 8-2	1103-1114	interaction	_
 8-3	1115-1117	of	_
@@ -221,6 +229,7 @@
 8-31	1304-1314	inhibition	_
 8-32	1315-1316	.	_
 
+Text=Conclusions ADHD participants had impaired response inhibition combined with less fronto-parietal/striatal activity, regardless of cannabis use history.
 9-1	1317-1328	Conclusions	_
 9-2	1329-1333	ADHD	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 9-3	1334-1346	participants	_
@@ -241,6 +250,7 @@
 9-18	1462-1469	history	_
 9-19	1470-1471	.	_
 
+Text=Cannabis use did not impact behavioral response inhibition.
 10-1	1472-1480	Cannabis	_
 10-2	1481-1484	use	_
 10-3	1485-1488	did	_
@@ -251,6 +261,7 @@
 10-8	1520-1530	inhibition	_
 10-9	1531-1532	.	_
 
+Text=Cannabis use was associated with hippocampal and cerebellar activation, areas rich in cannabinoid receptors, in LNCG but not ADHD participants.
 11-1	1533-1541	Cannabis	_
 11-2	1542-1545	use	_
 11-3	1546-1549	was	_
@@ -275,6 +286,7 @@
 11-22	1665-1677	participants	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 11-23	1678-1679	.	_
 
+Text=This may reflect recruitment of compensatory circuitry in cannabis using controls but not ADHD participants.
 12-1	1680-1684	This	_
 12-2	1685-1688	may	_
 12-3	1689-1696	reflect	_
@@ -292,6 +304,7 @@
 12-15	1775-1787	participants	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 12-16	1788-1789	.	_
 
+Text=Future studies targeting hippocampal and cerebellar-dependent function in these groups may provide further insight into how this circuitry is altered by ADHD and cannabis use.
 13-1	1790-1796	Future	_
 13-2	1797-1804	studies	_
 13-3	1805-1814	targeting	_
@@ -319,6 +332,7 @@
 13-25	1961-1964	use	_
 13-26	1965-1966	.	_
 
+Text=2 Methods This study was approved by the Institutional Review Board at each of four participating sites that collected fMRI data.
 14-1	1967-1968	2	_
 14-2	1969-1976	Methods	_
 14-3	1977-1981	This	_
@@ -342,6 +356,7 @@
 14-21	2091-2095	data	_
 14-22	2096-2097	.	_
 
+Text=Informed consent was obtained from all participants prior to participation.
 15-1	2098-2106	Informed	_
 15-2	2107-2114	consent	_
 15-3	2115-2118	was	_
@@ -354,6 +369,7 @@
 15-10	2159-2172	participation	_
 15-11	2173-2174	.	_
 
+Text=2.1 Participants Participants were recruited from the longitudinal follow-up of the Multimodal Treatment Study of ADHD (MTA) to participate in the current study.
 16-1	2175-2178	2.1	_
 16-2	2179-2191	Participants	_
 16-3	2192-2204	Participants	_
@@ -381,6 +397,7 @@
 16-25	2332-2337	study	_
 16-26	2338-2339	.	_
 
+Text=Recruitment took place at either the 14- or 16-year follow-up assessments (i.e., 14 or 16 years after study enrollment in childhood).
 17-1	2340-2351	Recruitment	_
 17-2	2352-2356	took	_
 17-3	2357-2362	place	_
@@ -407,6 +424,7 @@
 17-24	2474-2475	)	_
 17-25	2476-2477	.	_
 
+Text=Original MTA participants included 579 children aged 7.0 to 9.9 years diagnosed in childhood with ADHD Combined Type.
 18-1	2478-2486	Original	_
 18-2	2487-2490	MTA	_
 18-3	2491-2503	participants	_
@@ -427,6 +445,7 @@
 18-18	2590-2594	Type	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 18-19	2595-2596	.	_
 
+Text=The MTA procedures for diagnosis, treatment specifics, and sample demographics have been described elsewhere.
 19-1	2597-2600	The	_
 19-2	2601-2604	MTA	_
 19-3	2605-2615	procedures	_
@@ -445,6 +464,7 @@
 19-16	2698-2707	elsewhere	_
 19-17	2708-2709	.	_
 
+Text=A local normative comparison group (LNCG, n=289) was recruited to reflect the local populations from which the ADHD sample was drawn.
 20-1	2710-2711	A	_
 20-2	2712-2717	local	_
 20-3	2718-2727	normative	_
@@ -471,6 +491,7 @@
 20-24	2840-2845	drawn	_
 20-25	2846-2847	.	_
 
+Text=ADHD and LNCG participants have been followed longitudinally with visits at 36-months, and 6, 8, 10, 12, 14, and 16 years after baseline assessment.
 21-1	2848-2852	ADHD	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 21-2	2853-2856	and	_
 21-3	2857-2861	LNCG	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -503,6 +524,7 @@
 21-30	2991-3001	assessment	_
 21-31	3002-3003	.	_
 
+Text=Imaging performed in this work occurred during supplemental visits to the 14- or 16-year follow-up visits.
 22-1	3004-3011	Imaging	_
 22-2	3012-3021	performed	_
 22-3	3022-3024	in	_
@@ -521,6 +543,7 @@
 22-16	3103-3109	visits	_
 22-17	3110-3111	.	_
 
+Text=Cannabis use history was defined from self-report on the Substance Use Questionnaire (SUQ).
 23-1	3112-3120	Cannabis	_
 23-2	3121-3124	use	_
 23-3	3125-3132	history	_
@@ -538,6 +561,7 @@
 23-15	3203-3204	)	_
 23-16	3205-3206	.	_
 
+Text=Cannabis users reported greater than or equal to monthly cannabis use over the past year, and non-users reported having used cannabis fewer than 4 times during the previous year.
 24-1	3207-3215	Cannabis	http://maven.renci.org/NeuroBridge/neurobridge#CannabisAbuse
 24-2	3216-3221	users	_
 24-3	3222-3230	reported	_
@@ -570,6 +594,7 @@
 24-30	3381-3385	year	_
 24-31	3386-3387	.	_
 
+Text=Exclusion criteria included self-reported binge drinking (> 4 drinks in a single session on a weekly basis or more over the past year), recreational use of other substances (monthly or more often), history of traumatic brain injury with loss of consciousness, contraindications for MRI exposure, and/or psychotropic medication use other than for ADHD.
 25-1	3388-3397	Exclusion	_
 25-2	3398-3406	criteria	_
 25-3	3407-3415	included	_
@@ -633,6 +658,7 @@
 25-61	3742-3746	ADHD	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 25-62	3747-3748	.	_
 
+Text=All participants observed a 24-hour washout for all medications and a 36-hour washout for other substances, including cannabis and alcohol, prior to the scan.
 26-1	3749-3752	All	_
 26-2	3753-3765	participants	_
 26-3	3766-3774	observed	_
@@ -661,6 +687,7 @@
 26-26	3904-3908	scan	_
 26-27	3909-3910	.	_
 
+Text=In addition, participants refrained from smoking and caffeine intake for at least one-hour prior to the scan.
 27-1	3911-3913	In	_
 27-2	3914-3922	addition	_
 27-3	3923-3924	,	_
@@ -681,6 +708,7 @@
 27-18	4016-4020	scan	_
 27-19	4021-4022	.	_
 
+Text=All abstinence measures were based on self-report.
 28-1	4023-4026	All	_
 28-2	4027-4037	abstinence	_
 28-3	4038-4046	measures	_
@@ -690,6 +718,7 @@
 28-7	4061-4072	self-report	_
 28-8	4073-4074	.	_
 
+Text=The final sample across all four imaging sites included 62 ADHD (31 users, 31 non-users) and 26 LNCG (12 users, 14 non-users).
 29-1	4075-4078	The	_
 29-2	4079-4084	final	_
 29-3	4085-4091	sample	_
@@ -720,6 +749,7 @@
 29-28	4205-4206	)	_
 29-29	4207-4208	.	_
 
+Text=After data quality screening for sufficient behavioral performance during the in-scanner task and temporal signal-to-noise-ratio of acquired fMRI data, participants included 50 ADHD (25 users, 25 non-users) and 23 LNCG (11 users, 12 non-users).
 30-1	4209-4214	After	_
 30-2	4215-4219	data	_
 30-3	4220-4227	quality	_
@@ -763,6 +793,7 @@
 30-41	4458-4459	)	_
 30-42	4460-4461	.	_
 
+Text=Participants included in analyses ranged in age from 21 to 27 years.
 31-1	4462-4474	Participants	_
 31-2	4475-4483	included	_
 31-3	4484-4486	in	_
@@ -777,6 +808,7 @@
 31-12	4524-4529	years	_
 31-13	4530-4531	.	_
 
+Text=Demographic characteristics for the sample are provided in Table 1.
 32-1	4532-4543	Demographic	_
 32-2	4544-4559	characteristics	_
 32-3	4560-4563	for	_
@@ -789,6 +821,7 @@
 32-10	4597-4598	1	_
 32-11	4599-4600	.	_
 
+Text=2.2 Task and fMRI Acquisition Parameters Each of the participants performed four runs of an appetitive Go/NoGo task.
 33-1	4601-4604	2.2	_
 33-2	4605-4609	Task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 33-3	4610-4613	and	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -809,6 +842,7 @@
 33-18	4712-4716	task	http://maven.renci.org/NeuroBridge/neurobridge#GoNoGoTask
 33-19	4717-4718	.	_
 
+Text=The task consisted of responding with a right index finger button press when presented with a target (Go) cue and withholding a button press when presented with a non-target (NoGo) cue.
 34-1	4719-4722	The	_
 34-2	4723-4727	task	_
 34-3	4728-4737	consisted	_
@@ -846,6 +880,7 @@
 34-35	4904-4907	cue	_
 34-36	4908-4909	.	_
 
+Text=Targets appeared in 500ms durations with an inter-stimulus interval (ISI) jittered in duration from 2–14.5s (mean 5.2s).
 35-1	4910-4917	Targets	_
 35-2	4918-4926	appeared	_
 35-3	4927-4929	in	_
@@ -869,6 +904,7 @@
 35-21	5032-5033	)	_
 35-22	5034-5035	.	_
 
+Text=All four runs each contained 36 Go and 12 NoGo trials for a total of 192 trials per subject.
 36-1	5036-5039	All	_
 36-2	5040-5044	four	_
 36-3	5045-5049	runs	_
@@ -890,6 +926,7 @@
 36-19	5120-5127	subject	_
 36-20	5128-5129	.	_
 
+Text=The targets and non-targets were pseudo-randomized in presentation order within each run and defined for the participant via an instructional screen prior to the start of each run.
 37-1	5130-5133	The	_
 37-2	5134-5141	targets	_
 37-3	5142-5145	and	_
@@ -920,6 +957,7 @@
 37-28	5306-5309	run	_
 37-29	5310-5311	.	_
 
+Text=Human faces with emotional content (happy or neutral) were used as the primary stimulus, and fixation crosses for the ISI.
 38-1	5312-5317	Human	_
 38-2	5318-5323	faces	_
 38-3	5324-5328	with	_
@@ -945,6 +983,7 @@
 38-23	5433-5436	ISI	_
 38-24	5437-5438	.	_
 
+Text=The task instructions read: “ Press your index finger as fast as you can whenever you see the PLAIN [HAPPY] faces.
 39-1	5439-5442	The	_
 39-2	5443-5447	task	_
 39-3	5448-5460	instructions	_
@@ -971,6 +1010,7 @@
 39-24	5550-5555	faces	_
 39-25	5556-5557	.	_
 
+Text=Don ’ t press for other faces, only the PLAIN [HAPPY] faces. ” Each participant had, in a pseudo-randomized order, two runs of happy and two runs of neutral faces as a target.
 40-1	5558-5561	Don	_
 40-2	5562-5563	’	_
 40-3	5564-5565	t	_
@@ -1011,6 +1051,7 @@
 40-38	5731-5737	target	_
 40-39	5738-5739	.	_
 
+Text=Human faces as a no-go stimulus have been well validated in prior work.
 41-1	5740-5745	Human	_
 41-2	5746-5751	faces	_
 41-3	5752-5754	as	_
@@ -1026,6 +1067,7 @@
 41-13	5806-5810	work	_
 41-14	5811-5812	.	_
 
+Text=Echo planar images (EPI) were acquired over 154 volumes for a total of 5m and 12s per run (TR/TE=2000ms/30ms, 32 axial slices, AC-PC aligned, TH=4mm, Slice Gap=1mm, In-plane resolution=3.4×3.4mm).
 42-1	5813-5817	Echo	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 42-2	5818-5824	planar	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 42-3	5825-5831	images	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
@@ -1066,6 +1108,7 @@
 42-38	6016-6017	)	_
 42-39	6018-6019	.	_
 
+Text=High-resolution anatomical MPRAGE T1-weighted images (TR/TE/TI=2170/5.56/1100ms, 160 sagittal slices, TH=1.2mm, In-plane resolution=1×1mm) were acquired along with T2-weighted images (TR/TE=6440/67ms) co-planar to the functional acquisitions.
 43-1	6020-6035	High-resolution	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 43-2	6036-6046	anatomical	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 43-3	6047-6053	MPRAGE	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1099,6 +1142,7 @@
 43-31	6256-6268	acquisitions	_
 43-32	6269-6270	.	_
 
+Text=For distortion correction, a dual-echo B0 mapping scan (TR/TE1/TE2=500/3.03/5.49) was acquired co-planar with the functional acquisitions.
 44-1	6271-6274	For	_
 44-2	6275-6285	distortion	_
 44-3	6286-6296	correction	_
@@ -1120,6 +1164,7 @@
 44-19	6399-6411	acquisitions	_
 44-20	6412-6413	.	_
 
+Text=2.3 Pre-Processing Functional and task behavioral data underwent a quality control evaluation and initial pre-processing using FBIRN tools and dashboard monitoring (www.birncommunity.org).
 45-1	6414-6417	2.3	_
 45-2	6418-6432	Pre-Processing	_
 45-3	6433-6443	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalNearInfraredSpectroscopy
@@ -1146,6 +1191,7 @@
 45-24	6602-6603	)	_
 45-25	6604-6605	.	_
 
+Text=Quality control ensured adequate data quality and consistency throughout the study.
 46-1	6606-6613	Quality	_
 46-2	6614-6621	control	_
 46-3	6622-6629	ensured	_
@@ -1159,6 +1205,7 @@
 46-11	6683-6688	study	_
 46-12	6689-6690	.	_
 
+Text=Errant subjects were flagged for removal for either of two reasons: 1) average task performance at or below chance levels (<60% accuracy, 4 total subjects), or 2) the concurrence of excessive motion (Signal-To-Noise-Fluctuation <65) and null functional activation in occipital lobes during visual stimuli (11 total subjects).
 47-1	6691-6697	Errant	_
 47-2	6698-6706	subjects	_
 47-3	6707-6711	were	_
@@ -1222,6 +1269,7 @@
 47-61	7028-7029	)	_
 47-62	7030-7031	.	_
 
+Text=An initial preprocessing stream was applied: B0 and slice time correction followed by motion correction, brain extraction, spatial smoothing (FWHM=5mm), intensity normalization and high-pass temporal filtering (sigma=50s) in FSL.
 48-1	7032-7034	An	_
 48-2	7035-7042	initial	_
 48-3	7043-7056	preprocessing	_
@@ -1261,6 +1309,7 @@
 48-37	7265-7268	FSL	_
 48-38	7269-7270	.	_
 
+Text=A General Linear Model for each of the four runs was performed using FSL, predicting fMRI time series data with correct Go and NoGo trials, convolved with a double gamma hemodynamic response function, along with their temporal derivatives.
 49-1	7271-7272	A	_
 49-2	7273-7280	General	_
 49-3	7281-7287	Linear	_
@@ -1304,6 +1353,7 @@
 49-41	7501-7512	derivatives	_
 49-42	7513-7514	.	_
 
+Text=This model included the time derivative to account for variance in trial onset times as well as covariates for motion (rotation and translation).
 50-1	7515-7519	This	_
 50-2	7520-7525	model	_
 50-3	7526-7534	included	_
@@ -1331,6 +1381,7 @@
 50-25	7660-7661	)	_
 50-26	7662-7663	.	_
 
+Text=A three-step (EPI to T2, T2 to T1, T1 to template) registration from native space to template space was performed using the T2-coplanar and T1-high resolution anatomical scans as references.
 51-1	7664-7665	A	_
 51-2	7666-7676	three-step	_
 51-3	7677-7678	(	_
@@ -1367,6 +1418,7 @@
 51-34	7847-7857	references	_
 51-35	7858-7859	.	_
 
+Text=The four runs were then collapsed into visit level maps using fixed effects prior to calculating voxelwise group statistics using FSLs FLAME 1 mixed effects analysis with correction for multiple comparisons.
 52-1	7860-7863	The	_
 52-2	7864-7868	four	_
 52-3	7869-7873	runs	_
@@ -1400,6 +1452,7 @@
 52-31	8055-8066	comparisons	_
 52-32	8067-8068	.	_
 
+Text=2.4 Analyses A 2-way ANOVA (diagnosis, cannabis use) model with interactions was used to analyze behavioral performance measures, including errors of commission, errors of omission, and response times.
 53-1	8069-8072	2.4	_
 53-2	8073-8081	Analyses	_
 53-3	8082-8083	A	_
@@ -1436,6 +1489,7 @@
 53-34	8270-8275	times	_
 53-35	8276-8277	.	_
 
+Text=In this analysis, the NoGo vs. Go imaging contrast collapsed across emotional content was used to measure inhibitory control.
 54-1	8278-8280	In	_
 54-2	8281-8285	this	_
 54-3	8286-8294	analysis	_
@@ -1458,6 +1512,7 @@
 54-20	8396-8403	control	_
 54-21	8404-8405	.	_
 
+Text=The inhibition contrast (NoGo vs. Go) identifies functional activation, defined here as an increase in the BOLD signal, during NoGo trials (inhibiting a response) relative to Go trials (making a response).
 55-1	8406-8409	The	_
 55-2	8410-8420	inhibition	_
 55-3	8421-8429	contrast	_
@@ -1499,6 +1554,7 @@
 55-39	8617-8618	)	_
 55-40	8619-8620	.	_
 
+Text=The analysis consisted of all successful trials.
 56-1	8621-8624	The	_
 56-2	8625-8633	analysis	_
 56-3	8634-8643	consisted	_
@@ -1508,6 +1564,7 @@
 56-7	8662-8668	trials	_
 56-8	8669-8670	.	_
 
+Text=Primary group contrasts included the main effect of diagnosis (ADHD vs. LNCG), cannabis use (cannabis user vs. non-user) and their two-way interaction (diagnosis x cannabis use).
 57-1	8671-8678	Primary	_
 57-2	8679-8684	group	_
 57-3	8685-8694	contrasts	_
@@ -1543,6 +1600,7 @@
 57-33	8854-8855	)	_
 57-34	8856-8857	.	_
 
+Text=In addition to voxelwise analyses, native space analyses were performed using Freesurfer segmented ROIs of subcortical anatomy including caudate, putamen, pallidum, thalamus and accumbens.
 58-1	8858-8860	In	_
 58-2	8861-8869	addition	_
 58-3	8870-8872	to	_
@@ -1573,6 +1631,7 @@
 58-28	9040-9049	accumbens	_
 58-29	9050-9051	.	_
 
+Text=Native space analysis allows for more precise interrogation of data that is less dependent on subject-to-template registration accuracy.
 59-1	9052-9058	Native	_
 59-2	9059-9064	space	_
 59-3	9065-9073	analysis	_
@@ -1593,6 +1652,7 @@
 59-18	9179-9187	accuracy	_
 59-19	9188-9189	.	_
 
+Text=To address threshold ambiguity of the findings and define the overlap with previous reports of activation differences in adults, a sliding z-score threshold was used in increments of 0.1 (from z=1 to z=4) to quantify the relative global distribution of activation across threshold values in 7 functionally connected networks previously identified by Yeo et.
 60-1	9190-9192	To	_
 60-2	9193-9200	address	_
 60-3	9201-9210	threshold	_
@@ -1652,6 +1712,7 @@
 60-57	9547-9549	et	_
 60-58	9550-9551	.	_
 
+Text=al .. A secondary analysis including age and gender as covariates was performed to assess the confounding effects of significantly different demographic factors on the outcomes highlighted in the sample.
 61-1	9552-9554	al	_
 61-2	9555-9557	..	_
 61-3	9558-9559	A	_
@@ -1684,6 +1745,7 @@
 61-30	9748-9754	sample	_
 61-31	9755-9756	.	_
 
+Text=To address relative withdrawal differences during washout between groups, a statistical comparison of total withdrawal symptoms on a continuous withdrawal scale (Budney 2012) was performed.
 62-1	9757-9759	To	_
 62-2	9760-9767	address	_
 62-3	9768-9776	relative	_
@@ -1714,6 +1776,7 @@
 62-28	9939-9948	performed	_
 62-29	9949-9950	.	_
 
+Text=Finally, to support the main results, a post-hoc analysis using the significant regions of interest (ROI) highlighted in the results section of this work (six ROIs for main effect of diagnosis, 2 ROIs for interaction effect of diagnosis x cannabis use) were interrogated for additional main effects of nicotine use and current medication status.
 63-1	9951-9958	Finally	_
 63-2	9959-9960	,	_
 63-3	9961-9963	to	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Transdiagnostic multimodal neuroimaging in psychosis: structural, resting-state, and task MRI correlates of cognitive control Background: Disorders with psychotic features, including schizophrenia and some bipolar disorder, are associated with impairments in regulation of goal-directed behavior, termed cognitive control.
 1-1	0-15	Transdiagnostic	_
 1-2	16-26	multimodal	_
 1-3	27-39	neuroimaging	_
@@ -48,6 +49,7 @@
 1-44	321-328	control	_
 1-45	329-330	.	_
 
+Text=Cognitive control related neural alterations have been studied in psychosis.
 2-1	331-340	Cognitive	_
 2-2	341-348	control	_
 2-3	349-356	related	_
@@ -60,6 +62,7 @@
 2-10	397-406	psychosis	_
 2-11	407-408	.	_
 
+Text=However, studies are typically unimodal and relationships across modalities of brain function and structure remain unclear.
 3-1	409-416	However	_
 3-2	417-418	,	_
 3-3	419-426	studies	_
@@ -79,6 +82,7 @@
 3-17	525-532	unclear	_
 3-18	533-534	.	_
 
+Text=Thus, we performed transdiagnostic multimodal analyses to examine cognitive control related neural variation in psychosis.
 4-1	535-539	Thus	_
 4-2	540-541	,	_
 4-3	542-544	we	_
@@ -97,6 +101,7 @@
 4-16	648-657	psychosis	_
 4-17	658-659	.	_
 
+Text=Methods: Structural, resting, and working memory task imaging for 31 controls, 27 bipolar, and 23 schizophrenia patients were collected and processed identically to the Human Connectome Project (HCP), enabling identification of relationships with prior multimodal work.
 5-1	660-667	Methods	_
 5-2	668-669	:	_
 5-3	670-680	Structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -143,6 +148,7 @@
 5-44	932-936	work	_
 5-45	937-938	.	_
 
+Text=Two cognitive control related independent components (ICs) derived from the HCP using multiset canonical correlation analysis + joint independent component analysis (mCCA+jICA) were used to predict performance in psychosis.
 6-1	939-942	Two	_
 6-2	943-952	cognitive	_
 6-3	953-960	control	_
@@ -178,6 +184,7 @@
 6-33	1156-1165	psychosis	_
 6-34	1166-1167	.	_
 
+Text=De novo mCCA+jICA was performed and results correlated with cognitive control.
 7-1	1168-1170	De	_
 7-2	1171-1175	novo	_
 7-3	1176-1185	mCCA+jICA	_
@@ -191,6 +198,7 @@
 7-11	1238-1245	control	_
 7-12	1246-1247	.	_
 
+Text=Results: A priori working memory and cortical thickness maps significantly predicted cognitive control in psychosis.
 8-1	1248-1255	Results	_
 8-2	1256-1257	:	_
 8-3	1258-1259	A	_
@@ -209,6 +217,7 @@
 8-16	1355-1364	psychosis	_
 8-17	1365-1366	.	_
 
+Text=De novo mCCA+jICA identified an IC correlated with cognitive control that also discriminated groups.
 9-1	1367-1369	De	_
 9-2	1370-1374	novo	_
 9-3	1375-1384	mCCA+jICA	_
@@ -225,6 +234,7 @@
 9-14	1460-1466	groups	_
 9-15	1467-1468	.	_
 
+Text=Structural contributions included insular and cingulate regions; task contributions included precentral, posterior parietal, cingulate, and visual regions; and resting-state contributions highlighted canonical network organization.
 10-1	1469-1479	Structural	_
 10-2	1480-1493	contributions	_
 10-3	1494-1502	included	_
@@ -256,6 +266,7 @@
 10-29	1692-1704	organization	_
 10-30	1705-1706	.	_
 
+Text=Follow-up analyses suggested correlations with cognitive control were primarily influenced by schizophrenia patients.
 11-1	1707-1716	Follow-up	_
 11-2	1717-1725	analyses	_
 11-3	1726-1735	suggested	_
@@ -271,6 +282,7 @@
 11-13	1815-1823	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-14	1824-1825	.	_
 
+Text=Conclusions: A priori and de novo imaging replicably identified a set of interrelated patterns across modalities and the healthy-to-psychosis spectrum suggesting robustness of these features.
 12-1	1826-1837	Conclusions	_
 12-2	1838-1839	:	_
 12-3	1840-1841	A	_
@@ -299,6 +311,7 @@
 12-26	2009-2017	features	_
 12-27	2018-2019	.	_
 
+Text=Relationships between imaging and cognitive control performance suggest shared symptomatology may be key to identifying transdiagnostic relationships in psychosis.
 13-1	2020-2033	Relationships	_
 13-2	2034-2041	between	_
 13-3	2042-2049	imaging	_
@@ -320,6 +333,7 @@
 13-19	2173-2182	psychosis	_
 13-20	2183-2184	.	_
 
+Text=Methods: Participants: Participants were recruited from a broader study of neural alterations in psychosis and included healthy controls (HC), schizophrenia or schizoaffective disorder (SZ), and bipolar disorder (BP).
 14-1	2185-2192	Methods	_
 14-2	2193-2194	:	_
 14-3	2195-2207	Participants	_
@@ -360,6 +374,7 @@
 14-38	2410-2411	)	_
 14-39	2412-2413	.	_
 
+Text=Prior to image pre-processing, there were n=35 HC, n=36 BP, and n=31 SZ available.
 15-1	2414-2419	Prior	_
 15-2	2420-2422	to	_
 15-3	2423-2428	image	_
@@ -379,6 +394,7 @@
 15-17	2489-2498	available	_
 15-18	2499-2500	.	_
 
+Text=Of this, n=31/30 * HC, n=27 BP, and n=23 SZ had the requisite data for inclusion in this study (* see supplement).
 16-1	2501-2503	Of	_
 16-2	2504-2508	this	_
 16-3	2509-2510	,	_
@@ -408,6 +424,7 @@
 16-27	2618-2619	)	_
 16-28	2620-2621	.	_
 
+Text=Participants were recruited from clinical and community settings in Saint Louis.
 17-1	2622-2634	Participants	_
 17-2	2635-2639	were	_
 17-3	2640-2649	recruited	_
@@ -421,6 +438,7 @@
 17-11	2696-2701	Louis	_
 17-12	2702-2703	.	_
 
+Text=Participants had no substance use disorder in the prior six months, no clinically significant head trauma, and no neurological diseases.
 18-1	2704-2716	Participants	_
 18-2	2717-2720	had	_
 18-3	2721-2723	no	_
@@ -445,6 +463,7 @@
 18-22	2833-2841	diseases	_
 18-23	2842-2843	.	_
 
+Text=Patient participation criteria included: DSM-IV diagnosis of BP or SZ, age 18–30, and stable outpatient or partial hospital status.
 19-1	2844-2851	Patient	_
 19-2	2852-2865	participation	_
 19-3	2866-2874	criteria	_
@@ -469,6 +488,7 @@
 19-22	2971-2977	status	_
 19-23	2978-2979	.	_
 
+Text=HC were recruited to have similar demographics (age, gender, parental level of education) as patients.
 20-1	2980-2982	HC	_
 20-2	2983-2987	were	_
 20-3	2988-2997	recruited	_
@@ -490,6 +510,7 @@
 20-19	3077-3085	patients	_
 20-20	3086-3087	.	_
 
+Text=HC participation criteria included: no history of DSM-IV psychotic disorder and no cognitive enhancing or psychotropic medication for prior three months.
 21-1	3088-3090	HC	_
 21-2	3091-3104	participation	_
 21-3	3105-3113	criteria	_
@@ -514,6 +535,7 @@
 21-22	3235-3241	months	_
 21-23	3242-3243	.	_
 
+Text=Study procedures were approved by the Washington University Institutional Review Board and all participants gave written informed consent.
 22-1	3244-3249	Study	_
 22-2	3250-3260	procedures	_
 22-3	3261-3265	were	_
@@ -534,6 +556,7 @@
 22-18	3374-3381	consent	_
 22-19	3382-3383	.	_
 
+Text=Behavioral assessment: A composite measure of cognitive control was generated for each participant from their performance on four tasks (see supplement for details on each task): In-scanner N-Back task; 2) Out of scanner letter N-Back task from the Penn Computerized Neuropsychological battery (PennCNP); 3) Progressive matrices from the PennCNP; and, 4) Penn Conditional Exclusion Task accuracy.
 23-1	3384-3394	Behavioral	_
 23-2	3395-3405	assessment	_
 23-3	3406-3407	:	_
@@ -605,6 +628,7 @@
 23-69	3784-3792	accuracy	_
 23-70	3793-3794	.	_
 
+Text=Performance on each task was individually Z-scored and averaged to generate the composite measure.
 24-1	3795-3806	Performance	_
 24-2	3807-3809	on	_
 24-3	3810-3814	each	_
@@ -621,6 +645,7 @@
 24-14	3885-3892	measure	_
 24-15	3893-3894	.	_
 
+Text=This composite had a Cronbach ’ s alpha of 0.75, suggesting good internal consistency.
 25-1	3895-3899	This	_
 25-2	3900-3909	composite	_
 25-3	3910-3913	had	_
@@ -638,6 +663,7 @@
 25-15	3970-3981	consistency	_
 25-16	3982-3983	.	_
 
+Text=Neuroimaging collection and pre-processing Participants were scanned at Washington University in St. Louis using a customized Siemens “ Connectome ” scanner developed for the HCP.
 26-1	3984-3996	Neuroimaging	_
 26-2	3997-4007	collection	_
 26-3	4008-4011	and	_
@@ -665,6 +691,7 @@
 26-25	4159-4162	HCP	_
 26-26	4163-4164	.	_
 
+Text=T1 and T2 were acquired at 0.7mm isotropic resolution and BOLD imaging were collected at 2mm isotropic resolution with 720ms TR.
 27-1	4165-4167	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 27-2	4168-4171	and	_
 27-3	4172-4174	T2	http://maven.renci.org/NeuroBridge/neurobridge#T2WeightedImaging
@@ -688,6 +715,7 @@
 27-21	4290-4292	TR	_
 27-22	4293-4294	.	_
 
+Text=Data were pre-processed using the HCP pipelines and further processed to generate the final imaging measures used in the present study as was done in.
 28-1	4295-4299	Data	_
 28-2	4300-4304	were	_
 28-3	4305-4318	pre-processed	_
@@ -715,6 +743,7 @@
 28-25	4442-4444	in	_
 28-26	4445-4446	.	_
 
+Text=Three imaging modalities were used: 1) cortical thickness (sMRI); 2) resting state functional connectivity correlation matrices (rsfcMRI) generated using cortical, cerebellar, and subcortical parcels from Freesurfer; and, 3) the HCP N-back working memory task fMRI (tfMRI) – activation in the 2-back condition (see supplement).
 29-1	4447-4452	Three	_
 29-2	4453-4460	imaging	_
 29-3	4461-4471	modalities	_
@@ -778,6 +807,7 @@
 29-61	4789-4790	)	_
 29-62	4791-4792	.	_
 
+Text=Relationship to a priori normative multimodal correlates of cognitive control: Our previous work using mCCA+jICA identified replicable multimodal patterns from two mCCA+jICA components that were significantly related to cognitive control in healthy participants in the HCP.
 30-1	4793-4805	Relationship	_
 30-2	4806-4808	to	_
 30-3	4809-4810	a	_
@@ -817,6 +847,7 @@
 30-37	5063-5066	HCP	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 30-38	5067-5068	.	_
 
+Text=We performed an analysis to determine whether patterns from these two components also predicted cognitive control in the present participants.
 31-1	5069-5071	We	_
 31-2	5072-5081	performed	_
 31-3	5082-5084	an	_
@@ -839,6 +870,7 @@
 31-20	5198-5210	participants	_
 31-21	5211-5212	.	_
 
+Text=Given that data were collected and processed identically, we directly applied the three relevant modalities from these two components from the prior study to the source data from the present cohort (referred to as HCP_gC1_IC3 and HCP_gC1_IC7, see supplement).
 32-1	5213-5218	Given	_
 32-2	5219-5223	that	_
 32-3	5224-5228	data	_
@@ -884,6 +916,7 @@
 32-43	5474-5475	)	_
 32-44	5476-5477	.	_
 
+Text=This generated a set of subject-specific weights for the present cohort corresponding to the extent to which a priori components reflected the present data (see supplement).
 33-1	5478-5482	This	_
 33-2	5483-5492	generated	_
 33-3	5493-5494	a	_
@@ -914,6 +947,7 @@
 33-28	5651-5652	)	_
 33-29	5653-5654	.	_
 
+Text=Resultant weights were correlated with the composite cognitive control measure.
 34-1	5655-5664	Resultant	_
 34-2	5665-5672	weights	_
 34-3	5673-5677	were	_
@@ -926,6 +960,7 @@
 34-10	5726-5733	measure	_
 34-11	5734-5735	.	_
 
+Text=mCCA+jICA multimodal imaging analysis: We also identified mCCA+jICA components de novo in the psychosis data set.
 35-1	5736-5745	mCCA+jICA	_
 35-2	5746-5756	multimodal	_
 35-3	5757-5764	imaging	_
@@ -945,6 +980,7 @@
 35-17	5846-5849	set	_
 35-18	5850-5851	.	_
 
+Text=Multiset canonical correlation analysis with joint independent component analysis (mCCA+jICA) is an unsupervised analysis framework that identifies relationships across modalities and decomposes data to reveal maximally independent latent sources of variance (see supplement).
 36-1	5852-5860	Multiset	_
 36-2	5861-5870	canonical	_
 36-3	5871-5882	correlation	_
@@ -984,6 +1020,7 @@
 36-37	6130-6131	)	_
 36-38	6132-6133	.	_
 
+Text=Briefly, mCCA first aligned the three imaging modalities in order to simplify the correlational structure and maximize inter-subject covariation.
 37-1	6134-6141	Briefly	_
 37-2	6142-6143	,	_
 37-3	6144-6148	mCCA	_
@@ -1006,6 +1043,7 @@
 37-20	6268-6279	covariation	_
 37-21	6280-6281	.	_
 
+Text=Next, jICA maximized spatial independence yielding a set of 9 independent components (ICs).
 38-1	6282-6286	Next	_
 38-2	6287-6288	,	_
 38-3	6289-6293	jICA	_
@@ -1024,6 +1062,7 @@
 38-16	6374-6375	)	_
 38-17	6376-6377	.	_
 
+Text=Each IC contained a set of linked modalities including maps of cortical thickness (sMRI) and working memory task activation (tfMRI), and a parcel-wise correlation matrix (rsfcMRI).
 39-1	6378-6382	Each	_
 39-2	6383-6385	IC	_
 39-3	6386-6395	contained	_
@@ -1059,6 +1098,7 @@
 39-33	6563-6564	)	_
 39-34	6565-6566	.	_
 
+Text=Each IC had a corresponding set of subject-specific weights that reflected the extent to which a given IC comprised the participant ’ s original data.
 40-1	6567-6571	Each	_
 40-2	6572-6574	IC	_
 40-3	6575-6578	had	_
@@ -1086,6 +1126,7 @@
 40-25	6712-6716	data	_
 40-26	6717-6718	.	_
 
+Text=These weights were then used for statistical analyses to identify brain-behavior relationships and assess group discriminability (see supplement).
 41-1	6719-6724	These	_
 41-2	6725-6732	weights	_
 41-3	6733-6737	were	_
@@ -1108,6 +1149,7 @@
 41-20	6865-6866	)	_
 41-21	6867-6868	.	_
 
+Text=Statistical analyses: Statistical analyses were performed in SPSS and MATLAB with multiple comparison correction using FDR.
 42-1	6869-6880	Statistical	_
 42-2	6881-6889	analyses	_
 42-3	6890-6891	:	_
@@ -1127,6 +1169,7 @@
 42-17	6989-6992	FDR	_
 42-18	6993-6994	.	_
 
+Text=For correlations between subject-specific weights and cognitive control performance, partial correlation was used to correct for differences in group means.
 43-1	6995-6998	For	_
 43-2	6999-7011	correlations	_
 43-3	7012-7019	between	_
@@ -1150,6 +1193,7 @@
 43-21	7146-7151	means	_
 43-22	7152-7153	.	_
 
+Text=We assessed group discrimination performance of each IC using multivariate analysis of variance (MANOVA) in which group was used to predict all three imaging weights (one per modality) related to each IC.
 44-1	7154-7156	We	_
 44-2	7157-7165	assessed	_
 44-3	7166-7171	group	_
@@ -1188,6 +1232,7 @@
 44-36	7359-7361	IC	_
 44-37	7362-7363	.	_
 
+Text=Significant MANOVA omnibus tests were followed up with planned contrasts.
 45-1	7364-7375	Significant	_
 45-2	7376-7382	MANOVA	_
 45-3	7383-7390	omnibus	_

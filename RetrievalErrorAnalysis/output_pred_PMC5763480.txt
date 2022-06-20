@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Brain substrates of early (4 h) cigarette abstinence: Identification of treatment targets Introduction Research indicates that overnight nicotine abstinence disrupts neural activity in the mesocorticolimbic reward network; however, less is known about the time course of abstinence-induced brain changes.
 1-1	0-5	Brain	_
 1-2	6-16	substrates	_
 1-3	17-19	of	_
@@ -48,6 +49,7 @@
 1-44	301-308	changes	_
 1-45	309-310	.	_
 
+Text=To examine the potential neural effects of early abstinence, we used arterial spin labeling perfusion fMRI, to measure regional cerebral blood flow (rCBF) changes in the resting brain induced by 4 h of nicotine abstinence.
 2-1	311-313	To	_
 2-2	314-321	examine	_
 2-3	322-325	the	_
@@ -89,6 +91,7 @@
 2-39	526-536	abstinence	_
 2-40	537-538	.	_
 
+Text=Methods In a repeated measures design, 5 min of resting perfusion fMRI data were acquired in awake nicotine-dependent individuals (eyes open) during ‘ smoking as usual ’ (SMK) and following 4 h of monitored nicotine abstinence (ABS) conditions (N = 20).
 3-1	539-546	Methods	_
 3-2	547-549	In	_
 3-3	550-551	a	_
@@ -141,6 +144,7 @@
 3-50	799-800	)	_
 3-51	801-802	.	_
 
+Text=Conditions were compared using a paired t test in SPM8.
 4-1	803-813	Conditions	_
 4-2	814-818	were	_
 4-3	819-827	compared	_
@@ -153,6 +157,7 @@
 4-10	853-857	SPM8	_
 4-11	858-859	.	_
 
+Text=Craving was assessed prior to each condition.
 5-1	860-867	Craving	_
 5-2	868-871	was	_
 5-3	872-880	assessed	_
@@ -162,6 +167,7 @@
 5-7	895-904	condition	_
 5-8	905-906	.	_
 
+Text=Results Compared to SMK, ABS significantly increased craving and reduced rCBF in select regions, including the hippocampus and ventral striatum (cluster corr, α = 0.01, 943 contiguous voxels).
 6-1	907-914	Results	_
 6-2	915-923	Compared	_
 6-3	924-926	to	_
@@ -198,6 +204,7 @@
 6-34	1103-1104	)	_
 6-35	1105-1106	.	_
 
+Text=The magnitude of the abstinence-induced change in rCBF correlated with the magnitude of the change in craving across conditions in select regions, including the medial and lateral orbitofrontal cortices and the anterior ventral insula (r values ranging from 0.59–0.74).
 7-1	1107-1110	The	_
 7-2	1111-1120	magnitude	_
 7-3	1121-1123	of	_
@@ -242,6 +249,7 @@
 7-42	1377-1378	)	_
 7-43	1379-1380	.	_
 
+Text=Conclusions Results show that as few as 4 h of abstinence can reduce resting rCBF in multiple nodes of the brain ’ s mesocorticolimbic network, disrupting neural processing.
 8-1	1381-1392	Conclusions	_
 8-2	1393-1400	Results	_
 8-3	1401-1405	show	_
@@ -273,6 +281,7 @@
 8-29	1544-1554	processing	_
 8-30	1555-1556	.	_
 
+Text=Identifying early withdrawal treatment targets has far-reaching implications, which include thwarting relapse proclivities.
 9-1	1557-1568	Identifying	_
 9-2	1569-1574	early	_
 9-3	1575-1585	withdrawal	_
@@ -289,6 +298,7 @@
 9-14	1668-1680	proclivities	_
 9-15	1681-1682	.	_
 
+Text=Results parallel those of the extant human literature and are in agreement with an extensive preclinical literature showing compromised mesolimbic dopaminergic function and impairments in reward function during nicotine withdrawal.
 10-1	1683-1690	Results	_
 10-2	1691-1699	parallel	_
 10-3	1700-1705	those	_
@@ -321,13 +331,16 @@
 10-30	1903-1913	withdrawal	_
 10-31	1914-1915	.	_
 
+Text=2.
 11-1	1916-1917	2	_
 11-2	1918-1919	.	_
 
+Text=Methods 2.1.
 12-1	1920-1927	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	1928-1931	2.1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	1932-1933	.	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 
+Text=Participants The study was conducted at the University of Pennsylvania Perelman School of Medicine.
 13-1	1934-1946	Participants	_
 13-2	1947-1950	The	_
 13-3	1951-1956	study	_
@@ -344,6 +357,7 @@
 13-14	2024-2032	Medicine	_
 13-15	2033-2034	.	_
 
+Text=All procedures were approved and monitored by the Institutional Review Board, and adhered to the Declaration of Helsinki.
 14-1	2035-2038	All	_
 14-2	2039-2049	procedures	_
 14-3	2050-2054	were	_
@@ -365,6 +379,7 @@
 14-19	2148-2156	Helsinki	_
 14-20	2157-2158	.	_
 
+Text=Participants received compensation ranging from $235 to $250 for participating in the study.
 15-1	2159-2171	Participants	_
 15-2	2172-2180	received	_
 15-3	2181-2193	compensation	_
@@ -382,6 +397,7 @@
 15-15	2247-2252	study	_
 15-16	2253-2254	.	_
 
+Text=Eligible participants were non-treatment-seeking smokers (18–60 years of age) who reported smoking at least 10 cigarettes per day for the past 3 years and had baseline carbon monoxide (CO) levels greater than 10 ppm.
 16-1	2255-2263	Eligible	_
 16-2	2264-2276	participants	_
 16-3	2277-2281	were	_
@@ -422,6 +438,7 @@
 16-38	2471-2474	ppm	_
 16-39	2475-2476	.	_
 
+Text=Ten CPD was chosen as the smoking criteria to study the effects of 4 h of abstinence because 1) 10 CPD represents the average smoker in the current climate, wherein smoking is largely prohibited in the work place and most other public places in the U.S; 2) a 10 CPD individual scores in the range of moderate nicotine dependence on the FTND; and 3) ten CPD corresponds to approximately a little over 1 cigarette over the course of two hours in a 16 h day (assuming 8 h are spent sleeping), thus such an individual is likely to experience some symptoms of withdrawal in the absence of nicotine over a 4-h period.
 17-1	2477-2480	Ten	_
 17-2	2481-2484	CPD	_
 17-3	2485-2488	was	_
@@ -545,6 +562,7 @@
 17-121	3090-3096	period	_
 17-122	3097-3098	.	_
 
+Text=Participants were screened, tested on study knowledge, and consented prior to study participation.
 18-1	3099-3111	Participants	_
 18-2	3112-3116	were	_
 18-3	3117-3125	screened	_
@@ -562,6 +580,7 @@
 18-15	3185-3198	participation	_
 18-16	3199-3200	.	_
 
+Text=Severity of nicotine dependence was determined from the Fagerström Test for Nicotine Dependence (FTND).
 19-1	3201-3209	Severity	_
 19-2	3210-3212	of	_
 19-3	3213-3221	nicotine	_
@@ -580,6 +599,7 @@
 19-16	3304-3305	)	http://maven.renci.org/NeuroBridge/neurobridge#FagerstromTestforNicotineDependence
 19-17	3306-3307	.	_
 
+Text=Exclusion criteria included current substance use disorder, positive urine drug screen for illicit drugs (tested at screening and prior to MRI sessions), seeking treatment for cigarette/nicotine dependence or attempting to quit smoking, having an acute, chronic or debilitating medical condition, psychiatric disorders as determined by The MINI International Neuropsychiatric Interview, a history of head trauma or other injury resulting in loss of consciousness lasting greater than three minutes or associated with skull fracture or intra-cranial bleeding, and other contraindications for MRI, and head movement of more than 1.5 mm over the course of the resting baseline acquisition.
 20-1	3308-3317	Exclusion	_
 20-2	3318-3326	criteria	_
 20-3	3327-3335	included	_
@@ -689,6 +709,7 @@
 20-107	3992-4003	acquisition	_
 20-108	4004-4005	.	_
 
+Text=Following MRI acquisition, participants with abnormal structural MRIs were excluded (N = 2), leaving 20 eligible participants.
 21-1	4006-4015	Following	_
 21-2	4016-4019	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 21-3	4020-4031	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -712,6 +733,7 @@
 21-21	4123-4135	participants	_
 21-22	4136-4137	.	_
 
+Text=Eligible participants were 50% male and the majority (80%) were White.
 22-1	4138-4146	Eligible	_
 22-2	4147-4159	participants	_
 22-3	4160-4164	were	_
@@ -729,6 +751,7 @@
 22-15	4206-4211	White	_
 22-16	4212-4213	.	_
 
+Text=Other races included 1 Black, 2 Multiple Ethnicity, and 1 Asian.
 23-1	4214-4219	Other	_
 23-2	4220-4225	races	_
 23-3	4226-4234	included	_
@@ -744,6 +767,7 @@
 23-13	4274-4279	Asian	_
 23-14	4280-4281	.	_
 
+Text=Participants were 29.1 ± 2.13 years of age, having 14.75 ± 0.52 years of education.
 24-1	4282-4294	Participants	_
 24-2	4295-4299	were	_
 24-3	4300-4304	29.1	_
@@ -762,11 +786,13 @@
 24-16	4356-4365	education	_
 24-17	4366-4367	.	_
 
+Text=Participants smoked 15.
 25-1	4368-4380	Participants	_
 25-2	4381-4387	smoked	_
 25-3	4388-4390	15	_
 25-4	4391-4392	.	_
 
+Text=± 1.13 cigarettes per day for 11.0 ± 1.87 years (range: 3–33 years), and scored 4.18 ± 0.37 on the FTND (indicating moderate nicotine dependence).
 26-1	4393-4394	±	_
 26-2	4395-4399	1.13	_
 26-3	4400-4410	cigarettes	_
@@ -800,9 +826,11 @@
 26-31	4543-4544	)	_
 26-32	4545-4546	.	_
 
+Text=2.2.
 27-1	4547-4550	2.2	_
 27-2	4551-4552	.	_
 
+Text=Experimental design Participants participated in two scanning sessions that occurred on separate days at least 3 or more days apart.
 28-1	4553-4565	Experimental	_
 28-2	4566-4572	design	_
 28-3	4573-4585	Participants	_
@@ -825,6 +853,7 @@
 28-20	4679-4684	apart	_
 28-21	4685-4686	.	_
 
+Text=The abstinent scan was conducted following 4 h of staff- and CO-monitored nicotine abstinence.
 29-1	4687-4690	The	_
 29-2	4691-4700	abstinent	_
 29-3	4701-4705	scan	_
@@ -841,6 +870,7 @@
 29-14	4770-4780	abstinence	_
 29-15	4781-4782	.	_
 
+Text=Prior to the monitored abstinence (ABS) regimen, participants smoked a cigarette to satiety to standardize time since last smoked (i.e., ∼ 4 h prior to MRI data acquisition) In the ‘ smoking as usual ’ (SMK) condition, participants smoked throughout the day ad lib, were monitored for 2 h prior to scanning while continuing to smoke ad lib, and smoked to satiety 20–25 min prior to acquisition of the resting baseline CBF data to standardize time since last smoked and ensure dissipation of the acute cardiovascular effects of smoking.
 30-1	4783-4788	Prior	_
 30-2	4789-4791	to	_
 30-3	4792-4795	the	_
@@ -943,6 +973,7 @@
 30-100	5321-5328	smoking	_
 30-101	5329-5330	.	_
 
+Text=During the monitoring period, participants were occupied similarly, filling out questionnaires and participating in various computer tasks.
 31-1	5331-5337	During	_
 31-2	5338-5341	the	_
 31-3	5342-5352	monitoring	_
@@ -964,6 +995,7 @@
 31-19	5466-5471	tasks	_
 31-20	5472-5473	.	_
 
+Text=Subjective reports of cigarette craving and withdrawal were obtained prior to each condition using the Craving and Withdrawal Questionnaire (CWQ) and, in a subset of subjects, the Shiffman-Jarvik Scale was also acquired (n = 14; due to technical error, the Shiffman-Jarvik was omitted from one or both scanning sessions in 6 subjects).
 32-1	5474-5484	Subjective	_
 32-2	5485-5492	reports	_
 32-3	5493-5495	of	_
@@ -1026,6 +1058,7 @@
 32-60	5815-5816	)	_
 32-61	5817-5818	.	_
 
+Text=Sessions were counterbalanced such that half the participants were scanned in the ABS condition first and half were scanned in the SMK condition first.
 33-1	5819-5827	Sessions	_
 33-2	5828-5832	were	_
 33-3	5833-5848	counterbalanced	_
@@ -1052,6 +1085,7 @@
 33-24	5964-5969	first	_
 33-25	5970-5971	.	_
 
+Text=For each session, a high-resolution structural scan was acquired first, followed by the resting pseudo continuous arterial spin labeled (pCASL) perfusion fMRI scan.
 34-1	5972-5975	For	_
 34-2	5976-5980	each	_
 34-3	5981-5988	session	_
@@ -1081,6 +1115,7 @@
 34-27	6135-6139	scan	http://maven.renci.org/NeuroBridge/neurobridge#PerfusionImagingProtocol
 34-28	6140-6141	.	_
 
+Text=Although not the focus of the current investigation, additional scans were acquired subsequently.
 35-1	6142-6150	Although	_
 35-2	6151-6154	not	_
 35-3	6155-6158	the	_
@@ -1097,6 +1132,7 @@
 35-14	6227-6239	subsequently	_
 35-15	6240-6241	.	_
 
+Text=Throughout the scanning session, participants were instructed to lie still in the scanner with their eyes open.
 36-1	6242-6252	Throughout	_
 36-2	6253-6256	the	_
 36-3	6257-6265	scanning	_
@@ -1117,6 +1153,7 @@
 36-18	6349-6353	open	_
 36-19	6354-6355	.	_
 
+Text=Wakefulness was verified by monitoring with a MR-compatible video camera (MRC Systems; http: //www.mrc-systems.de).
 37-1	6356-6367	Wakefulness	_
 37-2	6368-6371	was	_
 37-3	6372-6380	verified	_
@@ -1137,9 +1174,11 @@
 37-18	6473-6474	)	_
 37-19	6475-6476	.	_
 
+Text=2.3.
 38-1	6477-6480	2.3	_
 38-2	6481-6482	.	_
 
+Text=MRI data acquisition MRI data were acquired on a Siemens 3.0 T Trio whole-body scanner (Siemens AG, Erlangen, Germany) using a standard 8-channel receive-only array head coil.
 39-1	6483-6486	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 39-2	6487-6491	data	_
 39-3	6492-6503	acquisition	_
@@ -1173,6 +1212,7 @@
 39-31	6657-6661	coil	_
 39-32	6662-6663	.	_
 
+Text=High-resolution anatomical images were obtained for co-registration using a standard 3-dimensional (3D) Magnetization Prepared Rapid Acquisition Gradient Echo (MPRAGE) sequence with TR = 1620 ms, time to inversion (TI) = 950 ms, echo time (TE) = 3 ms, flip angle = 15°, 160 contiguous slices, 1 × 1 × 1 mm resolution.
 40-1	6664-6679	High-resolution	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 40-2	6680-6690	anatomical	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 40-3	6691-6697	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1240,6 +1280,7 @@
 40-65	6983-6993	resolution	_
 40-66	6994-6995	.	_
 
+Text=The MPRAGE sequence was 5 min in duration.
 41-1	6996-6999	The	_
 41-2	7000-7006	MPRAGE	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 41-3	7007-7015	sequence	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1250,6 +1291,7 @@
 41-8	7029-7037	duration	_
 41-9	7038-7039	.	_
 
+Text=Following acquisition of the structural scans, ASL perfusion images were acquired using a pseudo-continuous ASL (pCASL) sequence with 2-dimensional (2D) gradient-echo echo-planar imaging (GE EPI) with a delay of 700 ms inserted between the end of the labeling pulse and image acquisition and the following parameters: repetition time (TR) = 3.5 s, echo time (TE) = 17 ms, labeling time = 1.5 s, delay time=1s, flip angle=90°, field of view (FOV) = and 220 × 220 mm2, matrix = 64 × 64, slice thickness = 6 mm, inter-slice gap = 2 mm.
 42-1	7040-7049	Following	_
 42-2	7050-7061	acquisition	_
 42-3	7062-7064	of	_
@@ -1366,6 +1408,7 @@
 42-114	7591-7593	mm	_
 42-115	7594-7595	.	_
 
+Text=The ASL resting perfusion scan was 5 min in length, providing 45 acquisitions.
 43-1	7596-7599	The	_
 43-2	7600-7603	ASL	http://maven.renci.org/NeuroBridge/neurobridge#GasLevel
 43-3	7604-7611	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1382,9 +1425,11 @@
 43-14	7662-7674	acquisitions	_
 43-15	7675-7676	.	_
 
+Text=2.4.
 44-1	7677-7680	2.4	_
 44-2	7681-7682	.	_
 
+Text=Data analyses Imaging data analyses were performed using Statistical Parametric Mapping software (SPM8; Wellcome Department of Cognitive Neurology, London, UK) running on Matlab R2013a (Math Works, Natick, MA).
 45-1	7683-7687	Data	_
 45-2	7688-7696	analyses	_
 45-3	7697-7704	Imaging	_
@@ -1424,6 +1469,7 @@
 45-37	7900-7901	)	_
 45-38	7902-7903	.	_
 
+Text=For each subject, functional images were realigned to correct for head motion and co-registered with each individual ’ s anatomical image.
 46-1	7904-7907	For	_
 46-2	7908-7912	each	_
 46-3	7913-7920	subject	_
@@ -1448,6 +1494,7 @@
 46-22	8037-8042	image	_
 46-23	8043-8044	.	_
 
+Text=Perfusion weighted image series were then generated by pairwise subtraction of the label and control images, followed by conversion to absolute CBF image series based on a single compartment CASL perfusion model.
 47-1	8045-8054	Perfusion	_
 47-2	8055-8063	weighted	_
 47-3	8064-8069	image	_
@@ -1483,6 +1530,7 @@
 47-33	8252-8257	model	_
 47-34	8258-8259	.	_
 
+Text=For each subject, one mean resting CBF image was generated, normalized to the Montreal Neurological Institute (MNI) template, smoothed with a 3-D 9 mm Full Width Half Maximum (FWHM) isotropic Gaussian kernel, and then entered into the whole brain voxel-wise analysis using the general linear model (GLM).
 48-1	8260-8263	For	_
 48-2	8264-8268	each	_
 48-3	8269-8276	subject	_
@@ -1542,6 +1590,7 @@
 48-57	8572-8573	)	_
 48-58	8574-8575	.	_
 
+Text=Age and sex were included as covariates in all analyses.
 49-1	8576-8579	Age	_
 49-2	8580-8583	and	_
 49-3	8584-8587	sex	_
@@ -1554,6 +1603,7 @@
 49-10	8623-8631	analyses	_
 49-11	8632-8633	.	_
 
+Text=A paired t-test was conducted to compare rCBF between SMK and ABS conditions using a cluster forming height threshold of p <0.001.
 50-1	8634-8635	A	_
 50-2	8636-8642	paired	_
 50-3	8643-8649	t-test	_
@@ -1579,6 +1629,7 @@
 50-23	8759-8764	0.001	_
 50-24	8765-8766	.	_
 
+Text=To control for Type I error, the most updated and accurate correction method for controlling for false positives provided by AFNI, 3dttest+ +, was used (AFNI_17.1.07), resulting in a 5% probability of a cluster surviving due to chance (α = 0.01, 943 contiguous voxels).
 51-1	8767-8769	To	_
 51-2	8770-8777	control	_
 51-3	8778-8781	for	_
@@ -1635,6 +1686,7 @@
 51-54	9044-9045	)	_
 51-55	9046-9047	.	_
 
+Text=All listed coordinates are in MNI space.
 52-1	9048-9051	All	_
 52-2	9052-9058	listed	_
 52-3	9059-9070	coordinates	_
@@ -1644,6 +1696,7 @@
 52-7	9082-9087	space	_
 52-8	9088-9089	.	_
 
+Text=To explore associations between brain and relevant smoking behavioral measures, simple regression analyses were conducted in SPM on the change in rCBF from SMK to ABS conditions, using the change in craving scores from SMK to ABS conditions (Item 3 of the CWQ) and FTND scores as covariates of interest.
 53-1	9090-9092	To	_
 53-2	9093-9100	explore	_
 53-3	9101-9113	associations	_
@@ -1700,6 +1753,7 @@
 53-54	9388-9396	interest	_
 53-55	9397-9398	.	_
 
+Text=The same corrections used for rCBF contrasts were applied prior to extracting significant rCBF values from each of the functionally-identified clusters within each subject using MarsBaR and statistical analyses were conducted in SPSS version 22.
 54-1	9399-9402	The	_
 54-2	9403-9407	same	_
 54-3	9408-9419	corrections	_
@@ -1737,6 +1791,7 @@
 54-35	9641-9643	22	_
 54-36	9644-9645	.	_
 
+Text=Similarly, an exploratory post hoc analysis was conducted on the change in rCBF from SMK to ABS conditions using the focus/attention item of the Shiffman-Jarvik Withdrawal Scale as a covariate of interest.
 55-1	9646-9655	Similarly	_
 55-2	9656-9657	,	_
 55-3	9658-9660	an	_
@@ -1772,6 +1827,7 @@
 55-33	9843-9851	interest	_
 55-34	9852-9853	.	_
 
+Text=Continuous demographic variables and FTND scores were summarized by calculating means and standard error measurements (X ± SEMs).
 56-1	9854-9864	Continuous	_
 56-2	9865-9876	demographic	_
 56-3	9877-9886	variables	_
@@ -1794,6 +1850,7 @@
 56-20	9983-9984	)	_
 56-21	9985-9986	.	_
 
+Text=A paired t-test was used to assess differences across conditions in CWQ items and the focus/attention item of the Shiffman-Jarvik Scale (post hoc).
 57-1	9987-9988	A	_
 57-2	9989-9995	paired	_
 57-3	9996-10002	t-test	_
@@ -1821,6 +1878,7 @@
 57-25	10134-10135	)	_
 57-26	10136-10137	.	_
 
+Text=Statistical analyses were conducted in SPSS version 22.0.
 58-1	10138-10149	Statistical	_
 58-2	10150-10158	analyses	_
 58-3	10159-10163	were	_

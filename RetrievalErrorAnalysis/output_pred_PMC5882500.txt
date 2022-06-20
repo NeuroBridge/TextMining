@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=The P1 Visual-Evoked Potential, Red Light, and Transdiagnostic Psychiatric Symptoms A reduced P1 visual-evoked potential amplitude has been reported across several psychiatric disorders, including schizophrenia-spectrum, bipolar, and depressive disorders.
 1-1	0-3	The	_
 1-2	4-6	P1	_
 1-3	7-20	Visual-Evoked	_
@@ -38,6 +39,7 @@
 1-34	250-259	disorders	_
 1-35	260-261	.	_
 
+Text=In addition, a difference in P1 amplitude change to a red background compared to its opponent color, green, has been found in schizophrenia-spectrum samples.
 2-1	262-264	In	_
 2-2	265-273	addition	_
 2-3	274-275	,	_
@@ -67,6 +69,7 @@
 2-27	414-421	samples	_
 2-28	422-423	.	_
 
+Text=The current study examined whether specific psychiatric symptoms that related to these P1 abnormalities in earlier studies would be replicated when using a broad transdiagnostic sample.
 3-1	424-427	The	_
 3-2	428-435	current	_
 3-3	436-441	study	_
@@ -95,6 +98,7 @@
 3-26	602-608	sample	_
 3-27	609-610	.	_
 
+Text=The final sample consisted of 135 participants: 26 with bipolar disorders, 25 with schizophrenia-spectrum disorders, 19 with unipolar depression, 62 with no current psychiatric disorder, and 3 with disorders in other categories.
 4-1	611-614	The	_
 4-2	615-620	final	_
 4-3	621-627	sample	_
@@ -134,6 +138,7 @@
 4-37	833-843	categories	_
 4-38	844-845	.	_
 
+Text=Low (8%) and high (64%) contrast check arrays were presented on gray, green, and red background conditions during electroencephalogram, while an eye tracker monitored visual fixation on the stimuli.
 5-1	846-849	Low	_
 5-2	850-851	(	_
 5-3	852-853	8	_
@@ -174,6 +179,7 @@
 5-38	1045-1052	stimuli	_
 5-39	1053-1054	.	_
 
+Text=Linear regressions across the entire sample (N = 135) found that greater severity of both clinician-rated and self-reported delusions/magical thinking correlated with a reduced P1 amplitude on the low contrast gray (neutral) background condition.
 6-1	1055-1061	Linear	_
 6-2	1062-1073	regressions	_
 6-3	1074-1080	across	_
@@ -214,6 +220,7 @@
 6-38	1295-1304	condition	_
 6-39	1305-1306	.	_
 
+Text=In addition, across the entire sample, higher self-reported constricted affect was associated with a larger decrease in P1 amplitude (averaged across contrast conditions) to the red, compared to green, background.
 7-1	1307-1309	In	_
 7-2	1310-1318	addition	_
 7-3	1319-1320	,	_
@@ -252,6 +259,7 @@
 7-36	1515-1525	background	_
 7-37	1526-1527	.	_
 
+Text=All relationships remained statistically significant after covarying for diagnostic class, suggesting that they are relatively transdiagnostic in nature.
 8-1	1528-1531	All	_
 8-2	1532-1545	relationships	_
 8-3	1546-1554	remained	_
@@ -273,6 +281,7 @@
 8-19	1675-1681	nature	_
 8-20	1682-1683	.	_
 
+Text=These findings indicate that early visual processing abnormalities may be more directly related to specific transdiagnostic symptoms such as delusions and constricted affect rather than specific psychiatric diagnoses or broad symptom factor scales.
 9-1	1684-1689	These	_
 9-2	1690-1698	findings	_
 9-3	1699-1707	indicate	_
@@ -308,13 +317,16 @@
 9-33	1925-1931	scales	_
 9-34	1932-1933	.	_
 
+Text=4.
 10-1	1934-1935	4	_
 10-2	1936-1937	.	_
 
+Text=Methods 4.1.
 11-1	1938-1945	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 11-2	1946-1949	4.1	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 11-3	1950-1951	.	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 
+Text=Participants This study was approved by the Institutional Review Board of the University of Central Florida and follows the ethical guidelines described in the Declaration of Helsinki.
 12-1	1952-1964	Participants	_
 12-2	1965-1969	This	_
 12-3	1970-1975	study	_
@@ -344,6 +356,7 @@
 12-27	2127-2135	Helsinki	_
 12-28	2136-2137	.	_
 
+Text=We recruited participants using two different types of advertisements.
 13-1	2138-2140	We	_
 13-2	2141-2150	recruited	_
 13-3	2151-2163	participants	_
@@ -355,6 +368,7 @@
 13-9	2193-2207	advertisements	_
 13-10	2208-2209	.	_
 
+Text=One mentioned that we were looking for individuals with a diagnosis of schizophrenia, schizoaffective disorder, or bipolar disorder, while the other mentioned that we were looking for adults between the ages of 21 and 55.
 14-1	2210-2213	One	_
 14-2	2214-2223	mentioned	_
 14-3	2224-2228	that	_
@@ -395,6 +409,7 @@
 14-38	2431-2433	55	_
 14-39	2434-2435	.	_
 
+Text=These advertisements were placed in a variety of locations including local psychiatric facilities, local newspapers, and the Craigslist website.
 15-1	2436-2441	These	_
 15-2	2442-2456	advertisements	_
 15-3	2457-2461	were	_
@@ -418,6 +433,7 @@
 15-21	2574-2581	website	_
 15-22	2582-2583	.	_
 
+Text=For the psychiatric group, inclusion criteria included having any psychiatric diagnosis, even though advertisements were targeting particular ones.
 16-1	2584-2587	For	_
 16-2	2588-2591	the	_
 16-3	2592-2603	psychiatric	_
@@ -440,6 +456,7 @@
 16-20	2728-2732	ones	_
 16-21	2733-2734	.	_
 
+Text=For the nonpsychiatric group, the presence of any current psychiatric disorder was an exclusion criteria, as was having a biological relative with a psychotic disorder or bipolar disorder.
 17-1	2735-2738	For	_
 17-2	2739-2742	the	_
 17-3	2743-2757	nonpsychiatric	_
@@ -472,6 +489,7 @@
 17-30	2916-2924	disorder	_
 17-31	2925-2926	.	_
 
+Text=For both groups, inclusion criteria included being between the ages of 21 and 55, and further exclusion criteria included: history of a neurological disorder, seizures, or head injury resulting in loss of consciousness for more than 15 minutes, substance abuse or dependence in the last six months (per diagnostic interview), heavy alcohol use or any drug use in the 72 hours prior to each session (per self-report), estimated full scale IQ <70, visual acuity worse than 20/50 (allowing for corrective lenses), and indication of color blindness.
 18-1	2927-2930	For	_
 18-2	2931-2935	both	_
 18-3	2936-2942	groups	_
@@ -577,6 +595,7 @@
 18-103	3479-3488	blindness	_
 18-104	3489-3490	.	_
 
+Text=Following a phone screening, eligible participants were invited to the first of two sessions.
 19-1	3491-3500	Following	_
 19-2	3501-3502	a	_
 19-3	3503-3508	phone	_
@@ -594,6 +613,7 @@
 19-15	3576-3584	sessions	_
 19-16	3585-3586	.	_
 
+Text=Participants were provided a monetary stipend at the end of each session.
 20-1	3587-3599	Participants	_
 20-2	3600-3604	were	_
 20-3	3605-3613	provided	_
@@ -608,6 +628,7 @@
 20-12	3652-3659	session	_
 20-13	3660-3661	.	_
 
+Text=Following recruitment attempts, we assessed 178 participants in the first of the two sessions.
 21-1	3662-3671	Following	_
 21-2	3672-3683	recruitment	_
 21-3	3684-3692	attempts	_
@@ -625,6 +646,7 @@
 21-15	3748-3756	sessions	_
 21-16	3757-3758	.	_
 
+Text=Of these, 43 individuals were not eligible for use in the final analyses for the following reasons: 22 not able or willing to return to the second session, 5 had substance dependence or abuse during past six months, 6 EEG problems, 3 problems calibrating the eye tracker, 3 visual acuity worse than 20/50, 2 excessive drowsiness during EEG recording, 1 color blindness, and 1 estimated IQ <70.
 22-1	3759-3761	Of	_
 22-2	3762-3767	these	_
 22-3	3768-3769	,	_
@@ -704,6 +726,7 @@
 22-77	4159-4161	70	_
 22-78	4162-4163	.	_
 
+Text=This resulted in 135 participants included in the final analyses.
 23-1	4164-4168	This	_
 23-2	4169-4177	resulted	_
 23-3	4178-4180	in	_
@@ -716,6 +739,7 @@
 23-10	4220-4228	analyses	_
 23-11	4229-4230	.	_
 
+Text=While sample diagnoses are similar to our previously published study on visual-evoked potentials, only five of those individuals participated in the current study.
 24-1	4231-4236	While	_
 24-2	4237-4243	sample	_
 24-3	4244-4253	diagnoses	_
@@ -742,6 +766,7 @@
 24-24	4389-4394	study	_
 24-25	4395-4396	.	_
 
+Text=See Table 1 for demographic and clinical characteristics.
 25-1	4397-4400	See	_
 25-2	4401-4406	Table	_
 25-3	4407-4408	1	_
@@ -752,6 +777,7 @@
 25-8	4438-4453	characteristics	_
 25-9	4454-4455	.	_
 
+Text=Diagnoses by broad classes included: 1) no current psychiatric disorder (N = 62 [46%]); 2) bipolar disorders (N = 26 [19%]; 24 bipolar I disorder [7 with psychotic features] and 2 bipolar disorder not otherwise specified); 3) schizophrenia spectrum disorder (N = 25 [19%]; 15 schizophrenia, 4 schizoaffective disorder, 2 delusional disorder, and 3 schizotypal and 1 paranoid personality disorder); and 4) recurrent or current unipolar depressive disorders (N = 19 [14%]; 14 major depressive disorder, recurrent [2 with psychotic features], 2 major depressive disorder, single episode [current], 2 dysthymic disorder, and 1 depressive disorder not otherwise specified).
 26-1	4456-4465	Diagnoses	_
 26-2	4466-4468	by	_
 26-3	4469-4474	broad	_
@@ -897,6 +923,7 @@
 26-143	5167-5168	)	_
 26-144	5169-5170	.	_
 
+Text=Transdiagnostic analyses also included three participants with other current psychiatric disorders: 1 adjustment disorder with anxiety, 1 social phobia, and 1 obsessive compulsive disorder.
 27-1	5171-5186	Transdiagnostic	_
 27-2	5187-5195	analyses	_
 27-3	5196-5200	also	_
@@ -926,6 +953,7 @@
 27-27	5354-5362	disorder	_
 27-28	5363-5364	.	_
 
+Text=The four diagnostic class groups did not differ on age, F (3,131) = 0.26, p = .85, η2 = .006, sex, χ2 (3, N = 135) = 2.21, p = .53, race, χ2 (9, N = 135) = 13.54, p = .14, or Hispanic/Latino (a) ethnicity χ2 (3, N = 135) = 1.75, p = .63.
 28-1	5365-5368	The	_
 28-2	5369-5373	four	_
 28-3	5374-5384	diagnostic	_
@@ -1008,6 +1036,7 @@
 28-80	5622-5625	.63	_
 28-81	5626-5627	.	_
 
+Text=However, level of education differed between the four groups (see Table 1), F (3,131) = 6.95, p <.001, η2 = .14.
 29-1	5628-5635	However	_
 29-2	5636-5637	,	_
 29-3	5638-5643	level	_
@@ -1040,6 +1069,7 @@
 29-30	5745-5748	.14	_
 29-31	5749-5750	.	_
 
+Text=The no current psychiatric disorder group had a significantly higher level of education as compared to the depressive, F (1,82) = 7.41, p = .01, η2 = .08, and schizophrenia spectrum, F (1,88) = 9.86, p = .002, η2 = .10, disorder groups, who did not differ from each other, F (1,42) = 0.01, p = .95, η2 <.001.
 30-1	5751-5754	The	_
 30-2	5755-5757	no	_
 30-3	5758-5765	current	_
@@ -1120,6 +1150,7 @@
 30-78	6073-6077	.001	_
 30-79	6078-6079	.	_
 
+Text=The bipolar disorders group had a significantly higher level of education than the depressive, F (1,43) = 9.34, p = .004, η2 = .18, and schizophrenia spectrum, F (1,49) = 12.11, p = .001, η2 = .20, disorder groups, but did not differ from the no current disorder group, F (1,89) = 2.25, p = .14, η2 = .03.
 31-1	6080-6083	The	_
 31-2	6084-6091	bipolar	http://maven.renci.org/NeuroBridge/neurobridge#BipolarDisorder
 31-3	6092-6101	disorders	http://maven.renci.org/NeuroBridge/neurobridge#BipolarDisorder
@@ -1199,9 +1230,11 @@
 31-77	6399-6402	.03	_
 31-78	6403-6404	.	_
 
+Text=4.2.
 32-1	6405-6408	4.2	_
 32-2	6409-6410	.	_
 
+Text=Procedures Due to the length of the procedures, the study was administered over two meetings of approximately two to three hours, which were 19.76 days apart on average, with six participants completing both sessions on the same day.
 33-1	6411-6421	Procedures	_
 33-2	6422-6425	Due	_
 33-3	6426-6428	to	_
@@ -1245,6 +1278,7 @@
 33-41	6643-6646	day	_
 33-42	6647-6648	.	_
 
+Text=In cases in which more than a month elapsed between sessions (N = 26), the clinician-administered diagnostic interviews and symptom measures were re-administered to reflect any changes.
 34-1	6649-6651	In	_
 34-2	6652-6657	cases	_
 34-3	6658-6660	in	_
@@ -1277,9 +1311,11 @@
 34-30	6829-6836	changes	_
 34-31	6837-6838	.	_
 
+Text=4.2.1.
 35-1	6839-6844	4.2.1	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 35-2	6845-6846	.	_
 
+Text=Session #1 Procedures After an informed consent procedure, participants completed the Colenbrander Mixed Contrast Card Set (Precision Vision, La Salle, IL) to estimate visual acuity.
 36-1	6847-6854	Session	_
 36-2	6855-6856	#	_
 36-3	6857-6858	1	_
@@ -1313,6 +1349,7 @@
 36-31	7028-7034	acuity	_
 36-32	7035-7036	.	_
 
+Text=Participants with a corrected visual acuity worse than 20/50 at an intermediate distance were excluded, as were participants exhibiting color blindness using Ishihara's Tests for Colour Deficiency (Kanehara Trading Inc., Tokyo, Japan).
 37-1	7037-7049	Participants	_
 37-2	7050-7054	with	_
 37-3	7055-7056	a	_
@@ -1353,6 +1390,7 @@
 37-38	7276-7277	)	_
 37-39	7278-7279	.	_
 
+Text=Participants completed the Wide Range Achievement Test – 4th edition (WRAT-4) Reading subtest to estimate full scale IQ, and were excluded if the standardized score was less than 70.
 38-1	7280-7292	Participants	_
 38-2	7293-7302	completed	_
 38-3	7303-7306	the	_
@@ -1387,6 +1425,7 @@
 38-32	7462-7464	70	_
 38-33	7465-7466	.	_
 
+Text=A trained clinical psychology doctoral student administered the Structured Clinical Interview for DSM-IV Axis I Disorders, the schizotypal, paranoid, and avoidant personality disorder (i.e., schizophrenia-spectrum) sections of the Structured Clinical Interview for DSM-IV Axis II Disorders, and the Structured Interview for Positive and Negative Syndromes of Schizophrenia (PANSS).
 39-1	7467-7468	A	_
 39-2	7469-7476	trained	_
 39-3	7477-7485	clinical	_
@@ -1446,6 +1485,7 @@
 39-57	7855-7856	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredInterviewforProdromalSyndromesRatingScale
 39-58	7857-7858	.	_
 
+Text=Final diagnoses were determined through case presentations with a licensed psychologist (author JSB).
 40-1	7859-7864	Final	_
 40-2	7865-7874	diagnoses	_
 40-3	7875-7879	were	_
@@ -1463,6 +1503,7 @@
 40-15	7960-7961	)	_
 40-16	7962-7963	.	_
 
+Text=Participants also completed the Schizotypal Personality Questionnaire – Brief Revised (SPQ-BR), and the Anticipatory and Consummatory Interpersonal Pleasure Scale (ACIPS).
 41-1	7964-7976	Participants	_
 41-2	7977-7981	also	_
 41-3	7982-7991	completed	_
@@ -1490,6 +1531,7 @@
 41-25	8138-8139	)	http://maven.renci.org/NeuroBridge/neurobridge#PersonalandSocialPerformanceScale
 41-26	8140-8141	.	_
 
+Text=Participants were invited to Session #2 if they passed the exclusion criteria listed above, and did not meet diagnostic criteria for a substance use disorder in the past six months.
 42-1	8142-8154	Participants	_
 42-2	8155-8159	were	_
 42-3	8160-8167	invited	_
@@ -1524,9 +1566,11 @@
 42-32	8318-8324	months	_
 42-33	8325-8326	.	_
 
+Text=4.2.2.
 43-1	8327-8332	4.2.2	_
 43-2	8333-8334	.	_
 
+Text=Session #2 Procedures After an informed consent procedure, participants completed the visual evoked potential task.
 44-1	8335-8342	Session	_
 44-2	8343-8344	#	_
 44-3	8345-8346	2	_
@@ -1546,6 +1590,7 @@
 44-17	8447-8451	task	_
 44-18	8452-8453	.	_
 
+Text=Stimuli consisted of 8 × 8 arrays of checks, as used in several other transient VEP publications.
 45-1	8454-8461	Stimuli	_
 45-2	8462-8471	consisted	_
 45-3	8472-8474	of	_
@@ -1566,6 +1611,7 @@
 45-18	8539-8551	publications	_
 45-19	8552-8553	.	_
 
+Text=E-Prime 2.0 Professional was used for stimuli presentation.
 46-1	8554-8561	E-Prime	_
 46-2	8562-8565	2.0	_
 46-3	8566-8578	Professional	_
@@ -1576,6 +1622,7 @@
 46-8	8600-8612	presentation	_
 46-9	8613-8614	.	_
 
+Text=The array of gray checks appeared in the center of the monitor screen (see Figure 5), subtending a visual angle of 6.67 × 6.67 degrees.
 47-1	8615-8618	The	_
 47-2	8619-8624	array	_
 47-3	8625-8627	of	_
@@ -1606,6 +1653,7 @@
 47-28	8745-8752	degrees	_
 47-29	8753-8754	.	_
 
+Text=The checks were presented on three different backgrounds of gray, green, and red, which surrounded the checks and the rest of the screen, subtending a visual angle of 32.48 × 18.53 degrees.
 48-1	8755-8758	The	_
 48-2	8759-8765	checks	_
 48-3	8766-8770	were	_
@@ -1644,6 +1692,7 @@
 48-36	8940-8947	degrees	_
 48-37	8948-8949	.	_
 
+Text=The gray background was chosen as the primary baseline color to allow for comparison to VEP studies from other labs.
 49-1	8950-8953	The	_
 49-2	8954-8958	gray	_
 49-3	8959-8969	background	_
@@ -1666,6 +1715,7 @@
 49-20	9061-9065	labs	_
 49-21	9066-9067	.	_
 
+Text=We also had specific interest in the effect of the red background, so green was included for that comparison as it is the opponent color of red.
 50-1	9068-9070	We	_
 50-2	9071-9075	also	_
 50-3	9076-9079	had	_
@@ -1696,6 +1746,7 @@
 50-28	9209-9212	red	_
 50-29	9213-9214	.	_
 
+Text=The background colors were approximately matched for a physical luminance of 30 cd/m2, using a spot photometer placed at the center of the screen.
 51-1	9215-9218	The	_
 51-2	9219-9229	background	_
 51-3	9230-9236	colors	_
@@ -1723,6 +1774,7 @@
 51-25	9355-9361	screen	_
 51-26	9362-9363	.	_
 
+Text=The gray checks were brighter than the background to create low (8%) and high (64%) contrast stimuli for each of the three color backgrounds.
 52-1	9364-9367	The	_
 52-2	9368-9372	gray	_
 52-3	9373-9379	checks	_
@@ -1755,6 +1807,7 @@
 52-30	9499-9510	backgrounds	_
 52-31	9511-9512	.	_
 
+Text=The ambient light in the room was dim (approximately 0.23 cd/m2).
 53-1	9513-9516	The	_
 53-2	9517-9524	ambient	_
 53-3	9525-9530	light	_
@@ -1770,6 +1823,7 @@
 53-13	9578-9579	)	_
 53-14	9580-9581	.	_
 
+Text=The three color backgrounds cycled in blocks, with participants randomly assigned to the order of green–gray–red or red–gray–green.
 54-1	9582-9585	The	_
 54-2	9586-9591	three	_
 54-3	9592-9597	color	_
@@ -1791,6 +1845,7 @@
 54-19	9699-9713	red–gray–green	_
 54-20	9714-9715	.	_
 
+Text=Each of these sequences contained a 20 second countdown rest period on a black background following each color block.
 55-1	9716-9720	Each	_
 55-2	9721-9723	of	_
 55-3	9724-9729	these	_
@@ -1812,6 +1867,7 @@
 55-19	9827-9832	block	_
 55-20	9833-9834	.	_
 
+Text=Each color block contained 50 trials of each of the two contrasts presented in a random order.
 56-1	9835-9839	Each	_
 56-2	9840-9845	color	_
 56-3	9846-9851	block	_
@@ -1831,6 +1887,7 @@
 56-17	9923-9928	order	_
 56-18	9929-9930	.	_
 
+Text=The color blocks cycled five times, resulting in 250 trials of each contrast by color condition.
 57-1	9931-9934	The	_
 57-2	9935-9940	color	_
 57-3	9941-9947	blocks	_
@@ -1850,6 +1907,7 @@
 57-17	10018-10027	condition	_
 57-18	10028-10029	.	_
 
+Text=In addition, line drawings of four different animals were presented during 26 random trials within each color block, with 13 of those trials representing a target animal for which the participant was asked to press a button on a game controller.
 58-1	10030-10032	In	_
 58-2	10033-10041	addition	_
 58-3	10042-10043	,	_
@@ -1895,6 +1953,7 @@
 58-43	10266-10276	controller	_
 58-44	10277-10278	.	_
 
+Text=These animal stimuli were included to help participants engage and attend to the passive task – consistent with past studies using check arrays.
 59-1	10279-10284	These	_
 59-2	10285-10291	animal	_
 59-3	10292-10299	stimuli	_
@@ -1920,6 +1979,7 @@
 59-23	10416-10422	arrays	_
 59-24	10423-10424	.	_
 
+Text=Each stimulus was presented for 60 ms followed by a blank screen of the same color background for an interstimulus interval (ISI) that varied randomly between 540 – 1,340 ms for the majority of the trials, although it could remain up to 5,840 ms if the eye tracker did not detect a fixation near center of the screen (details provided below).
 60-1	10425-10429	Each	_
 60-2	10430-10438	stimulus	_
 60-3	10439-10442	was	_
@@ -1988,6 +2048,7 @@
 60-66	10770-10771	)	_
 60-67	10772-10773	.	_
 
+Text=The duration of the entire task was approximately 50 minutes.
 61-1	10774-10777	The	_
 61-2	10778-10786	duration	_
 61-3	10787-10789	of	_
@@ -2000,6 +2061,7 @@
 61-10	10827-10834	minutes	_
 61-11	10835-10836	.	_
 
+Text=A graphic representation of task flow is provided in Figure 6.
 62-1	10837-10838	A	_
 62-2	10839-10846	graphic	_
 62-3	10847-10861	representation	_
@@ -2013,6 +2075,7 @@
 62-11	10897-10898	6	_
 62-12	10899-10900	.	_
 
+Text=EEG was recorded using a 64 channel Neuroscan Synamps2 system, with DC recording digitized at 1,000 Hz, with a 200 Hz low pass filter, no high-pass filter, and impedance of less than 10 kOhms at each electrode.
 63-1	10901-10904	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 63-2	10905-10908	was	_
 63-3	10909-10917	recorded	_
@@ -2056,6 +2119,7 @@
 63-41	11105-11114	electrode	_
 63-42	11115-11116	.	_
 
+Text=The average from unlinked bilateral mastoid electrodes were used as the active reference, and vertical and horizontal ocular electrodes were used to estimate blinks and large eye movements.
 64-1	11117-11120	The	_
 64-2	11121-11128	average	_
 64-3	11129-11133	from	_
@@ -2087,6 +2151,7 @@
 64-29	11297-11306	movements	_
 64-30	11307-11308	.	_
 
+Text=Eye movements were recorded monocularly from the right eye using an EyeLink 1000 remote eye tracker (SR Research Ltd., Mississsauga, Ontario, Canada), sampling at 500 Hz.
 65-1	11309-11312	Eye	_
 65-2	11313-11322	movements	_
 65-3	11323-11327	were	_
@@ -2121,6 +2186,7 @@
 65-32	11482-11484	Hz	_
 65-33	11485-11486	.	_
 
+Text=The task began with a five-point calibration routine to set the average and maximum calibration error at less than 0.5° and 1.0° of visual angle respectively.
 66-1	11487-11490	The	_
 66-2	11491-11495	task	_
 66-3	11496-11501	began	_
@@ -2149,6 +2215,7 @@
 66-26	11632-11644	respectively	_
 66-27	11645-11646	.	_
 
+Text=Following each stimulus and an initial randomly selected ISI of 40 to 840 ms, the eye tracker monitored for a fixation of at least 500 ms in the center of the screen (7° × 7° visual angle), which would then trigger the presentation of the next stimulus.
 67-1	11647-11656	Following	_
 67-2	11657-11661	each	_
 67-3	11662-11670	stimulus	_
@@ -2202,6 +2269,7 @@
 67-51	11895-11903	stimulus	_
 67-52	11904-11905	.	_
 
+Text=This helped ensure that participants had their eyes open and fixated near the center of the screen immediately prior to the presentation of each stimulus.
 68-1	11906-11910	This	_
 68-2	11911-11917	helped	_
 68-3	11918-11924	ensure	_
@@ -2229,6 +2297,7 @@
 68-25	12051-12059	stimulus	_
 68-26	12060-12061	.	_
 
+Text=If a sufficiently long central fixation was not detected within 5,000 ms, the eye tracker recorded that the ISI had timed out and proceeded to the next trial.
 69-1	12062-12064	If	_
 69-2	12065-12066	a	_
 69-3	12067-12079	sufficiently	_
@@ -2260,6 +2329,7 @@
 69-29	12215-12220	trial	_
 69-30	12221-12222	.	_
 
+Text=This procedure resulted in a total possible ISI duration of 540 -5,840 ms. 4.2.3.
 70-1	12223-12227	This	_
 70-2	12228-12237	procedure	_
 70-3	12238-12246	resulted	_
@@ -2276,6 +2346,7 @@
 70-14	12298-12303	4.2.3	_
 70-15	12304-12305	.	_
 
+Text=VEP Measurement Procedures The VEP data was analyzed using Brain Vision Analyzer 2.1.2 software and was filtered offline using a high pass filter of 0.10 Hz and low pass filter of 45 Hz, both using a roll off of 48 db/oct.
 71-1	12306-12309	VEP	_
 71-2	12310-12321	Measurement	_
 71-3	12322-12332	Procedures	_
@@ -2320,6 +2391,7 @@
 71-42	12522-12528	db/oct	_
 71-43	12529-12530	.	_
 
+Text=The data was segmented from -100 to 500 ms based on the onset of the check stimuli (stimulus-locked), and was then corrected for blinks and large eye movements using independent component analysis on the ocular electrodes.
 72-1	12531-12534	The	_
 72-2	12535-12539	data	_
 72-3	12540-12543	was	_
@@ -2361,6 +2433,7 @@
 72-39	12745-12755	electrodes	_
 72-40	12756-12757	.	_
 
+Text=Data were down-sampled to 500 Hz, re-referenced to the common average, and baseline corrected from -100 to 0 ms. Artifact rejection removed segments from particular electrodes containing more than a +/- 100 μV deflection.
 73-1	12758-12762	Data	_
 73-2	12763-12767	were	_
 73-3	12768-12780	down-sampled	_
@@ -2399,6 +2472,7 @@
 73-36	12970-12980	deflection	_
 73-37	12981-12982	.	_
 
+Text=We then segmented the data based on the contrast and color condition and averaged the segments within each condition using individual channel mode.
 74-1	12983-12985	We	_
 74-2	12986-12990	then	_
 74-3	12991-13000	segmented	_
@@ -2424,6 +2498,7 @@
 74-23	13125-13129	mode	_
 74-24	13130-13131	.	_
 
+Text=Brain electric source analysis (BESA) The basic premise of source modeling is that a component can be defined as the part of the scalp waveform that results from the compound local activity of a circumscribed brain region.
 75-1	13132-13137	Brain	_
 75-2	13138-13146	electric	_
 75-3	13147-13153	source	_
@@ -2465,6 +2540,7 @@
 75-39	13349-13355	region	_
 75-40	13356-13357	.	_
 
+Text=BESA employs a least squares fitting algorithm, over which the user has interactive control.
 76-1	13358-13362	BESA	_
 76-2	13363-13370	employs	_
 76-3	13371-13372	a	_
@@ -2482,6 +2558,7 @@
 76-15	13443-13450	control	_
 76-16	13451-13452	.	_
 
+Text=Source localization proceeds by a search within the head model for a location where the sources can explain a maximal amount of variance.
 77-1	13453-13459	Source	_
 77-2	13460-13472	localization	_
 77-3	13473-13481	proceeds	_
@@ -2507,6 +2584,7 @@
 77-23	13581-13589	variance	_
 77-24	13590-13591	.	_
 
+Text=Here, we assumed bilateral symmetrical sources.
 78-1	13592-13596	Here	_
 78-2	13597-13598	,	_
 78-3	13599-13601	we	_
@@ -2516,6 +2594,7 @@
 78-7	13632-13639	sources	_
 78-8	13640-13641	.	_
 
+Text=An assumption of spatial symmetry considerably reduces the number of independent parameters to be determined and is consistent with the known generators of P1.
 79-1	13642-13644	An	_
 79-2	13645-13655	assumption	_
 79-3	13656-13658	of	_
@@ -2542,6 +2621,7 @@
 79-24	13798-13800	P1	_
 79-25	13801-13802	.	_
 
+Text=The inverse leadfield matrix (i.e., the matrix of coefficients that maps current sources to surface potentials) was then used to project the modeled dipolar activity back onto the scalp surface in order to select the optimal channels used for the ERP analysis of the P1 component.
 80-1	13803-13806	The	_
 80-2	13807-13814	inverse	_
 80-3	13815-13824	leadfield	_
@@ -2593,6 +2673,7 @@
 80-49	14076-14085	component	_
 80-50	14086-14087	.	_
 
+Text=Source modeling resulted in dipoles localized to generators in dorsal extrastriate cortex of the middle occipital gyrus consistent with previous studies.
 81-1	14088-14094	Source	_
 81-2	14095-14103	modeling	_
 81-3	14104-14112	resulted	_
@@ -2616,6 +2697,7 @@
 81-21	14233-14240	studies	_
 81-22	14241-14242	.	_
 
+Text=The model produced a goodness-of-fit value of 96.4% (residual variance = 3.6%) across the modeled epoch of 80 – 116 ms (see Figure 7 a, b).
 82-1	14243-14246	The	_
 82-2	14247-14252	model	_
 82-3	14253-14261	produced	_
@@ -2651,6 +2733,7 @@
 82-33	14387-14388	)	_
 82-34	14389-14390	.	_
 
+Text=Based on the distribution of the dipolar surface projection, we chose to measure P1 from the average of six electrodes from each hemisphere: TP7/8, CP5/6, CP3/4, P7/8, P5/6, and P3/4, generating one analysis region of interest (ROI) on each hemisphere (see Figure 7c).
 83-1	14391-14396	Based	_
 83-2	14397-14399	on	_
 83-3	14400-14403	the	_
@@ -2708,6 +2791,7 @@
 83-55	14669-14670	)	_
 83-56	14671-14672	.	_
 
+Text=We measured P1 separately for each ROI, using the largest positive peak appearing in the time window of 60 to 195 ms.
 84-1	14673-14675	We	_
 84-2	14676-14684	measured	_
 84-3	14685-14687	P1	_
@@ -2733,6 +2817,7 @@
 84-23	14788-14790	ms	_
 84-24	14791-14792	.	_
 
+Text=The average amplitude of this peak was measured using a 20 ms window centered on the peak from the averaged waveform for each hemisphere and condition within each participant.
 85-1	14793-14796	The	_
 85-2	14797-14804	average	_
 85-3	14805-14814	amplitude	_
@@ -2764,6 +2849,7 @@
 85-29	14956-14967	participant	_
 85-30	14968-14969	.	_
 
+Text=See Figure 8 for a depiction of the grand average waveforms by color and contrast across all participants.
 86-1	14970-14973	See	_
 86-2	14974-14980	Figure	_
 86-3	14981-14982	8	_
@@ -2784,9 +2870,11 @@
 86-18	15063-15075	participants	_
 86-19	15076-15077	.	_
 
+Text=4.3.
 87-1	15078-15081	4.3	_
 87-2	15082-15083	.	_
 
+Text=Statistical Analyses Prior to examining symptom relationships, we examined P1 amplitude across the entire sample using repeated-measures ANCOVAs to assess the general effects of contrast and hemisphere.
 88-1	15084-15095	Statistical	_
 88-2	15096-15104	Analyses	_
 88-3	15105-15110	Prior	_
@@ -2817,6 +2905,7 @@
 88-28	15276-15286	hemisphere	_
 88-29	15287-15288	.	_
 
+Text=For examination of symptom relationships with the P1 amplitude, we conducted linear regressions, with hypothesized symptoms entered simultaneously.
 89-1	15289-15292	For	_
 89-2	15293-15304	examination	_
 89-3	15305-15307	of	_
@@ -2839,6 +2928,7 @@
 89-20	15423-15437	simultaneously	_
 89-21	15438-15439	.	_
 
+Text=As there was substantial shared variance between clinician-rated and self-reported symptoms, we ran separate regressions for each type of assessment modality.
 90-1	15440-15442	As	_
 90-2	15443-15448	there	_
 90-3	15449-15452	was	_
@@ -2863,6 +2953,7 @@
 90-22	15590-15598	modality	_
 90-23	15599-15600	.	_
 
+Text=Analyses with the gray background included the two hypothesized clinician-rated PANSS symptoms of Delusions (P1) and Conceptual Disorganization (P2), along with two other symptoms found in a single past study - Suspiciousness/Persecution (P6), and Emotional Withdrawal (N2), and corresponding self-reported symptoms from the SPQ-BR subscales of: Magical Thinking, Eccentric Behavior, Odd Speech, and Suspiciousness (sum of the three items; excluding Ideas of Reference items).
 91-1	15601-15609	Analyses	_
 91-2	15610-15614	with	_
 91-3	15615-15618	the	_
@@ -2947,6 +3038,7 @@
 91-82	16093-16094	)	_
 91-83	16095-16096	.	_
 
+Text=Analyses examining the change from the green to red background included the two hypothesized PANSS symptoms of Blunted Affect (N1) and Passive/Apathetic Social Withdrawal (N4), and related self-report scales of SPQ-BR Constricted Affect (sum of the three items; excluding No Close Friends items), SPQ-BR Social Anxiety, and the ACIPS total score.
 92-1	16097-16105	Analyses	_
 92-2	16106-16115	examining	_
 92-3	16116-16119	the	_
@@ -3010,6 +3102,7 @@
 92-61	16447-16452	score	_
 92-62	16453-16454	.	_
 
+Text=We also added SPQ-BR Ideas of Reference (sum of the three items; excluding Suspiciousness items) and the corresponding PANSS Delusions item to analyses as one past study using the full original SPQ found this association.
 93-1	16455-16457	We	_
 93-2	16458-16462	also	_
 93-3	16463-16468	added	_
@@ -3050,6 +3143,7 @@
 93-38	16667-16678	association	_
 93-39	16679-16680	.	_
 
+Text=Any statistically significant regressions were then repeated with the addition of covarying for diagnostic class in order to examine the relative influence of that variable.
 94-1	16681-16684	Any	_
 94-2	16685-16698	statistically	_
 94-3	16699-16710	significant	_
@@ -3077,6 +3171,7 @@
 94-25	16845-16853	variable	_
 94-26	16854-16855	.	_
 
+Text=The three individuals with disorders outside of the classes of interest were combined with the nonpsychiatric controls for these post hoc analyses.
 95-1	16856-16859	The	_
 95-2	16860-16865	three	_
 95-3	16866-16877	individuals	_
@@ -3101,6 +3196,7 @@
 95-22	16994-17002	analyses	_
 95-23	17003-17004	.	_
 
+Text=All regressions were examined for multicollinearity (Variance Inflation Factor> 4 or Condition Index> 30) and statistical outliers (defined by combination of Studentized residual> 3.0 and Cook's d>.03).
 96-1	17005-17008	All	_
 96-2	17009-17020	regressions	_
 96-3	17021-17025	were	_
@@ -3140,6 +3236,7 @@
 96-37	17215-17216	)	_
 96-38	17217-17218	.	_
 
+Text=Any deviations from these parameters are reported in the results.
 97-1	17219-17222	Any	_
 97-2	17223-17233	deviations	_
 97-3	17234-17238	from	_
@@ -3152,6 +3249,7 @@
 97-10	17276-17283	results	_
 97-11	17284-17285	.	_
 
+Text=This is a PDF file of an unedited manuscript that has been accepted for publication.
 98-1	17286-17290	This	_
 98-2	17291-17293	is	_
 98-3	17294-17295	a	_
@@ -3169,6 +3267,7 @@
 98-15	17358-17369	publication	_
 98-16	17370-17371	.	_
 
+Text=As a service to our customers we are providing this early version of the manuscript.
 99-1	17372-17374	As	_
 99-2	17375-17376	a	_
 99-3	17377-17384	service	_
@@ -3186,6 +3285,7 @@
 99-15	17445-17455	manuscript	_
 99-16	17456-17457	.	_
 
+Text=The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form.
 100-1	17458-17461	The	_
 100-2	17462-17472	manuscript	_
 100-3	17473-17477	will	_
@@ -3211,6 +3311,7 @@
 100-23	17592-17596	form	_
 100-24	17597-17598	.	_
 
+Text=Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
 101-1	17599-17605	Please	_
 101-2	17606-17610	note	_
 101-3	17611-17615	that	_
@@ -3240,6 +3341,7 @@
 101-27	17756-17763	pertain	_
 101-28	17764-17765	.	_
 
+Text=Highlights Delusion severity negatively related to amplitude of P1 visual-evoked potential Constricted affect negatively related to change in P1 amplitude to red background Participants with schizophrenia showed reduced P1 amplitude compared to controls
 102-1	17766-17776	Highlights	_
 102-2	17777-17785	Delusion	_
 102-3	17786-17794	severity	_

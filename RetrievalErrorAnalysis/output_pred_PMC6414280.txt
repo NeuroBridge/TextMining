@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Linking Genes, Circuits, and Behavior: Network Connectivity as a Novel Endophenotype of Externalizing Background: Externalizing disorders are known to be partly heritable, but the biological pathways linking genetic risk to the manifestation of these costly behaviors remain under investigation.
 1-1	0-7	Linking	_
 1-2	8-13	Genes	_
 1-3	14-15	,	_
@@ -48,6 +49,7 @@
 1-44	286-299	investigation	_
 1-45	300-301	.	_
 
+Text=This study sought to identify neural phenotypes associated with genomic vulnerability for externalizing disorders.
 2-1	302-306	This	_
 2-2	307-312	study	_
 2-3	313-319	sought	_
@@ -64,6 +66,7 @@
 2-14	406-415	disorders	_
 2-15	416-417	.	_
 
+Text=Methods: 155 White, non-Hispanic veterans were genotyped using a genome-wide array and underwent resting-state functional magnetic resonance imaging.
 3-1	418-425	Methods	_
 3-2	426-427	:	_
 3-3	428-431	155	_
@@ -86,6 +89,7 @@
 3-20	561-568	imaging	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 3-21	569-570	.	_
 
+Text=Genetic susceptibility was assessed using an independently-developed polygenic score for externalizing, and functional neural networks were identified using graph theory-based network analysis.
 4-1	571-578	Genetic	_
 4-2	579-593	susceptibility	_
 4-3	594-597	was	_
@@ -111,6 +115,7 @@
 4-23	756-764	analysis	_
 4-24	765-766	.	_
 
+Text=Tasks of inhibitory control and psychiatric diagnosis (alcohol/substance use disorders) were used to measure externalizing phenotypes.
 5-1	767-772	Tasks	_
 5-2	773-775	of	_
 5-3	776-786	inhibitory	_
@@ -131,6 +136,7 @@
 5-18	892-902	phenotypes	_
 5-19	903-904	.	_
 
+Text=Results: A polygenic externalizing disorder score (PS) predicted connectivity in a brain circuit (10 nodes, 9 links) centered on left amygdala that included several cortical (bilateral IFG pars triangularis, left rostral anterior cingulate cortex) and subcortical (bilateral amygdala, hippocampus, and striatum) regions.
 6-1	905-912	Results	_
 6-2	913-914	:	_
 6-3	915-916	A	_
@@ -188,6 +194,7 @@
 6-55	1230-1237	regions	_
 6-56	1238-1239	.	_
 
+Text=Directional analyses revealed that bilateral amygdala influenced left prefrontal cortex (IFG) in participants scoring higher on the externalizing PS, whereas the opposite direction of influence was observed for those scoring lower on the PS.
 7-1	1240-1251	Directional	_
 7-2	1252-1260	analyses	_
 7-3	1261-1269	revealed	_
@@ -227,6 +234,7 @@
 7-37	1481-1483	PS	_
 7-38	1484-1485	.	_
 
+Text=Polygenic variation was also associated with higher Participation Coefficient for bilateral amygdala and left rACC, suggesting that genes related to externalizing modulated the extent to which these nodes functioned as communication hubs.
 8-1	1486-1495	Polygenic	_
 8-2	1496-1505	variation	_
 8-3	1506-1509	was	_
@@ -262,6 +270,7 @@
 8-33	1720-1724	hubs	_
 8-34	1725-1726	.	_
 
+Text=Conclusions: Findings suggest that externalizing polygenic risk is associated with disrupted connectivity in a neural network implicated in emotion regulation, impulse control, and reinforcement learning.
 9-1	1727-1738	Conclusions	_
 9-2	1739-1740	:	_
 9-3	1741-1749	Findings	_
@@ -292,6 +301,7 @@
 9-28	1925-1933	learning	_
 9-29	1934-1935	.	_
 
+Text=Results provide evidence that this network represents a genetically-associated neurobiological vulnerability for externalizing disorders.
 10-1	1936-1943	Results	_
 10-2	1944-1951	provide	_
 10-3	1952-1960	evidence	_
@@ -308,6 +318,7 @@
 10-14	2063-2072	disorders	_
 10-15	2073-2074	.	_
 
+Text=Methods and Materials Participants Participants were military veterans of Operations Enduring Freedom and Iraqi Freedom.
 11-1	2075-2082	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	2083-2086	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	2087-2096	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -325,6 +336,7 @@
 11-15	2187-2194	Freedom	_
 11-16	2195-2196	.	_
 
+Text=Exclusion criteria were a history of seizures, serious medical illness (including prior cerebrovascular accident or myocardial infarction), acute suicide risk, current psychotic disorder, bipolar disorder, or cognitive disorder due to general medical condition, pregnancy, metal implant, shrapnel, aneurysm clip, or pacemaker, and moderate or severe TBI.
 12-1	2197-2206	Exclusion	_
 12-2	2207-2215	criteria	_
 12-3	2216-2220	were	_
@@ -386,6 +398,7 @@
 12-59	2560-2563	TBI	_
 12-60	2564-2565	.	_
 
+Text=To avoid potential genetic confounds related to ancestry, the sample was limited to genetically-confirmed White non-Hispanic individuals.
 13-1	2566-2568	To	_
 13-2	2569-2574	avoid	_
 13-3	2575-2584	potential	_
@@ -406,6 +419,7 @@
 13-18	2692-2703	individuals	_
 13-19	2704-2705	.	_
 
+Text=We did not have adequate statistical power in our sample to conduct analyses with other ethnically-homogenous groups.
 14-1	2706-2708	We	_
 14-2	2709-2712	did	_
 14-3	2713-2716	not	_
@@ -425,6 +439,7 @@
 14-17	2816-2822	groups	_
 14-18	2823-2824	.	_
 
+Text=Only participants with viable functional neuroimaging data were analyzed.
 15-1	2825-2829	Only	_
 15-2	2830-2842	participants	_
 15-3	2843-2847	with	_
@@ -436,6 +451,7 @@
 15-9	2889-2897	analyzed	_
 15-10	2898-2899	.	_
 
+Text=Study approval was obtained from all relevant Institutional Review Boards and regulatory committees.
 16-1	2900-2905	Study	_
 16-2	2906-2914	approval	_
 16-3	2915-2918	was	_
@@ -451,6 +467,7 @@
 16-13	2989-2999	committees	_
 16-14	3000-3001	.	_
 
+Text=Participants provided written informed consent and were compensated financially.
 17-1	3002-3014	Participants	_
 17-2	3015-3023	provided	_
 17-3	3024-3031	written	_
@@ -462,6 +479,7 @@
 17-9	3070-3081	financially	_
 17-10	3082-3083	.	_
 
+Text=The final sample consisted of 155 male and female military veterans ages 19–57.
 18-1	3084-3087	The	_
 18-2	3088-3093	final	_
 18-3	3094-3100	sample	_
@@ -477,6 +495,7 @@
 18-13	3157-3162	19–57	_
 18-14	3163-3164	.	_
 
+Text=Demographic information and clinical characteristics are presented in Table 1.
 19-1	3165-3176	Demographic	_
 19-2	3177-3188	information	_
 19-3	3189-3192	and	_
@@ -489,6 +508,7 @@
 19-10	3241-3242	1	_
 19-11	3243-3244	.	_
 
+Text=The predominately male composition of this sample (~92%) is representative of other military veteran samples, but likely limits the generalizability of the findings to men.
 20-1	3245-3248	The	_
 20-2	3249-3262	predominately	_
 20-3	3263-3267	male	_
@@ -520,10 +540,12 @@
 20-29	3417-3420	men	_
 20-30	3421-3422	.	_
 
+Text=Measures Genotyping.
 21-1	3423-3431	Measures	_
 21-2	3432-3442	Genotyping	_
 21-3	3443-3444	.	_
 
+Text=DNA was extracted from peripheral blood samples and genotyping details are provided in Supplemental Methods.
 22-1	3445-3448	DNA	_
 22-2	3449-3452	was	_
 22-3	3453-3462	extracted	_
@@ -541,10 +563,12 @@
 22-15	3545-3552	Methods	_
 22-16	3553-3554	.	_
 
+Text=Polygenic Scores.
 23-1	3555-3564	Polygenic	_
 23-2	3565-3571	Scores	_
 23-3	3572-3573	.	_
 
+Text=To calculate the externalizing polygenic score, we obtained a list of reference alleles and effect sizes for 587,378 SNPs from the investigators of the discovery externalizing disorders GWAS that reflect polygenic associations with externalizing disorders (e.g., alcohol use disorder, substance use disorder, antisocial personality disorder).
 24-1	3574-3576	To	_
 24-2	3577-3586	calculate	_
 24-3	3587-3590	the	_
@@ -598,6 +622,7 @@
 24-51	3920-3921	)	_
 24-52	3922-3923	.	_
 
+Text=We confirmed this list had been pruned of SNPs with ambiguous coding (i.e.
 25-1	3924-3926	We	_
 25-2	3927-3936	confirmed	_
 25-3	3937-3941	this	_
@@ -614,6 +639,7 @@
 25-14	3995-3998	i.e	_
 25-15	3999-4000	.	_
 
+Text=A/T and G/C SNPs) in our data.
 26-1	4001-4004	A/T	_
 26-2	4005-4008	and	_
 26-3	4009-4012	G/C	_
@@ -624,6 +650,7 @@
 26-8	4027-4031	data	_
 26-9	4032-4033	.	_
 
+Text=Of the SNPS, 480,856 were genotyped on the Illumina OMNI 2.5–8 array in our sample and available for externalizing risk-score calculations (after removal of SNPs with missing rates> 0.01 and Hardy–Weinberg equilibrium p-values <0.000001).
 27-1	4034-4036	Of	_
 27-2	4037-4040	the	_
 27-3	4041-4045	SNPS	_
@@ -665,6 +692,7 @@
 27-39	4275-4276	)	_
 27-40	4277-4278	.	_
 
+Text=Polygenic scores were calculated by PLINK1 using the--score option, which computes a linear function of the additively coded number of reference alleles weighted by the betas from the discovery externalizing GWAS sample.
 28-1	4279-4288	Polygenic	_
 28-2	4289-4295	scores	_
 28-3	4296-4300	were	_
@@ -702,10 +730,12 @@
 28-35	4495-4501	sample	_
 28-36	4502-4503	.	_
 
+Text=Externalizing Phenotypes.
 29-1	4504-4517	Externalizing	_
 29-2	4518-4528	Phenotypes	_
 29-3	4529-4530	.	_
 
+Text=Participants completed the color-word interference test (i.e., Stroop) from the Delis-Kaplan Executive Function System to measure inhibitory control.
 30-1	4531-4543	Participants	_
 30-2	4544-4553	completed	_
 30-3	4554-4557	the	_
@@ -729,6 +759,7 @@
 30-21	4675-4682	control	_
 30-22	4683-4684	.	_
 
+Text=The inhibition subtest measures inhibition of an automatic response (word reading) to generate a less salient incongruent response (color naming), and the inhibition/switching subtest measures flexibly switching between these response sets.
 31-1	4685-4688	The	_
 31-2	4689-4699	inhibition	_
 31-3	4700-4707	subtest	_
@@ -767,6 +798,7 @@
 31-36	4925-4929	sets	_
 31-37	4930-4931	.	_
 
+Text=We used the scaled scores from these subtests adjusted for performance on the color-naming and word-reading component tests [e.g., inhibition - (color naming + word reading) /2].
 32-1	4932-4934	We	_
 32-2	4935-4939	used	_
 32-3	4940-4943	the	_
@@ -801,6 +833,7 @@
 32-32	5113-5114	]	_
 32-33	5115-5116	.	_
 
+Text=(See for details).
 33-1	5117-5118	(	_
 33-2	5119-5122	See	_
 33-3	5123-5126	for	_
@@ -808,6 +841,7 @@
 33-5	5135-5136	)	_
 33-6	5137-5138	.	_
 
+Text=Lifetime alcohol and substance use disorders was assessed via the Structured Clinical Interview for DSM-IV based on the alcohol, cannabis, cocaine, opioids, amphetamines, polysubstance, and the other substances modules.
 34-1	5139-5147	Lifetime	_
 34-2	5148-5155	alcohol	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 34-3	5156-5159	and	_
@@ -845,6 +879,7 @@
 34-35	5356-5363	modules	_
 34-36	5364-5365	.	_
 
+Text=We did not model the latent externalizing dimension, because we did not have a measure of antisocial behavior or trait constraint.
 35-1	5366-5368	We	_
 35-2	5369-5372	did	_
 35-3	5373-5376	not	_
@@ -869,12 +904,14 @@
 35-22	5486-5496	constraint	_
 35-23	5497-5498	.	_
 
+Text=MRI Acquisition and Preprocessing.
 36-1	5499-5502	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 36-2	5503-5514	Acquisition	_
 36-3	5515-5518	and	_
 36-4	5519-5532	Preprocessing	_
 36-5	5533-5534	.	_
 
+Text=Participants were instructed to remain still with eyes open while 2 EPI runs (voxel size = 3×3×3mm, TR = 3000ms, TE = 30ms, scan time per run = 360s) were acquired on a Siemens 3T TIM Trio.
 37-1	5535-5547	Participants	_
 37-2	5548-5552	were	_
 37-3	5553-5563	instructed	_
@@ -919,6 +956,7 @@
 37-42	5724-5728	Trio	_
 37-43	5729-5730	.	_
 
+Text=Two MPRAGEs (voxel size = 1×1×1mm, T1 = 1000ms, TR = 2530s, TE = 3.32ms) were acquired and averaged to create a single high contrast-to-noise image.
 38-1	5731-5734	Two	_
 38-2	5735-5742	MPRAGEs	_
 38-3	5743-5744	(	_
@@ -952,6 +990,7 @@
 38-31	5878-5883	image	_
 38-32	5884-5885	.	_
 
+Text=Individualized cortical parcellations and subcortical segmentations were created via FreeSurfer.
 39-1	5886-5900	Individualized	_
 39-2	5901-5909	cortical	_
 39-3	5910-5923	parcellations	_
@@ -964,6 +1003,7 @@
 39-10	5971-5981	FreeSurfer	_
 39-11	5982-5983	.	_
 
+Text=Cortical surface models were manually checked slice-by-slice and edited for accuracy.
 40-1	5984-5992	Cortical	_
 40-2	5993-6000	surface	_
 40-3	6001-6007	models	_
@@ -977,6 +1017,7 @@
 40-11	6060-6068	accuracy	_
 40-12	6069-6070	.	_
 
+Text=The Desikan/Killiany parcellation was used (34 regions per hemisphere), along with subcortical segmentation (7 regions per hemisphere).
 41-1	6071-6074	The	_
 41-2	6075-6091	Desikan/Killiany	_
 41-3	6092-6104	parcellation	_
@@ -1001,6 +1042,7 @@
 41-22	6209-6210	)	_
 41-23	6211-6212	.	_
 
+Text=Frontal and temporal poles were excluded due to frequent susceptibility artifact, and 5 visual regions (the regions of least interest) were excluded to reduce the number of multiple comparisons.
 42-1	6213-6220	Frontal	_
 42-2	6221-6224	and	_
 42-3	6225-6233	temporal	_
@@ -1035,6 +1077,7 @@
 42-32	6398-6409	comparisons	_
 42-33	6410-6411	.	_
 
+Text=The number of brain region connections that were examined, and corrected for, in the network analysis was 2,278.
 43-1	6412-6415	The	_
 43-2	6416-6422	number	_
 43-3	6423-6425	of	_
@@ -1057,6 +1100,7 @@
 43-20	6520-6525	2,278	_
 43-21	6526-6527	.	_
 
+Text=To ensure that our choice of particular preprocessing stream did not drive the findings, preprocessing was repeated with other options: (i) slice-timing correction, (ii) partialing of the square, autocorrelation, and 1st derivative of motion parameters, (iii) partialing the 1st derivative of global, ventricular, and white matter signals, (iv) determination on a participant-specific basis whether partialling of global signal was necessary (via the Global Negative Index), (v) motion scrubbing.
 44-1	6528-6530	To	_
 44-2	6531-6537	ensure	_
 44-3	6538-6542	that	_
@@ -1149,6 +1193,7 @@
 44-90	7036-7045	scrubbing	_
 44-91	7046-7047	.	_
 
+Text=Connectivity matrices remained extremely similar (correlations>.97), indicating that findings were not specific to our preprocessing stream.
 45-1	7048-7060	Connectivity	_
 45-2	7061-7069	matrices	_
 45-3	7070-7078	remained	_
@@ -1172,11 +1217,13 @@
 45-21	7186-7192	stream	_
 45-22	7193-7194	.	_
 
+Text=Pairwise LiNGAM Analyses.
 46-1	7195-7203	Pairwise	_
 46-2	7204-7210	LiNGAM	_
 46-3	7211-7219	Analyses	_
 46-4	7220-7221	.	_
 
+Text=Given that the Pairwise LiNGAM method requires non-Gaussian information to be retained in the timeseries, preprocessing was repeated substituting in FSL ’ s non-linear high-pass filter.
 47-1	7222-7227	Given	_
 47-2	7228-7232	that	_
 47-3	7233-7236	the	_
@@ -1206,6 +1253,7 @@
 47-27	7401-7407	filter	_
 47-28	7408-7409	.	_
 
+Text=Only high-pass filtering was performed given evidence that low-pass filtering removes important non-Gaussian information.
 48-1	7410-7414	Only	_
 48-2	7415-7424	high-pass	_
 48-3	7425-7434	filtering	_
@@ -1222,6 +1270,7 @@
 48-14	7519-7530	information	_
 48-15	7531-7532	.	_
 
+Text=For each connection, a pairwise LiNGAM coefficient was first estimated for each participant.
 49-1	7533-7536	For	_
 49-2	7537-7541	each	_
 49-3	7542-7552	connection	_
@@ -1238,6 +1287,7 @@
 49-14	7614-7625	participant	_
 49-15	7626-7627	.	_
 
+Text=Significance of analyses was determined via permutation (5000 permutations).
 50-1	7628-7640	Significance	_
 50-2	7641-7643	of	_
 50-3	7644-7652	analyses	_
@@ -1251,6 +1301,7 @@
 50-11	7704-7705	)	_
 50-12	7706-7707	.	_
 
+Text=In order to ensure that outliers did not drive findings, analyses were repeated after winsorization of LiNGAM coefficients to 2.5SD, after which all findings remained significant.
 51-1	7708-7710	In	_
 51-2	7711-7716	order	_
 51-3	7717-7719	to	_
@@ -1281,11 +1332,13 @@
 51-28	7877-7888	significant	_
 51-29	7889-7890	.	_
 
+Text=Graph Property Computation.
 52-1	7891-7896	Graph	_
 52-2	7897-7905	Property	_
 52-3	7906-7917	Computation	_
 52-4	7918-7919	.	_
 
+Text=Resting data were preprocessed using the Graph Theory GLM (GTG) toolbox version 0.44 (www.nitrc.org/projects/metalab_gtg; RRID: SCR_014075).
 53-1	7920-7927	Resting	_
 53-2	7928-7932	data	_
 53-3	7933-7937	were	_
@@ -1310,6 +1363,7 @@
 53-22	8064-8065	)	_
 53-23	8066-8067	.	_
 
+Text=Data were motion corrected, detrended (linear and quadratic), bandpass filtered (retaining 0.01–0.10Hz), and the mean global, ventricular, and white matter signals were partialled out, along with estimated motion parameters.
 54-1	8068-8072	Data	_
 54-2	8073-8077	were	_
 54-3	8078-8084	motion	_
@@ -1351,6 +1405,7 @@
 54-39	8291-8301	parameters	_
 54-40	8302-8303	.	_
 
+Text=Timeseries for FreeSurfer nodes were extracted by calculating mean signal across the node for each time point, for each EPI run.
 55-1	8304-8314	Timeseries	_
 55-2	8315-8318	for	_
 55-3	8319-8329	FreeSurfer	_
@@ -1375,6 +1430,7 @@
 55-22	8429-8432	run	_
 55-23	8433-8434	.	_
 
+Text=Timeseries for the EPI runs were concatenated after mean-centering each timeseries within run, and a 68×68 Pearson correlation matrix was created for each participant.
 56-1	8435-8445	Timeseries	_
 56-2	8446-8449	for	_
 56-3	8450-8453	the	_
@@ -1402,6 +1458,7 @@
 56-25	8591-8602	participant	_
 56-26	8603-8604	.	_
 
+Text=Before graph properties were computed, each participant ’ s connectivity matrix was thresholded to include only positive weights and normalized via division by the median positive weight for each matrix (excluding zeros).
 57-1	8605-8611	Before	_
 57-2	8612-8617	graph	_
 57-3	8618-8628	properties	_
@@ -1439,6 +1496,7 @@
 57-35	8827-8828	)	_
 57-36	8829-8830	.	_
 
+Text=Normalization was performed to remove bias due to individual differences in overall network weight.
 58-1	8831-8844	Normalization	_
 58-2	8845-8848	was	_
 58-3	8849-8858	performed	_
@@ -1455,6 +1513,7 @@
 58-14	8923-8929	weight	_
 58-15	8930-8931	.	_
 
+Text=Graph theory networks, including modules, were derived from a data-driven approach based on the current sample.
 59-1	8932-8937	Graph	_
 59-2	8938-8944	theory	_
 59-3	8945-8953	networks	_
@@ -1475,6 +1534,7 @@
 59-18	9038-9044	sample	_
 59-19	9045-9046	.	_
 
+Text=Details about module membership are provided in Supplemental Methods.
 60-1	9047-9054	Details	_
 60-2	9055-9060	about	_
 60-3	9061-9067	module	_
@@ -1486,6 +1546,7 @@
 60-9	9108-9115	Methods	_
 60-10	9116-9117	.	_
 
+Text=Statistical Analyses An externalizing PS computed with a p-value threshold cutoff of <.50 was the primary variable used in all analyses, selected based on prior work.
 61-1	9118-9129	Statistical	_
 61-2	9130-9138	Analyses	_
 61-3	9139-9141	An	_
@@ -1516,6 +1577,7 @@
 61-28	9281-9285	work	_
 61-29	9286-9287	.	_
 
+Text=We also report associations between the neural network connectivity measures and externalizing PSs calculated with other p-value thresholds for reference.
 62-1	9288-9290	We	_
 62-2	9291-9295	also	_
 62-3	9296-9302	report	_
@@ -1538,6 +1600,7 @@
 62-20	9432-9441	reference	_
 62-21	9442-9443	.	_
 
+Text=To identify network connections that varied with polygenic variation, connectivity matrices were entered as dependent variables into the Network Based Statistic (NBS) toolbox, with the PS as the independent variable of interest.
 63-1	9444-9446	To	_
 63-2	9447-9455	identify	_
 63-3	9456-9463	network	_
@@ -1576,6 +1639,7 @@
 63-36	9667-9675	interest	_
 63-37	9676-9677	.	_
 
+Text=An individual connection level threshold of t = 2.9 was used with intensity-based correction for multiple comparisons (5000 permutations) and an overall corrected α <.05.
 64-1	9678-9680	An	_
 64-2	9681-9691	individual	_
 64-3	9692-9702	connection	_
@@ -1606,6 +1670,7 @@
 64-28	9847-9850	.05	_
 64-29	9851-9852	.	_
 
+Text=Pairwise LiNGAM 31) was used to gain initial insight into the overall direction of influence of those connections observed in NBS analyses between cortical and subcortical structures.
 65-1	9853-9861	Pairwise	_
 65-2	9862-9868	LiNGAM	_
 65-3	9869-9871	31	_
@@ -1636,6 +1701,7 @@
 65-28	10026-10036	structures	_
 65-29	10037-10038	.	_
 
+Text=First, we tested the significance of the mean direction (across participants) for each connection via a one-sample t-test.
 66-1	10039-10044	First	_
 66-2	10045-10046	,	_
 66-3	10047-10049	we	_
@@ -1659,6 +1725,7 @@
 66-21	10157-10163	t-test	_
 66-22	10164-10165	.	_
 
+Text=Next, we tested whether the PS moderated the direction of influence for each connection via a regression with the same covariates used in the NBS analyses.
 67-1	10166-10170	Next	_
 67-2	10171-10172	,	_
 67-3	10173-10175	we	_
@@ -1688,6 +1755,7 @@
 67-27	10313-10321	analyses	_
 67-28	10322-10323	.	_
 
+Text=False discovery rate was used to correct (across connections) for multiple comparisons.
 68-1	10324-10329	False	_
 68-2	10330-10339	discovery	_
 68-3	10340-10344	rate	_
@@ -1704,6 +1772,7 @@
 68-14	10401-10412	comparisons	_
 68-15	10413-10414	.	_
 
+Text=We then identified graph theory properties that varied with polygenic variation.
 69-1	10415-10417	We	_
 69-2	10418-10422	then	_
 69-3	10423-10433	identified	_
@@ -1717,6 +1786,7 @@
 69-11	10485-10494	variation	_
 69-12	10495-10496	.	_
 
+Text=First, resting-state connectivity matrices were entered into the GTG toolbox, which computes properties for each participant using the Brain Connectivity Toolbox.
 70-1	10497-10502	First	_
 70-2	10503-10504	,	_
 70-3	10505-10518	resting-state	_
@@ -1742,6 +1812,7 @@
 70-23	10653-10660	Toolbox	_
 70-24	10661-10662	.	_
 
+Text=Two graph properties were examined: Participation Coefficient or the extent to which a node is connected to nodes in different modules, and Within-Module Degree Z-Score or the extent to which a node is connected to other nodes within its own module.
 71-1	10663-10666	Two	_
 71-2	10667-10672	graph	_
 71-3	10673-10683	properties	_
@@ -1787,6 +1858,7 @@
 71-43	10907-10913	module	_
 71-44	10914-10915	.	_
 
+Text=Graph properties were examined only for nodes that emerged in the NBS analysis.
 72-1	10916-10921	Graph	_
 72-2	10922-10932	properties	_
 72-3	10933-10937	were	_
@@ -1802,6 +1874,7 @@
 72-13	10986-10994	analysis	_
 72-14	10995-10996	.	_
 
+Text=Properties were entered as dependent variables in robust regressions in the GTG toolbox.
 73-1	10997-11007	Properties	_
 73-2	11008-11012	were	_
 73-3	11013-11020	entered	_
@@ -1817,6 +1890,7 @@
 73-13	11077-11084	toolbox	_
 73-14	11085-11086	.	_
 
+Text=Predictor models were the same as NBS analyses.
 74-1	11087-11096	Predictor	_
 74-2	11097-11103	models	_
 74-3	11104-11108	were	_
@@ -1827,6 +1901,7 @@
 74-8	11125-11133	analyses	_
 74-9	11134-11135	.	_
 
+Text=Significance was determined via permutation tests (5000 repetitions).
 75-1	11136-11148	Significance	_
 75-2	11149-11152	was	_
 75-3	11153-11163	determined	_
@@ -1839,6 +1914,7 @@
 75-10	11205-11206	)	_
 75-11	11207-11208	.	_
 
+Text=False discovery rate was used to correct (across nodes) for multiple comparisons, and adjusted p-values are in brackets.
 76-1	11209-11214	False	_
 76-2	11215-11224	discovery	_
 76-3	11225-11229	rate	_
@@ -1862,6 +1938,7 @@
 76-21	11323-11331	brackets	_
 76-22	11332-11333	.	_
 
+Text=We included covariates in our analyses to conduct a rigorous test of our hypotheses and reduce the likelihood that these variables could account for findings.
 77-1	11334-11336	We	_
 77-2	11337-11345	included	_
 77-3	11346-11356	covariates	_
@@ -1889,6 +1966,7 @@
 77-25	11483-11491	findings	_
 77-26	11492-11493	.	_
 
+Text=All analyses were adjusted for age, sex, the first two ancestry principal components, deployment-related blast exposure, handedness, current employment, and total cholesterol.
 78-1	11494-11497	All	_
 78-2	11498-11506	analyses	_
 78-3	11507-11511	were	_
@@ -1919,6 +1997,7 @@
 78-28	11663-11674	cholesterol	_
 78-29	11675-11676	.	_
 
+Text=Covariates were selected based on demonstrated associations with neural connectivity/integrity, genetic effects, and/or externalizing phenotypes in previous research.
 79-1	11677-11687	Covariates	_
 79-2	11688-11692	were	_
 79-3	11693-11701	selected	_
@@ -1941,6 +2020,7 @@
 79-20	11836-11844	research	_
 79-21	11845-11846	.	_
 
+Text=Given high rates of trauma exposure, PTSD, and mild TBI in this sample, we also examined whether these variables and other comorbidities altered study findings and found that they did not (see Supplemental Results for details).
 80-1	11847-11852	Given	_
 80-2	11853-11857	high	_
 80-3	11858-11863	rates	_
@@ -1984,6 +2064,7 @@
 80-41	12077-12078	)	_
 80-42	12079-12080	.	_
 
+Text=Correlations between the covariates and study variables are reported in the supplemental materials (Supplemental Table 1).
 81-1	12081-12093	Correlations	_
 81-2	12094-12101	between	_
 81-3	12102-12105	the	_

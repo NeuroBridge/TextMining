@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Altered amygdala-based functional connectivity in individuals with attenuated psychosis syndrome and first-episode schizophrenia Altered resting-state functional connectivity (FC) of the amygdala (AMY) has been demonstrated to be implicated in schizophrenia (SZ) and attenuated psychosis syndrome (APS).
 1-1	0-7	Altered	_
 1-2	8-22	amygdala-based	_
 1-3	23-33	functional	_
@@ -48,6 +49,7 @@
 1-44	309-310	)	http://maven.renci.org/NeuroBridge/neurobridge#BriefIntermittentPsychoticSyndrome
 1-45	311-312	.	_
 
+Text=Specifically, no prior work has investigated FC in individuals with APS using subregions of the AMY as seed regions of interest.
 2-1	313-325	Specifically	_
 2-2	326-327	,	_
 2-3	328-330	no	_
@@ -72,6 +74,7 @@
 2-22	433-441	interest	_
 2-23	442-443	.	_
 
+Text=The present study examined AMY subregion-based FC in individuals with APS and first-episode schizophrenia (FES) and healthy controls (HCs).
 3-1	444-447	The	_
 3-2	448-455	present	_
 3-3	456-461	study	_
@@ -97,6 +100,7 @@
 3-23	585-586	)	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 3-24	587-588	.	_
 
+Text=The resting state FC maps of the three AMY subregions were computed and compared across the three groups.
 4-1	589-592	The	_
 4-2	593-600	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 4-3	601-606	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -117,6 +121,7 @@
 4-18	687-693	groups	_
 4-19	694-695	.	_
 
+Text=Correlation analysis was also performed to examine the relationship between the Z-values of regions showing significant group differences and symptom rating scores.
 5-1	696-707	Correlation	_
 5-2	708-716	analysis	_
 5-3	717-720	was	_
@@ -141,6 +146,7 @@
 5-22	853-859	scores	_
 5-23	860-861	.	_
 
+Text=Individuals with APS showed hyperconnectivity between the right centromedial AMY (CMA) and left frontal pole cortex (FPC) and between the laterobasal AMY and brain stem and right inferior lateral occipital cortex compared to HCs.
 6-1	862-873	Individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 6-2	874-878	with	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 6-3	879-882	APS	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
@@ -181,6 +187,7 @@
 6-38	1091-1094	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 6-39	1095-1096	.	_
 
+Text=Patients with FES showed hyperconnectivity between the right superficial AMY and left occipital pole cortex and between the left CMA and left thalamus compared to the APS and HCs respectively.
 7-1	1097-1105	Patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-2	1106-1110	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-3	1111-1114	FES	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -213,6 +220,7 @@
 7-30	1276-1288	respectively	_
 7-31	1289-1290	.	_
 
+Text=A negative relationship was observed between the connectivity strength of the CMA with the FPC and negative-others score of the Brief Core Schema Scales in the APS group.
 8-1	1291-1292	A	_
 8-2	1293-1301	negative	_
 8-3	1302-1314	relationship	_
@@ -243,6 +251,7 @@
 8-28	1455-1460	group	_
 8-29	1461-1462	.	_
 
+Text=We observed different altered FC with subregions of the AMY in individuals with APS and FES compared to HCs.
 9-1	1463-1465	We	_
 9-2	1466-1474	observed	_
 9-3	1475-1484	different	_
@@ -264,6 +273,7 @@
 9-19	1567-1570	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 9-20	1571-1572	.	_
 
+Text=These results shed light on the pathogenetic mechanisms underpinning the development of APS and SZ.
 10-1	1573-1578	These	_
 10-2	1579-1586	results	_
 10-3	1587-1591	shed	_
@@ -281,6 +291,7 @@
 10-15	1669-1671	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 10-16	1672-1673	.	_
 
+Text=Methods Participants Participants were help-seeking individuals with APS, patients with FES, and HCs.
 11-1	1674-1681	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 11-2	1682-1694	Participants	_
 11-3	1695-1707	Participants	_
@@ -298,6 +309,7 @@
 11-15	1773-1776	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 11-16	1777-1778	.	_
 
+Text=Diagnostic evaluation was performed by trained psychiatrists according to the Structured Clinical Interview for DSM-IV (SCID).
 12-1	1779-1789	Diagnostic	_
 12-2	1790-1800	evaluation	_
 12-3	1801-1804	was	_
@@ -318,6 +330,7 @@
 12-18	1905-1906	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 12-19	1907-1908	.	_
 
+Text=For diagnosis and subtype classification of CHR states for psychosis, criteria of the DSM-5 and Comprehensive Assessment of At-Risk Mental States (CAARMS) were employed.
 13-1	1909-1912	For	_
 13-2	1913-1922	diagnosis	_
 13-3	1923-1926	and	_
@@ -347,6 +360,7 @@
 13-27	2072-2080	employed	_
 13-28	2081-2082	.	_
 
+Text=We recruited only the subjects with APS because it was most extensively studied syndrome within the psychosis continuum.
 14-1	2083-2085	We	_
 14-2	2086-2095	recruited	_
 14-3	2096-2100	only	_
@@ -367,6 +381,7 @@
 14-18	2193-2202	continuum	_
 14-19	2203-2204	.	_
 
+Text=The duration of illness (DI) for APS was calculated since the first significant attenuated psychotic symptoms appeared.
 15-1	2205-2208	The	_
 15-2	2209-2217	duration	_
 15-3	2218-2220	of	_
@@ -388,6 +403,7 @@
 15-19	2317-2325	appeared	_
 15-20	2326-2327	.	_
 
+Text=First episode was defined as having experienced only a single episode of psychosis after the onset (individuals relapsing with another psychotic episode were excluded) and a DI of <2 years.
 16-1	2328-2333	First	_
 16-2	2334-2341	episode	_
 16-3	2342-2345	was	_
@@ -423,6 +439,7 @@
 16-33	2514-2519	years	_
 16-34	2520-2521	.	_
 
+Text=Patients or individuals with alcohol or drug use disorders within the past 6 months, intellectual disability (IQ ≤ 70), current or historical neurological disorders, a serious medical illness, pregnancy, and claustrophobia were excluded from the study.
 17-1	2522-2530	Patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 17-2	2531-2533	or	_
 17-3	2534-2545	individuals	_
@@ -468,6 +485,7 @@
 17-43	2775-2780	study	_
 17-44	2781-2782	.	_
 
+Text=HCs were recruited via advertisements.
 18-1	2783-2786	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 18-2	2787-2791	were	_
 18-3	2792-2801	recruited	_
@@ -475,6 +493,7 @@
 18-5	2806-2820	advertisements	_
 18-6	2821-2822	.	_
 
+Text=The participants were interviewed using the screening module of the SCID-IV non-patient edition and were required to have no previous or current psychiatric disorders, neurological disorders, or significant medical conditions.
 19-1	2823-2826	The	_
 19-2	2827-2839	participants	_
 19-3	2840-2844	were	_
@@ -509,6 +528,7 @@
 19-32	3040-3050	conditions	_
 19-33	3051-3052	.	_
 
+Text=Controls having a first-degree relative with a psychiatric disorder were also excluded.
 20-1	3053-3061	Controls	_
 20-2	3062-3068	having	_
 20-3	3069-3070	a	_
@@ -523,6 +543,7 @@
 20-12	3131-3139	excluded	_
 20-13	3140-3141	.	_
 
+Text=All participants were between 19 and 60 years of age and were assessed as right-handed using the Edinburgh Handedness Inventory.
 21-1	3142-3145	All	_
 21-2	3146-3158	participants	_
 21-3	3159-3163	were	_
@@ -545,6 +566,7 @@
 21-20	3260-3269	Inventory	_
 21-21	3270-3271	.	_
 
+Text=They joined the study voluntarily and provided written informed consent.
 22-1	3272-3276	They	_
 22-2	3277-3283	joined	_
 22-3	3284-3287	the	_
@@ -557,6 +579,7 @@
 22-10	3336-3343	consent	_
 22-11	3344-3345	.	_
 
+Text=The study was approved by the Ethics Committee of Jeonbuk National University Hospital (approval number: CUH 2012-08-001).
 23-1	3346-3349	The	_
 23-2	3350-3355	study	_
 23-3	3356-3359	was	_
@@ -579,6 +602,7 @@
 23-20	3469-3470	)	_
 23-21	3471-3472	.	_
 
+Text=A statement confirming that all experiments were performed in accordance with relevant guidelines and regulations.
 24-1	3473-3474	A	_
 24-2	3475-3484	statement	_
 24-3	3485-3495	confirming	_
@@ -596,6 +620,7 @@
 24-15	3575-3586	regulations	_
 24-16	3587-3588	.	_
 
+Text=Clinical assessment The severity of symptoms was evaluated within a week of fMRI scanning using the Scale of Prodromal Symptoms (SOPS) or PANSS.
 25-1	3589-3597	Clinical	_
 25-2	3598-3608	assessment	_
 25-3	3609-3612	The	_
@@ -623,6 +648,7 @@
 25-25	3729-3734	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 25-26	3735-3736	.	_
 
+Text=These scales were administered by trained psychiatrists.
 26-1	3737-3742	These	_
 26-2	3743-3749	scales	_
 26-3	3750-3754	were	_
@@ -632,6 +658,7 @@
 26-7	3779-3792	psychiatrists	_
 26-8	3793-3794	.	_
 
+Text=In addition, the BCSS, a self-rating scale, was administered.
 27-1	3795-3797	In	_
 27-2	3798-3806	addition	_
 27-3	3807-3808	,	_
@@ -646,6 +673,7 @@
 27-12	3846-3858	administered	_
 27-13	3859-3860	.	_
 
+Text=The BCSS yields four subscale scores on negative-self, positive-self, negative-others, and positive-others schemas.
 28-1	3861-3864	The	_
 28-2	3865-3869	BCSS	_
 28-3	3870-3876	yields	_
@@ -664,6 +692,7 @@
 28-16	3971-3978	schemas	_
 28-17	3979-3980	.	_
 
+Text=A higher score indicates a greater endorsement of a schema.
 29-1	3981-3982	A	_
 29-2	3983-3989	higher	_
 29-3	3990-3995	score	_
@@ -676,6 +705,7 @@
 29-10	4033-4039	schema	_
 29-11	4040-4041	.	_
 
+Text=This scale was chosen on the basis of the close association between negative schemas and positive symptoms.
 30-1	4042-4046	This	_
 30-2	4047-4052	scale	_
 30-3	4053-4056	was	_
@@ -695,6 +725,7 @@
 30-17	4140-4148	symptoms	_
 30-18	4149-4150	.	_
 
+Text=Image acquisition and preprocessing Resting-state functional and structural MRI data were obtained at the Jeonbuk National University Hospital on a 3 T Verio scanner (Siemens Magnetom Verio, Erlangen, Germany) using a 12-channel standard quadrature head coil.
 31-1	4151-4156	Image	_
 31-2	4157-4168	acquisition	_
 31-3	4169-4172	and	_
@@ -737,6 +768,7 @@
 31-40	4409-4413	coil	_
 31-41	4414-4415	.	_
 
+Text=The three-dimensional T1-weighted image was acquired using magnetization-prepared rapid gradient echo (repetition time [TR]: 1900 ms, echo time [TE]: 2.5 ms; flip angle: 9°; field of view [FOV]: 250 mm; image matrix: 256 × 246 mm; voxel size = 1.0 × 1.0 × 1.0 mm3; 176 slices).
 32-1	4416-4419	The	_
 32-2	4420-4437	three-dimensional	_
 32-3	4438-4449	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -805,6 +837,7 @@
 32-66	4710-4711	)	_
 32-67	4712-4713	.	_
 
+Text=For each participant, we collected a 5-min resting-state scan consisting of 150 contiguous echo-planar imaging functional images (TR: 2000 ms; TE: 30 ms; flip angle: 90°; FOV: 220 mm; image matrix: 64 × 64 mm; voxel size = 1.0 × 1.0 × 1.0 mm3; 26 slices).
 33-1	4714-4717	For	_
 33-2	4718-4722	each	_
 33-3	4723-4734	participant	_
@@ -867,6 +900,7 @@
 33-60	4981-4982	)	_
 33-61	4983-4984	.	_
 
+Text=During resting-state image acquisition, the participants were asked to relax with their eyes closed and not to sleep.
 34-1	4985-4991	During	_
 34-2	4992-5005	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 34-3	5006-5011	image	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -888,6 +922,7 @@
 34-19	5097-5102	sleep	_
 34-20	5103-5104	.	_
 
+Text=MRI data processing was conducted using Statistical Parametric Mapping software package, version 12 (SPM12; www.fil.ion.ucl.ac.uk/spm; Wellcome Department of Cognitive Neurology, London, UK) implemented in MATLAB.
 35-1	5105-5108	MRI	_
 35-2	5109-5113	data	_
 35-3	5114-5124	processing	_
@@ -922,6 +957,7 @@
 35-32	5318-5324	MATLAB	_
 35-33	5325-5326	.	_
 
+Text=The first three volumes were discarded to adjust for magnetization equilibrium effects.
 36-1	5327-5330	The	_
 36-2	5331-5336	first	_
 36-3	5337-5342	three	_
@@ -936,6 +972,7 @@
 36-12	5406-5413	effects	_
 36-13	5414-5415	.	_
 
+Text=Functional images were slice-time corrected, realigned to correct for head motion artifacts, and co-registered with each participant ’ s structural image.
 37-1	5416-5426	Functional	_
 37-2	5427-5433	images	_
 37-3	5434-5438	were	_
@@ -961,6 +998,7 @@
 37-23	5566-5571	image	_
 37-24	5572-5573	.	_
 
+Text=Then, the co-registered functional data were transformed into a standard anatomical space based on the parameters obtained by spatially normalizing each T1 image to the Montreal Neurological Institute (MNI) template.
 38-1	5574-5578	Then	_
 38-2	5579-5580	,	_
 38-3	5581-5584	the	_
@@ -996,6 +1034,7 @@
 38-33	5784-5792	template	_
 38-34	5793-5794	.	_
 
+Text=Normalized images were smoothed with an 8-mm full-width at half-maximum isotropic Gaussian kernel.
 39-1	5795-5805	Normalized	_
 39-2	5806-5812	images	_
 39-3	5813-5817	were	_
@@ -1011,6 +1050,7 @@
 39-13	5886-5892	kernel	_
 39-14	5893-5894	.	_
 
+Text=The criteria for excessive head motion were translation> 2 mm or rotation> 2° in any direction and frame displacement (FD) values> 0.5 mm.
 40-1	5895-5898	The	_
 40-2	5899-5907	criteria	_
 40-3	5908-5911	for	_
@@ -1041,6 +1081,7 @@
 40-28	6035-6037	mm	_
 40-29	6038-6039	.	_
 
+Text=Participants for whom more than 10% of volumes showed excessive head motion were excluded from the analysis.
 41-1	6040-6052	Participants	_
 41-2	6053-6056	for	_
 41-3	6057-6061	whom	_
@@ -1061,6 +1102,7 @@
 41-18	6140-6148	analysis	_
 41-19	6149-6150	.	_
 
+Text=FD values were computed using the FSL toolbox (https: //www.fmrib.ox.ac.uk/fsl/index.html).
 42-1	6151-6153	FD	_
 42-2	6154-6160	values	_
 42-3	6161-6165	were	_
@@ -1076,6 +1118,7 @@
 42-13	6243-6244	)	_
 42-14	6245-6246	.	_
 
+Text=Head motion was measured in six dimensions and the component correction (CompCor) noise components were used as nuisance variables.
 43-1	6247-6251	Head	_
 43-2	6252-6258	motion	_
 43-3	6259-6262	was	_
@@ -1099,6 +1142,7 @@
 43-21	6370-6379	variables	_
 43-22	6380-6381	.	_
 
+Text=The CompCor built into the CONN toolbox (V 14f., https: //www.nitrc.org/projects/conn) was used to increase the accuracy of grey matter (GM) signals by removing physiological noises such as heart rate and breathing signals, followed by the removal of the main components from the white matter (WM) and cerebrospinal fluid (CSF) signals.
 44-1	6382-6385	The	_
 44-2	6386-6393	CompCor	_
 44-3	6394-6399	built	_
@@ -1163,6 +1207,7 @@
 44-62	6721-6728	signals	_
 44-63	6729-6730	.	_
 
+Text=Afterward, the linear trend was removed through the time course, and the band-pass filter (0.008 <f <0.09 Hz) was applied.
 45-1	6731-6740	Afterward	_
 45-2	6741-6742	,	_
 45-3	6743-6746	the	_
@@ -1191,6 +1236,7 @@
 45-26	6851-6858	applied	_
 45-27	6859-6860	.	_
 
+Text=Functional connectivity analysis The SPM Anatomy toolbox (V 2.2c) was used to parcellate the AMY into three ROIs, i.e., CMA, LBA, and SA.
 46-1	6861-6871	Functional	_
 46-2	6872-6884	connectivity	_
 46-3	6885-6893	analysis	_
@@ -1222,6 +1268,7 @@
 46-29	7001-7003	SA	_
 46-30	7004-7005	.	_
 
+Text=After applying predefined ROIs to the image data of each subject, we used MANGO (https: //ric.uthscsa.edu/mango/mango.html) to check whether they matched well.
 47-1	7006-7011	After	_
 47-2	7012-7020	applying	_
 47-3	7021-7031	predefined	_
@@ -1250,6 +1297,7 @@
 47-26	7164-7168	well	_
 47-27	7169-7170	.	_
 
+Text=For each ROI, the BOLD time series of the voxels within the ROI were averaged to generate the reference time series for the ROI.
 48-1	7171-7174	For	_
 48-2	7175-7179	each	_
 48-3	7180-7183	ROI	_
@@ -1277,6 +1325,7 @@
 48-25	7296-7299	ROI	_
 48-26	7300-7301	.	_
 
+Text=FC analysis was performed using correlation analysis between the seed amygdala ROI and other voxels of the entire brain in a voxel-wise manner using the CONN toolbox.
 49-1	7302-7304	FC	_
 49-2	7305-7313	analysis	_
 49-3	7314-7317	was	_
@@ -1306,6 +1355,7 @@
 49-27	7460-7467	toolbox	_
 49-28	7468-7469	.	_
 
+Text=Group comparison was performed using a one-way analysis of variance (ANOVA) with sex and education as covariates.
 50-1	7470-7475	Group	_
 50-2	7476-7486	comparison	_
 50-3	7487-7490	was	_
@@ -1327,6 +1377,7 @@
 50-19	7574-7584	covariates	_
 50-20	7585-7586	.	_
 
+Text=Direct group comparisons were further evaluated using post-hoc t-tests.
 51-1	7587-7593	Direct	_
 51-2	7594-7599	group	_
 51-3	7600-7611	comparisons	_
@@ -1338,6 +1389,7 @@
 51-9	7650-7657	t-tests	_
 51-10	7658-7659	.	_
 
+Text=In both analyses, we applied the voxel-level height threshold of uncorrected p <0.001 and the cluster-level extent threshold of p <0.05, which was corrected for multiple comparisons using the false discovery rate (FDR).
 52-1	7660-7662	In	_
 52-2	7663-7667	both	_
 52-3	7668-7676	analyses	_
@@ -1379,6 +1431,7 @@
 52-39	7883-7884	)	_
 52-40	7885-7886	.	_
 
+Text=To control the probability of a type I error, we further performed 10,000 permutation tests implemented in the CONN toolbox.
 53-1	7887-7889	To	_
 53-2	7890-7897	control	_
 53-3	7898-7901	the	_
@@ -1402,6 +1455,7 @@
 53-21	8004-8011	toolbox	_
 53-22	8012-8013	.	_
 
+Text=Statistical analysis Demographic and clinical data were compared among the three groups using ANOVA, t-test, or Chi-square test depending on the variables.
 54-1	8014-8025	Statistical	_
 54-2	8026-8034	analysis	_
 54-3	8035-8046	Demographic	_
@@ -1428,6 +1482,7 @@
 54-24	8161-8170	variables	_
 54-25	8171-8172	.	_
 
+Text=For the correlation analyses, the Region of Interest Extraction Tool (https: //software.incf.org/software/rex) in the CONN toolbox was used to extract Fisher's Z transformed signal intensity values for brain regions with significant group differences.
 55-1	8173-8176	For	_
 55-2	8177-8180	the	_
 55-3	8181-8192	correlation	_
@@ -1468,6 +1523,7 @@
 55-38	8417-8428	differences	_
 55-39	8429-8430	.	_
 
+Text=Relationships between the PANSS, BCSS, or SOPS score and z-scores were explored using sex and education as covariates with SPSS 20.0.
 56-1	8431-8444	Relationships	_
 56-2	8445-8452	between	_
 56-3	8453-8456	the	_
@@ -1493,6 +1549,7 @@
 56-23	8561-8565	20.0	_
 56-24	8566-8567	.	_
 
+Text=Multiple comparison corrections were performed using the Bonferroni correction.
 57-1	8568-8576	Multiple	_
 57-2	8577-8587	comparison	_
 57-3	8588-8599	corrections	_
@@ -1504,6 +1561,7 @@
 57-9	8636-8646	correction	_
 57-10	8647-8648	.	_
 
+Text=Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
 58-1	8649-8658	Publisher	_
 58-2	8659-8661	's	_
 58-3	8662-8666	note	_

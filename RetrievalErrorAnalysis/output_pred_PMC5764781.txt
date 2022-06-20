@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Different shades of default mode disturbance in schizophrenia: Subnodal covariance estimation in structure and function Schizophrenia is a devastating mental disease with an apparent disruption in the highly associative default mode network (DMN).
 1-1	0-9	Different	_
 1-2	10-16	shades	_
 1-3	17-19	of	_
@@ -40,6 +41,7 @@
 1-36	248-249	)	_
 1-37	250-251	.	_
 
+Text=Interplay between this canonical network and others probably contributes to goal-directed behavior so its disturbance is a candidate neural fingerprint underlying schizophrenia psychopathology.
 2-1	252-261	Interplay	_
 2-2	262-269	between	_
 2-3	270-274	this	_
@@ -65,6 +67,7 @@
 2-23	429-444	psychopathology	_
 2-24	445-446	.	_
 
+Text=Previous research has reported both hyper- and hypo-connectivity within the DMN, and both increased and decreased DMN coupling with the multi-modal saliency network (SN) and dorsal attention network (DAN).
 3-1	447-455	Previous	_
 3-2	456-464	research	_
 3-3	465-468	has	_
@@ -101,6 +104,7 @@
 3-34	655-656	)	_
 3-35	657-658	.	_
 
+Text=The present study systematically revisited network disruption in patients with schizophrenia using data-derived network atlases and multivariate pattern-learning algorithms in a multi-site dataset (n=325).
 4-1	659-662	The	_
 4-2	663-670	present	_
 4-3	671-676	study	_
@@ -129,6 +133,7 @@
 4-26	864-865	)	_
 4-27	866-867	.	_
 
+Text=Resting-state fluctuations in unconstrained brain states were used to estimate functional connectivity, and local volume differences between individuals were used to estimate structural co-occurrence within and between the DMN, SN, and DAN.
 5-1	868-881	Resting-state	_
 5-2	882-894	fluctuations	_
 5-3	895-897	in	_
@@ -166,6 +171,7 @@
 5-35	1107-1110	DAN	_
 5-36	1111-1112	.	_
 
+Text=In brain structure and function, sparse inverse covariance estimates of network structure were used to characterize healthy and patients with schizophrenia groups, and to identify statistically significant group differences.
 6-1	1113-1115	In	_
 6-2	1116-1121	brain	_
 6-3	1122-1131	structure	_
@@ -199,6 +205,7 @@
 6-31	1327-1338	differences	_
 6-32	1339-1340	.	_
 
+Text=Evidence did not confirm that the backbone of the DMN was the primary driver of brain dysfunction in schizophrenia.
 7-1	1341-1349	Evidence	_
 7-2	1350-1353	did	_
 7-3	1354-1357	not	_
@@ -220,6 +227,7 @@
 7-19	1442-1455	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-20	1456-1457	.	_
 
+Text=Instead, functional and structural aberrations were frequently located outside of the DMN core, such as in the anterior temporoparietal junction and precuneus.
 8-1	1458-1465	Instead	_
 8-2	1466-1467	,	_
 8-3	1468-1478	functional	_
@@ -246,6 +254,7 @@
 8-24	1609-1618	precuneus	_
 8-25	1619-1620	.	_
 
+Text=Additionally, functional covariation analyses highlighted dysfunctional DMN-DAN coupling, while structural covariation results highlighted aberrant DMN-SN coupling.
 9-1	1621-1633	Additionally	_
 9-2	1634-1635	,	_
 9-3	1636-1646	functional	_
@@ -266,6 +275,7 @@
 9-18	1778-1786	coupling	_
 9-19	1787-1788	.	_
 
+Text=Our findings highlight the role of the DMN core and its relation to canonical networks in schizophrenia and underline the importance of large-scale neural interactions as effective biomarkers and indicators of how to tailor psychiatric care to single patients.
 10-1	1789-1792	Our	_
 10-2	1793-1801	findings	_
 10-3	1802-1811	highlight	_
@@ -307,6 +317,7 @@
 10-39	2040-2048	patients	_
 10-40	2049-2050	.	_
 
+Text=MATERIALS AND METHODS Data resources This study considered magnetic resonance imaging (MRI) data from 5 different population samples acquired in Europe and USA: Aachen, Goettingen, Groeningen, Lille, and COBRE.
 11-1	2051-2060	MATERIALS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	2061-2064	AND	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	2065-2072	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -345,6 +356,7 @@
 11-36	2262-2267	COBRE	_
 11-37	2268-2269	.	_
 
+Text=Resting-state functional connectivity (RSFC) and voxel-based morphometric (VBM) data were collected from a total of 482 participants, 241 patients with schizophrenia and 241 healthy controls.
 12-1	2270-2283	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalCapacityRatingScale
 12-2	2284-2294	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalCapacityRatingScale
 12-3	2295-2307	connectivity	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalCapacityRatingScale
@@ -377,6 +389,7 @@
 12-30	2457-2465	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 12-31	2466-2467	.	_
 
+Text=Given the present goal to directly compare functional brain recordings and structural brain scans, we further considered only those participants who provided both RSFC and VBM in the database.
 13-1	2468-2473	Given	_
 13-2	2474-2477	the	_
 13-3	2478-2485	present	_
@@ -409,6 +422,7 @@
 13-30	2652-2660	database	_
 13-31	2661-2662	.	_
 
+Text=These control and disease groups (n=325) were matched for age within and across sites (see Supplementary Table 1 for details).
 14-1	2663-2668	These	_
 14-2	2669-2676	control	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 14-3	2677-2680	and	_
@@ -435,6 +449,7 @@
 14-24	2791-2792	)	_
 14-25	2793-2794	.	_
 
+Text=No participant in the healthy group had a record of neurological or psychiatric disorders.
 15-1	2795-2797	No	_
 15-2	2798-2809	participant	_
 15-3	2810-2812	in	_
@@ -451,6 +466,7 @@
 15-14	2875-2884	disorders	_
 15-15	2885-2886	.	_
 
+Text=Each participant in the schizophrenia group had been diagnosed by a board-certified psychiatrist in accordance with the clinical criteria of the International Classification of Diseases (ICD-10) or the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV-TR).
 16-1	2887-2891	Each	_
 16-2	2892-2903	participant	_
 16-3	2904-2906	in	_
@@ -493,6 +509,7 @@
 16-40	3157-3158	)	_
 16-41	3159-3160	.	_
 
+Text=All acquisition sites used 3T MRI scanners (see Supplementary Table 2 for details).
 17-1	3161-3164	All	_
 17-2	3165-3176	acquisition	_
 17-3	3177-3182	sites	_
@@ -510,6 +527,7 @@
 17-15	3244-3245	)	_
 17-16	3246-3247	.	_
 
+Text=For the acquisition of functional brain maps (i.e., RSFC), fMRI scans of blood-oxygen-level-dependent (BOLD) signal were recorded from the participants who were instructed to lie still during the scanning session and to let the mind wander.
 18-1	3248-3251	For	_
 18-2	3252-3255	the	_
 18-3	3256-3267	acquisition	_
@@ -554,6 +572,7 @@
 18-42	3487-3493	wander	_
 18-43	3494-3495	.	_
 
+Text=A post-scan interview confirmed that participants adhered to these instructions and did not fall asleep.
 19-1	3496-3497	A	_
 19-2	3498-3507	post-scan	_
 19-3	3508-3517	interview	_
@@ -571,6 +590,7 @@
 19-15	3593-3599	asleep	_
 19-16	3600-3601	.	_
 
+Text=For the acquisition of structural brain maps (i.e., VBM), 3D T1 MRI scans were recorded from each participant.
 20-1	3602-3605	For	_
 20-2	3606-3609	the	_
 20-3	3610-3621	acquisition	_
@@ -595,6 +615,7 @@
 20-22	3704-3715	participant	_
 20-23	3716-3717	.	_
 
+Text=All participants gave written informed consent to participate in the study, which was approved by the ethics committee of the RWTH Aachen University, Germany.
 21-1	3718-3721	All	_
 21-2	3722-3734	participants	_
 21-3	3735-3739	gave	_
@@ -623,6 +644,7 @@
 21-26	3870-3877	Germany	_
 21-27	3878-3879	.	_
 
+Text=Note that all phenotypic information has been anonymized for tabulation.
 22-1	3880-3884	Note	_
 22-2	3885-3889	that	_
 22-3	3890-3893	all	_
@@ -635,6 +657,7 @@
 22-10	3941-3951	tabulation	_
 22-11	3952-3953	.	_
 
+Text=Brain function: Resting-state fMRI To measure functional activity of brain regions, we analyzed resting-state EPI (echo-planar imaging) scans from standard BOLD acquisitions (see Supplementary Table 2 for details).
 23-1	3954-3959	Brain	_
 23-2	3960-3968	function	_
 23-3	3969-3970	:	_
@@ -671,6 +694,7 @@
 23-34	4172-4173	)	_
 23-35	4174-4175	.	_
 
+Text=The preprocessing was performed in SPM8 (Statistical Parametric Mapping, Wellcome Department of Imaging Neuroscience, London, UK, http: //www.fil.ion.ucl.ac.uk/spm/) run under MATLAB R2014a (Mathworks, Natick, MA, US).
 24-1	4176-4179	The	_
 24-2	4180-4193	preprocessing	_
 24-3	4194-4197	was	_
@@ -711,6 +735,7 @@
 24-38	4404-4405	)	_
 24-39	4406-4407	.	_
 
+Text=The first 4 brain scans were discarded to allow for magnetic field saturation.
 25-1	4408-4411	The	_
 25-2	4412-4417	first	_
 25-3	4418-4419	4	_
@@ -726,6 +751,7 @@
 25-13	4475-4485	saturation	_
 25-14	4486-4487	.	_
 
+Text=The EPI images were corrected for head movement by affine registration using a 2-pass procedure.
 26-1	4488-4491	The	_
 26-2	4492-4495	EPI	_
 26-3	4496-4502	images	_
@@ -743,6 +769,7 @@
 26-15	4574-4583	procedure	_
 26-16	4584-4585	.	_
 
+Text=To further reduce spurious correlations induced by motion, variance that could be explained by the head motion was removed from each voxel ’ s time series.
 27-1	4586-4588	To	_
 27-2	4589-4596	further	_
 27-3	4597-4603	reduce	_
@@ -772,6 +799,7 @@
 27-27	4735-4741	series	_
 27-28	4742-4743	.	_
 
+Text=In particular, in adherence to previously published evaluations, we removed nuisance signals according to: a) the 6 motion parameters derived from the image realignment, b) their first derivatives, and c) the respective squared terms (i.e., 24 parameter regression).
 28-1	4744-4746	In	_
 28-2	4747-4757	particular	_
 28-3	4758-4759	,	_
@@ -823,6 +851,7 @@
 28-49	5019-5020	)	_
 28-50	5021-5022	.	_
 
+Text=These corrections have been shown to increase specificity and sensitivity of functional connectivity analyses and to detect valid signal correlation at rest.
 29-1	5023-5028	These	_
 29-2	5029-5040	corrections	_
 29-3	5041-5045	have	_
@@ -847,6 +876,7 @@
 29-22	5175-5179	rest	_
 29-23	5180-5181	.	_
 
+Text=Motion correction was applied in all analyses.
 30-1	5182-5188	Motion	_
 30-2	5189-5199	correction	_
 30-3	5200-5203	was	_
@@ -856,6 +886,7 @@
 30-7	5219-5227	analyses	_
 30-8	5228-5229	.	_
 
+Text=We did not perform global signal regression.
 31-1	5230-5232	We	_
 31-2	5233-5236	did	_
 31-3	5237-5240	not	_
@@ -865,6 +896,7 @@
 31-7	5263-5273	regression	_
 31-8	5274-5275	.	_
 
+Text=Finally, the signal time series were band-pass filtered to preserve frequencies between 0.01 and 0.08 Hz which have previously been associated with fluctuations of neuronal activity, and are least impacted by physiological artifacts such as heart rate and respirations.
 32-1	5276-5283	Finally	_
 32-2	5284-5285	,	_
 32-3	5286-5289	the	_
@@ -908,6 +940,7 @@
 32-41	5534-5546	respirations	_
 32-42	5547-5548	.	_
 
+Text=Brain structure: Voxel-based morphometry MRI To measure the local brain volume across individuals, a high-resolution anatomical image was acquired from each participant using conventional scanning sequences.
 33-1	5549-5554	Brain	_
 33-2	5555-5564	structure	_
 33-3	5565-5566	:	_
@@ -938,6 +971,7 @@
 33-28	5748-5757	sequences	_
 33-29	5758-5759	.	_
 
+Text=Anatomical scans were preprocessed with the VBM8 toolbox (https: //dbm.neuro.uni-jena.de/vbm) in SPM8 using standard settings (DARTEL normalization to the ICBM-152 template, affine and non-linear spatial normalization).
 34-1	5760-5770	Anatomical	_
 34-2	5771-5776	scans	_
 34-3	5777-5781	were	_
@@ -972,6 +1006,7 @@
 34-32	5983-5984	)	_
 34-33	5985-5986	.	_
 
+Text=Within a unified segmentation model, the brain scans were corrected for bias-field inhomogeneities.
 35-1	5987-5993	Within	_
 35-2	5994-5995	a	_
 35-3	5996-6003	unified	_
@@ -988,6 +1023,7 @@
 35-14	6071-6086	inhomogeneities	_
 35-15	6087-6088	.	_
 
+Text=The brain tissue was segmented into gray matter, white matter, and cerebrospinal fluid, while adjusting for partial volume effects.
 36-1	6089-6092	The	_
 36-2	6093-6098	brain	_
 36-3	6099-6105	tissue	_
@@ -1012,6 +1048,7 @@
 36-22	6215-6222	effects	_
 36-23	6223-6224	.	_
 
+Text=We performed nonlinear modulation of segmented images to account for the amount of expansion and contraction applied during normalization using the nonlinear only modulation function within the VBM8 toolbox.
 37-1	6225-6227	We	_
 37-2	6228-6237	performed	_
 37-3	6238-6247	nonlinear	_
@@ -1043,6 +1080,7 @@
 37-29	6424-6431	toolbox	_
 37-30	6432-6433	.	_
 
+Text=The ensuing adjusted volume measurements represented the amount of gray matter corrected for individual brain sizes.
 38-1	6434-6437	The	_
 38-2	6438-6445	ensuing	_
 38-3	6446-6454	adjusted	_
@@ -1061,6 +1099,7 @@
 38-16	6544-6549	sizes	_
 38-17	6550-6551	.	_
 
+Text=Regions of interest The DMN is essentially composed of four areas (which we refer to throughout as network nodes), including the dorsomedial prefrontal cortex (DMPFC), the posteromedial cortex (PMC), as well as the left and right temporoparietal junctions (TPJs).
 39-1	6552-6559	Regions	_
 39-2	6560-6562	of	_
 39-3	6563-6571	interest	_
@@ -1113,6 +1152,7 @@
 39-50	6824-6825	)	_
 39-51	6826-6827	.	_
 
+Text=We note that the common approach is to examine the DMN with these nodes as targets of investigation, assuming that the nodes of the DMN are functionally homogeneous.
 40-1	6828-6830	We	_
 40-2	6831-6835	note	_
 40-3	6836-6840	that	_
@@ -1144,6 +1184,7 @@
 40-29	6982-6993	homogeneous	_
 40-30	6994-6995	.	_
 
+Text=Nevertheless, the functional contribution of each individual node to the various abstract cognitive processes maintained by the overall network remains inconclusive (cf .).
 41-1	6996-7008	Nevertheless	_
 41-2	7009-7010	,	_
 41-3	7011-7014	the	_
@@ -1172,6 +1213,7 @@
 41-26	7169-7170	)	_
 41-27	7171-7172	.	_
 
+Text=Indeed, there is recent empirical evidence that the individual nodes of the DMN segregate into distinct subnodes.
 42-1	7173-7179	Indeed	_
 42-2	7180-7181	,	_
 42-3	7182-7187	there	_
@@ -1192,6 +1234,7 @@
 42-18	7278-7286	subnodes	_
 42-19	7287-7288	.	_
 
+Text=These data support the notion that neurobiologically meaningful subdivisions within each node of the DMN exist and could be profitably studied in the context of both healthy and abnormal human brain function.
 43-1	7289-7294	These	_
 43-2	7295-7299	data	_
 43-3	7300-7307	support	_
@@ -1226,6 +1269,7 @@
 43-32	7488-7496	function	_
 43-33	7497-7498	.	_
 
+Text=Indeed, in a series of recent data-driven studies, the individual nodes of the DMN have been segregated into distinct subnodes based on local differences in functional interaction patterns with the rest of the brain, an established analysis technique called connectivity-based parcellation.
 44-1	7499-7505	Indeed	_
 44-2	7506-7507	,	_
 44-3	7508-7510	in	_
@@ -1272,6 +1316,7 @@
 44-44	7779-7791	parcellation	_
 44-45	7792-7793	.	_
 
+Text=This technique assumes that a ROI may be divided into distinct subregions based on its whole-brain connectivity profiles.
 45-1	7794-7798	This	_
 45-2	7799-7808	technique	_
 45-3	7809-7816	assumes	_
@@ -1292,6 +1337,7 @@
 45-18	7906-7914	profiles	_
 45-19	7915-7916	.	_
 
+Text=For each considered DMN node, connectivity-based parcellation has previously demonstrated a subdivision of the ROI into cluster with topographical boundary definitions which can be reused in other studies.
 46-1	7917-7920	For	_
 46-2	7921-7925	each	_
 46-3	7926-7936	considered	_
@@ -1323,6 +1369,7 @@
 46-29	8115-8122	studies	_
 46-30	8123-8124	.	_
 
+Text=First, we used the DMN atlas with the DMPFC, PMC, and both TPJs as composite nodes (4 ROIs), each recombining its constituent subnodes (Fig.
 47-1	8125-8130	First	_
 47-2	8131-8132	,	_
 47-3	8133-8135	we	_
@@ -1356,11 +1403,13 @@
 47-31	8268-8271	Fig	_
 47-32	8272-8273	.	_
 
+Text=1.A .).
 48-1	8274-8277	1.A	_
 48-2	8278-8279	.	_
 48-3	8280-8281	)	_
 48-4	8282-8283	.	_
 
+Text=The covariation analyses based on this ROI set examined the DMN at the conventional level of granularity: that is of network nodes.
 49-1	8284-8287	The	_
 49-2	8288-8299	covariation	_
 49-3	8300-8308	analyses	_
@@ -1386,6 +1435,7 @@
 49-23	8410-8415	nodes	_
 49-24	8416-8417	.	_
 
+Text=This served as a point of comparison for how this major brain network has most frequently been studied in previous brain-imaging research.
 50-1	8418-8422	This	_
 50-2	8423-8429	served	_
 50-3	8430-8432	as	_
@@ -1410,6 +1460,7 @@
 50-22	8547-8555	research	_
 50-23	8556-8557	.	_
 
+Text=Second, we used the full DMN atlas (12 ROIs) where the DMPFC, PMC, and the TPJs are represented as more fine-grained subnodes (Fig.
 51-1	8558-8564	Second	_
 51-2	8565-8566	,	_
 51-3	8567-8569	we	_
@@ -1441,11 +1492,13 @@
 51-29	8691-8694	Fig	_
 51-30	8695-8696	.	_
 
+Text=1.B .).
 52-1	8697-8700	1.B	_
 52-2	8701-8702	.	_
 52-3	8703-8704	)	_
 52-4	8705-8706	.	_
 
+Text=The DMPFC was segregated into a left and right caudal subnode and a rostro-ventral and rostro-dorsal part (left and right cDMPFC, rvDMPFC and rdDMPFC).
 53-1	8707-8710	The	_
 53-2	8711-8716	DMPFC	_
 53-3	8717-8720	was	_
@@ -1475,6 +1528,7 @@
 53-27	8859-8860	)	_
 53-28	8861-8862	.	_
 
+Text=Note that among the midline structures of the DMN, only the DMPFC yielded a division along the right versus left hemisphere in the DMN subnode atlas.
 54-1	8863-8867	Note	_
 54-2	8868-8872	that	_
 54-3	8873-8878	among	_
@@ -1504,6 +1558,7 @@
 54-27	9007-9012	atlas	_
 54-28	9013-9014	.	_
 
+Text=The left and right TPJs were partitioned into an anterior and posterior subnode (left and right aTPJ and pTPJ).
 55-1	9015-9018	The	_
 55-2	9019-9023	left	_
 55-3	9024-9027	and	_
@@ -1527,6 +1582,7 @@
 55-21	9126-9127	)	_
 55-22	9128-9129	.	_
 
+Text=The PMC was parcellated into 4 subnodes, including the precuneus (PREC), the ventral and dorsal posterior cingulate cortex (vPCC and dPCC), and the retrosplenial cortex (RSC).
 56-1	9130-9133	The	_
 56-2	9134-9137	PMC	_
 56-3	9138-9141	was	_
@@ -1564,6 +1620,7 @@
 56-35	9312-9313	)	_
 56-36	9314-9315	.	_
 
+Text=The corresponding covariation analyses examined the hypothesis that the DMN can be shown to reveal richer structure in brain signals when measured by conventional MRI scanners at the level of network subnodes.
 57-1	9316-9319	The	_
 57-2	9320-9333	corresponding	_
 57-3	9334-9345	covariation	_
@@ -1598,6 +1655,7 @@
 57-32	9516-9524	subnodes	_
 57-33	9525-9526	.	_
 
+Text=Third, the DMN subnode atlas (12 ROIs) was supplemented by nodes from two multi-modal networks (Fig.
 58-1	9527-9532	Third	_
 58-2	9533-9534	,	_
 58-3	9535-9538	the	_
@@ -1620,6 +1678,7 @@
 58-20	9627-9630	Fig	_
 58-21	9631-9632	.	_
 
+Text=1.C): (i) the saliency network, including the midcingulate cortex (MCC), the bilateral anterior insula (AI) and the amygdala (AM), and (ii) the dorsal attention network, including the dorsolateral prefrontal cortex (DLPFC) and the intraparietal sulcus (IPS) bilaterally (9 additional ROIs outside of the DMN).
 59-1	9633-9636	1.C	_
 59-2	9637-9638	)	_
 59-3	9639-9640	:	_
@@ -1688,6 +1747,7 @@
 59-66	9962-9963	)	_
 59-67	9964-9965	.	_
 
+Text=Covariation analyses examined the hypothesis that the DMN subnodes also display characteristic interactions with the nodes of other canonical brain networks.
 60-1	9966-9977	Covariation	_
 60-2	9978-9986	analyses	_
 60-3	9987-9995	examined	_
@@ -1711,6 +1771,7 @@
 60-21	10114-10122	networks	_
 60-22	10123-10124	.	_
 
+Text=Indeed, the DAN and the SN have been implicated in attentional switching and reallocation of focus, processes that are markedly disrupted in schizophrenia.
 61-1	10125-10131	Indeed	_
 61-2	10132-10133	,	_
 61-3	10134-10137	the	_
@@ -1738,6 +1799,7 @@
 61-25	10268-10281	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 61-26	10282-10283	.	_
 
+Text=Based on coherent connectivity profiles, the DMPFC was decomposed into two caudal and two rostral subnodes.
 62-1	10284-10289	Based	_
 62-2	10290-10292	on	_
 62-3	10293-10301	coherent	_
@@ -1757,6 +1819,7 @@
 62-17	10383-10391	subnodes	_
 62-18	10392-10393	.	_
 
+Text=The PMC was partitioned into a ventral and dorsal subnode in the posterior cingulate cortex and one in the retrosplenial cortex and one in the precuneus.
 63-1	10394-10397	The	_
 63-2	10398-10401	PMC	_
 63-3	10402-10405	was	_
@@ -1785,6 +1848,7 @@
 63-26	10537-10546	precuneus	_
 63-27	10547-10548	.	_
 
+Text=Finally, the left and right TPJs of the DMN were decomposed into an anterior and a posterior subnode.
 64-1	10549-10556	Finally	_
 64-2	10557-10558	,	_
 64-3	10559-10562	the	_
@@ -1806,6 +1870,7 @@
 64-19	10643-10650	subnode	_
 64-20	10651-10652	.	_
 
+Text=Adopting such a fine-grained perspective on DMN organization may provide new insights into the pathophysiology of schizophrenia.
 65-1	10653-10661	Adopting	_
 65-2	10662-10666	such	_
 65-3	10667-10668	a	_
@@ -1825,6 +1890,7 @@
 65-17	10767-10780	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 65-18	10781-10782	.	_
 
+Text=These node and subnode definitions of the DMN were used as 3 different ROI sets (cf.
 66-1	10783-10788	These	_
 66-2	10789-10793	node	_
 66-3	10794-10797	and	_
@@ -1844,6 +1910,7 @@
 66-17	10865-10867	cf	_
 66-18	10868-10869	.	_
 
+Text=Supplementary Table 3): In sum, the covariation analyses of functional coupling and volumetric coupling performed in the present study were based on 3 different sets of previously established regions of interest.
 67-1	10870-10883	Supplementary	_
 67-2	10884-10889	Table	_
 67-3	10890-10891	3	_
@@ -1880,6 +1947,7 @@
 67-34	11076-11084	interest	_
 67-35	11085-11086	.	_
 
+Text=Collectively, the analyses are used to probe the DMN at different spatial resolutions and to systematically evaluate their relations to other major brain networks.
 68-1	11087-11099	Collectively	_
 68-2	11100-11101	,	_
 68-3	11102-11105	the	_
@@ -1907,6 +1975,7 @@
 68-25	11242-11250	networks	_
 68-26	11251-11252	.	_
 
+Text=All of the regions of interest used in this study are available online for transparency and reuse via a NeuroVault permanent link (http: //neurovault.org/collections/2216/).
 69-1	11253-11256	All	_
 69-2	11257-11259	of	_
 69-3	11260-11263	the	_
@@ -1936,6 +2005,7 @@
 69-27	11427-11428	)	_
 69-28	11429-11430	.	_
 
+Text=Signal extraction Using the three sets of ROIs described above, quantitative measures of functional activity and grey-matter volume were extracted within the DMN, DAN, and SN ROIs in every participant.
 70-1	11431-11437	Signal	_
 70-2	11438-11448	extraction	_
 70-3	11449-11454	Using	_
@@ -1971,6 +2041,7 @@
 70-33	11623-11634	participant	_
 70-34	11635-11636	.	_
 
+Text=Note that all analyses were constrained to these regions of interest.
 71-1	11637-11641	Note	_
 71-2	11642-11646	that	_
 71-3	11647-11650	all	_
@@ -1984,6 +2055,7 @@
 71-11	11697-11705	interest	_
 71-12	11706-11707	.	_
 
+Text=For extracting relevant signal from the functional or structural brain scan, the ROIs served as topographic masks used to average the MRI signal across the voxels belonging to a given ROI.
 72-1	11708-11711	For	_
 72-2	11712-11722	extracting	_
 72-3	11723-11731	relevant	_
@@ -2018,6 +2090,7 @@
 72-32	11893-11896	ROI	_
 72-33	11897-11898	.	_
 
+Text=In RSFC, each target region was represented by the average BOLD signal across all voxels of that ROI.
 73-1	11899-11901	In	_
 73-2	11902-11906	RSFC	_
 73-3	11907-11908	,	_
@@ -2039,6 +2112,7 @@
 73-19	11997-12000	ROI	_
 73-20	12001-12002	.	_
 
+Text=This feature-engineering strategy yielded as many functional brain variables as target regions in the ROI set for the participants.
 74-1	12003-12007	This	_
 74-2	12008-12027	feature-engineering	_
 74-3	12028-12036	strategy	_
@@ -2060,6 +2134,7 @@
 74-19	12121-12133	participants	_
 74-20	12134-12135	.	_
 
+Text=In VBM, each target region in the respective set of ROIs was represented by the average gray matter volume across all ROI voxels.
 75-1	12136-12138	In	_
 75-2	12139-12142	VBM	_
 75-3	12143-12144	,	_
@@ -2086,6 +2161,7 @@
 75-24	12259-12265	voxels	_
 75-25	12266-12267	.	_
 
+Text=Analogously, this way of engineering morphological brain features yielded as many volumetric brain variables per participant as the total number of ROIs in the current set.
 76-1	12268-12279	Analogously	_
 76-2	12280-12281	,	_
 76-3	12282-12286	this	_
@@ -2115,6 +2191,7 @@
 76-27	12437-12440	set	_
 76-28	12441-12442	.	_
 
+Text=All ROI-wise functional or structural time series were transformed into z-scores by mean centering and unit-variance scaling.
 77-1	12443-12446	All	_
 77-2	12447-12455	ROI-wise	_
 77-3	12456-12466	functional	_
@@ -2134,6 +2211,7 @@
 77-17	12560-12567	scaling	_
 77-18	12568-12569	.	_
 
+Text=As part of the confound-removal procedure, variance that could be explained by the factors “ site, ” “ age, ” and “ gender ” as well as their two-way interactions was regressed out from the corresponding features.
 78-1	12570-12572	As	_
 78-2	12573-12577	part	_
 78-3	12578-12580	of	_
@@ -2176,6 +2254,7 @@
 78-40	12777-12785	features	_
 78-41	12786-12787	.	_
 
+Text=Measuring network covariation: Sparse inverse covariance estimation Covariance has been argued to be a key notion when estimating the statistical dependencies characteristic of small-scale neural circuits and large-scale brain networks.
 79-1	12788-12797	Measuring	_
 79-2	12798-12805	network	_
 79-3	12806-12817	covariation	_
@@ -2209,6 +2288,7 @@
 79-31	13016-13024	networks	_
 79-32	13025-13026	.	_
 
+Text=In the present study, we have performed formal inference of salient covariance relations in functional (i.e., RSFC) and volumetric (i.e., VBM) networks (or graphs, mathematically speaking) using sparse inverse covariance estimation.
 80-1	13027-13029	In	_
 80-2	13030-13033	the	_
 80-3	13034-13041	present	_
@@ -2252,6 +2332,7 @@
 80-41	13258-13268	estimation	_
 80-42	13269-13270	.	_
 
+Text=The automatic identification of networked organization in graphical models is an important step supporting the transition from descriptive statistics such as Pearson ’ s correlation coefficient to generative models that capture higher-order interactions.
 81-1	13271-13274	The	_
 81-2	13275-13284	automatic	_
 81-3	13285-13299	identification	_
@@ -2287,6 +2368,7 @@
 81-33	13512-13524	interactions	_
 81-34	13525-13526	.	_
 
+Text=Here, the employed statistical estimator represents an adaptation of Lasso-like regression models to Gaussian graphical models, an approach that has recently been adapted for application into neuroimaging data.
 82-1	13527-13531	Here	_
 82-2	13532-13533	,	_
 82-3	13534-13537	the	_
@@ -2319,6 +2401,7 @@
 82-30	13734-13738	data	_
 82-31	13739-13740	.	_
 
+Text=The predictive validity of the derived probabilistic descriptions of the coupling properties in DMN function and volume was ascertained by cross-validation (3 folds).
 83-1	13741-13744	The	_
 83-2	13745-13755	predictive	_
 83-3	13756-13764	validity	_
@@ -2346,6 +2429,7 @@
 83-25	13907-13908	)	_
 83-26	13909-13910	.	_
 
+Text=These schemes ensured pattern generalization by measuring the goodness of fit in unseen data as a proxy for extrapolation to the general population.
 84-1	13911-13916	These	_
 84-2	13917-13924	schemes	_
 84-3	13925-13932	ensured	_
@@ -2371,6 +2455,7 @@
 84-23	14048-14058	population	_
 84-24	14059-14060	.	_
 
+Text=This approach facilitated model selection for hyper-parameter choice with an iteratively refined grid based on the log-likelihood score on left-out brain data (default parameters were chosen according to).
 85-1	14061-14065	This	_
 85-2	14066-14074	approach	_
 85-3	14075-14086	facilitated	_
@@ -2403,6 +2488,7 @@
 85-30	14266-14267	)	_
 85-31	14268-14269	.	_
 
+Text=In a first step, we have computed the empirical covariance matrix (Fig.
 86-1	14270-14272	In	_
 86-2	14273-14274	a	_
 86-3	14275-14280	first	_
@@ -2419,10 +2505,12 @@
 86-14	14339-14342	Fig	_
 86-15	14343-14344	.	_
 
+Text=2A).
 87-1	14345-14347	2A	_
 87-2	14348-14349	)	_
 87-3	14350-14351	.	_
 
+Text=This simple second-order statistic reflects how strongly the times series of ROI pairs covary (in terms of functional coupling in the RSFC analysis or volumetric coupling in the VBM analysis).
 88-1	14352-14356	This	_
 88-2	14357-14363	simple	_
 88-3	14364-14376	second-order	_
@@ -2457,6 +2545,7 @@
 88-32	14544-14545	)	_
 88-33	14546-14547	.	_
 
+Text=The empirical covariance matrix is given by where χ∈ℝnxp denotes the input dataset with p variables (i.e., functional brain signals averaged per ROI for the RSFC analysis and structural brain signals averaged per ROI for the VBM analysis) and n samples (i.e., brain scans).
 89-1	14548-14551	The	_
 89-2	14552-14561	empirical	_
 89-3	14562-14572	covariance	_
@@ -2509,6 +2598,7 @@
 89-50	14825-14826	)	_
 89-51	14827-14828	.	_
 
+Text=χTχ denotes the inner product, the multiplication of the matrix χ with its transpose χT.
 90-1	14829-14832	χTχ	_
 90-2	14833-14840	denotes	_
 90-3	14841-14844	the	_
@@ -2527,6 +2617,7 @@
 90-16	14915-14917	χT	_
 90-17	14918-14919	.	_
 
+Text=The signed values in the covariance matrix indicate the direction of the linear relationship between two variables.
 91-1	14920-14923	The	_
 91-2	14924-14930	signed	_
 91-3	14931-14937	values	_
@@ -2546,6 +2637,7 @@
 91-17	15025-15034	variables	_
 91-18	15035-15036	.	_
 
+Text=This way of capturing the covariation in signal amplitude between any two ROIs was computed without statistically acknowledging the possible influence from the other ROIs.
 92-1	15037-15041	This	_
 92-2	15042-15045	way	_
 92-3	15046-15048	of	_
@@ -2573,6 +2665,7 @@
 92-25	15203-15207	ROIs	_
 92-26	15208-15209	.	_
 
+Text=Every individual value in the covariance matrix can be viewed as a Pearson ’ s linear correlation between each pair of ROIs, provided that the time series X were mean-centered and unit-variance scaled.
 93-1	15210-15215	Every	_
 93-2	15216-15226	individual	_
 93-3	15227-15232	value	_
@@ -2609,6 +2702,7 @@
 93-34	15405-15411	scaled	_
 93-35	15412-15413	.	_
 
+Text=Although the strengths of correlation between time series of ROI pairs were considered in isolation, these covariation strength estimates were likely to be confounded with each other.
 94-1	15414-15422	Although	_
 94-2	15423-15426	the	_
 94-3	15427-15436	strengths	_
@@ -2639,6 +2733,7 @@
 94-28	15592-15597	other	_
 94-29	15598-15599	.	_
 
+Text=For instance, a strong influence of ROI 1 on both ROI 2 and ROI 3 would entail high estimates of covariation between ROI 2 and ROI 3.
 95-1	15600-15603	For	_
 95-2	15604-15612	instance	_
 95-3	15613-15614	,	_
@@ -2669,6 +2764,7 @@
 95-28	15732-15733	3	_
 95-29	15734-15735	.	_
 
+Text=This confound in the correlation structure between any two given target regions may therefore not accurately indicate the underlying population-level interaction strength.
 96-1	15736-15740	This	_
 96-2	15741-15749	confound	_
 96-3	15750-15752	in	_
@@ -2693,6 +2789,7 @@
 96-22	15898-15906	strength	_
 96-23	15907-15908	.	_
 
+Text=In a second step addressing this confound and enhancing neurobiological interpretability, we computed the partial correlations via the mathematical inverse of the covariance matrix, the so-called precision matrix (Fig.
 97-1	15909-15911	In	_
 97-2	15912-15913	a	_
 97-3	15914-15920	second	_
@@ -2727,10 +2824,12 @@
 97-32	16126-16129	Fig	_
 97-33	16130-16131	.	_
 
+Text=2B).
 98-1	16132-16134	2B	_
 98-2	16135-16136	)	_
 98-3	16137-16138	.	_
 
+Text=The optimization objective is expressed by where is the empirical covariance matrix, ∥·∥1 denotes the regularization constraint of putting an 𝓁1 norm on the matrix elements lying off the diagonal of the precision matrix K, and λ controls the amount of this sparsity constraint.
 99-1	16139-16142	The	_
 99-2	16143-16155	optimization	_
 99-3	16156-16165	objective	_
@@ -2779,6 +2878,7 @@
 99-46	16407-16417	constraint	_
 99-47	16418-16419	.	_
 
+Text=In contrast to ordinary linear correlation matrix or to the empirical covariance matrix described above, this matrix estimates the covariation between every two ROIs while conditioning on the potential influence of the remaining regions.
 100-1	16420-16422	In	_
 100-2	16423-16431	contrast	_
 100-3	16432-16434	to	_
@@ -2816,6 +2916,7 @@
 100-35	16650-16657	regions	_
 100-36	16658-16659	.	_
 
+Text=In other words, the precision matrix obtains the direct covariation between two nodes within and between the DMN, SN, and DAN by accounting for partial correlations; unlike common linear correlation approaches, it does not privilege polysynaptic coupling patterns.
 101-1	16660-16662	In	_
 101-2	16663-16668	other	_
 101-3	16669-16674	words	_
@@ -2861,6 +2962,7 @@
 101-43	16920-16928	patterns	_
 101-44	16929-16930	.	_
 
+Text=Coming back to our toy example, we would thus obtain the conditionally independent proportion of covariation strength between ROI 2 and ROI 3 that is not explained by the conjoint influence from ROI 1.
 102-1	16931-16937	Coming	_
 102-2	16938-16942	back	_
 102-3	16943-16945	to	_
@@ -2898,6 +3000,7 @@
 102-35	17131-17132	1	_
 102-36	17133-17134	.	_
 
+Text=Despite its utility, this statistical approach is often challenging to apply in small samples (which is particularly the case of the VBM data in the present study).
 103-1	17135-17142	Despite	_
 103-2	17143-17146	its	_
 103-3	17147-17154	utility	_
@@ -2930,6 +3033,7 @@
 103-30	17300-17301	)	_
 103-31	17302-17303	.	_
 
+Text=In any dataset χ∈ℝnxp, considerable estimation errors can arise when the number of unknown model parameters exceeds the number of samples by.
 104-1	17304-17306	In	_
 104-2	17307-17310	any	_
 104-3	17311-17318	dataset	_
@@ -2955,6 +3059,7 @@
 104-23	17443-17445	by	_
 104-24	17446-17447	.	_
 
+Text=To overcome erroneous eigenstructure, statistical conditioning was improved by imposing sparsity assumptions by means of 𝓁1 penalization (Fig.
 105-1	17448-17450	To	_
 105-2	17451-17459	overcome	_
 105-3	17460-17469	erroneous	_
@@ -2977,6 +3082,7 @@
 105-20	17588-17591	Fig	_
 105-21	17592-17593	.	_
 
+Text=2C) of the inverse covariance estimation.
 106-1	17594-17596	2C	_
 106-2	17597-17598	)	_
 106-3	17599-17601	of	_
@@ -2986,6 +3092,7 @@
 106-7	17625-17635	estimation	_
 106-8	17636-17637	.	_
 
+Text=In the case of multivariate Gaussian models, conditional independence between ROIs is given by the zero entries in the precision (i.e., inverse covariance) matrix.
 107-1	17638-17640	In	_
 107-2	17641-17644	the	_
 107-3	17645-17649	case	_
@@ -3016,6 +3123,7 @@
 107-28	17798-17804	matrix	_
 107-29	17805-17806	.	_
 
+Text=Incorporating this frequentist prior automatically reduces the model complexity by identifying the most important pairs of network nodes and ignoring the remainder.
 108-1	17807-17820	Incorporating	_
 108-2	17821-17825	this	_
 108-3	17826-17837	frequentist	_
@@ -3040,6 +3148,7 @@
 108-22	17961-17970	remainder	_
 108-23	17971-17972	.	_
 
+Text=In the case of graphs, selecting those covariance parameters in the space of possible covariance models with sparse support (i.e., many zero-valued parameters in the graph) equates to limiting the number of graph edges.
 109-1	17973-17975	In	_
 109-2	17976-17979	the	_
 109-3	17980-17984	case	_
@@ -3080,6 +3189,7 @@
 109-38	18190-18195	edges	_
 109-39	18196-18197	.	_
 
+Text=This sparse model estimation automatically balances the compromise between biasing towards model simplicity (hence, neurobiological interpretability) and obtaining optimal model fits to brain data.
 110-1	18198-18202	This	_
 110-2	18203-18209	sparse	_
 110-3	18210-18215	model	_
@@ -3109,6 +3219,7 @@
 110-27	18393-18397	data	_
 110-28	18398-18399	.	_
 
+Text=The degree of 𝓁1 penalization, controlled by the coefficient λ, was evaluated and selected in the cross-validation procedure.
 111-1	18400-18403	The	_
 111-2	18404-18410	degree	_
 111-3	18411-18413	of	_
@@ -3131,6 +3242,7 @@
 111-20	18517-18526	procedure	_
 111-21	18527-18528	.	_
 
+Text=One important consequence of 𝓁1 penalization is that searching the covariance structure reduces to a convex problem with a unique solution.
 112-1	18529-18532	One	_
 112-2	18533-18542	important	_
 112-3	18543-18554	consequence	_
@@ -3154,6 +3266,7 @@
 112-21	18659-18667	solution	_
 112-22	18668-18669	.	_
 
+Text=Hence, rerunning the sparse inverse covariance estimation with different random initializations of the model parameters will yield an identical solution each time.
 113-1	18670-18675	Hence	_
 113-2	18676-18677	,	_
 113-3	18678-18687	rerunning	_
@@ -3179,6 +3292,7 @@
 113-23	18829-18833	time	_
 113-24	18834-18835	.	_
 
+Text=In sum, detailed probabilistic models of network coupling were automatically derived from multi-site brain data by using sparse inverse covariance estimation in both groups (i.e., healthy subjects and patients with schizophrenia).
 114-1	18836-18838	In	_
 114-2	18839-18842	sum	_
 114-3	18843-18844	,	_
@@ -3216,6 +3330,7 @@
 114-35	19068-19069	)	_
 114-36	19070-19071	.	_
 
+Text=Models derived from RSFC data could be interpreted as summarizing the most important functional connections, while models derived from VBM data could be interpreted as summarizing the most important volumetric co-occurrence.
 115-1	19072-19078	Models	_
 115-2	19079-19086	derived	_
 115-3	19087-19091	from	_
@@ -3250,6 +3365,7 @@
 115-32	19283-19296	co-occurrence	_
 115-33	19297-19298	.	_
 
+Text=Testing for significant disturbance in DMN covariation Sparse inverse covariance estimation based on RSFC and separately on VBM was to be conducted separately in the healthy group and the group of patients with schizophrenia.
 116-1	19299-19306	Testing	_
 116-2	19307-19310	for	_
 116-3	19311-19322	significant	_
@@ -3286,6 +3402,7 @@
 116-34	19510-19523	schizophrenia	_
 116-35	19524-19525	.	_
 
+Text=Separate precision matrices were thus obtained in normal controls and people with schizophrenia.
 117-1	19526-19534	Separate	_
 117-2	19535-19544	precision	_
 117-3	19545-19553	matrices	_
@@ -3301,6 +3418,7 @@
 117-13	19608-19621	schizophrenia	_
 117-14	19622-19623	.	_
 
+Text=Statistical significance for group differences (Fig.
 118-1	19624-19635	Statistical	_
 118-2	19636-19648	significance	_
 118-3	19649-19652	for	_
@@ -3310,6 +3428,7 @@
 118-7	19673-19676	Fig	_
 118-8	19677-19678	.	_
 
+Text=2D) was assessed based on (family-wise error, multiple-comparison corrected) p-values for the multivariate DMN covariation based on bootstrapping for non-parametric hypothesis testing.
 119-1	19679-19681	2D	_
 119-2	19682-19683	)	_
 119-3	19684-19687	was	_
@@ -3338,6 +3457,7 @@
 119-26	19859-19866	testing	_
 119-27	19867-19868	.	_
 
+Text=A series of bootstrap samples (n=1000) were drawn with replacement from the healthy brain data (i.e., RSFC data for functional connectivity and VBM data for the volumetric co-occurrence).
 120-1	19869-19870	A	_
 120-2	19871-19877	series	_
 120-3	19878-19880	of	_
@@ -3373,6 +3493,7 @@
 120-33	20059-20060	)	_
 120-34	20061-20062	.	_
 
+Text=For each of the thus generated 1000 alternative dataset realizations, we performed all above steps of the sparse inverse covariance estimation.
 121-1	20063-20066	For	_
 121-2	20067-20071	each	_
 121-3	20072-20074	of	_
@@ -3397,6 +3518,7 @@
 121-22	20196-20206	estimation	_
 121-23	20207-20208	.	_
 
+Text=This computation generated a null distribution of possible covariation estimates for every ROI-ROI relation in healthy individuals.
 122-1	20209-20213	This	_
 122-2	20214-20225	computation	_
 122-3	20226-20235	generated	_
@@ -3416,6 +3538,7 @@
 122-17	20328-20339	individuals	_
 122-18	20340-20341	.	_
 
+Text=Bootstrapping thus provided interval estimates that indicated how each coupling strength of the DMN was expected to be distributed in the general population.
 123-1	20342-20355	Bootstrapping	_
 123-2	20356-20360	thus	_
 123-3	20361-20369	provided	_
@@ -3441,6 +3564,7 @@
 123-23	20488-20498	population	_
 123-24	20499-20500	.	_
 
+Text=Statistically significant differences between the healthy group and the group of patients with schizophrenia were then tested at the threshold corresponding to p <0.001 by assessing whether the true coupling strength in individuals with schizophrenia was higher or lower than 99.9% of the coupling strengths in the healthy population.
 124-1	20501-20514	Statistically	_
 124-2	20515-20526	significant	_
 124-3	20527-20538	differences	_
@@ -3494,6 +3618,7 @@
 124-51	20826-20836	population	_
 124-52	20837-20838	.	_
 
+Text=Note that, in VBM data, we have applied a more lenient threshold corresponding to p <0.05, which led to statistical significance when structural covariation in schizophrenia exceeded the healthy distribution in 95% of the bootstrap samples.
 125-1	20839-20843	Note	_
 125-2	20844-20848	that	_
 125-3	20849-20850	,	_
@@ -3537,6 +3662,7 @@
 125-41	21076-21083	samples	_
 125-42	21084-21085	.	_
 
+Text=This is because the VBM analyses were performed in a small-sample scenario (i.e., as many brain images as participants), whereas the RSFC analyses were performed in a large-sample scenario (i.e., tens of thousands of brain images).
 126-1	21086-21090	This	_
 126-2	21091-21093	is	_
 126-3	21094-21101	because	_
@@ -3582,6 +3708,7 @@
 126-43	21322-21323	)	_
 126-44	21324-21325	.	_
 
+Text=In so doing significance testing for group differences, first in the functional covariation and then in the structural covariation, has been explicitly corrected for multiple testing, searching across all ROI pairs estimated.
 127-1	21326-21328	In	_
 127-2	21329-21331	so	_
 127-3	21332-21337	doing	_

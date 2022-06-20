@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Reduced Resting-State Connectivity in the Precuneus is correlated with Apathy in Patients with Schizophrenia A diagnosis of schizophrenia is associated with a heterogeneous psychopathology including positive and negative symptoms.
 1-1	0-7	Reduced	_
 1-2	8-21	Resting-State	_
 1-3	22-34	Connectivity	_
@@ -33,6 +34,7 @@
 1-29	221-229	symptoms	_
 1-30	230-231	.	_
 
+Text=The disconnection hypothesis, an early pathophysiological framework conceptualizes the diversity of symptoms as a result of disconnections in neural networks.
 2-1	232-235	The	_
 2-2	236-249	disconnection	_
 2-3	250-260	hypothesis	_
@@ -56,6 +58,7 @@
 2-21	382-390	networks	_
 2-22	391-392	.	_
 
+Text=In line with this hypothesis, previous neuroimaging studies of patients with schizophrenia reported alterations within the default mode network (DMN), the most prominent network at rest.
 3-1	393-395	In	_
 3-2	396-400	line	_
 3-3	401-405	with	_
@@ -88,6 +91,7 @@
 3-30	578-582	rest	_
 3-31	583-584	.	_
 
+Text=The aim of the present study was to investigate the functional connectivity during rest in patients with schizophrenia and with healthy individuals and explore whether observed functional alterations are related to the psychopathology of patients.
 4-1	585-588	The	_
 4-2	589-592	aim	_
 4-3	593-595	of	_
@@ -125,6 +129,7 @@
 4-35	823-831	patients	_
 4-36	832-833	.	_
 
+Text=Therefore, functional magnetic resonance images at rest were recorded of 35 patients with schizophrenia and 41 healthy individuals.
 5-1	834-843	Therefore	_
 5-2	844-845	,	_
 5-3	846-856	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -146,6 +151,7 @@
 5-19	954-965	individuals	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 5-20	966-967	.	_
 
+Text=Independent component analysis (ICA) was used to extract resting state networks.
 6-1	968-979	Independent	_
 6-2	980-989	component	_
 6-3	990-998	analysis	_
@@ -161,6 +167,7 @@
 6-13	1041-1049	networks	_
 6-14	1050-1051	.	_
 
+Text=Comparing ICA results between groups indicated alterations only within the network of the DMN.
 7-1	1052-1061	Comparing	_
 7-2	1062-1065	ICA	_
 7-3	1066-1073	results	_
@@ -177,6 +184,7 @@
 7-14	1142-1145	DMN	_
 7-15	1146-1147	.	_
 
+Text=More explicitly, reduced connectivity in the precuneus was observed in patients with schizophrenia compared to healthy controls.
 8-1	1148-1152	More	_
 8-2	1153-1163	explicitly	_
 8-3	1164-1165	,	_
@@ -197,6 +205,7 @@
 8-18	1268-1276	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 8-19	1277-1278	.	_
 
+Text=Connectivity in this area was negatively correlated with the severity of negative symptoms, more specifically with the domain of apathy.
 9-1	1279-1291	Connectivity	_
 9-2	1292-1294	in	_
 9-3	1295-1299	this	_
@@ -220,6 +229,7 @@
 9-21	1409-1415	apathy	_
 9-22	1416-1417	.	_
 
+Text=Taken together, the current results provide further evidence for a role DMN alterations might play in schizophrenia and especially in negative symptoms such as apathy.
 10-1	1418-1423	Taken	_
 10-2	1424-1432	together	_
 10-3	1433-1434	,	_
@@ -248,6 +258,7 @@
 10-26	1579-1585	apathy	_
 10-27	1586-1587	.	_
 
+Text=Methods Participants In total, 76 participants were included in the reported analysis, of which 41 were healthy individuals and of which 35 individuals met the criteria for a diagnosis of schizophrenia following the International Classification for Diseases and Related Health Problems (ICD-10).
 11-1	1588-1595	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 11-2	1596-1608	Participants	_
 11-3	1609-1611	In	_
@@ -296,6 +307,7 @@
 11-46	1885-1886	)	_
 11-47	1887-1888	.	_
 
+Text=Patients diagnosed with schizophrenia were recruited at St. Hedwig Hospital, Department for Psychiatry and Psychotherapy of the Charité-Universitätsmedizin Berlin (Germany).
 12-1	1889-1897	Patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 12-2	1898-1907	diagnosed	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 12-3	1908-1912	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -321,6 +333,7 @@
 12-23	2063-2064	)	_
 12-24	2065-2066	.	_
 
+Text=Healthy individuals were recruited using online advertisements and flyers and did not meet the criteria for any psychiatric disorder based on information acquired with the Mini International Neuropsychiatric Interview (MINI) and were not in current or past psychotherapy of an ongoing mental health-related problem.
 13-1	2067-2074	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 13-2	2075-2086	individuals	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 13-3	2087-2091	were	_
@@ -369,6 +382,7 @@
 13-46	2376-2383	problem	_
 13-47	2384-2385	.	_
 
+Text=MRI exclusion criteria such as claustrophobia, neurological disorders and metallic implants applied to all participants.
 14-1	2386-2389	MRI	_
 14-2	2390-2399	exclusion	_
 14-3	2400-2408	criteria	_
@@ -387,6 +401,7 @@
 14-16	2494-2506	participants	_
 14-17	2507-2508	.	_
 
+Text=Healthy individuals matched the group of patients in terms of age, sex, handedness and level of education (Table 1).
 15-1	2509-2516	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 15-2	2517-2528	individuals	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 15-3	2529-2536	matched	_
@@ -412,6 +427,7 @@
 15-23	2627-2628	)	_
 15-24	2629-2630	.	_
 
+Text=Handedness was acquired with Edinburgh Handedness Inventory (n = 75), cognitive functioning was tested using the Brief Assessment of Cognition in Schizophrenia (n = 65) and verbal intelligence with a German Vocabulary Test (n = 72).
 16-1	2631-2641	Handedness	_
 16-2	2642-2645	was	_
 16-3	2646-2654	acquired	_
@@ -457,6 +473,7 @@
 16-43	2868-2869	)	_
 16-44	2870-2871	.	_
 
+Text=Supplemental information provides details regarding the medication of patients.
 17-1	2872-2884	Supplemental	_
 17-2	2885-2896	information	_
 17-3	2897-2905	provides	_
@@ -468,6 +485,7 @@
 17-9	2942-2950	patients	_
 17-10	2951-2952	.	_
 
+Text=All procedures of the study were approved by the ethics committee of the Charité-Universitätsmedizin Berlin.
 18-1	2953-2956	All	_
 18-2	2957-2967	procedures	_
 18-3	2968-2970	of	_
@@ -485,6 +503,7 @@
 18-15	3054-3060	Berlin	_
 18-16	3061-3062	.	_
 
+Text=All subjects gave written informed consent in accordance with the Declaration of Helsinki.
 19-1	3063-3066	All	_
 19-2	3067-3075	subjects	_
 19-3	3076-3080	gave	_
@@ -500,6 +519,7 @@
 19-13	3144-3152	Helsinki	_
 19-14	3153-3154	.	_
 
+Text=Assessment of psychopathology Trained clinicians rated the severity of symptoms with the Scale for Assessment of Negative Symptoms (SANS) and the Scale for Assessment of Positive Symptoms (SAPS).
 20-1	3155-3165	Assessment	_
 20-2	3166-3168	of	_
 20-3	3169-3184	psychopathology	_
@@ -534,6 +554,7 @@
 20-32	3352-3353	)	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofPositiveSymptoms
 20-33	3354-3355	.	_
 
+Text=Table 1 includes details of patients ’ psychopathology.
 21-1	3356-3361	Table	_
 21-2	3362-3363	1	_
 21-3	3364-3372	includes	_
@@ -544,6 +565,7 @@
 21-8	3395-3410	psychopathology	_
 21-9	3411-3412	.	_
 
+Text=The SANS assesses negative symptoms within the domains of affective blunting, alogia, avolition-apathy, anhedonia-asociality, attentional impairment and the SAPS assesses positive symptoms in the domains of hallucinations, delusions, bizarre behavior, and positive formal thought disorder.
 22-1	3413-3416	The	_
 22-2	3417-3421	SANS	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofNegativeSymptoms
 22-3	3422-3430	assesses	_
@@ -588,6 +610,7 @@
 22-42	3700-3708	disorder	_
 22-43	3709-3710	.	_
 
+Text=Both scales rate severity of symptoms on a scale from 0 (absent) to 5 (severe).
 23-1	3711-3715	Both	_
 23-2	3716-3722	scales	_
 23-3	3723-3727	rate	_
@@ -609,6 +632,7 @@
 23-19	3792-3793	)	_
 23-20	3794-3795	.	_
 
+Text=For both scales a composite score of all items was computed.
 24-1	3796-3799	For	_
 24-2	3800-3804	both	_
 24-3	3805-3811	scales	_
@@ -622,6 +646,7 @@
 24-11	3847-3855	computed	_
 24-12	3856-3857	.	_
 
+Text=Additionally, both scales contain a global assessment item of each subdomain.
 25-1	3858-3870	Additionally	_
 25-2	3871-3872	,	_
 25-3	3873-3877	both	_
@@ -636,6 +661,7 @@
 25-12	3926-3935	subdomain	_
 25-13	3936-3937	.	_
 
+Text=MRI data acquisition Images were collected on a Siemens Tim Trio 3 T scanner (Erlangen, Germany) using a 12-channel head coil.
 26-1	3938-3941	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 26-2	3942-3946	data	_
 26-3	3947-3958	acquisition	_
@@ -662,6 +688,7 @@
 26-24	4062-4066	coil	_
 26-25	4067-4068	.	_
 
+Text=Structural images were obtained using a T1-weighted magnetization prepared gradient-echo sequence (MPRAGE) based on the ADNI protocol (TR = 2500 ms; TE = 4.77 ms; TI = 1100 ms, acquisition matrix = 256 × 256 × 176; flip angle = 7°; 1 × 1 × 1 mm3 voxel size).
 27-1	4069-4079	Structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 27-2	4080-4086	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 27-3	4087-4091	were	_
@@ -722,6 +749,7 @@
 27-58	4334-4335	)	_
 27-59	4336-4337	.	_
 
+Text=Whole brain functional resting state images during 5 minutes were collected using a T2 * -weighted EPI sequence sensitive to BOLD contrast (TR = 2000 ms, TE = 30 ms, image matrix = 64 × 64, FOV = 216 mm, flip angle = 80°, slice thickness = 3.0 mm, distance factor = 20%, voxel size 3 × 3 × 3 mm3, 36 axial slices).
 28-1	4338-4343	Whole	_
 28-2	4344-4349	brain	_
 28-3	4350-4360	functional	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -799,6 +827,7 @@
 28-75	4661-4662	)	_
 28-76	4663-4664	.	_
 
+Text=Before resting state data acquisition was started, participants were in the scanner for about 10 minutes, during which a localizer and anatomical images were acquired so that subjects could get used to the scanner noise.
 29-1	4665-4671	Before	_
 29-2	4672-4679	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 29-3	4680-4685	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -838,6 +867,7 @@
 29-37	4881-4886	noise	_
 29-38	4887-4888	.	_
 
+Text=During resting state data acquisition, participants were asked to close their eyes and relax.
 30-1	4889-4895	During	_
 30-2	4896-4903	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 30-3	4904-4909	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -855,6 +885,7 @@
 30-15	4977-4982	relax	_
 30-16	4983-4984	.	_
 
+Text=Preprocessing of resting state data To ensure for steady-state longitudinal magnetization, the first 5 images were discarded.
 31-1	4985-4998	Preprocessing	_
 31-2	4999-5001	of	_
 31-3	5002-5009	resting	_
@@ -875,6 +906,7 @@
 31-18	5101-5110	discarded	_
 31-19	5111-5112	.	_
 
+Text=The acquired data was corrected for slice timing and realigned.
 32-1	5113-5116	The	_
 32-2	5117-5125	acquired	_
 32-3	5126-5130	data	_
@@ -887,6 +919,7 @@
 32-10	5166-5175	realigned	_
 32-11	5176-5177	.	_
 
+Text=Structural individual T1 images were coregistered to functional images and segmented into gray matter, white matter, and cerebrospinal fluid.
 33-1	5178-5188	Structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 33-2	5189-5199	individual	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 33-3	5200-5202	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -910,6 +943,7 @@
 33-21	5315-5320	fluid	_
 33-22	5321-5322	.	_
 
+Text=Data was then spatially normalized to the MNI template and spatially smoothed with a 6-mm FWHM to improve signal-to-noise ratio.
 34-1	5323-5327	Data	_
 34-2	5328-5331	was	_
 34-3	5332-5336	then	_
@@ -932,6 +966,7 @@
 34-20	5445-5450	ratio	_
 34-21	5451-5452	.	_
 
+Text=All steps of data preprocessing were performed using SPM12.
 35-1	5453-5456	All	_
 35-2	5457-5462	steps	_
 35-3	5463-5465	of	_
@@ -943,6 +978,7 @@
 35-9	5506-5511	SPM12	_
 35-10	5512-5513	.	_
 
+Text=In addition, to control for motion, we used the voxel-specific mean frame-wise displacement (FD).
 36-1	5514-5516	In	_
 36-2	5517-5525	addition	_
 36-3	5526-5527	,	_
@@ -963,6 +999,7 @@
 36-18	5613-5614	)	_
 36-19	5615-5616	.	_
 
+Text=FD values were below the default threshold of 0.5 for control and patient group (0.15 ± 0.02 and 0.17 ± 0.02, t-test p = 0.42).
 37-1	5617-5619	FD	_
 37-2	5620-5626	values	_
 37-3	5627-5631	were	_
@@ -993,6 +1030,7 @@
 37-28	5745-5746	)	_
 37-29	5747-5748	.	_
 
+Text=Independent component analysis (ICA) ICA is a data-driven analysis tool in which source signals are blindly recovered from mixtures of sources.
 38-1	5749-5760	Independent	_
 38-2	5761-5770	component	_
 38-3	5771-5779	analysis	_
@@ -1018,6 +1056,7 @@
 38-23	5886-5893	sources	_
 38-24	5894-5895	.	_
 
+Text=ICA was calculated using GIFT software (http: //icatb.sourceforge.net/) in Matlab 2012b using Infomax algorithm to estimate independent sources.
 39-1	5896-5899	ICA	_
 39-2	5900-5903	was	_
 39-3	5904-5914	calculated	_
@@ -1041,6 +1080,7 @@
 39-21	6035-6042	sources	_
 39-22	6043-6044	.	_
 
+Text=ICA was run 20 times and the results were clustered by GIFT toolbox ICASSO min cluster size of 16 and max of 20 (number of runs) and RandInit and Bootstrap were selected.
 40-1	6045-6048	ICA	_
 40-2	6049-6052	was	_
 40-3	6053-6056	run	_
@@ -1077,6 +1117,7 @@
 40-34	6208-6216	selected	_
 40-35	6217-6218	.	_
 
+Text=Preprocessed data from all subjects in both groups were used.
 41-1	6219-6231	Preprocessed	_
 41-2	6232-6236	data	_
 41-3	6237-6241	from	_
@@ -1089,6 +1130,7 @@
 41-10	6275-6279	used	_
 41-11	6280-6281	.	_
 
+Text=The optimal number of spatially independent resting-state networks (N) to be extracted was estimated by the software (N = 21; see Supplemental Material Fig.
 42-1	6282-6285	The	_
 42-2	6286-6293	optimal	_
 42-3	6294-6300	number	_
@@ -1119,10 +1161,12 @@
 42-28	6438-6441	Fig	_
 42-29	6442-6443	.	_
 
+Text=S1).
 43-1	6444-6446	S1	_
 43-2	6447-6448	)	_
 43-3	6449-6450	.	_
 
+Text=Only components with ICASO stability index Iq of> 0.9 were considered and the related spatial maps.
 44-1	6451-6455	Only	_
 44-2	6456-6466	components	_
 44-3	6467-6471	with	_
@@ -1142,6 +1186,7 @@
 44-17	6546-6550	maps	_
 44-18	6551-6552	.	_
 
+Text=The networks were identified using predefined templates in GIFT and a-posteriori by experts C.G.F and S.K.
 45-1	6553-6556	The	_
 45-2	6557-6565	networks	_
 45-3	6566-6570	were	_
@@ -1160,6 +1205,7 @@
 45-16	6655-6658	S.K	_
 45-17	6659-6660	.	_
 
+Text=Among the ICA components, the default mode network was identified and taken to the second level analysis in SPM12 using a mask for individual networks provided by http: //findlab.stanford.edu/functional_ROIs.html.
 46-1	6661-6666	Among	_
 46-2	6667-6670	the	_
 46-3	6671-6674	ICA	_
@@ -1193,6 +1239,7 @@
 46-31	6832-6875	//findlab.stanford.edu/functional_ROIs.html	_
 46-32	6876-6877	.	_
 
+Text=To make use of the full potentiality of the method, we conducted an exploratory analysis selecting the following networks that were concomitantly extracted by ICA (Fig.
 47-1	6878-6880	To	_
 47-2	6881-6885	make	_
 47-3	6886-6889	use	_
@@ -1223,6 +1270,7 @@
 47-28	7044-7047	Fig	_
 47-29	7048-7049	.	_
 
+Text=S1 in Supplemental Material): basal ganglia, visual, salience, auditory, executive control, and visuospatial.
 48-1	7050-7052	S1	_
 48-2	7053-7055	in	_
 48-3	7056-7068	Supplemental	_
@@ -1245,6 +1293,7 @@
 48-20	7153-7165	visuospatial	_
 48-21	7166-7167	.	_
 
+Text=Differences between groups were calculated using a two-sample t-test (p = 0.001 uncorrected), significant threshold was set to p <0.05 corrected for multiple comparison using family wise error (FWE) at cluster-level.
 49-1	7168-7179	Differences	_
 49-2	7180-7187	between	_
 49-3	7188-7194	groups	_
@@ -1284,6 +1333,7 @@
 49-37	7376-7389	cluster-level	_
 49-38	7390-7391	.	_
 
+Text=Mean FD, gender and age were used as covariates.
 50-1	7392-7396	Mean	_
 50-2	7397-7399	FD	_
 50-3	7400-7401	,	_
@@ -1296,6 +1346,7 @@
 50-10	7430-7440	covariates	_
 50-11	7441-7442	.	_
 
+Text=In those clusters where we found significant group differences, we extracted the mean absolute ICA values (spatial maps) for each subject for a posteriori correlation analysis of functional connectivity with psychopathology.
 51-1	7443-7445	In	_
 51-2	7446-7451	those	_
 51-3	7452-7460	clusters	_
@@ -1332,6 +1383,7 @@
 51-34	7654-7669	psychopathology	_
 51-35	7670-7671	.	_
 
+Text=Correlation with psychopathology To investigate whether these differences in resting state networks between healthy individuals and patients with schizophrenia were related to the psychopathology of patients, Spearman ’ s correlation coefficients between resting state network connectivity and severity of symptoms were calculated.
 52-1	7672-7683	Correlation	_
 52-2	7684-7688	with	_
 52-3	7689-7704	psychopathology	_
@@ -1377,6 +1429,7 @@
 52-43	7993-8003	calculated	_
 52-44	8004-8005	.	_
 
+Text=The resting state functional connectivity was extracted from the cluster in the DMN in which we found group differences: for each subject we extracted the mean absolute ICA value (spatial maps).
 53-1	8006-8009	The	_
 53-2	8010-8017	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 53-3	8018-8023	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1413,6 +1466,7 @@
 53-34	8201-8202	)	_
 53-35	8203-8204	.	_
 
+Text=In a first step, we correlated the functional connectivity in the DMN cluster with the composite scores of the SANS and SAPS.
 54-1	8205-8207	In	_
 54-2	8208-8209	a	_
 54-3	8210-8215	first	_
@@ -1438,6 +1492,7 @@
 54-23	8326-8330	SAPS	_
 54-24	8331-8332	.	_
 
+Text=In case of a significant correlation, we conducted further exploratory correlations with the global ratings of the associated symptom domains.
 55-1	8333-8335	In	_
 55-2	8336-8340	case	_
 55-3	8341-8343	of	_
@@ -1461,6 +1516,7 @@
 55-21	8468-8475	domains	_
 55-22	8476-8477	.	_
 
+Text=Statistical analysis was performed using SPSS 22.
 56-1	8478-8489	Statistical	_
 56-2	8490-8498	analysis	_
 56-3	8499-8502	was	_
@@ -1470,6 +1526,7 @@
 56-7	8524-8526	22	_
 56-8	8527-8528	.	_
 
+Text=For the correlation with the SAPS and SANS composite scores, a Bonferroni adjusted significance level of 0.025 (0.05/2) was applied.
 57-1	8529-8532	For	_
 57-2	8533-8536	the	_
 57-3	8537-8548	correlation	_
@@ -1495,6 +1552,7 @@
 57-23	8656-8663	applied	_
 57-24	8664-8665	.	_
 
+Text=For the correlations with subdomains we used a Bonferroni corrected alpha value of 0.0125 (0.05/4) for the SAPS and of 0.01 (0.05/5) for the SANS.
 58-1	8666-8669	For	_
 58-2	8670-8673	the	_
 58-3	8674-8686	correlations	_

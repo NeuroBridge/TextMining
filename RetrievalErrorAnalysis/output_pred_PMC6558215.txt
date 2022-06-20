@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Brain function, structure and genomic data are linked but show different sensitivity to duration of illness and disease stage in schizophrenia The progress of schizophrenia at various stages is an intriguing question, which has been explored to some degree using single-modality brain imaging data, e.g.
 1-1	0-5	Brain	_
 1-2	6-14	function	_
 1-3	15-16	,	_
@@ -52,6 +53,7 @@
 1-48	302-305	e.g	_
 1-49	306-307	.	_
 
+Text=gray matter (GM) or functional connectivity (FC).
 2-1	308-312	gray	_
 2-2	313-319	matter	_
 2-3	320-321	(	_
@@ -65,6 +67,7 @@
 2-11	359-360	)	_
 2-12	361-362	.	_
 
+Text=However it remains unclear how those changes from different modalities are correlated with each other and if the sensitivity to duration of illness and disease stages across modalities is different.
 3-1	363-370	However	_
 3-2	371-373	it	_
 3-3	374-381	remains	_
@@ -97,6 +100,7 @@
 3-30	551-560	different	_
 3-31	561-562	.	_
 
+Text=In this work, we jointly analyzed FC, GM volume and single nucleotide polymorphisms (SNPs) data of 159 individuals including healthy controls (HC), drug-naïve first-episode schizophrenia (FESZ) and chronic schizophrenia patients (CSZ), aiming to evaluate the links among SNP, FC and GM patterns, and their sensitivity to duration of illness and disease stages in schizophrenia.
 4-1	563-565	In	_
 4-2	566-570	this	_
 4-3	571-575	work	_
@@ -167,6 +171,7 @@
 4-68	940-953	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 4-69	954-955	.	_
 
+Text=Our results suggested: 1) both GM and FC highlighted impairments in hippocampal, temporal gyrus and cerebellum in schizophrenia, which were significantly correlated with genes like SATB2, GABBR2, PDE4B, CACNA1C etc.
 5-1	956-959	Our	_
 5-2	960-967	results	_
 5-3	968-977	suggested	_
@@ -206,6 +211,7 @@
 5-37	1174-1177	etc	_
 5-38	1178-1179	.	_
 
+Text=2) GM and FC presented gradually decrease trend (HC> FESZ> CSZ), while SNP indicated a non-gradual variation trend with un-significant group difference observed between FESZ and CSZ; 3) Group difference between HC and FESZ of FC was more remarkable than GM, and FC presented a stronger negative correlation with duration of illness than GM (p = 0.0006).
 6-1	1180-1181	2	_
 6-2	1182-1183	)	_
 6-3	1184-1186	GM	_
@@ -276,6 +282,7 @@
 6-68	1542-1543	)	_
 6-69	1544-1545	.	_
 
+Text=Collectively, these results highlight the benefit of leveraging multimodal data and provide additional clues regarding the impact of mental illness at various disease stages.
 7-1	1546-1558	Collectively	_
 7-2	1559-1560	,	_
 7-3	1561-1566	these	_
@@ -303,6 +310,7 @@
 7-25	1714-1720	stages	_
 7-26	1721-1722	.	_
 
+Text=Highlights Investigation of linked SNP, GM and FC pattern through parallel ICA method; SNP indicated a non-gradual variation trend, highlighted genes like GABBR2 etc.
 8-1	1723-1733	Highlights	_
 8-2	1734-1747	Investigation	_
 8-3	1748-1750	of	_
@@ -332,6 +340,7 @@
 8-27	1888-1891	etc	_
 8-28	1892-1893	.	_
 
+Text=; GM and FC exhibited greater deficits at late disease stages (HC> FESZ> CSZ); FC presented a stronger negative correlation with duration of illness than GM.
 9-1	1894-1895	;	_
 9-2	1896-1898	GM	_
 9-3	1899-1902	and	_
@@ -365,6 +374,7 @@
 9-31	2053-2055	GM	_
 9-32	2056-2057	.	_
 
+Text=Materials and methods Participants 159 subjects were recruited from Wuxi Mental Health Center, consisting of eighty-seven HC, twenty drug-naïve FESZs and fifty-two CSZs.
 10-1	2058-2067	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	2068-2071	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	2072-2079	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -392,6 +402,7 @@
 10-25	2224-2228	CSZs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 10-26	2229-2230	.	_
 
+Text=Table 1 describes the demographic information of the data.
 11-1	2231-2236	Table	_
 11-2	2237-2238	1	_
 11-3	2239-2248	describes	_
@@ -403,6 +414,7 @@
 11-9	2284-2288	data	_
 11-10	2289-2290	.	_
 
+Text=Patients who have DOI ≤ 2 years were definded as FESZ patients (0.96 ± 0.85), others were identified as chronic patients (20.63 ± 9.84).
 12-1	2291-2299	Patients	_
 12-2	2300-2303	who	_
 12-3	2304-2308	have	_
@@ -434,6 +446,7 @@
 12-29	2430-2431	)	_
 12-30	2432-2433	.	_
 
+Text=Subjects were excluded if they had any current or past neurological illness, substance abuse or head injury resulting in loss of consciousness.
 13-1	2434-2442	Subjects	_
 13-2	2443-2447	were	_
 13-3	2448-2456	excluded	_
@@ -459,6 +472,7 @@
 13-23	2564-2577	consciousness	_
 13-24	2578-2579	.	_
 
+Text=All the patients were diagnosed according to the DSM-IV diagnostic criteria by at least two qualified psychiatrists.
 14-1	2580-2583	All	_
 14-2	2584-2587	the	_
 14-3	2588-2596	patients	_
@@ -478,6 +492,7 @@
 14-17	2682-2695	psychiatrists	_
 14-18	2696-2697	.	_
 
+Text=Data collection All subjects were scanned by structural MRI and resting-state functional MRI on a 3.0-Tesla Magnetom TIM Trio (Siemens Medical System) at the Department of Medical Imaging, Wuxi People's Hospital, Nanjing Medical University.
 15-1	2698-2702	Data	_
 15-2	2703-2713	collection	_
 15-3	2714-2717	All	_
@@ -519,6 +534,7 @@
 15-39	2932-2942	University	_
 15-40	2943-2944	.	_
 
+Text=Foam pads were used to reduce head motion and scanner noise.
 16-1	2945-2949	Foam	_
 16-2	2950-2954	pads	_
 16-3	2955-2959	were	_
@@ -532,6 +548,7 @@
 16-11	2999-3004	noise	_
 16-12	3005-3006	.	_
 
+Text=Prior to the scan, the subjects were instructed to keep their eyes closed, relax but not fall asleep, and move as little as possible during data acquisition.
 17-1	3007-3012	Prior	_
 17-2	3013-3015	to	_
 17-3	3016-3019	the	_
@@ -564,6 +581,7 @@
 17-30	3155-3166	acquisition	_
 17-31	3167-3168	.	_
 
+Text=fMRI: Resting-state scans were acquired using a single-shot gradient-echo echo-planar-imaging sequence as with the following parameters: TR = 2000 ms, TE = 30 ms, flip angle = 90°, matrix size = 64 × 64, FOV = 220 × 220 mm2, 33 axial slices, slice thickness = 4 mm, acquisition voxel size = 3.4 × 3.4 × 4 mm3, resulting in 240 volumes.
 18-1	3169-3173	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 18-2	3174-3175	:	_
 18-3	3176-3189	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -638,6 +656,7 @@
 18-72	3506-3513	volumes	_
 18-73	3514-3515	.	_
 
+Text=sMRI: Three-dimensional T1-weighted images were acquired by employing a 3D-MPRAGE sequence as with the following parameters: time repetition (TR) = 2530 ms, time echo (TE) = 3.44 ms, flip angle = 7°, matrix size = 256 × 256, field of view (FOV) = 256 × 256 mm2, 192 sagittal slices, slice thickness = 1 mm, acquisition voxel size = 1 × 1 × 1 mm3, total acquisition time = 649 s. All participants provided blood samples for genetic analysis.
 19-1	3516-3520	sMRI	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 19-2	3521-3522	:	_
 19-3	3523-3540	Three-dimensional	http://maven.renci.org/NeuroBridge/neurobridge#ThreeLeadElectrocardiograph
@@ -735,6 +754,7 @@
 19-95	3963-3971	analysis	_
 19-96	3972-3973	.	_
 
+Text=Genomic deoxyribonucleic acid (DNA) was extracted according to the standard protocol by protease K digestion, phenol-chloroform extraction and ethanol precipitation.
 20-1	3974-3981	Genomic	_
 20-2	3982-3998	deoxyribonucleic	_
 20-3	3999-4003	acid	_
@@ -760,6 +780,7 @@
 20-23	4128-4141	precipitation	_
 20-24	4142-4143	.	_
 
+Text=Afterwards, whole-genome genotyping was conducted on 571,054 loci using Illumina human PsychArray-24.
 21-1	4144-4154	Afterwards	_
 21-2	4155-4156	,	_
 21-3	4157-4169	whole-genome	_
@@ -775,6 +796,7 @@
 21-13	4232-4245	PsychArray-24	_
 21-14	4246-4247	.	_
 
+Text=Data preprocessing The structural MRI data and functional MRI data were preprocessed using the SPM8 (www.fil.ion.ucl.ac.uk/spm/software/spm8) voxel based morphometry module and the Brant software (http: //brant.brainnetome.org/en/latest/,), respectively (see supplementary file for more details).
 22-1	4248-4252	Data	_
 22-2	4253-4266	preprocessing	_
 22-3	4267-4270	The	_
@@ -819,6 +841,7 @@
 22-42	4551-4552	)	_
 22-43	4553-4554	.	_
 
+Text=A mask for the preprocessed structural data was then generated to include voxels with a mean value larger than 0.2 across all the subjects.
 23-1	4555-4556	A	_
 23-2	4557-4561	mask	_
 23-3	4562-4565	for	_
@@ -845,6 +868,7 @@
 23-24	4685-4693	subjects	_
 23-25	4694-4695	.	_
 
+Text=Based on the 116 × 116 automatic anatomical labelling (AAL) atlas, FC network was constructed upon computing pearson correlation of averaged BOLD signals between all pairs of regions, resulting in 6786 edges.
 24-1	4696-4701	Based	_
 24-2	4702-4704	on	_
 24-3	4705-4708	the	_
@@ -883,6 +907,7 @@
 24-36	4902-4907	edges	_
 24-37	4908-4909	.	_
 
+Text=The genetic data were preprocessed using PLINK following the quality control procedures in and further overlaped with PGC's SCZ2 database (p <0.01), resulting in 4937 SNPs (see supplementary file).
 25-1	4910-4913	The	_
 25-2	4914-4921	genetic	_
 25-3	4922-4926	data	_
@@ -921,6 +946,7 @@
 25-36	5112-5113	)	_
 25-37	5114-5115	.	_
 
+Text=Discrete numbers were assigned to the categorical genotypes: 0 for no minor allele, 1 for one minor allele, and 2 for two minor alleles.
 26-1	5116-5124	Discrete	_
 26-2	5125-5132	numbers	_
 26-3	5133-5137	were	_
@@ -950,6 +976,7 @@
 26-27	5247-5254	alleles	_
 26-28	5255-5256	.	_
 
+Text=Accordingly, the three feature matrices included: FC (subjects by voxels: 159 × 6786), GM (subjects by voxels: 159 × 77,122) and SNPs (subjects by alleles:159 × 4937).
 27-1	5257-5268	Accordingly	_
 27-2	5269-5270	,	_
 27-3	5271-5274	the	_
@@ -990,6 +1017,7 @@
 27-38	5433-5434	)	_
 27-39	5435-5436	.	_
 
+Text=The feature matrices were then normalized to ensure that all modalities had the same average sum-of-squares (computed across all subjects and all voxels/SNPs for each modality).
 28-1	5437-5440	The	_
 28-2	5441-5448	feature	_
 28-3	5449-5457	matrices	_
@@ -1020,6 +1048,7 @@
 28-28	5614-5615	)	_
 28-29	5616-5617	.	_
 
+Text=Medication information (chlorpromazine equivalent) was regressed out for the chronic patients prior to additional analyses.
 29-1	5618-5628	Medication	_
 29-2	5629-5640	information	_
 29-3	5641-5642	(	_
@@ -1039,6 +1068,7 @@
 29-17	5734-5742	analyses	_
 29-18	5743-5744	.	_
 
+Text=Data analysis Three-way para-ICA We firstly applied three-way para-ICA to identify a linked SNP-FC-GM pattern as shown in Fig.
 30-1	5745-5749	Data	_
 30-2	5750-5758	analysis	_
 30-3	5759-5768	Three-way	_
@@ -1060,9 +1090,11 @@
 30-19	5867-5870	Fig	_
 30-20	5871-5872	.	_
 
+Text=1.
 31-1	5873-5874	1	_
 31-2	5875-5876	.	_
 
+Text=Three-way para-ICA is a multivariate association analysis method that estimates maximally independent components within each modality using Infomax ICA separately and maximizes the sum of pair-wise correlations between modalities (Method details are provided in the supplementary file).
 32-1	5877-5886	Three-way	_
 32-2	5887-5895	para-ICA	_
 32-3	5896-5898	is	_
@@ -1104,6 +1136,7 @@
 32-39	6163-6164	)	_
 32-40	6165-6166	.	_
 
+Text=The code is open through the Fusion ICA Toolbox (FIT, http: //mialab.mrn.org/software/fit).
 33-1	6167-6170	The	_
 33-2	6171-6175	code	_
 33-3	6176-6178	is	_
@@ -1122,6 +1155,7 @@
 33-16	6260-6261	)	_
 33-17	6262-6263	.	_
 
+Text=The number of components was measured to be 14 for FC and GM modalitites through a modified minimum description length (MDL) criterion, an efficient method as discussed in previous ICA associated studies.
 34-1	6264-6267	The	_
 34-2	6268-6274	number	_
 34-3	6275-6277	of	_
@@ -1159,6 +1193,7 @@
 34-35	6463-6470	studies	_
 34-36	6471-6472	.	_
 
+Text=A consistency-based method was used to identify number of components for the SNP modality, which ran ICA decompositions across a range of numbers of components and determined the comoponent number with the most reliable results (in our case the final model order was estimated to be 6).
 35-1	6473-6474	A	_
 35-2	6475-6492	consistency-based	_
 35-3	6493-6499	method	_
@@ -1211,6 +1246,7 @@
 35-50	6760-6761	)	_
 35-51	6762-6763	.	_
 
+Text=Correlation and group difference analysis Cross correlations among the loading parameters of the three modalities were assessed, and the significant levels were adjusted using Bonferroni correction for multiple comparison.
 36-1	6764-6775	Correlation	_
 36-2	6776-6779	and	_
 36-3	6780-6785	group	_
@@ -1243,6 +1279,7 @@
 36-30	6976-6986	comparison	_
 36-31	6987-6988	.	_
 
+Text=To measure the consistency of the identified joint pattern across participants, we applied a ten-fold cross validation method to replicate the associations.
 37-1	6989-6991	To	_
 37-2	6992-6999	measure	_
 37-3	7000-7003	the	_
@@ -1268,6 +1305,7 @@
 37-23	7133-7145	associations	_
 37-24	7146-7147	.	_
 
+Text=Moreover, in order to evaluate the stability of the linked SNP-FC-GM pattern, we conducted 1000 permutation tests to investigate the possibility of overfitting.
 38-1	7148-7156	Moreover	_
 38-2	7157-7158	,	_
 38-3	7159-7161	in	_
@@ -1295,6 +1333,7 @@
 38-25	7298-7309	overfitting	_
 38-26	7310-7311	.	_
 
+Text=Particularly, we randomly permuted subjects of all the three modalities and ran three-way para-ICA again on the permuted subjects.
 39-1	7312-7324	Particularly	_
 39-2	7325-7326	,	_
 39-3	7327-7329	we	_
@@ -1317,6 +1356,7 @@
 39-20	7434-7442	subjects	_
 39-21	7443-7444	.	_
 
+Text=Then we extracted the top correlated SNP-FC-GM pair in each of the 1000 permutation tests and calculated the tail probability to evaluate the significance level of the identified SNP-FC-GM association.
 40-1	7445-7449	Then	_
 40-2	7450-7452	we	_
 40-3	7453-7462	extracted	_
@@ -1349,6 +1389,7 @@
 40-30	7634-7645	association	_
 40-31	7646-7647	.	_
 
+Text=Finally, the sptial maps of the SNP-FC-SNP pattern were transformed to Z scores and the top contributing brain regions, FC and SNPs were selected and plotted.
 41-1	7648-7655	Finally	_
 41-2	7656-7657	,	_
 41-3	7658-7661	the	_
@@ -1379,6 +1420,7 @@
 41-28	7800-7807	plotted	_
 41-29	7808-7809	.	_
 
+Text=Sensitivity to disease stages and DOI To investigate the different sensitivities to diease stages and DOI, we applied analysis of variance (ANOVA) analysis and two sample t-test to measure the group difference across different disease stages within each modality for the linked SNP-FC-GM pattern (Fig.
 42-1	7810-7821	Sensitivity	_
 42-2	7822-7824	to	_
 42-3	7825-7832	disease	_
@@ -1430,10 +1472,12 @@
 42-49	8111-8114	Fig	_
 42-50	8115-8116	.	_
 
+Text=1).
 43-1	8117-8118	1	_
 43-2	8119-8120	)	_
 43-3	8121-8122	.	_
 
+Text=Then we calculated the relationship between the identified imaging modalities and DOI, and used Z value to compare the difference between slopes of the two modalities.
 44-1	8123-8127	Then	_
 44-2	8128-8130	we	_
 44-3	8131-8141	calculated	_
@@ -1463,6 +1507,7 @@
 44-27	8280-8290	modalities	_
 44-28	8291-8292	.	_
 
+Text=Specifically, we first applied generalized linear regression (GLM) model to identify a regression line for the relationship between imaging modalitites and DOI.
 45-1	8293-8305	Specifically	_
 45-2	8306-8307	,	_
 45-3	8308-8310	we	_
@@ -1490,6 +1535,7 @@
 45-25	8452-8455	DOI	_
 45-26	8456-8457	.	_
 
+Text=Then the slope of the regression line was the corresponding beta value of the loading parameter of each modality (kGM for the GM modality and kFC for the FC modality).
 46-1	8458-8462	Then	_
 46-2	8463-8466	the	_
 46-3	8467-8472	slope	_
@@ -1524,6 +1570,7 @@
 46-32	8625-8626	)	_
 46-33	8627-8628	.	_
 
+Text=Z value was computed as the difference between the two slopes divided by the standard error of the difference between the slopes.
 47-1	8629-8630	Z	_
 47-2	8631-8636	value	_
 47-3	8637-8640	was	_
@@ -1548,6 +1595,7 @@
 47-22	8751-8757	slopes	_
 47-23	8758-8759	.	_
 
+Text=As the GLM model gave us the standard error of each slope (stand_kGM for the GM modality and stand_kFC for the FC modality), then the standard error of the difference between the two slopes can be computed as.
 48-1	8760-8762	As	_
 48-2	8763-8766	the	_
 48-3	8767-8770	GLM	_
@@ -1591,6 +1639,7 @@
 48-41	8969-8971	as	_
 48-42	8972-8973	.	_
 
+Text=Then we calculated the Z value as Eq.
 49-1	8974-8978	Then	_
 49-2	8979-8981	we	_
 49-3	8982-8992	calculated	_
@@ -1601,6 +1650,7 @@
 49-8	9008-9010	Eq	_
 49-9	9011-9012	.	_
 
+Text=(1): Afterwards, we computed the two-tailed p-value corresponding to the Z value to evaluate the significance of the two slopes.
 50-1	9013-9014	(	_
 50-2	9015-9016	1	_
 50-3	9017-9018	)	_
@@ -1627,6 +1677,7 @@
 50-24	9138-9144	slopes	_
 50-25	9145-9146	.	_
 
+Text=Genetic pathway analysis After converting the spatial map of the SNP component to Z scores, the high-ranking SNPs (|Z|> 2) were annotated to genes.
 51-1	9147-9154	Genetic	_
 51-2	9155-9162	pathway	_
 51-3	9163-9171	analysis	_
@@ -1657,6 +1708,7 @@
 51-28	9292-9297	genes	_
 51-29	9298-9299	.	_
 
+Text=To further interpret the relationship between the SNP component and schizophrenia, we fed these top contributing genes to the WebGestalt software for Gene Ontology (GO) analysis, which used a hypergenometrix test to detect overrepresentation of the genes among the whole genome in a GO category.
 52-1	9300-9302	To	_
 52-2	9303-9310	further	_
 52-3	9311-9320	interpret	_

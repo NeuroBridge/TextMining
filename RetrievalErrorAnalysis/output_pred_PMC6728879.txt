@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Sexual trauma history is associated with reduced orbitofrontal network strength in substance-dependent women Aim Substance use disorders (SUDs) are highly comorbid with post-traumatic stress disorder (PTSD).
 1-1	0-6	Sexual	_
 1-2	7-13	trauma	_
 1-3	14-21	history	_
@@ -34,6 +35,7 @@
 1-30	209-210	)	http://maven.renci.org/NeuroBridge/neurobridge#AcuteStressDisorder
 1-31	211-212	.	_
 
+Text=PTSD-SUD comorbidity is associated with greater functional impairments and relapse risk.
 2-1	213-221	PTSD-SUD	http://maven.renci.org/NeuroBridge/neurobridge#PostTraumaticStressDisorder
 2-2	222-233	comorbidity	_
 2-3	234-236	is	_
@@ -47,6 +49,7 @@
 2-11	296-300	risk	_
 2-12	301-302	.	_
 
+Text=Women with SUDs experience markedly higher rates of trauma and PTSD compared to men with SUDs, particularly due to sexual and domestic abuse.
 3-1	303-308	Women	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseQuestionnaire
 3-2	309-313	with	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseQuestionnaire
 3-3	314-318	SUDs	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseQuestionnaire
@@ -73,6 +76,7 @@
 3-24	439-444	abuse	_
 3-25	445-446	.	_
 
+Text=Despite the strong association between trauma exposure and SUDs, the neurobiological correlates are understudied, particularly among females with SUDs.
 4-1	447-454	Despite	_
 4-2	455-458	the	_
 4-3	459-465	strong	_
@@ -96,6 +100,7 @@
 4-21	595-599	SUDs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 4-22	600-601	.	_
 
+Text=However, there is indication of abnormal somatic and interoceptive processing in women with PTSD.
 5-1	602-609	However	_
 5-2	610-611	,	_
 5-3	612-617	there	_
@@ -113,6 +118,7 @@
 5-15	695-699	PTSD	http://maven.renci.org/NeuroBridge/neurobridge#PostTraumaticStressDisorder
 5-16	700-701	.	_
 
+Text=The present study examines interoception-linked differences in intrinsic brain networks in a group of women with SUDs and varying histories of trauma exposure, some of whom have a current PTSD diagnosis.
 6-1	702-705	The	_
 6-2	706-713	present	_
 6-3	714-719	study	_
@@ -147,6 +153,7 @@
 6-32	896-905	diagnosis	_
 6-33	906-907	.	_
 
+Text=Methods Pre-intervention data were analyzed from a subset (N = 43) of women in SUD residential treatment recruited for a mindfulness-based intervention efficacy clinical trial.
 7-1	908-915	Methods	_
 7-2	916-932	Pre-intervention	_
 7-3	933-937	data	_
@@ -176,6 +183,7 @@
 7-27	1080-1085	trial	_
 7-28	1086-1087	.	_
 
+Text=Participants diagnosed with PTSD (n = 14) or not (n = 29) performed a task which involved attending to the somatic and visceral sensations of the breathing cycle (interoception) while undergoing a functional MRI (fMRI) scan.
 8-1	1088-1100	Participants	_
 8-2	1101-1110	diagnosed	http://maven.renci.org/NeuroBridge/neurobridge#PostTraumaticStressDisorder
 8-3	1111-1115	with	http://maven.renci.org/NeuroBridge/neurobridge#PostTraumaticStressDisorder
@@ -222,6 +230,7 @@
 8-44	1315-1319	scan	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalCapacityRatingScale
 8-45	1320-1321	.	_
 
+Text=FMRI analysis employed independent components analysis and dual regression.
 9-1	1322-1326	FMRI	_
 9-2	1327-1335	analysis	_
 9-3	1336-1344	employed	_
@@ -233,6 +242,7 @@
 9-9	1386-1396	regression	_
 9-10	1397-1398	.	_
 
+Text=First, we assessed differences in functional connectivity of interoception-modulated functional networks among those with and without PTSD.
 10-1	1399-1404	First	_
 10-2	1405-1406	,	_
 10-3	1407-1409	we	_
@@ -253,6 +263,7 @@
 10-18	1534-1538	PTSD	_
 10-19	1539-1540	.	_
 
+Text=Second, we tested associations between network strength and lifetime sexual violence exposure across all participants on networks that showed significant group differences.
 11-1	1541-1547	Second	_
 11-2	1548-1549	,	_
 11-3	1550-1552	we	_
@@ -278,6 +289,7 @@
 11-23	1702-1713	differences	_
 11-24	1714-1715	.	_
 
+Text=Results PTSD diagnosis was associated with reduced functional connectivity of an orbitofrontal network with the precuneus, mid-posterior insula, lateral prefrontal cortex and angular gyrus.
 12-1	1716-1723	Results	_
 12-2	1724-1728	PTSD	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
 12-3	1729-1738	diagnosis	http://maven.renci.org/NeuroBridge/neurobridge#DiseaseDiagnosis
@@ -306,6 +318,7 @@
 12-26	1901-1906	gyrus	_
 12-27	1907-1908	.	_
 
+Text=OFC network strength was inversely associated with sexual violence exposure over-and-above the contribution of PTSD status alone.
 13-1	1909-1912	OFC	_
 13-2	1913-1920	network	_
 13-3	1921-1929	strength	_
@@ -325,6 +338,7 @@
 13-17	2032-2037	alone	_
 13-18	2038-2039	.	_
 
+Text=Conclusions Our findings provide a novel network-level account of brain activity associated with PTSD among women with SUDs, which may inform treatment response in this subpopulation.
 14-1	2040-2051	Conclusions	_
 14-2	2052-2055	Our	_
 14-3	2056-2064	findings	_
@@ -354,6 +368,7 @@
 14-27	2210-2223	subpopulation	_
 14-28	2224-2225	.	_
 
+Text=Highlights FMRI correlates of interoceptive attention in women with substance use disorder (SUD) and post-traumatic stress (PTSD) Task-based data analyzed using independent components analysis and dual regression Reduced orbitofrontal network connectivity with insula and frontoparietal regions in SUD_PTSD comorbidity compared to SUD Functional networks associated with exteroception did not distinguish PTSD-SUD from SUD-only Severity of sexual trauma exposure is inversely associated with orbitofrontal network strength beyond PTSD status Methods Participants The full sample of participants were 48 ethnically-diverse, socio-economically disadvantaged female patients initiating women-only residential treatment for polysubstance use disorders (primarily moderate-to-severe methamphetamine and/or cocaine use disorders).
 15-1	2226-2236	Highlights	_
 15-2	2237-2241	FMRI	_
 15-3	2242-2252	correlates	_
@@ -460,6 +475,7 @@
 15-104	3055-3056	)	_
 15-105	3057-3058	.	_
 
+Text=Inclusion criteria for the study were as follows: female, between 18 and 50 years old, diagnosed with SUD, fluent in English, right-handed, and a current patient in the residential treatment program partnered with the parent study.
 16-1	3059-3068	Inclusion	_
 16-2	3069-3077	criteria	_
 16-3	3078-3081	for	_
@@ -504,6 +520,7 @@
 16-42	3290-3295	study	_
 16-43	3296-3297	.	_
 
+Text=Exclusion criteria included contraindications for fMRI: currently or possibly pregnant, using medical devices (cardiac pacemaker, implanted cardiac defibrillator, etc.
 17-1	3298-3307	Exclusion	_
 17-2	3308-3316	criteria	_
 17-3	3317-3325	included	_
@@ -530,6 +547,7 @@
 17-24	3466-3469	etc	_
 17-25	3470-3471	.	_
 
+Text=), metal fragments including shrapnel or other nonremovable metal devices including dental braces or retainers, intrauterine device, history of head trauma resulting in loss of consciousness for> 5 min, documented or subjectively reported claustrophobia, hair extensions or a wig connected by wire, permanent eyeliner, and BMI> 36.
 18-1	3472-3473	)	_
 18-2	3474-3475	,	_
 18-3	3476-3481	metal	_
@@ -588,6 +606,7 @@
 18-56	3809-3811	36	_
 18-57	3812-3813	.	_
 
+Text=Additionally, participants were excluded from the parent study if they had an untreated severe chronic mental health condition or untreated psychotic disorder based on clinical intake LR-DSM-IV or DSM-V or diagnostic assessment, or reported suicidality during the prior 30 days based on clinical intake assessment.
 19-1	3814-3826	Additionally	_
 19-2	3827-3828	,	_
 19-3	3829-3841	participants	_
@@ -637,6 +656,7 @@
 19-47	4119-4129	assessment	_
 19-48	4130-4131	.	_
 
+Text=Psychiatric diagnoses were based on LR-DSM-IV or DSM-V which were conducted by staff of the residential treatment program (the residential treatment program transitioned from the LR-DSM-IV to the DSM-V during the course of the clinical trial).
 20-1	4132-4143	Psychiatric	_
 20-2	4144-4153	diagnoses	_
 20-3	4154-4158	were	_
@@ -677,6 +697,7 @@
 20-38	4375-4376	)	_
 20-39	4377-4378	.	_
 
+Text=Diagnoses were carried out by treatment center staff and confirmed by consensus meeting with the lead psychiatrist.
 21-1	4379-4388	Diagnoses	_
 21-2	4389-4393	were	_
 21-3	4394-4401	carried	_
@@ -696,6 +717,7 @@
 21-17	4481-4493	psychiatrist	_
 21-18	4494-4495	.	_
 
+Text=Although comorbid psychiatric diagnoses were not exclusionary for the parent study, for the present analysis we excluded individuals with the following diagnoses: schizophrenia, anxiety disorder other than PTSD, no history of stimulant use (the majority of patients had primarily diagnoses of stimulant use disorders or had polysubstance use histories that included stimulants).
 22-1	4496-4504	Although	_
 22-2	4505-4513	comorbid	_
 22-3	4514-4525	psychiatric	_
@@ -756,6 +778,7 @@
 22-58	4878-4879	)	_
 22-59	4880-4881	.	_
 
+Text=Four participants were omitted based on these criteria.
 23-1	4882-4886	Four	_
 23-2	4887-4899	participants	_
 23-3	4900-4904	were	_
@@ -766,6 +789,7 @@
 23-8	4928-4936	criteria	_
 23-9	4937-4938	.	_
 
+Text=A large proportion of participants for whom information was available were taking prescribed psychoactive medications (39.5%) and/or had mood disorders (23.3%), therefore we did not exclude participants on the basis of medication use or mood-disorder status.
 24-1	4939-4940	A	_
 24-2	4941-4946	large	_
 24-3	4947-4957	proportion	_
@@ -811,6 +835,7 @@
 24-43	5197-5203	status	_
 24-44	5204-5205	.	_
 
+Text=One participant was removed from the study for the presence of non-removable dental work that the participant did not report during screening which caused signal dropout.
 25-1	5206-5209	One	_
 25-2	5210-5221	participant	_
 25-3	5222-5225	was	_
@@ -839,6 +864,7 @@
 25-26	5368-5375	dropout	_
 25-27	5376-5377	.	_
 
+Text=The 43 remaining participants were included in the study, 14 of whom had received a PTSD diagnosis.
 26-1	5378-5381	The	_
 26-2	5382-5384	43	_
 26-3	5385-5394	remaining	_
@@ -859,6 +885,7 @@
 26-18	5468-5477	diagnosis	_
 26-19	5478-5479	.	_
 
+Text=Each of the 43 participants contributed two runs of fMRI data, except for four subjects (two from the PTSD, two from the noPTSD group) who contributed one run due to excessive motion (> 3 mm).
 27-1	5480-5484	Each	_
 27-2	5485-5487	of	_
 27-3	5488-5491	the	_
@@ -902,6 +929,7 @@
 27-41	5676-5677	)	_
 27-42	5678-5679	.	_
 
+Text=See Table 1 for demographics and clinical characteristics.
 28-1	5680-5683	See	_
 28-2	5684-5689	Table	_
 28-3	5690-5691	1	_
@@ -912,6 +940,7 @@
 28-8	5722-5737	characteristics	_
 28-9	5738-5739	.	_
 
+Text=All study procedures were approved by the University of Southern California Institutional Review Board.
 29-1	5740-5743	All	_
 29-2	5744-5749	study	_
 29-3	5750-5760	procedures	_
@@ -928,6 +957,7 @@
 29-14	5837-5842	Board	_
 29-15	5843-5844	.	_
 
+Text=Participants provided written informed consent and were compensated for their time.
 30-1	5845-5857	Participants	_
 30-2	5858-5866	provided	_
 30-3	5867-5874	written	_
@@ -941,6 +971,7 @@
 30-11	5923-5927	time	_
 30-12	5928-5929	.	_
 
+Text=Measures Life stressors checklist – revised The Life Stressor Checklist-Revised (LSC-R) is a measure of traumatic events and stressors that are particularly relevant to women's life experiences.
 31-1	5930-5938	Measures	_
 31-2	5939-5943	Life	_
 31-3	5944-5953	stressors	_
@@ -973,6 +1004,7 @@
 31-30	6115-6126	experiences	_
 31-31	6127-6128	.	_
 
+Text=Its use has been validated in women with co-morbid substance abuse and mental disorders, with histories of interpersonal violence victimization.
 32-1	6129-6132	Its	_
 32-2	6133-6136	use	_
 32-3	6137-6140	has	_
@@ -996,6 +1028,7 @@
 32-21	6260-6273	victimization	_
 32-22	6274-6275	.	_
 
+Text=LSC-R follows a yes/no response format with follow-up questions that characterize the life stage (s) at which events occurred and the degree to which the respondent is currently affected by the experience.
 33-1	6276-6281	LSC-R	_
 33-2	6282-6289	follows	_
 33-3	6290-6291	a	_
@@ -1032,6 +1065,7 @@
 33-34	6472-6482	experience	_
 33-35	6483-6484	.	_
 
+Text=Events can be brief, single incidents or repeated traumas that may have occurred at any point in the lifespan (prior to age eighteen, adulthood, and within the last 8 months of the interview).
 34-1	6485-6491	Events	_
 34-2	6492-6495	can	_
 34-3	6496-6498	be	_
@@ -1072,6 +1106,7 @@
 34-38	6680-6681	)	_
 34-39	6682-6683	.	_
 
+Text=For the present study, we use dichotomously scored responses (range: 0–30) reflecting events at any point during the lifespan.
 35-1	6684-6687	For	_
 35-2	6688-6691	the	_
 35-3	6692-6699	present	_
@@ -1097,6 +1132,7 @@
 35-23	6805-6813	lifespan	_
 35-24	6814-6815	.	_
 
+Text=Addiction severity index Alcohol and substance use severity for the 30 days prior to treatment entry was assessed using the Addiction Severity Index (ASI:) and the Timeline Followback Interview (TLFB).
 36-1	6816-6825	Addiction	_
 36-2	6826-6834	severity	_
 36-3	6835-6840	index	_
@@ -1134,6 +1170,7 @@
 36-35	7020-7021	)	http://maven.renci.org/NeuroBridge/neurobridge#TimeIntervalUnit
 36-36	7022-7023	.	_
 
+Text=Post-traumatic stress disorder (PTSD) symptoms scale The PTSD Symptom Scale (PSS-I) is a semi-structured interview, which was used to obtain an overall severity score of PTSD symptoms according to DSM-IV, as well as separate severity scores for symptom subdomains: re-experiencing, avoidance, arousal.
 37-1	7024-7038	Post-traumatic	http://maven.renci.org/NeuroBridge/neurobridge#PosttraumaticStressDisorderSymptomsScale
 37-2	7039-7045	stress	http://maven.renci.org/NeuroBridge/neurobridge#PosttraumaticStressDisorderSymptomsScale
 37-3	7046-7054	disorder	http://maven.renci.org/NeuroBridge/neurobridge#PosttraumaticStressDisorderSymptomsScale
@@ -1187,6 +1224,7 @@
 37-51	7326-7333	arousal	_
 37-52	7334-7335	.	_
 
+Text=Scores range from 0 to 34, with higher scores reflecting more severe symptomatology.
 38-1	7336-7342	Scores	_
 38-2	7343-7348	range	_
 38-3	7349-7353	from	_
@@ -1203,6 +1241,7 @@
 38-14	7406-7420	symptomatology	_
 38-15	7421-7422	.	_
 
+Text=The interoceptive-exteroceptive attention task The Interoceptive-Exteroceptive Attention task (The IN-OUT task) was adapted from, which investigated BOLD changes in interoceptive attention in response to Mindfulness-Based Stress Reduction (MBSR) training.
 39-1	7423-7426	The	_
 39-2	7427-7454	interoceptive-exteroceptive	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 39-3	7455-7464	attention	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
@@ -1239,6 +1278,7 @@
 39-34	7674-7682	training	http://maven.renci.org/NeuroBridge/neurobridge#Education
 39-35	7683-7684	.	_
 
+Text=The approach contrasts brain activity during attention to the sensations of breathing versus attention to an external target.
 40-1	7685-7688	The	_
 40-2	7689-7697	approach	_
 40-3	7698-7707	contrasts	_
@@ -1259,6 +1299,7 @@
 40-18	7803-7809	target	_
 40-19	7810-7811	.	_
 
+Text=By contrasting internally and externally directed focus, this approach capitalizes on the “ attentional spotlight ” effect, whereby focus on a sensory quality amplifies the signal within brain regions associated with processing that sensory modality.
 41-1	7812-7814	By	_
 41-2	7815-7826	contrasting	_
 41-3	7827-7837	internally	_
@@ -1298,6 +1339,7 @@
 41-37	8055-8063	modality	_
 41-38	8064-8065	.	_
 
+Text=Variations on this task have previously been used to isolate BOLD responses in regions associated with interoception in expert meditators, healthy individuals, as well as in clinical populations with depression and anorexia nervosa.
 42-1	8066-8076	Variations	_
 42-2	8077-8079	on	_
 42-3	8080-8084	this	_
@@ -1335,6 +1377,7 @@
 42-35	8292-8299	nervosa	_
 42-36	8300-8301	.	_
 
+Text=The magnitude of insula response during focused breathing tasks appears to track the quality of internal focus, which increases as a function of hours practiced in novices who participated in a mindfulness-based stress reduction (MBSR) program.
 43-1	8302-8305	The	_
 43-2	8306-8315	magnitude	_
 43-3	8316-8318	of	_
@@ -1376,6 +1419,7 @@
 43-39	8541-8548	program	_
 43-40	8549-8550	.	_
 
+Text=During the IN-OUT task participants performed two experimental conditions involving sustained attentional targets: the interoceptive (IN) condition and the exteroceptive (OUT) condition.
 44-1	8551-8557	During	_
 44-2	8558-8561	the	_
 44-3	8562-8568	IN-OUT	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -1405,6 +1449,7 @@
 44-27	8732-8741	condition	_
 44-28	8742-8743	.	_
 
+Text=Participants completed two runs, each containing nine blocks.
 45-1	8744-8756	Participants	_
 45-2	8757-8766	completed	_
 45-3	8767-8770	two	_
@@ -1416,6 +1461,7 @@
 45-9	8799-8805	blocks	_
 45-10	8806-8807	.	_
 
+Text=The blocks were presented in pseudorandomized order- half of the runs contained five blocks of IN, and four blocks of OUT, while other blocks contained four blocks of IN and five blocks of OUT.
 46-1	8808-8811	The	_
 46-2	8812-8818	blocks	_
 46-3	8819-8823	were	_
@@ -1454,6 +1500,7 @@
 46-36	8999-9002	OUT	_
 46-37	9003-9004	.	_
 
+Text=For the IN condition, subjects were instructed to attend to bodily sensations associated with their breathing cycle with the following instructions: “ Please pay attention to the physical sensation of the breath wherever you feel it most strongly in the body.
 47-1	9005-9008	For	_
 47-2	9009-9012	the	_
 47-3	9013-9015	IN	_
@@ -1499,6 +1546,7 @@
 47-43	9261-9265	body	_
 47-44	9266-9267	.	_
 
+Text=Follow the natural and spontaneous movement of the breath, not trying to change it in any way.
 48-1	9268-9274	Follow	_
 48-2	9275-9278	the	_
 48-3	9279-9286	natural	_
@@ -1519,6 +1567,7 @@
 48-18	9359-9362	way	_
 48-19	9363-9364	.	_
 
+Text=Just pay attention to it.
 49-1	9365-9369	Just	_
 49-2	9370-9373	pay	_
 49-3	9374-9383	attention	_
@@ -1526,6 +1575,7 @@
 49-5	9387-9389	it	_
 49-6	9390-9391	.	_
 
+Text=If you find that your attention has wandered to something else, gently but firmly bring it back to the physical sensations of the breath in the body ”.
 50-1	9392-9394	If	_
 50-2	9395-9398	you	_
 50-3	9399-9403	find	_
@@ -1557,6 +1607,7 @@
 50-29	9542-9543	”	_
 50-30	9544-9545	.	_
 
+Text=During the IN condition, an “ O ” appeared on the center of the screen for 36 s, on which subjects were instructed to fix their gaze while simultaneously attending to the sensations of their breathing cycle.
 51-1	9546-9552	During	_
 51-2	9553-9556	the	_
 51-3	9557-9559	IN	_
@@ -1598,6 +1649,7 @@
 51-39	9749-9754	cycle	_
 51-40	9755-9756	.	_
 
+Text=The OUT condition consisted of a “ 1-back ” task, which we considered to be an attention control condition.
 52-1	9757-9760	The	_
 52-2	9761-9764	OUT	http://maven.renci.org/NeuroBridge/neurobridge#PhysiologicalState
 52-3	9765-9774	condition	http://maven.renci.org/NeuroBridge/neurobridge#PhysiologicalState
@@ -1620,6 +1672,7 @@
 52-20	9855-9864	condition	_
 52-21	9865-9866	.	_
 
+Text=During the OUT blocks, a letter from the set (A, B, C, D) was presented for 500 ms in a pseudorandom sequence.
 53-1	9867-9873	During	_
 53-2	9874-9877	the	_
 53-3	9878-9881	OUT	_
@@ -1650,6 +1703,7 @@
 53-28	9974-9982	sequence	_
 53-29	9983-9984	.	_
 
+Text=A fixation cross was presented in between each letter for 900 ms.
 54-1	9985-9986	A	_
 54-2	9987-9995	fixation	_
 54-3	9996-10001	cross	_
@@ -1664,6 +1718,7 @@
 54-12	10047-10049	ms	_
 54-13	10050-10051	.	_
 
+Text=When a letter repeated, the participant was instructed to press a key on the button box.
 55-1	10052-10056	When	_
 55-2	10057-10058	a	_
 55-3	10059-10065	letter	_
@@ -1683,6 +1738,7 @@
 55-17	10137-10140	box	_
 55-18	10141-10142	.	_
 
+Text=The OUT blocks lasted 38.7 s. The sequence of letters presented, key presses, and response times were recorded for each OUT block.
 56-1	10143-10146	The	_
 56-2	10147-10150	OUT	_
 56-3	10151-10157	blocks	_
@@ -1709,6 +1765,7 @@
 56-24	10269-10274	block	_
 56-25	10275-10276	.	_
 
+Text=Prior to each block, the subject was presented with an instruction screen for 10 s that cued them to the upcoming block.
 57-1	10277-10282	Prior	_
 57-2	10283-10285	to	_
 57-3	10286-10290	each	_
@@ -1734,6 +1791,7 @@
 57-23	10392-10397	block	_
 57-24	10398-10399	.	_
 
+Text=fMRI acquisition and analysis Imaging set-up Images were acquired with a 3 T Siemens MAGNETON Prisma System, with a 20-channel head coil.
 58-1	10400-10404	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 58-2	10405-10416	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 58-3	10417-10420	and	_
@@ -1759,6 +1817,7 @@
 58-23	10533-10537	coil	_
 58-24	10538-10539	.	_
 
+Text=Functional images were obtained using a gradient echo, echo-planar, T2 * -weighted pulse sequence (TR = 2000 ms, one shot per repetition, TE = 25 ms, flip angle = 90°, 64 × 64 in-plane resolution).
 59-1	10540-10550	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 59-2	10551-10557	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 59-3	10558-10562	were	_
@@ -1804,6 +1863,7 @@
 59-43	10743-10744	)	_
 59-44	10745-10746	.	_
 
+Text=Forty-one slices covering the entire brain were acquired with a voxel resolution of 3 cubic mm.
 60-1	10747-10756	Forty-one	_
 60-2	10757-10763	slices	_
 60-3	10764-10772	covering	_
@@ -1822,6 +1882,7 @@
 60-16	10839-10841	mm	_
 60-17	10842-10843	.	_
 
+Text=Structural T1-weighted magnetization-prepared rapid gradient echo (MPRAGE) images were acquired with the following parameters: TR = 1950 ms, TE = 2.26 ms, TI = 900 ms, Flip Angle = 7°, matrix = 256 × 224, 1 mm isotropic resolution, 176 sagittal slices, acquisition time = 241 s. Respiration and pulse oximetry were measured during scanning using Biopac MP150 hardware and MR-compatible respiratory stretch transducer and pulse oximeter (Nonin Medical, 8600FO).
 61-1	10844-10854	Structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 61-2	10855-10866	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 61-3	10867-10889	magnetization-prepared	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1907,6 +1968,7 @@
 61-83	11315-11316	)	_
 61-84	11317-11318	.	_
 
+Text=Physiological data were sampled with a 1000 Hz sampling rate.
 62-1	11319-11332	Physiological	_
 62-2	11333-11337	data	_
 62-3	11338-11342	were	_
@@ -1919,6 +1981,7 @@
 62-10	11375-11379	rate	_
 62-11	11380-11381	.	_
 
+Text=The acquisition was synchronized to the scanner via a TTL pulse, and recorded in Biopac Acqknowledge software.
 63-1	11382-11385	The	_
 63-2	11386-11397	acquisition	_
 63-3	11398-11401	was	_
@@ -1939,6 +2002,7 @@
 63-18	11484-11492	software	_
 63-19	11493-11494	.	_
 
+Text=The IN-OUT Attention task was scripted using MATLAB and Psychtoolbox 3. fMRI pre-processing RETROICOR and respiratory and cardiac response functions (RVHRCOR) were applied to the functional volumes to reduce non-neuronal contributions of physiological noise.
 64-1	11495-11498	The	_
 64-2	11499-11505	IN-OUT	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 64-3	11506-11515	Attention	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
@@ -1977,6 +2041,7 @@
 64-36	11749-11754	noise	_
 64-37	11755-11756	.	_
 
+Text=RETROICOR models periodic pulsatile noise in the BOLD time series associated with respiratory and cardiac cycles as a low-order Fourier phase expansion.
 65-1	11757-11766	RETROICOR	_
 65-2	11767-11773	models	_
 65-3	11774-11782	periodic	_
@@ -2001,6 +2066,7 @@
 65-22	11899-11908	expansion	_
 65-23	11909-11910	.	_
 
+Text=RVHRCOR removes low-frequency cardiac and respiratory effects by convolving the respiratory and cardiac data with their respective response functions.
 66-1	11911-11918	RVHRCOR	_
 66-2	11919-11926	removes	_
 66-3	11927-11940	low-frequency	_
@@ -2022,6 +2088,7 @@
 66-19	12051-12060	functions	_
 66-20	12061-12062	.	_
 
+Text=The convolved cardiac and respiratory waveforms are then used as regressors for each voxel's time series using least squares.
 67-1	12063-12066	The	_
 67-2	12067-12076	convolved	_
 67-3	12077-12084	cardiac	_
@@ -2044,6 +2111,7 @@
 67-20	12181-12188	squares	_
 67-21	12189-12190	.	_
 
+Text=RETROICOR (order = 4) and RVHRCOR were performed in MATLAB using code obtained from C. Chang.
 68-1	12191-12200	RETROICOR	_
 68-2	12201-12202	(	_
 68-3	12203-12208	order	_
@@ -2064,6 +2132,7 @@
 68-18	12280-12285	Chang	_
 68-19	12286-12287	.	_
 
+Text=Subsequent pre-processing steps were carried out in FSL (FMRIB's Software Library; http: //fsl.fmrib.ox.ac.uk/fsl/fslwiki/) and included skull stripping with BET, motion correction (MCFLIRT), slice-timing correction, high-pass temporal filtering (90 s), and spatial smoothing using a 5 mm Gaussian FWHM filter.
 69-1	12288-12298	Subsequent	_
 69-2	12299-12313	pre-processing	_
 69-3	12314-12319	steps	_
@@ -2118,6 +2187,7 @@
 69-52	12604-12610	filter	_
 69-53	12611-12612	.	_
 
+Text=Additional sources of movement and scanner noise were removed using FSL's MELODIC ICA for each individual run.
 70-1	12613-12623	Additional	_
 70-2	12624-12631	sources	_
 70-3	12632-12634	of	_
@@ -2138,6 +2208,7 @@
 70-18	12720-12723	run	_
 70-19	12724-12725	.	_
 
+Text=Subject-level ICA-based denoising substantially improves the reproducibility of group-ICA decompositions relative to both motion scrubbing and nuisance regression.
 71-1	12726-12739	Subject-level	_
 71-2	12740-12749	ICA-based	_
 71-3	12750-12759	denoising	_
@@ -2158,6 +2229,7 @@
 71-18	12878-12888	regression	_
 71-19	12889-12890	.	_
 
+Text=Each component for each subject and run was manually inspected and labeled by an experimenter blind to participant diagnoses.
 72-1	12891-12895	Each	_
 72-2	12896-12905	component	_
 72-3	12906-12909	for	_
@@ -2179,6 +2251,7 @@
 72-19	13006-13015	diagnoses	_
 72-20	13016-13017	.	_
 
+Text=Components flagged as artifact were regressed from the functional volume.
 73-1	13018-13028	Components	_
 73-2	13029-13036	flagged	_
 73-3	13037-13039	as	_
@@ -2191,6 +2264,7 @@
 73-10	13084-13090	volume	_
 73-11	13091-13092	.	_
 
+Text=The functional volumes were realigned to each participant's respective T1-weighted anatomical image, then normalized into standard space using 12°-of-freedom affine transformation and 2 mm resolution.
 74-1	13093-13096	The	_
 74-2	13097-13107	functional	_
 74-3	13108-13115	volumes	_
@@ -2220,6 +2294,7 @@
 74-27	13284-13294	resolution	_
 74-28	13295-13296	.	_
 
+Text=Group independent components analysis To identify group-level intrinsic functional networks, we utilized the Multivariate Exploratory Linear Optimized Decomposition into Independent Components (MELODIC) algorithm in FSL.
 75-1	13297-13302	Group	_
 75-2	13303-13314	independent	_
 75-3	13315-13325	components	_
@@ -2250,6 +2325,7 @@
 75-28	13516-13519	FSL	_
 75-29	13520-13521	.	_
 
+Text=Independent components analysis separates underlying sources from a linearly mixed multivariate signal.
 76-1	13522-13533	Independent	_
 76-2	13534-13544	components	_
 76-3	13545-13553	analysis	_
@@ -2264,6 +2340,7 @@
 76-12	13618-13624	signal	_
 76-13	13625-13626	.	_
 
+Text=Preprocessed fMRI data from each subject and run were temporally concatenated into a single 4D file (each subject provided two runs of data, less the four subjects who provided only one run, for a total of 82 runs) and submitted to MELODIC analysis, with variance normalization.
 77-1	13627-13639	Preprocessed	_
 77-2	13640-13644	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 77-3	13645-13649	data	_
@@ -2317,6 +2394,7 @@
 77-51	13896-13909	normalization	_
 77-52	13910-13911	.	_
 
+Text=Thus, the group ICA solution reflects the combined contributions of both the PTSD and noPTSD groups.
 78-1	13912-13916	Thus	_
 78-2	13917-13918	,	_
 78-3	13919-13922	the	_
@@ -2336,6 +2414,7 @@
 78-17	14006-14012	groups	_
 78-18	14013-14014	.	_
 
+Text=The dimensionality of the solution was constrained to 20 networks, a level of granularity commonly used to identify large-scale networks.
 79-1	14015-14018	The	_
 79-2	14019-14033	dimensionality	_
 79-3	14034-14036	of	_
@@ -2359,6 +2438,7 @@
 79-21	14144-14152	networks	_
 79-22	14153-14154	.	_
 
+Text=Thereafter, the 20 group-level normalized networks were spatially cross-correlated against 20 network solution to determine their correspondence to a canonical set of intrinsic networks and artifacts.
 80-1	14155-14165	Thereafter	_
 80-2	14166-14167	,	_
 80-3	14168-14171	the	_
@@ -2388,6 +2468,7 @@
 80-27	14346-14355	artifacts	_
 80-28	14356-14357	.	_
 
+Text=Dual regression to obtain subject-level networks In the first stage of the dual regression, the unthresholded group-level networks are first regressed onto each participant's fMRI series to extract beta-weights that form a subject-specific time series for each component and functional run (the spatial regression).
 81-1	14358-14362	Dual	_
 81-2	14363-14373	regression	_
 81-3	14374-14376	to	_
@@ -2438,6 +2519,7 @@
 81-48	14675-14676	)	_
 81-49	14677-14678	.	_
 
+Text=Next, the variance-normalized time series for each component and run obtained from the first stage are used as predictor vectors for each participant's fMRI series to obtain a subject-specific component map (the temporal regression).
 82-1	14679-14683	Next	_
 82-2	14684-14685	,	_
 82-3	14686-14689	the	_
@@ -2478,6 +2560,7 @@
 82-38	14914-14915	)	_
 82-39	14916-14917	.	_
 
+Text=These whole-brain spatial maps reflect each voxel's correlation with the group-level network; consequently, functional connectivity of a given network can manifest in any region of the brain, regardless of whether that region is typically associated with the canonical network.
 83-1	14918-14923	These	_
 83-2	14924-14935	whole-brain	_
 83-3	14936-14943	spatial	_
@@ -2523,6 +2606,7 @@
 83-43	15191-15198	network	_
 83-44	15199-15200	.	_
 
+Text=This approach allows identification of group differences in spatial connectivity of functional networks.
 84-1	15201-15205	This	_
 84-2	15206-15214	approach	_
 84-3	15215-15221	allows	_
@@ -2538,6 +2622,7 @@
 84-13	15296-15304	networks	_
 84-14	15305-15306	.	_
 
+Text=We carried out dual regression on each group-level network individually, excluding: 1) the six networks deemed artifactual based on visual inspection and comparison with canonical networks and 2) the six networks that were not found to be significantly task-related (see Section 3.6 below).
 85-1	15307-15309	We	_
 85-2	15310-15317	carried	_
 85-3	15318-15321	out	_
@@ -2589,6 +2674,7 @@
 85-49	15601-15602	)	_
 85-50	15603-15604	.	_
 
+Text=Thus, we carried out eight separate dual regressions on the networks identified as significantly associated with IN and OUT conditions of the task.
 86-1	15605-15609	Thus	_
 86-2	15610-15611	,	_
 86-3	15612-15614	we	_
@@ -2615,6 +2701,7 @@
 86-24	15748-15752	task	_
 86-25	15753-15754	.	_
 
+Text=Each dual regression produced two spatial maps per subject (corresponding to the two runs, less the four exceptions who contributed one run of data).
 87-1	15755-15759	Each	_
 87-2	15760-15764	dual	_
 87-3	15765-15775	regression	_
@@ -2644,6 +2731,7 @@
 87-27	15905-15906	)	_
 87-28	15907-15908	.	_
 
+Text=Each subject's Z-transformed maps were then averaged using the fslmaths to form a single 3D file for each component.
 88-1	15909-15913	Each	_
 88-2	15914-15921	subject	_
 88-3	15922-15924	's	_
@@ -2666,6 +2754,7 @@
 88-20	16016-16025	component	_
 88-21	16026-16027	.	_
 
+Text=These averaged subject-specific spatial maps for a given component were then concatenated to form a 4D file, which served as the input for cross-subject statistics.
 89-1	16028-16033	These	_
 89-2	16034-16042	averaged	_
 89-3	16043-16059	subject-specific	_
@@ -2694,6 +2783,7 @@
 89-26	16182-16192	statistics	_
 89-27	16193-16194	.	_
 
+Text=Identification of task-modulated networks To identify task-modulated networks in ICA-analysis of task fMRI data, we regressed the run-specific activity time courses for each network against the run's respective task-design matrix using the fsl_glm utility.
 90-1	16195-16209	Identification	_
 90-2	16210-16212	of	_
 90-3	16213-16227	task-modulated	_
@@ -2732,6 +2822,7 @@
 90-36	16445-16452	utility	_
 90-37	16453-16454	.	_
 
+Text=This approach essentially answers the question of whether a network is more active in one task condition, by allowing us to determine the fit between the network time-course and task design for each run.
 91-1	16455-16459	This	_
 91-2	16460-16468	approach	_
 91-3	16469-16480	essentially	_
@@ -2769,6 +2860,7 @@
 91-35	16655-16658	run	_
 91-36	16659-16660	.	_
 
+Text=After combining the beta estimates and variance from each regression using a fixed effects approach to obtain a single parameter estimate per subject and component, we could determine which components were relatively more active during IN blocks compared to OUT blocks and visa-versa using one-sample t-tests.
 92-1	16661-16666	After	_
 92-2	16667-16676	combining	_
 92-3	16677-16680	the	_
@@ -2818,6 +2910,7 @@
 92-47	16963-16970	t-tests	_
 92-48	16971-16972	.	_
 
+Text=Since contrast estimates for the relative comparison of the two conditions (i.e.
 93-1	16973-16978	Since	_
 93-2	16979-16987	contrast	_
 93-3	16988-16997	estimates	_
@@ -2833,6 +2926,7 @@
 93-13	17050-17053	i.e	_
 93-14	17054-17055	.	_
 
+Text=OUT> IN, IN> OUT) differ only in sign, t-tests were set-up such that positive values indicated the degree to which the network was relatively more active during the IN condition, while negative values indicated the degree to which the network was relatively more active during the OUT condition.
 94-1	17056-17059	OUT	_
 94-2	17060-17061	>	_
 94-3	17062-17064	IN	_
@@ -2889,6 +2983,7 @@
 94-54	17347-17356	condition	_
 94-55	17357-17358	.	_
 
+Text=The p-values were further Bonferroni corrected, which limited the number of networks only to those that most strongly differentiated the two task conditions.
 95-1	17359-17362	The	_
 95-2	17363-17371	p-values	_
 95-3	17372-17376	were	_
@@ -2915,6 +3010,7 @@
 95-24	17506-17516	conditions	_
 95-25	17517-17518	.	_
 
+Text=Components which were significantly associated with the task were used to compare spatial differences in network functional connectivity across the PTSD and noPTSD groups.
 96-1	17519-17529	Components	_
 96-2	17530-17535	which	_
 96-3	17536-17540	were	_
@@ -2941,6 +3037,7 @@
 96-24	17683-17689	groups	_
 96-25	17690-17691	.	_
 
+Text=Functional connectivity of task-modulated networks Group differences between noPTSD and PTSD were assessed for the networks that were determined to be significantly task-modulated, constrained to voxels within a binarized mask containing positive values.
 97-1	17692-17702	Functional	_
 97-2	17703-17715	connectivity	_
 97-3	17716-17718	of	_
@@ -2977,6 +3074,7 @@
 97-34	17940-17946	values	_
 97-35	17947-17948	.	_
 
+Text=We used non-parametric Monte-Carlo based permutation testing with 10,000 permutations and alpha = 0.05.
 98-1	17949-17951	We	_
 98-2	17952-17956	used	_
 98-3	17957-17971	non-parametric	_
@@ -2993,6 +3091,7 @@
 98-14	18047-18051	0.05	_
 98-15	18052-18053	.	_
 
+Text=Clusters of activation were estimated using threshold-free cluster enhancement (TFCE) with a variance smoothing factor of 5 mm.
 99-1	18054-18062	Clusters	_
 99-2	18063-18065	of	_
 99-3	18066-18076	activation	_
@@ -3015,6 +3114,7 @@
 99-20	18180-18182	mm	_
 99-21	18183-18184	.	_
 
+Text=This procedure corrects for the family-wise error rate.
 100-1	18185-18189	This	_
 100-2	18190-18199	procedure	_
 100-3	18200-18208	corrects	_
@@ -3025,6 +3125,7 @@
 100-8	18235-18239	rate	_
 100-9	18240-18241	.	_
 
+Text=Mean-centered age and ASI drug use severity scores were included as covariates of no-interest.
 101-1	18242-18255	Mean-centered	_
 101-2	18256-18259	age	_
 101-3	18260-18263	and	_
@@ -3041,6 +3142,7 @@
 101-14	18324-18335	no-interest	_
 101-15	18336-18337	.	_
 
+Text=Statistical maps were rendered onto a standard MNI brain using MRIcroGL (http: //www.mccauslandcenter.sc.edu/mricrogl/).
 102-1	18338-18349	Statistical	_
 102-2	18350-18354	maps	_
 102-3	18355-18359	were	_
@@ -3059,6 +3161,7 @@
 102-16	18459-18460	)	_
 102-17	18461-18462	.	_
 
+Text=Probabilistic anatomical labels for cluster maxima were obtained from the Harvard-Oxford Cortical and Subcortical atlases, reported in standard MNI space.
 103-1	18463-18476	Probabilistic	_
 103-2	18477-18487	anatomical	_
 103-3	18488-18494	labels	_

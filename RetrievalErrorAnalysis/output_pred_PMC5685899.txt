@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Shared atypical default mode and salience network functional connectivity between autism and schizophrenia Schizophrenia and autism spectrum disorder (ASD) are two prevalent neurodevelopmental disorders sharing some similar genetic basis and clinical features.
 1-1	0-6	Shared	_
 1-2	7-15	atypical	_
 1-3	16-23	default	_
@@ -38,6 +39,7 @@
 1-34	253-261	features	_
 1-35	262-263	.	_
 
+Text=The extent to which they share common neural substrates remains unclear.
 2-1	264-267	The	_
 2-2	268-274	extent	_
 2-3	275-277	to	_
@@ -51,6 +53,7 @@
 2-11	328-335	unclear	_
 2-12	336-337	.	_
 
+Text=Resting-state fMRI data were collected from 35 drug-naïve adolescent participants with first-episode schizophrenia (15.6±1.8 years old) and 31 healthy controls (15.4±1.6 years old).
 3-1	338-351	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 3-2	352-356	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 3-3	357-361	data	_
@@ -80,6 +83,7 @@
 3-27	521-522	)	_
 3-28	523-524	.	_
 
+Text=Data from 22 participants with ASD (13.1±3.1 years old) and 21 healthy controls (12.9±2.9 years old) were downloaded from the Autism Brain Imaging Data Exchange.
 4-1	525-529	Data	_
 4-2	530-534	from	_
 4-3	535-537	22	_
@@ -111,6 +115,7 @@
 4-29	681-689	Exchange	_
 4-30	690-691	.	_
 
+Text=Resting-state functional networks were constructed using predefined regions of interest.
 5-1	692-705	Resting-state	_
 5-2	706-716	functional	_
 5-3	717-725	networks	_
@@ -123,6 +128,7 @@
 5-10	771-779	interest	_
 5-11	780-781	.	_
 
+Text=Multivariate pattern analysis combined with multi-task regression feature selection method was conducted in two datasets separately.
 6-1	782-794	Multivariate	_
 6-2	795-802	pattern	_
 6-3	803-811	analysis	_
@@ -141,6 +147,7 @@
 6-16	903-913	separately	_
 6-17	914-915	.	_
 
+Text=Classification between individuals with disorders and controls was achieved with high accuracy (schizophrenia dataset: accuracy=83%; ASD dataset: accuracy=80%).
 7-1	916-930	Classification	_
 7-2	931-938	between	_
 7-3	939-950	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
@@ -168,6 +175,7 @@
 7-25	1081-1082	)	_
 7-26	1083-1084	.	_
 
+Text=Shared atypical brain connections contributing to classification were mostly present in the default mode network and salience network.
 8-1	1085-1091	Shared	_
 8-2	1092-1100	atypical	_
 8-3	1101-1106	brain	_
@@ -188,6 +196,7 @@
 8-18	1211-1218	network	_
 8-19	1219-1220	.	_
 
+Text=These functional connections were further related to severity of social deficits in ASD (p=0.002).
 9-1	1221-1226	These	_
 9-2	1227-1237	functional	_
 9-3	1238-1249	connections	_
@@ -206,6 +215,7 @@
 9-16	1319-1320	)	_
 9-17	1321-1322	.	_
 
+Text=Distinct atypical connections were also more related to the default mode network and salience network, but showed different atypical connectivity patterns between the two disorders.
 10-1	1323-1331	Distinct	_
 10-2	1332-1340	atypical	_
 10-3	1341-1352	connections	_
@@ -234,6 +244,7 @@
 10-26	1495-1504	disorders	_
 10-27	1505-1506	.	_
 
+Text=These results suggest some common neural mechanisms contributing to schizophrenia and ASD, and may aid in understanding the pathology of these two neurodevelopmental disorders.
 11-1	1507-1512	These	_
 11-2	1513-1520	results	_
 11-3	1521-1528	suggest	_
@@ -261,6 +272,7 @@
 11-25	1674-1683	disorders	_
 11-26	1684-1685	.	_
 
+Text=Lay summary Autism spectrum disorder and schizophrenia are two common neurodevelopmental disorders which shared several genetic and behavioral features.
 12-1	1686-1689	Lay	_
 12-2	1690-1697	summary	_
 12-3	1698-1704	Autism	http://maven.renci.org/NeuroBridge/neurobridge#AutismSpectrumDisorder
@@ -282,6 +294,7 @@
 12-19	1829-1837	features	_
 12-20	1838-1839	.	_
 
+Text=The presenting study suggested some common neural mechanisms contributing ASD and schizophrenia using the functional connectivity method based on the resting-state functional fMRI data.
 13-1	1840-1843	The	_
 13-2	1844-1854	presenting	_
 13-3	1855-1860	study	_
@@ -308,6 +321,7 @@
 13-24	2020-2024	data	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 13-25	2025-2026	.	_
 
+Text=The results may help to understanding the pathology of these two neurodevelopmental disorder.
 14-1	2027-2030	The	_
 14-2	2031-2038	results	_
 14-3	2039-2042	may	_
@@ -323,6 +337,7 @@
 14-13	2111-2119	disorder	_
 14-14	2120-2121	.	_
 
+Text=Methods Participants Schizophrenia dataset Thirty-five drug-naïve adolescent participants (age range 12 – 18 years; 20 males and 15 females) with first-episode schizophrenia were recruited from The Second Affiliated Hospital of XinXiang Medical University.
 15-1	2122-2129	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 15-2	2130-2142	Participants	_
 15-3	2143-2156	Schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -361,6 +376,7 @@
 15-36	2370-2380	University	_
 15-37	2381-2382	.	_
 
+Text=All subjects met the DSM-IV-TR criteria for schizophrenia and had no co-morbid Axis I diagnosis.
 16-1	2383-2386	All	_
 16-2	2387-2395	subjects	_
 16-3	2396-2399	met	_
@@ -378,6 +394,7 @@
 16-15	2469-2478	diagnosis	_
 16-16	2479-2480	.	_
 
+Text=The duration of illness was less than 2 years.
 17-1	2481-2484	The	_
 17-2	2485-2493	duration	_
 17-3	2494-2496	of	_
@@ -389,6 +406,7 @@
 17-9	2521-2526	years	_
 17-10	2527-2528	.	_
 
+Text=Schizophrenia was independently diagnosed by research psychiatrists based on the Structured Clinical Interview for DSM-IV-TR, Patient Version (SCID-I/P).
 18-1	2529-2542	Schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 18-2	2543-2546	was	_
 18-3	2547-2560	independently	_
@@ -412,6 +430,7 @@
 18-21	2683-2684	)	_
 18-22	2685-2686	.	_
 
+Text=Psychopathology was assessed in patients using the Positive and Negative Syndrome Scale (PANSS).
 19-1	2687-2702	Psychopathology	_
 19-2	2703-2706	was	_
 19-3	2707-2715	assessed	_
@@ -429,6 +448,7 @@
 19-15	2783-2784	)	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 19-16	2785-2786	.	_
 
+Text=Thirty-one age-, gender-, education- and IQ-matched HCs were recruited (age range 13 – 17 years, 13 males and 18 females).
 20-1	2787-2797	Thirty-one	_
 20-2	2798-2802	age-	_
 20-3	2803-2804	,	_
@@ -456,6 +476,7 @@
 20-25	2912-2913	)	_
 20-26	2914-2915	.	_
 
+Text=All HCs had no (1) past or current neurological disorders, or family history of hereditary neurological disorders; (2) history of head injury resulting in loss of consciousness; (3) alcohol or substance abuse; (4) claustrophobia.
 21-1	2916-2919	All	_
 21-2	2920-2923	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 21-3	2924-2927	had	_
@@ -504,6 +525,7 @@
 21-46	3142-3156	claustrophobia	_
 21-47	3157-3158	.	_
 
+Text=No subject was excluded due to maximum head motion greater than 3mm or 3 degrees rotation or more than 50% censored frames, see Preprocessing for details.
 22-1	3159-3161	No	_
 22-2	3162-3169	subject	_
 22-3	3170-3173	was	_
@@ -534,6 +556,7 @@
 22-28	3307-3314	details	_
 22-29	3315-3316	.	_
 
+Text=ASD dataset Resting-state fMRI data were downloaded from the Autism Brain Imaging Data Exchange (ABIDE) database (http: //fcon_1000.projects.nitrc.org/indi/abide/).
 23-1	3317-3320	ASD	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 23-2	3321-3328	dataset	_
 23-3	3329-3342	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -559,6 +582,7 @@
 23-23	3484-3485	)	_
 23-24	3486-3487	.	_
 
+Text=Data from the Yale site (ASD: age range 7 – 17.17 years; 15 males and 7 females; HC: age range 7.66 – 17.83 years, 17 males and 7 females) were included in the current study to match the age range from the schizophrenia dataset.
 24-1	3488-3492	Data	_
 24-2	3493-3497	from	_
 24-3	3498-3501	the	_
@@ -612,6 +636,7 @@
 24-51	3715-3722	dataset	_
 24-52	3723-3724	.	_
 
+Text=After exclusion due to excessive head motion (7 participants were excluded due to maximum head motion greater than 3mm or 3 degrees rotation.
 25-1	3725-3730	After	_
 25-2	3731-3740	exclusion	_
 25-3	3741-3744	due	_
@@ -638,6 +663,7 @@
 25-24	3858-3866	rotation	_
 25-25	3867-3868	.	_
 
+Text=3 participants were excluded as more than 50% frames were censored, see Preprocessing for details), 22 participants with ASD and 24 HCs were included.
 26-1	3869-3870	3	_
 26-2	3871-3883	participants	_
 26-3	3884-3888	were	_
@@ -668,6 +694,7 @@
 26-28	4014-4022	included	_
 26-29	4023-4024	.	_
 
+Text=The subject IDs of the participants were listed in table.
 27-1	4025-4028	The	_
 27-2	4029-4036	subject	_
 27-3	4037-4040	IDs	_
@@ -680,6 +707,7 @@
 27-10	4076-4081	table	_
 27-11	4082-4083	.	_
 
+Text=S2 (see in SI).
 28-1	4084-4086	S2	_
 28-2	4087-4088	(	_
 28-3	4089-4092	see	_
@@ -688,6 +716,7 @@
 28-6	4099-4100	)	_
 28-7	4101-4102	.	_
 
+Text=Ethic Statement The Schizophrenia dataset was approved by the Ethics Committee of The Second Affiliated Hospital of Xinxiang Medical University.
 29-1	4103-4108	Ethic	_
 29-2	4109-4118	Statement	_
 29-3	4119-4122	The	_
@@ -710,6 +739,7 @@
 29-20	4236-4246	University	_
 29-21	4247-4248	.	_
 
+Text=The study was conducted under relevant guidelines between February 2012 and January 2013.
 30-1	4249-4252	The	_
 30-2	4253-4258	study	_
 30-3	4259-4262	was	_
@@ -725,6 +755,7 @@
 30-13	4333-4337	2013	_
 30-14	4338-4339	.	_
 
+Text=The methods were carried out in accordance with the approved guidelines.
 31-1	4340-4343	The	_
 31-2	4344-4351	methods	_
 31-3	4352-4356	were	_
@@ -738,6 +769,7 @@
 31-11	4401-4411	guidelines	_
 31-12	4412-4413	.	_
 
+Text=We obtained written informed consent from each participant.
 32-1	4414-4416	We	_
 32-2	4417-4425	obtained	_
 32-3	4426-4433	written	_
@@ -748,6 +780,7 @@
 32-8	4461-4472	participant	_
 32-9	4473-4474	.	_
 
+Text=All experimental protocol were approved by the Ethics Committee of The Second Affiliated Hospital of Xinxiang Medical University.
 33-1	4475-4478	All	_
 33-2	4479-4491	experimental	_
 33-3	4492-4500	protocol	_
@@ -768,6 +801,7 @@
 33-18	4593-4603	University	_
 33-19	4604-4605	.	_
 
+Text=The ASD dataset was from the open-access ABIDE database.
 34-1	4606-4609	The	_
 34-2	4610-4613	ASD	_
 34-3	4614-4621	dataset	_
@@ -779,6 +813,7 @@
 34-9	4653-4661	database	_
 34-10	4662-4663	.	_
 
+Text=Please found the ethic statement at the official website of ABIDE database (http: //fcon_1000.projects.nitrc.org/indi/abide/) Demographic details for the two datasets are listed in Table 1.
 35-1	4664-4670	Please	_
 35-2	4671-4676	found	_
 35-3	4677-4680	the	_
@@ -809,6 +844,7 @@
 35-28	4854-4855	1	_
 35-29	4856-4857	.	_
 
+Text=Imaging parameters Resting-state fMRI data for the schizophrenia dataset were acquired on a Siemens 3.0 T Trio scanner (Siemens Medical Systems, Erlangen, Germany), using an echo-planar imaging sequence with the following parameters: TR/TE = 2000/30 ms, flip angle = 90 degrees, 33 slices, acquire matrix = 64×64, field of view = 220×220 mm2, gap = 0.6 mm, voxel size = 3.4×3.4×4 mm3.
 36-1	4858-4865	Imaging	_
 36-2	4866-4876	parameters	_
 36-3	4877-4890	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -885,6 +921,7 @@
 36-74	5250-5253	mm3	_
 36-75	5254-5255	.	_
 
+Text=240 volumes resulting in 8 minutes of data were obtained.
 37-1	5256-5259	240	_
 37-2	5260-5267	volumes	_
 37-3	5268-5277	resulting	_
@@ -897,6 +934,7 @@
 37-10	5304-5312	obtained	_
 37-11	5313-5314	.	_
 
+Text=Resting-state fMRI data for the ASD dataset were acquired on a Siemens 3.0 T Trio scanner (Siemens Medical Systems, Erlangen, Germany), using an echo-planar imaging sequence with the following parameters: TR/TE= 2000/25 ms, flip angle = 60 degrees, 34 slices, acquire matrix = 64×64, field of view = 220×220 mm2, no gap, voxel size = 3.4×3.4×4 mm3.
 38-1	5315-5328	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 38-2	5329-5333	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 38-3	5334-5338	data	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -968,6 +1006,7 @@
 38-69	5671-5674	mm3	_
 38-70	5675-5676	.	_
 
+Text=200 volumes resulting in 6.7 minutes of data were obtained.
 39-1	5677-5680	200	_
 39-2	5681-5688	volumes	_
 39-3	5689-5698	resulting	_
@@ -980,6 +1019,7 @@
 39-10	5727-5735	obtained	_
 39-11	5736-5737	.	_
 
+Text=Resting-state fMRI data preprocessing All resting-state fMRI data were preprocessed using the Statistical Parameter Mapping 8 toolbox (SPM8, http: //www.fil.ion.ucl.ac.uk/spm) and the Data Processing Assistant for Resting-State fMRI toolbox (DPARSF, http: //rfmri.org/DPARSF).
 40-1	5738-5751	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 40-2	5752-5756	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 40-3	5757-5761	data	_
@@ -1022,6 +1062,7 @@
 40-40	6020-6021	)	_
 40-41	6022-6023	.	_
 
+Text=To ensure steady-state longitudinal magnetization, the first 10 images of each subject were excluded.
 41-1	6024-6026	To	_
 41-2	6027-6033	ensure	_
 41-3	6034-6046	steady-state	_
@@ -1039,6 +1080,7 @@
 41-15	6117-6125	excluded	_
 41-16	6126-6127	.	_
 
+Text=Slice timing correction was applied to correct the difference between slices and rigid head motion correction was utilized to correct the difference between volumes caused by head motion.
 42-1	6128-6133	Slice	_
 42-2	6134-6140	timing	_
 42-3	6141-6151	correction	_
@@ -1069,6 +1111,7 @@
 42-28	6308-6314	motion	_
 42-29	6315-6316	.	_
 
+Text=Subjects with head motion greater than 3.0mm in the x, y, or z direction or greater than 3 degrees rotation in each axis were excluded.
 43-1	6317-6325	Subjects	_
 43-2	6326-6330	with	_
 43-3	6331-6335	head	_
@@ -1098,6 +1141,7 @@
 43-27	6445-6453	excluded	_
 43-28	6454-6455	.	_
 
+Text=The corrected images were then warped into standard Montreal Neurological Institute (MNI) space.
 44-1	6456-6459	The	_
 44-2	6460-6469	corrected	_
 44-3	6470-6476	images	_
@@ -1115,6 +1159,7 @@
 44-15	6548-6553	space	_
 44-16	6554-6555	.	_
 
+Text=All normalized images were smoothed using an 8mm FWHM Gaussian kernel.
 45-1	6556-6559	All	_
 45-2	6560-6570	normalized	_
 45-3	6571-6577	images	_
@@ -1128,6 +1173,7 @@
 45-11	6619-6625	kernel	_
 45-12	6626-6627	.	_
 
+Text=The smoothed images were detrended and filtered (0.01–0.1Hz).
 46-1	6628-6631	The	_
 46-2	6632-6640	smoothed	_
 46-3	6641-6647	images	_
@@ -1140,6 +1186,7 @@
 46-10	6689-6690	)	_
 46-11	6691-6692	.	_
 
+Text=A CompCor method was applied to regress the signals from white matter and cerebrospinal fluid.
 47-1	6693-6694	A	_
 47-2	6695-6702	CompCor	_
 47-3	6703-6709	method	_
@@ -1157,6 +1204,7 @@
 47-15	6781-6786	fluid	_
 47-16	6787-6788	.	_
 
+Text=Five components of white matter and cerebrospinal fluid and 24 head motion parameters were regressed out of the data.
 48-1	6789-6793	Five	_
 48-2	6794-6804	components	_
 48-3	6805-6807	of	_
@@ -1178,6 +1226,7 @@
 48-19	6901-6905	data	_
 48-20	6906-6907	.	_
 
+Text=Global signal regression was not used in this study.
 49-1	6908-6914	Global	_
 49-2	6915-6921	signal	_
 49-3	6922-6932	regression	_
@@ -1189,6 +1238,7 @@
 49-9	6954-6959	study	_
 49-10	6960-6961	.	_
 
+Text=Volumes whose framewise displacement (FD) was larger than 0.5mm with prior 1 and later 2 volumes were excluded.
 50-1	6962-6969	Volumes	_
 50-2	6970-6975	whose	_
 50-3	6976-6985	framewise	_
@@ -1211,6 +1261,7 @@
 50-20	7066-7074	excluded	_
 50-21	7075-7076	.	_
 
+Text=Subjects with censored frames> 50% were excluded from further analyses.
 51-1	7077-7085	Subjects	_
 51-2	7086-7090	with	_
 51-3	7091-7099	censored	_
@@ -1225,6 +1276,7 @@
 51-12	7141-7149	analyses	_
 51-13	7150-7151	.	_
 
+Text=FD was defined as: Where the Δdix represents the displacement of x axis at timepoint i and is similar with other parameters of Δdiy, Δdiz, Δαi, Δβi and Δγi.
 52-1	7152-7154	FD	_
 52-2	7155-7158	was	_
 52-3	7159-7166	defined	_
@@ -1260,6 +1312,7 @@
 52-33	7308-7311	Δγi	_
 52-34	7312-7313	.	_
 
+Text=The r is the radius of 50 mm, which is the approximate mean distance from the center of the head to the cortex.
 53-1	7314-7317	The	_
 53-2	7318-7319	r	_
 53-3	7320-7322	is	_
@@ -1286,6 +1339,7 @@
 53-24	7419-7425	cortex	_
 53-25	7426-7427	.	_
 
+Text=No significant difference in mean FD between ASD and corresponding HCs (p = 0.11, t-test), and between subjects with schizophrenia and corresponding HCs (p = 0.51, t-test) were found.
 54-1	7428-7430	No	_
 54-2	7431-7442	significant	_
 54-3	7443-7453	difference	_
@@ -1324,6 +1378,7 @@
 54-36	7612-7617	found	_
 54-37	7618-7619	.	_
 
+Text=Functional connectivity network construction 160 MNI coordinates across the brain defined in a previous study were used to define regions of interest (ROIs) for the current study.
 55-1	7620-7630	Functional	_
 55-2	7631-7643	connectivity	_
 55-3	7644-7651	network	_
@@ -1355,6 +1410,7 @@
 55-29	7795-7800	study	_
 55-30	7801-7802	.	_
 
+Text=The coordinates were expanded to create 5-mm radius spherical ROIs, and ROIs in the cerebellum were excluded, resulting in 142 ROIs.
 56-1	7803-7806	The	_
 56-2	7807-7818	coordinates	_
 56-3	7819-7823	were	_
@@ -1380,6 +1436,7 @@
 56-23	7932-7936	ROIs	_
 56-24	7937-7938	.	_
 
+Text=Mean timeseries of the ROIs were extracted, and Pearson correlation coefficients were calculated between pairwise ROIs.
 57-1	7939-7943	Mean	_
 57-2	7944-7954	timeseries	_
 57-3	7955-7957	of	_
@@ -1399,6 +1456,7 @@
 57-17	8054-8058	ROIs	_
 57-18	8059-8060	.	_
 
+Text=To ensure normality, a Fisher Z-transformation was applied and the transformed FC values were used as classification features in subsequent analyses.
 58-1	8061-8063	To	_
 58-2	8064-8070	ensure	_
 58-3	8071-8080	normality	_
@@ -1423,6 +1481,7 @@
 58-22	8202-8210	analyses	_
 58-23	8211-8212	.	_
 
+Text=For the classification analysis, the Z values were normalized (range from −1 to 1).
 59-1	8213-8216	For	_
 59-2	8217-8220	the	_
 59-3	8221-8235	classification	_
@@ -1442,6 +1501,7 @@
 59-17	8297-8298	)	_
 59-18	8299-8300	.	_
 
+Text=Multi-task feature selection To assess shared atypical FC between ASD and schizophrenia we utilized a multi-task logistic regression feature selection method.
 60-1	8301-8311	Multi-task	_
 60-2	8312-8319	feature	_
 60-3	8320-8329	selection	_
@@ -1465,6 +1525,7 @@
 60-21	8452-8458	method	_
 60-22	8459-8460	.	_
 
+Text=Here we treated the schizophrenia-HC classification and ASD-HC classification as two independent tasks.
 61-1	8461-8465	Here	_
 61-2	8466-8468	we	_
 61-3	8469-8476	treated	_
@@ -1480,6 +1541,7 @@
 61-13	8558-8563	tasks	_
 61-14	8564-8565	.	_
 
+Text=This method utilized an l1/lq-norm regularization to regularize feature selection between the two tasks.
 62-1	8566-8570	This	_
 62-2	8571-8577	method	_
 62-3	8578-8586	utilized	_
@@ -1496,6 +1558,7 @@
 62-14	8664-8669	tasks	_
 62-15	8670-8671	.	_
 
+Text=The objective function is listed below: where αil represents the i-th sample for the l-th task, for example, in our study, αi1 represents the i-th sample in the schizophrenia dataset and αi2 represents the i-th sample in the ASD dataset; wil is the weight of αil; yil is the label of αil; cl is the intercept of the l-th task; β is the l1/lq norm regularization parameter.
 63-1	8672-8675	The	_
 63-2	8676-8685	objective	_
 63-3	8686-8694	function	_
@@ -1573,6 +1636,7 @@
 63-75	9042-9051	parameter	_
 63-76	9052-9053	.	_
 
+Text=The larger the wil, the more the feature contributed in the regression model.
 64-1	9054-9057	The	_
 64-2	9058-9064	larger	_
 64-3	9065-9068	the	_
@@ -1589,6 +1653,7 @@
 64-14	9126-9131	model	_
 64-15	9132-9133	.	_
 
+Text=We included the features with greater weight and constructed a classification model using these features on a training dataset.
 65-1	9134-9136	We	_
 65-2	9137-9145	included	_
 65-3	9146-9149	the	_
@@ -1610,6 +1675,7 @@
 65-19	9253-9260	dataset	_
 65-20	9261-9262	.	_
 
+Text=As the best number of features is unknown, we selected a range of numbers from 10 to 500.
 66-1	9263-9265	As	_
 66-2	9266-9269	the	_
 66-3	9270-9274	best	_
@@ -1631,6 +1697,7 @@
 66-19	9349-9352	500	_
 66-20	9353-9354	.	_
 
+Text=Support vector machine classification In the present study, we adopted a support vector machine (SVM) method as a classifier.
 67-1	9355-9362	Support	_
 67-2	9363-9369	vector	_
 67-3	9370-9377	machine	_
@@ -1655,6 +1722,7 @@
 67-22	9472-9482	classifier	_
 67-23	9483-9484	.	_
 
+Text=SVM is one type of supervised learning that is appropriate for use in cases where there is a large number of features but a small sample.
 68-1	9485-9488	SVM	_
 68-2	9489-9491	is	_
 68-3	9492-9495	one	_
@@ -1683,6 +1751,7 @@
 68-26	9615-9621	sample	_
 68-27	9622-9623	.	_
 
+Text=Here we used a linear kernel SVM to reduce the risk of overfitting.
 69-1	9624-9628	Here	_
 69-2	9629-9631	we	_
 69-3	9632-9636	used	_
@@ -1698,6 +1767,7 @@
 69-13	9679-9690	overfitting	_
 69-14	9691-9692	.	_
 
+Text=The LIBLINEAR toolbox was utilized with default parameters.
 70-1	9693-9696	The	_
 70-2	9697-9706	LIBLINEAR	_
 70-3	9707-9714	toolbox	_
@@ -1708,6 +1778,7 @@
 70-8	9741-9751	parameters	_
 70-9	9752-9753	.	_
 
+Text=Classification estimation A leave-one-out cross-validation (LOOCV) was implemented to estimate the classification accuracy.
 71-1	9754-9768	Classification	_
 71-2	9769-9779	estimation	_
 71-3	9780-9781	A	_
@@ -1725,6 +1796,7 @@
 71-15	9870-9878	accuracy	_
 71-16	9879-9880	.	_
 
+Text=In each trial of LOOCV, one subject was picked up for testing and the remaining ones were used for training.
 72-1	9881-9883	In	_
 72-2	9884-9888	each	_
 72-3	9889-9894	trial	_
@@ -1748,6 +1820,7 @@
 72-21	9981-9989	training	_
 72-22	9990-9991	.	_
 
+Text=The procedure was repeated n trials (n equals to the total number of subjects).
 73-1	9992-9995	The	_
 73-2	9996-10005	procedure	_
 73-3	10006-10009	was	_
@@ -1766,6 +1839,7 @@
 73-16	10071-10072	)	_
 73-17	10073-10074	.	_
 
+Text=The feature selection is embedded in the LOOCV and was only applied on the training set of each trial.
 74-1	10075-10078	The	_
 74-2	10079-10086	feature	_
 74-3	10087-10096	selection	_
@@ -1787,6 +1861,7 @@
 74-19	10171-10176	trial	_
 74-20	10177-10178	.	_
 
+Text=In each trial of LOOCV in each dataset, we obtained the multi-task regression weight of all features and we selected features with greater weight as classification features.
 75-1	10179-10181	In	_
 75-2	10182-10186	each	_
 75-3	10187-10192	trial	_
@@ -1817,6 +1892,7 @@
 75-28	10344-10352	features	_
 75-29	10353-10354	.	_
 
+Text=Since the optimal number of features is unknown, we chose a range of numbers from 10 to 500.
 76-1	10355-10360	Since	_
 76-2	10361-10364	the	_
 76-3	10365-10372	optimal	_
@@ -1838,6 +1914,7 @@
 76-19	10444-10447	500	_
 76-20	10448-10449	.	_
 
+Text=A flowchart of the classification procedure is presented in Fig.
 77-1	10450-10451	A	_
 77-2	10452-10461	flowchart	_
 77-3	10462-10464	of	_
@@ -1850,9 +1927,11 @@
 77-10	10510-10513	Fig	_
 77-11	10514-10515	.	_
 
+Text=1.
 78-1	10516-10517	1	_
 78-2	10518-10519	.	_
 
+Text=Consensus features In each trial of LOOCV, the features used in classification were not uniform, as different feature ranking occurred based on different subsets of the training dataset.
 79-1	10520-10529	Consensus	_
 79-2	10530-10538	features	_
 79-3	10539-10541	In	_
@@ -1885,6 +1964,7 @@
 79-30	10700-10707	dataset	_
 79-31	10708-10709	.	_
 
+Text=We adopted a consensus feature method in the current study.
 80-1	10710-10712	We	_
 80-2	10713-10720	adopted	_
 80-3	10721-10722	a	_
@@ -1897,6 +1977,7 @@
 80-10	10763-10768	study	_
 80-11	10769-10770	.	_
 
+Text=We regard the features selected in every trial of LOOCV as the stable features which affect the classification.
 81-1	10771-10773	We	_
 81-2	10774-10780	regard	_
 81-3	10781-10784	the	_
@@ -1917,6 +1998,7 @@
 81-18	10867-10881	classification	_
 81-19	10882-10883	.	_
 
+Text=Classification weights of the consensus features were calculated by the mean weights of each trial of LOOCV and the classification weights of the non-concensus features were set to 0.
 82-1	10884-10898	Classification	_
 82-2	10899-10906	weights	_
 82-3	10907-10909	of	_
@@ -1948,6 +2030,7 @@
 82-29	11065-11066	0	_
 82-30	11067-11068	.	_
 
+Text=Classification weights of the regions were calculated by summing up the half of the classification weights of the connections linked to this region.
 83-1	11069-11083	Classification	_
 83-2	11084-11091	weights	_
 83-3	11092-11094	of	_
@@ -1973,6 +2056,7 @@
 83-23	11210-11216	region	_
 83-24	11217-11218	.	_
 
+Text=Atypical nature of the shared atypical connections in ASD and schizophrenia The shared atypical connections in ASD and schizophrenia were defined as the connections in the consensus features of both ASD and schizophrenia classifications.
 84-1	11219-11227	Atypical	_
 84-2	11228-11234	nature	_
 84-3	11235-11237	of	_
@@ -2009,6 +2093,7 @@
 84-34	11440-11455	classifications	_
 84-35	11456-11457	.	_
 
+Text=Then the FC strength of the shared atypical connections were extracted in two datasets.
 85-1	11458-11462	Then	_
 85-2	11463-11466	the	_
 85-3	11467-11469	FC	_
@@ -2025,6 +2110,7 @@
 85-14	11536-11544	datasets	_
 85-15	11545-11546	.	_
 
+Text=To assess whether the number of shared atypical connections is significantly larger than random cases, we did a random simulation analysis, According the consensus feature analysis, we found 9 shared atypical connections, 23 ASD atypical connections (including the 9 shared atypical connections) and 23 schizophrenia atypical connections (including the 9 shared atypical connections).
 86-1	11547-11549	To	_
 86-2	11550-11556	assess	_
 86-3	11557-11564	whether	_
@@ -2088,6 +2174,7 @@
 86-61	11937-11938	)	_
 86-62	11939-11940	.	_
 
+Text=For each random simulation trial, we treat ASD atypical connections and schizophrenia atypical connections are independent.
 87-1	11941-11944	For	_
 87-2	11945-11949	each	_
 87-3	11950-11956	random	_
@@ -2107,6 +2194,7 @@
 87-17	12053-12064	independent	_
 87-18	12065-12066	.	_
 
+Text=We first randomly picked 23 out of the total 4005 connections, labeled them as ASD atypical connections and then put them back.
 88-1	12067-12069	We	_
 88-2	12070-12075	first	_
 88-3	12076-12084	randomly	_
@@ -2132,6 +2220,7 @@
 88-23	12190-12194	back	_
 88-24	12195-12196	.	_
 
+Text=Then we randomly picked 23 out of the total 4005 connections, labeled them as schizophrenia atypical connections and put them back.
 89-1	12197-12201	Then	_
 89-2	12202-12204	we	_
 89-3	12205-12213	randomly	_
@@ -2156,6 +2245,7 @@
 89-22	12324-12328	back	_
 89-23	12329-12330	.	_
 
+Text=Finally we calculated the number of connections which are labeled both ASD and schizophrenia atypical connections.
 90-1	12331-12338	Finally	_
 90-2	12339-12341	we	_
 90-3	12342-12352	calculated	_
@@ -2174,6 +2264,7 @@
 90-16	12433-12444	connections	_
 90-17	12445-12446	.	_
 
+Text=This random simulation trials are repeated 10000 times to construct the distribution of the number of shared atypical connections at random case.
 91-1	12447-12451	This	_
 91-2	12452-12458	random	_
 91-3	12459-12469	simulation	_
@@ -2198,6 +2289,7 @@
 91-22	12587-12591	case	_
 91-23	12592-12593	.	_
 
+Text=Based on the constructed distribution, we calculated the p value as the times whose shared atypical connection number are larger than the actual case divide 10000.
 92-1	12594-12599	Based	_
 92-2	12600-12602	on	_
 92-3	12603-12606	the	_
@@ -2227,6 +2319,7 @@
 92-27	12752-12757	10000	_
 92-28	12758-12759	.	_
 
+Text=Distribution of the distinct atypical connections in ASD and schizophrenia For the distinct atypical connections, we extracted the classification weight for each connection.
 93-1	12760-12772	Distribution	_
 93-2	12773-12775	of	_
 93-3	12776-12779	the	_
@@ -2253,6 +2346,7 @@
 93-24	12923-12933	connection	_
 93-25	12934-12935	.	_
 
+Text=Then we define the classification weight between and within 5 networks as the sum of the weights of all corresponding connections.
 94-1	12936-12940	Then	_
 94-2	12941-12943	we	_
 94-3	12944-12950	define	_
@@ -2276,6 +2370,7 @@
 94-21	13054-13065	connections	_
 94-22	13066-13067	.	_
 
+Text=To assess whether the weight between or within specific networks is significant larger than the averaged weights, we did a random simulation analysis to construct the distributions of classification weight at random cases.
 95-1	13068-13070	To	_
 95-2	13071-13077	assess	_
 95-3	13078-13085	whether	_
@@ -2312,6 +2407,7 @@
 95-34	13285-13290	cases	_
 95-35	13291-13292	.	_
 
+Text=For ASD, we first summed the classification weights of all distinct atypical connections of ASD, and then randomly divided the total weight into 15 parts corresponding to the possible connections between and within 5 networks.
 96-1	13293-13296	For	_
 96-2	13297-13300	ASD	_
 96-3	13301-13302	,	_
@@ -2351,6 +2447,7 @@
 96-37	13512-13520	networks	_
 96-38	13521-13522	.	_
 
+Text=This trial was repeated 10000 times.
 97-1	13523-13527	This	_
 97-2	13528-13533	trial	_
 97-3	13534-13537	was	_
@@ -2359,6 +2456,7 @@
 97-6	13553-13558	times	_
 97-7	13559-13560	.	_
 
+Text=For each connection between or within 5 networks, the p value was calculated as the times whose classification weight is larger than the actual case divide 10000.
 98-1	13561-13564	For	_
 98-2	13565-13569	each	_
 98-3	13570-13580	connection	_
@@ -2389,6 +2487,7 @@
 98-28	13718-13723	10000	_
 98-29	13724-13725	.	_
 
+Text=Multivariate linear regression analysis According to the consensus feature analysis, we found shared atypical connectivity in schizophrenia and ASD concentrated in DMN and SN regions (see Fig.
 99-1	13726-13738	Multivariate	_
 99-2	13739-13745	linear	_
 99-3	13746-13756	regression	_
@@ -2420,10 +2519,12 @@
 99-29	13916-13919	Fig	_
 99-30	13920-13921	.	_
 
+Text=2).
 100-1	13922-13923	2	_
 100-2	13924-13925	)	_
 100-3	13926-13927	.	_
 
+Text=We next extracted the shared atypical DMN-DMN, DMN-SN and SN-SN connections of the schizophrenia and ASD groups and utilized a multivariate linear regression to assess the relationship between these connections and symptoms of ASD (ADOS scores including ADOS total score, ADOS social score, ADOS communication score and ADOS restrict behavior score) and schizophrenia (PANSS score including PANSS positive score, PANSS negative score, PANSS general score and PANSS total score) using SPSS19.
 101-1	13928-13930	We	_
 101-2	13931-13935	next	_
 101-3	13936-13945	extracted	_
@@ -2506,6 +2607,7 @@
 101-80	14421-14427	SPSS19	_
 101-81	14428-14429	.	_
 
+Text=Here we also included age and gender as independent variables.
 102-1	14430-14434	Here	_
 102-2	14435-14437	we	_
 102-3	14438-14442	also	_
@@ -2518,6 +2620,7 @@
 102-10	14482-14491	variables	_
 102-11	14492-14493	.	_
 
+Text=Full-scale IQ was also included in the model for the ASD dataset.
 103-1	14494-14504	Full-scale	_
 103-2	14505-14507	IQ	_
 103-3	14508-14511	was	_
@@ -2532,6 +2635,7 @@
 103-12	14551-14558	dataset	_
 103-13	14559-14560	.	_
 
+Text=The regression model was defined as below: Where y represents the scores of symptoms, f represents the shared atypical DMN and SN FC values, cov represents the covariants such as age, gender etc.
 104-1	14561-14564	The	_
 104-2	14565-14575	regression	_
 104-3	14576-14581	model	_
@@ -2571,6 +2675,7 @@
 104-37	14756-14759	etc	_
 104-38	14760-14761	.	_
 
+Text=An ANOVA was used to determine the significance of the models using SPSS19.
 105-1	14762-14764	An	_
 105-2	14765-14770	ANOVA	_
 105-3	14771-14774	was	_
@@ -2586,6 +2691,7 @@
 105-13	14830-14836	SPSS19	_
 105-14	14837-14838	.	_
 
+Text=Reproducibility analysis To assert the reproducibility of the shared abnormalities between ASD and schizophrenia.
 106-1	14839-14854	Reproducibility	_
 106-2	14855-14863	analysis	_
 106-3	14864-14866	To	_
@@ -2602,6 +2708,7 @@
 106-14	14938-14951	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 106-15	14952-14953	.	_
 
+Text=We repeated the analysis based on the original schizophrenia dataset and a new ASD dataset from the USM site in ABIDE.
 107-1	14954-14956	We	_
 107-2	14957-14965	repeated	_
 107-3	14966-14969	the	_
@@ -2625,6 +2732,7 @@
 107-21	15066-15071	ABIDE	_
 107-22	15072-15073	.	_
 
+Text=Details are shown in SI.
 108-1	15074-15081	Details	_
 108-2	15082-15085	are	_
 108-3	15086-15091	shown	_

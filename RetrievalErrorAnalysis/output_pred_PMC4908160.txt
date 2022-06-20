@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Effects of dexamphetamine-induced dopamine release on resting-state network connectivity in recreational amphetamine users and healthy controls Dexamphetamine (dAMPH) is not only used for the treatment of attention deficit hyperactivity disorder (ADHD), but also as a recreational drug.
 1-1	0-7	Effects	_
 1-2	8-10	of	_
 1-3	11-33	dexamphetamine-induced	_
@@ -46,6 +47,7 @@
 1-42	286-290	drug	_
 1-43	291-292	.	_
 
+Text=Acutely, dAMPH induces release of predominantly dopamine (DA) in the striatum, and in the cortex both DA and noradrenaline.
 2-1	293-300	Acutely	_
 2-2	301-302	,	_
 2-3	303-308	dAMPH	_
@@ -71,6 +73,7 @@
 2-23	406-419	noradrenaline	_
 2-24	420-421	.	_
 
+Text=Recent animal studies have shown that chronic dAMPH administration can induce changes in the DA system following long-term exposure, as evidenced by reductions in DA transporters, D2/3 receptors and endogenous DA levels.
 3-1	422-428	Recent	_
 3-2	429-435	animal	_
 3-3	436-443	studies	_
@@ -107,6 +110,7 @@
 3-34	637-643	levels	_
 3-35	644-645	.	_
 
+Text=However, only a limited number of studies have investigated the effects of dAMPH in the human brain.
 4-1	646-653	However	_
 4-2	654-655	,	_
 4-3	656-660	only	_
@@ -127,6 +131,7 @@
 4-18	741-746	brain	_
 4-19	747-748	.	_
 
+Text=We used a combination of resting-state functional magnetic resonance imaging (rs-fMRI) and [123I] IBZM single-photon emission computed tomography (SPECT) (to assess baseline D2/3 receptor binding and DA release) in 15 recreational AMPH users and 20 matched healthy controls to investigate the short-, and long-term effects of AMPH before and after an acute intravenous challenge with dAMPH.
 5-1	749-751	We	_
 5-2	752-756	used	_
 5-3	757-758	a	_
@@ -194,6 +199,7 @@
 5-65	1142-1147	dAMPH	_
 5-66	1148-1149	.	_
 
+Text=We found that acute dAMPH administration reduced functional connectivity in the cortico-striatal-thalamic network.
 6-1	1150-1152	We	_
 6-2	1153-1158	found	_
 6-3	1159-1163	that	_
@@ -209,6 +215,7 @@
 6-13	1256-1263	network	_
 6-14	1264-1265	.	_
 
+Text=dAMPH-induced DA release, but not DA D2/3 receptor binding, was positively associated with connectivity changes in this network.
 7-1	1266-1279	dAMPH-induced	_
 7-2	1280-1282	DA	_
 7-3	1283-1290	release	_
@@ -231,6 +238,7 @@
 7-20	1388-1395	network	_
 7-21	1396-1397	.	_
 
+Text=In addition, acute dAMPH reduced connectivity in default mode networks and salience-executive-networks networks in both groups.
 8-1	1398-1400	In	_
 8-2	1401-1409	addition	_
 8-3	1410-1411	,	_
@@ -250,6 +258,7 @@
 8-17	1519-1525	groups	_
 8-18	1526-1527	.	_
 
+Text=In contrast to our hypothesis, no significant group differences were found in any of the rs-fMRI networks investigated, possibly due to lack of sensitivity or compensatory mechanisms.
 9-1	1528-1530	In	_
 9-2	1531-1539	contrast	_
 9-3	1540-1542	to	_
@@ -281,6 +290,7 @@
 9-29	1702-1712	mechanisms	_
 9-30	1713-1714	.	_
 
+Text=Our findings thus support the use of ICA-based resting-state functional connectivity as a tool to investigate acute, but not chronic, alterations induced by dAMPH on dopaminergic processing in the striatum.
 10-1	1715-1718	Our	_
 10-2	1719-1727	findings	_
 10-3	1728-1732	thus	_
@@ -315,6 +325,7 @@
 10-32	1914-1922	striatum	_
 10-33	1923-1924	.	_
 
+Text=Methods Participants Sixteen male AMPH users and age-, gender- and IQ-matched controls were recruited through online advertisements and flyers at local universities and colleges.
 11-1	1925-1932	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 11-2	1933-1945	Participants	_
 11-3	1946-1953	Sixteen	_
@@ -342,6 +353,7 @@
 11-25	2095-2103	colleges	_
 11-26	2104-2105	.	_
 
+Text=Inclusion criteria for the AMPH users were at least 30 occasions of use lifetime.
 12-1	2106-2115	Inclusion	_
 12-2	2116-2124	criteria	_
 12-3	2125-2128	for	_
@@ -358,6 +370,7 @@
 12-14	2178-2186	lifetime	_
 12-15	2187-2188	.	_
 
+Text=The 20 control subjects were healthy volunteers with no self-reported prior use of AMPH or other drugs that affect the dopaminergic system.
 13-1	2189-2192	The	_
 13-2	2193-2195	20	_
 13-3	2196-2203	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -382,6 +395,7 @@
 13-22	2321-2327	system	_
 13-23	2328-2329	.	_
 
+Text=Exclusion criteria for all participants were a history of a chronic neurological or psychiatric disorder, family history of sudden heart failure, current use of psychoactive medication, abnormal electrocardiogram (ECG), positive drug screen, and a clinical diagnosis of ADHD, in addition to smoking more than 15 cigarettes per day, drinking more than 30 alcoholic beverages per week, and contraindications for undergoing an MRI scan (e.g.
 14-1	2330-2339	Exclusion	_
 14-2	2340-2348	criteria	_
 14-3	2349-2352	for	_
@@ -459,6 +473,7 @@
 14-75	2775-2778	e.g	_
 14-76	2779-2780	.	_
 
+Text=ferromagnetic fragments) or the SPECT procedure (e.g.
 15-1	2781-2794	ferromagnetic	_
 15-2	2795-2804	fragments	_
 15-3	2805-2806	)	_
@@ -470,12 +485,14 @@
 15-9	2832-2835	e.g	_
 15-10	2836-2837	.	_
 
+Text=allergy to iodine).
 16-1	2838-2845	allergy	_
 16-2	2846-2848	to	_
 16-3	2849-2855	iodine	_
 16-4	2856-2857	)	_
 16-5	2858-2859	.	_
 
+Text=The results of the SPECT study in this cohort are more elaborately reported elsewhere (Schrantee et al .).
 17-1	2860-2863	The	_
 17-2	2864-2871	results	_
 17-3	2872-2874	of	_
@@ -498,6 +515,7 @@
 17-20	2966-2967	)	_
 17-21	2968-2969	.	_
 
+Text=Participants agreed to abstain from smoking, caffeine, alcohol and cannabis for 24 h prior, and for other drugs (including AMPH) one week prior to the assessments.
 18-1	2970-2982	Participants	_
 18-2	2983-2989	agreed	_
 18-3	2990-2992	to	_
@@ -531,6 +549,7 @@
 18-31	3126-3137	assessments	_
 18-32	3138-3139	.	_
 
+Text=Subjects were asked on the day of the scan if they had used any of these substances in the past two weeks.
 19-1	3140-3148	Subjects	_
 19-2	3149-3153	were	_
 19-3	3154-3159	asked	_
@@ -555,6 +574,7 @@
 19-22	3240-3245	weeks	_
 19-23	3246-3247	.	_
 
+Text=We verified the reported drug use with a drug screen on a urine sample with an enzyme-multiplied immunoassay for amphetamines, cocaine metabolite, opiates and marijuana).
 20-1	3248-3250	We	_
 20-2	3251-3259	verified	_
 20-3	3260-3263	the	_
@@ -585,6 +605,7 @@
 20-28	3419-3420	)	_
 20-29	3421-3422	.	_
 
+Text=In addition, a detailed drug history questionnaire was obtained and subjects filled in the drug use disorders identification test (DUDIT) to assess substance dependence (Voluse et al .).
 21-1	3423-3425	In	_
 21-2	3426-3434	addition	_
 21-3	3435-3436	,	_
@@ -620,6 +641,7 @@
 21-33	3612-3613	)	_
 21-34	3614-3615	.	_
 
+Text=The Dutch version of the National Adult Reading Test (DART IQ) was conducted as an estimate of verbal intelligence (Schmand et al .).
 22-1	3616-3619	The	_
 22-2	3620-3625	Dutch	_
 22-3	3626-3633	version	_
@@ -649,6 +671,7 @@
 22-27	3751-3752	)	_
 22-28	3753-3754	.	_
 
+Text=One participant in the AMPH group showed a positive drug screen and was therefore excluded, so the analyses were performed on 20 controls and 15 AMPH users.
 23-1	3755-3758	One	_
 23-2	3759-3770	participant	_
 23-3	3771-3773	in	_
@@ -679,6 +702,7 @@
 23-28	3906-3911	users	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 23-29	3912-3913	.	_
 
+Text=The medical ethics committee of the Academic Medical Center in Amsterdam approved the study procedures and written informed consent was obtained from all subjects and carried out in accordance with the standards of the Declaration of Helsinki.
 24-1	3914-3917	The	_
 24-2	3918-3925	medical	_
 24-3	3926-3932	ethics	_
@@ -718,6 +742,7 @@
 24-37	4148-4156	Helsinki	_
 24-38	4157-4158	.	_
 
+Text=Design Participants were invited to the hospital for two study visits.
 25-1	4159-4165	Design	_
 25-2	4166-4178	Participants	_
 25-3	4179-4183	were	_
@@ -731,6 +756,7 @@
 25-11	4222-4228	visits	_
 25-12	4229-4230	.	_
 
+Text=On one day they underwent the SPECT scan with dAMPH administration and on the other day they underwent the MRI scan with dAMPH administration.
 26-1	4231-4233	On	_
 26-2	4234-4237	one	_
 26-3	4238-4241	day	_
@@ -757,6 +783,7 @@
 26-24	4358-4372	administration	_
 26-25	4373-4374	.	_
 
+Text=The visits were at least one week apart to allow drug washout and were counterbalanced within groups.
 27-1	4375-4378	The	_
 27-2	4379-4385	visits	_
 27-3	4386-4390	were	_
@@ -776,6 +803,7 @@
 27-17	4469-4475	groups	_
 27-18	4476-4477	.	_
 
+Text=Both for the MRI and the SPECT scan, a cannula was inserted in the antecubital vein through which the dAMPH was administered (0.3 mg/kg) during 2 min, followed by 15 ml saline to flush (Fig.
 28-1	4478-4482	Both	_
 28-2	4483-4486	for	_
 28-3	4487-4490	the	_
@@ -818,10 +846,12 @@
 28-40	4669-4672	Fig	_
 28-41	4673-4674	.	_
 
+Text=1).
 29-1	4675-4676	1	_
 29-2	4677-4678	)	_
 29-3	4679-4680	.	_
 
+Text=SPECT acquisition and analysis Each subject received an intravenous injection of 180 MBq [123I] IBZM (80 MBq bolus followed by constant infusion of 20 MBq for 5 consecutive hours).
 30-1	4681-4686	SPECT	_
 30-2	4687-4698	acquisition	_
 30-3	4699-4702	and	_
@@ -857,6 +887,7 @@
 30-33	4863-4864	)	_
 30-34	4865-4866	.	_
 
+Text=Subjects underwent two [123I] IBZM SPECT scans, using the sustained equilibrium/constant infusion technique, to assess baseline striatal DA D2/3 receptor availability and the decrease in D2/3 receptor binding after the dAMPH challenge, which provides an index of DA release (Kegeles et al .).
 31-1	4867-4875	Subjects	_
 31-2	4876-4885	underwent	_
 31-3	4886-4889	two	_
@@ -909,6 +940,7 @@
 31-50	5164-5165	)	_
 31-51	5166-5167	.	_
 
+Text=The radioligand [123I] IBZM, which binds with high affinity to DA D2/3 receptors, was prepared by GE Healthcare (Eindhoven, The Netherlands).
 32-1	5168-5171	The	_
 32-2	5172-5183	radioligand	_
 32-3	5184-5185	[	_
@@ -939,6 +971,7 @@
 32-28	5314-5315	)	_
 32-29	5316-5317	.	_
 
+Text=Participants received potassium iodide tablets prior to the SPECT session to block thyroid uptake of free radioactive iodide.
 33-1	5318-5330	Participants	_
 33-2	5331-5339	received	_
 33-3	5340-5349	potassium	_
@@ -959,6 +992,7 @@
 33-18	5436-5442	iodide	_
 33-19	5443-5444	.	_
 
+Text=Images were acquired on a brain-dedicated SPECT system (Neurofocus 810, Inc., Medfield, Massachusetts, USA) with the following parameters: matrix: 64 × 64, energy window: 135–190 keV, slice thickness: 5 mm, acquisition time per slice: 300 s, number of slices: 12.
 34-1	5445-5451	Images	_
 34-2	5452-5456	were	_
 34-3	5457-5465	acquired	_
@@ -1017,6 +1051,7 @@
 34-56	5721-5723	12	_
 34-57	5724-5725	.	_
 
+Text=SPECT images were corrected for attenuation and reconstructed using iterative algorithms, as earlier described (Booij et al.
 35-1	5726-5731	SPECT	_
 35-2	5732-5738	images	_
 35-3	5739-5743	were	_
@@ -1038,6 +1073,7 @@
 35-19	5849-5851	al	_
 35-20	5852-5853	.	_
 
+Text=; Boot et al .).
 36-1	5854-5855	;	_
 36-2	5856-5860	Boot	_
 36-3	5861-5863	et	_
@@ -1046,6 +1082,7 @@
 36-6	5869-5870	)	_
 36-7	5871-5872	.	_
 
+Text=Binding potential (BPND) was calculated as follows: (mean striatal binding – mean binding occipital cortex) /mean binding occipital cortex.
 37-1	5873-5880	Binding	_
 37-2	5881-5890	potential	_
 37-3	5891-5892	(	_
@@ -1072,6 +1109,7 @@
 37-24	6010-6016	cortex	_
 37-25	6017-6018	.	_
 
+Text=Standard templates with fixed ROIs were positioned on the striatum and occipital cortex (reflecting non-specific binding), as earlier described (Booij et al.
 38-1	6019-6027	Standard	_
 38-2	6028-6037	templates	_
 38-3	6038-6042	with	_
@@ -1100,12 +1138,14 @@
 38-26	6177-6179	al	_
 38-27	6180-6181	.	_
 
+Text=; Boot et al.
 39-1	6182-6183	;	_
 39-2	6184-6188	Boot	_
 39-3	6189-6191	et	_
 39-4	6192-6194	al	_
 39-5	6195-6196	.	_
 
+Text=; Figee et al .).
 40-1	6197-6198	;	_
 40-2	6199-6204	Figee	_
 40-3	6205-6207	et	_
@@ -1114,6 +1154,7 @@
 40-6	6213-6214	)	_
 40-7	6215-6216	.	_
 
+Text=dAMPH-induced decrease in [123I] IBZM BPND, used as a proxy for DA release, was expressed as a% of the pre-dAMPH BPND (Booij et al .).
 41-1	6217-6230	dAMPH-induced	_
 41-2	6231-6239	decrease	_
 41-3	6240-6242	in	_
@@ -1148,6 +1189,7 @@
 41-32	6356-6357	)	_
 41-33	6358-6359	.	_
 
+Text=FMRI acquisition Imaging was performed on a 3-Tesla Ingenia scanner (Philips, Best, The Netherlands) equipped with a 16-channel head coil.
 42-1	6360-6364	FMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 42-2	6365-6376	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 42-3	6377-6384	Imaging	_
@@ -1174,6 +1216,7 @@
 42-24	6497-6501	coil	_
 42-25	6502-6503	.	_
 
+Text=A T1-weighted anatomical scan was acquired for registration purposes.
 43-1	6504-6505	A	_
 43-2	6506-6517	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 43-3	6518-6528	anatomical	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1185,6 +1228,7 @@
 43-9	6564-6572	purposes	_
 43-10	6573-6574	.	_
 
+Text=For the rs-fMRI scan with blood-oxygenation level-dependent (BOLD) contrast, 130 whole brain volumes of T2 * -weighted gradient echo planar images (EPI) were obtained with the following scan parameters: TR/TE 2300/25 ms; flip angle 80°; FOV = 220 × 220 × 117; 39 slices; voxel size 2.3 × 2.3 × 3 mm, SENSE 2.4.
 44-1	6575-6578	For	_
 44-2	6579-6582	the	_
 44-3	6583-6590	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1252,6 +1296,7 @@
 44-65	6892-6895	2.4	_
 44-66	6896-6897	.	_
 
+Text=The subjects underwent the rs-fMRI scan before dAMPH administration and approximately 30 min post-dAMPH.
 45-1	6898-6901	The	_
 45-2	6902-6910	subjects	_
 45-3	6911-6920	underwent	_
@@ -1268,6 +1313,7 @@
 45-14	6991-7001	post-dAMPH	_
 45-15	7002-7003	.	_
 
+Text=In the time between the 2 resting-state scans the subjects underwent an arterial spin labeling (ASL) scan.
 46-1	7004-7006	In	_
 46-2	7007-7010	the	_
 46-3	7011-7015	time	_
@@ -1289,6 +1335,7 @@
 46-19	7107-7111	scan	http://maven.renci.org/NeuroBridge/neurobridge#RatingScale
 46-20	7112-7113	.	_
 
+Text=Subjects were instructed to keep their eyes open and let their mind wander.
 47-1	7114-7122	Subjects	_
 47-2	7123-7127	were	_
 47-3	7128-7138	instructed	_
@@ -1304,6 +1351,7 @@
 47-13	7182-7188	wander	_
 47-14	7189-7190	.	_
 
+Text=FMRI analysis ICA network extraction and connectivity analyses RS-fMRI data were preprocessed using tools from the FMRIB Software Library (Smith et al .).
 48-1	7191-7195	FMRI	_
 48-2	7196-7204	analysis	_
 48-3	7205-7208	ICA	_
@@ -1331,6 +1379,7 @@
 48-25	7345-7346	)	_
 48-26	7347-7348	.	_
 
+Text=Brain tissue was extracted for both anatomical and functional images using the brain extraction tool (BET).
 49-1	7349-7354	Brain	_
 49-2	7355-7361	tissue	_
 49-3	7362-7365	was	_
@@ -1351,6 +1400,7 @@
 49-18	7456-7457	)	_
 49-19	7458-7459	.	_
 
+Text=Functional data were motion corrected, spatially smoothed with a Gaussian kernel of 5 mm FWHM and high-pass temporal filtering at 0.1 Hz was applied.
 50-1	7460-7470	Functional	_
 50-2	7471-7475	data	_
 50-3	7476-7480	were	_
@@ -1378,6 +1428,7 @@
 50-25	7602-7609	applied	_
 50-26	7610-7611	.	_
 
+Text=In addition, single session independent component analysis (ICA) was performed to prepare the data for FMRIB ’ s ICA-based Xnoiseifier (FIX) (Griffanti et al.
 51-1	7612-7614	In	_
 51-2	7615-7623	addition	_
 51-3	7624-7625	,	_
@@ -1410,6 +1461,7 @@
 51-30	7773-7775	al	_
 51-31	7776-7777	.	_
 
+Text=; Salimi-Khorshidi et al.)
 52-1	7778-7779	;	_
 52-2	7780-7796	Salimi-Khorshidi	_
 52-3	7797-7799	et	_
@@ -1417,6 +1469,7 @@
 52-5	7803-7804	.	_
 52-6	7805-7806	)	_
 
+Text=to denoise the rs-fMRI data.
 53-1	7807-7809	to	_
 53-2	7810-7817	denoise	_
 53-3	7818-7821	the	_
@@ -1424,6 +1477,7 @@
 53-5	7830-7834	data	_
 53-6	7835-7836	.	_
 
+Text=Prior to analysis, all functional images were first registered to the high-resolution anatomical image (BBR) and subsequently to standard stereotactic space (2 mm, MNI152 template; Montreal Neurological Institute, Montreal QC) using affine transformation.
 54-1	7837-7842	Prior	_
 54-2	7843-7845	to	_
 54-3	7846-7854	analysis	_
@@ -1467,6 +1521,7 @@
 54-41	8085-8099	transformation	_
 54-42	8100-8101	.	_
 
+Text=Subsequently, the denoised data were used to investigate RS networks in our groups using multi-session ICA with temporal concatenation (as implemented in FSL MELODIC, Beckmann and Smith).
 55-1	8102-8114	Subsequently	_
 55-2	8115-8116	,	_
 55-3	8117-8120	the	_
@@ -1500,6 +1555,7 @@
 55-31	8291-8292	)	_
 55-32	8293-8294	.	_
 
+Text=Automatic dimensionality estimation was used to estimate the number of components extracted.
 56-1	8295-8304	Automatic	_
 56-2	8305-8319	dimensionality	_
 56-3	8320-8330	estimation	_
@@ -1514,6 +1570,7 @@
 56-12	8377-8386	extracted	_
 56-13	8387-8388	.	_
 
+Text=In addition to the CST network, we explored 7 networks for further analysis based on their involvement in higher-order cognitive processes and/or DA-ergic function or DA-associated pathologies (Cole et al .).
 57-1	8389-8391	In	_
 57-2	8392-8400	addition	_
 57-3	8401-8403	to	_
@@ -1550,6 +1607,7 @@
 57-34	8598-8599	)	_
 57-35	8600-8601	.	_
 
+Text=These networks will be referred to as the (i) left-lateralised fronto-parietal network (lFPN) (ii) right-lateralised fronto-parietal network (rFPN) (iii) anterior default mode network (aDMN) (iv) posterior default mode network (pDMN) (v) ventral default mode network (vDMN) (vi) inferior salience/executive network (iSEN) (vii) dorsal salience/executive network (dSEN).
 58-1	8602-8607	These	_
 58-2	8608-8616	networks	_
 58-3	8617-8621	will	_
@@ -1626,6 +1684,7 @@
 58-74	8997-8998	)	_
 58-75	8999-9000	.	_
 
+Text=For those eight networks, the set of spatial maps from the group-average analysis was used to generate subject-specific versions of the spatial maps, and associated time-series, using dual regression with variance normalization (Beckmann et al.
 59-1	9001-9004	For	_
 59-2	9005-9010	those	_
 59-3	9011-9016	eight	_
@@ -1667,6 +1726,7 @@
 59-39	9246-9248	al	_
 59-40	9249-9250	.	_
 
+Text=; Filippini et al .).
 60-1	9251-9252	;	_
 60-2	9253-9262	Filippini	_
 60-3	9263-9265	et	_
@@ -1675,6 +1735,7 @@
 60-6	9271-9272	)	_
 60-7	9273-9274	.	_
 
+Text=First, for each subject, the group-average set of spatial maps was regressed (as spatial regressors in a multiple regression) into the subject ’ s 4D space-time dataset.
 61-1	9275-9280	First	_
 61-2	9281-9282	,	_
 61-3	9283-9286	for	_
@@ -1708,6 +1769,7 @@
 61-31	9440-9447	dataset	_
 61-32	9448-9449	.	_
 
+Text=This results in a set of subject-specific time-series, one per group-level spatial map.
 62-1	9450-9454	This	_
 62-2	9455-9462	results	_
 62-3	9463-9465	in	_
@@ -1724,6 +1786,7 @@
 62-14	9534-9537	map	_
 62-15	9538-9539	.	_
 
+Text=Next, those time-series were regressed (as temporal regressors, again in a multiple regression) into the same 4D dataset, resulting in a set of subject-specific spatial maps, one per group-level spatial map.
 63-1	9540-9544	Next	_
 63-2	9545-9546	,	_
 63-3	9547-9552	those	_
@@ -1763,6 +1826,7 @@
 63-37	9749-9752	map	_
 63-38	9753-9754	.	_
 
+Text=To assess baseline group differences, the 4D files for each network were then analyzed using non-parametric permutation testing (5000 permutations) with a two-sample t-test using the FSL Randomise tool (Winkler et al .).
 64-1	9755-9757	To	_
 64-2	9758-9764	assess	_
 64-3	9765-9773	baseline	_
@@ -1803,6 +1867,7 @@
 64-38	9978-9979	)	_
 64-39	9980-9981	.	_
 
+Text=To assess the effect of drug and the interaction effect of drug and group, we calculated difference values of the parameter estimates within subjects first using fslmaths, and then performed a one-sample t-test and a two-sample t-test respectively, again using Randomise.
 65-1	9982-9984	To	_
 65-2	9985-9991	assess	_
 65-3	9992-9995	the	_
@@ -1849,6 +1914,7 @@
 65-44	10246-10255	Randomise	_
 65-45	10256-10257	.	_
 
+Text=All analyses were initially thresholded at p-value <0.05 with a family wise error (FWE) correction using threshold free cluster enhancement (TFCE) (Smith and Nichols).
 66-1	10258-10261	All	_
 66-2	10262-10270	analyses	_
 66-3	10271-10275	were	_
@@ -1882,6 +1948,7 @@
 66-31	10430-10431	)	_
 66-32	10432-10433	.	_
 
+Text=Comparison of changes in RS FC and DA release The 4D files comprising subject-specific spatial maps of voxelwise connectivity with the CST that were obtained from the dual regression analysis, were used to assess the correlation between changes in RS FC and striatal DA release following acute dAMPH administration.
 67-1	10434-10444	Comparison	_
 67-2	10445-10447	of	_
 67-3	10448-10455	changes	_
@@ -1934,6 +2001,7 @@
 67-50	10735-10749	administration	_
 67-51	10750-10751	.	_
 
+Text=We examined specifically this network because it incorporated the striatum, the brain region in which we measured DA release with SPECT, and because dAMPH is thought to exert its greatest effects in the basal ganglia (due to its intense DA-ergic input).
 68-1	10752-10754	We	_
 68-2	10755-10763	examined	_
 68-3	10764-10776	specifically	_
@@ -1981,6 +2049,7 @@
 68-45	11007-11008	)	_
 68-46	11009-11010	.	_
 
+Text=A striatal mask was created for the FC map using the MNI structural atlas (Collins et al .).
 69-1	11011-11012	A	_
 69-2	11013-11021	striatal	_
 69-3	11022-11026	mask	_
@@ -2003,6 +2072,7 @@
 69-20	11103-11104	)	_
 69-21	11105-11106	.	_
 
+Text=We tested whether individual differences in RS FC within this striatal mask were significantly positively or negatively correlated with DA release as measured with [123I] IBZM SPECT within the same striatal mask in the CST using voxelwise non-parametric permutation testing as implemented in Randomise, with 5000 permutations and 5 mm variance smoothing.
 70-1	11107-11109	We	_
 70-2	11110-11116	tested	_
 70-3	11117-11124	whether	_
@@ -2060,6 +2130,7 @@
 70-55	11454-11463	smoothing	_
 70-56	11464-11465	.	_
 
+Text=Voxels were considered significant at p-value <0.05 with a FWE correction for multiple comparisons using TFCE.
 71-1	11466-11472	Voxels	_
 71-2	11473-11477	were	_
 71-3	11478-11488	considered	_
@@ -2079,6 +2150,7 @@
 71-17	11572-11576	TFCE	_
 71-18	11577-11578	.	_
 
+Text=Effects of heart rate of RS FC Changes in heart rate (HR) have been found to influence the BOLD signal, especially near large vessels, and consequentially influence FC in RSNs (Khalili-Mahani et al .).
 72-1	11579-11586	Effects	_
 72-2	11587-11589	of	_
 72-3	11590-11595	heart	_
@@ -2121,6 +2193,7 @@
 72-40	11784-11785	)	_
 72-41	11786-11787	.	_
 
+Text=Dopaminergic drugs such as dAMPH are known to increase HR and blood pressure (Lile et al .).
 73-1	11788-11800	Dopaminergic	_
 73-2	11801-11806	drugs	_
 73-3	11807-11811	such	_
@@ -2142,6 +2215,7 @@
 73-19	11880-11881	)	_
 73-20	11882-11883	.	_
 
+Text=Although FIX denoises the data and thereby removes a lot of physiological variation, it has been shown that areas of physiological variation can overlap with our RSNs of interest.
 74-1	11884-11892	Although	_
 74-2	11893-11896	FIX	_
 74-3	11897-11905	denoises	_
@@ -2174,6 +2248,7 @@
 74-30	12055-12063	interest	_
 74-31	12064-12065	.	_
 
+Text=Therefore, we decided to repeat our analyses using average HR as a covariate.
 75-1	12066-12075	Therefore	_
 75-2	12076-12077	,	_
 75-3	12078-12080	we	_
@@ -2190,6 +2265,7 @@
 75-14	12134-12143	covariate	_
 75-15	12144-12145	.	_
 
+Text=HR was monitored during the MRI scan session using a 4-lead vector cardiogram (VCG) signal and data were extracted using an in house MATLAB script.
 76-1	12146-12148	HR	_
 76-2	12149-12152	was	_
 76-3	12153-12162	monitored	_
@@ -2219,6 +2295,7 @@
 76-27	12288-12294	script	_
 76-28	12295-12296	.	_
 
+Text=Five of our HR measurements were missing and they were imputed with the average HR of the group and session the scan belonged to.
 77-1	12297-12301	Five	_
 77-2	12302-12304	of	_
 77-3	12305-12308	our	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=In cocaine dependence, neural prediction errors during loss avoidance are increased with cocaine deprivation and predict drug use Background: In substance dependent individuals, drug-deprivation and drug-use trigger divergent behavioral responses to environmental cues.
 1-1	0-2	In	_
 1-2	3-10	cocaine	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 1-3	11-21	dependence	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
@@ -40,6 +41,7 @@
 1-36	267-271	cues	_
 1-37	272-273	.	_
 
+Text=These divergent responses are consonant with data showing that short- and long-term adaptations in dopamine signaling are similarly sensitive to state of drug-use.
 2-1	274-279	These	_
 2-2	280-289	divergent	_
 2-3	290-299	responses	_
@@ -65,6 +67,7 @@
 2-23	428-436	drug-use	_
 2-24	437-438	.	_
 
+Text=These literatures suggest a drug-state dependent role of learning in maintaining substance use; evidence linking dopamine to both reinforcement learning and addiction provides a framework to test this possibility.
 3-1	439-444	These	_
 3-2	445-456	literatures	_
 3-3	457-464	suggest	_
@@ -97,6 +100,7 @@
 3-30	641-652	possibility	_
 3-31	653-654	.	_
 
+Text=Methods: In a randomized crossover design, 22 participants with current cocaine use disorder completed a probabilistic loss-learning task during functional MRI while on- and off-cocaine (44 sessions).
 4-1	655-662	Methods	_
 4-2	663-664	:	_
 4-3	665-667	In	_
@@ -130,6 +134,7 @@
 4-31	857-858	)	_
 4-32	859-860	.	_
 
+Text=54 participants without Axis-I psychopathology served as a secondary reference group.
 5-1	861-863	54	_
 5-2	864-876	participants	_
 5-3	877-884	without	_
@@ -143,6 +148,7 @@
 5-11	940-945	group	_
 5-12	946-947	.	_
 
+Text=Within-drug state and paired-subjects ’ learning effects were assessed with computational-model derived individual learning parameters.
 6-1	948-959	Within-drug	_
 6-2	960-965	state	_
 6-3	966-969	and	_
@@ -160,6 +166,7 @@
 6-15	1072-1082	parameters	_
 6-16	1083-1084	.	_
 
+Text=Model-based neuroimaging analyses evaluated effects of drug-use state on neural learning signals.
 7-1	1085-1096	Model-based	_
 7-2	1097-1109	neuroimaging	_
 7-3	1110-1118	analyses	_
@@ -174,6 +181,7 @@
 7-12	1174-1181	signals	_
 7-13	1182-1183	.	_
 
+Text=Relationships among model-derived behavioral learning rates (α+, α-), neural prediction error signals (δ+, δ-), cocaine use, and desire to use were assessed.
 8-1	1184-1197	Relationships	_
 8-2	1198-1203	among	_
 8-3	1204-1217	model-derived	_
@@ -207,6 +215,7 @@
 8-31	1341-1349	assessed	_
 8-32	1350-1351	.	_
 
+Text=Results: During cocaine-deprivation, cocaine dependent individuals exhibited heightened positive learning rates (α+), heightened neural positive prediction error (δ+) responses, and heightened association of α+ with neural δ+ responses.
 9-1	1352-1359	Results	_
 9-2	1360-1361	:	_
 9-3	1362-1368	During	_
@@ -245,6 +254,7 @@
 9-36	1586-1595	responses	_
 9-37	1596-1597	.	_
 
+Text=The deprivation-enhanced neural learning signals were specific to successful loss avoidance, comparable to non-psychiatric participants, and mediated a relationship between chronicity of drug use and desire to use cocaine.
 10-1	1598-1601	The	_
 10-2	1602-1622	deprivation-enhanced	_
 10-3	1623-1629	neural	_
@@ -278,6 +288,7 @@
 10-31	1814-1821	cocaine	_
 10-32	1822-1823	.	_
 
+Text=Conclusions: Neurocomputational learning signals are sensitive to drug-use status and suggest that heightened reinforcement by successful avoidance of negative outcomes may contribute to drug seeking during deprivation.
 11-1	1824-1835	Conclusions	_
 11-2	1836-1837	:	_
 11-3	1838-1856	Neurocomputational	_
@@ -308,6 +319,7 @@
 11-28	2032-2043	deprivation	_
 11-29	2044-2045	.	_
 
+Text=More generally, attention to drug-use state is important for delineating substrates of addiction.
 12-1	2046-2050	More	_
 12-2	2051-2060	generally	_
 12-3	2061-2062	,	_
@@ -324,6 +336,7 @@
 12-14	2134-2143	addiction	_
 12-15	2144-2145	.	_
 
+Text=Methods and Materials Participants and Experimental Design Twenty-two right handed, non-treatment seeking male individuals who met criteria only for current cocaine use disorder without other substance dependencies or comorbid Axis-I psychopathology were enrolled from a larger study on biomarkers of substance use (see Table 1 for demographic information and Supplemental Methods for inclusion/exclusion criteria).
 13-1	2146-2153	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-2	2154-2157	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-3	2158-2167	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -383,6 +396,7 @@
 13-57	2562-2563	)	_
 13-58	2564-2565	.	_
 
+Text=Following an initial lab visit to assess cocaine use and entrance criteria, eligible individuals participated in two subsequent scanning sessions in a within-subject design: In one session, participants were instructed to use cocaine as usual (C+), and in a second session, participants were instructed to abstain from cocaine use for at least 72 hours (C-).
 14-1	2566-2575	Following	_
 14-2	2576-2578	an	_
 14-3	2579-2586	initial	_
@@ -449,6 +463,7 @@
 14-64	2931-2932	)	_
 14-65	2933-2934	.	_
 
+Text=Cocaine-use state was verified at each lab visit with urine testing for cocaine metabolites (NIDA 5-panel drug test; Alere, Inc.); C+ and C- sessions were counterbalanced for order.
 15-1	2935-2946	Cocaine-use	_
 15-2	2947-2952	state	_
 15-3	2953-2956	was	_
@@ -484,6 +499,7 @@
 15-33	3115-3120	order	_
 15-34	3121-3122	.	_
 
+Text=All participants provided informed consent and all procedures were approved by the Institutional Review Boards of Baylor College of Medicine and Virginia Tech.
 16-1	3123-3126	All	_
 16-2	3127-3139	participants	_
 16-3	3140-3148	provided	_
@@ -509,6 +525,7 @@
 16-23	3277-3281	Tech	_
 16-24	3282-3283	.	_
 
+Text=Participants completed a probabilistic loss-learning task (Figure 1A) during fMRI scanning in two separate lab sessions (N = 22, each scanned in both states of cocaine use; see Supplemental Methods for scanning parameters and preprocessing procedures).
 17-1	3284-3296	Participants	_
 17-2	3297-3306	completed	_
 17-3	3307-3308	a	_
@@ -553,6 +570,7 @@
 17-42	3540-3541	)	_
 17-43	3542-3543	.	_
 
+Text=The task entailed learning from repeated choices between two losing options (two-arm bandit in the loss domain; see details in Supplemental Methods; adapted from 7, 20), with one having a higher probability of producing the better outcome (i.e., smaller loss).
 18-1	3544-3547	The	_
 18-2	3548-3552	task	_
 18-3	3553-3561	entailed	_
@@ -604,6 +622,7 @@
 18-49	3811-3812	)	_
 18-50	3813-3814	.	_
 
+Text=On each trial, subjects chose between two abstract stimuli and subsequently observed the outcome (Figure 1A).
 19-1	3815-3817	On	_
 19-2	3818-3822	each	_
 19-3	3823-3828	trial	_
@@ -625,6 +644,7 @@
 19-19	3925-3926	)	_
 19-20	3927-3928	.	_
 
+Text=Participants were instructed that one option was better than the other and that payment was related to their choices but were not explicitly informed of the outcome probabilities or loss framework.
 20-1	3929-3941	Participants	_
 20-2	3942-3946	were	_
 20-3	3947-3957	instructed	_
@@ -658,6 +678,7 @@
 20-31	4116-4125	framework	_
 20-32	4126-4127	.	_
 
+Text=Trials were presented for a maximum of 36 trials per block or when sufficient learning occurred (see Supplemental Methods for learning criteria).
 21-1	4128-4134	Trials	_
 21-2	4135-4139	were	_
 21-3	4140-4149	presented	_
@@ -684,6 +705,7 @@
 21-24	4273-4274	)	_
 21-25	4275-4276	.	_
 
+Text=Each block consisted of novel stimuli, which required participants to learn the contingencies between stimuli and outcomes within each block.
 22-1	4277-4281	Each	_
 22-2	4282-4287	block	_
 22-3	4288-4297	consisted	_
@@ -707,6 +729,7 @@
 22-21	4413-4418	block	_
 22-22	4419-4420	.	_
 
+Text=An additional group of fifty-four males (see Table S1A for demographics) with no history of Axis-I psychopathology were used as an independent non-psychiatric control sample to identity learning-related striatum activation that could be used as a reference against which to interpret any neural effects observed in the CUD individuals, and to compute non-psychiatric individual parameter estimates for model validation and parameter recovery.
 23-1	4421-4423	An	_
 23-2	4424-4434	additional	_
 23-3	4435-4440	group	_
@@ -774,6 +797,7 @@
 23-65	4857-4865	recovery	_
 23-66	4866-4867	.	_
 
+Text=Behavioral Analyses Model-agnostic behavioral analyses.
 24-1	4868-4878	Behavioral	_
 24-2	4879-4887	Analyses	_
 24-3	4888-4902	Model-agnostic	_
@@ -781,6 +805,7 @@
 24-5	4914-4922	analyses	_
 24-6	4923-4924	.	_
 
+Text=To verify that participants learned during the task, the behavioral choices of each individual in each drug-use state were examined over time and quantified as the percentage of trials that the objectively better choice was selected.
 25-1	4925-4927	To	_
 25-2	4928-4934	verify	_
 25-3	4935-4939	that	_
@@ -820,6 +845,7 @@
 25-37	5150-5158	selected	_
 25-38	5159-5160	.	_
 
+Text=Within- sample and paired t-tests on performance were implemented in MATLAB.
 26-1	5161-5168	Within-	_
 26-2	5169-5175	sample	_
 26-3	5176-5179	and	_
@@ -833,12 +859,14 @@
 26-11	5230-5236	MATLAB	_
 26-12	5237-5238	.	_
 
+Text=Computational model-based behavioral analyses.
 27-1	5239-5252	Computational	_
 27-2	5253-5264	model-based	_
 27-3	5265-5275	behavioral	_
 27-4	5276-5284	analyses	_
 27-5	5285-5286	.	_
 
+Text=To assess model-derived behavioral learning effects for each participant in each drug-use state, participants ’ behavioral choices were fit to a basic reinforcement Q-learning model which included two learning rates (α) that provided separate update rules for positive (δ+) and negative (δ-) prediction errors (better or worse than expectations, mapping on to successful and unsuccessful loss avoidance; d+ and S-, adapted from previous studies, in the form of positive (α+) and negative (α-) learning rates (Figure 1B).
 28-1	5287-5289	To	_
 28-2	5290-5296	assess	_
 28-3	5297-5310	model-derived	_
@@ -936,6 +964,7 @@
 28-95	5823-5824	)	_
 28-96	5825-5826	.	_
 
+Text=The separate learning rates allowed us to evaluate asymmetries in learning from δ+ and δ- (e.g.,) and assess the possibility that cocaine ’ s effects on DA systems differentially impact these components.
 29-1	5827-5830	The	_
 29-2	5831-5839	separate	_
 29-3	5840-5848	learning	_
@@ -973,6 +1002,7 @@
 29-35	6022-6032	components	_
 29-36	6033-6034	.	_
 
+Text=The model was a good fit of participants ’ choices during the loss- learning task (Figure 1C), was a better fit then a single learning rate model, and model and parameter recovery using simulated data further verified the fit of the model to the observed behavior (see Behavioral Results).
 30-1	6035-6038	The	_
 30-2	6039-6044	model	_
 30-3	6045-6048	was	_
@@ -1030,6 +1060,7 @@
 30-55	6328-6329	)	_
 30-56	6330-6331	.	_
 
+Text=A third estimated parameter, inverse temperature (β), provided a measure of exploration and indicated the sensitivity of choice probabilities to differences in values.
 31-1	6332-6333	A	_
 31-2	6334-6339	third	_
 31-3	6340-6349	estimated	_
@@ -1059,6 +1090,7 @@
 31-27	6496-6502	values	_
 31-28	6503-6504	.	_
 
+Text=See Supplemental Methods for additional descriptions of model selection, model validation, and parameter recovery procedures (Supplemental Methods, Model Fitting and Selection).
 32-1	6505-6508	See	_
 32-2	6509-6521	Supplemental	_
 32-3	6522-6529	Methods	_
@@ -1087,6 +1119,7 @@
 32-26	6685-6686	)	_
 32-27	6687-6688	.	_
 
+Text=For the two learning rate model, the initial expected values Q (0) for the possible choices a and b were set to 0 as participants were not instructed a priori about the range of possible outcomes.
 33-1	6689-6692	For	_
 33-2	6693-6696	the	_
 33-3	6697-6700	two	_
@@ -1128,6 +1161,7 @@
 33-39	6879-6887	outcomes	_
 33-40	6888-6889	.	_
 
+Text=For trial number t, the outcome for the chosen option a was represented by Ra (t) with the expected value represented by Qa (t).
 34-1	6890-6893	For	_
 34-2	6894-6899	trial	_
 34-3	6900-6906	number	_
@@ -1159,6 +1193,7 @@
 34-29	7021-7022	)	_
 34-30	7023-7024	.	_
 
+Text=The prediction error δ (t), which measures the difference in outcome Ra (t) and expectation Qa (t), for a trial was defined as follows: The parameter estimation procedures included separate update rules for positive and negative prediction errors δ (t) in the form of positive (α+) and negative (α-) learning rates, respectively (Figure 1B).
 35-1	7025-7028	The	_
 35-2	7029-7039	prediction	_
 35-3	7040-7045	error	_
@@ -1233,6 +1268,7 @@
 35-72	7382-7383	)	_
 35-73	7384-7385	.	_
 
+Text=The learning rate parameters quantify how much weight the prediction error δ (t) from current trials is given in updating the following trials ’ expected value Qa (t+1): A standard softmax action selection function was used to calculate the probability of selecting choice a at time t and was implemented as follows: Positive and negative learning rates (α+ and α-) and inverse temperature β were free parameters, iteratively estimated in MATLAB using the function fminsearch, that were evaluated to have the maximum log likelihood.
 36-1	7386-7389	The	_
 36-2	7390-7398	learning	_
 36-3	7399-7403	rate	_
@@ -1329,6 +1365,7 @@
 36-94	7917-7927	likelihood	_
 36-95	7928-7929	.	_
 
+Text=Learning rates were bounded between 0:1 and inverse temperature was bounded between 0: ∞.
 37-1	7930-7938	Learning	_
 37-2	7939-7944	rates	_
 37-3	7945-7949	were	_
@@ -1346,6 +1383,7 @@
 37-15	8018-8019	∞	_
 37-16	8020-8021	.	_
 
+Text=For the unchosen option b, the expected value of the subsequent trial was set to the current trial ’ s expected value Qb (t) multiplied by an additional decay parameter (ϕ, bounded between 0: ∞) similar to previous studies.
 38-1	8022-8025	For	_
 38-2	8026-8029	the	_
 38-3	8030-8038	unchosen	_
@@ -1394,6 +1432,7 @@
 38-46	8244-8251	studies	_
 38-47	8252-8253	.	_
 
+Text=Individual variances in learning rates (α- and α+) as an effect of drug-state (C- or C+) were estimated for second level fMRI analysis (see Imaging Analysis below).
 39-1	8254-8264	Individual	_
 39-2	8265-8274	variances	_
 39-3	8275-8277	in	_
@@ -1429,6 +1468,7 @@
 39-33	8422-8423	)	_
 39-34	8424-8425	.	_
 
+Text=First, the prior mean and distribution of learning rates for participants in each drug state (C- and C+) were estimated using bootstrapped maximum likelihood created via sampling, approximating integration, around a bootstrapped maximum likelihood estimation across subjects.
 40-1	8426-8431	First	_
 40-2	8432-8433	,	_
 40-3	8434-8437	the	_
@@ -1473,6 +1513,7 @@
 40-42	8697-8705	subjects	_
 40-43	8706-8707	.	_
 
+Text=Individual learning rates were subsequently estimated by conditioning individuals ’ behavioral data on the respective drug state (C- or C+) group ’ s prior distribution to account for drug-use status differences.
 41-1	8708-8718	Individual	_
 41-2	8719-8727	learning	_
 41-3	8728-8733	rates	_
@@ -1508,6 +1549,7 @@
 41-33	8910-8921	differences	_
 41-34	8922-8923	.	_
 
+Text=For each participant, individual C+ learning rates were then subtracted from the individual C- learning rates to compute a cocaine ‘ deprivation enhanced ’ learning rate for each participant.
 42-1	8924-8927	For	_
 42-2	8928-8932	each	_
 42-3	8933-8944	participant	_
@@ -1540,6 +1582,7 @@
 42-30	9104-9115	participant	_
 42-31	9116-9117	.	_
 
+Text=Group specific bootstrapped estimates were used for the inverse temperature and decay parameters during individual estimation of learning rates.
 43-1	9118-9123	Group	_
 43-2	9124-9132	specific	_
 43-3	9133-9145	bootstrapped	_
@@ -1561,6 +1604,7 @@
 43-19	9256-9261	rates	_
 43-20	9262-9263	.	_
 
+Text=Imaging Analyses To examine neural substrates of loss learning associated with cocaine use-state in dependent individuals, model-derived learning variables fit across all participants (as described above) were first correlated with functional MRI data collected during the loss-learning task.
 44-1	9264-9271	Imaging	_
 44-2	9272-9280	Analyses	_
 44-3	9281-9283	To	_
@@ -1604,6 +1648,7 @@
 44-41	9554-9558	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 44-42	9559-9560	.	_
 
+Text=Next, the model-based neural prediction error signals were related to participants ’ self-reported cocaine use measures.
 45-1	9561-9565	Next	_
 45-2	9566-9567	,	_
 45-3	9568-9571	the	_
@@ -1623,11 +1668,13 @@
 45-17	9673-9681	measures	_
 45-18	9682-9683	.	_
 
+Text=First-level fMRI processing.
 46-1	9684-9695	First-level	_
 46-2	9696-9700	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 46-3	9701-9711	processing	_
 46-4	9712-9713	.	_
 
+Text=The general linear model (GLM) implemented in SPM8 was used to perform neuroimaging analyses at the individual and group levels.
 47-1	9714-9717	The	_
 47-2	9718-9725	general	_
 47-3	9726-9732	linear	_
@@ -1652,6 +1699,7 @@
 47-22	9837-9843	levels	_
 47-23	9844-9845	.	_
 
+Text=For the first level analyses, onset times for stimuli, outcome events for δ+ outcomes, and outcome events for δ- outcomes for each trial were modeled as separate punctate events.
 48-1	9846-9849	For	_
 48-2	9850-9853	the	_
 48-3	9854-9859	first	_
@@ -1686,6 +1734,7 @@
 48-32	10020-10026	events	_
 48-33	10027-10028	.	_
 
+Text=The outcomes were categorized based on the sign of the prediction error (δ> 0 or δ <0, indicating δ+ and δ-), using the fitted estimates of the 2 Learning Rate model, in which trial-by-trial δs were generated (see procedure in Supplemental Methods).
 49-1	10029-10032	The	_
 49-2	10033-10041	outcomes	_
 49-3	10042-10046	were	_
@@ -1739,6 +1788,7 @@
 49-51	10285-10286	)	_
 49-52	10287-10288	.	_
 
+Text=To examine the first level effects of drug-use status on neural representation of learning and valuation, cocaine positive (C+, urine positive for cocaine metabolites) and cocaine negative (C-, urine negative for cocaine metabolites) drug use states for each individual were modeled as separate first level GLMs.
 50-1	10289-10291	To	_
 50-2	10292-10299	examine	_
 50-3	10300-10303	the	_
@@ -1794,6 +1844,7 @@
 50-53	10603-10607	GLMs	_
 50-54	10608-10609	.	_
 
+Text=Trial-by-trial expected values (Q) were modeled as parametric regressors onto the response events.
 51-1	10610-10624	Trial-by-trial	_
 51-2	10625-10633	expected	_
 51-3	10634-10640	values	_
@@ -1811,6 +1862,7 @@
 51-15	10703-10709	events	_
 51-16	10710-10711	.	_
 
+Text=Trial-by-trial δ+ and δ-, and the actual outcomes were modeled as parametric regressors onto separate δ+ and δ- outcome events, respectively.
 52-1	10712-10726	Trial-by-trial	_
 52-2	10727-10729	δ+	_
 52-3	10730-10733	and	_
@@ -1836,6 +1888,7 @@
 52-23	10842-10854	respectively	_
 52-24	10855-10856	.	_
 
+Text=Effects due to run number, time in scanner, and head movement parameters were modeled out as nuisance covariates for each time point.
 53-1	10857-10864	Effects	_
 53-2	10865-10868	due	_
 53-3	10869-10871	to	_
@@ -1862,6 +1915,7 @@
 53-24	10986-10991	point	_
 53-25	10992-10993	.	_
 
+Text=Within and paired drug-state analyses.
 54-1	10994-11000	Within	_
 54-2	11001-11004	and	_
 54-3	11005-11011	paired	_
@@ -1869,6 +1923,7 @@
 54-5	11023-11031	analyses	_
 54-6	11032-11033	.	_
 
+Text=The within-drug state (C- and C+, respectively) and paired-subjects (C-> C+) effects of cocaine use were compared using one-sample and paired subjects ’ second level contrasts in SPM8.
 55-1	11034-11037	The	_
 55-2	11038-11049	within-drug	_
 55-3	11050-11055	state	_
@@ -1905,6 +1960,7 @@
 55-34	11219-11223	SPM8	_
 55-35	11224-11225	.	_
 
+Text=The effects of interest were neural responses to δ+ and δ−.
 56-1	11226-11229	The	_
 56-2	11230-11237	effects	_
 56-3	11238-11240	of	_
@@ -1918,6 +1974,7 @@
 56-11	11282-11284	δ−	_
 56-12	11285-11286	.	_
 
+Text=In line with previous data demonstrating the role of striatum and DA in learning, the imaging analyses were masked for the striatum.
 57-1	11287-11289	In	_
 57-2	11290-11294	line	_
 57-3	11295-11299	with	_
@@ -1943,6 +2000,7 @@
 57-23	11411-11419	striatum	_
 57-24	11420-11421	.	_
 
+Text=Anatomical masks were constructed using WFU-pickatlas including the structures of the caudate, putamen, and globus pallidus.
 58-1	11422-11432	Anatomical	_
 58-2	11433-11438	masks	_
 58-3	11439-11443	were	_
@@ -1963,6 +2021,7 @@
 58-18	11539-11547	pallidus	_
 58-19	11548-11549	.	_
 
+Text=Also included in the striatum mask was the nucleus accumbens (per Garrison et al.,).
 59-1	11550-11554	Also	_
 59-2	11555-11563	included	_
 59-3	11564-11566	in	_
@@ -1982,6 +2041,7 @@
 59-17	11635-11636	)	_
 59-18	11637-11638	.	_
 
+Text=Results were thresholded with a voxel level uncorrected p <0.001, unless noted, and significant clusters were defined using family-wise-error correction.
 60-1	11639-11646	Results	_
 60-2	11647-11651	were	_
 60-3	11652-11663	thresholded	_
@@ -2007,6 +2067,7 @@
 60-23	11784-11794	correction	_
 60-24	11795-11796	.	_
 
+Text=Correlation analyses between cocaine-state modulated learning rate and neural prediction error signals.
 61-1	11797-11808	Correlation	_
 61-2	11809-11817	analyses	_
 61-3	11818-11825	between	_
@@ -2021,6 +2082,7 @@
 61-12	11892-11899	signals	_
 61-13	11900-11901	.	_
 
+Text=To relate drug-state effects on behavioral learning rates (α+ and α-) with the corresponding neural δ signals, separate first level and second level GLMs were created to correlate within-subject drug-modulated α+ and α- differences (C-> C+ for α+ and C-> C+ for δ-, respectively) with the corresponding neural differences for positive and negative δ, respectively (C-> C+ for δ+ and C-> C+ for δ-, respectively).
 62-1	11902-11904	To	_
 62-2	11905-11911	relate	_
 62-3	11912-11922	drug-state	_
@@ -2102,6 +2164,7 @@
 62-79	12326-12327	)	_
 62-80	12328-12329	.	_
 
+Text=Results were again thresholded with a voxel level uncorrected p <0.001, and significant clusters were defined using family- wise-error correction.
 63-1	12330-12337	Results	_
 63-2	12338-12342	were	_
 63-3	12343-12348	again	_
@@ -2126,6 +2189,7 @@
 63-22	12467-12477	correction	_
 63-23	12478-12479	.	_
 
+Text=In addition, leave-one-out cross-validation analyses were performed in regions of interest (see Supplemental Methods) to reduce bias due to non-independence.
 64-1	12480-12482	In	_
 64-2	12483-12491	addition	_
 64-3	12492-12493	,	_
@@ -2151,6 +2215,7 @@
 64-23	12623-12639	non-independence	_
 64-24	12640-12641	.	_
 
+Text=Relationships between neural prediction error responses and behavioral cocaine use measures.
 65-1	12642-12655	Relationships	_
 65-2	12656-12663	between	_
 65-3	12664-12670	neural	_
@@ -2164,6 +2229,7 @@
 65-11	12725-12733	measures	_
 65-12	12734-12735	.	_
 
+Text=To test relationships between the observed neural learning signals and cocaine use measures, questionnaire data characterizing individual drug use history and current cocaine craving were tested against subjects ’ C- neural prediction error responses (given the primary results of interest involving enhanced δ+ from drug deprivation).
 66-1	12736-12738	To	_
 66-2	12739-12743	test	_
 66-3	12744-12757	relationships	_
@@ -2215,6 +2281,7 @@
 66-49	13072-13073	)	_
 66-50	13074-13075	.	_
 
+Text=Again, using leave-one-out cross-validation analysis, neural signals from trials with δ+ were correlated with years of drug use and subscales of the Cocaine Craving Questionnaire.
 67-1	13076-13081	Again	_
 67-2	13082-13083	,	_
 67-3	13084-13089	using	_
@@ -2244,6 +2311,7 @@
 67-27	13243-13256	Questionnaire	_
 67-28	13257-13258	.	_
 
+Text=The analyses identified relationships among years of drug use, δ+ neural signal, and the desire to use cocaine.
 68-1	13259-13262	The	_
 68-2	13263-13271	analyses	_
 68-3	13272-13282	identified	_
@@ -2266,6 +2334,7 @@
 68-20	13364-13371	cocaine	_
 68-21	13372-13373	.	_
 
+Text=Based on the results of the correlation analysis, a mediation analysis was performed testing whether neural learning signals mediated the relationship between duration of drug use and individuals ’ desire to use cocaine or expected positive outcome from cocaine use (C- measures).
 69-1	13374-13379	Based	_
 69-2	13380-13382	on	_
 69-3	13383-13386	the	_
@@ -2313,6 +2382,7 @@
 69-45	13655-13656	)	_
 69-46	13657-13658	.	_
 
+Text=A bootstrap approach to mediation was implemented in R to calculate a 95% confidence interval with 10,000 bootstrapped resamples.
 70-1	13659-13660	A	_
 70-2	13661-13670	bootstrap	_
 70-3	13671-13679	approach	_

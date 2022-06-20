@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Polygenic risk score for schizophrenia and structural brain connectivity in older age: A longitudinal connectome and tractography study Higher polygenic risk score for schizophrenia (szPGRS) has been associated with lower cognitive function and might be a predictor of decline in brain structure in apparently healthy populations.
 1-1	0-9	Polygenic	_
 1-2	10-14	risk	_
 1-3	15-20	score	_
@@ -53,6 +54,7 @@
 1-49	321-332	populations	_
 1-50	333-334	.	_
 
+Text=Age-related declines in structural brain connectivity—measured using white matter diffusion MRI —are evident from cross-sectional data.
 2-1	335-346	Age-related	_
 2-2	347-355	declines	_
 2-3	356-358	in	_
@@ -71,6 +73,7 @@
 2-16	465-469	data	_
 2-17	470-471	.	_
 
+Text=Yet, it remains unclear how graph theoretical metrics of the structural connectome change over time, and whether szPGRS is associated with differences in ageing-related changes in human brain connectivity.
 3-1	472-475	Yet	_
 3-2	476-477	,	_
 3-3	478-480	it	_
@@ -104,6 +107,7 @@
 3-31	666-678	connectivity	_
 3-32	679-680	.	_
 
+Text=Here, we studied a large, relatively healthy, same-year-of-birth, older age cohort over a period of 3 years (age ∼ 73 years, N = 731; age ∼76 years, N = 488).
 4-1	681-685	Here	_
 4-2	686-687	,	_
 4-3	688-690	we	_
@@ -145,6 +149,7 @@
 4-39	846-847	)	_
 4-40	848-849	.	_
 
+Text=From their brain scans we derived tract-averaged fractional anisotropy (FA) and mean diffusivity (MD), and network topology properties.
 5-1	850-854	From	_
 5-2	855-860	their	_
 5-3	861-866	brain	_
@@ -170,6 +175,7 @@
 5-23	979-989	properties	_
 5-24	990-991	.	_
 
+Text=We investigated the cross-sectional and longitudinal associations between these structural brain variables and szPGRS.
 6-1	992-994	We	_
 6-2	995-1007	investigated	_
 6-3	1008-1011	the	_
@@ -186,6 +192,7 @@
 6-14	1103-1109	szPGRS	_
 6-15	1110-1111	.	_
 
+Text=Higher szPGRS showed significant associations with longitudinal increases in MD in the splenium (β = 0.132, pFDR = 0.040), arcuate (β = 0.291, pFDR = 0.040), anterior thalamic radiations (β = 0.215, pFDR = 0.040) and cingulum (β = 0.165, pFDR = 0.040).
 7-1	1112-1118	Higher	_
 7-2	1119-1125	szPGRS	_
 7-3	1126-1132	showed	_
@@ -245,6 +252,7 @@
 7-57	1376-1377	)	_
 7-58	1378-1379	.	_
 
+Text=Significant declines over time were observed in graph theory metrics for FA-weighted networks, such as mean edge weight (β = −0.039, pFDR = 0.048) and strength (β = −0.027, pFDR = 0.048).
 8-1	1380-1391	Significant	_
 8-2	1392-1400	declines	_
 8-3	1401-1405	over	_
@@ -286,6 +294,7 @@
 8-39	1572-1573	)	_
 8-40	1574-1575	.	_
 
+Text=No significant associations were found between szPGRS and graph theory metrics.
 9-1	1576-1578	No	_
 9-2	1579-1590	significant	_
 9-3	1591-1603	associations	_
@@ -299,6 +308,7 @@
 9-11	1647-1654	metrics	_
 9-12	1655-1656	.	_
 
+Text=These results are consistent with the hypothesis that szPGRS confers risk for ageing-related degradation of some aspects of structural connectivity.
 10-1	1657-1662	These	_
 10-2	1663-1670	results	_
 10-3	1671-1674	are	_
@@ -321,6 +331,7 @@
 10-20	1792-1804	connectivity	_
 10-21	1805-1806	.	_
 
+Text=Highlights Large longitudinal MRI study of brain structure in narrow age range older age cohort.
 11-1	1807-1817	Highlights	_
 11-2	1818-1823	Large	_
 11-3	1824-1836	longitudinal	_
@@ -338,6 +349,7 @@
 11-15	1896-1902	cohort	_
 11-16	1903-1904	.	_
 
+Text=Longitudinal changes occur in white matter tracts from age 73 to 76.
 12-1	1905-1917	Longitudinal	_
 12-2	1918-1925	changes	_
 12-3	1926-1931	occur	_
@@ -352,6 +364,7 @@
 12-12	1970-1972	76	_
 12-13	1973-1974	.	_
 
+Text=Graph theory metrics also showed longitudinal reductions over that period.
 13-1	1975-1980	Graph	_
 13-2	1981-1987	theory	_
 13-3	1988-1995	metrics	_
@@ -364,6 +377,7 @@
 13-10	2042-2048	period	_
 13-11	2049-2050	.	_
 
+Text=Microstructural changes in white matter correlate with changes in brain ’ s network.
 14-1	2051-2066	Microstructural	_
 14-2	2067-2074	changes	_
 14-3	2075-2077	in	_
@@ -379,6 +393,7 @@
 14-13	2127-2134	network	_
 14-14	2135-2136	.	_
 
+Text=Higher genetic risk for schizophrenia is associated with changes in brain structure.
 15-1	2137-2143	Higher	_
 15-2	2144-2151	genetic	_
 15-3	2152-2156	risk	_
@@ -393,6 +408,7 @@
 15-12	2211-2220	structure	_
 15-13	2221-2222	.	_
 
+Text=Methods Participants The LBC1936 study provides longitudinal data on cognitive and brain ageing.
 16-1	2223-2230	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 16-2	2231-2243	Participants	_
 16-3	2244-2247	The	_
@@ -408,6 +424,7 @@
 16-13	2312-2318	ageing	_
 16-14	2319-2320	.	_
 
+Text=The cohort comprises participants of the Scottish Mental Survey of 1947 (SMS 1947, n = 70,805) in which most Scottish schoolchildren born in 1936 sat the Moray House Test Number 12 at ∼11 years of age.
 17-1	2321-2324	The	_
 17-2	2325-2331	cohort	_
 17-3	2332-2341	comprises	_
@@ -449,6 +466,7 @@
 17-39	2521-2524	age	_
 17-40	2525-2526	.	_
 
+Text=Most participants resided in the Edinburgh and Lothian regions of Scotland at recruitment age ∼70 years.
 18-1	2527-2531	Most	_
 18-2	2532-2544	participants	_
 18-3	2545-2552	resided	_
@@ -467,6 +485,7 @@
 18-16	2625-2630	years	_
 18-17	2631-2632	.	_
 
+Text=The sample has been repeatedly tested in later life with participants undergoing detailed medical, physical, and psycho-social assessments, including a brain MRI examination.
 19-1	2633-2636	The	_
 19-2	2637-2643	sample	_
 19-3	2644-2647	has	_
@@ -495,6 +514,7 @@
 19-26	2798-2809	examination	_
 19-27	2810-2811	.	_
 
+Text=The first testing wave took place at a mean age of 69.53 years (SD, 0.83 years) in 2004–2007 (n = 1,091, 543 females); the second testing wave took place at a mean age of 72.49 years (SD, 0.71 years) in 2007–2010 (n = 866, 418 females); and the third testing wave took place at a mean age of 76.25 years (SD, 0.68 years) in 2011–2014 (n = 697, 337 females).
 20-1	2812-2815	The	_
 20-2	2816-2821	first	_
 20-3	2822-2829	testing	_
@@ -587,6 +607,7 @@
 20-90	3187-3188	)	_
 20-91	3189-3190	.	_
 
+Text=The data in the present report come from the second and third waves of the study at which points structural brain imaging was performed.
 21-1	3191-3194	The	_
 21-2	3195-3199	data	_
 21-3	3200-3202	in	_
@@ -613,6 +634,7 @@
 21-24	3317-3326	performed	_
 21-25	3327-3328	.	_
 
+Text=A total of 731 participants (343 females) agreed to undergo brain imaging at a mean age of 72.68 years (SD, 0.72 years), and 488 (228 females) at a mean age of 76.38 years (SD, 0.65 years), none of whom were known to have schizophrenia.
 22-1	3329-3330	A	_
 22-2	3331-3336	total	_
 22-3	3337-3339	of	_
@@ -671,6 +693,7 @@
 22-56	3563-3576	schizophrenia	_
 22-57	3577-3578	.	_
 
+Text=Only one participant was diagnosed with bipolar disorder.
 23-1	3579-3583	Only	_
 23-2	3584-3587	one	_
 23-3	3588-3599	participant	_
@@ -681,6 +704,7 @@
 23-8	3627-3635	disorder	_
 23-9	3636-3637	.	_
 
+Text=However, the data indicated that this participant was not an outlier (±2.5 SD for all brain imaging measures) and therefore, this subject was not excluded from the analysis.
 24-1	3638-3645	However	_
 24-2	3646-3647	,	_
 24-3	3648-3651	the	_
@@ -715,6 +739,7 @@
 24-32	3806-3814	analysis	_
 24-33	3815-3816	.	_
 
+Text=The study was approved by the Multi-Centre Research Ethics Committee for Scotland (MREC/01/0/56), the Lothian Research Ethics Committee (LREC/2003/2/29) and the Scotland A Research Ethics Committee (07/MRE00/58).
 25-1	3817-3820	The	_
 25-2	3821-3826	study	_
 25-3	3827-3830	was	_
@@ -751,6 +776,7 @@
 25-34	4034-4035	)	_
 25-35	4036-4037	.	_
 
+Text=All participants completed written informed consent forms before any cognitive, MRI, or other measurements were taken.
 26-1	4038-4041	All	_
 26-2	4042-4054	participants	_
 26-3	4055-4064	completed	_
@@ -771,6 +797,7 @@
 26-18	4152-4157	taken	_
 26-19	4158-4159	.	_
 
+Text=Scan acquisition All structural and diffusion MRI data were acquired using a GE Signa Horizon HDx 1.5 T clinical scanner (General Electric, Milwaukee, WI, USA) using a self-shielding gradient set with maximum gradient strength of 33 mT m−1, and eight-channel head array coil.
 27-1	4160-4164	Scan	_
 27-2	4165-4176	acquisition	_
 27-3	4177-4180	All	_
@@ -822,6 +849,7 @@
 27-49	4436-4440	coil	_
 27-50	4441-4442	.	_
 
+Text=Diffusion-weighted echo-planar volumes (b = 1000 s mm−2) were acquired in 64 non-collinear directions, along with seven T2-weighted volumes (b = 0 s mm−2).
 28-1	4443-4461	Diffusion-weighted	_
 28-2	4462-4473	echo-planar	_
 28-3	4474-4481	volumes	_
@@ -853,6 +881,7 @@
 28-29	4601-4602	)	_
 28-30	4603-4604	.	_
 
+Text=Each volume comprised seventy-two contiguous axial 2-mm-thick slices acquired with 2 × 2 mm in-plane resolution.
 29-1	4605-4609	Each	_
 29-2	4610-4616	volume	_
 29-3	4617-4626	comprised	_
@@ -871,6 +900,7 @@
 29-16	4706-4716	resolution	_
 29-17	4717-4718	.	_
 
+Text=Repetition and echo times were 16.5 s and 95.5 m s respectively.
 30-1	4719-4729	Repetition	_
 30-2	4730-4733	and	_
 30-3	4734-4738	echo	_
@@ -885,6 +915,7 @@
 30-12	4770-4782	respectively	_
 30-13	4783-4784	.	_
 
+Text=A 3D T1-weighted inversion recovery-prepared fast spoiled gradient-echo (FSPGR) volume was also acquired in the coronal plane with 160 contiguous slices and 1.3 mm3 voxel dimensions.
 31-1	4785-4786	A	_
 31-2	4787-4789	3D	_
 31-3	4790-4801	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -915,6 +946,7 @@
 31-28	4958-4968	dimensions	_
 31-29	4969-4970	.	_
 
+Text=Full details of the imaging protocol are available.
 32-1	4971-4975	Full	_
 32-2	4976-4983	details	_
 32-3	4984-4986	of	_
@@ -925,6 +957,7 @@
 32-8	5012-5021	available	_
 32-9	5022-5023	.	_
 
+Text=The scanner underwent a major upgrade just prior to the first wave of imaging and was regulated continuously within a tight quality control environment across the duration of the study; all scans were acquired with the same imaging protocol and scanner software platform throughout.
 33-1	5024-5027	The	_
 33-2	5028-5035	scanner	_
 33-3	5036-5045	underwent	_
@@ -972,6 +1005,7 @@
 33-45	5296-5306	throughout	_
 33-46	5307-5308	.	_
 
+Text=Image processing Each 3D T1-weighted FSPGR volume was parcellated into 85 cortical regions-of-interest (ROI) using FreeSurfer (http: //surfer.nmr.mgh.harvard.edu), which comprised 34 cortical ROIs and eight sub-cortical ROIs per hemisphere, plus the brainstem.
 34-1	5309-5314	Image	_
 34-2	5315-5325	processing	_
 34-3	5326-5330	Each	_
@@ -1013,6 +1047,7 @@
 34-39	5566-5575	brainstem	_
 34-40	5576-5577	.	_
 
+Text=Segmentations were visually checked, then used to construct grey and white matter masks for use in network construction and to constrain the tractography output as described below.
 35-1	5578-5591	Segmentations	_
 35-2	5592-5596	were	_
 35-3	5597-5605	visually	_
@@ -1043,6 +1078,7 @@
 35-28	5753-5758	below	_
 35-29	5759-5760	.	_
 
+Text=Using tools provided by the FDT package in FSL (http: //fsl.fmrib.ox.ac.uk/fsl), the diffusion MRI data were pre-processed to reduce systematic imaging distortions and bulk subject motion artefacts by afﬁne registration of all subsequent EP volumes to the ﬁrst T2-weighted EP volume.
 36-1	5761-5766	Using	_
 36-2	5767-5772	tools	_
 36-3	5773-5781	provided	_
@@ -1090,6 +1126,7 @@
 36-45	6041-6047	volume	_
 36-46	6048-6049	.	_
 
+Text=Skull stripping and brain extraction were performed on the registered T2-weighted EP volumes and applied to the mean diffusivity/fractional anisotropy (MD/FA) volumes calculated by DTIFIT in each subject.
 37-1	6050-6055	Skull	_
 37-2	6056-6065	stripping	_
 37-3	6066-6069	and	_
@@ -1122,6 +1159,7 @@
 37-30	6248-6255	subject	_
 37-31	6256-6257	.	_
 
+Text=The neuroanatomical ROIs determined by FreeSurfer were then aligned from 3D T1-weighted volume to diffusion space using a cross-modal nonlinear registration method.
 38-1	6258-6261	The	_
 38-2	6262-6277	neuroanatomical	_
 38-3	6278-6282	ROIs	_
@@ -1146,6 +1184,7 @@
 38-22	6415-6421	method	_
 38-23	6422-6423	.	_
 
+Text=As a ﬁrst step, linear registration was used to initialize the alignment of each brain-extracted FA volume to the corresponding FreeSurfer extracted 3D T1-weighted brain volume using a mutual information cost function and an afﬁne transform with 12 degrees of freedom.
 39-1	6424-6426	As	_
 39-2	6427-6428	a	_
 39-3	6429-6433	ﬁrst	_
@@ -1190,6 +1229,7 @@
 39-42	6685-6692	freedom	_
 39-43	6693-6694	.	_
 
+Text=Following this initialization, a nonlinear deformation ﬁeld based method (FNIRT) was used to reﬁne local alignment.
 40-1	6695-6704	Following	_
 40-2	6705-6709	this	_
 40-3	6710-6724	initialization	_
@@ -1211,6 +1251,7 @@
 40-19	6803-6812	alignment	_
 40-20	6813-6814	.	_
 
+Text=FreeSurfer segmentations and anatomical labels were then aligned to diffusion space using nearest neighbour interpolation.
 41-1	6815-6825	FreeSurfer	_
 41-2	6826-6839	segmentations	_
 41-3	6840-6843	and	_
@@ -1228,6 +1269,7 @@
 41-15	6923-6936	interpolation	_
 41-16	6937-6938	.	_
 
+Text=Tractography Whole-brain probabilistic tractography was performed using FSL's BedpostX/ProbTrackX algorithm.
 42-1	6939-6951	Tractography	_
 42-2	6952-6963	Whole-brain	_
 42-3	6964-6977	probabilistic	_
@@ -1241,6 +1283,7 @@
 42-11	7038-7047	algorithm	_
 42-12	7048-7049	.	_
 
+Text=Probability density functions, which describe the uncertainty in the principal directions of water diffusion, were computed using a two-ﬁbre model per voxel.
 43-1	7050-7061	Probability	_
 43-2	7062-7069	density	_
 43-3	7070-7079	functions	_
@@ -1267,6 +1310,7 @@
 43-24	7203-7208	voxel	_
 43-25	7209-7210	.	_
 
+Text=Twelve major tracts were identified in each participant using probabilistic neighbourhood tractography (PNT), as implemented in the TractoR package for fibre tracking and analysis (http: //www.tractor-mri.org.uk/; PNT is an automatic tract segmentation method that has shown good reproducibility.
 44-1	7211-7217	Twelve	_
 44-2	7218-7223	major	_
 44-3	7224-7230	tracts	_
@@ -1313,6 +1357,7 @@
 44-44	7497-7512	reproducibility	_
 44-45	7513-7514	.	_
 
+Text=This technique optimizes the choice of seed point placement for tractography by estimating the best matching tract from a series of candidate tracts generated from a neighbourhood of voxels (typically 7 × 7 × 7) placed around a central voxel transferred from standard to native space against a reference tract that was derived from a group of healthy volunteers aged 25–64 years.
 45-1	7515-7519	This	_
 45-2	7520-7529	technique	_
 45-3	7530-7539	optimizes	_
@@ -1379,6 +1424,7 @@
 45-64	7890-7895	years	_
 45-65	7896-7897	.	_
 
+Text=The topological tract model was also used to reject any false positive connections, thereby significantly improving tract segmentation.
 46-1	7898-7901	The	_
 46-2	7902-7913	topological	_
 46-3	7914-7919	tract	_
@@ -1400,6 +1446,7 @@
 46-19	8021-8033	segmentation	_
 46-20	8034-8035	.	_
 
+Text=The seed point best matching each tract to the reference was determined in this manner and probabilistic white matter tracts masks were reconstructed by sampling 5000 streamlines.
 47-1	8036-8039	The	_
 47-2	8040-8044	seed	_
 47-3	8045-8050	point	_
@@ -1429,6 +1476,7 @@
 47-27	8203-8214	streamlines	_
 47-28	8215-8216	.	_
 
+Text=All segmented white matter tracts were visually assessed to ensure they were an anatomically accurate representation of the fasciculi-of-interest.
 48-1	8217-8220	All	_
 48-2	8221-8230	segmented	_
 48-3	8231-8236	white	_
@@ -1450,6 +1498,7 @@
 48-19	8341-8362	fasciculi-of-interest	_
 48-20	8363-8364	.	_
 
+Text=The resulting tractography masks were applied to the MD/FA volumes of each participant; this permitted tract-specific mean values of FA and MD, weighted by the connection probability, to be obtained for each tract in each subject.
 49-1	8365-8368	The	_
 49-2	8369-8378	resulting	_
 49-3	8379-8391	tractography	_
@@ -1491,6 +1540,7 @@
 49-39	8590-8597	subject	_
 49-40	8598-8599	.	_
 
+Text=The twelve tracts segmented were the genu and splenium of corpus callosum, and bilateral cingulum, anterior thalamic radiations (ATR), arcuate, uncinate and inferior longitudinal fasciculi.
 50-1	8600-8603	The	_
 50-2	8604-8610	twelve	_
 50-3	8611-8617	tracts	_
@@ -1524,6 +1574,7 @@
 50-31	8785-8794	fasciculi	_
 50-32	8795-8796	.	_
 
+Text=Structural connectome Using the probability density functions generated from BedpostX/ProbTractX, streamlines were then constructed by sampling from these distributions during a tracking process that involved all white matter voxels using 100 Markov Chain Monte Carlo iterations with a ﬁxed step size of 0.5 mm between successive points.
 51-1	8797-8807	Structural	_
 51-2	8808-8818	connectome	_
 51-3	8819-8824	Using	_
@@ -1574,6 +1625,7 @@
 51-48	9128-9134	points	_
 51-49	9135-9136	.	_
 
+Text=Tracking was initiated from all white matter voxels in two collinear directions until terminated by the following stopping criteria designed to minimize the amount of anatomically implausible streamlines: (i) exceeding a curvature threshold of 70°; (ii) entering a voxel with FA below 0.1; (iii) entering an extra-cerebral voxel; (iv) exceeding 200 mm in length; and (v) exceeding a distance ratio metric of 10.
 52-1	9137-9145	Tracking	_
 52-2	9146-9149	was	_
 52-3	9150-9159	initiated	_
@@ -1654,6 +1706,7 @@
 52-78	9560-9562	10	_
 52-79	9563-9564	.	_
 
+Text=The distance ratio metric, excludes implausibly tortuous streamlines.
 53-1	9565-9568	The	_
 53-2	9569-9577	distance	_
 53-3	9578-9583	ratio	_
@@ -1665,6 +1718,7 @@
 53-9	9623-9634	streamlines	_
 53-10	9635-9636	.	_
 
+Text=For instance, a streamline with a total path length 10 times longer than the distance between end points was considered to be invalid.
 54-1	9637-9640	For	_
 54-2	9641-9649	instance	_
 54-3	9650-9651	,	_
@@ -1691,6 +1745,7 @@
 54-24	9764-9771	invalid	_
 54-25	9772-9773	.	_
 
+Text=The values of the curvature, anisotropy and distance ratio metric constraints were set empirically and informed by visual assessment of the resulting streamlines.
 55-1	9774-9777	The	_
 55-2	9778-9784	values	_
 55-3	9785-9787	of	_
@@ -1717,6 +1772,7 @@
 55-24	9925-9936	streamlines	_
 55-25	9937-9938	.	_
 
+Text=Network construction FA-weighted networks were constructed by recording the mean FA value along streamlines connecting all 85 ROI (network node) pairs from the default FreeSurfer cortical and subcortical regions.
 56-1	9939-9946	Network	_
 56-2	9947-9959	construction	_
 56-3	9960-9971	FA-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1750,6 +1806,7 @@
 56-31	10145-10152	regions	_
 56-32	10153-10154	.	_
 
+Text=The endpoint of a streamline was considered to be the ﬁrst grey matter ROI encountered when tracking from the seed location.
 57-1	10155-10158	The	_
 57-2	10159-10167	endpoint	_
 57-3	10168-10170	of	_
@@ -1773,6 +1830,7 @@
 57-21	10270-10278	location	_
 57-22	10279-10280	.	_
 
+Text=The average brain network across the cohort was determined by including those connections which occurred in more than 2/3 of the participants at baseline.
 58-1	10281-10284	The	_
 58-2	10285-10292	average	_
 58-3	10293-10298	brain	_
@@ -1799,6 +1857,7 @@
 58-24	10426-10434	baseline	_
 58-25	10435-10436	.	_
 
+Text=This baseline network mask was then propagated to the second wave of connectivity matrices.
 59-1	10437-10441	This	_
 59-2	10442-10450	baseline	_
 59-3	10451-10458	network	_
@@ -1815,6 +1874,7 @@
 59-14	10519-10527	matrices	_
 59-15	10528-10529	.	_
 
+Text=Organizational properties of the different networks were then obtained using the brain connectivity toolbox (www.brain-connectivity-toolbox.net).
 60-1	10530-10544	Organizational	_
 60-2	10545-10555	properties	_
 60-3	10556-10558	of	_
@@ -1834,6 +1894,7 @@
 60-17	10675-10676	)	_
 60-18	10677-10678	.	_
 
+Text=For each FA-weighted connectivity matrix for the average network, five global network measures were computed, namely mean edge weight (mean value of FA across the network), density (the fraction of present connections to possible connections), strength (the average sum of weights per node), clustering coefﬁcient (fraction of triangles around a node) and global efﬁciency (the average of the inverse shortest path length).
 61-1	10679-10682	For	_
 61-2	10683-10687	each	_
 61-3	10688-10699	FA-weighted	_
@@ -1913,6 +1974,7 @@
 61-77	11115-11116	)	_
 61-78	11117-11118	.	_
 
+Text=Polygenic risk score calculation The majority of participants provided blood samples at the first testing wave (age 70 years) that were used to extract DNA for the genetic analyses.
 62-1	11119-11128	Polygenic	_
 62-2	11129-11133	risk	_
 62-3	11134-11139	score	_
@@ -1946,6 +2008,7 @@
 62-31	11293-11301	analyses	_
 62-32	11302-11303	.	_
 
+Text=To measure single-nucleotide polymorphisms (SNPs) we used the Illumina 610-Quadv1 whole-genome SNP array; measurements were completed at the Wellcome Trust Clinical Research Facility Genetics Core, Western General Hospital, Edinburgh (https: //www.wtcrf.ed.ac.uk).
 63-1	11304-11306	To	_
 63-2	11307-11314	measure	_
 63-3	11315-11332	single-nucleotide	_
@@ -1987,6 +2050,7 @@
 63-39	11574-11575	)	_
 63-40	11576-11577	.	_
 
+Text=Stringent quality control analyses were applied to the genotype data which resulted in 549692 of the 599011 SNPs on the Illumina 610 chip being retained in 3511 individuals (2115 females).
 64-1	11578-11587	Stringent	_
 64-2	11588-11595	quality	_
 64-3	11596-11603	control	_
@@ -2021,6 +2085,7 @@
 64-32	11766-11767	)	_
 64-33	11768-11769	.	_
 
+Text=The sample collection, quality control and genotyping process is described in greater detail elsewhere and non-European individuals were carefully excluded from the current analysis.
 65-1	11770-11773	The	_
 65-2	11774-11780	sample	_
 65-3	11781-11791	collection	_
@@ -2048,6 +2113,7 @@
 65-25	11944-11952	analysis	_
 65-26	11953-11954	.	_
 
+Text=PGRS summarise the small effects across all SNPs that contribute to the genetic liability of a phenotype (in this case, schizophrenia).
 66-1	11955-11959	PGRS	_
 66-2	11960-11969	summarise	_
 66-3	11970-11973	the	_
@@ -2074,6 +2140,7 @@
 66-24	12091-12092	)	_
 66-25	12093-12094	.	_
 
+Text=The out-of-sample validation of the capacity of szPGRS to predict onset of schizophrenia has been reported to explain 24.43% (the estimate assumes a population risk of 1%) of the variance in liability.
 67-1	12095-12098	The	_
 67-2	12099-12112	out-of-sample	_
 67-3	12113-12123	validation	_
@@ -2112,6 +2179,7 @@
 67-36	12290-12299	liability	_
 67-37	12300-12301	.	_
 
+Text=szPGRS were created for all individuals with suitable genotype data; only genotypes passing stringent quality control were used in analyses.
 68-1	12302-12308	szPGRS	_
 68-2	12309-12313	were	_
 68-3	12314-12321	created	_
@@ -2135,6 +2203,7 @@
 68-21	12434-12442	analyses	_
 68-22	12443-12444	.	_
 
+Text=szPGRS were estimated using the recent summary data from a GWAS of schizophrenia comprising a meta-analysis of two studies, which included 40675 cases and 64643 controls.
 69-1	12445-12451	szPGRS	_
 69-2	12452-12456	were	_
 69-3	12457-12466	estimated	_
@@ -2164,6 +2233,7 @@
 69-27	12607-12615	controls	_
 69-28	12616-12617	.	_
 
+Text=szPGRS were estimated using the PRSice software package according to previously described protocols, with linkage disequilibrium and distance thresholds for clumping of r2 = 0.2 and within a 250 kb window.
 70-1	12618-12624	szPGRS	_
 70-2	12625-12629	were	_
 70-3	12630-12639	estimated	_
@@ -2198,6 +2268,7 @@
 70-32	12817-12823	window	_
 70-33	12824-12825	.	_
 
+Text=Five scores were created for each individual using SNPs selected according to the significance of their association with the phenotype at nominal p-value thresholds of 0.01, 0.05, 0.1, 0.5 and 1.0 (all SNPs).
 71-1	12826-12830	Five	_
 71-2	12831-12837	scores	_
 71-3	12838-12842	were	_
@@ -2238,6 +2309,7 @@
 71-38	13037-13038	)	_
 71-39	13039-13040	.	_
 
+Text=Our primary analyses used scores generated from a list of SNPs with a GWAS training set of p ≤ 1.0 threshold as recommended previously in order to allow replication by other studies and to maximise the potential predictive capacity.
 72-1	13041-13044	Our	_
 72-2	13045-13052	primary	_
 72-3	13053-13061	analyses	_
@@ -2279,6 +2351,7 @@
 72-39	13264-13272	capacity	_
 72-40	13273-13274	.	_
 
+Text=However, results at p ≤ 0.1 and p ≤ 0.5 thresholds are presented in Supplementary Material Tables 3 and 4 Four multidimensional scaling factors (estimated from SNP data) were entered into the models as additional ‘ nuisance ’ covariates to control for population stratification, along with age.
 73-1	13275-13282	However	_
 73-2	13283-13284	,	_
 73-3	13285-13292	results	_
@@ -2332,6 +2405,7 @@
 73-51	13569-13572	age	_
 73-52	13573-13574	.	_
 
+Text=These multidimensional scaling factors have been previously identified to be adequate for accounting for population structure in this sample.
 74-1	13575-13580	These	_
 74-2	13581-13597	multidimensional	_
 74-3	13598-13605	scaling	_
@@ -2353,6 +2427,7 @@
 74-19	13709-13715	sample	_
 74-20	13716-13717	.	_
 
+Text=Statistical analyses First, age-related changes for white matter tract MD/FA values and global graph theory measures were calculated using linear mixed models for those participants who completed both assessments.
 75-1	13718-13729	Statistical	_
 75-2	13730-13738	analyses	_
 75-3	13739-13744	First	_
@@ -2385,6 +2460,7 @@
 75-30	13920-13931	assessments	_
 75-31	13932-13933	.	_
 
+Text=The package used for the linear mixed models was 'nlme' in R and standardised betas were reported.
 76-1	13934-13937	The	_
 76-2	13938-13945	package	_
 76-3	13946-13950	used	_
@@ -2405,6 +2481,7 @@
 76-18	14024-14032	reported	_
 76-19	14033-14034	.	_
 
+Text=Age in days at the time of MRI acquisition and sex were entered as fixed effects and participant as a random effect.
 77-1	14035-14038	Age	_
 77-2	14039-14041	in	_
 77-3	14042-14046	days	_
@@ -2429,6 +2506,7 @@
 77-22	14144-14150	effect	_
 77-23	14151-14152	.	_
 
+Text=Moreover, for each connectivity metric, residuals were calculated from a linear regression predicting each metric from density (fraction of present connections to possible connections), and these were used in all analyses.
 78-1	14153-14161	Moreover	_
 78-2	14162-14163	,	_
 78-3	14164-14167	for	_
@@ -2467,6 +2545,7 @@
 78-36	14371-14379	analyses	_
 78-37	14380-14381	.	_
 
+Text=This is because several global graph theory metrics depend on density and comparisons at constant density allow differences related to the topological reorganization of links to be assessed longitudinally.
 79-1	14382-14386	This	_
 79-2	14387-14389	is	_
 79-3	14390-14397	because	_
@@ -2498,6 +2577,7 @@
 79-29	14572-14586	longitudinally	_
 79-30	14587-14588	.	_
 
+Text=The use of graph theory to study network topology is a valuable framework while also being a challenging task.
 80-1	14589-14592	The	_
 80-2	14593-14596	use	_
 80-3	14597-14599	of	_
@@ -2519,6 +2599,7 @@
 80-19	14694-14698	task	_
 80-20	14699-14700	.	_
 
+Text=For instance, the number of nodes (N) or network's degree (k) will influence the computation of global theory metrics (see Brain Connectivity Toolbox for a detailed description of metrics: https: //sites.google.com/site/bctnet).
 81-1	14701-14704	For	_
 81-2	14705-14713	instance	_
 81-3	14714-14715	,	_
@@ -2562,6 +2643,7 @@
 81-41	14937-14938	)	_
 81-42	14939-14940	.	_
 
+Text=Therefore, comparing networks with different N or k can yield spurious results.
 82-1	14941-14950	Therefore	_
 82-2	14951-14952	,	_
 82-3	14953-14962	comparing	_
@@ -2577,6 +2659,7 @@
 82-13	15013-15020	results	_
 82-14	15021-15022	.	_
 
+Text=Instead of restraining all networks to a fixed k parameter, we chose to control each subject's graph theory measure for edge density.
 83-1	15023-15030	Instead	_
 83-2	15031-15033	of	_
 83-3	15034-15045	restraining	_
@@ -2603,6 +2686,7 @@
 83-24	15150-15157	density	_
 83-25	15158-15159	.	_
 
+Text=Therefore, models presented below compute density as a fixed effect for each graph metric.
 84-1	15160-15169	Therefore	_
 84-2	15170-15171	,	_
 84-3	15172-15178	models	_
@@ -2620,6 +2704,7 @@
 84-15	15244-15250	metric	_
 84-16	15251-15252	.	_
 
+Text=This allowed us to compare metrics longitudinally independently of their differences in density.
 85-1	15253-15257	This	_
 85-2	15258-15265	allowed	_
 85-3	15266-15268	us	_
@@ -2635,6 +2720,7 @@
 85-13	15341-15348	density	_
 85-14	15349-15350	.	_
 
+Text=We then estimated a structural equation model (SEM) for each white matter tract MD/FA values and global graph theory measures.
 86-1	15351-15353	We	_
 86-2	15354-15358	then	_
 86-3	15359-15368	estimated	_
@@ -2659,6 +2745,7 @@
 86-22	15470-15478	measures	_
 86-23	15479-15480	.	_
 
+Text=We estimated a separate model for each MRI metric (density-corrected network metric or white matter tract MD/FA value), which were set as the dependent variable in each model.
 87-1	15481-15483	We	_
 87-2	15484-15493	estimated	_
 87-3	15494-15495	a	_
@@ -2692,6 +2779,7 @@
 87-31	15653-15658	model	_
 87-32	15659-15660	.	_
 
+Text=Latent change score models were used to assess associations of szPGRS with the cross-sectional (baseline level, age ∼73 years) and longitudinal change (73–76 years) in diffusion MRI parameters.
 88-1	15661-15667	Latent	_
 88-2	15668-15674	change	_
 88-3	15675-15680	score	_
@@ -2727,6 +2815,7 @@
 88-33	15848-15858	parameters	_
 88-34	15859-15860	.	_
 
+Text=Latent scores were derived from bilateral white matter tracts.
 89-1	15861-15867	Latent	_
 89-2	15868-15874	scores	_
 89-3	15875-15879	were	_
@@ -2738,6 +2827,7 @@
 89-9	15916-15922	tracts	_
 89-10	15923-15924	.	_
 
+Text=We constrained the loadings for left and right tracts across waves to be equal (i.e.
 90-1	15925-15927	We	_
 90-2	15928-15939	constrained	_
 90-3	15940-15943	the	_
@@ -2756,6 +2846,7 @@
 90-16	16006-16009	i.e	_
 90-17	16010-16011	.	_
 
+Text=the left loadings were equal across waves and independent of right loadings).
 91-1	16012-16015	the	_
 91-2	16016-16020	left	_
 91-3	16021-16029	loadings	_
@@ -2771,6 +2862,7 @@
 91-13	16088-16089	)	_
 91-14	16090-16091	.	_
 
+Text=For interhemispheric white matter tracts (genu and splenium) and graph theory metrics, we used a single indicator model.
 92-1	16092-16095	For	_
 92-2	16096-16112	interhemispheric	_
 92-3	16113-16118	white	_
@@ -2794,9 +2886,11 @@
 92-21	16209-16214	model	_
 92-22	16215-16216	.	_
 
+Text=Fig.
 93-1	16217-16220	Fig	_
 93-2	16221-16222	.	_
 
+Text=1 shows a simplified diagram of the SEM framework.
 94-1	16223-16224	1	_
 94-2	16225-16230	shows	_
 94-3	16231-16232	a	_
@@ -2808,6 +2902,7 @@
 94-9	16263-16272	framework	_
 94-10	16273-16274	.	_
 
+Text=Within the model, each brain imaging measure was adjusted for its respective age in days at the time of scanning and sex at the manifest level, while szPGRS was adjusted for sex and population stratification components.
 95-1	16275-16281	Within	_
 95-2	16282-16285	the	_
 95-3	16286-16291	model	_
@@ -2848,6 +2943,7 @@
 95-38	16485-16495	components	_
 95-39	16496-16497	.	_
 
+Text=Due to the apparent association between schizophrenia and cardiovascular disease, we adjusted the linear mixed models and latent change score models for high blood pressure at each time point in order to reject the hypothesis that higher cardiovascular risk may contribute to a steeper decline in diffusion MRI parameters over time.
 96-1	16498-16501	Due	_
 96-2	16502-16504	to	_
 96-3	16505-16508	the	_
@@ -2902,6 +2998,7 @@
 96-52	16826-16830	time	_
 96-53	16831-16832	.	_
 
+Text=For each model, we tested the association at the brain baseline level and change with szPGRS.
 97-1	16833-16836	For	_
 97-2	16837-16841	each	_
 97-3	16842-16847	model	_
@@ -2921,6 +3018,7 @@
 97-17	16920-16926	szPGRS	_
 97-18	16927-16928	.	_
 
+Text=SEM was performed using the package 'lavaan' in R with full-information maximum likelihood estimation to use all data available.
 98-1	16929-16932	SEM	_
 98-2	16933-16936	was	_
 98-3	16937-16946	performed	_
@@ -2943,6 +3041,7 @@
 98-20	17048-17057	available	_
 98-21	17058-17059	.	_
 
+Text=As an additional analysis, we examined the hypothesis that higher szPGRS was associated with a steeper decline in cognition via change in white matter structure.
 99-1	17060-17062	As	_
 99-2	17063-17065	an	_
 99-3	17066-17076	additional	_
@@ -2971,6 +3070,7 @@
 99-26	17212-17221	structure	_
 99-27	17222-17223	.	_
 
+Text=We used SEM in the ‘ lavaan ’ package with full-information maximum likelihood estimation to derived a latent score of general fluid intelligence (gf) for each wave from six non-verbal tests of cognitive function from the Weschler Adult Intelligence Scale IIIUK: matrix reasoning (non-verbal reasoning), block design (constructional ability), symbol search and digit symbol (processing speed), letter number sequencing and digit span backwards (working memory).
 100-1	17224-17226	We	_
 100-2	17227-17231	used	_
 100-3	17232-17235	SEM	_
@@ -3052,6 +3152,7 @@
 100-79	17697-17698	)	_
 100-80	17699-17700	.	_
 
+Text=Within the model, each cognitive test was adjusted for age in days at the time of assessment and sex at the manifest level.
 101-1	17701-17707	Within	_
 101-2	17708-17711	the	_
 101-3	17712-17717	model	_
@@ -3078,6 +3179,7 @@
 101-24	17819-17824	level	_
 101-25	17825-17826	.	_
 
+Text=We constrained the loadings for each individual raw score across waves (i.e.
 102-1	17827-17829	We	_
 102-2	17830-17841	constrained	_
 102-3	17842-17845	the	_
@@ -3093,6 +3195,7 @@
 102-13	17900-17903	i.e	_
 102-14	17904-17905	.	_
 
+Text=equal loadings for matrix reasoning at baseline and follow-up).
 103-1	17906-17911	equal	_
 103-2	17912-17920	loadings	_
 103-3	17921-17924	for	_
@@ -3105,6 +3208,7 @@
 103-10	17968-17969	)	_
 103-11	17970-17971	.	_
 
+Text=Beyond the analyses of szPGRS to the mediator (A path), to test whether the mediation (change from path C to C′) was statistically significant (pFDR <0.05), we tested whether the direct path of szPGRS to gf (path C) and the indirect path from the mediator to gf (path B) were significant.
 104-1	17972-17978	Beyond	_
 104-2	17979-17982	the	_
 104-3	17983-17991	analyses	_
@@ -3171,9 +3275,11 @@
 104-64	18261-18272	significant	_
 104-65	18273-18274	.	_
 
+Text=Fig.
 105-1	18275-18278	Fig	_
 105-2	18279-18280	.	_
 
+Text=2 shows a simplified diagram of the model that was used to examine this hypothesis.
 106-1	18281-18282	2	_
 106-2	18283-18288	shows	_
 106-3	18289-18290	a	_
@@ -3191,6 +3297,7 @@
 106-15	18353-18363	hypothesis	_
 106-16	18364-18365	.	_
 
+Text=All significance (p) values (α = 0.05) were corrected for multiple comparisons using false discovery rate (FDR, pFDR).
 107-1	18366-18369	All	_
 107-2	18370-18382	significance	_
 107-3	18383-18384	(	_

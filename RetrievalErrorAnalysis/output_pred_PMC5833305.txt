@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Subcortical local functional hyperconnectivity in cannabis dependence Background Cannabis abuse has been associated with psychopathology, including negative emotionality and a higher risk of psychosis, particularly with early age of initiation.
 1-1	0-11	Subcortical	_
 1-2	12-17	local	_
 1-3	18-28	functional	_
@@ -36,6 +37,7 @@
 1-32	235-245	initiation	_
 1-33	246-247	.	_
 
+Text=However, the mechanisms underlying this association are poorly understood.
 2-1	248-255	However	_
 2-2	256-257	,	_
 2-3	258-261	the	_
@@ -48,6 +50,7 @@
 2-10	312-322	understood	_
 2-11	323-324	.	_
 
+Text=Because aberrant dopamine (DA) signaling is implicated in cannabis-associated psychopathology, we hypothesized that regular cannabis abuse (CA) would be associated with altered resting functional connectivity in dopamine midbrain-striatal circuits.
 3-1	325-332	Because	_
 3-2	333-341	aberrant	_
 3-3	342-350	dopamine	_
@@ -84,6 +87,7 @@
 3-34	569-577	circuits	_
 3-35	578-579	.	_
 
+Text=Methods We examined resting brain activity of subcortical regions in 441 young adults from the Human Connectome Project, including 30 CA meeting DSM criteria for dependence, and 30 controls matched on age, sex, education, BMI, anxiety, depression, and alcohol/tobacco usage.
 4-1	580-587	Methods	_
 4-2	588-590	We	_
 4-3	591-599	examined	_
@@ -134,6 +138,7 @@
 4-48	856-861	usage	_
 4-49	862-863	.	_
 
+Text=Results Across all subjects, local functional connectivity density (lFCD) hubs in subcortical regions were most prominent in ventral striatum, hippocampus, amygdala, dorsal midbrain, and the posterior-ventral brainstem.
 5-1	864-871	Results	_
 5-2	872-878	Across	_
 5-3	879-882	all	_
@@ -170,6 +175,7 @@
 5-34	1080-1089	brainstem	_
 5-35	1090-1091	.	_
 
+Text=As hypothesized, CA showed markedly increased lFCD relative to controls in ventral striatum (where nucleus accumbens is located) and midbrain (where substantia nigra/ventral tegmental nuclei are located) but also in brainstem and lateral thalamus.
 6-1	1092-1094	As	_
 6-2	1095-1107	hypothesized	_
 6-3	1108-1109	,	_
@@ -211,6 +217,7 @@
 6-39	1335-1343	thalamus	_
 6-40	1344-1345	.	_
 
+Text=These effects were observed in the absence of significant differences in subcortical volumes, and were most pronounced in the individuals who began cannabis use earliest in life and who reported high levels of negative emotionality.
 7-1	1346-1351	These	_
 7-2	1352-1359	effects	_
 7-3	1360-1364	were	_
@@ -249,6 +256,7 @@
 7-36	1566-1578	emotionality	_
 7-37	1579-1580	.	_
 
+Text=Conclusions Together, these findings suggest that chronic cannabis abuse is associated with changes in resting brain function, particularly in dopaminergic nuclei implicated in psychosis but that are also critical for habit formation and reward processing.
 8-1	1581-1592	Conclusions	_
 8-2	1593-1601	Together	_
 8-3	1602-1603	,	_
@@ -288,6 +296,7 @@
 8-37	1828-1838	processing	_
 8-38	1839-1840	.	_
 
+Text=These results shed light on neurobiological differences that may be relevant to psychopathology associated with cannabis use.
 9-1	1841-1846	These	_
 9-2	1847-1854	results	_
 9-3	1855-1859	shed	_
@@ -307,6 +316,7 @@
 9-17	1962-1965	use	_
 9-18	1966-1967	.	_
 
+Text=Materials and Methods Participants We analyzed data from the S500 release (https: //www.humanconnectome.org/documentation/S500/index.html) of the WU-Minn HCP Consortium.
 10-1	1968-1977	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	1978-1981	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1982-1989	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -330,6 +340,7 @@
 10-21	2129-2139	Consortium	_
 10-22	2140-2141	.	_
 
+Text=We only included participants who had a) complete structural and rsfMRI imaging data that passed a quality assurance check, and b) complete measures of cognitive function and emotionality (total n=441 participants).
 11-1	2142-2144	We	_
 11-2	2145-2149	only	_
 11-3	2150-2158	included	_
@@ -368,6 +379,7 @@
 11-36	2360-2361	)	_
 11-37	2362-2363	.	_
 
+Text=The HCP initiative studied young adults aged 22–35 from a wide range of backgrounds and behavioral profiles representative of the population at large.
 12-1	2364-2367	The	_
 12-2	2368-2371	HCP	_
 12-3	2372-2382	initiative	_
@@ -393,6 +405,7 @@
 12-23	2508-2513	large	_
 12-24	2514-2515	.	_
 
+Text=Thus, while all participants are considered generally healthy, participants with sub-clinical psychiatric symptomatology and recreational drug use are included.
 13-1	2516-2520	Thus	_
 13-2	2521-2522	,	_
 13-3	2523-2528	while	_
@@ -416,6 +429,7 @@
 13-21	2669-2677	included	_
 13-22	2678-2679	.	_
 
+Text=Of the 441 participants, 36 met the DSM-IV criteria for cannabis dependence (see Supplementary Material for a description).
 14-1	2680-2682	Of	_
 14-2	2683-2686	the	_
 14-3	2687-2690	441	_
@@ -439,6 +453,7 @@
 14-21	2804-2805	)	_
 14-22	2806-2807	.	_
 
+Text=Three participants were excluded for comorbid alcohol dependence and one was excluded for anxiety and depression ratings> 3 SD from the group mean.
 15-1	2808-2813	Three	_
 15-2	2814-2826	participants	_
 15-3	2827-2831	were	_
@@ -465,6 +480,7 @@
 15-24	2951-2955	mean	_
 15-25	2956-2957	.	_
 
+Text=Recent studies have indicated that it is critical in studies of cannabis abuse to select a well-matched control group, particularly on measures of alcohol and tobacco usage, e.g.,.
 16-1	2958-2964	Recent	_
 16-2	2965-2972	studies	_
 16-3	2973-2977	have	_
@@ -498,6 +514,7 @@
 16-31	3139-3140	,	_
 16-32	3141-3142	.	_
 
+Text=Therefore, we matched groups on age, sex, education, BMI, anxiety, depression, and alcohol and tobacco usage (we calculated composite tobacco/alcohol usage the same way as a recent study of HCP data; see Supplementary Material and).
 17-1	3143-3152	Therefore	_
 17-2	3153-3154	,	_
 17-3	3155-3157	we	_
@@ -545,6 +562,7 @@
 17-45	3383-3384	)	_
 17-46	3385-3386	.	_
 
+Text=Two subjects from each group were excluded to ensure groups were matched on tobacco usage (Supplementary Material), therefore the final sample included 30 CA and 30 controls; demographics and statistical tests are presented in Table 1.
 18-1	3387-3390	Two	_
 18-2	3391-3399	subjects	_
 18-3	3400-3404	from	_
@@ -587,6 +605,7 @@
 18-40	3624-3625	1	_
 18-41	3626-3627	.	_
 
+Text=Behavioral Measures of Interest We examined data related to cognitive function and negative emotionality, given the interest in potential chronic effects of cannabis in these domains.
 19-1	3628-3638	Behavioral	_
 19-2	3639-3647	Measures	_
 19-3	3648-3650	of	_
@@ -616,6 +635,7 @@
 19-27	3804-3811	domains	_
 19-28	3812-3813	.	_
 
+Text=Participants completed various NIH toolbox measures as part of the HCP.
 20-1	3814-3826	Participants	_
 20-2	3827-3836	completed	_
 20-3	3837-3844	various	_
@@ -629,6 +649,7 @@
 20-11	3881-3884	HCP	_
 20-12	3885-3886	.	_
 
+Text=We were particularly interested in relating the current work to our previous findings that CA are vulnerable to feelings of alienation, i.e.
 21-1	3887-3889	We	_
 21-2	3890-3894	were	_
 21-3	3895-3907	particularly	_
@@ -654,6 +675,7 @@
 21-23	4024-4027	i.e	_
 21-24	4028-4029	.	_
 
+Text=the belief that others wish them harm, and that they are betrayed or deceived by friends.
 22-1	4030-4033	the	_
 22-2	4034-4040	belief	_
 22-3	4041-4045	that	_
@@ -673,6 +695,7 @@
 22-17	4112-4119	friends	_
 22-18	4120-4121	.	_
 
+Text=However, our previous work used the Multidimensional Personality Questionnaire (MPQ) and this was not administered as part of the HCP protocol.
 23-1	4122-4129	However	_
 23-2	4130-4131	,	_
 23-3	4132-4135	our	_
@@ -699,6 +722,7 @@
 23-24	4259-4267	protocol	_
 23-25	4268-4269	.	_
 
+Text=Therefore, we attempted to find analogous measures for the three main domains of the MPQ: stress reactivity, aggression, and alienation.
 24-1	4270-4279	Therefore	_
 24-2	4280-4281	,	_
 24-3	4282-4284	we	_
@@ -725,6 +749,7 @@
 24-24	4399-4409	alienation	_
 24-25	4410-4411	.	_
 
+Text=For stress reactivity, we used the “ perceived stress ” measure; for aggression, we averaged together the Z-scores of “ Anger Hostility ” and “ Anger Aggression ” (i.e., one ’ s own behavior in the anger and aggressive domains); and for alienation we averaged together the Z-scores of “ Perceived Hostility ” and “ Perceived Rejection ” (i.e., how one perceives others behaving towards them).
 25-1	4412-4415	For	_
 25-2	4416-4422	stress	_
 25-3	4423-4433	reactivity	_
@@ -803,6 +828,7 @@
 25-76	4812-4813	)	_
 25-77	4814-4815	.	_
 
+Text=We then averaged together these stress, aggression, and alienation measures together for a composite negative emotionality score.
 26-1	4816-4818	We	_
 26-2	4819-4823	then	_
 26-3	4824-4832	averaged	_
@@ -824,6 +850,7 @@
 26-19	4941-4946	score	_
 26-20	4947-4948	.	_
 
+Text=All three domains were included to examine if the effects were specific to alienation.
 27-1	4949-4952	All	_
 27-2	4953-4958	three	_
 27-3	4959-4966	domains	_
@@ -840,6 +867,7 @@
 27-14	5024-5034	alienation	_
 27-15	5035-5036	.	_
 
+Text=More comprehensive descriptions of cognitive and emotional measures are available in Supplementary Material and https: //wiki.humanconnectome.org/display/PublicData/HCP+Data+Dictionary+Public+500+Subject+Release.
 28-1	5037-5041	More	_
 28-2	5042-5055	comprehensive	_
 28-3	5056-5068	descriptions	_
@@ -859,6 +887,7 @@
 28-17	5157-5249	//wiki.humanconnectome.org/display/PublicData/HCP+Data+Dictionary+Public+500+Subject+Release	_
 28-18	5250-5251	.	_
 
+Text=MRI image acquisition and preprocessing All brain images were collected on a Siemens 3T “ connectome Skyra ” scanner with a 32-channel coil at Washington University in St. Louis.
 29-1	5252-5255	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 29-2	5256-5261	image	_
 29-3	5262-5273	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#Education
@@ -890,6 +919,7 @@
 29-29	5424-5429	Louis	_
 29-30	5430-5431	.	_
 
+Text=T1- and T2-weighted anatomical scans were acquired (FOV=224 mm, matrix=320, 256 slices, 0.7 mm isotropic voxels).
 30-1	5432-5435	T1-	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 30-2	5436-5439	and	_
 30-3	5440-5451	T2-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T2WeightedImaging
@@ -913,6 +943,7 @@
 30-21	5548-5549	)	_
 30-22	5550-5551	.	_
 
+Text=rsfMRI scans were acquired with an EPI sequence (Multiband factor = 8, TR = 720 ms, TE = 33.1 ms, flip angle = 52°, FOV = 208 mm, 104 × 90 matrix, 72 slices of 2 mm isotropic voxels, no gap).
 31-1	5552-5558	rsfMRI	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 31-2	5559-5564	scans	_
 31-3	5565-5569	were	_
@@ -965,6 +996,7 @@
 31-50	5750-5751	)	_
 31-51	5752-5753	.	_
 
+Text=Two sessions were completed with two rsfMRI scans (one LR and one RL phase encoding) in each session.
 32-1	5754-5757	Two	_
 32-2	5758-5766	sessions	_
 32-3	5767-5771	were	_
@@ -987,6 +1019,7 @@
 32-20	5849-5856	session	_
 32-21	5857-5858	.	_
 
+Text=Each scan was 14:33 min, for a total of 54:15 min.
 33-1	5859-5863	Each	_
 33-2	5864-5868	scan	_
 33-3	5869-5872	was	_
@@ -1001,6 +1034,7 @@
 33-12	5906-5909	min	_
 33-13	5910-5911	.	_
 
+Text=For rsfMRI, participants were instructed to lie with eyes open, to relax and look at a white cross on a dark background, think of nothing and to not fall asleep.
 34-1	5912-5915	For	_
 34-2	5916-5922	rsfMRI	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 34-3	5923-5924	,	_
@@ -1036,6 +1070,7 @@
 34-33	6069-6075	asleep	_
 34-34	6076-6077	.	_
 
+Text=For further details on image acquisition, see https: //www.humanconnectome.org/documentation/S500/HCP_S500+MEG2_Release_Appendix_I.pdf.
 35-1	6078-6081	For	_
 35-2	6082-6089	further	_
 35-3	6090-6097	details	_
@@ -1049,6 +1084,7 @@
 35-11	6133-6214	//www.humanconnectome.org/documentation/S500/HCP_S500+MEG2_Release_Appendix_I.pdf	_
 35-12	6215-6216	.	_
 
+Text=For analysis of rsfMRI data, we used the “ minimal preprocessing ” datasets (hp2000_clean.nii files), where preprocessing included: a) gradient distortion correction, b) rigid body realignment, c) field map processing, d) nonlinear normalization to MNI space, e) high-pass filtering with independent component analysis (ICA) -based denoising, and f) brain masking.
 36-1	6217-6220	For	_
 36-2	6221-6229	analysis	_
 36-3	6230-6232	of	_
@@ -1119,6 +1155,7 @@
 36-68	6591-6598	masking	_
 36-69	6599-6600	.	_
 
+Text=In our own subsequent preprocessing, we removed timepoints that were severely affected by motion using a ‘ scrubbing ’ approach (Supplementary Material).
 37-1	6601-6603	In	_
 37-2	6604-6607	our	_
 37-3	6608-6611	own	_
@@ -1146,6 +1183,7 @@
 37-25	6755-6756	)	_
 37-26	6757-6758	.	_
 
+Text=Remaining motion effects on fMRI time series were regressed out using the six translation and rotation regressors.
 38-1	6759-6768	Remaining	_
 38-2	6769-6775	motion	_
 38-3	6776-6783	effects	_
@@ -1165,6 +1203,7 @@
 38-17	6862-6872	regressors	_
 38-18	6873-6874	.	_
 
+Text=Finally, band-pass temporal filtering (0.01–0.10 Hz) was applied.
 39-1	6875-6882	Finally	_
 39-2	6883-6884	,	_
 39-3	6885-6894	band-pass	_
@@ -1178,6 +1217,7 @@
 39-11	6935-6942	applied	_
 39-12	6943-6944	.	_
 
+Text=lFCD was computed separately on each of the four runs of processed, unsmoothed data, masked by each participant ’ s FreeSurfer subcortical parcellation (wmparc.2.nii.gz), which included bilateral thalamus, caudate, putamen, pallidum, amygdala, nucleus accumbens, hippocampus, midbrain and brainstem (see Local FCD section below).
 40-1	6945-6949	lFCD	_
 40-2	6950-6953	was	_
 40-3	6954-6962	computed	_
@@ -1237,6 +1277,7 @@
 40-57	7286-7287	)	_
 40-58	7288-7289	.	_
 
+Text=Finally, the four resulting lFCD maps (LR/RL; REST1/REST2) were averaged together and averaged images were smoothed at 2mm FWHM.
 41-1	7290-7297	Finally	_
 41-2	7298-7299	,	_
 41-3	7300-7303	the	_
@@ -1262,6 +1303,7 @@
 41-23	7417-7421	FWHM	_
 41-24	7422-7423	.	_
 
+Text=Local FCD (lFCD) analysis The Pearson correlation was used to assess the strength of functional connectivity, Cij, between voxels i and j.
 42-1	7424-7429	Local	_
 42-2	7430-7433	FCD	_
 42-3	7434-7435	(	_
@@ -1290,6 +1332,7 @@
 42-26	7564-7565	j	_
 42-27	7566-7567	.	_
 
+Text=A positive correlation threshold of r = 0.2 (sufficient to Bonferroni correct for the number of correlations performed in the subcortical mask, p <1 × 10−4) was used to compute the binary connectivity coefficients, aij = 1 (if Cij> 0.2) or aij = 0 (if Cij ≤ 0.2).
 43-1	7568-7569	A	_
 43-2	7570-7578	positive	_
 43-3	7579-7590	correlation	_
@@ -1350,6 +1393,7 @@
 43-58	7839-7840	)	_
 43-59	7841-7842	.	_
 
+Text=This threshold was lower than previous investigations to have sensitivity to detect effects in subcortical regions that have noisier signals than the neocortex, and hence have weaker observed resting-state correlations.
 44-1	7843-7847	This	_
 44-2	7848-7857	threshold	_
 44-3	7858-7861	was	_
@@ -1383,6 +1427,7 @@
 44-31	8050-8062	correlations	_
 44-32	8063-8064	.	_
 
+Text=The local FCD (or ‘ local degree ’) for voxel i was computed as the size of a continuous cluster of voxels with aij = 1, that are connected by surface.
 45-1	8065-8068	The	_
 45-2	8069-8074	local	_
 45-3	8075-8078	FCD	_
@@ -1419,6 +1464,7 @@
 45-34	8211-8218	surface	_
 45-35	8219-8220	.	_
 
+Text=A ‘ growing ’ algorithm was used for time-efficient estimation of lFCD.
 46-1	8221-8222	A	_
 46-2	8223-8224	‘	_
 46-3	8225-8232	growing	_
@@ -1433,6 +1479,7 @@
 46-12	8287-8291	lFCD	_
 46-13	8292-8293	.	_
 
+Text=Seed-based functional connectivity analysis To examine functional connectivity differences with other regions of the brain, we computed seed-based connectivity using the same methods as our previous work (; Supplementary Material).
 47-1	8294-8304	Seed-based	_
 47-2	8305-8315	functional	_
 47-3	8316-8328	connectivity	_
@@ -1468,6 +1515,7 @@
 47-33	8526-8527	)	_
 47-34	8528-8529	.	_
 
+Text=Statistical analysis Second-level statistical analyses were conducted in SPM12 (http: //www.fil.ion.ucl.ac.uk/spm/software/) for imaging data and in Graphpad Prism 7.02 (San Diego, CA) for behavioral data.
 48-1	8530-8541	Statistical	_
 48-2	8542-8550	analysis	_
 48-3	8551-8563	Second-level	_
@@ -1501,6 +1549,7 @@
 48-31	8736-8740	data	_
 48-32	8741-8742	.	_
 
+Text=First, to examine lFCD across the larger population, we conducted a one-sample T-test of lFCD across all 441 participants.
 49-1	8743-8748	First	_
 49-2	8749-8750	,	_
 49-3	8751-8753	to	_
@@ -1524,6 +1573,7 @@
 49-21	8854-8866	participants	_
 49-22	8867-8868	.	_
 
+Text=Next, to compare CA with the matched control group, we conducted a two-sample T-test of lFCD between groups.
 50-1	8869-8873	Next	_
 50-2	8874-8875	,	_
 50-3	8876-8878	to	_
@@ -1546,6 +1596,7 @@
 50-20	8972-8978	groups	_
 50-21	8979-8980	.	_
 
+Text=These analyses were thresholded at p <.001, uncorrected, with a cluster-level correction of p <.05 family-wise error (FWE) corrected, and a minimum cluster size of k = 100 voxels.
 51-1	8981-8986	These	_
 51-2	8987-8995	analyses	_
 51-3	8996-9000	were	_
@@ -1584,6 +1635,7 @@
 51-36	9160-9166	voxels	_
 51-37	9167-9168	.	_
 
+Text=To control cluster-level type I error rates, we calculated cluster corrections with the Statistical nonparametric mapping toolbox (SnPM13: http: //warwick.ac.uk/snpm; 5000 permutations).
 52-1	9169-9171	To	_
 52-2	9172-9179	control	_
 52-3	9180-9193	cluster-level	_
@@ -1614,6 +1666,7 @@
 52-28	9359-9360	)	_
 52-29	9361-9362	.	_
 
+Text=Because lFCD has a power law distribution, we also conducted analyses with log-transformed lFCD values; this did not alter the findings, and so we report these data in Supplementary material.
 53-1	9363-9370	Because	_
 53-2	9371-9375	lFCD	_
 53-3	9376-9379	has	_
@@ -1649,6 +1702,7 @@
 53-33	9548-9556	material	_
 53-34	9557-9558	.	_
 
+Text=We also conducted two-sample T-tests on the volume of subcortical nuclei (from FreeSurfer output), as well as measures of cognition and negative emotionality.
 54-1	9559-9561	We	_
 54-2	9562-9566	also	_
 54-3	9567-9576	conducted	_
@@ -1677,6 +1731,7 @@
 54-26	9707-9719	emotionality	_
 54-27	9720-9721	.	_
 
+Text=To examine if subcortical lFCD had relevance for aberrant cognition and/or negative emotionality in CA, we conducted correlation analysis between lFCD in regions showing significant group differences and in behavioral measures showing significant group differences.
 55-1	9722-9724	To	_
 55-2	9725-9732	examine	_
 55-3	9733-9735	if	_

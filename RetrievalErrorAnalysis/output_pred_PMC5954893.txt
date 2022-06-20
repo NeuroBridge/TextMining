@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=The Effects of Music Intervention on Functional Connectivity Strength of the Brain in Schizophrenia Schizophrenia is often associated with behavior abnormality in the cognitive and affective domain.
 1-1	0-3	The	_
 1-2	4-11	Effects	_
 1-3	12-14	of	_
@@ -31,6 +32,7 @@
 1-27	191-197	domain	_
 1-28	198-199	.	_
 
+Text=Music intervention is used as a complementary treatment for improving symptoms in patients with schizophrenia.
 2-1	200-205	Music	_
 2-2	206-218	intervention	_
 2-3	219-221	is	_
@@ -48,6 +50,7 @@
 2-15	296-309	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-16	310-311	.	_
 
+Text=However, the neurophysiological correlates of these remissions remain poorly understood.
 3-1	312-319	However	_
 3-2	320-321	,	_
 3-3	322-325	the	_
@@ -61,6 +64,7 @@
 3-11	390-400	understood	_
 3-12	401-402	.	_
 
+Text=Here, we investigated the effects of music intervention in neural circuits through functional magnetic resonance imaging (fMRI) study in schizophrenic subjects.
 4-1	403-407	Here	_
 4-2	408-409	,	_
 4-3	410-412	we	_
@@ -87,6 +91,7 @@
 4-24	557-565	subjects	_
 4-25	566-567	.	_
 
+Text=Under the standard care, patients were randomly assigned to music and non-music interventions (MTSZ, UMTSZ) for 1 month.
 5-1	568-573	Under	_
 5-2	574-577	the	_
 5-3	578-586	standard	_
@@ -111,6 +116,7 @@
 5-22	686-691	month	_
 5-23	692-693	.	_
 
+Text=Resting-state fMRI were acquired over three time points (baseline, 1 month, and 6 months later) in patients and analyzed using functional connectivity strength (FCS) and seed-based functional connection (FC) approaches.
 6-1	694-707	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 6-2	708-712	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 6-3	713-717	were	_
@@ -151,6 +157,7 @@
 6-38	910-920	approaches	_
 6-39	921-922	.	_
 
+Text=At baseline, compared with healthy controls, decreased FCS in the right middle temporal gyrus (MTG) was observed in patients.
 7-1	923-925	At	_
 7-2	926-934	baseline	_
 7-3	935-936	,	_
@@ -176,6 +183,7 @@
 7-23	1043-1051	patients	_
 7-24	1052-1053	.	_
 
+Text=However, after music intervention, the functional circuitry of the right MTG, which was related with the function of emotion and sensorimotor, was improved in MTSZ.
 8-1	1054-1061	However	_
 8-2	1062-1063	,	_
 8-3	1064-1069	after	_
@@ -207,6 +215,7 @@
 8-29	1217-1221	MTSZ	_
 8-30	1222-1223	.	_
 
+Text=Furthermore, the FC increments were significantly correlated with the improvement of symptoms, while vanishing 6 months later.
 9-1	1224-1235	Furthermore	_
 9-2	1236-1237	,	_
 9-3	1238-1241	the	_
@@ -228,6 +237,7 @@
 9-19	1346-1351	later	_
 9-20	1352-1353	.	_
 
+Text=Together, these findings provided evidence that music intervention might positively modulate the functional connectivity of MTG in patients with schizophrenia; such changes might be associated with the observed therapeutic effects of music intervention on neurocognitive function.
 10-1	1354-1362	Together	_
 10-2	1363-1364	,	_
 10-3	1365-1370	these	_
@@ -268,6 +278,7 @@
 10-38	1627-1635	function	_
 10-39	1636-1637	.	_
 
+Text=This trial is registered with ChiCTR-OPC-14005339.
 11-1	1638-1642	This	_
 11-2	1643-1648	trial	_
 11-3	1649-1651	is	_
@@ -276,15 +287,18 @@
 11-6	1668-1687	ChiCTR-OPC-14005339	_
 11-7	1688-1689	.	_
 
+Text=2.
 12-1	1690-1691	2	_
 12-2	1692-1693	.	_
 
+Text=Material and Methods 2.1.
 13-1	1694-1702	Material	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-2	1703-1706	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-3	1707-1714	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-4	1715-1718	2.1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-5	1719-1720	.	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 
+Text=Subjects The participants in this study are the same with our previous study including fifty-six schizophrenic subjects (male: 10; female: 26) and nineteen healthy controls (HC) (male: 7; female: 12).
 14-1	1721-1729	Subjects	_
 14-2	1730-1733	The	_
 14-3	1734-1746	participants	_
@@ -329,6 +343,7 @@
 14-42	1931-1932	)	_
 14-43	1933-1934	.	_
 
+Text=All subjects were recruited from the clinical hospital of the Chengdu Brain Science Institute (CBSI).
 15-1	1935-1938	All	_
 15-2	1939-1947	subjects	_
 15-3	1948-1952	were	_
@@ -348,6 +363,7 @@
 15-17	2036-2037	)	_
 15-18	2038-2039	.	_
 
+Text=The detail fundamental information of schizophrenic subjects and HC could be referred to our previous article.
 16-1	2040-2043	The	_
 16-2	2044-2050	detail	_
 16-3	2051-2062	fundamental	_
@@ -366,9 +382,11 @@
 16-16	2142-2149	article	_
 16-17	2150-2151	.	_
 
+Text=2.2.
 17-1	2152-2155	2.2	_
 17-2	2156-2157	.	_
 
+Text=Design To measure the effect of music intervention on schizophrenic subjects, a quasirandomized controlled trial was conducted in this study.
 18-1	2158-2164	Design	_
 18-2	2165-2167	To	_
 18-3	2168-2175	measure	_
@@ -392,6 +410,7 @@
 18-21	2294-2299	study	_
 18-22	2300-2301	.	_
 
+Text=Twenty-two patients with schizophrenia, who were randomly selected from patients, received group music intervention (MTSZ: music intervention patients with schizophrenia).
 19-1	2302-2312	Twenty-two	_
 19-2	2313-2321	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 19-3	2322-2326	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -419,6 +438,7 @@
 19-25	2476-2477	)	_
 19-26	2478-2479	.	_
 
+Text=Controlled patients (UMTSZ: non-music intervention patients with schizophrenia, remaining twenty-three patients) received standard care only.
 20-1	2480-2490	Controlled	http://maven.renci.org/NeuroBridge/neurobridge#Unmedicated
 20-2	2491-2499	patients	http://maven.renci.org/NeuroBridge/neurobridge#Unmedicated
 20-3	2500-2501	(	_
@@ -440,6 +460,7 @@
 20-19	2620-2624	only	_
 20-20	2625-2626	.	_
 
+Text=Three time point tests were included: a baseline test, a 1-month follow-up, and a 6-month follow-up.
 21-1	2627-2632	Three	_
 21-2	2633-2637	time	_
 21-3	2638-2643	point	_
@@ -461,6 +482,7 @@
 21-19	2720-2729	follow-up	_
 21-20	2730-2731	.	_
 
+Text=The blinded assessments and assignment were performed in schizophrenic subjects.
 22-1	2732-2735	The	_
 22-2	2736-2743	blinded	_
 22-3	2744-2755	assessments	_
@@ -473,6 +495,7 @@
 22-10	2803-2811	subjects	_
 22-11	2812-2813	.	_
 
+Text=The design of music intervention in this study was the same with our previous work.
 23-1	2814-2817	The	_
 23-2	2818-2824	design	_
 23-3	2825-2827	of	_
@@ -490,6 +513,7 @@
 23-15	2892-2896	work	_
 23-16	2897-2898	.	_
 
+Text=The detailed information could be referred from the previous article.
 24-1	2899-2902	The	_
 24-2	2903-2911	detailed	_
 24-3	2912-2923	information	_
@@ -502,9 +526,11 @@
 24-10	2960-2967	article	_
 24-11	2968-2969	.	_
 
+Text=2.3.
 25-1	2970-2973	2.3	_
 25-2	2974-2975	.	_
 
+Text=Content of Music Intervention One professional music therapist participated in this study.
 26-1	2976-2983	Content	_
 26-2	2984-2986	of	_
 26-3	2987-2992	Music	_
@@ -519,6 +545,7 @@
 26-12	3060-3065	study	_
 26-13	3066-3067	.	_
 
+Text=Mozart's sonata K.448 music listening was performed in the MTSZ group (30 minutes per day, 30 days).
 27-1	3068-3074	Mozart	_
 27-2	3075-3077	's	_
 27-3	3078-3084	sonata	_
@@ -542,6 +569,7 @@
 27-21	3170-3171	)	_
 27-22	3172-3173	.	_
 
+Text=MTSZ patients peacefully listened to the music in a quiet room during each session.
 28-1	3174-3178	MTSZ	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 28-2	3179-3187	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 28-3	3188-3198	peacefully	_
@@ -558,6 +586,7 @@
 28-14	3249-3256	session	_
 28-15	3257-3258	.	_
 
+Text=The music therapist introduced the background of the music to schizophrenic patients at the beginning.
 29-1	3259-3262	The	_
 29-2	3263-3268	music	_
 29-3	3269-3278	therapist	_
@@ -575,6 +604,7 @@
 29-15	3351-3360	beginning	_
 29-16	3361-3362	.	_
 
+Text=The UMTSZ was treated solely with antipsychotic drugs.
 30-1	3363-3366	The	_
 30-2	3367-3372	UMTSZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 30-3	3373-3376	was	_
@@ -585,6 +615,7 @@
 30-8	3411-3416	drugs	_
 30-9	3417-3418	.	_
 
+Text=The content of the music intervention was also the same with our previous study.
 31-1	3419-3422	The	_
 31-2	3423-3430	content	_
 31-3	3431-3433	of	_
@@ -601,6 +632,7 @@
 31-14	3493-3498	study	_
 31-15	3499-3500	.	_
 
+Text=The detailed information could be referred from the previous article.
 32-1	3501-3504	The	_
 32-2	3505-3513	detailed	_
 32-3	3514-3525	information	_
@@ -613,9 +645,11 @@
 32-10	3562-3569	article	_
 32-11	3570-3571	.	_
 
+Text=2.4.
 33-1	3572-3575	2.4	_
 33-2	3576-3577	.	_
 
+Text=Psychiatric and Neuropsychological Assessment Three evaluators of the neuropsychological assessments and one psychiatrist assessed the patients with schizophrenia.
 34-1	3578-3589	Psychiatric	_
 34-2	3590-3593	and	http://maven.renci.org/NeuroBridge/neurobridge#CambridgeNeuropsychologicalTestAutomatedBattery
 34-3	3594-3612	Neuropsychological	http://maven.renci.org/NeuroBridge/neurobridge#CambridgeNeuropsychologicalTestAutomatedBattery
@@ -636,6 +670,7 @@
 34-18	3727-3740	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 34-19	3741-3742	.	_
 
+Text=The psychiatric symptoms of the schizophrenic patients were assessed by a psychiatrist using the Positive and Negative Symptom Scale (PANSS).
 35-1	3743-3746	The	_
 35-2	3747-3758	psychiatric	_
 35-3	3759-3767	symptoms	_
@@ -660,6 +695,7 @@
 35-22	3884-3885	)	http://maven.renci.org/NeuroBridge/neurobridge#NegativeSymptomScale
 35-23	3886-3887	.	_
 
+Text=In the neuropsychological assessment (Block Design Test (BDT), BVRT, and Spatial Maze Test), the evaluators were trained to achieve a high interrater reliability before the start of the study.
 36-1	3888-3890	In	_
 36-2	3891-3894	the	_
 36-3	3895-3913	neuropsychological	_
@@ -698,6 +734,7 @@
 36-36	4081-4086	study	_
 36-37	4087-4088	.	_
 
+Text=Detailed information can be found in Section 1 of the Supplemental Information).
 37-1	4089-4097	Detailed	_
 37-2	4098-4109	information	_
 37-3	4110-4113	can	_
@@ -713,9 +750,11 @@
 37-13	4168-4169	)	_
 37-14	4170-4171	.	_
 
+Text=2.5.
 38-1	4172-4175	2.5	_
 38-2	4176-4177	.	_
 
+Text=Data Acquisition Experiments were performed on a 3 T MRI scanner (GE Discovery MR750).
 39-1	4178-4182	Data	_
 39-2	4183-4194	Acquisition	_
 39-3	4195-4206	Experiments	_
@@ -734,6 +773,7 @@
 39-16	4264-4265	)	_
 39-17	4266-4267	.	_
 
+Text=A detailed description of the data collection can be found in Section 2 of the Supplemental Information.
 40-1	4268-4269	A	_
 40-2	4270-4278	detailed	_
 40-3	4279-4290	description	_
@@ -753,6 +793,7 @@
 40-17	4360-4371	Information	_
 40-18	4372-4373	.	_
 
+Text=Functional image preprocessing was performed using SPM8 (Statistical Parametric Mapping, http: //www.fil.ion.ucl.ac.uk/spm/) according to a standard pipeline.
 41-1	4374-4384	Functional	_
 41-2	4385-4390	image	_
 41-3	4391-4404	preprocessing	_
@@ -776,6 +817,7 @@
 41-21	4527-4535	pipeline	_
 41-22	4536-4537	.	_
 
+Text=Slice timing correction and head motion correction were carried out.
 42-1	4538-4543	Slice	_
 42-2	4544-4550	timing	_
 42-3	4551-4561	correction	_
@@ -788,6 +830,7 @@
 42-10	4602-4605	out	_
 42-11	4606-4607	.	_
 
+Text=Then, the functional scans were normalized to the Montreal Neurological Institute (MNI) EPI template and resampled to 3 × 3 × 3 mm3 voxels.
 43-1	4608-4612	Then	_
 43-2	4613-4614	,	_
 43-3	4615-4618	the	_
@@ -817,6 +860,7 @@
 43-27	4743-4749	voxels	_
 43-28	4750-4751	.	_
 
+Text=The general processing procedures of spatial smoothing (Gaussian kernel of a full width at half maximum (FWHM) of 6 mm) was not included for the FCS analysis but was included for the FC analysis.
 44-1	4752-4755	The	_
 44-2	4756-4763	general	_
 44-3	4764-4774	processing	_
@@ -857,6 +901,7 @@
 44-38	4942-4950	analysis	_
 44-39	4951-4952	.	_
 
+Text=Then, nuisance signals were then removed from the data through linear regression (white matter (WM), cerebrospinal fluid (CSF), and six motion parameters), except the global signal due to recent excellent studies.
 45-1	4953-4957	Then	_
 45-2	4958-4959	,	_
 45-3	4960-4968	nuisance	_
@@ -900,6 +945,7 @@
 45-41	5168-5175	studies	_
 45-42	5176-5177	.	_
 
+Text=Finally, fMRI data were temporally filtered in band-pass 0.01–0.08 Hz.
 46-1	5178-5185	Finally	_
 46-2	5186-5187	,	_
 46-3	5188-5192	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -913,6 +959,7 @@
 46-11	5246-5248	Hz	_
 46-12	5249-5250	.	_
 
+Text=Recent studies demonstrated that head motion had a substantial impact on FC.
 47-1	5251-5257	Recent	_
 47-2	5258-5265	studies	_
 47-3	5266-5278	demonstrated	_
@@ -927,6 +974,7 @@
 47-12	5324-5326	FC	_
 47-13	5327-5328	.	_
 
+Text=Thus, any subjects who had a maximum translation in any of the cardinal directions larger than 2.0 mm or a maximum rotation larger than 2.0 degrees were excluded.
 48-1	5329-5333	Thus	_
 48-2	5334-5335	,	_
 48-3	5336-5339	any	_
@@ -958,6 +1006,7 @@
 48-29	5483-5491	excluded	_
 48-30	5492-5493	.	_
 
+Text=Besides, we also assessed framewise displacement (FD) in three groups as suggested by Power et al.
 49-1	5494-5501	Besides	_
 49-2	5502-5503	,	_
 49-3	5504-5506	we	_
@@ -979,6 +1028,7 @@
 49-19	5592-5594	al	_
 49-20	5595-5596	.	_
 
+Text=using the following formula: where M is the length of the time courses (M = 250 in this study); x i, y i, and z i are translations/rotations at the ith time point in the x, y, and z directions, respectively; Δt represents the framewise displacement translation; and Δd represents the framewise displacement rotation.
 50-1	5597-5602	using	_
 50-2	5603-5606	the	_
 50-3	5607-5616	following	_
@@ -1046,6 +1096,7 @@
 50-65	5915-5923	rotation	_
 50-66	5924-5925	.	_
 
+Text=Δd xi = x i − x i−1 and similar for d yiandd zi.
 51-1	5926-5928	Δd	_
 51-2	5929-5931	xi	_
 51-3	5932-5933	=	_
@@ -1062,6 +1113,7 @@
 51-14	5971-5973	zi	_
 51-15	5974-5975	.	_
 
+Text=Structural images were processed using SPM8 toolbox.
 52-1	5976-5986	Structural	_
 52-2	5987-5993	images	_
 52-3	5994-5998	were	_
@@ -1071,6 +1123,7 @@
 52-7	6020-6027	toolbox	_
 52-8	6028-6029	.	_
 
+Text=Spatial normalization to MNI-space was performed using a diffeomorphic anatomical registration through exponentiated lie algebra and segmented into gray matter (GM), WM, and CSF.
 53-1	6030-6037	Spatial	_
 53-2	6038-6051	normalization	_
 53-3	6052-6054	to	_
@@ -1101,6 +1154,7 @@
 53-28	6208-6211	CSF	_
 53-29	6212-6213	.	_
 
+Text=The segmented GM and WM were modulated using nonlinear deformation.
 54-1	6214-6217	The	_
 54-2	6218-6227	segmented	_
 54-3	6228-6230	GM	_
@@ -1113,6 +1167,7 @@
 54-10	6269-6280	deformation	_
 54-11	6281-6282	.	_
 
+Text=Total Intracranial Volume (TIV) and GM volume and were calculated.
 55-1	6283-6288	Total	_
 55-2	6289-6301	Intracranial	_
 55-3	6302-6308	Volume	_
@@ -1127,6 +1182,7 @@
 55-12	6340-6350	calculated	_
 55-13	6351-6352	.	_
 
+Text=Then, the normalization analysis was performed: the GM volume was divided by the TIV score.
 56-1	6353-6357	Then	_
 56-2	6358-6359	,	_
 56-3	6360-6363	the	_
@@ -1146,6 +1202,7 @@
 56-17	6440-6445	score	_
 56-18	6446-6447	.	_
 
+Text=The schizophrenic patients' and HC's normalized GM at baseline were entered as a global variable to correct for the global GM volume of different subjects in the statistical analysis.
 57-1	6448-6451	The	_
 57-2	6452-6465	schizophrenic	_
 57-3	6466-6474	patients	_
@@ -1179,9 +1236,11 @@
 57-31	6624-6632	analysis	_
 57-32	6633-6634	.	_
 
+Text=2.6.
 58-1	6635-6638	2.6	_
 58-2	6639-6640	.	_
 
+Text=Functional Connectivity Strength Analysis Whole-brain FC analysis was performed as follows.
 59-1	6641-6651	Functional	_
 59-2	6652-6664	Connectivity	_
 59-3	6665-6673	Strength	_
@@ -1195,6 +1254,7 @@
 59-11	6724-6731	follows	_
 59-12	6732-6733	.	_
 
+Text=First, to exclude artefactual correlations from non-gray matter, the GM mask was generated by thresholding (cutoff = 0.2) the average of GM probability map involving all subjects.
 60-1	6734-6739	First	_
 60-2	6740-6741	,	_
 60-3	6742-6744	to	_
@@ -1228,6 +1288,7 @@
 60-31	6908-6916	subjects	_
 60-32	6917-6918	.	_
 
+Text=The time series from each voxel within the GM mask was extracted, and Pearson's correlations between any pair of voxels were calculated for each subject.
 61-1	6919-6922	The	_
 61-2	6923-6927	time	_
 61-3	6928-6934	series	_
@@ -1257,6 +1318,7 @@
 61-27	7066-7073	subject	_
 61-28	7074-7075	.	_
 
+Text=To improve normality, we then transformed individual correlation matrices to a z-score matrix using a Fisher r-to-z transformation.
 62-1	7076-7078	To	_
 62-2	7079-7086	improve	_
 62-3	7087-7096	normality	_
@@ -1278,6 +1340,7 @@
 62-19	7193-7207	transformation	_
 62-20	7208-7209	.	_
 
+Text=Then, for a given voxel (node), nodal FCS was computed as the sum of weights of its connections with other voxels.
 63-1	7210-7214	Then	_
 63-2	7215-7216	,	_
 63-3	7217-7220	for	_
@@ -1305,6 +1368,7 @@
 63-25	7321-7327	voxels	_
 63-26	7328-7329	.	_
 
+Text=We conservatively restricted our analysis to positive correlations above the threshold of r = 0.2, which was chosen to eliminate the voxels with weak correlations attributable to signal noise.
 64-1	7330-7332	We	_
 64-2	7333-7347	conservatively	_
 64-3	7348-7358	restricted	_
@@ -1337,6 +1401,7 @@
 64-30	7517-7522	noise	_
 64-31	7523-7524	.	_
 
+Text=Before group-level statistical analysis, an individual voxel-wise FCS map was standardized to z-scores and further spatially smoothed (FWHM = 6 mm).
 65-1	7525-7531	Before	_
 65-2	7532-7543	group-level	_
 65-3	7544-7555	statistical	_
@@ -1363,9 +1428,11 @@
 65-24	7674-7675	)	_
 65-25	7676-7677	.	_
 
+Text=2.7.
 66-1	7678-7681	2.7	_
 66-2	7682-7683	.	_
 
+Text=Functional Connectivity Analysis We examined FC by taking the brain region that had showed different FCS (pursuant to the FCS statistical test) as the seed.
 67-1	7684-7694	Functional	_
 67-2	7695-7707	Connectivity	_
 67-3	7708-7716	Analysis	_
@@ -1395,6 +1462,7 @@
 67-27	7837-7841	seed	_
 67-28	7842-7843	.	_
 
+Text=FC analysis was performed between the seed and all voxels in the brain.
 68-1	7844-7846	FC	_
 68-2	7847-7855	analysis	_
 68-3	7856-7859	was	_
@@ -1410,6 +1478,7 @@
 68-13	7909-7914	brain	_
 68-14	7915-7916	.	_
 
+Text=To improve normality, we then transformed individual correlation matrices to a z-score matrix using a Fisher r-to-z transformation.
 69-1	7917-7919	To	_
 69-2	7920-7927	improve	_
 69-3	7928-7937	normality	_
@@ -1431,6 +1500,7 @@
 69-19	8034-8048	transformation	_
 69-20	8049-8050	.	_
 
+Text=In this manner, FC maps of these seeds were produced for each subject.
 70-1	8051-8053	In	_
 70-2	8054-8058	this	_
 70-3	8059-8065	manner	_
@@ -1447,14 +1517,17 @@
 70-14	8114-8121	subject	_
 70-15	8122-8123	.	_
 
+Text=2.8.
 71-1	8124-8127	2.8	_
 71-2	8128-8129	.	_
 
+Text=Statistical Analysis 2.8.1.
 72-1	8130-8141	Statistical	_
 72-2	8142-8150	Analysis	_
 72-3	8151-8156	2.8.1	_
 72-4	8157-8158	.	_
 
+Text=Participant Fundamental Information Statistics Age, years of education, and FD among the three groups were compared using one-way ANOVA.
 73-1	8159-8170	Participant	_
 73-2	8171-8182	Fundamental	_
 73-3	8183-8194	Information	_
@@ -1478,6 +1551,7 @@
 73-21	8291-8296	ANOVA	_
 73-22	8297-8298	.	_
 
+Text=Chi-square test was used to compare gender distributions.
 74-1	8299-8309	Chi-square	_
 74-2	8310-8314	test	_
 74-3	8315-8318	was	_
@@ -1488,6 +1562,7 @@
 74-8	8342-8355	distributions	_
 74-9	8356-8357	.	_
 
+Text=A two-sample t-test was used to compare the psychiatric symptoms (illness duration, medication dosage in chlorpromazine (CPZ) equivalents (mg), and PANSS scores) between two groups of patients at baseline.
 75-1	8358-8359	A	_
 75-2	8360-8370	two-sample	_
 75-3	8371-8377	t-test	_
@@ -1527,6 +1602,7 @@
 75-37	8562-8570	baseline	_
 75-38	8571-8572	.	_
 
+Text=Repeated measure ANOVA were performed to determine the music intervention∗time interaction, main effects of music intervention and time on neuropsychological measurements, and PANSS scores.
 76-1	8573-8581	Repeated	_
 76-2	8582-8589	measure	_
 76-3	8590-8595	ANOVA	_
@@ -1555,9 +1631,11 @@
 76-26	8757-8763	scores	_
 76-27	8764-8765	.	_
 
+Text=2.8.2.
 77-1	8766-8771	2.8.2	_
 77-2	8772-8773	.	_
 
+Text=Baseline Brain Connectivity Analyses between Patients and HC Firstly, we established baseline abnormalities between HCs and schizophrenic patients through two-sample t-test in FCS and seed-based FC, respectively, with age, gender, years of education, and GM as covariates.
 78-1	8774-8782	Baseline	_
 78-2	8783-8788	Brain	_
 78-3	8789-8801	Connectivity	_
@@ -1603,6 +1681,7 @@
 78-43	9041-9051	covariates	_
 78-44	9052-9053	.	_
 
+Text=The comparison, for the FCS statistical test, was constrained within the GM mask.
 79-1	9054-9057	The	_
 79-2	9058-9068	comparison	_
 79-3	9069-9070	,	_
@@ -1620,6 +1699,7 @@
 79-15	9132-9136	mask	_
 79-16	9137-9138	.	_
 
+Text=The seed-based FC statistical test was performed within the mask that resulted from the union set of the one-sample t-test of the two groups (p <0.005 with cluster-level false discovery rate corrected, p <0.05).
 80-1	9139-9142	The	_
 80-2	9143-9153	seed-based	_
 80-3	9154-9156	FC	_
@@ -1661,6 +1741,7 @@
 80-39	9353-9354	)	_
 80-40	9355-9356	.	_
 
+Text=Due to the quantity of patients being greater than the amount of HC, the HC and the same number of patients who were randomly selected from the whole sample of patients were entered into the statistical comparisons.
 81-1	9357-9360	Due	_
 81-2	9361-9363	to	_
 81-3	9364-9367	the	_
@@ -1701,6 +1782,7 @@
 81-38	9561-9572	comparisons	_
 81-39	9573-9574	.	_
 
+Text=These steps were repeatedly performed 200 times.
 82-1	9575-9580	These	_
 82-2	9581-9586	steps	_
 82-3	9587-9591	were	_
@@ -1710,6 +1792,7 @@
 82-7	9617-9622	times	_
 82-8	9623-9624	.	_
 
+Text=A total of 200 comparison results were obtained.
 83-1	9625-9626	A	_
 83-2	9627-9632	total	_
 83-3	9633-9635	of	_
@@ -1720,6 +1803,7 @@
 83-8	9664-9672	obtained	_
 83-9	9673-9674	.	_
 
+Text=Then, we calculated the probability map where the voxels exhibited significant differences (p <0.005 with cluster-level false discovery rate corrected, p <0.05) across the 200 comparisons.
 84-1	9675-9679	Then	_
 84-2	9680-9681	,	_
 84-3	9682-9684	we	_
@@ -1754,6 +1838,7 @@
 84-32	9857-9868	comparisons	_
 84-33	9869-9870	.	_
 
+Text=Furthermore, we also established the difference between MTSZ and UMTSZ at baseline through a two-sample t-test in FCS and seed-based FC, respectively, with gender, years of education, GM, and age as covariates.
 85-1	9871-9882	Furthermore	_
 85-2	9883-9884	,	_
 85-3	9885-9887	we	_
@@ -1794,6 +1879,7 @@
 85-38	10076-10086	covariates	_
 85-39	10087-10088	.	_
 
+Text=The significance threshold of the group difference was set to p <0.05.
 86-1	10089-10092	The	_
 86-2	10093-10105	significance	_
 86-3	10106-10115	threshold	_
@@ -1809,9 +1895,11 @@
 86-13	10155-10159	0.05	_
 86-14	10160-10161	.	_
 
+Text=2.8.3.
 87-1	10162-10167	2.8.3	_
 87-2	10168-10169	.	_
 
+Text=Longitudinal Analysis of Functional Connectivity in Patients After tests of normality, homogeneity of variance, and Mauchly's test of sphericity, the repeated-measure ANOVA and post hoc analyses were performed on the schizophrenic subjects from baseline and 1-month follow-up to determine the music intervention∗time interaction, main effects of music intervention, and time on FCS and seed-based FC, respectively.
 88-1	10170-10182	Longitudinal	_
 88-2	10183-10191	Analysis	_
 88-3	10192-10194	of	_
@@ -1877,6 +1965,7 @@
 88-63	10578-10590	respectively	_
 88-64	10591-10592	.	_
 
+Text=The age, gender, illness duration, education characteristics, GM, and the medication dosage were used as covariates.
 89-1	10593-10596	The	_
 89-2	10597-10600	age	_
 89-3	10601-10602	,	_
@@ -1900,6 +1989,7 @@
 89-21	10703-10713	covariates	_
 89-22	10714-10715	.	_
 
+Text=The significance threshold for ANOVA was set to p <0.005 with cluster-level false discovery rate corrected (p <0.05).
 90-1	10716-10719	The	_
 90-2	10720-10732	significance	_
 90-3	10733-10742	threshold	_
@@ -1924,6 +2014,7 @@
 90-22	10835-10836	)	_
 90-23	10837-10838	.	_
 
+Text=For the region with difference resulted from repeated-measure ANOVA, a further two-sample t-test was performed between HC and patients (MTSZ and UMTSZ from 1-month follow-up) to assess the effect of the 1-month music intervention on patients relative to HC.
 91-1	10839-10842	For	_
 91-2	10843-10846	the	_
 91-3	10847-10853	region	_
@@ -1968,6 +2059,7 @@
 91-42	11096-11098	HC	_
 91-43	11099-11100	.	_
 
+Text=At last, the data with the 6-month follow-up was used to evaluate the long-term effect of music intervention through the comparison to data from the 1-month follow-up in schizophrenic subjects.
 92-1	11101-11103	At	_
 92-2	11104-11108	last	_
 92-3	11109-11110	,	_
@@ -2001,9 +2093,11 @@
 92-31	11286-11294	subjects	_
 92-32	11295-11296	.	_
 
+Text=2.9.
 93-1	11297-11300	2.9	_
 93-2	11301-11302	.	_
 
+Text=The Relationship between FC and Patients' Variables To investigate the underlying relationship between the changes of functional measurements (i.e., FCS and seed-based FC) and the changes of neuropsychological measurements, as well as PANSS in the MTSZ and UMTSZ groups, we used partial correlation analysis in this study.
 94-1	11303-11306	The	_
 94-2	11307-11319	Relationship	_
 94-3	11320-11327	between	_
@@ -2059,6 +2153,7 @@
 94-53	11625-11630	study	_
 94-54	11631-11632	.	_
 
+Text=We extracted the mean z-score of the region that showed significant difference of FCS and FC.
 95-1	11633-11635	We	_
 95-2	11636-11645	extracted	_
 95-3	11646-11649	the	_
@@ -2077,6 +2172,7 @@
 95-16	11723-11725	FC	_
 95-17	11726-11727	.	_
 
+Text=Then, the partial correlations between the mean changes (1-month later minus baseline) and the percentage change scores (1 − [score at 1-month/score at baseline]) of neuropsychological measurements were performed, as well as the percentage change scores of PANSS, with age, gender, illness duration, education characteristics, GM, and medication dosage as covariates.
 96-1	11728-11732	Then	_
 96-2	11733-11734	,	_
 96-3	11735-11738	the	_
@@ -2144,6 +2240,7 @@
 96-65	12098-12108	covariates	_
 96-66	12109-12110	.	_
 
+Text=The partial correlation analysis was also performed between the mean changes (6 months later minus baseline) and the percentage change scores (1 − [score at 6 months/score at baseline]) of neuropsychological and PANSS scores.
 97-1	12111-12114	The	_
 97-2	12115-12122	partial	_
 97-3	12123-12134	correlation	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Altered resting state functional connectivity in early course schizophrenia Impaired connectivity is proposed to underlie pathophysiology of schizophrenia.
 1-1	0-7	Altered	_
 1-2	8-15	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 1-3	16-21	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -22,6 +23,7 @@
 1-18	141-154	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 1-19	155-156	.	_
 
+Text=Existing studies on functional connectivity show inconsistent results.
 2-1	157-165	Existing	_
 2-2	166-173	studies	_
 2-3	174-176	on	_
@@ -32,6 +34,7 @@
 2-8	219-226	results	_
 2-9	227-228	.	_
 
+Text=We examined functional connectivity in a clinically homogenous sample of 34 early course schizophrenia patients compared with/to 19 healthy controls using resting state functional magnetic resonance imaging (rsfMRI).
 3-1	229-231	We	_
 3-2	232-240	examined	_
 3-3	241-251	functional	_
@@ -64,6 +67,7 @@
 3-30	445-446	)	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 3-31	447-448	.	_
 
+Text=Mean duration of illness for schizophrenia patients was 4 ± 1.78 years.
 4-1	449-453	Mean	_
 4-2	454-462	duration	_
 4-3	463-465	of	_
@@ -78,6 +82,7 @@
 4-12	514-519	years	_
 4-13	520-521	.	_
 
+Text=Following a comprehensive clinical assessment, rsfMRI data were acquired using a 3.0 T magnetic resonance imaging scanner, and analyzed using FSL version 5.01 software (FMRIB ’ s Software Library, www.fmrib.ox.ac.uk/fsl).
 5-1	522-531	Following	_
 5-2	532-533	a	_
 5-3	534-547	comprehensive	_
@@ -115,6 +120,7 @@
 5-35	746-747	)	_
 5-36	748-749	.	_
 
+Text=Compared to healthy controls, schizophrenia patients had significantly decreased functional connectivity in the left fronto-parietal network, lateral and medial visual network, motor network, default mode network and auditory network.
 6-1	750-758	Compared	_
 6-2	759-761	to	_
 6-3	762-769	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -150,6 +156,7 @@
 6-33	980-987	network	_
 6-34	988-989	.	_
 
+Text=Our data suggests significant functional hypoconnectivity in selected brain networks in early schizophrenia patients compared to controls.
 7-1	990-993	Our	_
 7-2	994-998	data	_
 7-3	999-1007	suggests	_
@@ -169,6 +176,7 @@
 7-17	1119-1127	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 7-18	1128-1129	.	_
 
+Text=It is likely that the observed functional hypoconnectivity may be associated with features of schizophrenia other than those examined in this study.
 8-1	1130-1132	It	_
 8-2	1133-1135	is	_
 8-3	1136-1142	likely	_
@@ -193,6 +201,7 @@
 8-22	1272-1277	study	_
 8-23	1278-1279	.	_
 
+Text=It is possible that hypoconnectivity is necessary but not sufficient to the clinical manifestation of schizophrenia.
 9-1	1280-1282	It	_
 9-2	1283-1285	is	_
 9-3	1286-1294	possible	_
@@ -211,6 +220,7 @@
 9-16	1382-1395	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-17	1396-1397	.	_
 
+Text=The examination of functional connectivity as a biomarker should be extended to a wider array of disease phenotypes to better understand its significance.
 10-1	1398-1401	The	_
 10-2	1402-1413	examination	_
 10-3	1414-1416	of	_
@@ -236,13 +246,16 @@
 10-23	1539-1551	significance	_
 10-24	1552-1553	.	_
 
+Text=2.
 11-1	1554-1555	2	_
 11-2	1556-1557	.	_
 
+Text=Methods 2.1.
 12-1	1558-1565	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	1566-1569	2.1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	1570-1571	.	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 
+Text=Clinical assessments Persons with early course schizophrenia seeking treatment at the Department of Psychiatry, Dr. Ram Manohar Lohia Hospital, New Delhi, India were enrolled through their treating clinicians.
 13-1	1572-1580	Clinical	_
 13-2	1581-1592	assessments	_
 13-3	1593-1600	Persons	_
@@ -276,6 +289,7 @@
 13-31	1773-1783	clinicians	_
 13-32	1784-1785	.	_
 
+Text=Eligible subjects with early course schizophrenia of both sexes between 18 and 50 years, and controls were explained about all study procedures and written informed consent was obtained.
 14-1	1786-1794	Eligible	_
 14-2	1795-1803	subjects	_
 14-3	1804-1808	with	_
@@ -307,6 +321,7 @@
 14-29	1964-1972	obtained	_
 14-30	1973-1974	.	_
 
+Text=Controls were selected to match age and sex (highlighted in results).
 15-1	1975-1983	Controls	_
 15-2	1984-1988	were	_
 15-3	1989-1997	selected	_
@@ -322,6 +337,7 @@
 15-13	2044-2045	)	_
 15-14	2046-2047	.	_
 
+Text=The diagnosis was confirmed by administering a structured interview using the Hindi version of the Diagnostic Interview for Genetic Studies (DIGS), which has been validated previously.
 16-1	2048-2051	The	_
 16-2	2052-2061	diagnosis	_
 16-3	2062-2065	was	_
@@ -353,6 +369,7 @@
 16-29	2224-2234	previously	_
 16-30	2235-2236	.	_
 
+Text=The DIGS includes the Global Assessment Scale (GAS), the Schedule for Assessment of Positive Symptoms (SAPS), and the Schedule for Assessment of Negative Symptoms (SANS).
 17-1	2237-2240	The	_
 17-2	2241-2245	DIGS	_
 17-3	2246-2254	includes	_
@@ -388,6 +405,7 @@
 17-33	2413-2414	)	http://maven.renci.org/NeuroBridge/neurobridge#NegativeSymptomScale
 17-34	2415-2416	.	_
 
+Text=The SANS and SAPS assess the severity of negative and positive symptoms on a six-point scale in the previous month.
 18-1	2417-2420	The	_
 18-2	2421-2425	SANS	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofNegativeSymptoms
 18-3	2426-2429	and	_
@@ -410,6 +428,7 @@
 18-20	2526-2531	month	_
 18-21	2532-2533	.	_
 
+Text=Inter-rater reliability of scoring was 0.83–0.92.
 19-1	2534-2545	Inter-rater	_
 19-2	2546-2557	reliability	_
 19-3	2558-2560	of	_
@@ -418,6 +437,7 @@
 19-6	2573-2582	0.83–0.92	_
 19-7	2583-2584	.	_
 
+Text=In addition to structured patient interview, collateral information was obtained through caregivers.
 20-1	2585-2587	In	_
 20-2	2588-2596	addition	_
 20-3	2597-2599	to	_
@@ -433,6 +453,7 @@
 20-13	2675-2685	caregivers	_
 20-14	2686-2687	.	_
 
+Text=We defined early course schizophrenia as the illness duration of 7 years or less from the onset of first psychotic symptoms.
 21-1	2688-2690	We	_
 21-2	2691-2698	defined	_
 21-3	2699-2704	early	_
@@ -456,6 +477,7 @@
 21-21	2803-2811	symptoms	_
 21-22	2812-2813	.	_
 
+Text=The Positive and Negative Syndrome Scale (PANSS) was administered to rate the presence and severity of psychotic symptoms.
 22-1	2814-2817	The	_
 22-2	2818-2826	Positive	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 22-3	2827-2830	and	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
@@ -478,6 +500,7 @@
 22-20	2929-2937	symptoms	_
 22-21	2938-2939	.	_
 
+Text=Participants were required to have a score of 4 or more on one or more items of the PANSS, and be on a stable dose of antipsychotics for at least 1 month prior to experimental procedures.
 23-1	2940-2952	Participants	_
 23-2	2953-2957	were	_
 23-3	2958-2966	required	_
@@ -517,6 +540,7 @@
 23-37	3117-3127	procedures	_
 23-38	3128-3129	.	_
 
+Text=For the control group, comparable participants not suffering from any psychiatric illness were enrolled from similar neighborhoods.
 24-1	3130-3133	For	_
 24-2	3134-3137	the	_
 24-3	3138-3145	control	_
@@ -537,6 +561,7 @@
 24-18	3248-3261	neighborhoods	_
 24-19	3262-3263	.	_
 
+Text=Participants with a history of substance dependence in the past 6 months, excluding nicotine dependence, those with a history of or current medical/neurological illnesses, e.g.
 25-1	3264-3276	Participants	_
 25-2	3277-3281	with	_
 25-3	3282-3283	a	_
@@ -567,11 +592,13 @@
 25-28	3439-3442	e.g	_
 25-29	3443-3444	.	_
 
+Text=epilepsy were excluded.
 26-1	3445-3453	epilepsy	_
 26-2	3454-3458	were	_
 26-3	3459-3467	excluded	_
 26-4	3468-3469	.	_
 
+Text=Pregnancy, mental retardation (DSM-IV) or any contraindication to MRI procedures, such as having pacemakers or metal fragments/shrapnel were the other exclusion criteria.
 27-1	3470-3479	Pregnancy	_
 27-2	3480-3481	,	_
 27-3	3482-3488	mental	_
@@ -600,9 +627,11 @@
 27-26	3635-3643	criteria	_
 27-27	3644-3645	.	_
 
+Text=2.2.
 28-1	3646-3649	2.2	_
 28-2	3650-3651	.	_
 
+Text=Imaging methods Brain images were acquired using a 3 T whole-body MRI scanner (Magnetom Skyra, Siemens) while participants lay supine.
 29-1	3652-3659	Imaging	_
 29-2	3660-3667	methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 29-3	3668-3673	Brain	_
@@ -628,6 +657,7 @@
 29-23	3782-3788	supine	_
 29-24	3789-3790	.	_
 
+Text=Foam pads on either side of the head were used to minimize head movement.
 30-1	3791-3795	Foam	_
 30-2	3796-3800	pads	_
 30-3	3801-3803	on	_
@@ -644,6 +674,7 @@
 30-14	3855-3863	movement	_
 30-15	3864-3865	.	_
 
+Text=Participants were instructed not to move, and to lie quietly awake, with closed eyes and not engaged in any specific cognitive activity during the experiment.
 31-1	3866-3878	Participants	_
 31-2	3879-3883	were	_
 31-3	3884-3894	instructed	_
@@ -673,6 +704,7 @@
 31-27	4015-4025	experiment	_
 31-28	4026-4027	.	_
 
+Text=We collected high-resolution T1-weighted images using a magnetization prepared rapid acquisition gradient-echo (MPRAGE) sequence (TR = 1900 ms; TE = 2.07 ms; inversion time = 900 ms; flip angle (FA) = 9°; FOV = 256 × 256 mm; slice thickness = 1 mm; number of slices = 160).
 32-1	4028-4030	We	_
 32-2	4031-4040	collected	_
 32-3	4041-4056	high-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
@@ -735,6 +767,7 @@
 32-60	4311-4312	)	_
 32-61	4313-4314	.	_
 
+Text=We acquired T2-weighted images [repetition time (TR) = 10,000 ms; TE = 100 ms; FA = 150°] using a dual-echo turbo spin-echo sequence in the axial plane, with a 256 × 256 matrix size, 220×220 mm field of view (FOV), 4.0 mm slice thickness, and 1.2 mm interslice gap to aid in anatomical identification and evaluation for any anatomical defects.
 33-1	4315-4317	We	_
 33-2	4318-4326	acquired	_
 33-3	4327-4338	T2-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T2WeightedImaging
@@ -809,6 +842,7 @@
 33-72	4662-4669	defects	_
 33-73	4670-4671	.	_
 
+Text=We also collected functional brain volumes using an echo-planar T2 * -weighted imaging sequence.
 34-1	4672-4674	We	_
 34-2	4675-4679	also	_
 34-3	4680-4689	collected	_
@@ -825,6 +859,7 @@
 34-14	4759-4767	sequence	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 34-15	4768-4769	.	_
 
+Text=Each volume consisted of 30 interleaved 5-mm thick slices without interslice gap (TE = 30 ms, TR = 2000 ms, FOV = 240 mm, flip angle = 90°, voxel size = 3.75 × 3.75 × 5 mm3).
 35-1	4770-4774	Each	_
 35-2	4775-4781	volume	_
 35-3	4782-4791	consisted	_
@@ -870,6 +905,7 @@
 35-43	4948-4949	)	_
 35-44	4950-4951	.	_
 
+Text=Total scanning time for fMRI was 6.83 min (205 brain volumes).
 36-1	4952-4957	Total	_
 36-2	4958-4966	scanning	_
 36-3	4967-4971	time	_
@@ -885,6 +921,7 @@
 36-13	5014-5015	)	_
 36-14	5016-5017	.	_
 
+Text=Images were re-checked for quality at the end of every scan, and if any head movement was noticeable, the scan was repeated.
 37-1	5018-5024	Images	_
 37-2	5025-5029	were	_
 37-3	5030-5040	re-checked	_
@@ -911,9 +948,11 @@
 37-24	5135-5143	repeated	_
 37-25	5144-5145	.	_
 
+Text=2.3.
 38-1	5146-5149	2.3	_
 38-2	5150-5151	.	_
 
+Text=Plan of analysis We used the Statistical Package for Social Sciences (SPSS v21) for assessment of demographic and clinical data.
 39-1	5152-5156	Plan	_
 39-2	5157-5159	of	_
 39-3	5160-5168	analysis	_
@@ -938,6 +977,7 @@
 39-22	5277-5281	data	_
 39-23	5282-5283	.	_
 
+Text=The numerical demographic data and characteristics of schizophrenia and control subjects were compared with independent samples t-tests, and categorical characteristics were compared using the Chi-square test.
 40-1	5284-5287	The	_
 40-2	5288-5297	numerical	_
 40-3	5298-5309	demographic	_
@@ -967,6 +1007,7 @@
 40-27	5489-5493	test	_
 40-28	5494-5495	.	_
 
+Text=Statistical threshold values of p <0.05 were considered a significant difference.
 41-1	5496-5507	Statistical	_
 41-2	5508-5517	threshold	_
 41-3	5518-5524	values	_
@@ -981,6 +1022,7 @@
 41-12	5567-5577	difference	_
 41-13	5578-5579	.	_
 
+Text=For resting state fMRI data analysis, we used FSL version 5.01 software (www.fmrib.ox.ac.uk).
 42-1	5580-5583	For	_
 42-2	5584-5591	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 42-3	5592-5597	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -999,6 +1041,7 @@
 42-16	5674-5675	)	_
 42-17	5676-5677	.	_
 
+Text=Firstly, standard preprocessing steps were followed for individual data.
 43-1	5678-5685	Firstly	_
 43-2	5686-5687	,	_
 43-3	5688-5696	standard	_
@@ -1011,6 +1054,7 @@
 43-10	5746-5750	data	_
 43-11	5751-5752	.	_
 
+Text=This step includes removal of the first 5 brain volumes, high-pass temporal filtering (100 s), motion correction, slice timing, brain-extraction and spatial smoothing (5 mm full width at half-maximum Gaussian kernel).
 44-1	5753-5757	This	_
 44-2	5758-5762	step	_
 44-3	5763-5771	includes	_
@@ -1052,6 +1096,7 @@
 44-39	5976-5977	)	_
 44-40	5978-5979	.	_
 
+Text=Each fMRI volume was registered on individual structural scans and on the Montreal Regional Institute (MNI152) template using the FMRIB Linear Image Registration Tool (FLIRT).
 45-1	5980-5984	Each	_
 45-2	5985-5989	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 45-3	5990-5996	volume	_
@@ -1083,6 +1128,7 @@
 45-29	6157-6158	)	_
 45-30	6159-6160	.	_
 
+Text=Finally, the registered fMRI sequences were temporally concatenated into a single four-dimensional dataset.
 46-1	6161-6168	Finally	_
 46-2	6169-6170	,	_
 46-3	6171-6174	the	_
@@ -1099,6 +1145,7 @@
 46-14	6261-6268	dataset	_
 46-15	6269-6270	.	_
 
+Text=The data set was decomposed into independent components, with a free estimation for the number of components.
 47-1	6271-6274	The	_
 47-2	6275-6279	data	_
 47-3	6280-6283	set	_
@@ -1119,6 +1166,7 @@
 47-18	6370-6380	components	_
 47-19	6381-6382	.	_
 
+Text=We selected components of interest by visual inspection based on previous literature and the frequency spectra of the time courses of the components.
 48-1	6383-6385	We	_
 48-2	6386-6394	selected	_
 48-3	6395-6405	components	_
@@ -1144,6 +1192,7 @@
 48-23	6521-6531	components	_
 48-24	6532-6533	.	_
 
+Text=After these preprocessing steps, dual regression analysis was performed for a voxel-wise comparison of the resting functional connectivity for between-group analysis.
 49-1	6534-6539	After	_
 49-2	6540-6545	these	_
 49-3	6546-6559	preprocessing	_
@@ -1168,6 +1217,7 @@
 49-22	6692-6700	analysis	_
 49-23	6701-6702	.	_
 
+Text=Spatial maps of the group independent component analysis (ICA) were used in general linear model to generate subject-specific versions of the spatial maps, and associated time-series, using dual regression into the subject ’ s 4D dataset.
 50-1	6703-6710	Spatial	_
 50-2	6711-6715	maps	_
 50-3	6716-6718	of	_
@@ -1210,6 +1260,7 @@
 50-40	6937-6944	dataset	_
 50-41	6945-6946	.	_
 
+Text=Thereafter, spatial maps of all subjects were collected into single 4-dimensional files for each original independent component.
 51-1	6947-6957	Thereafter	_
 51-2	6958-6959	,	_
 51-3	6960-6967	spatial	_
@@ -1230,6 +1281,7 @@
 51-18	7066-7075	component	_
 51-19	7076-7077	.	_
 
+Text=Then we performed voxel-wise group difference analyses between subjects and controls using nonparametric permutation testing with 10,000 permutations.
 52-1	7078-7082	Then	_
 52-2	7083-7085	we	_
 52-3	7086-7095	performed	_
@@ -1250,6 +1302,7 @@
 52-18	7215-7227	permutations	_
 52-19	7228-7229	.	_
 
+Text=Finally, for multiple comparisons, we conducted a family-wise error (FWE) correction with a significance threshold of p <0.05.
 53-1	7230-7237	Finally	_
 53-2	7238-7239	,	_
 53-3	7240-7243	for	_
@@ -1275,6 +1328,7 @@
 53-23	7356-7360	0.05	_
 53-24	7361-7362	.	_
 
+Text=We used the Harvard–Oxford cortical and subcortical atlases (Harvard Centre for Morphometric Analysis) to identify anatomical representations of clusters of the resulting probabilistic independent component analysis maps, which indicated significant differences between the two groups.
 54-1	7363-7365	We	_
 54-2	7366-7370	used	_
 54-3	7371-7374	the	_
@@ -1315,6 +1369,7 @@
 54-38	7644-7650	groups	_
 54-39	7651-7652	.	_
 
+Text=The correlation between clinical symptoms and occupation status with between-network resting state functional connectivity were also assessed using partial correlation.
 55-1	7653-7656	The	_
 55-2	7657-7668	correlation	_
 55-3	7669-7676	between	_
@@ -1337,6 +1392,7 @@
 55-20	7809-7820	correlation	_
 55-21	7821-7822	.	_
 
+Text=The statistical significance threshold was set at p <0.05, FWE corrected.
 56-1	7823-7826	The	_
 56-2	7827-7838	statistical	_
 56-3	7839-7851	significance	_

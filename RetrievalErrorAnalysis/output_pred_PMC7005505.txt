@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Resting state fMRI based multilayer network configuration in patients with schizophrenia Highlights Higher flexibility in schizophrenia at the resting state network and node level.
 1-1	0-7	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 1-2	8-13	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 1-3	14-18	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -28,6 +29,7 @@
 1-24	174-179	level	_
 1-25	180-181	.	_
 
+Text=Higher flexibility in the thalamus due to default-mode sensory/motor transitions.
 2-1	182-188	Higher	_
 2-2	189-200	flexibility	_
 2-3	201-203	in	_
@@ -40,6 +42,7 @@
 2-10	251-262	transitions	_
 2-11	263-264	.	_
 
+Text=Altered between sub-network dynamic modular configuration in schizophrenia.
 3-1	265-272	Altered	_
 3-2	273-280	between	_
 3-3	281-292	sub-network	_
@@ -50,6 +53,7 @@
 3-8	326-339	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 3-9	340-341	.	_
 
+Text=Flexibility scores affected by methodological choices such as window size.
 4-1	342-353	Flexibility	_
 4-2	354-360	scores	_
 4-3	361-369	affected	_
@@ -62,6 +66,7 @@
 4-10	411-415	size	_
 4-11	416-417	.	_
 
+Text=Novel methods for measuring large-scale dynamic brain organisation are needed to provide new biomarkers of schizophrenia.
 5-1	418-423	Novel	_
 5-2	424-431	methods	_
 5-3	432-435	for	_
@@ -80,6 +85,7 @@
 5-16	525-538	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 5-17	539-540	.	_
 
+Text=Using a method for modelling dynamic modular organisation (Mucha et al., 2010), evidence suggests higher ‘ flexibility ’ (switching between multilayer network communities) to be a feature of schizophrenia (Braun et al., 2016).
 6-1	541-546	Using	_
 6-2	547-548	a	_
 6-3	549-555	method	_
@@ -124,6 +130,7 @@
 6-42	774-775	)	_
 6-43	776-777	.	_
 
+Text=The current study compared flexibility between 55 patients with schizophrenia and 72 controls (the COBRE Dataset).
 7-1	778-781	The	_
 7-2	782-789	current	_
 7-3	790-795	study	_
@@ -144,6 +151,7 @@
 7-18	892-893	)	_
 7-19	894-895	.	_
 
+Text=In addition, novel methods of ‘ between resting state network synchronisation ’ (BRSNS) and the probability of transition from one community to another were used to further describe group differences in dynamic community structure.
 8-1	896-898	In	_
 8-2	899-907	addition	_
 8-3	908-909	,	_
@@ -183,6 +191,7 @@
 8-37	1120-1129	structure	_
 8-38	1130-1131	.	_
 
+Text=There was significantly higher schizophrenia group flexibility scores in cerebellar (F (1124) = 9.33, p (FDR) = 0.017), subcortical (F (1124) = 13.14, p (FDR) = 0.005), and fronto-parietal task control (F (1124) = 7.19, p (FDR) = 0.033) resting state networks (RSNs), as well as in the left thalamus (MNI XYZ: -2, -13, 12; F (1, 124) = 17.1, p (FDR) <0.001) and the right crus I (MNI XYZ: 35, -67, -34; F (1, 124) = 19.65, p (FDR) <0.001).
 9-1	1132-1137	There	_
 9-2	1138-1141	was	_
 9-3	1142-1155	significantly	_
@@ -318,6 +327,7 @@
 9-133	1621-1622	)	_
 9-134	1623-1624	.	_
 
+Text=Flexibility in the left thalamus reflected transitions between communities covering default mode and sensory-somatomotor RSNs.
 10-1	1625-1636	Flexibility	_
 10-2	1637-1639	in	_
 10-3	1640-1643	the	_
@@ -335,6 +345,7 @@
 10-15	1746-1750	RSNs	_
 10-16	1751-1752	.	_
 
+Text=BRSNS scores suggested altered dynamic inter-RSN modular configuration in schizophrenia.
 11-1	1753-1758	BRSNS	_
 11-2	1759-1765	scores	_
 11-3	1766-1775	suggested	_
@@ -347,6 +358,7 @@
 11-10	1827-1840	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-11	1841-1842	.	_
 
+Text=This study suggests less stable community structure in a schizophrenia group at an RSN and node level and provides novel methods of exploring dynamic community structure.
 12-1	1843-1847	This	_
 12-2	1848-1853	study	_
 12-3	1854-1862	suggests	_
@@ -375,6 +387,7 @@
 12-26	2003-2012	structure	_
 12-27	2013-2014	.	_
 
+Text=Mediation of group differences by mean time window correlation did however suggest flexibility to be no better as a schizophrenia biomarker than simpler measures and a range of methodological choices affected results.
 13-1	2015-2024	Mediation	_
 13-2	2025-2027	of	_
 13-3	2028-2033	group	_
@@ -409,6 +422,7 @@
 13-32	2224-2231	results	_
 13-33	2232-2233	.	_
 
+Text=Methods Participants The COBRE dataset has 72 patients with schizophrenia and 75 healthy controls.
 14-1	2234-2241	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 14-2	2242-2254	Participants	_
 14-3	2255-2258	The	_
@@ -425,6 +439,7 @@
 14-14	2323-2331	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 14-15	2332-2333	.	_
 
+Text=Participants underwent a 5 minute resting state scan (TR = 2s, TE = 29 ms, 150 volumes, matrix size = 64 × 64, 32 slices, voxel size = 3 × 3 × 4 mm3).
 15-1	2334-2346	Participants	_
 15-2	2347-2356	underwent	_
 15-3	2357-2358	a	_
@@ -468,6 +483,7 @@
 15-41	2489-2490	)	_
 15-42	2491-2492	.	_
 
+Text=Two controls and 19 patients were removed during preprocessing (see below), and two participants withdrew their data, leaving data from 72 controls and 55 patients for analysis.
 16-1	2493-2496	Two	_
 16-2	2497-2505	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 16-3	2506-2509	and	_
@@ -501,6 +517,7 @@
 16-31	2665-2673	analysis	_
 16-32	2674-2675	.	_
 
+Text=Group characteristics are described in Table 1.
 17-1	2676-2681	Group	_
 17-2	2682-2697	characteristics	_
 17-3	2698-2701	are	_
@@ -510,6 +527,7 @@
 17-7	2721-2722	1	_
 17-8	2723-2724	.	_
 
+Text=Preprocessing Preprocessing followed the same steps as in) using AFNI version 17.2.17 and FSL version 5.0.11.
 18-1	2725-2738	Preprocessing	_
 18-2	2739-2752	Preprocessing	_
 18-3	2753-2761	followed	_
@@ -529,6 +547,7 @@
 18-17	2828-2834	5.0.11	_
 18-18	2835-2836	.	_
 
+Text=Briefly this involved slice timing correction, rigid-body head movement realignment to the first volume, co-registration to structural image using a gray matter mask, transformation to MNI space, spatial smoothing with a 6 mm FWHM, wavelet despiking using the BrainWavelet Toolbox with default settings (www.brainwavelet.org), regression of 6 movement parameters (x, y, z, pitch, roll, and yaw) and CSF based confounding signal.
 19-1	2837-2844	Briefly	_
 19-2	2845-2849	this	_
 19-3	2850-2858	involved	_
@@ -607,6 +626,7 @@
 19-76	3273-3279	signal	_
 19-77	3280-3281	.	_
 
+Text=A band-pass filter of 0.08 <f <0.15 Hz was applied, which is the same frequency band studied in a previous investigation of flexibility in schizophrenia.
 20-1	3282-3283	A	_
 20-2	3284-3293	band-pass	_
 20-3	3294-3300	filter	_
@@ -637,6 +657,7 @@
 20-28	3424-3437	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 20-29	3438-3439	.	_
 
+Text=Although the Wavelet Despiking algorithm is a robust movement correction procedure there was a significant difference in median mean spike percentage (a measure of movement related noise) between the two groups (U = 1598, p <0.001).
 21-1	3440-3448	Although	_
 21-2	3449-3452	the	_
 21-3	3453-3460	Wavelet	_
@@ -681,6 +702,7 @@
 21-42	3676-3677	)	_
 21-43	3678-3679	.	_
 
+Text=Participants with a mean spike percentage> 7.5% were excluded from the analysis, however there was still a higher median mean spike percentage in the patient group (U = 1477, p = 0.014).
 22-1	3680-3692	Participants	_
 22-2	3693-3697	with	_
 22-3	3698-3699	a	_
@@ -721,6 +743,7 @@
 22-38	3870-3871	)	_
 22-39	3872-3873	.	_
 
+Text=As a result, mean spike percentage was included as a covariate in the group comparisons.
 23-1	3874-3876	As	_
 23-2	3877-3878	a	_
 23-3	3879-3885	result	_
@@ -739,6 +762,7 @@
 23-16	3951-3962	comparisons	_
 23-17	3963-3964	.	_
 
+Text=Resting state scans were parcellated using the atlas (5mm spheres around suggested coordinates).
 24-1	3965-3972	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 24-2	3973-3978	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 24-3	3979-3984	scans	_
@@ -756,6 +780,7 @@
 24-15	4061-4062	)	_
 24-16	4063-4064	.	_
 
+Text=This atlas was chosen as it has pre-defined allocations of nodes into RSNs.
 25-1	4065-4069	This	_
 25-2	4070-4075	atlas	_
 25-3	4076-4079	was	_
@@ -771,6 +796,7 @@
 25-13	4135-4139	RSNs	_
 25-14	4140-4141	.	_
 
+Text=The atlas has 12 RSNs: default mode, cerebellar, cingulo-opercular task control, sensory-somatomotor hand / mouth, subcortical, fronto-parietal task control, visual, memory retrieval, salience, dorsal attention, ventral attention, and auditory.
 26-1	4142-4145	The	_
 26-2	4146-4151	atlas	_
 26-3	4152-4155	has	_
@@ -814,6 +840,7 @@
 26-41	4389-4397	auditory	_
 26-42	4398-4399	.	_
 
+Text=In the current study the two sensory-somatomotor networks were combined.
 27-1	4400-4402	In	_
 27-2	4403-4406	the	_
 27-3	4407-4414	current	_
@@ -826,6 +853,7 @@
 27-10	4463-4471	combined	_
 27-11	4472-4473	.	_
 
+Text=To confirm results main group comparisons of flexibility were repeated using the atlas, which contains a similar set of 11 RSNs, with the omission of the cerebellar, subcortical, and memory retrieval networks, and the addition of the retrosplenial-temporal and cingulo-parietal RSNs.
 28-1	4474-4476	To	_
 28-2	4477-4484	confirm	_
 28-3	4485-4492	results	_
@@ -874,6 +902,7 @@
 28-46	4757-4761	RSNs	_
 28-47	4762-4763	.	_
 
+Text=These two atlases were chosen as they have pre-defined allocations of nodes into RSNs.
 29-1	4764-4769	These	_
 29-2	4770-4773	two	_
 29-3	4774-4781	atlases	_
@@ -890,6 +919,7 @@
 29-14	4845-4849	RSNs	_
 29-15	4850-4851	.	_
 
+Text=Areas of signal drop out were defined as those with a mean time-series signal intensity z score (across nodes) less than or equal to 1.64 in any subject, corresponding to outliers> 95th percentile or <5th percentile.
 30-1	4852-4857	Areas	_
 30-2	4858-4860	of	_
 30-3	4861-4867	signal	_
@@ -933,6 +963,7 @@
 30-41	5062-5072	percentile	_
 30-42	5073-5074	.	_
 
+Text=These nodes were removed from the analysis, leaving 207 regions in the) parcellation and 268 in the parcellation.
 31-1	5075-5080	These	_
 31-2	5081-5086	nodes	_
 31-3	5087-5091	were	_
@@ -955,6 +986,7 @@
 31-20	5177-5189	parcellation	_
 31-21	5190-5191	.	_
 
+Text=Areas of signal loss were mostly in ventral prefrontal and temporal areas, which is a common issue in MRI imaging.
 32-1	5192-5197	Areas	_
 32-2	5198-5200	of	_
 32-3	5201-5207	signal	_
@@ -978,6 +1010,7 @@
 32-21	5299-5306	imaging	_
 32-22	5307-5308	.	_
 
+Text=Sliding time windows Time-series data were split into a consecutive series of non-overlapping windows.
 33-1	5309-5316	Sliding	_
 33-2	5317-5321	time	_
 33-3	5322-5329	windows	_
@@ -994,6 +1027,7 @@
 33-14	5403-5410	windows	_
 33-15	5411-5412	.	_
 
+Text=Similar to scans were cut into 30 s / 15 TR segments.
 34-1	5413-5420	Similar	_
 34-2	5421-5423	to	_
 34-3	5424-5429	scans	_
@@ -1008,6 +1042,7 @@
 34-12	5457-5465	segments	_
 34-13	5466-5467	.	_
 
+Text=Additionally, flexibility results were repeated with 25 TRs (50 s) and 30 TRs (60 s) window sizes, in order to report whether window size affected results.
 35-1	5468-5480	Additionally	_
 35-2	5481-5482	,	_
 35-3	5483-5494	flexibility	_
@@ -1042,6 +1077,7 @@
 35-32	5621-5628	results	_
 35-33	5629-5630	.	_
 
+Text=These window sizes were chosen so that the total number of volumes (150) was divisible by each window length and because it has been suggested that 30–60 s time windows are reasonable in studying fMRI based dynamic functional connectivity and such window sizes have typically been used in dynamic functional connectivity studies.
 36-1	5631-5636	These	_
 36-2	5637-5643	window	_
 36-3	5644-5649	sizes	_
@@ -1098,6 +1134,7 @@
 36-54	5954-5961	studies	_
 36-55	5962-5963	.	_
 
+Text=It has been suggested also that the minimum window size that can be used in a dynamic functional connectivity study is 1/fmin, where fmin is the minimum frequency included.
 37-1	5964-5966	It	_
 37-2	5967-5970	has	_
 37-3	5971-5975	been	_
@@ -1130,6 +1167,7 @@
 37-30	6128-6136	included	_
 37-31	6137-6138	.	_
 
+Text=In the present study this would allow for a window size of 12.5 s (1/0.08 = 12.5).
 38-1	6139-6141	In	_
 38-2	6142-6145	the	_
 38-3	6146-6153	present	_
@@ -1151,6 +1189,7 @@
 38-19	6221-6222	)	_
 38-20	6223-6224	.	_
 
+Text=However, window sizes below 30 s appeared to have low variance of flexibility across participants and across nodes (supplementary materials Section 1).
 39-1	6225-6232	However	_
 39-2	6233-6234	,	_
 39-3	6235-6241	window	_
@@ -1178,6 +1217,7 @@
 39-25	6377-6378	)	_
 39-26	6379-6380	.	_
 
+Text=Windowed correlation matrices were proportionally thresholded at 10% to give a series of weighted adjacency matrices.
 40-1	6381-6389	Windowed	_
 40-2	6390-6401	correlation	_
 40-3	6402-6410	matrices	_
@@ -1197,6 +1237,7 @@
 40-17	6490-6498	matrices	_
 40-18	6499-6500	.	_
 
+Text=Adjacency matrices in sequence were used as ordered layers in the multilayer network.
 41-1	6501-6510	Adjacency	_
 41-2	6511-6519	matrices	_
 41-3	6520-6522	in	_
@@ -1212,6 +1253,7 @@
 41-13	6578-6585	network	_
 41-14	6586-6587	.	_
 
+Text=Additionally, the analysis was repeated at 5 and 15% thresholds, as well as over a range of parameters specific to the multilayer community detection algorithm: γ (0.9, 1, 1.1) and ω (0.5, 0.75, 1).
 42-1	6588-6600	Additionally	_
 42-2	6601-6602	,	_
 42-3	6603-6606	the	_
@@ -1260,6 +1302,7 @@
 42-46	6796-6797	)	_
 42-47	6798-6799	.	_
 
+Text=The parameter γ controls the size and therefore number of communities within layers of the network (larger γ = more communities).
 43-1	6800-6803	The	_
 43-2	6804-6813	parameter	_
 43-3	6814-6815	γ	_
@@ -1285,6 +1328,7 @@
 43-23	6929-6930	)	_
 43-24	6931-6932	.	_
 
+Text=The parameter ω in the current study controls the number of communities found across layers (larger ω = less communities).
 44-1	6933-6936	The	_
 44-2	6937-6946	parameter	_
 44-3	6947-6948	ω	_
@@ -1309,6 +1353,7 @@
 44-22	7055-7056	)	_
 44-23	7057-7058	.	_
 
+Text=An exploration of how these parameters affected flexibility and group differences is shown in the supplementary materials Section 1.
 45-1	7059-7061	An	_
 45-2	7062-7073	exploration	_
 45-3	7074-7076	of	_
@@ -1330,6 +1375,7 @@
 45-19	7189-7190	1	_
 45-20	7191-7192	.	_
 
+Text=Multilayer community detection Communities describe groups of nodes more strongly connected to each other than to nodes outside of their community, as compared to a null model representing what would be expected in a network of similar size and density with randomly distributed connections.
 46-1	7193-7203	Multilayer	_
 46-2	7204-7213	community	_
 46-3	7214-7223	detection	_
@@ -1377,6 +1423,7 @@
 46-45	7473-7484	connections	_
 46-46	7485-7486	.	_
 
+Text=Modularity describes a formal measurement of this, which can be used in iterative processes of finding a partition of a network with an optimal set of community assignments.
 47-1	7487-7497	Modularity	_
 47-2	7498-7507	describes	_
 47-3	7508-7509	a	_
@@ -1408,6 +1455,7 @@
 47-29	7649-7660	assignments	_
 47-30	7661-7662	.	_
 
+Text=In the current study the GenLouvain community detection algorithm was used, which involves the following modularity measurement that is formulated to work on multilayer networks: Here μ is the total edge weight of the network, Aijl is the adjacency matrix between nodes i and j at layer l. Pijl describes the matrix of expected weights under the null model.
 48-1	7663-7665	In	_
 48-2	7666-7669	the	_
 48-3	7670-7677	current	_
@@ -1472,6 +1520,7 @@
 48-62	8017-8022	model	_
 48-63	8023-8024	.	_
 
+Text=The structural resolution parameter γl sets the weight of intralayer edges, and the temporal ωjlr resolution parameter sets the weight of inter layer edges (here γl = ωjlr = 1).
 49-1	8025-8028	The	_
 49-2	8029-8039	structural	_
 49-3	8040-8050	resolution	_
@@ -1507,6 +1556,7 @@
 49-33	8203-8204	)	_
 49-34	8205-8206	.	_
 
+Text=g refers to community assignments: gil and gjr are the community assignments of node i in layer l, and node j in layer r (respectively).
 50-1	8207-8208	g	_
 50-2	8209-8215	refers	_
 50-3	8216-8218	to	_
@@ -1538,6 +1588,7 @@
 50-29	8345-8346	)	_
 50-30	8347-8348	.	_
 
+Text=δ describes the Kronecker delta, which for δ (gil, gjr) is 1 if il = jr, and 0 if il ≠ jr In the current study the GenLouvain community detection algorithm was used on each participant's sequence of weighted adjacency matrices (node x node x layer).
 51-1	8349-8350	δ	_
 51-2	8351-8360	describes	_
 51-3	8361-8364	the	_
@@ -1594,6 +1645,7 @@
 51-54	8604-8605	)	_
 51-55	8606-8607	.	_
 
+Text=Here, the network was treated as ordinal, with interlayer links between sequential layers for nodes at the same position.
 52-1	8608-8612	Here	_
 52-2	8613-8614	,	_
 52-3	8615-8618	the	_
@@ -1617,6 +1669,7 @@
 52-21	8722-8730	position	_
 52-22	8731-8732	.	_
 
+Text=This was a similar implementation used in previous studies (Fig.
 53-1	8733-8737	This	_
 53-2	8738-8741	was	_
 53-3	8742-8743	a	_
@@ -1630,10 +1683,12 @@
 53-11	8794-8797	Fig	_
 53-12	8798-8799	.	_
 
+Text=1).
 54-1	8800-8801	1	_
 54-2	8802-8803	)	_
 54-3	8804-8805	.	_
 
+Text=Module allegiance and between / out of RSN synchronisation In order to measure the dynamic reorganisation of communities between RSNs the concept of a “ module allegiance matrix ” was used.
 55-1	8806-8812	Module	_
 55-2	8813-8823	allegiance	_
 55-3	8824-8827	and	_
@@ -1667,6 +1722,7 @@
 55-31	8990-8994	used	_
 55-32	8995-8996	.	_
 
+Text=This concept has also been termed the “ temporal co-occurrence matrix ” in a previous study.
 56-1	8997-9001	This	_
 56-2	9002-9009	concept	_
 56-3	9010-9013	has	_
@@ -1685,6 +1741,7 @@
 56-16	9083-9088	study	_
 56-17	9089-9090	.	_
 
+Text=The benefit of the module allegiance matrix is that it allows for the level of synchronisation between specific nodes or RSNs to be measured.
 57-1	9091-9094	The	_
 57-2	9095-9102	benefit	_
 57-3	9103-9105	of	_
@@ -1711,6 +1768,7 @@
 57-24	9223-9231	measured	_
 57-25	9232-9233	.	_
 
+Text=To create each participant's module allegiance matrix a node x node matrix was formed with each element giving the proportion of times a node shared a community with another node over the course of the scan.
 58-1	9234-9236	To	_
 58-2	9237-9243	create	_
 58-3	9244-9248	each	_
@@ -1750,6 +1808,7 @@
 58-37	9437-9441	scan	_
 58-38	9442-9443	.	_
 
+Text=Mean module allegiance between RSNs was found in order to give a measure of synchronisation between pairs of RSNs.
 59-1	9444-9448	Mean	_
 59-2	9449-9455	module	_
 59-3	9456-9466	allegiance	_
@@ -1771,6 +1830,7 @@
 59-19	9553-9557	RSNs	_
 59-20	9558-9559	.	_
 
+Text=We refer to this measure as ‘ between RSN synchronisation ’ (BRSNS).
 60-1	9560-9562	We	_
 60-2	9563-9568	refer	_
 60-3	9569-9571	to	_
@@ -1787,6 +1847,7 @@
 60-14	9628-9629	)	_
 60-15	9630-9631	.	_
 
+Text=To provide a summary measure of how often RSNs coupled with nodes outside of their network, the mean of all out of RSN module allegiance values for each RSN was taken.
 61-1	9632-9634	To	_
 61-2	9635-9642	provide	_
 61-3	9643-9644	a	_
@@ -1821,6 +1882,7 @@
 61-32	9794-9799	taken	_
 61-33	9800-9801	.	_
 
+Text=For simplicity we refer to this measure as ‘ out of RSN synchronisation ’ (ORSNS).
 62-1	9802-9805	For	_
 62-2	9806-9816	simplicity	_
 62-3	9817-9819	we	_
@@ -1840,6 +1902,7 @@
 62-17	9884-9885	)	_
 62-18	9886-9887	.	_
 
+Text=This is a similar concept to “ temporal flexibility ” proposed by.
 63-1	9888-9892	This	_
 63-2	9893-9895	is	_
 63-3	9896-9897	a	_
@@ -1854,6 +1917,7 @@
 63-12	9951-9953	by	_
 63-13	9954-9955	.	_
 
+Text=ORSNS was measured in controls in order to validate the module allegiance procedure, by comparing relative levels with suggested ‘ processing / control ’ profiles of RSNs, which are described based on profiles of inter and intra RSN connectivity.
 64-1	9956-9961	ORSNS	_
 64-2	9962-9965	was	_
 64-3	9966-9974	measured	_
@@ -1897,6 +1961,7 @@
 64-41	10191-10203	connectivity	_
 64-42	10204-10205	.	_
 
+Text=Transition matrices A transition matrix containing the probability of transition from one community to another was formed for each participant.
 65-1	10206-10216	Transition	_
 65-2	10217-10225	matrices	_
 65-3	10226-10227	A	_
@@ -1919,6 +1984,7 @@
 65-20	10337-10348	participant	_
 65-21	10349-10350	.	_
 
+Text=Group differences were then tested using permutation tests (two tailed; 5000 permutations of group assignments).
 66-1	10351-10356	Group	_
 66-2	10357-10368	differences	_
 66-3	10369-10373	were	_
@@ -1939,6 +2005,7 @@
 66-18	10464-10465	)	_
 66-19	10466-10467	.	_
 
+Text=Transition matrices were treated as undirected by averaging inward and outward transition probabilities.
 67-1	10468-10478	Transition	_
 67-2	10479-10487	matrices	_
 67-3	10488-10492	were	_
@@ -1954,6 +2021,7 @@
 67-13	10558-10571	probabilities	_
 67-14	10572-10573	.	_
 
+Text=K means clustering was used (Scikit-Learn:) in order to label the communities found in each participant into a set of standard communities shared across subjects.
 68-1	10574-10575	K	_
 68-2	10576-10581	means	_
 68-3	10582-10592	clustering	_
@@ -1984,6 +2052,7 @@
 68-28	10730-10738	subjects	_
 68-29	10739-10740	.	_
 
+Text=This approach is commonly used with dynamic functional connectivity as it provides a way to standardise participant's sliding time windows into a set of group meta-states.
 69-1	10741-10745	This	_
 69-2	10746-10754	approach	_
 69-3	10755-10757	is	_
@@ -2013,6 +2082,7 @@
 69-27	10901-10912	meta-states	_
 69-28	10913-10914	.	_
 
+Text=Every community from every participant was entered into the k means algorithm, the feature space being a vector of probability of node assignment for all nodes (207 features).
 70-1	10915-10920	Every	_
 70-2	10921-10930	community	_
 70-3	10931-10935	from	_
@@ -2046,6 +2116,7 @@
 70-31	11091-11092	)	_
 70-32	11093-11094	.	_
 
+Text=A full description of the k means procedure is given in the supplementary materials Section 2.
 71-1	11095-11096	A	_
 71-2	11097-11101	full	_
 71-3	11102-11113	description	_
@@ -2064,6 +2135,7 @@
 71-16	11187-11188	2	_
 71-17	11189-11190	.	_
 
+Text=Each cluster was equally represented in patient and controls groups (supplementary materials Table 2.1).
 72-1	11191-11195	Each	_
 72-2	11196-11203	cluster	_
 72-3	11204-11207	was	_
@@ -2082,6 +2154,7 @@
 72-16	11295-11296	)	_
 72-17	11297-11298	.	_
 
+Text=Confounding factors Group characteristics suggested a significant difference in the proportions of left and right handed participants (Fischer's Exact Test, p = 0.012).
 73-1	11299-11310	Confounding	_
 73-2	11311-11318	factors	_
 73-3	11319-11324	Group	_
@@ -2111,6 +2184,7 @@
 73-27	11469-11470	)	_
 73-28	11471-11472	.	_
 
+Text=As some cell counts would be too small to enter as a covariate in a logistic regression the results were instead repeated including only right handed participants.
 74-1	11473-11475	As	_
 74-2	11476-11480	some	_
 74-3	11481-11485	cell	_
@@ -2140,6 +2214,7 @@
 74-27	11623-11635	participants	_
 74-28	11636-11637	.	_
 
+Text=In addition, the analysis was repeated using overlapping windows (in steps of 1 TR), as previous studies have used both overlapping / non overlapping windows.
 75-1	11638-11640	In	_
 75-2	11641-11649	addition	_
 75-3	11650-11651	,	_
@@ -2171,6 +2246,7 @@
 75-29	11792-11799	windows	_
 75-30	11800-11801	.	_
 
+Text=It is also the case that complex measures such as flexibility may be explained by simpler network characteristics.
 76-1	11802-11804	It	_
 76-2	11805-11807	is	_
 76-3	11808-11812	also	_
@@ -2191,6 +2267,7 @@
 76-18	11900-11915	characteristics	_
 76-19	11916-11917	.	_
 
+Text=The current study tested whether the mean number of communities in time windows and the mean of time windowed correlation matrices were mediators in the relationship between group assignment and flexibility.
 77-1	11918-11921	The	_
 77-2	11922-11929	current	_
 77-3	11930-11935	study	_
@@ -2224,6 +2301,7 @@
 77-31	12113-12124	flexibility	_
 77-32	12125-12126	.	_
 
+Text=Ethics statement The COBRE (The Centre for Biomedical Research Excellence) dataset was obtained through the International Neuroimaging Data-sharing Initiative (http: //fcon_1000.projects.nitrc.org/indi/retro/cobre.html).
 78-1	12127-12133	Ethics	_
 78-2	12134-12143	statement	_
 78-3	12144-12147	The	_
@@ -2252,6 +2330,7 @@
 78-26	12350-12351	)	_
 78-27	12352-12353	.	_
 
+Text=This was originally released under Creative Commons – Attribution Non-Commercial.
 79-1	12354-12358	This	_
 79-2	12359-12362	was	_
 79-3	12363-12373	originally	_
@@ -2264,6 +2343,7 @@
 79-10	12420-12434	Non-Commercial	_
 79-11	12435-12436	.	_
 
+Text=Written informed consent was obtained for all participants.
 80-1	12437-12444	Written	_
 80-2	12445-12453	informed	_
 80-3	12454-12461	consent	_
@@ -2274,6 +2354,7 @@
 80-8	12483-12495	participants	_
 80-9	12496-12497	.	_
 
+Text=Code availability In order to aid reproducibility and transparency, tailor made scripts used in this study have been made available (https: //github.com/george-gifford/COBRE_multilayer_community).
 81-1	12498-12502	Code	_
 81-2	12503-12515	availability	_
 81-3	12516-12518	In	_
@@ -2302,6 +2383,7 @@
 81-26	12696-12697	)	_
 81-27	12698-12699	.	_
 
+Text=Statistical analysis was performed using R version 3.5.1.
 82-1	12700-12711	Statistical	_
 82-2	12712-12720	analysis	_
 82-3	12721-12724	was	_
@@ -2312,6 +2394,7 @@
 82-8	12751-12756	3.5.1	_
 82-9	12757-12758	.	_
 
+Text=The current study used a Matlab version 9.2.0. when implementing the GenLouvain multilayer community detection algorithm, which is currently available from (netwiki.amath.unc.edu/GenLouvain/GenLouvain).
 83-1	12759-12762	The	_
 83-2	12763-12770	current	_
 83-3	12771-12776	study	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Reward activation in childhood predicts adolescent substance use initiation in a high-risk sample * Background Substance use at an early age conveys substantial risk for later substance-related problems.
 1-1	0-6	Reward	_
 1-2	7-17	activation	_
 1-3	18-20	in	_
@@ -32,6 +33,7 @@
 1-28	194-202	problems	_
 1-29	203-204	.	_
 
+Text=A better understanding of early risk factors could result in more timely and effective intervention.
 2-1	205-206	A	_
 2-2	207-213	better	_
 2-3	214-227	understanding	_
@@ -49,6 +51,7 @@
 2-15	292-304	intervention	_
 2-16	305-306	.	_
 
+Text=This study investigated the predictive utility of the brain ’ s response to reward anticipation as a risk factor for early substance use initiation.
 3-1	307-311	This	_
 3-2	312-317	study	_
 3-3	318-330	investigated	_
@@ -75,6 +78,7 @@
 3-24	444-454	initiation	_
 3-25	455-456	.	_
 
+Text=Methods Participants were 34 children (25 male) at high risk for alcohol and other substance use disorders from a longitudinal functional magnetic resonance imaging study, scanned at a mean age of 10.5 years (SD = 1.2) when participants were substance-naïve.
 4-1	457-464	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 4-2	465-477	Participants	_
 4-3	478-482	were	_
@@ -122,6 +126,7 @@
 4-45	704-719	substance-naïve	_
 4-46	720-721	.	_
 
+Text=We used a monetary incentive delay task to examine the hemodynamic response of the nucleus accumbens to gain and loss anticipation.
 5-1	722-724	We	_
 5-2	725-729	used	_
 5-3	730-731	a	_
@@ -145,6 +150,7 @@
 5-21	840-852	anticipation	_
 5-22	853-854	.	_
 
+Text=Logistic regression was used to test the hypothesis that these brain response patterns would have predictive utility over and above early externalizing behaviors and family history of substance use disorder, two key risk factors for substance use problems, in differentiating those who initiated substance use before age 16 (n = 18) and those who did not (n = 16).
 6-1	855-863	Logistic	_
 6-2	864-874	regression	_
 6-3	875-878	was	_
@@ -212,6 +218,7 @@
 6-65	1223-1224	)	_
 6-66	1225-1226	.	_
 
+Text=Results Greater nucleus accumbens activation during monetary gain anticipation in childhood increased the likelihood of initiating substance use during early adolescence (p = .023).
 7-1	1227-1234	Results	_
 7-2	1235-1242	Greater	_
 7-3	1243-1250	nucleus	_
@@ -240,6 +247,7 @@
 7-26	1408-1409	)	_
 7-27	1410-1411	.	_
 
+Text=The model that comprised neural data in addition to early externalizing behaviors and family history showed significantly better fit than the model without neural data (χ22 = 7.38, p = .025).
 8-1	1412-1415	The	_
 8-2	1416-1421	model	_
 8-3	1422-1426	that	_
@@ -276,6 +284,7 @@
 8-34	1604-1605	)	_
 8-35	1606-1607	.	_
 
+Text=Conclusions Heightened gain anticipation activation in the nucleus accumbens may predispose individuals to early substance use, beyond the risk conveyed by other known factors.
 9-1	1608-1619	Conclusions	_
 9-2	1620-1630	Heightened	_
 9-3	1631-1635	gain	_
@@ -303,6 +312,7 @@
 9-25	1777-1784	factors	_
 9-26	1785-1786	.	_
 
+Text=Material and Methods Participants Participants were 34 youth (25 male) from the MLS, aged 8.2–12.9 at the time of the fMRI scan (M = 10.5, SD = 1.2).
 10-1	1787-1795	Material	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	1796-1799	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1800-1807	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -339,6 +349,7 @@
 10-34	1940-1941	)	_
 10-35	1942-1943	.	_
 
+Text=The MLS is a multi-wave, community-recruited study of families with and without parental alcohol use disorder (AUD).
 11-1	1944-1947	The	_
 11-2	1948-1951	MLS	_
 11-3	1952-1954	is	_
@@ -361,6 +372,7 @@
 11-20	2061-2062	)	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 11-21	2063-2064	.	_
 
+Text=As part of the MLS, assessments were conducted every three years starting when the children were aged 3–5; adolescents and young adults were also assessed every year from age 11–26.
 12-1	2065-2067	As	_
 12-2	2068-2072	part	_
 12-3	2073-2075	of	_
@@ -395,6 +407,7 @@
 12-32	2242-2247	11–26	_
 12-33	2248-2249	.	_
 
+Text=Families were excluded if the target child displayed evidence of fetal alcohol effects or the mother reported drinking during pregnancy.
 13-1	2250-2258	Families	_
 13-2	2259-2263	were	_
 13-3	2264-2272	excluded	_
@@ -417,6 +430,7 @@
 13-20	2376-2385	pregnancy	_
 13-21	2386-2387	.	_
 
+Text=The majority of participants in the present analyses (82.4%) were FH+ for SUD, making this a high-risk sample.
 14-1	2388-2391	The	_
 14-2	2392-2400	majority	_
 14-3	2401-2403	of	_
@@ -441,6 +455,7 @@
 14-22	2495-2501	sample	_
 14-23	2502-2503	.	_
 
+Text=(Although the original recruitment strategy of the MLS involved accessing a community-based sample of parents with AUD, their high other drug comorbidity meant that their offspring would be at elevated risk for both alcohol and other drug use.
 15-1	2504-2505	(	_
 15-2	2506-2514	Although	_
 15-3	2515-2518	the	_
@@ -483,6 +498,7 @@
 15-40	2745-2748	use	_
 15-41	2749-2750	.	_
 
+Text=The MLS has historically focused on understanding these other risk patterns as well) Full details on MLS assessment and data collection can be found elsewhere.
 16-1	2751-2754	The	_
 16-2	2755-2758	MLS	_
 16-3	2759-2762	has	_
@@ -511,6 +527,7 @@
 16-26	2901-2910	elsewhere	_
 16-27	2911-2912	.	_
 
+Text=For the present imaging study, participants were excluded if they had any neurological, acute, uncorrected, or chronic medical illness; current or recent (within 6 months) treatment with centrally active medications; MRI contraindications such as metal implants or claustrophobia; IQ <70; history of psychosis in self or first-degree relatives; or current, active Axis I disorder according to the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) criteria.
 17-1	2913-2916	For	_
 17-2	2917-2920	the	_
 17-3	2921-2928	present	_
@@ -594,6 +611,7 @@
 17-81	3388-3396	criteria	_
 17-82	3397-3398	.	_
 
+Text=However, disorders that are often comorbid with substance use were not part of the exclusion criteria (so as not to bias the sample against our construct of interest): current or past anxiety, conduct or attention deficit hyperactivity (ADHD) disorder, or past mood disorder.
 18-1	3399-3406	However	_
 18-2	3407-3408	,	_
 18-3	3409-3418	disorders	_
@@ -647,6 +665,7 @@
 18-51	3673-3681	disorder	_
 18-52	3682-3683	.	_
 
+Text=Participants who were taking medication for ADHD were asked to abstain at least 48 hours before the MRI scan.
 19-1	3684-3696	Participants	_
 19-2	3697-3700	who	_
 19-3	3701-3705	were	_
@@ -668,6 +687,7 @@
 19-19	3788-3792	scan	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
 19-20	3793-3794	.	_
 
+Text=Parents/guardians of participants provided written informed consent and participants provided written informed assent.
 20-1	3795-3812	Parents/guardians	_
 20-2	3813-3815	of	_
 20-3	3816-3828	participants	_
@@ -683,6 +703,7 @@
 20-13	3906-3912	assent	_
 20-14	3913-3914	.	_
 
+Text=Study materials and procedures were approved by the University of Michigan Medical School Institutional Review Board.
 21-1	3915-3920	Study	_
 21-2	3921-3930	materials	_
 21-3	3931-3934	and	_
@@ -701,6 +722,7 @@
 21-16	4026-4031	Board	_
 21-17	4032-4033	.	_
 
+Text=Measures Substance use Drinking and drug use histories were obtained from each participant by trained research staff as part of the regular MLS assessment schedule.
 22-1	4034-4042	Measures	_
 22-2	4043-4052	Substance	_
 22-3	4053-4056	use	_
@@ -728,6 +750,7 @@
 22-25	4189-4197	schedule	_
 22-26	4198-4199	.	_
 
+Text=Beginning at age 6 and occurring at three-year intervals thereafter, a health and daily living questionnaire was used to assess the use of alcohol (more than a sip), cigarettes, marijuana, and other drugs.
 23-1	4200-4209	Beginning	_
 23-2	4210-4212	at	_
 23-3	4213-4216	age	_
@@ -769,6 +792,7 @@
 23-39	4405-4410	drugs	_
 23-40	4411-4412	.	_
 
+Text=If applicable, the age at which use occurred and the quantity/frequency of use was also recorded.
 24-1	4413-4415	If	_
 24-2	4416-4426	applicable	_
 24-3	4427-4428	,	_
@@ -788,6 +812,7 @@
 24-17	4502-4510	recorded	_
 24-18	4511-4512	.	_
 
+Text=At annual assessments beginning at age 11, the Drinking and Drug History Form for Children was used to assess the quantity and frequency of alcohol, nicotine, and illicit drug (i.e., marijuana and 17 other drugs, including inhalants and prescription drugs used non-medically) use.
 25-1	4513-4515	At	_
 25-2	4516-4522	annual	_
 25-3	4523-4534	assessments	_
@@ -840,6 +865,7 @@
 25-50	4796-4799	use	_
 25-51	4800-4801	.	_
 
+Text=Problems associated with alcohol and drug use, respectively (e.g., missed school because of drinking, had trouble getting along with friends because of drug use), were also assessed.
 26-1	4802-4810	Problems	_
 26-2	4811-4821	associated	_
 26-3	4822-4826	with	_
@@ -875,6 +901,7 @@
 26-33	4981-4989	assessed	_
 26-34	4990-4991	.	_
 
+Text=Previous research has shown that substance use initiation before the age of 16 confers a higher risk for later problems than does initiation in young adulthood.
 27-1	4992-5000	Previous	_
 27-2	5001-5009	research	_
 27-3	5010-5013	has	_
@@ -903,6 +930,7 @@
 27-26	5142-5151	adulthood	_
 27-27	5152-5153	.	_
 
+Text=Therefore, we used age 16 as the threshold for increased risk and selected participants from the ongoing longitudinal study for whom we had follow-up substance use data at age 16 or older (ensuring that all comparison participants were beyond the highest-risk window).
 28-1	5154-5163	Therefore	_
 28-2	5164-5165	,	_
 28-3	5166-5168	we	_
@@ -950,6 +978,7 @@
 28-45	5423-5424	)	_
 28-46	5425-5426	.	_
 
+Text=Participants also had to have a fMRI scan prior to any substance use in order to be included in the present analyses.
 29-1	5427-5439	Participants	_
 29-2	5440-5444	also	_
 29-3	5445-5448	had	_
@@ -974,6 +1003,7 @@
 29-22	5535-5543	analyses	_
 29-23	5544-5545	.	_
 
+Text=Of the 34 participants who met these criteria, 18 eventually initiated substance use (11 male; initiation group), whereas 16 did not (14 male; comparison group).
 30-1	5546-5548	Of	_
 30-2	5549-5552	the	_
 30-3	5553-5555	34	_
@@ -1009,6 +1039,7 @@
 30-33	5713-5714	)	_
 30-34	5715-5716	.	_
 
+Text=On average, those in the comparison group were 17.9 years old (SD 1.5) at the most recent substance use assessment, whereas those in the initiation group were 13.4 years old (SD 1.5) at substance use initiation.
 31-1	5717-5719	On	_
 31-2	5720-5727	average	_
 31-3	5728-5729	,	_
@@ -1053,6 +1084,7 @@
 31-42	5923-5933	initiation	_
 31-43	5934-5935	.	_
 
+Text=Other measures The Wechsler Intelligence Scale for Children (WISC-III) was used to assess full-scale IQ.
 32-1	5936-5941	Other	_
 32-2	5942-5950	measures	_
 32-3	5951-5954	The	_
@@ -1072,6 +1104,7 @@
 32-17	6039-6041	IQ	_
 32-18	6042-6043	.	_
 
+Text=Early externalizing behaviors (M = 7.4 years old, SD = 1.0) were assessed via parent-report with T-scores from the Child Behavior Checklist (CBCL).
 33-1	6044-6049	Early	_
 33-2	6050-6063	externalizing	_
 33-3	6064-6073	behaviors	_
@@ -1102,6 +1135,7 @@
 33-28	6194-6195	)	_
 33-29	6196-6197	.	_
 
+Text=For ADHD, conduct disorder, depression, and anxiety diagnoses (i.e., disorders that were not exclusionary during screening), the computerized Diagnostic Interview Schedule for Children (C-DISC) was given, and diagnoses were tallied based on DSM-IV criteria.
 34-1	6198-6201	For	_
 34-2	6202-6206	ADHD	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 34-3	6207-6208	,	_
@@ -1148,6 +1182,7 @@
 34-44	6456-6464	criteria	_
 34-45	6465-6466	.	_
 
+Text=Finally, FH was defined as the number of parents (0, 1, or 2) with a lifetime diagnosis of drug or alcohol abuse or dependence, according to DSM-IV criteria.
 35-1	6467-6474	Finally	_
 35-2	6475-6476	,	_
 35-3	6477-6479	FH	_
@@ -1184,6 +1219,7 @@
 35-34	6621-6629	criteria	_
 35-35	6630-6631	.	_
 
+Text=Stimuli and Task A modified MID task was used to probe the brain ’ s response to the anticipation of monetary incentive (i.e., gain and loss).
 36-1	6632-6639	Stimuli	_
 36-2	6640-6643	and	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 36-3	6644-6648	Task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -1215,6 +1251,7 @@
 36-29	6775-6776	)	_
 36-30	6777-6778	.	_
 
+Text=Each trial was 6-s long and consisted of 4 stimuli, presented consecutively: 1) 2000-ms incentive cue (“ Win $5.00, ” “ Win $0.20, ” “ Don ’ t Lose $5.00, ” “ Don ’ t Lose $0.20, ” or “ No Money at Stake ”), 2) 2000-ms anticipation fixation cross, 3) variable-duration response target (i.e., a solid black shape cuing a button press), and 4) variable-duration feedback (e.g., “ Correct Response.
 37-1	6779-6783	Each	_
 37-2	6784-6789	trial	_
 37-3	6790-6793	was	_
@@ -1312,6 +1349,7 @@
 37-95	7189-7197	Response	_
 37-96	7198-7199	.	_
 
+Text=You earn $5.00! ”).
 38-1	7200-7203	You	_
 38-2	7204-7208	earn	_
 38-3	7209-7210	$	_
@@ -1321,6 +1359,7 @@
 38-7	7220-7221	)	_
 38-8	7222-7223	.	_
 
+Text=There was no inter-trial interval.
 39-1	7224-7229	There	_
 39-2	7230-7233	was	_
 39-3	7234-7236	no	_
@@ -1328,6 +1367,7 @@
 39-5	7249-7257	interval	_
 39-6	7258-7259	.	_
 
+Text=Participants were instructed to press the button to the target; responding while the target was on the screen signified a successful trial (i.e., hit).
 40-1	7260-7272	Participants	_
 40-2	7273-7277	were	_
 40-3	7278-7288	instructed	_
@@ -1358,6 +1398,7 @@
 40-28	7413-7414	)	_
 40-29	7415-7416	.	_
 
+Text=Response target duration was calculated based on each participant ’ s reaction time during a practice session prior to scanning and recalibrated after the first run for an overall success rate of approximately 60%.
 41-1	7417-7425	Response	_
 41-2	7426-7432	target	_
 41-3	7433-7441	duration	_
@@ -1395,6 +1436,7 @@
 41-35	7630-7631	%	_
 41-36	7632-7633	.	_
 
+Text=Participants were also instructed to respond to neutral targets (i.e., “ No Money at Stake ”) despite no incentive value.
 42-1	7634-7646	Participants	_
 42-2	7647-7651	were	_
 42-3	7652-7656	also	_
@@ -1420,6 +1462,7 @@
 42-23	7752-7757	value	_
 42-24	7758-7759	.	_
 
+Text=Trials were presented in pseudorandom order in two 5-minute runs of 20 gain trials, 20 loss trials, and 10-neutral trials per run.
 43-1	7760-7766	Trials	_
 43-2	7767-7771	were	_
 43-3	7772-7781	presented	_
@@ -1446,6 +1489,7 @@
 43-24	7888-7891	run	_
 43-25	7892-7893	.	_
 
+Text=Participants were paid money won during the task.
 44-1	7894-7906	Participants	_
 44-2	7907-7911	were	_
 44-3	7912-7916	paid	_
@@ -1456,6 +1500,7 @@
 44-8	7938-7942	task	_
 44-9	7943-7944	.	_
 
+Text=fMRI Data Acquisition Whole-brain BOLD, functional images were acquired on a 3.0T GE MR750 scanner (Milwaukee, WI) using T2 * -weighted single-shot combined spiral in/out sequences (TR 2000 ms, TE 30 ms, flip angle 90 degrees, field-of-view 200 mm, matrix size 64 × 64, slice thickness 4 mm, in-plane resolution 3.12 × 3.12 mm, 29 slices).
 45-1	7945-7949	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 45-2	7950-7954	Data	_
 45-3	7955-7966	Acquisition	_
@@ -1527,6 +1572,7 @@
 45-69	8295-8296	)	_
 45-70	8297-8298	.	_
 
+Text=High-resolution anatomical T1 scans were also obtained for spatial normalization (TR 12.2 ms, TE 5.2 ms, flip angle 15 degrees, field-of-view 26 mm, matrix size 256 × 192, slice thickness 1.2 mm, in-plane resolution 1.02 × 1.08 mm, 124 slices).
 46-1	8299-8314	High-resolution	_
 46-2	8315-8325	anatomical	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 46-3	8326-8328	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1578,6 +1624,7 @@
 46-49	8550-8551	)	_
 46-50	8552-8553	.	_
 
+Text=Motion was minimized with foam padding around the head and instructing participants on the importance of keeping still.
 47-1	8554-8560	Motion	_
 47-2	8561-8564	was	_
 47-3	8565-8574	minimized	_
@@ -1598,6 +1645,7 @@
 47-18	8667-8672	still	_
 47-19	8673-8674	.	_
 
+Text=Data processing and analytic strategy Preprocessing Functional images were reconstructed using an iterative algorithm and motion corrected using FSL v5.0.2.2 (FMRIB, Oxford, UK).
 48-1	8675-8679	Data	_
 48-2	8680-8690	processing	_
 48-3	8691-8694	and	_
@@ -1627,6 +1675,7 @@
 48-27	8855-8856	)	_
 48-28	8857-8858	.	_
 
+Text=Runs exceeding 3 mm translation or 3° rotation were excluded.
 49-1	8859-8863	Runs	_
 49-2	8864-8873	exceeding	_
 49-3	8874-8875	3	_
@@ -1639,6 +1688,7 @@
 49-10	8911-8919	excluded	_
 49-11	8920-8921	.	_
 
+Text=The difference between initiation and comparison groups on the number of runs excluded was not significant: initiation = 16.7%, comparison = 15.6%, t (32) = 0.13, p = .901.
 50-1	8922-8925	The	_
 50-2	8926-8936	difference	_
 50-3	8937-8944	between	_
@@ -1678,6 +1728,7 @@
 50-37	9097-9101	.901	_
 50-38	9102-9103	.	_
 
+Text=Image preprocessing was completed using Statistical Parametric Mapping (SPM8; Wellcome Institute of Cognitive Neurology, Oxford, UK).
 51-1	9104-9109	Image	_
 51-2	9110-9123	preprocessing	_
 51-3	9124-9127	was	_
@@ -1701,6 +1752,7 @@
 51-21	9240-9241	)	_
 51-22	9242-9243	.	_
 
+Text=Functional images were slice-time corrected, spatially normalized to the Montreal Neurological Institute (MNI) template using SPM8 defaults, and smoothed with a 6-mm full-width at half-maximum (FWHM) smoothing kernel.
 52-1	9244-9254	Functional	_
 52-2	9255-9261	images	_
 52-3	9262-9266	were	_
@@ -1737,6 +1789,7 @@
 52-34	9460-9466	kernel	_
 52-35	9467-9468	.	_
 
+Text=Low-frequency noise was removed with a high-pass filter (128 sec).
 53-1	9469-9482	Low-frequency	_
 53-2	9483-9488	noise	_
 53-3	9489-9492	was	_
@@ -1751,6 +1804,7 @@
 53-12	9535-9536	)	_
 53-13	9537-9538	.	_
 
+Text=Individual-level analyses Image processing was done in SPM8, and individual-level analyses were carried out using the general linear model.
 54-1	9539-9555	Individual-level	_
 54-2	9556-9564	analyses	_
 54-3	9565-9570	Image	_
@@ -1773,6 +1827,7 @@
 54-20	9673-9678	model	_
 54-21	9679-9680	.	_
 
+Text=Two general events were modeled: 1) incentive cue + anticipation fixation, and 2) response target + feedback.
 55-1	9681-9684	Two	_
 55-2	9685-9692	general	_
 55-3	9693-9699	events	_
@@ -1796,6 +1851,7 @@
 55-21	9785-9793	feedback	_
 55-22	9794-9795	.	_
 
+Text=The incentive cue + anticipation fixation event was modeled separately for each cue type: large gain, small gain, large loss, small loss, and neutral.
 56-1	9796-9799	The	_
 56-2	9800-9809	incentive	_
 56-3	9810-9813	cue	_
@@ -1827,6 +1883,7 @@
 56-29	9943-9950	neutral	_
 56-30	9951-9952	.	_
 
+Text=The response + feedback event was modeled separately for each cue (except neutral) and feedback type: positive (i.e., hit) and negative (i.e., miss) for each of large gain, small gain, large loss, and small loss.
 57-1	9953-9956	The	_
 57-2	9957-9965	response	_
 57-3	9966-9967	+	_
@@ -1876,6 +1933,7 @@
 57-47	10172-10176	loss	_
 57-48	10177-10178	.	_
 
+Text=These were convolved with the standard hemodynamic response function, along with six realignment parameters and white matter signal intensity as nuisance variables.
 58-1	10179-10184	These	_
 58-2	10185-10189	were	_
 58-3	10190-10199	convolved	_
@@ -1901,6 +1959,7 @@
 58-23	10334-10343	variables	_
 58-24	10344-10345	.	_
 
+Text=Owing to our focus in this study on NAcc activation during the anticipation of gaining and losing money, NAcc spherical anatomical masks of 5 mm in diameter and centered on the Montreal Neurological Institute coordinates of [x = −10, y = 13, z = −8] and [x = 10, y = 13, z = −8] were used to extract mean parameter estimates with MarsBaR for two contrasts of interest: large gain anticipation vs. neutral anticipation (i.e., Win $5.00 vs. No Money at Stake) and large loss anticipation vs. neutral anticipation (i.e., Don ’ t Lose $5.00 vs. No Money at Stake).
 59-1	10346-10351	Owing	_
 59-2	10352-10354	to	_
 59-3	10355-10358	our	_
@@ -2022,6 +2081,7 @@
 59-119	10922-10923	)	_
 59-120	10924-10925	.	_
 
+Text=This task was originally developed with different incentive values so that the parametric effect of different monetary amounts could be investigated.
 60-1	10926-10930	This	_
 60-2	10931-10935	task	_
 60-3	10936-10939	was	_
@@ -2045,6 +2105,7 @@
 60-21	11062-11074	investigated	_
 60-22	11075-11076	.	_
 
+Text=Our interest here was in the function of reward processing overall rather than the difference between large and small incentives, and previous work has found that large incentives elicit a more robust signal than do small incentives.
 61-1	11077-11080	Our	_
 61-2	11081-11089	interest	_
 61-3	11090-11094	here	_
@@ -2085,6 +2146,7 @@
 61-38	11300-11310	incentives	_
 61-39	11311-11312	.	_
 
+Text=Thus, we focused on large gain and loss for the present analyses.
 62-1	11313-11317	Thus	_
 62-2	11318-11319	,	_
 62-3	11320-11322	we	_
@@ -2100,6 +2162,7 @@
 62-13	11370-11378	analyses	_
 62-14	11379-11380	.	_
 
+Text=After extraction, comparisons of the left and right NAcc using paired samples t-tests (large gain: t (33) =0.94, p=.353; large loss: t (33) =0.09, p=.928) and correlational analyses (large gain: r=.84, p <.001; large loss: r=.73, p <.001) indicated that a single averaged left/right NAcc variable for each of the two contrasts of interest could be used.
 63-1	11381-11386	After	_
 63-2	11387-11397	extraction	_
 63-3	11398-11399	,	_
@@ -2180,6 +2243,7 @@
 63-78	11750-11754	used	_
 63-79	11755-11756	.	_
 
+Text=Prediction of substance use initiation using logistic regression Hierarchical logistic regression was used to test the predictive utility of substance use risk factors on the initiation of substance use by age 16.
 64-1	11757-11767	Prediction	_
 64-2	11768-11770	of	_
 64-3	11771-11780	substance	_
@@ -2214,6 +2278,7 @@
 64-32	11967-11969	16	_
 64-33	11970-11971	.	_
 
+Text=Group membership (initiation or comparison) was the dependent variable.
 65-1	11972-11977	Group	_
 65-2	11978-11988	membership	_
 65-3	11989-11990	(	_
@@ -2227,6 +2292,7 @@
 65-11	12036-12044	variable	_
 65-12	12045-12046	.	_
 
+Text=Phenotypic variables (externalizing behaviors [continuous variable] and FH [i.e., 0, 1, or 2 parents]) were entered as predictors in the first block (restricted model).
 66-1	12047-12057	Phenotypic	_
 66-2	12058-12067	variables	_
 66-3	12068-12069	(	_
@@ -2264,6 +2330,7 @@
 66-35	12224-12225	)	_
 66-36	12226-12227	.	_
 
+Text=NAcc variables (large gain anticipation and large loss anticipation [continuous variables]) were added in the second block (full model).
 67-1	12228-12232	NAcc	_
 67-2	12233-12242	variables	_
 67-3	12243-12244	(	_
@@ -2291,6 +2358,7 @@
 67-25	12368-12369	)	_
 67-26	12370-12371	.	_
 
+Text=No other covariates were included in either block.
 68-1	12372-12374	No	_
 68-2	12375-12380	other	_
 68-3	12381-12391	covariates	_
@@ -2301,6 +2369,7 @@
 68-8	12416-12421	block	_
 68-9	12422-12423	.	_
 
+Text=Model comparison was performed using a likelihood ratio test to determine whether the full model (i.e., phenotypic and NAcc variables) showed a significantly better fit than the restricted model (i.e., phenotypic variables alone).
 69-1	12424-12429	Model	_
 69-2	12430-12440	comparison	_
 69-3	12441-12444	was	_
@@ -2342,6 +2411,7 @@
 69-39	12658-12659	)	_
 69-40	12660-12661	.	_
 
+Text=In addition, beta coefficients were individually tested for significance.
 70-1	12662-12664	In	_
 70-2	12665-12673	addition	_
 70-3	12674-12675	,	_
@@ -2354,6 +2424,7 @@
 70-10	12723-12735	significance	_
 70-11	12736-12737	.	_
 
+Text=Alpha was set at .05 for both of these analyses.
 71-1	12738-12743	Alpha	_
 71-2	12744-12747	was	_
 71-3	12748-12751	set	_
@@ -2366,6 +2437,7 @@
 71-10	12777-12785	analyses	_
 71-11	12786-12787	.	_
 
+Text=Demographic, Psychometric, and Task Performance Measures Independent samples t-tests or Fisher ’ s exact tests were used to evaluate differences between initiation and comparison groups on demographic, psychometric, and task performance measures.
 72-1	12788-12799	Demographic	_
 72-2	12800-12801	,	_
 72-3	12802-12814	Psychometric	_

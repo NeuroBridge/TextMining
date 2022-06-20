@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Functional connectivity of the striatum in schizophrenia and psychotic bipolar disorder Background: The striatum is abnormal in schizophrenia, and possibly represents a common neurobiological mechanism underlying psychotic disorders.
 1-1	0-10	Functional	_
 1-2	11-23	connectivity	_
 1-3	24-26	of	_
@@ -34,6 +35,7 @@
 1-30	225-234	disorders	_
 1-31	235-236	.	_
 
+Text=Resting-state fMRI (RS-fMRI) studies have not reached a consensus regarding striatal dysconnectivity in schizophrenia, although these studies generally find impaired fronto-parietal and salience network connectivity.
 2-1	237-250	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 2-2	251-255	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 2-3	256-257	(	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -64,6 +66,7 @@
 2-28	443-455	connectivity	_
 2-29	456-457	.	_
 
+Text=The goal of the current study was to clarify the pattern of cortico-striatal connectivity, including whether cortico-striatal dysconnectivity is transdiagnostic and extends into psychotic bipolar disorder.
 3-1	458-461	The	_
 3-2	462-466	goal	_
 3-3	467-469	of	_
@@ -93,6 +96,7 @@
 3-27	655-663	disorder	_
 3-28	664-665	.	_
 
+Text=Methods: We examined cortico-striatal functional connectivity in 60 healthy subjects and 117 individuals with psychosis, including 77 with a schizophrenia spectrum illness and 40 with psychotic bipolar disorder.
 4-1	666-673	Methods	_
 4-2	674-675	:	_
 4-3	676-678	We	_
@@ -125,6 +129,7 @@
 4-30	870-878	disorder	http://maven.renci.org/NeuroBridge/neurobridge#MovementDisorder
 4-31	879-880	.	_
 
+Text=We conducted both a cortical seed-based region-of-interest (ROI) analysis with follow-up voxel-wise analysis for any significant results.
 5-1	881-883	We	_
 5-2	884-893	conducted	_
 5-3	894-898	both	_
@@ -146,6 +151,7 @@
 5-19	1012-1019	results	_
 5-20	1020-1021	.	_
 
+Text=Further, a striatum seed-based analysis was conducted to examine group differences in connectivity between the striatum and the whole cortex.
 6-1	1022-1029	Further	_
 6-2	1030-1031	,	_
 6-3	1032-1033	a	_
@@ -169,6 +175,7 @@
 6-21	1157-1163	cortex	_
 6-22	1164-1165	.	_
 
+Text=Results: Cortical ROI analysis indicated that overall connectivity of the salience network with the striatum was reduced in psychotic disorders, which follow-up voxel-wise analysis localized to the left putamen.
 7-1	1166-1173	Results	_
 7-2	1174-1175	:	_
 7-3	1176-1184	Cortical	_
@@ -202,6 +209,7 @@
 7-31	1371-1378	putamen	_
 7-32	1379-1380	.	_
 
+Text=Striatum seed-based analyses showed reduced ventral rostral putamen connectivity with the salience network portion of the medial PFC in both schizophrenia and psychotic bipolar disorders.
 8-1	1381-1389	Striatum	_
 8-2	1390-1400	seed-based	_
 8-3	1401-1409	analyses	_
@@ -229,6 +237,7 @@
 8-25	1558-1567	disorders	_
 8-26	1568-1569	.	_
 
+Text=Conclusions: The current study found evidence of transdiagnostic cortico-striatal dysconnectivity in both schizophrenia and psychotic bipolar disorder, including reduced salience network connectivity, as well as reduced connectivity between the putamen and the medial PFC.
 9-1	1570-1581	Conclusions	_
 9-2	1582-1583	:	_
 9-3	1584-1587	The	_
@@ -268,6 +277,7 @@
 9-37	1841-1844	PFC	_
 9-38	1845-1846	.	_
 
+Text=Overall, the current study points to the relative importance of salience network hypo-connectivity in psychotic disorders.
 10-1	1847-1854	Overall	_
 10-2	1855-1856	,	_
 10-3	1857-1860	the	_
@@ -287,6 +297,7 @@
 10-17	1960-1969	disorders	_
 10-18	1970-1971	.	_
 
+Text=METHODS Study Participants 193 individuals (61 healthy subjects, 132 individuals with a psychotic disorder) that participated in an on-going NIMH-funded study on brain connectivity in psychotic disorders were initially screened for inclusion in this investigation.
 11-1	1972-1979	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 11-2	1980-1985	Study	_
 11-3	1986-1998	Participants	_
@@ -327,6 +338,7 @@
 11-38	2225-2238	investigation	_
 11-39	2239-2240	.	_
 
+Text=16 participants did not meet our neuroimaging quality assurance (QA) procedures described below.
 12-1	2241-2243	16	_
 12-2	2244-2256	participants	_
 12-3	2257-2260	did	_
@@ -344,6 +356,7 @@
 12-15	2333-2338	below	_
 12-16	2339-2340	.	_
 
+Text=Thus, the final cohort consisted of 177 study participants: 60 healthy individuals, 77 individuals with a schizophrenia spectrum illness (i.e.
 13-1	2341-2345	Thus	_
 13-2	2346-2347	,	_
 13-3	2348-2351	the	_
@@ -370,6 +383,7 @@
 13-24	2483-2486	i.e	_
 13-25	2487-2488	.	_
 
+Text=schizophrenia, schizoaffective, and schizophreniform disorder), and 40 individuals with bipolar disorder with psychotic features (i.e.
 14-1	2489-2502	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-2	2503-2504	,	_
 14-3	2505-2520	schizoaffective	http://maven.renci.org/NeuroBridge/neurobridge#BipolarTypeSchizoaffectiveDisorder
@@ -392,12 +406,14 @@
 14-20	2624-2627	i.e	_
 14-21	2628-2629	.	_
 
+Text=psychotic bipolar disorder).
 15-1	2630-2639	psychotic	_
 15-2	2640-2647	bipolar	_
 15-3	2648-2656	disorder	_
 15-4	2657-2658	)	_
 15-5	2659-2660	.	_
 
+Text=Demographic data are presented in Table 1.
 16-1	2661-2672	Demographic	_
 16-2	2673-2677	data	_
 16-3	2678-2681	are	_
@@ -407,6 +423,7 @@
 16-7	2701-2702	1	_
 16-8	2703-2704	.	_
 
+Text=Patients were recruited through the Psychotic Disorders Program within the Department of Psychiatry and Behavioral Sciences at Vanderbilt University Medical Center (VUMC).
 17-1	2705-2713	Patients	_
 17-2	2714-2718	were	_
 17-3	2719-2728	recruited	_
@@ -433,6 +450,7 @@
 17-24	2876-2877	)	_
 17-25	2878-2879	.	_
 
+Text=Healthy individuals were recruited from Nashville and surrounding area via advertisement and word-of-mouth.
 18-1	2880-2887	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 18-2	2888-2899	individuals	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 18-3	2900-2904	were	_
@@ -448,6 +466,7 @@
 18-13	2973-2986	word-of-mouth	_
 18-14	2987-2988	.	_
 
+Text=This study was approved by the Vanderbilt University Institutional Review Board.
 19-1	2989-2993	This	_
 19-2	2994-2999	study	_
 19-3	3000-3003	was	_
@@ -461,6 +480,7 @@
 19-11	3063-3068	Board	_
 19-12	3069-3070	.	_
 
+Text=All study participants provided written informed consent prior to participating.
 20-1	3071-3074	All	_
 20-2	3075-3080	study	_
 20-3	3081-3093	participants	_
@@ -473,6 +493,7 @@
 20-10	3137-3150	participating	_
 20-11	3151-3152	.	_
 
+Text=Psychiatric diagnoses were confirmed in patients and ruled out in healthy subjects using the Structured Clinical Interview for Diagnosing DSM-IV Disorders (SCID).
 21-1	3153-3164	Psychiatric	_
 21-2	3165-3174	diagnoses	_
 21-3	3175-3179	were	_
@@ -499,6 +520,7 @@
 21-24	3315-3316	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 21-25	3317-3318	.	_
 
+Text=Patients were further assessed with the Positive and Negative Syndrome Scale (PANSS), Young Mania Rating Scale (YMRS), and Hamilton Depression Scale (HAM-D) to quantify severity of psychotic, mania, and depression symptoms, respectively.
 22-1	3319-3327	Patients	_
 22-2	3328-3332	were	_
 22-3	3333-3340	further	_
@@ -544,6 +566,7 @@
 22-43	3554-3566	respectively	_
 22-44	3567-3568	.	_
 
+Text=The Wechsler Test of Adult Reading (WTAR) was administered to all subjects to provide an estimate of pre-morbid intellect.
 23-1	3569-3572	The	_
 23-2	3573-3581	Wechsler	http://maven.renci.org/NeuroBridge/neurobridge#NationalAdultReadingTest
 23-3	3582-3586	Test	http://maven.renci.org/NeuroBridge/neurobridge#NationalAdultReadingTest
@@ -567,6 +590,7 @@
 23-21	3683-3692	intellect	_
 23-22	3693-3694	.	_
 
+Text=Study participants also completed the Screen for Cognitive Impairment in Psychiatry (SCIP), a brief neuropsychological battery that includes a word list learning test of verbal memory, a version of the Auditory Consonant Trigrams test of working memory, phonemic verbal fluency, and a coding test of processing speed.
 24-1	3695-3700	Study	_
 24-2	3701-3713	participants	_
 24-3	3714-3718	also	_
@@ -622,6 +646,7 @@
 24-53	4012-4017	speed	_
 24-54	4018-4019	.	_
 
+Text=SCIP sub-test raw scores were converted to z-scores using previously published normative data and averaged to create a “ composite ” z-score of overall cognitive functioning.
 25-1	4020-4024	SCIP	_
 25-2	4025-4033	sub-test	_
 25-3	4034-4037	raw	_
@@ -650,6 +675,7 @@
 25-26	4182-4193	functioning	_
 25-27	4194-4195	.	_
 
+Text=Exclusion criteria included age less than 16 or greater than 55; estimated pre-morbid IQ less than 70; presence of a medical illness or central nervous system disorder (e.g.
 26-1	4196-4205	Exclusion	_
 26-2	4206-4214	criteria	_
 26-3	4215-4223	included	_
@@ -683,6 +709,7 @@
 26-31	4368-4371	e.g	_
 26-32	4372-4373	.	_
 
+Text=multiple sclerosis, epilepsy) that would affect study results; reported pregnancy or lactation; history of significant head trauma; psychotropic drug use (healthy subjects only); substance abuse within last three months (patients) or lifetime history of substance abuse/dependence (healthy subjects); and MRI contra-indicators (e.g.
 27-1	4374-4382	multiple	_
 27-2	4383-4392	sclerosis	_
 27-3	4393-4394	,	_
@@ -741,6 +768,7 @@
 27-56	4716-4719	e.g	_
 27-57	4720-4721	.	_
 
+Text=metal implants, claustrophobia).
 28-1	4722-4727	metal	_
 28-2	4728-4736	implants	_
 28-3	4737-4738	,	_
@@ -748,6 +776,7 @@
 28-5	4754-4755	)	_
 28-6	4756-4757	.	_
 
+Text=Neuroimaging Data Acquisition, Preprocessing, and Quality Assurance A 10-minute resting-state (eyes open, fixation) echo planar imaging functional scan and T1-weigthed anatomical scan were collected on each subject during a single scanning session on a 3T Philips Intera Achieva MRI scanner located at Vanderbilt University Institute of Imaging Sciences (VUIIS).
 29-1	4758-4770	Neuroimaging	_
 29-2	4771-4775	Data	_
 29-3	4776-4787	Acquisition	_
@@ -806,6 +835,7 @@
 29-56	5125-5126	)	_
 29-57	5127-5128	.	_
 
+Text=The resting-state fMRI scan had the following parameters: 38 axial slices (slice thickness=3.0 mm; gap=0.3 mm), field of view (FOV) =80×80 matrix (3.0 mm×3.0 mm in-plane resolution), 90-degree flip angle, 300 volumes, TR/TE=2000/25 ms. A high resolution T1-weighted turbo field echo (TFE) structural scan (170 sagital slices, FOV=256×256 matrix, 1.0 mm isovoxel resolution, TR/TE=8.9/4.6 ms) was also acquired.
 30-1	5129-5132	The	_
 30-2	5133-5146	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 30-3	5147-5151	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -885,6 +915,7 @@
 30-77	5549-5557	acquired	_
 30-78	5558-5559	.	_
 
+Text=T1-weighted anatomical images were segmented into grey matter, white matter, and CSF using the Voxel-based Morphometry, version 8 toolbox (VBM8; http: //dbm.neuro.uni-jena.de/vbm/) for Statistical Parametric Mapping version 12 (SPM12: https: //www.fil.ion.ucl.ac.uk/spm/).
 31-1	5560-5571	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 31-2	5572-5582	anatomical	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 31-3	5583-5589	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -929,6 +960,7 @@
 31-42	5841-5842	)	_
 31-43	5843-5844	.	_
 
+Text=Following segmentation, each tissue class was spatially warped to an MNI-space template image comprised of 550 subjects included with the VBM8 toolbox (http: //dbm.neuro.uni-jena.de.libproxy.wustl.edu/vbm/) using the high dimensional DARTEL normalization method.
 32-1	5845-5854	Following	_
 32-2	5855-5867	segmentation	_
 32-3	5868-5869	,	_
@@ -966,6 +998,7 @@
 32-35	6104-6110	method	_
 32-36	6111-6112	.	_
 
+Text=Functional resting-state scans were slice-time corrected, motion corrected, co-registered to native space structural data, and normalized to MNI space using DARTEL deformation fields obtained from spatially normalizing the T1-weighted anatomical images.
 33-1	6113-6123	Functional	_
 33-2	6124-6137	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 33-3	6138-6143	scans	_
@@ -1002,6 +1035,7 @@
 33-34	6362-6368	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 33-35	6369-6370	.	_
 
+Text=All resting state data underwent quality assurance (QA) using an automated QA pipeline that calculated median voxel displacement, median temporal signal-to-noise ratio (SNR), and 95th percentile signal change.
 34-1	6371-6374	All	_
 34-2	6375-6382	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 34-3	6383-6388	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1038,6 +1072,7 @@
 34-34	6579-6585	change	_
 34-35	6586-6587	.	_
 
+Text=Scans with log SNR and log median voxel displacement above the 95th percentile of the distribution of the entire dataset were excluded from the analysis, leaving (as previously mentioned) n=177 subjects passing these criteria.
 35-1	6588-6593	Scans	_
 35-2	6594-6598	with	_
 35-3	6599-6602	log	_
@@ -1077,6 +1112,7 @@
 35-37	6808-6816	criteria	_
 35-38	6817-6818	.	_
 
+Text=Diagnostic groups did not differ on median signal-to-noise ratio (F (2,174) =0.51, p=.60), median voxel displacement (F (2,174) =0.33, p=.72), and 95th percentile signal change (F (2,174) =1.24, p=.29).
 36-1	6819-6829	Diagnostic	_
 36-2	6830-6836	groups	_
 36-3	6837-6840	did	_
@@ -1125,6 +1161,7 @@
 36-46	7036-7037	)	_
 36-47	7038-7039	.	_
 
+Text=Functional Connectivity Analysis Prior striatal functional connectivity studies in psychosis used either cortical seeds to examine connectivity of cortical areas with the striatum (i.e.
 37-1	7040-7050	Functional	_
 37-2	7051-7063	Connectivity	_
 37-3	7064-7072	Analysis	_
@@ -1152,6 +1189,7 @@
 37-25	7222-7225	i.e	_
 37-26	7226-7227	.	_
 
+Text=cortex seed-based analysis), or striatal seeds to examine connectivity of striatal sub-regions with the rest of the brain (i.e.
 38-1	7228-7234	cortex	_
 38-2	7235-7245	seed-based	_
 38-3	7246-7254	analysis	_
@@ -1176,12 +1214,14 @@
 38-22	7354-7357	i.e	_
 38-23	7358-7359	.	_
 
+Text=striatum seed-based analysis).
 39-1	7360-7368	striatum	_
 39-2	7369-7379	seed-based	_
 39-3	7380-7388	analysis	_
 39-4	7389-7390	)	_
 39-5	7391-7392	.	_
 
+Text=We used both approaches to comprehensively map functional connectivity of the striatum and facilitate comparison of our results to prior studies.
 40-1	7393-7395	We	_
 40-2	7396-7400	used	_
 40-3	7401-7405	both	_
@@ -1205,6 +1245,7 @@
 40-21	7530-7537	studies	_
 40-22	7538-7539	.	_
 
+Text=Each approach is described in detail below.
 41-1	7540-7544	Each	_
 41-2	7545-7553	approach	_
 41-3	7554-7556	is	_
@@ -1214,6 +1255,7 @@
 41-7	7577-7582	below	_
 41-8	7583-7584	.	_
 
+Text=Functional connectivity maps of cortex and striatum seeds were generated using the CONN-fMRI toolbox v.17.f (http: //www.nitrc.org/projects/conn).
 42-1	7585-7595	Functional	_
 42-2	7596-7608	connectivity	_
 42-3	7609-7613	maps	_
@@ -1236,6 +1278,7 @@
 42-20	7732-7733	)	_
 42-21	7734-7735	.	_
 
+Text=The mean BOLD time series was extracted from seeds and entered as a predictor in a multiple regression general linear model (GLM).
 43-1	7736-7739	The	_
 43-2	7740-7744	mean	_
 43-3	7745-7749	BOLD	_
@@ -1262,6 +1305,7 @@
 43-24	7866-7867	)	_
 43-25	7868-7869	.	_
 
+Text=Regressors corresponding to the 6 motion correction parameters and their first temporal derivatives, along with grey matter, white matter, and CSF were included to remove variance related to head motion, the global grey matter signal, white matter, and CSF, respectively.
 44-1	7870-7880	Regressors	_
 44-2	7881-7894	corresponding	_
 44-3	7895-7897	to	_
@@ -1311,6 +1355,7 @@
 44-47	8135-8147	respectively	_
 44-48	8148-8149	.	_
 
+Text=In addition to 12 nuisance regressors related to motion (6 translations/rotations and their temporal first derivatives), the first 6 principal components were extracted from each subject ’ s white matter and CSF segmentations (i.e.
 45-1	8150-8152	In	_
 45-2	8153-8161	addition	_
 45-3	8162-8164	to	_
@@ -1351,11 +1396,13 @@
 45-38	8381-8384	i.e	_
 45-39	8385-8386	.	_
 
+Text=anatomical CompCor).
 46-1	8387-8397	anatomical	_
 46-2	8398-8405	CompCor	_
 46-3	8406-8407	)	_
 46-4	8408-8409	.	_
 
+Text=Anatomical CompCor has been shown to be at least as effective as another commonly used approach, the “ scrubbing ” procedure described by Power et al., at mitigating the residual effects of head motion on functional connectivity.
 47-1	8410-8420	Anatomical	_
 47-2	8421-8428	CompCor	_
 47-3	8429-8432	has	_
@@ -1397,6 +1444,7 @@
 47-39	8628-8640	connectivity	_
 47-40	8641-8642	.	_
 
+Text=Motion correction parameters were regressed out prior to temporal band-pass filtering.
 48-1	8643-8649	Motion	_
 48-2	8650-8660	correction	_
 48-3	8661-8671	parameters	_
@@ -1410,6 +1458,7 @@
 48-11	8719-8728	filtering	_
 48-12	8729-8730	.	_
 
+Text=Performing these steps in reverse order (i.e.
 49-1	8731-8741	Performing	_
 49-2	8742-8747	these	_
 49-3	8748-8753	steps	_
@@ -1420,6 +1469,7 @@
 49-8	8773-8776	i.e	_
 49-9	8777-8778	.	_
 
+Text=band-pass filtering before nuisance regression) re-introduces nuisance related variation thereby overestimating connectivity estimates and exacerbating the effects of head motion.
 50-1	8779-8788	band-pass	_
 50-2	8789-8798	filtering	_
 50-3	8799-8805	before	_
@@ -1443,6 +1493,7 @@
 50-21	8952-8958	motion	_
 50-22	8959-8960	.	_
 
+Text=In addition, a mask was created for each subject ’ s mean fMRI image to identify in-brain voxels (i.e., an in-brain mask) and exclude voxels with low SNR.
 51-1	8961-8963	In	_
 51-2	8964-8972	addition	_
 51-3	8973-8974	,	_
@@ -1477,6 +1528,7 @@
 51-32	9115-9118	SNR	_
 51-33	9119-9120	.	_
 
+Text=Briefly, after rescaling and standardizing each subject ’ s voxel intensity, the mean voxel intensity for all 177 subjects was calculated, and a threshold was identified using the SPM12 ’ s antimode function to estimate a brain-nonbrain threshold.
 52-1	9121-9128	Briefly	_
 52-2	9129-9130	,	_
 52-3	9131-9136	after	_
@@ -1520,6 +1572,7 @@
 52-41	9361-9370	threshold	_
 52-42	9371-9372	.	_
 
+Text=Any voxels that did not meet this in-brain threshold were removed, after applying the mask to MNI space.
 53-1	9373-9376	Any	_
 53-2	9377-9383	voxels	_
 53-3	9384-9388	that	_
@@ -1541,6 +1594,7 @@
 53-19	9472-9477	space	_
 53-20	9478-9479	.	_
 
+Text=This mask was used in all cortical analyses in to remove non-brain and low SNR voxels from the analyses.
 54-1	9480-9484	This	_
 54-2	9485-9489	mask	_
 54-3	9490-9493	was	_
@@ -1562,6 +1616,7 @@
 54-19	9575-9583	analyses	_
 54-20	9584-9585	.	_
 
+Text=Cortex Seed-based Analysis The 7-network cortical parcellation identified by Yeo et al.
 55-1	9586-9592	Cortex	_
 55-2	9593-9603	Seed-based	_
 55-3	9604-9612	Analysis	_
@@ -1576,6 +1631,7 @@
 55-12	9670-9672	al	_
 55-13	9673-9674	.	_
 
+Text=was used to define seeds for the cortical seed-based analysis (see Figure 1a).
 56-1	9675-9678	was	_
 56-2	9679-9683	used	_
 56-3	9684-9686	to	_
@@ -1593,6 +1649,7 @@
 56-15	9753-9754	)	_
 56-16	9755-9756	.	_
 
+Text=Briefly, the Yeo 7-network cortical parcellation is comprised of the default mode (DMN), fronto-parietal (FPN), salience (SAL), limbic (LN), sensorimotor (SMN), dorsal attention (DAN), and visual (VN) networks.
 57-1	9757-9764	Briefly	_
 57-2	9765-9766	,	_
 57-3	9767-9770	the	_
@@ -1644,6 +1701,7 @@
 57-49	9979-9987	networks	_
 57-50	9988-9989	.	_
 
+Text=Functional connectivity maps were generated for each of the Yeo networks, except the DAN and VN which have minimal functional connectivity with the striatum.
 58-1	9990-10000	Functional	_
 58-2	10001-10013	connectivity	_
 58-3	10014-10018	maps	_
@@ -1671,6 +1729,7 @@
 58-25	10139-10147	striatum	_
 58-26	10148-10149	.	_
 
+Text=The functional connectivity maps were masked to only include voxels in the striatum.
 59-1	10150-10153	The	_
 59-2	10154-10164	functional	_
 59-3	10165-10177	connectivity	_
@@ -1686,6 +1745,7 @@
 59-13	10225-10233	striatum	_
 59-14	10234-10235	.	_
 
+Text=To maximize statistical power, we first performed a region-of-interest (ROI) analysis that generated a single value approximating overall functional connectivity of each cortical seed with the striatum.
 60-1	10236-10238	To	_
 60-2	10239-10247	maximize	_
 60-3	10248-10259	statistical	_
@@ -1718,6 +1778,7 @@
 60-30	10432-10440	striatum	_
 60-31	10441-10442	.	_
 
+Text=Specifically, the unsmoothed cortical seed-based connectivity maps were entered into separate one-sample voxel-wise t-tests to identify voxels in the striatum exhibiting positive functional connectivity with each cortical seed.
 61-1	10443-10455	Specifically	_
 61-2	10456-10457	,	_
 61-3	10458-10461	the	_
@@ -1749,6 +1810,7 @@
 61-29	10666-10670	seed	_
 61-30	10671-10672	.	_
 
+Text=This analysis included the entire cohort of study participants, including healthy subjects and individuals with a psychotic disorder.
 62-1	10673-10677	This	_
 62-2	10678-10686	analysis	_
 62-3	10687-10695	included	_
@@ -1770,6 +1832,7 @@
 62-19	10798-10806	disorder	_
 62-20	10807-10808	.	_
 
+Text=The resultant statistical parametric maps (SPM) were thresholded at voxel-wise family-wise error (FWE) corrected p=.05, minimum cluster size=10 voxels, and the ‘ eigenvariate ’ function in SPM12 was used to extract the first principal component from the voxels that survived thresholding.
 63-1	10809-10812	The	_
 63-2	10813-10822	resultant	_
 63-3	10823-10834	statistical	_
@@ -1819,6 +1882,7 @@
 63-47	11090-11102	thresholding	_
 63-48	11103-11104	.	_
 
+Text=This yielded a single measure of functional connectivity with the striatum for each cortical seed for each subject.
 64-1	11105-11109	This	_
 64-2	11110-11117	yielded	_
 64-3	11118-11119	a	_
@@ -1839,6 +1903,7 @@
 64-18	11212-11219	subject	_
 64-19	11220-11221	.	_
 
+Text=These measures served as dependent variables in a repeated measures ANCOVA with network entered as a repeating variable and diagnostic group (healthy controls, schizophrenia, psychotic bipolar disorder) entered as a between-subjects factor along with age and sex as covariates.
 65-1	11222-11227	These	_
 65-2	11228-11236	measures	_
 65-3	11237-11243	served	_
@@ -1884,6 +1949,7 @@
 65-43	11492-11502	covariates	_
 65-44	11503-11504	.	_
 
+Text=Significant main effects and interactions were followed-up with post-hoc t-tests.
 66-1	11505-11516	Significant	_
 66-2	11517-11521	main	_
 66-3	11522-11529	effects	_
@@ -1896,6 +1962,7 @@
 66-10	11578-11585	t-tests	_
 66-11	11586-11587	.	_
 
+Text=The well-powered ROI approach described above was followed-up with voxel-wise analyses comparing functional connectivity of each cortical seed within the striatum between groups, in order to examine the specific locations of connectivity differences between the groups.
 67-1	11588-11591	The	_
 67-2	11592-11604	well-powered	_
 67-3	11605-11608	ROI	_
@@ -1935,6 +2002,7 @@
 67-37	11851-11857	groups	_
 67-38	11858-11859	.	_
 
+Text=Briefly, the unsmoothed cortical seed-based connectivity maps were analyzed separately using one-way ANOVAs with group (healthy controls, schizophrenia, psychotic bipolar disorder) entered as a between-subjects variable along with age and sex as covariates.
 68-1	11860-11867	Briefly	_
 68-2	11868-11869	,	_
 68-3	11870-11873	the	_
@@ -1975,6 +2043,7 @@
 68-38	12111-12121	covariates	_
 68-39	12122-12123	.	_
 
+Text=Voxel-wise ANOVAs were masked with the one-sample t-test results described above such that only voxels that demonstrated positive functional connectivity with the cortex-based seeds were included in the analysis.
 69-1	12124-12134	Voxel-wise	_
 69-2	12135-12141	ANOVAs	_
 69-3	12142-12146	were	_
@@ -2006,6 +2075,7 @@
 69-29	12327-12335	analysis	_
 69-30	12336-12337	.	_
 
+Text=Results were thresholded at cluster-level pFWE=.05 for voxel-wise p=.001.
 70-1	12338-12345	Results	_
 70-2	12346-12350	were	_
 70-3	12351-12362	thresholded	_
@@ -2017,6 +2087,7 @@
 70-9	12404-12410	p=.001	_
 70-10	12411-12412	.	_
 
+Text=Striatum Seed-based Analysis We used the striatum seeds from previous striatal seed-based connectivity research.
 71-1	12413-12421	Striatum	_
 71-2	12422-12432	Seed-based	_
 71-3	12433-12441	Analysis	_
@@ -2033,6 +2104,7 @@
 71-14	12516-12524	research	_
 71-15	12525-12526	.	_
 
+Text=These striatum seeds are comprised of six 3.5-mm-radius spherical ROIs, totaling three bilateral caudate and three bilateral putamen regions corresponding to: dorsal caudate (DC; x=±13, y=15, z=9), superior ventral caudate (sVC; x=±10, y=15, z=0), inferior ventral caudate (iVC; x=±9, y=9, z=−8), dorsocaudal putamen (dcPT; x=±28, y=1, z=3), dorsorostral putamen (drPT; x=±25, y=8, z=6), and the ventrorostral putamen (vrPT; x=±20, y=12, z=−3).
 72-1	12527-12532	These	_
 72-2	12533-12541	striatum	_
 72-3	12542-12547	seeds	_
@@ -2133,6 +2205,7 @@
 72-98	13006-13007	)	_
 72-99	13008-13009	.	_
 
+Text=Functional connectivity maps were generated for each of these striatum seeds.
 73-1	13010-13020	Functional	_
 73-2	13021-13033	connectivity	_
 73-3	13034-13038	maps	_
@@ -2146,6 +2219,7 @@
 73-11	13081-13086	seeds	_
 73-12	13087-13088	.	_
 
+Text=Functional connectivity maps were masked to only include voxels in the cortex (using the in-brain mask detailed in the Supplement) and smoothed (6 mm).
 74-1	13089-13099	Functional	_
 74-2	13100-13112	connectivity	_
 74-3	13113-13117	maps	_
@@ -2176,6 +2250,7 @@
 74-28	13242-13243	)	_
 74-29	13244-13245	.	_
 
+Text=A one-sample voxel-wise t-test was performed for each striatum seed to identify voxels in the cortex exhibiting positive functional connectivity with each striatum seed.
 75-1	13246-13247	A	_
 75-2	13248-13258	one-sample	_
 75-3	13259-13269	voxel-wise	_
@@ -2202,6 +2277,7 @@
 75-24	13410-13414	seed	_
 75-25	13415-13416	.	_
 
+Text=The resultant statistical parametric maps (SPM) were thresholded at voxel-wise p=.001.
 76-1	13417-13420	The	_
 76-2	13421-13430	resultant	_
 76-3	13431-13442	statistical	_
@@ -2217,6 +2293,7 @@
 76-13	13498-13504	p=.001	_
 76-14	13505-13506	.	_
 
+Text=Group differences in functional connectivity of each striatum seed were then analyzed using a one-way ANOVA with group (healthy controls, schizophrenia, psychotic bipolar disorder) entered as a between-subjects variable along with age and sex as covariates.
 77-1	13507-13512	Group	_
 77-2	13513-13524	differences	_
 77-3	13525-13527	in	_
@@ -2259,6 +2336,7 @@
 77-40	13757-13767	covariates	_
 77-41	13768-13769	.	_
 
+Text=These analyses were masked with the one-sample t-test results described above such that only voxels that demonstrated positive functional connectivity with striatum-based seeds were included in the analysis.
 78-1	13770-13775	These	_
 78-2	13776-13784	analyses	_
 78-3	13785-13789	were	_
@@ -2289,6 +2367,7 @@
 78-28	13968-13976	analysis	_
 78-29	13977-13978	.	_
 
+Text=Results were thresholded at cluster-level pFWE=.05 for voxel-wise p=.001.
 79-1	13979-13986	Results	_
 79-2	13987-13991	were	_
 79-3	13992-14003	thresholded	_
@@ -2300,6 +2379,7 @@
 79-9	14045-14051	p=.001	_
 79-10	14052-14053	.	_
 
+Text=Testing Associations Between Striatal Connectivity and Clinical Variables Next, we examined whether there were associations between connectivity impairments and both cognitive impairment and symptoms (and specifically positive psychotic symptoms), as has been found in previous research.
 80-1	14054-14061	Testing	_
 80-2	14062-14074	Associations	_
 80-3	14075-14082	Between	_
@@ -2342,6 +2422,7 @@
 80-40	14336-14344	research	_
 80-41	14345-14346	.	_
 
+Text=To test these hypotheses, we examined whether there were significant associations between each significant cortico-striatal connectivity finding and both cognitive impairment on the SCIP and PANSS symptoms.
 81-1	14347-14349	To	_
 81-2	14350-14354	test	_
 81-3	14355-14360	these	_
@@ -2372,6 +2453,7 @@
 81-28	14545-14553	symptoms	_
 81-29	14554-14555	.	_
 
+Text=These regressions included the following predictors: sex, age, diagnostic group (i.e., healthy subjects, schizophrenia, psychotic bipolar disorder), the variable of interest (e.g., SCIP “ composite ” z-score), and an interaction between diagnostic group and the variable of interest.
 82-1	14556-14561	These	_
 82-2	14562-14573	regressions	_
 82-3	14574-14582	included	_
@@ -2425,6 +2507,7 @@
 82-51	14843-14851	interest	_
 82-52	14852-14853	.	_
 
+Text=For the cortex seed-based ROI analysis described above, overall connectivity between each cortical network and the striatum served as the dependent variable in regression analyses.
 83-1	14854-14857	For	_
 83-2	14858-14861	the	_
 83-3	14862-14868	cortex	_
@@ -2453,6 +2536,7 @@
 83-26	15026-15034	analyses	_
 83-27	15035-15036	.	_
 
+Text=For the voxel-wise analyses, mean functional connectivity was extracted from the clusters that survived thresholding using the eigenvariate function in SPM12 and this served as the dependent variable in regression analyses.
 84-1	15037-15040	For	_
 84-2	15041-15044	the	_
 84-3	15045-15055	voxel-wise	_
@@ -2487,6 +2571,7 @@
 84-32	15252-15260	analyses	_
 84-33	15261-15262	.	_
 
+Text=Regression analyses were corrected for multiple comparisons (using False Discovery Rate (FDR) correction) based on the number of associations examined (i.e., FDR-corrected for every cognitive impairment and symptom variable of interest for a total of four FDR-corrected comparisons) for each significant cortico-striatal connectivity finding.
 85-1	15263-15273	Regression	_
 85-2	15274-15282	analyses	_
 85-3	15283-15287	were	_

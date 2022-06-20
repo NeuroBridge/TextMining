@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Connectome-based prediction of cocaine abstinence Objective: To identify a brain-based predictor of cocaine abstinence using a recently developed machine learning approach, connectome-based predictive modeling (CPM).
 1-1	0-16	Connectome-based	_
 1-2	17-27	prediction	_
 1-3	28-30	of	_
@@ -33,6 +34,7 @@
 1-29	218-219	)	_
 1-30	220-221	.	_
 
+Text=CPM is a predictive tool and a method of identifying networks that underlie specific behaviors (‘ neural fingerprints ’).
 2-1	222-225	CPM	_
 2-2	226-228	is	_
 2-3	229-230	a	_
@@ -56,6 +58,7 @@
 2-21	343-344	)	_
 2-22	345-346	.	_
 
+Text=Methods: Fifty-three individuals participated in neuroimaging protocols at the start of treatment for cocaine-use disorder, and again at the end of 12-week treatment.
 3-1	347-354	Methods	_
 3-2	355-356	:	_
 3-3	357-368	Fifty-three	_
@@ -83,6 +86,7 @@
 3-25	505-514	treatment	_
 3-26	515-516	.	_
 
+Text=CPM with leave-one-out cross-validation was run to identify pre-treatment networks that predicted abstinence (percent cocaine-negative urines during treatment).
 4-1	517-520	CPM	_
 4-2	521-525	with	_
 4-3	526-539	leave-one-out	_
@@ -105,6 +109,7 @@
 4-20	677-678	)	_
 4-21	679-680	.	_
 
+Text=Networks were applied to post-treatment fMRI data to assess changes over time and ability to predict abstinence during follow-up.
 5-1	681-689	Networks	_
 5-2	690-694	were	_
 5-3	695-702	applied	_
@@ -126,6 +131,7 @@
 5-19	800-809	follow-up	_
 5-20	810-811	.	_
 
+Text=The predictive ability of identified networks was then tested in separate, heterogeneous sample of individuals scanned prior to treatment for cocaine use disorder (n=45).
 6-1	812-815	The	_
 6-2	816-826	predictive	_
 6-3	827-834	ability	_
@@ -155,6 +161,7 @@
 6-27	983-984	)	_
 6-28	985-986	.	_
 
+Text=Results: CPM predicted abstinence during treatment, as indicated by a high correspondence between predicted and actual abstinence values (r (df=52) =0.42, p=0.001).
 7-1	987-994	Results	_
 7-2	995-996	:	_
 7-3	997-1000	CPM	_
@@ -186,6 +193,7 @@
 7-29	1156-1157	)	_
 7-30	1158-1159	.	_
 
+Text=Identified networks included connections within and between canonical networks implicated in cognitive/ executive control (frontoparietal, medial frontal) and in reward responsiveness (subcortical, salience, motor/sensory).
 8-1	1160-1170	Identified	_
 8-2	1171-1179	networks	_
 8-3	1180-1188	included	_
@@ -219,6 +227,7 @@
 8-31	1388-1389	)	_
 8-32	1390-1391	.	_
 
+Text=Connectivity strength did not change with treatment, and strength at post-treatment also predicted abstinence during follow-up (r (df=39) =0.34, p=0.03).
 9-1	1392-1404	Connectivity	_
 9-2	1405-1413	strength	_
 9-3	1414-1417	did	_
@@ -247,6 +256,7 @@
 9-26	1549-1550	)	_
 9-27	1551-1552	.	_
 
+Text=Network strength in the independent sample predicted treatment response with 64% accuracy by itself, and with 71% accuracy when combined with baseline cocaine-use.
 10-1	1553-1560	Network	_
 10-2	1561-1569	strength	_
 10-3	1570-1572	in	_
@@ -275,6 +285,7 @@
 10-26	1707-1718	cocaine-use	_
 10-27	1719-1720	.	_
 
+Text=Conclusions: These data demonstrate that individual differences in large-scale neural networks contribute to variability in treatment outcomes for cocaine use disorder.
 11-1	1721-1732	Conclusions	_
 11-2	1733-1734	:	_
 11-3	1735-1740	These	_
@@ -299,6 +310,7 @@
 11-22	1881-1889	disorder	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 11-23	1890-1891	.	_
 
+Text=They identify specific abstinence networks that may be targeted in novel interventions.
 12-1	1892-1896	They	_
 12-2	1897-1905	identify	_
 12-3	1906-1914	specific	_
@@ -313,6 +325,7 @@
 12-12	1965-1978	interventions	_
 12-13	1979-1980	.	_
 
+Text=Methods Participants and recruitment Participants (n=74) were recruited from a randomized controlled trial of behavioral therapy plus galantamine or placebo treatment for cocaine-use disorder.
 13-1	1981-1988	Methods	_
 13-2	1989-2001	Participants	_
 13-3	2002-2005	and	_
@@ -341,6 +354,7 @@
 13-26	2166-2174	disorder	_
 13-27	2175-2176	.	_
 
+Text=Demographic and clinical characteristics are shown in Table 1.
 14-1	2177-2188	Demographic	_
 14-2	2189-2192	and	_
 14-3	2193-2201	clinical	_
@@ -352,6 +366,7 @@
 14-9	2237-2238	1	_
 14-10	2239-2240	.	_
 
+Text=In addition to seeking treatment for cocaine, all participants were currently enrolled in methadone maintenance treatment for opioid-use disorder.
 15-1	2241-2243	In	_
 15-2	2244-2252	addition	_
 15-3	2253-2255	to	_
@@ -374,6 +389,7 @@
 15-20	2379-2387	disorder	http://maven.renci.org/NeuroBridge/neurobridge#OpioidAbuse
 15-21	2388-2389	.	_
 
+Text=Consistent with the parent trial, the fMRI sample was predominantly male (63.5%) and unemployed (73.0%), with multiple prior treatment attempts (outpatient: 2.97± 3.63, inpatient: 3.16±5.24) and legal problems (lifetime arrests: 5.46±6.29).
 16-1	2390-2400	Consistent	_
 16-2	2401-2405	with	_
 16-3	2406-2409	the	_
@@ -423,6 +439,7 @@
 16-47	2644-2645	)	_
 16-48	2646-2647	.	_
 
+Text=Following exclusion of individuals with incomplete data (n=4) or excessive motion during scanning (n=17; further details below), the final sample used for CPM analyses consisted of 53 individuals (73.6% male).
 17-1	2648-2657	Following	_
 17-2	2658-2667	exclusion	_
 17-3	2668-2670	of	_
@@ -464,6 +481,7 @@
 17-39	2864-2865	)	_
 17-40	2866-2867	.	_
 
+Text=Further details on motion controls and follow-up analyses controlling for time of scanning are provided in the Supplemental Materials.
 18-1	2868-2875	Further	_
 18-2	2876-2883	details	_
 18-3	2884-2886	on	_
@@ -485,6 +503,7 @@
 18-19	2992-3001	Materials	_
 18-20	3002-3003	.	_
 
+Text=As shown in Table 1, included versus excluded participants did not differ in years of cocaine-use, treatment assignment or other clinical variables with the exception of sex (p=.004).
 19-1	3004-3006	As	_
 19-2	3007-3012	shown	_
 19-3	3013-3015	in	_
@@ -519,6 +538,7 @@
 19-32	3189-3190	)	_
 19-33	3191-3192	.	_
 
+Text=As in our prior work, abstinence during treatment was determined based on results of biweekly urine testing and defined as the percentage of urines negative for cocaine provided during treatment.
 20-1	3193-3195	As	_
 20-2	3196-3198	in	_
 20-3	3199-3202	our	_
@@ -552,6 +572,7 @@
 20-31	3379-3388	treatment	_
 20-32	3389-3390	.	_
 
+Text=All participants provided written informed consent following a complete description of study procedures.
 21-1	3391-3394	All	_
 21-2	3395-3407	participants	_
 21-3	3408-3416	provided	_
@@ -567,6 +588,7 @@
 21-13	3484-3494	procedures	_
 21-14	3495-3496	.	_
 
+Text=Neuroimaging data acquisition fMRI data were acquired during performance of a well-validated Monetary Incentive Delay task (Supplemental Figure 1; details on acquisition in Supplemental Materials).
 22-1	3497-3509	Neuroimaging	_
 22-2	3510-3514	data	_
 22-3	3515-3526	acquisition	_
@@ -597,6 +619,7 @@
 22-28	3695-3696	)	_
 22-29	3697-3698	.	_
 
+Text=Preprocessing was conducted using SPM8 and the BioImage Suite and is described in the Supplemental Materials.
 23-1	3699-3712	Preprocessing	_
 23-2	3713-3716	was	_
 23-3	3717-3726	conducted	_
@@ -615,6 +638,7 @@
 23-16	3798-3807	Materials	_
 23-17	3808-3809	.	_
 
+Text=Functional connectivity Whole-brain functional connectivity analyses were conducted using the BioImage suite, using previously described methods.
 24-1	3810-3820	Functional	_
 24-2	3821-3833	connectivity	_
 24-3	3834-3845	Whole-brain	_
@@ -634,6 +658,7 @@
 24-17	3948-3955	methods	_
 24-18	3956-3957	.	_
 
+Text=Network nodes were defined using the Shen 268-node brain atlas which includes the cortex, subcortex and cerebellum, as in other prior CPM work (further details in Supplemental Materials).
 25-1	3958-3965	Network	_
 25-2	3966-3971	nodes	_
 25-3	3972-3976	were	_
@@ -668,6 +693,7 @@
 25-32	4147-4148	)	_
 25-33	4149-4150	.	_
 
+Text=Task connectivity was calculated based on the ‘ raw ’ task timecourses, with no regression of task-evoked activity.
 26-1	4151-4155	Task	_
 26-2	4156-4168	connectivity	_
 26-3	4169-4172	was	_
@@ -689,6 +715,7 @@
 26-19	4258-4266	activity	_
 26-20	4267-4268	.	_
 
+Text=This involved computation of mean time courses for each of the 268 nodes (i.e., average time course of voxels within the node) for use in node-by-node pairwise Pearson ’ s correlations.
 27-1	4269-4273	This	_
 27-2	4274-4282	involved	_
 27-3	4283-4294	computation	_
@@ -725,6 +752,7 @@
 27-34	4444-4456	correlations	_
 27-35	4457-4458	.	_
 
+Text=Resultant r-values were transformed using Fisher ’ s z-transformation to create symmetric 268x268 connectivity matrices in which each element of the matrix represents the strength of connection between two individual nodes (hereafter referred to as an edge).
 28-1	4459-4468	Resultant	_
 28-2	4469-4477	r-values	_
 28-3	4478-4482	were	_
@@ -766,6 +794,7 @@
 28-39	4717-4718	)	_
 28-40	4719-4720	.	_
 
+Text=Connectome-based predictive modeling (CPM) CPM was conducted using previously validated custom MATLAB scripts.
 29-1	4721-4737	Connectome-based	_
 29-2	4738-4748	predictive	_
 29-3	4749-4757	modeling	_
@@ -783,6 +812,7 @@
 29-15	4825-4832	scripts	_
 29-16	4833-4834	.	_
 
+Text=A schematic diagram of CPM is shown in Supplemental Figure 2.
 30-1	4835-4836	A	_
 30-2	4837-4846	schematic	_
 30-3	4847-4854	diagram	_
@@ -796,6 +826,7 @@
 30-11	4894-4895	2	_
 30-12	4896-4897	.	_
 
+Text=Briefly, CPM takes group connectivity matrices and behavioral data (in this case, percentage of cocaine-negative urines during treatment) as input to generate a predictive model of the behavioral data from connectivity matrices.
 31-1	4898-4905	Briefly	_
 31-2	4906-4907	,	_
 31-3	4908-4911	CPM	_
@@ -834,6 +865,7 @@
 31-36	5121-5129	matrices	_
 31-37	5130-5131	.	_
 
+Text=Edges and behavioral data from the training dataset are correlated using regression analyses (here using either Pearson ’ s correlation or partial correlation) to identify positive and negative predictive networks.
 32-1	5132-5137	Edges	_
 32-2	5138-5141	and	_
 32-3	5142-5152	behavioral	_
@@ -868,6 +900,7 @@
 32-32	5339-5347	networks	_
 32-33	5348-5349	.	_
 
+Text=Positive networks are networks for which increased edge weights (increased connectivity) are associated with the variable of interest, whereas negative networks are networks for which decreased edge weights (decreased connectivity) are associated with the variable of interest.
 33-1	5350-5358	Positive	_
 33-2	5359-5367	networks	_
 33-3	5368-5371	are	_
@@ -912,6 +945,7 @@
 33-42	5623-5631	interest	_
 33-43	5632-5633	.	_
 
+Text=While both networks are used for predicting the same variable, they are by definition independent - as a single edge cannot be both a positive and negative predictor.
 34-1	5634-5639	While	_
 34-2	5640-5644	both	_
 34-3	5645-5653	networks	_
@@ -944,6 +978,7 @@
 34-30	5792-5801	predictor	_
 34-31	5802-5803	.	_
 
+Text=Single subject summary statistics are then created as the sum of the significant edge weights in each network and entered into predictive models assuming linear relationships with behavioral data.
 35-1	5804-5810	Single	_
 35-2	5811-5818	subject	_
 35-3	5819-5826	summary	_
@@ -975,6 +1010,7 @@
 35-29	5995-5999	data	_
 35-30	6000-6001	.	_
 
+Text=Resultant polynomial coefficients (linear equation including slope and intercept) are then applied to the test dataset to predict behaviors.
 36-1	6002-6011	Resultant	_
 36-2	6012-6022	polynomial	_
 36-3	6023-6035	coefficients	_
@@ -998,6 +1034,7 @@
 36-21	6134-6143	behaviors	_
 36-22	6144-6145	.	_
 
+Text=In the case of leave-one-out cross-validation (used here), a single participant ’ s predicted value (i.e., the ‘ left-out ’ participant) is generated by taking the data from all other participants as the training dataset in an iterative manner until all participants have a predicted value.
 37-1	6146-6148	In	_
 37-2	6149-6152	the	_
 37-3	6153-6157	case	_
@@ -1052,6 +1089,7 @@
 37-52	6436-6441	value	_
 37-53	6442-6443	.	_
 
+Text=Model performance (i.e., correspondence between predicted and actual values) was assessed using Spearman ’ s rho correlations.
 38-1	6444-6449	Model	_
 38-2	6450-6461	performance	_
 38-3	6462-6463	(	_
@@ -1074,6 +1112,7 @@
 38-20	6560-6572	correlations	_
 38-21	6573-6574	.	_
 
+Text=When using leave-one-out cross-validation, analyses in the leave-one-out folds are not wholly independent and the number of degrees of freedom is thus overestimated for parametric p-values based on correlation.
 39-1	6575-6579	When	_
 39-2	6580-6585	using	_
 39-3	6586-6599	leave-one-out	_
@@ -1106,6 +1145,7 @@
 39-30	6774-6785	correlation	_
 39-31	6786-6787	.	_
 
+Text=Instead of parametric testing, we therefore performed permutation testing.
 40-1	6788-6795	Instead	_
 40-2	6796-6798	of	_
 40-3	6799-6809	parametric	_
@@ -1118,6 +1158,7 @@
 40-10	6855-6862	testing	_
 40-11	6863-6864	.	_
 
+Text=To generate null distributions for significance testing, we randomly shuffled the correspondence between behavior variables and connectivity matrices 5,000 times and re-ran the CPM analysis with the shuffled data.
 41-1	6865-6867	To	_
 41-2	6868-6876	generate	_
 41-3	6877-6881	null	_
@@ -1150,6 +1191,7 @@
 41-30	7074-7078	data	_
 41-31	7079-7080	.	_
 
+Text=Based on these null distributions, the p-values for leave-one-out predictions were calculated as in prior work.
 42-1	7081-7086	Based	_
 42-2	7087-7089	on	_
 42-3	7090-7095	these	_
@@ -1169,6 +1211,7 @@
 42-17	7188-7192	work	_
 42-18	7193-7194	.	_
 
+Text=Details on characterization of resultant network anatomy are provided in the Supplemental Materials.
 43-1	7195-7202	Details	_
 43-2	7203-7205	on	_
 43-3	7206-7222	characterization	_

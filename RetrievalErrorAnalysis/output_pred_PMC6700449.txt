@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Dynamic functional connectivity in schizophrenia and autism spectrum disorder: Convergence, divergence and classification Background Over the recent years there has been a growing debate regarding the extent and nature of the overlap in neuropathology between schizophrenia (SZ) and autism spectrum disorder (ASD).
 1-1	0-7	Dynamic	_
 1-2	8-18	functional	_
 1-3	19-31	connectivity	_
@@ -52,6 +53,7 @@
 1-48	318-319	)	http://maven.renci.org/NeuroBridge/neurobridge#AutismSpectrumDisorder
 1-49	320-321	.	_
 
+Text=Dynamic functional network connectivity (dFNC) is a recent analysis method that explores temporal patterns of functional connectivity (FC).
 2-1	322-329	Dynamic	_
 2-2	330-340	functional	_
 2-3	341-348	network	_
@@ -76,6 +78,7 @@
 2-22	463-464	)	_
 2-23	465-466	.	_
 
+Text=We compared resting-state dFNC in SZ, ASD and healthy controls (HC), characterized the associations between temporal patterns and symptoms, and performed a three-way classification analysis based on dFNC indices.
 3-1	467-469	We	_
 3-2	470-478	compared	_
 3-3	479-492	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -112,6 +115,7 @@
 3-34	676-683	indices	_
 3-35	684-685	.	_
 
+Text=Methods Resting-state fMRI was collected from 100 young adults: 33 SZ, 33 ASD, 34 HC.
 4-1	686-693	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 4-2	694-707	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 4-3	708-712	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -132,6 +136,7 @@
 4-18	771-773	HC	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 4-19	774-775	.	_
 
+Text=Independent component analysis (ICA) was performed, followed by dFNC analysis (window = 33 s, step = 1TR, k-means clustering).
 5-1	776-787	Independent	_
 5-2	788-797	component	_
 5-3	798-806	analysis	_
@@ -160,6 +165,7 @@
 5-26	907-908	)	_
 5-27	909-910	.	_
 
+Text=Temporal patterns were compared between groups, correlated with symptoms, and classified via cross-validated three-way discriminant analysis.
 6-1	911-919	Temporal	_
 6-2	920-928	patterns	_
 6-3	929-933	were	_
@@ -180,6 +186,7 @@
 6-18	1045-1053	analysis	_
 6-19	1054-1055	.	_
 
+Text=Results Both clinical groups displayed an increased fraction of time (FT) spent in a state of weak, intra-network connectivity [p <.001] and decreased FT in a highly-connected state [p <.001].
 7-1	1056-1063	Results	_
 7-2	1064-1068	Both	_
 7-3	1069-1077	clinical	_
@@ -221,6 +228,7 @@
 7-39	1255-1256	]	_
 7-40	1257-1258	.	_
 
+Text=SZ further showed decreased number of transitions between states [p <.001], decreased FT in a widely-connected state [p <.001], increased dwell time (DT) in the weakly-connected state [p <.001], and decreased DT in the highly-connected state [p = .001].
 8-1	1259-1261	SZ	_
 8-2	1262-1269	further	_
 8-3	1270-1276	showed	_
@@ -278,6 +286,7 @@
 8-55	1526-1527	]	_
 8-56	1528-1529	.	_
 
+Text=Social behavior scores correlated with DT in the widely-connected state in SZ [r = 0.416, p = .043], but not ASD.
 9-1	1530-1536	Social	_
 9-2	1537-1545	behavior	_
 9-3	1546-1552	scores	_
@@ -305,6 +314,7 @@
 9-25	1643-1646	ASD	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 9-26	1647-1648	.	_
 
+Text=Classification correctly identified SZ at high rates (81.8%), while ASD and HC at lower rates.
 10-1	1649-1663	Classification	_
 10-2	1664-1673	correctly	_
 10-3	1674-1684	identified	_
@@ -326,6 +336,7 @@
 10-19	1741-1746	rates	_
 10-20	1747-1748	.	_
 
+Text=Conclusions Results indicate a severe and pervasive pattern of temporal aberrations in SZ (specifically, being “ stuck ” in a state of weak connectivity), that distinguishes SZ participants from both ASD and HC, and is associated with clinical symptoms.
 11-1	1749-1760	Conclusions	_
 11-2	1761-1768	Results	_
 11-3	1769-1777	indicate	_
@@ -372,6 +383,7 @@
 11-44	1998-2006	symptoms	_
 11-45	2007-2008	.	_
 
+Text=Highlights Temporal patterns of fMRI functional connectivity were assessed in schizophrenia, autism spectrum disorder (ASD), and healthy controls (HC).
 12-1	2009-2019	Highlights	_
 12-2	2020-2028	Temporal	_
 12-3	2029-2037	patterns	_
@@ -399,6 +411,7 @@
 12-25	2164-2165	)	_
 12-26	2166-2167	.	_
 
+Text=Both the schizophrenia and ASD groups displayed restricted temporal patterns, however the schizophrenia group displayed a more pervasive abnormality.
 13-1	2168-2172	Both	_
 13-2	2173-2176	the	_
 13-3	2177-2190	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -421,6 +434,7 @@
 13-20	2306-2317	abnormality	_
 13-21	2318-2319	.	_
 
+Text=Schizophrenia participants remain in a state of weak connectivity between brain regions, at the expense of more highly connected states.
 14-1	2320-2333	Schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-2	2334-2346	participants	_
 14-3	2347-2353	remain	_
@@ -444,6 +458,7 @@
 14-21	2450-2456	states	_
 14-22	2457-2458	.	_
 
+Text=Temporal patterns were associated with clinical symptoms in the schizophrenia group.
 15-1	2459-2467	Temporal	_
 15-2	2468-2476	patterns	_
 15-3	2477-2481	were	_
@@ -457,6 +472,7 @@
 15-11	2537-2542	group	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 15-12	2543-2544	.	_
 
+Text=Temporal patterns distinguish schizophrenia participants from both ASD and healthy individuals.
 16-1	2545-2553	Temporal	_
 16-2	2554-2562	patterns	_
 16-3	2563-2574	distinguish	_
@@ -470,6 +486,7 @@
 16-11	2628-2639	individuals	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 16-12	2640-2641	.	_
 
+Text=Methods and materials Participants One-hundred young adults (age 18–35), without intellectual disability (IQ> 80) were included in the analyses: 34 HC, 33 ASD, and 33 SZ (including six diagnosed with schizoaffective disorder).
 17-1	2642-2649	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 17-2	2650-2653	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 17-3	2654-2663	materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -515,6 +532,7 @@
 17-43	2877-2878	)	_
 17-44	2879-2880	.	_
 
+Text=Participants were recruited via Olin Neuropsychiatry Research Center (ONRC) and Yale University School of Medicine.
 18-1	2881-2893	Participants	_
 18-2	2894-2898	were	_
 18-3	2899-2908	recruited	_
@@ -534,6 +552,7 @@
 18-17	2989-2997	Medicine	_
 18-18	2998-2999	.	_
 
+Text=Data were selected from a larger collected sample so that groups matched on age and sex.
 19-1	3000-3004	Data	_
 19-2	3005-3009	were	_
 19-3	3010-3018	selected	_
@@ -552,6 +571,7 @@
 19-16	3084-3087	sex	_
 19-17	3088-3089	.	_
 
+Text=Inclusion/exclusion criteria are provided in Appendix 1.
 20-1	3090-3109	Inclusion/exclusion	_
 20-2	3110-3118	criteria	_
 20-3	3119-3122	are	_
@@ -561,6 +581,7 @@
 20-7	3144-3145	1	_
 20-8	3146-3147	.	_
 
+Text=Clinical assessment Severity of positive and negative symptoms and general psychopathology were assessed using the Positive and Negative Syndrome Scale (PANSS) in patients.
 21-1	3148-3156	Clinical	_
 21-2	3157-3167	assessment	_
 21-3	3168-3176	Severity	_
@@ -588,6 +609,7 @@
 21-25	3313-3321	patients	_
 21-26	3322-3323	.	_
 
+Text=To assess sub-clinical symptoms in HC, the self-report Schizotypal Personality Questionnaire (SPQ,) was used.
 22-1	3324-3326	To	_
 22-2	3327-3333	assess	_
 22-3	3334-3346	sub-clinical	_
@@ -608,6 +630,7 @@
 22-18	3432-3436	used	_
 22-19	3437-3438	.	_
 
+Text=Social behavior was assessed using the Autism Diagnostic Observation Schedule module 4 total score (ADOS-T).
 23-1	3439-3445	Social	_
 23-2	3446-3454	behavior	_
 23-3	3455-3458	was	_
@@ -627,6 +650,7 @@
 23-17	3547-3548	)	_
 23-18	3549-3550	.	_
 
+Text=IQ was estimated using the Wechsler Adult Intelligence Scale (WAIS-III) - vocabulary and block design subscales.
 24-1	3551-3553	IQ	_
 24-2	3554-3557	was	_
 24-3	3558-3567	estimated	_
@@ -647,6 +671,7 @@
 24-18	3655-3664	subscales	_
 24-19	3665-3666	.	_
 
+Text=Imaging data acquisition All fMRI scans were performed on a Siemens Skyra 3 T scanner at ONRC.
 25-1	3667-3674	Imaging	_
 25-2	3675-3679	data	_
 25-3	3680-3691	acquisition	_
@@ -666,6 +691,7 @@
 25-17	3756-3760	ONRC	_
 25-18	3761-3762	.	_
 
+Text=Participants lay with eyes open, fixating on a centrally presented cross for 7.5 min.
 26-1	3763-3775	Participants	_
 26-2	3776-3779	lay	_
 26-3	3780-3784	with	_
@@ -683,6 +709,7 @@
 26-15	3845-3848	min	_
 26-16	3849-3850	.	_
 
+Text=Blood oxygenation level dependent (BOLD) signal was obtained with T2 * -weighted echo planar imaging (EPI) sequence: TR/TE = 475/30 msec, flip-angle = 600, 48 slices, multiband (8), interleaved slice order, 3 mm3 voxels.
 27-1	3851-3856	Blood	_
 27-2	3857-3868	oxygenation	_
 27-3	3869-3874	level	http://maven.renci.org/NeuroBridge/neurobridge#DrugDependence
@@ -731,6 +758,7 @@
 27-46	4076-4082	voxels	_
 27-47	4083-4084	.	_
 
+Text=Datasets portraying head motion> 10 mm were discarded.
 28-1	4085-4093	Datasets	_
 28-2	4094-4104	portraying	_
 28-3	4105-4109	head	_
@@ -742,6 +770,7 @@
 28-9	4130-4139	discarded	_
 28-10	4140-4141	.	_
 
+Text=Preprocessing fMRI data were preprocessed using SPM8 (www.fil.ion.ucl.ac.uk/spm/software/spm8/).
 29-1	4142-4155	Preprocessing	_
 29-2	4156-4160	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 29-3	4161-4165	data	_
@@ -754,6 +783,7 @@
 29-10	4238-4239	)	_
 29-11	4240-4241	.	_
 
+Text=Each individual's dataset was realigned to the first T2 * image using the INRIAlign toolbox (https: //www-sop.inria.fr/epidaure/Collaborations/IRMf/INRIAlign.html), coregistered to their high signal-to-noise single-band reference image (sbREF), spatially normalized to the Montreal Neurological Institute (MNI) standard template, and spatially smoothed (9 mm3).
 30-1	4242-4246	Each	_
 30-2	4247-4257	individual	_
 30-3	4258-4260	's	_
@@ -810,6 +840,7 @@
 30-54	4614-4615	)	_
 30-55	4616-4617	.	_
 
+Text=Group ICA and post-processing Imaging data were decomposed into independent components (ICs) in a data-driven manner, using group-level spatial ICA, via the GIFT toolbox (; http: //mialab.mrn.org/software/gift).
 31-1	4618-4623	Group	_
 31-2	4624-4627	ICA	_
 31-3	4628-4631	and	_
@@ -846,6 +877,7 @@
 31-34	4834-4835	)	_
 31-35	4836-4837	.	_
 
+Text=High-order model (100 components) was used, and subject-specific data-reduction principle component analysis (PCA) was set to 150, in accordance with Erhardt et al ..
 32-1	4838-4848	High-order	_
 32-2	4849-4854	model	_
 32-3	4855-4856	(	_
@@ -877,6 +909,7 @@
 32-29	5005-5007	al	_
 32-30	5008-5010	..	_
 
+Text=The Infomax group ICA algorithm was iterated using ICASSO and the most central run was selected for further analysis.
 33-1	5011-5014	The	_
 33-2	5015-5022	Infomax	_
 33-3	5023-5028	group	_
@@ -898,6 +931,7 @@
 33-19	5119-5127	analysis	_
 33-20	5128-5129	.	_
 
+Text=Subject-specific spatial maps (SMs) and time-courses were estimated using the GICA3 back-reconstruction method.
 34-1	5130-5146	Subject-specific	_
 34-2	5147-5154	spatial	_
 34-3	5155-5159	maps	_
@@ -915,6 +949,7 @@
 34-15	5236-5242	method	_
 34-16	5243-5244	.	_
 
+Text=Out of the 100 components obtained, we identified 56 components as physiologically relevant ICNs (rather than noise), based on the following: peak cluster locations in gray matter with minimal overlap with either white matter, ventricles or edges of the brain, and a high ratio of low-frequency/high-frequency activity.
 35-1	5245-5248	Out	_
 35-2	5249-5251	of	_
 35-3	5252-5255	the	_
@@ -971,6 +1006,7 @@
 35-54	5562-5570	activity	_
 35-55	5571-5572	.	_
 
+Text=Components were then labeled using the Desikan-Killiany-Tourville (DKT) atlas, the Allen Brain Atlas and the Automated Anatomical Labeling (AAL) atlas as implemented in xjview (http: //www.alivelearn.net/xjview8), in addition to MRICron (http: //www.mccauslandcenter.sc.edu/mricro/mricron) for visualization of results.
 36-1	5573-5583	Components	_
 36-2	5584-5588	were	_
 36-3	5589-5593	then	_
@@ -1021,6 +1057,7 @@
 36-48	5896-5903	results	_
 36-49	5904-5905	.	_
 
+Text=ICs were organized into functional networks, in a data-driven manner: pairwise correlations were computed between ICs' time-courses in GIFT, reflecting static functional network connectivity (sFNC).
 37-1	5906-5909	ICs	_
 37-2	5910-5914	were	_
 37-3	5915-5924	organized	_
@@ -1054,6 +1091,7 @@
 37-31	6108-6109	)	_
 37-32	6110-6111	.	_
 
+Text=The sFNC matrix was then partitioned using the community Louvain algorithm from the brain connectivity toolbox (https: //sites.google.com/site/bctnet/), which maximizes within-group edges, and minimizes between-group edges.
 38-1	6112-6115	The	_
 38-2	6116-6120	sFNC	_
 38-3	6121-6127	matrix	_
@@ -1087,6 +1125,7 @@
 38-31	6334-6339	edges	_
 38-32	6340-6341	.	_
 
+Text=Motion correction Following the exclusion of high-motion participants from the analysis, the following steps were taken: ICA artifact rejection served as the first denoising step.
 39-1	6342-6348	Motion	_
 39-2	6349-6359	correction	_
 39-3	6360-6369	Following	_
@@ -1116,6 +1155,7 @@
 39-27	6518-6522	step	_
 39-28	6523-6524	.	_
 
+Text=ICA has been shown to successfully remove motion-related noise from fMRI data (e.g.)
 40-1	6525-6528	ICA	_
 40-2	6529-6532	has	_
 40-3	6533-6537	been	_
@@ -1133,6 +1173,7 @@
 40-15	6609-6610	.	_
 40-16	6611-6612	)	_
 
+Text=and has the added benefit of leaving the integrity of the fMRI time-series intact.
 41-1	6613-6616	and	_
 41-2	6617-6620	has	_
 41-3	6621-6624	the	_
@@ -1149,6 +1190,7 @@
 41-14	6688-6694	intact	_
 41-15	6695-6696	.	_
 
+Text=Subsequently, IC time-courses were detrended and despiked using 3D-despike via AFNI (https: //afni.nimh.nih.gov/), and low-pass filtered with 0.15 Hz cutoff.
 42-1	6697-6709	Subsequently	_
 42-2	6710-6711	,	_
 42-3	6712-6714	IC	_
@@ -1176,6 +1218,7 @@
 42-25	6852-6858	cutoff	_
 42-26	6859-6860	.	_
 
+Text=Despiking replaced data points larger than the absolute median deviation with a third order spline fit to the clean portions of the data.
 43-1	6861-6870	Despiking	_
 43-2	6871-6879	replaced	_
 43-3	6880-6884	data	_
@@ -1201,6 +1244,7 @@
 43-23	6993-6997	data	_
 43-24	6998-6999	.	_
 
+Text=This is similar to the “ scrubbing ” method, with the advantage that it does not eliminate volumes that would disrupt temporal continuity which is crucial for a dFNC analysis.
 44-1	7000-7004	This	_
 44-2	7005-7007	is	_
 44-3	7008-7015	similar	_
@@ -1234,6 +1278,7 @@
 44-31	7167-7175	analysis	_
 44-32	7176-7177	.	_
 
+Text=Previous research has shown that despiking decreases outlier impact on FC analyses.
 45-1	7178-7186	Previous	_
 45-2	7187-7195	research	_
 45-3	7196-7199	has	_
@@ -1248,6 +1293,7 @@
 45-12	7252-7260	analyses	_
 45-13	7261-7262	.	_
 
+Text=Motion was then regressed out of the data during dFNC processing using six realignment parameters.
 46-1	7263-7269	Motion	_
 46-2	7270-7273	was	_
 46-3	7274-7278	then	_
@@ -1265,6 +1311,7 @@
 46-15	7350-7360	parameters	_
 46-16	7361-7362	.	_
 
+Text=The combination of these strategies provides an effective combination of linear and non-linear motion reduction.
 47-1	7363-7366	The	_
 47-2	7367-7378	combination	_
 47-3	7379-7381	of	_
@@ -1282,6 +1329,7 @@
 47-15	7465-7474	reduction	_
 47-16	7475-7476	.	_
 
+Text=To rule out an association between extent of motion to our parameters of interest at the individual level, we conducted spearman's correlations between dFNC indices and participants' mean framewise-displacement (root mean square; appendix 3).
 48-1	7477-7479	To	_
 48-2	7480-7484	rule	_
 48-3	7485-7488	out	_
@@ -1324,6 +1372,7 @@
 48-40	7723-7724	)	_
 48-41	7725-7726	.	_
 
+Text=Finally, we repeated our main analyses controlling for framewise-displacement, to ensure that results were not driven by group differences in motion.
 49-1	7727-7734	Finally	_
 49-2	7735-7736	,	_
 49-3	7737-7739	we	_
@@ -1349,6 +1398,7 @@
 49-23	7871-7877	motion	_
 49-24	7878-7879	.	_
 
+Text=Dynamic functional network connectivity (dFNC) dFNC was computed using a sliding window approach, instantiated in the dFNC toolbox in GIFT (as illustrated in Fig.
 50-1	7880-7887	Dynamic	_
 50-2	7888-7898	functional	_
 50-3	7899-7906	network	_
@@ -1379,10 +1429,12 @@
 50-28	8042-8045	Fig	_
 50-29	8046-8047	.	_
 
+Text=1).
 51-1	8048-8049	1	_
 51-2	8050-8051	)	_
 51-3	8052-8053	.	_
 
+Text=Window size was set to 70 TRs (33.25 s), with a step-size of 1 TR.
 52-1	8054-8060	Window	_
 52-2	8061-8065	size	_
 52-3	8066-8069	was	_
@@ -1403,6 +1455,7 @@
 52-18	8120-8122	TR	_
 52-19	8123-8124	.	_
 
+Text=Covariance was then calculated per window, between all pairwise ICs for each participant.
 53-1	8125-8135	Covariance	_
 53-2	8136-8139	was	_
 53-3	8140-8144	then	_
@@ -1419,6 +1472,7 @@
 53-14	8203-8214	participant	_
 53-15	8215-8216	.	_
 
+Text=The optimal number of distinct connectivity states was estimated, by conducting k-means analyses with a range k = 2–10 and comparing the cluster validity index (Appendix 4).
 54-1	8217-8220	The	_
 54-2	8221-8228	optimal	_
 54-3	8229-8235	number	_
@@ -1451,6 +1505,7 @@
 54-30	8391-8392	)	_
 54-31	8393-8394	.	_
 
+Text=The identified optimal number of clusters was four.
 55-1	8395-8398	The	_
 55-2	8399-8409	identified	_
 55-3	8410-8417	optimal	_
@@ -1461,6 +1516,7 @@
 55-8	8441-8445	four	_
 55-9	8446-8447	.	_
 
+Text=Subsequently, k-means clustering (k = 4) was applied to the individual arrays of FNC covariance matrices (using the City method and L1 norm).
 56-1	8448-8460	Subsequently	_
 56-2	8461-8462	,	_
 56-3	8463-8470	k-means	_
@@ -1491,6 +1547,7 @@
 56-28	8592-8593	)	_
 56-29	8594-8595	.	_
 
+Text=Fraction time (FT) - percentage of overall time spent in each state; Dwell time (DT) - average duration of time spent in each state before transitioning to the next state; Number of transitions (NT) - number of times a participant switched between states; Number of states (NS) - number of different states entered; State engagement (SE) - whether each particular state was entered.
 57-1	8596-8604	Fraction	_
 57-2	8605-8609	time	_
 57-3	8610-8611	(	_
@@ -1570,6 +1627,7 @@
 57-77	8984-8991	entered	_
 57-78	8992-8993	.	_
 
+Text=For each participant several dFNC indices were computed: Group differences Statistical analyses were conducted in IBM SPSS v.21.
 58-1	8994-8997	For	_
 58-2	8998-9002	each	_
 58-3	9003-9014	participant	_
@@ -1591,6 +1649,7 @@
 58-19	9118-9122	v.21	_
 58-20	9123-9124	.	_
 
+Text=Data of one ASD participant was excluded due to diagnostic ambiguity, thus statistical analyses included n = 99.
 59-1	9125-9129	Data	_
 59-2	9130-9132	of	_
 59-3	9133-9136	one	_
@@ -1612,6 +1671,7 @@
 59-19	9235-9237	99	_
 59-20	9238-9239	.	_
 
+Text=Univariate ANOVAs were conducted to compare age, ADOS, PANSS and WAIS between the groups, and followed by post-hoc tests when found significant.
 60-1	9240-9250	Univariate	_
 60-2	9251-9257	ANOVAs	_
 60-3	9258-9262	were	_
@@ -1639,6 +1699,7 @@
 60-25	9375-9386	significant	_
 60-26	9387-9388	.	_
 
+Text=For sex, chi-square test was used.
 61-1	9389-9392	For	_
 61-2	9393-9396	sex	_
 61-3	9397-9398	,	_
@@ -1648,6 +1709,7 @@
 61-7	9419-9423	used	_
 61-8	9424-9425	.	_
 
+Text=To assess group differences in dFNC ordinal indices, Welch's ANOVAs were used.
 62-1	9426-9428	To	_
 62-2	9429-9435	assess	_
 62-3	9436-9441	group	_
@@ -1664,6 +1726,7 @@
 62-14	9501-9505	used	_
 62-15	9506-9507	.	_
 
+Text=Welch's is a more stringent variation of ANOVA, suitable in cases of unequal group sizes, and/or unequal homogeneity of variance.
 63-1	9508-9513	Welch	_
 63-2	9514-9516	's	_
 63-3	9517-9519	is	_
@@ -1689,6 +1752,7 @@
 63-23	9631-9639	variance	_
 63-24	9640-9641	.	_
 
+Text=When found significant, concurrent Games-Howell post-hoc tests were conducted.
 64-1	9642-9646	When	_
 64-2	9647-9652	found	_
 64-3	9653-9664	significant	_
@@ -1701,6 +1765,7 @@
 64-10	9711-9720	conducted	_
 64-11	9721-9722	.	_
 
+Text=ANOVAs were chosen over a MANOVA given the different N sizes within the states (and choice of Welch's test).
 65-1	9723-9729	ANOVAs	_
 65-2	9730-9734	were	_
 65-3	9735-9741	chosen	_
@@ -1725,6 +1790,7 @@
 65-22	9832-9833	)	_
 65-23	9834-9835	.	_
 
+Text=For SE (nominal), chi-square (Fischer's exact test) was conducted.
 66-1	9836-9839	For	_
 66-2	9840-9842	SE	_
 66-3	9843-9844	(	_
@@ -1742,6 +1808,7 @@
 66-15	9898-9907	conducted	_
 66-16	9908-9909	.	_
 
+Text=To test for possible associations between dFNC results and medication intake as well as IQ score, sensitivity analyses were performed (Appendix 5).
 67-1	9910-9912	To	_
 67-2	9913-9917	test	_
 67-3	9918-9921	for	_
@@ -1769,6 +1836,7 @@
 67-25	10058-10059	)	_
 67-26	10060-10061	.	_
 
+Text=Correlation with symptoms Spearman's correlations were calculated between ordinal dFNC indices (DT2, DT3, FT1, FT2, FT3, NT) and ADOS-T and PANSS (subscales and total) scores, in the combined clinical sample.
 68-1	10062-10073	Correlation	_
 68-2	10074-10078	with	_
 68-3	10079-10087	symptoms	_
@@ -1812,6 +1880,7 @@
 68-41	10274-10280	sample	_
 68-42	10281-10282	.	_
 
+Text=Significant results were followed by correlation analyses within each group.
 69-1	10283-10294	Significant	_
 69-2	10295-10302	results	_
 69-3	10303-10307	were	_
@@ -1824,6 +1893,7 @@
 69-10	10353-10358	group	_
 69-11	10359-10360	.	_
 
+Text=DT1 was not included the correlation analysis as it had a small sample (N = 12).
 70-1	10361-10364	DT1	_
 70-2	10365-10368	was	_
 70-3	10369-10372	not	_
@@ -1844,6 +1914,7 @@
 70-18	10441-10442	)	_
 70-19	10443-10444	.	_
 
+Text=NS was also not included since it had a binary result (3/4) in most participants.
 71-1	10445-10447	NS	_
 71-2	10448-10451	was	_
 71-3	10452-10456	also	_
@@ -1863,6 +1934,7 @@
 71-17	10515-10527	participants	_
 71-18	10528-10529	.	_
 
+Text=Classification analysis Classification was conducted using three-way linear discriminant analysis (DA), with diagnostic group as the grouping variable, and all dFNC indices as independent variables except for DT (DT could not be included, since participants that did not enter a specific state have no dwell time value for that state.
 72-1	10530-10544	Classification	_
 72-2	10545-10553	analysis	_
 72-3	10554-10568	Classification	_
@@ -1921,6 +1993,7 @@
 72-56	10864-10869	state	_
 72-57	10870-10871	.	_
 
+Text=DA analyses mandate entries for all data points).
 73-1	10872-10874	DA	_
 73-2	10875-10883	analyses	_
 73-3	10884-10891	mandate	_
@@ -1932,12 +2005,14 @@
 73-9	10920-10921	)	_
 73-10	10922-10923	.	_
 
+Text=Leave-one-out cross-validation was performed.
 74-1	10924-10937	Leave-one-out	_
 74-2	10938-10954	cross-validation	_
 74-3	10955-10958	was	_
 74-4	10959-10968	performed	_
 74-5	10969-10970	.	_
 
+Text=Additionally, DA was repeated using NT as the only independent variable, to provide a simple generalizable version that doesn't depend on the specifics of the states.
 75-1	10971-10983	Additionally	_
 75-2	10984-10985	,	_
 75-3	10986-10988	DA	_
@@ -1969,6 +2044,7 @@
 75-29	11133-11139	states	_
 75-30	11140-11141	.	_
 
+Text=NT was chosen for this single-parameter classification since it is the most generalizable of all parameters- not depending on the specifics of the states or the number of different states.
 76-1	11142-11144	NT	_
 76-2	11145-11148	was	_
 76-3	11149-11155	chosen	_
@@ -2001,6 +2077,7 @@
 76-30	11323-11329	states	_
 76-31	11330-11331	.	_
 
+Text=Distance from cluster centroid (i.e., the distance of each participant's discriminant scores from the centroid of the diagnostic group to which they belong) was calculated, and compared between groups using a univariate ANOVA.
 77-1	11332-11340	Distance	_
 77-2	11341-11345	from	_
 77-3	11346-11353	cluster	_
@@ -2041,6 +2118,7 @@
 77-38	11557-11562	ANOVA	_
 77-39	11563-11564	.	_
 
+Text=This value represents disparity, thus reflecting homogeneity of scores within the groups.
 78-1	11565-11569	This	_
 78-2	11570-11575	value	_
 78-3	11576-11586	represents	_
@@ -2056,6 +2134,7 @@
 78-13	11648-11654	groups	_
 78-14	11655-11656	.	_
 
+Text=Finally, to assess symptom severity differences between the emerging clusters, univariate ANOVAs were performed with ADOS-T and PANSS (total score and subscales) as dependent variables.
 79-1	11657-11664	Finally	_
 79-2	11665-11666	,	_
 79-3	11667-11669	to	_
@@ -2087,6 +2166,7 @@
 79-29	11836-11845	variables	_
 79-30	11846-11847	.	_
 
+Text=When significant, ANOVA was followed by simple-effects analysis to asses within each diagnostic group, whether correct- vs. miss-classified individuals differed in symptoms (data of the one SZ participant that was misclassified as HC was excluded from this analysis, to refrain from biasing results by a single-case cell).
 80-1	11848-11852	When	_
 80-2	11853-11864	significant	_
 80-3	11865-11866	,	_
@@ -2141,6 +2221,7 @@
 80-52	12173-12174	)	_
 80-53	12175-12176	.	_
 
+Text=To compare HCs that were correctly classified vs. misclassified, a t-test was conducted comparing SPQ total score.
 81-1	12177-12179	To	_
 81-2	12180-12187	compare	_
 81-3	12188-12191	HCs	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Hippocampal network modularity is associated with relational memory dysfunction in schizophrenia Background Functional dysconnectivity has been proposed as a major pathophysiological mechanism for cognitive dysfunction in schizophrenia.
 1-1	0-11	Hippocampal	_
 1-2	12-19	network	_
 1-3	20-30	modularity	_
@@ -31,6 +32,7 @@
 1-27	222-235	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 1-28	236-237	.	_
 
+Text=The hippocampus is a focal point of dysconnectivity in schizophrenia, with decreased hippocampal functional connectivity contributing to the marked memory deficits observed in patients.
 2-1	238-241	The	_
 2-2	242-253	hippocampus	_
 2-3	254-256	is	_
@@ -58,6 +60,7 @@
 2-25	415-423	patients	_
 2-26	424-425	.	_
 
+Text=Normal memory function relies on the interaction of complex cortico-hippocampal networks.
 3-1	426-432	Normal	_
 3-2	433-439	memory	_
 3-3	440-448	function	_
@@ -71,6 +74,7 @@
 3-11	506-514	networks	_
 3-12	515-516	.	_
 
+Text=However, only recent technological advances have enabled the large-scale exploration of functional networks with accuracy and precision.
 4-1	517-524	However	_
 4-2	525-526	,	_
 4-3	527-531	only	_
@@ -91,6 +95,7 @@
 4-18	644-653	precision	_
 4-19	654-655	.	_
 
+Text=Methods We investigated the modularity of hippocampal resting-state functional networks in a sample of 45 patients with schizophrenia spectrum disorders and 38 healthy control subjects.
 5-1	656-663	Methods	_
 5-2	664-666	We	_
 5-3	667-679	investigated	_
@@ -118,6 +123,7 @@
 5-25	832-840	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 5-26	841-842	.	_
 
+Text=Modularity was calculated for two distinct functional networks: a core hippocampal-medial temporal lobe cortex (MTLC) network; and an extended hippocampalcortical network.
 6-1	843-853	Modularity	_
 6-2	854-857	was	_
 6-3	858-868	calculated	_
@@ -145,6 +151,7 @@
 6-25	1010-1017	network	_
 6-26	1018-1019	.	_
 
+Text=As hippocampal function differs along its longitudinal axis, follow-up analyses examined anterior and posterior networks separately.
 7-1	1020-1022	As	_
 7-2	1023-1034	hippocampal	_
 7-3	1035-1043	function	_
@@ -164,6 +171,7 @@
 7-17	1142-1152	separately	_
 7-18	1153-1154	.	_
 
+Text=To explore effects of resting network function on behavior, we tested associations between modularity and relational memory ability.
 8-1	1155-1157	To	_
 8-2	1158-1165	explore	_
 8-3	1166-1173	effects	_
@@ -185,6 +193,7 @@
 8-19	1280-1287	ability	_
 8-20	1288-1289	.	_
 
+Text=Age, sex, handedness, and parental education were similar between groups.
 9-1	1290-1293	Age	_
 9-2	1294-1295	,	_
 9-3	1296-1299	sex	_
@@ -200,6 +209,7 @@
 9-13	1359-1365	groups	_
 9-14	1366-1367	.	_
 
+Text=Results Network modularity was lower in schizophrenia patients, especially in the posterior hippocampal network.
 10-1	1368-1375	Results	_
 10-2	1376-1383	Network	_
 10-3	1384-1394	modularity	_
@@ -217,6 +227,7 @@
 10-15	1473-1480	network	_
 10-16	1481-1482	.	_
 
+Text=Schizophrenia patients also showed markedly lower relational memory ability compared to control subjects.
 11-1	1483-1496	Schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-2	1497-1505	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-3	1506-1510	also	_
@@ -232,6 +243,7 @@
 11-13	1579-1587	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 11-14	1588-1589	.	_
 
+Text=We found a distinct brain-behavior relationship in schizophrenia that differed from control subjects by network and anterior/posterior division—while relational memory in control subjects was associated with anterior hippocampal-cortical modularity, schizophrenia patients showed an association with posterior hippocampal-MTLC network modularity.
 12-1	1590-1592	We	_
 12-2	1593-1598	found	_
 12-3	1599-1600	a	_
@@ -274,6 +286,7 @@
 12-40	1926-1936	modularity	_
 12-41	1937-1938	.	_
 
+Text=Conclusions Our findings support a model of abnormal resting-state cortico-hippocampal network coherence in schizophrenia, which may contribute to relational memory deficits.
 13-1	1939-1950	Conclusions	_
 13-2	1951-1954	Our	_
 13-3	1955-1963	findings	_
@@ -298,6 +311,7 @@
 13-22	2105-2113	deficits	_
 13-23	2114-2115	.	_
 
+Text=METHODS AND MATERIAL Participants We studied 45 patients with schizophrenia spectrum disorder (i.e., schizophreniform disorder, schizophrenia, schizoaffective disorder) and 38 healthy control subjects (Table 1).
 14-1	2116-2123	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-2	2124-2127	AND	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-3	2128-2136	MATERIAL	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -332,6 +346,7 @@
 14-32	2332-2333	)	_
 14-33	2334-2335	.	_
 
+Text=Patients were recruited from the inpatient units and outpatient clinics of the Vanderbilt Psychiatric Hospital into a registered neuroimaging repository from 2008 through 2013 (clinicaltrials.gov; NCT00762866).
 15-1	2336-2344	Patients	_
 15-2	2345-2349	were	_
 15-3	2350-2359	recruited	_
@@ -363,6 +378,7 @@
 15-29	2547-2548	)	_
 15-30	2549-2550	.	_
 
+Text=All participants were assessed by a trained rater using the Structured Clinical Interview for the DSM-IV (SCID I-P), and diagnoses were confirmed by a senior clinician (S.H.)
 16-1	2551-2554	All	_
 16-2	2555-2567	participants	_
 16-3	2568-2572	were	_
@@ -397,6 +413,7 @@
 16-32	2728-2729	.	_
 16-33	2730-2731	)	_
 
+Text=through patient interview, consensus conference, and available hospital records.
 17-1	2732-2739	through	_
 17-2	2740-2747	patient	_
 17-3	2748-2757	interview	_
@@ -410,6 +427,7 @@
 17-11	2806-2813	records	_
 17-12	2814-2815	.	_
 
+Text=At the time of participation, 19 patients were diagnosed with schizophreniform disorder.
 18-1	2816-2818	At	_
 18-2	2819-2822	the	_
 18-3	2823-2827	time	_
@@ -425,6 +443,7 @@
 18-13	2896-2904	disorder	_
 18-14	2905-2906	.	_
 
+Text=Follow-up diagnoses were available for 14 of these patients: 13 patients converted to schizophrenia and 1 patient converted to schizoaffective disorder.
 19-1	2907-2916	Follow-up	_
 19-2	2917-2926	diagnoses	_
 19-3	2927-2931	were	_
@@ -449,6 +468,7 @@
 19-22	3051-3059	disorder	http://maven.renci.org/NeuroBridge/neurobridge#BipolarTypeSchizoaffectiveDisorder
 19-23	3060-3061	.	_
 
+Text=Healthy control subjects were recruited from the surrounding community.
 20-1	3062-3069	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 20-2	3070-3077	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 20-3	3078-3086	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -460,6 +480,7 @@
 20-9	3123-3132	community	_
 20-10	3133-3134	.	_
 
+Text=Participants were assessed for current mood, psychotic symptom severity, and intellectual function (see Supplementary Methods).
 21-1	3135-3147	Participants	_
 21-2	3148-3152	were	_
 21-3	3153-3161	assessed	_
@@ -481,6 +502,7 @@
 21-19	3264-3265	)	_
 21-20	3266-3267	.	_
 
+Text=There were no significant differences in age, sex, handedness, and years of parental education by group (Table 1).
 22-1	3268-3273	There	_
 22-2	3274-3278	were	_
 22-3	3279-3281	no	_
@@ -506,6 +528,7 @@
 22-23	3385-3386	)	_
 22-24	3387-3388	.	_
 
+Text=Participants were selected for this analysis based on the following criteria: 1) successful completion of an eye tracking memory study; and 2) completion of a high-quality resting-state functional connectivity scan (see quality methods below).
 23-1	3389-3401	Participants	_
 23-2	3402-3406	were	_
 23-3	3407-3415	selected	_
@@ -548,6 +571,7 @@
 23-40	3636-3637	)	_
 23-41	3638-3639	.	_
 
+Text=Twenty-eight of the 38 healthy control subjects and 23 of the 45 schizophrenia patients had been included in a previous behavioral study.
 24-1	3640-3652	Twenty-eight	_
 24-2	3653-3655	of	_
 24-3	3656-3659	the	_
@@ -572,6 +596,7 @@
 24-22	3771-3776	study	_
 24-23	3777-3778	.	_
 
+Text=Exclusion criteria were age less than 16 or greater than 65, a history of significant head injury, major medical (i.e., HIV, cancer) or neurological illness, any contraindication for MRI scanning (e.g., pregnancy, metal implants, claustrophobia), current alcohol or substance abuse within the past 3 months, and uncorrected vision deficits (see Supplementary Methods for full repository sample details).
 25-1	3779-3788	Exclusion	_
 25-2	3789-3797	criteria	_
 25-3	3798-3802	were	_
@@ -647,6 +672,7 @@
 25-73	4196-4197	)	_
 25-74	4198-4199	.	_
 
+Text=Healthy control subjects were excluded for any history of Axis I disorders or prior psychotropic medication use, or a first-degree relative with a psychotic illness.
 26-1	4200-4207	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 26-2	4208-4215	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 26-3	4216-4224	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -675,6 +701,7 @@
 26-26	4358-4365	illness	_
 26-27	4366-4367	.	_
 
+Text=Participants in both groups were predominantly white (69%), although groups differed by racial composition (X2 = 7.86, p = .005).
 27-1	4368-4380	Participants	_
 27-2	4381-4383	in	_
 27-3	4384-4388	both	_
@@ -704,6 +731,7 @@
 27-27	4502-4503	)	_
 27-28	4504-4505	.	_
 
+Text=Secondary analyses were performed to test for potential effects of race on modularity results.
 28-1	4506-4515	Secondary	_
 28-2	4516-4524	analyses	_
 28-3	4525-4529	were	_
@@ -720,6 +748,7 @@
 28-14	4592-4599	results	_
 28-15	4600-4601	.	_
 
+Text=This study was conducted in accordance with the Vanderbilt Human Research Protection Program and all participants provided written informed consent prior to study procedures.
 29-1	4602-4606	This	_
 29-2	4607-4612	study	_
 29-3	4613-4616	was	_
@@ -746,6 +775,7 @@
 29-24	4765-4775	procedures	_
 29-25	4776-4777	.	_
 
+Text=Participants received financial compensation for their time.
 30-1	4778-4790	Participants	_
 30-2	4791-4799	received	_
 30-3	4800-4809	financial	_
@@ -755,6 +785,7 @@
 30-7	4833-4837	time	_
 30-8	4838-4839	.	_
 
+Text=Relational memory behavior Eye movements were recorded to assess memory performance during a face-scene pair task.
 31-1	4840-4850	Relational	_
 31-2	4851-4857	memory	_
 31-3	4858-4866	behavior	_
@@ -773,6 +804,7 @@
 31-16	4949-4953	task	_
 31-17	4954-4955	.	_
 
+Text=During testing, participants were shown three previously-seen faces superimposed over a previously-seen background scene.
 32-1	4956-4962	During	_
 32-2	4963-4970	testing	_
 32-3	4971-4972	,	_
@@ -790,6 +822,7 @@
 32-15	5072-5077	scene	_
 32-16	5078-5079	.	_
 
+Text=One of the three overlaid faces (Match face) had been previously paired with the background scene (for further details see Supplementary Methods).
 33-1	5080-5083	One	_
 33-2	5084-5086	of	_
 33-3	5087-5090	the	_
@@ -818,6 +851,7 @@
 33-26	5228-5229	)	_
 33-27	5230-5231	.	_
 
+Text=During the first 2 s of test trials, schizophrenia patients spent less time fixating on faces and scenes compared to control subjects (Schizophrenia mean = 1.24 s, SD = .16 s; Control mean =1.48 s, SD = .22 s; F = 29.46, p <.001), suggesting more time spent on blinks or looking away from the monitor; therefore, element viewing times were corrected for total viewing time.
 34-1	5232-5238	During	_
 34-2	5239-5242	the	_
 34-3	5243-5248	first	_
@@ -898,6 +932,7 @@
 34-78	5612-5616	time	_
 34-79	5617-5618	.	_
 
+Text=Previous findings have shown that preferential viewing associated with hippocampal function occurs within the first 2 s of face-scene test viewing.
 35-1	5619-5627	Previous	_
 35-2	5628-5636	findings	_
 35-3	5637-5641	have	_
@@ -921,6 +956,7 @@
 35-21	5758-5765	viewing	_
 35-22	5766-5767	.	_
 
+Text=Therefore, relational memory performance was characterized as the change in the proportion of time spent viewing the Match face (slope) during the first 2 s of each Match trial.
 36-1	5768-5777	Therefore	_
 36-2	5778-5779	,	_
 36-3	5780-5790	relational	_
@@ -955,6 +991,7 @@
 36-32	5942-5947	trial	_
 36-33	5948-5949	.	_
 
+Text=Slopes were corrected for between-subject differences in initial eye position (first 250 ms) following face presentation.
 37-1	5950-5956	Slopes	_
 37-2	5957-5961	were	_
 37-3	5962-5971	corrected	_
@@ -975,6 +1012,7 @@
 37-18	6060-6072	presentation	_
 37-19	6073-6074	.	_
 
+Text=Imaging data acquisition and pre-processing Imaging data were collected on two identical 3T Philips Intera Achieva magnetic resonance imaging (MRI) scanners located in the Vanderbilt University Institute for Imaging Science.
 38-1	6075-6082	Imaging	_
 38-2	6083-6087	data	_
 38-3	6088-6099	acquisition	_
@@ -1009,6 +1047,7 @@
 38-32	6293-6300	Science	_
 38-33	6301-6302	.	_
 
+Text=A high-resolution T1-weighted fast field echo (FFE) structural scan (Supplementary Methods) and a 7-minute echo-planar imaging resting-state functional scan (rs-fMRI) were collected for each subject.
 39-1	6303-6304	A	_
 39-2	6305-6320	high-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 39-3	6321-6332	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1042,6 +1081,7 @@
 39-31	6500-6507	subject	_
 39-32	6508-6509	.	_
 
+Text=The rs-fMRI was collected with the following parameters, which provided whole-brain coverage: 28 axial slices; FOV = 240 mm; matrix = 80 × 80, 3 mm × 3 mm in-plane resolution, slice thickness = 4 mm; volumes = 203; TR = 2 s; TE = 35 ms; SENSE = 1.8.
 40-1	6510-6513	The	_
 40-2	6514-6521	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 40-3	6522-6525	was	_
@@ -1104,6 +1144,7 @@
 40-60	6765-6768	1.8	_
 40-61	6769-6770	.	_
 
+Text=Participants were instructed to relax and close their eyes and to remain awake during the scan.
 41-1	6771-6783	Participants	_
 41-2	6784-6788	were	_
 41-3	6789-6799	instructed	_
@@ -1122,6 +1163,7 @@
 41-16	6861-6865	scan	_
 41-17	6866-6867	.	_
 
+Text=The rs-fMRI was acquired following the structural scan and was not preceded by any cognitive tasks.
 42-1	6868-6871	The	_
 42-2	6872-6879	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 42-3	6880-6883	was	_
@@ -1140,6 +1182,7 @@
 42-16	6961-6966	tasks	_
 42-17	6967-6968	.	_
 
+Text=Resting-state data were motion corrected, coregistered to the subject ’ s structural image, and normalized to an MNI T1 template image in SPM8 (http: //www.fil.ion.ucl.ac.uk/spm) (Supplementary Methods).
 43-1	6969-6982	Resting-state	_
 43-2	6983-6987	data	_
 43-3	6988-6992	were	_
@@ -1176,6 +1219,7 @@
 43-34	7177-7178	)	_
 43-35	7179-7180	.	_
 
+Text=Functional quality measures were computed using an in-house quality assurance toolbox; data with motion greater than 2 mm translation or 2° rotation, or with median framewise displacement (FD) greater than 0.6 mm were not selected for analysis.
 44-1	7181-7191	Functional	_
 44-2	7192-7199	quality	_
 44-3	7200-7208	measures	_
@@ -1219,6 +1263,7 @@
 44-41	7420-7428	analysis	_
 44-42	7429-7430	.	_
 
+Text=Overall, motion was low (translation [max] = .82 mm, rotation [max] = 1.27°, median FD [max] = .55) across subjects and similar between groups (all p ’ s>.2).
 45-1	7431-7438	Overall	_
 45-2	7439-7440	,	_
 45-3	7441-7447	motion	_
@@ -1264,6 +1309,7 @@
 45-43	7602-7603	)	_
 45-44	7604-7605	.	_
 
+Text=Functional connectivity and network modularity analysis Network connectivity was calculated at two levels: the hippocampal-medial temporal lobe cortex (MTLC) network, a core hippocampal network comprised of proximal connections central to memory function, including the hippocampal formation and adjacent entorhinal, perirhinal, and parahippocampal cortices; and the hippocampal-cortical network, a broader network including prefrontal, temporal, and parietal cortical regions that support memory function (Figure 1).
 46-1	7606-7616	Functional	_
 46-2	7617-7629	connectivity	_
 46-3	7630-7633	and	_
@@ -1342,6 +1388,7 @@
 46-76	8134-8135	)	_
 46-77	8136-8137	.	_
 
+Text=Because memory function and connectivity vary along the longitudinal axis of the hippocampus, follow-up analyses were conducted for the anterior and posterior hippocampus separately.
 47-1	8138-8145	Because	_
 47-2	8146-8152	memory	_
 47-3	8153-8161	function	_
@@ -1369,6 +1416,7 @@
 47-25	8310-8320	separately	_
 47-26	8321-8322	.	_
 
+Text=To capture individual variation of hippocampal structure, hippocampus region of interest (ROI) masks were created for each participant using in-house multi-atlas segmentation techniques.
 48-1	8323-8325	To	_
 48-2	8326-8333	capture	_
 48-3	8334-8344	individual	_
@@ -1397,6 +1445,7 @@
 48-26	8501-8511	techniques	_
 48-27	8512-8513	.	_
 
+Text=Each ROI was manually segmented into an anterior and posterior mask by a trained rater (S.A.).
 49-1	8514-8518	Each	_
 49-2	8519-8522	ROI	_
 49-3	8523-8526	was	_
@@ -1417,6 +1466,7 @@
 49-18	8608-8609	)	_
 49-19	8610-8611	.	_
 
+Text=The anterior lateral and posterior medial entorhinal cortex were delineated by high-resolution functionally-derived masks.
 50-1	8612-8615	The	_
 50-2	8616-8624	anterior	_
 50-3	8625-8632	lateral	_
@@ -1433,6 +1483,7 @@
 50-14	8728-8733	masks	_
 50-15	8734-8735	.	_
 
+Text=For the remaining cortical ROIs, a regular 12 mm grid containing 1068 spheres was overlaid on each subject ’ s anatomically-segmented brain.
 51-1	8736-8739	For	_
 51-2	8740-8743	the	_
 51-3	8744-8753	remaining	_
@@ -1458,6 +1509,7 @@
 51-23	8871-8876	brain	_
 51-24	8877-8878	.	_
 
+Text=Using anatomical atlases, spheres were selected within the perirhinal cortex (n = 2, bilateral) and parahippocampal cortex (n = 4, bilateral).
 52-1	8879-8884	Using	_
 52-2	8885-8895	anatomical	_
 52-3	8896-8903	atlases	_
@@ -1488,6 +1540,7 @@
 52-28	9026-9027	)	_
 52-29	9028-9029	.	_
 
+Text=The remaining cortical spheres were chosen based on coordinates from an independent sample that show resting-state functional connectivity with the hippocampus (see Supplementary Table S1 for sphere coordinates).
 53-1	9030-9033	The	_
 53-2	9034-9043	remaining	_
 53-3	9044-9052	cortical	_
@@ -1520,6 +1573,7 @@
 53-30	9242-9243	)	_
 53-31	9244-9245	.	_
 
+Text=In total, the hippocampal-cortical network consisted 72 nodes (ROIs) and 2,556 possible edges (connections), while the core hippocampal-MTLC network consisted of 20 nodes and 190 possible edges.
 54-1	9246-9248	In	_
 54-2	9249-9254	total	_
 54-3	9255-9256	,	_
@@ -1555,6 +1609,7 @@
 54-33	9440-9445	edges	_
 54-34	9446-9447	.	_
 
+Text=Connectivity analyses were performed in the Functional Connectivity (CONN) toolbox v16.a (www.nitrc.org/projects/conn).
 55-1	9448-9460	Connectivity	_
 55-2	9461-9469	analyses	_
 55-3	9470-9474	were	_
@@ -1573,6 +1628,7 @@
 55-16	9569-9570	)	_
 55-17	9571-9572	.	_
 
+Text=Connectivity matrices (Supplementary Methods) were calculated for each subject and connections were analyzed for laterality differences.
 56-1	9573-9585	Connectivity	_
 56-2	9586-9594	matrices	_
 56-3	9595-9596	(	_
@@ -1593,6 +1649,7 @@
 56-18	9699-9710	differences	_
 56-19	9711-9712	.	_
 
+Text=Connectivity strength was similar across hemispheres; therefore, left and right hemisphere connectivity values were averaged.
 57-1	9713-9725	Connectivity	_
 57-2	9726-9734	strength	_
 57-3	9735-9738	was	_
@@ -1612,6 +1669,7 @@
 57-17	9831-9839	averaged	_
 57-18	9840-9841	.	_
 
+Text=To enhance contrast between relevant (strong) and irrelevant (weak) networks, graph matrices were thresholded to include only moderate to strong connections (|r| ≥.5).
 58-1	9842-9844	To	_
 58-2	9845-9852	enhance	_
 58-3	9853-9861	contrast	_
@@ -1644,6 +1702,7 @@
 58-30	10014-10015	)	_
 58-31	10016-10017	.	_
 
+Text=The number of retained connections (edges) was similar between groups (sparsity ~2%, p = .74) (Supplementary Methods).
 59-1	10018-10021	The	_
 59-2	10022-10028	number	_
 59-3	10029-10031	of	_
@@ -1671,6 +1730,7 @@
 59-25	10142-10143	)	_
 59-26	10144-10145	.	_
 
+Text=Thresholded functional connectivity matrices are displayed in Supplementary Figure S1.
 60-1	10146-10157	Thresholded	_
 60-2	10158-10168	functional	_
 60-3	10169-10181	connectivity	_
@@ -1683,6 +1743,7 @@
 60-10	10229-10231	S1	_
 60-11	10232-10233	.	_
 
+Text=To explore the stability of networks over different levels of sparsity, graph matrices were also thresholded at values ranging from mild to strong connectivity (r = .3, .4, .6, .7), corresponding to network sparsity of ~13%, 6%, 1%, and .5% (Supplementary Figure S2).
 61-1	10234-10236	To	_
 61-2	10237-10244	explore	_
 61-3	10245-10248	the	_
@@ -1744,6 +1805,7 @@
 61-59	10515-10516	)	_
 61-60	10517-10518	.	_
 
+Text=Connection matrices were binarized for each participant to create unweighted networks.
 62-1	10519-10529	Connection	_
 62-2	10530-10538	matrices	_
 62-3	10539-10543	were	_
@@ -1757,6 +1819,7 @@
 62-11	10596-10604	networks	_
 62-12	10605-10606	.	_
 
+Text=Secondary analyses using only the positive connectivity network were also conducted to determine stability of findings.
 63-1	10607-10616	Secondary	_
 63-2	10617-10625	analyses	_
 63-3	10626-10631	using	_
@@ -1775,6 +1838,7 @@
 63-16	10717-10725	findings	_
 63-17	10726-10727	.	_
 
+Text=Connection matrices were collapsed by anatomical region for the purposes of visual display (Figure 1).
 64-1	10728-10738	Connection	_
 64-2	10739-10747	matrices	_
 64-3	10748-10752	were	_
@@ -1794,6 +1858,7 @@
 64-17	10830-10831	)	_
 64-18	10832-10833	.	_
 
+Text=Modularity (Q) was calculated for a priori hippocampal networks (Figure 1) according to Newman ’ s metric.
 65-1	10834-10844	Modularity	_
 65-2	10845-10846	(	_
 65-3	10847-10848	Q	_
@@ -1817,6 +1882,7 @@
 65-21	10937-10943	metric	_
 65-22	10944-10945	.	_
 
+Text=Modularity can be described as the quality of the partition of the network, or the fraction of connections that fall within the network minus the expected fraction if connections were distributed at random.
 66-1	10946-10956	Modularity	_
 66-2	10957-10960	can	_
 66-3	10961-10963	be	_
@@ -1853,6 +1919,7 @@
 66-34	11146-11152	random	_
 66-35	11153-11154	.	_
 
+Text=Higher modularity values indicate a tightly knit community (modules) with dense inter-connections, while a modularity value of zero indicates no greater community structure than would be expected by chance.
 67-1	11155-11161	Higher	_
 67-2	11162-11172	modularity	_
 67-3	11173-11179	values	_
@@ -1887,6 +1954,7 @@
 67-32	11357-11363	chance	_
 67-33	11364-11365	.	_
 
+Text=Hippocampal asymmetry scores were calculated to examine the relationship between anterior and posterior networks.
 68-1	11366-11377	Hippocampal	_
 68-2	11378-11387	asymmetry	_
 68-3	11388-11394	scores	_
@@ -1903,6 +1971,7 @@
 68-14	11470-11478	networks	_
 68-15	11479-11480	.	_
 
+Text=Modularity values were converted to z-scores (mean = 100, SD = 25) and asymmetry was calculated as the difference in modularity between anterior and posterior networks, with higher scores indicating an anterior> posterior asymmetry in modularity strength.
 69-1	11481-11491	Modularity	_
 69-2	11492-11498	values	_
 69-3	11499-11503	were	_
@@ -1947,6 +2016,7 @@
 69-42	11732-11740	strength	_
 69-43	11741-11742	.	_
 
+Text=Anterior and posterior hippocampal functional connectivity may be differentially affected by age; therefore, all within-group asymmetry analyses were corrected for potential age effects.
 70-1	11743-11751	Anterior	_
 70-2	11752-11755	and	_
 70-3	11756-11765	posterior	_
@@ -1974,6 +2044,7 @@
 70-25	11923-11930	effects	_
 70-26	11931-11932	.	_
 
+Text=Modularity calculations were conducted using Matlab R2016b (The MathWorks Inc., Natick, MA).
 71-1	11933-11943	Modularity	_
 71-2	11944-11956	calculations	_
 71-3	11957-11961	were	_
@@ -1992,6 +2063,7 @@
 71-16	12027-12028	)	_
 71-17	12029-12030	.	_
 
+Text=Statistical analysis One-way analysis of variance (ANOVA) tested for between-group comparisons of hippocampal network modularity (p = .05).
 72-1	12031-12042	Statistical	_
 72-2	12043-12051	analysis	_
 72-3	12052-12059	One-way	_
@@ -2016,6 +2088,7 @@
 72-22	12172-12173	)	_
 72-23	12174-12175	.	_
 
+Text=Properties of the functional connectivity matrix were calculated to describe patterns contributing to modularity; means and standard deviations are presented for descriptive data.
 73-1	12176-12186	Properties	_
 73-2	12187-12189	of	_
 73-3	12190-12193	the	_
@@ -2042,6 +2115,7 @@
 73-24	12351-12355	data	_
 73-25	12356-12357	.	_
 
+Text=To assess whether memory network modularity was associated with relational memory function, Spearman correlations between modularity and relational memory slope were examined (p = .05).
 74-1	12358-12360	To	_
 74-2	12361-12367	assess	_
 74-3	12368-12375	whether	_
@@ -2072,6 +2146,7 @@
 74-28	12544-12545	)	_
 74-29	12546-12547	.	_
 
+Text=Spearman correlations do not assume a linear relationship, but rather measure the monotonic relationship between variables, including non-linear relationships.
 75-1	12548-12556	Spearman	_
 75-2	12557-12569	correlations	_
 75-3	12570-12572	do	_
@@ -2095,6 +2170,7 @@
 75-21	12695-12708	relationships	_
 75-22	12709-12710	.	_
 
+Text=A priori follow-up comparisons of individual anterior and posterior networks were Bonferroni-corrected (p = .025).
 76-1	12711-12712	A	_
 76-2	12713-12719	priori	_
 76-3	12720-12729	follow-up	_
@@ -2114,6 +2190,7 @@
 76-17	12825-12826	)	_
 76-18	12827-12828	.	_
 
+Text=To ensure modularity distributions did not influence findings, all between-group results were confirmed using non-parametric tests.
 77-1	12829-12831	To	_
 77-2	12832-12838	ensure	_
 77-3	12839-12849	modularity	_
@@ -2133,6 +2210,7 @@
 77-17	12955-12960	tests	_
 77-18	12961-12962	.	_
 
+Text=Statistical analyses were performed using SAS software v9.4 (SAS Institute Inc., Cary, NC).
 78-1	12963-12974	Statistical	_
 78-2	12975-12983	analyses	_
 78-3	12984-12988	were	_

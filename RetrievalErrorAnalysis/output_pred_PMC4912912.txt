@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Sample-Poor Estimation of Order and Common Signal Subspace with Application to Fusion of Medical Imaging Data Due to their data-driven nature, multivariate methods such as canonical correlation analysis (CCA) have proven very useful for fusion of multimodal neurological data.
 1-1	0-11	Sample-Poor	_
 1-2	12-22	Estimation	_
 1-3	23-25	of	_
@@ -46,6 +47,7 @@
 1-42	274-278	data	_
 1-43	279-280	.	_
 
+Text=However, being able to determine the degree of similarity between datasets and appropriate order selection are crucial to the success of such techniques.
 2-1	281-288	However	_
 2-2	289-290	,	_
 2-3	291-296	being	_
@@ -72,6 +74,7 @@
 2-24	424-434	techniques	_
 2-25	435-436	.	_
 
+Text=The standard methods for calculating the order of multimodal data focus only on sources with the greatest individual energy and ignore relations across datasets.
 3-1	437-440	The	_
 3-2	441-449	standard	_
 3-3	450-457	methods	_
@@ -98,6 +101,7 @@
 3-24	589-597	datasets	_
 3-25	598-599	.	_
 
+Text=Additionally, these techniques as well as the most widely-used methods for determining the degree of similarity between datasets assume sufficient sample support and are not effective in the sample-poor regime.
 4-1	600-612	Additionally	_
 4-2	613-614	,	_
 4-3	615-620	these	_
@@ -131,6 +135,7 @@
 4-31	804-810	regime	_
 4-32	811-812	.	_
 
+Text=In this paper, we propose to jointly estimate the degree of similarity between datasets and their order when few samples are present using principal component analysis and canonical correlation analysis (PCA-CCA).
 5-1	813-815	In	_
 5-2	816-820	this	_
 5-3	821-826	paper	_
@@ -167,6 +172,7 @@
 5-34	1027-1028	)	_
 5-35	1029-1030	.	_
 
+Text=By considering these two problems simultaneously, we are able to minimize the assumptions placed on the data and achieve superior performance in the sample-poor regime compared to traditional techniques.
 6-1	1031-1033	By	_
 6-2	1034-1045	considering	_
 6-3	1046-1051	these	_
@@ -199,6 +205,7 @@
 6-30	1224-1234	techniques	_
 6-31	1235-1236	.	_
 
+Text=We apply PCA-CCA to the pairwise combinations of functional magnetic resonance imaging (fMRI), structural magnetic resonance imaging (sMRI), and electroencephalogram (EEG) data drawn from patients with schizophrenia and healthy controls while performing an auditory oddball task.
 7-1	1237-1239	We	_
 7-2	1240-1245	apply	_
 7-3	1246-1253	PCA-CCA	_
@@ -245,6 +252,7 @@
 7-44	1519-1523	task	_
 7-45	1524-1525	.	_
 
+Text=The PCA-CCA results indicate that the fMRI and sMRI datasets are the most similar, whereas the sMRI and EEG datasets share the least similarity.
 8-1	1526-1529	The	_
 8-2	1530-1537	PCA-CCA	_
 8-3	1538-1545	results	_
@@ -272,6 +280,7 @@
 8-25	1660-1670	similarity	_
 8-26	1671-1672	.	_
 
+Text=We also demonstrate that the degree of similarity obtained by PCA-CCA is highly predictive of the degree of significance found for components generated using CCA.
 9-1	1673-1675	We	_
 9-2	1676-1680	also	_
 9-3	1681-1692	demonstrate	_
@@ -299,19 +308,23 @@
 9-25	1831-1834	CCA	_
 9-26	1835-1836	.	_
 
+Text=2.
 10-1	1837-1838	2	_
 10-2	1839-1840	.	_
 
+Text=Materials and Methods 2.1.
 11-1	1841-1850	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	1851-1854	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	1855-1862	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-4	1863-1866	2.1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-5	1867-1868	.	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 
+Text=Theory 2.1.1.
 12-1	1869-1875	Theory	_
 12-2	1876-1881	2.1.1	_
 12-3	1882-1883	.	_
 
+Text=Traditional and Sample-poor Hypothesis Test Let us assume that we have M independent and identically distributed (i.i.d.)
 13-1	1884-1895	Traditional	_
 13-2	1896-1899	and	_
 13-3	1900-1911	Sample-poor	_
@@ -333,6 +346,7 @@
 13-19	2005-2006	.	_
 13-20	2007-2008	)	_
 
+Text=paired samples of x [1] ∈ ℝn and x [2] ∈ ℝm from the two-channel measurement model, where s [k] ∈ ℝd+f, k = 1, 2, are zero-mean jointly Gaussian random vectors with cross-covariance matrix, Rs1s2 = E {s [1] (s [2]) T}, given by where is the unknown standard deviation of signal component and ρi is the correlation coefficient between and.
 14-1	2009-2015	paired	_
 14-2	2016-2023	samples	_
 14-3	2024-2026	of	_
@@ -417,6 +431,7 @@
 14-82	2363-2366	and	_
 14-83	2367-2368	.	_
 
+Text=Thus, both s [1] and s [2] have d correlated signals and f uncorrelated signals.
 15-1	2369-2373	Thus	_
 15-2	2374-2375	,	_
 15-3	2376-2380	both	_
@@ -439,6 +454,7 @@
 15-20	2446-2453	signals	_
 15-21	2454-2455	.	_
 
+Text=Without loss of generality, we assume the auto-covariance matrices of s [1] and s [2] to be diagonal.
 16-1	2456-2463	Without	_
 16-2	2464-2468	loss	_
 16-3	2469-2471	of	_
@@ -464,6 +480,7 @@
 16-23	2553-2561	diagonal	_
 16-24	2562-2563	.	_
 
+Text=The noise terms n [1] and n [2] are independent of each other, independent of the signals, and zero-mean Gaussian with unknown covariance matrices.
 17-1	2564-2567	The	_
 17-2	2568-2573	noise	_
 17-3	2574-2579	terms	_
@@ -496,6 +513,7 @@
 17-30	2708-2716	matrices	_
 17-31	2717-2718	.	_
 
+Text=Additionally, without loss of generality we assume that A [1] and A [2] are of full column rank and, like the dimensions d and f, are fixed but unknown.
 18-1	2719-2731	Additionally	_
 18-2	2732-2733	,	_
 18-3	2734-2741	without	_
@@ -534,6 +552,7 @@
 18-36	2870-2877	unknown	_
 18-37	2878-2879	.	_
 
+Text=We collect the M sample pairs into data matrices and.
 19-1	2880-2882	We	_
 19-2	2883-2890	collect	_
 19-3	2891-2894	the	_
@@ -546,6 +565,7 @@
 19-10	2929-2932	and	_
 19-11	2933-2934	.	_
 
+Text=When performing CCA when M <m+n, at least m+n−M of the sample canonical correlation coefficients, k̂i, i = 1, …, q, q = min (m, n), will be identically 1 regardless of the values of ρi and thus do not provide any information about the relationship between s [1] and s [2].
 20-1	2935-2939	When	_
 20-2	2940-2950	performing	_
 20-3	2951-2954	CCA	_
@@ -615,6 +635,7 @@
 20-67	3220-3221	]	_
 20-68	3222-3223	.	_
 
+Text=Moreover, even in the case where M is greater, but not significantly greater, than m+n, the sample canonical correlations may significantly overestimate the population canonical correlations.
 21-1	3224-3232	Moreover	_
 21-2	3233-3234	,	_
 21-3	3235-3239	even	_
@@ -647,6 +668,7 @@
 21-30	3406-3418	correlations	_
 21-31	3419-3420	.	_
 
+Text=This result provides the incentive to estimate a suitable rank, r, in order to reduce the dimensions of X [1] and X [2], thus allowing accurate estimation of the number of correlated signals.
 22-1	3421-3425	This	_
 22-2	3426-3432	result	_
 22-3	3433-3441	provides	_
@@ -689,6 +711,7 @@
 22-40	3611-3618	signals	_
 22-41	3619-3620	.	_
 
+Text=A classical way of estimating d is by assuming that the sources are drawn from a multivariate Gaussian distribution and applying a sequence of binary hypothesis tests.
 23-1	3621-3622	A	_
 23-2	3623-3632	classical	_
 23-3	3633-3636	way	_
@@ -718,6 +741,7 @@
 23-27	3782-3787	tests	_
 23-28	3788-3789	.	_
 
+Text=The test begins with s = 0 and compares the two hypotheses H0: d = s and H1: d> s. If the null hypothesis is rejected, then s is increased by one and the test is repeated, until either the null hypothesis is not rejected or s = q.
 24-1	3790-3793	The	_
 24-2	3794-3798	test	_
 24-3	3799-3805	begins	_
@@ -774,6 +798,7 @@
 24-54	4023-4024	q	_
 24-55	4025-4026	.	_
 
+Text=This test is based on the Bartlett-Lawley statistic, which is given by and is asymptotically distributed under H0 as χ2 with (m−s) (n−s) degrees of freedom.
 25-1	4027-4031	This	_
 25-2	4032-4036	test	_
 25-3	4037-4039	is	_
@@ -807,6 +832,7 @@
 25-31	4180-4187	freedom	_
 25-32	4188-4189	.	_
 
+Text=The fact that the test statistic is distributed according to the χ2 distribution enables the determination of a threshold, T (s), to meet a given probability of false alarm, PFA, for the test.
 26-1	4190-4193	The	_
 26-2	4194-4198	fact	_
 26-3	4199-4203	that	_
@@ -848,6 +874,7 @@
 26-39	4383-4387	test	_
 26-40	4388-4389	.	_
 
+Text=A major constraint of the traditional framework is the assumption of sufficient samples, i.e., that the k̂i ’ s are accurate estimates of the true ki ’ s, making it not applicable for the sample-poor regime.
 27-1	4390-4391	A	_
 27-2	4392-4397	major	_
 27-3	4398-4408	constraint	_
@@ -889,6 +916,7 @@
 27-39	4593-4599	regime	_
 27-40	4600-4601	.	_
 
+Text=As proposed in, the sample-poor version of the classical hypothesis test selects where ℛ = {1, …, rmax}, 𝒮 = {0, …, r − 1}, and rmax = min (M/2, q) and the test statistic is Note in the above expression that the estimated canonical correlations are functions of the reduced rank, r; if r is too big, then k̂i will be over-estimated, while if it is too small, then k̂i will be under-estimated.
 28-1	4602-4604	As	_
 28-2	4605-4613	proposed	_
 28-3	4614-4616	in	_
@@ -984,6 +1012,7 @@
 28-93	4997-5012	under-estimated	_
 28-94	5013-5014	.	_
 
+Text=By limiting the dimension through rmax, we can ensure that none of the estimated canonical correlations will saturate at 1.
 29-1	5015-5017	By	_
 29-2	5018-5026	limiting	_
 29-3	5027-5030	the	_
@@ -1007,6 +1036,7 @@
 29-21	5137-5138	1	_
 29-22	5139-5140	.	_
 
+Text=Note that to guarantee that the rank-reduced statistic under H0 is still asymptotically distributed as χ2 with (r−s) 2 degrees of freedom, we must pick rmax “ sufficiently ” smaller than M/2.
 30-1	5141-5145	Note	_
 30-2	5146-5150	that	_
 30-3	5151-5153	to	_
@@ -1044,6 +1074,7 @@
 30-35	5331-5334	M/2	_
 30-36	5335-5336	.	_
 
+Text=This is critical in order to compute the test threshold, T (s, r), for a given probability of false alarm.
 31-1	5337-5341	This	_
 31-2	5342-5344	is	_
 31-3	5345-5353	critical	_
@@ -1071,6 +1102,7 @@
 31-25	5442-5447	alarm	_
 31-26	5448-5449	.	_
 
+Text=Based on our numerical simulations, a good value for rmax seems to be ⌊M/3⌋, where ⌊·⌋ is the floor function.
 32-1	5450-5455	Based	_
 32-2	5456-5458	on	_
 32-3	5459-5462	our	_
@@ -1095,6 +1127,7 @@
 32-22	5552-5560	function	_
 32-23	5561-5562	.	_
 
+Text=However, note that there is a certain degree of robustness of the results to the selection of the value of rmax observed in real data.
 33-1	5563-5570	However	_
 33-2	5571-5572	,	_
 33-3	5573-5577	note	_
@@ -1123,6 +1156,7 @@
 33-26	5693-5697	data	_
 33-27	5698-5699	.	_
 
+Text=The value for r that leads to d̂ in (3) is chosen as the PCA rank.
 34-1	5700-5703	The	_
 34-2	5704-5709	value	_
 34-3	5710-5713	for	_
@@ -1143,6 +1177,7 @@
 34-18	5763-5767	rank	_
 34-19	5768-5769	.	_
 
+Text=Greater detail about the implementation of PCA-CCA to determine the order and similarity between multimodal datasets is found in Appendix B.
 35-1	5770-5777	Greater	_
 35-2	5778-5784	detail	_
 35-3	5785-5790	about	_
@@ -1166,9 +1201,11 @@
 35-21	5908-5909	B	_
 35-22	5910-5911	.	_
 
+Text=2.1.2.
 36-1	5912-5917	2.1.2	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 36-2	5918-5919	.	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 
+Text=CCA for Multimodal Fusion Due to the inherent dissimilarities between different modalities, direct fusion of multimodal data is difficult.
 37-1	5920-5923	CCA	_
 37-2	5924-5927	for	_
 37-3	5928-5938	Multimodal	_
@@ -1191,6 +1228,7 @@
 37-20	6049-6058	difficult	_
 37-21	6059-6060	.	_
 
+Text=Therefore, rather than jointly analyzing the multimodal datasets directly, it is often beneficial to reduce each modality to a feature, a lower-dimensional multivariate representation of the data, for each subject within the study.
 38-1	6061-6070	Therefore	_
 38-2	6071-6072	,	_
 38-3	6073-6079	rather	_
@@ -1230,6 +1268,7 @@
 38-37	6290-6295	study	_
 38-38	6296-6297	.	_
 
+Text=See Section 3.2 for greater detail about the features used in this study.
 39-1	6298-6301	See	_
 39-2	6302-6309	Section	_
 39-3	6310-6313	3.2	_
@@ -1245,6 +1284,7 @@
 39-13	6365-6370	study	_
 39-14	6371-6372	.	_
 
+Text=This reduction enables the exploration of associations across feature sets through the analysis of variations across individuals.
 40-1	6373-6377	This	_
 40-2	6378-6387	reduction	_
 40-3	6388-6395	enables	_
@@ -1264,6 +1304,7 @@
 40-17	6490-6501	individuals	_
 40-18	6502-6503	.	_
 
+Text=Such an investigation of variations between subjects through fused features provides a natural way to explore associations across modalities, since it constructs a common dimension for datasets of otherwise different dimensionality.
 41-1	6504-6508	Such	_
 41-2	6509-6511	an	_
 41-3	6512-6525	investigation	_
@@ -1298,6 +1339,7 @@
 41-32	6722-6736	dimensionality	_
 41-33	6737-6738	.	_
 
+Text=In addition, due to the dissimilarities between modalities, the subject covariations provide the dimension of coherence in multimodal fusion using CCA, since similarity between covariations across modalities is expected.
 42-1	6739-6741	In	_
 42-2	6742-6750	addition	_
 42-3	6751-6752	,	_
@@ -1332,6 +1374,7 @@
 42-32	6953-6961	expected	_
 42-33	6962-6963	.	_
 
+Text=Figure 1 depicts the model for multimodal fusion using CCA following spatial dimension reduction through PCA; the implementation of CCA for fusion is presented next.
 43-1	6964-6970	Figure	_
 43-2	6971-6972	1	_
 43-3	6973-6980	depicts	_
@@ -1360,6 +1403,7 @@
 43-26	7125-7129	next	_
 43-27	7130-7131	.	_
 
+Text=As explained in detail in Appendix B, we apply spatial dimension reduction through PCA, where the order, r, is selected using (3), to obtain dimension reduced feature datasets X̃ [1] and X̃ [2].
 44-1	7132-7134	As	_
 44-2	7135-7144	explained	_
 44-3	7145-7147	in	_
@@ -1406,6 +1450,7 @@
 44-44	7335-7336	]	_
 44-45	7337-7338	.	_
 
+Text=These datasets can be decomposed into the combination of subject covariations, S̃ [1] and S̃ [2], and associated components, Ã [1] and Ã [2], in the following manner, By using this decomposition, the relationship across modalities can be evaluated based on the correlation of the subject covariations between the two modalities.
 45-1	7339-7344	These	_
 45-2	7345-7353	datasets	_
 45-3	7354-7357	can	_
@@ -1473,6 +1518,7 @@
 45-65	7670-7680	modalities	_
 45-66	7681-7682	.	_
 
+Text=We assume that the subject covariations are uncorrelated within each modality and are correlated with at most one subject covariation from the other modality.
 46-1	7683-7685	We	_
 46-2	7686-7692	assume	_
 46-3	7693-7697	that	_
@@ -1499,6 +1545,7 @@
 46-24	7832-7840	modality	_
 46-25	7841-7842	.	_
 
+Text=This enables the exploration of the associations across the modalities.
 47-1	7843-7847	This	_
 47-2	7848-7855	enables	_
 47-3	7856-7859	the	_
@@ -1511,6 +1558,7 @@
 47-10	7903-7913	modalities	_
 47-11	7914-7915	.	_
 
+Text=Additionally, note the lack of a noise term in (4), which emphasizes that this analysis occurs following dimension reduction through PCA.
 48-1	7916-7928	Additionally	_
 48-2	7929-7930	,	_
 48-3	7931-7935	note	_
@@ -1538,6 +1586,7 @@
 48-25	8053-8056	PCA	_
 48-26	8057-8058	.	_
 
+Text=By exploiting the simple form of (4), we can use CCA to identify relations between the subject correlations.
 49-1	8059-8061	By	_
 49-2	8062-8072	exploiting	_
 49-3	8073-8076	the	_
@@ -1561,6 +1610,7 @@
 49-21	8157-8169	correlations	_
 49-22	8170-8171	.	_
 
+Text=CCA seeks to transform these two sets of data in order to maximize their correlation.
 50-1	8172-8175	CCA	_
 50-2	8176-8181	seeks	_
 50-3	8182-8184	to	_
@@ -1578,6 +1628,7 @@
 50-15	8245-8256	correlation	_
 50-16	8257-8258	.	_
 
+Text=This can be expressed in the following maximization problem, where in the first stage we obtain the first rows of P [1] and P [2], and, respectively, where R̂XiXj = X̃ [i] (X̃ [j]) T/M denotes a sample (cross-) covariance matrix and the operation corr (·, ·) refers to the sample correlation between the columns of the given matrices.
 51-1	8259-8263	This	_
 51-2	8264-8267	can	_
 51-3	8268-8270	be	_
@@ -1658,6 +1709,7 @@
 51-78	8603-8611	matrices	_
 51-79	8612-8613	.	_
 
+Text=Subsequent rows of P [1] and P [2] are estimated analogous to (5) with the additional constraint that The estimated subject covariations are given by, Greater detail about the implementation of CCA to perform source separation for multimodal data is found in Appendix B.
 52-1	8614-8624	Subsequent	_
 52-2	8625-8629	rows	_
 52-3	8630-8632	of	_
@@ -1711,6 +1763,7 @@
 52-51	8889-8890	B	_
 52-52	8891-8892	.	_
 
+Text=The rows of Ŝ [k] provide the loadings of each component across subjects.
 53-1	8893-8896	The	_
 53-2	8897-8901	rows	_
 53-3	8902-8904	of	_
@@ -1728,6 +1781,7 @@
 53-15	8959-8967	subjects	_
 53-16	8968-8969	.	_
 
+Text=Thus, the p-th row of Ŝ [k],, represents the relative weights of the p-th source estimate,, for all subjects.
 54-1	8970-8974	Thus	_
 54-2	8975-8976	,	_
 54-3	8977-8980	the	_
@@ -1756,6 +1810,7 @@
 54-26	9077-9085	subjects	_
 54-27	9086-9087	.	_
 
+Text=Since each dataset has been reduced to a feature for each subject, to look for differences in the expression of components between two groups, a two-sample t-test can be performed on the subject covariations, where one group is represented by the subject covariations from the patients with schizophrenia and the second by the subject covariations from the healthy controls.
 55-1	9088-9093	Since	_
 55-2	9094-9098	each	_
 55-3	9099-9106	dataset	_
@@ -1820,6 +1875,7 @@
 55-62	9456-9464	controls	_
 55-63	9465-9466	.	_
 
+Text=This enables the detection of components that can differentiate patients from controls, providing insight into how brain disorders affect both neurological structure and function.
 56-1	9467-9471	This	_
 56-2	9472-9479	enables	_
 56-3	9480-9483	the	_
@@ -1847,9 +1903,11 @@
 56-25	9638-9646	function	_
 56-26	9647-9648	.	_
 
+Text=2.2.
 57-1	9649-9652	2.2	_
 57-2	9653-9654	.	_
 
+Text=Simulation Setup For real brain data, the ground truth, i.e., the true latent sources and subject covariations, is not available.
 58-1	9655-9665	Simulation	_
 58-2	9666-9671	Setup	_
 58-3	9672-9675	For	_
@@ -1876,6 +1934,7 @@
 58-24	9778-9787	available	_
 58-25	9788-9789	.	_
 
+Text=Thus, in order to test the performance of PCA-CCA, we generate simulated data according to (1) and examine the probability of correctly estimating the true number of correlated components as the dimension of the datasets, m and n, increases from 10 to 10,000.
 59-1	9790-9794	Thus	_
 59-2	9795-9796	,	_
 59-3	9797-9799	in	_
@@ -1927,6 +1986,7 @@
 59-49	10048-10054	10,000	_
 59-50	10055-10056	.	_
 
+Text=We compare the performance of PCA-CCA to that of two classical ITC-based methods, AIC and MDL.
 60-1	10057-10059	We	_
 60-2	10060-10067	compare	_
 60-3	10068-10071	the	_
@@ -1946,6 +2006,7 @@
 60-17	10148-10151	MDL	_
 60-18	10152-10153	.	_
 
+Text=These methods use the AIC and MDL framework in in the PCA step to select r, and then use the AIC and MDL framework described in to estimate the common order.
 61-1	10154-10159	These	_
 61-2	10160-10167	methods	_
 61-3	10168-10171	use	_
@@ -1980,6 +2041,7 @@
 61-32	10306-10311	order	_
 61-33	10312-10313	.	_
 
+Text=For these simulations, we have M = 50 samples and d = 2 pairs of correlated components each with variance of 2 and correlation coefficients, ρ1 = 0.8 and ρ2 = 0.7.
 62-1	10314-10317	For	_
 62-2	10318-10323	these	_
 62-3	10324-10335	simulations	_
@@ -2016,6 +2078,7 @@
 62-34	10475-10478	0.7	_
 62-35	10479-10480	.	_
 
+Text=The number of uncorrelated components in s [1] and s [2], f, is 3.
 63-1	10481-10484	The	_
 63-2	10485-10491	number	_
 63-3	10492-10494	of	_
@@ -2038,6 +2101,7 @@
 63-20	10551-10552	3	_
 63-21	10553-10554	.	_
 
+Text=The variances of the uncorrelated signals and the white noise are both 1.
 64-1	10555-10558	The	_
 64-2	10559-10568	variances	_
 64-3	10569-10571	of	_
@@ -2053,6 +2117,7 @@
 64-13	10626-10627	1	_
 64-14	10628-10629	.	_
 
+Text=These parameters were selected to align with properties of real neurological data.
 65-1	10630-10635	These	_
 65-2	10636-10646	parameters	_
 65-3	10647-10651	were	_
@@ -2067,6 +2132,7 @@
 65-12	10707-10711	data	_
 65-13	10712-10713	.	_
 
+Text=The entries of the mixing matrices A [k] are independently drawn from uniformly distributed random numbers between 0 and 1.
 66-1	10714-10717	The	_
 66-2	10718-10725	entries	_
 66-3	10726-10728	of	_
@@ -2091,6 +2157,7 @@
 66-22	10837-10838	1	_
 66-23	10839-10840	.	_
 
+Text=Additionally, we consider two values, 0.001 and 0.005, for probability of false alarm, PFA.
 67-1	10841-10853	Additionally	_
 67-2	10854-10855	,	_
 67-3	10856-10858	we	_
@@ -2111,6 +2178,7 @@
 67-18	10932-10935	PFA	_
 67-19	10936-10937	.	_
 
+Text=We have also used a minimum description length (MDL) based method, described in Appendix A, which does not require the selection of a probability of false alarm.
 68-1	10938-10940	We	_
 68-2	10941-10945	have	_
 68-3	10946-10950	also	_
@@ -2144,6 +2212,7 @@
 68-31	11097-11102	alarm	_
 68-32	11103-11104	.	_
 
+Text=The plots presented here are the average result of 1000 independent Monte-Carlo simulations, where, for each simulation, every method was used on the same data.
 69-1	11105-11108	The	_
 69-2	11109-11114	plots	_
 69-3	11115-11124	presented	_
@@ -2174,6 +2243,7 @@
 69-28	11263-11267	data	_
 69-29	11268-11269	.	_
 
+Text=We repeated this simulation three times, changing only the distribution from which the sources, s [k], are drawn.
 70-1	11270-11272	We	_
 70-2	11273-11281	repeated	_
 70-3	11282-11286	this	_
@@ -2199,6 +2269,7 @@
 70-23	11382-11387	drawn	_
 70-24	11388-11389	.	_
 
+Text=In the first case, we consider sources drawn from a zero mean Gaussian distribution, which aligns with the form typically used in all derivations.
 71-1	11390-11392	In	_
 71-2	11393-11396	the	_
 71-3	11397-11402	first	_
@@ -2227,6 +2298,7 @@
 71-26	11526-11537	derivations	_
 71-27	11538-11539	.	_
 
+Text=The subsequent case considers sources that are uniformly distributed with zero mean and the same variance as the previous case.
 72-1	11540-11543	The	_
 72-2	11544-11554	subsequent	_
 72-3	11555-11559	case	_
@@ -2249,6 +2321,7 @@
 72-20	11662-11666	case	_
 72-21	11667-11668	.	_
 
+Text=Such sub-Gaussian or platykurtic sources are a good approximation of the subject covariations, since if there is a difference between the two groups then the distribution describing the subject covariations will be bi-modal and hence sub-Gaussian.
 73-1	11669-11673	Such	_
 73-2	11674-11686	sub-Gaussian	_
 73-3	11687-11689	or	_
@@ -2288,6 +2361,7 @@
 73-37	11904-11916	sub-Gaussian	_
 73-38	11917-11918	.	_
 
+Text=Thus, the performance of PCA-CCA in this case is of great interest.
 74-1	11919-11923	Thus	_
 74-2	11924-11925	,	_
 74-3	11926-11929	the	_
@@ -2303,6 +2377,7 @@
 74-13	11978-11986	interest	_
 74-14	11987-11988	.	_
 
+Text=The final case considered is where the sources are Laplacian distributed with zero mean and the same variance as the previous distributions.
 75-1	11989-11992	The	_
 75-2	11993-11998	final	_
 75-3	11999-12003	case	_
@@ -2327,6 +2402,7 @@
 75-22	12115-12128	distributions	_
 75-23	12129-12130	.	_
 
+Text=Due to the ability of the Laplacian distribution to provide good approximations of empirical fMRI source distributions, studying the performance of PCA-CCA in this regime is of interest for the fusion of two fMRI datasets.
 76-1	12131-12134	Due	_
 76-2	12135-12137	to	_
 76-3	12138-12141	the	_

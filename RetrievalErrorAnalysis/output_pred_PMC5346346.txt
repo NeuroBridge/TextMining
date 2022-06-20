@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=CYP2A6 genetic variation alters striatal-cingulate circuits, network hubs and executive processing in smokers Background Variation in the CYP2A6 gene alters the rate of nicotine metabolic inactivation and is associated with smoking behaviors and cessation success rates.
 1-1	0-6	CYP2A6	_
 1-2	7-14	genetic	_
 1-3	15-24	variation	_
@@ -41,6 +42,7 @@
 1-37	265-270	rates	_
 1-38	271-272	.	_
 
+Text=The underlying neurobiological mechanisms of this genetic influence remain unknown.
 2-1	273-276	The	_
 2-2	277-287	underlying	_
 2-3	288-303	neurobiological	_
@@ -53,6 +55,7 @@
 2-10	348-355	unknown	_
 2-11	356-357	.	_
 
+Text=Methods Intrinsic functional connectivity strength (FCS), a whole brain, data driven, graph theory based method, was applied to resting state fMRI data in 66 smokers and 92 nonsmokers.
 3-1	358-365	Methods	_
 3-2	366-375	Intrinsic	_
 3-3	376-386	functional	_
@@ -89,6 +92,7 @@
 3-34	537-547	nonsmokers	http://maven.renci.org/NeuroBridge/neurobridge#QuestionnaireonSmokingUrges
 3-35	548-549	.	_
 
+Text=A subset of subjects (n=23/20; smokers/nonsmokers) performed the Monetary Incentive Delay (MID) task, probing reward anticipation and a Go/NoGo task, probing response inhibition, on two occasions, in the presence and absence of a nicotine patch.
 4-1	550-551	A	_
 4-2	552-558	subset	_
 4-3	559-561	of	_
@@ -135,6 +139,7 @@
 4-44	798-803	patch	_
 4-45	804-805	.	_
 
+Text=Results A significant CYP2A6 genotype × Smoking effect was found in the dorsal anterior cingulate cortex (dACC) and ventral striatum (VS), such that the normal (vs. slow) genotype individuals showed greater FCS in smokers but not nonsmokers.
 5-1	806-813	Results	_
 5-2	814-815	A	_
 5-3	816-827	significant	_
@@ -181,6 +186,7 @@
 5-44	1043-1053	nonsmokers	http://maven.renci.org/NeuroBridge/neurobridge#QuestionnaireonSmokingUrges
 5-45	1054-1055	.	_
 
+Text=FCS was negatively associated with nicotine dependence severity in slow metabolizers.
 6-1	1056-1059	FCS	_
 6-2	1060-1063	was	_
 6-3	1064-1074	negatively	_
@@ -194,6 +200,7 @@
 6-11	1128-1140	metabolizers	_
 6-12	1141-1142	.	_
 
+Text=Both hubs were biased by inputs from the insula identified from seed-based connectivity.
 7-1	1143-1147	Both	_
 7-2	1148-1152	hubs	_
 7-3	1153-1157	were	_
@@ -209,6 +216,7 @@
 7-13	1218-1230	connectivity	_
 7-14	1231-1232	.	_
 
+Text=Similar Gene × Environment interactions were seen in VS during smoking abstinence when subjects performed the MID task and in dACC when they performed the Go/NoGo task; both reductions were “ normalized ” in smokers (and increased in nonsmokers) following acute nicotine administration.
 8-1	1233-1240	Similar	_
 8-2	1241-1245	Gene	_
 8-3	1246-1247	×	_
@@ -257,6 +265,7 @@
 8-46	1507-1521	administration	_
 8-47	1522-1523	.	_
 
+Text=Conclusions Since the CYP2A6 effect was seen only in smokers, these data suggest that the rate of nicotine metabolism, and thus the concentration of nicotine presented to brain over the course of nicotine addiction, shapes brain circuits that, among other functions, compute reward and impulsivity processes.
 9-1	1524-1535	Conclusions	_
 9-2	1536-1541	Since	_
 9-3	1542-1545	the	_
@@ -310,6 +319,7 @@
 9-51	1827-1836	processes	_
 9-52	1837-1838	.	_
 
+Text=Methods and Materials Participants Resting state BOLD fMRI data were acquired from non-treatment seeking smokers (n=66) and nonsmokers (n=92), matched by age, sex, IQ and race (Table 1).
 10-1	1839-1846	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	1847-1850	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1851-1860	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -349,6 +359,7 @@
 10-37	2032-2033	)	_
 10-38	2034-2035	.	_
 
+Text=Subjects were selected from a large cohort of individuals who gave written informed consent under protocols approved by the NIDA-IRP IRB.
 11-1	2036-2044	Subjects	_
 11-2	2045-2049	were	_
 11-3	2050-2058	selected	_
@@ -372,6 +383,7 @@
 11-21	2169-2172	IRB	_
 11-22	2173-2174	.	_
 
+Text=IRB approval for CYP2A6 genotyping was granted at the University of Toronto.
 12-1	2175-2178	IRB	_
 12-2	2179-2187	approval	_
 12-3	2188-2191	for	_
@@ -386,6 +398,7 @@
 12-12	2243-2250	Toronto	_
 12-13	2251-2252	.	_
 
+Text=A subset of smokers (n=23; 15 normal and 8 reduced metabolizers) and nonsmokers (n=20; 9 normal and 11 reduced) also performed two fMRI tasks following resting BOLD data acquisition: the Monetary Incentive Delay (MID) task, which assesses neuronal activity during anticipation of and outcome for monetary rewards, and a Go/NoGo task assessing response inhibition.
 13-1	2253-2254	A	_
 13-2	2255-2261	subset	_
 13-3	2262-2264	of	_
@@ -453,6 +466,7 @@
 13-65	2616-2626	inhibition	_
 13-66	2627-2628	.	_
 
+Text=See SI for details of fMRI data acquisition and preprocessing and voxel-based morphometry (VBM) data analyses and results.
 14-1	2629-2632	See	_
 14-2	2633-2635	SI	_
 14-3	2636-2639	for	_
@@ -475,6 +489,7 @@
 14-20	2745-2752	results	_
 14-21	2753-2754	.	_
 
+Text=Genotyping Genomic DNA was extracted from blood samples and genotyped for CYP2A6 as described.
 15-1	2755-2765	Genotyping	_
 15-2	2766-2773	Genomic	_
 15-3	2774-2777	DNA	_
@@ -491,6 +506,7 @@
 15-14	2839-2848	described	_
 15-15	2849-2850	.	_
 
+Text=Based on the impact of enzymatic activity, subjects were grouped into normal, intermediate and slow metabolizers.
 16-1	2851-2856	Based	_
 16-2	2857-2859	on	_
 16-3	2860-2863	the	_
@@ -511,6 +527,7 @@
 16-18	2953-2965	metabolizers	_
 16-19	2966-2967	.	_
 
+Text=Due to the more limited cohort size available for task data, we combined the slow and intermediate genotype groups into a single reduced genotype group for task analysis.
 17-1	2968-2971	Due	_
 17-2	2972-2974	to	_
 17-3	2975-2978	the	_
@@ -542,6 +559,7 @@
 17-29	3130-3138	analysis	_
 17-30	3139-3140	.	_
 
+Text=FCS analysis FCS, defined as the sum of functional connectivity between any one voxel and all other brain voxels, was computed for each subject from 6 min of BOLD fMRI acquired with subjects ’ eyes open.
 18-1	3141-3144	FCS	_
 18-2	3145-3153	analysis	_
 18-3	3154-3157	FCS	_
@@ -582,6 +600,7 @@
 18-38	3341-3345	open	_
 18-39	3346-3347	.	_
 
+Text=Functional connectivity between voxels was measured using Pearson correlation in MATLAB (The MathWorks Inc, Natick, Massachusetts).
 19-1	3348-3358	Functional	_
 19-2	3359-3371	connectivity	_
 19-3	3372-3379	between	_
@@ -604,6 +623,7 @@
 19-20	3481-3482	)	_
 19-21	3483-3484	.	_
 
+Text=FCS was computed after thresholding the correlation map at r> 0.25.
 20-1	3485-3488	FCS	_
 20-2	3489-3492	was	_
 20-3	3493-3501	computed	_
@@ -618,6 +638,7 @@
 20-12	3548-3552	0.25	_
 20-13	3553-3554	.	_
 
+Text=A voxel-wise threshold of P <0.01 and a spatial-extent of 30 contiguous voxels were determined via Monte Carlo simulation to provide a corrected threshold of P <0.05.
 21-1	3555-3556	A	_
 21-2	3557-3567	voxel-wise	_
 21-3	3568-3577	threshold	_
@@ -649,6 +670,7 @@
 21-29	3718-3722	0.05	_
 21-30	3723-3724	.	_
 
+Text=MID and Go/NoGo tasks Subjects performed two tasks on two occasions, separated by 1–7 days.
 22-1	3725-3728	MID	http://maven.renci.org/NeuroBridge/neurobridge#PhysicalMeasurement
 22-2	3729-3732	and	http://maven.renci.org/NeuroBridge/neurobridge#PhysicalMeasurement
 22-3	3733-3740	Go/NoGo	http://maven.renci.org/NeuroBridge/neurobridge#GoNoGoTask
@@ -667,6 +689,7 @@
 22-16	3812-3816	days	_
 22-17	3817-3818	.	_
 
+Text=A nicotine or placebo patch was placed, in random order, 2–9 hours prior to scanning.
 23-1	3819-3820	A	_
 23-2	3821-3829	nicotine	_
 23-3	3830-3832	or	_
@@ -686,6 +709,7 @@
 23-17	3897-3905	scanning	_
 23-18	3906-3907	.	_
 
+Text=Trials in the MID task included four sequential stimuli: PRIME-1 (gain, loss or neutral), PRIME-2 (win/loss magnitude), TARGET, and FEEDBACK; a button press was required to the TARGET.
 24-1	3908-3914	Trials	_
 24-2	3915-3917	in	_
 24-3	3918-3921	the	_
@@ -726,6 +750,7 @@
 24-38	4095-4101	TARGET	_
 24-39	4102-4103	.	_
 
+Text=For the Go/NoGo task, subjects viewed a serial stream of alternating ‘ X ’ and ‘ Y ’ letters and were to respond to each target while the stimulus was present on the screen.
 25-1	4104-4107	For	_
 25-2	4108-4111	the	_
 25-3	4112-4119	Go/NoGo	http://maven.renci.org/NeuroBridge/neurobridge#GoNoGoTask
@@ -763,6 +788,7 @@
 25-35	4271-4277	screen	_
 25-36	4278-4279	.	_
 
+Text=NoGo stimuli, in which the target stimuli did not alternate (e.g.
 26-1	4280-4284	NoGo	_
 26-2	4285-4292	stimuli	_
 26-3	4293-4294	,	_
@@ -778,6 +804,7 @@
 26-13	4343-4346	e.g	_
 26-14	4347-4348	.	_
 
+Text=X, X), required response inhibition.
 27-1	4349-4350	X	_
 27-2	4351-4352	,	_
 27-3	4353-4354	X	_
@@ -788,6 +815,7 @@
 27-8	4377-4387	inhibition	_
 27-9	4388-4389	.	_
 
+Text=Since we had strong a priori interest in the ventral striatum (VS) for the MID task and dorsal anterior cingulate cortex (dACC) for the Go/NoGo task, we did region of interest analysis and small volume correction (Pcorrected <0.05) using respectively, a striatal atlas (http: //fsl.fmrib.ox.ac.uk/fsl) and dACC mask.
 28-1	4390-4395	Since	_
 28-2	4396-4398	we	_
 28-3	4399-4402	had	_
@@ -850,6 +878,7 @@
 28-60	4713-4717	mask	_
 28-61	4718-4719	.	_
 
+Text=Statistical analysis A 3 (Genotype) × 2 (Smokers, Nonsmokers) ANCOVA was performed on whole brain FCS maps, using age, gender, IQ, race and years of education as covariates.
 29-1	4720-4731	Statistical	_
 29-2	4732-4740	analysis	_
 29-3	4741-4742	A	_
@@ -889,6 +918,7 @@
 29-37	4891-4901	covariates	_
 29-38	4902-4903	.	_
 
+Text=Post-hoc one-way ANOVA and two-tailed independent t-tests identified differences between groups.
 30-1	4904-4912	Post-hoc	_
 30-2	4913-4920	one-way	_
 30-3	4921-4926	ANOVA	_
@@ -902,6 +932,7 @@
 30-11	4993-4999	groups	_
 30-12	5000-5001	.	_
 
+Text=MID and Go/NoGo tasks were analyzed using GLM.
 31-1	5002-5005	MID	_
 31-2	5006-5009	and	_
 31-3	5010-5017	Go/NoGo	_
@@ -912,6 +943,7 @@
 31-8	5044-5047	GLM	_
 31-9	5048-5049	.	_
 
+Text=Associations between FCS in regions showing significant GENOTYPE × SMOKING interactions and FTND/CPD were tested using Pearson ’ s correlation analyses.
 32-1	5050-5062	Associations	_
 32-2	5063-5070	between	_
 32-3	5071-5074	FCS	_
@@ -935,6 +967,7 @@
 32-21	5193-5201	analyses	_
 32-22	5202-5203	.	_
 
+Text=The mean FCS in these regions was regressed against age, IQ and years of education.
 33-1	5204-5207	The	_
 33-2	5208-5212	mean	_
 33-3	5213-5216	FCS	_
@@ -953,6 +986,7 @@
 33-16	5278-5287	education	_
 33-17	5288-5289	.	_
 
+Text=One and two way ANOVAs followed by Tukey ’ s t-test for multiple comparisons and frequency analyses (Pearson ’ s χ2-test) were conducted (SPSS 20, IBM, Armonk, New York) to compare demographic and behavioral characteristics among groups.
 34-1	5290-5293	One	_
 34-2	5294-5297	and	_
 34-3	5298-5301	two	_

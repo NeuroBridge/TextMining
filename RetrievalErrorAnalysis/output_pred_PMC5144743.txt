@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Cingulate cortex functional connectivity predicts future relapse in alcohol dependent individuals Alcohol dependence is a chronic relapsing illness.
 1-1	0-9	Cingulate	_
 1-2	10-16	cortex	_
 1-3	17-27	functional	_
@@ -22,6 +23,7 @@
 1-18	140-147	illness	_
 1-19	148-149	.	_
 
+Text=Alcohol and stress cues have consistently been shown to increase craving and relapse risk in recovering alcohol dependent (AUD) patients.
 2-1	150-157	Alcohol	_
 2-2	158-161	and	_
 2-3	162-168	stress	_
@@ -46,6 +48,7 @@
 2-22	280-288	patients	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
 2-23	289-290	.	_
 
+Text=However, differences in functional connectivity in response to these cues have not been studied using data-driven approaches.
 3-1	291-298	However	_
 3-2	299-300	,	_
 3-3	301-312	differences	_
@@ -66,6 +69,7 @@
 3-18	406-416	approaches	_
 3-19	417-418	.	_
 
+Text=Here, voxel-wise connectivity is used in a whole-brain investigation of functional connectivity differences associated with alcohol and stress cues and to examine whether these differences are related to subsequent relapse.
 4-1	419-423	Here	_
 4-2	424-425	,	_
 4-3	426-436	voxel-wise	_
@@ -99,6 +103,7 @@
 4-31	635-642	relapse	_
 4-32	643-644	.	_
 
+Text=In Study 1, 45, 4- to 8-week abstinent, recovering AUD patients underwent functional magnetic resonance imaging during individualized imagery of alcohol, stress, and neutral cues.
 5-1	645-647	In	_
 5-2	648-653	Study	_
 5-3	654-655	1	_
@@ -131,6 +136,7 @@
 5-30	824-828	cues	_
 5-31	829-830	.	_
 
+Text=Relapse measures were collected prospectively for 90 days post-discharge from inpatient treatment.
 6-1	831-838	Relapse	_
 6-2	839-847	measures	_
 6-3	848-852	were	_
@@ -145,6 +151,7 @@
 6-12	919-928	treatment	_
 6-13	929-930	.	_
 
+Text=AUD patients showed blunted anterior (ACC), mid (MCC) and posterior cingulate cortex (PCC), voxel-wise connectivity responses to stress compared to neutral cues and blunted PCC response to alcohol compared to neutral cues.
 7-1	931-934	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-2	935-943	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-3	944-950	showed	_
@@ -187,6 +194,7 @@
 7-40	1156-1160	cues	_
 7-41	1161-1162	.	_
 
+Text=Using Cox proportional hazard regression, weaker connectivity in ACC and MCC during neutral exposure was associated with longer time to relapse (better recovery outcome).
 8-1	1163-1168	Using	_
 8-2	1169-1172	Cox	_
 8-3	1173-1185	proportional	_
@@ -216,6 +224,7 @@
 8-27	1334-1335	)	_
 8-28	1336-1337	.	_
 
+Text=Similarly, greater connectivity in PCC during alcohol-cue compared to stress cue was associated with longer time to relapse.
 9-1	1338-1347	Similarly	_
 9-2	1348-1349	,	_
 9-3	1350-1357	greater	_
@@ -237,6 +246,7 @@
 9-19	1455-1462	relapse	_
 9-20	1463-1464	.	_
 
+Text=In Study 2, a sub-group of 30 AUD patients were demographically-matched to 30 healthy control (HC) participants for group comparisons.
 10-1	1465-1467	In	_
 10-2	1468-1473	Study	_
 10-3	1474-1475	2	_
@@ -262,6 +272,7 @@
 10-23	1590-1601	comparisons	_
 10-24	1602-1603	.	_
 
+Text=AUD compared to HC participants showed reduced cingulate connectivity during alcohol and stress cues.
 11-1	1604-1607	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 11-2	1608-1616	compared	_
 11-3	1617-1619	to	_
@@ -278,6 +289,7 @@
 11-14	1700-1704	cues	_
 11-15	1705-1706	.	_
 
+Text=Using novel data-driven approaches, the cingulate cortex emerged as a key region in the disruption of functional connectivity during alcohol and stress-cue processing in AUD patients and as a marker of subsequent alcohol relapse.
 12-1	1707-1712	Using	_
 12-2	1713-1718	novel	_
 12-3	1719-1730	data-driven	_
@@ -315,6 +327,7 @@
 12-35	1929-1936	relapse	_
 12-36	1937-1938	.	_
 
+Text=Highlights AUD patients showed blunted cingulate connectivity to alcohol and stress cues.
 13-1	1939-1949	Highlights	_
 13-2	1950-1953	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 13-3	1954-1962	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -329,6 +342,7 @@
 13-12	2023-2027	cues	_
 13-13	2028-2029	.	_
 
+Text=Cingulate connectivity predicted time to relapse in AUD patients.
 14-1	2030-2039	Cingulate	_
 14-2	2040-2052	connectivity	_
 14-3	2053-2062	predicted	_
@@ -340,6 +354,7 @@
 14-9	2086-2094	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-10	2095-2096	.	_
 
+Text=Greater PCC connectivity during alcohol cues predicted longer time to relapse.
 15-1	2097-2104	Greater	_
 15-2	2105-2108	PCC	_
 15-3	2109-2121	connectivity	_
@@ -353,6 +368,7 @@
 15-11	2167-2174	relapse	_
 15-12	2175-2176	.	_
 
+Text=AUD vs. HC subjects showed less cingulate connectivity to alcohol and stress cues.
 16-1	2177-2180	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 16-2	2181-2184	vs.	_
 16-3	2185-2187	HC	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -368,6 +384,7 @@
 16-13	2254-2258	cues	_
 16-14	2259-2260	.	_
 
+Text=The cingulate cortex emerged as a marker of subsequent alcohol relapse.
 17-1	2261-2264	The	_
 17-2	2265-2274	cingulate	_
 17-3	2275-2281	cortex	_
@@ -381,6 +398,7 @@
 17-11	2324-2331	relapse	_
 17-12	2332-2333	.	_
 
+Text=Materials and methods All study procedures were approved by the Human Investigation Committee of the Yale University School of Medicine.
 18-1	2334-2343	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 18-2	2344-2347	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 18-3	2348-2355	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -403,6 +421,7 @@
 18-20	2461-2469	Medicine	_
 18-21	2470-2471	.	_
 
+Text=All participants signed a written informed consent form.
 19-1	2472-2475	All	_
 19-2	2476-2488	participants	_
 19-3	2489-2495	signed	_
@@ -413,6 +432,7 @@
 19-8	2523-2527	form	_
 19-9	2528-2529	.	_
 
+Text=Participants Study 1: Forty-five recovering AUD patients (10 female, aged 18–50, M = 37.7) and 30 healthy control individuals (9 female, aged 18–50, M = 34.5) participated in this study.
 20-1	2530-2542	Participants	_
 20-2	2543-2548	Study	_
 20-3	2549-2550	1	_
@@ -454,6 +474,7 @@
 20-39	2719-2724	study	_
 20-40	2725-2726	.	_
 
+Text=Task-based fMRI results on this sample and full details on the participants, imagery method and validation, and relapse measures were previously published in.
 21-1	2727-2737	Task-based	_
 21-2	2738-2742	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 21-3	2743-2750	results	_
@@ -481,6 +502,7 @@
 21-25	2884-2886	in	_
 21-26	2887-2888	.	_
 
+Text=All AUD patients had a current diagnosis of alcohol dependence as determined by a Structured Clinical Interview for DSM-IV, and abstained from alcohol for 4 to 6 weeks (mean = 34 days, SE = 1.14) while actively engaged in inpatient non-pharmacological substance abuse treatment.
 22-1	2889-2892	All	_
 22-2	2893-2896	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 22-3	2897-2905	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -531,6 +553,7 @@
 22-48	3161-3170	treatment	_
 22-49	3171-3172	.	_
 
+Text=Demographic details are presented in Table S1.
 23-1	3173-3184	Demographic	_
 23-2	3185-3192	details	_
 23-3	3193-3196	are	_
@@ -540,6 +563,7 @@
 23-7	3216-3218	S1	_
 23-8	3219-3220	.	_
 
+Text=Tobacco-using AUD patients were allowed to smoke prior to initiating the fMRI scan and thus, were not nicotine deprived at the time of scan.
 24-1	3221-3234	Tobacco-using	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 24-2	3235-3238	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 24-3	3239-3247	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -567,6 +591,7 @@
 24-25	3357-3361	scan	_
 24-26	3362-3363	.	_
 
+Text=Patients were scanned in week 5 of treatment and were discharged shortly after and referred to outpatient treatment for aftercare.
 25-1	3364-3372	Patients	_
 25-2	3373-3377	were	_
 25-3	3378-3385	scanned	_
@@ -589,6 +614,7 @@
 25-20	3484-3493	aftercare	_
 25-21	3494-3495	.	_
 
+Text=All patients were followed-up with in-person interviews conducted at 14, 30, and 90 days post-discharge to evaluate relapse outcomes using urine and breathalyzer samples and the Form 90 Substance Use Calendar based on the timeline follow-back method.
 26-1	3496-3499	All	_
 26-2	3500-3508	patients	_
 26-3	3509-3513	were	_
@@ -630,6 +656,7 @@
 26-39	3741-3747	method	_
 26-40	3748-3749	.	_
 
+Text=Study 2: For group comparisons, 30 HC participants were demographically-matched to 30 (8 female, aged 18–50, M = 36.0) of the 45 AUD patients on age, sex, IQ, and lifetime prevalence of psychiatric disorders except for alcohol dependence and smoking status.
 27-1	3750-3755	Study	_
 27-2	3756-3757	2	_
 27-3	3758-3759	:	_
@@ -682,6 +709,7 @@
 27-50	4009-4015	status	_
 27-51	4016-4017	.	_
 
+Text=Smoking status was included as a covariate in the group analyses.
 28-1	4018-4025	Smoking	_
 28-2	4026-4032	status	_
 28-3	4033-4036	was	_
@@ -695,6 +723,7 @@
 28-11	4074-4082	analyses	_
 28-12	4083-4084	.	_
 
+Text=We chose to demographically match as many AUD patients as possible to the HC participants instead of comparing all 45 AUD patients to HC as IQ and years of education were significantly lower in the full AUD group.
 29-1	4085-4087	We	_
 29-2	4088-4093	chose	_
 29-3	4094-4096	to	_
@@ -735,6 +764,7 @@
 29-38	4292-4297	group	_
 29-39	4298-4299	.	_
 
+Text=Matching allowed us to minimize this potential confound, as the AUD subgroup was not significantly different from HC participants in several demographics including age, sex and IQ, but was significantly different in number of smokers in the AUD versus the HC group (See Table S1).
 30-1	4300-4308	Matching	_
 30-2	4309-4316	allowed	_
 30-3	4317-4319	us	_
@@ -787,6 +817,7 @@
 30-50	4583-4584	)	_
 30-51	4585-4586	.	_
 
+Text=Imagery paradigm All participants engaged in an imagery paradigm composed of individualized 2-min imagery scripts designed to provoke either alcohol, stressful, or neutral/relaxing states.
 31-1	4587-4594	Imagery	_
 31-2	4595-4603	paradigm	_
 31-3	4604-4607	All	_
@@ -815,6 +846,7 @@
 31-26	4770-4776	states	_
 31-27	4777-4778	.	_
 
+Text=Alcohol and stress scripts relative to neutral have previously been shown to increase craving, anxiety, heart rate and cortisol levels.
 32-1	4779-4786	Alcohol	_
 32-2	4787-4790	and	_
 32-3	4791-4797	stress	_
@@ -839,6 +871,7 @@
 32-22	4909-4915	levels	_
 32-23	4916-4917	.	_
 
+Text=Each 2-min script was based on a personal experience described by the participant and audiotaped for presentation during scanning session (see Supplemental material for further information).
 33-1	4918-4922	Each	_
 33-2	4923-4928	2-min	_
 33-3	4929-4935	script	_
@@ -869,6 +902,7 @@
 33-28	5108-5109	)	_
 33-29	5110-5111	.	_
 
+Text=Six fMRI trials (2 per condition) were acquired using a block design.
 34-1	5112-5115	Six	_
 34-2	5116-5120	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 34-3	5121-5127	trials	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -885,6 +919,7 @@
 34-14	5176-5182	design	_
 34-15	5183-5184	.	_
 
+Text=The order of the 3 script conditions were randomized and counterbalanced across participants.
 35-1	5185-5188	The	_
 35-2	5189-5194	order	_
 35-3	5195-5197	of	_
@@ -900,6 +935,7 @@
 35-13	5265-5277	participants	_
 35-14	5278-5279	.	_
 
+Text=Each script was presented only once for each participant, and scripts of the same condition were not presented consecutively.
 36-1	5280-5284	Each	_
 36-2	5285-5291	script	_
 36-3	5292-5295	was	_
@@ -922,6 +958,7 @@
 36-20	5392-5405	consecutively	_
 36-21	5406-5407	.	_
 
+Text=Each trial lasted 5 min, including a 1.5-min quiet baseline period followed by a continuous 2.5-min imagery period (2-min read imagery, 0.5-min quiet imagery) and a 1-min quiet recovery.
 37-1	5408-5412	Each	_
 37-2	5413-5418	trial	_
 37-3	5419-5425	lasted	_
@@ -957,6 +994,7 @@
 37-33	5589-5597	recovery	_
 37-34	5598-5599	.	_
 
+Text=During baseline, participants were instructed to stay still in the scanner without engaging in any mental activity.
 38-1	5600-5606	During	_
 38-2	5607-5615	baseline	_
 38-3	5616-5617	,	_
@@ -977,6 +1015,7 @@
 38-18	5707-5715	activity	_
 38-19	5716-5717	.	_
 
+Text=To minimize residual craving/anxiety between trials, all subjects were asked to practice 2-min progressive relaxation.
 39-1	5718-5720	To	_
 39-2	5721-5729	minimize	_
 39-3	5730-5738	residual	_
@@ -995,6 +1034,7 @@
 39-16	5826-5836	relaxation	_
 39-17	5837-5838	.	_
 
+Text=After relaxation, all participants returned to baseline levels of subjective craving and anxiety ratings, before starting the next cue trial, verified by no statistical difference in baseline ratings across trials.
 40-1	5839-5844	After	_
 40-2	5845-5855	relaxation	_
 40-3	5856-5857	,	_
@@ -1030,6 +1070,7 @@
 40-33	6049-6055	trials	_
 40-34	6056-6057	.	_
 
+Text=Connectivity preprocessing Images were slice-time and motion corrected using SPM5 (http: //www.fil.ion.ucl.ac.uk).
 41-1	6058-6070	Connectivity	_
 41-2	6071-6084	preprocessing	_
 41-3	6085-6091	Images	_
@@ -1047,6 +1088,7 @@
 41-15	6173-6174	)	_
 41-16	6175-6176	.	_
 
+Text=Images were iteratively smoothed until the smoothness for any image had a full width half maximum of approximately 6 mm.
 42-1	6177-6183	Images	_
 42-2	6184-6188	were	_
 42-3	6189-6200	iteratively	_
@@ -1069,6 +1111,7 @@
 42-20	6294-6296	mm	_
 42-21	6297-6298	.	_
 
+Text=This iterative smoothing has been shown to minimize motion confounds associated with resting-state fMRI.
 43-1	6299-6303	This	_
 43-2	6304-6313	iterative	_
 43-3	6314-6323	smoothing	_
@@ -1085,6 +1128,7 @@
 43-14	6398-6402	fMRI	_
 43-15	6403-6404	.	_
 
+Text=All further analysis was performed using BioImage Suite unless otherwise specified.
 44-1	6405-6408	All	_
 44-2	6409-6416	further	_
 44-3	6417-6425	analysis	_
@@ -1098,6 +1142,7 @@
 44-11	6478-6487	specified	_
 44-12	6488-6489	.	_
 
+Text=Runs were further preprocessed individually for connectivity analysis.
 45-1	6490-6494	Runs	_
 45-2	6495-6499	were	_
 45-3	6500-6507	further	_
@@ -1108,6 +1153,7 @@
 45-8	6551-6559	analysis	_
 45-9	6560-6561	.	_
 
+Text=Several covariates of no interest were regressed from the data including linear and quadratic drift, six rigid-body motion parameters, mean cerebral-spinal fluid (CSF) signal, mean white matter signal, and mean global signal.
 46-1	6562-6569	Several	_
 46-2	6570-6580	covariates	_
 46-3	6581-6583	of	_
@@ -1148,6 +1194,7 @@
 46-38	6786-6792	signal	_
 46-39	6793-6794	.	_
 
+Text=Finally, the data were temporally smoothed with a zero mean unit variance Gaussian filter (cutoff frequency = 0.12 Hz).
 47-1	6795-6802	Finally	_
 47-2	6803-6804	,	_
 47-3	6805-6808	the	_
@@ -1172,6 +1219,7 @@
 47-22	6915-6916	)	_
 47-23	6917-6918	.	_
 
+Text=A gray matter mask was applied to the data so that only voxels in the gray matter were used in the calculation.
 48-1	6919-6920	A	_
 48-2	6921-6925	gray	_
 48-3	6926-6932	matter	_
@@ -1196,6 +1244,7 @@
 48-22	7018-7029	calculation	_
 48-23	7030-7031	.	_
 
+Text=Finally, for each voxel, time courses were normalized by removing that time course's mean and dividing by that time course's standard deviation.
 49-1	7032-7039	Finally	_
 49-2	7040-7041	,	_
 49-3	7042-7045	for	_
@@ -1224,6 +1273,7 @@
 49-26	7170-7179	deviation	_
 49-27	7180-7181	.	_
 
+Text=As previously described, connectivity analysis was only performed on the continuous 2.5-min imagery period.
 50-1	7182-7184	As	_
 50-2	7185-7195	previously	_
 50-3	7196-7205	described	_
@@ -1241,6 +1291,7 @@
 50-15	7283-7289	period	_
 50-16	7290-7291	.	_
 
+Text=The 2-min active imagery period and 0.5-min passive imagery period were extracted from the full dataset and imagery periods of the same cue trial were concatenated for further analysis, resulting in approximately 5 min of data for each cue condition.
 51-1	7292-7295	The	_
 51-2	7296-7301	2-min	_
 51-3	7302-7308	active	_
@@ -1284,6 +1335,7 @@
 51-41	7533-7542	condition	_
 51-42	7543-7544	.	_
 
+Text=The large amount of continuous task data allows us to use novel data-driven connectivity methods usually reserved for resting-state fMRI.
 52-1	7545-7548	The	_
 52-2	7549-7554	large	_
 52-3	7555-7561	amount	_
@@ -1306,6 +1358,7 @@
 52-20	7677-7681	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 52-21	7682-7683	.	_
 
+Text=Standard block design tasks with ~ 30 s blocks or event-related design tasks would not provide a sufficient amount of continuous data for such methods.
 53-1	7684-7692	Standard	_
 53-2	7693-7698	block	_
 53-3	7699-7705	design	_
@@ -1333,6 +1386,7 @@
 53-25	7827-7834	methods	_
 53-26	7835-7836	.	_
 
+Text=As each run was individually processed and normalized, concatenating runs as the same cue trials and performing correlation analysis is the equivalent of performing correlation analysis for each individually and averaging the resulting correlation.
 54-1	7837-7839	As	_
 54-2	7840-7844	each	_
 54-3	7845-7848	run	_
@@ -1370,6 +1424,7 @@
 54-35	8074-8085	correlation	_
 54-36	8086-8087	.	_
 
+Text=ICD connectivity To investigate cue related differences in connectivity between AUD patients, connectivity of each voxel as measured by the intrinsic connectivity distribution (ICD) was calculated for each individual participant as described previously.
 55-1	8088-8091	ICD	_
 55-2	8092-8104	connectivity	_
 55-3	8105-8107	To	_
@@ -1408,6 +1463,7 @@
 55-36	8333-8343	previously	_
 55-37	8344-8345	.	_
 
+Text=ICD represents a generalization of the network theory measure of degree.
 56-1	8346-8349	ICD	_
 56-2	8350-8360	represents	_
 56-3	8361-8362	a	_
@@ -1421,6 +1477,7 @@
 56-11	8411-8417	degree	_
 56-12	8418-8419	.	_
 
+Text=In the context of neuroimaging, degree involves correlating the time course for any voxel with every other voxel time course in the brain and is defined as the number of connections to that voxel with correlations greater than an arbitrary threshold.
 57-1	8420-8422	In	_
 57-2	8423-8426	the	_
 57-3	8427-8434	context	_
@@ -1465,6 +1522,7 @@
 57-42	8661-8670	threshold	_
 57-43	8671-8672	.	_
 
+Text=ICD calculates degree over all possible arbitrary thresholds and then models the change in degree as the threshold is increased.
 58-1	8673-8676	ICD	_
 58-2	8677-8687	calculates	_
 58-3	8688-8694	degree	_
@@ -1487,6 +1545,7 @@
 58-20	8791-8800	increased	_
 58-21	8801-8802	.	_
 
+Text=By examining all possible arbitrary thresholds, ICD is not dependent on a single threshold and eliminates the need to specify an arbitrary threshold.
 59-1	8803-8805	By	_
 59-2	8806-8815	examining	_
 59-3	8816-8819	all	_
@@ -1513,6 +1572,7 @@
 59-24	8943-8952	threshold	_
 59-25	8953-8954	.	_
 
+Text=Specifically, for the current voxel, a histogram of all the time series correlations to that voxel was constructed to estimate the distribution of functional connectivity to that voxel.
 60-1	8955-8967	Specifically	_
 60-2	8968-8969	,	_
 60-3	8970-8973	for	_
@@ -1545,6 +1605,7 @@
 60-30	9136-9141	voxel	_
 60-31	9142-9143	.	_
 
+Text=This distribution of connectivity was converted to a survival function and the survival function was fitted with a stretched exponential with unknown variance, α.
 61-1	9144-9148	This	_
 61-2	9149-9161	distribution	_
 61-3	9162-9164	of	_
@@ -1572,6 +1633,7 @@
 61-25	9305-9306	α	_
 61-26	9307-9308	.	_
 
+Text=As alpha controls the spread of the distribution of connections, a larger alpha indicates a greater number of high correlation connections.
 62-1	9309-9311	As	_
 62-2	9312-9317	alpha	_
 62-3	9318-9326	controls	_
@@ -1596,6 +1658,7 @@
 62-22	9437-9448	connections	_
 62-23	9449-9450	.	_
 
+Text=Finally, this process is repeated for all voxels in the gray matter resulting in a parametric image of the alpha parameter for each participant.
 63-1	9451-9458	Finally	_
 63-2	9459-9460	,	_
 63-3	9461-9465	this	_
@@ -1623,6 +1686,7 @@
 63-25	9584-9595	participant	_
 63-26	9596-9597	.	_
 
+Text=Additionally, each ICD map was normalized by subtracting the mean across all voxels and dividing by the standard deviation across all voxels.
 64-1	9598-9610	Additionally	_
 64-2	9611-9612	,	_
 64-3	9613-9617	each	_
@@ -1648,6 +1712,7 @@
 64-23	9733-9739	voxels	_
 64-24	9740-9741	.	_
 
+Text=This z-score-like normalization does not change the underlying topography of connectivity pattern but allows for each map to be comparably scaled across participants.
 65-1	9742-9746	This	_
 65-2	9747-9759	z-score-like	_
 65-3	9760-9773	normalization	_
@@ -1673,6 +1738,7 @@
 65-23	9895-9907	participants	_
 65-24	9908-9909	.	_
 
+Text=Statistical analysis ICD connectivity maps were warped into common space (see Supplemental material) and analyzed using voxel-wise random effects general linear modeling with group modeled as a between subject factor, cue conditions modeled as within subject factors, and subjects as random factors using 3dLME.
 66-1	9910-9921	Statistical	_
 66-2	9922-9930	analysis	_
 66-3	9931-9934	ICD	_
@@ -1723,6 +1789,7 @@
 66-48	10219-10224	3dLME	_
 66-49	10225-10226	.	_
 
+Text=Imaging results are shown at a cluster-level threshold of p <0.05 family-wise error (FWE) correction as determined by AFNI's 3dClustSim program (version 16.0.09) using a cluster forming threshold of p = 0.001, 10,000 iterations, a grey matter mask, and a smoothness estimated using 3dFWHMx with the –ACF option.
 67-1	10227-10234	Imaging	_
 67-2	10235-10242	results	_
 67-3	10243-10246	are	_
@@ -1782,6 +1849,7 @@
 67-57	10540-10546	option	_
 67-58	10547-10548	.	_
 
+Text=Follow-up seed analyses were based on the ICD connectivity defined regions of interest.
 68-1	10549-10558	Follow-up	_
 68-2	10559-10563	seed	_
 68-3	10564-10572	analyses	_
@@ -1797,6 +1865,7 @@
 68-13	10627-10635	interest	_
 68-14	10636-10637	.	_
 
+Text=Anatomical locations were localized using the Yale Brodmann Atlas.
 69-1	10638-10648	Anatomical	_
 69-2	10649-10658	locations	_
 69-3	10659-10663	were	_
@@ -1808,6 +1877,7 @@
 69-9	10698-10703	Atlas	_
 69-10	10704-10705	.	_
 
+Text=Analysis of between group motion and methods used to minimize motion related confounds can be found in Supplemental material.
 70-1	10706-10714	Analysis	_
 70-2	10715-10717	of	_
 70-3	10718-10725	between	_
@@ -1829,6 +1899,7 @@
 70-19	10822-10830	material	_
 70-20	10831-10832	.	_
 
+Text=Analysis of non-imaging data was performed in R. Prospective time to relapse analysis Relapse was assessed prospectively in the 90 days after completion of inpatient treatment.
 71-1	10833-10841	Analysis	_
 71-2	10842-10844	of	_
 71-3	10845-10856	non-imaging	_
@@ -1857,6 +1928,7 @@
 71-26	10999-11008	treatment	_
 71-27	11009-11010	.	_
 
+Text=The first day of return to alcohol use during this 90-day follow-up period is considered as the target event and Cox proportional hazards regression, similar to a time-to-event survival analyses was conducted, as used in our previous studies.
 72-1	11011-11014	The	_
 72-2	11015-11020	first	_
 72-3	11021-11024	day	_
@@ -1899,6 +1971,7 @@
 72-40	11247-11254	studies	_
 72-41	11255-11256	.	_
 
+Text=Cox proportional hazard regression was performed to investigate whether connectivity regions showing cue differences in AUD patients predicted the time to first alcohol relapse.
 73-1	11257-11260	Cox	_
 73-2	11261-11273	proportional	_
 73-3	11274-11280	hazard	_
@@ -1925,6 +1998,7 @@
 73-24	11426-11433	relapse	_
 73-25	11434-11435	.	_
 
+Text=Average ICD values of clusters identified in the whole-brain connectivity analysis were extracted and entered as independent variables.
 74-1	11436-11443	Average	_
 74-2	11444-11447	ICD	_
 74-3	11448-11454	values	_
@@ -1945,6 +2019,7 @@
 74-18	11561-11570	variables	_
 74-19	11571-11572	.	_
 
+Text=Preliminary analyses indicated that years of nicotine smoking and years of alcohol use were significantly correlated (p <0.05) with time to relapse such that a greater number of years of smoking or alcohol use were associated with quicker relapse.
 75-1	11573-11584	Preliminary	_
 75-2	11585-11593	analyses	_
 75-3	11594-11603	indicated	_
@@ -1989,6 +2064,7 @@
 75-42	11815-11822	relapse	_
 75-43	11823-11824	.	_
 
+Text=Thus, these were included as independent variables to evaluate their specific and independent effects.
 76-1	11825-11829	Thus	_
 76-2	11830-11831	,	_
 76-3	11832-11837	these	_

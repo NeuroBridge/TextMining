@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=A Framework for Linking Resting-state Chronnectome/Genome Features in Schizophrenia: A Pilot Study Multimodal, imaging-genomics techniques offer a platform for understanding genetic influences on brain abnormalities in psychiatric disorders.
 1-1	0-1	A	_
 1-2	2-11	Framework	_
 1-3	12-15	for	_
@@ -34,6 +35,7 @@
 1-30	233-242	disorders	_
 1-31	243-244	.	_
 
+Text=Such approaches utilize the information available from both imaging and genomics data and identify their association.
 2-1	245-249	Such	_
 2-2	250-260	approaches	_
 2-3	261-268	utilize	_
@@ -52,6 +54,7 @@
 2-16	350-361	association	_
 2-17	362-363	.	_
 
+Text=Particularly for complex disorders such as schizophrenia, the relationship between imaging and genomic features may be better understood by incorporating additional information provided by advanced multimodal modeling.
 3-1	364-376	Particularly	_
 3-2	377-380	for	_
 3-3	381-388	complex	_
@@ -82,6 +85,7 @@
 3-28	574-582	modeling	_
 3-29	583-584	.	_
 
+Text=In this study, we propose a novel framework to combine features corresponding to functional magnetic resonance imaging (functional) and single nucleotide polymorphism (SNP) data from 61 schizophrenia (SZ) patients and 87 healthy controls (HC).
 4-1	585-587	In	_
 4-2	588-592	this	_
 4-3	593-598	study	_
@@ -127,6 +131,7 @@
 4-43	835-836	)	_
 4-44	837-838	.	_
 
+Text=In particular, the features for the functional and genetic modalities include dynamic (i.e., time-varying) functional network connectivity (dFNC) features and the SNP data, respectively.
 5-1	839-841	In	_
 5-2	842-852	particular	_
 5-3	853-854	,	_
@@ -160,6 +165,7 @@
 5-31	1019-1031	respectively	_
 5-32	1032-1033	.	_
 
+Text=The dFNC features are estimated from component time-courses, obtained using group independent component analysis (ICA), by computing sliding-window functional network connectivity, and then estimating subject specific states from this dFNC data using a k-means clustering approach.
 6-1	1034-1037	The	_
 6-2	1038-1042	dFNC	_
 6-3	1043-1051	features	_
@@ -203,6 +209,7 @@
 6-41	1311-1319	approach	_
 6-42	1320-1321	.	_
 
+Text=For each subject, both the functional (dFNC states) and SNP data are selected as features for a parallel ICA (pICA) based imaging-genomic framework.
 7-1	1322-1325	For	_
 7-2	1326-1330	each	_
 7-3	1331-1338	subject	_
@@ -233,6 +240,7 @@
 7-28	1465-1474	framework	_
 7-29	1475-1476	.	_
 
+Text=This analysis identified a significant association between a SNP component (defined by large clusters of functionally related SNPs statistically correlated with phenotype components) and time-varying or dFNC component (defined by clusters of related connectivity links among distant brain regions distributed across discrete dynamic states, and statistically correlated with genomic components) in schizophrenia.
 8-1	1477-1481	This	_
 8-2	1482-1490	analysis	_
 8-3	1491-1501	identified	_
@@ -292,6 +300,7 @@
 8-57	1880-1893	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-58	1894-1895	.	_
 
+Text=Importantly, the polygenetic risk score (PRS) for SZ (computed as a linearly weighted sum of the genotype profiles with weights derived from the odds ratios of the psychiatric genomics consortium (PGC)) was negatively correlated with the significant dFNC component, which were mostly present within a state that exhibited a lower occupancy rate in individuals with SZ compared with HC, hence identifying a potential dFNC imaging biomarker for schizophrenia.
 9-1	1896-1907	Importantly	_
 9-2	1908-1909	,	_
 9-3	1910-1913	the	_
@@ -371,6 +380,7 @@
 9-77	2348-2361	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-78	2362-2363	.	_
 
+Text=Taken together, the current findings provide preliminary evidence for a link between dFNC measures and genetic risk, suggesting the application of dFNC patterns as biomarkers in imaging genetic association study.
 10-1	2364-2369	Taken	_
 10-2	2370-2378	together	_
 10-3	2379-2380	,	_
@@ -405,6 +415,7 @@
 10-32	2572-2577	study	_
 10-33	2578-2579	.	_
 
+Text=MATERIALS AND METHODS Participants We used resting-state functional magnetic resonance imaging (fMRI) data and single nucleotide polymorphism (SNP) data obtained from 87 healthy controls (61 males, 26 females; mean age 36.83) and 61 age- and gender matched patients with SZ (52 males, 9 females; mean age 38.36) during eyes closed condition as part of the multi-site fBIRN project.
 11-1	2580-2589	MATERIALS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	2590-2593	AND	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	2594-2601	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -477,6 +488,7 @@
 11-70	2965-2972	project	_
 11-71	2973-2974	.	_
 
+Text=Informed consent was obtained from each participant prior to scanning in accordance with the Internal Review Boards of corresponding institutions.
 12-1	2975-2983	Informed	_
 12-2	2984-2991	consent	_
 12-3	2992-2995	was	_
@@ -499,6 +511,7 @@
 12-20	3108-3120	institutions	_
 12-21	3121-3122	.	_
 
+Text=SNP Data Preprocessing and Feature Selection DNA was extracted from blood and saliva samples collected from the participants.
 13-1	3123-3126	SNP	_
 13-2	3127-3131	Data	_
 13-3	3132-3145	Preprocessing	_
@@ -519,6 +532,7 @@
 13-18	3235-3247	participants	_
 13-19	3248-3249	.	_
 
+Text=No significant difference was noted in genotyping call rates between blood and saliva samples.
 14-1	3250-3252	No	_
 14-2	3253-3264	significant	_
 14-3	3265-3275	difference	_
@@ -535,6 +549,7 @@
 14-14	3336-3343	samples	_
 14-15	3344-3345	.	_
 
+Text=DNA extraction was performed at the University of California at Irvine and genotyping was performed by Illumina (SD) using a custom made assay including the Infinium MEGAex chip as well all SNPs on the Psych chip.
 15-1	3346-3349	DNA	_
 15-2	3350-3360	extraction	_
 15-3	3361-3364	was	_
@@ -575,6 +590,7 @@
 15-38	3556-3560	chip	_
 15-39	3561-3562	.	_
 
+Text=The SNP data went through quality control (QC), imputation and post-imputation QC as described in, which is briefly summarized here.
 16-1	3563-3566	The	_
 16-2	3567-3570	SNP	_
 16-3	3571-3575	data	_
@@ -601,6 +617,7 @@
 16-24	3694-3698	here	_
 16-25	3699-3700	.	_
 
+Text=PLINK was employed for pre- and post-imputation QC, including: (a) gender consistency check, (b) sample relatedness (not closer than second degree relatives), (c) genotyping call rate (> 90% at both the individual and SNP level), (d) Hardy-Weinberg equilibrium in the control population (p <1 × 10 −6), (e) minor allele frequency (MAF> 0.05).
 17-1	3701-3706	PLINK	_
 17-2	3707-3710	was	_
 17-3	3711-3719	employed	_
@@ -683,6 +700,7 @@
 17-80	4068-4069	)	_
 17-81	4070-4071	.	_
 
+Text=Then imputation was conducted with SHAPEIT used for pre-phasing, IMPUTE2 for imputation, and the 1000 Genomes data as the reference panel.
 18-1	4072-4076	Then	_
 18-2	4077-4087	imputation	_
 18-3	4088-4091	was	_
@@ -708,6 +726,7 @@
 18-23	4206-4211	panel	_
 18-24	4212-4213	.	_
 
+Text=Only markers with high imputation qualities (INFO score> 0.95) were retained.
 19-1	4214-4218	Only	_
 19-2	4219-4226	markers	_
 19-3	4227-4231	with	_
@@ -724,6 +743,7 @@
 19-14	4285-4293	retained	_
 19-15	4294-4295	.	_
 
+Text=Missing calls were replaced using high linkage disequilibrium (LD) loci if available or otherwise removed.
 20-1	4296-4303	Missing	_
 20-2	4304-4309	calls	_
 20-3	4310-4314	were	_
@@ -743,6 +763,7 @@
 20-17	4396-4403	removed	_
 20-18	4404-4405	.	_
 
+Text=A total of 977,242 SNP loci were obtained after post-imputation QC and LD pruning (r2 <0.9), and discrete numbers were then assigned to the categorical genotypes: 0 (no minor allele), 1 (one minor allele), and 2 (two minor alleles).
 21-1	4406-4407	A	_
 21-2	4408-4413	total	_
 21-3	4414-4416	of	_
@@ -797,6 +818,7 @@
 21-52	4649-4650	)	_
 21-53	4651-4652	.	_
 
+Text=Population structure was corrected with PCA.
 22-1	4653-4663	Population	_
 22-2	4664-4673	structure	_
 22-3	4674-4677	was	_
@@ -805,6 +827,7 @@
 22-6	4693-4696	PCA	_
 22-7	4697-4698	.	_
 
+Text=A pre-filtering (i.e., pre-selection) step was conducted leveraging the Psychiatric Genomic Consortium SZ GWAS (Ripke et al., 2014) based on SZ relevance (i.e., the p- values reported by the PGC SZ GWAS).
 23-1	4699-4700	A	_
 23-2	4701-4714	pre-filtering	_
 23-3	4715-4716	(	_
@@ -848,6 +871,7 @@
 23-41	4910-4911	)	_
 23-42	4912-4913	.	_
 
+Text=This resulted in a total of pre-filtered 1546 SNPs, discriminating patients from controls via a univariate SNP-wise test with p-values less than 5× 10−7 in the GWAS.
 24-1	4914-4918	This	_
 24-2	4919-4927	resulted	_
 24-3	4928-4930	in	_
@@ -878,6 +902,7 @@
 24-28	5075-5079	GWAS	_
 24-29	5080-5081	.	_
 
+Text=Imaging data processing and feature selection fMRI Data Collection and Preprocessing Imaging data was collected on 3T Siemens Tim Trio Systems (all but one site) or on a 3T General Electric Discovery MR750 scanner.
 25-1	5082-5089	Imaging	_
 25-2	5090-5094	data	_
 25-3	5095-5105	processing	_
@@ -916,6 +941,7 @@
 25-36	5290-5297	scanner	_
 25-37	5298-5299	.	_
 
+Text=Resting state fMRI scans were acquired using a standard gradient-echo echo planar imaging paradigm: FOV of 220 × 220 mm (64 × 64 matrix), TR = 2 s, TE = 30 ms, FA = 77°, 162 volumes, 32 sequential ascending axial slices of 4 mm thickness and 1 mm skip.
 26-1	5300-5307	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 26-2	5308-5313	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 26-3	5314-5318	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -976,6 +1002,7 @@
 26-58	5555-5559	skip	_
 26-59	5560-5561	.	_
 
+Text=Subjects had their eyes closed during the resting state scan.
 27-1	5562-5570	Subjects	_
 27-2	5571-5574	had	_
 27-3	5575-5580	their	_
@@ -988,6 +1015,7 @@
 27-10	5618-5622	scan	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 27-11	5623-5624	.	_
 
+Text=Data processing was performed using a combination of toolboxes (AFNI, SPM, GIFT) and custom code written in Matlab.
 28-1	5625-5629	Data	_
 28-2	5630-5640	processing	_
 28-3	5641-5644	was	_
@@ -1012,6 +1040,7 @@
 28-22	5737-5743	Matlab	_
 28-23	5744-5745	.	_
 
+Text=We performed rigid body motion correction using the INRIAlign toolbox in SPM to correct for subject head motion followed by slice-timing correction to account for timing differences in slice acquisition.
 29-1	5746-5748	We	_
 29-2	5749-5758	performed	_
 29-3	5759-5764	rigid	_
@@ -1044,6 +1073,7 @@
 29-30	5937-5948	acquisition	_
 29-31	5949-5950	.	_
 
+Text=Then the fMRI data were despiked using AFNI ’ s 3dDespike algorithm to mitigate the impact of outliers.
 30-1	5951-5955	Then	_
 30-2	5956-5959	the	_
 30-3	5960-5964	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1064,6 +1094,7 @@
 30-18	6045-6053	outliers	_
 30-19	6054-6055	.	_
 
+Text=The fMRI data were subsequently warped to a Montreal Neurological Institute (MNI) template, and resampled to 3 mm3 isotropic voxels.
 31-1	6056-6059	The	_
 31-2	6060-6064	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 31-3	6065-6069	data	_
@@ -1089,6 +1120,7 @@
 31-23	6184-6190	voxels	_
 31-24	6191-6192	.	_
 
+Text=Instead of Gaussian smoothing, we smoothed the data to 6 mm full width at half maximum (FWHM) using AFNI3s BlurToFWHM algorithm, which performs smoothing by a conservative finite difference approximation to the diffusion equation.
 32-1	6193-6200	Instead	_
 32-2	6201-6203	of	_
 32-3	6204-6212	Gaussian	_
@@ -1129,6 +1161,7 @@
 32-38	6418-6426	equation	_
 32-39	6427-6428	.	_
 
+Text=This approach has been shown to reduce scanner specific variability in smoothness providing a “ smoothness equivalence ” to data across sites.
 33-1	6429-6433	This	_
 33-2	6434-6442	approach	_
 33-3	6443-6446	has	_
@@ -1153,6 +1186,7 @@
 33-22	6565-6570	sites	_
 33-23	6571-6572	.	_
 
+Text=Each voxel time course was variance normalized by removing the mean and dividing by the standard deviation at each voxel prior to performing group independent component analysis as this has shown to better decompose subcortical sources in addition to cortical networks.
 34-1	6573-6577	Each	_
 34-2	6578-6583	voxel	_
 34-3	6584-6588	time	_
@@ -1196,6 +1230,7 @@
 34-41	6833-6841	networks	_
 34-42	6842-6843	.	_
 
+Text=Note that, no significant group difference in signal-to-noise ratio (SNR) was found (p=0.5, Figure S4).
 35-1	6844-6848	Note	_
 35-2	6849-6853	that	_
 35-3	6854-6855	,	_
@@ -1219,6 +1254,7 @@
 35-21	6951-6952	)	_
 35-22	6953-6954	.	_
 
+Text=Group ICA, Intrinsic Connectivity Network (ICN) Selection and Post processing After preprocessing the data, functional data from both control and patient groups were analyzed using spatial group independent component analysis (GICA) framework as implemented in the GIFT software.
 36-1	6955-6960	Group	_
 36-2	6961-6964	ICA	_
 36-3	6965-6966	,	_
@@ -1265,6 +1301,7 @@
 36-44	7231-7239	software	_
 36-45	7240-7241	.	_
 
+Text=Spatial ICA decomposes the subject data into linear mixtures of spatially independent components that exhibit a unique time course profile.
 37-1	7242-7249	Spatial	_
 37-2	7250-7253	ICA	_
 37-3	7254-7264	decomposes	_
@@ -1287,6 +1324,7 @@
 37-20	7373-7380	profile	_
 37-21	7381-7382	.	_
 
+Text=A subject- specific data reduction step was first used to reduce 162 time point data into 120 direction of maximal variability using principal component analysis.
 38-1	7383-7384	A	_
 38-2	7385-7393	subject-	_
 38-3	7394-7402	specific	_
@@ -1314,6 +1352,7 @@
 38-25	7536-7544	analysis	_
 38-26	7545-7546	.	_
 
+Text=Then subject-reduced data were concatenated across time and a group data PCA step reduced this matrix further into 100 components along directions of maximal group variability.
 39-1	7547-7551	Then	_
 39-2	7552-7567	subject-reduced	_
 39-3	7568-7572	data	_
@@ -1342,6 +1381,7 @@
 39-26	7711-7722	variability	_
 39-27	7723-7724	.	_
 
+Text=Note that, group PCA on the entire dataset was performed to avoid biasing the solution to group differences.
 40-1	7725-7729	Note	_
 40-2	7730-7734	that	_
 40-3	7735-7736	,	_
@@ -1363,6 +1403,7 @@
 40-19	7822-7833	differences	_
 40-20	7834-7835	.	_
 
+Text=One hundred independent components were obtained from the group PCA reduced matrix using the infomax algorithm.
 41-1	7836-7839	One	_
 41-2	7840-7847	hundred	_
 41-3	7848-7859	independent	_
@@ -1381,6 +1422,7 @@
 41-16	7937-7946	algorithm	_
 41-17	7947-7948	.	_
 
+Text=To ensure stability of estimation, we repeated the ICA algorithm 20 times in ICASSO, and aggregate spatial maps were estimated as the modes of component clusters.
 42-1	7949-7951	To	_
 42-2	7952-7958	ensure	_
 42-3	7959-7968	stability	_
@@ -1411,6 +1453,7 @@
 42-28	8104-8112	clusters	_
 42-29	8113-8114	.	_
 
+Text=Subject specific spatial maps (SMs) and time courses (TCs) were obtained using the spatiotemporal regression back reconstruction approach implemented in the GIFT software.
 43-1	8115-8122	Subject	_
 43-2	8123-8131	specific	_
 43-3	8132-8139	spatial	_
@@ -1440,6 +1483,7 @@
 43-27	8281-8289	software	_
 43-28	8290-8291	.	_
 
+Text=Subject specific SMs and TCs underwent post-processing as described in our earlier work (Allen et al., 2012).
 44-1	8292-8299	Subject	_
 44-2	8300-8308	specific	_
 44-3	8309-8312	SMs	_
@@ -1462,6 +1506,7 @@
 44-20	8402-8403	)	_
 44-21	8404-8405	.	_
 
+Text=Briefly, we obtained one sample t-test maps for each SM across all subjects and thresholded these maps to obtain regions of peak activation clusters for that component; we also computed mean power spectra of the corresponding TCs.
 45-1	8406-8413	Briefly	_
 45-2	8414-8415	,	_
 45-3	8416-8418	we	_
@@ -1503,6 +1548,7 @@
 45-39	8634-8637	TCs	_
 45-40	8638-8639	.	_
 
+Text=We visually inspected and identified a set of components as intrinsic connectivity networks (ICNs) if their peak activation clusters fell on GM (gray matter) and showed less overlap with known vascular, susceptibility, ventricular, and edge regions corresponding to head motion.
 46-1	8640-8642	We	_
 46-2	8643-8651	visually	_
 46-3	8652-8661	inspected	_
@@ -1552,6 +1598,7 @@
 46-47	8918-8924	motion	_
 46-48	8925-8926	.	_
 
+Text=We also ensured that the mean power spectra of the selected ICN time courses showed higher low frequency spectral power.
 47-1	8927-8929	We	_
 47-2	8930-8934	also	_
 47-3	8935-8942	ensured	_
@@ -1574,6 +1621,7 @@
 47-20	9041-9046	power	_
 47-21	9047-9048	.	_
 
+Text=This selection procedure resulted in 47 ICNs out of the 100 independent components obtained.
 48-1	9049-9053	This	_
 48-2	9054-9063	selection	_
 48-3	9064-9073	procedure	_
@@ -1590,6 +1638,7 @@
 48-14	9132-9140	obtained	_
 48-15	9141-9142	.	_
 
+Text=The ICNs were assessed and distributed into sub-cortical (SC), auditory (AUD), visual (VIS), sensorimotor (SM), attention/cognitive control (CC), default-mode (DMN), and cerebellar (CB) network domains.
 49-1	9143-9146	The	_
 49-2	9147-9151	ICNs	_
 49-3	9152-9156	were	_
@@ -1637,6 +1686,7 @@
 49-45	9357-9364	domains	_
 49-46	9365-9366	.	_
 
+Text=Subject-specific TCs corresponding to the retained ICNs underwent additional post processing steps.
 50-1	9367-9383	Subject-specific	_
 50-2	9384-9387	TCs	_
 50-3	9388-9401	corresponding	_
@@ -1651,6 +1701,7 @@
 50-12	9460-9465	steps	_
 50-13	9466-9467	.	_
 
+Text=The TCs were detrended to remove any existing linear, quadratic or cubic low frequency trends originating from scanner drift, orthogonalized with respect to estimated subject motion and realignment parameters, and despiked using AFNI ’ s 3dDespike function to replace outlier points with values estimated from third order spline fit to neighboring portions of the TCs.
 51-1	9468-9471	The	_
 51-2	9472-9475	TCs	_
 51-3	9476-9480	were	_
@@ -1711,6 +1762,7 @@
 51-58	9835-9838	TCs	_
 51-59	9839-9840	.	_
 
+Text=FC Estimation and Clustering Similar to our previous work time-varying FNC was estimated by sliding a window of length 22 TRs (44 s) in steps of 1 TR (2 s).
 52-1	9841-9843	FC	_
 52-2	9844-9854	Estimation	_
 52-3	9855-9858	and	_
@@ -1747,6 +1799,7 @@
 52-34	9999-10000	)	_
 52-35	10001-10002	.	_
 
+Text=This sliding window analysis used a tapered window generated by convolving a rectangular window of length 22 TRs (44 s) with a Gaussian window of standard deviation equal to 3 TRs.
 53-1	10003-10007	This	_
 53-2	10008-10015	sliding	_
 53-3	10016-10022	window	_
@@ -1782,6 +1835,7 @@
 53-33	10181-10184	TRs	_
 53-34	10185-10186	.	_
 
+Text=To characterize the full covariance matrix, we estimated covariance from the regularized precision matrix or the inverse covariance matrix.
 54-1	10187-10189	To	_
 54-2	10190-10202	characterize	_
 54-3	10203-10206	the	_
@@ -1804,6 +1858,7 @@
 54-20	10320-10326	matrix	_
 54-21	10327-10328	.	_
 
+Text=Following the graphical LASSO method, we placed a penalty on the L1 norm of the precision matrix to promote sparsity.
 55-1	10329-10338	Following	_
 55-2	10339-10342	the	_
 55-3	10343-10352	graphical	_
@@ -1827,6 +1882,7 @@
 55-21	10438-10446	sparsity	_
 55-22	10447-10448	.	_
 
+Text=The regularization parameter lambda was optimized separately for each subject by evaluating the log-likelihood of unseen data (windowed covariance matrices from the same subject) in a cross-validation framework.
 56-1	10449-10452	The	_
 56-2	10453-10467	regularization	_
 56-3	10468-10477	parameter	_
@@ -1859,6 +1915,7 @@
 56-30	10652-10661	framework	_
 56-31	10662-10663	.	_
 
+Text=Final dynamic FC estimates for each window, were concatenated to form a C x C x W array representing the changes in covariance (correlation) between components as a function of time.
 57-1	10664-10669	Final	_
 57-2	10670-10677	dynamic	_
 57-3	10678-10680	FC	_
@@ -1895,6 +1952,7 @@
 57-34	10844-10848	time	_
 57-35	10849-10850	.	_
 
+Text=Next, we selected windows of higher variability as subject exemplars and used K-means clustering to obtain group centroids.
 58-1	10851-10855	Next	_
 58-2	10856-10857	,	_
 58-3	10858-10860	we	_
@@ -1916,6 +1974,7 @@
 58-19	10965-10974	centroids	_
 58-20	10975-10976	.	_
 
+Text=We determined the number of clusters to be five using the elbow criterion of the cluster validity index, which is computed as the ratio between within-cluster distances to between-cluster distance.
 59-1	10977-10979	We	_
 59-2	10980-10990	determined	_
 59-3	10991-10994	the	_
@@ -1949,6 +2008,7 @@
 59-31	11166-11174	distance	_
 59-32	11175-11176	.	_
 
+Text=These centroids are then used as starting points to cluster all of the dynamic FNC data.
 60-1	11177-11182	These	_
 60-2	11183-11192	centroids	_
 60-3	11193-11196	are	_
@@ -1967,6 +2027,7 @@
 60-16	11260-11264	data	_
 60-17	11265-11266	.	_
 
+Text=Group- and subject- specific centroids were computed for further analyses.
 61-1	11267-11273	Group-	_
 61-2	11274-11277	and	_
 61-3	11278-11286	subject-	_
@@ -1979,6 +2040,7 @@
 61-10	11332-11340	analyses	_
 61-11	11341-11342	.	_
 
+Text=Proposed pICA framework Figure 1 and Figure S5 provides an illustration of the proposed framework.
 62-1	11343-11351	Proposed	_
 62-2	11352-11356	pICA	_
 62-3	11357-11366	framework	_
@@ -1996,6 +2058,7 @@
 62-15	11431-11440	framework	_
 62-16	11441-11442	.	_
 
+Text=pICA was performed through the Fusion ICA Toolbox (FIT, http: //mialab.mrn.org/software/fit) using the imaging (dynamic states) and genomic (SNP array) features.
 63-1	11443-11447	pICA	_
 63-2	11448-11451	was	_
 63-3	11452-11461	performed	_
@@ -2027,6 +2090,7 @@
 63-29	11603-11611	features	_
 63-30	11612-11613	.	_
 
+Text=The algorithm was configured with a threshold of 0.25 for constrained correlations to avoid false positive associations and to only constrain one pair of components.
 64-1	11614-11617	The	_
 64-2	11618-11627	algorithm	_
 64-3	11628-11631	was	_
@@ -2054,6 +2118,7 @@
 64-25	11768-11778	components	_
 64-26	11779-11780	.	_
 
+Text=A SNP component is defined by large clusters of functionally related SNPs statistically correlated with phenotype components, whereas a dFNC component is defined by clusters of related connectivity links among distant brain regions distributed across 5 discrete dynamic states, and statistically correlated with genomic components (Table S2).
 65-1	11781-11782	A	_
 65-2	11783-11786	SNP	_
 65-3	11787-11796	component	_
@@ -2107,6 +2172,7 @@
 65-51	12125-12126	)	_
 65-52	12127-12128	.	_
 
+Text=An endurance parameter was set to −5 × 10−4 to control the decreasing slope of the entropy term and to mitigate against over fitting.
 66-1	12129-12131	An	_
 66-2	12132-12141	endurance	_
 66-3	12142-12151	parameter	_
@@ -2133,6 +2199,7 @@
 66-24	12254-12261	fitting	_
 66-25	12262-12263	.	_
 
+Text=For the fMRI modality (dFNC features), the component number was predefined as 15, and for genomic modality (SNP data) the component number was predefined as 25 based on pICA model stability, which was validated using the permutation test.
 67-1	12264-12267	For	_
 67-2	12268-12271	the	_
 67-3	12272-12276	fMRI	_
@@ -2180,6 +2247,7 @@
 67-45	12504-12508	test	_
 67-46	12509-12510	.	_
 
+Text=The parallel ICA estimates components by maximizing component independence within each data modality, and maximizing the inter-modality association assessed based on component loadings from the two modalities.
 68-1	12511-12514	The	_
 68-2	12515-12523	parallel	_
 68-3	12524-12527	ICA	_
@@ -2210,6 +2278,7 @@
 68-28	12710-12720	modalities	_
 68-29	12721-12722	.	_
 
+Text=In the current work, parallel ICA extracted 15 dFNC components and 25 SNP components, which led to a total of 375 SNP-dFNC pairs for which the associations were assessed.
 69-1	12723-12725	In	_
 69-2	12726-12729	the	_
 69-3	12730-12737	current	_
@@ -2243,6 +2312,7 @@
 69-31	12886-12894	assessed	_
 69-32	12895-12896	.	_
 
+Text=Significant SNP-dFNC associations were then identified based on Bonferroni correction (p <0.05/375).
 70-1	12897-12908	Significant	_
 70-2	12909-12917	SNP-dFNC	_
 70-3	12918-12930	associations	_
@@ -2260,6 +2330,7 @@
 70-15	12998-12999	)	_
 70-16	13000-13001	.	_
 
+Text=We performed a 1000-run permutation test to assess the validity and stability of identified dFNC-SNP association by investigating the occurrences of inter-modality correlations by chance in permuted dFNC and SNP datasets.
 71-1	13002-13004	We	_
 71-2	13005-13014	performed	_
 71-3	13015-13016	a	_
@@ -2293,6 +2364,7 @@
 71-31	13214-13222	datasets	_
 71-32	13223-13224	.	_
 
+Text=The null distribution was constructed with the top correlation obtained from each test run.
 72-1	13225-13228	The	_
 72-2	13229-13233	null	_
 72-3	13234-13246	distribution	_
@@ -2309,6 +2381,7 @@
 72-14	13312-13315	run	_
 72-15	13316-13317	.	_
 
+Text=We then counted the instances with correlations greater than that observed from the original data and calculated the two-tail probability as the significance level.
 73-1	13318-13320	We	_
 73-2	13321-13325	then	_
 73-3	13326-13333	counted	_
@@ -2335,6 +2408,7 @@
 73-24	13476-13481	level	_
 73-25	13482-13483	.	_
 
+Text=Polygenic Risk Score Analysis Additionally, we computed the polygenic risk score (PRS) for SZ of the set of thresholded SNPs (i.e., top SNPs after thresholding the SNP component), which was a linearly weighted sum of the genotype profiles with weights derived from the odds ratios of the PGC SZ GWAS (; Ripke et al., 2014).
 74-1	13484-13493	Polygenic	_
 74-2	13494-13498	Risk	_
 74-3	13499-13504	Score	_
@@ -2402,6 +2476,7 @@
 74-65	13815-13816	)	_
 74-66	13817-13818	.	_
 
+Text=The loading parameters from significant pICA paired components were then assessed for associations with PRS for SZ using Pearson ’ s and Spearmann ’ s rank order correlations.
 75-1	13819-13822	The	_
 75-2	13823-13830	loading	_
 75-3	13831-13841	parameters	_
@@ -2432,6 +2507,7 @@
 75-28	13981-13993	correlations	_
 75-29	13994-13995	.	_
 
+Text=Partial Replication Study While an independent dataset with exact imaging and genomic features was unavailable for replication purpose, we implemented our proposed model on a separate, independent dataset for partial replication.
 76-1	13996-14003	Partial	_
 76-2	14004-14015	Replication	_
 76-3	14016-14021	Study	_
@@ -2467,6 +2543,7 @@
 76-33	14215-14226	replication	_
 76-34	14227-14228	.	_
 
+Text=The resting-state fMRI data were collected while the participants had their eyes open (as opposed to our main analyses where resting-state fMRI data were collected in eyes closed condition).
 77-1	14229-14232	The	_
 77-2	14233-14246	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 77-3	14247-14251	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -2500,6 +2577,7 @@
 77-31	14419-14420	)	_
 77-32	14421-14422	.	_
 
+Text=We used resting-state functional magnetic resonance imaging (fMRI) data and single nucleotide polymorphism (SNP) data obtained from a local COBRE (center of biomedical research excellence) study.
 78-1	14423-14425	We	_
 78-2	14426-14430	used	_
 78-3	14431-14444	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -2534,6 +2612,7 @@
 78-32	14618-14623	study	_
 78-33	14624-14625	.	_
 
+Text=After preprocessing, we obtained data from a total of 135 participants (72 healthy controls and 63 SZ patients matched for age) for which both fMRI and SNP data were collected.
 79-1	14626-14631	After	_
 79-2	14632-14645	preprocessing	_
 79-3	14646-14647	,	_
@@ -2569,6 +2648,7 @@
 79-33	14795-14804	collected	_
 79-34	14805-14806	.	_
 
+Text=Using the same steps mentioned for our main analyses, we preprocessed both fMRI and SNP data.
 80-1	14807-14812	Using	_
 80-2	14813-14816	the	_
 80-3	14817-14821	same	_
@@ -2588,6 +2668,7 @@
 80-17	14896-14900	data	_
 80-18	14901-14902	.	_
 
+Text=As the genomic features, we identified the same 1546 pre-selected SNPs as our main analyses.
 81-1	14903-14905	As	_
 81-2	14906-14909	the	_
 81-3	14910-14917	genomic	_
@@ -2606,6 +2687,7 @@
 81-16	14987-14995	analyses	_
 81-17	14996-14997	.	_
 
+Text=In order to identify the similar imaging features (i.e., dFNC states), we implemented the following two-step replication: (i) using a spatially constrained ICA approach, we computed subject specific maps and timecourses for the 49 ICNs and computed the sliding-window based dynamic connectivity matrices for each subject, and (ii) using k-means clustering approach while using the original dFNC states (i.e., from our main study) as stating points for clusters, we identified 5 cluster centroids/dFNC states for each subject.
 82-1	14998-15000	In	_
 82-2	15001-15006	order	_
 82-3	15007-15009	to	_
@@ -2700,6 +2782,7 @@
 82-92	15530-15537	subject	_
 82-93	15538-15539	.	_
 
+Text=These dFNC states were then used as the imaging features for our proposed pICA framework.
 83-1	15540-15545	These	_
 83-2	15546-15550	dFNC	_
 83-3	15551-15557	states	_
@@ -2717,6 +2800,7 @@
 83-15	15619-15628	framework	_
 83-16	15629-15630	.	_
 
+Text=The proposed algorithm proceeds in two stages, consisting of independent component computation at group and subject levels, respectively.
 84-1	15631-15634	The	_
 84-2	15635-15643	proposed	_
 84-3	15644-15653	algorithm	_
@@ -2739,6 +2823,7 @@
 84-20	15757-15769	respectively	_
 84-21	15770-15771	.	_
 
+Text=First, a group-level ICA is performed to extract information in the form of group ICs from preprocessed fMRI data of multiple subjects.
 85-1	15772-15777	First	_
 85-2	15778-15779	,	_
 85-3	15780-15781	a	_
@@ -2764,6 +2849,7 @@
 85-23	15899-15907	subjects	_
 85-24	15908-15909	.	_
 
+Text=Then the group information is used as guidance for the subject-level ICA, computed separately on the fMRI data of each subject.
 86-1	15910-15914	Then	_
 86-2	15915-15918	the	_
 86-3	15919-15924	group	_
@@ -2788,6 +2874,7 @@
 86-22	16030-16037	subject	_
 86-23	16038-16039	.	_
 
+Text=A list of key acronyms and definitions can be found in Tables S1 and S2.
 87-1	16040-16041	A	_
 87-2	16042-16046	list	_
 87-3	16047-16049	of	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Differential neural reward mechanisms in treatment responsive and treatment resistant schizophrenia Background: The significant proportion of schizophrenia patients refractory to treatment, primarily directed at the dopamine system, suggests that multiple mechanisms may underlie psychotic symptoms.
 1-1	0-12	Differential	_
 1-2	13-19	neural	_
 1-3	20-26	reward	_
@@ -42,6 +43,7 @@
 1-38	293-301	symptoms	_
 1-39	302-303	.	_
 
+Text=Reinforcement learning tasks have been employed in schizophrenia to assess dopaminergic functioning and reward processing, but these have not directly compared groups of treatment-refractory and non-refractory patients.
 2-1	304-317	Reinforcement	_
 2-2	318-326	learning	_
 2-3	327-332	tasks	_
@@ -72,6 +74,7 @@
 2-28	515-523	patients	_
 2-29	524-525	.	_
 
+Text=Methods: In the current fMRI study 21 patients with treatment resistant schizophrenia (TRS), 21 patients with non-treatment resistant schizophrenia (NTR), and 24 healthy controls (HC) performed a probabilistic reinforcement learning task, utilising emotionally valenced face stimuli which elicit a social bias toward happy faces.
 3-1	526-533	Methods	_
 3-2	534-535	:	_
 3-3	536-538	In	_
@@ -128,6 +131,7 @@
 3-54	859-864	faces	_
 3-55	865-866	.	_
 
+Text=Behavior was characterized with a reinforcement learning model.
 4-1	867-875	Behavior	_
 4-2	876-879	was	_
 4-3	880-893	characterized	_
@@ -138,6 +142,7 @@
 4-8	924-929	model	_
 4-9	930-931	.	_
 
+Text=Trial-wise reward prediction error (RPE) -related neural activation and the differential impact of emotional bias on these reward signals were compared between groups.
 5-1	932-942	Trial-wise	_
 5-2	943-949	reward	_
 5-3	950-960	prediction	_
@@ -165,6 +170,7 @@
 5-25	1094-1100	groups	_
 5-26	1101-1102	.	_
 
+Text=Results: Patients showed impaired reinforcement learning relative to controls, while all groups demonstrated an emotional bias favouring happy faces.
 6-1	1103-1110	Results	_
 6-2	1111-1112	:	_
 6-3	1113-1121	Patients	_
@@ -188,6 +194,7 @@
 6-21	1248-1253	faces	_
 6-22	1254-1255	.	_
 
+Text=The pattern of RPE signaling was similar in the HC and TRS groups, whereas NTR patients showed significant attenuation of RPE-related activation in striatal, thalamic, precentral, parietal, and cerebellar regions.
 7-1	1256-1259	The	_
 7-2	1260-1267	pattern	_
 7-3	1268-1270	of	_
@@ -225,6 +232,7 @@
 7-35	1466-1473	regions	_
 7-36	1474-1475	.	_
 
+Text=TRS patients, but not NTR patients, showed a positive relationship between emotional bias and RPE signal during negative feedback in bilateral thalamus and caudate.
 8-1	1476-1479	TRS	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-2	1480-1488	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-3	1489-1490	,	_
@@ -253,6 +261,7 @@
 8-26	1634-1641	caudate	_
 8-27	1642-1643	.	_
 
+Text=Conclusion: TRS can be dissociated from NTR on the basis of a different neural mechanism underlying reinforcement learning.
 9-1	1644-1654	Conclusion	_
 9-2	1655-1656	:	_
 9-3	1657-1660	TRS	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -274,6 +283,7 @@
 9-19	1759-1767	learning	_
 9-20	1768-1769	.	_
 
+Text=The data support the hypothesis that a favourable response to antipsychotic treatment is contingent on dopaminergic dysfunction, characterized by aberrant RPE signaling, whereas treatment resistance may be characterized by an abnormality of a non-dopaminergic mechanism-a glutamatergic mechansim would be a possible candidate.
 10-1	1770-1773	The	_
 10-2	1774-1778	data	_
 10-3	1779-1786	support	_
@@ -320,6 +330,7 @@
 10-44	2088-2097	candidate	_
 10-45	2098-2099	.	_
 
+Text=Methods and materials Participants The study recruited 42 individuals with a diagnosis of schizophrenia (according to ICD-10 criteria) and 24 healthy controls matched for age, sex, and socioeconomic background consented to participate in this study.
 11-1	2100-2107	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	2108-2111	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	2112-2121	materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -361,6 +372,7 @@
 11-39	2347-2352	study	_
 11-40	2353-2354	.	_
 
+Text=The patient sample included 21 with treatment resistant schizophrenia (TRS), based on persistent psychotic symptoms as defined as a score of at least 4 (moderate) on at least two positive symptom items of the Positive and Negative Syndrome Scale (PANSS), at least two prior drug trials of 4–6 weeks duration with no clinical improvement, and persistence of illness for longer than five years with no period of good social or occupational functioning.
 12-1	2355-2358	The	_
 12-2	2359-2366	patient	_
 12-3	2367-2373	sample	_
@@ -444,6 +456,7 @@
 12-81	2802-2813	functioning	_
 12-82	2814-2815	.	_
 
+Text=The latter two criteria were ascertained by reviewing patients ’ medical records and self-report of occupational status.
 13-1	2816-2819	The	_
 13-2	2820-2826	latter	_
 13-3	2827-2830	two	_
@@ -463,6 +476,7 @@
 13-17	2929-2935	status	_
 13-18	2936-2937	.	_
 
+Text=The remaining 21 patients (NTR) fulfilled criteria for being in symptomatic remission, as defined by a score of 3 or less on all items of the PANSS, these symptoms having been stable for at least 6 months and prescribed a stable dosage of antipsychotic for the previous 6 months.
 14-1	2938-2941	The	_
 14-2	2942-2951	remaining	_
 14-3	2952-2954	21	_
@@ -518,6 +532,7 @@
 14-53	3214-3220	months	_
 14-54	3221-3222	.	_
 
+Text=Current clozapine use was an exclusion criterion for all patients.
 15-1	3223-3230	Current	_
 15-2	3231-3240	clozapine	_
 15-3	3241-3244	use	_
@@ -530,6 +545,7 @@
 15-10	3280-3288	patients	_
 15-11	3289-3290	.	_
 
+Text=Exclusion criteria for all subjects were a history of neurological illness, current major physical illness, and drug dependency over the last six months.
 16-1	3291-3300	Exclusion	_
 16-2	3301-3309	criteria	_
 16-3	3310-3313	for	_
@@ -557,6 +573,7 @@
 16-25	3439-3445	months	_
 16-26	3446-3447	.	_
 
+Text=Exclusion criteria for HC were a history of psychiatric illness and a first-degree relative having suffered from a psychotic illness.
 17-1	3448-3457	Exclusion	_
 17-2	3458-3466	criteria	_
 17-3	3467-3470	for	_
@@ -579,6 +596,7 @@
 17-20	3573-3580	illness	_
 17-21	3581-3582	.	_
 
+Text=All subjects had normal hearing and normal or corrected-to-normal vision.
 18-1	3583-3586	All	_
 18-2	3587-3595	subjects	_
 18-3	3596-3599	had	_
@@ -591,6 +609,7 @@
 18-10	3649-3655	vision	_
 18-11	3656-3657	.	_
 
+Text=The two patient groups were matched for age, sex, duration of illness, medication type and dosage.
 19-1	3658-3661	The	_
 19-2	3662-3665	two	_
 19-3	3666-3673	patient	_
@@ -612,6 +631,7 @@
 19-19	3752-3758	dosage	_
 19-20	3759-3760	.	_
 
+Text=Intelligence quotient was measured with the two-item Wechsler Abbreviated Scale of Intelligence (WASI).
 20-1	3761-3773	Intelligence	_
 20-2	3774-3782	quotient	_
 20-3	3783-3786	was	_
@@ -629,6 +649,7 @@
 20-15	3864-3865	)	http://maven.renci.org/NeuroBridge/neurobridge#DigitSymbolSubstitutionOfTheWechslerAdultIntelligenceScaleRevised
 20-16	3866-3867	.	_
 
+Text=Chlorpromazine (CPZ) equivalent doses of medications were calculated using conversion tables.
 21-1	3868-3882	Chlorpromazine	_
 21-2	3883-3884	(	_
 21-3	3885-3888	CPZ	_
@@ -644,6 +665,7 @@
 21-13	3956-3962	tables	_
 21-14	3963-3964	.	_
 
+Text=Ethical approval was provided by the London Camberwell St Giles Research and Ethics Committee.
 22-1	3965-3972	Ethical	_
 22-2	3973-3981	approval	_
 22-3	3982-3985	was	_
@@ -660,6 +682,7 @@
 22-14	4049-4058	Committee	_
 22-15	4059-4060	.	_
 
+Text=All participants provided informed written consent and were compensated for their time and travel.
 23-1	4061-4064	All	_
 23-2	4065-4077	participants	_
 23-3	4078-4086	provided	_
@@ -676,6 +699,7 @@
 23-14	4152-4158	travel	_
 23-15	4159-4160	.	_
 
+Text=fMRI procedure A schematic of a trial sequence is shown in Supplementary Figure 1.
 24-1	4161-4165	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 24-2	4166-4175	procedure	_
 24-3	4176-4177	A	_
@@ -692,6 +716,7 @@
 24-14	4241-4242	1	_
 24-15	4243-4244	.	_
 
+Text=Subjects underwent a reward learning paradigm consisting of choosing between two simultaneously presented faces, and over a series of iterative trials, learning to identify which of the faces was associated with a higher reward probability.
 25-1	4245-4253	Subjects	_
 25-2	4254-4263	underwent	_
 25-3	4264-4265	a	_
@@ -731,6 +756,7 @@
 25-37	4475-4486	probability	_
 25-38	4487-4488	.	_
 
+Text=Subjects were given the task of maximizing the reward (10p per correct choice) achieved during the task.
 26-1	4489-4497	Subjects	_
 26-2	4498-4502	were	_
 26-3	4503-4508	given	_
@@ -752,6 +778,7 @@
 26-19	4590-4594	task	_
 26-20	4595-4596	.	_
 
+Text=The task screen was viewed via a head-mounted mirror inside the MRI scanner and response selection was via a button box operated by the right index and middle fingers.
 27-1	4597-4600	The	_
 27-2	4601-4605	task	_
 27-3	4606-4612	screen	_
@@ -783,6 +810,7 @@
 27-29	4756-4763	fingers	_
 27-30	4764-4765	.	_
 
+Text=The task consisted of four blocks of 30 trials each, during which two faces were presented side by side.
 28-1	4766-4769	The	_
 28-2	4770-4774	task	_
 28-3	4775-4784	consisted	_
@@ -805,6 +833,7 @@
 28-20	4866-4870	side	_
 28-21	4871-4872	.	_
 
+Text=One face was associated with a 60% reward probability and the other with a 40% reward probability.
 29-1	4873-4876	One	_
 29-2	4877-4881	face	_
 29-3	4882-4885	was	_
@@ -826,6 +855,7 @@
 29-19	4961-4972	probability	_
 29-20	4973-4974	.	_
 
+Text=Faces within a block differed either in emotional expression (blocks 1 and 3) or identity (blocks 2 and 4), as described previously.
 30-1	4975-4980	Faces	_
 30-2	4981-4987	within	_
 30-3	4988-4989	a	_
@@ -855,6 +885,7 @@
 30-27	5101-5111	previously	_
 30-28	5112-5113	.	_
 
+Text=In brief, emotional blocks consisted of one happy and one angry face with the same identity.
 31-1	5114-5116	In	_
 31-2	5117-5122	brief	_
 31-3	5123-5124	,	_
@@ -874,6 +905,7 @@
 31-17	5198-5206	identity	_
 31-18	5207-5208	.	_
 
+Text=Neutral blocks consistent of two faces with different identities but with neutral expressions.
 32-1	5209-5216	Neutral	_
 32-2	5217-5223	blocks	_
 32-3	5224-5234	consistent	_
@@ -889,6 +921,7 @@
 32-13	5291-5302	expressions	_
 32-14	5303-5304	.	_
 
+Text=Combinations of identities and reward contingencies were counterbalanced across blocks and subjects.
 33-1	5305-5317	Combinations	_
 33-2	5318-5320	of	_
 33-3	5321-5331	identities	_
@@ -903,6 +936,7 @@
 33-12	5396-5404	subjects	_
 33-13	5405-5406	.	_
 
+Text=Each trial began with a period of 1000 ms during which a white central fixation cross was presented against a dark background.
 34-1	5407-5411	Each	_
 34-2	5412-5417	trial	_
 34-3	5418-5423	began	_
@@ -927,6 +961,7 @@
 34-22	5522-5532	background	_
 34-23	5533-5534	.	_
 
+Text=This was followed by two faces being presented to the right and left of the fixation cross for 4500 ms.
 35-1	5535-5539	This	_
 35-2	5540-5543	was	_
 35-3	5544-5552	followed	_
@@ -949,6 +984,7 @@
 35-20	5635-5637	ms	_
 35-21	5638-5639	.	_
 
+Text=Within this time window subjects were required to select one of the faces by pressing the corresponding button with their right hand.
 36-1	5640-5646	Within	_
 36-2	5647-5651	this	_
 36-3	5652-5656	time	_
@@ -973,6 +1009,7 @@
 36-22	5768-5772	hand	_
 36-23	5773-5774	.	_
 
+Text=The selected face was highlighted by a yellow square surrounding it.
 37-1	5775-5778	The	_
 37-2	5779-5787	selected	_
 37-3	5788-5792	face	_
@@ -986,6 +1023,7 @@
 37-11	5840-5842	it	_
 37-12	5843-5844	.	_
 
+Text=Feedback was then presented on the screen for 1500 ms.
 38-1	5845-5853	Feedback	_
 38-2	5854-5857	was	_
 38-3	5858-5862	then	_
@@ -998,6 +1036,7 @@
 38-10	5896-5898	ms	_
 38-11	5899-5900	.	_
 
+Text=The task had a total duration of approximately 15 minutes.
 39-1	5901-5904	The	_
 39-2	5905-5909	task	_
 39-3	5910-5913	had	_
@@ -1010,6 +1049,7 @@
 39-10	5951-5958	minutes	_
 39-11	5959-5960	.	_
 
+Text=Scanning parameters Functional scans were acquired using a T2 * echo planar sequence (430 volumes, TR=2000 ms, TE=35 ms, field of view = 24 cm, slice thickness = 3 mm, matrix = 64 × 64, flip angle = 75°) sensitive to blood oxygenation level-dependent (BOLD) contrast on a 3T GE Excite II MR scanner (GE Healthcare, USA).
 40-1	5961-5969	Scanning	_
 40-2	5970-5980	parameters	_
 40-3	5981-5991	Functional	_
@@ -1082,6 +1122,7 @@
 40-70	6292-6293	)	_
 40-71	6294-6295	.	_
 
+Text=A structural image was acquired for each subject with a T1-weighted magnetization prepared rapid acquisition gradient echo (MP RAGE) sequence (TR=7321 ms, TE=3 ms, TI = 400 ms, field of view = 240, slice thickness = 1.2 mm, 196 slices).
 41-1	6296-6297	A	_
 41-2	6298-6308	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 41-3	6309-6314	image	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1133,6 +1174,7 @@
 41-49	6539-6540	)	_
 41-50	6541-6542	.	_
 
+Text=Reinforcement learning model The behavioural data was modelled using a “ double update ” reinforcement learning model.
 42-1	6543-6556	Reinforcement	_
 42-2	6557-6565	learning	_
 42-3	6566-6571	model	_
@@ -1152,6 +1194,7 @@
 42-17	6655-6660	model	_
 42-18	6661-6662	.	_
 
+Text=Choice probability for choosing option 1 on trial t was computed on each trial using the softmax function where the inverse temperature β determines the randomness of the subject ’ s choice, and Q1 (t) denotes the action value, or expected reward, for choice 1 on trial t. The action value for the chosen option is updated on a trial-by-trial basis using the reward prediction error, defined as the difference between the expected reward Q and obtained reward R on trial t, scaled by the learning rate parameter α.
 43-1	6663-6669	Choice	_
 43-2	6670-6681	probability	_
 43-3	6682-6685	for	_
@@ -1250,6 +1293,7 @@
 43-96	7182-7183	α	_
 43-97	7184-7185	.	_
 
+Text=The action value for the unchosen option 2 was additionally updated on each trial, using the inverse reward value and identical learning rate parameter: This model reflects the symmetry of choice outcomes, whereby feedback associated with a chosen option is also informative of the unchosen option (e.g., if stimulus 1 lost, stimulus 2 would have won).
 44-1	7186-7189	The	_
 44-2	7190-7196	action	_
 44-3	7197-7202	value	_
@@ -1315,6 +1359,7 @@
 44-63	7543-7544	)	_
 44-64	7545-7546	.	_
 
+Text=The two free parameters β and α were estimated for each group separately by minimizing the negative log likelihood of the observed data pooled across all subjects within the group.
 45-1	7547-7550	The	_
 45-2	7551-7554	two	_
 45-3	7555-7559	free	_
@@ -1347,6 +1392,7 @@
 45-30	7721-7726	group	_
 45-31	7727-7728	.	_
 
+Text=Behavioural analysis Choices were defined as ideal if the action value (computed by the model) of the chosen option was greater than that of the unchosen option.
 46-1	7729-7740	Behavioural	_
 46-2	7741-7749	analysis	_
 46-3	7750-7757	Choices	_
@@ -1378,6 +1424,7 @@
 46-29	7885-7891	option	_
 46-30	7892-7893	.	_
 
+Text=Subjects ’ proportions of ideal choices were analysed using a linear mixed effects model including the predictors group (HC vs. NTR vs. TRS) and condition (emotional vs. neutral) Emotional bias was defined as the difference between the proportion of choices for the happy face when the angry face would have been an ideal choice, and proportion of choices for the angry face when the happy face would have been the ideal choice.
 47-1	7894-7902	Subjects	_
 47-2	7903-7904	’	_
 47-3	7905-7916	proportions	_
@@ -1457,6 +1504,7 @@
 47-77	8320-8326	choice	_
 47-78	8327-8328	.	_
 
+Text=Emotional bias was compared between groups using one-way ANOVA.
 48-1	8329-8338	Emotional	_
 48-2	8339-8343	bias	_
 48-3	8344-8347	was	_
@@ -1468,6 +1516,7 @@
 48-9	8386-8391	ANOVA	_
 48-10	8392-8393	.	_
 
+Text=fMRI preprocessing and analysis The fMRI data were preprocessed and analyzed using the FEAT tool from the FMRIB Software Library (FSL, http: //fsl.fmrib.ox.ac.uk/fsl/fslwiki/,).
 49-1	8394-8398	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 49-2	8399-8412	preprocessing	_
 49-3	8413-8416	and	_
@@ -1498,6 +1547,7 @@
 49-28	8574-8575	)	_
 49-29	8576-8577	.	_
 
+Text=Functional and structural brain images were extracted from non-brain tissue using FSL ’ s brain extraction tool (BET), and EPI images were realigned using MCFLIRT to correct effects of head motion.
 50-1	8578-8588	Functional	_
 50-2	8589-8592	and	_
 50-3	8593-8603	structural	_
@@ -1534,6 +1584,7 @@
 50-34	8771-8777	motion	_
 50-35	8778-8779	.	_
 
+Text=A 100-s temporal high-pass filter was applied and data were spatially smoothed using a Gaussian kernel of 5mm FWHM.
 51-1	8780-8781	A	_
 51-2	8782-8787	100-s	_
 51-3	8788-8796	temporal	_
@@ -1555,6 +1606,7 @@
 51-19	8890-8894	FWHM	_
 51-20	8895-8896	.	_
 
+Text=The functional MRI data were analyzed using the general linear model as implemented in FSL FEAT.
 52-1	8897-8900	The	_
 52-2	8901-8911	functional	_
 52-3	8912-8915	MRI	_
@@ -1573,6 +1625,7 @@
 52-16	8988-8992	FEAT	_
 52-17	8993-8994	.	_
 
+Text=For the first level analysis, the phases of the task (face presentation, choice, win outcome, and loss outcome) were modelled separately for emotional and neutral trials, resulting in eight unmodulated regressors.
 53-1	8995-8998	For	_
 53-2	8999-9002	the	_
 53-3	9003-9008	first	_
@@ -1613,6 +1666,7 @@
 53-38	9204-9214	regressors	_
 53-39	9215-9216	.	_
 
+Text=In addition, the win outcome and loss outcome phases were parametrically modulated with the trial-by-trial RPE values, again separately for emotional and neutral trials, resulting in four additional parametric regressors.
 54-1	9217-9219	In	_
 54-2	9220-9228	addition	_
 54-3	9229-9230	,	_
@@ -1648,6 +1702,7 @@
 54-33	9430-9440	regressors	_
 54-34	9441-9442	.	_
 
+Text=Each regressor was modelled with a delta function of zero duration and convolved with a canonical hemodynamic response function and its temporal derivative.
 55-1	9443-9447	Each	_
 55-2	9448-9457	regressor	_
 55-3	9458-9461	was	_
@@ -1673,6 +1728,7 @@
 55-23	9588-9598	derivative	_
 55-24	9599-9600	.	_
 
+Text=Six standard motion parameters as well as a motion artefact confound matrix, which identified motion-corrupted volumes, were added as regressors of no interest.
 56-1	9601-9604	Six	_
 56-2	9605-9613	standard	_
 56-3	9614-9620	motion	_
@@ -1700,6 +1756,7 @@
 56-25	9754-9762	interest	_
 56-26	9763-9764	.	_
 
+Text=Volumes detected as corrupted were calculated by DVARS as implemented by FSL Motion Outliers.
 57-1	9765-9772	Volumes	_
 57-2	9773-9781	detected	_
 57-3	9782-9784	as	_
@@ -1716,6 +1773,7 @@
 57-14	9849-9857	Outliers	_
 57-15	9858-9859	.	_
 
+Text=Percentage of corrupted volumes did not differ between groups, F (2,60) = 0.166, p>.848 (HC: N = 24; M = 0.4%, SD = 0.2%; NTR: N = 21; M = 0.4%, SD = 0.2%; TRS: N = 18; M = 0.4%, SD = 0.3%).
 58-1	9860-9870	Percentage	_
 58-2	9871-9873	of	_
 58-3	9874-9883	corrupted	_
@@ -1787,6 +1845,7 @@
 58-69	10073-10074	)	_
 58-70	10075-10076	.	_
 
+Text=Contrasts of interest were constructed using the RPE regressors of win and loss outcomes separately.
 59-1	10077-10086	Contrasts	_
 59-2	10087-10089	of	_
 59-3	10090-10098	interest	_
@@ -1804,6 +1863,7 @@
 59-15	10166-10176	separately	_
 59-16	10177-10178	.	_
 
+Text=The first two contrasts averaged across the emotional and neutral conditions, resulting in the contrasts of interest: 1) win RPE and 2) loss RPE.
 60-1	10179-10182	The	_
 60-2	10183-10188	first	_
 60-3	10189-10192	two	_
@@ -1834,6 +1894,7 @@
 60-28	10324-10327	RPE	_
 60-29	10328-10329	.	_
 
+Text=The following two contrasts were constructed to detect activation which was greater in the emotional condition compared to the neutral condition: 3) win RPE [emotional> neutral] and 4) loss RPE [emotional> neutral].
 61-1	10330-10333	The	_
 61-2	10334-10343	following	_
 61-3	10344-10347	two	_
@@ -1877,6 +1938,7 @@
 61-41	10552-10553	]	_
 61-42	10554-10555	.	_
 
+Text=At the group level, contrasts were submitted to separate mixed effects analyses (FLAME1), modelling the effect of group (HC, NTR, or TRS) on BOLD signal.
 62-1	10556-10558	At	_
 62-2	10559-10562	the	_
 62-3	10563-10568	group	_
@@ -1912,6 +1974,7 @@
 62-33	10710-10716	signal	_
 62-34	10717-10718	.	_
 
+Text=Whole-brain activation differences between groups were tested for win RPE and loss RPE.
 63-1	10719-10730	Whole-brain	_
 63-2	10731-10741	activation	_
 63-3	10742-10753	differences	_
@@ -1927,6 +1990,7 @@
 63-13	10802-10805	RPE	_
 63-14	10806-10807	.	_
 
+Text=In order to detect subcortical RPE activation we conducted an ROI analysis using a binary subcortical mask consisting of the bilateral striatum and thalamus (anatomically defined from the probabilistic Harvard Oxford Subcortical Structural Atlas thresholded at 30%).
 64-1	10808-10810	In	_
 64-2	10811-10816	order	_
 64-3	10817-10819	to	_
@@ -1969,6 +2033,7 @@
 64-40	11075-11076	)	_
 64-41	11077-11078	.	_
 
+Text=Broad inclusion of all structures of the striatum as well as the thalamus was based on the fact that subcortical RPE signaling was detected in each of these regions in a meta-analysis and dysfunctions in schizophrenia have also been observed in both striatum and thalamus.
 65-1	11079-11084	Broad	_
 65-2	11085-11094	inclusion	_
 65-3	11095-11097	of	_
@@ -2016,6 +2081,7 @@
 65-45	11342-11350	thalamus	_
 65-46	11351-11352	.	_
 
+Text=In order to assess the differential effect of emotional bias on RPE-related signal, analyses of the win RPE [emotional> neutral] and loss RPE [emotional> neutral] contrasts included emotional bias as a covariate, and group × bias interaction effects were assessed.
 66-1	11353-11355	In	_
 66-2	11356-11361	order	_
 66-3	11362-11364	to	_
@@ -2066,6 +2132,7 @@
 66-48	11616-11624	assessed	_
 66-49	11625-11626	.	_
 
+Text=Significant clusters were determined by a voxelwise z-threshold of 2.3 and a cluster significance threshold of p=0.05 (whole-brain family wise error corrected for multiple comparisons).
 67-1	11627-11638	Significant	_
 67-2	11639-11647	clusters	_
 67-3	11648-11652	were	_
@@ -2095,6 +2162,7 @@
 67-27	11812-11813	)	_
 67-28	11814-11815	.	_
 
+Text=Correlation analyses were conducted between key positive symptoms (delusion and hallucinations) and significant clusters of RPE-related activation detected in the subcortical ROI analysis, and are reported where significant.
 68-1	11816-11827	Correlation	_
 68-2	11828-11836	analyses	_
 68-3	11837-11841	were	_

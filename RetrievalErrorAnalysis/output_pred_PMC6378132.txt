@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Functional Connectivity in Distinct Cognitive Subtypes in Psychosis Background: Cognitive dysfunction is common in psychotic disorders, and may reflect underlying pathophysiology.
 1-1	0-10	Functional	_
 1-2	11-23	Connectivity	_
 1-3	24-26	in	_
@@ -27,6 +28,7 @@
 1-23	165-180	pathophysiology	_
 1-24	181-182	.	_
 
+Text=However, substantial cognitive heterogeneity exists both within and between diagnostic categories, creating challenges for studying the neurobiology of cognitive dysfunction in patients.
 2-1	183-190	However	_
 2-2	191-192	,	_
 2-3	193-204	substantial	_
@@ -53,6 +55,7 @@
 2-24	362-370	patients	_
 2-25	371-372	.	_
 
+Text=The aim of this study was to identify patients with psychosis with intact versus impaired cognitive profiles, and to examine resting state functional connectivity between patient groups and compared to healthy controls to determine the extent to which patterns of connectivity are overlapping or distinct.
 3-1	373-376	The	_
 3-2	377-380	aim	_
 3-3	381-383	of	_
@@ -101,6 +104,7 @@
 3-46	670-678	distinct	_
 3-47	679-680	.	_
 
+Text=Methods: Participants with affective or non-affective psychosis (n=120) and healthy controls (n=31) were administered the MATRICS Consensus Cognitive Battery, clinical and community functioning assessments, and an fMRI scan to measure resting state functional connectivity (RSFC).
 4-1	681-688	Methods	_
 4-2	689-690	:	_
 4-3	691-703	Participants	_
@@ -147,6 +151,7 @@
 4-44	968-969	)	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalCapacityRatingScale
 4-45	970-971	.	_
 
+Text=Cognitive composite scores were used to identify groups of patients with and without cognitive dysfunction.
 5-1	972-981	Cognitive	_
 5-2	982-991	composite	_
 5-3	992-998	scores	_
@@ -164,6 +169,7 @@
 5-15	1067-1078	dysfunction	_
 5-16	1079-1080	.	_
 
+Text=RSFC was compared between groups of patients and healthy controls, controlling for demographic and clinical variables.
 6-1	1081-1085	RSFC	_
 6-2	1086-1089	was	_
 6-3	1090-1098	compared	_
@@ -183,6 +189,7 @@
 6-17	1190-1199	variables	_
 6-18	1200-1201	.	_
 
+Text=Results: Both cognitively intact and cognitively impaired patients showed decreased intrinsic connectivity compared to controls in frontoparietal control (FPN) and motor networks.
 7-1	1202-1209	Results	_
 7-2	1210-1211	:	_
 7-3	1212-1216	Both	_
@@ -210,6 +217,7 @@
 7-25	1375-1383	networks	_
 7-26	1384-1385	.	_
 
+Text=Patients with cognitive impairment showed additional reductions in FPN connectivity compared to patients with intact cognition, particularly in subnetwork A.
 8-1	1386-1394	Patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-2	1395-1399	with	_
 8-3	1400-1409	cognitive	_
@@ -233,6 +241,7 @@
 8-21	1542-1543	A	_
 8-22	1544-1545	.	_
 
+Text=Conclusions: We leveraged the heterogeneity in cognitive ability among patients with psychosis to disentangle the relative contributions of cognitive dysfunction and presence of an underlying psychotic illness using resting state functional connectivity.
 9-1	1546-1557	Conclusions	_
 9-2	1558-1559	:	_
 9-3	1560-1562	We	_
@@ -268,6 +277,7 @@
 9-33	1788-1800	connectivity	_
 9-34	1801-1802	.	_
 
+Text=These findings suggest at least partially separable effects of presence of a psychotic disorder and neurocognitive impairment contributing to network dysconnectivity in psychosis.
 10-1	1803-1808	These	_
 10-2	1809-1817	findings	_
 10-3	1818-1825	suggest	_
@@ -293,6 +303,7 @@
 10-23	1972-1981	psychosis	_
 10-24	1982-1983	.	_
 
+Text=Materials and Materials Participants Participants with diagnoses of affective or non-affective psychosis (n=120) and healthy controls (n=31) were recruited through the Schizophrenia and Bipolar Disorder Program (SBDP) and via fliers posted at McLean Hospital.
 11-1	1984-1993	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	1994-1997	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	1998-2007	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -335,6 +346,7 @@
 11-40	2240-2248	Hospital	_
 11-41	2249-2250	.	_
 
+Text=Participants were recruited in the context of several separate but related studies: 1) cognitive remediation in SZ or Bipolar Disorder (BD) (n= 42), 2) neuroimaging (n=33), or 3) clinical characterization of psychosis (n=76).
 12-1	2251-2263	Participants	_
 12-2	2264-2268	were	_
 12-3	2269-2278	recruited	_
@@ -384,6 +396,7 @@
 12-47	2488-2489	)	_
 12-48	2490-2491	.	_
 
+Text=For subjects who participated in one of the cognitive remediation intervention studies, baseline cognitive and imaging data were used.
 13-1	2492-2495	For	_
 13-2	2496-2504	subjects	_
 13-3	2505-2508	who	_
@@ -406,6 +419,7 @@
 13-20	2622-2626	used	_
 13-21	2627-2628	.	_
 
+Text=Inclusion criteria included a DSM-IV diagnosis of SZ, Schizoaffective Disorder (SZA), Schizophreniform Disorder, Psychosis NOS, BD I with psychosis, or MDD with psychosis, ages 18 to 65.
 14-1	2629-2638	Inclusion	_
 14-2	2639-2647	criteria	_
 14-3	2648-2656	included	_
@@ -443,6 +457,7 @@
 14-35	2820-2822	65	_
 14-36	2823-2824	.	_
 
+Text=Exclusion criteria for all participants included history of head trauma with loss of consciousness, history of seizure, and current substance abuse or dependence.
 15-1	2825-2834	Exclusion	_
 15-2	2835-2843	criteria	_
 15-3	2844-2847	for	_
@@ -470,6 +485,7 @@
 15-25	2978-2988	dependence	_
 15-26	2989-2990	.	_
 
+Text=Healthy controls had no personal or first-degree family history of a psychiatric diagnosis, and no history of substance abuse or dependence.
 16-1	2991-2998	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 16-2	2999-3007	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 16-3	3008-3011	had	_
@@ -494,6 +510,7 @@
 16-22	3121-3131	dependence	_
 16-23	3132-3133	.	_
 
+Text=All procedures were approved by the McLean Hospital IRB.
 17-1	3134-3137	All	_
 17-2	3138-3148	procedures	_
 17-3	3149-3153	were	_
@@ -505,6 +522,7 @@
 17-9	3186-3189	IRB	_
 17-10	3190-3191	.	_
 
+Text=Materials Diagnosis was determined using the Structured Clinical Interview for DSM-IV (SCID-IV-TR) through patient interview, medical record review, and consultation with the participants ’ treatment providers.
 18-1	3192-3201	Materials	_
 18-2	3202-3211	Diagnosis	_
 18-3	3212-3215	was	_
@@ -537,6 +555,7 @@
 18-30	3396-3405	providers	_
 18-31	3406-3407	.	_
 
+Text=Clinical assessment included the Young Mania Rating Scale (YMRS), the Montgomery-Asberg Depression Rating Scale (MADRS), and the Positive and Negative Syndrome Scale (PANSS).
 19-1	3408-3416	Clinical	_
 19-2	3417-3427	assessment	_
 19-3	3428-3436	included	_
@@ -570,6 +589,7 @@
 19-31	3588-3589	)	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 19-32	3590-3591	.	_
 
+Text=Community functioning was measured using an abbreviated version of the Multnomah Community Ability Scale (MCAS), as described by Lewandowski et al .. Premorbid IQ was measured with the North American Adult Reading Test (NAART).
 20-1	3592-3601	Community	_
 20-2	3602-3613	functioning	_
 20-3	3614-3617	was	_
@@ -611,6 +631,7 @@
 20-39	3822-3823	)	http://maven.renci.org/NeuroBridge/neurobridge#NationalAdultReadingTest
 20-40	3824-3825	.	_
 
+Text=Cognition was measured using the MATRICS Consensus Cognitive Battery (MCCB).
 21-1	3826-3835	Cognition	_
 21-2	3836-3839	was	_
 21-3	3840-3848	measured	_
@@ -625,6 +646,7 @@
 21-12	3902-3903	)	http://maven.renci.org/NeuroBridge/neurobridge#CognitiveDisorder
 21-13	3904-3905	.	_
 
+Text=The MCCB is comprised of ten subtests that make up seven domain scores and a composite.
 22-1	3906-3909	The	_
 22-2	3910-3914	MCCB	_
 22-3	3915-3917	is	_
@@ -643,6 +665,7 @@
 22-16	3983-3992	composite	_
 22-17	3993-3994	.	_
 
+Text=Domains include: Speed of Processing (Trail Making Test A; Brief Assessment of Cognition in Schizophrenia: Symbol Coding; Category Fluency); Attention/Vigilance (Continuous Performance Test: Identical Pairs); Working Memory (Wechsler Memory Scale Spatial Span; Letter Number Span); Visual Learning (Brief Visuospatial Memory Test); Verbal Learning (Hopkins Verbal Learning Test); Reasoning/Problem Solving (Neuropsychological Assessment Battery: Mazes); and Social Cognition (Mayer-Salovey-Caruso Emotional Intelligence Test: Managing Emotions).
 23-1	3995-4002	Domains	_
 23-2	4003-4010	include	_
 23-3	4011-4012	:	_
@@ -735,6 +758,7 @@
 23-90	4566-4567	)	_
 23-91	4568-4569	.	_
 
+Text=Subtest, domain, and composite scores are converted to T-scores based on MCCB age and gender adjusted norms.
 24-1	4570-4577	Subtest	_
 24-2	4578-4579	,	_
 24-3	4580-4586	domain	_
@@ -756,6 +780,7 @@
 24-19	4674-4679	norms	_
 24-20	4680-4681	.	_
 
+Text=The MCCB takes approximately 60-90 minutes to complete.
 25-1	4682-4685	The	_
 25-2	4686-4690	MCCB	_
 25-3	4691-4696	takes	_
@@ -766,6 +791,7 @@
 25-8	4728-4736	complete	_
 25-9	4737-4738	.	_
 
+Text=Image Acquisition Details of image acquisition for the majority of participants have been described previously.
 26-1	4739-4744	Image	_
 26-2	4745-4756	Acquisition	_
 26-3	4757-4764	Details	_
@@ -783,6 +809,7 @@
 26-15	4839-4849	previously	_
 26-16	4850-4851	.	_
 
+Text=Briefly, data were acquired using a Siemens 3T Tim Trio scanner with a 12-channel phased-array head coil.
 27-1	4852-4859	Briefly	_
 27-2	4860-4861	,	_
 27-3	4862-4866	data	_
@@ -803,6 +830,7 @@
 27-18	4953-4957	coil	_
 27-19	4958-4959	.	_
 
+Text=High-resolution, T1-weighted, multiecho, magnetization-prepared, gradient-echo structural images were collected.
 28-1	4960-4975	High-resolution	_
 28-2	4976-4977	,	_
 28-3	4978-4989	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -818,6 +846,7 @@
 28-13	5066-5075	collected	_
 28-14	5076-5077	.	_
 
+Text=Functional data were collected with a gradient-echo echo planar imaging sequence to detect blood oxygenation level-dependent (BOLD) contrast.
 29-1	5078-5088	Functional	_
 29-2	5089-5093	data	_
 29-3	5094-5098	were	_
@@ -840,6 +869,7 @@
 29-20	5212-5220	contrast	_
 29-21	5221-5222	.	_
 
+Text=BOLD acquisition parameters for the three protocols combined in this analysis were as follows: (1) TR = 3000ms, TE = 30ms, flip angle = 85°, 3×3×3mm voxels, 72×72 matrix, FOV = 216mm, 47 interleaved axial slices with no gap, and duration = 6.2 minutes (124 time points); (2) TR = 2500ms, TE = 24ms; flip angle = 82°, 3.5×3.5×3.5mm voxels, 64×64 matrix, FOV = 224mm, 42 axial slices, and duration = 10 minutes (240 time points); and (3) TR = 2500ms, TE = 30ms; flip angle = 82°, 3.5×3.5×3.5mm voxels, 64×64 matrix, FOV = 224mm, 41 axial slices, and duration = 6.67 minutes (160 time points).
 30-1	5223-5227	BOLD	_
 30-2	5228-5239	acquisition	_
 30-3	5240-5250	parameters	_
@@ -984,6 +1014,7 @@
 30-142	5847-5848	)	_
 30-143	5849-5850	.	_
 
+Text=An automated alignment procedure aligning whole brain coverage to the anterior commissure-posterior commissure was used for consistency across participants.
 31-1	5851-5853	An	_
 31-2	5854-5863	automated	_
 31-3	5864-5873	alignment	_
@@ -1005,6 +1036,7 @@
 31-19	5994-6006	participants	_
 31-20	6007-6008	.	_
 
+Text=One to two functional scans were acquired per participant, and we assessed mean estimates across scans in the case of two acquisitions.
 32-1	6009-6012	One	_
 32-2	6013-6015	to	_
 32-3	6016-6019	two	_
@@ -1030,6 +1062,7 @@
 32-23	6132-6144	acquisitions	_
 32-24	6145-6146	.	_
 
+Text=Procedure Neuropsychological, neuroimaging, and diagnostic data were collected in 2–3 sessions.
 33-1	6147-6156	Procedure	_
 33-2	6157-6175	Neuropsychological	_
 33-3	6176-6177	,	_
@@ -1045,6 +1078,7 @@
 33-13	6235-6243	sessions	_
 33-14	6244-6245	.	_
 
+Text=Patient-reported information regarding medication and dose was collected, and chlorpromazine equivalents (CPZ) were calculated using guidelines described by Baldessarini.
 34-1	6246-6262	Patient-reported	_
 34-2	6263-6274	information	_
 34-3	6275-6284	regarding	_
@@ -1069,6 +1103,7 @@
 34-22	6406-6418	Baldessarini	_
 34-23	6419-6420	.	_
 
+Text=During resting-state functional scans, participants were told to stay awake, remain still, keep their eyes open, and think of nothing in particular; no fixation marker was used.
 35-1	6421-6427	During	_
 35-2	6428-6441	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 35-3	6442-6452	functional	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1103,6 +1138,7 @@
 35-32	6598-6602	used	_
 35-33	6603-6604	.	_
 
+Text=Participants were monitored with eye tracking to ensure that eyes remained open during the functional scan.
 36-1	6605-6617	Participants	_
 36-2	6618-6622	were	_
 36-3	6623-6632	monitored	_
@@ -1121,6 +1157,7 @@
 36-16	6707-6711	scan	_
 36-17	6712-6713	.	_
 
+Text=Statistical Approach Cognitive groupings were determined using MCCB Composite scores, using a cutoff of MCCB Composite <−1.0SD to define a group characterized by impaired neuropsychological functioning (Impaired), and MCCB Composite scores of> /=−.5SD to define a group characterized by intact neuropsychological functioning (Intact).
 37-1	6714-6725	Statistical	_
 37-2	6726-6734	Approach	_
 37-3	6735-6744	Cognitive	_
@@ -1174,6 +1211,7 @@
 37-51	7054-7055	)	_
 37-52	7056-7057	.	_
 
+Text=Similar strategies have been used in previous reports to identify more homogeneous groups of patients based on cognition.
 38-1	7058-7065	Similar	_
 38-2	7066-7076	strategies	_
 38-3	7077-7081	have	_
@@ -1194,6 +1232,7 @@
 38-18	7169-7178	cognition	_
 38-19	7179-7180	.	_
 
+Text=This approach was selected a) to create groups that were distinct from each other, and b) because cognitive scores within .5SD of the mean are generally considered to be within the normal range whereas scores <1.0SD below the mean are generally considered impaired, thereby creating conceptually meaningful groupings.
 39-1	7181-7185	This	_
 39-2	7186-7194	approach	_
 39-3	7195-7198	was	_
@@ -1249,6 +1288,7 @@
 39-53	7493-7502	groupings	_
 39-54	7503-7504	.	_
 
+Text=Groups were compared on all MCCB domains scores using ANOVA; T-scores were reported for all MCCB variables.
 40-1	7505-7511	Groups	_
 40-2	7512-7516	were	_
 40-3	7517-7525	compared	_
@@ -1269,6 +1309,7 @@
 40-18	7603-7612	variables	_
 40-19	7613-7614	.	_
 
+Text=Groups were also compared on demographic and clinical variables using ANOVA or Chi2 as appropriate.
 41-1	7615-7621	Groups	_
 41-2	7622-7626	were	_
 41-3	7627-7631	also	_
@@ -1286,6 +1327,7 @@
 41-15	7702-7713	appropriate	_
 41-16	7714-7715	.	_
 
+Text=Post-hoc paired t-tests were conducted for all significant ANOVA effects.
 42-1	7716-7724	Post-hoc	_
 42-2	7725-7731	paired	_
 42-3	7732-7739	t-tests	_
@@ -1298,6 +1340,7 @@
 42-10	7781-7788	effects	_
 42-11	7789-7790	.	_
 
+Text=All group comparisons of behavioral data were conducted using Bonferroni correction for multiple comparisons.
 43-1	7791-7794	All	_
 43-2	7795-7800	group	_
 43-3	7801-7812	comparisons	_
@@ -1314,6 +1357,7 @@
 43-14	7888-7899	comparisons	_
 43-15	7900-7901	.	_
 
+Text=The neuroimaging analytic approach has been described previously.
 44-1	7902-7905	The	_
 44-2	7906-7918	neuroimaging	_
 44-3	7919-7927	analytic	_
@@ -1324,6 +1368,7 @@
 44-8	7956-7966	previously	_
 44-9	7967-7968	.	_
 
+Text=Briefly, resting state fMRI data were preprocessed for fcMRI analysis and temporally filtered to retain frequencies below 0.08 Hz.
 45-1	7969-7976	Briefly	_
 45-2	7977-7978	,	_
 45-3	7979-7986	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1346,6 +1391,7 @@
 45-20	8097-8099	Hz	_
 45-21	8100-8101	.	_
 
+Text=We regressed 1) six parameters obtained by correction for rigid body head motion, 2) the signal averaged over the whole brain, 3) the signal averaged over the ventricles, and 4) the signal averaged over the deep cerebral white matter.
 46-1	8102-8104	We	_
 46-2	8105-8114	regressed	_
 46-3	8115-8116	1	_
@@ -1394,6 +1440,7 @@
 46-46	8336-8342	matter	_
 46-47	8343-8344	.	_
 
+Text=BOLD data were projected to the FreeSurfer (4.5.0) cortical ribbon of each participant, and then assessed for correlation structure between 122 surface-based regions of interest (sROIs, 61 per hemisphere) derived from the Yeo et al.
 47-1	8345-8349	BOLD	_
 47-2	8350-8354	data	_
 47-3	8355-8359	were	_
@@ -1437,6 +1484,7 @@
 47-41	8580-8582	al	_
 47-42	8583-8584	.	_
 
+Text=17-network parcellation, which is publicly available for download (https: //surfer.nmr.mgh.harvard.edu/fswiki/CorticalParcellation_Yeo2011).
 48-1	8585-8595	17-network	_
 48-2	8596-8608	parcellation	_
 48-3	8609-8610	,	_
@@ -1453,6 +1501,7 @@
 48-14	8727-8728	)	_
 48-15	8729-8730	.	_
 
+Text=Specifically, we computed Pearson correlation coefficients between each regional fMRI time course, averaged across all vertices within the region, and the mean fMRI time course for every other region.
 49-1	8731-8743	Specifically	_
 49-2	8744-8745	,	_
 49-3	8746-8748	we	_
@@ -1487,6 +1536,7 @@
 49-32	8927-8933	region	_
 49-33	8934-8935	.	_
 
+Text=The regional correlation values were z-transformed to approximate normality and then compared across the groups using ANOVA after linear regression of age, sex, and race.
 50-1	8936-8939	The	_
 50-2	8940-8948	regional	_
 50-3	8949-8960	correlation	_
@@ -1516,6 +1566,7 @@
 50-27	9103-9107	race	_
 50-28	9108-9109	.	_
 
+Text=All tests were corrected for multiple comparisons using a false discovery rate (FDR) of q <0.05, corresponding in this data set to − log P =1.411 FDR corrected.
 51-1	9110-9113	All	_
 51-2	9114-9119	tests	_
 51-3	9120-9124	were	_

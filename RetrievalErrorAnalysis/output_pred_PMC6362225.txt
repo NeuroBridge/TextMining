@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Brain connectivity alterations in early psychosis: from clinical to neuroimaging staging Early in the course of psychosis, alterations in brain connectivity accompany the emergence of psychiatric symptoms and cognitive impairments, including processing speed.
 1-1	0-5	Brain	_
 1-2	6-18	connectivity	_
 1-3	19-30	alterations	_
@@ -40,6 +41,7 @@
 1-36	256-261	speed	_
 1-37	262-263	.	_
 
+Text=The clinical-staging model is a refined form of diagnosis that places the patient along a continuum of illness conditions, which allows stage-specific interventions with the potential of improving patient care and outcome.
 2-1	264-267	The	_
 2-2	268-284	clinical-staging	_
 2-3	285-290	model	_
@@ -75,6 +77,7 @@
 2-33	479-486	outcome	_
 2-34	487-488	.	_
 
+Text=This cross-sectional study investigates brain connectivity features that characterize the clinical stages following a first psychotic episode.
 3-1	489-493	This	_
 3-2	494-509	cross-sectional	_
 3-3	510-515	study	_
@@ -94,6 +97,7 @@
 3-17	623-630	episode	_
 3-18	631-632	.	_
 
+Text=Structural brain networks were derived from diffusion-weighted MRI for 71 early-psychosis patients and 76 healthy controls.
 4-1	633-643	Structural	_
 4-2	644-649	brain	_
 4-3	650-658	networks	_
@@ -112,6 +116,7 @@
 4-16	747-755	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 4-17	756-757	.	_
 
+Text=Patients were classified into stage II (first-episode), IIIa (incomplete remission), IIIb (one relapse), and IIIc (two or more relapses), according to the course of the illness until the time of scanning.
 5-1	758-766	Patients	_
 5-2	767-771	were	_
 5-3	772-782	classified	_
@@ -157,6 +162,7 @@
 5-43	965-973	scanning	_
 5-44	974-975	.	_
 
+Text=Brain connectivity measures and diffusion parameters (fractional anisotropy, apparent diffusion coefficient) were investigated using general linear models and sparse linear discriminant analysis (sLDA), studying distinct subgroups of patients who were at specific stages of early psychosis.
 6-1	976-981	Brain	_
 6-2	982-994	connectivity	_
 6-3	995-1003	measures	_
@@ -201,6 +207,7 @@
 6-42	1262-1271	psychosis	_
 6-43	1272-1273	.	_
 
+Text=We found that brain connectivity impairments were more severe in clinical stages following the first-psychosis episode (stages IIIa, IIIb, IIIc) than in first-episode psychosis (stage II) patients.
 7-1	1274-1276	We	_
 7-2	1277-1282	found	_
 7-3	1283-1287	that	_
@@ -236,6 +243,7 @@
 7-33	1468-1476	patients	_
 7-34	1477-1478	.	_
 
+Text=These alterations were spatially diffuse but converged on a set of vulnerable regions, whose inter-connectivity selectively correlated with processing speed in patients and controls.
 8-1	1479-1484	These	_
 8-2	1485-1496	alterations	_
 8-3	1497-1501	were	_
@@ -263,6 +271,7 @@
 8-25	1653-1661	controls	_
 8-26	1662-1663	.	_
 
+Text=The sLDA suggested that relapsing-remitting (stages IIIb, IIIc) and non-remitting (stage IIIa) patients are characterized by distinct dysconnectivity profiles.
 9-1	1664-1667	The	_
 9-2	1668-1672	sLDA	_
 9-3	1673-1682	suggested	_
@@ -289,6 +298,7 @@
 9-24	1819-1827	profiles	_
 9-25	1828-1829	.	_
 
+Text=Our results indicate that neuroimaging markers of brain dysconnectivity in early psychosis may reflect the heterogeneity of the illness and provide a connectomics signature of the clinical-staging model.
 10-1	1830-1833	Our	_
 10-2	1834-1841	results	_
 10-3	1842-1850	indicate	_
@@ -319,6 +329,7 @@
 10-28	2027-2032	model	_
 10-29	2033-2034	.	_
 
+Text=Materials and methods Subjects A total of 147 subjects (71 early-psychosis patients (EPPs) and 76 healthy controls (HCs)) were included in this cross-sectional study (Table 1).
 11-1	2035-2044	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	2045-2048	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	2049-2056	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -355,6 +366,7 @@
 11-34	2217-2218	)	_
 11-35	2219-2220	.	_
 
+Text=The 71 EPPs (49 males, 26.0 ± 6.2yo) were recruited from an early intervention program (Treatment and Early Intervention in Psychosis Program (TIPP)) of the Lausanne University Hospital, Switzerland.
 12-1	2221-2224	The	_
 12-2	2225-2227	71	_
 12-3	2228-2232	EPPs	_
@@ -394,6 +406,7 @@
 12-37	2416-2427	Switzerland	_
 12-38	2428-2429	.	_
 
+Text=The entry criteria into the TIPP were the following: between 18 and 35 years of age; residence in the catchment area; and meeting the threshold criteria for psychosis according to CAARMS psychosis-threshold subscale.
 13-1	2430-2433	The	_
 13-2	2434-2439	entry	_
 13-3	2440-2448	criteria	_
@@ -432,6 +445,7 @@
 13-36	2640-2648	subscale	_
 13-37	2649-2650	.	_
 
+Text=A total of 76 age, gender and handedness-matched HCs (48 males, 26.7 ± 6.1yo) were recruited from the same catchment area; they were not affected by any mood, psychotic or substance-use disorder and had no first-degree relative with a psychotic disorder.
 14-1	2651-2652	A	_
 14-2	2653-2658	total	_
 14-3	2659-2661	of	_
@@ -481,6 +495,7 @@
 14-47	2902-2910	disorder	_
 14-48	2911-2912	.	_
 
+Text=A history of neurological disorder, severe head trauma or mental retardation (IQ <70) were exclusion criteria for all subjects.
 15-1	2913-2914	A	_
 15-2	2915-2922	history	_
 15-3	2923-2925	of	_
@@ -506,6 +521,7 @@
 15-23	3035-3043	subjects	_
 15-24	3044-3045	.	_
 
+Text=All of the participants provided informed written consent for this study, and the procedure was approved by the Ethics Committee of Clinical Research of the Faculty of Biology and Medicine, University of Lausanne, Switzerland.
 16-1	3046-3049	All	_
 16-2	3050-3052	of	_
 16-3	3053-3056	the	_
@@ -545,6 +561,7 @@
 16-37	3263-3274	Switzerland	_
 16-38	3275-3276	.	_
 
+Text=Clinical staging The clinical stage was rated as the highest stage achieved at the time of imaging.
 17-1	3277-3285	Clinical	_
 17-2	3286-3293	staging	_
 17-3	3294-3297	The	_
@@ -564,6 +581,7 @@
 17-17	3368-3375	imaging	_
 17-18	3376-3377	.	_
 
+Text=The patients were stratified into four distinct groups (stages II and IIIa-c (Fig.
 18-1	3378-3381	The	_
 18-2	3382-3390	patients	_
 18-3	3391-3395	were	_
@@ -581,6 +599,7 @@
 18-15	3458-3461	Fig	_
 18-16	3462-3463	.	_
 
+Text=1)) based on a consensus assessment by two experienced psychiatrists, according to the clinical-staging model proposed by McGorry and colleagues.
 19-1	3464-3465	1	_
 19-2	3466-3467	)	_
 19-3	3468-3469	)	_
@@ -606,6 +625,7 @@
 19-23	3601-3611	colleagues	_
 19-24	3612-3613	.	_
 
+Text=Any unclear issue was discussed with the case-managers.
 20-1	3614-3617	Any	_
 20-2	3618-3625	unclear	_
 20-3	3626-3631	issue	_
@@ -616,6 +636,7 @@
 20-8	3655-3668	case-managers	_
 20-9	3669-3670	.	_
 
+Text=The subjects in stage II were first-episode psychosis patients, with one psychotic episode according to the CAARMS psychosis-threshold subscale and no past episodes at the time of the study (i.e., discrete disorder).
 21-1	3671-3674	The	_
 21-2	3675-3683	subjects	_
 21-3	3684-3686	in	_
@@ -654,6 +675,7 @@
 21-36	3889-3890	)	_
 21-37	3891-3892	.	_
 
+Text=Patients in stage III were defined as follows: IIIa: incomplete remission from stage II at 12 months after entry to care and following a reasonable course of treatment (> 3 months), with duration of illness no longer than 5 years; IIIb: recurrence or relapse of a psychotic episode (i.e., discrete disorder has fully recovered but then relapsed to the full extent described in stage II); IIIc: two or more relapses after stage II with remission between episodes.
 22-1	3893-3901	Patients	_
 22-2	3902-3904	in	_
 22-3	3905-3910	stage	_
@@ -745,6 +767,7 @@
 22-89	4358-4366	episodes	_
 22-90	4367-4368	.	_
 
+Text=Further details on the patients ’ assessment can be found in SI.1.
 23-1	4369-4376	Further	_
 23-2	4377-4384	details	_
 23-3	4385-4387	on	_
@@ -759,6 +782,7 @@
 23-12	4430-4434	SI.1	_
 23-13	4435-4436	.	_
 
+Text=Other clinical and cognitive assessments In patients, the symptoms severity was assessed with the Positive and Negative Syndrome Scale (PANSS), and the functioning level was assessed with the Global Assessment of Functioning (GAF) scale.
 24-1	4437-4442	Other	_
 24-2	4443-4451	clinical	_
 24-3	4452-4455	and	_
@@ -801,6 +825,7 @@
 24-40	4674-4679	scale	http://maven.renci.org/NeuroBridge/neurobridge#MentalStateAssessmentScale
 24-41	4680-4681	.	_
 
+Text=For each patient, a consensus diagnosis was realized by a senior psychiatrist and a senior psychologist in charge of scale-based assessment over the treatment period, based on DSM-IV criteria.
 25-1	4682-4685	For	_
 25-2	4686-4690	each	_
 25-3	4691-4698	patient	_
@@ -834,6 +859,7 @@
 25-31	4867-4875	criteria	_
 25-32	4876-4877	.	_
 
+Text=The levels of cannabis and alcohol use were assessed with the Case Manager Rating Scale (CMRS) and ranked as none, mild, moderate, severe or extremely severe.
 26-1	4878-4881	The	_
 26-2	4882-4888	levels	_
 26-3	4889-4891	of	_
@@ -867,6 +893,7 @@
 26-31	5034-5040	severe	_
 26-32	5041-5042	.	_
 
+Text=None of the patients had extremely sever level of cannabis or alcohol use.
 27-1	5043-5047	None	_
 27-2	5048-5050	of	_
 27-3	5051-5054	the	_
@@ -882,6 +909,7 @@
 27-13	5113-5116	use	_
 27-14	5117-5118	.	_
 
+Text=Antipsychotic doses were converted to chlorpromazine equivalents.
 28-1	5119-5132	Antipsychotic	_
 28-2	5133-5138	doses	_
 28-3	5139-5143	were	_
@@ -891,6 +919,7 @@
 28-7	5172-5183	equivalents	_
 28-8	5184-5185	.	_
 
+Text=All of the subjects were assessed with the MATRICS Consensus Cognitive Battery.
 29-1	5186-5189	All	_
 29-2	5190-5192	of	_
 29-3	5193-5196	the	_
@@ -905,6 +934,7 @@
 29-12	5257-5264	Battery	_
 29-13	5265-5266	.	_
 
+Text=MRI measurements and connectome reconstruction Each subject underwent an MR-imaging session on a 3-Tesla Siemens scanner, including magnetization-prepared rapid acquisition gradient echo (MPRAGE) sequence (1-mm in-plane resolution, 1.2-mm slice thickness) and diffusion spectrum imaging (DSI) sequences (257 diffusion-weighted volumes and 1 b0 volume, maximum b-value 8000 s/mm2, 2.2 × 2.2 × 3 mm3 resolution).
 30-1	5267-5270	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 30-2	5271-5283	measurements	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 30-3	5284-5287	and	_
@@ -973,6 +1003,7 @@
 30-66	5687-5688	)	_
 30-67	5689-5690	.	_
 
+Text=During the study, there was a routine MRI-system upgrade from the MAGNETOM-Trio to the MAGNETOM-Prisma Siemens system.
 31-1	5691-5697	During	_
 31-2	5698-5701	the	_
 31-3	5702-5707	study	_
@@ -993,6 +1024,7 @@
 31-18	5803-5809	system	_
 31-19	5810-5811	.	_
 
+Text=Imaging parameters were precisely matched before and after the upgrade, and the same 32-channel head coil was used.
 32-1	5812-5819	Imaging	_
 32-2	5820-5830	parameters	_
 32-3	5831-5835	were	_
@@ -1014,6 +1046,7 @@
 32-19	5923-5927	used	_
 32-20	5928-5929	.	_
 
+Text=Individual connectomes were estimated by combining MPRAGE and DSI data.
 33-1	5930-5940	Individual	_
 33-2	5941-5952	connectomes	_
 33-3	5953-5957	were	_
@@ -1026,6 +1059,7 @@
 33-10	5996-6000	data	_
 33-11	6001-6002	.	_
 
+Text=Briefly, MPRAGE volumes were segmented into WM, GM and cerebrospinal fluid compartments.
 34-1	6003-6010	Briefly	_
 34-2	6011-6012	,	_
 34-3	6013-6019	MPRAGE	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1042,6 +1076,7 @@
 34-14	6080-6092	compartments	_
 34-15	6093-6094	.	_
 
+Text=The GM was parcellated into 82 (68 cortical and 14 subcortical) regions based on the Desikan-Killiany atlas.
 35-1	6095-6098	The	_
 35-2	6099-6101	GM	_
 35-3	6102-6105	was	_
@@ -1063,6 +1098,7 @@
 35-19	6199-6204	atlas	_
 35-20	6205-6206	.	_
 
+Text=Reconstructed DSI-data were used to compute generalized fractional anisotropy (gFA) and apparent diffusion coefficient (ADC) scalar maps, and for deterministic streamline tractography.
 36-1	6207-6220	Reconstructed	_
 36-2	6221-6229	DSI-data	_
 36-3	6230-6234	were	_
@@ -1092,6 +1128,7 @@
 36-27	6383-6395	tractography	_
 36-28	6396-6397	.	_
 
+Text=The structural connectivity between each pair of cortical and subcortical regions was quantified as the number of streamlines connecting the two regions, which resulted in 82-nodes, weighted undirected brain-networks.
 37-1	6398-6401	The	_
 37-2	6402-6412	structural	_
 37-3	6413-6425	connectivity	_
@@ -1125,6 +1162,7 @@
 37-31	6602-6616	brain-networks	_
 37-32	6617-6618	.	_
 
+Text=For consistency reasons and to limit possible biases in the network analyses, connections that were present in less than 50% of the subjects were discarded.
 38-1	6619-6622	For	_
 38-2	6623-6634	consistency	_
 38-3	6635-6642	reasons	_
@@ -1154,6 +1192,7 @@
 38-27	6767-6776	discarded	_
 38-28	6777-6778	.	_
 
+Text=Further details regarding MRI acquisitions ’ parameters, data processing and connectome reconstruction can be found in the SI.2, SI.3.
 39-1	6779-6786	Further	_
 39-2	6787-6794	details	_
 39-3	6795-6804	regarding	_
@@ -1177,6 +1216,7 @@
 39-21	6910-6914	SI.3	_
 39-22	6915-6916	.	_
 
+Text=Brain connectivity measures Global and nodal (i.e., specific to single brain regions) connectivity measures were considered.
 40-1	6917-6922	Brain	_
 40-2	6923-6935	connectivity	_
 40-3	6936-6944	measures	_
@@ -1198,6 +1238,7 @@
 40-19	7033-7043	considered	_
 40-20	7044-7045	.	_
 
+Text=The overall brain network strength was quantified as the total streamline count in the network.
 41-1	7046-7049	The	_
 41-2	7050-7057	overall	_
 41-3	7058-7063	brain	_
@@ -1215,6 +1256,7 @@
 41-15	7133-7140	network	_
 41-16	7141-7142	.	_
 
+Text=The centrality of each brain region in the network was quantified with the nodal strength, which was defined as the weighted sum of the node ’ s connections.
 42-1	7143-7146	The	_
 42-2	7147-7157	centrality	_
 42-3	7158-7160	of	_
@@ -1246,6 +1288,7 @@
 42-29	7289-7300	connections	_
 42-30	7301-7302	.	_
 
+Text=Tract-average gFA and ADC values were computed for each connection of individual brain networks.
 43-1	7303-7316	Tract-average	_
 43-2	7317-7320	gFA	_
 43-3	7321-7324	and	_
@@ -1262,6 +1305,7 @@
 43-14	7390-7398	networks	_
 43-15	7399-7400	.	_
 
+Text=gFA and ADC values relate to organizational and microstructural properties of the WM, including myelination levels, axonal packing and fibre coherence.
 44-1	7401-7404	gFA	_
 44-2	7405-7408	and	_
 44-3	7409-7412	ADC	_
@@ -1287,6 +1331,7 @@
 44-23	7544-7553	coherence	_
 44-24	7554-7555	.	_
 
+Text=The network efficiency and clustering coefficient were investigated in supplementary analyses (SI.8, Figure S4−S5).
 45-1	7556-7559	The	_
 45-2	7560-7567	network	_
 45-3	7568-7578	efficiency	_
@@ -1306,6 +1351,7 @@
 45-17	7672-7673	)	_
 45-18	7674-7675	.	_
 
+Text=Statistical methods Statistical differences between the subjects ’ groups were assessed with multi-factor ANCOVA within a general linear model (GLM) framework.
 46-1	7676-7687	Statistical	_
 46-2	7688-7695	methods	_
 46-3	7696-7707	Statistical	_
@@ -1331,6 +1377,7 @@
 46-23	7827-7836	framework	_
 46-24	7837-7838	.	_
 
+Text=Age, gender, handedness and a ‘ scanner-upgrade ’ variable were added as co-variates in all of the analyses.
 47-1	7839-7842	Age	_
 47-2	7843-7844	,	_
 47-3	7845-7851	gender	_
@@ -1353,6 +1400,7 @@
 47-20	7940-7948	analyses	_
 47-21	7949-7950	.	_
 
+Text=Global network analyses were repeated on data acquired on the MAGNETOM-Trio or on the MAGNETOM-Prisma system only to further exclude major effects of the scanner upgrade on the results.
 48-1	7951-7957	Global	_
 48-2	7958-7965	network	_
 48-3	7966-7974	analyses	_
@@ -1384,6 +1432,7 @@
 48-29	8128-8135	results	_
 48-30	8136-8137	.	_
 
+Text=The effect size was quantified with the Cohen ’ s d coefficient between GLM residual distributions, after correcting for covariates.
 49-1	8138-8141	The	_
 49-2	8142-8148	effect	_
 49-3	8149-8153	size	_
@@ -1407,6 +1456,7 @@
 49-21	8260-8270	covariates	_
 49-22	8271-8272	.	_
 
+Text=Continuous variables ’ cross-group progression was tested with the Jonckheere-Terpstra (JT) test for ordered alternative hypotheses.
 50-1	8273-8283	Continuous	_
 50-2	8284-8293	variables	_
 50-3	8294-8295	’	_
@@ -1427,6 +1477,7 @@
 50-18	8396-8406	hypotheses	_
 50-19	8407-8408	.	_
 
+Text=The false discovery rate correction for multiple comparisons was applied when indicated.
 51-1	8409-8412	The	_
 51-2	8413-8418	false	_
 51-3	8419-8428	discovery	_
@@ -1441,6 +1492,7 @@
 51-12	8487-8496	indicated	_
 51-13	8497-8498	.	_
 
+Text=Logistic regression was used to assess the cognitive impairments (MATRICS scores) of patients with respect to healthy controls (see SI.4).
 52-1	8499-8507	Logistic	_
 52-2	8508-8518	regression	_
 52-3	8519-8522	was	_
@@ -1467,6 +1519,7 @@
 52-24	8639-8640	)	_
 52-25	8641-8642	.	_
 
+Text=Relationships between neuroimaging and clinical/cognitive variables were assessed with Pearson ’ s correlation coefficient (r).
 53-1	8643-8656	Relationships	_
 53-2	8657-8664	between	_
 53-3	8665-8677	neuroimaging	_
@@ -1486,6 +1539,7 @@
 53-17	8770-8771	)	_
 53-18	8772-8773	.	_
 
+Text=A sparse linear discriminant analysis (sLDA) on nodal strength values was performed on patients only to investigate whether distinct brain connectivity features can be associated with distinct clinical stages.
 54-1	8774-8775	A	_
 54-2	8776-8782	sparse	_
 54-3	8783-8789	linear	_
@@ -1519,6 +1573,7 @@
 54-31	8978-8984	stages	_
 54-32	8985-8986	.	_
 
+Text=Leave-one-out cross validation (LOOCV) error and inter-class distances in the sLDA feature space were used as indicators of classes ’ separability.
 55-1	8987-9000	Leave-one-out	_
 55-2	9001-9006	cross	_
 55-3	9007-9017	validation	_
@@ -1544,6 +1599,7 @@
 55-23	9123-9135	separability	_
 55-24	9136-9137	.	_
 
+Text=In these analyses, sLDA was meant to explore the neuroimaging patterns characterizing the different early-psychosis stages, and not to generalize to a prediction setting.
 56-1	9138-9140	In	_
 56-2	9141-9146	these	_
 56-3	9147-9155	analyses	_
@@ -1572,6 +1628,7 @@
 56-26	9302-9309	setting	_
 56-27	9310-9311	.	_
 
+Text=For further details see SI.5, Figure S1.
 57-1	9312-9315	For	_
 57-2	9316-9323	further	_
 57-3	9324-9331	details	_

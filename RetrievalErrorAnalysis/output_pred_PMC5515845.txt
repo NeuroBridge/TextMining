@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Altered hippocampal volume and functional connectivity in males with Internet gaming disorder comparing to those with alcohol use disorder Internet gaming disorder (IGD) has been conceptualized as a behavioral addiction and shares clinical, neuropsychological, and personality characteristics with alcohol use disorder (AUD), but IGD dose not entail brain exposure to toxic agents, which renders it different from AUD.
 1-1	0-7	Altered	_
 1-2	8-19	hippocampal	_
 1-3	20-26	volume	_
@@ -70,6 +71,7 @@
 1-66	422-425	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 1-67	426-427	.	_
 
+Text=To achieve a clear understanding of the neurobiological features of IGD, we aimed to identify morphological and functional changes in IGD and compare them with those in AUD.
 2-1	428-430	To	_
 2-2	431-438	achieve	_
 2-3	439-440	a	_
@@ -101,6 +103,7 @@
 2-29	598-601	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 2-30	602-603	.	_
 
+Text=Individuals with IGD showed larger volume in the hippocampus/amygdala and precuneus than healthy controls (HCs).
 3-1	604-615	Individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 3-2	616-620	with	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 3-3	621-624	IGD	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
@@ -120,6 +123,7 @@
 3-17	716-717	)	_
 3-18	718-719	.	_
 
+Text=The volume in the hippocampus positively correlated with the symptom severity of IGD.
 4-1	720-723	The	_
 4-2	724-730	volume	_
 4-3	731-733	in	_
@@ -135,6 +139,7 @@
 4-13	801-804	IGD	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 4-14	805-806	.	_
 
+Text=Moreover, functional connectivity analysis with the hippocampus/amygdala cluster revealed that the left ventromedial prefrontal cortex showed stronger functional connectivity in individuals with IGD compared to those with AUD.
 5-1	807-815	Moreover	_
 5-2	816-817	,	_
 5-3	818-828	functional	_
@@ -166,6 +171,7 @@
 5-29	1030-1033	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 5-30	1034-1035	.	_
 
+Text=In contrast, individuals with AUD exhibited the smaller cerebellar volume and thinner medial frontal cortex than HCs.
 6-1	1036-1038	In	_
 6-2	1039-1047	contrast	_
 6-3	1048-1049	,	_
@@ -186,6 +192,7 @@
 6-18	1150-1153	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 6-19	1154-1155	.	_
 
+Text=The volume in the cerebellum correlated with impaired working memory function as well as duration of illness in AUD group.
 7-1	1156-1159	The	_
 7-2	1160-1166	volume	_
 7-3	1167-1169	in	_
@@ -208,6 +215,7 @@
 7-20	1272-1277	group	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 7-21	1278-1279	.	_
 
+Text=Findings suggested that altered volume and functional connectivity in the hippocampus/amygdala in IGD might be associated with abnormally enhanced memory process of gaming-related cues, while abnormal cortical changes and cognitive impairments in AUD might be associated with neurotoxic effects of alcohol.
 8-1	1280-1288	Findings	_
 8-2	1289-1298	suggested	_
 8-3	1299-1303	that	_
@@ -252,6 +260,7 @@
 8-42	1579-1586	alcohol	_
 8-43	1587-1588	.	_
 
+Text=Methods Participants We enrolled 19 individuals diagnosed with IGD, 20 individuals diagnosed with AUD, and 25 HCs between 2013 and 2015.
 9-1	1589-1596	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 9-2	1597-1609	Participants	_
 9-3	1610-1612	We	_
@@ -277,6 +286,7 @@
 9-23	1722-1726	2015	_
 9-24	1727-1728	.	_
 
+Text=Since males have a higher potential to be addicted to Internet gaming than females do, we recruited only males.
 10-1	1729-1734	Since	_
 10-2	1735-1740	males	_
 10-3	1741-1745	have	_
@@ -299,6 +309,7 @@
 10-20	1835-1840	males	_
 10-21	1841-1842	.	_
 
+Text=All individuals with IGD or AUD were seeking treatment for excessive participation in Internet gaming or alcohol consumption and visited to the outpatient clinics of the SMG-SNU Boramae Medical Center.
 11-1	1843-1846	All	_
 11-2	1847-1858	individuals	_
 11-3	1859-1863	with	_
@@ -331,6 +342,7 @@
 11-30	2037-2043	Center	_
 11-31	2044-2045	.	_
 
+Text=HCs were recruited through an advertisement posted on the SMG-SNU Boramae Medical Center.
 12-1	2046-2049	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 12-2	2050-2054	were	_
 12-3	2055-2064	recruited	_
@@ -346,6 +358,7 @@
 12-13	2128-2134	Center	_
 12-14	2135-2136	.	_
 
+Text=IGD was diagnosed according to the DSM-IV criteria and the severity of IGD was assessed using IAT.
 13-1	2137-2140	IGD	_
 13-2	2141-2144	was	_
 13-3	2145-2154	diagnosed	_
@@ -365,6 +378,7 @@
 13-17	2231-2234	IAT	_
 13-18	2235-2236	.	_
 
+Text=We included subjects with IAT scores of at least 50 who spent more than 4 hours per day and 30 hours per week involved in Internet gaming.
 14-1	2237-2239	We	_
 14-2	2240-2248	included	_
 14-3	2249-2257	subjects	_
@@ -394,6 +408,7 @@
 14-27	2368-2374	gaming	_
 14-28	2375-2376	.	_
 
+Text=The mean IAT score of the individuals with IGD was 76.3 ± 7.8, and their mean time spent on Internet gaming was 7.7 ± 3.5 hours per day.
 15-1	2377-2380	The	_
 15-2	2381-2385	mean	_
 15-3	2386-2389	IAT	_
@@ -425,6 +440,7 @@
 15-29	2510-2513	day	_
 15-30	2514-2515	.	_
 
+Text=AUD was diagnosed based on the SCID and, the severity of AUD was assessed using the Korean version of the Alcohol Use Disorder Identification Test (AUDIT-K).
 16-1	2516-2519	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 16-2	2520-2523	was	_
 16-3	2524-2533	diagnosed	_
@@ -456,6 +472,7 @@
 16-29	2674-2675	)	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 16-30	2676-2677	.	_
 
+Text=The mean AUDIT-K score of the individuals with AUD was 24.0 ± 5.3, and their mean quantity of alcohol consumed per day was 8.3 ± 2.5 standard drinks.
 17-1	2678-2681	The	_
 17-2	2682-2686	mean	_
 17-3	2687-2694	AUDIT-K	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
@@ -487,6 +504,7 @@
 17-29	2821-2827	drinks	_
 17-30	2828-2829	.	_
 
+Text=Individuals with AUD were abstinent from alcohol at least 2 weeks before participation in the present study.
 18-1	2830-2841	Individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 18-2	2842-2846	with	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 18-3	2847-2850	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
@@ -506,6 +524,7 @@
 18-17	2932-2937	study	_
 18-18	2938-2939	.	_
 
+Text=Alcohol abstinence was confirmed self-reports and reports from caregivers.
 19-1	2940-2947	Alcohol	_
 19-2	2948-2958	abstinence	_
 19-3	2959-2962	was	_
@@ -517,6 +536,7 @@
 19-9	3003-3013	caregivers	_
 19-10	3014-3015	.	_
 
+Text=We regarded these reports as reliable because the participants attended regular follow-up visits to our outpatient clinic and showed good adherence to treatment.
 20-1	3016-3018	We	_
 20-2	3019-3027	regarded	_
 20-3	3028-3033	these	_
@@ -542,6 +562,7 @@
 20-23	3167-3176	treatment	_
 20-24	3177-3178	.	_
 
+Text=The SCID was used to identify past and current psychiatric illnesses of addiction groups.
 21-1	3179-3182	The	_
 21-2	3183-3187	SCID	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 21-3	3188-3191	was	_
@@ -558,6 +579,7 @@
 21-14	3261-3267	groups	_
 21-15	3268-3269	.	_
 
+Text=Individuals with AUD and HCs used the Internet less than 2 hours per day and mean IAT score of AUD group was 29.6 ± 5.7, and that of HCs was 26.0 ± 13.1.
 22-1	3270-3281	Individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 22-2	3282-3286	with	_
 22-3	3287-3290	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
@@ -594,6 +616,7 @@
 22-34	3419-3423	13.1	_
 22-35	3424-3425	.	_
 
+Text=Individuals with IGD and HCs had no lifetime history of AUD and drank fewer than 14 standard drinks per week and fewer than 4 standard drinks per occasion.
 23-1	3426-3437	Individuals	_
 23-2	3438-3442	with	http://maven.renci.org/NeuroBridge/neurobridge#SubjectwithoutDisorder
 23-3	3443-3446	IGD	http://maven.renci.org/NeuroBridge/neurobridge#SubjectwithoutDisorder
@@ -624,6 +647,7 @@
 23-28	3572-3580	occasion	_
 23-29	3581-3582	.	_
 
+Text=Mean AUDIT-K of IGD was 4.0 ± 2.8 and, that of HCs was 5.9 ± 3.3.
 24-1	3583-3587	Mean	_
 24-2	3588-3595	AUDIT-K	_
 24-3	3596-3598	of	_
@@ -643,6 +667,7 @@
 24-17	3645-3648	3.3	_
 24-18	3649-3650	.	_
 
+Text=Exclusion criteria included a history of significant head injury, seizure disorder, mental retardation, other substance abuse (except smoking) or psychotic disorder and IQ score estimated by the Korean version of the Wechsler Adult Intelligence Scale (WAIS-III) below 80.
 25-1	3651-3660	Exclusion	_
 25-2	3661-3669	criteria	_
 25-3	3670-3678	included	_
@@ -690,6 +715,7 @@
 25-45	3926-3928	80	_
 25-46	3929-3930	.	_
 
+Text=Individuals with both IGD and AUD were excluded from participation in this study.
 26-1	3931-3942	Individuals	_
 26-2	3943-3947	with	_
 26-3	3948-3952	both	_
@@ -705,6 +731,7 @@
 26-13	4006-4011	study	_
 26-14	4012-4013	.	_
 
+Text=All participants completed the BDI, BAI, and BIS-11.
 27-1	4014-4017	All	_
 27-2	4018-4030	participants	_
 27-3	4031-4040	completed	_
@@ -717,6 +744,7 @@
 27-10	4061-4067	BIS-11	_
 27-11	4068-4069	.	_
 
+Text=The study protocol was approved by the Institutional Review Board of the SMG-SNU Boramae Medical Center and all methods were performed in accordance with the approved guidelines and the Declaration of Helsinki.
 28-1	4070-4073	The	_
 28-2	4074-4079	study	_
 28-3	4080-4088	protocol	_
@@ -751,6 +779,7 @@
 28-32	4271-4279	Helsinki	_
 28-33	4280-4281	.	_
 
+Text=All subjects gave written informed consent before enrolling in this study after a detailed explanation of the procedure.
 29-1	4282-4285	All	_
 29-2	4286-4294	subjects	_
 29-3	4295-4299	gave	_
@@ -771,6 +800,7 @@
 29-18	4392-4401	procedure	_
 29-19	4402-4403	.	_
 
+Text=Image acquisition We used a 3.0 T MR system (Achieva, Philips Medical Systems, Best, The Netherlands) to acquire a high-resolution T1-anatomical brain image with a 3D T1-weighted turbo field echo (T1TFE) sequence (TR = 9.9 ms, TE = 4.6 ms, flip angle = 8°, field of view = 220 × 220, 180 slices, thickness = 1 mm, voxel size = 0.98 mm × 0.98 mm × 1 mm) and whole-brain resting-state functional image using a T2 * -weighted echo-planar imaging sequence (TR = 2700 ms, TE = 35 ms, flip angle = 90°, field of view = 220 × 220, 35 slices, thickness = 4 mm, voxel size = 1.53 mm × 1.53 mm × 4 mm, 180 volumes).
 30-1	4404-4409	Image	_
 30-2	4410-4421	acquisition	_
 30-3	4422-4424	We	_
@@ -916,6 +946,7 @@
 30-143	5031-5032	)	_
 30-144	5033-5034	.	_
 
+Text=During functional MRI (fMRI) scanning, participants were instructed to rest with their eyes open, not to sleep, and not to think about anything in particular.
 31-1	5035-5041	During	_
 31-2	5042-5052	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalCapacityRatingScale
 31-3	5053-5056	MRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalCapacityRatingScale
@@ -948,6 +979,7 @@
 31-30	5187-5197	particular	_
 31-31	5198-5199	.	_
 
+Text=Image processing Cortical volume VBM was performed using SPM8 (http//www.fil.ion.ucl.ac.uk/spm/software/spm8) implemented in Matlab 7.11 (The MathWorks, Inc. Natick, MA, USA).
 32-1	5200-5205	Image	_
 32-2	5206-5216	processing	_
 32-3	5217-5225	Cortical	_
@@ -977,6 +1009,7 @@
 32-27	5380-5381	)	_
 32-28	5382-5383	.	_
 
+Text=Each anatomical MR image was segmented and non-linearly normalized to a standard template using the DARTEL algorithm provided in SPM8.
 33-1	5384-5388	Each	_
 33-2	5389-5399	anatomical	_
 33-3	5400-5402	MR	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -999,6 +1032,7 @@
 33-20	5513-5517	SPM8	_
 33-21	5518-5519	.	_
 
+Text=The spatially normalized images were then rescaled using the Jacobian determinants of the deformations to preserve relative tissue volumes and smoothed using an 8-mm full-width half-maximum (FWHM) Gaussian kernel.
 34-1	5520-5523	The	_
 34-2	5524-5533	spatially	_
 34-3	5534-5544	normalized	_
@@ -1032,6 +1066,7 @@
 34-31	5728-5734	kernel	_
 34-32	5735-5736	.	_
 
+Text=Cortical thickness FreeSurfer imaging analysis suite (http: //surfer.nmr.mgh.harvard.edu/; version 5.1.0) was used to estimate cortical thickness.
 35-1	5737-5745	Cortical	_
 35-2	5746-5755	thickness	_
 35-3	5756-5766	FreeSurfer	_
@@ -1054,6 +1089,7 @@
 35-20	5877-5886	thickness	_
 35-21	5887-5888	.	_
 
+Text=The local cortical thickness was measured on the basis of the difference between the position of equivalent vertices in the pial and gray–white matter surfaces.
 36-1	5889-5892	The	_
 36-2	5893-5898	local	_
 36-3	5899-5907	cortical	_
@@ -1081,6 +1117,7 @@
 36-25	6040-6048	surfaces	_
 36-26	6049-6050	.	_
 
+Text=The details of these procedures have been extensively described in a prior publication.
 37-1	6051-6054	The	_
 37-2	6055-6062	details	_
 37-3	6063-6065	of	_
@@ -1096,6 +1133,7 @@
 37-13	6126-6137	publication	_
 37-14	6138-6139	.	_
 
+Text=Segmented volumes were visually inspected, and the appropriate manual corrections were performed.
 38-1	6140-6149	Segmented	_
 38-2	6150-6157	volumes	_
 38-3	6158-6162	were	_
@@ -1111,6 +1149,7 @@
 38-13	6228-6237	performed	_
 38-14	6238-6239	.	_
 
+Text=To obtain cortical thickness difference maps, the data were smoothed on the surface with a 10-mm FWHM Gaussian kernel.
 39-1	6240-6242	To	_
 39-2	6243-6249	obtain	_
 39-3	6250-6258	cortical	_
@@ -1133,6 +1172,7 @@
 39-20	6352-6358	kernel	_
 39-21	6359-6360	.	_
 
+Text=Functional connectivity Image preprocessing and statistical analysis were carried out using SPM8 and DPARSF (Data Processing Assistant for Resting-State fMRI, www.restfmri.net), based on MATLAB toolbox.
 40-1	6361-6371	Functional	_
 40-2	6372-6384	connectivity	_
 40-3	6385-6390	Image	_
@@ -1164,6 +1204,7 @@
 40-29	6559-6566	toolbox	_
 40-30	6567-6568	.	_
 
+Text=The first 10 volumes of the functional time series were discarded.
 41-1	6569-6572	The	_
 41-2	6573-6578	first	_
 41-3	6579-6581	10	_
@@ -1177,6 +1218,7 @@
 41-11	6625-6634	discarded	_
 41-12	6635-6636	.	_
 
+Text=The remaining 170 volumes were subjected to slice timing correction, and to realigning with a six-parameter spatial transformation.
 42-1	6637-6640	The	_
 42-2	6641-6650	remaining	_
 42-3	6651-6654	170	_
@@ -1198,6 +1240,7 @@
 42-19	6754-6768	transformation	_
 42-20	6769-6770	.	_
 
+Text=Data from participants with head-motion exceeding 2.0 mm of maximal rotation and 2.0° of any angular motion during the scan were eliminated from the analysis.
 43-1	6771-6775	Data	_
 43-2	6776-6780	from	_
 43-3	6781-6793	participants	_
@@ -1225,6 +1268,7 @@
 43-25	6920-6928	analysis	_
 43-26	6929-6930	.	_
 
+Text=Data of 2 IGD subjects, 4 AUD subjects and 3 HCs were excluded from functional connectivity analysis according to this criterion.
 44-1	6931-6935	Data	_
 44-2	6936-6938	of	_
 44-3	6939-6940	2	_
@@ -1249,6 +1293,7 @@
 44-22	7051-7060	criterion	_
 44-23	7061-7062	.	_
 
+Text=Then, all data were spatially normalized to MNI space and were smoothed with 4-mm FWHM Gaussian kernel.
 45-1	7063-7067	Then	_
 45-2	7068-7069	,	_
 45-3	7070-7073	all	_
@@ -1269,6 +1314,7 @@
 45-18	7160-7166	kernel	_
 45-19	7167-7168	.	_
 
+Text=The images were subsequently detrended to remove linear trends and temporally band-pass filtered (0.01–0.08 Hz) to remove physiological and high frequency noise.
 46-1	7169-7172	The	_
 46-2	7173-7179	images	_
 46-3	7180-7184	were	_
@@ -1295,6 +1341,7 @@
 46-24	7326-7331	noise	_
 46-25	7332-7333	.	_
 
+Text=Friston 24 motion parameters, global signal, WM signal and CSF signal were regressed out as nuisance signals from the filtered images of each participant.
 47-1	7334-7341	Friston	_
 47-2	7342-7344	24	_
 47-3	7345-7351	motion	_
@@ -1323,6 +1370,7 @@
 47-26	7478-7489	participant	_
 47-27	7490-7491	.	_
 
+Text=Additionally, to remove the potential confounding effects of micro-movements on resting-state functional connectivity, we applied scrubbing for each motion-outlier.
 48-1	7492-7504	Additionally	_
 48-2	7505-7506	,	_
 48-3	7507-7509	to	_
@@ -1346,6 +1394,7 @@
 48-21	7643-7657	motion-outlier	_
 48-22	7658-7659	.	_
 
+Text=Frames that had> 0.5 mm displacement from the previous frame were flagged and removed from subsequent analysis.
 49-1	7660-7666	Frames	_
 49-2	7667-7671	that	_
 49-3	7672-7675	had	_
@@ -1366,6 +1415,7 @@
 49-18	7763-7771	analysis	_
 49-19	7772-7773	.	_
 
+Text=The mean framewise displacement (FD) in the entire fMRI scans were 0.168 ± 0.05 before scrubbing and 0.156 ± 0.04 after scrubbing.
 50-1	7774-7777	The	_
 50-2	7778-7782	mean	_
 50-3	7783-7792	framewise	_
@@ -1392,6 +1442,7 @@
 50-24	7896-7905	scrubbing	_
 50-25	7906-7907	.	_
 
+Text=There were no significant differences in mean FD among three groups both before and after scrubbing (χ 2 = 0.680, p = 0.712, χ 2 = 0.843, p = 0.656).
 51-1	7908-7913	There	_
 51-2	7914-7918	were	_
 51-3	7919-7921	no	_
@@ -1429,6 +1480,7 @@
 51-35	8060-8061	)	_
 51-36	8062-8063	.	_
 
+Text=After scrubbing, 97.9 ± 2.6% frames on average remained (at least 155 frames, ~7 min or more), and there was no group difference in the percentage of remaining frames (IGD: 97.5 ± 3.0%; AUD: 97.9 ± 2.7%; HCs: 98.1 ± 2.4%; χ 2 = 0.126, p = 0.939).
 52-1	8064-8069	After	_
 52-2	8070-8079	scrubbing	_
 52-3	8080-8081	,	_
@@ -1497,6 +1549,7 @@
 52-66	8326-8327	)	_
 52-67	8328-8329	.	_
 
+Text=Region showing significantly altered gray matter volume in IGD, the bilateral hippocampus/amygdala, was defined as seed ROI for the resting-state functional connectivity analysis A seed reference time course was obtained by averaging the time series of all voxels in the ROI, then Pearson ’ s correlation analysis was performed between the seed reference time course and the time series from the whole brain in a voxel-wise way.
 53-1	8330-8336	Region	_
 53-2	8337-8344	showing	_
 53-3	8345-8358	significantly	_
@@ -1569,6 +1622,7 @@
 53-70	8757-8760	way	_
 53-71	8761-8762	.	_
 
+Text=The correlation coefficients were converted to z values using Fisher ’ s r-to-z transformation.
 54-1	8763-8766	The	_
 54-2	8767-8778	correlation	_
 54-3	8779-8791	coefficients	_
@@ -1585,6 +1639,7 @@
 54-14	8843-8857	transformation	_
 54-15	8858-8859	.	_
 
+Text=Neuropsychological assessments To investigate correlations with cortical changes, we conducted comprehensive neuropsychological testing includes following; the verbal fluency test, which tests the ability to generate words in response to a letter cue and assesses cognitive fluency; the Stroop Color and Word Test, which assess sustained and selective attention, cognitive inhibition and working memory; the Trail Making Test, which assesses motor planning and cognitive shifting.
 55-1	8860-8878	Neuropsychological	_
 55-2	8879-8890	assessments	_
 55-3	8891-8893	To	_
@@ -1659,6 +1714,7 @@
 55-72	9339-9347	shifting	_
 55-73	9348-9349	.	_
 
+Text=Also, three executive function subtests of the Cambridge Neuropsychological Test Automated Battery (CANTAB) were performed; the Intra-Extra Dimensional Set Shift test, a computerised analogue of the Wisconsin Card Sorting Test used to assess the ability to shift and flexibly allocate attention; the Stockings of Cambridge test, which assess spatial planning based upon the Tower of Hanoi test; and the SSP, a visuo-spatial analog of the Digit Span test used to assess working memory capacity.
 56-1	9350-9354	Also	_
 56-2	9355-9356	,	_
 56-3	9357-9362	three	_
@@ -1744,6 +1800,7 @@
 56-83	9843-9851	capacity	_
 56-84	9852-9853	.	_
 
+Text=Statistical analyses To evaluate differences between groups in gray matter volume and thickness, statistical tests were performed using a one-way analysis of covariance (ANCOVA) with diagnostic group (IGD, AUD, and HCs) as the factor of interest, followed by post-hoc, two-sample t-test.
 57-1	9854-9865	Statistical	_
 57-2	9866-9874	analyses	_
 57-3	9875-9877	To	_
@@ -1796,6 +1853,7 @@
 57-50	10143-10149	t-test	_
 57-51	10150-10151	.	_
 
+Text=Due to significant between-group differences in age and IQ, these variables were included as covariates of no interest in both the cortical volume and thickness analyses.
 58-1	10152-10155	Due	_
 58-2	10156-10158	to	_
 58-3	10159-10170	significant	_
@@ -1825,6 +1883,7 @@
 58-27	10314-10322	analyses	_
 58-28	10323-10324	.	_
 
+Text=Total intracranial volume also included as a covariate of no interest for the VBM analysis.
 59-1	10325-10330	Total	_
 59-2	10331-10343	intracranial	_
 59-3	10344-10350	volume	_
@@ -1842,6 +1901,7 @@
 59-15	10407-10415	analysis	_
 59-16	10416-10417	.	_
 
+Text=Analyses were corrected for multiple comparisons by means of cluster-size inferences using Monte Carlo simulations.
 60-1	10418-10426	Analyses	_
 60-2	10427-10431	were	_
 60-3	10432-10441	corrected	_
@@ -1859,6 +1919,7 @@
 60-15	10521-10532	simulations	_
 60-16	10533-10534	.	_
 
+Text=The AlphaSim program in the rest software (http: //restfmri.net) was used for the VBM analysis and a precomputed Monte Carlo simulation implemented by FreeSurfer was used for the thickness analysis.
 61-1	10535-10538	The	_
 61-2	10539-10547	AlphaSim	_
 61-3	10548-10555	program	_
@@ -1894,6 +1955,7 @@
 61-33	10727-10735	analysis	_
 61-34	10736-10737	.	_
 
+Text=The initial cluster-forming threshold employed in the present study was p = 0.005, and α = 0.05.
 62-1	10738-10741	The	_
 62-2	10742-10749	initial	_
 62-3	10750-10765	cluster-forming	_
@@ -1914,6 +1976,7 @@
 62-18	10830-10834	0.05	_
 62-19	10835-10836	.	_
 
+Text=For the functional connectivity analysis, one-sample t-tests were conducted on the individual connectivity maps of the three groups separately, thresholded leniently at a voxel-level threshold of p <0.05 and a cluster size threshold of more than 491 voxels.
 63-1	10837-10840	For	_
 63-2	10841-10844	the	_
 63-3	10845-10855	functional	_
@@ -1957,6 +2020,7 @@
 63-41	11090-11096	voxels	_
 63-42	11097-11098	.	_
 
+Text=To compare the functional connectivity maps between the three groups, statistical tests were performed using an ANCOVA with diagnostic group as the factor of interests and age and IQ included as covariates of no interests followed by post-hoc, two-sample t-test.
 64-1	11099-11101	To	_
 64-2	11102-11109	compare	_
 64-3	11110-11113	the	_
@@ -2001,6 +2065,7 @@
 64-42	11356-11362	t-test	_
 64-43	11363-11364	.	_
 
+Text=The significant level was set at p <0.005 using AlphaSim correction (α = 0.05).
 65-1	11365-11368	The	_
 65-2	11369-11380	significant	_
 65-3	11381-11386	level	_
@@ -2020,6 +2085,7 @@
 65-17	11445-11446	)	_
 65-18	11447-11448	.	_
 
+Text=The two-sample t-test was masked with a map defined by a one-sample t-test of each relevant group.
 66-1	11449-11452	The	_
 66-2	11453-11463	two-sample	_
 66-3	11464-11470	t-test	_
@@ -2039,6 +2105,7 @@
 66-17	11541-11546	group	_
 66-18	11547-11548	.	_
 
+Text=Demographic characteristics and scores on neuropsychological tests were evaluated for normality using Shapiro-Wilk.
 67-1	11549-11560	Demographic	_
 67-2	11561-11576	characteristics	_
 67-3	11577-11580	and	_
@@ -2054,6 +2121,7 @@
 67-13	11651-11663	Shapiro-Wilk	_
 67-14	11664-11665	.	_
 
+Text=If normality was justified, one-way analyses of variance (ANOVA) was carried out with Tukey ’ s HSD post-hoc tests.
 68-1	11666-11668	If	_
 68-2	11669-11678	normality	_
 68-3	11679-11682	was	_
@@ -2078,6 +2146,7 @@
 68-22	11778-11783	tests	_
 68-23	11784-11785	.	_
 
+Text=When normality was violated, Kruskal-Wallis tests with Mann–Whitney U post-hoc tests were used to evaluate group differences.
 69-1	11786-11790	When	_
 69-2	11791-11800	normality	_
 69-3	11801-11804	was	_
@@ -2098,6 +2167,7 @@
 69-18	11900-11911	differences	_
 69-19	11912-11913	.	_
 
+Text=Statistical analyses were performed using SPSS 13.0.
 70-1	11914-11925	Statistical	_
 70-2	11926-11934	analyses	_
 70-3	11935-11939	were	_
@@ -2107,6 +2177,7 @@
 70-7	11961-11965	13.0	_
 70-8	11966-11967	.	_
 
+Text=Additionally, we examined the relationship between brain cortical data and clinical characteristics in each addiction group (duration of illness; AUDIT-K score, and number of standard drinks for the AUD group; IAT score and mean hours using Internet games per day for the IGD group) and scores on neuropsychological tests showing significant differences between groups using regression analyses of the whole-brain volume or cortical thickness imaging.
 71-1	11968-11980	Additionally	_
 71-2	11981-11982	,	_
 71-3	11983-11985	we	_
@@ -2180,6 +2251,7 @@
 71-71	12417-12424	imaging	_
 71-72	12425-12426	.	_
 
+Text=For regression analyses, an exploratory uncorrected statistical threshold was set at p <0.005, with a minimal cluster size of 100 voxels.
 72-1	12427-12430	For	_
 72-2	12431-12441	regression	_
 72-3	12442-12450	analyses	_
@@ -2206,6 +2278,7 @@
 72-24	12560-12566	voxels	_
 72-25	12567-12568	.	_
 
+Text=In the current study, we focused on the brain regions showing significantly different cortical changes between groups.
 73-1	12569-12571	In	_
 73-2	12572-12575	the	_
 73-3	12576-12583	current	_
@@ -2226,6 +2299,7 @@
 73-18	12681-12687	groups	_
 73-19	12688-12689	.	_
 
+Text=Eun Jin Yoon and Jung-Seok Choi contributed equally to this work.
 74-1	12690-12693	Eun	_
 74-2	12694-12697	Jin	_
 74-3	12698-12702	Yoon	_
@@ -2239,6 +2313,7 @@
 74-11	12750-12754	work	_
 74-12	12755-12756	.	_
 
+Text=Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
 75-1	12757-12766	Publisher	_
 75-2	12767-12769	's	_
 75-3	12770-12774	note	_

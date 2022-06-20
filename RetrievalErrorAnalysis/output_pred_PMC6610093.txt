@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Abnormalities in hubs location and nodes centrality predict cognitive slowing and increased performance variability in first-episode schizophrenia patients Introducing the Minimum Spanning Tree (MST) algorithms to neural networks science eliminated the problem of arbitrary setting of the threshold for connectivity strength.
 1-1	0-13	Abnormalities	_
 1-2	14-16	in	_
 1-3	17-21	hubs	_
@@ -47,6 +48,7 @@
 1-43	318-326	strength	_
 1-44	327-328	.	_
 
+Text=Despite these advantages, MST has been rarely used to study network abnormalities in schizophrenia.
 2-1	329-336	Despite	_
 2-2	337-342	these	_
 2-3	343-353	advantages	_
@@ -64,6 +66,7 @@
 2-15	415-428	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-16	429-430	.	_
 
+Text=An MST graph mapping a network structure is its simplification, therefore, it is important to verify whether the reconfigured network is significantly related to the behavioural dimensions of the clinical picture of schizophrenia.
 3-1	431-433	An	_
 3-2	434-437	MST	_
 3-3	438-443	graph	_
@@ -101,6 +104,7 @@
 3-35	649-662	schizophrenia	_
 3-36	663-664	.	_
 
+Text=35 first-episode schizophrenia patients and 35 matched healthy controls underwent an assessment of information processing speed, cognitive inter-trial variability modelled with ex-Gaussian distributional analysis of reaction times and resting-state EEG recordings to obtain frequency-specific functional connectivity matrices from which MST graphs were computed.
 4-1	665-667	35	_
 4-2	668-681	first-episode	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
 4-3	682-695	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
@@ -147,6 +151,7 @@
 4-44	1019-1027	computed	_
 4-45	1028-1029	.	_
 
+Text=The patients ’ network had a more random structure and star-like arrangement with overloaded hubs positioned more posteriorly than it was in the case of the control group.
 5-1	1030-1033	The	_
 5-2	1034-1042	patients	_
 5-3	1043-1044	’	_
@@ -177,6 +182,7 @@
 5-28	1195-1200	group	_
 5-29	1201-1202	.	_
 
+Text=Deficient processing speed in the group of patients was predicted by increased maximal betweenness centrality in beta and gamma bands, while decreased consistency in cognitive processing was predicted by the betweenness centrality of posterior nodes in the gamma band, together with duration of illness.
 6-1	1203-1212	Deficient	_
 6-2	1213-1223	processing	_
 6-3	1224-1229	speed	_
@@ -225,6 +231,7 @@
 6-46	1500-1507	illness	_
 6-47	1508-1509	.	_
 
+Text=The betweenness centrality of posterior nodes in the gamma band was also significantly correlated with positive psychotic symptoms in the clinical group.
 7-1	1510-1513	The	_
 7-2	1514-1525	betweenness	_
 7-3	1526-1536	centrality	_
@@ -249,6 +256,7 @@
 7-22	1657-1662	group	_
 7-23	1663-1664	.	_
 
+Text=Methods Participants All participants met the following inclusion criteria: age between 18 and 25 years old, right-handedness and at least 12 years of education, while the exclusion criteria concerned taking benzodiazepines, anticholinergic agents and mood stabilizers up to three months before the assessment.
 8-1	1665-1672	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 8-2	1673-1685	Participants	_
 8-3	1686-1689	All	_
@@ -298,6 +306,7 @@
 8-47	1968-1978	assessment	_
 8-48	1979-1980	.	_
 
+Text=Ultimately, a group of 35 inpatients diagnosed as first-episode schizophrenia (SZ) according to DSM-5 classification (Structured Clinical Interview for DSM-5, SCI) and 35 healthy controls (HC) participated in this study.
 9-1	1981-1991	Ultimately	_
 9-2	1992-1993	,	_
 9-3	1994-1995	a	_
@@ -338,6 +347,7 @@
 9-38	2203-2208	study	_
 9-39	2209-2210	.	_
 
+Text=Patients assigned to the research group were recruited from the Department and Clinic of Psychiatry, Psychotherapy and Early Intervention of the Medical University of Lublin, Poland.
 10-1	2211-2219	Patients	_
 10-2	2220-2228	assigned	_
 10-3	2229-2231	to	_
@@ -368,6 +378,7 @@
 10-28	2388-2394	Poland	_
 10-29	2395-2396	.	_
 
+Text=The HC group was recruited from the local community after the clinical group was completed to guarantee the demographic matching of individuals from both samples.
 11-1	2397-2400	The	_
 11-2	2401-2403	HC	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 11-3	2404-2409	group	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
@@ -395,6 +406,7 @@
 11-25	2551-2558	samples	_
 11-26	2559-2560	.	_
 
+Text=In addition to the mentioned general inclusion and exclusion criteria, healthy controls had to meet additional conditions such as: lack of positive family history of psychotic and affective diseases disclosed, no personal history of Axis I diagnoses as established by the SCID for DSM-5 Axis I Disorders, neurological injuries or brain disease revealed during the initial interview.
 12-1	2561-2563	In	_
 12-2	2564-2572	addition	_
 12-3	2573-2575	to	_
@@ -458,6 +470,7 @@
 12-61	2937-2946	interview	_
 12-62	2947-2948	.	_
 
+Text=In the SZ group, the first-episode status was defined as having received the first psychiatric diagnosis less than one year prior to being engaged in the study, and by the presence of any form of psychotic symptoms for no longer than three years.
 13-1	2949-2951	In	_
 13-2	2952-2955	the	_
 13-3	2956-2958	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -505,6 +518,7 @@
 13-45	3191-3196	years	_
 13-46	3197-3198	.	_
 
+Text=SZ subjects underwent brain structural imaging (MRI) about a month before participation in order to exclude those with any acquired brain injuries (tumors, cerebrovascular changes, signs of TBI etc .).
 14-1	3199-3201	SZ	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 14-2	3202-3210	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 14-3	3211-3220	underwent	_
@@ -543,6 +557,7 @@
 14-36	3404-3405	)	_
 14-37	3406-3407	.	_
 
+Text=All patients were treated with stable doses of atypical antipsychotics during cognitive and electrophysiological assessment, which took place in the last week of hospitalization when a significant clinical improvement had been determined by treatment providing psychiatrists.
 15-1	3408-3411	All	_
 15-2	3412-3420	patients	_
 15-3	3421-3425	were	_
@@ -582,6 +597,7 @@
 15-37	3670-3683	psychiatrists	_
 15-38	3684-3685	.	_
 
+Text=The PANSS total score lower than 75 points was considered as confirming symptomatic remission, which concerned 85.71% of the finally compiled patients ’ group.
 16-1	3686-3689	The	_
 16-2	3690-3695	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 16-3	3696-3701	total	_
@@ -610,6 +626,7 @@
 16-26	3841-3846	group	_
 16-27	3847-3848	.	_
 
+Text=The premorbid IQ of all participants was estimated with Polish Adult Reading Test (PART) - a validated, standardized, and normalized Polish version of NART.
 17-1	3849-3852	The	_
 17-2	3853-3862	premorbid	_
 17-3	3863-3865	IQ	_
@@ -640,6 +657,7 @@
 17-28	4004-4008	NART	_
 17-29	4009-4010	.	_
 
+Text=All participants provided informed consent for a protocol approved by the Bioethical Commission of the Medical University of Lublin, Poland, all methods were performed in accordance with relevant guidelines and regulations.
 18-1	4011-4014	All	_
 18-2	4015-4027	participants	_
 18-3	4028-4036	provided	_
@@ -675,6 +693,7 @@
 18-33	4224-4235	regulations	_
 18-34	4236-4237	.	_
 
+Text=Cognitive assessment A digitized version of a processing speed test (Digit Symbols Test, DST) was applied to measure cognitive speed.
 19-1	4238-4247	Cognitive	_
 19-2	4248-4258	assessment	_
 19-3	4259-4260	A	_
@@ -700,6 +719,7 @@
 19-23	4368-4373	speed	_
 19-24	4374-4375	.	_
 
+Text=A comprehensive description of this task has been reported elsewhere.
 20-1	4376-4377	A	_
 20-2	4378-4391	comprehensive	_
 20-3	4392-4403	description	_
@@ -712,6 +732,7 @@
 20-10	4435-4444	elsewhere	_
 20-11	4445-4446	.	_
 
+Text=Generally, the task used in this study is based on Symbol Coding/Digit Symbol tests or similar methods included in various cognitive batteries, e.g., WAIS or BACS.
 21-1	4447-4456	Generally	_
 21-2	4457-4458	,	_
 21-3	4459-4462	the	_
@@ -743,6 +764,7 @@
 21-29	4608-4612	BACS	_
 21-30	4613-4614	.	_
 
+Text=The task of the participant is to match numbers to abstract symbols as fast as possible.
 22-1	4615-4618	The	_
 22-2	4619-4623	task	_
 22-3	4624-4626	of	_
@@ -761,6 +783,7 @@
 22-16	4694-4702	possible	_
 22-17	4703-4704	.	_
 
+Text=The idea to develop an original computerized version of the test in a form of a tablet application resulted from the necessity to provide access to all the raw data containing temporal parameters of task performance (in milliseconds).
 23-1	4705-4708	The	_
 23-2	4709-4713	idea	_
 23-3	4714-4716	to	_
@@ -803,6 +826,7 @@
 23-40	4939-4940	)	_
 23-41	4941-4942	.	_
 
+Text=The raw data contain a set of reaction times (RTs) covering the intervals between displaying a given symbol and the indication of the corresponding digit.
 24-1	4943-4946	The	_
 24-2	4947-4950	raw	_
 24-3	4951-4955	data	_
@@ -832,6 +856,7 @@
 24-27	5093-5098	digit	_
 24-28	5099-5100	.	_
 
+Text=Further, we used this task in a digital form to reduce the potential impact of motoric disorders that might affect the results of paper-pencil tests, such as in Symbol Coding.
 25-1	5101-5108	Further	_
 25-2	5109-5110	,	_
 25-3	5111-5113	we	_
@@ -866,6 +891,7 @@
 25-32	5271-5277	Coding	_
 25-33	5278-5279	.	_
 
+Text=In the applied version, participants had to only touch the appropriate stimulus.
 26-1	5280-5282	In	_
 26-2	5283-5286	the	_
 26-3	5287-5294	applied	_
@@ -881,6 +907,7 @@
 26-13	5352-5360	stimulus	_
 26-14	5361-5362	.	_
 
+Text=All subjects were tested with the same software and hardware (Lenovo Yoga 2 tablet with 13, 3″ screen, resolution Quad HD 2560 × 1440 IPS, Android™ 4.4 system).
 27-1	5363-5366	All	_
 27-2	5367-5375	subjects	_
 27-3	5376-5380	were	_
@@ -916,6 +943,7 @@
 27-33	5526-5527	)	_
 27-34	5528-5529	.	_
 
+Text=Having all the reaction times from the cognitive speed test, it was possible to determine the intergroup difference regarding the extent of variability in information processing with the individual standard deviation (iSD) indicator.
 28-1	5530-5536	Having	_
 28-2	5537-5540	all	_
 28-3	5541-5544	the	_
@@ -954,6 +982,7 @@
 28-36	5756-5765	indicator	_
 28-37	5766-5767	.	_
 
+Text=However, in clinical populations the distribution of RTs deviates from the Gaussian model, therefore, to circumvent this limitation, the so-called ex-Gaussian modelling methods were applied, providing quantitative data regarding the properties of RTs distribution, in a form of three independent parameters: (1) mu (μ) representing the mean of the normal component and reflecting average performance, (2) sigma (σ) being a symmetrical standard deviation of the normal component, and (3) tau (τ), the exponential part of the distribution with the most prolonged RTs.
 29-1	5768-5775	However	_
 29-2	5776-5777	,	_
 29-3	5778-5780	in	_
@@ -1060,6 +1089,7 @@
 29-104	6351-6354	RTs	_
 29-105	6355-6356	.	_
 
+Text=Typically τ was considered as an indicator of “ attentional lapses ” or “ off-task behaviours ” caused by a transient failure of goal maintenance.
 30-1	6357-6366	Typically	_
 30-2	6367-6368	τ	_
 30-3	6369-6372	was	_
@@ -1087,6 +1117,7 @@
 30-25	6491-6502	maintenance	_
 30-26	6503-6504	.	_
 
+Text=Therefore, the analysis of the RTs distribution derived from tests of cognitive speed showed to what extent the SZ patients ’ test outcome results from an elongation of average RTs, or from being off-task due to dysfunctions of executive control over the ongoing cognitive activity.
 31-1	6505-6514	Therefore	_
 31-2	6515-6516	,	_
 31-3	6517-6520	the	_
@@ -1136,6 +1167,7 @@
 31-47	6780-6788	activity	_
 31-48	6789-6790	.	_
 
+Text=The modelling of ex-Gaussian parameters (μ, σ, τ) based the raw RTs derived from processing speed task has been conducted with the MATLAB toolbox “ DISTRIB ” (version: R2017a, Mathworks Inc. Natick, MA, USA).
 32-1	6791-6794	The	_
 32-2	6795-6804	modelling	_
 32-3	6805-6807	of	_
@@ -1182,6 +1214,7 @@
 32-44	7007-7008	)	_
 32-45	7009-7010	.	_
 
+Text=The data were pre-processed to guarantee the correct export of the results to the MATLAB software and proceeded with an individually customized Excel macro.
 33-1	7011-7014	The	_
 33-2	7015-7019	data	_
 33-3	7020-7024	were	_
@@ -1208,6 +1241,7 @@
 33-24	7161-7166	macro	_
 33-25	7167-7168	.	_
 
+Text=All further operations were performed according to the recommendations of Lacouture and Cousineau for extracting the ex-Gaussian parameters from experimental data.
 34-1	7169-7172	All	_
 34-2	7173-7180	further	_
 34-3	7181-7191	operations	_
@@ -1231,6 +1265,7 @@
 34-21	7327-7331	data	_
 34-22	7332-7333	.	_
 
+Text=Electroencephalographic recording For all subjects, ten minutes of resting state (eyes closed) EEG data was recorded using a 21 scalp location Electro-cap (Electro-Cap International Inc., Ohio, USA) and Ag/AgCl disk electrodes.
 35-1	7334-7357	Electroencephalographic	_
 35-2	7358-7367	recording	_
 35-3	7368-7371	For	_
@@ -1271,6 +1306,7 @@
 35-38	7557-7567	electrodes	_
 35-39	7568-7569	.	_
 
+Text=Electrodes have been deployed according to 10–20 International system (Fp1, Fp2, F3, F4, C3, C4, P3, P4, O1, O2, A1, A2, F7, F8, T3, T4, T5, T6, Fz, Pz, and Cz).
 36-1	7570-7580	Electrodes	_
 36-2	7581-7585	have	_
 36-3	7586-7590	been	_
@@ -1326,6 +1362,7 @@
 36-53	7751-7752	)	_
 36-54	7753-7754	.	_
 
+Text=The reference electrode was placed at the FCz.
 37-1	7755-7758	The	_
 37-2	7759-7768	reference	_
 37-3	7769-7778	electrode	_
@@ -1336,6 +1373,7 @@
 37-8	7797-7800	FCz	_
 37-9	7801-7802	.	_
 
+Text=During the recordings, the impedance value of the electrodes was kept below 5 kΩ with the sampling rate of 500 Hz.
 38-1	7803-7809	During	_
 38-2	7810-7813	the	_
 38-3	7814-7824	recordings	_
@@ -1360,6 +1398,7 @@
 38-22	7915-7917	Hz	_
 38-23	7918-7919	.	_
 
+Text=The data were band-pass filtered from 0.5 to 70 Hz and, with an active notch filter, set at 50 Hz.
 39-1	7920-7923	The	_
 39-2	7924-7928	data	_
 39-3	7929-7933	were	_
@@ -1384,6 +1423,7 @@
 39-22	8017-8019	Hz	_
 39-23	8020-8021	.	_
 
+Text=After having been recorded, the data were exported to ASCII format.
 40-1	8022-8027	After	_
 40-2	8028-8034	having	_
 40-3	8035-8039	been	_
@@ -1398,6 +1438,7 @@
 40-12	8083-8089	format	_
 40-13	8090-8091	.	_
 
+Text=For further analysis, the ASCII files were imported to EEGLAB v.13.5.4b1, an open source toolbox for MATLAB (Mathworks, Inc.).
 41-1	8092-8095	For	_
 41-2	8096-8103	further	_
 41-3	8104-8112	analysis	_
@@ -1424,6 +1465,7 @@
 41-24	8221-8222	)	_
 41-25	8223-8224	.	_
 
+Text=Then, each EEG recording was offline filtered with a bandpass Hamming window 0.5–45 Hz filter, and re-referenced offline to the common average reference.
 42-1	8225-8229	Then	_
 42-2	8230-8231	,	_
 42-3	8232-8236	each	_
@@ -1451,6 +1493,7 @@
 42-25	8370-8379	reference	_
 42-26	8380-8381	.	_
 
+Text=The common average reference was calculated with the exclusion of Fp1/2 and A1/2 electrodes because of contamination by EMG artifacts, electrodes A1/2 were excluded from further analysis.
 43-1	8382-8385	The	_
 43-2	8386-8392	common	_
 43-3	8393-8400	average	_
@@ -1481,6 +1524,7 @@
 43-28	8561-8569	analysis	_
 43-29	8570-8571	.	_
 
+Text=The data were then segmented into 75 epochs with the duration of 4096 samples (approximately 8 s) each.
 44-1	8572-8575	The	_
 44-2	8576-8580	data	_
 44-3	8581-8585	were	_
@@ -1503,6 +1547,7 @@
 44-20	8672-8676	each	_
 44-21	8677-8678	.	_
 
+Text=All of the epochs were visually inspected by a certified clinical neurophysiologist who removed from the analysis epochs contained by artifacts, such as head or muscle movements, jaw clinching and electrode cable movements.
 45-1	8679-8682	All	_
 45-2	8683-8685	of	_
 45-3	8686-8689	the	_
@@ -1540,6 +1585,7 @@
 45-35	8894-8903	movements	_
 45-36	8904-8905	.	_
 
+Text=Finally, for each participant, thirty artifacts free epochs of 4096 samples were selected.
 46-1	8906-8913	Finally	_
 46-2	8914-8915	,	_
 46-3	8916-8919	for	_
@@ -1557,6 +1603,7 @@
 46-15	8989-8997	selected	_
 46-16	8998-8999	.	_
 
+Text=As the number of the selected epochs across participants should be equal, and to avoid excluding additional subjects from the analysis, due to the number of artifacts in the recordings, we chose the number of 30 artifacts free epochs as the safe value for further analysis.
 47-1	9000-9002	As	_
 47-2	9003-9006	the	_
 47-3	9007-9013	number	_
@@ -1608,6 +1655,7 @@
 47-49	9267-9275	analysis	_
 47-50	9276-9277	.	_
 
+Text=In the next step, the epochs were band-pass filtered into the frequencies: delta (0.5–4 Hz), theta (4–8 Hz), lower alpha (8–10 Hz), upper alpha (10–12 Hz), beta (13–30 Hz) and low gamma (30–48 Hz).
 48-1	9278-9280	In	_
 48-2	9281-9284	the	_
 48-3	9285-9289	next	_
@@ -1662,6 +1710,7 @@
 48-52	9491-9492	)	_
 48-53	9493-9494	.	_
 
+Text=Due to the fact that different frequency ranges in an alpha band are involved in different cognitive processes, the alpha band was divided into two frequency bands.
 49-1	9495-9498	Due	_
 49-2	9499-9501	to	_
 49-3	9502-9505	the	_
@@ -1692,6 +1741,7 @@
 49-28	9654-9659	bands	_
 49-29	9660-9661	.	_
 
+Text=The activity in gamma frequency was also assessed due to its crucial role in electroencephalographic studies in schizophrenia.
 50-1	9662-9665	The	_
 50-2	9666-9674	activity	_
 50-3	9675-9677	in	_
@@ -1712,6 +1762,7 @@
 50-18	9774-9787	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 50-19	9788-9789	.	_
 
+Text=For the functional connectivity and MST analysis, all epochs in ASCII format were exported to Brainwave 0.9.152.4.1 (available free at http: //home.kpn.nl/stam7883/brainwave.html).
 51-1	9790-9793	For	_
 51-2	9794-9797	the	_
 51-3	9798-9808	functional	_
@@ -1740,6 +1791,7 @@
 51-26	9972-9973	)	_
 51-27	9974-9975	.	_
 
+Text=The EEG recordings took place around noon, between 10 am and 4 pm, in a quiet, well-lit room.
 52-1	9976-9979	The	_
 52-2	9980-9983	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 52-3	9984-9994	recordings	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -1763,6 +1815,7 @@
 52-21	10067-10071	room	_
 52-22	10072-10073	.	_
 
+Text=Smokers were asked to refrain from smoking at least an hour before the neurophysiological examination.
 53-1	10074-10081	Smokers	http://maven.renci.org/NeuroBridge/neurobridge#Person
 53-2	10082-10086	were	_
 53-3	10087-10092	asked	_
@@ -1780,6 +1833,7 @@
 53-15	10164-10175	examination	_
 53-16	10176-10177	.	_
 
+Text=Functional connectivity To assess the functional connectivity strength for each frequency epoch separately and also for all possible pairs of electrodes, the phase lag index (PLI) has been applied.
 54-1	10178-10188	Functional	_
 54-2	10189-10201	connectivity	_
 54-3	10202-10204	To	_
@@ -1814,6 +1868,7 @@
 54-32	10370-10377	applied	_
 54-33	10378-10379	.	_
 
+Text=PLI provides a measure of phase synchronization based on the asymmetry of the distribution of instantaneous phase differences between two time series.
 55-1	10380-10383	PLI	_
 55-2	10384-10392	provides	_
 55-3	10393-10394	a	_
@@ -1838,6 +1893,7 @@
 55-22	10523-10529	series	_
 55-23	10530-10531	.	_
 
+Text=The instantaneous phase differences were computed using the analytical signal concept and the Hilbert transform.
 56-1	10532-10535	The	_
 56-2	10536-10549	instantaneous	_
 56-3	10550-10555	phase	_
@@ -1855,6 +1911,7 @@
 56-15	10634-10643	transform	_
 56-16	10644-10645	.	_
 
+Text=Owing to the fact that zero-lag synchronization has been removed from the analysis, the PLI outcome is less affected by the influence of common source in comparison to i.e.
 57-1	10646-10651	Owing	_
 57-2	10652-10654	to	_
 57-3	10655-10658	the	_
@@ -1887,6 +1944,7 @@
 57-30	10815-10818	i.e	_
 57-31	10819-10820	.	_
 
+Text=synchronization likelihood or phase coherence.
 58-1	10821-10836	synchronization	_
 58-2	10837-10847	likelihood	_
 58-3	10848-10850	or	_
@@ -1894,6 +1952,7 @@
 58-5	10857-10866	coherence	_
 58-6	10867-10868	.	_
 
+Text=Reconstruction of the neural networks: a Minimum Spanning Tree a The minimum spanning tree is built on the basis of Kruskal ’ s algorithm.
 59-1	10869-10883	Reconstruction	_
 59-2	10884-10886	of	_
 59-3	10887-10890	the	_
@@ -1921,6 +1980,7 @@
 59-25	10998-11007	algorithm	_
 59-26	11008-11009	.	_
 
+Text=It starts by ordering the weight of all edges and then the stronger edges, ie.
 60-1	11010-11012	It	_
 60-2	11013-11019	starts	_
 60-3	11020-11022	by	_
@@ -1939,6 +1999,7 @@
 60-16	11086-11088	ie	_
 60-17	11089-11090	.	_
 
+Text=with highest PLI, became connected, however, excluding those connections that form loops.
 61-1	11091-11095	with	_
 61-2	11096-11103	highest	_
 61-3	11104-11107	PLI	_
@@ -1956,6 +2017,7 @@
 61-15	11177-11182	loops	_
 61-16	11183-11184	.	_
 
+Text=These steps are performed as many times as possible and at the end, the final tree contains 19 nodes and 18 edges, considering the number of all electrodes used in our EEG recording.
 62-1	11185-11190	These	_
 62-2	11191-11196	steps	_
 62-3	11197-11200	are	_
@@ -1993,6 +2055,7 @@
 62-35	11359-11368	recording	_
 62-36	11369-11370	.	_
 
+Text=The MST metrics were calculated based on all PLI matrix, in every frequency band, separately.
 63-1	11371-11374	The	_
 63-2	11375-11378	MST	_
 63-3	11379-11386	metrics	_
@@ -2012,6 +2075,7 @@
 63-17	11455-11465	separately	_
 63-18	11466-11467	.	_
 
+Text=The MST enables computation of many parameters, however, they are strongly correlated and, therefore, redundant.
 64-1	11468-11471	The	_
 64-2	11472-11475	MST	_
 64-3	11476-11483	enables	_
@@ -2033,6 +2097,7 @@
 64-19	11574-11583	redundant	_
 64-20	11584-11585	.	_
 
+Text=The limitation of the number of MST metrics included in statistical analysis was also guided by an attempt to avoid type 1 error.
 65-1	11586-11589	The	_
 65-2	11590-11600	limitation	_
 65-3	11601-11603	of	_
@@ -2058,6 +2123,7 @@
 65-23	11709-11714	error	_
 65-24	11715-11716	.	_
 
+Text=According to van Diessen et al.
 66-1	11717-11726	According	_
 66-2	11727-11729	to	_
 66-3	11730-11733	van	_
@@ -2066,6 +2132,7 @@
 66-6	11745-11747	al	_
 66-7	11748-11749	.	_
 
+Text=(2016), MST diameter and leaf number or leaf fraction, are two most straightforward global metrics informative of the MST network topology.
 67-1	11750-11751	(	_
 67-2	11752-11756	2016	_
 67-3	11757-11758	)	_
@@ -2093,6 +2160,7 @@
 67-25	11884-11892	topology	_
 67-26	11893-11894	.	_
 
+Text=Moreover, they are sufficient to classify the networks as more line-like, in which case the diameter increases and the leaf number decreases, or star-like, with high leaf number and low diameter.
 68-1	11895-11903	Moreover	_
 68-2	11904-11905	,	_
 68-3	11906-11910	they	_
@@ -2130,6 +2198,7 @@
 68-35	12085-12093	diameter	_
 68-36	12094-12095	.	_
 
+Text=A degree parameter is defined as the number of links connected to a node, calculated for each node separately.
 69-1	12096-12097	A	_
 69-2	12098-12104	degree	_
 69-3	12105-12114	parameter	_
@@ -2152,6 +2221,7 @@
 69-20	12196-12206	separately	_
 69-21	12207-12208	.	_
 
+Text=In this study a maximal degree value was computed to characterize the degree of the whole tree.
 70-1	12209-12211	In	_
 70-2	12212-12216	this	_
 70-3	12217-12222	study	_
@@ -2171,6 +2241,7 @@
 70-17	12299-12303	tree	_
 70-18	12304-12305	.	_
 
+Text=A leaf fraction refers to the number of nodes on the tree with degree = 1, it can be defined as Lf = L/m, where L is the leaf number.
 71-1	12306-12307	A	_
 71-2	12308-12312	leaf	_
 71-3	12313-12321	fraction	_
@@ -2205,6 +2276,7 @@
 71-32	12434-12440	number	_
 71-33	12441-12442	.	_
 
+Text=The leaf number ranges from 2 (typical of a line-like topology) and a maximum value m = N-1 (a star-like topology).
 72-1	12443-12446	The	_
 72-2	12447-12451	leaf	_
 72-3	12452-12458	number	_
@@ -2232,6 +2304,7 @@
 72-25	12560-12561	)	_
 72-26	12562-12563	.	_
 
+Text=The leaf number is associated with the tree diameter (d), defined as the largest distance between any two nodes.
 73-1	12564-12567	The	_
 73-2	12568-12572	leaf	_
 73-3	12573-12579	number	_
@@ -2256,6 +2329,7 @@
 73-22	12673-12678	nodes	_
 73-23	12679-12680	.	_
 
+Text=The upper limit of the diameter is defined as dmax = m-L + 2, so, the largest possible diameter decreases when the leaf number increases.
 74-1	12681-12684	The	_
 74-2	12685-12690	upper	_
 74-3	12691-12696	limit	_
@@ -2285,6 +2359,7 @@
 74-27	12810-12819	increases	_
 74-28	12820-12821	.	_
 
+Text=To compare the groups with regard to network hub measure, the betweenness centrality (BC) was also computed, defined as the number of the shortest paths between any pair of nodes i and j in the network passing through node u, divided by the total number of paths between i and j. BC values range from 0 for the leaf node and 1 for the central node in a star-like network where it has the highest load.
 75-1	12822-12824	To	_
 75-2	12825-12832	compare	_
 75-3	12833-12836	the	_
@@ -2368,6 +2443,7 @@
 75-81	13223-13227	load	_
 75-82	13228-13229	.	_
 
+Text=Additional parameter has been provided, a maximal betweenness centrality (BCmax), an indicator of the hub ’ s strength, which is representative for the node (s) with the highest BC in the tree.
 76-1	13230-13240	Additional	_
 76-2	13241-13250	parameter	_
 76-3	13251-13254	has	_
@@ -2409,6 +2485,7 @@
 76-39	13425-13429	tree	_
 76-40	13430-13431	.	_
 
+Text=Because the previously discussed research indicates that the network of SZ patients is more randomly organized than in the case of healthy individuals, a set of MST metrics computed in this study included a degree correlation (R), estimating how strong the degree of a node is dependent on the degree of its neighbouring vertices to which it is connected.
 77-1	13432-13439	Because	_
 77-2	13440-13443	the	_
 77-3	13444-13454	previously	_
@@ -2474,6 +2551,7 @@
 77-63	13781-13790	connected	_
 77-64	13791-13792	.	_
 
+Text=A positive value of degree correlation indicates that the graph is assortative and a negative value means that the graph is disassortative.
 78-1	13793-13794	A	_
 78-2	13795-13803	positive	_
 78-3	13804-13809	value	_
@@ -2498,6 +2576,7 @@
 78-22	13917-13931	disassortative	_
 78-23	13932-13933	.	_
 
+Text=The regional betweenness centrality was computed separately, as averaged BC for nodes assigned as belonging to anterior (nodes: Fp1, Fp2, F7, F8, F3, F4, Fz) and posterior areas (nodes: T5, T6, P3, P4, Pz, O1, O2).
 79-1	13934-13937	The	_
 79-2	13938-13946	regional	_
 79-3	13947-13958	betweenness	_
@@ -2555,6 +2634,7 @@
 79-55	14165-14166	)	_
 79-56	14167-14168	.	_
 
+Text=Exactly the same electrodes assigned as covering anterior or posterior regions were chosen in the study of Symond et al.
 80-1	14169-14176	Exactly	_
 80-2	14177-14180	the	_
 80-3	14181-14185	same	_
@@ -2577,6 +2657,7 @@
 80-20	14286-14288	al	_
 80-21	14289-14290	.	_
 
+Text=of task-related gamma synchrony in first-episode schizophrenia.
 81-1	14291-14293	of	_
 81-2	14294-14306	task-related	_
 81-3	14307-14312	gamma	_
@@ -2586,6 +2667,7 @@
 81-7	14340-14353	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
 81-8	14354-14355	.	_
 
+Text=The central region (C3, C4, Cz) was not included in the statistical analysis because the aim of the study was to identify the nodes/hubs as unambiguously frontal or non-frontal.
 82-1	14356-14359	The	_
 82-2	14360-14367	central	_
 82-3	14368-14374	region	_
@@ -2621,6 +2703,7 @@
 82-33	14525-14536	non-frontal	_
 82-34	14537-14538	.	_
 
+Text=The inclusion of an equal number of nodes in two areas should also reduce any bias in computing a regional centrality.
 83-1	14539-14542	The	_
 83-2	14543-14552	inclusion	_
 83-3	14553-14555	of	_
@@ -2644,6 +2727,7 @@
 83-21	14646-14656	centrality	_
 83-22	14657-14658	.	_
 
+Text=Data analysis and statistics To compare the groups in terms of demographical and clinical variables χ2 test and one-way ANOVA were applied with partial eta squared (ηp2) as an effect size indicator.
 84-1	14659-14663	Data	_
 84-2	14664-14672	analysis	_
 84-3	14673-14676	and	_
@@ -2680,6 +2764,7 @@
 84-34	14849-14858	indicator	_
 84-35	14859-14860	.	_
 
+Text=The between-group differences in terms of cognitive variables (the sum of correctly matched stimuli, mean RT, iSD and the number of errors committed in the processing speed task), including ex-Gaussian parameters (μ, σ, τ) were tested with ANCOVA, including age, education and premorbid IQ as controlled covariates.
 85-1	14861-14864	The	_
 85-2	14865-14878	between-group	_
 85-3	14879-14890	differences	_
@@ -2740,6 +2825,7 @@
 85-58	15176-15186	covariates	_
 85-59	15187-15188	.	_
 
+Text=In this case, all between-group comparisons performed with controlled covariates were carried out individually for each dependent cognitive variable.
 86-1	15189-15191	In	_
 86-2	15192-15196	this	_
 86-3	15197-15201	case	_
@@ -2762,6 +2848,7 @@
 86-20	15330-15338	variable	_
 86-21	15339-15340	.	_
 
+Text=The Bonferroni correction was applied to establish statistical significance threshold resulting from multiple testing of controlled covariates.
 87-1	15341-15344	The	_
 87-2	15345-15355	Bonferroni	_
 87-3	15356-15366	correction	_
@@ -2781,6 +2868,7 @@
 87-17	15473-15483	covariates	_
 87-18	15484-15485	.	_
 
+Text=After determining the distributional parameters significantly differentiating the groups, correlations between these parameters were calculated separately for SZ and HC groups to verify the potential dependencies between ex-Gaussian indicators.
 88-1	15486-15491	After	_
 88-2	15492-15503	determining	_
 88-3	15504-15507	the	_
@@ -2813,6 +2901,7 @@
 88-30	15720-15730	indicators	_
 88-31	15731-15732	.	_
 
+Text=The next step was to perform regression analysis with the overall result in the DST test as a dependent variable and ex-Gaussian parameters, which differed the groups as independent variables to determine which of them could account for cognitive slowdown in the SZ group.
 89-1	15733-15736	The	_
 89-2	15737-15741	next	_
 89-3	15742-15746	step	_
@@ -2860,6 +2949,7 @@
 89-45	16000-16005	group	_
 89-46	16006-16007	.	_
 
+Text=In the SZ group, associations between the mentioned ex-Gaussian parameters and clinical variables were also identified with application of two-tailed Spearman correlation (R).
 90-1	16008-16010	In	_
 90-2	16011-16014	the	_
 90-3	16015-16017	SZ	_
@@ -2888,6 +2978,7 @@
 90-26	16184-16185	)	_
 90-27	16186-16187	.	_
 
+Text=Next, raw PLI and MST results averaged across the epochs per subject were log-transformed [y = ln (x)] to ensure distributional normality of these variables.
 91-1	16188-16192	Next	_
 91-2	16193-16194	,	_
 91-3	16195-16198	raw	_
@@ -2920,6 +3011,7 @@
 91-30	16340-16349	variables	_
 91-31	16350-16351	.	_
 
+Text=To avoid zeros in transformed data, they were computed with additional 1 · 10−24 correction.
 92-1	16352-16354	To	_
 92-2	16355-16360	avoid	_
 92-3	16361-16366	zeros	_
@@ -2938,6 +3030,7 @@
 92-16	16434-16444	correction	_
 92-17	16445-16446	.	_
 
+Text=Group differences regarding individual PLI and MST (diameter, leaf fraction, degree correlation, BCmax, and global BC as whole-brain network metrics, and anterior and posterior BC as regional metrics) results were tested with ANCOVA, again, with age, education and premorbid IQ as controlled covariates and ηp2 as a measure of effect size.
 93-1	16447-16452	Group	_
 93-2	16453-16464	differences	_
 93-3	16465-16474	regarding	_
@@ -3001,6 +3094,7 @@
 93-61	16791-16795	size	_
 93-62	16796-16797	.	_
 
+Text=Similarly as in the case of cognitive variables comparisons, the Bonferroni correction was used to set a statistical significance threshold.
 94-1	16798-16807	Similarly	_
 94-2	16808-16810	as	_
 94-3	16811-16813	in	_
@@ -3024,6 +3118,7 @@
 94-21	16929-16938	threshold	_
 94-22	16939-16940	.	_
 
+Text=After establishing the functional connectivity and network indicators differentiating the studied groups, they were correlated with the ex-Gaussian parameters being significant predictors of cognitive speed in the SZ sample.
 95-1	16941-16946	After	_
 95-2	16947-16959	establishing	_
 95-3	16960-16963	the	_
@@ -3056,6 +3151,7 @@
 95-30	17159-17165	sample	_
 95-31	17166-17167	.	_
 
+Text=In this case, the Pearson ’ s r correlation coefficient was applied.
 96-1	17168-17170	In	_
 96-2	17171-17175	this	_
 96-3	17176-17180	case	_
@@ -3071,6 +3167,7 @@
 96-13	17229-17236	applied	_
 96-14	17237-17238	.	_
 
+Text=To control for the hypothetical impact of clinical independent variables on cognitive–network relationships in the SZ group, a multivariate regression analysis was performed with ex-Gaussian parameters as dependent variables and MST results as independent variables, including the duration of illness, duration of untreated psychosis, and the risperidone equivalent as controlled predictors.
 97-1	17239-17241	To	_
 97-2	17242-17249	control	_
 97-3	17250-17253	for	_
@@ -3128,6 +3225,7 @@
 97-55	17623-17633	predictors	_
 97-56	17634-17635	.	_
 
+Text=Only the variables which significantly differentiated the studied groups and uncorrelated predictors were included.
 98-1	17636-17640	Only	_
 98-2	17641-17644	the	_
 98-3	17645-17654	variables	_
@@ -3144,6 +3242,7 @@
 98-14	17742-17750	included	_
 98-15	17751-17752	.	_
 
+Text=Additionally, the potential correlations between MST parameters and psychopathology assessed with the PANSS scale were verified.
 99-1	17753-17765	Additionally	_
 99-2	17766-17767	,	_
 99-3	17768-17771	the	_
@@ -3163,6 +3262,7 @@
 99-17	17873-17881	verified	_
 99-18	17882-17883	.	_
 
+Text=Due to the fact that the PANSS results deviated from the normal distribution, the two-tailed Spearman R coefficient was used.
 100-1	17884-17887	Due	_
 100-2	17888-17890	to	_
 100-3	17891-17894	the	_
@@ -3186,6 +3286,7 @@
 100-21	18005-18009	used	_
 100-22	18010-18011	.	_
 
+Text=For all correlations coefficients, p values of less than 0.01 were regarded as statistically significant.
 101-1	18012-18015	For	_
 101-2	18016-18019	all	_
 101-3	18020-18032	correlations	_
@@ -3204,6 +3305,7 @@
 101-16	18106-18117	significant	_
 101-17	18118-18119	.	_
 
+Text=Establishing this threshold for correlation resulted from an attempt to avoid false positive effects, which could have been a consequence of potential redundancy or similarity of the analyzed MST parameters.
 102-1	18120-18132	Establishing	_
 102-2	18133-18137	this	_
 102-3	18138-18147	threshold	_

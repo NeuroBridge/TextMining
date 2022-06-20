@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=A phenome-wide examination of neural and cognitive function This data descriptor outlines a shared neuroimaging dataset from the UCLA Consortium for Neuropsychiatric Phenomics, which focused on understanding the dimensional structure of memory and cognitive control (response inhibition) functions in both healthy individuals (130 subjects) and individuals with neuropsychiatric disorders including schizophrenia (50 subjects), bipolar disorder (49 subjects), and attention deficit/hyperactivity disorder (43 subjects).
 1-1	0-1	A	_
 1-2	2-14	phenome-wide	_
 1-3	15-26	examination	_
@@ -80,6 +81,7 @@
 1-76	530-531	)	_
 1-77	532-533	.	_
 
+Text=The dataset includes an extensive set of task-based fMRI assessments, resting fMRI, structural MRI, and high angular resolution diffusion MRI.
 2-1	534-537	The	_
 2-2	538-545	dataset	_
 2-3	546-554	includes	_
@@ -105,6 +107,7 @@
 2-23	675-678	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 2-24	679-680	.	_
 
+Text=The dataset is shared through the OpenfMRI project, and is formatted according to the Brain Imaging Data Structure (BIDS) standard.
 3-1	681-684	The	_
 3-2	685-692	dataset	_
 3-3	693-695	is	_
@@ -130,6 +133,7 @@
 3-23	806-814	standard	_
 3-24	815-816	.	_
 
+Text=Methods Participants Healthy adults were recruited by community advertisements from the Los Angeles area.
 4-1	817-824	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 4-2	825-837	Participants	_
 4-3	838-845	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -146,6 +150,7 @@
 4-14	917-921	area	_
 4-15	922-923	.	_
 
+Text=Participants with adult ADHD, bipolar disorder, and schizophrenia were recruited using a patient-oriented strategy involving outreach to local clinics and online portals (separate from the methods used to recruit healthy volunteers).
 5-1	924-936	Participants	_
 5-2	937-941	with	_
 5-3	942-947	adult	_
@@ -183,6 +188,7 @@
 5-35	1159-1160	)	_
 5-36	1161-1162	.	_
 
+Text=After receiving a verbal explanation of the study, participants gave written informed consent following procedures approved by the Institutional Review Boards at UCLA and the Los Angeles County Department of Mental Health.
 6-1	1163-1168	After	_
 6-2	1169-1178	receiving	_
 6-3	1179-1180	a	_
@@ -218,6 +224,7 @@
 6-33	1379-1385	Health	_
 6-34	1386-1387	.	_
 
+Text=For both healthy and patient groups, participants were men or women ages 21–50 years; NIH racial/ethnic category either White, not Hispanic or Latino; or Hispanic or Latino, of any racial group; primary language either English or Spanish; completed at least 8 years of formal education; no significant medical illness; adequate cooperation to complete assessments; visual acuity 20/60 or better; and urinalysis negative for drugs of abuse (Cocaine; Methamphetamine; Morphine; THC; and Benzodiazepines).
 7-1	1388-1391	For	_
 7-2	1392-1396	both	_
 7-3	1397-1404	healthy	_
@@ -309,6 +316,7 @@
 7-89	1905-1906	)	_
 7-90	1907-1908	.	_
 
+Text=Participants in the healthy group were excluded if they had lifetime diagnoses of Schizophrenia or Other Psychotic Disorder, Bipolar I or II Disorder, or Substance Abuse or Dependence (not counting caffeine or nicotine); or current Major Depressive Disorder; suicidality; Anxiety Disorder (Obsessive Compulsive Disorder, Panic Disorder, Generalized Anxiety Disorder, Post-Traumatic Stress Disorder), Attention Deficit Hyperactivity Disorder (ADHD).
 8-1	1909-1921	Participants	_
 8-2	1922-1924	in	_
 8-3	1925-1928	the	_
@@ -383,6 +391,7 @@
 8-72	2370-2371	)	_
 8-73	2372-2373	.	_
 
+Text=ADHD criteria were assessed using Adult ADHD Interview; healthy participants were screened for sub-threshold ADHD, defined as 4 or more ADHD inattentive or hyperactive/impulsive symptoms in either childhood and adulthood; in addition, they could not have had medication treatment for ADHD within the prior 12 months.
 9-1	2374-2378	ADHD	http://maven.renci.org/NeuroBridge/neurobridge#AttentionDeficitHyperactivityDisorder
 9-2	2379-2387	criteria	_
 9-3	2388-2392	were	_
@@ -435,6 +444,7 @@
 9-50	2687-2693	months	_
 9-51	2694-2695	.	_
 
+Text=Each of the patient groups (Schizophrenia, Bipolar Disorder, and ADHD) excluded anyone with one of these other diagnoses; stable medications were permitted for the patients.
 10-1	2696-2700	Each	_
 10-2	2701-2703	of	_
 10-3	2704-2707	the	_
@@ -467,6 +477,7 @@
 10-30	2865-2873	patients	_
 10-31	2874-2875	.	_
 
+Text=For MRI studies we excluded participants who were left handed, who believed they might be pregnant, or had other contraindications to scanning (e.g., claustrophobia, metal in body, body too large to fit in scanner).
 11-1	2876-2879	For	_
 11-2	2880-2883	MRI	_
 11-3	2884-2891	studies	_
@@ -510,6 +521,7 @@
 11-41	3096-3097	)	_
 11-42	3098-3099	.	_
 
+Text=Diagnoses followed the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition—Text Revision, and were based on the Structured Clinical Interview for DSM-IV (SCID-I) supplemented by the Adult ADHD Interview (a structured interview form derived from the Kiddie Schedule for Affective Disorders and Schizophrenia, Present and Lifetime Version (KSADS-PL)), in order to enable a more detailed characterization of lifetime history of ADHD in adults.
 12-1	3100-3109	Diagnoses	_
 12-2	3110-3118	followed	_
 12-3	3119-3122	the	_
@@ -586,6 +598,7 @@
 12-74	3561-3567	adults	_
 12-75	3568-3569	.	_
 
+Text=Interviewers/raters were trained to criteria as described elsewhere; in brief minimum standards of acceptable symptom agreement were overall kappa of .75, a kappa specificity of .75 and sensitivity of .75, and .85 kappa for diagnostic accuracy.
 13-1	3570-3589	Interviewers/raters	_
 13-2	3590-3594	were	_
 13-3	3595-3602	trained	_
@@ -627,6 +640,7 @@
 13-39	3808-3816	accuracy	_
 13-40	3817-3818	.	_
 
+Text=Diagnostic and Symptom elicitation skill was also assessed with the SCID Checklist of Interviewer Behaviors and the Symptom Checklist of Interviewer Behaviors.
 14-1	3819-3829	Diagnostic	_
 14-2	3830-3833	and	_
 14-3	3834-3841	Symptom	_
@@ -651,6 +665,7 @@
 14-22	3968-3977	Behaviors	http://maven.renci.org/NeuroBridge/neurobridge#FetalAlcoholBehaviorScale
 14-23	3978-3979	.	_
 
+Text=Ongoing quality assurance checks documented kappa above .75 for each rater annually during the course of the study.
 15-1	3980-3987	Ongoing	_
 15-2	3988-3995	quality	_
 15-3	3996-4005	assurance	_
@@ -671,6 +686,7 @@
 15-18	4089-4094	study	_
 15-19	4095-4096	.	_
 
+Text=A subset of the larger healthy sample and patient sample took part in two separate fMRI sessions, which each included one hour of behavioral testing and a one-hour scan on the same day.
 16-1	4097-4098	A	_
 16-2	4099-4105	subset	_
 16-3	4106-4108	of	_
@@ -707,6 +723,7 @@
 16-34	4279-4282	day	_
 16-35	4283-4284	.	_
 
+Text=Eligible English-speaking participants between the ages of 21 and 50 were recruited from the parent study if they successfully completed all previous testing sessions, and they did not meet the following additional exclusion criteria: left-handedness, pregnancy, history of head injury with loss of consciousness or cognitive sequelae, or other contraindications to scanning (e.g., claustrophobia, metal in body).
 17-1	4285-4293	Eligible	_
 17-2	4294-4310	English-speaking	_
 17-3	4311-4323	participants	_
@@ -775,6 +792,7 @@
 17-66	4705-4706	)	_
 17-67	4707-4708	.	_
 
+Text=The final sample included imaging data for healthy individuals from the community (130 subjects), as well as samples of individuals diagnosed with Schizophrenia (50), Bipolar Disorder (49), and ADHD (43).
 18-1	4709-4712	The	_
 18-2	4713-4718	final	_
 18-3	4719-4725	sample	_
@@ -818,6 +836,7 @@
 18-41	4922-4923	)	_
 18-42	4924-4925	.	_
 
+Text=Diagnostic information is included in Table 1.
 19-1	4926-4936	Diagnostic	_
 19-2	4937-4948	information	_
 19-3	4949-4951	is	_
@@ -827,6 +846,7 @@
 19-7	4970-4971	1	_
 19-8	4972-4973	.	_
 
+Text=81% of patients had at least one comorbid diagnosis; information on the prevalence comorbid conditions is included in Table 2, and additional details are available from the scid.tsv file in the phenotype directory of the datasets.
 20-1	4974-4976	81	_
 20-2	4977-4978	%	_
 20-3	4979-4981	of	_
@@ -868,6 +888,7 @@
 20-39	5198-5206	datasets	_
 20-40	5207-5208	.	_
 
+Text=Behavioral assessment Enrolled participants completed extensive neuropsychological testing; these data are included in the phenotype subdirectory, with each data file accompanied by an associated JSON metadata file.
 21-1	5209-5219	Behavioral	_
 21-2	5220-5230	assessment	_
 21-3	5231-5239	Enrolled	_
@@ -899,6 +920,7 @@
 21-29	5421-5425	file	_
 21-30	5426-5427	.	_
 
+Text=The list of tests performed during the behavioral session is presented in Table 3.
 22-1	5428-5431	The	_
 22-2	5432-5436	list	_
 22-3	5437-5439	of	_
@@ -915,6 +937,7 @@
 22-14	5508-5509	3	_
 22-15	5510-5511	.	_
 
+Text=Participants were debriefed and compensated for their time at the end of the final testing session.
 23-1	5512-5524	Participants	_
 23-2	5525-5529	were	_
 23-3	5530-5539	debriefed	_
@@ -933,6 +956,7 @@
 23-16	5603-5610	session	_
 23-17	5611-5612	.	_
 
+Text=Neuroimaging assessment Imaging acquisition MRI data were acquired on one of two 3T Siemens Trio scanners, located at the Ahmanson-Lovelace Brain Mapping Center (Siemens version syngo MR B15) and the Staglin Center for Cognitive Neuroscience (Siemens version syngo MR B17) at UCLA.
 24-1	5613-5625	Neuroimaging	_
 24-2	5626-5636	assessment	_
 24-3	5637-5644	Imaging	_
@@ -982,6 +1006,7 @@
 24-47	5894-5898	UCLA	_
 24-48	5899-5900	.	_
 
+Text=Functional MRI data were collected using a T2 * -weighted echoplanar imaging (EPI) sequence with the following parameters: slice thickness=4 mm, 34 slices, TR=2 s, TE=30 ms, flip angle=90°, matrix 64×64, FOV=192 mm, oblique slice orientation.
 25-1	5901-5911	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 25-2	5912-5915	MRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 25-3	5916-5920	data	_
@@ -1030,6 +1055,7 @@
 25-46	6141-6152	orientation	_
 25-47	6153-6154	.	_
 
+Text=Additionally, a T2-weighted matched-bandwidth high-resolution anatomical scan (with the same slice prescription as the fMRI scan) and MPRAGE were collected; the former is not included in the current data distribution.
 26-1	6155-6167	Additionally	_
 26-2	6168-6169	,	_
 26-3	6170-6171	a	_
@@ -1066,6 +1092,7 @@
 26-34	6363-6375	distribution	_
 26-35	6376-6377	.	_
 
+Text=The parameters for the high-resolution scan were: 4 mm slices, TR/TE=5000/34 ms, 4 averages, matrix=128×128, 90 degree flip angle.
 27-1	6378-6381	The	_
 27-2	6382-6392	parameters	_
 27-3	6393-6396	for	_
@@ -1092,6 +1119,7 @@
 27-24	6507-6512	angle	_
 27-25	6513-6514	.	_
 
+Text=The parameters for MPRAGE were the following: TR=1.9 s, TE=2.26 ms, FOV=250 mm, matrix=256×256, sagittal plane, slice thickness=1 mm, 176 slices.
 28-1	6515-6518	The	_
 28-2	6519-6529	parameters	_
 28-3	6530-6533	for	_
@@ -1122,6 +1150,7 @@
 28-28	6660-6666	slices	_
 28-29	6667-6668	.	_
 
+Text=Diffusion weighted imaging (DWI) data were collected using an echo-planar sequence with parameters: 64 directions, 2 mm slices, TR/TE=9000/93 ms, 1 average, 96×96 matrix, 90 degree flip angle, axial slices, b=1000 s/mm2.
 29-1	6669-6678	Diffusion	http://maven.renci.org/NeuroBridge/neurobridge#DiffusionWeightedImaging
 29-2	6679-6687	weighted	http://maven.renci.org/NeuroBridge/neurobridge#DiffusionWeightedImaging
 29-3	6688-6695	imaging	http://maven.renci.org/NeuroBridge/neurobridge#DiffusionWeightedImaging
@@ -1166,6 +1195,7 @@
 29-42	6893-6898	s/mm2	_
 29-43	6899-6900	.	_
 
+Text=Subjects participated in two scanning sessions (‘ A ’ and ‘ B ’) in a counterbalanced fashion.
 30-1	6901-6909	Subjects	_
 30-2	6910-6922	participated	_
 30-3	6923-6925	in	_
@@ -1187,6 +1217,7 @@
 30-19	6989-6996	fashion	_
 30-20	6997-6998	.	_
 
+Text=Session A included: localizer, MPRAGE, DWI, Matched Bandwidth Hires, Balloon Analog Risk Task, and Paired-associate Memory Task.
 31-1	6999-7006	Session	_
 31-2	7007-7008	A	_
 31-3	7009-7017	included	_
@@ -1212,6 +1243,7 @@
 31-23	7128-7132	Task	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
 31-24	7133-7134	.	_
 
+Text=Session B included: localizer, Matched Bandwidth Hires, Resting State, Breath Hold Task, Stop Signal Task, Spatial Capacity working memory task (SCAP), and Task Switching Task.
 32-1	7135-7142	Session	_
 32-2	7143-7144	B	_
 32-3	7145-7153	included	_
@@ -1248,6 +1280,7 @@
 32-34	7315-7319	Task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 32-35	7320-7321	.	_
 
+Text=Resting fMRI The resting fMRI scan lasted 304 s. Participants were asked to remain relaxed and keep their eyes open; they were not presented any stimuli or asked to respond during the scan.
 33-1	7322-7329	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 33-2	7330-7334	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 33-3	7335-7338	The	_
@@ -1284,6 +1317,7 @@
 33-34	7507-7511	scan	_
 33-35	7512-7513	.	_
 
+Text=Task fMRI For each task described below, all participants received brief training on each task immediately before scanning.
 34-1	7514-7518	Task	_
 34-2	7519-7523	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 34-3	7524-7527	For	_
@@ -1305,6 +1339,7 @@
 34-19	7629-7637	scanning	_
 34-20	7638-7639	.	_
 
+Text=Each participant viewed the task stimuli through MRI-compatible goggles, responded with his or her right hand on an MR-compatible button box in the scanner, and performed one run of each task while in the scanner.
 35-1	7640-7644	Each	_
 35-2	7645-7656	participant	_
 35-3	7657-7663	viewed	_
@@ -1344,6 +1379,7 @@
 35-37	7847-7854	scanner	_
 35-38	7855-7856	.	_
 
+Text=The presentation and timing of all stimuli and response events were achieved using Matlab (Mathworks) and the Psychtoolbox (www.psychtoolbox.org) on an Apple Powerbook.
 36-1	7857-7860	The	_
 36-2	7861-7873	presentation	_
 36-3	7874-7877	and	_
@@ -1373,6 +1409,7 @@
 36-27	8019-8028	Powerbook	_
 36-28	8029-8030	.	_
 
+Text=Code for all tasks (except for Paired Associate Memory) is available at https: //poldracklab.stanford.edu/software.
 37-1	8031-8035	Code	_
 37-2	8036-8039	for	_
 37-3	8040-8043	all	_
@@ -1392,6 +1429,7 @@
 37-17	8113-8148	//poldracklab.stanford.edu/software	_
 37-18	8149-8150	.	_
 
+Text=Balloon analog risk task In this task, participants were allowed to pump a series of virtual green (experimental) and white (control) balloons.
 38-1	8151-8158	Balloon	http://maven.renci.org/NeuroBridge/neurobridge#BalloonAnalogueRiskTask
 38-2	8159-8165	analog	http://maven.renci.org/NeuroBridge/neurobridge#BalloonAnalogueRiskTask
 38-3	8166-8170	risk	http://maven.renci.org/NeuroBridge/neurobridge#BalloonAnalogueRiskTask
@@ -1421,6 +1459,7 @@
 38-27	8290-8298	balloons	_
 38-28	8299-8300	.	_
 
+Text=On each trial, participants chose to pump the balloon or cash out and collect their accumulated earnings for that round.
 39-1	8301-8303	On	_
 39-2	8304-8308	each	_
 39-3	8309-8314	trial	_
@@ -1444,6 +1483,7 @@
 39-21	8416-8421	round	_
 39-22	8422-8423	.	_
 
+Text=For experimental balloons, after a trial in which the participant successfully pumped the balloon (meaning it did not result in an explosion), an image of a larger balloon was presented, the participant earned 5 points, and was able to pump again or cash out.
 40-1	8424-8427	For	_
 40-2	8428-8440	experimental	_
 40-3	8441-8449	balloons	_
@@ -1496,6 +1536,7 @@
 40-50	8685-8688	out	_
 40-51	8689-8690	.	_
 
+Text=After a trial in which the participant chose to cash out, the participant ’ s accumulated earnings for that round were displayed and the task moved onto the next round.
 41-1	8691-8696	After	_
 41-2	8697-8698	a	_
 41-3	8699-8704	trial	_
@@ -1529,6 +1570,7 @@
 41-31	8854-8859	round	_
 41-32	8860-8861	.	_
 
+Text=On an explosion trial (necessarily following a pump trial), an exploded balloon was presented, the participant received no points for that round, and the task moved onto the next round.
 42-1	8862-8864	On	_
 42-2	8865-8867	an	_
 42-3	8868-8877	explosion	_
@@ -1566,6 +1608,7 @@
 42-35	9046-9051	round	_
 42-36	9052-9053	.	_
 
+Text=In this version of the BART, balloons exploded randomly on a number drawn from a uniform distribution over numbers of pumps, with 12 maximum pumps possible before an explosion or end of a round.
 43-1	9054-9056	In	_
 43-2	9057-9061	this	_
 43-3	9062-9069	version	_
@@ -1604,6 +1647,7 @@
 43-36	9244-9249	round	_
 43-37	9250-9251	.	_
 
+Text=Thus, participants experienced the probability as non-stationary, as the likelihood of a loss event increased with each trial in a round and as no information was provided to subjects about the probability of explosion.
 44-1	9252-9256	Thus	_
 44-2	9257-9258	,	_
 44-3	9259-9271	participants	_
@@ -1642,6 +1686,7 @@
 44-36	9463-9472	explosion	_
 44-37	9473-9474	.	_
 
+Text=Subjects were not informed regarding the maximum pumps possible before an explosion or end of the round.
 45-1	9475-9483	Subjects	_
 45-2	9484-9488	were	_
 45-3	9489-9492	not	_
@@ -1661,6 +1706,7 @@
 45-17	9573-9578	round	_
 45-18	9579-9580	.	_
 
+Text=Participants also responded to control balloons, which increased in size on successive trials, but which neither resulted in points nor exploded.
 46-1	9581-9593	Participants	_
 46-2	9594-9598	also	_
 46-3	9599-9608	responded	_
@@ -1686,6 +1732,7 @@
 46-23	9719-9727	exploded	_
 46-24	9728-9729	.	_
 
+Text=For both balloons (green and white), the balloon would disappear from the screen once the participant responded, and each balloon trial was separated by a jittered delay.
 47-1	9730-9733	For	_
 47-2	9734-9738	both	_
 47-3	9739-9747	balloons	_
@@ -1719,6 +1766,7 @@
 47-31	9898-9903	delay	_
 47-32	9904-9905	.	_
 
+Text=An outcome trial (following a cash-out trial or an explosion) was displayed for a fixed duration of 2 s. Each trial was separated by a blank screen that was presented for a variable duration (1–2 s, average 1.5 s); each round was separated by a blank screen that was presented for variable duration (1–12 s, average 4 s).
 48-1	9906-9908	An	_
 48-2	9909-9916	outcome	_
 48-3	9917-9922	trial	_
@@ -1788,6 +1836,7 @@
 48-67	10234-10235	)	_
 48-68	10236-10237	.	_
 
+Text=The task performed in the scanner was self-paced, but the task was programmed such that participants saw approximately 30 virtual balloons, with an approximate run time of 9 min.
 49-1	10238-10241	The	_
 49-2	10242-10246	task	_
 49-3	10247-10256	performed	_
@@ -1821,6 +1870,7 @@
 49-31	10414-10417	min	_
 49-32	10418-10419	.	_
 
+Text=Each successful pump was worth 5 points, but participants did not collect their earnings at the end of the scan.
 50-1	10420-10424	Each	_
 50-2	10425-10435	successful	_
 50-3	10436-10440	pump	_
@@ -1844,6 +1894,7 @@
 50-21	10528-10532	scan	_
 50-22	10533-10534	.	_
 
+Text=Paired-associate memory task In this task, two scans were performed to assess declarative memory encoding and retrieval, respectively.
 51-1	10535-10551	Paired-associate	_
 51-2	10552-10558	memory	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
 51-3	10559-10563	task	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
@@ -1866,6 +1917,7 @@
 51-20	10658-10670	respectively	_
 51-21	10671-10672	.	_
 
+Text=The first scan consisted of a block of 64 encoding trials.
 52-1	10673-10676	The	_
 52-2	10677-10682	first	_
 52-3	10683-10687	scan	_
@@ -1879,6 +1931,7 @@
 52-11	10724-10730	trials	_
 52-12	10731-10732	.	_
 
+Text=Forty of the encoding trials were ‘ memory ’ trials and 24 were ‘ control ’ trials.
 53-1	10733-10738	Forty	_
 53-2	10739-10741	of	_
 53-3	10742-10745	the	_
@@ -1898,6 +1951,7 @@
 53-17	10809-10815	trials	_
 53-18	10816-10817	.	_
 
+Text=During memory trials, first, two words appeared for 1 s, one on each side of the screen.
 54-1	10818-10824	During	_
 54-2	10825-10831	memory	_
 54-3	10832-10838	trials	_
@@ -1920,6 +1974,7 @@
 54-20	10902-10908	screen	_
 54-21	10909-10910	.	_
 
+Text=Then, line drawings of two objects that matched the words appeared above the words and they were presented together for 3 more seconds, for a total of 4 s per trial.
 55-1	10911-10915	Then	_
 55-2	10916-10917	,	_
 55-3	10918-10922	line	_
@@ -1955,6 +2010,7 @@
 55-33	11072-11077	trial	_
 55-34	11078-11079	.	_
 
+Text=One of the objects was drawn in black and white, and one object drawn using a single color (e.g., orange).
 56-1	11080-11083	One	_
 56-2	11084-11086	of	_
 56-3	11087-11090	the	_
@@ -1981,6 +2037,7 @@
 56-24	11188-11189	)	_
 56-25	11190-11191	.	_
 
+Text=For control trials, pairs of scrambled stimuli, one black and white and one colored, appeared for 2 s. The subject indicated by button press which side the colored object was on.
 57-1	11192-11195	For	_
 57-2	11196-11203	control	_
 57-3	11204-11210	trials	_
@@ -2017,6 +2074,7 @@
 57-34	11370-11372	on	_
 57-35	11373-11374	.	_
 
+Text=Subjects were instructed to remember the objects and the relationship between the objects.
 58-1	11375-11383	Subjects	_
 58-2	11384-11388	were	_
 58-3	11389-11399	instructed	_
@@ -2032,6 +2090,7 @@
 58-13	11457-11464	objects	_
 58-14	11465-11466	.	_
 
+Text=The trial types were intermixed.
 59-1	11467-11470	The	_
 59-2	11471-11476	trial	_
 59-3	11477-11482	types	_
@@ -2039,6 +2098,7 @@
 59-5	11488-11498	intermixed	_
 59-6	11499-11500	.	_
 
+Text=In total, the encoding run included 242 TRs of which 104 (42.9%) were active task, and the ITI between trials was jittered.
 60-1	11501-11503	In	_
 60-2	11504-11509	total	_
 60-3	11510-11511	,	_
@@ -2068,6 +2128,7 @@
 60-27	11620-11628	jittered	_
 60-28	11629-11630	.	_
 
+Text=The encoding run, in total, was 8.07 min long.
 61-1	11631-11634	The	_
 61-2	11635-11643	encoding	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 61-3	11644-11647	run	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -2081,6 +2142,7 @@
 61-11	11674-11678	long	_
 61-12	11679-11680	.	_
 
+Text=During the retrieval scan there were 104 total trials: 24 control trials, 40 correct trials, and 40 incorrect trials, each trial was 3 s long.
 62-1	11681-11687	During	_
 62-2	11688-11691	the	_
 62-3	11692-11701	retrieval	_
@@ -2112,6 +2174,7 @@
 62-29	11822-11826	long	_
 62-30	11827-11828	.	_
 
+Text=The retrieval task required the subjects to look at a pair of objects and rate their confidence in their memory of the pairing.
 63-1	11829-11832	The	_
 63-2	11833-11842	retrieval	_
 63-3	11843-11847	task	_
@@ -2137,6 +2200,7 @@
 63-23	11948-11955	pairing	_
 63-24	11956-11957	.	_
 
+Text=There were 4 possible response options ranging from ‘ Sure correct ’ to ‘ Sure incorrect ’, allowing the responses to be analyzed as a spectrum or binarized into yes/no type responses.
 64-1	11958-11963	There	_
 64-2	11964-11968	were	_
 64-3	11969-11970	4	_
@@ -2172,6 +2236,7 @@
 64-33	12133-12142	responses	_
 64-34	12143-12144	.	_
 
+Text=During control trials, on one side of the screen was one of the four retrieval confidence response options ‘ sure correct ’, ‘ maybe correct ’, ‘ maybe incorrect ’, or ‘ sure incorrect ’.
 65-1	12145-12151	During	_
 65-2	12152-12159	control	_
 65-3	12160-12166	trials	_
@@ -2213,6 +2278,7 @@
 65-39	12334-12335	’	_
 65-40	12336-12337	.	_
 
+Text=On the other side of the screen was ‘ xxxx ’.
 66-1	12338-12340	On	_
 66-2	12341-12344	the	_
 66-3	12345-12350	other	_
@@ -2226,6 +2292,7 @@
 66-11	12381-12382	’	_
 66-12	12383-12384	.	_
 
+Text=Subjects were asked to press the button (1–4) that corresponded to the response option displayed (for example, a response of 1 if ‘ sure correct ’ appeared).
 67-1	12385-12393	Subjects	_
 67-2	12394-12398	were	_
 67-3	12399-12404	asked	_
@@ -2260,6 +2327,7 @@
 67-32	12545-12546	)	_
 67-33	12547-12548	.	_
 
+Text=In the 40 correct trials, items were shown paired as they had been at encoding.
 68-1	12549-12551	In	_
 68-2	12552-12555	the	_
 68-3	12556-12558	40	_
@@ -2278,6 +2346,7 @@
 68-16	12620-12628	encoding	_
 68-17	12629-12630	.	_
 
+Text=During the 40 incorrect trials items were shown paired differently than they were at encoding; some individual objects had been displayed as part of pairs during encoding, but at retrieval were paired with different objects.
 69-1	12631-12637	During	_
 69-2	12638-12641	the	_
 69-3	12642-12644	40	_
@@ -2317,6 +2386,7 @@
 69-37	12849-12856	objects	_
 69-38	12857-12858	.	_
 
+Text=The retrieval scan consisted of 268 TRs, of which 156 (58.2%) were active task, and was 8.93 min long.
 70-1	12859-12862	The	_
 70-2	12863-12872	retrieval	_
 70-3	12873-12877	scan	_
@@ -2343,6 +2413,7 @@
 70-24	12961-12965	long	_
 70-25	12966-12967	.	_
 
+Text=Spatial working memory task During the spatial delayed response task (or, spatial capacity task—SCAP), subjects were shown a target array of 1, 3, 5 or 7 yellow circles positioned pseudorandomly around a central fixation cross.
 71-1	12968-12975	Spatial	http://maven.renci.org/NeuroBridge/neurobridge#SpatialWorkingMemory
 71-2	12976-12983	working	http://maven.renci.org/NeuroBridge/neurobridge#SpatialWorkingMemory
 71-3	12984-12990	memory	http://maven.renci.org/NeuroBridge/neurobridge#SpatialWorkingMemory
@@ -2386,6 +2457,7 @@
 71-41	13195-13200	cross	_
 71-42	13201-13202	.	_
 
+Text=After a delay, subjects were shown a single green circle and were required to indicate whether that circle was in the same position as one of the target circles had been.
 72-1	13203-13208	After	_
 72-2	13209-13210	a	_
 72-3	13211-13216	delay	_
@@ -2420,6 +2492,7 @@
 72-32	13369-13373	been	_
 72-33	13374-13375	.	_
 
+Text=A relatively long stimulus presentation time of two seconds was used to allow subjects to fully encode the target array, minimizing a potential encoding bias on the basis of set size interaction.
 73-1	13376-13377	A	_
 73-2	13378-13388	relatively	_
 73-3	13389-13393	long	_
@@ -2455,6 +2528,7 @@
 73-33	13560-13571	interaction	_
 73-34	13572-13573	.	_
 
+Text=Likewise, decision or selection requirements were kept constant across set sizes to reduce possible effects of set size on response processes.
 74-1	13574-13582	Likewise	_
 74-2	13583-13584	,	_
 74-3	13585-13593	decision	_
@@ -2479,6 +2553,7 @@
 74-22	13707-13716	processes	_
 74-23	13717-13718	.	_
 
+Text=In addition to load, delay period was manipulated, with delays of 1.5, 3 or 4.5 s. Trial events included a 2-sec target-array presentation, a 1.5, 3 or 4.5 s delay period, and a 3-sec fixed response interval.
 75-1	13719-13721	In	_
 75-2	13722-13730	addition	_
 75-3	13731-13733	to	_
@@ -2524,6 +2599,7 @@
 75-43	13924-13932	interval	_
 75-44	13933-13934	.	_
 
+Text=A central fixation was visible throughout each of the 48 trials (12 per memory set size, with 4 at each delay length for each memory set).
 76-1	13935-13936	A	_
 76-2	13937-13944	central	_
 76-3	13945-13953	fixation	_
@@ -2555,6 +2631,7 @@
 76-29	14074-14075	)	_
 76-30	14076-14077	.	_
 
+Text=Half the trials were true-positive, and half were true-negative.
 77-1	14078-14082	Half	_
 77-2	14083-14086	the	_
 77-3	14087-14093	trials	_
@@ -2567,6 +2644,7 @@
 77-10	14129-14142	true-negative	_
 77-11	14143-14144	.	_
 
+Text=Before starting the in-scanner task, subjects underwent a supervised instruction and training period outside of the scanner, and once in the scanner were again reminded of the instructions.
 78-1	14145-14151	Before	_
 78-2	14152-14160	starting	_
 78-3	14161-14164	the	_
@@ -2599,6 +2677,7 @@
 78-30	14323-14335	instructions	_
 78-31	14336-14337	.	_
 
+Text=Stop signal task In this task, participants were instructed to respond quickly when a ‘ go ’ stimulus was presented on the computer screen, except on the subset of trials where the ‘ go ’ stimulus was paired with a ‘ stop ’ signal.
 79-1	14338-14342	Stop	_
 79-2	14343-14349	signal	_
 79-3	14350-14354	task	_
@@ -2647,6 +2726,7 @@
 79-46	14564-14570	signal	_
 79-47	14571-14572	.	_
 
+Text=Specifically, participants were shown a series of go stimuli (left- and right-wards pointing arrows), to which participants were told to respond with left and right button presses, respectively (Go trials).
 80-1	14573-14585	Specifically	_
 80-2	14586-14587	,	_
 80-3	14588-14600	participants	_
@@ -2686,6 +2766,7 @@
 80-37	14784-14785	)	_
 80-38	14786-14787	.	_
 
+Text=On a subset of trials (25%), a stop-signal (a 500 Hz tone presented through headphones) was presented a short delay after the go stimulus appeared and lasted for 250 ms (Stop trials).
 81-1	14788-14790	On	_
 81-2	14791-14792	a	_
 81-3	14793-14799	subset	_
@@ -2728,6 +2809,7 @@
 81-40	14977-14978	)	_
 81-41	14979-14980	.	_
 
+Text=Participants were instructed to respond as quickly and accurately as possible on all trials, but to withhold their response on Stop trials (on trials with the tone).
 82-1	14981-14993	Participants	_
 82-2	14994-14998	were	_
 82-3	14999-15009	instructed	_
@@ -2760,6 +2842,7 @@
 82-30	15147-15148	)	_
 82-31	15149-15150	.	_
 
+Text=They also were instructed that stopping and going were equally important.
 83-1	15151-15155	They	_
 83-2	15156-15160	also	_
 83-3	15161-15165	were	_
@@ -2773,6 +2856,7 @@
 83-11	15214-15223	important	_
 83-12	15224-15225	.	_
 
+Text=On Stop trials, the delay of the onset of the stop-signal, or stop-signal delay (SSD), was varied, such that it was increased after the participant successfully inhibited in response to a stop-signal (making the next stop trial more difficult), and decreased after the participant failed to inhibit in response to a stop-signal (making the next stop trial less difficult).
 84-1	15226-15228	On	_
 84-2	15229-15233	Stop	_
 84-3	15234-15240	trials	_
@@ -2845,6 +2929,7 @@
 84-70	15607-15608	)	_
 84-71	15609-15610	.	_
 
+Text=Each SSD increase or decrease was in 50-ms intervals.
 85-1	15611-15615	Each	_
 85-2	15616-15619	SSD	_
 85-3	15620-15628	increase	_
@@ -2856,6 +2941,7 @@
 85-9	15654-15663	intervals	_
 85-10	15664-15665	.	_
 
+Text=The SSD values were drawn from two interleaved staircases per block, resulting in 16 trials from each staircase for a total of 32 Stop trials per block.
 86-1	15666-15669	The	_
 86-2	15670-15673	SSD	_
 86-3	15674-15680	values	_
@@ -2886,6 +2972,7 @@
 86-28	15813-15818	block	_
 86-29	15819-15820	.	_
 
+Text=On the testing day, participants completed two experimental runs (one run outside of the scanner and one while inside of the scanner).
 87-1	15821-15823	On	_
 87-2	15824-15827	the	_
 87-3	15828-15835	testing	_
@@ -2913,6 +3000,7 @@
 87-25	15956-15957	)	_
 87-26	15958-15959	.	_
 
+Text=In the first task run completed outside of the scanner, SSD values started at 250 and 350 ms for staircase 1 and 2, respectively.
 88-1	15960-15962	In	_
 88-2	15963-15966	the	_
 88-3	15967-15972	first	_
@@ -2941,6 +3029,7 @@
 88-26	16078-16090	respectively	_
 88-27	16091-16092	.	_
 
+Text=At the end of the behavioral run, the last SSD time from each staircase was then carried over to be the initial SSD for the scan run.
 89-1	16093-16095	At	_
 89-2	16096-16099	the	_
 89-3	16100-16103	end	_
@@ -2971,6 +3060,7 @@
 89-28	16223-16226	run	_
 89-29	16227-16228	.	_
 
+Text=This one-up/one-down tracking procedure ensured that subjects successfully inhibited on approximately 50% of inhibition trials.
 90-1	16229-16233	This	_
 90-2	16234-16249	one-up/one-down	_
 90-3	16250-16258	tracking	_
@@ -2989,6 +3079,7 @@
 90-16	16350-16356	trials	_
 90-17	16357-16358	.	_
 
+Text=Also as a result, difficulty level is individualized across subjects and both behavioral performance and numbers of successful stop trials are equated across subjects.
 91-1	16359-16363	Also	_
 91-2	16364-16366	as	_
 91-3	16367-16368	a	_
@@ -3016,6 +3107,7 @@
 91-25	16518-16526	subjects	_
 91-26	16527-16528	.	_
 
+Text=Each experiment run contained 128 trials, 96 of which were Go trials and 32 of which were Stop trials, each presented randomly.
 92-1	16529-16533	Each	_
 92-2	16534-16544	experiment	_
 92-3	16545-16548	run	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -3042,6 +3134,7 @@
 92-24	16649-16657	randomly	_
 92-25	16658-16659	.	_
 
+Text=All trials were preceded by a 500 ms fixation cross in the center of the screen, then each trial began with the appearance of an arrow and ended after 1000 ms, followed by the null period.
 93-1	16660-16663	All	_
 93-2	16664-16670	trials	_
 93-3	16671-16675	were	_
@@ -3082,6 +3175,7 @@
 93-38	16843-16849	period	_
 93-39	16850-16851	.	_
 
+Text=Jittered null events separated every trial (with a blank screen), with the duration of null events sampled from an exponential distribution (null events ranged from 0.5 to 4 s, with a mean of 1 s).
 94-1	16852-16860	Jittered	_
 94-2	16861-16865	null	_
 94-3	16866-16872	events	_
@@ -3125,6 +3219,7 @@
 94-41	17053-17054	)	_
 94-42	17055-17056	.	_
 
+Text=Task-switching task In this task, participants were presented with a series of one of four possible stimuli and asked to respond to the stimulus based on the task cue presented prior to, and above, the image.
 95-1	17057-17071	Task-switching	_
 95-2	17072-17076	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 95-3	17077-17079	In	_
@@ -3166,6 +3261,7 @@
 95-39	17262-17267	image	_
 95-40	17268-17269	.	_
 
+Text=The four stimuli included a red triangle, red circle, green triangle, and green circle.
 96-1	17270-17273	The	_
 96-2	17274-17278	four	_
 96-3	17279-17286	stimuli	_
@@ -3185,6 +3281,7 @@
 96-17	17353-17359	circle	_
 96-18	17360-17361	.	_
 
+Text=Participants switched between responding to the image ’ s color (i.e., red or green) or the shape (i.e., triangle or circle).
 97-1	17362-17374	Participants	_
 97-2	17375-17383	switched	_
 97-3	17384-17391	between	_
@@ -3214,6 +3311,7 @@
 97-27	17491-17492	)	_
 97-28	17493-17494	.	_
 
+Text=Cues presented included either ‘ SHAPE ’ or ‘ S ’ on trials where participants were expected to respond to the shape of the stimulus; cues presented included either ‘ COLOR ’ or ‘ C ’ on trials where participants were expected to respond to the color of the stimulus.
 98-1	17495-17499	Cues	_
 98-2	17500-17509	presented	_
 98-3	17510-17518	included	_
@@ -3267,6 +3365,7 @@
 98-51	17754-17762	stimulus	_
 98-52	17763-17764	.	_
 
+Text=On 33% of trials the instructions switched, such that participants were instructed to switch from responding from shape to color, or vice versa.
 99-1	17765-17767	On	_
 99-2	17768-17770	33	_
 99-3	17771-17772	%	_
@@ -3295,6 +3394,7 @@
 99-26	17906-17911	versa	_
 99-27	17912-17913	.	_
 
+Text=On 67% of trials, the instructions remained the same but the cues changed.
 100-1	17914-17916	On	_
 100-2	17917-17919	67	_
 100-3	17920-17921	%	_
@@ -3312,6 +3412,7 @@
 100-15	17982-17989	changed	_
 100-16	17990-17991	.	_
 
+Text=This task is designed to measure the changes in reaction time between trials requiring versus not requiring a switch in responding.
 101-1	17992-17996	This	_
 101-2	17997-18001	task	_
 101-3	18002-18004	is	_
@@ -3335,6 +3436,7 @@
 101-21	18112-18122	responding	_
 101-22	18123-18124	.	_
 
+Text=Participants completed a total of 96 trials, for a total run time of 6 min 52 s. Breath holding task In this task, participants were asked to alternate between holding their breath and breathing regularly while resting.
 102-1	18125-18137	Participants	_
 102-2	18138-18147	completed	_
 102-3	18148-18149	a	_
@@ -3376,6 +3478,7 @@
 102-39	18338-18345	resting	_
 102-40	18346-18347	.	_
 
+Text=Participants were presented with bars on the screen in order to pace breath holding.
 103-1	18348-18360	Participants	_
 103-2	18361-18365	were	_
 103-3	18366-18375	presented	_
@@ -3392,6 +3495,7 @@
 103-14	18424-18431	holding	_
 103-15	18432-18433	.	_
 
+Text=When the bar was green (lasting 13.5 s), they were asked to breathe regularly; when the bar was yellow (lasting 3 s), they were asked to prepare to hold their breath; and when the bar was red, they were asked to hold their breath for 13.5 s. This cycle was repeated five times, for a total run time of 2 min and 46 s. Participants performed the BHT in the scanner while wearing a respiratory belt in order to measure breathing.
 104-1	18434-18438	When	_
 104-2	18439-18442	the	_
 104-3	18443-18446	bar	_
@@ -3485,6 +3589,7 @@
 104-91	18861-18870	breathing	_
 104-92	18871-18872	.	_
 
+Text=The purpose of this task was to assess the contribution of respiratory rhythms to changes in the BOLD signal.
 105-1	18873-18876	The	_
 105-2	18877-18884	purpose	_
 105-3	18885-18887	of	_
@@ -3506,6 +3611,7 @@
 105-19	18975-18981	signal	_
 105-20	18982-18983	.	_
 
+Text=Physiological recording During the breath holding and resting fMRI scans, physiological data were collected using a BIOPAC MP150 with Pulse Oximeter and Respiration modules.
 106-1	18984-18997	Physiological	_
 106-2	18998-19007	recording	_
 106-3	19008-19014	During	_
@@ -3533,6 +3639,7 @@
 106-25	19150-19157	modules	_
 106-26	19158-19159	.	_
 
+Text=Data were sampled at 1000 Hz and recorded using BIOPAC Acknowledge software.
 107-1	19160-19164	Data	_
 107-2	19165-19169	were	_
 107-3	19170-19177	sampled	_
@@ -3547,6 +3654,7 @@
 107-12	19227-19235	software	_
 107-13	19236-19237	.	_
 
+Text=Data Records The data set is hosted on OpenfMRI under the accession number ds000030 (Data Citation 1).
 108-1	19238-19242	Data	_
 108-2	19243-19250	Records	_
 108-3	19251-19254	The	_
@@ -3568,6 +3676,7 @@
 108-19	19340-19341	)	_
 108-20	19342-19343	.	_
 
+Text=The files are organized in the Brain Imaging Data Structure (BIDS) version 1.0.0rc3 format, and provided in multiple gzip-compressed tar archives.
 109-1	19344-19347	The	_
 109-2	19348-19353	files	_
 109-3	19354-19357	are	_
@@ -3594,6 +3703,7 @@
 109-24	19484-19492	archives	_
 109-25	19493-19494	.	_
 
+Text=BIDS provides a consistent naming convention and folder structure that is amenable to automated processing.
 110-1	19495-19499	BIDS	_
 110-2	19500-19508	provides	_
 110-3	19509-19510	a	_
@@ -3611,6 +3721,7 @@
 110-15	19591-19601	processing	_
 110-16	19602-19603	.	_
 
+Text=At the top-level, machine-readable text files in javascript object notation (JSON) are provided describing each fMRI task.
 111-1	19604-19606	At	_
 111-2	19607-19610	the	_
 111-3	19611-19620	top-level	_
@@ -3633,6 +3744,7 @@
 111-20	19724-19728	task	_
 111-21	19729-19730	.	_
 
+Text=A demographics file (participants.tsv; tab-delimited format) contains the unique participant number, age group, diagnosis, and an indication of which scan data are present for each subject.
 112-1	19731-19732	A	_
 112-2	19733-19745	demographics	_
 112-3	19746-19750	file	_
@@ -3667,6 +3779,7 @@
 112-32	19918-19925	subject	_
 112-33	19926-19927	.	_
 
+Text=func: BOLD contrast fMRI image data (both task-based and resting state), fMRI task event files, physiological monitoring logs; anat: high resolution T1-weighted image data used for structural analysis, cortical parcellation, and co-registration to standard templates; dwi: Diffusion-weighted image data used for experimental white matter characterization methods such as Diffusion Tensor Imaging; beh: Stop Signal task training run collected outside of the MRI scanner.
 113-1	19928-19932	func	_
 113-2	19933-19934	:	_
 113-3	19935-19939	BOLD	_
@@ -3745,6 +3858,7 @@
 113-76	20402-20409	scanner	_
 113-77	20410-20411	.	_
 
+Text=The neuroimaging data collected for each participant are organized in a sub- <subject_id> data folder.
 114-1	20412-20415	The	_
 114-2	20416-20428	neuroimaging	_
 114-3	20429-20433	data	_
@@ -3764,6 +3878,7 @@
 114-17	20509-20515	folder	_
 114-18	20516-20517	.	_
 
+Text=Each of these folders contain the following data files that collectively represent a participant ’ s study visit: bart: Balloon analog risk task stopsignal: Stop signal task pamenc: Paired memory encoding task pamret: Paired memory retrieval task scap: Spatial working memory task taskswitch: Task switching task bht: Breath-holding task rest: Resting state (eyes open) The label <taskname> refers to data from one of the tasks performed during the visit: An additional directory named ‘ phenotype ’ contains additional phenotypic information (such as neuropsychological testing results); for each measurement, there is a tab-delimited text file along with a JSON file containing the data dictionary and measurement-level metadata.
 115-1	20518-20522	Each	_
 115-2	20523-20525	of	_
 115-3	20526-20531	these	_
@@ -3890,6 +4005,7 @@
 115-124	21258-21266	metadata	_
 115-125	21267-21268	.	_
 
+Text=Technical Validation Imaging files were converted from primary DICOM data to Neuroimaging Informatics Technology Initiative (NIfTI) version 1.1 format using the dcm2niix (https: //github.com/neurolabusc/dcm2niix) program.
 116-1	21269-21278	Technical	_
 116-2	21279-21289	Validation	_
 116-3	21290-21297	Imaging	_
@@ -3922,6 +4038,7 @@
 116-30	21487-21494	program	_
 116-31	21495-21496	.	_
 
+Text=dcm2niix extracts the image pixel data and pertinent metadata parameters from the DICOM files to populate the NIfTI file header.
 117-1	21497-21505	dcm2niix	_
 117-2	21506-21514	extracts	_
 117-3	21515-21518	the	_
@@ -3944,6 +4061,7 @@
 117-20	21618-21624	header	_
 117-21	21625-21626	.	_
 
+Text=For diffusion weighted images, dcm2niix also extracts the diffusion gradient strengths and orientations to separate files.
 118-1	21627-21630	For	_
 118-2	21631-21640	diffusion	_
 118-3	21641-21649	weighted	_
@@ -3963,6 +4081,7 @@
 118-17	21744-21749	files	_
 118-18	21750-21751	.	_
 
+Text=The dcm2niix program output was saved for each conversion and inspected for errors.
 119-1	21752-21755	The	_
 119-2	21756-21764	dcm2niix	_
 119-3	21765-21772	program	_
@@ -3978,6 +4097,7 @@
 119-13	21828-21834	errors	_
 119-14	21835-21836	.	_
 
+Text=Additional metadata were extracted from the DICOM files using the gdcm library (http: //gdcm.sourceforge.net/wiki/index.php/Main_Page) and converted to javascript object notation (JSON) format to accompany the respective image files.
 120-1	21837-21847	Additional	_
 120-2	21848-21856	metadata	_
 120-3	21857-21861	were	_
@@ -4013,6 +4133,7 @@
 120-33	22069-22074	files	_
 120-34	22075-22076	.	_
 
+Text=All relevant metadata were combined and plotted over the timeframe of the study to reveal instances where individual scans were performed with MRI parameter settings that deviated from the standard protocol and to highlight scans with non-standard dimensions.
 121-1	22077-22080	All	_
 121-2	22081-22089	relevant	_
 121-3	22090-22098	metadata	_
@@ -4053,6 +4174,7 @@
 121-38	22325-22335	dimensions	_
 121-39	22336-22337	.	_
 
+Text=There were very few deviations, and most were minor in nature that did not warrant data exclusion; however the table of parameters and plots are included with the data set as reference material.
 122-1	22338-22343	There	_
 122-2	22344-22348	were	_
 122-3	22349-22353	very	_
@@ -4090,6 +4212,7 @@
 122-35	22525-22533	material	_
 122-36	22534-22535	.	_
 
+Text=After processing the source data, BOLD contrast (fMRI) and T1-weighted anatomical imaging data were processed by the MRI Quality Control protocol (MRIQC https: //github.com/poldracklab/mriqc).
 123-1	22536-22541	After	_
 123-2	22542-22552	processing	_
 123-3	22553-22556	the	_
@@ -4122,6 +4245,7 @@
 123-30	22732-22733	)	_
 123-31	22734-22735	.	_
 
+Text=MRIQC computes several quality control metrics available in the published literature.
 124-1	22736-22741	MRIQC	_
 124-2	22742-22750	computes	_
 124-3	22751-22758	several	_
@@ -4135,6 +4259,7 @@
 124-11	22810-22820	literature	_
 124-12	22821-22822	.	_
 
+Text=Anatomical T1w scans All T1-weighted images were skull-stripped [AFNI 3dSkullStrip], corrected for intensity inhomogeneity due to B1 variations [ANTS N4], and normalized to MNI-152 2 mm template space [ANTS].
 125-1	22823-22833	Anatomical	_
 125-2	22834-22837	T1w	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 125-3	22838-22843	scans	_
@@ -4174,6 +4299,7 @@
 125-37	23037-23038	]	_
 125-38	23039-23040	.	_
 
+Text=The background, gray matter, white matter, and cerebrospinal fluid were segmented [FSL 5.0.8/FAST], and the resulting segmentations were used to compute the a set of quality control measures (See Table 4).
 126-1	23041-23044	The	_
 126-2	23045-23055	background	_
 126-3	23056-23057	,	_
@@ -4215,6 +4341,7 @@
 126-39	23252-23253	)	_
 126-40	23254-23255	.	_
 
+Text=In addition to the quality metrics listed above, summary information about the mean and standard deviation of background, foreground, gray matter, white matter, CSF, and average inhomogeneity bias are provided for comparison across the subject population (see Fig.
 127-1	23256-23258	In	_
 127-2	23259-23267	addition	_
 127-3	23268-23270	to	_
@@ -4262,10 +4389,12 @@
 127-45	23523-23526	Fig	_
 127-46	23527-23528	.	_
 
+Text=1).
 128-1	23529-23530	1	_
 128-2	23531-23532	)	_
 128-3	23533-23534	.	_
 
+Text=After the MRIQC was completed, each high-resolution T1-weighted anatomical scan was scrubbed of facial features using the mri_deface program.
 129-1	23535-23540	After	_
 129-2	23541-23544	the	_
 129-3	23545-23550	MRIQC	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -4288,6 +4417,7 @@
 129-20	23669-23676	program	_
 129-21	23677-23678	.	_
 
+Text=Visual inspection of all outputs was performed to ensure that the facial features were properly removed to preserve subject privacy.
 130-1	23679-23685	Visual	_
 130-2	23686-23696	inspection	_
 130-3	23697-23699	of	_
@@ -4310,6 +4440,7 @@
 130-20	23803-23810	privacy	_
 130-21	23811-23812	.	_
 
+Text=BOLD/T2 * -weighted functional scans Each BOLD-contrast fMRI scan was corrected for head motion during the acquisition using AFNI, and a brain mask was computed to separate the brain from the skull and outside air.
 131-1	23813-23820	BOLD/T2	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalCapacityRatingScale
 131-2	23821-23822	*	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalCapacityRatingScale
 131-3	23823-23832	-weighted	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalCapacityRatingScale
@@ -4348,6 +4479,7 @@
 131-36	24024-24027	air	_
 131-37	24028-24029	.	_
 
+Text=Table 5 lists the QC metrics that were were computed from these images, and Fig.
 132-1	24030-24035	Table	_
 132-2	24036-24037	5	_
 132-3	24038-24043	lists	_
@@ -4366,6 +4498,7 @@
 132-16	24107-24110	Fig	_
 132-17	24111-24112	.	_
 
+Text=2 shows the distribution of these measures.
 133-1	24113-24114	2	_
 133-2	24115-24120	shows	_
 133-3	24121-24124	the	_
@@ -4375,6 +4508,7 @@
 133-7	24147-24155	measures	_
 133-8	24156-24157	.	_
 
+Text=fMRI task event and physiological monitoring data fMRI task and event onsets were extracted from the raw matlab log files using R-matlab and are provided as tabular text files.
 134-1	24158-24162	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImagingProtocol
 134-2	24163-24167	task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImagingProtocol
 134-3	24168-24173	event	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImagingProtocol
@@ -4406,6 +4540,7 @@
 134-29	24328-24333	files	_
 134-30	24334-24335	.	_
 
+Text=These event files contain the onset, duration, type of trial, reaction time, and task-specific details.
 135-1	24336-24341	These	_
 135-2	24342-24347	event	_
 135-3	24348-24353	files	_
@@ -4427,6 +4562,7 @@
 135-19	24435-24442	details	_
 135-20	24443-24444	.	_
 
+Text=The onset time entries in each event file were corrected for the scanner trigger delay to account for extra T1 saturation equalization pre-scans performed by the scanner.
 136-1	24445-24448	The	_
 136-2	24449-24454	onset	_
 136-3	24455-24459	time	_
@@ -4456,6 +4592,7 @@
 136-27	24607-24614	scanner	_
 136-28	24615-24616	.	_
 
+Text=In some cases the trigger delay was not explicitly available from the source data.
 137-1	24617-24619	In	_
 137-2	24620-24624	some	_
 137-3	24625-24630	cases	_
@@ -4472,6 +4609,7 @@
 137-14	24694-24698	data	_
 137-15	24699-24700	.	_
 
+Text=Plots of all event files are provided with the data set for reference.
 138-1	24701-24706	Plots	_
 138-2	24707-24709	of	_
 138-3	24710-24713	all	_
@@ -4487,6 +4625,7 @@
 138-13	24761-24770	reference	_
 138-14	24771-24772	.	_
 
+Text=Similarly, physiological recordings collected during resting state and breath-holding fMRI scans were converted from raw data (Acknowledge format, BioPac) using the Bioread python package (https: //github.com/njvack/bioread).
 139-1	24773-24782	Similarly	_
 139-2	24783-24784	,	_
 139-3	24785-24798	physiological	_
@@ -4522,6 +4661,7 @@
 139-33	25003-25004	)	_
 139-34	25005-25006	.	_
 
+Text=The individual recording traces were saved as gzip-compressed tab-separated value files, and the raw data header information (Channel Name, Units, Sampling Rate) was extracted to accompanying JSON files.
 140-1	25007-25010	The	_
 140-2	25011-25021	individual	_
 140-3	25022-25031	recording	_
@@ -4557,6 +4697,7 @@
 140-33	25209-25214	files	_
 140-34	25215-25216	.	_
 
+Text=Plots of physiological traces are provided overlaid with breath-hold instruction timings (ready, hold, rest) for reference.
 141-1	25217-25222	Plots	_
 141-2	25223-25225	of	_
 141-3	25226-25239	physiological	_
@@ -4579,6 +4720,7 @@
 141-20	25334-25343	reference	_
 141-21	25344-25345	.	_
 
+Text=Diffusion-weighted imaging The diffusion-weighted data were corrected for eddy currents and head motion using the B0 image as the reference, and the motion parameters were saved for later analysis.
 142-1	25346-25364	Diffusion-weighted	_
 142-2	25365-25372	imaging	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 142-3	25373-25376	The	_
@@ -4611,6 +4753,7 @@
 142-30	25535-25543	analysis	_
 142-31	25544-25545	.	_
 
+Text=The corrected volumes were then skull-stripped to remove the background and other non-brain scan regions.
 143-1	25546-25549	The	_
 143-2	25550-25559	corrected	_
 143-3	25560-25567	volumes	_
@@ -4628,6 +4771,7 @@
 143-15	25643-25650	regions	_
 143-16	25651-25652	.	_
 
+Text=Diffusion tensor estimation was performed for each subject, and the mean fractional anisotropy (FA) and average diffusivity (AD) were computed for all brain voxels.
 144-1	25653-25662	Diffusion	_
 144-2	25663-25669	tensor	_
 144-3	25670-25680	estimation	_
@@ -4659,6 +4803,7 @@
 144-29	25815-25821	voxels	_
 144-30	25822-25823	.	_
 
+Text=Quality assurance was performed using a semi-automated method, including the following steps: confirmed that the b-values and applied directions were the same as expected, calculated mean in-mask FA and average or mean diffusivity (AD, MD), calculated and plotted motion, created a standard deviation image based on regular and motion corrected files, and used regional maps to calculate the percentage of cropped voxels in the occipital lobe, frontal lobe, temporal lobes, cerebellum, and the most superior portion of the brain.
 145-1	25824-25831	Quality	_
 145-2	25832-25841	assurance	_
 145-3	25842-25845	was	_
@@ -4753,6 +4898,7 @@
 145-92	26360-26365	brain	_
 145-93	26366-26367	.	_
 
+Text=Trained individuals then used the results of this script to evaluate scan quality.
 146-1	26368-26375	Trained	_
 146-2	26376-26387	individuals	_
 146-3	26388-26392	then	_
@@ -4768,6 +4914,7 @@
 146-13	26442-26449	quality	_
 146-14	26450-26451	.	_
 
+Text=This included a visual inspection of the FA map, visual inspection of the color map to ensure tracts were coded correctly, a check for cropping in which if more than 10 percent of voxels in a region were cropped, the map was visually inspected to ensure that the cropped region did not encroach on a major tract (i.e., regions that would be included in the FSL DTI skeleton), and the raw data were watched as a movie.
 147-1	26452-26456	This	_
 147-2	26457-26465	included	_
 147-3	26466-26467	a	_
@@ -4854,6 +5001,7 @@
 147-84	26870-26875	movie	_
 147-85	26876-26877	.	_
 
+Text=Data were flagged for coverage (0=no cropping, 1=minor cropping, 2=severe unuseable cropping), motion (based on watching raw data as movie, and on motion plots), tensor direction flags (based on b-value and direction calculations, and on observation of the color map), artifact flags (including noise, striping, and the vibration artifact that affected many Siemens Trio systems during this time period).
 148-1	26878-26882	Data	_
 148-2	26883-26887	were	_
 148-3	26888-26895	flagged	_
@@ -4932,6 +5080,7 @@
 148-76	27297-27298	)	_
 148-77	27299-27300	.	_
 
+Text=An overall quality score from 1–4 was generated from these measures, in which 1=excellent, 2=good, 3=fair (both 2 and 3 may be useable, but depending on analysis may want to consider the reason for the decreased score), and 4=unuseable (all individuals with vibration artifacts are in this category, along with other irreconcilable problems), 5=not evaluated; the distribution of these ratings is shown in Fig.
 149-1	27301-27303	An	_
 149-2	27304-27311	overall	_
 149-3	27312-27319	quality	_
@@ -5010,9 +5159,11 @@
 149-76	27719-27722	Fig	_
 149-77	27723-27724	.	_
 
+Text=3.
 150-1	27725-27726	3	_
 150-2	27727-27728	.	_
 
+Text=Ratings are included with the data download.
 151-1	27729-27736	Ratings	_
 151-2	27737-27740	are	_
 151-3	27741-27749	included	_
@@ -5022,6 +5173,7 @@
 151-7	27764-27772	download	_
 151-8	27773-27774	.	_
 
+Text=Usage Notes All data are made available under the Public Domain Dedication and License v1.0 (http: //www.opendatacommons.org/licenses/pddl/1.0/), which places no restrictions on the usage of the data.
 152-1	27775-27780	Usage	_
 152-2	27781-27786	Notes	_
 152-3	27787-27790	All	_
@@ -5055,6 +5207,7 @@
 152-31	27974-27978	data	_
 152-32	27979-27980	.	_
 
+Text=We expect that users of the data will follow the ODC Attribution-Sharealike Community Norms (http: //opendatacommons.org/norms/odc-by-sa/), which state that any derivative works should be shared via an equally open license, and that the creators of this dataset should be credited by citation of the present data descriptor.
 153-1	27981-27983	We	_
 153-2	27984-27990	expect	_
 153-3	27991-27995	that	_
@@ -5109,6 +5262,7 @@
 153-52	28299-28309	descriptor	_
 153-53	28310-28311	.	_
 
+Text=We ask that users with questions please use the NeuroStars Forum (https: //neurostars.org) and attach the tags ‘ openfmri ’ and ‘ ds000030 ’ in order to discuss and comment on this dataset.
 154-1	28312-28314	We	_
 154-2	28315-28318	ask	_
 154-3	28319-28323	that	_
@@ -5147,6 +5301,7 @@
 154-36	28496-28503	dataset	_
 154-37	28504-28505	.	_
 
+Text=Additional Information How to cite this article: Poldrack, R. A. et al.
 155-1	28506-28516	Additional	_
 155-2	28517-28528	Information	_
 155-3	28529-28532	How	_
@@ -5163,6 +5318,7 @@
 155-14	28576-28578	al	_
 155-15	28579-28580	.	_
 
+Text=A phenome-wide examination of neural and cognitive function.
 156-1	28581-28582	A	_
 156-2	28583-28595	phenome-wide	_
 156-3	28596-28607	examination	_
@@ -5173,9 +5329,11 @@
 156-8	28632-28640	function	_
 156-9	28641-28642	.	_
 
+Text=Sci.
 157-1	28643-28646	Sci	_
 157-2	28647-28648	.	_
 
+Text=Data 3:160110 doi: 10.1038/sdata.2016.110 (2016).
 158-1	28649-28653	Data	_
 158-2	28654-28662	3:160110	_
 158-3	28663-28666	doi	_
@@ -5186,6 +5344,7 @@
 158-8	28699-28700	)	_
 158-9	28701-28702	.	_
 
+Text=Publisher ’ s note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
 159-1	28703-28712	Publisher	_
 159-2	28713-28714	’	_
 159-3	28715-28716	s	_

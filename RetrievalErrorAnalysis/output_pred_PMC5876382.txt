@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Multilocus genetic profile in dopaminergic pathway modulates the striatum and working memory Dopamine is critical in pathophysiology and therapy of schizophrenia.
 1-1	0-10	Multilocus	_
 1-2	11-18	genetic	_
 1-3	19-26	profile	_
@@ -25,6 +26,7 @@
 1-21	148-161	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 1-22	162-163	.	_
 
+Text=Many studies have reported altered dopaminergic activity in the dorsal but not ventral striatum in schizophrenia.
 2-1	164-168	Many	_
 2-2	169-176	studies	_
 2-3	177-181	have	_
@@ -43,6 +45,7 @@
 2-16	263-276	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-17	277-278	.	_
 
+Text=Based on the largest genome-wide association study of schizophrenia to date, we calculated the polygenic risk score (PGRS) of each subject in a healthy general group, including all variations in the set of functionally related genes involved in dopamine neurotransmitter system.
 3-1	279-284	Based	_
 3-2	285-287	on	_
 3-3	288-291	the	_
@@ -90,6 +93,7 @@
 3-45	554-560	system	_
 3-46	561-562	.	_
 
+Text=We aimed to test whether the genetic variations in the dopaminergic pathway that have been identified as associated with schizophrenia are related to the function of the striatum and to working memory.
 4-1	563-565	We	_
 4-2	566-571	aimed	_
 4-3	572-574	to	_
@@ -124,6 +128,7 @@
 4-32	757-763	memory	_
 4-33	764-765	.	_
 
+Text=We found that a higher PGRS was significantly associated with impairment in working memory.
 5-1	766-768	We	_
 5-2	769-774	found	_
 5-3	775-779	that	_
@@ -140,6 +145,7 @@
 5-14	850-856	memory	_
 5-15	857-858	.	_
 
+Text=Moreover, resting-state functional connectivity analysis revealed that as the polygenic risk score increased, the connections between left putamen and caudate and the default mode network grew stronger, while the connections with the fronto-parietal network grew weaker.
 6-1	859-867	Moreover	_
 6-2	868-869	,	_
 6-3	870-883	resting-state	_
@@ -181,6 +187,7 @@
 6-39	1125-1131	weaker	_
 6-40	1132-1133	.	_
 
+Text=Our findings may shed light on the biological mechanism underlying the “ dopamine hypothesis ” of schizophrenia and provide some implications regarding the polygenic effects on the dopaminergic activity in the risk for schizophrenia.
 7-1	1134-1137	Our	_
 7-2	1138-1146	findings	_
 7-3	1147-1150	may	_
@@ -217,6 +224,7 @@
 7-34	1353-1366	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-35	1367-1368	.	_
 
+Text=Materials and Methods Subjects Three hundred twenty-three healthy young Chinese subjects (mean age: 22.7 ± 2.5 years; age range = 18–31 years; 157 males) were recruited.
 8-1	1369-1378	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 8-2	1379-1382	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 8-3	1383-1390	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -250,6 +258,7 @@
 8-31	1533-1542	recruited	_
 8-32	1543-1544	.	_
 
+Text=The exclusion criteria were identical to our previous study that used the same database.
 9-1	1545-1548	The	_
 9-2	1549-1558	exclusion	_
 9-3	1559-1567	criteria	_
@@ -266,6 +275,7 @@
 9-14	1624-1632	database	_
 9-15	1633-1634	.	_
 
+Text=We carefully asked subjects to ensure that had no personal or family history of neurological or psychiatric disease, head injury, psychiatric treatment, drug or alcohol abuse, hypothyroidism or other mental diseases and no contraindications to magnetic resonance imaging (MRI) screening.
 10-1	1635-1637	We	_
 10-2	1638-1647	carefully	_
 10-3	1648-1653	asked	_
@@ -314,6 +324,7 @@
 10-46	1918-1927	screening	_
 10-47	1928-1929	.	_
 
+Text=All of the participants and their first-degree relatives had no history of psychiatric disease.
 11-1	1930-1933	All	_
 11-2	1934-1936	of	_
 11-3	1937-1940	the	_
@@ -330,6 +341,7 @@
 11-14	2017-2024	disease	_
 11-15	2025-2026	.	_
 
+Text=The study was approved by the local Medical Research Ethics Committee of Tianjin Medical University.
 12-1	2027-2030	The	_
 12-2	2031-2036	study	_
 12-3	2037-2040	was	_
@@ -347,6 +359,7 @@
 12-15	2116-2126	University	_
 12-16	2127-2128	.	_
 
+Text=All experimental methods were performed in accordance with the relevant guidelines and regulations, and written informed consents were obtained from each subject.
 13-1	2129-2132	All	_
 13-2	2133-2145	experimental	_
 13-3	2146-2153	methods	_
@@ -372,6 +385,7 @@
 13-23	2284-2291	subject	_
 13-24	2292-2293	.	_
 
+Text=N-back working memory tasks were used to assess working memory before MRI acquisition.
 14-1	2294-2300	N-back	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 14-2	2301-2308	working	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 14-3	2309-2315	memory	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -387,6 +401,7 @@
 14-13	2368-2379	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 14-14	2380-2381	.	_
 
+Text=The letter 2-back and 3-back tasks were described previously.
 15-1	2382-2385	The	_
 15-2	2386-2392	letter	_
 15-3	2393-2399	2-back	_
@@ -398,6 +413,7 @@
 15-9	2432-2442	previously	_
 15-10	2443-2444	.	_
 
+Text=Briefly speaking, a series of letters were sequentially presented on the screen, each subject was asked to view and judge whether the letter of the current screen was identical to the one displayed two trials (2-back) and three trials (3-back) back.
 16-1	2445-2452	Briefly	_
 16-2	2453-2461	speaking	_
 16-3	2462-2463	,	_
@@ -447,6 +463,7 @@
 16-47	2695-2699	back	_
 16-48	2700-2701	.	_
 
+Text=The N-back task contained three blocks (30 trials each block).
 17-1	2702-2705	The	_
 17-2	2706-2712	N-back	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 17-3	2713-2717	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -461,6 +478,7 @@
 17-12	2764-2765	)	_
 17-13	2766-2767	.	_
 
+Text=Before the formal tasks, participants were instructed and took a practice.
 18-1	2768-2774	Before	_
 18-2	2775-2778	the	_
 18-3	2779-2785	formal	_
@@ -475,6 +493,7 @@
 18-12	2834-2842	practice	_
 18-13	2843-2844	.	_
 
+Text=The numbers of correct and false responses were recorded to compute the accuracy as the index of working memory.
 19-1	2845-2848	The	_
 19-2	2849-2856	numbers	_
 19-3	2857-2859	of	_
@@ -496,6 +515,7 @@
 19-19	2950-2956	memory	_
 19-20	2957-2958	.	_
 
+Text=Eight subjects were discarded from further analysis due to missing genotype data (see Table 1 for demographic characteristics).
 20-1	2959-2964	Eight	_
 20-2	2965-2973	subjects	_
 20-3	2974-2978	were	_
@@ -518,6 +538,7 @@
 20-20	3086-3087	)	_
 20-21	3088-3089	.	_
 
+Text=DNA extraction and genotyping DNA was extracted from venous whole blood samples treated with ethylene diamine tetraaceticacid (EDTA) as an anticoagulant by using the EZgene Blood gDNAMiniprep Kit (BioMiga, San Diego, CA).
 21-1	3090-3093	DNA	_
 21-2	3094-3104	extraction	_
 21-3	3105-3108	and	_
@@ -558,6 +579,7 @@
 21-38	3315-3316	)	_
 21-39	3317-3318	.	_
 
+Text=Genotyping used the standard Illumina genotyping protocol (Illumina) on Illumina Human OmniZhongHua-8 Bead Chips.
 22-1	3319-3329	Genotyping	_
 22-2	3330-3334	used	_
 22-3	3335-3338	the	_
@@ -576,6 +598,7 @@
 22-16	3428-3433	Chips	_
 22-17	3434-3435	.	_
 
+Text=The following quality control procedures were carried out using PLINK version 1.07.
 23-1	3436-3439	The	_
 23-2	3440-3449	following	_
 23-3	3450-3457	quality	_
@@ -590,6 +613,7 @@
 23-12	3514-3518	1.07	_
 23-13	3519-3520	.	_
 
+Text=The SNPs were removed where the call rate was <95%, if the minor allele frequency was <1%, or if the χ2 test of Hardy-Weinberg equilibrium was <10−3.
 24-1	3521-3524	The	_
 24-2	3525-3529	SNPs	_
 24-3	3530-3534	were	_
@@ -626,6 +650,7 @@
 24-34	3672-3676	10−3	_
 24-35	3677-3678	.	_
 
+Text=In addition, individuals were removed from the study if their missing genotype rates were> 5%, if the estimate of pairwise identity-by-descent (IBD) was> 0.1875, or if the gender identified by X chromosome markers differed from the patient records.
 25-1	3679-3681	In	_
 25-2	3682-3690	addition	_
 25-3	3691-3692	,	_
@@ -674,6 +699,7 @@
 25-46	3927-3934	records	_
 25-47	3935-3936	.	_
 
+Text=To control for population stratification, we ascertained population structure using principal component analyses (PCA) in EIGENSTRAT software (http: //www.hsph.harvard.edu/alkes-price/files/eigensoftfaq.htm) on autosomal SNPs with the HapMap phase 3 reference data set.
 26-1	3937-3939	To	_
 26-2	3940-3947	control	_
 26-3	3948-3951	for	_
@@ -712,6 +738,7 @@
 26-36	4208-4211	set	_
 26-37	4212-4213	.	_
 
+Text=Prior to the PCA, we removed chromosomal regions of long-range linkage disequilibrium (LD) and retained SNPs that were in low LD with each other.
 27-1	4214-4219	Prior	_
 27-2	4220-4222	to	_
 27-3	4223-4226	the	_
@@ -741,6 +768,7 @@
 27-27	4356-4361	other	_
 27-28	4362-4363	.	_
 
+Text=After extracting 10 principal components, we removed the samples outside 6 standard deviations.
 28-1	4364-4369	After	_
 28-2	4370-4380	extracting	_
 28-3	4381-4383	10	_
@@ -757,6 +785,7 @@
 28-14	4449-4459	deviations	_
 28-15	4460-4461	.	_
 
+Text=The data were then imputed using SHAPEITv2 (https: //mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html) and IMPUTE2 (https: //mathgen.stats.ox.ac.uk/impute/impute_v2.html) with the 1000 Genomes Phase 1 reference dataset.
 29-1	4462-4465	The	_
 29-2	4466-4470	data	_
 29-3	4471-4475	were	_
@@ -786,6 +815,7 @@
 29-27	4692-4699	dataset	_
 29-28	4700-4701	.	_
 
+Text=Further analyses focused on 315 subjects with more than 7 million autosomal SNPs, whose imputation quality scores were greater than 0.8.
 30-1	4702-4709	Further	_
 30-2	4710-4718	analyses	_
 30-3	4719-4726	focused	_
@@ -810,6 +840,7 @@
 30-22	4835-4838	0.8	_
 30-23	4839-4840	.	_
 
+Text=Computation of dopamine genes-related PGRS We used the “ score ” function implemented in PLINK to compute the dopamine genes-related polygenic schizophrenia-risk score.
 31-1	4841-4852	Computation	_
 31-2	4853-4855	of	_
 31-3	4856-4864	dopamine	_
@@ -835,6 +866,7 @@
 31-23	5003-5008	score	_
 31-24	5009-5010	.	_
 
+Text=The PGRS was calculated according to the method developed by Purcell et al .. Our analyses focused on those genes involved in dopamine functioning: (i) synthesis (tyrosine hydroxylase (TH), dopa decarboxylase (DDC), and vesicular monoamine transporter (VMAT)); (ii) uptake and metabolism (dopamine transporter (DAT) and catechol-O-methyl transferase (COMT)); (iii) receptors (D1 and D5 receptors in D1 family, as well as D2, D3 and D4 in D2 family).
 32-1	5011-5014	The	_
 32-2	5015-5019	PGRS	_
 32-3	5020-5023	was	_
@@ -933,6 +965,7 @@
 32-96	5487-5488	)	_
 32-97	5489-5490	.	_
 
+Text=We evaluated all available SNPs both occurring in the area 5000 bp upstream and downstream of each candidate gene and meeting a significance level of p ≤ 0.05 in the multi-stage schizophrenia GWAS study because this was the level that most efficiently discriminated individuals with and without schizophrenia.
 33-1	5491-5493	We	_
 33-2	5494-5503	evaluated	_
 33-3	5504-5507	all	_
@@ -983,6 +1016,7 @@
 33-48	5786-5799	schizophrenia	_
 33-49	5800-5801	.	_
 
+Text=The SNPs were pruned using the “ clump ” utility in PLINK with a cutoff of r2 = 0.50 within a 250 kb window to ensure that the polygenic effects come from independent SNPs in linkage disequilibrium with each other (Supplementary table 1 showed the SNPs and weights used to generate the PGRS).
 34-1	5802-5805	The	_
 34-2	5806-5810	SNPs	_
 34-3	5811-5815	were	_
@@ -1040,6 +1074,7 @@
 34-55	6094-6095	)	_
 34-56	6096-6097	.	_
 
+Text=Image acquisition and processing Images were collected using a single 3T GE scanner (SIGNAHDX3.0 T scanner; GE Healthcare; Milwaukee, WI, USA).
 35-1	6098-6103	Image	_
 35-2	6104-6115	acquisition	_
 35-3	6116-6119	and	_
@@ -1069,6 +1104,7 @@
 35-27	6245-6246	)	_
 35-28	6247-6248	.	_
 
+Text=A single-shot, T2 * -weighted gradient echo, echo-planar-imaging sequence (TR = 2000 ms, TE = 30 ms, no gap, voxel size = 3.75 mm × 3.75 mm × 4.0 mm, FOV = 240 × 240 mm2, matrix = 64 × 64, flip angle = 90°, 40 slices, 180 volumes) was used to obtain resting-state functional magnetic resonance imaging data (fMRI).
 36-1	6249-6250	A	_
 36-2	6251-6262	single-shot	_
 36-3	6263-6264	,	_
@@ -1145,6 +1181,7 @@
 36-74	6575-6576	)	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 36-75	6577-6578	.	_
 
+Text=All subjects were requested to relax and to not fall asleep.
 37-1	6579-6582	All	_
 37-2	6583-6591	subjects	_
 37-3	6592-6596	were	_
@@ -1158,6 +1195,7 @@
 37-11	6632-6638	asleep	_
 37-12	6639-6640	.	_
 
+Text=Two experienced radiologists inspected all the raw MRI data.
 38-1	6641-6644	Two	_
 38-2	6645-6656	experienced	_
 38-3	6657-6669	radiologists	_
@@ -1169,6 +1207,7 @@
 38-9	6696-6700	data	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 38-10	6701-6702	.	_
 
+Text=Preprocessing of functional images was performed using DPARSFA (Data Processing Assistant for Resting-State fMRI Advanced Edition, http: //www.restfmri.net/forum/DPARSF) in statistical parametric mapping software (SPM8, http: //www.fil.ion.ucl.ac.uk/spm).
 39-1	6703-6716	Preprocessing	_
 39-2	6717-6719	of	_
 39-3	6720-6730	functional	_
@@ -1205,6 +1244,7 @@
 39-34	6964-6965	)	_
 39-35	6966-6967	.	_
 
+Text=The preprocessing included discarding the first 10 volumes, slice timing, head motion correction, spatially normalizing to the Montreal Neurological Institute (MNI) template, resampling to 3 × 3 × 3 mm3, smoothing with a 6 mm Gaussian kernel, temporal band-pass filtering, and linear regression to remove the influence of nuisance signals including head motion parameters and white matter, cerebrospinal fluid and global signals.
 40-1	6968-6971	The	_
 40-2	6972-6985	preprocessing	_
 40-3	6986-6994	included	_
@@ -1279,6 +1319,7 @@
 40-72	7399-7406	signals	_
 40-73	7407-7408	.	_
 
+Text=Then, we discarded 14 participants whose maximum displacement in any of the cardinal directions (x, y, z) was greater than 2 mm or whose maximum spin (x, y, z) was greater than 2°.
 41-1	7409-7413	Then	_
 41-2	7414-7415	,	_
 41-3	7416-7418	we	_
@@ -1323,6 +1364,7 @@
 41-42	7595-7597	2°	_
 41-43	7598-7599	.	_
 
+Text=In the end, 286 subjects remained in the functional connectivity analysis.
 42-1	7600-7602	In	_
 42-2	7603-7606	the	_
 42-3	7607-7610	end	_
@@ -1337,6 +1379,7 @@
 42-12	7666-7674	analysis	_
 42-13	7675-7676	.	_
 
+Text=The seed regions (bilateral caudate nucleus, putamen and ventral striatum) were extracted based on the Oxford-GSK-Imanova Structural-anatomical Striatal Atlas, and the masks for the seed regions were resampled to 3 × 3 × 3 mm3 in MNI space.
 43-1	7677-7680	The	_
 43-2	7681-7685	seed	_
 43-3	7686-7693	regions	_
@@ -1381,6 +1424,7 @@
 43-42	7915-7920	space	_
 43-43	7921-7922	.	_
 
+Text=We calculated the Pearson ’ s correlation coefficient between the average time series of the seed regions and those of all the voxels of the whole brain.
 44-1	7923-7925	We	_
 44-2	7926-7936	calculated	_
 44-3	7937-7940	the	_
@@ -1410,6 +1454,7 @@
 44-27	8070-8075	brain	_
 44-28	8076-8077	.	_
 
+Text=Then, we transformed the r correlation into a Z score via Fisher ’ s r-to-z transformation in order to obtain Z maps for each subject.
 45-1	8078-8082	Then	_
 45-2	8083-8084	,	_
 45-3	8085-8087	we	_
@@ -1438,6 +1483,7 @@
 45-26	8205-8212	subject	_
 45-27	8213-8214	.	_
 
+Text=Next, one-sample t-tests were used to determine the main functional connectivities in for each striatal sub-region.
 46-1	8215-8219	Next	_
 46-2	8220-8221	,	_
 46-3	8222-8232	one-sample	_
@@ -1457,6 +1503,7 @@
 46-17	8320-8330	sub-region	_
 46-18	8331-8332	.	_
 
+Text=Then, we used the masks of the one-sample t-tests results for subsequent multiple regression analysis.
 47-1	8333-8337	Then	_
 47-2	8338-8339	,	_
 47-3	8340-8342	we	_
@@ -1475,6 +1522,7 @@
 47-16	8427-8435	analysis	_
 47-17	8436-8437	.	_
 
+Text=Statistical analysis Voxel-wise multiple regression analysis was implemented in SPM8 to investigate the correlation between dopamine gene-related PGRS and the seed-based functional connectivity.
 48-1	8438-8449	Statistical	_
 48-2	8450-8458	analysis	_
 48-3	8459-8469	Voxel-wise	_
@@ -1500,6 +1548,7 @@
 48-23	8619-8631	connectivity	_
 48-24	8632-8633	.	_
 
+Text=To correct for multiple statistical testing, we maintained a cluster-level false-positive detection rate at p <0.05 using a voxel-level threshold of p <0.001 (Supplementary Figures S1 and S2) and a voxel-level threshold of p <0.005 with a cluster extent determined by Monte Carlo simulations (n = 5000 iterations).
 49-1	8634-8636	To	_
 49-2	8637-8644	correct	_
 49-3	8645-8648	for	_
@@ -1558,6 +1607,7 @@
 49-56	8954-8955	)	_
 49-57	8956-8957	.	_
 
+Text=We accomplished this step using Alphasim implemented in the Data Processing & Analysis for Brain Imaging V2.3 (DPABI, http: //rfmri.org/dpabi).
 50-1	8958-8960	We	_
 50-2	8961-8973	accomplished	_
 50-3	8974-8978	this	_
@@ -1584,6 +1634,7 @@
 50-24	9103-9104	)	_
 50-25	9105-9106	.	_
 
+Text=To determine the functional networks to which brain regions with significant correlation with the PGRS belonged, we performed group independent component analysis (group ICA) to separate the blood oxygen level-dependent signal into independent components using theprogram Group ICA of fMRI Toolbox (GIFT) (http: //icatb.sourceforge.net/).
 51-1	9107-9109	To	_
 51-2	9110-9119	determine	_
 51-3	9120-9123	the	_
@@ -1638,6 +1689,7 @@
 51-52	9451-9452	)	_
 51-53	9453-9454	.	_
 
+Text=Based on a previous study by Simth et al., we identified nine resting-state networks, including the default mode network and the fronto-parietal network, and we obtained the mean component masks.
 52-1	9455-9460	Based	_
 52-2	9461-9463	on	_
 52-3	9464-9465	a	_
@@ -1673,6 +1725,7 @@
 52-33	9647-9652	masks	_
 52-34	9653-9654	.	_
 
+Text=In addition, partial correlation analysis was performed to test the correlation between the PGRS and working memory performance as well as functional connectivity with striatal sub-regions with age, gender and the first three genetic principal components as covariates.
 53-1	9655-9657	In	_
 53-2	9658-9666	addition	_
 53-3	9667-9668	,	_
@@ -1715,6 +1768,7 @@
 53-40	9915-9925	covariates	_
 53-41	9926-9927	.	_
 
+Text=We further did post-hoc tests to determine which SNPs might be the most responsible for the observed effect using PLINK version 1.07.
 54-1	9928-9930	We	_
 54-2	9931-9938	further	_
 54-3	9939-9942	did	_
@@ -1739,6 +1793,7 @@
 54-22	10056-10060	1.07	_
 54-23	10061-10062	.	_
 
+Text=Data availability The datasets analyzed during the current study are available from the corresponding author on reasonable request.
 55-1	10063-10067	Data	_
 55-2	10068-10080	availability	_
 55-3	10081-10084	The	_

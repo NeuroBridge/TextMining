@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Resting state functional connectivity of the amygdala and problem drinking in non-dependent alcohol drinkers Alcohol misuse is associated with dysfunction of the amygdala-prefrontal cortical circuit.
 1-1	0-7	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 1-2	8-13	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 1-3	14-24	functional	_
@@ -29,6 +30,7 @@
 1-25	191-198	circuit	_
 1-26	199-200	.	_
 
+Text=The amygdala and its cortical targets decrease activity during a variety of task challenges in individuals engaged in problem drinking.
 2-1	201-204	The	_
 2-2	205-213	amygdala	_
 2-3	214-217	and	_
@@ -51,6 +53,7 @@
 2-20	327-335	drinking	_
 2-21	336-337	.	_
 
+Text=On the other hand, it is less clear how amygdala resting state functional connectivity (rsFC) may be altered in association with alcohol misuse and whether such changes are restricted to prefrontal cortical structures.
 3-1	338-340	On	_
 3-2	341-344	the	_
 3-3	345-350	other	_
@@ -89,6 +92,7 @@
 3-36	548-558	structures	_
 3-37	559-560	.	_
 
+Text=Further, the influences of comorbid substance use and depression and potential sex differences have not been assessed in earlier work.
 4-1	561-568	Further	_
 4-2	569-570	,	_
 4-3	571-574	the	_
@@ -112,6 +116,7 @@
 4-21	691-695	work	_
 4-22	696-697	.	_
 
+Text=Here, with fMRI data from a Nathan Kline Institute/Rockland sample of 83 non-dependent alcohol drinkers (26 men), we addressed changes in whole brain rsFC of the amygdala in association with problem drinking as indexed by an alcohol involvement score.
 5-1	698-702	Here	_
 5-2	703-704	,	_
 5-3	705-709	with	_
@@ -157,6 +162,7 @@
 5-43	947-952	score	_
 5-44	953-954	.	_
 
+Text=Imaging data were processed with Statistical Parametric Mapping following standard routines and all results were examined at voxel p <0.001 uncorrected in combination with cluster p <0.05 corrected for false discovery rate.
 6-1	955-962	Imaging	_
 6-2	963-967	data	_
 6-3	968-972	were	_
@@ -193,6 +199,7 @@
 6-34	1175-1179	rate	_
 6-35	1180-1181	.	_
 
+Text=Alcohol misuse was correlated with decreased amygdala connectivity with the dorsal anterior cingulate cortex (dACC) irrespective of depression and other substance use.
 7-1	1182-1189	Alcohol	_
 7-2	1190-1196	misuse	_
 7-3	1197-1200	was	_
@@ -219,6 +226,7 @@
 7-24	1347-1350	use	_
 7-25	1351-1352	.	_
 
+Text=Changes in amygdala-dACC connectivity manifested in the latero-basal subdivision of the amygdala.
 8-1	1353-1360	Changes	_
 8-2	1361-1363	in	_
 8-3	1364-1377	amygdala-dACC	_
@@ -233,6 +241,7 @@
 8-12	1441-1449	amygdala	_
 8-13	1450-1451	.	_
 
+Text=Further, men as compared to women showed a significantly stronger relationship in decreased amygdala-dACC connectivity and problem drinking, although it should be noted that men also showed a trend toward higher alcohol involvement score than women.
 9-1	1452-1459	Further	_
 9-2	1460-1461	,	_
 9-3	1462-1465	men	_
@@ -273,6 +282,7 @@
 9-38	1697-1702	women	_
 9-39	1703-1704	.	_
 
+Text=The findings add to a growing literature documenting disrupted amygdala-prefrontal cortical functions in relation to alcohol misuse.
 10-1	1705-1708	The	_
 10-2	1709-1717	findings	_
 10-3	1718-1721	add	_
@@ -292,9 +302,11 @@
 10-17	1830-1836	misuse	_
 10-18	1837-1838	.	_
 
+Text=2.
 11-1	1839-1840	2	_
 11-2	1841-1842	.	_
 
+Text=Methods 2.1 Data set Resting-state fMRI data were obtained from the Nathan Kline Institute (NKI) /Rockland sample of the 1,000 Functional Connectomes project (http: //www.nitrc.org/projects/fcon_1000/).
 12-1	1843-1850	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 12-2	1851-1854	2.1	_
 12-3	1855-1859	Data	_
@@ -327,6 +339,7 @@
 12-30	2048-2049	)	_
 12-31	2050-2051	.	_
 
+Text=This dataset has been used in previous research of brain circuitry in healthy adults and patients with medical and psychiatric conditions.
 13-1	2052-2056	This	_
 13-2	2057-2064	dataset	_
 13-3	2065-2068	has	_
@@ -350,6 +363,7 @@
 13-21	2179-2189	conditions	_
 13-22	2190-2191	.	_
 
+Text=Scans were collected using a multiband EPI sequence with the following parameters: repetition time (TR) /echo time (TE) = 2500/30 ms, voxel size = 3.0 × 3.0 × 3.0 mm3, and 38 slices, covering the whole brain.
 14-1	2192-2197	Scans	_
 14-2	2198-2202	were	_
 14-3	2203-2212	collected	_
@@ -397,6 +411,7 @@
 14-45	2402-2407	brain	_
 14-46	2408-2409	.	_
 
+Text=Individual ’ s images were viewed one by one to ensure that the whole brain was covered.
 15-1	2410-2420	Individual	_
 15-2	2421-2422	’	_
 15-3	2423-2424	s	_
@@ -416,6 +431,7 @@
 15-17	2490-2497	covered	_
 15-18	2498-2499	.	_
 
+Text=Participants were assessed for drinking behavior with the NIDA Quick Screen V1.01 (11+).
 16-1	2500-2512	Participants	_
 16-2	2513-2517	were	_
 16-3	2518-2526	assessed	_
@@ -433,6 +449,7 @@
 16-15	2588-2589	)	_
 16-16	2590-2591	.	_
 
+Text=A total of 83 adult participants (18–89 years of age; 26 males; one five-minute scan per participant under identical imaging protocol) with a substance involvement (SI) score of alcohol use were included in the current cohort.
 17-1	2592-2593	A	_
 17-2	2594-2599	total	_
 17-3	2600-2602	of	_
@@ -477,6 +494,7 @@
 17-42	2817-2823	cohort	_
 17-43	2824-2825	.	_
 
+Text=Briefly, the screening asked about participants ’ drinking behavior including the frequency, desire, amount of alcohol, as well as social disruptions that resulted from alcohol drinking, including whether they drink or not during their lifetime (yes/no), and drinking behavior in the past year and past 3 months.
 18-1	2826-2833	Briefly	_
 18-2	2834-2835	,	_
 18-3	2836-2839	the	_
@@ -534,6 +552,7 @@
 18-55	3139-3145	months	_
 18-56	3146-3147	.	_
 
+Text=The total SI score of alcohol was summed from scores of each alcohol related question with a higher SI score indicating higher involvement in alcohol misuse (Appendix I).
 19-1	3148-3151	The	_
 19-2	3152-3157	total	_
 19-3	3158-3160	SI	_
@@ -566,6 +585,7 @@
 19-30	3318-3319	)	_
 19-31	3320-3321	.	_
 
+Text=Of the 83 participants, 14 were diagnosed with drug dependence or abuse (1 cocaine dependence, 3 cannabis dependence, and 10 cannabis abuse), and 10 with a depressive disorder, according to the ICD-9.
 20-1	3322-3324	Of	_
 20-2	3325-3328	the	_
 20-3	3329-3331	83	_
@@ -607,6 +627,7 @@
 20-39	3523-3528	ICD-9	_
 20-40	3529-3530	.	_
 
+Text=2.2 Imaging data preprocessing Brain imaging data were preprocessed using Statistical Parametric Mapping (SPM 8, Wellcome Department of Imaging Neuroscience, University College London, U.K.).
 21-1	3531-3534	2.2	_
 21-2	3535-3542	Imaging	_
 21-3	3543-3547	data	_
@@ -638,6 +659,7 @@
 21-29	3725-3726	)	_
 21-30	3727-3728	.	_
 
+Text=Standard image preprocessing was performed.
 22-1	3729-3737	Standard	_
 22-2	3738-3743	image	_
 22-3	3744-3757	preprocessing	_
@@ -645,6 +667,7 @@
 22-5	3762-3771	performed	_
 22-6	3772-3773	.	_
 
+Text=Images of each individual subject were first realigned (motion corrected) and corrected for slice timing.
 23-1	3774-3780	Images	_
 23-2	3781-3783	of	_
 23-3	3784-3788	each	_
@@ -664,6 +687,7 @@
 23-17	3874-3880	timing	_
 23-18	3881-3882	.	_
 
+Text=A mean functional image volume was constructed for each subject per run from the realigned image volumes.
 24-1	3883-3884	A	_
 24-2	3885-3889	mean	_
 24-3	3890-3900	functional	_
@@ -683,6 +707,7 @@
 24-17	3980-3987	volumes	_
 24-18	3988-3989	.	_
 
+Text=These mean images were co-registered with the high resolution structural image and then segmented for normalization with affine registration followed by nonlinear transformation.
 25-1	3990-3995	These	_
 25-2	3996-4000	mean	_
 25-3	4001-4007	images	_
@@ -708,6 +733,7 @@
 25-23	4153-4167	transformation	_
 25-24	4168-4169	.	_
 
+Text=The normalization parameters determined for the structure volume were then applied to the corresponding functional image volumes for each subject.
 26-1	4170-4173	The	_
 26-2	4174-4187	normalization	_
 26-3	4188-4198	parameters	_
@@ -730,6 +756,7 @@
 26-20	4308-4315	subject	_
 26-21	4316-4317	.	_
 
+Text=Finally, the images were smoothed with a Gaussian kernel of 8 mm at Full Width at Half Maximum.
 27-1	4318-4325	Finally	_
 27-2	4326-4327	,	_
 27-3	4328-4331	the	_
@@ -751,6 +778,7 @@
 27-19	4406-4413	Maximum	_
 27-20	4414-4415	.	_
 
+Text=Additional preprocessing was applied to reduce spurious blood-oxygenation-level dependent (BOLD) variances that were unlikely to reflect neuronal activity.
 28-1	4416-4426	Additional	_
 28-2	4427-4440	preprocessing	_
 28-3	4441-4444	was	_
@@ -773,6 +801,7 @@
 28-20	4564-4572	activity	_
 28-21	4573-4574	.	_
 
+Text=The sources of spurious variance were removed through linear regression by including the signal from the ventricular system, white matter, and whole brain, in addition to the six parameters obtained by rigid body head motion correction.
 29-1	4575-4578	The	_
 29-2	4579-4586	sources	_
 29-3	4587-4589	of	_
@@ -814,6 +843,7 @@
 29-39	4803-4813	correction	_
 29-40	4814-4815	.	_
 
+Text=First-order derivatives of the whole brain, ventricular and white matter signals were also included in the regression.
 30-1	4816-4827	First-order	_
 30-2	4828-4839	derivatives	_
 30-3	4840-4842	of	_
@@ -834,6 +864,7 @@
 30-18	4924-4934	regression	_
 30-19	4935-4936	.	_
 
+Text=Previous studies suggested that BOLD fluctuations below a frequency of 0.1Hz contribute to regionally specific BOLD correlations.
 31-1	4937-4945	Previous	_
 31-2	4946-4953	studies	_
 31-3	4954-4963	suggested	_
@@ -853,6 +884,7 @@
 31-17	5053-5065	correlations	_
 31-18	5066-5067	.	_
 
+Text=Thus, we applied a temporal band-pass filter (0.009 <f <0.08 Hz) to the time course in order to obtain low-frequency fluctuations, as in previous studies.
 32-1	5068-5072	Thus	_
 32-2	5073-5074	,	_
 32-3	5075-5077	we	_
@@ -886,6 +918,7 @@
 32-31	5220-5227	studies	_
 32-32	5228-5229	.	_
 
+Text=2.3 Head motion As extensively investigated by, micro head motion (> 0.1mm) is an important source of spurious correlations in resting state functional connectivity analysis.
 33-1	5230-5233	2.3	_
 33-2	5234-5238	Head	_
 33-3	5239-5245	motion	_
@@ -916,6 +949,7 @@
 33-28	5398-5406	analysis	_
 33-29	5407-5408	.	_
 
+Text=Therefore, we applied a “ scrubbing ” method proposed by Power and colleagues and successfully applied in previous studies to remove time points affected by head motions.
 34-1	5409-5418	Therefore	_
 34-2	5419-5420	,	_
 34-3	5421-5423	we	_
@@ -946,6 +980,7 @@
 34-28	5572-5579	motions	_
 34-29	5580-5581	.	_
 
+Text=Briefly, for every time point t, we computed the framewise displacement given by FD (t) = |Δdx (t) | + |Δdy (t) | + |Δdz (t) | + r|α (t) | + r|β (t) | + r|γ (t) |, where (dx, dy, dz) and (α, β, γ) are the translational and rotational movements, respectively, and r (= 50mm) is a constant that approximates the mean distance between center of MNI space and the cortex and transform rotations into displacements.
 35-1	5582-5589	Briefly	_
 35-2	5590-5591	,	_
 35-3	5592-5595	for	_
@@ -1056,6 +1091,7 @@
 35-108	6007-6020	displacements	_
 35-109	6021-6022	.	_
 
+Text=The second head movement metric was the root mean square variance (DVARS) of the differences in% BOLD intensity I (t) between consecutive time points across brain voxels, computed as follows:, where the brackets indicate the mean across brain voxels.
 36-1	6023-6026	The	_
 36-2	6027-6033	second	_
 36-3	6034-6038	head	_
@@ -1105,6 +1141,7 @@
 36-47	6274-6280	voxels	_
 36-48	6281-6282	.	_
 
+Text=Finally, to compute each subject ’ s correlation map, we removed every time point that exceeded the head motion limit FD (t)> 0.5mm or DVARS (t)> 0.5%.
 37-1	6283-6290	Finally	_
 37-2	6291-6292	,	_
 37-3	6293-6295	to	_
@@ -1143,6 +1180,7 @@
 37-36	6441-6442	%	_
 37-37	6443-6444	.	_
 
+Text=On average, 1% of the time points were removed across participants.
 38-1	6445-6447	On	_
 38-2	6448-6455	average	_
 38-3	6456-6457	,	_
@@ -1158,6 +1196,7 @@
 38-13	6501-6513	participants	_
 38-14	6514-6515	.	_
 
+Text=We excluded individuals who moved> 1 voxel in any directions and those with greater than 10–20% of volumes affected by micromovements.
 39-1	6516-6518	We	_
 39-2	6519-6527	excluded	_
 39-3	6528-6539	individuals	_
@@ -1183,6 +1222,7 @@
 39-23	6637-6651	micromovements	_
 39-24	6652-6653	.	_
 
+Text=2.4 Seed regions: amygdala The mask of amygdala was obtained from the SPM Anatomy Toolbox Version 2.2c.
 40-1	6654-6657	2.4	_
 40-2	6658-6662	Seed	_
 40-3	6663-6670	regions	_
@@ -1203,6 +1243,7 @@
 40-18	6753-6757	2.2c	_
 40-19	6758-6759	.	_
 
+Text=It was created based on the cytoarchitectonic probabilistic map where four subdivisions were segregated, including the superficial, latero-basal, centro-medial, and amygdalostriatal transition area (Figure 1).
 41-1	6760-6762	It	_
 41-2	6763-6766	was	_
 41-3	6767-6774	created	_
@@ -1236,6 +1277,7 @@
 41-31	6973-6974	)	_
 41-32	6975-6976	.	_
 
+Text=In rsFC analyses, we focused on the whole amygdala, as well as the left and right amygdala separately, because of potential hemispheric functional differences, as seed regions.
 42-1	6977-6979	In	_
 42-2	6980-6984	rsFC	_
 42-3	6985-6993	analyses	_
@@ -1269,6 +1311,7 @@
 42-31	7149-7156	regions	_
 42-32	7157-7158	.	_
 
+Text=We also examined each of the four amygdala subdivisions and left and right subdivision in additional analyses to explore which subdivision accounts for the findings observed for the whole amygdala.
 43-1	7159-7161	We	_
 43-2	7162-7166	also	_
 43-3	7167-7175	examined	_
@@ -1301,6 +1344,7 @@
 43-30	7347-7355	amygdala	_
 43-31	7356-7357	.	_
 
+Text=2.5 Seed region-based linear correlation and random effects analysis The BOLD time courses were averaged spatially over each seed region.
 44-1	7358-7361	2.5	_
 44-2	7362-7366	Seed	_
 44-3	7367-7379	region-based	_
@@ -1323,6 +1367,7 @@
 44-20	7488-7494	region	_
 44-21	7495-7496	.	_
 
+Text=For individual participants, we computed the correlation coefficient between the averaged time course of each seed region and the time courses of all other brain voxels.
 45-1	7497-7500	For	_
 45-2	7501-7511	individual	_
 45-3	7512-7524	participants	_
@@ -1352,6 +1397,7 @@
 45-27	7660-7666	voxels	_
 45-28	7667-7668	.	_
 
+Text=To assess and compare the rsFC, we converted these image maps, which were not normally distributed, to z score maps by Fisher ’ s z transform:.
 46-1	7669-7671	To	_
 46-2	7672-7678	assess	_
 46-3	7679-7682	and	_
@@ -1384,6 +1430,7 @@
 46-30	7814-7815	:	_
 46-31	7816-7817	.	_
 
+Text=In the second level analysis, we correlated the Z map with the alcohol substance involvement (AlcSI) score with age as a covariate.
 47-1	7818-7820	In	_
 47-2	7821-7824	the	_
 47-3	7825-7831	second	_
@@ -1411,6 +1458,7 @@
 47-25	7942-7951	covariate	_
 47-26	7952-7953	.	_
 
+Text=In all analyses we evaluated the results at a voxelwise threshold of p <0.001 whole brain uncorrected in combination with cluster p <0.05, corrected for False Discovery Rate (FDR), following current reporting standards.
 48-1	7954-7956	In	_
 48-2	7957-7960	all	_
 48-3	7961-7969	analyses	_

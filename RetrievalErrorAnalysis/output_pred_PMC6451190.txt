@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Default mode network connectivity is associated with long-term clinical outcome in patients with schizophrenia This study investigated whether resting-state functional connectivity is associated with long-term clinical outcomes of patients with schizophrenia.
 1-1	0-7	Default	_
 1-2	8-12	mode	_
 1-3	13-20	network	_
@@ -35,6 +36,7 @@
 1-31	245-258	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 1-32	259-260	.	_
 
+Text=Resting-state brain images were obtained from 79 outpatients with schizophrenia and 30 healthy controls (HC), using a 3 T-MRI scanner.
 2-1	261-274	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 2-2	275-280	brain	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 2-3	281-287	images	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -60,6 +62,7 @@
 2-23	390-397	scanner	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 2-24	398-399	.	_
 
+Text=All patients were 20–50 years old with> 3 years' duration of illness and appeared clinically stable.
 3-1	400-403	All	_
 3-2	404-412	patients	_
 3-3	413-417	were	_
@@ -80,6 +83,7 @@
 3-18	495-501	stable	_
 3-19	502-503	.	_
 
+Text=We assessed their psychopathology using the 18-item Brief Psychiatric Rating Scale (BPRS-18) and divided them into “ good, ” “ moderate, ” and “ poor ” outcome (SZ-GO, SZ-MO, and SZ-PO) groups depending on BPRS-18 total score.
 4-1	504-506	We	_
 4-2	507-515	assessed	_
 4-3	516-521	their	_
@@ -127,6 +131,7 @@
 4-45	732-737	score	_
 4-46	738-739	.	_
 
+Text=We obtained individual functional connectivity maps between a seed region of the bilateral posterior cingulate cortex (PCC) and all other brain regions and compared the functional connectivity of the default mode network (DMN) among the HC and 3 schizophrenia outcome groups, with a voxel-wise threshold of P <.001 within a cluster-extent threshold of 114 voxels.
 5-1	740-742	We	_
 5-2	743-751	obtained	_
 5-3	752-762	individual	_
@@ -190,6 +195,7 @@
 5-61	1102-1108	voxels	_
 5-62	1109-1110	.	_
 
+Text=Additionally, we assessed correlations between functional connectivity and BPRS-18 scores.
 6-1	1111-1123	Additionally	_
 6-2	1124-1125	,	_
 6-3	1126-1128	we	_
@@ -203,6 +209,7 @@
 6-11	1195-1201	scores	_
 6-12	1202-1203	.	_
 
+Text=The SZ-MO and SZ-PO groups showed decreased functional connectivity between PCC and right ventromedial prefrontal cortex (vmPFC), left middle cingulate cortex, and left frontopolar cortex (FPC) compared to the SZ-GO and HC groups.
 7-1	1204-1207	The	_
 7-2	1208-1213	SZ-MO	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 7-3	1214-1217	and	_
@@ -244,6 +251,7 @@
 7-39	1433-1439	groups	_
 7-40	1440-1441	.	_
 
+Text=DMN connectivity in the right vmPFC and left FPC negatively correlated with subscale scores of the BPRS-18, except the negative symptoms subscale.
 8-1	1442-1445	DMN	_
 8-2	1446-1458	connectivity	_
 8-3	1459-1461	in	_
@@ -269,6 +277,7 @@
 8-23	1580-1588	subscale	_
 8-24	1589-1590	.	_
 
+Text=In this study, poorer clinical outcomes in patients with schizophrenia were associated with decreased DMN connectivity.
 9-1	1591-1593	In	_
 9-2	1594-1598	this	_
 9-3	1599-1604	study	_
@@ -288,6 +297,7 @@
 9-17	1698-1710	connectivity	_
 9-18	1711-1712	.	_
 
+Text=In particular, the decreased functional connectivity might be related to the severity of positive and mood symptoms rather than negative symptoms.
 10-1	1713-1715	In	_
 10-2	1716-1726	particular	_
 10-3	1727-1728	,	_
@@ -312,6 +322,7 @@
 10-22	1851-1859	symptoms	_
 10-23	1860-1861	.	_
 
+Text=Highlights Long-term outcome of schizophrenia is related to default mode network connectivity.
 11-1	1862-1872	Highlights	_
 11-2	1873-1882	Long-term	_
 11-3	1883-1890	outcome	_
@@ -326,6 +337,7 @@
 11-12	1943-1955	connectivity	_
 11-13	1956-1957	.	_
 
+Text=Decreased functional connectivity is associated with poorer clinical outcome.
 12-1	1958-1967	Decreased	_
 12-2	1968-1978	functional	_
 12-3	1979-1991	connectivity	_
@@ -337,6 +349,7 @@
 12-9	2027-2034	outcome	_
 12-10	2035-2036	.	_
 
+Text=Functional connectivity negatively correlates with positive and mood symptoms.
 13-1	2037-2047	Functional	_
 13-2	2048-2060	connectivity	_
 13-3	2061-2071	negatively	_
@@ -348,6 +361,7 @@
 13-9	2106-2114	symptoms	_
 13-10	2115-2116	.	_
 
+Text=Materials and methods Subjects All subjects were interviewed by a psychologist (K.P.
 14-1	2117-2126	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-2	2127-2130	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-3	2131-2138	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -363,6 +377,7 @@
 14-13	2198-2201	K.P	_
 14-14	2202-2203	.	_
 
+Text=), who used the Mini-International Neuropsychiatric Interview (MINI) to make diagnoses of psychiatric disorders according to the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV).
 15-1	2204-2205	)	_
 15-2	2206-2207	,	_
 15-3	2208-2211	who	_
@@ -398,6 +413,7 @@
 15-33	2416-2417	)	_
 15-34	2418-2419	.	_
 
+Text=Patients who met the DSM-IV criteria for schizophrenia were recruited from outpatient clinics of the National Center for Mental Health, Seoul, Republic of Korea.
 16-1	2420-2428	Patients	_
 16-2	2429-2432	who	_
 16-3	2433-2436	met	_
@@ -426,6 +442,7 @@
 16-26	2577-2582	Korea	_
 16-27	2583-2584	.	_
 
+Text=Inclusion criteria were as follows: (1) aged 20–50 years; (2) duration of illness> 3 years; (3) appeared clinically stable, as defined by no exacerbation of psychotic symptoms and no change in general clinical state and medication for at least 3 months prior to the time of assessment.
 17-1	2585-2594	Inclusion	_
 17-2	2595-2603	criteria	_
 17-3	2604-2608	were	_
@@ -486,6 +503,7 @@
 17-58	2870-2880	assessment	_
 17-59	2881-2882	.	_
 
+Text=We excluded patients with a concurrent axis I diagnosis according to the DSM-IV, current or past neurological disease, any contraindication to MRI scan, or a physical condition that would render an MRI scan difficult to administer or interpret, e.g., severe extrapyramidal symptoms.
 18-1	2883-2885	We	_
 18-2	2886-2894	excluded	_
 18-3	2895-2903	patients	_
@@ -535,6 +553,7 @@
 18-47	3161-3169	symptoms	_
 18-48	3170-3171	.	_
 
+Text=The HCs consisted of volunteers from the local community who were free of any history of psychiatric disorders.
 19-1	3172-3175	The	_
 19-2	3176-3179	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 19-3	3180-3189	consisted	_
@@ -555,6 +574,7 @@
 19-18	3273-3282	disorders	_
 19-19	3283-3284	.	_
 
+Text=The same exclusion criteria that were applied to the patients also applied to the HC group with regard to medical, neurological, and physical conditions.
 20-1	3285-3288	The	_
 20-2	3289-3293	same	_
 20-3	3294-3303	exclusion	_
@@ -583,6 +603,7 @@
 20-26	3429-3439	conditions	_
 20-27	3440-3441	.	_
 
+Text=Data from 79 patients and 30 HCs were included in the final analysis.
 21-1	3442-3446	Data	_
 21-2	3447-3451	from	_
 21-3	3452-3454	79	_
@@ -598,6 +619,7 @@
 21-13	3502-3510	analysis	_
 21-14	3511-3512	.	_
 
+Text=This study was initiated after approval of the Institutional Review Board of the National Center for Mental Health (IRB approval number: 116271–2017-26), and written informed consent was obtained from all subjects.
 22-1	3513-3517	This	_
 22-2	3518-3523	study	_
 22-3	3524-3527	was	_
@@ -635,6 +657,7 @@
 22-35	3722-3730	subjects	_
 22-36	3731-3732	.	_
 
+Text=Clinical assessments and group assignment We defined long-term outcome of schizophrenia as overall severity of residual psychopathology in clinically stable patients with chronic schizophrenia whose clinical progression was considered to have reached a plateau after 3 years of onset.
 23-1	3733-3741	Clinical	_
 23-2	3742-3753	assessments	_
 23-3	3754-3757	and	_
@@ -676,6 +699,7 @@
 23-39	4011-4016	onset	_
 23-40	4017-4018	.	_
 
+Text=The overall level of the patient's psychopathology was evaluated by a psychiatrist (S.R.
 24-1	4019-4022	The	_
 24-2	4023-4030	overall	_
 24-3	4031-4036	level	_
@@ -693,6 +717,7 @@
 24-15	4105-4108	S.R	_
 24-16	4109-4110	.	_
 
+Text=), who used the 18-item Brief Psychiatric Rating Scale (BPRS-18).
 25-1	4111-4112	)	_
 25-2	4113-4114	,	_
 25-3	4115-4118	who	_
@@ -708,6 +733,7 @@
 25-13	4177-4178	)	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 25-14	4179-4180	.	_
 
+Text=proposed that “ mildly ill ” according to the Clinical Global Impression (CGI) scale corresponds to BPRS-18 total scores of 18–31 and “ moderately ill ” corresponds to BPRS-18 total scores of 32–41.
 26-1	4181-4189	proposed	_
 26-2	4190-4194	that	_
 26-3	4195-4196	“	_
@@ -745,6 +771,7 @@
 26-35	4375-4380	32–41	_
 26-36	4381-4382	.	_
 
+Text=Based on these criteria, we classified the patients into 3 groups: SZ-GO (BPRS-18 total scores of 18–31, N = 25), SZ-MO (BPRS-18 total scores of 32–41, N = 31), and SZ-PO (BPRS-18 total scores of ≥42, N = 23).
 27-1	4383-4388	Based	_
 27-2	4389-4391	on	_
 27-3	4392-4397	these	_
@@ -799,6 +826,7 @@
 27-52	4603-4604	)	_
 27-53	4605-4606	.	_
 
+Text=In addition, according to the factor structure proposed by, the “ affect, ” “ positive symptoms, ” “ negative symptoms, ” “ resistance, ” and “ activation ” subscales of the BPRS-18 were analyzed as continuous variables.
 28-1	4607-4609	In	_
 28-2	4610-4618	addition	_
 28-3	4619-4620	,	_
@@ -844,6 +872,7 @@
 28-43	4823-4832	variables	_
 28-44	4833-4834	.	_
 
+Text=We also assessed the overall level of the patient's functioning using the WHO Disability Assessment Schedule 2.0 (WHODAS 2.0).
 29-1	4835-4837	We	_
 29-2	4838-4842	also	_
 29-3	4843-4851	assessed	_
@@ -868,6 +897,7 @@
 29-22	4962-4963	)	_
 29-23	4964-4965	.	_
 
+Text=Considering that functional outcomes of patients with schizophrenia correlate with their clinical outcomes, we compared the WHODAS 2.0 total score among SZ-GO, SZ-MO, and SZ-PO groups to confirm whether the grouping was appropriate.
 30-1	4966-4977	Considering	_
 30-2	4978-4982	that	_
 30-3	4983-4993	functional	_
@@ -906,6 +936,7 @@
 30-36	5189-5200	appropriate	_
 30-37	5201-5202	.	_
 
+Text=MRI acquisition The MRI data were acquired using a 3-T MR scanner (Ingenia CX; Philips, Erlangen) equipped with a 32-channel head coil.
 31-1	5203-5206	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 31-2	5207-5218	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 31-3	5219-5222	The	_
@@ -934,6 +965,7 @@
 31-26	5337-5341	coil	_
 31-27	5342-5343	.	_
 
+Text=Blood oxygen-level dependent (BOLD) signals were obtained using a T2 * -weighted gradient echo planar imaging (EPI) sequence (TR = 2000 ms, TE = 30 ms, matrix size: 64 × 64, 45 interleaved slices, field of view = 220 mm, slice thickness = 3.5 mm, flip angle = 90°) parallel to the anterior commissure-posterior commissure line.
 32-1	5344-5349	Blood	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
 32-2	5350-5362	oxygen-level	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
 32-3	5363-5372	dependent	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
@@ -1005,6 +1037,7 @@
 32-69	5679-5683	line	_
 32-70	5684-5685	.	_
 
+Text=All subjects received a 5-min scan (150 volumes) during functional imaging plus two initial dummy volumes, which were acquired to ensure magnetization stabilization.
 33-1	5686-5689	All	_
 33-2	5690-5698	subjects	_
 33-3	5699-5707	received	_
@@ -1033,6 +1066,7 @@
 33-26	5840-5853	stabilization	_
 33-27	5854-5855	.	_
 
+Text=During the functional scans, the participants were explicitly instructed to open their eyes and fixate on a white cross presented in the center of visual field.
 34-1	5856-5862	During	_
 34-2	5863-5866	the	_
 34-3	5867-5877	functional	_
@@ -1062,6 +1096,7 @@
 34-27	6011-6016	field	_
 34-28	6017-6018	.	_
 
+Text=A high-resolution anatomical T1 weighted image was also acquired using a turbo field echo sequence (spin-echo TR = 9.8 ms, TE = 4.6 ms, matrix size: 240 × 240, 170 sagittal slices, FOV = 240 mm, slice thickness = 1 mm, flip angle = 8°).
 35-1	6019-6020	A	_
 35-2	6021-6036	high-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 35-3	6037-6047	anatomical	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1118,6 +1153,7 @@
 35-54	6262-6263	)	_
 35-55	6264-6265	.	_
 
+Text=Resting-state fMRI analysis The fMRI data analysis was performed using the Analysis of Functional NeuroImages (AFNI) software (version 18.2.04).
 36-1	6266-6279	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 36-2	6280-6284	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 36-3	6285-6293	analysis	_
@@ -1143,6 +1179,7 @@
 36-23	6412-6413	)	_
 36-24	6414-6415	.	_
 
+Text=The first three volumes were discarded from the functional dataset to allow for signal stabilization.
 37-1	6416-6419	The	_
 37-2	6420-6425	first	_
 37-3	6426-6431	three	_
@@ -1160,6 +1197,7 @@
 37-15	6503-6516	stabilization	_
 37-16	6517-6518	.	_
 
+Text=Despiking was performed for each voxel time-series to suppress local spikes in the EPI signals.
 38-1	6519-6528	Despiking	_
 38-2	6529-6532	was	_
 38-3	6533-6542	performed	_
@@ -1177,6 +1215,7 @@
 38-15	6606-6613	signals	_
 38-16	6614-6615	.	_
 
+Text=Head motion correction was conducted by rigid body registration of EPI volumes to a base EPI volume.
 39-1	6616-6620	Head	_
 39-2	6621-6627	motion	_
 39-3	6628-6638	correction	_
@@ -1196,6 +1235,7 @@
 39-17	6709-6715	volume	_
 39-18	6716-6717	.	_
 
+Text=Physiological respiratory and cardiac artifacts were estimated and corrected using Physiologic EStimation by Temporal ICA (PESTICA).
 40-1	6718-6731	Physiological	_
 40-2	6732-6743	respiratory	_
 40-3	6744-6747	and	_
@@ -1216,6 +1256,7 @@
 40-18	6850-6851	)	_
 40-19	6852-6853	.	_
 
+Text=Slice-timing correction was carried out for all slices within a volume.
 41-1	6854-6866	Slice-timing	_
 41-2	6867-6877	correction	_
 41-3	6878-6881	was	_
@@ -1229,6 +1270,7 @@
 41-11	6918-6924	volume	_
 41-12	6925-6926	.	_
 
+Text=After co-registration to high-resolution anatomical T1 images, spatial normalization was performed by affine transform, using the parameters obtained from spatial normalization of the T1 images into Montreal Neurological Institute (MNI) stereotactic space with the MNI avg152T1 template.
 42-1	6927-6932	After	_
 42-2	6933-6948	co-registration	_
 42-3	6949-6951	to	_
@@ -1272,6 +1314,7 @@
 42-41	7209-7217	template	_
 42-42	7218-7219	.	_
 
+Text=All voxels were resampled to 2 × 2 × 2 mm by nearest neighbor interpolation.
 43-1	7220-7223	All	_
 43-2	7224-7230	voxels	_
 43-3	7231-7235	were	_
@@ -1289,6 +1332,7 @@
 43-15	7282-7295	interpolation	_
 43-16	7296-7297	.	_
 
+Text=A temporal band-pass filter was applied at 0.009 Hz <f <0.08 Hz.
 44-1	7298-7299	A	_
 44-2	7300-7308	temporal	_
 44-3	7309-7318	band-pass	_
@@ -1305,6 +1349,7 @@
 44-14	7361-7363	Hz	_
 44-15	7364-7365	.	_
 
+Text=The nuisance signals, which consisted of six parameters obtained by correction of head motion and non-neural sources of variance from the eroded white matter and the eroded large ventricle mask, were regressed out.
 45-1	7366-7369	The	_
 45-2	7370-7378	nuisance	_
 45-3	7379-7386	signals	_
@@ -1342,6 +1387,7 @@
 45-35	7578-7581	out	_
 45-36	7582-7583	.	_
 
+Text=Additionally, outlier volumes were censored from the time-series based on a threshold of framewise displacement, which was taken as the sum of the absolute value of temporal differences across the six motion parameters.
 46-1	7584-7596	Additionally	_
 46-2	7597-7598	,	_
 46-3	7599-7606	outlier	_
@@ -1379,6 +1425,7 @@
 46-35	7794-7804	parameters	_
 46-36	7805-7806	.	_
 
+Text=The time-points with a framewise displacement that exceeded 0.5 mm, also including the one preceding and following time-points, were excluded.
 47-1	7807-7810	The	_
 47-2	7811-7822	time-points	_
 47-3	7823-7827	with	_
@@ -1403,6 +1450,7 @@
 47-22	7942-7950	excluded	_
 47-23	7951-7952	.	_
 
+Text=Spatial smoothing was conducted with an isotropic Gaussian kernel of 7 mm full width at half-maximum.
 48-1	7953-7960	Spatial	_
 48-2	7961-7970	smoothing	_
 48-3	7971-7974	was	_
@@ -1421,6 +1469,7 @@
 48-16	8041-8053	half-maximum	_
 48-17	8054-8055	.	_
 
+Text=In order to identify the default mode network, we performed seed-based functional connectivity analysis using the bilateral PCC (MNI coordinate x = ±6, y = 54, z = 26, radius = 6 mm).
 49-1	8056-8058	In	_
 49-2	8059-8064	order	_
 49-3	8065-8067	to	_
@@ -1462,6 +1511,7 @@
 49-39	8243-8244	)	_
 49-40	8245-8246	.	_
 
+Text=Individual functional connectivity maps were produced by correlation analysis between the average time course in the seed region and the time courses from the whole brain.
 50-1	8247-8257	Individual	_
 50-2	8258-8268	functional	_
 50-3	8269-8281	connectivity	_
@@ -1490,6 +1540,7 @@
 50-26	8412-8417	brain	_
 50-27	8418-8419	.	_
 
+Text=The correlation coefficients were converted into z-values as functional connectivity strengths, using Fisher's r-to-z transformation.
 51-1	8420-8423	The	_
 51-2	8424-8435	correlation	_
 51-3	8436-8448	coefficients	_
@@ -1509,6 +1560,7 @@
 51-17	8540-8554	transformation	_
 51-18	8555-8556	.	_
 
+Text=Statistical analyses To identify within-group functional connectivity patterns, a one-sample t-test was performed.
 52-1	8557-8568	Statistical	_
 52-2	8569-8577	analyses	_
 52-3	8578-8580	To	_
@@ -1525,6 +1577,7 @@
 52-14	8662-8671	performed	_
 52-15	8672-8673	.	_
 
+Text=Then, we explored brain regions showing differences in DMN connectivity among the HC and 3 schizophrenia outcome groups using analysis of covariance (ANCOVA), adjusting for sex, age, and education in the AFNI software.
 53-1	8674-8678	Then	_
 53-2	8679-8680	,	_
 53-3	8681-8683	we	_
@@ -1566,6 +1619,7 @@
 53-39	8889-8897	software	_
 53-40	8898-8899	.	_
 
+Text=Significance thresholding for group analysis was determined using 3dClustSim, as available in the AFNI software suite.
 54-1	8900-8912	Significance	_
 54-2	8913-8925	thresholding	_
 54-3	8926-8929	for	_
@@ -1585,6 +1639,7 @@
 54-17	9013-9018	suite	_
 54-18	9019-9020	.	_
 
+Text=We adopted a voxel-wise threshold of P <.001 within a cluster extent threshold of 114 voxels, which corresponded to a family-wise error corrected P <.01.
 55-1	9021-9023	We	_
 55-2	9024-9031	adopted	_
 55-3	9032-9033	a	_
@@ -1615,6 +1670,7 @@
 55-28	9173-9176	.01	_
 55-29	9177-9178	.	_
 
+Text=In the regions showing significant differences among the 4 groups, we extracted mean values of functional connectivity strength.
 56-1	9179-9181	In	_
 56-2	9182-9185	the	_
 56-3	9186-9193	regions	_
@@ -1636,6 +1692,7 @@
 56-19	9299-9307	strength	_
 56-20	9308-9309	.	_
 
+Text=Then, we examined differences in DMN connectivity between pairs of groups using Bonferroni post-hoc test after ANCOVA adjusting for sex, age, and education, using the Statistical Package for the Social Science (SPSS) version 21.0 (IBM Corp., Armonk, NY, USA).
 57-1	9310-9314	Then	_
 57-2	9315-9316	,	_
 57-3	9317-9319	we	_
@@ -1688,6 +1745,7 @@
 57-50	9578-9579	)	_
 57-51	9580-9581	.	_
 
+Text=In addition, we performed partial correlation analyses between mean values of DMN connectivity and BPRS-18 subscale scores, adjusting for sex, age, education, and chlorpromazine equivalent dose of antipsychotic drug (only in patients with schizophrenia).
 58-1	9582-9584	In	_
 58-2	9585-9593	addition	_
 58-3	9594-9595	,	_
@@ -1731,6 +1789,7 @@
 58-41	9841-9842	)	_
 58-42	9843-9844	.	_
 
+Text=The partial correlation analyses were also performed using SPSS.
 59-1	9845-9848	The	_
 59-2	9849-9856	partial	_
 59-3	9857-9868	correlation	_
@@ -1742,6 +1801,7 @@
 59-9	9904-9908	SPSS	_
 59-10	9909-9910	.	_
 
+Text=For the post-hoc tests and partial correlation analyses, P <.05 was considered statistically significant.
 60-1	9911-9914	For	_
 60-2	9915-9918	the	_
 60-3	9919-9927	post-hoc	_

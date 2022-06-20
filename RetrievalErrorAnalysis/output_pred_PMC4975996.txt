@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Negative functional coupling between the right fronto-parietal and limbic resting state networks predicts increased self-control and later substance use onset in adolescence☆ Recent developmental brain imaging studies have demonstrated that negatively coupled prefrontal-limbic circuitry implicates the maturation of brain development in adolescents.
 1-1	0-8	Negative	_
 1-2	9-19	functional	_
 1-3	20-28	coupling	_
@@ -46,6 +47,7 @@
 1-42	338-349	adolescents	_
 1-43	350-351	.	_
 
+Text=Using resting-state functional magnetic resonance imaging (rs-fMRI) and independent component analysis (ICA), the present study examined functional network coupling between prefrontal and limbic systems and links to self-control and substance use onset in adolescents.
 2-1	352-357	Using	_
 2-2	358-371	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 2-3	372-382	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -87,6 +89,7 @@
 2-39	613-624	adolescents	_
 2-40	625-626	.	_
 
+Text=Results suggest that negative network coupling (anti-correlated temporal dynamics) between the right fronto-parietal and limbic resting state networks is associated with greater self-control and later substance use onset in adolescents.
 3-1	627-634	Results	_
 3-2	635-642	suggest	_
 3-3	643-647	that	_
@@ -121,6 +124,7 @@
 3-32	853-864	adolescents	_
 3-33	865-866	.	_
 
+Text=These findings increase our understanding of the developmental importance of prefrontal-limbic circuitry for adolescent substance use at the resting-state network level.
 4-1	867-872	These	_
 4-2	873-881	findings	_
 4-3	882-890	increase	_
@@ -144,6 +148,7 @@
 4-21	1030-1035	level	_
 4-22	1036-1037	.	_
 
+Text=Method Resting state fMRI dataset To detect canonical large-scale resting-state network (RSN) commonly shared across people regardless of age, sex, education, income, and ethnicity, we first aggregated all possible rs-fMRI data collected from our lab (i.e., dataset 1 and dataset 2), yielding a total of 79 rs-fMRI scans (Total: Mage = 29.16 years; SD = 14.89; range = 13–57 years; dataset 1: Mage = 27.92 years; SD = 15.93; range = 13–52 years; 20 adolescents and 17 adults; dataset 2: Mage = 30.32 years; SD = 13.93; range = 14–57 years; 17 adolescents and 22 adults).
 5-1	1038-1044	Method	_
 5-2	1045-1052	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 5-3	1053-1058	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -268,6 +273,7 @@
 5-122	1632-1633	)	_
 5-123	1634-1635	.	_
 
+Text=All participants were screened by a phone interview prior to the scan to ensure the participant was not currently taking any psychotropic medications and was not diagnosed with any mood disorder.
 6-1	1636-1639	All	_
 6-2	1640-1652	participants	_
 6-3	1653-1657	were	_
@@ -301,6 +307,7 @@
 6-31	1822-1830	disorder	_
 6-32	1831-1832	.	_
 
+Text=Due to excessive movement (mean framewise displacement, FD> 0.5 mm), three data sets were excluded from the final analysis (three adolescents; range = 0.83–1.85 mm), yielding a total of 76 resting state datasets possible to use for the group-level ICA procedure, combined with dual-regression (see below for analysis details).
 7-1	1833-1836	Due	_
 7-2	1837-1839	to	_
 7-3	1840-1849	excessive	_
@@ -364,6 +371,7 @@
 7-61	2169-2170	)	_
 7-62	2171-2172	.	_
 
+Text=After the group-level ICA, only the adolescents (age range 13–17 years; N = 37) were selected from the total sample to test our primary prediction about the association between intrinsic functional network connectivity and substance use onset in adolescence (Mage = 14.70 years; SD = 1.10; 18 females; 20 from dataset 1 and 17 from dataset 2).
 8-1	2173-2178	After	_
 8-2	2179-2182	the	_
 8-3	2183-2194	group-level	_
@@ -432,6 +440,7 @@
 8-66	2523-2524	)	_
 8-67	2525-2526	.	_
 
+Text=Males and females did not differ in their age, t (35) = −1.31, p = 0.20 (male: Mage = 14.47 years; SD = 0.90; range = 13–16 years; female: Mage = 14.94 years; SD = 1.26; range = 13–17 years).
 9-1	2527-2532	Males	_
 9-2	2533-2536	and	_
 9-3	2537-2544	females	_
@@ -487,6 +496,7 @@
 9-53	2729-2730	)	_
 9-54	2731-2732	.	_
 
+Text=Additional non-parametric test using independent-samples Mann-Whitney U Test confirmed that the distribution of age was the same across sex categories (p = 0.25).
 10-1	2733-2743	Additional	_
 10-2	2744-2758	non-parametric	_
 10-3	2759-2763	test	_
@@ -514,6 +524,7 @@
 10-25	2895-2896	)	_
 10-26	2897-2898	.	_
 
+Text=Data acquisition All imaging data were collected using a 3T-Siemens Trio MRI scanner with a 32-channel matrix coil.
 11-1	2899-2903	Data	_
 11-2	2904-2915	acquisition	_
 11-3	2916-2919	All	_
@@ -534,6 +545,7 @@
 11-18	3009-3013	coil	_
 11-19	3014-3015	.	_
 
+Text=High-resolution structural images (T1-MPRAGE) were acquired first (repetition time or TR = 1.9 s, echo time or TE = 2.3 ms, matrix size = 256 × 256, field of view or FOV = 230 mm, flip angle or FA = 90°, 1 mm isotropic voxel).
 12-1	3016-3031	High-resolution	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 12-2	3032-3042	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 12-3	3043-3049	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -590,6 +602,7 @@
 12-54	3249-3250	)	_
 12-55	3251-3252	.	_
 
+Text=The resting-state data were acquired from a gradient-echo echo-planar image sequence (dataset 1: 180 vol, 38 slices with no inter-slice gap, TR = 2 s, matrix = 92 × 92, FOV = 230 mm, FA = 90°, voxel size 2.5 × 2.5 × 3.3 mm3, 6 min duration; dataset 2: 120 vol; 36 slices with no inter-slice gap, TR = 3 s, matrix = 64 × 64, FOV = 220 mm, FA = 90°, voxel size 3.5 × 3.5 × 4.0 mm3, 6 min duration).
 13-1	3253-3256	The	_
 13-2	3257-3270	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 13-3	3271-3275	data	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -696,6 +709,7 @@
 13-104	3666-3667	)	_
 13-105	3668-3669	.	_
 
+Text=Data analysis For the resting-state data analysis, group-level ICA combined with dual-regression approach was performed to detect large-scale generic RSN including right FPN, limbic network and other sensory related networks across our resting-state data sets (e.g.,) ICA was carried out using MELODIC Version 3.14, part of FSL (FMRIB's Software Library, www.fmrib.ox.ac.uk/fsl).
 14-1	3670-3674	Data	_
 14-2	3675-3683	analysis	_
 14-3	3684-3687	For	_
@@ -759,6 +773,7 @@
 14-61	4057-4058	)	_
 14-62	4059-4060	.	_
 
+Text=Preprocessing procedure was applied for individual data (128 s high-pass; 6 mm smoothing; masking of non-brain voxels; voxel-wise de-meaning; normalized voxel-wise variance; normalized into 2mm-MNI-standard via individual T1-weighted anatomical image).
 15-1	4061-4074	Preprocessing	_
 15-2	4075-4084	procedure	_
 15-3	4085-4088	was	_
@@ -798,6 +813,7 @@
 15-37	4318-4319	)	_
 15-38	4320-4321	.	_
 
+Text=During the preprocessing, individual level ICA denoising procedure was conducted to remove artifact signal such as motion and physio noise from the data by using an automated signal classification toolbox (; an average of 4.3 components (13.7%) were removed from each participant; see supplementary Fig.
 16-1	4322-4328	During	_
 16-2	4329-4332	the	_
 16-3	4333-4346	preprocessing	_
@@ -851,6 +867,7 @@
 16-51	4627-4630	Fig	_
 16-52	4631-4632	.	_
 
+Text=1 that indicates representative noise components trained the classifier to be automatically regressed out from individual data; mean FD = 0.05 mm, SD = 0.025 mm, range: 0.02–0.18 mm).
 17-1	4633-4634	1	_
 17-2	4635-4639	that	_
 17-3	4640-4649	indicates	_
@@ -887,6 +904,7 @@
 17-34	4819-4820	)	_
 17-35	4821-4822	.	_
 
+Text=Although there are several strategies suggested to rigorously correct for motion-related noise in resting state data, such as spike regression with 24-type of motion parameters and individual high-motion contaminated volume scrubbing, several drawbacks of these strategies also exist such that they can introduce overfitting by the use of a large set of nuisance regressors, linear assumption about motion, and negative influences in the autocorrelation structure of data (see).
 18-1	4823-4831	Although	_
 18-2	4832-4837	there	_
 18-3	4838-4841	are	_
@@ -963,6 +981,7 @@
 18-74	5305-5306	)	_
 18-75	5307-5308	.	_
 
+Text=Therefore, we applied ICA denoising approach for the current analysis given the recent evidence that ICA denoising can effectively enhance the fidelity of data quality in terms of motion control (e.g.,).
 19-1	5309-5318	Therefore	_
 19-2	5319-5320	,	_
 19-3	5321-5323	we	_
@@ -1000,6 +1019,7 @@
 19-35	5514-5515	)	_
 19-36	5516-5517	.	_
 
+Text=Furthermore, it has been well demonstrated that RSNs estimated by ICA are less prone to artefactual effects from noise such as physiological signal, global signal fluctuation and motion due to the ability of ICA to account for the existence of such noise effects within additional non-RSN components (for more comprehensive review, please see).
 20-1	5518-5529	Furthermore	_
 20-2	5530-5531	,	_
 20-3	5532-5534	it	_
@@ -1060,6 +1080,7 @@
 20-58	5865-5866	)	_
 20-59	5867-5868	.	_
 
+Text=To find the most representative functional networks from our entire dataset, preprocessed and denoised data were temporally concatenated into a single 4D file and applied to group level ICA with probabilistic principal component analysis (PCA) where the number of dimensions was estimated using the Laplace approximation to the Bayesian evidence of the model order, yielding 19 network spatial maps.
 21-1	5869-5871	To	_
 21-2	5872-5876	find	_
 21-3	5877-5880	the	_
@@ -1125,6 +1146,7 @@
 21-63	6267-6271	maps	_
 21-64	6272-6273	.	_
 
+Text=To distinguish group-level brain networks from artifactual components (e.g., residual head movement and physiological noise) and to identify canonical resting state networks, all network maps were spatially cross-correlated with canonical RSN templates (i.e., template-matching procedure; e.g.,) acquired from previous resting-state studies.
 22-1	6274-6276	To	_
 22-2	6277-6288	distinguish	_
 22-3	6289-6300	group-level	_
@@ -1177,6 +1199,7 @@
 22-50	6616-6623	studies	_
 22-51	6624-6625	.	_
 
+Text=We finally identified 13 intrinsic RSNs (Supplementary Fig.
 23-1	6626-6628	We	_
 23-2	6629-6636	finally	_
 23-3	6637-6647	identified	_
@@ -1188,6 +1211,7 @@
 23-9	6682-6685	Fig	_
 23-10	6686-6687	.	_
 
+Text=2) including the right FPN and limbic networks (Fig.
 24-1	6688-6689	2	_
 24-2	6690-6691	)	_
 24-3	6692-6701	including	_
@@ -1201,6 +1225,7 @@
 24-11	6738-6741	Fig	_
 24-12	6742-6743	.	_
 
+Text=2A; see also Supplementary Fig.
 25-1	6744-6746	2A	_
 25-2	6747-6748	;	_
 25-3	6749-6752	see	_
@@ -1209,12 +1234,14 @@
 25-6	6772-6775	Fig	_
 25-7	6776-6777	.	_
 
+Text=3 and 4).
 26-1	6778-6779	3	_
 26-2	6780-6783	and	_
 26-3	6784-6785	4	_
 26-4	6786-6787	)	_
 26-5	6788-6789	.	_
 
+Text=The six remaining group level components were considered artifactual (e.g., physiological) due to predominant activation in white matter, ventricles, vasculature, or head movement.
 27-1	6790-6793	The	_
 27-2	6794-6797	six	_
 27-3	6798-6807	remaining	_
@@ -1246,6 +1273,7 @@
 27-29	6967-6975	movement	_
 27-30	6976-6977	.	_
 
+Text=Following group-level ICA, dual regression was applied to the adolescent dataset to estimate individual-specific temporal dynamics (i.e., time-series data) and associated spatial maps based on the group-level ICA network maps.
 28-1	6978-6987	Following	_
 28-2	6988-6999	group-level	_
 28-3	7000-7003	ICA	_
@@ -1282,6 +1310,7 @@
 28-34	7203-7207	maps	_
 28-35	7208-7209	.	_
 
+Text=Although the right FPN and limbic networks were our main interests, we performed linear model estimation with the full set of group-level ICA spatial maps against the separate individual data sets to extract subject-specific temporal dynamics for each component map (i.e., spatial regression) in the absence of influence of other network dynamics.
 29-1	7210-7218	Although	_
 29-2	7219-7222	the	_
 29-3	7223-7228	right	_
@@ -1340,6 +1369,7 @@
 29-56	7552-7560	dynamics	_
 29-57	7561-7562	.	_
 
+Text=The estimated individual time-course data were then put into subsequent linear-model estimation against individual ’ s data set to estimate subject-specific spatial maps (i.e., temporal regression).
 30-1	7563-7566	The	_
 30-2	7567-7576	estimated	_
 30-3	7577-7587	individual	_
@@ -1371,6 +1401,7 @@
 30-29	7762-7763	)	_
 30-30	7764-7765	.	_
 
+Text=To estimate between-RSN network functional coupling, the correlation coefficient between time-series of the right FPN and limbic networks was finally calculated for each individual adolescent (e.g.,).
 31-1	7766-7768	To	_
 31-2	7769-7777	estimate	_
 31-3	7778-7789	between-RSN	_
@@ -1403,6 +1434,7 @@
 31-30	7968-7969	)	_
 31-31	7970-7971	.	_
 
+Text=Measures for adolescent substance use and self-control 2.4.1.
 32-1	7972-7980	Measures	_
 32-2	7981-7984	for	_
 32-3	7985-7995	adolescent	_
@@ -1413,10 +1445,12 @@
 32-8	8027-8032	2.4.1	_
 32-9	8033-8034	.	_
 
+Text=Substance use.
 33-1	8035-8044	Substance	_
 33-2	8045-8048	use	_
 33-3	8049-8050	.	_
 
+Text=We used the Center for Disease Control and Prevention Youth Risk Behavior Survey (YRBS) Questionnaire, which is a common measure of substance use.
 34-1	8051-8053	We	_
 34-2	8054-8058	used	_
 34-3	8059-8062	the	_
@@ -1445,6 +1479,7 @@
 34-26	8196-8199	use	_
 34-27	8200-8201	.	_
 
+Text=This in-depth questionnaire asks about lifetime substance use (i.e., more than two puffs or sips for the following substance: cigarettes, alcohol, marijuana, prescription drugs without a doctor ’ s prescription, cocaine and other illegal drugs).
 35-1	8202-8206	This	_
 35-2	8207-8215	in-depth	_
 35-3	8216-8229	questionnaire	_
@@ -1490,6 +1525,7 @@
 35-43	8453-8454	)	_
 35-44	8455-8456	.	_
 
+Text=Adolescents used a 7-point scale to indicate the first time they used any of these substance (1 = “ less than nine years old, ” 2 = ” 9–10 years old, ” 3 = ” 11–12 years old, ” 4 = ” 13–14 years old ” 5 = ” 15–16 years old ” 6 = ” 17 years or older ”, 7 = ” never used ”).
 36-1	8457-8468	Adolescents	_
 36-2	8469-8473	used	_
 36-3	8474-8475	a	_
@@ -1565,6 +1601,7 @@
 36-73	8733-8734	)	_
 36-74	8735-8736	.	_
 
+Text=No participants had used cocaine, prescription drugs without a doctor ’ s prescription, or other illegal drugs in the current study.
 37-1	8737-8739	No	_
 37-2	8740-8752	participants	_
 37-3	8753-8756	had	_
@@ -1590,6 +1627,7 @@
 37-23	8865-8870	study	_
 37-24	8871-8872	.	_
 
+Text=We used age of earliest onset for marijuana, alcohol, or cigarettes as our index of substance use-behaviors.
 38-1	8873-8875	We	_
 38-2	8876-8880	used	_
 38-3	8881-8884	age	_
@@ -1611,6 +1649,7 @@
 38-19	8969-8982	use-behaviors	_
 38-20	8983-8984	.	_
 
+Text=See Table 1 for descriptives of substance use onset.
 39-1	8985-8988	See	_
 39-2	8989-8994	Table	_
 39-3	8995-8996	1	_
@@ -1622,6 +1661,7 @@
 39-9	9031-9036	onset	_
 39-10	9037-9038	.	_
 
+Text=Two adolescents did not complete the questionnaire.
 40-1	9039-9042	Two	_
 40-2	9043-9054	adolescents	_
 40-3	9055-9058	did	_
@@ -1631,12 +1671,15 @@
 40-7	9076-9089	questionnaire	_
 40-8	9090-9091	.	_
 
+Text=2.4.2.
 41-1	9092-9097	2.4.2	_
 41-2	9098-9099	.	_
 
+Text=Self-control.
 42-1	9100-9112	Self-control	_
 42-2	9113-9114	.	_
 
+Text=To assess general cognitive control ability, we used the Brief Self-Control Scale (BSCS) to measure dispositional self-regulatory behaviors (e.g., “ I am good at resisting temptation ” and “ I am able to work effectively toward long-term goals ”) using a 7-point scale (1 = “ strongly disagree ” to 7 = “ strongly agree ”).
 43-1	9115-9117	To	_
 43-2	9118-9124	assess	_
 43-3	9125-9132	general	_
@@ -1703,6 +1746,7 @@
 43-64	9444-9445	)	_
 43-65	9446-9447	.	_
 
+Text=The scale ’ s internal consistency was α = 0.83.
 44-1	9448-9451	The	_
 44-2	9452-9457	scale	_
 44-3	9458-9459	’	_

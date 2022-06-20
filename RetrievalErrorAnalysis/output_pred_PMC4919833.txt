@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Brain activation differences in schizophrenia during context-dependent processing of saccade tasks Background Brain function in schizophrenia has been probed using saccade paradigms and functional magnetic resonance imaging, but little information exists about how changing task context impacts saccade related brain activation and behavioral performance.
 1-1	0-5	Brain	_
 1-2	6-16	activation	_
 1-3	17-28	differences	_
@@ -49,6 +50,7 @@
 1-45	344-355	performance	_
 1-46	356-357	.	_
 
+Text=We recruited schizophrenia and comparison subjects to perform saccade tasks in differing contexts: (1) two single task runs (anti- or pro-saccades alternating with fixation) and (2) one dual task run (antisaccades alternating with prosaccades).
 2-1	358-360	We	_
 2-2	361-370	recruited	_
 2-3	371-384	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -94,6 +96,7 @@
 2-43	609-610	)	_
 2-44	611-612	.	_
 
+Text=Results Context-dependent differences in saccade circuitry were evaluated using ROI analyses.
 3-1	613-620	Results	_
 3-2	621-638	Context-dependent	_
 3-3	639-650	differences	_
@@ -107,6 +110,7 @@
 3-11	697-705	analyses	_
 3-12	706-707	.	_
 
+Text=Distinction between anti- and pro-saccade activation across contexts (single versus dual task) suggests that the schizophrenia group did not respond to context in the same way as the comparison group.
 4-1	708-719	Distinction	_
 4-2	720-727	between	_
 4-3	728-733	anti-	_
@@ -141,6 +145,7 @@
 4-32	904-909	group	_
 4-33	910-911	.	_
 
+Text=Conclusions Further investigation of context processing effects on brain activation and saccade performance measures informs models of cognitive deficits in the disorder and enhances understanding of antisaccades as a potential endophenotype for schizophrenia.
 5-1	912-923	Conclusions	_
 5-2	924-931	Further	_
 5-3	932-945	investigation	_
@@ -176,6 +181,7 @@
 5-33	1158-1171	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 5-34	1172-1173	.	_
 
+Text=Electronic supplementary material The online version of this article (doi:10.1186/s12993-016-0103-2) contains supplementary material, which is available to authorized users.
 6-1	1174-1184	Electronic	_
 6-2	1185-1198	supplementary	_
 6-3	1199-1207	material	_
@@ -200,6 +206,7 @@
 6-22	1344-1349	users	_
 6-23	1350-1351	.	_
 
+Text=Methods Subjects We recruited thirty DSM-IV-TR diagnosed schizophrenia subjects (age M = 37.8 years, SD = 10.5; 60% male, 27 right handed) and twenty-nine comparison subjects (age M = 36.3 years, SD = 11.2; 55% male, 26 right handed).
 7-1	1352-1359	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 7-2	1360-1368	Subjects	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 7-3	1369-1371	We	_
@@ -253,6 +260,7 @@
 7-51	1596-1597	)	_
 7-52	1598-1599	.	_
 
+Text=Comparison subjects were given the non-patient edition of the structured clinical interview for DSM-IV-TR and the schizotypal personality questionnaire (SPQ) to rule out existing psychopathology.
 8-1	1600-1610	Comparison	_
 8-2	1611-1619	subjects	_
 8-3	1620-1624	were	_
@@ -282,6 +290,7 @@
 8-27	1781-1796	psychopathology	_
 8-28	1797-1798	.	_
 
+Text=All subjects signed an informed consent and were screened for confounding factors: head trauma, drug use, and/or criteria related to MRI compatibility.
 9-1	1799-1802	All	_
 9-2	1803-1811	subjects	_
 9-3	1812-1818	signed	_
@@ -309,6 +318,7 @@
 9-25	1939-1952	compatibility	_
 9-26	1953-1954	.	_
 
+Text=This study was approved by the University of Georgia (UGA) Institutional Review Board.
 10-1	1955-1959	This	_
 10-2	1960-1965	study	_
 10-3	1966-1969	was	_
@@ -326,6 +336,7 @@
 10-15	2037-2042	Board	_
 10-16	2043-2044	.	_
 
+Text=Procedure Imaging was performed at the UGA Bio-Imaging Research Center with a GE Excite HD 3.0T MRI scanner (Milwaukee, Wisconsin, USA).
 11-1	2045-2054	Procedure	_
 11-2	2055-2062	Imaging	_
 11-3	2063-2066	was	_
@@ -353,6 +364,7 @@
 11-25	2183-2184	)	_
 11-26	2185-2186	.	_
 
+Text=Subjects were given task-specific instructions before being positioned in the scanner.
 12-1	2187-2195	Subjects	_
 12-2	2196-2200	were	_
 12-3	2201-2206	given	_
@@ -366,6 +378,7 @@
 12-11	2265-2272	scanner	_
 12-12	2273-2274	.	_
 
+Text=Heads were stabilized with foam padding and a forehead strap.
 13-1	2275-2280	Heads	_
 13-2	2281-2285	were	_
 13-3	2286-2296	stabilized	_
@@ -378,6 +391,7 @@
 13-10	2330-2335	strap	_
 13-11	2336-2337	.	_
 
+Text=Subjects viewed stimuli through a dual mirror box (16 cm above and in front of the eyes) on a screen at their feet (174 cm from the nasion).
 14-1	2338-2346	Subjects	_
 14-2	2347-2353	viewed	_
 14-3	2354-2361	stimuli	_
@@ -412,6 +426,7 @@
 14-32	2480-2481	)	_
 14-33	2482-2483	.	_
 
+Text=Imaging acquisition included a fast 3D T1-weighted structural scan BRAVO protocol (TE = 4.6 ms, TR = 10.8 ms, flip angle = 13°, matrix = 352 × 224, FOV = 24 cm, in-slice resolution .68 × 1.07, 1.2 mm slice thickness, 150 slices, scan time 3 min 7 s) to determine the angle of acquisition along the AC-PC line.
 15-1	2484-2491	Imaging	_
 15-2	2492-2503	acquisition	_
 15-3	2504-2512	included	_
@@ -483,6 +498,7 @@
 15-69	2798-2802	line	_
 15-70	2803-2804	.	_
 
+Text=An additional T1-weighted 3D FSPGR sequence (TE = Min-Full, TR = 7.8 ms, flip angle = 20°, matrix = 256 × 256, FOV = 24 cm, in-slice resolution .9375 × .9375, 1.2 mm slice thickness, 150 axial slices, scan time 6 min 20 s) was acquired to obtain a high resolution image of subjects ’ brain anatomy.
 16-1	2805-2807	An	_
 16-2	2808-2818	additional	_
 16-3	2819-2830	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -552,6 +568,7 @@
 16-67	3105-3112	anatomy	_
 16-68	3113-3114	.	_
 
+Text=Three T2 * -weighted gradient echo whole brain EPI scans also were collected (TE = 30 ms, TR = 2000 ms, flip angle = 90°, matrix = 64 × 64, FOV = 22 cm, in-slice resolution 3.4375 × 3.4375, 4 mm slice thickness, 33 slices, oblique acquisition (AC-PC aligned), 180 volumes, scan time 6 min 12 s) while eye movements were recorded (MEyeTrack LR, SensoMotoric Instruments, Inc., Berlin, Germany).
 17-1	3115-3120	Three	_
 17-2	3121-3123	T2	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 17-3	3124-3125	*	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -643,6 +660,7 @@
 17-89	3526-3527	)	_
 17-90	3528-3529	.	_
 
+Text=During the three T2 * scans, subjects performed two single task runs of saccades (blocks of anti- or pro-saccades alternating with blocks of fixation-Anti/Fix and Pro/Fix respectively) and one dual task run of saccades (blocks of antisaccades alternating with blocks of prosaccades-Anti/Pro).
 18-1	3530-3536	During	_
 18-2	3537-3540	the	_
 18-3	3541-3546	three	_
@@ -692,6 +710,7 @@
 18-47	3825-3826	)	_
 18-48	3827-3828	.	_
 
+Text=Saccade blocks in each run contained 7 trials.
 19-1	3829-3836	Saccade	_
 19-2	3837-3843	blocks	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 19-3	3844-3846	in	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -702,6 +721,7 @@
 19-8	3868-3874	trials	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 19-9	3875-3876	.	_
 
+Text=The Anti/Fix and Pro/Fix runs, therefore, contained 42 trials each (6 blocks × 7 trials) and the Anti/Pro run contained 42 antisaccade trials (6 blocks × 7 trials) and 47 prosaccade trials (7 blocks × 7 trials).
 20-1	3877-3880	The	_
 20-2	3881-3889	Anti/Fix	http://maven.renci.org/NeuroBridge/neurobridge#NicotineAbuse
 20-3	3890-3893	and	_
@@ -749,6 +769,7 @@
 20-45	4094-4095	)	_
 20-46	4096-4097	.	_
 
+Text=Run order was counterbalanced across subjects.
 21-1	4098-4101	Run	_
 21-2	4102-4107	order	_
 21-3	4108-4111	was	_
@@ -757,18 +778,21 @@
 21-6	4135-4143	subjects	_
 21-7	4144-4145	.	_
 
+Text=See Dyckman et al.
 22-1	4146-4149	See	_
 22-2	4150-4157	Dyckman	_
 22-3	4158-4160	et	_
 22-4	4161-4163	al	_
 22-5	4164-4165	.	_
 
+Text=for saccade task instructions.
 23-1	4166-4169	for	_
 23-2	4170-4177	saccade	_
 23-3	4178-4182	task	_
 23-4	4183-4195	instructions	_
 23-5	4196-4197	.	_
 
+Text=Task parameters, stimuli, and timing are shown in Fig.
 24-1	4198-4202	Task	_
 24-2	4203-4213	parameters	_
 24-3	4214-4215	,	_
@@ -782,9 +806,11 @@
 24-11	4250-4253	Fig	_
 24-12	4254-4255	.	_
 
+Text=1.
 25-1	4256-4257	1	_
 25-2	4258-4259	.	_
 
+Text=Analysis Behavior Eye movement data were scored in MATLAB (The Mathworks Inc., Natick, MA, USA).
 26-1	4260-4268	Analysis	_
 26-2	4269-4277	Behavior	_
 26-3	4278-4281	Eye	_
@@ -807,6 +833,7 @@
 26-20	4359-4360	)	_
 26-21	4361-4362	.	_
 
+Text=Saccade performance measures included percent correct (PC) [(number of correct trials/total number of usable trials) ×100] and correct reaction time (RT) (time in ms between peripheral stimulus presentation and saccade start) for each subject and each saccade task in the three imaging runs (Anti/Fix, Pro/Fix, Anti/Pro).
 27-1	4363-4370	Saccade	_
 27-2	4371-4382	performance	_
 27-3	4383-4391	measures	_
@@ -869,6 +896,7 @@
 27-60	4696-4697	)	_
 27-61	4698-4699	.	_
 
+Text=Percent of corrected errors [(number of corrected errors/total number of errors) ×100] for antisaccades also was calculated in order to assess subjects ’ understanding of the task.
 28-1	4700-4707	Percent	_
 28-2	4708-4710	of	_
 28-3	4711-4720	corrected	_
@@ -902,6 +930,7 @@
 28-31	4879-4883	task	_
 28-32	4884-4885	.	_
 
+Text=Eye movements for 2/30 schizophrenia and 2/29 comparison subjects were not obtained due to technical difficulties.
 29-1	4886-4889	Eye	_
 29-2	4890-4899	movements	_
 29-3	4900-4903	for	_
@@ -920,6 +949,7 @@
 29-16	4987-4999	difficulties	_
 29-17	5000-5001	.	_
 
+Text=Subjects with missing eye movement data sufficiently performed all tasks and were included in the imaging analyses.
 30-1	5002-5010	Subjects	_
 30-2	5011-5015	with	_
 30-3	5016-5023	missing	_
@@ -939,6 +969,7 @@
 30-17	5108-5116	analyses	_
 30-18	5117-5118	.	_
 
+Text=fMRI Preprocessing of functional images was completed with analysis of functional neuroimages (AFNI) software and included despiking, slice timing correction, registration to a representative volume for movement, alignment of functional data to anatomy, smoothing with a 4 mm full-width at half-maximum (FWHM) Gaussian filter, and scaling each voxel to a mean of 100.
 31-1	5119-5123	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 31-2	5124-5137	Preprocessing	_
 31-3	5138-5140	of	_
@@ -1003,6 +1034,7 @@
 31-62	5491-5494	100	_
 31-63	5495-5496	.	_
 
+Text=Functional images for each subject were masked using the subject ’ s anatomical image and warped to talairach space in preparation for reference function estimation via a probabilistic independent component analysis (PICA) (using MELODIC in FMRIB Software Library).
 32-1	5497-5507	Functional	_
 32-2	5508-5514	images	_
 32-3	5515-5518	for	_
@@ -1047,6 +1079,7 @@
 32-42	5764-5765	)	_
 32-43	5766-5767	.	_
 
+Text=Blocked design fMRI data is commonly analyzed by testing voxel time courses against hypothesized reference functions created by convolving block onsets and their durations with the hemodynamic response.
 33-1	5768-5775	Blocked	_
 33-2	5776-5782	design	_
 33-3	5783-5787	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1077,6 +1110,7 @@
 33-28	5961-5969	response	_
 33-29	5970-5971	.	_
 
+Text=These reference functions do not fully characterize the data, however, and are likely unrealistic when modeling data with multiple contributing sources of signal and noise.
 34-1	5972-5977	These	_
 34-2	5978-5987	reference	_
 34-3	5988-5997	functions	_
@@ -1106,6 +1140,7 @@
 34-27	6140-6145	noise	_
 34-28	6146-6147	.	_
 
+Text=We used PICA to obtain a data-driven reference function for use in a later GLM analysis, similar to that suggested in McKeown et al .. PICA was chosen for reference function estimation because of its agnostic approach and its ability to reduce problems of overfitting, which can be the case when using hypothesis driven reference functions and GLM methods.
 35-1	6148-6150	We	_
 35-2	6151-6155	used	_
 35-3	6156-6160	PICA	_
@@ -1169,6 +1204,7 @@
 35-61	6498-6505	methods	_
 35-62	6506-6507	.	_
 
+Text=Furthermore, analyses in the present study were meant to closely match those in Dyckman et al.
 36-1	6508-6519	Furthermore	_
 36-2	6520-6521	,	_
 36-3	6522-6530	analyses	_
@@ -1188,6 +1224,7 @@
 36-17	6600-6602	al	_
 36-18	6603-6604	.	_
 
+Text=to ensure comparability of results.
 37-1	6605-6607	to	_
 37-2	6608-6614	ensure	_
 37-3	6615-6628	comparability	_
@@ -1195,6 +1232,7 @@
 37-5	6632-6639	results	_
 37-6	6640-6641	.	_
 
+Text=Each run was averaged across subjects followed by concatenation of the three runs in space.
 38-1	6642-6646	Each	_
 38-2	6647-6650	run	_
 38-3	6651-6654	was	_
@@ -1212,6 +1250,7 @@
 38-15	6727-6732	space	_
 38-16	6733-6734	.	_
 
+Text=Averaging across subjects is one alternative when estimating component maps using ICA.
 39-1	6735-6744	Averaging	_
 39-2	6745-6751	across	_
 39-3	6752-6760	subjects	_
@@ -1226,6 +1265,7 @@
 39-12	6817-6820	ICA	_
 39-13	6821-6822	.	_
 
+Text=With a large number of subjects, it reduces the computational load, yet accurately estimates associated time courses.
 40-1	6823-6827	With	_
 40-2	6828-6829	a	_
 40-3	6830-6835	large	_
@@ -1247,6 +1287,7 @@
 40-19	6934-6941	courses	_
 40-20	6942-6943	.	_
 
+Text=PICA returned 43 spatially independent components.
 41-1	6944-6948	PICA	_
 41-2	6949-6957	returned	_
 41-3	6958-6960	43	_
@@ -1255,6 +1296,7 @@
 41-6	6983-6993	components	_
 41-7	6994-6995	.	_
 
+Text=By referring to a scree plot of the percent of variance accounted for and visual inspection of the time course for each component, we selected the first four as ideal reference waveforms.
 42-1	6996-6998	By	_
 42-2	6999-7008	referring	_
 42-3	7009-7011	to	_
@@ -1290,6 +1332,7 @@
 42-33	7174-7183	waveforms	_
 42-34	7184-7185	.	_
 
+Text=Components are ordered by their explained variance and ranged from 7.91 to 1.6%; the percentage associated with the 4th component was 3.5%.
 43-1	7186-7196	Components	_
 43-2	7197-7200	are	_
 43-3	7201-7208	ordered	_
@@ -1317,6 +1360,7 @@
 43-25	7326-7327	%	_
 43-26	7328-7329	.	_
 
+Text=The first four components showed the same peak frequency and time course as the experimental design.
 44-1	7330-7333	The	_
 44-2	7334-7339	first	_
 44-3	7340-7344	four	_
@@ -1335,6 +1379,7 @@
 44-16	7423-7429	design	_
 44-17	7430-7431	.	_
 
+Text=A GLM (using AFNI ’ s 3dFIM+) was then performed for each subject between the time series of the first four PICA components and the BOLD time series in each voxel for each run.
 45-1	7432-7433	A	_
 45-2	7434-7437	GLM	_
 45-3	7438-7439	(	_
@@ -1373,6 +1418,7 @@
 45-36	7606-7609	run	_
 45-37	7610-7611	.	_
 
+Text=Movement estimates from registration in the preprocessing stage and functions characterizing scanner drift (linear, quadratic, and cubic) were used as regressors of no interest.
 46-1	7612-7620	Movement	_
 46-2	7621-7630	estimates	_
 46-3	7631-7635	from	_
@@ -1403,6 +1449,7 @@
 46-28	7784-7792	interest	_
 46-29	7793-7794	.	_
 
+Text=For each run, results returned a voxel-wise best fit correlation co-efficient with one of the four task related components (see Dyckman et al .).
 47-1	7795-7798	For	_
 47-2	7799-7803	each	_
 47-3	7804-7807	run	_
@@ -1432,6 +1479,7 @@
 47-27	7941-7942	)	_
 47-28	7943-7944	.	_
 
+Text=From the chosen component, percent signal change was calculated for each voxel.
 48-1	7945-7949	From	_
 48-2	7950-7953	the	_
 48-3	7954-7960	chosen	_
@@ -1447,6 +1495,7 @@
 48-13	8019-8024	voxel	_
 48-14	8025-8026	.	_
 
+Text=This value was used to characterize activation for each run: activation related to antisaccades compared to fixation in the Anti/Fix run, activation related to prosaccades compared to fixation in the Pro/Fix run, and activation related to antisaccades compared to prosaccades in the Anti/Pro run.
 49-1	8027-8031	This	_
 49-2	8032-8037	value	_
 49-3	8038-8041	was	_
@@ -1496,6 +1545,7 @@
 49-47	8322-8325	run	_
 49-48	8326-8327	.	_
 
+Text=Activation in saccade circuitry was evaluated with ROI analyses.
 50-1	8328-8338	Activation	_
 50-2	8339-8341	in	_
 50-3	8342-8349	saccade	_
@@ -1507,6 +1557,7 @@
 50-9	8383-8391	analyses	_
 50-10	8392-8393	.	_
 
+Text=ROIs were 8 mm spheres centered on coordinates reported in Dyckman et al.
 51-1	8394-8398	ROIs	_
 51-2	8399-8403	were	_
 51-3	8404-8405	8	_
@@ -1522,6 +1573,7 @@
 51-13	8464-8466	al	_
 51-14	8467-8468	.	_
 
+Text=and included supplementary eye fields (SEF), lateral frontal eye fields (latFEF), medial frontal eye fields (medFEF), prefrontal cortex (PFC), precuneus, cuneus, middle occipital gyrus (MOG), inferior parietal lobule (IPL), striatum, and thalamus.
 52-1	8469-8472	and	_
 52-2	8473-8481	included	_
 52-3	8482-8495	supplementary	_
@@ -1577,6 +1629,7 @@
 52-53	8728-8736	thalamus	_
 52-54	8737-8738	.	_
 
+Text=For each individual and for each run, ROI spheres were overlaid on functional maps.
 53-1	8739-8742	For	_
 53-2	8743-8747	each	_
 53-3	8748-8758	individual	_
@@ -1594,6 +1647,7 @@
 53-15	8818-8822	maps	_
 53-16	8823-8824	.	_
 
+Text=The percent signal change from voxels encompassed by the ROI masks were averaged and output as a single value for each ROI.
 54-1	8825-8828	The	_
 54-2	8829-8836	percent	_
 54-3	8837-8843	signal	_
@@ -1618,6 +1672,7 @@
 54-22	8944-8947	ROI	_
 54-23	8948-8949	.	_
 
+Text=The average percent signal change across subjects was then calculated for each ROI in each run.
 55-1	8950-8953	The	_
 55-2	8954-8961	average	_
 55-3	8962-8969	percent	_
@@ -1636,6 +1691,7 @@
 55-16	9041-9044	run	_
 55-17	9045-9046	.	_
 
+Text=Differences between anti- and pro-saccade activation in the single task runs (Anti/Fix vs. Pro/Fix) were quantified with dependent sample t-tests.
 56-1	9047-9058	Differences	_
 56-2	9059-9066	between	_
 56-3	9067-9072	anti-	_
@@ -1660,6 +1716,7 @@
 56-22	9187-9194	t-tests	_
 56-23	9195-9196	.	_
 
+Text=Differences between anti- and pro-saccade activation in the dual task run were quantified with one sample t-tests (Anti/Pro vs. 0).
 57-1	9197-9208	Differences	_
 57-2	9209-9216	between	_
 57-3	9217-9222	anti-	_
@@ -1684,6 +1741,7 @@
 57-22	9328-9329	)	_
 57-23	9330-9331	.	_
 
+Text=The effect of context (difference in activation between anti- and pro-saccades in the single vs. dual task run) was evaluated with a subtraction method.
 58-1	9332-9335	The	_
 58-2	9336-9342	effect	_
 58-3	9343-9345	of	_
@@ -1712,6 +1770,7 @@
 58-26	9479-9485	method	_
 58-27	9486-9487	.	_
 
+Text=Activation in the Pro/Fix run was subtracted from that in the Anti/Fix run for all ROIs in each subject.
 59-1	9488-9498	Activation	_
 59-2	9499-9501	in	_
 59-3	9502-9505	the	_
@@ -1733,6 +1792,7 @@
 59-19	9584-9591	subject	_
 59-20	9592-9593	.	_
 
+Text=This difference was compared to activation in the Anti/Pro run (because of the block design nature, the Anti/Pro run was already the difference in activation between anti- and pro-saccades).
 60-1	9594-9598	This	_
 60-2	9599-9609	difference	_
 60-3	9610-9613	was	_
@@ -1767,6 +1827,7 @@
 60-32	9785-9786	)	_
 60-33	9787-9788	.	_
 
+Text=To quantify significant differences between anti- and pro-saccade activation in the single vs. dual task runs, dependent t test were done within each group.
 61-1	9789-9791	To	_
 61-2	9792-9800	quantify	_
 61-3	9801-9812	significant	_
@@ -1794,6 +1855,7 @@
 61-25	9940-9945	group	_
 61-26	9946-9947	.	_
 
+Text=All tests were two-tailed and thresholds for significance were set at p = .05.
 62-1	9948-9951	All	_
 62-2	9952-9957	tests	_
 62-3	9958-9962	were	_

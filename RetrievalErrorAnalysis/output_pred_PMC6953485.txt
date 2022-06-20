@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Fronto-striatal effective connectivity of working memory in adults with cannabis use disorder Previous working memory (WM) studies found that relative to controls, subjects with cannabis use disorder (CUD) showed greater brain activation in some regions (e.g., left [L] and right [R] ventrolateral prefrontal cortex [VLPFC], and L dorsolateral prefrontal cortex [L-DLPFC]), and lower activation in other regions (e.g., R-DLPFC).
 1-1	0-15	Fronto-striatal	_
 1-2	16-25	effective	_
 1-3	26-38	connectivity	_
@@ -84,6 +85,7 @@
 1-80	447-448	)	_
 1-81	449-450	.	_
 
+Text=In this study, effective connectivity (EC) analysis was applied to functional magnetic resonance imaging data acquired from 23 CUD subjects and 23 controls (two groups matched for sociodemographic factors and substance use history) while performing an n-back WM task with interleaved 2-back and 0-back periods.
 2-1	451-453	In	_
 2-2	454-458	this	_
 2-3	459-464	study	_
@@ -136,6 +138,7 @@
 2-50	758-765	periods	_
 2-51	766-767	.	_
 
+Text=A 2-back minus 0-back modulator was defined to measure the modulatory changes of EC corresponding to the 2-back relative to 0-back conditions.
 3-1	768-769	A	_
 3-2	770-776	2-back	_
 3-3	777-782	minus	_
@@ -160,6 +163,7 @@
 3-22	899-909	conditions	_
 3-23	910-911	.	_
 
+Text=Compared to the controls, the CUD group showed smaller modulatory change in the R-DLPFC to L-caudate pathway, and greater modulatory changes in L-DLPFC to L-caudate, R-DLPFC to R- caudate, and R-VLPFC to L-caudate pathways.
 4-1	912-920	Compared	_
 4-2	921-923	to	_
 4-3	924-927	the	_
@@ -200,6 +204,7 @@
 4-38	1130-1138	pathways	_
 4-39	1139-1140	.	_
 
+Text=Based on previous fMRI studies consistently suggesting that greater brain activations are related to a compensatory mechanism for cannabis neural effects (less regional brain activations), the smaller modulatory change in the R-DLPFC to L-caudate EC may be compensated by the larger modulatory changes in the other prefrontal-striatal ECs in the CUD individuals.
 5-1	1141-1146	Based	_
 5-2	1147-1149	on	_
 5-3	1150-1158	previous	_
@@ -257,6 +262,7 @@
 5-55	1494-1505	individuals	_
 5-56	1506-1507	.	_
 
+Text=Methods and materials Participants Data were obtained from the Human Connectome Project (HCP).
 6-1	1508-1515	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 6-2	1516-1519	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 6-3	1520-1529	materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -274,6 +280,7 @@
 6-15	1602-1603	)	_
 6-16	1604-1605	.	_
 
+Text=The experiments were performed in accordance with relevant guidelines and regulations and all experimental protocol was approved by the Institutional Review Board (IRB) (IRB #201204036; Title: ‘ Mapping the Human Connectome: Structure, Function, and Heritability ’).
 7-1	1606-1609	The	_
 7-2	1610-1621	experiments	_
 7-3	1622-1626	were	_
@@ -322,6 +329,7 @@
 7-46	1880-1881	)	_
 7-47	1882-1883	.	_
 
+Text=Written informed consent was obtained from all participants.
 8-1	1884-1891	Written	_
 8-2	1892-1900	informed	_
 8-3	1901-1908	consent	_
@@ -332,6 +340,7 @@
 8-8	1931-1943	participants	_
 8-9	1944-1945	.	_
 
+Text=Our data analysis was performed in accordance with ethical guidelines of the Virginia Commonwealth University.
 9-1	1946-1949	Our	_
 9-2	1950-1954	data	_
 9-3	1955-1963	analysis	_
@@ -349,6 +358,7 @@
 9-15	2045-2055	University	_
 9-16	2056-2057	.	_
 
+Text=The subject inclusion criteria were: (I) right-handed; (II) lifetime cannabis dependence (for CUD subjects) as defined by the Self-Reported Substance Use and Abuse measures from Semi-Structured Assessment for the Genetics of Alcoholism; and (III) positive urine test for delta-9-tetrahydrocannabinol (THC) (for CUD subjects).
 10-1	2058-2061	The	_
 10-2	2062-2069	subject	_
 10-3	2070-2079	inclusion	_
@@ -409,6 +419,7 @@
 10-58	2396-2397	)	_
 10-59	2398-2399	.	_
 
+Text=The positive THC result and other drug use measures are based on the data and HCP Data Dictionary released by HCP (https: //db.humanconnectome.org/data/projects/HCP_1200.
 11-1	2400-2403	The	_
 11-2	2404-2412	positive	_
 11-3	2413-2416	THC	_
@@ -436,6 +447,7 @@
 11-25	2524-2571	//db.humanconnectome.org/data/projects/HCP_1200	_
 11-26	2572-2573	.	_
 
+Text=Information regarding the device and THC threshold used for the urine test is not directly available to the authors of this manuscript.
 12-1	2574-2585	Information	_
 12-2	2586-2595	regarding	_
 12-3	2596-2599	the	_
@@ -460,6 +472,7 @@
 12-22	2698-2708	manuscript	_
 12-23	2709-2710	.	_
 
+Text=The exclusion criteria were: (I) higher than moderate level of nicotine dependence as determined by the scoring on the Fagerstrom Test for Nicotine Dependence; (II) breath alcohol concentration greater than 0.05 g/210 L; (III) positive urine test for cocaine, opiates, and drugs other than cannabis; and (IV) meeting DSM-IV criteria of alcohol dependence.
 13-1	2711-2714	The	_
 13-2	2715-2724	exclusion	_
 13-3	2725-2733	criteria	_
@@ -529,6 +542,7 @@
 13-67	3069-3079	dependence	_
 13-68	3080-3081	.	_
 
+Text=Based on the inclusion/exclusion criteria, 23 CUD subjects and 676 potential non-drug-using subjects were identified from 900 participants.
 14-1	3082-3087	Based	_
 14-2	3088-3090	on	_
 14-3	3091-3094	the	_
@@ -550,6 +564,7 @@
 14-19	3209-3221	participants	_
 14-20	3222-3223	.	_
 
+Text=Twenty-three non-drug-using controls were then selected from 676 non-drug-using subjects in order to match the 23 CUD subjects, in sex, age, education, alcohol use, tobacco use, and self-reported lifetime use of other non-cannabis drugs.
 15-1	3224-3236	Twenty-three	_
 15-2	3237-3251	non-drug-using	_
 15-3	3252-3260	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -592,6 +607,7 @@
 15-40	3461-3466	drugs	_
 15-41	3467-3468	.	_
 
+Text=Specifically, one control subject was selected to match one CUD subject, with sex as the first priority, age, and education as the second priority, and alcohol use, tobacco use, and self-reported lifetime use of other non-cannabis drugs as the third priority in matching.
 16-1	3469-3481	Specifically	_
 16-2	3482-3483	,	_
 16-3	3484-3487	one	_
@@ -644,6 +660,7 @@
 16-50	3738-3746	matching	_
 16-51	3747-3748	.	_
 
+Text=See Table 1 for the demographic information of both groups.
 17-1	3749-3752	See	_
 17-2	3753-3758	Table	_
 17-3	3759-3760	1	_
@@ -656,6 +673,7 @@
 17-10	3801-3807	groups	_
 17-11	3808-3809	.	_
 
+Text=The two groups were not significantly different in age (t=0.4708, degrees of freedom [df] =44, p = 0.6401), sex (Fisher ’ s exact test p = 1, two-tail), education (t = 0, df = 44, p = 1), alcohol use (t = 0.2497, df = 44, p=0.8040), tobacco use (t = 0.5144, df = 44, p = 0.6096), and self-reported lifetime use on more than 10 occasions of any non-cannabis drug (Fisher ’ s exact test p> 0.1868, two-tail).
 18-1	3810-3813	The	_
 18-2	3814-3817	two	_
 18-3	3818-3824	groups	_
@@ -767,6 +785,7 @@
 18-109	4244-4245	)	_
 18-110	4246-4247	.	_
 
+Text=The age of 17 years was used as the threshold of early-onset.
 19-1	4248-4251	The	_
 19-2	4252-4255	age	_
 19-3	4256-4258	of	_
@@ -781,6 +800,7 @@
 19-12	4297-4308	early-onset	_
 19-13	4309-4310	.	_
 
+Text=Based on this threshold, 16 CUD individuals belonged to the early-onset CUD subgroup (11 males, 6 females, 28.4 ± 3.4 years old, 15.0 ± 1.7 years of education) and the 7 remaining CUD individuals belonged to the late-onset CUD subgroup (6 males, 1 female, 27.6 ± 4.0 years old, 13.6 ± 1.7 years of education).
 20-1	4311-4316	Based	_
 20-2	4317-4319	on	_
 20-3	4320-4324	this	_
@@ -849,6 +869,7 @@
 20-66	4629-4630	)	_
 20-67	4631-4632	.	_
 
+Text=The two CUD subgroups showed a trend significant difference in education (t = 1.8389, df = 21, p = 0.0801), no significant difference in alcohol use (t = 0.1417, df=21, p = 0.8887), and no significant difference in tobacco use (t = 0.5923, df = 21, p = 0.5923).
 21-1	4633-4636	The	_
 21-2	4637-4640	two	_
 21-3	4641-4644	CUD	_
@@ -914,6 +935,7 @@
 21-63	4906-4907	)	_
 21-64	4908-4909	.	_
 
+Text=In-scanner working memory task The HCP n-back working memory task used pictures of faces, places, tools and body parts as the stimuli to assess WM.
 22-1	4910-4920	In-scanner	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
 22-2	4921-4928	working	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
 22-3	4929-4935	memory	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
@@ -943,6 +965,7 @@
 22-27	5056-5058	WM	_
 22-28	5059-5060	.	_
 
+Text=Two n-back fMRI runs were conducted.
 23-1	5061-5064	Two	_
 23-2	5065-5071	n-back	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 23-3	5072-5076	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -951,6 +974,7 @@
 23-6	5087-5096	conducted	_
 23-7	5097-5098	.	_
 
+Text=Each run consists of four “ 2-back ” task blocks (10 trials of 2.5 s each per block, block duration = 25 s), four “ 0-back ” task blocks (10 trials of 2.5 s each per block, block duration = 25 s) and four fixation blocks (block duration = 15 s).
 24-1	5099-5103	Each	_
 24-2	5104-5107	run	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 24-3	5108-5116	consists	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1013,6 +1037,7 @@
 24-60	5351-5352	)	_
 24-61	5353-5354	.	_
 
+Text=All the stimulus types were used in each task type, but the order of stimulus types was random.
 25-1	5355-5358	All	_
 25-2	5359-5362	the	_
 25-3	5363-5371	stimulus	_
@@ -1034,6 +1059,7 @@
 25-19	5444-5450	random	_
 25-20	5451-5452	.	_
 
+Text=A 2.5 s cue indicated the task type (and target for 0-back) at the start of the block.
 26-1	5453-5454	A	_
 26-2	5455-5458	2.5	_
 26-3	5459-5460	s	_
@@ -1056,6 +1082,7 @@
 26-20	5535-5540	block	_
 26-21	5541-5542	.	_
 
+Text=On each trial, the stimulus was presented for 2 s, followed by a 500 ms inter-trial-interval.
 27-1	5543-5545	On	_
 27-2	5546-5550	each	_
 27-3	5551-5556	trial	_
@@ -1076,6 +1103,7 @@
 27-18	5617-5637	inter-trial-interval	_
 27-19	5638-5639	.	_
 
+Text=Two or three trials in each task block presented non-target lures.
 28-1	5640-5643	Two	_
 28-2	5644-5646	or	_
 28-3	5647-5652	three	_
@@ -1089,6 +1117,7 @@
 28-11	5700-5705	lures	_
 28-12	5706-5707	.	_
 
+Text=Out-scanner tasks testing executive function/working memory Dimensional change card sort HCP used dimensional change card task (about 4 min) to measure executive function/cognitive flexibility.
 29-1	5708-5719	Out-scanner	_
 29-2	5720-5725	tasks	_
 29-3	5726-5733	testing	_
@@ -1117,6 +1146,7 @@
 29-26	5891-5902	flexibility	_
 29-27	5903-5904	.	_
 
+Text=Two target pictures were presented that vary along two dimensions (e.g., shape and color).
 30-1	5905-5908	Two	_
 30-2	5909-5915	target	_
 30-3	5916-5924	pictures	_
@@ -1136,6 +1166,7 @@
 30-17	5996-5997	)	_
 30-18	5998-5999	.	_
 
+Text=Participants were asked to match a series of bivalent test pictures (e.g., yellow balls and blue trucks) to the target pictures, first according to one dimension (e.g., color) and then, after a number of trials, according to the other dimension (e.g., shape).
 31-1	6000-6012	Participants	_
 31-2	6013-6017	were	_
 31-3	6018-6023	asked	_
@@ -1192,6 +1223,7 @@
 31-54	6269-6270	)	_
 31-55	6271-6272	.	_
 
+Text=Some “ Switch ” trials, in which the participant must change the dimension being matched, were used in order to test cognitive flexibility.
 32-1	6273-6277	Some	_
 32-2	6278-6279	“	_
 32-3	6280-6286	Switch	_
@@ -1219,6 +1251,7 @@
 32-25	6402-6413	flexibility	_
 32-26	6414-6415	.	_
 
+Text=Scoring was based on a combination of accuracy and reaction time.
 33-1	6416-6423	Scoring	_
 33-2	6424-6427	was	_
 33-3	6428-6433	based	_
@@ -1232,6 +1265,7 @@
 33-11	6476-6480	time	_
 33-12	6481-6482	.	_
 
+Text=Flanker task HCP used the Flanker task (about 3 min) to jointly measure attention and inhibitory control.
 34-1	6483-6490	Flanker	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 34-2	6491-6495	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 34-3	6496-6499	HCP	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -1253,6 +1287,7 @@
 34-19	6582-6589	control	_
 34-20	6590-6591	.	_
 
+Text=During the test, the participant was requested to focus on a given stimulus while inhibiting attention to stimuli (arrows) flanking it.
 35-1	6592-6598	During	_
 35-2	6599-6602	the	_
 35-3	6603-6607	test	_
@@ -1279,6 +1314,7 @@
 35-24	6727-6729	it	_
 35-25	6730-6731	.	_
 
+Text=Sometimes the middle stimulus is pointing in the same direction as the “ flankers ” (congruent) and sometimes in the opposite direction (incongruent).
 36-1	6732-6741	Sometimes	_
 36-2	6742-6745	the	_
 36-3	6746-6752	middle	_
@@ -1308,6 +1344,7 @@
 36-27	6884-6885	)	_
 36-28	6886-6887	.	_
 
+Text=Scoring was based on a combination of accuracy and reaction time.
 37-1	6888-6895	Scoring	_
 37-2	6896-6899	was	_
 37-3	6900-6905	based	_
@@ -1321,6 +1358,7 @@
 37-11	6948-6952	time	_
 37-12	6953-6954	.	_
 
+Text=List sorting HCP used the list sorting task to assess working memory.
 38-1	6955-6959	List	http://maven.renci.org/NeuroBridge/neurobridge#RatingScale
 38-2	6960-6967	sorting	http://maven.renci.org/NeuroBridge/neurobridge#RatingScale
 38-3	6968-6971	HCP	http://maven.renci.org/NeuroBridge/neurobridge#RatingScale
@@ -1335,6 +1373,7 @@
 38-12	7017-7023	memory	_
 38-13	7024-7025	.	_
 
+Text=With two different conditions (1-List and 2-List), this task requires the participant to sequence different visually- and orally-presented stimuli.
 39-1	7026-7030	With	_
 39-2	7031-7034	two	_
 39-3	7035-7044	different	_
@@ -1359,6 +1398,7 @@
 39-22	7168-7175	stimuli	_
 39-23	7176-7177	.	_
 
+Text=Pictures of different foods and animals were displayed with both a sound clip and written text that name the item.
 40-1	7178-7186	Pictures	_
 40-2	7187-7189	of	_
 40-3	7190-7199	different	_
@@ -1381,6 +1421,7 @@
 40-20	7287-7291	item	_
 40-21	7292-7293	.	_
 
+Text=In the 1-List condition, participants were required to order a series of objects (either food or animals) in size order from smallest to largest.
 41-1	7294-7296	In	_
 41-2	7297-7300	the	_
 41-3	7301-7307	1-List	_
@@ -1410,6 +1451,7 @@
 41-27	7434-7441	largest	_
 41-28	7442-7443	.	_
 
+Text=In the 2-List condition, participants were presented both food and animals and are asked to report the food in size order, followed by the animals in size order.
 42-1	7444-7446	In	_
 42-2	7447-7450	the	_
 42-3	7451-7457	2-List	_
@@ -1442,6 +1484,7 @@
 42-30	7601-7606	order	_
 42-31	7607-7608	.	_
 
+Text=fMRI data acquisition As described in, whole-brain echo-planar imaging acquisitions were acquired with a 32-channel head coil on a modified 3 T Siemens Skyra scanner (Erlangen, Germany), with repetition time = 720 ms, echo time = 33.1 ms, flip angle = 52°, band- width = 2290 Hz/pixel, in-plane field-of-view = 208 mm × 180 mm, 72 slices, 2.0 mm isotropic voxels, multi-band acceleration factor of 8.
 43-1	7609-7613	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 43-2	7614-7618	data	_
 43-3	7619-7630	acquisition	_
@@ -1522,6 +1565,7 @@
 43-78	8019-8020	8	_
 43-79	8021-8022	.	_
 
+Text=Two fMRI runs, with left-to-right and right-to-left phase encodings, respectively, were acquired, preprocessed and concatenated for DCM analysis.
 44-1	8023-8026	Two	_
 44-2	8027-8031	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 44-3	8032-8036	runs	_
@@ -1546,6 +1590,7 @@
 44-22	8163-8171	analysis	_
 44-23	8172-8173	.	_
 
+Text=fMRI preprocessing Per, fMRI data were “ minimally ” preprocessed to implement gradient unwarping, motion correction, fieldmap-based EPI distortion correction, brain-boundary-based registration of EPI to structural T1-weighted scan, non-linear registration into standard MNI152 space, and grand-mean intensity normalization (Functional Pipelines v3.4.0; v3.12.0; v3.13.2).
 45-1	8174-8178	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 45-2	8179-8192	preprocessing	_
 45-3	8193-8196	Per	_
@@ -1601,6 +1646,7 @@
 45-53	8554-8555	)	_
 45-54	8556-8557	.	_
 
+Text=The voxel size of the minimally- processed data is [2 × 2 × 2] mm.
 46-1	8558-8561	The	_
 46-2	8562-8567	voxel	_
 46-3	8568-8572	size	_
@@ -1620,6 +1666,7 @@
 46-17	8623-8625	mm	_
 46-18	8626-8627	.	_
 
+Text=Twelve head motion correction parameters were released by HCP.
 47-1	8628-8634	Twelve	_
 47-2	8635-8639	head	_
 47-3	8640-8646	motion	_
@@ -1631,6 +1678,7 @@
 47-9	8686-8689	HCP	_
 47-10	8690-8691	.	_
 
+Text=See Table 2 for the detailed information of these parameters for both groups.
 48-1	8692-8695	See	_
 48-2	8696-8701	Table	_
 48-3	8702-8703	2	_
@@ -1646,6 +1694,7 @@
 48-13	8762-8768	groups	_
 48-14	8769-8770	.	_
 
+Text=For each fMRI run, we quantified these head motion parameters using cumulative value and maximal value.
 49-1	8771-8774	For	_
 49-2	8775-8779	each	_
 49-3	8780-8784	fMRI	_
@@ -1665,6 +1714,7 @@
 49-17	8869-8874	value	_
 49-18	8875-8876	.	_
 
+Text=For each motion parameter, the corresponding cumulative value and maximal value were computed as the summation and the maximum respectively, of the absolute values of this motion parameter across the entire run.
 50-1	8877-8880	For	_
 50-2	8881-8885	each	_
 50-3	8886-8892	motion	_
@@ -1701,6 +1751,7 @@
 50-34	9086-9089	run	_
 50-35	9090-9091	.	_
 
+Text=For each subject, the cumulative value and maximal value were computed as the mean and the maximum respectively, across the left-to-right phase-encoding fMRI run and right- to-left phase encoding fMRI run.
 51-1	9092-9095	For	_
 51-2	9096-9100	each	_
 51-3	9101-9108	subject	_
@@ -1736,6 +1787,7 @@
 51-33	9295-9298	run	_
 51-34	9299-9300	.	_
 
+Text=As shown in Table 2, none of the differences between groups for the cumulative head motion value was statistically significant after Bonferroni correction (corrected p> 0.95).
 52-1	9301-9303	As	_
 52-2	9304-9309	shown	_
 52-3	9310-9312	in	_
@@ -1768,6 +1820,7 @@
 52-30	9478-9479	)	_
 52-31	9480-9481	.	_
 
+Text=In addition, none of the differences between groups for the maximal head motion value was statistically significant after Bonferroni correction (corrected p> 0.35).
 53-1	9482-9484	In	_
 53-2	9485-9493	addition	_
 53-3	9494-9495	,	_
@@ -1797,6 +1850,7 @@
 53-27	9648-9649	)	_
 53-28	9650-9651	.	_
 
+Text=Following, an additional step of pre- processing was performed on the minimally-processed fMRI data: spatial smoothing with a 4-mm Gaussian kernel, using Statistical Para- metric Mapping 12 (SPM12) software (http: //www.fil.ion.ucl.ac.uk/spm/).
 54-1	9652-9661	Following	_
 54-2	9662-9663	,	_
 54-3	9664-9666	an	_
@@ -1838,6 +1892,7 @@
 54-39	9902-9903	)	_
 54-40	9904-9905	.	_
 
+Text=SPM univariate analysis of contrast activation The nodes of DCM were selected based on brain activation elicited by the working memory task, as revealed by SPM univariate analysis of contrast activation.
 55-1	9906-9909	SPM	_
 55-2	9910-9920	univariate	_
 55-3	9921-9929	analysis	_
@@ -1872,6 +1927,7 @@
 55-32	10099-10109	activation	_
 55-33	10110-10111	.	_
 
+Text=In the first-level univariate statistical analysis, the two preprocessed fMRI runs were included in the model as two sessions.
 56-1	10112-10114	In	_
 56-2	10115-10118	the	_
 56-3	10119-10130	first-level	_
@@ -1894,6 +1950,7 @@
 56-20	10230-10238	sessions	_
 56-21	10239-10240	.	_
 
+Text=The 2-back and 0-back blocks were modeled by boxcar functions convolved with the SPM12 canonical hemodynamic response function.
 57-1	10241-10244	The	_
 57-2	10245-10251	2-back	_
 57-3	10252-10255	and	_
@@ -1914,6 +1971,7 @@
 57-18	10359-10367	function	_
 57-19	10368-10369	.	_
 
+Text=The parameters for each task condition were estimated using the General Linear Model without global normalization.
 58-1	10370-10373	The	_
 58-2	10374-10384	parameters	_
 58-3	10385-10388	for	_
@@ -1932,6 +1990,7 @@
 58-16	10470-10483	normalization	_
 58-17	10484-10485	.	_
 
+Text=Following, the fMRI data was high-pass filtered with a cut-off period of 200 s. Activation was defined as the contrast of 2-back – (minus) 0-back parameter estimate.
 59-1	10486-10495	Following	_
 59-2	10496-10497	,	_
 59-3	10498-10501	the	_
@@ -1964,6 +2023,7 @@
 59-30	10645-10653	estimate	_
 59-31	10654-10655	.	_
 
+Text=In order to determine between-group differences in regional activation, an SPM12 second-level two-sample t-test was conducted voxel- wise for the 2-back–0-back contrast image.
 60-1	10656-10658	In	_
 60-2	10659-10664	order	_
 60-3	10665-10667	to	_
@@ -1990,6 +2050,7 @@
 60-24	10826-10831	image	_
 60-25	10832-10833	.	_
 
+Text=Statistical significance was defined as family-wise error corrected cluster probability (p) <(less than) 0.05 (two-tail).
 61-1	10834-10845	Statistical	_
 61-2	10846-10858	significance	_
 61-3	10859-10862	was	_
@@ -2014,6 +2075,7 @@
 61-22	10960-10961	)	_
 61-23	10962-10963	.	_
 
+Text=An SPM12 second-level one-sample t-test was conducted to determine the DCM nodes, which were selected based on the regions that activated across both groups combined.
 62-1	10964-10966	An	_
 62-2	10967-10972	SPM12	_
 62-3	10973-10985	second-level	_
@@ -2042,6 +2104,7 @@
 62-26	11122-11130	combined	_
 62-27	11131-11132	.	_
 
+Text=Uncorrected cluster p <0.05 (two-tail), which is commonly accepted for DCM node selection, was used as the activation threshold to define nodes for DCM analysis.
 63-1	11133-11144	Uncorrected	_
 63-2	11145-11152	cluster	_
 63-3	11153-11154	p	_
@@ -2074,6 +2137,7 @@
 63-30	11290-11298	analysis	_
 63-31	11299-11300	.	_
 
+Text=For all second-level analyses, the cluster-defining threshold was t = 2.4.
 64-1	11301-11304	For	_
 64-2	11305-11308	all	_
 64-3	11309-11321	second-level	_
@@ -2088,6 +2152,7 @@
 64-12	11372-11375	2.4	_
 64-13	11376-11377	.	_
 
+Text=Anatomical labels for regions of activation were determined using the Anatomical Automatic Labeling2 (AAL2) toolbox.
 65-1	11378-11388	Anatomical	_
 65-2	11389-11395	labels	_
 65-3	11396-11399	for	_
@@ -2107,6 +2172,7 @@
 65-17	11488-11495	toolbox	_
 65-18	11496-11497	.	_
 
+Text=Dynamic causal modeling FMRI-based DCM is a biophysical model of how the underlying neuronal connectivity generates the observed fMRI signal.
 66-1	11498-11505	Dynamic	_
 66-2	11506-11512	causal	_
 66-3	11513-11521	modeling	_
@@ -2129,6 +2195,7 @@
 66-20	11632-11638	signal	_
 66-21	11639-11640	.	_
 
+Text=DCM has been described elsewhere.
 67-1	11641-11644	DCM	_
 67-2	11645-11648	has	_
 67-3	11649-11653	been	_
@@ -2136,6 +2203,7 @@
 67-5	11664-11673	elsewhere	_
 67-6	11674-11675	.	_
 
+Text=In brief, DCM is a system of bilinear differential state equations with coefficients (in units of Hz).
 68-1	11676-11678	In	_
 68-2	11679-11684	brief	_
 68-3	11685-11686	,	_
@@ -2158,6 +2226,7 @@
 68-20	11779-11780	)	_
 68-21	11781-11782	.	_
 
+Text=A node in the model that receives driving inputs is the brain region which first experiences a change in neuronal activity.
 69-1	11783-11784	A	_
 69-2	11785-11789	node	_
 69-3	11790-11792	in	_
@@ -2181,6 +2250,7 @@
 69-21	11897-11905	activity	_
 69-22	11906-11907	.	_
 
+Text=This node then influences other nodes.
 70-1	11908-11912	This	_
 70-2	11913-11917	node	_
 70-3	11918-11922	then	_
@@ -2189,6 +2259,7 @@
 70-6	11940-11945	nodes	_
 70-7	11946-11947	.	_
 
+Text=The endogenous connectivity measures the EC strengths between nodes, regardless of the moment-to-moment switching on and off of inputs.
 71-1	11948-11951	The	_
 71-2	11952-11962	endogenous	_
 71-3	11963-11975	connectivity	_
@@ -2211,6 +2282,7 @@
 71-20	12077-12083	inputs	_
 71-21	12084-12085	.	_
 
+Text=In other words, endogenous connectivity is the overall default directionality and strength of connectivity irrespective of momentary task condition.
 72-1	12086-12088	In	_
 72-2	12089-12094	other	_
 72-3	12095-12100	words	_
@@ -2233,6 +2305,7 @@
 72-20	12225-12234	condition	_
 72-21	12235-12236	.	_
 
+Text=Experimental conditions can modulate the endogenous connectivities.
 73-1	12237-12249	Experimental	_
 73-2	12250-12260	conditions	_
 73-3	12261-12264	can	_
@@ -2242,6 +2315,7 @@
 73-7	12289-12303	connectivities	_
 73-8	12304-12305	.	_
 
+Text=Their modulation effects quantify increased or decreased connectivity strength compared to the endogenous connectivity.
 74-1	12306-12311	Their	_
 74-2	12312-12322	modulation	_
 74-3	12323-12330	effects	_
@@ -2258,6 +2332,7 @@
 74-14	12412-12424	connectivity	_
 74-15	12425-12426	.	_
 
+Text=Following, two new experimental conditions called “ All-back ” and “ 2-back – (minus) 0-back ” were created using appropriate parametric regressors as described in.
 75-1	12427-12436	Following	_
 75-2	12437-12438	,	_
 75-3	12439-12442	two	_
@@ -2288,6 +2363,7 @@
 75-28	12591-12593	in	_
 75-29	12594-12595	.	_
 
+Text=The “ All-back ” condition, which reflects the combined effect of the 2-back and 0-back stimuli, was used as a single input to the DCM.
 76-1	12596-12599	The	_
 76-2	12600-12601	“	_
 76-3	12602-12610	All-back	_
@@ -2317,6 +2393,7 @@
 76-27	12729-12732	DCM	_
 76-28	12733-12734	.	_
 
+Text=The 2-back–0-back condition, which reflects the special effect of 2-back over 0-back (i.e., increased WM demand), was used as a putative modulator of EC.
 77-1	12735-12738	The	_
 77-2	12739-12752	2-back–0-back	_
 77-3	12753-12762	condition	_
@@ -2348,6 +2425,7 @@
 77-29	12890-12892	EC	_
 77-30	12893-12894	.	_
 
+Text=In this study, the change in EC corresponding to the 2-back – 0-back modulator is termed as modulatory change.
 78-1	12895-12897	In	_
 78-2	12898-12902	this	_
 78-3	12903-12908	study	_
@@ -2370,6 +2448,7 @@
 78-20	12999-13005	change	_
 78-21	13006-13007	.	_
 
+Text=DCM nodes Following the procedures by), the DCM nodes (regions) were chosen based on simultaneously meeting all of the following criteria: (I) show activation (p <0.05 two-tail at uncorrected cluster level) in the SPM second-level analysis of the combined groups; (II) activate consistently during WM tasks in previous studies; (III) belong to visual and spatial cortico-striatal circuits; and (IV) belong to aberrant neurocircuits thought to underlie substance use disorders.
 79-1	13008-13011	DCM	_
 79-2	13012-13017	nodes	_
 79-3	13018-13027	Following	_
@@ -2460,6 +2539,7 @@
 79-88	13493-13502	disorders	_
 79-89	13503-13504	.	_
 
+Text=Based on these criteria, the following six nodes were selected as DCM nodes: (1) L DLPFC; (2) R DLPFC; (3) L VLPFC (including inferior frontal gyrus pars opercularis, pars triangularis, and pars orbitalis); (4) R VLPFC; (5) L caudate; and (6) R caudate.
 80-1	13505-13510	Based	_
 80-2	13511-13513	on	_
 80-3	13514-13519	these	_
@@ -2528,6 +2608,7 @@
 80-66	13773-13780	caudate	_
 80-67	13781-13782	.	_
 
+Text=The posterior parietal cortex was not included as a DCM node because this study chose to focus on fronto-striatal connectivity (see the Discussion section for expanded discussions).
 81-1	13783-13786	The	_
 81-2	13787-13796	posterior	_
 81-3	13797-13805	parietal	_
@@ -2559,6 +2640,7 @@
 81-29	13964-13965	)	_
 81-30	13966-13967	.	_
 
+Text=The regional activation corresponding to each node was obtained based on the set-theoretic intersection of the corresponding atlas-based binary mask and the activation clusters that were determined by the SPM second-level one-sample t-test.
 82-1	13968-13971	The	_
 82-2	13972-13980	regional	_
 82-3	13981-13991	activation	_
@@ -2594,6 +2676,7 @@
 82-33	14201-14207	t-test	_
 82-34	14208-14209	.	_
 
+Text=The atlas-derived binary masks for all brain regions were obtained from the AAL2 atlas.
 83-1	14210-14213	The	_
 83-2	14214-14227	atlas-derived	_
 83-3	14228-14234	binary	_
@@ -2610,6 +2693,7 @@
 83-14	14291-14296	atlas	_
 83-15	14297-14298	.	_
 
+Text=The binary mask for DLPFC was based on the binary mask of middle frontal gyrus (MFG), which was further constrained by the conservative bounding box (Brodmann Areas 46 and 9) defined in.
 84-1	14299-14302	The	_
 84-2	14303-14309	binary	_
 84-3	14310-14314	mask	_
@@ -2649,6 +2733,7 @@
 84-37	14487-14489	in	_
 84-38	14490-14491	.	_
 
+Text=The regional fMRI activations were constrained by these binary masks, and the local maximum within each activation cluster was obtained.
 85-1	14492-14495	The	_
 85-2	14496-14504	regional	_
 85-3	14505-14509	fMRI	_
@@ -2672,6 +2757,7 @@
 85-21	14620-14628	obtained	_
 85-22	14629-14630	.	_
 
+Text=The nodes of DCM were defined as spheres (see Fig.
 86-1	14631-14634	The	_
 86-2	14635-14640	nodes	_
 86-3	14641-14643	of	_
@@ -2685,6 +2771,7 @@
 86-11	14678-14681	Fig	_
 86-12	14682-14683	.	_
 
+Text=1 for the location) centered at the local maximum within each regional activation.
 87-1	14684-14685	1	_
 87-2	14686-14689	for	_
 87-3	14690-14693	the	_
@@ -2701,6 +2788,7 @@
 87-14	14756-14766	activation	_
 87-15	14767-14768	.	_
 
+Text=The radius for prefrontal nodes was 5 mm, and the radius for the caudate nodes was 3 mm.
 88-1	14769-14772	The	_
 88-2	14773-14779	radius	_
 88-3	14780-14783	for	_
@@ -2722,6 +2810,7 @@
 88-19	14855-14857	mm	_
 88-20	14858-14859	.	_
 
+Text=Smaller spheres were used as the caudate nodes because the regional activations in these regions were relatively smaller.
 89-1	14860-14867	Smaller	_
 89-2	14868-14875	spheres	_
 89-3	14876-14880	were	_
@@ -2742,6 +2831,7 @@
 89-18	14973-14980	smaller	_
 89-19	14981-14982	.	_
 
+Text=The same nodes were used for each subject.
 90-1	14983-14986	The	_
 90-2	14987-14991	same	_
 90-3	14992-14997	nodes	_
@@ -2752,6 +2842,7 @@
 90-8	15017-15024	subject	_
 90-9	15025-15026	.	_
 
+Text=The fMRI time series of each node, i.e., the blood-oxygen-level de- pendent (BOLD) signal over time in that node, was extracted by using the principal-eigenvariate of that node.
 91-1	15027-15030	The	_
 91-2	15031-15035	fMRI	_
 91-3	15036-15040	time	_
@@ -2787,6 +2878,7 @@
 91-33	15204-15208	node	_
 91-34	15209-15210	.	_
 
+Text=Each time series was also adjusted by the F-contrast of the effects-of-interest.
 92-1	15211-15215	Each	_
 92-2	15216-15220	time	_
 92-3	15221-15227	series	_
@@ -2801,6 +2893,7 @@
 92-12	15271-15290	effects-of-interest	_
 92-13	15291-15292	.	_
 
+Text=DCM parametric empirical Bayes (PEB) analysis The PEB approach, as implemented in SPM12 (Revision 6906), was used to evaluate group differences in the DCM parameters.
 93-1	15293-15296	DCM	_
 93-2	15297-15307	parametric	_
 93-3	15308-15317	empirical	_
@@ -2834,6 +2927,7 @@
 93-31	15454-15464	parameters	_
 93-32	15465-15466	.	_
 
+Text=PEB allows to empirically update priors for each subject during the DCM analysis.
 94-1	15467-15470	PEB	_
 94-2	15471-15477	allows	_
 94-3	15478-15480	to	_
@@ -2849,6 +2943,7 @@
 94-13	15539-15547	analysis	_
 94-14	15548-15549	.	_
 
+Text=The method of conducting PEB analysis can be found online (https: //en.wikibooks.org/wiki/User: Peterz/sandbox).
 95-1	15550-15553	The	_
 95-2	15554-15560	method	_
 95-3	15561-15563	of	_
@@ -2868,6 +2963,7 @@
 95-17	15664-15665	)	_
 95-18	15666-15667	.	_
 
+Text=In brief, the analysis started from specifying an initial putative “ full ” model, which was related to the driving input (All-back stimuli) and the 2-back–0-back modulator defined above.
 96-1	15668-15670	In	_
 96-2	15671-15676	brief	_
 96-3	15677-15678	,	_
@@ -2903,6 +2999,7 @@
 96-33	15853-15858	above	_
 96-34	15859-15860	.	_
 
+Text=The term “ full ” is used here in the sense that (1) the putative driving input entered all of the six nodes; (2) each node was putatively interconnected to all other nodes, and (3) the 2-back – 0-back modulator putatively modulated all of the 30 interconnectivities between nodes.
 97-1	15861-15864	The	_
 97-2	15865-15869	term	_
 97-3	15870-15871	“	_
@@ -2962,6 +3059,7 @@
 97-57	16144-16149	nodes	_
 97-58	16150-16151	.	_
 
+Text=Then, all full models (one per subject) were assembled into a cell array with one subject per row and one DCM per column.
 98-1	16152-16156	Then	_
 98-2	16157-16158	,	_
 98-3	16159-16162	all	_
@@ -2990,6 +3088,7 @@
 98-26	16269-16275	column	_
 98-27	16276-16277	.	_
 
+Text=These models, as organized by the cell array, were estimated using the SPM12 code (spm_dcm_peb_fit.m), which facilitates drawing subjects out of local optima towards the group mean (https: //en.wikibooks.org/wiki/User: Peterz/sandbox).
 99-1	16278-16283	These	_
 99-2	16284-16290	models	_
 99-3	16291-16292	,	_
@@ -3031,6 +3130,7 @@
 99-39	16520-16521	)	_
 99-40	16522-16523	.	_
 
+Text=Next, a second level (group) GLM and a design matrix (ones “ 1 ” for CUD subjects and negative ones “ −1 ” for controls) were specified, with alcohol and tobacco use as the covariates (Table 1).
 100-1	16524-16528	Next	_
 100-2	16529-16530	,	_
 100-3	16531-16532	a	_
@@ -3078,6 +3178,7 @@
 100-45	16724-16725	)	_
 100-46	16726-16727	.	_
 
+Text=Based on the GLM, design matrix, and the estimated full models, the second level (group) PEB model was estimated using the SPM12 code (spm_dcm_peb.m).
 101-1	16728-16733	Based	_
 101-2	16734-16736	on	_
 101-3	16737-16740	the	_
@@ -3111,6 +3212,7 @@
 101-31	16883-16884	)	_
 101-32	16885-16886	.	_
 
+Text=The estimated PEB model contains all parameters representing group effects on each DCM parameter.
 102-1	16887-16890	The	_
 102-2	16891-16900	estimated	_
 102-3	16901-16904	PEB	_
@@ -3127,6 +3229,7 @@
 102-14	16974-16983	parameter	_
 102-15	16984-16985	.	_
 
+Text=After that, between-group effects were identified using the SPM12 code (spm_dcm_peb_bmc.m), which prunes away any para- meters from the PEB model that do not contribute to the model evidence.
 103-1	16986-16991	After	_
 103-2	16992-16996	that	_
 103-3	16997-16998	,	_
@@ -3162,6 +3265,7 @@
 103-33	17172-17180	evidence	_
 103-34	17181-17182	.	_
 
+Text=Statistical analysis Student ’ s t-test was used to evaluate group differences on continuous variables (e.g., age).
 104-1	17183-17194	Statistical	_
 104-2	17195-17203	analysis	_
 104-3	17204-17211	Student	_
@@ -3184,6 +3288,7 @@
 104-20	17299-17300	)	_
 104-21	17301-17302	.	_
 
+Text=Fisher ’ s exact test was used to evaluate group differences on categorical variables (e.g., sex).
 105-1	17303-17309	Fisher	_
 105-2	17310-17311	’	_
 105-3	17312-17313	s	_
@@ -3205,6 +3310,7 @@
 105-19	17402-17403	)	_
 105-20	17404-17405	.	_
 
+Text=An analysis of variance (ANOVA) was used to analyze behavioral performance, with group (CUD and Control) as the between-subjects factor, and working memory level (2-back and 0-back) as the within-subjects factor.
 106-1	17406-17408	An	_
 106-2	17409-17417	analysis	_
 106-3	17418-17420	of	_
@@ -3246,6 +3352,7 @@
 106-39	17619-17625	factor	_
 106-40	17626-17627	.	_
 
+Text=Spearman partial correlation (with alcohol use and tobacco use as covariates) was used for the correlation analysis.
 107-1	17628-17636	Spearman	_
 107-2	17637-17644	partial	_
 107-3	17645-17656	correlation	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Social affective context reveals altered network dynamics in schizophrenia patients Impairments in social cognition and interactions are core psychopathologies in schizophrenia, often manifesting as an inability to appropriately relate to the intentions and feelings of others.
 1-1	0-6	Social	_
 1-2	7-16	affective	_
 1-3	17-24	context	_
@@ -41,6 +42,7 @@
 1-37	271-277	others	_
 1-38	278-279	.	_
 
+Text=Neuroimaging has helped to demarcate the dynamics of two distinct functional connectivity circuits underlying the social-affective processes related to mentalization (known as Theory of Mind, ToM) and somatic-affiliation (known as Embodied Simulation, ES).
 2-1	280-292	Neuroimaging	_
 2-2	293-296	has	_
 2-3	297-303	helped	_
@@ -82,6 +84,7 @@
 2-39	540-541	)	_
 2-40	542-543	.	_
 
+Text=While evidence points to abnormal activation patterns within these networks among those suffering from schizophrenia, it is yet unclear however, if these patients exhibit this abnormal functional connectivity in the context of social-affective experiences.
 3-1	544-549	While	_
 3-2	550-558	evidence	_
 3-3	559-565	points	_
@@ -120,6 +123,7 @@
 3-36	790-801	experiences	_
 3-37	802-803	.	_
 
+Text=The current fMRI study, investigated functional connectivity dynamics within ToM and ES networks as subjects experienced evolving cinematic portrayals of fear.
 4-1	804-807	The	_
 4-2	808-815	current	_
 4-3	816-820	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -144,6 +148,7 @@
 4-22	959-963	fear	_
 4-23	964-965	.	_
 
+Text=During scanning, schizophrenia patients and healthy controls passively watched a cinematic scene in which a mother and her son face various threatening events.
 5-1	966-972	During	_
 5-2	973-981	scanning	_
 5-3	982-983	,	_
@@ -170,6 +175,7 @@
 5-24	1119-1125	events	_
 5-25	1126-1127	.	_
 
+Text=Participants then provided a continuous and retrospective report of their fear intensity during a second viewing outside the scanner.
 6-1	1128-1140	Participants	_
 6-2	1141-1145	then	_
 6-3	1146-1154	provided	_
@@ -191,6 +197,7 @@
 6-19	1253-1260	scanner	_
 6-20	1261-1262	.	_
 
+Text=Using network cohesion index (NCI) analysis, we examined modulations of ES-related and ToM-related functional connectivity dynamics and their relation to symptom severity and the continuous emotional ratings of the induced cinematic fear.
 7-1	1263-1268	Using	_
 7-2	1269-1276	network	_
 7-3	1277-1285	cohesion	_
@@ -228,6 +235,7 @@
 7-35	1499-1503	fear	_
 7-36	1504-1505	.	_
 
+Text=Compared to patients, healthy controls showed higher ES-NCI and marginally lower ToM-NCI during emotional peaks.
 8-1	1506-1514	Compared	_
 8-2	1515-1517	to	_
 8-3	1518-1526	patients	_
@@ -246,6 +254,7 @@
 8-16	1613-1618	peaks	_
 8-17	1619-1620	.	_
 
+Text=Cross-correlation analysis revealed an intriguing dynamic between NCI and the inter-group difference of reported fear.
 9-1	1621-1638	Cross-correlation	_
 9-2	1639-1647	analysis	_
 9-3	1648-1656	revealed	_
@@ -263,6 +272,7 @@
 9-15	1734-1738	fear	_
 9-16	1739-1740	.	_
 
+Text=Schizophrenia patients rated their fear as lower relative to healthy controls, shortly after exhibiting lower ES connectivity.
 10-1	1741-1754	Schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 10-2	1755-1763	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 10-3	1764-1769	rated	_
@@ -283,6 +293,7 @@
 10-18	1855-1867	connectivity	_
 10-19	1868-1869	.	_
 
+Text=This increased difference in rating was also followed by higher ToM connectivity among schizophrenia patients.
 11-1	1870-1874	This	_
 11-2	1875-1884	increased	_
 11-3	1885-1895	difference	_
@@ -300,6 +311,7 @@
 11-15	1971-1979	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-16	1980-1981	.	_
 
+Text=The clinical relevance of these findings is further highlighted by the following two results: (a) ToM-NCI was found to have a strong correlation with the severity of general symptoms during one of the two main emotional peaks (Spearman R = 0.77); and (b) k-mean clustering demonstrated that the networks ’ NCI dynamic during the social-affective context reliably differentiated between patients and controls.
 12-1	1982-1985	The	_
 12-2	1986-1994	clinical	_
 12-3	1995-2004	relevance	_
@@ -372,6 +384,7 @@
 12-70	2389-2397	controls	_
 12-71	2398-2399	.	_
 
+Text=Together, these findings point to a possible neural marker for abnormal social-affective processing in schizophrenia, manifested as the disturbed balance between two functional networks involved in social-affective affiliation.
 13-1	2400-2408	Together	_
 13-2	2409-2410	,	_
 13-3	2411-2416	these	_
@@ -404,6 +417,7 @@
 13-30	2617-2628	affiliation	_
 13-31	2629-2630	.	_
 
+Text=This in turn suggests that exaggerated mentalization over somatic-affiliative processing, in response to another ’ s ’ distress may underlie social-affective deficits in schizophrenia.
 14-1	2631-2635	This	_
 14-2	2636-2638	in	_
 14-3	2639-2643	turn	_
@@ -431,6 +445,7 @@
 14-25	2802-2815	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-26	2816-2817	.	_
 
+Text=Materials and methods Subjects The study groups included 30 inpatients (13 women; mean age 25, range: 18–40 years) recruited by a senior psychiatrists at one of three Mental Health Centers: Beer Yaakov Mental Health Center, Mazra Mental Health Center and Lev-Hasharon Mental Health Center.
 15-1	2818-2827	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 15-2	2828-2831	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 15-3	2832-2839	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -484,6 +499,7 @@
 15-51	3107-3113	Center	_
 15-52	3114-3115	.	_
 
+Text=Patients were diagnosed based on the structured clinical interview for DSM-IV Axis-I disorders, Patient Edition, SCID-I/P (First, 1994), while hospitalized.
 16-1	3116-3124	Patients	_
 16-2	3125-3129	were	_
 16-3	3130-3139	diagnosed	_
@@ -512,6 +528,7 @@
 16-26	3265-3277	hospitalized	_
 16-27	3278-3279	.	_
 
+Text=Those with major affective or neurological disorders, or drug-induced or alcohol-induced psychoses were not included.
 17-1	3280-3285	Those	_
 17-2	3286-3290	with	_
 17-3	3291-3296	major	_
@@ -530,6 +547,7 @@
 17-16	3389-3397	included	_
 17-17	3398-3399	.	_
 
+Text=Medical and neurological illnesses were ruled out by physical and neurological examinations, routine laboratory investigations, reports from the patients ’ family physicians and the hospital medical records.
 18-1	3400-3407	Medical	_
 18-2	3408-3411	and	_
 18-3	3412-3424	neurological	_
@@ -561,6 +579,7 @@
 18-29	3601-3608	records	_
 18-30	3609-3610	.	_
 
+Text=Severity of schizophrenia symptoms were assessed with the Positive and Negative Syndrome Scale (PANSS) (Table S1).
 19-1	3611-3619	Severity	_
 19-2	3620-3622	of	_
 19-3	3623-3636	schizophrenia	_
@@ -583,6 +602,7 @@
 19-20	3727-3728	)	_
 19-21	3729-3730	.	_
 
+Text=Twenty-three healthy individuals without any known psychiatric or neurologic disorder (12 women; mean age 26, 22–39 years) were recruited through public advertisement (Table S1).
 20-1	3731-3743	Twenty-three	_
 20-2	3744-3751	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 20-3	3752-3763	individuals	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -615,6 +635,7 @@
 20-30	3913-3914	)	_
 20-31	3915-3916	.	_
 
+Text=Patients and healthy controls were matched for age and gender.
 21-1	3917-3925	Patients	_
 21-2	3926-3929	and	_
 21-3	3930-3937	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -627,6 +648,7 @@
 21-10	3972-3978	gender	_
 21-11	3979-3980	.	_
 
+Text=All participants were native Hebrew speakers with adequate language comprehension.
 22-1	3981-3984	All	_
 22-2	3985-3997	participants	_
 22-3	3998-4002	were	_
@@ -639,6 +661,7 @@
 22-10	4049-4062	comprehension	_
 22-11	4063-4064	.	_
 
+Text=After drop-out, due to motion artifacts (see below), our final sample included 27 patients (10 women; mean age 25, range: 18–40 years) and 22 healthy controls (11 female, mean age: 26, range: 22–39).
 23-1	4065-4070	After	_
 23-2	4071-4079	drop-out	_
 23-3	4080-4081	,	_
@@ -689,6 +712,7 @@
 23-48	4277-4278	)	_
 23-49	4279-4280	.	_
 
+Text=There is no standard way to perform power analyses for non-parametric analyses, such as those that are employed in this work.
 24-1	4281-4286	There	_
 24-2	4287-4289	is	_
 24-3	4290-4292	no	_
@@ -713,6 +737,7 @@
 24-22	4402-4406	work	_
 24-23	4407-4408	.	_
 
+Text=The estimated power of a corresponding parametric t-test with the same number of participants as in the selected sample is 0.77 for ToM NCI, and 0.99 for ES NCI.
 25-1	4409-4412	The	_
 25-2	4413-4422	estimated	_
 25-3	4423-4428	power	_
@@ -745,6 +770,7 @@
 25-30	4567-4570	NCI	_
 25-31	4571-4572	.	_
 
+Text=These values were estimated based on data from the time window of the highest mean difference between these the group NCIs (following ref.
 26-1	4573-4578	These	_
 26-2	4579-4585	values	_
 26-3	4586-4590	were	_
@@ -771,9 +797,11 @@
 26-24	4708-4711	ref	_
 26-25	4712-4713	.	_
 
+Text=).
 27-1	4714-4715	)	_
 27-2	4716-4717	.	_
 
+Text=The study was approved by the Institutional Review Boards in each of the mental health centers.
 28-1	4718-4721	The	_
 28-2	4722-4727	study	_
 28-3	4728-4731	was	_
@@ -792,6 +820,7 @@
 28-16	4805-4812	centers	_
 28-17	4813-4814	.	_
 
+Text=All participants gave written informed consent after receiving a full explanation of the study protocol.
 29-1	4815-4818	All	_
 29-2	4819-4831	participants	_
 29-3	4832-4836	gave	_
@@ -809,6 +838,7 @@
 29-15	4910-4918	protocol	_
 29-16	4919-4920	.	_
 
+Text=Task The cinematic stimulus was selected due to its high ecological validity and the efficiency of movies as inducers of emotion.
 30-1	4921-4925	Task	_
 30-2	4926-4929	The	_
 30-3	4930-4939	cinematic	_
@@ -832,6 +862,7 @@
 30-21	5042-5049	emotion	_
 30-22	5050-5051	.	_
 
+Text=Participants passively watched a clip from the movie “ The Ring 2 ” (8:15 min) with Hebrew subtitles while in the scanner.
 31-1	5052-5064	Participants	_
 31-2	5065-5074	passively	_
 31-3	5075-5082	watched	_
@@ -858,6 +889,7 @@
 31-24	5168-5175	scanner	_
 31-25	5176-5177	.	_
 
+Text=The clip included two dramatic emotional peaks: a mother looking for her son while experiencing a frightful delirium in the amusement park restroom (~2 min), and a deer attacking the mother and son (2 min).
 32-1	5178-5181	The	_
 32-2	5182-5186	clip	_
 32-3	5187-5195	included	_
@@ -901,6 +933,7 @@
 32-41	5388-5389	)	_
 32-42	5390-5391	.	_
 
+Text=Participants passively viewed a blank screen for 1 min before and after the film was presented.
 33-1	5392-5404	Participants	_
 33-2	5405-5414	passively	_
 33-3	5415-5421	viewed	_
@@ -919,6 +952,7 @@
 33-16	5477-5486	presented	_
 33-17	5487-5488	.	_
 
+Text=Continuous fear rating Due to technical issues valid post-scanning continuous fear rating were obtained from 24 schizophrenia patients (9 females, mean age: 27.2, range: 19–40) and only 10 of the healthy controls (1 female, mean age: 26, range: 22–39).
 34-1	5489-5499	Continuous	_
 34-2	5500-5504	fear	_
 34-3	5505-5511	rating	_
@@ -972,6 +1006,7 @@
 34-51	5751-5752	)	_
 34-52	5753-5754	.	_
 
+Text=To improve the estimation of the rating pattern of the healthy population, we included data from 77 additional healthy volunteers.
 35-1	5755-5757	To	_
 35-2	5758-5765	improve	_
 35-3	5766-5769	the	_
@@ -995,6 +1030,7 @@
 35-21	5875-5885	volunteers	_
 35-22	5886-5887	.	_
 
+Text=Thus, in total, the group included 87 healthy controls (33 females, mean age: 25.6, range: 20–40).
 36-1	5888-5892	Thus	_
 36-2	5893-5894	,	_
 36-3	5895-5897	in	_
@@ -1021,6 +1057,7 @@
 36-24	5992-5993	)	_
 36-25	5994-5995	.	_
 
+Text=It should be noted that the median ratings of the smaller and later expanded healthy control groups were highly correlated (Spearman R = 0.98, p <5 × 10−102).
 37-1	5996-5998	It	_
 37-2	5999-6005	should	_
 37-3	6006-6008	be	_
@@ -1055,6 +1092,7 @@
 37-32	6156-6157	)	_
 37-33	6158-6159	.	_
 
+Text=In the post-scan session, the participants watched the movie clip for a second time while continuously and retrospectively rating the fear intensity they recalled feeling during the first viewing in the scanner.
 38-1	6160-6162	In	_
 38-2	6163-6166	the	_
 38-3	6167-6176	post-scan	_
@@ -1090,6 +1128,7 @@
 38-33	6364-6371	scanner	_
 38-34	6372-6373	.	_
 
+Text=The rating was performed retrospectively to avoid the confounding effect of rating while being in the scanner for the first time.
 39-1	6374-6377	The	_
 39-2	6378-6384	rating	_
 39-3	6385-6388	was	_
@@ -1113,6 +1152,7 @@
 39-21	6498-6502	time	_
 39-22	6503-6504	.	_
 
+Text=Fear was the targeted emotion because it can be considered an “ empathic emotion ” inducer, since a threat is being posed to a cinematic character rather than to the subject themselves.
 40-1	6505-6509	Fear	_
 40-2	6510-6513	was	_
 40-3	6514-6517	the	_
@@ -1148,6 +1188,7 @@
 40-33	6680-6690	themselves	_
 40-34	6691-6692	.	_
 
+Text=The rating was sampled at 10 Hz using in-house software.
 41-1	6693-6696	The	_
 41-2	6697-6703	rating	_
 41-3	6704-6707	was	_
@@ -1160,6 +1201,7 @@
 41-10	6740-6748	software	_
 41-11	6749-6750	.	_
 
+Text=The participants used a vertical scale indicating 7 levels of fear—from neutral to very deep (each containing 3° of shift; 21° in total).
 42-1	6751-6754	The	_
 42-2	6755-6767	participants	_
 42-3	6768-6772	used	_
@@ -1188,6 +1230,7 @@
 42-26	6889-6890	)	_
 42-27	6891-6892	.	_
 
+Text=fMRI data acquisition and preprocessing fMRI scanning was performed using a GE 3 T Signa Excite echo speed scanner with an eight-channel head coil located at the Tel-Aviv Sourasky Medical Center.
 43-1	6893-6897	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 43-2	6898-6902	data	_
 43-3	6903-6914	acquisition	_
@@ -1221,6 +1264,7 @@
 43-31	7081-7087	Center	_
 43-32	7088-7089	.	_
 
+Text=Structural scans included a T1-weighted 3D axial spoiled gradient echo (SPGR) pulse sequence (TR/TE = 8.94/3.48 ms, slice thickness = 1 mm, flip angle = 13°, pixel size = 1 mm, FOV = 256 × 256 mm).
 44-1	7090-7100	Structural	_
 44-2	7101-7106	scans	_
 44-3	7107-7115	included	_
@@ -1268,6 +1312,7 @@
 44-45	7293-7294	)	_
 44-46	7295-7296	.	_
 
+Text=Functional whole-brain scans were performed in interleaved order with a T2 * -weighted gradient echo planar imaging pulse sequence (time repetition [TR] /TE = 3000/35 ms, flip angle = 90°, pixel size = 1.56 mm, FOV = 200 × 200 mm, slice thickness = 3 mm, 39 slices per volume).
 45-1	7297-7307	Functional	_
 45-2	7308-7319	whole-brain	_
 45-3	7320-7325	scans	_
@@ -1329,6 +1374,7 @@
 45-59	7581-7582	)	_
 45-60	7583-7584	.	_
 
+Text=Active noise canceling headphones (Optoacoustics) were used.
 46-1	7585-7591	Active	_
 46-2	7592-7597	noise	_
 46-3	7598-7607	canceling	_
@@ -1340,6 +1386,7 @@
 46-9	7642-7646	used	_
 46-10	7647-7648	.	_
 
+Text=Brain Voyager QX 2.4 was used for preprocessing and co-registration of the standardized anatomical and functional data.
 47-1	7649-7654	Brain	_
 47-2	7655-7662	Voyager	_
 47-3	7663-7665	QX	_
@@ -1359,6 +1406,7 @@
 47-17	7763-7767	data	_
 47-18	7768-7769	.	_
 
+Text=Head motions were detected and corrected using trilinear and sinc interpolations respectively, applying rigid body transformations with three translation and three rotation parameters.
 48-1	7770-7774	Head	_
 48-2	7775-7782	motions	_
 48-3	7783-7787	were	_
@@ -1385,6 +1433,7 @@
 48-24	7944-7954	parameters	_
 48-25	7955-7956	.	_
 
+Text=The data were high-pass filtered at 0.008 Hz and spatial smoothed with a 6 mm FWHM kernel.
 49-1	7957-7960	The	_
 49-2	7961-7965	data	_
 49-3	7966-7970	were	_
@@ -1404,6 +1453,7 @@
 49-17	8040-8046	kernel	_
 49-18	8047-8048	.	_
 
+Text=To avoid the confounding effects of fluctuations in the whole-brain BOLD signal, for each TR, each voxel was scaled by the global mean at that time point.
 50-1	8049-8051	To	_
 50-2	8052-8057	avoid	_
 50-3	8058-8061	the	_
@@ -1435,6 +1485,7 @@
 50-29	8199-8204	point	_
 50-30	8205-8206	.	_
 
+Text=Due to head movements (deviations higher than 1.5°/1.5 mm relative to the reference) three patients and one healthy control were excluded from the study.
 51-1	8207-8210	Due	_
 51-2	8211-8213	to	_
 51-3	8214-8218	head	_
@@ -1463,6 +1514,7 @@
 51-26	8356-8361	study	_
 51-27	8362-8363	.	_
 
+Text=Finally, we trimmed the functional data to improve the specificity of our analysis.
 52-1	8364-8371	Finally	_
 52-2	8372-8373	,	_
 52-3	8374-8376	we	_
@@ -1479,6 +1531,7 @@
 52-14	8439-8447	analysis	_
 52-15	8448-8449	.	_
 
+Text=The onset of the cinematic stimulus after a minute of rest may evoke emotional response regardless of the content of the film.
 53-1	8450-8453	The	_
 53-2	8454-8459	onset	_
 53-3	8460-8462	of	_
@@ -1503,6 +1556,7 @@
 53-22	8571-8575	film	_
 53-23	8576-8577	.	_
 
+Text=Since we were not interested in this psychological effect, we removed a segment of five TRs from the functional data that were collected during the film viewing.
 54-1	8578-8583	Since	_
 54-2	8584-8586	we	_
 54-3	8587-8591	were	_
@@ -1533,6 +1587,7 @@
 54-28	8732-8739	viewing	_
 54-29	8740-8741	.	_
 
+Text=The size of this segment was set to five TRs to discard the hemodynamic response to the film onset, as this response typically lasts 12–16 s. A segment including the five first time points was removed from the rating as well so that these signals could be comparable.
 55-1	8742-8745	The	_
 55-2	8746-8750	size	_
 55-3	8751-8753	of	_
@@ -1584,6 +1639,7 @@
 55-49	8999-9009	comparable	_
 55-50	9010-9011	.	_
 
+Text=Defining networks of interest The anatomical definition of social cognition-related networks relied on two relevant meta-analyses of ES and ToM neuroimaging studies (Fig.
 56-1	9012-9020	Defining	_
 56-2	9021-9029	networks	_
 56-3	9030-9032	of	_
@@ -1610,6 +1666,7 @@
 56-24	9179-9182	Fig	_
 56-25	9183-9184	.	_
 
+Text=1a, Table S2).
 57-1	9185-9187	1a	_
 57-2	9188-9189	,	_
 57-3	9190-9195	Table	_
@@ -1617,6 +1674,7 @@
 57-5	9199-9200	)	_
 57-6	9201-9202	.	_
 
+Text=Both networks were used in a previous analysis of network cohesion applied to data collected during the viewing of two additional cinematic contents used in our lab.
 58-1	9203-9207	Both	_
 58-2	9208-9216	networks	_
 58-3	9217-9221	were	_
@@ -1646,6 +1704,7 @@
 58-27	9364-9367	lab	_
 58-28	9368-9369	.	_
 
+Text=The statistical maps were kindly provided by the authors of refs.
 59-1	9370-9373	The	_
 59-2	9374-9385	statistical	_
 59-3	9386-9390	maps	_
@@ -1659,11 +1718,13 @@
 59-11	9430-9434	refs	_
 59-12	9435-9436	.	_
 
+Text=and, respectively.
 60-1	9437-9440	and	_
 60-2	9441-9442	,	_
 60-3	9443-9455	respectively	_
 60-4	9456-9457	.	_
 
+Text=The defined ES network was based on a meta-analysis of studies on vicarious pain experiences and included regions that were activated both during first-hand experiences of pain and while observing the pain of another.
 61-1	9458-9461	The	_
 61-2	9462-9469	defined	_
 61-3	9470-9472	ES	_
@@ -1700,6 +1761,7 @@
 61-34	9667-9674	another	_
 61-35	9675-9676	.	_
 
+Text=The defined ToM network was based on a meta-analysis of studies that involved taking the cognitive perspective of another ’ s mental state.
 62-1	9677-9680	The	_
 62-2	9681-9688	defined	_
 62-3	9689-9692	ToM	_
@@ -1725,6 +1787,7 @@
 62-23	9810-9815	state	_
 62-24	9816-9817	.	_
 
+Text=Seven regions were selected from the meta-analytical statistical map, and based on further evidence from another study as being the only regions reliability activated across various ToM tasks.
 63-1	9818-9823	Seven	_
 63-2	9824-9831	regions	_
 63-3	9832-9836	were	_
@@ -1756,6 +1819,7 @@
 63-29	10005-10010	tasks	_
 63-30	10011-10012	.	_
 
+Text=NCI analysis All NCI analyses were performed using a designated Matlab code, which will be made available upon request.
 64-1	10013-10016	NCI	_
 64-2	10017-10025	analysis	_
 64-3	10026-10029	All	_
@@ -1778,6 +1842,7 @@
 64-20	10125-10132	request	_
 64-21	10133-10134	.	_
 
+Text=In short, NCI analysis (Fig.
 65-1	10135-10137	In	_
 65-2	10138-10143	short	_
 65-3	10144-10145	,	_
@@ -1787,6 +1852,7 @@
 65-7	10161-10164	Fig	_
 65-8	10165-10166	.	_
 
+Text=1b) is a sliding-window method to estimate the functional connectivity dynamics between and within networks during continuous paradigms.
 66-1	10167-10169	1b	_
 66-2	10170-10171	)	_
 66-3	10172-10174	is	_
@@ -1808,6 +1874,7 @@
 66-19	10294-10303	paradigms	_
 66-20	10304-10305	.	_
 
+Text=NCI is a t-statistic based on the pairwise correlations of network nodes.
 67-1	10306-10309	NCI	_
 67-2	10310-10312	is	_
 67-3	10313-10314	a	_
@@ -1822,6 +1889,7 @@
 67-12	10373-10378	nodes	_
 67-13	10379-10380	.	_
 
+Text=It is sensitive to both the magnitude and variance of connectivity within the network, thus depicting cohesion between nodes.
 68-1	10381-10383	It	_
 68-2	10384-10386	is	_
 68-3	10387-10396	sensitive	_
@@ -1844,6 +1912,7 @@
 68-20	10501-10506	nodes	_
 68-21	10507-10508	.	_
 
+Text=In previous works, NCI of specific networks of interest were found to covary with empathy and emotion reactivity indices, pointing to their capacity to affect network dynamics.
 69-1	10509-10511	In	_
 69-2	10512-10520	previous	_
 69-3	10521-10526	works	_
@@ -1875,6 +1944,7 @@
 69-29	10678-10686	dynamics	_
 69-30	10687-10688	.	_
 
+Text=To compute NCI, we first extracted the signal for each of the network nodes.
 70-1	10689-10691	To	_
 70-2	10692-10699	compute	_
 70-3	10700-10703	NCI	_
@@ -1892,6 +1962,7 @@
 70-15	10760-10765	nodes	_
 70-16	10766-10767	.	_
 
+Text=The node ’ s signal was defined as the average signal of the voxel clusters reported by the relevant meta-analysis.
 71-1	10768-10771	The	_
 71-2	10772-10776	node	_
 71-3	10777-10778	’	_
@@ -1914,6 +1985,7 @@
 71-20	10869-10882	meta-analysis	_
 71-21	10883-10884	.	_
 
+Text=For each network, time-window, and participant, the set of all pairwise Pearson correlations within the network was computed.
 72-1	10885-10888	For	_
 72-2	10889-10893	each	_
 72-3	10894-10901	network	_
@@ -1937,6 +2009,7 @@
 72-21	11004-11012	computed	_
 72-22	11013-11014	.	_
 
+Text=The time-windows spanned over 30 s (10 TRs) according to previous evidence for the validity of using windows of this length.
 73-1	11015-11018	The	_
 73-2	11019-11031	time-windows	_
 73-3	11032-11039	spanned	_
@@ -1962,6 +2035,7 @@
 73-23	11134-11140	length	_
 73-24	11141-11142	.	_
 
+Text=We examined successive time windows with 90% overlap.
 74-1	11143-11145	We	_
 74-2	11146-11154	examined	_
 74-3	11155-11165	successive	_
@@ -1973,6 +2047,7 @@
 74-9	11189-11196	overlap	_
 74-10	11197-11198	.	_
 
+Text=NCI was computed as the t-statistic of a Student ’ s t-test with a null hypothesis of µR = 0, performed on the Fisher z transformed coefficients for each participant, network, and time-window.
 75-1	11199-11202	NCI	_
 75-2	11203-11206	was	_
 75-3	11207-11215	computed	_
@@ -2011,6 +2086,7 @@
 75-36	11382-11393	time-window	_
 75-37	11394-11395	.	_
 
+Text=In this test, the t-statistic serves as a probe for the connectivity within the network, with elevated values when the mean correlation is high and variance is low.
 76-1	11396-11398	In	_
 76-2	11399-11403	this	_
 76-3	11404-11408	test	_
@@ -2043,6 +2119,7 @@
 76-30	11558-11561	low	_
 76-31	11562-11563	.	_
 
+Text=Correlation of NCI with fear rating group difference We next investigated whether the difference between the fear ratings of schizophrenia patients and healthy controls were related to the corresponding inter-group difference in the connectivity of the ES and ToM networks.
 77-1	11564-11575	Correlation	_
 77-2	11576-11578	of	_
 77-3	11579-11582	NCI	http://maven.renci.org/NeuroBridge/neurobridge#ThyroidCancer
@@ -2085,6 +2162,7 @@
 77-40	11828-11836	networks	_
 77-41	11837-11838	.	_
 
+Text=To examine the temporal relations between these parameters, we computed cross-correlations between NCI and the difference in rating indices, while displacing one time series relative to the other.
 78-1	11839-11841	To	_
 78-2	11842-11849	examine	_
 78-3	11850-11853	the	_
@@ -2117,6 +2195,7 @@
 78-30	12031-12036	other	_
 78-31	12037-12038	.	_
 
+Text=To fit the rating index with the sliding-window format used for NCI analysis, the data was first down-sampled to 30 s windows.
 79-1	12039-12041	To	_
 79-2	12042-12045	fit	_
 79-3	12046-12049	the	_
@@ -2142,6 +2221,7 @@
 79-23	12158-12165	windows	_
 79-24	12166-12167	.	_
 
+Text=In each time-window we performed a non-parametric Wilcoxon test to compare the median rating of the schizophrenia and healthy control groups.
 80-1	12168-12170	In	_
 80-2	12171-12175	each	_
 80-3	12176-12187	time-window	_
@@ -2165,6 +2245,7 @@
 80-21	12302-12308	groups	_
 80-22	12309-12310	.	_
 
+Text=A corresponding index for the inter-group NCI difference was similarly computed via a Wilcoxon test for the ES and ToM networks.
 81-1	12311-12312	A	_
 81-2	12313-12326	corresponding	_
 81-3	12327-12332	index	_
@@ -2188,6 +2269,7 @@
 81-21	12430-12438	networks	_
 81-22	12439-12440	.	_
 
+Text=The resulting Z-statistic time series were cross-correlated, as the NCI time-series were displaced relative to the rating difference series in a range of ±one time window with a single time point (one TR) lag (i.e., the NCI signal was shifted in up to ±10 TRs relative to the rating; see Fig.
 82-1	12441-12444	The	_
 82-2	12445-12454	resulting	_
 82-3	12455-12466	Z-statistic	_
@@ -2247,10 +2329,12 @@
 82-57	12735-12738	Fig	_
 82-58	12739-12740	.	_
 
+Text=S1).
 83-1	12741-12743	S1	_
 83-2	12744-12745	)	_
 83-3	12746-12747	.	_
 
+Text=This procedure yielded 21 NCI time courses (the non-shifted time series + 10 backward and forward shifted time courses) with 131 time-points each according to the following calculation (see Fig.
 84-1	12748-12752	This	_
 84-2	12753-12762	procedure	_
 84-3	12763-12770	yielded	_
@@ -2286,6 +2370,7 @@
 84-33	12941-12944	Fig	_
 84-34	12945-12946	.	_
 
+Text=S1 for visualization): The duration of the movie clip was 165 TRs.
 85-1	12947-12949	S1	_
 85-2	12950-12953	for	_
 85-3	12954-12967	visualization	_
@@ -2302,6 +2387,7 @@
 85-14	13011-13014	TRs	_
 85-15	13015-13016	.	_
 
+Text=As mentioned above, five TRs were discarded from the data to avoid the film onset effect.
 86-1	13017-13019	As	_
 86-2	13020-13029	mentioned	_
 86-3	13030-13035	above	_
@@ -2321,6 +2407,7 @@
 86-17	13100-13106	effect	_
 86-18	13107-13108	.	_
 
+Text=For the time series of 160 TRs that were left after this trimming, we calculated 151 sliding NCI/rating time windows (10 TRs each).
 87-1	13109-13112	For	_
 87-2	13113-13116	the	_
 87-3	13117-13121	time	_
@@ -2349,6 +2436,7 @@
 87-26	13241-13242	)	_
 87-27	13243-13244	.	_
 
+Text=From this NCI time series of 151 TRs we then derived time series shifted in up to ±10 TRs.
 88-1	13245-13249	From	_
 88-2	13250-13254	this	_
 88-3	13255-13258	NCI	_
@@ -2370,6 +2458,7 @@
 88-19	13331-13334	TRs	_
 88-20	13335-13336	.	_
 
+Text=These shifted time series were generated in an identical size to allow proper comparison.
 89-1	13337-13342	These	_
 89-2	13343-13350	shifted	_
 89-3	13351-13355	time	_
@@ -2386,6 +2475,7 @@
 89-14	13415-13425	comparison	_
 89-15	13426-13427	.	_
 
+Text=Under these constrains, the maximal size of the shifted time series was 131 TRs.
 90-1	13428-13433	Under	_
 90-2	13434-13439	these	_
 90-3	13440-13450	constrains	_
@@ -2403,6 +2493,7 @@
 90-15	13505-13508	TRs	_
 90-16	13509-13510	.	_
 
+Text=Spearman ’ s correlation coefficients were computed for each of the lagged data sets; for 21 inter-group NCI and rating duplets with 131 time-points each.
 91-1	13511-13519	Spearman	_
 91-2	13520-13521	’	_
 91-3	13522-13523	s	_
@@ -2431,6 +2522,7 @@
 91-26	13661-13665	each	_
 91-27	13666-13667	.	_
 
+Text=We determined the significance of the correlations by applying a bootstrapping procedure that included phase randomization for each Fourier component of the individual NCI time series and then the inverse Fourier transformation.
 92-1	13668-13670	We	_
 92-2	13671-13681	determined	_
 92-3	13682-13685	the	_
@@ -2465,6 +2557,7 @@
 92-32	13881-13895	transformation	_
 92-33	13896-13897	.	_
 
+Text=To control for 21 comparisons for each of the two main hypotheses (ToM-NCI rating and ES-NCI rating associations), we applied false discovery rate (FDR) for independent or positively dependent tests.
 93-1	13898-13900	To	_
 93-2	13901-13908	control	_
 93-3	13909-13912	for	_
@@ -2502,6 +2595,7 @@
 93-35	14096-14101	tests	_
 93-36	14102-14103	.	_
 
+Text=Comparing NCI between groups We further examined whether significant NCI differences between schizophrenia patients and healthy controls can be found at specific time-windows during the movie.
 94-1	14104-14113	Comparing	_
 94-2	14114-14117	NCI	_
 94-3	14118-14125	between	_
@@ -2530,6 +2624,7 @@
 94-26	14290-14295	movie	_
 94-27	14296-14297	.	_
 
+Text=To compare network connectivity between the groups, a two-sided Wilcoxon test was performed on the two distributions of individual NCI values for each of the networks.
 95-1	14298-14300	To	_
 95-2	14301-14308	compare	_
 95-3	14309-14316	network	_
@@ -2559,6 +2654,7 @@
 95-27	14457-14465	networks	_
 95-28	14466-14467	.	_
 
+Text=This test was repeated for each of the time-windows.
 96-1	14468-14472	This	_
 96-2	14473-14477	test	_
 96-3	14478-14481	was	_
@@ -2570,6 +2666,7 @@
 96-9	14507-14519	time-windows	_
 96-10	14520-14521	.	_
 
+Text=To control for multiple comparisons, FDR correction was applied considering the total number of comparisons for each network (131 comparisons).
 97-1	14522-14524	To	_
 97-2	14525-14532	control	_
 97-3	14533-14536	for	_
@@ -2595,6 +2692,7 @@
 97-23	14666-14667	)	_
 97-24	14668-14669	.	_
 
+Text=We further examined whether differences between the groups are specifically related to the network connectivity or could also be found when comparing the time series of the BOLD amplitudes of these networks.
 98-1	14670-14672	We	_
 98-2	14673-14680	further	_
 98-3	14681-14689	examined	_
@@ -2629,6 +2727,7 @@
 98-32	14868-14876	networks	_
 98-33	14877-14878	.	_
 
+Text=Thus, we averaged the Z-scored signals obtained for all of the network nodes, averaged the signals again using a sliding windows of 10 TRs and compared the resulting time series between the groups using a two-sided Wilcoxon test.
 99-1	14879-14883	Thus	_
 99-2	14884-14885	,	_
 99-3	14886-14888	we	_
@@ -2671,6 +2770,7 @@
 99-40	15105-15109	test	_
 99-41	15110-15111	.	_
 
+Text=Correlating NCIs with schizophrenia symptoms We next examined the co-variation between the network connectivity indices and the severity of schizophrenia symptoms.
 100-1	15112-15123	Correlating	_
 100-2	15124-15128	NCIs	_
 100-3	15129-15133	with	_
@@ -2694,6 +2794,7 @@
 100-21	15266-15274	symptoms	_
 100-22	15275-15276	.	_
 
+Text=We computed a Spearman correlation between the empathy-related NCIs and the positive, negative, and general Positive and Negative Syndrome Scale (PANSS) scores for each time-window throughout the movie.
 101-1	15277-15279	We	_
 101-2	15280-15288	computed	_
 101-3	15289-15290	a	_
@@ -2728,6 +2829,7 @@
 101-32	15477-15482	movie	_
 101-33	15483-15484	.	_
 
+Text=FDR correction was applied to control for the total number of comparisons (131 comparisons) for each of the six main hypotheses (association between ES/ToM NCI and the positive, negative or general symptoms).
 102-1	15485-15488	FDR	_
 102-2	15489-15499	correction	_
 102-3	15500-15503	was	_
@@ -2767,6 +2869,7 @@
 102-37	15696-15697	)	_
 102-38	15698-15699	.	_
 
+Text=Classification based on ToM and ES NCI In order to classify participants into their respective groups (Schizophrenia patients and healthy controls) we applied the k-nearest neighbor (KNN) classifier, which is a widely used machine learning classification algorithm based on the closest training examples in the feature space.
 103-1	15700-15714	Classification	_
 103-2	15715-15720	based	_
 103-3	15721-15723	on	_
@@ -2821,6 +2924,7 @@
 103-52	16024-16029	space	_
 103-53	16030-16031	.	_
 
+Text=We used k = 10, and classification was carried out in the Matlab Classification Learner application (The MathWorks Inc., Natick, MA, USA).
 104-1	16032-16034	We	_
 104-2	16035-16039	used	_
 104-3	16040-16041	k	_
@@ -2851,6 +2955,7 @@
 104-28	16174-16175	)	_
 104-29	16176-16177	.	_
 
+Text=The NCI values per time point per network (simulation and ToM) were used as predictors (total of 302 features).
 105-1	16178-16181	The	_
 105-2	16182-16185	NCI	_
 105-3	16186-16192	values	_
@@ -2876,6 +2981,7 @@
 105-23	16291-16292	)	_
 105-24	16293-16294	.	_
 
+Text=We then assessed generalization through five-fold cross-validation.
 106-1	16295-16297	We	_
 106-2	16298-16302	then	_
 106-3	16303-16311	assessed	_
@@ -2885,6 +2991,7 @@
 106-7	16345-16361	cross-validation	_
 106-8	16362-16363	.	_
 
+Text=The overall accuracy, sensitivity, specificity, and positive predictive value (PPV) was computed for each classifier; overall accuracy was the number of true classifications to total cohort; sensitivity was the number of true positives (i.e.
 107-1	16364-16367	The	_
 107-2	16368-16375	overall	_
 107-3	16376-16384	accuracy	_
@@ -2929,6 +3036,7 @@
 107-42	16609-16612	i.e	_
 107-43	16613-16614	.	_
 
+Text=patients correctly classified) for the total number of patients; specificity was the number of true negatives (i.e.
 108-1	16615-16623	patients	_
 108-2	16624-16633	correctly	_
 108-3	16634-16644	classified	_
@@ -2951,6 +3059,7 @@
 108-20	16729-16732	i.e	_
 108-21	16733-16734	.	_
 
+Text=healthy controls correctly classified) for the total number of healthy controls; positive predictive value (PPV) was the ratio of the true positives for all positive classifications (i.e.
 109-1	16735-16742	healthy	_
 109-2	16743-16751	controls	_
 109-3	16752-16761	correctly	_
@@ -2985,6 +3094,7 @@
 109-32	16923-16926	i.e	_
 109-33	16927-16928	.	_
 
+Text=true and false positives).
 110-1	16929-16933	true	_
 110-2	16934-16937	and	_
 110-3	16938-16943	false	_
@@ -2992,6 +3102,7 @@
 110-5	16954-16955	)	_
 110-6	16956-16957	.	_
 
+Text=Statistics were derived from the mean and standard deviation of all 1000 classifiers.
 111-1	16958-16968	Statistics	_
 111-2	16969-16973	were	_
 111-3	16974-16981	derived	_
@@ -3007,6 +3118,7 @@
 111-13	17031-17042	classifiers	_
 111-14	17043-17044	.	_
 
+Text=For additional statistical significance assessment of the classification accuracy we conducted a bootstrapping procedure of permutation tests.
 112-1	17045-17048	For	_
 112-2	17049-17059	additional	_
 112-3	17060-17071	statistical	_
@@ -3026,6 +3138,7 @@
 112-17	17181-17186	tests	_
 112-18	17187-17188	.	_
 
+Text=The class labels of the original dataset were randomly permuted and then classified using the identical aforementioned KNN analysis procedure (using five-fold cross-validation and 1000 repetitions).
 113-1	17189-17192	The	_
 113-2	17193-17198	class	_
 113-3	17199-17205	labels	_
@@ -3056,6 +3169,7 @@
 113-28	17387-17388	)	_
 113-29	17389-17390	.	_
 
+Text=This procedure was again repeated 1000 times.
 114-1	17391-17395	This	_
 114-2	17396-17405	procedure	_
 114-3	17406-17409	was	_
@@ -3065,6 +3179,7 @@
 114-7	17430-17435	times	_
 114-8	17436-17437	.	_
 
+Text=The p-value of the permutation test was defined as the fraction of the number of permuted classifiers that obtained better classification accuracy than the original dataset, given aswhere k is the number of permutation tests (k = 1000).
 115-1	17438-17441	The	_
 115-2	17442-17449	p-value	_
 115-3	17450-17452	of	_

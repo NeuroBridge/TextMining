@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=DRD2 methylation is associated with executive control network connectivity and severity of alcohol problems among a sample of polysubstance users Chronic exposure to alcohol and other drugs of abuse has been associated with deleterious consequences, including functional connectivity deficits within neural networks associated with executive control.
 1-1	0-4	DRD2	_
 1-2	5-16	methylation	_
 1-3	17-19	is	_
@@ -51,6 +52,7 @@
 1-47	343-350	control	_
 1-48	351-352	.	_
 
+Text=Altered functional connectivity within the executive control network (ECN) might underlie the progressive inability to control consumption of alcohol and other drugs as substance use disorders progress.
 2-1	353-360	Altered	_
 2-2	361-371	functional	_
 2-3	372-384	connectivity	_
@@ -82,6 +84,7 @@
 2-29	548-556	progress	_
 2-30	557-558	.	_
 
+Text=Genetic and epigenetic factors have been associated with substance use disorders (SUDs).
 3-1	559-566	Genetic	_
 3-2	567-570	and	_
 3-3	571-581	epigenetic	_
@@ -98,6 +101,7 @@
 3-14	647-648	)	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 3-15	649-650	.	_
 
+Text=For example, dopamine receptor 2 (DRD2) functioning has been associated with alcohol use disorder (AUD) and related phenotypes, including correlates of executive functioning.
 4-1	651-654	For	_
 4-2	655-662	example	_
 4-3	663-664	,	_
@@ -129,6 +133,7 @@
 4-29	819-830	functioning	_
 4-30	831-832	.	_
 
+Text=The present study aims to explore the relationship between a continuous measure of alcohol-related problems, epigenetic markers (methylation) within the DRD2 gene, and functional connectivity within the ECN among a sample of polysubstance users.
 5-1	833-836	The	_
 5-2	837-844	present	_
 5-3	845-850	study	_
@@ -169,6 +174,7 @@
 5-38	1076-1081	users	_
 5-39	1082-1083	.	_
 
+Text=A community sample of 658 subjects, whose consumption of alcohol, nicotine, and cannabis span across a spectrum of quantity and frequency of use, were obtained across previous studies in polysubstance using populations.
 6-1	1084-1085	A	_
 6-2	1086-1095	community	_
 6-3	1096-1102	sample	_
@@ -207,6 +213,7 @@
 6-36	1295-1306	populations	_
 6-37	1307-1308	.	_
 
+Text=Resting state functional magnetic resonance imaging was analyzed to identify intrinsic connectivity networks using a priori regions of interest.
 7-1	1309-1316	Resting	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 7-2	1317-1322	state	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 7-3	1323-1333	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -228,6 +235,7 @@
 7-19	1444-1452	interest	_
 7-20	1453-1454	.	_
 
+Text=Methylation measurement of functionally relevant sites within the DRD2 gene was achieved via pyrosequencing.
 8-1	1455-1466	Methylation	_
 8-2	1467-1478	measurement	_
 8-3	1479-1481	of	_
@@ -244,6 +252,7 @@
 8-14	1548-1562	pyrosequencing	_
 8-15	1563-1564	.	_
 
+Text=Regression-based models, including mediation and moderation models, tested the association between DRD2 methylation, functional connectivity within intrinsic neural networks (including the ECN), and severity of alcohol problems.
 9-1	1565-1581	Regression-based	_
 9-2	1582-1588	models	_
 9-3	1589-1590	,	_
@@ -279,6 +288,7 @@
 9-33	1790-1798	problems	_
 9-34	1799-1800	.	_
 
+Text=Results suggest that average DRD2 methylation was negatively associated with right ECN (RECN) and left ECN (LECN) connectivity, but not associated with other networks tested, and DRD2 methylation was significantly associated with alcohol problems severity.
 10-1	1801-1808	Results	_
 10-2	1809-1816	suggest	_
 10-3	1817-1821	that	_
@@ -322,6 +332,7 @@
 10-41	2054-2062	severity	_
 10-42	2063-2064	.	_
 
+Text=Mediation models were not supported, although moderation models suggested that connectivity between edges within the RECN moderated the relationship between DRD2 methylation and AUD severity.
 11-1	2065-2074	Mediation	_
 11-2	2075-2081	models	_
 11-3	2082-2086	were	_
@@ -350,6 +361,7 @@
 11-26	2248-2256	severity	_
 11-27	2257-2258	.	_
 
+Text=Results support a theoretical model in which epigenetic factors are associated with neurobiological correlates of alcohol consumption among a sample of polysubstance users.
 12-1	2259-2266	Results	_
 12-2	2267-2274	support	_
 12-3	2275-2276	a	_
@@ -375,6 +387,7 @@
 12-23	2425-2430	users	_
 12-24	2431-2432	.	_
 
+Text=MATERIALS AND METHODS Study samples Resting state connectivity and epigenomic data were obtained across previous studies in polysubstance using populations.
 13-1	2433-2442	MATERIALS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-2	2443-2446	AND	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-3	2447-2454	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -397,6 +410,7 @@
 13-20	2577-2588	populations	_
 13-21	2589-2590	.	_
 
+Text=The current analyses included data from three studies.
 14-1	2591-2594	The	_
 14-2	2595-2602	current	_
 14-3	2603-2611	analyses	_
@@ -407,6 +421,7 @@
 14-8	2637-2644	studies	_
 14-9	2645-2646	.	_
 
+Text=The main differences across the three studies include the following: One study enrolled regular binge drinkers, another study enrolled treatment seekers who met criteria for AUD, and the third study enrolled treatment seeking cigarette smokers.
 15-1	2647-2650	The	_
 15-2	2651-2655	main	_
 15-3	2656-2667	differences	_
@@ -447,6 +462,7 @@
 15-38	2886-2893	smokers	_
 15-39	2894-2895	.	_
 
+Text=See Table 1 for descriptive statistics on substance use by source study.
 16-1	2896-2899	See	_
 16-2	2900-2905	Table	_
 16-3	2906-2907	1	_
@@ -461,6 +477,7 @@
 16-12	2962-2967	study	_
 16-13	2968-2969	.	_
 
+Text=Two of the three studies were clinical trials involving pharmacotherapies (olanzapine and varenicline); however, the imaging data included in the present set of analyses were collected during baseline magnetic resonance imaging (MRI) scans.
 17-1	2970-2973	Two	_
 17-2	2974-2976	of	_
 17-3	2977-2980	the	_
@@ -502,6 +519,7 @@
 17-39	3210-3215	scans	_
 17-40	3216-3217	.	_
 
+Text=Therefore, the imaging data were collected prior to the initiation of the medication regimens.
 18-1	3218-3227	Therefore	_
 18-2	3228-3229	,	_
 18-3	3230-3233	the	_
@@ -519,6 +537,7 @@
 18-15	3304-3312	regimens	_
 18-16	3313-3314	.	_
 
+Text=Briefly, participants were recruited from the Albuquerque or the Boulder/Denver metropolitan regions through advertisements in local print, online media, and radio advertisements.
 19-1	3315-3322	Briefly	_
 19-2	3323-3324	,	_
 19-3	3325-3337	participants	_
@@ -546,6 +565,7 @@
 19-25	3482-3496	advertisements	_
 19-26	3497-3498	.	_
 
+Text=Exclusionary criteria across studies included previous brain injury or loss of consciousness for more than 5 minutes, history of bipolar disorder or a psychotic disorder, or a positive pregnancy test.
 20-1	3499-3511	Exclusionary	_
 20-2	3512-3520	criteria	_
 20-3	3521-3527	across	_
@@ -580,6 +600,7 @@
 20-32	3696-3700	test	_
 20-33	3701-3702	.	_
 
+Text=Additionally, across the three studies, subjects were excluded if they tested positive for illicit drugs of abuse (other than marijuana).
 21-1	3703-3715	Additionally	_
 21-2	3716-3717	,	_
 21-3	3718-3724	across	_
@@ -606,6 +627,7 @@
 21-24	3842-3843	)	_
 21-25	3844-3845	.	_
 
+Text=Subjects abstained from smoking for 2 hours before scanning, from alcohol consumption for 24 hours (per patient report), and were required to pass a breathalyzer test immediately prior to participation.
 22-1	3846-3854	Subjects	_
 22-2	3855-3864	abstained	_
 22-3	3865-3869	from	_
@@ -642,6 +664,7 @@
 22-34	4038-4051	participation	_
 22-35	4052-4053	.	_
 
+Text=The resting state neuroimaging and methylation analysis procedures were identical across all studies that were included in these analyses.
 23-1	4054-4057	The	_
 23-2	4058-4065	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 23-3	4066-4071	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -663,6 +686,7 @@
 23-19	4183-4191	analyses	_
 23-20	4192-4193	.	_
 
+Text=Written informed consent, approved by the University of New Mexico Human Research Committee, was obtained from all participants.
 24-1	4194-4201	Written	_
 24-2	4202-4210	informed	_
 24-3	4211-4218	consent	_
@@ -685,6 +709,7 @@
 24-20	4311-4323	participants	_
 24-21	4324-4325	.	_
 
+Text=Data collection for all studies included in this manuscript has concluded.
 25-1	4326-4330	Data	_
 25-2	4331-4341	collection	_
 25-3	4342-4345	for	_
@@ -698,6 +723,7 @@
 25-11	4390-4399	concluded	_
 25-12	4400-4401	.	_
 
+Text=While data from these studies have been previously published (eg, Bidwell et al and Claus et al), the aims of the current investigation are distinct from aims of any of the original studies and resulting manuscripts.
 26-1	4402-4407	While	_
 26-2	4408-4412	data	_
 26-3	4413-4417	from	_
@@ -740,6 +766,7 @@
 26-40	4610-4621	manuscripts	_
 26-41	4622-4623	.	_
 
+Text=A total of 658 participants were included on the basis of having complete epigenetic, and behavioral data and a subsample of 621 subjects were included in all neuroimaging analyses on the basis of having complete neuroimaging, epigenetic, and behavioral data after excluding subjects with excessive motion during the MRI scan (see below).
 27-1	4624-4625	A	_
 27-2	4626-4631	total	_
 27-3	4632-4634	of	_
@@ -799,6 +826,7 @@
 27-57	4965-4966	)	_
 27-58	4967-4968	.	_
 
+Text=The average age of the sample was 31.4 (SD = 9.51), and the gender breakdown was as follows: 242 females and 416 males.
 28-1	4969-4972	The	_
 28-2	4973-4980	average	_
 28-3	4981-4984	age	_
@@ -828,6 +856,7 @@
 28-27	5086-5091	males	_
 28-28	5092-5093	.	_
 
+Text=On average, study samples had an AUDIT score of 12.11 (SD = 8.12) at the time of the study appointment.
 29-1	5094-5096	On	_
 29-2	5097-5104	average	_
 29-3	5105-5106	,	_
@@ -853,6 +882,7 @@
 29-23	5188-5199	appointment	_
 29-24	5200-5201	.	_
 
+Text=On average, subjects within the sample reported 1.57 drinks per drinking day (SD = 6.09), 10.46 cigarettes per smoking day (SD = 8.39).
 30-1	5202-5204	On	_
 30-2	5205-5212	average	_
 30-3	5213-5214	,	_
@@ -884,6 +914,7 @@
 30-29	5341-5342	)	_
 30-30	5343-5344	.	_
 
+Text=According to the 30-day Timeline Follow Back, subjects used alcohol 12.131 days/month on average (SD = 8.947), used cannabis 4.562 days/month on average (SD = 8.872), and smoked nicotine cigarettes 17.79 days/month on average (SD = 14.21).
 31-1	5345-5354	According	_
 31-2	5355-5357	to	_
 31-3	5358-5361	the	_
@@ -932,6 +963,7 @@
 31-46	5591-5592	)	_
 31-47	5593-5594	.	_
 
+Text=We conducted a power analysis for the primary models (ie, DRD2 methylation predicting RECN/LECN connectivity).
 32-1	5595-5597	We	_
 32-2	5598-5607	conducted	_
 32-3	5608-5609	a	_
@@ -952,6 +984,7 @@
 32-18	5706-5707	)	_
 32-19	5708-5709	.	_
 
+Text=The power analysis was specified with the following parameters: testing a single regression coefficient in linear multiple regression, based on a sample size of 621 subjects with three predictors (DRD2 methylation, age, and sex), with a two-tailed alpha significance threshold of 0.05 and 80% power.
 33-1	5710-5713	The	_
 33-2	5714-5719	power	_
 33-3	5720-5728	analysis	_
@@ -1007,6 +1040,7 @@
 33-53	6011-6016	power	_
 33-54	6017-6018	.	_
 
+Text=With this sample size, the primary analyses were fully powered to detect small effect size f 2 = 0.01 (G * Power 3.1; Faul et al, 2009).
 34-1	6019-6023	With	_
 34-2	6024-6028	this	_
 34-3	6029-6035	sample	_
@@ -1041,6 +1075,7 @@
 34-32	6158-6159	)	_
 34-33	6160-6161	.	_
 
+Text=Measures In addition to providing basic demographic information, participants responded to a battery of mood and substance use questionnaires.
 35-1	6162-6170	Measures	_
 35-2	6171-6173	In	_
 35-3	6174-6182	addition	_
@@ -1063,6 +1098,7 @@
 35-20	6290-6304	questionnaires	_
 35-21	6305-6306	.	_
 
+Text=Relevant to the current study, participants completed the Alcohol Use Disorders Identification Test, which assesses symptoms of alcohol abuse and dependence over the past 6 months.
 36-1	6307-6315	Relevant	_
 36-2	6316-6318	to	_
 36-3	6319-6322	the	_
@@ -1093,6 +1129,7 @@
 36-28	6482-6488	months	_
 36-29	6489-6490	.	_
 
+Text=Given that the sample included aggregated data from three different subsamples, we felt it important to examine the distribution of the AUDIT measure, both within the full sample and within each of the subsamples.
 37-1	6491-6496	Given	_
 37-2	6497-6501	that	_
 37-3	6502-6505	the	_
@@ -1131,6 +1168,7 @@
 37-36	6695-6705	subsamples	_
 37-37	6706-6707	.	_
 
+Text=Within the full sample, the skewness of the AUDIT measure is.658, and the kurtosis of the AUDIT measure within the first sample is 2.908.
 38-1	6708-6714	Within	_
 38-2	6715-6718	the	_
 38-3	6719-6723	full	_
@@ -1159,6 +1197,7 @@
 38-26	6841-6846	2.908	_
 38-27	6847-6848	.	_
 
+Text=See Table 1 for skewness and kurtosis of the AUDIT measure across each of the samples that comprise the full aggregate sample (ie, Littlewood et al; Littlewood et al; Claus et al).
 39-1	6849-6852	See	_
 39-2	6853-6858	Table	_
 39-3	6859-6860	1	_
@@ -1198,6 +1237,7 @@
 39-37	7032-7033	)	_
 39-38	7034-7035	.	_
 
+Text=Skewness <2 and kurtosis <7 are commonly used cutoffs on these parameters.
 40-1	7036-7044	Skewness	_
 40-2	7045-7046	<	_
 40-3	7047-7048	2	_
@@ -1214,6 +1254,7 @@
 40-14	7101-7111	parameters	_
 40-15	7112-7113	.	_
 
+Text=Thus, this suggests that the distribution of the AUDIT measure for the full sample and for each of the subsamples that comprise the full sample is considered normal, which lends justification for combining the subsamples with regard to the AUDIT measure.
 41-1	7114-7118	Thus	_
 41-2	7119-7120	,	_
 41-3	7121-7125	this	_
@@ -1259,6 +1300,7 @@
 41-43	7362-7369	measure	_
 41-44	7370-7371	.	_
 
+Text=Image acquisition and preprocessing Whole brain resting state functional magnetic resonance imaging (fMRI) was performed on a 3-T Siemens Trio scanner with a 12-channel radio frequency coil.
 42-1	7372-7377	Image	_
 42-2	7378-7389	acquisition	_
 42-3	7390-7393	and	_
@@ -1290,6 +1332,7 @@
 42-29	7559-7563	coil	_
 42-30	7564-7565	.	_
 
+Text=In the scanner, tape was placed across the participants ’ forehead to serve as feedback for movement reduction.
 43-1	7566-7568	In	_
 43-2	7569-7572	the	_
 43-3	7573-7580	scanner	_
@@ -1311,6 +1354,7 @@
 43-19	7668-7677	reduction	_
 43-20	7678-7679	.	_
 
+Text=T2 * -weighted functional images were acquired using a gradient-echo echo-planer imaging (EPI) sequence: TE = 29 milliseconds, TR = 2 seconds, flip angle = 75°, slice thickness = 3.5 mm, slice gap = 1.05 mm, field of view = 240 mm, 64× 64matrix, voxel size = 3.75 mm × 3.75 mm × 3.5 mm.
 44-1	7680-7682	T2	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 44-2	7683-7684	*	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 44-3	7685-7694	-weighted	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -1378,6 +1422,7 @@
 44-65	7973-7975	mm	_
 44-66	7976-7977	.	_
 
+Text=Resting-state scans were 5 minutes in duration.
 45-1	7978-7991	Resting-state	_
 45-2	7992-7997	scans	_
 45-3	7998-8002	were	_
@@ -1387,6 +1432,7 @@
 45-7	8016-8024	duration	_
 45-8	8025-8026	.	_
 
+Text=Subjects were instructed to keep their eyes open and fixate on a cross.
 46-1	8027-8035	Subjects	_
 46-2	8036-8040	were	_
 46-3	8041-8051	instructed	_
@@ -1402,6 +1448,7 @@
 46-13	8092-8097	cross	_
 46-14	8098-8099	.	_
 
+Text=High-resolution T1-weighted structural image were acquired with a 5-echo MPRAGE sequence with the following parameters: TE = 1.64, 3.5, 5.36, 7.22, and 9.08 milliseconds, TR = 2.53 seconds, TI = 1.2 seconds, flip angle = 7°, excitations = 1, slice thickness = 1 mm, field of view = 256 mm, resolution = 256 × 256 × 176, voxel size = 1 × 1 × 1 mm, pixel bandwidth = 650 Hz.
 47-1	8100-8115	High-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 47-2	8116-8127	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 47-3	8128-8138	structural	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1489,6 +1536,7 @@
 47-85	8483-8485	Hz	_
 47-86	8486-8487	.	_
 
+Text=Images were preprocessed with Statistical Parametric Mapping Version 5 (SPM5) software (WellcomeTrust Centre for Neuroimaging, London, UK) for slice-time and motion correction, and then normalization to Montreal Neurological Institute (MNI) space.
 48-1	8488-8494	Images	_
 48-2	8495-8499	were	_
 48-3	8500-8512	preprocessed	_
@@ -1531,6 +1579,7 @@
 48-40	8738-8743	space	_
 48-41	8744-8745	.	_
 
+Text=Additionally, participants with excessive head motion (> 2 mm translational or 0.035 radians rotational movement) were excluded from all analyses for additional quality control, consistent with the motion exclusion criterion used in other published studies from our group.
 49-1	8746-8758	Additionally	_
 49-2	8759-8760	,	_
 49-3	8761-8773	participants	_
@@ -1575,6 +1624,7 @@
 49-42	9016-9021	group	_
 49-43	9022-9023	.	_
 
+Text=A total of 65 subjects were excluded for excessive motion based on these parameters.
 50-1	9024-9025	A	_
 50-2	9026-9031	total	_
 50-3	9032-9034	of	_
@@ -1591,6 +1641,7 @@
 50-14	9097-9107	parameters	_
 50-15	9108-9109	.	_
 
+Text=The decision to exclude a given participant on the basis of excessive motion absolutely (rather than frame to frame) was based on findings suggesting that functional connectivity analyses are particularly vulnerable to excessive motion, and head motion is a relatively stable trait within individuals.
 51-1	9110-9113	The	_
 51-2	9114-9122	decision	_
 51-3	9123-9125	to	_
@@ -1640,6 +1691,7 @@
 51-47	9402-9413	individuals	_
 51-48	9414-9415	.	_
 
+Text=Network functional connectivity analysis In order to investigate connectivity, we used methods consistent with previous studies conducted within our group.
 52-1	9416-9423	Network	_
 52-2	9424-9434	functional	_
 52-3	9435-9447	connectivity	_
@@ -1663,6 +1715,7 @@
 52-21	9566-9571	group	_
 52-22	9572-9573	.	_
 
+Text=Briefly, we used the functionally defined intrinsic connectivity networks (ICNs), which have been defined previously.
 53-1	9574-9581	Briefly	_
 53-2	9582-9583	,	_
 53-3	9584-9586	we	_
@@ -1684,6 +1737,7 @@
 53-19	9684-9694	previously	_
 53-20	9695-9696	.	_
 
+Text=These networks are derived from 90 distinct network nodes that represent regions of interest (ROIs) that span across the majority of cortical and subcortical gray matter.
 54-1	9697-9702	These	_
 54-2	9703-9711	networks	_
 54-3	9712-9715	are	_
@@ -1714,6 +1768,7 @@
 54-28	9862-9868	matter	_
 54-29	9869-9870	.	_
 
+Text=Using in house scripts, functional connections between nodes (ie, edges) were calculated by creating a correlation matrix between the time series of all nodes within each network for each subject.
 55-1	9871-9876	Using	_
 55-2	9877-9879	in	_
 55-3	9880-9885	house	_
@@ -1750,6 +1805,7 @@
 55-34	10063-10070	subject	_
 55-35	10071-10072	.	_
 
+Text=A Fisher r- to-z transformation was applied, yielding z-scores for use in subsequent analyses.
 56-1	10073-10074	A	_
 56-2	10075-10081	Fisher	_
 56-3	10082-10084	r-	_
@@ -1767,6 +1823,7 @@
 56-15	10159-10167	analyses	_
 56-16	10168-10169	.	_
 
+Text=As noted in Lynall et al, connectivity strength is a global measure of connectivity calculated as the mean of all pairwise correlations between nodes within each network.
 57-1	10170-10172	As	_
 57-2	10173-10178	noted	_
 57-3	10179-10181	in	_
@@ -1797,6 +1854,7 @@
 57-28	10333-10340	network	_
 57-29	10341-10342	.	_
 
+Text=Given past findings that implicate RECN and LECN connectivity in AUD, and previous literature suggesting an association between D2 functioning and measures of executive functioning, we were particularly interested in the association between DRD2 methylation and connectivity within the LECN and RECN.
 58-1	10343-10348	Given	_
 58-2	10349-10353	past	_
 58-3	10354-10362	findings	_
@@ -1843,6 +1901,7 @@
 58-44	10640-10644	RECN	_
 58-45	10645-10646	.	_
 
+Text=In order to assess whether the association between DRD2 methylation and connectivity is unique to the ECN, we a priori selected a subset of additional networks for follow up analyses, including the default mode network (DMN), anterior salience (AS) network, posterior salience (PS) network, and the ventral default mode network (VDMN).
 59-1	10647-10649	In	_
 59-2	10650-10655	order	_
 59-3	10656-10658	to	_
@@ -1909,6 +1968,7 @@
 59-64	10993-10994	)	_
 59-65	10995-10996	.	_
 
+Text=DNA preparation and methylation assay Genomic DNA was isolated from saliva samples using Qiagen ’ s Puregene DNA prep kit (Qiagen, Venlo, Limburg).
 60-1	10997-11000	DNA	_
 60-2	11001-11012	preparation	_
 60-3	11013-11016	and	_
@@ -1938,6 +1998,7 @@
 60-27	11146-11147	)	_
 60-28	11148-11149	.	_
 
+Text=CpG sites within the DRD2 gene were selected a priori based on prior research in the lab.
 61-1	11150-11153	CpG	_
 61-2	11154-11159	sites	_
 61-3	11160-11166	within	_
@@ -1957,6 +2018,7 @@
 61-17	11235-11238	lab	_
 61-18	11239-11240	.	_
 
+Text=To determine the methylation status of CpG sites near of the DRD2 gene, pyrosequencing was performed at EpigenDX (Worcester, MA).
 62-1	11241-11243	To	_
 62-2	11244-11253	determine	_
 62-3	11254-11257	the	_
@@ -1983,6 +2045,7 @@
 62-24	11372-11373	)	_
 62-25	11374-11375	.	_
 
+Text=Pyrosequencing quantitatively monitors the real-time incorporation of nucleotides through the enzymatic conversion of released pyrophosphate into a proportional light signal.
 63-1	11376-11390	Pyrosequencing	_
 63-2	11391-11405	quantitatively	_
 63-3	11406-11414	monitors	_
@@ -2005,6 +2068,7 @@
 63-20	11543-11549	signal	_
 63-21	11550-11551	.	_
 
+Text=The DRD2 methylation assay covered six CG dinucleotides across the DRD2 gene.
 64-1	11552-11555	The	_
 64-2	11556-11560	DRD2	_
 64-3	11561-11572	methylation	_
@@ -2019,6 +2083,7 @@
 64-12	11624-11628	gene	_
 64-13	11629-11630	.	_
 
+Text=Methylation assays were designed by EpigenDx.
 65-1	11631-11642	Methylation	_
 65-2	11643-11649	assays	_
 65-3	11650-11654	were	_
@@ -2027,6 +2092,7 @@
 65-6	11667-11675	EpigenDx	_
 65-7	11676-11677	.	_
 
+Text=Site analysis was based on the ability to generate primers located around CpG islands and that meet the requirements for pyrosequencing of each site accurately.
 66-1	11678-11682	Site	_
 66-2	11683-11691	analysis	_
 66-3	11692-11695	was	_
@@ -2054,6 +2120,7 @@
 66-25	11827-11837	accurately	_
 66-26	11838-11839	.	_
 
+Text=All primer sequences are owned by EpigenDx.
 67-1	11840-11843	All	_
 67-2	11844-11850	primer	_
 67-3	11851-11860	sequences	_
@@ -2063,6 +2130,7 @@
 67-7	11874-11882	EpigenDx	_
 67-8	11883-11884	.	_
 
+Text=Because methylation values across the six sites of interest were highly correlated, we created an average methylation variable (eg, average methylation across the six CpG sites assayed), which was used in all analyses outlined below.
 68-1	11885-11892	Because	_
 68-2	11893-11904	methylation	_
 68-3	11905-11911	values	_
@@ -2105,6 +2173,7 @@
 68-40	12117-12122	below	_
 68-41	12123-12124	.	_
 
+Text=Data analysis R version 3.2.1 (2015-06-18) was used to perform all general linear models (GLMs), where we tested the association between DRD2 methylation and network connectivity, controlling for age and sex covariates.
 69-1	12125-12129	Data	_
 69-2	12130-12138	analysis	_
 69-3	12139-12140	R	_
@@ -2145,6 +2214,7 @@
 69-38	12339-12349	covariates	_
 69-39	12350-12351	.	_
 
+Text=We planned to include age and sex as covariates in all analyses given that the literature suggests an association between age and methylation (see Jung and Pfeifer for review), between age and functional connectivity, and between sex and functional connectivity.
 70-1	12352-12354	We	_
 70-2	12355-12362	planned	_
 70-3	12363-12365	to	_
@@ -2191,6 +2261,7 @@
 70-44	12605-12617	connectivity	_
 70-45	12618-12619	.	_
 
+Text=Based on findings from prior studies implicating the ECN connectivity with problem drinking as well as D2 function with substance abuse, we were particularly interested in testing the association between DRD2 methylation and the ECN.
 71-1	12620-12625	Based	_
 71-2	12626-12628	on	_
 71-3	12629-12637	findings	_
@@ -2229,6 +2300,7 @@
 71-36	12850-12853	ECN	_
 71-37	12854-12855	.	_
 
+Text=To start, we tested the relationship between DRD2 methylation and both the average connectivity within the RECN and LECN.
 72-1	12856-12858	To	_
 72-2	12859-12864	start	_
 72-3	12865-12866	,	_
@@ -2251,6 +2323,7 @@
 72-20	12973-12977	LECN	_
 72-21	12978-12979	.	_
 
+Text=We then chose four additional networks to test individually in GLMs, where we tested the association between DRD2 methylation and network connectivity for each of the four networks, controlling for age and sex covariates.
 73-1	12980-12982	We	_
 73-2	12983-12987	then	_
 73-3	12988-12993	chose	_
@@ -2289,6 +2362,7 @@
 73-36	13192-13202	covariates	_
 73-37	13203-13204	.	_
 
+Text=The additional networks tested included DMN, AS, PS, and VDMN.
 74-1	13205-13208	The	_
 74-2	13209-13219	additional	_
 74-3	13220-13228	networks	_
@@ -2304,6 +2378,7 @@
 74-13	13265-13269	VDMN	_
 74-14	13270-13271	.	_
 
+Text=These four additional networks served as comparison networks, which we used to determine whether the association between DRD2 methylation and connectivity was unique to the ECN in this sample of substance users.
 75-1	13272-13277	These	_
 75-2	13278-13282	four	_
 75-3	13283-13293	additional	_
@@ -2339,6 +2414,7 @@
 75-33	13478-13483	users	_
 75-34	13484-13485	.	_
 
+Text=As the ECN was the primary focus of our analyses, we tested the association between DRD2 methylation and “ edges ” (ie, connectivity between individual nodes within the LECN and RECN).
 76-1	13486-13488	As	_
 76-2	13489-13492	the	_
 76-3	13493-13496	ECN	_
@@ -2376,6 +2452,7 @@
 76-35	13672-13673	)	_
 76-36	13674-13675	.	_
 
+Text=Using a series of GLMs, we tested the relationship between DRD2 methylation and edge connectivity for each of the 15 edges within the RECN and LECN.
 77-1	13676-13681	Using	_
 77-2	13682-13683	a	_
 77-3	13684-13690	series	_
@@ -2405,6 +2482,7 @@
 77-27	13820-13824	LECN	_
 77-28	13825-13826	.	_
 
+Text=We conducted these post hoc GLMs for the purpose of determining which edges within the networks were driving the association between RECN and LECN connectivity and DRD2 methylation.
 78-1	13827-13829	We	_
 78-2	13830-13839	conducted	_
 78-3	13840-13845	these	_
@@ -2435,6 +2513,7 @@
 78-28	13996-14007	methylation	_
 78-29	14008-14009	.	_
 
+Text=Based on these GLMs, edges were selected based on a test statistic threshold of P <0.05 for the correlation between edge connectivity and DRD2 methylation.
 79-1	14010-14015	Based	_
 79-2	14016-14018	on	_
 79-3	14019-14024	these	_
@@ -2464,6 +2543,7 @@
 79-27	14155-14166	methylation	_
 79-28	14167-14168	.	_
 
+Text=Subsequently, the edges that demonstrated a significant association between methylation and edge connectivity were used in mediation and moderation models.
 80-1	14169-14181	Subsequently	_
 80-2	14182-14183	,	_
 80-3	14184-14187	the	_
@@ -2487,6 +2567,7 @@
 80-21	14318-14324	models	_
 80-22	14325-14326	.	_
 
+Text=Based on these criteria, the top 4 edges within the RECN (ie, the top 4 edges that showed the most significant association) and the 3 and only significant edges within the LECN were included in follow-up models, where connectivity of these edges were tested as mediators and moderators between DRD2 methylation and AUDIT scores (see below for details).
 81-1	14327-14332	Based	_
 81-2	14333-14335	on	_
 81-3	14336-14341	these	_
@@ -2554,6 +2635,7 @@
 81-65	14684-14685	)	_
 81-66	14686-14687	.	_
 
+Text=Per our theoretical model, mediation analyses were executed using SPSS 19.0 (IBM Corp, 2010) via the products of the coefficients method, which estimates the following: a (independent variable [IV] -mediator [M]), b (M-independent variable [DV]), c (total effect of IV on DV), and ab (indirect effect of IV on DV via M) paths for each mediation model.
 82-1	14688-14691	Per	_
 82-2	14692-14695	our	_
 82-3	14696-14707	theoretical	_
@@ -2636,6 +2718,7 @@
 82-80	15056-15061	model	_
 82-81	15062-15063	.	_
 
+Text=Because normality of the sampling distribution of total indirect effects cannot be assumed, bias-corrected 95% confidence intervals of the indirect effect were estimated by using bootstrapping methods.
 83-1	15064-15071	Because	_
 83-2	15072-15081	normality	_
 83-3	15082-15084	of	_
@@ -2668,6 +2751,7 @@
 83-30	15260-15267	methods	_
 83-31	15268-15269	.	_
 
+Text=We tested the edges that were significantly associated with DRD2 methylation within the RECN and LECN as mediators of the association between DRD2 methylation and our clinical variable of interest, AUDIT.
 84-1	15270-15272	We	_
 84-2	15273-15279	tested	_
 84-3	15280-15283	the	_
@@ -2702,6 +2786,7 @@
 84-32	15469-15474	AUDIT	_
 84-33	15475-15476	.	_
 
+Text=This was tested using a multiple mediation model, where the significant edges were used as the mediators (Ms), AUDIT score was used as the DV, and DRD2 methylation was used as the IV.
 85-1	15477-15481	This	_
 85-2	15482-15485	was	_
 85-3	15486-15492	tested	_
@@ -2742,6 +2827,7 @@
 85-38	15662-15664	IV	_
 85-39	15665-15666	.	_
 
+Text=In the event that the mediation model was not supported, we planned to follow up the mediation analyses by testing a series of exploratory interaction models.
 86-1	15667-15669	In	_
 86-2	15670-15673	the	_
 86-3	15674-15679	event	_
@@ -2771,6 +2857,7 @@
 86-27	15819-15825	models	_
 86-28	15826-15827	.	_
 
+Text=These models tested whether edge connectivity moderated the relationship between DRD2 methylation and AUDIT, again using R version 3.2.1 (2015-06-18) for the interaction model GLMs.
 87-1	15828-15833	These	_
 87-2	15834-15840	models	_
 87-3	15841-15847	tested	_
@@ -2801,6 +2888,7 @@
 87-28	16007-16011	GLMs	_
 87-29	16012-16013	.	_
 
+Text=For these models, we planned to test the interaction between each of the edges within the RECN and LECN that demonstrated a significant relationship between DRD2 methylation edge connectivity and DRD2 methylation on AUDIT (for each edge within the RECN and LECN, AUDIT score was regressed on edge connectivity, DRD2 methylation, and the edge connectivity * DRD2 methylation interaction), using separate models for each edge within the RECN and LECN).
 88-1	16014-16017	For	_
 88-2	16018-16023	these	_
 88-3	16024-16030	models	_
@@ -2881,6 +2969,7 @@
 88-78	16470-16471	)	_
 88-79	16472-16473	.	_
 
+Text=Given that the study tests multiple models, we conceptualize the issue of multiple comparisons as follows.
 89-1	16474-16479	Given	_
 89-2	16480-16484	that	_
 89-3	16485-16488	the	_
@@ -2900,6 +2989,7 @@
 89-17	16573-16580	follows	_
 89-18	16581-16582	.	_
 
+Text=We consider the two models in which we test the relationship between DRD2 methylation and average RECN/LECN to be the primary models.
 90-1	16583-16585	We	_
 90-2	16586-16594	consider	_
 90-3	16595-16598	the	_
@@ -2924,6 +3014,7 @@
 90-22	16709-16715	models	_
 90-23	16716-16717	.	_
 
+Text=Given that we used the other networks (ie, DMN, PS, and AS) as control networks, we used an uncorrected P <0.05 significance threshold for the primary models.
 91-1	16718-16723	Given	_
 91-2	16724-16728	that	_
 91-3	16729-16731	we	_
@@ -2960,6 +3051,7 @@
 91-34	16876-16882	models	_
 91-35	16883-16884	.	_
 
+Text=Next, we consider the follow up analysis of individual edges within both the RECN and LECN as a way of determining which edges within the overall networks are driving the association between LECN/RECN connectivity and DRD2 methylation.
 92-1	16885-16889	Next	_
 92-2	16890-16891	,	_
 92-3	16892-16894	we	_
@@ -3000,6 +3092,7 @@
 92-38	17109-17120	methylation	_
 92-39	17121-17122	.	_
 
+Text=Given that the purpose of these follow up tests is to determine what is driving the overall effect, these tests are considered significant at the P <0.05 threshold.
 93-1	17123-17128	Given	_
 93-2	17129-17133	that	_
 93-3	17134-17137	the	_
@@ -3032,6 +3125,7 @@
 93-30	17279-17288	threshold	_
 93-31	17289-17290	.	_
 
+Text=This logic is akin to the argument made by Stevens regarding multivariate analyses of variance (MANOVAs) and follow up univariate tests.
 94-1	17291-17295	This	_
 94-2	17296-17301	logic	_
 94-3	17302-17304	is	_
@@ -3057,6 +3151,7 @@
 94-23	17423-17428	tests	_
 94-24	17429-17430	.	_
 
+Text=Briefly, Stevens argues that if the overall MANOVA is significant, then the individual univariate tests are protected from multiple comparisons.
 95-1	17431-17438	Briefly	_
 95-2	17439-17440	,	_
 95-3	17441-17448	Stevens	_
@@ -3081,6 +3176,7 @@
 95-22	17565-17576	comparisons	_
 95-23	17577-17578	.	_
 
+Text=In order to use this logic, we also tested the relationship between RECN edge connectivity and DRD2 methylation using 15 degree of freedom MANOVAs, which included all 15 RECN edges and all 15 LECN edges in two separate MANOVA models.
 96-1	17579-17581	In	_
 96-2	17582-17587	order	_
 96-3	17588-17590	to	_
@@ -3125,6 +3221,7 @@
 96-42	17807-17813	models	_
 96-43	17814-17815	.	_
 
+Text=Finally, the moderation and mediation analyses are considered exploratory post hoc analyses and are therefore presented as uncorrected P values.
 97-1	17816-17823	Finally	_
 97-2	17824-17825	,	_
 97-3	17826-17829	the	_

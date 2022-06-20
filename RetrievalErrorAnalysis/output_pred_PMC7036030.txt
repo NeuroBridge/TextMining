@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Reduced Parietal Alpha Power and Psychotic Symptoms: Test-Retest Reliability of Resting-State Magnetoencephalography in Schizophrenia and Healthy Controls Background: Despite increased reporting of resting-state magnetoencephalography (MEG), reliability of those measures remains scarce and predominately reported in healthy controls (HC).
 1-1	0-7	Reduced	_
 1-2	8-16	Parietal	_
 1-3	17-22	Alpha	_
@@ -49,6 +50,7 @@
 1-45	344-345	)	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 1-46	346-347	.	_
 
+Text=As such, there is limited knowledge on MEG resting-state reliability in schizophrenia (SZ).
 2-1	348-350	As	_
 2-2	351-355	such	_
 2-3	356-357	,	_
@@ -67,6 +69,7 @@
 2-16	440-441	)	_
 2-17	442-443	.	_
 
+Text=Methods: To address test-retest reliability in psychosis, a reproducibility study of 26 participants (13-SZ, 13-HC) was performed.
 3-1	444-451	Methods	_
 3-2	452-453	:	_
 3-3	454-456	To	_
@@ -91,6 +94,7 @@
 3-22	569-578	performed	_
 3-23	579-580	.	_
 
+Text=We collected eyes open and eyes closed resting-state data during 4 separate instances (2 Visits, 2 runs per visit) to estimate spectral power reliability (power, normalized power, alpha reactivity) across one hour and one week.
 4-1	581-583	We	_
 4-2	584-593	collected	_
 4-3	594-598	eyes	_
@@ -135,6 +139,7 @@
 4-42	810-814	week	_
 4-43	815-816	.	_
 
+Text=Intraclass correlation coefficients (ICCs) were calculated.
 5-1	817-827	Intraclass	_
 5-2	828-839	correlation	_
 5-3	840-852	coefficients	_
@@ -145,6 +150,7 @@
 5-8	867-877	calculated	_
 5-9	878-879	.	_
 
+Text=For source modeling, we applied an anatomically constrained linear estimation inverse model known as dynamic statistical parametric mapping (MNE dSPM) and source-based connectivity using the weighted phase lag index.
 6-1	880-883	For	_
 6-2	884-890	source	_
 6-3	891-899	modeling	_
@@ -179,6 +185,7 @@
 6-32	1093-1098	index	_
 6-33	1099-1100	.	_
 
+Text=Results: Across one week there was excellent test-retest reliability in global spectral measures in theta-gamma bands (HC ICCAvg=0.87, SZ ICCAvg=0.87), regional spectral measures in all bands (HC ICCAvg=0.86, SZ ICCAvg=0.80), and parietal alpha measures (HC ICCAvg=0.90, SZ ICCAvg=0.84).
 7-1	1101-1108	Results	_
 7-2	1109-1110	:	_
 7-3	1111-1117	Across	_
@@ -231,6 +238,7 @@
 7-50	1398-1399	)	_
 7-51	1400-1401	.	_
 
+Text=Conversely, functional connectivity had poor reliability, as did source spectral power across one hour for SZ.
 8-1	1402-1412	Conversely	_
 8-2	1413-1414	,	_
 8-3	1415-1425	functional	_
@@ -251,6 +259,7 @@
 8-18	1511-1513	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 8-19	1514-1515	.	_
 
+Text=Relative to HC, SZ also had reduced parietal alpha normalized power during eyes closed only, reduced alpha reactivity, and an association between higher PANSS positive scores and lower parietal alpha power.
 9-1	1516-1524	Relative	_
 9-2	1525-1527	to	_
 9-3	1528-1530	HC	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -287,6 +296,7 @@
 9-34	1719-1724	power	_
 9-35	1725-1726	.	_
 
+Text=Conclusions: There was excellent to good test-retest reliability in most MEG spectral measures with a few exceptions in the schizophrenia patient group.
 10-1	1727-1738	Conclusions	_
 10-2	1739-1740	:	_
 10-3	1741-1746	There	_
@@ -312,6 +322,7 @@
 10-23	1874-1879	group	_
 10-24	1880-1881	.	_
 
+Text=Overall, these findings encourage the use of resting-state MEG while emphasizing the importance of determining reliability in clinical populations.
 11-1	1882-1889	Overall	_
 11-2	1890-1891	,	_
 11-3	1892-1897	these	_
@@ -334,6 +345,7 @@
 11-20	2018-2029	populations	_
 11-21	2030-2031	.	_
 
+Text=Materials and Methods Participants The current study included 13 individuals diagnosed with schizophrenia (SZ) and 13 healthy controls (HC), age and gender matched, Table 1.
 12-1	2032-2041	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	2042-2045	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	2046-2053	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -367,6 +379,7 @@
 12-31	2209-2210	1	_
 12-32	2211-2212	.	_
 
+Text=Informed consent was obtained from all participants according to institutional guidelines.
 13-1	2213-2221	Informed	_
 13-2	2222-2229	consent	_
 13-3	2230-2233	was	_
@@ -380,6 +393,7 @@
 13-11	2292-2302	guidelines	_
 13-12	2303-2304	.	_
 
+Text=The study was approved by the University of New Mexico Health Sciences Center Human Research Review Committee.
 14-1	2305-2308	The	_
 14-2	2309-2314	study	_
 14-3	2315-2318	was	_
@@ -399,6 +413,7 @@
 14-17	2405-2414	Committee	_
 14-18	2415-2416	.	_
 
+Text=All participants were within 21–49 years of age with no history of neurological disorder (e.g.
 15-1	2417-2420	All	_
 15-2	2421-2433	participants	_
 15-3	2434-2438	were	_
@@ -417,6 +432,7 @@
 15-16	2508-2511	e.g	_
 15-17	2512-2513	.	_
 
+Text=epilepsy), no history of major head trauma (loss of consciousness> 5 min), no current substance abuse diagnosis (excluding nicotine), no current dependence/abuse of PCP/amphetamine/cocaine within the past 12 months, and were not currently on mood stabilizers such as lithium or valproic acid.
 16-1	2514-2522	epilepsy	_
 16-2	2523-2524	)	_
 16-3	2525-2526	,	_
@@ -471,6 +487,7 @@
 16-52	2811-2815	acid	_
 16-53	2816-2817	.	_
 
+Text=HC had IQ scores within the normal range and no history of developmental delays or neurological or psychiatric disorders based on the Structured Clinical Interview for DSM-IV-Non-patient (SCIDNP).
 17-1	2818-2820	HC	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 17-2	2821-2824	had	_
 17-3	2825-2827	IQ	_
@@ -503,6 +520,7 @@
 17-30	3014-3015	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 17-31	3016-3017	.	_
 
+Text=HCs also did not have a family history of a psychotic disorder in first-degree relatives or a history of more than 1 lifetime depressive episode.
 18-1	3018-3021	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 18-2	3022-3026	also	_
 18-3	3027-3030	did	_
@@ -530,6 +548,7 @@
 18-25	3155-3162	episode	_
 18-26	3163-3164	.	_
 
+Text=Participants with schizophrenia were confirmed to have a DSM-IV-TR diagnosis of schizophrenia with the Structured Clinical Interview for DSM-IV-Patient (SCID-IP) and retrospective clinical stability.
 19-1	3165-3177	Participants	_
 19-2	3178-3182	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 19-3	3183-3196	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -558,6 +577,7 @@
 19-26	3356-3365	stability	_
 19-27	3366-3367	.	_
 
+Text=Participants were not excluded for nicotine use, however, they were not allowed to smoke within 1 hour of the MEG session or be more than 5 hours from their previous cigarette to avoid confounds of acute nicotine exposure or withdrawal.
 20-1	3368-3380	Participants	_
 20-2	3381-3385	were	_
 20-3	3386-3389	not	_
@@ -602,6 +622,7 @@
 20-42	3595-3605	withdrawal	_
 20-43	3606-3607	.	_
 
+Text=The following assessments were collected in SZ participants and reported in Table 1: Wechsler Test of Adult Reading (WTAR), Standard and Predicted (premorbid) IQ, Positive and Negative Syndrome Scale (PANSS), antipsychotic medication dose information, and duration of illness.
 21-1	3608-3611	The	_
 21-2	3612-3621	following	_
 21-3	3622-3633	assessments	_
@@ -653,6 +674,7 @@
 21-49	3887-3894	illness	_
 21-50	3895-3896	.	_
 
+Text=PANSS scores were determined for each visit.
 22-1	3897-3902	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 22-2	3903-3909	scores	_
 22-3	3910-3914	were	_
@@ -662,6 +684,7 @@
 22-7	3935-3940	visit	_
 22-8	3941-3942	.	_
 
+Text=Antipsychotic medication was converted to olanzapine equivalents for comparison between medication.
 23-1	3943-3956	Antipsychotic	_
 23-2	3957-3967	medication	_
 23-3	3968-3971	was	_
@@ -675,6 +698,7 @@
 23-11	4031-4041	medication	_
 23-12	4042-4043	.	_
 
+Text=Duration of illness was calculated by subtracting age at onset of psychotic symptoms from current age.
 24-1	4044-4052	Duration	_
 24-2	4053-4055	of	_
 24-3	4056-4063	illness	_
@@ -693,6 +717,7 @@
 24-16	4142-4145	age	_
 24-17	4146-4147	.	_
 
+Text=MEG Behavioral Tasks All participants had two visits across 7 days [HC=7.54 days ±60 minutes, SZ=7.84 days ±51 minutes].
 25-1	4148-4151	MEG	http://maven.renci.org/NeuroBridge/neurobridge#Magnetoencephalography
 25-2	4152-4162	Behavioral	http://maven.renci.org/NeuroBridge/neurobridge#Magnetoencephalography
 25-3	4163-4168	Tasks	http://maven.renci.org/NeuroBridge/neurobridge#Magnetoencephalography
@@ -717,6 +742,7 @@
 25-22	4269-4270	]	_
 25-23	4271-4272	.	_
 
+Text=Time of day between visits was matched to take into account circadian rhythm.
 26-1	4273-4277	Time	_
 26-2	4278-4280	of	_
 26-3	4281-4284	day	_
@@ -732,6 +758,7 @@
 26-13	4343-4349	rhythm	_
 26-14	4350-4351	.	_
 
+Text=Each visit began with a 10-minute rest task (referred to as Rest10) and ended with a 4-minute rest task (referred to as Rest4), see Figure 1.
 27-1	4352-4356	Each	_
 27-2	4357-4362	visit	_
 27-3	4363-4368	began	_
@@ -765,6 +792,7 @@
 27-31	4496-4497	1	_
 27-32	4498-4499	.	_
 
+Text=No responses were required from the participant; however, participants were instructed to attend the instructions for prompts to close their eyes or fixate on a white cross.
 28-1	4500-4502	No	_
 28-2	4503-4512	responses	_
 28-3	4513-4517	were	_
@@ -796,6 +824,7 @@
 28-29	4669-4674	cross	_
 28-30	4675-4676	.	_
 
+Text=Each task alternated between EC and EO.
 29-1	4677-4681	Each	_
 29-2	4682-4686	task	_
 29-3	4687-4697	alternated	_
@@ -805,6 +834,7 @@
 29-7	4713-4715	EO	_
 29-8	4716-4717	.	_
 
+Text=In total, resting-state activity was recorded 4 separate times with 14 minutes of EO and 14 minutes of EC.
 30-1	4718-4720	In	_
 30-2	4721-4726	total	_
 30-3	4727-4728	,	_
@@ -827,6 +857,7 @@
 30-20	4822-4824	EC	_
 30-21	4825-4826	.	_
 
+Text=MEG Data Acquisition MEG data were collected in a magnetically shielded room (Vacuumschmelze – Ak3B) at the Mind Research Network in Albuquerque, New Mexico using a 306-channel whole-head MEG system (Elekta Neuromag) with a sampling rate of 1000 Hz and an antialiasing filter with a passband of 0.1–330 Hz.
 31-1	4827-4830	MEG	_
 31-2	4831-4835	Data	_
 31-3	4836-4847	Acquisition	_
@@ -883,6 +914,7 @@
 31-54	5135-5137	Hz	_
 31-55	5138-5139	.	_
 
+Text=Prior to data acquisition, four electromagnetic coils were placed on the participant ’ s mastoid bone and upper forehead, along with electro-oculogram and electrocardiogram channels.
 32-1	5140-5145	Prior	_
 32-2	5146-5148	to	_
 32-3	5149-5153	data	_
@@ -912,6 +944,7 @@
 32-27	5315-5323	channels	_
 32-28	5324-5325	.	_
 
+Text=The location of the coils were registered to the nasion and preauricular points using three-dimensional digitization equipment (Polhemus FastTrack).
 33-1	5326-5329	The	_
 33-2	5330-5338	location	_
 33-3	5339-5341	of	_
@@ -935,6 +968,7 @@
 33-21	5474-5475	)	_
 33-22	5476-5477	.	_
 
+Text=Participants sat upright in the MEG during the task.
 34-1	5478-5490	Participants	_
 34-2	5491-5494	sat	_
 34-3	5495-5502	upright	_
@@ -946,6 +980,7 @@
 34-9	5525-5529	task	_
 34-10	5530-5531	.	_
 
+Text=Continuous Head Position Indicator (cHPI) monitoring allowed for motion correction.
 35-1	5532-5542	Continuous	_
 35-2	5543-5547	Head	_
 35-3	5548-5556	Position	_
@@ -960,6 +995,7 @@
 35-12	5606-5616	correction	_
 35-13	5617-5618	.	_
 
+Text=Head position was checked between visits.
 36-1	5619-5623	Head	_
 36-2	5624-5632	position	_
 36-3	5633-5636	was	_
@@ -968,6 +1004,7 @@
 36-6	5653-5659	visits	_
 36-7	5660-5661	.	_
 
+Text=For the Rest10 task, average Euclidean distance between visits was 4.62 mm for HC and 6.06 mm for SZ.
 37-1	5662-5665	For	_
 37-2	5666-5669	the	_
 37-3	5670-5676	Rest10	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -990,6 +1027,7 @@
 37-20	5761-5763	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 37-21	5764-5765	.	_
 
+Text=For the Rest4 task, the distance was 4.90 mm for HC and 6.12 mm for SZ.
 38-1	5766-5769	For	_
 38-2	5770-5773	the	_
 38-3	5774-5779	Rest4	_
@@ -1009,6 +1047,7 @@
 38-17	5835-5837	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 38-18	5838-5839	.	_
 
+Text=Head position consistency was similar between HC and SZ (all p ’ s> 0.31).
 39-1	5840-5844	Head	_
 39-2	5845-5853	position	_
 39-3	5854-5865	consistency	_
@@ -1028,6 +1067,7 @@
 39-17	5915-5916	)	_
 39-18	5917-5918	.	_
 
+Text=Structural MRI Data Acquisition Structural MRIs were obtained for mapping source locations.
 40-1	5919-5929	Structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 40-2	5930-5933	MRI	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 40-3	5934-5938	Data	_
@@ -1042,6 +1082,7 @@
 40-12	6000-6009	locations	_
 40-13	6010-6011	.	_
 
+Text=Sagittal T1-weighted anatomical MR images were obtained using a Siemens TIM Trio 3 Tesla MRI system with a 32-channel head coil.
 41-1	6012-6020	Sagittal	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 41-2	6021-6032	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 41-3	6033-6043	anatomical	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1065,6 +1106,7 @@
 41-21	6135-6139	coil	_
 41-22	6140-6141	.	_
 
+Text=Parameters of the multiecho 3D MPRAGE sequence were: TR/TE/TI = 2530/1.64, 3.5, 5.36, 7.22, 9.08/1200 ms, flip angle = 7°, field of view (FOV) = 256 mm x 256 mm, matrix = 256 × 256, 1 mm thick slice, 192 slices, GRAPPA acceleration = 2.
 42-1	6142-6152	Parameters	_
 42-2	6153-6155	of	_
 42-3	6156-6159	the	_
@@ -1125,6 +1167,7 @@
 42-58	6389-6390	2	_
 42-59	6391-6392	.	_
 
+Text=MEG Data Preprocessing Raw MEG data were filtered for noise and corrected for head motion with the Neuromag Max-Filter 2.2 software using the temporal extension of signal space separation (t-SSS) method with movement compensation.
 43-1	6393-6396	MEG	_
 43-2	6397-6401	Data	_
 43-3	6402-6415	Preprocessing	_
@@ -1163,6 +1206,7 @@
 43-36	6612-6624	compensation	_
 43-37	6625-6626	.	_
 
+Text=MEG data from each subject ’ s Visit 2 was transformed to Visit 1 head position using Maxfilter 2.2 MaxMove option to ensure equivalent sensor locations between visits.
 44-1	6627-6630	MEG	_
 44-2	6631-6635	data	_
 44-3	6636-6640	from	_
@@ -1193,6 +1237,7 @@
 44-28	6788-6794	visits	_
 44-29	6795-6796	.	_
 
+Text=No downsampling of the data was implemented at the preprocessing stage.
 45-1	6797-6799	No	_
 45-2	6800-6812	downsampling	_
 45-3	6813-6815	of	_
@@ -1206,6 +1251,7 @@
 45-11	6862-6867	stage	_
 45-12	6868-6869	.	_
 
+Text=Heartbeat and eye-blink artifacts were automatically detected and removed using signal space projection (SSP) in MNE software.
 46-1	6870-6879	Heartbeat	_
 46-2	6880-6883	and	_
 46-3	6884-6893	eye-blink	_
@@ -1227,6 +1273,7 @@
 46-19	6989-6997	software	_
 46-20	6998-6999	.	_
 
+Text=The continuous data were segmented into artifact-free 2 second epochs.
 47-1	7000-7003	The	_
 47-2	7004-7014	continuous	_
 47-3	7015-7019	data	_
@@ -1239,6 +1286,7 @@
 47-10	7063-7069	epochs	_
 47-11	7070-7071	.	_
 
+Text=Epochs in which the magnetic field exceeded 5 pT were rejected.
 48-1	7072-7078	Epochs	_
 48-2	7079-7081	in	_
 48-3	7082-7087	which	_
@@ -1252,6 +1300,7 @@
 48-11	7126-7134	rejected	_
 48-12	7135-7136	.	_
 
+Text=HC had 2.4% and SZ had 4.6% of all epochs rejected.
 49-1	7137-7139	HC	_
 49-2	7140-7143	had	_
 49-3	7144-7147	2.4	_
@@ -1267,6 +1316,7 @@
 49-13	7181-7189	rejected	_
 49-14	7190-7191	.	_
 
+Text=The total number of epochs used for further analysis included 401 EC, 402 EO epochs in HC, and 393 EC, 403 EO epochs in SZ.
 50-1	7192-7195	The	_
 50-2	7196-7201	total	_
 50-3	7202-7208	number	_
@@ -1297,6 +1347,7 @@
 50-28	7315-7317	SZ	_
 50-29	7318-7319	.	_
 
+Text=The number of closed/open epochs did not differ between groups (all p ’ s> 0.25).
 51-1	7320-7323	The	_
 51-2	7324-7330	number	_
 51-3	7331-7333	of	_
@@ -1317,6 +1368,7 @@
 51-18	7402-7403	)	_
 51-19	7404-7405	.	_
 
+Text=MEG Spectral Analyses For sensor analysis, we applied the summary spectral measures described in to simplify multi-channel MEG spectral data.
 52-1	7406-7409	MEG	_
 52-2	7410-7418	Spectral	_
 52-3	7419-7427	Analyses	_
@@ -1340,6 +1392,7 @@
 52-21	7543-7547	data	_
 52-22	7548-7549	.	_
 
+Text=Using only planar gradiometers, the sensor array was divided into left and right equivalent regions, see Figure 2.
 53-1	7550-7555	Using	_
 53-2	7556-7560	only	_
 53-3	7561-7567	planar	_
@@ -1362,6 +1415,7 @@
 53-20	7664-7665	2	_
 53-21	7666-7667	.	_
 
+Text=Spectral power was estimated using Matlab ’ s FFT function with a window size of 2048 for the following frequency bands: Delta (1–4 Hz), Theta (5–8 Hz), Alpha (9–13 Hz), Beta (14–29 Hz), and Gamma (31–58 Hz).
 54-1	7668-7676	Spectral	_
 54-2	7677-7682	power	_
 54-3	7683-7686	was	_
@@ -1416,6 +1470,7 @@
 54-52	7889-7890	)	_
 54-53	7891-7892	.	_
 
+Text=Spectral measures included: power, normalized power, half-power, Shannon Spectral Entropy (SSE), and alpha reactivity.
 55-1	7893-7901	Spectral	_
 55-2	7902-7910	measures	_
 55-3	7911-7919	included	_
@@ -1439,6 +1494,7 @@
 55-21	8007-8017	reactivity	_
 55-22	8018-8019	.	_
 
+Text=Normalized power was obtained by dividing the power within the frequency band by total 1–50 Hz power.
 56-1	8020-8030	Normalized	_
 56-2	8031-8036	power	_
 56-3	8037-8040	was	_
@@ -1458,6 +1514,7 @@
 56-17	8115-8120	power	_
 56-18	8121-8122	.	_
 
+Text=Half power was defined as the midpoint frequency where half of the power is below/above for the 1–50 Hz range and indicates overall spectral power shifts from low to high frequencies.
 57-1	8123-8127	Half	_
 57-2	8128-8133	power	_
 57-3	8134-8137	was	_
@@ -1491,6 +1548,7 @@
 57-31	8294-8305	frequencies	_
 57-32	8306-8307	.	_
 
+Text=Alpha reactivity was calculated using normalized spectral power values with the following: (EC-EO) /EO.
 58-1	8308-8313	Alpha	_
 58-2	8314-8324	reactivity	_
 58-3	8325-8328	was	_
@@ -1510,6 +1568,7 @@
 58-17	8410-8413	/EO	_
 58-18	8414-8415	.	_
 
+Text=Global measures were the average of all regions and gradiometers.
 59-1	8416-8422	Global	_
 59-2	8423-8431	measures	_
 59-3	8432-8436	were	_
@@ -1522,6 +1581,7 @@
 59-10	8468-8480	gradiometers	_
 59-11	8481-8482	.	_
 
+Text=For source analysis, the cortical surface of each participant was reconstructed from T1-weighted MRI files using FreeSurfer with a repeatedly subdivided octahedron as the spatial subsampling method, creating 4,098 locations per hemisphere with a source space of 4.9 mm.
 60-1	8483-8486	For	_
 60-2	8487-8493	source	_
 60-3	8494-8502	analysis	_
@@ -1565,6 +1625,7 @@
 60-41	8751-8753	mm	_
 60-42	8754-8755	.	_
 
+Text=Source analysis was performed with MNE software using an anatomically constrained linear estimation inverse model known as dynamic statistical parametric mapping (dSPM).
 61-1	8756-8762	Source	_
 61-2	8763-8771	analysis	_
 61-3	8772-8775	was	_
@@ -1591,6 +1652,7 @@
 61-24	8925-8926	)	_
 61-25	8927-8928	.	_
 
+Text=The regularization parameter corresponded with a signal-to-noise ratio of 3.
 62-1	8929-8932	The	_
 62-2	8933-8947	regularization	_
 62-3	8948-8957	parameter	_
@@ -1603,6 +1665,7 @@
 62-10	9003-9004	3	_
 62-11	9005-9006	.	_
 
+Text=Source orientation had a loose constraint of 0.2.
 63-1	9007-9013	Source	_
 63-2	9014-9025	orientation	_
 63-3	9026-9029	had	_
@@ -1613,6 +1676,7 @@
 63-8	9052-9055	0.2	_
 63-9	9056-9057	.	_
 
+Text=The forward solution was calculated with a single layer (inner skull) boundary element method.
 64-1	9058-9061	The	_
 64-2	9062-9069	forward	_
 64-3	9070-9078	solution	_
@@ -1631,6 +1695,7 @@
 64-16	9147-9153	method	_
 64-17	9154-9155	.	_
 
+Text=The dSPM inverse model identified where the estimated current at each cortical surface vertex differed significantly from baseline noise (empty room data).
 65-1	9156-9159	The	_
 65-2	9160-9164	dSPM	_
 65-3	9165-9172	inverse	_
@@ -1657,6 +1722,7 @@
 65-24	9311-9312	)	_
 65-25	9313-9314	.	_
 
+Text=Power spectral density (PSD) measures were computed from epochs using a multi-taper method with Discrete Prolate Spheroidal Sequence (DPSS) windows for each frequency band and region, using 7 tapers at 4 Hz and regions of interest based on the FreeSurfer DKT atlas.
 66-1	9315-9320	Power	_
 66-2	9321-9329	spectral	_
 66-3	9330-9337	density	_
@@ -1706,6 +1772,7 @@
 66-47	9579-9584	atlas	_
 66-48	9585-9586	.	_
 
+Text=PSD represents the average spectral power derived from each voxel time series for each regional label.
 67-1	9587-9590	PSD	_
 67-2	9591-9601	represents	_
 67-3	9602-9605	the	_
@@ -1724,6 +1791,7 @@
 67-16	9683-9688	label	_
 67-17	9689-9690	.	_
 
+Text=Global measures were data from all regional labels averaged.
 68-1	9691-9697	Global	_
 68-2	9698-9706	measures	_
 68-3	9707-9711	were	_
@@ -1735,6 +1803,7 @@
 68-9	9742-9750	averaged	_
 68-10	9751-9752	.	_
 
+Text=Normalized power was obtained by dividing the power within frequency band by the total 1–58 Hz power.
 69-1	9753-9763	Normalized	_
 69-2	9764-9769	power	_
 69-3	9770-9773	was	_
@@ -1754,6 +1823,7 @@
 69-17	9848-9853	power	_
 69-18	9854-9855	.	_
 
+Text=Functional network connectivity was estimated using a debiased estimator of the squared weighted phase lag index (wPLI-debiased).
 70-1	9856-9866	Functional	_
 70-2	9867-9874	network	_
 70-3	9875-9887	connectivity	_
@@ -1775,6 +1845,7 @@
 70-19	9985-9986	)	_
 70-20	9987-9988	.	_
 
+Text=The FNC measure, wPLI-debiased, detects true changes in phase-synchronization, while reducing the influence of common noise sources, changes in phase of coherency, and avoids spuriously increases by volume-conduction.
 71-1	9989-9992	The	_
 71-2	9993-9996	FNC	_
 71-3	9997-10004	measure	_
@@ -1810,6 +1881,7 @@
 71-33	10193-10210	volume-conduction	_
 71-34	10211-10212	.	_
 
+Text=It estimates the extent of observed phase leads and lags by the magnitude of the imaginary component of the cross-spectrum.
 72-1	10213-10215	It	_
 72-2	10216-10225	estimates	_
 72-3	10226-10229	the	_
@@ -1832,6 +1904,7 @@
 72-20	10321-10335	cross-spectrum	_
 72-21	10336-10337	.	_
 
+Text=All data were exported to MATLAB (2018a, MathWorks) and run through custom scripts.
 73-1	10338-10341	All	_
 73-2	10342-10346	data	_
 73-3	10347-10351	were	_
@@ -1850,6 +1923,7 @@
 73-16	10416-10423	scripts	_
 73-17	10424-10425	.	_
 
+Text=Intraclass Correlation (ICC) ICC estimates and their 95% confidence intervals were calculated in SPSS to assess the between and within-subject variability using a two-way mixed effects model with absolute agreement, single measurement criteria, also known as ICC (3,1) model.
 74-1	10426-10436	Intraclass	_
 74-2	10437-10448	Correlation	_
 74-3	10449-10450	(	_
@@ -1898,6 +1972,7 @@
 74-46	10702-10707	model	_
 74-47	10708-10709	.	_
 
+Text=ICCs were calculated for multiple rest iterations: for each visit (across one hour), for each task (across one week) and for all runs.
 75-1	10710-10714	ICCs	_
 75-2	10715-10719	were	_
 75-3	10720-10730	calculated	_
@@ -1929,6 +2004,7 @@
 75-29	10845-10849	runs	_
 75-30	10850-10851	.	_
 
+Text=ICCs ranged from 0 to 1 (negative values scored as zero) with higher values indicating better reliability.
 76-1	10852-10856	ICCs	_
 76-2	10857-10863	ranged	_
 76-3	10864-10868	from	_
@@ -1950,6 +2026,7 @@
 76-19	10948-10959	reliability	_
 76-20	10960-10961	.	_
 
+Text=Following the guidelines of we defined ICCs as: excellent reliability> 0.75, good reliability 0.75–0.60, fair reliability 0.59–0.40, and poor reliability <0.40.
 77-1	10962-10971	Following	_
 77-2	10972-10975	the	_
 77-3	10976-10986	guidelines	_
@@ -1979,6 +2056,7 @@
 77-27	11123-11127	0.40	_
 77-28	11128-11129	.	_
 
+Text=Statistical Analysis All statistics were performed using SPSS (version 25 for Macintosh).
 78-1	11130-11141	Statistical	_
 78-2	11142-11150	Analysis	_
 78-3	11151-11154	All	_
@@ -1995,6 +2073,7 @@
 78-14	11219-11220	)	_
 78-15	11221-11222	.	_
 
+Text=Mixed Effect Repeated Measures-Analysis of Variance (RM-ANOVAs) had statistical thresholds set at p <0.05.
 79-1	11223-11228	Mixed	_
 79-2	11229-11235	Effect	_
 79-3	11236-11244	Repeated	_
@@ -2014,6 +2093,7 @@
 79-17	11327-11331	0.05	_
 79-18	11332-11333	.	_
 
+Text=Greenhouse-Geisser corrections were made for sphericity violations.
 80-1	11334-11352	Greenhouse-Geisser	_
 80-2	11353-11364	corrections	_
 80-3	11365-11369	were	_
@@ -2023,6 +2103,7 @@
 80-7	11390-11400	violations	_
 80-8	11401-11402	.	_
 
+Text=The between-subject factor was Group (HC, SZ), within-subject factors included Hemisphere (Left, Right), Resting-State (EO, EC), and/or Region [Superior Parietal (SupPar), Inferior Parietal (InfPar), Precuneus] depending on measure explored.
 81-1	11403-11406	The	_
 81-2	11407-11422	between-subject	_
 81-3	11423-11429	factor	_
@@ -2074,6 +2155,7 @@
 81-49	11655-11663	explored	_
 81-50	11664-11665	.	_
 
+Text=Significant interactions were followed-up with separate one-way ANOVAs, or t-tests on the factors of interest with familywise multiple comparisons correction using false discovery rate (FDR) correction with q=0.05.
 82-1	11666-11677	Significant	_
 82-2	11678-11690	interactions	_
 82-3	11691-11695	were	_

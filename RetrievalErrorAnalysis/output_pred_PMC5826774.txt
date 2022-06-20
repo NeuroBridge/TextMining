@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Psychosis subgroups differ in intrinsic neural activity but not task-specific processing Individuals with psychosis often show high levels of intrinsic, or nonspecific, neural activity, but attenuated stimulus-specific activity.
 1-1	0-9	Psychosis	_
 1-2	10-19	subgroups	_
 1-3	20-26	differ	_
@@ -35,6 +36,7 @@
 1-31	222-230	activity	_
 1-32	231-232	.	_
 
+Text=proposed that one subgroup of psychosis cases has accentuated intrinsic activity (Biotype-2 ’ s) and a different subgroup (Biotype-1 ’ s) has diminished intrinsic activity, with both groups exhibiting varying degrees of cognitive deficits.
 2-1	233-241	proposed	_
 2-2	242-246	that	_
 2-3	247-250	one	_
@@ -76,6 +78,7 @@
 2-39	468-476	deficits	_
 2-40	477-478	.	_
 
+Text=This model was studied by assessing neural activity in psychosis probands (N=105) during baseline and a 5sec period in preparation for a pro-/anti-saccade task.
 3-1	479-483	This	_
 3-2	484-489	model	_
 3-3	490-493	was	_
@@ -104,6 +107,7 @@
 3-26	636-640	task	_
 3-27	641-642	.	_
 
+Text=Steady-state stimuli allowed real-time assessment of modulation of visuocortical investment to different target locations.
 4-1	643-655	Steady-state	_
 4-2	656-663	stimuli	_
 4-3	664-671	allowed	_
@@ -120,6 +124,7 @@
 4-14	755-764	locations	_
 4-15	765-766	.	_
 
+Text=Psychosis probands as a whole showed poor antisaccade performance.
 5-1	767-776	Psychosis	_
 5-2	777-785	probands	_
 5-3	786-788	as	_
@@ -131,6 +136,7 @@
 5-9	821-832	performance	_
 5-10	833-834	.	_
 
+Text=As expected, Biotype-1 showed diminished intrinsic neural activity and the worst behavior, and Biotype-2 showed accentuated intrinsic activity and less deviant behavior.
 6-1	835-837	As	_
 6-2	838-846	expected	_
 6-3	847-848	,	_
@@ -157,6 +163,7 @@
 6-24	997-1005	behavior	_
 6-25	1006-1007	.	_
 
+Text=Both of these groups also exhibited less dynamic oscillatory phase synchrony.
 7-1	1008-1012	Both	_
 7-2	1013-1015	of	_
 7-3	1016-1021	these	_
@@ -170,6 +177,7 @@
 7-11	1075-1084	synchrony	_
 7-12	1085-1086	.	_
 
+Text=Biotype-3 showed no neurophysiological differences from healthy individuals, despite a history of psychosis.
 8-1	1087-1096	Biotype-3	_
 8-2	1097-1103	showed	_
 8-3	1104-1106	no	_
@@ -186,6 +194,7 @@
 8-14	1186-1195	psychosis	_
 8-15	1196-1197	.	_
 
+Text=Interestingly, all psychosis subgroups showed normal (i.e., not different from healthy) preparatory modulation of visuocortical investment as a function of cognitive demands, despite varying levels of task performance.
 9-1	1198-1211	Interestingly	_
 9-2	1212-1213	,	_
 9-3	1214-1217	all	_
@@ -221,6 +230,7 @@
 9-33	1409-1420	performance	_
 9-34	1421-1422	.	_
 
+Text=Similar analyses conducted subgrouping cases by psychotic symptomatology revealed fewer and less consistent differences, including no intrinsic activity differences between any clinical subgroup and healthy individuals.
 10-1	1423-1430	Similar	_
 10-2	1431-1439	analyses	_
 10-3	1440-1449	conducted	_
@@ -250,6 +260,7 @@
 10-27	1631-1642	individuals	_
 10-28	1643-1644	.	_
 
+Text=This study illustrates that (i) differences in intrinsic neural activity may be a fundamental characteristic of psychosis and need to be evaluated separately from stimulus-specific responses, and (ii) grouping patients based on multidimensional classification using neurobiological data may have advantages for resolving heterogeneity and clarifying illness mechanisms relative to traditional psychiatric diagnoses.
 11-1	1645-1649	This	_
 11-2	1650-1655	study	_
 11-3	1656-1667	illustrates	_
@@ -309,15 +320,18 @@
 11-57	2055-2064	diagnoses	_
 11-58	2065-2066	.	_
 
+Text=2.
 12-1	2067-2068	2	_
 12-2	2069-2070	.	_
 
+Text=Methods and Materials 2.1.
 13-1	2071-2078	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-2	2079-2082	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-3	2083-2092	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-4	2093-2096	2.1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-5	2097-2098	.	_
 
+Text=Participants As a part of a multisite data collection project, the Bipolar-Schizophrenia Network on Intermediate Phenotypes (B-SNIP), subjects were recruited, interviewed, and tested for the present study at the University of Illinois-Chicago site.
 14-1	2099-2111	Participants	_
 14-2	2112-2114	As	_
 14-3	2115-2116	a	_
@@ -359,6 +373,7 @@
 14-39	2348-2352	site	_
 14-40	2353-2354	.	_
 
+Text=Clinically stable psychosis probands (N = 105) and healthy comparison subjects (HC; N =50) were recruited via community advertisements, linked community facilities and programs, and family support groups (see Table 1 and Supplemental Table 1 and 2 for clinical and demographic information).
 15-1	2355-2365	Clinically	_
 15-2	2366-2372	stable	_
 15-3	2373-2382	psychosis	_
@@ -412,6 +427,7 @@
 15-51	2652-2653	)	_
 15-52	2654-2655	.	_
 
+Text=Clinical diagnosis was determined through administration of the Structured Clinical Interview for DSM-IV Diagnosis and consensus diagnostic review; see for clinical evaluation details.
 16-1	2656-2664	Clinical	_
 16-2	2665-2674	diagnosis	_
 16-3	2675-2678	was	_
@@ -438,6 +454,7 @@
 16-24	2833-2840	details	_
 16-25	2841-2842	.	_
 
+Text=HC had no personal history of psychotic, bipolar, or recurrent major depressive disorder, or a family history of schizophrenia-bipolar spectrum disorders in first or second degree relatives.
 17-1	2843-2845	HC	_
 17-2	2846-2849	had	_
 17-3	2850-2852	no	_
@@ -470,6 +487,7 @@
 17-30	3026-3035	relatives	_
 17-31	3036-3037	.	_
 
+Text=All subjects provided written consent before participating, and the study was approved by the University of Illinois-Chicago Institutional Review Board.
 18-1	3038-3041	All	_
 18-2	3042-3050	subjects	_
 18-3	3051-3059	provided	_
@@ -493,6 +511,7 @@
 18-21	3185-3190	Board	_
 18-22	3191-3192	.	_
 
+Text=used biomarker data to classify psychosis cases into Biotypes.
 19-1	3193-3197	used	_
 19-2	3198-3207	biomarker	_
 19-3	3208-3212	data	_
@@ -504,6 +523,7 @@
 19-9	3246-3254	Biotypes	_
 19-10	3255-3256	.	_
 
+Text=Biotype-1 was most reminiscent of poor-outcome, chronic, and neurobiologically impaired psychosis cases; Biotype-2 was characterized by hyper-responsiveness to sensorimotor events, while Biotype-3 was closer to HC than to the other Biotype subgroups across biomarkers (despite presence of psychosis), although they still had modest deviations on multiple biomarkers.
 20-1	3257-3266	Biotype-1	_
 20-2	3267-3270	was	_
 20-3	3271-3275	most	_
@@ -560,6 +580,7 @@
 20-54	3619-3629	biomarkers	_
 20-55	3630-3631	.	_
 
+Text=All participants in the current study were included in, and so their current Biotype membership (Biotype-1, N=20; Biotype-2, N=30; Biotype-3, N=55) is known.
 21-1	3632-3635	All	_
 21-2	3636-3648	participants	_
 21-3	3649-3651	in	_
@@ -593,6 +614,7 @@
 21-31	3791-3796	known	_
 21-32	3797-3798	.	_
 
+Text=The data used for developing Biotypes was independent, however, from tasks and measurements obtained for the present study (see Supplemental Materials).
 22-1	3799-3802	The	_
 22-2	3803-3807	data	_
 22-3	3808-3812	used	_
@@ -620,6 +642,7 @@
 22-25	3953-3954	)	_
 22-26	3955-3956	.	_
 
+Text=The current data were collected as part of a series of complimentary paradigms on the same sample as reported in.
 23-1	3957-3960	The	_
 23-2	3961-3968	current	_
 23-3	3969-3973	data	_
@@ -642,6 +665,7 @@
 23-20	4067-4069	in	_
 23-21	4070-4071	.	_
 
+Text=Sample size differences are due to EEG data quality.
 24-1	4072-4078	Sample	_
 24-2	4079-4083	size	_
 24-3	4084-4095	differences	_
@@ -653,6 +677,7 @@
 24-9	4116-4123	quality	_
 24-10	4124-4125	.	_
 
+Text=The recording and preprocessing of EEG data were identical to that in previous work (; also see Supplemental Materials), except that here the data were kept at the original sampling rate of 1000 Hz.
 25-1	4126-4129	The	_
 25-2	4130-4139	recording	_
 25-3	4140-4143	and	_
@@ -692,9 +717,11 @@
 25-37	4324-4326	Hz	_
 25-38	4327-4328	.	_
 
+Text=2.2.
 26-1	4329-4332	2.2	_
 26-2	4333-4334	.	_
 
+Text=Stimuli Stimuli were presented on a 19-inch flat-surface computer monitor with a refresh rate of 60Hz.
 27-1	4335-4342	Stimuli	_
 27-2	4343-4350	Stimuli	_
 27-3	4351-4355	were	_
@@ -713,6 +740,7 @@
 27-16	4432-4436	60Hz	_
 27-17	4437-4438	.	_
 
+Text=Stimuli consisted of three 5×5cm checkerboards (alternating colored and black squares, each 1deg square) located at central fixation and 8 deg to the left and right of central fixation (Figure 1).
 28-1	4439-4446	Stimuli	_
 28-2	4447-4456	consisted	_
 28-3	4457-4459	of	_
@@ -751,6 +779,7 @@
 28-36	4638-4639	)	_
 28-37	4640-4641	.	_
 
+Text=Checkerboards were either green (during the prosaccade block) or red (during the antisaccade block).
 29-1	4642-4655	Checkerboards	_
 29-2	4656-4660	were	_
 29-3	4661-4667	either	_
@@ -771,6 +800,7 @@
 29-18	4744-4745	)	_
 29-19	4746-4747	.	_
 
+Text=Both colors had equal luminance (5 cd/m2).
 30-1	4748-4752	Both	_
 30-2	4753-4759	colors	_
 30-3	4760-4763	had	_
@@ -782,6 +812,7 @@
 30-9	4790-4791	)	_
 30-10	4792-4793	.	_
 
+Text=The peripheral checkerboards were luminance modulated (100% modulation depth) at two flickering frequencies (12Hz in the left visual field, 15Hz in the right visual field), with the central checkerboard not flickering.
 31-1	4794-4797	The	_
 31-2	4798-4808	peripheral	_
 31-3	4809-4822	checkerboards	_
@@ -822,6 +853,7 @@
 31-38	5008-5018	flickering	_
 31-39	5019-5020	.	_
 
+Text=Blocks consisted of 50 trials of either pro- or anti-saccades, for a total of 100 trials.
 32-1	5021-5027	Blocks	_
 32-2	5028-5037	consisted	_
 32-3	5038-5040	of	_
@@ -841,6 +873,7 @@
 32-17	5104-5110	trials	_
 32-18	5111-5112	.	_
 
+Text=Each trial was preceded by an inter-trial interval of 6sec, in which a gray central fixation square (1 deg square) was presented.
 33-1	5113-5117	Each	_
 33-2	5118-5123	trial	_
 33-3	5124-5127	was	_
@@ -868,6 +901,7 @@
 33-25	5235-5244	presented	_
 33-26	5245-5246	.	_
 
+Text=At each quarter of this Fixation Period (1.5sec), the central square decreased in size by ¼ in order to give a “ countdown ” to the next trial.
 34-1	5247-5249	At	_
 34-2	5250-5254	each	_
 34-3	5255-5262	quarter	_
@@ -901,6 +935,7 @@
 34-31	5387-5392	trial	_
 34-32	5393-5394	.	_
 
+Text=Trials began with the peripheral checkerboards flickering for 5 sec.
 35-1	5395-5401	Trials	_
 35-2	5402-5407	began	_
 35-3	5408-5412	with	_
@@ -913,6 +948,7 @@
 35-10	5459-5462	sec	_
 35-11	5463-5464	.	_
 
+Text=Participants were instructed to maintain fixation on the central checkerboard throughout this Preparatory Period.
 36-1	5465-5477	Participants	_
 36-2	5478-5482	were	_
 36-3	5483-5493	instructed	_
@@ -929,6 +965,7 @@
 36-14	5571-5577	Period	_
 36-15	5578-5579	.	_
 
+Text=Similar to the Fixation Period, at 1sec intervals during the Preparatory Period the center square of the central checkerboard decreased in size by ¼ in order to give the participants information about the impending response requirement.
 37-1	5580-5587	Similar	_
 37-2	5588-5590	to	_
 37-3	5591-5594	the	_
@@ -968,6 +1005,7 @@
 37-37	5805-5816	requirement	_
 37-38	5817-5818	.	_
 
+Text=After the 5sec Preparatory Period, one of the peripheral checkerboards (pseudo-randomly determined) increased in luminance to 20 cd/m2 for 1.25sec (the saccadic Response Period), while both peripheral checkerboards continued flickering.
 38-1	5819-5824	After	_
 38-2	5825-5828	the	_
 38-3	5829-5833	5sec	_
@@ -1006,6 +1044,7 @@
 38-36	6050-6060	flickering	_
 38-37	6061-6062	.	_
 
+Text=On prosaccade trials, participants were to look as quickly and accurately as possible toward this target; on antisaccade trials, participants were instructed to look as quickly and accurately as possible to the mirror image location (opposite checkerboard).
 39-1	6063-6065	On	_
 39-2	6066-6076	prosaccade	_
 39-3	6077-6083	trials	_
@@ -1050,6 +1089,7 @@
 39-42	6323-6324	)	_
 39-43	6325-6326	.	_
 
+Text=All analyses were time-locked to the onset of the Preparatory Period, and descriptions below (e.g., pre or post stimulus onset) reflect this.
 40-1	6327-6330	All	_
 40-2	6331-6339	analyses	_
 40-3	6340-6344	were	_
@@ -1078,6 +1118,7 @@
 40-26	6467-6471	this	_
 40-27	6472-6473	.	_
 
+Text=As the primary interest of this study was preparatory modulation, analyses do not include any brain data from the Response Period.
 41-1	6474-6476	As	_
 41-2	6477-6480	the	_
 41-3	6481-6488	primary	_
@@ -1102,9 +1143,11 @@
 41-22	6598-6604	Period	_
 41-23	6605-6606	.	_
 
+Text=2.3.
 42-1	6607-6610	2.3	_
 42-2	6611-6612	.	_
 
+Text=Data Analyses Two approaches were used to quantify brain activity.
 43-1	6613-6617	Data	_
 43-2	6618-6626	Analyses	_
 43-3	6627-6630	Two	_
@@ -1117,6 +1160,7 @@
 43-10	6670-6678	activity	_
 43-11	6679-6680	.	_
 
+Text=First, evoked potentials were used to evaluate the amplitude and spatial distribution of brain activity at the onset of visual stimulation (at the beginning of the Preparatory Period, before stabilization of the steady-state response).
 44-1	6681-6686	First	_
 44-2	6687-6688	,	_
 44-3	6689-6695	evoked	_
@@ -1157,6 +1201,7 @@
 44-38	6918-6919	)	_
 44-39	6920-6921	.	_
 
+Text=Second, as in, spectral measures were used to assess the power, phase stability, and spatial distribution of the vSSR over time before and during the Preparatory Period (−500ms to 5000ms in relation to stimuli onset).
 45-1	6922-6928	Second	_
 45-2	6929-6930	,	_
 45-3	6931-6933	as	_
@@ -1200,6 +1245,7 @@
 45-41	7143-7144	)	_
 45-42	7145-7146	.	_
 
+Text=For all analyses, Greenhouse-Geisser correction was used when sphericity was violated.
 46-1	7147-7150	For	_
 46-2	7151-7154	all	_
 46-3	7155-7163	analyses	_
@@ -1214,6 +1260,7 @@
 46-12	7225-7233	violated	_
 46-13	7234-7235	.	_
 
+Text=All analyses were replicated as a function of subgrouping psychosis cases by clinical symptomatology (see Supplemental Results).
 47-1	7236-7239	All	_
 47-2	7240-7248	analyses	_
 47-3	7249-7253	were	_
@@ -1235,9 +1282,11 @@
 47-19	7364-7365	)	_
 47-20	7366-7367	.	_
 
+Text=2.3.1.
 48-1	7368-7373	2.3.1	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 48-2	7374-7375	.	_
 
+Text=Visual Evoked Potentials The voltage data were used to test for differences in brain activations, at the beginning of visual processing at Preparatory Period onset, between the pro- and anti-saccade conditions and between groups (Figure 2), using methods identical to previous work (; also see Supplemental Materials).
 49-1	7376-7382	Visual	_
 49-2	7383-7389	Evoked	_
 49-3	7390-7400	Potentials	_
@@ -1294,9 +1343,11 @@
 49-54	7699-7700	)	_
 49-55	7701-7702	.	_
 
+Text=2.4.2.
 50-1	7703-7708	2.4.2	_
 50-2	7709-7710	.	_
 
+Text=Spectral measures Similar to previous work using paradigms comparable to those used in the present study, the vSSR was quantified using inter-trial phase coherence (ITC; increased across-trial phase similarity of the EEG signals in relation to frequency of visual flickering stimuli) and single-trial power (STP).
 51-1	7711-7719	Spectral	_
 51-2	7720-7728	measures	_
 51-3	7729-7736	Similar	_
@@ -1350,6 +1401,7 @@
 51-51	8028-8029	)	_
 51-52	8030-8031	.	_
 
+Text=ITC and STP of the steady-state response across time were estimated by complex demodulation at the flickering rates (12 and 15 Hz) using published methods (; also see Supplemental Materials).
 52-1	8032-8035	ITC	_
 52-2	8036-8039	and	_
 52-3	8040-8043	STP	_
@@ -1386,6 +1438,7 @@
 52-34	8225-8226	)	_
 52-35	8227-8228	.	_
 
+Text=Spectral values for the two driving frequencies were initially analyzed individually but were later summed as frequency did not systematically interact with group, task, or time.
 53-1	8229-8237	Spectral	_
 53-2	8238-8244	values	_
 53-3	8245-8248	for	_
@@ -1416,6 +1469,7 @@
 53-28	8404-8408	time	_
 53-29	8409-8410	.	_
 
+Text=ITC values were averaged over 9 posterior cortex sensors capturing peak vSSR activity (Supplemental Figure 1), averaged from −500:0ms pre-stimulus and over each of the five 1sec Preparatory Period countdowns, and analyzed using mixed effects 3-way MANOVAs (Group × Saccade Type × Time Bin) with post hoc Tukey honestly significant difference tests.
 54-1	8411-8414	ITC	_
 54-2	8415-8421	values	_
 54-3	8422-8426	were	_
@@ -1476,6 +1530,7 @@
 54-58	8759-8764	tests	_
 54-59	8765-8766	.	_
 
+Text=To most accurately and comprehensively capture the shared variance in spatial topographies of STP across time, spatial PCA was implemented using the ERP PCA Toolkit in Matlab (Mathworks, Matick, MA).
 55-1	8767-8769	To	_
 55-2	8770-8774	most	_
 55-3	8775-8785	accurately	_
@@ -1513,6 +1568,7 @@
 55-35	8969-8970	)	_
 55-36	8971-8972	.	_
 
+Text=For each group and task individually, power values from −500:5000ms were standardized across sensors before averaging across subjects.
 56-1	8973-8976	For	_
 56-2	8977-8981	each	_
 56-3	8982-8987	group	_
@@ -1534,6 +1590,7 @@
 56-19	9099-9107	subjects	_
 56-20	9108-9109	.	_
 
+Text=Scree tests for each identified one component.
 57-1	9110-9115	Scree	_
 57-2	9116-9121	tests	_
 57-3	9122-9125	for	_
@@ -1543,6 +1600,7 @@
 57-7	9146-9155	component	_
 57-8	9156-9157	.	_
 
+Text=The spatial distribution and amount of variance accounted for were nearly identical (all correlations greater than r = .975), so the same procedure was repeated on a single grand average time course, resulting in a component accounting for 48.6% of variance (see Supplemental Figure 2).
 58-1	9158-9161	The	_
 58-2	9162-9169	spatial	_
 58-3	9170-9182	distribution	_
@@ -1597,6 +1655,7 @@
 58-52	9449-9450	)	_
 58-53	9451-9452	.	_
 
+Text=Component weights were multiplied by each subject ’ s data, summed across sensors, and divided by the absolute square sum of the component weights, reducing STP waveforms from 64 (one for each sensor) to 1 for each participant.
 59-1	9453-9462	Component	_
 59-2	9463-9470	weights	_
 59-3	9471-9475	were	_
@@ -1642,6 +1701,7 @@
 59-43	9673-9684	participant	_
 59-44	9685-9686	.	_
 
+Text=STP averaged over the entire 5500ms time course provided a measure of intrinsic activity and were subjected to a 2-way ANOVA (Group × Saccade Type) with post hoc Tukey honestly significant difference tests.
 60-1	9687-9690	STP	_
 60-2	9691-9699	averaged	_
 60-3	9700-9704	over	_
@@ -1679,6 +1739,7 @@
 60-35	9889-9894	tests	_
 60-36	9895-9896	.	_
 
+Text=Averaged values for each of the five 1sec Preparatory Period countdowns were baseline-subtracted and analyzed using a mixed effects 3-way MANOVAs (Group × Saccade Type × Time Bin) with post hoc Tukey honestly significant difference tests.
 61-1	9897-9905	Averaged	_
 61-2	9906-9912	values	_
 61-3	9913-9916	for	_
@@ -1719,6 +1780,7 @@
 61-38	10131-10136	tests	_
 61-39	10137-10138	.	_
 
+Text=Induced power was also examined as an alternative measure of intrinsic neural activity, with results similar to those of STP (see Supplemental Materials).
 62-1	10139-10146	Induced	_
 62-2	10147-10152	power	_
 62-3	10153-10156	was	_

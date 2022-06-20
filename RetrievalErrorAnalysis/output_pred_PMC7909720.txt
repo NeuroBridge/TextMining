@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Cognitive control network dysconnectivity and response to antipsychotic treatment in schizophrenia To better understand cognitive control impairment in schizophrenia, it is vital to determine the extent of dysfunctional connectivity in the associated fronto-striatal brain network, with a focus on the connections with the anterior cingulate cortex (ACC), prior to the potential confounding effect of medication.
 1-1	0-9	Cognitive	_
 1-2	10-17	control	_
 1-3	18-25	network	_
@@ -64,6 +65,7 @@
 1-60	406-416	medication	_
 1-61	417-418	.	_
 
+Text=It is also essential to determine the effects following antipsychotic medication and the relationship of those effects on psychosis improvement.
 2-1	419-421	It	_
 2-2	422-424	is	_
 2-3	425-429	also	_
@@ -86,6 +88,7 @@
 2-20	551-562	improvement	_
 2-21	563-564	.	_
 
+Text=Twenty-two patients with schizophrenia, initially unmedicated and after a 6-week course of risperidone, and 20 matched healthy controls (HC) performed a fMRI task twice, six weeks apart.
 3-1	565-575	Twenty-two	_
 3-2	576-584	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 3-3	585-589	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -120,6 +123,7 @@
 3-32	750-755	apart	_
 3-33	756-757	.	_
 
+Text=We investigated group and longitudinal differences in ACC-related functional connectivity during performance of a Stroop color task as well as connectivity patterns associated with improvement in psychosis symptoms.
 4-1	758-760	We	_
 4-2	761-773	investigated	_
 4-3	774-779	group	_
@@ -150,6 +154,7 @@
 4-28	964-972	symptoms	_
 4-29	973-974	.	_
 
+Text=Unmedicated patients with schizophrenia showed greater functional connectivity between ACC and bilateral caudate and midbrain and lower connectivity with left putamen compared to healthy controls.
 5-1	975-986	Unmedicated	http://maven.renci.org/NeuroBridge/neurobridge#Unmedicated
 5-2	987-995	patients	http://maven.renci.org/NeuroBridge/neurobridge#Unmedicated
 5-3	996-1000	with	http://maven.renci.org/NeuroBridge/neurobridge#Unmedicated
@@ -177,6 +182,7 @@
 5-25	1162-1170	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 5-26	1171-1172	.	_
 
+Text=At baseline, greater functional connectivity between ACC and bilateral putamen predicted subsequent better treatment response.
 6-1	1173-1175	At	_
 6-2	1176-1184	baseline	_
 6-3	1185-1186	,	_
@@ -195,6 +201,7 @@
 6-16	1291-1299	response	_
 6-17	1300-1301	.	_
 
+Text=Change in functional connectivity between ACC and left putamen positively correlated with better treatment response.
 7-1	1302-1308	Change	_
 7-2	1309-1311	in	_
 7-3	1312-1322	functional	_
@@ -212,6 +219,7 @@
 7-15	1409-1417	response	_
 7-16	1418-1419	.	_
 
+Text=These results suggest that patterns of functional connectivity in fronto-striatal networks can be utilized to predict potential response to antipsychotic medication.
 8-1	1420-1425	These	_
 8-2	1426-1433	results	_
 8-3	1434-1441	suggest	_
@@ -235,6 +243,7 @@
 8-21	1574-1584	medication	_
 8-22	1585-1586	.	_
 
+Text=Prior to treatment, brain function may be structured with a predisposition that favors or not treatment response.
 9-1	1587-1592	Prior	_
 9-2	1593-1595	to	_
 9-3	1596-1605	treatment	_
@@ -255,6 +264,7 @@
 9-18	1692-1700	response	_
 9-19	1701-1702	.	_
 
+Text=Methods Twenty-eight subjects with schizophrenia or schizoaffective disorder (SZ) were recruited for this study from the psychiatry clinics and emergency room at the University of Alabama at Birmingham (UAB) based on being off antipsychotic medication for at least 10 days.
 10-1	1703-1710	Methods	_
 10-2	1711-1723	Twenty-eight	_
 10-3	1724-1732	subjects	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -301,6 +311,7 @@
 10-44	1975-1979	days	_
 10-45	1980-1981	.	_
 
+Text=Twenty-five healthy controls (HC), matched on age, sex, smoking, and parental occupation, without personal or family history in a first-degree relative of psychiatric disorders were recruited using advertisements.
 11-1	1982-1993	Twenty-five	_
 11-2	1994-2001	healthy	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 11-3	2002-2010	controls	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
@@ -338,6 +349,7 @@
 11-35	2187-2201	advertisements	_
 11-36	2202-2203	.	_
 
+Text=Exclusion criteria were major medical or neurological conditions, substance use disorders (except for nicotine) within six months of imaging (drug screen was done prior to scanning), head injury with loss of consciousness> 2 minutes, and pregnancy.
 12-1	2204-2213	Exclusion	_
 12-2	2214-2222	criteria	_
 12-3	2223-2227	were	_
@@ -384,6 +396,7 @@
 12-44	2450-2459	pregnancy	_
 12-45	2460-2461	.	_
 
+Text=Subjects gave written informed consent prior to participating in this UAB Institutional Review Board approved study.
 13-1	2462-2470	Subjects	_
 13-2	2471-2475	gave	_
 13-3	2476-2483	written	_
@@ -402,6 +415,7 @@
 13-16	2572-2577	study	_
 13-17	2578-2579	.	_
 
+Text=Diagnoses were established using subjects ’ medical records and the Diagnostic Interview for Genetic Studies (DIGS).
 14-1	2580-2589	Diagnoses	_
 14-2	2590-2594	were	_
 14-3	2595-2606	established	_
@@ -422,6 +436,7 @@
 14-18	2696-2697	)	http://maven.renci.org/NeuroBridge/neurobridge#DiagnosticInterviewforGeneticStudies
 14-19	2698-2699	.	_
 
+Text=The Repeatable Battery for the Assessment of Neuropsychological Status (RBANS) characterized general cognitive function.
 15-1	2700-2703	The	_
 15-2	2704-2714	Repeatable	http://maven.renci.org/NeuroBridge/neurobridge#DevelopmentalNeuropsychologicalAssessment
 15-3	2715-2722	Battery	http://maven.renci.org/NeuroBridge/neurobridge#DevelopmentalNeuropsychologicalAssessment
@@ -440,6 +455,7 @@
 15-16	2813-2821	function	_
 15-17	2822-2823	.	_
 
+Text=SZ were scanned while unmedicated and after a six-week trial with risperidone.
 16-1	2824-2826	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 16-2	2827-2831	were	_
 16-3	2832-2839	scanned	_
@@ -454,6 +470,7 @@
 16-12	2890-2901	risperidone	_
 16-13	2902-2903	.	_
 
+Text=Medication was managed by two psychiatrists (ACL and NVK), and dose determinations were based on therapeutic and side effects.
 17-1	2904-2914	Medication	_
 17-2	2915-2918	was	_
 17-3	2919-2926	managed	_
@@ -478,6 +495,7 @@
 17-22	3025-3032	effects	_
 17-23	3033-3034	.	_
 
+Text=Starting doses were 1–3mg; titration was done in 1–2mg increments.
 18-1	3035-3043	Starting	_
 18-2	3044-3049	doses	_
 18-3	3050-3054	were	_
@@ -491,6 +509,7 @@
 18-11	3091-3101	increments	_
 18-12	3102-3103	.	_
 
+Text=Use of concomitant medications was permitted as clinically indicated.
 19-1	3104-3107	Use	_
 19-2	3108-3110	of	_
 19-3	3111-3122	concomitant	_
@@ -502,6 +521,7 @@
 19-9	3163-3172	indicated	_
 19-10	3173-3174	.	_
 
+Text=Symptom severity was assessed weekly using the Brief Psychiatric Rating Scale (BPRS).
 20-1	3175-3182	Symptom	_
 20-2	3183-3191	severity	_
 20-3	3192-3195	was	_
@@ -518,6 +538,7 @@
 20-14	3260-3261	)	http://maven.renci.org/NeuroBridge/neurobridge#BriefPsychiatricRatingScale
 20-15	3262-3263	.	_
 
+Text=Medication compliance was monitored by weekly pill count.
 21-1	3264-3274	Medication	_
 21-2	3275-3285	compliance	_
 21-3	3286-3289	was	_
@@ -528,6 +549,7 @@
 21-8	3315-3320	count	_
 21-9	3321-3322	.	_
 
+Text=HC were scanned twice six weeks apart.
 22-1	3323-3325	HC	_
 22-2	3326-3330	were	_
 22-3	3331-3338	scanned	_
@@ -537,6 +559,7 @@
 22-7	3355-3360	apart	_
 22-8	3361-3362	.	_
 
+Text=Subjects were excluded due to excess movement (> 2mm translation; 2° rotation within a run; 4 SZ, 2 HC) or lack of complete task performance, defined as no responses to more than ¼ of the total number of trials, (2 SZ baseline, 2 SZ week six, 3 HC), leaving 22 SZ and 20 HC at baseline and 20 SZ and 20 HC at week six.
 23-1	3363-3371	Subjects	_
 23-2	3372-3376	were	_
 23-3	3377-3385	excluded	_
@@ -616,6 +639,7 @@
 23-77	3689-3692	six	_
 23-78	3693-3694	.	_
 
+Text=Task Subjects performed a computerized version of the Stroop color-naming task.
 24-1	3695-3699	Task	_
 24-2	3700-3708	Subjects	_
 24-3	3709-3718	performed	_
@@ -629,6 +653,7 @@
 24-11	3769-3773	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 24-12	3774-3775	.	_
 
+Text=Stimuli consisted of three words: “ RED ”, “ GREEN ”, or “ BLUE, ” displayed in one of the corresponding colors.
 25-1	3776-3783	Stimuli	_
 25-2	3784-3793	consisted	_
 25-3	3794-3796	of	_
@@ -657,6 +682,7 @@
 25-26	3885-3891	colors	_
 25-27	3892-3893	.	_
 
+Text=Trials were either “ congruent ” or “ incongruent, ” where the word and the color of the word differed in incongruent trials.
 26-1	3894-3900	Trials	_
 26-2	3901-3905	were	_
 26-3	3906-3912	either	_
@@ -683,6 +709,7 @@
 26-24	4013-4019	trials	_
 26-25	4020-4021	.	_
 
+Text=Subjects were instructed to indicate the color but ignore the word and to respond as quickly and as accurately as possible.
 27-1	4022-4030	Subjects	_
 27-2	4031-4035	were	_
 27-3	4036-4046	instructed	_
@@ -706,6 +733,7 @@
 27-21	4136-4144	possible	_
 27-22	4145-4146	.	_
 
+Text=Responses were recorded by button press using an IFIS-SA system (In Vivo, Orlando, Florida) running E-Prime (version 1.2; Psychology Software Tools, Pittsburgh, Pennsylvania).
 28-1	4147-4156	Responses	_
 28-2	4157-4161	were	_
 28-3	4162-4170	recorded	_
@@ -740,6 +768,7 @@
 28-32	4329-4330	)	_
 28-33	4331-4332	.	_
 
+Text=The event-related design consisted of three runs of 88 trials per run (~30% incongruent, 70% congruent).
 29-1	4333-4336	The	_
 29-2	4337-4350	event-related	_
 29-3	4351-4357	design	http://maven.renci.org/NeuroBridge/neurobridge#StudyDesign
@@ -763,6 +792,7 @@
 29-21	4440-4441	)	_
 29-22	4442-4443	.	_
 
+Text=The 3 seconds trials were comprised of a word stimulus for 1.5 seconds and a fixation cross for 1.5 seconds.
 30-1	4444-4447	The	_
 30-2	4448-4449	3	_
 30-3	4450-4457	seconds	_
@@ -785,6 +815,7 @@
 30-20	4544-4551	seconds	_
 30-21	4552-4553	.	_
 
+Text=Subjects completed a practice run before each scanning session.
 31-1	4554-4562	Subjects	_
 31-2	4563-4572	completed	_
 31-3	4573-4574	a	_
@@ -796,6 +827,7 @@
 31-9	4609-4616	session	_
 31-10	4617-4618	.	_
 
+Text=Image Acquisition Imaging was performed on a 3T head-only MRI scanner (Magnetom Allegra, Siemens Medical Solutions, Erlangen, Germany), with a circularly polarized transmit/receive head coil.
 32-1	4619-4624	Image	_
 32-2	4625-4636	Acquisition	_
 32-3	4637-4644	Imaging	_
@@ -829,6 +861,7 @@
 32-31	4811-4815	coil	_
 32-32	4816-4817	.	_
 
+Text=fMRI data were acquired using the gradient recalled echo-planar imaging sequence (repetition time/echo time [TR/TE] = 2100/30 milliseconds, flip angle= 70°, field of view= 24× 24cm2, 64 × 64 matrix, 4mm slice thickness, 1mm gap, 26 axial slices).
 33-1	4818-4822	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 33-2	4823-4827	data	_
 33-3	4828-4832	were	_
@@ -879,6 +912,7 @@
 33-48	5072-5073	)	_
 33-49	5074-5075	.	_
 
+Text=A high-resolution structural scan was acquired for anatomical reference (MPRAGE; TR/TE/inversion time [TI] = 2300/3.93/1100 milliseconds, flip angle= 12°, 256 × 256 matrix, 1mm3 voxel size).
 34-1	5076-5077	A	_
 34-2	5078-5093	high-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 34-3	5094-5104	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -915,6 +949,7 @@
 34-34	5272-5273	)	_
 34-35	5274-5275	.	_
 
+Text=Analyses between groups and across time found no significant differences in mean scan-to-scan head movement for the six movement parameters.
 35-1	5276-5284	Analyses	_
 35-2	5285-5292	between	_
 35-3	5293-5299	groups	_
@@ -937,6 +972,7 @@
 35-20	5405-5415	parameters	_
 35-21	5416-5417	.	_
 
+Text=Statistical Analysis Analyses were conducted in SPSS 20 (IBM SPSS Inc., Chicago, IL).
 36-1	5418-5429	Statistical	_
 36-2	5430-5438	Analysis	_
 36-3	5439-5447	Analyses	_
@@ -956,6 +992,7 @@
 36-17	5505-5506	)	_
 36-18	5507-5508	.	_
 
+Text=Group comparisons were performed using chi-square or analysis of variance, as appropriate.
 37-1	5509-5514	Group	_
 37-2	5515-5526	comparisons	_
 37-3	5527-5531	were	_
@@ -971,6 +1008,7 @@
 37-13	5588-5599	appropriate	_
 37-14	5600-5601	.	_
 
+Text=Analyzes of reaction time (RT) for correct trials [congruent, incongruent, and Stroop (incongruent - congruent)] and errors (congruent, incongruent) were analyzed using linear mixed models comparing fixed effects of group (HC vs SZ), time (unmedicated vs week six), condition (congruent vs incongruent), and interactions.
 38-1	5602-5610	Analyzes	_
 38-2	5611-5613	of	_
 38-3	5614-5622	reaction	_
@@ -1037,6 +1075,7 @@
 38-64	5930-5942	interactions	_
 38-65	5943-5944	.	_
 
+Text=Post hoc analyses were performed where appropriate with Bonferroni corrections.
 39-1	5945-5949	Post	_
 39-2	5950-5953	hoc	_
 39-3	5954-5962	analyses	_
@@ -1049,6 +1088,7 @@
 39-10	6012-6023	corrections	_
 39-11	6024-6025	.	_
 
+Text=Image analyses Data analyses were implemented in SPM8 (Wellcome Trust Centre for Neuroimaging).
 40-1	6026-6031	Image	_
 40-2	6032-6040	analyses	_
 40-3	6041-6045	Data	_
@@ -1066,6 +1106,7 @@
 40-15	6121-6122	)	_
 40-16	6123-6124	.	_
 
+Text=Preprocessing included slice-timing correction, realignment, reslicing at 1.5mm isotropic voxels, motion/artifact correction using ArtRepair, DARTEL normalization, and smoothing (4mm full width at half maximum Gaussian kernel).
 41-1	6125-6138	Preprocessing	_
 41-2	6139-6147	included	_
 41-3	6148-6160	slice-timing	_
@@ -1101,6 +1142,7 @@
 41-33	6357-6358	)	_
 41-34	6359-6360	.	_
 
+Text=Analysis for the Stroop task consisted of a single-subject voxel-by-voxel general linear model.
 42-1	6361-6369	Analysis	_
 42-2	6370-6373	for	_
 42-3	6374-6377	the	_
@@ -1116,6 +1158,7 @@
 42-13	6450-6455	model	_
 42-14	6456-6457	.	_
 
+Text=Five conditions were included: incongruent, congruent, stimulus repetitions (exact repetition of a previous trial), error, and no response trials.
 43-1	6458-6462	Five	_
 43-2	6463-6473	conditions	_
 43-3	6474-6478	were	_
@@ -1144,6 +1187,7 @@
 43-26	6604-6610	trials	_
 43-27	6611-6612	.	_
 
+Text=The conditions were convolved with the canonical hemodynamic response function with temporal derivatives.
 44-1	6613-6616	The	_
 44-2	6617-6627	conditions	_
 44-3	6628-6632	were	_
@@ -1159,6 +1203,7 @@
 44-13	6706-6717	derivatives	_
 44-14	6718-6719	.	_
 
+Text=The contrast of interest was correct incongruent trials minus correct congruent trials, subsequently referred to as the Stroop effect.
 45-1	6720-6723	The	_
 45-2	6724-6732	contrast	_
 45-3	6733-6735	of	_
@@ -1181,6 +1226,7 @@
 45-20	6848-6854	effect	_
 45-21	6855-6856	.	_
 
+Text=A contrast z-map of the BOLD signal during the Stroop effect was generated for each subject at each time point.
 46-1	6857-6858	A	_
 46-2	6859-6867	contrast	_
 46-3	6868-6873	z-map	_
@@ -1203,6 +1249,7 @@
 46-20	6962-6967	point	_
 46-21	6968-6969	.	_
 
+Text=Generalized psycho-physiological interaction (gPPI) is an analysis method that investigates functional connectivity between a selected brain region and the rest of the brain during the presence of task conditions.
 47-1	6970-6981	Generalized	_
 47-2	6982-7002	psycho-physiological	_
 47-3	7003-7014	interaction	_
@@ -1236,6 +1283,7 @@
 47-31	7174-7184	conditions	_
 47-32	7185-7186	.	_
 
+Text=gPPI analysis is an interaction analysis that allows one to analyze changes in connectivity across conditions, in this case between the incongruent and congruent conditions, and allows more flexibility in analyses compared to standard PPI.
 48-1	7187-7191	gPPI	_
 48-2	7192-7200	analysis	_
 48-3	7201-7203	is	_
@@ -1275,6 +1323,7 @@
 48-37	7424-7427	PPI	_
 48-38	7428-7429	.	_
 
+Text=Stroop effect-dependent connectivity with the ACC (defined using the IBASPM 116 WFU pickatlas with subsequent restriction of being one slice forward from the disappearance of the juncture of the anterior corpus callosum from both hemispheres and the posterior end as the first vertical slice posterior to the anterior commissure) was assessed using the gPPI toolbox.
 49-1	7430-7436	Stroop	_
 49-2	7437-7453	effect-dependent	_
 49-3	7454-7466	connectivity	_
@@ -1334,6 +1383,7 @@
 49-57	7790-7797	toolbox	_
 49-58	7798-7799	.	_
 
+Text=On first-level, the gPPI analysis included the following regressors: the psychological component of the task condition (congruent, incongruent), the physiological component (time course of activation in the ACC region) and the psychophysiological interaction of these two components throughout the whole brain.
 50-1	7800-7802	On	_
 50-2	7803-7814	first-level	_
 50-3	7815-7816	,	_
@@ -1385,6 +1435,7 @@
 50-49	8112-8117	brain	_
 50-50	8118-8119	.	_
 
+Text=The Stroop effect contrast condition was created by subtracting the gPPI interaction regressor of the congruent condition from the interaction regressor of the incongruent condition.
 51-1	8120-8123	The	_
 51-2	8124-8130	Stroop	_
 51-3	8131-8137	effect	_
@@ -1412,6 +1463,7 @@
 51-25	8292-8301	condition	_
 51-26	8302-8303	.	_
 
+Text=A contrast map of the interaction of interest, Stroop effect × ACC activation interaction, was generated for each subject at each time point.
 52-1	8304-8305	A	_
 52-2	8306-8314	contrast	_
 52-3	8315-8318	map	_
@@ -1439,6 +1491,7 @@
 52-25	8441-8446	point	_
 52-26	8447-8448	.	_
 
+Text=On second-level, between- group differences for baseline ACC-Stroop effect functional connectivity were characterized via a two-sample t-test within SPM.
 53-1	8449-8451	On	_
 53-2	8452-8464	second-level	_
 53-3	8465-8466	,	_
@@ -1461,6 +1514,7 @@
 53-20	8599-8602	SPM	_
 53-21	8603-8604	.	_
 
+Text=Exploratory analyses: in regions where baseline functional connectivity was significantly different between groups, the first eigenvariate of functional connectivity was extracted for each individual via REX (CIBSR Stanford University, CA) using a 6mm sphere centered on the maximum intensity projections; these values were plotted against average errors and Stroop RT and R2 values (converted to z) compared between groups.
 54-1	8605-8616	Exploratory	_
 54-2	8617-8625	analyses	_
 54-3	8626-8627	:	_
@@ -1530,6 +1584,7 @@
 54-67	9030-9036	groups	_
 54-68	9037-9038	.	_
 
+Text=Outlier values beyond two standard deviations were removed from the descriptive plots and correlation analysis between connectivity values and Stroop performance (RT and errors) values.
 55-1	9039-9046	Outlier	_
 55-2	9047-9053	values	_
 55-3	9054-9060	beyond	_
@@ -1559,6 +1614,7 @@
 55-27	9219-9225	values	_
 55-28	9226-9227	.	_
 
+Text=To examine APD effects on functional connectivity, we employed a full factorial analysis.
 56-1	9228-9230	To	_
 56-2	9231-9238	examine	_
 56-3	9239-9242	APD	_
@@ -1575,6 +1631,7 @@
 56-14	9309-9317	analysis	_
 56-15	9318-9319	.	_
 
+Text=Independent variables were included for group (HC vs SZ), time (unmedicated/baseline vs week six) and the interaction of group and time (group × time).
 57-1	9320-9331	Independent	_
 57-2	9332-9341	variables	_
 57-3	9342-9346	were	_
@@ -1608,6 +1665,7 @@
 57-31	9476-9477	)	_
 57-32	9478-9479	.	_
 
+Text=Contrast images were generated for the group × time interaction.
 58-1	9480-9488	Contrast	_
 58-2	9489-9495	images	_
 58-3	9496-9500	were	_
@@ -1620,6 +1678,7 @@
 58-10	9532-9543	interaction	_
 58-11	9544-9545	.	_
 
+Text=To correctly partition the variance for valid interpretation of the main effects of group and time independent sample t-tests and paired-sample t-tests were run.
 59-1	9546-9548	To	_
 59-2	9549-9558	correctly	_
 59-3	9559-9568	partition	_
@@ -1646,6 +1705,7 @@
 59-24	9703-9706	run	_
 59-25	9707-9708	.	_
 
+Text=In the presence of a significant group × time interaction, functional connectivity values were extracted at the individual level using REX.
 60-1	9709-9711	In	_
 60-2	9712-9715	the	_
 60-3	9716-9724	presence	_
@@ -1670,6 +1730,7 @@
 60-22	9845-9848	REX	_
 60-23	9849-9850	.	_
 
+Text=For each group, we correlated the change in functional connectivity between regions identified in the group × time interaction and compared R2 values between groups.
 61-1	9851-9854	For	_
 61-2	9855-9859	each	_
 61-3	9860-9865	group	_
@@ -1698,6 +1759,7 @@
 61-26	10010-10016	groups	_
 61-27	10017-10018	.	_
 
+Text=Linear regression was used to determine whether functional connectivity at baseline in unmedicated SZ was related to subsequent treatment response and to determine whether changes in functional connectivity over the course of 6 weeks were related to treatment response.
 62-1	10019-10025	Linear	_
 62-2	10026-10036	regression	_
 62-3	10037-10040	was	_
@@ -1739,6 +1801,7 @@
 62-39	10279-10287	response	_
 62-40	10288-10289	.	_
 
+Text=For the latter, contrast images were created using IMCalc (Stroop week 6 – Stroop baseline) and then entered into the regression.
 63-1	10290-10293	For	_
 63-2	10294-10297	the	_
 63-3	10298-10304	latter	_
@@ -1765,6 +1828,7 @@
 63-24	10411-10421	regression	_
 63-25	10422-10423	.	_
 
+Text=To visualize the distribution of variance associated with these analyses, we extracted the first eigenvariate of the effect of interest in regions where treatment response was correlated with treatment response and plotted the extracted values (z-scores) against treatment response.
 64-1	10424-10426	To	_
 64-2	10427-10436	visualize	_
 64-3	10437-10440	the	_
@@ -1809,6 +1873,7 @@
 64-42	10700-10708	response	_
 64-43	10709-10710	.	_
 
+Text=Treatment response was defined as the percent change on the BPRS psychosis subscale from baseline (A) to six weeks of risperidone (B): Analyses were corrected for multiple comparisons using small-volume-correction (SVC) in accordance with Gaussian random field theory (p <0.05).
 65-1	10711-10720	Treatment	_
 65-2	10721-10729	response	_
 65-3	10730-10733	was	_
@@ -1861,6 +1926,7 @@
 65-50	10997-10998	)	_
 65-51	10999-11000	.	_
 
+Text=In order to observe functional connectivity in the network of interest, results were restricted with a mask containing regions of the fronto-striatal network.
 66-1	11001-11003	In	_
 66-2	11004-11009	order	_
 66-3	11010-11012	to	_
@@ -1887,6 +1953,7 @@
 66-24	11152-11159	network	_
 66-25	11160-11161	.	_
 
+Text=The fronto-striatal network mask was composed of the putamen and caudate from IBASPM 116 and midbrain from TD lobes as part of the WFU pickatlas.
 67-1	11162-11165	The	_
 67-2	11166-11181	fronto-striatal	_
 67-3	11182-11189	network	_
@@ -1914,6 +1981,7 @@
 67-25	11297-11306	pickatlas	_
 67-26	11307-11308	.	_
 
+Text=An image of the composed mask is provided in Supplement Fig.
 68-1	11309-11311	An	_
 68-2	11312-11317	image	_
 68-3	11318-11320	of	_
@@ -1927,6 +1995,7 @@
 68-11	11365-11368	Fig	_
 68-12	11369-11370	.	_
 
+Text=1.
 69-1	11371-11372	1	_
 69-2	11373-11374	.	_
 

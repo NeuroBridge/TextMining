@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Random Forest Based Classification of Alcohol Dependence Patients and Healthy Controls Using Resting State MRI Currently, classification of alcohol use disorder (AUD) is made on clinical grounds; however, robust evidence shows that chronic alcohol use leads to neurochemical and neurocircuitry adaptations.
 1-1	0-6	Random	http://maven.renci.org/NeuroBridge/neurobridge#EcologicalStudy
 1-2	7-13	Forest	http://maven.renci.org/NeuroBridge/neurobridge#EcologicalStudy
 1-3	14-19	Based	http://maven.renci.org/NeuroBridge/neurobridge#EcologicalStudy
@@ -50,6 +51,7 @@
 1-46	299-310	adaptations	_
 1-47	311-312	.	_
 
+Text=Identifications of the neuronal networks that are affected by alcohol would provide a more systematic way of diagnosis and provide novel insights into the pathophysiology of AUD.
 2-1	313-328	Identifications	_
 2-2	329-331	of	_
 2-3	332-335	the	_
@@ -79,6 +81,7 @@
 2-27	487-490	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 2-28	491-492	.	_
 
+Text=In this study, we identified network-level brain features of AUD, and further quantified resting-state within-network, and between-network connectivity features in a multivariate fashion that are classifying AUD, thus providing additional information about how each network contributes to alcoholism.
 3-1	493-495	In	_
 3-2	496-500	this	_
 3-3	501-506	study	_
@@ -123,6 +126,7 @@
 3-42	786-796	alcoholism	_
 3-43	797-798	.	_
 
+Text=Resting-state fMRI were collected from 92 individuals (46 controls and 46 AUDs).
 4-1	799-812	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 4-2	813-817	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 4-3	818-822	were	_
@@ -139,6 +143,7 @@
 4-14	879-880	)	_
 4-15	881-882	.	_
 
+Text=Probabilistic Independent Component Analysis (PICA) was used to extract brain functional networks and their corresponding time-course for AUD and controls.
 5-1	883-896	Probabilistic	_
 5-2	897-908	Independent	_
 5-3	909-918	Component	_
@@ -163,6 +168,7 @@
 5-22	1031-1039	controls	_
 5-23	1040-1041	.	_
 
+Text=Both within-network connectivity for each network and between-network connectivity for each pair of networks were used as features.
 6-1	1042-1046	Both	_
 6-2	1047-1061	within-network	_
 6-3	1062-1074	connectivity	_
@@ -183,6 +189,7 @@
 6-18	1164-1172	features	_
 6-19	1173-1174	.	_
 
+Text=Random forest was applied for pattern classification.
 7-1	1175-1181	Random	_
 7-2	1182-1188	forest	_
 7-3	1189-1192	was	_
@@ -192,6 +199,7 @@
 7-7	1213-1227	classification	_
 7-8	1228-1229	.	_
 
+Text=The results showed that within-networks features were able to identify AUD and control with 87.0% accuracy and 90.5% precision, respectively.
 8-1	1230-1233	The	_
 8-2	1234-1241	results	_
 8-3	1242-1248	showed	_
@@ -217,6 +225,7 @@
 8-23	1361-1373	respectively	_
 8-24	1374-1375	.	_
 
+Text=Networks that were most informative included two; Executive Control Networks (ECN), and Reward Network (RN).
 9-1	1376-1384	Networks	_
 9-2	1385-1389	that	_
 9-3	1390-1394	were	_
@@ -240,6 +249,7 @@
 9-21	1488-1489	)	_
 9-22	1490-1491	.	_
 
+Text=The between-network features achieved 67.4% accuracy and 70.0% precision.
 10-1	1492-1495	The	_
 10-2	1496-1511	between-network	_
 10-3	1512-1520	features	_
@@ -253,6 +263,7 @@
 10-11	1557-1566	precision	_
 10-12	1567-1568	.	_
 
+Text=The between-network connectivity between RN-Default Mode Network (DMN) and RN-ECN contribute the most to the prediction.
 11-1	1569-1572	The	_
 11-2	1573-1588	between-network	_
 11-3	1589-1601	connectivity	_
@@ -273,6 +284,7 @@
 11-18	1680-1690	prediction	_
 11-19	1691-1692	.	_
 
+Text=In conclusion, within-network functional connectivity offered maximal information for AUD classification, when compared with between-network connectivity.
 12-1	1693-1695	In	_
 12-2	1696-1706	conclusion	_
 12-3	1707-1708	,	_
@@ -293,6 +305,7 @@
 12-18	1836-1848	connectivity	_
 12-19	1849-1850	.	_
 
+Text=Further, our results suggest that connectivity within the ECN and RN are informative in classifying AUD.
 13-1	1851-1858	Further	_
 13-2	1859-1860	,	_
 13-3	1861-1864	our	_
@@ -312,6 +325,7 @@
 13-17	1952-1955	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 13-18	1956-1957	.	_
 
+Text=Our findings suggest that machine-learning algorithms provide an alternative technique to quantify large-scale network differences and offer new insights into the identification of potential biomarkers for the clinical diagnosis of AUD.
 14-1	1958-1961	Our	_
 14-2	1962-1970	findings	_
 14-3	1971-1978	suggest	_
@@ -345,6 +359,7 @@
 14-31	2190-2193	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 14-32	2194-2195	.	_
 
+Text=Methods and Materials 2.1 Participants Forty-six controls and 46 short-term abstinent patients were recruited by the National Institute on Alcohol Abuse and Alcoholism part of the National Institutes of Health, USA (Table 1).
 15-1	2196-2203	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 15-2	2204-2207	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 15-3	2208-2217	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -383,6 +398,7 @@
 15-36	2422-2423	)	_
 15-37	2424-2425	.	_
 
+Text=Healthy controls were recruited through newspaper advertisements and information notices distributed in the Washington, D.C. metropolitan area.
 16-1	2426-2433	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 16-2	2434-2442	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 16-3	2443-2447	were	_
@@ -403,6 +419,7 @@
 16-18	2565-2569	area	_
 16-19	2570-2571	.	_
 
+Text=Patients were recruited from the 1-SE inpatient alcohol withdrawal treatment unit at the National Institutes of Health Clinical Research Center in Bethesda, Maryland.
 17-1	2572-2580	Patients	_
 17-2	2581-2585	were	_
 17-3	2586-2595	recruited	_
@@ -429,6 +446,7 @@
 17-24	2730-2738	Maryland	_
 17-25	2739-2740	.	_
 
+Text=Alcohol detoxification procedure generally took 3 to 10 days after admission in the inpatient unit.
 18-1	2741-2748	Alcohol	_
 18-2	2749-2763	detoxification	_
 18-3	2764-2773	procedure	_
@@ -446,6 +464,7 @@
 18-15	2835-2839	unit	_
 18-16	2840-2841	.	_
 
+Text=The fMRI session was conducted following hospitalization for at least 1 week (7 to 43 days, Table 1).
 19-1	2842-2845	The	_
 19-2	2846-2850	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 19-3	2851-2858	session	_
@@ -469,6 +488,7 @@
 19-21	2944-2945	)	_
 19-22	2946-2947	.	_
 
+Text=Written informed consent to the study was obtained from all of subjects, which was approved by the Institutional Review Board of the National Institute on Alcohol Abuse and Alcoholism.
 20-1	2948-2955	Written	_
 20-2	2956-2964	informed	_
 20-3	2965-2972	consent	_
@@ -501,6 +521,7 @@
 20-30	3122-3132	Alcoholism	_
 20-31	3133-3134	.	_
 
+Text=2.2 Assessments The Structured Clinical Interview for DSM-IV-TR (SCID) was administered to all participants to determine diagnoses of alcohol dependence as well as other substance use and psychiatric disorders.
 21-1	3135-3138	2.2	_
 21-2	3139-3150	Assessments	_
 21-3	3151-3154	The	_
@@ -534,6 +555,7 @@
 21-31	3337-3346	disorders	_
 21-32	3347-3348	.	_
 
+Text=A 90 day Timeline Followback (TLFB) calendar was used to measure the frequency and amount of drinking for all subjects.
 22-1	3349-3350	A	_
 22-2	3351-3353	90	_
 22-3	3354-3357	day	_
@@ -558,6 +580,7 @@
 22-22	3461-3469	subjects	_
 22-23	3470-3471	.	_
 
+Text=The amount of lifetime alcohol intake for controls was measured by using the lifetime drinking history.
 23-1	3472-3475	The	_
 23-2	3476-3482	amount	_
 23-3	3483-3485	of	_
@@ -576,6 +599,7 @@
 23-16	3567-3574	history	_
 23-17	3575-3576	.	_
 
+Text=A smoking questionnaire was used to determine the amount and frequency of a participant ’ s cigarette use.
 24-1	3577-3578	A	_
 24-2	3579-3586	smoking	_
 24-3	3587-3600	questionnaire	_
@@ -596,6 +620,7 @@
 24-18	3679-3682	use	_
 24-19	3683-3684	.	_
 
+Text=2.3 Exclusionary criteria Exclusionary criteria included pregnancy, claustrophobia, significant neurological, or medical diagnoses.
 25-1	3685-3688	2.3	_
 25-2	3689-3701	Exclusionary	_
 25-3	3702-3710	criteria	_
@@ -614,6 +639,7 @@
 25-16	3809-3818	diagnoses	_
 25-17	3819-3820	.	_
 
+Text=Subjects were also excluded if they had ferromagnetic objects in the body, a positive HIV test, active suicidal or homicidal ideations, or were currently taking psychotropic medication.
 26-1	3821-3829	Subjects	_
 26-2	3830-3834	were	_
 26-3	3835-3839	also	_
@@ -646,6 +672,7 @@
 26-30	3998-4008	medication	_
 26-31	4009-4010	.	_
 
+Text=A failed neuromotor examination was exclusionary as well.
 27-1	4011-4012	A	_
 27-2	4013-4019	failed	_
 27-3	4020-4030	neuromotor	_
@@ -656,6 +683,7 @@
 27-8	4063-4067	well	_
 27-9	4068-4069	.	_
 
+Text=Participants were instructed not to consume any alcohol for 24 hours and no more than half a cup of caffeinated beverages 12 hours prior to each scanning visit.
 28-1	4070-4082	Participants	_
 28-2	4083-4087	were	_
 28-3	4088-4098	instructed	_
@@ -686,6 +714,7 @@
 28-28	4224-4229	visit	_
 28-29	4230-4231	.	_
 
+Text=Participants could not participate if they had a positive alcohol breathalyzer or urine drug screen on the day of the scan.
 29-1	4232-4244	Participants	_
 29-2	4245-4250	could	_
 29-3	4251-4254	not	_
@@ -709,6 +738,7 @@
 29-21	4350-4354	scan	_
 29-22	4355-4356	.	_
 
+Text=Controls were excluded if they met criteria for any current or past AUD.
 30-1	4357-4365	Controls	_
 30-2	4366-4370	were	_
 30-3	4371-4379	excluded	_
@@ -724,6 +754,7 @@
 30-13	4425-4428	AUD	_
 30-14	4429-4430	.	_
 
+Text=All subjects were required to be right handed and deemed physically healthy by a clinician.
 31-1	4431-4434	All	_
 31-2	4435-4443	subjects	_
 31-3	4444-4448	were	_
@@ -741,6 +772,7 @@
 31-15	4512-4521	clinician	_
 31-16	4522-4523	.	_
 
+Text=Participants with AUD could not have severe symptoms of alcohol withdrawal defined by a Clinical Institute Withdrawal Assessment of Alcohol Scale (CIWA) score of greater than 8.
 32-1	4524-4536	Participants	_
 32-2	4537-4541	with	_
 32-3	4542-4545	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
@@ -772,6 +804,7 @@
 32-29	4701-4702	8	_
 32-30	4703-4704	.	_
 
+Text=2.4 MRI Data acquisition Five minutes of closed-eyes rs-fMRI (150 volumes) were collected using a 3T SIEMENS Skyra MRI scanner.
 33-1	4705-4708	2.4	_
 33-2	4709-4712	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 33-3	4713-4717	Data	_
@@ -796,6 +829,7 @@
 33-22	4826-4833	scanner	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 33-23	4834-4835	.	_
 
+Text=Resting state fMRI datasets were collected using a single-shot gradient echo planar imaging pulse sequence with thirty-six axial slices acquired parallel to the anterior/posterior commissural line (TR = 2000ms, TE = 30ms, flip angle=90°, 3.75 mm × 3.75 mm × 3.8 mm voxels).
 34-1	4836-4843	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 34-2	4844-4849	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 34-3	4850-4854	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -846,6 +880,7 @@
 34-48	5112-5113	)	_
 34-49	5114-5115	.	_
 
+Text=High-resolution T1-weighted 3-D structural scans were acquired for each subject using an MPRAGE sequence (TR = 1200ms TE =30ms, 256 × 256 matrix, 128 axial slices).
 35-1	5116-5131	High-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 35-2	5132-5143	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 35-3	5144-5147	3-D	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -878,6 +913,7 @@
 35-30	5282-5283	)	_
 35-31	5284-5285	.	_
 
+Text=2.5 rs-fMRI data pre-processing Using Functional MRI of the Brain (FMRIB) ’ s Software Library (FSL) package (www.fmrib.ox.ac.uk/fsl) we applied; 1) slice timing correction for interleaved acquisitions using interpolation with a Hanning windowing kernel; 2) motion correction using Motion Correction using FMRIB ’ s Linear Image Registration Tool (MCFLIRT); 3) non-brain removal using Brain Extraction Tool (BET); 4) spatial smoothing using a Gaussian kernel of full width at half maximum 5mm; 5) grand-mean intensity normalization of the entire 4D dataset by a single multiplicative factor, the size of the voxels is 4×4×4 mm3; 6) high-pass temporal filtering (Gaussian-weighted least-squares straight line fitting, with sigma=50s); 7) removing trends and regressing out a set of nuisance variables such as motion parameters and it ’ s derivatives, signals from cerebrospinal fluid (CSF) and white matter using fsl_glm; and 8) registration to high resolution structural MNI standard space images using the FMRIB ’ s Linear Image Registration Tool (FLIRT).
 36-1	5286-5289	2.5	_
 36-2	5290-5297	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 36-3	5298-5302	data	_
@@ -1070,6 +1106,7 @@
 36-190	6375-6376	)	_
 36-191	6377-6378	.	_
 
+Text=We used a stringent threshold for head motion in the pre-processing step.
 37-1	6379-6381	We	_
 37-2	6382-6386	used	_
 37-3	6387-6388	a	_
@@ -1084,6 +1121,7 @@
 37-12	6447-6451	step	_
 37-13	6452-6453	.	_
 
+Text=Subjects with head motion greater than 0.3 mm for translation and 0.3° for rotation between consecutive TRs were removed from the study.
 38-1	6454-6462	Subjects	_
 38-2	6463-6467	with	_
 38-3	6468-6472	head	_
@@ -1108,6 +1146,7 @@
 38-22	6584-6589	study	_
 38-23	6590-6591	.	_
 
+Text=The head motion was not different between the two groups.
 39-1	6592-6595	The	_
 39-2	6596-6600	head	_
 39-3	6601-6607	motion	_
@@ -1120,6 +1159,7 @@
 39-10	6642-6648	groups	_
 39-11	6649-6650	.	_
 
+Text=2.6 rs-fMRI connectivity analysis 1.
 40-1	6651-6654	2.6	_
 40-2	6655-6662	rs-fMRI	_
 40-3	6663-6675	connectivity	_
@@ -1127,6 +1167,7 @@
 40-5	6685-6686	1	_
 40-6	6687-6688	.	_
 
+Text=Feature extraction Extracting brain functional networks and their corresponding time-course is the first step to extract both types of proposed features.
 41-1	6689-6696	Feature	_
 41-2	6697-6707	extraction	_
 41-3	6708-6718	Extracting	_
@@ -1150,6 +1191,7 @@
 41-21	6833-6841	features	_
 41-22	6842-6843	.	_
 
+Text=We applied Probabilistic Independent Component Analysis (PICA) by using the Multivariate Exploratory Linear Decomposition into Independent Components (MELODIC) toolbox of the FSL for this purpose.
 42-1	6844-6846	We	_
 42-2	6847-6854	applied	_
 42-3	6855-6868	Probabilistic	_
@@ -1181,6 +1223,7 @@
 42-29	7036-7043	purpose	_
 42-30	7044-7045	.	_
 
+Text=ICA, a multivariate data-driven method which is a blind source separation method where individual regions in a given network show tight functional connectivity which enables isolation of a set of signals from their linear mixtures, and has yielded fruitful results with fMRI data.
 43-1	7046-7049	ICA	_
 43-2	7050-7051	,	_
 43-3	7052-7053	a	_
@@ -1228,6 +1271,7 @@
 43-45	7323-7327	data	_
 43-46	7328-7329	.	_
 
+Text=ICA estimates maximally independent components using independence measures based on higher order statistics.
 44-1	7330-7333	ICA	_
 44-2	7334-7343	estimates	_
 44-3	7344-7353	maximally	_
@@ -1243,6 +1287,7 @@
 44-13	7427-7437	statistics	_
 44-14	7438-7439	.	_
 
+Text=Compared to general linear model approaches, ICA requires no specific temporal model (task-based design matrix), making it ideal for analyzing resting state data.
 45-1	7440-7448	Compared	_
 45-2	7449-7451	to	_
 45-3	7452-7459	general	_
@@ -1272,6 +1317,7 @@
 45-27	7601-7605	data	_
 45-28	7606-7607	.	_
 
+Text=Spatial components resulting from spatial ICA are maximally spatially independent but their corresponding time-courses can show a considerable amount of temporal dependency.
 46-1	7608-7615	Spatial	_
 46-2	7616-7626	components	_
 46-3	7627-7636	resulting	_
@@ -1296,6 +1342,7 @@
 46-22	7770-7780	dependency	_
 46-23	7781-7782	.	_
 
+Text=In order to create an unbiased template of resting-state networks, a group ICA was performed on all 92 AUD and controls.
 47-1	7783-7785	In	_
 47-2	7786-7791	order	_
 47-3	7792-7794	to	_
@@ -1320,6 +1367,7 @@
 47-22	7895-7903	controls	_
 47-23	7904-7905	.	_
 
+Text=A temporal concatenation tool in MELODIC was used to derive group level components across all subjects.
 48-1	7906-7907	A	_
 48-2	7908-7916	temporal	_
 48-3	7917-7930	concatenation	_
@@ -1338,6 +1386,7 @@
 48-16	8000-8008	subjects	_
 48-17	8009-8010	.	_
 
+Text=Pre-processed data were whitened and projected into a 37-dimensional subspace using PICA where the number of dimensions was estimated using an objective estimation of the amount of Gaussian noise through Bayesian analysis of the true dimensionality of the data (the number of activation and non-Gaussian noise sources).
 49-1	8011-8024	Pre-processed	_
 49-2	8025-8029	data	_
 49-3	8030-8034	were	_
@@ -1389,6 +1438,7 @@
 49-49	8330-8331	)	_
 49-50	8332-8333	.	_
 
+Text=The whitened observations were decomposed into sets of vectors which describe signal variation across the temporal domain (time-courses) and across the spatial domain (maps) by optimizing for non-Gaussian spatial source distributions using a fixed-point iteration technique.
 50-1	8334-8337	The	_
 50-2	8338-8346	whitened	_
 50-3	8347-8359	observations	_
@@ -1431,6 +1481,7 @@
 50-40	8602-8611	technique	_
 50-41	8612-8613	.	_
 
+Text=These FC components maps were standardized into z statistic images via a normalized mixture model fit, thresholded at z> 7, cluster size> 30 voxels.
 51-1	8614-8619	These	_
 51-2	8620-8622	FC	_
 51-3	8623-8633	components	_
@@ -1461,6 +1512,7 @@
 51-28	8759-8765	voxels	_
 51-29	8766-8767	.	_
 
+Text=Two criteria were used to remove biologically irrelevant components: (1) those representing known artifacts such as motion, and high-frequency noise; and (2) those with connectivity patterns not located mainly in gray matter.
 52-1	8768-8771	Two	_
 52-2	8772-8780	criteria	_
 52-3	8781-8785	were	_
@@ -1502,6 +1554,7 @@
 52-39	8993-8999	matter	_
 52-40	9000-9001	.	_
 
+Text=Networks of interest were identified as anatomically and functionally classical RSNs upon visual inspection.
 53-1	9002-9010	Networks	_
 53-2	9011-9013	of	_
 53-3	9014-9022	interest	_
@@ -1518,6 +1571,7 @@
 53-14	9099-9109	inspection	_
 53-15	9110-9111	.	_
 
+Text=This procedure ended up with 32 component maps (Figure 1).
 54-1	9112-9116	This	_
 54-2	9117-9126	procedure	_
 54-3	9127-9132	ended	_
@@ -1532,6 +1586,7 @@
 54-12	9170-9171	)	_
 54-13	9172-9173	.	_
 
+Text=The between-subject analysis was carried out using dual regression, a regression technique which back-reconstructs each group level component map at the individual subject level.
 55-1	9174-9177	The	_
 55-2	9178-9193	between-subject	_
 55-3	9194-9202	analysis	_
@@ -1559,6 +1614,7 @@
 55-25	9347-9352	level	_
 55-26	9353-9354	.	_
 
+Text=This technique allows for voxel-wise comparisons of rs-FC by carrying out the following steps: regresses the group level spatial maps into each individual ’ s 4D dataset to obtain a set of timeseries and then regresses those individual level timeseries into the same 4D dataset to obtain a subject-specific set of spatial maps.
 56-1	9355-9359	This	_
 56-2	9360-9369	technique	_
 56-3	9370-9376	allows	_
@@ -1615,6 +1671,7 @@
 56-54	9678-9682	maps	_
 56-55	9683-9684	.	_
 
+Text=The Harvard-Oxford cortical and subcortical atlases incorporated in FSL were used to identify the anatomical regions of the resulting PICA maps.
 57-1	9685-9688	The	_
 57-2	9689-9703	Harvard-Oxford	_
 57-3	9704-9712	cortical	_
@@ -1638,6 +1695,7 @@
 57-21	9824-9828	maps	_
 57-22	9829-9830	.	_
 
+Text=The FSL Cluster tools were used to report information about clusters in the selected maps.
 58-1	9831-9834	The	_
 58-2	9835-9838	FSL	_
 58-3	9839-9846	Cluster	_
@@ -1655,6 +1713,7 @@
 58-15	9916-9920	maps	_
 58-16	9921-9922	.	_
 
+Text=The connectivity maps were overlaid onto the mean standardized structural T1 1-mm MNI template and visualized using Mricogl.
 59-1	9923-9926	The	_
 59-2	9927-9939	connectivity	_
 59-3	9940-9944	maps	_
@@ -1675,9 +1734,11 @@
 59-18	10039-10046	Mricogl	_
 59-19	10047-10048	.	_
 
+Text=2.
 60-1	10049-10050	2	_
 60-2	10051-10052	.	_
 
+Text=Feature selection Within-network connectivity The group level components maps thresholded at z> 7, cluster size> 30 voxels were used as masks on the subject-specific maps.
 61-1	10053-10060	Feature	_
 61-2	10061-10070	selection	_
 61-3	10071-10085	Within-network	_
@@ -1708,6 +1769,7 @@
 61-28	10222-10226	maps	_
 61-29	10227-10228	.	_
 
+Text=The averaged z value within each mask was calculated as within-network connectivity features, thus in total 32 within-network connectivity features were extracted for each subject.
 62-1	10229-10232	The	_
 62-2	10233-10241	averaged	_
 62-3	10242-10243	z	_
@@ -1736,6 +1798,7 @@
 62-26	10402-10409	subject	_
 62-27	10410-10411	.	_
 
+Text=Between-network connectivity Even though all component maps are spatially independent, time series of the components may still have significant temporal correlations.
 63-1	10412-10427	Between-network	_
 63-2	10428-10440	connectivity	_
 63-3	10441-10445	Even	_
@@ -1760,6 +1823,7 @@
 63-22	10566-10578	correlations	_
 63-23	10579-10580	.	_
 
+Text=Network interaction comparisons (Correlation coefficients, Pearson ’ s r) between each pair of networks were computed for each subject time series that were obtained by the first stage of the dual regression procedure.
 64-1	10581-10588	Network	_
 64-2	10589-10600	interaction	_
 64-3	10601-10612	comparisons	_
@@ -1798,6 +1862,7 @@
 64-36	10792-10801	procedure	_
 64-37	10802-10803	.	_
 
+Text=These correlation coefficients were Fisher z-transformed and used as between-network connectivity features (496 features, figure 2).
 65-1	10804-10809	These	_
 65-2	10810-10821	correlation	_
 65-3	10822-10834	coefficients	_
@@ -1819,6 +1884,7 @@
 65-19	10937-10938	)	_
 65-20	10939-10940	.	_
 
+Text=The differences in age and gender between AUD and controls do not make for ideal comparisons.
 66-1	10941-10944	The	_
 66-2	10945-10956	differences	_
 66-3	10957-10959	in	_
@@ -1837,6 +1903,7 @@
 66-16	11022-11033	comparisons	_
 66-17	11034-11035	.	_
 
+Text=To minimize the potential confounding influence of age and gender in these results, we performed a covariate analysis of age and gender for each network of interest.
 67-1	11036-11038	To	_
 67-2	11039-11047	minimize	_
 67-3	11048-11051	the	_
@@ -1867,6 +1934,7 @@
 67-28	11193-11201	interest	_
 67-29	11202-11203	.	_
 
+Text=2.7 Classification Random forest was applied to both within-network and between-network functional connectivity from the 46 AUD and 46 controls.
 68-1	11204-11207	2.7	_
 68-2	11208-11222	Classification	_
 68-3	11223-11229	Random	_
@@ -1889,9 +1957,11 @@
 68-20	11339-11347	controls	_
 68-21	11348-11349	.	_
 
+Text=1.
 69-1	11350-11351	1	_
 69-2	11352-11353	.	_
 
+Text=Random Forest Random forest, an ensemble machine-learning algorithm, builds a group of weak learners of decision trees to form a “ strong learner ”, thereby improving the generalization ability of the classifier (Breiman 2001).
 70-1	11354-11360	Random	_
 70-2	11361-11367	Forest	_
 70-3	11368-11374	Random	_
@@ -1933,6 +2003,7 @@
 70-39	11584-11585	)	_
 70-40	11586-11587	.	_
 
+Text=In constructing the ensemble of trees, random forest uses two levels of randomness: first each tree uses a bootstrapped version of the training data (bagging).
 71-1	11588-11590	In	_
 71-2	11591-11603	constructing	_
 71-3	11604-11607	the	_
@@ -1964,6 +2035,7 @@
 71-29	11749-11750	)	_
 71-30	11751-11752	.	_
 
+Text=Specifically, about 66% of the training data was used for each tree with replacement; the remaining training data was used to estimate error and variable importance.
 72-1	11753-11765	Specifically	_
 72-2	11766-11767	,	_
 72-3	11768-11773	about	_
@@ -1995,6 +2067,7 @@
 72-29	11910-11920	importance	_
 72-30	11921-11922	.	_
 
+Text=A second level of randomness is added at each node when growing a decision tree by randomly selecting a subset of variables to split.
 73-1	11923-11924	A	_
 73-2	11925-11931	second	_
 73-3	11932-11937	level	_
@@ -2021,6 +2094,7 @@
 73-24	12050-12055	split	_
 73-25	12056-12057	.	_
 
+Text=At each internal node, a best feature among a random subset of features is selected so as to maximize the reduction of label impurity, typically measured with the class entropy.
 74-1	12058-12060	At	_
 74-2	12061-12065	each	_
 74-3	12066-12074	internal	_
@@ -2055,6 +2129,7 @@
 74-32	12229-12236	entropy	_
 74-33	12237-12238	.	_
 
+Text=The process is recursively repeated until the tree has either reached a predefined depth or the number of samples in a node falls below a threshold, or all the samples belong to the same class.
 75-1	12239-12242	The	_
 75-2	12243-12250	process	_
 75-3	12251-12253	is	_
@@ -2093,6 +2168,7 @@
 75-36	12427-12432	class	_
 75-37	12433-12434	.	_
 
+Text=The number of trees in the ensemble and the number of variables selected at each node are the two main parameters of the random forest algorithm.
 76-1	12435-12438	The	_
 76-2	12439-12445	number	_
 76-3	12446-12448	of	_
@@ -2121,6 +2197,7 @@
 76-26	12570-12579	algorithm	_
 76-27	12580-12581	.	_
 
+Text=The random forest has been proven to achieve good performance with a different variety of datasets and has important advantages over other techniques in terms of its ability to handle highly non-linear biological data, robustness to noise, tuning simplicity (compared to other ensemble learning algorithms), and opportunity for efficient parallel processing.
 77-1	12582-12585	The	_
 77-2	12586-12592	random	_
 77-3	12593-12599	forest	_
@@ -2179,6 +2256,7 @@
 77-56	12934-12944	processing	_
 77-57	12945-12946	.	_
 
+Text=Classification of a new instance can be made by taking the majority vote from all the decision trees.
 78-1	12947-12961	Classification	_
 78-2	12962-12964	of	_
 78-3	12965-12966	a	_
@@ -2199,6 +2277,7 @@
 78-18	13042-13047	trees	_
 78-19	13048-13049	.	_
 
+Text=It ’ s often helpful to calculate relative importance or contribution of each feature in predicting the label.
 79-1	13050-13052	It	_
 79-2	13053-13054	’	_
 79-3	13055-13056	s	_
@@ -2219,6 +2298,7 @@
 79-18	13154-13159	label	_
 79-19	13160-13161	.	_
 
+Text=Random forest has several ways of constructing variable importance: 1) mean decrease impurity, i.e.
 80-1	13162-13168	Random	_
 80-2	13169-13175	forest	_
 80-3	13176-13179	has	_
@@ -2238,6 +2318,7 @@
 80-17	13260-13263	i.e	_
 80-18	13264-13265	.	_
 
+Text=average of the accumulated decrease in node impurity over all trees for each feature or 2) mean decrease accuracy, i.e.
 81-1	13266-13273	average	_
 81-2	13274-13276	of	_
 81-3	13277-13280	the	_
@@ -2262,6 +2343,7 @@
 81-22	13383-13386	i.e	_
 81-23	13387-13388	.	_
 
+Text=the decrease in accuracy on out-of-bag (OOB) samples by randomly permuting values for each feature.
 82-1	13389-13392	the	_
 82-2	13393-13401	decrease	_
 82-3	13402-13404	in	_
@@ -2281,6 +2363,7 @@
 82-17	13482-13489	feature	_
 82-18	13490-13491	.	_
 
+Text=In this work we will use the first method to measure feature importance.
 83-1	13492-13494	In	_
 83-2	13495-13499	this	_
 83-3	13500-13504	work	_
@@ -2296,6 +2379,7 @@
 83-13	13553-13563	importance	_
 83-14	13564-13565	.	_
 
+Text=We used the python package scikit random forest with the parameters for the number of trees (ntree = 600) and the number of features analyzed at each node to find the best split (for a dataset with p features, square root of p are used in each split).
 84-1	13566-13568	We	_
 84-2	13569-13573	used	_
 84-3	13574-13577	the	_
@@ -2351,9 +2435,11 @@
 84-53	13820-13821	)	_
 84-54	13822-13823	.	_
 
+Text=2.
 85-1	13824-13825	2	_
 85-2	13826-13827	.	_
 
+Text=Feature elimination When the total number of variables is large, but the fraction of relevant variables is small, then random forests are likely to perform poorly due to the small chances that the relevant variables being selected.
 86-1	13828-13835	Feature	_
 86-2	13836-13847	elimination	_
 86-3	13848-13852	When	_
@@ -2395,6 +2481,7 @@
 86-39	14052-14060	selected	_
 86-40	14061-14062	.	_
 
+Text=Moreover, when the dimensionality of feature space increases, the available observations become sparse which causes the problem of “ curse of dimensionality ” which refers to the phenomenon that as dimensionality of data increases, the available data becomes sparse, thus it is difficult to extract a meaningful conclusion from the data set.
 87-1	14063-14071	Moreover	_
 87-2	14072-14073	,	_
 87-3	14074-14078	when	_
@@ -2453,6 +2540,7 @@
 87-56	14404-14407	set	_
 87-57	14408-14409	.	_
 
+Text=Additional steps such as feature selection and reduction are needed to avoid curse of dimensionality.
 88-1	14410-14420	Additional	_
 88-2	14421-14426	steps	_
 88-3	14427-14431	such	_
@@ -2470,6 +2558,7 @@
 88-15	14496-14510	dimensionality	_
 88-16	14511-14512	.	_
 
+Text=Random forest can be considered as an effective feature selection algorithm by using the feature importance scores.
 89-1	14513-14519	Random	_
 89-2	14520-14526	forest	_
 89-3	14527-14530	can	_
@@ -2489,6 +2578,7 @@
 89-17	14621-14627	scores	_
 89-18	14628-14629	.	_
 
+Text=In the current study, random forest was first performed on all features, and the ranking of average feature importance was used for feature elimination.
 90-1	14630-14632	In	_
 90-2	14633-14636	the	_
 90-3	14637-14644	current	_
@@ -2517,9 +2607,11 @@
 90-26	14772-14783	elimination	_
 90-27	14784-14785	.	_
 
+Text=3.
 91-1	14786-14787	3	_
 91-2	14788-14789	.	_
 
+Text=Classification performance The performance of the classifier was then evaluated based on accuracy, and precision.
 92-1	14790-14804	Classification	_
 92-2	14805-14816	performance	_
 92-3	14817-14820	The	_
@@ -2538,6 +2630,7 @@
 92-16	14894-14903	precision	_
 92-17	14904-14905	.	_
 
+Text=The prediction data included true positive (TP), false negative (FN), true negative (TN), and false positive (FP) classifications.
 93-1	14906-14909	The	_
 93-2	14910-14920	prediction	_
 93-3	14921-14925	data	_
@@ -2569,6 +2662,7 @@
 93-29	15031-15046	classifications	_
 93-30	15047-15048	.	_
 
+Text=The accuracy and precision were computed using the following formulas: To explore an optimal set of feature variables, datasets were entered individually, and the prediction accuracy was computed by using leave-one-out cross-validation (LOOCV).
 94-1	15049-15052	The	_
 94-2	15053-15061	accuracy	_
 94-3	15062-15065	and	_
@@ -2609,6 +2703,7 @@
 94-38	15296-15297	)	_
 94-39	15298-15299	.	_
 
+Text=In LOOCV, one subject ’ s data are left out of the dataset, and the random forest creates an optimal classifier using the remaining data.
 95-1	15300-15302	In	_
 95-2	15303-15308	LOOCV	_
 95-3	15309-15310	,	_
@@ -2638,6 +2733,7 @@
 95-27	15434-15438	data	_
 95-28	15439-15440	.	_
 
+Text=The classifier predicts the label (AUD or control) of the one subject who was left out, and the accuracy of this prediction is assessed.
 96-1	15441-15444	The	_
 96-2	15445-15455	classifier	_
 96-3	15456-15464	predicts	_
@@ -2667,6 +2763,7 @@
 96-27	15571-15579	assessed	_
 96-28	15580-15581	.	_
 
+Text=This procedure was repeated as many times as the number of subjects, with a different subject being left out each time; finally, total accuracy was computed for each category (Figure 3).
 97-1	15582-15586	This	_
 97-2	15587-15596	procedure	_
 97-3	15597-15600	was	_
@@ -2705,6 +2802,7 @@
 97-36	15771-15772	)	_
 97-37	15773-15774	.	_
 
+Text=To test whether classification performance was significantly above chance, we randomly assign each subject as AUD or control and used this dataset to train and test each classifier.
 98-1	15775-15777	To	_
 98-2	15778-15782	test	_
 98-3	15783-15790	whether	_
@@ -2736,6 +2834,7 @@
 98-29	15946-15956	classifier	_
 98-30	15957-15958	.	_
 
+Text=This procedure was carried out 1000 time and obtained the distribution of accuracy (mean= 0.486; std= 0.071) and precision (mean=0.51; std=0.048).
 99-1	15959-15963	This	_
 99-2	15964-15973	procedure	_
 99-3	15974-15977	was	_
@@ -2765,6 +2864,7 @@
 99-27	16109-16110	)	_
 99-28	16111-16112	.	_
 
+Text=Z-tests were used to test the statistical significance between the actual accuracy and precision values and the randomly generated values.
 100-1	16113-16120	Z-tests	_
 100-2	16121-16125	were	_
 100-3	16126-16130	used	_
@@ -2787,6 +2887,7 @@
 100-20	16244-16250	values	_
 100-21	16251-16252	.	_
 
+Text=Whether the actual accuracy and precision values were 2 standard deviations above the generated values were also tested.
 101-1	16253-16260	Whether	_
 101-2	16261-16264	the	_
 101-3	16265-16271	actual	_

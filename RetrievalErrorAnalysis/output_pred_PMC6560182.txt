@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Aberrant blood-oxygen-level-dependent signal oscillations across frequency bands characterize the alcoholic brain Chronic alcoholism is associated with widespread regional differences from controls in brain activity and connectivity dynamics measured by blood-oxygen-level-dependent (BOLD) signals.
 1-1	0-8	Aberrant	_
 1-2	9-37	blood-oxygen-level-dependent	_
 1-3	38-44	signal	_
@@ -38,6 +39,7 @@
 1-34	292-299	signals	_
 1-35	300-301	.	_
 
+Text=Identification of alcoholism-related neurofunctional power dynamics using functional magnetic resonance imaging (fMRI) that relate to cognition and behavior may serve as biomarkers of alcoholism.
 2-1	302-316	Identification	_
 2-2	317-319	of	_
 2-3	320-338	alcoholism-related	_
@@ -66,6 +68,7 @@
 2-26	488-498	alcoholism	_
 2-27	499-500	.	_
 
+Text=Previously, resting-state fMRI studies examined BOLD signals at a single low-frequency (LF) bandwidth.
 3-1	501-511	Previously	_
 3-2	512-513	,	_
 3-3	514-527	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -84,6 +87,7 @@
 3-16	596-605	bandwidth	_
 3-17	606-607	.	_
 
+Text=BOLD signals, however, oscillate systematically at different frequencies and are organized in a resting brain where LF oscillation facilitates long-distance communication between regions across cortical regions, whereas high-frequency (HF) oscillation occurs in closely localized, subcortical areas.
 4-1	608-612	BOLD	_
 4-2	613-620	signals	_
 4-3	621-622	,	_
@@ -128,6 +132,7 @@
 4-42	907-912	areas	_
 4-43	913-914	.	_
 
+Text=Using a frequency power quantification approach, we investigated whether the organization of BOLD signal oscillations across all measured frequency bandwidths is altered in alcoholism and relates to cognitive performance.
 5-1	915-920	Using	_
 5-2	921-922	a	_
 5-3	923-932	frequency	_
@@ -160,6 +165,7 @@
 5-30	1125-1136	performance	_
 5-31	1137-1138	.	_
 
+Text=Frequency-dependent oscillation power differences between 56 sober alcoholics and 56 healthy controls occurred for all frequency bands.
 6-1	1139-1158	Frequency-dependent	_
 6-2	1159-1170	oscillation	_
 6-3	1171-1176	power	_
@@ -179,6 +185,7 @@
 6-17	1268-1273	bands	_
 6-18	1274-1275	.	_
 
+Text=Alcoholics exhibited greater frequency oscillation power in the orbitofrontal cortex and less power in the posterior insula within the HF bandwidth than controls.
 7-1	1276-1286	Alcoholics	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 7-2	1287-1296	exhibited	_
 7-3	1297-1304	greater	_
@@ -204,6 +211,7 @@
 7-23	1429-1437	controls	_
 7-24	1438-1439	.	_
 
+Text=Aberrant orbitofrontal HF power was associated with poorer memory performance and slower psychomotor speed in alcoholics.
 8-1	1440-1448	Aberrant	_
 8-2	1449-1462	orbitofrontal	_
 8-3	1463-1465	HF	_
@@ -222,6 +230,7 @@
 8-16	1550-1560	alcoholics	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 8-17	1561-1562	.	_
 
+Text=Middle-frequency and LF power proved sensitive in detecting altered frequency oscillation dynamics in parietal and postcentral cortical regions of alcoholics.
 9-1	1563-1579	Middle-frequency	_
 9-2	1580-1583	and	_
 9-3	1584-1586	LF	_
@@ -244,6 +253,7 @@
 9-20	1710-1720	alcoholics	_
 9-21	1721-1722	.	_
 
+Text=This study is novel in identifying alcohol-related differences in BOLD oscillation power of the full fMRI frequency bandwidth.
 10-1	1723-1727	This	_
 10-2	1728-1733	study	_
 10-3	1734-1736	is	_
@@ -264,6 +274,7 @@
 10-18	1839-1848	bandwidth	_
 10-19	1849-1850	.	_
 
+Text=Specifically, HF power aberrations were associated with poorer cognitive functioning in alcoholism and may serve as a biomarker for identifying neural targets for repair.
 11-1	1851-1863	Specifically	_
 11-2	1864-1865	,	_
 11-3	1866-1868	HF	_
@@ -291,6 +302,7 @@
 11-25	2015-2021	repair	_
 11-26	2022-2023	.	_
 
+Text=MATERIALS AND METHODS Subjects The dataset comprised 56 alcoholic subjects (17 women) and 56 age-matched healthy controls (17 women) (Table 1).
 12-1	2024-2033	MATERIALS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	2034-2037	AND	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	2038-2045	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -320,6 +332,7 @@
 12-27	2171-2172	)	_
 12-28	2173-2174	.	_
 
+Text=The 56 alcoholics were recruited from local rehabilitation or addiction treatment centers through advertisements, referral or word of mouth.
 13-1	2175-2178	The	_
 13-2	2179-2181	56	_
 13-3	2182-2192	alcoholics	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
@@ -342,6 +355,7 @@
 13-20	2310-2315	mouth	_
 13-21	2316-2317	.	_
 
+Text=The controls were volunteers from the local communities.
 14-1	2318-2321	The	_
 14-2	2322-2330	controls	_
 14-3	2331-2335	were	_
@@ -352,6 +366,7 @@
 14-8	2362-2373	communities	_
 14-9	2374-2375	.	_
 
+Text=All the subjects provided written informed consent to participate in this study.
 15-1	2376-2379	All	_
 15-2	2380-2383	the	_
 15-3	2384-2392	subjects	_
@@ -366,6 +381,7 @@
 15-12	2450-2455	study	_
 15-13	2456-2457	.	_
 
+Text=The recruitment and study procedures were approved by the Institutional Review Boards of Stanford University School of Medicine and SRI International.
 16-1	2458-2461	The	_
 16-2	2462-2473	recruitment	_
 16-3	2474-2477	and	_
@@ -389,6 +405,7 @@
 16-21	2594-2607	International	_
 16-22	2608-2609	.	_
 
+Text=Screening was conducted by clinical research psychologists or research nurses on the basis of the Structured Clinical Interview for DSM-IV.
 17-1	2610-2619	Screening	_
 17-2	2620-2623	was	_
 17-3	2624-2633	conducted	_
@@ -411,6 +428,7 @@
 17-20	2742-2748	DSM-IV	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 17-21	2749-2750	.	_
 
+Text=For all subjects, the exclusion factors were DSMIV criteria for other Axis I diagnoses.
 18-1	2751-2754	For	_
 18-2	2755-2758	all	_
 18-3	2759-2767	subjects	_
@@ -428,6 +446,7 @@
 18-15	2829-2838	diagnoses	_
 18-16	2839-2840	.	_
 
+Text=In the alcoholic group, 55 subjects met DSM-IV criteria for alcohol dependence, and one subject met criteria for alcohol abuse.
 19-1	2841-2843	In	_
 19-2	2844-2847	the	_
 19-3	2848-2857	alcoholic	_
@@ -452,6 +471,7 @@
 19-22	2964-2969	abuse	http://maven.renci.org/NeuroBridge/neurobridge#BarbiturateAbuse
 19-23	2970-2971	.	_
 
+Text=Of those meeting dependence criteria, 35 were in early full remission (met no alcohol dependence criteria for <1 year), 12 were in sustained full remission (met no alcohol dependence criteria for> 1 year), 5 were in early partial remission (met <3 alcohol dependence criteria within the past 12 months) and 4 did not meet remission criteria.
 20-1	2972-2974	Of	_
 20-2	2975-2980	those	_
 20-3	2981-2988	meeting	_
@@ -522,6 +542,7 @@
 20-68	3316-3324	criteria	_
 20-69	3325-3326	.	_
 
+Text=The median number of weeks since alcoholics last met dependence criteria was 21.6 weeks [mean = 78.5 weeks, standard deviation = 146.9 weeks].
 21-1	3327-3330	The	_
 21-2	3331-3337	median	_
 21-3	3338-3344	number	_
@@ -550,6 +571,7 @@
 21-26	3470-3471	]	_
 21-27	3472-3473	.	_
 
+Text=The median age of alcoholism onset was 25 years [mean = 28.3, standard deviation (SD) = 12.6].
 22-1	3474-3477	The	_
 22-2	3478-3484	median	_
 22-3	3485-3488	age	_
@@ -574,6 +596,7 @@
 22-22	3571-3572	]	_
 22-23	3573-3574	.	_
 
+Text=Fifty-five percent of alcoholics and 0 percent of controls met DSM-IV criteria for any type of drug dependence or abuse.
 23-1	3575-3585	Fifty-five	_
 23-2	3586-3593	percent	_
 23-3	3594-3596	of	_
@@ -596,6 +619,7 @@
 23-20	3689-3694	abuse	_
 23-21	3695-3696	.	_
 
+Text=The most common type of drug dependence or abuse among alcoholics was cocaine (endorsed by 38 percent of alcoholics), and the median number of weeks since last meeting drug dependence criteria was 406 weeks (mean = 646 weeks, SD = 557 weeks).
 24-1	3697-3700	The	_
 24-2	3701-3705	most	_
 24-3	3706-3712	common	_
@@ -646,6 +670,7 @@
 24-48	3943-3944	)	_
 24-49	3945-3946	.	_
 
+Text=Significantly more alcoholics met DSM-IV criteria for nicotine dependence (n = 41) than controls (n = 6), χ2 (1) = 43.33, P <0.001 (Fisher ’ s exact test).
 25-1	3947-3960	Significantly	_
 25-2	3961-3965	more	_
 25-3	3966-3976	alcoholics	_
@@ -687,6 +712,7 @@
 25-39	4111-4112	)	_
 25-40	4113-4114	.	_
 
+Text=Questionnaires, neuropsychological tests and clinical assessments were given before or after scanning and included socioeconomic status, alcohol use disorders identification test (AUDIT), Beck Depression Inventory (BDI-II), Wechsler Test of Adult Reading (WTAR), Wechsler Memory Scale-Revised (WMS-R), California Verbal Learning Test-II (CVLT-II) and the Digit Symbol subtest of the Wechsler Adult Intelligence Scale-Revised (WAIS-R).
 26-1	4115-4129	Questionnaires	_
 26-2	4130-4131	,	_
 26-3	4132-4150	neuropsychological	_
@@ -760,6 +786,7 @@
 26-71	4565-4566	)	http://maven.renci.org/NeuroBridge/neurobridge#DigitSymbolSubstitutionOfTheWechslerAdultIntelligenceScaleRevised
 26-72	4567-4568	.	_
 
+Text=Imaging data acquisition All resting-state data required subjects to have their eyes open while in one of two General Electric (Boston, MA, USA) human MRI systems (3T Signa and MR750) with an eight-channel head coil and the same acquisition parameters.
 27-1	4569-4576	Imaging	_
 27-2	4577-4581	data	_
 27-3	4582-4593	acquisition	_
@@ -808,6 +835,7 @@
 27-46	4816-4826	parameters	_
 27-47	4827-4828	.	_
 
+Text=MRI scanner system was modeled as a covariate in a separate group-ALFF analysis.
 28-1	4829-4832	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 28-2	4833-4840	scanner	_
 28-3	4841-4847	system	_
@@ -823,6 +851,7 @@
 28-13	4900-4908	analysis	_
 28-14	4909-4910	.	_
 
+Text=Ear plugs and noise-cancelling headphones were used to help reduce the noise from the scanner.
 29-1	4911-4914	Ear	_
 29-2	4915-4920	plugs	_
 29-3	4921-4924	and	_
@@ -840,6 +869,7 @@
 29-15	4997-5004	scanner	_
 29-16	5005-5006	.	_
 
+Text=The number of subjects scanned by each scanner is shown in Table 1.
 30-1	5007-5010	The	_
 30-2	5011-5017	number	_
 30-3	5018-5020	of	_
@@ -855,6 +885,7 @@
 30-13	5072-5073	1	_
 30-14	5074-5075	.	_
 
+Text=Whole-brain rs-fMRI data were acquired with a T2 * weighted gradient echo-planar pulse sequence [2D axial; echo time (TE) = 30 ms; repetition time (TR) = 2200 ms; flip angle = 90°; field of view (FOV) = 240 mm; in-plane resolution = 3.75 mm; matrix = 64 × 64; slice thickness = 5 mm; skip = 0 mm; 36 slices].
 31-1	5076-5087	Whole-brain	_
 31-2	5088-5095	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 31-3	5096-5100	data	_
@@ -934,6 +965,7 @@
 31-77	5399-5400	]	_
 31-78	5401-5402	.	_
 
+Text=A dual-echo fast spin-echo scan was obtained for spatial registration using the following parameters: 2D axial; TE = 17 / 102 ms; TR = 5000 ms; flip angle = 90°; FOV = 240 mm; matrix = 256 × 256; slice thickness = 5 mm; skip = 0 mm; 36 slices.
 32-1	5403-5404	A	_
 32-2	5405-5414	dual-echo	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
 32-3	5415-5419	fast	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
@@ -995,6 +1027,7 @@
 32-59	5648-5654	slices	_
 32-60	5655-5656	.	_
 
+Text=To correct for spatial distortions in the echoplanar images, we acquired a field map with a gradientrecalled echo sequence pair (TE = 3/5 ms; TR = 460 ms, slice thickness = 5 mm; skip = 0 mm; 36 slices).
 33-1	5657-5659	To	_
 33-2	5660-5667	correct	_
 33-3	5668-5671	for	_
@@ -1043,6 +1076,7 @@
 33-46	5865-5866	)	_
 33-47	5867-5868	.	_
 
+Text=Image preprocessing Rs-fMRI data preprocessing was performed using STATISTICAL PARAMETRIC MAPPING 8 (SPM8) software Wellcome Trust Centre for Neuroimaging; London, UK; http: //www.fil.ion.ucl.ac.uk/spm/software/spm8/).
 34-1	5869-5874	Image	_
 34-2	5875-5888	preprocessing	_
 34-3	5889-5896	Rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1075,6 +1109,7 @@
 34-30	6092-6093	)	_
 34-31	6094-6095	.	_
 
+Text=Images were first converted from DICOM into NIFTI format followed by spatial realignment and unwarping of echoplanar images to correct for geometric distortion and head motion.
 35-1	6096-6102	Images	_
 35-2	6103-6107	were	_
 35-3	6108-6113	first	_
@@ -1103,6 +1138,7 @@
 35-26	6265-6271	motion	_
 35-27	6272-6273	.	_
 
+Text=For further analysis, datasets of the 112 subjects had to have motion less than 1.7-mm translation in x, y and z and not exceed 2° rotation in all three directions.
 36-1	6274-6277	For	_
 36-2	6278-6285	further	_
 36-3	6286-6294	analysis	_
@@ -1137,6 +1173,7 @@
 36-32	6429-6439	directions	_
 36-33	6440-6441	.	_
 
+Text=Frame-wise displacement values were calculated for individual scans, the maximum displacement was 1.88 and the largest individual mean displacement value was 0.27.
 37-1	6442-6452	Frame-wise	_
 37-2	6453-6465	displacement	_
 37-3	6466-6472	values	_
@@ -1162,6 +1199,7 @@
 37-23	6601-6605	0.27	_
 37-24	6606-6607	.	_
 
+Text=Given the lack of consensus in the literature on motion thresholds for scan exclusion, we followed previous recommendations (e.g.,).
 38-1	6608-6613	Given	_
 38-2	6614-6617	the	_
 38-3	6618-6622	lack	_
@@ -1187,6 +1225,7 @@
 38-23	6742-6743	)	_
 38-24	6744-6745	.	_
 
+Text=The mean unwarped functional images were co-registered with the fast spin-echo anatomical images for each subject.
 39-1	6746-6749	The	_
 39-2	6750-6754	mean	_
 39-3	6755-6763	unwarped	_
@@ -1205,6 +1244,7 @@
 39-16	6852-6859	subject	_
 39-17	6860-6861	.	_
 
+Text=The unwarped functional and anatomical images were then normalized to the standard Montreal Neurological Institute space and resampled to a voxel size of 2 × 2 × 2 mm.
 40-1	6862-6865	The	_
 40-2	6866-6874	unwarped	_
 40-3	6875-6885	functional	_
@@ -1236,6 +1276,7 @@
 40-29	7026-7028	mm	_
 40-30	7029-7030	.	_
 
+Text=A Gaussian kernel of 8-mm full-width at half-maximum was applied to the normalized functional images.
 41-1	7031-7032	A	_
 41-2	7033-7041	Gaussian	_
 41-3	7042-7048	kernel	_
@@ -1253,6 +1294,7 @@
 41-15	7125-7131	images	_
 41-16	7132-7133	.	_
 
+Text=ALFF calculation Preprocessed functional images were imported into DPARSF 4.0 Advanced toolbox (Data Processing & Analysis of Brain Imaging; http: //rfmri.org/dpabi; ChaoGan Yan, New York, NY, USA) for ALFF calculation.
 42-1	7134-7138	ALFF	_
 42-2	7139-7150	calculation	_
 42-3	7151-7163	Preprocessed	_
@@ -1293,6 +1335,7 @@
 42-38	7349-7360	calculation	_
 42-39	7361-7362	.	_
 
+Text=For the frequency power spectrum to be obtained, the time series of each voxel within the individual functional images was transformed into the frequency domain using a fast Fourier transform.
 43-1	7363-7366	For	_
 43-2	7367-7370	the	_
 43-3	7371-7380	frequency	_
@@ -1326,6 +1369,7 @@
 43-31	7546-7555	transform	_
 43-32	7556-7557	.	_
 
+Text=The full frequency range was then divided into three frequency bands—LF (0.01–0.027 Hz), MF (0.027–0.073 Hz) and HF (0.073–0.198 Hz) —for further ALFF value calculation.
 44-1	7558-7561	The	_
 44-2	7562-7566	full	_
 44-3	7567-7576	frequency	_
@@ -1360,6 +1404,7 @@
 44-32	7722-7733	calculation	_
 44-33	7734-7735	.	_
 
+Text=For a given voxel, the absolute value of the frequency power spectrum was averaged across the predefined frequency band.
 45-1	7736-7739	For	_
 45-2	7740-7741	a	_
 45-3	7742-7747	given	_
@@ -1382,6 +1427,7 @@
 45-20	7852-7856	band	_
 45-21	7857-7858	.	_
 
+Text=Note that the scrubbing approach, endorsed to correct for outlier frames in resting-state time series analysis, is not recommended for ALFF analysis, because the ALFF calculation is based on fast Fourier transform, which cannot be applied to scrubbed data owing to alteration of its temporal structure by removal of frames.
 46-1	7859-7863	Note	_
 46-2	7864-7868	that	_
 46-3	7869-7872	the	_
@@ -1439,6 +1485,7 @@
 46-55	8180-8186	frames	_
 46-56	8187-8188	.	_
 
+Text=Instead, we used standardized zALFF individuals maps, on the basis of evidence showing reduced motion effects at individual level and increased test–retest reliability with Z-standardization at group analyses.
 47-1	8189-8196	Instead	_
 47-2	8197-8198	,	_
 47-3	8199-8201	we	_
@@ -1471,6 +1518,7 @@
 47-30	8391-8399	analyses	_
 47-31	8400-8401	.	_
 
+Text=For Z-standardization, we normalized the ALFF value for each voxel by subtracting the global mean of the ALFF value, and then the value was divided by the SD.
 48-1	8402-8405	For	_
 48-2	8406-8423	Z-standardization	_
 48-3	8424-8425	,	_
@@ -1503,6 +1551,7 @@
 48-30	8559-8561	SD	_
 48-31	8562-8563	.	_
 
+Text=In addition, we compared the non-normalized ALFF value of each voxel between alcoholics and controls.
 49-1	8564-8566	In	_
 49-2	8567-8575	addition	_
 49-3	8576-8577	,	_
@@ -1521,6 +1570,7 @@
 49-16	8657-8665	controls	_
 49-17	8666-8667	.	_
 
+Text=There was no significant group difference in the non-normalized ALFF values.
 50-1	8668-8673	There	_
 50-2	8674-8677	was	_
 50-3	8678-8680	no	_
@@ -1534,6 +1584,7 @@
 50-11	8737-8743	values	_
 50-12	8744-8745	.	_
 
+Text=Therefore, significant group differences in normalized ALFF comparisons cannot be due to different global means between alcoholics and controls.
 51-1	8746-8755	Therefore	_
 51-2	8756-8757	,	_
 51-3	8758-8769	significant	_
@@ -1557,6 +1608,7 @@
 51-21	8883-8891	controls	_
 51-22	8892-8893	.	_
 
+Text=ALFF analysis modeling Individual standardized ALFF maps were implemented in a full-factorial analysis of covariance in SPM8.
 52-1	8894-8898	ALFF	_
 52-2	8899-8907	analysis	_
 52-3	8908-8916	modeling	_
@@ -1576,6 +1628,7 @@
 52-17	9014-9018	SPM8	_
 52-18	9019-9020	.	_
 
+Text=A secondlevel full-factorial model was used to examine the ALFF differences between the three predefined frequency bands and between alcoholics and controls in each of the three specific frequency bands.
 53-1	9021-9022	A	_
 53-2	9023-9034	secondlevel	_
 53-3	9035-9049	full-factorial	_
@@ -1608,6 +1661,7 @@
 53-30	9218-9223	bands	_
 53-31	9224-9225	.	_
 
+Text=Independent groups (controls and alcoholics) and dependent frequency bands (LF, MF and HF) were modeled as factors.
 54-1	9226-9237	Independent	_
 54-2	9238-9244	groups	_
 54-3	9245-9246	(	_
@@ -1632,6 +1686,7 @@
 54-22	9338-9345	factors	_
 54-23	9346-9347	.	_
 
+Text=The frame-wise displacement values of each individual were calculated by ArtRepair tool (http: //cibsr.stanford.edu/tools/human-brain-project/artrepair-software/artrepairinstructions.html) using the six realignment parameters.
 55-1	9348-9351	The	_
 55-2	9352-9362	frame-wise	_
 55-3	9363-9375	displacement	_
@@ -1656,6 +1711,7 @@
 55-22	9566-9576	parameters	_
 55-23	9577-9578	.	_
 
+Text=Alcoholics had on average greater frame-to-frame displacement values than controls (mean displacement: controls 0.088 mm/TR, alcoholics 0.112 mm/TR; SD, controls 0.036, alcoholics 0.05; P = 0.005).
 56-1	9579-9589	Alcoholics	_
 56-2	9590-9593	had	_
 56-3	9594-9596	on	_
@@ -1692,6 +1748,7 @@
 56-34	9782-9783	)	_
 56-35	9784-9785	.	_
 
+Text=The group difference in frame-wise displacement was small and remained within two voxels shifting.
 57-1	9786-9789	The	_
 57-2	9790-9795	group	_
 57-3	9796-9806	difference	_
@@ -1708,6 +1765,7 @@
 57-14	9875-9883	shifting	_
 57-15	9884-9885	.	_
 
+Text=As recommended by and for ALFF group statistics to control for residual motion in the second-level group analysis, we modeled the individual mean frame-wise displacement in addition to individual age, and type of GE scanner as covariates.
 58-1	9886-9888	As	_
 58-2	9889-9900	recommended	_
 58-3	9901-9903	by	_
@@ -1749,6 +1807,7 @@
 58-39	10115-10125	covariates	_
 58-40	10126-10127	.	_
 
+Text=An explicit gray matter mask created on the basis of the automated anatomical labeling template from MRIcro (http: //www.mccauslandcenter.sc.edu/mricro/mricro/template.html) was applied to the model.
 59-1	10128-10130	An	_
 59-2	10131-10139	explicit	_
 59-3	10140-10144	gray	_
@@ -1778,6 +1837,7 @@
 59-27	10324-10329	model	_
 59-28	10330-10331	.	_
 
+Text=Between-frequency ALFF analyses With previous research showing ALFF value differences across frequency bands, we specified SPM t-contrasts between the three predefined frequency bands to examine such differences in ALFF values to reflect the frequency dynamics (HF versus MF, HF versus LF and MF versus LF) in our full-factorial model independent of group differences.
 60-1	10332-10349	Between-frequency	_
 60-2	10350-10354	ALFF	_
 60-3	10355-10363	analyses	_
@@ -1837,6 +1897,7 @@
 60-57	10692-10703	differences	_
 60-58	10704-10705	.	_
 
+Text=Between-group ALFF analyses Group-difference contrasts were specified for controls> alcoholics and alcoholics> controls (SPM t-contrast) to examine whether ALFF values for each predefined frequency band were greater or less in the alcoholic group than in the controls.
 61-1	10706-10719	Between-group	_
 61-2	10720-10724	ALFF	_
 61-3	10725-10733	analyses	_
@@ -1880,6 +1941,7 @@
 61-41	10969-10977	controls	_
 61-42	10978-10979	.	_
 
+Text=Statistical significance for ALFF maps To account for multiple comparisons, frequency and group-difference results were corrected by performing Monte Carlo simulation for two-tailed comparisons as implemented in 3dClustSim (https: //afni.nimh.nih.gov/pub/dist/doc/program_help/3dClustSim.html; Robert W. Cox, Bethesda, MD, USA).
 62-1	10980-10991	Statistical	_
 62-2	10992-11004	significance	_
 62-3	11005-11008	for	_
@@ -1926,6 +1988,7 @@
 62-44	11314-11315	)	_
 62-45	11316-11317	.	_
 
+Text=For this, smoothness parameters of the residual image were calculated using the AFNI program 3dFWHMx (https: //afni.nimh.nih.gov/pub/dist/doc/program_help/3dFWHMx.html) and entered into 3dClustSim calculation with 10 000 iterations, and peak threshold probability of 0.005 (t = 2.81; two-tailed).
 63-1	11318-11321	For	_
 63-2	11322-11326	this	_
 63-3	11327-11328	,	_
@@ -1972,6 +2035,7 @@
 63-44	11620-11621	)	_
 63-45	11622-11623	.	_
 
+Text=A significantly statistical threshold of P <0.05 corrected for multiple comparisons required a contiguous cluster size greater than 131 voxels.
 64-1	11624-11625	A	_
 64-2	11626-11639	significantly	_
 64-3	11640-11651	statistical	_
@@ -1995,6 +2059,7 @@
 64-21	11761-11767	voxels	_
 64-22	11768-11769	.	_
 
+Text=This statistical cluster threshold for multiple comparison correction was applied to all second-level t-tests.
 65-1	11770-11774	This	_
 65-2	11775-11786	statistical	_
 65-3	11787-11794	cluster	_
@@ -2011,6 +2076,7 @@
 65-14	11872-11879	t-tests	_
 65-15	11880-11881	.	_
 
+Text=Statistical analyses of group characteristics Independent samples t-tests were conducted using IBM SPSS v.23 (Armonk, NY, USA) to examine group differences in education, socioeconomic status, lifetime alcohol consumption, days since last drink, AUDIT score, BDI-II score, premorbid IQ (WTAR Standard Score), logical memory (WMS-R total raw score), verbal memory (CVLT-II total free recall score) and graphomotor speed (WAIS-R Digit Symbol) (Table 1).
 66-1	11882-11893	Statistical	_
 66-2	11894-11902	analyses	_
 66-3	11903-11905	of	_
@@ -2097,6 +2163,7 @@
 66-84	12352-12353	)	_
 66-85	12354-12355	.	_
 
+Text=The neuropsychological test scores (premorbid IQ, logical memory, verbal memory and graphomotor speed) were correlated with frequency oscillation power (extracted ALFF values of the regions that showed significant group differences) by using Pearson correlation in IBM SPSS v.23.
 67-1	12356-12359	The	_
 67-2	12360-12378	neuropsychological	_
 67-3	12379-12383	test	_
@@ -2143,6 +2210,7 @@
 67-44	12636-12640	v.23	_
 67-45	12641-12642	.	_
 
+Text=A statistical significance level was set at P <0.05 after correcting for multiple comparisons using false discovery rate (FDR).
 68-1	12643-12644	A	_
 68-2	12645-12656	statistical	_
 68-3	12657-12669	significance	_

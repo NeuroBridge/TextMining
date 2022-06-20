@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Baseline Brain Structural and Functional Predictors of Clinical Outcome in the Early Course of Schizophrenia Although schizophrenia is considered a brain disorder, the role of brain organization for symptomatic improvement remains inadequately defined.
 1-1	0-8	Baseline	_
 1-2	9-14	Brain	_
 1-3	15-25	Structural	_
@@ -38,6 +39,7 @@
 1-34	245-252	defined	_
 1-35	253-254	.	_
 
+Text=We investigated the relationship between baseline brain morphology, resting-state network connectivity and clinical response after 24-weeks of antipsychotic treatment in patients with schizophrenia (n=95) using integrated multivariate analyses.
 2-1	255-257	We	_
 2-2	258-270	investigated	_
 2-3	271-274	the	_
@@ -71,6 +73,7 @@
 2-31	493-501	analyses	_
 2-32	502-503	.	_
 
+Text=There was no significant association between clinical response and measures of cortical thickness (r=0.37, p=0.98) and subcortical volume (r=0.56, p=0.15).
 3-1	504-509	There	_
 3-2	510-513	was	_
 3-3	514-516	no	_
@@ -99,6 +102,7 @@
 3-26	663-664	)	_
 3-27	665-666	.	_
 
+Text=By contrast, we identified a strong mode of covariation linking functional network connectivity to clinical response (r=0.70; p=0.04), and particularly to improvement in positive (weight=0.62) and anxious/depressive symptoms (weight=0.49).
 4-1	667-669	By	_
 4-2	670-678	contrast	_
 4-3	679-680	,	_
@@ -139,6 +143,7 @@
 4-38	913-914	)	_
 4-39	915-916	.	_
 
+Text=Higher internal cohesiveness of the default mode network was the single most important positive predictor.
 5-1	917-923	Higher	_
 5-2	924-932	internal	_
 5-3	933-945	cohesiveness	_
@@ -156,6 +161,7 @@
 5-15	1013-1022	predictor	_
 5-16	1023-1024	.	_
 
+Text=Key negative predictors involved the functional cohesiveness of central executive subnetworks anchored in the frontoparietal cortices and subcortical regions (including the thalamus and striatum) and the inter-network integration between the default mode and sensorimotor networks.
 6-1	1025-1028	Key	_
 6-2	1029-1037	negative	_
 6-3	1038-1048	predictors	_
@@ -195,6 +201,7 @@
 6-37	1299-1307	networks	_
 6-38	1308-1309	.	_
 
+Text=The present findings establish links between clinical response and the functional organization of brain networks involved both in perception and in spontaneous and goal-directed cognition, thereby advancing our understanding of the pathophysiology of schizophrenia.
 7-1	1310-1313	The	_
 7-2	1314-1321	present	_
 7-3	1322-1330	findings	_
@@ -232,6 +239,7 @@
 7-35	1562-1575	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-36	1576-1577	.	_
 
+Text=Materials and Method Study Design Patients within the first 5 years of being diagnosed with schizophrenia based on the criteria of the Diagnostic and Statistical Manual of Mental disorders, Fifth Edition (DSM-5) were recruited via clinician referrals from the psychiatric services of the Mount Sinai Health System at the Icahn School of Medicine at Mount Sinai (ISMMS), New York.
 8-1	1578-1587	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 8-2	1588-1591	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 8-3	1592-1598	Method	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -299,6 +307,7 @@
 8-65	1958-1962	York	_
 8-66	1963-1964	.	_
 
+Text=Clinicians were asked to refer patients who were willing to re-start antipsychotic treatment following a minimum 2-week medication free period based on patients ’ self-report.
 9-1	1965-1975	Clinicians	_
 9-2	1976-1980	were	_
 9-3	1981-1986	asked	_
@@ -326,6 +335,7 @@
 9-25	2128-2139	self-report	_
 9-26	2140-2141	.	_
 
+Text=Patients were screened to exclude individuals with IQ <70 and those with treatment refractory illness, history of head trauma or loss of consciousness, pervasive developmental disorder, lifetime history of DSM-5 substance use disorder, medical or neurological disorders that could cause psychiatric symptoms and contraindications to MRI.
 10-1	2142-2150	Patients	_
 10-2	2151-2155	were	_
 10-3	2156-2164	screened	_
@@ -379,6 +389,7 @@
 10-51	2480-2483	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 10-52	2484-2485	.	_
 
+Text=Eligible patients were enrolled prior to restarting antipsychotic treatment.
 11-1	2486-2494	Eligible	_
 11-2	2495-2503	patients	_
 11-3	2504-2508	were	_
@@ -390,6 +401,7 @@
 11-9	2552-2561	treatment	_
 11-10	2562-2563	.	_
 
+Text=Brain MRI scans were acquired as soon as patients could tolerate this examination to ensure minimal exposure to antipsychotic medications.
 12-1	2564-2569	Brain	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 12-2	2570-2573	MRI	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 12-3	2574-2579	scans	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -412,6 +424,7 @@
 12-20	2690-2701	medications	_
 12-21	2702-2703	.	_
 
+Text=Patients were evaluated clinically on the day of scanning and then 24 weeks later.
 13-1	2704-2712	Patients	_
 13-2	2713-2717	were	_
 13-3	2718-2727	evaluated	_
@@ -428,6 +441,7 @@
 13-14	2780-2785	later	_
 13-15	2786-2787	.	_
 
+Text=The study was approved by the institutional review board of the ISMMS; all participants provided written informed consent prior to study enrolment.
 14-1	2788-2791	The	_
 14-2	2792-2797	study	_
 14-3	2798-2801	was	_
@@ -453,6 +467,7 @@
 14-23	2926-2935	enrolment	_
 14-24	2936-2937	.	_
 
+Text=Clinical Assessment Enrollment only: The patients ’ diagnostic status was confirmed with the Structured Clinical Interview for DSM-5.
 15-1	2938-2946	Clinical	_
 15-2	2947-2957	Assessment	_
 15-3	2958-2968	Enrollment	_
@@ -474,6 +489,7 @@
 15-19	3066-3071	DSM-5	_
 15-20	3072-3073	.	_
 
+Text=Current IQ was obtained with the Wechsler Abbreviated Scale of Intelligence (WASI-II).
 16-1	3074-3081	Current	_
 16-2	3082-3084	IQ	_
 16-3	3085-3088	was	_
@@ -490,6 +506,7 @@
 16-14	3160-3161	)	http://maven.renci.org/NeuroBridge/neurobridge#DigitSymbolSubstitutionOfTheWechslerAdultIntelligenceScaleRevised
 16-15	3162-3163	.	_
 
+Text=IQ was used as an index of overall cognitive ability because it correlates with domain-specific cognitive tests and accounts for most of the variability in cognitive function.
 17-1	3164-3166	IQ	_
 17-2	3167-3170	was	_
 17-3	3171-3175	used	_
@@ -519,6 +536,7 @@
 17-27	3330-3338	function	_
 17-28	3339-3340	.	_
 
+Text=In the context of schizophrenia, IQ is also associated with variability in the clinical profile and brain structure of patients.
 18-1	3341-3343	In	_
 18-2	3344-3347	the	_
 18-3	3348-3355	context	_
@@ -542,6 +560,7 @@
 18-21	3461-3469	patients	_
 18-22	3470-3471	.	_
 
+Text=Day of scanning and at 24-week follow-up: Psychopathology was assessed using the 24-item Brief Psychiatric Rating Scale (BPRS) because it can reliably assess positive and negative symptoms, agitation/disorganization and anxiety/depression (Supplementary Table 1).
 19-1	3472-3475	Day	_
 19-2	3476-3478	of	_
 19-3	3479-3487	scanning	_
@@ -583,6 +602,7 @@
 19-39	3739-3740	)	_
 19-40	3741-3742	.	_
 
+Text=Medication type and dose were recorded in all patients and supplemented with information from their medical records.
 20-1	3743-3753	Medication	_
 20-2	3754-3758	type	_
 20-3	3759-3762	and	_
@@ -602,6 +622,7 @@
 20-17	3851-3858	records	_
 20-18	3859-3860	.	_
 
+Text=The daily antipsychotic dose was converted to chlorpromazine equivalents (CPZE).
 21-1	3861-3864	The	_
 21-2	3865-3870	daily	_
 21-3	3871-3884	antipsychotic	_
@@ -616,6 +637,7 @@
 21-12	3941-3942	)	_
 21-13	3943-3944	.	_
 
+Text=The BMI was included as a general measure of cardiometabolic health with known associations with symptom severity and brain structure in patients with psychosis.
 22-1	3945-3948	The	_
 22-2	3949-3952	BMI	_
 22-3	3953-3956	was	_
@@ -642,6 +664,7 @@
 22-24	4096-4105	psychosis	_
 22-25	4106-4107	.	_
 
+Text=Treatment and Evaluation of Clinical Outcome The choice and dosing of the antipsychotic agent was based on the judgment of the patients ’ treating psychiatrists since differences in the effectiveness of individual antipsychotics are small and appropriate treatment decisions crucially depend on patients ’ history, preference and circumstances.
 23-1	4108-4117	Treatment	_
 23-2	4118-4121	and	_
 23-3	4122-4132	Evaluation	_
@@ -693,6 +716,7 @@
 23-49	4439-4452	circumstances	_
 23-50	4453-4454	.	_
 
+Text=During the inter-assessment interval, patients received routine clinical care which consisted of outpatient appointments with their treating psychiatrist.
 24-1	4455-4461	During	_
 24-2	4462-4465	the	_
 24-3	4466-4482	inter-assessment	_
@@ -714,6 +738,7 @@
 24-19	4597-4609	psychiatrist	_
 24-20	4610-4611	.	_
 
+Text=These appointments involved informal supportive therapy and monitoring of mental state, adverse events and adherence.
 25-1	4612-4617	These	_
 25-2	4618-4630	appointments	_
 25-3	4631-4639	involved	_
@@ -732,6 +757,7 @@
 25-16	4720-4729	adherence	_
 25-17	4730-4731	.	_
 
+Text=Patients were seen weekly for the first three weeks post-treatment initiation.
 26-1	4732-4740	Patients	_
 26-2	4741-4745	were	_
 26-3	4746-4750	seen	_
@@ -745,6 +771,7 @@
 26-11	4799-4809	initiation	_
 26-12	4810-4811	.	_
 
+Text=Thereafter, planned appointments occurred depending on individual patient ’ s needs and preferences.
 27-1	4812-4822	Thereafter	_
 27-2	4823-4824	,	_
 27-3	4825-4832	planned	_
@@ -761,6 +788,7 @@
 27-14	4901-4912	preferences	_
 27-15	4913-4914	.	_
 
+Text=Adherence was monitored via self-report during appointments and though the Mount Sinai electronic prescription records (also in SI).
 28-1	4915-4924	Adherence	_
 28-2	4925-4928	was	_
 28-3	4929-4938	monitored	_
@@ -783,6 +811,7 @@
 28-20	5047-5048	)	_
 28-21	5049-5050	.	_
 
+Text=None received psychological or electroconvulsive therapy.
 29-1	5051-5055	None	_
 29-2	5056-5064	received	_
 29-3	5065-5078	psychological	_
@@ -791,6 +820,7 @@
 29-6	5100-5107	therapy	_
 29-7	5108-5109	.	_
 
+Text=Additional support was provided by social workers in connection to disability benefits and accommodation.
 30-1	5110-5120	Additional	_
 30-2	5121-5128	support	_
 30-3	5129-5132	was	_
@@ -807,6 +837,7 @@
 30-14	5201-5214	accommodation	_
 30-15	5215-5216	.	_
 
+Text=The primary outcome was the change in the BPRS subscale scores for positive, negative, anxious/depressive and agitation/disorganization symptoms between initial (T1) and 24-week follow-up assessment (T2) calculated as; positive and negative values respectively represent symptomatic improvement or worsening.
 31-1	5217-5220	The	_
 31-2	5221-5228	primary	_
 31-3	5229-5236	outcome	_
@@ -854,6 +885,7 @@
 31-45	5522-5531	worsening	_
 31-46	5532-5533	.	_
 
+Text=We adopted a dimensional approach to symptomatic change rather than dichotomous remission/non-remission categorizations for the following reasons: (i) although there are several criteria for remission there is still no consensus on the cut-offs that define remission in schizophrenia; (ii) it is questionable whether clinically defined remitted and non-remitted patients (regardless of the criteria applied) represent biologically distinct groups; (iii) although there is some evidence that treatment resistant patients may have a distinct neurobiological profile such patients were excluded here by design.
 32-1	5534-5536	We	_
 32-2	5537-5544	adopted	_
 32-3	5545-5546	a	_
@@ -948,6 +980,7 @@
 32-92	6145-6151	design	_
 32-93	6152-6153	.	_
 
+Text=In support of these statements we conducted supplemental analyses detailed in SI.
 33-1	6154-6156	In	_
 33-2	6157-6164	support	_
 33-3	6165-6167	of	_
@@ -962,6 +995,7 @@
 33-12	6232-6234	SI	_
 33-13	6235-6236	.	_
 
+Text=Neuroimaging MRI Acquisition and Processing: We acquired high-resolution structural (sMRI) and resting-state functional MRI (rs-fMRI) data on the same 3T Skyra scanner (Siemens Medical Systems, Erlangen, Germany) using identical protocols for all participants.
 34-1	6237-6249	Neuroimaging	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 34-2	6250-6253	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 34-3	6254-6265	Acquisition	_
@@ -1006,6 +1040,7 @@
 34-42	6493-6505	participants	_
 34-43	6506-6507	.	_
 
+Text=Comprehensive quality control (including head motion) was carried out on all neuroimaging datasets using previously published quality control procedures.
 35-1	6508-6521	Comprehensive	_
 35-2	6522-6529	quality	_
 35-3	6530-6537	control	_
@@ -1029,6 +1064,7 @@
 35-21	6652-6662	procedures	_
 35-22	6663-6664	.	_
 
+Text=Details of the image acquisition, preprocessing and quality assurance are provided in the Supplement Information (SI).
 36-1	6665-6672	Details	_
 36-2	6673-6675	of	_
 36-3	6676-6679	the	_
@@ -1050,6 +1086,7 @@
 36-19	6784-6785	)	_
 36-20	6786-6787	.	_
 
+Text=Cortical reconstruction and volumetric segmentation: In each individual sMRI dataset, we used FreeSurfer image analysis suite (v.5.3.0) (http: //surfer.nmr.mgh.harvard.edu/) to derive 64 cortical thickness measures and 18 subcortical volumetric measures from the Desikan atlas (details in SI and Supplementary Figure 1).
 37-1	6788-6796	Cortical	_
 37-2	6797-6811	reconstruction	_
 37-3	6812-6815	and	_
@@ -1102,6 +1139,7 @@
 37-50	7115-7116	)	_
 37-51	7117-7118	.	_
 
+Text=Computation of Resting-state Connectivity: We used previously established and reproducible templates based data from 496 participants of the Human Connectome Project (www.humanconnectomeproject.com) to partition the functional connectome into the 5 most replicated resting-state networks (RSNs) and their subdivisions: default mode (DMN; 5 subnetworks), salience (SAL), central executive (CEN; 3 subnetworks), sensorimotor (SMN; 2 subnetworks) and visual (VIS; 2 subnetworks) (Figure 1, Supplementary Table 2).
 38-1	7119-7130	Computation	_
 38-2	7131-7133	of	_
 38-3	7134-7147	Resting-state	_
@@ -1194,6 +1232,7 @@
 38-90	7653-7654	)	_
 38-91	7655-7656	.	_
 
+Text=This partition was based on averaged regional blood oxygen-level-dependent (BOLD) time series from each of 638 brain regions chosen to maximize the likelihood of detecting subtle effects at the level of subnetworks as per Zalesky et al.
 39-1	7657-7661	This	_
 39-2	7662-7671	partition	_
 39-3	7672-7675	was	_
@@ -1235,12 +1274,14 @@
 39-39	7892-7894	al	_
 39-40	7895-7896	.	_
 
+Text=and Crossley et al ..
 40-1	7897-7900	and	_
 40-2	7901-7909	Crossley	_
 40-3	7910-7912	et	_
 40-4	7913-7915	al	_
 40-5	7916-7918	..	_
 
+Text=In each participant, Fisher Z-transformed Pearson ’ s correlation coefficients were computed to calculate functional connectivity within (i.e., cohesiveness) and between (i.e., integration) subnetworks.
 41-1	7919-7921	In	_
 41-2	7922-7926	each	_
 41-3	7927-7938	participant	_
@@ -1274,6 +1315,7 @@
 41-31	8116-8127	subnetworks	_
 41-32	8128-8129	.	_
 
+Text=Cohesiveness was computed as the average correlation of each voxel ’ s BOLD signal time series with every other gray matter voxel within the subnetwork.
 42-1	8130-8142	Cohesiveness	_
 42-2	8143-8146	was	_
 42-3	8147-8155	computed	_
@@ -1301,6 +1343,7 @@
 42-25	8271-8281	subnetwork	_
 42-26	8282-8283	.	_
 
+Text=Integration was computed as the correlation between the average time-series of each pair of subnetworks.
 43-1	8284-8295	Integration	_
 43-2	8296-8299	was	_
 43-3	8300-8308	computed	_
@@ -1318,6 +1361,7 @@
 43-15	8376-8387	subnetworks	_
 43-16	8388-8389	.	_
 
+Text=These computations yielded 91 connectivity measures.
 44-1	8390-8395	These	_
 44-2	8396-8408	computations	_
 44-3	8409-8416	yielded	_
@@ -1326,6 +1370,7 @@
 44-6	8433-8441	measures	_
 44-7	8442-8443	.	_
 
+Text=Statistical Analyses We used paired t-tests to examine differences in symptom severity, BMI and antipsychotic dose between initial and 24-week assessments.
 45-1	8444-8455	Statistical	_
 45-2	8456-8464	Analyses	_
 45-3	8465-8467	We	_
@@ -1350,6 +1395,7 @@
 45-22	8588-8599	assessments	_
 45-23	8600-8601	.	_
 
+Text=We used univariate correlations and curve estimation to determine the zero-order associations between clinical and neuroimaging features (Supplementary Figure 2).
 46-1	8602-8604	We	_
 46-2	8605-8609	used	_
 46-3	8610-8620	univariate	_
@@ -1374,6 +1420,7 @@
 46-22	8764-8765	)	_
 46-23	8766-8767	.	_
 
+Text=We conducted sCCA to determine the covariation patterns between clinical features (clinical dataset) with sMRI (sMRI dataset) and with rs-fMRI (rs-fMRI dataset) neuroimaging measures.
 47-1	8768-8770	We	_
 47-2	8771-8780	conducted	_
 47-3	8781-8785	sCCA	_
@@ -1406,6 +1453,7 @@
 47-30	8948-8956	measures	_
 47-31	8957-8958	.	_
 
+Text=The clinical dataset comprised sex, IQ and change in the each of the BPRS subscale scores and in BMI and antipsychotic dose (Supplementary Table 1).
 48-1	8959-8962	The	_
 48-2	8963-8971	clinical	_
 48-3	8972-8979	dataset	_
@@ -1436,6 +1484,7 @@
 48-28	9108-9109	)	_
 48-29	9110-9111	.	_
 
+Text=The sCCA can be considered as a generalization of multiple linear regression and aims to identify those linear combinations (pairs of canonical variates or otherwise modes) of variables in each dataset that best express the maximal correlation (i.e., canonical correlation) between the two datasets.
 49-1	9112-9115	The	_
 49-2	9116-9120	sCCA	_
 49-3	9121-9124	can	_
@@ -1487,6 +1536,7 @@
 49-49	9407-9415	datasets	_
 49-50	9416-9417	.	_
 
+Text=The weight of association between a variable of one dataset to the variate of the other dataset can be conceptually construed as an extension of a correlation coefficient (additional details in SI).
 50-1	9418-9421	The	_
 50-2	9422-9428	weight	_
 50-3	9429-9431	of	_
@@ -1523,6 +1573,7 @@
 50-34	9616-9617	)	_
 50-35	9618-9619	.	_
 
+Text=All sCCAs were implemented in MatlabR2015b using an in-house script according to our previously published work.
 51-1	9620-9623	All	_
 51-2	9624-9629	sCCAs	_
 51-3	9630-9634	were	_
@@ -1541,6 +1592,7 @@
 51-16	9726-9730	work	_
 51-17	9731-9732	.	_
 
+Text=Age and the interval between T1 and T2 were then regressed out of the change scores.
 52-1	9733-9736	Age	_
 52-2	9737-9740	and	_
 52-3	9741-9744	the	_
@@ -1559,6 +1611,7 @@
 52-16	9810-9816	scores	_
 52-17	9817-9818	.	_
 
+Text=Continuous variables were z-standardized prior to being entered into the sCCA.
 53-1	9819-9829	Continuous	_
 53-2	9830-9839	variables	_
 53-3	9840-9844	were	_
@@ -1572,6 +1625,7 @@
 53-11	9892-9896	sCCA	_
 53-12	9897-9898	.	_
 
+Text=The sMRI dataset comprised 82 variables corresponding to measures of cortical thickness and subcortical volume (Supplementary Figure 1).
 54-1	9899-9902	The	_
 54-2	9903-9907	sMRI	_
 54-3	9908-9915	dataset	_
@@ -1594,6 +1648,7 @@
 54-20	10035-10036	)	_
 54-21	10037-10038	.	_
 
+Text=The rs-fMRI dataset comprised 91 variables corresponding to measures of RSN cohesiveness and integration.
 55-1	10039-10042	The	_
 55-2	10043-10050	rs-fMRI	_
 55-3	10051-10058	dataset	_
@@ -1610,6 +1665,7 @@
 55-14	10132-10143	integration	_
 55-15	10144-10145	.	_
 
+Text=Age was regressed out of the sMRI and fMRI variables before they were z-standardized and entered in the sCCA.
 56-1	10146-10149	Age	_
 56-2	10150-10153	was	_
 56-3	10154-10163	regressed	_
@@ -1631,6 +1687,7 @@
 56-19	10250-10254	sCCA	_
 56-20	10255-10256	.	_
 
+Text=For each sCCA, we (a) computed the sparse parameters for range of candidate values from to 0.1×√p (high sparsity) to 1×√p (low sparsity) at 0.1 increments (where p is the number of features in that view of the data) and fitted the resulting models; (b) selected the optimal sparse criteria combination based on the parameters that corresponded to the values of the model that maximized the sCCA correlation value; (c) determined the optimal sCCA model and established its significance at p <0.05 using permutations (n=10,000).
 57-1	10257-10260	For	_
 57-2	10261-10265	each	_
 57-3	10266-10270	sCCA	_
@@ -1736,6 +1793,7 @@
 57-103	10799-10800	)	_
 57-104	10801-10802	.	_
 
+Text=The p-value was defined as the number of permutations that resulted in a higher correlation than the original data divided by the total number of permutations.
 58-1	10803-10806	The	_
 58-2	10807-10814	p-value	_
 58-3	10815-10818	was	_
@@ -1764,6 +1822,7 @@
 58-26	10949-10961	permutations	_
 58-27	10962-10963	.	_
 
+Text=Thus the p-value is explicitly corrected for multiple testing as it is compared against the null distribution of maximal correlation values across all estimated sCCAs.
 59-1	10964-10968	Thus	_
 59-2	10969-10972	the	_
 59-3	10973-10980	p-value	_
@@ -1791,6 +1850,7 @@
 59-25	11125-11130	sCCAs	_
 59-26	11131-11132	.	_
 
+Text=For each permutation, we tested all sparsity criteria combinations as for the original data and then extracted the sCCA correlation with the highest coefficient among the tested options, independently of whether this combination was the same as in the original data.
 60-1	11133-11136	For	_
 60-2	11137-11141	each	_
 60-3	11142-11153	permutation	_
@@ -1836,6 +1896,7 @@
 60-43	11396-11400	data	_
 60-44	11401-11402	.	_
 
+Text=In this way we ensured that we did not underestimate the chance of a permutation achieving the same or higher value than the original data.
 61-1	11403-11405	In	_
 61-2	11406-11410	this	_
 61-3	11411-11414	way	_
@@ -1863,6 +1924,7 @@
 61-25	11537-11541	data	_
 61-26	11542-11543	.	_
 
+Text=If the sCCA was significant, we reported the canonical correlation weight of each variable.
 62-1	11544-11546	If	_
 62-2	11547-11550	the	_
 62-3	11551-11555	sCCA	_
@@ -1880,6 +1942,7 @@
 62-15	11627-11635	variable	_
 62-16	11636-11637	.	_
 
+Text=Reliability analyses We confirmed that the results reported were not influenced by the choice of functional partition, by repeating the analyses using measures of functional cohesiveness and integration extracted from publicly available RSN masks.
 63-1	11638-11649	Reliability	_
 63-2	11650-11658	analyses	_
 63-3	11659-11661	We	_
@@ -1917,6 +1980,7 @@
 63-35	11880-11885	masks	_
 63-36	11886-11887	.	_
 
+Text=These analyses are detailed in the SI.
 64-1	11888-11893	These	_
 64-2	11894-11902	analyses	_
 64-3	11903-11906	are	_
@@ -1926,6 +1990,7 @@
 64-7	11923-11925	SI	_
 64-8	11926-11927	.	_
 
+Text=Supplemental categorical analyses Although we adopted a dimensional approach for our core analyses, we also tested the usefulness of categorical definitions of remission as we detail in SI.
 65-1	11928-11940	Supplemental	_
 65-2	11941-11952	categorical	_
 65-3	11953-11961	analyses	_
@@ -1957,6 +2022,7 @@
 65-29	12115-12117	SI	_
 65-30	12118-12119	.	_
 
+Text=Specifically we investigated (a) whether we could identify differences in neuroimaging features when patients were categorized into remitted and non-remitted using the three most widely used criteria, and (b) whether we could identify clusters of patients based on their imaging features that differed in terms of their remission status.
 66-1	12120-12132	Specifically	_
 66-2	12133-12135	we	_
 66-3	12136-12148	investigated	_

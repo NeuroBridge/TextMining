@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=EEG coherence related to fMRI resting state synchrony in long-term abstinent alcoholics Recent work suggests that faulty co-activation or synchrony of multiple brain regions comprising “ networks, ” or an imbalance between opposing brain networks, is important in alcoholism.
 1-1	0-3	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 1-2	4-13	coherence	_
 1-3	14-21	related	_
@@ -45,6 +46,7 @@
 1-41	266-276	alcoholism	_
 1-42	277-278	.	_
 
+Text=Previous studies showed higher fMRI resting state synchrony (RSS) within the executive control (inhibitory control and emotion regulation) networks and lower RSS within the appetitive drive network in long-term (multi-year) abstinent alcoholics (LTAA) vs. non substance abusing controls (NSAC).
 2-1	279-287	Previous	_
 2-2	288-295	studies	_
 2-3	296-302	showed	_
@@ -96,6 +98,7 @@
 2-49	581-582	)	_
 2-50	583-584	.	_
 
+Text=Our goal was to identify EEG networks that are correlated with the appetitive drive and executive function networks identified with fMRI in our previous alcohol studies.
 3-1	585-588	Our	_
 3-2	589-593	goal	_
 3-3	594-597	was	_
@@ -124,6 +127,7 @@
 3-26	746-753	studies	_
 3-27	754-755	.	_
 
+Text=We used parallel ICA for multimodal data fusion for the 20 LTAA and 21 NSAC that had both usable fMRI and 64-channel EEG data.
 4-1	756-758	We	_
 4-2	759-763	used	_
 4-3	764-772	parallel	_
@@ -150,6 +154,7 @@
 4-24	877-881	data	_
 4-25	882-883	.	_
 
+Text=Our major result was that parallel ICA identified a pair of components that significantly separated NSAC from LTAA and were correlated with each other.
 5-1	884-887	Our	_
 5-2	888-893	major	_
 5-3	894-900	result	_
@@ -176,6 +181,7 @@
 5-24	1029-1034	other	_
 5-25	1035-1036	.	_
 
+Text=Examination of the resting-state fMRI seed-correlation map component showed higher bilateral nucleus accumbens seed-correlation in the dorsolateral prefrontal cortex bilaterally and lower seed-correlation in the thalamus.
 6-1	1037-1048	Examination	_
 6-2	1049-1051	of	_
 6-3	1052-1055	the	_
@@ -204,6 +210,7 @@
 6-26	1249-1257	thalamus	_
 6-27	1258-1259	.	_
 
+Text=This single component thus encompassed both the executive control and appetitive drive networks, consistent with our previous work.
 7-1	1260-1264	This	_
 7-2	1265-1271	single	_
 7-3	1272-1281	component	_
@@ -225,6 +232,7 @@
 7-19	1387-1391	work	_
 7-20	1392-1393	.	_
 
+Text=The correlated EEG coherence component showed mostly higher theta and alpha coherence in LTAA compared to NSAC, and lower gamma coherence in LTAA compared to NSAC.
 8-1	1394-1397	The	_
 8-2	1398-1408	correlated	_
 8-3	1409-1412	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -254,6 +262,7 @@
 8-27	1553-1557	NSAC	_
 8-28	1558-1559	.	_
 
+Text=The EEG theta and alpha coherence results suggest enhanced top-down control in LTAA and the gamma coherence results suggest impaired appetitive drive in LTAA.
 9-1	1560-1563	The	_
 9-2	1564-1567	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 9-3	1568-1573	theta	_
@@ -280,6 +289,7 @@
 9-24	1713-1717	LTAA	_
 9-25	1718-1719	.	_
 
+Text=Our results support the notion that fMRI RSS is reflected in spontaneous EEG, even when the EEG and fMRI are not obtained simultaneously.
 10-1	1720-1723	Our	_
 10-2	1724-1731	results	_
 10-3	1732-1739	support	_
@@ -306,6 +316,7 @@
 10-24	1843-1857	simultaneously	_
 10-25	1858-1859	.	_
 
+Text=Highlights fMRI and EEG were obtained for 20 long-term abstinent alcoholics and 21 controls.
 11-1	1860-1870	Highlights	_
 11-2	1871-1875	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 11-3	1876-1879	and	_
@@ -322,6 +333,7 @@
 11-14	1943-1951	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 11-15	1952-1953	.	_
 
+Text=Parallel ICA was used to identify analogous networks in each modality.
 12-1	1954-1962	Parallel	_
 12-2	1963-1966	ICA	_
 12-3	1967-1970	was	_
@@ -335,6 +347,7 @@
 12-11	2015-2023	modality	_
 12-12	2024-2025	.	_
 
+Text=One pair of components separated groups and were correlated across modalities.
 13-1	2026-2029	One	_
 13-2	2030-2034	pair	_
 13-3	2035-2037	of	_
@@ -348,6 +361,7 @@
 13-11	2093-2103	modalities	_
 13-12	2104-2105	.	_
 
+Text=fMRI component encompassed executive control and appetitive drive networks.
 14-1	2106-2110	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 14-2	2111-2120	component	_
 14-3	2121-2132	encompassed	_
@@ -359,6 +373,7 @@
 14-9	2172-2180	networks	_
 14-10	2181-2182	.	_
 
+Text=EEG coherence component involves top-down control and appetitive drive.
 15-1	2183-2186	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 15-2	2187-2196	coherence	_
 15-3	2197-2206	component	_
@@ -370,6 +385,7 @@
 15-9	2248-2253	drive	_
 15-10	2254-2255	.	_
 
+Text=Methods Participants Twenty-three LTAA (abstinent 7.91 ± 7.80 years) were compared to 23 gender and age (35–60 years) comparable NSAC, as described in.
 16-1	2256-2263	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 16-2	2264-2276	Participants	_
 16-3	2277-2289	Twenty-three	_
@@ -400,6 +416,7 @@
 16-28	2409-2411	in	_
 16-29	2412-2413	.	_
 
+Text=LTAA met DSM-IV lifetime criteria for alcohol dependence but not for lifetime abuse or dependence on any other drugs of abuse (other than nicotine or caffeine).
 17-1	2414-2418	LTAA	_
 17-2	2419-2422	met	_
 17-3	2423-2429	DSM-IV	_
@@ -430,6 +447,7 @@
 17-28	2574-2575	)	_
 17-29	2576-2577	.	_
 
+Text=Inclusion criteria for the NSAC group was a lifetime drinking average of <30 standard drinks per month with no periods of drinking> 60 drinks per month, and no lifetime history of alcohol or substance abuse or dependence.
 18-1	2578-2587	Inclusion	_
 18-2	2588-2596	criteria	_
 18-3	2597-2600	for	_
@@ -472,6 +490,7 @@
 18-40	2791-2801	dependence	_
 18-41	2802-2803	.	_
 
+Text=Participants received monetary compensation for their participation.
 19-1	2804-2816	Participants	_
 19-2	2817-2825	received	_
 19-3	2826-2834	monetary	_
@@ -481,6 +500,7 @@
 19-7	2858-2871	participation	_
 19-8	2872-2873	.	_
 
+Text=Exclusion criteria for both groups included: a) a significant history of head trauma or cranial surgery; b) current or lifetime history of diabetes, stroke, or hypertension that required medical intervention; c) current or lifetime history of a significant neurological disorder, including dementia; d) clinical or laboratory evidence of active hepatic disease; e) clinical evidence for Wernicke-Korsakoff syndrome, and f) lifetime diagnosis of schizophrenia or schizophreniform disorder, f) contraindications to MRI.
 20-1	2874-2883	Exclusion	_
 20-2	2884-2892	criteria	_
 20-3	2893-2896	for	_
@@ -570,6 +590,7 @@
 20-87	3404-3407	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 20-88	3408-3409	.	_
 
+Text=All subjects completed signed informed consent, as approved by our institutional review board (E & I Review Services, LLC, Corte Madera, CA), before study procedures commenced.
 21-1	3410-3413	All	_
 21-2	3414-3422	subjects	_
 21-3	3423-3432	completed	_
@@ -605,6 +626,7 @@
 21-33	3583-3592	commenced	_
 21-34	3593-3594	.	_
 
+Text=Participants were studied with fMRI, EEG, clinical, and neuropsychological testing.
 22-1	3595-3607	Participants	_
 22-2	3608-3612	were	_
 22-3	3613-3620	studied	_
@@ -620,6 +642,7 @@
 22-13	3673-3680	testing	_
 22-14	3681-3682	.	_
 
+Text=Ideally, all study procedures were completed within one month, but due to scheduling difficulties time between EEG and fMRI acquisition was sometimes longer.
 23-1	3683-3690	Ideally	_
 23-2	3691-3692	,	_
 23-3	3693-3696	all	_
@@ -647,6 +670,7 @@
 23-25	3835-3841	longer	_
 23-26	3842-3843	.	_
 
+Text=For the 41 participants that had both usable fMRI and EEG, 31 (76%) were acquired within one month, with the time between acquisitions of 6.57 ± 8.24 weeks for NSAC and 4.65 ± 9.48 weeks for LTAA (no difference between groups).
 24-1	3844-3847	For	_
 24-2	3848-3851	the	_
 24-3	3852-3854	41	_
@@ -697,6 +721,7 @@
 24-48	4076-4077	)	_
 24-49	4078-4079	.	_
 
+Text=LTAA subjects were required to stay sober throughout the study and did not drink between EEG and fMRI acquisitions; NSAC were asked to abstain from alcohol for 24 h prior to any lab visit, but may have continued drinking at their usual low level of drinking between visits and their alcohol use between study procedures was not monitored.
 25-1	4080-4084	LTAA	http://maven.renci.org/NeuroBridge/neurobridge#DataAnalysisMethod
 25-2	4085-4093	subjects	_
 25-3	4094-4098	were	_
@@ -759,6 +784,7 @@
 25-60	4410-4419	monitored	_
 25-61	4420-4421	.	_
 
+Text=A breathalyzer test (Intoximeters, Inc., St. Louis, MO) and a rapid oral fluid drug screen test (Innovacon Inc., San Diego, CA) for THC, amphetamines, methamphetamines, cocaine, opioids, and PCP was administered to all participants, with a negative result required for all participants at all sessions.
 26-1	4422-4423	A	_
 26-2	4424-4436	breathalyzer	_
 26-3	4437-4441	test	_
@@ -821,6 +847,7 @@
 26-60	4730-4738	sessions	_
 26-61	4739-4740	.	_
 
+Text=Clinical and psychological measures Participants were interviewed on the lifetime use of alcohol and each drug that they had taken (including nicotine) using a timeline follow-back and lifetime drinking history assessment.
 27-1	4741-4749	Clinical	_
 27-2	4750-4753	and	_
 27-3	4754-4767	psychological	_
@@ -856,6 +883,7 @@
 27-33	4954-4964	assessment	_
 27-34	4965-4966	.	_
 
+Text=ASPD symptoms were obtained using the C-DIS.
 28-1	4967-4971	ASPD	_
 28-2	4972-4980	symptoms	_
 28-3	4981-4985	were	_
@@ -865,6 +893,7 @@
 28-7	5005-5010	C-DIS	_
 28-8	5011-5012	.	_
 
+Text=For each symptom the subject endorsed, we asked about currency.
 29-1	5013-5016	For	_
 29-2	5017-5021	each	_
 29-3	5022-5029	symptom	_
@@ -878,6 +907,7 @@
 29-11	5068-5076	currency	_
 29-12	5077-5078	.	_
 
+Text=Psychological measures of antisocial behavior were also assessed.
 30-1	5079-5092	Psychological	_
 30-2	5093-5101	measures	_
 30-3	5102-5104	of	_
@@ -888,6 +918,7 @@
 30-8	5135-5143	assessed	_
 30-9	5144-5145	.	_
 
+Text=Social deviance proneness was measured by the CPI socialization scale, impulsivity was measured by the Eysenck impulsivity scale, and antisocial disposition was measured by the MMPI psychopathic deviance scale.
 31-1	5146-5152	Social	_
 31-2	5153-5161	deviance	_
 31-3	5162-5171	proneness	_
@@ -921,6 +952,7 @@
 31-31	5352-5357	scale	http://maven.renci.org/NeuroBridge/neurobridge#Scale
 31-32	5358-5359	.	_
 
+Text=Group comparisons on clinical and psychological measures were examined using the General Linear Model within SPSS (SPSS Inc. 2009).
 32-1	5360-5365	Group	_
 32-2	5366-5377	comparisons	_
 32-3	5378-5380	on	_
@@ -944,6 +976,7 @@
 32-21	5491-5492	)	_
 32-22	5493-5494	.	_
 
+Text=Measures of effect size are the odds ratios for rate data and partial η2 (proportion of variance of the dependent variable independently accounted for by group) for symptom counts, psychological measures and other demographic variables.
 33-1	5495-5503	Measures	_
 33-2	5504-5506	of	_
 33-3	5507-5513	effect	_
@@ -984,6 +1017,7 @@
 33-38	5724-5733	variables	_
 33-39	5734-5735	.	_
 
+Text=fMRI acquisition and processing Resting functional magnetic resonance (fMRI) data were collected using a twelve-channel head coil on a Siemens Tim Trio 3.0 T scanner (Siemens Medical Solutions, Erlangen Germany) located at Queen's Medical Center in Honolulu, using a protocol described in.
 34-1	5736-5740	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 34-2	5741-5752	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 34-3	5753-5756	and	_
@@ -1035,6 +1069,7 @@
 34-49	6029-6031	in	_
 34-50	6032-6033	.	_
 
+Text=All imaging data were preprocessed using the AFNI (Analysis of Functional NeuroImages and FMRIB Software Libraries (FSL; FMRIB, Oxford, United Kingdom), as detailed in.
 35-1	6034-6037	All	_
 35-2	6038-6045	imaging	_
 35-3	6046-6050	data	_
@@ -1068,6 +1103,7 @@
 35-31	6206-6208	in	_
 35-32	6209-6210	.	_
 
+Text=In summary, preprocessing consisted of: slice time correction; three-dimensional motion correction (using a 6 degree of freedom rigid registration with the first volume as reference); temporal despiking; spatial smoothing, mean-based intensity normalization; temporal bandpass filtering; and linear and quadratic detrending.
 36-1	6211-6213	In	_
 36-2	6214-6221	summary	_
 36-3	6222-6223	,	_
@@ -1120,6 +1156,7 @@
 36-50	6534-6544	detrending	_
 36-51	6545-6546	.	_
 
+Text=In addition, probabilistic independent component analysis was conducted for each individual to denoise individual data by removing components that represented motion, scanner artifacts, and physiological noise.
 37-1	6547-6549	In	_
 37-2	6550-6558	addition	_
 37-3	6559-6560	,	_
@@ -1151,6 +1188,7 @@
 37-29	6754-6759	noise	_
 37-30	6760-6761	.	_
 
+Text=Noise components were selected by spatial and temporal characteristics detailed in the MELODIC (FSL) manual (http: //fmrib.ox.ac.uk/fslcourse/lectures/melodic.pdf) using selection criteria of noise components as described in.
 38-1	6762-6767	Noise	_
 38-2	6768-6778	components	_
 38-3	6779-6783	were	_
@@ -1184,6 +1222,7 @@
 38-31	6989-6991	in	_
 38-32	6992-6993	.	_
 
+Text=A between-groups t-test conducted to look for differences in the sum of total percent variance accounted for in components removed showed no significant group differences (t (1,44) = 0.89, p = 0.38).
 39-1	6994-6995	A	_
 39-2	6996-7010	between-groups	_
 39-3	7011-7017	t-test	_
@@ -1223,6 +1262,7 @@
 39-37	7196-7197	)	_
 39-38	7198-7199	.	_
 
+Text=Preprocessed resting state images were also registered to the MNI152 atlas for further analysis and seed placement.
 40-1	7200-7212	Preprocessed	_
 40-2	7213-7220	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 40-3	7221-7226	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1242,6 +1282,7 @@
 40-17	7305-7314	placement	_
 40-18	7315-7316	.	_
 
+Text=To examine networks involved in the maintenance of abstinence from alcohol, spherical seeds with 3.5 mm radii were placed at left and right nucleus accumbens (NAcc) based on the Talaraich Daemon atlas from AFNI (MNI coordinates: x = ± 12, y = 10, z = − 1).
 41-1	7317-7319	To	_
 41-2	7320-7327	examine	_
 41-3	7328-7336	networks	_
@@ -1299,6 +1340,7 @@
 41-55	7579-7580	)	_
 41-56	7581-7582	.	_
 
+Text=As described in, we originally examined left and right NAcc separately, but because results were highly similar (r = 0.81, p = 7.47 × 10− 12), they were combined.
 42-1	7583-7585	As	_
 42-2	7586-7595	described	_
 42-3	7596-7598	in	_
@@ -1336,6 +1378,7 @@
 42-35	7742-7750	combined	_
 42-36	7751-7752	.	_
 
+Text=For each participant, a multiple regression analysis (FSL-FEAT, see) on the denoised data was performed.
 43-1	7753-7756	For	_
 43-2	7757-7761	each	_
 43-3	7762-7773	participant	_
@@ -1357,6 +1400,7 @@
 43-19	7851-7860	performed	_
 43-20	7861-7862	.	_
 
+Text=This analysis generated a map of statistical parameter estimates for each voxel, for each individual.
 44-1	7863-7867	This	_
 44-2	7868-7876	analysis	_
 44-3	7877-7886	generated	_
@@ -1375,6 +1419,7 @@
 44-16	7954-7964	individual	_
 44-17	7965-7966	.	_
 
+Text=All voxels in the maps showed the degree of positive or negative correlations with the average time-series (over the left and right NAcc seeds) for each participant.
 45-1	7967-7970	All	_
 45-2	7971-7977	voxels	_
 45-3	7978-7980	in	_
@@ -1406,6 +1451,7 @@
 45-29	8122-8133	participant	_
 45-30	8134-8135	.	_
 
+Text=Correlation values at each voxel were transformed to z-scores.
 46-1	8136-8147	Correlation	_
 46-2	8148-8154	values	_
 46-3	8155-8157	at	_
@@ -1417,6 +1463,7 @@
 46-9	8189-8197	z-scores	_
 46-10	8198-8199	.	_
 
+Text=In our previous work, dorsolateral prefrontal cortex (DLPFC) regions of the executive control network showed greater RSS with NAcc; thalamic nuclei (anterior and medial dorsal) and inferior parietal regions of the appetitive drive network showed lesser RSS with NAcc in LTAA compared to controls.
 47-1	8200-8202	In	_
 47-2	8203-8206	our	_
 47-3	8207-8215	previous	_
@@ -1469,6 +1516,7 @@
 47-50	8493-8501	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 47-51	8502-8503	.	_
 
+Text=EEG acquisition and processing We recorded 64-channel resting eyes-open EEGs using the SynAmps2 amplifier and Scan 4.3 acquisition software (Compumedics Neuroscan Inc., Charlotte NC).
 48-1	8504-8507	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 48-2	8508-8519	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 48-3	8520-8523	and	_
@@ -1498,6 +1546,7 @@
 48-27	8688-8689	)	_
 48-28	8690-8691	.	_
 
+Text=The EEG signal was referenced to an electrode between Cz and CPz for online recording, and then re-referenced to the right ear offline.
 49-1	8692-8695	The	_
 49-2	8696-8699	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 49-3	8700-8706	signal	_
@@ -1524,6 +1573,7 @@
 49-24	8820-8827	offline	_
 49-25	8828-8829	.	_
 
+Text=The ground electrode was placed 8 cm above the nasion.
 50-1	8830-8833	The	_
 50-2	8834-8840	ground	_
 50-3	8841-8850	electrode	_
@@ -1536,6 +1586,7 @@
 50-10	8877-8883	nasion	_
 50-11	8884-8885	.	_
 
+Text=Electrode impedances were maintained below 10 kΩ.
 51-1	8886-8895	Electrode	_
 51-2	8896-8906	impedances	_
 51-3	8907-8911	were	_
@@ -1545,6 +1596,7 @@
 51-7	8932-8934	kΩ	_
 51-8	8935-8936	.	_
 
+Text=The sampling rate was 250 Hz, analog filters were 0.3–70 Hz, and 7–8 min of data were recorded.
 52-1	8937-8940	The	_
 52-2	8941-8949	sampling	_
 52-3	8950-8954	rate	_
@@ -1567,6 +1619,7 @@
 52-20	9025-9033	recorded	_
 52-21	9034-9035	.	_
 
+Text=EEG recordings were processed offline using the Edit program in Scan 4.3.
 53-1	9036-9039	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 53-2	9040-9050	recordings	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 53-3	9051-9055	were	_
@@ -1581,6 +1634,7 @@
 53-12	9105-9108	4.3	_
 53-13	9109-9110	.	_
 
+Text=Artifacts from eye movements were removed using the ocular artifact reduction algorithm (ARTCOR procedure) in Scan 4.3.
 54-1	9111-9120	Artifacts	_
 54-2	9121-9125	from	_
 54-3	9126-9129	eye	_
@@ -1602,6 +1656,7 @@
 54-19	9228-9231	4.3	_
 54-20	9232-9233	.	_
 
+Text=The resulting EEG was unusable for three LTAA participants and two NSAC participants due to excessive noise and voltages out of range.
 55-1	9234-9237	The	_
 55-2	9238-9247	resulting	_
 55-3	9248-9251	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -1626,6 +1681,7 @@
 55-22	9362-9367	range	_
 55-23	9368-9369	.	_
 
+Text=Coherence between all pairs of channels was computed as follows: 1) the first 20 s of each recording was discarded, to allow electrode impedances to settle, 2) the magnitude squared coherence was estimated over the next 4 min of data using Welch's averaged, modified periodogram method, using 2 s epochs with 50% overlap, 3) coherence estimates were then averaged within frequency bands for delta (1–3 Hz), theta (4–7 Hz), alpha1 (8–9 Hz), alpha2 (10–12 Hz), beta1 (13–17 Hz), beta2 (18–30 Hz), gamma1 (31–40 Hz), and gamma2 (41–50 Hz).
 56-1	9370-9379	Coherence	_
 56-2	9380-9387	between	_
 56-3	9388-9391	all	_
@@ -1750,6 +1806,7 @@
 56-122	9938-9939	)	_
 56-123	9940-9941	.	_
 
+Text=EEG theta, alpha, and beta have been previously studied in neurofeedback treatments and have been shown to alter EEG resting state networks following alcohol consumption.
 57-1	9942-9945	EEG	_
 57-2	9946-9951	theta	_
 57-3	9952-9953	,	_
@@ -1779,6 +1836,7 @@
 57-27	10102-10113	consumption	_
 57-28	10114-10115	.	_
 
+Text=fMRI BOLD signals are thought to arise from the summed neural activities of several oscillatory EEG networks, particularly gamma.
 58-1	10116-10120	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 58-2	10121-10125	BOLD	_
 58-3	10126-10133	signals	_
@@ -1801,6 +1859,7 @@
 58-20	10240-10245	gamma	_
 58-21	10246-10247	.	_
 
+Text=Therefore, in this paper we focused on theta, alpha, beta, and gamma bands.
 59-1	10248-10257	Therefore	_
 59-2	10258-10259	,	_
 59-3	10260-10262	in	_
@@ -1820,6 +1879,7 @@
 59-17	10321-10326	bands	_
 59-18	10327-10328	.	_
 
+Text=For these bands, the upper-half of the resulting coherence matrix (excluding the diagonal) was rearranged into a single vector of length 2016 ((64 electrodes × 64 electrodes − 64) /2).
 60-1	10329-10332	For	_
 60-2	10333-10338	these	_
 60-3	10339-10344	bands	_
@@ -1859,6 +1919,7 @@
 60-37	10518-10519	)	_
 60-38	10520-10521	.	_
 
+Text=Coherence vectors for the seven frequency bands of interest were concatenated to form one vector of length 14,112 reflecting coherence in the desired bands between all electrodes for input to parallel ICA.
 61-1	10522-10531	Coherence	_
 61-2	10532-10539	vectors	_
 61-3	10540-10543	for	_
@@ -1893,6 +1954,7 @@
 61-32	10723-10726	ICA	_
 61-33	10727-10728	.	_
 
+Text=Parallel ICA We analyzed rs-fMRI whole-brain seed-correlation maps and the vector of EEG-coherence jointly, taking all image voxels and coherence values into account simultaneously using parallel ICA (Fusion ICA Toolbox:).
 62-1	10729-10737	Parallel	_
 62-2	10738-10741	ICA	_
 62-3	10742-10744	We	_
@@ -1929,6 +1991,7 @@
 62-34	10953-10954	)	_
 62-35	10955-10956	.	_
 
+Text=Parallel ICA is described in detail in.
 63-1	10957-10965	Parallel	_
 63-2	10966-10969	ICA	_
 63-3	10970-10972	is	_
@@ -1938,6 +2001,7 @@
 63-7	10993-10995	in	_
 63-8	10996-10997	.	_
 
+Text=Parallel ICA aims to identify independent components from the seed-correlation map and the EEG-coherence vector in addition to the relationship between them.
 64-1	10998-11006	Parallel	_
 64-2	11007-11010	ICA	_
 64-3	11011-11015	aims	_
@@ -1962,6 +2026,7 @@
 64-22	11150-11154	them	_
 64-23	11155-11156	.	_
 
+Text=Components extracted from the seed-correlation map can be interpreted as networks of brain regions with spatially similar seed-synchrony across subjects, but the strength of synchrony within each network may differ across subjects.
 65-1	11157-11167	Components	_
 65-2	11168-11177	extracted	_
 65-3	11178-11182	from	_
@@ -1997,6 +2062,7 @@
 65-33	11380-11388	subjects	_
 65-34	11389-11390	.	_
 
+Text=Components extracted from the scalp-recorded EEG-coherence reflect frequency-specific EEG oscillations within networks, which are also expressed to different degrees across subjects.
 66-1	11391-11401	Components	_
 66-2	11402-11411	extracted	_
 66-3	11412-11416	from	_
@@ -2021,6 +2087,7 @@
 66-22	11565-11573	subjects	_
 66-23	11574-11575	.	_
 
+Text=Extracted components are not sparse; components extracted from the seed-correlation map will have a contribution from every voxel in the map, and components extracted from the EEG-coherence will have a contribution from every electrode pair within every frequency band.
 67-1	11576-11585	Extracted	_
 67-2	11586-11596	components	_
 67-3	11597-11600	are	_
@@ -2064,6 +2131,7 @@
 67-41	11842-11846	band	_
 67-42	11847-11848	.	_
 
+Text=The loading parameters for each component reflect the contribution of each network to that subject's whole brain seed-correlation map or EEG-coherence.
 68-1	11849-11852	The	_
 68-2	11853-11860	loading	_
 68-3	11861-11871	parameters	_
@@ -2088,6 +2156,7 @@
 68-22	11987-12000	EEG-coherence	_
 68-23	12001-12002	.	_
 
+Text=Parallel ICA also models the relationship between the components estimated from each modality, such that the loading parameters between an estimated EEG-coherence component and a seed-correlation map component are correlated across all participants if they reflect the same underlying network.
 69-1	12003-12011	Parallel	_
 69-2	12012-12015	ICA	_
 69-3	12016-12020	also	_
@@ -2131,6 +2200,7 @@
 69-41	12289-12296	network	_
 69-42	12297-12298	.	_
 
+Text=In the parallel ICA model, we specified two groups (LTAA and NSAC) and two modalities (rs-fMRI NAcc seed correlation maps and EEG-coherence vectors).
 70-1	12299-12301	In	_
 70-2	12302-12305	the	_
 70-3	12306-12314	parallel	_
@@ -2161,6 +2231,7 @@
 70-28	12451-12452	)	_
 70-29	12453-12454	.	_
 
+Text=We chose to use the default mask for the imaging data (only voxels with non-zero values for all subjects were included in the analysis) and the number of estimated components was restricted to 8 for each modality.
 71-1	12455-12457	We	_
 71-2	12458-12463	chose	_
 71-3	12464-12466	to	_
@@ -2202,6 +2273,7 @@
 71-39	12661-12669	modality	_
 71-40	12670-12671	.	_
 
+Text=Since data were from different modalities and the units of measurement were different, data were scaled to unit standard deviation, yielding z-scores.
 72-1	12672-12677	Since	_
 72-2	12678-12682	data	_
 72-3	12683-12687	were	_
@@ -2228,6 +2300,7 @@
 72-24	12815-12823	z-scores	_
 72-25	12824-12825	.	_
 
+Text=We optimized the parallel ICA using the correlation between mixing coefficients of the two modalities.
 73-1	12826-12828	We	_
 73-2	12829-12838	optimized	_
 73-3	12839-12842	the	_
@@ -2245,6 +2318,7 @@
 73-15	12917-12927	modalities	_
 73-16	12928-12929	.	_
 
+Text=Using Bonferroni correction, the correlation between seed-correlation and EEG-coherence components were considered significant for p <0.05/64 = 0.0008 (there are 8 × 8 = 64 possible correlations between estimated ICA components).
 74-1	12930-12935	Using	_
 74-2	12936-12946	Bonferroni	_
 74-3	12947-12957	correction	_
@@ -2282,6 +2356,7 @@
 74-35	13161-13162	)	_
 74-36	13163-13164	.	_
 
+Text=Similarly, using Bonferroni correction, group differences in the loading parameters for components were considered significant for p <0.05/8 = 0.006 (group differences tested for 8 possible EEG or seed-correlation components).
 75-1	13165-13174	Similarly	_
 75-2	13175-13176	,	_
 75-3	13177-13182	using	_
@@ -2319,6 +2394,7 @@
 75-35	13394-13395	)	_
 75-36	13396-13397	.	_
 
+Text=Although the loading parameters estimate the overall contribution of every voxel or coherence of an estimated component to each subject's seed-correlation or coherence map, many of the voxels or coherences have relatively very small magnitude contribution to the component, although they can be presumed to covary jointly.
 76-1	13398-13406	Although	_
 76-2	13407-13410	the	_
 76-3	13411-13418	loading	_
@@ -2371,6 +2447,7 @@
 76-50	13715-13722	jointly	_
 76-51	13723-13724	.	_
 
+Text=Therefore, to aid in visualization, each component was scaled to unit standard deviation, yielding z-score “ networks ”, then thresholded at | z |> 1.96, highlighting the largest magnitude contributions to each component.
 77-1	13725-13734	Therefore	_
 77-2	13735-13736	,	_
 77-3	13737-13739	to	_

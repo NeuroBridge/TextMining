@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Differences in atypical resting-state effective connectivity distinguish autism from schizophrenia Autism and schizophrenia share overlapping genetic etiology, common changes in brain structure and common cognitive deficits.
 1-1	0-11	Differences	_
 1-2	12-14	in	_
 1-3	15-23	atypical	_
@@ -31,6 +32,7 @@
 1-27	216-224	deficits	_
 1-28	225-226	.	_
 
+Text=A number of studies using resting state fMRI have shown that machine learning algorithms can distinguish between healthy controls and individuals diagnosed with either autism spectrum disorder or schizophrenia.
 2-1	227-228	A	_
 2-2	229-235	number	_
 2-3	236-238	of	_
@@ -62,6 +64,7 @@
 2-29	423-436	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-30	437-438	.	_
 
+Text=However, it has not yet been determined whether machine learning algorithms can be used to distinguish between the two disorders.
 3-1	439-446	However	_
 3-2	447-448	,	_
 3-3	449-451	it	_
@@ -85,6 +88,7 @@
 3-21	559-568	disorders	_
 3-22	569-570	.	_
 
+Text=Using a linear support vector machine, we identify features that are most diagnostic for each disorder and successfully use them to classify an independent cohort of subjects.
 4-1	571-576	Using	_
 4-2	577-578	a	_
 4-3	579-585	linear	_
@@ -115,6 +119,7 @@
 4-28	738-746	subjects	_
 4-29	747-748	.	_
 
+Text=We find both common and divergent connectivity differences largely in the default mode network as well as in salience, and motor networks.
 5-1	749-751	We	_
 5-2	752-756	find	_
 5-3	757-761	both	_
@@ -140,6 +145,7 @@
 5-23	879-887	networks	_
 5-24	888-889	.	_
 
+Text=Using divergent connectivity differences, we are able to distinguish autistic subjects from those with schizophrenia.
 6-1	890-895	Using	_
 6-2	896-905	divergent	_
 6-3	906-918	connectivity	_
@@ -158,6 +164,7 @@
 6-16	994-1007	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 6-17	1008-1009	.	_
 
+Text=Understanding the common and divergent connectivity changes associated with these disorders may provide a framework for understanding their shared cognitive deficits.
 7-1	1010-1023	Understanding	_
 7-2	1024-1027	the	_
 7-3	1028-1034	common	_
@@ -181,6 +188,7 @@
 7-21	1167-1175	deficits	_
 7-22	1176-1177	.	_
 
+Text=Highlights Common and divergent diagnostic features for autism and schizophrenia are identified.
 8-1	1178-1188	Highlights	_
 8-2	1189-1195	Common	_
 8-3	1196-1199	and	_
@@ -195,6 +203,7 @@
 8-12	1263-1273	identified	_
 8-13	1274-1275	.	_
 
+Text=SVM classifiers successfully identify patients from training-naive patient groups.
 9-1	1276-1279	SVM	_
 9-2	1280-1291	classifiers	_
 9-3	1292-1304	successfully	_
@@ -206,6 +215,7 @@
 9-9	1351-1357	groups	_
 9-10	1358-1359	.	_
 
+Text=Diagnostic connectivity changes cluster in the default mode and salience networks.
 10-1	1360-1370	Diagnostic	_
 10-2	1371-1383	connectivity	_
 10-3	1384-1391	changes	_
@@ -219,6 +229,7 @@
 10-11	1433-1441	networks	_
 10-12	1442-1443	.	_
 
+Text=Shared diagnostic features predict deficits in communication skills in autism.
 11-1	1444-1450	Shared	_
 11-2	1451-1461	diagnostic	_
 11-3	1462-1470	features	_
@@ -231,6 +242,7 @@
 11-10	1515-1521	autism	_
 11-11	1522-1523	.	_
 
+Text=Unique features distinguish autism and schizophrenic patients.
 12-1	1524-1530	Unique	_
 12-2	1531-1539	features	_
 12-3	1540-1551	distinguish	_
@@ -240,6 +252,7 @@
 12-7	1577-1585	patients	_
 12-8	1586-1587	.	_
 
+Text=Materials and methods Data Resting state data for subjects with SZ was archived by the Center for Biomedical Research Excellence (COBRE) and obtained from http: //fcon_1000.projects.nitrc.org/indi/retro/cobre.html.
 13-1	1588-1597	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-2	1598-1601	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-3	1602-1609	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -271,6 +284,7 @@
 13-29	1752-1804	//fcon_1000.projects.nitrc.org/indi/retro/cobre.html	_
 13-30	1805-1806	.	_
 
+Text=The data set included 146 subjects ranging in age between 18 and 65 (72 SZ mean age = 38.17; SD = 13.89; 58 males and 74 controls mean age = 35.82; SD = 11.58; 51 males).
 14-1	1807-1810	The	_
 14-2	1811-1815	data	_
 14-3	1816-1819	set	_
@@ -315,6 +329,7 @@
 14-42	1981-1982	)	_
 14-43	1983-1984	.	_
 
+Text=This data set was used to train a support vector machine (SVM) classifier.
 15-1	1985-1989	This	_
 15-2	1990-1994	data	_
 15-3	1995-1998	set	_
@@ -332,6 +347,7 @@
 15-15	2050-2060	classifier	_
 15-16	2061-2062	.	_
 
+Text=A separate data set was used as a testing cross validation set.
 16-1	2063-2064	A	_
 16-2	2065-2073	separate	_
 16-3	2074-2078	data	_
@@ -346,6 +362,7 @@
 16-12	2122-2125	set	_
 16-13	2126-2127	.	_
 
+Text=The classifier was never trained on the testing cross validation data sets.
 17-1	2128-2131	The	_
 17-2	2132-2142	classifier	_
 17-3	2143-2146	was	_
@@ -360,6 +377,7 @@
 17-12	2198-2202	sets	_
 17-13	2203-2204	.	_
 
+Text=Testing data was collected at the Rutgers University Brain Imaging Center as part of another study (not yet published).
 18-1	2205-2212	Testing	_
 18-2	2213-2217	data	_
 18-3	2218-2221	was	_
@@ -383,6 +401,7 @@
 18-21	2324-2325	)	_
 18-22	2326-2327	.	_
 
+Text=It included 10 subjects ranging in age from 19 to 54 years old (5 SZ mean age = 42.6; SD = 11.59; 2 males and 5 controls mean age = 20; SD = 1.22; 2 males) with two resting state scans each.
 19-1	2328-2330	It	_
 19-2	2331-2339	included	_
 19-3	2340-2342	10	_
@@ -433,6 +452,7 @@
 19-48	2519-2523	each	_
 19-49	2524-2525	.	_
 
+Text=Resting state data for autistic spectrum disorder subjects was archived by the Autism Brian Imaging Exchange (ABIDE) and obtained from http: //fcon_1000.projects.nitrc.org/indi/abide.
 20-1	2526-2533	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 20-2	2534-2539	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 20-3	2540-2544	data	_
@@ -460,6 +480,7 @@
 20-25	2670-2711	//fcon_1000.projects.nitrc.org/indi/abide	_
 20-26	2712-2713	.	_
 
+Text=We used the ABIDE I University of Utah School of Medicine (USM) data set.
 21-1	2714-2716	We	_
 21-2	2717-2721	used	_
 21-3	2722-2725	the	_
@@ -478,6 +499,7 @@
 21-16	2785-2788	set	_
 21-17	2789-2790	.	_
 
+Text=It consisted of 101 subjects between the ages of 8 and 50 (58 ASD 11–50 years old; mean = 22.65; SD = 7.73 and 43 controls 8–39 years old; mean = 21.36; SD = 7.64).
 22-1	2791-2793	It	_
 22-2	2794-2803	consisted	_
 22-3	2804-2806	of	_
@@ -521,6 +543,7 @@
 22-41	2959-2960	)	_
 22-42	2961-2962	.	_
 
+Text=As the COBRE data set did not include any individuals below 18 years of age, we excluded subjects below the age of 18 resulting in 37 patients (mean age = 26.34, SD = 7.37, 37 males) and 27 controls (mean age = 25.42, SD = 6.28, 27 males).
 23-1	2963-2965	As	_
 23-2	2966-2969	the	_
 23-3	2970-2975	COBRE	_
@@ -580,6 +603,7 @@
 23-57	3209-3210	)	_
 23-58	3211-3212	.	_
 
+Text=Testing cross validation was performed on the ABIDE II Barrow Neurological Institute (BNI) data set.
 24-1	3213-3220	Testing	_
 24-2	3221-3226	cross	_
 24-3	3227-3237	validation	_
@@ -599,6 +623,7 @@
 24-17	3311-3314	set	_
 24-18	3315-3316	.	_
 
+Text=It consisted of 58 subjects between the ages of 18 and 64 (29 controls 18–64; mean age = 39.59, SD = 15.09 and 29 patients 18–62; mean age = 37.44; SD = 16.09).
 25-1	3317-3319	It	_
 25-2	3320-3329	consisted	_
 25-3	3330-3332	of	_
@@ -640,6 +665,7 @@
 25-39	3481-3482	)	_
 25-40	3483-3484	.	_
 
+Text=After removing four 18 year old subjects, our sample consisted of 27 controls (mean age = 39.58; SD = 15.09; 27 males) and 27 patients (mean age = 37.6; SD = 16.09; 27 males).
 26-1	3485-3490	After	_
 26-2	3491-3499	removing	_
 26-3	3500-3504	four	_
@@ -685,6 +711,7 @@
 26-43	3667-3668	)	_
 26-44	3669-3670	.	_
 
+Text=All data was collected in compliance with their relevant institutional review boards.
 27-1	3671-3674	All	_
 27-2	3675-3679	data	_
 27-3	3680-3683	was	_
@@ -699,6 +726,7 @@
 27-12	3749-3755	boards	_
 27-13	3756-3757	.	_
 
+Text=To identify common and disparate features and to use SVM to distinguish between SZ and ASD, we created a hybrid control group made up of subjects from each of the SZ and ASD control sets.
 28-1	3758-3760	To	_
 28-2	3761-3769	identify	_
 28-3	3770-3776	common	_
@@ -737,6 +765,7 @@
 28-36	3941-3945	sets	_
 28-37	3946-3947	.	_
 
+Text=The hybrid control group was constructed by combining the 27 ASD control subjects from the ASD training set with 27 randomly selected subjects from the control group of the SZ training data set.
 29-1	3948-3951	The	_
 29-2	3952-3958	hybrid	_
 29-3	3959-3966	control	_
@@ -772,6 +801,7 @@
 29-33	4138-4141	set	_
 29-34	4142-4143	.	_
 
+Text=The RFE procedure was then applied to identify features that distinguish SZ patients from the hybrid control group and ASD patients from the hybrid control group.
 30-1	4144-4147	The	_
 30-2	4148-4151	RFE	_
 30-3	4152-4161	procedure	_
@@ -800,6 +830,7 @@
 30-26	4300-4305	group	_
 30-27	4306-4307	.	_
 
+Text=The ASD and SZ feature sets were then compared to identify common and disparate features of the two disorders.
 31-1	4308-4311	The	_
 31-2	4312-4315	ASD	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 31-3	4316-4319	and	_
@@ -821,6 +852,7 @@
 31-19	4408-4417	disorders	_
 31-20	4418-4419	.	_
 
+Text=Preprocessing Preprocessing steps were carried out using FSL (http: //fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL) and included brain extraction using FSL's BET, motion correction using FSL's MCFLIRT, and linear registration to the Montreal Neurological Institute (MNI152) 2mm standard using FSL's FLIRT.
 32-1	4420-4433	Preprocessing	_
 32-2	4434-4447	Preprocessing	_
 32-3	4448-4453	steps	_
@@ -869,6 +901,7 @@
 32-46	4719-4724	FLIRT	_
 32-47	4725-4726	.	_
 
+Text=Frame displacement parameters were regressed out of each data set to control for motion.
 33-1	4727-4732	Frame	_
 33-2	4733-4745	displacement	_
 33-3	4746-4756	parameters	_
@@ -885,6 +918,7 @@
 33-14	4808-4814	motion	_
 33-15	4815-4816	.	_
 
+Text=ROI selection We chose to use a set of 283 regions of interest (ROIs) spanning both cortical and subcortical areas.
 34-1	4817-4820	ROI	_
 34-2	4821-4830	selection	_
 34-3	4831-4833	We	_
@@ -909,6 +943,7 @@
 34-22	4928-4933	areas	_
 34-23	4934-4935	.	_
 
+Text=These ROIs are an extended version of a previously generated parcellation based on meta-analysis over a range of tasks that resulted in 264 ROIs of putative functional relevance.
 35-1	4936-4941	These	_
 35-2	4942-4946	ROIs	_
 35-3	4947-4950	are	_
@@ -939,6 +974,7 @@
 35-28	5104-5113	relevance	_
 35-29	5114-5115	.	_
 
+Text=Each ROI is a 5 mm sphere around a voxel of peak significant activity during performance of tasks such as button-pressing, reading, and memory retrieval.
 36-1	5116-5120	Each	_
 36-2	5121-5124	ROI	_
 36-3	5125-5127	is	_
@@ -968,6 +1004,7 @@
 36-27	5261-5270	retrieval	_
 36-28	5271-5272	.	_
 
+Text=Bilateral regions in the brainstem, basal forebrain, hippocampus, amygdala, and putamen make up the additional 19 ROIs.
 37-1	5273-5282	Bilateral	_
 37-2	5283-5290	regions	_
 37-3	5291-5293	in	_
@@ -991,6 +1028,7 @@
 37-21	5391-5395	ROIs	_
 37-22	5396-5397	.	_
 
+Text=For each subject, average time series were extracted for each ROI over the 5 mm spheres.
 38-1	5398-5401	For	_
 38-2	5402-5406	each	_
 38-3	5407-5414	subject	_
@@ -1010,6 +1048,7 @@
 38-17	5479-5486	spheres	_
 38-18	5487-5488	.	_
 
+Text=Data sets were matched for number of time points to the COBRE SZ data set by randomly selecting a start point that resulted in 120 consecutive scans.
 39-1	5489-5493	Data	_
 39-2	5494-5498	sets	_
 39-3	5499-5503	were	_
@@ -1039,6 +1078,7 @@
 39-27	5632-5637	scans	_
 39-28	5638-5639	.	_
 
+Text=Connectivity matrix graph model generation There are a number of approaches to define functional relationships between brain areas.
 40-1	5640-5652	Connectivity	_
 40-2	5653-5659	matrix	_
 40-3	5660-5665	graph	_
@@ -1059,6 +1099,7 @@
 40-18	5765-5770	areas	_
 40-19	5771-5772	.	_
 
+Text=One common approach is functional connectivity, which refers to temporal correlations signal intensity across brain regions.
 41-1	5773-5776	One	_
 41-2	5777-5783	common	_
 41-3	5784-5792	approach	_
@@ -1078,6 +1119,7 @@
 41-17	5890-5897	regions	_
 41-18	5898-5899	.	_
 
+Text=In this study, we utilize a Bayesian approach to determine effective connectivity between brain areas.
 42-1	5900-5902	In	_
 42-2	5903-5907	this	_
 42-3	5908-5913	study	_
@@ -1096,6 +1138,7 @@
 42-16	5997-6002	areas	_
 42-17	6003-6004	.	_
 
+Text=Effective connectivity is a measure of the influence brain regions exert over each other over time.
 43-1	6005-6014	Effective	_
 43-2	6015-6027	connectivity	_
 43-3	6028-6030	is	_
@@ -1114,6 +1157,7 @@
 43-16	6099-6103	time	_
 43-17	6104-6105	.	_
 
+Text=Using Bayes Nets to determine effective connectivity offers some advantage over functional connectivity measures in that they are less sensitive to motion artifacts.
 44-1	6106-6111	Using	_
 44-2	6112-6117	Bayes	_
 44-3	6118-6122	Nets	_
@@ -1139,6 +1183,7 @@
 44-23	6261-6270	artifacts	_
 44-24	6271-6272	.	_
 
+Text=Whereas motion results in artificially altered correlation coefficients across the brain, the probabilistic determination of connections between variables in Bayesian models make them less susceptible to spurious connections resulting from motion artifacts.
 45-1	6273-6280	Whereas	_
 45-2	6281-6287	motion	_
 45-3	6288-6295	results	_
@@ -1174,6 +1219,7 @@
 45-33	6521-6530	artifacts	_
 45-34	6531-6532	.	_
 
+Text=In this study, Bayesian network models were generated for each subject to represent the effective connectivity between ROIs.
 46-1	6533-6535	In	_
 46-2	6536-6540	this	_
 46-3	6541-6546	study	_
@@ -1195,6 +1241,7 @@
 46-19	6653-6657	ROIs	_
 46-20	6658-6659	.	_
 
+Text=Bayesian network models are graphical models where variables (ROIs) are depicted as the nodes of the network and directed edges as the interactions between nodes.
 47-1	6660-6668	Bayesian	_
 47-2	6669-6676	network	_
 47-3	6677-6683	models	_
@@ -1224,6 +1271,7 @@
 47-27	6818-6823	nodes	_
 47-28	6824-6825	.	_
 
+Text=Connections between ROIs represent probabilistic dependencies among variables quantified by their conditional probability distributions.
 48-1	6826-6837	Connections	_
 48-2	6838-6845	between	_
 48-3	6846-6850	ROIs	_
@@ -1240,6 +1288,7 @@
 48-14	6948-6961	distributions	_
 48-15	6962-6963	.	_
 
+Text=The network structure expresses the joint probability distribution over all variables.
 49-1	6964-6967	The	_
 49-2	6968-6975	network	_
 49-3	6976-6985	structure	_
@@ -1253,6 +1302,7 @@
 49-11	7040-7049	variables	_
 49-12	7050-7051	.	_
 
+Text=The structure of a Bayesian network model representing the interactions between each of the ROIs over the scan duration is learned from the ROI time series data using a score-based hill-climbing greedy search algorithm as implemented in the R bnlearn package (https: //cran.r-project.org/web/packages/bnlearn/index.html).
 50-1	7052-7055	The	_
 50-2	7056-7065	structure	_
 50-3	7066-7068	of	_
@@ -1301,6 +1351,7 @@
 50-46	7374-7375	)	_
 50-47	7376-7377	.	_
 
+Text=Such algorithms have been benchmarked for use in fMRI data and have demonstrated excellent accuracy and stability over known network structures.
 51-1	7378-7382	Such	_
 51-2	7383-7393	algorithms	_
 51-3	7394-7398	have	_
@@ -1324,6 +1375,7 @@
 51-21	7511-7521	structures	_
 51-22	7522-7523	.	_
 
+Text=Bayesian information criterion (BIC) scores measure the goodness of fit of the network structure based on the log-likelihood of the data given the network structure, while simultaneously penalizing the number of parameters in the model.
 52-1	7524-7532	Bayesian	_
 52-2	7533-7544	information	_
 52-3	7545-7554	criterion	_
@@ -1364,6 +1416,7 @@
 52-38	7757-7762	model	_
 52-39	7763-7764	.	_
 
+Text== maximized likelihood function of the model M over the observed data x, and parameter values θ n = number of data points k = number of parameters to be estimated.
 53-1	7765-7766	=	_
 53-2	7767-7776	maximized	_
 53-3	7777-7787	likelihood	_
@@ -1398,6 +1451,7 @@
 53-32	7919-7928	estimated	_
 53-33	7929-7930	.	_
 
+Text=As the number of parameters k in the model increases the BIC score also increases; lower BIC scores are considered better models.
 54-1	7931-7933	As	_
 54-2	7934-7937	the	_
 54-3	7938-7944	number	_
@@ -1423,6 +1477,7 @@
 54-23	8054-8060	models	_
 54-24	8061-8062	.	_
 
+Text=In this way, the number of parameters in the model is constrained.
 55-1	8063-8065	In	_
 55-2	8066-8070	this	_
 55-3	8071-8074	way	_
@@ -1438,6 +1493,7 @@
 55-13	8118-8129	constrained	_
 55-14	8130-8131	.	_
 
+Text=Edges are added to the model individually and a new BIC score is calculated to determine whether the additional variable improves the fit.
 56-1	8132-8137	Edges	_
 56-2	8138-8141	are	_
 56-3	8142-8147	added	_
@@ -1463,6 +1519,7 @@
 56-23	8266-8269	fit	_
 56-24	8270-8271	.	_
 
+Text=The search procedure concludes when the fit is not further improved (the BIC score is not reduced) by inclusion of new edge parameters.
 57-1	8272-8275	The	_
 57-2	8276-8282	search	_
 57-3	8283-8292	procedure	_
@@ -1490,6 +1547,7 @@
 57-25	8398-8408	parameters	_
 57-26	8409-8410	.	_
 
+Text=The number of ROIs in our feature set was 283, resulting in 80,089 (283 × 283) possible edges or features.
 58-1	8411-8414	The	_
 58-2	8415-8421	number	_
 58-3	8422-8424	of	_
@@ -1515,6 +1573,7 @@
 58-23	8511-8519	features	_
 58-24	8520-8521	.	_
 
+Text=Therefore this is the feature space that is searched during the learning procedure.
 59-1	8522-8531	Therefore	_
 59-2	8532-8536	this	_
 59-3	8537-8539	is	_
@@ -1530,6 +1589,7 @@
 59-13	8595-8604	procedure	_
 59-14	8605-8606	.	_
 
+Text=Once the graph structure is found, edge weights are determined as linear regression coefficients, resulting in a weighted connectivity matrix for each subject.
 60-1	8607-8611	Once	_
 60-2	8612-8615	the	_
 60-3	8616-8621	graph	_
@@ -1557,6 +1617,7 @@
 60-25	8760-8767	subject	_
 60-26	8768-8769	.	_
 
+Text=These weights were then normalized by subject by z-scoring over the non-zero model edge weights in order to preserve the relationships between variables and to facilitate comparison across subjects and data centers.
 61-1	8770-8775	These	_
 61-2	8776-8783	weights	_
 61-3	8784-8788	were	_
@@ -1591,6 +1652,7 @@
 61-32	8977-8984	centers	_
 61-33	8985-8986	.	_
 
+Text=Identifying relevant discriminatory features A linear support vector machine (SVM) was used to classify between schizophrenic patients and controls based on each subject's weighted connectivity matrix.
 62-1	8987-8998	Identifying	_
 62-2	8999-9007	relevant	_
 62-3	9008-9022	discriminatory	_
@@ -1622,6 +1684,7 @@
 62-29	9184-9190	matrix	_
 62-30	9191-9192	.	_
 
+Text=An SVM is a supervised multivariate classification method that treats each of the features, or edges, as a point in a high dimensional space.
 63-1	9193-9195	An	_
 63-2	9196-9199	SVM	_
 63-3	9200-9202	is	_
@@ -1650,6 +1713,7 @@
 63-26	9330-9335	space	_
 63-27	9336-9337	.	_
 
+Text=Training of an SVM results in a set of support vectors (points in multidimensional feature-space) that represent the boundary between classes.
 64-1	9338-9346	Training	_
 64-2	9347-9349	of	_
 64-3	9350-9352	an	_
@@ -1675,6 +1739,7 @@
 64-23	9474-9481	classes	_
 64-24	9482-9483	.	_
 
+Text=Because the support vectors are at the boundary between classes, they are not useful in determining features that are most indicative of each class.
 65-1	9484-9491	Because	_
 65-2	9492-9495	the	_
 65-3	9496-9503	support	_
@@ -1702,6 +1767,7 @@
 65-25	9627-9632	class	_
 65-26	9633-9634	.	_
 
+Text=We identify the most indicative features using recursive feature elimination (RFE).
 66-1	9635-9637	We	_
 66-2	9638-9646	identify	_
 66-3	9647-9650	the	_
@@ -1717,6 +1783,7 @@
 66-13	9718-9719	)	_
 66-14	9720-9721	.	_
 
+Text=The basic principle of RFE is to initially include all edges in the model and to gradually exclude edges, that do not contribute in discriminating between the two classes.
 67-1	9722-9725	The	_
 67-2	9726-9731	basic	_
 67-3	9732-9741	principle	_
@@ -1749,6 +1816,7 @@
 67-30	9886-9893	classes	_
 67-31	9894-9895	.	_
 
+Text=This approach iteratively trains and tests the SVM, discarding the least important features at each iteration until a core set of features remain, having the highest discriminative power.
 68-1	9896-9900	This	_
 68-2	9901-9909	approach	_
 68-3	9910-9921	iteratively	_
@@ -1781,6 +1849,7 @@
 68-30	10079-10084	power	_
 68-31	10085-10086	.	_
 
+Text=At each iteration, data from the training set is randomly sub-divided into training and testing sets consisting of 10% of the total number of subjects.
 69-1	10087-10089	At	_
 69-2	10090-10094	each	_
 69-3	10095-10104	iteration	_
@@ -1810,6 +1879,7 @@
 69-27	10231-10239	subjects	_
 69-28	10240-10241	.	_
 
+Text=After training, the least significant 10% of features are removed from the feature set.
 70-1	10242-10247	After	_
 70-2	10248-10256	training	_
 70-3	10257-10258	,	_
@@ -1828,6 +1898,7 @@
 70-16	10327-10330	set	_
 70-17	10331-10332	.	_
 
+Text=Feature significance is based on the support vector model coefficients.
 71-1	10333-10340	Feature	_
 71-2	10341-10353	significance	_
 71-3	10354-10356	is	_
@@ -1840,6 +1911,7 @@
 71-10	10391-10403	coefficients	_
 71-11	10404-10405	.	_
 
+Text=Classification accuracy on the held out 10% of subjects is recorded at each iteration.
 72-1	10406-10420	Classification	_
 72-2	10421-10429	accuracy	_
 72-3	10430-10432	on	_
@@ -1857,6 +1929,7 @@
 72-15	10483-10492	iteration	_
 72-16	10493-10494	.	_
 
+Text=A bootstrap procedure was implemented that repeats the RFE process 100 times.
 73-1	10495-10496	A	_
 73-2	10497-10506	bootstrap	_
 73-3	10507-10516	procedure	_
@@ -1871,6 +1944,7 @@
 73-12	10566-10571	times	_
 73-13	10572-10573	.	_
 
+Text=Accuracies are averaged over the 100 bootstrap samples.
 74-1	10574-10584	Accuracies	_
 74-2	10585-10588	are	_
 74-3	10589-10597	averaged	_
@@ -1881,6 +1955,7 @@
 74-8	10621-10628	samples	_
 74-9	10629-10630	.	_
 
+Text=The number of features to include in the final model was determined by choosing the number that yielded the highest classification accuracy on average over the 100 bootstrap samples.
 75-1	10631-10634	The	_
 75-2	10635-10641	number	_
 75-3	10642-10644	of	_
@@ -1912,6 +1987,7 @@
 75-29	10805-10812	samples	_
 75-30	10813-10814	.	_
 
+Text=Edge features were sorted according to the frequency (1–100) of their inclusion in the top feature set yielding highest accuracy.
 76-1	10815-10819	Edge	_
 76-2	10820-10828	features	_
 76-3	10829-10833	were	_
@@ -1936,6 +2012,7 @@
 76-22	10937-10945	accuracy	_
 76-23	10946-10947	.	_
 
+Text=The RFE process was done separately and identically for both the SZ and ASD data sets, resulting in a separate set of distinguishing features for each patient population from that of healthy controls.
 77-1	10948-10951	The	_
 77-2	10952-10955	RFE	_
 77-3	10956-10963	process	_
@@ -1972,6 +2049,7 @@
 77-34	11140-11148	controls	_
 77-35	11149-11150	.	_
 
+Text=A separate SVM model for SZ and ASD was then created using these features.
 78-1	11151-11152	A	_
 78-2	11153-11161	separate	_
 78-3	11162-11165	SVM	_
@@ -1988,6 +2066,7 @@
 78-14	11216-11224	features	_
 78-15	11225-11226	.	_
 
+Text=Cross validation on independent data Independent data sets, from a new cohort of subjects that were collected at different sites were used as testing cross validation sets.
 79-1	11227-11232	Cross	_
 79-2	11233-11243	validation	_
 79-3	11244-11246	on	_
@@ -2018,6 +2097,7 @@
 79-28	11395-11399	sets	_
 79-29	11400-11401	.	_
 
+Text=The SVM models generated from the features identified through the RFE procedure, were used to predict group membership of the testing cross validation data sets.
 80-1	11402-11405	The	_
 80-2	11406-11409	SVM	_
 80-3	11410-11416	models	_
@@ -2046,6 +2126,7 @@
 80-26	11559-11563	sets	_
 80-27	11564-11565	.	_
 
+Text=Each of the new data sets underwent identical preprocessing procedures as the original training cohorts.
 81-1	11566-11570	Each	_
 81-2	11571-11573	of	_
 81-3	11574-11577	the	_
@@ -2063,6 +2144,7 @@
 81-15	11662-11669	cohorts	_
 81-16	11670-11671	.	_
 
+Text=Their weighted edge matrices were used to determine how well our SVM models generalize.
 82-1	11672-11677	Their	_
 82-2	11678-11686	weighted	_
 82-3	11687-11691	edge	_
@@ -2079,6 +2161,7 @@
 82-14	11748-11758	generalize	_
 82-15	11759-11760	.	_
 
+Text=We predicted the group membership (ASD vs control, SZ vs control) on these new subjects using the SVM models that were trained on the initial training cohort of subjects.
 83-1	11761-11763	We	_
 83-2	11764-11773	predicted	_
 83-3	11774-11777	the	_
@@ -2113,6 +2196,7 @@
 83-32	11925-11933	subjects	_
 83-33	11934-11935	.	_
 
+Text=Cross-validation in this way, allows us to see how well our models generalize outside of the patient population on which it was trained and also ensures that classification accuracy is not driven by differences in age, scanning site or other potential cohort or procedural differences in subject groups.
 84-1	11936-11952	Cross-validation	_
 84-2	11953-11955	in	_
 84-3	11956-11960	this	_
@@ -2165,6 +2249,7 @@
 84-50	12234-12240	groups	_
 84-51	12241-12242	.	_
 
+Text=Identifying common and disparate features of autism and schizophrenia To identify common and disparate features of ASD and SZ we formed a control group from a mixture of equal numbers of subjects from the control groups of the ASD and SZ data sets.
 85-1	12243-12254	Identifying	_
 85-2	12255-12261	common	_
 85-3	12262-12265	and	_
@@ -2210,6 +2295,7 @@
 85-43	12486-12490	sets	_
 85-44	12491-12492	.	_
 
+Text=Using this control group during training avoids identifying features that could potentially distinguish the two data sets (SZ and ASD training sets) for reasons having nothing to do with the different patient population features.
 86-1	12493-12498	Using	_
 86-2	12499-12503	this	_
 86-3	12504-12511	control	_
@@ -2248,6 +2334,7 @@
 86-36	12715-12723	features	_
 86-37	12724-12725	.	_
 
+Text=That is, the hybrid control group is also drawn from samples across scanners.
 87-1	12726-12730	That	_
 87-2	12731-12733	is	_
 87-3	12734-12735	,	_
@@ -2264,6 +2351,7 @@
 87-14	12795-12803	scanners	_
 87-15	12804-12805	.	_
 
+Text=Therefore, the classification cannot be made solely on differences that may be present in data samples due to collection at different scanner sites.
 88-1	12806-12815	Therefore	_
 88-2	12816-12817	,	_
 88-3	12818-12821	the	_
@@ -2291,6 +2379,7 @@
 88-25	12950-12955	sites	_
 88-26	12956-12957	.	_
 
+Text=RFE was performed separately for ASD and SZ against this common control group.
 89-1	12958-12961	RFE	_
 89-2	12962-12965	was	_
 89-3	12966-12975	performed	_
@@ -2306,6 +2395,7 @@
 89-13	13030-13035	group	_
 89-14	13036-13037	.	_
 
+Text=Identified features were separated into common and divergent feature sets.
 90-1	13038-13048	Identified	_
 90-2	13049-13057	features	_
 90-3	13058-13062	were	_
@@ -2318,6 +2408,7 @@
 90-10	13107-13111	sets	_
 90-11	13112-13113	.	_
 
+Text=Common features were those identified by both the SZ and ASD RFE procedures against the common control; divergent features were the remaining SZ and ASD features combined.
 91-1	13114-13120	Common	_
 91-2	13121-13129	features	_
 91-3	13130-13134	were	_
@@ -2348,6 +2439,7 @@
 91-28	13277-13285	combined	_
 91-29	13286-13287	.	_
 
+Text=Features were then divided into non-overlapping functional networks for the purpose of visualization using network definitions from a previously defined functional brain atlas.
 92-1	13288-13296	Features	_
 92-2	13297-13301	were	_
 92-3	13302-13306	then	_
@@ -2373,6 +2465,7 @@
 92-23	13458-13463	atlas	_
 92-24	13464-13465	.	_
 
+Text=ROIs were defined as belonging to a given network if they were spatially overlapping with the atlas network mask.
 93-1	13466-13470	ROIs	_
 93-2	13471-13475	were	_
 93-3	13476-13483	defined	_

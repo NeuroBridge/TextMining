@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=The major depressive disorder GWAS-supported variant rs10514299 in TMEM161B-MEF2C predicts putamen activation during reward processing in alcohol dependence Alcohol dependence (AD) frequently co-occurs with major depressive disorder (MDD).
 1-1	0-3	The	_
 1-2	4-9	major	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 1-3	10-20	depressive	_
@@ -36,6 +37,7 @@
 1-32	241-242	)	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 1-33	243-244	.	_
 
+Text=While this comorbidity is associated with an increase in disease burden, worse treatment outcomes, and greater economic costs, the underlying neurobiology remains poorly understood.
 2-1	245-250	While	_
 2-2	251-255	this	_
 2-3	256-267	comorbidity	_
@@ -65,6 +67,7 @@
 2-27	418-428	understood	_
 2-28	429-430	.	_
 
+Text=A recent large-scale GWAS of MDD has identified a locus in the TMEM161B-MEF2C region (rs10514299) as a novel risk variant; however, the biological relevance of this variant has not yet been studied.
 3-1	431-432	A	_
 3-2	433-439	recent	_
 3-3	440-451	large-scale	_
@@ -103,6 +106,7 @@
 3-36	625-632	studied	_
 3-37	633-634	.	_
 
+Text=Given previous reports of disrupted reward processing in both AD and MDD, we hypothesized that rs10514299 would be associated with differences in striatal BOLD responses during reward/loss anticipation in AD.
 4-1	635-640	Given	_
 4-2	641-649	previous	_
 4-3	650-657	reports	_
@@ -136,6 +140,7 @@
 4-31	841-843	AD	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 4-32	844-845	.	_
 
+Text=DNA samples from 45 recently detoxified patients with AD and 45 healthy controls (HC) were genotyped for rs10514299.
 5-1	846-849	DNA	_
 5-2	850-857	samples	_
 5-3	858-862	from	_
@@ -158,6 +163,7 @@
 5-20	953-963	rs10514299	_
 5-21	964-965	.	_
 
+Text=Participants performed the Monetary Incentive Delay task in a 3-Tesla MRI scanner.
 6-1	966-978	Participants	_
 6-2	979-988	performed	_
 6-3	989-992	the	_
@@ -172,6 +178,7 @@
 6-12	1040-1047	scanner	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 6-13	1048-1049	.	_
 
+Text=Effects of rs10514299 on striatal activation during anticipation of high/low reward/loss were investigated.
 7-1	1050-1057	Effects	_
 7-2	1058-1060	of	_
 7-3	1061-1071	rs10514299	_
@@ -187,6 +194,7 @@
 7-13	1144-1156	investigated	_
 7-14	1157-1158	.	_
 
+Text=Furthermore, we examined associations between rs10514299 and lifetime AD diagnosis in two independent clinical samples [NIAAA: n = 1858 (1123 cases, 735 controls); SAGE: n = 3838 (1848 cases, 1990 controls)], as well as its association with depression severity in a subsample of individuals with a lifetime AD diagnosis (n = 953).
 8-1	1159-1170	Furthermore	_
 8-2	1171-1172	,	_
 8-3	1173-1175	we	_
@@ -256,6 +264,7 @@
 8-67	1502-1503	)	_
 8-68	1504-1505	.	_
 
+Text=Patients carrying the T allele showed significantly greater putamen activation during anticipation of high reward (p = 0.014), low reward (at trend-level; p = 0.081), high loss (p = 0.024), and low loss (p = 0.046) compared to HCs.
 9-1	1506-1514	Patients	_
 9-2	1515-1523	carrying	_
 9-3	1524-1527	the	_
@@ -309,6 +318,7 @@
 9-51	1745-1748	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 9-52	1749-1750	.	_
 
+Text=Association analyses in the NIAAA sample showed a trend-level relationship between rs10514299 and a lifetime AD diagnosis in the European American subgroup (odds ratio = 0.82, p = 0.09).
 10-1	1751-1762	Association	_
 10-2	1763-1771	analyses	_
 10-3	1772-1774	in	_
@@ -343,6 +353,7 @@
 10-32	1938-1939	)	_
 10-33	1940-1941	.	_
 
+Text=This finding was not replicated in the SAGE sample.
 11-1	1942-1946	This	_
 11-2	1947-1954	finding	_
 11-3	1955-1958	was	_
@@ -354,6 +365,7 @@
 11-9	1986-1992	sample	_
 11-10	1993-1994	.	_
 
+Text=In the NIAAA sample, the T allele was significantly associated with greater depression symptom severity in individuals with a lifetime AD diagnosis (β = 1.25, p = 0.02); this association was driven by the African American ancestry subgroup (β = 2.11, p = 0.008).
 12-1	1995-1997	In	_
 12-2	1998-2001	the	_
 12-3	2002-2007	NIAAA	_
@@ -408,6 +420,7 @@
 12-52	2263-2264	)	_
 12-53	2265-2266	.	_
 
+Text=We show for the first time that the previously identified MDD risk variant rs10514299 in TMEM161B-MEF2C predicts neuronal correlates of reward processing in an AD phenotype, possibly explaining part of the shared pathophysiology and comorbidity between the disorders.
 13-1	2267-2269	We	_
 13-2	2270-2274	show	_
 13-3	2275-2278	for	_
@@ -449,6 +462,7 @@
 13-39	2525-2534	disorders	_
 13-40	2535-2536	.	_
 
+Text=Materials and methods Participants The Neuroimaging Sample included 90 participants (45 AD and 45 HC) with a mean age of 39.78 (SD = 11.33; see Table 1).
 14-1	2537-2546	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-2	2547-2550	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-3	2551-2558	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -483,6 +497,7 @@
 14-32	2693-2694	)	_
 14-33	2695-2696	.	_
 
+Text=Prior to study participation, participants in the Neuroimaging and NIAAA Sample provided informed written consent in accordance with the Declaration of Helsinki and as approved by the National Institute on Alcohol Abuse and Alcoholism Review Board.
 15-1	2697-2702	Prior	_
 15-2	2703-2705	to	_
 15-3	2706-2711	study	_
@@ -522,6 +537,7 @@
 15-37	2940-2945	Board	_
 15-38	2946-2947	.	_
 
+Text=All participants completed the Structured Clinical Interview for DSM-IV-TR Axis I Disorders (SCID-IV).
 16-1	2948-2951	All	_
 16-2	2952-2964	participants	_
 16-3	2965-2974	completed	_
@@ -539,6 +555,7 @@
 16-15	3050-3051	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 16-16	3052-3053	.	_
 
+Text=Given that DSM-5 criteria for alcohol use disorder are less stringent compared to DSM-IV criteria for AD, all individuals likely fall into the moderate/severe alcohol use disorder categories in DSM-5.
 17-1	3054-3059	Given	_
 17-2	3060-3064	that	_
 17-3	3065-3070	DSM-5	_
@@ -572,6 +589,7 @@
 17-31	3249-3254	DSM-5	_
 17-32	3255-3256	.	_
 
+Text=Exclusion criteria included left-handedness, contraindications for MRI (e.g., claustrophobia or pregnancy), and the presence of any significant medical or neurological diagnoses as assessed by a history and physical exam.
 18-1	3257-3266	Exclusion	_
 18-2	3267-3275	criteria	_
 18-3	3276-3284	included	_
@@ -608,6 +626,7 @@
 18-34	3478-3482	exam	_
 18-35	3483-3484	.	_
 
+Text=Additional exclusion criteria for the HC group included DSM-IV-TR diagnoses of current/past AD, positive urine drug screens, and alcohol breathalyzer readings above zero.
 19-1	3485-3495	Additional	_
 19-2	3496-3505	exclusion	_
 19-3	3506-3514	criteria	_
@@ -635,6 +654,7 @@
 19-25	3652-3656	zero	_
 19-26	3657-3658	.	_
 
+Text=FMRI scans were obtained while participants completed a modified version of the MID task where approximately 70% of trials were successful.
 20-1	3659-3663	FMRI	_
 20-2	3664-3669	scans	_
 20-3	3670-3674	were	_
@@ -659,6 +679,7 @@
 20-22	3788-3798	successful	_
 20-23	3799-3800	.	_
 
+Text=Participants were not on any psychotropic medications on the day of the scan and there were no alcohol abstainers among the HC group.
 21-1	3801-3813	Participants	_
 21-2	3814-3818	were	_
 21-3	3819-3822	not	_
@@ -684,6 +705,7 @@
 21-23	3928-3933	group	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 21-24	3934-3935	.	_
 
+Text=DNA samples were obtained from all participants for genotyping.
 22-1	3936-3939	DNA	_
 22-2	3940-3947	samples	_
 22-3	3948-3952	were	_
@@ -695,6 +717,7 @@
 22-9	3988-3998	genotyping	_
 22-10	3999-4000	.	_
 
+Text=The NIAAA Sample consisted of 1123 individuals with a DSM-IV-TR diagnosis of AD and 735 HCs who enrolled in research studies at the National Institute on Alcohol Abuse and Alcoholism at the National Institutes of Health Clinical Center in Bethesda, MD (see Table 2).
 23-1	4001-4004	The	_
 23-2	4005-4010	NIAAA	_
 23-3	4011-4017	Sample	_
@@ -744,6 +767,7 @@
 23-47	4268-4269	)	_
 23-48	4270-4271	.	_
 
+Text=531 individuals with AD and 411 controls were of European American (EA) descent.
 24-1	4272-4275	531	_
 24-2	4276-4287	individuals	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 24-3	4288-4292	with	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
@@ -761,6 +785,7 @@
 24-15	4346-4353	descent	_
 24-16	4354-4355	.	_
 
+Text=A total of 507 individuals with AD and 232 controls were of African American (AA) descent.
 25-1	4356-4357	A	_
 25-2	4358-4363	total	_
 25-3	4364-4366	of	_
@@ -781,6 +806,7 @@
 25-18	4440-4447	descent	_
 25-19	4448-4449	.	_
 
+Text=All participants provided blood samples for genotyping.
 26-1	4450-4453	All	_
 26-2	4454-4466	participants	_
 26-3	4467-4475	provided	_
@@ -790,6 +816,7 @@
 26-7	4494-4504	genotyping	_
 26-8	4505-4506	.	_
 
+Text=The SAGE was funded by the National Human Genome Research Institute as part of the Gene Environment Association Studies (GENEVA) that consisted of three major studies of addictive disorders: The Collaborative Study on the Genetics of Alcoholism (COGA), the Family Study of Cocaine Dependence (FSCD), and the Collaborative Genetic Study of Nicotine Dependence (COGEND).
 27-1	4507-4510	The	_
 27-2	4511-4515	SAGE	_
 27-3	4516-4519	was	_
@@ -857,6 +884,7 @@
 27-65	4884-4885	)	_
 27-66	4886-4887	.	_
 
+Text=The accession number of dbGaP is phs000092.v1.p1.
 28-1	4888-4891	The	_
 28-2	4892-4901	accession	_
 28-3	4902-4908	number	_
@@ -866,6 +894,7 @@
 28-7	4921-4936	phs000092.v1.p1	_
 28-8	4937-4938	.	_
 
+Text=The EA subgroup of the SAGE Sample consisted of 1162 cases (mean age = 38.2 (9.94); 62% male) and 1346 controls (mean age 38.6 (9.44); 30.3% male).
 29-1	4939-4942	The	_
 29-2	4943-4945	EA	_
 29-3	4946-4954	subgroup	_
@@ -907,6 +936,7 @@
 29-39	5096-5097	)	_
 29-40	5098-5099	.	_
 
+Text=The AA subgroup consisted of 686 cases (mean age = 40.3 (7.7); 61% male) and 644 controls (mean age = 39.6 (7.2); 36% male).
 30-1	5100-5103	The	_
 30-2	5104-5106	AA	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 30-3	5107-5115	subgroup	_
@@ -945,6 +975,7 @@
 30-36	5234-5235	)	_
 30-37	5236-5237	.	_
 
+Text=All cases met lifetime DSM-IV criteria for AD, and were excluded if they had schizophrenia or any other psychotic illness.
 31-1	5238-5241	All	_
 31-2	5242-5247	cases	_
 31-3	5248-5251	met	_
@@ -968,6 +999,7 @@
 31-21	5353-5360	illness	_
 31-22	5361-5362	.	_
 
+Text=Controls were defined as individuals who had been exposed to alcohol, but had not met lifetime criteria for AD or other illicit substances.
 32-1	5363-5371	Controls	_
 32-2	5372-5376	were	_
 32-3	5377-5384	defined	_
@@ -994,6 +1026,7 @@
 32-24	5492-5502	substances	_
 32-25	5503-5504	.	_
 
+Text=Experimental paradigm Participants completed a modified version of the MID task, which required a fast button response to a target to win or avoid losing money.
 33-1	5505-5517	Experimental	_
 33-2	5518-5526	paradigm	_
 33-3	5527-5539	Participants	_
@@ -1023,6 +1056,7 @@
 33-27	5660-5665	money	_
 33-28	5666-5667	.	_
 
+Text=A trial started with a crosshair for fixation, then a 2-second presentation of a cue (a shape indicating the type of trial: reward, loss, or neutral).
 34-1	5668-5669	A	_
 34-2	5670-5675	trial	_
 34-3	5676-5683	started	_
@@ -1057,6 +1091,7 @@
 34-32	5822-5823	)	_
 34-33	5824-5825	.	_
 
+Text=After a delay screen of variable duration (between 0.75 and 1.75 s) the target was presented (a white-filled square to which the participants were trained to respond to).
 35-1	5826-5831	After	_
 35-2	5832-5833	a	_
 35-3	5834-5839	delay	_
@@ -1091,6 +1126,7 @@
 35-32	5998-5999	)	_
 35-33	6000-6001	.	_
 
+Text=Next, another delay screen of variable duration (between 0.75 and 3 s) was presented before the feedback screen appeared.
 36-1	6002-6006	Next	_
 36-2	6007-6008	,	_
 36-3	6009-6016	another	_
@@ -1115,6 +1151,7 @@
 36-22	6117-6125	appeared	_
 36-23	6126-6127	.	_
 
+Text=The feedback screen showed the amount that was won or lost in the previous trial, which represented if the participant had successfully pressed the button in time to win or avoid losing the target amount.
 37-1	6128-6131	The	_
 37-2	6132-6140	feedback	_
 37-3	6141-6147	screen	_
@@ -1153,6 +1190,7 @@
 37-36	6326-6332	amount	_
 37-37	6333-6334	.	_
 
+Text=The total amount of money accumulated up to that point was also presented on the feedback screen.
 38-1	6335-6338	The	_
 38-2	6339-6344	total	_
 38-3	6345-6351	amount	_
@@ -1172,6 +1210,7 @@
 38-17	6425-6431	screen	_
 38-18	6432-6433	.	_
 
+Text=After practicing outside of the scanner and being informed that gains/losses during the task would be reflected in their final payment, each subject completed a 12-minute fMRI session of the MID task.
 39-1	6434-6439	After	_
 39-2	6440-6450	practicing	_
 39-3	6451-6458	outside	_
@@ -1207,6 +1246,7 @@
 39-33	6630-6634	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 39-34	6635-6636	.	_
 
+Text=Five different cues were presented thirty times, each representing a different trial condition; neutral (no reward/no loss), low loss, high loss, low reward, and high reward.
 40-1	6637-6641	Five	_
 40-2	6642-6651	different	_
 40-3	6652-6656	cues	_
@@ -1243,6 +1283,7 @@
 40-34	6812-6818	reward	_
 40-35	6819-6820	.	_
 
+Text=MRI data acquisition and preprocessing A Siemens 3 T Skyra scanner was used to collect whole-brain echo-planar imaging functional (36 axial slices, 4 mm slice thickness, 64 × 64 matrix and repetition time of 2000 ms) and MPRGE structural data.
 41-1	6821-6824	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 41-2	6825-6829	data	_
 41-3	6830-6841	acquisition	_
@@ -1289,6 +1330,7 @@
 41-44	7063-7067	data	_
 41-45	7068-7069	.	_
 
+Text=Preprocessing and analysis was performed using AFNI software package.
 42-1	7070-7083	Preprocessing	_
 42-2	7084-7087	and	_
 42-3	7088-7096	analysis	_
@@ -1300,6 +1342,7 @@
 42-9	7131-7138	package	_
 42-10	7139-7140	.	_
 
+Text=Large transients removal was performed before slice-time correction, then nuisance variables were de-trended, including the six parameter estimates for head motion.
 43-1	7141-7146	Large	_
 43-2	7147-7157	transients	_
 43-3	7158-7165	removal	_
@@ -1325,6 +1368,7 @@
 43-23	7300-7306	motion	_
 43-24	7307-7308	.	_
 
+Text=No participants had any condition censored more than 20% (motion higher than 0.3 mm was censored out), a criterion to be excluded from the analysis.
 44-1	7309-7311	No	_
 44-2	7312-7324	participants	_
 44-3	7325-7328	had	_
@@ -1356,6 +1400,7 @@
 44-29	7452-7460	analysis	_
 44-30	7461-7462	.	_
 
+Text=Images were then coregistered to the individual structural image, resampled (2-mm isotropic), smoothed (4-mm full-width-half-maximum Gaussian kernel), normalized by the mean signal intensity in each voxel to reflect percent signal change, and finally transformed into the standardized.
 45-1	7463-7469	Images	_
 45-2	7470-7474	were	_
 45-3	7475-7479	then	_
@@ -1403,6 +1448,7 @@
 45-45	7743-7755	standardized	_
 45-46	7756-7757	.	_
 
+Text=BOLD fMRI data and ROI analysis Single-subject level analysis was performed using AFNI.
 46-1	7758-7762	BOLD	_
 46-2	7763-7767	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 46-3	7768-7772	data	_
@@ -1418,6 +1464,7 @@
 46-13	7840-7844	AFNI	_
 46-14	7845-7846	.	_
 
+Text=Then, using ROI masks of the bilateral caudate, putamen, and nucleus accumbens, generated with AFNI DrawDataset plugins and following previously published literature and subtracting all nuances effects (such as pre-motor activations), except reward/loss response, we computed average percent signal change (beta weights) of the following comparisons: high reward> neutral, low reward> neutral, high loss> neutral, low loss> neutral.
 47-1	7847-7851	Then	_
 47-2	7852-7853	,	_
 47-3	7854-7859	using	_
@@ -1496,6 +1543,7 @@
 47-76	8289-8296	neutral	_
 47-77	8297-8298	.	_
 
+Text=For simplification purposes, we refer to these as high reward, low reward, high loss, and low loss, respectively.
 48-1	8299-8302	For	_
 48-2	8303-8317	simplification	_
 48-3	8318-8326	purposes	_
@@ -1521,6 +1569,7 @@
 48-23	8404-8416	respectively	_
 48-24	8417-8418	.	_
 
+Text=Genotyping NIAAA Sample Large-scale genotyping was performed at the NIAAA Laboratory of Neurogenetics using the Illumina OmniExpress BeadChip (Illumina, San Diego, CA).
 49-1	8419-8429	Genotyping	_
 49-2	8430-8435	NIAAA	_
 49-3	8436-8442	Sample	_
@@ -1549,6 +1598,7 @@
 49-26	8589-8590	)	_
 49-27	8591-8592	.	_
 
+Text=Data for the SNP rs10514299 located within the TMEM161B-AS1 gene cluster was extracted from the larger array.
 50-1	8593-8597	Data	_
 50-2	8598-8601	for	_
 50-3	8602-8605	the	_
@@ -1568,6 +1618,7 @@
 50-17	8696-8701	array	_
 50-18	8702-8703	.	_
 
+Text=Ancestry informative markers (AIMs; n = 2500) were extracted from the Illumina array to calculate ancestral proportions for all study participants.
 51-1	8704-8712	Ancestry	_
 51-2	8713-8724	informative	_
 51-3	8725-8732	markers	_
@@ -1594,6 +1645,7 @@
 51-24	8841-8853	participants	_
 51-25	8854-8855	.	_
 
+Text=Using methods described previously for an AIM panel including 186 markers, which were not available for the current data set, the ancestry assessment identified 6 ethnic factors (Africa, Europe, Asia, Far East Asia, Oceania, and Americas).
 52-1	8856-8861	Using	_
 52-2	8862-8869	methods	_
 52-3	8870-8879	described	_
@@ -1641,6 +1693,7 @@
 52-45	9102-9103	)	_
 52-46	9104-9105	.	_
 
+Text=SAGE Sample Whole-genome genotyping was completed using the Illumina Human-1M platform (Illumina Inc., San Diego, CA).
 53-1	9106-9110	SAGE	_
 53-2	9111-9117	Sample	_
 53-3	9118-9130	Whole-genome	_
@@ -1663,6 +1716,7 @@
 53-20	9226-9227	)	_
 53-21	9228-9229	.	_
 
+Text=The 190 HapMap samples (48 HapMap control samples, 55 CEU, 55 YUR, 13 CHB, and 17 JPT) were genotyped in the same platform and population stratification analyses were performed using principal component analysis.
 54-1	9230-9233	The	_
 54-2	9234-9237	190	_
 54-3	9238-9244	HapMap	_
@@ -1704,6 +1758,7 @@
 54-39	9439-9447	analysis	_
 54-40	9448-9449	.	_
 
+Text=After a series of quality control procedures (p value of Hardy-Weinberg equilibrium (HWE) <10e-5, missing rate by SNP> 2%, missing rate by individual> 2%, minor allele frequency <1%, sex inconsistency), there were 1162 case and 1346 control samples in the EA subgroup and 686 case and 644 control samples in AA subgroup.
 55-1	9450-9455	After	_
 55-2	9456-9457	a	_
 55-3	9458-9464	series	_
@@ -1774,6 +1829,7 @@
 55-68	9777-9785	subgroup	_
 55-69	9786-9787	.	_
 
+Text=Two population stratification scores (PSS) calculated based on principal component analysis were used for statistical analyses.
 56-1	9788-9791	Two	_
 56-2	9792-9802	population	_
 56-3	9803-9817	stratification	_
@@ -1794,6 +1850,7 @@
 56-18	9908-9916	analyses	_
 56-19	9917-9918	.	_
 
+Text=Statistical analysis Main analyses of the Neuroimaging Sample were run using SPSS statistical software package (IBM SPSS Statistics ® 20, IBM Corp. ©, Armonk, NY).
 57-1	9919-9930	Statistical	_
 57-2	9931-9939	analysis	_
 57-3	9940-9944	Main	_
@@ -1826,6 +1883,7 @@
 57-30	10085-10086	)	_
 57-31	10087-10088	.	_
 
+Text=Baseline differences in demographic variables between cases and controls were determined using t-tests for continuous and chi-square tests for categorical variables.
 58-1	10089-10097	Baseline	_
 58-2	10098-10109	differences	_
 58-3	10110-10112	in	_
@@ -1849,6 +1907,7 @@
 58-21	10244-10253	variables	_
 58-22	10254-10255	.	_
 
+Text=Chi-square tests were performed to test the genotypic distribution of the SNP in both cases and controls.
 59-1	10256-10266	Chi-square	_
 59-2	10267-10272	tests	_
 59-3	10273-10277	were	_
@@ -1868,6 +1927,7 @@
 59-17	10352-10360	controls	_
 59-18	10361-10362	.	_
 
+Text=The primary outcome measure was activation in the caudate, putamen, and nucleus accumbens during reward/loss anticipation as measured by BOLD fMRI.
 60-1	10363-10366	The	_
 60-2	10367-10374	primary	_
 60-3	10375-10382	outcome	_
@@ -1893,6 +1953,7 @@
 60-23	10507-10511	fMRI	_
 60-24	10512-10513	.	_
 
+Text=Shapiro-Wilk tests confirmed that all four imaging outcomes (high reward, low reward, high loss, low loss) were normally distributed (all p ≥ 0.407).
 61-1	10514-10526	Shapiro-Wilk	_
 61-2	10527-10532	tests	_
 61-3	10533-10542	confirmed	_
@@ -1925,6 +1986,7 @@
 61-30	10668-10669	)	_
 61-31	10670-10671	.	_
 
+Text=For the main analysis of effects of diagnosis, genotype, and their interaction on BOLD responses in the caudate, putamen, and nucleus accumbens, we conducted 2 × 2 analyses of covariance (ANCOVAs) with group (AD vs. HC) T allele carrier status (CC vs. TT/CT–assuming a dominant model) as factors and age, gender, AIM score Europe, and AIM score Africa as covariates.
 62-1	10672-10675	For	_
 62-2	10676-10679	the	_
 62-3	10680-10684	main	_
@@ -2001,6 +2063,7 @@
 62-74	11041-11051	covariates	_
 62-75	11052-11053	.	_
 
+Text=All tests were two-tailed and considered to be statistically significant at p <0.05.
 63-1	11054-11057	All	_
 63-2	11058-11063	tests	_
 63-3	11064-11068	were	_
@@ -2017,6 +2080,7 @@
 63-14	11134-11138	0.05	_
 63-15	11139-11140	.	_
 
+Text=For the NIAAA Sample, minor allele frequency, HWE, and association analyses were conducted using PLINK version 1.07.
 64-1	11141-11144	For	_
 64-2	11145-11148	the	_
 64-3	11149-11154	NIAAA	_
@@ -2039,6 +2103,7 @@
 64-20	11255-11259	1.07	_
 64-21	11260-11261	.	_
 
+Text=Analyses were conducted first in the entire sample, and then separately for EA and AA subgroups, based on self-report.
 65-1	11262-11270	Analyses	_
 65-2	11271-11275	were	_
 65-3	11276-11285	conducted	_
@@ -2062,6 +2127,7 @@
 65-21	11370-11381	self-report	_
 65-22	11382-11383	.	_
 
+Text=Case-control association with lifetime AD was determined using logistic regression, while association with the MADRS scale was determined using linear regression.
 66-1	11384-11396	Case-control	_
 66-2	11397-11408	association	_
 66-3	11409-11413	with	_
@@ -2086,6 +2152,7 @@
 66-22	11536-11546	regression	_
 66-23	11547-11548	.	_
 
+Text=Both analyses used an additive model and adjusted for age, gender, and AIM scores for European and African ancestry.
 67-1	11549-11553	Both	_
 67-2	11554-11562	analyses	_
 67-3	11563-11567	used	_
@@ -2109,6 +2176,7 @@
 67-21	11658-11666	ancestry	_
 67-22	11667-11668	.	_
 
+Text=Similarly, for the SAGE Sample, a logistic regression model controlling for age, gender, and 2 PSS for African and European ancestry was performed with the assumption of an additive model.
 68-1	11669-11678	Similarly	_
 68-2	11679-11680	,	_
 68-3	11681-11684	for	_
@@ -2145,6 +2213,7 @@
 68-34	11855-11860	model	_
 68-35	11861-11862	.	_
 
+Text=Analyses were performed separately in individuals of European and African ancestry.
 69-1	11863-11871	Analyses	_
 69-2	11872-11876	were	_
 69-3	11877-11886	performed	_

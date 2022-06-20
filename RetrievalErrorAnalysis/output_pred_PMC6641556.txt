@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Transdiagnostic Effects of Ventromedial Prefrontal Cortex Transcranial Magnetic Stimulation on Cue Reactivity BACKGROUND: Elevated frontal and striatal reactivity to drug cues is a transdiagnostic hallmark of substance use disorders.
 1-1	0-15	Transdiagnostic	_
 1-2	16-23	Effects	_
 1-3	24-26	of	_
@@ -34,6 +35,7 @@
 1-30	224-233	disorders	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-31	234-235	.	_
 
+Text=The goal of these experiments was to determine if it is possible to decrease frontal and striatal reactivity to drug cues in both cocaine users and heavy alcohol users through continuous theta burst stimulation (cTBS) to the left ventromedial prefrontal cortex (VMPFC).
 2-1	236-239	The	_
 2-2	240-244	goal	_
 2-3	245-247	of	_
@@ -82,6 +84,7 @@
 2-46	507-508	)	_
 2-47	509-510	.	_
 
+Text=METHODS: Two single-blinded, within-subject, active sham–controlled experiments were performed wherein neural reactivity to drug/alcohol cues versus neutral cues was evaluated immediately before and after receiving real or sham cTBS (110% resting motor threshold, 3600 pulses, Fp1 location; N= 49: 25 cocaine users [experiment 1], 24 alcohol users [experiment 2]; 196 total functional magnetic resonance imaging scans).
 3-1	511-518	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 3-2	519-520	:	_
 3-3	521-524	Two	_
@@ -156,6 +159,7 @@
 3-72	944-945	)	_
 3-73	946-947	.	_
 
+Text=Generalized psychophysiological interaction and three-way repeated-measures analysis of variance were used to evaluate cTBS-induced changes in drug cue-associated functional connectivity between the left VMPFC and eight regions of interest: ventral striatum, left and right caudate, left and right putamen, left and right insula, and anterior cingulate cortex.
 4-1	948-959	Generalized	_
 4-2	960-979	psychophysiological	_
 4-3	980-991	interaction	_
@@ -210,6 +214,7 @@
 4-52	1306-1312	cortex	_
 4-53	1313-1314	.	_
 
+Text=RESULTS: In both experiments, there was a significant interaction between treatment (real/sham) and time (pre/post).
 5-1	1315-1322	RESULTS	_
 5-2	1323-1324	:	_
 5-3	1325-1327	In	_
@@ -233,6 +238,7 @@
 5-21	1435-1436	)	_
 5-22	1437-1438	.	_
 
+Text=In both experiments, cue-related functional connectivity was significantly attenuated following real cTBS versus sham cTBS.
 6-1	1439-1441	In	_
 6-2	1442-1446	both	_
 6-3	1447-1458	experiments	_
@@ -251,6 +257,7 @@
 6-16	1558-1562	cTBS	_
 6-17	1563-1564	.	_
 
+Text=There was no significant interaction with region of interest for either experiment.
 7-1	1565-1570	There	_
 7-2	1571-1574	was	_
 7-3	1575-1577	no	_
@@ -265,6 +272,7 @@
 7-12	1637-1647	experiment	_
 7-13	1648-1649	.	_
 
+Text=CONCLUSIONS: This is the first sham-controlled investigation to demonstrate, in two populations, that VMPFC cTBS can attenuate neural reactivity to drug and alcohol cues in frontostriatal circuits.
 8-1	1650-1661	CONCLUSIONS	_
 8-2	1662-1663	:	_
 8-3	1664-1668	This	_
@@ -297,6 +305,7 @@
 8-30	1841-1849	circuits	_
 8-31	1850-1851	.	_
 
+Text=These results provide an empirical foundation for future clinical trials that may evaluate the efficacy, durability, and clinical implications of VMPFC cTBS to treat addictions.
 9-1	1852-1857	These	_
 9-2	1858-1865	results	_
 9-3	1866-1873	provide	_
@@ -326,6 +335,7 @@
 9-27	2020-2030	addictions	_
 9-28	2031-2032	.	_
 
+Text=METHODS AND MATERIALS Experiment 1 (Cocaine Users) and Experiment 2 (Heavy Alcohol Users) Participants.
 10-1	2033-2040	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	2041-2044	AND	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	2045-2054	MATERIALS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -346,6 +356,7 @@
 10-18	2127-2139	Participants	_
 10-19	2140-2141	.	_
 
+Text=Non–treatment-seeking cocaine-dependent individuals (n = 25) and alcohol-dependent individuals (n = 24) were recruited from the Charleston, South Carolina, metropolitan area to participate in one of two single-blinded, active sham–controlled crossover studies.
 11-1	2142-2163	Non–treatment-seeking	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 11-2	2164-2181	cocaine-dependent	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 11-3	2182-2193	individuals	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
@@ -387,6 +398,7 @@
 11-39	2401-2408	studies	_
 11-40	2409-2410	.	_
 
+Text=These studies were independent but were run in parallel by the same study coordinator using the same TMS equipment and facilities.
 12-1	2411-2416	These	_
 12-2	2417-2424	studies	_
 12-3	2425-2429	were	_
@@ -410,6 +422,7 @@
 12-21	2530-2540	facilities	_
 12-22	2541-2542	.	_
 
+Text=Following informed consent procedures approved by the Medical University of South Carolina Institutional Review Board, participants completed screening assessments related to MRI and TMS protocol safety, mental status, and drug use to determine study eligibility (see Supplemental Methods for detailed inclusion/exclusion information).
 13-1	2543-2552	Following	_
 13-2	2553-2561	informed	_
 13-3	2562-2569	consent	_
@@ -459,6 +472,7 @@
 13-47	2881-2882	)	_
 13-48	2883-2884	.	_
 
+Text=Eligible participants completed two MRI/rTMS visits (each ~1 hour).
 14-1	2885-2893	Eligible	_
 14-2	2894-2906	participants	_
 14-3	2907-2916	completed	_
@@ -472,6 +486,7 @@
 14-11	2952-2953	)	_
 14-12	2954-2955	.	_
 
+Text=Before each study session, a multipanel urine drug screen (QuikVue 6-panel urine drug screen; Quidel, San Diego, CA) was given.
 15-1	2956-2962	Before	_
 15-2	2963-2967	each	_
 15-3	2968-2973	study	_
@@ -500,6 +515,7 @@
 15-26	3083-3088	given	_
 15-27	3089-3090	.	_
 
+Text=Participants were told ahead of time that if they had positive urine drug screen for (meth) amphetamine, opiates, marijuana, or benzodiazepines they would not be eligible to participate on that day and that they would have one opportunity to reschedule.
 16-1	3091-3103	Participants	_
 16-2	3104-3108	were	_
 16-3	3109-3113	told	_
@@ -547,6 +563,7 @@
 16-45	3338-3348	reschedule	_
 16-46	3349-3350	.	_
 
+Text=In this study, none of the participants had to reschedule for a positive urine drug screen.
 17-1	3351-3353	In	_
 17-2	3354-3358	this	_
 17-3	3359-3364	study	_
@@ -566,6 +583,7 @@
 17-17	3436-3442	screen	_
 17-18	3443-3444	.	_
 
+Text=All participants received both real and sham VMPFC cTBS (one type per session) and were counterbalanced for the order in which they received stimulation (Fp1 landmark based on the International 10–20 system; 110% resting motor threshold [rMT]; six sessions of cTBS for each visit; 3600 pulses total, with a 60-second break after the first 1800 pulses).
 18-1	3445-3448	All	_
 18-2	3449-3461	participants	_
 18-3	3462-3470	received	_
@@ -635,6 +653,7 @@
 18-67	3806-3807	)	_
 18-68	3808-3809	.	_
 
+Text=Visit 2 occurred between 7 and 14 days after visit 1. fMRI drug/alcohol cue reactivity task data were collected immediately before and after cTBS stimulation (Figure 1), with the fMRI scan initiated within 20 minutes of receiving real or sham cTBS and completed no later than 40 minutes after cTBS to maximize presumed effects of cTBS on cortical activity.
 19-1	3810-3815	Visit	_
 19-2	3816-3817	2	_
 19-3	3818-3826	occurred	_
@@ -699,6 +718,7 @@
 19-62	4160-4168	activity	_
 19-63	4169-4170	.	_
 
+Text=Self-reported cocaine or alcohol craving (respectively) was assessed at five time points: upon visit initiation, before the baseline fMRI scan, before the cTBS session, immediately after cTBS, and after the second fMRI scan.
 20-1	4171-4184	Self-reported	_
 20-2	4185-4192	cocaine	_
 20-3	4193-4195	or	_
@@ -741,12 +761,14 @@
 20-40	4397-4401	scan	_
 20-41	4402-4403	.	_
 
+Text=Procedures: Clinical Assessments.
 21-1	4404-4414	Procedures	_
 21-2	4415-4416	:	_
 21-3	4417-4425	Clinical	_
 21-4	4426-4437	Assessments	_
 21-5	4438-4439	.	_
 
+Text=Self-report assessments included the Structured Clinical Interview for DSM-IV, Timeline Followback [for cocaine, alcohol, marijuana, and nicotine], Alcohol Use Disorders Identification Test, Fagerström Smoking Inventory, Beck Depression Inventory-II, and State-Trait Anxiety Inventory.
 22-1	4440-4451	Self-report	_
 22-2	4452-4463	assessments	_
 22-3	4464-4472	included	_
@@ -791,6 +813,7 @@
 22-42	4725-4734	Inventory	http://maven.renci.org/NeuroBridge/neurobridge#TraitAnxietyInventory
 22-43	4735-4736	.	_
 
+Text=Timeline Followback was used to evaluate past week ’ s substance use at all study visits.
 23-1	4737-4745	Timeline	_
 23-2	4746-4756	Followback	_
 23-3	4757-4760	was	_
@@ -809,6 +832,7 @@
 23-16	4819-4825	visits	_
 23-17	4826-4827	.	_
 
+Text=As typically done in cue-induced craving studies, study personnel ensured that craving levels were at or below baseline before participants were dismissed from each visit.
 24-1	4828-4830	As	_
 24-2	4831-4840	typically	_
 24-3	4841-4845	done	_
@@ -837,6 +861,7 @@
 24-26	4994-4999	visit	_
 24-27	5000-5001	.	_
 
+Text=Procedures: Drug/Alcohol Cue Reactivity fMRI Task.
 25-1	5002-5012	Procedures	_
 25-2	5013-5014	:	_
 25-3	5015-5027	Drug/Alcohol	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -846,6 +871,7 @@
 25-7	5048-5052	Task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 25-8	5053-5054	.	_
 
+Text=The drug/alcohol cue reactivity task that has been used by our group in the past was administered in the MRI scanner as a block design using E-Prime 2 software (Psychology Software Tools, Inc., Sharpsburg, PA).
 26-1	5055-5058	The	_
 26-2	5059-5071	drug/alcohol	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 26-3	5072-5075	cue	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -888,6 +914,7 @@
 26-40	5268-5269	)	_
 26-41	5270-5271	.	_
 
+Text=The total task time was 12 minutes and consisted of six 120-second epochs.
 27-1	5272-5275	The	_
 27-2	5276-5281	total	_
 27-3	5282-5286	task	_
@@ -903,6 +930,7 @@
 27-13	5339-5345	epochs	_
 27-14	5346-5347	.	_
 
+Text=Each epoch included alternating 24-second blocks of four task conditions: drug, neutral, blur, and rest.
 28-1	5348-5352	Each	_
 28-2	5353-5358	epoch	_
 28-3	5359-5367	included	_
@@ -924,6 +952,7 @@
 28-19	5451-5455	rest	_
 28-20	5456-5457	.	_
 
+Text=Respectively, these task conditions included images of cocaine- or alcohol-related stimuli customized for each group (e.g., crack pipe for cocaine users, liquor bottles for alcohol users), neutral stimuli (e.g., glass of water, cooking utensils, people eating dinner), blurred stimuli acting as visual controls by matching substance images in color and hue, and a fixation cross for alert rest periods.
 29-1	5458-5470	Respectively	_
 29-2	5471-5472	,	_
 29-3	5473-5478	these	_
@@ -998,6 +1027,7 @@
 29-72	5865-5872	periods	_
 29-73	5873-5874	.	_
 
+Text=During each task block, five images were presented (4.8 seconds).
 30-1	5875-5881	During	_
 30-2	5882-5886	each	_
 30-3	5887-5891	task	_
@@ -1013,12 +1043,14 @@
 30-13	5941-5942	)	_
 30-14	5943-5944	.	_
 
+Text=Procedures: Neuroimaging Acquisition.
 31-1	5945-5955	Procedures	_
 31-2	5956-5957	:	_
 31-3	5958-5970	Neuroimaging	_
 31-4	5971-5982	Acquisition	_
 31-5	5983-5984	.	_
 
+Text=Participants were scanned using a Siemens 3.0T TIM Trio (Siemens Corp., Erlangen, Germany) MRI scanner with a 32-channel head coil.
 32-1	5985-5997	Participants	_
 32-2	5998-6002	were	_
 32-3	6003-6010	scanned	_
@@ -1045,6 +1077,7 @@
 32-24	6115-6119	coil	_
 32-25	6120-6121	.	_
 
+Text=High-resolution T1-weighted structural images were acquired using a magnetization prepared rapid acquisition gradient-echo sequence (repetition time/echo time = 1900 ms/2.34 ms; field of view = 220 mm; matrix = 256 × 256 voxels; 192 slices; slice thickness = 1.0 mm with no gap; final resolution = 1-mm3 voxels).
 33-1	6122-6137	High-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 33-2	6138-6149	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 33-3	6150-6160	structural	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1102,6 +1135,7 @@
 33-55	6439-6440	)	_
 33-56	6441-6442	.	_
 
+Text=Functional images were acquired with a multislice gradient-echo echo-planar imaging (EPI) sequence (repetition time/echo time = 2200 ms/35 ms; field of view = 192 mm; matrix = 64 × 64 voxels; 36 slices; slice thickness = 3 mm with no gap; final resolution = 3 mm3 voxels).
 34-1	6443-6453	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 34-2	6454-6460	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 34-3	6461-6465	were	_
@@ -1160,6 +1194,7 @@
 34-56	6722-6723	)	_
 34-57	6724-6725	.	_
 
+Text=Each functional run consisted of 328 time points.
 35-1	6726-6730	Each	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 35-2	6731-6741	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 35-3	6742-6745	run	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1170,6 +1205,7 @@
 35-8	6768-6774	points	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 35-9	6775-6776	.	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 
+Text=Procedures: cTBS Protocol—Real and Sham cTBS.
 36-1	6777-6787	Procedures	_
 36-2	6788-6789	:	_
 36-3	6790-6794	cTBS	_
@@ -1179,6 +1215,7 @@
 36-7	6818-6822	cTBS	_
 36-8	6823-6824	.	_
 
+Text=Coil position was determined using standardized coordinates from the International 10–20 system (with Fp1 corresponding to the left VMPFC stimulation target).
 37-1	6825-6829	Coil	_
 37-2	6830-6838	position	_
 37-3	6839-6842	was	_
@@ -1204,6 +1241,7 @@
 37-23	6983-6984	)	_
 37-24	6985-6986	.	_
 
+Text=The location and orientation of each participant ’ s coil placement was indicated on a nylon cap that participants wore throughout visit 1 and both MRI/rTMS sessions.
 38-1	6987-6990	The	_
 38-2	6991-6999	location	_
 38-3	7000-7003	and	_
@@ -1233,6 +1271,7 @@
 38-27	7144-7152	sessions	_
 38-28	7153-7154	.	_
 
+Text=Participants ’ rMT was identified via the standardized Parametric Estimation by Sequential Testing procedure.
 39-1	7155-7167	Participants	_
 39-2	7168-7169	’	_
 39-3	7170-7173	rMT	_
@@ -1249,6 +1288,7 @@
 39-14	7254-7263	procedure	_
 39-15	7264-7265	.	_
 
+Text=The cTBS was administered with a figure-of-eight Cool-B65 A/P coil (MagVenture, Farum, Denmark).
 40-1	7266-7269	The	_
 40-2	7270-7274	cTBS	_
 40-3	7275-7278	was	_
@@ -1268,6 +1308,7 @@
 40-17	7364-7365	)	_
 40-18	7366-7367	.	_
 
+Text=Participants received two 2-minute trains of cTBS over Fp1 (one train = 120 seconds; three pulse bursts at 5 Hz; 15 pulses/s; 1800 pulses/train; 60-second intertrain interval; 110% rMT) (see Supplemental Methods for details of rigorous active sham).
 41-1	7368-7380	Participants	_
 41-2	7381-7389	received	_
 41-3	7390-7393	two	_
@@ -1318,6 +1359,7 @@
 41-48	7625-7626	)	_
 41-49	7627-7628	.	_
 
+Text=To enhance tolerability, stimulation intensity was gradually escalated in 5% increments (from 80% to 110% rMT) over the first 30 seconds of each train.
 42-1	7629-7631	To	_
 42-2	7632-7639	enhance	_
 42-3	7640-7652	tolerability	_
@@ -1350,6 +1392,7 @@
 42-30	7780-7785	train	_
 42-31	7786-7787	.	_
 
+Text=Procedures: Cue Recollection During cTBS Administration.
 43-1	7788-7798	Procedures	_
 43-2	7799-7800	:	_
 43-3	7801-7804	Cue	_
@@ -1359,6 +1402,7 @@
 43-7	7830-7844	Administration	_
 43-8	7845-7846	.	_
 
+Text=Before cTBS administration, participants were asked to recall the last time they used cocaine or alcohol (respectively) and, using a series of standardized questions from traditional Narrative Exposure Therapy practice, they were asked to describe the place they were using, a visual description of the scene, and a description of the sensory properties of the drug including taste, smell, and sensation.
 44-1	7847-7853	Before	_
 44-2	7854-7858	cTBS	_
 44-3	7859-7873	administration	_
@@ -1431,6 +1475,7 @@
 44-70	8250-8259	sensation	_
 44-71	8260-8261	.	_
 
+Text=During cTBS administration, the participants were primed every 20 seconds to “ Think about that scene you described wherein you were last using cocaine/alcohol ” (paraphrased so as to be tailored to the participant ’ s description).
 45-1	8262-8268	During	_
 45-2	8269-8273	cTBS	_
 45-3	8274-8288	administration	_
@@ -1473,12 +1518,14 @@
 45-40	8495-8496	)	_
 45-41	8497-8498	.	_
 
+Text=Data Analysis Self-reported Craving.
 46-1	8499-8503	Data	_
 46-2	8504-8512	Analysis	_
 46-3	8513-8526	Self-reported	_
 46-4	8527-8534	Craving	_
 46-5	8535-8536	.	_
 
+Text=Self-reported craving scores were entered into a two-way analysis of variance (ANOVA) (treatment type [real/sham] × time [pre/post]) and subsequent t tests to determine the effect of treatment on changes in craving.
 47-1	8537-8550	Self-reported	_
 47-2	8551-8558	craving	_
 47-3	8559-8565	scores	_
@@ -1521,10 +1568,12 @@
 47-40	8752-8759	craving	_
 47-41	8760-8761	.	_
 
+Text=Neuroimaging Preprocessing.
 48-1	8762-8774	Neuroimaging	_
 48-2	8775-8788	Preprocessing	_
 48-3	8789-8790	.	_
 
+Text=MRI data were preprocessed using standard protocols via SPM12 (Wellcome Department of Cognitive Neurology, London, United Kingdom) implemented in MATLAB 7.14 (The MathWorks, Inc., Natick, MA) (see Supplemental Methods for preprocessing details).
 49-1	8791-8794	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 49-2	8795-8799	data	_
 49-3	8800-8804	were	_
@@ -1570,6 +1619,7 @@
 49-43	9045-9046	)	_
 49-44	9047-9048	.	_
 
+Text=Data analyses were conducted on a total of 49 participants (30 men; mean age = 34 ± 11 years; age range = 21–54 years) (see Table 1 for detailed demographics).
 50-1	9049-9053	Data	_
 50-2	9054-9062	analyses	_
 50-3	9063-9067	were	_
@@ -1608,11 +1658,13 @@
 50-36	9212-9213	)	_
 50-37	9214-9215	.	_
 
+Text=Generalized Psychophysiological Interaction.
 51-1	9216-9227	Generalized	_
 51-2	9228-9247	Psychophysiological	_
 51-3	9248-9259	Interaction	_
 51-4	9260-9261	.	_
 
+Text=Generalized psychophysiological interaction (gPPI) was used to investigate task-modulated patterns of FC between the VMPFC and eight regions of interest (ROIs) during the drug/alcohol cue reactivity task.
 52-1	9262-9273	Generalized	_
 52-2	9274-9293	psychophysiological	_
 52-3	9294-9305	interaction	_
@@ -1646,6 +1698,7 @@
 52-31	9465-9469	task	_
 52-32	9470-9471	.	_
 
+Text=gPPI was conducted as described by McLaren et al.
 53-1	9472-9476	gPPI	_
 53-2	9477-9480	was	_
 53-3	9481-9490	conducted	_
@@ -1657,6 +1710,7 @@
 53-9	9518-9520	al	_
 53-10	9521-9522	.	_
 
+Text=(see Supplemental Methods for gPPI analysis details).
 54-1	9523-9524	(	_
 54-2	9525-9528	see	_
 54-3	9529-9541	Supplemental	_
@@ -1668,6 +1722,7 @@
 54-9	9576-9577	)	_
 54-10	9578-9579	.	_
 
+Text=We computed drug/alcohol cue minus neutral cue “ contrast betas ” indicating the relative FC during drug versus neutral conditions.
 55-1	9580-9582	We	_
 55-2	9583-9591	computed	_
 55-3	9592-9604	drug/alcohol	_
@@ -1690,6 +1745,7 @@
 55-20	9700-9710	conditions	_
 55-21	9711-9712	.	_
 
+Text=Four contrast betas were computed: prereal cTBS, postreal cTBS, presham, and postsham.
 56-1	9713-9717	Four	_
 56-2	9718-9726	contrast	_
 56-3	9727-9732	betas	_
@@ -1708,6 +1764,7 @@
 56-16	9794-9802	postsham	_
 56-17	9803-9804	.	_
 
+Text=We aimed to show that FC between the VMPFC and several striatal and salience regions would decrease during drug/alcohol cue versus neutral cue exposure following real but not sham VMPFC cTBS.
 57-1	9805-9807	We	_
 57-2	9808-9813	aimed	_
 57-3	9814-9816	to	_
@@ -1741,6 +1798,7 @@
 57-31	9991-9995	cTBS	_
 57-32	9996-9997	.	_
 
+Text=To do this, we conducted a three-way repeated-measures ANOVA involving treatment type (real vs. sham), time (pre vs. post), and ROI as independent variables and drug/alcohol versus neutral contrast betas as the dependent variable.
 58-1	9998-10000	To	_
 58-2	10001-10003	do	_
 58-3	10004-10008	this	_
@@ -1784,6 +1842,7 @@
 58-41	10226-10234	variable	_
 58-42	10235-10236	.	_
 
+Text=Subsequent t tests were then used to determine the effect of treatment on changes in drug/alcohol cue–evoked FC across regions.
 59-1	10237-10247	Subsequent	_
 59-2	10248-10249	t	_
 59-3	10250-10255	tests	_
@@ -1806,6 +1865,7 @@
 59-20	10356-10363	regions	_
 59-21	10364-10365	.	_
 
+Text=The focus on FC analysis in the present study, rather than traditional general linear model analysis, was due to the nature of TMS effects on the brain.
 60-1	10366-10369	The	_
 60-2	10370-10375	focus	_
 60-3	10376-10378	on	_
@@ -1837,6 +1897,7 @@
 60-29	10514-10519	brain	_
 60-30	10520-10521	.	_
 
+Text=To influence subcortical brain regions (such as the striatum), we applied TMS to cortical targets (such as the VMPFC) and took advantage of the monosynaptic functional connections between cortical and subcortical regions.
 61-1	10522-10524	To	_
 61-2	10525-10534	influence	_
 61-3	10535-10546	subcortical	_
@@ -1876,6 +1937,7 @@
 61-37	10740-10747	regions	_
 61-38	10748-10749	.	_
 
+Text=As such, we felt that measuring the efficacy of the cTBS-induced changes in frontostriatolimbic circuits should be conducted at the level of these functional connections.
 62-1	10750-10752	As	_
 62-2	10753-10757	such	_
 62-3	10758-10759	,	_
@@ -1904,6 +1966,7 @@
 62-26	10909-10920	connections	_
 62-27	10921-10922	.	_
 
+Text=Relationship Between Clinical/Demographic Variables and FC Changes.
 63-1	10923-10935	Relationship	_
 63-2	10936-10943	Between	_
 63-3	10944-10964	Clinical/Demographic	_
@@ -1913,6 +1976,7 @@
 63-7	10982-10989	Changes	_
 63-8	10990-10991	.	_
 
+Text=To determine whether clinical and demographic variables influenced or predicted cTBS treatment outcomes, hierarchical multiple linear regressions were conducted with clinical and demographic variables of interest as the predictors and covariate predictors and changes in VMPFC FC after real versus sham cTBS as the outcome variable.
 64-1	10992-10994	To	_
 64-2	10995-11004	determine	_
 64-3	11005-11012	whether	_
@@ -1962,11 +2026,13 @@
 64-47	11316-11324	variable	_
 64-48	11325-11326	.	_
 
+Text=Scalp-to-Cortex Distance Measurement.
 65-1	11327-11342	Scalp-to-Cortex	_
 65-2	11343-11351	Distance	_
 65-3	11352-11363	Measurement	_
 65-4	11364-11365	.	_
 
+Text=Given that the effects of TMS on cortical depolarization are proportional to the distance between the skull and cortex, we calculated the distance from the scalp to cortex on the transverse plane of magnetization prepared rapid acquisition gradient-echo images for each participant using BrainRuler software, a dedicated tool for scalp-to-cortex distance measurements.
 66-1	11366-11371	Given	_
 66-2	11372-11376	that	_
 66-3	11377-11380	the	_
@@ -2023,6 +2089,7 @@
 66-54	11723-11735	measurements	_
 66-55	11736-11737	.	_
 
+Text=The average distance from participant-specific placement of Fp1 to the cortex was 17.4 ± 3.7 mm for cocaine users and 16.4 ± 3.2 mm for alcohol users.
 67-1	11738-11741	The	_
 67-2	11742-11749	average	_
 67-3	11750-11758	distance	_
@@ -2052,6 +2119,7 @@
 67-27	11882-11887	users	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
 67-28	11888-11889	.	_
 
+Text=These distances were incorporated into the analyses as covariates.
 68-1	11890-11895	These	_
 68-2	11896-11905	distances	_
 68-3	11906-11910	were	_

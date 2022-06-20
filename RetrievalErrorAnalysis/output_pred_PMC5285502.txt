@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Neural systems underlying individual differences in intertemporal decision making Excessively choosing immediate over larger future rewards, or delay discounting (DD), associates with multiple clinical conditions.
 1-1	0-6	Neural	_
 1-2	7-14	systems	_
 1-3	15-25	underlying	_
@@ -33,6 +34,7 @@
 1-29	206-216	conditions	_
 1-30	217-218	.	_
 
+Text=Individual differences in DD likely depend on variations in the activation of and functional interactions between networks, representing possible endophenotypes for associated disorders, including alcohol use disorders (AUDs).
 2-1	219-229	Individual	_
 2-2	230-241	differences	_
 2-3	242-244	in	_
@@ -67,6 +69,7 @@
 2-32	447-448	)	_
 2-33	449-450	.	_
 
+Text=Numerous fMRI studies have probed the neural bases of DD, but investigations of large-scale networks remains scant.
 3-1	451-459	Numerous	_
 3-2	460-464	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 3-3	465-472	studies	_
@@ -87,6 +90,7 @@
 3-18	561-566	scant	_
 3-19	567-568	.	_
 
+Text=We addressed this gap by testing whether activation within large-scale networks during “ Now/Later ” decision-making predicts individual differences in DD.
 4-1	569-571	We	_
 4-2	572-581	addressed	_
 4-3	582-586	this	_
@@ -110,6 +114,7 @@
 4-21	721-723	DD	_
 4-22	724-725	.	_
 
+Text=To do so, we scanned 95 social drinkers (18–40 years; 50 females) using fMRI during hypothetical choices between small monetary amounts available “ today ” or larger amounts available later.
 5-1	726-728	To	_
 5-2	729-731	do	_
 5-3	732-734	so	_
@@ -146,6 +151,7 @@
 5-34	914-919	later	_
 5-35	920-921	.	_
 
+Text=We identified neural networks engaged during Now/Later choice using independent component analysis (ICA) and tested the relationship between component activation and degree of DD.
 6-1	922-924	We	_
 6-2	925-935	identified	_
 6-3	936-942	neural	_
@@ -174,6 +180,7 @@
 6-26	1100-1102	DD	_
 6-27	1103-1104	.	_
 
+Text=The activity of two components during Now/Later choice correlated with individual DD rates: a temporal lobe network positively correlated with DD, while a frontoparietal-striatal network negatively correlated with DD.
 7-1	1105-1108	The	_
 7-2	1109-1117	activity	_
 7-3	1118-1120	of	_
@@ -207,6 +214,7 @@
 7-31	1321-1323	DD	_
 7-32	1324-1325	.	_
 
+Text=Activation differences between these networks predicted individual differences in DD and their negative correlation during Now/Later choice suggests functional competition.
 8-1	1326-1336	Activation	_
 8-2	1337-1348	differences	_
 8-3	1349-1356	between	_
@@ -229,6 +237,7 @@
 8-20	1486-1497	competition	_
 8-21	1498-1499	.	_
 
+Text=A generalized psychophysiological interactions (gPPI) analysis confirmed a decrease in their functional connectivity during decision-making.
 9-1	1500-1501	A	_
 9-2	1502-1513	generalized	_
 9-3	1514-1533	psychophysiological	_
@@ -248,6 +257,7 @@
 9-17	1626-1641	decision-making	_
 9-18	1642-1643	.	_
 
+Text=The functional connectivity of these two networks negatively correlates with alcohol-related harm, potentially implicating these networks in AUDs.
 10-1	1644-1647	The	_
 10-2	1648-1658	functional	_
 10-3	1659-1671	connectivity	_
@@ -269,6 +279,7 @@
 10-19	1786-1790	AUDs	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 10-20	1791-1792	.	_
 
+Text=These findings provide novel insight into the neural underpinnings of individual differences in impulsive decision making with potential implications for addiction and related disorders in which impulsivity is a defining feature.
 11-1	1793-1798	These	_
 11-2	1799-1807	findings	_
 11-3	1808-1815	provide	_
@@ -302,6 +313,7 @@
 11-31	2014-2021	feature	_
 11-32	2022-2023	.	_
 
+Text=MATERIALS AND METHODS Subjects Healthy adult (ages 18–40 years; mean=25.9) participants (n=95; 50 females) were recruited from the University of North Carolina, Chapel Hill (UNC) campus and surrounding communities.
 12-1	2024-2033	MATERIALS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	2034-2037	AND	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	2038-2045	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -342,6 +354,7 @@
 12-38	2235-2246	communities	_
 12-39	2247-2248	.	_
 
+Text=The participant sample was 62% white, 15% black, 11% Asian, 4% Hispanic, and 8% mixed or other race.
 13-1	2249-2252	The	_
 13-2	2253-2264	participant	_
 13-3	2265-2271	sample	_
@@ -371,6 +384,7 @@
 13-27	2353-2357	race	_
 13-28	2358-2359	.	_
 
+Text=Participants had completed an average of 16.3 ± 2.5 years of education.
 14-1	2360-2372	Participants	_
 14-2	2373-2376	had	_
 14-3	2377-2386	completed	_
@@ -385,6 +399,7 @@
 14-12	2421-2430	education	_
 14-13	2431-2432	.	_
 
+Text=Social status as a proxy for socioeconomic status was characterized by the Barratt Simplified Measure of Social Status, and the sample average was 50.0 ± 12.4 (range: 8–66) out of a possible range of 8–66.
 15-1	2433-2439	Social	_
 15-2	2440-2446	status	_
 15-3	2447-2449	as	_
@@ -426,6 +441,7 @@
 15-39	2637-2641	8–66	_
 15-40	2642-2643	.	_
 
+Text=Exclusion criteria included use of psychoactive drug or medication use (excluding moderate alcohol or caffeine intake), a neurological or psychiatric diagnosis, including history of treatment for a substance use disorder or a lifetime history of alcohol or other drug dependence based on a structured clinical interview using DSM-IV criteria.
 16-1	2644-2653	Exclusion	_
 16-2	2654-2662	criteria	_
 16-3	2663-2671	included	_
@@ -481,6 +497,7 @@
 16-53	2981-2989	criteria	_
 16-54	2990-2991	.	_
 
+Text=All participants were native English speakers, right-handed, and had at least a high school education (or equivalent).
 17-1	2992-2995	All	_
 17-2	2996-3008	participants	_
 17-3	3009-3013	were	_
@@ -504,6 +521,7 @@
 17-21	3112-3113	)	_
 17-22	3114-3115	.	_
 
+Text=Participants were screened for drug or alcohol use on the day of the scan via breathalyzer test and urine drug screen.
 18-1	3116-3128	Participants	_
 18-2	3129-3133	were	_
 18-3	3134-3142	screened	_
@@ -527,6 +545,7 @@
 18-21	3227-3233	screen	_
 18-22	3234-3235	.	_
 
+Text=Each participant provided written, informed consent as approved by the UNC Office of Human Research Ethics.
 19-1	3236-3240	Each	_
 19-2	3241-3252	participant	_
 19-3	3253-3261	provided	_
@@ -546,6 +565,7 @@
 19-17	3337-3343	Ethics	_
 19-18	3344-3345	.	_
 
+Text=Alcohol use data Although this study included only healthy control participants, the primary motivation for this investigation was to identify potential intermediate phenotypes of AUDs.
 20-1	3346-3353	Alcohol	_
 20-2	3354-3357	use	_
 20-3	3358-3362	data	_
@@ -574,6 +594,7 @@
 20-26	3527-3531	AUDs	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 20-27	3532-3533	.	_
 
+Text=Therefore, each participant completed the Alcohol Use and Disorders Identification Test (AUDIT) to provide measures of alcohol consumption, harmful alcohol use, and alcohol dependence symptoms.
 21-1	3534-3543	Therefore	_
 21-2	3544-3545	,	_
 21-3	3546-3550	each	_
@@ -606,6 +627,7 @@
 21-30	3723-3731	symptoms	_
 21-31	3732-3733	.	_
 
+Text=While no participants met criteria for an alcohol use disorder, all participants reported having consumed alcohol at least once, and alcohol consumption levels ranged from low to heavy, based on AUDIT consumption subscale scores.
 22-1	3734-3739	While	_
 22-2	3740-3742	no	_
 22-3	3743-3755	participants	_
@@ -645,6 +667,7 @@
 22-37	3959-3965	scores	_
 22-38	3966-3967	.	_
 
+Text=Delay discounting task Participants performed a DD task designed for use in the MRI scanner, and described in detail previously.
 23-1	3968-3973	Delay	_
 23-2	3974-3985	discounting	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 23-3	3986-3990	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -668,6 +691,7 @@
 23-21	4086-4096	previously	_
 23-22	4097-4098	.	_
 
+Text=Participants were given task instructions, completed a short practice, and then completed six blocks of 42 trials each (~8 minutes in length).
 24-1	4099-4111	Participants	_
 24-2	4112-4116	were	_
 24-3	4117-4122	given	_
@@ -696,6 +720,7 @@
 24-26	4243-4244	)	_
 24-27	4245-4246	.	_
 
+Text=In each trial, participants were asked to select one of two presented options, a smaller, immediate monetary reward (“ Now ”), or a larger, delayed reward (“ Later ”).
 25-1	4247-4249	In	_
 25-2	4250-4254	each	_
 25-3	4255-4260	trial	_
@@ -736,6 +761,7 @@
 25-38	4421-4422	)	_
 25-39	4423-4424	.	_
 
+Text=Selections were indicated by pressing one of two buttons on an MRI-compatible response box.
 26-1	4425-4435	Selections	_
 26-2	4436-4440	were	_
 26-3	4441-4450	indicated	_
@@ -752,6 +778,7 @@
 26-14	4512-4515	box	_
 26-15	4516-4517	.	_
 
+Text=Each trial began with an instruction cue, followed by a screen presenting the Now and Later options.
 27-1	4518-4522	Each	_
 27-2	4523-4528	trial	_
 27-3	4529-4534	began	_
@@ -772,6 +799,7 @@
 27-18	4611-4618	options	_
 27-19	4619-4620	.	_
 
+Text=Later options were hypothetical monetary rewards of $2, $5, $10, $20, or $100 at one of five future delays (1 week, 2 weeks, 1 month, 3 months, or 6 months), while the Now option was reduced by 30%, 15%, 10%, or 5% from the Later amount and was available “ Today ”.
 28-1	4621-4626	Later	_
 28-2	4627-4634	options	_
 28-3	4635-4639	were	_
@@ -849,6 +877,7 @@
 28-75	4907-4908	”	_
 28-76	4909-4910	.	_
 
+Text=Later option delays and amounts, as well as the Now option “ discount ” and left/right position were randomized across trials.
 29-1	4911-4916	Later	_
 29-2	4917-4923	option	_
 29-3	4924-4930	delays	_
@@ -873,6 +902,7 @@
 29-22	5031-5037	trials	_
 29-23	5038-5039	.	_
 
+Text=Each choice trial was preceded by an instruction cue presented for 4.4 seconds to indicate one of four choice trial types: “ WANT, ” “ DON ’ T WANT, ” “ SOONER, ” or “ LARGER. ” For Want trials, subjects chose their preferred option.
 30-1	5040-5044	Each	_
 30-2	5045-5051	choice	_
 30-3	5052-5057	trial	_
@@ -925,6 +955,7 @@
 30-50	5271-5277	option	_
 30-51	5278-5279	.	_
 
+Text=In the Don ’ t Want trials, subjects selected the option that they did not prefer.
 31-1	5280-5282	In	_
 31-2	5283-5286	the	_
 31-3	5287-5290	Don	_
@@ -944,6 +975,7 @@
 31-17	5356-5362	prefer	_
 31-18	5363-5364	.	_
 
+Text=Sooner and Larger trials represented objective choice control (CON) trials in which subjects indicated which option was available sooner in time, or which reward was larger, respectively.
 32-1	5365-5371	Sooner	_
 32-2	5372-5375	and	_
 32-3	5376-5382	Larger	_
@@ -977,6 +1009,7 @@
 32-31	5543-5555	respectively	_
 32-32	5556-5557	.	_
 
+Text=In addition to the chosen option, we also collected the response time for each response.
 33-1	5558-5560	In	_
 33-2	5561-5569	addition	_
 33-3	5570-5572	to	_
@@ -995,6 +1028,7 @@
 33-16	5638-5646	response	_
 33-17	5647-5648	.	_
 
+Text=Accuracy in CON trials verifies adherence to task instructions, and comparison of response time (RT) between the CON, WANT and DON ’ T WANT trials indicates whether additional cognitive processes are being engaged in the WANT and DON ’ T WANT conditions, relative to the simple objective comparisons required in CON trials.
 34-1	5649-5657	Accuracy	_
 34-2	5658-5660	in	_
 34-3	5661-5664	CON	_
@@ -1054,6 +1088,7 @@
 34-57	5970-5976	trials	_
 34-58	5977-5978	.	_
 
+Text=The options appeared on the screen for 4.4 seconds and were followed by a jittered inter-trial interval of 4.4–8.8 seconds; the instruction cue remained on the screen during this time.
 35-1	5979-5982	The	_
 35-2	5983-5990	options	_
 35-3	5991-5999	appeared	_
@@ -1087,6 +1122,7 @@
 35-31	6159-6163	time	_
 35-32	6164-6165	.	_
 
+Text=During “ null ” trials, the instruction cue was presented but no choice options were presented.
 36-1	6166-6172	During	_
 36-2	6173-6174	“	_
 36-3	6175-6179	null	_
@@ -1106,6 +1142,7 @@
 36-17	6252-6261	presented	_
 36-18	6262-6263	.	_
 
+Text=WANT trials comprised 50% of the choice trials whereas the other 50% were divided equally among DON ’ T WANT, SOONER, and LARGER trials, with trial type pseudorandomly ordered across trials.
 37-1	6264-6268	WANT	_
 37-2	6269-6275	trials	_
 37-3	6276-6285	comprised	_
@@ -1144,6 +1181,7 @@
 37-36	6452-6458	trials	_
 37-37	6459-6460	.	_
 
+Text=Task behavioral measures As the primary measure of impulsive decision making, an impulsive choice ratio was calculated as the proportion of Now choices made in the WANT condition.
 38-1	6461-6465	Task	_
 38-2	6466-6476	behavioral	_
 38-3	6477-6485	measures	_
@@ -1175,6 +1213,7 @@
 38-29	6631-6640	condition	_
 38-30	6641-6642	.	_
 
+Text=Higher ICR values indicate more impulsive decision making.
 39-1	6643-6649	Higher	_
 39-2	6650-6653	ICR	_
 39-3	6654-6660	values	_
@@ -1185,6 +1224,7 @@
 39-8	6694-6700	making	_
 39-9	6701-6702	.	_
 
+Text=Although the delay discounting paradigm used in this study was not designed to optimally estimate model-based discounting rates, we present secondary analyses for which the degree of impulsive choice was quantified using the q-exponential discount function based on Tsallis ’ statistics: where D represents delay time, and kq and q are measures of impulsivity and of inconsistency across delay times, respectively.
 40-1	6703-6711	Although	_
 40-2	6712-6715	the	_
 40-3	6716-6721	delay	_
@@ -1252,6 +1292,7 @@
 40-65	7108-7120	respectively	_
 40-66	7121-7122	.	_
 
+Text=To estimate kq and q, we conducted nonlinear curve fitting with the Levenberg–Marquardt algorithm implemented in R with the minipack.lm package.
 41-1	7123-7125	To	_
 41-2	7126-7134	estimate	_
 41-3	7135-7137	kq	_
@@ -1276,6 +1317,7 @@
 41-22	7260-7267	package	_
 41-23	7268-7269	.	_
 
+Text=Discounted Value was calculated as the cumulative selected/maximum dollar ratio at each delay, D .. Higher values of kq indicate greater discounting of delayed rewards (more impulsivity) and lower values of k indicate less delayed reward discounting (less impulsivity).
 42-1	7270-7280	Discounted	_
 42-2	7281-7286	Value	_
 42-3	7287-7290	was	_
@@ -1322,6 +1364,7 @@
 42-44	7542-7543	)	_
 42-45	7544-7545	.	_
 
+Text=Based on a threshold of R2>.2, the q-exponential model failed to adequately fit the data of n=43 subjects.
 43-1	7546-7551	Based	_
 43-2	7552-7554	on	_
 43-3	7555-7556	a	_
@@ -1345,6 +1388,7 @@
 43-21	7646-7654	subjects	_
 43-22	7655-7656	.	_
 
+Text=Therefore, for the secondary analyses that considered the kq metric, only subjects for whom the model was deemed valid were included.
 44-1	7657-7666	Therefore	_
 44-2	7667-7668	,	_
 44-3	7669-7672	for	_
@@ -1370,6 +1414,7 @@
 44-23	7783-7791	included	_
 44-24	7792-7793	.	_
 
+Text=All primary analyses utilized the ICR metric and included all 95 subjects.
 45-1	7794-7797	All	_
 45-2	7798-7805	primary	_
 45-3	7806-7814	analyses	_
@@ -1384,6 +1429,7 @@
 45-12	7859-7867	subjects	_
 45-13	7868-7869	.	_
 
+Text=Magnetic Resonance Imaging (MRI) data acquisition Task fMRI datasets were acquired as T2 * -weighted images (EPI) on a Siemens 3T Tim Trio MRI whole body scanner equipped with a TEM send-receive radio frequency (RF) head coil, using a 1-shot gradient-echo EPI pulse sequence to measure localized blood oxygenation level dependent (BOLD) contrast.
 46-1	7870-7878	Magnetic	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 46-2	7879-7888	Resonance	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 46-3	7889-7896	Imaging	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -1448,6 +1494,7 @@
 46-62	8216-8224	contrast	_
 46-63	8225-8226	.	_
 
+Text=Acquisition parameters were as follows: TR = 2000 ms, TE = 25 ms, flip angle = 50°, 35 slices tilted by 30° from the horizontal plane; FoV = 192×192 mm; voxel size=3×3×4 mm with a 0.5 mm gap, matrix = 64×64.
 47-1	8227-8238	Acquisition	_
 47-2	8239-8249	parameters	_
 47-3	8250-8254	were	_
@@ -1498,6 +1545,7 @@
 47-48	8435-8440	64×64	_
 47-49	8441-8442	.	_
 
+Text=The fMRI acquisition was preceded by 11s of dummy gradient RF pulses to achieve steady-state tissue magnetization and minimize startle-induced motion.
 48-1	8443-8446	The	_
 48-2	8447-8451	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 48-3	8452-8463	acquisition	_
@@ -1521,6 +1569,7 @@
 48-21	8586-8592	motion	_
 48-22	8593-8594	.	_
 
+Text=Duration for each run acquisition was approximately 9 minutes (243 frames).
 49-1	8595-8603	Duration	_
 49-2	8604-8607	for	_
 49-3	8608-8612	each	_
@@ -1536,6 +1585,7 @@
 49-13	8670-8671	)	_
 49-14	8672-8673	.	_
 
+Text=Low-resolution T1-weighted coplanar images were acquired for each participant.
 50-1	8674-8688	Low-resolution	_
 50-2	8689-8700	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 50-3	8701-8709	coplanar	_
@@ -1547,6 +1597,7 @@
 50-9	8740-8751	participant	_
 50-10	8752-8753	.	_
 
+Text=In addition, a high-resolution magnetization prepared rapid gradient echo (MPRAGE) T1-weighted structural image was acquired from each participant for alignment and tissue segmentation purposes.
 51-1	8754-8756	In	_
 51-2	8757-8765	addition	_
 51-3	8766-8767	,	_
@@ -1576,6 +1627,7 @@
 51-27	8942-8950	purposes	_
 51-28	8951-8952	.	_
 
+Text=The MPRAGE pulse sequence parameters were as follows: TR =2530 ms TE=2.27 ms, flip angle=90, matrix=176×512, 512 slices, final resolution=1×0.5×0.5mm3.
 52-1	8953-8956	The	_
 52-2	8957-8963	MPRAGE	_
 52-3	8964-8969	pulse	_
@@ -1603,6 +1655,7 @@
 52-25	9085-9108	resolution=1×0.5×0.5mm3	_
 52-26	9109-9110	.	_
 
+Text=Head movement during the scanning session was restricted through the placement of padding, to minimize confounding effects on image quality.
 53-1	9111-9115	Head	_
 53-2	9116-9124	movement	_
 53-3	9125-9131	during	_
@@ -1626,6 +1679,7 @@
 53-21	9244-9251	quality	_
 53-22	9252-9253	.	_
 
+Text=E-Prime-2 software (PST, Inc., Pittsburg, PA) synchronized the stimulus display to the fMRI acquisition and recorded participant responses via an MRI-compatible fiber-optic keypad.
 54-1	9254-9263	E-Prime-2	_
 54-2	9264-9272	software	_
 54-3	9273-9274	(	_
@@ -1656,6 +1710,7 @@
 54-28	9432-9438	keypad	_
 54-29	9439-9440	.	_
 
+Text=An LCD projector (Avotec Inc., Stuart, FL) projected visual stimuli onto a rear projection screen, which the participants viewed via a mirror mounted within the head coil.
 55-1	9441-9443	An	_
 55-2	9444-9447	LCD	_
 55-3	9448-9457	projector	_
@@ -1690,6 +1745,7 @@
 55-32	9612-9616	coil	_
 55-33	9617-9618	.	_
 
+Text=MRI data preprocessing The data were processed offline using Analysis of Functional Neuroimages [AFNI version 16.0.13,] software and included the following steps: slice time correction, reorienting of oblique slices to the axial plane, realignment of images, despiking of noise time points, alignment to the subject ’ s T1 image, warping to a Montreal Neurological Institute (MNI) template, removal by regression of signal from white matter and cerebral spinal fluid as well as the six motion covariates, linear detrending, Gaussian smoothing with an 8 mm full-width half-maximum smoothing kernel, and scaling to percent signal change.
 56-1	9619-9622	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 56-2	9623-9627	data	_
 56-3	9628-9641	preprocessing	_
@@ -1801,6 +1857,7 @@
 56-109	10262-10268	change	_
 56-110	10269-10270	.	_
 
+Text=The Artifact Detection Tools toolbox (ART; http: //www.nitrc.org/projects/artifact_detect) was used to identify time points with high amounts of noise according to head motion and global signal intensity measures.
 57-1	10271-10274	The	_
 57-2	10275-10283	Artifact	_
 57-3	10284-10293	Detection	_
@@ -1835,6 +1892,7 @@
 57-32	10479-10487	measures	_
 57-33	10488-10489	.	_
 
+Text=General linear modeling of task activations Task-related activation was detected from the fMRI task design matrix produced using Statistical Parametric Mapping (SPM8) software and analyzed using a general linear modeling approach conducted with restricted maximum likelihood estimation in 3dREMLfit in AFNI.
 58-1	10490-10497	General	_
 58-2	10498-10504	linear	_
 58-3	10505-10513	modeling	_
@@ -1880,6 +1938,7 @@
 58-43	10794-10798	AFNI	_
 58-44	10799-10800	.	_
 
+Text=Task cues were modeled as delta functions and decision-making periods were modeled as short epochs with their onset at the time the Now and Later options appeared and a duration equal to the trial-specific RT.
 59-1	10801-10805	Task	_
 59-2	10806-10810	cues	_
 59-3	10811-10815	were	_
@@ -1917,6 +1976,7 @@
 59-35	11007-11009	RT	_
 59-36	11010-11011	.	_
 
+Text=The six fMRI runs were concatenated to form a single data set.
 60-1	11012-11015	The	_
 60-2	11016-11019	six	_
 60-3	11020-11024	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1931,6 +1991,7 @@
 60-12	11070-11073	set	_
 60-13	11074-11075	.	_
 
+Text=Zero, first, and second order polynomial regressors were specified for each of the six runs to remove trends within and between runs.
 61-1	11076-11080	Zero	_
 61-2	11081-11082	,	_
 61-3	11083-11088	first	_
@@ -1957,6 +2018,7 @@
 61-24	11206-11210	runs	_
 61-25	11211-11212	.	_
 
+Text=Six head motion parameters as well as covariates denoting outlier time points based on the ART analysis were also included in the GLM.
 62-1	11213-11216	Six	_
 62-2	11217-11221	head	_
 62-3	11222-11228	motion	_
@@ -1982,6 +2044,7 @@
 62-23	11343-11346	GLM	_
 62-24	11347-11348	.	_
 
+Text=Beta estimates from WANT trials were contrasted with CON trials to isolate activity specific to making subjective intertemporal reward choices.
 63-1	11349-11353	Beta	_
 63-2	11354-11363	estimates	_
 63-3	11364-11368	from	_
@@ -2004,6 +2067,7 @@
 63-20	11484-11491	choices	_
 63-21	11492-11493	.	_
 
+Text=Voxel-wise relationships with behavior Voxel-wise statistical analyses utilized a permutation-based method that is robust against departures from statistical assumptions required for parametric tests, provides stringent protection against false positives (α = 0.05), and provides comparable or improved Type II error rates over other methods.
 64-1	11494-11504	Voxel-wise	_
 64-2	11505-11518	relationships	_
 64-3	11519-11523	with	_
@@ -2054,6 +2118,7 @@
 64-48	11832-11839	methods	_
 64-49	11840-11841	.	_
 
+Text=The main effect of task was examined using the WANT> CON contrast maps of all 95 subjects calculated from estimations of brain activation using 3dDeconvolve in AFNI; the analysis covaried for age and sex.
 65-1	11842-11845	The	_
 65-2	11846-11850	main	_
 65-3	11851-11857	effect	_
@@ -2092,6 +2157,7 @@
 65-36	12044-12047	sex	_
 65-37	12048-12049	.	_
 
+Text=The neural correlates of Individual differences in impulsive choice were similarly calculated in a voxel-wise permutation test of the relationship between ICR and WANT> CON contrast values, covarying for age and sex.
 66-1	12050-12053	The	_
 66-2	12054-12060	neural	_
 66-3	12061-12071	correlates	_
@@ -2128,6 +2194,7 @@
 66-34	12264-12267	sex	_
 66-35	12268-12269	.	_
 
+Text=These voxel-wise analyses provided results that enable direct comparisons with the existing literature and against which the findings of the network-level analysis could be validated and interpreted.
 67-1	12270-12275	These	_
 67-2	12276-12286	voxel-wise	_
 67-3	12287-12295	analyses	_
@@ -2157,6 +2224,7 @@
 67-27	12457-12468	interpreted	_
 67-28	12469-12470	.	_
 
+Text=ICA approach ICA is a data-driven method for data reduction that has been adopted for use with fMRI data to derive spatially-independent brain networks of functionally connected voxels.
 68-1	12471-12474	ICA	_
 68-2	12475-12483	approach	_
 68-3	12484-12487	ICA	_
@@ -2187,6 +2255,7 @@
 68-28	12649-12655	voxels	_
 68-29	12656-12657	.	_
 
+Text=Data reduction for group fMRI data is often a multi-step process to reduce individual subject four dimensional (spatial and temporal) data into three dimensional principal components, and then an ICA is performed on concatenated principal components to provide a group result.
 69-1	12658-12662	Data	_
 69-2	12663-12672	reduction	_
 69-3	12673-12676	for	_
@@ -2233,6 +2302,7 @@
 69-44	12930-12936	result	_
 69-45	12937-12938	.	_
 
+Text=Components resolved in this fashion from resting-state data are purported to represent intrinsic connectivity networks; however, this approach carries several limitations for task fMRI data.
 70-1	12939-12949	Components	_
 70-2	12950-12958	resolved	_
 70-3	12959-12961	in	_
@@ -2262,6 +2332,7 @@
 70-27	13126-13130	data	_
 70-28	13131-13132	.	_
 
+Text=Since components derived from task-related fMRI time series comprise multiple brain states (i.e.
 71-1	13133-13138	Since	_
 71-2	13139-13149	components	_
 71-3	13150-13157	derived	_
@@ -2278,6 +2349,7 @@
 71-14	13226-13229	i.e	_
 71-15	13230-13231	.	_
 
+Text=passive fixation, task cues, control trials, experimental trials, etc.
 72-1	13232-13239	passive	_
 72-2	13240-13248	fixation	_
 72-3	13249-13250	,	_
@@ -2293,6 +2365,7 @@
 72-13	13302-13305	etc	_
 72-14	13306-13307	.	_
 
+Text=), the interpretation of components derived from such data is less straightforward.
 73-1	13308-13309	)	_
 73-2	13310-13311	,	_
 73-3	13312-13315	the	_
@@ -2308,6 +2381,7 @@
 73-13	13376-13391	straightforward	_
 73-14	13392-13393	.	_
 
+Text=Although these components can be related back to specific task conditions using back reconstruction methods, general linear modeling, and statistical contrasts, the spatial organization of the components is influenced by all constituents of the task regardless of their relevance for the specific task condition or psychological construct of interest.
 74-1	13394-13402	Although	_
 74-2	13403-13408	these	_
 74-3	13409-13419	components	_
@@ -2362,6 +2436,7 @@
 74-52	13739-13747	interest	_
 74-53	13748-13749	.	_
 
+Text=For this study, we sought to examine the neural systems underlying intertemporal reward decision-making.
 75-1	13750-13753	For	_
 75-2	13754-13758	this	_
 75-3	13759-13764	study	_
@@ -2379,6 +2454,7 @@
 75-15	13839-13854	decision-making	_
 75-16	13855-13856	.	_
 
+Text=As such, the WANT> CON contrast maps derived from the voxel-wise GLM analysis (Fig.
 76-1	13857-13859	As	_
 76-2	13860-13864	such	_
 76-3	13865-13866	,	_
@@ -2398,6 +2474,7 @@
 76-17	13939-13942	Fig	_
 76-18	13943-13944	.	_
 
+Text=1A) were entered into an ICA to identify networks of brain regions specific to this decision making process that covary across individuals (Fig.
 77-1	13945-13947	1A	_
 77-2	13948-13949	)	_
 77-3	13950-13954	were	_
@@ -2425,10 +2502,12 @@
 77-25	14087-14090	Fig	_
 77-26	14091-14092	.	_
 
+Text=2A).
 78-1	14093-14095	2A	_
 78-2	14096-14097	)	_
 78-3	14098-14099	.	_
 
+Text=Thus, rather than using a multistep process to identify group components from fMRI time series, we derived components in a single step using the contrast maps from all 95 subjects.
 79-1	14100-14104	Thus	_
 79-2	14105-14106	,	_
 79-3	14107-14113	rather	_
@@ -2463,6 +2542,7 @@
 79-32	14273-14281	subjects	_
 79-33	14282-14283	.	_
 
+Text=The ICA was conducted with the GIFT group ICA toolbox (v3.0a) using the Infomax algorithm following variance normalization.
 80-1	14284-14287	The	_
 80-2	14288-14291	ICA	_
 80-3	14292-14295	was	_
@@ -2485,6 +2565,7 @@
 80-20	14395-14408	normalization	_
 80-21	14409-14410	.	_
 
+Text=We ran 20 ICASSO iterations in a series of analyses solving for 25, 20, 15, or 10 components and determined that solving for 10 components yielded the tightest clustering of results across iterations, suggesting good stability.
 81-1	14411-14413	We	_
 81-2	14414-14417	ran	_
 81-3	14418-14420	20	_
@@ -2527,6 +2608,7 @@
 81-40	14632-14641	stability	_
 81-41	14642-14643	.	_
 
+Text=Thus, we conducted our analysis using 10 independent components.
 82-1	14644-14648	Thus	_
 82-2	14649-14650	,	_
 82-3	14651-14653	we	_
@@ -2539,6 +2621,7 @@
 82-10	14698-14708	components	_
 82-11	14709-14710	.	_
 
+Text=We visually inspected the 10 component spatial maps to identify those representing obvious artifacts, resulting in the removal of three components: two for which peak values were around the outside edges of the brain and one that was focused in the ventricles.
 83-1	14711-14713	We	_
 83-2	14714-14722	visually	_
 83-3	14723-14732	inspected	_
@@ -2585,6 +2668,7 @@
 83-44	14962-14972	ventricles	_
 83-45	14973-14974	.	_
 
+Text=Next we calculated the degree of task-related activation of each of the remaining seven components across subjects.
 84-1	14975-14979	Next	_
 84-2	14980-14982	we	_
 84-3	14983-14993	calculated	_
@@ -2604,6 +2688,7 @@
 84-17	15081-15089	subjects	_
 84-18	15090-15091	.	_
 
+Text=The relationship of each component to intertemporal reward decision-making was tested by regressing component maps on each subject ’ s WANT> CON contrast maps (Fig.
 85-1	15092-15095	The	_
 85-2	15096-15108	relationship	_
 85-3	15109-15111	of	_
@@ -2633,6 +2718,7 @@
 85-27	15254-15257	Fig	_
 85-28	15258-15259	.	_
 
+Text=1C) as an alternative to estimating this relationship with GLM analyses of component time series.
 86-1	15260-15262	1C	_
 86-2	15263-15264	)	_
 86-3	15265-15267	as	_
@@ -2651,6 +2737,7 @@
 86-16	15351-15357	series	_
 86-17	15358-15359	.	_
 
+Text=The resulting contrast estimates were mean and variance normalized by converting them to z-scores.
 87-1	15360-15363	The	_
 87-2	15364-15373	resulting	_
 87-3	15374-15382	contrast	_
@@ -2667,6 +2754,7 @@
 87-14	15449-15457	z-scores	_
 87-15	15458-15459	.	_
 
+Text=Network activation relationships with behavior A group-level statistical measure of WANT> CON component activation was calculated by one-sample t-test of contrast estimates across all 95 subjects.
 88-1	15460-15467	Network	_
 88-2	15468-15478	activation	_
 88-3	15479-15492	relationships	_
@@ -2696,6 +2784,7 @@
 88-27	15648-15656	subjects	_
 88-28	15657-15658	.	_
 
+Text=Additionally, the relationship between individual differences in decision making and task-related component activation was tested using Spearman ’ s partial correlation between ICR and contrast estimates for each component, controlling for age and sex.
 89-1	15659-15671	Additionally	_
 89-2	15672-15673	,	_
 89-3	15674-15677	the	_
@@ -2734,6 +2823,7 @@
 89-36	15909-15912	sex	_
 89-37	15913-15914	.	_
 
+Text=Results were corrected for multiple comparisons using a false discovery rate (FDR) correction.
 90-1	15915-15922	Results	_
 90-2	15923-15927	were	_
 90-3	15928-15937	corrected	_

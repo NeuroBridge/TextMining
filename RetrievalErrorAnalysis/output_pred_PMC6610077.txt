@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Visuospatial task-related prefrontal activity is correlated with negative symptoms in schizophrenia Control of attention is thought to be specifically impaired in schizophrenia due to abnormal function in the prefrontal cortex (PFC).
 1-1	0-12	Visuospatial	_
 1-2	13-25	task-related	_
 1-3	26-36	prefrontal	_
@@ -37,6 +38,7 @@
 1-33	233-234	)	_
 1-34	235-236	.	_
 
+Text=The PFC plays a critical role in the identification of relevant stimuli and the development of appropriate biases for the identified signals, including selection of an appropriate attentional ‘ zoom ’.
 2-1	237-240	The	_
 2-2	241-244	PFC	_
 2-3	245-250	plays	_
@@ -71,6 +73,7 @@
 2-32	437-438	’	_
 2-33	439-440	.	_
 
+Text=We examined how demands associated with changes in attentional requirements in a Sustained Attention Task (SAT) may contribute to differences in functional involvement of the PFC and relation to clinical status.
 3-1	441-443	We	_
 3-2	444-452	examined	_
 3-3	453-456	how	_
@@ -106,6 +109,7 @@
 3-33	647-653	status	_
 3-34	654-655	.	_
 
+Text=A group of 24 individuals with schizophrenia and 16 healthy controls (N = 40) performed the SAT and a visuospatial condition (vSAT) while activity in the bilateral anterior PFC was monitored using functional Near Infrared Spectroscopy (fNIRS).
 4-1	656-657	A	_
 4-2	658-663	group	_
 4-3	664-666	of	_
@@ -151,6 +155,7 @@
 4-43	903-904	)	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalNearInfraredSpectroscopy
 4-44	905-906	.	_
 
+Text=The results confirm that the right frontopolar region plays a role in control of attention for both patients and healthy controls.
 5-1	907-910	The	_
 5-2	911-918	results	_
 5-3	919-926	confirm	_
@@ -174,6 +179,7 @@
 5-21	1028-1036	controls	_
 5-22	1037-1038	.	_
 
+Text=However, patients with schizophrenia exhibited a general attentional deficit and inefficient right-medial PFC activation.
 6-1	1039-1046	However	_
 6-2	1047-1048	,	_
 6-3	1049-1057	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -191,6 +197,7 @@
 6-15	1150-1160	activation	_
 6-16	1161-1162	.	_
 
+Text=Additionally, we observed a strong regional association between left Middle Frontal Gyrus (MFG) activity during the vSAT task and the PANSS score driven by the negative symptom subscale.
 7-1	1163-1175	Additionally	_
 7-2	1176-1177	,	_
 7-3	1178-1180	we	_
@@ -224,6 +231,7 @@
 7-31	1343-1351	subscale	_
 7-32	1352-1353	.	_
 
+Text=The presence of aberrant activation differences within the left-MFG region may describe a dysregulation of attentional networks linked to the clinical expression of negative and general symptoms.
 8-1	1354-1357	The	_
 8-2	1358-1366	presence	_
 8-3	1367-1369	of	_
@@ -253,6 +261,7 @@
 8-27	1540-1548	symptoms	_
 8-28	1549-1550	.	_
 
+Text=Methods Demographic information Participates in this study consisted of 16 healthy controls (10 female) recruited from the local community and 24 patients (16 female) diagnosed with schizophrenia who were recruited from the Shanghai Mental Health Center in Shanghai, China.
 9-1	1551-1558	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 9-2	1559-1570	Demographic	_
 9-3	1571-1582	information	_
@@ -299,6 +308,7 @@
 9-44	1823-1828	China	_
 9-45	1829-1830	.	_
 
+Text=Participants were all native Chinese over 18 years of age who voluntarily gave informed and written consent to participate in the study.
 10-1	1831-1843	Participants	_
 10-2	1844-1848	were	_
 10-3	1849-1852	all	_
@@ -323,6 +333,7 @@
 10-22	1961-1966	study	_
 10-23	1967-1968	.	_
 
+Text=The protocol in this study was reviewed, approved, and carried out according to the guidelines of the IRB of the Shanghai Mental Health.
 11-1	1969-1972	The	_
 11-2	1973-1981	protocol	_
 11-3	1982-1984	in	_
@@ -350,6 +361,7 @@
 11-25	2100-2106	Health	_
 11-26	2107-2108	.	_
 
+Text=No significant differences were found between group age, education, or gender.
 12-1	2109-2111	No	_
 12-2	2112-2123	significant	_
 12-3	2124-2135	differences	_
@@ -365,6 +377,7 @@
 12-13	2182-2188	gender	_
 12-14	2189-2190	.	_
 
+Text=All subjects participated in the HAM-D 24 Depression Scales and HAM-A Anxiety Scales.
 13-1	2191-2194	All	_
 13-2	2195-2203	subjects	_
 13-3	2204-2216	participated	_
@@ -380,6 +393,7 @@
 13-13	2269-2275	Scales	http://maven.renci.org/NeuroBridge/neurobridge#HamiltonAnxietyRatingScale
 13-14	2276-2277	.	_
 
+Text=Patients were assessed according to the PANSS and its subscales.
 14-1	2278-2286	Patients	_
 14-2	2287-2291	were	_
 14-3	2292-2300	assessed	_
@@ -392,6 +406,7 @@
 14-10	2332-2341	subscales	_
 14-11	2342-2343	.	_
 
+Text=Patients scored significantly higher than controls on HAM Depression (p = 0.001) and Anxiety scores (p <0.01) respectively.
 15-1	2344-2352	Patients	_
 15-2	2353-2359	scored	_
 15-3	2360-2373	significantly	_
@@ -417,6 +432,7 @@
 15-23	2459-2471	respectively	_
 15-24	2472-2473	.	_
 
+Text=Demographic information is presented in Table 1.
 16-1	2474-2485	Demographic	_
 16-2	2486-2497	information	_
 16-3	2498-2500	is	_
@@ -426,6 +442,7 @@
 16-7	2520-2521	1	_
 16-8	2522-2523	.	_
 
+Text=Detailed antipsychotic medication at time of testing for participants is listed in Supplementary Table A2.
 17-1	2524-2532	Detailed	_
 17-2	2533-2546	antipsychotic	_
 17-3	2547-2557	medication	_
@@ -443,6 +460,7 @@
 17-15	2627-2629	A2	_
 17-16	2630-2631	.	_
 
+Text=Experimental procedure The SAT was constructed using a custom OpenGL program based on the methodology detailed in Demeter et al ..
 18-1	2632-2644	Experimental	_
 18-2	2645-2654	procedure	_
 18-3	2655-2658	The	_
@@ -465,6 +483,7 @@
 18-20	2757-2759	al	_
 18-21	2760-2762	..	_
 
+Text=Participants were asked to monitor a silver screen (Lum 170) for a signal consisting of the appearance of a small gray square (Lum 107) in the center of the screen for varying durations of 20, 30 or 50 ms (corresponding to 1, 2, and 3 frames at a typical refresh rate of 60 Hz).
 19-1	2763-2775	Participants	_
 19-2	2776-2780	were	_
 19-3	2781-2786	asked	_
@@ -530,6 +549,7 @@
 19-63	3048-3049	)	_
 19-64	3050-3051	.	_
 
+Text=Monitoring times before signal/non-signal presentation were varied pseudo randomly at a 1, 2, or 3 s inter-trial interval, and signal frequency was roughly 50% (Fig.
 20-1	3052-3062	Monitoring	_
 20-2	3063-3068	times	_
 20-3	3069-3075	before	_
@@ -562,10 +582,12 @@
 20-30	3218-3221	Fig	_
 20-31	3222-3223	.	_
 
+Text=1).
 21-1	3224-3225	1	_
 21-2	3226-3227	)	_
 21-3	3228-3229	.	_
 
+Text=100 ms following the appearance or non-appearance of the signal, the subject was informed by an audio cue and asked to denote whether the event was a signal or non-signal using the left and right mouse click respectively.
 22-1	3230-3233	100	_
 22-2	3234-3236	ms	_
 22-3	3237-3246	following	_
@@ -607,6 +629,7 @@
 22-39	3439-3451	respectively	_
 22-40	3452-3453	.	_
 
+Text=The subject then was given 1500 ms to classify the event.
 23-1	3454-3457	The	_
 23-2	3458-3465	subject	_
 23-3	3466-3470	then	_
@@ -620,6 +643,7 @@
 23-11	3505-3510	event	_
 23-12	3511-3512	.	_
 
+Text=Correct classifications were immediately given an audio feedback, while incorrect trials receive no feedback.
 24-1	3513-3520	Correct	_
 24-2	3521-3536	classifications	_
 24-3	3537-3541	were	_
@@ -637,6 +661,7 @@
 24-15	3614-3622	feedback	_
 24-16	3623-3624	.	_
 
+Text=Each task block was preceded by a 30 second resting period and lasted for approximately 120 seconds with approximately 42 stimulus trials in each task block.
 25-1	3625-3629	Each	_
 25-2	3630-3634	task	_
 25-3	3635-3640	block	_
@@ -665,6 +690,7 @@
 25-26	3776-3781	block	_
 25-27	3782-3783	.	_
 
+Text=Following the end of each block, a cumulative performance metric is displayed to the subject.
 26-1	3784-3793	Following	_
 26-2	3794-3797	the	_
 26-3	3798-3801	end	_
@@ -683,6 +709,7 @@
 26-16	3870-3877	subject	_
 26-17	3878-3879	.	_
 
+Text=Each subject performed a total of 4 blocks, with two repetitions for each task type (vSAT & SAT).
 27-1	3880-3884	Each	_
 27-2	3885-3892	subject	_
 27-3	3893-3902	performed	_
@@ -706,6 +733,7 @@
 27-21	3978-3979	)	_
 27-22	3980-3981	.	_
 
+Text=A modification to the SAT, detailed here as vSAT, was used to introduce broadened attentional focus through the introduction of a visuospatial component.
 28-1	3982-3983	A	_
 28-2	3984-3996	modification	_
 28-3	3997-3999	to	_
@@ -733,6 +761,7 @@
 28-25	4127-4136	component	_
 28-26	4137-4138	.	_
 
+Text=The task in vSAT is similar to the VSL-SAT task described by Demeter et al.
 29-1	4139-4142	The	_
 29-2	4143-4147	task	_
 29-3	4148-4150	in	_
@@ -750,6 +779,7 @@
 29-15	4211-4213	al	_
 29-16	4214-4215	.	_
 
+Text=with two modifications intended to increase task difficulty by requiring additional attentional resources.
 30-1	4216-4220	with	_
 30-2	4221-4224	two	_
 30-3	4225-4238	modifications	_
@@ -765,6 +795,7 @@
 30-13	4312-4321	resources	_
 30-14	4322-4323	.	_
 
+Text=Contrast between the silver background and the signal was reduced by using a lighter gray block (Lum 155) to reduce the prominence of the signal.
 31-1	4324-4332	Contrast	_
 31-2	4333-4340	between	_
 31-3	4341-4344	the	_
@@ -794,6 +825,7 @@
 31-27	4464-4470	signal	_
 31-28	4471-4472	.	_
 
+Text=Additionally, signal location was pseudo randomly presented at one of 5 separate locations on the screen (Center, Top-Left, Top-Right, Bottom-Right, and Bottom-Left).
 32-1	4473-4485	Additionally	_
 32-2	4486-4487	,	_
 32-3	4488-4494	signal	_
@@ -825,6 +857,7 @@
 32-29	4644-4645	)	_
 32-30	4646-4647	.	_
 
+Text=An illustration describing the protocol is presented in Fig.
 33-1	4648-4650	An	_
 33-2	4651-4663	illustration	_
 33-3	4664-4674	describing	_
@@ -836,9 +869,11 @@
 33-9	4704-4707	Fig	_
 33-10	4708-4709	.	_
 
+Text=1.
 34-1	4710-4711	1	_
 34-2	4712-4713	.	_
 
+Text=Task performance was assessed using the SAT score, calculated using the methodology defined by Demeter et al ..
 35-1	4714-4718	Task	_
 35-2	4719-4730	performance	_
 35-3	4731-4734	was	_
@@ -859,6 +894,7 @@
 35-18	4821-4823	al	_
 35-19	4824-4826	..	_
 
+Text=This metric, which had been previously identified as the “ Vigilance Index ”, was identified as being comparable to other signal-detection measurements, namely d-prime, and uninfluenced by errors of omission.
 36-1	4827-4831	This	_
 36-2	4832-4838	metric	_
 36-3	4839-4840	,	_
@@ -895,6 +931,7 @@
 36-34	5030-5038	omission	_
 36-35	5039-5040	.	_
 
+Text=SAT score is defined aswhere Hits mean probability of correct signal/non-signal classification and False Alarms denote probability of incorrect signal/non-signal classification.
 37-1	5041-5044	SAT	_
 37-2	5045-5050	score	_
 37-3	5051-5053	is	_
@@ -918,6 +955,7 @@
 37-21	5203-5217	classification	_
 37-22	5218-5219	.	_
 
+Text=SAT score ranges from −1 to + 1, with +1 indicating correct classification of all signal/non-signal events and −1 indicating that all responses were false alarms.
 38-1	5220-5223	SAT	_
 38-2	5224-5229	score	_
 38-3	5230-5236	ranges	_
@@ -947,6 +985,7 @@
 38-27	5376-5382	alarms	_
 38-28	5383-5384	.	_
 
+Text=Additionally, we calculated the Score Difference as a measure of performance changes associated with Task Type manipulation.
 39-1	5385-5397	Additionally	_
 39-2	5398-5399	,	_
 39-3	5400-5402	we	_
@@ -967,6 +1006,7 @@
 39-18	5497-5509	manipulation	_
 39-19	5510-5511	.	_
 
+Text=Score Difference (ScoreDiffvSAT) was calculated as the difference between Score on the vSAT task and the subject ’ s mean SAT score.
 40-1	5512-5517	Score	_
 40-2	5518-5528	Difference	_
 40-3	5529-5530	(	_
@@ -993,6 +1033,7 @@
 40-24	5640-5645	score	_
 40-25	5646-5647	.	_
 
+Text=Larger values of ScoreDiffvSAT are undesirable and would indicate large performance decreases associated with task type variation and increased sensitivity to attentional demand manipulation.
 41-1	5648-5654	Larger	_
 41-2	5655-5661	values	_
 41-3	5662-5664	of	_
@@ -1019,6 +1060,7 @@
 41-24	5826-5838	manipulation	_
 41-25	5839-5840	.	_
 
+Text=fNIRS data acquisition and processing Neuroimaging data was collected for 16 channels at 2 Hz from the anterior PFC (BA 10/46) using the fNIR1100 imager (fNIR Devices, Potomac, MD, USA) using COBI Studio as described in detail at Ayaz et al ..
 42-1	5841-5846	fNIRS	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalNearInfraredSpectroscopy
 42-2	5847-5851	data	_
 42-3	5852-5863	acquisition	_
@@ -1069,6 +1111,7 @@
 42-48	6086-6088	al	_
 42-49	6089-6091	..	_
 
+Text=The fNIRS sensor was symmetrically centered and in line with Fp1 and Fp2 of the international 10–20 system on the subject ’ s forehead.
 43-1	6092-6095	The	_
 43-2	6096-6101	fNIRS	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalNearInfraredSpectroscopy
 43-3	6102-6108	sensor	_
@@ -1095,6 +1138,7 @@
 43-24	6218-6226	forehead	_
 43-25	6227-6228	.	_
 
+Text=The light intensity and detector gain were adjusted during setup to obtain sufficiently high but unsaturated intensity signals according to subject and environmental conditions.
 44-1	6229-6232	The	_
 44-2	6233-6238	light	_
 44-3	6239-6248	intensity	_
@@ -1121,6 +1165,7 @@
 44-24	6395-6405	conditions	_
 44-25	6406-6407	.	_
 
+Text=Channels were visually inspected for signal validity and the signal quality of individual task blocks was assessed and automatically rejected using the criteria adapted from Takizawa et al ..
 45-1	6408-6416	Channels	_
 45-2	6417-6421	were	_
 45-3	6422-6430	visually	_
@@ -1151,6 +1196,7 @@
 45-28	6594-6596	al	_
 45-29	6597-6599	..	_
 
+Text=Surviving blocks were screened for motion artifacts using the SMAR algorithm, and a bandpass filter (0.008–0.25 Hz) was used to reduce high frequency noise associated with respiratory or cardiac function and remove signal drift.
 46-1	6600-6609	Surviving	_
 46-2	6610-6616	blocks	_
 46-3	6617-6621	were	_
@@ -1190,6 +1236,7 @@
 46-37	6825-6830	drift	_
 46-38	6831-6832	.	_
 
+Text=Physiological parameters are calculated using the modified Beer-Lambert Law using the 5 seconds before task initiation as a baseline period.
 47-1	6833-6846	Physiological	_
 47-2	6847-6857	parameters	_
 47-3	6858-6861	are	_
@@ -1212,6 +1259,7 @@
 47-20	6966-6972	period	_
 47-21	6973-6974	.	_
 
+Text=Extracted measures are reported as the fNIRS biomarkers of [HbO], [HbR], and an estimate of relative change in Oxygen availability [Oxy] (calculated as the difference between [HbO] and [HbR]).
 48-1	6975-6984	Extracted	_
 48-2	6985-6993	measures	_
 48-3	6994-6997	are	_
@@ -1257,6 +1305,7 @@
 48-43	7179-7180	)	_
 48-44	7181-7182	.	_
 
+Text=The mean change from the pre-task baseline in fNIRS biomarkers ([HbO], [HbR], and [Oxy]) was assessed as the outcome of interest for statistical tests.
 49-1	7183-7186	The	_
 49-2	7187-7191	mean	_
 49-3	7192-7198	change	_
@@ -1293,6 +1342,7 @@
 49-34	7338-7343	tests	_
 49-35	7344-7345	.	_
 
+Text=Parametric plots for visualization purposes were registered to a virtual brain according to the methodology described in Ayaz et al ..
 50-1	7346-7356	Parametric	_
 50-2	7357-7362	plots	_
 50-3	7363-7366	for	_
@@ -1315,6 +1365,7 @@
 50-20	7475-7477	al	_
 50-21	7478-7480	..	_
 
+Text=Estimated underlying gyri and Brodmann ’ s areas for Optodes 1–16 are described in the Supplementary Materials of Liu et al .. Statistical analysis Data analysis was conducted using R (ver.
 51-1	7481-7490	Estimated	_
 51-2	7491-7501	underlying	_
 51-3	7502-7506	gyri	_
@@ -1349,6 +1400,7 @@
 51-32	7667-7670	ver	_
 51-33	7671-7672	.	_
 
+Text=3.2.2) and SPSS (ver.
 52-1	7673-7678	3.2.2	_
 52-2	7679-7680	)	_
 52-3	7681-7684	and	_
@@ -1357,6 +1409,7 @@
 52-6	7692-7695	ver	_
 52-7	7696-7697	.	_
 
+Text=23.0.0, SPSS Inc.).
 53-1	7698-7704	23.0.0	_
 53-2	7705-7706	,	_
 53-3	7707-7711	SPSS	_
@@ -1364,6 +1417,7 @@
 53-5	7717-7718	)	_
 53-6	7719-7720	.	_
 
+Text=Descriptive demographic and clinical statistics are presented as mean ± standard deviation or as a percentage of cases.
 54-1	7721-7732	Descriptive	_
 54-2	7733-7744	demographic	_
 54-3	7745-7748	and	_
@@ -1384,6 +1438,7 @@
 54-18	7834-7839	cases	_
 54-19	7840-7841	.	_
 
+Text=An alpha level of α = 0.05 was used as the significance criteria for each test.
 55-1	7842-7844	An	_
 55-2	7845-7850	alpha	_
 55-3	7851-7856	level	_
@@ -1402,6 +1457,7 @@
 55-16	7916-7920	test	_
 55-17	7921-7922	.	_
 
+Text=Differences between clinical scores and demographic metrics were tested using the Welch ’ s t-test except for gender distribution which was assessed using the Chi-square test.
 56-1	7923-7934	Differences	_
 56-2	7935-7942	between	_
 56-3	7943-7951	clinical	_
@@ -1430,6 +1486,7 @@
 56-26	8093-8097	test	_
 56-27	8098-8099	.	_
 
+Text=Correlations for continuous variables are reported using Spearman ’ s rank correlation coefficients for identified groups as two-tailed test.
 57-1	8100-8112	Correlations	_
 57-2	8113-8116	for	_
 57-3	8117-8127	continuous	_
@@ -1451,6 +1508,7 @@
 57-19	8236-8240	test	_
 57-20	8241-8242	.	_
 
+Text=Correlational analysis for biomarkers was controlled for Family-wise error rate using a channel-wise false discovery rate (FDR).
 58-1	8243-8256	Correlational	_
 58-2	8257-8265	analysis	_
 58-3	8266-8269	for	_
@@ -1472,6 +1530,7 @@
 58-19	8371-8372	)	_
 58-20	8373-8374	.	_
 
+Text=Comparisons between behavioral results and published results presented in the appendix were made using unpaired t-tests.
 59-1	8375-8386	Comparisons	_
 59-2	8387-8394	between	_
 59-3	8395-8405	behavioral	_
@@ -1490,6 +1549,7 @@
 59-16	8487-8494	t-tests	_
 59-17	8495-8496	.	_
 
+Text=Linear mixed-effects (LME) models were constructed to estimate the effects of task types across subject group as well as clinical covariates on observed behavioral metrics and fNIRS biomarkers.
 60-1	8497-8503	Linear	_
 60-2	8504-8517	mixed-effects	_
 60-3	8518-8519	(	_
@@ -1522,6 +1582,7 @@
 60-30	8681-8691	biomarkers	_
 60-31	8692-8693	.	_
 
+Text=LME models offer significant advantages over repeated measures ANOVA in neuroimaging applications as they do not require equal numbers of observations and allow the models to be fit to individual participants.
 61-1	8694-8697	LME	_
 61-2	8698-8704	models	_
 61-3	8705-8710	offer	_
@@ -1555,6 +1616,7 @@
 61-31	8890-8902	participants	_
 61-32	8903-8904	.	_
 
+Text=Models were analyzed using the maximum likelihood (ML) function and degrees if freedom were approximated using Satterthwaite approximation using the R package “ lme4 ”.
 62-1	8905-8911	Models	_
 62-2	8912-8916	were	_
 62-3	8917-8925	analyzed	_
@@ -1584,6 +1646,7 @@
 62-27	9073-9074	”	_
 62-28	9075-9076	.	_
 
+Text=Significance values were thresholded for family error rate using an optode-wise false discovery rate.
 63-1	9077-9089	Significance	_
 63-2	9090-9096	values	_
 63-3	9097-9101	were	_
@@ -1600,6 +1663,7 @@
 63-14	9173-9177	rate	_
 63-15	9178-9179	.	_
 
+Text=Models here are reported in a similar style to R syntax.
 64-1	9180-9186	Models	_
 64-2	9187-9191	here	_
 64-3	9192-9195	are	_
@@ -1613,6 +1677,7 @@
 64-11	9229-9235	syntax	_
 64-12	9236-9237	.	_
 
+Text=LME models for the dependent behavioral metrics of Response Time and SAT-Score were constructed with Task Type, Clinical Group, and Duration as candidate fixed effects and Subject as a random effect with a slope fit for each Block.
 65-1	9238-9241	LME	_
 65-2	9242-9248	models	_
 65-3	9249-9252	for	_
@@ -1655,6 +1720,7 @@
 65-40	9465-9470	Block	_
 65-41	9471-9472	.	_
 
+Text=Behavioral models were constructed from the initial models: To simplify the interpretation of the behavioral models, terms removed through the examination of the full model permutations and the optimal model based on the Akaike Information Criterion (AIC) was analyzed.
 66-1	9473-9483	Behavioral	_
 66-2	9484-9490	models	_
 66-3	9491-9495	were	_
@@ -1700,6 +1766,7 @@
 66-43	9737-9745	analyzed	_
 66-44	9746-9747	.	_
 
+Text=Models were with an AIC score of difference greater than 2 were considered to be statistically different.
 67-1	9748-9754	Models	_
 67-2	9755-9759	were	_
 67-3	9760-9764	with	_
@@ -1719,6 +1786,7 @@
 67-17	9843-9852	different	_
 67-18	9853-9854	.	_
 
+Text=In order to test the effect of task parameters and clinical status on cerebral hemodynamic biomarkers, [HbO], [Hb], and [Oxy] were assessed as dependent measures in separate LME models.
 68-1	9855-9857	In	_
 68-2	9858-9863	order	_
 68-3	9864-9866	to	_
@@ -1759,6 +1827,7 @@
 68-38	10042-10048	models	_
 68-39	10049-10050	.	_
 
+Text=Three models were constructed in order to examine the general response to task performance (1), performance sensitivity within the vSAT (2), and the contribution of clinical status to observed activity (3).
 69-1	10051-10056	Three	_
 69-2	10057-10063	models	_
 69-3	10064-10068	were	_
@@ -1800,6 +1869,7 @@
 69-39	10263-10264	)	_
 69-40	10265-10266	.	_
 
+Text=In the first model, the presence of group differences during task performance was estimated using Task Type, Score, and Clinical Group as fixed effects: In the second model, the relationship between cerebral hemodynamics during the vSAT and individualized susceptibility to attentional modulation was assessed using Score Difference and Group as fixed effects: In the third model, we examined the influence of clinical status using Task-Type and total PANSS score as fixed effects: Selected fNIRS spatial parametric maps are presented using the calculated F-statistics and thresholded using statistical significance for visualization purposes for individual model parameters.
 70-1	10267-10269	In	_
 70-2	10270-10273	the	_
 70-3	10274-10279	first	_
@@ -1905,6 +1975,7 @@
 70-103	10939-10949	parameters	_
 70-104	10950-10951	.	_
 
+Text=Statistical significance of model fixed effects was assessed using the Satterthwaite approximation for degrees of freedom.
 71-1	10952-10963	Statistical	_
 71-2	10964-10976	significance	_
 71-3	10977-10979	of	_

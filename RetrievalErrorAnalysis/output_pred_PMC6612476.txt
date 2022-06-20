@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Disrupted modulation of thalamus activation and thalamocortical connectivity during dual task performance in schizophrenia Despite considerable evidence showing thalamus anatomy and connectivity abnormalities in schizophrenia, how these abnormalities are reflected in thalamus function during cognition is relatively understudied.
 1-1	0-9	Disrupted	_
 1-2	10-20	modulation	_
 1-3	21-23	of	_
@@ -43,6 +44,7 @@
 1-39	318-330	understudied	_
 1-40	331-332	.	_
 
+Text=Modulation of thalamic connectivity with the prefrontal cortex (PFC) is required for higher-order cognitive processes, which are often impaired in schizophrenia.
 2-1	333-343	Modulation	_
 2-2	344-346	of	_
 2-3	347-355	thalamic	_
@@ -69,6 +71,7 @@
 2-24	483-496	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-25	497-498	.	_
 
+Text=To address this gap, we investigated how thalamus function and thalamus-PFC connectivity under different levels of cognitive demand may be disrupted in schizophrenia.
 3-1	499-501	To	_
 3-2	502-509	address	_
 3-3	510-514	this	_
@@ -95,6 +98,7 @@
 3-24	652-665	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 3-25	666-667	.	_
 
+Text=Participants underwent fMRI scanning while performing an event-related two-alternative forced choice task under Single and Dual task conditions.
 4-1	668-680	Participants	_
 4-2	681-690	underwent	_
 4-3	691-695	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -115,6 +119,7 @@
 4-18	801-811	conditions	_
 4-19	812-813	.	_
 
+Text=In the Single task condition, participants responded either to a visual cue with a well-learned motor response, or an audio cue with a well-learned vocal response.
 5-1	814-816	In	_
 5-2	817-820	the	_
 5-3	821-827	Single	_
@@ -145,6 +150,7 @@
 5-28	970-978	response	_
 5-29	979-980	.	_
 
+Text=In the Dual task condition, participants performed both tasks.
 6-1	981-983	In	_
 6-2	984-987	the	_
 6-3	988-992	Dual	_
@@ -157,6 +163,7 @@
 6-10	1038-1043	tasks	_
 6-11	1044-1045	.	_
 
+Text=Thalamic connectivity with task relevant regions of the PFC for each condition was measured using beta-series correlation.
 7-1	1046-1054	Thalamic	_
 7-2	1055-1067	connectivity	_
 7-3	1068-1072	with	_
@@ -176,6 +183,7 @@
 7-17	1156-1167	correlation	_
 7-18	1168-1169	.	_
 
+Text=Individuals with schizophrenia demonstrated less modulation of both mediodorsal thalamus activation and thalamus-PFC connectivity with increased cognitive demand.
 8-1	1170-1181	Individuals	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-2	1182-1186	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-3	1187-1200	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -196,6 +204,7 @@
 8-18	1325-1331	demand	_
 8-19	1332-1333	.	_
 
+Text=In contrast, their ability to modulate PFC function during task performance was maintained.
 9-1	1334-1336	In	_
 9-2	1337-1345	contrast	_
 9-3	1346-1347	,	_
@@ -212,6 +221,7 @@
 9-14	1415-1425	maintained	_
 9-15	1426-1427	.	_
 
+Text=These results suggest that the pathophysiology of cognitive impairment in schizophrenia is associated with thalamus-PFC circuitry and suggests that the thalamus, along with the PFC, should be a focus of investigation.
 10-1	1428-1433	These	_
 10-2	1434-1441	results	_
 10-3	1442-1449	suggest	_
@@ -247,6 +257,7 @@
 10-33	1633-1646	investigation	_
 10-34	1647-1648	.	_
 
+Text=Method Participants Twenty-two patients with schizophrenia and 24 healthy individuals matched for age, gender, ethnicity and parental education participated in this study.
 11-1	1649-1655	Method	_
 11-2	1656-1668	Participants	_
 11-3	1669-1679	Twenty-two	_
@@ -273,6 +284,7 @@
 11-24	1816-1821	study	_
 11-25	1822-1823	.	_
 
+Text=6 subjects (4 healthy; 2 schizophrenia) were excluded for incomplete data and one healthy individual was removed for excessive head motion.
 12-1	1824-1825	6	_
 12-2	1826-1834	subjects	_
 12-3	1835-1836	(	_
@@ -299,6 +311,7 @@
 12-24	1959-1965	motion	_
 12-25	1966-1967	.	_
 
+Text=Thus, the final sample included 20 schizophrenia patients and 19 healthy individuals.
 13-1	1968-1972	Thus	_
 13-2	1973-1974	,	_
 13-3	1975-1978	the	_
@@ -314,6 +327,7 @@
 13-13	2042-2053	individuals	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 13-14	2054-2055	.	_
 
+Text=Demographics for subjects included in the analyses are presented in Table 1.
 14-1	2056-2068	Demographics	_
 14-2	2069-2072	for	_
 14-3	2073-2081	subjects	_
@@ -328,6 +342,7 @@
 14-12	2130-2131	1	_
 14-13	2132-2133	.	_
 
+Text=Schizophrenia participants were recruited from inpatient and outpatient services at the Vanderbilt Psychiatric Hospital in Nashville, Tennessee, and healthy participants were recruited from Nashville and the surrounding area through advertisement and word-of-mouth.
 15-1	2134-2147	Schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 15-2	2148-2160	participants	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 15-3	2161-2165	were	_
@@ -364,6 +379,7 @@
 15-34	2387-2400	word-of-mouth	_
 15-35	2401-2402	.	_
 
+Text=Our schizophrenia sample consisted of 17 outpatients and 2 inpatients (data from 1 participant was not available).
 16-1	2403-2406	Our	_
 16-2	2407-2420	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 16-3	2421-2427	sample	_
@@ -385,6 +401,7 @@
 16-19	2517-2518	)	_
 16-20	2519-2520	.	_
 
+Text=One patient was unmedicated and 2 were not receiving any antipsychotic medications.
 17-1	2521-2524	One	_
 17-2	2525-2532	patient	_
 17-3	2533-2536	was	_
@@ -399,6 +416,7 @@
 17-12	2592-2603	medications	_
 17-13	2604-2605	.	_
 
+Text=This study was approved by the Vanderbilt University Institutional Review Board and all participants provided written informed consent prior to participating in this study.
 18-1	2606-2610	This	_
 18-2	2611-2616	study	_
 18-3	2617-2620	was	_
@@ -425,6 +443,7 @@
 18-24	2772-2777	study	_
 18-25	2778-2779	.	_
 
+Text=All participants were administered the Structured Clinical Interview for Diagnosing DSM-IV Disorders (SCID:) to confirm diagnosis in patients and rule out current or past psychiatric illness in control subjects.
 19-1	2780-2783	All	_
 19-2	2784-2796	participants	_
 19-3	2797-2801	were	_
@@ -459,6 +478,7 @@
 19-32	2985-2993	subjects	_
 19-33	2994-2995	.	_
 
+Text=Clinical symptoms in patients were quantified with the Positive and Negative Syndrome Scale (PANSS:).
 20-1	2996-3004	Clinical	_
 20-2	3005-3013	symptoms	_
 20-3	3014-3016	in	_
@@ -478,6 +498,7 @@
 20-17	3098-3099	)	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 20-18	3100-3101	.	_
 
+Text=Premorbid IQ was estimated using the Wechsler Test of Adult Reading (WTAR:).
 21-1	3102-3111	Premorbid	_
 21-2	3112-3114	IQ	_
 21-3	3115-3118	was	_
@@ -495,6 +516,7 @@
 21-15	3179-3180	)	_
 21-16	3181-3182	.	_
 
+Text=Exclusion criteria included an estimated premorbid IQ of less than 70, age less than 18 or greater than 60, presence of a systemic medical illness (i.e.
 22-1	3183-3192	Exclusion	_
 22-2	3193-3201	criteria	_
 22-3	3202-3210	included	_
@@ -526,6 +548,7 @@
 22-29	3334-3337	i.e	_
 22-30	3338-3339	.	_
 
+Text=diabetes, cardiovascular or central nervous system disorder that would affect study participation, history of significant head trauma, reported pregnancy or lactation, history of substance abuse/dependence (3-months in patients; lifetime in controls), psychotropic drug use (in healthy individuals), and any MRI contraindications (e.g.
 23-1	3340-3348	diabetes	_
 23-2	3349-3350	,	_
 23-3	3351-3365	cardiovascular	_
@@ -582,6 +605,7 @@
 23-54	3683-3686	e.g	_
 23-55	3687-3688	.	_
 
+Text=metal implants, claustrophobia).
 24-1	3689-3694	metal	_
 24-2	3695-3703	implants	_
 24-3	3704-3705	,	_
@@ -589,6 +613,7 @@
 24-5	3721-3722	)	_
 24-6	3723-3724	.	_
 
+Text=Task On each trial, participants performed either a visuo-motor task where a visual cue was mapped to a motor response, or an audio-vocal task where an audio cue was mapped to a vocal response (Single task condition), or both tasks with a 0 ms stimulus onset asynchrony (Dual task condition).
 25-1	3725-3729	Task	_
 25-2	3730-3732	On	_
 25-3	3733-3737	each	_
@@ -648,6 +673,7 @@
 25-57	4022-4023	)	_
 25-58	4024-4025	.	_
 
+Text=Both visuo-motor and audio-vocal tasks were two-alternative forced choice tasks, mapping two stimuli to two responses.
 26-1	4026-4030	Both	_
 26-2	4031-4042	visuo-motor	_
 26-3	4043-4046	and	_
@@ -667,6 +693,7 @@
 26-17	4135-4144	responses	_
 26-18	4145-4146	.	_
 
+Text=The visual stimuli were two greyscale male faces controlled for skin tone, hair color, neutral facial expression and hairline on a grey background.
 27-1	4147-4150	The	_
 27-2	4151-4157	visual	_
 27-3	4158-4165	stimuli	_
@@ -694,6 +721,7 @@
 27-25	4285-4295	background	_
 27-26	4296-4297	.	_
 
+Text=Participants responded to each face by pressing a button with either their right index or middle finger.
 28-1	4298-4310	Participants	_
 28-2	4311-4320	responded	_
 28-3	4321-4323	to	_
@@ -713,6 +741,7 @@
 28-17	4395-4401	finger	_
 28-18	4402-4403	.	_
 
+Text=The audio-vocal task consisted of two easily discriminable sounds (a complex tone and an edited natural sound) used previously in, each paired with a “ Tay ” or a “ Koo ” vocal response.
 29-1	4404-4407	The	_
 29-2	4408-4419	audio-vocal	_
 29-3	4420-4424	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -752,6 +781,7 @@
 29-37	4584-4592	response	_
 29-38	4593-4594	.	_
 
+Text=On Single trials, one visual or auditory stimulus was presented for 200 ms, on Dual trials, both the visual and auditory stimuli were presented simultaneously.
 30-1	4595-4597	On	_
 30-2	4598-4604	Single	_
 30-3	4605-4611	trials	_
@@ -782,6 +812,7 @@
 30-28	4742-4756	simultaneously	_
 30-29	4757-4758	.	_
 
+Text=All trials were preceded by a 200 ms warning fixation and followed by a 12000 ms inter-trial interval (see Figure 1A for schematic).
 31-1	4759-4762	All	_
 31-2	4763-4769	trials	_
 31-3	4770-4774	were	_
@@ -809,6 +840,7 @@
 31-25	4891-4892	)	_
 31-26	4893-4894	.	_
 
+Text=Participants completed a total of 5 runs while undergoing fMRI scanning with each run consisting of 12 Single (6 visuomotor and 6 audio-vocal) and 12 Dual trials.
 32-1	4895-4907	Participants	_
 32-2	4908-4917	completed	_
 32-3	4918-4919	a	_
@@ -840,6 +872,7 @@
 32-29	5052-5058	trials	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
 32-30	5059-5060	.	_
 
+Text=Data acquisition Imaging data were collected on a 3T Philips Intera Achieva scanner located at the Vanderbilt University Institute of Imaging Science.
 33-1	5061-5065	Data	_
 33-2	5066-5077	acquisition	_
 33-3	5078-5085	Imaging	_
@@ -864,6 +897,7 @@
 33-22	5203-5210	Science	_
 33-23	5211-5212	.	_
 
+Text=High resolution T1 structural scans were collected with a 4.5 minute 3D T1 fast field echo sequence (170 slices, TR/TE = 8.9/4.6, FOV = 256 × 256 × 170 mm, matrix = 256 × 256 × 170, flip angle = 8°).
 34-1	5213-5217	High	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 34-2	5218-5228	resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 34-3	5229-5231	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -913,6 +947,7 @@
 34-47	5416-5417	)	_
 34-48	5418-5419	.	_
 
+Text=Echo-planar imaging functional scans were collected while participants performed the behavioral task (38 slices, TR/TE = 2000/25 ms, FOV = 240 × 240 mm, matrix = 80 × 80, slice thickness = 3 mm with 0.3 mm gap, flip angle = 90°, volumes = 203).
 35-1	5420-5431	Echo-planar	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 35-2	5432-5439	imaging	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 35-3	5440-5450	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -968,6 +1003,7 @@
 35-53	5670-5671	)	_
 35-54	5672-5673	.	_
 
+Text=Data analyses Neuroimaging preprocessing and subsequent analyses were carried out using SPM12 (version 7219) in Matlab (R2017b; MathWorks, USA).
 36-1	5674-5678	Data	_
 36-2	5679-5687	analyses	_
 36-3	5688-5700	Neuroimaging	_
@@ -995,6 +1031,7 @@
 36-25	5822-5823	)	_
 36-26	5824-5825	.	_
 
+Text=T1 structural images were skull stripped then segmented into grey and white matter tissue classes and normalized to MNI space using the CAT12 computational anatomy toolbox for SPM with default settings.
 37-1	5826-5828	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 37-2	5829-5839	structural	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 37-3	5840-5846	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1028,6 +1065,7 @@
 37-31	6019-6027	settings	_
 37-32	6028-6029	.	_
 
+Text=Functional data underwent slice timing correction, motion correction followed by co-registration to the grey matter tissue segmentation.
 38-1	6030-6040	Functional	_
 38-2	6041-6045	data	_
 38-3	6046-6055	underwent	_
@@ -1048,6 +1086,7 @@
 38-18	6154-6166	segmentation	_
 38-19	6167-6168	.	_
 
+Text=Deformation parameters from the structural normalization were then applied to all functional images, which were then smoothed with a 6 mm Gaussian kernel.
 39-1	6169-6180	Deformation	_
 39-2	6181-6191	parameters	_
 39-3	6192-6196	from	_
@@ -1074,6 +1113,7 @@
 39-24	6317-6323	kernel	_
 39-25	6324-6325	.	_
 
+Text=For each subject, runs with motion larger than 3 mm in the x, y or z dimensions relative to the first volume in each run were excluded from further analysis.
 40-1	6326-6329	For	_
 40-2	6330-6334	each	_
 40-3	6335-6342	subject	_
@@ -1108,6 +1148,7 @@
 40-32	6476-6484	analysis	_
 40-33	6485-6486	.	_
 
+Text=A total of 12 runs were excluded for excessive motion, with no subject having more than 2 of their 5 runs removed.
 41-1	6487-6488	A	_
 41-2	6489-6494	total	_
 41-3	6495-6497	of	_
@@ -1133,6 +1174,7 @@
 41-23	6594-6601	removed	_
 41-24	6602-6603	.	_
 
+Text=A General Linear Model (GLM) was created for each subject with regressors defined separately for correct and incorrect Single and Dual trial onsets, convolved to a canonical hemodynamic response function.
 42-1	6604-6605	A	_
 42-2	6606-6613	General	_
 42-3	6614-6620	Linear	_
@@ -1168,6 +1210,7 @@
 42-33	6802-6810	function	_
 42-34	6811-6812	.	_
 
+Text=In addition, the model included covariates of no interest to account for the effect of 6 motion parameters (x, y, z, translation and roll, yaw and pitch).
 43-1	6813-6815	In	_
 43-2	6816-6824	addition	_
 43-3	6825-6826	,	_
@@ -1204,6 +1247,7 @@
 43-34	6972-6973	)	_
 43-35	6974-6975	.	_
 
+Text=Vocal artifacts are limited to the first couple of seconds of responding and has limited effect on later hemodynamic response.
 44-1	6976-6981	Vocal	_
 44-2	6982-6991	artifacts	_
 44-3	6992-6995	are	_
@@ -1226,6 +1270,7 @@
 44-20	7093-7101	response	_
 44-21	7102-7103	.	_
 
+Text=For each individual, estimated parameters of the regressors (beta weights) were calculated for each voxel using the GLM and were used in t-tests to assess the main effect of correct Dual> Single trials.
 45-1	7104-7107	For	_
 45-2	7108-7112	each	_
 45-3	7113-7123	individual	_
@@ -1265,6 +1310,7 @@
 45-37	7303-7309	trials	_
 45-38	7310-7311	.	_
 
+Text=Within group analyses were conducted separately for healthy and schizophrenia groups using subject level Dual> Single contrast images.
 46-1	7312-7318	Within	_
 46-2	7319-7324	group	_
 46-3	7325-7333	analyses	_
@@ -1286,6 +1332,7 @@
 46-19	7440-7446	images	_
 46-20	7447-7448	.	_
 
+Text=Between group analyses were investigated for the Dual> Single contrast images from each individual using subject as a random effect.
 47-1	7449-7456	Between	_
 47-2	7457-7462	group	_
 47-3	7463-7471	analyses	_
@@ -1309,6 +1356,7 @@
 47-21	7575-7581	effect	_
 47-22	7582-7583	.	_
 
+Text=This analysis identifies regions that show a condition by group interaction.
 48-1	7584-7588	This	_
 48-2	7589-7597	analysis	_
 48-3	7598-7608	identifies	_
@@ -1322,6 +1370,7 @@
 48-11	7648-7659	interaction	_
 48-12	7660-7661	.	_
 
+Text=As we were interested in how the two groups differ in task relevant brain regions, whole brain group comparisons were masked for the Dual> Single contrast, collapsed across all subjects (thresholded at p <0.05, uncorrected).
 49-1	7662-7664	As	_
 49-2	7665-7667	we	_
 49-3	7668-7672	were	_
@@ -1366,6 +1415,7 @@
 49-42	7891-7892	)	_
 49-43	7893-7894	.	_
 
+Text=For all masked analyses, we used small volume correction (SVC) to define cluster level significance.
 50-1	7895-7898	For	_
 50-2	7899-7902	all	_
 50-3	7903-7909	masked	_
@@ -1386,6 +1436,7 @@
 50-18	7985-7997	significance	_
 50-19	7998-7999	.	_
 
+Text=All contrasts used a voxel wise threshold of p <0.005 to detect cluster level significance.
 51-1	8000-8003	All	_
 51-2	8004-8013	contrasts	_
 51-3	8014-8018	used	_
@@ -1404,6 +1455,7 @@
 51-16	8079-8091	significance	_
 51-17	8092-8093	.	_
 
+Text=Region-of-Interest Analysis: PFC and Thalamus To further investigate PFC activation and thalamus-PFC connectivity, we defined 4 PFC regions of interest (ROIs) based on task activations.
 52-1	8094-8112	Region-of-Interest	_
 52-2	8113-8121	Analysis	_
 52-3	8122-8123	:	_
@@ -1435,6 +1487,7 @@
 52-29	8271-8282	activations	_
 52-30	8283-8284	.	_
 
+Text=First, a prefrontal cortex mask was created using the frontal pole, superior frontal gyrus, middle frontal gyrus, inferior frontal gyrus pars triangularis and pars opercularis ROIs from the Harvard-Oxford cortical atlas (; https: //fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases).
 53-1	8285-8290	First	_
 53-2	8291-8292	,	_
 53-3	8293-8294	a	_
@@ -1478,6 +1531,7 @@
 53-41	8562-8563	)	_
 53-42	8564-8565	.	_
 
+Text=All significant clusters in the Dual> Single contrast (collapsed across all subjects, p <0.05, FDRSVC) falling within this PFC mask were extracted.
 54-1	8566-8569	All	_
 54-2	8570-8581	significant	_
 54-3	8582-8590	clusters	_
@@ -1508,6 +1562,7 @@
 54-28	8709-8718	extracted	_
 54-29	8719-8720	.	_
 
+Text=A total of 4 ROIs were defined this way.
 55-1	8721-8722	A	_
 55-2	8723-8728	total	_
 55-3	8729-8731	of	_
@@ -1519,6 +1574,7 @@
 55-9	8757-8760	way	_
 55-10	8761-8762	.	_
 
+Text=They included the midline (pre) supplementary motor area (pre-SMA/SMA; −4, 10, 56; 357 voxels), left frontal eye fields (FEF; −32, 0, 52; 367 voxels), right lateral PFC (LPFC; 42, 10, 24; 402 voxels) and the left LPFC (40, 15, 22; 97 voxels).
 56-1	8763-8767	They	_
 56-2	8768-8776	included	_
 56-3	8777-8780	the	_
@@ -1590,6 +1646,7 @@
 56-69	9030-9031	)	_
 56-70	9032-9033	.	_
 
+Text=For the all PFC ROI analyses, reported p-values were adjusted for Bonferroni corrected values based on 4 tests conducted.
 57-1	9034-9037	For	_
 57-2	9038-9041	the	_
 57-3	9042-9045	all	_
@@ -1612,6 +1669,7 @@
 57-20	9146-9155	conducted	_
 57-21	9156-9157	.	_
 
+Text=For the thalamus, the voxel-wise between groups analysis was masked with a bilateral thalamus mask composed of the left and right thalamus from the Harvard-Oxford atlas.
 58-1	9158-9161	For	_
 58-2	9162-9165	the	_
 58-3	9166-9174	thalamus	_
@@ -1641,6 +1699,7 @@
 58-27	9322-9327	atlas	_
 58-28	9328-9329	.	_
 
+Text=To further investigate activation patterns across different thalamic regions, we used the Morel atlas to define 3 thalamic regions covering the mediodorsal nucleus (MD; 236 voxels), the pulvinar (PUL; 543 voxels) and the ventrolateral nucleus (VL; 361 voxels).
 59-1	9330-9332	To	_
 59-2	9333-9340	further	_
 59-3	9341-9352	investigate	_
@@ -1692,6 +1751,7 @@
 59-49	9599-9600	)	_
 59-50	9601-9602	.	_
 
+Text=These 4 thalamus ROIs are presented in Supplementary Figure 1.
 60-1	9603-9608	These	_
 60-2	9609-9610	4	_
 60-3	9611-9619	thalamus	_
@@ -1704,6 +1764,7 @@
 60-10	9663-9664	1	_
 60-11	9665-9666	.	_
 
+Text=To correct for multiple thalamic regions, we report Bonferroni corrected p-values based on 3 tests conducted.
 61-1	9667-9669	To	_
 61-2	9670-9677	correct	_
 61-3	9678-9681	for	_
@@ -1723,6 +1784,7 @@
 61-17	9767-9776	conducted	_
 61-18	9777-9778	.	_
 
+Text=To ensure that these effects were not driven by differences in performance, a secondary set of analyses including only high performing subjects was also conducted (see Supplementary Table 3).
 62-1	9779-9781	To	_
 62-2	9782-9788	ensure	_
 62-3	9789-9793	that	_
@@ -1757,6 +1819,7 @@
 62-32	9971-9972	)	_
 62-33	9973-9974	.	_
 
+Text=Beta-series Connectivity Task connectivity was conducted using the beta-series correlation analysis method.
 63-1	9975-9986	Beta-series	_
 63-2	9987-9999	Connectivity	_
 63-3	10000-10004	Task	_
@@ -1771,6 +1834,7 @@
 63-12	10075-10081	method	_
 63-13	10082-10083	.	_
 
+Text=Beta-series connectivity refers to a method of examining task connectivity by isolating a brain region ’ s response to an event in a task (e.g.
 64-1	10084-10095	Beta-series	_
 64-2	10096-10108	connectivity	_
 64-3	10109-10115	refers	_
@@ -1799,6 +1863,7 @@
 64-26	10224-10227	e.g	_
 64-27	10228-10229	.	_
 
+Text=cue presentation) and then characterizing the covariance between task response in other brain regions, separately for each condition of interest.
 65-1	10230-10233	cue	_
 65-2	10234-10246	presentation	_
 65-3	10247-10248	)	_
@@ -1823,6 +1888,7 @@
 65-22	10368-10376	interest	_
 65-23	10377-10378	.	_
 
+Text=Beta-series differs from the more conventional psychophysiological interactions (PPI) method for investigating task connectivity in that power is derived from the number of trials/events presented, rather than based on time course correlations.
 66-1	10379-10390	Beta-series	_
 66-2	10391-10398	differs	_
 66-3	10399-10403	from	_
@@ -1860,6 +1926,7 @@
 66-35	10613-10625	correlations	_
 66-36	10626-10627	.	_
 
+Text=In designs with many trials (> 30) and short events, beta-series provides superior power to detect connectivity than PPI.
 67-1	10628-10630	In	_
 67-2	10631-10638	designs	_
 67-3	10639-10643	with	_
@@ -1884,6 +1951,7 @@
 67-22	10748-10751	PPI	_
 67-23	10752-10753	.	_
 
+Text=We constructed a GLM model including a regressor per trial to compute a separate parameter estimate (beta value) for each trial, resulting in 120 covariates of interest entered into the GLM (60 Single and 60 Dual trials).
 68-1	10754-10756	We	_
 68-2	10757-10768	constructed	_
 68-3	10769-10770	a	_
@@ -1928,6 +1996,7 @@
 68-42	10978-10979	)	_
 68-43	10980-10981	.	_
 
+Text=The GLM also included covariates of no interest to model the effects of shifting signal levels across runs and 6 motion parameters.
 69-1	10982-10985	The	_
 69-2	10986-10989	GLM	_
 69-3	10990-10994	also	_
@@ -1952,6 +2021,7 @@
 69-22	11102-11112	parameters	_
 69-23	11113-11114	.	_
 
+Text=This GLM resulted in a unique set of 120 beta values for each voxel in the brain.
 70-1	11115-11119	This	_
 70-2	11120-11123	GLM	_
 70-3	11124-11132	resulted	_
@@ -1971,6 +2041,7 @@
 70-17	11190-11195	brain	_
 70-18	11196-11197	.	_
 
+Text=Beta values from correct trials were sorted into Single and Dual ‘ beta series ’ for each voxel in the brain.
 71-1	11198-11202	Beta	_
 71-2	11203-11209	values	_
 71-3	11210-11214	from	_
@@ -1994,6 +2065,7 @@
 71-21	11301-11306	brain	_
 71-22	11307-11308	.	_
 
+Text=The task-based thalamus region from the between groups comparison of the Dual> Single contrast was used as a seed.
 72-1	11309-11312	The	_
 72-2	11313-11323	task-based	_
 72-3	11324-11332	thalamus	_
@@ -2016,6 +2088,7 @@
 72-20	11419-11423	seed	_
 72-21	11424-11425	.	_
 
+Text=Connectivity between this thalamus seed and each PFC ROI was calculated for the Dual and Single conditions by correlating their respective beta series.
 73-1	11426-11438	Connectivity	_
 73-2	11439-11446	between	_
 73-3	11447-11451	this	_
@@ -2041,6 +2114,7 @@
 73-23	11570-11576	series	_
 73-24	11577-11578	.	_
 
+Text=Additional analyses examining beta series connectivity from the MD, PUL and VL to the left LPFC are included in Supplementary Figure 2.
 74-1	11579-11589	Additional	_
 74-2	11590-11598	analyses	_
 74-3	11599-11608	examining	_

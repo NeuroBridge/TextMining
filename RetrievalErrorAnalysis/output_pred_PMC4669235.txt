@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Model-Free Functional Connectivity and Impulsivity Correlates of Alcohol Dependence: A Resting-State Study Background Alcohol dependence is characterized by impulsiveness toward consumption despite negative consequences.
 1-1	0-10	Model-Free	_
 1-2	11-21	Functional	_
 1-3	22-34	Connectivity	_
@@ -29,6 +30,7 @@
 1-25	208-220	consequences	_
 1-26	221-222	.	_
 
+Text=Although neuroimaging studies have implicated some regions underlying this disorder, there is little information regarding its large-scale connectivity pattern.
 2-1	223-231	Although	_
 2-2	232-244	neuroimaging	_
 2-3	245-252	studies	_
@@ -51,6 +53,7 @@
 2-20	376-383	pattern	_
 2-21	384-385	.	_
 
+Text=This study investigated the within- and between-network functional connectivity (FC) in alcohol dependence and examined its relationship with clinical impulsivity measures.
 3-1	386-390	This	_
 3-2	391-396	study	_
 3-3	397-409	investigated	_
@@ -76,6 +79,7 @@
 3-23	551-559	measures	_
 3-24	560-561	.	_
 
+Text=Methods Using Probabilistic Independent Component Analysis (PICA) on resting-state fMRI (rs-fMRI) data from 25 alcohol dependent (AD) and 26 healthy control (HC) participants, we compared the within- and between-network FC between AD and HC.
 4-1	562-569	Methods	_
 4-2	570-575	Using	_
 4-3	576-589	Probabilistic	_
@@ -121,6 +125,7 @@
 4-43	809-811	HC	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 4-44	812-813	.	_
 
+Text=Then, the relationship between FC and impulsiveness as measured by the Barratt Impulsiveness Scale (BIS-11), the UPPS-P Impulsive Scale and the delay-discounting task (DDT) was explored.
 5-1	814-818	Then	_
 5-2	819-820	,	_
 5-3	821-824	the	_
@@ -155,6 +160,7 @@
 5-32	997-1005	explored	_
 5-33	1006-1007	.	_
 
+Text=Results Compared to HC, AD exhibited increased within-network FC in salience (SN), default-mode (DMN), orbitofrontal cortex (OFCN), left executive control (LECN) and amygdala-striatum (ASN) networks.
 6-1	1008-1015	Results	_
 6-2	1016-1024	Compared	_
 6-3	1025-1027	to	_
@@ -196,6 +202,7 @@
 6-39	1212-1220	networks	_
 6-40	1221-1222	.	_
 
+Text=Increased between-network FC was found among LECN, ASN and SN.
 7-1	1223-1232	Increased	_
 7-2	1233-1248	between-network	_
 7-3	1249-1251	FC	_
@@ -209,6 +216,7 @@
 7-11	1283-1285	SN	_
 7-12	1286-1287	.	_
 
+Text=Between-network FC correlations were significantly negative between Negative-Urgency and OFCN pairs with RECN, anterior DMN (aDMN), and posterior DMN (pDMN) in AD.
 8-1	1288-1303	Between-network	_
 8-2	1304-1306	FC	_
 8-3	1307-1319	correlations	_
@@ -239,6 +247,7 @@
 8-28	1454-1456	AD	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 8-29	1457-1458	.	_
 
+Text=DDT was significantly correlated with the between-network FC among the LECN, aDMN and SN in AD.
 9-1	1459-1462	DDT	_
 9-2	1463-1466	was	_
 9-3	1467-1480	significantly	_
@@ -258,6 +267,7 @@
 9-17	1552-1554	AD	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 9-18	1555-1556	.	_
 
+Text=Conclusions These findings add evidence to the concept of altered within-network FC and also highlight the role of between-network FC in the pathophysiology of AD.
 10-1	1557-1568	Conclusions	_
 10-2	1569-1574	These	_
 10-3	1575-1583	findings	_
@@ -285,6 +295,7 @@
 10-25	1717-1719	AD	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 10-26	1720-1721	.	_
 
+Text=Additionally, this study suggests differential neurobiological bases for different clinical measures of impulsivity that may be used as a systems-level biomarker for alcohol dependence severity and treatment efficacy.
 11-1	1722-1734	Additionally	_
 11-2	1735-1736	,	_
 11-3	1737-1741	this	_
@@ -316,6 +327,7 @@
 11-29	1931-1939	efficacy	_
 11-30	1940-1941	.	_
 
+Text=Methods and Materials 2.1 Participants Twenty-five alcohol-dependent (AD) subjects (8 females) with an average age of 31.9 years (range: 21 to 44, std: 7.7) and 26 healthy controls (HC) subjects (15 females) with mean age at examination of 26.3 years (range: 22 to 37, std: 3.9) were examined (Table 1).
 12-1	1942-1949	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	1950-1953	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	1954-1963	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -388,6 +400,7 @@
 12-70	2263-2264	)	_
 12-71	2265-2266	.	_
 
+Text=Healthy controls were recruited through newspaper advertisements and information notices distributed in the Washington, D.C. metropolitan area.
 13-1	2267-2274	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 13-2	2275-2283	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 13-3	2284-2288	were	_
@@ -408,6 +421,7 @@
 13-18	2406-2410	area	_
 13-19	2411-2412	.	_
 
+Text=Subjects comprising the alcohol-dependent group were recruited from the inpatient alcohol treatment unit at the National Institutes of Health Clinical Research Center in Bethesda, Maryland.
 14-1	2413-2421	Subjects	_
 14-2	2422-2432	comprising	_
 14-3	2433-2436	the	_
@@ -436,6 +450,7 @@
 14-26	2594-2602	Maryland	_
 14-27	2603-2604	.	_
 
+Text=Written informed consent to the study was obtained from all of subjects, which was approved by the Institutional Review Board of the National Institute on Alcohol Abuse and Alcoholism.
 15-1	2605-2612	Written	_
 15-2	2613-2621	informed	_
 15-3	2622-2629	consent	_
@@ -468,6 +483,7 @@
 15-30	2779-2789	Alcoholism	_
 15-31	2790-2791	.	_
 
+Text=2.2 Assessments The Structured Clinical Interview for DSM-IV-TR (SCID) was administered to all participants to determine diagnoses of alcohol dependence as well as other substance use and psychiatric disorders.
 16-1	2792-2795	2.2	_
 16-2	2796-2807	Assessments	_
 16-3	2808-2811	The	_
@@ -501,6 +517,7 @@
 16-31	2994-3003	disorders	_
 16-32	3004-3005	.	_
 
+Text=The Wechsler Adult Intelligence Scale (WAIS-III) was administered to determine the intelligence quotient (IQ) of all participants.
 17-1	3006-3009	The	_
 17-2	3010-3018	Wechsler	http://maven.renci.org/NeuroBridge/neurobridge#DigitSymbolSubstitutionOfTheWechslerAdultIntelligenceScaleRevised
 17-3	3019-3024	Adult	http://maven.renci.org/NeuroBridge/neurobridge#DigitSymbolSubstitutionOfTheWechslerAdultIntelligenceScaleRevised
@@ -524,6 +541,7 @@
 17-21	3127-3139	participants	_
 17-22	3140-3141	.	_
 
+Text=A 90 day Timeline Followback (TLFB) calendar was used to measure the frequency and amount of drinking for all subjects.
 18-1	3142-3143	A	_
 18-2	3144-3146	90	_
 18-3	3147-3150	day	_
@@ -548,6 +566,7 @@
 18-22	3254-3262	subjects	_
 18-23	3263-3264	.	_
 
+Text=The first dimension of impulsivity, trait-impulsivity, was measured by the Barratt Impulsiveness Scale (BIS-11), which is one of the most widely-used self-report measures of trait-impulsivity, refers to aspects of inattention, spontaneous actions, and lack of forethought.
 19-1	3265-3268	The	_
 19-2	3269-3274	first	_
 19-3	3275-3284	dimension	_
@@ -594,6 +613,7 @@
 19-44	3533-3544	forethought	_
 19-45	3545-3546	.	_
 
+Text=Another one is the UPPS-P Impulsive Behavior Scale (UPPS).
 20-1	3547-3554	Another	_
 20-2	3555-3558	one	_
 20-3	3559-3561	is	_
@@ -607,6 +627,7 @@
 20-11	3605-3606	)	http://maven.renci.org/NeuroBridge/neurobridge#FetalAlcoholBehaviorScale
 20-12	3607-3608	.	_
 
+Text=This scale measures impulsivity across the Five-Factor Model of personality, measuring in this way distinct personality traits that lead to impulsive behavior.
 21-1	3609-3613	This	_
 21-2	3614-3619	scale	_
 21-3	3620-3628	measures	_
@@ -632,6 +653,7 @@
 21-23	3760-3768	behavior	_
 21-24	3769-3770	.	_
 
+Text=It includes Urgency (negative) (UPPS (−)), Premeditation (lack of), Perseverance (lack of), Sensation-seeking, and Positive-urgency (UPPS (+)).
 22-1	3771-3773	It	_
 22-2	3774-3782	includes	_
 22-3	3783-3790	Urgency	_
@@ -669,6 +691,7 @@
 22-35	3930-3931	)	_
 22-36	3932-3933	.	_
 
+Text=Second dimension of impulsivity is choice impulsivity.
 23-1	3934-3940	Second	_
 23-2	3941-3950	dimension	_
 23-3	3951-3953	of	_
@@ -678,6 +701,7 @@
 23-7	3976-3987	impulsivity	_
 23-8	3988-3989	.	_
 
+Text=This deficiency was measured by delay discounting task (DDT).
 24-1	3990-3994	This	_
 24-2	3995-4005	deficiency	_
 24-3	4006-4009	was	_
@@ -691,6 +715,7 @@
 24-11	4051-4052	)	http://maven.renci.org/NeuroBridge/neurobridge#GoNoGoTask
 24-12	4053-4054	.	_
 
+Text=The DDT measures impulsivity by presenting the subject with an option between receiving a smaller immediate monetary reward or a potentially greater delayed reward.
 25-1	4055-4058	The	_
 25-2	4059-4062	DDT	_
 25-3	4063-4071	measures	_
@@ -717,6 +742,7 @@
 25-24	4212-4218	reward	_
 25-25	4219-4220	.	_
 
+Text=Participants were presented with a choice between an immediate reward and a fixed larger ($100) but delayed (zero to 30 days) rewards.
 26-1	4221-4233	Participants	_
 26-2	4234-4238	were	_
 26-3	4239-4248	presented	_
@@ -746,6 +772,7 @@
 26-27	4352-4359	rewards	_
 26-28	4360-4361	.	_
 
+Text=Accordingly, a discounting factor k represents the rate of discounting of the delayed outcome.
 27-1	4362-4373	Accordingly	_
 27-2	4374-4375	,	_
 27-3	4376-4377	a	_
@@ -763,6 +790,7 @@
 27-15	4449-4456	outcome	_
 27-16	4457-4458	.	_
 
+Text=As k values are not normally distributed, a natural log-transformation is usually applied and the ln (k) is used for the analyses.
 28-1	4459-4461	As	_
 28-2	4462-4463	k	_
 28-3	4464-4470	values	_
@@ -790,6 +818,7 @@
 28-25	4583-4591	analyses	_
 28-26	4592-4593	.	_
 
+Text=Higher ln (k) values mean greater preference for immediate rewards.
 29-1	4594-4600	Higher	_
 29-2	4601-4603	ln	_
 29-3	4604-4605	(	_
@@ -804,6 +833,7 @@
 29-12	4655-4662	rewards	_
 29-13	4663-4664	.	_
 
+Text=A smoking questionnaire helped to determine the amount and frequency of a participant ’ s cigarette use.
 30-1	4665-4666	A	_
 30-2	4667-4674	smoking	_
 30-3	4675-4688	questionnaire	_
@@ -823,6 +853,7 @@
 30-17	4765-4768	use	_
 30-18	4769-4770	.	_
 
+Text=2.3 Exclusionary criteria Exclusionary criteria included pregnancy, claustrophobia, significant neurological, or medical diagnoses.
 31-1	4771-4774	2.3	_
 31-2	4775-4787	Exclusionary	_
 31-3	4788-4796	criteria	_
@@ -841,6 +872,7 @@
 31-16	4895-4904	diagnoses	_
 31-17	4905-4906	.	_
 
+Text=Participants were instructed not to consume any alcohol for 24 hours and no more than half a cup of caffeinated beverages 12 hours prior to each scanning visit.
 32-1	4907-4919	Participants	_
 32-2	4920-4924	were	_
 32-3	4925-4935	instructed	_
@@ -871,6 +903,7 @@
 32-28	5061-5066	visit	_
 32-29	5067-5068	.	_
 
+Text=Participants could not participate if they had a positive alcohol breathalyzer or urine drug screen on the day of the scan.
 33-1	5069-5081	Participants	_
 33-2	5082-5087	could	_
 33-3	5088-5091	not	_
@@ -894,6 +927,7 @@
 33-21	5187-5191	scan	_
 33-22	5192-5193	.	_
 
+Text=HC were excluded if they met criteria for any current or past alcohol use disorder.
 34-1	5194-5196	HC	_
 34-2	5197-5201	were	_
 34-3	5202-5210	excluded	_
@@ -911,6 +945,7 @@
 34-15	5268-5276	disorder	_
 34-16	5277-5278	.	_
 
+Text=All subjects were required to be right handed and deemed physically healthy by a clinician.
 35-1	5279-5282	All	_
 35-2	5283-5291	subjects	_
 35-3	5292-5296	were	_
@@ -928,6 +963,7 @@
 35-15	5360-5369	clinician	_
 35-16	5370-5371	.	_
 
+Text=Subjects were excluded if they had a positive HIV test, active suicidal or homicidal ideations, or were currently taking psychotropic medication.
 36-1	5372-5380	Subjects	_
 36-2	5381-5385	were	_
 36-3	5386-5394	excluded	_
@@ -953,6 +989,7 @@
 36-23	5508-5518	medication	_
 36-24	5519-5520	.	_
 
+Text=Since the subjects were primarily recruited for fMRI tasks a failed neuromotor examination, which evaluated motor strength, deep tendon reflexes, extraocular movements, gait, and a cerebellar assessment, was also exclusionary.
 37-1	5521-5526	Since	_
 37-2	5527-5530	the	_
 37-3	5531-5539	subjects	_
@@ -991,6 +1028,7 @@
 37-36	5740-5752	exclusionary	_
 37-37	5753-5754	.	_
 
+Text=This allowed the researchers to exclude subjects who may possess neurological deficiencies that could potentially compromise task driven fMRI data.
 38-1	5755-5759	This	_
 38-2	5760-5767	allowed	_
 38-3	5768-5771	the	_
@@ -1013,6 +1051,7 @@
 38-20	5897-5901	data	_
 38-21	5902-5903	.	_
 
+Text=AD participants could not have severe symptoms of alcohol withdrawal as determined by a Clinical Institute Withdrawal Assessment of Alcohol Scale (CIWA) score of greater than 8.
 39-1	5904-5906	AD	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
 39-2	5907-5919	participants	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
 39-3	5920-5925	could	_
@@ -1044,6 +1083,7 @@
 39-29	6081-6082	8	_
 39-30	6083-6084	.	_
 
+Text=2.4 MRI Data acquisition Whole brain Anatomical images and five minutes of closed-eyes rs-fMRI were collected at the beginning of the scan session using a 3T General Electric MRI scanner (General Electric, Milwaukee, WI) after a short 3D brain localization.
 40-1	6085-6088	2.4	_
 40-2	6089-6092	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 40-3	6093-6097	Data	_
@@ -1090,6 +1130,7 @@
 40-44	6333-6345	localization	_
 40-45	6346-6347	.	_
 
+Text=High-resolution T1-weighted 3-D structural scans were acquired for each subject using an MPRAGE sequence (128 axial slices, TR = 1200ms TE =30ms, 256 × 256 matrix).
 41-1	6348-6363	High-resolution	_
 41-2	6364-6375	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 41-3	6376-6379	3-D	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1122,6 +1163,7 @@
 41-30	6514-6515	)	_
 41-31	6516-6517	.	_
 
+Text=Resting state fMRI datasets were collected using a single-shot gradient echo planar imaging pulse sequence with thirty-four 5mm-thick axial slices acquired parallel to the anterior/posterior commissural line (TR = 2000ms, TE = 30ms, flip angle=90o, 3.75 mm × 3.75 mm × 5.0 mm voxels).
 42-1	6518-6525	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 42-2	6526-6531	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 42-3	6532-6536	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1173,6 +1215,7 @@
 42-49	6805-6806	)	_
 42-50	6807-6808	.	_
 
+Text=Therefore, for each subject a total of 150 resting state frames (volumes) were acquired.
 43-1	6809-6818	Therefore	_
 43-2	6819-6820	,	_
 43-3	6821-6824	for	_
@@ -1192,6 +1235,7 @@
 43-17	6891-6899	acquired	_
 43-18	6900-6901	.	_
 
+Text=2.5 rs-fMRI data pre-processing Using Functional MRI of the Brain (FMRIB)'s Software Library (www.fmrib.ox.ac.uk/fsl) we applied; 1) slice timing correction for interleaved acquisitions using Sinc interpolation with a Hanning windowing kernel; 2) motion correction; 3) non-brain removal; 4) spatial smoothing using a Gaussian kernel of full width at half maximum 5mm; 5) grand-mean intensity normalization of the entire 4D dataset by a single multiplicative factor, the size of the voxels is 4×4×4 mm3; 6) high-pass temporal filtering (Gaussian-weighted least-squares straight line fitting, with sigma=50s); and 7) registration to high resolution structural MNI standard space images.
 44-1	6902-6905	2.5	_
 44-2	6906-6913	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 44-3	6914-6918	data	_
@@ -1312,6 +1356,7 @@
 44-118	7602-7608	images	_
 44-119	7609-7610	.	_
 
+Text=We used a stringent threshold for head motion in pre-processing step.
 45-1	7611-7613	We	_
 45-2	7614-7618	used	_
 45-3	7619-7620	a	_
@@ -1325,6 +1370,7 @@
 45-11	7675-7679	step	_
 45-12	7680-7681	.	_
 
+Text=Subjects with head motion greater than 0.3 mm for translation and 0.3° for rotation between consecutive TRs were removed from the study.
 46-1	7682-7690	Subjects	_
 46-2	7691-7695	with	_
 46-3	7696-7700	head	_
@@ -1349,6 +1395,7 @@
 46-22	7812-7817	study	_
 46-23	7818-7819	.	_
 
+Text=2.6 rs-fMRI connectivity analysis We applied Probabilistic Independent Component Analysis (PICA) by using the Multivariate Exploratory Linear Decomposition into Independent Components (MELODIC) toolbox of the FMRIB Software library (FSL) package (www.fmrib.ox.ac.uk/fsl).
 47-1	7820-7823	2.6	_
 47-2	7824-7831	rs-fMRI	_
 47-3	7832-7844	connectivity	_
@@ -1390,6 +1437,7 @@
 47-39	8097-8098	)	_
 47-40	8099-8100	.	_
 
+Text=A temporal concatenation tool in MELODIC was used to derive group level components across all subjects.
 48-1	8101-8102	A	_
 48-2	8103-8111	temporal	_
 48-3	8112-8125	concatenation	_
@@ -1408,6 +1456,7 @@
 48-16	8195-8203	subjects	_
 48-17	8204-8205	.	_
 
+Text=Pre-processed data were whitened and projected into a 35-dimensional subspace using PICA where the number of dimensions was estimated using the Laplace approximation to the Bayesian evidence of the model order.
 49-1	8206-8219	Pre-processed	_
 49-2	8220-8224	data	_
 49-3	8225-8229	were	_
@@ -1441,6 +1490,7 @@
 49-31	8410-8415	order	_
 49-32	8416-8417	.	_
 
+Text=The whitened observations were decomposed into sets of vectors that describe signal variation across the temporal domain (time-courses) and across the spatial domain (maps) by optimizing for non-Gaussian spatial source distributions using a fixed-point iteration technique.
 50-1	8418-8421	The	_
 50-2	8422-8430	whitened	_
 50-3	8431-8443	observations	_
@@ -1483,6 +1533,7 @@
 50-40	8685-8694	technique	_
 50-41	8695-8696	.	_
 
+Text=These FC components maps were standardized into z statistic images via a normalized mixture model fit, thresholded at z> 5.
 51-1	8697-8702	These	_
 51-2	8703-8705	FC	_
 51-3	8706-8716	components	_
@@ -1507,6 +1558,7 @@
 51-22	8820-8821	5	_
 51-23	8822-8823	.	_
 
+Text=Two criteria were used to remove biologically irrelevant components: (1) those representing known artifacts such as motion, and high-frequency noise; and (2) those with connectivity patterns not located mainly in gray matter.
 52-1	8824-8827	Two	_
 52-2	8828-8836	criteria	_
 52-3	8837-8841	were	_
@@ -1548,6 +1600,7 @@
 52-39	9049-9055	matter	_
 52-40	9056-9057	.	_
 
+Text=Networks of interest were identified as anatomically and functionally classical RSNs upon visual inspection.
 53-1	9058-9066	Networks	_
 53-2	9067-9069	of	_
 53-3	9070-9078	interest	_
@@ -1564,6 +1617,7 @@
 53-14	9155-9165	inspection	_
 53-15	9166-9167	.	_
 
+Text=The between-subject analysis was carried out using dual regression, a regression technique that back-reconstructs each group level component map at the individual subject level.
 54-1	9168-9171	The	_
 54-2	9172-9187	between-subject	_
 54-3	9188-9196	analysis	_
@@ -1591,6 +1645,7 @@
 54-25	9340-9345	level	_
 54-26	9346-9347	.	_
 
+Text=This technique allows for voxel-wise comparisons of resting state FC by carrying out the following steps: First, regresses the group level spatial maps into each individual ’ s 4D dataset to obtain a set of time series.
 55-1	9348-9352	This	_
 55-2	9353-9362	technique	_
 55-3	9363-9369	allows	_
@@ -1632,6 +1687,7 @@
 55-39	9562-9568	series	_
 55-40	9569-9570	.	_
 
+Text=Then, regresses those individual level time series into the same 4D dataset to obtain a subject-specific set of spatial maps.
 56-1	9571-9575	Then	_
 56-2	9576-9577	,	_
 56-3	9578-9587	regresses	_
@@ -1655,6 +1711,7 @@
 56-21	9692-9696	maps	_
 56-22	9697-9698	.	_
 
+Text=Statistic inferences were then tested using FSL ’ s randomize permutation-testing tool.
 57-1	9699-9708	Statistic	_
 57-2	9709-9719	inferences	_
 57-3	9720-9724	were	_
@@ -1669,6 +1726,7 @@
 57-12	9781-9785	tool	_
 57-13	9786-9787	.	_
 
+Text=In cases such as fMRI data, when the null distribution is not known, permutation testing is used for inference on statistical maps.
 58-1	9788-9790	In	_
 58-2	9791-9796	cases	_
 58-3	9797-9801	such	_
@@ -1695,6 +1753,7 @@
 58-24	9916-9920	maps	_
 58-25	9921-9922	.	_
 
+Text=Voxel-wise two-sample t-test was carried out to assess statistically significant differences in FC between the groups using a 5000 non-parametric permutation testing.
 59-1	9923-9933	Voxel-wise	_
 59-2	9934-9944	two-sample	_
 59-3	9945-9951	t-test	_
@@ -1719,6 +1778,7 @@
 59-22	10081-10088	testing	_
 59-23	10089-10090	.	_
 
+Text=We utilized a threshold-free cluster enhanced (TFCE) technique to control for multiple comparisons.
 60-1	10091-10093	We	_
 60-2	10094-10102	utilized	_
 60-3	10103-10104	a	_
@@ -1736,6 +1796,7 @@
 60-15	10180-10191	comparisons	_
 60-16	10192-10193	.	_
 
+Text=This method allows detecting significant clusters without having to define cluster size or the number of clusters prior to analysis.
 61-1	10194-10198	This	_
 61-2	10199-10205	method	_
 61-3	10206-10212	allows	_
@@ -1758,6 +1819,7 @@
 61-20	10317-10325	analysis	_
 61-21	10326-10327	.	_
 
+Text=Finally, the resulting statistical maps were threshold at p <0.05 FWE-corrected for multiple comparisons for the main group effect.
 62-1	10328-10335	Finally	_
 62-2	10336-10337	,	_
 62-3	10338-10341	the	_
@@ -1781,6 +1843,7 @@
 62-21	10454-10460	effect	_
 62-22	10461-10462	.	_
 
+Text=This step generated the probabilistic maps which represent the probability of FC between AD and HC: AD maps subtracted from HC one and vice versa for all RSNs of interest.
 63-1	10463-10467	This	_
 63-2	10468-10472	step	_
 63-3	10473-10482	generated	_
@@ -1814,6 +1877,7 @@
 63-31	10626-10634	interest	_
 63-32	10635-10636	.	_
 
+Text=The Harvard-Oxford cortical and subcortical atlases incorporated in FSL were used to identify the anatomical regions of the resulting PICA maps.
 64-1	10637-10640	The	_
 64-2	10641-10655	Harvard-Oxford	_
 64-3	10656-10664	cortical	_
@@ -1837,6 +1901,7 @@
 64-21	10776-10780	maps	_
 64-22	10781-10782	.	_
 
+Text=2.7 Correlation Analysis Within-network connectivity correlation with impulsivity measures: Using Statistical Parametric Mapping 8 (SPM8) (http: //www.fil.ion.ucl.ac.uk/spm), for each group, individual subject maps for the independent components for the impulsive system (ASN), reflective system (OFCN, left ECN, right ECN), insula cortex (SN) and DMN (a-DMN and p-DMN), were entered as second-level regression analysis versus the impulsivity measures (BIS-11, DDT, UPPS-P) as covariate with its own IC map as mask.
 65-1	10783-10786	2.7	_
 65-2	10787-10798	Correlation	_
 65-3	10799-10807	Analysis	_
@@ -1933,6 +1998,7 @@
 65-94	11318-11322	mask	_
 65-95	11323-11324	.	_
 
+Text=All within-RSN correlational analyses were done with the cluster-level Family-wise error (FWE) corrected threshold of 0.05.
 66-1	11325-11328	All	_
 66-2	11329-11339	within-RSN	_
 66-3	11340-11353	correlational	_
@@ -1953,6 +2019,7 @@
 66-18	11445-11449	0.05	_
 66-19	11450-11451	.	_
 
+Text=Between-network connectivity correlation with clinical measures: Even though all component maps are spatially independent, time series of the components may still have significant temporal correlations.
 67-1	11452-11467	Between-network	_
 67-2	11468-11480	connectivity	_
 67-3	11481-11492	correlation	_
@@ -1982,6 +2049,7 @@
 67-27	11643-11655	correlations	_
 67-28	11656-11657	.	_
 
+Text=Network interaction comparisons (Correlation coefficients, Pearson ’ s r) between AD and HC were computed between each subject time series for the RSNs of interest that were obtained by the first stage of the dual regression procedure.
 68-1	11658-11665	Network	_
 68-2	11666-11677	interaction	_
 68-3	11678-11689	comparisons	_
@@ -2024,6 +2092,7 @@
 68-40	11886-11895	procedure	_
 68-41	11896-11897	.	_
 
+Text=These correlation coefficients were Fisher z-transformed and unpaired t-tests were conducted to compare between network connectivity in AD and HC using Statistical Analysis System (SAS software, Copyright, SAS Institute Inc. SAS and all other SAS Institute Inc.).
 69-1	11898-11903	These	_
 69-2	11904-11915	correlation	_
 69-3	11916-11928	coefficients	_
@@ -2067,6 +2136,7 @@
 69-41	12163-12164	)	_
 69-42	12165-12166	.	_
 
+Text=Finally, the results were threshold at p <0.05 bonferroni-corrected for multiple comparisons.
 70-1	12167-12174	Finally	_
 70-2	12175-12176	,	_
 70-3	12177-12180	the	_
@@ -2083,6 +2153,7 @@
 70-14	12250-12261	comparisons	_
 70-15	12262-12263	.	_
 
+Text=The differences in age, years of education, and IQ between AD and HC do not make for ideal comparisons.
 71-1	12264-12267	The	_
 71-2	12268-12279	differences	_
 71-3	12280-12282	in	_
@@ -2106,6 +2177,7 @@
 71-21	12357-12368	comparisons	_
 71-22	12369-12370	.	_
 
+Text=To minimize the potential confounding influence of age, years of education and IQ in these results, these parameters were used as nuisance covariates for each network of interest.
 72-1	12371-12373	To	_
 72-2	12374-12382	minimize	_
 72-3	12383-12386	the	_
@@ -2138,6 +2210,7 @@
 72-30	12543-12551	interest	_
 72-31	12552-12553	.	_
 
+Text=No effect of age, years of education and IQ was detected in the fMRI FC results.
 73-1	12554-12556	No	_
 73-2	12557-12563	effect	_
 73-3	12564-12566	of	_

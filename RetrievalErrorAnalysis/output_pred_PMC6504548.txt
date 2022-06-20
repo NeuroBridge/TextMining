@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=A method for building a genome-connectome bipartite graph model It has been widely shown that genomic factors influence both risk for schizophrenia and variation in functional brain connectivity.
 1-1	0-1	A	_
 1-2	2-8	method	_
 1-3	9-12	for	_
@@ -32,6 +33,7 @@
 1-28	182-194	connectivity	_
 1-29	195-196	.	_
 
+Text=Moreover, schizophrenia is characterized by disrupted brain connectivity.
 2-1	197-205	Moreover	_
 2-2	206-207	,	_
 2-3	208-221	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -43,6 +45,7 @@
 2-9	258-270	connectivity	_
 2-10	271-272	.	_
 
+Text=In this work, we proposed a genome-connectome bipartite graph model to perform imaging genomic analysis.
 3-1	273-275	In	_
 3-2	276-280	this	_
 3-3	281-285	work	_
@@ -61,6 +64,7 @@
 3-16	369-377	analysis	_
 3-17	378-379	.	_
 
+Text=Functional network connectivity (FNC) was estimated after decomposing resting state functional magnetic resonance imaging data from both healthy controls (HC) and patients with schizophrenia (SZ) into spatial brain components using group independent component analysis (G-ICA).
 4-1	380-390	Functional	_
 4-2	391-398	network	_
 4-3	399-411	connectivity	_
@@ -106,6 +110,7 @@
 4-43	663-664	)	_
 4-44	665-666	.	_
 
+Text=Then 83 FNC connections showing a group difference (HC vs SZ) were selected as fMRI nodes, and eighty-one schizophrenia-related single nucleotide polymorphisms (SNPs) were selected as genetic nodes respectively in the bipartite graph.
 5-1	667-671	Then	_
 5-2	672-674	83	_
 5-3	675-678	FNC	_
@@ -146,6 +151,7 @@
 5-38	900-905	graph	_
 5-39	906-907	.	_
 
+Text=Edges connecting pairs of genetic and fMRI nodes were defined based on the SNP-FNC associations across subjects evaluated by a general linear model.
 6-1	908-913	Edges	_
 6-2	914-924	connecting	_
 6-3	925-930	pairs	_
@@ -171,6 +177,7 @@
 6-23	1050-1055	model	_
 6-24	1056-1057	.	_
 
+Text=Results show that some SNP nodes in the bipartite graph have a high degree implying they are influential in modulating brain connectivity and may be more strongly associated with the risk of schizophrenia than other SNPs.
 7-1	1058-1065	Results	_
 7-2	1066-1070	show	_
 7-3	1071-1075	that	_
@@ -209,6 +216,7 @@
 7-36	1274-1278	SNPs	_
 7-37	1279-1280	.	_
 
+Text=A bi-clustering analysis detected a cluster with 15 SNPs interacting with 38 FNC connections, most of which were within or between somato-motor and visual brain areas.
 8-1	1281-1282	A	_
 8-2	1283-1296	bi-clustering	_
 8-3	1297-1305	analysis	_
@@ -238,6 +246,7 @@
 8-27	1443-1448	areas	_
 8-28	1449-1450	.	_
 
+Text=This suggests that the activity of these brain regions may be related to common SNPs and provides insights into the pathology of schizophrenia.
 9-1	1451-1455	This	_
 9-2	1456-1464	suggests	_
 9-3	1465-1469	that	_
@@ -263,6 +272,7 @@
 9-23	1580-1593	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-24	1594-1595	.	_
 
+Text=The findings suggest that the SNP-FNC bipartite graph approach is a novel model to investigate genetic influences on functional brain connectivity in mental illness.
 10-1	1596-1599	The	_
 10-2	1600-1608	findings	_
 10-3	1609-1616	suggest	_
@@ -289,6 +299,7 @@
 10-24	1753-1760	illness	_
 10-25	1761-1762	.	_
 
+Text=Materials and Methods: Participants A total of 97 HCs (30 female; 5 left handed; age: range 19 – 60; mean ± SD 37 ± 11) and 70 SZs (11 female; 1 left handed; age: range 18 – 60; mean ± SD 38 ± 11) from 7 research sites participated in this study.
 11-1	1763-1772	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	1773-1776	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	1777-1784	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -356,6 +367,7 @@
 11-65	2016-2021	study	_
 11-66	2022-2023	.	_
 
+Text=All participants provided written, informed consent in accordance with internal review boards of their corresponding institutions.
 12-1	2024-2027	All	_
 12-2	2028-2040	participants	_
 12-3	2041-2049	provided	_
@@ -375,6 +387,7 @@
 12-17	2142-2154	institutions	_
 12-18	2155-2156	.	_
 
+Text=fMRI data acquisition Brain imaging data were collected from 3T Siemens Tim Trio MRI Systems (6 of the 7 sites) and a 3T General Electric Discovery MR750 scanner (the other site).
 13-1	2157-2161	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 13-2	2162-2166	data	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 13-3	2167-2178	acquisition	_
@@ -412,6 +425,7 @@
 13-35	2338-2339	)	_
 13-36	2340-2341	.	_
 
+Text=Resting state fMRI scans were acquired using a standard gradient-echo planar imaging paradigm: FOV of 220 × 220 mm (64 × 64 matrix), TR = 2 s, TE = 30 ms, flip angle = 70°, 32 sequential ascending axial slices of 4 mm thickness and 1 mm skip.
 14-1	2342-2349	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 14-2	2350-2355	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 14-3	2356-2360	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -469,6 +483,7 @@
 14-55	2586-2590	skip	_
 14-56	2591-2592	.	_
 
+Text=A total of 162 brain volumes were acquired for each subject with eyes closed over 5 minutes and 24 seconds.
 15-1	2593-2594	A	_
 15-2	2595-2600	total	_
 15-3	2601-2603	of	_
@@ -491,6 +506,7 @@
 15-20	2692-2699	seconds	_
 15-21	2700-2701	.	_
 
+Text=fMRI data preprocessing FMRI data preprocessing was performed using a combination of toolboxes (AFNI: https: //afni.nimh.nih.gov/; SPM: http: //www.fil.ion.ucl.ac.uk/spm/; GIFT: http: //mialab.mrn.org/software/gift) and custom Matlab code (https: //www.mathworks.com/products/matlab.html).
 16-1	2702-2706	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 16-2	2707-2711	data	_
 16-3	2712-2725	preprocessing	_
@@ -534,6 +550,7 @@
 16-41	3002-3003	)	_
 16-42	3004-3005	.	_
 
+Text=We performed rigid body motion correction using the INRIAlign toolbox in SPM to correct for subject head motion followed by slice-timing correction to account for timing differences in slice acquisition.
 17-1	3006-3008	We	_
 17-2	3009-3018	performed	_
 17-3	3019-3024	rigid	_
@@ -566,6 +583,7 @@
 17-30	3197-3208	acquisition	_
 17-31	3209-3210	.	_
 
+Text=Then the fMRI data were de-spiked using AFNI ’ s 3dDespike algorithm to mitigate the impact of outliers.
 18-1	3211-3215	Then	_
 18-2	3216-3219	the	_
 18-3	3220-3224	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -586,6 +604,7 @@
 18-18	3306-3314	outliers	_
 18-19	3315-3316	.	_
 
+Text=The fMRI data were subsequently warped to a Montreal Neurological Institute (MNI) template and resampled to 3 × 3 × 3 mm isotropic voxels.
 19-1	3317-3320	The	_
 19-2	3321-3325	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 19-3	3326-3330	data	_
@@ -614,6 +633,7 @@
 19-26	3450-3456	voxels	_
 19-27	3457-3458	.	_
 
+Text=Instead of Gaussian smoothing, we smoothed the data to 6 mm full width at half maximum (FWHM) using AFNI ’ s BlurToFWHM algorithm which performs smoothing by a conservative finite difference approximation to the diffusion equation.
 20-1	3459-3466	Instead	_
 20-2	3467-3469	of	_
 20-3	3470-3478	Gaussian	_
@@ -655,6 +675,7 @@
 20-39	3684-3692	equation	_
 20-40	3693-3694	.	_
 
+Text=This approach had been shown to reduce scanner specific variability in smoothness providing “ smoothness equivalence ” to data across sites.
 21-1	3695-3699	This	_
 21-2	3700-3708	approach	_
 21-3	3709-3712	had	_
@@ -678,6 +699,7 @@
 21-21	3829-3834	sites	_
 21-22	3835-3836	.	_
 
+Text=Each voxel time course was variance normalized prior to performing group ICA as this has shown to better decompose subcortical sources in addition to cortical networks.
 22-1	3837-3841	Each	_
 22-2	3842-3847	voxel	_
 22-3	3848-3852	time	_
@@ -706,6 +728,7 @@
 22-26	3996-4004	networks	_
 22-27	4005-4006	.	_
 
+Text=Group ICA of fMRI After preprocessing, fMRI of both controls and patients were analyzed using a spatial group ICA as implemented in GIFT software.
 23-1	4007-4012	Group	_
 23-2	4013-4016	ICA	_
 23-3	4017-4019	of	_
@@ -733,6 +756,7 @@
 23-25	4145-4153	software	_
 23-26	4154-4155	.	_
 
+Text=Spatial ICA decomposes the subject data into linear mixtures of spatially independent components (ICs) that exhibit unique time course profiles.
 24-1	4156-4163	Spatial	_
 24-2	4164-4167	ICA	_
 24-3	4168-4178	decomposes	_
@@ -757,6 +781,7 @@
 24-22	4293-4301	profiles	_
 24-23	4302-4303	.	_
 
+Text=A subject-specific data reduction step was first used to reduce 162-time-point data into 100 directions of maximal variability using principal component analysis (PCA).
 25-1	4304-4305	A	_
 25-2	4306-4322	subject-specific	_
 25-3	4323-4327	data	_
@@ -784,6 +809,7 @@
 25-25	4472-4473	)	_
 25-26	4474-4475	.	_
 
+Text=Then subject-reduced data were concatenated along the time dimension and a second PCA step reduced this grouped data matrix further into 100 components along directions of maximal group variability.
 26-1	4476-4480	Then	_
 26-2	4481-4496	subject-reduced	_
 26-3	4497-4501	data	_
@@ -815,6 +841,7 @@
 26-29	4662-4673	variability	_
 26-30	4674-4675	.	_
 
+Text=One hundred ICs were obtained from the group PCA reduced matrix using the Infomax algorithm.
 27-1	4676-4679	One	_
 27-2	4680-4687	hundred	_
 27-3	4688-4691	ICs	_
@@ -832,6 +859,7 @@
 27-15	4758-4767	algorithm	_
 27-16	4768-4769	.	_
 
+Text=To ensure stability of estimation, we repeated the ICA algorithm 20 times in ICASSO (http: //research.ics.aalto.fi/ica/icasso/), and the most central run was selected and further analyzed.
 28-1	4770-4772	To	_
 28-2	4773-4779	ensure	_
 28-3	4780-4789	stability	_
@@ -865,6 +893,7 @@
 28-31	4954-4962	analyzed	_
 28-32	4963-4964	.	_
 
+Text=Subject specific spatial maps (SMs) and time courses (TCs) were obtained using the spatiotemporal regression back reconstruction approach implemented in GIFT.
 29-1	4965-4972	Subject	_
 29-2	4973-4981	specific	_
 29-3	4982-4989	spatial	_
@@ -892,6 +921,7 @@
 29-25	5122-5126	GIFT	_
 29-26	5127-5128	.	_
 
+Text=Post-ICA processing Subject-specific SMs and TCs underwent post-processing as described in our earlier work.
 30-1	5129-5137	Post-ICA	_
 30-2	5138-5148	processing	_
 30-3	5149-5165	Subject-specific	_
@@ -908,6 +938,7 @@
 30-14	5232-5236	work	_
 30-15	5237-5238	.	_
 
+Text=Briefly, we obtained one sample t-test maps for each SM across all subjects and thresholded these maps to obtain regions of peak activation clusters for that component.
 31-1	5239-5246	Briefly	_
 31-2	5247-5248	,	_
 31-3	5249-5251	we	_
@@ -938,6 +969,7 @@
 31-28	5398-5407	component	_
 31-29	5408-5409	.	_
 
+Text=We also computed mean power spectra of the corresponding TCs.
 32-1	5410-5412	We	_
 32-2	5413-5417	also	_
 32-3	5418-5426	computed	_
@@ -950,6 +982,7 @@
 32-10	5467-5470	TCs	_
 32-11	5471-5472	.	_
 
+Text=We identified a set of components as intrinsic connectivity networks (ICNs) if their peak activation clusters fell on gray matter and showed less overlap with known vascular, susceptibility, ventricular, and edge regions corresponding to head motion.
 33-1	5473-5475	We	_
 33-2	5476-5486	identified	_
 33-3	5487-5488	a	_
@@ -993,6 +1026,7 @@
 33-41	5721-5727	motion	_
 33-42	5728-5729	.	_
 
+Text=We also ensured that the mean power spectra of the selected ICN time courses showed higher low frequency spectral power.
 34-1	5730-5732	We	_
 34-2	5733-5737	also	_
 34-3	5738-5745	ensured	_
@@ -1015,6 +1049,7 @@
 34-20	5844-5849	power	_
 34-21	5850-5851	.	_
 
+Text=This selection procedure resulted in 50 ICNs out of the 100 ICs obtained.
 35-1	5852-5856	This	_
 35-2	5857-5866	selection	_
 35-3	5867-5876	procedure	_
@@ -1030,6 +1065,7 @@
 35-13	5916-5924	obtained	_
 35-14	5925-5926	.	_
 
+Text=The subject specific TCs corresponding to the 50 ICNs selected were detrended, despiked, and then band pass filtered (0.01 − 0.10 Hz) before the subsequent FNC analysis.
 36-1	5927-5930	The	_
 36-2	5931-5938	subject	_
 36-3	5939-5947	specific	_
@@ -1063,6 +1099,7 @@
 36-31	6091-6099	analysis	_
 36-32	6100-6101	.	_
 
+Text=FNC analysis and the definition of connectome nodes We constructed the FNC which is defined as pairwise correlations between ICN time courses, as a measure of connectivity among different ICNs during the scan duration for each individual.
 37-1	6102-6105	FNC	_
 37-2	6106-6114	analysis	_
 37-3	6115-6118	and	_
@@ -1103,6 +1140,7 @@
 37-38	6330-6340	individual	_
 37-39	6341-6342	.	_
 
+Text=In this work, the FNC computed using the whole ICN time courses is referred to as stationary or static FNC (sFNC).
 38-1	6343-6345	In	_
 38-2	6346-6350	this	_
 38-3	6351-6355	work	_
@@ -1129,6 +1167,7 @@
 38-24	6458-6459	)	_
 38-25	6460-6461	.	_
 
+Text=The mean sFNC matrix across subjects was also computed in each group.
 39-1	6462-6465	The	_
 39-2	6466-6470	mean	_
 39-3	6471-6475	sFNC	_
@@ -1143,6 +1182,7 @@
 39-12	6525-6530	group	_
 39-13	6531-6532	.	_
 
+Text=FMRI nodes in the gene-fMRI bipartite graph represent FNC connections in the sFNC matrix.
 40-1	6533-6537	FMRI	_
 40-2	6538-6543	nodes	_
 40-3	6544-6546	in	_
@@ -1159,6 +1199,7 @@
 40-14	6615-6621	matrix	_
 40-15	6622-6623	.	_
 
+Text=Eighty-three fMRI nodes were selected by below criteria: 1.
 41-1	6624-6636	Eighty-three	_
 41-2	6637-6641	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 41-3	6642-6647	nodes	_
@@ -1171,6 +1212,7 @@
 41-10	6682-6683	1	_
 41-11	6684-6685	.	_
 
+Text=Correlation value of the group mean FNC connection of HCs is higher than 0.3268 (r> 0.3268).
 42-1	6686-6697	Correlation	_
 42-2	6698-6703	value	_
 42-3	6704-6706	of	_
@@ -1192,6 +1234,7 @@
 42-19	6779-6780	)	_
 42-20	6781-6782	.	_
 
+Text=This criterion was determined based on the significant correlation between ICNs (q <0.05, Bonferroni correction).
 43-1	6783-6787	This	_
 43-2	6788-6797	criterion	_
 43-3	6798-6801	was	_
@@ -1213,9 +1256,11 @@
 43-19	6898-6899	)	_
 43-20	6900-6901	.	_
 
+Text=2.
 44-1	6902-6903	2	_
 44-2	6904-6905	.	_
 
+Text=Group difference (HCs vs SZs) on the correlation value is significant (q <0.05, false discovery rate [FDR] correction).
 45-1	6906-6911	Group	_
 45-2	6912-6922	difference	_
 45-3	6923-6924	(	_
@@ -1244,6 +1289,7 @@
 45-26	7031-7032	)	_
 45-27	7033-7034	.	_
 
+Text=SNP data acquisition and processing DNA of each subject was extracted from blood or saliva samples.
 46-1	7035-7038	SNP	_
 46-2	7039-7043	data	_
 46-3	7044-7055	acquisition	_
@@ -1262,6 +1308,7 @@
 46-16	7126-7133	samples	_
 46-17	7134-7135	.	_
 
+Text=Illumina Human Omni1-Quad, Illumina Human Omni5, and Illumina Infinium MEGA + Psych were used for genotyping.
 47-1	7136-7144	Illumina	_
 47-2	7145-7150	Human	_
 47-3	7151-7161	Omni1-Quad	_
@@ -1282,6 +1329,7 @@
 47-18	7236-7246	genotyping	_
 47-19	7247-7248	.	_
 
+Text=No significant difference was noted in genotyping call rates between blood and saliva samples.
 48-1	7249-7251	No	_
 48-2	7252-7263	significant	_
 48-3	7264-7274	difference	_
@@ -1298,6 +1346,7 @@
 48-14	7335-7342	samples	_
 48-15	7343-7344	.	_
 
+Text=The data then went through quality control (QC), imputation and post-imputation QC as described in.
 49-1	7345-7348	The	_
 49-2	7349-7353	data	_
 49-3	7354-7358	then	_
@@ -1318,6 +1367,7 @@
 49-18	7444-7446	in	_
 49-19	7447-7448	.	_
 
+Text=In brief, a standard QC was firstly performed using PLINK.
 50-1	7449-7451	In	_
 50-2	7452-7457	brief	_
 50-3	7458-7459	,	_
@@ -1331,6 +1381,7 @@
 50-11	7502-7507	PLINK	_
 50-12	7508-7509	.	_
 
+Text=Then imputation was conducted with SHAPEIT used for pre-phasing, IMPUTE2 for imputation, and the 1000 Genomes data as the reference panel.
 51-1	7510-7514	Then	_
 51-2	7515-7525	imputation	_
 51-3	7526-7529	was	_
@@ -1356,6 +1407,7 @@
 51-23	7644-7649	panel	_
 51-24	7650-7651	.	_
 
+Text=Only markers with high imputation qualities (INFO score> 0.95) were retained.
 52-1	7652-7656	Only	_
 52-2	7657-7664	markers	_
 52-3	7665-7669	with	_
@@ -1372,6 +1424,7 @@
 52-14	7723-7731	retained	_
 52-15	7732-7733	.	_
 
+Text=The imputed data were then aggregated and went through the post-imputation QC.
 53-1	7734-7737	The	_
 53-2	7738-7745	imputed	_
 53-3	7746-7750	data	_
@@ -1386,6 +1439,7 @@
 53-12	7809-7811	QC	_
 53-13	7812-7813	.	_
 
+Text=Finally, linkage disequilibrium (LD) pruning (r2> 0.9) was applied to yield 977,242 SNPs for which population structure was corrected using PCA.
 54-1	7814-7821	Finally	_
 54-2	7822-7823	,	_
 54-3	7824-7831	linkage	_
@@ -1415,6 +1469,7 @@
 54-27	7960-7963	PCA	_
 54-28	7964-7965	.	_
 
+Text=Definition of genome nodes In this study, we used schizophrenia-related SNPs as genetic nodes.
 55-1	7966-7976	Definition	_
 55-2	7977-7979	of	_
 55-3	7980-7986	genome	_
@@ -1432,6 +1487,7 @@
 55-15	8055-8060	nodes	_
 55-16	8061-8062	.	_
 
+Text=Firstly, the SNP with the lowest p value in each of the 108 schizophrenia-associated genetic loci reported by the largest psychiatric genomic consortium (PGC) study (Schizophrenia Working Group of the Psychiatric Genomics, 2014) was identified.
 56-1	8063-8070	Firstly	_
 56-2	8071-8072	,	_
 56-3	8073-8076	the	_
@@ -1475,6 +1531,7 @@
 56-41	8302-8312	identified	_
 56-42	8313-8314	.	_
 
+Text=SNPs with 0 risk alleles occurring in less than 17 subjects were excluded.
 57-1	8315-8319	SNPs	_
 57-2	8320-8324	with	_
 57-3	8325-8326	0	_
@@ -1490,6 +1547,7 @@
 57-13	8380-8388	excluded	_
 57-14	8389-8390	.	_
 
+Text=This resulted in a set of 81 SNPs selected as gene nodes in the genome-connectome bipartite graph.
 58-1	8391-8395	This	_
 58-2	8396-8404	resulted	_
 58-3	8405-8407	in	_
@@ -1509,6 +1567,7 @@
 58-17	8483-8488	graph	_
 58-18	8489-8490	.	_
 
+Text=Building the genome-connectome bipartite graph To build edges in the bipartite graph, we used a general linear model (a MANCOVA framework: http: //mialab.mrn.org/software/mancovan) to evaluate the association between each pair of genome-connectome nodes.
 59-1	8491-8499	Building	_
 59-2	8500-8503	the	_
 59-3	8504-8521	genome-connectome	_
@@ -1549,6 +1608,7 @@
 59-38	8744-8749	nodes	_
 59-39	8750-8751	.	_
 
+Text=In this model, for each pair of SNP-FNC, correlation values of all subjects for the FNC connection were input as the dependent variable, and the SNP data coded based on number of risk allele (0, 1, or 2) of all subjects were input as the independent variable.
 60-1	8752-8754	In	_
 60-2	8755-8759	this	_
 60-3	8760-8765	model	_
@@ -1605,6 +1665,7 @@
 60-54	9009-9017	variable	_
 60-55	9018-9019	.	_
 
+Text=To control sites, groups, and ethnicity effects, they were input as covariates.
 61-1	9020-9022	To	_
 61-2	9023-9030	control	_
 61-3	9031-9036	sites	_
@@ -1622,6 +1683,7 @@
 61-15	9091-9101	covariates	_
 61-16	9102-9103	.	_
 
+Text=A significant (p <0.05, uncorrected) association was used to determine whether there is an edge between those two nodes.
 62-1	9104-9105	A	_
 62-2	9106-9117	significant	_
 62-3	9118-9119	(	_
@@ -1647,6 +1709,7 @@
 62-23	9222-9227	nodes	_
 62-24	9228-9229	.	_
 
+Text=Finally the degree of each SNP node in the bipartite graph was computed.
 63-1	9230-9237	Finally	_
 63-2	9238-9241	the	_
 63-3	9242-9248	degree	_
@@ -1662,6 +1725,7 @@
 63-13	9293-9301	computed	_
 63-14	9302-9303	.	_
 
+Text=Biclustering analysis Biclustering is a data mining technique which allows simultaneous clustering of the rows and columns of a matrix.
 64-1	9304-9316	Biclustering	_
 64-2	9317-9325	analysis	_
 64-3	9326-9338	Biclustering	_
@@ -1684,6 +1748,7 @@
 64-20	9432-9438	matrix	_
 64-21	9439-9440	.	_
 
+Text=As a result, submatrices exhibiting unique patterns can be revealed helping us to better understand the relationship between row and column variables.
 65-1	9441-9443	As	_
 65-2	9444-9445	a	_
 65-3	9446-9452	result	_
@@ -1709,6 +1774,7 @@
 65-23	9582-9591	variables	_
 65-24	9592-9593	.	_
 
+Text=To investigate if any subset of SNPs are densely associated with any subset of FNC connections, we performed a biclustering analysis on the SNP-FNC bipartite graph using MTBA (a Matlab toolbox for biclustering analysis).
 66-1	9594-9596	To	_
 66-2	9597-9608	investigate	_
 66-3	9609-9611	if	_

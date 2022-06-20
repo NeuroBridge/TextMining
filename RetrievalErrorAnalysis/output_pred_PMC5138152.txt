@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Alcohol Affects Brain Functional Connectivity and its Coupling with Behavior: Greater Effects in Male Heavy Drinkers Acute and chronic alcohol exposure significantly affect behavior but the underlying neurobiological mechanisms are still poorly understood.
 1-1	0-7	Alcohol	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 1-2	8-15	Affects	_
 1-3	16-21	Brain	_
@@ -38,6 +39,7 @@
 1-34	246-256	understood	_
 1-35	257-258	.	_
 
+Text=Here we used functional connectivity density (FCD) mapping to study alcohol-related changes in resting brain activity and their association with behavior.
 2-1	259-263	Here	_
 2-2	264-266	we	_
 2-3	267-271	used	_
@@ -63,6 +65,7 @@
 2-23	406-414	behavior	_
 2-24	415-416	.	_
 
+Text=Heavy drinkers (HD; N=16; 16 males) and normal controls (NM; N=24; 14 males) were tested after placebo and after acute alcohol administration.
 3-1	417-422	Heavy	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
 3-2	423-431	drinkers	http://maven.renci.org/NeuroBridge/neurobridge#NondependentAlcoholAbuse
 3-3	432-433	(	_
@@ -95,6 +98,7 @@
 3-30	552-566	administration	_
 3-31	567-568	.	_
 
+Text=Group comparisons showed that NM had higher FCD in visual and prefrontal cortices, default-mode network regions, and thalamus, while HD had higher FCD in cerebellum.
 4-1	569-574	Group	_
 4-2	575-586	comparisons	_
 4-3	587-593	showed	_
@@ -125,6 +129,7 @@
 4-28	726-736	cerebellum	_
 4-29	737-738	.	_
 
+Text=Acute alcohol significantly increased FCD within the thalamus, impaired cognitive and motor functions, and affected self-reports of mood/drug effects in both groups.
 5-1	739-744	Acute	_
 5-2	745-752	alcohol	_
 5-3	753-766	significantly	_
@@ -151,6 +156,7 @@
 5-24	899-905	groups	_
 5-25	906-907	.	_
 
+Text=Partial least squares regression showed alcohol-induced changes in mood/drug effects were associated with changes in thalamic FCD in both groups.
 6-1	908-915	Partial	_
 6-2	916-921	least	_
 6-3	922-929	squares	_
@@ -173,6 +179,7 @@
 6-20	1046-1052	groups	_
 6-21	1053-1054	.	_
 
+Text=Disruptions in motor function were associated with increases in cerebellar FCD in NM and thalamus FCD in HD.
 7-1	1055-1066	Disruptions	_
 7-2	1067-1069	in	_
 7-3	1070-1075	motor	_
@@ -193,6 +200,7 @@
 7-18	1160-1162	HD	_
 7-19	1163-1164	.	_
 
+Text=Alcohol-induced declines in cognitive performance were associated with connectivity increases in visual cortex and thalamus in NM, but in HD, increases in precuneus FCD were associated with improved cognitive performance.
 8-1	1165-1180	Alcohol-induced	_
 8-2	1181-1189	declines	_
 8-3	1190-1192	in	_
@@ -227,6 +235,7 @@
 8-32	1376-1387	performance	_
 8-33	1388-1389	.	_
 
+Text=Acute alcohol reduced “ neurocognitive coupling ”, the association between behavioral performance and FCD (indexing brain activity), an effect that was accentuated in HD compared to NM.
 9-1	1390-1395	Acute	_
 9-2	1396-1403	alcohol	_
 9-3	1404-1411	reduced	_
@@ -260,6 +269,7 @@
 9-31	1576-1578	NM	_
 9-32	1579-1580	.	_
 
+Text=Findings suggest that reduced cortical connectivity in HD contribute to decline in cognitive abilities associated with heavy alcohol consumption, whereas increased cerebellar connectivity in HD may have compensatory effects on behavioral performance.
 10-1	1581-1589	Findings	_
 10-2	1590-1597	suggest	_
 10-3	1598-1602	that	_
@@ -295,6 +305,7 @@
 10-33	1820-1831	performance	_
 10-34	1832-1833	.	_
 
+Text=The results reveal how drinking history alters the association between brain functional connectivity density and individual differences in behavioral performance.
 11-1	1834-1837	The	_
 11-2	1838-1845	results	_
 11-3	1846-1852	reveal	_
@@ -317,6 +328,7 @@
 11-20	1984-1995	performance	_
 11-21	1996-1997	.	_
 
+Text=Methods Participants We studied two groups of participants: 16 heavy drinkers (HD; age: M = 34.6 years; SD = 9.70 years; 16 males) and 24 normal controls (NM; age: M = 32.5 years; SD = 6.39 years; 14 males).
 12-1	1998-2005	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 12-2	2006-2018	Participants	_
 12-3	2019-2021	We	_
@@ -371,6 +383,7 @@
 12-52	2216-2217	)	_
 12-53	2218-2219	.	_
 
+Text=Out of 48 planned participants for both groups, these subjects completed required MRI sessions.
 13-1	2220-2223	Out	_
 13-2	2224-2226	of	_
 13-3	2227-2229	48	_
@@ -388,6 +401,7 @@
 13-15	2307-2315	sessions	_
 13-16	2316-2317	.	_
 
+Text=We predicted at α = 0.05 and 80% power, this sample size would allow to detect large group and condition effects on FCD (Cohen ’ s d = 0.9; r = 0.5).
 14-1	2318-2320	We	_
 14-2	2321-2330	predicted	_
 14-3	2331-2333	at	_
@@ -427,6 +441,7 @@
 14-37	2470-2471	)	_
 14-38	2472-2473	.	_
 
+Text=The inclusion criterion for HD was 5 or more drinks a day on 3 or more occasions per week.
 15-1	2474-2477	The	_
 15-2	2478-2487	inclusion	_
 15-3	2488-2497	criterion	_
@@ -448,6 +463,7 @@
 15-19	2559-2563	week	_
 15-20	2564-2565	.	_
 
+Text=The HD reported their last use of alcohol within 3 days of the MRI scans.
 16-1	2566-2569	The	_
 16-2	2570-2572	HD	_
 16-3	2573-2581	reported	_
@@ -465,6 +481,7 @@
 16-15	2633-2638	scans	_
 16-16	2639-2640	.	_
 
+Text=In order to maximize group differences, for NM group we included participants with light drinking history of no more than one drink a day.
 17-1	2641-2643	In	_
 17-2	2644-2649	order	_
 17-3	2650-2652	to	_
@@ -492,6 +509,7 @@
 17-25	2776-2779	day	_
 17-26	2780-2781	.	_
 
+Text=Because we did not want to give alcohol for the first time to an individual without any alcohol experience, NM also had to have prior experience with alcohol.
 18-1	2782-2789	Because	_
 18-2	2790-2792	we	_
 18-3	2793-2796	did	_
@@ -523,6 +541,7 @@
 18-29	2933-2940	alcohol	_
 18-30	2941-2942	.	_
 
+Text=Exclusion criteria were: 1) urine positive for psychotropic drugs; 2) present or past history of dependence on alcohol or other drugs of abuse (except nicotine and allowed diagnosis of alcohol abuse though not dependence for HD); 3) present or past history of neurological or psychiatric disorder; 4) use of psychoactive medications in the past month (i.e., opiate analgesics, stimulants, sedatives); 5) use of prescription (non-psychiatric) medication (s), i.e., antihistamines; 6) medical conditions that may alter cerebral function; 7) cardiovascular and metabolic diseases and 8) history of head trauma with loss of consciousness of more than 30 min.
 19-1	2943-2952	Exclusion	_
 19-2	2953-2961	criteria	_
 19-3	2962-2966	were	_
@@ -650,6 +669,7 @@
 19-125	3621-3624	min	_
 19-126	3625-3626	.	_
 
+Text=Signed informed consents were obtained from the subjects prior to participation, approved by the Committee on Research in Human Subjects at Stony Brook University (IRBNet ID: 137462, CORIHS ID: 20090792).
 20-1	3627-3633	Signed	_
 20-2	3634-3642	informed	_
 20-3	3643-3651	consents	_
@@ -688,6 +708,7 @@
 20-36	3835-3836	)	_
 20-37	3837-3838	.	_
 
+Text=Alcohol and placebo administration Each participant was tested on separate days (maximum 3 days apart) to assess the effects of alcohol (ALC) and placebo (PLC).
 21-1	3839-3846	Alcohol	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 21-2	3847-3850	and	_
 21-3	3851-3858	placebo	_
@@ -721,6 +742,7 @@
 21-31	4003-4004	)	_
 21-32	4005-4006	.	_
 
+Text=The order of ALC and PLC conditions was randomly assigned across subjects (single blinded).
 22-1	4007-4010	The	_
 22-2	4011-4016	order	_
 22-3	4017-4019	of	_
@@ -739,6 +761,7 @@
 22-16	4098-4099	)	_
 22-17	4100-4101	.	_
 
+Text=Subjects drank alcohol (0.75 g/kg mixed in a caffeine-free diet soda) or placebo (caffeine-free diet soda) beverages within a 20 min period under blind conditions.
 23-1	4102-4110	Subjects	_
 23-2	4111-4116	drank	_
 23-3	4117-4124	alcohol	_
@@ -770,6 +793,7 @@
 23-29	4258-4268	conditions	_
 23-30	4269-4270	.	_
 
+Text=For this purpose, we used a specialized drinking container with an alcohol-containing lid that provided the smell of alcohol and delivered the same volume of liquid in both conditions.
 24-1	4271-4274	For	_
 24-2	4275-4279	this	_
 24-3	4280-4287	purpose	_
@@ -802,6 +826,7 @@
 24-30	4445-4455	conditions	_
 24-31	4456-4457	.	_
 
+Text=The MRI scan started between 90 and 120 min of ALC or PLC administration.
 25-1	4458-4461	The	_
 25-2	4462-4465	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 25-3	4466-4470	scan	_
@@ -818,6 +843,7 @@
 25-14	4516-4530	administration	_
 25-15	4531-4532	.	_
 
+Text=The alcohol dose (0.75 g/kg) was approximately equivalent to three drinks for a 50 kg person and was within the range consumed by social drinkers.
 26-1	4533-4536	The	_
 26-2	4537-4544	alcohol	_
 26-3	4545-4549	dose	_
@@ -847,6 +873,7 @@
 26-27	4672-4680	drinkers	_
 26-28	4681-4682	.	_
 
+Text=Blood alcohol concentration levels were measured prior to the fMRI scan, using a standard enzymatic assay.
 27-1	4683-4688	Blood	_
 27-2	4689-4696	alcohol	_
 27-3	4697-4710	concentration	_
@@ -866,6 +893,7 @@
 27-17	4784-4789	assay	_
 27-18	4790-4791	.	_
 
+Text=The average blood alcohol concentration (BAC) across participants was 0.62 mg/ml (SD = 0.27 mg/ml) at the beginning of the MRI scanning session.
 28-1	4792-4795	The	_
 28-2	4796-4803	average	_
 28-3	4804-4809	blood	_
@@ -895,6 +923,7 @@
 28-27	4932-4939	session	_
 28-28	4940-4941	.	_
 
+Text=Behavioral measures Self-reports of mood and drug effects, motor evaluations, and cognitive tests were performed to assess the effects of alcohol or placebo on behavior in NM and HD.
 29-1	4942-4952	Behavioral	_
 29-2	4953-4961	measures	_
 29-3	4962-4974	Self-reports	_
@@ -928,6 +957,7 @@
 29-31	5123-5125	HD	_
 29-32	5126-5127	.	_
 
+Text=Measures were obtained prior to each MRI session, approximately 90 min after placebo or alcohol administration (30 min prior to MRI session).
 30-1	5128-5136	Measures	_
 30-2	5137-5141	were	_
 30-3	5142-5150	obtained	_
@@ -955,6 +985,7 @@
 30-25	5270-5271	)	_
 30-26	5272-5273	.	_
 
+Text=Self-report mood/drug effects were scored by the subject from 0 (not at all) to 10 (extremely) for feelings of stimulated, sedated, self-confident, social, irritable, dizzy, high, anxious, pleasant, alcohol desire, control, intoxicated, and restless.
 31-1	5274-5285	Self-report	_
 31-2	5286-5295	mood/drug	_
 31-3	5296-5303	effects	_
@@ -1007,6 +1038,7 @@
 31-50	5531-5539	restless	_
 31-51	5540-5541	.	_
 
+Text=Motor function evaluated gait (time and errors), standing on one leg (errors), Romberg (time and errors), and rhythm (time and errors) tasks.
 32-1	5542-5547	Motor	_
 32-2	5548-5556	function	_
 32-3	5557-5566	evaluated	_
@@ -1042,6 +1074,7 @@
 32-33	5688-5693	tasks	_
 32-34	5694-5695	.	_
 
+Text=Cognitive evaluation was made by staff credentialed to perform psychological assessments and included the Stroop (neutral, congruent, and incongruent), Symbol Digit Modalities test (SDMT), and Word Association tasks.
 33-1	5696-5705	Cognitive	_
 33-2	5706-5716	evaluation	_
 33-3	5717-5720	was	_
@@ -1080,6 +1113,7 @@
 33-36	5914-5919	tasks	_
 33-37	5920-5921	.	_
 
+Text=Behavioral data on two subjects (one NM and one HD) were not available.
 34-1	5922-5932	Behavioral	_
 34-2	5933-5937	data	_
 34-3	5938-5940	on	_
@@ -1097,6 +1131,7 @@
 34-15	5985-5994	available	_
 34-16	5995-5996	.	_
 
+Text=The between-subject factor of Groups and within-subject factor of Alcohol were modelled in MATLAB (The MathWorks Inc., Natick, MA) while using smoking history and gender as covariates.
 35-1	5997-6000	The	_
 35-2	6001-6016	between-subject	_
 35-3	6017-6023	factor	_
@@ -1130,6 +1165,7 @@
 35-31	6174-6184	covariates	_
 35-32	6185-6186	.	_
 
+Text=We minimized multiplicity of comparisons by grouping the behavioral measures into three categories: mood and drug effects, motor, and cognitive performance (see partial least squares regression for further information).
 36-1	6187-6189	We	_
 36-2	6190-6199	minimized	_
 36-3	6200-6212	multiplicity	_
@@ -1166,6 +1202,7 @@
 36-34	6409-6410	)	_
 36-35	6411-6412	.	_
 
+Text=MRI data acquisition Subjects underwent fMRI in a 4-tesla Varian/Siemens MRI scanner (Siemens Medical Solutions, Erlangen, Germany) using a T2 * -weighted single-shot gradient-echo planar imaging sequence (echo time/repetition time, 20/1600 ms; 4-mm slice thickness; 1-mm gap; 33 coronal slices; 3.1 × 3.1 mm in-plane resolution).
 37-1	6413-6416	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 37-2	6417-6421	data	_
 37-3	6422-6433	acquisition	_
@@ -1225,6 +1262,7 @@
 37-57	6752-6753	)	_
 37-58	6754-6755	.	_
 
+Text=Participants were instructed to remain silent, motionless, and awake with eyes open during the 5-min resting-state scan with presentation of a fixation cross.
 38-1	6756-6768	Participants	_
 38-2	6769-6773	were	_
 38-3	6774-6784	instructed	_
@@ -1252,6 +1290,7 @@
 38-25	6910-6915	cross	_
 38-26	6916-6917	.	_
 
+Text=fMRI data preprocessing All fMRI time series were realigned and normalized to the Montreal Neurological Institute (MNI) space with 3-mm isotropic voxels in SPM8 (Wellcome Trust Centre for Neuroimaging, London).
 39-1	6918-6922	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 39-2	6923-6927	data	_
 39-3	6928-6941	preprocessing	_
@@ -1289,6 +1328,7 @@
 39-35	7131-7132	)	_
 39-36	7133-7134	.	_
 
+Text=There were no significant main effects of Group or Alcohol, or a significant interaction effect on estimates of subjects ’ motion (p> 0.05) for mean frame-wise displacement calculated from 6 translation and rotation parameters obtained from the realignment process.
 40-1	7135-7140	There	_
 40-2	7141-7145	were	_
 40-3	7146-7148	no	_
@@ -1334,6 +1374,7 @@
 40-43	7396-7403	process	_
 40-44	7404-7405	.	_
 
+Text=FMRI time points that were severely affected by motion were removed using a “ scrubbing ” approach.
 41-1	7406-7410	FMRI	_
 41-2	7411-7415	time	_
 41-3	7416-7422	points	_
@@ -1353,6 +1394,7 @@
 41-17	7496-7504	approach	_
 41-18	7505-7506	.	_
 
+Text=Specifically, in each subject/session, less than 4% of time-points were removed with a root mean square signal change (that is, DVARs) threshold of 5% and a framewise displacement (that is, FD) threshold of 0.5 mm.
 42-1	7507-7519	Specifically	_
 42-2	7520-7521	,	_
 42-3	7522-7524	in	_
@@ -1400,6 +1442,7 @@
 42-45	7728-7730	mm	_
 42-46	7731-7732	.	_
 
+Text=Remaining motion effects on fMRI time series were regressed out using the 6 translation and rotation regressors.
 43-1	7733-7742	Remaining	_
 43-2	7743-7749	motion	_
 43-3	7750-7757	effects	_
@@ -1419,6 +1462,7 @@
 43-17	7834-7844	regressors	_
 43-18	7845-7846	.	_
 
+Text=Voxels with poor temporal signal-to-noise (tSNR <50) were eliminated, and band-pass temporal filtering (0.01–0.10 Hz) was used to remove magnetic field drifts of the scanner and to minimize the effects of physiologic noise on the high-frequency components.
 44-1	7847-7853	Voxels	_
 44-2	7854-7858	with	_
 44-3	7859-7863	poor	_
@@ -1464,6 +1508,7 @@
 44-43	8098-8108	components	_
 44-44	8109-8110	.	_
 
+Text=The effects of unwanted fluctuations within the white matter and cerebrospinal fluid (CSF) were excluded from the analysis by using a gray matter mask (N = 57,713).
 45-1	8111-8114	The	_
 45-2	8115-8122	effects	_
 45-3	8123-8125	of	_
@@ -1497,6 +1542,7 @@
 45-31	8277-8278	)	_
 45-32	8279-8280	.	_
 
+Text=Local functional connectivity density (lFCD) The Pearson correlation was used to assess the strength of functional connectivity, Cij, between voxels i and j.
 46-1	8281-8286	Local	_
 46-2	8287-8297	functional	_
 46-3	8298-8310	connectivity	_
@@ -1526,6 +1572,7 @@
 46-27	8440-8441	j	_
 46-28	8442-8443	.	_
 
+Text=Consistent with prior FCD studies, a positive correlation threshold of r = 0.6 (sufficient to Bonferroni correct for the number of correlations performed in the whole brain, p <0.05) was used to compute the binary connectivity coefficients, aij = 1 (if Cij> 0.6) or aij = 0 (if Cij ≤ 0.6).
 47-1	8444-8454	Consistent	_
 47-2	8455-8459	with	_
 47-3	8460-8465	prior	_
@@ -1590,6 +1637,7 @@
 47-62	8742-8743	)	_
 47-63	8744-8745	.	_
 
+Text=The local functional connectivity density (or “ local degree ”) for voxel i was computed as the size of a continuous cluster of voxels with aij = 1, that are connected by surface.
 48-1	8746-8749	The	_
 48-2	8750-8755	local	_
 48-3	8756-8766	functional	_
@@ -1628,6 +1676,7 @@
 48-36	8920-8927	surface	_
 48-37	8928-8929	.	_
 
+Text=A “ growing ” algorithm was used for time efficient estimation of lFCD.
 49-1	8930-8931	A	_
 49-2	8932-8933	“	_
 49-3	8934-8941	growing	_
@@ -1643,6 +1692,7 @@
 49-13	8996-9000	lFCD	_
 49-14	9001-9002	.	_
 
+Text=Global functional connectivity density (gFCD) The gFCD, also called “ degree ” was calculated as the total number of edges for voxel i, i.e., significant correlations (at Cij> 0.6) between voxel i and all voxels: Statistical parametric mapping (SPM) SPM8 was used to perform voxel-wise analyses on FCD indices.
 50-1	9003-9009	Global	_
 50-2	9010-9020	functional	_
 50-3	9021-9033	connectivity	_
@@ -1705,6 +1755,7 @@
 50-60	9316-9323	indices	_
 50-61	9324-9325	.	_
 
+Text=Gender and smoking status were entered as covariates to control for differences between the groups in these variables.
 51-1	9326-9332	Gender	_
 51-2	9333-9336	and	_
 51-3	9337-9344	smoking	_
@@ -1725,6 +1776,7 @@
 51-18	9434-9443	variables	_
 51-19	9444-9445	.	_
 
+Text=A flexible factorial design was used to model the between-subject factor of Group (NM vs. HD) and the within-subject factor of Alcohol (PLC and ALC).
 52-1	9446-9447	A	_
 52-2	9448-9456	flexible	_
 52-3	9457-9466	factorial	_
@@ -1756,6 +1808,7 @@
 52-29	9597-9598	)	_
 52-30	9599-9600	.	_
 
+Text=Regions of interest (ROIs) were identified after family wise error (FWE) correction for multiple comparisons at the cluster level correction approach (pFWE <0.05) with a minimum cluster size of k = 75 and a cluster forming threshold of p <0.005.
 53-1	9601-9608	Regions	_
 53-2	9609-9611	of	_
 53-3	9612-9620	interest	_
@@ -1806,6 +1859,7 @@
 53-48	9848-9853	0.005	_
 53-49	9854-9855	.	_
 
+Text=Neurocognitive coupling analysis We define ‘ neurocognitive coupling ’ as the overall association between individual differences in regional resting activity (indexed here by ROI FCD) and individual differences in behavioral performance.
 54-1	9856-9870	Neurocognitive	_
 54-2	9871-9879	coupling	_
 54-3	9880-9888	analysis	_
@@ -1841,6 +1895,7 @@
 54-33	10083-10094	performance	_
 54-34	10095-10096	.	_
 
+Text=Specifically, a two-way repeated measures ANOVA was performed in MATLAB to assess effects of Group and Alcohol on the distribution mean of Fisher ’ s z-transformed correlations between functional ROIs that showed Group or Alcohol effects and behavioral measures that showed Group or Alcohol effects.
 55-1	10097-10109	Specifically	_
 55-2	10110-10111	,	_
 55-3	10112-10113	a	_
@@ -1889,6 +1944,7 @@
 55-46	10389-10396	effects	_
 55-47	10397-10398	.	_
 
+Text=This analysis was also repeated for a set of a priori anatomical ROIs (Supp.
 56-1	10399-10403	This	_
 56-2	10404-10412	analysis	_
 56-3	10413-10416	was	_
@@ -1906,13 +1962,16 @@
 56-15	10471-10475	Supp	_
 56-16	10476-10477	.	_
 
+Text=Fig.
 57-1	10478-10481	Fig	_
 57-2	10482-10483	.	_
 
+Text=3).
 58-1	10484-10485	3	_
 58-2	10486-10487	)	_
 58-3	10488-10489	.	_
 
+Text=Partial least squares regression A partial least squares (PLS) regression analysis was performed in MATLAB to reduce the dimensionality of data and consequently the number of comparisons.
 59-1	10490-10497	Partial	_
 59-2	10498-10503	least	_
 59-3	10504-10511	squares	_
@@ -1944,6 +2003,7 @@
 59-29	10667-10678	comparisons	_
 59-30	10679-10680	.	_
 
+Text=Whereas, other approaches such as principal component analysis (PCA) find components that maximize the variance within a set of variables, PLS regression finds components in the independent variables based on the criteria of maximizing the amount of variance accounted for in both dependent and independent variables.
 60-1	10681-10688	Whereas	_
 60-2	10689-10690	,	_
 60-3	10691-10696	other	_
@@ -1996,6 +2056,7 @@
 60-50	10992-11001	variables	_
 60-51	11002-11003	.	_
 
+Text=For each behavioral category (i.e., mood/drug effects, motor, and cognitive performance), the goal of the PLS regression analysis was to find a linear combination of ROI FCDs (component scores) that maximizes the amount of variance accounted for in the included behavioral tests as well as ROI FCDs.
 61-1	11004-11007	For	_
 61-2	11008-11012	each	_
 61-3	11013-11023	behavioral	_
@@ -2053,6 +2114,7 @@
 61-55	11306-11310	FCDs	_
 61-56	11311-11312	.	_
 
+Text=The number of components selected from ROI FCDs was limited to 1 for each behavioral category.
 62-1	11313-11316	The	_
 62-2	11317-11323	number	_
 62-3	11324-11326	of	_
@@ -2071,6 +2133,7 @@
 62-16	11398-11406	category	_
 62-17	11407-11408	.	_
 
+Text=For significance testing of the contribution of each ROI FCD to component scores, a permutation approach was used (N = 100000) to extract the null distribution of component loadings.
 63-1	11409-11412	For	_
 63-2	11413-11425	significance	_
 63-3	11426-11433	testing	_
@@ -2105,6 +2168,7 @@
 63-32	11585-11593	loadings	_
 63-33	11594-11595	.	_
 
+Text=All the p-values for PLS regression analysis are reported for a two-tailed test (i.e., considering positive and negative loadings).
 64-1	11596-11599	All	_
 64-2	11600-11603	the	_
 64-3	11604-11612	p-values	_

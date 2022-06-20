@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Effect of rs1344706 in the ZNF804A gene on the brain network ZNF804A rs1344706 (A/C) was the first SNP that reached genome-wide significance for schizophrenia.
 1-1	0-6	Effect	_
 1-2	7-9	of	_
 1-3	10-19	rs1344706	_
@@ -30,6 +31,7 @@
 1-26	147-160	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 1-27	161-162	.	_
 
+Text=Recent studies have linked rs1344706 to functional connectivity among specific brain regions.
 2-1	163-169	Recent	_
 2-2	170-177	studies	_
 2-3	178-182	have	_
@@ -44,6 +46,7 @@
 2-12	248-255	regions	_
 2-13	256-257	.	_
 
+Text=However, no study thus far has examined the role of this SNP in the entire functional connectome.
 3-1	258-265	However	_
 3-2	266-267	,	_
 3-3	268-270	no	_
@@ -64,6 +67,7 @@
 3-18	345-355	connectome	_
 3-19	356-357	.	_
 
+Text=In this study, we used degree centrality to test the role of rs1344706 in the whole-brain voxel-wise functional connectome during the resting state.
 4-1	358-360	In	_
 4-2	361-365	this	_
 4-3	366-371	study	_
@@ -90,6 +94,7 @@
 4-24	501-506	state	_
 4-25	507-508	.	_
 
+Text=52 schizophrenia patients and 128 healthy controls were included in the final analysis.
 5-1	509-511	52	_
 5-2	512-525	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 5-3	526-534	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -105,6 +110,7 @@
 5-13	587-595	analysis	_
 5-14	596-597	.	_
 
+Text=In our whole-brain analysis, we found a significant interaction effect of genotype × diagnosis at the precuneus (PCU) (cluster size = 52 voxels, peak voxel MNI coordinates: x = 9, y = − 69, z = 63, F = 32.57, FWE corrected P <0.001).
 6-1	598-600	In	_
 6-2	601-604	our	_
 6-3	605-616	whole-brain	_
@@ -163,6 +169,7 @@
 6-56	841-842	)	_
 6-57	843-844	.	_
 
+Text=When we subdivided the degree centrality network according to anatomical distance, the whole-brain analysis also found a significant interaction effect of genotype × diagnosis at the PCU with the same peak in the short-range degree centrality network (cluster size = 72 voxels, F = 37.29, FWE corrected P <0.001).
 7-1	845-849	When	_
 7-2	850-852	we	_
 7-3	853-863	subdivided	_
@@ -220,6 +227,7 @@
 7-55	1162-1163	)	_
 7-56	1164-1165	.	_
 
+Text=No significant result was found in the long-range degree centrality network.
 8-1	1166-1168	No	_
 8-2	1169-1180	significant	_
 8-3	1181-1187	result	_
@@ -233,6 +241,7 @@
 8-11	1234-1241	network	_
 8-12	1242-1243	.	_
 
+Text=Our results elucidated the contribution of rs1344706 to functional connectivity within the brain network, and may have important implications for our understanding of this risk gene's role in functional dysconnectivity in schizophrenia.
 9-1	1244-1247	Our	_
 9-2	1248-1255	results	_
 9-3	1256-1266	elucidated	_
@@ -269,6 +278,7 @@
 9-34	1468-1481	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-35	1482-1483	.	_
 
+Text=Highlights This study was the first to report the effect of ZNF804A rs1344706 on the property of the whole-brain network.
 10-1	1484-1494	Highlights	_
 10-2	1495-1499	This	_
 10-3	1500-1505	study	_
@@ -291,6 +301,7 @@
 10-20	1597-1604	network	_
 10-21	1605-1606	.	_
 
+Text=We found a significant interaction of rs1344706 genotype × diagnosis on the functional connectivity of the PCU.
 11-1	1607-1609	We	_
 11-2	1610-1615	found	_
 11-3	1616-1617	a	_
@@ -310,6 +321,7 @@
 11-17	1714-1717	PCU	_
 11-18	1718-1719	.	_
 
+Text=Materials and methods Participants The initial sample consisted of 55 schizophrenia patients and 137 healthy controls.
 12-1	1720-1729	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	1730-1733	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	1734-1741	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -328,6 +340,7 @@
 12-16	1829-1837	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 12-17	1838-1839	.	_
 
+Text=Due to their excessive head motion (> 3° or 3 mm) and failure of registration (due to low quality of T1 images), 3 patients and 9 healthy controls were excluded.
 13-1	1840-1843	Due	_
 13-2	1844-1846	to	_
 13-3	1847-1852	their	_
@@ -365,6 +378,7 @@
 13-35	1997-2005	excluded	_
 13-36	2006-2007	.	_
 
+Text=Due to the small number of the minor-allele homozygotes (10 patients and 28 controls), we combined the CC genotype with the CA genotype as the non-risk allele carriers.
 14-1	2008-2011	Due	_
 14-2	2012-2014	to	_
 14-3	2015-2018	the	_
@@ -398,6 +412,7 @@
 14-31	2170-2178	carriers	_
 14-32	2179-2180	.	_
 
+Text=The final data analysis included 52 schizophrenia patients (34 CA/CC and 18 AA) and 128 healthy controls (96 CA/CC and 32 AA).
 15-1	2181-2184	The	_
 15-2	2185-2190	final	_
 15-3	2191-2195	data	_
@@ -426,6 +441,7 @@
 15-26	2309-2310	)	_
 15-27	2311-2312	.	_
 
+Text=The patients were recruited from the inpatients of the Beijing Anding Hospital.
 16-1	2313-2316	The	_
 16-2	2317-2325	patients	_
 16-3	2326-2330	were	_
@@ -440,6 +456,7 @@
 16-12	2383-2391	Hospital	_
 16-13	2392-2393	.	_
 
+Text=All patients fulfilled the DSM-IV criteria for schizophrenia according to the diagnostic consensus of two experienced psychiatrists based on structured interview (SCID).
 17-1	2394-2397	All	_
 17-2	2398-2406	patients	_
 17-3	2407-2416	fulfilled	_
@@ -466,6 +483,7 @@
 17-24	2563-2564	)	_
 17-25	2565-2566	.	_
 
+Text=The positive and negative syndrome scale (PANSS) was used to assess each patient's positive (SAPS) and negative (SANS) symptoms.
 18-1	2567-2570	The	_
 18-2	2571-2579	positive	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 18-3	2580-2583	and	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
@@ -494,6 +512,7 @@
 18-26	2693-2701	symptoms	_
 18-27	2702-2703	.	_
 
+Text=The mean scores of the SAPS and SANS are shown in Table 1.
 19-1	2704-2707	The	_
 19-2	2708-2712	mean	_
 19-3	2713-2719	scores	_
@@ -509,6 +528,7 @@
 19-13	2760-2761	1	_
 19-14	2762-2763	.	_
 
+Text=All patients were treated with stable doses of atypical antipsychotics for> 2 weeks.
 20-1	2764-2767	All	_
 20-2	2768-2776	patients	_
 20-3	2777-2781	were	_
@@ -525,6 +545,7 @@
 20-14	2843-2848	weeks	_
 20-15	2849-2850	.	_
 
+Text=Antipsychotic drugs included clozapine (5 patients), olanzapine (13 patients), risperidone (22 patients), aripiprazole (6 patients), and haloperidol (6 patients).
 21-1	2851-2864	Antipsychotic	http://maven.renci.org/NeuroBridge/neurobridge#PsychoticDisorder
 21-2	2865-2870	drugs	_
 21-3	2871-2879	included	_
@@ -560,12 +581,14 @@
 21-33	3025-3026	)	_
 21-34	3027-3028	.	_
 
+Text=No antidepressants were involved.
 22-1	3029-3031	No	_
 22-2	3032-3047	antidepressants	_
 22-3	3048-3052	were	_
 22-4	3053-3061	involved	_
 22-5	3062-3063	.	_
 
+Text=Patients took 2.5–5 mg diazepam occasionally for their insomnia.
 23-1	3064-3072	Patients	_
 23-2	3073-3077	took	_
 23-3	3078-3083	2.5–5	_
@@ -577,6 +600,7 @@
 23-9	3119-3127	insomnia	_
 23-10	3128-3129	.	_
 
+Text=However, patients were asked not to take diazepam or other benzodiazepines on the night before the scan.
 24-1	3130-3137	However	_
 24-2	3138-3139	,	_
 24-3	3140-3148	patients	_
@@ -597,6 +621,7 @@
 24-18	3230-3234	scan	_
 24-19	3235-3236	.	_
 
+Text=If they did, their appointments for fMRI scans were canceled.
 25-1	3237-3239	If	_
 25-2	3240-3244	they	_
 25-3	3245-3248	did	_
@@ -610,6 +635,7 @@
 25-11	3290-3298	canceled	_
 25-12	3299-3300	.	_
 
+Text=Exclusion criteria for the patients included a history of other psychiatric disorders and severe brain injury (any closed or open injuries that may be related to current symptoms or cognitive functions), current substance abuse, and currently having acute psychotic episodes.
 26-1	3301-3310	Exclusion	_
 26-2	3311-3319	criteria	_
 26-3	3320-3323	for	_
@@ -656,6 +682,7 @@
 26-44	3571-3579	episodes	_
 26-45	3580-3581	.	_
 
+Text=The healthy controls were recruited from the same geographical region as the patients by advertisement and received unstructured clinical interview by experienced psychiatrists to screen for any personal or family history of psychiatric disorders.
 27-1	3582-3585	The	_
 27-2	3586-3593	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 27-3	3594-3602	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -692,6 +719,7 @@
 27-34	3819-3828	disorders	_
 27-35	3829-3830	.	_
 
+Text=Most healthy controls were involved in our previous studies.
 28-1	3831-3835	Most	_
 28-2	3836-3843	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 28-3	3844-3852	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -703,6 +731,7 @@
 28-9	3883-3890	studies	_
 28-10	3891-3892	.	_
 
+Text=All patients and controls had normal or corrected-to-normal vision and were right-handed as assessed by the Edinburgh handedness inventory.
 29-1	3893-3896	All	_
 29-2	3897-3905	patients	_
 29-3	3906-3909	and	_
@@ -724,6 +753,7 @@
 29-19	4022-4031	inventory	_
 29-20	4032-4033	.	_
 
+Text=None of the patients and controls reported any history of hard drug use (e.g., cocaine, crack, heroin, methamphetamine, etc .).
 30-1	4034-4038	None	_
 30-2	4039-4041	of	_
 30-3	4042-4045	the	_
@@ -753,6 +783,7 @@
 30-27	4166-4167	)	_
 30-28	4168-4169	.	_
 
+Text=Additional demographic and clinical information for both patients and controls is shown in Table 1.
 31-1	4170-4180	Additional	_
 31-2	4181-4192	demographic	_
 31-3	4193-4196	and	_
@@ -770,6 +801,7 @@
 31-15	4267-4268	1	_
 31-16	4269-4270	.	_
 
+Text=This study's protocol was reviewed and approved by the Institutional Review Board of the Institute of Cognitive Neuroscience and Learning at Beijing Normal University.
 32-1	4271-4275	This	_
 32-2	4276-4281	study	_
 32-3	4282-4284	's	_
@@ -797,6 +829,7 @@
 32-25	4428-4438	University	_
 32-26	4439-4440	.	_
 
+Text=This study was conducted in accordance with the approved protocol.
 33-1	4441-4445	This	_
 33-2	4446-4451	study	_
 33-3	4452-4455	was	_
@@ -809,6 +842,7 @@
 33-10	4498-4506	protocol	_
 33-11	4507-4508	.	_
 
+Text=All participants were Han Chinese and gave written informed consent for this study.
 34-1	4509-4512	All	_
 34-2	4513-4525	participants	_
 34-3	4526-4530	were	_
@@ -824,6 +858,7 @@
 34-13	4586-4591	study	_
 34-14	4592-4593	.	_
 
+Text=Genotyping Genomic DNA was extracted using the standard method.
 35-1	4594-4604	Genotyping	_
 35-2	4605-4612	Genomic	_
 35-3	4613-4616	DNA	_
@@ -835,6 +870,7 @@
 35-9	4650-4656	method	_
 35-10	4657-4658	.	_
 
+Text=The SNP rs1344706 was genotyped using TaqMan allele-specific assays on the 7900HT Fast Real-Time PCR System (Applied Biosystems, Foster City, CA, U.S.A.).
 36-1	4659-4662	The	_
 36-2	4663-4666	SNP	_
 36-3	4667-4676	rs1344706	_
@@ -864,6 +900,7 @@
 36-27	4816-4817	)	_
 36-28	4818-4819	.	_
 
+Text=The sample success rate was 100%.
 37-1	4820-4823	The	_
 37-2	4824-4830	sample	_
 37-3	4831-4838	success	_
@@ -873,6 +910,7 @@
 37-7	4852-4853	%	_
 37-8	4854-4855	.	_
 
+Text=The reproducibility of the genotyping was 100% based on a duplicate analysis of 40% of the genotypes.
 38-1	4856-4859	The	_
 38-2	4860-4875	reproducibility	_
 38-3	4876-4878	of	_
@@ -894,6 +932,7 @@
 38-19	4949-4958	genotypes	_
 38-20	4959-4960	.	_
 
+Text=Imaging data acquisition All imaging data were acquired at the Brain Imaging Center of Beijing Normal University.
 39-1	4961-4968	Imaging	_
 39-2	4969-4973	data	_
 39-3	4974-4985	acquisition	_
@@ -913,6 +952,7 @@
 39-17	5063-5073	University	_
 39-18	5074-5075	.	_
 
+Text=All participants were scanned on a Siemens 3 T scanner (Siemens, Erlangen, Germany) with their head snugly fixed with straps and foam pads to restrict head movement.
 40-1	5076-5079	All	_
 40-2	5080-5092	participants	_
 40-3	5093-5097	were	_
@@ -946,6 +986,7 @@
 40-31	5236-5244	movement	_
 40-32	5245-5246	.	_
 
+Text=Resting-state images (240 volumes) were acquired first, followed by the T1 scan.
 41-1	5247-5260	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 41-2	5261-5267	images	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 41-3	5268-5269	(	_
@@ -963,6 +1004,7 @@
 41-15	5325-5329	scan	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 41-16	5330-5331	.	_
 
+Text=During the resting-state fMRI data collection (lasting about 8 min), all subjects were required to keep their eyes closed, to stay still but relaxed, and not to think of anything in particular and not to fall asleep.
 42-1	5332-5338	During	_
 42-2	5339-5342	the	_
 42-3	5343-5356	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1007,6 +1049,7 @@
 42-42	5546-5552	asleep	_
 42-43	5553-5554	.	_
 
+Text=The resting-state images were collected axially using echo-planar imaging (EPI) sequence: repetition time (TR) = 2000 ms; echo time (TE) = 30 ms; flip angle (FA) = 90°; field of view (FOV) = 200 × 200 mm2; matrix size = 64 × 64; axial slices = 31; 4.0 mm slice thickness without gap; voxel size = 3.125 × 3.125 × 4.0 mm3.
 43-1	5555-5558	The	_
 43-2	5559-5572	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 43-3	5573-5579	images	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1089,6 +1132,7 @@
 43-80	5890-5893	mm3	_
 43-81	5894-5895	.	_
 
+Text=Structural images were acquired using a T1-weighted sagittal 3D magnetization-prepared rapid gradient echo (MPRAGE) sequence: TR = 2530 ms; TE = 3.45 ms; FA = 7o; FOV = 256 × 256 mm2; matrix size = 256 × 256; slices = 176; thickness = 1.0 mm; voxel size = 1 × 1 × 1 mm3.
 44-1	5896-5906	Structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 44-2	5907-5913	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 44-3	5914-5918	were	_
@@ -1155,6 +1199,7 @@
 44-64	6172-6175	mm3	_
 44-65	6176-6177	.	_
 
+Text=fMRI data preprocessing Functional imaging data were preprocessed and analyzed using Statistical Parametric Mapping (SPM12, Wellcome Department of Cognitive Neurology, London, UK).
 45-1	6178-6182	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 45-2	6183-6187	data	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 45-3	6188-6201	preprocessing	_
@@ -1184,6 +1229,7 @@
 45-27	6361-6362	)	_
 45-28	6363-6364	.	_
 
+Text=Preprocessing of resting-state fMRI data included slice timing (to correct the acquisition time differences between slices), realignment (participants with> 3 mm maximum displacement in any of the x, y, z directions or> 3° of angular rotation about any axis were excluded), normalization to the MNI space (each participant's T1-weighted images were first coregistered to the mean functional image after head motion correction and then segmented into white matter, grey matter, and cerebrospinal fluid, and generated segmentation parameters were then used to normalize functional images to the MNI standard space), resampling to voxel size 3 × 3 × 3 mm3, spatial smoothing with a 4-mm full width at half maximum (FWHM) Gaussian kernel, and removal of linear trends and temporal filter (0.01–0.1 Hz, to reduce low-frequency drifts and high-frequency physiological noise).
 46-1	6365-6378	Preprocessing	_
 46-2	6379-6381	of	_
 46-3	6382-6395	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1340,6 +1386,7 @@
 46-154	7256-7257	)	_
 46-155	7258-7259	.	_
 
+Text=To further reduce the effects of confounding factors, 6 head motion parameters and white matter and cerebrospinal fluid signals were included as covariates.
 47-1	7260-7262	To	_
 47-2	7263-7270	further	_
 47-3	7271-7277	reduce	_
@@ -1366,6 +1413,7 @@
 47-24	7406-7416	covariates	_
 47-25	7417-7418	.	_
 
+Text=The global mean signal was not included as a covariate.
 48-1	7419-7422	The	_
 48-2	7423-7429	global	_
 48-3	7430-7434	mean	_
@@ -1378,6 +1426,7 @@
 48-10	7464-7473	covariate	_
 48-11	7474-7475	.	_
 
+Text=Degree centrality analysis Degree centrality (whole-range) is a measure in graph theory that estimates the total connectivity between a voxel and the rest of the brain.
 49-1	7476-7482	Degree	_
 49-2	7483-7493	centrality	_
 49-3	7494-7502	analysis	_
@@ -1408,6 +1457,7 @@
 49-28	7640-7645	brain	_
 49-29	7646-7647	.	_
 
+Text=It has often been used to identify the hub regions of the brain network.
 50-1	7648-7650	It	_
 50-2	7651-7654	has	_
 50-3	7655-7660	often	_
@@ -1424,6 +1474,7 @@
 50-14	7712-7719	network	_
 50-15	7720-7721	.	_
 
+Text=Specifically, Pearson's correlation coefficients were computed in all possible pairs of voxels, which resulted in a whole-brain functional connectivity matrix.
 51-1	7722-7734	Specifically	_
 51-2	7735-7736	,	_
 51-3	7737-7744	Pearson	_
@@ -1449,6 +1500,7 @@
 51-23	7877-7883	matrix	_
 51-24	7884-7885	.	_
 
+Text=This step was restricted to a predefined grey matter mask that was the same as in previous studies.
 52-1	7886-7890	This	_
 52-2	7891-7895	step	_
 52-3	7896-7899	was	_
@@ -1469,6 +1521,7 @@
 52-18	7977-7984	studies	_
 52-19	7985-7986	.	_
 
+Text=For a given voxel, its degree centrality was calculated using the following equation: where rij was Pearson's correlation coefficient between voxel i and voxel j, and r0 was a correlation threshold that was used to eliminate possible spurious correlations arising from noise.
 53-1	7987-7990	For	_
 53-2	7991-7992	a	_
 53-3	7993-7998	given	_
@@ -1517,6 +1570,7 @@
 53-46	8260-8265	noise	_
 53-47	8266-8267	.	_
 
+Text=In the current study, r0 = 0.2.
 54-1	8268-8270	In	_
 54-2	8271-8274	the	_
 54-3	8275-8282	current	_
@@ -1527,6 +1581,7 @@
 54-8	8296-8299	0.2	_
 54-9	8300-8301	.	_
 
+Text=It is worth noting that different correlation thresholds did not change the connection pattern significantly, which is consistent with previous reports.
 55-1	8302-8304	It	_
 55-2	8305-8307	is	_
 55-3	8308-8313	worth	_
@@ -1551,6 +1606,7 @@
 55-22	8447-8454	reports	_
 55-23	8455-8456	.	_
 
+Text=A degree centrality map for each individual was produced and then standardized to a z-score map.
 56-1	8457-8458	A	_
 56-2	8459-8465	degree	_
 56-3	8466-8476	centrality	_
@@ -1569,6 +1625,7 @@
 56-16	8549-8552	map	_
 56-17	8553-8554	.	_
 
+Text=Degree centrality can be affected by connectivity distance between regions.
 57-1	8555-8561	Degree	_
 57-2	8562-8572	centrality	_
 57-3	8573-8576	can	_
@@ -1581,6 +1638,7 @@
 57-10	8622-8629	regions	_
 57-11	8630-8631	.	_
 
+Text=Therefore, for further analysis, we subdivided the connections and associated degree centrality between all possible pairs of voxels into long-range (> 75 mm) and short-range (<75 mm) according to their anatomical distance by using the GRaph thEoreTical Network Analysis (GRETNA) toolbox.
 58-1	8632-8641	Therefore	_
 58-2	8642-8643	,	_
 58-3	8644-8647	for	_
@@ -1633,6 +1691,7 @@
 58-50	8921-8928	toolbox	_
 58-51	8929-8930	.	_
 
+Text=Statistical analysis We did full factorial two-way ANOVA across the whole brain to test the genotype effect, the diagnosis effect, and their interaction, with genotype (AA vs. CA/CC) and diagnosis (schizophrenia vs. controls) as fixed factors.
 59-1	8931-8942	Statistical	_
 59-2	8943-8951	analysis	_
 59-3	8952-8954	We	_
@@ -1678,6 +1737,7 @@
 59-43	9173-9180	factors	_
 59-44	9181-9182	.	_
 
+Text=If significant main effects of genotype or significant interaction effects of genotype × diagnosis were found, genotype effects were further explored using two-sample t-test across the whole brain in the patients and controls separately.
 60-1	9183-9185	If	_
 60-2	9186-9197	significant	_
 60-3	9198-9202	main	_
@@ -1715,6 +1775,7 @@
 60-35	9410-9420	separately	_
 60-36	9421-9422	.	_
 
+Text=To correct for multiple comparisons, significance was determined using a voxel-level threshold of P <0.001 and cluster-level family-wise error (FWE) corrected P <0.05.
 61-1	9423-9425	To	_
 61-2	9426-9433	correct	_
 61-3	9434-9437	for	_

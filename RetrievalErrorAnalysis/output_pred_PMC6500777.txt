@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Altered functional connectivity between sub-regions in the thalamus and cortex in schizophrenia patients measured by resting state BOLD fMRI at 7T The thalamus is a small brain structure that relays neuronal signals between subcortical and cortical regions.
 1-1	0-7	Altered	_
 1-2	8-18	functional	_
 1-3	19-31	connectivity	_
@@ -41,6 +42,7 @@
 1-37	249-256	regions	_
 1-38	257-258	.	_
 
+Text=Abnormal thalamocortical connectivity in schizophrenia has been reported in previous studies using blood-oxygenation-level-dependent (BOLD) functional MRI (fMRI) performed at 3T.
 2-1	259-267	Abnormal	_
 2-2	268-283	thalamocortical	_
 2-3	284-296	connectivity	_
@@ -67,6 +69,7 @@
 2-24	438-440	3T	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 2-25	441-442	.	_
 
+Text=However, anatomically the thalamus is not a single entity, but is subdivided into multiple distinct nuclei with different connections to various cortical regions.
 3-1	443-450	However	_
 3-2	451-452	,	_
 3-3	453-465	anatomically	_
@@ -94,6 +97,7 @@
 3-25	599-606	regions	_
 3-26	607-608	.	_
 
+Text=We sought to determine the potential benefit of using the enhanced sensitivity of BOLD fMRI at ultra-high magnetic field (7T) in exploring thalamo-cortical connectivity in schizophrenia based on subregions in the thalamus.
 4-1	609-611	We	_
 4-2	612-618	sought	_
 4-3	619-621	to	_
@@ -130,6 +134,7 @@
 4-34	824-832	thalamus	_
 4-35	833-834	.	_
 
+Text=Seeds placed in thalamic subregions of 14 patients and 14 matched controls were used to calculate whole-brain functional connectivity.
 5-1	835-840	Seeds	_
 5-2	841-847	placed	_
 5-3	848-850	in	_
@@ -151,6 +156,7 @@
 5-19	956-968	connectivity	_
 5-20	969-970	.	_
 
+Text=Our results demonstrate impaired thalamic connectivity to the prefrontal cortex and the cerebellum, but enhanced thalamic connectivity to the motor/sensory cortex in schizophrenia.
 6-1	971-974	Our	_
 6-2	975-982	results	_
 6-3	983-994	demonstrate	_
@@ -177,6 +183,7 @@
 6-24	1138-1151	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 6-25	1152-1153	.	_
 
+Text=This altered functional connectivity significantly correlated with disease duration in the patients.
 7-1	1154-1158	This	_
 7-2	1159-1166	altered	_
 7-3	1167-1177	functional	_
@@ -191,6 +198,7 @@
 7-12	1245-1253	patients	_
 7-13	1254-1255	.	_
 
+Text=Remarkably, comparable effect sizes observed in previous 3T studies were detected in the current 7T study with a heterogeneous and much smaller cohort, providing evidence that ultra-high field fMRI may be a powerful tool for measuring functional connectivity abnormalities in schizophrenia.
 8-1	1256-1266	Remarkably	_
 8-2	1267-1268	,	_
 8-3	1269-1279	comparable	_
@@ -236,6 +244,7 @@
 8-43	1534-1547	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-44	1548-1549	.	_
 
+Text=Further investigation with a larger cohort is merited to validate the current findings.
 9-1	1550-1557	Further	_
 9-2	1558-1571	investigation	_
 9-3	1572-1576	with	_
@@ -251,6 +260,7 @@
 9-13	1628-1636	findings	_
 9-14	1637-1638	.	_
 
+Text=Methods Participants Fourteen patients with a diagnosis of schizophrenia (n = 12) or schizoaffective (n = 2) disorder and fourteen age and sex matched normal controls were recruited and scanned following a Johns Hopkins Medicine Institutional Review Board approved protocol.
 10-1	1639-1646	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 10-2	1647-1659	Participants	_
 10-3	1660-1668	Fourteen	_
@@ -297,6 +307,7 @@
 10-44	1908-1916	protocol	_
 10-45	1917-1918	.	_
 
+Text=All participants gave written informed consent before scanning.
 11-1	1919-1922	All	_
 11-2	1923-1935	participants	_
 11-3	1936-1940	gave	_
@@ -307,6 +318,7 @@
 11-8	1973-1981	scanning	_
 11-9	1982-1983	.	_
 
+Text=None of the subjects had other neurologic history or neurological signs on exam, or a history of vascular diseases.
 12-1	1984-1988	None	_
 12-2	1989-1991	of	_
 12-3	1992-1995	the	_
@@ -329,6 +341,7 @@
 12-20	2091-2099	diseases	_
 12-21	2100-2101	.	_
 
+Text=As tobacco smoking could potentially affect baseline brain perfusion and thus the BOLD effect, current smoking status (cigarettes smoked per day) was determined for patients and controls.
 13-1	2102-2104	As	_
 13-2	2105-2112	tobacco	_
 13-3	2113-2120	smoking	_
@@ -361,6 +374,7 @@
 13-30	2283-2291	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 13-31	2292-2293	.	_
 
+Text=Current schizophrenia symptom severity was assessed with the Brief Psychiatric Rating Scale (BPRS).
 14-1	2294-2301	Current	_
 14-2	2302-2315	schizophrenia	_
 14-3	2316-2323	symptom	_
@@ -378,6 +392,7 @@
 14-15	2393-2394	)	http://maven.renci.org/NeuroBridge/neurobridge#BriefPsychiatricRatingScale
 14-16	2395-2396	.	_
 
+Text=Diagnosis was based on clinical records and clinical referrals at the point of ascertainment, and was confirmed by symptom evaluation on entry into the study.
 15-1	2397-2406	Diagnosis	_
 15-2	2407-2410	was	_
 15-3	2411-2416	based	_
@@ -406,6 +421,7 @@
 15-26	2550-2555	study	_
 15-27	2556-2557	.	_
 
+Text=All patients, but none of the controls, were receiving antipsychotic medicines.
 16-1	2558-2561	All	_
 16-2	2562-2570	patients	_
 16-3	2571-2572	,	_
@@ -421,6 +437,7 @@
 16-13	2629-2638	medicines	_
 16-14	2639-2640	.	_
 
+Text=Current chlorpromazine (CPZ) equivalents were used as a proxy for lifetime antipsychotic exposure.
 17-1	2641-2648	Current	_
 17-2	2649-2663	chlorpromazine	_
 17-3	2664-2665	(	_
@@ -438,6 +455,7 @@
 17-15	2732-2740	exposure	_
 17-16	2741-2742	.	_
 
+Text=The Montreal Cognitive Assessment (MoCA) was performed on each participant on the day of scanning.
 18-1	2743-2746	The	_
 18-2	2747-2755	Montreal	_
 18-3	2756-2765	Cognitive	_
@@ -457,6 +475,7 @@
 18-17	2834-2842	scanning	_
 18-18	2843-2844	.	_
 
+Text=MRI All scans were performed on a 7T Philips MRI scanner (Philips Healthcare, Best, The Netherlands).
 19-1	2845-2848	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 19-2	2849-2852	All	_
 19-3	2853-2858	scans	_
@@ -479,6 +498,7 @@
 19-20	2948-2949	)	_
 19-21	2950-2951	.	_
 
+Text=A 32-channel phased-array head coil (Nova Medical, Wilmington, MA) was used for RF reception and a head-only quadrature coil for transmit.
 20-1	2952-2953	A	_
 20-2	2954-2964	32-channel	_
 20-3	2965-2977	phased-array	_
@@ -506,6 +526,7 @@
 20-25	3085-3093	transmit	_
 20-26	3094-3095	.	_
 
+Text=High-resolution anatomical images were acquired with a 3D magnetization prepared 2 rapid acquisition gradient echoes (MP2RAGE) sequence (voxel = 0.65 mm isotropic) to minimize B1 field inhomogeneity induced artifacts at 7T.
 21-1	3096-3111	High-resolution	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 21-2	3112-3122	anatomical	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 21-3	3123-3129	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -543,6 +564,7 @@
 21-35	3320-3322	7T	_
 21-36	3323-3324	.	_
 
+Text=A resting state fMRI scan was performed with gradient echo (GRE) echo-planar imaging (EPI) (TR/TE/FA=2000/22ms/60°, voxel=2.5mm isotropic, 54 slices, 7 minutes) for each participant.
 22-1	3325-3326	A	_
 22-2	3327-3334	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 22-3	3335-3340	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -578,6 +600,7 @@
 22-33	3504-3515	participant	_
 22-34	3516-3517	.	_
 
+Text=Data analysis The statistical parametric mapping (SPM) software package (Version 8, Wellcome Trust Centre for Neuroimaging, London, United Kingdom; http: //www.fil.ion.ucl.ac.uk/spm/) and in-house code programmed in Matlab (MathWorks, Natick, MA, USA) were used for image analysis.
 23-1	3518-3522	Data	_
 23-2	3523-3531	analysis	_
 23-3	3532-3535	The	_
@@ -630,6 +653,7 @@
 23-50	3804-3812	analysis	_
 23-51	3813-3814	.	_
 
+Text=Preprocessing included realignment, slice time correction, co-registration, segmentation, normalization; nuisance removal (CompCor), regression of global mean and motion parameters (6 rigid body motion correction parameters computed from the SPM realignment routine, and the first derivative of each parameter); and temporal filtering (0.01–0.1Hz).
 24-1	3815-3828	Preprocessing	_
 24-2	3829-3837	included	_
 24-3	3838-3849	realignment	_
@@ -688,6 +712,7 @@
 24-56	4175-4176	)	_
 24-57	4177-4178	.	_
 
+Text=Given the emerging concerns that micro movements can affect between group differences in functional connectivity data even after standard motion correction procedures, we applied an additional “ scrubbing ” procedure described in previous works.
 25-1	4179-4184	Given	_
 25-2	4185-4188	the	_
 25-3	4189-4197	emerging	_
@@ -725,6 +750,7 @@
 25-35	4419-4424	works	_
 25-36	4425-4426	.	_
 
+Text=Briefly, the 6 rigid body motion correction parameters were converted into the Framewise Displacement (FD) by summing the absolute value of the 3 differenced translational parameters and the 3 differenced rotational parameters.
 26-1	4427-4434	Briefly	_
 26-2	4435-4436	,	_
 26-3	4437-4440	the	_
@@ -762,6 +788,7 @@
 26-35	4646-4656	parameters	_
 26-36	4657-4658	.	_
 
+Text=An FD threshold of .5 mm was used to identify potentially motion-contaminated scans, and one scan before and 2 scans after each of these scans above the FD threshold were excluded from further analysis.
 27-1	4659-4661	An	_
 27-2	4662-4664	FD	_
 27-3	4665-4674	threshold	_
@@ -799,6 +826,7 @@
 27-35	4853-4861	analysis	_
 27-36	4862-4863	.	_
 
+Text=All analysis was also repeated without the global signal regression (GSR) step.
 28-1	4864-4867	All	_
 28-2	4868-4876	analysis	_
 28-3	4877-4880	was	_
@@ -815,6 +843,7 @@
 28-14	4940-4944	step	_
 28-15	4945-4946	.	_
 
+Text=To perform seed-based functional connectivity analysis between sub-thalamic regions and the brain, the Oxford thalamic connectivity atlas was employed.
 29-1	4947-4949	To	_
 29-2	4950-4957	perform	_
 29-3	4958-4968	seed-based	_
@@ -837,6 +866,7 @@
 29-20	5090-5098	employed	_
 29-21	5099-5100	.	_
 
+Text=This atlas was generated using diffusion based structural connectivity in white matter between the thalamus and cortex, which segments the thalamus into seven sub-regions, with> 25% probability of connection to seven exclusive cortical areas, respectively (Figure 1).
 30-1	5101-5105	This	_
 30-2	5106-5111	atlas	_
 30-3	5112-5115	was	_
@@ -883,6 +913,7 @@
 30-44	5373-5374	)	_
 30-45	5375-5376	.	_
 
+Text=Seed-based analysis was carried out using each thalamic sub-region as a seed, and whole brain connectivity maps (z values) to each seed were calculated.
 31-1	5377-5387	Seed-based	_
 31-2	5388-5396	analysis	_
 31-3	5397-5400	was	_
@@ -912,6 +943,7 @@
 31-27	5521-5531	calculated	_
 31-28	5532-5533	.	_
 
+Text=Second-level t-tests were performed to examine differential connectivity between schizophrenia patients and controls in the whole brain.
 32-1	5534-5546	Second-level	_
 32-2	5547-5554	t-tests	_
 32-3	5555-5559	were	_
@@ -931,6 +963,7 @@
 32-17	5664-5669	brain	_
 32-18	5670-5671	.	_
 
+Text=Age, sex, smoking status, regional gray matter volume from anatomical scans, motion and differential motion parameters were all accounted for as covariates in the analysis.
 33-1	5672-5675	Age	_
 33-2	5676-5677	,	_
 33-3	5678-5681	sex	_
@@ -962,6 +995,7 @@
 33-29	5839-5847	analysis	_
 33-30	5848-5849	.	_
 
+Text=Significant clusters of decreased or increased thalamic connectivity were identified using threshold-free cluster enhancement.
 34-1	5850-5861	Significant	_
 34-2	5862-5870	clusters	_
 34-3	5871-5873	of	_
@@ -978,6 +1012,7 @@
 34-14	5964-5975	enhancement	_
 34-15	5976-5977	.	_
 
+Text=The IBASPM116 atlas (PickAtlas software, Wake Forest University, North Carolina, USA) was used to identify anatomical regions within the significant clusters (note that an anatomical region from the atlas may have both decreased or increased connectivity clusters in its sub-regions).
 35-1	5978-5981	The	_
 35-2	5982-5991	IBASPM116	_
 35-3	5992-5997	atlas	_
@@ -1027,6 +1062,7 @@
 35-47	6267-6268	)	_
 35-48	6269-6270	.	_
 
+Text=Effect size was estimated with Cohen ’ s d. Correlations between thalamic connectivity and disease duration, antipsychotic medication dosage, BPRS and MoCA scores (including the total score and subscales for both BPRS and MoCA) were evaluated using adjusted R2 from linear regression.
 36-1	6271-6277	Effect	_
 36-2	6278-6282	size	_
 36-3	6283-6286	was	_
@@ -1075,6 +1111,7 @@
 36-46	6548-6558	regression	_
 36-47	6559-6560	.	_
 
+Text=Note that for correlations between thalamic connectivity and disease duration, BPRS and MoCA scores, partial correlations were calculated with age, smoking status and medication dosage as covariates.
 37-1	6561-6565	Note	_
 37-2	6566-6570	that	_
 37-3	6571-6574	for	_
@@ -1107,6 +1144,7 @@
 37-30	6752-6762	covariates	_
 37-31	6763-6764	.	_
 
+Text=Multiple comparisons in the correlation analysis (functional connectivity between the thalamus and multiple cortical regions) were corrected for with the false-discovery rate (adjusted P <0.05).
 38-1	6765-6773	Multiple	_
 38-2	6774-6785	comparisons	_
 38-3	6786-6788	in	_

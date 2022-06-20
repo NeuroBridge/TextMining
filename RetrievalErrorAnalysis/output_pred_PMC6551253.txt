@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Alterations in White Matter Microstructure and Connectivity in Young Adults with Alcohol Use Disorder Background: Magnetic resonance imaging (MRI) studies have shown differences in volume and structure in the brains of individuals with alcohol use disorder (AUD).
 1-1	0-11	Alterations	_
 1-2	12-14	in	_
 1-3	15-20	White	_
@@ -46,6 +47,7 @@
 1-42	266-267	)	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 1-43	268-269	.	_
 
+Text=Most research has focused on neuropathological effects of alcohol that appear after years of chronic alcohol misuse.
 2-1	270-274	Most	_
 2-2	275-283	research	_
 2-3	284-287	has	_
@@ -65,6 +67,7 @@
 2-17	379-385	misuse	_
 2-18	386-387	.	_
 
+Text=However, few studies have investigated white matter (WM) microstructure and diffusion MRI-based (DWI) connectivity during early stages of AUD.
 3-1	388-395	However	_
 3-2	396-397	,	_
 3-3	398-401	few	_
@@ -91,6 +94,7 @@
 3-24	531-534	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 3-25	535-536	.	_
 
+Text=Therefore, the goal of this work was to investigate WM integrity and structural connectivity in emerging adulthood AUD subjects using both conventional DWI metrics and a novel connectomics approach.
 4-1	537-546	Therefore	_
 4-2	547-548	,	_
 4-3	549-552	the	_
@@ -123,6 +127,7 @@
 4-30	727-735	approach	_
 4-31	736-737	.	_
 
+Text=Methods: Twenty-two AUD and eighteen controls (CON) underwent anatomical and diffusion MRI.
 5-1	738-745	Methods	_
 5-2	746-747	:	_
 5-3	748-758	Twenty-two	_
@@ -140,6 +145,7 @@
 5-15	828-831	MRI	_
 5-16	832-833	.	_
 
+Text=Outcome measures were scalar diffusion metrics and structural network connectomes.
 6-1	834-841	Outcome	_
 6-2	842-850	measures	_
 6-3	851-855	were	_
@@ -152,6 +158,7 @@
 6-10	904-915	connectomes	_
 6-11	916-917	.	_
 
+Text=Tract Based Spatial Statistics was used to investigate group differences in diffusion measures.
 7-1	918-923	Tract	_
 7-2	924-929	Based	_
 7-3	930-937	Spatial	_
@@ -167,6 +174,7 @@
 7-13	1004-1012	measures	_
 7-14	1013-1014	.	_
 
+Text=Structural connectomes were used as input into a community structure procedure to obtain a co-classification index matrix (an indicator of community association strength) for each subject.
 8-1	1015-1025	Structural	_
 8-2	1026-1037	connectomes	_
 8-3	1038-1042	were	_
@@ -197,6 +205,7 @@
 8-28	1197-1204	subject	_
 8-29	1205-1206	.	_
 
+Text=Differences in co-classification and structural connectivity (indexed by streamline density) were assessed via the Network Based Statistics Toolbox.
 9-1	1207-1218	Differences	_
 9-2	1219-1221	in	_
 9-3	1222-1239	co-classification	_
@@ -219,6 +228,7 @@
 9-20	1349-1356	Toolbox	_
 9-21	1357-1358	.	_
 
+Text=Results: AUD had higher FA values throughout the major WM tracts, but also had lower FA values in WM tracts in the cerebellum and right insula (pTFCE <0.05).
 10-1	1359-1366	Results	_
 10-2	1367-1368	:	_
 10-3	1369-1372	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
@@ -254,6 +264,7 @@
 10-33	1519-1520	)	_
 10-34	1521-1522	.	_
 
+Text=Mean diffusivity was generally lower in the AUD group (pTFCE <0.05).
 11-1	1523-1527	Mean	_
 11-2	1528-1539	diffusivity	_
 11-3	1540-1543	was	_
@@ -270,6 +281,7 @@
 11-14	1592-1593	)	_
 11-15	1594-1595	.	_
 
+Text=AUD had lower co-classification of nodes between ventral attention and default mode networks, and higher co-classification between nodes of visual, default mode, and somatomotor networks.
 12-1	1596-1599	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 12-2	1600-1603	had	_
 12-3	1604-1609	lower	_
@@ -300,6 +312,7 @@
 12-28	1777-1785	networks	_
 12-29	1786-1787	.	_
 
+Text=Additionally, AUD had higher fiber density between an adjacent pair of nodes within the default mode network.
 13-1	1788-1800	Additionally	_
 13-2	1801-1802	,	_
 13-3	1803-1806	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
@@ -320,6 +333,7 @@
 13-18	1890-1897	network	_
 13-19	1898-1899	.	_
 
+Text=Conclusion: Our results indicate that emerging adulthood AUD subjects may have differential patterns of FA and distinct differences in structural connectomes compared to CON.
 14-1	1900-1910	Conclusion	_
 14-2	1911-1912	:	_
 14-3	1913-1916	Our	_
@@ -347,6 +361,7 @@
 14-25	2071-2074	CON	_
 14-26	2075-2076	.	_
 
+Text=These data suggest that such alterations in microstructure and structural connectivity may uniquely characterize early stages of AUD and/or a predisposition for development of AUD.
 15-1	2077-2082	These	_
 15-2	2083-2087	data	_
 15-3	2088-2095	suggest	_
@@ -374,6 +389,7 @@
 15-25	2253-2256	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 15-26	2257-2258	.	_
 
+Text=Materials and Methods Subjects All study procedures were approved by the Institutional Review Board at Indiana University.
 16-1	2259-2268	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 16-2	2269-2272	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 16-3	2273-2280	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -393,6 +409,7 @@
 16-17	2370-2380	University	_
 16-18	2381-2382	.	_
 
+Text=Informed consent was obtained from all subjects prior to study.
 17-1	2383-2391	Informed	_
 17-2	2392-2399	consent	_
 17-3	2400-2403	was	_
@@ -405,6 +422,7 @@
 17-10	2440-2445	study	_
 17-11	2446-2447	.	_
 
+Text=Twenty-two subjects with alcohol use disorder (AUD) and eighteen healthy controls (CON) were recruited from the community as part of a larger study as described in.
 18-1	2448-2458	Twenty-two	_
 18-2	2459-2467	subjects	http://maven.renci.org/NeuroBridge/neurobridge#SubjectwithoutDisorder
 18-3	2468-2472	with	http://maven.renci.org/NeuroBridge/neurobridge#SubjectwithoutDisorder
@@ -437,6 +455,7 @@
 18-30	2613-2615	in	_
 18-31	2616-2617	.	_
 
+Text=To qualify, participants had to be 18 – 30 years old, have at least 6th grade level of English comprehension, had consumed alcohol previously, and had no history of psychiatric illness or head trauma.
 19-1	2618-2620	To	_
 19-2	2621-2628	qualify	_
 19-3	2629-2630	,	_
@@ -477,6 +496,7 @@
 19-38	2815-2821	trauma	_
 19-39	2822-2823	.	_
 
+Text=AUD subjects had a current lifetime diagnosis of AUD.
 20-1	2824-2827	AUD	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 20-2	2828-2836	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 20-3	2837-2840	had	_
@@ -488,6 +508,7 @@
 20-9	2873-2876	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 20-10	2877-2878	.	_
 
+Text=Four AUD participants also had a past lifetime diagnosis of a Substance Use Disorder other than alcohol; one AUD participant met criteria for marijuana use disorder.
 21-1	2879-2883	Four	_
 21-2	2884-2887	AUD	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
 21-3	2888-2900	participants	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
@@ -517,6 +538,7 @@
 21-27	3036-3044	disorder	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceUseScale
 21-28	3045-3046	.	_
 
+Text=Severity of lifetime alcohol problems was measured using the Semi-Structured Assessment for the Genetics of Alcoholism (SSAGA), as the total count of all positive responses to all SSAGA questions in the Alcohol Diagnosis section.
 22-1	3047-3055	Severity	_
 22-2	3056-3058	of	_
 22-3	3059-3067	lifetime	_
@@ -556,6 +578,7 @@
 22-37	3271-3278	section	_
 22-38	3279-3280	.	_
 
+Text=The score range across all subjects was 0–99.
 23-1	3281-3284	The	_
 23-2	3285-3290	score	_
 23-3	3291-3296	range	_
@@ -566,6 +589,7 @@
 23-8	3321-3325	0–99	_
 23-9	3326-3327	.	_
 
+Text=Recent alcohol consumption was quantified as the total number of self-reported drinks in the last 2 weeks.
 24-1	3328-3334	Recent	_
 24-2	3335-3342	alcohol	_
 24-3	3343-3354	consumption	_
@@ -585,6 +609,7 @@
 24-17	3428-3433	weeks	_
 24-18	3434-3435	.	_
 
+Text=Prior to study day, subjects were asked to abstain from alcohol for 12 hours.
 25-1	3436-3441	Prior	_
 25-2	3442-3444	to	_
 25-3	3445-3450	study	_
@@ -602,6 +627,7 @@
 25-15	3508-3513	hours	_
 25-16	3514-3515	.	_
 
+Text=A breath alcohol test confirmed sobriety on scan day (Alco-Sensor IV, Intoximeters, St. Louis, MO).
 26-1	3516-3517	A	_
 26-2	3518-3524	breath	http://maven.renci.org/NeuroBridge/neurobridge#BreathHoldTask
 26-3	3525-3532	alcohol	_
@@ -624,6 +650,7 @@
 26-20	3618-3619	)	_
 26-21	3620-3621	.	_
 
+Text=Imaging Data were acquired on a Siemens 3T Trio-Tim (Siemens, Erlangen, Germany).
 27-1	3622-3629	Imaging	_
 27-2	3630-3634	Data	_
 27-3	3635-3639	were	_
@@ -642,6 +669,7 @@
 27-16	3705-3706	)	_
 27-17	3707-3708	.	_
 
+Text=Diffusion weighted data were collected with a single-shell (b=1000 s/mm2) 2D acquisition; 64 diffusion directions and 8 b = 0 volumes; A-P phase encoding; 128×128 matrix; 72 slices; 2 × 2 × 2 mm3 voxels, iPAT factor = 2.
 28-1	3709-3718	Diffusion	_
 28-2	3719-3727	weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 28-3	3728-3732	data	_
@@ -691,6 +719,7 @@
 28-47	3935-3936	2	_
 28-48	3937-3938	.	_
 
+Text=A T1-weighted 3D anatomic sequence was also acquired (Field of view = 192×168 matrix, 160 sagittal slices, and 1.3 × 1.3 × 1.3 mm3 voxels).
 29-1	3939-3940	A	_
 29-2	3941-3952	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 29-3	3953-3955	3D	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -722,6 +751,7 @@
 29-29	4080-4081	)	_
 29-30	4082-4083	.	_
 
+Text=Image processing An in-house Matlab-based pipeline that utilizes FSL (Version 5.0.9) and Camino was applied for image processing.
 30-1	4084-4089	Image	_
 30-2	4090-4100	processing	_
 30-3	4101-4103	An	_
@@ -744,6 +774,7 @@
 30-20	4204-4214	processing	_
 30-21	4215-4216	.	_
 
+Text=Each subjects ’ anatomic T1-weighted image was denoised, skull stripped (FSL bet), and segmented according to tissue-type (FSL FAST).
 31-1	4217-4221	Each	_
 31-2	4222-4230	subjects	_
 31-3	4231-4232	’	_
@@ -771,6 +802,7 @@
 31-25	4354-4355	)	_
 31-26	4356-4357	.	_
 
+Text=Diffusion weighted data were first denoised with local principal component analysis filter, then the eight b0 volumes were registered to the first volume and averaged.
 32-1	4358-4367	Diffusion	_
 32-2	4368-4376	weighted	_
 32-3	4377-4381	data	_
@@ -799,6 +831,7 @@
 32-26	4517-4525	averaged	_
 32-27	4526-4527	.	_
 
+Text=The data were then corrected for motion, eddy currents, and registered to each subject ’ s anatomic space.
 33-1	4528-4531	The	_
 33-2	4532-4536	data	_
 33-3	4537-4541	were	_
@@ -821,6 +854,7 @@
 33-20	4630-4635	space	_
 33-21	4636-4637	.	_
 
+Text=This image processing procedure has been previously published in detail elsewhere.
 34-1	4638-4642	This	_
 34-2	4643-4648	image	_
 34-3	4649-4659	processing	_
@@ -834,6 +868,7 @@
 34-11	4710-4719	elsewhere	_
 34-12	4720-4721	.	_
 
+Text=At each voxel, tensor estimation was done with multi-tensor fitting in Camino in which voxels were classified as isotropic, anisotropic Gaussian (single tensor), or nonGaussian (multi-tensor).
 35-1	4722-4724	At	_
 35-2	4725-4729	each	_
 35-3	4730-4735	voxel	_
@@ -869,6 +904,7 @@
 35-33	4919-4920	)	_
 35-34	4921-4922	.	_
 
+Text=Scalar metrics of diffusion including FA, MD, AD, and RD were derived from tensor data.
 36-1	4923-4929	Scalar	_
 36-2	4930-4937	metrics	_
 36-3	4938-4940	of	_
@@ -889,6 +925,7 @@
 36-18	5008-5012	data	_
 36-19	5013-5014	.	_
 
+Text=Streamline tractography was carried out in Camino with Fiber Assignment by Continuous Tracking algorithm in each subject ’ s anatomic space.
 37-1	5015-5025	Streamline	_
 37-2	5026-5038	tractography	_
 37-3	5039-5042	was	_
@@ -912,6 +949,7 @@
 37-21	5149-5154	space	_
 37-22	5155-5156	.	_
 
+Text=Relevant tractography parameters were: 1 seed per voxel at the interface of gray matter (GM) and WM (obtained from the overlap of dilated GM and WM tissue masks), with an additional seed placed if a streamline encountered a multi-tensor voxel, whereupon each streamline followed one of the tensor directions; step size 1 voxel; maximum turning angle of 45 degrees over 5 steps.
 38-1	5157-5165	Relevant	_
 38-2	5166-5178	tractography	_
 38-3	5179-5189	parameters	_
@@ -985,6 +1023,7 @@
 38-71	5537-5542	steps	_
 38-72	5543-5544	.	_
 
+Text=Streamlines terminated upon reaching another seed voxel at the GM/WM interface.
 39-1	5545-5556	Streamlines	_
 39-2	5557-5567	terminated	_
 39-3	5568-5572	upon	_
@@ -998,6 +1037,7 @@
 39-11	5614-5623	interface	_
 39-12	5624-5625	.	_
 
+Text=After tracking, a length filter was applied to discard very short (<8mm) or extremely long (> 180mm) streamlines.
 40-1	5626-5631	After	_
 40-2	5632-5640	tracking	_
 40-3	5641-5642	,	_
@@ -1024,6 +1064,7 @@
 40-24	5733-5744	streamlines	_
 40-25	5745-5746	.	_
 
+Text=Throughout the processing, data were visually inspected for proper alignment and quality.
 41-1	5747-5757	Throughout	_
 41-2	5758-5761	the	_
 41-3	5762-5772	processing	_
@@ -1039,6 +1080,7 @@
 41-13	5829-5836	quality	_
 41-14	5837-5838	.	_
 
+Text=Tract-Based Spatial Statistics (TBSS) FA maps for each subject were generated in subjects ’ anatomical space and analyzed via Tract-Based Spatial Statistics (TBSS).
 42-1	5839-5850	Tract-Based	_
 42-2	5851-5858	Spatial	_
 42-3	5859-5869	Statistics	_
@@ -1068,6 +1110,7 @@
 42-27	6005-6006	)	_
 42-28	6007-6008	.	_
 
+Text=These data were nonlinearly registered onto the FMRIB58 template FA image (FSL ’ s FNIRT).
 43-1	6009-6014	These	_
 43-2	6015-6019	data	_
 43-3	6020-6024	were	_
@@ -1087,6 +1130,7 @@
 43-17	6099-6100	)	_
 43-18	6101-6102	.	_
 
+Text=The mean FA volume was created and thinned to generate a skeleton representation of core WM tracts.
 44-1	6103-6106	The	_
 44-2	6107-6111	mean	_
 44-3	6112-6114	FA	_
@@ -1106,6 +1150,7 @@
 44-17	6195-6201	tracts	_
 44-18	6202-6203	.	_
 
+Text=Each subject ’ s FA data were then projected onto the skeleton and used for subsequent analysis.
 45-1	6204-6208	Each	_
 45-2	6209-6216	subject	_
 45-3	6217-6218	’	_
@@ -1125,6 +1170,7 @@
 45-17	6291-6299	analysis	_
 45-18	6300-6301	.	_
 
+Text=Structural Network Assembly For each subject, we generated a structural connectivity network matrix, where the cortical nodes were based on a previously published brain parcellation.
 46-1	6302-6312	Structural	_
 46-2	6313-6320	Network	_
 46-3	6321-6329	Assembly	_
@@ -1154,6 +1200,7 @@
 46-27	6473-6485	parcellation	_
 46-28	6486-6487	.	_
 
+Text=For the subcortical nodes, we implemented regions defined by for the striatum and by for the thalamus.
 47-1	6488-6491	For	_
 47-2	6492-6495	the	_
 47-3	6496-6507	subcortical	_
@@ -1174,6 +1221,7 @@
 47-18	6582-6590	thalamus	_
 47-19	6591-6592	.	_
 
+Text=The thalamic regions were further consolidated from 7 to 4 regions (pre-motor, primary motor, and sensory input regions were combined, and occipital and temporal regions were combined) per hemisphere to ensure sufficiently sized regions for tractography analysis.
 48-1	6593-6596	The	_
 48-2	6597-6605	thalamic	_
 48-3	6606-6613	regions	_
@@ -1218,6 +1266,7 @@
 48-42	6852-6860	analysis	_
 48-43	6861-6862	.	_
 
+Text=For all region pairs, number of streamlines and average seed surface area were extracted from the whole-brain tractogram with the Camino conmat function.
 49-1	6863-6866	For	_
 49-2	6867-6870	all	_
 49-3	6871-6877	region	_
@@ -1244,6 +1293,7 @@
 49-24	7008-7016	function	_
 49-25	7017-7018	.	_
 
+Text=The number of streamlines matrix was then thresholded to zero any values ≤ 2 to minimize the influence of false positive connections.
 50-1	7019-7022	The	_
 50-2	7023-7029	number	_
 50-3	7030-7032	of	_
@@ -1268,6 +1318,7 @@
 50-22	7140-7151	connections	_
 50-23	7152-7153	.	_
 
+Text=Finally, network edges were quantified as fiber density (number of streamlines / average seed surface of connected regions) between any pair of connected regions.
 51-1	7154-7161	Finally	_
 51-2	7162-7163	,	_
 51-3	7164-7171	network	_
@@ -1297,6 +1348,7 @@
 51-27	7311-7318	regions	_
 51-28	7319-7320	.	_
 
+Text=Global metrics of network connectivity were calculated from the fiber density matrices with the Brain Connectivity Toolbox.
 52-1	7321-7327	Global	_
 52-2	7328-7335	metrics	_
 52-3	7336-7338	of	_
@@ -1316,6 +1368,7 @@
 52-17	7436-7443	Toolbox	_
 52-18	7444-7445	.	_
 
+Text=Community Structure (From Hierarchical Consensus Clustering) For each subject ’ s structural connectivity network matrix (see above), a set of 1000 modularity partitions was generated with methodology that is part of a novel Multiresolution Consensus Clustering procedure developed by.
 53-1	7446-7455	Community	_
 53-2	7456-7465	Structure	_
 53-3	7466-7467	(	_
@@ -1362,6 +1415,7 @@
 53-44	7733-7735	by	_
 53-45	7736-7737	.	_
 
+Text=This method samples the full resolution range of resolution of modularity across a given number of partitions.
 54-1	7738-7742	This	_
 54-2	7743-7749	method	_
 54-3	7750-7757	samples	_
@@ -1381,6 +1435,7 @@
 54-17	7837-7847	partitions	_
 54-18	7848-7849	.	_
 
+Text=A co-classification (CA) matrix was then generated, where edge weights are the frequency with which two nodes belong to the same module across the identified ensemble of partitions.
 55-1	7850-7851	A	_
 55-2	7852-7869	co-classification	_
 55-3	7870-7871	(	_
@@ -1414,6 +1469,7 @@
 55-31	8023-8033	partitions	_
 55-32	8034-8035	.	_
 
+Text=Statistical Analyses Group subject demographics were assessed with independent-samples t-statistic or chi-squared tests, and results at p <0.05 were considered statistically significant.
 56-1	8036-8047	Statistical	_
 56-2	8048-8056	Analyses	_
 56-3	8057-8062	Group	_
@@ -1440,6 +1496,7 @@
 56-24	8212-8223	significant	_
 56-25	8224-8225	.	_
 
+Text=Group differences in FA images from TBSS were interrogated with permutation testing in FSL ’ s randomise.
 57-1	8226-8231	Group	_
 57-2	8232-8243	differences	_
 57-3	8244-8246	in	_
@@ -1459,6 +1516,7 @@
 57-17	8321-8330	randomise	_
 57-18	8331-8332	.	_
 
+Text=Contrasts were generated after 10,000 permutations with Threshold-Free Cluster Enhancement (TFCE) for multiple comparisons correction across all skeleton voxels.
 58-1	8333-8342	Contrasts	_
 58-2	8343-8347	were	_
 58-3	8348-8357	generated	_
@@ -1482,6 +1540,7 @@
 58-21	8489-8495	voxels	_
 58-22	8496-8497	.	_
 
+Text=Significant clusters from all contrasts were ordered by size and thresholded at the largest 1% (corresponding to> 500 voxels in size) of clusters across all comparisons (8 contrasts with a total of 1469 clusters that range 1 to 12892 voxels in size).
 59-1	8498-8509	Significant	_
 59-2	8510-8518	clusters	_
 59-3	8519-8523	from	_
@@ -1532,6 +1591,7 @@
 59-48	8752-8753	)	_
 59-49	8754-8755	.	_
 
+Text=FSL ’ s cluster tool was used to extract mean cluster FA.
 60-1	8756-8759	FSL	_
 60-2	8760-8761	’	_
 60-3	8762-8763	s	_
@@ -1546,6 +1606,7 @@
 60-12	8810-8812	FA	_
 60-13	8813-8814	.	_
 
+Text=Comparisons of continuous measures of subject characteristics and global metrics of network connectivity were conducted with independent samples t-tests.
 61-1	8815-8826	Comparisons	_
 61-2	8827-8829	of	_
 61-3	8830-8840	continuous	_
@@ -1567,6 +1628,7 @@
 61-19	8960-8967	t-tests	_
 61-20	8968-8969	.	_
 
+Text=Chi-squared tests were used to test for differences in categorical variables.
 62-1	8970-8981	Chi-squared	_
 62-2	8982-8987	tests	_
 62-3	8988-8992	were	_
@@ -1580,6 +1642,7 @@
 62-11	9037-9046	variables	_
 62-12	9047-9048	.	_
 
+Text=The Network Based Statistics (NBS) Toolbox was used to compare the fiber density and CA network matrices between groups.
 63-1	9049-9052	The	_
 63-2	9053-9060	Network	_
 63-3	9061-9066	Based	_
@@ -1603,6 +1666,7 @@
 63-21	9164-9170	groups	_
 63-22	9171-9172	.	_
 
+Text=False Discovery Rate (FDR) after 5,000 permutations was used to control for multiple comparisons.
 64-1	9173-9178	False	_
 64-2	9179-9188	Discovery	_
 64-3	9189-9193	Rate	_

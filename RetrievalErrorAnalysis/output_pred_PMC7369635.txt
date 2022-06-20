@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Schizotypy-Related Magnetization of Cortex in Healthy Adolescence Is Colocated With Expression of Schizophrenia-Related Genes Background Genetic risk is thought to drive clinical variation on a spectrum of schizophrenia-like traits, but the underlying changes in brain structure that mechanistically link genomic variation to schizotypal experience and behavior are unclear.
 1-1	0-18	Schizotypy-Related	_
 1-2	19-32	Magnetization	_
 1-3	33-35	of	_
@@ -53,6 +54,7 @@
 1-49	367-374	unclear	_
 1-50	375-376	.	_
 
+Text=Methods We assessed schizotypy using a self-reported questionnaire and measured magnetization transfer as a putative microstructural magnetic resonance imaging marker of intracortical myelination in 68 brain regions in 248 healthy young people (14–25 years of age).
 2-1	377-384	Methods	_
 2-2	385-387	We	_
 2-3	388-396	assessed	_
@@ -93,6 +95,7 @@
 2-38	642-643	)	_
 2-39	644-645	.	_
 
+Text=We used normative adult brain gene expression data and partial least squares analysis to find the weighted gene expression pattern that was most colocated with the cortical map of schizotypy-related magnetization.
 3-1	646-648	We	_
 3-2	649-653	used	_
 3-3	654-663	normative	_
@@ -126,6 +129,7 @@
 3-31	845-858	magnetization	_
 3-32	859-860	.	_
 
+Text=Results Magnetization was significantly correlated with schizotypy in the bilateral posterior cingulate cortex and precuneus (and for disorganized schizotypy, also in medial prefrontal cortex; all false discovery rate–corrected ps <.05), which are regions of the default mode network specialized for social and memory functions.
 4-1	861-868	Results	_
 4-2	869-882	Magnetization	_
 4-3	883-886	was	_
@@ -178,6 +182,7 @@
 4-50	1185-1194	functions	_
 4-51	1195-1196	.	_
 
+Text=The genes most positively weighted on the whole-genome expression map colocated with schizotypy-related magnetization were enriched for genes that were significantly downregulated in two prior case-control histological studies of brain gene expression in schizophrenia.
 5-1	1197-1200	The	_
 5-2	1201-1206	genes	_
 5-3	1207-1211	most	_
@@ -214,6 +219,7 @@
 5-34	1452-1465	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 5-35	1466-1467	.	_
 
+Text=Conversely, the most negatively weighted genes were enriched for genes that were transcriptionally upregulated in schizophrenia.
 6-1	1468-1478	Conversely	_
 6-2	1479-1480	,	_
 6-3	1481-1484	the	_
@@ -233,6 +239,7 @@
 6-17	1583-1596	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 6-18	1597-1598	.	_
 
+Text=Positively weighted (downregulated) genes were enriched for neuronal, specifically interneuronal, affiliations and coded a network of proteins comprising a few highly interactive “ hubs ” such as parvalbumin and calmodulin.
 7-1	1599-1609	Positively	_
 7-2	1610-1618	weighted	_
 7-3	1619-1620	(	_
@@ -269,6 +276,7 @@
 7-34	1815-1825	calmodulin	_
 7-35	1826-1827	.	_
 
+Text=Conclusions Microstructural magnetic resonance imaging maps of intracortical magnetization can be linked to both the behavioral traits of schizotypy and prior histological data on dysregulated gene expression in schizophrenia.
 8-1	1828-1839	Conclusions	_
 8-2	1840-1855	Microstructural	_
 8-3	1856-1864	magnetic	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -300,6 +308,7 @@
 8-29	2040-2053	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-30	2054-2055	.	_
 
+Text=Methods and Materials Participants A total of 2135 healthy young people, 14 to 25 years of age, were recruited from schools, colleges, National Health Service primary care services, and direct advertisement in north London and Cambridgeshire, United Kingdom.
 9-1	2056-2063	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-2	2064-2067	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-3	2068-2077	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -346,6 +355,7 @@
 9-44	2312-2319	Kingdom	_
 9-45	2320-2321	.	_
 
+Text=This primary cohort was stratified into 5 contiguous age-related strata, balanced for gender and ethnicity.
 10-1	2322-2326	This	_
 10-2	2327-2334	primary	_
 10-3	2335-2341	cohort	_
@@ -364,6 +374,7 @@
 10-16	2420-2429	ethnicity	_
 10-17	2430-2431	.	_
 
+Text=A secondary cohort of 297 individuals was recruited by randomly subsampling the primary cohort so that ∼60 participants were assigned to each of the same age-related strata, balanced for gender and ethnicity, as in the primary cohort.
 11-1	2432-2433	A	_
 11-2	2434-2443	secondary	_
 11-3	2444-2450	cohort	_
@@ -405,6 +416,7 @@
 11-39	2661-2667	cohort	_
 11-40	2668-2669	.	_
 
+Text=Participants were excluded if they had a current or past history of clinical treatment for a psychiatric disorder, drug or alcohol dependence, neurological disorder including epilepsy, head injury causing loss of consciousness, or learning disability (see Supplement for details).
 12-1	2670-2682	Participants	_
 12-2	2683-2687	were	_
 12-3	2688-2696	excluded	_
@@ -452,6 +464,7 @@
 12-45	2954-2955	)	_
 12-46	2956-2957	.	_
 
+Text=Written informed consent was provided by all participants as well as written parental assent for participants less than 16 years of age.
 13-1	2958-2965	Written	_
 13-2	2966-2974	informed	_
 13-3	2975-2982	consent	_
@@ -476,6 +489,7 @@
 13-22	3090-3093	age	_
 13-23	3094-3095	.	_
 
+Text=The study was approved by the National Research Ethics Service and conducted in accordance with National Health Service research governance standards.
 14-1	3096-3099	The	_
 14-2	3100-3105	study	_
 14-3	3106-3109	was	_
@@ -499,6 +513,7 @@
 14-21	3236-3245	standards	_
 14-22	3246-3247	.	_
 
+Text=Schizotypy Assessment The SPQ is a self-report scale, comprising 74 dichotomous items that are grouped on 9 subscales, measuring the complex trait of schizotypy.
 15-1	3248-3258	Schizotypy	_
 15-2	3259-3269	Assessment	http://maven.renci.org/NeuroBridge/neurobridge#SchizotypalPersonalityQuestionnaire
 15-3	3270-3273	The	http://maven.renci.org/NeuroBridge/neurobridge#SchizotypalPersonalityQuestionnaire
@@ -527,6 +542,7 @@
 15-26	3400-3410	schizotypy	_
 15-27	3411-3412	.	_
 
+Text=Participants completed the SPQ on 2 assessments, separated by 6 to 18 months, so that traitlike scores on total and subscale SPQ metrics could be estimated by the number of questionnaire items positively endorsed by each participant on average over time.
 16-1	3413-3425	Participants	_
 16-2	3426-3435	completed	_
 16-3	3436-3439	the	_
@@ -572,6 +588,7 @@
 16-43	3664-3668	time	_
 16-44	3669-3670	.	_
 
+Text=MRI Data Acquisition Structural MRI scans were acquired on 1 of 3 identical 3T MRI systems in London or Cambridge, United Kingdom (Magnetom TIM Trio [Siemens Healthcare, Erlangen, Germany], software version VB17).
 17-1	3671-3674	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 17-2	3675-3679	Data	_
 17-3	3680-3691	Acquisition	_
@@ -614,6 +631,7 @@
 17-40	3890-3891	)	_
 17-41	3892-3893	.	_
 
+Text=The multiparametric mapping protocol yielded 3 multiecho fast low-angle shot scans with variable excitation flip angles.
 18-1	3894-3897	The	_
 18-2	3898-3913	multiparametric	_
 18-3	3914-3921	mapping	_
@@ -632,6 +650,7 @@
 18-16	4007-4013	angles	_
 18-17	4014-4015	.	_
 
+Text=By appropriate choice of repetition time and flip angle α, acquisitions were predominantly weighted by T1 (repetition time = 18.7 ms, α = 20°), proton density, or MT (repetition time = 23.7 ms, α = 6°).
 19-1	4016-4018	By	_
 19-2	4019-4030	appropriate	_
 19-3	4031-4037	choice	_
@@ -679,6 +698,7 @@
 19-45	4225-4226	)	_
 19-46	4227-4228	.	_
 
+Text=Other acquisition parameters were 1-mm3 voxel resolution, 176 sagittal slices, and a field of view of 256 × 240 mm.
 20-1	4229-4234	Other	_
 20-2	4235-4246	acquisition	_
 20-3	4247-4257	parameters	_
@@ -703,6 +723,7 @@
 20-22	4343-4345	mm	_
 20-23	4346-4347	.	_
 
+Text=A pilot study demonstrated satisfactory levels of between-site reliability in multiparametric mapping data acquisition.
 21-1	4348-4349	A	_
 21-2	4350-4355	pilot	_
 21-3	4356-4361	study	_
@@ -719,6 +740,7 @@
 21-14	4455-4466	acquisition	_
 21-15	4467-4468	.	_
 
+Text=MT images and T1 images from this sample have been previously reported.
 22-1	4469-4471	MT	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 22-2	4472-4478	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 22-3	4479-4482	and	_
@@ -733,6 +755,7 @@
 22-12	4531-4539	reported	_
 22-13	4540-4541	.	_
 
+Text=MRI Reconstruction, Cortical Parcellation, and Estimation of SRM We used a standard automated processing pipeline for skull stripping, tissue classiﬁcation, surface extraction, and cortical parcellation (FreeSurfer [http: //surfer.nmr.mgh.harvard.edu]) applied to longitudinal relaxation rate (R1) maps (R1 = 1/T1).
 23-1	4542-4545	MRI	_
 23-2	4546-4560	Reconstruction	_
 23-3	4561-4562	,	_
@@ -787,6 +810,7 @@
 23-52	4869-4870	)	_
 23-53	4871-4872	.	_
 
+Text=Expert visual quality control ensured accurate segmentation of pial and gray/white matter boundaries.
 24-1	4873-4879	Expert	_
 24-2	4880-4886	visual	_
 24-3	4887-4894	quality	_
@@ -802,6 +826,7 @@
 24-13	4963-4973	boundaries	_
 24-14	4974-4975	.	_
 
+Text=Regional MT values were estimated at each of 68 cortical regions for each subject, resulting in a 248 × 68 regional MT data matrix.
 25-1	4976-4984	Regional	_
 25-2	4985-4987	MT	_
 25-3	4988-4994	values	_
@@ -829,6 +854,7 @@
 25-25	5101-5107	matrix	_
 25-26	5108-5109	.	_
 
+Text=The Euler number for the R1 images was calculated as a proxy measure of image quality in the simultaneously acquired MT images.
 26-1	5110-5113	The	_
 26-2	5114-5119	Euler	_
 26-3	5120-5126	number	_
@@ -853,6 +879,7 @@
 26-22	5230-5236	images	_
 26-23	5237-5238	.	_
 
+Text=A simple linear model of age-related change in MT was used to estimate two key parameters for each region: baseline MT at 14 years of age and age-related rate of change in the period from 14 to 24 years of age.
 27-1	5239-5240	A	_
 27-2	5241-5247	simple	_
 27-3	5248-5254	linear	_
@@ -897,6 +924,7 @@
 27-42	5446-5449	age	_
 27-43	5450-5451	.	_
 
+Text=For the principal analyses, effects of age on MT were controlled by regression before estimating the correlation of the age-corrected MT residuals with SPQ total score.
 28-1	5452-5455	For	_
 28-2	5456-5459	the	_
 28-3	5460-5469	principal	_
@@ -926,6 +954,7 @@
 28-27	5615-5620	score	_
 28-28	5621-5622	.	_
 
+Text=The Kolmogorov-Smirnov normality test was used to determine the appropriate correlation estimator (Pearson ’ s or Spearman ’ s).
 29-1	5623-5626	The	_
 29-2	5627-5645	Kolmogorov-Smirnov	_
 29-3	5646-5655	normality	_
@@ -949,6 +978,7 @@
 29-21	5751-5752	)	_
 29-22	5753-5754	.	_
 
+Text=Estimation of Regional Gene Expression We used the Allen Human Brain Atlas (AHBA), a whole-genome expression atlas of the adult human brain created by the Allen Institute for Brain Sciences using 6 donors 24 to 57 years of age (http: //human.brain-map.org).
 30-1	5755-5765	Estimation	_
 30-2	5766-5768	of	_
 30-3	5769-5777	Regional	_
@@ -998,6 +1028,7 @@
 30-47	6016-6017	)	_
 30-48	6018-6019	.	_
 
+Text=Probe-to-gene and sample-to-region mapping strategies can have a major impact on regional gene expression estimation.
 31-1	6020-6033	Probe-to-gene	_
 31-2	6034-6037	and	_
 31-3	6038-6054	sample-to-region	_
@@ -1015,6 +1046,7 @@
 31-15	6126-6136	estimation	_
 31-16	6137-6138	.	_
 
+Text=Here, we used the genome assembly hg19 (http: //sourceforge.net/projects/reannotator/) to reannotate the probe sequences into genes.
 32-1	6139-6143	Here	_
 32-2	6144-6145	,	_
 32-3	6146-6148	we	_
@@ -1037,6 +1069,7 @@
 32-20	6269-6274	genes	_
 32-21	6275-6276	.	_
 
+Text=When genes were mapped by multiple complementary RNA hybridization probes, the probe showing the highest average expression across samples was selected.
 33-1	6277-6281	When	_
 33-2	6282-6287	genes	_
 33-3	6288-6292	were	_
@@ -1061,6 +1094,7 @@
 33-22	6421-6429	selected	_
 33-23	6430-6431	.	_
 
+Text=MRI images of the AHBA donors were parcellated using the Desikan-Killiany atlas, and each cortical tissue sample was assigned to an anatomical structure.
 34-1	6432-6435	MRI	_
 34-2	6436-6442	images	_
 34-3	6443-6445	of	_
@@ -1087,6 +1121,7 @@
 34-24	6576-6585	structure	_
 34-25	6586-6587	.	_
 
+Text=Regional expression levels were compiled to form a 68 × 20,647 regional transcription matrix (see Supplement).
 35-1	6588-6596	Regional	_
 35-2	6597-6607	expression	_
 35-3	6608-6614	levels	_
@@ -1107,6 +1142,7 @@
 35-18	6698-6699	)	_
 35-19	6700-6701	.	_
 
+Text=SRM and Human Brain Gene Expression We used partial least squares (PLS) to analyze covariation between SRM and gene expression because it is technically well suited to the high collinearity of the gene expression data, and because PLS and the related multivariate method of canonical correlation analysis have been extensively developed and used for neuroimaging and transcriptional data analysis.
 36-1	6702-6705	SRM	_
 36-2	6706-6709	and	_
 36-3	6710-6715	Human	_
@@ -1171,6 +1207,7 @@
 36-62	7093-7101	analysis	_
 36-63	7102-7103	.	_
 
+Text=Specifically, we used PLS to analyze the relationship between the vector of 68 regional measures of SRM and the 68 × 20,647 matrix of 68 regional messenger RNA measurements for 20,647 genes.
 37-1	7104-7116	Specifically	_
 37-2	7117-7118	,	_
 37-3	7119-7121	we	_
@@ -1206,6 +1243,7 @@
 37-33	7289-7294	genes	_
 37-34	7295-7296	.	_
 
+Text=The first PLS component (PLS1) was defined as the weighted sum of whole-genome expression that was most strongly correlated, or most closely colocated, with the anatomical map of SRM.
 38-1	7297-7300	The	_
 38-2	7301-7306	first	_
 38-3	7307-7310	PLS	_
@@ -1241,6 +1279,7 @@
 38-33	7480-7483	SRM	_
 38-34	7484-7485	.	_
 
+Text=Permutation testing based on spherical rotations or “ spins ” of the spatially correlated SRM map was used to test the null hypothesis that PLS1 explained no more covariance between SRM and whole-genome expression than expected by chance.
 39-1	7486-7497	Permutation	_
 39-2	7498-7505	testing	_
 39-3	7506-7511	based	_
@@ -1281,6 +1320,7 @@
 39-38	7717-7723	chance	_
 39-39	7724-7725	.	_
 
+Text=Bootstrapping was used to estimate the variability of each gene ’ s positive or negative weight on PLS1, and we tested the null hypothesis of zero weight for each gene with a false discovery rate (FDR) of 5%.
 40-1	7726-7739	Bootstrapping	_
 40-2	7740-7743	was	_
 40-3	7744-7748	used	_
@@ -1325,6 +1365,7 @@
 40-42	7936-7937	%	_
 40-43	7938-7939	.	_
 
+Text=The set of genes that were significantly (positively or negatively) weighted on PLS1 was called the SRM gene list or set.
 41-1	7940-7943	The	_
 41-2	7944-7947	set	_
 41-3	7948-7950	of	_
@@ -1350,6 +1391,7 @@
 41-23	8059-8062	set	_
 41-24	8063-8064	.	_
 
+Text=Enrichment Analysis We assigned a cellular affiliation score to each gene in the SRM gene list according to prior criteria for 4 cell types—neuron, astrocyte, microglia, or oligodendroglia —and for a more fine-grained set of cell types (Table S2).
 42-1	8065-8075	Enrichment	_
 42-2	8076-8084	Analysis	_
 42-3	8085-8087	We	_
@@ -1396,6 +1438,7 @@
 42-44	8315-8316	)	_
 42-45	8317-8318	.	_
 
+Text=We used a data resampling procedure to test the null hypothesis that SRM genes were randomly assigned to different cell types.
 43-1	8319-8321	We	_
 43-2	8322-8326	used	_
 43-3	8327-8328	a	_
@@ -1419,6 +1462,7 @@
 43-21	8439-8444	types	_
 43-22	8445-8446	.	_
 
+Text=We used 2 lists of genes that were differentially expressed, or transcriptionally dysregulated, in postmortem brain tissue measurements of messenger RNA from case-control studies of schizophrenia: 1) the list of genes reported by Gandal et al.
 44-1	8447-8449	We	_
 44-2	8450-8454	used	_
 44-3	8455-8456	2	_
@@ -1461,6 +1505,7 @@
 44-40	8691-8693	al	_
 44-41	8694-8695	.	_
 
+Text=as upregulated (n = 845) or downregulated (n = 1175) in the prefrontal and parietal brain regions in schizophrenia (n = 159); and 2) the list of genes reported by Fromer et al.
 45-1	8696-8698	as	_
 45-2	8699-8710	upregulated	_
 45-3	8711-8712	(	_
@@ -1504,6 +1549,7 @@
 45-41	8877-8879	al	_
 45-42	8880-8881	.	_
 
+Text=as upregulated (n = 304) or downregulated (n = 345) in the dorsolateral prefrontal cortex in schizophrenia (n = 258).
 46-1	8882-8884	as	_
 46-2	8885-8896	upregulated	_
 46-3	8897-8898	(	_
@@ -1532,6 +1578,7 @@
 46-26	9003-9004	)	_
 46-27	9005-9006	.	_
 
+Text=The 2 gene lists were partially overlapping (Table S3), and differential expression of all genes subsumed by the union of the 2 lists was strongly correlated between studies (ρ = .76, p <10−129) (Figure S1).
 47-1	9007-9010	The	_
 47-2	9011-9012	2	_
 47-3	9013-9017	gene	_
@@ -1578,6 +1625,7 @@
 47-44	9221-9222	)	_
 47-45	9223-9224	.	_
 
+Text=We used repeated random relabeling of genes to test the null hypothesis that the SRM gene list included no more schizophrenia-related genes than expected by chance.
 48-1	9225-9227	We	_
 48-2	9228-9232	used	_
 48-3	9233-9241	repeated	_
@@ -1606,6 +1654,7 @@
 48-26	9382-9388	chance	_
 48-27	9389-9390	.	_
 
+Text=We also applied the same resampling procedures to comparable prior data on differential gene expression from case-control studies of inflammatory bowel disease, bipolar disorder (BPD), major depressive disorder, and autism spectrum disorder (ASD).
 49-1	9391-9393	We	_
 49-2	9394-9398	also	_
 49-3	9399-9406	applied	_
@@ -1648,6 +1697,7 @@
 49-40	9643-9644	)	_
 49-41	9645-9646	.	_
 
+Text=Data and Code Sharing Data Regional MT for 68 cortical regions, schizotypy scores, age, gender, socioeconomic status, scanning site, total brain volume, and Euler values (for N = 248) are available at https: //github.com/RafaelRomeroGarcia/Schizotypy_MT_geneExp.
 50-1	9647-9651	Data	_
 50-2	9652-9655	and	_
 50-3	9656-9660	Code	_
@@ -1694,6 +1744,7 @@
 50-44	9865-9918	//github.com/RafaelRomeroGarcia/Schizotypy_MT_geneExp	_
 50-45	9919-9920	.	_
 
+Text=Code Cortical parcellation of gene expression maps to estimate regional mean gene expression can be found at https: //github.com/RafaelRomeroGarcia/geneExpression_Repository.
 51-1	9921-9925	Code	_
 51-2	9926-9934	Cortical	_
 51-3	9935-9947	parcellation	_
@@ -1716,6 +1767,7 @@
 51-20	10038-10095	//github.com/RafaelRomeroGarcia/geneExpression_Repository	_
 51-21	10096-10097	.	_
 
+Text=The rotate_parcellation code generates null models that preserve the spatial contiguity of cortical regions for permutation testing: https: //github.com/frantisekvasa/rotate_parcellation.
 52-1	10098-10101	The	_
 52-2	10102-10121	rotate_parcellation	_
 52-3	10122-10126	code	_
@@ -1739,6 +1791,7 @@
 52-21	10240-10286	//github.com/frantisekvasa/rotate_parcellation	_
 52-22	10287-10288	.	_
 
+Text=PLS analysis and bootstrapping to estimate PLS weights can be found at https: //github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016/tree/master/SCRIPTS.
 53-1	10289-10292	PLS	_
 53-2	10293-10301	analysis	_
 53-3	10302-10305	and	_
@@ -1756,6 +1809,7 @@
 53-15	10368-10441	//github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016/tree/master/SCRIPTS	_
 53-16	10442-10443	.	_
 
+Text=To generate Figure S1 from the raw Gandal et al.
 54-1	10444-10446	To	_
 54-2	10447-10455	generate	_
 54-3	10456-10462	Figure	_
@@ -1768,12 +1822,14 @@
 54-10	10489-10491	al	_
 54-11	10492-10493	.	_
 
+Text=and Fromer et al.
 55-1	10494-10497	and	_
 55-2	10498-10504	Fromer	_
 55-3	10505-10507	et	_
 55-4	10508-10510	al	_
 55-5	10511-10512	.	_
 
+Text=datasets, we used https: //github.com/RafaelRomeroGarcia/Schizotypy_MT_geneExp.
 56-1	10513-10521	datasets	_
 56-2	10522-10523	,	_
 56-3	10524-10526	we	_
@@ -1783,6 +1839,7 @@
 56-7	10540-10593	//github.com/RafaelRomeroGarcia/Schizotypy_MT_geneExp	_
 56-8	10594-10595	.	_
 
+Text=For mapping regional values to the cortical surface for visualization (BrainsForPublication v0.2.1), see https: //doi.org/10.5281/zenodo.1069156.
 57-1	10596-10599	For	_
 57-2	10600-10607	mapping	_
 57-3	10608-10616	regional	_

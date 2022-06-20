@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Using concurrent EEG and fMRI to probe the state of the brain in schizophrenia Perceptional abnormalities in schizophrenia are associated with hallucinations and delusions, but also with negative symptoms and poor functional outcome.
 1-1	0-5	Using	_
 1-2	6-16	concurrent	_
 1-3	17-20	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -38,6 +39,7 @@
 1-34	226-233	outcome	_
 1-35	234-235	.	_
 
+Text=Perception can be studied using EEG-derived event related potentials (ERPs).
 2-1	236-246	Perception	_
 2-2	247-250	can	_
 2-3	251-253	be	_
@@ -52,6 +54,7 @@
 2-12	312-313	)	_
 2-13	314-315	.	_
 
+Text=Because of their excellent temporal resolution, ERPs have been used to ask when perception is affected by schizophrenia.
 3-1	316-323	Because	_
 3-2	324-326	of	_
 3-3	327-332	their	_
@@ -73,6 +76,7 @@
 3-19	423-436	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 3-20	437-438	.	_
 
+Text=Because of its excellent spatial resolution, functional magnetic resonance imaging (fMRI) has been used to ask where in the brain these effects are seen.
 4-1	439-446	Because	_
 4-2	447-449	of	_
 4-3	450-453	its	_
@@ -102,6 +106,7 @@
 4-27	590-594	seen	_
 4-28	595-596	.	_
 
+Text=We acquired EEG and fMRI data simultaneously to explore when and where auditory perception is affected by schizophrenia.
 5-1	597-599	We	_
 5-2	600-608	acquired	_
 5-3	609-612	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -122,6 +127,7 @@
 5-18	703-716	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 5-19	717-718	.	_
 
+Text=Thirty schizophrenia (SZ) patients and 23 healthy comparison subjects (HC) listened to 1000 Hz tones occurring about every second.
 6-1	719-725	Thirty	_
 6-2	726-739	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 6-3	740-741	(	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -147,6 +153,7 @@
 6-23	846-852	second	_
 6-24	853-854	.	_
 
+Text=We used joint independent components analysis (jICA) to combine EEG-based event-related potential (ERP) and fMRI responses to tones.
 7-1	855-857	We	_
 7-2	858-862	used	_
 7-3	863-868	joint	_
@@ -171,6 +178,7 @@
 7-22	985-990	tones	_
 7-23	991-992	.	_
 
+Text=Five ERP-fMRI joint independent components (JIC) were extracted.
 8-1	993-997	Five	_
 8-2	998-1006	ERP-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 8-3	1007-1012	joint	_
@@ -183,6 +191,7 @@
 8-10	1049-1058	extracted	_
 8-11	1059-1060	.	_
 
+Text=The “ N100 ” JIC had temporal weights during N100 (peaking at 100 ms post-tone onset) and fMRI spatial weights in superior and middle temporal gyri (STG/MTG); however, it did not differ between groups.
 9-1	1061-1064	The	_
 9-2	1065-1066	“	_
 9-3	1067-1071	N100	_
@@ -225,6 +234,7 @@
 9-40	1261-1267	groups	_
 9-41	1268-1269	.	_
 
+Text=The “ P200 ” JIC had temporal weights during P200 and positive fMRI spatial weights in STG/MTG and frontal areas, and negative spatial weights in the nodes of the default mode network (DMN) and visual cortex.
 10-1	1270-1273	The	_
 10-2	1274-1275	“	_
 10-3	1276-1280	P200	_
@@ -266,6 +276,7 @@
 10-39	1474-1480	cortex	_
 10-40	1481-1482	.	_
 
+Text=Groups differed on the “ P200 ” JIC: SZ had smaller “ P200 ” JIC, especially those with more severe avolition/apathy.
 11-1	1483-1489	Groups	_
 11-2	1490-1498	differed	_
 11-3	1499-1501	on	_
@@ -291,6 +302,7 @@
 11-23	1585-1601	avolition/apathy	_
 11-24	1602-1603	.	_
 
+Text=This is consistent with negative symptoms being related to perceptual deficits, and suggests patients with avolition/apathy may allocate too few resources to processing external auditory events and too many to processing internal events.
 12-1	1604-1608	This	_
 12-2	1609-1611	is	_
 12-3	1612-1622	consistent	_
@@ -327,6 +339,7 @@
 12-34	1835-1841	events	_
 12-35	1842-1843	.	_
 
+Text=Highlights Perceptual deficits in schizophrenia (SZ) were assessed using concurrent EEG + fMRI.
 13-1	1844-1854	Highlights	_
 13-2	1855-1865	Perceptual	_
 13-3	1866-1874	deficits	_
@@ -344,6 +357,7 @@
 13-15	1936-1940	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 13-16	1941-1942	.	_
 
+Text=Joint independent components (JIC) analysis integrated EEG-based ERP and fMRI data.
 14-1	1943-1948	Joint	_
 14-2	1949-1960	independent	_
 14-3	1961-1971	components	_
@@ -359,6 +373,7 @@
 14-13	2023-2027	data	_
 14-14	2028-2029	.	_
 
+Text=“ N100 ” and “ P200 ” JICs were associated with auditory cortical activity.
 15-1	2030-2031	“	_
 15-2	2032-2036	N100	_
 15-3	2037-2038	”	_
@@ -375,6 +390,7 @@
 15-14	2096-2104	activity	_
 15-15	2105-2106	.	_
 
+Text=“ P200 ” JIC was inversely related to visual and default mode network (DMN) activity.
 16-1	2107-2108	“	_
 16-2	2109-2113	P200	_
 16-3	2114-2115	”	_
@@ -394,6 +410,7 @@
 16-17	2185-2193	activity	_
 16-18	2194-2195	.	_
 
+Text=SZ had smaller “ P200 ” JICs, especially those with severe negative symptoms.
 17-1	2196-2198	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 17-2	2199-2202	had	_
 17-3	2203-2210	smaller	_
@@ -410,6 +427,7 @@
 17-14	2265-2273	symptoms	_
 17-15	2274-2275	.	_
 
+Text=Materials and methods Participants Data are reported here from 30 patients with DSM-IV schizophrenia (N = 24) and schizoaffective disorder (N = 6) (hereinafter referred to as schizophrenia (SZ) patients), and 23 age- and gender-matched healthy comparison (HC) subjects (see below for description of why 8 SZ and 5 HC were dropped from the initial sample of 66 subjects.)
 18-1	2276-2285	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 18-2	2286-2289	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 18-3	2290-2297	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -484,6 +502,7 @@
 18-72	2657-2658	.	_
 18-73	2659-2660	)	_
 
+Text=Diagnoses were based on the Structured Clinical Interview for DSM-IV.
 19-1	2661-2670	Diagnoses	_
 19-2	2671-2675	were	_
 19-3	2676-2681	based	_
@@ -496,6 +515,7 @@
 19-10	2723-2729	DSM-IV	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 19-11	2730-2731	.	_
 
+Text=Community outpatient clinicians referred SZ to us; both groups were recruited by advertisements and word of mouth.
 20-1	2732-2741	Community	_
 20-2	2742-2752	outpatient	_
 20-3	2753-2763	clinicians	_
@@ -516,6 +536,7 @@
 20-18	2841-2846	mouth	_
 20-19	2847-2848	.	_
 
+Text=Exclusion criteria for HC included any past or current major DSM-IV Axis I disorder based on a Structured Clinical Interview for DSM-IV Disorders, or having a first-degree relative with a psychotic disorder.
 21-1	2849-2858	Exclusion	_
 21-2	2859-2867	criteria	_
 21-3	2868-2871	for	_
@@ -551,6 +572,7 @@
 21-33	3048-3056	disorder	_
 21-34	3057-3058	.	_
 
+Text=For both groups, exclusion criteria were a history of a significant medical or neurological illness, head injury resulting in loss of consciousness, or substance abuse in the past 3 months.
 22-1	3059-3062	For	_
 22-2	3063-3067	both	_
 22-3	3068-3074	groups	_
@@ -586,6 +608,7 @@
 22-33	3244-3250	months	_
 22-34	3251-3252	.	_
 
+Text=Additionally, HC did not have history of substance dependence (except nicotine), whereas SZ did not meet criteria for substance dependence within the past year.
 23-1	3253-3265	Additionally	_
 23-2	3266-3267	,	_
 23-3	3268-3270	HC	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -616,6 +639,7 @@
 23-28	3412-3416	year	_
 23-29	3417-3418	.	_
 
+Text=A psychiatrist or clinical psychologist conducted all interviews.
 24-1	3419-3420	A	_
 24-2	3421-3433	psychiatrist	_
 24-3	3434-3436	or	_
@@ -626,6 +650,7 @@
 24-8	3473-3483	interviews	_
 24-9	3484-3485	.	_
 
+Text=Institutional Review Boards at the University of California at San Francisco and the San Francisco Veterans Affairs Medical Center approved the study, and all participants provided written informed consent.
 25-1	3486-3499	Institutional	_
 25-2	3500-3506	Review	_
 25-3	3507-3513	Boards	_
@@ -658,6 +683,7 @@
 25-30	3685-3692	consent	_
 25-31	3693-3694	.	_
 
+Text=Clinical and demographic data are presented in Table 1 for those subjects included in the final analysis.
 26-1	3695-3703	Clinical	_
 26-2	3704-3707	and	_
 26-3	3708-3719	demographic	_
@@ -677,6 +703,7 @@
 26-17	3791-3799	analysis	_
 26-18	3800-3801	.	_
 
+Text=Clinical ratings A trained research assistant, along with a psychiatrist or clinical psychologist, rated schizophrenia symptoms using the Scale for the Assessment of Positive Symptoms (SAPS) and the Scale for the Assessment of Negative Symptoms (SANS).
 27-1	3802-3810	Clinical	_
 27-2	3811-3818	ratings	_
 27-3	3819-3820	A	_
@@ -721,6 +748,7 @@
 27-42	4058-4059	)	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofNegativeSymptoms
 27-43	4060-4061	.	_
 
+Text=Experimental tasks Subjects were instructed to, “ Rest with your eyes open, look at a fixation cross, and listen to the sequence of tones you just generated. ” They listened to a series of 500 ms, 1000 Hz tones, presented in 16 seconds (s) blocks alternating with 16 s blocks of rest.
 28-1	4062-4074	Experimental	_
 28-2	4075-4080	tasks	_
 28-3	4081-4089	Subjects	_
@@ -782,6 +810,7 @@
 28-59	4348-4352	rest	_
 28-60	4353-4354	.	_
 
+Text=The first and last rest blocks lasted 30 s each to facilitate EEG artifact correction procedures described below.
 29-1	4355-4358	The	_
 29-2	4359-4364	first	_
 29-3	4365-4368	and	_
@@ -802,6 +831,7 @@
 29-18	4462-4467	below	_
 29-19	4468-4469	.	_
 
+Text=There were two runs with 10 Listen and 10 Rest blocks.
 30-1	4470-4475	There	_
 30-2	4476-4480	were	_
 30-3	4481-4484	two	_
@@ -815,6 +845,7 @@
 30-11	4517-4523	blocks	_
 30-12	4524-4525	.	_
 
+Text=The individual sequences of tones presented during the Listen task had been generated by each subject earlier when subjects pressed a button every 1 to 2 s to deliver a tone (the Self task).
 31-1	4526-4529	The	_
 31-2	4530-4540	individual	_
 31-3	4541-4550	sequences	_
@@ -853,6 +884,7 @@
 31-36	4716-4717	)	_
 31-37	4718-4719	.	_
 
+Text=EEG responses to tones collected in the MR scanner during the Self task cannot be analyzed because a button press artifact occurs in the EEG at the exact moment of tone onset.
 32-1	4720-4723	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 32-2	4724-4733	responses	_
 32-3	4734-4736	to	_
@@ -888,6 +920,7 @@
 32-33	4890-4895	onset	_
 32-34	4896-4897	.	_
 
+Text=However, the fMRI data were not affected and will be described in a separate paper.
 33-1	4898-4905	However	_
 33-2	4906-4907	,	_
 33-3	4908-4911	the	_
@@ -906,6 +939,7 @@
 33-16	4976-4981	paper	_
 33-17	4982-4983	.	_
 
+Text=There were no significant differences in the number of tones between the groups, t (51) = 0.80, p = 0.43; HC (mean = 182 ± 35), SZ (mean = 171 ± 58).
 34-1	4984-4989	There	_
 34-2	4990-4994	were	_
 34-3	4995-4997	no	_
@@ -950,6 +984,7 @@
 34-42	5141-5142	)	_
 34-43	5143-5144	.	_
 
+Text=The interval between tones (in seconds) also did not differ between groups, t (51) = − 1.3, p = 0.22, HC (mean = 0.95 ± 0.22), SZ (mean = 1.05 ± 0.35).
 35-1	5145-5148	The	_
 35-2	5149-5157	interval	_
 35-3	5158-5165	between	_
@@ -996,6 +1031,7 @@
 35-44	5306-5307	)	_
 35-45	5308-5309	.	_
 
+Text=MRI data acquisition, preprocessing and analysis We collected structural and functional MRI data using a 3 T Siemens Skyra scanner.
 36-1	5310-5313	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 36-2	5314-5318	data	_
 36-3	5319-5330	acquisition	_
@@ -1019,6 +1055,7 @@
 36-21	5434-5441	scanner	http://maven.renci.org/NeuroBridge/neurobridge#2Level
 36-22	5442-5443	.	_
 
+Text=The structural imaging protocol was a magnetization-prepared rapid gradient-echo (MPRAGE) T1-weighted high-resolution image (2300 ms TR, 2.98 ms TE, 1.20 mm slice thickness, 256 mm field of view, 1.0 × 1.0 × 1.2 voxel size, flip angle 9°, sagittal orientation, 9:14 min).
 37-1	5444-5447	The	_
 37-2	5448-5458	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 37-3	5459-5466	imaging	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1074,6 +1111,7 @@
 37-53	5724-5725	)	_
 37-54	5726-5727	.	_
 
+Text=The fMRI protocol was an AC-PC aligned echo planar imaging (EPI) sequence (2000 ms TR, 30 ms TE, flip angle 77°, 30 slices collected sequentially in ascending order, 3.4 × 3.4 × 4.0 mm voxel size, 182 frames, 6:08 min).
 38-1	5728-5731	The	_
 38-2	5732-5736	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 38-3	5737-5745	protocol	_
@@ -1126,6 +1164,7 @@
 38-50	5955-5956	)	_
 38-51	5957-5958	.	_
 
+Text=Image preprocessing was done using Statistical Parametric Mapping 8 (SPM8; http: //www.fil.ion.ucl.ac.uk/spm/software/spm8/).
 39-1	5959-5964	Image	_
 39-2	5965-5978	preprocessing	_
 39-3	5979-5982	was	_
@@ -1144,6 +1183,7 @@
 39-16	6086-6087	)	_
 39-17	6088-6089	.	_
 
+Text=First, motion correction was performed via affine registration of all runs, where the first image of each run was realigned to the first image of the first run, and then re-alignment proceeded within each run.
 40-1	6090-6095	First	_
 40-2	6096-6097	,	_
 40-3	6098-6104	motion	_
@@ -1184,6 +1224,7 @@
 40-38	6298-6301	run	_
 40-39	6302-6303	.	_
 
+Text=Next, images were slice-time corrected with respect to the middle slice to adjust for timing differences of individual slices within each TR.
 41-1	6304-6308	Next	_
 41-2	6309-6310	,	_
 41-3	6311-6317	images	_
@@ -1209,6 +1250,7 @@
 41-23	6443-6445	TR	_
 41-24	6446-6447	.	_
 
+Text=To further denoise the data, we implemented aCompCor (anatomic component based noise correction), a principal components-based approach to noise reduction of fMRI time-series data.
 42-1	6448-6450	To	_
 42-2	6451-6458	further	_
 42-3	6459-6466	denoise	_
@@ -1239,6 +1281,7 @@
 42-28	6627-6631	data	_
 42-29	6632-6633	.	_
 
+Text=ACompCor derives principal components from the time series of voxels within noise regions of interest (ROIs) defined on eroded white matter and cerebrospinal fluid (CSF) parcels from participants' segmented high-resolution T1-weighted anatomical images.
 43-1	6634-6642	ACompCor	_
 43-2	6643-6650	derives	_
 43-3	6651-6660	principal	_
@@ -1279,6 +1322,7 @@
 43-38	6885-6891	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 43-39	6892-6893	.	_
 
+Text=To derive these white matter and CSF noise ROIs, the structural MRI scan was segmented using SPM 8, yielding a white matter map that was thresholded at p> 0.99 and eroded by 2 voxels, and a CSF map that was thresholded at p> 0.9 and eroded using a 3D nearest neighbor clustering criterion of at least two neighbors.
 44-1	6894-6896	To	_
 44-2	6897-6903	derive	_
 44-3	6904-6909	these	_
@@ -1344,6 +1388,7 @@
 44-63	7204-7213	neighbors	_
 44-64	7214-7215	.	_
 
+Text=A binary union mask of these white matter and CSF noise ROIs was generated and co-registered to the mean functional scan.
 45-1	7216-7217	A	_
 45-2	7218-7224	binary	_
 45-3	7225-7230	union	_
@@ -1367,6 +1412,7 @@
 45-21	7332-7336	scan	_
 45-22	7337-7338	.	_
 
+Text=Before proceeding with a principal component analysis (PCA) of the functional time series data of voxels contained in this co-registered white matter/CSF noise ROI mask, voxels in the mask that showed even weak relationships with the task regressors (p <0.2) were excluded.
 46-1	7339-7345	Before	_
 46-2	7346-7356	proceeding	_
 46-3	7357-7361	with	_
@@ -1417,6 +1463,7 @@
 46-48	7609-7617	excluded	_
 46-49	7618-7619	.	_
 
+Text=Time series data for the remaining voxels in the noise ROI mask were then subjected to a PCA, and a number of noise (principal) components comprising weighted averages of white matter and CSF voxel time series were extracted.
 47-1	7620-7624	Time	_
 47-2	7625-7631	series	_
 47-3	7632-7636	data	_
@@ -1460,6 +1507,7 @@
 47-41	7838-7847	extracted	_
 47-42	7848-7849	.	_
 
+Text=The number of components extracted was determined for each subject using a version of the broken stick method, a bootstrap procedure.
 48-1	7850-7853	The	_
 48-2	7854-7860	number	_
 48-3	7861-7863	of	_
@@ -1484,6 +1532,7 @@
 48-22	7974-7983	procedure	_
 48-23	7984-7985	.	_
 
+Text=For individual participant (first-level) modeling of the fMRI data, an event-related analysis was implemented.
 49-1	7986-7989	For	_
 49-2	7990-8000	individual	_
 49-3	8001-8012	participant	_
@@ -1503,6 +1552,7 @@
 49-17	8087-8098	implemented	_
 49-18	8099-8100	.	_
 
+Text=SPM's canonical hemodynamic response function (a double gamma function) was convolved with task event vectors to create a first-level task regressor representing the predicted response of a voxel activated by the presented tones.
 50-1	8101-8104	SPM	_
 50-2	8105-8107	's	_
 50-3	8108-8117	canonical	_
@@ -1541,6 +1591,7 @@
 50-36	8327-8332	tones	_
 50-37	8333-8334	.	_
 
+Text=After applying a high pass temporal filter (128 s cut-off) to remove low-frequency noise, a general linear model was implemented voxel-wise, regressing each voxel's time series on the task regressor, as well as on nuisance regressors consisting of the aCompCor noise components.
 51-1	8335-8340	After	_
 51-2	8341-8349	applying	_
 51-3	8350-8351	a	_
@@ -1591,11 +1642,13 @@
 51-48	8608-8618	components	_
 51-49	8619-8620	.	_
 
+Text=Parameters (i.e.
 52-1	8621-8631	Parameters	_
 52-2	8632-8633	(	_
 52-3	8634-8637	i.e	_
 52-4	8638-8639	.	_
 
+Text=beta coefficients) representing the fit of the task regressor to a voxel's time series were estimated, and resulting beta images, reflecting the contrast of tones versus implicit baseline (rest blocks), were then averaged over the two task runs.
 53-1	8640-8644	beta	_
 53-2	8645-8657	coefficients	_
 53-3	8658-8659	)	_
@@ -1643,6 +1696,7 @@
 53-45	8887-8891	runs	_
 53-46	8892-8893	.	_
 
+Text=Next, mean beta images were normalized by applying the spatial transformation matrix derived from normalization of the mean functional image (generated during motion correction) to the Montreal Neurological Institute's EPI template (http: //www.bic.mni.mcgill.ca).
 54-1	8894-8898	Next	_
 54-2	8899-8900	,	_
 54-3	8901-8905	mean	_
@@ -1685,6 +1739,7 @@
 54-40	9163-9164	)	_
 54-41	9165-9166	.	_
 
+Text=Normalized beta images were resliced to 3 mm3 isotropic voxel dimensions using a fourth degree B-spline and were then spatially smoothed with a 6 mm full-width-half-maximum Gaussian kernel.
 55-1	9167-9177	Normalized	_
 55-2	9178-9182	beta	_
 55-3	9183-9189	images	_
@@ -1715,6 +1770,7 @@
 55-28	9349-9355	kernel	_
 55-29	9356-9357	.	_
 
+Text=Subsequently, each subject's first-level analysis brain mask image was normalized and applied to the smoothed beta image to mask out regions with insufficient signal intensity, as determined by SPM during first level modeling.
 56-1	9358-9370	Subsequently	_
 56-2	9371-9372	,	_
 56-3	9373-9377	each	_
@@ -1753,6 +1809,7 @@
 56-36	9578-9586	modeling	_
 56-37	9587-9588	.	_
 
+Text=In addition, a ventricular mask, generated using the Talairach Daemon database in Wake Forrest University's Pick Atlas, was used to mask out the lateral ventricles in the single subject normalized smoothed beta images.
 57-1	9589-9591	In	_
 57-2	9592-9600	addition	_
 57-3	9601-9602	,	_
@@ -1792,6 +1849,7 @@
 57-37	9804-9810	images	_
 57-38	9811-9812	.	_
 
+Text=EEG data acquisition, preprocessing, and analysis Continuous EEG data were collected from 32 sites using BrainAmp MR plus, with high-input impedance specifically designed for recordings in high magnetic fields (BrainProducts, Munich, Germany).
 58-1	9813-9816	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 58-2	9817-9821	data	_
 58-3	9822-9833	acquisition	_
@@ -1833,6 +1891,7 @@
 58-39	10061-10062	)	_
 58-40	10063-10064	.	_
 
+Text=We used sintered Ag/AgCl ring electrodes with 5 kΩ resistors embedded in an electrode cap according to the 10–20 system (Falk Minow Services, Herrsching, Germany).
 59-1	10065-10067	We	_
 59-2	10068-10072	used	_
 59-3	10073-10081	sintered	_
@@ -1864,6 +1923,7 @@
 59-29	10230-10231	)	_
 59-30	10232-10233	.	_
 
+Text=An electrode was placed on the lower back to monitor electrocardiograms (ECG).
 60-1	10234-10236	An	_
 60-2	10237-10246	electrode	_
 60-3	10247-10250	was	_
@@ -1880,6 +1940,7 @@
 60-14	10312-10313	)	_
 60-15	10314-10315	.	_
 
+Text=Electrode impedances were kept below 10 kΩ.
 61-1	10316-10325	Electrode	_
 61-2	10326-10336	impedances	_
 61-3	10337-10341	were	_
@@ -1889,6 +1950,7 @@
 61-7	10356-10358	kΩ	_
 61-8	10359-10360	.	_
 
+Text=The nonmagnetic, battery powered, EEG amplifier was placed behind the MRI head coil and stabilized with sandbags.
 62-1	10361-10364	The	_
 62-2	10365-10376	nonmagnetic	_
 62-3	10377-10378	,	_
@@ -1910,6 +1972,7 @@
 62-19	10467-10475	sandbags	_
 62-20	10476-10477	.	_
 
+Text=The subject's head was immobilized using cushions.
 63-1	10478-10481	The	_
 63-2	10482-10489	subject	_
 63-3	10490-10492	's	_
@@ -1920,6 +1983,7 @@
 63-8	10520-10528	cushions	_
 63-9	10529-10530	.	_
 
+Text=EEG data were transmitted via a fiber optic cable to a BrainAmp USB Adapter that synchronized the EEG acquisition clock to the MRI master clock via a SyncBox (BrainProducts) before transferring data via USB to a laptop computer placed outside the scanner room.
 64-1	10531-10534	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 64-2	10535-10539	data	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 64-3	10540-10544	were	_
@@ -1967,6 +2031,7 @@
 64-45	10788-10792	room	_
 64-46	10793-10794	.	_
 
+Text=All 32 channels were recorded with FCz as reference and AFz as ground to minimize the distance between reference and recording sites and to prevent amplifier saturation.
 65-1	10795-10798	All	_
 65-2	10799-10801	32	_
 65-3	10802-10810	channels	_
@@ -1996,6 +2061,7 @@
 65-27	10953-10963	saturation	_
 65-28	10964-10965	.	_
 
+Text=The data were recorded with a bandpass filter of 0.01–250 Hz and digitized at a rate of 5 kHz with 0.5 μV resolution (16 bit dynamic range, 16.38 mV).
 66-1	10966-10969	The	_
 66-2	10970-10974	data	_
 66-3	10975-10979	were	_
@@ -2030,6 +2096,7 @@
 66-32	11117-11118	)	_
 66-33	11119-11120	.	_
 
+Text=Removal of artifacts from EEG EEG data were corrected for MR gradient artifacts by applying modified algorithms proposed by as implemented in Brain Vision Analyzer 2.0.4.368 software (BrainProducts).
 67-1	11121-11128	Removal	_
 67-2	11129-11131	of	_
 67-3	11132-11141	artifacts	_
@@ -2062,6 +2129,7 @@
 67-30	11320-11321	)	_
 67-31	11322-11323	.	_
 
+Text=Next, the ECG channel was bandpass filtered 1–20 Hz to facilitate heartbeat detection and subsequent ballistocardiac artifact correction (see Appendix A for details.)
 68-1	11324-11328	Next	_
 68-2	11329-11330	,	_
 68-3	11331-11334	the	_
@@ -2090,6 +2158,7 @@
 68-26	11491-11492	.	_
 68-27	11493-11494	)	_
 
+Text=Canonical correlation-based denoising of EEG Canonical correlation analysis (CCA) was used as a blind source separation technique to remove broadband or electromyography (EMG) noise from single trial EEG data using a method similar to that used by others with some important differences.
 69-1	11495-11504	Canonical	_
 69-2	11505-11522	correlation-based	_
 69-3	11523-11532	denoising	_
@@ -2138,6 +2207,7 @@
 69-46	11774-11785	differences	_
 69-47	11786-11787	.	_
 
+Text=The CCA de-noising procedure involves correlating time series data from all channels with the one-sample time-lagged series from all channels, which is the multivariate equivalent of auto-regressive time series correlation.
 70-1	11788-11791	The	_
 70-2	11792-11795	CCA	_
 70-3	11796-11806	de-noising	_
@@ -2171,6 +2241,7 @@
 70-31	12000-12011	correlation	_
 70-32	12012-12013	.	_
 
+Text=Each set of canonical correlation coefficients (one for each scalp electrode resulting in 31 for this study) has an associated time series (i.e.
 71-1	12014-12018	Each	_
 71-2	12019-12022	set	_
 71-3	12023-12025	of	_
@@ -2199,6 +2270,7 @@
 71-26	12157-12160	i.e	_
 71-27	12161-12162	.	_
 
+Text=linear function of the coefficients and raw data called canonical variates).
 72-1	12163-12169	linear	_
 72-2	12170-12178	function	_
 72-3	12179-12181	of	_
@@ -2213,6 +2285,7 @@
 72-12	12238-12239	)	_
 72-13	12240-12241	.	_
 
+Text=The fast Fourier transformed (FFT) power spectra of these canonical variate time series have been used to identify EMG components by taking the ratio of high (e.g.
 73-1	12242-12245	The	_
 73-2	12246-12250	fast	_
 73-3	12251-12258	Fourier	_
@@ -2245,6 +2318,7 @@
 73-30	12404-12407	e.g	_
 73-31	12408-12409	.	_
 
+Text=15 to 30 Hz) to low (e.g.
 74-1	12410-12412	15	_
 74-2	12413-12415	to	_
 74-3	12416-12418	30	_
@@ -2256,6 +2330,7 @@
 74-9	12433-12436	e.g	_
 74-10	12437-12438	.	_
 
+Text=<15 Hz) power and removing components with ratios greater than a pre-determined limit (e.g.
 75-1	12439-12440	<	_
 75-2	12441-12443	15	_
 75-3	12444-12446	Hz	_
@@ -2275,6 +2350,7 @@
 75-17	12529-12532	e.g	_
 75-18	12533-12534	.	_
 
+Text=if high/low> 1/5 in).
 76-1	12535-12537	if	_
 76-2	12538-12546	high/low	_
 76-3	12547-12548	>	_
@@ -2283,6 +2359,7 @@
 76-6	12556-12557	)	_
 76-7	12558-12559	.	_
 
+Text=This is a very rough heuristic for determining if a canonical variate's power spectrum has power-law scaling (e.g.
 77-1	12560-12564	This	_
 77-2	12565-12567	is	_
 77-3	12568-12569	a	_
@@ -2305,6 +2382,7 @@
 77-20	12672-12675	e.g	_
 77-21	12676-12677	.	_
 
+Text=1/fβ or fα, where − β = α) where log-transformed power decreases linearly with increasing log-transformed frequency.
 78-1	12678-12682	1/fβ	_
 78-2	12683-12685	or	_
 78-3	12686-12688	fα	_
@@ -2326,6 +2404,7 @@
 78-19	12786-12795	frequency	_
 78-20	12796-12797	.	_
 
+Text=Previous studies have suggested that the exponent, α, is less than − 1 in human EEG, while white noise or EMG would have an exponent of approximately zero.
 79-1	12798-12806	Previous	_
 79-2	12807-12814	studies	_
 79-3	12815-12819	have	_
@@ -2359,6 +2438,7 @@
 79-31	12951-12955	zero	_
 79-32	12956-12957	.	_
 
+Text=Using simple linear regression, we estimated α by predicting log-power with log-frequency.
 80-1	12958-12963	Using	_
 80-2	12964-12970	simple	_
 80-3	12971-12977	linear	_
@@ -2374,6 +2454,7 @@
 80-13	13035-13048	log-frequency	_
 80-14	13049-13050	.	_
 
+Text=For each trial and canonical variate, a bootstrap confidence interval was constructed for the estimated α by randomly sampling, without replacement, half of the frequency bins between 1 and 125 Hz from the FFT one thousand times to avoid potential contamination by a few frequencies (i.e.
 81-1	13051-13054	For	_
 81-2	13055-13059	each	_
 81-3	13060-13065	trial	_
@@ -2426,6 +2507,7 @@
 81-50	13339-13342	i.e	_
 81-51	13343-13344	.	_
 
+Text=60 Hz or alpha-band).
 82-1	13345-13347	60	_
 82-2	13348-13350	Hz	_
 82-3	13351-13353	or	_
@@ -2433,6 +2515,7 @@
 82-5	13365-13366	)	_
 82-6	13367-13368	.	_
 
+Text=If the interval contained values less than − 1, the component was retained while all others were algebraically removed during back-projection to the original EEG epoch space (see Appendix A for details.)
 83-1	13369-13371	If	_
 83-2	13372-13375	the	_
 83-3	13376-13384	interval	_
@@ -2470,6 +2553,7 @@
 83-35	13573-13574	.	_
 83-36	13575-13576	)	_
 
+Text=Final EEG denoising, artifact removal, and ERP derivation Single trial EEG data were re-referenced to an average reference, and data were obtained for the prior reference channel, FCz.
 84-1	13577-13582	Final	_
 84-2	13583-13586	EEG	_
 84-3	13587-13596	denoising	_
@@ -2504,6 +2588,7 @@
 84-32	13761-13764	FCz	_
 84-33	13765-13766	.	_
 
+Text=Shorter, − 100 to 250 ms epochs were created for the final processing steps.
 85-1	13767-13774	Shorter	_
 85-2	13775-13776	,	_
 85-3	13777-13778	−	_
@@ -2521,6 +2606,7 @@
 85-15	13838-13843	steps	_
 85-16	13844-13845	.	_
 
+Text=Outlier trials were rejected based on previously established criteria.
 86-1	13846-13853	Outlier	_
 86-2	13854-13860	trials	_
 86-3	13861-13865	were	_
@@ -2532,6 +2618,7 @@
 86-9	13907-13915	criteria	_
 86-10	13916-13917	.	_
 
+Text=Prior to conducting an independent components analysis (ICA) of the EEG data, we initially conducted a principal components analysis (PCA) on the stacked single trial 350 time-point × 32 channel EEG data matrices to reduce the data.
 87-1	13918-13923	Prior	_
 87-2	13924-13926	to	_
 87-3	13927-13937	conducting	_
@@ -2576,6 +2663,7 @@
 87-42	14150-14154	data	_
 87-43	14155-14156	.	_
 
+Text=The number of principal components to extract was estimated separately for each subject using a parallel test approach.
 88-1	14157-14160	The	_
 88-2	14161-14167	number	_
 88-3	14168-14170	of	_
@@ -2596,6 +2684,7 @@
 88-18	14267-14275	approach	_
 88-19	14276-14277	.	_
 
+Text=This involved comparing the eigenvalues from the PCA of the stacked, single trial EEG data correlation matrix to eigenvalues from a PCA of a thousand completely simulated random normal data matrices of equal rank.
 89-1	14278-14282	This	_
 89-2	14283-14291	involved	_
 89-3	14292-14301	comparing	_
@@ -2633,6 +2722,7 @@
 89-35	14487-14491	rank	_
 89-36	14492-14493	.	_
 
+Text=A 95% cutoff, derived from the simulated data eigenvalue distribution, was used to determine how many components to extract from the EEG data.
 90-1	14494-14495	A	_
 90-2	14496-14498	95	_
 90-3	14499-14500	%	_
@@ -2661,6 +2751,7 @@
 90-26	14634-14638	data	_
 90-27	14639-14640	.	_
 
+Text=All subjects had 3, 4, or 5 components with eigenvalues exceeding this cut-off, and neither the number of components (HC: 3.61 ± 0.737, SZ: 3.45 ± 0.602; t (64) = 0.9686, p = 0.3364), nor the percentage of variance explained by those selected components (HC: 91.1 ± 3.7%, SZ: 92.6 ± 2.8%; t (64) = − 1.74, p = 0.0824) significantly differed between groups.
 91-1	14641-14644	All	_
 91-2	14645-14653	subjects	_
 91-3	14654-14657	had	_
@@ -2751,6 +2842,7 @@
 91-88	15014-15020	groups	_
 91-89	15021-15022	.	_
 
+Text=ICA was then performed on each subject's single trial EEG data in EEGLAB with initial PCA dimension reduction (i.e.
 92-1	15023-15026	ICA	_
 92-2	15027-15030	was	_
 92-3	15031-15035	then	_
@@ -2774,6 +2866,7 @@
 92-21	15136-15139	i.e	_
 92-22	15140-15141	.	_
 
+Text=number of components to extract from EEG) set according to the previous estimate.
 93-1	15142-15148	number	_
 93-2	15149-15151	of	_
 93-3	15152-15162	components	_
@@ -2790,6 +2883,7 @@
 93-14	15215-15223	estimate	_
 93-15	15224-15225	.	_
 
+Text=Two researchers independently inspected individual component properties (i.e.
 94-1	15226-15229	Two	_
 94-2	15230-15241	researchers	_
 94-3	15242-15255	independently	_
@@ -2801,6 +2895,7 @@
 94-9	15300-15303	i.e	_
 94-10	15304-15305	.	_
 
+Text=fronto-central N100-P200 spatial loading, auditory evoked potential time course of ERP average from the component's single trial epochs, and 1/f power spectrum) to identify ERP-related independent components (ICs) and to exclude artifact-related ICs, and then they conferred to achieve consensus on which ICs to retain.
 95-1	15306-15320	fronto-central	_
 95-2	15321-15330	N100-P200	_
 95-3	15331-15338	spatial	_
@@ -2855,6 +2950,7 @@
 95-52	15625-15631	retain	_
 95-53	15632-15633	.	_
 
+Text=Data from 13 (5 HC, 8 SZ) subjects were dropped from further analysis because zero components were selected (i.e.
 96-1	15634-15638	Data	_
 96-2	15639-15643	from	_
 96-3	15644-15646	13	_
@@ -2880,6 +2976,7 @@
 96-23	15747-15750	i.e	_
 96-24	15751-15752	.	_
 
+Text=none of the ICs satisfied the criteria used to identify EEG/ERP ICs).
 97-1	15753-15757	none	_
 97-2	15758-15760	of	_
 97-3	15761-15764	the	_
@@ -2895,6 +2992,7 @@
 97-13	15821-15822	)	_
 97-14	15823-15824	.	_
 
+Text=The mean framewise displacement in this group of 13 participants suggested significantly greater mean motion values (median = 0.1656) than the 53 participants included in the analysis (median = 0.0856) using a Wilcoxon rank sum test (Z = 3.466, W = 651, p = 0.0005).
 98-1	15825-15828	The	_
 98-2	15829-15833	mean	_
 98-3	15834-15843	framewise	_
@@ -2950,6 +3048,7 @@
 98-53	16097-16098	)	_
 98-54	16099-16100	.	_
 
+Text=Retained IC single trial data were then back-projected and averaged to generate a separate cleaned ERP for each subject and channel.
 99-1	16101-16109	Retained	_
 99-2	16110-16112	IC	_
 99-3	16113-16119	single	_
@@ -2973,6 +3072,7 @@
 99-21	16225-16232	channel	_
 99-22	16233-16234	.	_
 
+Text=Resulting ERP waveforms were low-pass filtered at 30 Hz.
 100-1	16235-16244	Resulting	_
 100-2	16245-16248	ERP	_
 100-3	16249-16258	waveforms	_
@@ -2984,6 +3084,7 @@
 100-9	16288-16290	Hz	_
 100-10	16291-16292	.	_
 
+Text=Integration of EEG and fMRI data We conducted a joint independent components analysis (jICA) using the Matlab-based Fusion ICA Toolbox or “ FIT ”.
 101-1	16293-16304	Integration	_
 101-2	16305-16307	of	_
 101-3	16308-16311	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -3012,6 +3113,7 @@
 101-26	16439-16440	”	_
 101-27	16441-16442	.	_
 
+Text=Joint ICA is a multi-modal data reduction technique that has been used to combine ERP and fMRI data collected simultaneously or in separate sessions.
 102-1	16443-16448	Joint	_
 102-2	16449-16452	ICA	_
 102-3	16453-16455	is	_
@@ -3038,6 +3140,7 @@
 102-24	16583-16591	sessions	_
 102-25	16592-16593	.	_
 
+Text=FIT uses each subject's ERP and fMRI data (i.e.
 103-1	16594-16597	FIT	_
 103-2	16598-16602	uses	_
 103-3	16603-16607	each	_
@@ -3051,6 +3154,7 @@
 103-11	16639-16642	i.e	_
 103-12	16643-16644	.	_
 
+Text=ERP time courses and fMRI beta maps) concatenated side-by-side.
 104-1	16645-16648	ERP	_
 104-2	16649-16653	time	_
 104-3	16654-16661	courses	_
@@ -3063,6 +3167,7 @@
 104-10	16696-16708	side-by-side	_
 104-11	16709-16710	.	_
 
+Text=The ERP time course is re-sampled to a higher rate such that the number of ERP time samples and the number of fMRI spatial samples are equal.
 105-1	16711-16714	The	_
 105-2	16715-16718	ERP	_
 105-3	16719-16723	time	_
@@ -3092,6 +3197,7 @@
 105-27	16846-16851	equal	_
 105-28	16852-16853	.	_
 
+Text=Sources associated with these modalities are assumed to co-vary the same way across groups and subjects (i.e.
 106-1	16854-16861	Sources	_
 106-2	16862-16872	associated	_
 106-3	16873-16877	with	_
@@ -3112,12 +3218,14 @@
 106-18	16960-16963	i.e	_
 106-19	16964-16965	.	_
 
+Text=equal linear covariation).
 107-1	16966-16971	equal	_
 107-2	16972-16978	linear	_
 107-3	16979-16990	covariation	_
 107-4	16991-16992	)	_
 107-5	16993-16994	.	_
 
+Text=Prior to calculating the jICA, the number of components in each imaging modality was estimated.
 108-1	16995-17000	Prior	_
 108-2	17001-17003	to	_
 108-3	17004-17015	calculating	_
@@ -3136,6 +3244,7 @@
 108-16	17081-17090	estimated	_
 108-17	17091-17092	.	_
 
+Text=FIT estimated the number of fMRI components to be 5 based on the minimum description length.
 109-1	17093-17096	FIT	_
 109-2	17097-17106	estimated	_
 109-3	17107-17110	the	_
@@ -3154,6 +3263,7 @@
 109-16	17178-17184	length	_
 109-17	17185-17186	.	_
 
+Text=The parallel test approach was used on the ERP data, indicating that there were 3 components in that modality.
 110-1	17187-17190	The	_
 110-2	17191-17199	parallel	_
 110-3	17200-17204	test	_
@@ -3176,6 +3286,7 @@
 110-20	17289-17297	modality	_
 110-21	17298-17299	.	_
 
+Text=We chose the larger of these two numbers (N = 5) in the jICA, and each of the 5 components estimated had fMRI and ERP loadings that represented different patterns of spatio-temporal covariance between the modalities.
 111-1	17300-17302	We	_
 111-2	17303-17308	chose	_
 111-3	17309-17312	the	_
@@ -3217,6 +3328,7 @@
 111-39	17508-17518	modalities	_
 111-40	17519-17520	.	_
 
+Text=Each subject had coefficients or scores associated with these 5 components' loadings that could be used in statistical tests.
 112-1	17521-17525	Each	_
 112-2	17526-17533	subject	_
 112-3	17534-17537	had	_
@@ -3239,6 +3351,7 @@
 112-20	17641-17646	tests	_
 112-21	17647-17648	.	_
 
+Text=However, we first checked the validity of each component with a method similar to that used by others.
 113-1	17649-17656	However	_
 113-2	17657-17658	,	_
 113-3	17659-17661	we	_
@@ -3260,6 +3373,7 @@
 113-19	17745-17751	others	_
 113-20	17752-17753	.	_
 
+Text=Specifically, the grand average ERP time course was regressed on the IC time course, and a peak (i.e.
 114-1	17754-17766	Specifically	_
 114-2	17767-17768	,	_
 114-3	17769-17772	the	_
@@ -3283,6 +3397,7 @@
 114-21	17854-17857	i.e	_
 114-22	17858-17859	.	_
 
+Text=maximum absolute value) was picked from the fitted values of that regression model.
 115-1	17860-17867	maximum	_
 115-2	17868-17876	absolute	_
 115-3	17877-17882	value	_
@@ -3299,6 +3414,7 @@
 115-14	17938-17943	model	_
 115-15	17944-17945	.	_
 
+Text=There were only two components with monophasic waveforms and peaks that exceeded one standard deviation (0.6724 μV) of the grand average ERP.
 116-1	17946-17951	There	_
 116-2	17952-17956	were	_
 116-3	17957-17961	only	_
@@ -3325,6 +3441,7 @@
 116-24	18085-18088	ERP	_
 116-25	18089-18090	.	_
 
+Text=These two components captured the N100 and P200 peaks (Fig.
 117-1	18091-18096	These	_
 117-2	18097-18100	two	_
 117-3	18101-18111	components	_
@@ -3338,11 +3455,13 @@
 117-11	18147-18150	Fig	_
 117-12	18151-18152	.	_
 
+Text=1, Fig.
 118-1	18153-18154	1	_
 118-2	18155-18156	,	_
 118-3	18157-18160	Fig	_
 118-4	18161-18162	.	_
 
+Text=2), and are referred to as the “ N100 ” and “ P200 ” linked components to distinguish them from the N100 and P200 ERP components.
 119-1	18163-18164	2	_
 119-2	18165-18166	)	_
 119-3	18167-18168	,	_
@@ -3373,6 +3492,7 @@
 119-28	18283-18293	components	_
 119-29	18294-18295	.	_
 
+Text=Individual subject joint component scores for these linked components were retained for subsequent analyses.
 120-1	18296-18306	Individual	_
 120-2	18307-18314	subject	_
 120-3	18315-18320	joint	_
@@ -3389,6 +3509,7 @@
 120-14	18395-18403	analyses	_
 120-15	18404-18405	.	_
 
+Text=These scores were compared between groups using independent samples t-tests.
 121-1	18406-18411	These	_
 121-2	18412-18418	scores	_
 121-3	18419-18423	were	_
@@ -3401,6 +3522,7 @@
 121-10	18474-18481	t-tests	_
 121-11	18482-18483	.	_
 
+Text=Relating clinical data to jICA data To assess the relationship between symptoms and neurophysiological data, we correlated the “ N100 ” and “ P200 ” joint independent component scores (JICs) to the 9 global ratings from SANS and SAPS, listed in Table 1.
 122-1	18484-18492	Relating	_
 122-2	18493-18501	clinical	_
 122-3	18502-18506	data	_
@@ -3450,6 +3572,7 @@
 122-47	18739-18740	1	_
 122-48	18741-18742	.	_
 
+Text=The significance level for each component was Bonferroni corrected to 0.05/9 = 0.006.
 123-1	18743-18746	The	_
 123-2	18747-18759	significance	_
 123-3	18760-18765	level	_

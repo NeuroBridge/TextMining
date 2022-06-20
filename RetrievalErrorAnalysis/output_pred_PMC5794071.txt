@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Combining multi-modality data for searching biomarkers in schizophrenia Identification of imaging biomarkers for schizophrenia is an important but still challenging problem.
 1-1	0-9	Combining	_
 1-2	10-24	multi-modality	_
 1-3	25-29	data	_
@@ -25,6 +26,7 @@
 1-21	165-172	problem	_
 1-22	173-174	.	_
 
+Text=Even though considerable efforts have been made over the past decades, quantitative alterations between patients and healthy subjects have not yet provided a diagnostic measure with sufficient high sensitivity and specificity.
 2-1	175-179	Even	_
 2-2	180-186	though	_
 2-3	187-199	considerable	_
@@ -59,6 +61,7 @@
 2-32	390-401	specificity	_
 2-33	402-403	.	_
 
+Text=One of the most important reasons is the lack of consistent findings, which is in part due to single-mode study, which only detects single dimensional information by each modality, and thus misses the most crucial differences between groups.
 3-1	404-407	One	_
 3-2	408-410	of	_
 3-3	411-414	the	_
@@ -102,6 +105,7 @@
 3-41	641-647	groups	_
 3-42	648-649	.	_
 
+Text=Here, we hypothesize that multimodal integration of functional MRI (fMRI), structural MRI (sMRI), and diffusion tensor imaging (DTI) might yield more power for the diagnosis of schizophrenia.
 4-1	650-654	Here	_
 4-2	655-656	,	_
 4-3	657-659	we	_
@@ -140,6 +144,7 @@
 4-36	836-849	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 4-37	850-851	.	_
 
+Text=A novel multivariate data fusion method for combining these modalities is introduced without reducing the dimension or using the priors from 161 schizophrenia patients and 168 matched healthy controls.
 5-1	852-853	A	_
 5-2	854-859	novel	_
 5-3	860-872	multivariate	_
@@ -171,6 +176,7 @@
 5-29	1044-1052	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 5-30	1053-1054	.	_
 
+Text=The multi-index feature for each ROI is constructed and summarized with Wilk's lambda by performing multivariate analysis of variance to calculate the significant difference between different groups.
 6-1	1055-1058	The	_
 6-2	1059-1070	multi-index	_
 6-3	1071-1078	feature	_
@@ -201,6 +207,7 @@
 6-28	1248-1254	groups	_
 6-29	1255-1256	.	_
 
+Text=Our results show that, among these modalities, fMRI has the most significant featureby calculating the Jaccard similarity coefficient (0.7416) and Kappa index (0.4833).
 7-1	1257-1260	Our	_
 7-2	1261-1268	results	_
 7-3	1269-1273	show	_
@@ -232,6 +239,7 @@
 7-29	1429-1430	)	_
 7-30	1431-1432	.	_
 
+Text=Furthermore, fusion of these modalities provides the most plentiful information and the highest predictive accuracy of 86.52%.
 8-1	1433-1444	Furthermore	_
 8-2	1445-1446	,	_
 8-3	1447-1453	fusion	_
@@ -253,6 +261,7 @@
 8-19	1559-1560	%	_
 8-20	1561-1562	.	_
 
+Text=This work indicates that multimodal integration can improve the ability of distinguishing differences between groups and might be assisting in further diagnosis of schizophrenia.
 9-1	1563-1567	This	_
 9-2	1568-1572	work	_
 9-3	1573-1582	indicates	_
@@ -279,6 +288,7 @@
 9-24	1727-1740	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-25	1741-1742	.	_
 
+Text=Methods Subjects One hundred and sixty-one patients with chronic schizophrenia (66 males and 95 females) were recruited for this study and they were identified according to the DSM-IV diagnostic criteria by qualified psychiatrists at the Taipei Veterans General Hospital.
 10-1	1743-1750	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 10-2	1751-1759	Subjects	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 10-3	1760-1763	One	_
@@ -322,6 +332,7 @@
 10-41	2007-2015	Hospital	_
 10-42	2016-2017	.	_
 
+Text=Exclusion criteria included the presence of DSM-IV Axis I diagnoses of other disorders such as bipolar disorder, history of any substance dependence or history of clinically significant head trauma.
 11-1	2018-2027	Exclusion	_
 11-2	2028-2036	criteria	_
 11-3	2037-2045	included	_
@@ -354,6 +365,7 @@
 11-30	2210-2216	trauma	_
 11-31	2217-2218	.	_
 
+Text=Illness durations ranged from several months to 52 years (mean±SD: 17.86±11.1 years).
 12-1	2219-2226	Illness	_
 12-2	2227-2236	durations	_
 12-3	2237-2243	ranged	_
@@ -371,6 +383,7 @@
 12-15	2305-2306	)	_
 12-16	2307-2308	.	_
 
+Text=All patients were being treated with a range of antipsychotics.
 13-1	2309-2312	All	_
 13-2	2313-2321	patients	_
 13-3	2322-2326	were	_
@@ -383,6 +396,7 @@
 13-10	2357-2371	antipsychotics	_
 13-11	2372-2373	.	_
 
+Text=Their average age was 44.99±11.5years and they had a mean education duration of 12.33±3.66 years.
 14-1	2374-2379	Their	_
 14-2	2380-2387	average	_
 14-3	2388-2391	age	_
@@ -400,6 +414,7 @@
 14-15	2465-2470	years	_
 14-16	2471-2472	.	_
 
+Text=Symptom severity was measured using the Positive and Negative Syndrome Scale (PANSS) assessment which was given to all schizophrenic participants either one week before the MRI scan or one week after it.
 15-1	2473-2480	Symptom	_
 15-2	2481-2489	severity	_
 15-3	2490-2493	was	_
@@ -436,6 +451,7 @@
 15-34	2675-2677	it	_
 15-35	2678-2679	.	_
 
+Text=All patients complete their PANSS assessment as listed in Table 1.
 16-1	2680-2683	All	_
 16-2	2684-2692	patients	_
 16-3	2693-2701	complete	_
@@ -449,6 +465,7 @@
 16-11	2744-2745	1	_
 16-12	2746-2747	.	_
 
+Text=One hundred sixty eight (72 male and 96 female) healthy control subjects were also recruited.
 17-1	2748-2751	One	_
 17-2	2752-2759	hundred	_
 17-3	2760-2765	sixty	_
@@ -468,6 +485,7 @@
 17-17	2833-2842	recruited	_
 17-18	2843-2844	.	_
 
+Text=Their average age was 43.17±10.8 years, and their mean education duration was 15.8±3.5 years.
 18-1	2845-2850	Their	_
 18-2	2851-2858	average	_
 18-3	2859-2862	age	_
@@ -485,6 +503,7 @@
 18-15	2933-2938	years	_
 18-16	2939-2940	.	_
 
+Text=All of the controls were assessed in accordance with DSM-IV criteria as being free of schizophrenia and other Axis I disorders.
 19-1	2941-2944	All	_
 19-2	2945-2947	of	_
 19-3	2948-2951	the	_
@@ -508,6 +527,7 @@
 19-21	3058-3067	disorders	_
 19-22	3068-3069	.	_
 
+Text=None of them had any neurological diseases or suffered from clinically significant head trauma and none had a history of any substance dependence.
 20-1	3070-3074	None	_
 20-2	3075-3077	of	_
 20-3	3078-3082	them	_
@@ -533,6 +553,7 @@
 20-23	3205-3215	dependence	_
 20-24	3216-3217	.	_
 
+Text=The patient and control groups were well matched by gender (χ2 = 1.2, p = 0.73) and age (t = 1.48, p = 0.14) although the controls had a slightly longer education duration (t = -8.8, p <0.001).
 21-1	3218-3221	The	_
 21-2	3222-3229	patient	_
 21-3	3230-3233	and	_
@@ -583,6 +604,7 @@
 21-48	3419-3420	)	_
 21-49	3421-3422	.	_
 
+Text=Patient and healthy control demographics are shown in Table 1.
 22-1	3423-3430	Patient	_
 22-2	3431-3434	and	_
 22-3	3435-3442	healthy	_
@@ -595,6 +617,7 @@
 22-10	3483-3484	1	_
 22-11	3485-3486	.	_
 
+Text=All of the patients were diagnosed according to the Diagnostic and Statistical Manual of Mental Disorders-IV criteria, then administered a diagnostic structured Mini- International Neuropsychiatric Interview (MINI), Mini-Mental State Examination (MMSE) Chinese version.
 23-1	3487-3490	All	_
 23-2	3491-3493	of	_
 23-3	3494-3497	the	_
@@ -636,6 +659,7 @@
 23-39	3754-3761	version	_
 23-40	3762-3763	.	_
 
+Text=The cognitive functioning of the participants was evaluated using the MMSE for general cognitive status and the Wechsler Digit Span subtest for verbal working memory abilities.
 24-1	3764-3767	The	_
 24-2	3768-3777	cognitive	_
 24-3	3778-3789	functioning	_
@@ -664,6 +688,7 @@
 24-26	3930-3939	abilities	_
 24-27	3940-3941	.	_
 
+Text=All participants exhibited sufficient visual and auditory acuity to undergo cognitive testing.
 25-1	3942-3945	All	_
 25-2	3946-3958	participants	_
 25-3	3959-3968	exhibited	_
@@ -678,6 +703,7 @@
 25-12	4028-4035	testing	_
 25-13	4036-4037	.	_
 
+Text=This study was conducted in accordance with the Declaration of Helsinki and approved by the Institutional Review Board of Taipei Veterans General Hospital.
 26-1	4038-4042	This	_
 26-2	4043-4048	study	_
 26-3	4049-4052	was	_
@@ -703,6 +729,7 @@
 26-23	4184-4192	Hospital	_
 26-24	4193-4194	.	_
 
+Text=Written informed consent was obtained from all participants ensuring adequate understanding of the study.
 27-1	4195-4202	Written	_
 27-2	4203-4211	informed	_
 27-3	4212-4219	consent	_
@@ -719,6 +746,7 @@
 27-14	4294-4299	study	_
 27-15	4300-4301	.	_
 
+Text=Any participants with the presence of possible dementia or illiteracy were excluded.
 28-1	4302-4305	Any	_
 28-2	4306-4318	participants	_
 28-3	4319-4323	with	_
@@ -733,6 +761,7 @@
 28-12	4377-4385	excluded	_
 28-13	4386-4387	.	_
 
+Text=Imaging acquisitions and data preprocessing Imaging parameters All images were acquired using a 3T MR system (Siemens Magnetom Tim Trio, Erlangen, German) at National Yang-Ming University, equipped with a high-resolution 12-channel head array coil.
 29-1	4388-4395	Imaging	_
 29-2	4396-4408	acquisitions	_
 29-3	4409-4412	and	_
@@ -774,6 +803,7 @@
 29-39	4636-4640	coil	_
 29-40	4641-4642	.	_
 
+Text=To minimize the head motion during the scan, each subject ’ s head was immobilized with cushions inside the coil during the scan.
 30-1	4643-4645	To	_
 30-2	4646-4654	minimize	_
 30-3	4655-4658	the	_
@@ -800,6 +830,7 @@
 30-24	4768-4772	scan	_
 30-25	4773-4774	.	_
 
+Text=A high-resolution anatomical T1-weighted image was acquired with sagittal 3D magnetization-prepared rapid gradient echo (MPRAGE) sequence: repetition time (TR) = 3500 ms, echo time (TE) = 3.5 ms, inversion time = 1100 ms, flip angle = 7°, field of view (FOV) = 256 × 256 mm2, 192 slices, slice thickness = 1 mm, voxel size = 1×1×1 mm3.
 31-1	4775-4776	A	_
 31-2	4777-4792	high-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 31-3	4793-4803	anatomical	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -876,6 +907,7 @@
 31-74	5122-5125	mm3	_
 31-75	5126-5127	.	_
 
+Text=The diffusion images gradient encoding schemes include 30 non-collinear directions (according to the minimal energy arrangement of electron distribution (http: //www2.research.att.com/~njas/electrons/dim3) with b-value 1000 s/mm2, number of excitations: 3) and 3 non-diffusion weighted image volume.
 32-1	5128-5131	The	_
 32-2	5132-5141	diffusion	_
 32-3	5142-5148	images	_
@@ -920,6 +952,7 @@
 32-42	5427-5433	volume	_
 32-43	5434-5435	.	_
 
+Text=With the consideration of total brain coverage, each volume consisted of 70 contiguous axial slice (thickness: 2 mm) acquired using a single shot spin-echo planar imaging (EPI) sequence (TR: 11,000ms, TE: 104ms, NEX: 6, Matrix size: 128×128, voxel size: 2×2×2 mm3, matrix size: 128×128).
 33-1	5436-5440	With	_
 33-2	5441-5444	the	_
 33-3	5445-5458	consideration	_
@@ -985,6 +1018,7 @@
 33-63	5740-5741	)	_
 33-64	5742-5743	.	_
 
+Text=For resting state fMRI: T2-weighted images with BOLD contrast were measured using a gradient echo- planar imaging (EPI) sequence (repetition time, TR: 2,500 ms, echo time, TE: 27 ms, field of view, FoV: 220 mm, flip angle: 77 degree, matrix size: 64×64, and voxel size: 3.44×3.44×3.40 mm3), participants were instructed to relax with their eyes closed, without falling asleep during the total 8min scan time.
 34-1	5744-5747	For	_
 34-2	5748-5755	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 34-3	5756-5761	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1073,6 +1107,7 @@
 34-86	6168-6172	time	_
 34-87	6173-6174	.	_
 
+Text=For each run, 200 EPI volume images were acquired along the anterior and posterior commissure (AC–PC) plane.
 35-1	6175-6178	For	_
 35-2	6179-6183	each	_
 35-3	6184-6187	run	_
@@ -1095,6 +1130,7 @@
 35-20	6280-6285	plane	_
 35-21	6286-6287	.	_
 
+Text=After the resting state experiment, participants were asked whether they fell asleep during the resting state scan session, and the participants were rescanned if they slept during the resting state scan.
 36-1	6288-6293	After	_
 36-2	6294-6297	the	_
 36-3	6298-6305	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1130,6 +1166,7 @@
 36-33	6489-6493	scan	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 36-34	6494-6495	.	_
 
+Text=fMRI preprocessing fMRI data preprocessing was then conducted by SPM8 (University College London, UK; http: //www.fil.ion.ucl.ac.uk/spm) and DPARSF (Data Processing Assistant for resting-state fMRI).
 37-1	6496-6500	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 37-2	6501-6514	preprocessing	_
 37-3	6515-6519	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1163,6 +1200,7 @@
 37-31	6700-6701	)	_
 37-32	6702-6703	.	_
 
+Text=Briefly, the remaining functional scans were first corrected for within-scan acquisition time differences between slices, and then realigned to the middle volume to correct for interscan head motions.
 38-1	6704-6711	Briefly	_
 38-2	6712-6713	,	_
 38-3	6714-6717	the	_
@@ -1195,6 +1233,7 @@
 38-30	6898-6905	motions	_
 38-31	6906-6907	.	_
 
+Text=Subsequently, the functional scans were spatially normalized to a standard template (Montreal Neurological Institute) and resampled to 3×3×3mm3.
 39-1	6908-6920	Subsequently	_
 39-2	6921-6922	,	_
 39-3	6923-6926	the	_
@@ -1218,6 +1257,7 @@
 39-21	7046-7054	3×3×3mm3	_
 39-22	7055-7056	.	_
 
+Text=After normalization, the Blood Oxygenation Level Dependent (BOLD) signal of each voxel was first detrended to abandon linear trend and then passed through a bandpass filter (0.01–0.08 Hz) to reduce low-frequency drift and high-frequency physiological noise.
 40-1	7057-7062	After	_
 40-2	7063-7076	normalization	_
 40-3	7077-7078	,	_
@@ -1261,6 +1301,7 @@
 40-41	7313-7318	noise	_
 40-42	7319-7320	.	_
 
+Text=Finally, nuisance covariates including head motion parameters, global mean signals, white matter signals and cerebrospinal fluid signals were regressed out from the Blood Oxygenation Level Dependent signals.
 41-1	7321-7328	Finally	_
 41-2	7329-7330	,	_
 41-3	7331-7339	nuisance	_
@@ -1293,6 +1334,7 @@
 41-30	7523-7530	signals	_
 41-31	7531-7532	.	_
 
+Text=sMRI preprocessing All T1-weighted structural data were pre-processed using the Diffeomorphic Anatomical Registration using Exponentiated Lie algebra (DARTEL) toolbox in SPM8 software (http: //www.fil.ion.ucl.ac.uk/spm) running under Matlab (MathWorks, USA).
 42-1	7533-7537	sMRI	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 42-2	7538-7551	preprocessing	_
 42-3	7552-7555	All	_
@@ -1332,6 +1374,7 @@
 42-37	7797-7798	)	_
 42-38	7799-7800	.	_
 
+Text=This procedure involves the creation of a study-specific template and the segmentation of each individual image using said template, with the aim of maximizing accuracy and sensitivity.
 43-1	7801-7805	This	_
 43-2	7806-7815	procedure	_
 43-3	7816-7824	involves	_
@@ -1362,6 +1405,7 @@
 43-28	7975-7986	sensitivity	_
 43-29	7987-7988	.	_
 
+Text=After modulate normalizing, the images were segmented into gray matter, white matter and the cerebrospinal fluid.
 44-1	7989-7994	After	_
 44-2	7995-8003	modulate	_
 44-3	8004-8015	normalizing	_
@@ -1382,6 +1426,7 @@
 44-18	8098-8103	fluid	_
 44-19	8104-8105	.	_
 
+Text=These segmented images were smoothed using a 12-mm full width at half maximum (FWHM) Gaussian kernel.
 45-1	8106-8111	These	_
 45-2	8112-8121	segmented	_
 45-3	8122-8128	images	_
@@ -1402,6 +1447,7 @@
 45-18	8202-8208	kernel	_
 45-19	8209-8210	.	_
 
+Text=DTI preprocessing Before image data processing, one author (Chu-Chung Huang, an experienced radiological technician) received all of the MRI scans to confirm that the participants were free of any morphological abnormalities and apparent WM lesions.
 46-1	8211-8214	DTI	_
 46-2	8215-8228	preprocessing	_
 46-3	8229-8235	Before	_
@@ -1443,6 +1489,7 @@
 46-39	8456-8463	lesions	_
 46-40	8464-8465	.	_
 
+Text=Eddy current correction and brain tissue extraction of DTI dataset were pre-processed using FSL 5.0.9 (Functional Magnetic Resonance Imaging of the Brain Software Library; http: //www.fmrib.ox.ac.uk/fsl).
 47-1	8466-8470	Eddy	_
 47-2	8471-8478	current	_
 47-3	8479-8489	correction	_
@@ -1475,6 +1522,7 @@
 47-30	8672-8673	)	_
 47-31	8674-8675	.	_
 
+Text=Eddy current correction involved registering the diffusion-weighted images to the non-diffusion weighted image through affine transformations.
 48-1	8676-8680	Eddy	_
 48-2	8681-8688	current	_
 48-3	8689-8699	correction	_
@@ -1493,6 +1541,7 @@
 48-16	8802-8817	transformations	_
 48-17	8818-8819	.	_
 
+Text=It was done not only to minimize image distortion derived from eddy currents induced by fast-switching gradient coils, but also to reduce the simple head motion.
 49-1	8820-8822	It	_
 49-2	8823-8826	was	_
 49-3	8827-8831	done	_
@@ -1522,6 +1571,7 @@
 49-27	8975-8981	motion	_
 49-28	8982-8983	.	_
 
+Text=Subsequently, the Brain Extraction Tool (BET) compiled in FSL was applied to remove the non-brain tissue and background noise from the images.
 50-1	8984-8996	Subsequently	_
 50-2	8997-8998	,	_
 50-3	8999-9002	the	_
@@ -1549,6 +1599,7 @@
 50-25	9122-9128	images	_
 50-26	9129-9130	.	_
 
+Text=After DTI preprocessing, parameter maps include FA (relative ratio of axial to radial diffusivities), RD (radial diffusivity, (λ2+λ3) /2 and MD (mean diffusivity, (λ1+λ2+λ3) /3) were calculated by fitting Baser ’ s DTI tensor model at each voxel using in-house software.
 51-1	9131-9136	After	_
 51-2	9137-9140	DTI	_
 51-3	9141-9154	preprocessing	_
@@ -1605,6 +1656,7 @@
 51-54	9405-9413	software	_
 51-55	9414-9415	.	_
 
+Text=The definitions of λ1, λ2, λ3 are given in Supplemental Materials.
 52-1	9416-9419	The	_
 52-2	9420-9431	definitions	_
 52-3	9432-9434	of	_
@@ -1620,6 +1672,7 @@
 52-13	9474-9483	Materials	_
 52-14	9484-9485	.	_
 
+Text=Construction of multi-index vector for each ROI After preprocessing, each modality is first reduced to a “ feature ” for each subject, which tends to be more tractable than working with the large-scale original data and provides a simpler space to link the data.
 53-1	9486-9498	Construction	_
 53-2	9499-9501	of	_
 53-3	9502-9513	multi-index	_
@@ -1668,6 +1721,7 @@
 53-46	9745-9749	data	_
 53-47	9750-9751	.	_
 
+Text=In this paper, an automated anatomical labeling atlas was used to parcellate the brain into 90 regions of interest (ROIs) (45 in each hemisphere) and the “ feature ” is obtained for each ROI.
 54-1	9752-9754	In	_
 54-2	9755-9759	this	_
 54-3	9760-9765	paper	_
@@ -1709,6 +1763,7 @@
 54-39	9944-9947	ROI	_
 54-40	9948-9949	.	_
 
+Text=The names of the ROIs and their corresponding abbreviations are listed in S1 Table.
 55-1	9950-9953	The	_
 55-2	9954-9959	names	_
 55-3	9960-9962	of	_
@@ -1725,6 +1780,7 @@
 55-14	10027-10032	Table	_
 55-15	10033-10034	.	_
 
+Text=For fMRI, the time series were firstly extracted in each ROI by averaging the signals of all voxels within that region.
 56-1	10035-10038	For	_
 56-2	10039-10043	fMRI	_
 56-3	10044-10045	,	_
@@ -1749,6 +1805,7 @@
 56-22	10148-10154	region	_
 56-23	10155-10156	.	_
 
+Text=Secondly, ordinary Pearson correlation coefficients with all other 89 different ROIs were calculated for each ROI.
 57-1	10157-10165	Secondly	_
 57-2	10166-10167	,	_
 57-3	10168-10176	ordinary	_
@@ -1768,6 +1825,7 @@
 57-17	10268-10271	ROI	_
 57-18	10272-10273	.	_
 
+Text=A Fisher ’ s r-to-z transformation was utilized to convert each correlation coefficient rij into Zij to improve the normality.
 58-1	10274-10275	A	_
 58-2	10276-10282	Fisher	_
 58-3	10283-10284	’	_
@@ -1790,6 +1848,7 @@
 58-20	10390-10399	normality	_
 58-21	10400-10401	.	_
 
+Text=A vector consisting of all these 89 functional connectivity (FC) coefficients (Zij) was constructed as the functional measure (fMRI) for each ROI.
 59-1	10402-10403	A	_
 59-2	10404-10410	vector	_
 59-3	10411-10421	consisting	_
@@ -1820,6 +1879,7 @@
 59-28	10550-10553	ROI	_
 59-29	10554-10555	.	_
 
+Text=For sMRI, the volume of grey matter (GM) and white matter (WM) was extracted as the structural feature for each ROI.
 60-1	10556-10559	For	_
 60-2	10560-10564	sMRI	_
 60-3	10565-10566	,	_
@@ -1848,6 +1908,7 @@
 60-26	10673-10676	ROI	_
 60-27	10677-10678	.	_
 
+Text=For DTI, the fractional anisotropy (FA), radial diffusivity (RD) and mean diffusivity (MD) were extracted as the DTI features for each ROI.
 61-1	10679-10682	For	_
 61-2	10683-10686	DTI	_
 61-3	10687-10688	,	_
@@ -1880,6 +1941,7 @@
 61-30	10822-10825	ROI	_
 61-31	10826-10827	.	_
 
+Text=By combining with the functional, structural and DTI features, a vector consisting of 94 variables (89 fMRI features, 2 sMRI features, and 3 DTI features) was constructed as multi-index vector for each ROI.
 62-1	10828-10830	By	_
 62-2	10831-10840	combining	_
 62-3	10841-10845	with	_
@@ -1921,6 +1983,7 @@
 62-39	11036-11039	ROI	_
 62-40	11040-11041	.	_
 
+Text=To avoid being overly biased by data scaling, the combined data was normalized by subtracting the mean and dividing by the standard deviation.
 63-1	11042-11044	To	_
 63-2	11045-11050	avoid	_
 63-3	11051-11056	being	_
@@ -1947,6 +2010,7 @@
 63-24	11175-11184	deviation	_
 63-25	11185-11186	.	_
 
+Text=The flowchart of the fusion data is shown in Fig 1.
 64-1	11187-11190	The	_
 64-2	11191-11200	flowchart	_
 64-3	11201-11203	of	_
@@ -1960,6 +2024,7 @@
 64-11	11236-11237	1	_
 64-12	11238-11239	.	_
 
+Text=Multivariate analysis of variance Multivariate analysis of variance (MANOVA) is one of the multivariate approaches.
 65-1	11240-11252	Multivariate	_
 65-2	11253-11261	analysis	_
 65-3	11262-11264	of	_
@@ -1979,6 +2044,7 @@
 65-17	11346-11356	approaches	_
 65-18	11357-11358	.	_
 
+Text=It is a statistical test procedure for comparing multivariate (population) means of several groups.
 66-1	11359-11361	It	_
 66-2	11362-11364	is	_
 66-3	11365-11366	a	_
@@ -1997,6 +2063,7 @@
 66-16	11453-11459	groups	_
 66-17	11460-11461	.	_
 
+Text=The multivariate approach has been adapted for single-mode fMRI data, sMRI data and DTI data in earlier studies.
 67-1	11462-11465	The	_
 67-2	11466-11478	multivariate	_
 67-3	11479-11487	approach	_
@@ -2018,6 +2085,7 @@
 67-19	11567-11574	studies	_
 67-20	11575-11576	.	_
 
+Text=Suppose there are G different groups (patient, healthy control, etc) with ng individuals in the g-th group.
 68-1	11577-11584	Suppose	_
 68-2	11585-11590	there	_
 68-3	11591-11594	are	_
@@ -2041,6 +2109,7 @@
 68-21	11682-11687	group	_
 68-22	11688-11689	.	_
 
+Text=For each individual k in the g-th group, there are m measures to form a measurement vector where is the i-th measurement of the k-th sample on the g-th group.
 69-1	11690-11693	For	_
 69-2	11694-11698	each	_
 69-3	11699-11709	individual	_
@@ -2074,6 +2143,7 @@
 69-31	11843-11848	group	_
 69-32	11849-11850	.	_
 
+Text=We assume that Xgk follows a multivariate normal distribution Xg ∼ Nm (μg, ∑), g = 1,2, …, G In order to test the ability of each ROI to distinguish the different groups, we define the following measures: the within-group dispersion matrix W = [wij] m×m, the between-group dispersion matrix B = [bij] m×m and the total dispersion matrix T = [Tij] m×m, where The ordinary Wilk's Lambda statistic was defined as follows: The smaller the value of λ is, the bigger the difference of different groups are.
 70-1	11851-11853	We	_
 70-2	11854-11860	assume	_
 70-3	11861-11865	that	_
@@ -2183,6 +2253,7 @@
 70-107	12366-12369	are	_
 70-108	12370-12371	.	_
 
+Text=In order to calculate the p value of each Wilk ’ s Lambda statistics, we transform it to a chi-square distribution with the following formulation: Bartlett showed that if H0: μ1 = μ2 = … = μG is true and n is large, λ has approximately a chi-square distribution with m× (G−1) degrees of freedom Support vector machine (SVM) classifier The SVM is a machine learning approach for a two-class classification problem.
 71-1	12372-12374	In	_
 71-2	12375-12380	order	_
 71-3	12381-12383	to	_
@@ -2265,6 +2336,7 @@
 71-80	12785-12792	problem	_
 71-81	12793-12794	.	_
 
+Text=Since first proposed by Vapnik as a logistical extension of statistical learning theory, SVM has become widely used in many areas because of their ability to handle very high-dimensional data, and their accuracy in classification and prediction.
 72-1	12795-12800	Since	_
 72-2	12801-12806	first	_
 72-3	12807-12815	proposed	_
@@ -2306,6 +2378,7 @@
 72-39	13031-13041	prediction	_
 72-40	13042-13043	.	_
 
+Text=SVM has become increasingly used in studies of psychiatric and neurological disorders, the rationale for which is that it is able to account for the inter-relationship between different within-modality measures for each subject by considering them simultaneously.
 73-1	13044-13047	SVM	_
 73-2	13048-13051	has	_
 73-3	13052-13058	become	_
@@ -2346,6 +2419,7 @@
 73-38	13293-13307	simultaneously	_
 73-39	13308-13309	.	_
 
+Text=SVM conceptually implements the idea that vectors are non-linearly mapped to a very high dimensional feature space.
 74-1	13310-13313	SVM	_
 74-2	13314-13326	conceptually	_
 74-3	13327-13337	implements	_
@@ -2365,6 +2439,7 @@
 74-17	13419-13424	space	_
 74-18	13425-13426	.	_
 
+Text=In the feature space, a linear separation surface is created to separate the training data by maximizing the margin between the vectors of the two classes.
 75-1	13427-13429	In	_
 75-2	13430-13433	the	_
 75-3	13434-13441	feature	_
@@ -2394,6 +2469,7 @@
 75-27	13575-13582	classes	_
 75-28	13583-13584	.	_
 
+Text=The training ends with the definition of a decision surface that divides the space into two sub-spaces.
 76-1	13585-13588	The	_
 76-2	13589-13597	training	_
 76-3	13598-13602	ends	_
@@ -2413,6 +2489,7 @@
 76-17	13677-13687	sub-spaces	_
 76-18	13688-13689	.	_
 
+Text=Each sub-space corresponds to one class of the training data.
 77-1	13690-13694	Each	_
 77-2	13695-13704	sub-space	_
 77-3	13705-13716	corresponds	_
@@ -2425,6 +2502,7 @@
 77-10	13746-13750	data	_
 77-11	13751-13752	.	_
 
+Text=Once the training is completed, the test data are mapped to the feature space.
 78-1	13753-13757	Once	_
 78-2	13758-13761	the	_
 78-3	13762-13770	training	_
@@ -2442,6 +2520,7 @@
 78-15	13826-13831	space	_
 78-16	13832-13833	.	_
 
+Text=A class is then assigned to the test data depending on which sub-space they are mapped to.
 79-1	13834-13835	A	_
 79-2	13836-13841	class	_
 79-3	13842-13844	is	_
@@ -2461,6 +2540,7 @@
 79-17	13921-13923	to	_
 79-18	13924-13925	.	_
 
+Text=In this paper, a SVM toolkit named libsvm written by Chih-Jen Lin from Taiwan university (http: //www.csie.ntu.edu.tw/~cjlin/libsvm/) is used.
 80-1	13926-13928	In	_
 80-2	13929-13933	this	_
 80-3	13934-13939	paper	_
@@ -2486,6 +2566,7 @@
 80-23	14067-14071	used	_
 80-24	14072-14073	.	_
 
+Text=Specifically, the whole brain single-modal or multi-modal features are applied to the raw input matrix.
 81-1	14074-14086	Specifically	_
 81-2	14087-14088	,	_
 81-3	14089-14092	the	_
@@ -2504,6 +2585,7 @@
 81-16	14171-14177	matrix	_
 81-17	14178-14179	.	_
 
+Text=Statistically significant features (p-value of two-sample t-test being smaller than a threshold) are selected.
 82-1	14180-14193	Statistically	_
 82-2	14194-14205	significant	_
 82-3	14206-14214	features	_
@@ -2522,6 +2604,7 @@
 82-16	14283-14291	selected	_
 82-17	14292-14293	.	_
 
+Text=Different kernel types (linear, t = 0; polynomial, t = 1; radial basis function, t = 2) and different trade-off parameter C (0.001, 0.01, 0.1, 1, 10, 100, 1000, 10000) is tried to obtain the highest accuracy rate.
 83-1	14294-14303	Different	_
 83-2	14304-14310	kernel	_
 83-3	14311-14316	types	_
@@ -2578,6 +2661,7 @@
 83-54	14518-14522	rate	_
 83-55	14523-14524	.	_
 
+Text=To measure the test performance and to validate the classifier, we implement 10-fold cross-validation with three levels of nesting for tuning and validating our model.
 84-1	14525-14527	To	_
 84-2	14528-14535	measure	_
 84-3	14536-14539	the	_
@@ -2606,6 +2690,7 @@
 84-26	14687-14692	model	_
 84-27	14693-14694	.	_
 
+Text=That is, for each iteration, eight folds of the subjects are used for training, one fold is used to optimize the parameters and another fold for testing.
 85-1	14695-14699	That	_
 85-2	14700-14702	is	_
 85-3	14703-14704	,	_
@@ -2638,6 +2723,7 @@
 85-30	14843-14850	testing	_
 85-31	14851-14852	.	_
 
+Text=The procedure is iterated for 100 times, and the meandiscrimination accuracy, sensitivity and specificity are reported with the best parameter setting.
 86-1	14853-14856	The	_
 86-2	14857-14866	procedure	_
 86-3	14867-14869	is	_
@@ -2663,6 +2749,7 @@
 86-23	14998-15005	setting	_
 86-24	15006-15007	.	_
 
+Text=The features are selected in each cross-validation run and the features with high weights during the 100 iterations are the optimized features for each classifier.
 87-1	15008-15011	The	_
 87-2	15012-15020	features	_
 87-3	15021-15024	are	_
@@ -2690,6 +2777,7 @@
 87-25	15160-15170	classifier	_
 87-26	15171-15172	.	_
 
+Text=Choosing the generalization rate as the statistic, permutation tests are employed to estimate the statistical significance of the observed classification accuracy.
 88-1	15173-15181	Choosing	_
 88-2	15182-15185	the	_
 88-3	15186-15200	generalization	_
@@ -2714,6 +2802,7 @@
 88-22	15328-15336	accuracy	_
 88-23	15337-15338	.	_
 
+Text=In permutation testing, the class labels of the training data are randomly permuted prior to training.
 89-1	15339-15341	In	_
 89-2	15342-15353	permutation	_
 89-3	15354-15361	testing	_
@@ -2733,6 +2822,7 @@
 89-17	15433-15441	training	_
 89-18	15442-15443	.	_
 
+Text=Cross-validation is then performed on the permuted training set, and the permutation is repeated 100 times.
 90-1	15444-15460	Cross-validation	_
 90-2	15461-15463	is	_
 90-3	15464-15468	then	_
@@ -2752,6 +2842,7 @@
 90-17	15546-15551	times	_
 90-18	15552-15553	.	_
 
+Text=The p-value represents the probability of observing a classification prediction rate in a permutation testing no less than the discrimination accuracy.
 91-1	15554-15557	The	_
 91-2	15558-15565	p-value	_
 91-3	15566-15576	represents	_
@@ -2775,6 +2866,7 @@
 91-21	15696-15704	accuracy	_
 91-22	15705-15706	.	_
 
+Text=If the p-value is smaller than the significant level, we reject the null hypothesis that the classifier could not learn the relationship between the data and the labels reliably and declare that the classifier learns the relationship with a probability of being wrong of at most p.The flowchart of the pattern recognition is shown in S1 Fig.
 92-1	15707-15709	If	_
 92-2	15710-15713	the	_
 92-3	15714-15721	p-value	_
@@ -2835,6 +2927,7 @@
 92-58	16045-16048	Fig	_
 92-59	16049-16050	.	_
 
+Text=Diversity of individual modalities in classification As mentioned earlier, a lot of studies have indicated that different modalities contain complementary information for discrimination.
 93-1	16051-16060	Diversity	_
 93-2	16061-16063	of	_
 93-3	16064-16074	individual	_
@@ -2861,6 +2954,7 @@
 93-24	16223-16237	discrimination	_
 93-25	16238-16239	.	_
 
+Text=In order to quantitatively measure the discrimination similarity and diversity between any two different modalities, we use Jaccard similarity coefficient and Kappa index to achieve these goals.
 94-1	16240-16242	In	_
 94-2	16243-16248	order	_
 94-3	16249-16251	to	_
@@ -2891,6 +2985,7 @@
 94-28	16429-16434	goals	_
 94-29	16435-16436	.	_
 
+Text=The Jaccard coefficient measures similarity between finite sample sets, and is defined as the size of the intersection divided by the size of the union of the sample sets.
 95-1	16437-16440	The	_
 95-2	16441-16448	Jaccard	_
 95-3	16449-16460	coefficient	_
@@ -2923,6 +3018,7 @@
 95-30	16604-16608	sets	_
 95-31	16609-16610	.	_
 
+Text=Cohen's kappa measures the agreement between two raters who each classify N items into C mutually exclusive categories.
 96-1	16611-16616	Cohen	_
 96-2	16617-16619	's	_
 96-3	16620-16625	kappa	_
@@ -2944,6 +3040,7 @@
 96-19	16720-16730	categories	_
 96-20	16731-16732	.	_
 
+Text=The equation for kappa is: Where Pr (a) is the relative observed agreement among raters, and Pr (e) is the hypothetical probability of chance agreement, using the observed data to calculate the probabilities of each observer randomly staying each category.
 97-1	16733-16736	The	_
 97-2	16737-16745	equation	_
 97-3	16746-16749	for	_
@@ -2993,6 +3090,7 @@
 97-47	16987-16995	category	_
 97-48	16996-16997	.	_
 
+Text=Contribution of different modalities When scanning the same subject, we can obtain fMRI, sMRI and DTI at the same time.
 98-1	16998-17010	Contribution	_
 98-2	17011-17013	of	_
 98-3	17014-17023	different	_
@@ -3017,6 +3115,7 @@
 98-22	17114-17118	time	_
 98-23	17119-17120	.	_
 
+Text=The multi-modal data provides a different perspective on the study of brain function and structure.
 99-1	17121-17124	The	_
 99-2	17125-17136	multi-modal	_
 99-3	17137-17141	data	_
@@ -3034,6 +3133,7 @@
 99-15	17210-17219	structure	_
 99-16	17220-17221	.	_
 
+Text=In order to investigate which kind of modality is more powerful, we intend to study the contribution of each modality to the fusion data.
 100-1	17222-17224	In	_
 100-2	17225-17230	order	_
 100-3	17231-17233	to	_
@@ -3061,6 +3161,7 @@
 100-25	17355-17359	data	_
 100-26	17360-17361	.	_
 
+Text=Suppose Xi is the features for subject i.
 101-1	17362-17369	Suppose	_
 101-2	17370-17372	Xi	_
 101-3	17373-17375	is	_
@@ -3071,6 +3172,7 @@
 101-8	17401-17402	i	_
 101-9	17403-17404	.	_
 
+Text=Then we use the following logistic regression to model the probability, pi, for the i-th subject to be a patient: In order to assess the contribution of different modalities, we use R2 indices, defined by Cox and Snell to describe how well the features Xi fit a set of observations (i.e., goodness of fit).
 102-1	17405-17409	Then	_
 102-2	17410-17412	we	_
 102-3	17413-17416	use	_
@@ -3135,6 +3237,7 @@
 102-62	17717-17718	)	_
 102-63	17719-17720	.	_
 
+Text=We denote,,, as the R2 indices of four different models when we use fusion, fMRI, sMRI, and DTI features as independent, respectively.
 103-1	17721-17723	We	_
 103-2	17724-17730	denote	_
 103-3	17731-17732	,	_
@@ -3166,6 +3269,7 @@
 103-29	17849-17861	respectively	_
 103-30	17862-17863	.	_
 
+Text=We define the contribution of different modality to fusion data as the ratio of R2 of each modality to R2 of fusion data.
 104-1	17864-17866	We	_
 104-2	17867-17873	define	_
 104-3	17874-17877	the	_
@@ -3191,6 +3295,7 @@
 104-23	17980-17984	data	_
 104-24	17985-17986	.	_
 
+Text=For example, the ratio is the contribution of fMRI data.
 105-1	17987-17990	For	_
 105-2	17991-17998	example	_
 105-3	17999-18000	,	_

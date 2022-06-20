@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Research of Hubs Location Method for Weighted Brain Network Based on NoS-FA As a complex network of many interlinked brain regions, there are some central hub regions which play key roles in the structural human brain network based on T1 and diffusion tensor imaging (DTI) technology.
 1-1	0-8	Research	_
 1-2	9-11	of	_
 1-3	12-16	Hubs	_
@@ -53,6 +54,7 @@
 1-49	276-286	technology	_
 1-50	287-288	.	_
 
+Text=Since most studies about hubs location method in the whole human brain network are mainly concerned with the local properties of each single node but not the global properties of all the directly connected nodes, a novel hubs location method based on global importance contribution evaluation index is proposed in this study.
 2-1	289-294	Since	_
 2-2	295-299	most	_
 2-3	300-307	studies	_
@@ -108,6 +110,7 @@
 2-53	609-614	study	_
 2-54	615-616	.	_
 
+Text=The number of streamlines (NoS) is fused with normalized fractional anisotropy (FA) for more comprehensive brain bioinformation.
 3-1	617-620	The	_
 3-2	621-627	number	_
 3-3	628-630	of	_
@@ -131,6 +134,7 @@
 3-21	734-748	bioinformation	_
 3-22	749-750	.	_
 
+Text=The brain region importance contribution matrix and information transfer efficiency value are constructed, respectively, and then by combining these two factors together we can calculate the importance value of each node and locate the hubs.
 4-1	751-754	The	_
 4-2	755-760	brain	_
 4-3	761-767	region	_
@@ -170,6 +174,7 @@
 4-37	989-993	hubs	_
 4-38	994-995	.	_
 
+Text=Profiting from both local and global features of the nodes and the multi-information fusion of human brain biosignals, the experiment results show that this method can detect the brain hubs more accurately and reasonably compared with other methods.
 5-1	996-1005	Profiting	_
 5-2	1006-1010	from	_
 5-3	1011-1015	both	_
@@ -211,6 +216,7 @@
 5-39	1238-1245	methods	_
 5-40	1246-1247	.	_
 
+Text=Furthermore, the proposed location method is used in impaired brain hubs connectivity analysis of schizophrenia patients and the results are in agreement with previous studies.
 6-1	1248-1259	Furthermore	_
 6-2	1260-1261	,	_
 6-3	1262-1265	the	_
@@ -239,9 +245,11 @@
 6-26	1417-1424	studies	_
 6-27	1425-1426	.	_
 
+Text=3.
 7-1	1427-1428	3	_
 7-2	1429-1430	.	_
 
+Text=Human Brain Hubs Location Method Based on NoS-FA Matrix 3.1.
 8-1	1431-1436	Human	_
 8-2	1437-1442	Brain	http://maven.renci.org/NeuroBridge/neurobridge#Location
 8-3	1443-1447	Hubs	http://maven.renci.org/NeuroBridge/neurobridge#Location
@@ -254,6 +262,7 @@
 8-10	1487-1490	3.1	http://maven.renci.org/NeuroBridge/neurobridge#GeriatricDepressionScale
 8-11	1491-1492	.	_
 
+Text=Construction of Brain Region Importance Evaluation Matrix Just like other complex networks, the human brain network is an integration of nodes and edges, and the importance of each node will be affected by all those connections which it has.
 9-1	1493-1505	Construction	_
 9-2	1506-1508	of	_
 9-3	1509-1514	Brain	_
@@ -297,6 +306,7 @@
 9-41	1732-1735	has	_
 9-42	1736-1737	.	_
 
+Text=That means when change happened with even one node, it will lead to the disorder or collapse of the entire network.
 10-1	1738-1742	That	_
 10-2	1743-1748	means	_
 10-3	1749-1753	when	_
@@ -321,6 +331,7 @@
 10-22	1846-1853	network	_
 10-23	1854-1855	.	_
 
+Text=The relationships with other brain regions have very important influence on the performance of a node, and it is not enough to describe the complexity of topological relation only by the local characteristic of the brain region.
 11-1	1856-1859	The	_
 11-2	1860-1873	relationships	_
 11-3	1874-1878	with	_
@@ -361,6 +372,7 @@
 11-38	2078-2084	region	_
 11-39	2085-2086	.	_
 
+Text=On the basis of reference, in which a contribution matrix of the node importance degree in undirected and unweighted networks was presented, a hub evaluation method with weighted importance contribution matrix is proposed in our work.
 12-1	2087-2089	On	_
 12-2	2090-2093	the	_
 12-3	2094-2099	basis	_
@@ -401,6 +413,7 @@
 12-38	2318-2322	work	_
 12-39	2323-2324	.	_
 
+Text=In this method, both the contribution of a single brain region for the other connected brain regions in the whole brain network and the information transfer ability of this brain region are considered together to find the hubs in the brain network effectively.
 13-1	2325-2327	In	_
 13-2	2328-2332	this	_
 13-3	2333-2339	method	_
@@ -447,6 +460,7 @@
 13-44	2574-2585	effectively	_
 13-45	2586-2587	.	_
 
+Text=In a brain structural network with n brain regions, if the average connection degree of all brain regions is, which indicates the average number of all connections in the human brain, and the average brain connection strength is, which represents the average number of white matter fibers in all brain regions, then a single brain region vi will have a contribution to its connected brain regions.
 14-1	2588-2590	In	_
 14-2	2591-2592	a	_
 14-3	2593-2598	brain	_
@@ -520,6 +534,7 @@
 14-71	2982-2989	regions	_
 14-72	2990-2991	.	_
 
+Text=Because the NoS-FA adjacency matrix is weighted, the contribution of each brain region vi to other connected brain regions should also consider the weight value wij, so the importance contribution matrix of brain regions in the human brain network HBRIM is defined asHere the diagonal elements have a contribution value of 1.
 15-1	2992-2999	Because	_
 15-2	3000-3003	the	_
 15-3	3004-3010	NoS-FA	_
@@ -576,6 +591,7 @@
 15-54	3317-3318	1	_
 15-55	3319-3320	.	_
 
+Text=On the other hand, in order to reflect the ability of a single brain region vi in the information process, the information transmission efficiency Eiw is defined as Here aij is used to indicate whether there is a direct link between nodes i and j, if the connection exists, aij = 1; otherwise, aij = 0. dijw represents the shortest weighted distance between two different brain regions, which is the harmonic mean weight of each brain region.
 16-1	3321-3323	On	_
 16-2	3324-3327	the	_
 16-3	3328-3333	other	_
@@ -662,6 +678,7 @@
 16-84	3763-3769	region	_
 16-85	3770-3771	.	_
 
+Text=It can be seen from the definition of Eiw that the transmission efficiency can reflect how important a brain region is in the information transfer process in human brain.
 17-1	3772-3774	It	_
 17-2	3775-3778	can	_
 17-3	3779-3781	be	_
@@ -693,6 +710,7 @@
 17-29	3936-3941	brain	_
 17-30	3942-3943	.	_
 
+Text=If Eiw value of a brain region is very big that means it plays a more important role in information transmission; therefore, when this brain region is injured, the information transmission ability of the whole brain network will suffer a greater loss.
 18-1	3944-3946	If	_
 18-2	3947-3950	Eiw	_
 18-3	3951-3956	value	_
@@ -740,6 +758,7 @@
 18-45	4193-4197	loss	_
 18-46	4198-4199	.	_
 
+Text=By now for each brain region we have a local contribution index and a global importance property index Eiw; then the values of these two index are integrated into an evaluation matrix HRC as follows: Here HRC (i, j) indicates the important influence of brain region i to brain region j, which depends not only on the quantity of white matter fibers between i and j but also on the important level of brain region i in the information transmission.
 19-1	4200-4202	By	_
 19-2	4203-4206	now	_
 19-3	4207-4210	for	_
@@ -828,6 +847,7 @@
 19-86	4640-4652	transmission	_
 19-87	4653-4654	.	_
 
+Text=Through the application of the hubs evaluation matrix HRC, the important index of brain regions is expressed as follows: We can calculate all the RCi values in the brain network and choose the 15 highest values of the brain regions as hubs in a human brain network.
 20-1	4655-4662	Through	_
 20-2	4663-4666	the	_
 20-3	4667-4678	application	_
@@ -879,9 +899,11 @@
 20-49	4914-4921	network	_
 20-50	4922-4923	.	_
 
+Text=3.2.
 21-1	4924-4927	3.2	_
 21-2	4928-4929	.	_
 
+Text=Workflow of Hubs Location Based on Important Index RCi The quantity of white matter fiber between regions is fused with anisotropic fraction value of this region to get MNoS-FA according to (4), which is used as the input data of the algorithm.
 22-1	4930-4938	Workflow	_
 22-2	4939-4941	of	_
 22-3	4942-4946	Hubs	_
@@ -929,6 +951,7 @@
 22-45	5167-5176	algorithm	_
 22-46	5177-5178	.	_
 
+Text=The importance matrix of all brain regions to the other connected brain regions is computed, respectively, according to (5).
 23-1	5179-5182	The	_
 23-2	5183-5193	importance	_
 23-3	5194-5200	matrix	_
@@ -954,6 +977,7 @@
 23-23	5305-5306	)	_
 23-24	5307-5308	.	_
 
+Text=The information transfer efficiency values of each region are computed with (6) and integrated into the relative importance matrix.
 24-1	5309-5312	The	_
 24-2	5313-5324	information	_
 24-3	5325-5333	transfer	_
@@ -977,6 +1001,7 @@
 24-21	5435-5441	matrix	_
 24-22	5442-5443	.	_
 
+Text=RCi value is calculated according to (8) and (9), which represents the importance of each brain region.
 25-1	5444-5447	RCi	_
 25-2	5448-5453	value	_
 25-3	5454-5456	is	_
@@ -1001,6 +1026,7 @@
 25-22	5545-5551	region	_
 25-23	5552-5553	.	_
 
+Text=Ranking the RCi values in descending order, the nodes with the first 15 highest values are considered as hubs in brain structural network.
 26-1	5554-5561	Ranking	_
 26-2	5562-5565	the	_
 26-3	5566-5569	RCi	_
@@ -1027,6 +1053,7 @@
 26-24	5685-5692	network	_
 26-25	5693-5694	.	_
 
+Text=The algorithm flow diagram is shown as Figure 2.
 27-1	5695-5698	The	_
 27-2	5699-5708	algorithm	_
 27-3	5709-5713	flow	_
@@ -1038,6 +1065,7 @@
 27-9	5741-5742	2	_
 27-10	5743-5744	.	_
 
+Text=The brain hubs location algorithm based on important index considers both the global property of a brain region and the relationships with other connected regions in the brain; the overall workflow is as follows: 4.
 28-1	5745-5748	The	_
 28-2	5749-5754	brain	_
 28-3	5755-5759	hubs	_
@@ -1077,6 +1105,7 @@
 28-37	5960-5961	4	_
 28-38	5962-5963	.	_
 
+Text=Effect Analysis of Hubs Location Algorithm Based on NoS-FA Matrix 4.1.
 29-1	5964-5970	Effect	_
 29-2	5971-5979	Analysis	_
 29-3	5980-5982	of	_
@@ -1090,6 +1119,7 @@
 29-11	6030-6033	4.1	_
 29-12	6034-6035	.	_
 
+Text=Effectiveness Analysis of the Algorithm We use both the weighted betweenness hubs location method which is the most popular method in evaluating brain hubs and proposed hubs location method to calculate the importance value of each brain region for the same healthy people's brain network, and the results were shown in Figure 3.
 30-1	6036-6049	Effectiveness	_
 30-2	6050-6058	Analysis	_
 30-3	6059-6061	of	_
@@ -1147,6 +1177,7 @@
 30-55	6365-6366	3	_
 30-56	6367-6368	.	_
 
+Text=There are three improvements when using the proposed method.
 31-1	6369-6374	There	_
 31-2	6375-6378	are	_
 31-3	6379-6384	three	_
@@ -1158,6 +1189,7 @@
 31-9	6422-6428	method	_
 31-10	6429-6430	.	_
 
+Text=Firstly, from the results, we can see when using the region evaluation method with weighted betweenness that there exist some nodes that have the same importance value.
 32-1	6431-6438	Firstly	_
 32-2	6439-6440	,	_
 32-3	6441-6445	from	_
@@ -1189,6 +1221,7 @@
 32-29	6595-6600	value	_
 32-30	6601-6602	.	_
 
+Text=While in the results based on the proposed method every region has different value of importance, so our method is more accurate for evaluating the importance of brain regions.
 33-1	6603-6608	While	_
 33-2	6609-6611	in	_
 33-3	6612-6615	the	_
@@ -1221,6 +1254,7 @@
 33-30	6772-6779	regions	_
 33-31	6780-6781	.	_
 
+Text=In addition, it can be seen clearly in the region evaluation results with weighted betweenness method that some brain regions have the same importance value of zero, but it is impossible for a region to have no importance in the network.
 34-1	6782-6784	In	_
 34-2	6785-6793	addition	_
 34-3	6794-6795	,	_
@@ -1266,6 +1300,7 @@
 34-43	7013-7020	network	_
 34-44	7021-7022	.	_
 
+Text=While in the results of proposed method even the last one also has a no-zero importance value, so our method is more reasonable for evaluating the importance of brain regions.
 35-1	7023-7028	While	_
 35-2	7029-7031	in	_
 35-3	7032-7035	the	_
@@ -1299,6 +1334,7 @@
 35-31	7191-7198	regions	_
 35-32	7199-7200	.	_
 
+Text=Finally in the region evaluation results with weighted betweenness method, the distribution of importance value is more even and the values in different regions are closed to each other.
 36-1	7201-7208	Finally	_
 36-2	7209-7211	in	_
 36-3	7212-7215	the	_
@@ -1331,6 +1367,7 @@
 36-30	7382-7387	other	_
 36-31	7388-7389	.	_
 
+Text=While in the results with proposed method the distribution looks sharper, the difference between the hubs and other noncore nodes in the brain network is more apparent.
 37-1	7390-7395	While	_
 37-2	7396-7398	in	_
 37-3	7399-7402	the	_
@@ -1361,6 +1398,7 @@
 37-28	7550-7558	apparent	_
 37-29	7559-7560	.	_
 
+Text=For further analysis, the most important 15 brain regions located with two methods and some corresponding properties are listed in sort order in Table 1.
 38-1	7561-7564	For	_
 38-2	7565-7572	further	_
 38-3	7573-7581	analysis	_
@@ -1389,6 +1427,7 @@
 38-26	7713-7714	1	_
 38-27	7715-7716	.	_
 
+Text=The location of hubs with the proposed method in brain space is shown in Figure 4; it can be seen that the human brain hubs are mainly located on the frontal lobe, parietal lobe, and the flat layer part of the organization, including the superior parietal gyrus, parietal gyrus, superior frontal gyrus, precentral gyrus, paracentral gyrus, thalamus, putamen, and brain stem.
 39-1	7717-7720	The	_
 39-2	7721-7729	location	_
 39-3	7730-7732	of	_
@@ -1463,6 +1502,7 @@
 39-72	8097-8101	stem	_
 39-73	8102-8103	.	_
 
+Text=Benefitting from fusing two kinds of bioinformation, the NoS-FA weighted network involves more comprehensive information of brain, so it can distinguish the hub nodes from those noncore nodes more accurately; at the same time, the ranking of hubs importance value is more reasonable and highly recognizable.
 40-1	8104-8115	Benefitting	_
 40-2	8116-8120	from	_
 40-3	8121-8127	fusing	_
@@ -1515,9 +1555,11 @@
 40-50	8402-8414	recognizable	_
 40-51	8415-8416	.	_
 
+Text=4.2.
 41-1	8417-8420	4.2	_
 41-2	8421-8422	.	_
 
+Text=Algorithm Vulnerability Analysis and Comparison In order to verify the actual importance of the hubs, which are located by the proposed algorithm, the vulnerability analysis experiment is presented in our work.
 42-1	8423-8432	Algorithm	_
 42-2	8433-8446	Vulnerability	_
 42-3	8447-8455	Analysis	_
@@ -1553,6 +1595,7 @@
 42-33	8630-8634	work	_
 42-34	8635-8636	.	_
 
+Text=When a node in the network is removed, the global property of the network will be changed.
 43-1	8637-8641	When	_
 43-2	8642-8643	a	_
 43-3	8644-8648	node	_
@@ -1573,6 +1616,7 @@
 43-18	8720-8727	changed	_
 43-19	8728-8729	.	_
 
+Text=Usually the ratio of the change of network property to the network property before the removal is defined as the vulnerability.
 44-1	8730-8737	Usually	_
 44-2	8738-8741	the	_
 44-3	8742-8747	ratio	_
@@ -1596,6 +1640,7 @@
 44-21	8843-8856	vulnerability	_
 44-22	8857-8858	.	_
 
+Text=The greater vulnerability a node has, the higher damage will be put on the entire network, and the role of this node is more important.
 45-1	8859-8862	The	_
 45-2	8863-8870	greater	_
 45-3	8871-8884	vulnerability	_
@@ -1625,6 +1670,7 @@
 45-27	8986-8995	important	_
 45-28	8996-8997	.	_
 
+Text=It needs to be emphasized that, in the experiment, when one node is removed, all the white matter fibers, which are connected with this brain regions, are invalid and the NoS weight of related edges in the network will be zero.
 46-1	8998-9000	It	_
 46-2	9001-9006	needs	_
 46-3	9007-9009	to	_
@@ -1673,6 +1719,7 @@
 46-46	9225-9229	zero	_
 46-47	9230-9231	.	_
 
+Text=Therefore, the vulnerability of brain region i is defined as Here PropValue represents one kind of network properties value before a node is removed, and PropValue′ represents this property value after the removal.
 47-1	9232-9241	Therefore	_
 47-2	9242-9243	,	_
 47-3	9244-9247	the	_
@@ -1710,6 +1757,7 @@
 47-35	9440-9447	removal	_
 47-36	9448-9449	.	_
 
+Text=In this research, the network properties of global efficiency and network density are taken as the vulnerability analysis parameters, respectively, which are shown as The network density reflects the ratio of the actual number of edges and the maximum number of edges the network may have, and it is an important attribute to test the network size.
 48-1	9450-9452	In	_
 48-2	9453-9457	this	_
 48-3	9458-9466	research	_
@@ -1773,6 +1821,7 @@
 48-61	9797-9801	size	_
 48-62	9802-9803	.	_
 
+Text=The global efficiency reflects the information transmission capability of a network.
 49-1	9804-9807	The	_
 49-2	9808-9814	global	_
 49-3	9815-9825	efficiency	_
@@ -1786,6 +1835,7 @@
 49-11	9880-9887	network	_
 49-12	9888-9889	.	_
 
+Text=To compare the influence that a hub may have on the entire brain network, three cases are considered in this experiment: brain hubs are computed and chosen with our proposed method, with weighted betweenness method or at random.
 50-1	9890-9892	To	_
 50-2	9893-9900	compare	_
 50-3	9901-9904	the	_
@@ -1829,6 +1879,7 @@
 50-41	10114-10120	random	_
 50-42	10121-10122	.	_
 
+Text=The vulnerability change curves of three methods are given and compared as shown in Figure 5.
 51-1	10123-10126	The	_
 51-2	10127-10140	vulnerability	_
 51-3	10141-10147	change	_
@@ -1847,6 +1898,7 @@
 51-16	10214-10215	5	_
 51-17	10216-10217	.	_
 
+Text=It can be seen that when one brain region is damaged, the properties of the whole brain network have also changed and the hubs obtained by proposed method have the greatest impact on the overall properties of the human brain network in both density and efficiency.
 52-1	10218-10220	It	_
 52-2	10221-10224	can	_
 52-3	10225-10227	be	_
@@ -1896,6 +1948,7 @@
 52-47	10472-10482	efficiency	_
 52-48	10483-10484	.	_
 
+Text=Because both the local characteristic of a single brain region and the global contribution that a brain region has to its connected regions are considered together, the evaluation process is based on more comprehensive bioinformation and so the hubs located with this method will have more important influence on the human brain network.
 53-1	10485-10492	Because	_
 53-2	10493-10497	both	_
 53-3	10498-10501	the	_
@@ -1952,9 +2005,11 @@
 53-54	10815-10822	network	_
 53-55	10823-10824	.	_
 
+Text=4.3.
 54-1	10825-10828	4.3	_
 54-2	10829-10830	.	_
 
+Text=Hubs Property Analysis of Schizophrenia The proposed method was applied to the MRI data of schizophrenia for the analysis of human brain structural network changing.
 55-1	10831-10835	Hubs	_
 55-2	10836-10844	Property	_
 55-3	10845-10853	Analysis	_
@@ -1982,6 +2037,7 @@
 55-25	10987-10995	changing	_
 55-26	10996-10997	.	_
 
+Text=Total of 205 people were divided into three groups: schizophrenia patients group (Patients) with 62 people, siblings of patients (Siblings) with 83 people, and healthy people group (healthy people) with 60 people.
 56-1	10998-11003	Total	_
 56-2	11004-11006	of	_
 56-3	11007-11010	205	_
@@ -2025,6 +2081,7 @@
 56-41	11213-11219	people	_
 56-42	11220-11221	.	_
 
+Text=All the MRI data were processed according to the workflow in Figure 1.
 57-1	11222-11225	All	_
 57-2	11226-11229	the	_
 57-3	11230-11233	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -2040,6 +2097,7 @@
 57-13	11290-11291	1	_
 57-14	11292-11293	.	_
 
+Text=Firstly three types of global brain network properties were calculated, respectively, to make the comparison.
 58-1	11294-11301	Firstly	_
 58-2	11302-11307	three	_
 58-3	11308-11313	types	_
@@ -2059,6 +2117,7 @@
 58-17	11394-11404	comparison	_
 58-18	11405-11406	.	_
 
+Text=(1) Brain region connection strength S = (1/N) ∑j∈Naij, which is the mean value of the weight values of all connections in the weighted brain network.
 59-1	11407-11408	(	_
 59-2	11409-11410	1	_
 59-3	11411-11412	)	_
@@ -2092,6 +2151,7 @@
 59-31	11554-11561	network	_
 59-32	11562-11563	.	_
 
+Text=The connection strength is the direct reflection of the numbers of white matter fibers in the human brain network.
 60-1	11564-11567	The	_
 60-2	11568-11578	connection	_
 60-3	11579-11587	strength	_
@@ -2113,6 +2173,7 @@
 60-19	11670-11677	network	_
 60-20	11678-11679	.	_
 
+Text=(2) The global efficiency E = (1/N) ∑i=1, i≠kn (1/dki) of the brain network, which is the mean of all the reciprocals of the shortest path.
 61-1	11680-11681	(	_
 61-2	11682-11683	2	_
 61-3	11684-11685	)	_
@@ -2149,6 +2210,7 @@
 61-34	11822-11826	path	_
 61-35	11827-11828	.	_
 
+Text=Efficiency value reflects the transmission speed of information in the human brain network.
 62-1	11829-11839	Efficiency	_
 62-2	11840-11845	value	_
 62-3	11846-11854	reflects	_
@@ -2164,6 +2226,7 @@
 62-13	11912-11919	network	_
 62-14	11920-11921	.	_
 
+Text=(3) Clustering coefficient C = (1/N) ∑i∈vCi of the brain network, which is the mean value of all clustering coefficients of all regions.
 63-1	11922-11923	(	_
 63-2	11924-11925	3	_
 63-3	11926-11927	)	_
@@ -2194,6 +2257,7 @@
 63-28	12055-12062	regions	_
 63-29	12063-12064	.	_
 
+Text=Clustering coefficient is a measure of the degree of brain network group indicating the extent of the network clustering.
 64-1	12065-12075	Clustering	_
 64-2	12076-12087	coefficient	_
 64-3	12088-12090	is	_
@@ -2215,6 +2279,7 @@
 64-19	12175-12185	clustering	_
 64-20	12186-12187	.	_
 
+Text=Taking the healthy human brain network as the benchmark, three local property values of each hub were calculated for each subject: connection strength Si = ∑j∈Naij, local efficiency Ei = ∑i=1, i≠kn (1/dki), and clustering coefficient Ci = 2Ei/ki (ki − 1); then the average values in each groups were calculated, respectively.
 65-1	12188-12194	Taking	_
 65-2	12195-12198	the	_
 65-3	12199-12206	healthy	_
@@ -2280,6 +2345,7 @@
 65-63	12511-12523	respectively	_
 65-64	12524-12525	.	_
 
+Text=The experiment is designed as the process shown in Figure 6 and all the computations are executed by the MATLAB brain connectivity toolbox.
 66-1	12526-12529	The	_
 66-2	12530-12540	experiment	_
 66-3	12541-12543	is	_
@@ -2305,6 +2371,7 @@
 66-23	12657-12664	toolbox	_
 66-24	12665-12666	.	_
 
+Text=The experiment results are shown in Table 2.
 67-1	12667-12670	The	_
 67-2	12671-12681	experiment	_
 67-3	12682-12689	results	_
@@ -2315,6 +2382,7 @@
 67-8	12709-12710	2	_
 67-9	12711-12712	.	_
 
+Text=The average global properties values of the brain network are presented in Table 2 (a); the average local properties values with weighted betweenness method are presented in Table 2 (b) and the average local properties values with proposed method are presented in Table 2 (c).
 68-1	12713-12716	The	_
 68-2	12717-12724	average	_
 68-3	12725-12731	global	_
@@ -2369,6 +2437,7 @@
 68-52	12994-12995	)	_
 68-53	12996-12997	.	_
 
+Text=It can be seen from the results in Table 2 that both global and local properties in patients, siblings, and healthy people group have shown some interesting differences.
 69-1	12998-13000	It	_
 69-2	13001-13004	can	_
 69-3	13005-13007	be	_
@@ -2401,6 +2470,7 @@
 69-30	13157-13168	differences	_
 69-31	13169-13170	.	_
 
+Text=The global properties values are shown in Table 2 (a), and compared with healthy group, the average values of connection strength, global efficiency, and clustering coefficient in patients group were decreased by 3.95%, 2.69%, and 3.55%, respectively.
 70-1	13171-13174	The	_
 70-2	13175-13181	global	_
 70-3	13182-13192	properties	_
@@ -2452,6 +2522,7 @@
 70-49	13421-13433	respectively	_
 70-50	13434-13435	.	_
 
+Text=The significant ordered differences, such that healthy people> siblings> patients, were found in both connection strength and clustering coefficient, while for global efficiency patient group has a weak higher value than sibling group but still lower than healthy group.
 71-1	13436-13439	The	_
 71-2	13440-13451	significant	_
 71-3	13452-13459	ordered	_
@@ -2498,6 +2569,7 @@
 71-44	13705-13710	group	_
 71-45	13711-13712	.	_
 
+Text=The local properties values based on weighted betweenness method are shown in Table 2 (b).
 72-1	13713-13716	The	_
 72-2	13717-13722	local	_
 72-3	13723-13733	properties	_
@@ -2517,6 +2589,7 @@
 72-17	13803-13804	)	_
 72-18	13805-13806	.	_
 
+Text=The sequence that healthy people> siblings> patients still can be found but not so obvious in connection strength and clustering coefficient between three groups.
 73-1	13807-13810	The	_
 73-2	13811-13819	sequence	_
 73-3	13820-13824	that	_
@@ -2545,6 +2618,7 @@
 73-26	13964-13970	groups	_
 73-27	13971-13972	.	_
 
+Text=The local efficiency of patient group is very close to that of sibling group, but the former was slightly higher than the latter.
 74-1	13973-13976	The	_
 74-2	13977-13982	local	_
 74-3	13983-13993	efficiency	_
@@ -2571,6 +2645,7 @@
 74-24	14096-14102	latter	_
 74-25	14103-14104	.	_
 
+Text=For the local properties values based on the proposed method in Table 2 (c), the significant ordered difference is that healthy people> siblings> patients were found clearly in connection strength, clustering coefficient, and local efficiency.
 75-1	14105-14108	For	_
 75-2	14109-14112	the	_
 75-3	14113-14118	local	_
@@ -2615,6 +2690,7 @@
 75-42	14344-14354	efficiency	_
 75-43	14355-14356	.	_
 
+Text=The average values of hubs' local efficiency were the highest in healthy people, intermediate in siblings (4.36% reduced relative to healthy people), and lowest in patients (8.44% reduced compared with healthy people).
 76-1	14357-14360	The	_
 76-2	14361-14368	average	_
 76-3	14369-14375	values	_
@@ -2658,6 +2734,7 @@
 76-41	14582-14583	)	_
 76-42	14584-14585	.	_
 
+Text=Connection strength in patients hubs was decreased by 9.72% compared with healthy people and 6.55% compared with siblings.
 77-1	14586-14596	Connection	_
 77-2	14597-14605	strength	_
 77-3	14606-14608	in	_
@@ -2680,6 +2757,7 @@
 77-20	14701-14709	siblings	_
 77-21	14710-14711	.	_
 
+Text=Clustering coefficients in patients hubs were decreased by 8.47% compared with healthy people and 4.53% compared with siblings.
 78-1	14712-14722	Clustering	_
 78-2	14723-14735	coefficients	_
 78-3	14736-14738	in	_
@@ -2702,6 +2780,7 @@
 78-20	14832-14840	siblings	_
 78-21	14841-14842	.	_
 
+Text=These results are consistent with the conclusion in.
 79-1	14843-14848	These	_
 79-2	14849-14856	results	_
 79-3	14857-14860	are	_
@@ -2712,6 +2791,7 @@
 79-8	14892-14894	in	_
 79-9	14895-14896	.	_
 
+Text=More importantly, from the results of the above analysis, we can see that the difference between the hubs of healthy people, siblings, and patients in the proposed method is more apparent than in weighted betweenness method.
 80-1	14897-14901	More	_
 80-2	14902-14913	importantly	_
 80-3	14914-14915	,	_
@@ -2754,6 +2834,7 @@
 80-40	15118-15124	method	_
 80-41	15125-15126	.	_
 
+Text=These results indicate that hubs location with method proposed in this paper is more reasonable and accurate than the weighted betweenness method, which is most popular in finding hubs at present researches.
 81-1	15127-15132	These	_
 81-2	15133-15140	results	_
 81-3	15141-15149	indicate	_
@@ -2789,6 +2870,7 @@
 81-33	15324-15334	researches	_
 81-34	15335-15336	.	_
 
+Text=At the meantime, analysis of variance (ANOVA) was finished in our work to test the data difference and the results are shown in Table 3.
 82-1	15337-15339	At	_
 82-2	15340-15343	the	_
 82-3	15344-15352	meantime	_
@@ -2819,6 +2901,7 @@
 82-28	15474-15475	3	_
 82-29	15476-15477	.	_
 
+Text=The F value of connection strength Si, clustering coefficient Ci, and local efficiency Ei was 8.496, 5.325, and 5.864, and the P value of each group was less than 0.05.
 83-1	15478-15481	The	_
 83-2	15482-15483	F	_
 83-3	15484-15489	value	_

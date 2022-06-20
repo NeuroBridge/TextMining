@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=The human cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychosis Higher-order cognition emerges through the flexible interactions of large-scale brain networks, an aspect of temporal coordination that may be impaired in psychosis.
 1-1	0-3	The	_
 1-2	4-9	human	_
 1-3	10-16	cortex	_
@@ -41,6 +42,7 @@
 1-37	260-269	psychosis	_
 1-38	270-271	.	_
 
+Text=Here, we map the dynamic functional architecture of the cerebral cortex in healthy young adults, leveraging this atlas of transient network configurations (states), to identify state- and network-specific disruptions in patients with schizophrenia and psychotic bipolar disorder.
 2-1	272-276	Here	_
 2-2	277-278	,	_
 2-3	279-281	we	_
@@ -85,6 +87,7 @@
 2-42	547-555	disorder	_
 2-43	556-557	.	_
 
+Text=We demonstrate that dynamic connectivity profiles are reliable within participants, and can act as a fingerprint, identifying specific individuals within a larger group.
 3-1	558-560	We	_
 3-2	561-572	demonstrate	_
 3-3	573-577	that	_
@@ -112,6 +115,7 @@
 3-25	723-728	group	_
 3-26	729-730	.	_
 
+Text=Patients with psychotic illness exhibit intermittent disruptions within cortical networks previously associated with the disease, and the individual connectivity profiles within specific brain states predict the presence of active psychotic symptoms.
 4-1	731-739	Patients	http://maven.renci.org/NeuroBridge/neurobridge#Unmedicated
 4-2	740-744	with	http://maven.renci.org/NeuroBridge/neurobridge#Unmedicated
 4-3	745-754	psychotic	http://maven.renci.org/NeuroBridge/neurobridge#Unmedicated
@@ -146,6 +150,7 @@
 4-32	973-981	symptoms	_
 4-33	982-983	.	_
 
+Text=Taken together, these results provide evidence for a reconfigurable dynamic architecture in the general population and suggest that prior reports of network disruptions in psychosis may reflect symptom-relevant transient abnormalities, rather than a time-invariant global deficit.
 5-1	984-989	Taken	_
 5-2	990-998	together	_
 5-3	999-1000	,	_
@@ -186,6 +191,7 @@
 5-38	1258-1265	deficit	_
 5-39	1266-1267	.	_
 
+Text=Temporal changes in brain dynamics are linked with cognitive abilities, but neither their stability nor relationship to psychosis is clear.
 6-1	1268-1276	Temporal	_
 6-2	1277-1284	changes	_
 6-3	1285-1287	in	_
@@ -209,6 +215,7 @@
 6-21	1402-1407	clear	_
 6-22	1408-1409	.	_
 
+Text=Here, authors describe the dynamic neural architecture in healthy controls and patients with psychosis and find that they are stable over time and can predict psychotic symptoms.
 7-1	1410-1414	Here	_
 7-2	1415-1416	,	_
 7-3	1417-1424	authors	_
@@ -239,6 +246,7 @@
 7-28	1580-1588	symptoms	_
 7-29	1589-1590	.	_
 
+Text=Methods Data acquisition Native English-speaking young adults (aged 18–35) with normal or corrected-to-normal vision were recruited from Harvard University, Massachusetts General Hospital, and the surrounding Boston communities through an ongoing large-scale study of brain imaging and genetics (n = 1919; age: 21.35 ± 3.20; female: 56.53%; right handed: 92.40%).
 8-1	1591-1598	Methods	_
 8-2	1599-1603	Data	_
 8-3	1604-1615	acquisition	_
@@ -304,6 +312,7 @@
 8-63	1966-1967	)	_
 8-64	1968-1969	.	_
 
+Text=History of psychiatric illness and medication usage was assessed through a structured phone screen.
 9-1	1970-1977	History	_
 9-2	1978-1980	of	_
 9-3	1981-1992	psychiatric	_
@@ -320,6 +329,7 @@
 9-14	2062-2068	screen	_
 9-15	2069-2070	.	_
 
+Text=On the day of MRI data collection, participants completed additional questionnaires concerning their physical health, past and present history of psychiatric illness, and medication usage.
 10-1	2071-2073	On	_
 10-2	2074-2077	the	_
 10-3	2078-2081	day	_
@@ -350,6 +360,7 @@
 10-28	2256-2261	usage	_
 10-29	2262-2263	.	_
 
+Text=Exclusion criteria included a history of head trauma, current or past Axis I pathology, neurological disorders, current or past psychotropic medication use, current physical illness, and current or past loss of consciousness.
 11-1	2264-2273	Exclusion	_
 11-2	2274-2282	criteria	_
 11-3	2283-2291	included	_
@@ -389,6 +400,7 @@
 11-37	2480-2493	consciousness	_
 11-38	2494-2495	.	_
 
+Text=Participants provided written informed consent in accordance with guidelines set by the Partners Health Care Institutional Review Board and the Harvard University Committee on the Use of Human Subjects in Research.
 12-1	2496-2508	Participants	_
 12-2	2509-2517	provided	_
 12-3	2518-2525	written	_
@@ -422,6 +434,7 @@
 12-31	2701-2709	Research	_
 12-32	2710-2711	.	_
 
+Text=For the present study, we assessed the extent to which the dynamic network architecture of the cortex is reliable within and across visits.
 13-1	2712-2715	For	_
 13-2	2716-2719	the	_
 13-3	2720-2727	present	_
@@ -448,6 +461,7 @@
 13-24	2845-2851	visits	_
 13-25	2852-2853	.	_
 
+Text=To accomplish this, an additional data set (n = 79; age at the first scan: 20.99 ± 2.93; female: 45.56%; right handed: 89.87%) was acquired over the course of the primary collection effort.
 14-1	2854-2856	To	_
 14-2	2857-2867	accomplish	_
 14-3	2868-2872	this	_
@@ -494,6 +508,7 @@
 14-44	3047-3053	effort	_
 14-45	3054-3055	.	_
 
+Text=Data were collected on 2 independent days (mean = 63.35 ± 48.10 days apart; min = 2; max = 151).
 15-1	3056-3060	Data	_
 15-2	3061-3065	were	_
 15-3	3066-3075	collected	_
@@ -520,6 +535,7 @@
 15-24	3154-3155	)	_
 15-25	3156-3157	.	_
 
+Text=Patients with psychotic illness were recruited from clinical services at McLean Hospital (n = 170; age: 32.08 ± 11.64; female: 66.47%; right handed: 84.71%), including 41 patients diagnosed with schizoaffective disorder, 56 with schizophrenia, and 73 with psychotic bipolar disorder.
 16-1	3158-3166	Patients	_
 16-2	3167-3171	with	_
 16-3	3172-3181	psychotic	_
@@ -575,6 +591,7 @@
 16-53	3445-3453	disorder	http://maven.renci.org/NeuroBridge/neurobridge#BipolarDisorder
 16-54	3454-3455	.	_
 
+Text=Study procedures are detailed in Baker et al.
 17-1	3456-3461	Study	_
 17-2	3462-3472	procedures	_
 17-3	3473-3476	are	_
@@ -585,9 +602,11 @@
 17-8	3498-3500	al	_
 17-9	3501-3502	.	_
 
+Text=2014.
 18-1	3503-3507	2014	_
 18-2	3508-3509	.	_
 
+Text=Briefly, exclusion criteria included neurological illness, positive pregnancy test, electroconvulsive therapy in the last 3 months, and history of head trauma.
 19-1	3510-3517	Briefly	_
 19-2	3518-3519	,	_
 19-3	3520-3529	exclusion	_
@@ -615,6 +634,7 @@
 19-25	3666-3672	trauma	_
 19-26	3673-3674	.	_
 
+Text=Reflecting the severity of the present sample, the majority of patients (82%) reported experiencing active psychotic symptoms at the time of their clinical assessment, as assessed through DSM-IV (SCID) clinician-rated symptomatic diagnostic criteria, indicating the presence of delusions and/or hallucinations in the past month.
 20-1	3675-3685	Reflecting	_
 20-2	3686-3689	the	_
 20-3	3690-3698	severity	_
@@ -669,6 +689,7 @@
 20-52	4005-4010	month	_
 20-53	4011-4012	.	_
 
+Text=All patients were assessed for active symptoms within 24 h of scan using the Positive and Negative Syndrome Scale (PANSS; positive scale: 18.46 ± 6.51; negative scale: 13.48 ± 7.47; general psychopathology scale: 30.82 ± 7.95).
 21-1	4013-4016	All	_
 21-2	4017-4025	patients	_
 21-3	4026-4030	were	_
@@ -715,6 +736,7 @@
 21-44	4246-4247	)	_
 21-45	4248-4249	.	_
 
+Text=A demographically matched healthy comparison sample was recruited from the surrounding Boston communities (n = 369; age: 37.16 ± 14.65; female: 62.06%; right handed: 91.33%).
 22-1	4250-4251	A	_
 22-2	4252-4267	demographically	_
 22-3	4268-4275	matched	_
@@ -752,6 +774,7 @@
 22-35	4432-4433	)	_
 22-36	4434-4435	.	_
 
+Text=The McLean Hospital Institutional Review Board approved the study, and all participants provided written informed consent.
 23-1	4436-4439	The	_
 23-2	4440-4446	McLean	_
 23-3	4447-4455	Hospital	_
@@ -771,6 +794,7 @@
 23-17	4551-4558	consent	_
 23-18	4559-4560	.	_
 
+Text=The control group was significantly older than the patient group (t = –3.98, p ≤ 0.001).
 24-1	4561-4564	The	_
 24-2	4565-4572	control	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 24-3	4573-4578	group	_
@@ -792,6 +816,7 @@
 24-19	4650-4651	)	_
 24-20	4652-4653	.	_
 
+Text=No significant group differences were identified in sex, handedness, or education (ps ≥ 0.07).
 25-1	4654-4656	No	_
 25-2	4657-4668	significant	_
 25-3	4669-4674	group	_
@@ -812,6 +837,7 @@
 25-18	4750-4751	)	_
 25-19	4752-4753	.	_
 
+Text=The comparison sample was explicitly selected to match on the basis data quality.
 26-1	4754-4757	The	_
 26-2	4758-4768	comparison	_
 26-3	4769-4775	sample	_
@@ -827,6 +853,7 @@
 26-13	4827-4834	quality	_
 26-14	4835-4836	.	_
 
+Text=The BOLD runs for the patient and comparison groups did not differ in terms of slice-based temporal signal-to-noise ratio (comparison: 161.17 ± 46.05; patient: 158.35 ± 71.53) or the number of relative translations in 3D space ≥0.1 mm (comparison: 31.05 ± 29.15; patient: 32.29 ± 29.66; ps ≥ 0.58).
 27-1	4837-4840	The	_
 27-2	4841-4845	BOLD	_
 27-3	4846-4850	runs	_
@@ -889,6 +916,7 @@
 27-60	5144-5145	)	_
 27-61	5146-5147	.	_
 
+Text=The slice-based signal-to-noise ratio was calculated as the weighted mean of each slice ’ s mean intensity over time (weighted by the size of the slice).
 28-1	5148-5151	The	_
 28-2	5152-5163	slice-based	_
 28-3	5164-5179	signal-to-noise	_
@@ -919,6 +947,7 @@
 28-28	5301-5302	)	_
 28-29	5303-5304	.	_
 
+Text=All imaging data were collected on 3-T Tim Trio scanners (Siemens) with a 12-channel phased-array head coil at Harvard University, Massachusetts General Hospital, or McLean Hospital.
 29-1	5305-5308	All	_
 29-2	5309-5316	imaging	_
 29-3	5317-5321	data	_
@@ -951,6 +980,7 @@
 29-30	5482-5490	Hospital	_
 29-31	5491-5492	.	_
 
+Text=Structural data included a high-resolution multi-echo T1-weighted magnetization-prepared gradient-echo image (TR = 2200 ms, TI = 1100 ms, TE = 1.54 ms for image 1–7.01 ms for image 4, FA = 7°, 1.2 × 1.2 × 1.2 mm, and FOV = 230).
 30-1	5493-5503	Structural	_
 30-2	5504-5508	data	_
 30-3	5509-5517	included	_
@@ -1002,6 +1032,7 @@
 30-49	5726-5727	)	_
 30-50	5728-5729	.	_
 
+Text=Functional data were acquired using a gradient-echo echoplanar imaging sequence sensitive to blood oxygenation level-dependent contrast with the following parameters: 124 time points; repetition time = 3000 ms; echo time = 30 ms; flip angle = 85°; 3 × 3 × 3-mm voxels; FOV = 216; and 47 axial sections collected with interleaved acquisition and no gap.
 31-1	5730-5740	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalNearInfraredSpectroscopy
 31-2	5741-5745	data	_
 31-3	5746-5750	were	_
@@ -1068,6 +1099,7 @@
 31-64	6085-6088	gap	_
 31-65	6089-6090	.	_
 
+Text=Participants were instructed to remain still, stay awake, and keep their eyes open.
 32-1	6091-6103	Participants	_
 32-2	6104-6108	were	_
 32-3	6109-6119	instructed	_
@@ -1085,6 +1117,7 @@
 32-15	6171-6175	open	_
 32-16	6176-6177	.	_
 
+Text=Although no fixation image was used, participants with psychotic illness were monitored via eye-tracking video to ensure compliance during functional scans.
 33-1	6178-6186	Although	_
 33-2	6187-6189	no	_
 33-3	6190-6198	fixation	_
@@ -1109,6 +1142,7 @@
 33-22	6329-6334	scans	_
 33-23	6335-6336	.	_
 
+Text=One to two runs were acquired for each participant (70.89% of the main sample, 69.41% of patient participants, and 46.88% of the matched comparison received a second run).
 34-1	6337-6340	One	_
 34-2	6341-6343	to	_
 34-3	6344-6347	two	_
@@ -1146,6 +1180,7 @@
 34-35	6513-6514	)	_
 34-36	6515-6516	.	_
 
+Text=Software upgrades (VB13, VB15, and VB17) occurred during data collection.
 35-1	6517-6525	Software	_
 35-2	6526-6534	upgrades	_
 35-3	6535-6536	(	_
@@ -1162,6 +1197,7 @@
 35-14	6583-6593	collection	_
 35-15	6594-6595	.	_
 
+Text=Reported results are after partialing out variance associated with scanner and software upgrade.
 36-1	6596-6604	Reported	_
 36-2	6605-6612	results	_
 36-3	6613-6616	are	_
@@ -1177,6 +1213,7 @@
 36-13	6684-6691	upgrade	_
 36-14	6692-6693	.	_
 
+Text=Data preprocessing Data were processed with a series of steps common to intrinsic connectivity analyses.
 37-1	6694-6698	Data	_
 37-2	6699-6712	preprocessing	_
 37-3	6713-6717	Data	_
@@ -1194,6 +1231,7 @@
 37-15	6789-6797	analyses	_
 37-16	6798-6799	.	_
 
+Text=Preprocessing included discarding the first four volumes of each run to allow for T1-equilibration effects, compensating for slice acquisition-dependent time shifts per volume, and correcting for head motion using rigid body translation and rotation.
 38-1	6800-6813	Preprocessing	_
 38-2	6814-6822	included	_
 38-3	6823-6833	discarding	_
@@ -1232,6 +1270,7 @@
 38-36	7043-7051	rotation	_
 38-37	7052-7053	.	_
 
+Text=Additional steps included the removal of constant offset and linear trends over each run, and the application of a temporal filter to retain frequencies below 0.08 Hz.
 39-1	7054-7064	Additional	_
 39-2	7065-7070	steps	_
 39-3	7071-7079	included	_
@@ -1262,6 +1301,7 @@
 39-28	7219-7221	Hz	_
 39-29	7222-7223	.	_
 
+Text=Sources of spurious variance, along with their temporal derivatives, were removed through linear regression.
 40-1	7224-7231	Sources	_
 40-2	7232-7234	of	_
 40-3	7235-7243	spurious	_
@@ -1280,6 +1320,7 @@
 40-16	7323-7333	regression	_
 40-17	7334-7335	.	_
 
+Text=These included six parameters obtained by correction for rigid body head motion, the signal averaged over the whole brain, the signal averaged over the ventricles, and the signal averaged over the deep cerebral white matter.
 41-1	7336-7341	These	_
 41-2	7342-7350	included	_
 41-3	7351-7354	six	_
@@ -1320,6 +1361,7 @@
 41-38	7556-7562	matter	_
 41-39	7563-7564	.	_
 
+Text=Structural data and functional data were aligned as described in Yeo et al.
 42-1	7565-7575	Structural	_
 42-2	7576-7580	data	_
 42-3	7581-7584	and	_
@@ -1335,12 +1377,14 @@
 42-13	7637-7639	al	_
 42-14	7640-7641	.	_
 
+Text=and Buckner et al.
 43-1	7642-7645	and	_
 43-2	7646-7653	Buckner	_
 43-3	7654-7656	et	_
 43-4	7657-7659	al	_
 43-5	7660-7661	.	_
 
+Text=using the FreeSurfer software package.
 44-1	7662-7667	using	_
 44-2	7668-7671	the	_
 44-3	7672-7682	FreeSurfer	_
@@ -1348,6 +1392,7 @@
 44-5	7692-7699	package	_
 44-6	7700-7701	.	_
 
+Text=This method yields a surface mesh representation of each participant ’ s cortex, which is then registered to a common spherical coordinate system.
 45-1	7702-7706	This	_
 45-2	7707-7713	method	_
 45-3	7714-7720	yields	_
@@ -1374,6 +1419,7 @@
 45-24	7842-7848	system	_
 45-25	7849-7850	.	_
 
+Text=Images were aligned with boundary-based registration from the FsFast software.
 46-1	7851-7857	Images	_
 46-2	7858-7862	were	_
 46-3	7863-7870	aligned	_
@@ -1386,6 +1432,7 @@
 46-10	7920-7928	software	_
 46-11	7929-7930	.	_
 
+Text=Functional and structural images were then aligned to the common coordinate system by sampling from the middle of the cortical ribbon in a single interpolation step to reduce blurring of the functional signal across sulci and gyri.
 47-1	7931-7941	Functional	_
 47-2	7942-7945	and	_
 47-3	7946-7956	structural	_
@@ -1425,6 +1472,7 @@
 47-37	8157-8161	gyri	_
 47-38	8162-8163	.	_
 
+Text=A 6-mm smoothing kernel was applied to the functional data in the surface space, and data were downsampled to a 4-mm mesh.
 48-1	8164-8165	A	_
 48-2	8166-8170	6-mm	_
 48-3	8171-8180	smoothing	_
@@ -1450,6 +1498,7 @@
 48-23	8282-8286	mesh	_
 48-24	8287-8288	.	_
 
+Text=Additional details on the preprocessing procedures are detailed in Holmes et al.
 49-1	8289-8299	Additional	_
 49-2	8300-8307	details	_
 49-3	8308-8310	on	_
@@ -1464,12 +1513,14 @@
 49-12	8366-8368	al	_
 49-13	8369-8370	.	_
 
+Text=and Yeo et al ..
 50-1	8371-8374	and	_
 50-2	8375-8378	Yeo	_
 50-3	8379-8381	et	_
 50-4	8382-8384	al	_
 50-5	8385-8387	..	_
 
+Text=Dynamic connectivity sliding-window analysis Cortical functional coupling matrices were computed for each participant, across all available parcels within the 17-network functional atlas of Yeo et al .. We defined 114 regions (57 per hemisphere) that surveyed all 17 networks.
 51-1	8388-8395	Dynamic	_
 51-2	8396-8408	connectivity	_
 51-3	8409-8423	sliding-window	_
@@ -1514,6 +1565,7 @@
 51-42	8658-8666	networks	_
 51-43	8667-8668	.	_
 
+Text=Correlation matrices were constructed to include all region pairs arranged by network membership.
 52-1	8669-8680	Correlation	_
 52-2	8681-8689	matrices	_
 52-3	8690-8694	were	_
@@ -1529,6 +1581,7 @@
 52-13	8755-8765	membership	_
 52-14	8766-8767	.	_
 
+Text=Connectivity across time was analyzed using a sliding-window approach (width = 33 s).
 53-1	8768-8780	Connectivity	_
 53-2	8781-8787	across	_
 53-3	8788-8792	time	_
@@ -1546,6 +1599,7 @@
 53-15	8853-8854	)	_
 53-16	8855-8856	.	_
 
+Text=Prior work suggests that a sliding-window range of 30–60 s is appropriate for dynamic connectivity analyses.
 54-1	8857-8862	Prior	_
 54-2	8863-8867	work	_
 54-3	8868-8876	suggests	_
@@ -1564,6 +1618,7 @@
 54-16	8956-8964	analyses	_
 54-17	8965-8966	.	_
 
+Text=Pilot analyses (available upon request) revealed consistent state solution stability across varying sliding-window sizes of 33–63 s. Thirty-three-second windows were chosen in order to maximize signal estimates, while still capturing properties of transient functional connectivity.
 55-1	8967-8972	Pilot	_
 55-2	8973-8981	analyses	_
 55-3	8982-8983	(	_
@@ -1604,6 +1659,7 @@
 55-38	9239-9251	connectivity	_
 55-39	9252-9253	.	_
 
+Text=A time series for each participant was extracted for the 57 regions in each hemisphere.
 56-1	9254-9255	A	_
 56-2	9256-9260	time	_
 56-3	9261-9267	series	_
@@ -1621,6 +1677,7 @@
 56-15	9330-9340	hemisphere	_
 56-16	9341-9342	.	_
 
+Text=Time-course correlations across 110 windows per bold run for each participant (220 windows if the participant had two runs) were calculated for each 114 × 114 region pair.
 57-1	9343-9354	Time-course	_
 57-2	9355-9367	correlations	_
 57-3	9368-9374	across	_
@@ -1653,6 +1710,7 @@
 57-30	9511-9515	pair	_
 57-31	9516-9517	.	_
 
+Text=To limit the redundancy across matrices and to reduce computational load, clustering was applied to a subsample of available windowed covariance matrices (1/10 windows).
 58-1	9518-9520	To	_
 58-2	9521-9526	limit	_
 58-3	9527-9530	the	_
@@ -1682,6 +1740,7 @@
 58-27	9688-9689	)	_
 58-28	9690-9691	.	_
 
+Text=Results were consistent with the alternate approach of subsampling along the temporal dimension to identify windowed covariance matrices with local maxima in functional connectivity variance.
 59-1	9692-9699	Results	_
 59-2	9700-9704	were	_
 59-3	9705-9715	consistent	_
@@ -1709,6 +1768,7 @@
 59-25	9874-9882	variance	_
 59-26	9883-9884	.	_
 
+Text=The resulting correlation matrices were then aggregated and z-transformed prior to running the clustering analyses.
 60-1	9885-9888	The	_
 60-2	9889-9898	resulting	_
 60-3	9899-9910	correlation	_
@@ -1726,6 +1786,7 @@
 60-15	9991-9999	analyses	_
 60-16	10000-10001	.	_
 
+Text=The clustering analysis was iteratively applied to define distinct state solutions for 2 through 20 brain states.
 61-1	10002-10005	The	_
 61-2	10006-10016	clustering	_
 61-3	10017-10025	analysis	_
@@ -1745,6 +1806,7 @@
 61-17	10108-10114	states	_
 61-18	10115-10116	.	_
 
+Text=Additional details on the selected clustering approach are provided in Yeo et al.
 62-1	10117-10127	Additional	_
 62-2	10128-10135	details	_
 62-3	10136-10138	on	_
@@ -1760,6 +1822,7 @@
 62-13	10195-10197	al	_
 62-14	10198-10199	.	_
 
+Text=As we did not have a priori hypotheses regarding the number of functional connectivity states, we assessed the stability of clustering solutions for all states 2–20.
 63-1	10200-10202	As	_
 63-2	10203-10205	we	_
 63-3	10206-10209	did	_
@@ -1789,6 +1852,7 @@
 63-27	10361-10365	2–20	_
 63-28	10366-10367	.	_
 
+Text=To do so, we examined the stability of the clustering analyses by iteratively and randomly splitting our data on two dimensions (sliding windows and pairwise connectivity) and rerunning the clustering solution 30 times.
 64-1	10368-10370	To	_
 64-2	10371-10373	do	_
 64-3	10374-10376	so	_
@@ -1827,6 +1891,7 @@
 64-36	10584-10589	times	_
 64-37	10590-10591	.	_
 
+Text=The results were then compared using a Hungarian matching algorithm, as described in the next section.
 65-1	10592-10595	The	_
 65-2	10596-10603	results	_
 65-3	10604-10608	were	_
@@ -1846,6 +1911,7 @@
 65-17	10687-10694	section	_
 65-18	10695-10696	.	_
 
+Text=Greater instability was quantified as a greater summation of deviation between the two cluster solutions (Supplementary Figure 1).
 66-1	10697-10704	Greater	_
 66-2	10705-10716	instability	_
 66-3	10717-10720	was	_
@@ -1868,6 +1934,7 @@
 66-20	10827-10828	)	_
 66-21	10829-10830	.	_
 
+Text=Hierarchy analysis To examine the relations linking each state in solution S with the states in solution S + 1, we used a Hungarian matching technique.
 67-1	10831-10840	Hierarchy	_
 67-2	10841-10849	analysis	_
 67-3	10850-10852	To	_
@@ -1897,6 +1964,7 @@
 67-27	10973-10982	technique	_
 67-28	10983-10984	.	_
 
+Text=Every possible combination of states in state solution S + 1 was compared to each state in solution S. To illustrate this point, take the comparison of states in the three- and four-state solutions.
 68-1	10985-10990	Every	_
 68-2	10991-10999	possible	_
 68-3	11000-11011	combination	_
@@ -1934,6 +2002,7 @@
 68-35	11174-11183	solutions	_
 68-36	11184-11185	.	_
 
+Text=Each possible combination in the four-state solution is established (A4B4, A4C4, A4D4, B4C4, B4D4, and C4D4) by calculating the mean of each cell in the 114 × 114 × n (here, n = 4) connectivity matrix across the combined states to create hybrid states.
 69-1	11186-11190	Each	_
 69-2	11191-11199	possible	_
 69-3	11200-11211	combination	_
@@ -1990,6 +2059,7 @@
 69-54	11441-11447	states	_
 69-55	11448-11449	.	_
 
+Text=Next, each hybrid state is grouped along with the other states in the four-state solution and compared to the three-state solution (A4 + B4/C4/D4, then A4 + C4/B4/D4, then A4 + D4/B4/C4, etc .).
 70-1	11450-11454	Next	_
 70-2	11455-11456	,	_
 70-3	11457-11461	each	_
@@ -2032,6 +2102,7 @@
 70-40	11648-11649	)	_
 70-41	11650-11651	.	_
 
+Text=Hungarian matching is used to determine which of the hybrid combinations in the four-state solution most closely approximates each state in the three-state solution (so, in the first example, the hybrid four-state solution comprised of A4 + B4/C4/D4 is matched to states A3, B3, and C3 in the three-state solution).
 71-1	11652-11661	Hungarian	_
 71-2	11662-11670	matching	_
 71-3	11671-11673	is	_
@@ -2090,6 +2161,7 @@
 71-56	11971-11972	)	_
 71-57	11973-11974	.	_
 
+Text=This comparison is repeated until the match with the minimal cost is identified (Supplementary Figure 2).
 72-1	11975-11979	This	_
 72-2	11980-11990	comparison	_
 72-3	11991-11993	is	_
@@ -2110,6 +2182,7 @@
 72-18	12080-12081	)	_
 72-19	12082-12083	.	_
 
+Text=Identifying variability across defined state solutions To determine the extent of network variability across brain states, we examined the variance of mean network connectivity in state solutions 2–8 (see Supplementary Figure 3 for variance with the four-state solution).
 73-1	12084-12095	Identifying	_
 73-2	12096-12107	variability	_
 73-3	12108-12114	across	_
@@ -2153,6 +2226,7 @@
 73-41	12356-12357	)	_
 73-42	12358-12359	.	_
 
+Text=We used ANOVA to assess between-state variability (coefficient of variance) with state solutions treated as repeated measures.
 74-1	12360-12362	We	_
 74-2	12363-12367	used	_
 74-3	12368-12373	ANOVA	_
@@ -2174,6 +2248,7 @@
 74-19	12479-12487	measures	_
 74-20	12488-12489	.	_
 
+Text=The results confirmed that variance differed across the networks (F15 = 44.11, p ≤ 0.001).
 75-1	12490-12493	The	_
 75-2	12494-12501	results	_
 75-3	12502-12511	confirmed	_
@@ -2194,6 +2269,7 @@
 75-18	12581-12582	)	_
 75-19	12583-12584	.	_
 
+Text=Post hoc tests revealed increased cross-state variability within default A and B relative to the default D, control A and C, limbic, somatomotor A, and visual B networks (Bonferroni-corrected ps ≤ 0.05, all other ps ≥ 0.5).
 76-1	12585-12589	Post	_
 76-2	12590-12593	hoc	_
 76-3	12594-12599	tests	_
@@ -2240,6 +2316,7 @@
 76-44	12813-12814	)	_
 76-45	12815-12816	.	_
 
+Text=Control B demonstrated greater variance relative to default C and D, control A and C, limbic, somatomotor, and visual networks (ps ≤ 0.05; all other ps ≥ 0.5).
 77-1	12817-12824	Control	_
 77-2	12825-12826	B	_
 77-3	12827-12839	demonstrated	_
@@ -2277,6 +2354,7 @@
 77-35	12981-12982	)	_
 77-36	12983-12984	.	_
 
+Text=The salience/ventral attention and dorsal attention A networks exhibited increased variance relative to default C and D, control A and C, limbic, somatomotor, and visual networks (ps ≤ 0.05, all other ps ≥ 0.5).
 78-1	12985-12988	The	_
 78-2	12989-13005	salience/ventral	_
 78-3	13006-13015	attention	_
@@ -2320,6 +2398,7 @@
 78-41	13201-13202	)	_
 78-42	13203-13204	.	_
 
+Text=Individual identification analyses To examine the extent to which the observed dynamic connectivity profiles are reliably expressed across scans and visits, we first selected participants with two bold runs (n = 1361).
 79-1	13205-13215	Individual	_
 79-2	13216-13230	identification	_
 79-3	13231-13239	analyses	_
@@ -2357,6 +2436,7 @@
 79-35	13424-13425	)	_
 79-36	13426-13427	.	_
 
+Text=Next, we examined the 79 participants, set aside from the original cohort, who had two separate study visits within 6 months of each other.
 80-1	13428-13432	Next	_
 80-2	13433-13434	,	_
 80-3	13435-13437	we	_
@@ -2386,6 +2466,7 @@
 80-27	13564-13569	other	_
 80-28	13570-13571	.	_
 
+Text=To test the relations within each individual ’ s profile of network dynamics for the two bold runs within the same visit, and then for the individuals with more than one visit, we implemented the following analysis: First, we obtained each participant ’ s state expression across time.
 81-1	13572-13574	To	_
 81-2	13575-13579	test	_
 81-3	13580-13583	the	_
@@ -2440,6 +2521,7 @@
 81-52	13856-13860	time	_
 81-53	13861-13862	.	_
 
+Text=To accomplish this, we used a Hungarian matching algorithm, assigning each time point in a participant ’ s windowed time-course data to individual states in the desired population-level state solution.
 82-1	13863-13865	To	_
 82-2	13866-13876	accomplish	_
 82-3	13877-13881	this	_
@@ -2474,6 +2556,7 @@
 82-32	14057-14065	solution	_
 82-33	14066-14067	.	_
 
+Text=For instance, in the four-state solution, we found the best fit for each window in the participant ’ s data and classified it as state A4, B4, C4, or D4.
 83-1	14068-14071	For	_
 83-2	14072-14080	instance	_
 83-3	14081-14082	,	_
@@ -2511,6 +2594,7 @@
 83-35	14223-14225	D4	_
 83-36	14226-14227	.	_
 
+Text=This yielded a vector of states for each participant, representing the participant ’ s state expression over the course of the scan.
 84-1	14228-14232	This	_
 84-2	14233-14240	yielded	_
 84-3	14241-14242	a	_
@@ -2536,6 +2620,7 @@
 84-23	14356-14360	scan	_
 84-24	14361-14362	.	_
 
+Text=Following this, we took the average correlation matrix for each window within a state.
 85-1	14363-14372	Following	_
 85-2	14373-14377	this	_
 85-3	14378-14379	,	_
@@ -2553,6 +2638,7 @@
 85-15	14444-14449	state	_
 85-16	14450-14451	.	_
 
+Text=So, for participant 1, we collapsed across all of the state A4 windows, and generated a mean for state A4, creating a 114 × 114 × S average state matrix for each participant.
 86-1	14452-14454	So	_
 86-2	14455-14456	,	_
 86-3	14457-14460	for	_
@@ -2592,6 +2678,7 @@
 86-37	14618-14629	participant	_
 86-38	14630-14631	.	_
 
+Text=Participant matrices were vectorized, and Pearson correlations were run across every participant in two analyses for (1) bold 1 and bold 2; and every participant for (2) visit 1 and visit 2.
 87-1	14632-14643	Participant	_
 87-2	14644-14652	matrices	_
 87-3	14653-14657	were	_
@@ -2632,6 +2719,7 @@
 87-38	14826-14827	2	_
 87-39	14828-14829	.	_
 
+Text=Analyses indicated a significant level of consistency in within-individual connectivity profiles across bold runs and visits (Supplementary Figure 4).
 88-1	14830-14838	Analyses	_
 88-2	14839-14848	indicated	_
 88-3	14849-14850	a	_
@@ -2655,6 +2743,7 @@
 88-21	14980-14981	)	_
 88-22	14982-14983	.	_
 
+Text=For each state solution, we ran a t-test for within-participant rho values and between-participant rho values.
 89-1	14984-14987	For	_
 89-2	14988-14992	each	_
 89-3	14993-14998	state	_
@@ -2674,6 +2763,7 @@
 89-17	15088-15094	values	_
 89-18	15095-15096	.	_
 
+Text=All tests revealed increased rho values within, rather than between, participants (all ps ≤ 0.001).
 90-1	15097-15100	All	_
 90-2	15101-15106	tests	_
 90-3	15107-15115	revealed	_
@@ -2695,6 +2785,7 @@
 90-19	15198-15199	)	_
 90-20	15200-15201	.	_
 
+Text=Permutation tests were performed in a manner consistent with prior studies examining functional connectome fingerprinting.
 91-1	15202-15213	Permutation	_
 91-2	15214-15219	tests	_
 91-3	15220-15224	were	_
@@ -2712,6 +2803,7 @@
 91-15	15309-15323	fingerprinting	_
 91-16	15324-15325	.	_
 
+Text=For these analyses, we considered participants with multiple study visits (n = 79) and utilized the state- and participant-specific connectivity vectors described above.
 92-1	15326-15329	For	_
 92-2	15330-15335	these	_
 92-3	15336-15344	analyses	_
@@ -2740,6 +2832,7 @@
 92-26	15492-15497	above	_
 92-27	15498-15499	.	_
 
+Text=A Pearson correlation was calculated across an ordered list for every participant ’ s connectivity vector from visit 1 compared to every other participant ’ s vector from visit 2.
 93-1	15500-15501	A	_
 93-2	15502-15509	Pearson	_
 93-3	15510-15521	correlation	_
@@ -2772,6 +2865,7 @@
 93-30	15677-15678	2	_
 93-31	15679-15680	.	_
 
+Text=We first established a comparison distribution from chance.
 94-1	15681-15683	We	_
 94-2	15684-15689	first	_
 94-3	15690-15701	established	_
@@ -2782,6 +2876,7 @@
 94-8	15733-15739	chance	_
 94-9	15740-15741	.	_
 
+Text=For each state, the participant vector from visit 1 was compared to a randomly permuted list of participants from visit 2, a Pearson correlation was calculated, a matching rank was assigned, and the identification rate was calculated.
 95-1	15742-15745	For	_
 95-2	15746-15750	each	_
 95-3	15751-15756	state	_
@@ -2825,6 +2920,7 @@
 95-41	15969-15979	calculated	_
 95-42	15980-15981	.	_
 
+Text=A “ correct ” identification was defined in cases where the highest-ranked rho value was within a participant (visit 1–visit 2) relative to other participants (for ranking results, see Fig.
 96-1	15982-15983	A	_
 96-2	15984-15985	“	_
 96-3	15986-15993	correct	_
@@ -2861,6 +2957,7 @@
 96-34	16171-16174	Fig	_
 96-35	16175-16176	.	_
 
+Text=4, main text).
 97-1	16177-16178	4	_
 97-2	16179-16180	,	_
 97-3	16181-16185	main	_
@@ -2868,6 +2965,7 @@
 97-5	16191-16192	)	_
 97-6	16193-16194	.	_
 
+Text=This was repeated 1000 times, and a t-test was performed comparing the number of identifications of the actual order participants relative to the distribution of the number of identifications in the permuted order of the participant list.
 98-1	16195-16199	This	_
 98-2	16200-16203	was	_
 98-3	16204-16212	repeated	_
@@ -2908,6 +3006,7 @@
 98-38	16429-16433	list	_
 98-39	16434-16435	.	_
 
+Text=Noise constraints To assess the extent to which data quality might influence on our findings, we conducted a series of analyses aimed at detecting the differences in motion across state solutions.
 99-1	16436-16441	Noise	_
 99-2	16442-16453	constraints	_
 99-3	16454-16456	To	_
@@ -2942,6 +3041,7 @@
 99-32	16623-16632	solutions	_
 99-33	16633-16634	.	_
 
+Text=To obtain motion estimates by a participant for each window, we extracted the mean of the root mean square of relative motion for each participant across each window.
 100-1	16635-16637	To	_
 100-2	16638-16644	obtain	_
 100-3	16645-16651	motion	_
@@ -2973,6 +3073,7 @@
 100-29	16795-16801	window	_
 100-30	16802-16803	.	_
 
+Text=We used the Hungarian matched state vector to classify relative motion within each TR to a state-specific window.
 101-1	16804-16806	We	_
 101-2	16807-16811	used	_
 101-3	16812-16815	the	_
@@ -2993,6 +3094,7 @@
 101-18	16910-16916	window	_
 101-19	16917-16918	.	_
 
+Text=We averaged motion values within states for each state solution.
 102-1	16919-16921	We	_
 102-2	16922-16930	averaged	_
 102-3	16931-16937	motion	_
@@ -3005,6 +3107,7 @@
 102-10	16974-16982	solution	_
 102-11	16983-16984	.	_
 
+Text=Although the relations linking state expression and motion were limited in size (ηp2s ≤ 0.006), state A associated with the most motion for state solutions 2, 3, and 4 (all ps ≤ 0.05; Supplementary Figure 5).
 103-1	16985-16993	Although	_
 103-2	16994-16997	the	_
 103-3	16998-17007	relations	_
@@ -3051,6 +3154,7 @@
 103-44	17199-17200	)	_
 103-45	17201-17202	.	_
 
+Text=State A showed a muted increase in motion relative to other states in solutions 5 through 7 (five-state solution: ps ≤ 0.001 for state A5 relative to C5 and E5, p ≤ 0.05; p ≥ 0.59 for B5 and D5; six-state solution: ps ≤ 0.01 for state A6 relative to E6 and F6, ps ≥ 0.38 for B6, C6, and D6; seven-state solution: ps ≤ 0.001 for state A7 relative to E7 and F7; p = 0.07 for C7, p = 0.06 for G7, and p ≥ 0.61 for B7 and D7).
 104-1	17203-17208	State	_
 104-2	17209-17210	A	_
 104-3	17211-17217	showed	_
@@ -3160,6 +3264,7 @@
 104-107	17638-17639	)	_
 104-108	17640-17641	.	_
 
+Text=In state solution 8, we found that state H8, a state that our hierarchy analyses identified as architecturally related to state A in solutions 2–7, was associated with more motion than all other states (ps ≤ 0.001).
 105-1	17642-17644	In	_
 105-2	17645-17650	state	_
 105-3	17651-17659	solution	_
@@ -3204,6 +3309,7 @@
 105-42	17860-17861	)	_
 105-43	17862-17863	.	_
 
+Text=Next, we examined the consistency of state stability in participants falling within the first and fourth quartiles of the distribution for motion (low motion: n = 424; high motion: n = 398).
 106-1	17864-17868	Next	_
 106-2	17869-17870	,	_
 106-3	17871-17873	we	_
@@ -3244,6 +3350,7 @@
 106-38	18058-18059	)	_
 106-39	18060-18061	.	_
 
+Text=No group differences were identified in age, sex, or handedness (ps ≥ 0.59).
 107-1	18062-18064	No	_
 107-2	18065-18070	group	_
 107-3	18071-18082	differences	_
@@ -3263,6 +3370,7 @@
 107-17	18140-18141	)	_
 107-18	18142-18143	.	_
 
+Text=To determine the stability of our state-clustering approach, we applied iterative k-means clustering to each group for each population-level stable state solution (2, 4, 5, and 8 states).
 108-1	18144-18146	To	_
 108-2	18147-18156	determine	_
 108-3	18157-18160	the	_
@@ -3299,6 +3407,7 @@
 108-34	18335-18336	)	_
 108-35	18337-18338	.	_
 
+Text=To estimate the viability of the resulting solutions, data were resampled across sliding windows as described previously (Fig.
 109-1	18339-18341	To	_
 109-2	18342-18350	estimate	_
 109-3	18351-18354	the	_
@@ -3321,6 +3430,7 @@
 109-20	18463-18466	Fig	_
 109-21	18467-18468	.	_
 
+Text=1, main text).
 110-1	18469-18470	1	_
 110-2	18471-18472	,	_
 110-3	18473-18477	main	_
@@ -3328,6 +3438,7 @@
 110-5	18483-18484	)	_
 110-6	18485-18486	.	_
 
+Text=A t-test was performed to assess the differences in the consistency sampling from the high and low motion groups.
 111-1	18487-18488	A	_
 111-2	18489-18495	t-test	_
 111-3	18496-18499	was	_
@@ -3349,6 +3460,7 @@
 111-19	18593-18599	groups	_
 111-20	18600-18601	.	_
 
+Text=No differences in consistency were observed across groups (Supplementary Figure 6; all ps ≥ 0.43).
 112-1	18602-18604	No	_
 112-2	18605-18616	differences	_
 112-3	18617-18619	in	_
@@ -3369,6 +3481,7 @@
 112-18	18701-18702	)	_
 112-19	18703-18704	.	_
 
+Text=Prediction of active psychotic symptoms Here, we demonstrate that the strength of functional brain networks within specific brain states predicts the presence of active psychosis in previously unseen individuals.
 113-1	18705-18715	Prediction	_
 113-2	18716-18718	of	_
 113-3	18719-18725	active	_
@@ -3401,6 +3514,7 @@
 113-30	18906-18917	individuals	_
 113-31	18918-18919	.	_
 
+Text=Elastic net logistic regression analyses were conducted with custom R code (elasticnet by Hui Zou, Trevor Hastie, and Robert Tibshirani).
 114-1	18920-18927	Elastic	_
 114-2	18928-18931	net	_
 114-3	18932-18940	logistic	_
@@ -3427,6 +3541,7 @@
 114-24	19059-19060	)	_
 114-25	19061-19062	.	_
 
+Text=Elastic net regularization is a cross-validated regularized log-linear regression procedure that combines LASSO (least absolute shrinkage and selection operator) regularization and Tikhonov (ridge) regularization The resulting log-linear regression weights were applied to the edges (ROI to ROI correlations) of each network configuration within the four-state solution and the associated covariates.
 115-1	19063-19070	Elastic	_
 115-2	19071-19074	net	_
 115-3	19075-19089	regularization	_
@@ -3485,6 +3600,7 @@
 115-56	19458-19468	covariates	_
 115-57	19469-19470	.	_
 
+Text=All results were cross validated.
 116-1	19471-19474	All	_
 116-2	19475-19482	results	_
 116-3	19483-19487	were	_
@@ -3492,6 +3608,7 @@
 116-5	19494-19503	validated	_
 116-6	19504-19505	.	_
 
+Text=Model development and validation consisted of four steps.
 117-1	19506-19511	Model	_
 117-2	19512-19523	development	_
 117-3	19524-19527	and	_
@@ -3502,6 +3619,7 @@
 117-8	19557-19562	steps	_
 117-9	19563-19564	.	_
 
+Text=First, model features were selected.
 118-1	19565-19570	First	_
 118-2	19571-19572	,	_
 118-3	19573-19578	model	_
@@ -3510,6 +3628,7 @@
 118-6	19593-19601	selected	_
 118-7	19602-19603	.	_
 
+Text=Pearson correlation between each edge of the kth (e.g., k = A4, B4, C4, and D4) dynamic brain state and clinical status was performed in the training set.
 119-1	19604-19611	Pearson	_
 119-2	19612-19623	correlation	_
 119-3	19624-19631	between	_
@@ -3546,6 +3665,7 @@
 119-34	19760-19763	set	_
 119-35	19764-19765	.	_
 
+Text=Note that regarding dichotomous outcomes, a mass-univariate t-test would provide similar results as the Pearson correlation test concerning feature selection.
 120-1	19766-19770	Note	_
 120-2	19771-19775	that	_
 120-3	19776-19785	regarding	_
@@ -3569,6 +3689,7 @@
 120-21	19915-19924	selection	_
 120-22	19925-19926	.	_
 
+Text=Here, we used the Pearson correlation approach to be consistent with previous literature.
 121-1	19927-19931	Here	_
 121-2	19932-19933	,	_
 121-3	19934-19936	we	_
@@ -3585,6 +3706,7 @@
 121-14	20006-20016	literature	_
 121-15	20017-20018	.	_
 
+Text=The resulting edges were separated into positive and negative groups, and thresholded on the basis of the statistical significance (p ≤ 0.05) and signs of correlation.
 122-1	20019-20022	The	_
 122-2	20023-20032	resulting	_
 122-3	20033-20038	edges	_
@@ -3616,6 +3738,7 @@
 122-29	20177-20188	correlation	_
 122-30	20189-20190	.	_
 
+Text=Second, in the model development procedure, we first aggregated the values of edges in each feature set as a summary statistics,, or “ network strength ” of the kth brain state, for.
 123-1	20191-20197	Second	_
 123-2	20198-20199	,	_
 123-3	20200-20202	in	_
@@ -3655,6 +3778,7 @@
 123-37	20374-20377	for	_
 123-38	20378-20379	.	_
 
+Text=The network strength and covariates (e.g., sex, age) were then entered into the model, yielding a scalar value, the predicated conditional probability of active psychotic symptoms.
 124-1	20380-20383	The	_
 124-2	20384-20391	network	_
 124-3	20392-20400	strength	_
@@ -3689,6 +3813,7 @@
 124-32	20557-20565	symptoms	_
 124-33	20566-20567	.	_
 
+Text=Formally, for subject i,, we definewhere denotes the predicted probability that subject i has active psychosis, given their observed network strength during brain state k, and covariates, a vector consisting of all observed covariates for subject i. and are estimated weights for brain state k from the elastic net logistic regression, where is a vector consisting of the estimates for each covariate in.
 125-1	20568-20576	Formally	_
 125-2	20577-20578	,	_
 125-3	20579-20582	for	_
@@ -3761,6 +3886,7 @@
 125-70	20976-20978	in	_
 125-71	20979-20980	.	_
 
+Text=Alternatively, we could model the predicted probability that subject i does not have psychosis as Probability estimation was iteratively performed using leave-one-subject-out cross-validation procedure.
 126-1	20981-20994	Alternatively	_
 126-2	20995-20996	,	_
 126-3	20997-20999	we	_
@@ -3788,6 +3914,7 @@
 126-25	21174-21183	procedure	_
 126-26	21184-21185	.	_
 
+Text=During each iteration, the weights were estimated using data from (n–1, n = 91) participants and were used to predict the probability of the remaining participant having active psychotic symptoms.
 127-1	21186-21192	During	_
 127-2	21193-21197	each	_
 127-3	21198-21207	iteration	_
@@ -3824,6 +3951,7 @@
 127-34	21377-21385	symptoms	_
 127-35	21386-21387	.	_
 
+Text=Each individual was left out once; hence, the procedure yielded n-predicted probability scores.
 128-1	21388-21392	Each	_
 128-2	21393-21403	individual	_
 128-3	21404-21407	was	_
@@ -3841,6 +3969,7 @@
 128-15	21478-21484	scores	_
 128-16	21485-21486	.	_
 
+Text=To evaluate the estimation performance, we measured the area under the receiver-operating characteristic (ROC) curve (AUC), estimated directly by conducting numerical integration of the ROC under all thresholds that yielded unique sensitivity/specificity values, wherein 0.5 indicates chance, and 1 is perfect discrimination.
 129-1	21487-21489	To	_
 129-2	21490-21498	evaluate	_
 129-3	21499-21502	the	_
@@ -3893,6 +4022,7 @@
 129-50	21805-21819	discrimination	_
 129-51	21820-21821	.	_
 
+Text=The model development and parameter estimation were conducted only using the training data.
 130-1	21822-21825	The	_
 130-2	21826-21831	model	_
 130-3	21832-21843	development	_
@@ -3908,6 +4038,7 @@
 130-13	21908-21912	data	_
 130-14	21913-21914	.	_
 
+Text=To evaluate the reproducibility, we applied the model obtained from the training data, without further fitting or modification, to 39 previously unseen participants.
 131-1	21915-21917	To	_
 131-2	21918-21926	evaluate	_
 131-3	21927-21930	the	_
@@ -3936,6 +4067,7 @@
 131-26	22070-22082	participants	_
 131-27	22083-22084	.	_
 
+Text=To access the specificity of the model in detecting positive symptoms, we examined the positive, negative, and general psychopathology subscales of the PANSS in the held-out sample.
 132-1	22085-22087	To	_
 132-2	22088-22094	access	_
 132-3	22095-22098	the	_
@@ -3968,6 +4100,7 @@
 132-30	22262-22268	sample	_
 132-31	22269-22270	.	_
 
+Text=PANSS scores were binarized as low (less than one standard deviation below the mean) or high (greater than one standard deviation below the mean) for each subscale (positive scale: 18.46 ± 6.51, cutoff = 11.95; negative scale: 13.48 ± 7.47, cutoff = 6.01; general psychopathology scale: 30.82 ± 7.95, cutoff = 22.86).
 133-1	22271-22276	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 133-2	22277-22283	scores	_
 133-3	22284-22288	were	_
@@ -4036,6 +4169,7 @@
 133-66	22600-22601	)	_
 133-67	22602-22603	.	_
 
+Text=Due to the large variance in PANSS negative scores, to thoroughly explore potential relations with this subscale, we additionally examined alternative thresholds of <15 and of <12 selecting the optimal result (<12) for comparison with the PANSS positive scale.
 134-1	22604-22607	Due	_
 134-2	22608-22610	to	_
 134-3	22611-22614	the	_
@@ -4084,6 +4218,7 @@
 134-46	22865-22870	scale	_
 134-47	22871-22872	.	_
 
+Text=To assess the statistical significance of the sensitivity and specificity analyses, we performed nonparametric permutation testing.
 135-1	22873-22875	To	_
 135-2	22876-22882	assess	_
 135-3	22883-22886	the	_
@@ -4103,6 +4238,7 @@
 135-17	22997-23004	testing	_
 135-18	23005-23006	.	_
 
+Text=During each test, we first randomly permuted the active psychotic symptoms status or PANSS labels.
 136-1	23007-23013	During	_
 136-2	23014-23018	each	_
 136-3	23019-23023	test	_
@@ -4121,6 +4257,7 @@
 136-16	23099-23105	labels	_
 136-17	23106-23107	.	_
 
+Text=Next, model fitting was carried out using the correct dynamic signatures and covariates and permuted (incorrect) labels.
 137-1	23108-23112	Next	_
 137-2	23113-23114	,	_
 137-3	23115-23120	model	_
@@ -4143,6 +4280,7 @@
 137-20	23224-23230	labels	_
 137-21	23231-23232	.	_
 
+Text=For each permutation, an AUC value was calculated.
 138-1	23233-23236	For	_
 138-2	23237-23241	each	_
 138-3	23242-23253	permutation	_
@@ -4154,6 +4292,7 @@
 138-9	23273-23283	calculated	_
 138-10	23284-23285	.	_
 
+Text=The permutation tests were performed 5000 times for the training and testing data, respectively.
 139-1	23286-23289	The	_
 139-2	23290-23301	permutation	_
 139-3	23302-23307	tests	_
@@ -4171,6 +4310,7 @@
 139-15	23370-23382	respectively	_
 139-16	23383-23384	.	_
 
+Text=The null AUC values should be symmetrically distributed around 0.5 if the procedure is unbiased.
 140-1	23385-23388	The	_
 140-2	23389-23393	null	_
 140-3	23394-23397	AUC	_
@@ -4188,6 +4328,7 @@
 140-15	23472-23480	unbiased	_
 140-16	23481-23482	.	_
 
+Text=Data availability The data summary statistics that support the findings of this study are available from the corresponding author on request.
 141-1	23483-23487	Data	_
 141-2	23488-23500	availability	_
 141-3	23501-23504	The	_
@@ -4211,6 +4352,7 @@
 141-21	23616-23623	request	_
 141-22	23624-23625	.	_
 
+Text=As detailed in Holmes et al., the Brain Genomics Superstruct Project (GSP) initial release data set of structural, functional, and behavioral measures is available for download (http: //neuroinformatics.harvard.edu/gsp/).
 142-1	23626-23628	As	_
 142-2	23629-23637	detailed	_
 142-3	23638-23640	in	_
@@ -4249,6 +4391,7 @@
 142-36	23853-23854	)	_
 142-37	23855-23856	.	_
 
+Text=Step-by-step instructions detailing how to access the release data set are available online in the “ Request Access ” page (http: //neuroinformatics.harvard.edu/gsp/get).
 143-1	23857-23869	Step-by-step	_
 143-2	23870-23882	instructions	_
 143-3	23883-23892	detailing	_
@@ -4276,6 +4419,7 @@
 143-25	24028-24029	)	_
 143-26	24030-24031	.	_
 
+Text=The patient data are not publicly available due to information that could compromise research participant privacy/consent.
 144-1	24032-24035	The	_
 144-2	24036-24043	patient	_
 144-3	24044-24048	data	_

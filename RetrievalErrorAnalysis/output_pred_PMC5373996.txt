@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Nicotinic modulation of salience network connectivity and centrality in schizophrenia Although functional abnormalities of the salience network are associated with schizophrenia, the acute effects of nicotine on its function and network dynamics during the resting state in patients are poorly understood.
 1-1	0-9	Nicotinic	_
 1-2	10-20	modulation	_
 1-3	21-23	of	_
@@ -46,6 +47,7 @@
 1-42	295-305	understood	_
 1-43	306-307	.	_
 
+Text=In this study, the effects of a 7 mg nicotine patch (vs. placebo) on salience network connectivity were examined in 17 patients with schizophrenia and 19 healthy subjects.
 2-1	308-310	In	_
 2-2	311-315	this	_
 2-3	316-321	study	_
@@ -79,6 +81,7 @@
 2-31	473-481	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 2-32	482-483	.	_
 
+Text=We hypothesized abnormal connectivity between the salience network and other major networks (e.g.
 3-1	484-486	We	_
 3-2	487-499	hypothesized	_
 3-3	500-508	abnormal	_
@@ -95,6 +98,7 @@
 3-14	578-581	e.g	_
 3-15	582-583	.	_
 
+Text=executive network) in patients under placebo administration and amelioration of this difference after nicotine.
 4-1	584-593	executive	_
 4-2	594-601	network	_
 4-3	602-603	)	_
@@ -112,6 +116,7 @@
 4-15	687-695	nicotine	_
 4-16	696-697	.	_
 
+Text=We also examined effects of nicotine on betweenness centrality (a measure of the influence of a region on information transfer throughout the brain) and local efficiency (a measure of local information transfer) of the network.
 5-1	698-700	We	_
 5-2	701-705	also	_
 5-3	706-714	examined	_
@@ -153,6 +158,7 @@
 5-39	921-928	network	_
 5-40	929-930	.	_
 
+Text=A hybrid independent component analysis (ICA) / seed-based connectivity approach was implemented in which the salience network was extracted by ICA and cortical network peaks (anterior cingulate cortex (ACC), left and right insula) were used as seeds for whole-brain seed-to-voxel connectivity analysis.
 6-1	931-932	A	_
 6-2	933-939	hybrid	_
 6-3	940-951	independent	_
@@ -204,6 +210,7 @@
 6-49	1232-1240	analysis	_
 6-50	1241-1242	.	_
 
+Text=Significant drug X diagnosis interactions were observed between the ACC seed and superior parietal lobule and ventrolateral prefrontal cortex.
 7-1	1243-1254	Significant	_
 7-2	1255-1259	drug	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
 7-3	1260-1261	X	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
@@ -225,6 +232,7 @@
 7-19	1378-1384	cortex	_
 7-20	1385-1386	.	_
 
+Text=A significant interaction effect was also observed between the left insula seed and middle cingulate cortex.
 8-1	1387-1388	A	_
 8-2	1389-1400	significant	_
 8-3	1401-1412	interaction	_
@@ -243,6 +251,7 @@
 8-16	1488-1494	cortex	_
 8-17	1495-1496	.	_
 
+Text=During placebo conditions, abnormal connectivity predicted negative symptom severity and lower global functioning in patients.
 9-1	1497-1503	During	_
 9-2	1504-1511	placebo	_
 9-3	1512-1522	conditions	_
@@ -261,6 +270,7 @@
 9-16	1615-1623	patients	_
 9-17	1624-1625	.	_
 
+Text=A significant drug X diagnosis interaction was also observed for betweenness centrality of the ACC.
 10-1	1626-1627	A	_
 10-2	1628-1639	significant	_
 10-3	1640-1644	drug	http://maven.renci.org/NeuroBridge/neurobridge#DualEnergyXRayAbsorptiometry
@@ -278,6 +288,7 @@
 10-15	1721-1724	ACC	_
 10-16	1725-1726	.	_
 
+Text=These results suggest that nicotine may target abnormalities in functional connectivity between salience and executive network areas in schizophrenia as well as affect the ability of the salience network to act as an integrator of global signaling in the disorder.
 11-1	1727-1732	These	_
 11-2	1733-1740	results	_
 11-3	1741-1748	suggest	_
@@ -320,6 +331,7 @@
 11-40	1982-1990	disorder	_
 11-41	1991-1992	.	_
 
+Text=Materials and Methods Subjects 36 subjects participated in this study — 17 stable outpatients who had a primary diagnosis of schizophrenia and 19 healthy comparison subjects.
 12-1	1993-2002	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	2003-2006	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	2007-2014	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -348,6 +360,7 @@
 12-26	2158-2166	subjects	_
 12-27	2167-2168	.	_
 
+Text=Demographic and clinical (Brief Psychiatric Rating Scale (BPRS, 24 point), Scale for the Assessment of Negative Symptoms (SANS, 4 factor), and Global Assessment of Function (GAF)) information for participants was assessed by interview and is shown in Table 1.
 13-1	2169-2180	Demographic	_
 13-2	2181-2184	and	_
 13-3	2185-2193	clinical	_
@@ -401,6 +414,7 @@
 13-51	2438-2439	1	_
 13-52	2440-2441	.	_
 
+Text=No significant group differences in age or gender were observed.
 14-1	2442-2444	No	_
 14-2	2445-2456	significant	_
 14-3	2457-2462	group	_
@@ -413,6 +427,7 @@
 14-10	2497-2505	observed	_
 14-11	2506-2507	.	_
 
+Text=No subjects were taking smoking cessation medication (e.g.
 15-1	2508-2510	No	_
 15-2	2511-2519	subjects	_
 15-3	2520-2524	were	_
@@ -424,6 +439,7 @@
 15-9	2563-2566	e.g	_
 15-10	2567-2568	.	_
 
+Text=varenicline) at the time of the study.
 16-1	2569-2580	varenicline	_
 16-2	2581-2582	)	_
 16-3	2583-2585	at	_
@@ -434,6 +450,7 @@
 16-8	2602-2607	study	_
 16-9	2608-2609	.	_
 
+Text=Controls were recruited by advertisement.
 17-1	2610-2618	Controls	_
 17-2	2619-2623	were	_
 17-3	2624-2633	recruited	_
@@ -441,6 +458,7 @@
 17-5	2637-2650	advertisement	_
 17-6	2651-2652	.	_
 
+Text=Patients were recruited by referral from a University of Colorado psychiatrist.
 18-1	2653-2661	Patients	_
 18-2	2662-2666	were	_
 18-3	2667-2676	recruited	_
@@ -454,6 +472,7 @@
 18-11	2719-2731	psychiatrist	_
 18-12	2732-2733	.	_
 
+Text=Patients were excluded for a diagnosis of neurological illness, head trauma, current smoking (<3 months from last cigarette) or substance abuse, failure to pass a physical examination, and magnetic resonance imaging (MRI) exclusion criteria (claustrophobia, weight> 250 pounds, metal in the body).
 19-1	2734-2742	Patients	_
 19-2	2743-2747	were	_
 19-3	2748-2756	excluded	_
@@ -512,6 +531,7 @@
 19-56	3043-3044	)	_
 19-57	3045-3046	.	_
 
+Text=Control subjects were excluded for all of the above as well as a diagnosis of Axis I mental illness or first-degree family history of Axis I mental illness.
 20-1	3047-3054	Control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 20-2	3055-3063	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 20-3	3064-3068	were	_
@@ -542,6 +562,7 @@
 20-28	3195-3202	illness	_
 20-29	3203-3204	.	_
 
+Text=No significant difference between groups in the ratio of never smokers to former smokers was observed.
 21-1	3205-3207	No	_
 21-2	3208-3219	significant	_
 21-3	3220-3230	difference	_
@@ -560,6 +581,7 @@
 21-16	3298-3306	observed	_
 21-17	3307-3308	.	_
 
+Text=Importantly, increased nicotinic receptor expression levels (tied to smoking) have been shown to normalize by 6 weeks in former smokers.
 22-1	3309-3320	Importantly	_
 22-2	3321-3322	,	_
 22-3	3323-3332	increased	_
@@ -585,6 +607,7 @@
 22-23	3440-3447	smokers	_
 22-24	3448-3449	.	_
 
+Text=Patients were antipsychotic medication stable (> 3 months with no change in medication; see Supplementary Table 1 for a listing of antipsychotic medication (s) taken by patients at the time of the study).
 23-1	3450-3458	Patients	_
 23-2	3459-3463	were	_
 23-3	3464-3477	antipsychotic	_
@@ -625,6 +648,7 @@
 23-38	3657-3658	)	_
 23-39	3659-3660	.	_
 
+Text=All subjects were required to pass a nicotine tolerance test, in which the nicotine dose used for the experiment (7 mg) was administered> 3 days prior to the first fMRI scan.
 24-1	3661-3664	All	_
 24-2	3665-3673	subjects	_
 24-3	3674-3678	were	_
@@ -662,6 +686,7 @@
 24-35	3834-3838	scan	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 24-36	3839-3840	.	_
 
+Text=Criteria for passing the tolerance test were 1) less than a 20% change in heart rate or blood pressure (BP) for up to 90 minutes post patch-application, 2) no side effects other than mild/minor nausea, headache, lightheadness, clouded thinking, anxiety, or mouth tingling.
 25-1	3841-3849	Criteria	_
 25-2	3850-3853	for	_
 25-3	3854-3861	passing	_
@@ -718,6 +743,7 @@
 25-54	4115-4123	tingling	_
 25-55	4124-4125	.	_
 
+Text=Study Design and Drug Administration This was a single-blind, randomized, placebo-controlled, crossover study.
 26-1	4126-4131	Study	_
 26-2	4132-4138	Design	_
 26-3	4139-4142	and	_
@@ -736,6 +762,7 @@
 26-16	4233-4238	study	_
 26-17	4239-4240	.	_
 
+Text=On each of two study visits, subjects were administered either a 7 mg nicotine patch (NicoDerm CQ, GlaxoSmithKline, Middlesex, UK) or placebo patch (made in-house).
 27-1	4241-4243	On	_
 27-2	4244-4248	each	_
 27-3	4249-4251	of	_
@@ -771,6 +798,7 @@
 27-33	4411-4412	)	_
 27-34	4413-4414	.	_
 
+Text=The order of study visits (placebo-nicotine or nicotine-placebo) was counterbalanced across subjects.
 28-1	4415-4418	The	_
 28-2	4419-4424	order	_
 28-3	4425-4427	of	_
@@ -787,6 +815,7 @@
 28-14	4509-4517	subjects	_
 28-15	4518-4519	.	_
 
+Text=Visits were scheduled more than 3 days apart.
 29-1	4520-4526	Visits	_
 29-2	4527-4531	were	_
 29-3	4532-4541	scheduled	_
@@ -797,6 +826,7 @@
 29-8	4559-4564	apart	_
 29-9	4565-4566	.	_
 
+Text=The placebo and nicotine patches were tactilely identical, and the placebo patch was affixed to the skin in the same manner as the nicotine patch.
 30-1	4567-4570	The	_
 30-2	4571-4578	placebo	_
 30-3	4579-4582	and	_
@@ -825,6 +855,7 @@
 30-26	4708-4713	patch	_
 30-27	4714-4715	.	_
 
+Text=Subjects were asked to refrain from examining either patch, however, during or after application as the placebo and drug patches (although visually similar) were not visually identical.
 31-1	4716-4724	Subjects	_
 31-2	4725-4729	were	_
 31-3	4730-4735	asked	_
@@ -858,6 +889,7 @@
 31-31	4895-4904	identical	_
 31-32	4905-4906	.	_
 
+Text=Participants ’ clothing (sleeves) also covered the patches such that they could not be readily observed after affixation.
 32-1	4907-4919	Participants	_
 32-2	4920-4921	’	_
 32-3	4922-4930	clothing	_
@@ -880,6 +912,7 @@
 32-20	5019-5029	affixation	_
 32-21	5030-5031	.	_
 
+Text=Patches remained affixed from application to the end of the scan.
 33-1	5032-5039	Patches	_
 33-2	5040-5048	remained	_
 33-3	5049-5056	affixed	_
@@ -893,6 +926,7 @@
 33-11	5092-5096	scan	_
 33-12	5097-5098	.	_
 
+Text=Resting-state scans were performed approximately 120 minutes after patch application.
 34-1	5099-5112	Resting-state	_
 34-2	5113-5118	scans	_
 34-3	5119-5123	were	_
@@ -905,6 +939,7 @@
 34-10	5172-5183	application	_
 34-11	5184-5185	.	_
 
+Text=The latent period for this study and our previously published attention studies was used such that the scans are anticipated to occur during a time window corresponding to the peak plasma concentration of nicotine.
 35-1	5186-5189	The	_
 35-2	5190-5196	latent	_
 35-3	5197-5203	period	_
@@ -941,6 +976,7 @@
 35-34	5391-5399	nicotine	_
 35-35	5400-5401	.	_
 
+Text=Total scan time (including high order shimming, T1 scan, and attention and listening tasks preceding the resting state scan) was 60 minutes.
 36-1	5402-5407	Total	_
 36-2	5408-5412	scan	_
 36-3	5413-5417	time	_
@@ -969,6 +1005,7 @@
 36-26	5538-5545	minutes	_
 36-27	5546-5547	.	_
 
+Text=Based on previous work, the nicotine concentration during this period is expected to be approximately 4.5 ng/ml.
 37-1	5548-5553	Based	_
 37-2	5554-5556	on	_
 37-3	5557-5565	previous	_
@@ -989,6 +1026,7 @@
 37-18	5655-5660	ng/ml	_
 37-19	5661-5662	.	_
 
+Text=Physiological effects (heart rate (HR) and blood pressure (BP)) were monitored immediately prior to 1) patch application and 2) entering the MR scanner.
 38-1	5663-5676	Physiological	_
 38-2	5677-5684	effects	_
 38-3	5685-5686	(	_
@@ -1022,6 +1060,7 @@
 38-31	5815-5822	scanner	_
 38-32	5823-5824	.	_
 
+Text=Physiological effects were analyzed using a mixed-effects model analysis of variance (ANOVA) in SPSS v. 22 (IBM Corp., Armonk, NY, USA), with time (pretreatment vs. posttreatment) and drug (placebo vs. nicotine) as within-subjects factors and diagnosis (control vs. patient) as a between-subjects factor.
 39-1	5825-5838	Physiological	_
 39-2	5839-5846	effects	_
 39-3	5847-5851	were	_
@@ -1081,6 +1120,7 @@
 39-57	6136-6142	factor	_
 39-58	6143-6144	.	_
 
+Text=fMRI Acquisition Resting state functional images were acquired on a 3T MR scanner (General Electric, Milwaukee, WI, USA) using a standard quadrature head coil.
 40-1	6145-6149	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 40-2	6150-6161	Acquisition	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 40-3	6162-6169	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1112,6 +1152,7 @@
 40-29	6304-6308	coil	_
 40-30	6309-6310	.	_
 
+Text=An inversion-recovery echoplanar image (IR-EPI; TI = 505 ms) was collected to improve coregistration of functional images.
 41-1	6311-6313	An	_
 41-2	6314-6332	inversion-recovery	_
 41-3	6333-6343	echoplanar	_
@@ -1134,6 +1175,7 @@
 41-20	6429-6435	images	_
 41-21	6436-6437	.	_
 
+Text=Images were acquired with the following parameters: scan time 10 minutes, TR = 2000 ms, TE = 26 ms, FOV = 220 mm2, 642 matrix, 27 slices, 2.6 mm thick, 1.4 mm gap, interleaved, flip angle 70°, 300 volumes.
 42-1	6438-6444	Images	_
 42-2	6445-6449	were	_
 42-3	6450-6458	acquired	_
@@ -1186,6 +1228,7 @@
 42-50	6646-6653	volumes	_
 42-51	6654-6655	.	_
 
+Text=Subjects were instructed to rest with eyes closed, to not fall asleep, and to “ not think about anything in particular. ” Although having subjects rest with eyes closed potentially induces variable levels of drowsiness during the scan, previous work suggests that only auditory network connectivity is affected by having subjects rest with eyes closed vs. eyes open.
 43-1	6656-6664	Subjects	_
 43-2	6665-6669	were	_
 43-3	6670-6680	instructed	_
@@ -1249,6 +1292,7 @@
 43-61	7020-7024	open	_
 43-62	7025-7026	.	_
 
+Text=fMRI Preprocessing – Realignment, Coregistration and Smoothing fMRI data realignment, coregistration and smoothing were performed using SPM8 (Wellcome Dept.
 44-1	7027-7031	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 44-2	7032-7045	Preprocessing	_
 44-3	7046-7047	–	_
@@ -1273,6 +1317,7 @@
 44-22	7181-7185	Dept	_
 44-23	7186-7187	.	_
 
+Text=of Imaging Neuroscience, London) in Matlab 2012a (MathWorks, Natick, MA, USA).
 45-1	7188-7190	of	_
 45-2	7191-7198	Imaging	_
 45-3	7199-7211	Neuroscience	_
@@ -1293,6 +1338,7 @@
 45-18	7271-7272	)	_
 45-19	7273-7274	.	_
 
+Text=The first four images were excluded for saturation effects.
 46-1	7275-7278	The	_
 46-2	7279-7284	first	_
 46-3	7285-7289	four	_
@@ -1304,6 +1350,7 @@
 46-9	7326-7333	effects	_
 46-10	7334-7335	.	_
 
+Text=Data from each subject were realigned to the first volume and normalized to the Montreal Neurological Institute template using the IR-EPI as an intermediate to improve coregistration between images.
 47-1	7336-7340	Data	_
 47-2	7341-7345	from	_
 47-3	7346-7350	each	_
@@ -1335,6 +1382,7 @@
 47-29	7527-7533	images	_
 47-30	7534-7535	.	_
 
+Text=During spatial normalization, data were resliced to a 3 mm3 voxel size.
 48-1	7536-7542	During	_
 48-2	7543-7550	spatial	_
 48-3	7551-7564	normalization	_
@@ -1350,6 +1398,7 @@
 48-13	7603-7607	size	_
 48-14	7608-7609	.	_
 
+Text=Finally, data were smoothed with an 8 mm full width half maximum (FWHM) Gaussian kernel.
 49-1	7610-7617	Finally	_
 49-2	7618-7619	,	_
 49-3	7620-7624	data	_
@@ -1370,6 +1419,7 @@
 49-18	7694-7700	kernel	_
 49-19	7701-7702	.	_
 
+Text=Functional Connectivity Analysis A hybrid ICA / seed-based connectivity approach was utilized.
 50-1	7703-7713	Functional	_
 50-2	7714-7726	Connectivity	_
 50-3	7727-7735	Analysis	_
@@ -1384,6 +1434,7 @@
 50-12	7788-7796	utilized	_
 50-13	7797-7798	.	_
 
+Text=This methodology first uses ICA to extract group level networks of interest (in this study, the salience network).
 51-1	7799-7803	This	_
 51-2	7804-7815	methodology	_
 51-3	7816-7821	first	_
@@ -1407,6 +1458,7 @@
 51-21	7914-7915	)	_
 51-22	7916-7917	.	_
 
+Text=Focal signal peaks from that network are then used as seeds in a whole-brain seed-to-voxel connectivity analysis.
 52-1	7918-7923	Focal	_
 52-2	7924-7930	signal	_
 52-3	7931-7936	peaks	_
@@ -1426,6 +1478,7 @@
 52-17	8022-8030	analysis	_
 52-18	8031-8032	.	_
 
+Text=This approach provides a data-driven, unbiased estimate of connectivity between specific regions within the salience network and the rest of the brain, as it does not require prespecification of anatomically-based seeds of unknown reliability and validity.
 53-1	8033-8037	This	_
 53-2	8038-8046	approach	_
 53-3	8047-8055	provides	_
@@ -1466,6 +1519,7 @@
 53-38	8282-8290	validity	_
 53-39	8291-8292	.	_
 
+Text=Importantly, no statistical analysis was performed on ICA results to avoid potentially performing circular analyses (i.e.
 54-1	8293-8304	Importantly	_
 54-2	8305-8306	,	_
 54-3	8307-8309	no	_
@@ -1486,6 +1540,7 @@
 54-18	8412-8415	i.e	_
 54-19	8416-8417	.	_
 
+Text=“ double dipping ”).
 55-1	8418-8419	“	_
 55-2	8420-8426	double	_
 55-3	8427-8434	dipping	_
@@ -1493,6 +1548,7 @@
 55-5	8437-8438	)	_
 55-6	8439-8440	.	_
 
+Text=Details of each step of the hybrid procedure will be discussed in the proceeding sections.
 56-1	8441-8448	Details	_
 56-2	8449-8451	of	_
 56-3	8452-8456	each	_
@@ -1510,6 +1566,7 @@
 56-15	8522-8530	sections	_
 56-16	8531-8532	.	_
 
+Text=Preprocessing Preprocessing for connectivity analysis was conducted using in-house Matlab 2012a scripts according to suggested guidelines.
 57-1	8533-8546	Preprocessing	_
 57-2	8547-8560	Preprocessing	_
 57-3	8561-8564	for	_
@@ -1528,6 +1585,7 @@
 57-16	8660-8670	guidelines	_
 57-17	8671-8672	.	_
 
+Text=White matter and CSF signals were included as covariates of no interest (confounders).
 58-1	8673-8678	White	_
 58-2	8679-8685	matter	_
 58-3	8686-8689	and	_
@@ -1545,6 +1603,7 @@
 58-15	8759-8760	)	_
 58-16	8761-8762	.	_
 
+Text=BOLD response associated with the main effect of drug was also removed in order to obtain an estimate of connectivity independent of activation.
 59-1	8763-8767	BOLD	_
 59-2	8768-8776	response	_
 59-3	8777-8787	associated	_
@@ -1570,6 +1629,7 @@
 59-23	8896-8906	activation	_
 59-24	8907-8908	.	_
 
+Text=Mean overall gray matter signal was not included as a confounder as doing so shifted the whole-brain connectivity distribution towards predominantly negative values.
 60-1	8909-8913	Mean	_
 60-2	8914-8921	overall	_
 60-3	8922-8926	gray	_
@@ -1595,6 +1655,7 @@
 60-23	9067-9073	values	_
 60-24	9074-9075	.	_
 
+Text=The data were linearly detrended and a 0.01 to 0.1 Hz bandpass filter applied to remove low-frequency drifts and physiological high-frequency noise.
 61-1	9076-9079	The	_
 61-2	9080-9084	data	_
 61-3	9085-9089	were	_
@@ -1619,6 +1680,7 @@
 61-22	9218-9223	noise	_
 61-23	9224-9225	.	_
 
+Text=Subject motion has been shown to affect functional connectivity.
 62-1	9226-9233	Subject	_
 62-2	9234-9240	motion	_
 62-3	9241-9244	has	_
@@ -1630,6 +1692,7 @@
 62-9	9277-9289	connectivity	_
 62-10	9290-9291	.	_
 
+Text=To mitigate these effects, rigid-body motion parameters (left/right (x translation), forward/back (y translation), up/down (z translation), pitch (lateral rotation parameter), yaw (perpendicular rotation parameter) and roll (longitudinal rotation parameter)) were first included as covariates of no interest (average values presented in Supplementary Table 2).
 63-1	9292-9294	To	_
 63-2	9295-9303	mitigate	_
 63-3	9304-9309	these	_
@@ -1697,6 +1760,7 @@
 63-65	9671-9672	)	_
 63-66	9673-9674	.	_
 
+Text=Censoring was then performed in which adjacent volumes that showed scan-to-scan differences of> 0.5 mm (translational displacement),> 0.2 rad (rotational displacement), or> 9 (global signal z-value) were removed before analysis.
 64-1	9675-9684	Censoring	_
 64-2	9685-9688	was	_
 64-3	9689-9693	then	_
@@ -1740,6 +1804,7 @@
 64-41	9905-9913	analysis	_
 64-42	9914-9915	.	_
 
+Text=Significant main effects or interaction effects were observed for several movement parameters as well as variance of global signal, resulting in differences in the number of frames scrubbed between groups (Supplementary Table 2).
 65-1	9916-9927	Significant	_
 65-2	9928-9932	main	_
 65-3	9933-9940	effects	_
@@ -1778,6 +1843,7 @@
 65-36	10146-10147	)	_
 65-37	10148-10149	.	_
 
+Text=All subjects, however, still had <50% of frames removed after censoring, and the mean number of frames scrubbed per group was low for all groups (<5%).
 66-1	10150-10153	All	_
 66-2	10154-10162	subjects	_
 66-3	10163-10164	,	_
@@ -1815,6 +1881,7 @@
 66-35	10308-10309	)	_
 66-36	10310-10311	.	_
 
+Text=Censoring was performed using the ART toolbox (www.nitrc.org/projects/artifact_detect).
 67-1	10312-10321	Censoring	_
 67-2	10322-10325	was	_
 67-3	10326-10335	performed	_
@@ -1827,6 +1894,7 @@
 67-10	10399-10400	)	_
 67-11	10401-10402	.	_
 
+Text=ICA Group spatial ICA was performed using the GIFT software v1.3g (icatb.sourceforge.net).
 68-1	10403-10406	ICA	_
 68-2	10407-10412	Group	_
 68-3	10413-10420	spatial	_
@@ -1843,6 +1911,7 @@
 68-14	10493-10494	)	_
 68-15	10495-10496	.	_
 
+Text=A single group ICA was performed across all subjects (controls and patients) and treatment conditions (placebo and nicotine).
 69-1	10497-10498	A	_
 69-2	10499-10505	single	_
 69-3	10506-10511	group	_
@@ -1867,6 +1936,7 @@
 69-22	10624-10625	)	_
 69-23	10626-10627	.	_
 
+Text=ICA parameters have been described previously.
 70-1	10628-10631	ICA	_
 70-2	10632-10642	parameters	_
 70-3	10643-10647	have	_
@@ -1875,6 +1945,7 @@
 70-6	10663-10673	previously	_
 70-7	10674-10675	.	_
 
+Text=Briefly, data were intensity-normalized, their dimensionality reduced using principle component analysis, and twenty independent sources estimated using the Infomax algorithm.
 71-1	10676-10683	Briefly	_
 71-2	10684-10685	,	_
 71-3	10686-10690	data	_
@@ -1900,6 +1971,7 @@
 71-23	10844-10853	algorithm	_
 71-24	10854-10855	.	_
 
+Text=The component containing the salience network was identified by selecting the component with the highest spatial correlation with an anterior salience network mask.
 72-1	10856-10859	The	_
 72-2	10860-10869	component	_
 72-3	10870-10880	containing	_
@@ -1925,6 +1997,7 @@
 72-23	11015-11019	mask	_
 72-24	11020-11021	.	_
 
+Text=Consistent with previous ICA findings, the extracted network included the left and right anterior insula as well as the ACC (Fig.
 73-1	11022-11032	Consistent	_
 73-2	11033-11037	with	_
 73-3	11038-11046	previous	_
@@ -1950,12 +2023,14 @@
 73-23	11149-11152	Fig	_
 73-24	11153-11154	.	_
 
+Text=2, top).
 74-1	11155-11156	2	_
 74-2	11157-11158	,	_
 74-3	11159-11162	top	_
 74-4	11163-11164	)	_
 74-5	11165-11166	.	_
 
+Text=The extracted peak coordinates were {x, y, z} = {−42, 20, 5} (left insula), {39, 26, −8} (right insula), {−3, 17, 58} (dorsal ACC).
 75-1	11167-11170	The	_
 75-2	11171-11180	extracted	_
 75-3	11181-11185	peak	_
@@ -2006,6 +2081,7 @@
 75-48	11320-11321	)	_
 75-49	11322-11323	.	_
 
+Text=These seed regions are spatially similar to salience network nodes recently identified during a risky decision-making task.
 76-1	11324-11329	These	_
 76-2	11330-11334	seed	_
 76-3	11335-11342	regions	_
@@ -2025,6 +2101,7 @@
 76-17	11442-11446	task	_
 76-18	11447-11448	.	_
 
+Text=Consequently, 5 mm radius spherical ROIs were centered on these peaks and used as seeds for whole brain seed-to-voxel connectivity analysis (Fig.
 77-1	11449-11461	Consequently	_
 77-2	11462-11463	,	_
 77-3	11464-11465	5	_
@@ -2051,12 +2128,14 @@
 77-24	11592-11595	Fig	_
 77-25	11596-11597	.	_
 
+Text=2, bottom).
 78-1	11598-11599	2	_
 78-2	11600-11601	,	_
 78-3	11602-11608	bottom	_
 78-4	11609-11610	)	_
 78-5	11611-11612	.	_
 
+Text=Whole Brain Seed-to-Voxel Connectivity Analysis Seed-based connectivity analysis was performed using the Conn v.15 toolbox (www.nitrc.org/projects/conn).
 79-1	11613-11618	Whole	_
 79-2	11619-11624	Brain	_
 79-3	11625-11638	Seed-to-Voxel	_
@@ -2077,6 +2156,7 @@
 79-18	11766-11767	)	_
 79-19	11768-11769	.	_
 
+Text=Second-level random effects mixed-model ANOVA analyses were performed to examine connectivity differences between groups.
 80-1	11770-11782	Second-level	_
 80-2	11783-11789	random	_
 80-3	11790-11797	effects	_
@@ -2093,6 +2173,7 @@
 80-14	11884-11890	groups	_
 80-15	11891-11892	.	_
 
+Text=For these analyses, treatment condition (placebo vs. nicotine) was entered as a within-subjects factor and diagnosis (control vs. patient) was entered as a between-subjects factor.
 81-1	11893-11896	For	_
 81-2	11897-11902	these	_
 81-3	11903-11911	analyses	_
@@ -2125,6 +2206,7 @@
 81-30	12071-12077	factor	_
 81-31	12078-12079	.	_
 
+Text=The primary contrasts of interest were the directional interaction contrast (Patient Nicotine> Patient Placebo)> (Control Nicotine> Control Placebo) (i.e.
 82-1	12080-12083	The	_
 82-2	12084-12091	primary	_
 82-3	12092-12101	contrasts	_
@@ -2154,6 +2236,7 @@
 82-27	12238-12241	i.e	_
 82-28	12242-12243	.	_
 
+Text=increased connectivity during nicotine administration (vs. placebo) in patients vs. control) and the opposite interaction contrast (Patient Placebo> Patient Nicotine)> (Control Placebo> Control Nicotine) (i.e.
 83-1	12244-12253	increased	_
 83-2	12254-12266	connectivity	_
 83-3	12267-12273	during	_
@@ -2192,6 +2275,7 @@
 83-36	12460-12463	i.e	_
 83-37	12464-12465	.	_
 
+Text=decreased connectivity during nicotine administration (vs. placebo) in patients vs. control).
 84-1	12466-12475	decreased	_
 84-2	12476-12488	connectivity	_
 84-3	12489-12495	during	_
@@ -2208,6 +2292,7 @@
 84-14	12560-12561	)	_
 84-15	12562-12563	.	_
 
+Text=Second-level connectivity maps were thresholded at p <0.01 (voxelwise), q <0.01 (cluster false discovery rate-corrected voxels) in SPM8.
 85-1	12564-12576	Second-level	_
 85-2	12577-12589	connectivity	_
 85-3	12590-12594	maps	_
@@ -2235,6 +2320,7 @@
 85-25	12702-12706	SPM8	_
 85-26	12707-12708	.	_
 
+Text=To fully characterize interaction effects, significant interactions were followed up by post-hoc tests of simple main effects using the mean connectivity between the seed and each significant cluster, as described previously.
 86-1	12709-12711	To	_
 86-2	12712-12717	fully	_
 86-3	12718-12730	characterize	_
@@ -2270,6 +2356,7 @@
 86-33	12925-12935	previously	_
 86-34	12936-12937	.	_
 
+Text=Topological Analysis Betweenness centrality and local efficiency are analyzed in a topological framework, in which the brain is parcellated into anatomically defined regions, or “ nodes ”, and metrics calculated for ROIs (in this study, the ROIs consisted of the three salience network peaks described previously).
 87-1	12938-12949	Topological	_
 87-2	12950-12958	Analysis	_
 87-3	12959-12970	Betweenness	_
@@ -2324,6 +2411,7 @@
 87-52	13256-13257	)	_
 87-53	13258-13259	.	_
 
+Text=Connectivity between nodes is then calculated to provide the basis for drawing “ edges ” (lines representing connections) of the graph.
 88-1	13260-13272	Connectivity	_
 88-2	13273-13280	between	_
 88-3	13281-13286	nodes	_
@@ -2349,6 +2437,7 @@
 88-23	13391-13396	graph	_
 88-24	13397-13398	.	_
 
+Text=The proceeding sections provide a step-by-step description of the procedures used in these analyses.
 89-1	13399-13402	The	_
 89-2	13403-13413	proceeding	_
 89-3	13414-13422	sections	_
@@ -2365,6 +2454,7 @@
 89-14	13490-13498	analyses	_
 89-15	13499-13500	.	_
 
+Text=All calculations were performed using the Brain Connectivity Toolbox.
 90-1	13501-13504	All	_
 90-2	13505-13517	calculations	_
 90-3	13518-13522	were	_
@@ -2376,6 +2466,7 @@
 90-9	13562-13569	Toolbox	_
 90-10	13570-13571	.	_
 
+Text=Whole-Brain Parcellation The first step of a topological analysis is to parcellate the brain into functional regions.
 91-1	13572-13583	Whole-Brain	_
 91-2	13584-13596	Parcellation	_
 91-3	13597-13600	The	_
@@ -2395,6 +2486,7 @@
 91-17	13681-13688	regions	_
 91-18	13689-13690	.	_
 
+Text=To accomplish this, we used a previously published atlas of 264 regions classified according to their putative functionality via a meta-analysis of task and resting-state imaging studies.
 92-1	13691-13693	To	_
 92-2	13694-13704	accomplish	_
 92-3	13705-13709	this	_
@@ -2425,6 +2517,7 @@
 92-28	13871-13878	studies	_
 92-29	13879-13880	.	_
 
+Text=Spherical ROIs (5 mm radius) were centered on coordinates provided by the atlas.
 93-1	13881-13890	Spherical	_
 93-2	13891-13895	ROIs	_
 93-3	13896-13897	(	_
@@ -2442,6 +2535,7 @@
 93-15	13957-13962	atlas	_
 93-16	13963-13964	.	_
 
+Text=ROIs with “ unknown ” functionality as defined by this analysis were not included, nor those spheres that overlapped with white matter or CSF.
 94-1	13965-13969	ROIs	_
 94-2	13970-13974	with	_
 94-3	13975-13976	“	_
@@ -2469,6 +2563,7 @@
 94-25	14104-14107	CSF	_
 94-26	14108-14109	.	_
 
+Text=We then combined this atlas with the three salience network ROIs (ACC, left and right insula), removing any ROIs from the atlas that overlapped with the ICA-extracted ROIs.
 95-1	14110-14112	We	_
 95-2	14113-14117	then	_
 95-3	14118-14126	combined	_
@@ -2503,6 +2598,7 @@
 95-32	14281-14285	ROIs	_
 95-33	14286-14287	.	_
 
+Text=Taken together, these ROIs represent “ nodes ” that constitute a “ graph ” for which betweenness centrality can be analyzed.
 96-1	14288-14293	Taken	_
 96-2	14294-14302	together	_
 96-3	14303-14304	,	_
@@ -2527,6 +2623,7 @@
 96-22	14404-14412	analyzed	_
 96-23	14413-14414	.	_
 
+Text=It is worthwhile to note that, as previously alluded to in Section 2.5 (“ Functional Connectivity Analysis ”), a limitation of using this type of atlas-based approach is that it requires prespecification of node coordinates.
 97-1	14415-14417	It	_
 97-2	14418-14420	is	_
 97-3	14421-14431	worthwhile	_
@@ -2568,6 +2665,7 @@
 97-39	14631-14642	coordinates	_
 97-40	14643-14644	.	_
 
+Text=Nonetheless, we considered this method appropriate for the present analysis because we were interested in analyzing topology between salience network nodes and the rest of the brain (or, in the case of local efficiency, topologically adjacent neighbors) as a whole, but not between salience network nodes and specific brain areas.
 98-1	14645-14656	Nonetheless	_
 98-2	14657-14658	,	_
 98-3	14659-14661	we	_
@@ -2626,6 +2724,7 @@
 98-56	14975-14980	areas	_
 98-57	14981-14982	.	_
 
+Text=Time Series Extraction Functional time series were then extracted by taking the mean signal over time from within each node.
 99-1	14983-14987	Time	_
 99-2	14988-14994	Series	_
 99-3	14995-15005	Extraction	_
@@ -2648,6 +2747,7 @@
 99-20	15102-15106	node	_
 99-21	15107-15108	.	_
 
+Text=Time series were detrended, bandpass filtered, and white matter/CSF/motion confounders removed as described in Functional Connectivity Analysis: Preprocessing.
 100-1	15109-15113	Time	_
 100-2	15114-15120	series	_
 100-3	15121-15125	were	_
@@ -2671,6 +2771,7 @@
 100-21	15257-15270	Preprocessing	_
 100-22	15271-15272	.	_
 
+Text=Analysis was conducted with and without motion censoring as also described in Functional Connectivity Analysis: Preprocessing.
 101-1	15273-15281	Analysis	_
 101-2	15282-15285	was	_
 101-3	15286-15295	conducted	_
@@ -2690,6 +2791,7 @@
 101-17	15386-15399	Preprocessing	_
 101-18	15400-15401	.	_
 
+Text=Correlation Matrix Construction Correlation matrices (i.e., connectivity matrices) for each subject were generated by calculating the absolute value of the Fisher transformation of the correlation in BOLD signal over time (the time series) between each pair of nodes.
 102-1	15402-15413	Correlation	_
 102-2	15414-15420	Matrix	_
 102-3	15421-15433	Construction	_
@@ -2735,6 +2837,7 @@
 102-43	15668-15673	nodes	_
 102-44	15674-15675	.	_
 
+Text=The diagonal elements of each matrix were set to zero to assure compliance with Brain Connectivity Toolbox functions.
 103-1	15676-15679	The	_
 103-2	15680-15688	diagonal	_
 103-3	15689-15697	elements	_
@@ -2755,6 +2858,7 @@
 103-18	15783-15792	functions	_
 103-19	15793-15794	.	_
 
+Text=Cost Thresholding and Graph Construction In a graph theory-based framework, edges between nodes represent “ real ” connections.
 104-1	15795-15799	Cost	_
 104-2	15800-15812	Thresholding	_
 104-3	15813-15816	and	_
@@ -2776,6 +2880,7 @@
 104-19	15911-15922	connections	_
 104-20	15923-15924	.	_
 
+Text=Conversely, the absence of an edge between nodes represents the lack of a connection (or “ spurious ” connection) between them.
 105-1	15925-15935	Conversely	_
 105-2	15936-15937	,	_
 105-3	15938-15941	the	_
@@ -2802,6 +2907,7 @@
 105-24	16050-16054	them	_
 105-25	16055-16056	.	_
 
+Text=In order to construct such graphs, cost-based thresholding is performed in which an edge is only placed between nodes with connectivity stronger than the threshold (e.g.
 106-1	16057-16059	In	_
 106-2	16060-16065	order	_
 106-3	16066-16068	to	_
@@ -2832,6 +2938,7 @@
 106-28	16224-16227	e.g	_
 106-29	16228-16229	.	_
 
+Text=the strongest 10% of possible of connections).
 107-1	16230-16233	the	_
 107-2	16234-16243	strongest	_
 107-3	16244-16246	10	_
@@ -2843,6 +2950,7 @@
 107-9	16276-16277	)	_
 107-10	16278-16279	.	_
 
+Text=The procedure is termed “ cost ” based thresholding because as the connectivity threshold decreases, the number of connections increases, increasing the wiring or topological cost needed in order to construct the graph.
 108-1	16280-16283	The	_
 108-2	16284-16293	procedure	_
 108-3	16294-16296	is	_
@@ -2880,6 +2988,7 @@
 108-35	16495-16500	graph	_
 108-36	16501-16502	.	_
 
+Text=As there is no universally accepted threshold that best represents the brain ’ s “ true ” connections while ignoring “ spurious ” connections, graph-based metrics were calculated from individual subject graphs across a range of thresholds.
 109-1	16503-16505	As	_
 109-2	16506-16511	there	_
 109-3	16512-16514	is	_
@@ -2920,6 +3029,7 @@
 109-38	16732-16742	thresholds	_
 109-39	16743-16744	.	_
 
+Text=Specifically, we calculated betweenness centrality and local efficiency from graphs thresholded from 10% to 50% of possible connections (based on connectivity strength) and ignoring all weaker connections.
 110-1	16745-16757	Specifically	_
 110-2	16758-16759	,	_
 110-3	16760-16762	we	_
@@ -2954,6 +3064,7 @@
 110-32	16943-16954	connections	_
 110-33	16955-16956	.	_
 
+Text=This range was used because 1) a cost of 10% is typically the lowest cost of a fully connected brain network and 2) connections weaker than the strongest 50% are likely to be non-neuronal and/or strongly influenced by noise.
 111-1	16957-16961	This	_
 111-2	16962-16967	range	_
 111-3	16968-16971	was	_
@@ -2999,6 +3110,7 @@
 111-43	17179-17184	noise	_
 111-44	17185-17186	.	_
 
+Text=This cost range is also consistent with previous graph theory-based fMRI studies from our lab and others.
 112-1	17187-17191	This	_
 112-2	17192-17196	cost	_
 112-3	17197-17202	range	_
@@ -3018,6 +3130,7 @@
 112-17	17285-17291	others	_
 112-18	17292-17293	.	_
 
+Text=Metrics from each threshold were then integrated over the cost range in order to provide a “ cost-integrated ” value for each subject to be used for group analyses.
 113-1	17294-17301	Metrics	_
 113-2	17302-17306	from	_
 113-3	17307-17311	each	_
@@ -3049,6 +3162,7 @@
 113-29	17449-17457	analyses	_
 113-30	17458-17459	.	_
 
+Text=Analyses were performed using both binary and weighted graphs.
 114-1	17460-17468	Analyses	_
 114-2	17469-17473	were	_
 114-3	17474-17483	performed	_
@@ -3060,6 +3174,7 @@
 114-9	17515-17521	graphs	_
 114-10	17522-17523	.	_
 
+Text=For binary graphs, all potential connections that met the cost threshold were set to 1 (connection exists) and all other potential connections set to 0 (connection does not exist).
 115-1	17524-17527	For	_
 115-2	17528-17534	binary	_
 115-3	17535-17541	graphs	_
@@ -3096,6 +3211,7 @@
 115-34	17707-17708	)	_
 115-35	17709-17710	.	_
 
+Text=For weighted graphs, connectivity strength was preserved for all connections above the cost threshold and all other potential connections set to 0.
 116-1	17711-17714	For	_
 116-2	17715-17723	weighted	_
 116-3	17724-17730	graphs	_
@@ -3121,6 +3237,7 @@
 116-23	17857-17858	0	_
 116-24	17859-17860	.	_
 
+Text=In graph theory, a “ path ” is a sequence of edges (i.e.
 117-1	17861-17863	In	_
 117-2	17864-17869	graph	_
 117-3	17870-17876	theory	_
@@ -3138,6 +3255,7 @@
 117-15	17915-17918	i.e	_
 117-16	17919-17920	.	_
 
+Text=connections) that connect a sequence of nodes (e.g.
 118-1	17921-17932	connections	_
 118-2	17933-17934	)	_
 118-3	17935-17939	that	_
@@ -3150,10 +3268,12 @@
 118-10	17970-17973	e.g	_
 118-11	17974-17975	.	_
 
+Text=ROIs).
 119-1	17976-17980	ROIs	_
 119-2	17981-17982	)	_
 119-3	17983-17984	.	_
 
+Text=The length of a path between nodes is the topological distance between them.
 120-1	17985-17988	The	_
 120-2	17989-17995	length	_
 120-3	17996-17998	of	_
@@ -3169,6 +3289,7 @@
 120-13	18056-18060	them	_
 120-14	18061-18062	.	_
 
+Text=For binary graphs, this is simply the number of nodes along the path between a starting node and the destination node, as the distance between any two adjacently connected nodes is 1.
 121-1	18063-18066	For	_
 121-2	18067-18073	binary	_
 121-3	18074-18080	graphs	_
@@ -3205,6 +3326,7 @@
 121-34	18246-18247	1	_
 121-35	18248-18249	.	_
 
+Text=For weighted graphs, the distance between two adjacent nodes is proportional to the connectivity strength between them.
 122-1	18250-18253	For	_
 122-2	18254-18262	weighted	_
 122-3	18263-18269	graphs	_
@@ -3225,6 +3347,7 @@
 122-18	18365-18369	them	_
 122-19	18370-18371	.	_
 
+Text=Topological Measures Betweenness centrality and local efficiency were calculated using functions from the BCT.
 123-1	18372-18383	Topological	_
 123-2	18384-18392	Measures	_
 123-3	18393-18404	Betweenness	_
@@ -3241,6 +3364,7 @@
 123-14	18478-18481	BCT	_
 123-15	18482-18483	.	_
 
+Text=As suggested by the toolbox, betweenness centrality scores at each cost threshold were normalized such that individual subject values for each salience network node ranged between 0 and 1.
 124-1	18484-18486	As	_
 124-2	18487-18496	suggested	_
 124-3	18497-18499	by	_
@@ -3273,6 +3397,7 @@
 124-30	18671-18672	1	_
 124-31	18673-18674	.	_
 
+Text=Additional details regarding these measures, including mathematical formalism, can be found in Networks by.
 125-1	18675-18685	Additional	_
 125-2	18686-18693	details	_
 125-3	18694-18703	regarding	_
@@ -3291,6 +3416,7 @@
 125-16	18781-18783	by	_
 125-17	18784-18785	.	_
 
+Text=Statistical Analysis Cost-integrated betweenness centrality and local efficiency scores at the three 5 mm radius salience network nodes (ACC, left and right insula) for each subject and treatment condition were entered into separate mixed model ANOVAs with treatment condition (placebo vs. nicotine) as a within-subjects factor and diagnosis (control vs. patient) as a between-subjects factor.
 126-1	18786-18797	Statistical	_
 126-2	18798-18806	Analysis	_
 126-3	18807-18822	Cost-integrated	_
@@ -3355,6 +3481,7 @@
 126-62	19179-19185	factor	_
 126-63	19186-19187	.	_
 
+Text=To fully characterize interaction effects, significant interactions were followed up by post-hoc tests of simple main effects.
 127-1	19188-19190	To	_
 127-2	19191-19196	fully	_
 127-3	19197-19209	characterize	_
@@ -3375,6 +3502,7 @@
 127-18	19307-19314	effects	_
 127-19	19315-19316	.	_
 
+Text=The procedure was conducted for 1) binary graphs without movement censoring, 2) weighted graphs without movement censoring, 3) binary graphs with movement censoring, and 4) weighted graphs with movement censoring.
 128-1	19317-19320	The	_
 128-2	19321-19330	procedure	_
 128-3	19331-19334	was	_
@@ -3414,6 +3542,7 @@
 128-37	19527-19536	censoring	_
 128-38	19537-19538	.	_
 
+Text=Correlation Analyses Connectivity (mean between each seed and significant cluster) and topological metrics for each patient were tested with a Pearson ’ s correlation coefficient for relationships with symptoms (BPRS, SANS, GAF) and global functioning.
 129-1	19539-19550	Correlation	_
 129-2	19551-19559	Analyses	_
 129-3	19560-19572	Connectivity	_
@@ -3457,6 +3586,7 @@
 129-41	19785-19796	functioning	_
 129-42	19797-19798	.	_
 
+Text=Correlations with subscales (e.g.
 130-1	19799-19811	Correlations	_
 130-2	19812-19816	with	_
 130-3	19817-19826	subscales	_
@@ -3464,6 +3594,7 @@
 130-5	19829-19832	e.g	_
 130-6	19833-19834	.	_
 
+Text=SANS Alogia) were only examined if a significant association was observed between the corresponding total score on a scale (e.g.
 131-1	19835-19839	SANS	_
 131-2	19840-19846	Alogia	_
 131-3	19847-19848	)	_
@@ -3488,6 +3619,7 @@
 131-22	19961-19964	e.g	_
 131-23	19965-19966	.	_
 
+Text=SANS Total) and fMRI-related metrics.
 132-1	19967-19971	SANS	_
 132-2	19972-19977	Total	_
 132-3	19978-19979	)	_
@@ -3496,6 +3628,7 @@
 132-6	19997-20004	metrics	_
 132-7	20005-20006	.	_
 
+Text=Due to the low sample size, we used a liberal significance threshold in which correlations with p <0.05 were considered significant.
 133-1	20007-20010	Due	_
 133-2	20011-20013	to	_
 133-3	20014-20017	the	_
@@ -3521,6 +3654,7 @@
 133-23	20129-20140	significant	_
 133-24	20141-20142	.	_
 
+Text=These analyses should therefore be considered exploratory.
 134-1	20143-20148	These	_
 134-2	20149-20157	analyses	_
 134-3	20158-20164	should	_

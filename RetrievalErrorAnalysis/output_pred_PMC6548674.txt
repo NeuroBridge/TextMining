@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=The spatial chronnectome reveals a dynamic interplay between functional segregation and integration The brain is highly dynamic, reorganizing its activity at different interacting spatial and temporal scales, including variation within and between brain networks.
 1-1	0-3	The	_
 1-2	4-11	spatial	_
 1-3	12-24	chronnectome	_
@@ -40,6 +41,7 @@
 1-36	256-264	networks	_
 1-37	265-266	.	_
 
+Text=The chronnectome is a model of the brain in which nodal activity and connectivity patterns change in fundamental and recurring ways over time.
 2-1	267-270	The	_
 2-2	271-283	chronnectome	_
 2-3	284-286	is	_
@@ -65,6 +67,7 @@
 2-23	404-408	time	_
 2-24	409-410	.	_
 
+Text=Most literature assume fixed spatial nodes/networks, ignoring the possibility that spatial nodes/networks may vary in time.
 3-1	411-415	Most	_
 3-2	416-426	literature	_
 3-3	427-433	assume	_
@@ -84,6 +87,7 @@
 3-17	530-534	time	_
 3-18	535-536	.	_
 
+Text=Here, we introduce an approach to calculate a spatially fluid chronnectome (called the spatial chronnectome for clarity), which focuses on the variations of networks coupling at the voxel level, and identify a novel set of spatially dynamic features.
 4-1	537-541	Here	_
 4-2	542-543	,	_
 4-3	544-546	we	_
@@ -129,6 +133,7 @@
 4-43	783-791	features	_
 4-44	792-793	.	_
 
+Text=Results reveal transient spatially fluid interactions between intra-and inter-network relationships in which brain networks transiently merge and separate, emphasizing dynamic segregation and integration.
 5-1	794-801	Results	_
 5-2	802-808	reveal	_
 5-3	809-818	transient	_
@@ -155,6 +160,7 @@
 5-24	987-998	integration	_
 5-25	999-1000	.	_
 
+Text=Brain networks also exhibit distinct spatial patterns with unique temporal characteristics, potentially explaining a broad spectrum of inconsistencies in previous studies that assumed static networks.
 6-1	1001-1006	Brain	_
 6-2	1007-1015	networks	_
 6-3	1016-1020	also	_
@@ -183,6 +189,7 @@
 6-26	1193-1201	networks	_
 6-27	1202-1203	.	_
 
+Text=Moreover, we show anticorrelative connections to brain networks are transient as opposed to constant across the entire scan.
 7-1	1204-1212	Moreover	_
 7-2	1213-1214	,	_
 7-3	1215-1217	we	_
@@ -204,6 +211,7 @@
 7-19	1324-1328	scan	_
 7-20	1329-1330	.	_
 
+Text=Preliminary assessments using a multi-site dataset reveal the ability of the approach to obtain new information and nuanced alterations that remain undetected during static analysis.
 8-1	1331-1342	Preliminary	_
 8-2	1343-1354	assessments	_
 8-3	1355-1360	using	_
@@ -231,6 +239,7 @@
 8-25	1504-1512	analysis	_
 8-26	1513-1514	.	_
 
+Text=Patients with schizophrenia (SZ) display transient decreases in voxel-wise network coupling within visual and auditory networks, and higher intra-domain coupling variability.
 9-1	1515-1523	Patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-2	1524-1528	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-3	1529-1542	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -257,6 +266,7 @@
 9-24	1680-1691	variability	_
 9-25	1692-1693	.	_
 
+Text=In summary, the spatial chronnectome represents a new direction of research enabling the study of functional networks which are transient at the voxel level, and the identification of mechanisms for within-and between-subject spatial variability.
 10-1	1694-1696	In	_
 10-2	1697-1704	summary	_
 10-3	1705-1706	,	_
@@ -295,6 +305,7 @@
 10-36	1930-1941	variability	_
 10-37	1942-1943	.	_
 
+Text=Method Outline of our approach Our approach assessing spatiotemporal variations of individual brain networks includes the following steps (Figure 1 (A)): Spatial independent component analysis (sICA) is applied to obtain large-scale brain networks and their associated time courses (Figure 1 (A) Step 1).
 11-1	1944-1950	Method	_
 11-2	1951-1958	Outline	_
 11-3	1959-1961	of	_
@@ -351,6 +362,7 @@
 11-54	2257-2258	)	_
 11-55	2259-2260	.	_
 
+Text=The time course of each brain network obtained from sICA represents the temporal activity of that large-scale brain network.
 12-1	2261-2264	The	_
 12-2	2265-2269	time	_
 12-3	2270-2276	course	_
@@ -372,6 +384,7 @@
 12-19	2377-2384	network	_
 12-20	2385-2386	.	_
 
+Text=Details can be found in Section 2.4.
 13-1	2387-2394	Details	_
 13-2	2395-2398	can	_
 13-3	2399-2401	be	_
@@ -381,6 +394,7 @@
 13-7	2419-2422	2.4	_
 13-8	2423-2424	.	_
 
+Text=Identifying large-scale brain networks: Spatial ICA.
 14-1	2425-2436	Identifying	_
 14-2	2437-2448	large-scale	_
 14-3	2449-2454	brain	_
@@ -390,6 +404,7 @@
 14-7	2474-2477	ICA	_
 14-8	2478-2479	.	_
 
+Text=Temporal coupling and sliding-window approaches were employed to capture spatiotemporal variations of the large-scale brain networks.
 15-1	2480-2488	Temporal	_
 15-2	2489-2497	coupling	_
 15-3	2498-2501	and	_
@@ -408,6 +423,7 @@
 15-16	2604-2612	networks	_
 15-17	2613-2614	.	_
 
+Text=For each brain network and time window, we calculated the correlation between the time course of the brain network and the time courses of every voxel of the brain.
 16-1	2615-2618	For	_
 16-2	2619-2623	each	_
 16-3	2624-2629	brain	_
@@ -440,6 +456,7 @@
 16-30	2774-2779	brain	_
 16-31	2780-2781	.	_
 
+Text=The resulting correlation values represent the association (involvement) of all voxels across the brain to the given network at each time window (Figure 1 (A) Step 2).
 17-1	2782-2785	The	_
 17-2	2786-2795	resulting	_
 17-3	2796-2807	correlation	_
@@ -475,6 +492,7 @@
 17-33	2953-2954	)	_
 17-34	2955-2956	.	_
 
+Text=This results in one dynamic coupling map (dCM) per window for each brain network.
 18-1	2957-2961	This	_
 18-2	2962-2969	results	_
 18-3	2970-2972	in	_
@@ -493,6 +511,7 @@
 18-16	3032-3039	network	_
 18-17	3040-3041	.	_
 
+Text=This approach, unlike its predecessors, such as whole brain dynamic functional network connectivity (dFNC) and co-activation patterns (CAP), provides nuanced information regarding temporal variations of spatial patterns of multiple brain networks simultaneously at the level of the voxel.
 19-1	3042-3046	This	_
 19-2	3047-3055	approach	_
 19-3	3056-3057	,	_
@@ -540,6 +559,7 @@
 19-45	3331-3336	voxel	_
 19-46	3337-3338	.	_
 
+Text=Details can be found in Section 2.5.
 20-1	3339-3346	Details	_
 20-2	3347-3350	can	_
 20-3	3351-3353	be	_
@@ -549,6 +569,7 @@
 20-7	3371-3374	2.5	_
 20-8	3375-3376	.	_
 
+Text=Calculating dynamic coupling maps (dCMs) for each brain network using a sliding-window approach.
 21-1	3377-3388	Calculating	_
 21-2	3389-3396	dynamic	_
 21-3	3397-3405	coupling	_
@@ -566,6 +587,7 @@
 21-15	3466-3474	approach	_
 21-16	3475-3476	.	_
 
+Text=Time-varying properties were evaluated for each brain network (Figure 1 (A) Step 3).
 22-1	3477-3489	Time-varying	_
 22-2	3490-3500	properties	_
 22-3	3501-3505	were	_
@@ -585,6 +607,7 @@
 22-17	3563-3564	)	_
 22-18	3565-3566	.	_
 
+Text=First, the dCMs of each individual network were clustered into a set of distinct spatial patterns called spatial states on which multiple dynamic metrics were calculated and investigated (see Section 2.6.
 23-1	3567-3572	First	_
 23-2	3573-3574	,	_
 23-3	3575-3578	the	_
@@ -620,6 +643,7 @@
 23-33	3769-3772	2.6	_
 23-34	3773-3774	.	_
 
+Text=Calculating the spatial states of each brain network and their dynamic patterns).
 24-1	3775-3786	Calculating	_
 24-2	3787-3790	the	_
 24-3	3791-3798	spatial	_
@@ -635,6 +659,7 @@
 24-13	3855-3856	)	_
 24-14	3857-3858	.	_
 
+Text=Next, the spatially-continuous variations of each brain network over time were evaluated by calculating voxel-wise changes in their dCMs (See Section 2.7.
 25-1	3859-3863	Next	_
 25-2	3864-3865	,	_
 25-3	3866-3869	the	_
@@ -661,6 +686,7 @@
 25-24	4011-4014	2.7	_
 25-25	4015-4016	.	_
 
+Text=Evaluating the spatial variations of each brain network over time).
 26-1	4017-4027	Evaluating	_
 26-2	4028-4031	the	_
 26-3	4032-4039	spatial	_
@@ -674,6 +700,7 @@
 26-11	4083-4084	)	_
 26-12	4085-4086	.	_
 
+Text=Data collection Data collection was performed at 7 imaging sites across the United States, and all analyzed data passed data quality control.
 27-1	4087-4091	Data	_
 27-2	4092-4102	collection	_
 27-3	4103-4107	Data	_
@@ -699,6 +726,7 @@
 27-23	4221-4228	control	_
 27-24	4229-4230	.	_
 
+Text=All participants are at least 18 years old and gave written informed consent prior to enrollment.
 28-1	4231-4234	All	_
 28-2	4235-4247	participants	_
 28-3	4248-4251	are	_
@@ -717,6 +745,7 @@
 28-16	4317-4327	enrollment	_
 28-17	4328-4329	.	_
 
+Text=Data were collected from 160 healthy participants, including 46 females and 114 males (average age: 36.71 ± 10.92; range: 19–60 years), and 149 age-and gender-matched patients with SZ, including 36 females and 113 males (average age: 37.95 ± 11.47; range: 18–60 years).
 29-1	4330-4334	Data	_
 29-2	4335-4339	were	_
 29-3	4340-4349	collected	_
@@ -774,6 +803,7 @@
 29-55	4610-4611	)	_
 29-56	4612-4613	.	_
 
+Text=The imaging data were collected on a 3-Tesla Siemens Tim Trio scanner for six of the seven sites and on a 3-Tesla General Electric Discovery MR750 scanner at one site.
 30-1	4614-4617	The	_
 30-2	4618-4625	imaging	_
 30-3	4626-4630	data	_
@@ -806,6 +836,7 @@
 30-30	4776-4780	site	_
 30-31	4781-4782	.	_
 
+Text=Resting state fMRI (rsfMRI) data was acquired using a standard gradient echo-planar imaging (EPI) sequence with following imaging parameters: repetition time (TR) = 2000 ms, echo time (TE) = 30 ms, flip angle (FA) = 77°, field of view (FOV) = 220 × 220 mm, matrix size = 64 × 64, mm, pixel spacing size = 3.4375 × 3.4375 mm, slice thickness = 4 mm, slice gap = 1 mm, number of excitations (NEX) = 1, and a total of 162 volumes.
 31-1	4783-4790	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 31-2	4791-4796	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 31-3	4797-4801	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -915,6 +946,7 @@
 31-107	5227-5234	volumes	_
 31-108	5235-5236	.	_
 
+Text=During rsfMRI scans, participants were instructed to keep their eyes closed and rest quietly without falling asleep.
 32-1	5237-5243	During	_
 32-2	5244-5250	rsfMRI	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 32-3	5251-5256	scans	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -935,6 +967,7 @@
 32-18	5347-5353	asleep	_
 32-19	5354-5355	.	_
 
+Text=Further details on this dataset can be found in our earlier work.
 33-1	5356-5363	Further	_
 33-2	5364-5371	details	_
 33-3	5372-5374	on	_
@@ -949,6 +982,7 @@
 33-12	5416-5420	work	_
 33-13	5421-5422	.	_
 
+Text=Preprocessing The preprocessing was performed primarily using SPM (http: //www.fil.ion.ucl.ac.uk/spm/) and AFNI (https: //afni.nimh.nih.gov) software packages.
 34-1	5423-5436	Preprocessing	_
 34-2	5437-5440	The	_
 34-3	5441-5454	preprocessing	_
@@ -973,6 +1007,7 @@
 34-22	5579-5587	packages	_
 34-23	5588-5589	.	_
 
+Text=The pipeline includes brain extraction, motion correction using the INRIAlign, slice-timing correction using the middle slice as the reference time frame, and despiking using AFNI ’ s 3dDespike.
 35-1	5590-5593	The	_
 35-2	5594-5602	pipeline	_
 35-3	5603-5611	includes	_
@@ -1006,6 +1041,7 @@
 35-31	5777-5786	3dDespike	_
 35-32	5787-5788	.	_
 
+Text=The data of each subject was subsequently warped to the Montreal Neurological Institute (MNI) template using non-linear registration, resampled to 3 mm3 isotropic voxels, and spatially smoothed using a Gaussian kernel with a 6 mm full width at half maximum (FWHM = 6 mm).
 36-1	5789-5792	The	_
 36-2	5793-5797	data	_
 36-3	5798-5800	of	_
@@ -1058,6 +1094,7 @@
 36-50	6064-6065	)	_
 36-51	6066-6067	.	_
 
+Text=Finally, voxel time courses were z-scored (variance normalized) as it has been shown in our analysis to better estimate brain networks relative to other scaling methods for independent component analysis.
 37-1	6068-6075	Finally	_
 37-2	6076-6077	,	_
 37-3	6078-6083	voxel	_
@@ -1093,6 +1130,7 @@
 37-33	6266-6274	analysis	_
 37-34	6275-6276	.	_
 
+Text=Identifying large-scale brain networks: Spatial ICA Spatial ICA (sICA) was applied to the fMRI data to obtain brain networks.
 38-1	6277-6288	Identifying	_
 38-2	6289-6300	large-scale	_
 38-3	6301-6306	brain	_
@@ -1117,6 +1155,7 @@
 38-22	6396-6404	networks	_
 38-23	6405-6406	.	_
 
+Text=ICA was performed using the GIFT software package (http: //mialab.mrn.org/software/gift/) in the following steps similar to our previous work: 1) Subject-level principal component analysis (PCA) was applied and the 30 principal components accounting for the maximum variance in each individual dataset were retained.
 39-1	6407-6410	ICA	_
 39-2	6411-6414	was	_
 39-3	6415-6424	performed	_
@@ -1169,6 +1208,7 @@
 39-50	6721-6729	retained	_
 39-51	6730-6731	.	_
 
+Text=2) All subject-level principal components were concatenated together across the time dimension, and group-level spatial PCA was applied on 9270 (30 × Subject) concatenated components.
 40-1	6732-6733	2	_
 40-2	6734-6735	)	_
 40-3	6736-6739	All	_
@@ -1200,6 +1240,7 @@
 40-29	6908-6918	components	_
 40-30	6919-6920	.	_
 
+Text=3) The first 20 group-level principal components with the highest variance were selected as input for the infomax algorithm to estimate the 20 group independent components.
 41-1	6921-6922	3	_
 41-2	6923-6924	)	_
 41-3	6925-6928	The	_
@@ -1229,6 +1270,7 @@
 41-27	7083-7093	components	_
 41-28	7094-7095	.	_
 
+Text=Infomax ICA algorithm was repeated 100 times on the 20 group-level principal components using ICASSO framework in order to obtain a stable and reliable estimation of independent components, and the most representative run was selected for further analysis.
 42-1	7096-7103	Infomax	_
 42-2	7104-7107	ICA	_
 42-3	7108-7117	algorithm	_
@@ -1270,6 +1312,7 @@
 42-39	7344-7352	analysis	_
 42-40	7353-7354	.	_
 
+Text=4) The subject-specific independent components and component time courses were calculated using group information guided ICA (GIG-ICA).
 43-1	7355-7356	4	_
 43-2	7357-7358	)	_
 43-3	7359-7362	The	_
@@ -1292,6 +1335,7 @@
 43-20	7491-7492	)	_
 43-21	7493-7494	.	_
 
+Text=5) The twelve independent components were identified as brain networks based on the spatial and temporal properties and prior knowledge from previous studies.
 44-1	7495-7496	5	_
 44-2	7497-7498	)	_
 44-3	7499-7502	The	_
@@ -1318,6 +1362,7 @@
 44-24	7646-7653	studies	_
 44-25	7654-7655	.	_
 
+Text=Calculating dynamic coupling maps (dCMs) for each brain network using a sliding-window approach The spatiotemporal variations of each brain network can be captured by evaluating its dynamic coupling at a voxel-wise level.
 45-1	7656-7667	Calculating	_
 45-2	7668-7675	dynamic	_
 45-3	7676-7684	coupling	_
@@ -1354,6 +1399,7 @@
 45-34	7873-7878	level	_
 45-35	7879-7880	.	_
 
+Text=For this purpose, we calculated the temporal coupling between the brain network and every voxel of the brain using the sliding-window correlation approach.
 46-1	7881-7884	For	_
 46-2	7885-7889	this	_
 46-3	7890-7897	purpose	_
@@ -1380,6 +1426,7 @@
 46-24	8028-8036	approach	_
 46-25	8037-8038	.	_
 
+Text=Temporal correlations have been used as the primary metric to measure functional connectivity, fully capturing the relationship between a given voxel and the brain network without regard to its contributions of other networks.
 47-1	8039-8047	Temporal	_
 47-2	8048-8060	correlations	_
 47-3	8061-8065	have	_
@@ -1416,6 +1463,7 @@
 47-34	8257-8265	networks	_
 47-35	8266-8267	.	_
 
+Text=For instance, if a given voxel is highly correlated with two networks, using correlation allows detecting both of these associations.
 48-1	8268-8271	For	_
 48-2	8272-8280	instance	_
 48-3	8281-8282	,	_
@@ -1440,6 +1488,7 @@
 48-22	8390-8402	associations	_
 48-23	8403-8404	.	_
 
+Text=As a result, we compute dCMs for a given network, which encapsulates the spatiotemporal variations of that brain network at a voxel-wise level.
 49-1	8405-8407	As	_
 49-2	8408-8409	a	_
 49-3	8410-8416	result	_
@@ -1467,6 +1516,7 @@
 49-25	8544-8549	level	_
 49-26	8550-8551	.	_
 
+Text=The same cleaning procedure that has previously demonstrated its effectiveness in improving the detection of dynamic patterns was first performed on the time courses of brain networks and every voxel of the brain to reduce noise.
 50-1	8552-8555	The	_
 50-2	8556-8560	same	_
 50-3	8561-8569	cleaning	_
@@ -1505,6 +1555,7 @@
 50-36	8775-8780	noise	_
 50-37	8781-8782	.	_
 
+Text=The cleaning procedure includes orthogonalizing with respect to estimated subject motion parameters, linear detrending, despiking, and band-pass filtering using a fifth-order Butterworth filter (0.01–0.15 Hz).
 51-1	8783-8786	The	_
 51-2	8787-8795	cleaning	_
 51-3	8796-8805	procedure	_
@@ -1537,6 +1588,7 @@
 51-30	8995-8996	)	_
 51-31	8997-8998	.	_
 
+Text=It is worth mentioning that to evaluate the noise effect, we performed various cleaning procedures including various bandpass filtering methods with different frequency bands, and these approaches resulted in almost identical spatial states.
 52-1	8999-9001	It	_
 52-2	9002-9004	is	_
 52-3	9005-9010	worth	_
@@ -1574,6 +1626,7 @@
 52-35	9235-9241	states	_
 52-36	9242-9243	.	_
 
+Text=Further details of different cleaning procedures can be found in our recent work.
 53-1	9244-9251	Further	_
 53-2	9252-9259	details	_
 53-3	9260-9262	of	_
@@ -1589,6 +1642,7 @@
 53-13	9320-9324	work	_
 53-14	9325-9326	.	_
 
+Text=We used the tapered window obtained by convolving a rectangle (width = 30 TRs; see the discussion for our reasoning for the specific window length chosen) with a Gaussian (σ = 3 TRs) and the sliding step size of one TR resulting in 131 windows per subject.The spatial evolution (i.e.
 54-1	9327-9329	We	_
 54-2	9330-9334	used	_
 54-3	9335-9338	the	_
@@ -1647,6 +1701,7 @@
 54-56	9612-9615	i.e	_
 54-57	9616-9617	.	_
 
+Text=continuous spatial variations) of brain networks were evaluated using different metrics including spatial states and spatiotemporal variation analyses.
 55-1	9618-9628	continuous	_
 55-2	9629-9636	spatial	_
 55-3	9637-9647	variations	_
@@ -1668,6 +1723,7 @@
 55-19	9761-9769	analyses	_
 55-20	9770-9771	.	_
 
+Text=Calculating the spatial states of each brain network and their dynamic patterns First, we modeled the spatiotemporal fluctuations of each brain network as temporal variations in a set of distinct spatial patterns called spatial states.
 56-1	9772-9783	Calculating	_
 56-2	9784-9787	the	_
 56-3	9788-9795	spatial	_
@@ -1706,6 +1762,7 @@
 56-36	10001-10007	states	_
 56-37	10008-10009	.	_
 
+Text=Clustering approaches can be used to summarize the dCMs of each brain network into a set of spatial states which allows us to investigate the spatiotemporal variations of the brain network via temporal variations of these distinct spatial states.
 57-1	10010-10020	Clustering	_
 57-2	10021-10031	approaches	_
 57-3	10032-10035	can	_
@@ -1747,6 +1804,7 @@
 57-39	10249-10255	states	_
 57-40	10256-10257	.	_
 
+Text=Here, k-means clustering was employed to detect the spatial states of each brain network.
 58-1	10258-10262	Here	_
 58-2	10263-10264	,	_
 58-3	10265-10272	k-means	_
@@ -1764,6 +1822,7 @@
 58-15	10340-10347	network	_
 58-16	10348-10349	.	_
 
+Text=For each brain network, k-means clustering was applied on the 40479 (309 subjects × 131 windows) dCMs of the brain network.
 59-1	10350-10353	For	_
 59-2	10354-10358	each	_
 59-3	10359-10364	brain	_
@@ -1790,6 +1849,7 @@
 59-24	10468-10475	network	_
 59-25	10476-10477	.	_
 
+Text=K-means clustering was repeated 100 times with different initializations using the k-means++ technique to increase chances of escaping local minima.
 60-1	10478-10485	K-means	_
 60-2	10486-10496	clustering	_
 60-3	10497-10500	was	_
@@ -1812,6 +1872,7 @@
 60-20	10619-10625	minima	_
 60-21	10626-10627	.	_
 
+Text=The correlation distance metric was used to measure the similarity between data points (i.e., the dCMs), as it is more effective in the detection of spatial patterns irrespective of voxel intensities.
 61-1	10628-10631	The	_
 61-2	10632-10643	correlation	_
 61-3	10644-10652	distance	_
@@ -1849,6 +1910,7 @@
 61-35	10820-10831	intensities	_
 61-36	10832-10833	.	_
 
+Text=However, an exploratory analysis using Euclidean distance demonstrated almost identical results.
 62-1	10834-10841	However	_
 62-2	10842-10843	,	_
 62-3	10844-10846	an	_
@@ -1863,6 +1925,7 @@
 62-12	10923-10930	results	_
 62-13	10931-10932	.	_
 
+Text=K-means clustering was performed for 3 to 10 clusters, and the spatial maps of the cluster centroids were compared (Supporting Information File S1).
 63-1	10933-10940	K-means	_
 63-2	10941-10951	clustering	_
 63-3	10952-10955	was	_
@@ -1891,6 +1954,7 @@
 63-26	11082-11083	)	_
 63-27	11084-11085	.	_
 
+Text=For each brain network, the maximum number of clusters that provides distinct spatial maps for centroids were selected by visual inspection for further analysis.
 64-1	11086-11089	For	_
 64-2	11090-11094	each	_
 64-3	11095-11100	brain	_
@@ -1918,6 +1982,7 @@
 64-25	11239-11247	analysis	_
 64-26	11248-11249	.	_
 
+Text=Thus, each network includes multiple spatial states as defined by the cluster centroids, and the number of spatial states (centroids) can vary between networks.
 65-1	11250-11254	Thus	_
 65-2	11255-11256	,	_
 65-3	11257-11261	each	_
@@ -1948,6 +2013,7 @@
 65-28	11405-11413	networks	_
 65-29	11414-11415	.	_
 
+Text=We also compared our numbers of clusters with the estimated number of clusters using the elbow criterion.
 66-1	11416-11418	We	_
 66-2	11419-11423	also	_
 66-3	11424-11432	compared	_
@@ -1967,6 +2033,7 @@
 66-17	11511-11520	criterion	_
 66-18	11521-11522	.	_
 
+Text=With the exception of the left frontoparietal and subcortical domains, in which the elbow criterion estimates a higher number of clusters than those chosen by visual inspection, the estimated cluster numbers using elbow criterion were the same as the expert selections.
 67-1	11523-11527	With	_
 67-2	11528-11531	the	_
 67-3	11532-11541	exception	_
@@ -2012,6 +2079,7 @@
 67-43	11783-11793	selections	_
 67-44	11794-11795	.	_
 
+Text=Using temporal profiles of the spatial states, various state level and meta-state level dynamic indices can be calculated for each brain network.
 68-1	11796-11801	Using	_
 68-2	11802-11810	temporal	_
 68-3	11811-11819	profiles	_
@@ -2037,6 +2105,7 @@
 68-23	11934-11941	network	_
 68-24	11942-11943	.	_
 
+Text=For example, the mean dwell time (the average of the amount of time that subjects stay in a given state once entering that state) and the fraction time (the proportion of time subjects stay in a given state) can be calculated for each networks.
 69-1	11944-11947	For	_
 69-2	11948-11955	example	_
 69-3	11956-11957	,	_
@@ -2088,6 +2157,7 @@
 69-49	12184-12192	networks	_
 69-50	12193-12194	.	_
 
+Text=Here, we compared mean dwell time and fraction time between healthy subjects and patients with SZ to show the feasibility of the approach.
 70-1	12195-12199	Here	_
 70-2	12200-12201	,	_
 70-3	12202-12204	we	_
@@ -2114,6 +2184,7 @@
 70-24	12325-12333	approach	_
 70-25	12334-12335	.	_
 
+Text=Evaluating the spatial variations of each brain network over time Coupling variability map Coupling variability for each network is defined as the amount of variations in network coupling over time, which is obtained by measuring voxel-wise changes in dCMs using the L1 norm distance (sum of absolute differences).
 71-1	12336-12346	Evaluating	_
 71-2	12347-12350	the	_
 71-3	12351-12358	spatial	_
@@ -2167,6 +2238,7 @@
 71-51	12651-12652	)	_
 71-52	12653-12654	.	_
 
+Text=For each voxel, the L1 norm distance represents the variations in a voxel ’ s membership to a given brain network over time by measuring changes in the sliding-window correlation values between the time courses of a given voxel and the brain network across time.
 72-1	12655-12658	For	_
 72-2	12659-12663	each	_
 72-3	12664-12669	voxel	_
@@ -2215,6 +2287,7 @@
 72-46	12913-12917	time	_
 72-47	12918-12919	.	_
 
+Text=For example, if the correlation values for a given voxel for seven consecutive time windows are c1, c2,..., and c7, the changes in correlation values will be d1 = |c2-c1|, d2 = |c3-c2|,...d6 = |c7-c6|.
 73-1	12920-12923	For	_
 73-2	12924-12931	example	_
 73-3	12932-12933	,	_
@@ -2262,6 +2335,7 @@
 73-45	13123-13130	|c7-c6|	_
 73-46	13131-13132	.	_
 
+Text=Therefore, the coupling variability for a given voxel will be equal to d1+d2+…+d6 (Supporting Information File S2).
 74-1	13133-13142	Therefore	_
 74-2	13143-13144	,	_
 74-3	13145-13148	the	_
@@ -2284,6 +2358,7 @@
 74-20	13249-13250	)	_
 74-21	13251-13252	.	_
 
+Text=The coupling variability map quantifies the overall spatial behavior of a given brain network varying across time.
 75-1	13253-13256	The	_
 75-2	13257-13265	coupling	_
 75-3	13266-13277	variability	_
@@ -2303,6 +2378,7 @@
 75-17	13362-13366	time	_
 75-18	13367-13368	.	_
 
+Text=Voxel-wise comparisons were further applied comparing coupling variability maps for each network between healthy subjects and patients with SZ.
 76-1	13369-13379	Voxel-wise	_
 76-2	13380-13391	comparisons	_
 76-3	13392-13396	were	_
@@ -2324,6 +2400,7 @@
 76-19	13509-13511	SZ	_
 76-20	13512-13513	.	_
 
+Text=Spatiotemporal transition matrix To further evaluate spatiotemporal variations of each brain network, we exploit the gray-level co-occurrence (spatial dependence) matrix method in the field of image processing that is used to extract Haralick textural features from images.
 77-1	13514-13528	Spatiotemporal	_
 77-2	13529-13539	transition	_
 77-3	13540-13546	matrix	_
@@ -2366,6 +2443,7 @@
 77-40	13783-13789	images	_
 77-41	13790-13791	.	_
 
+Text=Figure 1 (B) shows a toy model of this approach.
 78-1	13792-13798	Figure	_
 78-2	13799-13800	1	_
 78-3	13801-13802	(	_
@@ -2380,6 +2458,7 @@
 78-12	13833-13841	approach	_
 78-13	13842-13843	.	_
 
+Text=First, the network coupling (i.e., voxel-to-network correlation) values are discretized to n bins (ten equal bins in this study).
 79-1	13844-13849	First	_
 79-2	13850-13851	,	_
 79-3	13852-13855	the	_
@@ -2407,6 +2486,7 @@
 79-25	13977-13978	)	_
 79-26	13979-13980	.	_
 
+Text=The spatiotemporal transition matrix is constructed by counting the number of voxels transitioning from one bin to another between time windows at a given interval.
 80-1	13981-13984	The	_
 80-2	13985-13999	spatiotemporal	_
 80-3	14000-14010	transition	_
@@ -2434,6 +2514,7 @@
 80-25	14136-14144	interval	_
 80-26	14145-14146	.	_
 
+Text=We calculate this spatiotemporal transition matrix for an interval of one TR, (i.e., by counting the number of transitions between every two consecutive spatial maps), and for larger intervals.
 81-1	14147-14149	We	_
 81-2	14150-14159	calculate	_
 81-3	14160-14164	this	_
@@ -2470,6 +2551,7 @@
 81-34	14335-14344	intervals	_
 81-35	14345-14346	.	_
 
+Text=The maximum interval would be the total number of windows per subject minus 1 (i.e., 130).
 82-1	14347-14350	The	_
 82-2	14351-14358	maximum	_
 82-3	14359-14367	interval	_
@@ -2491,6 +2573,7 @@
 82-19	14438-14439	)	_
 82-20	14440-14441	.	_
 
+Text=The spatiotemporal transition matrix was normalized (divided) by the total number of transitions to allow us to compare across different interval values.
 83-1	14442-14445	The	_
 83-2	14446-14460	spatiotemporal	_
 83-3	14461-14471	transition	_
@@ -2517,6 +2600,7 @@
 83-24	14590-14596	values	_
 83-25	14597-14598	.	_
 
+Text=Several global indices such as contrast, correlation, energy, entropy, and homogeneity can be calculated from spatiotemporal transition matrix to provide summary statistics of spatiotemporal variations of brain networks.
 84-1	14599-14606	Several	_
 84-2	14607-14613	global	_
 84-3	14614-14621	indices	_
@@ -2551,6 +2635,7 @@
 84-32	14814-14822	networks	_
 84-33	14823-14824	.	_
 
+Text=Here, for example, the energy index was calculated to evaluate spatiotemporal uniformity.
 85-1	14825-14829	Here	_
 85-2	14830-14831	,	_
 85-3	14832-14835	for	_
@@ -2567,6 +2652,7 @@
 85-14	14905-14915	uniformity	_
 85-15	14916-14917	.	_
 
+Text=The energy index, also known as angular second moment (ASM), is defined as where is the (i, j) th element of the spatiotemporal transition matrix.
 86-1	14918-14921	The	_
 86-2	14922-14928	energy	_
 86-3	14929-14934	index	_
@@ -2601,6 +2687,7 @@
 86-32	15064-15070	matrix	_
 86-33	15071-15072	.	_
 
+Text=The energy index is between zero and one, and smaller energy values represent higher spatiotemporal uniformity.
 87-1	15073-15076	The	_
 87-2	15077-15083	energy	_
 87-3	15084-15089	index	_
@@ -2620,6 +2707,7 @@
 87-17	15174-15184	uniformity	_
 87-18	15185-15186	.	_
 
+Text=The energy index of each network was compared between healthy subjects and patients with SZ.
 88-1	15187-15190	The	_
 88-2	15191-15197	energy	_
 88-3	15198-15203	index	_
@@ -2637,6 +2725,7 @@
 88-15	15276-15278	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 88-16	15279-15280	.	_
 
+Text=The energy indices of the networks which show significant differences between the two groups were further analyzed to understand the relationships between the spatiotemporal variations and cognitive scores.
 89-1	15281-15284	The	_
 89-2	15285-15291	energy	_
 89-3	15292-15299	indices	_
@@ -2667,6 +2756,7 @@
 89-28	15480-15486	scores	_
 89-29	15487-15488	.	_
 
+Text=For this purpose, we used the domains of the computerized multiphasic interactive neurocognitive system (CMINDS) scores including speed of processing, attention/vigilance, working memory, verbal learning, visual learning, and reasoning/problem solving.
 90-1	15489-15492	For	_
 90-2	15493-15497	this	_
 90-3	15498-15505	purpose	_
@@ -2707,6 +2797,7 @@
 90-38	15741-15748	solving	_
 90-39	15749-15750	.	_
 
+Text=Further details of CMINDS and preprocessing steps can be found in.
 91-1	15751-15758	Further	_
 91-2	15759-15766	details	_
 91-3	15767-15769	of	_
@@ -2720,6 +2811,7 @@
 91-11	15814-15816	in	_
 91-12	15817-15818	.	_
 
+Text=Statistical analysis: dynamic alterations among patients with schizophrenia The spatiotemporal variations of brain networks were evaluated by comparing group differences between patients with SZ and healthy subjects, and statistical comparisons for each analysis were separately corrected for multiple comparisons based on the total number of comparisons that we performed in that analysis.
 92-1	15819-15830	Statistical	_
 92-2	15831-15839	analysis	_
 92-3	15840-15841	:	_
@@ -2776,6 +2868,7 @@
 92-54	16202-16210	analysis	_
 92-55	16211-16212	.	_
 
+Text=P-values of all statistical analyses were corrected for multiple comparisons using the 5% false discovery rate (FDR).
 93-1	16213-16221	P-values	_
 93-2	16222-16224	of	_
 93-3	16225-16228	all	_
@@ -2798,6 +2891,7 @@
 93-20	16331-16332	)	_
 93-21	16333-16334	.	_
 
+Text=For each statistical comparison, we used a general linear model (GLM) that included age, gender, site, and the mean framewise displacement (meanFD) as covariates.
 94-1	16335-16338	For	_
 94-2	16339-16343	each	_
 94-3	16344-16355	statistical	_
@@ -2832,6 +2926,7 @@
 94-32	16494-16504	covariates	_
 94-33	16505-16506	.	_
 
+Text=MeanFD was added as a covariate to mitigate against the effects of motion.
 95-1	16507-16513	MeanFD	_
 95-2	16514-16517	was	_
 95-3	16518-16523	added	_
@@ -2847,6 +2942,7 @@
 95-13	16574-16580	motion	_
 95-14	16581-16582	.	_
 
+Text=To evaluate the relationship between energy indices and CMINDS scores, correlation analyses were conducted separately for healthy subjects and patients with SZ after regressing out age, gender, site, and meanFD.
 96-1	16583-16585	To	_
 96-2	16586-16594	evaluate	_
 96-3	16595-16598	the	_
@@ -2883,6 +2979,7 @@
 96-34	16791-16797	meanFD	_
 96-35	16798-16799	.	_
 
+Text=CMINDS scores and energy indices were mean-centered for each group to mitigate group differences in either CMINDS scores and/or energy indices introduced into the correlations.
 97-1	16800-16806	CMINDS	_
 97-2	16807-16813	scores	_
 97-3	16814-16817	and	_
@@ -2910,6 +3007,7 @@
 97-25	16963-16975	correlations	_
 97-26	16976-16977	.	_
 
+Text=The group difference in correlation coefficients of the relationship between energy indices and CMINDS scores was also evaluated between the two groups.
 98-1	16978-16981	The	_
 98-2	16982-16987	group	_
 98-3	16988-16998	difference	_
@@ -2934,6 +3032,7 @@
 98-22	17123-17129	groups	_
 98-23	17130-17131	.	_
 
+Text=Outliers were removed using the scaled median absolute deviation.
 99-1	17132-17140	Outliers	_
 99-2	17141-17145	were	_
 99-3	17146-17153	removed	_

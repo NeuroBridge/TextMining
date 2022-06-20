@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Neuron-specific signatures in the chromosomal connectome associated with schizophrenia risk To explore the developmental reorganization of the three-dimensional genome of the brain in the context of neuropsychiatric disease, we monitored chromosomal conformations in differentiating neural progenitor cells.
 1-1	0-15	Neuron-specific	_
 1-2	16-26	signatures	_
 1-3	27-29	in	_
@@ -42,6 +43,7 @@
 1-38	302-307	cells	_
 1-39	308-309	.	_
 
+Text=Neuronal and glial differentiation was associated with widespread developmental remodeling of the chromosomal contact map and included interactions anchored in common variant sequences that confer heritable risk for schizophrenia.
 2-1	310-318	Neuronal	_
 2-2	319-322	and	_
 2-3	323-328	glial	_
@@ -73,6 +75,7 @@
 2-29	526-539	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-30	540-541	.	_
 
+Text=We describe cell type–specific chromosomal connectomes composed of schizophrenia risk variants and their distal targets, which altogether show enrichment for genes that regulate neuronal connectivity and chromatin remodeling, and evidence for coordinated transcriptional regulation and proteomic interaction of the participating genes.
 3-1	542-544	We	_
 3-2	545-553	describe	_
 3-3	554-558	cell	_
@@ -118,6 +121,7 @@
 3-43	873-878	genes	_
 3-44	879-880	.	_
 
+Text=Developmentally regulated chromosomal conformation changes at schizophrenia-relevant sequences disproportionally occurred in neurons, highlighting the existence of cell type–specific disease risk vulnerabilities in spatial genome organization.
 4-1	881-896	Developmentally	_
 4-2	897-906	regulated	_
 4-3	907-918	chromosomal	_
@@ -146,6 +150,7 @@
 4-26	1112-1124	organization	_
 4-27	1125-1126	.	_
 
+Text=Graphical Abstract INTRODUCTION: Chromosomal conformations, topologically associated chromatin domains (TADs) assembling in nested fashion across hundreds of kilobases, and other “ three-dimensional genome ” (3DG) structures bypass the linear genome on a kilo- or megabase scale and play an important role in transcriptional regulation.
 5-1	1127-1136	Graphical	_
 5-2	1137-1145	Abstract	_
 5-3	1146-1158	INTRODUCTION	_
@@ -199,6 +204,7 @@
 5-51	1459-1469	regulation	_
 5-52	1470-1471	.	_
 
+Text=Most of the genetic variants associated with risk for schizophrenia (SZ) are common and could be located in enhancers, repressors, and other regulatory elements that influence gene expression; however, the role of the brain ’ s 3DG for SZ genetic risk architecture, including developmental and cell type–specific regulation, remains poorly understood.
 6-1	1472-1476	Most	_
 6-2	1477-1479	of	_
 6-3	1480-1483	the	_
@@ -260,6 +266,7 @@
 6-59	1820-1830	understood	_
 6-60	1831-1832	.	_
 
+Text=RATIONALE: We monitored changes in 3DG after isogenic differentiation of human induced pluripotent stem cell–derived neural progenitor cells (NPCs) into neurons or astrocyte-like glial cells on a genome-wide scale using Hi-C. With this in vitro model of brain development, we mapped cell type–specific chromosomal conformations associated with SZ risk loci and defined a risk-associated expanded genome space.
 7-1	1833-1842	RATIONALE	_
 7-2	1843-1844	:	_
 7-3	1845-1847	We	_
@@ -323,6 +330,7 @@
 7-61	2240-2245	space	_
 7-62	2246-2247	.	_
 
+Text=RESULTS: Neural differentiation was associated with genome-wide 3DG remodeling, including pruning and de novo formations of chromosomal loopings.
 8-1	2248-2255	RESULTS	_
 8-2	2256-2257	:	_
 8-3	2258-2264	Neural	_
@@ -345,6 +353,7 @@
 8-20	2386-2394	loopings	_
 8-21	2395-2396	.	_
 
+Text=The NPC-to-neuron transition was defined by the pruning of loops involving regulators of cell proliferation, morphogenesis, and neurogenesis, which is consistent with a departure from a precursor stage toward postmitotic neuronal identity.
 9-1	2397-2400	The	_
 9-2	2401-2414	NPC-to-neuron	_
 9-3	2415-2425	transition	_
@@ -382,6 +391,7 @@
 9-35	2630-2638	identity	_
 9-36	2639-2640	.	_
 
+Text=Loops lost during NPC-to-glia transition included many genes associated with neuron-specific functions, which is consistent with non-neuronal lineage commitment.
 10-1	2641-2646	Loops	_
 10-2	2647-2651	lost	_
 10-3	2652-2658	during	_
@@ -404,6 +414,7 @@
 10-20	2792-2802	commitment	_
 10-21	2803-2804	.	_
 
+Text=However, neurons together with NPCs, as compared with glia, harbored a much larger number of chromosomal interactions anchored in common variant sequences associated with SZ risk.
 11-1	2805-2812	However	_
 11-2	2813-2814	,	_
 11-3	2815-2822	neurons	_
@@ -435,6 +446,7 @@
 11-29	2982-2986	risk	_
 11-30	2987-2988	.	_
 
+Text=Because spatial 3DG proximity of genes is an indicator for potential coregulation, we tested whether the neural cell type–specific SZ-related “ chromosomal connectome ” showed evidence of coordinated transcriptional regulation and proteomic interaction of the participating genes.
 12-1	2989-2996	Because	_
 12-2	2997-3004	spatial	_
 12-3	3005-3008	3DG	_
@@ -475,6 +487,7 @@
 12-38	3264-3269	genes	_
 12-39	3270-3271	.	_
 
+Text=To this end, we generated lists of genes anchored in cell type–specific SZ risk-associated interactions.
 13-1	3272-3274	To	_
 13-2	3275-3279	this	_
 13-3	3280-3283	end	_
@@ -493,6 +506,7 @@
 13-16	3364-3376	interactions	_
 13-17	3377-3378	.	_
 
+Text=Thus, for the NPC-specific interactions, we counted 386 genes, including 146 within the risk loci and another 240 genes positioned elsewhere in the linear genome but connected via intrachromosomal contacts to risk locus sequences.
 14-1	3379-3383	Thus	_
 14-2	3384-3385	,	_
 14-3	3386-3389	for	_
@@ -532,6 +546,7 @@
 14-37	3602-3611	sequences	_
 14-38	3612-3613	.	_
 
+Text=Similarly, for the neuron-specific interactions, we identified 385 genes: 158 within risk loci and 227 outside of risk loci.
 15-1	3614-3623	Similarly	_
 15-2	3624-3625	,	_
 15-3	3626-3629	for	_
@@ -556,6 +571,7 @@
 15-22	3736-3740	loci	_
 15-23	3741-3742	.	_
 
+Text=Last, for glia-specific interactions, we identified 201 genes: 88 within and 113 outside of risk loci.
 16-1	3743-3747	Last	_
 16-2	3748-3749	,	_
 16-3	3750-3753	for	_
@@ -577,6 +593,7 @@
 16-19	3843-3847	loci	_
 16-20	3848-3849	.	_
 
+Text=We labeled the genes located outside of schizophrenia risk loci as “ risk locus–connect, ” which we define as a collection of genes identified only through Hi-C interaction data, expanding—depending on cell type—by 50 to 150% the current network of known genes overlapping risk sequences that is informed only by genome-wide association studies.
 17-1	3850-3852	We	_
 17-2	3853-3860	labeled	_
 17-3	3861-3864	the	_
@@ -635,6 +652,7 @@
 17-56	4190-4197	studies	_
 17-57	4198-4199	.	_
 
+Text=This disease-related chromosomal connectome was associated with “ clusters ” of coordinated gene expression and protein interactions, with at least one cluster strongly enriched for regulators of neuronal connectivity and synaptic plasticity and another cluster for chromatin-associated proteins, including transcriptional regulators.
 18-1	4200-4204	This	_
 18-2	4205-4220	disease-related	_
 18-3	4221-4232	chromosomal	_
@@ -680,6 +698,7 @@
 18-43	4525-4535	regulators	_
 18-44	4536-4537	.	_
 
+Text=CONCLUSION: Our study shows that neural differentiation is associated with highly cell type–specific 3DG remodeling.
 19-1	4538-4548	CONCLUSION	_
 19-2	4549-4550	:	_
 19-3	4551-4554	Our	_
@@ -698,6 +717,7 @@
 19-16	4644-4654	remodeling	_
 19-17	4655-4656	.	_
 
+Text=This process is paralleled by an expansion of 3DG space associated with SZ risk.
 20-1	4657-4661	This	_
 20-2	4662-4669	process	_
 20-3	4670-4672	is	_
@@ -714,6 +734,7 @@
 20-14	4732-4736	risk	_
 20-15	4737-4738	.	_
 
+Text=Specifically, developmentally regulated chromosomal conformation changes at SZ-relevant sequences disproportionally occurred in neurons, highlighting the existence of cell type–specific disease risk vulnerabilities in spatial genome organization.
 21-1	4739-4751	Specifically	_
 21-2	4752-4753	,	_
 21-3	4754-4769	developmentally	_
@@ -744,6 +765,7 @@
 21-28	4974-4986	organization	_
 21-29	4987-4988	.	_
 
+Text=3DG remodeling across neuronal differentiation with parallel expansion of SZ risk space.
 22-1	4989-4992	3DG	_
 22-2	4993-5003	remodeling	_
 22-3	5004-5010	across	_
@@ -758,6 +780,7 @@
 22-12	5071-5076	space	_
 22-13	5077-5078	.	_
 
+Text=(Left) Chromatin conformation assays reveal pruning of short-range loops in neurons along with widening of TADs upon differentiation from NPCs.
 23-1	5079-5080	(	_
 23-2	5081-5085	Left	_
 23-3	5086-5087	)	_
@@ -782,6 +805,7 @@
 23-22	5219-5223	NPCs	_
 23-23	5224-5225	.	_
 
+Text=(Right) Cell type–specific chromatin interactions, functionally validated with CRISPR assays, expand the network of known risk-associated genes (blue circle), which show evidence for coregulation at the transcriptomic and proteomic levels.
 24-1	5226-5227	(	_
 24-2	5228-5233	Right	_
 24-3	5234-5235	)	_
@@ -821,6 +845,7 @@
 24-37	5465-5471	levels	_
 24-38	5472-5473	.	_
 
+Text=Materials and methods In situ Hi-C from hiPSC-derived cells In situ Hi-C libraries were generated from 2 million to 5 million cultured hiPSC-derived NPCs, glia, and neurons as described in without modifications in the protocol.
 25-1	5474-5483	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 25-2	5484-5487	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 25-3	5488-5495	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -860,6 +885,7 @@
 25-37	5694-5702	protocol	_
 25-38	5703-5704	.	_
 
+Text=Briefly, in situ Hi-C consists of 7 steps: (i) crosslinking cells with formaldehyde, (ii) digesting the DNA using a 4-cutter restriction enzyme (e.g., MboI) within intact permeabilized nuclei, (iii) filling in and biotinylating the resulting 5′-overhangs, (iv) ligating the blunt ends, (v) shearing the DNA, (vi) pulling down the biotinylated ligation junctions with streptavidin beads, and (vii) analyzing these fragments using paired end sequencing.
 26-1	5705-5712	Briefly	_
 26-2	5713-5714	,	_
 26-3	5715-5717	in	_
@@ -951,6 +977,7 @@
 26-89	6170-6180	sequencing	_
 26-90	6181-6182	.	_
 
+Text=As quality control (QC) steps, we checked for efficient restriction with an agarose DNA gel and for appropriate size selection in using the Agilent Bioanalyzer after steps (v) and (vi).
 27-1	6183-6185	As	_
 27-2	6186-6193	quality	_
 27-3	6194-6201	control	_
@@ -990,6 +1017,7 @@
 27-37	6373-6374	)	_
 27-38	6375-6376	.	_
 
+Text=For the final QC, we performed superficial sequencing on the Illumina MiSeq (~2–3M reads/sample) to assess quality of the libraries using metrics such as percent of reads passing filter, percent of chimeric reads, and percent of forward-reverse pairs (supplementary materials, table S1).
 28-1	6377-6380	For	_
 28-2	6381-6384	the	_
 28-3	6385-6390	final	_
@@ -1042,6 +1070,7 @@
 28-50	6670-6671	)	_
 28-51	6672-6673	.	_
 
+Text=For the forebrain directed differentiation neuronal library from subject S1, the Arima Hi-C kit (Arima Genomics, San Diego) was used according to the manufacturer ’ s instructions.
 29-1	6674-6677	For	_
 29-2	6678-6681	the	_
 29-3	6682-6691	forebrain	_
@@ -1075,6 +1104,7 @@
 29-31	6845-6857	instructions	_
 29-32	6858-6859	.	_
 
+Text=Hi-C read mapping and matrix generation The Hi-C libraries were sequenced on the Illumina HiSeq1000 platform (125bp paired-end) (New York Genome Center).
 30-1	6860-6864	Hi-C	_
 30-2	6865-6869	read	_
 30-3	6870-6877	mapping	_
@@ -1103,6 +1133,7 @@
 30-26	7015-7016	)	_
 30-27	7017-7018	.	_
 
+Text=Technical replicates of subject S2 NPCs, neurons, and glia were also sequenced to enhance resolution.
 31-1	7019-7028	Technical	_
 31-2	7029-7039	replicates	_
 31-3	7040-7042	of	_
@@ -1122,6 +1153,7 @@
 31-17	7111-7121	resolution	_
 31-18	7122-7123	.	_
 
+Text=Initial processing of the raw 2 ×125 bp read pair FASTQ files was performed using the HiC-Pro analysis pipeline.
 32-1	7124-7131	Initial	_
 32-2	7132-7142	processing	_
 32-3	7143-7145	of	_
@@ -1143,6 +1175,7 @@
 32-19	7227-7235	pipeline	_
 32-20	7236-7237	.	_
 
+Text=In brief, HiC-Pro performs four major tasks: aligning short reads, filtering for valid pairs, binning, and normalizing contact matrices.
 33-1	7238-7240	In	_
 33-2	7241-7246	brief	_
 33-3	7247-7248	,	_
@@ -1169,6 +1202,7 @@
 33-24	7370-7378	matrices	_
 33-25	7379-7380	.	_
 
+Text=HiCPro implements the truncation-based alignment strategy using Bowtie v2.2.3, mapping full reads end-to-end or the 5′ portion of reads preceding a GATCGATC ligation site that results from restriction enzyme digestion with MboI followed by end ligation.
 34-1	7381-7387	HiCPro	_
 34-2	7388-7398	implements	_
 34-3	7399-7402	the	_
@@ -1208,6 +1242,7 @@
 34-37	7626-7634	ligation	_
 34-38	7635-7636	.	_
 
+Text=Invalid interactions such as same-strand, dangling-end, self-cycle, and single-end pairs are not retained.
 35-1	7637-7644	Invalid	_
 35-2	7645-7657	interactions	_
 35-3	7658-7662	such	_
@@ -1226,6 +1261,7 @@
 35-16	7737-7745	retained	_
 35-17	7746-7747	.	_
 
+Text=Binning was performed in 10kb, 40 kb and 100 kb non-overlapping, adjacent windows across the genome and resulting contact matrices were normalized using iterative correction and eigenvector decomposition (ICE) as previously described, using HiC-Pro ’ s default settings of 100 maximum iterations, filtering of the sparse bins (lowest 2%), and a relative result increment of 0.1 before declaring convergence (http: //nservant.github.io/HiC-Pro/MANUAL.html).
 36-1	7748-7755	Binning	_
 36-2	7756-7759	was	_
 36-3	7760-7769	performed	_
@@ -1302,6 +1338,7 @@
 36-74	8215-8216	)	_
 36-75	8217-8218	.	_
 
+Text=Data are reported in browser-extensible-data-like (BED) format and visualized in the Washington University Epigenome Browser (http: //epigenomegateway.wustl.edu).
 37-1	8219-8223	Data	_
 37-2	8224-8227	are	_
 37-3	8228-8236	reported	_
@@ -1326,6 +1363,7 @@
 37-22	8384-8385	)	_
 37-23	8386-8387	.	_
 
+Text=Hierarchical clustering was performed on the ICE-corrected intrachromosomal contact matrices after the bins with the 1% most extreme interaction values were excluded as largely artifactual.
 38-1	8388-8400	Hierarchical	_
 38-2	8401-8411	clustering	_
 38-3	8412-8415	was	_
@@ -1354,6 +1392,7 @@
 38-26	8566-8577	artifactual	_
 38-27	8578-8579	.	_
 
+Text=Clustering was performed using Ward ’ s method on the 1, 5, 10, 25, 50, and 100% most variable remaining bins using (1-correlation) as a distance metric.
 39-1	8580-8590	Clustering	_
 39-2	8591-8594	was	_
 39-3	8595-8604	performed	_
@@ -1391,6 +1430,7 @@
 39-35	8734-8740	metric	_
 39-36	8741-8742	.	_
 
+Text=The results using the 10% most variable interaction bins, shown here in a cluster dendrogram and a Pearson correlation matrix, are representative of these results.
 40-1	8743-8746	The	_
 40-2	8747-8754	results	_
 40-3	8755-8760	using	_
@@ -1421,6 +1461,7 @@
 40-28	8901-8908	results	_
 40-29	8909-8910	.	_
 
+Text=Hi-C loop calls using Juicer Loop calling was performed using the software HiCCUPS.
 41-1	8911-8915	Hi-C	_
 41-2	8916-8920	loop	_
 41-3	8921-8926	calls	_
@@ -1436,6 +1477,7 @@
 41-13	8986-8993	HiCCUPS	_
 41-14	8994-8995	.	_
 
+Text=To format data for HiCCUPS input, we remapped reads from Hi-C libraries using the Juicer pipeline.
 42-1	8996-8998	To	_
 42-2	8999-9005	format	_
 42-3	9006-9010	data	_
@@ -1455,6 +1497,7 @@
 42-17	9086-9094	pipeline	_
 42-18	9095-9096	.	_
 
+Text=Similar to HiC-Pro, the Juicer pipeline performs read alignment, filtering, binning, and matrix normalization.
 43-1	9097-9104	Similar	_
 43-2	9105-9107	to	_
 43-3	9108-9115	HiC-Pro	_
@@ -1475,6 +1518,7 @@
 43-18	9197-9210	normalization	_
 43-19	9211-9212	.	_
 
+Text=Samples were pooled for each cell type (S1 and 2 technical replicates from S2) to generate the maximum amount of coverage required for accurate loop calling.
 44-1	9213-9220	Samples	_
 44-2	9221-9225	were	_
 44-3	9226-9232	pooled	_
@@ -1505,6 +1549,7 @@
 44-28	9364-9371	calling	_
 44-29	9372-9373	.	_
 
+Text=The resulting .hic matrix files (MAPQ> 0) were then used as input to HiCCUPS.
 45-1	9374-9377	The	_
 45-2	9378-9387	resulting	_
 45-3	9388-9392	.hic	_
@@ -1524,6 +1569,7 @@
 45-17	9446-9453	HiCCUPS	_
 45-18	9454-9455	.	_
 
+Text=The following parameters were set for HiCCUPS following the analysis in: FDR threshold (f) = 0.10, 0.10; peak width (p) = 4, 2; window width (i) = 7, 5; merge distance (d) = 20 kb, 20 kb.
 46-1	9456-9459	The	_
 46-2	9460-9469	following	_
 46-3	9470-9480	parameters	_
@@ -1579,6 +1625,7 @@
 46-53	9656-9658	kb	_
 46-54	9659-9660	.	_
 
+Text=Values for parameters correspond to calls made at 5kb and 10kb, respectively.
 47-1	9661-9667	Values	_
 47-2	9668-9671	for	_
 47-3	9672-9682	parameters	_
@@ -1594,6 +1641,7 @@
 47-13	9726-9738	respectively	_
 47-14	9739-9740	.	_
 
+Text=Representative neuronal and non-neuronal loops are presented in fig.
 48-1	9741-9755	Representative	_
 48-2	9756-9764	neuronal	_
 48-3	9765-9768	and	_
@@ -1605,9 +1653,11 @@
 48-9	9805-9808	fig	_
 48-10	9809-9810	.	_
 
+Text=S3.
 49-1	9811-9813	S3	_
 49-2	9814-9815	.	_
 
+Text=As the number of loops called is dependent upon the number of Hi-C contacts in the matrix, we also generated matrices with equivalent total Hi-C contacts via subsampling.
 50-1	9816-9818	As	_
 50-2	9819-9822	the	_
 50-3	9823-9829	number	_
@@ -1639,6 +1689,7 @@
 50-29	9975-9986	subsampling	_
 50-30	9987-9988	.	_
 
+Text=hiPSC-derived Hi-C interaction matrices were randomly subsampled to 372,787,143 cis only contacts (the lowest number of cis contacts across all cell types) and HiCCUPS was rerun on the subsampled matrices.
 51-1	9989-10002	hiPSC-derived	_
 51-2	10003-10007	Hi-C	_
 51-3	10008-10019	interaction	_
@@ -1673,6 +1724,7 @@
 51-32	10187-10195	matrices	_
 51-33	10196-10197	.	_
 
+Text=After loops were called for each cell type, we performed a reevaluation on this union set of loop loci.
 52-1	10198-10203	After	_
 52-2	10204-10209	loops	_
 52-3	10210-10214	were	_
@@ -1695,6 +1747,7 @@
 52-20	10297-10301	loci	_
 52-21	10302-10303	.	_
 
+Text=HiCCUPS was rerun using the union set of loop loci as input to produce q-values for each loop in the union set for every cell type.
 53-1	10304-10311	HiCCUPS	_
 53-2	10312-10315	was	_
 53-3	10316-10321	rerun	_
@@ -1723,6 +1776,7 @@
 53-26	10430-10434	type	_
 53-27	10435-10436	.	_
 
+Text=By default, HiCCUPS does not output a q-value for every pixel.
 54-1	10437-10439	By	_
 54-2	10440-10447	default	_
 54-3	10448-10449	,	_
@@ -1737,6 +1791,7 @@
 54-12	10494-10499	pixel	_
 54-13	10500-10501	.	_
 
+Text=Hence, this reevaluation produced q-values for pixels in cells that did not pass the significance threshold.
 55-1	10502-10507	Hence	_
 55-2	10508-10509	,	_
 55-3	10510-10514	this	_
@@ -1756,6 +1811,7 @@
 55-17	10601-10610	threshold	_
 55-18	10611-10612	.	_
 
+Text=We then defined any pixel from the union set with a q-value <0.10 with respect to the donut neighborhood surrounding the pixel to be a loop and defined the loop to be shared with any cell types having a q-value <0.10 for the same pixel.
 56-1	10613-10615	We	_
 56-2	10616-10620	then	_
 56-3	10621-10628	defined	_
@@ -1805,6 +1861,7 @@
 56-47	10845-10850	pixel	_
 56-48	10851-10852	.	_
 
+Text=These loop calls were used for comparing loop calls between cell types.
 57-1	10853-10858	These	_
 57-2	10859-10863	loop	_
 57-3	10864-10869	calls	_
@@ -1819,6 +1876,7 @@
 57-12	10918-10923	types	_
 57-13	10924-10925	.	_
 
+Text=Loops were also called and subsampled as above for the GM12878 cell line using the processed data from found here: www.ncbi.nlm.nih.gov/geo/query/acc.cgi? acc=GSE63525.
 58-1	10926-10931	Loops	_
 58-2	10932-10936	were	_
 58-3	10937-10941	also	_
@@ -1845,6 +1903,7 @@
 58-24	11083-11095	acc=GSE63525	_
 58-25	11096-11097	.	_
 
+Text=Loop calls were overlapped with compartment calls (supplementary materials, materials and methods), such that AA, BB, and AB refer to loops with both anchors in A, both anchors in B, and one anchor in A and other anchor in B, respectively.
 59-1	11098-11102	Loop	_
 59-2	11103-11108	calls	_
 59-3	11109-11113	were	_
@@ -1897,6 +1956,7 @@
 59-50	11333-11345	respectively	_
 59-51	11346-11347	.	_
 
+Text=Loops in chromosomes 4, 18, 19, and X were removed from this compartment analysis since the first principle component most likely corresponded to p versus q arm distinctions and not A versus B compartments.
 60-1	11348-11353	Loops	_
 60-2	11354-11356	in	_
 60-3	11357-11368	chromosomes	_
@@ -1936,6 +1996,7 @@
 60-37	11544-11556	compartments	_
 60-38	11557-11558	.	_
 
+Text=Hi-C interactions at risk loci To approach 3DG conformation in context of the disease-relevant sequences, we adapted the binomial statistics based mapping strategy previously described by Won et al ..
 61-1	11559-11563	Hi-C	_
 61-2	11564-11576	interactions	_
 61-3	11577-11579	at	_
@@ -1968,6 +2029,7 @@
 61-30	11755-11757	al	_
 61-31	11758-11760	..	_
 
+Text=The set of schizophrenia risk loci used in this study included the original (PGC2, Psychiatric Genomics Consortium) risk sequences, or 108 physically distinct association loci defined by 128 index SNPs (corrected P 10−8) and an additional 37 loci from the CLOZUK (a series of UK cases registered for clozapine treatment with a clinical diagnosis of schizophrenia) study for a total of 145 loci defined by 179 independent genome-wide significant SNPs (corrected P <5 × 10–8), determined by GWAS in 40,675 cases and 64,643 controls.
 62-1	11761-11764	The	_
 62-2	11765-11768	set	_
 62-3	11769-11771	of	_
@@ -2066,6 +2128,7 @@
 62-96	12294-12302	controls	_
 62-97	12303-12304	.	_
 
+Text=A risk locus is defined as a collection of (SNPs) existing in linkage dis-equilibrium, ranging from 1bp to 8.9Mb (average 256.2 kb) in length and in total equivalent to approximately 0.012% of human genomic sequence.
 63-1	12305-12306	A	_
 63-2	12307-12311	risk	_
 63-3	12312-12317	locus	_
@@ -2109,6 +2172,7 @@
 63-41	12518-12526	sequence	_
 63-42	12527-12528	.	_
 
+Text=To identify significantly enriched interactions involving a bin of interest with another bin, our principal approach was to first estimate the expected interaction counts for each interaction distance by calculating the mean of all intrachromosomal bin-bin interactions of the same separation distance throughout the raw intrachromosomal contact matrix.
 64-1	12529-12531	To	_
 64-2	12532-12540	identify	_
 64-3	12541-12554	significantly	_
@@ -2160,6 +2224,7 @@
 64-49	12876-12882	matrix	_
 64-50	12883-12884	.	_
 
+Text=We used the R package, HiTC, to facilitate manipulation of our HiC-Pro-produced raw contact matrices and estimation of the expected counts at various interaction distances.
 65-1	12885-12887	We	_
 65-2	12888-12892	used	_
 65-3	12893-12896	the	_
@@ -2189,6 +2254,7 @@
 65-27	13049-13058	distances	_
 65-28	13059-13060	.	_
 
+Text=The probability of observing an interaction between a bin-of-interest and another bin was then defined as the expected interaction between those two bins divided by the sum of all expected interactions between the bin-of-interest and all other intrachromosomal bins.
 66-1	13061-13064	The	_
 66-2	13065-13076	probability	_
 66-3	13077-13079	of	_
@@ -2230,6 +2296,7 @@
 66-39	13322-13326	bins	_
 66-40	13327-13328	.	_
 
+Text=A P value was then calculated as binomial probability of observing the number of interaction counts or more between the bin-of-interest and some other bin where the number of successes was defined as the observed interaction count, the number of tries as the total number of observed interactions between the bin-of-interest and all other intrachromosomal bins, and the success probability as the probability of observing the bin-bin interaction estimated from the expected mean interaction counts.
 67-1	13329-13330	A	_
 67-2	13331-13332	P	_
 67-3	13333-13338	value	_
@@ -2309,6 +2376,7 @@
 67-77	13822-13828	counts	_
 67-78	13829-13830	.	_
 
+Text=The Benjamini-Hochberg method was used to control false discovery rate (FDR) for P values determined for all interactions with a bin-of-interest (includes all bins 1Mb up and downstream in our tests).
 68-1	13831-13834	The	_
 68-2	13835-13853	Benjamini-Hochberg	_
 68-3	13854-13860	method	_
@@ -2346,6 +2414,7 @@
 68-35	14033-14034	)	_
 68-36	14035-14036	.	_
 
+Text=Generation of stable selected dCas9-VP64/VPR and Cas9 NPCs All CRISPR-based epigenomic editing assays were performed on antibiotic-selected dCas9-VP64 (VP64 as the tetrameric VP16 activator domain) and dCas9-VPR (VPR as the tripartite activator, VP64-p65-Rta) NPCs derived as described in.
 69-1	14037-14047	Generation	_
 69-2	14048-14050	of	_
 69-3	14051-14057	stable	_
@@ -2391,6 +2460,7 @@
 69-43	14328-14330	in	_
 69-44	14331-14332	.	_
 
+Text=For generation of Cas9 stable, selected NPCs, we used a plasmid of lentiCRISPR v2 gifted by Feng Zhang (Addgene plasmid #52961).
 70-1	14333-14336	For	_
 70-2	14337-14347	generation	_
 70-3	14348-14350	of	_
@@ -2419,6 +2489,7 @@
 70-26	14464-14465	)	_
 70-27	14466-14467	.	_
 
+Text=DNA sequencing with a U6 primer confirmed the identity.
 71-1	14468-14471	DNA	_
 71-2	14472-14482	sequencing	_
 71-3	14483-14487	with	_
@@ -2430,6 +2501,7 @@
 71-9	14514-14522	identity	_
 71-10	14523-14524	.	_
 
+Text=Lentiviral production and titration were performed as described previously.
 72-1	14525-14535	Lentiviral	_
 72-2	14536-14546	production	_
 72-3	14547-14550	and	_
@@ -2441,6 +2513,7 @@
 72-9	14589-14599	previously	_
 72-10	14600-14601	.	_
 
+Text=Control S1 and S2 NPCs were spinfected with lentiCRISPR v2 virus as described.
 73-1	14602-14609	Control	_
 73-2	14610-14612	S1	_
 73-3	14613-14616	and	_
@@ -2456,6 +2529,7 @@
 73-13	14670-14679	described	_
 73-14	14680-14681	.	_
 
+Text=48 hours post-transduction, cells were selected by exposure to puromycin at 0.3 μg/mL.
 74-1	14682-14684	48	_
 74-2	14685-14690	hours	_
 74-3	14691-14708	post-transduction	_
@@ -2472,6 +2546,7 @@
 74-14	14763-14768	μg/mL	_
 74-15	14769-14770	.	_
 
+Text=Without transduction, all control cells died within around 5 days after the antibiotic addition.
 75-1	14771-14778	Without	_
 75-2	14779-14791	transduction	_
 75-3	14792-14793	,	_
@@ -2489,6 +2564,7 @@
 75-15	14859-14867	addition	_
 75-16	14868-14869	.	_
 
+Text=The puromycin-selected NPCs were subject to Western blot analysis of Cas9 expression.
 76-1	14870-14873	The	_
 76-2	14874-14892	puromycin-selected	_
 76-3	14893-14897	NPCs	_
@@ -2503,6 +2579,7 @@
 76-12	14944-14954	expression	_
 76-13	14955-14956	.	_
 
+Text=30 μg of proteins were electrophoresed in NuPAGE 4–12% Bis-Tris Protein Gels (NP0323PK2, Life Technologies) in 1× MES running buffer, 200 V constant, 35 min.
 77-1	14957-14959	30	_
 77-2	14960-14962	μg	_
 77-3	14963-14965	of	_
@@ -2536,6 +2613,7 @@
 77-31	15116-15119	min	_
 77-32	15120-15121	.	_
 
+Text=Proteins were transferred onto nitrocellulose membrane (IB23002, Life Technologies) on the iBlot® 2 Dry Blotting System (program P3, 7:00 min).
 78-1	15122-15130	Proteins	_
 78-2	15131-15135	were	_
 78-3	15136-15147	transferred	_
@@ -2564,6 +2642,7 @@
 78-26	15269-15270	)	_
 78-27	15271-15272	.	_
 
+Text=The membranes were incubated with primary antibodies against Cas9 (1:250, monoclonal, clone 7A9, Millipore) and β-Actin (1:10,000, mouse, 1406030, Ambion) overnight at 4°C.
 79-1	15273-15276	The	_
 79-2	15277-15286	membranes	_
 79-3	15287-15291	were	_
@@ -2599,6 +2678,7 @@
 79-33	15451-15454	4°C	_
 79-34	15455-15456	.	_
 
+Text=Then, membranes were incubated with the IRDye-labeled secondary antibodies for 45 min at RT in the dark on the rocker.
 80-1	15457-15461	Then	_
 80-2	15462-15463	,	_
 80-3	15464-15473	membranes	_
@@ -2622,6 +2702,7 @@
 80-21	15569-15575	rocker	_
 80-22	15576-15577	.	_
 
+Text=Fluorescence was visualized using a Li-Cor Odyssey Imaging System.
 81-1	15578-15590	Fluorescence	_
 81-2	15591-15594	was	_
 81-3	15595-15605	visualized	_
@@ -2633,6 +2714,7 @@
 81-9	15637-15643	System	http://maven.renci.org/NeuroBridge/neurobridge#ReproductiveDisease
 81-10	15644-15645	.	_
 
+Text=In vitro transcription and transfection of gRNAs Guide RNAs (gRNAs) were designed on Benchling (www.benchling.com) using the CRISPR tool.
 82-1	15646-15648	In	_
 82-2	15649-15654	vitro	_
 82-3	15655-15668	transcription	_
@@ -2658,6 +2740,7 @@
 82-23	15782-15786	tool	_
 82-24	15787-15788	.	_
 
+Text=gRNAs were generated via in vitro transcription (IVT) with the GeneArt Precision gRNA Synthesis Kit (Thermo Fisher Scientific, A29377) as per manufacturer instructions.
 83-1	15789-15794	gRNAs	_
 83-2	15795-15799	were	_
 83-3	15800-15809	generated	_
@@ -2688,6 +2771,7 @@
 83-28	15949-15961	instructions	_
 83-29	15962-15963	.	_
 
+Text=Five gRNAs were designed per condition (i.e., “ loop-SNP ”, negative control, and positive control) and pooled for transfection.
 84-1	15964-15968	Five	_
 84-2	15969-15974	gRNAs	_
 84-3	15975-15979	were	_
@@ -2714,6 +2798,7 @@
 84-24	16084-16096	transfection	_
 84-25	16097-16098	.	_
 
+Text=The genomic ranges within which loop-SNP gRNAs were designed (i.e., region spanning the SNP of interest and all gRNAs in the condition) were roughly 600 bp for ASCL1, 550 bp for MATR3, 460 bp for EFNB1 (with 2/5 gRNAs directly overlapping the SNP), 300 bp for SOX2.
 85-1	16099-16102	The	_
 85-2	16103-16110	genomic	_
 85-3	16111-16117	ranges	_
@@ -2771,6 +2856,7 @@
 85-55	16367-16371	SOX2	_
 85-56	16372-16373	.	_
 
+Text=Puromycin-selected (1μg/mL in NPC media; Sigma, #P7255) dCas9-VP64 and dCas9-VPR NPCs were seeded at a density of ~400,000 per well on Matrigel-coated (BD Biosciences) 24-well plates.
 86-1	16374-16392	Puromycin-selected	_
 86-2	16393-16394	(	_
 86-3	16395-16401	1μg/mL	_
@@ -2806,6 +2892,7 @@
 86-33	16557-16563	plates	_
 86-34	16564-16565	.	_
 
+Text=Pooled IVT gRNAs (500 ng total RNA/well) and 2 μL EditPro Stem lipofectamine (MTI-GlobalStem, #GST-2174; now, ThermoFisher, STEM00003) were diluted in 50 μL Opti-MEM (Thermo Fisher Scientific, #31985062) and added dropwise to each well.
 87-1	16566-16572	Pooled	_
 87-2	16573-16576	IVT	_
 87-3	16577-16582	gRNAs	_
@@ -2855,6 +2942,7 @@
 87-47	16810-16814	well	_
 87-48	16815-16816	.	_
 
+Text=Cells were harvested with TRIzol for total RNA extraction 48 hours later.
 88-1	16817-16822	Cells	_
 88-2	16823-16827	were	_
 88-3	16828-16837	harvested	_
@@ -2869,6 +2957,7 @@
 88-12	16884-16889	later	_
 88-13	16890-16891	.	_
 
+Text=All experiments were conducted with 3 to 6 biological replicates from 1 donor (subject S1), generated in parallel, with the donor contributing isogenic dCas9-VP64 and dCas9-VPR effector cells.
 89-1	16892-16895	All	_
 89-2	16896-16907	experiments	_
 89-3	16908-16912	were	_
@@ -2903,6 +2992,7 @@
 89-32	17082-17087	cells	_
 89-33	17088-17089	.	_
 
+Text=Each data point in Fig.
 90-1	17090-17094	Each	_
 90-2	17095-17099	data	_
 90-3	17100-17105	point	_
@@ -2910,6 +3000,7 @@
 90-5	17109-17112	Fig	_
 90-6	17113-17114	.	_
 
+Text=2, D to F, represents one biological replicate within each condition.
 91-1	17115-17116	2	_
 91-2	17117-17118	,	_
 91-3	17119-17120	D	_
@@ -2925,6 +3016,7 @@
 91-13	17176-17185	condition	_
 91-14	17186-17187	.	_
 
+Text=For each target gene promoter and candidate loop, control gRNAs were strategically placed into the middle third of the (linear) genome portion bypassed by the candidate loop.
 92-1	17188-17191	For	_
 92-2	17192-17196	each	_
 92-3	17197-17203	target	_
@@ -2957,6 +3049,7 @@
 92-30	17360-17364	loop	_
 92-31	17365-17366	.	_
 
+Text=CRISPRa results were analyzed on PRISM with a one-way ANOVA across 3 conditions with a Dunnett ’ s test for multiple comparisons.
 93-1	17367-17374	CRISPRa	_
 93-2	17375-17382	results	_
 93-3	17383-17387	were	_
@@ -2981,6 +3074,7 @@
 93-22	17484-17495	comparisons	_
 93-23	17496-17497	.	_
 
+Text=Cas9 mutagenesis was also performed as described above with the exception of the negative control, which in these experiments consisted of an empty transfection (i.e., lipofectamine + Opti-MEM without any gRNA).
 94-1	17498-17502	Cas9	_
 94-2	17503-17514	mutagenesis	_
 94-3	17515-17518	was	_
@@ -3018,6 +3112,7 @@
 94-35	17711-17712	)	_
 94-36	17713-17714	.	_
 
+Text=Cas9 results were analyzed with an unpaired t test comparing the loop-SNP and negative control conditions.
 95-1	17715-17719	Cas9	_
 95-2	17720-17727	results	_
 95-3	17728-17732	were	_
@@ -3036,6 +3131,7 @@
 95-16	17810-17820	conditions	_
 95-17	17821-17822	.	_
 
+Text=RNA transcriptomic correlation heatmaps Pearson correlation coefficient matrices were calculated for gene expression in the childhood onset schizophrenia data set using R from lists of genes that are located in cell-type-specific loops anchored at schizophrenia risk loci and, as a subset of this list, sets of genes whose proteins participate in an association network for each of the three cell types (see below).
 96-1	17823-17826	RNA	_
 96-2	17827-17841	transcriptomic	_
 96-3	17842-17853	correlation	_
@@ -3105,6 +3201,7 @@
 96-67	18240-18241	)	_
 96-68	18242-18243	.	_
 
+Text=Significance was computed calculating the absolute mean correlation coefficient of each correlation matrix (“ organization score ”) as a test statistic against a null distribution generated by random gene sampling.
 97-1	18244-18256	Significance	_
 97-2	18257-18260	was	_
 97-3	18261-18269	computed	_
@@ -3139,6 +3236,7 @@
 97-32	18451-18459	sampling	_
 97-33	18460-18461	.	_
 
+Text=Randomized gene lists were drawn only from the pool of genes with over 1 count per million (CPM) in at least 30% of the experiments described in.
 98-1	18462-18472	Randomized	_
 98-2	18473-18477	gene	_
 98-3	18478-18483	lists	_
@@ -3171,6 +3269,7 @@
 98-30	18607-18609	in	_
 98-31	18610-18611	.	_
 
+Text=To generate a null distribution of organization scores for a given cell type that accounted for genomic distance and neighborhood effects, we began by randomly selecting a significant PGC interaction for that cell type (e.g., random selection from table S12).
 99-1	18612-18614	To	_
 99-2	18615-18623	generate	_
 99-3	18624-18625	a	_
@@ -3217,6 +3316,7 @@
 99-44	18873-18874	)	_
 99-45	18875-18876	.	_
 
+Text=Using the bp genomic distance of this interaction we randomly selected two 10kb bins from the genome separated by the same distance.
 100-1	18877-18882	Using	_
 100-2	18883-18886	the	_
 100-3	18887-18889	bp	_
@@ -3241,6 +3341,7 @@
 100-22	19000-19008	distance	_
 100-23	19009-19010	.	_
 
+Text=All genes overlapping these bins were then added to the list of genes with which to calculate the organization score.
 101-1	19011-19014	All	_
 101-2	19015-19020	genes	_
 101-3	19021-19032	overlapping	_
@@ -3263,6 +3364,7 @@
 101-20	19122-19127	score	_
 101-21	19128-19129	.	_
 
+Text=This process was iterated until enough genes were added to the list to match the number of genes used in the original cell-type-specific organization score.
 102-1	19130-19134	This	_
 102-2	19135-19142	process	_
 102-3	19143-19146	was	_
@@ -3290,6 +3392,7 @@
 102-25	19280-19285	score	_
 102-26	19286-19287	.	_
 
+Text=Finally, this protocol was repeated 1000 times to generate the null distribution of random organization scores.
 103-1	19288-19295	Finally	_
 103-2	19296-19297	,	_
 103-3	19298-19302	this	_
@@ -3309,6 +3412,7 @@
 103-17	19393-19399	scores	_
 103-18	19400-19401	.	_
 
+Text=This distribution was then used to calculate significance of co-regulation (i.e., P = number of times |r|avg of the null exceeded that of the test heatmap / 1000).
 104-1	19402-19406	This	_
 104-2	19407-19419	distribution	_
 104-3	19420-19423	was	_
@@ -3342,6 +3446,7 @@
 104-31	19566-19567	)	_
 104-32	19568-19569	.	_
 
+Text=Note that STRING gene network transcriptomic analyses (Fig.
 105-1	19570-19574	Note	_
 105-2	19575-19579	that	_
 105-3	19580-19586	STRING	_
@@ -3353,6 +3458,7 @@
 105-9	19626-19629	Fig	_
 105-10	19630-19631	.	_
 
+Text=4B) were performed with 1000 random permutations of genes sampled from the full schizophrenia risk connectome (i.e., risk locus + risk locus-connect genes) for each cell type.
 106-1	19632-19634	4B	_
 106-2	19635-19636	)	_
 106-3	19637-19641	were	_

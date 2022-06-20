@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=MiR-137-derived polygenic risk: effects on cognitive performance in patients with schizophrenia and controls Variants at microRNA-137 (MIR137), one of the most strongly associated schizophrenia risk loci identified to date, have been associated with poorer cognitive performance.
 1-1	0-15	MiR-137-derived	_
 1-2	16-25	polygenic	_
 1-3	26-30	risk	_
@@ -45,6 +46,7 @@
 1-41	272-283	performance	_
 1-42	284-285	.	_
 
+Text=As microRNA-137 is known to regulate the expression of ~1900 other genes, including several that are independently associated with schizophrenia, we tested whether this gene set was also associated with variation in cognitive performance.
 2-1	286-288	As	_
 2-2	289-301	microRNA-137	_
 2-3	302-304	is	_
@@ -83,6 +85,7 @@
 2-36	514-525	performance	_
 2-37	526-527	.	_
 
+Text=Our analysis was based on an empirically derived list of genes whose expression was altered by manipulation of MIR137 expression.
 3-1	528-531	Our	_
 3-2	532-540	analysis	_
 3-3	541-544	was	_
@@ -105,6 +108,7 @@
 3-20	646-656	expression	_
 3-21	657-658	.	_
 
+Text=This list was cross-referenced with genome-wide schizophrenia association data to construct individual polygenic scores.
 4-1	659-663	This	_
 4-2	664-668	list	_
 4-3	669-672	was	_
@@ -121,6 +125,7 @@
 4-14	772-778	scores	_
 4-15	779-780	.	_
 
+Text=We then tested, in a sample of 808 patients and 192 controls, whether these risk scores were associated with altered performance on cognitive functions known to be affected in schizophrenia.
 5-1	781-783	We	_
 5-2	784-788	then	_
 5-3	789-795	tested	_
@@ -155,6 +160,7 @@
 5-32	959-972	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 5-33	973-974	.	_
 
+Text=A subgroup of healthy participants also underwent functional imaging during memory (n=108) and face processing tasks (n=83).
 6-1	975-976	A	_
 6-2	977-985	subgroup	_
 6-3	986-988	of	_
@@ -178,6 +184,7 @@
 6-21	1101-1102	)	_
 6-22	1103-1104	.	_
 
+Text=Increased polygenic risk within the empirically derived miR-137 regulated gene score was associated with significantly lower performance on intelligence quotient, working memory and episodic memory.
 7-1	1105-1114	Increased	_
 7-2	1115-1124	polygenic	_
 7-3	1125-1129	risk	_
@@ -206,6 +213,7 @@
 7-26	1297-1303	memory	_
 7-27	1304-1305	.	_
 
+Text=These effects were observed most clearly at a polygenic threshold of P=0.05, although significant results were observed at all three thresholds analyzed.
 8-1	1306-1311	These	_
 8-2	1312-1319	effects	_
 8-3	1320-1324	were	_
@@ -231,6 +239,7 @@
 8-23	1451-1459	analyzed	_
 8-24	1460-1461	.	_
 
+Text=This association was found independently for the gene set as a whole, excluding the schizophrenia-associated MIR137 SNP itself.
 9-1	1462-1466	This	_
 9-2	1467-1478	association	_
 9-3	1479-1482	was	_
@@ -252,6 +261,7 @@
 9-19	1583-1589	itself	_
 9-20	1590-1591	.	_
 
+Text=Analysis of the spatial working memory fMRI task further suggested that increased risk score (thresholded at P=10−5) was significantly associated with increased activation of the right inferior occipital gyrus.
 10-1	1592-1600	Analysis	_
 10-2	1601-1603	of	_
 10-3	1604-1607	the	_
@@ -285,6 +295,7 @@
 10-31	1798-1803	gyrus	_
 10-32	1804-1805	.	_
 
+Text=In conclusion, these data are consistent with emerging evidence that MIR137 associated risk for schizophrenia may relate to its broader downstream genetic effects.
 11-1	1806-1808	In	_
 11-2	1809-1819	conclusion	_
 11-3	1820-1821	,	_
@@ -311,6 +322,7 @@
 11-24	1962-1969	effects	_
 11-25	1970-1971	.	_
 
+Text=Materials and methods Participants In total, 808 cases and 192 healthy participants completed a full neuropsychological assessment battery and had full genome-wide SNP data available.
 12-1	1972-1981	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	1982-1985	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	1986-1993	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -339,6 +351,7 @@
 12-26	2146-2155	available	_
 12-27	2156-2157	.	_
 
+Text=Cases consisted of n=585 clinically stable patients with a diagnosis of SZ and schizoaffective disorder (SZA), which we refer to as ‘ narrow-sense ’ psychosis, and an additional n=223 patients diagnosed with bipolar disorder with psychotic features, major depressive disorder with psychotic features, delusional disorder, or psychosis not otherwise specified who combined with SZ/SZA patients to form a ‘ broad-sense ’ psychosis group.
 13-1	2158-2163	Cases	_
 13-2	2164-2173	consisted	_
 13-3	2174-2176	of	_
@@ -411,6 +424,7 @@
 13-70	2594-2599	group	_
 13-71	2600-2601	.	_
 
+Text=Patients were diagnosed by trained psychiatrists using the Structured Clinical Interview for DSM-IV Axis I Diagnosis.
 14-1	2602-2610	Patients	_
 14-2	2611-2615	were	_
 14-3	2616-2625	diagnosed	_
@@ -429,6 +443,7 @@
 14-16	2709-2718	Diagnosis	_
 14-17	2719-2720	.	_
 
+Text=Inclusion criteria required participants to be clinically stable at time of cognitive assessment, aged between 18 and 65 years, no history of co-morbid psychiatric disorder, no substance abuse in the preceding 6 months, no prior head injury with loss of consciousness, no history of seizures, and with Irish ancestry (all four grandparents born in Ireland).
 15-1	2721-2730	Inclusion	_
 15-2	2731-2739	criteria	_
 15-3	2740-2748	required	_
@@ -494,6 +509,7 @@
 15-63	3084-3085	)	_
 15-64	3086-3087	.	_
 
+Text=Healthy participants were recruited from the general population through local media advertisements.
 16-1	3088-3095	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 16-2	3096-3108	participants	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 16-3	3109-3113	were	_
@@ -508,6 +524,7 @@
 16-12	3172-3186	advertisements	_
 16-13	3187-3188	.	_
 
+Text=All were aged between 18 and 65 years and had Irish-born paternal and maternal grandparents, and satisfied, on the basis of clinical interview, the criteria of having no history of major mental health problems, intellectual disability or acquired brain injury, and no substance abuse in the preceding 6 months.
 17-1	3189-3192	All	_
 17-2	3193-3197	were	_
 17-3	3198-3202	aged	_
@@ -564,6 +581,7 @@
 17-54	3497-3503	months	_
 17-55	3504-3505	.	_
 
+Text=Exclusion criteria also included having a first-degree relative with a history of psychosis.
 18-1	3506-3515	Exclusion	_
 18-2	3516-3524	criteria	_
 18-3	3525-3529	also	_
@@ -579,6 +597,7 @@
 18-13	3588-3597	psychosis	_
 18-14	3598-3599	.	_
 
+Text=All clinical and neuropsychological assessments were conducted in accordance with the relevant ethics committees ’ approval for the six sites at which this data was collected, and all participants provided written informed consent.
 19-1	3600-3603	All	_
 19-2	3604-3612	clinical	_
 19-3	3613-3616	and	_
@@ -615,6 +634,7 @@
 19-34	3824-3831	consent	_
 19-35	3832-3833	.	_
 
+Text=Cognitive assessment A full neuropsychological assessment designed to evaluate the cognitive deficits typically reported in SZ (general cognitive ability, memory function, attention, and social cognition) was administered to each participant.
 20-1	3834-3843	Cognitive	_
 20-2	3844-3854	assessment	_
 20-3	3855-3856	A	_
@@ -652,6 +672,7 @@
 20-35	4069-4080	participant	_
 20-36	4081-4082	.	_
 
+Text=Selected subtests (Vocabulary, Similarities, Block Design, and Matrix Reasoning) of the Wechsler Adult Intelligence Scale, 3rd Edition (WAIS III) were used to measure general cognitive function.
 21-1	4083-4091	Selected	_
 21-2	4092-4100	subtests	_
 21-3	4101-4102	(	_
@@ -688,6 +709,7 @@
 21-34	4276-4284	function	_
 21-35	4285-4286	.	_
 
+Text=The Logical Memory (LM) I and II and Faces I and II subtests from the Wechsler Memory Scale, 3rd Edition (WMS III) were used to assess episodic and visual memory.
 22-1	4287-4290	The	_
 22-2	4291-4298	Logical	http://maven.renci.org/NeuroBridge/neurobridge#EcologicalStudy
 22-3	4299-4305	Memory	http://maven.renci.org/NeuroBridge/neurobridge#EcologicalStudy
@@ -725,6 +747,7 @@
 22-35	4447-4453	memory	_
 22-36	4454-4455	.	_
 
+Text=Working memory was assessed using the Spatial Working Memory (SWM) subtest from the Cambridge Automated Neuropsychological Test Battery and Letter-Number Sequencing from the WMS III.
 23-1	4456-4463	Working	_
 23-2	4464-4470	memory	_
 23-3	4471-4474	was	_
@@ -754,6 +777,7 @@
 23-27	4636-4639	III	_
 23-28	4640-4641	.	_
 
+Text=Attentional control was assessed using the Continuous Performance Task (CPT) identical pairs version and the Sustained Attention to Response Task (SART).
 24-1	4642-4653	Attentional	_
 24-2	4654-4661	control	_
 24-3	4662-4665	was	_
@@ -781,6 +805,7 @@
 24-25	4797-4798	)	http://maven.renci.org/NeuroBridge/neurobridge#TreatmentResponseProgressScale
 24-26	4799-4800	.	_
 
+Text=In addition to neuropsychological assessment, this study included measures of two aspects of social cognition—theory of mind (ToM) (frequently altered among patients with SZ and previously associated with MIR137 (ref.))
 25-1	4801-4803	In	_
 25-2	4804-4812	addition	_
 25-3	4813-4815	to	_
@@ -820,11 +845,13 @@
 25-37	5025-5026	)	_
 25-38	5027-5028	)	_
 
+Text=and attributional style.
 26-1	5029-5032	and	_
 26-2	5033-5046	attributional	_
 26-3	5047-5052	style	_
 26-4	5053-5054	.	_
 
+Text=ToM is the ability to attribute mental states—beliefs, intents, desires, pretending, knowledge and so on—to oneself and others and to understand that others have beliefs, desires, intentions and perspectives that are different from one's own, and is estimated using the Reading the Mind in the Eyes Task and the Hinting Task.
 27-1	5055-5058	ToM	_
 27-2	5059-5061	is	_
 27-3	5062-5065	the	_
@@ -886,6 +913,7 @@
 27-59	5383-5387	Task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 27-60	5388-5389	.	_
 
+Text=Attributional style refers to the pervasive tendency to explain personally significant events in a particular manner.
 28-1	5390-5403	Attributional	_
 28-2	5404-5409	style	_
 28-3	5410-5416	refers	_
@@ -904,6 +932,7 @@
 28-16	5500-5506	manner	_
 28-17	5507-5508	.	_
 
+Text=Consistency in cognitive assessment was assessed across sites by an independent researcher marking a number of patients assessed at each site.
 29-1	5509-5520	Consistency	_
 29-2	5521-5523	in	_
 29-3	5524-5533	cognitive	_
@@ -927,6 +956,7 @@
 29-21	5646-5650	site	_
 29-22	5651-5652	.	_
 
+Text=Genotyping Genotyping was conducted on DNA extracted from whole blood or saliva.
 30-1	5653-5663	Genotyping	_
 30-2	5664-5674	Genotyping	_
 30-3	5675-5678	was	_
@@ -941,6 +971,7 @@
 30-12	5726-5732	saliva	_
 30-13	5733-5734	.	_
 
+Text=Full GWAS data were available for all samples.
 31-1	5735-5739	Full	_
 31-2	5740-5744	GWAS	_
 31-3	5745-5749	data	_
@@ -951,6 +982,7 @@
 31-8	5773-5780	samples	_
 31-9	5781-5782	.	_
 
+Text=A proportion of samples were genotyped with an Affymetrix 6.0 chip (Santa Clara, CA, USA; as part of the WTCCC2, referred to as Sample A) and the remainder on the Illumina HumanCoreExome chip (San Diego, CA, USA; referred to as Sample B).
 32-1	5783-5784	A	_
 32-2	5785-5795	proportion	_
 32-3	5796-5798	of	_
@@ -1006,6 +1038,7 @@
 32-53	6030-6031	)	_
 32-54	6032-6033	.	_
 
+Text=SNPs were excluded on the basis of MAF <0.1%, SNP missingness ⩽2%, and Hardy–Weinberg equilibrium P⩽10−6.
 33-1	6034-6038	SNPs	_
 33-2	6039-6043	were	_
 33-3	6044-6052	excluded	_
@@ -1029,6 +1062,7 @@
 33-21	6137-6143	P⩽10−6	_
 33-22	6144-6145	.	_
 
+Text=Imputation was carried out on these data sets separately using 1000 Genomes Phase I integrated haplotypes (Dec 2013 release) and IMPUTE2 to give ~10 million SNPs genome-wide per sample.
 34-1	6146-6156	Imputation	_
 34-2	6157-6160	was	_
 34-3	6161-6168	carried	_
@@ -1062,6 +1096,7 @@
 34-31	6326-6332	sample	_
 34-32	6333-6334	.	_
 
+Text=Polygene score We began by constructing the miR-137 downstream pathway based on the set of 1016 genes whose expression was identified as being altered by miR-137 manipulation in the study by Hill et al., 831 of these genes could be unambiguously mapped to the autosomes and this gene set was used to generate polygene scores.
 35-1	6335-6343	Polygene	_
 35-2	6344-6349	score	_
 35-3	6350-6352	We	_
@@ -1120,6 +1155,7 @@
 35-56	6654-6660	scores	_
 35-57	6661-6662	.	_
 
+Text=We then cross-referenced with unweighted P-values from the PGC2 2014 GWAS for variants within 20 kb of each gene in this set without LD-pruning (scores with and without pruning were highly correlated).
 36-1	6663-6665	We	_
 36-2	6666-6670	then	_
 36-3	6671-6687	cross-referenced	_
@@ -1156,6 +1192,7 @@
 36-34	6864-6865	)	_
 36-35	6866-6867	.	_
 
+Text=We next defined three arbitrary threshold values based on the PGC threshold values (P <10−5, P <0.05, and P <0.5) to generate three polygene risk score values for analysis.
 37-1	6868-6870	We	_
 37-2	6871-6875	next	_
 37-3	6876-6883	defined	_
@@ -1194,6 +1231,7 @@
 37-36	7038-7046	analysis	_
 37-37	7047-7048	.	_
 
+Text=Using these thresholds, 1020, 20 920 and 89 102 SNPs were included in the analysis, respectively.
 38-1	7049-7054	Using	_
 38-2	7055-7060	these	_
 38-3	7061-7071	thresholds	_
@@ -1215,6 +1253,7 @@
 38-19	7136-7148	respectively	_
 38-20	7149-7150	.	_
 
+Text=Finally, each participant was then given a weighted polygene score based on the number of risk alleles they carried within this gene list at the given gene threshold, weighted by the log of the SZ-association odds ratio from the PGC2.
 39-1	7151-7158	Finally	_
 39-2	7159-7160	,	_
 39-3	7161-7165	each	_
@@ -1259,6 +1298,7 @@
 39-42	7382-7386	PGC2	_
 39-43	7387-7388	.	_
 
+Text=Genes used in this process are found in the Supplementary Information.
 40-1	7389-7394	Genes	_
 40-2	7395-7399	used	_
 40-3	7400-7402	in	_
@@ -1272,6 +1312,7 @@
 40-11	7447-7458	Information	_
 40-12	7459-7460	.	_
 
+Text=Statistical analysis: neuropsychological tests and polygene scores Data were inspected for heteroscedasticity, and outliers, which were excluded from analysis.
 41-1	7461-7472	Statistical	_
 41-2	7473-7481	analysis	_
 41-3	7482-7483	:	_
@@ -1296,6 +1337,7 @@
 41-22	7614-7622	analysis	_
 41-23	7623-7624	.	_
 
+Text=To estimate polygene effects on cognitive deficits associated with SZ (intelligence quotient (IQ), memory, attentional control and social cognition) linear regression analyses were performed using IBM SPSS Statistics, with age and gender entered as variables of no interest, and test score as the dependent variable.
 42-1	7625-7627	To	_
 42-2	7628-7636	estimate	_
 42-3	7637-7645	polygene	_
@@ -1351,6 +1393,7 @@
 42-53	7940-7948	variable	_
 42-54	7949-7950	.	_
 
+Text=To take into account potential differences in results between Sample A and B due to the two differing genotyping platforms used, a linear regression was performed separately in each sample (those genotyped using Affymetrix and those with Illumina).
 43-1	7951-7953	To	_
 43-2	7954-7958	take	_
 43-3	7959-7963	into	_
@@ -1394,6 +1437,7 @@
 43-41	8200-8201	)	_
 43-42	8202-8203	.	_
 
+Text=Results from these were then meta-analyzed using the inverse variance method.
 44-1	8204-8211	Results	_
 44-2	8212-8216	from	_
 44-3	8217-8222	these	_
@@ -1407,6 +1451,7 @@
 44-11	8274-8280	method	_
 44-12	8281-8282	.	_
 
+Text=In the inverse variance method, the weight given to each sample is chosen to be the inverse of the variance of the effect estimate (that is, one over the square of its standard error).
 45-1	8283-8285	In	_
 45-2	8286-8289	the	_
 45-3	8290-8297	inverse	_
@@ -1447,6 +1492,7 @@
 45-38	8469-8470	)	_
 45-39	8471-8472	.	_
 
+Text=This minimizes the imprecision of the pooled effect estimate.
 46-1	8473-8477	This	_
 46-2	8478-8487	minimizes	_
 46-3	8488-8491	the	_
@@ -1458,6 +1504,7 @@
 46-9	8525-8533	estimate	_
 46-10	8534-8535	.	_
 
+Text=An estimate of sample heterogeneity and significance of such is shown in Supplementary Table 1 (I2).
 47-1	8536-8538	An	_
 47-2	8539-8547	estimate	_
 47-3	8548-8550	of	_
@@ -1478,6 +1525,7 @@
 47-18	8636-8637	)	_
 47-19	8638-8639	.	_
 
+Text=To maximize power to detect differences, we carried out our analysis on the full dataset of all cases and controls (n=1000).
 48-1	8640-8642	To	_
 48-2	8643-8651	maximize	_
 48-3	8652-8657	power	_
@@ -1504,6 +1552,7 @@
 48-24	8765-8766	)	_
 48-25	8767-8768	.	_
 
+Text=We then followed any significant results in the patient only groups (both the broad psychosis group (n=808) and narrow psychosis group (patients with SZ and schizoaffective disorder only (n=585)) to confirm the direction of effects in these groups (Supplementary Tables 2 and 3).
 49-1	8769-8771	We	_
 49-2	8772-8776	then	_
 49-3	8777-8785	followed	_
@@ -1558,6 +1607,7 @@
 49-52	9055-9056	)	_
 49-53	9057-9058	.	_
 
+Text=As the meta-analyses showed little evidence of heterogeneity of results in Sample A and B despite the differing genotype platforms, the sample was analyzed as a whole to provide an estimate of effect size provide r2 and standardized β values (Supplementary Table 4).
 50-1	9059-9061	As	_
 50-2	9062-9065	the	_
 50-3	9066-9079	meta-analyses	_
@@ -1606,6 +1656,7 @@
 50-46	9326-9327	)	_
 50-47	9328-9329	.	_
 
+Text=A post hoc power calculation estimated that n=988 has 0.88 power to detect a very conservative polygene score effect of r2=0.01, with α=0.05, although there are certain caveats to this type of calculation.
 51-1	9330-9331	A	_
 51-2	9332-9336	post	_
 51-3	9337-9340	hoc	_
@@ -1643,6 +1694,7 @@
 51-35	9525-9536	calculation	_
 51-36	9537-9538	.	_
 
+Text=Functional MRI A subgroup of the healthy participants in this study (all right handed) had also undergone functional imaging during two cognitive tasks.
 52-1	9539-9549	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 52-2	9550-9553	MRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 52-3	9554-9555	A	_
@@ -1670,6 +1722,7 @@
 52-25	9687-9692	tasks	_
 52-26	9693-9694	.	_
 
+Text=One hundred eight participants completed a spatial working memory task and 83 had completed a facial processing task, with tasks and acquisition parameters as described by us previously.
 53-1	9695-9698	One	_
 53-2	9699-9706	hundred	_
 53-3	9707-9712	eight	_
@@ -1701,6 +1754,7 @@
 53-29	9871-9881	previously	_
 53-30	9882-9883	.	_
 
+Text=The task can be summarized as follows.
 54-1	9884-9887	The	_
 54-2	9888-9892	task	_
 54-3	9893-9896	can	_
@@ -1710,6 +1764,7 @@
 54-7	9914-9921	follows	_
 54-8	9922-9923	.	_
 
+Text=Spatial working memory task This block design task was presented using Presentation software (Neurobehavioral Systems, Albany, CA, USA).
 55-1	9924-9931	Spatial	http://maven.renci.org/NeuroBridge/neurobridge#SpatialWorkingMemory
 55-2	9932-9939	working	http://maven.renci.org/NeuroBridge/neurobridge#SpatialWorkingMemory
 55-3	9940-9946	memory	http://maven.renci.org/NeuroBridge/neurobridge#SpatialWorkingMemory
@@ -1735,6 +1790,7 @@
 55-23	10063-10064	)	_
 55-24	10065-10066	.	_
 
+Text=Participants were asked if a white dot was in the same spatial location as a red circle (Supplementary Figure 1) during three conditions.
 56-1	10067-10079	Participants	_
 56-2	10080-10084	were	_
 56-3	10085-10090	asked	_
@@ -1762,6 +1818,7 @@
 56-25	10195-10205	conditions	_
 56-26	10206-10207	.	_
 
+Text=In the baseline condition the white dot and red circle both appear at the same time.
 57-1	10208-10210	In	_
 57-2	10211-10214	the	_
 57-3	10215-10223	baseline	_
@@ -1780,6 +1837,7 @@
 57-16	10287-10291	time	_
 57-17	10292-10293	.	_
 
+Text=In the 1-dot condition, the white dot and red circle are separated by a 3- s delay.
 58-1	10294-10296	In	_
 58-2	10297-10300	the	_
 58-3	10301-10306	1-dot	_
@@ -1800,6 +1858,7 @@
 58-18	10372-10377	delay	_
 58-19	10378-10379	.	_
 
+Text=Finally, in the 3-dot condition, 3 white dots and a red circle are presented, separated by a 3- s delay.
 59-1	10380-10387	Finally	_
 59-2	10388-10389	,	_
 59-3	10390-10392	in	_
@@ -1825,6 +1884,7 @@
 59-23	10481-10486	delay	_
 59-24	10487-10488	.	_
 
+Text=Task accuracy and reaction time were also measured.
 60-1	10489-10493	Task	_
 60-2	10494-10502	accuracy	_
 60-3	10503-10506	and	_
@@ -1835,6 +1895,7 @@
 60-8	10531-10539	measured	_
 60-9	10540-10541	.	_
 
+Text=Out of 108 participants, there were 3 missing this behavioral data that were excluded from fMRI analysis, and one participant was excluded due to an error with the task that caused it to run for several seconds after the scan finished.
 61-1	10542-10545	Out	_
 61-2	10546-10548	of	_
 61-3	10549-10552	108	_
@@ -1880,6 +1941,7 @@
 61-43	10770-10778	finished	_
 61-44	10779-10780	.	_
 
+Text=Two additional participants were excluded from analysis due to movement and 16 were excluded from all analysis due to low-quality MRI data.
 62-1	10781-10784	Two	_
 62-2	10785-10795	additional	_
 62-3	10796-10808	participants	_
@@ -1904,6 +1966,7 @@
 62-22	10915-10919	data	_
 62-23	10920-10921	.	_
 
+Text=This left a final sample of 86 healthy participants.
 63-1	10922-10926	This	_
 63-2	10927-10931	left	_
 63-3	10932-10933	a	_
@@ -1915,6 +1978,7 @@
 63-9	10961-10973	participants	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 63-10	10974-10975	.	_
 
+Text=The beginning of the spatial working memory task was synchronized to the first transistor-transistor logic (TTL) pulse sent from the MRI scanner at the start of the sequence.
 64-1	10976-10979	The	_
 64-2	10980-10989	beginning	_
 64-3	10990-10992	of	_
@@ -1947,6 +2011,7 @@
 64-30	11143-11151	sequence	_
 64-31	11152-11153	.	_
 
+Text=However, for a minority of participants the start of the task was not synchronized to the TTL pulse due to an experimental error; for these individuals the task was run manually at the start of the sequence.
 65-1	11154-11161	However	_
 65-2	11162-11163	,	_
 65-3	11164-11167	for	_
@@ -1988,6 +2053,7 @@
 65-39	11354-11362	sequence	_
 65-40	11363-11364	.	_
 
+Text=Due to the block design nature of this task, any small discrepancies in timing resulting from this error are unlikely to affect results.
 66-1	11365-11368	Due	_
 66-2	11369-11371	to	_
 66-3	11372-11375	the	_
@@ -2014,6 +2080,7 @@
 66-24	11494-11501	results	_
 66-25	11502-11503	.	_
 
+Text=Face processing task Developed by Grosbras et al., participants (n=83) watched a series of 2-s to 5-s black and white videos of faces, which started from a neutral expression, and then turned into an angry expression or neutral expression, interspersed with a control condition consisting of video clips of black and white concentric circles expanding and contracting.
 67-1	11504-11508	Face	_
 67-2	11509-11519	processing	_
 67-3	11520-11524	task	_
@@ -2079,6 +2146,7 @@
 67-63	11866-11877	contracting	_
 67-64	11878-11879	.	_
 
+Text=Blocks of video clips lasted 18- s, with 4–7 video clips presented per block.
 68-1	11880-11886	Blocks	_
 68-2	11887-11889	of	_
 68-3	11890-11895	video	_
@@ -2096,6 +2164,7 @@
 68-15	11952-11957	block	_
 68-16	11958-11959	.	_
 
+Text=Overall, there were 19 blocks: 5 blocks of neutral face videos, 5 blocks of angry face videos and 9 control condition blocks (every second block was a control block).
 69-1	11960-11967	Overall	_
 69-2	11968-11969	,	_
 69-3	11970-11975	there	_
@@ -2132,6 +2201,7 @@
 69-34	12129-12130	)	_
 69-35	12131-12132	.	_
 
+Text=To make sure that individuals had paid attention to the videos, they performed a face recognition test after scanning.
 70-1	12133-12135	To	_
 70-2	12136-12140	make	_
 70-3	12141-12145	sure	_
@@ -2154,6 +2224,7 @@
 70-20	12243-12251	scanning	_
 70-21	12252-12253	.	_
 
+Text=In this test, 5 stil-color pictures of faces were presented and participants were asked to determine whether these matched faces seen during the task.
 71-1	12254-12256	In	_
 71-2	12257-12261	this	_
 71-3	12262-12266	test	_
@@ -2181,6 +2252,7 @@
 71-25	12400-12404	task	_
 71-26	12405-12406	.	_
 
+Text=Six participants were excluded as they scored less than 4/5 correct answers or were missing data for the face recognition task.
 72-1	12407-12410	Six	_
 72-2	12411-12423	participants	_
 72-3	12424-12428	were	_
@@ -2204,6 +2276,7 @@
 72-21	12529-12533	task	_
 72-22	12534-12535	.	_
 
+Text=One face processing participant was excluded from analysis due to excessive movement and 5 participants were excluded due to low-quality MRI data and/or significant artefacts, resulting in a final sample of 70 participants.
 73-1	12536-12539	One	_
 73-2	12540-12544	face	_
 73-3	12545-12555	processing	_
@@ -2240,6 +2313,7 @@
 73-34	12747-12759	participants	_
 73-35	12760-12761	.	_
 
+Text=Imaging pre-processing and statistical analysis Spatial pre-processing and statistical analysis of MRI data was performed using Statistical Parametric Mapping (SPM8, revision 4290, http: //www.fil.ion.ucl.ac.uk/spm/software/spm8/) and MATLAB R2011b (v7.13; http: //www.mathworks.co.uk/).
 74-1	12762-12769	Imaging	_
 74-2	12770-12784	pre-processing	_
 74-3	12785-12788	and	_
@@ -2281,6 +2355,7 @@
 74-39	13056-13057	)	_
 74-40	13058-13059	.	_
 
+Text=Functional images were realigned to the mean functional image, normalized to MNI (Montreal Neurological Institute) space with a voxel size of 3 × 3 × 3 mm3 and smoothed using a 10 mm FWHM (full-width at half maximum) isotropic Gaussian filter.
 75-1	13060-13070	Functional	_
 75-2	13071-13077	images	_
 75-3	13078-13082	were	_
@@ -2329,6 +2404,7 @@
 75-46	13301-13307	filter	_
 75-47	13308-13309	.	_
 
+Text=After spatial pre-processing, graphical plots of the estimated time series of translations and rotations were inspected for excessive motion, which we defined as more than 3 mm translation and/or 3° rotation.
 76-1	13310-13315	After	_
 76-2	13316-13323	spatial	_
 76-3	13324-13338	pre-processing	_
@@ -2364,6 +2440,7 @@
 76-33	13511-13519	rotation	_
 76-34	13520-13521	.	_
 
+Text=For the spatial working memory task, statistical analysis was performed using a general linear model (GLM) with two contrasts: spatial working memory (1 dot and 3 dots versus baseline), and increased spatial working memory load (3 dots> 1 dot).
 77-1	13522-13525	For	_
 77-2	13526-13529	the	_
 77-3	13530-13537	spatial	_
@@ -2415,6 +2492,7 @@
 77-49	13774-13775	)	_
 77-50	13776-13777	.	_
 
+Text=For the face processing task, three task conditions (angry faces, neutral faces and baseline) and four contrasts consistent with our examination of neural activity associated with this task in SZ patients: Neutral faces versus baseline, angry faces versus baseline, all faces (angry and neutral) versus baseline, and angry faces versus neutral faces.
 78-1	13778-13781	For	_
 78-2	13782-13785	the	_
 78-3	13786-13790	face	_
@@ -2479,6 +2557,7 @@
 78-62	14132-14137	faces	_
 78-63	14138-14139	.	_
 
+Text=Participants ’ contrast maps were entered into a second-level analysis to investigate effects of MIR137 network on neural activity (multiple regression analysis with the empirically derived miR-137 regulated gene score as covariate of interest).
 79-1	14140-14152	Participants	_
 79-2	14153-14154	’	_
 79-3	14155-14163	contrast	_
@@ -2517,6 +2596,7 @@
 79-36	14385-14386	)	_
 79-37	14387-14388	.	_
 
+Text=This multiple regression analysis was performed for the empirically derived MIR137 gene score at the P=10−5, P=0.05 and P=0.5 levels.
 80-1	14389-14393	This	_
 80-2	14394-14402	multiple	_
 80-3	14403-14413	regression	_
@@ -2540,6 +2620,7 @@
 80-21	14516-14522	levels	_
 80-22	14523-14524	.	_
 
+Text=Results were examined at a P <0.001 (uncorrected) level and clusters were considered statistically significant at a P <0.05 level, family-wise error (FWE) corrected for multiple comparisons across the whole brain at the cluster level.
 81-1	14525-14532	Results	_
 81-2	14533-14537	were	_
 81-3	14538-14546	examined	_
@@ -2584,6 +2665,7 @@
 81-42	14760-14765	level	_
 81-43	14766-14767	.	_
 
+Text=For each of these clusters, MNI coordinates of significant maxima were entered into the Anatomy toolbox in SPM8 (refs) and probable anatomical regions were identified using the AllAreas_v18_MPM atlas.
 82-1	14768-14771	For	_
 82-2	14772-14776	each	_
 82-3	14777-14779	of	_

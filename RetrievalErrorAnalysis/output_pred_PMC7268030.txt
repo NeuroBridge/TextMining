@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Generalizability of machine learning for classification of schizophrenia based on resting‐state functional MRI data Abstract Machine learning has increasingly been applied to classification of schizophrenia in neuroimaging research.
 1-1	0-16	Generalizability	_
 1-2	17-19	of	_
 1-3	20-27	machine	_
@@ -32,6 +33,7 @@
 1-28	223-231	research	_
 1-29	232-233	.	_
 
+Text=However, direct replication studies and studies seeking to investigate generalizability are scarce.
 2-1	234-241	However	_
 2-2	242-243	,	_
 2-3	244-250	direct	_
@@ -47,6 +49,7 @@
 2-13	327-333	scarce	_
 2-14	334-335	.	_
 
+Text=To address these issues, we assessed within‐site and between‐site generalizability of a machine learning classification framework which achieved excellent performance in a previous study using two independent resting‐state functional magnetic resonance imaging data sets collected from different sites and scanners.
 3-1	336-338	To	_
 3-2	339-346	address	_
 3-3	347-352	these	_
@@ -90,6 +93,7 @@
 3-41	643-651	scanners	_
 3-42	652-653	.	_
 
+Text=We established within‐site generalizability of the classification framework in the main data set using cross‐validation.
 4-1	654-656	We	_
 4-2	657-668	established	_
 4-3	669-680	within‐site	_
@@ -107,6 +111,7 @@
 4-15	757-773	cross‐validation	_
 4-16	774-775	.	_
 
+Text=Then, we trained a model in the main data set and investigated between‐site generalization in the validated data set using external validation.
 5-1	776-780	Then	_
 5-2	781-782	,	_
 5-3	783-785	we	_
@@ -132,6 +137,7 @@
 5-23	909-919	validation	_
 5-24	920-921	.	_
 
+Text=Finally, recognizing the poor between‐site generalization performance, we updated the unsupervised algorithm to investigate if transfer learning using additional unlabeled data were able to improve between‐site classification performance.
 6-1	922-929	Finally	_
 6-2	930-931	,	_
 6-3	932-943	recognizing	_
@@ -164,6 +170,7 @@
 6-30	1150-1161	performance	_
 6-31	1162-1163	.	_
 
+Text=Cross‐validation showed that the published classification procedure achieved an accuracy of 0.73 using majority voting across all selected components.
 7-1	1164-1180	Cross‐validation	_
 7-2	1181-1187	showed	_
 7-3	1188-1192	that	_
@@ -185,6 +192,7 @@
 7-19	1303-1313	components	_
 7-20	1314-1315	.	_
 
+Text=External validation found a classification accuracy of 0.55 (not significant) and 0.70 (significant) using the direct and transfer learning procedures, respectively.
 8-1	1316-1324	External	_
 8-2	1325-1335	validation	_
 8-3	1336-1341	found	_
@@ -213,6 +221,7 @@
 8-26	1473-1485	respectively	_
 8-27	1486-1487	.	_
 
+Text=The failure of direct generalization from one site to another demonstrates the limitation of within‐site cross‐validation and points toward the need to incorporate efforts to facilitate application of machine learning across multiple data sets.
 9-1	1488-1491	The	_
 9-2	1492-1499	failure	_
 9-3	1500-1502	of	_
@@ -249,6 +258,7 @@
 9-34	1727-1731	sets	_
 9-35	1732-1733	.	_
 
+Text=The improvement in performance with transfer learning highlights the importance of taking into account the properties of data when constructing predictive models across samples and sites.
 10-1	1734-1737	The	_
 10-2	1738-1749	improvement	_
 10-3	1750-1752	in	_
@@ -277,6 +287,7 @@
 10-26	1915-1920	sites	_
 10-27	1921-1922	.	_
 
+Text=Our findings suggest that machine learning classification result based on a single study should be interpreted cautiously.
 11-1	1923-1926	Our	_
 11-2	1927-1935	findings	_
 11-3	1936-1943	suggest	_
@@ -296,6 +307,7 @@
 11-17	2034-2044	cautiously	_
 11-18	2045-2046	.	_
 
+Text=METHODS Participants Two data sets of patients with schizophrenia and healthy controls were included in this study.
 12-1	2047-2054	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 12-2	2055-2067	Participants	_
 12-3	2068-2071	Two	_
@@ -315,6 +327,7 @@
 12-17	2156-2161	study	_
 12-18	2162-2163	.	_
 
+Text=In the main data set, 51 patients with schizophrenia and 51 healthy controls were recruited (Table 2).
 13-1	2164-2166	In	_
 13-2	2167-2170	the	_
 13-3	2171-2175	main	_
@@ -337,6 +350,7 @@
 13-20	2267-2268	)	_
 13-21	2269-2270	.	_
 
+Text=Schizophrenia patients were recruited from the Community Health Service Centre of the Institute of Mental Health (the sixth Affiliated Hospital of Peking University) in the Haidian District of Beijing, China.
 14-1	2271-2284	Schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-2	2285-2293	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-3	2294-2298	were	_
@@ -372,6 +386,7 @@
 14-33	2476-2481	China	_
 14-34	2482-2483	.	_
 
+Text=In the validated data set, 34 patients with schizophrenia and 27 healthy controls were recruited (Table 2).
 15-1	2484-2486	In	_
 15-2	2487-2490	the	_
 15-3	2491-2500	validated	_
@@ -394,6 +409,7 @@
 15-20	2592-2593	)	_
 15-21	2594-2595	.	_
 
+Text=The patients with schizophrenia were recruited from the Changsha Psychiatric Hospital, Changsha, Hunan province, China.
 16-1	2596-2599	The	_
 16-2	2600-2608	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 16-3	2609-2613	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -414,6 +430,7 @@
 16-18	2712-2717	China	_
 16-19	2718-2719	.	_
 
+Text=The diagnosis of schizophrenia was ascertained with the Structural Clinical Interview for the Diagnostic and Statistical Manual of Mental Disorders (DSM‐IV), Fourth Edition (Frances, 1994).
 17-1	2720-2723	The	_
 17-2	2724-2733	diagnosis	_
 17-3	2734-2736	of	_
@@ -447,6 +464,7 @@
 17-31	2913-2914	)	_
 17-32	2915-2916	.	_
 
+Text=The Positive and Negative Syndrome Scale (PANSS) (Kay, Fiszbein, & Opler, 1987) was used to assess the severity of schizophrenia symptoms.
 18-1	2917-2920	The	_
 18-2	2921-2929	Positive	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 18-3	2930-2933	and	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
@@ -477,6 +495,7 @@
 18-28	3053-3061	symptoms	_
 18-29	3062-3063	.	_
 
+Text=Both the clinical assessment and the diagnostic interviews were conducted by experienced psychiatrists.
 19-1	3064-3068	Both	_
 19-2	3069-3072	the	_
 19-3	3073-3081	clinical	_
@@ -492,6 +511,7 @@
 19-13	3153-3166	psychiatrists	_
 19-14	3167-3168	.	_
 
+Text=All patients were taking antipsychotic medications.
 20-1	3169-3172	All	_
 20-2	3173-3181	patients	_
 20-3	3182-3186	were	_
@@ -500,6 +520,7 @@
 20-6	3208-3219	medications	_
 20-7	3220-3221	.	_
 
+Text=Healthy controls were recruited from the local community via advertisements.
 21-1	3222-3229	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 21-2	3230-3238	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 21-3	3239-3243	were	_
@@ -512,6 +533,7 @@
 21-10	3283-3297	advertisements	_
 21-11	3298-3299	.	_
 
+Text=They had no personal and family history of mental disorders.
 22-1	3300-3304	They	_
 22-2	3305-3308	had	_
 22-3	3309-3311	no	_
@@ -524,6 +546,7 @@
 22-10	3350-3359	disorders	_
 22-11	3360-3361	.	_
 
+Text=Participants with neurological disorders, substance abuse, and/or dependence or head injuries were excluded.
 23-1	3362-3374	Participants	_
 23-2	3375-3379	with	_
 23-3	3380-3392	neurological	_
@@ -541,6 +564,7 @@
 23-15	3463-3471	excluded	_
 23-16	3472-3473	.	_
 
+Text=The short form of the Chinese version of the Wechsler Adult Intelligence Scale (Gong, 1992) was used to estimate the IQ of all participants.
 24-1	3474-3477	The	_
 24-2	3478-3483	short	_
 24-3	3484-3488	form	_
@@ -570,6 +594,7 @@
 24-27	3604-3616	participants	_
 24-28	3617-3618	.	_
 
+Text=In addition, independent sample t tests were conducted to compare age, length of education and estimated IQ between the two healthy control groups (Table 3), and the same were conducted to compare onset age, duration of illness and severity of psychotic symptoms between the two patient groups.
 25-1	3619-3621	In	_
 25-2	3622-3630	addition	_
 25-3	3631-3632	,	_
@@ -625,6 +650,7 @@
 25-53	3912-3918	groups	_
 25-54	3919-3920	.	_
 
+Text=Chi‐square tests were also used to compare the gender proportion between the two healthy control groups and the two clinical groups.
 26-1	3921-3931	Chi‐square	_
 26-2	3932-3937	tests	_
 26-3	3938-3942	were	_
@@ -648,6 +674,7 @@
 26-21	4046-4052	groups	_
 26-22	4053-4054	.	_
 
+Text=Finally, a five‐factor model of the PANSS (Anderson et al., 2017; Lindenmayer, Grochowski, & Hyman, 1995) comprising negative, positive, disorganized, excited, and anxiety symptom domains was computed and compared between the two clinical groups (Table 3).
 27-1	4055-4062	Finally	_
 27-2	4063-4064	,	_
 27-3	4065-4066	a	_
@@ -700,6 +727,7 @@
 27-50	4323-4324	)	_
 27-51	4325-4326	.	_
 
+Text=The study was approved by the Ethics Committee of the Institute of Psychology, the Chinese Academy of Sciences.
 28-1	4327-4330	The	_
 28-2	4331-4336	study	_
 28-3	4337-4340	was	_
@@ -721,6 +749,7 @@
 28-19	4430-4438	Sciences	_
 28-20	4439-4440	.	_
 
+Text=All participants gave written informed consent.
 29-1	4441-4444	All	_
 29-2	4445-4457	participants	_
 29-3	4458-4462	gave	_
@@ -729,6 +758,7 @@
 29-6	4480-4487	consent	_
 29-7	4488-4489	.	_
 
+Text=Image acquisition For the main data set, all participants were scanned in a 3‐T Siemens Tim Trio scanner at the Chaoyang Hospital, Beijing, China.
 30-1	4490-4495	Image	_
 30-2	4496-4507	acquisition	_
 30-3	4508-4511	For	_
@@ -758,6 +788,7 @@
 30-27	4633-4638	China	_
 30-28	4639-4640	.	_
 
+Text=The rsfMRI data were collected by an echo‐planar imaging (EPI) sequence utilizing gradient echo.
 31-1	4641-4644	The	_
 31-2	4645-4651	rsfMRI	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 31-3	4652-4656	data	_
@@ -776,6 +807,7 @@
 31-16	4734-4738	echo	_
 31-17	4739-4740	.	_
 
+Text=Slices were acquired in interleaved order and the data consisted of 200 whole‐brain volumes (repetition time (TR) = 2,500 ms, echo time (TE) = 21 ms, flip angle = 90°, slice number = 42, slice thickness = 3.5 mm, matrix size = 64 × 64, field of view (FOV) = 200 mm, and voxel size = 3.1 × 3.1 × 3.5 mm3).
 32-1	4741-4747	Slices	_
 32-2	4748-4752	were	_
 32-3	4753-4761	acquired	_
@@ -855,6 +887,7 @@
 32-77	5058-5059	)	_
 32-78	5060-5061	.	_
 
+Text=T1‐weighted structural image data were collected for anatomical reference using a 3D magnetization‐prepared rapid gradient‐echo (MPRAGE) sequence (TR = 2,530 ms, TE = 2.34 ms, flip angle = 7°, FOV = 256 mm, slice thickness = 1 mm, slice number = 176, in‐plane matrix resolution = 256 × 256, and voxel size = 1 × 1 × 1 mm3).
 33-1	5062-5073	T1‐weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 33-2	5074-5084	structural	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 33-3	5085-5090	image	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -927,6 +960,7 @@
 33-70	5394-5395	)	_
 33-71	5396-5397	.	_
 
+Text=For the validated data set, all participants were scanned in a 3‐T Siemens TIM Trio scanner in the Hunan Provincial People's Hospital, Changsha, Hunan province, China.
 34-1	5398-5401	For	_
 34-2	5402-5405	the	_
 34-3	5406-5415	validated	_
@@ -960,6 +994,7 @@
 34-31	5564-5569	China	_
 34-32	5570-5571	.	_
 
+Text=The rsfMRI data were collected by an EPI sequence utilizing gradient echo.
 35-1	5572-5575	The	_
 35-2	5576-5582	rsfMRI	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 35-3	5583-5587	data	_
@@ -974,6 +1009,7 @@
 35-12	5641-5645	echo	_
 35-13	5646-5647	.	_
 
+Text=Slices were acquired in interleaved order and the data consisted of 180 whole‐brain volumes (TR = 2,000 ms, TE = 25 ms, flip angle = 80°, slice number = 32, slice thickness = 4.5 mm, matrix size = 64 × 64, FOV = 240 mm, and voxel size = 3.75 × 3.75 × 4.5 mm3).
 36-1	5648-5654	Slices	_
 36-2	5655-5659	were	_
 36-3	5660-5668	acquired	_
@@ -1040,6 +1076,7 @@
 36-64	5915-5916	)	_
 36-65	5917-5918	.	_
 
+Text=T1‐weighted structural image data were collected using a 3D MPRAGE sequence (TR = 2,000 ms, TE = 2.26 ms, flip angle = 8°, FOV = 256 mm, slice thickness = 1 mm, slice number = 176, in‐plane matrix resolution = 256 × 256, and voxel size = 1 × 1 × 1 mm3).
 37-1	5919-5930	T1‐weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 37-2	5931-5941	structural	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 37-3	5942-5947	image	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1104,6 +1141,7 @@
 37-62	6179-6180	)	_
 37-63	6181-6182	.	_
 
+Text=While participants were in the scanner, they were asked to remain as stationary as possible and their heads were stabilized with foam pads.
 38-1	6183-6188	While	_
 38-2	6189-6201	participants	_
 38-3	6202-6206	were	_
@@ -1130,6 +1168,7 @@
 38-24	6318-6322	pads	_
 38-25	6323-6324	.	_
 
+Text=Data preprocessing Image preprocessing was conducted with the Statistical Parameter Mapping (SPM) software (SPM12; http: //www.fil.ion.ucl.ac.uk/spm/software/spm12), Data Processing Assistant for Resting‐State fMRI (DPARSF) Software (DPARSF4.3; http: //rfmri.org/DPARSF), and a plugin‐in for SPM named Temporal Filter (http: //www.brain-fmri.com/tempfilter) (Madsen, Krohne, Cai, Wang, & Chan, 2018).
 39-1	6325-6329	Data	_
 39-2	6330-6343	preprocessing	_
 39-3	6344-6349	Image	_
@@ -1200,6 +1239,7 @@
 39-68	6747-6748	)	_
 39-69	6749-6750	.	_
 
+Text=The two data sets were preprocessed separately with the same steps.
 40-1	6751-6754	The	_
 40-2	6755-6758	two	_
 40-3	6759-6763	data	_
@@ -1213,6 +1253,7 @@
 40-11	6812-6817	steps	_
 40-12	6818-6819	.	_
 
+Text=To avoid T1 relaxation effects prior to equilibrium, the first five volumes of each resting state scan were excluded.
 41-1	6820-6822	To	_
 41-2	6823-6828	avoid	_
 41-3	6829-6831	T1	_
@@ -1235,6 +1276,7 @@
 41-20	6929-6937	excluded	_
 41-21	6938-6939	.	_
 
+Text=Then, the remaining volumes for each of the functional imaging sessions were processed using DPARSF, including slice timing, realignment, and coregistration to the structural images.
 42-1	6940-6944	Then	_
 42-2	6945-6946	,	_
 42-3	6947-6950	the	_
@@ -1266,6 +1308,7 @@
 42-29	7119-7125	images	_
 42-30	7126-7127	.	_
 
+Text=Mean frame‐wise displacement (FD) was calculated (Power, Barnes, Snyder, Schlaggar, & Petersen, 2012) for each participant.
 43-1	7128-7132	Mean	_
 43-2	7133-7143	frame‐wise	_
 43-3	7144-7156	displacement	_
@@ -1293,6 +1336,7 @@
 43-25	7248-7259	participant	_
 43-26	7260-7261	.	_
 
+Text=The percentage of time points with mean FD power> 0.5 was lower than 10% for all participants.
 44-1	7262-7265	The	_
 44-2	7266-7276	percentage	_
 44-3	7277-7279	of	_
@@ -1314,6 +1358,7 @@
 44-19	7345-7357	participants	_
 44-20	7358-7359	.	_
 
+Text=In order to remove nonstationary signals and other artifacts, the temporal filter toolbox (Madsen et al., 2018) was used.
 45-1	7360-7362	In	_
 45-2	7363-7368	order	_
 45-3	7369-7371	to	_
@@ -1339,6 +1384,7 @@
 45-23	7480-7484	used	_
 45-24	7485-7486	.	_
 
+Text=Processing steps included: despiking (Patel et al., 2014), high‐pass filtering and removal of low‐frequency drifts and motion by a 24‐parameter autoregressive model using realignment regressors and scrubbing (using a 1 mm relative movement threshold and a 1% DVARS threshold (Power et al., 2012)) (Friston, Williams, Howard, Frackowiak, & Turner, 1996).
 46-1	7487-7497	Processing	_
 46-2	7498-7503	steps	_
 46-3	7504-7512	included	_
@@ -1409,6 +1455,7 @@
 46-68	7856-7857	)	_
 46-69	7858-7859	.	_
 
+Text=Subsequently, spatial normalization with DARTEL was adopted to normalize the functional images into Montreal Neurological Institute (MNI) space (Ashburner, 2009) in SPM12.
 47-1	7860-7872	Subsequently	_
 47-2	7873-7874	,	_
 47-3	7875-7882	spatial	_
@@ -1439,6 +1486,7 @@
 47-28	8031-8036	SPM12	_
 47-29	8037-8038	.	_
 
+Text=Finally, an 8‐mm full‐width‐at‐half‐maximum isotropic Gaussian kernel was used to smooth the functional images (Table 5).
 48-1	8039-8046	Finally	_
 48-2	8047-8048	,	_
 48-3	8049-8051	an	_
@@ -1460,6 +1508,7 @@
 48-19	8161-8162	)	_
 48-20	8163-8164	.	_
 
+Text=Machine learning analysis After preprocessing, further machine learning analysis was conducted (see Figure 1 for the analysis flowchart).
 49-1	8165-8172	Machine	_
 49-2	8173-8181	learning	_
 49-3	8182-8190	analysis	_
@@ -1483,6 +1532,7 @@
 49-21	8303-8304	)	_
 49-22	8305-8306	.	_
 
+Text=To assess generalizability by internal validation, we followed the procedures from Du et al.
 50-1	8307-8309	To	_
 50-2	8310-8316	assess	_
 50-3	8317-8333	generalizability	_
@@ -1500,6 +1550,7 @@
 50-15	8397-8399	al	_
 50-16	8400-8401	.	_
 
+Text=(2012) in the main data set.
 51-1	8402-8403	(	_
 51-2	8404-8408	2012	_
 51-3	8409-8410	)	_
@@ -1510,6 +1561,7 @@
 51-8	8428-8431	set	_
 51-9	8432-8433	.	_
 
+Text=To assess between‐site generalizability by external validation, the predictive model built in the main data set was directly applied to the validated data set.
 52-1	8434-8436	To	_
 52-2	8437-8443	assess	_
 52-3	8444-8456	between‐site	_
@@ -1537,6 +1589,7 @@
 52-25	8590-8593	set	_
 52-26	8594-8595	.	_
 
+Text=To establish transfer learning and to explore factors influencing between‐site generalizability, the unsupervised group independent component analysis (ICA) step was updated based on the two data sets and the between‐site generalizability was estimated again.
 53-1	8596-8598	To	_
 53-2	8599-8608	establish	_
 53-3	8609-8617	transfer	_
@@ -1576,6 +1629,7 @@
 53-37	8852-8857	again	_
 53-38	8858-8859	.	_
 
+Text=In general, the machine learning framework consisted of the following steps: (a) extracting and selecting the spatial components (features) for all participants; (b) identification of features with significant differences using a two‐sample t test with thresholding; (c) kernel principal component analysis (PCA); (d) Fisher linear discriminant (FLD) analysis on individual components; and (e) majority voting across components.
 54-1	8860-8862	In	_
 54-2	8863-8870	general	_
 54-3	8871-8872	,	_
@@ -1657,6 +1711,7 @@
 54-79	9299-9309	components	_
 54-80	9310-9311	.	_
 
+Text=Assessing within‐site generalizability Components originating from artifacts, motion, and respiratory/cardiac cycles, which were identified by considering how much regions known to be associated with these signals were represented in the components.
 55-1	9312-9321	Assessing	_
 55-2	9322-9333	within‐site	_
 55-3	9334-9350	generalizability	_
@@ -1693,6 +1748,7 @@
 55-34	9553-9563	components	_
 55-35	9564-9565	.	_
 
+Text=This included edges (motion, respiration), major arteries or veins, the circle of Willis, and the sagittal sinus (cardiac cycle) as well as regions in the vicinity of field inhomogeneity (movement by field inhomogeneity interaction effects).
 56-1	9566-9570	This	_
 56-2	9571-9579	included	_
 56-3	9580-9585	edges	_
@@ -1740,12 +1796,14 @@
 56-45	9815-9816	)	_
 56-46	9817-9818	.	_
 
+Text=Components consisting of ventricles.
 57-1	9819-9829	Components	_
 57-2	9830-9840	consisting	_
 57-3	9841-9843	of	_
 57-4	9844-9854	ventricles	_
 57-5	9855-9856	.	_
 
+Text=Components that showed low and widespread activation.
 58-1	9857-9867	Components	_
 58-2	9868-9872	that	_
 58-3	9873-9879	showed	_
@@ -1755,6 +1813,7 @@
 58-7	9899-9909	activation	_
 58-8	9910-9911	.	_
 
+Text=In feature extraction and selection, spatial group ICA was first run based on the entire main data set.
 59-1	9912-9914	In	_
 59-2	9915-9922	feature	_
 59-3	9923-9933	extraction	_
@@ -1776,6 +1835,7 @@
 59-19	10012-10015	set	_
 59-20	10016-10017	.	_
 
+Text=Data for all participants were concatenated across time.
 60-1	10018-10022	Data	_
 60-2	10023-10026	for	_
 60-3	10027-10030	all	_
@@ -1786,6 +1846,7 @@
 60-8	10069-10073	time	_
 60-9	10074-10075	.	_
 
+Text=Then, PCA was used to reduce the data into 40 principal components at the participant level.
 61-1	10076-10080	Then	_
 61-2	10081-10082	,	_
 61-3	10083-10086	PCA	_
@@ -1805,6 +1866,7 @@
 61-17	10163-10168	level	_
 61-18	10169-10170	.	_
 
+Text=Afterward, ICA was performed to extract 30 independent spatial components based on the resulting data from the PCA at the group level.
 62-1	10171-10180	Afterward	_
 62-2	10181-10182	,	_
 62-3	10183-10186	ICA	_
@@ -1830,6 +1892,7 @@
 62-23	10300-10305	level	_
 62-24	10306-10307	.	_
 
+Text=The analysis of spatial group ICA employed Infomax ICA (Bell & Sejnowski, 1995) in the GIFT software package for MATLAB (GIFT, 2011).
 63-1	10308-10311	The	_
 63-2	10312-10320	analysis	_
 63-3	10321-10323	of	_
@@ -1860,6 +1923,7 @@
 63-28	10445-10446	)	_
 63-29	10447-10448	.	_
 
+Text=Second, the 16 spatial components were selected manually according to the exclusion criteria below: This step provided a template of spatial components to establish correspondence of components in the subsequent LOO ICA analysis.
 64-1	10449-10455	Second	_
 64-2	10456-10457	,	_
 64-3	10458-10461	the	_
@@ -1897,6 +1961,7 @@
 64-35	10671-10679	analysis	_
 64-36	10680-10681	.	_
 
+Text=Then, LOO cross‐validation was used to separate the data into a test set (one participant) and a training set (the remaining sample) and group ICA was performed for the training data.
 65-1	10682-10686	Then	_
 65-2	10687-10688	,	_
 65-3	10689-10692	LOO	_
@@ -1935,6 +2000,7 @@
 65-36	10865-10869	data	_
 65-37	10870-10871	.	_
 
+Text=In order to identify individual subject components, spatial–temporal reconstruction (Nickerson, Smith, Öngür, & Beckmann, 2017) based on the ICA model was used to obtain the spatial components for each participant in both the test and training data.
 66-1	10872-10874	In	_
 66-2	10875-10880	order	_
 66-3	10881-10883	to	_
@@ -1981,6 +2047,7 @@
 66-44	11123-11127	data	_
 66-45	11128-11129	.	_
 
+Text=A matching procedure based on correlation with the template of spatial components was used to establish component correspondence between the LOO splits.
 67-1	11130-11131	A	_
 67-2	11132-11140	matching	_
 67-3	11141-11150	procedure	_
@@ -2005,6 +2072,7 @@
 67-22	11275-11281	splits	_
 67-23	11282-11283	.	_
 
+Text=Then, a voxel‐wise two‐sample t test between the two groups for the training data was conducted to order the voxel in terms of their t‐test value/significance to obtain maximally discriminative features.
 68-1	11284-11288	Then	_
 68-2	11289-11290	,	_
 68-3	11291-11292	a	_
@@ -2039,6 +2107,7 @@
 68-32	11479-11487	features	_
 68-33	11488-11489	.	_
 
+Text=Only voxels with t values larger than a threshold t 0 proceeded to the next step.
 69-1	11490-11494	Only	_
 69-2	11495-11501	voxels	_
 69-3	11502-11506	with	_
@@ -2057,6 +2126,7 @@
 69-16	11566-11570	step	_
 69-17	11571-11572	.	_
 
+Text=The threshold t 0 was determined such that the class separation in the final FLD step was maximal within the training data set.
 70-1	11573-11576	The	_
 70-2	11577-11586	threshold	_
 70-3	11587-11588	t	_
@@ -2082,6 +2152,7 @@
 70-23	11696-11699	set	_
 70-24	11700-11701	.	_
 
+Text=When the final threshold value (t 0) was determined, the threshold was applied to the test data.
 71-1	11702-11706	When	_
 71-2	11707-11710	the	_
 71-3	11711-11716	final	_
@@ -2104,6 +2175,7 @@
 71-20	11796-11800	data	_
 71-21	11801-11802	.	_
 
+Text=Subsequently, the spatial components for the test and training data were decomposed by kernel PCA.
 72-1	11803-11815	Subsequently	_
 72-2	11816-11817	,	_
 72-3	11818-11821	the	_
@@ -2122,6 +2194,7 @@
 72-16	11898-11901	PCA	_
 72-17	11902-11903	.	_
 
+Text=Finally, the test and training data were projected to one dimension by Fisher's linear discriminant analysis (LDA) to make a final prediction of the test label.
 73-1	11904-11911	Finally	_
 73-2	11912-11913	,	_
 73-3	11914-11917	the	_
@@ -2154,6 +2227,7 @@
 73-30	12062-12067	label	_
 73-31	12068-12069	.	_
 
+Text=After feature extraction and selection, classification was done for each of the 16 components independently and then combined by majority voting to make a final decision on the classification of each test sample.
 74-1	12070-12075	After	_
 74-2	12076-12083	feature	_
 74-3	12084-12094	extraction	_
@@ -2190,6 +2264,7 @@
 74-34	12276-12282	sample	_
 74-35	12283-12284	.	_
 
+Text=The classification procedure in Du et al.
 75-1	12285-12288	The	_
 75-2	12289-12303	classification	_
 75-3	12304-12313	procedure	_
@@ -2199,6 +2274,7 @@
 75-7	12323-12325	al	_
 75-8	12326-12327	.	_
 
+Text='s (2012) study also reported the classification rates for combinations of components that achieved a high accuracy.
 76-1	12328-12330	's	_
 76-2	12331-12332	(	_
 76-3	12333-12337	2012	_
@@ -2220,6 +2296,7 @@
 76-19	12437-12445	accuracy	_
 76-20	12446-12447	.	_
 
+Text=However, as this selection procedure might lead to biased classification rates, we only considered classification results based on majority voting across all selected components in the present study.
 77-1	12448-12455	However	_
 77-2	12456-12457	,	_
 77-3	12458-12460	as	_
@@ -2252,6 +2329,7 @@
 77-30	12643-12648	study	_
 77-31	12649-12650	.	_
 
+Text=Assessing between‐site generalizability To assess between‐site generalizability by external validation, the template of spatial components which was used to select features in assessing within‐site generalizability was applied to the validated set of rsfMRI data.
 78-1	12651-12660	Assessing	_
 78-2	12661-12673	between‐site	_
 78-3	12674-12690	generalizability	_
@@ -2289,6 +2367,7 @@
 78-35	12910-12914	data	_
 78-36	12915-12916	.	_
 
+Text=The spatial components for each participant in the validated data set were obtained through spatial–temporal reconstruction based on the template which was built from the main data set.
 79-1	12917-12920	The	_
 79-2	12921-12928	spatial	_
 79-3	12929-12939	components	_
@@ -2319,6 +2398,7 @@
 79-28	13098-13101	set	_
 79-29	13102-13103	.	_
 
+Text=In this setting, determination of the threshold t 0, kernel PCA and training of the LDA classifier considered only the main data set (training set), and hence the identified classification model was directly applied to the validated data set without any adaptation.
 80-1	13104-13106	In	_
 80-2	13107-13111	this	_
 80-3	13112-13119	setting	_
@@ -2368,6 +2448,7 @@
 80-47	13363-13373	adaptation	_
 80-48	13374-13375	.	_
 
+Text=Apart from changing the LOO cross‐validation to cross‐sample validation, all classification parameters and procedures remained identical.
 81-1	13376-13381	Apart	_
 81-2	13382-13386	from	_
 81-3	13387-13395	changing	_
@@ -2387,6 +2468,7 @@
 81-17	13504-13513	identical	_
 81-18	13514-13515	.	_
 
+Text=To further explore factors influencing between‐site generalizability, we updated the ICA step to consider data from both sites.
 82-1	13516-13518	To	_
 82-2	13519-13526	further	_
 82-3	13527-13534	explore	_
@@ -2408,6 +2490,7 @@
 82-19	13638-13643	sites	_
 82-20	13644-13645	.	_
 
+Text=To achieve this, we identified 30 spatially independent components across both data sets using group ICA and established correspondence to the template components from the within‐site generalization procedure using spatial correlation.
 83-1	13646-13648	To	_
 83-2	13649-13656	achieve	_
 83-3	13657-13661	this	_
@@ -2442,6 +2525,7 @@
 83-32	13870-13881	correlation	_
 83-33	13882-13883	.	_
 
+Text=The matching procedure involved calculating the pairwise spatial correlation between all 30 estimated components and the 16 template components.
 84-1	13884-13887	The	_
 84-2	13888-13896	matching	_
 84-3	13897-13906	procedure	_
@@ -2463,6 +2547,7 @@
 84-19	14017-14027	components	_
 84-20	14028-14029	.	_
 
+Text=Then, pairs of components that exhibited the highest absolute correlation were sequentially matched to identify all 16 components in the joint data set.
 85-1	14030-14034	Then	_
 85-2	14035-14036	,	_
 85-3	14037-14042	pairs	_
@@ -2489,6 +2574,7 @@
 85-24	14179-14182	set	_
 85-25	14183-14184	.	_
 
+Text=After this matching procedure, the components were visually inspected to confirm that they represented the same brain regions as the template.
 86-1	14185-14190	After	_
 86-2	14191-14195	this	_
 86-3	14196-14204	matching	_
@@ -2513,6 +2599,7 @@
 86-22	14319-14327	template	_
 86-23	14328-14329	.	_
 
+Text=Importantly, in this setting, the validated data set was only considered in the training of the group ICA model and hence no label information from the validated data set was used in feature extraction or fitting of the classification model.
 87-1	14330-14341	Importantly	_
 87-2	14342-14343	,	_
 87-3	14344-14346	in	_
@@ -2557,6 +2644,7 @@
 87-42	14567-14572	model	_
 87-43	14573-14574	.	_
 
+Text=Apart from the different templates of spatial components, the classification procedure was identical to the within‐site generalization setting.
 88-1	14575-14580	Apart	_
 88-2	14581-14585	from	_
 88-3	14586-14589	the	_
@@ -2578,6 +2666,7 @@
 88-19	14711-14718	setting	_
 88-20	14719-14720	.	_
 
+Text=The significance of the classification performance was assessed using a random permutation test in all settings where an empirical null distribution was obtained by applying an identical classification procedure to the data with permutated class labels.
 89-1	14721-14724	The	_
 89-2	14725-14737	significance	_
 89-3	14738-14740	of	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Disrupted Network Cross Talk, Hippocampal Dysfunction and Hallucinations in Schizophrenia Hallucinations characterize schizophrenia, with approximately 59% of patients reporting auditory hallucinations and 27% reporting visual hallucinations.
 1-1	0-9	Disrupted	_
 1-2	10-17	Network	_
 1-3	18-23	Cross	_
@@ -34,6 +35,7 @@
 1-30	231-245	hallucinations	_
 1-31	246-247	.	_
 
+Text=Prior neuroimaging studies suggest that hallucinations are linked to disrupted communication across distributed (sensory, salience-monitoring and subcortical) networks.
 2-1	248-253	Prior	_
 2-2	254-266	neuroimaging	_
 2-3	267-274	studies	_
@@ -57,6 +59,7 @@
 2-21	410-418	networks	_
 2-22	419-420	.	_
 
+Text=Yet, our understanding of the neurophysiological mechanisms that underlie auditory and visual hallucinations in schizophrenia remains limited.
 3-1	421-424	Yet	_
 3-2	425-426	,	_
 3-3	427-430	our	_
@@ -77,6 +80,7 @@
 3-18	556-563	limited	_
 3-19	564-565	.	_
 
+Text=This study integrates two resting-state functional magnetic resonance imaging (fMRI) analysis methods – amplitudes of low-frequency fluctuations (ALFF) and functional network connectivity (FNC) – to explore the hypotheses that (1) abnormal FNC between salience and sensory (visual/auditory) networks underlies hallucinations in schizophrenia, and (2) disrupted hippocampal oscillations (as measured by hippocampal ALFF) beget changes in FNC linked to hallucinations.
 4-1	566-570	This	_
 4-2	571-576	study	_
 4-3	577-587	integrates	_
@@ -153,6 +157,7 @@
 4-74	1032-1046	hallucinations	_
 4-75	1047-1048	.	_
 
+Text=Our first hypothesis was supported by the finding that schizophrenia patients reporting hallucinations have higher FNC between the salience network and an associative auditory network relative to healthy controls.
 5-1	1049-1052	Our	_
 5-2	1053-1058	first	_
 5-3	1059-1069	hypothesis	_
@@ -184,6 +189,7 @@
 5-29	1253-1261	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 5-30	1262-1263	.	_
 
+Text=Hippocampal ALFF was negatively associated with FNC between primary auditory cortex and the salience network in healthy subjects, but was positively associated with FNC between these networks in patients reporting hallucinations.
 6-1	1264-1275	Hippocampal	_
 6-2	1276-1280	ALFF	_
 6-3	1281-1284	was	_
@@ -218,6 +224,7 @@
 6-32	1479-1493	hallucinations	_
 6-33	1494-1495	.	_
 
+Text=These findings provide indirect support favoring our second hypothesis.
 7-1	1496-1501	These	_
 7-2	1502-1510	findings	_
 7-3	1511-1518	provide	_
@@ -229,6 +236,7 @@
 7-9	1556-1566	hypothesis	_
 7-10	1567-1568	.	_
 
+Text=We suggest future studies integrate fMRI with electroencephalogram (EEG) and/or magnetoencephalogram (MEG) methods to directly probe the temporal relation between altered hippocampal oscillations and changes in cross-network functional communication.
 8-1	1569-1571	We	_
 8-2	1572-1579	suggest	_
 8-3	1580-1586	future	_
@@ -264,9 +272,11 @@
 8-33	1809-1822	communication	_
 8-34	1823-1824	.	_
 
+Text=2.
 9-1	1825-1826	2	_
 9-2	1827-1828	.	_
 
+Text=Experimental materials and methods 2.1.
 10-1	1829-1841	Experimental	_
 10-2	1842-1851	materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1852-1855	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -274,6 +284,7 @@
 10-5	1864-1867	2.1	_
 10-6	1868-1869	.	_
 
+Text=Subjects We analyzed 294 resting-state fMRI scans from the Functional Biomedical Informatics Research Network (FBIRN) dataset.
 11-1	1870-1878	Subjects	_
 11-2	1879-1881	We	_
 11-3	1882-1890	analyzed	_
@@ -294,6 +305,7 @@
 11-18	1990-1997	dataset	_
 11-19	1998-1999	.	_
 
+Text=Schizophrenia patients (n=141) and HC (n=153) were matched for age, reported gender, and handedness (Table 1).
 12-1	2000-2013	Schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 12-2	2014-2022	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 12-3	2023-2024	(	_
@@ -320,6 +332,7 @@
 12-24	2116-2117	)	_
 12-25	2118-2119	.	_
 
+Text=Raw imaging data were collected from six sites; written informed consent was obtained from all participants.
 13-1	2120-2123	Raw	_
 13-2	2124-2131	imaging	_
 13-3	2132-2136	data	_
@@ -339,6 +352,7 @@
 13-17	2216-2228	participants	_
 13-18	2229-2230	.	_
 
+Text=The consent process was approved by University of California Irvine, University of California San Francisco, Duke University/ University of North Carolina, University of New Mexico, University of Iowa, and University of Minnesota Institutional Review Boards.
 14-1	2231-2234	The	_
 14-2	2235-2242	consent	_
 14-3	2243-2250	process	_
@@ -381,6 +395,7 @@
 14-40	2487-2493	Boards	_
 14-41	2494-2495	.	_
 
+Text=All recruited study participants were between the ages of 18 and 62.
 15-1	2496-2499	All	_
 15-2	2500-2509	recruited	_
 15-3	2510-2515	study	_
@@ -395,6 +410,7 @@
 15-12	2561-2563	62	_
 15-13	2564-2565	.	_
 
+Text=All Sz subjects were diagnosed with schizophrenia or schizoaffective disorder by experienced clinicians using the Structural Clinical Interview for DSM-IV-TR Axis I Disorders.
 16-1	2566-2569	All	_
 16-2	2570-2572	Sz	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 16-3	2573-2581	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -420,6 +436,7 @@
 16-23	2731-2740	Disorders	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 16-24	2741-2742	.	_
 
+Text=Patients were either stable on antipsychotic medication or unmedicated (only 8 out of the 143 Sz subjects were not taking antipsychotic medication at the time of the study).
 17-1	2743-2751	Patients	_
 17-2	2752-2756	were	_
 17-3	2757-2763	either	_
@@ -452,6 +469,7 @@
 17-30	2916-2917	)	_
 17-31	2918-2919	.	_
 
+Text=Healthy controls with a first-degree relative with an Axis I disorder or a history of major psychiatric illness were excluded.
 18-1	2920-2927	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 18-2	2928-2936	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 18-3	2937-2941	with	_
@@ -474,6 +492,7 @@
 18-20	3037-3045	excluded	_
 18-21	3046-3047	.	_
 
+Text=Exclusion for all participants included history of major medical illness, insufficient eyesight to see with normal acuity with MRI compatible corrective lenses, contraindications for MRI, drug dependence in the last five years or a current substance abuse disorder, an intelligence quotient less than 75.
 19-1	3048-3057	Exclusion	_
 19-2	3058-3061	for	_
 19-3	3062-3065	all	_
@@ -524,6 +543,7 @@
 19-48	3353-3355	75	_
 19-49	3356-3357	.	_
 
+Text=The present study draws from the FBIRN Phase III study (see).
 20-1	3358-3361	The	_
 20-2	3362-3369	present	_
 20-3	3370-3375	study	_
@@ -539,6 +559,7 @@
 20-13	3419-3420	)	_
 20-14	3421-3422	.	_
 
+Text=Multiple behavioral/symptom assessments were performed as part of the FBIRN Phase III study including the Scale for the Assessment of Positive Symptoms (SAPS) and the Scale for the Assessment of Negative Symptoms (SANS).
 21-1	3423-3431	Multiple	_
 21-2	3432-3450	behavioral/symptom	_
 21-3	3451-3462	assessments	_
@@ -578,6 +599,7 @@
 21-37	3645-3646	)	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofNegativeSymptoms
 21-38	3647-3648	.	_
 
+Text=The protocol required that symptom assessment ratings be completed within one month of scanning.
 22-1	3649-3652	The	_
 22-2	3653-3661	protocol	_
 22-3	3662-3670	required	_
@@ -594,6 +616,7 @@
 22-14	3736-3744	scanning	_
 22-15	3745-3746	.	_
 
+Text=For a detailed description of the multi-phase FBIRN project including subject characteristics, imaging parameters, and behavior assessments see.
 23-1	3747-3750	For	_
 23-2	3751-3752	a	_
 23-3	3753-3761	detailed	_
@@ -616,9 +639,11 @@
 23-20	3889-3892	see	_
 23-21	3893-3894	.	_
 
+Text=2.2.
 24-1	3895-3898	2.2	_
 24-2	3899-3900	.	_
 
+Text=Grouping of Participants We used the same clinical subgroup sorting strategy used previously in and.
 25-1	3901-3909	Grouping	_
 25-2	3910-3912	of	_
 25-3	3913-3925	Participants	_
@@ -636,6 +661,7 @@
 25-15	3997-4000	and	_
 25-16	4001-4002	.	_
 
+Text=Sorting of the 141 Sz into clinical subgroups was achieved by evaluating responses to two SAPS items.
 26-1	4003-4010	Sorting	_
 26-2	4011-4013	of	_
 26-3	4014-4017	the	_
@@ -655,6 +681,7 @@
 26-17	4098-4103	items	_
 26-18	4104-4105	.	_
 
+Text=Item #1 asks if the participant “ reports voices, noises, or other sounds that no one else hears, ” while Item #6 asks if he/she “ sees shapes or people that are not actually present. ” Each item is scored using a 1 to 5 rating scale (0 = not present; 1 = questionable; 2 = mild; 3 = moderate; 4 = marked; 5 = severe).
 27-1	4106-4110	Item	_
 27-2	4111-4112	#	_
 27-3	4113-4114	1	_
@@ -735,6 +762,7 @@
 27-78	4434-4435	)	_
 27-79	4436-4437	.	_
 
+Text=The AH (but not VH) group (n = 42) had SAPS Item #1 scores> 1 and SAPS Item #6 scores of zero.
 28-1	4438-4441	The	_
 28-2	4442-4444	AH	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 28-3	4445-4446	(	_
@@ -766,6 +794,7 @@
 28-29	4534-4538	zero	_
 28-30	4539-4540	.	_
 
+Text=The non-hallucinator group (NH, n = 60) scored zero for both items, while the VH group (n = 39) had SAPS Item #6 scores> 1.
 29-1	4541-4544	The	_
 29-2	4545-4561	non-hallucinator	_
 29-3	4562-4567	group	_
@@ -801,6 +830,7 @@
 29-33	4670-4671	1	_
 29-34	4672-4673	.	_
 
+Text=Due to prevalence of AH in Sz, all but two of the participants in the VH subgroup also reported AH (95%).
 30-1	4674-4677	Due	_
 30-2	4678-4680	to	_
 30-3	4681-4691	prevalence	_
@@ -828,6 +858,7 @@
 30-25	4781-4782	)	_
 30-26	4783-4784	.	_
 
+Text=For a subset of analyses, the VH and AH subgroups were pooled to form a hallucinating (HALL) subgroup reporting AH, VH or both.
 31-1	4785-4788	For	_
 31-2	4789-4790	a	_
 31-3	4791-4797	subset	_
@@ -857,9 +888,11 @@
 31-27	4911-4915	both	_
 31-28	4916-4917	.	_
 
+Text=2.3.
 32-1	4918-4921	2.3	_
 32-2	4922-4923	.	_
 
+Text=Imaging Data were acquired using five 3T Siemens TIM Trio scanners and one 3T GE MR750 scanner using an AC-PC aligned echo-planar imaging pulse sequence (TR/TE 2 s/30 ms, flip angle 77°, 32 slices collected sequentially from superior to inferior, 3.4 × 3.4 × 4 mm with mm gap, 162 frames, 5:24 mins) to obtain T2 * -weighted images.
 33-1	4924-4931	Imaging	_
 33-2	4932-4936	Data	_
 33-3	4937-4941	were	_
@@ -928,6 +961,7 @@
 33-66	5256-5262	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 33-67	5263-5264	.	_
 
+Text=Subjects were instructed to lie in the scanner with eyes closed.
 34-1	5265-5273	Subjects	_
 34-2	5274-5278	were	_
 34-3	5279-5289	instructed	_
@@ -941,9 +975,11 @@
 34-11	5322-5328	closed	_
 34-12	5329-5330	.	_
 
+Text=2.4.
 35-1	5331-5334	2.4	_
 35-2	5335-5336	.	_
 
+Text=Data Processing Pre-processing was performed using the Data Processing Assistant for Resting-State fMRI (DPARSF) toolbox which runs with the REST software.
 36-1	5337-5341	Data	_
 36-2	5342-5352	Processing	_
 36-3	5353-5367	Pre-processing	_
@@ -969,6 +1005,7 @@
 36-23	5485-5493	software	_
 36-24	5494-5495	.	_
 
+Text=The first two time frames were removed to allow for signal stabilization.
 37-1	5496-5499	The	_
 37-2	5500-5505	first	_
 37-3	5506-5509	two	_
@@ -983,6 +1020,7 @@
 37-12	5555-5568	stabilization	_
 37-13	5569-5570	.	_
 
+Text=Raw data underwent motion correction to the first image, slice-timing correction to the middle slice, normalization to MNI space, and spatial smoothing with an 8 FWHM Gaussian kernel.
 38-1	5571-5574	Raw	_
 38-2	5575-5579	data	_
 38-3	5580-5589	underwent	_
@@ -1016,6 +1054,7 @@
 38-31	5750-5756	kernel	_
 38-32	5757-5758	.	_
 
+Text=Framewise displacement was calculated for each image; framewise displacement differentiates head realignment parameters across frames and generates a 6-dimensional times series that represents instantaneous head motion.
 39-1	5759-5768	Framewise	_
 39-2	5769-5781	displacement	_
 39-3	5782-5785	was	_
@@ -1045,6 +1084,7 @@
 39-27	5972-5978	motion	_
 39-28	5979-5980	.	_
 
+Text=To correct for confounding effects of head motion on the fMRI signal, we included mean framewise displacement as a subject-level covariate.
 40-1	5981-5983	To	_
 40-2	5984-5991	correct	_
 40-3	5992-5995	for	_
@@ -1069,9 +1109,11 @@
 40-22	6111-6120	covariate	_
 40-23	6121-6122	.	_
 
+Text=2.5.
 41-1	6123-6126	2.5	_
 41-2	6127-6128	.	_
 
+Text=Group Spatial Independent Component Analysis We performed spatial group ICA using GIFT software.
 42-1	6129-6134	Group	_
 42-2	6135-6142	Spatial	_
 42-3	6143-6154	Independent	_
@@ -1087,6 +1129,7 @@
 42-13	6216-6224	software	_
 42-14	6225-6226	.	_
 
+Text=One hundred independent component networks were obtained from the group principal component analysis matrix using the Infomax algorithm.
 43-1	6227-6230	One	_
 43-2	6231-6238	hundred	_
 43-3	6239-6250	independent	_
@@ -1107,6 +1150,7 @@
 43-18	6353-6362	algorithm	_
 43-19	6363-6364	.	_
 
+Text=The ICA algorithm was repeated twenty times in ICASSO and the most central result was used to ensure stability of estimation.
 44-1	6365-6368	The	_
 44-2	6369-6372	ICA	_
 44-3	6373-6382	algorithm	_
@@ -1130,6 +1174,7 @@
 44-21	6479-6489	estimation	_
 44-22	6490-6491	.	_
 
+Text=Subject-specific spatial maps and time courses were obtained using back reconstruction implemented in GIFT.
 45-1	6492-6508	Subject-specific	_
 45-2	6509-6516	spatial	_
 45-3	6517-6521	maps	_
@@ -1146,6 +1191,7 @@
 45-14	6594-6598	GIFT	_
 45-15	6599-6600	.	_
 
+Text=We examined z-transformed spatial maps thresholded at z> 3 to identify artifactual RSNs (e.g.
 46-1	6601-6603	We	_
 46-2	6604-6612	examined	_
 46-3	6613-6626	z-transformed	_
@@ -1164,6 +1210,7 @@
 46-16	6692-6695	e.g	_
 46-17	6696-6697	.	_
 
+Text=“ ringing ” motion artifacts, spatial maps with peak signal arising from CSF/white matter).
 47-1	6698-6699	“	_
 47-2	6700-6707	ringing	_
 47-3	6708-6709	”	_
@@ -1182,6 +1229,7 @@
 47-16	6789-6790	)	_
 47-17	6791-6792	.	_
 
+Text=Using the method proposed by, we discarded components with poor low frequency/high frequency power ratios, and those with stability quotients <0.85.
 48-1	6793-6798	Using	_
 48-2	6799-6802	the	_
 48-3	6803-6809	method	_
@@ -1208,6 +1256,7 @@
 48-24	6939-6943	0.85	_
 48-25	6944-6945	.	_
 
+Text=From the remaining RSNs, nine networks of interest were selected: two visual RSNS, two auditory RSNs, SN, anterior DMN, posterior DMN, bilateral putamen, and bilateral hippocampus (Figure 1, Table 2).
 49-1	6946-6950	From	_
 49-2	6951-6954	the	_
 49-3	6955-6964	remaining	_
@@ -1251,6 +1300,7 @@
 49-41	7155-7156	)	_
 49-42	7157-7158	.	_
 
+Text=Subject timecourses were detrended and despiked, then filtered with a high frequency cutoff of 0.15 Hz prior to computing FNC correlations; FNC correlations are defined as the pairwise correlations between network time courses.
 50-1	7159-7166	Subject	_
 50-2	7167-7178	timecourses	_
 50-3	7179-7183	were	_
@@ -1288,6 +1338,7 @@
 50-35	7380-7387	courses	_
 50-36	7388-7389	.	_
 
+Text=For all FNC analyses, FNC correlations were transformed to z-scores using Fisher ’ s transformation.
 51-1	7390-7393	For	_
 51-2	7394-7397	all	_
 51-3	7398-7401	FNC	_
@@ -1306,14 +1357,17 @@
 51-16	7476-7490	transformation	_
 51-17	7491-7492	.	_
 
+Text=2.6.
 52-1	7493-7496	2.6	_
 52-2	7497-7498	.	_
 
+Text=Statistical Analyses 2.6.1.
 53-1	7499-7510	Statistical	_
 53-2	7511-7519	Analyses	_
 53-3	7520-7525	2.6.1	_
 53-4	7526-7527	.	_
 
+Text=Group Differences We performed a two-sample t-test (HC vs. Sz) to explore FNC correlations associated with Sz diagnosis.
 54-1	7528-7533	Group	_
 54-2	7534-7545	Differences	_
 54-3	7546-7548	We	_
@@ -1336,6 +1390,7 @@
 54-20	7640-7649	diagnosis	_
 54-21	7650-7651	.	_
 
+Text=We examined changes in FNC associated with the general trait to experience hallucinations (AH, VH or both) with a three-group level ANCOVA (HALL, NH, HC); FNC associated with modality-specific hallucinations was explored using a four-group level ANCOVA (VH, AH, NH, HC).
 55-1	7652-7654	We	_
 55-2	7655-7663	examined	_
 55-3	7664-7671	changes	_
@@ -1392,6 +1447,7 @@
 55-54	7933-7934	)	_
 55-55	7935-7936	.	_
 
+Text=Age, scanning site, gender, and mean framewise displacement were included as covariates.
 56-1	7937-7940	Age	_
 56-2	7941-7942	,	_
 56-3	7943-7951	scanning	_
@@ -1409,6 +1465,7 @@
 56-15	8017-8027	covariates	_
 56-16	8028-8029	.	_
 
+Text=Statistical significance was a priori specified as p <0.05 using a false discovery rate (FDR) correction for multiple comparisons.
 57-1	8030-8041	Statistical	_
 57-2	8042-8054	significance	_
 57-3	8055-8058	was	_
@@ -1433,9 +1490,11 @@
 57-22	8151-8162	comparisons	_
 57-23	8163-8164	.	_
 
+Text=2.6.2.
 58-1	8165-8170	2.6.2	_
 58-2	8171-8172	.	_
 
+Text=Symptom Severity & FNC: Regression Analyses To test the hypothesis that abnormal FNC between salience and sensory networks underlies modality-specific hallucinations, we performed linear regression analyses of FNC.
 59-1	8173-8180	Symptom	_
 59-2	8181-8189	Severity	_
 59-3	8190-8191	&	_
@@ -1468,6 +1527,7 @@
 59-30	8385-8388	FNC	_
 59-31	8389-8390	.	_
 
+Text=To ensure that observed associations between AH/VH severity and FNC were not driven or influenced by confounding factors, we modeled effects of nuisance covariates (age, gender, and mean framewise displacement; scanning site was dummy coded and modeled as a random effect).
 60-1	8391-8393	To	_
 60-2	8394-8400	ensure	_
 60-3	8401-8405	that	_
@@ -1517,6 +1577,7 @@
 60-47	8668-8669	)	_
 60-48	8670-8671	.	_
 
+Text=Since nicotine use is 2–3 times higher in Sz than in the healthy population, and has been shown to significantly impact brain functional connectivity, we examined Spearman correlations between FNC and smoking status (factor with three levels: “ never smoker ”, “ ex-smoker ”, “ current smoker ”) in our sample of 294 subjects.
 61-1	8672-8677	Since	_
 61-2	8678-8686	nicotine	_
 61-3	8687-8690	use	_
@@ -1580,6 +1641,7 @@
 61-61	8996-9004	subjects	_
 61-62	9005-9006	.	_
 
+Text=These analyses revealed a significant association between smoking status and SN-STG (BA 22) FNC (rho = −0.244, p <0.01), so smoking status was included as an additional covariate.
 62-1	9007-9012	These	_
 62-2	9013-9021	analyses	_
 62-3	9022-9030	revealed	_
@@ -1617,6 +1679,7 @@
 62-35	9183-9192	covariate	_
 62-36	9193-9194	.	_
 
+Text=To confirm that observed effects of VH/AH severity on FNC were not driven by confounding effects of antipsychotic medication, we performed post-hoc regression analyses of FNC, including total chlorpromazine equivalents as an additional covariate.
 63-1	9195-9197	To	_
 63-2	9198-9205	confirm	_
 63-3	9206-9210	that	_
@@ -1655,6 +1718,7 @@
 63-36	9433-9442	covariate	_
 63-37	9443-9444	.	_
 
+Text=We lacked information to derive chlorpromazine equivalents for 18 Sz subjects, so the mean value of total chlorpromazine equivalents was calculated (based on the available data), and interpolated for those subjects with missing data.
 64-1	9445-9447	We	_
 64-2	9448-9454	lacked	_
 64-3	9455-9466	information	_
@@ -1695,6 +1759,7 @@
 64-38	9677-9681	data	_
 64-39	9682-9683	.	_
 
+Text=For all analyses, confidence was specified as p <0.05.
 65-1	9684-9687	For	_
 65-2	9688-9691	all	_
 65-3	9692-9700	analyses	_
@@ -1708,6 +1773,7 @@
 65-11	9735-9739	0.05	_
 65-12	9740-9741	.	_
 
+Text=2.6.3 Hippocampal ALFF & FNC: Regression Analyses Voxelwise mean ALFF maps were computed for each subject using REST software as described in The left hippocampal cluster that showed significant ALFF variation across VH vs. AH subgroups in, was saved as a binary mask.
 66-1	9742-9747	2.6.3	_
 66-2	9748-9759	Hippocampal	_
 66-3	9760-9764	ALFF	_
@@ -1755,6 +1821,7 @@
 66-45	10007-10011	mask	_
 66-46	10012-10013	.	_
 
+Text=Subject-specific weighted ALFF averages within this cluster were derived from the 294 ALFF maps using SPM ’ s MARSBAR utility.
 67-1	10014-10030	Subject-specific	_
 67-2	10031-10039	weighted	_
 67-3	10040-10044	ALFF	_
@@ -1777,6 +1844,7 @@
 67-20	10132-10139	utility	_
 67-21	10140-10141	.	_
 
+Text=We calculated the relationship between these subject-specific hippocampal ALFF averages and FNC to explore whether the nature and/or strength of ALFF-FNC relationships are different in Sz vs. HC.
 68-1	10142-10144	We	_
 68-2	10145-10155	calculated	_
 68-3	10156-10159	the	_
@@ -1807,6 +1875,7 @@
 68-28	10334-10336	HC	_
 68-29	10337-10338	.	_
 
+Text=Only FNC correlations that were significantly different across Sz and HC in the group analysis were examined in these ALFF-FNC regression analyses.
 69-1	10339-10343	Only	_
 69-2	10344-10347	FNC	_
 69-3	10348-10360	correlations	_
@@ -1831,6 +1900,7 @@
 69-22	10477-10485	analyses	_
 69-23	10486-10487	.	_
 
+Text=First, we examined potential ALFF x diagnosis interactions in a linear regression analysis.
 70-1	10488-10493	First	_
 70-2	10494-10495	,	_
 70-3	10496-10498	we	_
@@ -1847,6 +1917,7 @@
 70-14	10571-10579	analysis	_
 70-15	10580-10581	.	_
 
+Text=Age, gender, mean framewise displacement, and smoking status were included as covariates; scanning site was modeled as a random effect.
 71-1	10582-10585	Age	_
 71-2	10586-10587	,	_
 71-3	10588-10594	gender	_
@@ -1873,6 +1944,7 @@
 71-24	10714-10720	effect	_
 71-25	10721-10722	.	_
 
+Text=To further probe whether the nature and/or strength of ALFF-FNC relationships are different in Sz vs. HC, we explored ALFF-FNC associations in separate analyses of HC and Sz.
 72-1	10723-10725	To	_
 72-2	10726-10733	further	_
 72-3	10734-10739	probe	_
@@ -1904,6 +1976,7 @@
 72-29	10895-10897	Sz	_
 72-30	10898-10899	.	_
 
+Text=We modeled effects of hippocampal ALFF on FNC, controlling for confounding influences on FNC (age, gender, mean framewise displacement, smoking status, and random effects of scanning site) in the linear model.
 73-1	10900-10902	We	_
 73-2	10903-10910	modeled	_
 73-3	10911-10918	effects	_
@@ -1944,6 +2017,7 @@
 73-38	11110-11115	model	_
 73-39	11116-11117	.	_
 
+Text=Separate regression analyses were performed in HALL and NH to address the question of whether abnormal ALFF-FNC associations are observed in Sz reporting hallucinations exclusively or were also observed in NH patients.
 74-1	11118-11126	Separate	_
 74-2	11127-11137	regression	_
 74-3	11138-11146	analyses	_
@@ -1978,6 +2052,7 @@
 74-32	11327-11335	patients	_
 74-33	11336-11337	.	_
 
+Text=We confirmed that observed associations between hippocampal ALFF and FNC were not driven by confounding effects of antipsychotic medication by performing post-hoc regression analyses, including total chlorpromazine equivalents as an additional covariate.
 75-1	11338-11340	We	_
 75-2	11341-11350	confirmed	_
 75-3	11351-11355	that	_
@@ -2013,6 +2088,7 @@
 75-33	11583-11592	covariate	_
 75-34	11593-11594	.	_
 
+Text=Confidence was specified as p <0.05.
 76-1	11595-11605	Confidence	_
 76-2	11606-11609	was	_
 76-3	11610-11619	specified	_

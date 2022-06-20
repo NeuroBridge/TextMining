@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=White matter changes in treatment refractory schizophrenia: Does cognitive control and myelination matter?
 1-1	0-5	White	_
 1-2	6-12	matter	_
 1-3	13-20	changes	_
@@ -18,6 +19,7 @@
 1-14	100-106	matter	_
 1-15	107-108	?	_
 
+Text=Widespread white matter abnormalities have been reported in schizophrenia, a disorder frequently characterised as a dysconnection syndrome.
 2-1	109-119	Widespread	_
 2-2	120-125	white	_
 2-3	126-132	matter	_
@@ -38,6 +40,7 @@
 2-18	240-248	syndrome	_
 2-19	249-250	.	_
 
+Text=White matter connectivity in schizophrenia has been predominantly investigated using diffusion weighted imaging, with reductions in fractional anisotropy throughout the brain often interpreted as an indicator of abnormal myelination.
 3-1	251-256	White	_
 3-2	257-263	matter	_
 3-3	264-276	connectivity	_
@@ -70,6 +73,7 @@
 3-30	473-484	myelination	_
 3-31	485-486	.	_
 
+Text=However, diffusion weighted imaging lacks specificity and as such a number of microstructural factors besides myelin may be contributing to these results.
 4-1	487-494	However	_
 4-2	495-496	,	_
 4-3	497-506	diffusion	http://maven.renci.org/NeuroBridge/neurobridge#DiffusionWeightedImaging
@@ -95,6 +99,7 @@
 4-23	634-641	results	_
 4-24	642-643	.	_
 
+Text=We utilised multicomponent driven equilibrium single pulse observation of T1 and T2 (mcDESPOT) in medicated patients with chronic schizophrenia, stratified by treatment response status, and healthy controls, in order to assess myelin water fraction (MWF) in these groups.
 5-1	644-646	We	_
 5-2	647-655	utilised	_
 5-3	656-670	multicomponent	_
@@ -142,6 +147,7 @@
 5-45	915-921	groups	_
 5-46	922-923	.	_
 
+Text=In addition, we assessed cognitive control using the Stroop task to investigate how response inhibition relates to myelination in patients and controls.
 6-1	924-926	In	_
 6-2	927-935	addition	_
 6-3	936-937	,	_
@@ -167,6 +173,7 @@
 6-23	1068-1076	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 6-24	1077-1078	.	_
 
+Text=Both treatment resistant (n = 22) and treatment responsive (n = 21) patients showed reduced MWF compared to healthy controls (n = 24) in bilateral fronto-occipital fasciculi, particularly evident in the vicinity of the striatum und extending to the cerebellum, with no difference between patient groups.
 7-1	1079-1083	Both	_
 7-2	1084-1093	treatment	_
 7-3	1094-1103	resistant	_
@@ -223,6 +230,7 @@
 7-54	1383-1389	groups	_
 7-55	1390-1391	.	_
 
+Text=Patients showed greater reaction time interference on the Stroop task compared to healthy controls, with no difference between patient groups.
 8-1	1392-1400	Patients	_
 8-2	1401-1407	showed	_
 8-3	1408-1415	greater	_
@@ -246,6 +254,7 @@
 8-21	1528-1534	groups	_
 8-22	1535-1536	.	_
 
+Text=Stroop interference was significantly negatively correlated with MWF in the corpus callosum across groups, and MWF differences in this region mediated the behavioural group effects on the Stroop task.
 9-1	1537-1543	Stroop	_
 9-2	1544-1556	interference	_
 9-3	1557-1560	was	_
@@ -278,6 +287,7 @@
 9-30	1733-1737	task	_
 9-31	1738-1739	.	_
 
+Text=These findings support the suitability of mcDESPOT as a myelin-specific measure of abnormal connectivity in schizophrenia, and suggest that treatment resistant schizophrenia is not characterised by more severe abnormalities in myelination or cognitive control compared to treatment responsive schizophrenia.
 10-1	1740-1745	These	_
 10-2	1746-1754	findings	_
 10-3	1755-1762	support	_
@@ -320,6 +330,7 @@
 10-40	2034-2047	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 10-41	2048-2049	.	_
 
+Text=Highlights Treatment resistant and responsive schizophrenia patients show reduced myelin water fraction compared to healthy controls Myelin water fraction in the corpus callosum is related to performance on a cognitive control task Myelin water fraction in the corpus callosum mediates differences in a cognitive control task between patients and controls Material and methods Participants The study included 43 individuals with a diagnosis of schizophrenia (according to ICD-10 criteria) and 24 healthy controls matched for age, sex, and socioeconomic background.
 11-1	2050-2060	Highlights	_
 11-2	2061-2070	Treatment	http://maven.renci.org/NeuroBridge/neurobridge#TreatmentResponseProgressScale
 11-3	2071-2080	resistant	http://maven.renci.org/NeuroBridge/neurobridge#TreatmentResponseProgressScale
@@ -405,6 +416,7 @@
 11-83	2607-2617	background	_
 11-84	2618-2619	.	_
 
+Text=The patient sample included 22 patients who fulfilled criteria for treatment resistance (TRS), based on at least two prior drug trials of 4–6 weeks duration with no clinical improvement, persistence of illness for longer than five years with no period of good social or occupational functioning, and persistent psychotic symptoms as defined as a score of at least 4 (moderate) on at least two positive symptom items of the Positive and Negative Syndrome Scale (PANSS).
 12-1	2620-2623	The	_
 12-2	2624-2631	patient	_
 12-3	2632-2638	sample	_
@@ -491,6 +503,7 @@
 12-84	3095-3096	)	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 12-85	3097-3098	.	_
 
+Text=The remaining 21 patients fulfilled criteria for being in symptomatic remission (non-treatment resistant; NTR), as defined by a score of 3 or less on all items of the PANSS, and these symptoms having been stable for at least 6 months.
 13-1	3099-3102	The	_
 13-2	3103-3112	remaining	_
 13-3	3113-3115	21	_
@@ -538,6 +551,7 @@
 13-45	3331-3337	months	_
 13-46	3338-3339	.	_
 
+Text=The two patient groups were matched for age, sex, duration of illness, medication type and dosage.
 14-1	3340-3343	The	_
 14-2	3344-3347	two	_
 14-3	3348-3355	patient	_
@@ -559,6 +573,7 @@
 14-19	3434-3440	dosage	_
 14-20	3441-3442	.	_
 
+Text=Current clozapine use was an exclusion criterion for all patients; this was to maintain the homogeneity of the patient sample - fulfilling the standard criteria for treatment resistance - avoiding the introduction of sub-groups of patients refractory to clozapine (super-resistant patients).
 15-1	3443-3450	Current	_
 15-2	3451-3460	clozapine	_
 15-3	3461-3464	use	_
@@ -605,6 +620,7 @@
 15-44	3735-3736	)	_
 15-45	3737-3738	.	_
 
+Text=Chlorpromazine (CPZ) equivalent doses of medications were calculated using conversion tables.
 16-1	3739-3753	Chlorpromazine	_
 16-2	3754-3755	(	_
 16-3	3756-3759	CPZ	_
@@ -620,6 +636,7 @@
 16-13	3827-3833	tables	_
 16-14	3834-3835	.	_
 
+Text=Exclusion criteria for all subjects were a history of neurological illness, current major physical illness, and drug dependency over the last six months.
 17-1	3836-3845	Exclusion	_
 17-2	3846-3854	criteria	_
 17-3	3855-3858	for	_
@@ -647,6 +664,7 @@
 17-25	3984-3990	months	_
 17-26	3991-3992	.	_
 
+Text=Exclusion criteria for HC were a history of psychiatric illness and a first-degree relative currently or previously suffering from a psychotic illness.
 18-1	3993-4002	Exclusion	_
 18-2	4003-4011	criteria	_
 18-3	4012-4015	for	_
@@ -671,6 +689,7 @@
 18-22	4136-4143	illness	_
 18-23	4144-4145	.	_
 
+Text=All subjects had normal hearing and normal or corrected-to-normal vision.
 19-1	4146-4149	All	_
 19-2	4150-4158	subjects	_
 19-3	4159-4162	had	_
@@ -683,6 +702,7 @@
 19-10	4212-4218	vision	_
 19-11	4219-4220	.	_
 
+Text=Demographic characteristics and clinical data are presented in Table 1.
 20-1	4221-4232	Demographic	_
 20-2	4233-4248	characteristics	_
 20-3	4249-4252	and	_
@@ -695,6 +715,7 @@
 20-10	4290-4291	1	_
 20-11	4292-4293	.	_
 
+Text=Ethical approval was provided by the London Camberwell St Giles Research and Ethics Committee.
 21-1	4294-4301	Ethical	_
 21-2	4302-4310	approval	_
 21-3	4311-4314	was	_
@@ -711,6 +732,7 @@
 21-14	4378-4387	Committee	_
 21-15	4388-4389	.	_
 
+Text=All participants provided informed written consent and were compensated for their time and travel.
 22-1	4390-4393	All	_
 22-2	4394-4406	participants	_
 22-3	4407-4415	provided	_
@@ -727,6 +749,7 @@
 22-14	4481-4487	travel	_
 22-15	4488-4489	.	_
 
+Text=MRI acquisition and processing Scans were acquired on a 3T GE Excite II MR scanner (GE Healthcare, USA) with an 8-channel head coil.
 23-1	4490-4493	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 23-2	4494-4505	acquisition	_
 23-3	4506-4509	and	_
@@ -755,6 +778,7 @@
 23-26	4620-4624	coil	_
 23-27	4625-4626	.	_
 
+Text=The mcDESPOT protocol consisted of a spoiled gradient recalled echo (SPGR) sequence across nine flip angles α (TR = 8.0 ms; TE = 3.6 ms; α = [2, 3, 4, 5, 6, 7, 9, 13, 18] °; matrix = 128 × 128), and a balanced steady-state free procession (bSSFP) sequence across eight flip angles, acquired at radiofrequency phase cycling patterns of 0° and 180° to correct for off-resonance effects (TR = 3.8 ms; TE = 1.9 ms; α = [12, 16, 21, 27, 33, 40, 51, 68]; matrix = 128 × 128).
 24-1	4627-4630	The	_
 24-2	4631-4639	mcDESPOT	_
 24-3	4640-4648	protocol	_
@@ -884,6 +908,7 @@
 24-127	5129-5130	)	_
 24-128	5131-5132	.	_
 
+Text=In addition an inversion recovery SPGR was acquired for estimating the flip angle error caused by transmitting B1 field inhomogeneity (TR = 8.0 ms; TE = 3.6 ms; α = 5°; matrix = 220 × 110).
 25-1	5133-5135	In	_
 25-2	5136-5144	addition	_
 25-3	5145-5147	an	_
@@ -927,6 +952,7 @@
 25-41	5325-5326	)	_
 25-42	5327-5328	.	_
 
+Text=The field of view was 220 × 220 cm and the voxel size was 1.7 mm isotropic.
 26-1	5329-5332	The	_
 26-2	5333-5338	field	_
 26-3	5339-5341	of	_
@@ -946,6 +972,7 @@
 26-17	5394-5403	isotropic	_
 26-18	5404-5405	.	_
 
+Text=The full mcDESPOT sequence lasted approximately 13 min.
 27-1	5406-5409	The	_
 27-2	5410-5414	full	_
 27-3	5415-5423	mcDESPOT	_
@@ -956,6 +983,7 @@
 27-8	5457-5460	min	_
 27-9	5461-5462	.	_
 
+Text=All raw images were visually inspected for motion artefacts.
 28-1	5463-5466	All	_
 28-2	5467-5470	raw	_
 28-3	5471-5477	images	_
@@ -967,6 +995,7 @@
 28-9	5513-5522	artefacts	_
 28-10	5523-5524	.	_
 
+Text=Participants with missing scans or excessive motion were re-scanned either immediately or at their earliest convenience, resulting in a complete dataset.
 29-1	5525-5537	Participants	_
 29-2	5538-5542	with	_
 29-3	5543-5550	missing	_
@@ -991,6 +1020,7 @@
 29-22	5671-5678	dataset	_
 29-23	5679-5680	.	_
 
+Text=Each subject's scans were linearly coregistered, and non-brain parenchyma signal removed using BET (FMRIB Software Library, www.fmrib.ox.ac.uk/fsl).
 30-1	5681-5685	Each	_
 30-2	5686-5693	subject	_
 30-3	5694-5696	's	_
@@ -1015,6 +1045,7 @@
 30-22	5832-5833	)	_
 30-23	5834-5835	.	_
 
+Text=mcDESPOT maps were processed using our previously described open-source software.
 31-1	5836-5844	mcDESPOT	_
 31-2	5845-5849	maps	_
 31-3	5850-5854	were	_
@@ -1027,6 +1058,7 @@
 31-10	5908-5916	software	_
 31-11	5917-5918	.	_
 
+Text=Briefly, first T1 & B1 maps were calculated from the data, then T2 & off-resonance maps, and then finally Myelin Water Fraction maps using a three component model and Gaussian Region Contraction.
 32-1	5919-5926	Briefly	_
 32-2	5927-5928	,	_
 32-3	5929-5934	first	_
@@ -1064,6 +1096,7 @@
 32-35	6105-6116	Contraction	_
 32-36	6117-6118	.	_
 
+Text=MWF maps were non-linearly registered to the MNI152 2 mm isotropic standard brain, and smoothed using a Gaussian kernel at 5 mm FWHM.
 33-1	6119-6122	MWF	_
 33-2	6123-6127	maps	_
 33-3	6128-6132	were	_
@@ -1090,6 +1123,7 @@
 33-24	6248-6252	FWHM	_
 33-25	6253-6254	.	_
 
+Text=Statistical analysis Whole-brain group comparisons Whole-brain normalised MWF maps were subjected to non-parametric permutation tests using FSL's randomise (with 10,000 permutations), and significance values were corrected for multiple comparisons using threshold-free cluster enhancement (TFCE).
 34-1	6255-6266	Statistical	_
 34-2	6267-6275	analysis	_
 34-3	6276-6287	Whole-brain	_
@@ -1132,6 +1166,7 @@
 34-40	6555-6556	)	_
 34-41	6557-6558	.	_
 
+Text=Clusters were defined with an extent threshold of 50 voxels.
 35-1	6559-6567	Clusters	_
 35-2	6568-6572	were	_
 35-3	6573-6580	defined	_
@@ -1144,6 +1179,7 @@
 35-10	6612-6618	voxels	_
 35-11	6619-6620	.	_
 
+Text=We tested the effect of group (HC vs. NTR vs. TRS), adjusting for effects of age and sex.
 36-1	6621-6623	We	_
 36-2	6624-6630	tested	_
 36-3	6631-6634	the	_
@@ -1167,6 +1203,7 @@
 36-21	6709-6712	sex	_
 36-22	6713-6714	.	_
 
+Text=White matter histogram analysis In order to analyse the distribution of WMF values within the white matter specifically, we overlaid MWF maps with a white matter mask obtained from the Johns Hopkins University White Matter Atlas.
 37-1	6715-6720	White	_
 37-2	6721-6727	matter	_
 37-3	6728-6737	histogram	_
@@ -1206,6 +1243,7 @@
 37-37	6939-6944	Atlas	_
 37-38	6945-6946	.	_
 
+Text=Histogram analyses of white matter MWF were conducted by summing the number of voxels for 100 uniform bins between 0% and 30%.
 38-1	6947-6956	Histogram	_
 38-2	6957-6965	analyses	_
 38-3	6966-6968	of	_
@@ -1232,6 +1270,7 @@
 38-24	7073-7074	%	_
 38-25	7075-7076	.	_
 
+Text=Each individual's histogram was normalised with respect to the area of the histogram.
 39-1	7077-7081	Each	_
 39-2	7082-7092	individual	_
 39-3	7093-7095	's	_
@@ -1248,6 +1287,7 @@
 39-14	7153-7162	histogram	_
 39-15	7163-7164	.	_
 
+Text=For each subject, the mean (first moment), variance (second moment), peak position (mode), and peak height (frequency of voxels in the modal bin) of the histogram were calculated and subsequently compared between groups using non-parametric Kruskal Wallis tests.
 40-1	7165-7168	For	_
 40-2	7169-7173	each	_
 40-3	7174-7181	subject	_
@@ -1300,6 +1340,7 @@
 40-50	7433-7438	tests	_
 40-51	7439-7440	.	_
 
+Text=MWF and the Stroop effect Stroop task Subjects performed a standard verbal Stroop task inside the MRI scanner.
 41-1	7441-7444	MWF	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 41-2	7445-7448	and	_
 41-3	7449-7452	the	_
@@ -1320,6 +1361,7 @@
 41-18	7543-7550	scanner	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 41-19	7551-7552	.	_
 
+Text=The task consisted of naming the font colour of colour words that were either congruent (e.g.
 42-1	7553-7556	The	_
 42-2	7557-7561	task	_
 42-3	7562-7571	consisted	_
@@ -1339,6 +1381,7 @@
 42-17	7643-7646	e.g	_
 42-18	7647-7648	.	_
 
+Text=the word “ yellow ” printed in yellow) or incongruent (e.g.
 43-1	7649-7652	the	_
 43-2	7653-7657	word	_
 43-3	7658-7659	“	_
@@ -1354,6 +1397,7 @@
 43-13	7706-7709	e.g	_
 43-14	7710-7711	.	_
 
+Text=the word ‘ yellow ’ printed in blue).
 44-1	7712-7715	the	_
 44-2	7716-7720	word	_
 44-3	7721-7722	‘	_
@@ -1365,6 +1409,7 @@
 44-9	7748-7749	)	_
 44-10	7750-7751	.	_
 
+Text=Thirty-three congruent, 33 incongruent, and 34 fixation trials were presented in randomised order, each with a duration of 700 ms and inter-stimulus-interval of 2300 ms.
 45-1	7752-7764	Thirty-three	_
 45-2	7765-7774	congruent	_
 45-3	7775-7776	,	_
@@ -1395,6 +1440,7 @@
 45-28	7921-7923	ms	_
 45-29	7924-7925	.	_
 
+Text=This preceded the mcDESPOT scanning protocol.
 46-1	7926-7930	This	_
 46-2	7931-7939	preceded	_
 46-3	7940-7943	the	_
@@ -1403,6 +1449,7 @@
 46-6	7962-7970	protocol	_
 46-7	7971-7972	.	_
 
+Text=Each subject's Stroop effect was defined as the difference between their mean reaction time (RT) on incongruent trials and their mean RT on congruent trials.
 47-1	7973-7977	Each	_
 47-2	7978-7985	subject	_
 47-3	7986-7988	's	_
@@ -1433,6 +1480,7 @@
 47-28	8126-8132	trials	_
 47-29	8133-8134	.	_
 
+Text=The Stroop effect was compared between groups using one-way ANOVA.
 48-1	8135-8138	The	_
 48-2	8139-8145	Stroop	_
 48-3	8146-8152	effect	_
@@ -1445,6 +1493,7 @@
 48-10	8195-8200	ANOVA	_
 48-11	8201-8202	.	_
 
+Text=We tested for correlations between whole-brain MWF and the RT Stroop effect across all subjects using randomise.
 49-1	8203-8205	We	_
 49-2	8206-8212	tested	_
 49-3	8213-8216	for	_
@@ -1464,6 +1513,7 @@
 49-17	8305-8314	randomise	_
 49-18	8315-8316	.	_
 
+Text=For the resulting significant cluster, we extracted each subject's mean MWF and compared these between groups.
 50-1	8317-8320	For	_
 50-2	8321-8324	the	_
 50-3	8325-8334	resulting	_
@@ -1484,6 +1534,7 @@
 50-18	8422-8428	groups	_
 50-19	8429-8430	.	_
 
+Text=We then conducted a mediation analysis to test whether MWF in this region mediated group differences in the RT Stroop effect.
 51-1	8431-8433	We	_
 51-2	8434-8438	then	_
 51-3	8439-8448	conducted	_
@@ -1507,6 +1558,7 @@
 51-21	8549-8555	effect	_
 51-22	8556-8557	.	_
 
+Text=We used a bootstrap approach proposed by in order to test for significance of the indirect effect of group on RT Stroop effect.
 52-1	8558-8560	We	_
 52-2	8561-8565	used	_
 52-3	8566-8567	a	_

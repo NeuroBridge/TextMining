@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Functional Connectivity When Detecting Rare Visual Targets in Schizophrenia Individuals with schizophrenia demonstrate difficulties in attending to important stimuli (e.g., targets) and ignoring distractors (e.g., non-targets).
 1-1	0-10	Functional	_
 1-2	11-23	Connectivity	_
 1-3	24-28	When	_
@@ -36,6 +37,7 @@
 1-32	231-232	)	_
 1-33	233-234	.	_
 
+Text=We used a visual oddball task during fMRI to examine functional connectivity within and between the ventral and dorsal attention networks to determine the relative contribution of each network to detection of rare visual targets in schizophrenia.
 2-1	235-237	We	_
 2-2	238-242	used	_
 2-3	243-244	a	_
@@ -75,6 +77,7 @@
 2-37	467-480	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-38	481-482	.	_
 
+Text=The sample comprised 25 schizophrenia patients and 27 healthy controls.
 3-1	483-486	The	_
 3-2	487-493	sample	_
 3-3	494-503	comprised	_
@@ -87,6 +90,7 @@
 3-10	545-553	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 3-11	554-555	.	_
 
+Text=Psychophysiological interaction analysis was used to examine whole-brain functional connectivity in response to targets.
 4-1	556-575	Psychophysiological	_
 4-2	576-587	interaction	_
 4-3	588-596	analysis	_
@@ -103,6 +107,7 @@
 4-14	668-675	targets	_
 4-15	676-677	.	_
 
+Text=We used the right temporo parietal junction (TPJ) as the seed region for the ventral network and the right medial intraparietal sulcus (IPS) as the seed region for the dorsal network.
 5-1	678-680	We	_
 5-2	681-685	used	_
 5-3	686-689	the	_
@@ -140,6 +145,7 @@
 5-35	857-864	network	_
 5-36	865-866	.	_
 
+Text=We found that connectivity between right IPS and right anterior insula (AI; a component of the ventral network) was significantly greater in controls than patients.
 6-1	867-869	We	_
 6-2	870-875	found	_
 6-3	876-880	that	_
@@ -170,6 +176,7 @@
 6-28	1025-1033	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 6-29	1034-1035	.	_
 
+Text=Expected patterns of within- and between-network connectivity for right TPJ were observed in controls, and not significantly different in patients.
 7-1	1036-1044	Expected	_
 7-2	1045-1053	patterns	_
 7-3	1054-1056	of	_
@@ -193,6 +200,7 @@
 7-21	1175-1183	patients	_
 7-22	1184-1185	.	_
 
+Text=These findings indicate functional connectivity deficits between the dorsal and ventral attention networks in schizophrenia that may create problems in processing relevant versus irrelevant stimuli.
 8-1	1186-1191	These	_
 8-2	1192-1200	findings	_
 8-3	1201-1209	indicate	_
@@ -220,6 +228,7 @@
 8-25	1376-1383	stimuli	_
 8-26	1384-1385	.	_
 
+Text=Understanding the nature of network disruptions underlying cognitive deficits of schizophrenia may help shed light on the pathophysiology of this disorder.
 9-1	1386-1399	Understanding	_
 9-2	1400-1403	the	_
 9-3	1404-1410	nature	_
@@ -243,13 +252,16 @@
 9-21	1532-1540	disorder	_
 9-22	1541-1542	.	_
 
+Text=2.
 10-1	1543-1544	2	_
 10-2	1545-1546	.	_
 
+Text=Methods 2.1.
 11-1	1547-1554	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	1555-1558	2.1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	1559-1560	.	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 
+Text=Participants Twenty-five patients with schizophrenia (4 female) and 27 healthy controls (4 female) were recruited for the study.
 12-1	1561-1573	Participants	_
 12-2	1574-1585	Twenty-five	_
 12-3	1586-1594	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -274,6 +286,7 @@
 12-22	1687-1692	study	_
 12-23	1693-1694	.	_
 
+Text=The participants in this study were largely overlapping with those in Wynn et al.
 13-1	1695-1698	The	_
 13-2	1699-1711	participants	_
 13-3	1712-1714	in	_
@@ -290,6 +303,7 @@
 13-14	1773-1775	al	_
 13-15	1776-1777	.	_
 
+Text=that examined regional activation and EEG, but did not consider connectivity.
 14-1	1778-1782	that	_
 14-2	1783-1791	examined	_
 14-3	1792-1800	regional	_
@@ -304,6 +318,7 @@
 14-12	1843-1855	connectivity	_
 14-13	1856-1857	.	_
 
+Text=Patients were recruited from outpatient treatment clinics at the Greater Los Angeles VA Medical Center (GLA) and the community.
 15-1	1858-1866	Patients	_
 15-2	1867-1871	were	_
 15-3	1872-1881	recruited	_
@@ -327,6 +342,7 @@
 15-21	1977-1986	community	_
 15-22	1987-1988	.	_
 
+Text=Patients met diagnostic criteria for schizophrenia based on the Structured Clinical Interview for DSM-IV Axis I Disorders (SCID).
 16-1	1989-1997	Patients	_
 16-2	1998-2001	met	_
 16-3	2002-2012	diagnostic	_
@@ -349,6 +365,7 @@
 16-20	2118-2119	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 16-21	2120-2121	.	_
 
+Text=Selection criteria were the same as previous studies from this laboratory.
 17-1	2122-2131	Selection	_
 17-2	2132-2140	criteria	_
 17-3	2141-2145	were	_
@@ -362,6 +379,7 @@
 17-11	2185-2195	laboratory	_
 17-12	2196-2197	.	_
 
+Text=Patients were between 18 and 60 years of age, and were excluded from participation if they had: self-reported substance abuse in the past month or dependence in the last six months, IQ <70 based on examination of medical records, history of loss of consciousness for more than one hour, identifiable neurological disorders, or were not sufficiently fluent in English to consent and understand procedures.
 18-1	2198-2206	Patients	_
 18-2	2207-2211	were	_
 18-3	2212-2219	between	_
@@ -435,6 +453,7 @@
 18-71	2598-2608	procedures	_
 18-72	2609-2610	.	_
 
+Text=Psychiatric symptoms were evaluated using the 24-item University of California, Los Angeles (UCLA) version of the Brief Psychiatric Rating Scale (BPRS) and Scale for the Assessment of Negative Symptoms (SANS).
 19-1	2611-2622	Psychiatric	_
 19-2	2623-2631	symptoms	_
 19-3	2632-2636	were	_
@@ -474,6 +493,7 @@
 19-37	2825-2826	)	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofNegativeSymptoms
 19-38	2827-2828	.	_
 
+Text=For the BPRS we report means for the “ positive symptom, ” “ negative symptom, ” “ agitation/mania, ” and “ depression/anxiety ” factors.
 20-1	2829-2832	For	_
 20-2	2833-2836	the	_
 20-3	2837-2841	BPRS	_
@@ -503,6 +523,7 @@
 20-27	2961-2968	factors	_
 20-28	2969-2970	.	_
 
+Text=For the SANS we report four global scales: Affective Flattening, Alogia, Avolition-Apathy, and Anhedonia-Asociality.
 21-1	2971-2974	For	_
 21-2	2975-2978	the	_
 21-3	2979-2983	SANS	_
@@ -523,6 +544,7 @@
 21-18	3070-3090	Anhedonia-Asociality	_
 21-19	3091-3092	.	_
 
+Text=Healthy controls between 18 and 60 years of age were recruited through internet postings and interviewed with the SCID-I and portions of the Structured Clinical Interview for DSM-IV Axis II Disorders (SCID-II).
 22-1	3093-3100	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 22-2	3101-3109	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 22-3	3110-3117	between	_
@@ -559,6 +581,7 @@
 22-34	3303-3304	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 22-35	3305-3306	.	_
 
+Text=Exclusion criteria for potential controls included: an identifiable neurological disorder or head injury, a first-degree relative with schizophrenia or another psychotic disorder, insufficient fluency in English, a personal history of schizophrenia or other psychotic disorder, bipolar disorder, recurrent depression, a lifetime history of substance dependence, or any substance abuse in the last 6 months, and any of the following Axis II disorders: avoidant, paranoid, schizoid, or schizotypal.
 23-1	3307-3316	Exclusion	_
 23-2	3317-3325	criteria	_
 23-3	3326-3329	for	_
@@ -641,6 +664,7 @@
 23-80	3804-3815	schizotypal	_
 23-81	3816-3817	.	_
 
+Text=All interviewers were trained through the Treatment Unit of the Department of Veterans Affairs VISN 22 Mental Illness Research, Education, and Clinical Center (MIRECC) to a minimum kappa of 0.75 for key psychotic and mood items.
 24-1	3818-3821	All	_
 24-2	3822-3834	interviewers	_
 24-3	3835-3839	were	_
@@ -683,6 +707,7 @@
 24-40	4044-4049	items	_
 24-41	4050-4051	.	_
 
+Text=The study protocol was reviewed and approved by the Institutional Review Boards of the University of California, Los Angeles and Greater Los Angeles VA Medical Center.
 25-1	4052-4055	The	_
 25-2	4056-4061	study	_
 25-3	4062-4070	protocol	_
@@ -712,6 +737,7 @@
 25-27	4213-4219	Center	_
 25-28	4220-4221	.	_
 
+Text=All participants had the capacity to give informed consent and provided written informed consent after all procedures were fully explained.
 26-1	4222-4225	All	_
 26-2	4226-4238	participants	_
 26-3	4239-4242	had	_
@@ -734,13 +760,16 @@
 26-20	4351-4360	explained	_
 26-21	4361-4362	.	_
 
+Text=2.2.
 27-1	4363-4366	2.2	_
 27-2	4367-4368	.	_
 
+Text=Procedures 2.2.1.
 28-1	4369-4379	Procedures	_
 28-2	4380-4385	2.2.1	_
 28-3	4386-4387	.	_
 
+Text=Task design Participants completed a visual oddball task, modeled after prior studies, in which they viewed images of two letters, X and K; one letter served as a target and the other as a nontarget in a counterbalanced fashion.
 29-1	4388-4392	Task	_
 29-2	4393-4399	design	_
 29-3	4400-4412	Participants	_
@@ -786,6 +815,7 @@
 29-43	4612-4619	fashion	_
 29-44	4620-4621	.	_
 
+Text=We used an event-related design and presented the stimuli in three separate blocks using magnet-compatible goggles (Resonance Technology, Northridge, CA).
 30-1	4622-4624	We	_
 30-2	4625-4629	used	_
 30-3	4630-4632	an	_
@@ -812,6 +842,7 @@
 30-24	4778-4779	)	_
 30-25	4780-4781	.	_
 
+Text=Each stimulus was displayed for 100 ms followed by an interstimulus interval (ISI) that was either 900, 1900, or 2900 ms (mean ISI = 1900 ms).
 31-1	4782-4786	Each	_
 31-2	4787-4795	stimulus	_
 31-3	4796-4799	was	_
@@ -846,6 +877,7 @@
 31-32	4928-4929	)	_
 31-33	4930-4931	.	_
 
+Text=The ISIs were equiprobable and randomly distributed.
 32-1	4932-4935	The	_
 32-2	4936-4940	ISIs	_
 32-3	4941-4945	were	_
@@ -855,6 +887,7 @@
 32-7	4972-4983	distributed	_
 32-8	4984-4985	.	_
 
+Text=Participants were instructed to push a button on a MRI-compatible button box whenever they detected the target and had 3000 ms to make a response1.
 33-1	4986-4998	Participants	_
 33-2	4999-5003	were	_
 33-3	5004-5014	instructed	_
@@ -882,6 +915,7 @@
 33-25	5123-5132	response1	_
 33-26	5133-5134	.	_
 
+Text=Within each block a total of 150 stimuli were presented: 12% were targets (n = 18) and 88% were non-targets (n = 132).
 34-1	5135-5141	Within	_
 34-2	5142-5146	each	_
 34-3	5147-5152	block	_
@@ -914,6 +948,7 @@
 34-30	5258-5259	)	_
 34-31	5260-5261	.	_
 
+Text=Additionally, null trials were interspersed throughout each block and consisted solely of a fixation point.
 35-1	5262-5274	Additionally	_
 35-2	5275-5276	,	_
 35-3	5277-5281	null	_
@@ -932,6 +967,7 @@
 35-16	5364-5369	point	_
 35-17	5370-5371	.	_
 
+Text=Duration of each block was 5 minutes.
 36-1	5372-5380	Duration	_
 36-2	5381-5383	of	_
 36-3	5384-5388	each	_
@@ -941,6 +977,7 @@
 36-7	5401-5408	minutes	_
 36-8	5409-5410	.	_
 
+Text=The task took approximately 20 minutes to complete.
 37-1	5411-5414	The	_
 37-2	5415-5419	task	_
 37-3	5420-5424	took	_
@@ -951,6 +988,7 @@
 37-8	5453-5461	complete	_
 37-9	5462-5463	.	_
 
+Text=2.2.2. fMRI data acquisition and preprocessing Scanning was performed on a Siemens 3T (Erlangen, Germany) Trio MRI scanner.
 38-1	5464-5470	2.2.2.	_
 38-2	5471-5475	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 38-3	5476-5480	data	_
@@ -974,6 +1012,7 @@
 38-21	5582-5589	scanner	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 38-22	5590-5591	.	_
 
+Text=Functional runs (blocks) were acquired with 150 T2 * -weighted echoplanar images (EPIs) [repetition time (TR) 2000 ms; echo time (TE) 30 ms; flip angle = 75°; 33 slices; slice thickness 4mm; matrix 64 × 64; FOV 220 mm].
 39-1	5592-5602	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 39-2	5603-5607	runs	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 39-3	5608-5609	(	_
@@ -1031,6 +1070,7 @@
 39-55	5825-5826	]	_
 39-56	5827-5828	.	_
 
+Text=The first two volumes of each functional scan are automatically discarded before data collection begins to allow for T1 equilibrium.
 40-1	5829-5832	The	_
 40-2	5833-5838	first	_
 40-3	5839-5842	two	_
@@ -1053,6 +1093,7 @@
 40-20	5949-5960	equilibrium	_
 40-21	5961-5962	.	_
 
+Text=Two sets of structural images were acquired for registration of functional data: a T1 weighted magnetization prepared rapid-acquisition gradient echo image (MPRAGE) [TR, 1900 ms; TE 3.43 ms; flip angle = 9°; 160 sagittal slices; slice thickness 1 mm; matrix 256 × 256; FOV 256 mm]; and a T2-weighted matched-bandwidth high-resolution scan with the same slice prescription as the EPI [TR, 6540 ms; TE, 13 ms; flip angle = 120°; 33 slices; slice thickness 4 mm; matrix 128 × 128; FOV 220 mm].
 41-1	5963-5966	Two	_
 41-2	5967-5971	sets	_
 41-3	5972-5974	of	_
@@ -1161,6 +1202,7 @@
 41-106	6474-6475	]	_
 41-107	6476-6477	.	_
 
+Text=Preprocessing and data analysis was performed with the FMRIB Software Library (FSL v5.0; Analysis Group, Oxford, UK).
 42-1	6478-6491	Preprocessing	_
 42-2	6492-6495	and	_
 42-3	6496-6500	data	_
@@ -1185,6 +1227,7 @@
 42-22	6598-6599	)	_
 42-23	6600-6601	.	_
 
+Text=To compensate for any head motion, images were realigned to the middle volume using MCFLIRT.
 43-1	6602-6604	To	_
 43-2	6605-6615	compensate	_
 43-3	6616-6619	for	_
@@ -1203,6 +1246,7 @@
 43-16	6687-6694	MCFLIRT	_
 43-17	6695-6696	.	_
 
+Text=Movement parameters calculated by MCFLIRT were also modeled in the analysis as nuisance covariates.
 44-1	6697-6705	Movement	_
 44-2	6706-6716	parameters	_
 44-3	6717-6727	calculated	_
@@ -1219,6 +1263,7 @@
 44-14	6785-6795	covariates	_
 44-15	6796-6797	.	_
 
+Text=Relative mean displacement estimates for the final sample did not exceed 0.5 mm; however, estimates for patients were significantly greater than for controls (patients: M = .18, SD = .11; controls: M = .11, SD = .01; t (49) = 2.94, p <.05).
 45-1	6798-6806	Relative	_
 45-2	6807-6811	mean	_
 45-3	6812-6824	displacement	_
@@ -1278,6 +1323,7 @@
 45-57	7050-7051	)	_
 45-58	7052-7053	.	_
 
+Text=Two patients had one block (out of three) excluded for excessive head motion (relative mean displacement> 0.5 mm).
 46-1	7054-7057	Two	_
 46-2	7058-7066	patients	_
 46-3	7067-7070	had	_
@@ -1303,6 +1349,7 @@
 46-23	7171-7172	)	_
 46-24	7173-7174	.	_
 
+Text=One patient was excluded from the analysis due to having two out of three blocks with excessive head motion.
 47-1	7175-7178	One	_
 47-2	7179-7186	patient	_
 47-3	7187-7190	was	_
@@ -1324,6 +1371,7 @@
 47-19	7276-7282	motion	_
 47-20	7283-7284	.	_
 
+Text=Following these exclusions, 24 patients with schizophrenia and 27 normal controls were included in the PPI analyses.
 48-1	7285-7294	Following	_
 48-2	7295-7300	these	_
 48-3	7301-7311	exclusions	_
@@ -1344,6 +1392,7 @@
 48-18	7393-7401	analyses	_
 48-19	7402-7403	.	_
 
+Text=The data were temporally filtered with a high-pass filter cutoff of 60 s and spatially smoothed with a 5 mm full width half maximum Gaussian kernel in three dimensions.
 49-1	7404-7407	The	_
 49-2	7408-7412	data	_
 49-3	7413-7417	were	_
@@ -1375,6 +1424,7 @@
 49-29	7561-7571	dimensions	_
 49-30	7572-7573	.	_
 
+Text=Registration was carried out using FSL ’ s FLIRT.
 50-1	7574-7586	Registration	_
 50-2	7587-7590	was	_
 50-3	7591-7598	carried	_
@@ -1386,6 +1436,7 @@
 50-9	7617-7622	FLIRT	_
 50-10	7623-7624	.	_
 
+Text=Each block of individual EPI data was registered first to the co-planar matched-bandwidth T2-weighted image, then to the T1-weighted MPRAGE (both using affine transformations; 6 degrees of freedom) and finally, to Montreal Neurological Institute (MNI) standard space (affine transformation, 12 degrees of freedom).
 51-1	7625-7629	Each	_
 51-2	7630-7635	block	_
 51-3	7636-7638	of	_
@@ -1441,9 +1492,11 @@
 51-53	7947-7948	)	_
 51-54	7949-7950	.	_
 
+Text=2.2.3.
 52-1	7951-7956	2.2.3	_
 52-2	7957-7958	.	_
 
+Text=Behavioral data analysis Task accuracy was recorded as percentage of correct responses during target trials as well as reaction time of correctly performed trials.
 53-1	7959-7969	Behavioral	_
 53-2	7970-7974	data	_
 53-3	7975-7983	analysis	_
@@ -1470,6 +1523,7 @@
 53-24	8115-8121	trials	_
 53-25	8122-8123	.	_
 
+Text=Group differences in accuracy and reaction time were assessed separately using analysis of variance (ANOVA; p <.05).
 54-1	8124-8129	Group	_
 54-2	8130-8141	differences	_
 54-3	8142-8144	in	_
@@ -1493,9 +1547,11 @@
 54-21	8242-8243	)	_
 54-22	8244-8245	.	_
 
+Text=2.2.4.
 55-1	8246-8251	2.2.4	_
 55-2	8252-8253	.	_
 
+Text=Psychophysiological interaction (PPI) fMRI analysis Functional connectivity within and between dorsal and ventral attention networks during target detection was examined using whole-brain PPI analyses.
 56-1	8254-8273	Psychophysiological	_
 56-2	8274-8285	interaction	_
 56-3	8286-8287	(	_
@@ -1524,6 +1580,7 @@
 56-26	8448-8456	analyses	_
 56-27	8457-8458	.	_
 
+Text=Seed regions of interest (ROI) were created by placing a 9 mm radius sphere around the coordinates listed below.
 57-1	8459-8463	Seed	_
 57-2	8464-8471	regions	_
 57-3	8472-8474	of	_
@@ -1547,6 +1604,7 @@
 57-21	8567-8572	below	_
 57-22	8573-8574	.	_
 
+Text=Locations of ROI are illustrated in Figure 1.
 58-1	8575-8584	Locations	_
 58-2	8585-8587	of	_
 58-3	8588-8591	ROI	_
@@ -1557,6 +1615,7 @@
 58-8	8618-8619	1	_
 58-9	8620-8621	.	_
 
+Text=The seed regions for the ventral attention network (right TPJ) and the dorsal network (right IPS) were defined based on peak coordinates identified by a recent meta-analysis of visual and auditory oddball tasks in healthy controls (right TPJ MNI coordinates: 56, -38,22; right IPS MNI coordinates: 42, -48,44).
 59-1	8622-8625	The	_
 59-2	8626-8630	seed	_
 59-3	8631-8638	regions	_
@@ -1618,6 +1677,7 @@
 59-59	8941-8942	)	_
 59-60	8943-8944	.	_
 
+Text=The seed ROI were defined at the group level in standard space and projected back to each individual subject ’ s preprocessed functional data in their native space.
 60-1	8945-8948	The	_
 60-2	8949-8953	seed	_
 60-3	8954-8957	ROI	_
@@ -1648,6 +1708,7 @@
 60-28	9103-9108	space	_
 60-29	9109-9110	.	_
 
+Text=The time course from each seed ROI was then extracted for each subject.
 61-1	9111-9114	The	_
 61-2	9115-9119	time	_
 61-3	9120-9126	course	_
@@ -1663,6 +1724,7 @@
 61-13	9174-9181	subject	_
 61-14	9182-9183	.	_
 
+Text=A lower-level general linear model (GLM) was constructed for each subject using FSL ’ s fMRI Expert Analysis Tool (FEAT) with four main regressors.
 62-1	9184-9185	A	_
 62-2	9186-9197	lower-level	_
 62-3	9198-9205	general	_
@@ -1693,6 +1755,7 @@
 62-28	9324-9334	regressors	_
 62-29	9335-9336	.	_
 
+Text=A psychological regressor represented the experimental task variable of interest (“ targets ” vs “ non-targets ”), modeled by convolution with a double-gamma canonical hemodynamic response function.
 63-1	9337-9338	A	_
 63-2	9339-9352	psychological	_
 63-3	9353-9362	regressor	_
@@ -1725,6 +1788,7 @@
 63-30	9529-9537	function	_
 63-31	9538-9539	.	_
 
+Text=A physiological regressor represented task-related BOLD activation in a priori seed regions (right TPJ for the ventral network and right IPS for the dorsal network).
 64-1	9540-9541	A	_
 64-2	9542-9555	physiological	_
 64-3	9556-9565	regressor	_
@@ -1754,6 +1818,7 @@
 64-27	9705-9706	)	_
 64-28	9707-9708	.	_
 
+Text=An interaction regressor was used to model the interaction between the “ targets ” vs “ non-targets ” psychological regressor and the physiological regressor.
 65-1	9709-9711	An	_
 65-2	9712-9723	interaction	_
 65-3	9724-9733	regressor	_
@@ -1780,6 +1845,7 @@
 65-24	9857-9866	regressor	_
 65-25	9867-9868	.	_
 
+Text=An additional regressor of non-interest modeled shared variance between targets and non-targets (i.e., “ targets ” + “ non-targets ”) to improve overall model fit.
 66-1	9869-9871	An	_
 66-2	9872-9882	additional	_
 66-3	9883-9892	regressor	_
@@ -1810,6 +1876,7 @@
 66-28	10031-10034	fit	_
 66-29	10035-10036	.	_
 
+Text=Six parameters for motion correction were included as regressors of non-interest.
 67-1	10037-10040	Six	_
 67-2	10041-10051	parameters	_
 67-3	10052-10055	for	_
@@ -1823,6 +1890,7 @@
 67-11	10105-10117	non-interest	_
 67-12	10118-10119	.	_
 
+Text=From the lower-level parameter estimate maps, a second-level fixed-effects analysis was performed to average across the three task blocks for each participant.
 68-1	10120-10124	From	_
 68-2	10125-10128	the	_
 68-3	10129-10140	lower-level	_
@@ -1848,6 +1916,7 @@
 68-23	10268-10279	participant	_
 68-24	10280-10281	.	_
 
+Text=The resulting contrast images were entered into a group-level random-effects analysis using the FLAME (FMRIB ’ s Local Analysis of Mixed Effects) stage 1 module.
 69-1	10282-10285	The	_
 69-2	10286-10295	resulting	_
 69-3	10296-10304	contrast	_
@@ -1877,6 +1946,7 @@
 69-27	10438-10444	module	_
 69-28	10445-10446	.	_
 
+Text=At the group level, participant task performance was included to ensure that group effects were not attributable to group differences in accuracy and reaction time.
 70-1	10447-10449	At	_
 70-2	10450-10453	the	_
 70-3	10454-10459	group	_
@@ -1905,6 +1975,7 @@
 70-26	10607-10611	time	_
 70-27	10612-10613	.	_
 
+Text=Results were subjected to pre-threshold masking to constrain the search to areas activated by the target vs non-target contrast from the regional analysis of data (using a threshold of Z> 3.1, p <.05).
 71-1	10614-10621	Results	_
 71-2	10622-10626	were	_
 71-3	10627-10636	subjected	_
@@ -1945,6 +2016,7 @@
 71-38	10818-10819	)	_
 71-39	10820-10821	.	_
 
+Text=This masking served to mitigate effects of a large amount of de-activation present in all subjects during non-target stimuli.
 72-1	10822-10826	This	_
 72-2	10827-10834	masking	_
 72-3	10835-10841	served	_
@@ -1966,6 +2038,7 @@
 72-19	10939-10946	stimuli	_
 72-20	10947-10948	.	_
 
+Text=Finally, resulting within group activation maps were thresholded at Z> 2.3, p <0.05, cluster-corrected for whole-brain multiple comparisons to control for family wise Type I error rate.
 73-1	10949-10956	Finally	_
 73-2	10957-10958	,	_
 73-3	10959-10968	resulting	_

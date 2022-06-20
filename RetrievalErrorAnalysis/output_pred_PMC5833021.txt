@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Motivational Deficits in Schizophrenia Are Associated with Reduced Differentiation between Gain and Loss-Avoidance Feedback in the Striatum Background The current study was designed to test the hypothesis that motivational deficits in schizophrenia (SZ) are tied to a reduced ability to differentially signal gains and instances of loss-avoidance in the brain, leading to reduced ability to form adaptive representations of expected value.
 1-1	0-12	Motivational	_
 1-2	13-21	Deficits	_
 1-3	22-24	in	_
@@ -68,6 +69,7 @@
 1-64	436-441	value	_
 1-65	442-443	.	_
 
+Text=Methods We administered a reinforcement learning paradigm to 27 medicated SZ patients and 27 controls, in which participants learned three probabilistic discriminations.
 2-1	444-451	Methods	_
 2-2	452-454	We	_
 2-3	455-467	administered	_
@@ -93,6 +95,7 @@
 2-23	598-613	discriminations	_
 2-24	614-615	.	_
 
+Text=In regions of interest in reward networks identified a priori, we examined contrasts between trial-types with different expected values (Expected Gain – Non-monetary, e.g.
 3-1	616-618	In	_
 3-2	619-626	regions	_
 3-3	627-629	of	_
@@ -122,6 +125,7 @@
 3-27	786-789	e.g	_
 3-28	790-791	.	_
 
+Text=), and between outcomes with the same prediction error valence but different experienced values (Gain – Loss-avoidance outcome, Miss – Loss outcome, e.g .).
 4-1	792-793	)	_
 4-2	794-795	,	_
 4-3	796-799	and	_
@@ -153,6 +157,7 @@
 4-29	951-952	)	_
 4-30	953-954	.	_
 
+Text=Results Both whole-brain and regions-of-interest analyses revealed that schizophrenia patients showed reduced differentiation between Gain and Loss-avoidance outcomes in dorsal anterior cingulate cortex and bilateral anterior insula.
 5-1	955-962	Results	_
 5-2	963-967	Both	_
 5-3	968-979	whole-brain	_
@@ -182,6 +187,7 @@
 5-27	1181-1187	insula	_
 5-28	1188-1189	.	_
 
+Text=That is, SZ patients showed reduced contrasts between positive prediction errors of different objective values in these areas.
 6-1	1190-1194	That	_
 6-2	1195-1197	is	_
 6-3	1198-1199	,	_
@@ -203,6 +209,7 @@
 6-19	1311-1316	areas	_
 6-20	1317-1318	.	_
 
+Text=Furthermore, we observed significant correlations between [Gain – Loss-avoidance outcome] contrasts in ventral striatum and ratings for Avolition/Anhedonia, and between [Expected Gain – Non-monetary] contrasts in ventral striatum and ventromedial prefrontal cortex.
 7-1	1319-1330	Furthermore	_
 7-2	1331-1332	,	_
 7-3	1333-1335	we	_
@@ -243,6 +250,7 @@
 7-38	1583-1589	cortex	_
 7-39	1590-1591	.	_
 
+Text=Conclusions These results provide further evidence for intact prediction error signaling in medicated schizophrenia patients, especially with regard to loss-avoidance.
 8-1	1592-1603	Conclusions	_
 8-2	1604-1609	These	_
 8-3	1610-1617	results	_
@@ -266,6 +274,7 @@
 8-21	1745-1759	loss-avoidance	_
 8-22	1760-1761	.	_
 
+Text=By contrast components of frontostriatal circuits appear to show reduced sensitivity to the absolute valence of expected and experienced outcomes, suggesting a mechanism by which motivational deficits may emerge.
 9-1	1762-1764	By	_
 9-2	1765-1773	contrast	_
 9-3	1774-1784	components	_
@@ -298,6 +307,7 @@
 9-30	1968-1974	emerge	_
 9-31	1975-1976	.	_
 
+Text=Methods and Materials General Procedures Twenty-nine SZ patients and 28 healthy volunteers, matched on demographic characteristics and smoking status, successfully completed an RL task in the MRI scanner (see Supplementary Methods for details of screening procedures).
 10-1	1977-1984	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	1985-1988	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1989-1998	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -340,6 +350,7 @@
 10-40	2247-2248	)	_
 10-41	2249-2250	.	_
 
+Text=All patients except one were medicated with antipsychotic drugs, with all those medicated being on stable antipsychotic medication regimens (no changes for four weeks).
 11-1	2251-2254	All	_
 11-2	2255-2263	patients	_
 11-3	2264-2270	except	_
@@ -369,6 +380,7 @@
 11-27	2420-2421	)	_
 11-28	2422-2423	.	_
 
+Text=Outside of the MRI scanner, cognitive function was assessed using three standard measures: the Wechsler Abbreviated Scale of Intelligence (WASI; 23), the Wechsler Test of Adult Reading (WTAR; 24), and the MATRICS battery.
 12-1	2424-2431	Outside	_
 12-2	2432-2434	of	_
 12-3	2435-2438	the	_
@@ -414,6 +426,7 @@
 12-43	2647-2654	battery	_
 12-44	2655-2656	.	_
 
+Text=Standard symptom ratings were obtained for all patients using the Scale for the Assessment of Negative Symptoms (SANS; 26), the Brief Psychiatric Rating Scale (BPRS; 27), and the Calgary Depression Scale (CDS; 28).
 13-1	2657-2665	Standard	_
 13-2	2666-2673	symptom	_
 13-3	2674-2681	ratings	_
@@ -460,6 +473,7 @@
 13-44	2880-2881	)	_
 13-45	2882-2883	.	_
 
+Text=Acquisition of behavioral and neuroimaging data Participants performed 240 trials (average length: 6 s) of a version of the Gain vs. Loss-avoidance probabilistic RL task similar to that used in our prior work (19; Table 1).
 14-1	2884-2895	Acquisition	_
 14-2	2896-2898	of	_
 14-3	2899-2909	behavioral	_
@@ -504,6 +518,7 @@
 14-42	3111-3112	)	_
 14-43	3113-3114	.	_
 
+Text=Functional MRI data were acquired simultaneous with task performance, in four EPI scanning runs, each lasting ≈7 minutes (with lead time) and involving the acquisition of 191 whole-brain functional EPI images (for measurement of T2 * -weighted BOLD effects) using a 3-T Siemens Trio scanner (Erlangen, Germany; 81 2-mm axial slices; 128 × 128 matrix; FOV = 22 × 22 cm; TR = 2 s; see Supplementary Methods for additional scanning parameters).
 15-1	3115-3125	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 15-2	3126-3129	MRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 15-3	3130-3134	data	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -592,6 +607,7 @@
 15-86	3568-3569	)	_
 15-87	3570-3571	.	_
 
+Text=Also, in each session, we acquired a whole-brain T1-weighted structural image (MPRAGE) for anatomical reference (1-mm3 isotropic voxels).
 16-1	3572-3576	Also	_
 16-2	3577-3578	,	_
 16-3	3579-3581	in	_
@@ -618,6 +634,7 @@
 16-24	3713-3714	)	_
 16-25	3715-3716	.	_
 
+Text=Two patients were removed from subsequent analyses due to head motion sufficient to produce phase-instability in the functional images (resulting in the loss of entire runs to artifact).
 17-1	3717-3720	Two	_
 17-2	3721-3729	patients	_
 17-3	3730-3734	were	_
@@ -650,6 +667,7 @@
 17-30	3903-3904	)	_
 17-31	3905-3906	.	_
 
+Text=One control was excluded from subsequent analyses, due to a lack of task-engagement (evidenced by random button-pressing and no attempt to learn).
 18-1	3907-3910	One	_
 18-2	3911-3918	control	_
 18-3	3919-3922	was	_
@@ -677,6 +695,7 @@
 18-25	4054-4055	)	_
 18-26	4056-4057	.	_
 
+Text=Analysis of Behavioral and Characterizing Data Groups did not differ in age, gender, race, and parental education (Table 1).
 19-1	4058-4066	Analysis	_
 19-2	4067-4069	of	_
 19-3	4070-4080	Behavioral	_
@@ -703,6 +722,7 @@
 19-24	4185-4186	)	_
 19-25	4187-4188	.	_
 
+Text=As expected, significant between-group differences were observed for participant educational attainment and multiple measures of overall intellectual functioning.
 20-1	4189-4191	As	_
 20-2	4192-4200	expected	_
 20-3	4201-4202	,	_
@@ -724,6 +744,7 @@
 20-19	4340-4351	functioning	_
 20-20	4352-4353	.	_
 
+Text=Behavioral data were analyzed for the proportion of trials on which participants chose the optimal (more-frequently-reinforced) stimulus from a pair, as well as “ win-stay ” and “ lose-shift ” rates (see Supplementary Methods for details).
 21-1	4354-4364	Behavioral	_
 21-2	4365-4369	data	_
 21-3	4370-4374	were	_
@@ -767,6 +788,7 @@
 21-41	4596-4597	)	_
 21-42	4598-4599	.	_
 
+Text=Finally, we used a computational model, similar to those previously used by our group, in order to estimate action values and prediction errors on a trial-wise basis.
 22-1	4600-4607	Finally	_
 22-2	4608-4609	,	_
 22-3	4610-4612	we	_
@@ -799,6 +821,7 @@
 22-30	4763-4768	basis	_
 22-31	4769-4770	.	_
 
+Text=Comparison of multiple models revealed that a Q-learning model with separate learning rates for positive and negative RPEs fit the behavioral data the best (see Supplementary Materials for details).
 23-1	4771-4781	Comparison	_
 23-2	4782-4784	of	_
 23-3	4785-4793	multiple	_
@@ -832,6 +855,7 @@
 23-31	4969-4970	)	_
 23-32	4971-4972	.	_
 
+Text=Analyses of Event-related fMRI Data Single-subject Analyses We performed two sets of regression analyses (general linear models, or GLMs) of single-subject voxel-wise time series, one with binary regressors corresponding to the six different trial types (three different pairs x two possible outcomes), and one using parametric regressors (see Supplementary Methods for details).
 24-1	4973-4981	Analyses	_
 24-2	4982-4984	of	_
 24-3	4985-4998	Event-related	_
@@ -895,6 +919,7 @@
 24-61	5359-5360	)	_
 24-62	5361-5362	.	_
 
+Text=Binary regressors were 3-second boxcar functions, time-locked to the onset of individual trials and convolved with a model hemodynamic response function.
 25-1	5363-5369	Binary	_
 25-2	5370-5380	regressors	_
 25-3	5381-5385	were	_
@@ -919,6 +944,7 @@
 25-22	5508-5516	function	_
 25-23	5517-5518	.	_
 
+Text=Parametric regressors were derived from the results of computational modeling of individual behavior, which allowed for the estimation of prediction errors on a trial-wise basis.
 26-1	5519-5529	Parametric	_
 26-2	5530-5540	regressors	_
 26-3	5541-5545	were	_
@@ -947,6 +973,7 @@
 26-26	5692-5697	basis	_
 26-27	5698-5699	.	_
 
+Text=Whole-brain Group-level Analyses To test for significant activations within groups, as well as for significant between-group differences in BOLD signal activations associated with parametric RPE regressors, we used whole-brain t-tests (AFNI 3dttest++ command).
 27-1	5700-5711	Whole-brain	_
 27-2	5712-5723	Group-level	_
 27-3	5724-5732	Analyses	_
@@ -986,6 +1013,7 @@
 27-37	5962-5963	)	_
 27-38	5964-5965	.	_
 
+Text=To test for significant within-group effects of outcome valence, we used whole-brain paired t-tests (AFNI 3dttest++ command).
 28-1	5966-5968	To	_
 28-2	5969-5973	test	_
 28-3	5974-5977	for	_
@@ -1008,6 +1036,7 @@
 28-20	6092-6093	)	_
 28-21	6094-6095	.	_
 
+Text=To test for significant between-group differences in BOLD signal contrasts with regard to experienced value and expected value, we used whole-brain multivariate models (AFNI 3dMVM command), with factors of group and value (6 levels of experienced value, 3 levels of expected value).
 29-1	6096-6098	To	_
 29-2	6099-6103	test	_
 29-3	6104-6107	for	_
@@ -1059,6 +1088,7 @@
 29-49	6383-6384	)	_
 29-50	6385-6386	.	_
 
+Text=For whole-brain analyses, we used a voxel-wise threshold of p=0.001 and a cluster-size threshold of 95 voxels, determined by Monte Carlo simulations.
 30-1	6387-6390	For	_
 30-2	6391-6402	whole-brain	_
 30-3	6403-6411	analyses	_
@@ -1085,6 +1115,7 @@
 30-24	6526-6537	simulations	_
 30-25	6538-6539	.	_
 
+Text=Analyses of event-related neural responses in regions-of-interest (ROIs) Based on the prior literature, we looked for effects of expected value valence, RPE valence, and outcome valence in VS (bilaterally), vmPFC/mOFC, dorsal anterior cingulate cortex (dACC), right anterior insula (R AI), and left anterior insula (L AI; see Figure 2A–C for specific coordinates of ROIs; see Supplementary Materials for justification of coordinates chosen).
 31-1	6540-6548	Analyses	_
 31-2	6549-6551	of	_
 31-3	6552-6565	event-related	_
@@ -1168,6 +1199,7 @@
 31-81	6998-6999	)	_
 31-82	7000-7001	.	_
 
+Text=For the VS, we centered spheres of 5-mm radius on (±10, 8, −4) to form a single, bilateral ROI.
 32-1	7002-7005	For	_
 32-2	7006-7009	the	_
 32-3	7010-7012	VS	_
@@ -1195,6 +1227,7 @@
 32-25	7099-7102	ROI	_
 32-26	7103-7104	.	_
 
+Text=All ROIs in PFC consisted of spheres of 10-mm radius.
 33-1	7105-7108	All	_
 33-2	7109-7113	ROIs	_
 33-3	7114-7116	in	_
@@ -1207,6 +1240,7 @@
 33-10	7151-7157	radius	_
 33-11	7158-7159	.	_
 
+Text=Our primary focus was on contrasts between outcomes of different objective values for the same RPE valence (e.g., Gain vs. Loss-avoidance, Miss vs. Loss).
 34-1	7160-7163	Our	_
 34-2	7164-7171	primary	_
 34-3	7172-7177	focus	_
@@ -1237,6 +1271,7 @@
 34-28	7316-7317	)	_
 34-29	7318-7319	.	_
 
+Text=Exploratory analyses examined contrasts between expected outcomes, corresponding to condition (e.g., Gain/Miss vs. Loss/Loss-avoidance).
 35-1	7320-7331	Exploratory	_
 35-2	7332-7340	analyses	_
 35-3	7341-7349	examined	_
@@ -1257,6 +1292,7 @@
 35-18	7458-7459	)	_
 35-19	7460-7461	.	_
 
+Text=For each of these contrasts, we performed the following tests: 1) a repeated-measures ANOVA, within the control group, with ROI as a factor, in order to determine if the contrast differed from zero in the control group, without respect to ROI, and if the contrast differed as a function of ROI; 2) a repeated-measures ANOVA, across the entire sample, with group and ROI as factors, in order to determine if there was a between-group difference in the contrast, without respect to ROI, or a significant group x ROI interaction; 3) Spearman correlation analyses, between MRI contrasts in ROIs and RL performance measures in controls; and 4) Spearman correlation analyses, between MRI contrasts in ROIs and measures of motivational deficits in patients.
 36-1	7462-7465	For	_
 36-2	7466-7470	each	_
 36-3	7471-7473	of	_
@@ -1401,6 +1437,7 @@
 36-142	8224-8232	patients	_
 36-143	8233-8234	.	_
 
+Text=In order to quantify motivational deficits in patients, we computed an avolition/anhedonia factor score by averaging item scores from the avolition/role-functioning and anhedonia/asociality subscales of the SANS.
 37-1	8235-8237	In	_
 37-2	8238-8243	order	_
 37-3	8244-8246	to	_
@@ -1431,6 +1468,7 @@
 37-28	8443-8447	SANS	_
 37-29	8448-8449	.	_
 
+Text=In order to determine whether measures of motivational deficits in patients were related specifically to negative symptoms, rather than measures in multiple symptom classes, as well as cognitive domains, we also performed Spearman correlation analyses, between MRI contrasts in ROIs and 1) individual psychosis scores, by averaging ratings from individual psychosis items on the BPRS (Suspiciousness, Grandiosity, Hallucinations, and Unusual Thought Content), 2) individual IQ estimates, as well as several measures of intellectual function from the MATRICS battery, and 3) standardized APD doses for SZ patients (see Supplementary Materials for conversions and results of correlation analyses).
 38-1	8450-8452	In	_
 38-2	8453-8458	order	_
 38-3	8459-8461	to	_

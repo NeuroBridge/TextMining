@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Altered Small-World Networks in First-Episode Schizophrenia Patients during Cool Executive Function Task At present, little is known about brain functional connectivity and its small-world topologic properties in first-episode schizophrenia (SZ) patients during cool executive function task.
 1-1	0-7	Altered	_
 1-2	8-19	Small-World	_
 1-3	20-28	Networks	_
@@ -43,6 +44,7 @@
 1-39	289-293	task	http://maven.renci.org/NeuroBridge/neurobridge#DevelopmentalDisorderofMotorFunction
 1-40	294-295	.	_
 
+Text=In this paper, the Trail Making Test-B (TMT-B) task was used to evaluate the cool executive function of first-episode SZ patients and electroencephalography (EEG) data were recorded from 14 first-episode SZ patients and 14 healthy controls during this cool executive function task.
 2-1	296-298	In	_
 2-2	299-303	this	_
 2-3	304-309	paper	_
@@ -92,6 +94,7 @@
 2-47	577-581	task	http://maven.renci.org/NeuroBridge/neurobridge#BehaviorRatingInventoryOfExecutiveFunction
 2-48	582-583	.	_
 
+Text=Brain functional connectivity between all pairs of EEG channels was constructed based on mutual information (MI) analysis.
 3-1	584-589	Brain	_
 3-2	590-600	functional	_
 3-3	601-613	connectivity	_
@@ -113,6 +116,7 @@
 3-19	699-707	analysis	_
 3-20	708-709	.	_
 
+Text=The constructed brain functional networks were filtered by three thresholding schemes: absolute threshold, mean degree, and a novel data-driven scheme based on orthogonal minimal spanning trees (OMST), and graph theory was then used to study the topographical characteristics of the filtered brain graphs.
 4-1	710-713	The	_
 4-2	714-725	constructed	_
 4-3	726-731	brain	_
@@ -164,6 +168,7 @@
 4-49	1014-1020	graphs	_
 4-50	1021-1022	.	_
 
+Text=Results indicated that the graph theoretical measures of the theta band showed obvious difference between SZ patients and healthy controls.
 5-1	1023-1030	Results	_
 5-2	1031-1040	indicated	_
 5-3	1041-1045	that	_
@@ -186,6 +191,7 @@
 5-20	1153-1161	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 5-21	1162-1163	.	_
 
+Text=In the theta band, the characteristic path length was significantly longer and the cluster coefficient was significantly smaller in the SZ patients for a wide range of absolute threshold T. However, the cluster coefficient showed no significant changes, and the characteristic path length was still significantly longer in SZ patients when calculated as a function of mean degree K. Interestingly, we also found that only the characteristic path length was significantly longer in SZ patients compared with healthy controls after using the OMST scheme.
 6-1	1164-1166	In	_
 6-2	1167-1170	the	_
 6-3	1171-1176	theta	_
@@ -276,6 +282,7 @@
 6-88	1713-1719	scheme	_
 6-89	1720-1721	.	_
 
+Text=Pearson correlation analysis showed that the characteristic path length was positively correlated with executive time of TMT-B for the combined SZ patients and healthy controls (r = 0.507, P = 0.006), but not for SZ patients alone (r = 0.072, P = 0.612).
 7-1	1722-1729	Pearson	_
 7-2	1730-1741	correlation	_
 7-3	1742-1750	analysis	_
@@ -328,6 +335,7 @@
 7-50	1981-1982	)	_
 7-51	1983-1984	.	_
 
+Text=The above results suggested a less optimal organization of the brain network and could be useful for understanding the pathophysiologic mechanisms underlying cool executive dysfunction in first-episode SZ patients.
 8-1	1985-1988	The	_
 8-2	1989-1994	above	_
 8-3	1995-2002	results	_
@@ -359,15 +367,18 @@
 8-29	2190-2198	patients	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
 8-30	2199-2200	.	_
 
+Text=2.
 9-1	2201-2202	2	_
 9-2	2203-2204	.	_
 
+Text=Materials and Methods 2.1.
 10-1	2205-2214	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	2215-2218	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	2219-2226	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-4	2227-2230	2.1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-5	2231-2232	.	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 
+Text=Subjects 14 first-episode SZ patients (9 male and 5 female) were recruited from the Henan Psychiatric Hospital of China according to the Structured Clinical Interview for DSM-IV, and any patients with a history of medication treatment, drug abuse/dependence, electroconvulsive therapy, or other psychiatric and neurological diseases were excluded.
 11-1	2233-2241	Subjects	_
 11-2	2242-2244	14	_
 11-3	2245-2258	first-episode	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
@@ -424,6 +435,7 @@
 11-54	2577-2585	excluded	_
 11-55	2586-2587	.	_
 
+Text=The mean age of the 14 SZ patients was 28.21 ± 6.94 years, the mean duration of illness was 18.26 ± 7.03 months, and all patients are right-handed.
 12-1	2588-2591	The	_
 12-2	2592-2596	mean	_
 12-3	2597-2600	age	_
@@ -456,6 +468,7 @@
 12-30	2724-2736	right-handed	_
 12-31	2737-2738	.	_
 
+Text=For healthy controls, a group of 14 subjects matched for sex, age, and dominant side was recruited (9 male and 5 female; mean age: 25.13 ± 3.75; all right-handed), and any healthy controls with a past or current psychiatric illness, drug dependence, neurological disorders, or severe somatic diseases were excluded.
 13-1	2739-2742	For	_
 13-2	2743-2750	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 13-3	2751-2759	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -520,6 +533,7 @@
 13-62	3057-3065	excluded	_
 13-63	3066-3067	.	_
 
+Text=The study was approved by the ethics committee of Henan Psychiatric Hospital of China, and an informed consent form was signed by all participants before the experiment.
 14-1	3068-3071	The	_
 14-2	3072-3077	study	_
 14-3	3078-3081	was	_
@@ -550,9 +564,11 @@
 14-28	3227-3237	experiment	_
 14-29	3238-3239	.	_
 
+Text=2.2.
 15-1	3240-3243	2.2	_
 15-2	3244-3245	.	_
 
+Text=EEG Recordings and MI Computation The EEG data were recorded from all participants when they were performing a cool executive function task, that is, the TMT-B task.
 16-1	3246-3249	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 16-2	3250-3260	Recordings	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 16-3	3261-3264	and	_
@@ -584,6 +600,7 @@
 16-29	3408-3412	task	http://maven.renci.org/NeuroBridge/neurobridge#VisfatinMeasurementData
 16-30	3413-3414	.	_
 
+Text=As for the TMT-B task that evaluates quick visual search, visual space sorting, and cognitive set transfer functions, the participants were asked to connect numbers (1–13) and letters (A–M) using a pen on a paper according to an alternating sequence as fast as possible, and the pen tip cannot leave the paper during this process.
 17-1	3415-3417	As	_
 17-2	3418-3421	for	_
 17-3	3422-3425	the	_
@@ -650,6 +667,7 @@
 17-64	3746-3753	process	_
 17-65	3754-3755	.	_
 
+Text=The execution time to complete this task and the error number that is the number of incorrectly linked numbers and letters were used to evaluate the task performance of the participants.
 18-1	3756-3759	The	_
 18-2	3760-3769	execution	_
 18-3	3770-3774	time	_
@@ -683,6 +701,7 @@
 18-31	3929-3941	participants	_
 18-32	3942-3943	.	_
 
+Text=The EEG data were recorded at a sampling rate of 1000 Hz from 24 channels (FP1, FPz, FP2, AF3, AF4, F7, F5, F3, F1, Fz, F2, F4, F6, F8, T7, C3, C4, T8, P7, P3, P4, P8, O1, and O2) that were mounted on the scalp with a 64-channel EEG cap according to the 10-20 standard system.
 19-1	3944-3947	The	_
 19-2	3948-3951	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 19-3	3952-3956	data	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -767,6 +786,7 @@
 19-82	4238-4244	system	_
 19-83	4245-4246	.	_
 
+Text=And the impedance of all electrodes was below 10 kΩ.
 20-1	4247-4250	And	_
 20-2	4251-4254	the	_
 20-3	4255-4264	impedance	_
@@ -779,6 +799,7 @@
 20-10	4296-4298	kΩ	_
 20-11	4299-4300	.	_
 
+Text=Offline EEG preprocessing was carried out by using Matlab 7.7.0 R2010a software (Mathworks Inc., USA) equipped with the EEGLAB toolbox.
 21-1	4301-4308	Offline	_
 21-2	4309-4312	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 21-3	4313-4326	preprocessing	_
@@ -804,6 +825,7 @@
 21-23	4431-4438	toolbox	_
 21-24	4439-4440	.	_
 
+Text=Firstly, a 0.5–30 Hz zero-phase bandpass filter was applied.
 22-1	4441-4448	Firstly	_
 22-2	4449-4450	,	_
 22-3	4451-4452	a	_
@@ -816,6 +838,7 @@
 22-10	4494-4501	applied	_
 22-11	4502-4503	.	_
 
+Text=Then, ocular and prominent muscle artifacts were removed by means of independent component analysis (ICA), and the average number of artifactual independent components was 3.1 ± 0.8 (mean ± std) and 3.4 ± 0.7 (mean ± std) for healthy controls and SZ patients, respectively.
 23-1	4504-4508	Then	_
 23-2	4509-4510	,	_
 23-3	4511-4517	ocular	_
@@ -871,6 +894,7 @@
 23-53	4773-4785	respectively	_
 23-54	4786-4787	.	_
 
+Text=Subsequently, the EEG data were divided into 10-second epochs and recomputed against the average reference.
 24-1	4788-4800	Subsequently	_
 24-2	4801-4802	,	_
 24-3	4803-4806	the	_
@@ -889,6 +913,7 @@
 24-16	4886-4895	reference	_
 24-17	4896-4897	.	_
 
+Text=Finally, the following 4 frequency bands were obtained using a zero-phase bandpass filter: delta (0.5–3 Hz), theta (4–7 Hz), alpha (8–13 Hz), and beta (13–30 Hz).
 25-1	4898-4905	Finally	_
 25-2	4906-4907	,	_
 25-3	4908-4911	the	_
@@ -930,6 +955,7 @@
 25-39	5071-5072	)	_
 25-40	5073-5074	.	_
 
+Text=MI is based on information theory and can be used to measure the amount of information that can be obtained about one variable from the measurement of another.
 26-1	5075-5077	MI	_
 26-2	5078-5080	is	_
 26-3	5081-5086	based	_
@@ -960,6 +986,7 @@
 26-28	5226-5233	another	_
 26-29	5234-5235	.	_
 
+Text=The main advantage of MI is that it takes account of both linear and nonlinear dependencies.
 27-1	5236-5239	The	_
 27-2	5240-5244	main	_
 27-3	5245-5254	advantage	_
@@ -978,6 +1005,7 @@
 27-16	5315-5327	dependencies	_
 27-17	5328-5329	.	_
 
+Text=The detailed calculation method of MI was described in some previously published literature.
 28-1	5330-5333	The	_
 28-2	5334-5342	detailed	_
 28-3	5343-5354	calculation	_
@@ -993,6 +1021,7 @@
 28-13	5411-5421	literature	_
 28-14	5422-5423	.	_
 
+Text=Briefly, given two random variables X and Y, the pairwise MI is defined as where PX (x) is the probability that x is drawn from X and PXY (x, y) is the joint probability density function for the measurements of X and Y that produce the values x and y. MI is estimated from a finite number of samples, and the probability densities, PX (x) and PXY (x, y), are approximated by histogram (using bin size of 100).
 29-1	5424-5431	Briefly	_
 29-2	5432-5433	,	_
 29-3	5434-5439	given	_
@@ -1090,6 +1119,7 @@
 29-95	5848-5849	)	_
 29-96	5850-5851	.	_
 
+Text=For a fair comparison across subjects and frequency bands, here we computed the normalized MI as where H (X) and H (X) are the entropies and H (X) is defined as ∑xPX (x) log2PX (x).
 30-1	5852-5855	For	_
 30-2	5856-5857	a	_
 30-3	5858-5862	fair	_
@@ -1138,6 +1168,7 @@
 30-46	6042-6043	)	_
 30-47	6044-6045	.	_
 
+Text=The normalized MI is in the range of [0, 1].
 31-1	6046-6049	The	_
 31-2	6050-6060	normalized	_
 31-3	6061-6063	MI	_
@@ -1153,6 +1184,7 @@
 31-13	6091-6092	]	_
 31-14	6093-6094	.	_
 
+Text=Here, the data are separated into 10-second epochs for MI computation in order to increase the sample size as well as to enhance the stationarity and consistency of the MI computation.
 32-1	6095-6099	Here	_
 32-2	6100-6101	,	_
 32-3	6102-6105	the	_
@@ -1187,6 +1219,7 @@
 32-32	6268-6279	computation	_
 32-33	6280-6281	.	_
 
+Text=MI between all pairs of EEG channels was computed, resulting in a 24 × 24 matrix (24 is the number of EEG channels).
 33-1	6282-6284	MI	_
 33-2	6285-6292	between	_
 33-3	6293-6296	all	_
@@ -1215,6 +1248,7 @@
 33-26	6399-6400	)	_
 33-27	6401-6402	.	_
 
+Text=For each epoch, the MI matrix was computed, and an average MI matrix for each subject was obtained by averaging the MI matrixes calculated from all epochs.
 34-1	6403-6406	For	_
 34-2	6407-6411	each	_
 34-3	6412-6417	epoch	_
@@ -1246,6 +1280,7 @@
 34-29	6553-6559	epochs	_
 34-30	6560-6561	.	_
 
+Text=According to the above process, the MI matrixes for the above-mentioned four frequency bands (delta: 0.5–3 Hz, theta: 4–7 Hz, alpha: 8–13 Hz, and beta: 13–30 Hz) were computed.
 35-1	6562-6571	According	_
 35-2	6572-6574	to	_
 35-3	6575-6578	the	_
@@ -1287,9 +1322,11 @@
 35-39	6739-6747	computed	_
 35-40	6748-6749	.	_
 
+Text=2.3.
 36-1	6750-6753	2.3	_
 36-2	6754-6755	.	_
 
+Text=Graph Theoretical Analysis In this paper, the MI matrix was converted into an undirected binary graph by applying three network filtering schemes: absolute threshold T, mean degree K, and OMST method.
 37-1	6756-6761	Graph	_
 37-2	6762-6773	Theoretical	_
 37-3	6774-6782	Analysis	_
@@ -1327,6 +1364,7 @@
 37-35	6953-6959	method	_
 37-36	6960-6961	.	_
 
+Text=Because there is no optimal way to select T, here the range of 0.15 <T <0.45 (in step of 0.005) was selected for the four bands.
 38-1	6962-6969	Because	_
 38-2	6970-6975	there	_
 38-3	6976-6978	is	_
@@ -1360,6 +1398,7 @@
 38-31	7089-7094	bands	_
 38-32	7095-7096	.	_
 
+Text=It is well-known that the edge number in a graph has a great relationship with the values of L and C, and the edge number in the 2 graphs (SZ patients and healthy controls) will be different by applying a certain T. Therefore, in order to eliminate this effect, the L and C were calculated as a function of degree K (2 <K <8, in step of 0.1).
 39-1	7097-7099	It	_
 39-2	7100-7102	is	_
 39-3	7103-7113	well-known	_
@@ -1440,6 +1479,7 @@
 39-78	7447-7448	)	_
 39-79	7449-7450	.	_
 
+Text=Recently, Dimitriadis et al.
 40-1	7451-7459	Recently	_
 40-2	7460-7461	,	_
 40-3	7462-7473	Dimitriadis	_
@@ -1447,6 +1487,7 @@
 40-5	7477-7479	al	_
 40-6	7480-7481	.	_
 
+Text=proposed a novel data-driven topological filtering scheme based on OMST, which filters brain connectivity networks based on the optimization between the global efficiency of the network and the cost preserving its wiring.
 41-1	7482-7490	proposed	_
 41-2	7491-7492	a	_
 41-3	7493-7498	novel	_
@@ -1482,6 +1523,7 @@
 41-33	7697-7703	wiring	_
 41-34	7704-7705	.	_
 
+Text=Here, we tried using the OMST method to filter the constructed brain networks and recomputed graph theoretical measures.
 42-1	7706-7710	Here	_
 42-2	7711-7712	,	_
 42-3	7713-7715	we	_
@@ -1503,6 +1545,7 @@
 42-19	7818-7826	measures	_
 42-20	7827-7828	.	_
 
+Text=After the MI matrix was converted into an undirected binary graph, the graph theoretical measures, such as characteristic path length L and cluster coefficient C, were computed.
 43-1	7829-7834	After	_
 43-2	7835-7838	the	_
 43-3	7839-7841	MI	_
@@ -1535,6 +1578,7 @@
 43-30	8000-8008	computed	_
 43-31	8009-8010	.	_
 
+Text=Detailed descriptions and calculation methods for L and C could be found in some previously published literature.
 44-1	8011-8019	Detailed	_
 44-2	8020-8032	descriptions	_
 44-3	8033-8036	and	_
@@ -1554,6 +1598,7 @@
 44-17	8113-8123	literature	_
 44-18	8124-8125	.	_
 
+Text=The small-world network is characterized by a similar path length and higher cluster coefficient compared to a random network, that is, γ = Creal/Crandom> 1, λ = Lreal/Lrandom ≈ 1.
 45-1	8126-8129	The	_
 45-2	8130-8141	small-world	_
 45-3	8142-8149	network	_
@@ -1590,6 +1635,7 @@
 45-34	8308-8309	1	_
 45-35	8310-8311	.	_
 
+Text=And the small-world index could be defined as σ = γ/λ.
 46-1	8312-8315	And	_
 46-2	8316-8319	the	_
 46-3	8320-8331	small-world	_
@@ -1603,6 +1649,7 @@
 46-11	8362-8365	γ/λ	_
 46-12	8366-8367	.	_
 
+Text=For the small-world network, the σ is greater than 1.
 47-1	8368-8371	For	_
 47-2	8372-8375	the	_
 47-3	8376-8387	small-world	_
@@ -1616,6 +1663,7 @@
 47-11	8420-8421	1	_
 47-12	8422-8423	.	_
 
+Text=Here, in order to compute small-world indexes of experimental networks (SZ patients and healthy controls), after applying the OMST filtering scheme, 300 random networks were generated for each experimental network by using the Markov-chain algorithm.
 48-1	8424-8428	Here	_
 48-2	8429-8430	,	_
 48-3	8431-8433	in	_
@@ -1658,6 +1706,7 @@
 48-40	8669-8678	algorithm	_
 48-41	8679-8680	.	_
 
+Text=As a result, the mean small-world index σ of experimental networks (SZ patients and healthy controls) was computed.
 49-1	8681-8683	As	_
 49-2	8684-8685	a	_
 49-3	8686-8692	result	_
@@ -1681,9 +1730,11 @@
 49-21	8790-8798	computed	_
 49-22	8799-8800	.	_
 
+Text=2.4.
 50-1	8801-8804	2.4	_
 50-2	8805-8806	.	_
 
+Text=Statistical Analysis All statistical analyses were carried out using SPSS version 21.0 software (SPSS Inc., Chicago, IL).
 51-1	8807-8818	Statistical	_
 51-2	8819-8827	Analysis	_
 51-3	8828-8831	All	_
@@ -1707,6 +1758,7 @@
 51-21	8930-8931	)	_
 51-22	8932-8933	.	_
 
+Text=The Shapiro-Wilk test was used to test for normality of distribution.
 52-1	8934-8937	The	_
 52-2	8938-8950	Shapiro-Wilk	_
 52-3	8951-8955	test	_
@@ -1720,6 +1772,7 @@
 52-11	8990-9002	distribution	_
 52-12	9003-9004	.	_
 
+Text=Task performance, such as execution time and error number, was statistically compared between SZ patients and healthy controls by using independent sample t-test.
 53-1	9005-9009	Task	_
 53-2	9010-9021	performance	_
 53-3	9022-9023	,	_
@@ -1747,6 +1800,7 @@
 53-25	9162-9168	t-test	_
 53-26	9169-9170	.	_
 
+Text=The differences of C and L between SZ patients and healthy controls for each value over a range of T or degree K were compared by using the Mann–Whitney U test.
 54-1	9171-9174	The	_
 54-2	9175-9186	differences	_
 54-3	9187-9189	of	_
@@ -1780,6 +1834,7 @@
 54-31	9326-9330	test	_
 54-32	9331-9332	.	_
 
+Text=In addition, Pearson correlation analysis was applied to explore whether there existed correlation between C or L and task performance.
 55-1	9333-9335	In	_
 55-2	9336-9344	addition	_
 55-3	9345-9346	,	_
@@ -1803,6 +1858,7 @@
 55-21	9457-9468	performance	_
 55-22	9469-9470	.	_
 
+Text=P <0.05 showed that a significant difference existed.
 56-1	9471-9472	P	_
 56-2	9473-9474	<	_
 56-3	9475-9479	0.05	_

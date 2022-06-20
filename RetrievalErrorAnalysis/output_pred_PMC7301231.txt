@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Effect of ZNF804A gene polymorphism (rs1344706) on the plasticity of the functional coupling between the right dorsolateral prefrontal cortex and the contralateral hippocampal formation Highlights The working memory training strengthened the right DLPFC-left HF functional coupling.
 1-1	0-6	Effect	_
 1-2	7-9	of	_
 1-3	10-17	ZNF804A	_
@@ -42,6 +43,7 @@
 1-38	275-283	coupling	_
 1-39	284-285	.	_
 
+Text=Rs1344706 was associated with the right DLPFC-left HF functional coupling at pretest.
 2-1	286-295	Rs1344706	_
 2-2	296-299	was	_
 2-3	300-310	associated	_
@@ -56,6 +58,7 @@
 2-12	363-370	pretest	_
 2-13	371-372	.	_
 
+Text=Rs1344706 impacted the plasticity of the right DLPFC-left HF functional coupling.
 3-1	373-382	Rs1344706	_
 3-2	383-391	impacted	_
 3-3	392-395	the	_
@@ -69,6 +72,7 @@
 3-11	445-453	coupling	_
 3-12	454-455	.	_
 
+Text=ZNF804A has now been recognized as a schizophrenia risk gene by multiple genome-wide association studies with its intronic polymorphism rs1344706 being reported as the first genome-wide significant risk variant for schizophrenia.
 4-1	456-463	ZNF804A	_
 4-2	464-467	has	_
 4-3	468-471	now	_
@@ -102,6 +106,7 @@
 4-31	671-684	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 4-32	685-686	.	_
 
+Text=Although the functional impact of this gene is still unknown, rs1344706 ’ s contribution to the functional coupling between the right dorsolateral prefrontal cortex (DLPFC) and the contralateral hippocampal formation (HF) has been reported by several studies.
 5-1	687-695	Although	_
 5-2	696-699	the	_
 5-3	700-710	functional	_
@@ -146,6 +151,7 @@
 5-42	943-950	studies	_
 5-43	951-952	.	_
 
+Text=The current study tested whether the right DLPFC-left HF functional coupling showed plasticity during cognitive training (Study I) and whether rs1344706 affected the plasticity (Study II).
 6-1	953-956	The	_
 6-2	957-964	current	_
 6-3	965-970	study	_
@@ -178,6 +184,7 @@
 6-30	1143-1144	)	_
 6-31	1145-1146	.	_
 
+Text=In Study I, we conducted a randomized controlled trial with 30 subjects receiving 20 sessions of adaptive training on a memory span task (the training group) and 30 subjects practicing on a non-adaptive easy version of the same memory span task for 20 sessions (the control group).
 7-1	1147-1149	In	_
 7-2	1150-1155	Study	_
 7-3	1156-1157	I	_
@@ -232,6 +239,7 @@
 7-52	1431-1432	)	_
 7-53	1433-1434	.	_
 
+Text=All subjects were scanned using fMRI before and after the training.
 8-1	1435-1438	All	_
 8-2	1439-1447	subjects	_
 8-3	1448-1452	were	_
@@ -245,6 +253,7 @@
 8-11	1493-1501	training	_
 8-12	1502-1503	.	_
 
+Text=Analyses of resting-state and task-state fMRI data consistently showed that the adaptive memory span training significantly strengthened the right DLPFC-left HF functional coupling.
 9-1	1504-1512	Analyses	_
 9-2	1513-1515	of	_
 9-3	1516-1529	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -270,6 +279,7 @@
 9-23	1676-1684	coupling	_
 9-24	1685-1686	.	_
 
+Text=In Study II, we conducted a genetic association study with 101 subjects (combining the data from the training group in Study I with those from an additional subsequent sample of 71 subjects who received the same training and fMRI scans).
 10-1	1687-1689	In	_
 10-2	1690-1695	Study	_
 10-3	1696-1698	II	_
@@ -315,6 +325,7 @@
 10-43	1925-1926	)	_
 10-44	1927-1928	.	_
 
+Text=Results showed that rs1344706 was significantly associated with training-induced changes in functional coupling.
 11-1	1929-1936	Results	_
 11-2	1937-1943	showed	_
 11-3	1944-1948	that	_
@@ -330,6 +341,7 @@
 11-13	2032-2040	coupling	_
 11-14	2041-2042	.	_
 
+Text=Subjects carrying the non-risk allele (C) of rs1344706 showed greater training-induced plasticity than the risk allele (A) homozygotes.
 12-1	2043-2051	Subjects	_
 12-2	2052-2060	carrying	_
 12-3	2061-2064	the	_
@@ -354,6 +366,7 @@
 12-22	2170-2181	homozygotes	_
 12-23	2182-2183	.	_
 
+Text=These findings expanded our current understanding of the functional impact of the schizophrenia risk variant of ZNF804A gene and suggested that the ZNF804A gene could be used as a prospective target for future antipsychotic drugs and clinical research.
 13-1	2184-2189	These	_
 13-2	2190-2198	findings	_
 13-3	2199-2207	expanded	_
@@ -394,6 +407,7 @@
 13-38	2427-2435	research	_
 13-39	2436-2437	.	_
 
+Text=Materials and methods The protocols of both of the randomized controlled study (Study I) and the genetic association study (Study II) were reviewed and approved by the Institutional Review Board of the Institute of Cognitive Neuroscience and Learning at Beijing Normal University.
 14-1	2438-2447	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-2	2448-2451	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-3	2452-2459	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -442,6 +456,7 @@
 14-46	2711-2721	University	_
 14-47	2722-2723	.	_
 
+Text=Study I has been registered at the Chinese Clinical Trial Registry (http: //www.chictr.org.cn; chiCTR-INR-17011728).
 15-1	2724-2729	Study	_
 15-2	2730-2731	I	_
 15-3	2732-2735	has	_
@@ -462,6 +477,7 @@
 15-18	2842-2843	)	_
 15-19	2844-2845	.	_
 
+Text=Subjects Participants in Study I included 60 healthy undergraduate student volunteers.
 16-1	2846-2854	Subjects	_
 16-2	2855-2867	Participants	_
 16-3	2868-2870	in	_
@@ -475,6 +491,7 @@
 16-11	2921-2931	volunteers	_
 16-12	2932-2933	.	_
 
+Text=Subjects were randomly allocated to either the training group (receiving adaptive training on a memory span task, N = 30) or the control group (repeatedly practicing on a non-adaptive easy version of the same memory span task, N = 30).
 17-1	2934-2942	Subjects	_
 17-2	2943-2947	were	_
 17-3	2948-2956	randomly	_
@@ -523,6 +540,7 @@
 17-46	3173-3174	)	_
 17-47	3175-3176	.	_
 
+Text=All subjects were Han Chinese and gave written informed consent for this study.
 18-1	3177-3180	All	_
 18-2	3181-3189	subjects	_
 18-3	3190-3194	were	_
@@ -538,6 +556,7 @@
 18-13	3250-3255	study	_
 18-14	3256-3257	.	_
 
+Text=All subjects received the same set of fMRI scans at both pretest and posttest.
 19-1	3258-3261	All	_
 19-2	3262-3270	subjects	_
 19-3	3271-3279	received	_
@@ -554,6 +573,7 @@
 19-14	3327-3335	posttest	_
 19-15	3336-3337	.	_
 
+Text=CONSORT diagram for randomized controlled trials is shown in the Supplement Fig.
 20-1	3338-3345	CONSORT	_
 20-2	3346-3353	diagram	_
 20-3	3354-3357	for	_
@@ -568,9 +588,11 @@
 20-12	3414-3417	Fig	_
 20-13	3418-3419	.	_
 
+Text=S1.
 21-1	3420-3422	S1	_
 21-2	3423-3424	.	_
 
+Text=For Study II, we recruited an additional sample of 71 undergraduate students who received the same training as the subjects in the training group of Study I.
 22-1	3425-3428	For	_
 22-2	3429-3434	Study	_
 22-3	3435-3437	II	_
@@ -601,6 +623,7 @@
 22-28	3581-3582	I	_
 22-29	3583-3584	.	_
 
+Text=The combined 101 subjects were used to examine the effect of ZNF804A gene rs1344706 polymorphism on brain plasticity induced by the training.
 23-1	3585-3588	The	_
 23-2	3589-3597	combined	_
 23-3	3598-3601	101	_
@@ -625,6 +648,7 @@
 23-22	3717-3725	training	_
 23-23	3726-3727	.	_
 
+Text=Genotyping Genomic DNA for subjects who received adaptive training (N = 101) was extracted using the standard method.
 24-1	3728-3738	Genotyping	_
 24-2	3739-3746	Genomic	_
 24-3	3747-3750	DNA	_
@@ -647,6 +671,7 @@
 24-20	3840-3846	method	_
 24-21	3847-3848	.	_
 
+Text=ZNF804A gene rs1344706 polymorphism was genotyped using Taqman allele-specific assays on the 7900HT Fast Real-Time PCR System (Applied Biosystems, Foster City, CA, USA).
 25-1	3849-3856	ZNF804A	_
 25-2	3857-3861	gene	_
 25-3	3862-3871	rs1344706	_
@@ -677,6 +702,7 @@
 25-28	4021-4022	)	_
 25-29	4023-4024	.	_
 
+Text=The sample success rate for this SNP was 100%.
 26-1	4025-4028	The	_
 26-2	4029-4035	sample	_
 26-3	4036-4043	success	_
@@ -689,6 +715,7 @@
 26-10	4070-4071	%	_
 26-11	4072-4073	.	_
 
+Text=The reproducibility of the genotyping was 100% according to a duplicate analysis of 40% of the genotypes.
 27-1	4074-4077	The	_
 27-2	4078-4093	reproducibility	_
 27-3	4094-4096	of	_
@@ -710,6 +737,7 @@
 27-19	4171-4180	genotypes	_
 27-20	4181-4182	.	_
 
+Text=Tasks for the training and the fMRI scans The working memory training task was a visual-spatial span task (see Supplement Fig.
 28-1	4183-4188	Tasks	_
 28-2	4189-4192	for	_
 28-3	4193-4196	the	_
@@ -734,10 +762,12 @@
 28-22	4306-4309	Fig	_
 28-23	4310-4311	.	_
 
+Text=S2A).
 29-1	4312-4315	S2A	_
 29-2	4316-4317	)	_
 29-3	4318-4319	.	_
 
+Text=Stimuli were green-colored squares presented sequentially in a 5 × 5 empty grid on a computer screen.
 30-1	4320-4327	Stimuli	_
 30-2	4328-4332	were	_
 30-3	4333-4346	green-colored	_
@@ -757,6 +787,7 @@
 30-17	4414-4420	screen	_
 30-18	4421-4422	.	_
 
+Text=After an intermission, subjects were required to recall the sequence of locations by clicking on the empty grid.
 31-1	4423-4428	After	_
 31-2	4429-4431	an	_
 31-3	4432-4444	intermission	_
@@ -778,6 +809,7 @@
 31-19	4531-4535	grid	_
 31-20	4536-4537	.	_
 
+Text=Each stimulus was presented for 500 ms, the interstimulus interval was also 500 ms, and the intermission was 1000 ms.
 32-1	4538-4542	Each	_
 32-2	4543-4551	stimulus	_
 32-3	4552-4555	was	_
@@ -802,6 +834,7 @@
 32-22	4654-4656	ms	_
 32-23	4657-4658	.	_
 
+Text=Difficulty level was determined by the number of the stimuli.
 33-1	4659-4669	Difficulty	_
 33-2	4670-4675	level	_
 33-3	4676-4679	was	_
@@ -814,6 +847,7 @@
 33-10	4712-4719	stimuli	_
 33-11	4720-4721	.	_
 
+Text=The task difficulty was adaptive to the participants ’ performance for the adaptive training group.
 34-1	4722-4725	The	_
 34-2	4726-4730	task	_
 34-3	4731-4741	difficulty	_
@@ -831,6 +865,7 @@
 34-15	4815-4820	group	_
 34-16	4821-4822	.	_
 
+Text=In the first training session, the training started with 3 stimuli and the number of stimuli automatically increased by 1 if the subjects made 5 continuous correct responses at the current level.
 35-1	4823-4825	In	_
 35-2	4826-4829	the	_
 35-3	4830-4835	first	_
@@ -866,6 +901,7 @@
 35-33	5013-5018	level	_
 35-34	5019-5020	.	_
 
+Text=In subsequent training session, the training started with 2 stimuli less than the maximum level in the previous session.
 36-1	5021-5023	In	_
 36-2	5024-5034	subsequent	_
 36-3	5035-5043	training	_
@@ -888,6 +924,7 @@
 36-20	5134-5141	session	_
 36-21	5142-5143	.	_
 
+Text=For the non-adaptive training control group, the task difficulty was kept at a low level with 3 stimuli in all the training sessions.
 37-1	5144-5147	For	_
 37-2	5148-5151	the	_
 37-3	5152-5164	non-adaptive	_
@@ -914,6 +951,7 @@
 37-24	5269-5277	sessions	_
 37-25	5278-5279	.	_
 
+Text=The training consisted of 20 sessions and was conducted in a neuropsychological laboratory over the course of 4 weeks (5 sessions per week, no> 1 session per day).
 38-1	5280-5283	The	_
 38-2	5284-5292	training	_
 38-3	5293-5302	consisted	_
@@ -948,6 +986,7 @@
 38-32	5445-5446	)	_
 38-33	5447-5448	.	_
 
+Text=Each training session consisted of 80 trials (lasting 30 ~ 40 min).
 39-1	5449-5453	Each	_
 39-2	5454-5462	training	http://maven.renci.org/NeuroBridge/neurobridge#DrinkingSession
 39-3	5463-5470	session	http://maven.renci.org/NeuroBridge/neurobridge#DrinkingSession
@@ -964,6 +1003,7 @@
 39-14	5516-5517	)	_
 39-15	5518-5519	.	_
 
+Text=Then we revised the training task and created an assessment version, which included two trials for each span.
 40-1	5520-5524	Then	_
 40-2	5525-5527	we	_
 40-3	5528-5535	revised	_
@@ -985,6 +1025,7 @@
 40-19	5625-5629	span	_
 40-20	5630-5631	.	_
 
+Text=Testing ended when subjects failed both trials.
 41-1	5632-5639	Testing	_
 41-2	5640-5645	ended	_
 41-3	5646-5650	when	_
@@ -994,6 +1035,7 @@
 41-7	5672-5678	trials	_
 41-8	5679-5680	.	_
 
+Text=The length of the longest correct span was used to reflect the memory span.
 42-1	5681-5684	The	_
 42-2	5685-5691	length	_
 42-3	5692-5694	of	_
@@ -1010,6 +1052,7 @@
 42-14	5751-5755	span	_
 42-15	5756-5757	.	_
 
+Text=The fMRI task was similar to the training task, which included the working memory condition (72 trials) and the baseline condition (36 trials) (see Supplement Fig.
 43-1	5758-5761	The	_
 43-2	5762-5766	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 43-3	5767-5771	task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -1044,10 +1087,12 @@
 43-32	5923-5926	Fig	_
 43-33	5927-5928	.	_
 
+Text=S2B).
 44-1	5929-5932	S2B	_
 44-2	5933-5934	)	_
 44-3	5935-5936	.	_
 
+Text=The stimuli were presented in cue-probe pairs.
 45-1	5937-5940	The	_
 45-2	5941-5948	stimuli	_
 45-3	5949-5953	were	_
@@ -1057,6 +1102,7 @@
 45-7	5977-5982	pairs	_
 45-8	5983-5984	.	_
 
+Text=For the working memory condition, the green-colored cue stimuli were presented in the same way as in the training task and the number of the stimuli was set at 5.
 46-1	5985-5988	For	_
 46-2	5989-5992	the	_
 46-3	5993-6000	working	_
@@ -1090,6 +1136,7 @@
 46-31	6146-6147	5	_
 46-32	6148-6149	.	_
 
+Text=The probe stimulus was an empty grid.
 47-1	6150-6153	The	_
 47-2	6154-6159	probe	_
 47-3	6160-6168	stimulus	_
@@ -1099,6 +1146,7 @@
 47-7	6182-6186	grid	_
 47-8	6187-6188	.	_
 
+Text=Subjects were asked to judge if the Arabic number indicated the correct order of the cue stimuli by pressing the button (left button for the correct number and right button for the incorrect number).
 48-1	6189-6197	Subjects	_
 48-2	6198-6202	were	_
 48-3	6203-6208	asked	_
@@ -1137,6 +1185,7 @@
 48-36	6388-6389	)	_
 48-37	6390-6391	.	_
 
+Text=For the baseline condition, the 5 red-colored cue stimuli were presented in a fixed order (top left corner → top right corner → bottom right corner → bottom left corner → center), and the probe stimuli were the same in all trials.
 49-1	6392-6395	For	_
 49-2	6396-6399	the	_
 49-3	6400-6408	baseline	_
@@ -1185,6 +1234,7 @@
 49-46	6619-6625	trials	_
 49-47	6626-6627	.	_
 
+Text=Each trial started with a centrally placed fixation cross for 500 ms, followed by 5 cue stimuli.
 50-1	6628-6632	Each	_
 50-2	6633-6638	trial	_
 50-3	6639-6646	started	_
@@ -1205,6 +1255,7 @@
 50-18	6717-6724	stimuli	_
 50-19	6725-6726	.	_
 
+Text=Each cue stimulus was presented for 500 ms, followed by a 500 ms interstimulus interval.
 51-1	6727-6731	Each	_
 51-2	6732-6735	cue	_
 51-3	6736-6744	stimulus	_
@@ -1223,6 +1274,7 @@
 51-16	6807-6815	interval	_
 51-17	6816-6817	.	_
 
+Text=After a 1000 ms intermission screen, probe stimuli were presented for 2000 ms. fMRI data acquisition The imaging data were acquired at the Brain Imaging Center of Beijing Normal University.
 52-1	6818-6823	After	_
 52-2	6824-6825	a	_
 52-3	6826-6830	1000	_
@@ -1256,6 +1308,7 @@
 52-31	6997-7007	University	_
 52-32	7008-7009	.	_
 
+Text=All subjects were scanned both before and after the training.
 53-1	7010-7013	All	_
 53-2	7014-7022	subjects	_
 53-3	7023-7027	were	_
@@ -1268,6 +1321,7 @@
 53-10	7062-7070	training	_
 53-11	7071-7072	.	_
 
+Text=Subjects lay supine in a Siemens TIM Trio 3T scanner (Siemens, Erlangen, Germany) with their head snugly fixed with straps and foam pads to restrict head movement.
 54-1	7073-7081	Subjects	_
 54-2	7082-7085	lay	_
 54-3	7086-7092	supine	_
@@ -1301,6 +1355,7 @@
 54-31	7231-7239	movement	_
 54-32	7240-7241	.	_
 
+Text=Resting-state images were acquired first, followed by a T1-weighted image scan.
 55-1	7242-7255	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 55-2	7256-7262	images	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 55-3	7263-7267	were	_
@@ -1315,6 +1370,7 @@
 55-12	7317-7321	scan	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 55-13	7322-7323	.	_
 
+Text=Subjects were then moved out of the scanner and given practice on the working memory task.
 56-1	7324-7332	Subjects	_
 56-2	7333-7337	were	_
 56-3	7338-7342	then	_
@@ -1333,6 +1389,7 @@
 56-16	7409-7413	task	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
 56-17	7414-7415	.	_
 
+Text=After the practice, subjects went back into the scanner and were scanned while performing the working memory task.
 57-1	7416-7421	After	_
 57-2	7422-7425	the	_
 57-3	7426-7434	practice	_
@@ -1354,6 +1411,7 @@
 57-19	7526-7530	task	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
 57-20	7531-7532	.	_
 
+Text=Both resting-state and task-related fMRI were acquired axially using the same echo-planar imaging (EPI) sequence: repetition time (TR) = 2000 ms; echo time (TE) = 30 ms; flip angle (FA) = 90°; field of view (FOV) = 200 × 200 mm2; matrix size = 64 × 64; axial slices = 31; 4.0 mm slice thickness without gap (i.e.
 58-1	7533-7537	Both	_
 58-2	7538-7551	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 58-3	7552-7555	and	_
@@ -1432,6 +1490,7 @@
 58-76	7859-7862	i.e	_
 58-77	7863-7864	.	_
 
+Text=interleaved scan); voxel size = 3.125 × 3.125 × 4.0 mm3.
 59-1	7865-7876	interleaved	_
 59-2	7877-7881	scan	_
 59-3	7882-7883	)	_
@@ -1447,6 +1506,7 @@
 59-13	7919-7922	mm3	_
 59-14	7923-7924	.	_
 
+Text=During the resting-state fMRI data collection (240 volumes, lasting about 8 min), all subjects were required to keep their eyes closed, to stay still but relaxed, and not to think of anything in particular and not to fall asleep.
 60-1	7925-7931	During	_
 60-2	7932-7935	the	_
 60-3	7936-7949	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1494,6 +1554,7 @@
 60-45	8153-8159	asleep	_
 60-46	8160-8161	.	_
 
+Text=During the task-related fMRI data collection (432 volumes, lasting about 14.4 min), all subjects were required to make their responses using a fiber-optic response box.
 61-1	8162-8168	During	_
 61-2	8169-8172	the	_
 61-3	8173-8185	task-related	_
@@ -1525,6 +1586,7 @@
 61-29	8330-8333	box	_
 61-30	8334-8335	.	_
 
+Text=After the task scan, structural images were acquired using a T1-weighted sagittal 3D magnetization-prepared rapid gradient echo (MPRAGE) sequence: TR = 2530 ms; TE = 3.45 ms; FA = 7°; FOV = 256 × 256 mm2; matrix size = 256 × 256; slices = 176; thickness = 1.0 mm; voxel size = 1 × 1 × 1 mm3.
 62-1	8336-8341	After	_
 62-2	8342-8345	the	_
 62-3	8346-8350	task	http://maven.renci.org/NeuroBridge/neurobridge#ComputedTomographyScan
@@ -1596,6 +1658,7 @@
 62-69	8634-8637	mm3	_
 62-70	8638-8639	.	_
 
+Text=Resting-state fMRI data processing and functional connectivity analysis Preprocessing and analysis of resting-state fMRI data were implemented using Statistical Parametric Mapping software (SPM12.0, Wellcome Department of Cognitive Neurology, UCL, London, UK; https: //www.fil.ion.ucl.ac.uk/spm/).
 63-1	8640-8653	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 63-2	8654-8658	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 63-3	8659-8663	data	_
@@ -1639,6 +1702,7 @@
 63-41	8943-8944	)	_
 63-42	8945-8946	.	_
 
+Text=Preprocessing of the resting-state fMRI data included: (1) discarding the first 10 volumes for scanner stabilization to allow the participant to adapt to the scanner; (2) slice timing to correct the acquisition time differences between slices; (3) realigning the images to correct for head movement (any image with more than 2 mm displacement or 2° angular rotation in any direction was excluded); (4) segmenting the T1 image into cerebrospinal fluid (CSF), gray matter and white matter; (5) normalizing to the Montreal Neurological Institute (MNI) space using the transformation parameters estimated from each participant's T1 unified segmentation; (6) resampling to 3 mm isotropic voxels; (7) spatial smoothing with 8 mm full-width at half maximum (FWHM) of the Gaussian smoothing kernel; and (8) removing linear trends using a temporal filter (0.01–0.1 Hz) to reduce low-frequency drifts and high frequency physiological noise.
 64-1	8947-8960	Preprocessing	_
 64-2	8961-8963	of	_
 64-3	8964-8967	the	_
@@ -1816,6 +1880,7 @@
 64-175	9907-9912	noise	_
 64-176	9913-9914	.	_
 
+Text=In the resting-state fMRI data analysis, we first calculated the functional connectivity between the right DLPFC and the left HF at the resting-state following the previous studies.
 65-1	9915-9917	In	_
 65-2	9918-9921	the	_
 65-3	9922-9935	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1846,6 +1911,7 @@
 65-28	10089-10096	studies	_
 65-29	10097-10098	.	_
 
+Text=The most significantly activated voxel in the right DLPFC (right BA9 + right BA46, without dilation, defined by the Wake Forest University PickAtlas toolbox; http: //fmri.wfubmc.edu/software/PickAtlas) during the memory span task under fMRI scanning for each subject was used as the center to create a 6 mm sphere as the region of interest (ROI).
 66-1	10099-10102	The	_
 66-2	10103-10107	most	_
 66-3	10108-10121	significantly	_
@@ -1910,6 +1976,7 @@
 66-62	10451-10452	)	_
 66-63	10453-10454	.	_
 
+Text=The seed for the next analysis was the activated voxels (P <0.05) within the sphere.
 67-1	10455-10458	The	_
 67-2	10459-10463	seed	_
 67-3	10464-10467	for	_
@@ -1930,6 +1997,7 @@
 67-18	10535-10541	sphere	_
 67-19	10542-10543	.	_
 
+Text=Then the time series of the seed was extracted as the first eigenvariate and the functional connectivity of this seed was measured after regressing out the confounding factors of the signals from the mask of the CSF and the white matter, and six head movement parameters (three parameters of the displacement and three parameters of the angular rotation).
 68-1	10544-10548	Then	_
 68-2	10549-10552	the	_
 68-3	10553-10557	time	_
@@ -1993,6 +2061,7 @@
 68-61	10900-10901	)	_
 68-62	10902-10903	.	_
 
+Text=Next, we used time point (posttest minus pretest) as a predictor to produce brain functional connectivity changes for each subject after training.
 69-1	10904-10908	Next	_
 69-2	10909-10910	,	_
 69-3	10911-10913	we	_
@@ -2020,6 +2089,7 @@
 69-25	11044-11052	training	_
 69-26	11053-11054	.	_
 
+Text=Task-state fMRI data processing and psychophysiological interaction (PPI) analysis Preprocessing and analysis of task-related fMRI data were conducted using SPM12.0.
 70-1	11055-11065	Task-state	_
 70-2	11066-11070	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 70-3	11071-11075	data	_
@@ -2044,6 +2114,7 @@
 70-22	11214-11221	SPM12.0	_
 70-23	11222-11223	.	_
 
+Text=Preprocessing steps were similar to those used to preprocess resting-state fMRI data, including (1) realignment (subject with> 2 mm translation or 2° rotation would be excluded); (2) segmentation of the T1 image; (3) normalizing to the MNI space using the transformation parameters estimated from each participant's T1 unified segmentation; (4) resampling to voxel size of 3 × 3 × 3 mm; and (5) spatial smoothing with 8 mm FWHM of the Gaussian smoothing kernel.
 71-1	11224-11237	Preprocessing	_
 71-2	11238-11243	steps	_
 71-3	11244-11248	were	_
@@ -2139,6 +2210,7 @@
 71-93	11697-11703	kernel	_
 71-94	11704-11705	.	_
 
+Text=In this analysis, we focused our analysis on the cue phase of the correct trials which covered cognitive processing of both encoding and maintenance during the working memory task.
 72-1	11706-11708	In	_
 72-2	11709-11713	this	_
 72-3	11714-11722	analysis	_
@@ -2171,6 +2243,7 @@
 72-30	11882-11886	task	_
 72-31	11887-11888	.	_
 
+Text=Contrast (working memory condition minus baseline condition) image for each subject at each time point was produced.
 73-1	11889-11897	Contrast	_
 73-2	11898-11899	(	_
 73-3	11900-11907	working	_
@@ -2192,6 +2265,7 @@
 73-19	11998-12006	produced	_
 73-20	12007-12008	.	_
 
+Text=We conducted the PPI analysis to investigate the task-modulated functional coupling between the right DLPFC and left HF.
 74-1	12009-12011	We	_
 74-2	12012-12021	conducted	_
 74-3	12022-12025	the	_
@@ -2212,6 +2286,7 @@
 74-18	12126-12128	HF	_
 74-19	12129-12130	.	_
 
+Text=The seed was the same as the above resting-state fMRI data analysis.
 75-1	12131-12134	The	_
 75-2	12135-12139	seed	_
 75-3	12140-12143	was	_
@@ -2226,6 +2301,7 @@
 75-12	12190-12198	analysis	_
 75-13	12199-12200	.	_
 
+Text=A general linear model was constructed using the following regressors: the time course of signal in the seed (the physiological variable), the task-related predictor (working memory condition minus baseline condition, the psychological variable), and the interaction of the first two regressors (the PPI variable).
 76-1	12201-12202	A	_
 76-2	12203-12210	general	_
 76-3	12211-12217	linear	_
@@ -2282,6 +2358,7 @@
 76-54	12523-12524	)	_
 76-55	12525-12526	.	_
 
+Text=In addition, white matter and cerebrospinal fluid signals, and six head motion parameters were also controlled as confounding factors.
 77-1	12527-12529	In	_
 77-2	12530-12538	addition	_
 77-3	12539-12540	,	_
@@ -2305,6 +2382,7 @@
 77-21	12655-12662	factors	_
 77-22	12663-12664	.	_
 
+Text=Then we used time point (posttest minus pretest) as a predictor to produce brain PPI changes for each subject after training.
 78-1	12665-12669	Then	_
 78-2	12670-12672	we	_
 78-3	12673-12677	used	_
@@ -2330,6 +2408,7 @@
 78-23	12783-12791	training	_
 78-24	12792-12793	.	_
 
+Text=In these analyses, a high-pass filter at 128 s was used to remove noise associated with low-frequency confounds.
 79-1	12794-12796	In	_
 79-2	12797-12802	these	_
 79-3	12803-12811	analyses	_
@@ -2351,6 +2430,7 @@
 79-19	12897-12906	confounds	_
 79-20	12907-12908	.	_
 
+Text=Data analysis In Study I, we first conducted two-sample T tests to investigate whether the right DLPFC-left HF coupling of at pretest was comparable between the two groups.
 80-1	12909-12913	Data	_
 80-2	12914-12922	analysis	_
 80-3	12923-12925	In	_
@@ -2382,6 +2462,7 @@
 80-29	13075-13081	groups	_
 80-30	13082-13083	.	_
 
+Text=Group was entered as an independent factor, and resting-state functional connectivity or task-state PPI at pretest was entered as the dependent factor.
 81-1	13084-13089	Group	_
 81-2	13090-13093	was	_
 81-3	13094-13101	entered	_
@@ -2407,6 +2488,7 @@
 81-23	13229-13235	factor	_
 81-24	13236-13237	.	_
 
+Text=Afterwards, we used two-sample T tests to examine the group differences in the training effect.
 82-1	13238-13248	Afterwards	_
 82-2	13249-13250	,	_
 82-3	13251-13253	we	_
@@ -2425,6 +2507,7 @@
 82-16	13327-13333	effect	_
 82-17	13334-13335	.	_
 
+Text=Group was entered as an independent factor, training-induced changes in coupling (posttest minus pretest) at resting state or task state were entered as the dependent factor.
 83-1	13336-13341	Group	_
 83-2	13342-13345	was	_
 83-3	13346-13353	entered	_
@@ -2456,6 +2539,7 @@
 83-29	13506-13512	factor	_
 83-30	13513-13514	.	_
 
+Text=In Study II, we first conducted multiple regression analyses to test the association between rs1344706 and the right DLPFC-left HF coupling at pretest to replicate previous finding.
 84-1	13515-13517	In	_
 84-2	13518-13523	Study	_
 84-3	13524-13526	II	_
@@ -2486,6 +2570,7 @@
 84-28	13689-13696	finding	_
 84-29	13697-13698	.	_
 
+Text=Genotype (AA vs. AC vs. CC) was entered as an independent factor, resting-state functional connectivity or task-state PPI images at pretest were entered as the dependent factor.
 85-1	13699-13707	Genotype	_
 85-2	13708-13709	(	_
 85-3	13710-13712	AA	_
@@ -2518,6 +2603,7 @@
 85-30	13872-13878	factor	_
 85-31	13879-13880	.	_
 
+Text=Then we used multiple regression analysis to test the genotypic effect on the training-induced coupling changes.
 86-1	13881-13885	Then	_
 86-2	13886-13888	we	_
 86-3	13889-13893	used	_
@@ -2536,6 +2622,7 @@
 86-16	13985-13992	changes	_
 86-17	13993-13994	.	_
 
+Text=Genotype (AA vs. AC vs. CC) was entered as an independent factor, and training-induced coupling changes (posttest minus pretest) at resting state or task state were entered as the dependent factor.
 87-1	13995-14003	Genotype	_
 87-2	14004-14005	(	_
 87-3	14006-14008	AA	_
@@ -2574,6 +2661,7 @@
 87-36	14190-14196	factor	_
 87-37	14197-14198	.	_
 
+Text=All the above analyses were limited to the left HF (defined by the Wake Forest University PickAtlas toolbox; http: //fmri.wfubmc.edu/software/PickAtlas).
 88-1	14199-14202	All	_
 88-2	14203-14206	the	_
 88-3	14207-14212	above	_
@@ -2600,6 +2688,7 @@
 88-24	14354-14355	)	_
 88-25	14356-14357	.	_
 
+Text=Significance level was set at P <0.05 after family-wise error (FWE) correction at the peak-level.
 89-1	14358-14370	Significance	_
 89-2	14371-14376	level	_
 89-3	14377-14380	was	_
@@ -2620,6 +2709,7 @@
 89-18	14447-14457	peak-level	_
 89-19	14458-14459	.	_
 
+Text=Significant results were followed up by post-hoc analysis using repeated measures ANOVA in SPSS 22.0.
 90-1	14460-14471	Significant	_
 90-2	14472-14479	results	_
 90-3	14480-14484	were	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Identifying first-episode drug naïve patients with schizophrenia with or without auditory verbal hallucinations using whole-brain functional connectivity: A pattern analysis study Many studies have focused on patients with schizophrenia with or without auditory verbal hallucinations (AVHs), but due to the complexity of schizophrenia, biologically based diagnosis of patients with schizophrenia remains unsolved.
 1-1	0-11	Identifying	_
 1-2	12-25	first-episode	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
 1-3	26-30	drug	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
@@ -61,6 +62,7 @@
 1-57	409-417	unsolved	_
 1-58	418-419	.	_
 
+Text=The objectives of this study are to classify between first-episode drug-naïve patients with schizophrenia and healthy controls, and to classify between patients with and without AVHs.
 2-1	420-423	The	_
 2-2	424-434	objectives	_
 2-3	435-437	of	_
@@ -90,6 +92,7 @@
 2-27	599-603	AVHs	_
 2-28	604-605	.	_
 
+Text=Resting state fMRI data from 41 patients with schizophrenia (22 with and 19 without AVHs) and 23 normal controls (NC) were included to compute functional connectivity between brain regions.
 3-1	606-613	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 3-2	614-619	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 3-3	620-624	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -125,6 +128,7 @@
 3-33	791-798	regions	_
 3-34	799-800	.	_
 
+Text=Classifiers based on support vector machine (SVM) were developed to classify patients with schizophrenia from NC, as well as between the two subgroups of patients.
 4-1	801-812	Classifiers	_
 4-2	813-818	based	_
 4-3	819-821	on	_
@@ -155,6 +159,7 @@
 4-28	958-966	patients	_
 4-29	967-968	.	_
 
+Text=The classification accuracy was evaluated with a leave-one-out cross-validation (LOOCV) strategy.
 5-1	969-972	The	_
 5-2	973-987	classification	_
 5-3	988-996	accuracy	_
@@ -170,6 +175,7 @@
 5-13	1059-1067	strategy	_
 5-14	1068-1069	.	_
 
+Text=The accuracy in discriminating both subgroups of patients from NC was 81.3%, with 92.0% (sensitivity) and 65.2% (specificity) for the patients and NC, respectively.
 6-1	1070-1073	The	_
 6-2	1074-1082	accuracy	_
 6-3	1083-1085	in	_
@@ -205,6 +211,7 @@
 6-33	1230-1242	respectively	_
 6-34	1243-1244	.	_
 
+Text=The classification accuracy in discriminating patients with and without AVHs was 75.6%, with 77.3% (sensitivity) and 73.9% (specificity) for patients with and without AVHs, respectively.
 7-1	1245-1248	The	_
 7-2	1249-1263	classification	_
 7-3	1264-1272	accuracy	_
@@ -241,6 +248,7 @@
 7-34	1427-1439	respectively	_
 7-35	1440-1441	.	_
 
+Text=The results suggest that functional connectivity provided good discriminative power not only for identifying patients with schizophrenia among NC, but also in discriminating patients with schizophrenia with and without AVHs.
 8-1	1442-1445	The	_
 8-2	1446-1453	results	_
 8-3	1454-1461	suggest	_
@@ -274,6 +282,7 @@
 8-31	1662-1666	AVHs	_
 8-32	1667-1668	.	_
 
+Text=Highlights Normal controls, schizophrenia patients with and without AVHs were successfully classified.
 9-1	1669-1679	Highlights	_
 9-2	1680-1686	Normal	_
 9-3	1687-1695	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -289,6 +298,7 @@
 9-13	1761-1771	classified	_
 9-14	1772-1773	.	_
 
+Text=Using LOOCV, the classifier achieved an accuracy of groups of 81.3% for all the three groups of subjects.
 10-1	1774-1779	Using	_
 10-2	1780-1785	LOOCV	_
 10-3	1786-1787	,	_
@@ -311,6 +321,7 @@
 10-20	1872-1880	subjects	_
 10-21	1881-1882	.	_
 
+Text=Patients with AVHs were differentiated with those without AVHs with an accuracy of 75.6%.
 11-1	1883-1891	Patients	_
 11-2	1892-1896	with	_
 11-3	1897-1901	AVHs	_
@@ -328,6 +339,7 @@
 11-15	1971-1972	%	_
 11-16	1973-1974	.	_
 
+Text=The proposed may help with the clinical diagnosis of schizophrenia patients.
 12-1	1975-1978	The	_
 12-2	1979-1987	proposed	_
 12-3	1988-1991	may	_
@@ -341,6 +353,7 @@
 12-11	2042-2050	patients	_
 12-12	2051-2052	.	_
 
+Text=Materials and methods Participants 45 first-episode drug naïve patients with schizophrenia, including untreated inpatients undergoing their first hospitalization or outpatients seeking help for the first time after the first onset of the disease, were assigned to two groups according to the presence of AVHs symptom.
 13-1	2053-2062	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-2	2063-2066	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-3	2067-2074	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -390,6 +403,7 @@
 13-47	2364-2371	symptom	_
 13-48	2372-2373	.	_
 
+Text=25 of them who reported AVHs at least once a day for the past four weeks were assigned to AVHs group.
 14-1	2374-2376	25	_
 14-2	2377-2379	of	_
 14-3	2380-2384	them	_
@@ -413,6 +427,7 @@
 14-21	2469-2474	group	_
 14-22	2475-2476	.	_
 
+Text=20 patients who have never experienced AVHs or have not experienced them within two years before recruitment were allocated to Non-AVHs group, with consensus diagnoses from two senior clinical psychiatrists according to the Structural Clinical Interview for Diagnostic Statistical and Manual of Mental disorders, Fourth Edition, Text Revision (DSM-IV-TR).
 15-1	2477-2479	20	_
 15-2	2480-2488	patients	_
 15-3	2489-2492	who	_
@@ -469,6 +484,7 @@
 15-54	2835-2836	)	_
 15-55	2837-2838	.	_
 
+Text=Demographically matched 24 normal controls (NC group) were included in this study.
 16-1	2839-2854	Demographically	_
 16-2	2855-2862	matched	_
 16-3	2863-2865	24	_
@@ -485,6 +501,7 @@
 16-14	2917-2922	study	_
 16-15	2923-2924	.	_
 
+Text=They were all right-handed and native Chinese speakers.
 17-1	2925-2929	They	_
 17-2	2930-2934	were	_
 17-3	2935-2938	all	_
@@ -495,6 +512,7 @@
 17-8	2971-2979	speakers	_
 17-9	2980-2981	.	_
 
+Text=Five subjects were excluded from analysis because of excessive head motion during the MRI scan (> 2.5 mm translation and> 2.5° rotation).
 18-1	2982-2986	Five	_
 18-2	2987-2995	subjects	_
 18-3	2996-3000	were	_
@@ -522,6 +540,7 @@
 18-25	3120-3121	)	_
 18-26	3122-3123	.	_
 
+Text=The remaining 41 patients (22 with AVHs, 19 without AVHs, mean duration since a diagnosis of first-episode was 9.2 months) and 23 NC were included in the analysis.
 19-1	3124-3127	The	_
 19-2	3128-3137	remaining	_
 19-3	3138-3140	41	_
@@ -556,6 +575,7 @@
 19-32	3282-3290	analysis	_
 19-33	3291-3292	.	_
 
+Text=All participants gave their written informed consent prior to the study, which was in accordance with the Declaration of Helsinki and all experiments protocol were approved by ethics committee in Fourth Military Medical University (FMMU).
 20-1	3293-3296	All	_
 20-2	3297-3309	participants	_
 20-3	3310-3314	gave	_
@@ -596,6 +616,7 @@
 20-38	3532-3533	)	_
 20-39	3534-3535	.	_
 
+Text=Clinical assessment Patients meeting diagnostic criteria for schizophrenia according to DSM-IV-TR were assessed by two senior clinical psychiatrists using the Positive and Negative Symptom Scale (PANSS total score ≥ 60).
 21-1	3536-3544	Clinical	_
 21-2	3545-3555	assessment	_
 21-3	3556-3564	Patients	_
@@ -630,6 +651,7 @@
 21-32	3756-3757	)	_
 21-33	3758-3759	.	_
 
+Text=Further assessment of AVHs patients was based on the Hoffman Auditory Hallucination Rating Scale (HAHRS).
 22-1	3760-3767	Further	_
 22-2	3768-3778	assessment	_
 22-3	3779-3781	of	_
@@ -649,6 +671,7 @@
 22-17	3865-3866	)	http://maven.renci.org/NeuroBridge/neurobridge#AuditoryHallucinationsSubscaleofPsychoticSymptomsRatingScale
 22-18	3867-3868	.	_
 
+Text=Magnetic resonance imaging Magnetic resonance imaging (MRI) was performed on a 3 Tesla Magnetom Trio Tim scanner system (Siemens, Germany) at Xijing Hospital, FMMU.
 23-1	3869-3877	Magnetic	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 23-2	3878-3887	resonance	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 23-3	3888-3895	imaging	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -681,6 +704,7 @@
 23-30	4034-4038	FMMU	_
 23-31	4039-4040	.	_
 
+Text=During the resting state scan, subjects were instructed to close their eyes, but remain awake.
 24-1	4041-4047	During	_
 24-2	4048-4051	the	_
 24-3	4052-4059	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -700,6 +724,7 @@
 24-17	4131-4136	awake	_
 24-18	4137-4138	.	_
 
+Text=A standard birdcage head coil was used.
 25-1	4139-4140	A	_
 25-2	4141-4149	standard	_
 25-3	4150-4158	birdcage	_
@@ -709,6 +734,7 @@
 25-7	4173-4177	used	_
 25-8	4178-4179	.	_
 
+Text=Foam pads and headsets were used to reduce head motion and scanner noise.
 26-1	4180-4184	Foam	_
 26-2	4185-4189	pads	_
 26-3	4190-4193	and	_
@@ -724,6 +750,7 @@
 26-13	4247-4252	noise	_
 26-14	4253-4254	.	_
 
+Text=The fMRI images were collected using an echo-planar imaging (EPI) sequence.
 27-1	4255-4258	The	_
 27-2	4259-4263	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 27-3	4264-4270	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -739,6 +766,7 @@
 27-13	4323-4331	sequence	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 27-14	4332-4333	.	_
 
+Text=The parameters were: repetition time/echo time = 2000/30 ms, thickness/gap = 4/0.6 mm, field of view = 220 × 220 mm, flip angle = 90°, matrix = 64 × 64, number of slices = 33.
 28-1	4334-4337	The	_
 28-2	4338-4348	parameters	_
 28-3	4349-4353	were	_
@@ -782,6 +810,7 @@
 28-41	4512-4514	33	_
 28-42	4515-4516	.	_
 
+Text=Each resting state scan lasted about 10 min and generated 240 brain volumes.
 29-1	4517-4521	Each	_
 29-2	4522-4529	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 29-3	4530-4535	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -797,6 +826,7 @@
 29-13	4585-4592	volumes	_
 29-14	4593-4594	.	_
 
+Text=T1-weighted anatomical data were acquired using the 3D MPRAGE sequence: repetition time/echo time = 2530/3.5 ms, thickness/gap = 1/0 mm, field of view = 256 mm × 256 mm, flip angle = 7°, matrix = 256 × 256, number of slices = 192, resolution = 1 mm × 1 mm × 1 mm.
 30-1	4595-4606	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 30-2	4607-4617	anatomical	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 30-3	4618-4622	data	_
@@ -859,6 +889,7 @@
 30-60	4862-4864	mm	_
 30-61	4865-4866	.	_
 
+Text=Data preprocessing Using the DPARSF 2.3, preprocessing included several steps: (1) For each subject, the first 10 volumes of scanned data were discarded for magnetic saturation.
 31-1	4867-4871	Data	_
 31-2	4872-4885	preprocessing	_
 31-3	4886-4891	Using	_
@@ -892,6 +923,7 @@
 31-31	5038-5048	saturation	_
 31-32	5049-5050	.	_
 
+Text=(2) The 230 volumes were corrected by registering for head motion.
 32-1	5051-5052	(	_
 32-2	5053-5054	2	_
 32-3	5055-5056	)	_
@@ -907,6 +939,7 @@
 32-13	5112-5118	motion	_
 32-14	5119-5120	.	_
 
+Text=(3) The volumes were normalized by using T1 image segmentation.
 33-1	5121-5122	(	_
 33-2	5123-5124	3	_
 33-3	5125-5126	)	_
@@ -921,6 +954,7 @@
 33-12	5173-5185	segmentation	_
 33-13	5186-5187	.	_
 
+Text=(4) Temporal band-pass filtering (0.01 Hz <f <0.08 Hz) and spatial smoothing (8 mm full-width half-maximum kernel) were applied to the resulting images.
 34-1	5188-5189	(	_
 34-2	5190-5191	4	_
 34-3	5192-5193	)	_
@@ -954,6 +988,7 @@
 34-31	5341-5347	images	_
 34-32	5348-5349	.	_
 
+Text=(5) Nuisance regressors, including 6 motion parameters obtained by rigid-body head motion correction, global signal level, ventricular signal level, and white matter signals were regressed out.
 35-1	5350-5351	(	_
 35-2	5352-5353	5	_
 35-3	5354-5355	)	_
@@ -988,6 +1023,7 @@
 35-32	5545-5548	out	_
 35-33	5549-5550	.	_
 
+Text=(6) The automated anatomical labeling (AAL) atlas template with 116 regions of interest (ROI) was used to extract time series of the BOLD time series.
 36-1	5551-5552	(	_
 36-2	5553-5554	6	_
 36-3	5555-5556	)	_
@@ -1021,6 +1057,7 @@
 36-31	5700-5706	series	_
 36-32	5707-5708	.	_
 
+Text=(7) The correlation (Pearson's r coefficient) between each pair of ROI time series was computed to generate a correlation matrix (116 × 116) for each subject.
 37-1	5709-5710	(	_
 37-2	5711-5712	7	_
 37-3	5713-5714	)	_
@@ -1056,6 +1093,7 @@
 37-33	5866-5873	subject	_
 37-34	5874-5875	.	_
 
+Text=The 6670 upper triangle elements of the matrix, excluding the diagonal of the matrix, were used as features in all subsequent MPA.
 38-1	5876-5879	The	_
 38-2	5880-5884	6670	_
 38-3	5885-5890	upper	_
@@ -1082,6 +1120,7 @@
 38-24	6004-6007	MPA	_
 38-25	6008-6009	.	_
 
+Text=With regard to head motion, no significance difference was found among groups on Jenkinson's mean frame-wise displacement values (P = 0.17).
 39-1	6010-6014	With	_
 39-2	6015-6021	regard	_
 39-3	6022-6024	to	_
@@ -1109,6 +1148,7 @@
 39-25	6152-6153	)	_
 39-26	6154-6155	.	_
 
+Text=Feature selection and SVM SVM was proposed by Vapnik and has been applied in life sciences as a powerful tool for classification and prediction.
 40-1	6156-6163	Feature	_
 40-2	6164-6173	selection	_
 40-3	6174-6177	and	_
@@ -1135,6 +1175,7 @@
 40-24	6289-6299	prediction	_
 40-25	6300-6301	.	_
 
+Text=Many studies have demonstrated that SVM is suitable for analyzing neuroimaging data.
 41-1	6302-6306	Many	_
 41-2	6307-6314	studies	_
 41-3	6315-6319	have	_
@@ -1149,6 +1190,7 @@
 41-12	6381-6385	data	_
 41-13	6386-6387	.	_
 
+Text=Due to the large number of features in our study, feature selection with high discriminative power is essential to achieve high classification accuracy.
 42-1	6388-6391	Due	_
 42-2	6392-6394	to	_
 42-3	6395-6398	the	_
@@ -1175,6 +1217,7 @@
 42-24	6532-6540	accuracy	_
 42-25	6541-6542	.	_
 
+Text=In this study, SVM was used to discriminate between subjects belonging to different classes (for example, NC and patients).
 43-1	6543-6545	In	_
 43-2	6546-6550	this	_
 43-3	6551-6556	study	_
@@ -1200,6 +1243,7 @@
 43-23	6668-6669	)	_
 43-24	6670-6671	.	_
 
+Text=The Kendall tau rank correlation coefficient was used as the discriminative power indicator for each feature based on its relevance to classification.
 44-1	6672-6675	The	_
 44-2	6676-6683	Kendall	_
 44-3	6684-6687	tau	_
@@ -1224,6 +1268,7 @@
 44-22	6807-6821	classification	_
 44-23	6822-6823	.	_
 
+Text=Programs written in Matlab R2010a were used to calculate the tau.
 45-1	6824-6832	Programs	_
 45-2	6833-6840	written	_
 45-3	6841-6843	in	_
@@ -1237,6 +1282,7 @@
 45-11	6885-6888	tau	_
 45-12	6889-6890	.	_
 
+Text=For example, for the i-th feature, tau is computed by: where m and n are the number of samples in the two groups, and nc and nd are the number of concordant and discordant pairs between the two groups, respectively.
 46-1	6891-6894	For	_
 46-2	6895-6902	example	_
 46-3	6903-6904	,	_
@@ -1284,6 +1330,7 @@
 46-45	7098-7110	respectively	_
 46-46	7111-7112	.	_
 
+Text=For feature i, let xj and xk denote the functional connectivity of the j-th sample from the control group and k-th sample from the patient group.
 47-1	7113-7116	For	_
 47-2	7117-7124	feature	_
 47-3	7125-7126	i	_
@@ -1313,6 +1360,7 @@
 47-27	7253-7258	group	_
 47-28	7259-7260	.	_
 
+Text=Let yj and yk denote the class labels of the groups (e. g., +1 for controls and −1 for patients).
 48-1	7261-7264	Let	_
 48-2	7265-7267	yj	_
 48-3	7268-7271	and	_
@@ -1338,6 +1386,7 @@
 48-23	7359-7360	)	_
 48-24	7361-7362	.	_
 
+Text=The pair is concordant if the connectivity difference and class label difference has the same sign: They are discordant if the signs are opposite: The discriminative power was defined as the absolute value of the tau.
 49-1	7363-7366	The	_
 49-2	7367-7371	pair	_
 49-3	7372-7374	is	_
@@ -1378,6 +1427,7 @@
 49-38	7578-7581	tau	_
 49-39	7582-7583	.	_
 
+Text=Features were ranked according to their discriminative powers and those above a certain threshold were included in the final features set in SVM classification.
 50-1	7584-7592	Features	_
 50-2	7593-7597	were	_
 50-3	7598-7604	ranked	_
@@ -1404,6 +1454,7 @@
 50-24	7729-7743	classification	_
 50-25	7744-7745	.	_
 
+Text=The threshold was chosen to give the best classification accuracy for the classifier.
 51-1	7746-7749	The	_
 51-2	7750-7759	threshold	_
 51-3	7760-7763	was	_
@@ -1419,6 +1470,7 @@
 51-13	7820-7830	classifier	_
 51-14	7831-7832	.	_
 
+Text=When the high discriminative power feature set was selected, LIBSVM 3.18 (default setting C = 1, as suggested in, linear kernel) was used for classification.
 52-1	7833-7837	When	_
 52-2	7838-7841	the	_
 52-3	7842-7846	high	_
@@ -1451,6 +1503,7 @@
 52-30	7980-7994	classification	_
 52-31	7995-7996	.	_
 
+Text=Due to the quantity of samples, LOOCV was conducted by iterating the procedure with each of the samples left out.
 53-1	7997-8000	Due	_
 53-2	8001-8003	to	_
 53-3	8004-8007	the	_
@@ -1474,6 +1527,7 @@
 53-21	8107-8110	out	_
 53-22	8111-8112	.	_
 
+Text=Classification accuracy was computed from the average of all the iterations.
 54-1	8113-8127	Classification	_
 54-2	8128-8136	accuracy	_
 54-3	8137-8140	was	_
@@ -1487,6 +1541,7 @@
 54-11	8178-8188	iterations	_
 54-12	8189-8190	.	_
 
+Text=The training features (functional connections) differed slightly from iteration to iteration of the LOOCV procedure.
 55-1	8191-8194	The	_
 55-2	8195-8203	training	_
 55-3	8204-8212	features	_
@@ -1506,6 +1561,7 @@
 55-17	8299-8308	procedure	_
 55-18	8309-8310	.	_
 
+Text=The common features, considered as consensus functional connectivity (CFC), were selected as the final feature set through all the iterations.
 56-1	8311-8314	The	_
 56-2	8315-8321	common	_
 56-3	8322-8330	features	_
@@ -1532,6 +1588,7 @@
 56-24	8446-8456	iterations	_
 56-25	8457-8458	.	_
 
+Text=The occurrence number of each ROI in the CFC was calculated as the region weight as an indicator of the relative contribution to identification.
 57-1	8459-8462	The	_
 57-2	8463-8473	occurrence	_
 57-3	8474-8480	number	_
@@ -1558,6 +1615,7 @@
 57-24	8588-8602	identification	_
 57-25	8603-8604	.	_
 
+Text=The steps of the calculation are illustrated in Fig.
 58-1	8605-8608	The	_
 58-2	8609-8614	steps	_
 58-3	8615-8617	of	_
@@ -1569,9 +1627,11 @@
 58-9	8653-8656	Fig	_
 58-10	8657-8658	.	_
 
+Text=1.
 59-1	8659-8660	1	_
 59-2	8661-8662	.	_
 
+Text=To evaluate the performance of the classifier, we did a permutation test.
 60-1	8663-8665	To	_
 60-2	8666-8674	evaluate	_
 60-3	8675-8678	the	_
@@ -1587,6 +1647,7 @@
 60-13	8732-8736	test	_
 60-14	8737-8738	.	_
 
+Text=The test was repeated 5000 times.
 61-1	8739-8742	The	_
 61-2	8743-8747	test	_
 61-3	8748-8751	was	_
@@ -1595,6 +1656,7 @@
 61-6	8766-8771	times	_
 61-7	8772-8773	.	_
 
+Text=For each permutation, the class labels of the training data were randomly permutated, and then an accuracy was obtained.
 62-1	8774-8777	For	_
 62-2	8778-8782	each	_
 62-3	8783-8794	permutation	_
@@ -1618,6 +1680,7 @@
 62-21	8887-8895	obtained	_
 62-22	8896-8897	.	_
 
+Text=The results were used as a baseline to gauge the statistical significance of the SVM procedure.
 63-1	8898-8901	The	_
 63-2	8902-8909	results	_
 63-3	8910-8914	were	_

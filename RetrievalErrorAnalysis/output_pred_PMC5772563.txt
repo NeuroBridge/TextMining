@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=The neural correlates of the unified percept of alcohol-related craving: a fMRI and EEG study Alcohol addiction is accompanied by aberrant neural activity.
 1-1	0-3	The	_
 1-2	4-10	neural	_
 1-3	11-21	correlates	_
@@ -28,6 +29,7 @@
 1-24	147-155	activity	_
 1-25	156-157	.	_
 
+Text=Previously, task-based fMRI and resting-state EEG studies have revealed that craving, a critical component of addiction, is linked to abnormal activity in cortical regions including the dorsal anterior cingulate cortex (dACC), nucleus accumbens (NAcc), posterior cingulate cortex (PCC) and pregenual anterior cingulate cortex (pgACC), etc.
 2-1	158-168	Previously	_
 2-2	169-170	,	_
 2-3	171-181	task-based	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -89,6 +91,7 @@
 2-59	507-510	etc	_
 2-60	511-512	.	_
 
+Text=In this study, we combine these two imaging techniques to investigate a group of alcohol-addicted patients and provide convergent evidence for the neural correlates of craving not only in alcohol but substance abuse in general.
 3-1	513-515	In	_
 3-2	516-520	this	_
 3-3	521-526	study	_
@@ -127,6 +130,7 @@
 3-36	733-740	general	_
 3-37	741-742	.	_
 
+Text=We observe abnormal BOLD signal levels in the dACC, NAcc, pgACC, PCC, amygdala, and parahippocampus (PHC) in a cue-reactivity fMRI experiment.
 4-1	743-745	We	_
 4-2	746-753	observe	_
 4-3	754-762	abnormal	_
@@ -157,6 +161,7 @@
 4-28	881-891	experiment	_
 4-29	892-893	.	_
 
+Text=These findings are consistent with increased beta-band activity in the dACC and pgACC in resting-state EEG.
 5-1	894-899	These	_
 5-2	900-908	findings	_
 5-3	909-912	are	_
@@ -175,6 +180,7 @@
 5-16	997-1000	EEG	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 5-17	1001-1002	.	_
 
+Text=We further observe desynchronization characterized by decreased functional connectivity in cue-based fMRI and hypersynchronization characterized by increased functional connectivity between these regions in the theta frequency band.
 6-1	1003-1005	We	_
 6-2	1006-1013	further	_
 6-3	1014-1021	observe	_
@@ -204,6 +210,7 @@
 6-27	1230-1234	band	_
 6-28	1235-1236	.	_
 
+Text=The results of our study show a consistent pattern of alcohol craving elicited by external cues and internal desires.
 7-1	1237-1240	The	_
 7-2	1241-1248	results	_
 7-3	1249-1251	of	_
@@ -225,6 +232,7 @@
 7-19	1346-1353	desires	_
 7-20	1354-1355	.	_
 
+Text=Given the advantage of superior spatial and temporal resolution, we hypothesize a “ central craving network ” that integrates the different aspects of alcohol addiction into a unified percept.
 8-1	1356-1361	Given	_
 8-2	1362-1365	the	_
 8-3	1366-1375	advantage	_
@@ -257,6 +265,7 @@
 8-30	1541-1548	percept	_
 8-31	1549-1550	.	_
 
+Text=Materials and Methods Patient demographics Eleven patients (N = 11; 8 males and 3 females) with a mean age of 48.12 years (sd = 8.54) were included in the study.
 9-1	1551-1560	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-2	1561-1564	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-3	1565-1572	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -294,6 +303,7 @@
 9-35	1711-1716	study	_
 9-36	1717-1718	.	_
 
+Text=The mean score on the NRS (numeric rating scale) for the desire of alcohol was 8.32 (sd = 1.87) and the mean Audit (Alcohol Use Disorders Identification test) score was 36.21 (sd = 5.89).
 10-1	1719-1722	The	_
 10-2	1723-1727	mean	_
 10-3	1728-1733	score	_
@@ -338,6 +348,7 @@
 10-42	1912-1913	)	_
 10-43	1914-1915	.	_
 
+Text=An Audit (Alcohol Use Disorders Identification test) score of 20 or above clinically warrants further diagnostic evaluation for alcohol dependence.
 11-1	1916-1918	An	_
 11-2	1919-1924	Audit	_
 11-3	1925-1926	(	_
@@ -362,6 +373,7 @@
 11-22	2054-2064	dependence	_
 11-23	2065-2066	.	_
 
+Text=All patients were first screened by a psychiatric consultation.
 12-1	2067-2070	All	_
 12-2	2071-2079	patients	_
 12-3	2080-2084	were	_
@@ -373,6 +385,7 @@
 12-9	2117-2129	consultation	_
 12-10	2130-2131	.	_
 
+Text=Following that an EEG was performed, as well as an fMRI using images of alcoholic and non-alcoholic beverages as cues.
 13-1	2132-2141	Following	_
 13-2	2142-2146	that	_
 13-3	2147-2149	an	_
@@ -396,6 +409,7 @@
 13-21	2246-2250	cues	_
 13-22	2251-2252	.	_
 
+Text=All patients reported that they had undergone multiple treatments with only temporary success, due to major craving and an obsessive-compulsive focus on alcohol, presented with a relapsing clinical picture.
 14-1	2253-2256	All	_
 14-2	2257-2265	patients	_
 14-3	2266-2274	reported	_
@@ -429,6 +443,7 @@
 14-31	2453-2460	picture	_
 14-32	2461-2462	.	_
 
+Text=All patients were resistant to acamprosate and naltrexone.
 15-1	2463-2466	All	_
 15-2	2467-2475	patients	_
 15-3	2476-2480	were	_
@@ -439,6 +454,7 @@
 15-8	2510-2520	naltrexone	_
 15-9	2521-2522	.	_
 
+Text=Patients reported that during relapses they engaged in binge drinking associated with aggression with amnesia, mood and sleep problems followed by withdrawal symptoms upon arresting alcohol intake.
 16-1	2523-2531	Patients	_
 16-2	2532-2540	reported	_
 16-3	2541-2545	that	_
@@ -469,6 +485,7 @@
 16-28	2714-2720	intake	_
 16-29	2721-2722	.	_
 
+Text=Behavioral treatment in outpatient individualized sessions, group sessions, and inpatient treatment in a general hospital as well as a specialized addiction hospital all yielded only temporary success.
 17-1	2723-2733	Behavioral	_
 17-2	2734-2743	treatment	_
 17-3	2744-2746	in	_
@@ -500,6 +517,7 @@
 17-29	2918-2925	success	_
 17-30	2926-2927	.	_
 
+Text=See Table 1 for Table demographics, anthropometric and laboratory measures.
 18-1	2928-2931	See	_
 18-2	2932-2937	Table	_
 18-3	2938-2939	1	_
@@ -513,6 +531,7 @@
 18-11	2995-3003	measures	_
 18-12	3004-3005	.	_
 
+Text=Participants were requested to refrain from alcohol consumption 24 hours prior to recording and from caffeinated beverage consumption on the day of recording.
 19-1	3006-3018	Participants	_
 19-2	3019-3023	were	_
 19-3	3024-3033	requested	_
@@ -538,6 +557,7 @@
 19-23	3154-3163	recording	_
 19-24	3164-3165	.	_
 
+Text=This study was approved by the local ethical committee (Antwerp University Hospital) and was in accordance with the declaration of Helsinki.
 20-1	3166-3170	This	_
 20-2	3171-3176	study	_
 20-3	3177-3180	was	_
@@ -563,6 +583,7 @@
 20-23	3299-3307	Helsinki	_
 20-24	3308-3309	.	_
 
+Text=Written informed consent was obtained from all patients.
 21-1	3310-3317	Written	_
 21-2	3318-3326	informed	_
 21-3	3327-3334	consent	_
@@ -573,6 +594,7 @@
 21-8	3357-3365	patients	_
 21-9	3366-3367	.	_
 
+Text=Functional Magnetic Resonance Imaging Data Acquisition The patients underwent three fMRI sessions at different time points on a 3 T MRI scanner (ACHIEVA, Philips Medical Systems, Best, The Netherlands).
 22-1	3368-3378	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 22-2	3379-3387	Magnetic	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 22-3	3388-3397	Resonance	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -609,6 +631,7 @@
 22-34	3573-3574	)	_
 22-35	3575-3576	.	_
 
+Text=Alcohol addicted patients performed a visual cue stimulation experiment using a blocked designed paradigm.
 23-1	3577-3584	Alcohol	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 23-2	3585-3593	addicted	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 23-3	3594-3602	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -625,6 +648,7 @@
 23-14	3674-3682	paradigm	_
 23-15	3683-3684	.	_
 
+Text=During the experiment, the fMRI was performed to map out BOLD signals in different cortical areas.
 24-1	3685-3691	During	_
 24-2	3692-3695	the	_
 24-3	3696-3706	experiment	_
@@ -644,6 +668,7 @@
 24-17	3778-3783	areas	_
 24-18	3784-3785	.	_
 
+Text=Each patient had four sessions and each session contained 120 scans (EPI; 120 dynamic scans, repetition time (TR) = 3000 ms; echo time (TE) = 33 ms; voxel size = 2.9 × 2.9 × 4.0 mm; field of view (FOV) = 230 × 230 mm; flip angle (FA) = 90).
 25-1	3786-3790	Each	_
 25-2	3791-3798	patient	_
 25-3	3799-3802	had	_
@@ -712,6 +737,7 @@
 25-66	4040-4041	)	_
 25-67	4042-4043	.	_
 
+Text=Within and between sessions balance was included in the experimental design.
 26-1	4044-4050	Within	_
 26-2	4051-4054	and	_
 26-3	4055-4062	between	_
@@ -725,6 +751,7 @@
 26-11	4113-4119	design	_
 26-12	4120-4121	.	_
 
+Text=In each session, 120 images were divided into 24 blocks and 4 conditions.
 27-1	4122-4124	In	_
 27-2	4125-4129	each	_
 27-3	4130-4137	session	_
@@ -741,6 +768,7 @@
 27-14	4185-4195	conditions	_
 27-15	4196-4197	.	_
 
+Text=Each block contained 5 images within the same condition and each image lasted 3 s. The four conditions were (a) alcohol condition (images of alcohol beverages), (b) beverage condition (images of non-alcoholic beverages), (c) control condition (unidentifiably scrambled images of alcoholic and non-alcoholic beverages), and (d) fix condition (image of a fixation cross).
 28-1	4198-4202	Each	_
 28-2	4203-4208	block	_
 28-3	4209-4218	contained	_
@@ -815,6 +843,7 @@
 28-72	4584-4585	)	_
 28-73	4586-4587	.	_
 
+Text=Patients were instructed to focus on the visually presented stimuli throughout the entire experiment in the MRI machine.
 29-1	4588-4596	Patients	_
 29-2	4597-4601	were	_
 29-3	4602-4612	instructed	_
@@ -835,6 +864,7 @@
 29-18	4700-4707	machine	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 29-19	4708-4709	.	_
 
+Text=Numerous studies have used a cue-reactivity paradigm, which exposes subjects to drug-related stimuli, while monitoring their physiological responses to investigate addictive behavior.
 30-1	4710-4718	Numerous	_
 30-2	4719-4726	studies	_
 30-3	4727-4731	have	_
@@ -861,6 +891,7 @@
 30-24	4886-4894	behavior	_
 30-25	4895-4896	.	_
 
+Text=A meta-analysis of the cue-reactivity paradigm suggests it can generate a stable profile of significant addict-related effects.
 31-1	4897-4898	A	_
 31-2	4899-4912	meta-analysis	_
 31-3	4913-4915	of	_
@@ -880,6 +911,7 @@
 31-17	5016-5023	effects	_
 31-18	5024-5025	.	_
 
+Text=To improve our understanding of alcohol addictive behavior, establish treatment for active alcohol users, and prevent relapse, it is important to understand the neurobiological mechanism that underpins alcohol-related behavior.
 32-1	5026-5028	To	_
 32-2	5029-5036	improve	_
 32-3	5037-5040	our	_
@@ -914,6 +946,7 @@
 32-32	5247-5255	behavior	_
 32-33	5256-5257	.	_
 
+Text=Data analysis The fMRI data were analyzed using Statistical Parametric Mapping 8 (SPM8) (The Wellcome Trust Center for Neuroimaging, London, UK) (http: //www.fil.ion.ucl.ac.uk/spm).
 33-1	5258-5262	Data	_
 33-2	5263-5271	analysis	_
 33-3	5272-5275	The	_
@@ -948,6 +981,7 @@
 33-32	5446-5447	)	_
 33-33	5448-5449	.	_
 
+Text=The structural T1 image (retaining the gray matter, white matter, and CSF) was first skull-stripped.
 34-1	5450-5453	The	_
 34-2	5454-5464	structural	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 34-3	5465-5467	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -969,6 +1003,7 @@
 34-19	5539-5553	skull-stripped	_
 34-20	5554-5555	.	_
 
+Text=The functional images were realigned to the first scan to correct for head movement.
 35-1	5556-5559	The	_
 35-2	5560-5570	functional	_
 35-3	5571-5577	images	_
@@ -985,6 +1020,7 @@
 35-14	5631-5639	movement	_
 35-15	5640-5641	.	_
 
+Text=The high-resolution skull-stripped T1 image was then co-registered to the mean realigned functional image and subsequently normalized to the Montreal Neurological Institute (MNI) coordinates.
 36-1	5642-5645	The	_
 36-2	5646-5661	high-resolution	_
 36-3	5662-5676	skull-stripped	_
@@ -1013,6 +1049,7 @@
 36-26	5823-5834	coordinates	_
 36-27	5835-5836	.	_
 
+Text=Finally, spatial smoothing was applied using a 6 × 6 × 6 mm full-width at half maximum (FWHM) of the Gaussian smoothing kernel.
 37-1	5837-5844	Finally	_
 37-2	5845-5846	,	_
 37-3	5847-5854	spatial	_
@@ -1041,6 +1078,7 @@
 37-26	5960-5966	kernel	_
 37-27	5967-5968	.	_
 
+Text=The functional activation was analyzed using a standard general linear model (GLM).
 38-1	5969-5972	The	_
 38-2	5973-5983	functional	_
 38-3	5984-5994	activation	_
@@ -1057,6 +1095,7 @@
 38-14	6052-6053	)	_
 38-15	6054-6055	.	_
 
+Text=A boxcar reference function was convolved with the hemodynamic function to represent the time course of the expected signal during the experiment.
 39-1	6056-6057	A	_
 39-2	6058-6064	boxcar	_
 39-3	6065-6074	reference	_
@@ -1081,6 +1120,7 @@
 39-22	6191-6201	experiment	_
 39-23	6202-6203	.	_
 
+Text=The first blood oxygenation level-dependent (BOLD) signal was generated by a one-sample t-test specified to a contrast between seeing images of alcoholic beverages versus images of non-alcoholic beverages in the patient group.
 40-1	6204-6207	The	_
 40-2	6208-6213	first	_
 40-3	6214-6219	blood	_
@@ -1117,6 +1157,7 @@
 40-34	6426-6431	group	_
 40-35	6432-6433	.	_
 
+Text=The second blood oxygenation level-dependent (BOLD) signal was generated by a conjunction analysis assessing a comparison of viewing images of alcoholic beverages to control images versus a comparison of viewing images of non-alcoholic beverages to control images across all patients.
 41-1	6434-6437	The	_
 41-2	6438-6444	second	_
 41-3	6445-6450	blood	_
@@ -1161,6 +1202,7 @@
 41-42	6711-6719	patients	_
 41-43	6720-6721	.	_
 
+Text=The one-sample t-test and conjunction analysis were both conducted at voxel level and a threshold for significant functional activation at p <0.01 uncorrected for the one-sample t-test and p <0.001 uncorrected for the conjunction analysis.
 42-1	6722-6725	The	_
 42-2	6726-6736	one-sample	_
 42-3	6737-6743	t-test	_
@@ -1200,6 +1242,7 @@
 42-37	6954-6962	analysis	_
 42-38	6963-6964	.	_
 
+Text=The set of cluster size was larger than 60 voxels in the one-sample t-test and larger than 50 voxels in the conjunction analysis.
 43-1	6965-6968	The	_
 43-2	6969-6972	set	_
 43-3	6973-6975	of	_
@@ -1225,6 +1268,7 @@
 43-23	7085-7093	analysis	_
 43-24	7094-7095	.	_
 
+Text=Functional connectivity The average beta values for every condition at the peak activation voxel of all regions of interest were extracted from each individual and activity of all regions of interest were correlated with one another to create a co-activation matrix.
 44-1	7096-7106	Functional	_
 44-2	7107-7119	connectivity	_
 44-3	7120-7123	The	_
@@ -1268,6 +1312,7 @@
 44-41	7355-7361	matrix	_
 44-42	7362-7363	.	_
 
+Text=This co-activation matrix was the measure of functional connectivity in the cue-based fMRI paradigm.
 45-1	7364-7368	This	_
 45-2	7369-7382	co-activation	_
 45-3	7383-7389	matrix	_
@@ -1284,6 +1329,7 @@
 45-14	7455-7463	paradigm	_
 45-15	7464-7465	.	_
 
+Text=The functional connectivity matrix in the alcoholic beverage and non-alcoholic beverage conditions were compared using Fischer ’ s Z and p <0.05.
 46-1	7466-7469	The	_
 46-2	7470-7480	functional	_
 46-3	7481-7493	connectivity	_
@@ -1309,6 +1355,7 @@
 46-23	7607-7611	0.05	_
 46-24	7612-7613	.	_
 
+Text=Electroencephalography EEG Data collection EEG data were obtained as a standard procedure.
 47-1	7614-7636	Electroencephalography	_
 47-2	7637-7640	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 47-3	7641-7645	Data	_
@@ -1323,6 +1370,7 @@
 47-12	7694-7703	procedure	_
 47-13	7704-7705	.	_
 
+Text=Recordings were obtained in a fully lighted room with each participant sitting upright on a small but comfortable chair.
 48-1	7706-7716	Recordings	_
 48-2	7717-7721	were	_
 48-3	7722-7730	obtained	_
@@ -1344,6 +1392,7 @@
 48-19	7820-7825	chair	_
 48-20	7826-7827	.	_
 
+Text=The actual recording lasted approximately five minutes.
 49-1	7828-7831	The	_
 49-2	7832-7838	actual	_
 49-3	7839-7848	recording	_
@@ -1353,6 +1402,7 @@
 49-7	7875-7882	minutes	_
 49-8	7883-7884	.	_
 
+Text=The EEG was sampled using Mitsar-201 amplifiers (NovaTech http: //www.novatecheeg.com/) with 19 electrodes placed according to the standard 10–20 International placement (Fp1, Fp2, F7, F3, Fz, F4, F8, T7, C3, Cz, C4, T8, P7, P3, Pz, P4, P8, O1, O2).
 50-1	7885-7888	The	_
 50-2	7889-7892	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 50-3	7893-7896	was	_
@@ -1418,6 +1468,7 @@
 50-63	8155-8156	)	_
 50-64	8157-8158	.	_
 
+Text=Participants abstained from alcohol consumption 24 hours prior to EEG recording and from caffeinated beverages on the day of recording to avoid alcohol-induced changes in EEG or a caffeine-induced alpha power decrease.
 51-1	8159-8171	Participants	_
 51-2	8172-8181	abstained	_
 51-3	8182-8186	from	_
@@ -1452,6 +1503,7 @@
 51-32	8368-8376	decrease	_
 51-33	8377-8378	.	_
 
+Text=The vigilance of participants was monitored by EEG parameters such as the slowing of alpha rhythm or the appearance of spindles as drowsiness that is reflected in enhanced theta power.
 52-1	8379-8382	The	_
 52-2	8383-8392	vigilance	_
 52-3	8393-8395	of	_
@@ -1484,6 +1536,7 @@
 52-30	8557-8562	power	_
 52-31	8563-8564	.	_
 
+Text=Impedances were checked to remain below 5 kΩ.
 53-1	8565-8575	Impedances	_
 53-2	8576-8580	were	_
 53-3	8581-8588	checked	_
@@ -1494,6 +1547,7 @@
 53-8	8607-8609	kΩ	_
 53-9	8610-8611	.	_
 
+Text=Data was collected eyes-closed (sampling rate = 500 Hz, band passed 0.15–200 Hz).
 54-1	8612-8616	Data	_
 54-2	8617-8620	was	_
 54-3	8621-8630	collected	_
@@ -1512,6 +1566,7 @@
 54-16	8694-8695	)	_
 54-17	8696-8697	.	_
 
+Text=Off-line data were resampled to 128 Hz, band-pass filtered in the range 2–44 Hz and subsequently transposed into Eureka!
 55-1	8698-8706	Off-line	_
 55-2	8707-8711	data	_
 55-3	8712-8716	were	_
@@ -1534,6 +1589,7 @@
 55-20	8812-8818	Eureka	_
 55-21	8819-8820	!	_
 
+Text=software, plotted and carefully inspected for manual artifact-rejection.
 56-1	8821-8829	software	_
 56-2	8830-8831	,	_
 56-3	8832-8839	plotted	_
@@ -1545,6 +1601,7 @@
 56-9	8875-8893	artifact-rejection	_
 56-10	8894-8895	.	_
 
+Text=All episodic artifacts including eye blinks, eye movements, teeth clenching, body movement, and other ECG artifacts were removed from the stream of the EEG.
 57-1	8896-8899	All	_
 57-2	8900-8908	episodic	_
 57-3	8909-8918	artifacts	_
@@ -1575,6 +1632,7 @@
 57-28	9052-9055	EEG	_
 57-29	9056-9057	.	_
 
+Text=In addition, an independent component analysis (ICA) was conducted to further verify if all artifacts had been excluded.
 58-1	9058-9060	In	_
 58-2	9061-9069	addition	_
 58-3	9070-9071	,	_
@@ -1598,6 +1656,7 @@
 58-21	9172-9180	excluded	_
 58-22	9181-9182	.	_
 
+Text=To investigate the effect of possible ICA component rejection, we compared the power spectra with two approaches: (1) after visual artifact rejection only and (2) after additional ICA component rejection.
 59-1	9183-9185	To	_
 59-2	9186-9197	investigate	_
 59-3	9198-9201	the	_
@@ -1636,6 +1695,7 @@
 59-36	9383-9392	rejection	_
 59-37	9393-9394	.	_
 
+Text=The mean power in the delta (2–3.5 Hz), theta (4–7.5 Hz), alpha1 (8–10 Hz), alpha2 (10–12 Hz), beta1 (13–18 Hz), beta2 (18.5–21 Hz), beta3 (21.5–30 Hz), and gamma (30.5–44 Hz) bands did not show a statistically significant difference between the two approaches.
 60-1	9395-9398	The	_
 60-2	9399-9403	mean	_
 60-3	9404-9409	power	_
@@ -1703,6 +1763,7 @@
 60-65	9668-9678	approaches	_
 60-66	9679-9680	.	_
 
+Text=Average Fourier cross-spectral matrices were computed for all eight bands.
 61-1	9681-9688	Average	_
 61-2	9689-9696	Fourier	_
 61-3	9697-9711	cross-spectral	_
@@ -1715,6 +1776,7 @@
 61-10	9749-9754	bands	_
 61-11	9755-9756	.	_
 
+Text=Normative database A normative database was used.
 62-1	9757-9766	Normative	_
 62-2	9767-9775	database	_
 62-3	9776-9777	A	_
@@ -1724,6 +1786,7 @@
 62-7	9801-9805	used	_
 62-8	9806-9807	.	_
 
+Text=Exclusion criteria were known psychiatric or neurological illness, psychiatric history of drug/alcohol abuse in a participant or any relative, current psychotropic/CNS active medications, history of head injury (with loss of consciousness) or seizures, headache, and physical disability.
 63-1	9808-9817	Exclusion	_
 63-2	9818-9826	criteria	_
 63-3	9827-9831	were	_
@@ -1770,6 +1833,7 @@
 63-44	10091-10101	disability	_
 63-45	10102-10103	.	_
 
+Text=About 3–5 min of EEG was continuously recorded while participant sat with their eyes closed on a comfortable chair in a quiet and dimly lit room.
 64-1	10104-10109	About	_
 64-2	10110-10113	3–5	_
 64-3	10114-10117	min	_
@@ -1798,6 +1862,7 @@
 64-26	10244-10248	room	_
 64-27	10249-10250	.	_
 
+Text=EEG data were acquired at the 19 standard leads prescribed by the 10–20 international system (FP1, FP2, F7, F3, FZ, F4, F8, T3, C3, CZ, C4, T4, T5, P3, PZ, P4, T6, O1, O2) using both earlobes as reference and enabling a 60 Hz notch filter to suppress power line contamination.
 65-1	10251-10254	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 65-2	10255-10259	data	_
 65-3	10260-10264	were	_
@@ -1871,6 +1936,7 @@
 65-71	10533-10546	contamination	_
 65-72	10547-10548	.	_
 
+Text=The resistance of all electrodes was kept below 5 kΩ.
 66-1	10549-10552	The	_
 66-2	10553-10563	resistance	_
 66-3	10564-10566	of	_
@@ -1883,6 +1949,7 @@
 66-10	10599-10601	kΩ	_
 66-11	10602-10603	.	_
 
+Text=Data of the BRL database were acquired using the 12-bit A/D BSA acquisition system (Neurometrics, Inc., New York, NY) and sampled at 100 Hz.
 67-1	10604-10608	Data	_
 67-2	10609-10611	of	_
 67-3	10612-10615	the	_
@@ -1914,6 +1981,7 @@
 67-29	10746-10748	Hz	_
 67-30	10749-10750	.	_
 
+Text=For consistency, we subsequently up-sampled the BRL database to 128 Hz using a natural cubic spline interpolation routine (Congedo et al., 2002).
 68-1	10751-10754	For	_
 68-2	10755-10766	consistency	_
 68-3	10767-10768	,	_
@@ -1942,6 +2010,7 @@
 68-26	10898-10899	)	_
 68-27	10900-10901	.	_
 
+Text=We removed from all data biological, instrumental and environmental artifacts, paying attention to biological artifacts generated by the eyes, the heart and the muscles of the neck, face and jaw.
 69-1	10902-10904	We	_
 69-2	10905-10912	removed	_
 69-3	10913-10917	from	_
@@ -1978,6 +2047,7 @@
 69-34	11097-11100	jaw	_
 69-35	11101-11102	.	_
 
+Text=EEG recordings were visually inspected on a high-resolution screen and epochs containing visible artifacts were marked and ignored for ensuing analysis.
 70-1	11103-11106	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 70-2	11107-11117	recordings	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 70-3	11118-11122	were	_
@@ -2001,6 +2071,7 @@
 70-21	11246-11254	analysis	_
 70-22	11255-11256	.	_
 
+Text=Source localization Standardized low-resolution brain electromagnetic tomography (sLORETA) was used to estimate the intracerebral electrical sources.
 71-1	11257-11263	Source	_
 71-2	11264-11276	localization	_
 71-3	11277-11289	Standardized	_
@@ -2021,6 +2092,7 @@
 71-18	11400-11407	sources	_
 71-19	11408-11409	.	_
 
+Text=As a standard procedure, a common average reference transformation was performed before applying the sLORETA algorithm.
 72-1	11410-11412	As	_
 72-2	11413-11414	a	_
 72-3	11415-11423	standard	_
@@ -2040,6 +2112,7 @@
 72-17	11520-11529	algorithm	_
 72-18	11530-11531	.	_
 
+Text=sLORETA computes electric neuronal activity as current density (A/m2) without assuming a predefined number of active sources.
 73-1	11532-11539	sLORETA	_
 73-2	11540-11548	computes	_
 73-3	11549-11557	electric	_
@@ -2061,6 +2134,7 @@
 73-19	11651-11658	sources	_
 73-20	11659-11660	.	_
 
+Text=The solution space used in this study and associated lead-field matrix are those implemented in the LORETA-Key software (freely available at http: //www.uzh.ch/keyinst/loreta.htm).
 74-1	11661-11664	The	_
 74-2	11665-11673	solution	_
 74-3	11674-11679	space	_
@@ -2089,6 +2163,7 @@
 74-26	11842-11843	)	_
 74-27	11844-11845	.	_
 
+Text=This software implements revisited realistic electrode coordinates (Jurcak et al.
 75-1	11846-11850	This	_
 75-2	11851-11859	software	_
 75-3	11860-11870	implements	_
@@ -2102,6 +2177,7 @@
 75-11	11925-11927	al	_
 75-12	11928-11929	.	_
 
+Text=2007) and the lead field produced by Fuchs et al.
 76-1	11930-11934	2007	_
 76-2	11935-11936	)	_
 76-3	11937-11940	and	_
@@ -2115,6 +2191,7 @@
 76-11	11977-11979	al	_
 76-12	11980-11981	.	_
 
+Text=by applying the boundary element method on the MNI-152 (Montreal neurological institute, Canada) template of Mazziotta et al ..
 77-1	11982-11984	by	_
 77-2	11985-11993	applying	_
 77-3	11994-11997	the	_
@@ -2138,6 +2215,7 @@
 77-21	12107-12109	al	_
 77-22	12110-12112	..	_
 
+Text=The sLORETA-key anatomical template divides and labels the neocortical (including hippocampus and anterior cingulate cortex) MNI-152 volume in 6,239 voxels of dimension 5 mm3, based on probabilities returned by the Demon Atlas.
 78-1	12113-12116	The	_
 78-2	12117-12128	sLORETA-key	_
 78-3	12129-12139	anatomical	_
@@ -2175,6 +2253,7 @@
 78-35	12337-12342	Atlas	_
 78-36	12343-12344	.	_
 
+Text=Lagged phase coherence Coherence and phase synchronization between time series corresponding to different spatial locations are usually interpreted as indicators of “ connectivity ”.
 79-1	12345-12351	Lagged	_
 79-2	12352-12357	phase	_
 79-3	12358-12367	coherence	_
@@ -2201,6 +2280,7 @@
 79-24	12525-12526	”	_
 79-25	12527-12528	.	_
 
+Text=However, any measure of dependence is highly contaminated with an instantaneous, non-physiological contribution due to volume conduction.
 80-1	12529-12536	However	_
 80-2	12537-12538	,	_
 80-3	12539-12542	any	_
@@ -2222,6 +2302,7 @@
 80-19	12657-12667	conduction	_
 80-20	12668-12669	.	_
 
+Text=However, Pascual-Marqui, introduced new measures of coherence and phase synchronization taking into account only non-instantaneous (lagged) connectivity, effectively removing the confounding factor of volume conduction.
 81-1	12670-12677	However	_
 81-2	12678-12679	,	_
 81-3	12680-12694	Pascual-Marqui	_
@@ -2254,6 +2335,7 @@
 81-30	12883-12893	conduction	_
 81-31	12894-12895	.	_
 
+Text=Such “ lagged phase coherence ” between two sources can be interpreted as the amount of cross-talk between the regions contributing to the source activity.
 82-1	12896-12900	Such	_
 82-2	12901-12902	“	_
 82-3	12903-12909	lagged	_
@@ -2281,6 +2363,7 @@
 82-25	13042-13050	activity	_
 82-26	13051-13052	.	_
 
+Text=Since the two components oscillate coherently with a phase lag, the cross-talk can be interpreted as information sharing by axonal transmission.
 83-1	13053-13058	Since	_
 83-2	13059-13062	the	_
 83-3	13063-13066	two	_
@@ -2305,6 +2388,7 @@
 83-22	13185-13197	transmission	_
 83-23	13198-13199	.	_
 
+Text=More precisely, the discrete Fourier transform decomposes the signal in a finite series of cosine and sine waves at the Fourier frequencies (Bloomfield 2000).
 84-1	13200-13204	More	_
 84-2	13205-13214	precisely	_
 84-3	13215-13216	,	_
@@ -2334,6 +2418,7 @@
 84-27	13359-13360	)	_
 84-28	13361-13362	.	_
 
+Text=The lag of the cosine waves with respect to their sine counterparts is inversely proportional to their frequency and amounts to a quarter of the period; for example, the period of a sinusoidal wave at 10 Hz is 100 ms.
 85-1	13363-13366	The	_
 85-2	13367-13370	lag	_
 85-3	13371-13373	of	_
@@ -2378,6 +2463,7 @@
 85-42	13579-13581	ms	_
 85-43	13582-13583	.	_
 
+Text=The sine is shifted a quarter of a cycle (25 ms) with the respect to the cosine.
 86-1	13584-13587	The	_
 86-2	13588-13592	sine	_
 86-3	13593-13595	is	_
@@ -2399,6 +2485,7 @@
 86-19	13659-13665	cosine	_
 86-20	13666-13667	.	_
 
+Text=Then the lagged phase coherence at 10 Hz indicates coherent oscillations with a 25 ms delay, while at 20 Hz the delay is 12.5 ms, etc.
 87-1	13668-13672	Then	_
 87-2	13673-13676	the	_
 87-3	13677-13683	lagged	_
@@ -2429,6 +2516,7 @@
 87-28	13800-13803	etc	_
 87-29	13804-13805	.	_
 
+Text=The threshold of significance for a given lagged phase coherence value according to asymptotic results can be found as described by Pascual-Marqui (2007), where the definition of lagged phase coherence can be found as well.
 88-1	13806-13809	The	_
 88-2	13810-13819	threshold	_
 88-3	13820-13822	of	_
@@ -2469,6 +2557,7 @@
 88-38	14027-14031	well	_
 88-39	14032-14033	.	_
 
+Text=As such, this measure of dependence can be applied to any number of brain areas jointly, i.e., distributed cortical networks, whose activity can be estimated with sLORETA.
 89-1	14034-14036	As	_
 89-2	14037-14041	such	_
 89-3	14042-14043	,	_
@@ -2502,6 +2591,7 @@
 89-31	14201-14208	sLORETA	_
 89-32	14209-14210	.	_
 
+Text=Measures of linear dependence (coherence) between the multivariate time series are defined.
 90-1	14211-14219	Measures	_
 90-2	14220-14222	of	_
 90-3	14223-14229	linear	_
@@ -2518,6 +2608,7 @@
 90-14	14296-14303	defined	_
 90-15	14304-14305	.	_
 
+Text=The measures are non-negative, and take the value zero only when there is independence and are defined in the frequency domain: delta (2–3.5 Hz), theta (4–7.5 Hz), alpha1 (8–10 Hz), alpha2 (10–12 Hz), beta1 (13–18 Hz), beta2 (18.5–21 Hz), beta3 (21.5–30 Hz) and gamma (30.5–44 Hz).
 91-1	14306-14309	The	_
 91-2	14310-14318	measures	_
 91-3	14319-14322	are	_
@@ -2590,6 +2681,7 @@
 91-70	14609-14610	)	_
 91-71	14611-14612	.	_
 
+Text=Based on this principle, lagged linear connectivity was calculated.
 92-1	14613-14618	Based	_
 92-2	14619-14621	on	_
 92-3	14622-14626	this	_
@@ -2602,6 +2694,7 @@
 92-10	14670-14680	calculated	_
 92-11	14681-14682	.	_
 
+Text=Time-series of current density were extracted for different regions of interests using sLORETA.
 93-1	14683-14694	Time-series	_
 93-2	14695-14697	of	_
 93-3	14698-14705	current	_
@@ -2617,6 +2710,7 @@
 93-13	14770-14777	sLORETA	_
 93-14	14778-14779	.	_
 
+Text=Power in all 6,239 voxels was normalized to a power of 1 and log transformed at each time point.
 94-1	14780-14785	Power	_
 94-2	14786-14788	in	_
 94-3	14789-14792	all	_
@@ -2638,6 +2732,7 @@
 94-19	14870-14875	point	_
 94-20	14876-14877	.	_
 
+Text=Region of interest values thus reflect the log-transformed fraction of total power across all voxels, separately for specific frequencies.
 95-1	14878-14884	Region	_
 95-2	14885-14887	of	_
 95-3	14888-14896	interest	_
@@ -2660,6 +2755,7 @@
 95-20	15005-15016	frequencies	_
 95-21	15017-15018	.	_
 
+Text=Regions of interest selected were based on the activity findings of both EEG and fMRI - left and right orbitofrontal cortex, the pregenual anterior cingulate cortex, the dorsal anterior cingulate cortex, the posterior cingulate cortex, the left and right inferior frontal gyrus, the left and right insula, the left parahippocampus.
 96-1	15019-15026	Regions	_
 96-2	15027-15029	of	_
 96-3	15030-15038	interest	_
@@ -2718,6 +2814,7 @@
 96-56	15340-15355	parahippocampus	_
 96-57	15356-15357	.	_
 
+Text=Statistical analyses The methodology used is a non-parametric permutation test.
 97-1	15358-15369	Statistical	_
 97-2	15370-15378	analyses	_
 97-3	15379-15382	The	_
@@ -2730,6 +2827,7 @@
 97-10	15432-15436	test	_
 97-11	15437-15438	.	_
 
+Text=It is based on estimating, via randomization, the empirical probability distribution for the max-statistic, under the null hypothesis comparisons.
 98-1	15439-15441	It	_
 98-2	15442-15444	is	_
 98-3	15445-15450	based	_
@@ -2754,6 +2852,7 @@
 98-22	15576-15587	comparisons	_
 98-23	15588-15589	.	_
 
+Text=This methodology corrects for multiple testing (i.e.
 99-1	15590-15594	This	_
 99-2	15595-15606	methodology	_
 99-3	15607-15615	corrects	_
@@ -2764,6 +2863,7 @@
 99-8	15639-15642	i.e	_
 99-9	15643-15644	.	_
 
+Text=for the collection of tests performed for all voxels, and for all frequency bands).
 100-1	15645-15648	for	_
 100-2	15649-15652	the	_
 100-3	15653-15663	collection	_
@@ -2782,6 +2882,7 @@
 100-16	15728-15729	)	_
 100-17	15730-15731	.	_
 
+Text=Due to the non-parametric nature of this method, its validity does not rely on any assumption of Gaussianity.
 101-1	15732-15735	Due	_
 101-2	15736-15738	to	_
 101-3	15739-15742	the	_
@@ -2803,6 +2904,7 @@
 101-19	15830-15841	Gaussianity	_
 101-20	15842-15843	.	_
 
+Text=The significance threshold for all tests was based on a permutation test with 5000 permutations.
 102-1	15844-15847	The	_
 102-2	15848-15860	significance	_
 102-3	15861-15870	threshold	_
@@ -2820,6 +2922,7 @@
 102-15	15927-15939	permutations	_
 102-16	15940-15941	.	_
 
+Text=Comparisons were made between the healthy controls versus patients with an alcohol addiction.
 103-1	15942-15953	Comparisons	_
 103-2	15954-15958	were	_
 103-3	15959-15963	made	_
@@ -2835,6 +2938,7 @@
 103-13	16025-16034	addiction	_
 103-14	16035-16036	.	_
 
+Text=These comparisons were performed on a whole brain by sLORETA statistical contrast maps through multiple voxel-by-voxel comparisons in a logarithm of t-ratio.
 104-1	16037-16042	These	_
 104-2	16043-16054	comparisons	_
 104-3	16055-16059	were	_
@@ -2859,6 +2963,7 @@
 104-22	16186-16193	t-ratio	_
 104-23	16194-16195	.	_
 
+Text=Data availability statement The datasets generated during and/or analyzed during the current study are available from the corresponding author on reasonable request.
 105-1	16196-16200	Data	_
 105-2	16201-16213	availability	_
 105-3	16214-16223	statement	_
@@ -2883,6 +2988,7 @@
 105-22	16353-16360	request	_
 105-23	16361-16362	.	_
 
+Text=Yuefeng Huang and Anusha Mohan contributed equally to this work.
 106-1	16363-16370	Yuefeng	_
 106-2	16371-16376	Huang	_
 106-3	16377-16380	and	_
@@ -2895,6 +3001,7 @@
 106-10	16422-16426	work	_
 106-11	16427-16428	.	_
 
+Text=Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
 107-1	16429-16438	Publisher	_
 107-2	16439-16441	's	_
 107-3	16442-16446	note	_

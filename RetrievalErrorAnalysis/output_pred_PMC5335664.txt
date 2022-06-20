@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Family-based case-control study of homotopic connectivity in first-episode, drug-naive schizophrenia at rest Family-based case-control design is rarely used but powerful to reduce the confounding effects of environmental factors on schizophrenia.
 1-1	0-12	Family-based	_
 1-2	13-25	case-control	_
 1-3	26-31	study	_
@@ -35,6 +36,7 @@
 1-31	233-246	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 1-32	247-248	.	_
 
+Text=Twenty-eight first-episode, drug-naive patients with schizophrenia, 28 family-based controls (FBC), and 40 healthy controls (HC) underwent resting-state functional MRI.
 2-1	249-261	Twenty-eight	_
 2-2	262-275	first-episode	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
 2-3	276-277	,	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
@@ -63,6 +65,7 @@
 2-26	420-423	MRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 2-27	424-425	.	_
 
+Text=Voxel-mirrored homotopic connectivity (VMHC), receiver operating characteristic curve (ROC), and support vector machine (SVM) were used to process the data.
 3-1	426-440	Voxel-mirrored	_
 3-2	441-450	homotopic	_
 3-3	451-463	connectivity	_
@@ -93,6 +96,7 @@
 3-28	585-589	data	_
 3-29	590-591	.	_
 
+Text=Compared with the FBC, the patients showed lower VMHC in the precuneus, fusiform gyrus/cerebellum lobule VI, and lingual gyrus/cerebellum lobule VI.
 4-1	592-600	Compared	_
 4-2	601-605	with	_
 4-3	606-609	the	_
@@ -119,6 +123,7 @@
 4-24	740-742	VI	_
 4-25	743-744	.	_
 
+Text=The patients exhibited lower VMHC in the precuneus relative to the HC.
 5-1	745-748	The	_
 5-2	749-757	patients	_
 5-3	758-767	exhibited	_
@@ -133,6 +138,7 @@
 5-12	812-814	HC	_
 5-13	815-816	.	_
 
+Text=ROC analysis exhibited that the VMHC values in these brain regions might not be ideal biomarkers to distinguish the patients from the FBC/HC.
 6-1	817-820	ROC	_
 6-2	821-829	analysis	_
 6-3	830-839	exhibited	_
@@ -158,6 +164,7 @@
 6-23	951-957	FBC/HC	_
 6-24	958-959	.	_
 
+Text=However, SVM analysis indicated that a combination of VMHC values in the precuneus and lingual gyrus/cerebellum lobule VI might be used as a potential biomarker to distinguish the patients from the FBC with a sensitivity of 96.43%, a specificity of 89.29%, and an accuracy of 92.86%.
 7-1	960-967	However	_
 7-2	968-969	,	_
 7-3	970-973	SVM	_
@@ -212,6 +219,7 @@
 7-52	1247-1248	%	_
 7-53	1249-1250	.	_
 
+Text=Results suggested that patients with schizophrenia have decreased homotopic connectivity in the motor and low level sensory processing regions.
 8-1	1251-1258	Results	_
 8-2	1259-1268	suggested	_
 8-3	1269-1273	that	_
@@ -233,6 +241,7 @@
 8-19	1386-1393	regions	_
 8-20	1394-1395	.	_
 
+Text=Neuroimaging studies can adopt family-based case-control design as a viable option to reduce the confounding effects of environmental factors on schizophrenia.
 9-1	1396-1408	Neuroimaging	_
 9-2	1409-1416	studies	_
 9-3	1417-1420	can	_
@@ -256,6 +265,7 @@
 9-21	1541-1554	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-22	1555-1556	.	_
 
+Text=Materials and Methods Participants This study was conducted in accordance with the Helsinki Declaration.
 10-1	1557-1566	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	1567-1570	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1571-1578	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -272,6 +282,7 @@
 10-14	1649-1660	Declaration	_
 10-15	1661-1662	.	_
 
+Text=Thirty right-handed patients were recruited from Mental Health Center of the First Affiliated Hospital, Guangxi Medical University in China.
 11-1	1663-1669	Thirty	_
 11-2	1670-1682	right-handed	_
 11-3	1683-1691	patients	_
@@ -294,6 +305,7 @@
 11-20	1798-1803	China	_
 11-21	1804-1805	.	_
 
+Text=Clinical diagnosis was made in accordance with the Structured Clinical Interview of the DSM-IV (SCID).
 12-1	1806-1814	Clinical	_
 12-2	1815-1824	diagnosis	_
 12-3	1825-1828	was	_
@@ -313,6 +325,7 @@
 12-17	1908-1909	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 12-18	1910-1911	.	_
 
+Text=To reduce the heterogeneity of symptom manifestations, only patients with paranoid schizophrenia were enrolled.
 13-1	1912-1914	To	_
 13-2	1915-1921	reduce	_
 13-3	1922-1925	the	_
@@ -330,6 +343,7 @@
 13-15	2015-2023	enrolled	_
 13-16	2024-2025	.	_
 
+Text=The patients, who aged from 18 to 30 years old with more than 9 years of education, were first-episode and drug-naive at the scan time.
 14-1	2026-2029	The	_
 14-2	2030-2038	patients	_
 14-3	2039-2040	,	_
@@ -359,6 +373,7 @@
 14-27	2158-2162	time	_
 14-28	2163-2164	.	_
 
+Text=The illness duration was less than 3 years.
 15-1	2165-2168	The	_
 15-2	2169-2176	illness	_
 15-3	2177-2185	duration	_
@@ -369,6 +384,7 @@
 15-8	2202-2207	years	_
 15-9	2208-2209	.	_
 
+Text=Patients who had neurological disorders, severe medical disorders, substance abuse, or electroconvulsive therapy were excluded.
 16-1	2210-2218	Patients	_
 16-2	2219-2222	who	_
 16-3	2223-2226	had	_
@@ -389,6 +405,7 @@
 16-18	2331-2339	excluded	_
 16-19	2340-2341	.	_
 
+Text=Symptom severity was rated using the Positive and Negative Symptom Scale (PANSS).
 17-1	2342-2349	Symptom	_
 17-2	2350-2358	severity	_
 17-3	2359-2362	was	_
@@ -405,6 +422,7 @@
 17-14	2423-2424	)	http://maven.renci.org/NeuroBridge/neurobridge#NegativeSymptomScale
 17-15	2425-2426	.	_
 
+Text=Thirty right-handed unaffected siblings of the patients were recruited as the FBC.
 18-1	2427-2433	Thirty	_
 18-2	2434-2446	right-handed	_
 18-3	2447-2457	unaffected	_
@@ -419,6 +437,7 @@
 18-12	2505-2508	FBC	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 18-13	2509-2510	.	_
 
+Text=Each patient was matched with one sibling from the same family.
 19-1	2511-2515	Each	_
 19-2	2516-2523	patient	_
 19-3	2524-2527	was	_
@@ -432,6 +451,7 @@
 19-11	2567-2573	family	_
 19-12	2574-2575	.	_
 
+Text=Forty-two right-handed HC were recruited from the community.
 20-1	2576-2585	Forty-two	_
 20-2	2586-2598	right-handed	_
 20-3	2599-2601	HC	_
@@ -442,6 +462,7 @@
 20-8	2626-2635	community	_
 20-9	2636-2637	.	_
 
+Text=The FBC and the HC were screened by SCID, non-patient edition.
 21-1	2638-2641	The	_
 21-2	2642-2645	FBC	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 21-3	2646-2649	and	_
@@ -456,6 +477,7 @@
 21-12	2693-2700	edition	_
 21-13	2701-2702	.	_
 
+Text=The age of the controls ranged from 18 to 30 years, and their education level was more than 9 years.
 22-1	2703-2706	The	_
 22-2	2707-2710	age	_
 22-3	2711-2713	of	_
@@ -479,6 +501,7 @@
 22-21	2798-2803	years	_
 22-22	2804-2805	.	_
 
+Text=None of the controls had any neurological disorders, severe medical disorders, substance abuse or psychiatric disorders.
 23-1	2806-2810	None	_
 23-2	2811-2813	of	_
 23-3	2814-2817	the	_
@@ -499,6 +522,7 @@
 23-18	2918-2927	disorders	_
 23-19	2928-2929	.	_
 
+Text=Written informed consent was acquired from each participant prior to data collection.
 24-1	2930-2937	Written	_
 24-2	2938-2946	informed	_
 24-3	2947-2954	consent	_
@@ -513,6 +537,7 @@
 24-12	3004-3014	collection	_
 24-13	3015-3016	.	_
 
+Text=This study was approved by the local ethics committee of the First Affiliated Hospital, Guangxi Medical University.
 25-1	3017-3021	This	_
 25-2	3022-3027	study	_
 25-3	3028-3031	was	_
@@ -533,6 +558,7 @@
 25-18	3122-3132	University	_
 25-19	3133-3134	.	_
 
+Text=Data acquisition and preprocessing MRI images were obtained on a Siemens (Trio) 3T scanner.
 26-1	3135-3139	Data	_
 26-2	3140-3151	acquisition	_
 26-3	3152-3155	and	_
@@ -551,6 +577,7 @@
 26-16	3220-3227	scanner	_
 26-17	3228-3229	.	_
 
+Text=Data Processing Assistant for Resting-State fMRI (DPARSF) software (version 2.3) was applied to preprocess the images.
 27-1	3230-3234	Data	_
 27-2	3235-3245	Processing	_
 27-3	3246-3255	Assistant	_
@@ -573,6 +600,7 @@
 27-20	3345-3351	images	_
 27-21	3352-3353	.	_
 
+Text=Details on data acquisition and preprocessing were provided in Supplementary files.
 28-1	3354-3361	Details	_
 28-2	3362-3364	on	_
 28-3	3365-3369	data	_
@@ -586,6 +614,7 @@
 28-11	3431-3436	files	_
 28-12	3437-3438	.	_
 
+Text=VMHC analysis VMHC analysis was conducted with the REST software (version 1.8).
 29-1	3439-3443	VMHC	_
 29-2	3444-3452	analysis	_
 29-3	3453-3457	VMHC	_
@@ -602,6 +631,7 @@
 29-14	3518-3519	)	_
 29-15	3520-3521	.	_
 
+Text=For each participant, homotopic FC was calculated as the Pearson correlation coefficient between each voxel ’ s residual time series and that of its interhemispheric mirrored voxel.
 30-1	3522-3525	For	_
 30-2	3526-3530	each	_
 30-3	3531-3542	participant	_
@@ -632,6 +662,7 @@
 30-28	3698-3703	voxel	_
 30-29	3704-3705	.	_
 
+Text=The coefficients were then Fisher z-transformed, and VMHC maps were generated for each participant.
 31-1	3706-3709	The	_
 31-2	3710-3722	coefficients	_
 31-3	3723-3727	were	_
@@ -649,6 +680,7 @@
 31-15	3794-3805	participant	_
 31-16	3806-3807	.	_
 
+Text=For each group, one-sample t-tests were applied to identify voxels that exhibited significant correlations with their mirrored counterparts.
 32-1	3808-3811	For	_
 32-2	3812-3816	each	_
 32-3	3817-3822	group	_
@@ -670,6 +702,7 @@
 32-19	3936-3948	counterparts	_
 32-20	3949-3950	.	_
 
+Text=The significance level was set at p <0.05 for multiple comparisons corrected by Gaussian Random Field (GRF) theory (voxel significance: p <0.001, cluster significance: p <0.05).
 33-1	3951-3954	The	_
 33-2	3955-3967	significance	_
 33-3	3968-3973	level	_
@@ -708,6 +741,7 @@
 33-36	4136-4137	)	_
 33-37	4138-4139	.	_
 
+Text=Analyses of covariance (ANCOVA), followed by post hoc t-tests (paired-sample t-tests were used to compare group differences between the patients and the FBC), were performed to compare group differences within the union mask of one-sample t-tests of the three groups.
 34-1	4140-4148	Analyses	_
 34-2	4149-4151	of	_
 34-3	4152-4162	covariance	_
@@ -756,6 +790,7 @@
 34-46	4406-4412	groups	_
 34-47	4413-4414	.	_
 
+Text=Age and years of education were used as covariates to minimize the potential effects of these variables.
 35-1	4415-4418	Age	_
 35-2	4419-4422	and	_
 35-3	4423-4428	years	_
@@ -775,6 +810,7 @@
 35-17	4509-4518	variables	_
 35-18	4519-4520	.	_
 
+Text=Framewise displacement (FD) values were computed for each participant as described in a previous study, and FD was used as a covariate in the group comparisons.
 36-1	4521-4530	Framewise	_
 36-2	4531-4543	displacement	_
 36-3	4544-4545	(	_
@@ -806,6 +842,7 @@
 36-29	4672-4683	comparisons	_
 36-30	4684-4685	.	_
 
+Text=The significance level was set at p <0.05 (GRF corrected).
 37-1	4686-4689	The	_
 37-2	4690-4702	significance	_
 37-3	4703-4708	level	_
@@ -821,6 +858,7 @@
 37-13	4745-4746	)	_
 37-14	4747-4748	.	_
 
+Text=Correlation analysis Once significant group differences were found in any brain regions, the mean z values of these brain regions were extracted to assess the correlations between abnormal VMHC values and symptom severity in the patients.
 38-1	4749-4760	Correlation	_
 38-2	4761-4769	analysis	_
 38-3	4770-4774	Once	_
@@ -860,6 +898,7 @@
 38-37	4979-4987	patients	_
 38-38	4988-4989	.	_
 
+Text=The correlation results were Bonferroni corrected at p <0.05.
 39-1	4990-4993	The	_
 39-2	4994-5005	correlation	_
 39-3	5006-5013	results	_
@@ -872,6 +911,7 @@
 39-10	5047-5051	0.05	_
 39-11	5052-5053	.	_
 
+Text=To determine whether abnormal VMHC values were correlated in the patients and the FBC, we made a mask on the deficit clusters of the VMHC results between the patients and the FBC.
 40-1	5054-5056	To	_
 40-2	5057-5066	determine	_
 40-3	5067-5074	whether	_
@@ -907,6 +947,7 @@
 40-33	5230-5233	FBC	_
 40-34	5234-5235	.	_
 
+Text=Then, the mean z values within the mask were extracted in the patients and the FBC.
 41-1	5236-5240	Then	_
 41-2	5241-5242	,	_
 41-3	5243-5246	the	_
@@ -926,6 +967,7 @@
 41-17	5316-5319	FBC	_
 41-18	5320-5321	.	_
 
+Text=Finally, Pearson correlation analysis was performed on the abnormal VMHC values between the patients and the FBC.
 42-1	5322-5329	Finally	_
 42-2	5330-5331	,	_
 42-3	5332-5339	Pearson	_
@@ -946,6 +988,7 @@
 42-18	5432-5435	FBC	_
 42-19	5436-5437	.	_
 
+Text=In addition, the correlations between abnormal VMHC values for each cluster were computed between the patients and the FBC.
 43-1	5438-5440	In	_
 43-2	5441-5449	addition	_
 43-3	5450-5451	,	_
@@ -968,6 +1011,7 @@
 43-20	5558-5561	FBC	_
 43-21	5562-5563	.	_
 
+Text=Receiver operating characteristic curve (ROC) analysis and support vector machine (SVM) analysis using LIBSVM ROC analysis was conducted to determine whether VMHC in the brain regions with group differences can differentiate the patients from the controls.
 44-1	5564-5572	Receiver	_
 44-2	5573-5582	operating	_
 44-3	5583-5597	characteristic	_
@@ -1010,6 +1054,7 @@
 44-40	5815-5823	controls	_
 44-41	5824-5825	.	_
 
+Text=The LIBSVM software package (http: //www.csie.ntu.edu.tw/~cjlin/libsvm/) in Matlab was applied to explore the possibility of combining these clusters to distinguish the patients from the HC/FBC.
 45-1	5826-5829	The	_
 45-2	5830-5836	LIBSVM	_
 45-3	5837-5845	software	_
@@ -1040,6 +1085,7 @@
 45-28	6016-6022	HC/FBC	_
 45-29	6023-6024	.	_
 
+Text=The Grid search method and Gaussian radial basis function kernels were used for parameter optimization.
 46-1	6025-6028	The	_
 46-2	6029-6033	Grid	_
 46-3	6034-6040	search	_
@@ -1057,6 +1103,7 @@
 46-15	6115-6127	optimization	_
 46-16	6128-6129	.	_
 
+Text=The “ leave-one-out ” cross-validation method was applied to obtain the highest sensitivity and specificity.
 47-1	6130-6133	The	_
 47-2	6134-6135	“	_
 47-3	6136-6149	leave-one-out	_

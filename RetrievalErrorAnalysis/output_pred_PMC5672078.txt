@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Increased BOLD Signals Elicited by High Gamma Auditory Stimulation of the Left Auditory Cortex in Acute State Schizophrenia Recent MRI studies have shown that schizophrenia is characterized by reductions in brain gray matter, which progress in the acute state of the disease.
 1-1	0-9	Increased	_
 1-2	10-14	BOLD	_
 1-3	15-22	Signals	_
@@ -47,6 +48,7 @@
 1-43	268-275	disease	_
 1-44	276-277	.	_
 
+Text=Cortical circuitry abnormalities in gamma oscillations, such as deficits in the auditory steady state response (ASSR) to gamma frequency (> 30-Hz) stimulation, have also been reported in schizophrenia patients.
 2-1	278-286	Cortical	_
 2-2	287-296	circuitry	_
 2-3	297-310	abnormalities	_
@@ -84,6 +86,7 @@
 2-35	485-493	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-36	494-495	.	_
 
+Text=In the current study, we investigated neural responses during click stimulation by BOLD signals.
 3-1	496-498	In	_
 3-2	499-502	the	_
 3-3	503-510	current	_
@@ -101,6 +104,7 @@
 3-15	585-592	signals	_
 3-16	593-594	.	_
 
+Text=We acquired BOLD responses elicited by click trains of 20, 30, 40 and 80-Hz frequencies from 15 patients with acute episode schizophrenia (AESZ), 14 symptom-severity-matched patients with non-acute episode schizophrenia (NASZ), and 24 healthy controls (HC), assessed via a standard general linear-model-based analysis.
 4-1	595-597	We	_
 4-2	598-606	acquired	_
 4-3	607-611	BOLD	_
@@ -157,6 +161,7 @@
 4-54	915-923	analysis	_
 4-55	924-925	.	_
 
+Text=The AESZ group showed significantly increased ASSR-BOLD signals to 80-Hz stimuli in the left auditory cortex compared with the HC and NASZ groups.
 5-1	926-929	The	_
 5-2	930-934	AESZ	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 5-3	935-940	group	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
@@ -182,6 +187,7 @@
 5-23	1065-1071	groups	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 5-24	1072-1073	.	_
 
+Text=In addition, enhanced 80-Hz ASSR-BOLD signals were associated with more severe auditory hallucination experiences in AESZ participants.
 6-1	1074-1076	In	_
 6-2	1077-1085	addition	_
 6-3	1086-1087	,	_
@@ -202,6 +208,7 @@
 6-18	1197-1209	participants	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
 6-19	1210-1211	.	_
 
+Text=The present results indicate that neural over activation occurs during 80-Hz auditory stimulation of the left auditory cortex in individuals with acute state schizophrenia.
 7-1	1212-1215	The	_
 7-2	1216-1223	present	_
 7-3	1224-1231	results	_
@@ -228,6 +235,7 @@
 7-24	1370-1383	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#ChronicSchizophrenia
 7-25	1384-1385	.	_
 
+Text=Given the possible association between abnormal gamma activity and increased glutamate levels, our data may reflect glutamate toxicity in the auditory cortex in the acute state of schizophrenia, which might lead to progressive changes in the left transverse temporal gyrus.
 8-1	1386-1391	Given	_
 8-2	1392-1395	the	_
 8-3	1396-1404	possible	_
@@ -272,6 +280,7 @@
 8-42	1655-1660	gyrus	_
 8-43	1661-1662	.	_
 
+Text=Highlights We investigated neural responses during click stimulation by BOLD signals.
 9-1	1663-1673	Highlights	_
 9-2	1674-1676	We	_
 9-3	1677-1689	investigated	_
@@ -285,6 +294,7 @@
 9-11	1740-1747	signals	_
 9-12	1748-1749	.	_
 
+Text=We evaluated patients with acute and non-acute schizophrenia, and healthy controls.
 10-1	1750-1752	We	_
 10-2	1753-1762	evaluated	_
 10-3	1763-1771	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -299,6 +309,7 @@
 10-12	1825-1833	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 10-13	1834-1835	.	_
 
+Text=80-Hz auditory stimulation activated the left auditory cortex in acute schizophrenia.
 11-1	1836-1841	80-Hz	_
 11-2	1842-1850	auditory	_
 11-3	1851-1862	stimulation	_
@@ -312,6 +323,7 @@
 11-11	1907-1920	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-12	1921-1922	.	_
 
+Text=Our data may reflect left auditory cortex glutamate toxicity in acute schizophrenia.
 12-1	1923-1926	Our	_
 12-2	1927-1931	data	_
 12-3	1932-1935	may	_
@@ -326,6 +338,7 @@
 12-12	1993-2006	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 12-13	2007-2008	.	_
 
+Text=Recent MRI studies show that schizophrenia is characterized by reduced brain gray matter, which deteriorates in the acute state of the disease.
 13-1	2009-2015	Recent	_
 13-2	2016-2019	MRI	_
 13-3	2020-2027	studies	_
@@ -351,6 +364,7 @@
 13-23	2145-2152	disease	_
 13-24	2153-2154	.	_
 
+Text=Periodic auditory click trains elicit auditory steady-state responses (ASSRs), and ASSR abnormalities are reported in schizophrenia.
 14-1	2155-2163	Periodic	_
 14-2	2164-2172	auditory	_
 14-3	2173-2178	click	_
@@ -372,6 +386,7 @@
 14-19	2276-2289	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-20	2290-2291	.	_
 
+Text=We investigated neural responses during click stimulation using BOLD signals, which may reflect glutamate toxicity.
 15-1	2292-2294	We	_
 15-2	2295-2307	investigated	_
 15-3	2308-2314	neural	_
@@ -390,6 +405,7 @@
 15-16	2399-2407	toxicity	_
 15-17	2408-2409	.	_
 
+Text=Compared with non-acute schizophrenia patients and healthy controls, acute episode schizophrenia patients showed significantly increased ASSR-BOLD to 80-Hz stimuli in the left auditory cortex.
 16-1	2410-2418	Compared	_
 16-2	2419-2423	with	_
 16-3	2424-2433	non-acute	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -417,6 +433,7 @@
 16-25	2596-2602	cortex	_
 16-26	2603-2604	.	_
 
+Text=Our data demonstrate neuronal over activation in terms of the BOLD pattern in acute state schizophrenia, which might reflect progressive volume reduction in the left superior temporal cortex by glutamate toxicity during the acute phase of schizophrenia.
 17-1	2605-2608	Our	_
 17-2	2609-2613	data	_
 17-3	2614-2625	demonstrate	_
@@ -457,6 +474,7 @@
 17-38	2845-2858	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 17-39	2859-2860	.	_
 
+Text=Materials & Methods Participants Demographic and clinical data are shown in Table 1.
 18-1	2861-2870	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 18-2	2871-2872	&	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 18-3	2873-2880	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -472,6 +490,7 @@
 18-13	2943-2944	1	_
 18-14	2945-2946	.	_
 
+Text=The sample consisted of 24 HC, 15 AESZ, and 14 symptom-severity-matched NASZ subjects.
 19-1	2947-2950	The	_
 19-2	2951-2957	sample	_
 19-3	2958-2967	consisted	_
@@ -489,6 +508,7 @@
 19-15	3026-3034	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 19-16	3035-3036	.	_
 
+Text=All subjects had normal hearing, were between 25 and 59 years of age, and were right-handed.
 20-1	3037-3040	All	_
 20-2	3041-3049	subjects	_
 20-3	3050-3053	had	_
@@ -509,6 +529,7 @@
 20-18	3118-3130	right-handed	_
 20-19	3131-3132	.	_
 
+Text=After receiving a complete description of the study, all participants signed an informed consent form according to the regulations of the Ethics Committee of the National Hospital Organization Hizen Psychiatric Center.
 21-1	3133-3138	After	_
 21-2	3139-3148	receiving	_
 21-3	3149-3150	a	_
@@ -543,6 +564,7 @@
 21-32	3345-3351	Center	_
 21-33	3352-3353	.	_
 
+Text=Healthy controls were screened using the Structured Clinical Interview (SCID) -non-patient edition.
 22-1	3354-3361	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 22-2	3362-3370	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 22-3	3371-3375	were	_
@@ -559,6 +581,7 @@
 22-14	3447-3454	edition	_
 22-15	3455-3456	.	_
 
+Text=No healthy controls or their first-degree relatives had an Axis-I psychiatric disorder.
 23-1	3457-3459	No	_
 23-2	3460-3467	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 23-3	3468-3476	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -573,6 +596,7 @@
 23-12	3535-3543	disorder	_
 23-13	3544-3545	.	_
 
+Text=The exclusion criteria were: 1) neurological illness or major head trauma, 2) previous treatment with electroconvulsive therapy, 3) alcohol or drug dependence, 4) alcohol or drug abuse within the past 5 years, and 5) a verbal intelligence quotient below 75.
 24-1	3546-3549	The	_
 24-2	3550-3559	exclusion	_
 24-3	3560-3568	criteria	_
@@ -625,6 +649,7 @@
 24-50	3810-3812	75	_
 24-51	3813-3814	.	_
 
+Text=All patients were recruited from National Hospital Organization Hizen Psychiatric Center and were diagnosed based on the SCID-DSM IV-TR, Research Version and information from patient medical records.
 25-1	3815-3818	All	_
 25-2	3819-3827	patients	_
 25-3	3828-3832	were	_
@@ -655,6 +680,7 @@
 25-28	4007-4014	records	_
 25-29	4015-4016	.	_
 
+Text=Based on previous studies, we operationally defined an acute exacerbation episode as that occurring within 4 weeks of psychiatric hospitalization, and a non-acute phase as that occurring at least 4 weeks after psychiatric hospitalization.
 26-1	4017-4022	Based	_
 26-2	4023-4025	on	_
 26-3	4026-4034	previous	_
@@ -693,6 +719,7 @@
 26-36	4241-4256	hospitalization	_
 26-37	4257-4258	.	_
 
+Text=All AESZ and 11 NASZ participants were inpatients, and 3 NASZ participants were outpatients.
 27-1	4259-4262	All	_
 27-2	4263-4267	AESZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 27-3	4268-4271	and	_
@@ -710,6 +737,7 @@
 27-15	4340-4351	outpatients	_
 27-16	4352-4353	.	_
 
+Text=The patients were assessed using the Positive and Negative Syndrome Scale (PANSS) and the Brief Psychiatric Rating Scale (BPRS).
 28-1	4354-4357	The	_
 28-2	4358-4366	patients	_
 28-3	4367-4371	were	_
@@ -735,6 +763,7 @@
 28-23	4484-4485	)	http://maven.renci.org/NeuroBridge/neurobridge#BriefPsychiatricRatingScale
 28-24	4486-4487	.	_
 
+Text=Stimuli and Procedure Following a hearing test, participants were asked to lay supine inside an MRI scanner while wearing head-phones.
 29-1	4488-4495	Stimuli	_
 29-2	4496-4499	and	http://maven.renci.org/NeuroBridge/neurobridge#PhysicalMeasurement
 29-3	4500-4509	Procedure	_
@@ -758,6 +787,7 @@
 29-21	4611-4622	head-phones	_
 29-22	4623-4624	.	_
 
+Text=The head of each participant was restrained via padding behind the neck and between the head and the coil.
 30-1	4625-4628	The	_
 30-2	4629-4633	head	_
 30-3	4634-4636	of	_
@@ -779,6 +809,7 @@
 30-19	4726-4730	coil	_
 30-20	4731-4732	.	_
 
+Text=Participants were asked to keep their head still inside the scanner and to focus on a fixation cross presented on a screen.
 31-1	4733-4745	Participants	_
 31-2	4746-4750	were	_
 31-3	4751-4756	asked	_
@@ -803,6 +834,7 @@
 31-22	4849-4855	screen	_
 31-23	4856-4857	.	_
 
+Text=All auditory stimuli were delivered binaurally through the head-phones.
 32-1	4858-4861	All	_
 32-2	4862-4870	auditory	_
 32-3	4871-4878	stimuli	_
@@ -814,6 +846,7 @@
 32-9	4917-4928	head-phones	_
 32-10	4929-4930	.	_
 
+Text=We presented auditory stimulation using a 4-min-block-design paradigm with 8 blocks of 15 s of rest (stimulation OFF) and 15 s of stimulation including 15 click trains (stimulation ON).
 33-1	4931-4933	We	_
 33-2	4934-4943	presented	_
 33-3	4944-4952	auditory	_
@@ -849,6 +882,7 @@
 33-33	5118-5119	)	_
 33-34	5120-5121	.	_
 
+Text=In total, we presented 120 click trains for each fMRI session.
 34-1	5122-5124	In	_
 34-2	5125-5130	total	_
 34-3	5131-5132	,	_
@@ -863,6 +897,7 @@
 34-12	5177-5184	session	_
 34-13	5185-5186	.	_
 
+Text=We conducted four fMRI sessions with different sound stimuli for each subject.
 35-1	5187-5189	We	_
 35-2	5190-5199	conducted	_
 35-3	5200-5204	four	_
@@ -877,6 +912,7 @@
 35-12	5257-5264	subject	_
 35-13	5265-5266	.	_
 
+Text=The stimuli were 1-ms clicks, presented binaurally as trains of clicks for each frequency (20, 30, 40, and 80-Hz).
 36-1	5267-5270	The	_
 36-2	5271-5278	stimuli	_
 36-3	5279-5283	were	_
@@ -904,6 +940,7 @@
 36-25	5385-5386	)	_
 36-26	5387-5388	.	_
 
+Text=Both the duration of the click trains and the inter-train interval were 500 ms, and the click trains were presented with an intensity of 80-dB sound pressure level.
 37-1	5389-5393	Both	_
 37-2	5394-5397	the	_
 37-3	5398-5406	duration	_
@@ -935,6 +972,7 @@
 37-29	5548-5553	level	_
 37-30	5554-5555	.	_
 
+Text=The order of sessions was counterbalanced across subjects.
 38-1	5556-5559	The	_
 38-2	5560-5565	order	_
 38-3	5566-5568	of	_
@@ -945,6 +983,7 @@
 38-8	5605-5613	subjects	_
 38-9	5614-5615	.	_
 
+Text=Data Acquisition We conducted MRI using a 1.5-T Philips scanner with a standard head coil, located at the National Hospital Organization Hizen Psychiatric Center.
 39-1	5616-5620	Data	_
 39-2	5621-5632	Acquisition	_
 39-3	5633-5635	We	_
@@ -972,6 +1011,7 @@
 39-25	5772-5778	Center	_
 39-26	5779-5780	.	_
 
+Text=We used standard sequence parameters to obtain functional images, as follows: gradient-echo echo-planar imaging (EPI); repetition time (TR) = 3000 ms; echo time (TE) = 45 ms; flip angle = 90°; field of view (FOV) = 230 × 230 mm; matrix = 64 × 64; 60 axial slices with a slice thickness of 4 mm with no slice gap.
 40-1	5781-5783	We	_
 40-2	5784-5788	used	_
 40-3	5789-5797	standard	_
@@ -1049,6 +1089,7 @@
 40-75	6105-6108	gap	_
 40-76	6109-6110	.	_
 
+Text=We acquired a high-resolution T1-weighted 3D anatomical image for each participant between the functional data trials.
 41-1	6111-6113	We	_
 41-2	6114-6122	acquired	_
 41-3	6123-6124	a	_
@@ -1067,6 +1108,7 @@
 41-16	6222-6228	trials	_
 41-17	6229-6230	.	_
 
+Text=Image Processing Raw image DICOM files were converted to the NIFTI format using MRIConvert (Version 2.0, Lewis Center for Neuroimaging, Oregon).
 42-1	6231-6236	Image	_
 42-2	6237-6247	Processing	_
 42-3	6248-6251	Raw	_
@@ -1094,6 +1136,7 @@
 42-25	6377-6378	)	_
 42-26	6379-6380	.	_
 
+Text=Image processing and statistical analyses were performed using the statistical parametric mapping software SPM8 (Wellcome Department of Cognitive Neurology, London, United Kingdom) with Matlab R2014a (The Math Works Inc., Natick, MA).
 43-1	6381-6386	Image	_
 43-2	6387-6397	processing	_
 43-3	6398-6401	and	_
@@ -1135,6 +1178,7 @@
 43-39	6621-6622	)	_
 43-40	6623-6624	.	_
 
+Text=The first five volumes of each EPI image run were excluded to allow the MR signal to reach a state of equilibrium.
 44-1	6625-6628	The	_
 44-2	6629-6634	first	_
 44-3	6635-6639	five	_
@@ -1159,6 +1203,7 @@
 44-22	6727-6738	equilibrium	_
 44-23	6739-6740	.	_
 
+Text=All volumes of functional EPI images were realigned to the first volume of each session to correct for subject motion, and the mean functional EPI image was then spatially co-registered with the anatomical T1 images.
 45-1	6741-6744	All	_
 45-2	6745-6752	volumes	_
 45-3	6753-6755	of	_
@@ -1197,6 +1242,7 @@
 45-36	6951-6957	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 45-37	6958-6959	.	_
 
+Text=Each co-registered T1-weighted anatomical image was normalized into a standard T1 template image (ICBM 152), which defined the Montreal Neurological Institute (MNI) space.
 46-1	6960-6964	Each	_
 46-2	6965-6978	co-registered	_
 46-3	6979-6990	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1227,6 +1273,7 @@
 46-28	7130-7135	space	_
 46-29	7136-7137	.	_
 
+Text=The parameters from this normalization process were then applied to each functional image.
 47-1	7138-7141	The	_
 47-2	7142-7152	parameters	_
 47-3	7153-7157	from	_
@@ -1242,6 +1289,7 @@
 47-13	7222-7227	image	_
 47-14	7228-7229	.	_
 
+Text=The normalized functional images were smoothed with a 3D 8-mm full-width half-maximum (FWHM) Gaussian Kernel.
 48-1	7230-7233	The	_
 48-2	7234-7244	normalized	_
 48-3	7245-7255	functional	_
@@ -1261,6 +1309,7 @@
 48-17	7334-7340	Kernel	_
 48-18	7341-7342	.	_
 
+Text=Time series data at each voxel were temporally filtered using a high pass filter with a cutoff of 128 s. Statistical Analysis We used one-way analyses of variance (ANOVA), chi-squared tests, and t-tests to assess group differences in the demographic variables.
 49-1	7343-7347	Time	_
 49-2	7348-7354	series	_
 49-3	7355-7359	data	_
@@ -1308,6 +1357,7 @@
 49-45	7597-7606	variables	_
 49-46	7607-7608	.	_
 
+Text=We performed fMRI statistical analysis on the preprocessed EPIs with the general linear model (GLM) using a two-level approach.
 50-1	7609-7611	We	_
 50-2	7612-7621	performed	_
 50-3	7622-7626	fMRI	_
@@ -1331,6 +1381,7 @@
 50-21	7729-7737	approach	_
 50-22	7738-7739	.	_
 
+Text=The model consisted of boxcar functions convolved with the canonical hemodynamic response function, and then used as the regressors for the regression analysis.
 51-1	7740-7743	The	_
 51-2	7744-7749	model	_
 51-3	7750-7759	consisted	_
@@ -1357,6 +1408,7 @@
 51-24	7892-7900	analysis	_
 51-25	7901-7902	.	_
 
+Text=The six head motion parameters, derived from the realignment processing, were also used as regressors to reduce the motion related artifacts.
 52-1	7903-7906	The	_
 52-2	7907-7910	six	_
 52-3	7911-7915	head	_
@@ -1382,6 +1434,7 @@
 52-23	8036-8045	artifacts	_
 52-24	8046-8047	.	_
 
+Text=On the first level of analysis, individual contrast images for each stimulus versus rest were computed and taken to the second level for random-effects inference.
 53-1	8048-8050	On	_
 53-2	8051-8054	the	_
 53-3	8055-8060	first	_
@@ -1410,6 +1463,7 @@
 53-26	8201-8210	inference	_
 53-27	8211-8212	.	_
 
+Text=On the second level, contrast images for stimuli as the within-subject factors were submitted to three groups (HC, NASZ, AESZ) as the between-subject factors full-factorial ANOVA.
 54-1	8213-8215	On	_
 54-2	8216-8219	the	_
 54-3	8220-8226	second	_
@@ -1443,6 +1497,7 @@
 54-31	8391-8396	ANOVA	_
 54-32	8397-8398	.	_
 
+Text=All fMRI results are reported at a significance level of p <0.05, family-wise error (FWE) -corrected (voxel-level corrected), or p <0.05, FWE cluster-corrected across the whole brain with the initial voxel threshold at p <0.001, uncorrected.
 55-1	8399-8402	All	_
 55-2	8403-8407	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 55-3	8408-8415	results	_
@@ -1492,6 +1547,7 @@
 55-47	8639-8650	uncorrected	_
 55-48	8651-8652	.	_
 
+Text=To determine the direction of the frequency-by-group interaction, we extracted contrast values by identifying the primary auditory cortex and Brodmann areas 41 and 42 as regions of interest (ROI) s using MarsBar (http: //marsbar.sourceforge.net).
 56-1	8653-8655	To	_
 56-2	8656-8665	determine	_
 56-3	8666-8669	the	_
@@ -1534,6 +1590,7 @@
 56-40	8903-8904	)	_
 56-41	8905-8906	.	_
 
+Text=We chose these areas because the ASSR is reportedly evoked in or near the primary auditory cortex.
 57-1	8907-8909	We	_
 57-2	8910-8915	chose	_
 57-3	8916-8921	these	_
@@ -1553,6 +1610,7 @@
 57-17	8998-9004	cortex	_
 57-18	9005-9006	.	_
 
+Text=The resulting contrast values were subjected to ANOVA in SPSS with the three groups (HC, NASZ, AESZ) for each ROI, and we used Bonferroni post-hoc tests to test the differences between the groups.
 58-1	9007-9010	The	_
 58-2	9011-9020	resulting	_
 58-3	9021-9029	contrast	_
@@ -1593,6 +1651,7 @@
 58-38	9201-9207	groups	_
 58-39	9208-9209	.	_
 
+Text=To visualize the time-course of the responses in each ROI, we fitted a finite impulse response (FIR) model in MarsBar to the data.
 59-1	9210-9212	To	_
 59-2	9213-9222	visualize	_
 59-3	9223-9226	the	_
@@ -1621,6 +1680,7 @@
 59-26	9338-9342	data	_
 59-27	9343-9344	.	_
 
+Text=This involved using a linear model to provide unbiased estimates of the average signal intensity at each time point without making a priori assumptions about the shape of the hemodynamic response (HDR).
 60-1	9345-9349	This	_
 60-2	9350-9358	involved	_
 60-3	9359-9364	using	_
@@ -1657,6 +1717,7 @@
 60-34	9547-9548	)	_
 60-35	9549-9550	.	_
 
+Text=We modeled seven time-windows of every 3 s (corresponding to the TR), time-locked to the onset of the first auditory stimulation.
 61-1	9551-9553	We	_
 61-2	9554-9561	modeled	_
 61-3	9562-9567	seven	_
@@ -1683,6 +1744,7 @@
 61-24	9671-9682	stimulation	_
 61-25	9683-9684	.	_
 
+Text=The average signal used in this calculation is based on frequency and is identified as the value of percent signal change for the mean column of the SPM regression analysis.
 62-1	9685-9688	The	_
 62-2	9689-9696	average	_
 62-3	9697-9703	signal	_
@@ -1715,6 +1777,7 @@
 62-30	9849-9857	analysis	_
 62-31	9858-9859	.	_
 
+Text=We performed a repeated-measures ANOVA with time window (0–3, 3–6, 6–9, 9–12, 12–15, 15–18, and 18–21 s) as a within-subjects factor and group (HC, NASZ, AESZ) as a between-subjects factor.
 63-1	9860-9862	We	_
 63-2	9863-9872	performed	_
 63-3	9873-9874	a	_
@@ -1759,6 +1822,7 @@
 63-42	10054-10060	factor	_
 63-43	10061-10062	.	_
 
+Text=The resulting percent signal change values were subjected to a three group (HC, NASZ, AESZ) ANOVA in SPSS, and we used Bonferroni post-hoc tests to assess the differences between groups.
 64-1	10063-10066	The	_
 64-2	10067-10076	resulting	_
 64-3	10077-10084	percent	_
@@ -1796,6 +1860,7 @@
 64-35	10247-10253	groups	_
 64-36	10254-10255	.	_
 
+Text=We applied the Greenhouse–Geisser correction for inhomogeneity of variance for factors with> 2 levels, as reflected in the reported p values.
 65-1	10256-10258	We	_
 65-2	10259-10266	applied	_
 65-3	10267-10270	the	_
@@ -1821,6 +1886,7 @@
 65-23	10392-10398	values	_
 65-24	10399-10400	.	_
 
+Text=For the period with the largest main effect of group during auditory stimulation, we performed correlational analyses between hallucination scores in the PANSS (all AESZ patients had auditory hallucinations) and BOLD percent signal changes.
 66-1	10401-10404	For	_
 66-2	10405-10408	the	_
 66-3	10409-10415	period	_
@@ -1860,6 +1926,7 @@
 66-37	10636-10643	changes	_
 66-38	10644-10645	.	_
 
+Text=Effect sizes are expressed as Cohen's d. The Spearman's rho was used for correlational analysis.
 67-1	10646-10652	Effect	_
 67-2	10653-10658	sizes	_
 67-3	10659-10662	are	_
@@ -1879,6 +1946,7 @@
 67-17	10735-10743	analysis	_
 67-18	10744-10745	.	_
 
+Text=For all statistical tests, α was 0.05.
 68-1	10746-10749	For	_
 68-2	10750-10753	all	_
 68-3	10754-10765	statistical	_

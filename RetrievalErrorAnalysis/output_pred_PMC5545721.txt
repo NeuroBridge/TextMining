@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=DRD2 co-expression network and a related polygenic index predict imaging, behavioral and clinical phenotypes linked to schizophrenia Genetic risk for schizophrenia (SCZ) is determined by many genetic loci whose compound biological effects are difficult to determine.
 1-1	0-4	DRD2	_
 1-2	5-18	co-expression	_
 1-3	19-26	network	_
@@ -43,6 +44,7 @@
 1-39	259-268	determine	_
 1-40	269-270	.	_
 
+Text=We hypothesized that co-expression pathways of SCZ risk genes are associated with system-level brain function and clinical phenotypes of SCZ.
 2-1	271-273	We	_
 2-2	274-286	hypothesized	_
 2-3	287-291	that	_
@@ -65,6 +67,7 @@
 2-20	408-411	SCZ	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-21	412-413	.	_
 
+Text=We examined genetic variants related to the dopamine D2 receptor gene DRD2 co-expression pathway and associated them with working memory (WM) behavior, the related brain activity and treatment response.
 3-1	414-416	We	_
 3-2	417-425	examined	_
 3-3	426-433	genetic	_
@@ -99,6 +102,7 @@
 3-32	610-618	response	_
 3-33	619-620	.	_
 
+Text=Using two independent post-mortem prefrontal messenger RNA (mRNA) data sets (total N=249), we identified a DRD2 co-expression pathway enriched for SCZ risk genes.
 4-1	621-626	Using	_
 4-2	627-630	two	_
 4-3	631-642	independent	_
@@ -129,6 +133,7 @@
 4-28	782-787	genes	_
 4-29	788-789	.	_
 
+Text=Next, we identified non-coding single-nucleotide polymorphisms (SNPs) associated with co-expression of this pathway.
 5-1	790-794	Next	_
 5-2	795-796	,	_
 5-3	797-799	we	_
@@ -147,6 +152,7 @@
 5-16	901-908	pathway	_
 5-17	909-910	.	_
 
+Text=These SNPs were associated with regulatory genetic loci in the dorsolateral prefrontal cortex (P <0.05).
 6-1	911-916	These	_
 6-2	917-921	SNPs	_
 6-3	922-926	were	_
@@ -167,6 +173,7 @@
 6-18	1016-1017	)	_
 6-19	1018-1019	.	_
 
+Text=We summarized their compound effect on co-expression into a Polygenic Co-expression Index (PCI), which predicted DRD2 pathway co-expression in both mRNA data sets (all P <0.05).
 7-1	1020-1022	We	_
 7-2	1023-1033	summarized	_
 7-3	1034-1039	their	_
@@ -201,6 +208,7 @@
 7-32	1201-1202	)	_
 7-33	1203-1204	.	_
 
+Text=We associated the PCI with brain activity during WM performance in two independent samples of healthy individuals (total N=368) and 29 patients with SCZ who performed the n-back task.
 8-1	1205-1207	We	_
 8-2	1208-1218	associated	_
 8-3	1219-1222	the	_
@@ -234,6 +242,7 @@
 8-31	1385-1389	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 8-32	1390-1391	.	_
 
+Text=Greater predicted DRD2 pathway prefrontal co-expression was associated with greater prefrontal activity and longer WM reaction times (all corrected P <0.05), thus indicating inefficient WM processing.
 9-1	1392-1399	Greater	_
 9-2	1400-1409	predicted	_
 9-3	1410-1414	DRD2	_
@@ -266,6 +275,7 @@
 9-30	1585-1595	processing	_
 9-31	1596-1597	.	_
 
+Text=Blind prediction of treatment response to antipsychotics in two independent samples of patients with SCZ suggested better clinical course of patientswith greater PCI (total N=87; P <0.05).
 10-1	1598-1603	Blind	_
 10-2	1604-1614	prediction	_
 10-3	1615-1617	of	_
@@ -299,6 +309,7 @@
 10-31	1788-1789	)	_
 10-32	1790-1791	.	_
 
+Text=The findings on this DRD2 co-expression pathway are a proof of concept that gene co-expression can parse SCZ risk genes into biological pathways associated with intermediate phenotypes as well as with clinically meaningful information.
 11-1	1792-1795	The	_
 11-2	1796-1804	findings	_
 11-3	1805-1807	on	_
@@ -335,6 +346,7 @@
 11-34	2015-2026	information	_
 11-35	2027-2028	.	_
 
+Text=Materials and methods Participants Table 1 summarizes the demographic data of the subjects included in all experiments.
 12-1	2029-2038	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	2039-2042	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	2043-2050	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -354,6 +366,7 @@
 12-17	2136-2147	experiments	_
 12-18	2148-2149	.	_
 
+Text=After receiving a complete description of the study, all participants in the clinical and the imaging studies provided written informed consent following the guidelines of the Declaration of Helsinki.
 13-1	2150-2155	After	_
 13-2	2156-2165	receiving	_
 13-3	2166-2167	a	_
@@ -386,6 +399,7 @@
 13-30	2342-2350	Helsinki	_
 13-31	2351-2352	.	_
 
+Text=Protocols and procedures were approved by the ethics committee of the University of Bari and by the institutional review board of the National Institute of Health, Bethesda, MD, USA.
 14-1	2353-2362	Protocols	_
 14-2	2363-2366	and	_
 14-3	2367-2377	procedures	_
@@ -420,6 +434,7 @@
 14-32	2534-2537	USA	_
 14-33	2538-2539	.	_
 
+Text=Network identification We used the publicly available Braincloud data set (http: //braincloud.jhmi.edu/) for a genome-wide Weighted Genes Co-expression Network Analysis.
 15-1	2540-2547	Network	_
 15-2	2548-2562	identification	_
 15-3	2563-2565	We	_
@@ -445,6 +460,7 @@
 15-23	2703-2711	Analysis	_
 15-24	2712-2713	.	_
 
+Text=The sample included 199 observations (demographics in Table 1).
 16-1	2714-2717	The	_
 16-2	2718-2724	sample	_
 16-3	2725-2733	included	_
@@ -458,6 +474,7 @@
 16-11	2777-2778	)	_
 16-12	2779-2780	.	_
 
+Text=We preprocessed the gene expression matrix to factor out confounding variables, including demographics.
 17-1	2781-2783	We	_
 17-2	2784-2796	preprocessed	_
 17-3	2797-2800	the	_
@@ -474,6 +491,7 @@
 17-14	2872-2884	demographics	_
 17-15	2885-2886	.	_
 
+Text=The first principal component of the DRD2 gene set (module eigengene, ME) served to track the simultaneous variation of the whole gene set.
 18-1	2887-2890	The	_
 18-2	2891-2896	first	_
 18-3	2897-2906	principal	_
@@ -502,6 +520,7 @@
 18-26	3025-3028	set	_
 18-27	3029-3030	.	_
 
+Text=We correlated this co-expression measure with DRD2 expression levels.
 19-1	3031-3033	We	_
 19-2	3034-3044	correlated	_
 19-3	3045-3049	this	_
@@ -513,6 +532,7 @@
 19-9	3093-3099	levels	_
 19-10	3100-3101	.	_
 
+Text=To investigate the biological functions that may be subserved by this ensemble of co-expressed genes, we computed gene ontology enrichment analysis using AmiGO2 (http: //amigo.geneontology.org/amigo/landing).
 20-1	3102-3104	To	_
 20-2	3105-3116	investigate	_
 20-3	3117-3120	the	_
@@ -544,6 +564,7 @@
 20-29	3312-3313	)	_
 20-30	3314-3315	.	_
 
+Text=Finally, we assessed enrichment of the gene set for the loci associated with SCZ risk by the Psychiatric Genomic Consortium (PGC with a hypergeometric test (SI Materials and Methods).
 21-1	3316-3323	Finally	_
 21-2	3324-3325	,	_
 21-3	3326-3328	we	_
@@ -579,6 +600,7 @@
 21-33	3501-3502	)	_
 21-34	3503-3504	.	_
 
+Text=SNP association study We performed a gene set-wide association study of SNPs with the ME.
 22-1	3505-3508	SNP	_
 22-2	3509-3520	association	_
 22-3	3521-3526	study	_
@@ -596,6 +618,7 @@
 22-15	3591-3593	ME	_
 22-16	3594-3595	.	_
 
+Text=The sample size of our post-mortem data set is probably small for a genetic association study, and co-expression is most likely a phenotypic trait with complex heritability, much like SCZ.
 23-1	3596-3599	The	_
 23-2	3600-3606	sample	_
 23-3	3607-3611	size	_
@@ -630,6 +653,7 @@
 23-32	3782-3785	SCZ	_
 23-33	3786-3787	.	_
 
+Text=Power calculations in genetic association studies have been shown to depend on many factors, including heritability of the trait, the proportion of variance explained by the genotyped SNPs, the total number of SNPs, the proportion of SNPs with no effect on the trait, the total sample size and the P-value threshold for SNP selection.
 24-1	3788-3793	Power	_
 24-2	3794-3806	calculations	_
 24-3	3807-3809	in	_
@@ -691,6 +715,7 @@
 24-59	4117-4126	selection	_
 24-60	4127-4128	.	_
 
+Text=The heritability of expression quantitative trait loci (eQTLs) is extremely variable and appears to be comparable between cis- and trans-eQTLs (co-eQTLs fall in the latter category).
 25-1	4129-4132	The	_
 25-2	4133-4145	heritability	_
 25-3	4146-4148	of	_
@@ -723,6 +748,7 @@
 25-30	4313-4314	)	_
 25-31	4315-4316	.	_
 
+Text=Nevertheless, there is evidence of high replicability of eQTLs both with stringent and more lenient thresholds of significance.
 26-1	4317-4329	Nevertheless	_
 26-2	4330-4331	,	_
 26-3	4332-4337	there	_
@@ -744,6 +770,7 @@
 26-19	4432-4444	significance	_
 26-20	4445-4446	.	_
 
+Text=These findings suggest that, beside statistical significance, genetic signals in the study of gene expression may be found beyond the threshold for corrected or nominal significance, as is also the case of complex clinical traits.
 27-1	4447-4452	These	_
 27-2	4453-4461	findings	_
 27-3	4462-4469	suggest	_
@@ -784,6 +811,7 @@
 27-38	4673-4679	traits	_
 27-39	4680-4681	.	_
 
+Text=Based on these considerations, we first tested for co-eQTLs that would survive stringent Bonferroni correction; then, we employed more permissive statistics for our association to minimize false-negative findings and performed internal cross-validations and independent replication to minimize type I errors.
 28-1	4682-4687	Based	_
 28-2	4688-4690	on	_
 28-3	4691-4696	these	_
@@ -829,6 +857,7 @@
 28-43	4986-4992	errors	_
 28-44	4993-4994	.	_
 
+Text=Through this procedure, we aimed at identifying an ensemble of SNPs that, together, predict co-expression.
 29-1	4995-5002	Through	_
 29-2	5003-5007	this	_
 29-3	5008-5017	procedure	_
@@ -849,6 +878,7 @@
 29-18	5090-5103	co-expression	_
 29-19	5104-5105	.	_
 
+Text=We used eight SNPs associated with the first principal component of gene set co-expression with P <0.005 to compute the PCI.
 30-1	5106-5108	We	_
 30-2	5109-5113	used	_
 30-3	5114-5119	eight	_
@@ -873,6 +903,7 @@
 30-22	5227-5230	PCI	_
 30-23	5231-5232	.	_
 
+Text=As a common method to select SNPs for subsequent inclusion in polygenic scores consists in increasing the number of SNPs until the proportion of variance plateaus, we also tested whether such an approach selected the same set of eight SNPs with P <0.005 (SI Materials and Methods).
 31-1	5233-5235	As	_
 31-2	5236-5237	a	_
 31-3	5238-5244	common	_
@@ -926,6 +957,7 @@
 31-51	5516-5517	)	_
 31-52	5518-5519	.	_
 
+Text=We interrogated Haploreg v4.1 (http: //archive.broadinstitute.org/mammals/haploreg/haploreg.php) to gain information on the possible regulatory functions of these SNPs.
 32-1	5520-5522	We	_
 32-2	5523-5535	interrogated	_
 32-3	5536-5544	Haploreg	_
@@ -948,6 +980,7 @@
 32-20	5686-5690	SNPs	_
 32-21	5691-5692	.	_
 
+Text=Then, we computed the PCI by assigning a weight to each genotype of each SNP based on the expression profile within different genotypic groups.
 33-1	5693-5697	Then	_
 33-2	5698-5699	,	_
 33-3	5700-5702	we	_
@@ -975,6 +1008,7 @@
 33-25	5830-5836	groups	_
 33-26	5837-5838	.	_
 
+Text=The greater the PCI, the greater is the messenger RNA expression level of that individual.
 34-1	5839-5842	The	_
 34-2	5843-5850	greater	_
 34-3	5851-5854	the	_
@@ -993,6 +1027,7 @@
 34-16	5919-5929	individual	_
 34-17	5930-5931	.	_
 
+Text=We cross-validated the PCI and assessed ethnicity and population stratification effects, as well as age effects (SI Materials and Methods).
 35-1	5932-5934	We	_
 35-2	5935-5950	cross-validated	_
 35-3	5951-5954	the	_
@@ -1018,6 +1053,7 @@
 35-23	6072-6073	)	_
 35-24	6074-6075	.	_
 
+Text=We used the publicly available BrainEAC data set to replicate the association of the PCI with D2L co-expression in the frontal cortex.
 36-1	6076-6078	We	_
 36-2	6079-6083	used	_
 36-3	6084-6087	the	_
@@ -1042,6 +1078,7 @@
 36-22	6203-6209	cortex	_
 36-23	6210-6211	.	_
 
+Text=From this data set, we selected the probes of all genes included in the D2L co-expression pathway and preprocessed the data as above reported.
 37-1	6212-6216	From	_
 37-2	6217-6221	this	_
 37-3	6222-6226	data	_
@@ -1069,6 +1106,7 @@
 37-25	6346-6354	reported	_
 37-26	6355-6356	.	_
 
+Text=The sample included 50 Caucasian participants.
 38-1	6357-6360	The	_
 38-2	6361-6367	sample	_
 38-3	6368-6376	included	_
@@ -1077,6 +1115,7 @@
 38-6	6390-6402	participants	_
 38-7	6403-6404	.	_
 
+Text=We computed the PCI of each individual and associated it with the ME using Pearson ’ s correlation.
 39-1	6405-6407	We	_
 39-2	6408-6416	computed	_
 39-3	6417-6420	the	_
@@ -1097,6 +1136,7 @@
 39-18	6492-6503	correlation	_
 39-19	6504-6505	.	_
 
+Text=Imaging study We recruited 124 healthy unrelated Caucasian adults from the region of Apulia, Italy (demographics in Table 1), for a functional magnetic resonance imaging (fMRI) experiment and genotyped them for the SNPs included in the PCI.
 40-1	6506-6513	Imaging	_
 40-2	6514-6519	study	_
 40-3	6520-6522	We	_
@@ -1142,6 +1182,7 @@
 40-43	6748-6751	PCI	_
 40-44	6752-6753	.	_
 
+Text=We used the n-back task to probe WM.
 41-1	6754-6756	We	_
 41-2	6757-6761	used	_
 41-3	6762-6765	the	_
@@ -1152,6 +1193,7 @@
 41-8	6787-6789	WM	_
 41-9	6790-6791	.	_
 
+Text=Stimuli consisted of numbers (1–4) shown in random sequence and displayed at the points of a diamond-shaped box.
 42-1	6792-6799	Stimuli	_
 42-2	6800-6809	consisted	_
 42-3	6810-6812	of	_
@@ -1174,6 +1216,7 @@
 42-20	6902-6905	box	_
 42-21	6906-6907	.	_
 
+Text=There was a non-memory-guided control condition (0-back) that required subjects to identify the stimulus currently seen.
 43-1	6908-6913	There	_
 43-2	6914-6917	was	_
 43-3	6918-6919	a	_
@@ -1194,6 +1237,7 @@
 43-18	7025-7029	seen	_
 43-19	7030-7031	.	_
 
+Text=As memory load increased, the task required the recollection of a stimulus seen one (1-back) or two (2-back) stimuli before, while keeping on encoding incoming stimuli (SI Materials and Methods).
 44-1	7032-7034	As	_
 44-2	7035-7041	memory	_
 44-3	7042-7046	load	_
@@ -1234,6 +1278,7 @@
 44-38	7233-7234	)	_
 44-39	7235-7236	.	_
 
+Text=We tested the association of the PCI with brain activation using repeated measures analysis of covariance (within-subject factor: LOAD (1-back, 2-back); covariates: age, gender and handedness; whole-brain topological false discovery rate-corrected α=0.05; extent threshold=6, that is,> 300 mm3).
 45-1	7237-7239	We	_
 45-2	7240-7246	tested	_
 45-3	7247-7250	the	_
@@ -1288,6 +1333,7 @@
 45-52	7544-7545	)	_
 45-53	7546-7547	.	_
 
+Text=We recruited a second fMRI sample of 244 Caucasian healthy volunteers as part of the NIMH Clinical Brain Disorders Branch ‘ Sibling Study ’ (Table 1).
 46-1	7548-7550	We	_
 46-2	7551-7560	recruited	_
 46-3	7561-7562	a	_
@@ -1318,6 +1364,7 @@
 46-28	7698-7699	)	_
 46-29	7700-7701	.	_
 
+Text=These participants performed the same 2-back fMRI task described above and were genome-wide genotyped (SI Materials and Methods).
 47-1	7702-7707	These	_
 47-2	7708-7720	participants	_
 47-3	7721-7730	performed	_
@@ -1340,6 +1387,7 @@
 47-20	7831-7832	)	_
 47-21	7833-7834	.	_
 
+Text=The effect of the PCI on BOLD response was tested using robust linear models with age, gender and handedness as covariates of no interest.
 48-1	7835-7838	The	_
 48-2	7839-7845	effect	_
 48-3	7846-7848	of	_
@@ -1367,6 +1415,7 @@
 48-25	7965-7973	interest	_
 48-26	7974-7975	.	_
 
+Text=We performed one-tailed t-tests using as regions of interest the clusters associated with the PCI in the first healthy sample.
 49-1	7976-7978	We	_
 49-2	7979-7988	performed	_
 49-3	7989-7999	one-tailed	_
@@ -1389,6 +1438,7 @@
 49-20	8095-8101	sample	_
 49-21	8102-8103	.	_
 
+Text=We used MarsBar (http: //marsbar.sourceforge.net/) to extract the percent signal change and corrected for the number of tests (false discovery rate).
 50-1	8104-8106	We	_
 50-2	8107-8111	used	_
 50-3	8112-8119	MarsBar	_
@@ -1417,6 +1467,7 @@
 50-26	8256-8257	)	_
 50-27	8258-8259	.	_
 
+Text=For the fMRI study on the clinical cohort, we recruited 29 Caucasian patients with SCID diagnosis of SCZ from the region of Apulia, Italy (Table 1).
 51-1	8260-8263	For	_
 51-2	8264-8267	the	_
 51-3	8268-8272	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1449,6 +1500,7 @@
 51-30	8410-8411	)	_
 51-31	8412-8413	.	_
 
+Text=Genotyping and fMRI protocols matched the procedures followed for the first fMRI healthy sample.
 52-1	8414-8424	Genotyping	_
 52-2	8425-8428	and	_
 52-3	8429-8433	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1465,6 +1517,7 @@
 52-14	8503-8509	sample	_
 52-15	8510-8511	.	_
 
+Text=Behavioral analyses In the first healthy fMRI sample, we investigated behavioral performance (accuracy and reaction time) during the WM task in the scanning session (SI Materials and Methods).
 53-1	8512-8522	Behavioral	_
 53-2	8523-8531	analyses	_
 53-3	8532-8534	In	_
@@ -1500,6 +1553,7 @@
 53-33	8707-8708	)	_
 53-34	8709-8710	.	_
 
+Text=We analyzed accuracy, that is, percent of correct responses, and reaction times with repeated measures analysis of covariance (within-subject factor: LOAD (1-back, 2-back)) and PCI as a predictor.
 54-1	8711-8713	We	_
 54-2	8714-8722	analyzed	_
 54-3	8723-8731	accuracy	_
@@ -1539,6 +1593,7 @@
 54-37	8906-8915	predictor	_
 54-38	8916-8917	.	_
 
+Text=As we were testing two measures, we set the threshold for significance at α=0.025 (Bonferroni correction).
 55-1	8918-8920	As	_
 55-2	8921-8923	we	_
 55-3	8924-8928	were	_
@@ -1560,6 +1615,7 @@
 55-19	9025-9026	)	_
 55-20	9027-9028	.	_
 
+Text=In the clinical fMRI sample, we analyzed behavioral performance following the same procedures employed for the first fMRI sample.
 56-1	9029-9031	In	_
 56-2	9032-9035	the	_
 56-3	9036-9044	clinical	_
@@ -1582,6 +1638,7 @@
 56-20	9152-9158	sample	_
 56-21	9159-9160	.	_
 
+Text=Pharmacogenetics The first clinical cohort in the pharmacogenetic study included 47 Caucasian patients with SCZ (Structured Clinical Interview for DSM (SCID) diagnosis) recruited from the region of Apulia, Italy (Table 1).
 57-1	9161-9177	Pharmacogenetics	_
 57-2	9178-9181	The	_
 57-3	9182-9187	first	_
@@ -1622,6 +1679,7 @@
 57-38	9388-9389	)	_
 57-39	9390-9391	.	_
 
+Text=Treatment response was computed as the difference in the total Positive And Negative Syndrome Scale (PANSS) core between baseline and treatment end.
 58-1	9392-9401	Treatment	_
 58-2	9402-9410	response	_
 58-3	9411-9414	was	_
@@ -1648,6 +1706,7 @@
 58-24	9538-9541	end	_
 58-25	9542-9543	.	_
 
+Text=The second cohort consisted of 40 patients with SCZ with history of inadequate treatment response recruited at the Clinical Brain Disorders Branch SCZ inpatient research unit at the National Institutes of Health Clinical Center, Bethesda, MD, USA.
 59-1	9544-9547	The	_
 59-2	9548-9554	second	_
 59-3	9555-9561	cohort	_
@@ -1690,6 +1749,7 @@
 59-40	9790-9793	USA	_
 59-41	9794-9795	.	_
 
+Text=Treatment response was defined as the difference between symptoms severity at the end of placebo treatment and severity at the end of drug treatment.
 60-1	9796-9805	Treatment	_
 60-2	9806-9814	response	_
 60-3	9815-9818	was	_
@@ -1716,6 +1776,7 @@
 60-24	9935-9944	treatment	_
 60-25	9945-9946	.	_
 
+Text=The clinical protocols used in the pharmacogenetic study for both samples have been described in detail previously (see Supplementary Table 2 for clinical data).
 61-1	9947-9950	The	_
 61-2	9951-9959	clinical	_
 61-3	9960-9969	protocols	_
@@ -1744,6 +1805,7 @@
 61-26	10108-10109	)	_
 61-27	10110-10111	.	_
 
+Text=We first performed an association study to investigate the direction of the PCI treatment response relationship using Spearman ’ s Rho; then, we assessed the potency of the PCI as predictor of treatment response in comparison with pharmacological doses and off-medication symptom severity using Receiver Operating Characteristic curves (SI Materials and Methods).
 62-1	10112-10114	We	_
 62-2	10115-10120	first	_
 62-3	10121-10130	performed	_

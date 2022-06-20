@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Brain morphological and functional features in cognitive subgroups of schizophrenia Aim Previous studies have reported different brain morphologies in different cognitive subgroups of patients with schizophrenia.
 1-1	0-5	Brain	_
 1-2	6-19	morphological	_
 1-3	20-23	and	_
@@ -30,6 +31,7 @@
 1-26	198-211	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 1-27	212-213	.	_
 
+Text=We aimed to examine the brain structures and functional connectivity in these cognitive subgroups of schizophrenia.
 2-1	214-216	We	_
 2-2	217-222	aimed	_
 2-3	223-225	to	_
@@ -48,6 +50,7 @@
 2-16	315-328	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-17	329-330	.	_
 
+Text=Methods We compared brain structures among healthy controls and cognitively deteriorated and preserved subgroups of patients with schizophrenia according to the decline in IQ.
 3-1	331-338	Methods	_
 3-2	339-341	We	_
 3-3	342-350	compared	_
@@ -74,6 +77,7 @@
 3-24	503-505	IQ	_
 3-25	506-507	.	_
 
+Text=Connectivity analyses between subcortical regions and other brain areas were performed using resting‐state functional magnetic resonance imaging among the groups.
 4-1	508-520	Connectivity	_
 4-2	521-529	analyses	_
 4-3	530-537	between	_
@@ -96,6 +100,7 @@
 4-20	663-669	groups	_
 4-21	670-671	.	_
 
+Text=Results Whole brain and total cortical gray matter, right fusiform gyrus, left pars orbitalis gyrus, right pars triangularis, left superior temporal gyrus and left insula volumes, and bilateral cortical thickness were decreased in the deteriorated group compared to the control and preserved groups.
 5-1	672-679	Results	_
 5-2	680-685	Whole	_
 5-3	686-691	brain	_
@@ -146,6 +151,7 @@
 5-48	969-975	groups	_
 5-49	976-977	.	_
 
+Text=Both schizophrenia subgroups had increased left lateral ventricle, right putamen and left pallidum, and decreased bilateral hippocampus, left precentral gyrus, right rostral middle frontal gyrus, and bilateral superior frontal gyrus volumes compared with controls.
 6-1	978-982	Both	_
 6-2	983-996	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 6-3	997-1006	subgroups	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -187,6 +193,7 @@
 6-39	1238-1246	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 6-40	1247-1248	.	_
 
+Text=Hyperconnectivity between the thalamus and a broad range of brain regions was observed in the deteriorated group compared to connectivity in the control group, and this hyperconnectivity was less evident in the preserved group.
 7-1	1249-1266	Hyperconnectivity	_
 7-2	1267-1274	between	_
 7-3	1275-1278	the	_
@@ -224,6 +231,7 @@
 7-35	1471-1476	group	_
 7-36	1477-1478	.	_
 
+Text=We also found hyperconnectivity between the accumbens and the superior and middle frontal gyri in the preserved group compared with connectivity in the deteriorated group.
 8-1	1479-1481	We	_
 8-2	1482-1486	also	_
 8-3	1487-1492	found	_
@@ -251,6 +259,7 @@
 8-25	1644-1649	group	_
 8-26	1650-1651	.	_
 
+Text=Conclusion These findings provide evidence of prominent structural and functional brain abnormalities in deteriorated patients with schizophrenia, suggesting that cognitive subgroups in schizophrenia might be useful biotypes to elucidate brain pathophysiology for new diagnostic and treatment strategies.
 9-1	1652-1662	Conclusion	_
 9-2	1663-1668	These	_
 9-3	1669-1677	findings	_
@@ -291,6 +300,7 @@
 9-38	1946-1956	strategies	_
 9-39	1957-1958	.	_
 
+Text=Methods Participants The subjects consisted of 171 patients with schizophrenia (60 for brain connectivity analysis) and 633 HC (234 for brain connectivity analysis).
 10-1	1959-1966	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 10-2	1967-1979	Participants	_
 10-3	1980-1983	The	_
@@ -320,6 +330,7 @@
 10-27	2126-2127	)	_
 10-28	2128-2129	.	_
 
+Text=Diagnostic and exclusion criteria have been described previously.19, 25 Written informed consent was obtained from all subjects after the procedures had been fully explained.
 11-1	2130-2140	Diagnostic	_
 11-2	2141-2144	and	_
 11-3	2145-2154	exclusion	_
@@ -347,6 +358,7 @@
 11-25	2295-2304	explained	_
 11-26	2305-2306	.	_
 
+Text=The study was performed in accordance with the World Medical Association's Declaration of Helsinki and was approved by the Research Ethical Committee of Osaka University.
 12-1	2307-2310	The	_
 12-2	2311-2316	study	_
 12-3	2317-2320	was	_
@@ -375,6 +387,7 @@
 12-26	2467-2477	University	_
 12-27	2478-2479	.	_
 
+Text=All participants provided written consent to the study after full explanation of the study procedures.
 13-1	2480-2483	All	_
 13-2	2484-2496	participants	_
 13-3	2497-2505	provided	_
@@ -392,6 +405,7 @@
 13-15	2571-2581	procedures	_
 13-16	2582-2583	.	_
 
+Text=Anonymity was preserved for all participants.
 14-1	2584-2593	Anonymity	_
 14-2	2594-2597	was	_
 14-3	2598-2607	preserved	_
@@ -400,6 +414,7 @@
 14-6	2616-2628	participants	_
 14-7	2629-2630	.	_
 
+Text=Cognitive measures and other measures All participants were administered the full‐scale Wechsler Adult Intelligence Scale –III (WAIS‐III) 26 to obtain their current IQ and the Japanese version of the National Adult Reading Test 50 (JART) 27 to obtain an estimated premorbid IQ score.
 15-1	2631-2640	Cognitive	_
 15-2	2641-2649	measures	_
 15-3	2650-2653	and	_
@@ -449,6 +464,7 @@
 15-47	2912-2917	score	_
 15-48	2918-2919	.	_
 
+Text=The Wechsler Memory Scale – Revised28 was administered to assess the memory functioning of the participants.
 16-1	2920-2923	The	_
 16-2	2924-2932	Wechsler	http://maven.renci.org/NeuroBridge/neurobridge#Revised
 16-3	2933-2939	Memory	http://maven.renci.org/NeuroBridge/neurobridge#Revised
@@ -467,6 +483,7 @@
 16-16	3015-3027	participants	_
 16-17	3028-3029	.	_
 
+Text=Current symptoms of schizophrenia were evaluated using the Positive and Negative Syndrome Scale (PANSS).29 Daily doses of antipsychotics, expressed as the chlorpromazine equivalent (CPZeq), in patients were calculated according to previous literature.30 Classification of IQ decline subgroups Based on previous findings,22 we classified patients with schizophrenia into three groups: (i) deteriorated, those displaying a meaningful decline in IQ (≥10 points) as evidenced by the difference between current IQ (based on the full‐scale IQ score of the WAIS‐III) and estimated premorbid IQ score (based on the JART score); (ii) preserved, those having an estimated premorbid IQ score above 90 and less than a 10‐point difference between their estimated premorbid IQ and their current IQ; and (iii) compromised, those displaying an estimated premorbid IQ score below 90 and less than a 10‐point difference between their estimated premorbid IQ and their current IQ.
 17-1	3030-3037	Current	_
 17-2	3038-3046	symptoms	_
 17-3	3047-3049	of	_
@@ -634,6 +651,7 @@
 17-165	4012-4014	IQ	_
 17-166	4015-4016	.	_
 
+Text=The existence of a 10‐point IQ decline took precedence over either of the cut‐off strategies described.
 18-1	4017-4020	The	_
 18-2	4021-4030	existence	_
 18-3	4031-4033	of	_
@@ -652,6 +670,7 @@
 18-16	4110-4119	described	_
 18-17	4120-4121	.	_
 
+Text=The numbers in each group were as follows: deteriorated, n = 111 (65%); preserved, n = 54 (32%); and compromised, n = 6 (4%) (Fig.
 19-1	4122-4125	The	_
 19-2	4126-4133	numbers	_
 19-3	4134-4136	in	_
@@ -695,10 +714,12 @@
 19-41	4264-4267	Fig	_
 19-42	4268-4269	.	_
 
+Text=S1).
 20-1	4270-4272	S1	_
 20-2	4273-4274	)	_
 20-3	4275-4276	.	_
 
+Text=As the compromised group was too small (n = 6), we excluded this group from the analysis.
 21-1	4277-4279	As	_
 21-2	4280-4283	the	_
 21-3	4284-4295	compromised	_
@@ -721,6 +742,7 @@
 21-20	4360-4368	analysis	_
 21-21	4369-4370	.	_
 
+Text=Statistical analysis for demographics and clinical characteristics Statistical analyses were performed using spss for Windows Version 24 (SPSS Japan Inc., Tokyo, Japan).
 22-1	4371-4382	Statistical	_
 22-2	4383-4391	analysis	_
 22-3	4392-4395	for	_
@@ -749,6 +771,7 @@
 22-26	4542-4543	)	_
 22-27	4544-4545	.	_
 
+Text=Group comparisons of sex were performed using the χ2‐test.
 23-1	4546-4551	Group	_
 23-2	4552-4563	comparisons	_
 23-3	4564-4566	of	_
@@ -760,6 +783,7 @@
 23-9	4596-4603	χ2‐test	_
 23-10	4604-4605	.	_
 
+Text=We performed t‐tests to compare clinical characteristics between preserved and deteriorated groups, and analysis of variance (anova) was employed for comparisons of continuous variables, as appropriate.
 24-1	4606-4608	We	_
 24-2	4609-4618	performed	_
 24-3	4619-4626	t‐tests	_
@@ -792,6 +816,7 @@
 24-30	4800-4811	appropriate	_
 24-31	4812-4813	.	_
 
+Text=For defining statistical significance, we set the type I error rate (P‐value) at 0.05.
 25-1	4814-4817	For	_
 25-2	4818-4826	defining	_
 25-3	4827-4838	statistical	_
@@ -811,6 +836,7 @@
 25-17	4898-4902	0.05	_
 25-18	4903-4904	.	_
 
+Text=Cohen's d effect sizes were calculated from the overall group contrast.
 26-1	4905-4910	Cohen	_
 26-2	4911-4913	's	_
 26-3	4914-4915	d	_
@@ -825,6 +851,7 @@
 26-12	4968-4976	contrast	_
 26-13	4977-4978	.	_
 
+Text=Structural and functional imaging and volumetric and connectivity processing We performed magnetic resonance imaging (MRI) and obtained T1‐weighted images with two different scanners: Osaka A and Osaka B.
 27-1	4979-4989	Structural	_
 27-2	4990-4993	and	_
 27-3	4994-5004	functional	_
@@ -858,6 +885,7 @@
 27-31	5184-5185	B	_
 27-32	5186-5187	.	_
 
+Text=We scanned 109 patients (deteriorated, n = 70; preserved, n = 34; and compromised, n = 5) and 399 HC with Osaka A; and 62 patients (deteriorated, n = 41; preserved, n = 20; and compromised, n = 1) and 234 HC with Osaka B.
 28-1	5188-5190	We	_
 28-2	5191-5198	scanned	_
 28-3	5199-5202	109	_
@@ -920,6 +948,7 @@
 28-60	5422-5423	B	_
 28-61	5424-5425	.	_
 
+Text=The scanner type for Osaka A was a GE 1.5 T, Signa EXCITE.
 29-1	5426-5429	The	_
 29-2	5430-5437	scanner	_
 29-3	5438-5442	type	_
@@ -936,6 +965,7 @@
 29-14	5478-5484	EXCITE	_
 29-15	5485-5486	.	_
 
+Text=T1‐weighted images, using a fast‐spoiled gradient echo (SPGR) and a head QD coil, were acquired with the following parameters: repetition time (TR) = 12.6 ms, echo time (TE) = 4.2 ms, inversion time (TI) = 400 ms, flip angle = 15 degrees, matrix = 256 × 256 × 124, field of view (FOV) = 240 × 240 × 172 mm, voxel size = 0.9375 × 0.9375 × 1.4 mm, slice thickness = 1.4 mm, and number of slices = 124.
 30-1	5487-5498	T1‐weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 30-2	5499-5505	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 30-3	5506-5507	,	_
@@ -1039,6 +1069,7 @@
 30-101	5903-5906	124	_
 30-102	5907-5908	.	_
 
+Text=The slice orientation was in the sagittal plane.
 31-1	5909-5912	The	_
 31-2	5913-5918	slice	_
 31-3	5919-5930	orientation	_
@@ -1049,6 +1080,7 @@
 31-8	5951-5956	plane	_
 31-9	5957-5958	.	_
 
+Text=The scanner type for Osaka B was a GE 3.0 T, Signa HDxt.
 32-1	5959-5962	The	_
 32-2	5963-5970	scanner	_
 32-3	5971-5975	type	_
@@ -1065,6 +1097,7 @@
 32-14	6011-6015	HDxt	_
 32-15	6016-6017	.	_
 
+Text=T1‐weighted images, using a fast SPGR and an 8HRBRAIN coil, were acquired with the following parameters: TR = 7.2 ms, TE = 2.9 ms, TI = 400 ms, flip angle = 11 degrees, matrix = 256 × 256 × 172, FOV = 240 × 240 × 172 mm, voxel size = 0.9375 × 0.9375 × 1 mm, slice thickness = 1 mm, and number of slices = 172.
 33-1	6018-6029	T1‐weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 33-2	6030-6036	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 33-3	6037-6038	,	_
@@ -1146,6 +1179,7 @@
 33-79	6334-6337	172	_
 33-80	6338-6339	.	_
 
+Text=The slice orientation was in the sagittal plane.
 34-1	6340-6343	The	_
 34-2	6344-6349	slice	_
 34-3	6350-6361	orientation	_
@@ -1156,6 +1190,7 @@
 34-8	6382-6387	plane	_
 34-9	6388-6389	.	_
 
+Text=We performed structural image processing in the same way as that performed in our previous study.17, 18, 19 We checked original T1‐weighted images through visual inspection for quality control.
 35-1	6390-6392	We	_
 35-2	6393-6402	performed	_
 35-3	6403-6413	structural	_
@@ -1189,6 +1224,7 @@
 35-31	6577-6584	control	_
 35-32	6585-6586	.	_
 
+Text=We excluded images with a low signal‐to‐noise ratio or any artifacts, those with partial deficits, and those with any abnormal organic findings.
 36-1	6587-6589	We	_
 36-2	6590-6598	excluded	_
 36-3	6599-6605	images	_
@@ -1215,6 +1251,7 @@
 36-24	6724-6732	findings	_
 36-25	6733-6734	.	_
 
+Text=Next, we processed T1‐weighted imaging data that had passed the first quality‐control step with FreeSurfer software version 5.3 (http: //surfer.nmr.mgh.harvard.edu).30 Through this procedure, we obtained images showing the subcortical segmentation and regional volumes (for the hippocampus, amygdala, thalamus, nucleus accumbens, caudate, putamen, globus pallidus in both hemispheres, and the intracranial volume [ICV]).
 37-1	6735-6739	Next	_
 37-2	6740-6741	,	_
 37-3	6742-6744	we	_
@@ -1286,6 +1323,7 @@
 37-69	7170-7171	)	_
 37-70	7172-7173	.	_
 
+Text=After that, two independent researchers visually inspected each segmentation image to exclude images with poor segmentation.
 38-1	7174-7179	After	_
 38-2	7180-7184	that	_
 38-3	7185-7186	,	_
@@ -1305,6 +1343,7 @@
 38-17	7286-7298	segmentation	_
 38-18	7299-7300	.	_
 
+Text=No subject was excluded due to the failure of FreeSurfer processing.
 39-1	7301-7303	No	_
 39-2	7304-7311	subject	_
 39-3	7312-7315	was	_
@@ -1318,6 +1357,7 @@
 39-11	7358-7368	processing	_
 39-12	7369-7370	.	_
 
+Text=After these two quality‐control steps, we obtained the raw subcortical volume data.
 40-1	7371-7376	After	_
 40-2	7377-7382	these	_
 40-3	7383-7386	two	_
@@ -1333,6 +1373,7 @@
 40-13	7450-7454	data	_
 40-14	7455-7456	.	_
 
+Text=The analytical methods used in the study by van Erp et al.16 from ENIGMA‐SZ were followed in this analysis.
 41-1	7457-7460	The	_
 41-2	7461-7471	analytical	_
 41-3	7472-7479	methods	_
@@ -1354,6 +1395,7 @@
 41-19	7555-7563	analysis	_
 41-20	7564-7565	.	_
 
+Text=We employed the normalized regional volume to remove the effects of the confounding factors considering linear and nonlinear age effects on subcortical regional volumes as described previously.17, 18, 19 We also extracted cortical thickness measures from both scanners using Freesurfer 5.3 (http: //surfer.nmr.mgh.harvard.edu).
 42-1	7566-7568	We	_
 42-2	7569-7577	employed	_
 42-3	7578-7581	the	_
@@ -1404,6 +1446,7 @@
 42-48	7896-7897	)	_
 42-49	7898-7899	.	_
 
+Text=Cortical parcellations were created based on the Desikan–Killiany atlas, with a total of 68 (34 left and 34 right) cortical gray matter regions.
 43-1	7900-7908	Cortical	_
 43-2	7909-7922	parcellations	_
 43-3	7923-7927	were	_
@@ -1432,6 +1475,7 @@
 43-26	8039-8046	regions	_
 43-27	8047-8048	.	_
 
+Text=Hemispheric average cortical thicknesses were also calculated.
 44-1	8049-8060	Hemispheric	_
 44-2	8061-8068	average	_
 44-3	8069-8077	cortical	_
@@ -1441,6 +1485,7 @@
 44-7	8100-8110	calculated	_
 44-8	8111-8112	.	_
 
+Text=Based on the standardized ENIGMA protocols (http: //enigma.ini.usc.edu/protocols/imaging-protocols), the segmentations were visually inspected by three independent researchers and statistically evaluated for outliers.
 45-1	8113-8118	Based	_
 45-2	8119-8121	on	_
 45-3	8122-8125	the	_
@@ -1469,6 +1514,7 @@
 45-26	8325-8333	outliers	_
 45-27	8334-8335	.	_
 
+Text=MRI scanning for resting‐state fMRI (rs‐fMRI) was performed on Osaka B, a GE 3.0T Signa HDxt using an 8HRBRAIN head coil.
 46-1	8336-8339	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 46-2	8340-8348	scanning	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 46-3	8349-8352	for	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -1495,6 +1541,7 @@
 46-24	8455-8459	coil	_
 46-25	8460-8461	.	_
 
+Text=RsfMRI was acquired using a T2 * echo‐planar imaging (EPI) sequence with the following parameters: TR/TE, 2000 ms/30 ms; flip angle, 90°; acquisition matrix, 64 × 64; FOV, 220 mm × 220 mm; voxel size, 3.44 mm × 3.44 mm × 3.50 mm; slice thickness, 3.50 mm; and slice gap, none.
 47-1	8462-8468	RsfMRI	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 47-2	8469-8472	was	_
 47-3	8473-8481	acquired	_
@@ -1564,6 +1611,7 @@
 47-67	8749-8753	none	_
 47-68	8754-8755	.	_
 
+Text=Each brain volume consisted of 40 axial slices, and each functional run contained 150 image volumes preceded by four dummy volumes.
 48-1	8756-8760	Each	_
 48-2	8761-8766	brain	_
 48-3	8767-8773	volume	_
@@ -1588,6 +1636,7 @@
 48-22	8880-8887	volumes	_
 48-23	8888-8889	.	_
 
+Text=Participants were asked to stay awake, not to focus their thoughts on anything in particular, and to keep their eyes closed during rsfMRI scanning.
 49-1	8890-8902	Participants	_
 49-2	8903-8907	were	_
 49-3	8908-8913	asked	_
@@ -1616,6 +1665,7 @@
 49-26	9030-9038	scanning	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 49-27	9039-9040	.	_
 
+Text=RsfMRI data preprocessing was performed with Data Processing Assistant for Resting‐State fMRI Advanced Edition (DPARSF‐A) version 2.1 software,31, 32 which is a matlab (MathWorks, Natick, MA, USA) toolbox.
 50-1	9041-9047	RsfMRI	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 50-2	9048-9052	data	_
 50-3	9053-9066	preprocessing	_
@@ -1654,6 +1704,7 @@
 50-36	9246-9253	toolbox	_
 50-37	9254-9255	.	_
 
+Text=Imaging data were adjusted for a temporal shift in acquisition, spatially realigned to the middle slice, nonlinearly normalized to the EPI MNI template (resulting in an isotropic voxel size of 3 × 3 × 3 mm), smoothed using a full‐width at half‐maximum kernel of 4 mm, and bandpass filtered (0.01–0.1 Hz).
 51-1	9256-9263	Imaging	_
 51-2	9264-9268	data	_
 51-3	9269-9273	were	_
@@ -1715,6 +1766,7 @@
 51-59	9566-9567	)	_
 51-60	9568-9569	.	_
 
+Text=Nuisance signals from the head‐motion time series estimated by the Friston 24‐parameter model,33 as well as signals from white matter and cerebrospinal fluid signals, were regressed out of each voxel's time course.
 52-1	9570-9578	Nuisance	_
 52-2	9579-9586	signals	_
 52-3	9587-9591	from	_
@@ -1751,6 +1803,7 @@
 52-34	9779-9785	course	_
 52-35	9786-9787	.	_
 
+Text=Moreover, the head motion scrubbing regression was modeled using the following parameters: framewise displacement threshold for ‘ bad ’ time‐points, 0.5; scrubbing time‐points before ‘ bad ’ time‐points, 1; and scrubbing time‐points after ‘ bad ’ time‐points, 2.34 Finally, the time course data were processed for each voxel, as well as for each of the brain regions defined by the Harvard–Oxford atlas distributed with FSL (http: //www.fmrib.ox.ac.uk/fsl/), by averaging over voxels within each region.
 53-1	9788-9796	Moreover	_
 53-2	9797-9798	,	_
 53-3	9799-9802	the	_
@@ -1840,6 +1893,7 @@
 53-87	10297-10303	region	_
 53-88	10304-10305	.	_
 
+Text=Intraregional correlation coefficients indicating the extent of synchronicity were calculated between every pair of a subcortical region and a voxel, and connectivity maps were created.
 54-1	10306-10319	Intraregional	_
 54-2	10320-10331	correlation	_
 54-3	10332-10344	coefficients	_
@@ -1868,6 +1922,7 @@
 54-26	10484-10491	created	_
 54-27	10492-10493	.	_
 
+Text=Correlation coefficients representing functional connectivity (FC) were converted to z‐scores using Fisher's transformation.
 55-1	10494-10505	Correlation	_
 55-2	10506-10518	coefficients	_
 55-3	10519-10531	representing	_
@@ -1886,6 +1941,7 @@
 55-16	10606-10620	transformation	_
 55-17	10621-10622	.	_
 
+Text=Statistical analysis for imaging data Statistical analyses were performed using spss for Windows Version 24 (SPSS Japan Inc., Tokyo, Japan).
 56-1	10623-10634	Statistical	_
 56-2	10635-10643	analysis	_
 56-3	10644-10647	for	_
@@ -1912,6 +1968,7 @@
 56-24	10765-10766	)	_
 56-25	10767-10768	.	_
 
+Text=For each segmented structure, except for the ICV, a total of 798 subjects (633 controls, 111 patients with deteriorated IQ, and 54 patients with preserved IQ) were compared using analysis of covariance (ancova), including age, sex, type of MRI scanner, and ICV as covariates.
 57-1	10769-10772	For	_
 57-2	10773-10777	each	_
 57-3	10778-10787	segmented	_
@@ -1970,6 +2027,7 @@
 57-56	11045-11055	covariates	_
 57-57	11056-11057	.	_
 
+Text=The ICV was analyzed using ancova, including age, sex, and type of MRI scanner as covariates.
 58-1	11058-11061	The	_
 58-2	11062-11065	ICV	_
 58-3	11066-11069	was	_
@@ -1991,6 +2049,7 @@
 58-19	11143-11153	covariates	_
 58-20	11154-11155	.	_
 
+Text=Because there were 94 brain regions, statistical significance was defined at P <5.3 × 10−4.
 59-1	11156-11163	Because	_
 59-2	11164-11169	there	_
 59-3	11170-11174	were	_
@@ -2010,6 +2069,7 @@
 59-17	11244-11248	10−4	_
 59-18	11249-11250	.	_
 
+Text=All reported P‐values are based on two‐tailed tests.
 60-1	11251-11254	All	_
 60-2	11255-11263	reported	_
 60-3	11264-11272	P‐values	_
@@ -2020,6 +2080,7 @@
 60-8	11297-11302	tests	_
 60-9	11303-11304	.	_
 
+Text=Post‐hoc comparisons were performed after ancova using the Bonferroni correction when there was a significant difference among the groups.
 61-1	11305-11313	Post‐hoc	_
 61-2	11314-11325	comparisons	_
 61-3	11326-11330	were	_
@@ -2041,6 +2102,7 @@
 61-19	11436-11442	groups	_
 61-20	11443-11444	.	_
 
+Text=Statistical significance was defined for post‐hoc comparisons at P <0.05.
 62-1	11445-11456	Statistical	_
 62-2	11457-11469	significance	_
 62-3	11470-11473	was	_
@@ -2054,6 +2116,7 @@
 62-11	11514-11518	0.05	_
 62-12	11519-11520	.	_
 
+Text=Cohen's d effect sizes were calculated between the groups.
 63-1	11521-11526	Cohen	_
 63-2	11527-11529	's	_
 63-3	11530-11531	d	_
@@ -2066,6 +2129,7 @@
 63-10	11573-11579	groups	_
 63-11	11580-11581	.	_
 
+Text=A total of 294 subjects (234 controls, 40 patients with deteriorated IQ, and 20 patients with preserved IQ) were analyzed for brain connectivity.
 64-1	11582-11583	A	_
 64-2	11584-11589	total	_
 64-3	11590-11592	of	_
@@ -2095,6 +2159,7 @@
 64-27	11718-11730	connectivity	_
 64-28	11731-11732	.	_
 
+Text=The second‐level analyses of seed‐based FC maps were performed in spm12 (Wellcome Department of Cognitive Neurology, London, UK) running on MATLAB R2014b.
 65-1	11733-11736	The	_
 65-2	11737-11749	second‐level	_
 65-3	11750-11758	analyses	_
@@ -2123,6 +2188,7 @@
 65-26	11884-11890	R2014b	_
 65-27	11891-11892	.	_
 
+Text=We compared functional connectivity maps seeded in the bilateral thalamus, accumbens, amygdala, caudate nucleus, hippocampus, pallidum, and putamen between the deteriorated group and control group, the preserved group and control group, and the deteriorated group and preserved group controlling for age and sex.
 66-1	11893-11895	We	_
 66-2	11896-11904	compared	_
 66-3	11905-11915	functional	_
@@ -2176,6 +2242,7 @@
 66-51	12209-12212	sex	_
 66-52	12213-12214	.	_
 
+Text=For the analysis of FC maps, the statistical threshold was set at an uncorrected P <0.001 at the voxel level and a family‐wise‐error‐corrected P <0.05 at the cluster level.
 67-1	12215-12218	For	_
 67-2	12219-12222	the	_
 67-3	12223-12231	analysis	_

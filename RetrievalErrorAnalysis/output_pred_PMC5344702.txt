@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Regional and source-based patterns of [11C] - (+) -PHNO binding potential reveal concurrent alterations in dopamine D2 and D3 receptor availability in cocaine-use disorder Dopamine type 2 and type 3 receptors (D2R/D3R) appear critical to addictive disorders.
 1-1	0-8	Regional	_
 1-2	9-12	and	_
 1-3	13-25	source-based	_
@@ -47,6 +48,7 @@
 1-43	254-263	disorders	_
 1-44	264-265	.	_
 
+Text=Cocaine-use disorder (CUD) is associated with lower D2R availability and greater D3R availability in regions primarily expressing D2R or D3R concentrations, respectively.
 2-1	266-277	Cocaine-use	http://maven.renci.org/NeuroBridge/neurobridge#CognitiveDisorder
 2-2	278-286	disorder	http://maven.renci.org/NeuroBridge/neurobridge#CognitiveDisorder
 2-3	287-288	(	http://maven.renci.org/NeuroBridge/neurobridge#CognitiveDisorder
@@ -74,6 +76,7 @@
 2-25	426-438	respectively	_
 2-26	439-440	.	_
 
+Text=However, these CUD-related alterations in D2R and D3R have not been concurrently detected using available dopaminergic radioligands.
 3-1	441-448	However	_
 3-2	449-450	,	_
 3-3	451-456	these	_
@@ -94,6 +97,7 @@
 3-18	561-573	radioligands	_
 3-19	574-575	.	_
 
+Text=Furthermore, receptor availability in regions of mixed D2R/D3R concentration in CUD remains unclear.
 4-1	576-587	Furthermore	_
 4-2	588-589	,	_
 4-3	590-598	receptor	_
@@ -110,6 +114,7 @@
 4-14	669-676	unclear	_
 4-15	677-678	.	_
 
+Text=The current study aimed to extend investigations of CUD-related alterations in D2R and D3R availability using regional and source-based analyses of [11C] - (+) -PHNO positron emission tomography (PET) of 26 individuals with CUD and 26 matched healthy comparison (HC) participants.
 5-1	679-682	The	_
 5-2	683-690	current	_
 5-3	691-696	study	_
@@ -161,6 +166,7 @@
 5-49	954-966	participants	_
 5-50	967-968	.	_
 
+Text=Regional analysis detected greater binding potential (BPND) in CUD in the midbrain, consistent with prior [11C] - (+) -PHNO research, and lower BPND in CUD in the dorsal striatum, consistent with research using non-selective D2R/D3R radiotracers.
 6-1	969-977	Regional	_
 6-2	978-986	analysis	_
 6-3	987-995	detected	_
@@ -208,6 +214,7 @@
 6-45	1211-1223	radiotracers	_
 6-46	1224-1225	.	_
 
+Text=Exploratory independent component analysis (ICA) identified three sources of BPND (striatopallidal, pallidonigral, and mesoaccumbens sources) that represent systems of brain regions displaying coherent variation in receptor availability.
 7-1	1226-1237	Exploratory	_
 7-2	1238-1249	independent	_
 7-3	1250-1259	component	_
@@ -243,6 +250,7 @@
 7-33	1456-1468	availability	_
 7-34	1469-1470	.	_
 
+Text=The striatopallidal source was associated with estimates of regional D2R-related proportions of BPND (calculated using independent reports of [11C] - (+) -PHNO receptor binding fractions), was lower in intensity in CUD and negatively associated with years of cocaine use.
 8-1	1471-1474	The	_
 8-2	1475-1490	striatopallidal	_
 8-3	1491-1497	source	_
@@ -291,6 +299,7 @@
 8-46	1745-1748	use	_
 8-47	1749-1750	.	_
 
+Text=By comparison, the pallidonigral source was associated with estimates of regional D3R distribution, was greater in intensity in CUD and positively associated with years of cocaine use.
 9-1	1751-1753	By	_
 9-2	1754-1764	comparison	_
 9-3	1765-1766	,	_
@@ -322,6 +331,7 @@
 9-29	1933-1936	use	_
 9-30	1937-1938	.	_
 
+Text=The current study extends previous D2R/D3R research in CUD, demonstrating both lower BPND in the D2R-rich dorsal striatum and greater BPND in the D3R-rich midbrain using a single radiotracer.
 10-1	1939-1942	The	_
 10-2	1943-1950	current	_
 10-3	1951-1956	study	_
@@ -354,6 +364,7 @@
 10-30	2119-2130	radiotracer	_
 10-31	2131-2132	.	_
 
+Text=In addition, exploratory ICA identified sources of [11C] - (+) -PHNO BPND that were correlated with regional estimates of D2R-related and D3R-related proportions of BPND, were consistent with regional differences in CUD, and suggest receptor alterations in CUD may also be present in regions of mixed D2R/D3R concentration.
 11-1	2133-2135	In	_
 11-2	2136-2144	addition	_
 11-3	2145-2146	,	_
@@ -411,15 +422,18 @@
 11-55	2449-2462	concentration	_
 11-56	2463-2464	.	_
 
+Text=2.
 12-1	2465-2466	2	_
 12-2	2467-2468	.	_
 
+Text=Methods and Materials 2.1.
 13-1	2469-2476	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-2	2477-2480	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-3	2481-2490	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-4	2491-2494	2.1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-5	2495-2496	.	_
 
+Text=Participants Participants were 26 non-treatment seeking individuals with CUD and 26 age- and gender-matched HC participants, most of whom (22 CUD and 21 HC) were included in previous reports (Table 1).
 14-1	2497-2509	Participants	_
 14-2	2510-2522	Participants	_
 14-3	2523-2527	were	_
@@ -458,6 +472,7 @@
 14-36	2701-2702	)	_
 14-37	2703-2704	.	_
 
+Text=Physical exams with medical history, routine laboratory studies, pregnancy tests and electrocardiograms (ECGs) were performed to assess medical health eligibility criteria.
 15-1	2705-2713	Physical	_
 15-2	2714-2719	exams	_
 15-3	2720-2724	with	_
@@ -485,6 +500,7 @@
 15-25	2872-2880	criteria	_
 15-26	2881-2882	.	_
 
+Text=Urine toxicology screening for a range of drugs (including cocaine, amphetamines, marijuana, opiates, benzodiazepines, barbiturates) were performed to confirm cocaine-use status in CUD participants and the absence of other recent drug use in both CUD and HC participants.
 16-1	2883-2888	Urine	_
 16-2	2889-2899	toxicology	_
 16-3	2900-2909	screening	_
@@ -532,6 +548,7 @@
 16-45	3148-3160	participants	_
 16-46	3161-3162	.	_
 
+Text=Participants were assessed for DSM-IV diagnoses using clinical interviews (SCID; MINI).
 17-1	3163-3175	Participants	_
 17-2	3176-3180	were	_
 17-3	3181-3189	assessed	_
@@ -548,6 +565,7 @@
 17-14	3251-3252	)	_
 17-15	3253-3254	.	_
 
+Text=Participants meeting criteria for cocaine dependence (i.e., presenting with 3 or more criteria) were included in the CUD sample.
 18-1	3255-3267	Participants	_
 18-2	3268-3275	meeting	_
 18-3	3276-3284	criteria	_
@@ -572,6 +590,7 @@
 18-22	3379-3385	sample	_
 18-23	3386-3387	.	_
 
+Text=Exclusion criteria included the presence or history of a general medical illness or psychotic disorder, pregnancy or breast feeding, or any condition that would interfere with the ability to participate in PET or MRI protocols (e.g., claustrophobia, metallic implants).
 19-1	3388-3397	Exclusion	_
 19-2	3398-3406	criteria	_
 19-3	3407-3415	included	_
@@ -619,6 +638,7 @@
 19-45	3661-3662	)	_
 19-46	3663-3664	.	_
 
+Text=All study procedures were approved by the Yale Human Investigation, Yale University Radiation Safety, Yale-New Haven Hospital Radioactive Drug Research, and Yale MRI Safety Committees, and participants provided written informed consent.
 20-1	3665-3668	All	_
 20-2	3669-3674	study	_
 20-3	3675-3685	procedures	_
@@ -656,9 +676,11 @@
 20-35	3897-3904	consent	_
 20-36	3905-3906	.	_
 
+Text=2.2.
 21-1	3907-3910	2.2	_
 21-2	3911-3912	.	_
 
+Text=Radiochemistry and image acquisition [11C] - (+) -PHNO was prepared as previously described.
 22-1	3913-3927	Radiochemistry	_
 22-2	3928-3931	and	_
 22-3	3932-3937	image	_
@@ -678,6 +700,7 @@
 22-17	3999-4008	described	_
 22-18	4009-4010	.	_
 
+Text=Radioactive dose, specific activity and injected mass for CUD and HC groups are listed in Table 1.
 23-1	4011-4022	Radioactive	_
 23-2	4023-4027	dose	_
 23-3	4028-4029	,	_
@@ -698,6 +721,7 @@
 23-18	4108-4109	1	_
 23-19	4110-4111	.	_
 
+Text=PET imaging was performed on a Siemens high-resolution research tomograph (HRRT; Siemens/CTI, Knoxville, TN, USA).
 24-1	4112-4115	PET	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
 24-2	4116-4123	imaging	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
 24-3	4124-4127	was	_
@@ -721,6 +745,7 @@
 24-21	4230-4231	)	_
 24-22	4232-4233	.	_
 
+Text=A transmission scan was obtained before the emission scan.
 25-1	4234-4235	A	_
 25-2	4236-4248	transmission	_
 25-3	4249-4253	scan	_
@@ -732,6 +757,7 @@
 25-9	4287-4291	scan	_
 25-10	4292-4293	.	_
 
+Text=PET scans (slices=207, slice separation=1.2mm, reconstructed image resolution ~3 mm) were acquired for 120 min at rest.
 26-1	4294-4297	PET	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
 26-2	4298-4303	scans	_
 26-3	4304-4305	(	_
@@ -755,6 +781,7 @@
 26-21	4412-4416	rest	_
 26-22	4417-4418	.	_
 
+Text=Head motion was measured using an optical detector (Vicra, NDI Systems, Waterloo, Ontario, Canada).
 27-1	4419-4423	Head	_
 27-2	4424-4430	motion	_
 27-3	4431-4434	was	_
@@ -777,6 +804,7 @@
 27-20	4522-4523	)	_
 27-21	4524-4525	.	_
 
+Text=MR images were collected on a Siemens 3T Trio system (Siemens Medical Solutions, Malvern, PA) using a magnetization prepared rapid acquisition gradient echo (MPRAGE) sequence (repeat time (TR) /echo time (TE) =2530/3.34, flip angle=7°, in-plane resolution=0.98×0.98 mm, matrix=256×256, slice thickness=1mm, slices=176).
 28-1	4526-4528	MR	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 28-2	4529-4535	images	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 28-3	4536-4540	were	_
@@ -837,9 +865,11 @@
 28-58	4860-4861	)	_
 28-59	4862-4863	.	_
 
+Text=2.3.
 29-1	4864-4867	2.3	_
 29-2	4868-4869	.	_
 
+Text=Image processing Dynamic PET data (frame timing: 6×30s; 3×60s; 2×120s; 22×300s) were reconstructed with corrections (attenuation, normalization, scatter, randoms, deadtime and motion) using the MOLAR algorithm.
 30-1	4870-4875	Image	_
 30-2	4876-4886	processing	_
 30-3	4887-4894	Dynamic	_
@@ -880,6 +910,7 @@
 30-38	5082-5091	algorithm	_
 30-39	5092-5093	.	_
 
+Text=Parametric images of [11C] - (+) -PHNO BPND were computed using a simplified reference tissue model (SRTM2) with the cerebellum as reference.
 31-1	5094-5104	Parametric	_
 31-2	5105-5111	images	_
 31-3	5112-5114	of	_
@@ -910,6 +941,7 @@
 31-28	5231-5240	reference	_
 31-29	5241-5242	.	_
 
+Text=Registration of individual images into MNI152 space was performed using SPM12 (Wellcome Trust Centre for Neuroimaging, London, UK).
 32-1	5243-5255	Registration	_
 32-2	5256-5258	of	_
 32-3	5259-5269	individual	_
@@ -934,6 +966,7 @@
 32-22	5376-5377	)	_
 32-23	5378-5379	.	_
 
+Text=A summed [11C] - (+) -PHNO uptake (0–10 min post-injection) image was created from the motion-corrected PET data and rigid-body registered to the subject's MR image.
 33-1	5380-5381	A	_
 33-2	5382-5388	summed	_
 33-3	5389-5390	[	_
@@ -969,6 +1002,7 @@
 33-33	5546-5551	image	_
 33-34	5552-5553	.	_
 
+Text=Nonlinear registration of the MR image to MNI152 space was determined using optimized unified segmentation.
 34-1	5554-5563	Nonlinear	_
 34-2	5564-5576	registration	_
 34-3	5577-5579	of	_
@@ -986,6 +1020,7 @@
 34-15	5648-5660	segmentation	_
 34-16	5661-5662	.	_
 
+Text=The combined rigid-body and nonlinear registrations were applied to the parametric BPND, and smoothed with a 4mm FWHM Gaussian kernel.
 35-1	5663-5666	The	_
 35-2	5667-5675	combined	_
 35-3	5676-5686	rigid-body	_
@@ -1009,9 +1044,11 @@
 35-21	5791-5797	kernel	_
 35-22	5798-5799	.	_
 
+Text=2.4.
 36-1	5800-5803	2.4	_
 36-2	5804-5805	.	_
 
+Text=Analyses of regional [11C] - (+) -PHNO BPND Seven regions of interest (ROIs) were examined: dorsal caudate (DCA), dorsal putamen (DPU), globus pallidus (GP), hypothalamus (HY), substantia nigra (SN), ventral pallidum (VP), and ventral striatum (VS).
 37-1	5806-5814	Analyses	_
 37-2	5815-5817	of	_
 37-3	5818-5826	regional	_
@@ -1077,6 +1114,7 @@
 37-63	6080-6081	)	_
 37-64	6082-6083	.	_
 
+Text=ROIs were defined using previously described guidelines.
 38-1	6084-6088	ROIs	_
 38-2	6089-6093	were	_
 38-3	6094-6101	defined	_
@@ -1086,6 +1124,7 @@
 38-7	6129-6139	guidelines	_
 38-8	6140-6141	.	_
 
+Text=DCA, DPU and VS ROIs were obtained from FSL (Oxford Centre for Functional MRI of the Brain, Oxford, UK).
 39-1	6142-6145	DCA	_
 39-2	6146-6147	,	_
 39-3	6148-6151	DPU	_
@@ -1112,6 +1151,7 @@
 39-24	6249-6250	)	_
 39-25	6251-6252	.	_
 
+Text=GP, HY, and VP ROIs were manually drawn on the ICBM-MNI52 template (Montreal Neurological Institute, Montreal, Canada).
 40-1	6253-6255	GP	_
 40-2	6256-6257	,	_
 40-3	6258-6260	HY	_
@@ -1137,6 +1177,7 @@
 40-23	6376-6377	)	_
 40-24	6378-6379	.	_
 
+Text=The SN ROI was manually defined on a group-average parametric [11C] - (+) -PHNO BPND image from an independent sample.
 41-1	6380-6383	The	_
 41-2	6384-6386	SN	_
 41-3	6387-6390	ROI	_
@@ -1163,6 +1204,7 @@
 41-24	6495-6501	sample	_
 41-25	6502-6503	.	_
 
+Text=Regional [11C] - (+) -PHNO BPND was determined from the individual smoothed parametric BPND images in standard space.
 42-1	6504-6512	Regional	_
 42-2	6513-6514	[	_
 42-3	6515-6518	11C	_
@@ -1187,6 +1229,7 @@
 42-22	6619-6624	space	_
 42-23	6625-6626	.	_
 
+Text=ROI volumes were calculated by inverse transformation of template regions into individual native space.
 43-1	6627-6630	ROI	_
 43-2	6631-6638	volumes	_
 43-3	6639-6643	were	_
@@ -1203,6 +1246,7 @@
 43-14	6724-6729	space	_
 43-15	6730-6731	.	_
 
+Text=A confirmatory whole-brain, between-group analysis was performed on BPND images using a two-sample t-test in SPM12 with a relative threshold mask (0.8; displayed in Figure 1).
 44-1	6732-6733	A	_
 44-2	6734-6746	confirmatory	_
 44-3	6747-6758	whole-brain	_
@@ -1235,6 +1279,7 @@
 44-30	6909-6910	)	_
 44-31	6911-6912	.	_
 
+Text=Due to the relatively low BPND signal (less than 0.5) in the thalamic and amygdala regions included in previous reports, substantial portions of these structures did not survive threshold masking and thus were excluded from ROI analyses.
 45-1	6913-6916	Due	_
 45-2	6917-6919	to	_
 45-3	6920-6923	the	_
@@ -1277,6 +1322,7 @@
 45-40	7144-7152	analyses	_
 45-41	7153-7154	.	_
 
+Text=Group differences were explored at an uncorrected significance level of p <0.005, and cluster extent (k)> 20 contiguous voxels.
 46-1	7155-7160	Group	_
 46-2	7161-7172	differences	_
 46-3	7173-7177	were	_
@@ -1303,9 +1349,11 @@
 46-24	7280-7286	voxels	_
 46-25	7287-7288	.	_
 
+Text=2.5.
 47-1	7289-7292	2.5	_
 47-2	7293-7294	.	_
 
+Text=Independent component analysis (ICA) Exploratory ICA was performed on parametric images of [11C] - (+) -PHNO BPND using the source-based morphometry (SBM) module of the Group ICA of fMRI Toolbox (GIFT v2.0e; http: //mialab.mrn.org/software/gift).
 48-1	7295-7306	Independent	_
 48-2	7307-7316	component	_
 48-3	7317-7325	analysis	_
@@ -1354,6 +1402,7 @@
 48-46	7551-7552	)	_
 48-47	7553-7554	.	_
 
+Text=Using higher order statistics, ICA identifies maximally independent vectors that comprise an unknown linear mixture (A) of mostly non-Gaussian sources (s) that generate a random variable (x).
 49-1	7555-7560	Using	_
 49-2	7561-7567	higher	_
 49-3	7568-7573	order	_
@@ -1390,6 +1439,7 @@
 49-34	7751-7752	)	_
 49-35	7753-7754	.	_
 
+Text=Given x = As, ICA solves for y =Wx, or the estimated un-mixing matrix (W) of approximated source maps (y).
 50-1	7755-7760	Given	_
 50-2	7761-7762	x	_
 50-3	7763-7764	=	_
@@ -1418,6 +1468,7 @@
 50-26	7865-7866	)	_
 50-27	7867-7868	.	_
 
+Text=Parametric images of all 52 participants were entered into the ICA to allow direct comparison of source loadings.
 51-1	7869-7879	Parametric	_
 51-2	7880-7886	images	_
 51-3	7887-7889	of	_
@@ -1438,6 +1489,7 @@
 51-18	7973-7981	loadings	_
 51-19	7982-7983	.	_
 
+Text=The analysis was constrained to data within the relative threshold mask determined in the GLM analysis (described above), and with no prior information as to group membership.
 52-1	7984-7987	The	_
 52-2	7988-7996	analysis	_
 52-3	7997-8000	was	_
@@ -1470,6 +1522,7 @@
 52-30	8151-8161	membership	_
 52-31	8162-8163	.	_
 
+Text=A modified minimum-description-length (MDL) criterion estimated the dimensionality of the dataset to consist of three sources which were extracted from the aggregate dataset using a neural-network algorithm designed to minimize mutual information of source outputs (InfoMax).
 53-1	8164-8165	A	_
 53-2	8166-8174	modified	_
 53-3	8175-8201	minimum-description-length	_
@@ -1512,6 +1565,7 @@
 53-40	8441-8442	)	_
 53-41	8443-8444	.	_
 
+Text=Output from the ICA included the spatial source maps (yM; M =1,2,3) and subject ICA-loading values (Ã; 1M, i; i = 1, …, 52), where Ã denotes the estimate of the unknown mixing matrix A (i.e.
 54-1	8445-8451	Output	_
 54-2	8452-8456	from	_
 54-3	8457-8460	the	_
@@ -1562,6 +1616,7 @@
 54-48	8643-8646	i.e	_
 54-49	8647-8648	.	_
 
+Text=the inverse of ICA-derived un-mixing matrix W).
 55-1	8649-8652	the	_
 55-2	8653-8660	inverse	_
 55-3	8661-8663	of	_
@@ -1572,6 +1627,7 @@
 55-8	8695-8696	)	_
 55-9	8697-8698	.	_
 
+Text=Note that applications of ICA to biomedical images typically employ principal component analysis (PCA) for data reduction prior to ICA; thus, subject ICA-loadings also incorporate the PCA-reduction factor (R) and are more accurately characterized as (R × Ã), but for convenience, we use Ã to represent the final subject ICA-loading parameters.
 56-1	8699-8703	Note	_
 56-2	8704-8708	that	_
 56-3	8709-8721	applications	_
@@ -1635,6 +1691,7 @@
 56-61	9041-9051	parameters	_
 56-62	9052-9053	.	_
 
+Text=The subject ICA-loading values represent the source ‘ intensity ’ or relative strength to which each subject ’ s BPND data contained a given source.
 57-1	9054-9057	The	_
 57-2	9058-9065	subject	_
 57-3	9066-9077	ICA-loading	_
@@ -1662,6 +1719,7 @@
 57-25	9195-9201	source	_
 57-26	9202-9203	.	_
 
+Text=The spatial source maps were ‘ intensity-scaled ’ such that (yM × Ã) reflects the relative contribution of each source to the aggregate BPND signal, where ÃM, iis the average subject intensity for source M, and: where x̃ is the approximate reconstruction of the original data x, and x̄ is the global mean BPND value (1.56) removed prior to ICA extraction.
 58-1	9204-9207	The	_
 58-2	9208-9215	spatial	_
 58-3	9216-9222	source	_
@@ -1734,6 +1792,7 @@
 58-70	9557-9567	extraction	_
 58-71	9568-9569	.	_
 
+Text=For analysis purposes, the source maps were scaled to ICA-estimated BPND (B̃PM) through the product of (yM × ÃM, i).
 59-1	9570-9573	For	_
 59-2	9574-9582	analysis	_
 59-3	9583-9591	purposes	_
@@ -1762,6 +1821,7 @@
 59-26	9690-9691	)	_
 59-27	9692-9693	.	_
 
+Text=For display and anatomical assignment purposes, the scaled source maps were thresholded at B̃PM≥0.5 (with no cluster-extent threshold) based on the relevant range of [11C] - (+) -PHNO BPND of 1.5–4.
 60-1	9694-9697	For	_
 60-2	9698-9705	display	_
 60-3	9706-9709	and	_
@@ -1802,6 +1862,7 @@
 60-38	9893-9898	1.5–4	_
 60-39	9899-9900	.	_
 
+Text=To examine source compositions relative to regional estimates of D2R/D3R availability, intensity-scaled source maps were generated for all subjects, and regional B̃PM values were extracted from the seven ROIs and compared the D2R-related and D3R-related proportions of BPND calculated using reported regional fractions of [11C] - (+) -PHNO BPND.
 61-1	9901-9903	To	_
 61-2	9904-9911	examine	_
 61-3	9912-9918	source	_
@@ -1859,6 +1920,7 @@
 61-55	10247-10251	BPND	_
 61-56	10252-10253	.	_
 
+Text=That is, regional BPND values obtained in the ROI-based analysis (see Section 2.4. and Figure 1) were multiplied by average D2R-and D3R-related fractions reported in (Supplementary Table 1) to obtain regional estimates of local D2R/D3R BPND (i.e.,).
 62-1	10254-10258	That	_
 62-2	10259-10261	is	_
 62-3	10262-10263	,	_
@@ -1906,6 +1968,7 @@
 62-45	10509-10510	)	_
 62-46	10511-10512	.	_
 
+Text=Average regional B̃PM for each source were then examined in relation to the calculated estimates of and using Pearson correlations to assess potential association with D2R-related and D3R-related BPND proportions.
 63-1	10513-10520	Average	_
 63-2	10521-10529	regional	_
 63-3	10530-10534	B̃PM	_
@@ -1938,9 +2001,11 @@
 63-30	10714-10725	proportions	_
 63-31	10726-10727	.	_
 
+Text=2.6.
 64-1	10728-10731	2.6	_
 64-2	10732-10733	.	_
 
+Text=Statistical procedures Group differences in ROI BPND values and ICA source intensities were assessed with two separate multivariate analyses of variance (i.e., group × ROI and group × source) and post-hoc univariate analyses.
 65-1	10734-10745	Statistical	_
 65-2	10746-10756	procedures	_
 65-3	10757-10762	Group	_
@@ -1979,6 +2044,7 @@
 65-36	10953-10961	analyses	_
 65-37	10962-10963	.	_
 
+Text=Due to non-tracer conditions of [11C] - (+) -PHNO for D3Rs at the administered dose, multivariate analyses including the estimated free concentration of [11C] - (+) -PHNO (based on the average mass concentration in the cerebellum from 90–120 mins, multiplied by the specific activity) as a covariate were performed and revealed no significant mass dose effect on results (p ’ s> 0.4).
 66-1	10964-10967	Due	_
 66-2	10968-10970	to	_
 66-3	10971-10981	non-tracer	_
@@ -2058,6 +2124,7 @@
 66-77	11361-11362	)	_
 66-78	11363-11364	.	_
 
+Text=Given reported associations between [11C] - (+) -PHNO BPND and age and body-mass, all between-group multivariate and univariate analyses were repeated adjusting for age and body-mass.
 67-1	11365-11370	Given	_
 67-2	11371-11379	reported	_
 67-3	11380-11392	associations	_
@@ -2091,6 +2158,7 @@
 67-31	11543-11552	body-mass	_
 67-32	11553-11554	.	_
 
+Text=Additional analyses were performed to examine potential influences of alcohol use across all participants and cigarette smoking within CUD participants.
 68-1	11555-11565	Additional	_
 68-2	11566-11574	analyses	_
 68-3	11575-11579	were	_
@@ -2113,6 +2181,7 @@
 68-20	11694-11706	participants	_
 68-21	11707-11708	.	_
 
+Text=Exploratory correlational analyses were performed to examine relationships between regional and source-based binding measures with years of cocaine use.
 69-1	11709-11720	Exploratory	_
 69-2	11721-11734	correlational	_
 69-3	11735-11743	analyses	_

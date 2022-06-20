@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Aberrant Middle Prefrontal-Motor Cortex Connectivity Mediates Motor Inhibitory Biomarker in Schizophrenia Background: The inhibitory deficits in the motor cortex in schizophrenia have been well demonstrated using short-interval intracortical inhibition (SICI) by transcranial magnetic stimulation (TMS).
 1-1	0-8	Aberrant	_
 1-2	9-15	Middle	_
 1-3	16-32	Prefrontal-Motor	_
@@ -44,6 +45,7 @@
 1-40	306-307	)	_
 1-41	308-309	.	_
 
+Text=However, it remains unknown whether these deficits originate from dysfunction of motor cortex itself or reflect abnormal modulations of the motor cortex by other schizophrenia-related brain areas.
 2-1	310-317	However	_
 2-2	318-319	,	_
 2-3	320-322	it	_
@@ -74,6 +76,7 @@
 2-28	501-506	areas	_
 2-29	507-508	.	_
 
+Text=Methods: Twenty-four patients with schizophrenia spectrum disorders and 30 healthy controls completed the study.
 3-1	509-516	Methods	_
 3-2	517-518	:	_
 3-3	519-530	Twenty-four	_
@@ -91,6 +94,7 @@
 3-15	616-621	study	_
 3-16	622-623	.	_
 
+Text=SICI was obtained by delivering TMS over the left motor cortex.
 4-1	624-628	SICI	_
 4-2	629-632	was	_
 4-3	633-641	obtained	_
@@ -104,6 +108,7 @@
 4-11	680-686	cortex	_
 4-12	687-688	.	_
 
+Text=Resting-state functional magnetic resonance imaging and diffusion tensor imaging fractional anisotropy were used to measure functional connectivity (FC) and white matter microstructures, respectively.
 5-1	689-702	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 5-2	703-713	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 5-3	714-722	magnetic	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -132,6 +137,7 @@
 5-26	879-891	respectively	_
 5-27	892-893	.	_
 
+Text=Stimulation sites for SICI at the motor cortex were used as the seeds to obtain the whole-brain FC maps.
 6-1	894-905	Stimulation	_
 6-2	906-911	sites	_
 6-3	912-915	for	_
@@ -153,6 +159,7 @@
 6-19	993-997	maps	_
 6-20	998-999	.	_
 
+Text=The clinical symptoms were assessed with Brief Psychiatric Rating Scale (BPRS).
 7-1	1000-1003	The	_
 7-2	1004-1012	clinical	_
 7-3	1013-1021	symptoms	_
@@ -168,6 +175,7 @@
 7-13	1079-1080	)	http://maven.renci.org/NeuroBridge/neurobridge#BriefPsychiatricRatingScale
 7-14	1081-1082	.	_
 
+Text=Results: In schizophrenia, left prefrontal cortex (PFC) – motor cortex FC was inversely associated with SICI but positively associated with the underlying white matter microstructure at the left corona radiata (CR), and also associated with overall symptoms (all corrected p <0.05).
 8-1	1083-1090	Results	_
 8-2	1091-1092	:	_
 8-3	1093-1095	In	_
@@ -221,6 +229,7 @@
 8-51	1373-1374	)	_
 8-52	1375-1376	.	_
 
+Text=Mediation analysis showed that the PFC-motor cortex FC significantly mediates the corona radiata white matter effects on SICI (p=0.007).
 9-1	1377-1386	Mediation	_
 9-2	1387-1395	analysis	_
 9-3	1396-1402	showed	_
@@ -244,6 +253,7 @@
 9-21	1513-1514	)	_
 9-22	1515-1516	.	_
 
+Text=Conclusions: Higher resting-state left PFC-motor cortex functional connectivity, accompanied by a higher FA of left corona radiata, predicts less inhibitory deficits, suggesting the inhibitory deficits in the motor cortex in schizophrenia may in part be mediated by a top-down prefrontal influence.
 10-1	1517-1528	Conclusions	_
 10-2	1529-1530	:	_
 10-3	1531-1537	Higher	_
@@ -291,6 +301,7 @@
 10-45	1809-1818	influence	_
 10-46	1819-1820	.	_
 
+Text=SICI may serve as a robust biomarker indexing inhibitory dysfunction at anatomic as well as circuitry levels in schizophrenia.
 11-1	1821-1825	SICI	_
 11-2	1826-1829	may	_
 11-3	1830-1835	serve	_
@@ -312,6 +323,7 @@
 11-19	1933-1946	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-20	1947-1948	.	_
 
+Text=Materials and methods Participants Patients with schizophrenia spectrum disorders (n=24) and healthy controls (n=30) participated in the study (Table 1).
 12-1	1949-1958	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	1959-1962	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	1963-1970	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -340,6 +352,7 @@
 12-26	2106-2107	)	_
 12-27	2108-2109	.	_
 
+Text=Patients were recruited from Maryland Psychiatric Research Center and neighboring mental health clinics in the Baltimore area.
 13-1	2110-2118	Patients	_
 13-2	2119-2123	were	_
 13-3	2124-2133	recruited	_
@@ -359,6 +372,7 @@
 13-17	2231-2235	area	_
 13-18	2236-2237	.	_
 
+Text=Controls were recruited from local media advertisement.
 14-1	2238-2246	Controls	_
 14-2	2247-2251	were	_
 14-3	2252-2261	recruited	_
@@ -368,6 +382,7 @@
 14-7	2279-2292	advertisement	_
 14-8	2293-2294	.	_
 
+Text=The Structured Clinical Interview for DSM-IV was used to confirm the diagnoses of schizophrenia or schizoaffective disorder in patients and the absence of current DSM-IV Axis I diagnoses in controls.
 15-1	2295-2298	The	_
 15-2	2299-2309	Structured	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 15-3	2310-2318	Clinical	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
@@ -400,6 +415,7 @@
 15-30	2485-2493	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 15-31	2494-2495	.	_
 
+Text=Exclusion criteria were major medical and neurological illnesses, history of head injury with loss of consciousness, substance abuse (except nicotine) and taking clozapine more than 400mg/day.
 16-1	2496-2505	Exclusion	_
 16-2	2506-2514	criteria	_
 16-3	2515-2519	were	_
@@ -432,6 +448,7 @@
 16-30	2682-2691	400mg/day	_
 16-31	2692-2693	.	_
 
+Text=Four schizophrenia patients were not on antipsychotic medications, 19 were on atypical, and 2 were on typical including 1 on both atypical and typical medications (Table 1).
 17-1	2694-2698	Four	_
 17-2	2699-2712	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 17-3	2713-2721	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -465,6 +482,7 @@
 17-31	2869-2870	)	_
 17-32	2871-2872	.	_
 
+Text=No patients took benzodiazepines at the time of scanning.
 18-1	2873-2875	No	_
 18-2	2876-2884	patients	_
 18-3	2885-2889	took	_
@@ -476,6 +494,7 @@
 18-9	2921-2929	scanning	_
 18-10	2930-2931	.	_
 
+Text=Brief Psychiatric Rating Scale (BPRS) was administered to patients for assessing their overall clinical symptoms (BPRS total score).
 19-1	2932-2937	Brief	_
 19-2	2938-2949	Psychiatric	http://maven.renci.org/NeuroBridge/neurobridge#BriefPsychiatricRatingScale
 19-3	2950-2956	Rating	http://maven.renci.org/NeuroBridge/neurobridge#BriefPsychiatricRatingScale
@@ -500,6 +519,7 @@
 19-22	3066-3067	)	_
 19-23	3068-3069	.	_
 
+Text=Motor retardation was represented by item 13 in BPRS.
 20-1	3070-3075	Motor	_
 20-2	3076-3087	retardation	_
 20-3	3088-3091	was	_
@@ -511,6 +531,7 @@
 20-9	3118-3122	BPRS	http://maven.renci.org/NeuroBridge/neurobridge#BriefPsychiatricRatingScale
 20-10	3123-3124	.	_
 
+Text=All raters were master level clinicians and received training by a standing committee and must achieve intraclass correlation 0.9 or above with the gold standard.
 21-1	3125-3128	All	_
 21-2	3129-3135	raters	_
 21-3	3136-3140	were	_
@@ -538,6 +559,7 @@
 21-25	3278-3286	standard	_
 21-26	3287-3288	.	_
 
+Text=All subjects gave their written informed consent approved by local Institutional Review Board.
 22-1	3289-3292	All	_
 22-2	3293-3301	subjects	_
 22-3	3302-3306	gave	_
@@ -553,6 +575,7 @@
 22-13	3377-3382	Board	_
 22-14	3383-3384	.	_
 
+Text=TMS and electromyography procedure A figure-of-eight coil with Magstim stimulators (Whitland, UK) was utilized to deliver the stimulations.
 23-1	3385-3388	TMS	http://maven.renci.org/NeuroBridge/neurobridge#PhysicalMeasurement
 23-2	3389-3392	and	http://maven.renci.org/NeuroBridge/neurobridge#PhysicalMeasurement
 23-3	3393-3409	electromyography	http://maven.renci.org/NeuroBridge/neurobridge#ElectroecephalographyProcedure
@@ -576,6 +599,7 @@
 23-21	3514-3526	stimulations	_
 23-22	3527-3528	.	_
 
+Text=Subject ’ s structural images were used for precise positioning of the coil through Brainsight™ (Montreal, Canada).
 24-1	3529-3536	Subject	_
 24-2	3537-3538	’	_
 24-3	3539-3540	s	_
@@ -598,6 +622,7 @@
 24-20	3645-3646	)	_
 24-21	3647-3648	.	_
 
+Text=The stimulus target was left motor cortex (M1) where TMS induced the maximum response from right first dorsal interosseous muscle.
 25-1	3649-3652	The	_
 25-2	3653-3661	stimulus	_
 25-3	3662-3668	target	_
@@ -622,6 +647,7 @@
 25-22	3774-3780	muscle	_
 25-23	3781-3782	.	_
 
+Text=Peak-to-peak amplitude of the motor-evoked potentials (MEP) was measured.
 26-1	3783-3795	Peak-to-peak	_
 26-2	3796-3805	amplitude	_
 26-3	3806-3808	of	_
@@ -635,6 +661,7 @@
 26-11	3849-3857	measured	_
 26-12	3858-3859	.	_
 
+Text=Resting motor threshold (RMT) was defined as the minimum intensity needed to elicit a MEP of> 50μV in at least 5 out of 10 consecutive stimuli.
 27-1	3860-3867	Resting	_
 27-2	3868-3873	motor	_
 27-3	3874-3883	threshold	_
@@ -666,6 +693,7 @@
 27-29	3998-4005	stimuli	_
 27-30	4006-4007	.	_
 
+Text=Paired-pulse TMS (ppTMS) with 1 and 3 ms ISIs were used to induce short-interval intracortical inhibition (SICI).
 28-1	4008-4020	Paired-pulse	_
 28-2	4021-4024	TMS	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 28-3	4025-4026	(	_
@@ -689,6 +717,7 @@
 28-21	4123-4124	)	_
 28-22	4125-4126	.	_
 
+Text=For each SICI trial, a subthreshold conditioning stimulus (80% RMT) was followed by a suprathreshold stimulation (120% RMT).
 29-1	4127-4130	For	_
 29-2	4131-4135	each	_
 29-3	4136-4140	SICI	_
@@ -716,6 +745,7 @@
 29-25	4256-4257	)	_
 29-26	4258-4259	.	_
 
+Text=Single pulse at 120% RMT was the test stimulation (TS) that serves as a control.
 30-1	4260-4266	Single	_
 30-2	4267-4272	pulse	_
 30-3	4273-4275	at	_
@@ -736,6 +766,7 @@
 30-18	4335-4342	control	_
 30-19	4343-4344	.	_
 
+Text=SICI was defined as the ratio between responses of ppTMS and TS alone.
 31-1	4345-4349	SICI	_
 31-2	4350-4353	was	_
 31-3	4354-4361	defined	_
@@ -751,6 +782,7 @@
 31-13	4409-4414	alone	_
 31-14	4415-4416	.	_
 
+Text=Ratios less than 1 indicate inhibition and the smaller the ratio, the stronger the cortical inhibition.
 32-1	4417-4423	Ratios	_
 32-2	4424-4428	less	_
 32-3	4429-4433	than	_
@@ -770,6 +802,7 @@
 32-17	4510-4520	inhibition	_
 32-18	4521-4522	.	_
 
+Text=There were 24 trials for SICI and 24 trials for TS.
 33-1	4523-4528	There	_
 33-2	4529-4533	were	_
 33-3	4534-4536	24	_
@@ -783,6 +816,7 @@
 33-11	4571-4573	TS	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 33-12	4574-4575	.	_
 
+Text=Previous research demonstrated that SICI, but usually not RMT or MEP of TS alone, can robustly separate schizophrenia patients from healthy controls, supporting that the SICI deficit was likely inhibitory rather than deficit in motor responses.
 34-1	4576-4584	Previous	_
 34-2	4585-4593	research	_
 34-3	4594-4606	demonstrated	_
@@ -824,6 +858,7 @@
 34-39	4813-4822	responses	_
 34-40	4823-4824	.	_
 
+Text=Imaging data acquisition Before the SICI session, we assessed structural, resting-state fMRI and diffusion tensor imaging (DTI) in a separate session.
 35-1	4825-4832	Imaging	_
 35-2	4833-4837	data	_
 35-3	4838-4849	acquisition	_
@@ -851,6 +886,7 @@
 35-25	4971-4978	session	_
 35-26	4979-4980	.	_
 
+Text=All imaging was performed using a Siemens 3T TRIO MRI system (Erlangen, Germany) equipped with a 32-channel head coil.
 36-1	4981-4984	All	_
 36-2	4985-4992	imaging	_
 36-3	4993-4996	was	_
@@ -875,6 +911,7 @@
 36-22	5097-5101	coil	_
 36-23	5102-5103	.	_
 
+Text=Structural images were acquired using a fast spoiled gradient-recalled sequence (TR/TE=11.08/4.3ms, flip angle=45°, FOV=256mm, 256×256 matrix, 172 slices, 1mm3 spatial resolution).
 37-1	5104-5114	Structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 37-2	5115-5121	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 37-3	5122-5126	were	_
@@ -905,6 +942,7 @@
 37-28	5289-5290	)	_
 37-29	5291-5292	.	_
 
+Text=Resting-state functional T2 * -weighted images were obtained using a single-shot gradient-recalled, echo-planar pulse sequence (TR/TE =2s/27ms; flip angle=90°; FOV=220mm; 64×64 matrix; 1.7mm2 in-plane resolution; 4mm slice thickness; 37 axial slices, 15 minutes scan for 450 volumes).
 38-1	5293-5306	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 38-2	5307-5317	functional	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 38-3	5318-5320	T2	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -954,6 +992,7 @@
 38-47	5585-5586	)	_
 38-48	5587-5588	.	_
 
+Text=Participants were asked to keep their eyes closed, relax and not to think about anything in particular.
 39-1	5589-5601	Participants	_
 39-2	5602-5606	were	_
 39-3	5607-5612	asked	_
@@ -974,6 +1013,7 @@
 39-18	5682-5692	particular	_
 39-19	5693-5694	.	_
 
+Text=Post-scan questions confirmed that participants did not fall asleep during the scan.
 40-1	5695-5704	Post-scan	_
 40-2	5705-5714	questions	_
 40-3	5715-5724	confirmed	_
@@ -988,6 +1028,7 @@
 40-12	5774-5778	scan	_
 40-13	5779-5780	.	_
 
+Text=DTI data were collected using a single-shot, echo-planar, single refocusing spin-echo, T2-weighted sequence at 1.7×1.7×3.0mm, TE/TR=87/8000ms, FOV=200mm, 50 slices and no gaps, five b=0 images and 64 isotropically distributed diffusion weighted directions with b=700s/mm2.
 41-1	5781-5784	DTI	http://maven.renci.org/NeuroBridge/neurobridge#DifffusionTensorImaging
 41-2	5785-5789	data	_
 41-3	5790-5794	were	_
@@ -1031,6 +1072,7 @@
 41-41	6049-6059	b=700s/mm2	_
 41-42	6060-6061	.	_
 
+Text=Imaging data preprocessing Standard resting-state functional MRI data processing was carried out using Analysis of Functional NeuroImages (AFNI) software (Version 16.3.17).
 42-1	6062-6069	Imaging	_
 42-2	6070-6074	data	_
 42-3	6075-6088	preprocessing	_
@@ -1058,6 +1100,7 @@
 42-25	6236-6237	)	_
 42-26	6238-6239	.	_
 
+Text=After discarding the first two TRs, the preprocessed data were spatially smoothed to a full width at half maximum of 4mm.
 43-1	6240-6245	After	_
 43-2	6246-6256	discarding	_
 43-3	6257-6260	the	_
@@ -1082,6 +1125,7 @@
 43-22	6358-6361	4mm	_
 43-23	6362-6363	.	_
 
+Text=The linear trend, 6 motion parameters (3 rotational and 3 translational directions), their 6 temporal derivatives (rate of change in rotational and translational motion) and time courses from the white matter and cerebral spinal fluid (CSF) were removed as regressors of no interest.
 44-1	6364-6367	The	_
 44-2	6368-6374	linear	_
 44-3	6375-6380	trend	_
@@ -1135,6 +1179,7 @@
 44-51	6646-6654	interest	_
 44-52	6655-6656	.	_
 
+Text=Time points with excessive motion (> 0.2mm) and their neighboring time points were censored from statistical analysis (details in Supplementary material).
 45-1	6657-6661	Time	_
 45-2	6662-6668	points	_
 45-3	6669-6673	with	_
@@ -1162,6 +1207,7 @@
 45-25	6813-6814	)	_
 45-26	6815-6816	.	_
 
+Text=Finally, for group analysis, images were spatially normalized to the Talairach space.
 46-1	6817-6824	Finally	_
 46-2	6825-6826	,	_
 46-3	6827-6830	for	_
@@ -1178,6 +1224,7 @@
 46-14	6898-6903	space	_
 46-15	6904-6905	.	_
 
+Text=Individual statistical maps were then calculated using a seed-based correlation analysis to infer the functional connectivity of the seed with the rest of the brain.
 47-1	6906-6916	Individual	_
 47-2	6917-6928	statistical	_
 47-3	6929-6933	maps	_
@@ -1205,6 +1252,7 @@
 47-25	7065-7070	brain	_
 47-26	7071-7072	.	_
 
+Text=The seed region of interest (ROI) was left M1 defined based on TMS site of SICI for each subject.
 48-1	7073-7076	The	_
 48-2	7077-7081	seed	_
 48-3	7082-7088	region	_
@@ -1228,6 +1276,7 @@
 48-21	7164-7171	subject	_
 48-22	7172-7173	.	_
 
+Text=A 10mm radius sphere was placed on each subject ’ s structural images with individual SICI site as the center (Figure 3A).
 49-1	7174-7175	A	_
 49-2	7176-7180	10mm	_
 49-3	7181-7187	radius	_
@@ -1254,6 +1303,7 @@
 49-24	7296-7297	)	_
 49-25	7298-7299	.	_
 
+Text=White matter and CSF were removed from the seed ROI using the masks obtained from FreeSurfer.
 50-1	7300-7305	White	_
 50-2	7306-7312	matter	_
 50-3	7313-7316	and	_
@@ -1272,6 +1322,7 @@
 50-16	7382-7392	FreeSurfer	_
 50-17	7393-7394	.	_
 
+Text=Then, the mean time-series within seed ROI was correlated with the time course of each voxel in the brain for each subject.
 51-1	7395-7399	Then	_
 51-2	7400-7401	,	_
 51-3	7402-7405	the	_
@@ -1297,6 +1348,7 @@
 51-23	7511-7518	subject	_
 51-24	7519-7520	.	_
 
+Text=Pearson ’ s correlation coefficients were converted to z values using Fisher ’ s r-to-z transform.
 52-1	7521-7528	Pearson	_
 52-2	7529-7530	’	_
 52-3	7531-7532	s	_
@@ -1315,6 +1367,7 @@
 52-16	7609-7618	transform	_
 52-17	7619-7620	.	_
 
+Text=The details of DTI data preprocessing were described in Supplementary Material and our previous studies.
 53-1	7621-7624	The	_
 53-2	7625-7632	details	_
 53-3	7633-7635	of	_
@@ -1332,6 +1385,7 @@
 53-15	7717-7724	studies	_
 53-16	7725-7726	.	_
 
+Text=Based on a tract-based spatial statistics method, fractional anisotropy (FA) images were obtained, spatially normalized to the JHU atlas which separated white matter into different tracts.
 54-1	7727-7732	Based	_
 54-2	7733-7735	on	_
 54-3	7736-7737	a	_
@@ -1364,6 +1418,7 @@
 54-30	7912-7918	tracts	_
 54-31	7919-7920	.	_
 
+Text=The white matter directly under the left motor cortex and connecting motor cortex to the frontal area is the left corona radiata (CR).
 55-1	7921-7924	The	_
 55-2	7925-7930	white	_
 55-3	7931-7937	matter	_
@@ -1391,6 +1446,7 @@
 55-25	8055-8056	)	_
 55-26	8057-8058	.	_
 
+Text=In our previous research, by exploring SICI-related white matter tracts (25 tracts), we found left CR was also the only tract whose association with SICI in schizophrenia survived Bonferroni correction.
 56-1	8059-8061	In	_
 56-2	8062-8065	our	_
 56-3	8066-8074	previous	_
@@ -1427,6 +1483,7 @@
 56-34	8254-8264	correction	_
 56-35	8265-8266	.	_
 
+Text=Therefore, we included only left CR in the study (Figure 3A).
 57-1	8267-8276	Therefore	_
 57-2	8277-8278	,	_
 57-3	8279-8281	we	_
@@ -1443,6 +1500,7 @@
 57-14	8329-8330	)	_
 57-15	8331-8332	.	_
 
+Text=Some of the SICI and DTI data were reported in our previous work.
 58-1	8333-8337	Some	_
 58-2	8338-8340	of	_
 58-3	8341-8344	the	_
@@ -1458,6 +1516,7 @@
 58-13	8393-8397	work	_
 58-14	8398-8399	.	_
 
+Text=None of the resting-state fMRI data were previously reported.
 59-1	8400-8404	None	_
 59-2	8405-8407	of	_
 59-3	8408-8411	the	_
@@ -1469,6 +1528,7 @@
 59-9	8452-8460	reported	_
 59-10	8461-8462	.	_
 
+Text=Statistical analysis The demographic data were compared using independent-sample t tests for continuous values and Chi-squared test for categorical values.
 60-1	8463-8474	Statistical	_
 60-2	8475-8483	analysis	_
 60-3	8484-8487	The	_
@@ -1491,6 +1551,7 @@
 60-20	8611-8617	values	_
 60-21	8618-8619	.	_
 
+Text=Although many demographic characters did not significantly differ between groups, their potential effects on the results were evaluated.
 61-1	8620-8628	Although	_
 61-2	8629-8633	many	_
 61-3	8634-8645	demographic	_
@@ -1512,6 +1573,7 @@
 61-19	8747-8756	evaluated	_
 61-20	8757-8758	.	_
 
+Text=Group-level brain-behavioral correlations were evaluated using Pearson ’ s correlation with age as a covariate.
 62-1	8759-8770	Group-level	_
 62-2	8771-8787	brain-behavioral	_
 62-3	8788-8800	correlations	_
@@ -1529,6 +1591,7 @@
 62-15	8860-8869	covariate	_
 62-16	8870-8871	.	_
 
+Text=Results were also evaluated by adding gender, education level, and chlorpromazine equivalent dose (CPZ) as extra covariates; only significant findings would be reported.
 63-1	8872-8879	Results	_
 63-2	8880-8884	were	_
 63-3	8885-8889	also	_
@@ -1559,6 +1622,7 @@
 63-28	9037-9045	reported	_
 63-29	9046-9047	.	_
 
+Text=The primary analysis was to test whether there are M1-seeded rsFC associated with both motor inhibition (i.e., SICI) and overall symptoms of schizophrenia (i.e., BPRS total score).
 64-1	9048-9051	The	_
 64-2	9052-9059	primary	_
 64-3	9060-9068	analysis	_
@@ -1594,6 +1658,7 @@
 64-33	9232-9233	)	_
 64-34	9234-9235	.	_
 
+Text=Brain-SICI correlation maps were calculated by correlating behavioral variables with z values in rsFC maps.
 65-1	9236-9246	Brain-SICI	_
 65-2	9247-9258	correlation	_
 65-3	9259-9263	maps	_
@@ -1611,6 +1676,7 @@
 65-15	9338-9342	maps	_
 65-16	9343-9344	.	_
 
+Text=We first identified regions showing significant M1 rsFC related to SICI in patients and controls separately, and schizophrenia symptoms in patients.
 66-1	9345-9347	We	_
 66-2	9348-9353	first	_
 66-3	9354-9364	identified	_
@@ -1635,6 +1701,7 @@
 66-22	9485-9493	patients	_
 66-23	9494-9495	.	_
 
+Text=The significant clusters were determined by estimating the cluster-size threshold (cluster size> 202 voxels) using the updated 3dClustSim with the Spatial AutoCorrelation Function to obtain corrected p <0.017 (0.05/3; Bonferroni correction for 3 comparisons).
 67-1	9496-9499	The	_
 67-2	9500-9511	significant	_
 67-3	9512-9520	clusters	_
@@ -1678,6 +1745,7 @@
 67-41	9760-9761	)	_
 67-42	9762-9763	.	_
 
+Text=We further used leave-one-out cross-validation (LOOCV) to evaluate the validities of clusters identified above (details in Supplementary material).
 68-1	9764-9766	We	_
 68-2	9767-9774	further	_
 68-3	9775-9779	used	_
@@ -1702,6 +1770,7 @@
 68-22	9913-9914	)	_
 68-23	9915-9916	.	_
 
+Text=Clusters with validity of 80% or higher were considered as valid clusters.
 69-1	9917-9925	Clusters	_
 69-2	9926-9930	with	_
 69-3	9931-9939	validity	_
@@ -1717,6 +1786,7 @@
 69-13	9983-9991	clusters	_
 69-14	9992-9993	.	_
 
+Text=The same procedures were repeated for BPRS score.
 70-1	9994-9997	The	_
 70-2	9998-10002	same	_
 70-3	10003-10013	procedures	_
@@ -1727,6 +1797,7 @@
 70-8	10037-10042	score	_
 70-9	10043-10044	.	_
 
+Text=The overlapping region (s) of significant rsFC-SICI clusters and significant rsFC-BPRS clusters was extracted to represent M1 rsFC that were significantly related to both SICI and clinical symptoms of schizophrenia.
 71-1	10045-10048	The	_
 71-2	10049-10060	overlapping	_
 71-3	10061-10067	region	_
@@ -1761,6 +1832,7 @@
 71-32	10248-10261	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 71-33	10262-10263	.	_
 
+Text=The relationship between these clusters and motor retardation was examined to confirm their role in motor abnormality.
 72-1	10264-10267	The	_
 72-2	10268-10280	relationship	_
 72-3	10281-10288	between	_
@@ -1780,6 +1852,7 @@
 72-17	10370-10381	abnormality	_
 72-18	10382-10383	.	_
 
+Text=The group-difference of rsFC was also assessed.
 73-1	10384-10387	The	_
 73-2	10388-10404	group-difference	_
 73-3	10405-10407	of	_
@@ -1789,6 +1862,7 @@
 73-7	10422-10430	assessed	_
 73-8	10431-10432	.	_
 
+Text=The rsFC from those clusters was then used to examine for their mediation relationship with FA of left CR with age as a covariate using PROCESS in SPSS 23.0.
 74-1	10433-10436	The	_
 74-2	10437-10441	rsFC	_
 74-3	10442-10446	from	_

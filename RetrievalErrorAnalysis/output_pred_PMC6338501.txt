@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Targeting Reduced Neural Oscillations in Patients with Schizophrenia by Transcranial Alternating Current Stimulation Transcranial alternating current stimulation (tACS) modulates endogenous neural oscillations in healthy human participants by the application of a low-amplitude electrical current with a periodic stimulation waveform.
 1-1	0-9	Targeting	_
 1-2	10-17	Reduced	_
 1-3	18-24	Neural	_
@@ -45,6 +46,7 @@
 1-41	327-335	waveform	_
 1-42	336-337	.	_
 
+Text=Yet, it is unclear if tACS can modulate and restore neural oscillations that are reduced in patients with psychiatric illnesses such as schizophrenia.
 2-1	338-341	Yet	_
 2-2	342-343	,	_
 2-3	344-346	it	_
@@ -71,6 +73,7 @@
 2-24	475-488	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-25	489-490	.	_
 
+Text=Here, we asked if tACS modulates network oscillations in schizophrenia.
 3-1	491-495	Here	_
 3-2	496-497	,	_
 3-3	498-500	we	_
@@ -84,6 +87,7 @@
 3-11	549-562	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 3-12	563-564	.	_
 
+Text=We performed a randomized, double-blind, sham-controlled clinical trial to contrast tACS with transcranial direct current stimulation (tDCS) and sham stimulation in 22 schizophrenia patients with auditory hallucinations.
 4-1	565-567	We	_
 4-2	568-577	performed	_
 4-3	578-579	a	_
@@ -117,6 +121,7 @@
 4-31	774-788	hallucinations	_
 4-32	789-790	.	_
 
+Text=We used high-density electroencephalography to investigate if a five-day, twice-daily 10HztACS protocol enhances alpha oscillations and modulates network dynamics that are reduced in schizophrenia.
 5-1	791-793	We	_
 5-2	794-798	used	_
 5-3	799-811	high-density	_
@@ -144,6 +149,7 @@
 5-25	975-988	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 5-26	989-990	.	_
 
+Text=We found that 10Hz-tACS enhanced alpha oscillations and modulated functional connectivity in the alpha frequency band.
 6-1	991-993	We	_
 6-2	994-999	found	_
 6-3	1000-1004	that	_
@@ -162,6 +168,7 @@
 6-16	1104-1108	band	_
 6-17	1109-1110	.	_
 
+Text=In addition, 10Hz-tACS enhanced the 40Hz auditory steady-state response (ASSR), which is reduced in patients with schizophrenia.
 7-1	1111-1113	In	_
 7-2	1114-1122	addition	_
 7-3	1123-1124	,	_
@@ -185,6 +192,7 @@
 7-21	1229-1242	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-22	1243-1244	.	_
 
+Text=Importantly, clinical improvement of auditory hallucinations correlated with enhancement of alpha oscillations and the 40Hz-ASSR.
 8-1	1245-1256	Importantly	_
 8-2	1257-1258	,	_
 8-3	1259-1267	clinical	_
@@ -203,6 +211,7 @@
 8-16	1365-1374	40Hz-ASSR	_
 8-17	1375-1376	.	_
 
+Text=Together, our findings suggest that tACS has potential as a network-level approach to modulate reduced neural oscillations related to clinical symptoms in patients with schizophrenia.
 9-1	1377-1385	Together	_
 9-2	1386-1387	,	_
 9-3	1388-1391	our	_
@@ -231,6 +240,7 @@
 9-26	1547-1560	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-27	1561-1562	.	_
 
+Text=Methods Participants This study was performed at the University of North Carolina at Chapel Hill (UNC-CH) (ClinicalTrials.gov, NCT02360228) and was approved by the Biomedical Institutional Review Board of UNC-CH.
 10-1	1563-1570	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 10-2	1571-1583	Participants	_
 10-3	1584-1588	This	_
@@ -267,6 +277,7 @@
 10-34	1773-1779	UNC-CH	_
 10-35	1780-1781	.	_
 
+Text=Participants were recruited from local clinics and academic medical centers.
 11-1	1782-1794	Participants	_
 11-2	1795-1799	were	_
 11-3	1800-1809	recruited	_
@@ -279,6 +290,7 @@
 11-10	1850-1857	centers	_
 11-11	1858-1859	.	_
 
+Text=All participants met DSM-IV criteria for schizophrenia or schizoaffective disorder.
 12-1	1860-1863	All	_
 12-2	1864-1876	participants	_
 12-3	1877-1880	met	_
@@ -291,6 +303,7 @@
 12-10	1934-1942	disorder	http://maven.renci.org/NeuroBridge/neurobridge#BipolarTypeSchizoaffectiveDisorder
 12-11	1943-1944	.	_
 
+Text=Participants with at least three auditory hallucinations per week and clinically stability as demonstrated by no hospitalizations for the past 3 months.
 13-1	1945-1957	Participants	_
 13-2	1958-1962	with	_
 13-3	1963-1965	at	_
@@ -315,6 +328,7 @@
 13-22	2090-2096	months	_
 13-23	2097-2098	.	_
 
+Text=Antipsychotic medications were documented at the initial and final sessions to ensure stable medication during participation (Table S1).
 14-1	2099-2112	Antipsychotic	_
 14-2	2113-2124	medications	_
 14-3	2125-2129	were	_
@@ -337,6 +351,7 @@
 14-20	2235-2236	)	_
 14-21	2237-2238	.	_
 
+Text=Brief demographics and clinical assessments are tabulated (Table S2).
 15-1	2239-2244	Brief	_
 15-2	2245-2257	demographics	_
 15-3	2258-2261	and	_
@@ -350,6 +365,7 @@
 15-11	2308-2309	)	_
 15-12	2310-2311	.	_
 
+Text=Detailed information including inclusion/exclusion criteria and clinical analyses are described in a separate paper.
 16-1	2312-2320	Detailed	_
 16-2	2321-2332	information	_
 16-3	2333-2342	including	_
@@ -366,6 +382,7 @@
 16-14	2422-2427	paper	_
 16-15	2428-2429	.	_
 
+Text=Data from 22 participants were analyzed.
 17-1	2430-2434	Data	_
 17-2	2435-2439	from	_
 17-3	2440-2442	22	_
@@ -374,6 +391,7 @@
 17-6	2461-2469	analyzed	_
 17-7	2470-2471	.	_
 
+Text=Study design This study was a randomized, double-blind, and sham-controlled clinical trial, with three stimulation conditions (10Hz-tACS, tDCS, and sham).
 18-1	2472-2477	Study	_
 18-2	2478-2484	design	_
 18-3	2485-2489	This	_
@@ -403,6 +421,7 @@
 18-27	2631-2632	)	_
 18-28	2633-2634	.	_
 
+Text=Each participant was randomly assigned with equal probability to one of the three conditions.
 19-1	2635-2639	Each	_
 19-2	2640-2651	participant	_
 19-3	2652-2655	was	_
@@ -419,6 +438,7 @@
 19-14	2717-2727	conditions	_
 19-15	2728-2729	.	_
 
+Text=To achieve integrity of the double-blind, a researcher not involved in the study developed 5-digit random numbers and assigned the numbers to the participants.
 20-1	2730-2732	To	_
 20-2	2733-2740	achieve	_
 20-3	2741-2750	integrity	_
@@ -446,6 +466,7 @@
 20-25	2877-2889	participants	_
 20-26	2890-2891	.	_
 
+Text=Each participant was randomized to one of the three stimulation conditions (e.g.
 21-1	2892-2896	Each	_
 21-2	2897-2908	participant	_
 21-3	2909-2912	was	_
@@ -461,6 +482,7 @@
 21-13	2969-2972	e.g	_
 21-14	2973-2974	.	_
 
+Text=1: sham, 2: tACS, 3: tDCS) with the 5-digit numbers.
 22-1	2975-2976	1	_
 22-2	2977-2978	:	_
 22-3	2979-2983	sham	_
@@ -479,6 +501,7 @@
 22-16	3025-3032	numbers	_
 22-17	3033-3034	.	_
 
+Text=One of the co-authors in the study wrote MATLAB scripts to deliver and control stimulation waveforms with the three stimulation conditions.
 23-1	3035-3038	One	_
 23-2	3039-3041	of	_
 23-3	3042-3045	the	_
@@ -502,6 +525,7 @@
 23-21	3163-3173	conditions	_
 23-22	3174-3175	.	_
 
+Text=This author was blinded to the 5-digit numbers and excluded from all stimulation sessions.
 24-1	3176-3180	This	_
 24-2	3181-3187	author	_
 24-3	3188-3191	was	_
@@ -518,6 +542,7 @@
 24-14	3257-3265	sessions	_
 24-15	3266-3267	.	_
 
+Text=The other two co-authors (study coordinators) performed all stimulation sessions with the 5-digit numbers for each participant.
 25-1	3268-3271	The	_
 25-2	3272-3277	other	_
 25-3	3278-3281	two	_
@@ -539,6 +564,7 @@
 25-19	3385-3396	participant	_
 25-20	3397-3398	.	_
 
+Text=Further, the display on the stimulators was covered during stimulation to conceal information about the stimulation provided by the stimulators.
 26-1	3399-3406	Further	_
 26-2	3407-3408	,	_
 26-3	3409-3412	the	_
@@ -562,6 +588,7 @@
 26-21	3532-3543	stimulators	_
 26-22	3544-3545	.	_
 
+Text=All researchers were unaware of the condition assignments until all participants had completed the study.
 27-1	3546-3549	All	_
 27-2	3550-3561	researchers	_
 27-3	3562-3566	were	_
@@ -579,6 +606,7 @@
 27-15	3645-3650	study	_
 27-16	3651-3652	.	_
 
+Text=The auditory hallucination severity was measured by the auditory hallucination rating scale (AHRS).
 28-1	3653-3656	The	_
 28-2	3657-3665	auditory	_
 28-3	3666-3679	hallucination	_
@@ -596,6 +624,7 @@
 28-15	3752-3753	)	http://maven.renci.org/NeuroBridge/neurobridge#AuditoryHallucinationsSubscaleofPsychoticSymptomsRatingScale
 28-16	3754-3755	.	_
 
+Text=The AHRS was administered before the 1st stimulation on day 1 (baseline), after the 10th stimulation on day 5, and at the 1-week and 1-month follow-up study visits.
 29-1	3756-3759	The	_
 29-2	3760-3764	AHRS	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 29-3	3765-3768	was	_
@@ -630,6 +659,7 @@
 29-32	3917-3923	visits	_
 29-33	3924-3925	.	_
 
+Text=A detailed description of the clinical data and analyses is provided in a separate paper.
 30-1	3926-3927	A	_
 30-2	3928-3936	detailed	_
 30-3	3937-3948	description	_
@@ -647,6 +677,7 @@
 30-15	4009-4014	paper	_
 30-16	4015-4016	.	_
 
+Text=EEG data were collected at the same time points with the exception of the recording on day 5, which was performed before stimulation to avoid contamination by potential instantaneous effects of stimulation on brain network dynamics.
 31-1	4017-4020	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 31-2	4021-4025	data	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 31-3	4026-4030	were	_
@@ -686,6 +717,7 @@
 31-37	4241-4249	dynamics	_
 31-38	4250-4251	.	_
 
+Text=On day 5, EEG and the AHRS were not administered simultaneously but were spaced by the last stimulation session.
 32-1	4252-4254	On	_
 32-2	4255-4258	day	_
 32-3	4259-4260	5	_
@@ -708,6 +740,7 @@
 32-20	4357-4364	session	_
 32-21	4365-4366	.	_
 
+Text=We do not expect any large changes of the AHRS scores within less than an hour since the AHRS queries symptoms for a time window of several days.
 33-1	4367-4369	We	_
 33-2	4370-4372	do	_
 33-3	4373-4376	not	_
@@ -738,6 +771,7 @@
 33-28	4507-4511	days	_
 33-29	4512-4513	.	_
 
+Text=The sample size was determined by the amount of funding available for the grant that supported this work.
 34-1	4514-4517	The	_
 34-2	4518-4524	sample	_
 34-3	4525-4529	size	_
@@ -758,6 +792,7 @@
 34-18	4614-4618	work	_
 34-19	4619-4620	.	_
 
+Text=The study was performed between June 2015 and February 2017.
 35-1	4621-4624	The	_
 35-2	4625-4630	study	_
 35-3	4631-4634	was	_
@@ -770,6 +805,7 @@
 35-10	4676-4680	2017	_
 35-11	4681-4682	.	_
 
+Text=Brain stimulation We developed a custom-built interface in MATLAB and controlled two Neuroconn DC Plus stimulators (Neuroconn Ltd., Ilmenau, Germany) using “ remote-mode ” to ensure double-blind administration of stimulation.
 36-1	4683-4688	Brain	_
 36-2	4689-4700	stimulation	_
 36-3	4701-4703	We	_
@@ -806,6 +842,7 @@
 36-34	4900-4911	stimulation	_
 36-35	4912-4913	.	_
 
+Text=Our setup saved the applied stimulation waveform, which was validated offline by a lab member not otherwise involved in this study.
 37-1	4914-4917	Our	_
 37-2	4918-4923	setup	_
 37-3	4924-4929	saved	_
@@ -830,6 +867,7 @@
 37-22	5040-5045	study	_
 37-23	5046-5047	.	_
 
+Text=The electrode montage was identical for all three stimulation conditions to ensure blinding of the research personnel to each stimulation condition.
 38-1	5048-5051	The	_
 38-2	5052-5061	electrode	_
 38-3	5062-5069	montage	_
@@ -853,6 +891,7 @@
 38-21	5186-5195	condition	_
 38-22	5196-5197	.	_
 
+Text=We used two stimulators since the maximum current from one stimulator is 1.5mA zero-to-peak amplitude for the safety guidelines.
 39-1	5198-5200	We	_
 39-2	5201-5205	used	_
 39-3	5206-5209	two	_
@@ -874,6 +913,7 @@
 39-19	5315-5325	guidelines	_
 39-20	5326-5327	.	_
 
+Text=We applied three rubber electrodes to the scalp with Ten20 conductive paste (Bio-Medical Instruments, Clinton Township, MI).
 40-1	5328-5330	We	_
 40-2	5331-5338	applied	_
 40-3	5339-5344	three	_
@@ -897,6 +937,7 @@
 40-21	5454-5455	)	_
 40-22	5456-5457	.	_
 
+Text=Each stimulator has two output connectors for electrode cables.
 41-1	5458-5462	Each	_
 41-2	5463-5473	stimulator	_
 41-3	5474-5477	has	_
@@ -908,6 +949,7 @@
 41-9	5514-5520	cables	_
 41-10	5521-5522	.	_
 
+Text=One of the two outputs of each stimulator was connected together to form a common return path for the stimulation current through a 5×7cm electrode placed on Cz (center of the scalp).
 42-1	5523-5526	One	_
 42-2	5527-5529	of	_
 42-3	5530-5533	the	_
@@ -944,6 +986,7 @@
 42-34	5706-5707	)	_
 42-35	5708-5709	.	_
 
+Text=The other output of each stimulator was connected to a 5×5cm electrode placed between F3 and Fp1 (DLPFC) and between T3 and P3 (TPJ), respectively.
 43-1	5710-5713	The	_
 43-2	5714-5719	other	_
 43-3	5720-5726	output	_
@@ -976,6 +1019,7 @@
 43-30	5849-5861	respectively	_
 43-31	5862-5863	.	_
 
+Text=For 10Hz-tACS, each 5×5cm electrode delivered an in-phase sinusoidal waveform with1mA amplitude.
 44-1	5864-5867	For	_
 44-2	5868-5877	10Hz-tACS	_
 44-3	5878-5879	,	_
@@ -991,6 +1035,7 @@
 44-13	5951-5960	amplitude	_
 44-14	5961-5962	.	_
 
+Text=Both amplitude and phase of the stimulation waveforms were verified with an oscilloscope.
 45-1	5963-5967	Both	_
 45-2	5968-5977	amplitude	_
 45-3	5978-5981	and	_
@@ -1006,6 +1051,7 @@
 45-13	6039-6051	oscilloscope	_
 45-14	6052-6053	.	_
 
+Text=For tDCS, the electrode between F3 and Fp1 delivered +2m A amplitude current and the other electrode between T3 and P3 delivered −2mA amplitude current.
 46-1	6054-6057	For	_
 46-2	6058-6062	tDCS	_
 46-3	6063-6064	,	_
@@ -1034,6 +1080,7 @@
 46-26	6199-6206	current	_
 46-27	6207-6208	.	_
 
+Text=Stimulation montage and modeling of electric field distribution were calculated by NEUROPHET tCS Lab (Neurophet Inc., Seoul, South Korea) as depicted in Figure 1.
 47-1	6209-6220	Stimulation	_
 47-2	6221-6228	montage	_
 47-3	6229-6232	and	_
@@ -1064,6 +1111,7 @@
 47-28	6373-6374	1	_
 47-29	6375-6376	.	_
 
+Text=We used these simulations of the electric field to determine the “ stimulated ” scalp locations for subsequent analysis of the EEG signal.
 48-1	6377-6379	We	_
 48-2	6380-6384	used	_
 48-3	6385-6390	these	_
@@ -1089,6 +1137,7 @@
 48-23	6508-6514	signal	_
 48-24	6515-6516	.	_
 
+Text=Sham stimulation delivered 10 seconds of ramp-up, followed by 20 seconds of 10Hz-tACS, followed by 10 seconds of ramp-down for a total of 40 seconds.
 49-1	6517-6521	Sham	_
 49-2	6522-6533	stimulation	_
 49-3	6534-6543	delivered	_
@@ -1118,6 +1167,7 @@
 49-27	6660-6667	seconds	_
 49-28	6668-6669	.	_
 
+Text=All participants completed twice-daily stimulation sessions for five consecutive days.
 50-1	6670-6673	All	_
 50-2	6674-6686	participants	_
 50-3	6687-6696	completed	_
@@ -1130,6 +1180,7 @@
 50-10	6751-6755	days	_
 50-11	6756-6757	.	_
 
+Text=Each stimulation session was 20 minutes long with a three-hour break between the two stimulation sessions.
 51-1	6758-6762	Each	_
 51-2	6763-6774	stimulation	_
 51-3	6775-6782	session	_
@@ -1148,6 +1199,7 @@
 51-16	6855-6863	sessions	_
 51-17	6864-6865	.	_
 
+Text=This structuring into two sessions per day was adopted to from earlier work on tDCS for the treatment of auditory hallucinations.
 52-1	6866-6870	This	_
 52-2	6871-6882	structuring	_
 52-3	6883-6887	into	_
@@ -1171,6 +1223,7 @@
 52-21	6980-6994	hallucinations	_
 52-22	6995-6996	.	_
 
+Text=During stimulation, all participants were seated comfortably and watched a video of tropical fish (Undersea Productions, Queensland, Australia) to minimize the perception of phosphenes induced by stimulation.
 53-1	6997-7003	During	_
 53-2	7004-7015	stimulation	_
 53-3	7016-7017	,	_
@@ -1205,6 +1258,7 @@
 53-32	7198-7209	stimulation	_
 53-33	7210-7211	.	_
 
+Text=Participants were asked to watch the video and keep their eyes open.
 54-1	7212-7224	Participants	_
 54-2	7225-7229	were	_
 54-3	7230-7235	asked	_
@@ -1219,6 +1273,7 @@
 54-12	7275-7279	open	_
 54-13	7280-7281	.	_
 
+Text=EEG tasks EEG data were recorded using a 128-channel Geodesic EEG system (EGI Inc., Eugene, OR) at a sampling rate of 1kHz.
 55-1	7282-7285	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 55-2	7286-7291	tasks	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 55-3	7292-7295	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -1247,6 +1302,7 @@
 55-26	7404-7408	1kHz	_
 55-27	7409-7410	.	_
 
+Text=Channel Cz and one channel between Cz and Pz were used as the reference and as the ground, respectively.
 56-1	7411-7418	Channel	_
 56-2	7419-7421	Cz	_
 56-3	7422-7425	and	_
@@ -1269,6 +1325,7 @@
 56-20	7503-7515	respectively	_
 56-21	7516-7517	.	_
 
+Text=All instructions and experimental tasks were implemented in Presentation (Neurobehavioral Systems, Inc., Berkeley, CA).
 57-1	7518-7521	All	_
 57-2	7522-7534	instructions	_
 57-3	7535-7538	and	_
@@ -1290,6 +1347,7 @@
 57-19	7640-7641	)	_
 57-20	7642-7643	.	_
 
+Text=Two experimental tasks were used.
 58-1	7644-7647	Two	_
 58-2	7648-7660	experimental	_
 58-3	7661-7666	tasks	_
@@ -1297,6 +1355,7 @@
 58-5	7672-7676	used	_
 58-6	7677-7678	.	_
 
+Text=First, resting-state EEG data with eyes-open and eyes-closed were recorded for eight minutes.
 59-1	7679-7684	First	_
 59-2	7685-7686	,	_
 59-3	7687-7700	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1313,6 +1372,7 @@
 59-14	7765-7772	minutes	_
 59-15	7773-7774	.	_
 
+Text=Participants were instructed by a computer voice to fixate on a crosshair and open or close their eyes while staying relaxed.
 60-1	7775-7787	Participants	_
 60-2	7788-7792	were	_
 60-3	7793-7803	instructed	_
@@ -1336,6 +1396,7 @@
 60-21	7892-7899	relaxed	_
 60-22	7900-7901	.	_
 
+Text=Eyes-closed and eyes-open conditions were alternated every two minutes and starting condition was randomized across the participants.
 61-1	7902-7913	Eyes-closed	_
 61-2	7914-7917	and	_
 61-3	7918-7927	eyes-open	_
@@ -1355,6 +1416,7 @@
 61-17	8022-8034	participants	_
 61-18	8035-8036	.	_
 
+Text=We only present eyes-open data here since stimulation was applied in that state and we wanted to avoid confounds caused by the change in alpha oscillation strength due to eye closing.
 62-1	8037-8039	We	_
 62-2	8040-8044	only	_
 62-3	8045-8052	present	_
@@ -1388,6 +1450,7 @@
 62-31	8212-8219	closing	_
 62-32	8220-8221	.	_
 
+Text=Second, the response to auditory click-trains was recorded.
 63-1	8222-8228	Second	_
 63-2	8229-8230	,	_
 63-3	8231-8234	the	_
@@ -1399,6 +1462,7 @@
 63-9	8273-8281	recorded	_
 63-10	8282-8283	.	_
 
+Text=The auditory stimuli were delivered binaurally through air-conducting earphone tubes ER-3C (Etymotic Research Inc., Elk Grove Village, IL) at sound pressure level (SPL) of 90 dB.
 64-1	8284-8287	The	_
 64-2	8288-8296	auditory	_
 64-3	8297-8304	stimuli	_
@@ -1433,6 +1497,7 @@
 64-32	8465-8467	dB	_
 64-33	8468-8469	.	_
 
+Text=Participants fixated on a crosshair on a computer monitor while listening to 500ms long click-trains at rates of 10Hz, 20Hz, 30Hz, 40Hz and 80Hz.
 65-1	8470-8482	Participants	_
 65-2	8483-8490	fixated	_
 65-3	8491-8493	on	_
@@ -1462,6 +1527,7 @@
 65-27	8613-8617	80Hz	_
 65-28	8618-8619	.	_
 
+Text=This task was 15 minutes in length, separated into five 3-minute blocks.
 66-1	8620-8624	This	_
 66-2	8625-8629	task	_
 66-3	8630-8633	was	_
@@ -1477,6 +1543,7 @@
 66-13	8686-8692	blocks	_
 66-14	8693-8694	.	_
 
+Text=Subsequent click-trains were separated by a jittered interval between 450ms and 550ms of silence.
 67-1	8695-8705	Subsequent	_
 67-2	8706-8718	click-trains	_
 67-3	8719-8723	were	_
@@ -1493,6 +1560,7 @@
 67-14	8784-8791	silence	_
 67-15	8792-8793	.	_
 
+Text=The order of the click-train frequencies was pseudo-random and balanced within each 3-minute block, for a total of 200 click-trains per block and a grand total of 1000 click-trains.
 68-1	8794-8797	The	_
 68-2	8798-8803	order	_
 68-3	8804-8806	of	_
@@ -1525,6 +1593,7 @@
 68-30	8963-8975	click-trains	_
 68-31	8976-8977	.	_
 
+Text=Synchronization between the auditory stimulus presentation and EEG acquisition was achieved by splitting the stereo output of the sound card into two separate mono outputs.
 69-1	8978-8993	Synchronization	_
 69-2	8994-9001	between	_
 69-3	9002-9005	the	_
@@ -1552,6 +1621,7 @@
 69-25	9142-9149	outputs	_
 69-26	9150-9151	.	_
 
+Text=One channel was used for the actual auditory stimuli while the other channel was recorded together with data.
 70-1	9152-9155	One	_
 70-2	9156-9163	channel	_
 70-3	9164-9167	was	_
@@ -1572,6 +1642,7 @@
 70-18	9256-9260	data	_
 70-19	9261-9262	.	_
 
+Text=EEG analysis and statistical testing Offline processing was performed by EEGLAB, FieldTrip, and custom-built scripts in MATLAB.
 71-1	9263-9266	EEG	_
 71-2	9267-9275	analysis	_
 71-3	9276-9279	and	_
@@ -1593,6 +1664,7 @@
 71-19	9385-9391	MATLAB	_
 71-20	9392-9393	.	_
 
+Text=First, all data were downsampled to 250Hz with anti-aliasing filtering (0.9π rad/sample cutoff and 0.2π rad/sample transition bandwidth) and band-pass filtered from 1 to 50Hz for the resting-state data, from 1 to 100Hz with 60Hz notch filter for the click-trains data.
 72-1	9394-9399	First	_
 72-2	9400-9401	,	_
 72-3	9402-9405	all	_
@@ -1640,6 +1712,7 @@
 72-45	9661-9665	data	_
 72-46	9666-9667	.	_
 
+Text=Second, the data were preprocessed by an artifact subspace reconstruction algorithm to identify high-variance data epochs and reconstruct missing data.
 73-1	9668-9674	Second	_
 73-2	9675-9676	,	_
 73-3	9677-9680	the	_
@@ -1663,6 +1736,7 @@
 73-21	9815-9819	data	_
 73-22	9820-9821	.	_
 
+Text=Briefly, the algorithm first finds a minute of data that represents clean EEG signals that serve as a baseline.
 74-1	9822-9829	Briefly	_
 74-2	9830-9831	,	_
 74-3	9832-9835	the	_
@@ -1685,6 +1759,7 @@
 74-20	9925-9933	baseline	_
 74-21	9934-9935	.	_
 
+Text=Then, principle component analysis is applied to the whole data set with a sliding window to find the subspaces in which there is activity that is more than five standard deviations away from the baseline EEG.
 75-1	9936-9940	Then	_
 75-2	9941-9942	,	_
 75-3	9943-9952	principle	_
@@ -1724,6 +1799,7 @@
 75-37	10142-10145	EEG	_
 75-38	10146-10147	.	_
 
+Text=Once the function has identified the outlier subspaces, it treats them as missing data and reconstructs their content using a mixing matrix that is calculated on the clean data.
 76-1	10148-10152	Once	_
 76-2	10153-10156	the	_
 76-3	10157-10165	function	_
@@ -1756,6 +1832,7 @@
 76-30	10321-10325	data	_
 76-31	10326-10327	.	_
 
+Text=Third, bad channels that were found in the previous step were interpolated and common average referencing was performed.
 77-1	10328-10333	Third	_
 77-2	10334-10335	,	_
 77-3	10336-10339	bad	_
@@ -1777,6 +1854,7 @@
 77-19	10439-10448	performed	_
 77-20	10449-10450	.	_
 
+Text=After then, infomax independent component analysis (ICA) was performed to remove eye blinking, eye movement, muscle activity, and heartbeat artefact.
 78-1	10451-10456	After	_
 78-2	10457-10461	then	_
 78-3	10462-10463	,	_
@@ -1805,6 +1883,7 @@
 78-26	10597-10605	artefact	_
 78-27	10606-10607	.	_
 
+Text=All ICA components were visually inspected and noise components were manually selected for rejection.
 79-1	10608-10611	All	_
 79-2	10612-10615	ICA	_
 79-3	10616-10626	components	_
@@ -1821,6 +1900,7 @@
 79-14	10699-10708	rejection	_
 79-15	10709-10710	.	_
 
+Text=These initial pre-processing steps were carried out on the full EEG dataset before unblinding the study.
 80-1	10711-10716	These	_
 80-2	10717-10724	initial	_
 80-3	10725-10739	pre-processing	_
@@ -1839,6 +1919,7 @@
 80-16	10809-10814	study	_
 80-17	10815-10816	.	_
 
+Text=For the resting-state EEG, data were epoched into 2-second windows.
 81-1	10817-10820	For	_
 81-2	10821-10824	the	_
 81-3	10825-10838	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1852,6 +1933,7 @@
 81-11	10877-10884	windows	_
 81-12	10885-10886	.	_
 
+Text=Each epoch was visually inspected in the temporal domain and bad epochs that contained abnormal signal spikes or very pronounced fluctuations (larger than 100uV) due to head movement (2.61 ±1.1 of 120 trials) for all three conditions were removed.
 82-1	10887-10891	Each	_
 82-2	10892-10897	epoch	_
 82-3	10898-10901	was	_
@@ -1897,6 +1979,7 @@
 82-43	11130-11137	removed	_
 82-44	11138-11139	.	_
 
+Text=We found no significant difference of the rejected epochs between the three conditions (one-way ANOVA, F2,19=0.65, p=0.53).
 83-1	11140-11142	We	_
 83-2	11143-11148	found	_
 83-3	11149-11151	no	_
@@ -1920,6 +2003,7 @@
 83-21	11265-11266	)	_
 83-22	11267-11268	.	_
 
+Text=Power spectral density (PSD) was computed by Welch ’ s method with a 2-sec window and a 12.5% overlap resulting in a PSD with 0.5Hz frequency bins.
 84-1	11269-11274	Power	_
 84-2	11275-11283	spectral	_
 84-3	11284-11291	density	_
@@ -1952,6 +2036,7 @@
 84-30	11414-11418	bins	_
 84-31	11419-11420	.	_
 
+Text=Individual alpha frequency (IAF), which we defined as the frequency of the peak power in the occipital alpha band (8–12Hz) in the eye-closed condition, was selected for each participant.
 85-1	11421-11431	Individual	_
 85-2	11432-11437	alpha	_
 85-3	11438-11447	frequency	_
@@ -1989,6 +2074,7 @@
 85-35	11601-11612	participant	_
 85-36	11613-11614	.	_
 
+Text=The power of alpha oscillations was determined by averaging of the PSD around the IAF (IAF - 1Hz ≤ IAF ≤ IAF + 1Hz) and the alpha oscillations were spatially normalized by the average of all channels to remove the inter-subject variability of alpha oscillations.
 86-1	11615-11618	The	_
 86-2	11619-11624	power	_
 86-3	11625-11627	of	_
@@ -2038,6 +2124,7 @@
 86-47	11866-11878	oscillations	_
 86-48	11879-11880	.	_
 
+Text=Thirty-eight channels outside of the scalp were excluded and the remaining 90 channels corresponding to scalp locations were used for topographical representation.
 87-1	11881-11893	Thirty-eight	_
 87-2	11894-11902	channels	_
 87-3	11903-11910	outside	_
@@ -2062,6 +2149,7 @@
 87-22	12029-12043	representation	_
 87-23	12044-12045	.	_
 
+Text=For statistical analysis, custom-built scripts in R (R Foundation for Statistical Computing, Vienna, Austria) were used.
 88-1	12046-12049	For	_
 88-2	12050-12061	statistical	_
 88-3	12062-12070	analysis	_
@@ -2085,6 +2173,7 @@
 88-21	12166-12170	used	_
 88-22	12171-12172	.	_
 
+Text=We adopted a linear mixed model analysis with fixed factors of “ session ” (baseline, day 5, 1-week, and 1-month) and “ condition ” (10Hz-tACS, tDCS, and sham), with random factor “ participant ” to account for repeat measures within participants.
 89-1	12173-12175	We	_
 89-2	12176-12183	adopted	_
 89-3	12184-12185	a	_
@@ -2138,6 +2227,7 @@
 89-51	12417-12429	participants	_
 89-52	12430-12431	.	_
 
+Text=We used the power of the alpha oscillations averaged across channels (41 channels, Fig.
 90-1	12432-12434	We	_
 90-2	12435-12439	used	_
 90-3	12440-12443	the	_
@@ -2156,6 +2246,7 @@
 90-16	12517-12520	Fig	_
 90-17	12521-12522	.	_
 
+Text=S3) in the stimulated regions (left hemisphere) as a dependent variable since we hypothesized that the left hemisphere was modulated by tACS or tDCS based on the electric field modeling (Fig.
 91-1	12523-12525	S3	_
 91-2	12526-12527	)	_
 91-3	12528-12530	in	_
@@ -2193,10 +2284,12 @@
 91-35	12714-12717	Fig	_
 91-36	12718-12719	.	_
 
+Text=1).
 92-1	12720-12721	1	_
 92-2	12722-12723	)	_
 92-3	12724-12725	.	_
 
+Text=Kenward-Roger approximations were used to obtain p-values and perform F-tests for each factor and their interaction.
 93-1	12726-12739	Kenward-Roger	_
 93-2	12740-12754	approximations	_
 93-3	12755-12759	were	_
@@ -2215,6 +2308,7 @@
 93-16	12830-12841	interaction	_
 93-17	12842-12843	.	_
 
+Text=Post-hoc statistical tests were performed using student ’ s t-test across participants at each channel and it was corrected by false discovery rate (FDR) from the entire scalp channels.
 94-1	12844-12852	Post-hoc	_
 94-2	12853-12864	statistical	_
 94-3	12865-12870	tests	_
@@ -2248,6 +2342,7 @@
 94-31	13022-13030	channels	_
 94-32	13031-13032	.	_
 
+Text=Changes of alpha oscillations over sessions were quantified with a modulation index, (Alphapost − Alphabase) / (Alphapost + Alphabase) where Alphapost and Alphabase are alpha oscillations post-stimulation (day 5, 1-week, and 1-month) and at baseline (day 1 of stimulation), respectively.
 95-1	13033-13040	Changes	_
 95-2	13041-13043	of	_
 95-3	13044-13049	alpha	_
@@ -2302,6 +2397,7 @@
 95-52	13319-13331	respectively	_
 95-53	13332-13333	.	_
 
+Text=To compute functional connectivity in terms of phase synchronization in the resting-state EEG data, we adopted a debiased weighted phase lag index (WPLI) to minimize the effects of volume conduction and noise originating from other scalp locations.
 96-1	13334-13336	To	_
 96-2	13337-13344	compute	_
 96-3	13345-13355	functional	_
@@ -2344,6 +2440,7 @@
 96-40	13575-13584	locations	_
 96-41	13585-13586	.	_
 
+Text=This method is also debiased in terms of sample size.
 97-1	13587-13591	This	_
 97-2	13592-13598	method	_
 97-3	13599-13601	is	_
@@ -2356,6 +2453,7 @@
 97-10	13635-13639	size	_
 97-11	13640-13641	.	_
 
+Text=We computed WPLI as Here denotes the imaginary component of the cross-spectrum.
 98-1	13642-13644	We	_
 98-2	13645-13653	computed	_
 98-3	13654-13658	WPLI	_
@@ -2370,6 +2468,7 @@
 98-12	13706-13720	cross-spectrum	_
 98-13	13721-13722	.	_
 
+Text=E {·} is the expected value operator and sgn indicates the sign of.
 99-1	13723-13724	E	_
 99-2	13725-13726	{	_
 99-3	13727-13728	·	_
@@ -2387,11 +2486,13 @@
 99-15	13789-13791	of	_
 99-16	13792-13793	.	_
 
+Text=is the magnitude.
 100-1	13794-13796	is	_
 100-2	13797-13800	the	_
 100-3	13801-13810	magnitude	_
 100-4	13811-13812	.	_
 
+Text=Phase synchronization was computed with 0.5Hz frequency resolution for frequencies from 1 to 50Hz for all channel pairs on the scalp.
 101-1	13813-13818	Phase	_
 101-2	13819-13834	synchronization	_
 101-3	13835-13838	was	_
@@ -2415,6 +2516,7 @@
 101-21	13940-13945	scalp	_
 101-22	13946-13947	.	_
 
+Text=For statistical testing in functional connectivity, we used the circular block bootstrapping to preserve temporal dependencies in the time series.
 102-1	13948-13951	For	_
 102-2	13952-13963	statistical	_
 102-3	13964-13971	testing	_
@@ -2438,6 +2540,7 @@
 102-21	14088-14094	series	_
 102-22	14095-14096	.	_
 
+Text=Block-length for each calculation was determined by a block-length algorithm.
 103-1	14097-14109	Block-length	_
 103-2	14110-14113	for	_
 103-3	14114-14118	each	_
@@ -2450,6 +2553,7 @@
 103-10	14164-14173	algorithm	_
 103-11	14174-14175	.	_
 
+Text=Each trial was resampled using the circular block bootstrapping with defined block-length.
 104-1	14176-14180	Each	_
 104-2	14181-14186	trial	_
 104-3	14187-14190	was	_
@@ -2464,6 +2568,7 @@
 104-12	14253-14265	block-length	_
 104-13	14266-14267	.	_
 
+Text=After constructing this surrogate data in this way up to 1000 times, only statistically significant WPLI values were extracted (p <0.05).
 105-1	14268-14273	After	_
 105-2	14274-14286	constructing	_
 105-3	14287-14291	this	_
@@ -2491,6 +2596,7 @@
 105-25	14407-14408	)	_
 105-26	14409-14410	.	_
 
+Text=Global functional connectivity was obtained by averaging of all WPLI values for all scalp channels at each frequency (0.5Hz bin).
 106-1	14411-14417	Global	_
 106-2	14418-14428	functional	_
 106-3	14429-14441	connectivity	_
@@ -2515,6 +2621,7 @@
 106-22	14540-14541	)	_
 106-23	14542-14543	.	_
 
+Text=The peak frequency was obtained by selecting a dominant peak in the frequency domain.
 107-1	14544-14547	The	_
 107-2	14548-14552	peak	_
 107-3	14553-14562	frequency	_
@@ -2531,6 +2638,7 @@
 107-14	14622-14628	domain	_
 107-15	14629-14630	.	_
 
+Text=In the auditory task, EEG data were epoched from −0.1 to 0.5 seconds, resulting in 200 trials of click-trains for each frequency (10, 20, 30, 40 and 80Hz).
 108-1	14631-14633	In	_
 108-2	14634-14637	the	_
 108-3	14638-14646	auditory	_
@@ -2568,6 +2676,7 @@
 108-35	14791-14792	)	_
 108-36	14793-14794	.	_
 
+Text=Each epoch was visually inspected in time-domain and noisy epochs (8.8±1.7 of 200 trials) for all three conditions were removed.
 109-1	14795-14799	Each	_
 109-2	14800-14805	epoch	_
 109-3	14806-14809	was	_
@@ -2592,6 +2701,7 @@
 109-22	14917-14924	removed	_
 109-23	14925-14926	.	_
 
+Text=We found no significant difference of the rejected epochs between the three conditions (one-way ANOVA, F2,19=1.15, p=0.33).
 110-1	14927-14929	We	_
 110-2	14930-14935	found	_
 110-3	14936-14938	no	_
@@ -2615,6 +2725,7 @@
 110-21	15052-15053	)	_
 110-22	15054-15055	.	_
 
+Text=Time-frequency analysis was performed using Morlet wavelet transform (7 cycles).
 111-1	15056-15070	Time-frequency	_
 111-2	15071-15079	analysis	_
 111-3	15080-15083	was	_
@@ -2629,6 +2740,7 @@
 111-12	15136-15137	)	_
 111-13	15138-15139	.	_
 
+Text=Amplitudes and phase information were obtained and inter-trial phase coherence (ITPC) of auditory steady-state response (ASSR) was computed using the phase information across trials as where Xe (c, f, t) is the spectral estimate of epoch e at channel c, frequency f, and time t (n =total number of epochs).
 112-1	15140-15150	Amplitudes	_
 112-2	15151-15154	and	_
 112-3	15155-15160	phase	_
@@ -2693,6 +2805,7 @@
 112-62	15456-15457	)	_
 112-63	15458-15459	.	_
 
+Text=We followed the same statistical approach with the resting-state EEG data and set averaged ITPC over significant activation regions by the auditory click-trains as a dependent variable.
 113-1	15460-15462	We	_
 113-2	15463-15471	followed	_
 113-3	15472-15475	the	_
@@ -2722,6 +2835,7 @@
 113-27	15636-15644	variable	_
 113-28	15645-15646	.	_
 
+Text=The topographical distribution of ITPC was computed by averaging from 0 to 0.5 seconds (stimulus duration) at each click-trains frequency.
 114-1	15647-15650	The	_
 114-2	15651-15664	topographical	_
 114-3	15665-15677	distribution	_
@@ -2746,6 +2860,7 @@
 114-22	15777-15786	frequency	_
 114-23	15787-15788	.	_
 
+Text=Post-hoc tests were performed using student ’ s t-test across participant at each EEG channel.
 115-1	15789-15797	Post-hoc	_
 115-2	15798-15803	tests	_
 115-3	15804-15808	were	_

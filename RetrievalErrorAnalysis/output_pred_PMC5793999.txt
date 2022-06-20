@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=The impact of psychosis genome-wide associated ZNF804A variation on verbal fluency connectivity Schizophrenia (SCZ) and bipolar disorder (BD) have high heritability.
 1-1	0-3	The	_
 1-2	4-10	impact	_
 1-3	11-13	of	_
@@ -29,6 +30,7 @@
 1-25	156-168	heritability	_
 1-26	169-170	.	_
 
+Text=Genome-wide association studies (GWAS) have identified ZNF804A as a significant risk gene for both illnesses.
 2-1	171-182	Genome-wide	_
 2-2	183-194	association	_
 2-3	195-202	studies	_
@@ -48,6 +50,7 @@
 2-17	272-281	illnesses	_
 2-18	282-283	.	_
 
+Text=A validation of this finding at the brain systems-level is imperative as there is still little understanding of how it heightens risk.
 3-1	284-285	A	_
 3-2	286-296	validation	_
 3-3	297-299	of	_
@@ -72,6 +75,7 @@
 3-22	413-417	risk	_
 3-23	418-419	.	_
 
+Text=Based in part on our recent findings of an effect on widespread decreased white matter microstructural fractional anisotropy (putatively a proxy of its integrity), particularly strong in SCZ, we asked whether the risk allele has a detrimental effect on regional brain activation and functional connectivity during a type of cognitive processing which is, together with its neural correlates, impaired in BD and SCZ: verbal fluency.
 4-1	420-425	Based	_
 4-2	426-428	in	_
 4-3	429-433	part	_
@@ -146,6 +150,7 @@
 4-72	850-857	fluency	_
 4-73	858-859	.	_
 
+Text=Functional MRI and genotype data was collected from 80 healthy volunteers, and 54 SCZ and 40 BD patients.
 5-1	860-870	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 5-2	871-874	MRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 5-3	875-878	and	_
@@ -167,6 +172,7 @@
 5-19	957-965	patients	_
 5-20	966-967	.	_
 
+Text=A standard multifactorial analysis of variance using statistical parametric mapping and significance correction of FWE p <0.05 was used.
 6-1	968-969	A	_
 6-2	970-978	standard	_
 6-3	979-993	multifactorial	_
@@ -189,6 +195,7 @@
 6-20	1100-1104	used	_
 6-21	1105-1106	.	_
 
+Text=We found the GWAS risk allele A was associated with decreased positive functional coupling between the left precentral gyrus/inferior frontal gyrus (i.e.
 7-1	1107-1109	We	_
 7-2	1110-1115	found	_
 7-3	1116-1119	the	_
@@ -214,6 +221,7 @@
 7-23	1257-1260	i.e	_
 7-24	1261-1262	.	_
 
+Text=the most highly recruited area for the task) and: 1) the left inferior frontal gyrus, and 2) the left posterior cingulate gyrus, encompassing the precuneus; both as a main effect across controls and psychosis patients.
 8-1	1263-1266	the	_
 8-2	1267-1271	most	_
 8-3	1272-1278	highly	_
@@ -258,6 +266,7 @@
 8-42	1479-1487	patients	_
 8-43	1488-1489	.	_
 
+Text=Such association of the risk allele with reduced functional connectivity (with no area where the opposite main effect was detected), converges with findings in other tasks, our previous finding of its widespread impact on brain white matter microstructure, and with the dysconnectivity hypothesis of SCZ.
 9-1	1490-1494	Such	_
 9-2	1495-1506	association	_
 9-3	1507-1509	of	_
@@ -310,6 +319,7 @@
 9-50	1795-1798	SCZ	_
 9-51	1799-1800	.	_
 
+Text=Material and methods We genotyped (for ZNF804A rs1344706) and scanned, with functional MRI, 174 English native speakers [80 healthy volunteers without history of mental illness, 54 patients with SCZ and 40 with BD (75% of whom had a history of psychosis symptoms)], recruited from the SLAM NHS Trust and diagnosed according to DSM-IV (methodological detail and references are available in Supplement 1).
 10-1	1801-1809	Material	_
 10-2	1810-1813	and	_
 10-3	1814-1821	methods	_
@@ -387,6 +397,7 @@
 10-75	2215-2216	)	_
 10-76	2217-2218	.	_
 
+Text=This yielded 84 rs134470684 allele A homozygotes and 90 allele C carriers, and given the very low frequency of allele C in Caucasian population, we grouped the non-risk allele C homozygotes with the heterozygotes.
 11-1	2219-2223	This	_
 11-2	2224-2231	yielded	_
 11-3	2232-2234	84	_
@@ -425,6 +436,7 @@
 11-36	2420-2433	heterozygotes	_
 11-37	2434-2435	.	_
 
+Text=The study was approved and reviewed by the National Health Service (NHS) South East London Research Ethics Committee, UK (Project “ Genetics and Psychosis (GAP) ” reference number 047/04) and was carried in accordance with the latest version of the Declaration of Helsinki.
 12-1	2436-2439	The	_
 12-2	2440-2445	study	_
 12-3	2446-2449	was	_
@@ -477,6 +489,7 @@
 12-50	2707-2715	Helsinki	_
 12-51	2716-2717	.	_
 
+Text=Informed consent of the participants was obtained after the nature of the procedures had been fully explained.
 13-1	2718-2726	Informed	_
 13-2	2727-2734	consent	_
 13-3	2735-2737	of	_
@@ -496,6 +509,7 @@
 13-17	2818-2827	explained	_
 13-18	2828-2829	.	_
 
+Text=There were no demographic differences (at p <0.05) between genotype or diagnostic groups, other than CPZ-equivalent medication and male: female being higher, and IQ lower, in patients with SCZ (see sample's demographics in Supplement 2).
 14-1	2830-2835	There	_
 14-2	2836-2840	were	_
 14-3	2841-2843	no	_
@@ -543,6 +557,7 @@
 14-45	3075-3076	)	_
 14-46	3077-3078	.	_
 
+Text=The verbal fluency task [where subjects are required to overtly generate a word starting with a visually-displayed letter; or overtly read the word “ rest ” (control or repetition condition)], image acquisition, pre-processing and analysis using SPM software was performed as described earlier.
 15-1	3079-3082	The	_
 15-2	3083-3089	verbal	_
 15-3	3090-3097	fluency	_
@@ -595,6 +610,7 @@
 15-50	3372-3379	earlier	_
 15-51	3380-3381	.	_
 
+Text=A multifactorial ANOVA was used to test for the main effect of genotype (A homozygotes vs. C carriers) and its interaction with diagnosis (controls vs. BD vs. SCZ; or all psychosis patients, i.e.
 16-1	3382-3383	A	_
 16-2	3384-3398	multifactorial	_
 16-3	3399-3404	ANOVA	_
@@ -635,6 +651,7 @@
 16-38	3578-3581	i.e	_
 16-39	3582-3583	.	_
 
+Text=100% of SCZ group + 75% of BD group, vs. controls).
 17-1	3584-3587	100	_
 17-2	3588-3589	%	_
 17-3	3590-3592	of	_
@@ -652,6 +669,7 @@
 17-15	3637-3638	)	_
 17-16	3639-3640	.	_
 
+Text=These effects were tested on whole-brain regional activation and on functional connectivity, including connectivity that would depend on task trials (i.e.
 18-1	3641-3646	These	_
 18-2	3647-3654	effects	_
 18-3	3655-3659	were	_
@@ -677,6 +695,7 @@
 18-23	3793-3796	i.e	_
 18-24	3797-3798	.	_
 
+Text=psychophysiological interaction; PPI).
 19-1	3799-3818	psychophysiological	_
 19-2	3819-3830	interaction	_
 19-3	3831-3832	;	_
@@ -684,6 +703,7 @@
 19-5	3837-3838	)	_
 19-6	3839-3840	.	_
 
+Text=Main effect of task is reported for completeness, but not discussed, as it has already been described in a highly overlapping sample.
 20-1	3841-3845	Main	_
 20-2	3846-3852	effect	_
 20-3	3853-3855	of	_
@@ -710,6 +730,7 @@
 20-24	3969-3975	sample	_
 20-25	3976-3977	.	_
 
+Text=Incorrect response trials were excluded to avoid confounding effects of task performance.
 21-1	3978-3987	Incorrect	_
 21-2	3988-3996	response	_
 21-3	3997-4003	trials	_
@@ -724,6 +745,7 @@
 21-12	4055-4066	performance	_
 21-13	4067-4068	.	_
 
+Text=For connectivity, we used, as seed, the 6-mm radius sphere where the main effect of task was the highest (i.e.
 22-1	4069-4072	For	_
 22-2	4073-4085	connectivity	_
 22-3	4086-4087	,	_
@@ -750,6 +772,7 @@
 22-24	4179-4182	i.e	_
 22-25	4183-4184	.	_
 
+Text=left precentral gyrus/inferior frontal gyrus, pars opercularis: −44 4 34).
 23-1	4185-4189	left	_
 23-2	4190-4200	precentral	_
 23-3	4201-4215	gyrus/inferior	_
@@ -765,6 +788,7 @@
 23-13	4260-4261	)	_
 23-14	4262-4263	.	_
 
+Text=ηp2 measures of effect size were calculated in R to assess how much of the inter-individual (+error) variance in peak activation was explained by genotype.
 24-1	4264-4267	ηp2	_
 24-2	4268-4276	measures	_
 24-3	4277-4279	of	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Disrupted asymmetry of inter- and intra-hemispheric functional connectivity in patients with drug-naive, first-episode schizophrenia and their unaffected siblings Background Lack of normal asymmetry in the brain has been reported in patients with schizophrenia.
 1-1	0-9	Disrupted	_
 1-2	10-19	asymmetry	_
 1-3	20-22	of	_
@@ -38,6 +39,7 @@
 1-34	248-261	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 1-35	262-263	.	_
 
+Text=However, it remains unclear whether disrupted asymmetry originates from inter-hemispheric functional connectivity (FC) and/or intra-hemispheric FC in this patient population.
 2-1	264-271	However	_
 2-2	272-273	,	_
 2-3	274-276	it	_
@@ -63,6 +65,7 @@
 2-23	430-440	population	_
 2-24	441-442	.	_
 
+Text=Methods Forty-four patients with drug-naive, first-episode schizophrenia, 42 unaffected siblings, and 44 healthy controls underwent resting-state functional magnetic resonance imaging (fMRI) scan.
 3-1	443-450	Methods	_
 3-2	451-461	Forty-four	_
 3-3	462-470	patients	_
@@ -92,6 +95,7 @@
 3-27	639-643	scan	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 3-28	644-645	.	_
 
+Text=The parameter of asymmetry (PAS) and support vector machine (SVM) were used to analyze the data.
 4-1	646-649	The	_
 4-2	650-659	parameter	_
 4-3	660-662	of	_
@@ -114,6 +118,7 @@
 4-20	741-745	data	_
 4-21	746-747	.	_
 
+Text=Patients were treated with olanzapine for 8 weeks.
 5-1	748-756	Patients	_
 5-2	757-761	were	_
 5-3	762-769	treated	_
@@ -124,6 +129,7 @@
 5-8	792-797	weeks	_
 5-9	798-799	.	_
 
+Text=Findings Compared with healthy controls, patients showed lower PAS scores in the left middle temporal gyrus (MTG) /inferior temporal gyrus (ITG), left posterior cingulate cortex (PCC) /precuneus and left angular gyrus, and higher PAS scores in the left precentral gyrus/postcentral gyrus.
 6-1	800-808	Findings	_
 6-2	809-817	Compared	_
 6-3	818-822	with	_
@@ -176,6 +182,7 @@
 6-50	1091-1096	gyrus	_
 6-51	1097-1098	.	_
 
+Text=Unaffected siblings also showed lower PAS scores in the left MTG/ITG and left PCC/precuneus relative to healthy controls.
 7-1	1099-1109	Unaffected	_
 7-2	1110-1118	siblings	_
 7-3	1119-1123	also	_
@@ -196,6 +203,7 @@
 7-18	1211-1219	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 7-19	1220-1221	.	_
 
+Text=Further, SVM analysis showed that a combination of the PAS scores in these two clusters in patients at baseline was able to predict clinical response after 8 weeks of olanzapine treatment with 77.27% sensitivity, 72.73% specificity, and 75.00% accuracy.
 8-1	1222-1229	Further	_
 8-2	1230-1231	,	_
 8-3	1232-1235	SVM	_
@@ -243,6 +251,7 @@
 8-45	1472-1480	accuracy	_
 8-46	1481-1482	.	_
 
+Text=Interpretation The present study suggests disrupted asymmetry of inter- and intra-hemispheric FC in drug-naive, first-episode schizophrenia; in addition, a reduced asymmetry of inter-hemispheric FC in the left MTG/ITG and left PCC/precuneus may serve as an endophenotype for schizophrenia, and may have clinical utility to predict response to olanzapine treatment.
 9-1	1483-1497	Interpretation	_
 9-2	1498-1501	The	_
 9-3	1502-1509	present	_
@@ -298,6 +307,7 @@
 9-53	1841-1850	treatment	_
 9-54	1851-1852	.	_
 
+Text=Fund The National Key R & D Program of China and the National Natural Science Foundation of China.
 10-1	1853-1857	Fund	_
 10-2	1858-1861	The	_
 10-3	1862-1870	National	_
@@ -318,6 +328,7 @@
 10-18	1945-1950	China	_
 10-19	1951-1952	.	_
 
+Text=Materials and methods Subjects Forty-six patients with drug-naive, first-episode schizophrenia and 46 unaffected siblings were recruited from the Mental Health Center, the Second Affiliated Hospital of Guangxi Medical University in China between June 2013 and July 2014; 46 healthy controls were recruited from the local community during the same time period.
 11-1	1953-1962	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	1963-1966	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	1967-1974	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -374,6 +385,7 @@
 11-54	2308-2314	period	_
 11-55	2315-2316	.	_
 
+Text=All subjects were in the age range 18–37 years old and right handed, and had> 6 years of formal education.
 12-1	2317-2320	All	_
 12-2	2321-2329	subjects	_
 12-3	2330-2334	were	_
@@ -398,6 +410,7 @@
 12-22	2415-2424	education	_
 12-23	2425-2426	.	_
 
+Text=Patients were diagnosed with schizophrenia according to the Diagnostic and Statistical Manual of Mental Disorders-IV (DSM-IV).
 13-1	2427-2435	Patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 13-2	2436-2440	were	_
 13-3	2441-2450	diagnosed	_
@@ -418,6 +431,7 @@
 13-18	2553-2554	)	_
 13-19	2555-2556	.	_
 
+Text=They were never treated with antipsychotic medications or other psychotropic agents.
 14-1	2557-2561	They	_
 14-2	2562-2566	were	_
 14-3	2567-2572	never	_
@@ -431,6 +445,7 @@
 14-11	2634-2640	agents	_
 14-12	2641-2642	.	_
 
+Text=The diagnosis of schizophrenia was further determined by two research psychiatrists (W.G.
 15-1	2643-2646	The	_
 15-2	2647-2656	diagnosis	_
 15-3	2657-2659	of	_
@@ -446,11 +461,13 @@
 15-13	2729-2732	W.G	_
 15-14	2733-2734	.	_
 
+Text=and Z.Z.)
 16-1	2735-2738	and	_
 16-2	2739-2742	Z.Z	_
 16-3	2743-2744	.	_
 16-4	2745-2746	)	_
 
+Text=using the Structural Clinical Interview for DSM-IV (SCID), patient version.
 17-1	2747-2752	using	_
 17-2	2753-2756	the	_
 17-3	2757-2767	Structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
@@ -466,6 +483,7 @@
 17-13	2817-2824	version	_
 17-14	2825-2826	.	_
 
+Text=All patients had a Positive and Negative Syndrome Scale (PANSS) total score of> 70 at baseline.
 18-1	2827-2830	All	_
 18-2	2831-2839	patients	_
 18-3	2840-2843	had	_
@@ -487,6 +505,7 @@
 18-19	2916-2924	baseline	_
 18-20	2925-2926	.	_
 
+Text=Exclusion criteria included history of nicotine dependence, alcohol or other substance dependence, or history of brain injury.
 19-1	2927-2936	Exclusion	_
 19-2	2937-2945	criteria	_
 19-3	2946-2954	included	_
@@ -508,6 +527,7 @@
 19-19	3048-3054	injury	_
 19-20	3055-3056	.	_
 
+Text=A routine physical examination including review of systems, and routine laboratory tests including complete blood cell count, a comprehensive metabolic panel, thyroid function test, urinalysis, electrocardiography, and chest radiography were performed to exclude any ongoing significant medical conditions.
 20-1	3057-3058	A	_
 20-2	3059-3066	routine	_
 20-3	3067-3075	physical	_
@@ -554,6 +574,7 @@
 20-44	3358-3368	conditions	_
 20-45	3369-3370	.	_
 
+Text=Unaffected siblings and healthy controls were recruited through advertisement.
 21-1	3371-3381	Unaffected	_
 21-2	3382-3390	siblings	_
 21-3	3391-3394	and	_
@@ -565,6 +586,7 @@
 21-9	3435-3448	advertisement	_
 21-10	3449-3450	.	_
 
+Text=They went through the same physical examination and routine laboratory tests to rule out any medical conditions.
 22-1	3451-3455	They	_
 22-2	3456-3460	went	_
 22-3	3461-3468	through	_
@@ -584,6 +606,7 @@
 22-17	3552-3562	conditions	_
 22-18	3563-3564	.	_
 
+Text=In addition, the same research psychiatrists (W.G.
 23-1	3565-3567	In	_
 23-2	3568-3576	addition	_
 23-3	3577-3578	,	_
@@ -595,11 +618,13 @@
 23-9	3613-3616	W.G	_
 23-10	3617-3618	.	_
 
+Text=and Z.Z.)
 24-1	3619-3622	and	_
 24-2	3623-3626	Z.Z	_
 24-3	3627-3628	.	_
 24-4	3629-3630	)	_
 
+Text=conducted a structured clinical interview using the SCID, non-patient version to rule out any psychiatric conditions.
 25-1	3631-3640	conducted	_
 25-2	3641-3642	a	_
 25-3	3643-3653	structured	_
@@ -619,6 +644,7 @@
 25-17	3738-3748	conditions	_
 25-18	3749-3750	.	_
 
+Text=None of them had a history of any psychiatric conditions, nicotine dependence, alcohol or other substance dependence.
 26-1	3751-3755	None	_
 26-2	3756-3758	of	_
 26-3	3759-3763	them	_
@@ -640,6 +666,7 @@
 26-19	3859-3869	dependence	_
 26-20	3870-3871	.	_
 
+Text=In addition, those who had a first-degree relative diagnosed with psychiatric disorders were not eligible to be healthy controls.
 27-1	3872-3874	In	_
 27-2	3875-3883	addition	_
 27-3	3884-3885	,	_
@@ -662,6 +689,7 @@
 27-20	3993-4001	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 27-21	4002-4003	.	_
 
+Text=Patients were treated with olanzapine (10–30 mg/d with a mean (standard deviation) dose of 18.30 (5.17) mg/d) for 8 weeks.
 28-1	4004-4012	Patients	_
 28-2	4013-4017	were	_
 28-3	4018-4025	treated	_
@@ -690,6 +718,7 @@
 28-26	4126-4131	weeks	_
 28-27	4132-4133	.	_
 
+Text=The PANSS was repeated at week 8.
 29-1	4134-4137	The	_
 29-2	4138-4143	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 29-3	4144-4147	was	_
@@ -699,6 +728,7 @@
 29-7	4165-4166	8	_
 29-8	4167-4168	.	_
 
+Text=The study was approved by the ethics committees of the Second Affiliated Hospital of Guangxi Medical University.
 30-1	4169-4172	The	_
 30-2	4173-4178	study	_
 30-3	4179-4182	was	_
@@ -718,6 +748,7 @@
 30-17	4270-4280	University	_
 30-18	4281-4282	.	_
 
+Text=All subjects signed a written informed consent.
 31-1	4283-4286	All	_
 31-2	4287-4295	subjects	_
 31-3	4296-4302	signed	_
@@ -727,6 +758,7 @@
 31-7	4322-4329	consent	_
 31-8	4330-4331	.	_
 
+Text=Image acquisition and preprocessing Images were obtained using a 3 T MRI scanner (Siemens Verio, Erlangen, Germany).
 32-1	4332-4337	Image	_
 32-2	4338-4349	acquisition	_
 32-3	4350-4353	and	_
@@ -750,6 +782,7 @@
 32-21	4450-4451	)	_
 32-22	4452-4453	.	_
 
+Text=The images were analyzed using the DPABI software.
 33-1	4454-4457	The	_
 33-2	4458-4464	images	_
 33-3	4465-4469	were	_
@@ -760,6 +793,7 @@
 33-8	4495-4503	software	_
 33-9	4504-4505	.	_
 
+Text=More details about image acquisition and pre-processing can be found in the Supplementary files.
 34-1	4506-4510	More	_
 34-2	4511-4518	details	_
 34-3	4519-4524	about	_
@@ -776,6 +810,7 @@
 34-14	4596-4601	files	_
 34-15	4602-4603	.	_
 
+Text=Calculation of the PAS scores For each subject, correlation coefficients were calculated between a given voxel and other voxels from the same hemisphere (intra-hemispheric coefficients) or other voxels from the opposite hemisphere (inter-hemispheric coefficients) by using a voxel-wise whole-brain analysis.
 35-1	4604-4615	Calculation	_
 35-2	4616-4618	of	_
 35-3	4619-4622	the	_
@@ -823,6 +858,7 @@
 35-45	4907-4915	analysis	_
 35-46	4916-4917	.	_
 
+Text=The mean coefficient of this given voxel was termed as the intra-hemispheric FC or inter-hemispheric FC of this voxel.
 36-1	4918-4921	The	_
 36-2	4922-4926	mean	_
 36-3	4927-4938	coefficient	_
@@ -844,6 +880,7 @@
 36-19	5030-5035	voxel	_
 36-20	5036-5037	.	_
 
+Text=Because small correlation coefficients between voxels, which were not significantly greater/smaller than zero, might bring in confounding effect on asymmetry analysis, the PAS calculation was conducted based on a pre-defined correlation coefficient threshold (r> 0.2) in order to remove weak correlations likely due to signal noise.
 37-1	5038-5045	Because	_
 37-2	5046-5051	small	_
 37-3	5052-5063	correlation	_
@@ -898,6 +935,7 @@
 37-52	5370-5375	noise	_
 37-53	5376-5377	.	_
 
+Text=To test whether the choice of correlation coefficient threshold might affect the findings, another correlation coefficient threshold (r> 0.25) was also used according to a previous study.
 38-1	5378-5380	To	_
 38-2	5381-5385	test	_
 38-3	5386-5393	whether	_
@@ -931,6 +969,7 @@
 38-31	5563-5568	study	_
 38-32	5569-5570	.	_
 
+Text=Given the detrimental effects of negative correlations on test–retest reliability and ambiguous explanation of negative correlations, the PAS calculation was restricted to positive correlations only.
 39-1	5571-5576	Given	_
 39-2	5577-5580	the	_
 39-3	5581-5592	detrimental	_
@@ -959,6 +998,7 @@
 39-26	5766-5770	only	_
 39-27	5771-5772	.	_
 
+Text=The mean coefficients were z transformed as described previously.
 40-1	5773-5776	The	_
 40-2	5777-5781	mean	_
 40-3	5782-5794	coefficients	_
@@ -970,6 +1010,7 @@
 40-9	5827-5837	previously	_
 40-10	5838-5839	.	_
 
+Text=The PAS values were calculated using the formula below: FCinter refers to inter-hemispheric FC, and FCintra intra-hemispheric FC.
 41-1	5840-5843	The	_
 41-2	5844-5847	PAS	_
 41-3	5848-5854	values	_
@@ -992,6 +1033,7 @@
 41-20	5968-5970	FC	_
 41-21	5971-5972	.	_
 
+Text=A positive PAS score means that the asymmetry mainly originates from inter-hemispheric FC, whereas a negative PAS score means that the asymmetry primarily results from intra-hemispheric FC.
 42-1	5973-5974	A	_
 42-2	5975-5983	positive	_
 42-3	5984-5987	PAS	_
@@ -1022,6 +1064,7 @@
 42-28	6160-6162	FC	_
 42-29	6163-6164	.	_
 
+Text=Based on calculated PAS scores, the PAS maps were generated for further analysis.
 43-1	6165-6170	Based	_
 43-2	6171-6173	on	_
 43-3	6174-6184	calculated	_
@@ -1038,6 +1081,7 @@
 43-14	6238-6246	analysis	_
 43-15	6247-6248	.	_
 
+Text=Statistical analyses Demographic and clinical data were analyzed using Chi-square test and analysis of variance (ANOVA) as appropriate.
 44-1	6249-6260	Statistical	_
 44-2	6261-6269	analyses	_
 44-3	6270-6281	Demographic	_
@@ -1060,6 +1104,7 @@
 44-20	6374-6385	appropriate	_
 44-21	6386-6387	.	_
 
+Text=Framewise displacement (FD) was calculated for each subject using the method described previously.
 45-1	6388-6397	Framewise	_
 45-2	6398-6410	displacement	_
 45-3	6411-6412	(	_
@@ -1077,6 +1122,7 @@
 45-15	6477-6487	previously	_
 45-16	6488-6489	.	_
 
+Text=For the PAS maps, analysis of covariance (ANCOVA), followed by post hoc t-tests, was used to compare group differences controlling for the mean FD and age.
 46-1	6490-6493	For	_
 46-2	6494-6497	the	_
 46-3	6498-6501	PAS	_
@@ -1110,6 +1156,7 @@
 46-31	6646-6649	age	_
 46-32	6650-6651	.	_
 
+Text=The significance level was set at p <0.05 corrected by the Gaussian random field (GRF) theory (voxel significance: p <0.001, cluster significance: p <0.05) using the REST software.
 47-1	6652-6655	The	_
 47-2	6656-6668	significance	_
 47-3	6669-6674	level	_
@@ -1150,6 +1197,7 @@
 47-38	6833-6841	software	_
 47-39	6842-6843	.	_
 
+Text=Once abnormal clusters were identified by group comparisons, the mean PAS scores were extracted from every cluster in the patient group.
 48-1	6844-6848	Once	_
 48-2	6849-6857	abnormal	_
 48-3	6858-6866	clusters	_
@@ -1174,6 +1222,7 @@
 48-22	6975-6980	group	_
 48-23	6981-6982	.	_
 
+Text=Normality test was conducted to confirm that the data for mean PAS scores and clinical variables are in normal distribution.
 49-1	6983-6992	Normality	_
 49-2	6993-6997	test	_
 49-3	6998-7001	was	_
@@ -1196,6 +1245,7 @@
 49-20	7094-7106	distribution	_
 49-21	7107-7108	.	_
 
+Text=Pearson's correlation analysis was performed within patients to examine the relationship between the mean PAS scores and clinical variables including illness duration and the PANSS total scores.
 50-1	7109-7116	Pearson	_
 50-2	7117-7119	's	_
 50-3	7120-7131	correlation	_
@@ -1226,6 +1276,7 @@
 50-28	7297-7303	scores	_
 50-29	7304-7305	.	_
 
+Text=The significance level was set at p <0.05 after the Bonferroni correction.
 51-1	7306-7309	The	_
 51-2	7310-7322	significance	_
 51-3	7323-7328	level	_
@@ -1241,6 +1292,7 @@
 51-13	7370-7380	correction	_
 51-14	7381-7382	.	_
 
+Text=SVM analysis SVM was performed using the LIBSVM software (http: //www.csie.ntu.edu.tw/~cjlin/libsvm/).
 52-1	7383-7386	SVM	_
 52-2	7387-7395	analysis	_
 52-3	7396-7399	SVM	_
@@ -1257,6 +1309,7 @@
 52-14	7486-7487	)	_
 52-15	7488-7489	.	_
 
+Text=Patients were divided into two groups (good response versus poor response) based on the median value of the reduction ratio (RR) of the PANSS total scores after 8 weeks of olanzapine treatment.
 53-1	7490-7498	Patients	_
 53-2	7499-7503	were	_
 53-3	7504-7511	divided	_
@@ -1295,6 +1348,7 @@
 53-36	7677-7686	treatment	_
 53-37	7687-7688	.	_
 
+Text=The median value was used to ensure equal numbers of patients between the two groups, which is required for SVM analysis.
 54-1	7689-7692	The	_
 54-2	7693-7699	median	_
 54-3	7700-7705	value	_
@@ -1319,6 +1373,7 @@
 54-22	7802-7810	analysis	_
 54-23	7811-7812	.	_
 
+Text=The RR was calculated as follows.
 55-1	7813-7816	The	_
 55-2	7817-7819	RR	_
 55-3	7820-7823	was	_
@@ -1327,6 +1382,7 @@
 55-6	7838-7845	follows	_
 55-7	7846-7847	.	_
 
+Text=PANSStotal_0 refers to the PANSS total scores at baseline, whereas PANSStotal_8w is the PANSS total scores after 8 weeks of treatment.
 56-1	7848-7860	PANSStotal_0	http://maven.renci.org/NeuroBridge/neurobridge#GoNoGoTask
 56-2	7861-7867	refers	_
 56-3	7868-7870	to	_
@@ -1351,6 +1407,7 @@
 56-22	7973-7982	treatment	_
 56-23	7983-7984	.	_
 
+Text=SVM was used to examine whether the PAS scores at baseline can predict clinical response to olanzapine treatment at week 8.
 57-1	7985-7988	SVM	_
 57-2	7989-7992	was	_
 57-3	7993-7997	used	_
@@ -1374,6 +1431,7 @@
 57-21	8106-8107	8	_
 57-22	8108-8109	.	_
 
+Text=A “ leave-one-out ” procedure was applied to perform SVM.
 58-1	8110-8111	A	_
 58-2	8112-8113	“	_
 58-3	8114-8127	leave-one-out	_

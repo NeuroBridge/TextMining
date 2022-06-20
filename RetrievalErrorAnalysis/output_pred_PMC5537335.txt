@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Nicotine deprivation elevates neural representation of smoking-related cues in object-sensitive visual cortex: a proof of concept study Objective In the current study, we use functional magnetic resonance imaging (fMRI) and multi-voxel pattern analysis (MVPA) to investigate whether tobacco addiction biases basic visual processing in favour of smoking-related images.
 1-1	0-8	Nicotine	_
 1-2	9-20	deprivation	_
 1-3	21-29	elevates	_
@@ -58,6 +59,7 @@
 1-54	367-373	images	_
 1-55	374-375	.	_
 
+Text=We hypothesize that the neural representation of smoking-related stimuli in the lateral occipital complex (LOC) is elevated after a period of nicotine deprivation compared to a satiated state, but that this is not the case for object categories unrelated to smoking.
 2-1	376-378	We	_
 2-2	379-390	hypothesize	_
 2-3	391-395	that	_
@@ -104,6 +106,7 @@
 2-44	637-644	smoking	_
 2-45	645-646	.	_
 
+Text=Methods Current smokers (≥10 cigarettes a day) underwent two fMRI scanning sessions: one after 10 h of nicotine abstinence and the other one after smoking ad libitum.
 3-1	647-654	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 3-2	655-662	Current	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 3-3	663-670	smokers	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -136,6 +139,7 @@
 3-30	808-815	libitum	_
 3-31	816-817	.	_
 
+Text=Regional blood oxygenated level-dependent (BOLD) response was measured while participants were presented with 24 blocks of 8 colour-matched pictures of cigarettes, pencils or chairs.
 4-1	818-826	Regional	_
 4-2	827-832	blood	_
 4-3	833-843	oxygenated	_
@@ -165,6 +169,7 @@
 4-27	996-1002	chairs	_
 4-28	1003-1004	.	_
 
+Text=The functional data of 10 participants were analysed through a pattern classification approach.
 5-1	1005-1008	The	_
 5-2	1009-1019	functional	_
 5-3	1020-1024	data	_
@@ -180,6 +185,7 @@
 5-13	1091-1099	approach	_
 5-14	1100-1101	.	_
 
+Text=Results In bilateral LOC clusters, the classifier was able to discriminate between patterns of activity elicited by visually similar smoking-related (cigarettes) and neutral objects (pencils) above empirically estimated chance levels only during deprivation (mean = 61.0%, chance (permutations) = 50.0%, p = .01) but not during satiation (mean = 53.5%, chance (permutations) = 49.9%, ns .).
 6-1	1102-1109	Results	_
 6-2	1110-1112	In	_
 6-3	1113-1122	bilateral	_
@@ -259,6 +265,7 @@
 6-77	1511-1512	)	_
 6-78	1513-1514	.	_
 
+Text=For all other stimulus contrasts, there was no difference in discriminability between the deprived and satiated conditions.
 7-1	1515-1518	For	_
 7-2	1519-1522	all	_
 7-3	1523-1528	other	_
@@ -279,6 +286,7 @@
 7-18	1628-1638	conditions	_
 7-19	1639-1640	.	_
 
+Text=Conclusion The discriminability between smoking and non-smoking visual objects was elevated in object-selective brain region LOC after a period of nicotine abstinence.
 8-1	1641-1651	Conclusion	_
 8-2	1652-1655	The	_
 8-3	1656-1672	discriminability	_
@@ -303,6 +311,7 @@
 8-22	1797-1807	abstinence	_
 8-23	1808-1809	.	_
 
+Text=This indicates that attention bias likely affects basic visual object processing.
 9-1	1810-1814	This	_
 9-2	1815-1824	indicates	_
 9-3	1825-1829	that	_
@@ -316,6 +325,7 @@
 9-11	1880-1890	processing	_
 9-12	1891-1892	.	_
 
+Text=Methods Participants Fourteen right-handed, current smokers (6 males, mean age 25.21 years) participated in this study.
 10-1	1893-1900	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 10-2	1901-1913	Participants	_
 10-3	1914-1922	Fourteen	_
@@ -338,6 +348,7 @@
 10-20	2010-2015	study	_
 10-21	2016-2017	.	_
 
+Text=Individuals who reported smoking a minimum of 10 cigarettes a day on average for at least 1 year were included.
 11-1	2018-2029	Individuals	_
 11-2	2030-2033	who	_
 11-3	2034-2042	reported	_
@@ -360,6 +371,7 @@
 11-20	2120-2128	included	_
 11-21	2129-2130	.	_
 
+Text=Exclusion criteria were history of physical or mental illness, use of psychotropic medication, history of drug or alcohol abuse, and contraindications for the MRI scanner.
 12-1	2131-2140	Exclusion	_
 12-2	2141-2149	criteria	_
 12-3	2150-2154	were	_
@@ -390,6 +402,7 @@
 12-28	2297-2304	scanner	_
 12-29	2305-2306	.	_
 
+Text=Participants received financial compensation for their participation and travel costs.
 13-1	2307-2319	Participants	_
 13-2	2320-2328	received	_
 13-3	2329-2338	financial	_
@@ -402,6 +415,7 @@
 13-10	2387-2392	costs	_
 13-11	2393-2394	.	_
 
+Text=The study was approved by the Ethical Review Committee Psychology and Neuroscience of Maastricht University, and written informed consent was obtained from each participant.
 14-1	2395-2398	The	_
 14-2	2399-2404	study	_
 14-3	2405-2408	was	_
@@ -429,6 +443,7 @@
 14-25	2557-2568	participant	_
 14-26	2569-2570	.	_
 
+Text=Procedure Participants were scanned on two occasions.
 15-1	2571-2580	Procedure	_
 15-2	2581-2593	Participants	_
 15-3	2594-2598	were	_
@@ -438,6 +453,7 @@
 15-7	2614-2623	occasions	_
 15-8	2624-2625	.	_
 
+Text=On one occasion, they were instructed to refrain from smoking for at least 10 h before the experiment.
 16-1	2626-2628	On	_
 16-2	2629-2632	one	_
 16-3	2633-2641	occasion	_
@@ -459,6 +475,7 @@
 16-19	2718-2728	experiment	_
 16-20	2729-2730	.	_
 
+Text=On the other occasion, participants were allowed to smoke ad libitum and were specifically asked to smoke a cigarette just before entering the lab in order to achieve maximal satiation.
 17-1	2731-2733	On	_
 17-2	2734-2737	the	_
 17-3	2738-2743	other	_
@@ -492,6 +509,7 @@
 17-31	2907-2916	satiation	_
 17-32	2917-2918	.	_
 
+Text=The order of the sessions was randomized across subjects.
 18-1	2919-2922	The	_
 18-2	2923-2928	order	_
 18-3	2929-2931	of	_
@@ -503,6 +521,7 @@
 18-9	2967-2975	subjects	_
 18-10	2976-2977	.	_
 
+Text=Upon entering the lab, smoking status was verified by exhaled carbon monoxide measurement.
 19-1	2978-2982	Upon	_
 19-2	2983-2991	entering	_
 19-3	2992-2995	the	_
@@ -519,6 +538,7 @@
 19-14	3057-3068	measurement	_
 19-15	3069-3070	.	_
 
+Text=In addition, participants reported at what time they had smoked their most recent cigarette.
 20-1	3071-3073	In	_
 20-2	3074-3082	addition	_
 20-3	3083-3084	,	_
@@ -536,6 +556,7 @@
 20-15	3154-3163	cigarette	_
 20-16	3164-3165	.	_
 
+Text=Furthermore, they filled out the Fagerström Test for Nicotine Dependence (FTND) (Heatherton et al.
 21-1	3166-3177	Furthermore	_
 21-2	3178-3179	,	_
 21-3	3180-3184	they	_
@@ -556,6 +577,7 @@
 21-18	3265-3267	al	_
 21-19	3268-3269	.	_
 
+Text=), the Minnesota Nicotine Withdrawal Scale (MNWS) (Cappelleri et al.)
 22-1	3270-3271	)	_
 22-2	3272-3273	,	_
 22-3	3274-3277	the	_
@@ -573,6 +595,7 @@
 22-15	3342-3343	.	_
 22-16	3344-3345	)	_
 
+Text=and an MRI eligibility check.
 23-1	3346-3349	and	_
 23-2	3350-3352	an	_
 23-3	3353-3356	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -580,6 +603,7 @@
 23-5	3369-3374	check	_
 23-6	3375-3376	.	_
 
+Text=Localizer run An independent functional localizer run preceded the experiment to localize object-sensitive regions of the brain.
 24-1	3377-3386	Localizer	_
 24-2	3387-3390	run	_
 24-3	3391-3393	An	_
@@ -599,6 +623,7 @@
 24-17	3499-3504	brain	_
 24-18	3505-3506	.	_
 
+Text=Participants were presented with 12 blocks of 10-Gy-scale pictures of common objects and 12 blocks of scrambled versions of the same pictures, all equalized for luminance.
 25-1	3507-3519	Participants	_
 25-2	3520-3524	were	_
 25-3	3525-3534	presented	_
@@ -628,6 +653,7 @@
 25-27	3669-3678	luminance	_
 25-28	3679-3680	.	_
 
+Text=All pictures were presented for 1200 ms with an inter-stimulus interval of 600 ms.
 26-1	3681-3684	All	_
 26-2	3685-3693	pictures	_
 26-3	3694-3698	were	_
@@ -644,6 +670,7 @@
 26-14	3760-3762	ms	_
 26-15	3763-3764	.	_
 
+Text=Stimulus blocks were presented in random order and interleaved with fixation blocks of 12,600 ms.
 27-1	3765-3773	Stimulus	_
 27-2	3774-3780	blocks	_
 27-3	3781-3785	were	_
@@ -661,6 +688,7 @@
 27-15	3859-3861	ms	_
 27-16	3862-3863	.	_
 
+Text=Experimental run Stimuli for this run consisted of coloured pictures of cigarettes, pencils and chairs in similar colours, presented centrally on a white background.
 28-1	3864-3876	Experimental	_
 28-2	3877-3880	run	_
 28-3	3881-3888	Stimuli	_
@@ -689,6 +717,7 @@
 28-26	4020-4030	background	_
 28-27	4031-4032	.	_
 
+Text=Participants were presented with three runs, consisting of eight blocks of eight pictures of either cigarettes or pencils or chairs.
 29-1	4033-4045	Participants	_
 29-2	4046-4050	were	_
 29-3	4051-4060	presented	_
@@ -712,6 +741,7 @@
 29-21	4159-4165	chairs	_
 29-22	4166-4167	.	_
 
+Text=Pictures were presented for 1500 ms with a 50-ms inter-stimulus interval.
 30-1	4168-4176	Pictures	_
 30-2	4177-4181	were	_
 30-3	4182-4191	presented	_
@@ -725,6 +755,7 @@
 30-11	4232-4240	interval	_
 30-12	4241-4242	.	_
 
+Text=Stimulus blocks were presented in random order and interchanged with intervals of 10, 12 or 14 s of rest (see Fig.
 31-1	4243-4251	Stimulus	_
 31-2	4252-4258	blocks	_
 31-3	4259-4263	were	_
@@ -750,10 +781,12 @@
 31-23	4355-4358	Fig	_
 31-24	4359-4360	.	_
 
+Text=1).
 32-1	4361-4362	1	_
 32-2	4363-4364	)	_
 32-3	4365-4366	.	_
 
+Text=These intervals allowed the blood oxygenated level-dependent (BOLD) response elicited by the previous stimulus block to return back to baseline before the onset of the adjacent block.
 33-1	4367-4372	These	_
 33-2	4373-4382	intervals	_
 33-3	4383-4390	allowed	_
@@ -785,6 +818,7 @@
 33-29	4546-4551	block	_
 33-30	4552-4553	.	_
 
+Text=To ensure attention to the pictures, participants had to respond to catch trials in which presentation of the preceding picture was repeated.
 34-1	4554-4556	To	_
 34-2	4557-4563	ensure	_
 34-3	4564-4573	attention	_
@@ -810,6 +844,7 @@
 34-23	4687-4695	repeated	_
 34-24	4696-4697	.	_
 
+Text=Imaging data acquisition Functional and anatomical images were acquired in a 3-T Siemens Prisma Scanner (Siemens Medical Solutions, Germany) using a 64-channel head coil.
 35-1	4698-4705	Imaging	_
 35-2	4706-4710	data	_
 35-3	4711-4722	acquisition	_
@@ -839,6 +874,7 @@
 35-27	4866-4870	coil	_
 35-28	4871-4872	.	_
 
+Text=For the localizer run, functional images were obtained for 33 contiguous axial slices (voxel size = 3 × 3 × 3 mm) using a standard gradient echo planar imaging (EPI) sequence (repetition time [TR] = 1800 ms, echo time [TE] = 30 ms, matrix size = 72 × 72, flip angle [FA] = 77°).
 36-1	4873-4876	For	_
 36-2	4877-4880	the	_
 36-3	4881-4890	localizer	_
@@ -911,6 +947,7 @@
 36-70	5165-5166	)	_
 36-71	5167-5168	.	_
 
+Text=Functional images for the experimental runs were also acquired with an EPI sequence (TR = 2000 ms, TE = 30 ms, matrix size = 72 × 72, FA = 77°), but for 36 contiguous axial slices (voxel size = 3 × 3 × 3 mm).
 37-1	5169-5179	Functional	_
 37-2	5180-5186	images	_
 37-3	5187-5190	for	_
@@ -966,6 +1003,7 @@
 37-53	5383-5384	)	_
 37-54	5385-5386	.	_
 
+Text=Both functional measurements covered as much as possible the entire cortical volume.
 38-1	5387-5391	Both	_
 38-2	5392-5402	functional	_
 38-3	5403-5415	measurements	_
@@ -980,6 +1018,7 @@
 38-12	5464-5470	volume	_
 38-13	5471-5472	.	_
 
+Text=Whole brain structural images were acquired using a 1 × 1 × 1 mm resolution T1-weighted MPRAGE sequence ([TR] = 2250 ms, [TE] = 2.21 ms, [FA] = 9°).
 39-1	5473-5478	Whole	_
 39-2	5479-5484	brain	_
 39-3	5485-5495	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1021,6 +1060,7 @@
 39-39	5629-5630	)	_
 39-40	5631-5632	.	_
 
+Text=The first two volumes of all functional runs were discarded because of possible T1 saturation.
 40-1	5633-5636	The	_
 40-2	5637-5642	first	_
 40-3	5643-5646	two	_
@@ -1038,6 +1078,7 @@
 40-15	5716-5726	saturation	_
 40-16	5727-5728	.	_
 
+Text=Participants were placed in supine position on the scanner bed, and their heads were fixated with foam pads.
 41-1	5729-5741	Participants	_
 41-2	5742-5746	were	_
 41-3	5747-5753	placed	_
@@ -1059,6 +1100,7 @@
 41-19	5833-5837	pads	_
 41-20	5838-5839	.	_
 
+Text=Stimuli were projected on a screen at the back of the scanner bore, and were visible to the participants through a mirror attached to the head coil.
 42-1	5840-5847	Stimuli	_
 42-2	5848-5852	were	_
 42-3	5853-5862	projected	_
@@ -1089,6 +1131,7 @@
 42-28	5984-5988	coil	_
 42-29	5989-5990	.	_
 
+Text=Responses were made with a hand-held button box.
 43-1	5991-6000	Responses	_
 43-2	6001-6005	were	_
 43-3	6006-6010	made	_
@@ -1099,6 +1142,7 @@
 43-8	6035-6038	box	_
 43-9	6039-6040	.	_
 
+Text=Stimulus presentation was accomplished with Presentation software (Neurobehavioral Systems Inc., Albany, CA) for the localizer run and E-Prime® (Psychology Software Tools, Inc. Sharpsburg, PA) for the experimental runs and was synchronized to the MR data acquisition.
 44-1	6041-6049	Stimulus	_
 44-2	6050-6062	presentation	_
 44-3	6063-6066	was	_
@@ -1145,6 +1189,7 @@
 44-44	6304-6315	acquisition	_
 44-45	6316-6317	.	_
 
+Text=Analyses Imaging data was pre-processed and analysed using BrainVoyager QX version 2.8 (Brain Innovation, Maastricht, The Netherlands) and Matlab R2014b (MathWorks Inc., Natick, MA).
 45-1	6318-6326	Analyses	_
 45-2	6327-6334	Imaging	_
 45-3	6335-6339	data	_
@@ -1179,6 +1224,7 @@
 45-32	6506-6507	)	_
 45-33	6508-6509	.	_
 
+Text=First, functional images were corrected for possible susceptibility-induced EPI distortions by using B0 fieldmaps and the BrainVoyager QX plugin anatabacus (Breman et al .).
 46-1	6510-6515	First	_
 46-2	6516-6517	,	_
 46-3	6518-6528	functional	_
@@ -1208,6 +1254,7 @@
 46-27	6684-6685	)	_
 46-28	6686-6687	.	_
 
+Text=The functional data were then corrected for slice scan-time differences and 3D head motion (six parameters).
 47-1	6688-6691	The	_
 47-2	6692-6702	functional	_
 47-3	6703-6707	data	_
@@ -1228,6 +1275,7 @@
 47-18	6796-6797	)	_
 47-19	6798-6799	.	_
 
+Text=In order to enhance the subsequent alignment of the functional images to the anatomical volume, the first and third runs were corrected with the second run as intra-session reference, as the acquisition of this run was temporally adjacent to the anatomical scan.
 48-1	6800-6802	In	_
 48-2	6803-6808	order	_
 48-3	6809-6811	to	_
@@ -1274,6 +1322,7 @@
 48-44	7059-7063	scan	_
 48-45	7064-7065	.	_
 
+Text=Subsequently, linear trends and low-frequency temporal drifts were removed from the data using a high-pass filter, removing temporal frequencies below 6 cycles per run.
 49-1	7066-7078	Subsequently	_
 49-2	7079-7080	,	_
 49-3	7081-7087	linear	_
@@ -1302,6 +1351,7 @@
 49-26	7232-7235	run	_
 49-27	7236-7237	.	_
 
+Text=The resulting functional data were co-registered to the anatomical volume and transformed to Talairach space.
 50-1	7238-7241	The	_
 50-2	7242-7251	resulting	_
 50-3	7252-7262	functional	_
@@ -1319,6 +1369,7 @@
 50-15	7341-7346	space	_
 50-16	7347-7348	.	_
 
+Text=To further reduce the effects of motion-related variability (‘ spikes ’), a custom Matlab algorithm was applied that for each volume computed the percentage of voxels exceeded the voxel mean intensity by more than 4 standard deviations.
 51-1	7349-7351	To	_
 51-2	7352-7359	further	_
 51-3	7360-7366	reduce	_
@@ -1361,6 +1412,7 @@
 51-40	7577-7587	deviations	_
 51-41	7588-7589	.	_
 
+Text=Volumes with more than 2% extreme voxels were labelled as affected by ‘ excessive ’ motion.
 52-1	7590-7597	Volumes	_
 52-2	7598-7602	with	_
 52-3	7603-7607	more	_
@@ -1380,6 +1432,7 @@
 52-17	7675-7681	motion	_
 52-18	7682-7683	.	_
 
+Text=These volumes were replaced by new values derived from a voxel-wise spline interpolation between the volumes that temporally bordered the removed volumes.
 53-1	7684-7689	These	_
 53-2	7690-7697	volumes	_
 53-3	7698-7702	were	_
@@ -1404,6 +1457,7 @@
 53-22	7830-7837	volumes	_
 53-23	7838-7839	.	_
 
+Text=In case the excessive volumes were at the beginning or end of the run, the volumes were simply removed.
 54-1	7840-7842	In	_
 54-2	7843-7847	case	_
 54-3	7848-7851	the	_
@@ -1426,6 +1480,7 @@
 54-20	7936-7943	removed	_
 54-21	7944-7945	.	_
 
+Text=A standard whole brain univariate random effects GLM analysis was performed to localize bilateral LOC clusters for each subject.
 55-1	7946-7947	A	_
 55-2	7948-7956	standard	_
 55-3	7957-7962	whole	_
@@ -1447,6 +1502,7 @@
 55-19	8066-8073	subject	_
 55-20	8074-8075	.	_
 
+Text=The locations of the object selective regions of interest (ROIs) were determined based on a conjunction contrast and anatomical criteria.
 56-1	8076-8079	The	_
 56-2	8080-8089	locations	_
 56-3	8090-8092	of	_
@@ -1471,6 +1527,7 @@
 56-22	8206-8214	criteria	_
 56-23	8215-8216	.	_
 
+Text=We selected voxels within the bilateral ventral occipito-temporal cortex that showed a significant response (Bonferroni corrected) in the conjunction analysis between an object-responsive contrast (objects> scrambled objects) and an object-positive contrast (objects> baseline).
 57-1	8217-8219	We	_
 57-2	8220-8228	selected	_
 57-3	8229-8235	voxels	_
@@ -1514,6 +1571,7 @@
 57-41	8501-8502	)	_
 57-42	8503-8504	.	_
 
+Text=The experimental runs were analysed through a pattern classification approach (Cox and Savoy) using custom written code in Matlab.
 58-1	8505-8508	The	_
 58-2	8509-8521	experimental	_
 58-3	8522-8526	runs	_
@@ -1537,6 +1595,7 @@
 58-21	8630-8636	Matlab	_
 58-22	8637-8638	.	_
 
+Text=The pseudocode of this analysis is provided as a supplement.
 59-1	8639-8642	The	_
 59-2	8643-8653	pseudocode	_
 59-3	8654-8656	of	_
@@ -1549,6 +1608,7 @@
 59-10	8688-8698	supplement	_
 59-11	8699-8700	.	_
 
+Text=This analysis was confined to the resulting voxels from the analysis of the localizer run.
 60-1	8701-8705	This	_
 60-2	8706-8714	analysis	_
 60-3	8715-8718	was	_
@@ -1566,6 +1626,7 @@
 60-15	8787-8790	run	_
 60-16	8791-8792	.	_
 
+Text=First, for each voxel within the region of interest, individual responses to the experimental blocks were estimated by fitting a double-gamma haemodynamic response function (HRF) to the voxel ’ s time course, using the resulting beta as block estimate.
 61-1	8793-8798	First	_
 61-2	8799-8800	,	_
 61-3	8801-8804	for	_
@@ -1612,6 +1673,7 @@
 61-44	9041-9049	estimate	_
 61-45	9050-9051	.	_
 
+Text=For each ROI and each condition, this resulted in a matrix with dimensions V × B, where V represents the number of voxels, and B stands for the number of blocks.
 62-1	9052-9055	For	_
 62-2	9056-9060	each	_
 62-3	9061-9064	ROI	_
@@ -1648,6 +1710,7 @@
 62-34	9209-9215	blocks	_
 62-35	9216-9217	.	_
 
+Text=These matrices capture the fine-grained neural information about the conditions that may be apparent in the response patterns.
 63-1	9218-9223	These	_
 63-2	9224-9232	matrices	_
 63-3	9233-9240	capture	_
@@ -1668,6 +1731,7 @@
 63-18	9335-9343	patterns	_
 63-19	9344-9345	.	_
 
+Text=The blocks were labelled according to their corresponding condition (cigarette, pencil, chair) and normalized (z-scored) so as to obtain a mean response of 0 and standard deviation of 1 across all voxels within our region of interest.
 64-1	9346-9349	The	_
 64-2	9350-9356	blocks	_
 64-3	9357-9361	were	_
@@ -1713,6 +1777,7 @@
 64-43	9577-9585	interest	_
 64-44	9586-9587	.	_
 
+Text=The analysis was run using a leave-1-run-out cross-validation.
 65-1	9588-9591	The	_
 65-2	9592-9600	analysis	_
 65-3	9601-9604	was	_
@@ -1723,6 +1788,7 @@
 65-8	9633-9649	cross-validation	_
 65-9	9650-9651	.	_
 
+Text=This entails that the classification algorithm was trained on two out of three runs, and its generalization performance tested on the run that was left out.
 66-1	9652-9656	This	_
 66-2	9657-9664	entails	_
 66-3	9665-9669	that	_
@@ -1752,6 +1818,7 @@
 66-27	9805-9808	out	_
 66-28	9809-9810	.	_
 
+Text=This procedure is repeated three times, ensuring that each run is once used for testing, after which the three prediction accuracies are averaged.
 67-1	9811-9815	This	_
 67-2	9816-9825	procedure	_
 67-3	9826-9828	is	_
@@ -1779,6 +1846,7 @@
 67-25	9950-9958	averaged	_
 67-26	9959-9960	.	_
 
+Text=First, for the cigarette and pencil conditions, the dataset was split into a training set consisting of two runs (i.e.
 68-1	9961-9966	First	_
 68-2	9967-9968	,	_
 68-3	9969-9972	for	_
@@ -1804,6 +1872,7 @@
 68-23	10078-10081	i.e	_
 68-24	10082-10083	.	_
 
+Text=16 examples) per condition and a test set consisting of one run (i.e.
 69-1	10084-10086	16	_
 69-2	10087-10095	examples	_
 69-3	10096-10097	)	_
@@ -1821,6 +1890,7 @@
 69-15	10151-10154	i.e	_
 69-16	10155-10156	.	_
 
+Text=8 examples) per condition.
 70-1	10157-10158	8	_
 70-2	10159-10167	examples	_
 70-3	10168-10169	)	_
@@ -1828,6 +1898,7 @@
 70-5	10174-10183	condition	_
 70-6	10184-10185	.	_
 
+Text=The labelled training trials were submitted to a linear support vector machine classifier (C = 1) (Cortes and Vapnik; Mourão-Miranda et al.
 71-1	10186-10189	The	_
 71-2	10190-10198	labelled	_
 71-3	10199-10207	training	_
@@ -1856,12 +1927,14 @@
 71-26	10326-10328	al	_
 71-27	10329-10330	.	_
 
+Text=; Formisano et al.
 72-1	10331-10332	;	_
 72-2	10333-10342	Formisano	_
 72-3	10343-10345	et	_
 72-4	10346-10348	al	_
 72-5	10349-10350	.	_
 
+Text=), which performs binary classification on a dataset by placing all cases in a multidimensional space.
 73-1	10351-10352	)	_
 73-2	10353-10354	,	_
 73-3	10355-10360	which	_
@@ -1881,6 +1954,7 @@
 73-17	10448-10453	space	_
 73-18	10454-10455	.	_
 
+Text=Each individual block (or example) is expressed as a vector of N features (voxels) in the N-dimensional space.
 74-1	10456-10460	Each	_
 74-2	10461-10471	individual	_
 74-3	10472-10477	block	_
@@ -1905,6 +1979,7 @@
 74-22	10564-10569	space	_
 74-23	10570-10571	.	_
 
+Text=This creates two ‘ clouds ’ of block vectors in the multidimensional space, one for each condition tested.
 75-1	10572-10576	This	_
 75-2	10577-10584	creates	_
 75-3	10585-10588	two	_
@@ -1926,6 +2001,7 @@
 75-19	10672-10678	tested	_
 75-20	10679-10680	.	_
 
+Text=The algorithm then attempts to define an optimal separation boundary, or hyperplane, between the two classes, given the training data.
 76-1	10681-10684	The	_
 76-2	10685-10694	algorithm	_
 76-3	10695-10699	then	_
@@ -1951,6 +2027,7 @@
 76-23	10813-10817	data	_
 76-24	10818-10819	.	_
 
+Text=The generalizability of the trained classifier is then subsequently assessed by feeding the independent and unlabelled test blocks from the left-out run to the algorithm.
 77-1	10820-10823	The	_
 77-2	10824-10840	generalizability	_
 77-3	10841-10843	of	_
@@ -1978,6 +2055,7 @@
 77-25	10980-10989	algorithm	_
 77-26	10990-10991	.	_
 
+Text=The accuracy at which the classifier is able to determine the correct labels from these trials given only the response patterns is an indication of successful learning of the algorithm.
 78-1	10992-10995	The	_
 78-2	10996-11004	accuracy	_
 78-3	11005-11007	at	_
@@ -2010,6 +2088,7 @@
 78-30	11167-11176	algorithm	_
 78-31	11177-11178	.	_
 
+Text=This, in turn, reflects a meaningful difference in spatial patterns of neural activity elicited by the two conditions.
 79-1	11179-11183	This	_
 79-2	11184-11185	,	_
 79-3	11186-11188	in	_
@@ -2032,6 +2111,7 @@
 79-20	11288-11298	conditions	_
 79-21	11299-11300	.	_
 
+Text=In order to statistically quantify the prediction results, we empirically estimated the distribution of prediction accuracies under the null hypothesis by a bootstrapping approach: instead of training the classifier on voxel patterns and corresponding class labels, we pseudo randomly assigned the labels to the patterns (randomization of labels per run).
 80-1	11301-11303	In	_
 80-2	11304-11309	order	_
 80-3	11310-11312	to	_
@@ -2089,6 +2169,7 @@
 80-55	11659-11660	)	_
 80-56	11661-11662	.	_
 
+Text=The classifier then learned the arbitrary relationship between patterns and classes.
 81-1	11663-11666	The	_
 81-2	11667-11677	classifier	_
 81-3	11678-11682	then	_
@@ -2102,6 +2183,7 @@
 81-11	11739-11746	classes	_
 81-12	11747-11748	.	_
 
+Text=By feeding the test trials to the model, we obtained a prediction accuracy under the null hypothesis.
 82-1	11749-11751	By	_
 82-2	11752-11759	feeding	_
 82-3	11760-11763	the	_
@@ -2122,6 +2204,7 @@
 82-18	11840-11850	hypothesis	_
 82-19	11851-11852	.	_
 
+Text=Repeating this 1000 times yields the distribution of prediction accuracies under the null hypothesis.
 83-1	11853-11862	Repeating	_
 83-2	11863-11867	this	_
 83-3	11868-11872	1000	_
@@ -2138,6 +2221,7 @@
 83-14	11943-11953	hypothesis	_
 83-15	11954-11955	.	_
 
+Text=This entire analysis was repeated for the cigarette and chair, and pencil and chair classes.
 84-1	11956-11960	This	_
 84-2	11961-11967	entire	_
 84-3	11968-11976	analysis	_
@@ -2156,6 +2240,7 @@
 84-16	12041-12048	classes	_
 84-17	12049-12050	.	_
 
+Text=Finally, a non-parametric Wilcoxon signed-rank test (Wilcoxon) was performed to statistically test the mean prediction accuracies against the permutations, and to test the difference between the deprivation and satiation sessions.
 85-1	12051-12058	Finally	_
 85-2	12059-12060	,	_
 85-3	12061-12062	a	_
@@ -2192,6 +2277,7 @@
 85-34	12276-12284	sessions	_
 85-35	12285-12286	.	_
 
+Text=Resulting p values were corrected for multiple comparisons by computing the false discovery rate (FDR) using q = 0.05.
 86-1	12287-12296	Resulting	_
 86-2	12297-12298	p	_
 86-3	12299-12305	values	_
@@ -2215,6 +2301,7 @@
 86-21	12402-12406	0.05	_
 86-22	12407-12408	.	_
 
+Text=In order to test the variables for possible interaction effects, we computed the two-way F-statistic using a repeated-measures ANOVA with the factors deprivation state (2) × stimulus type (3).
 87-1	12409-12411	In	_
 87-2	12412-12417	order	_
 87-3	12418-12420	to	_
@@ -2251,6 +2338,7 @@
 87-34	12604-12605	)	_
 87-35	12606-12607	.	_
 
+Text=Then, we permuted the 2 × 3 condition labels across participants and recomputed the F-statistic in 10,000 iterations, creating the distribution of F under the null hypothesis (Suckling and Bullmore).
 88-1	12608-12612	Then	_
 88-2	12613-12614	,	_
 88-3	12615-12617	we	_
@@ -2287,6 +2375,7 @@
 88-34	12809-12810	)	_
 88-35	12811-12812	.	_
 
+Text=The probability of finding the true interaction F-statistic under the assumption that the H0 is true was subsequently derived from the permuted F-distribution.
 89-1	12813-12816	The	_
 89-2	12817-12828	probability	_
 89-3	12829-12831	of	_
@@ -2312,6 +2401,7 @@
 89-23	12957-12971	F-distribution	_
 89-24	12972-12973	.	_
 
+Text=A priori planned comparisons between the satiated and deprived conditions were made for each stimulus category, regardless of the outcome of the corresponding overall interaction test.
 90-1	12974-12975	A	_
 90-2	12976-12982	priori	_
 90-3	12983-12990	planned	_
@@ -2341,6 +2431,7 @@
 90-27	13154-13158	test	_
 90-28	13159-13160	.	_
 
+Text=This is a legitimate procedure if the comparisons are suggested by the theoretical basis of the experiment (Winer).
 91-1	13161-13165	This	_
 91-2	13166-13168	is	_
 91-3	13169-13170	a	_
@@ -2363,6 +2454,7 @@
 91-20	13276-13277	)	_
 91-21	13278-13279	.	_
 
+Text=Access to the Matlab codes used in this study will be provided upon individual request.
 92-1	13280-13286	Access	_
 92-2	13287-13289	to	_
 92-3	13290-13293	the	_

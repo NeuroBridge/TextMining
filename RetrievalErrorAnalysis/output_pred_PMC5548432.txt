@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Functional neural changes following behavioral therapies and disulfiram for cocaine dependence A growing literature exists on neural correlates of treatment outcome.
 1-1	0-10	Functional	_
 1-2	11-17	neural	_
 1-3	18-25	changes	_
@@ -25,6 +26,7 @@
 1-21	157-164	outcome	_
 1-22	165-166	.	_
 
+Text=However, different types - or components of - treatment have distinct theorized mechanisms of action.
 2-1	167-174	However	_
 2-2	175-176	,	_
 2-3	177-186	different	_
@@ -43,6 +45,7 @@
 2-16	262-268	action	_
 2-17	269-270	.	_
 
+Text=And, it is not yet known how changes in neural activity across treatment relate to engagement in different treatment components.
 3-1	271-274	And	_
 3-2	275-276	,	_
 3-3	277-279	it	_
@@ -66,6 +69,7 @@
 3-21	389-399	components	_
 3-22	400-401	.	_
 
+Text=Participants with cocaine-use disorders in a randomized clinical trial received cognitive behavioral therapy (CBT) plus, in a 2×2 design, contingency management (CM) or no-CM, and disulfiram or placebo.
 4-1	402-414	Participants	_
 4-2	415-419	with	http://maven.renci.org/NeuroBridge/neurobridge#SubjectwithoutDisorder
 4-3	420-431	cocaine-use	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
@@ -103,6 +107,7 @@
 4-35	603-610	placebo	_
 4-36	611-612	.	_
 
+Text=Participants performed an fMRI Stroop Task, a measure of cognitive-control, at the beginning of and after the 12-week treatment.
 5-1	613-625	Participants	_
 5-2	626-635	performed	_
 5-3	636-638	an	_
@@ -126,6 +131,7 @@
 5-21	733-742	treatment	_
 5-22	743-744	.	_
 
+Text=Analyses assessed changes in Stroop-related neural activity within the sample overall and assessed how changes in Stroop-related activity correlated with measures of treatment process specific to each form of treatment (i.e., participation in CBT sessions, receipt of CM prizes, administration of disulfiram pills).
 6-1	745-753	Analyses	_
 6-2	754-762	assessed	_
 6-3	763-770	changes	_
@@ -176,6 +182,7 @@
 6-48	1063-1064	)	_
 6-49	1065-1066	.	_
 
+Text=Within the sample overall, compared to beginning-of-treatment, post-treatment Stroop-related neural activity was diminished in hippocampus, thalamus, cingulate, precentral, post/precentral gyrus, and precuneus and culmen regions (pFWE <.05).
 7-1	1067-1073	Within	_
 7-2	1074-1077	the	_
 7-3	1078-1084	sample	_
@@ -215,6 +222,7 @@
 7-37	1316-1317	)	_
 7-38	1318-1319	.	_
 
+Text=In separate whole-brain correlation analyses, greater reductions in Stroop-related activity were associated with more treatment engagement: ‘ CBT sessions ’ with precentral gyrus, inferior parietal lobule, middle and medial frontal gyrus; ‘ CM prizes ’ with postcentral frontal gyrus.
 8-1	1320-1322	In	_
 8-2	1323-1331	separate	_
 8-3	1332-1343	whole-brain	_
@@ -261,6 +269,7 @@
 8-44	1603-1608	gyrus	_
 8-45	1609-1610	.	_
 
+Text=Disulfiram ‘ medication days ’ were not associated with changes in Stroop-related activity.
 9-1	1611-1621	Disulfiram	_
 9-2	1622-1623	‘	_
 9-3	1624-1634	medication	_
@@ -276,6 +285,7 @@
 9-13	1693-1701	activity	_
 9-14	1702-1703	.	_
 
+Text=Findings suggest key process indicators of CBT and CM may be associated with functional changes in cognitive-control-related neurocircuitry.
 10-1	1704-1712	Findings	_
 10-2	1713-1720	suggest	_
 10-3	1721-1724	key	_
@@ -296,6 +306,7 @@
 10-18	1829-1843	neurocircuitry	_
 10-19	1844-1845	.	_
 
+Text=Materials and Methods Participants Treatment-seeking participants were recruited to the fMRI study prior to treatment randomization in an RCT for CUD.
 11-1	1846-1855	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	1856-1859	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	1860-1867	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -319,6 +330,7 @@
 11-21	1992-1995	CUD	_
 11-22	1996-1997	.	_
 
+Text=Participants were 18 years or older, recruited from a community-based outpatient treatment center, met DSM-IV criteria for current cocaine dependence and did not meet current dependence criteria for other illicit drugs.
 12-1	1998-2010	Participants	_
 12-2	2011-2015	were	_
 12-3	2016-2018	18	_
@@ -354,6 +366,7 @@
 12-33	2213-2218	drugs	_
 12-34	2219-2220	.	_
 
+Text=Other exclusion criteria included lifetime psychotic or bipolar disorder, current suicidal or homicidal ideation or current medical condition that would contraindicate disulfiram treatment (e.g.
 13-1	2221-2226	Other	_
 13-2	2227-2236	exclusion	_
 13-3	2237-2245	criteria	_
@@ -382,6 +395,7 @@
 13-26	2413-2416	e.g	_
 13-27	2417-2418	.	_
 
+Text=hepatic or cardiac problems, hypertension, pregnancy).
 14-1	2419-2426	hepatic	_
 14-2	2427-2429	or	_
 14-3	2430-2437	cardiac	_
@@ -393,6 +407,7 @@
 14-9	2474-2475	)	_
 14-10	2476-2477	.	_
 
+Text=RCT participants were offered participation in the fMRI component if they did not report claustrophobia, colorblindness, history of severe head trauma with loss of consciousness, or metallic implants contraindicated in MRI.
 15-1	2478-2481	RCT	http://maven.renci.org/NeuroBridge/neurobridge#RandomizedControlTrial
 15-2	2482-2494	participants	_
 15-3	2495-2499	were	_
@@ -429,6 +444,7 @@
 15-34	2700-2703	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 15-35	2704-2705	.	_
 
+Text=Of 99 RCT participants, 35 completed fMRI scans at in the beginning-of-treatment and following treatment.
 16-1	2706-2708	Of	_
 16-2	2709-2711	99	_
 16-3	2712-2715	RCT	_
@@ -447,6 +463,7 @@
 16-16	2802-2811	treatment	_
 16-17	2812-2813	.	_
 
+Text=26 of whom were included in the current fMRI analyses (N=9 excluded due to delayed timing of scans relative to beginning-of-treatment or post-treatment, or to insufficient treatment exposure; for details see Supplementary Materials).
 17-1	2814-2816	26	_
 17-2	2817-2819	of	_
 17-3	2820-2824	whom	_
@@ -486,6 +503,7 @@
 17-37	3049-3050	)	_
 17-38	3051-3052	.	_
 
+Text=This study was approved by a human subjects Institutional Review Board and participants provided written informed consent prior to participation.
 18-1	3053-3057	This	_
 18-2	3058-3063	study	_
 18-3	3064-3067	was	_
@@ -508,6 +526,7 @@
 18-20	3184-3197	participation	_
 18-21	3198-3199	.	_
 
+Text=Treatment and Clinical Assessments RCT methods are reported in full elsewhere.
 19-1	3200-3209	Treatment	_
 19-2	3210-3213	and	_
 19-3	3214-3222	Clinical	_
@@ -521,6 +540,7 @@
 19-11	3268-3277	elsewhere	_
 19-12	3278-3279	.	_
 
+Text=Briefly, treatment lasted 12 weeks, and all participants were offered CBT.
 20-1	3280-3287	Briefly	_
 20-2	3288-3289	,	_
 20-3	3290-3299	treatment	_
@@ -536,6 +556,7 @@
 20-13	3352-3355	CBT	_
 20-14	3356-3357	.	_
 
+Text=In addition, all participants included in the fMRI analyses were randomized to either disulfiram (N=10) or placebo (N=16) and CM (N=14) or no-CM (N=12) in a factorial design, resulting in four treatment conditions: 1) CBT+ CM + disulfiram (N=4), 2) CBT + CM + placebo (N=10), 3) CBT + disulfiram (N=6), 4) CBT + placebo (N=6).
 21-1	3358-3360	In	_
 21-2	3361-3369	addition	_
 21-3	3370-3371	,	_
@@ -620,6 +641,7 @@
 21-82	3708-3709	)	_
 21-83	3710-3711	.	_
 
+Text=Participants were asked to attend the clinic three times per week during the 12-week protocol; medication was dispensed and urine specimens were collected at each clinic visit.
 22-1	3712-3724	Participants	_
 22-2	3725-3729	were	_
 22-3	3730-3735	asked	_
@@ -650,6 +672,7 @@
 22-28	3883-3888	visit	_
 22-29	3889-3890	.	_
 
+Text=All in-person treatment delivery, tracking of treatment adherence and tracking monitoring of substance use occurred in those thrice-weekly visits.
 23-1	3891-3894	All	_
 23-2	3895-3904	in-person	_
 23-3	3905-3914	treatment	_
@@ -672,6 +695,7 @@
 23-20	4031-4037	visits	_
 23-21	4038-4039	.	_
 
+Text=Due to the limited sample sizes for the four treatment cells within the fMRI sample, analyses focused on the entire sample or comparing disulfiram versus placebo, or CM versus no-CM.
 24-1	4040-4043	Due	_
 24-2	4044-4046	to	_
 24-3	4047-4050	the	_
@@ -706,6 +730,7 @@
 24-32	4218-4223	no-CM	_
 24-33	4224-4225	.	_
 
+Text=Cognitive Behavioral Therapy (CBT) Weekly 50-minute individual CBT sessions were offered as per the CBT manual, delivered by doctoral-level clinicians with CBT experience and demonstrated competence.
 25-1	4226-4235	Cognitive	http://maven.renci.org/NeuroBridge/neurobridge#DisruptiveBehaviorDisorder
 25-2	4236-4246	Behavioral	http://maven.renci.org/NeuroBridge/neurobridge#DisruptiveBehaviorDisorder
 25-3	4247-4254	Therapy	http://maven.renci.org/NeuroBridge/neurobridge#DisruptiveBehaviorDisorder
@@ -737,6 +762,7 @@
 25-29	4417-4427	competence	_
 25-30	4428-4429	.	_
 
+Text=The primary process indicator for CBT was number of CBT sessions attended (see Table 1).
 26-1	4430-4433	The	_
 26-2	4434-4441	primary	_
 26-3	4442-4449	process	_
@@ -756,6 +782,7 @@
 26-17	4518-4519	)	_
 26-18	4520-4521	.	_
 
+Text=CBT aims to promote abstinence by teaching and promoting practice of behavioral and cognitive control strategies (e.g., coping with craving, improving decision making skills).
 27-1	4522-4525	CBT	_
 27-2	4526-4530	aims	_
 27-3	4531-4533	to	_
@@ -786,6 +813,7 @@
 27-28	4699-4700	)	_
 27-29	4701-4702	.	_
 
+Text=CBT homework, assigned at each session, offers the opportunity to practice applying the skills discussed in CBT sessions.
 28-1	4703-4706	CBT	_
 28-2	4707-4715	homework	_
 28-3	4716-4717	,	_
@@ -808,6 +836,7 @@
 28-20	4817-4825	sessions	_
 28-21	4826-4827	.	_
 
+Text=Contingency Management (CM) All participants were randomly assigned to receive contingency management (CM group) or not (no-CM group).
 29-1	4828-4839	Contingency	_
 29-2	4840-4850	Management	_
 29-3	4851-4852	(	_
@@ -834,6 +863,7 @@
 29-24	4966-4967	)	_
 29-25	4968-4969	.	_
 
+Text=Those assigned to CM could draw at least one prize chance from a bowl each time they demonstrated abstinence (submitted a cocaine-free urine specimen) or pill adherence (staff witnessed ingestion of study capsule).
 30-1	4970-4975	Those	_
 30-2	4976-4984	assigned	_
 30-3	4985-4987	to	_
@@ -873,6 +903,7 @@
 30-37	5186-5187	)	_
 30-38	5188-5189	.	_
 
+Text=Consistent with previously established procedures, the number of CM draws per reinforced behavior (abstinence, pill adherence) escalated (up to a maximum of 7 draws) with each consecutive demonstration of abstinence or adherence.
 31-1	5190-5200	Consistent	_
 31-2	5201-5205	with	_
 31-3	5206-5216	previously	_
@@ -913,6 +944,7 @@
 31-38	5415-5424	adherence	_
 31-39	5425-5426	.	_
 
+Text=If patients missed a scheduled visit or failed to submit a cocaine-negative urine, the number of prize draws for subsequent reinforced behaviors would drop back down to one (for CM methods details, see Supplementary Methods and.
 32-1	5427-5429	If	_
 32-2	5430-5438	patients	_
 32-3	5439-5445	missed	_
@@ -954,6 +986,7 @@
 32-39	5654-5657	and	_
 32-40	5658-5659	.	_
 
+Text=The primary process indicator for exposure to CM in these analyses was the sum of total prizes drawn across treatment (‘ number of CM prizes ’; Table 1).
 33-1	5660-5663	The	_
 33-2	5664-5671	primary	_
 33-3	5672-5679	process	_
@@ -987,6 +1020,7 @@
 33-31	5814-5815	)	_
 33-32	5816-5817	.	_
 
+Text=Disulfiram All participants were randomly assigned to either disulfiram (250 mg daily) or identical placebo capsules, administered in a double-blind manner.
 34-1	5818-5828	Disulfiram	_
 34-2	5829-5832	All	_
 34-3	5833-5845	participants	_
@@ -1013,6 +1047,7 @@
 34-24	5970-5976	manner	_
 34-25	5977-5978	.	_
 
+Text=This disulfiram dose was associated with reduced cocaine use in previous trials.
 35-1	5979-5983	This	_
 35-2	5984-5994	disulfiram	_
 35-3	5995-5999	dose	_
@@ -1027,6 +1062,7 @@
 35-12	6052-6058	trials	_
 35-13	6059-6060	.	_
 
+Text=Medication or placebo pill adherence was tracked by observed medication administration at thrice-weekly visits, plus patient self-report for take-home doses.
 36-1	6061-6071	Medication	_
 36-2	6072-6074	or	_
 36-3	6075-6082	placebo	_
@@ -1050,6 +1086,7 @@
 36-21	6213-6218	doses	_
 36-22	6219-6220	.	_
 
+Text=This combination of observed and self-reported adherence was used as the primary process indicator (‘ days of medication ’; Table 1) for disulfiram treatment within the group randomized to disulfiram.
 37-1	6221-6225	This	_
 37-2	6226-6237	combination	_
 37-3	6238-6240	of	_
@@ -1085,6 +1122,7 @@
 37-33	6413-6423	disulfiram	_
 37-34	6424-6425	.	_
 
+Text=A riboflavin tracer in the pills indicated high consistency with self-report.
 38-1	6426-6427	A	_
 38-2	6428-6438	riboflavin	_
 38-3	6439-6445	tracer	_
@@ -1098,6 +1136,7 @@
 38-11	6491-6502	self-report	_
 38-12	6503-6504	.	_
 
+Text=All participants were warned of negative consequences of drinking alcohol on disulfiram, strongly discouraged from drinking alcohol during the study, and told that their capsules would be withheld if their breath samples tested positive for alcohol.
 39-1	6505-6508	All	_
 39-2	6509-6521	participants	_
 39-3	6522-6526	were	_
@@ -1138,6 +1177,7 @@
 39-38	6748-6755	alcohol	_
 39-39	6756-6757	.	_
 
+Text=Substance-use assessments Baseline assessments included the Addiction Severity Index (ASI.
 40-1	6758-6771	Substance-use	_
 40-2	6772-6783	assessments	_
 40-3	6784-6792	Baseline	_
@@ -1151,6 +1191,7 @@
 40-11	6845-6848	ASI	_
 40-12	6849-6850	.	_
 
+Text=Thrice weekly during treatment, participants were assessed with urine toxicology and alcohol-breath screens, had study capsules dispensed (disulfiram or placebo) and clinical symptoms monitored.
 41-1	6851-6857	Thrice	_
 41-2	6858-6864	weekly	_
 41-3	6865-6871	during	_
@@ -1181,6 +1222,7 @@
 41-28	7039-7048	monitored	_
 41-29	7049-7050	.	_
 
+Text=Self-reports of day-by-day use of cocaine, alcohol, and other drugs were collected weekly during treatment, using the Timeline Followback method.
 42-1	7051-7063	Self-reports	_
 42-2	7064-7066	of	_
 42-3	7067-7077	day-by-day	_
@@ -1206,6 +1248,7 @@
 42-23	7192-7198	method	_
 42-24	7199-7200	.	_
 
+Text=When sessions were missed or the participant did not complete treatment, self-report data were collected for the missed data-collection days at subsequent sessions.
 43-1	7201-7205	When	_
 43-2	7206-7214	sessions	_
 43-3	7215-7219	were	_
@@ -1232,6 +1275,7 @@
 43-24	7357-7365	sessions	_
 43-25	7366-7367	.	_
 
+Text=Adverse events and blood pressure were tracked weekly during treatment.
 44-1	7368-7375	Adverse	_
 44-2	7376-7382	events	_
 44-3	7383-7386	and	_
@@ -1244,6 +1288,7 @@
 44-10	7429-7438	treatment	_
 44-11	7439-7440	.	_
 
+Text=Consistent with our prior work, primary clinical outcome variables were percent of cocaine-negative urines and self-reported days of abstinence during treatment.
 45-1	7441-7451	Consistent	_
 45-2	7452-7456	with	_
 45-3	7457-7460	our	_
@@ -1268,6 +1313,7 @@
 45-22	7593-7602	treatment	_
 45-23	7603-7604	.	_
 
+Text=Clinical Data Analyses Indicators of cocaine use within-treatment were assessed with ANOVAs including medication (disulfiram, placebo) and CM (CM, no-CM) as between-subject factors (see Table 2).
 46-1	7605-7613	Clinical	_
 46-2	7614-7618	Data	_
 46-3	7619-7627	Analyses	_
@@ -1304,6 +1350,7 @@
 46-34	7806-7807	)	_
 46-35	7808-7809	.	_
 
+Text=Clinical outcomes for the parent RCT sample are reported elsewhere.
 47-1	7810-7818	Clinical	_
 47-2	7819-7827	outcomes	_
 47-3	7828-7831	for	_
@@ -1316,6 +1363,7 @@
 47-10	7867-7876	elsewhere	_
 47-11	7877-7878	.	_
 
+Text=Briefly, there were consistent effects favoring CM over no-CM, with mixed findings for disulfiram.
 48-1	7879-7886	Briefly	_
 48-2	7887-7888	,	_
 48-3	7889-7894	there	_
@@ -1334,6 +1382,7 @@
 48-16	7968-7978	disulfiram	_
 48-17	7979-7980	.	_
 
+Text=fMRI Methods Participants were administered a measure of cognitive-control, the event-related fMRI Color-Word Stroop task, on two occasions: prior to or in the beginning-of-treatment (days between start of study treatment and ‘ beginning-of-treatment ’ scan: M=3 days, SD=5, range= 6 days prior to treatment start −12 days into treatment) and following the end of the 12-week treatment (i.e., post-treatment and prior to 3-month follow-up (days between end of treatment and post-treatment scan: M=20 days, SD=20, range=1–61 days).
 49-1	7981-7985	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 49-2	7986-7993	Methods	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 49-3	7994-8006	Participants	_
@@ -1428,6 +1477,7 @@
 49-92	8524-8525	)	_
 49-93	8526-8527	.	_
 
+Text=On each trial, participants were asked to name the ink color of color-words presented in congruent (e.g., “ RED ” in red ink) or incongruent colors (e.g., “ RED ” in blue ink; see Supplemental Methods for task details).
 50-1	8528-8530	On	_
 50-2	8531-8535	each	_
 50-3	8536-8541	trial	_
@@ -1477,6 +1527,7 @@
 50-47	8753-8754	)	_
 50-48	8755-8756	.	_
 
+Text=Stroop mean response times, collected out-of-scanner at time of scanning, were analyzed in SPSS with mixed model ANOVAs including session (beginning-of-treatment, post-treatment) and trial type (incongruent, congruent) as within-subject factors and medication (disulfiram, placebo) and CM (CM, no-CM) conditions as between-subject factors.
 51-1	8757-8763	Stroop	_
 51-2	8764-8768	mean	_
 51-3	8769-8777	response	_
@@ -1535,6 +1586,7 @@
 51-56	9102-9109	factors	_
 51-57	9110-9111	.	_
 
+Text=Stroop errors on incongruent trials were analyzed with mixed-model ANOVAs including session as a within-subject factor and medication and CM conditions as between-subject factors.
 52-1	9112-9118	Stroop	_
 52-2	9119-9125	errors	_
 52-3	9126-9128	on	_
@@ -1561,6 +1613,7 @@
 52-24	9283-9290	factors	_
 52-25	9291-9292	.	_
 
+Text=fMRI data acquisition and pre-processing steps were consistent with our prior work (e.g.,; see Supplemental Methods for details).
 53-1	9293-9297	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 53-2	9298-9302	data	_
 53-3	9303-9314	acquisition	_
@@ -1585,6 +1638,7 @@
 53-22	9424-9425	)	_
 53-23	9426-9427	.	_
 
+Text=For second-level random-effects analyses, the contrast of interest was the ‘ change in Stroop-effect ’ calculated as [(Incongruentpost> Congruentpost)> (Incongruentpre> Congruentpre)], which assessed changes in Stroop-effect-related activity at post-treatment versus beginning-of-treatment.
 54-1	9428-9431	For	_
 54-2	9432-9444	second-level	_
 54-3	9445-9459	random-effects	_
@@ -1629,6 +1683,7 @@
 54-42	9706-9728	beginning-of-treatment	_
 54-43	9729-9730	.	_
 
+Text=fMRI results were family-wise-error-corrected at two-tailed pFWE <0.05.
 55-1	9731-9735	fMRI	_
 55-2	9736-9743	results	_
 55-3	9744-9748	were	_
@@ -1640,6 +1695,7 @@
 55-9	9798-9802	0.05	_
 55-10	9803-9804	.	_
 
+Text=To address the primary research question regarding how neural correlates of cognitive-control change across treatment and how these changes relate to engagement with different treatment components, the following approach was taken.
 56-1	9805-9807	To	_
 56-2	9808-9815	address	_
 56-3	9816-9819	the	_
@@ -1674,6 +1730,7 @@
 56-32	10031-10036	taken	_
 56-33	10037-10038	.	_
 
+Text=First, changes in fMRI Stroop effect were assessed at the whole brain level (Table 3A).
 57-1	10039-10044	First	_
 57-2	10045-10046	,	_
 57-3	10047-10054	changes	_
@@ -1694,6 +1751,7 @@
 57-18	10127-10128	)	_
 57-19	10129-10130	.	_
 
+Text=Second, separate whole-brain correlation analyses were carried out between the ‘ change in Stroop effect ’ contrast and the following indicators of treatment engagement: a) CBT sessions (entire sample, N=26); b) CM prizes drawn (subsample randomized to CM, N=14); and c) days of study medication taken (subsample randomized to disulfiram, N=10) (description of variables Table 1; results Table 3B).
 58-1	10131-10137	Second	_
 58-2	10138-10139	,	_
 58-3	10140-10148	separate	_
@@ -1774,6 +1832,7 @@
 58-78	10546-10547	)	_
 58-79	10548-10549	.	_
 
+Text=All analyses were familywise error corrected for multiple comparisons (pFWE = .05) Since level of cocaine abstinence during treatment could affect ‘ change in Stroop-effect ’ across treatment, a separate whole-brain correlation was run between the ‘ change in Stroop effect ’ contrast and cocaine use within-treatment (i.e., percent days self-reported abstinence during treatment; percent cocaine-negative urines during treatment) (Table 3B).
 59-1	10550-10553	All	_
 59-2	10554-10562	analyses	_
 59-3	10563-10567	were	_
@@ -1846,6 +1905,7 @@
 59-70	10999-11000	)	_
 59-71	11001-11002	.	_
 
+Text=To check whether the regions associated with engagement in different aspects of treatment overlapped or were simply reflections of the same regions associated with cocaine abstinence during treatment, the separate correlation analyses were entered into formal conjunction analyses (see Supplemental Material for detailed methods).
 60-1	11003-11005	To	_
 60-2	11006-11011	check	_
 60-3	11012-11019	whether	_
@@ -1895,6 +1955,7 @@
 60-47	11334-11335	)	_
 60-48	11336-11337	.	_
 
+Text=For all fMRI correlation analyses, if variables were not normally distributed, rank-order correlations were used as a non-parametric alternative.
 61-1	11338-11341	For	_
 61-2	11342-11345	all	_
 61-3	11346-11350	fMRI	_
@@ -1918,6 +1979,7 @@
 61-21	11473-11484	alternative	_
 61-22	11485-11486	.	_
 
+Text=Additional analyses addressed whether ‘ change in Stroop-effect ’ differed by randomly assigned treatment condition in separate analyses: a) CM versus no-CM groups, b) disulfiram versus placebo groups.
 62-1	11487-11497	Additional	_
 62-2	11498-11506	analyses	_
 62-3	11507-11516	addressed	_
@@ -1952,6 +2014,7 @@
 62-32	11685-11691	groups	_
 62-33	11692-11693	.	_
 
+Text=Since treatment group differences in ‘ change in Stroop-effect ’ could be influenced by beginning-of-treatment group differences, potentially confounding beginning-of-treatment differences between treatment groups were assessed by comparing beginning-of-treatment Stroop-effect (Incongruentpre> Congruentpre trials) by CM (CM> no-CM) and medication (disulfiram> placebo) randomization status.
 63-1	11694-11699	Since	_
 63-2	11700-11709	treatment	_
 63-3	11710-11715	group	_

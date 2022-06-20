@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Thalamic cortical error-related responses in adult social drinkers: sex differences and problem alcohol use Background Error-related brain activities are altered in individuals with substance use disorders.
 1-1	0-8	Thalamic	_
 1-2	9-17	cortical	_
 1-3	18-31	error-related	_
@@ -31,6 +32,7 @@
 1-27	197-206	disorders	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorder
 1-28	207-208	.	_
 
+Text=Here we examined error-related activities in relation to problem drinking in nondependent alcohol drinkers.
 2-1	209-213	Here	_
 2-2	214-216	we	_
 2-3	217-225	examined	_
@@ -47,6 +49,7 @@
 2-14	307-315	drinkers	_
 2-15	316-317	.	_
 
+Text=In particular, we investigated sex differences and whether altered error responses are related to post-error behavioral control.
 3-1	318-320	In	_
 3-2	321-331	particular	_
 3-3	332-333	,	_
@@ -67,6 +70,7 @@
 3-18	439-446	control	_
 3-19	447-448	.	_
 
+Text=Methods A sample of 145 non-dependent drinkers (77 women) performed the stop signal task during fMRI.
 4-1	449-456	Methods	_
 4-2	457-458	A	_
 4-3	459-465	sample	_
@@ -87,6 +91,7 @@
 4-18	547-551	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 4-19	552-553	.	_
 
+Text=Imaging data were processed and modeled using statistical parametric mapping.
 5-1	554-561	Imaging	_
 5-2	562-566	data	_
 5-3	567-571	were	_
@@ -99,6 +104,7 @@
 5-10	623-630	mapping	_
 5-11	631-632	.	_
 
+Text=Independent sample t-test and linear regression were employed to examine sex differences in error response and relationship between error response and problem drinking.
 6-1	633-644	Independent	_
 6-2	645-651	sample	_
 6-3	652-658	t-test	_
@@ -124,6 +130,7 @@
 6-23	792-800	drinking	_
 6-24	801-802	.	_
 
+Text=Results Compared to men, women showed greater error-related (stop error> go success) activations in bilateral thalamus, right middle/superior temporal cortex and bilateral dorsal anterior cingulate cortex.
 7-1	803-810	Results	_
 7-2	811-819	Compared	_
 7-3	820-822	to	_
@@ -157,6 +164,7 @@
 7-31	1006-1012	cortex	_
 7-32	1013-1014	.	_
 
+Text=In whole-brain linear regression of error responses against the Alcohol Use Disorder Identification Test (AUDIT) score, a wide swath of cortical and subcortical regions, including the thalamus, showed decreased activation in association with problem drinking in women but not in men.
 8-1	1015-1017	In	_
 8-2	1018-1029	whole-brain	_
 8-3	1030-1036	linear	_
@@ -205,6 +213,7 @@
 8-46	1299-1302	men	_
 8-47	1303-1304	.	_
 
+Text=However, men and women were not different in the extent of post-error slowing (PES) and decreased thalamic error response in association with problem drinking was not related to the extent of PES in women.
 9-1	1305-1312	However	_
 9-2	1313-1314	,	_
 9-3	1315-1318	men	_
@@ -244,6 +253,7 @@
 9-37	1507-1512	women	_
 9-38	1513-1514	.	_
 
+Text=Conclusions The results suggest sex differences in error-related activations with heavier drinking associated with reduced error activations in women but not in men.
 10-1	1515-1526	Conclusions	_
 10-2	1527-1530	The	_
 10-3	1531-1538	results	_
@@ -269,6 +279,7 @@
 10-23	1676-1679	men	_
 10-24	1680-1681	.	_
 
+Text=These differences in cerebral activations may reflect higher physiological arousal in response to errors and greater vulnerability of saliency-related arousal response to problem drinking in female as compared to male social drinkers.
 11-1	1682-1687	These	_
 11-2	1688-1699	differences	_
 11-3	1700-1702	in	_
@@ -303,9 +314,11 @@
 11-32	1907-1915	drinkers	_
 11-33	1916-1917	.	_
 
+Text=2.
 12-1	1918-1919	2	_
 12-2	1920-1921	.	_
 
+Text=Methods 2.1 Subjects, Informed Consent, and Assessment Study participants were recruited with newspaper and radio advertisements as well as flyers posted in the greater New Haven area.
 13-1	1922-1929	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 13-2	1930-1933	2.1	_
 13-3	1934-1942	Subjects	_
@@ -337,6 +350,7 @@
 13-29	2103-2107	area	_
 13-30	2108-2109	.	_
 
+Text=All participants were free of major medical illness, past or present neurological and psychiatric illnesses including substance use disorders (SCID-I for DSM-IV), denied current use of illicit substance, and showed negative urine toxicology tests for stimulants, opioids, marijuana, and benzodiazepines at the time of MRI.
 14-1	2110-2113	All	_
 14-2	2114-2126	participants	_
 14-3	2127-2131	were	_
@@ -392,6 +406,7 @@
 14-53	2436-2439	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 14-54	2440-2441	.	_
 
+Text=Individuals who were using any psychotropic medications were not invited to participate in the study.
 15-1	2442-2453	Individuals	_
 15-2	2454-2457	who	_
 15-3	2458-2462	were	_
@@ -409,6 +424,7 @@
 15-15	2537-2542	study	_
 15-16	2543-2544	.	_
 
+Text=Pregnant or lactating women were also excluded.
 16-1	2545-2553	Pregnant	_
 16-2	2554-2556	or	_
 16-3	2557-2566	lactating	_
@@ -418,6 +434,7 @@
 16-7	2583-2591	excluded	_
 16-8	2592-2593	.	_
 
+Text=Participants were further required to be free of MRI-contraindications per Yale Magnetic Resonance Research Center's safety guidelines.
 17-1	2594-2606	Participants	_
 17-2	2607-2611	were	_
 17-3	2612-2619	further	_
@@ -438,6 +455,7 @@
 17-18	2719-2729	guidelines	_
 17-19	2730-2731	.	_
 
+Text=One hundred and forty-five social drinkers (77 women; age 31 ± 13 years; all right-handed) were included in this study.
 18-1	2732-2735	One	_
 18-2	2736-2743	hundred	_
 18-3	2744-2747	and	_
@@ -464,6 +482,7 @@
 18-24	2849-2854	study	_
 18-25	2855-2856	.	_
 
+Text=This cohort is a subsample of the 158 (86 women) social drinkers reported in our recent work, where 13 subjects participated in fMRI of a different behavioral task.
 19-1	2857-2861	This	_
 19-2	2862-2868	cohort	_
 19-3	2869-2871	is	_
@@ -497,6 +516,7 @@
 19-31	3019-3023	task	_
 19-32	3024-3025	.	_
 
+Text=All participants completed questionnaires regarding alcohol use over the past year, including average number of days of drinking and average number of drinks consumed per occasion, framed on a monthly basis, as well as the Alcohol Use Disorders Identification Test (AUDIT).
 20-1	3026-3029	All	_
 20-2	3030-3042	participants	_
 20-3	3043-3052	completed	_
@@ -545,6 +565,7 @@
 20-46	3302-3303	)	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 20-47	3304-3305	.	_
 
+Text=AUDIT score was calculated by summing subscores of ten self-report questions regarding level of alcohol use, alcohol-related problems, and concern expressed by others for one's drinking behavior.
 21-1	3306-3311	AUDIT	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 21-2	3312-3317	score	_
 21-3	3318-3321	was	_
@@ -577,6 +598,7 @@
 21-30	3495-3503	behavior	_
 21-31	3504-3505	.	_
 
+Text=Each question receives a score ranging from 0 to 4, with higher numbers corresponding to a greater level of risk for having or developing an alcohol use disorder.
 22-1	3506-3510	Each	_
 22-2	3511-3519	question	_
 22-3	3520-3528	receives	_
@@ -608,6 +630,7 @@
 22-29	3660-3668	disorder	_
 22-30	3669-3670	.	_
 
+Text=The mean (± SD) AUDIT score was 5.1 (± 4.2) across all subjects, in a range typical of non-dependent drinkers and significantly lower than those reported for alcohol dependent individuals.
 23-1	3671-3674	The	_
 23-2	3675-3679	mean	_
 23-3	3680-3681	(	_
@@ -645,6 +668,7 @@
 23-35	3852-3863	individuals	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 23-36	3864-3865	.	_
 
+Text=Participants were also assessed with the Barratt Impulsivity Scale (BIS-11) and Alcohol Expectancy Questionnaire (AEQ-3).
 24-1	3866-3878	Participants	_
 24-2	3879-3883	were	_
 24-3	3884-3888	also	_
@@ -666,6 +690,7 @@
 24-19	3989-3990	)	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 24-20	3991-3992	.	_
 
+Text=BIS-11 is a 30-item self-report questionnaire designed to measure impulsivity.
 25-1	3993-3999	BIS-11	_
 25-2	4000-4002	is	_
 25-3	4003-4004	a	_
@@ -678,6 +703,7 @@
 25-10	4059-4070	impulsivity	_
 25-11	4071-4072	.	_
 
+Text=All items are scored on a 4-point scale (1 = rarely/never; 2 = occasionally; 3 = often; 4 = almost always/always).
 26-1	4073-4076	All	_
 26-2	4077-4082	items	_
 26-3	4083-4086	are	_
@@ -706,6 +732,7 @@
 26-26	4190-4191	)	_
 26-27	4192-4193	.	_
 
+Text=The total score thus ranges from 30 to 120, with a higher score indicating higher impulsivity.
 27-1	4194-4197	The	_
 27-2	4198-4203	total	_
 27-3	4204-4209	score	_
@@ -725,6 +752,7 @@
 27-17	4277-4288	impulsivity	_
 27-18	4289-4290	.	_
 
+Text=Eleven of the 30 items are reverse scored to avoid response bias.
 28-1	4291-4297	Eleven	_
 28-2	4298-4300	of	_
 28-3	4301-4304	the	_
@@ -739,6 +767,7 @@
 28-12	4351-4355	bias	_
 28-13	4356-4357	.	_
 
+Text=The AEQ-3 consisted of 40 items to address both positive (6 subscales) and negative (2 subscales) alcohol expectancy, confirmed by factor analysis and invariant across sex and race.
 29-1	4358-4361	The	_
 29-2	4362-4367	AEQ-3	_
 29-3	4368-4377	consisted	_
@@ -774,6 +803,7 @@
 29-33	4539-4543	race	_
 29-34	4544-4545	.	_
 
+Text=Each subscale contains 4 to 6 statements that can be endorsed on a six-point scale, from “ disagree strongly ” to “ agree strongly ”.
 30-1	4546-4550	Each	_
 30-2	4551-4559	subscale	_
 30-3	4560-4568	contains	_
@@ -802,6 +832,7 @@
 30-26	4678-4679	”	_
 30-27	4680-4681	.	_
 
+Text=Despite the 8 factors identified and confirmed with factor analysis, ratings on the 8 factors are highly correlated (George et al, 1995).
 31-1	4682-4689	Despite	_
 31-2	4690-4693	the	_
 31-3	4694-4695	8	_
@@ -830,6 +861,7 @@
 31-26	4821-4822	)	_
 31-27	4823-4824	.	_
 
+Text=Thus, the authors acknowledged that the discriminant validity among the 8 subscores was at best moderate.
 32-1	4825-4829	Thus	_
 32-2	4830-4831	,	_
 32-3	4832-4835	the	_
@@ -849,6 +881,7 @@
 32-17	4922-4930	moderate	_
 32-18	4931-4932	.	_
 
+Text=Here, we used the global positive subscore to represent alcohol expectancy.
 33-1	4933-4937	Here	_
 33-2	4938-4939	,	_
 33-3	4940-4942	we	_
@@ -863,6 +896,7 @@
 33-12	4998-5008	expectancy	_
 33-13	5009-5010	.	_
 
+Text=A summary of demographic and clinical measures is presented in Table 1.
 34-1	5011-5012	A	_
 34-2	5013-5020	summary	_
 34-3	5021-5023	of	_
@@ -877,6 +911,7 @@
 34-12	5080-5081	1	_
 34-13	5082-5083	.	_
 
+Text=All subjects signed a written informed consent, in accordance to a protocol approved by the Yale Human Investigation Committee, prior to the study.
 35-1	5084-5087	All	_
 35-2	5088-5096	subjects	_
 35-3	5097-5103	signed	_
@@ -904,6 +939,7 @@
 35-25	5227-5232	study	_
 35-26	5233-5234	.	_
 
+Text=2.2 Behavioral task We employed a simple reaction time task in this stop-signal paradigm.
 36-1	5235-5238	2.2	_
 36-2	5239-5249	Behavioral	_
 36-3	5250-5254	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -920,6 +956,7 @@
 36-14	5315-5323	paradigm	http://maven.renci.org/NeuroBridge/neurobridge#SternbergItemRecognitionParadigmTask
 36-15	5324-5325	.	_
 
+Text=There were two trial types: “ go ” and “ stop, ” randomly intermixed in presentation each with a probability of 0.75 and 0.25, and with an inter-trial interval of 2 s. A small dot appeared on the screen to engage attention at the beginning of a go trial.
 37-1	5326-5331	There	_
 37-2	5332-5336	were	_
 37-3	5337-5340	two	_
@@ -974,6 +1011,7 @@
 37-52	5577-5582	trial	_
 37-53	5583-5584	.	_
 
+Text=After a randomized time interval between 1 and 5 s, drawn from a uniform distribution, the dot turned into a circle (the “ go ” signal), prompting the subjects to quickly press a button.
 38-1	5585-5590	After	_
 38-2	5591-5592	a	_
 38-3	5593-5603	randomized	_
@@ -1015,6 +1053,7 @@
 38-39	5769-5775	button	_
 38-40	5776-5777	.	_
 
+Text=The circle vanished at a button press or after 1 s has elapsed, whichever came first, and the trial terminated.
 39-1	5778-5781	The	_
 39-2	5782-5788	circle	_
 39-3	5789-5797	vanished	_
@@ -1039,6 +1078,7 @@
 39-22	5880-5890	terminated	_
 39-23	5891-5892	.	_
 
+Text=A premature button press prior to the appearance of the circle also terminated the trial.
 40-1	5893-5894	A	_
 40-2	5895-5904	premature	_
 40-3	5905-5911	button	_
@@ -1056,6 +1096,7 @@
 40-15	5976-5981	trial	_
 40-16	5982-5983	.	_
 
+Text=In a stop trial, an additional “ X, ” the “ stop ” signal, appeared after and replaced the go signal, and instructed participants to withhold their response.
 41-1	5984-5986	In	_
 41-2	5987-5988	a	_
 41-3	5989-5993	stop	_
@@ -1090,6 +1131,7 @@
 41-32	6136-6144	response	_
 41-33	6145-6146	.	_
 
+Text=Similar to go trials, a stop trial terminated at button press or 1 s after the appearance of the stop signal.
 42-1	6147-6154	Similar	_
 42-2	6155-6157	to	_
 42-3	6158-6160	go	_
@@ -1114,6 +1156,7 @@
 42-22	6250-6256	signal	_
 42-23	6257-6258	.	_
 
+Text=Failure to withhold the response for the 1 s constituted a stop error.
 43-1	6259-6266	Failure	_
 43-2	6267-6269	to	_
 43-3	6270-6278	withhold	_
@@ -1129,6 +1172,7 @@
 43-13	6323-6328	error	_
 43-14	6329-6330	.	_
 
+Text=The stop signal delay (SSD) – the time interval between go and stop signals – started at 200 ms and was adjusted according to a staircase procedure, increasing and decreasing by 67 ms each after a successful and failed stop.
 44-1	6331-6334	The	_
 44-2	6335-6339	stop	_
 44-3	6340-6346	signal	_
@@ -1174,6 +1218,7 @@
 44-43	6553-6557	stop	_
 44-44	6558-6559	.	_
 
+Text=Subjects were instructed to respond to the go signal quickly while keeping in mind that a stop signal could come up occasionally.
 45-1	6560-6568	Subjects	_
 45-2	6569-6573	were	_
 45-3	6574-6584	instructed	_
@@ -1198,6 +1243,7 @@
 45-22	6676-6688	occasionally	_
 45-23	6689-6690	.	_
 
+Text=The staircase procedure ensures that subjects would succeed in withholding their response in approximately half of the stop trials.
 46-1	6691-6694	The	_
 46-2	6695-6704	staircase	_
 46-3	6705-6714	procedure	_
@@ -1219,6 +1265,7 @@
 46-19	6815-6821	trials	_
 46-20	6822-6823	.	_
 
+Text=2.3 Analyses of behavioral performance in the stop signal task We computed a critical SSD that represents the time delay between go and stop signals that a subject would need to succeed in 50% of the stop trials.
 47-1	6824-6827	2.3	_
 47-2	6828-6836	Analyses	_
 47-3	6837-6839	of	_
@@ -1260,6 +1307,7 @@
 47-39	7030-7036	trials	_
 47-40	7037-7038	.	_
 
+Text=Specifically, SSDs across trials were grouped into runs, with each run defined as a monotonically increasing or decreasing series.
 48-1	7039-7051	Specifically	_
 48-2	7052-7053	,	_
 48-3	7054-7058	SSDs	_
@@ -1283,6 +1331,7 @@
 48-21	7164-7170	series	_
 48-22	7171-7172	.	_
 
+Text=We derived a mid-run estimate by taking the median SSD of every second run.
 49-1	7173-7175	We	_
 49-2	7176-7183	derived	_
 49-3	7184-7185	a	_
@@ -1299,6 +1348,7 @@
 49-14	7244-7247	run	_
 49-15	7248-7249	.	_
 
+Text=The critical SSD was computed by taking the mean of all mid-run SSDs.
 50-1	7250-7253	The	_
 50-2	7254-7262	critical	_
 50-3	7263-7266	SSD	_
@@ -1314,6 +1364,7 @@
 50-13	7314-7318	SSDs	_
 50-14	7319-7320	.	_
 
+Text=It was reported that, except for experiments with a small number of trials (less than 30), the mid-run estimate was close to the maximum likelihood estimate of X50 (50% positive response; i.e., 50% stop success in the SST,).
 51-1	7321-7323	It	_
 51-2	7324-7327	was	_
 51-3	7328-7336	reported	_
@@ -1365,6 +1416,7 @@
 51-49	7554-7555	)	_
 51-50	7556-7557	.	_
 
+Text=The stop signal reaction time (SSRT) was computed by subtracting the critical SSD from the median go trial RT.
 52-1	7558-7561	The	_
 52-2	7562-7566	stop	_
 52-3	7567-7573	signal	_
@@ -1388,6 +1440,7 @@
 52-21	7667-7669	RT	_
 52-22	7670-7671	.	_
 
+Text=It is known that in the SST the RT of a correct response is prolonged following a stop-error trial, compared with other correct responses, and this prolonged RT is thought to reflect error-detection and conflict monitoring (Hendrick et al., 2010).
 53-1	7672-7674	It	_
 53-2	7675-7677	is	_
 53-3	7678-7683	known	_
@@ -1435,6 +1488,7 @@
 53-45	7922-7923	)	_
 53-46	7924-7925	.	_
 
+Text=We thus compared the RT of the go trials that followed a stop-error trial and those that followed another go trial, and termed the effect size of this RT difference “ post-error slowing ” (PES).
 54-1	7926-7928	We	_
 54-2	7929-7933	thus	_
 54-3	7934-7942	compared	_
@@ -1475,6 +1529,7 @@
 54-38	8121-8122	)	_
 54-39	8123-8124	.	_
 
+Text=2.4 Image acquisition, preprocessing and statistical tests All imaging data were collected in the same 3T Siemens Trio scanner (Erlangen, Germany) while subjects performed the SST, as described in detail in our previous work.
 55-1	8125-8128	2.4	_
 55-2	8129-8134	Image	_
 55-3	8135-8146	acquisition	_
@@ -1516,6 +1571,7 @@
 55-39	8350-8354	work	_
 55-40	8355-8356	.	_
 
+Text=Each scan comprised four 10-minute runs of the SST.
 56-1	8357-8361	Each	_
 56-2	8362-8366	scan	_
 56-3	8367-8376	comprised	_
@@ -1527,6 +1583,7 @@
 56-9	8404-8407	SST	_
 56-10	8408-8409	.	_
 
+Text=Caffeine-using subjects were allowed drink coffee or other caffeinated beverages until 30 minutes before MRI.
 57-1	8410-8424	Caffeine-using	_
 57-2	8425-8433	subjects	_
 57-3	8434-8438	were	_
@@ -1544,6 +1601,7 @@
 57-15	8515-8518	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 57-16	8519-8520	.	_
 
+Text=Functional blood oxygenation-level dependent (BOLD) signals were acquired with a single-shot gradient echo echo-planar imaging sequence, with 32 axial slices parallel to the AC-PC line covering the whole brain, using published parameters: TR=2000 ms, TE=25 ms, bandwidth=2004 Hz/pixel, flip angle=85°, FOV=220×220 mm2, matrix=64×64, slice thickness=4 mm and no gap.
 58-1	8521-8531	Functional	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
 58-2	8532-8537	blood	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
 58-3	8538-8555	oxygenation-level	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
@@ -1606,6 +1664,7 @@
 58-60	8893-8896	gap	_
 58-61	8897-8898	.	_
 
+Text=A high-resolution 3D structural image (MPRAGE; 1 mm resolution) was also obtained for anatomical co-registration.
 59-1	8899-8900	A	_
 59-2	8901-8916	high-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 59-3	8917-8919	3D	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1626,6 +1685,7 @@
 59-18	8999-9014	co-registration	_
 59-19	9015-9016	.	_
 
+Text=Functional MRI data was preprocessed with Statistical Parametric Mapping 12 (SPM12) (Wellcome Department of Imaging Neuroscience, University College London, U.K.).
 60-1	9017-9027	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 60-2	9028-9031	MRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 60-3	9032-9036	data	_
@@ -1654,6 +1714,7 @@
 60-26	9184-9185	)	_
 60-27	9186-9187	.	_
 
+Text=Images from the first five TRs at the beginning of each trial were discarded so only BOLD signals in a steady state were included in analyses.
 61-1	9188-9194	Images	_
 61-2	9195-9199	from	_
 61-3	9200-9203	the	_
@@ -1682,6 +1743,7 @@
 61-26	9321-9329	analyses	_
 61-27	9330-9331	.	_
 
+Text=Images of each individual subject were first corrected for slice timing, realigned (motion-corrected).
 62-1	9332-9338	Images	_
 62-2	9339-9341	of	_
 62-3	9342-9346	each	_
@@ -1700,6 +1762,7 @@
 62-16	9435-9436	)	_
 62-17	9437-9438	.	_
 
+Text=A mean functional image volume was constructed for each subject for each run from the realigned image volumes.
 63-1	9439-9440	A	_
 63-2	9441-9445	mean	_
 63-3	9446-9456	functional	_
@@ -1720,6 +1783,7 @@
 63-18	9541-9548	volumes	_
 63-19	9549-9550	.	_
 
+Text=The anatomical images (T1-weighted) were co-registered to the mean functional image, and normalized to an MNI (Montreal Neurological Institute) template with affine registration followed by nonlinear transformation using a unified segmentation and registration approach.
 64-1	9551-9554	The	_
 64-2	9555-9565	anatomical	_
 64-3	9566-9572	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -1761,6 +1825,7 @@
 64-39	9817-9825	approach	_
 64-40	9826-9827	.	_
 
+Text=The normalization parameters determined for the anatomical volume were then applied to the corresponding functional image volumes for each subject.
 65-1	9828-9831	The	_
 65-2	9832-9845	normalization	_
 65-3	9846-9856	parameters	_
@@ -1783,6 +1848,7 @@
 65-20	9967-9974	subject	_
 65-21	9975-9976	.	_
 
+Text=Finally, images were smoothed with a Gaussian kernel of 8 mm at Full Width at Half Maximum.
 66-1	9977-9984	Finally	_
 66-2	9985-9986	,	_
 66-3	9987-9993	images	_
@@ -1803,6 +1869,7 @@
 66-18	10061-10068	Maximum	_
 66-19	10069-10070	.	_
 
+Text=Images from the first five TRs at the beginning of each session were discarded so only signals with steady-state equilibrium between radio frequency pulsing and relaxation were included in data analyses.
 67-1	10071-10077	Images	_
 67-2	10078-10082	from	_
 67-3	10083-10086	the	_
@@ -1836,6 +1903,7 @@
 67-31	10265-10273	analyses	_
 67-32	10274-10275	.	_
 
+Text=We distinguished four trial outcomes in this event-related study: go success (GS), go error, stop success (SS), and stop error (SE), and modeled BOLD signals by convolving the onsets of the go signals of each trial with a canonical hemodynamic response function (HRF) and the temporal derivative of the canonical HRF.
 68-1	10276-10278	We	_
 68-2	10279-10292	distinguished	_
 68-3	10293-10297	four	_
@@ -1902,6 +1970,7 @@
 68-64	10602-10605	HRF	_
 68-65	10606-10607	.	_
 
+Text=Realignment parameters in all six dimensions were entered in the model.
 69-1	10608-10619	Realignment	_
 69-2	10620-10630	parameters	_
 69-3	10631-10633	in	_
@@ -1915,6 +1984,7 @@
 69-11	10673-10678	model	_
 69-12	10679-10680	.	_
 
+Text=We included the following variables as parametric modulators in the model: RT of GS trials, SSD of SS trials, and SSD of SE trials, in that order.
 70-1	10681-10683	We	_
 70-2	10684-10692	included	_
 70-3	10693-10696	the	_
@@ -1948,6 +2018,7 @@
 70-31	10825-10830	order	_
 70-32	10831-10832	.	_
 
+Text=Serial autocorrelation of the time series was corrected by a first degree autoregressive or AR model.
 71-1	10833-10839	Serial	_
 71-2	10840-10855	autocorrelation	_
 71-3	10856-10858	of	_
@@ -1966,6 +2037,7 @@
 71-16	10928-10933	model	_
 71-17	10934-10935	.	_
 
+Text=The data were high- pass filtered (1/128 Hz cutoff) to remove low-frequency signal drifts.
 72-1	10936-10939	The	_
 72-2	10940-10944	data	_
 72-3	10945-10949	were	_
@@ -1984,6 +2056,7 @@
 72-16	11021-11027	drifts	_
 72-17	11028-11029	.	_
 
+Text=Group analyses were performed also using SPM12 on the error contrast maps (SE> GS) using one and two sample t-tests and multiple regressions, with age as covariate.
 73-1	11030-11035	Group	_
 73-2	11036-11044	analyses	_
 73-3	11045-11049	were	_
@@ -2017,6 +2090,7 @@
 73-31	11188-11197	covariate	_
 73-32	11198-11199	.	_
 
+Text=Specifically, we employed a whole-brain regression against AUDIT score to examine regional responses to errors in association with problem drinking for men and women separately.
 74-1	11200-11212	Specifically	_
 74-2	11213-11214	,	_
 74-3	11215-11217	we	_
@@ -2045,6 +2119,7 @@
 74-26	11367-11377	separately	_
 74-27	11378-11379	.	_
 
+Text=All group analyses were examined with a threshold of voxel p <0.001 uncorrected in combination with cluster p <0.05, FWE corrected, according to current reporting standards.
 75-1	11380-11383	All	_
 75-2	11384-11389	group	_
 75-3	11390-11398	analyses	_

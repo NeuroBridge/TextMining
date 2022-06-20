@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Load-Dependent Hyperdeactivation of the Default Mode Network in People With Schizophrenia Schizophrenia is associated with impairment in a range of cognitive functions.
 1-1	0-14	Load-Dependent	_
 1-2	15-32	Hyperdeactivation	_
 1-3	33-35	of	_
@@ -26,6 +27,7 @@
 1-22	158-167	functions	_
 1-23	168-169	.	_
 
+Text=Neuroimaging studies have reported lower, but also higher, task-induced activation accompanying impaired performance.
 2-1	170-182	Neuroimaging	_
 2-2	183-190	studies	_
 2-3	191-195	have	_
@@ -43,6 +45,7 @@
 2-15	277-288	performance	_
 2-16	289-290	.	_
 
+Text=Differences in task-load and the ability of people with schizophrenia (PSZ) to stay engaged in the cognitive operations probed appear to underlie such discrepancies.
 3-1	291-302	Differences	_
 3-2	303-305	in	_
 3-3	306-315	task-load	_
@@ -71,6 +74,7 @@
 3-26	444-457	discrepancies	_
 3-27	458-459	.	_
 
+Text=Similarly, task-induced deactivation of the default mode network (DMN) was weaker in PSZ relative to healthy control subjects (HCS) in most studies, but some reported greater deactivation.
 4-1	460-469	Similarly	_
 4-2	470-471	,	_
 4-3	472-484	task-induced	_
@@ -106,6 +110,7 @@
 4-33	641-653	deactivation	_
 4-34	654-655	.	_
 
+Text=An inability to stay engaged in the cognitive operations could account for these discrepancies, too, as it would lead to more time off-task and consequently less deactivation of DMN functions.
 5-1	656-658	An	_
 5-2	659-668	inability	_
 5-3	669-671	to	_
@@ -140,6 +145,7 @@
 5-32	840-849	functions	_
 5-33	850-851	.	_
 
+Text=The present study employed a change detection paradigm with small to moderate set sizes (SSs) of 1, 2, and 4 items.
 6-1	852-855	The	_
 6-2	856-863	present	_
 6-3	864-869	study	_
@@ -167,6 +173,7 @@
 6-25	965-970	items	_
 6-26	971-972	.	_
 
+Text=Task training prior to fMRI scanning abolished the group difference in no-response trials.
 7-1	973-977	Task	_
 7-2	978-986	training	_
 7-3	987-992	prior	_
@@ -182,6 +189,7 @@
 7-13	1056-1062	trials	_
 7-14	1063-1064	.	_
 
+Text=Task-positive regions of interest (ROIs) displayed greater activation with increasing SS in both groups.
 8-1	1065-1078	Task-positive	_
 8-2	1079-1086	regions	_
 8-3	1087-1089	of	_
@@ -200,6 +208,7 @@
 8-16	1164-1170	groups	_
 8-17	1171-1172	.	_
 
+Text=PSZ showed greater activation relative to HCS at SSs 1 and 2.
 9-1	1173-1176	PSZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 9-2	1177-1183	showed	_
 9-3	1184-1191	greater	_
@@ -214,6 +223,7 @@
 9-12	1232-1233	2	_
 9-13	1234-1235	.	_
 
+Text=DMN ROIs displayed greater deactivation with increasing SS in PSZ, but not in HCS, and PSZ tended to hyperdeactivate DMN regions at SS 4.
 10-1	1236-1239	DMN	_
 10-2	1240-1244	ROIs	_
 10-3	1245-1254	displayed	_
@@ -242,6 +252,7 @@
 10-26	1373-1374	4	_
 10-27	1375-1376	.	_
 
+Text=No hypodeactivation was observed in PSZ.
 11-1	1377-1379	No	_
 11-2	1380-1396	hypodeactivation	_
 11-3	1397-1400	was	_
@@ -250,6 +261,7 @@
 11-6	1413-1416	PSZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 11-7	1417-1418	.	_
 
+Text=In conclusion, when minimizing differences in task-engagement, PSZ tend to over-recruit task-positive regions during low-load operations, and hyperdeactivate DMN functions at higher load, perhaps reflecting heightened non-specific vigilance or effort when dealing with cognitive challenges.
 12-1	1419-1421	In	_
 12-2	1422-1432	conclusion	_
 12-3	1433-1434	,	_
@@ -291,6 +303,7 @@
 12-39	1702-1712	challenges	_
 12-40	1713-1714	.	_
 
+Text=This speaks against an inability to down-regulate task-independent thought processes as a primary mechanism underlying cognitive impairment in schizophrenia.
 13-1	1715-1719	This	_
 13-2	1720-1726	speaks	_
 13-3	1727-1734	against	_
@@ -312,6 +325,7 @@
 13-19	1858-1871	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 13-20	1872-1873	.	_
 
+Text=Materials and Methods Participants Twenty-two medicated (detail in Supplement) outpatients meeting DSM-IV criteria for schizophrenia (N=21) or schizoaffective disorder (N=1), and 20 HCS, all right-handed, completed this study.
 14-1	1874-1883	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-2	1884-1887	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-3	1888-1895	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -351,6 +365,7 @@
 14-37	2103-2108	study	_
 14-38	2109-2110	.	_
 
+Text=Data from four HCS and one PSZ were excluded because they appeared to be asleep during parts of the scan.
 15-1	2111-2115	Data	_
 15-2	2116-2120	from	_
 15-3	2121-2125	four	_
@@ -373,6 +388,7 @@
 15-20	2211-2215	scan	_
 15-21	2216-2217	.	_
 
+Text=Demographic information of the remaining participants is summarized in Table 1.
 16-1	2218-2229	Demographic	_
 16-2	2230-2241	information	_
 16-3	2242-2244	of	_
@@ -386,6 +402,7 @@
 16-11	2295-2296	1	_
 16-12	2297-2298	.	_
 
+Text=Groups did not differ in age, sex, ethnicity, or parental education.
 17-1	2299-2305	Groups	_
 17-2	2306-2309	did	_
 17-3	2310-2313	not	_
@@ -402,6 +419,7 @@
 17-14	2360-2369	education	_
 17-15	2370-2371	.	_
 
+Text=PSZ tended to have fewer years of education (P <0.1) and scored lower on neuropsychological tests of cognition.
 18-1	2372-2375	PSZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 18-2	2376-2382	tended	_
 18-3	2383-2385	to	_
@@ -425,6 +443,7 @@
 18-21	2476-2485	cognition	_
 18-22	2486-2487	.	_
 
+Text=Because blood pressure can affect BOLD responses to neuronal activation, we compared groups on systolic (P> 0.6) and diastolic blood pressure (P> 0.3).
 19-1	2488-2495	Because	_
 19-2	2496-2501	blood	_
 19-3	2502-2510	pressure	_
@@ -457,6 +476,7 @@
 19-30	2644-2645	)	_
 19-31	2646-2647	.	_
 
+Text=Participants provided informed consent for a protocol approved by the Institutional Review Boards of the University of Maryland, Baltimore, and the National Institute on Drug Abuse – Intramural Research Program.
 20-1	2648-2660	Participants	_
 20-2	2661-2669	provided	_
 20-3	2670-2678	informed	_
@@ -491,6 +511,7 @@
 20-32	2853-2860	Program	_
 20-33	2861-2862	.	_
 
+Text=Procedure During an initial training session, participants received task instructions, performed the full-length tasks on a PC, and completed neuropsychological testing.
 21-1	2863-2872	Procedure	_
 21-2	2873-2879	During	_
 21-3	2880-2882	an	_
@@ -517,6 +538,7 @@
 21-24	3027-3034	testing	http://maven.renci.org/NeuroBridge/neurobridge#CambridgeNeuropsychologicalTestAutomatedBattery
 21-25	3035-3036	.	_
 
+Text=Training performance data from one PSZ was lost due to recording errors.
 22-1	3037-3045	Training	_
 22-2	3046-3057	performance	_
 22-3	3058-3062	data	_
@@ -531,6 +553,7 @@
 22-12	3102-3108	errors	_
 22-13	3109-3110	.	_
 
+Text=Scans were always performed on a separate day to avoid exhaustion.
 23-1	3111-3116	Scans	_
 23-2	3117-3121	were	_
 23-3	3122-3128	always	_
@@ -544,6 +567,7 @@
 23-11	3166-3176	exhaustion	_
 23-12	3177-3178	.	_
 
+Text=Participants performed two tasks while undergoing fMRI: first a stimulus detection task, reported elsewhere, then the CDT described below.
 24-1	3179-3191	Participants	_
 24-2	3192-3201	performed	_
 24-3	3202-3205	two	_
@@ -568,6 +592,7 @@
 24-22	3314-3319	below	_
 24-23	3320-3321	.	_
 
+Text=An anatomical scan was obtained between tasks.
 25-1	3322-3324	An	_
 25-2	3325-3335	anatomical	_
 25-3	3336-3340	scan	_
@@ -577,6 +602,7 @@
 25-7	3362-3367	tasks	_
 25-8	3368-3369	.	_
 
+Text=The CDT was preceded by four blocks of a visuomotor control task, not reported here.
 26-1	3370-3373	The	_
 26-2	3374-3377	CDT	_
 26-3	3378-3381	was	_
@@ -595,6 +621,7 @@
 26-16	3450-3454	here	_
 26-17	3455-3456	.	_
 
+Text=The CDT The design was first described by.
 27-1	3457-3460	The	_
 27-2	3461-3464	CDT	_
 27-3	3465-3468	The	_
@@ -605,6 +632,7 @@
 27-8	3496-3498	by	_
 27-9	3499-3500	.	_
 
+Text=Participants viewed a 200-ms encoding array of 1, 2, or 4 colored squares, circles, or triangles (each participant was allocated one shape) against a black background (Figure 1A).
 28-1	3501-3513	Participants	_
 28-2	3514-3520	viewed	_
 28-3	3521-3522	a	_
@@ -643,6 +671,7 @@
 28-36	3686-3687	)	_
 28-37	3688-3689	.	_
 
+Text=After a 1100-ms blank-screen delay, one of the shape stimuli reappeared for 2000 ms.
 29-1	3690-3695	After	_
 29-2	3696-3697	a	_
 29-3	3698-3705	1100-ms	_
@@ -660,6 +689,7 @@
 29-15	3772-3774	ms	_
 29-16	3775-3776	.	_
 
+Text=The task was to make an index finger response if the shape that had been presented at this location changed color, and a middle finger response if the color stayed the same (50% probability).
 30-1	3777-3780	The	_
 30-2	3781-3785	task	_
 30-3	3786-3789	was	_
@@ -700,6 +730,7 @@
 30-38	3970-3971	)	_
 30-39	3972-3973	.	_
 
+Text=Trials were separated by a 1000-ms intertrial interval.
 31-1	3974-3980	Trials	_
 31-2	3981-3985	were	_
 31-3	3986-3995	separated	_
@@ -710,6 +741,7 @@
 31-8	4020-4028	interval	_
 31-9	4029-4030	.	_
 
+Text=The larger a participant ’ s WM capacity, the more items are encoded, and the greater the probability of a correct response.
 32-1	4031-4034	The	_
 32-2	4035-4041	larger	_
 32-3	4042-4043	a	_
@@ -736,6 +768,7 @@
 32-24	4148-4156	response	_
 32-25	4157-4158	.	_
 
+Text=While ceiling effects are likely at SS 1 and 2, SS 4 somewhat exceeds the capacity of most participants and thus is sensitive to group differences in WM capacity.
 33-1	4159-4164	While	_
 33-2	4165-4172	ceiling	_
 33-3	4173-4180	effects	_
@@ -768,6 +801,7 @@
 33-30	4313-4321	capacity	_
 33-31	4322-4323	.	_
 
+Text=Dependent variables were accuracy, reflecting the percentage of correct choices (chance being 50%), average reaction time over all responses, and no-response trials, reflecting the percentage of trials in which participants failed to respond.
 34-1	4324-4333	Dependent	_
 34-2	4334-4343	variables	_
 34-3	4344-4348	were	_
@@ -810,6 +844,7 @@
 34-40	4565-4572	respond	_
 34-41	4573-4574	.	_
 
+Text=The task was presented in 26-s blocks of 6 trials each (3 change, 3 no-change).
 35-1	4575-4578	The	_
 35-2	4579-4583	task	_
 35-3	4584-4587	was	_
@@ -830,6 +865,7 @@
 35-18	4655-4656	)	_
 35-19	4657-4658	.	_
 
+Text=All trials within a block were of the same SS (block design analysis).
 36-1	4659-4662	All	_
 36-2	4663-4669	trials	_
 36-3	4670-4676	within	_
@@ -847,6 +883,7 @@
 36-15	4729-4730	)	_
 36-16	4731-4732	.	_
 
+Text=Eight scan runs (each 178 s, or 89 TRs) were separated by rest periods during which the scanner was turned off.
 37-1	4733-4738	Eight	_
 37-2	4739-4743	scan	_
 37-3	4744-4748	runs	_
@@ -873,6 +910,7 @@
 37-24	4843-4846	off	_
 37-25	4847-4848	.	_
 
+Text=Each run contained one block of each SS, one 26-s rest block during which participants fixated a central cross, and two blocks in which either one relevant and one irrelevant, or two relevant and two irrelevant shapes were presented.
 38-1	4849-4853	Each	_
 38-2	4854-4857	run	_
 38-3	4858-4867	contained	_
@@ -917,6 +955,7 @@
 38-42	5075-5084	presented	_
 38-43	5085-5086	.	_
 
+Text=These two conditions tapped specific hypotheses about mechanisms of selective attention in PSZ and were modeled but not further analyzed for the purposes of this study.
 39-1	5087-5092	These	_
 39-2	5093-5096	two	_
 39-3	5097-5107	conditions	_
@@ -945,6 +984,7 @@
 39-26	5249-5254	study	_
 39-27	5255-5256	.	_
 
+Text=Magnetic resonance imaging A 3 Tesla Siemens Tim Trio scanner (Erlangen, Germany) acquired whole-brain EPI images for measuring T2 * -weighted BOLD effects [4-mm oblique (30º) axial slices, 64×64 matrix, FOV=22×22 cm, TR=2 s, TE=27 ms].
 40-1	5257-5265	Magnetic	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 40-2	5266-5275	resonance	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 40-3	5276-5283	imaging	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -994,6 +1034,7 @@
 40-47	5502-5503	]	_
 40-48	5504-5505	.	_
 
+Text=An axial T1-weighted image (MPRAGE) provided anatomical reference (1-mm3 voxels, TR=1.9 s, TE=3.51 ms, FA=9º).
 41-1	5506-5508	An	_
 41-2	5509-5514	axial	_
 41-3	5515-5526	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1018,6 +1059,7 @@
 41-22	5621-5622	)	_
 41-23	5623-5624	.	_
 
+Text=Data were processed using AFNI.
 42-1	5625-5629	Data	_
 42-2	5630-5634	were	_
 42-3	5635-5644	processed	_
@@ -1025,6 +1067,7 @@
 42-5	5651-5655	AFNI	_
 42-6	5656-5657	.	_
 
+Text=Each volume was registered to a base volume.
 43-1	5658-5662	Each	_
 43-2	5663-5669	volume	_
 43-3	5670-5673	was	_
@@ -1035,6 +1078,7 @@
 43-8	5695-5701	volume	_
 43-9	5702-5703	.	_
 
+Text=For each subject, a composite motion index was calculated from the six motion correction parameters (Yang et al., 2005).
 44-1	5704-5707	For	_
 44-2	5708-5712	each	_
 44-3	5713-5720	subject	_
@@ -1060,6 +1104,7 @@
 44-23	5826-5827	)	_
 44-24	5828-5829	.	_
 
+Text=These scores did not differ between HCS and PSZ [t (32) =1.66, P> 0.1].
 45-1	5830-5835	These	_
 45-2	5836-5842	scores	_
 45-3	5843-5846	did	_
@@ -1082,6 +1127,7 @@
 45-20	5905-5906	]	_
 45-21	5907-5908	.	_
 
+Text=TRs with> 0.5 mm displacement or> 0.5° rotation relative to the preceding TR were censored out of the time series.
 46-1	5909-5912	TRs	_
 46-2	5913-5917	with	_
 46-3	5918-5919	>	_
@@ -1106,6 +1152,7 @@
 46-22	6018-6024	series	_
 46-23	6025-6026	.	_
 
+Text=The number of censored TRs did not differ between groups [t (35) =0.60, P> 0.5].
 47-1	6027-6030	The	_
 47-2	6031-6037	number	_
 47-3	6038-6040	of	_
@@ -1129,6 +1176,7 @@
 47-21	6111-6112	]	_
 47-22	6113-6114	.	_
 
+Text=The time series was analyzed by voxel-wise multiple regression.
 48-1	6115-6118	The	_
 48-2	6119-6123	time	_
 48-3	6124-6130	series	_
@@ -1140,6 +1188,7 @@
 48-9	6167-6177	regression	_
 48-10	6178-6179	.	_
 
+Text=Five 26-s boxcar regressors, corresponding to blocks with 1, 2, and 4 item trials, and to the two blocks involving distractors (see 2.3), were convolved with a model hemodynamic response function.
 49-1	6180-6184	Five	_
 49-2	6185-6189	26-s	_
 49-3	6190-6196	boxcar	_
@@ -1180,6 +1229,7 @@
 49-38	6374-6382	function	_
 49-39	6383-6384	.	_
 
+Text=The six motion parameter curves were included as regressors of no interest.
 50-1	6385-6388	The	_
 50-2	6389-6392	six	_
 50-3	6393-6399	motion	_
@@ -1194,6 +1244,7 @@
 50-12	6451-6459	interest	_
 50-13	6460-6461	.	_
 
+Text=All correlations between any of three regressors of interest and any of the motion regressors were near zero (all Ps> 0.9), and the groups did not differ in average stimulus-correlated motion [t (35) =0.50, P> 0.6].
 51-1	6462-6465	All	_
 51-2	6466-6478	correlations	_
 51-3	6479-6486	between	_
@@ -1242,6 +1293,7 @@
 51-46	6685-6686	]	_
 51-47	6687-6688	.	_
 
+Text=For each subject, the voxel-wise average amplitude of signal change produced by each of the three SSs relative to rest blocks was determined.
 52-1	6689-6692	For	_
 52-2	6693-6697	each	_
 52-3	6698-6705	subject	_
@@ -1268,6 +1320,7 @@
 52-24	6820-6830	determined	_
 52-25	6831-6832	.	_
 
+Text=These maps were re-sampled to a 1-μL resolution, converted to a standard coordinate system, and spatially blurred.
 53-1	6833-6838	These	_
 53-2	6839-6843	maps	_
 53-3	6844-6848	were	_
@@ -1289,6 +1342,7 @@
 53-19	6941-6948	blurred	_
 53-20	6949-6950	.	_
 
+Text=Second-level analyses: For visualization of SS-dependent activity within PSZ and within HCS, a Gaussian 5-mm root mean square (RMS) isotropic kernel was adopted.
 54-1	6951-6963	Second-level	_
 54-2	6964-6972	analyses	_
 54-3	6973-6974	:	_
@@ -1318,6 +1372,7 @@
 54-27	7108-7115	adopted	_
 54-28	7116-7117	.	_
 
+Text=Whole-brain voxel-wise multiple linear regression was performed within each separate group, with SS as the regressor of interest.
 55-1	7118-7129	Whole-brain	_
 55-2	7130-7140	voxel-wise	_
 55-3	7141-7149	multiple	_
@@ -1339,6 +1394,7 @@
 55-19	7239-7247	interest	_
 55-20	7248-7249	.	_
 
+Text=Voxel-wise P <0.001 combined with a 438-μL clustersize threshold yielded overall P <0.05 based on Monte Carlo simulations.
 56-1	7250-7260	Voxel-wise	_
 56-2	7261-7262	P	_
 56-3	7263-7264	<	_
@@ -1361,6 +1417,7 @@
 56-20	7362-7373	simulations	_
 56-21	7374-7375	.	_
 
+Text=For direct statistical groups comparisons based on pre-defined regions of interest (ROIs), a 10-mm RMS kernel was applied to minimize the impact of morphological differences between PSZ and HCS (e.g.,) and reduce the risk of group differences in regional activation resulting from comparing non-corresponding anatomical areas.
 57-1	7376-7379	For	_
 57-2	7380-7386	direct	_
 57-3	7387-7398	statistical	_
@@ -1415,6 +1472,7 @@
 57-52	7702-7707	areas	_
 57-53	7708-7709	.	_
 
+Text=ROIs were defined by an independent study, to avoid bias through “ double dipping ”.
 58-1	7710-7714	ROIs	_
 58-2	7715-7719	were	_
 58-3	7720-7727	defined	_
@@ -1433,6 +1491,7 @@
 58-16	7793-7794	”	_
 58-17	7795-7796	.	_
 
+Text=Seven-mm-diameter spheres were centered on peak foci of the task-positive (16 ROIs) and DMN (13 ROIs) networks identified by; page 9676) based on spontaneous correlations and anticorrelations at rest.
 59-1	7797-7814	Seven-mm-diameter	_
 59-2	7815-7822	spheres	_
 59-3	7823-7827	were	_
@@ -1470,6 +1529,7 @@
 59-35	7998-8002	rest	_
 59-36	8003-8004	.	_
 
+Text=Thus, ROI definition was not biased by specific task demands.
 60-1	8005-8009	Thus	_
 60-2	8010-8011	,	_
 60-3	8012-8015	ROI	_
@@ -1483,6 +1543,7 @@
 60-11	8059-8066	demands	_
 60-12	8067-8068	.	_
 
+Text=Activity was averaged within each ROI.
 61-1	8069-8077	Activity	_
 61-2	8078-8081	was	_
 61-3	8082-8090	averaged	_
@@ -1491,6 +1552,7 @@
 61-6	8103-8106	ROI	_
 61-7	8107-8108	.	_
 
+Text=Task-positive and DMN ROIs were analyzed by two separate three-factor ANOVAs (group × SS × ROI).
 62-1	8109-8122	Task-positive	_
 62-2	8123-8126	and	_
 62-3	8127-8130	DMN	_

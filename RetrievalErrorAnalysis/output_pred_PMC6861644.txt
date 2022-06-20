@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Common increased hippocampal volume but specific changes in functional connectivity in schizophrenia patients in remission and non-remission following electroconvulsive therapy: A preliminary study Highlights Electroconvulsive therapy (ECT) induced enlargement in hippocampus volume contrast to pharmaceutical therapy in schizophrenia.
 1-1	0-6	Common	_
 1-2	7-16	increased	_
 1-3	17-28	hippocampal	_
@@ -45,6 +46,7 @@
 1-41	324-337	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 1-42	338-339	.	_
 
+Text=Both ECT responders and non-responders show hippocampal volume expansion.
 2-1	340-344	Both	_
 2-2	345-348	ECT	_
 2-3	349-359	responders	_
@@ -56,6 +58,7 @@
 2-9	403-412	expansion	_
 2-10	413-414	.	_
 
+Text=Increased FC between hippocampus and brain cognitive networks only in ECT responders.
 3-1	415-424	Increased	_
 3-2	425-427	FC	_
 3-3	428-435	between	_
@@ -70,6 +73,7 @@
 3-12	489-499	responders	_
 3-13	500-501	.	_
 
+Text=Electroconvulsive therapy (ECT) is considered a treatment option in patients with drug-resistant schizophrenia (SZ).
 4-1	502-519	Electroconvulsive	_
 4-2	520-527	therapy	_
 4-3	528-529	(	_
@@ -90,6 +94,7 @@
 4-18	620-621	)	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 4-19	622-623	.	_
 
+Text=However, approximately one-third of patients do not benefit from ECT in the clinic.
 5-1	624-631	However	_
 5-2	632-633	,	_
 5-3	634-647	approximately	_
@@ -106,6 +111,7 @@
 5-14	701-707	clinic	_
 5-15	708-709	.	_
 
+Text=Thus, it is critical to investigate differences between ECT responders and non-responders.
 6-1	710-714	Thus	_
 6-2	715-716	,	_
 6-3	717-719	it	_
@@ -121,6 +127,7 @@
 6-13	786-800	non-responders	_
 6-14	801-802	.	_
 
+Text=Accumulated evidence has indicated that one region of ECT action is the hippocampus, which also plays an important role in SZ pathophysiology.
 7-1	803-814	Accumulated	_
 7-2	815-823	evidence	_
 7-3	824-827	has	_
@@ -146,6 +153,7 @@
 7-23	930-945	pathophysiology	_
 7-24	946-947	.	_
 
+Text=To date, no studies have investigated differences in ECT effects in the hippocampus between treatment responders and non-responders.
 8-1	948-950	To	_
 8-2	951-955	date	_
 8-3	956-957	,	_
@@ -167,6 +175,7 @@
 8-19	1066-1080	non-responders	_
 8-20	1081-1082	.	_
 
+Text=This study recruited twenty-one SZ patients treated for four weeks with ECT (MSZ, n = 21) and twenty-one SZ patients who received pharmaceutical therapy (DSZ, n = 21).
 9-1	1083-1087	This	_
 9-2	1088-1093	study	_
 9-3	1094-1103	recruited	_
@@ -203,6 +212,7 @@
 9-34	1254-1255	)	_
 9-35	1256-1257	.	_
 
+Text=The MSZ group was further categorized into responders (MSR, n = 10) or non-responders (MNR, n = 11) based on treatment outcomes by the criterion of a 50% reduction in the Positive and Negative Syndrome Scale total scores.
 10-1	1258-1261	The	_
 10-2	1262-1265	MSZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 10-3	1266-1271	group	_
@@ -250,6 +260,7 @@
 10-45	1479-1485	scores	_
 10-46	1486-1487	.	_
 
+Text=Using structural and resting-state functional MRI, we measured the hippocampal volume and functional connectivity (FC) in all SZ patients (before and after treatment) and 23 healthy controls.
 11-1	1488-1493	Using	_
 11-2	1494-1504	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 11-3	1505-1508	and	_
@@ -284,6 +295,7 @@
 11-32	1675-1683	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 11-33	1684-1685	.	_
 
+Text=In contrast to pharmaceutical therapy, ECT induced bilateral hippocampal volume increases in the MSZ.
 12-1	1686-1688	In	_
 12-2	1689-1697	contrast	_
 12-3	1698-1700	to	_
@@ -301,6 +313,7 @@
 12-15	1784-1787	MSZ	_
 12-16	1788-1789	.	_
 
+Text=Both the MSR and MNR exhibited hippocampal expansion after ECT, whereas a lower baseline volume in one of hippocampal subfield (hippocampus-amygdala transition area) was found in the MNR.
 13-1	1790-1794	Both	_
 13-2	1795-1798	the	_
 13-3	1799-1802	MSR	_
@@ -334,6 +347,7 @@
 13-31	1976-1979	MNR	_
 13-32	1980-1981	.	_
 
+Text=After ECT, increased FC between the hippocampus and brain networks associated with cognitive function was only observed in the MSR.
 14-1	1982-1987	After	_
 14-2	1988-1991	ECT	_
 14-3	1992-1993	,	_
@@ -357,6 +371,7 @@
 14-21	2110-2113	MSR	_
 14-22	2114-2115	.	_
 
+Text=The mechanism of action of ECT in schizophrenia is complex.
 15-1	2116-2119	The	_
 15-2	2120-2129	mechanism	_
 15-3	2130-2132	of	_
@@ -369,6 +384,7 @@
 15-10	2167-2174	complex	_
 15-11	2175-2176	.	_
 
+Text=A combination of baseline impairment level, ECT-introduced morphological changes and post-ECT FC increases in the hippocampus may jointly contribute to the post-ECT symptom improvements in patients with SZ.
 16-1	2177-2178	A	_
 16-2	2179-2190	combination	_
 16-3	2191-2193	of	_
@@ -400,6 +416,7 @@
 16-29	2381-2383	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 16-30	2384-2385	.	_
 
+Text=Materials and methods Participants In the present study, forty-two patients with acute SZ were divided into two groups according to treatment strategy.
 17-1	2386-2395	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 17-2	2396-2399	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 17-3	2400-2407	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -425,6 +442,7 @@
 17-23	2529-2537	strategy	_
 17-24	2538-2539	.	_
 
+Text=One group received a four-week ECT series in addition to antipsychotic drugs (MSZ group, n = 21); the other group received only antipsychotic drugs (DSZ group, n = 21).
 18-1	2540-2543	One	_
 18-2	2544-2549	group	_
 18-3	2550-2558	received	_
@@ -463,6 +481,7 @@
 18-36	2713-2714	)	_
 18-37	2715-2716	.	_
 
+Text=All inpatients were recruited from the Shanghai Mental Health Centre (SMHC) from October 2013 to January 2015.
 19-1	2717-2720	All	_
 19-2	2721-2731	inpatients	_
 19-3	2732-2736	were	_
@@ -484,6 +503,7 @@
 19-19	2824-2828	2015	_
 19-20	2829-2830	.	_
 
+Text=The patients were diagnosed with SZ by trained clinical psychiatrists using the SCID-I/P (Structural Clinical Interview for DSM-IV-TR, Patient edition) and met the indications for ECT.
 20-1	2831-2834	The	_
 20-2	2835-2843	patients	_
 20-3	2844-2848	were	_
@@ -515,6 +535,7 @@
 20-29	3014-3017	ECT	_
 20-30	3018-3019	.	_
 
+Text=In addition, the patients had no history of ECT within the previous six months.
 21-1	3020-3022	In	_
 21-2	3023-3031	addition	_
 21-3	3032-3033	,	_
@@ -532,6 +553,7 @@
 21-15	3093-3099	months	_
 21-16	3100-3101	.	_
 
+Text=Psychiatric symptom severity was assessed by the Positive and Negative Syndrome Scale (PANSS), and the total PANSS scores of all patients were greater than 60.
 22-1	3102-3113	Psychiatric	_
 22-2	3114-3121	symptom	_
 22-3	3122-3130	severity	_
@@ -562,6 +584,7 @@
 22-28	3261-3263	60	_
 22-29	3264-3265	.	_
 
+Text=All patients received antipsychotic medications, and the daily antipsychotic medication dosage was converted to chlorpromazine equivalents (mg/d).
 23-1	3266-3269	All	_
 23-2	3270-3278	patients	_
 23-3	3279-3287	received	_
@@ -584,6 +607,7 @@
 23-20	3413-3414	)	_
 23-21	3415-3416	.	_
 
+Text=Additional details regarding the antipsychotic medication for each patient are provided in Supplementary Information 1.
 24-1	3417-3427	Additional	_
 24-2	3428-3435	details	_
 24-3	3436-3445	regarding	_
@@ -601,6 +625,7 @@
 24-15	3534-3535	1	_
 24-16	3536-3537	.	_
 
+Text=A sample of healthy controls (HC, n = 23), which was matched to the patient groups by age, sex and education level (Table 1), was also recruited from the faculty in SMHC.
 25-1	3538-3539	A	_
 25-2	3540-3546	sample	_
 25-3	3547-3549	of	_
@@ -643,6 +668,7 @@
 25-40	3711-3715	SMHC	_
 25-41	3716-3717	.	_
 
+Text=All healthy controls did not have a lifetime psychiatric disorder or family history of psychosis in their first-degree relatives.
 26-1	3718-3721	All	_
 26-2	3722-3729	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 26-3	3730-3738	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -664,6 +690,7 @@
 26-19	3837-3846	relatives	_
 26-20	3847-3848	.	_
 
+Text=Potential participants were excluded if they had brain injuries, organic mental disorders, neurological abnormalities, other serious physical illnesses, dementia, substance abuse or dependence, or contraindications to MRI.
 27-1	3849-3858	Potential	_
 27-2	3859-3871	participants	_
 27-3	3872-3876	were	_
@@ -699,6 +726,7 @@
 27-33	4073-4076	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 27-34	4077-4078	.	_
 
+Text=The Ethics Committee of SMHC approved the study protocol.
 28-1	4079-4082	The	_
 28-2	4083-4089	Ethics	_
 28-3	4090-4099	Committee	_
@@ -710,6 +738,7 @@
 28-9	4127-4135	protocol	_
 28-10	4136-4137	.	_
 
+Text=Written informed consent was obtained from all subjects prior to study participation.
 29-1	4138-4145	Written	_
 29-2	4146-4154	informed	_
 29-3	4155-4162	consent	_
@@ -724,6 +753,7 @@
 29-12	4209-4222	participation	_
 29-13	4223-4224	.	_
 
+Text=Electroconvulsive therapy Using a therapeutic apparatus Thymatron System IV (Somatics, Lake Bluff, IL, USA), ECT was administered 3 times weekly for 4 weeks and 12 sessions.
 30-1	4225-4242	Electroconvulsive	_
 30-2	4243-4250	therapy	_
 30-3	4251-4256	Using	_
@@ -758,6 +788,7 @@
 30-32	4395-4403	sessions	_
 30-33	4404-4405	.	_
 
+Text=Before ECT, succinylcholine chloride (1.0 mg/kg) was used to relax muscles, atropine (0.5 mg) was applied to reduce airway secretion, etomidate (0.21–0.3 mg/kg) and propofol (1.82–2.44 mg/kg) were conducted to keep anaesthesia.
 31-1	4406-4412	Before	_
 31-2	4413-4416	ECT	_
 31-3	4417-4418	,	_
@@ -803,6 +834,7 @@
 31-43	4632-4643	anaesthesia	_
 31-44	4644-4645	.	_
 
+Text=Two electrodes were placed at bilateral temporal scalps.
 32-1	4646-4649	Two	_
 32-2	4650-4660	electrodes	_
 32-3	4661-4665	were	_
@@ -813,6 +845,7 @@
 32-8	4695-4701	scalps	_
 32-9	4702-4703	.	_
 
+Text=The main parameters of ECT were similar for all patients (frequency, 10–70 Hz; maximum charge delivered, 504 mC; output current, 0.9 A; pulse width, 1.0 ms; maximum stimulus duration, 8 s).
 33-1	4704-4707	The	_
 33-2	4708-4712	main	_
 33-3	4713-4723	parameters	_
@@ -857,6 +890,7 @@
 33-42	4902-4903	)	_
 33-43	4904-4905	.	_
 
+Text=During ECT, we monitored motor convulsions and induced tachycardia, and also recorded electroencephalogram and electromyogram (when necessary).
 34-1	4906-4912	During	_
 34-2	4913-4916	ECT	_
 34-3	4917-4918	,	_
@@ -880,6 +914,7 @@
 34-21	5051-5052	)	_
 34-22	5053-5054	.	_
 
+Text=The antipsychotic therapy remained stable during ECT period except for the discontinuation of pharmacotherapy in the morning before ECT.
 35-1	5055-5058	The	_
 35-2	5059-5072	antipsychotic	_
 35-3	5073-5080	therapy	_
@@ -901,6 +936,7 @@
 35-19	5187-5190	ECT	_
 35-20	5191-5192	.	_
 
+Text=Symptom assessments At pre- and post-treatment, we measured the positive (PANSS-P), negative (PANSS-N), general psychopathology (PANSS-G) subscales and total scores (PANSS-T).
 36-1	5193-5200	Symptom	_
 36-2	5201-5212	assessments	_
 36-3	5213-5215	At	_
@@ -935,6 +971,7 @@
 36-32	5377-5378	)	_
 36-33	5379-5380	.	_
 
+Text=The PANSS reductive ratio was defined as percentage PANSS changes as: △PANSS-T% = (PANSS-Tt1−PANSS-Tt2) × 100 / (PANSS-Tt1−30).
 37-1	5381-5384	The	_
 37-2	5385-5390	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 37-3	5391-5400	reductive	_
@@ -961,6 +998,7 @@
 37-24	5512-5513	)	_
 37-25	5514-5515	.	_
 
+Text=PANSS-Tt1−30 was used as baseline value instead of PANSS-Tt1 as 30 was the lowest possible value for PANSS total score.
 38-1	5516-5528	PANSS-Tt1−30	_
 38-2	5529-5532	was	_
 38-3	5533-5537	used	_
@@ -983,6 +1021,7 @@
 38-20	5629-5634	score	_
 38-21	5635-5636	.	_
 
+Text=Similarly, △PANSS-P%, △PANSS-N%, △PANSS-G% were also calculated.
 39-1	5637-5646	Similarly	_
 39-2	5647-5648	,	_
 39-3	5649-5657	△PANSS-P	_
@@ -998,6 +1037,7 @@
 39-13	5696-5706	calculated	_
 39-14	5707-5708	.	_
 
+Text=After ECT, the MSZ group was further classified as the ECT responder (MSR group, n = 10) and non-responder (MNR group, n = 11) groups, with the criterion of less than 50% individual symptom relief for non-response according to the PANSS total reductive ratio.
 40-1	5709-5714	After	_
 40-2	5715-5718	ECT	_
 40-3	5719-5720	,	_
@@ -1053,6 +1093,7 @@
 40-53	5971-5976	ratio	_
 40-54	5977-5978	.	_
 
+Text=Similarly, the DSZ group was also grouped to the drug responder (DR, n = 12) and non-responder groups (DNR, n = 9).
 41-1	5979-5988	Similarly	_
 41-2	5989-5990	,	_
 41-3	5991-5994	the	_
@@ -1084,6 +1125,7 @@
 41-29	6099-6100	)	_
 41-30	6101-6102	.	_
 
+Text=The responders and non-responders did not differ in terms of gender, age, education, illness duration and baseline PANSS scores (Table 1).
 42-1	6103-6106	The	_
 42-2	6107-6117	responders	_
 42-3	6118-6121	and	_
@@ -1112,6 +1154,7 @@
 42-26	6244-6245	)	_
 42-27	6246-6247	.	_
 
+Text=Data acquisition Whole-brain imaging data were acquired using a 3-T Siemens Magnetom veriosyngo MR B17 scanner.
 43-1	6248-6252	Data	_
 43-2	6253-6264	acquisition	_
 43-3	6265-6276	Whole-brain	_
@@ -1130,6 +1173,7 @@
 43-16	6351-6358	scanner	http://maven.renci.org/NeuroBridge/neurobridge#2Level
 43-17	6359-6360	.	_
 
+Text=Functional MRI data were obtained by a gradient echo planar imaging (EPI) sequence (TR 2000 ms; TE, 30 ms; flip angle, 90°; FOV, 220 mm × 220 mm; matrix, 64 × 64; slice thickness, 4 mm; 30 slices; voxel size, 3.4 × 3.4 × 3.4 mm; 180 vol).
 44-1	6361-6371	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 44-2	6372-6375	MRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 44-3	6376-6380	data	_
@@ -1198,6 +1242,7 @@
 44-66	6615-6616	)	_
 44-67	6617-6618	.	_
 
+Text=In addition, high-resolution T1-weighted structural images were collected using a magnetization-prepared rapid acquisition gradient echo (MPRAGE) sequence (TR, 2530 ms, TE, 2.56 ms, flip angle, 7°, inversion time, 1100 ms, FOV, 256 mm × 256 mm, matrix, 256 × 256, 224 slices, slice thickness, 1 mm; voxel size, 1.0 × 1.0 × 1.0 mm).
 45-1	6619-6621	In	_
 45-2	6622-6630	addition	_
 45-3	6631-6632	,	_
@@ -1275,6 +1320,7 @@
 45-75	6969-6970	)	_
 45-76	6971-6972	.	_
 
+Text=The patients were scanned twice before (baseline) and after 4-week therapy.
 46-1	6973-6976	The	_
 46-2	6977-6985	patients	_
 46-3	6986-6990	were	_
@@ -1290,6 +1336,7 @@
 46-13	7042-7049	therapy	_
 46-14	7050-7051	.	_
 
+Text=The HC underwent scanning only at baseline.
 47-1	7052-7055	The	_
 47-2	7056-7058	HC	_
 47-3	7059-7068	underwent	_
@@ -1299,6 +1346,7 @@
 47-7	7086-7094	baseline	_
 47-8	7095-7096	.	_
 
+Text=The first MRI scan of patients was obtained within 24 h before the first ECT, and the final MRI scan was collected 24–48 h after the last session of ECT.
 48-1	7097-7100	The	_
 48-2	7101-7106	first	_
 48-3	7107-7110	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -1332,6 +1380,7 @@
 48-31	7247-7250	ECT	_
 48-32	7251-7252	.	_
 
+Text=Participants were instructed to keep their eyes closed, relax, but not to fall sleep.
 49-1	7253-7265	Participants	_
 49-2	7266-7270	were	_
 49-3	7271-7281	instructed	_
@@ -1350,11 +1399,13 @@
 49-16	7334-7339	sleep	_
 49-17	7340-7341	.	_
 
+Text=Data processing 2.5.1.
 50-1	7342-7346	Data	_
 50-2	7347-7357	processing	_
 50-3	7358-7363	2.5.1	_
 50-4	7364-7365	.	_
 
+Text=Hippocampal structural analysis A longitudinal segmentation of hippocampal substructures was performed using FreeSurfer (version 6.0, http: //surfer.nmr.mgh.harvard.edu/).
 51-1	7366-7377	Hippocampal	_
 51-2	7378-7388	structural	_
 51-3	7389-7397	analysis	_
@@ -1378,6 +1429,7 @@
 51-21	7539-7540	)	_
 51-22	7541-7542	.	_
 
+Text=Specifically, a longitudinal processing stream including skull stripping, tissue segmentation, surface reconstruction, registration and parcellation, was applied to all subjects' T1 images in Freesurfer.
 52-1	7543-7555	Specifically	_
 52-2	7556-7557	,	_
 52-3	7558-7559	a	_
@@ -1410,6 +1462,7 @@
 52-30	7741-7751	Freesurfer	_
 52-31	7752-7753	.	_
 
+Text=This stream created an unbiased within-subject template space by using robust, inverse consistent registration across scanning images.
 53-1	7754-7758	This	_
 53-2	7759-7765	stream	_
 53-3	7766-7773	created	_
@@ -1430,6 +1483,7 @@
 53-18	7882-7888	images	_
 53-19	7889-7890	.	_
 
+Text=A longitudinal segmentation of hippocampal subfields tool in Freesurfer was also applied to segmented hippocampal regions to obtain twelve hippocampal subfields for each hemisphere.
 54-1	7891-7892	A	_
 54-2	7893-7905	longitudinal	_
 54-3	7906-7918	segmentation	_
@@ -1456,6 +1510,7 @@
 54-24	8061-8071	hemisphere	_
 54-25	8072-8073	.	_
 
+Text=The longitudinal algorithm uses a subject-specific atlas and treats all scanning time points the same way to avoid processing bias, and thus increases the robustness of segmentation.
 55-1	8074-8077	The	_
 55-2	8078-8090	longitudinal	_
 55-3	8091-8100	algorithm	_
@@ -1486,6 +1541,7 @@
 55-28	8244-8256	segmentation	_
 55-29	8257-8258	.	_
 
+Text=Whole hippocampal volume and twelve subfields volumes were measured for each hemisphere, including the hippocampal tail, subiculum, presubiculum, parasubiculum, cornu ammonis area 1 (CA1), CA3, CA4, hippocampal fissure, granular cells layer of the dentate gyrus (GC-ML-DG), molecular layer, hippocampus-amygdala transition area (HATA) and fimbria.
 56-1	8259-8264	Whole	_
 56-2	8265-8276	hippocampal	_
 56-3	8277-8283	volume	_
@@ -1549,6 +1605,7 @@
 56-61	8615-8622	fimbria	_
 56-62	8623-8624	.	_
 
+Text=Illustrations of hippocampal subfield segmentation for each subject are provided in Supplementary Information 2.
 57-1	8625-8638	Illustrations	_
 57-2	8639-8641	of	_
 57-3	8642-8653	hippocampal	_
@@ -1565,9 +1622,11 @@
 57-14	8735-8736	2	_
 57-15	8737-8738	.	_
 
+Text=2.5.2.
 58-1	8739-8744	2.5.2	_
 58-2	8745-8746	.	_
 
+Text=Hippocampal resting-state functional connectivity analysis Resting-state fMRI processing was performed in SPM12 (http: //www.fil.ion.ucl.ac.uk/spm) and DPABI (http: //rfmri.org/dpabi) software.
 59-1	8747-8758	Hippocampal	_
 59-2	8759-8772	resting-state	_
 59-3	8773-8783	functional	_
@@ -1595,6 +1654,7 @@
 59-25	8937-8945	software	_
 59-26	8946-8947	.	_
 
+Text=The fMRI data preprocessing pipeline was similar with previous study and was only briefly described here.
 60-1	8948-8951	The	_
 60-2	8952-8956	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 60-3	8957-8961	data	_
@@ -1613,6 +1673,7 @@
 60-16	9048-9052	here	_
 60-17	9053-9054	.	_
 
+Text=Firstly, the first 10 time points were removed for signal equilibrium and to allow the subjects ’ adaptation to the scanning noise; secondly, we did the slice-timing correction, realignment correction, normalization and resampling to 3 × 3 × 3 mm3; thirdly, the nuisance covariates including 24 motion parameters, white matter and cerebrospinal fluid signals and linear trending were regressed out; then, we performed temporally scrubbing and temporal filtering (0.01–0.1 Hz); finally, the data was smoothed (FWHM= 6 mm).
 61-1	9055-9062	Firstly	_
 61-2	9063-9064	,	_
 61-3	9065-9068	the	_
@@ -1709,6 +1770,7 @@
 61-94	9590-9591	)	_
 61-95	9592-9593	.	_
 
+Text=Following the preprocessing, seed-based FC analysis was used to evaluate the hippocampal FC.
 62-1	9594-9603	Following	_
 62-2	9604-9607	the	_
 62-3	9608-9621	preprocessing	_
@@ -1725,6 +1787,7 @@
 62-14	9684-9686	FC	_
 62-15	9687-9688	.	_
 
+Text=Four regions of bilateral rostral hippocampus (RosHIP) and caudal hippocampus (CauHIP) were defined as the seed ROIs according to the Human Brainnetome Atlas.
 63-1	9689-9693	Four	_
 63-2	9694-9701	regions	_
 63-3	9702-9704	of	_
@@ -1754,6 +1817,7 @@
 63-27	9845-9850	Atlas	_
 63-28	9851-9852	.	_
 
+Text=Pearson's correlation coefficients between the time series of each seed and that of the other voxels in the whole brain were calculated and then Fisher's z-transformed to z-scores.
 64-1	9853-9860	Pearson	_
 64-2	9861-9863	's	_
 64-3	9864-9875	correlation	_
@@ -1786,6 +1850,7 @@
 64-30	10026-10034	z-scores	_
 64-31	10035-10036	.	_
 
+Text=For each subject and each seed, a FC z-score map was obtained and used for following statistical analysis.
 65-1	10037-10040	For	_
 65-2	10041-10045	each	_
 65-3	10046-10053	subject	_
@@ -1807,14 +1872,17 @@
 65-19	10135-10143	analysis	_
 65-20	10144-10145	.	_
 
+Text=2.6.
 66-1	10146-10149	2.6	_
 66-2	10150-10151	.	_
 
+Text=Statistical analysis 2.6.1.
 67-1	10152-10163	Statistical	_
 67-2	10164-10172	analysis	_
 67-3	10173-10178	2.6.1	_
 67-4	10179-10180	.	_
 
+Text=Hippocampal volume comparisons To determine whether the hippocampal volume changes were a specific effect induced by ECT rather than drug, repeated measured two-way ANOVA was performed on the volumes of the whole hippocampus and each subfield with the between-subject factor (treatment strategy: MSZ vs. DSZ) and the within-subject factor (time: t1 vs. t2).
 68-1	10181-10192	Hippocampal	_
 68-2	10193-10199	volume	_
 68-3	10200-10211	comparisons	_
@@ -1877,6 +1945,7 @@
 68-60	10543-10544	)	_
 68-61	10545-10546	.	_
 
+Text=Post-hoc paired t-tests were performed in the MSZ and DSZ groups to indentify longitudinal changes after controlling for the overall intracranial volume.
 69-1	10547-10555	Post-hoc	_
 69-2	10556-10562	paired	_
 69-3	10563-10570	t-tests	_
@@ -1901,6 +1970,7 @@
 69-22	10693-10699	volume	_
 69-23	10700-10701	.	_
 
+Text=To further examine whether hippocampal volume changes were different between the ECT responders and non-responders, repeated measured two-way ANOVA was conducted with the between-subject factor (MSR vs. MNR) and the within-subject factor (time: t1 vs. t2).
 70-1	10702-10704	To	_
 70-2	10705-10712	further	_
 70-3	10713-10720	examine	_
@@ -1945,6 +2015,7 @@
 70-42	10962-10963	)	_
 70-43	10964-10965	.	_
 
+Text=Two post-hoc paired t-tests were separately performed in the MSR and MNR groups to characterize the longitudinal changes in hippocampal volume after the ECT when controlling the effect of the overall intracranial volume.
 71-1	10966-10969	Two	_
 71-2	10970-10978	post-hoc	_
 71-3	10979-10985	paired	_
@@ -1980,6 +2051,7 @@
 71-33	11179-11185	volume	_
 71-34	11186-11187	.	_
 
+Text=Additionally, ANOVA and post-hoc tests were used to compare the baseline differences among the MSR, MNR and HC groups.
 72-1	11188-11200	Additionally	_
 72-2	11201-11202	,	_
 72-3	11203-11208	ANOVA	_
@@ -2003,9 +2075,11 @@
 72-21	11301-11307	groups	_
 72-22	11308-11309	.	_
 
+Text=2.6.2.
 73-1	11310-11315	2.6.2	_
 73-2	11316-11317	.	_
 
+Text=Hippocampal FC comparisons To verify the hypothesis that ECT induced specific changes in hippocampal FC in the ECT responders, repeated measured two-way ANOVA was conducted with the between-subject factor (outcome: MSR vs. MNR) and the within-subject factor (time: t1 vs. t2); the interaction effect of outcome and time was used to investigate the specific changes observed in the ECT responders.
 74-1	11318-11329	Hippocampal	_
 74-2	11330-11332	FC	_
 74-3	11333-11344	comparisons	_
@@ -2076,6 +2150,7 @@
 74-68	11711-11721	responders	_
 74-69	11722-11723	.	_
 
+Text=Two post-hoc paired t-tests were separately performed in the MSR and MNR groups to detect the longitudinal changes in hippocampal FC after the ECT.
 75-1	11724-11727	Two	_
 75-2	11728-11736	post-hoc	_
 75-3	11737-11743	paired	_
@@ -2102,6 +2177,7 @@
 75-24	11867-11870	ECT	_
 75-25	11871-11872	.	_
 
+Text=In addition, ANOVA and post-hoc tests were applied to the comparisons amongststststst the MSR, MNR and HC groups at the baseline.
 76-1	11873-11875	In	_
 76-2	11876-11884	addition	_
 76-3	11885-11886	,	_
@@ -2127,6 +2203,7 @@
 76-23	11995-12003	baseline	_
 76-24	12004-12005	.	_
 
+Text=For these analyses on the voxel-wise FC z-score maps, a multiple comparison correction was performed using a height threshold (z> 2.7) for individual voxels and a cluster size based on the Gaussian random field theory, which corresponds to p <0.05 after correction.
 77-1	12006-12009	For	_
 77-2	12010-12015	these	_
 77-3	12016-12024	analyses	_
@@ -2177,8 +2254,10 @@
 77-48	12266-12276	correction	_
 77-49	12277-12278	.	_
 
+Text=.
 78-1	12279-12280	.	_
 
+Text=Relationship between hippocampal changes and symptom improvements The hippocampal volume and FC values that exhibited significant longitudinal changes were extracted.
 79-1	12281-12293	Relationship	_
 79-2	12294-12301	between	_
 79-3	12302-12313	hippocampal	_
@@ -2201,6 +2280,7 @@
 79-20	12437-12446	extracted	_
 79-21	12447-12448	.	_
 
+Text=The hippocampal volume change was defined as the difference in volume (Volumet2 - Volumet1).
 80-1	12449-12452	The	_
 80-2	12453-12464	hippocampal	_
 80-3	12465-12471	volume	_
@@ -2219,6 +2299,7 @@
 80-16	12541-12542	)	_
 80-17	12543-12544	.	_
 
+Text=Similarly, the FC changes were computed as difference values (FCt2 - FCt1).
 81-1	12545-12554	Similarly	_
 81-2	12555-12556	,	_
 81-3	12557-12560	the	_
@@ -2236,6 +2317,7 @@
 81-15	12621-12622	)	_
 81-16	12623-12624	.	_
 
+Text=As these values did not conform to a normal distribution according to the Kolmogorov-Smirnov tests, Spearman rank correlations were used to assess the relationships between the hippocampal volume or FC changes and the reductive ratios of the symptoms (△PANSS-P%, △PANSS-N%, △PANSS-G%, and △PANSS-T%) in the MSR group.
 82-1	12625-12627	As	_
 82-2	12628-12633	these	_
 82-3	12634-12640	values	_
@@ -2295,6 +2377,7 @@
 82-57	12946-12951	group	_
 82-58	12952-12953	.	_
 
+Text=Power analysis on the longitudinal changes in hippocampal volume and FC Finally, to estimate the statistical power for these longitudinal changes in hippocampal volume and functional connectivity in the MSR and MNR groups, power analyses were conducted using the G * Power 3.1.9.2 (http: //www.gpower.hhu.de/).
 83-1	12954-12959	Power	_
 83-2	12960-12968	analysis	_
 83-3	12969-12971	on	_
@@ -2347,6 +2430,7 @@
 83-50	13267-13268	)	_
 83-51	13269-13270	.	_
 
+Text=Additional analysis Baseline comparisons between MSZ and DSZ To investigate the differences in hippocampal volume and FC between the MSZ and DSZ groups at baseline, we performed two-sample t-tests to compare the differences between the MSZ and DSZ in the volume of each hippocampal subfield and FC.
 84-1	13271-13281	Additional	_
 84-2	13282-13290	analysis	_
 84-3	13291-13299	Baseline	_
@@ -2397,6 +2481,7 @@
 84-48	13567-13569	FC	_
 84-49	13570-13571	.	_
 
+Text=Comparisons between responders and non-responders In addition, we divided all the SZ patients into responders (SZR group: N = 22; 14 female; 30.72±7.38 years of age) and non-responders (SZNR group: N = 20; 9 female; 29.05±7.24 years of age) to further compare the baseline volume and FC across groups and the group-by-time interactions using repeated measured ANOVA.
 85-1	13572-13583	Comparisons	_
 85-2	13584-13591	between	_
 85-3	13592-13602	responders	_
@@ -2467,6 +2552,7 @@
 85-68	13943-13948	ANOVA	_
 85-69	13949-13950	.	_
 
+Text=FC changes in the DR and DNR groups To further investigate the FC changes due to pharmacological treatment, paired t-tests were used to separately compare the differences between t1 and t2 in the DR and DNR groups.
 86-1	13951-13953	FC	_
 86-2	13954-13961	changes	_
 86-3	13962-13964	in	_

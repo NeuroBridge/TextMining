@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Insular and Cingulate Attenuation during Decision Making is associated with Future Transition to Stimulant Use Disorder Aims To understand processes placing individuals at risk for stimulant (amphetamine and cocaine) use disorder.
 1-1	0-7	Insular	_
 1-2	8-11	and	_
 1-3	12-21	Cingulate	_
@@ -37,11 +38,13 @@
 1-33	223-231	disorder	_
 1-34	232-233	.	_
 
+Text=Design Longitudinal study.
 2-1	234-240	Design	_
 2-2	241-253	Longitudinal	_
 2-3	254-259	study	_
 2-4	260-261	.	_
 
+Text=Setting University of California, San Diego Department of Psychiatry, USA.
 3-1	262-269	Setting	_
 3-2	270-280	University	_
 3-3	281-283	of	_
@@ -56,6 +59,7 @@
 3-12	334-337	USA	_
 3-13	338-339	.	_
 
+Text=Participants Occasional stimulant users (OSU; n=184) underwent a baseline clinical interview and a functional magnetic resonance imaging (fMRI) session.
 4-1	340-352	Participants	_
 4-2	353-363	Occasional	http://maven.renci.org/NeuroBridge/neurobridge#StimulantDependence
 4-3	364-373	stimulant	http://maven.renci.org/NeuroBridge/neurobridge#StimulantDependence
@@ -82,6 +86,7 @@
 4-24	489-496	session	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 4-25	497-498	.	_
 
+Text=On the basis of a follow-up clinical interview completed three years later, OSU (n=147) were then categorized as problem stimulant users (PSU: n=36; those who developed stimulant use disorders in the interim) or desisted stimulant users (DSU: n=74; those who stopped using).
 5-1	499-501	On	_
 5-2	502-505	the	_
 5-3	506-511	basis	_
@@ -137,6 +142,7 @@
 5-53	782-783	)	_
 5-54	784-785	.	_
 
+Text=OSU who did not meet criteria for PSU or DSU (n=37) were included in dimensional analyses.
 6-1	786-789	OSU	_
 6-2	790-793	who	_
 6-3	794-797	did	_
@@ -157,6 +163,7 @@
 6-18	869-877	analyses	_
 6-19	878-879	.	_
 
+Text=Measurements fMRI blood-oxygen-level dependent (BOLD) contrast percent signal change from baseline collected during a Paper-Scissors-Rock task was examined during three decision making conditions, those resulting in: (1) wins, (2) ties, and (3) losses.
 7-1	880-892	Measurements	_
 7-2	893-897	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
 7-3	898-916	blood-oxygen-level	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
@@ -204,6 +211,7 @@
 7-45	1137-1143	losses	_
 7-46	1144-1145	.	_
 
+Text=These data were used as dependent variables in categorical analyses comparing PSU and DSU as well as dimensional analyses including interim drug use as predictors, controlling for baseline drug use.
 8-1	1146-1151	These	_
 8-2	1152-1156	data	_
 8-3	1157-1161	were	_
@@ -237,6 +245,7 @@
 8-31	1341-1344	use	_
 8-32	1345-1346	.	_
 
+Text=Findings PSU exhibited lower anterior cingulate, middle insula, superior temporal, inferior parietal, precuneus and cerebellum activation than DSU across all three conditions (significant brain clusters required> 19 neighboring voxels to exceed F (1,108) =5.58, p <.01 two-tailed; all Cohen ’ s d>.83).
 9-1	1347-1355	Findings	_
 9-2	1356-1359	PSU	_
 9-3	1360-1369	exhibited	_
@@ -295,6 +304,7 @@
 9-56	1661-1662	)	_
 9-57	1663-1664	.	_
 
+Text=Higher interim marijuana use was linked to lower precentral and superior temporal activation during choices resulting in wins (> 19 neighboring voxels to exceed t=2.61, p <.01 two-tailed; R2 change>.11).
 10-1	1665-1671	Higher	_
 10-2	1672-1679	interim	_
 10-3	1680-1689	marijuana	_
@@ -334,6 +344,7 @@
 10-37	1873-1874	)	_
 10-38	1875-1876	.	_
 
+Text=Conclusions Individuals who transition from stimulant use to stimulant use disorder appear to show alterations in neural processing of stimulus valuation and outcome monitoring, patterns also evident in chronic stimulant use disorder.
 11-1	1877-1888	Conclusions	_
 11-2	1889-1900	Individuals	_
 11-3	1901-1904	who	_
@@ -369,6 +380,7 @@
 11-33	2103-2111	disorder	http://maven.renci.org/NeuroBridge/neurobridge#DissociativeDrugHarmfulUse
 11-34	2112-2113	.	_
 
+Text=Attenuated anterior cingulate and insular processing may constitute a high-risk neural processing profile, which could be used to calculate risk scores for individuals experimenting with stimulants.
 12-1	2114-2124	Attenuated	_
 12-2	2125-2133	anterior	_
 12-3	2134-2143	cingulate	_
@@ -398,6 +410,7 @@
 12-27	2302-2312	stimulants	_
 12-28	2313-2314	.	_
 
+Text=Methods Design Figure 1 illustrates the longitudinal study design: (1) at baseline, OSU completed an interview to evaluate clinical diagnoses and determine initial drug use patterns, and a neuroimaging session; and (2) three years later, OSU completed a follow-up interview to determine changes in clinical status and patterns of drug use.
 13-1	2315-2322	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 13-2	2323-2329	Design	_
 13-3	2330-2336	Figure	_
@@ -460,6 +473,7 @@
 13-60	2659-2662	use	_
 13-61	2663-2664	.	_
 
+Text=Participants The study protocol was approved by the University of California, San Diego institutional review board and complied with the Declaration of Helsinki.
 14-1	2665-2677	Participants	_
 14-2	2678-2681	The	_
 14-3	2682-2687	study	_
@@ -486,6 +500,7 @@
 14-24	2818-2826	Helsinki	_
 14-25	2827-2828	.	_
 
+Text=Students at local universities were recruited via internet ads, newspapers, and flyers; OSU who met study criteria provided written informed consent to participate.
 15-1	2829-2837	Students	_
 15-2	2838-2840	at	_
 15-3	2841-2846	local	_
@@ -514,6 +529,7 @@
 15-26	2984-2995	participate	_
 15-27	2996-2997	.	_
 
+Text=OSU endorsed: (a)> 2 off-prescription uses of cocaine and/or pharmaceutical stimulants (amphetamines and/or methylphenidate) in the past six months; (b) no lifetime stimulant dependence; and (c) no interest in drug treatment.
 16-1	2998-3001	OSU	_
 16-2	3002-3010	endorsed	_
 16-3	3011-3012	:	_
@@ -559,6 +575,7 @@
 16-43	3225-3234	treatment	_
 16-44	3235-3236	.	_
 
+Text=Baseline Interview Session Lifetime DSM-IV Axis I diagnoses and Axis II antisocial personality disorder (ASPD) were assessed by the Semi-Structured Assessment for the Genetics of Alcoholism II (SSAGA II) (see for participant exclusion criteria).
 17-1	3237-3245	Baseline	_
 17-2	3246-3255	Interview	_
 17-3	3256-3263	Session	_
@@ -601,6 +618,7 @@
 17-40	3486-3487	)	_
 17-41	3488-3489	.	_
 
+Text=Subjects also completed a measure of verbal intelligence (IQ) as well as the Barratt Impulsiveness Scale (BIS-11), Sensation Seeking Scale (SSS), and Beck Depression Inventory (BDI), measures indexing impulsivity, sensation seeking, and depression, respectively.
 18-1	3490-3498	Subjects	_
 18-2	3499-3503	also	_
 18-3	3504-3513	completed	_
@@ -651,6 +669,7 @@
 18-48	3753-3765	respectively	_
 18-49	3766-3767	.	_
 
+Text=Baseline Neuroimaging Session Overview Participants were instructed to abstain from illicit substance use ≥ 72 h prior (abstinence was determined by urine toxicology screen).
 19-1	3768-3776	Baseline	_
 19-2	3777-3789	Neuroimaging	_
 19-3	3790-3797	Session	_
@@ -679,6 +698,7 @@
 19-26	3942-3943	)	_
 19-27	3944-3945	.	_
 
+Text=Subjects then completed the PSR task during fMRI recording after engaging in a practice version of the task outside of the scanner.
 20-1	3946-3954	Subjects	_
 20-2	3955-3959	then	_
 20-3	3960-3969	completed	_
@@ -703,6 +723,7 @@
 20-22	4069-4076	scanner	_
 20-23	4077-4078	.	_
 
+Text=PSR paradigm This task examines how individuals acquire the ability to make decisions associated with advantageous outcomes, wherein: (1) rock beats scissors; (2) paper beats rock; (3) scissors beat paper.
 21-1	4079-4082	PSR	_
 21-2	4083-4091	paradigm	http://maven.renci.org/NeuroBridge/neurobridge#SternbergItemRecognitionParadigmTask
 21-3	4092-4096	This	_
@@ -745,6 +766,7 @@
 21-40	4288-4293	paper	_
 21-41	4294-4295	.	_
 
+Text=Subjects were instructed to play against the computer and attempt to maximize points (1 for a win, 0 for a tie, and −1 for a loss), as they would receive additional payment according to their cumulative point total (each point was worth $1).
 22-1	4296-4304	Subjects	_
 22-2	4305-4309	were	_
 22-3	4310-4320	instructed	_
@@ -798,6 +820,7 @@
 22-51	4543-4544	)	_
 22-52	4545-4546	.	_
 
+Text=Unknown to the subject, probability of beating the computer and thus being reinforced (e.g., subject chooses scissors, computer selects paper, scissors beats paper, subject gains 1 point) was predetermined.
 23-1	4547-4554	Unknown	_
 23-2	4555-4557	to	_
 23-3	4558-4561	the	_
@@ -836,6 +859,7 @@
 23-36	4746-4759	predetermined	_
 23-37	4760-4761	.	_
 
+Text=A total of 120 trials were presented (six blocks containing 20 trials).
 24-1	4762-4763	A	_
 24-2	4764-4769	total	_
 24-3	4770-4772	of	_
@@ -852,6 +876,7 @@
 24-14	4833-4834	)	_
 24-15	4835-4836	.	_
 
+Text=Within each block, the three possible selections had pre-determined probabilities of having a winning, tying, or losing outcome.
 25-1	4837-4843	Within	_
 25-2	4844-4848	each	_
 25-3	4849-4854	block	_
@@ -875,6 +900,7 @@
 25-21	4960-4967	outcome	_
 25-22	4968-4969	.	_
 
+Text=The “ preferred response ” won on 90% of trials, the “ even response ” won 50% of the time, and the “ worst response ” won on 10% of trials.
 26-1	4970-4973	The	_
 26-2	4974-4975	“	_
 26-3	4976-4985	preferred	_
@@ -913,6 +939,7 @@
 26-36	5108-5114	trials	_
 26-37	5115-5116	.	_
 
+Text=Preferred, even, and worst responses were switched for each of the six blocks.
 27-1	5117-5126	Preferred	_
 27-2	5127-5128	,	_
 27-3	5129-5133	even	_
@@ -930,6 +957,7 @@
 27-15	5190-5196	blocks	_
 27-16	5197-5198	.	_
 
+Text=Figure 2A illustrates an example of one trial.
 28-1	5199-5205	Figure	_
 28-2	5206-5208	2A	_
 28-3	5209-5220	illustrates	_
@@ -940,6 +968,7 @@
 28-8	5239-5244	trial	_
 28-9	5245-5246	.	_
 
+Text=After an initial fixation lasting 2 s, subjects saw a hand forming paper, scissors, and rock on a screen for 1 s and heard the instruction “ one, two, three ” over headphones.
 29-1	5247-5252	After	_
 29-2	5253-5255	an	_
 29-3	5256-5263	initial	_
@@ -980,6 +1009,7 @@
 29-38	5416-5426	headphones	_
 29-39	5427-5428	.	_
 
+Text=At 3 s into the trial, subjects were then presented with a “ Go ” sign, providing the cue to select paper, scissors, or rock.
 30-1	5429-5431	At	_
 30-2	5432-5433	3	_
 30-3	5434-5435	s	_
@@ -1011,6 +1041,7 @@
 30-29	5553-5557	rock	_
 30-30	5558-5559	.	_
 
+Text=Subjects had 3.5 s to respond, after which the trial timed out.
 31-1	5560-5568	Subjects	_
 31-2	5569-5572	had	_
 31-3	5573-5576	3.5	_
@@ -1026,6 +1057,7 @@
 31-13	5620-5623	out	_
 31-14	5624-5625	.	_
 
+Text=Upon responding, the outcome was presented, wherein the subject saw the computer ’ s response, and heard “ you win, ” “ you lose, ” or “ a tie ”.
 32-1	5626-5630	Upon	_
 32-2	5631-5641	responding	_
 32-3	5642-5643	,	_
@@ -1063,6 +1095,7 @@
 32-35	5774-5775	”	_
 32-36	5776-5777	.	_
 
+Text=Nine null trials were interspersed at the beginning (three prior to any relevant trials), middle (three prior to the fourth block), and end of the task (three after all relevant trials were completed) as a temporal jitter.
 33-1	5778-5782	Nine	_
 33-2	5783-5787	null	_
 33-3	5788-5794	trials	_
@@ -1110,6 +1143,7 @@
 33-45	6001-6007	jitter	_
 33-46	6008-6009	.	_
 
+Text=fMRI image acquisition One run indexing blood oxygenation level-dependent (BOLD) contrast was collected (randomized fast-event related design) using a Signa EXCITE (GE Healthcare, Milwaukee, Wisconsin) 3.0 Tesla scanner (T2 * -weighted EPI scans, TR=2000 ms, TE=32 ms, FOV=230mm3, 64×64 matrix, 30 2.6mm axial slices [1.4 mm gap], flip angle=90°, 290 whole-brain TRs).
 34-1	6010-6014	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 34-2	6015-6020	image	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 34-3	6021-6032	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -1183,6 +1217,7 @@
 34-71	6395-6396	)	_
 34-72	6397-6398	.	_
 
+Text=fMRI volume acquisitions were time-locked to task onset.
 35-1	6399-6403	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 35-2	6404-6410	volume	_
 35-3	6411-6423	acquisitions	_
@@ -1193,6 +1228,7 @@
 35-8	6449-6454	onset	_
 35-9	6455-6456	.	_
 
+Text=A high-resolution T1-weighted anatomical image was obtained [spoiled gradient recalled (SPGR), TI=450, TR=8 ms, TE=3 ms, flip angle=12°, FOV=250mm3, 192×256 matrix, 172 sagittally acquired slices with 1mm thickness].
 36-1	6457-6458	A	_
 36-2	6459-6474	high-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 36-3	6475-6486	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1234,6 +1270,7 @@
 36-39	6682-6683	]	_
 36-40	6684-6685	.	_
 
+Text=Analysis pathway specifications including slice timing correction, outlier estimation/removal, and motion estimation/correction are detailed in.
 37-1	6686-6694	Analysis	_
 37-2	6695-6702	pathway	_
 37-3	6703-6717	specifications	_
@@ -1253,6 +1290,7 @@
 37-17	6829-6831	in	_
 37-18	6832-6833	.	_
 
+Text=Multiple regressor analyses A deconvolution model was created in Analysis of Functional Neuroimages (AFNI), individualized for each participant, comparing decision-making between preferred, even, and worst response selections.
 38-1	6834-6842	Multiple	_
 38-2	6843-6852	regressor	_
 38-3	6853-6861	analyses	_
@@ -1288,6 +1326,7 @@
 38-33	7055-7065	selections	_
 38-34	7066-7067	.	_
 
+Text=Each subject ’ s behavioral performance determined three regressors of interest for trials in which the participant selected: (a) the preferred response, (b) the tied response, and (c) the worst response (Figure 2B depicts an example of one participant ’ s performance).
 39-1	7068-7072	Each	_
 39-2	7073-7080	subject	_
 39-3	7081-7082	’	_
@@ -1343,6 +1382,7 @@
 39-53	7347-7348	)	_
 39-54	7349-7350	.	_
 
+Text=The baseline for this model consisted of the inter-trial interval and null trials interspersed between trial blocks.
 40-1	7351-7354	The	_
 40-2	7355-7363	baseline	_
 40-3	7364-7367	for	_
@@ -1362,6 +1402,7 @@
 40-17	7460-7466	blocks	_
 40-18	7467-7468	.	_
 
+Text=Regressors of interest were generated to delineate conditions for this model, wherein a 0–1 reference function for each condition was convolved with a gamma variate function modeling a prototypical hemodynamic response (6–8 s delay).
 41-1	7469-7479	Regressors	_
 41-2	7480-7482	of	_
 41-3	7483-7491	interest	_
@@ -1401,6 +1442,7 @@
 41-37	7703-7704	)	_
 41-38	7705-7706	.	_
 
+Text=Three normalized decision-making predictors (brain activation from trial onset to each participant ’ s behavioral selection of the preferred, even, and worst response designated for each block) were included in the AFNI program 3dDeconvolve, controlling for motion as well as baseline and linear drift, to estimate goodness of fit between model estimates and BOLD responses for each subject.
 42-1	7707-7712	Three	_
 42-2	7713-7723	normalized	_
 42-3	7724-7739	decision-making	_
@@ -1467,6 +1509,7 @@
 42-64	8096-8103	subject	_
 42-65	8104-8105	.	_
 
+Text=Voxels were resampled into 4×4×4mm3 space and whole-brain voxel-wise normalized percent signal change (PSC), the main dependent measure, was determined by dividing the beta coefficient for each of the predictors of interest (preferred, even, and worst responses) by the beta coefficient for the baseline regressor and multiplying by 100.
 43-1	8106-8112	Voxels	_
 43-2	8113-8117	were	_
 43-3	8118-8127	resampled	_
@@ -1526,6 +1569,7 @@
 43-57	8447-8450	100	_
 43-58	8451-8452	.	_
 
+Text=A Gaussian spatial filter (4mm full width half maximum; FWHM) was used to spatially blur PSC values to account for anatomical differences and this output was then normalized to Talairach coordinates (40×48×38 voxel coverage) as defined by AFNI ’ s built-in atlases.
 44-1	8453-8454	A	_
 44-2	8455-8463	Gaussian	_
 44-3	8464-8471	spatial	_
@@ -1575,6 +1619,7 @@
 44-47	8715-8722	atlases	_
 44-48	8723-8724	.	_
 
+Text=Individual subject PSC-scaled beta weight values for preferred, even, and worst responses for each voxel included in a whole-brain mask (comprised of 23775 voxels) was extracted for further categorical and dimensional statistical analyses outlined below.
 45-1	8725-8735	Individual	_
 45-2	8736-8743	subject	_
 45-3	8744-8754	PSC-scaled	_
@@ -1616,6 +1661,7 @@
 45-39	8977-8982	below	_
 45-40	8983-8984	.	_
 
+Text=Individual voxels meeting a p <.01 significance criterion as a result of these statistical tests (linear mixed models and regressions) were further evaluated to determine whether they comprised a significant brain cluster after correction for multiple comparisons (given all voxels included in the whole-brain mask).
 46-1	8985-8995	Individual	_
 46-2	8996-9002	voxels	_
 46-3	9003-9010	meeting	_
@@ -1668,6 +1714,7 @@
 46-50	9304-9305	)	_
 46-51	9306-9307	.	_
 
+Text=Leading neuroimaging programs have recently been criticized for underestimation of spatial autocorrelation in fMRI data, resulting in inadequate implementation of correction for multiple comparisons when determining how many voxels are required to comprise a significant brain cluster.
 47-1	9308-9315	Leading	_
 47-2	9316-9328	neuroimaging	_
 47-3	9329-9337	programs	_
@@ -1708,6 +1755,7 @@
 47-38	9586-9593	cluster	_
 47-39	9594-9595	.	_
 
+Text=As a consequence of this critique, we revised our laboratory ’ s clustering procedure.
 48-1	9596-9598	As	_
 48-2	9599-9600	a	_
 48-3	9601-9612	consequence	_
@@ -1725,6 +1773,7 @@
 48-15	9673-9682	procedure	_
 48-16	9683-9684	.	_
 
+Text=First, the updated AFNI 3dFWHMx program was used to more reliably estimate the actual autocorrelation in fMRI data across participants (.44, 1.71, and 10.36) as well as the actual smoothness present in the data after blurring (4.99 mm).
 49-1	9685-9690	First	_
 49-2	9691-9692	,	_
 49-3	9693-9696	the	_
@@ -1772,6 +1821,7 @@
 49-45	9926-9927	)	_
 49-46	9928-9929	.	_
 
+Text=Second, we then ran an updated version of AFNI ’ s 3dClustSim that takes these autocorrelation values into account given our voxel size, whole brain mask size, 10,000 Monte Carlo simulations, and two-sided thresholding with an overall voxel p statistical threshold of .01 and a corrected clusterwise alpha value of .01.
 50-1	9930-9936	Second	_
 50-2	9937-9938	,	_
 50-3	9939-9941	we	_
@@ -1829,6 +1879,7 @@
 50-55	10249-10252	.01	_
 50-56	10253-10254	.	_
 
+Text=Given this input, 3dClustSim determined that: (1) our data smoothness approached 6.20mm; and (2)> 19 neighboring voxels (or> 1216μL) were required to comprise a significant brain cluster; this voxelwise cutoff more than doubles the size of the cluster required for significance given similar blurring parameters in our prior work (8 voxels).
 51-1	10255-10260	Given	_
 51-2	10261-10265	this	_
 51-3	10266-10271	input	_
@@ -1896,6 +1947,7 @@
 51-65	10608-10609	)	_
 51-66	10610-10611	.	_
 
+Text=Three Year Follow-Up Interview Session OSU were contacted three years after their baseline assessment (Figure 1).
 52-1	10612-10617	Three	_
 52-2	10618-10622	Year	_
 52-3	10623-10632	Follow-Up	_
@@ -1916,6 +1968,7 @@
 52-18	10725-10726	)	_
 52-19	10727-10728	.	_
 
+Text=Each participant underwent a standardized interview (phone or in-person) to examine extent of drug use in the three-year interim since the baseline interview, thereby allowing us to identify subjects meeting criteria for new stimulant user groups: PSU or DSU.
 53-1	10729-10733	Each	_
 53-2	10734-10745	participant	_
 53-3	10746-10755	underwent	_
@@ -1961,6 +2014,7 @@
 53-43	10988-10991	DSU	_
 53-44	10992-10993	.	_
 
+Text=PSU were a priori defined by: (1) continued stimulant use during the three-year interim (see Table 1); and (2) endorsement of 2+ symptoms of DSM-IV amphetamine and/or cocaine abuse or dependence criteria occurring together ≥ 6 contiguous months since the initial visit (M=4.17 symptoms; SD=2.32; range: 2–9).
 54-1	10994-10997	PSU	_
 54-2	10998-11002	were	_
 54-3	11003-11004	a	_
@@ -2023,6 +2077,7 @@
 54-60	11313-11314	)	_
 54-61	11315-11316	.	_
 
+Text=Percentage of PSU subjects who met criteria for stimulant use disorders were the following: 53% cocaine abuse, 22% cocaine dependence, 42% amphetamine abuse, and 19% amphetamine dependence (n=3 met criteria for 2 symptoms of dependence, 1 criterion short to obtain a diagnosis; n=20 met criteria for 1 diagnosis; n=10 met criteria for 2 diagnoses; and n=3 met criteria for 3 diagnoses).
 55-1	11317-11327	Percentage	_
 55-2	11328-11330	of	_
 55-3	11331-11334	PSU	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -2100,6 +2155,7 @@
 55-75	11715-11716	)	_
 55-76	11717-11718	.	_
 
+Text=In comparison, DSU were defined as having: (1) no 6-month periods of 3+ stimulant uses; and (2) no interim stimulant use disorder symptoms.
 56-1	11719-11721	In	_
 56-2	11722-11732	comparison	_
 56-3	11733-11734	,	_
@@ -2132,6 +2188,7 @@
 56-30	11856-11864	symptoms	_
 56-31	11865-11866	.	_
 
+Text=Figure 1 illustrates that categorical analyses compared PSU and DSU on fMRI data, whereas dimensional analyses included all OSU with usable fMRI and follow-up data, even those who did not meet PSU or DSU group criteria.
 57-1	11867-11873	Figure	_
 57-2	11874-11875	1	_
 57-3	11876-11887	illustrates	_
@@ -2172,6 +2229,7 @@
 57-38	12079-12087	criteria	_
 57-39	12088-12089	.	_
 
+Text=Categorical Analyses Self-report Group differences in age, verbal IQ, education, drug use sessions, impulsivity, and sensation seeking were evaluated using IBM SPSS Statistics for Windows Version 22 (Armonk, NY) independent sample t-tests.
 58-1	12090-12101	Categorical	_
 58-2	12102-12110	Analyses	_
 58-3	12111-12122	Self-report	_
@@ -2214,6 +2272,7 @@
 58-40	12329-12336	t-tests	_
 58-41	12337-12338	.	_
 
+Text=Group differences in gender, handedness, race/ethnicity, depression (BDI scores 0–9 = no depression; BDI scores 10–14 = mild depression) and drug use recency were explored using SPSS chi-square tests.
 59-1	12339-12344	Group	_
 59-2	12345-12356	differences	_
 59-3	12357-12359	in	_
@@ -2251,6 +2310,7 @@
 59-35	12539-12544	tests	_
 59-36	12545-12546	.	_
 
+Text=Neuroimaging For each voxel, a linear mixed effects (LME) model in R was calculated on PSC values with group (PSU, DSU) and decision condition (preferred, even, and worst choices) modeled as fixed factors, and subject modeled as a random factor.
 60-1	12547-12559	Neuroimaging	_
 60-2	12560-12563	For	_
 60-3	12564-12568	each	_
@@ -2304,6 +2364,7 @@
 60-51	12796-12802	factor	_
 60-52	12803-12804	.	_
 
+Text=For each voxel, degrees of freedom, F, and p values were obtained for each main effect and interaction.
 61-1	12805-12808	For	_
 61-2	12809-12813	each	_
 61-3	12814-12819	voxel	_
@@ -2327,6 +2388,7 @@
 61-21	12899-12910	interaction	_
 61-22	12911-12912	.	_
 
+Text=Only individual voxels meeting p <.01 significance for the F test were considered for inclusion in brain clustering, correcting for multiple comparisons.
 62-1	12913-12917	Only	_
 62-2	12918-12928	individual	_
 62-3	12929-12935	voxels	_
@@ -2353,6 +2415,7 @@
 62-24	13056-13067	comparisons	_
 62-25	13068-13069	.	_
 
+Text=Cohen ’ s d was calculated to determine effect sizes.
 63-1	13070-13075	Cohen	_
 63-2	13076-13077	’	_
 63-3	13078-13079	s	_
@@ -2365,6 +2428,7 @@
 63-10	13117-13122	sizes	_
 63-11	13123-13124	.	_
 
+Text=All fMRI results were whole-brain extractions.
 64-1	13125-13128	All	_
 64-2	13129-13133	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 64-3	13134-13141	results	_
@@ -2373,6 +2437,7 @@
 64-6	13159-13170	extractions	_
 64-7	13171-13172	.	_
 
+Text=Dimensional Analyses Figure 1 illustrates that across all OSU with usable follow-up data, regardless of group status, cumulative stimulant and marijuana uses at baseline as well as interim stimulant and marijuana uses reported at follow-up were log transformed due to skew, standardized, and entered as predictors in multivariate regressions for self-report and neuroimaging data.
 65-1	13173-13184	Dimensional	_
 65-2	13185-13193	Analyses	_
 65-3	13194-13200	Figure	_
@@ -2433,6 +2498,7 @@
 65-58	13552-13556	data	_
 65-59	13557-13558	.	_
 
+Text=Self-report Multivariate linear regressions were computed in IBM SPSS Statistics for the following dependent variables: age, verbal IQ, education, impulsivity and sensation seeking.
 66-1	13559-13570	Self-report	_
 66-2	13571-13583	Multivariate	_
 66-3	13584-13590	linear	_
@@ -2462,6 +2528,7 @@
 66-27	13736-13743	seeking	_
 66-28	13744-13745	.	_
 
+Text=A multivariate logistic regression was computed for depression status.
 67-1	13746-13747	A	_
 67-2	13748-13760	multivariate	_
 67-3	13761-13769	logistic	_
@@ -2473,6 +2540,7 @@
 67-9	13809-13815	status	_
 67-10	13816-13817	.	_
 
+Text=Neuroimaging A total of three multivariate linear regressions were computed in R (https: //cran.r-project.org/package=rlm) for each voxel in the whole-brain mask.
 68-1	13818-13830	Neuroimaging	_
 68-2	13831-13832	A	_
 68-3	13833-13838	total	_
@@ -2499,6 +2567,7 @@
 68-24	13978-13982	mask	_
 68-25	13983-13984	.	_
 
+Text=Dependent variables were PSC for preferred, even, and worst decision trials.
 69-1	13985-13994	Dependent	_
 69-2	13995-14004	variables	_
 69-3	14005-14009	were	_

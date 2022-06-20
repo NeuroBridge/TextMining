@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Ventral striatal dysfunction in cocaine dependence – difference mapping for subregional resting state functional connectivity Research of dopaminergic deficits has focused on the ventral striatum (VS) with many studies elucidating altered resting state functional connectivity (rsFC) in individuals with cocaine dependence (CD).
 1-1	0-7	Ventral	_
 1-2	8-16	striatal	_
 1-3	17-28	dysfunction	_
@@ -52,6 +53,7 @@
 1-48	332-333	)	_
 1-49	334-335	.	_
 
+Text=The VS comprises functional subregions and delineation of subregional changes in rsFC requires careful consideration of the differences between addicted and healthy populations.
 2-1	336-339	The	_
 2-2	340-342	VS	_
 2-3	343-352	comprises	_
@@ -77,6 +79,7 @@
 2-23	501-512	populations	_
 2-24	513-514	.	_
 
+Text=In the current study, we parcellated the VS using whole-brain rsFC differences between CD and non-drug-using controls (HC).
 3-1	515-517	In	_
 3-2	518-521	the	_
 3-3	522-529	current	_
@@ -100,6 +103,7 @@
 3-21	639-640	)	_
 3-22	641-642	.	_
 
+Text=Voxels with similar rsFC changes formed functional clusters.
 4-1	643-649	Voxels	_
 4-2	650-654	with	_
 4-3	655-662	similar	_
@@ -110,6 +114,7 @@
 4-8	694-702	clusters	_
 4-9	703-704	.	_
 
+Text=The results showed that the VS was divided into 3 subclusters, in the area of the dorsal-anterior VS (daVS), dorsal posterior VS (dpVS), and ventral VS (vVS), each in association with different patterns of rsFC.
 5-1	705-708	The	_
 5-2	709-716	results	_
 5-3	717-723	showed	_
@@ -157,6 +162,7 @@
 5-45	921-925	rsFC	_
 5-46	926-927	.	_
 
+Text=The three subregions shared reduced rsFC with bilateral hippocampal/parahippocampal gyri (HG/PHG) but also showed distinct changes, including reduced vVS rsFC with ventromedial prefrontal cortex (vmPFC) and increased daVS rsFC with visual cortex in CD as compared to HC.
 6-1	928-931	The	_
 6-2	932-937	three	_
 6-3	938-948	subregions	_
@@ -202,6 +208,7 @@
 6-43	1200-1202	HC	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 6-44	1203-1204	.	_
 
+Text=Across CD, daVS visual cortical connectivity was positively correlated with amount of prior-month cocaine use and cocaine craving, and vVS vmPFC connectivity was negatively correlated with the extent of depression and anxiety.
 7-1	1205-1211	Across	_
 7-2	1212-1214	CD	_
 7-3	1215-1216	,	_
@@ -238,6 +245,7 @@
 7-34	1425-1432	anxiety	_
 7-35	1433-1434	.	_
 
+Text=These findings suggest a distinct pattern of altered VS subregional rsFC in cocaine dependence, and some of the changes have eluded analyses using the whole VS as a seed region.
 8-1	1435-1440	These	_
 8-2	1441-1449	findings	_
 8-3	1450-1457	suggest	_
@@ -271,6 +279,7 @@
 8-31	1606-1612	region	_
 8-32	1613-1614	.	_
 
+Text=The findings may provide new insight to delineating VS circuit deficits in cocaine dependence and provide an alternative analytical framework to address functional dysconnectivity in other mental illnesses.
 9-1	1615-1618	The	_
 9-2	1619-1627	findings	_
 9-3	1628-1631	may	_
@@ -301,6 +310,7 @@
 9-28	1811-1820	illnesses	_
 9-29	1821-1822	.	_
 
+Text=Materials and methods Subjects, informed consent, and assessment Sixty-six recently abstinent participants (44 men) with cocaine dependence (CD) and 66 age- and gender-matched healthy control (HC) subjects (36 men) participated in the study (Supplementary Table 1).
 10-1	1823-1832	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	1833-1836	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1837-1844	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -351,6 +361,7 @@
 10-48	2098-2099	)	_
 10-49	2100-2101	.	_
 
+Text=CD met criteria for current cocaine dependence, as diagnosed by the Structured Clinical Interview for DSM-IV.
 11-1	2102-2104	CD	_
 11-2	2105-2108	met	_
 11-3	2109-2117	criteria	_
@@ -370,6 +381,7 @@
 11-17	2205-2211	DSM-IV	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 11-18	2212-2213	.	_
 
+Text=Recent cocaine use was confirmed by urine toxicology screens.
 12-1	2214-2220	Recent	_
 12-2	2221-2228	cocaine	_
 12-3	2229-2232	use	_
@@ -381,6 +393,7 @@
 12-9	2267-2274	screens	_
 12-10	2275-2276	.	_
 
+Text=CD were drug-free while staying in an inpatient unit prior to the current fMRI study.
 13-1	2277-2279	CD	_
 13-2	2280-2284	were	_
 13-3	2285-2294	drug-free	_
@@ -398,6 +411,7 @@
 13-15	2356-2361	study	_
 13-16	2362-2363	.	_
 
+Text=All subjects were physically healthy with no major medical illnesses or current use of prescription medications.
 14-1	2364-2367	All	_
 14-2	2368-2376	subjects	_
 14-3	2377-2381	were	_
@@ -416,6 +430,7 @@
 14-16	2464-2475	medications	_
 14-17	2476-2477	.	_
 
+Text=None reported having a history of head injury or neurological illness.
 15-1	2478-2482	None	_
 15-2	2483-2491	reported	_
 15-3	2492-2498	having	_
@@ -429,6 +444,7 @@
 15-11	2540-2547	illness	_
 15-12	2548-2549	.	_
 
+Text=Other exclusion criteria included dependence on another psychoactive substance (except nicotine) and current or past history of psychotic disorders.
 16-1	2550-2555	Other	_
 16-2	2556-2565	exclusion	_
 16-3	2566-2574	criteria	_
@@ -452,6 +468,7 @@
 16-21	2690-2699	disorders	_
 16-22	2700-2701	.	_
 
+Text=Individuals with current depressive or anxiety symptoms requiring treatment or currently being treated for these symptoms were excluded as well.
 17-1	2702-2713	Individuals	_
 17-2	2714-2718	with	_
 17-3	2719-2726	current	_
@@ -474,6 +491,7 @@
 17-20	2841-2845	well	_
 17-21	2846-2847	.	_
 
+Text=The Human Investigation committee at Yale University School of Medicine approved all study procedures, and all subjects signed an informed consent prior to study participation.
 18-1	2848-2851	The	_
 18-2	2852-2857	Human	_
 18-3	2858-2871	Investigation	_
@@ -502,6 +520,7 @@
 18-26	3011-3024	participation	_
 18-27	3025-3026	.	_
 
+Text=CD ’ s were assessed with the Beck Depression Inventory and the State-Trait Anxiety Inventory at admission.
 19-1	3027-3029	CD	_
 19-2	3030-3031	’	_
 19-3	3032-3033	s	_
@@ -521,6 +540,7 @@
 19-17	3124-3133	admission	_
 19-18	3134-3135	.	_
 
+Text=The mean (± SD) BDI (9.5 ± 8.1) and STAI state (33.8 ± 11.0) and trait (38.3 ± 9.8) scores were within the range reported previously for individuals with cocaine dependence.
 20-1	3136-3139	The	_
 20-2	3140-3144	mean	_
 20-3	3145-3146	(	_
@@ -562,6 +582,7 @@
 20-39	3306-3316	dependence	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 20-40	3317-3318	.	_
 
+Text=Cocaine craving was assessed with the cocaine craving questionnaire, brief version (CCQ-Brief), for all participants every two to three days.
 21-1	3319-3326	Cocaine	_
 21-2	3327-3334	craving	_
 21-3	3335-3338	was	_
@@ -588,6 +609,7 @@
 21-24	3459-3463	days	_
 21-25	3464-3465	.	_
 
+Text=The CCQ-Brief is a 10-item questionnaire, abbreviated from the CCQ-Now.
 22-1	3466-3469	The	_
 22-2	3470-3479	CCQ-Brief	_
 22-3	3480-3482	is	_
@@ -601,6 +623,7 @@
 22-11	3530-3537	CCQ-Now	_
 22-12	3538-3539	.	_
 
+Text=It is highly correlated with the CCQ-Now and other cocaine craving measures.
 23-1	3540-3542	It	_
 23-2	3543-3545	is	_
 23-3	3546-3552	highly	_
@@ -615,6 +638,7 @@
 23-12	3607-3615	measures	_
 23-13	3616-3617	.	_
 
+Text=Each item was rated on a scale from 1 to 7, with a higher total score (ranging from 10 to 70) indicating greater craving.
 24-1	3618-3622	Each	_
 24-2	3623-3627	item	_
 24-3	3628-3631	was	_
@@ -644,6 +668,7 @@
 24-27	3734-3741	craving	_
 24-28	3742-3743	.	_
 
+Text=CD showed a CCQ score of 23.8 ± 10.4 across all assessments.
 25-1	3744-3746	CD	_
 25-2	3747-3753	showed	_
 25-3	3754-3755	a	_
@@ -658,6 +683,7 @@
 25-12	3792-3803	assessments	_
 25-13	3804-3805	.	_
 
+Text=Imaging protocol Conventional T1-weighted spin echo sagittal anatomical images were acquired for slice localization using a 3 T scanner (Siemens Trio).
 26-1	3806-3813	Imaging	_
 26-2	3814-3822	protocol	_
 26-3	3823-3835	Conventional	_
@@ -683,6 +709,7 @@
 26-23	3957-3958	)	_
 26-24	3959-3960	.	_
 
+Text=Anatomical images of the functional slice locations were next obtained with spin echo imaging in the axial plane parallel to the AC–PC line with TR = 300 ms, TE = 2.5 ms, bandwidth = 300 Hz/pixel, flip angle = 60°, field of view = 220 × 220 mm, matrix = 256 × 256, 32 slices with slice thickness = 4 mm and no gap.
 27-1	3961-3971	Anatomical	_
 27-2	3972-3978	images	_
 27-3	3979-3981	of	_
@@ -755,6 +782,7 @@
 27-70	4277-4280	gap	_
 27-71	4281-4282	.	_
 
+Text=Functional, blood oxygenation level-dependent (BOLD) signals were then acquired with a single-shot gradient echo echoplanar imaging (EPI) sequence during a resting state (one scan per participant; duration: 10 minutes; eyes closed).
 28-1	4283-4293	Functional	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
 28-2	4294-4295	,	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
 28-3	4296-4301	blood	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
@@ -798,6 +826,7 @@
 28-41	4523-4524	)	_
 28-42	4525-4526	.	_
 
+Text=Thirty-two axial slices parallel to the AC–PC line covering the whole brain were acquired with TR = 2000 ms, TE = 25 ms, bandwidth = 2004 Hz/pixel, flip angle = 85°, field of view = 220 × 220 mm, matrix = 64 × 64, 32 slices with slice thickness = 4 mm and no gap.
 29-1	4527-4537	Thirty-two	_
 29-2	4538-4543	axial	_
 29-3	4544-4550	slices	_
@@ -861,6 +890,7 @@
 29-61	4792-4795	gap	_
 29-62	4796-4797	.	_
 
+Text=Imaging data preprocessing Figure 1a illustrates the step by step procedures in data analysis.
 30-1	4798-4805	Imaging	_
 30-2	4806-4810	data	_
 30-3	4811-4824	preprocessing	_
@@ -877,6 +907,7 @@
 30-14	4883-4891	analysis	_
 30-15	4892-4893	.	_
 
+Text=The data were processed with Statistical Parametric Mapping (SPM8, Wellcome Department of Imaging Neuroscience, University College London, U.K.).
 31-1	4894-4897	The	_
 31-2	4898-4902	data	_
 31-3	4903-4907	were	_
@@ -902,6 +933,7 @@
 31-23	5042-5043	)	_
 31-24	5044-5045	.	_
 
+Text=Images from the first five TRs at the beginning of each session were discarded.
 32-1	5046-5052	Images	_
 32-2	5053-5057	from	_
 32-3	5058-5061	the	_
@@ -918,6 +950,7 @@
 32-14	5115-5124	discarded	_
 32-15	5125-5126	.	_
 
+Text=Images of each individual subject were first realigned (motion corrected) and corrected for slice timing.
 33-1	5127-5133	Images	_
 33-2	5134-5136	of	_
 33-3	5137-5141	each	_
@@ -937,6 +970,7 @@
 33-17	5227-5233	timing	_
 33-18	5234-5235	.	_
 
+Text=A mean functional image volume was constructed from the realigned image volumes.
 34-1	5236-5237	A	_
 34-2	5238-5242	mean	_
 34-3	5243-5253	functional	_
@@ -951,6 +985,7 @@
 34-12	5308-5315	volumes	_
 34-13	5316-5317	.	_
 
+Text=These mean images were co-registered with the high-resolution structural image and segmented for normalization with affine registration followed by nonlinear transformation.
 35-1	5318-5323	These	_
 35-2	5324-5328	mean	_
 35-3	5329-5335	images	_
@@ -974,6 +1009,7 @@
 35-21	5476-5490	transformation	_
 35-22	5491-5492	.	_
 
+Text=The normalization parameters determined for the structure volume were then applied to the corresponding functional image volumes for each subject.
 36-1	5493-5496	The	_
 36-2	5497-5510	normalization	_
 36-3	5511-5521	parameters	_
@@ -996,6 +1032,7 @@
 36-20	5631-5638	subject	_
 36-21	5639-5640	.	_
 
+Text=Finally, the images were smoothed with a Gaussian kernel of 4 mm at Full Width at Half Maximum.
 37-1	5641-5648	Finally	_
 37-2	5649-5650	,	_
 37-3	5651-5654	the	_
@@ -1017,6 +1054,7 @@
 37-19	5729-5736	Maximum	_
 37-20	5737-5738	.	_
 
+Text=Additional preprocessing was applied to reduce spurious BOLD variances that were unlikely to reflect neuronal activity.
 38-1	5739-5749	Additional	_
 38-2	5750-5763	preprocessing	_
 38-3	5764-5767	was	_
@@ -1035,6 +1073,7 @@
 38-16	5849-5857	activity	_
 38-17	5858-5859	.	_
 
+Text=The sources of spurious variance were removed through linear regression by including the signal from the ventricular system, white matter, and whole brain, in addition to the six parameters obtained by rigid body head motion correction.
 39-1	5860-5863	The	_
 39-2	5864-5871	sources	_
 39-3	5872-5874	of	_
@@ -1076,6 +1115,7 @@
 39-39	6088-6098	correction	_
 39-40	6099-6100	.	_
 
+Text=First-order derivatives of the whole brain, ventricular and white matter signals were also included in the regression.
 40-1	6101-6112	First-order	_
 40-2	6113-6124	derivatives	_
 40-3	6125-6127	of	_
@@ -1096,6 +1136,7 @@
 40-18	6209-6219	regression	_
 40-19	6220-6221	.	_
 
+Text=Cordes and colleagues suggested that BOLD fluctuations below a frequency of 0.1 Hz contribute to regionally specific BOLD correlations.
 41-1	6222-6228	Cordes	_
 41-2	6229-6232	and	_
 41-3	6233-6243	colleagues	_
@@ -1117,6 +1158,7 @@
 41-19	6344-6356	correlations	_
 41-20	6357-6358	.	_
 
+Text=Thus, we applied a temporal band-pass filter (0.009 Hz <f <0.08 Hz) to the time course in order to obtain low-frequency fluctuations, as in previous studies.
 42-1	6359-6363	Thus	_
 42-2	6364-6365	,	_
 42-3	6366-6368	we	_
@@ -1151,6 +1193,7 @@
 42-32	6514-6521	studies	_
 42-33	6522-6523	.	_
 
+Text=Head motion As extensively investigated in previous study, micro head motion (> 0.1 mm) is an important source of spurious correlations in resting state functional connectivity analysis.
 43-1	6524-6528	Head	_
 43-2	6529-6535	motion	_
 43-3	6536-6538	As	_
@@ -1183,6 +1226,7 @@
 43-30	6704-6712	analysis	_
 43-31	6713-6714	.	_
 
+Text=Therefore, we applied a “ scrubbing ” method proposed by Power and colleagues and successfully applied in previous studies to remove time points affected by head motions, prior to temporal band-pass filtering.
 44-1	6715-6724	Therefore	_
 44-2	6725-6726	,	_
 44-3	6727-6729	we	_
@@ -1219,6 +1263,7 @@
 44-34	6916-6925	filtering	_
 44-35	6926-6927	.	_
 
+Text=Briefly, for every time point t, we computed the framewise displacement given by, where (dx, dy, dz) and (α, β, γ) are the translational and rotational movements, respectively.
 45-1	6928-6935	Briefly	_
 45-2	6936-6937	,	_
 45-3	6938-6941	for	_
@@ -1261,6 +1306,7 @@
 45-40	7103-7115	respectively	_
 45-41	7116-7117	.	_
 
+Text=The second head movement metric was the root mean square variance (DVARS) of the differences in% BOLD intensity I (t) between consecutive time points across brain voxels, computed as:, where the brackets indicate the mean across brain voxels.
 46-1	7118-7121	The	_
 46-2	7122-7128	second	_
 46-3	7129-7133	head	_
@@ -1309,6 +1355,7 @@
 46-46	7361-7367	voxels	_
 46-47	7368-7369	.	_
 
+Text=Finally, to compute each subject ’ s correlation map, we removed every time point with FD (t)> 0.5 mm or DVARS (t)> 0.5%.
 47-1	7370-7377	Finally	_
 47-2	7378-7379	,	_
 47-3	7380-7382	to	_
@@ -1343,6 +1390,7 @@
 47-32	7498-7499	%	_
 47-33	7500-7501	.	_
 
+Text=On average, 1% of the time points were removed across subjects.
 48-1	7502-7504	On	_
 48-2	7505-7512	average	_
 48-3	7513-7514	,	_
@@ -1358,6 +1406,7 @@
 48-13	7558-7566	subjects	_
 48-14	7567-7568	.	_
 
+Text=CD and HC did not differ in either the mean FD (p = 0.76) or DVARS (p = 0.57).
 49-1	7569-7571	CD	_
 49-2	7572-7575	and	_
 49-3	7576-7578	HC	_
@@ -1383,6 +1432,7 @@
 49-23	7649-7650	)	_
 49-24	7651-7652	.	_
 
+Text=Parcelation of the VS based on functional connectivity differences between CD and HC As with our previous studies, we used a ventral striatum (VS) mask (Fig.
 50-1	7653-7664	Parcelation	_
 50-2	7665-7667	of	_
 50-3	7668-7671	the	_
@@ -1415,6 +1465,7 @@
 50-30	7810-7813	Fig	_
 50-31	7814-7815	.	_
 
+Text=1b) generated by cytoarchitectonic and topographical criteria.
 51-1	7816-7818	1b	_
 51-2	7819-7820	)	_
 51-3	7821-7830	generated	_
@@ -1425,6 +1476,7 @@
 51-8	7870-7878	criteria	_
 51-9	7879-7880	.	_
 
+Text=We employed 116 anatomical masks from the Automated Anatomical Labeling or AAL Atlas based on a Montreal Neurological Institute (MNI) template.
 52-1	7881-7883	We	_
 52-2	7884-7892	employed	_
 52-3	7893-7896	116	_
@@ -1450,6 +1502,7 @@
 52-23	8017-8025	template	_
 52-24	8026-8027	.	_
 
+Text=We averaged the BOLD time courses of voxels within each of the 116 regions and computed the correlation coefficient between the averaged time course of each AAL region and the time courses of each individual voxel of the VS for individual subjects.
 53-1	8028-8030	We	_
 53-2	8031-8039	averaged	_
 53-3	8040-8043	the	_
@@ -1494,6 +1547,7 @@
 53-42	8267-8275	subjects	_
 53-43	8276-8277	.	_
 
+Text=To assess and compare the resting state “ correlograms (correlation matrices), ” we converted these correlation matrices, which were not normally distributed, to z score maps by Fisher ’ s z transform:.
 54-1	8278-8280	To	_
 54-2	8281-8287	assess	_
 54-3	8288-8291	and	_
@@ -1534,6 +1588,7 @@
 54-38	8484-8485	:	_
 54-39	8486-8487	.	_
 
+Text=The z maps were used in group, random effect analyses.
 55-1	8488-8491	The	_
 55-2	8492-8493	z	_
 55-3	8494-8498	maps	_
@@ -1547,6 +1602,7 @@
 55-11	8534-8542	analyses	_
 55-12	8543-8544	.	_
 
+Text=A two-sample t test was first applied to the “ z maps ” to compare 66 CD with 66 HC for each of the 116 correlograms.
 56-1	8545-8546	A	_
 56-2	8547-8557	two-sample	_
 56-3	8558-8559	t	_
@@ -1575,6 +1631,7 @@
 56-26	8649-8661	correlograms	_
 56-27	8662-8663	.	_
 
+Text=Voxels within the VS mask were subject to rsFC based segmentation, with each voxel represented by 116 t values of the two-sample t test.
 57-1	8664-8670	Voxels	_
 57-2	8671-8677	within	_
 57-3	8678-8681	the	_
@@ -1602,6 +1659,7 @@
 57-25	8796-8800	test	_
 57-26	8801-8802	.	_
 
+Text=A K-means algorithm was applied to cluster the voxels within the VS on the bases of the 116 t values.
 58-1	8803-8804	A	_
 58-2	8805-8812	K-means	_
 58-3	8813-8822	algorithm	_
@@ -1624,6 +1682,7 @@
 58-20	8897-8903	values	_
 58-21	8904-8905	.	_
 
+Text=Placing K points into the space represented by the objects that are being clustered.
 59-1	8906-8913	Placing	_
 59-2	8914-8915	K	_
 59-3	8916-8922	points	_
@@ -1640,6 +1699,7 @@
 59-14	8980-8989	clustered	_
 59-15	8990-8991	.	_
 
+Text=These points represent initial group centroids.
 60-1	8992-8997	These	_
 60-2	8998-9004	points	_
 60-3	9005-9014	represent	_
@@ -1648,6 +1708,7 @@
 60-6	9029-9038	centroids	_
 60-7	9039-9040	.	_
 
+Text=Assigning each object to the group that has the closest centroid.
 61-1	9041-9050	Assigning	_
 61-2	9051-9055	each	_
 61-3	9056-9062	object	_
@@ -1661,6 +1722,7 @@
 61-11	9097-9105	centroid	_
 61-12	9106-9107	.	_
 
+Text=Recalculating the positions of the K centroids, when all objects have been assigned.
 62-1	9108-9121	Recalculating	_
 62-2	9122-9125	the	_
 62-3	9126-9135	positions	_
@@ -1677,6 +1739,7 @@
 62-14	9184-9192	assigned	_
 62-15	9193-9194	.	_
 
+Text=Repeating Steps 2 and 3 until the centroids no longer move.
 63-1	9195-9204	Repeating	_
 63-2	9205-9210	Steps	_
 63-3	9211-9212	2	_
@@ -1690,6 +1753,7 @@
 63-11	9249-9253	move	_
 63-12	9254-9255	.	_
 
+Text=This produces a separation of the objects into groups from which the metric to be minimized can be calculated.
 64-1	9256-9260	This	_
 64-2	9261-9269	produces	_
 64-3	9270-9271	a	_
@@ -1711,6 +1775,7 @@
 64-19	9355-9365	calculated	_
 64-20	9366-9367	.	_
 
+Text=As an unsupervised learning algorithm, K-means clustering classifies a given data set into an a-priori set of K clusters by minimizing an objective squared error function as shown in Eq.
 65-1	9368-9370	As	_
 65-2	9371-9373	an	_
 65-3	9374-9386	unsupervised	_
@@ -1744,6 +1809,7 @@
 65-31	9552-9554	Eq	_
 65-32	9555-9556	.	_
 
+Text=(1): .where is a distance measure between a data point and the cluster center.
 66-1	9557-9558	(	_
 66-2	9559-9560	1	_
 66-3	9561-9562	)	_
@@ -1763,6 +1829,7 @@
 66-17	9631-9637	center	_
 66-18	9638-9639	.	_
 
+Text=The algorithm was executed by: In order to determine the optimal number of clusters that best described the data set, we used the Bayesian Information Criterion (BIC), which is widely used for model identification in time series and linear regression: where n is the number of observations (=116); k is the number of class; RSS is the residual sum of squares from the K-means model.
 67-1	9640-9643	The	_
 67-2	9644-9653	algorithm	_
 67-3	9654-9657	was	_
@@ -1840,6 +1907,7 @@
 67-75	10026-10031	model	_
 67-76	10032-10033	.	_
 
+Text=Given any two clustering number k ’ s, the one with lower BIC value was preferred.
 68-1	10034-10039	Given	_
 68-2	10040-10043	any	_
 68-3	10044-10047	two	_
@@ -1859,6 +1927,7 @@
 68-17	10107-10116	preferred	_
 68-18	10117-10118	.	_
 
+Text=Furthermore, because the K-means algorithm is sensitive to the initial, randomly selected cluster centers, we repeated this algorithm 1,000 times to alleviate the effect of the initial conditions.
 69-1	10119-10130	Furthermore	_
 69-2	10131-10132	,	_
 69-3	10133-10140	because	_
@@ -1892,6 +1961,7 @@
 69-31	10307-10317	conditions	_
 69-32	10318-10319	.	_
 
+Text=K was tested for values from 2 to 20.
 70-1	10320-10321	K	_
 70-2	10322-10325	was	_
 70-3	10326-10332	tested	_
@@ -1903,6 +1973,7 @@
 70-9	10354-10356	20	_
 70-10	10357-10358	.	_
 
+Text=For VS subregions as well as the whole VS, we computed the whole-brain connectivity maps each for CD and HC, and converted to z score maps.
 71-1	10359-10362	For	_
 71-2	10363-10365	VS	_
 71-3	10366-10376	subregions	_
@@ -1933,6 +2004,7 @@
 71-28	10495-10499	maps	_
 71-29	10500-10501	.	_
 
+Text=In second level analysis, we performed one-sample t test each on the Z maps of those seeds for CD and HC groups and two-sample t test with age as covariate comparing the two groups.
 72-1	10502-10504	In	_
 72-2	10505-10511	second	_
 72-3	10512-10517	level	_
@@ -1970,6 +2042,7 @@
 72-35	10677-10683	groups	_
 72-36	10684-10685	.	_
 
+Text=In addition, the VS and hypothalamus are reciprocally connected.
 73-1	10686-10688	In	_
 73-2	10689-10697	addition	_
 73-3	10698-10699	,	_
@@ -1982,6 +2055,7 @@
 73-10	10741-10750	connected	_
 73-11	10751-10752	.	_
 
+Text=Both the VS and hypothalamus receive projections from the dopaminergic midbrain and are implicated in processing of reward-related stimuli, including those associated with drugs of abuse.
 74-1	10753-10757	Both	_
 74-2	10758-10761	the	_
 74-3	10762-10764	VS	_
@@ -2011,6 +2085,7 @@
 74-27	10935-10940	abuse	_
 74-28	10941-10942	.	_
 
+Text=Examining the VS hypothalamus connectivity may provide useful information as to how this understudied circuit is impacted by cocaine addiction.
 75-1	10943-10952	Examining	_
 75-2	10953-10956	the	_
 75-3	10957-10959	VS	_
@@ -2033,6 +2108,7 @@
 75-20	11076-11085	addiction	_
 75-21	11086-11087	.	_
 
+Text=Thus, we also conducted a region of interest analysis, using small volume correction for a hypothalamus mask.
 76-1	11088-11092	Thus	_
 76-2	11093-11094	,	_
 76-3	11095-11097	we	_

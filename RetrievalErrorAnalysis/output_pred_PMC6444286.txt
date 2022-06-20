@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Bayesian computational markers of relapse in methamphetamine dependence Methamphetamine use disorder is associated with a high likelihood of relapse.
 1-1	0-8	Bayesian	_
 1-2	9-22	computational	_
 1-3	23-30	markers	_
@@ -23,6 +24,7 @@
 1-19	141-148	relapse	_
 1-20	149-150	.	_
 
+Text=Identifying robust predictors of relapse that have explanatory power is critical to develop secondary prevention based on a mechanistic understanding of relapse.
 2-1	151-162	Identifying	_
 2-2	163-169	robust	_
 2-3	170-180	predictors	_
@@ -47,6 +49,7 @@
 2-22	304-311	relapse	_
 2-23	312-313	.	_
 
+Text=Computational approaches have the potential to identify such predictive markers of psychiatric illness, with the advantage of providing a finer mechanistic explanation of the cognitive processes underlying psychiatric vulnerability.
 3-1	314-327	Computational	_
 3-2	328-338	approaches	_
 3-3	339-343	have	_
@@ -79,6 +82,7 @@
 3-30	533-546	vulnerability	_
 3-31	547-548	.	_
 
+Text=In this study, sixty-two recently sober methamphetamine-dependent individuals were recruited from a 28-day inpatient treatment program, and completed a Stop Signal Task (SST) while undergoing functional magnetic resonance imaging (fMRI).
 4-1	549-551	In	_
 4-2	552-556	this	_
 4-3	557-562	study	_
@@ -117,6 +121,7 @@
 4-36	790-791	)	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 4-37	792-793	.	_
 
+Text=These individuals were prospectively followed for 1 year and assessed for relapse to methamphetamine use.
 5-1	794-799	These	_
 5-2	800-811	individuals	_
 5-3	812-816	were	_
@@ -134,6 +139,7 @@
 5-15	895-898	use	_
 5-16	899-900	.	_
 
+Text=Thirty-three percent of followed participants reported relapse.
 6-1	901-913	Thirty-three	_
 6-2	914-921	percent	_
 6-3	922-924	of	_
@@ -143,6 +149,7 @@
 6-7	956-963	relapse	_
 6-8	964-965	.	_
 
+Text=We found that neural activity associated with two types of Bayesian prediction error, i.e.
 7-1	966-968	We	_
 7-2	969-974	found	_
 7-3	975-979	that	_
@@ -160,6 +167,7 @@
 7-15	1053-1056	i.e	_
 7-16	1057-1058	.	_
 
+Text=the difference between actual and expected need to stop on a given trial, significantly differentiated those individuals who remained abstinent and those who relapsed.
 8-1	1059-1062	the	_
 8-2	1063-1073	difference	_
 8-3	1074-1081	between	_
@@ -187,6 +195,7 @@
 8-25	1218-1226	relapsed	_
 8-26	1227-1228	.	_
 
+Text=Specifically, relapsed individuals exhibited smaller neural activations to such Bayesian prediction errors relative to those individuals who remained abstinent in the left temporoparietal junction (Cohen's d = 0.91), the left inferior frontal gyrus (Cohen's d = 0.57), and left anterior insula (Cohen's d = 0.63).
 9-1	1229-1241	Specifically	_
 9-2	1242-1243	,	_
 9-3	1244-1252	relapsed	_
@@ -246,6 +255,7 @@
 9-57	1552-1553	)	_
 9-58	1554-1555	.	_
 
+Text=In contrast, abstinent and relapsed participants did not differ in neural activation to non-model based task contrasts or on various self-report clinical measures.
 10-1	1556-1558	In	_
 10-2	1559-1567	contrast	_
 10-3	1568-1569	,	_
@@ -272,6 +282,7 @@
 10-24	1711-1719	measures	_
 10-25	1720-1721	.	_
 
+Text=In conclusion, Bayesian cognitive models may help identify predictive biomarkers of relapse, while providing a computational explanation of belief processing and updating deficits in individuals with methamphetamine use disorder.
 11-1	1722-1724	In	_
 11-2	1725-1735	conclusion	_
 11-3	1736-1737	,	_
@@ -305,6 +316,7 @@
 11-31	1944-1952	disorder	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
 11-32	1953-1954	.	_
 
+Text=Highlights Methamphetamine-dependent individuals (MDI) face a high rate of relapse after treatment.
 12-1	1955-1965	Highlights	_
 12-2	1966-1991	Methamphetamine-dependent	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
 12-3	1992-2003	individuals	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
@@ -321,6 +333,7 @@
 12-14	2046-2055	treatment	_
 12-15	2056-2057	.	_
 
+Text=Can a Bayesian learning modeling and fMRI be used to identify markers of relapse?
 13-1	2058-2061	Can	_
 13-2	2062-2063	a	_
 13-3	2064-2072	Bayesian	_
@@ -337,6 +350,7 @@
 13-14	2131-2138	relapse	_
 13-15	2139-2140	?	_
 
+Text=MDI who relapsed within 1 year have smaller activation to Bayesian model-based prediction errors.
 14-1	2141-2144	MDI	_
 14-2	2145-2148	who	_
 14-3	2149-2157	relapsed	_
@@ -353,6 +367,7 @@
 14-14	2231-2237	errors	_
 14-15	2238-2239	.	_
 
+Text=Such neural pattern was observed in left temporo-parietal junction, IFG, and anterior insula.
 15-1	2240-2244	Such	_
 15-2	2245-2251	neural	_
 15-3	2252-2259	pattern	_
@@ -370,6 +385,7 @@
 15-15	2328-2334	insula	_
 15-16	2335-2336	.	_
 
+Text=MDI more likely to relapse show weaker tracking of uncertainty and updating of their belief model.
 16-1	2337-2340	MDI	_
 16-2	2341-2345	more	_
 16-3	2346-2352	likely	_
@@ -388,6 +404,7 @@
 16-16	2429-2434	model	_
 16-17	2435-2436	.	_
 
+Text=Methods Participants The study protocol was approved by the UCSD Human Research Protections Program and all subjects gave written informed consent.
 17-1	2437-2444	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 17-2	2445-2457	Participants	_
 17-3	2458-2461	The	_
@@ -411,6 +428,7 @@
 17-21	2576-2583	consent	_
 17-22	2584-2585	.	_
 
+Text=Sixty-two (21% female) recently sober methamphetamine-dependent individuals were recruited from a 28-day inpatient Alcohol and Drug Treatment Program at the Veterans Affairs San Diego Healthcare System and Scripps Green Hospital (La Jolla, CA; cross-sectional analysis of these data published elsewhere).
 18-1	2586-2595	Sixty-two	_
 18-2	2596-2597	(	_
 18-3	2598-2600	21	_
@@ -460,6 +478,7 @@
 18-47	2895-2896	)	_
 18-48	2897-2898	.	_
 
+Text=All study procedures, including the neuroimaging session examining brain and behavior responses during the SST, occurred during the third or fourth week of treatment for all participants (i.e., all had been abstinent from methamphetamine or any other drugs, including alcohol, for 3–4 weeks).
 19-1	2899-2902	All	_
 19-2	2903-2908	study	_
 19-3	2909-2919	procedures	_
@@ -512,6 +531,7 @@
 19-50	3196-3197	)	_
 19-51	3198-3199	.	_
 
+Text=To maintain sobriety during the program, participants were screened for the presence of drugs via random urine toxicology or whenever they left the facility, and were terminated from the program if tested positive.
 20-1	3200-3202	To	_
 20-2	3203-3211	maintain	_
 20-3	3212-3220	sobriety	_
@@ -549,6 +569,7 @@
 20-35	3407-3415	positive	_
 20-36	3416-3417	.	_
 
+Text=Participants also performed the North American Adult Reading Test as a measure of verbal intelligence, and completed self-report measures of personality and affective measures previously associated with stimulant addiction vulnerability, including the Barratt Impulsiveness Scale (BIS-11), the Sensation Seeking Scale (SSS-V), and the Beck Depression Inventory (BDI).
 21-1	3418-3430	Participants	_
 21-2	3431-3435	also	_
 21-3	3436-3445	performed	_
@@ -608,6 +629,7 @@
 21-57	3793-3794	)	http://maven.renci.org/NeuroBridge/neurobridge#BeckDepressionInventory
 21-58	3795-3796	.	_
 
+Text=Lifetime DSM-IV Axis I and II diagnoses at baseline were assessed with the Semi Structured Assessment for the Genetics of Alcoholism and based on consensus meetings with the supervising clinician and trained study personnel, including a Masters-level research assistant and postdoctoral-level psychologist (see Supplementary Text 1 for exclusion criteria).
 22-1	3797-3805	Lifetime	_
 22-2	3806-3812	DSM-IV	_
 22-3	3813-3817	Axis	_
@@ -662,6 +684,7 @@
 22-52	4154-4155	)	_
 22-53	4156-4157	.	_
 
+Text=Methamphetamine dependence, and not DSM-5 diagnosis of methamphetamine use disorder, was assessed because DSM-IV was in effect at the start of the study.
 23-1	4158-4173	Methamphetamine	_
 23-2	4174-4184	dependence	_
 23-3	4185-4186	,	_
@@ -689,6 +712,7 @@
 23-25	4307-4312	study	_
 23-26	4313-4314	.	_
 
+Text=Participants were contacted one year later for a brief structured phone interview to assess for any use of methamphetamine, level of use, and time of relapse.
 24-1	4315-4327	Participants	_
 24-2	4328-4332	were	_
 24-3	4333-4342	contacted	_
@@ -719,6 +743,7 @@
 24-28	4467-4474	relapse	_
 24-29	4475-4476	.	_
 
+Text=At baseline, we also assessed for use and abuse/dependence criteria for other drugs (i.e., sedatives, hallucinogens, marijuana, cocaine or opiates) in the past year, as part of a larger longitudinal study, which also followed individuals with other primary drugs of abuse.
 25-1	4477-4479	At	_
 25-2	4480-4488	baseline	_
 25-3	4489-4490	,	_
@@ -771,6 +796,7 @@
 25-50	4752-4757	abuse	_
 25-51	4758-4759	.	_
 
+Text=For all participants in this study, methamphetamine was confirmed as participants' drug of choice.
 26-1	4760-4763	For	_
 26-2	4764-4767	all	_
 26-3	4768-4780	participants	_
@@ -789,6 +815,7 @@
 26-16	4853-4859	choice	_
 26-17	4860-4861	.	_
 
+Text=Relapse was defined as use of methamphetamine at any point during the follow-up period, while some participants may have additionally relapsed to any of these other substances (not assessed at follow-up).
 27-1	4862-4869	Relapse	_
 27-2	4870-4873	was	_
 27-3	4874-4881	defined	_
@@ -825,6 +852,7 @@
 27-34	5067-5068	)	_
 27-35	5069-5070	.	_
 
+Text=Based on interview responses, thirty-nine methamphetamine-dependent individuals remained abstinent from methamphetamine from the time of treatment to one-year follow-up.
 28-1	5071-5076	Based	_
 28-2	5077-5079	on	_
 28-3	5080-5089	interview	_
@@ -847,6 +875,7 @@
 28-20	5231-5240	follow-up	_
 28-21	5241-5242	.	_
 
+Text=Nineteen individuals reported that they relapsed.
 29-1	5243-5251	Nineteen	_
 29-2	5252-5263	individuals	_
 29-3	5264-5272	reported	_
@@ -855,6 +884,7 @@
 29-6	5283-5291	relapsed	_
 29-7	5292-5293	.	_
 
+Text=Four participants could not be tracked.
 30-1	5294-5298	Four	_
 30-2	5299-5311	participants	_
 30-3	5312-5317	could	_
@@ -863,6 +893,7 @@
 30-6	5325-5332	tracked	_
 30-7	5333-5334	.	_
 
+Text=Stop signal task Participants completed a stop-signal task (6 blocks of 48 trials) while undergoing fMRI.
 31-1	5335-5339	Stop	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 31-2	5340-5346	signal	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 31-3	5347-5351	task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -883,6 +914,7 @@
 31-18	5437-5441	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 31-19	5442-5443	.	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 
+Text=On 216 go trials (75% of all trials), they had to press as fast as possible the left button when an ‘ X' appeared or the right button when an ‘ O' appeared.
 32-1	5444-5446	On	_
 32-2	5447-5450	216	_
 32-3	5451-5453	go	_
@@ -924,6 +956,7 @@
 32-39	5597-5605	appeared	_
 32-40	5606-5607	.	_
 
+Text=On 72 stop trials (25% of all trials), they heard a tone shortly after onset of the go stimulus, which instructed them not to press either button.
 33-1	5608-5610	On	_
 33-2	5611-5613	72	_
 33-3	5614-5618	stop	_
@@ -958,6 +991,7 @@
 33-32	5752-5758	button	_
 33-33	5759-5760	.	_
 
+Text=Each trial lasted around 1300 ms, and trials were separated by a 200-ms inter-stimulus intervals (blank screen).
 34-1	5761-5765	Each	_
 34-2	5766-5771	trial	_
 34-3	5772-5778	lasted	_
@@ -980,6 +1014,7 @@
 34-20	5874-5875	)	_
 34-21	5876-5877	.	_
 
+Text=Individuals' reaction time (time from stimulus onset to button press) provided a natural jitter.
 35-1	5878-5889	Individuals	_
 35-2	5890-5891	'	_
 35-3	5892-5900	reaction	_
@@ -999,6 +1034,7 @@
 35-17	5970-5976	jitter	_
 35-18	5977-5978	.	_
 
+Text=The sequence of trial types presented was pseudo-randomized.
 36-1	5979-5982	The	_
 36-2	5983-5991	sequence	_
 36-3	5992-5994	of	_
@@ -1009,6 +1045,7 @@
 36-8	6021-6038	pseudo-randomized	_
 36-9	6039-6040	.	_
 
+Text=Finally, prior to scanning, participants completed the SST outside the scanner to determine their mean ‘ Go ’ reaction time (MRT).
 37-1	6041-6048	Finally	_
 37-2	6049-6050	,	_
 37-3	6051-6056	prior	_
@@ -1036,6 +1073,7 @@
 37-25	6173-6174	)	_
 37-26	6175-6176	.	_
 
+Text=This measure was then used to determine the stop signal delay (SSD) for six different types stop trial of increasing difficulty, providing a subject-dependent jittered reference function.
 38-1	6177-6181	This	_
 38-2	6182-6189	measure	_
 38-3	6190-6193	was	_
@@ -1068,6 +1106,7 @@
 38-30	6358-6366	function	_
 38-31	6367-6368	.	_
 
+Text=Specifically, stop signals were delivered in equal amounts at MRT-0 ms, MRT-100 ms, MRT-200 ms, MRT-300 ms, MRT-400 ms, and MRT-500 ms providing an individually customized range of difficulty; see Supplementary Text 2 for task instructions).
 39-1	6369-6381	Specifically	_
 39-2	6382-6383	,	_
 39-3	6384-6388	stop	_
@@ -1114,6 +1153,7 @@
 39-44	6616-6617	)	_
 39-45	6618-6619	.	_
 
+Text=Bayesian model of the inhibitory response expectation To model behavior, we used a Bayes-optimal Dynamic Belief Model, which has been robustly established to capture behavioral adjustments in the SST in both healthy individuals and substance users.
 40-1	6620-6628	Bayesian	_
 40-2	6629-6634	model	_
 40-3	6635-6637	of	_
@@ -1154,6 +1194,7 @@
 40-38	6864-6869	users	_
 40-39	6870-6871	.	_
 
+Text=The model assumes that one 1) updates the prior probability of encountering stop trials, P (stop), on a trial-by-trial basis based on trial history, and 2) adjusts behavior as a function of P (stop) with higher predicted P (stop) prompting slower Go RT and higher likelihood of correctly stopping on a stop trial.
 41-1	6872-6875	The	_
 41-2	6876-6881	model	_
 41-3	6882-6889	assumes	_
@@ -1220,6 +1261,7 @@
 41-64	7190-7195	trial	_
 41-65	7196-7197	.	_
 
+Text=Mathematically, on each trial k, Pk (stop) is the mean of the predictive distribution p (rk|sk-1), which is a mixture of the previous posterior distribution and a fixed prior distribution, with α and 1 − α acting as the mixing coefficients, respectively, and where Sk = (s1, …, sk) is 1 on stop trials and 0 on go trials: with the posterior distribution being updated according to Bayes' Rule: In this study, model parameters for the beta distribution p0 (r) and α were kept constant across all participants, based on prior simulations that sought to optimize behavioral fit at the group level, i.e., maximizing the goodness-of-fit of the linear regression of P (Stop) on RT across all participants (see Supplementary Text 3).
 42-1	7198-7212	Mathematically	_
 42-2	7213-7214	,	_
 42-3	7215-7217	on	_
@@ -1371,6 +1413,7 @@
 42-149	7949-7950	)	_
 42-150	7951-7952	.	_
 
+Text=A fixed setting of p0 = Beta (a = 2.5, b = 7.5; s = a + b = 10; mean = 0.25) was used, and alpha was fit to participants' data (range tested: 0.25–1.0; α = 0.5 maximized overall fit across all participants; see Fig.
 43-1	7953-7954	A	_
 43-2	7955-7960	fixed	_
 43-3	7961-7968	setting	_
@@ -1430,6 +1473,7 @@
 43-57	8175-8178	Fig	_
 43-58	8179-8180	.	_
 
+Text=1A for P (stop) sequence).
 44-1	8181-8183	1A	_
 44-2	8184-8187	for	_
 44-3	8188-8189	P	_
@@ -1440,6 +1484,7 @@
 44-8	8208-8209	)	_
 44-9	8210-8211	.	_
 
+Text=Image acquisition and preprocessing Using a fast event-related fMRI design, six T2 * -weighted EPI functional runs were collected for each participant, along with one T1-weighted anatomical image.
 45-1	8212-8217	Image	_
 45-2	8218-8229	acquisition	_
 45-3	8230-8233	and	_
@@ -1472,6 +1517,7 @@
 45-30	8404-8409	image	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 45-31	8410-8411	.	_
 
+Text=Each scanning session was conducted on a 3 T General Electric scanner with the following parameters: T2 * -weighted EPI, repetition time = 2000 ms, echo time = 40 ms, 64 × 64 matrix, 30 4-mm axial slices, FOV = 220 × 220 mm, in-plane voxel size = 3.437, and flip angle = 90o.
 46-1	8412-8416	Each	_
 46-2	8417-8425	scanning	_
 46-3	8426-8433	session	_
@@ -1536,6 +1582,7 @@
 46-62	8691-8694	90o	_
 46-63	8695-8696	.	_
 
+Text=Each run included 256 repetitions for a length of 8 min and 32 s. Functional volume acquisitions were time-locked to task onset.
 47-1	8697-8701	Each	_
 47-2	8702-8705	run	_
 47-3	8706-8714	included	_
@@ -1560,6 +1607,7 @@
 47-22	8819-8824	onset	_
 47-23	8825-8826	.	_
 
+Text=During the same experimental session, we collected a T1-weighted image (MPRAGE, TR = 11.4 ms, TE = 4.4 ms, flip angle = 10 degree, FOV = 256 × 256, 1 mm3 voxels) to be used for anatomical reference.
 48-1	8827-8833	During	_
 48-2	8834-8837	the	_
 48-3	8838-8842	same	_
@@ -1608,6 +1656,7 @@
 48-46	9023-9032	reference	_
 48-47	9033-9034	.	_
 
+Text=All structural and functional image processing and analysis was performed with the Analysis of Functional Neuroimages (AFNI) software package, and MRI x-y slices were reconstructed into AFNI BRIK format.
 49-1	9035-9038	All	_
 49-2	9039-9049	structural	_
 49-3	9050-9053	and	_
@@ -1642,6 +1691,7 @@
 49-32	9234-9240	format	_
 49-33	9241-9242	.	_
 
+Text=Echoplanar images underwent automatic coregistration to the anatomical image and each participant dataset was visually inspected to confirm successful alignment.
 50-1	9243-9253	Echoplanar	_
 50-2	9254-9260	images	_
 50-3	9261-9270	underwent	_
@@ -1664,6 +1714,7 @@
 50-20	9394-9403	alignment	_
 50-21	9404-9405	.	_
 
+Text=Outlier voxels were identified in the aligned images based on whether a given time point greatly exceeded the mean number of voxel outliers for the time-series.
 51-1	9406-9413	Outlier	_
 51-2	9414-9420	voxels	_
 51-3	9421-9425	were	_
@@ -1692,6 +1743,7 @@
 51-26	9554-9565	time-series	_
 51-27	9566-9567	.	_
 
+Text=Time points with high numbers of outlier voxels were excluded from subsequent analyses.
 52-1	9568-9572	Time	_
 52-2	9573-9579	points	_
 52-3	9580-9584	with	_
@@ -1707,6 +1759,7 @@
 52-13	9646-9654	analyses	_
 52-14	9655-9656	.	_
 
+Text=First-level fMRI analyses In a first general linear model (GLM), Go, Stop Success/SS, and Stop Error/SE trials were distinguished and convolved with a canonical hemodynamic response function (Go Error trials were scarce and not included in these analyses).
 53-1	9657-9668	First-level	_
 53-2	9669-9673	fMRI	_
 53-3	9674-9682	analyses	_
@@ -1754,6 +1807,7 @@
 53-45	9918-9919	)	_
 53-46	9920-9921	.	_
 
+Text=Each was entered as both categorical and P (stop) -modulated regressor (i.e., Go, SS, SE, GoxPk (stop), SSxPk (stop), and SExPk (stop)).
 54-1	9922-9926	Each	_
 54-2	9927-9930	was	_
 54-3	9931-9938	entered	_
@@ -1794,6 +1848,7 @@
 54-38	10072-10073	)	_
 54-39	10074-10075	.	_
 
+Text=To more specifically isolate neural activity related to belief updating processes vs uncertainty tracking, a second GLM was created with two types of trial-wise Bayesian prediction errors as parametric regressors, representing the discrepancy between expected likelihood of having to stop on the upcoming trial (i.e., P (stop)) and actual trial type observed (i.e., Go = 0, Stop = 1).
 55-1	10076-10078	To	_
 55-2	10079-10083	more	_
 55-3	10084-10096	specifically	_
@@ -1866,6 +1921,7 @@
 55-70	10469-10470	)	_
 55-71	10471-10472	.	_
 
+Text=These regressors included in this order the signed prediction error (SPE = outcome-P (stop) = sk-Pk (stop)) and the unsigned prediction error (UPE = |outcome-Pk (stop) | = |sk-Pk (stop) |; see Fig.
 56-1	10473-10478	These	_
 56-2	10479-10489	regressors	_
 56-3	10490-10498	included	_
@@ -1913,6 +1969,7 @@
 56-45	10678-10681	Fig	_
 56-46	10682-10683	.	_
 
+Text=1A, bottom), as well as trial error (0 = correct or 1 = error) to control for performance error related activity.
 57-1	10684-10686	1A	_
 57-2	10687-10688	,	_
 57-3	10689-10695	bottom	_
@@ -1941,6 +1998,7 @@
 57-26	10793-10801	activity	_
 57-27	10802-10803	.	_
 
+Text=Each of these regressors were orthogonalized with respect to the preceding one given the non-trivial collinearity between them.
 58-1	10804-10808	Each	_
 58-2	10809-10811	of	_
 58-3	10812-10817	these	_
@@ -1961,6 +2019,7 @@
 58-18	10926-10930	them	_
 58-19	10931-10932	.	_
 
+Text=Both GLMs included the following regressors of no-interest: a baseline regressor (inter-trial intervals), three linear drift regressors (x, y, z), and three motion regressors (pitch, yaw, roll), and Go RTs (residualized with respect to P (stop)) to control for motor response confounds.
 59-1	10933-10937	Both	_
 59-2	10938-10942	GLMs	_
 59-3	10943-10951	included	_
@@ -2023,6 +2082,7 @@
 59-60	11227-11236	confounds	_
 59-61	11237-11238	.	_
 
+Text=Images were spatially filtered (Gaussian full width half maximum 4 mm) to account for individual anatomical differences.
 60-1	11239-11245	Images	_
 60-2	11246-11250	were	_
 60-3	11251-11260	spatially	_
@@ -2044,6 +2104,7 @@
 60-19	11349-11360	differences	_
 60-20	11361-11362	.	_
 
+Text=Automated Talairach transformations were applied to anatomical images and functional images were subsequently transformed into Talairach space.
 61-1	11363-11372	Automated	_
 61-2	11373-11382	Talairach	_
 61-3	11383-11398	transformations	_
@@ -2063,6 +2124,7 @@
 61-17	11500-11505	space	_
 61-18	11506-11507	.	_
 
+Text=Percent signal change (% SC) was determined by dividing the signal for each regressor of interest by the baseline regressor.
 62-1	11508-11515	Percent	_
 62-2	11516-11522	signal	_
 62-3	11523-11529	change	_
@@ -2087,6 +2149,7 @@
 62-22	11624-11633	regressor	_
 62-23	11634-11635	.	_
 
+Text=Second-level analyses At the between-subject level, two types of voxelwise mixed-effects linear models (LME) were fit to the coefficients of our first-level GLM.
 63-1	11636-11648	Second-level	_
 63-2	11649-11657	analyses	_
 63-3	11658-11660	At	_
@@ -2115,6 +2178,7 @@
 63-26	11796-11799	GLM	_
 63-27	11800-11801	.	_
 
+Text=In the first LME, we first tested for the interaction of clinical status (abstinent vs relapsed) and modulation of P (Stop) under each Go vs Stop trials (i.e, GoxP (stop) vs StopxPk (stop), SS and SE were averaged), with subject treated as random intercept effect.
 64-1	11802-11804	In	_
 64-2	11805-11808	the	_
 64-3	11809-11814	first	_
@@ -2176,6 +2240,7 @@
 64-59	12073-12079	effect	_
 64-60	12080-12081	.	_
 
+Text=Whole brain statistical maps were obtained for the group main effect (reflecting areas tracking a clinical status group difference in prior P (stop) value irrespective of trial type) and the clinical status X P (stop) modulated trial type interaction.
 65-1	12082-12087	Whole	_
 65-2	12088-12093	brain	_
 65-3	12094-12105	statistical	_
@@ -2223,6 +2288,7 @@
 65-45	12327-12338	interaction	_
 65-46	12339-12340	.	_
 
+Text=In order to assess for potential group difference in the modulation of trial accuracy (i.e., successful vs failed inhibition) by P (stop), a similar LME approach was used.
 66-1	12341-12343	In	_
 66-2	12344-12349	order	_
 66-3	12350-12352	to	_
@@ -2259,6 +2325,7 @@
 66-34	12513-12517	used	_
 66-35	12518-12519	.	_
 
+Text=Specifically, we obtained statistical maps for the main effect of clinical status (reflecting potential group difference in P (stop) activation on Stop trials irrespective of accuracy) and for the clinical status X P (stop) modulated trial type (SE vs SS) interaction.
 67-1	12520-12532	Specifically	_
 67-2	12533-12534	,	_
 67-3	12535-12537	we	_
@@ -2311,6 +2378,7 @@
 67-50	12785-12796	interaction	_
 67-51	12797-12798	.	_
 
+Text=To correct for multiple comparisons, we used a cluster threshold adjustment based on Monte Carlo simulations (generated with AFNI's 3dClustSim program).
 68-1	12799-12801	To	_
 68-2	12802-12809	correct	_
 68-3	12810-12813	for	_
@@ -2338,6 +2406,7 @@
 68-25	12953-12954	)	_
 68-26	12955-12956	.	_
 
+Text=We first calculated spatial autocorrelation function (acf) parameters from the 1st glm model residuals, using the 3dFHWMx function (which does not assume a purely Gaussian acf function, but rather a mixture of Gaussian and mono-exponential).
 69-1	12957-12959	We	_
 69-2	12960-12965	first	_
 69-3	12966-12976	calculated	_
@@ -2381,6 +2450,7 @@
 69-41	13202-13203	)	_
 69-42	13204-13205	.	_
 
+Text=The obtained parameters, averaged across participants, were fed to the 3dClustSim function to determine FWER corrected cluster size.
 70-1	13206-13209	The	_
 70-2	13210-13218	obtained	_
 70-3	13219-13229	parameters	_
@@ -2403,6 +2473,7 @@
 70-20	13335-13339	size	_
 70-21	13340-13341	.	_
 
+Text=Based on the simulations, a minimum cluster volume of 896 μL was found to be sufficient to correct for multiple comparisons at FWER = p <.05 with a minimum voxelwise significant threshold of p <.005.
 71-1	13342-13347	Based	_
 71-2	13348-13350	on	_
 71-3	13351-13354	the	_
@@ -2443,6 +2514,7 @@
 71-38	13539-13543	.005	_
 71-39	13544-13545	.	_
 
+Text=While less conservative than using a p <.001 or p <.002 voxelwise threshold, this setting provides a balance of adequate correction for multiple comparisons while ensuring a substantial minimum cluster size.
 72-1	13546-13551	While	_
 72-2	13552-13556	less	_
 72-3	13557-13569	conservative	_
@@ -2479,6 +2551,7 @@
 72-34	13751-13755	size	_
 72-35	13756-13757	.	_
 
+Text=We also note that this threshold is still relatively conservative in light of previous work having applied this Bayesian computational model in similar populations and experimental settings, which would provide grounds for a more focused search within the brain based on regions of interest.
 73-1	13758-13760	We	_
 73-2	13761-13765	also	_
 73-3	13766-13770	note	_
@@ -2526,6 +2599,7 @@
 73-45	14041-14049	interest	_
 73-46	14050-14051	.	_
 
+Text=Finally, within the regions identified with those LMEs, we identified those that were consistent with a potential group difference in either type of Bayesian prediction errors (UPE or SPE), using our second GLM for regions of interest (ROI) analyses.
 74-1	14052-14059	Finally	_
 74-2	14060-14061	,	_
 74-3	14062-14068	within	_
@@ -2574,6 +2648,7 @@
 74-46	14300-14308	analyses	_
 74-47	14309-14310	.	_
 
+Text=Moreover, for regions consistent with a group main effect or group X trial type interaction, we specifically checked for convergence between results from the second GLM and the pattern of activation to P (Stop) as function of trial type (first GLM).
 75-1	14311-14319	Moreover	_
 75-2	14320-14321	,	_
 75-3	14322-14325	for	_
@@ -2623,6 +2698,7 @@
 75-47	14564-14565	)	_
 75-48	14566-14567	.	_
 
+Text=Specifically, regions with non-zero P (stop) activations of opposite signs or with the same signs across Go and Stop trials, should be consistent with a significant group difference in UPE and SPE activations, respectively.
 76-1	14568-14580	Specifically	_
 76-2	14581-14582	,	_
 76-3	14583-14590	regions	_
@@ -2664,6 +2740,7 @@
 76-39	14783-14795	respectively	_
 76-40	14796-14797	.	_
 
+Text=This is because an SPE is equal to 0 - P (stop) = − P (stop) on Go trials, and SPE = 1 – P (stop) on Stop trials, and thus negatively correlated with P (stop) on both type of trials.
 77-1	14798-14802	This	_
 77-2	14803-14805	is	_
 77-3	14806-14813	because	_
@@ -2717,6 +2794,7 @@
 77-51	14983-14989	trials	_
 77-52	14990-14991	.	_
 
+Text=In contrast, UPE is equal to |0 - P (stop) | = P (stop) on Go trials and to |1 - P (stop) | = 1 – P (stop) on Stop trials, and thus should be positively correlated on Go trials but negatively correlated with P (stop) on Stop trials (see.
 78-1	14992-14994	In	_
 78-2	14995-15003	contrast	_
 78-3	15004-15005	,	_

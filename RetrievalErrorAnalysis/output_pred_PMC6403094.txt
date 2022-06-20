@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Data-Driven Analysis of Functional Connectivity Reveals a Potential Auditory Verbal Hallucination Network Abstract Schizophrenia is a severe global health problem, with over half of such patients experiencing auditory verbal hallucinations (AVHs).
 1-1	0-11	Data-Driven	_
 1-2	12-20	Analysis	_
 1-3	21-23	of	_
@@ -38,6 +39,7 @@
 1-34	248-249	)	_
 1-35	250-251	.	_
 
+Text=A better understanding of the neural correlates differentiating patients experiencing AVHs from patients not experiencing AVHs and healthy controls may identify targets that lead to better treatment strategies for AVHs.
 2-1	252-253	A	_
 2-2	254-260	better	_
 2-3	261-274	understanding	_
@@ -70,6 +72,7 @@
 2-30	466-470	AVHs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 2-31	471-472	.	_
 
+Text=Employing 2 data-driven, voxel-based measure of functional connectivity, we studied 46 patients with schizophrenia or schizoaffective disorder (28 experiencing AVHs and 18 not experiencing AVHs).
 3-1	473-482	Employing	_
 3-2	483-484	2	_
 3-3	485-496	data-driven	_
@@ -101,6 +104,7 @@
 3-29	670-671	)	_
 3-30	672-673	.	_
 
+Text=Twenty healthy controls matched for age, gender, ethnicity, education level, handedness, and estimated verbal intelligence were included for comparison.
 4-1	674-680	Twenty	_
 4-2	681-688	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 4-3	689-697	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -127,6 +131,7 @@
 4-24	820-830	comparison	_
 4-25	831-832	.	_
 
+Text=The intrinsic connectivity distribution (ICD) was used to model each voxel ’ s connectivity to the rest of the brain using a Weibull distribution.
 5-1	833-836	The	_
 5-2	837-846	intrinsic	_
 5-3	847-859	connectivity	_
@@ -155,6 +160,7 @@
 5-26	968-980	distribution	_
 5-27	981-982	.	_
 
+Text=To investigate lateralization of connectivity, we used cross-hemisphere ICD, a method that separates the contribution of each hemisphere to interrogate connectivity laterality.
 6-1	983-985	To	_
 6-2	986-997	investigate	_
 6-3	998-1012	lateralization	_
@@ -181,6 +187,7 @@
 6-24	1150-1160	laterality	_
 6-25	1161-1162	.	_
 
+Text=Patients with AVHs compared with patients without AVHs exhibited significantly decreased whole-brain connectivity in the medial prefrontal cortex and posterior cingulate cortex, less lateralized connectivity in left putamen, and more lateralized connectivity in left interior frontal gyrus.
 7-1	1163-1171	Patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-2	1172-1176	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-3	1177-1181	AVHs	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -222,6 +229,7 @@
 7-39	1449-1454	gyrus	_
 7-40	1455-1456	.	_
 
+Text=Correlations with Auditory Hallucination Rating Scale (AHRS) and post hoc seed connectivity analyses revealed significantly altered network connectivity.
 8-1	1457-1469	Correlations	_
 8-2	1470-1474	with	_
 8-3	1475-1483	Auditory	http://maven.renci.org/NeuroBridge/neurobridge#AuditoryHallucinationsSubscaleofPsychoticSymptomsRatingScale
@@ -244,6 +252,7 @@
 8-20	1599-1611	connectivity	_
 8-21	1612-1613	.	_
 
+Text=Using the results from all analyses comparing the patient groups and correlations with AHRS, we identified a potential AVH network, consisting of 25 nodes, showing substantial overlap with the default mode network and language processing networks.
 9-1	1614-1619	Using	_
 9-2	1620-1623	the	_
 9-3	1624-1631	results	_
@@ -285,6 +294,7 @@
 9-39	1855-1863	networks	_
 9-40	1864-1865	.	_
 
+Text=This network as a whole, instead of individual nodes, may represent actionable targets for interventions.
 10-1	1866-1870	This	_
 10-2	1871-1878	network	_
 10-3	1879-1881	as	_
@@ -304,6 +314,7 @@
 10-17	1959-1972	interventions	_
 10-18	1973-1974	.	_
 
+Text=Methods and Materials All study procedures were approved by the Human Investigation Committee of the Yale University School of Medicine.
 11-1	1975-1982	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	1983-1986	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	1987-1996	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -326,6 +337,7 @@
 11-20	2102-2110	Medicine	_
 11-21	2111-2112	.	_
 
+Text=All participants provided written, informed consent.
 12-1	2113-2116	All	_
 12-2	2117-2129	participants	_
 12-3	2130-2138	provided	_
@@ -335,6 +347,7 @@
 12-7	2158-2165	consent	_
 12-8	2166-2167	.	_
 
+Text=Participants Patients met DSM-IV criteria for schizophrenia or schizoaffective disorder based on the Structured Clinical Interview for DSM-IV Axis I Disorders (SCID–I).
 13-1	2168-2180	Participants	_
 13-2	2181-2189	Patients	_
 13-3	2190-2193	met	_
@@ -361,6 +374,7 @@
 13-24	2336-2337	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 13-25	2338-2339	.	_
 
+Text=HCs without psychiatric history per assessment with the SCID–NP were enrolled.
 14-1	2340-2343	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 14-2	2344-2351	without	_
 14-3	2352-2363	psychiatric	_
@@ -374,6 +388,7 @@
 14-11	2409-2417	enrolled	_
 14-12	2418-2419	.	_
 
+Text=Participants were between 18 and 55 years old, and were excluded if they had a neurological disorder, current substance abuse, estimated intelligence quotient <80, or were left-handed.
 15-1	2420-2432	Participants	_
 15-2	2433-2437	were	_
 15-3	2438-2445	between	_
@@ -408,6 +423,7 @@
 15-32	2597-2608	left-handed	_
 15-33	2609-2610	.	_
 
+Text=In total, 46 patients and 20 HCs were used for analysis.
 16-1	2611-2613	In	_
 16-2	2614-2619	total	_
 16-3	2620-2621	,	_
@@ -422,6 +438,7 @@
 16-12	2659-2667	analysis	_
 16-13	2668-2669	.	_
 
+Text=Patients with AVHs (AVHs+) were defined as patients experiencing AVHs at least once daily.
 17-1	2670-2678	Patients	_
 17-2	2679-2683	with	http://maven.renci.org/NeuroBridge/neurobridge#SubjectwithoutDisorder
 17-3	2684-2688	AVHs	http://maven.renci.org/NeuroBridge/neurobridge#SubjectwithoutDisorder
@@ -440,6 +457,7 @@
 17-16	2756-2761	daily	_
 17-17	2762-2763	.	_
 
+Text=Patients without AVHs (AVHs−) were defined as patients not experiencing AVHs within the prior 5 years.
 18-1	2764-2772	Patients	_
 18-2	2773-2780	without	_
 18-3	2781-2785	AVHs	_
@@ -460,6 +478,7 @@
 18-18	2862-2867	years	_
 18-19	2868-2869	.	_
 
+Text=Patients experiencing AVHs in the past 5 years, but not daily were not enrolled.
 19-1	2870-2878	Patients	_
 19-2	2879-2891	experiencing	_
 19-3	2892-2896	AVHs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -477,6 +496,7 @@
 19-15	2942-2950	enrolled	_
 19-16	2951-2952	.	_
 
+Text=AVH status was determined through the SCID.
 20-1	2953-2956	AVH	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 20-2	2957-2963	status	_
 20-3	2964-2967	was	_
@@ -486,6 +506,7 @@
 20-7	2991-2995	SCID	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 20-8	2996-2997	.	_
 
+Text=All patients were taking antipsychotic medications.
 21-1	2998-3001	All	_
 21-2	3002-3010	patients	_
 21-3	3011-3015	were	_
@@ -494,6 +515,7 @@
 21-6	3037-3048	medications	_
 21-7	3049-3050	.	_
 
+Text=In order to assess effects of antipsychotic medication, chlorpromazine equivalent dosages were calculated for second- and first-generation antipsychotic drugs.
 22-1	3051-3053	In	_
 22-2	3054-3059	order	_
 22-3	3060-3062	to	_
@@ -516,6 +538,7 @@
 22-20	3205-3210	drugs	_
 22-21	3211-3212	.	_
 
+Text=Connectivity Preprocessing Each participant underwent at least 6 runs within a single scanning session, each lasting 4 minutes, 6 seconds.
 23-1	3213-3225	Connectivity	_
 23-2	3226-3239	Preprocessing	_
 23-3	3240-3244	Each	_
@@ -540,6 +563,7 @@
 23-22	3345-3352	seconds	_
 23-23	3353-3354	.	_
 
+Text=Images were slice-time and motion corrected using SPM8 (http: //www.fil.ion.ucl.ac.uk).
 24-1	3355-3361	Images	_
 24-2	3362-3366	were	_
 24-3	3367-3377	slice-time	_
@@ -555,6 +579,7 @@
 24-13	3443-3444	)	_
 24-14	3445-3446	.	_
 
+Text=Images were iteratively smoothed until the smoothness for any image had a full width half maximum of approximately 6 mm.
 25-1	3447-3453	Images	_
 25-2	3454-3458	were	_
 25-3	3459-3470	iteratively	_
@@ -577,6 +602,7 @@
 25-20	3564-3566	mm	_
 25-21	3567-3568	.	_
 
+Text=This iterative smoothing has been shown to minimize motion confounds associated with resting-state fMRI.
 26-1	3569-3573	This	_
 26-2	3574-3583	iterative	_
 26-3	3584-3593	smoothing	_
@@ -593,6 +619,7 @@
 26-14	3668-3672	fMRI	_
 26-15	3673-3674	.	_
 
+Text=All further analysis was performed using BioImage Suite unless otherwise specified.
 27-1	3675-3678	All	_
 27-2	3679-3686	further	_
 27-3	3687-3695	analysis	_
@@ -606,6 +633,7 @@
 27-11	3748-3757	specified	_
 27-12	3758-3759	.	_
 
+Text=Several covariates of no interest were regressed from the data including linear and quadratic drift, a 24-parameter model of motion, mean cerebral–spinal fluid signal, mean white matter signal, and mean global signal.
 28-1	3760-3767	Several	_
 28-2	3768-3778	covariates	_
 28-3	3779-3781	of	_
@@ -644,6 +672,7 @@
 28-36	3974-3980	signal	_
 28-37	3981-3982	.	_
 
+Text=The data were temporally smoothed with a zero mean unit variance Gaussian filter (cutoff frequency = 0.12 Hz).
 29-1	3983-3986	The	_
 29-2	3987-3991	data	_
 29-3	3992-3996	were	_
@@ -666,6 +695,7 @@
 29-20	4093-4094	)	_
 29-21	4095-4096	.	_
 
+Text=A gray matter mask was applied to the data.
 30-1	4097-4098	A	_
 30-2	4099-4103	gray	_
 30-3	4104-4110	matter	_
@@ -677,6 +707,7 @@
 30-9	4135-4139	data	_
 30-10	4140-4141	.	_
 
+Text=Each run was independently preprocessed and variance normalized.
 31-1	4142-4146	Each	_
 31-2	4147-4150	run	_
 31-3	4151-4154	was	_
@@ -687,6 +718,7 @@
 31-8	4195-4205	normalized	_
 31-9	4206-4207	.	_
 
+Text=The 6 runs were then concatenated into 24.6 minutes of fMRI data.
 32-1	4208-4211	The	_
 32-2	4212-4213	6	_
 32-3	4214-4218	runs	_
@@ -701,6 +733,7 @@
 32-12	4268-4272	data	_
 32-13	4273-4274	.	_
 
+Text=For subjects with more than 6 runs (4 subjects in total), the 6 runs with the lowest motion were included in analysis.
 33-1	4275-4278	For	_
 33-2	4279-4287	subjects	_
 33-3	4288-4292	with	_
@@ -728,6 +761,7 @@
 33-25	4387-4395	analysis	_
 33-26	4396-4397	.	_
 
+Text=Intrinsic Connectivity Distribution Calculation Functional connectivity of each voxel as measured by ICD was calculated for each individual participant as described previously.
 34-1	4398-4407	Intrinsic	_
 34-2	4408-4420	Connectivity	_
 34-3	4421-4433	Distribution	_
@@ -752,6 +786,7 @@
 34-22	4563-4573	previously	_
 34-23	4574-4575	.	_
 
+Text=This voxel-based functional connectivity measure involves correlating the time-course for any voxel with the time-course of every other voxel in the gray matter.
 35-1	4576-4580	This	_
 35-2	4581-4592	voxel-based	_
 35-3	4593-4603	functional	_
@@ -777,6 +812,7 @@
 35-23	4730-4736	matter	_
 35-24	4737-4738	.	_
 
+Text=Traditionally, these correlations are summarized using a network theory metric, such as degree or strength.
 36-1	4739-4752	Traditionally	_
 36-2	4753-4754	,	_
 36-3	4755-4760	these	_
@@ -796,6 +832,7 @@
 36-17	4839-4847	strength	_
 36-18	4848-4849	.	_
 
+Text=Such metrics can be calculated from the distribution of correlations for any voxelx.
 37-1	4850-4854	Such	_
 37-2	4855-4862	metrics	_
 37-3	4863-4866	can	_
@@ -811,6 +848,7 @@
 37-13	4927-4933	voxelx	_
 37-14	4934-4935	.	_
 
+Text=First, f (x, r) is defined as the distribution of the correlations (r) for the time-course at voxel x to the time-course at every other voxel in the brain and can be estimated by computing the histogram of these correlations.
 38-1	4936-4941	First	_
 38-2	4942-4943	,	_
 38-3	4944-4945	f	_
@@ -859,6 +897,7 @@
 38-46	5154-5166	correlations	_
 38-47	5167-5168	.	_
 
+Text=Degree, based on a binary graph, can be estimated as the integral of this distribution from any threshold τ to 1, ie,.
 39-1	5169-5175	Degree	_
 39-2	5176-5177	,	_
 39-3	5178-5183	based	_
@@ -887,6 +926,7 @@
 39-26	5289-5290	,	_
 39-27	5291-5292	.	_
 
+Text=Strength can be estimated as the mean of this distribution or a distribution of transformed correlations,, where is the correlation coefficients or the Fisher transform of the correlation coefficients.
 40-1	5293-5301	Strength	_
 40-2	5302-5305	can	_
 40-3	5306-5308	be	_
@@ -920,6 +960,7 @@
 40-31	5483-5495	coefficients	_
 40-32	5496-5497	.	_
 
+Text=In contrast, ICD models the entire corresponding survival function,, of, where.
 41-1	5498-5500	In	_
 41-2	5501-5509	contrast	_
 41-3	5510-5511	,	_
@@ -937,6 +978,7 @@
 41-15	5575-5580	where	_
 41-16	5581-5582	.	_
 
+Text=Each point on the survival function is simply degree, based on a binary graph, evaluated at that particular threshold, τ.
 42-1	5583-5587	Each	_
 42-2	5588-5593	point	_
 42-3	5594-5596	on	_
@@ -962,6 +1004,7 @@
 42-23	5705-5706	τ	_
 42-24	5707-5708	.	_
 
+Text=The ICD approach parameterizes the change in a voxel ’ s degree as the threshold defining whether voxels are connected (ie, correlation threshold) is increased.
 43-1	5709-5712	The	_
 43-2	5713-5716	ICD	_
 43-3	5717-5725	approach	_
@@ -992,6 +1035,7 @@
 43-28	5862-5871	increased	_
 43-29	5872-5873	.	_
 
+Text=Previously, we showed that it was sufficient to model this survival function as a stretched exponential decay with unknown variance parameter and shape parameter:, where xis the spatial location of a voxel, r is a correlation between 2 time-courses, α is the variance parameter, and β is the shape parameter.
 44-1	5874-5884	Previously	_
 44-2	5885-5886	,	_
 44-3	5887-5889	we	_
@@ -1050,6 +1094,7 @@
 44-56	6178-6187	parameter	_
 44-57	6188-6189	.	_
 
+Text=Modeling the survival function,, with a stretched exponential is equivalent to modeling the underlying distribution of correlation,, as a Weibull distribution.
 45-1	6190-6198	Modeling	_
 45-2	6199-6202	the	_
 45-3	6203-6211	survival	_
@@ -1077,6 +1122,7 @@
 45-25	6340-6352	distribution	_
 45-26	6353-6354	.	_
 
+Text=Thus, ICD models the distribution of correlations between a voxel and every other voxel in the brain, with α as the parameter of interest.
 46-1	6355-6359	Thus	_
 46-2	6360-6361	,	_
 46-3	6362-6365	ICD	_
@@ -1105,6 +1151,7 @@
 46-26	6486-6494	interest	_
 46-27	6495-6496	.	_
 
+Text=No thresholds are needed to estimate the variance or model the distribution.
 47-1	6497-6499	No	_
 47-2	6500-6510	thresholds	_
 47-3	6511-6514	are	_
@@ -1119,6 +1166,7 @@
 47-12	6560-6572	distribution	_
 47-13	6573-6574	.	_
 
+Text=This algorithm was performed for all voxels in the gray matter, resulting in a parametric image where the value of each voxel represents the alpha parameter obtained from model fitting.
 48-1	6575-6579	This	_
 48-2	6580-6589	algorithm	_
 48-3	6590-6593	was	_
@@ -1152,6 +1200,7 @@
 48-31	6753-6760	fitting	_
 48-32	6761-6762	.	_
 
+Text=Finally, each participant ’ s map was normalized by subtracting the mean across all voxels and dividing by the standard deviation across all voxels.
 49-1	6763-6770	Finally	_
 49-2	6771-6772	,	_
 49-3	6773-6777	each	_
@@ -1179,6 +1228,7 @@
 49-25	6905-6911	voxels	_
 49-26	6912-6913	.	_
 
+Text=This normalization does not change the underlying connectivity pattern but ensures that all maps are equally scaled.
 50-1	6914-6918	This	_
 50-2	6919-6932	normalization	_
 50-3	6933-6937	does	_
@@ -1198,6 +1248,7 @@
 50-17	7023-7029	scaled	_
 50-18	7030-7031	.	_
 
+Text=Cross-hemisphere ICD To explore lateralization of connectivity, we used a newly developed measure, chICD.
 51-1	7032-7048	Cross-hemisphere	_
 51-2	7049-7052	ICD	_
 51-3	7053-7055	To	_
@@ -1216,6 +1267,7 @@
 51-16	7133-7138	chICD	_
 51-17	7139-7140	.	_
 
+Text=Like ICD, chICD involves correlating the time-course for a voxel x with every other time-course in the gray matter and then summarizing these correlations.
 52-1	7141-7145	Like	_
 52-2	7146-7149	ICD	_
 52-3	7150-7151	,	_
@@ -1243,6 +1295,7 @@
 52-25	7284-7296	correlations	_
 52-26	7297-7298	.	_
 
+Text=However, chICD separates the contribution of each hemisphere to the ICD providing a measure of the laterality of a voxel ’ s connectivity (Figure S1).
 53-1	7299-7306	However	_
 53-2	7307-7308	,	_
 53-3	7309-7314	chICD	_
@@ -1273,6 +1326,7 @@
 53-28	7450-7451	)	_
 53-29	7452-7453	.	_
 
+Text=Specifically, the time-course for a voxel was correlated with the time-course for every other voxel in the hemisphere ipsilateral to that voxel.
 54-1	7454-7466	Specifically	_
 54-2	7467-7468	,	_
 54-3	7469-7472	the	_
@@ -1298,6 +1352,7 @@
 54-23	7593-7598	voxel	_
 54-24	7599-7600	.	_
 
+Text=ICD was used to model the distribution of these correlations.
 55-1	7601-7604	ICD	_
 55-2	7605-7608	was	_
 55-3	7609-7613	used	_
@@ -1310,6 +1365,7 @@
 55-10	7649-7661	correlations	_
 55-11	7662-7663	.	_
 
+Text=This procedure was performed for every voxel, resulting in a map representing each voxel ’ s connectivity to the same hemisphere, labeled ICD (ipsi).
 56-1	7664-7668	This	_
 56-2	7669-7678	procedure	_
 56-3	7679-7682	was	_
@@ -1340,6 +1396,7 @@
 56-28	7815-7816	)	_
 56-29	7817-7818	.	_
 
+Text=Similarly, a map representing a voxel ’ s connectivity to the contralateral hemisphere was calculated, labeled ICD (contra).
 57-1	7819-7828	Similarly	_
 57-2	7829-7830	,	_
 57-3	7831-7832	a	_
@@ -1364,12 +1421,14 @@
 57-22	7945-7946	)	_
 57-23	7947-7948	.	_
 
+Text=Both maps were normalized.
 58-1	7949-7953	Both	_
 58-2	7954-7958	maps	_
 58-3	7959-7963	were	_
 58-4	7964-7974	normalized	_
 58-5	7975-7976	.	_
 
+Text=Finally, to detect patterns of between hemisphere connectivity, the ICD (ipsi) and ICD (contra) maps were subtracted creating our chICD metric: chICD = ICD (ipsi) − ICD (contra).
 59-1	7977-7984	Finally	_
 59-2	7985-7986	,	_
 59-3	7987-7989	to	_
@@ -1411,6 +1470,7 @@
 59-39	8164-8165	)	_
 59-40	8166-8167	.	_
 
+Text=For single group of chICD maps, a positive chICD value indicates that connectivity is relatively more lateralized to the ipsilateral hemisphere.
 60-1	8168-8171	For	_
 60-2	8172-8178	single	_
 60-3	8179-8184	group	_
@@ -1435,6 +1495,7 @@
 60-22	8302-8312	hemisphere	_
 60-23	8313-8314	.	_
 
+Text=A negative chICD value indicates that connectivity is relatively more lateralized to the contralateral hemisphere.
 61-1	8315-8316	A	_
 61-2	8317-8325	negative	_
 61-3	8326-8331	chICD	_
@@ -1452,6 +1513,7 @@
 61-15	8418-8428	hemisphere	_
 61-16	8429-8430	.	_
 
+Text=Common Space Registration Single individual results were warped into MNI space using a series of linear and non-linear transformations.
 62-1	8431-8437	Common	_
 62-2	8438-8443	Space	_
 62-3	8444-8456	Registration	_
@@ -1473,6 +1535,7 @@
 62-19	8550-8565	transformations	_
 62-20	8566-8567	.	_
 
+Text=The functional data were linearly registered to the 2D anatomical images.
 63-1	8568-8571	The	_
 63-2	8572-8582	functional	_
 63-3	8583-8587	data	_
@@ -1486,6 +1549,7 @@
 63-11	8634-8640	images	_
 63-12	8641-8642	.	_
 
+Text=The 2D anatomical image was linearly registered to the 3D MPRAGE image.
 64-1	8643-8646	The	_
 64-2	8647-8649	2D	_
 64-3	8650-8660	anatomical	_
@@ -1500,6 +1564,7 @@
 64-12	8708-8713	image	_
 64-13	8714-8715	.	_
 
+Text=The 3D MPRAGE images were non-linearly registered to an evolving group average template in an iterative fashion.
 65-1	8716-8719	The	_
 65-2	8720-8722	3D	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 65-3	8723-8729	MPRAGE	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1519,6 +1584,7 @@
 65-17	8820-8827	fashion	_
 65-18	8828-8829	.	_
 
+Text=This algorithm iterates between estimating a local transformation to align individual brains to a group average template and creating a new group average template based on the previous transformations.
 66-1	8830-8834	This	_
 66-2	8835-8844	algorithm	_
 66-3	8845-8853	iterates	_
@@ -1550,6 +1616,7 @@
 66-29	9015-9030	transformations	_
 66-30	9031-9032	.	_
 
+Text=All transformation pairs were calculated independently and combined into a single transform warping the single participant results into common space.
 67-1	9033-9036	All	_
 67-2	9037-9051	transformation	_
 67-3	9052-9057	pairs	_
@@ -1572,6 +1639,7 @@
 67-20	9176-9181	space	_
 67-21	9182-9183	.	_
 
+Text=This single transformation allows individual ’ s results to be transformed to common space with only 1 transformation, reducing interpolation error.
 68-1	9184-9188	This	_
 68-2	9189-9195	single	_
 68-3	9196-9210	transformation	_
@@ -1596,6 +1664,7 @@
 68-22	9327-9332	error	_
 68-23	9333-9334	.	_
 
+Text=Statistical Analysis Connectivity maps were analyzed using voxel-wise, 2-sample t test for pairwise contrast.
 69-1	9335-9346	Statistical	_
 69-2	9347-9355	Analysis	_
 69-3	9356-9368	Connectivity	_
@@ -1613,6 +1682,7 @@
 69-15	9436-9444	contrast	_
 69-16	9445-9446	.	_
 
+Text=As the ICD (and chICD) parameters are found via regression analysis, we justify the use of parametric testing because the errors from the regression analysis are likely normally distributed and independent, given the reasonably large sample size used to estimate these parameters.
 70-1	9447-9449	As	_
 70-2	9450-9453	the	_
 70-3	9454-9457	ICD	_
@@ -1661,6 +1731,7 @@
 70-46	9720-9730	parameters	_
 70-47	9731-9732	.	_
 
+Text=To control for task data, button press group (ie, button press or non-button press) was added as a covariate for all between group comparisons.
 71-1	9733-9735	To	_
 71-2	9736-9743	control	_
 71-3	9744-9747	for	_
@@ -1691,6 +1762,7 @@
 71-28	9868-9879	comparisons	_
 71-29	9880-9881	.	_
 
+Text=Auditory Hallucination Rating Scale (AHRS) was included as a regressor for a whole-brain analysis to examine the association between connectivity and hallucination severity.
 72-1	9882-9890	Auditory	http://maven.renci.org/NeuroBridge/neurobridge#AuditoryHallucinationsSubscaleofPsychoticSymptomsRatingScale
 72-2	9891-9904	Hallucination	http://maven.renci.org/NeuroBridge/neurobridge#AuditoryHallucinationsSubscaleofPsychoticSymptomsRatingScale
 72-3	9905-9911	Rating	http://maven.renci.org/NeuroBridge/neurobridge#AuditoryHallucinationsSubscaleofPsychoticSymptomsRatingScale
@@ -1718,6 +1790,7 @@
 72-25	10048-10056	severity	_
 72-26	10057-10058	.	_
 
+Text=Anatomical locations were localized using the Yale Brodmann Area (BA) Atlas.
 73-1	10059-10069	Anatomical	_
 73-2	10070-10079	locations	_
 73-3	10080-10084	were	_
@@ -1733,6 +1806,7 @@
 73-13	10131-10136	Atlas	_
 73-14	10137-10138	.	_
 
+Text=Imaging results are shown at a cluster-level threshold of P <.05 family-wise error correction as determined by AFNI ’ s 3dClustSim (version 16.3.05, which fixed the 3dClustSim “ bug ”).
 74-1	10139-10146	Imaging	_
 74-2	10147-10154	results	_
 74-3	10155-10158	are	_
@@ -1769,6 +1843,7 @@
 74-34	10326-10327	)	_
 74-35	10328-10329	.	_
 
+Text=Monte Carlo simulations were performed using an estimate of smoothness from the data, cluster-generating threshold of P <.01, 10000 iterations, and a gray matter mask.
 75-1	10330-10335	Monte	_
 75-2	10336-10341	Carlo	_
 75-3	10342-10353	simulations	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=A Hypo-Status in Drug Dependent Brain Revealed by Multi-modal MRI Drug addiction is a chronic brain disorder with no proven effective cure.
 1-1	0-1	A	_
 1-2	2-13	Hypo-Status	_
 1-3	14-16	in	_
@@ -26,6 +27,7 @@
 1-22	134-138	cure	_
 1-23	139-140	.	_
 
+Text=Assessing both structural and functional brain alterations using multimodal, rather than purely unimodal imaging techniques, may provide a more comprehensive understanding of the brain mechanisms underlying addiction, which in turn may facilitate future treatment strategies.
 2-1	141-150	Assessing	_
 2-2	151-155	both	_
 2-3	156-166	structural	_
@@ -66,6 +68,7 @@
 2-38	408-418	strategies	_
 2-39	419-420	.	_
 
+Text=However, this type of research remains scarce in the literature.
 3-1	421-428	However	_
 3-2	429-430	,	_
 3-3	431-435	this	_
@@ -79,6 +82,7 @@
 3-11	475-485	literature	_
 3-12	486-487	.	_
 
+Text=We acquired multi-modal MRI from 20 cocaine-addicted individuals and 19 age-matched controls.
 4-1	488-490	We	_
 4-2	491-499	acquired	_
 4-3	500-511	multi-modal	_
@@ -93,6 +97,7 @@
 4-12	572-580	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 4-13	581-582	.	_
 
+Text=Compared to controls, cocaine addicts showed a multi-modal hypo-status with 1) decreased brain tissue volume in the medial and lateral orbitofrontal cortex (OFC), 2) hypo-perfusion in the prefrontal cortex (PFC), anterior cingulate cortex (ACC), insula, right temporal cortex, and dorsolateral prefrontal cortex (DLPFC), and 3) reduced irregularity of resting state activity in the OFC and limbic areas, as well as the cingulate, visual, and parietal cortices.
 5-1	583-591	Compared	_
 5-2	592-594	to	_
 5-3	595-603	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -182,6 +187,7 @@
 5-87	1055-1063	cortices	_
 5-88	1064-1065	.	_
 
+Text=In the cocaine-addicted brain, larger tissue volume in the medial OFC, ACC, and VS, and smaller insular tissue volume were associated with higher cocaine dependence levels.
 6-1	1066-1068	In	_
 6-2	1069-1072	the	_
 6-3	1073-1089	cocaine-addicted	_
@@ -214,6 +220,7 @@
 6-30	1235-1241	levels	_
 6-31	1242-1243	.	_
 
+Text=Decreased perfusion in the amygdala and insula were also correlated with higher cocaine dependence levels.
 7-1	1244-1253	Decreased	_
 7-2	1254-1263	perfusion	_
 7-3	1264-1266	in	_
@@ -231,6 +238,7 @@
 7-15	1343-1349	levels	_
 7-16	1350-1351	.	_
 
+Text=Tissue volume, perfusion, as well as brain entropy in the insula and PFC, all showed a trend of negative correlation with drug craving scores.
 8-1	1352-1358	Tissue	_
 8-2	1359-1365	volume	_
 8-3	1366-1367	,	_
@@ -260,6 +268,7 @@
 8-27	1490-1496	scores	_
 8-28	1497-1498	.	_
 
+Text=The three modalities showed voxel-wise correlation in various brain regions, and combining them improved patient vs control brain classification accuracy.
 9-1	1499-1502	The	_
 9-2	1503-1508	three	_
 9-3	1509-1519	modalities	_
@@ -283,6 +292,7 @@
 9-21	1645-1653	accuracy	_
 9-22	1654-1655	.	_
 
+Text=These results, for the first time, demonstrate a comprehensive cocaine-dependence and craving-related hypo-status regarding the tissue volume, perfusion, and resting brain irregularity in the cocaine-addicted brain.
 10-1	1656-1661	These	_
 10-2	1662-1669	results	_
 10-3	1670-1671	,	_
@@ -315,6 +325,7 @@
 10-30	1869-1874	brain	_
 10-31	1875-1876	.	_
 
+Text=Materials and methods Subjects The same cocaine dependent cohort and control subjects as in were included in the current study.
 11-1	1877-1886	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	1887-1890	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	1891-1898	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -337,6 +348,7 @@
 11-20	1998-2003	study	_
 11-21	2004-2005	.	_
 
+Text=The study was approved by a local ethic review board and signed written consent was collected before any experiment was performed.
 12-1	2006-2009	The	_
 12-2	2010-2015	study	_
 12-3	2016-2019	was	_
@@ -360,6 +372,7 @@
 12-21	2126-2135	performed	_
 12-22	2136-2137	.	_
 
+Text=Twenty treatment-seeking cocaine patients (DRUG) (age 42.15±4.3 (mean ± standard deviation (std)), years of education 10.07±1.7, all African-American men) with a DSM-IV diagnosis of cocaine dependence and 19 age/ethnicity/race-matched controls (CTL) were recruited from the local community of West Philadelphia (age, 39.9±4.5; education, 14.9±2.9 yrs; all African-American men).
 13-1	2138-2144	Twenty	_
 13-2	2145-2162	treatment-seeking	http://maven.renci.org/NeuroBridge/neurobridge#TreatmentResponseProgressScale
 13-3	2163-2170	cocaine	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
@@ -428,6 +441,7 @@
 13-66	2532-2533	)	_
 13-67	2534-2535	.	_
 
+Text=The two groups were matched in age (p=0.13 for the age difference).
 14-1	2536-2539	The	_
 14-2	2540-2543	two	_
 14-3	2544-2550	groups	_
@@ -444,6 +458,7 @@
 14-14	2603-2604	)	_
 14-15	2605-2606	.	_
 
+Text=CTL had more years of education than DRUG (p=0.0006).
 15-1	2607-2610	CTL	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 15-2	2611-2614	had	_
 15-3	2615-2619	more	_
@@ -457,6 +472,7 @@
 15-11	2660-2661	)	_
 15-12	2662-2663	.	_
 
+Text=Detailed demographic data is listed in Table 1.
 16-1	2664-2672	Detailed	_
 16-2	2673-2684	demographic	_
 16-3	2685-2689	data	_
@@ -467,6 +483,7 @@
 16-8	2709-2710	1	_
 16-9	2711-2712	.	_
 
+Text=Defined by the M.I.N.I., 6 patients had a diagnosis of alcohol dependence; 2 with alcohol abuse; 1 had marijuana dependence; and 2 had marijuana abuse.
 17-1	2713-2720	Defined	_
 17-2	2721-2723	by	_
 17-3	2724-2727	the	_
@@ -498,6 +515,7 @@
 17-29	2862-2867	abuse	_
 17-30	2868-2869	.	_
 
+Text=All subjects underwent full physical and psychological examinations.
 18-1	2870-2873	All	_
 18-2	2874-2882	subjects	_
 18-3	2883-2892	underwent	_
@@ -508,6 +526,7 @@
 18-8	2925-2937	examinations	_
 18-9	2938-2939	.	_
 
+Text=Severity of drug dependence (days of the past 30) was assessed using the Addiction Severity Index (ASI).
 19-1	2940-2948	Severity	_
 19-2	2949-2951	of	_
 19-3	2952-2956	drug	_
@@ -531,6 +550,7 @@
 19-21	3046-3047	)	http://maven.renci.org/NeuroBridge/neurobridge#AddictionSeverityIndex
 19-22	3048-3049	.	_
 
+Text=Inclusion criteria required cocaine usage of at least 8 days within the last 30.
 20-1	3050-3059	Inclusion	_
 20-2	3060-3068	criteria	_
 20-3	3069-3077	required	_
@@ -547,6 +567,7 @@
 20-14	3127-3129	30	_
 20-15	3130-3131	.	_
 
+Text=Patients were not using medications that may cause sedation or are known to modify brain dopamine systems during the previous 60 days.
 21-1	3132-3140	Patients	_
 21-2	3141-3145	were	_
 21-3	3146-3149	not	_
@@ -571,6 +592,7 @@
 21-22	3261-3265	days	_
 21-23	3266-3267	.	_
 
+Text=Subjects were not receiving any psychotropic medications or medications which impact the CNS as a whole had no cardiovascular, hematologic, hepatic, renal, neurological, or endocrinological abnormalities; no history of head trauma or injury; no gambling problems; no history of psychosis or neurocognitive disorders unrelated to drug abuse; and no other severe psychiatric disorders, with the exception of dependence on other substance as described above.
 22-1	3268-3276	Subjects	_
 22-2	3277-3281	were	_
 22-3	3282-3285	not	_
@@ -647,6 +669,7 @@
 22-74	3727-3732	above	_
 22-75	3733-3734	.	_
 
+Text=Patients had 4–8 days of residential stabilization prior to study entry, during which they were drug-free, verified by urine drug screens (cocaine, amphetamines, cannabinoids, opiates, and phencyclidine, and alcohol).
 23-1	3735-3743	Patients	_
 23-2	3744-3747	had	_
 23-3	3748-3751	4–8	_
@@ -687,6 +710,7 @@
 23-38	3959-3960	)	_
 23-39	3961-3962	.	_
 
+Text=CTL were not dependent on any substances including alcohol and nicotine.
 24-1	3963-3966	CTL	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 24-2	3967-3971	were	_
 24-3	3972-3975	not	_
@@ -700,6 +724,7 @@
 24-11	4026-4034	nicotine	_
 24-12	4035-4036	.	_
 
+Text=Drug craving scores were recorded before the MRI scan using the Brief Substance Craving Scale.
 25-1	4037-4041	Drug	_
 25-2	4042-4049	craving	_
 25-3	4050-4056	scores	_
@@ -717,6 +742,7 @@
 25-15	4125-4130	Scale	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceCravingScale
 25-16	4131-4132	.	_
 
+Text=Both patients and controls were informed not to consume caffeine 2 hours before MRI scans.
 26-1	4133-4137	Both	_
 26-2	4138-4146	patients	_
 26-3	4147-4150	and	_
@@ -734,6 +760,7 @@
 26-15	4217-4222	scans	_
 26-16	4223-4224	.	_
 
+Text=MRI data acquisition MR imaging was conducted in a 3-T whole-body scanner (Siemens Medical Systems, Erlangen, Germany).
 27-1	4225-4228	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 27-2	4229-4233	data	_
 27-3	4234-4245	acquisition	_
@@ -757,6 +784,7 @@
 27-21	4346-4347	)	_
 27-22	4348-4349	.	_
 
+Text=High-resolution structural images were acquired for spatial brain normalization using a 3D MPRAGE sequence (TR/TE/TI = 1620/3/950ms).
 28-1	4350-4365	High-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 28-2	4366-4376	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 28-3	4377-4383	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -778,6 +806,7 @@
 28-19	4483-4484	)	_
 28-20	4485-4486	.	_
 
+Text=ASL perfusion MRI was acquired using a pseudo-continuous ASL sequence.
 29-1	4487-4490	ASL	http://maven.renci.org/NeuroBridge/neurobridge#PerfusionImagingProtocol
 29-2	4491-4500	perfusion	http://maven.renci.org/NeuroBridge/neurobridge#PerfusionImagingProtocol
 29-3	4501-4504	MRI	http://maven.renci.org/NeuroBridge/neurobridge#PerfusionImagingProtocol
@@ -790,6 +819,7 @@
 29-10	4548-4556	sequence	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 29-11	4557-4558	.	_
 
+Text=45 control/label image pairs were acquired with parameters of: labeling time = 1.5 sec, post-labeling delay = 1.5 sec, FOV=22cm, matrix=64×64, bandwidth=3kHz/pixel, TR/TE=4000/17 ms, 12 slices with a thickness of 7 mm plus 1.25 mm gap.
 30-1	4559-4561	45	_
 30-2	4562-4575	control/label	_
 30-3	4576-4581	image	_
@@ -835,6 +865,7 @@
 30-43	4797-4800	gap	_
 30-44	4801-4802	.	_
 
+Text=Gradient-echo echo-planar imaging sequence was used for resting BOLD fMRI data acquisition with parameters of: TR = 2s, TE = 30 ms, FOV = 220×220 mm2, matrix = 64×64×32, slice thickness= 4.5 mm.
 31-1	4803-4816	Gradient-echo	_
 31-2	4817-4828	echo-planar	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 31-3	4829-4836	imaging	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -875,6 +906,7 @@
 31-38	4999-5001	mm	_
 31-39	5002-5003	.	_
 
+Text=Participants were asked to lie still in the scanner at rest and keep eyes open.
 32-1	5004-5016	Participants	_
 32-2	5017-5021	were	_
 32-3	5022-5027	asked	_
@@ -892,12 +924,14 @@
 32-15	5078-5082	open	_
 32-16	5083-5084	.	_
 
+Text=180 images were acquired.
 33-1	5085-5088	180	_
 33-2	5089-5095	images	_
 33-3	5096-5100	were	_
 33-4	5101-5109	acquired	_
 33-5	5110-5111	.	_
 
+Text=Brain registration and voxel based morphometry Structural images were spatially registered to a local template generated from the all the subjects and subsequently to the MNI standard space.
 34-1	5112-5117	Brain	_
 34-2	5118-5130	registration	_
 34-3	5131-5134	and	_
@@ -928,6 +962,7 @@
 34-28	5296-5301	space	_
 34-29	5302-5303	.	_
 
+Text=Structural images were first segmented into gray matter (GM), white matter (WM), and cerebrospinal fluid (CSF) using the unified segmentation implemented in SPM8.
 35-1	5304-5314	Structural	_
 35-2	5315-5321	images	_
 35-3	5322-5326	were	_
@@ -961,6 +996,7 @@
 35-31	5469-5473	SPM8	_
 35-32	5474-5475	.	_
 
+Text=An exponentiated Lie algebra algorithm (DARTEL) was then used to derive the local template from the segmented structural images from both patients and controls ’ structural images, along with transformations from the template to each individual brain.
 36-1	5476-5478	An	_
 36-2	5479-5492	exponentiated	_
 36-3	5493-5496	Lie	_
@@ -1003,6 +1039,7 @@
 36-40	5724-5729	brain	_
 36-41	5730-5731	.	_
 
+Text=Affine transformation was used to map the local template to the MNI space using SPM8.
 37-1	5732-5738	Affine	_
 37-2	5739-5753	transformation	_
 37-3	5754-5757	was	_
@@ -1020,6 +1057,7 @@
 37-15	5812-5816	SPM8	_
 37-16	5817-5818	.	_
 
+Text=The combination of the affine transform and the DARTEL transform was used to map the individual structural images into the MNI space.
 38-1	5819-5822	The	_
 38-2	5823-5834	combination	_
 38-3	5835-5837	of	_
@@ -1044,6 +1082,7 @@
 38-22	5946-5951	space	_
 38-23	5952-5953	.	_
 
+Text=Using the flow fields that parameterize the deformation information during the above DARTEL process and DARTEL transformations, Jacobian modulation was applied to preserve and restore the original GM and WM volumes.
 39-1	5954-5959	Using	_
 39-2	5960-5963	the	_
 39-3	5964-5968	flow	_
@@ -1078,6 +1117,7 @@
 39-32	6162-6169	volumes	_
 39-33	6170-6171	.	_
 
+Text=The Jacobian scaled warped tissue images were then smoothed with a Gaussian kernel with an FWHM of 10 and compared between patients and controls using voxelwise two-sample t-test.
 40-1	6172-6175	The	_
 40-2	6176-6184	Jacobian	_
 40-3	6185-6191	scaled	_
@@ -1108,6 +1148,7 @@
 40-28	6344-6350	t-test	_
 40-29	6351-6352	.	_
 
+Text=Total brain volume, age, and education years were included as nuisance variables.
 41-1	6353-6358	Total	_
 41-2	6359-6364	brain	_
 41-3	6365-6371	volume	_
@@ -1124,6 +1165,7 @@
 41-14	6426-6435	variables	_
 41-15	6436-6437	.	_
 
+Text=Functional image processing and BEN calculation All data preprocessing was performed using SPM8 (http: //www.fil.ion.ucl.ac.uk/spm) based batch scripts available in ASLtbx with the following steps: motion correction, temporal filtering, spatial smoothing with an isotropic Gaussian kernel (full width half maximum = 6mm), coregistration, and normalization.
 42-1	6438-6448	Functional	_
 42-2	6449-6454	image	_
 42-3	6455-6465	processing	_
@@ -1181,6 +1223,7 @@
 42-55	6790-6803	normalization	_
 42-56	6804-6805	.	_
 
+Text=The amended algorithm was used for ASL image motion corrections.
 43-1	6806-6809	The	_
 43-2	6810-6817	amended	_
 43-3	6818-6827	algorithm	_
@@ -1193,6 +1236,7 @@
 43-10	6858-6869	corrections	_
 43-11	6870-6871	.	_
 
+Text=High pass filtering (cutoff=0.5) was used for temporal ASL image de-noising.
 44-1	6872-6876	High	_
 44-2	6877-6881	pass	_
 44-3	6882-6891	filtering	_
@@ -1208,6 +1252,7 @@
 44-13	6939-6949	de-noising	_
 44-14	6950-6951	.	_
 
+Text=Residual motions and global signal was regressed out from the control/label ASL images before CBF calculations.
 45-1	6952-6960	Residual	_
 45-2	6961-6968	motions	_
 45-3	6969-6972	and	_
@@ -1226,6 +1271,7 @@
 45-16	7050-7062	calculations	_
 45-17	7063-7064	.	_
 
+Text=Outlier CBF images were removed using the adaptive outlier cleaning algorithm.
 46-1	7065-7072	Outlier	_
 46-2	7073-7076	CBF	_
 46-3	7077-7083	images	_
@@ -1239,6 +1285,7 @@
 46-11	7133-7142	algorithm	_
 46-12	7143-7144	.	_
 
+Text=Resting BOLD fMRI images were detrended to remove the linear signal drift.
 47-1	7145-7152	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 47-2	7153-7157	BOLD	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 47-3	7158-7162	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1253,6 +1300,7 @@
 47-12	7213-7218	drift	_
 47-13	7219-7220	.	_
 
+Text=Head motion time courses, the mean CSF signal and mean WM signal were treated as nuisance variables and were regressed out from each voxel ’ s time series using a multiple regression model.
 48-1	7221-7225	Head	_
 48-2	7226-7232	motion	_
 48-3	7233-7237	time	_
@@ -1289,6 +1337,7 @@
 48-34	7405-7410	model	_
 48-35	7411-7412	.	_
 
+Text=Resting BOLD fMRI images were also band-pass filtered to be within 0.01Hz–0.08Hz.
 49-1	7413-7420	Resting	_
 49-2	7421-7425	BOLD	_
 49-3	7426-7430	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1303,6 +1352,7 @@
 49-12	7480-7493	0.01Hz–0.08Hz	_
 49-13	7494-7495	.	_
 
+Text=They were further zero-meaned and normalized to have a unit norm at each voxel before the calculation of BEN.
 50-1	7496-7500	They	_
 50-2	7501-7505	were	_
 50-3	7506-7513	further	_
@@ -1324,6 +1374,7 @@
 50-19	7601-7604	BEN	_
 50-20	7605-7606	.	_
 
+Text=BEN was calculated at each voxel using the approximate entropy form, SampEn as implemented in the Brain Entropy mapping toolbox (https: //cfn.upenn.edu/~zewang/BENtbx.php).
 51-1	7607-7610	BEN	_
 51-2	7611-7614	was	_
 51-3	7615-7625	calculated	_
@@ -1352,6 +1403,7 @@
 51-26	7781-7782	)	_
 51-27	7783-7784	.	_
 
+Text=The window length and the cutoff threshold were set to be 3 timepoints and r=0.6 according to.
 52-1	7785-7788	The	_
 52-2	7789-7795	window	_
 52-3	7796-7802	length	_
@@ -1371,6 +1423,7 @@
 52-17	7876-7878	to	_
 52-18	7879-7880	.	_
 
+Text=The registration transform generated during DARTEL processing was used to register the resting CBF maps and BEN maps into the MNI space.
 53-1	7881-7884	The	_
 53-2	7885-7897	registration	_
 53-3	7898-7907	transform	_
@@ -1395,6 +1448,7 @@
 53-22	8011-8016	space	_
 53-23	8017-8018	.	_
 
+Text=Group level analyses of tissue volume, CBF, and BEN Voxel-wise patient vs CTL comparisons on tissue volume, CBF, and BEN were performed using two sample t-test implemented in SPM8.
 54-1	8019-8024	Group	_
 54-2	8025-8030	level	_
 54-3	8031-8039	analyses	_
@@ -1430,6 +1484,7 @@
 54-33	8198-8202	SPM8	_
 54-34	8203-8204	.	_
 
+Text=Age and education years were included as nuisance variables.
 55-1	8205-8208	Age	_
 55-2	8209-8212	and	_
 55-3	8213-8222	education	_
@@ -1441,6 +1496,7 @@
 55-9	8255-8264	variables	_
 55-10	8265-8266	.	_
 
+Text=Correlations between the imaging measures (tissue volume, CBF, and BEN) and cocaine dependence were examined at each voxel using simple regression.
 56-1	8267-8279	Correlations	_
 56-2	8280-8287	between	_
 56-3	8288-8291	the	_
@@ -1468,6 +1524,7 @@
 56-25	8407-8417	regression	_
 56-26	8418-8419	.	_
 
+Text=Age was included in the regression model as nuisance.
 57-1	8420-8423	Age	_
 57-2	8424-8427	was	_
 57-3	8428-8436	included	_
@@ -1479,6 +1536,7 @@
 57-9	8464-8472	nuisance	_
 57-10	8473-8474	.	_
 
+Text=Inter-modality relation analysis and multi-modalities based classification Originating from the same cohort of subjects, the 3 imaging modalities may present a strong correlation, and it still remains unclear whether or not combining them will provide a more sensitive way to study the cocaine-addicted brain.
 58-1	8475-8489	Inter-modality	_
 58-2	8490-8498	relation	_
 58-3	8499-8507	analysis	_
@@ -1527,6 +1585,7 @@
 58-46	8780-8785	brain	_
 58-47	8786-8787	.	_
 
+Text=To explicitly address this question, we calculated the voxel-wise inter-modality correlation and ran a multi-modal imaging-based patient vs control brain classification.
 59-1	8788-8790	To	_
 59-2	8791-8801	explicitly	_
 59-3	8802-8809	address	_
@@ -1551,6 +1610,7 @@
 59-22	8943-8957	classification	_
 59-23	8958-8959	.	_
 
+Text=The suprathreshold clusters identified from each of the two-sample t-tests for each modality as previously mentioned were used as regions-of-interest (ROIs) to extract data from the corresponding modality images.
 60-1	8960-8963	The	_
 60-2	8964-8978	suprathreshold	_
 60-3	8979-8987	clusters	_
@@ -1584,6 +1644,7 @@
 60-31	9167-9173	images	_
 60-32	9174-9175	.	_
 
+Text=These ROI data were then used as multivariate features in a support-vector machine (SVM) learning-based patients vs control brain classification.
 61-1	9176-9181	These	_
 61-2	9182-9185	ROI	_
 61-3	9186-9190	data	_
@@ -1608,6 +1669,7 @@
 61-22	9308-9322	classification	_
 61-23	9323-9324	.	_
 
+Text=Each modality feature was input into a separate SVM model, and the 3 models were subsequently combined using the multi-kernel combination approach.
 62-1	9325-9329	Each	_
 62-2	9330-9338	modality	_
 62-3	9339-9346	feature	_
@@ -1633,6 +1695,7 @@
 62-23	9464-9472	approach	_
 62-24	9473-9474	.	_
 
+Text=Linear SVM was used because it is widely considered sufficient for neuroimaging data.
 63-1	9475-9481	Linear	_
 63-2	9482-9485	SVM	_
 63-3	9486-9489	was	_
@@ -1648,6 +1711,7 @@
 63-13	9555-9559	data	_
 63-14	9560-9561	.	_
 
+Text=39 leave-one-out cross-validations were used to verify the classification accuracy.
 64-1	9562-9564	39	_
 64-2	9565-9578	leave-one-out	_
 64-3	9579-9596	cross-validations	_
@@ -1660,6 +1724,7 @@
 64-10	9636-9644	accuracy	_
 64-11	9645-9646	.	_
 
+Text=For each validation, one subject was selected as the testing sample while the others were used as the training samples.
 65-1	9647-9650	For	_
 65-2	9651-9655	each	_
 65-3	9656-9666	validation	_
@@ -1683,6 +1748,7 @@
 65-21	9759-9766	samples	_
 65-22	9767-9768	.	_
 
+Text=The classifier was trained using the imaging data and the known categories of the subjects (cocaine patients marked by 0s, and controls marked by 1s).
 66-1	9769-9772	The	_
 66-2	9773-9783	classifier	_
 66-3	9784-9787	was	_
@@ -1713,6 +1779,7 @@
 66-28	9920-9921	)	_
 66-29	9922-9923	.	_
 
+Text=The imaging data of the testing subject was then input into the model to predict whether the subject was a patient or control.
 67-1	9924-9927	The	_
 67-2	9928-9935	imaging	_
 67-3	9936-9940	data	_
@@ -1738,6 +1805,7 @@
 67-23	10042-10049	control	_
 67-24	10050-10051	.	_
 
+Text=The prediction accuracy was then calculated as the ratio of correct predictions to the total number of subjects.
 68-1	10052-10055	The	_
 68-2	10056-10066	prediction	_
 68-3	10067-10075	accuracy	_
@@ -1758,6 +1826,7 @@
 68-18	10155-10163	subjects	_
 68-19	10164-10165	.	_
 
+Text=This process was repeated for each modality separately and in combination.
 69-1	10166-10170	This	_
 69-2	10171-10178	process	_
 69-3	10179-10182	was	_

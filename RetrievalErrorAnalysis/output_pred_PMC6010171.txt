@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Progressive Symptom-Associated Prefrontal Volume Loss Occurs in First-Episode Schizophrenia but not in Affective Psychosis Although smaller gray matter volumes (GMV) in the prefrontal cortex (PFC) in schizophrenia and bipolar disorder have been reported cross-sectionally, there are, to our knowledge, no reports of longitudinal comparisons using manually drawn, gyrally-based ROI, and their associations with symptoms.
 1-1	0-11	Progressive	_
 1-2	12-30	Symptom-Associated	_
 1-3	31-41	Prefrontal	_
@@ -67,6 +68,7 @@
 1-63	419-427	symptoms	_
 1-64	428-429	.	_
 
+Text=The object of this study was to determine whether first-episode schizophrenia (FESZ) and first-episode affective psychosis (FEAFF) patients show initial and progressive PFC GMV reduction in bilateral frontal pole, superior frontal gyrus (SFG), middle frontal gyrus (MFG), and inferior frontal gyrus (IFG) and examine their symptom associations.
 2-1	430-433	The	_
 2-2	434-440	object	_
 2-3	441-443	of	_
@@ -129,6 +131,7 @@
 2-60	774-786	associations	_
 2-61	787-788	.	_
 
+Text=Twenty-one FESZ, 24 FEAFF and 23 healthy control subjects (HC) underwent 1.5T MRI with follow-up imaging on the same scanner ~ 1.5 years later.
 3-1	789-799	Twenty-one	_
 3-2	800-804	FESZ	http://maven.renci.org/NeuroBridge/neurobridge#QualityofLifeScale
 3-3	805-806	,	_
@@ -158,6 +161,7 @@
 3-27	929-934	later	_
 3-28	935-936	.	_
 
+Text=Groups were strikingly different in progressive GMV loss.
 4-1	937-943	Groups	_
 4-2	944-948	were	_
 4-3	949-959	strikingly	_
@@ -168,6 +172,7 @@
 4-8	989-993	loss	_
 4-9	994-995	.	_
 
+Text=FESZ showed significant progressive GMV loss in the left SFG, bilateral MFG, and bilateral IFG.
 5-1	996-1000	FESZ	_
 5-2	1001-1007	showed	_
 5-3	1008-1019	significant	_
@@ -187,6 +192,7 @@
 5-17	1089-1092	IFG	_
 5-18	1093-1094	.	_
 
+Text=In addition, left MFG and/or IFG GMV loss was associated with worsening of withdrawal-retardation and total BPRS symptoms scores.
 6-1	1095-1097	In	_
 6-2	1098-1106	addition	_
 6-3	1107-1108	,	_
@@ -209,6 +215,7 @@
 6-20	1218-1224	scores	_
 6-21	1225-1226	.	_
 
+Text=In contrast, FEAFF showed no significant difference in GMV compared with HC, either cross-sectionally or longitudinally.
 7-1	1227-1229	In	_
 7-2	1230-1238	contrast	_
 7-3	1239-1240	,	_
@@ -229,6 +236,7 @@
 7-18	1334-1348	longitudinally	_
 7-19	1349-1350	.	_
 
+Text=Of note, FreeSurfer run on the same images showed no significant changes longitudinally.
 8-1	1351-1353	Of	_
 8-2	1354-1358	note	_
 8-3	1359-1360	,	_
@@ -245,6 +253,7 @@
 8-14	1425-1439	longitudinally	_
 8-15	1440-1441	.	_
 
+Text=Methods Participants The participants were twenty-one patients with FESZ and 24 with FEAFF (22 BD in a manic phase and 2 with a unipolar depression diagnosis at the time of the scans who later showed a manic phase) and 23 HCs (Table 1).
 9-1	1442-1449	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 9-2	1450-1462	Participants	_
 9-3	1463-1466	The	_
@@ -294,6 +303,7 @@
 9-47	1680-1681	)	_
 9-48	1682-1683	.	_
 
+Text=Briefly, the criteria of the subjects are as follows.
 10-1	1684-1691	Briefly	_
 10-2	1692-1693	,	_
 10-3	1694-1697	the	_
@@ -306,6 +316,7 @@
 10-10	1730-1737	follows	_
 10-11	1738-1739	.	_
 
+Text=Patients and HCs met criteria for age (18–45 years), IQ (> 75), right-handedness (handedness was assessed using the Edinburgh inventory), and a negative history for seizures, head trauma with loss of consciousness, neurologic disorder, and no history of drug dependence in the past 5 years.
 11-1	1740-1748	Patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-2	1749-1752	and	_
 11-3	1753-1756	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -365,6 +376,7 @@
 11-57	2036-2041	years	_
 11-58	2042-2043	.	_
 
+Text=Patient diagnosis was based on the Structured Clinical Interview for DSM (SCID) –Patient Version for DSM-III-R or DSM-IV criteria.
 12-1	2044-2051	Patient	_
 12-2	2052-2061	diagnosis	_
 12-3	2062-2065	was	_
@@ -388,6 +400,7 @@
 12-21	2167-2175	criteria	_
 12-22	2176-2177	.	_
 
+Text=The HCs had no Axis I or Axis II disorder according to the SCID-Non-Patient Version and SCID II Personality Disorders, and no Axis I disorder in their first-degree relatives per self-report.
 13-1	2178-2181	The	_
 13-2	2182-2185	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 13-3	2186-2189	had	_
@@ -422,6 +435,7 @@
 13-32	2357-2368	self-report	_
 13-33	2369-2370	.	_
 
+Text=All the subjects were longitudinally re-scanned approximately 1.5 years later (Table 2).
 14-1	2371-2374	All	_
 14-2	2375-2378	the	_
 14-3	2379-2387	subjects	_
@@ -438,6 +452,7 @@
 14-14	2459-2460	)	_
 14-15	2461-2462	.	_
 
+Text=Excluding the 2 subjects initially diagnosed as unipolar but later found to be manic did not change the statistical results in the cross-sectional or the longitudinal sample.
 15-1	2463-2472	Excluding	_
 15-2	2473-2476	the	_
 15-3	2477-2478	2	_
@@ -467,6 +482,7 @@
 15-27	2630-2636	sample	_
 15-28	2637-2638	.	_
 
+Text=The cross-sectional and longitudinal groups were matched for age, sex, handedness, and parental socioeconomic status (SES).
 16-1	2639-2642	The	_
 16-2	2643-2658	cross-sectional	_
 16-3	2659-2662	and	_
@@ -490,6 +506,7 @@
 16-21	2765-2766	)	_
 16-22	2767-2768	.	_
 
+Text=Medication history, if present, was assessed by patient report and through medical chart review.
 17-1	2769-2779	Medication	_
 17-2	2780-2787	history	_
 17-3	2788-2789	,	_
@@ -508,6 +525,7 @@
 17-16	2860-2866	review	_
 17-17	2867-2868	.	_
 
+Text=Dosage (Table 1 and Table 3) of antipsychotics did not correlate with any initial volume or volume change.
 18-1	2869-2875	Dosage	_
 18-2	2876-2877	(	_
 18-3	2878-2883	Table	_
@@ -530,6 +548,7 @@
 18-20	2970-2976	change	_
 18-21	2977-2978	.	_
 
+Text=Patients were recruited at McLean Hospital, a Harvard Medical School affiliate.
 19-1	2979-2987	Patients	_
 19-2	2988-2992	were	_
 19-3	2993-3002	recruited	_
@@ -544,6 +563,7 @@
 19-12	3049-3058	affiliate	_
 19-13	3059-3060	.	_
 
+Text=The HCs were recruited through newspaper advertisements.
 20-1	3061-3064	The	_
 20-2	3065-3068	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 20-3	3069-3073	were	_
@@ -553,6 +573,7 @@
 20-7	3102-3116	advertisements	_
 20-8	3117-3118	.	_
 
+Text=Consistent with the literature and our previous studies, a first episode was operationally defined as the first hospitalization for psychosis.
 21-1	3119-3129	Consistent	_
 21-2	3130-3134	with	_
 21-3	3135-3138	the	_
@@ -576,6 +597,7 @@
 21-21	3252-3261	psychosis	_
 21-22	3262-3263	.	_
 
+Text=Subjects had not been previously hospitalized for any psychiatric reason.
 22-1	3264-3272	Subjects	_
 22-2	3273-3276	had	_
 22-3	3277-3280	not	_
@@ -588,6 +610,7 @@
 22-10	3330-3336	reason	_
 22-11	3337-3338	.	_
 
+Text=We believe this criterion is consistent and robust based on a consequent objective record of symptoms; moreover as judged by the onset of antipsychotic medication, our subjects had a short potential psychosis duration prior to our study, 2 weeks for the FESZ and 1 week for FEAFF.
 23-1	3339-3341	We	_
 23-2	3342-3349	believe	_
 23-3	3350-3354	this	_
@@ -640,6 +663,7 @@
 23-50	3616-3621	FEAFF	_
 23-51	3622-3623	.	_
 
+Text=This study was approved by the McLean Hospital, Veterans Affairs Boston Healthcare System, and Harvard Medical School institutional review boards.
 24-1	3624-3628	This	_
 24-2	3629-3634	study	_
 24-3	3635-3638	was	_
@@ -664,6 +688,7 @@
 24-22	3765-3771	boards	_
 24-23	3772-3773	.	_
 
+Text=Written informed consent was obtained from all subjects before study participation.
 25-1	3774-3781	Written	_
 25-2	3782-3790	informed	_
 25-3	3791-3798	consent	_
@@ -677,6 +702,7 @@
 25-11	3843-3856	participation	_
 25-12	3857-3858	.	_
 
+Text=Clinical evaluations at times 1 and 2 included the BPRS and the Wechsler Adult Intelligence Scale–Revised (WAIS-R).
 26-1	3859-3867	Clinical	_
 26-2	3868-3879	evaluations	_
 26-3	3880-3882	at	_
@@ -698,6 +724,7 @@
 26-19	3974-3975	)	http://maven.renci.org/NeuroBridge/neurobridge#DigitSymbolSubstitutionOfTheWechslerAdultIntelligenceScaleRevised
 26-20	3976-3977	.	_
 
+Text=MRI processing The MRI protocol used 2 pulse sequences on a 1.5T MRI system (GE Medical Systems, Milwaukee, Wisconsin), as described by and our supplementary text.
 27-1	3978-3981	MRI	http://maven.renci.org/NeuroBridge/neurobridge#AffectiveProcessingScale
 27-2	3982-3992	processing	http://maven.renci.org/NeuroBridge/neurobridge#AffectiveProcessingScale
 27-3	3993-3996	The	_
@@ -731,6 +758,7 @@
 27-31	4141-4145	text	_
 27-32	4146-4147	.	_
 
+Text=The segmented voxel volumes of gray and white matter and cerebrospinal fluid were summed to yield the total intracranial contents (ICC).
 28-1	4148-4151	The	_
 28-2	4152-4161	segmented	_
 28-3	4162-4167	voxel	_
@@ -756,6 +784,7 @@
 28-23	4284-4285	)	_
 28-24	4286-4287	.	_
 
+Text=Region of interest (ROI) The PFC subregions of frontal pole (FP), and the superior, middle and inferior frontal gyri (SFG, MFG, and IFG respectively) are displayed in Fig.
 29-1	4288-4294	Region	_
 29-2	4295-4297	of	_
 29-3	4298-4306	interest	_
@@ -796,9 +825,11 @@
 29-38	4465-4468	Fig	_
 29-39	4469-4470	.	_
 
+Text=1.
 30-1	4471-4472	1	_
 30-2	4473-4474	.	_
 
+Text=The details of the criteria used for parcellation are also described in our supplementary text.
 31-1	4475-4478	The	_
 31-2	4479-4486	details	_
 31-3	4487-4489	of	_
@@ -816,6 +847,7 @@
 31-15	4565-4569	text	_
 31-16	4570-4571	.	_
 
+Text=All manual ROI parcellations were performed by investigators blind to diagnoses and the date of scan.
 32-1	4572-4575	All	_
 32-2	4576-4582	manual	_
 32-3	4583-4586	ROI	_
@@ -834,6 +866,7 @@
 32-16	4668-4672	scan	_
 32-17	4673-4674	.	_
 
+Text=To assess inter-rater reliability, 3 blind raters (T.O., T.A., and T.R.)
 33-1	4675-4677	To	_
 33-2	4678-4684	assess	_
 33-3	4685-4696	inter-rater	_
@@ -852,6 +885,7 @@
 33-16	4750-4751	.	_
 33-17	4752-4753	)	_
 
+Text=independently delineated the ROIs for 5 randomly selected cases.
 34-1	4754-4767	independently	_
 34-2	4768-4778	delineated	_
 34-3	4779-4782	the	_
@@ -863,6 +897,7 @@
 34-9	4812-4817	cases	_
 34-10	4818-4819	.	_
 
+Text=Intra-class correlation coefficients for the volume were 0.97 for the left FP, 0.98 for the right FP, 0.97 for the left SFG, 0.95 for the right SFG, 0.96 for the left MFG, 0.96 for the right MFG, 0.95 for the left IFG, 0.96 for the right IFG.
 35-1	4820-4831	Intra-class	_
 35-2	4832-4843	correlation	_
 35-3	4844-4856	coefficients	_
@@ -919,6 +954,7 @@
 35-54	5065-5068	IFG	_
 35-55	5069-5070	.	_
 
+Text=FreeSurfer analysis In order to compare the ability of detecting subtle structural changes and the validity of manual parcellation with the use of automated methodology, we also analyzed the ROI volumes using FreeSurfer version 5.3 (https: //surfer.nmr.mgh.harvard.edu).
 36-1	5071-5081	FreeSurfer	_
 36-2	5082-5090	analysis	_
 36-3	5091-5093	In	_
@@ -962,6 +998,7 @@
 36-41	5343-5344	)	_
 36-42	5345-5346	.	_
 
+Text=Thus, the MRI scans used for manual parcellation were reprocessed using FreeSurfer v. 5.3.
 37-1	5347-5351	Thus	_
 37-2	5352-5353	,	_
 37-3	5354-5357	the	_
@@ -979,6 +1016,7 @@
 37-15	5434-5437	5.3	_
 37-16	5438-5439	.	_
 
+Text=One of the coronal slice parcellated by FreeSurfer v. 5.3 is displayed in our supplementary Fig.
 38-1	5440-5443	One	_
 38-2	5444-5446	of	_
 38-3	5447-5450	the	_
@@ -997,9 +1035,11 @@
 38-16	5532-5535	Fig	_
 38-17	5536-5537	.	_
 
+Text=S1.
 39-1	5538-5540	S1	_
 39-2	5541-5542	.	_
 
+Text=The detailed procedures for volumetric measurements of FP, SFG, caudal and rostral MFG, and IFG (i.e.
 40-1	5543-5546	The	_
 40-2	5547-5555	detailed	_
 40-3	5556-5566	procedures	_
@@ -1022,6 +1062,7 @@
 40-20	5644-5647	i.e	_
 40-21	5648-5649	.	_
 
+Text=pars opercularis, pars orbitalis, and pars pars orbitalis) have been described in several publications.
 41-1	5650-5654	pars	_
 41-2	5655-5666	opercularis	_
 41-3	5667-5668	,	_
@@ -1041,6 +1082,7 @@
 41-17	5743-5755	publications	_
 41-18	5756-5757	.	_
 
+Text=Relative volumes were calculated by dividing volumes by the total intracranial volume of each subject as provided by the FreeSurfer output.
 42-1	5758-5766	Relative	_
 42-2	5767-5774	volumes	_
 42-3	5775-5779	were	_
@@ -1064,6 +1106,7 @@
 42-21	5890-5896	output	_
 42-22	5897-5898	.	_
 
+Text=Statistical Analysis One-way analysis of variance (ANOVA) was performed among FESZ, FEAFF, and HC groups for age, inter-scan interval, handedness, socioeconomic status (SES), parental SES, WAIS-R Information and Digit Span scaled scores with follow-up post hoc Tukey Honestly Significant Difference (HSD) tests.
 43-1	5899-5910	Statistical	_
 43-2	5911-5919	Analysis	_
 43-3	5920-5927	One-way	_
@@ -1121,6 +1164,7 @@
 43-55	6217-6222	tests	_
 43-56	6223-6224	.	_
 
+Text=In addition, t-tests were performed between FESZ and FEAFF groups for duration of illness, medication dosage [chlorpromazine equivalent antipsychotic dosage], and BPRS scores.
 44-1	6225-6227	In	_
 44-2	6228-6236	addition	_
 44-3	6237-6238	,	_
@@ -1151,6 +1195,7 @@
 44-28	6398-6404	scores	_
 44-29	6405-6406	.	_
 
+Text=Group differences in PFC GMV at times 1 and 2 were first assessed using repeated measures ANOVA, with Group as the between-subjects factor and Hemisphere (left and right) and Region (FP, SFG, MFG, and IFG) as the within-subjects factors.
 45-1	6407-6412	Group	_
 45-2	6413-6424	differences	_
 45-3	6425-6427	in	_
@@ -1200,6 +1245,7 @@
 45-47	6644-6651	factors	_
 45-48	6652-6653	.	_
 
+Text=Follow-up post hoc Tukey HSD tests were performed when a group difference was found.
 46-1	6654-6663	Follow-up	_
 46-2	6664-6668	post	_
 46-3	6669-6672	hoc	_
@@ -1216,6 +1262,7 @@
 46-14	6732-6737	found	_
 46-15	6738-6739	.	_
 
+Text=Relative volume (given as a percentage and calculated as [Absolute volume/ICC] × 100) was used to control for individual head size in the cross-sectional analysis.
 47-1	6740-6748	Relative	_
 47-2	6749-6755	volume	_
 47-3	6756-6757	(	_
@@ -1247,6 +1294,7 @@
 47-29	6898-6906	analysis	_
 47-30	6907-6908	.	_
 
+Text=Groups did not differ significantly in ICC at time 1 (F2,65 = 0.455, P = 0.636) or in their ICC volume changes between baseline and follow-up (t = 0.489, df = 67, P = 0.627).
 48-1	6909-6915	Groups	_
 48-2	6916-6919	did	_
 48-3	6920-6923	not	_
@@ -1291,6 +1339,7 @@
 48-42	7088-7089	)	_
 48-43	7090-7091	.	_
 
+Text=Of note, the statistical conclusions reported herein remained the same when we analyzed absolute volumes using ICC as a covariate, and when we included only FEAFF who were bipolar in a manic phase.
 49-1	7092-7094	Of	_
 49-2	7095-7099	note	_
 49-3	7100-7101	,	_
@@ -1328,6 +1377,7 @@
 49-35	7285-7290	phase	_
 49-36	7291-7292	.	_
 
+Text=For the longitudinal volume comparison, the percentage of volume change was calculated with the following formula: 100 × (Relative Volume at Second Scan–Relative Volume at Baseline Scan) / (Relative Volume at Baseline Scan) to control for any group difference in initial tissue volumes.
 50-1	7293-7296	For	_
 50-2	7297-7300	the	_
 50-3	7301-7313	longitudinal	_
@@ -1379,6 +1429,7 @@
 50-49	7577-7584	volumes	_
 50-50	7585-7586	.	_
 
+Text=To evaluate which subregion showed differences between times 1 and 2 in GMV among groups, we examined the percentage of differences of relative volumes for each subregion using one-way ANOVA with follow-up post hoc Tukey HSD tests.
 51-1	7587-7589	To	_
 51-2	7590-7598	evaluate	_
 51-3	7599-7604	which	_
@@ -1419,6 +1470,7 @@
 51-38	7813-7818	tests	_
 51-39	7819-7820	.	_
 
+Text=In the overall group comparison according to medication history, one-way ANOVA and post hoc Tukey HDS tests were performed.
 52-1	7821-7823	In	_
 52-2	7824-7827	the	_
 52-3	7828-7835	overall	_
@@ -1441,6 +1493,7 @@
 52-20	7935-7944	performed	_
 52-21	7945-7946	.	_
 
+Text=The correlations between the total scores of BPRS and medication dosage were analyzed at times 1 and 2 to evaluate any association between symptom severity and neuroleptic dosage.
 53-1	7947-7950	The	_
 53-2	7951-7963	correlations	_
 53-3	7964-7971	between	_
@@ -1471,6 +1524,7 @@
 53-28	8119-8125	dosage	_
 53-29	8126-8127	.	_
 
+Text=To eliminate any outlier and any non-normality effects, we used Spearman ’ s rho for these analyses.
 54-1	8128-8130	To	_
 54-2	8131-8140	eliminate	_
 54-3	8141-8144	any	_
@@ -1491,6 +1545,7 @@
 54-18	8220-8228	analyses	_
 54-19	8229-8230	.	_
 
+Text=Hyunh-Feldt correction was used when sphericity could not be assumed in the ANOVA.
 55-1	8231-8242	Hyunh-Feldt	_
 55-2	8243-8253	correction	_
 55-3	8254-8257	was	_
@@ -1506,6 +1561,7 @@
 55-13	8307-8312	ANOVA	_
 55-14	8313-8314	.	_
 
+Text=To evaluate the magnitude of group differences, Cohen ’ s f2 is provided when group comparisons by ANOVA did not attain significance.
 56-1	8315-8317	To	_
 56-2	8318-8326	evaluate	_
 56-3	8327-8330	the	_
@@ -1531,6 +1587,7 @@
 56-23	8436-8448	significance	_
 56-24	8449-8450	.	_
 
+Text=Clinical outcome was evaluated as the percentage of change in factor scores in BPRS using the following equation: 100 × (Score at Second Scan–Score at Baseline Scan) / (Score at Baseline Scan).
 57-1	8451-8459	Clinical	_
 57-2	8460-8467	outcome	_
 57-3	8468-8471	was	_
@@ -1570,6 +1627,7 @@
 57-37	8647-8648	)	_
 57-38	8649-8650	.	_
 
+Text=We also used Spearman ’ s rho to compute associations between ROI volume change for those ROIs showing significant change and the following variables: 1) clinical symptom outcome (e.g., longitudinal changes in BPRS subscales, conceptual disorganization component, and total scores); and 2) interscan interval.
 58-1	8651-8653	We	_
 58-2	8654-8658	also	_
 58-3	8659-8663	used	_

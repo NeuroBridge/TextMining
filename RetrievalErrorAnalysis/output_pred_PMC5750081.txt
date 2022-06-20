@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Multimodal Fusion with Reference: Searching for Joint Neuromarkers of Working Memory Deficits in Schizophrenia Multimodal fusion is an effective approach to take advantage of cross-information among multiple imaging data to better understand brain diseases.
 1-1	0-10	Multimodal	_
 1-2	11-17	Fusion	_
 1-3	18-22	with	_
@@ -39,6 +40,7 @@
 1-35	249-257	diseases	_
 1-36	258-259	.	_
 
+Text=However, most current fusion approaches are blind, without adopting any prior information.
 2-1	260-267	However	_
 2-2	268-269	,	_
 2-3	270-274	most	_
@@ -55,6 +57,7 @@
 2-14	340-351	information	_
 2-15	352-353	.	_
 
+Text=To date, there is increasing interest to uncover the neurocognitive mapping of specific behavioral measurement on enriched brain imaging data; hence, a supervised, goal-directed model that enables a priori information as a reference to guide multimodal data fusion is in need and a natural option.
 3-1	354-356	To	_
 3-2	357-361	date	_
 3-3	362-363	,	_
@@ -106,6 +109,7 @@
 3-49	648-654	option	_
 3-50	655-656	.	_
 
+Text=Here we proposed a fusion with reference model, called “ multi-site canonical correlation analysis with reference plus joint independent component analysis ” (MCCAR+jICA), which can precisely identify co-varying multimodal imaging patterns closely related to reference information, such as cognitive scores.
 4-1	657-661	Here	_
 4-2	662-664	we	_
 4-3	665-673	proposed	_
@@ -153,6 +157,7 @@
 4-45	962-968	scores	_
 4-46	969-970	.	_
 
+Text=In a 3-way fusion simulation, the proposed method was compared with its alternatives on estimation accuracy of both target component decomposition and modality linkage detection.
 5-1	971-973	In	_
 5-2	974-975	a	_
 5-3	976-981	3-way	_
@@ -181,6 +186,7 @@
 5-26	1140-1149	detection	_
 5-27	1150-1151	.	_
 
+Text=MCCAR+jICA outperforms others with higher precision.
 6-1	1152-1162	MCCAR+jICA	_
 6-2	1163-1174	outperforms	_
 6-3	1175-1181	others	_
@@ -189,6 +195,7 @@
 6-6	1194-1203	precision	_
 6-7	1204-1205	.	_
 
+Text=In human imaging data, working memory performance was utilized as a reference to investigate the covarying functional and structural brain patterns among 3 modalities and how they are impaired in schizophrenia.
 7-1	1206-1208	In	_
 7-2	1209-1214	human	_
 7-3	1215-1222	imaging	_
@@ -223,6 +230,7 @@
 7-32	1403-1416	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-33	1417-1418	.	_
 
+Text=Two independent cohorts (294 and 83 subjects respectively) were used.
 8-1	1419-1422	Two	_
 8-2	1423-1434	independent	_
 8-3	1435-1442	cohorts	_
@@ -237,6 +245,7 @@
 8-12	1485-1489	used	_
 8-13	1490-1491	.	_
 
+Text=Interestingly, similar brain maps were identified between the two cohorts, with substantial overlap in the executive control networks in fMRI, salience network in sMRI, and major white matter tracts in dMRI.
 9-1	1492-1505	Interestingly	_
 9-2	1506-1507	,	_
 9-3	1508-1515	similar	_
@@ -274,6 +283,7 @@
 9-35	1698-1702	dMRI	_
 9-36	1703-1704	.	_
 
+Text=These regions have been linked with working memory deficits in schizophrenia in multiple reports, while MCCAR+jICA further verified them in a repeatable, joint manner, demonstrating the potential of such results to identify potential neuromarkers for mental disorders.
 10-1	1705-1710	These	_
 10-2	1711-1718	regions	_
 10-3	1719-1723	have	_
@@ -316,9 +326,11 @@
 10-40	1966-1975	disorders	_
 10-41	1976-1977	.	_
 
+Text=II.
 11-1	1978-1980	II	_
 11-2	1981-1982	.	_
 
+Text=Methods and Materials The main idea of MCCAR+jICA is straightforward: while maintaining the performance of MCCA+jICA, we hope to optimize specific subject-level correlations with a reference.
 12-1	1983-1990	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	1991-1994	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	1995-2004	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -349,6 +361,7 @@
 12-28	2166-2175	reference	_
 12-29	2176-2177	.	_
 
+Text=To do this, a prior reference such as a cognitive score is incorporated to guide joint source separation, as shown in Figure 1.
 13-1	2178-2180	To	_
 13-2	2181-2183	do	_
 13-3	2184-2188	this	_
@@ -376,6 +389,7 @@
 13-25	2305-2306	1	_
 13-26	2307-2308	.	_
 
+Text=A. MCCAR Assume that there are n multimodal datasets Xk, k = 1,2, …, n, each is a linear mixture of components Ck with a nonsingular mixing matrix Ak, k denotes modality.
 14-1	2309-2311	A.	_
 14-2	2312-2317	MCCAR	_
 14-3	2318-2324	Assume	_
@@ -415,6 +429,7 @@
 14-37	2475-2483	modality	_
 14-38	2484-2485	.	_
 
+Text=where Xk is a subjects-by-voxels feature matrix, Ak is in dimension of subjects by number of components M. MCCA with reference (MCCAR) imposes an additional constraint upon the MCCA framework to maximize not only the covariations among mixing matrices of each modality, but also the top column-wise correlations between Ak and the reference signal, as shown in Figure 1 (c) and equation (2).
 15-1	2486-2491	where	_
 15-2	2492-2494	Xk	_
 15-3	2495-2497	is	_
@@ -489,6 +504,7 @@
 15-72	2884-2885	)	_
 15-73	2886-2887	.	_
 
+Text=where corr (Ak, Aj) is the column-wise correlations between Ak and Aj, k, j = {1,2,3 … n}, k ≠ j.
 16-1	2888-2893	where	_
 16-2	2894-2898	corr	_
 16-3	2899-2900	(	_
@@ -520,6 +536,7 @@
 16-29	2991-2992	j	_
 16-30	2993-2994	.	_
 
+Text=The basic strategy of MCCAR is as follows: consider that there are N subjects, dimension reduction is first performed on Xk, thus the signal subspace given by Yk = XkEk are determined.
 17-1	2995-2998	The	_
 17-2	2999-3004	basic	_
 17-3	3005-3013	strategy	_
@@ -557,6 +574,7 @@
 17-35	3171-3181	determined	_
 17-36	3182-3183	.	_
 
+Text=MCCAR is thus performed on Yk, generating the canonical variants Ak by maximizing the sum of squared correlations (SSQCOR) among canonical variants (CVs) as well as the SSQCOR between each CVs and the reference signal.
 18-1	3184-3189	MCCAR	_
 18-2	3190-3192	is	_
 18-3	3193-3197	thus	_
@@ -599,6 +617,7 @@
 18-40	3400-3406	signal	_
 18-41	3407-3408	.	_
 
+Text=We can summarize the optimization procedure of MCCAR as below.
 19-1	3409-3411	We	_
 19-2	3412-3415	can	_
 19-3	3416-3425	summarize	_
@@ -611,6 +630,7 @@
 19-10	3465-3470	below	_
 19-11	3471-3472	.	_
 
+Text=Consider that the CVs Ak given by Ak = Ykwk were jointly decomposed into M components, then the canonical coefficient vectors wk are updated by two stages: Stage 1: Stage 2: for i = 2: M end where is the ith column of the w matrices, is the correlation between the ith column of Ak and Aj, is the correlation between the ith column of Ak and the reference signal, which has the same length of subject numbers.
 20-1	3473-3481	Consider	_
 20-2	3482-3486	that	_
 20-3	3487-3490	the	_
@@ -699,6 +719,7 @@
 20-86	3882-3889	numbers	_
 20-87	3890-3891	.	_
 
+Text=λ is the regularization parameter balancing the weight of two objective functions: and and controls the convergence of the optimization.
 21-1	3892-3893	λ	_
 21-2	3894-3896	is	_
 21-3	3897-3900	the	_
@@ -722,6 +743,7 @@
 21-21	4016-4028	optimization	_
 21-22	4029-4030	.	_
 
+Text=Stage 1 is solved by first calculating the partial derivative function of the SSQCOR cost with respect to each and equating it to zero to find the stationary point.
 22-1	4031-4036	Stage	_
 22-2	4037-4038	1	_
 22-3	4039-4041	is	_
@@ -753,6 +775,7 @@
 22-29	4189-4194	point	_
 22-30	4195-4196	.	_
 
+Text=Since the SSQCOR cost is a quadratic function of each, the partial derivative is a linear function of and hence, the closed form solution can be derived.
 23-1	4197-4202	Since	_
 23-2	4203-4206	the	_
 23-3	4207-4213	SSQCOR	_
@@ -784,6 +807,7 @@
 23-29	4344-4351	derived	_
 23-30	4352-4353	.	_
 
+Text=Stage 2 and higher stages are solved in a similar manner with the cost function replaced by a Lagrangian multiplier incorporating the orthogonality constraints on the canonical coefficient vectors.
 24-1	4354-4359	Stage	_
 24-2	4360-4361	2	_
 24-3	4362-4365	and	_
@@ -815,6 +839,7 @@
 24-29	4543-4550	vectors	_
 24-30	4551-4552	.	_
 
+Text=In Figure 1, k ≠ j, k, j = 1,2,3, an example is when M = 5, as shown in Figure 1 (b) and (c), based on the above optimization, we can obtain A1, A2, A3 simultaneously as shown in Figure 1 (d), which satisfies: k ≠ j, k, j ∈ {1,2,3}; i.e., the covariation of Ak will be a diagonal matrix.
 25-1	4553-4555	In	_
 25-2	4556-4562	Figure	_
 25-3	4563-4564	1	_
@@ -902,6 +927,7 @@
 25-85	4856-4862	matrix	_
 25-86	4863-4864	.	_
 
+Text=In addition, one or more joint components, here the 3rd joint component, will be the target component that has significant correlations with the reference.
 26-1	4865-4867	In	_
 26-2	4868-4876	addition	_
 26-3	4877-4878	,	_
@@ -931,6 +957,7 @@
 26-27	5013-5022	reference	_
 26-28	5023-5024	.	_
 
+Text=B. MCCAR+jICA Due to the potential marginally significant correlations between ROI and reference in each modality, applying correlation with reference within each dataset may introduce ambiguity in feature matching.
 27-1	5025-5027	B.	_
 27-2	5028-5038	MCCAR+jICA	_
 27-3	5039-5042	Due	_
@@ -963,6 +990,7 @@
 27-30	5232-5240	matching	_
 27-31	5241-5242	.	_
 
+Text=While MCCA focus only on maximizing inter-modality covariance as shown in Fig.
 28-1	5243-5248	While	_
 28-2	5249-5253	MCCA	_
 28-3	5254-5259	focus	_
@@ -977,6 +1005,7 @@
 28-12	5317-5320	Fig	_
 28-13	5321-5322	.	_
 
+Text=1 (b); therefore, the proposed MCCAR solves two problems in one processing, resulting in unique and robust cross-modality correspondence as well as a CV that is highly correlated with reference in each modality.
 29-1	5323-5324	1	_
 29-2	5325-5326	(	_
 29-3	5327-5328	b	_
@@ -1017,6 +1046,7 @@
 29-38	5530-5538	modality	_
 29-39	5539-5540	.	_
 
+Text=Although MCCAR can provide a useful decomposition in many cases, the associated maps Ck may still not be unique in some cases.
 30-1	5541-5549	Although	_
 30-2	5550-5555	MCCAR	_
 30-3	5556-5559	can	_
@@ -1042,6 +1072,7 @@
 30-23	5662-5667	cases	_
 30-24	5668-5669	.	_
 
+Text=In order to keep the joint target component and maximize the spatial independence, we further apply jICA on the concatenated maps [C1, C2, …, Cn] to obtain the final independent components (ICs) Sk, as well as their corresponding mixing matrices Dk: Combined with equation (1), Therefore, compared to blind N-way decomposition, MCCAR+jICA ensures both spatial independence and better correspondence with the reference in the mixing profile.
 31-1	5670-5672	In	_
 31-2	5673-5678	order	_
 31-3	5679-5681	to	_
@@ -1125,6 +1156,7 @@
 31-81	6117-6124	profile	_
 31-82	6125-6126	.	_
 
+Text=This means in human brain imaging applications, we could simultaneously explore interested multimodal covariation and associate it with specific clinical measures.
 32-1	6127-6131	This	_
 32-2	6132-6137	means	_
 32-3	6138-6140	in	_
@@ -1149,6 +1181,7 @@
 32-22	6282-6290	measures	_
 32-23	6291-6292	.	_
 
+Text=C. Simulated Data We next simulated multimodal MRI data to compare the proposed method with its alternatives for its capability to extract accurate spatial maps and correspondence between multiple modalities and with the reference.
 33-1	6293-6295	C.	_
 33-2	6296-6305	Simulated	_
 33-3	6306-6310	Data	_
@@ -1185,6 +1218,7 @@
 33-34	6514-6523	reference	_
 33-35	6524-6525	.	_
 
+Text=Eight brain networks were simulated using the simTB for fMRI and sMRI.
 34-1	6526-6531	Eight	_
 34-2	6532-6537	brain	_
 34-3	6538-6546	networks	_
@@ -1199,6 +1233,7 @@
 34-12	6591-6595	sMRI	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 34-13	6596-6597	.	_
 
+Text=DMRI was generated using the Johns Hopkins University (JHU) white matter atlas in which we selected 8 typical fiber bundles, as shown in Figure 2 (the red boxed source maps are designed to be correlated with reference).
 35-1	6598-6602	DMRI	_
 35-2	6603-6606	was	_
 35-3	6607-6616	generated	_
@@ -1243,6 +1278,7 @@
 35-42	6820-6821	)	_
 35-43	6822-6823	.	_
 
+Text=Loading matrices for each modality, A1, A2, A3 were constructed in size of 300×8, resulting in 300 samples with 21025, 40000 and 65536 voxels for fMRI, dMRI and sMRI feature matrices respectively by linear combination.
 36-1	6824-6831	Loading	_
 36-2	6832-6840	matrices	_
 36-3	6841-6844	for	_
@@ -1286,6 +1322,7 @@
 36-41	7036-7047	combination	_
 36-42	7048-7049	.	_
 
+Text=Here, we used a real cognitive score of 300 subjects as a reference and carefully designed one component for each modality (in different order, 7th, 4th, 1st for fMRI, sMRI and dMRI respectively) to be significantly correlated with the reference, as shown in Supplementary Table I.
 37-1	7050-7054	Here	_
 37-2	7055-7056	,	_
 37-3	7057-7059	we	_
@@ -1342,6 +1379,7 @@
 37-54	7337-7338	I	_
 37-55	7339-7340	.	_
 
+Text=We then applied MCCAR+jICA to the simulated datasets and compared its performance with 4 alternative methods under 16 noise levels.
 38-1	7341-7343	We	_
 38-2	7344-7348	then	_
 38-3	7349-7356	applied	_
@@ -1364,6 +1402,7 @@
 38-20	7465-7471	levels	_
 38-21	7472-7473	.	_
 
+Text=The noise levels were simulated with peak signal-to-noise ratio (PSNR) ranges from 1 dB to 34dB.
 39-1	7474-7477	The	_
 39-2	7478-7483	noise	_
 39-3	7484-7490	levels	_
@@ -1384,6 +1423,7 @@
 39-18	7567-7571	34dB	_
 39-19	7572-7573	.	_
 
+Text=Typical PSNR value for the acceptable image quality is about 30 dB; the lower the value, the more degraded the image.
 40-1	7574-7581	Typical	_
 40-2	7582-7586	PSNR	_
 40-3	7587-7592	value	_
@@ -1409,6 +1449,7 @@
 40-23	7687-7692	image	_
 40-24	7693-7694	.	_
 
+Text=D. Human Brain Data In this study, we used two independent data cohorts.
 41-1	7695-7697	D.	_
 41-2	7698-7703	Human	_
 41-3	7704-7709	Brain	_
@@ -1425,6 +1466,7 @@
 41-14	7760-7767	cohorts	_
 41-15	7768-7769	.	_
 
+Text=One is recruited from the Function Biomedical Informatics Research Network (FBIRN) phase III datasets including 147 SZs (39.5 ± 11.7) and 147 HCs (37.4 ± 11) that were matched for age, gender, handedness, and race distributions.
 42-1	7770-7773	One	_
 42-2	7774-7776	is	_
 42-3	7777-7786	recruited	_
@@ -1472,6 +1514,7 @@
 42-45	7993-8006	distributions	_
 42-46	8007-8008	.	_
 
+Text=Demographics of all subjects are shown in Supplementary Table II.
 43-1	8009-8021	Demographics	_
 43-2	8022-8024	of	_
 43-3	8025-8028	all	_
@@ -1484,6 +1527,7 @@
 43-10	8071-8073	II	_
 43-11	8074-8075	.	_
 
+Text=All subjects were collected from seven FBIRN consortium sites (University of California Irvine, University of California Los Angeles, University of California San Francisco, Duke University, University of North Carolina, University of New Mexico, University of Iowa, and University of Minnesota).
 44-1	8076-8079	All	_
 44-2	8080-8088	subjects	_
 44-3	8089-8093	were	_
@@ -1535,6 +1579,7 @@
 44-49	8379-8380	)	_
 44-50	8381-8382	.	_
 
+Text=Each dataset including diagnosis, age at time of scan, gender, illness duration, symptom scores, and current medications when available, were shared by each research group according to their site ’ s protocols.
 45-1	8383-8387	Each	_
 45-2	8388-8395	dataset	_
 45-3	8396-8405	including	_
@@ -1575,6 +1620,7 @@
 45-38	8589-8598	protocols	_
 45-39	8599-8600	.	_
 
+Text=Inclusion criteria required all participants to be adults between the ages of 18 and 65 years.
 46-1	8601-8610	Inclusion	_
 46-2	8611-8619	criteria	_
 46-3	8620-8628	required	_
@@ -1593,6 +1639,7 @@
 46-16	8689-8694	years	_
 46-17	8695-8696	.	_
 
+Text=Diagnosis of schizophrenia was confirmed by trained raters using the Structured Clinical Interview for DSM-IV (SCID).
 47-1	8697-8706	Diagnosis	_
 47-2	8707-8709	of	_
 47-3	8710-8723	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -1613,6 +1660,7 @@
 47-18	8814-8815	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 47-19	8816-8817	.	_
 
+Text=All patients were on a stable dose of antipsychotic medication either typical, atypical, or a combination for at least 2 months.
 48-1	8818-8821	All	_
 48-2	8822-8830	patients	_
 48-3	8831-8835	were	_
@@ -1638,6 +1686,7 @@
 48-23	8941-8947	months	_
 48-24	8948-8949	.	_
 
+Text=Current symptom severity was rated using the Positive and Negative Syndrome Scale (PANSS).
 49-1	8950-8957	Current	_
 49-2	8958-8965	symptom	_
 49-3	8966-8974	severity	_
@@ -1655,6 +1704,7 @@
 49-15	9040-9041	)	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 49-16	9042-9043	.	_
 
+Text=All SZs were clinically stable at the time of scanning.
 50-1	9044-9047	All	_
 50-2	9048-9051	SZs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 50-3	9052-9056	were	_
@@ -1667,6 +1717,7 @@
 50-10	9090-9098	scanning	_
 50-11	9099-9100	.	_
 
+Text=In addition, HC participants were excluded for current or past psychiatric illness based on SCID assessment or for having a first-degree relative with a diagnosis of an Axis-I psychotic disorder.
 51-1	9101-9103	In	_
 51-2	9104-9112	addition	_
 51-3	9113-9114	,	_
@@ -1700,6 +1751,7 @@
 51-31	9288-9296	disorder	_
 51-32	9297-9298	.	_
 
+Text=Written informed consent was obtained from all study participants under protocols approved by the Institutional Review Boards at each study site.
 52-1	9299-9306	Written	_
 52-2	9307-9315	informed	_
 52-3	9316-9323	consent	_
@@ -1723,6 +1775,7 @@
 52-21	9439-9443	site	_
 52-22	9444-9445	.	_
 
+Text=Demographic information for subjects of each sites are provided in Supplementary Table III.
 53-1	9446-9457	Demographic	_
 53-2	9458-9469	information	_
 53-3	9470-9473	for	_
@@ -1738,6 +1791,7 @@
 53-13	9533-9536	III	_
 53-14	9537-9538	.	_
 
+Text=Another cohort consisting of 39 SZs (35.6±13.1) and 44 HCs (36.3±12.5) were collected from the University of New Mexico (UNM).
 54-1	9539-9546	Another	_
 54-2	9547-9553	cohort	_
 54-3	9554-9564	consisting	_
@@ -1766,6 +1820,7 @@
 54-26	9669-9670	)	_
 54-27	9671-9672	.	_
 
+Text=Details of the demographic information, inclusion and exclusion criteria could be found in Supplementary Table IV.
 55-1	9673-9680	Details	_
 55-2	9681-9683	of	_
 55-3	9684-9687	the	_
@@ -1785,6 +1840,7 @@
 55-17	9785-9787	IV	_
 55-18	9788-9789	.	_
 
+Text=1) Image Parameters and Preprocessing The resting state fMRI data were collected on six 3T Siemens TIM Trio scanners and one 3T MR750 General Electric (GE) scanner.
 56-1	9790-9791	1	_
 56-2	9792-9793	)	_
 56-3	9794-9799	Image	_
@@ -1817,6 +1873,7 @@
 56-30	9949-9956	scanner	_
 56-31	9957-9958	.	_
 
+Text=The imaging protocol for the resting state scans at all sites was a T2 * -weighted AC-PC aligned echo planar imaging sequence (TR/TE 2 s/30 ms, flip angle 77 degrees, 32 slices collected sequentially from superior to inferior, 3.4 × 3.4 × 4 mm with 1 mm gap, 162 frames, 5:38 min).
 57-1	9959-9962	The	_
 57-2	9963-9970	imaging	_
 57-3	9971-9979	protocol	_
@@ -1878,6 +1935,7 @@
 57-59	10245-10246	)	_
 57-60	10247-10248	.	_
 
+Text=For the resting scan, subjects were instructed to lie still with eyes closed.
 58-1	10249-10252	For	_
 58-2	10253-10256	the	_
 58-3	10257-10264	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1894,6 +1952,7 @@
 58-14	10320-10326	closed	_
 58-15	10327-10328	.	_
 
+Text=DMRI were acquired on six 3T Siemens Tim Trio System and one 3T GE Discovery MR750 scanner.
 59-1	10329-10333	DMRI	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 59-2	10334-10338	were	_
 59-3	10339-10347	acquired	_
@@ -1913,6 +1972,7 @@
 59-17	10412-10419	scanner	_
 59-18	10420-10421	.	_
 
+Text=All parameters for these two scanners were the same except for TE (Siemens 84ms/GE 81.7ms).
 60-1	10422-10425	All	_
 60-2	10426-10436	parameters	_
 60-3	10437-10440	for	_
@@ -1932,6 +1992,7 @@
 60-17	10513-10514	)	_
 60-18	10515-10516	.	_
 
+Text=The rest of the parameters for both Siemens and GE were as follows: TR = 9000ms; acquisition matrix = 128 × 128; field of view (FOV) = 256×256 mm; slice thickness = 2 mm; number of slices = 72; slice gap=2 mm; voxel resolution 2×2×2 mm; flip angle = 90; number of diffusion gradient directions = 30, b = 800 seconds/mm2, and 5 measurements with b = 0; number of excitations (NEX) =1.
 61-1	10517-10520	The	_
 61-2	10521-10525	rest	_
 61-3	10526-10528	of	_
@@ -2023,6 +2084,7 @@
 61-89	10913-10915	=1	_
 61-90	10916-10917	.	_
 
+Text=All images were registered to the first b = 0 image by FMRIB Linear Image Registration Tool (FLIRT: http: //fsl.fmrib.ox.ac.uk/fsl/fslwiki/FLIRT).
 62-1	10918-10921	All	_
 62-2	10922-10928	images	_
 62-3	10929-10933	were	_
@@ -2049,6 +2111,7 @@
 62-24	11066-11067	)	_
 62-25	11068-11069	.	_
 
+Text=High-resolution structural brain scans were also acquired on six 3T Siemens Tim Trio System and one 3T GE Discovery MR750 scanner using standardized sequences.
 63-1	11070-11085	High-resolution	_
 63-2	11086-11096	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 63-3	11097-11102	brain	_
@@ -2075,6 +2138,7 @@
 63-24	11219-11228	sequences	_
 63-25	11229-11230	.	_
 
+Text=Siemens MP-RAGE scan parameters were: TR/TE/TI=2300/2.94/1100 ms, flip angle=9°, resolution =256×256×160.
 64-1	11231-11238	Siemens	_
 64-2	11239-11246	MP-RAGE	_
 64-3	11247-11251	scan	_
@@ -2091,6 +2155,7 @@
 64-14	11326-11338	=256×256×160	_
 64-15	11339-11340	.	_
 
+Text=GE IR_SPGR scan parameters were: TR/TE/TI=5.95/1.99/45 ms, flip angle =12°, resolution =256×256×166.
 65-1	11341-11343	GE	_
 65-2	11344-11351	IR_SPGR	_
 65-3	11352-11356	scan	_
@@ -2108,6 +2173,7 @@
 65-15	11431-11443	=256×256×166	_
 65-16	11444-11445	.	_
 
+Text=All scans covered the entire brain with FOV=220 mm2, voxel size= 0.86×0.86×1.2 mm3, sagittal scan plane, GRAPPA/ASSET acceleration factor=2, and NEX=1.
 66-1	11446-11449	All	_
 66-2	11450-11455	scans	_
 66-3	11456-11463	covered	_
@@ -2135,6 +2201,7 @@
 66-25	11595-11600	NEX=1	_
 66-26	11601-11602	.	_
 
+Text=The fMRI data was preprocessed using the automated analysis pipeline, whose steps are conducted in SPM 5 (http: //www.fil.ion.ucl.ac.uk/spm) as follows: Motion correction to the first image using INRIalign; slice timing corrected to the middle slice; and normalization to MNI space, including reslicing to 3 × 3 × 3 mm voxels.
 67-1	11603-11606	The	_
 67-2	11607-11611	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 67-3	11612-11616	data	_
@@ -2196,6 +2263,7 @@
 67-59	11930-11936	voxels	_
 67-60	11937-11938	.	_
 
+Text=We further regressed out six motion parameters, white matter, and cerebrospinal fluid in denoising.
 68-1	11939-11941	We	_
 68-2	11942-11949	further	_
 68-3	11950-11959	regressed	_
@@ -2214,6 +2282,7 @@
 68-16	12030-12039	denoising	_
 68-17	12040-12041	.	_
 
+Text=Data were then spatially smoothed with an 8 mm full width half max (FWHM) Gaussian filter.
 69-1	12042-12046	Data	_
 69-2	12047-12051	were	_
 69-3	12052-12056	then	_
@@ -2234,6 +2303,7 @@
 69-18	12127-12133	filter	_
 69-19	12134-12135	.	_
 
+Text=To calculate fractional amplitude of low frequency fluctuations (fALFF), the sum of the amplitude values in the 0.01 to 0.08Hz low-frequency power range was divided by the sum of the amplitudes over the entire detectable power spectrum (range: 0–0.25Hz) [see more details in].
 70-1	12136-12138	To	_
 70-2	12139-12148	calculate	_
 70-3	12149-12159	fractional	_
@@ -2287,6 +2357,7 @@
 70-51	12418-12419	]	_
 70-52	12420-12421	.	_
 
+Text=DMRI data were preprocessed using the FMRIB Software Library (www.fmrib.ox.ac.uk/fsl) and consisted of the following steps: 1) quality check with any gradient directions with excessive motion or vibration artifacts identified and removed; 2) motion and eddy current correction; 3) correction of gradient directions for any image rotation done during the previous motion correction step; and 4) calculation of diffusion tensor and scalar measures such as fractional anisotropy (FA), which were then smoothed using 8 mm FWHM Gaussian filter.
 71-1	12422-12426	DMRI	_
 71-2	12427-12431	data	_
 71-3	12432-12436	were	_
@@ -2380,6 +2451,7 @@
 71-91	12967-12973	filter	_
 71-92	12974-12975	.	_
 
+Text=Using the unified segmentation methods of SPM5, the sMRI was normalized to MNI space, resliced to 3 × 3 × 3 mm, and segmented into gray matter (GM), white matter, and cerebral spinal fluid (CSF).
 72-1	12976-12981	Using	_
 72-2	12982-12985	the	_
 72-3	12986-12993	unified	_
@@ -2426,6 +2498,7 @@
 72-44	13178-13179	)	_
 72-45	13180-13181	.	_
 
+Text=Then, the GM images were smoothed with a FWHM of 8 mm Gaussian filter.
 73-1	13182-13186	Then	_
 73-2	13187-13188	,	_
 73-3	13189-13192	the	_
@@ -2443,6 +2516,7 @@
 73-15	13246-13252	filter	_
 73-16	13253-13254	.	_
 
+Text=Subject outlier detection was further performed using a spatial Pearson correlation with the template image to ensure that all subjects were properly segmented [details can be found in].
 74-1	13255-13262	Subject	_
 74-2	13263-13270	outlier	_
 74-3	13271-13280	detection	_
@@ -2475,6 +2549,7 @@
 74-30	13441-13442	]	_
 74-31	13443-13444	.	_
 
+Text=2) Normalization and Site Effect Correction After preprocessing, the three-dimensional brain images of each subject were reshaped into a one-dimensional vector and stacked, forming a matrix (Nsubj×Nvoxel) for each of the three modalities.
 75-1	13445-13446	2	_
 75-2	13447-13448	)	_
 75-3	13449-13462	Normalization	_
@@ -2515,6 +2590,7 @@
 75-38	13677-13687	modalities	_
 75-39	13688-13689	.	_
 
+Text=These three matrices were then normalized to have the same average sum of squares (computed across all subjects and all voxels for each modality) to ensure all modalities had the same ranges.
 76-1	13690-13695	These	_
 76-2	13696-13701	three	_
 76-3	13702-13710	matrices	_
@@ -2551,6 +2627,7 @@
 76-34	13876-13882	ranges	_
 76-35	13883-13884	.	_
 
+Text=Multivariate analysis of covariance (MANCOVA) was performed on the normalized feature matrices.
 77-1	13885-13897	Multivariate	_
 77-2	13898-13906	analysis	_
 77-3	13907-13909	of	_
@@ -2567,6 +2644,7 @@
 77-14	13973-13981	matrices	_
 77-15	13982-13983	.	_
 
+Text=Gender, age and site were set as covariates, along with their interactions were all regressed out from fALFF, FA and GM matrices respectively, to minimize their potential impact on the imaging data, the resulting data were then ready for fusion analysis.
 78-1	13984-13990	Gender	_
 78-2	13991-13992	,	_
 78-3	13993-13996	age	_
@@ -2615,6 +2693,7 @@
 78-46	14234-14242	analysis	_
 78-47	14243-14244	.	_
 
+Text=3) The Working Memory Scores We use one cognitive domain measure, working memory (WM) score, as the reference for supervised multimodal MRI fusion.
 79-1	14245-14246	3	_
 79-2	14247-14248	)	_
 79-3	14249-14252	The	_
@@ -2645,6 +2724,7 @@
 79-28	14390-14396	fusion	_
 79-29	14397-14398	.	_
 
+Text=For fBIRN data, the WM score was measured by the Computerized Multiphasic Interactive Neuro-cognitive System (CMINDS).
 80-1	14399-14402	For	_
 80-2	14403-14408	fBIRN	http://maven.renci.org/NeuroBridge/neurobridge#BirchwoodSocialFunctioningScale
 80-3	14409-14413	data	_
@@ -2666,6 +2746,7 @@
 80-19	14518-14519	)	_
 80-20	14520-14521	.	_
 
+Text=As listed in Supplementary Table II, CMINDS involves 6 domains, i.e., speed of processing, attention/vigilance, working memory, verbal learning, visual learning and reasoning/problem solving.
 81-1	14522-14524	As	_
 81-2	14525-14531	listed	_
 81-3	14532-14534	in	_
@@ -2699,6 +2780,7 @@
 81-31	14712-14719	solving	_
 81-32	14720-14721	.	_
 
+Text=For the validated data cohort from UNM, working memory score is measured by the MATRICS Consensus Cognitive Battery (MCCB) system, which is launched by the National Institute of Mental Health and contain one more domain, social cognition than CMINDS, see supplementary Table IV.
 82-1	14722-14725	For	_
 82-2	14726-14729	the	_
 82-3	14730-14739	validated	_
@@ -2750,6 +2832,7 @@
 82-49	15003-15005	IV	_
 82-50	15006-15007	.	_
 
+Text=Both cognitive measurement systems include computerized neuropsychological tasks that are structurally and functionally similar, and the neurocognitive domain z-scores were computed from these tests.
 83-1	15008-15012	Both	_
 83-2	15013-15022	cognitive	_
 83-3	15023-15034	measurement	_
@@ -2777,6 +2860,7 @@
 83-25	15202-15207	tests	_
 83-26	15208-15209	.	_
 
+Text=As reported by, CMINDS is very similar to MATRICS on measuring cognitive deficits in schizophrenia.
 84-1	15210-15212	As	_
 84-2	15213-15221	reported	_
 84-3	15222-15224	by	_

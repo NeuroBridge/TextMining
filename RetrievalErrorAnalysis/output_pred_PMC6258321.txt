@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=A Method to Compare the Discriminatory Power of Data-driven Methods: Application to ICA and IVA Background: The widespread application of data-driven factorization-based methods, such as independent component analysis (ICA), to functional magnetic resonance imaging data facilitates the study of neural function and how it is disrupted by psychiatric disorders such as schizophrenia.
 1-1	0-1	A	_
 1-2	2-8	Method	_
 1-3	9-11	to	_
@@ -62,6 +63,7 @@
 1-58	375-388	schizophrenia	_
 1-59	389-390	.	_
 
+Text=While the increasing number of these methods motivates a comparison of their relative performance, such a comparison is difficult to perform on real fMRI data, since the ground truth is, relatively, unknown and the alignment of factors across different methods is impractical and imprecise.
 2-1	391-396	While	_
 2-2	397-400	the	_
 2-3	401-411	increasing	_
@@ -112,6 +114,7 @@
 2-48	675-684	imprecise	_
 2-49	685-686	.	_
 
+Text=New Method: We present a novel method, global difference maps (GDMs), to compare the results of different fMRI analysis techniques on real fMRI data, quantify their relative performances, and highlight the differences between the decompositions visually.
 3-1	687-690	New	_
 3-2	691-697	Method	_
 3-3	698-699	:	_
@@ -157,6 +160,7 @@
 3-43	939-947	visually	_
 3-44	948-949	.	_
 
+Text=Comparison with Existing Methods: We apply this method to compare the performances of two different factorization-based methods, ICA and its multiset extension independent vector analysis (IVA), for the analysis of fMRI data from 109 patients with schizophrenia and 138 healthy controls during the performance of three tasks.
 4-1	950-960	Comparison	_
 4-2	961-965	with	_
 4-3	966-974	Existing	_
@@ -211,6 +215,7 @@
 4-52	1274-1279	tasks	_
 4-53	1280-1281	.	_
 
+Text=Results: Through this application of GDMs, we find that IVA can determine regions that are more discriminatory between patients and controls than ICA, though IVA is less effective at emphasizing regions found in only a subset of the tasks.
 5-1	1282-1289	Results	_
 5-2	1290-1291	:	_
 5-3	1292-1299	Through	_
@@ -255,6 +260,7 @@
 5-42	1518-1523	tasks	_
 5-43	1524-1525	.	_
 
+Text=Conclusions: These results demonstrate that GDMs are an effective way to compare the performances of different factorization-based methods as well as regression-based analyses.
 6-1	1526-1537	Conclusions	_
 6-2	1538-1539	:	_
 6-3	1540-1545	These	_
@@ -281,6 +287,7 @@
 6-24	1694-1702	analyses	_
 6-25	1703-1704	.	_
 
+Text=Materials and Methods Feature Extraction Since the timing of the stimuli in each task is different, it is difficult to jointly analyze multi-task fMRI data.
 7-1	1705-1714	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 7-2	1715-1718	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 7-3	1719-1726	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -309,6 +316,7 @@
 7-26	1857-1861	data	_
 7-27	1862-1863	.	_
 
+Text=Rather, for each subject, a simple linear regression is run on the data from each voxel using the statistical parametric mapping toolbox (SPM), where the regressors are created by convolving the hemodynamic response function (HRF) in SPM with the desired predictors for each task.
 8-1	1864-1870	Rather	_
 8-2	1871-1872	,	_
 8-3	1873-1876	for	_
@@ -362,6 +370,7 @@
 8-51	2146-2150	task	_
 8-52	2151-2152	.	_
 
+Text=The resulting regression coefficient maps are used as features for each subject and task.
 9-1	2153-2156	The	_
 9-2	2157-2166	resulting	_
 9-3	2167-2177	regression	_
@@ -378,6 +387,7 @@
 9-14	2237-2241	task	_
 9-15	2242-2243	.	_
 
+Text=This reduction, using a lower-dimensional though still multivariate representation of the data, facilitates exploration of the associations across the features from multiple tasks, see e.g.,, as well as enabling the identification of intrinsic functional networks.
 10-1	2244-2248	This	_
 10-2	2249-2258	reduction	_
 10-3	2259-2260	,	_
@@ -420,6 +430,7 @@
 10-40	2504-2512	networks	_
 10-41	2513-2514	.	_
 
+Text=FMRI Tasks and Features The datasets used in this study are from the Mind Research Network Clinical Imaging Consortium Collection (publicly available at http: //coins.mrn.org).
 11-1	2515-2519	FMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 11-2	2520-2525	Tasks	_
 11-3	2526-2529	and	_
@@ -450,6 +461,7 @@
 11-28	2692-2693	)	_
 11-29	2694-2695	.	_
 
+Text=These datasets were obtained from 247 subjects, 109 patients with schizophrenia and 138 healthy controls.
 12-1	2696-2701	These	_
 12-2	2702-2710	datasets	_
 12-3	2711-2715	were	_
@@ -468,6 +480,7 @@
 12-16	2793-2801	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 12-17	2802-2803	.	_
 
+Text=Next, we introduce the tasks as well as the associated multivariate features analyzed in this study.
 13-1	2804-2808	Next	_
 13-2	2809-2810	,	_
 13-3	2811-2813	we	_
@@ -487,6 +500,7 @@
 13-17	2899-2904	study	_
 13-18	2905-2906	.	_
 
+Text=Auditory Oddball Task This auditory task required the subjects to listen to three different types of auditory stimuli in a pseudo-random order: standard (1 kHz tones occurring with a probability of 0.82), novel (complex sounds occurring with a probability of 0.09), and target (1.2 kHz tones occurring with a probability of 0.09, to which a right thumb button press was required).
 14-1	2907-2915	Auditory	http://maven.renci.org/NeuroBridge/neurobridge#AuditoryOddballTask
 14-2	2916-2923	Oddball	_
 14-3	2924-2928	Task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -560,6 +574,7 @@
 14-71	3295-3296	)	_
 14-72	3297-3298	.	_
 
+Text=Each run of the task consisted of 90 stimuli, each with a 200 ms duration and a randomly changing interstimulus interval of between 550 and 2,050 ms.
 15-1	3299-3303	Each	_
 15-2	3304-3307	run	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 15-3	3308-3310	of	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -590,6 +605,7 @@
 15-28	3446-3448	ms	_
 15-29	3449-3450	.	_
 
+Text=The order of novel and target stimuli was changed between runs, thus ensuring that the responses were not dependent on the stimulus order.
 16-1	3451-3454	The	_
 16-2	3455-3460	order	_
 16-3	3461-3463	of	_
@@ -616,6 +632,7 @@
 16-24	3584-3589	order	_
 16-25	3590-3591	.	_
 
+Text=For this task, the regressor was created by modeling both the target and standard stimuli as delta functions and convolving this sequence of delta functions with the default SPM HRF in addition to their temporal derivatives.
 17-1	3592-3595	For	_
 17-2	3596-3600	this	_
 17-3	3601-3605	task	_
@@ -655,6 +672,7 @@
 17-37	3805-3816	derivatives	_
 17-38	3817-3818	.	_
 
+Text=Subject averaged contrast images between the target versus the standard tones were used as the feature for this task.
 18-1	3819-3826	Subject	_
 18-2	3827-3835	averaged	_
 18-3	3836-3844	contrast	_
@@ -676,6 +694,7 @@
 18-19	3931-3935	task	_
 18-20	3936-3937	.	_
 
+Text=Sternberg Item Recognition Paradigm Task This visual task required the subjects to remember a set of 1, 3, or 5 randomly chosen numbers between 0 and 9.
 19-1	3938-3947	Sternberg	http://maven.renci.org/NeuroBridge/neurobridge#SternbergItemRecognitionParadigmTask
 19-2	3948-3952	Item	http://maven.renci.org/NeuroBridge/neurobridge#SternbergItemRecognitionParadigmTask
 19-3	3953-3964	Recognition	http://maven.renci.org/NeuroBridge/neurobridge#SternbergItemRecognitionParadigmTask
@@ -707,6 +726,7 @@
 19-29	4090-4091	9	_
 19-30	4092-4093	.	_
 
+Text=The task paradigm consisted of: a 1.5 second learn condition, a blank screen for 0.5 seconds, a 6 second encode condition, where the whole sequence of digits was presented together, and a 38 second probe condition, where the subject was shown a sequence of integers and had to indicate, with a right thumb button press, whether or not it was a member of the memorized set.
 20-1	4094-4097	The	_
 20-2	4098-4102	task	_
 20-3	4103-4111	paradigm	_
@@ -783,6 +803,7 @@
 20-74	4470-4473	set	_
 20-75	4474-4475	.	_
 
+Text=Each probe digit was presented for up to 1.1 seconds in a pseudo-random fashion within a 2.7 second interval.
 21-1	4476-4480	Each	_
 21-2	4481-4486	probe	_
 21-3	4487-4492	digit	_
@@ -804,6 +825,7 @@
 21-19	4576-4584	interval	_
 21-20	4585-4586	.	_
 
+Text=A total of 84 probes, consisting of 42 targets and 42 foils was obtained per scan and the prompt-encode-probe conditions were run twice for each set size in a pseudo-random order.
 22-1	4587-4588	A	_
 22-2	4589-4594	total	_
 22-3	4595-4597	of	_
@@ -838,6 +860,7 @@
 22-32	4761-4766	order	_
 22-33	4767-4768	.	_
 
+Text=For this task, the regressor was created by convolving the probe response for the three digit set with the default SPM HRF.
 23-1	4769-4772	For	_
 23-2	4773-4777	this	_
 23-3	4778-4782	task	_
@@ -863,6 +886,7 @@
 23-23	4889-4892	HRF	_
 23-24	4893-4894	.	_
 
+Text=This was done for both runs of the probe response and then the average map was computed and used as the feature for this task.
 24-1	4895-4899	This	_
 24-2	4900-4903	was	_
 24-3	4904-4908	done	_
@@ -890,6 +914,7 @@
 24-25	5016-5020	task	_
 24-26	5021-5022	.	_
 
+Text=Sensory Motor Task This auditory task required the subjects to listen to a sequence of auditory stimuli that consisted of 16 different tones each lasting 200 ms and ranging in frequency from 236 Hz to 1,318 Hz with a 500 ms inter-stimulus interval.
 25-1	5023-5030	Sensory	http://maven.renci.org/NeuroBridge/neurobridge#SensoryMotorTask
 25-2	5031-5036	Motor	http://maven.renci.org/NeuroBridge/neurobridge#SensoryMotorTask
 25-3	5037-5041	Task	http://maven.renci.org/NeuroBridge/neurobridge#SensoryMotorTask
@@ -935,6 +960,7 @@
 25-43	5262-5270	interval	_
 25-44	5271-5272	.	_
 
+Text=The first tone presented was at the lowest pitch and each subsequent tone was higher in pitch than the previous one until the highest tone was reached, then the order of the tones was reversed.
 26-1	5273-5276	The	_
 26-2	5277-5282	first	_
 26-3	5283-5287	tone	_
@@ -973,6 +999,7 @@
 26-36	5458-5466	reversed	_
 26-37	5467-5468	.	_
 
+Text=Each tonal change required a right thumb button press.
 27-1	5469-5473	Each	_
 27-2	5474-5479	tonal	_
 27-3	5480-5486	change	_
@@ -984,6 +1011,7 @@
 27-9	5517-5522	press	_
 27-10	5523-5524	.	_
 
+Text=A run consisted of 15 increase-and-decrease blocks, alternated with 15 fixation blocks, with each block lasting 16 seconds in duration.
 28-1	5525-5526	A	http://maven.renci.org/NeuroBridge/neurobridge#BiochemicalAssay
 28-2	5527-5530	run	http://maven.renci.org/NeuroBridge/neurobridge#BiochemicalAssay
 28-3	5531-5540	consisted	http://maven.renci.org/NeuroBridge/neurobridge#BiochemicalAssay
@@ -1008,6 +1036,7 @@
 28-22	5653-5661	duration	_
 28-23	5662-5663	.	_
 
+Text=For this task, the regressor was created by convolving the entire increase- and-decrease block with the default SPM HRF.
 29-1	5664-5667	For	_
 29-2	5668-5672	this	_
 29-3	5673-5677	task	_
@@ -1030,6 +1059,7 @@
 29-20	5781-5784	HRF	_
 29-21	5785-5786	.	_
 
+Text=This was done for both runs for each subject and then the average map was used as the feature for this task.
 30-1	5787-5791	This	_
 30-2	5792-5795	was	_
 30-3	5796-5800	done	_
@@ -1054,6 +1084,7 @@
 30-22	5890-5894	task	_
 30-23	5895-5896	.	_
 
+Text=ICA For an fMRI feature dataset from M subjects,, where the mth row of X is formed by flattening the feature of V voxels from the mth subject, the noiseless ICA model can be written as where the C spatially independent latent sources or neural activation patterns,, are linearly mixed by the mixing matrix,.
 31-1	5897-5900	ICA	_
 31-2	5901-5904	For	_
 31-3	5905-5907	an	_
@@ -1116,6 +1147,7 @@
 31-60	6208-6209	,	_
 31-61	6210-6211	.	_
 
+Text=Given this model, ICA seeks to determine a demixing matrix, W, such that the estimated components, the rows of, are as independent as possible.
 32-1	6212-6217	Given	_
 32-2	6218-6222	this	_
 32-3	6223-6228	model	_
@@ -1147,6 +1179,7 @@
 32-29	6351-6359	possible	_
 32-30	6360-6361	.	_
 
+Text=Since we seek to maximize independence between the estimated components,, estimation of the demixing matrix can be accomplished through the minimization of the mutual information among the components, written as where H (·) is the entropy.
 33-1	6362-6367	Since	_
 33-2	6368-6370	we	_
 33-3	6371-6375	seek	_
@@ -1190,6 +1223,7 @@
 33-41	6598-6605	entropy	_
 33-42	6606-6607	.	_
 
+Text=Since fMRI data is of high dimensionality and quite noisy, i.e., is in a space consisting of signal as well as noise, dimension-reduction using PCA is a crucial preprocessing step in order to avoid over-fitting in subsequent analyses.
 34-1	6608-6613	Since	_
 34-2	6614-6618	fMRI	_
 34-3	6619-6623	data	_
@@ -1233,6 +1267,7 @@
 34-41	6836-6844	analyses	_
 34-42	6845-6846	.	_
 
+Text=Determining the appropriate order—the size of the signal subspace—for this PCA step using real fMRI data is an active area of research, see e.g,.
 35-1	6847-6858	Determining	_
 35-2	6859-6862	the	_
 35-3	6863-6874	appropriate	_
@@ -1261,6 +1296,7 @@
 35-26	6992-6993	,	_
 35-27	6994-6995	.	_
 
+Text=Despite its fairly extensive study, the majority of order estimation techniques are appropriate for single subject or single task analyses, which limits their applicability to the joint analysis of multiple tasks, multiset fusion.
 36-1	6996-7003	Despite	_
 36-2	7004-7007	its	_
 36-3	7008-7014	fairly	_
@@ -1299,6 +1335,7 @@
 36-36	7222-7228	fusion	_
 36-37	7229-7230	.	_
 
+Text=The reason for this is that these techniques ignore the complementary information between the datasets, which is the main motivation for performing a joint analysis on such data.
 37-1	7231-7234	The	_
 37-2	7235-7241	reason	_
 37-3	7242-7245	for	_
@@ -1330,6 +1367,7 @@
 37-29	7405-7409	data	_
 37-30	7410-7411	.	_
 
+Text=In this work, we use the order estimated by a modification of the procedure in.
 38-1	7412-7414	In	_
 38-2	7415-7419	this	_
 38-3	7420-7424	work	_
@@ -1348,6 +1386,7 @@
 38-16	7489-7491	in	_
 38-17	7492-7493	.	_
 
+Text=The reason for this is because, to the best of our knowledge, it is the only method that has shown desirable performance for the task of order estimation in both the sample-poor and sample-rich regimes inherent to the fusion of medical imaging data.
 39-1	7494-7497	The	_
 39-2	7498-7504	reason	_
 39-3	7505-7508	for	_
@@ -1395,6 +1434,7 @@
 39-45	7740-7744	data	_
 39-46	7745-7746	.	_
 
+Text=The technique, named PCA and canonical correlation analysis (PCA-CCA), estimates the size of the signal subspace shared by two datasets, i.e., the common order, through a sequence of binary hypothesis tests.
 40-1	7747-7750	The	_
 40-2	7751-7760	technique	_
 40-3	7761-7762	,	_
@@ -1435,6 +1475,7 @@
 40-38	7955-7960	tests	_
 40-39	7961-7962	.	_
 
+Text=The process begins by assuming that the common order is 0 and that the null hypothesis is that the current common order is appropriate.
 41-1	7963-7966	The	_
 41-2	7967-7974	process	_
 41-3	7975-7981	begins	_
@@ -1461,6 +1502,7 @@
 41-24	8086-8097	appropriate	_
 41-25	8098-8099	.	_
 
+Text=If the null hypothesis is rejected, the common order is increased by 1 and the test is repeated, until the null hypothesis cannot be rejected or the common dimension is equal to half the number of subjects, M/2.
 42-1	8100-8102	If	_
 42-2	8103-8106	the	_
 42-3	8107-8111	null	_
@@ -1505,6 +1547,7 @@
 42-42	8311-8314	M/2	_
 42-43	8315-8316	.	_
 
+Text=In this application, we estimate the order for each pairwise combination of tasks and then select the highest estimated order to enable the retention of the most complementary information across the datasets.
 43-1	8317-8319	In	_
 43-2	8320-8324	this	_
 43-3	8325-8336	application	_
@@ -1540,6 +1583,7 @@
 43-33	8517-8525	datasets	_
 43-34	8526-8527	.	_
 
+Text=We should note that although there are many ICA algorithms, in this work, we used the ICA by entropy bound minimization (EBM) algorithm, due to the fact that it has shown superior performance in both simulated and real neurological data when compared with the popular Infomax algorithm, see e.g.,.
 44-1	8528-8530	We	_
 44-2	8531-8537	should	_
 44-3	8538-8542	note	_
@@ -1598,6 +1642,7 @@
 44-56	8830-8831	,	_
 44-57	8832-8833	.	_
 
+Text=This improved performance derives from the fact EBM does not assume a fixed form for the distribution of the latent sources and instead attempts to upper bound their entropy through the use of measuring functions.
 45-1	8834-8838	This	_
 45-2	8839-8847	improved	_
 45-3	8848-8859	performance	_
@@ -1635,6 +1680,7 @@
 45-35	9037-9046	functions	_
 45-36	9047-9048	.	_
 
+Text=The use of these measuring functions enables the description of a wide variety of distributions, including those that are: unimodal, bimodal, symmetric, and skewed, thus, generally, improving the estimation of all sources within the mixture.
 46-1	9049-9052	The	_
 46-2	9053-9056	use	_
 46-3	9057-9059	of	_
@@ -1680,6 +1726,7 @@
 46-43	9290-9297	mixture	_
 46-44	9298-9299	.	_
 
+Text=IVA FMRI data from subjects performing multiple tasks has been increasingly gathered during the same study, since each task is expected to provide related information regarding neural function and how it is impacted by neurological diseases, such as schizophrenia, see e.g.,.
 47-1	9300-9303	IVA	_
 47-2	9304-9308	FMRI	_
 47-3	9309-9313	data	_
@@ -1727,6 +1774,7 @@
 47-45	9577-9578	,	_
 47-46	9579-9580	.	_
 
+Text=In order to address this scenario, we extend the model in (1) to K datasets, or tasks, as Due to the scaling and permutation ambiguities inherent to ICA, running a separate ICA individually for each task and aligning the results is both impractical and suboptimal, since it would ignore the complementary information that each task provides.
 48-1	9581-9583	In	_
 48-2	9584-9589	order	_
 48-3	9590-9592	to	_
@@ -1792,6 +1840,7 @@
 48-63	9920-9928	provides	_
 48-64	9929-9930	.	_
 
+Text=This motivates the performance of a joint analysis, such as using IVA, a recent multiset extension of ICA, which exploits similarities across datasets to achieve a successful decomposition.
 49-1	9931-9935	This	_
 49-2	9936-9945	motivates	_
 49-3	9946-9949	the	_
@@ -1825,6 +1874,7 @@
 49-31	10109-10122	decomposition	_
 49-32	10123-10124	.	_
 
+Text=The mutual information cost function for IVA can be written as, where is the cth source component matrix (SCM), formed by concatenating the cth estimated component from each of the datasets.
 50-1	10125-10128	The	_
 50-2	10129-10135	mutual	_
 50-3	10136-10147	information	_
@@ -1862,6 +1912,7 @@
 50-35	10310-10318	datasets	_
 50-36	10319-10320	.	_
 
+Text=Note that the difference between (2) and (4) is that we are now minimizing the mutual information between SCMs and not components.
 51-1	10321-10325	Note	_
 51-2	10326-10330	that	_
 51-3	10331-10334	the	_
@@ -1890,6 +1941,7 @@
 51-26	10444-10454	components	_
 51-27	10455-10456	.	_
 
+Text=This cost function reduces to the sum of separate ICAs performed on each dataset individually if the sources in each of the datasets are mutually independent of each other.
 52-1	10457-10461	This	_
 52-2	10462-10466	cost	_
 52-3	10467-10475	function	_
@@ -1921,6 +1973,7 @@
 52-29	10623-10628	other	_
 52-30	10629-10630	.	_
 
+Text=In this work, IVA via a multivariate Gaussian and Laplacian algorithm is used, since it has proven to be an effective IVA algorithm for analysis of fMRI data, see e.g.,.
 53-1	10631-10633	In	_
 53-2	10634-10638	this	_
 53-3	10639-10643	work	_
@@ -1957,6 +2010,7 @@
 53-34	10802-10803	,	_
 53-35	10804-10805	.	_
 
+Text=GDMs As discussed in Section 2.3, since the data from each subject within a task has been reduced to a feature, the columns of the estimated mixing matrix, A, provide the weight of each component across the subjects.
 54-1	10806-10810	GDMs	_
 54-2	10811-10813	As	_
 54-3	10814-10823	discussed	_
@@ -2001,6 +2055,7 @@
 54-42	11017-11025	subjects	_
 54-43	11026-11027	.	_
 
+Text=This means that the ith column of the estimated mixing matrix, ai, represents the subject-specific weights of the ith source estimate, si.
 55-1	11028-11032	This	_
 55-2	11033-11038	means	_
 55-3	11039-11043	that	_
@@ -2028,6 +2083,7 @@
 55-25	11166-11168	si	_
 55-26	11169-11170	.	_
 
+Text=Thus, if the goal of the study is to determine a set of explanatory factors that can be used to assess differences between two groups, as is the primary focus for this work where the groups are patients with schizophrenia and healthy controls, the weights can be used to determine if any component is expressed differently across the two groups.
 56-1	11171-11175	Thus	_
 56-2	11176-11177	,	_
 56-3	11178-11180	if	_
@@ -2093,6 +2149,7 @@
 56-63	11512-11518	groups	_
 56-64	11519-11520	.	_
 
+Text=In order to statistically determine components that have different expressions, on average, between patients and controls, a two-sample t-test is performed on columns of A, where one group is represented by the weights corresponding to the patients with schizophrenia and the other by the weights corresponding to the healthy controls.
 57-1	11521-11523	In	_
 57-2	11524-11529	order	_
 57-3	11530-11532	to	_
@@ -2149,6 +2206,7 @@
 57-54	11851-11859	controls	_
 57-55	11860-11861	.	_
 
+Text=The formula for the two-sample t-test is presented below where μi,, ni are the mean, variance, and number of samples in group i.
 58-1	11862-11865	The	_
 58-2	11866-11873	formula	_
 58-3	11874-11877	for	_
@@ -2178,6 +2236,7 @@
 58-27	11992-11993	i	_
 58-28	11994-11995	.	_
 
+Text=Note that when the difference between the weights of the two groups is statistically significant, the component describes functional differences between patients and controls and is referred to as a possible biomarker of disease.
 59-1	11996-12000	Note	_
 59-2	12001-12005	that	_
 59-3	12006-12010	when	_
@@ -2215,6 +2274,7 @@
 59-35	12218-12225	disease	_
 59-36	12226-12227	.	_
 
+Text=The t-statistics derived from these tests can serve as the basis for the construction of the GDMs.
 60-1	12228-12231	The	_
 60-2	12232-12244	t-statistics	_
 60-3	12245-12252	derived	_
@@ -2234,6 +2294,7 @@
 60-17	12321-12325	GDMs	_
 60-18	12326-12327	.	_
 
+Text=Before describing how we construct GDMs, we should note that, since an important focus of this study is differentiating patients with schizophrenia from healthy controls, we focus on how GDMs can highlight the brain regions that differentiate between two groups.
 61-1	12328-12334	Before	_
 61-2	12335-12345	describing	_
 61-3	12346-12349	how	_
@@ -2279,6 +2340,7 @@
 61-43	12586-12592	groups	_
 61-44	12593-12594	.	_
 
+Text=However, as we describe at the end of this section, GDMs can also be constructed such that they reflect the regions that are correlated with certain behavioral variables of interest, highlighting associations between psychological tests and neural function.
 62-1	12595-12602	However	_
 62-2	12603-12604	,	_
 62-3	12605-12607	as	_
@@ -2322,6 +2384,7 @@
 62-41	12846-12854	function	_
 62-42	12855-12856	.	_
 
+Text=Due to the scaling ambiguity of ICA, prior to the construction of GDMs, Z-scores are independently computed from the individual biomarkers using the mean and standard deviation computed using all voxels.
 63-1	12857-12860	Due	_
 63-2	12861-12863	to	_
 63-3	12864-12867	the	_
@@ -2357,6 +2420,7 @@
 63-33	13055-13061	voxels	_
 63-34	13062-13063	.	_
 
+Text=Let N be subset of the C components estimated using separate ICAs or IVA for each dataset with weights that are statistically significantly different, at p <0.05, between patients and controls.
 64-1	13064-13067	Let	_
 64-2	13068-13069	N	_
 64-3	13070-13072	be	_
@@ -2393,6 +2457,7 @@
 64-34	13251-13259	controls	_
 64-35	13260-13261	.	_
 
+Text=Denoting these components as, we construct the GDM for that method and dataset,, as follows where tn is the t-statistic, calculated as described in Section 2.3, for the nth component that is positive or made to be positive by multiplying the corresponding subject covariation and component by −1.
 65-1	13262-13270	Denoting	_
 65-2	13271-13276	these	_
 65-3	13277-13287	components	_
@@ -2448,6 +2513,7 @@
 65-53	13560-13562	−1	_
 65-54	13563-13564	.	_
 
+Text=Note that due to the sign ambiguity associated with ICA and IVA, multiplying both the component as well as the subject covariation by −1 will produce the same solution.
 66-1	13565-13569	Note	_
 66-2	13570-13574	that	_
 66-3	13575-13578	due	_
@@ -2480,6 +2546,7 @@
 66-30	13725-13733	solution	_
 66-31	13734-13735	.	_
 
+Text=The physical interpretation of such a transformation is that, for example, rather than having patients have increased activation in a certain region over controls, controls have increased deactivation over patients.
 67-1	13736-13739	The	_
 67-2	13740-13748	physical	_
 67-3	13749-13763	interpretation	_
@@ -2515,6 +2582,7 @@
 67-33	13945-13953	patients	_
 67-34	13954-13955	.	_
 
+Text=The GDM can be seen as a summary map that describes only the regions that activate/deactivate significantly differently between patients and controls for a given decomposition and dataset within that decomposition.
 68-1	13956-13959	The	_
 68-2	13960-13963	GDM	_
 68-3	13964-13967	can	_
@@ -2548,6 +2616,7 @@
 68-31	14156-14169	decomposition	_
 68-32	14170-14171	.	_
 
+Text=Each biomarker is scaled by the value of its corresponding t-statistic, so has more weight if the component is better able to differentiate between patients and controls.
 69-1	14172-14176	Each	_
 69-2	14177-14186	biomarker	_
 69-3	14187-14189	is	_
@@ -2578,6 +2647,7 @@
 69-28	14334-14342	controls	_
 69-29	14343-14344	.	_
 
+Text=Note that though we describe the construction of GDMs for factors extracted using ICA and IVA, they could also be constructed using the results of any factor analysis, such as PCA, NMF, or DL.
 70-1	14345-14349	Note	_
 70-2	14350-14354	that	_
 70-3	14355-14361	though	_
@@ -2618,6 +2688,7 @@
 70-38	14538-14540	DL	_
 70-39	14541-14542	.	_
 
+Text=Additionally, though beyond the scope of this work, GDMs can also be defined based upon regression models, which are useful when there are less clearly defined groups.
 71-1	14543-14555	Additionally	_
 71-2	14556-14557	,	_
 71-3	14558-14564	though	_
@@ -2650,6 +2721,7 @@
 71-30	14706-14712	groups	_
 71-31	14713-14714	.	_
 
+Text=Though we should note that using general linear models where the regressor is the disease state of the subjects is, generally, less robust than factor models in this case.
 72-1	14715-14721	Though	_
 72-2	14722-14724	we	_
 72-3	14725-14731	should	_
@@ -2683,6 +2755,7 @@
 72-31	14883-14887	case	_
 72-32	14888-14889	.	_
 
+Text=We can quantify the discriminative power of a GDM, and thus, indirectly, the whole decomposition, by generating component weights in a nearly identical manner to the GDM spatial maps and performing a two-sample t-test on the resulting weights.
 73-1	14890-14892	We	_
 73-2	14893-14896	can	_
 73-3	14897-14905	quantify	_
@@ -2727,6 +2800,7 @@
 73-42	15129-15136	weights	_
 73-43	15137-15138	.	_
 
+Text=The corresponding component weights for the GDM are given by where is the subject covariation, obtained using ICA or IVA, corresponding to and, just as for, is multiplied by −1 if the sign of tn is negative.
 74-1	15139-15142	The	_
 74-2	15143-15156	corresponding	_
 74-3	15157-15166	component	_
@@ -2770,6 +2844,7 @@
 74-41	15341-15349	negative	_
 74-42	15350-15351	.	_
 
+Text=This construction is expected to result in component loadings that show greater discriminatory power than the original, since is constructed from only those component loadings that are statistically significant.
 75-1	15352-15356	This	_
 75-2	15357-15369	construction	_
 75-3	15370-15372	is	_
@@ -2802,6 +2877,7 @@
 75-30	15552-15563	significant	_
 75-31	15564-15565	.	_
 
+Text=Additionally, the can be modeled as unit step functions with weights corresponding to their disease status and corrupted with Gaussian noise, where higher values of tn imply lower variances for the noise.
 76-1	15566-15578	Additionally	_
 76-2	15579-15580	,	_
 76-3	15581-15584	the	_
@@ -2838,6 +2914,7 @@
 76-34	15766-15771	noise	_
 76-35	15772-15773	.	_
 
+Text=Therefore, the summation of multiple, weighted as in (7), will tend to result in a lower value for the variance of the noise and, therefore, a more discriminative subject covariation.
 77-1	15774-15783	Therefore	_
 77-2	15784-15785	,	_
 77-3	15786-15789	the	_
@@ -2877,6 +2954,7 @@
 77-37	15952-15963	covariation	_
 77-38	15964-15965	.	_
 
+Text=Additionally, note that the t-tests performed on the columns of the mixing matrices may be seen as a feature extraction step, thus corrections for multiple comparisons should only account for the number of GDMs calculated.
 78-1	15966-15978	Additionally	_
 78-2	15979-15980	,	_
 78-3	15981-15985	note	_
@@ -2916,6 +2994,7 @@
 78-37	16179-16189	calculated	_
 78-38	16190-16191	.	_
 
+Text=We should note that, by construction, the intensity of each voxel in a GDM is dependent on a linear combination of voxel values across components.
 79-1	16192-16194	We	_
 79-2	16195-16201	should	_
 79-3	16202-16206	note	_
@@ -2945,6 +3024,7 @@
 79-27	16329-16339	components	_
 79-28	16340-16341	.	_
 
+Text=For this reason, the GDMs produced by algorithms that have fewer overlapping voxels across components are expected to be more easily interpretable.
 80-1	16342-16345	For	_
 80-2	16346-16350	this	_
 80-3	16351-16357	reason	_
@@ -2970,6 +3050,7 @@
 80-23	16476-16489	interpretable	_
 80-24	16490-16491	.	_
 
+Text=This is true for methods that promote sparsity, such as: Infomax, IVA-L, or dictionary learning.
 81-1	16492-16496	This	_
 81-2	16497-16499	is	_
 81-3	16500-16504	true	_
@@ -2991,6 +3072,7 @@
 81-19	16583-16591	learning	_
 81-20	16592-16593	.	_
 
+Text=This is also true for methods that make few assumptions about the distribution of the latent sources, such as: EBM or SparseICA-EBM, in addition to methods that account for sample dependence between voxels, such as: weights-adjusted second-order blind identification as well as ICA and IVA using entropy-rate bound minimization.
 82-1	16594-16598	This	_
 82-2	16599-16601	is	_
 82-3	16602-16606	also	_
@@ -3047,6 +3129,7 @@
 82-54	16914-16926	minimization	_
 82-55	16927-16928	.	_
 
+Text=A fundamental goal of neuroimaging studies is to understand the underlying neural basis for psychological measurements.
 83-1	16929-16930	A	_
 83-2	16931-16942	fundamental	_
 83-3	16943-16947	goal	_
@@ -3065,6 +3148,7 @@
 83-16	17035-17047	measurements	_
 83-17	17048-17049	.	_
 
+Text=GDMs lend themselves to this goal in a straightforward manner and through their application can facilitate the discovery of which neuroimaging datasets most effectively explain the results of psychometric tests.
 84-1	17050-17054	GDMs	_
 84-2	17055-17059	lend	_
 84-3	17060-17070	themselves	_
@@ -3097,6 +3181,7 @@
 84-30	17255-17260	tests	_
 84-31	17261-17262	.	_
 
+Text=This extension can be done by using the t-statistics derived from the correlations of the subject weights with the behavioral variables of interest, rather than those derived using the two-sample t-test.
 85-1	17263-17267	This	_
 85-2	17268-17277	extension	_
 85-3	17278-17281	can	_
@@ -3131,6 +3216,7 @@
 85-32	17460-17466	t-test	_
 85-33	17467-17468	.	_
 
+Text=This means that the functional form of (6) and (7) would not change, instead tn would be defined based on the sample correlation and would be selected based on the significance of their correlation to the test score of interest.
 86-1	17469-17473	This	_
 86-2	17474-17479	means	_
 86-3	17480-17484	that	_
@@ -3178,6 +3264,7 @@
 86-45	17693-17701	interest	_
 86-46	17702-17703	.	_
 
+Text=In this study, the behavioral variables were derived from the measurement and treatment research to improve cognition in schizophrenia (MATRICS) consensus cognitive battery (MCCB), which is widely recognized as a valuable tool that provides a comprehensive evaluation of cognitive function of schizophrenia within clinical trials.
 87-1	17704-17706	In	_
 87-2	17707-17711	this	_
 87-3	17712-17717	study	_
@@ -3231,6 +3318,7 @@
 87-51	18033-18039	trials	_
 87-52	18040-18041	.	_
 
+Text=Simulation Setup For real brain data, information about the true latent sources and subject weights is, generally, not known apriori.
 88-1	18042-18052	Simulation	_
 88-2	18053-18058	Setup	_
 88-3	18059-18062	For	_
@@ -3256,6 +3344,7 @@
 88-23	18170-18177	apriori	_
 88-24	18178-18179	.	_
 
+Text=Therefore, in order to demonstrate the efficacy of GDMs, we generate 5 simulated sources, shown in Figure 1.
 89-1	18180-18189	Therefore	_
 89-2	18190-18191	,	_
 89-3	18192-18194	in	_
@@ -3279,6 +3368,7 @@
 89-21	18289-18290	1	_
 89-22	18291-18292	.	_
 
+Text=We then linearly mix the simulated latent sources with a simulated mixing matrix whose columns have a step-type characteristic corrupted by additive i.i.d.
 90-1	18293-18295	We	_
 90-2	18296-18300	then	_
 90-3	18301-18309	linearly	_
@@ -3304,6 +3394,7 @@
 90-23	18442-18447	i.i.d	_
 90-24	18448-18449	.	_
 
+Text=Gaussian noise, simulating a latent difference between two groups of subjects, each with 150 subjects in order to make the scenario similar to the real fMRI data used in this study.
 91-1	18450-18458	Gaussian	_
 91-2	18459-18464	noise	_
 91-3	18465-18466	,	_
@@ -3339,6 +3430,7 @@
 91-33	18627-18632	study	_
 91-34	18633-18634	.	_
 
+Text=Thus, the equation for the columns of the mixing matrix is given by where ni is i.i.d.
 92-1	18635-18639	Thus	_
 92-2	18640-18641	,	_
 92-3	18642-18645	the	_
@@ -3359,6 +3451,7 @@
 92-18	18716-18721	i.i.d	_
 92-19	18722-18723	.	_
 
+Text=white Gaussian noise, generated separately for each column, and ci is the step profile of size 1 for c1, 0.5 for c2, 0.26 for c3, 0.23 for c4, and 0 for c5.
 93-1	18724-18729	white	_
 93-2	18730-18738	Gaussian	_
 93-3	18739-18744	noise	_
@@ -3399,6 +3492,7 @@
 93-38	18883-18885	c5	_
 93-39	18886-18887	.	_
 
+Text=The differing values of the step height correspond to different average relative differences between the groups and range from high to no difference.
 94-1	18888-18891	The	_
 94-2	18892-18901	differing	_
 94-3	18902-18908	values	_
@@ -3424,6 +3518,7 @@
 94-23	19026-19036	difference	_
 94-24	19037-19038	.	_
 
+Text=Note that since we know the value of the mean difference between the groups as well as the standard deviation of the samples (subjects), we are able to determine theoretical values for the t-statistics for each column of A.
 95-1	19039-19043	Note	_
 95-2	19044-19048	that	_
 95-3	19049-19054	since	_
@@ -3468,6 +3563,7 @@
 95-42	19263-19264	A	_
 95-43	19265-19266	.	_
 
+Text=We then reduce the dimension of the dataset from 300 to 5 using PCA, perform ICA, and estimate a GDM.
 96-1	19267-19269	We	_
 96-2	19270-19274	then	_
 96-3	19275-19281	reduce	_
@@ -3492,6 +3588,7 @@
 96-22	19366-19369	GDM	_
 96-23	19370-19371	.	_
 
+Text=The purpose of this simulation is twofold.
 97-1	19372-19375	The	_
 97-2	19376-19383	purpose	_
 97-3	19384-19386	of	_
@@ -3501,6 +3598,7 @@
 97-7	19406-19413	twofold	_
 97-8	19414-19415	.	_
 
+Text=First, we seek to demonstrate the utility of GDMs to visually summarize the results of a decomposition.
 98-1	19416-19421	First	_
 98-2	19422-19423	,	_
 98-3	19424-19426	we	_
@@ -3521,6 +3619,7 @@
 98-18	19506-19519	decomposition	_
 98-19	19520-19521	.	_
 
+Text=Second, to show how it is possible to use GDMs to relate the performance of different factorization methods.
 99-1	19522-19528	Second	_
 99-2	19529-19530	,	_
 99-3	19531-19533	to	_
@@ -3542,6 +3641,7 @@
 99-19	19623-19630	methods	_
 99-20	19631-19632	.	_
 
+Text=Towards this second aim, in this simulation, we compare the performance of two ICA methods, EBM and FastICA using the hyperbolic tangent nonlinearity.
 100-1	19633-19640	Towards	_
 100-2	19641-19645	this	_
 100-3	19646-19652	second	_
@@ -3570,6 +3670,7 @@
 100-26	19773-19785	nonlinearity	_
 100-27	19786-19787	.	_
 
+Text=We selected FastICA primarily because it is a popular method for the analysis of fMRI data, see e.g ..
 101-1	19788-19790	We	_
 101-2	19791-19799	selected	_
 101-3	19800-19807	FastICA	_
@@ -3591,6 +3692,7 @@
 101-19	19885-19888	e.g	_
 101-20	19889-19891	..	_
 
+Text=However, FastICA uses a fixed nonlinearity and so it may not able to fit a very wide variety of distributions meaning that the performance of FastICA may suffer when the distribution of the latent sources is different from the one implied by its nonlinearity.
 102-1	19892-19899	However	_
 102-2	19900-19901	,	_
 102-3	19902-19909	FastICA	_
@@ -3638,6 +3740,7 @@
 102-45	20139-20151	nonlinearity	_
 102-46	20152-20153	.	_
 
+Text=In contrast, as already mentioned in Section 2.3, EBM is able to fit a wide variety of distributions.
 103-1	20154-20156	In	_
 103-2	20157-20165	contrast	_
 103-3	20166-20167	,	_
@@ -3660,6 +3763,7 @@
 103-20	20243-20256	distributions	_
 103-21	20257-20258	.	_
 
+Text=We present the results of this analysis in Figure 1.
 104-1	20259-20261	We	_
 104-2	20262-20269	present	_
 104-3	20270-20273	the	_
@@ -3672,6 +3776,7 @@
 104-10	20309-20310	1	_
 104-11	20311-20312	.	_
 
+Text=Note that in order to test the consistency of the results, those presented here are the result of 1,000 independent runs.
 105-1	20313-20317	Note	_
 105-2	20318-20322	that	_
 105-3	20323-20325	in	_

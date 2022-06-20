@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=The brain's functional connectome in young children with prenatal alcohol exposure Highlights We used fMRI to study young children with prenatal alcohol exposure (PAE).
 1-1	0-3	The	_
 1-2	4-9	brain	_
 1-3	10-12	's	_
@@ -31,6 +32,7 @@
 1-27	169-170	)	http://maven.renci.org/NeuroBridge/neurobridge#FetalAlcoholBehaviorScale
 1-28	171-172	.	_
 
+Text=We measured the functional connectome and its stability within and across participants.
 2-1	173-175	We	_
 2-2	176-184	measured	_
 2-3	185-188	the	_
@@ -45,6 +47,7 @@
 2-12	247-259	participants	_
 2-13	260-261	.	_
 
+Text=The PAE group had similar graph theory metrics to controls.
 3-1	262-265	The	_
 3-2	266-269	PAE	_
 3-3	270-275	group	_
@@ -57,6 +60,7 @@
 3-10	312-320	controls	_
 3-11	321-322	.	_
 
+Text=The PAE group, but not controls, had increasing intra-participant stability with age.
 4-1	323-326	The	_
 4-2	327-330	PAE	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 4-3	331-336	group	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
@@ -73,6 +77,7 @@
 4-14	406-409	age	_
 4-15	410-411	.	_
 
+Text=Controls, but not the PAE group, had increasing inter-participant stability with age.
 5-1	412-420	Controls	_
 5-2	421-422	,	_
 5-3	423-426	but	_
@@ -89,6 +94,7 @@
 5-14	495-498	age	_
 5-15	499-500	.	_
 
+Text=Prenatal alcohol exposure (PAE) can lead to altered brain function and structure, as well as lifelong cognitive, behavioral, and mental health difficulties.
 6-1	501-509	Prenatal	_
 6-2	510-517	alcohol	_
 6-3	518-526	exposure	_
@@ -118,6 +124,7 @@
 6-27	649-661	difficulties	_
 6-28	662-663	.	_
 
+Text=Previous research has shown reduced brain network efficiency in older children and adolescents with PAE, but no imaging studies have examined brain differences in young children with PAE, at an age when cognitive and behavioral problems often first become apparent.
 7-1	664-672	Previous	_
 7-2	673-681	research	_
 7-3	682-685	has	_
@@ -162,6 +169,7 @@
 7-42	922-930	apparent	_
 7-43	931-932	.	_
 
+Text=The present study aimed to investigate the brain's functional connectome in young children with PAE using passive viewing fMRI.
 8-1	933-936	The	_
 8-2	937-944	present	_
 8-3	945-950	study	_
@@ -184,6 +192,7 @@
 8-20	1056-1060	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 8-21	1061-1062	.	_
 
+Text=We analyzed 34 datasets from 26 children with PAE aged 2–7 years and 215 datasets from 87 unexposed typically-developing children in the same age range.
 9-1	1063-1065	We	_
 9-2	1066-1074	analyzed	_
 9-3	1075-1077	34	_
@@ -211,6 +220,7 @@
 9-25	1209-1214	range	_
 9-26	1215-1216	.	_
 
+Text=The whole brain functional connectome was constructed using functional connectivity analysis across 90 regions for each dataset.
 10-1	1217-1220	The	_
 10-2	1221-1226	whole	_
 10-3	1227-1232	brain	_
@@ -230,6 +240,7 @@
 10-17	1337-1344	dataset	_
 10-18	1345-1346	.	_
 
+Text=We examined intra- and inter-participant stability of the functional connectome, graph theoretical measurements, and their correlations with age.
 11-1	1347-1349	We	_
 11-2	1350-1358	examined	_
 11-3	1359-1365	intra-	_
@@ -252,6 +263,7 @@
 11-20	1490-1493	age	_
 11-21	1494-1495	.	_
 
+Text=Children with PAE had similar inter- and intra-participant stability to controls.
 12-1	1496-1504	Children	http://maven.renci.org/NeuroBridge/neurobridge#FrustrationEmotionTaskforChildren
 12-2	1505-1509	with	http://maven.renci.org/NeuroBridge/neurobridge#FrustrationEmotionTaskforChildren
 12-3	1510-1513	PAE	http://maven.renci.org/NeuroBridge/neurobridge#FrustrationEmotionTaskforChildren
@@ -265,6 +277,7 @@
 12-11	1568-1576	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 12-12	1577-1578	.	_
 
+Text=However, children with PAE, but not controls, showed increasing intra-participant stability with age, suggesting a lack of variability of intrinsic brain activity over time.
 13-1	1579-1586	However	_
 13-2	1587-1588	,	_
 13-3	1589-1597	children	http://maven.renci.org/NeuroBridge/neurobridge#FrustrationEmotionTaskforChildren
@@ -295,6 +308,7 @@
 13-28	1751-1755	time	_
 13-29	1756-1757	.	_
 
+Text=Inter-participant stability increased with age in controls but not in children with PAE, indicating more variability of brain function across the PAE population.
 14-1	1758-1775	Inter-participant	_
 14-2	1776-1785	stability	_
 14-3	1786-1795	increased	_
@@ -321,6 +335,7 @@
 14-24	1909-1919	population	_
 14-25	1920-1921	.	_
 
+Text=Global graph metrics were similar between children with PAE and controls, in line with previous studies in older children.
 15-1	1922-1928	Global	_
 15-2	1929-1934	graph	_
 15-3	1935-1942	metrics	_
@@ -343,6 +358,7 @@
 15-20	2036-2044	children	_
 15-21	2045-2046	.	_
 
+Text=This study characterizes the functional connectome in young children with PAE for the first time, suggesting that the increased brain variability seen in older children develops early in childhood, when participants with PAE fail to show the expected age-related increases in inter-individual stability.
 16-1	2047-2051	This	_
 16-2	2052-2057	study	_
 16-3	2058-2071	characterizes	_
@@ -390,6 +406,7 @@
 16-45	2342-2351	stability	_
 16-46	2352-2353	.	_
 
+Text=Materials and methods Participants This study recruited 52 children with PAE (26 males/26 females, aged 2.78 to 7.22 years) from Alberta, Canada.
 17-1	2354-2363	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 17-2	2364-2367	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 17-3	2368-2375	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -418,6 +435,7 @@
 17-26	2496-2502	Canada	_
 17-27	2503-2504	.	_
 
+Text=Participants with PAE were recruited via advertisements (print and online) in newsletters and parent groups (n = 18), early intervention services and diagnostic clinics (n = 25), and through Child and Family Services (n = 9).
 18-1	2505-2517	Participants	_
 18-2	2518-2522	with	_
 18-3	2523-2526	PAE	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -466,6 +484,7 @@
 18-46	2738-2739	)	_
 18-47	2740-2741	.	_
 
+Text=PAE was confirmed via child welfare files (containing information from birth families), social workers, police records, medical files, and semi-structured interviews with caregivers and birth families, where possible.
 19-1	2742-2745	PAE	_
 19-2	2746-2749	was	_
 19-3	2750-2759	confirmed	_
@@ -503,6 +522,7 @@
 19-35	2957-2965	possible	_
 19-36	2966-2967	.	_
 
+Text=No participants had been diagnosed with fetal alcohol spectrum disorder (FASD), the developmental disorder associated with PAE, because they are too young to be assessed in most diagnostic clinics in Alberta, which typically see children only after they are 7-years old.
 20-1	2968-2970	No	_
 20-2	2971-2983	participants	_
 20-3	2984-2987	had	_
@@ -551,6 +571,7 @@
 20-46	3239-3242	old	_
 20-47	3243-3244	.	_
 
+Text=153 unexposed typically-developing children (82 males/71 females; aged 1.97 to 8.04 years) were included from an ongoing study of typical brain development.
 21-1	3245-3248	153	_
 21-2	3249-3258	unexposed	_
 21-3	3259-3279	typically-developing	http://maven.renci.org/NeuroBridge/neurobridge#FrustrationEmotionTaskforChildren
@@ -578,6 +599,7 @@
 21-25	3392-3403	development	_
 21-26	3404-3405	.	_
 
+Text=These typically-developing controls were originally recruited from the Calgary community via advertisements and from the Alberta Pregnancy Outcomes and Nutrition (APrON) study, an ongoing research study that recruited women in pregnancy and is focused on child outcomes related to maternal nutrition and mental health in pregnancy.
 22-1	3406-3411	These	_
 22-2	3412-3432	typically-developing	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 22-3	3433-3441	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -629,6 +651,7 @@
 22-49	3730-3739	pregnancy	_
 22-50	3740-3741	.	_
 
+Text=For recruitment details for the APrON study, please refer to.
 23-1	3742-3745	For	_
 23-2	3746-3757	recruitment	_
 23-3	3758-3765	details	_
@@ -642,6 +665,7 @@
 23-11	3801-3803	to	_
 23-12	3804-3805	.	_
 
+Text=The absence of prenatal alcohol exposure in controls was verified by maternal report at multiple stages of pregnancy.
 24-1	3806-3809	The	_
 24-2	3810-3817	absence	_
 24-3	3818-3820	of	_
@@ -662,6 +686,7 @@
 24-18	3913-3922	pregnancy	_
 24-19	3923-3924	.	_
 
+Text=The study was originally planned with a longitudinal design, and all participants ’ families were invited to return for subsequent scans approximately every six months before school age, and annually thereafter.
 25-1	3925-3928	The	_
 25-2	3929-3934	study	_
 25-3	3935-3938	was	_
@@ -697,6 +722,7 @@
 25-33	4127-4137	thereafter	_
 25-34	4138-4139	.	_
 
+Text=After removing scans with severe head motion (see details in Data preprocessing), unfinished scans (any fMRI scans with <250 vol), and scans where participants were asleep, a total of 249 fMRI datasets (215 datasets from 87 control participants, 34 datasets from 26 participants with PAE, less head motion, non-sleep and full 250 vol) were included in the present study (Table 1).
 26-1	4140-4145	After	_
 26-2	4146-4154	removing	_
 26-3	4155-4160	scans	_
@@ -775,6 +801,7 @@
 26-76	4533-4534	)	_
 26-77	4535-4536	.	_
 
+Text=Because data collection from the children with PAE began after the control data collection, fewer participants with PAE had multiple scans.
 27-1	4537-4544	Because	_
 27-2	4545-4549	data	_
 27-3	4550-4560	collection	_
@@ -799,6 +826,7 @@
 27-22	4671-4676	scans	_
 27-23	4677-4678	.	_
 
+Text=Parents or legal guardians of all participants provided written informed consent, and all participants provided verbal assent.
 28-1	4679-4686	Parents	_
 28-2	4687-4689	or	_
 28-3	4690-4695	legal	_
@@ -819,6 +847,7 @@
 28-18	4799-4805	assent	_
 28-19	4806-4807	.	_
 
+Text=The study was approved by the conjoint health research ethics board at the University of Calgary.
 29-1	4808-4811	The	_
 29-2	4812-4817	study	_
 29-3	4818-4821	was	_
@@ -837,6 +866,7 @@
 29-16	4897-4904	Calgary	_
 29-17	4905-4906	.	_
 
+Text=MRI parameters Imaging was conducted on a GE 3T MR750w (General Electric, Waukesha, WI) scanner equipped with a 32-channel head-coil at the Alberta Children ’ s Hospital in Calgary, Canada.
 30-1	4907-4910	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 30-2	4911-4921	parameters	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 30-3	4922-4929	Imaging	_
@@ -874,6 +904,7 @@
 30-35	5094-5100	Canada	_
 30-36	5101-5102	.	_
 
+Text=Children were not sedated, and were watching a movie of their choice for the entire duration of the MRI scan.
 31-1	5103-5111	Children	_
 31-2	5112-5116	were	_
 31-3	5117-5120	not	_
@@ -897,6 +928,7 @@
 31-21	5208-5212	scan	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
 31-22	5213-5214	.	_
 
+Text=Headphones were equipped to receive movie audio and to communicate with scanning staff.
 32-1	5215-5225	Headphones	_
 32-2	5226-5230	were	_
 32-3	5231-5239	equipped	_
@@ -912,6 +944,7 @@
 32-13	5296-5301	staff	_
 32-14	5302-5303	.	_
 
+Text=T1-weighted data acquisition used an FSPGR BRAVO sequence with flip angle = 12º, 210 slices, TR = 8.23 ms, TE = 3.76 ms, voxel size = 0.9 × 0.9 × 0.9 mm, matrix size = 512 × 512, inversion time = 540 ms. Data acquisition for fMRI used a gradient- echo-planar imaging (EPI) sequence with TR = 2 s, TE = 30 ms, flip angle = 60º, 36 slices, voxel size = 3.59 × 3.59 × 3.6 mm, matrix size = 64 × 64, 250 vol, total scan time 8:10 min.
 33-1	5304-5315	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 33-2	5316-5320	data	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 33-3	5321-5332	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1020,6 +1053,7 @@
 33-106	5745-5748	min	_
 33-107	5749-5750	.	_
 
+Text=The entire protocol including other modalities lasted 45–60 min, depending on whether sequences needed to be repeated.
 34-1	5751-5754	The	_
 34-2	5755-5761	entire	_
 34-3	5762-5770	protocol	_
@@ -1040,6 +1074,7 @@
 34-18	5861-5869	repeated	_
 34-19	5870-5871	.	_
 
+Text=In some cases, children requested that the scan be stopped, or they were moving too much to collect high quality data, and the scan was stopped early.
 35-1	5872-5874	In	_
 35-2	5875-5879	some	_
 35-3	5880-5885	cases	_
@@ -1072,6 +1107,7 @@
 35-30	6019-6024	early	_
 35-31	6025-6026	.	_
 
+Text=Data preprocessing Data preprocessing was completed in AFNI and FSL.
 36-1	6027-6031	Data	_
 36-2	6032-6045	preprocessing	_
 36-3	6046-6050	Data	_
@@ -1084,6 +1120,7 @@
 36-10	6091-6094	FSL	_
 36-11	6095-6096	.	_
 
+Text=Each participant's T1-weighted image was skull stripped and segmented into gray matter, white matter, and cerebrospinal fluid (CSF) images and co-registered to their individual fMRI space.
 37-1	6097-6101	Each	_
 37-2	6102-6113	participant	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 37-3	6114-6116	's	_
@@ -1117,6 +1154,7 @@
 37-31	6284-6289	space	_
 37-32	6290-6291	.	_
 
+Text=Total brain volume was calculated as the sum of gray and white matter volumes and used as a covariate due to its potential effect on the graph measures.
 38-1	6292-6297	Total	_
 38-2	6298-6303	brain	_
 38-3	6304-6310	volume	_
@@ -1147,6 +1185,7 @@
 38-28	6435-6443	measures	_
 38-29	6444-6445	.	_
 
+Text=The first 10 volumes of the passive viewing fMRI data were removed to allow for environmental adaptation and signal stabilization; 240 volumes remained.
 39-1	6446-6449	The	_
 39-2	6450-6455	first	_
 39-3	6456-6458	10	_
@@ -1173,6 +1212,7 @@
 39-24	6590-6598	remained	_
 39-25	6599-6600	.	_
 
+Text=Correction of slice timing and head motion were performed.
 40-1	6601-6611	Correction	_
 40-2	6612-6614	of	_
 40-3	6615-6620	slice	_
@@ -1184,6 +1224,7 @@
 40-9	6649-6658	performed	_
 40-10	6659-6660	.	_
 
+Text=The averaged relative frame-wise displacement (FD) was calculated for further analysis.
 41-1	6661-6664	The	_
 41-2	6665-6673	averaged	_
 41-3	6674-6682	relative	_
@@ -1199,6 +1240,7 @@
 41-13	6741-6749	analysis	_
 41-14	6750-6751	.	_
 
+Text=A 36-parameter matrix was created from the averaged signals from the individual whole brain mask, CSF mask, white matter mask, the six head motion parameters, and their temporal derivatives and quadratic term signals.
 42-1	6752-6753	A	_
 42-2	6754-6766	36-parameter	_
 42-3	6767-6773	matrix	_
@@ -1238,6 +1280,7 @@
 42-37	6965-6972	signals	_
 42-38	6973-6974	.	_
 
+Text=A spike matrix was created from volumes that had high relative FD (> 0.3 mm).
 43-1	6975-6976	A	_
 43-2	6977-6982	spike	_
 43-3	6983-6989	matrix	_
@@ -1257,6 +1300,7 @@
 43-17	7052-7053	)	_
 43-18	7054-7055	.	_
 
+Text=Then the combination of the 36-parameter matrix and the spike matrix were regressed out of the fMRI signals.
 44-1	7056-7060	Then	_
 44-2	7061-7064	the	_
 44-3	7065-7076	combination	_
@@ -1277,6 +1321,7 @@
 44-18	7156-7163	signals	_
 44-19	7164-7165	.	_
 
+Text=Datasets with spike volumes longer than 4 min (i.e., less than 4 min of low-motion data) were excluded from the study.
 45-1	7166-7174	Datasets	_
 45-2	7175-7179	with	_
 45-3	7180-7185	spike	_
@@ -1303,6 +1348,7 @@
 45-24	7281-7286	study	_
 45-25	7287-7288	.	_
 
+Text=Finally, the residual fMRI signals were band-pass filtered (0.009 to 0.08 Hz), underwent linear-trend removal, spatially transformed to MNI standard space using a pediatric template aged from 4.5 to 8.5 years, and spatially smoothed with a 4 mm full width at half maximum kernel.
 46-1	7289-7296	Finally	_
 46-2	7297-7298	,	_
 46-3	7299-7302	the	_
@@ -1355,6 +1401,7 @@
 46-50	7567-7573	kernel	_
 46-51	7574-7575	.	_
 
+Text=Slice timing, head motion correction, T1-weighted image segmentation, head motion outlier detection, co-registration, and spatial normalization and smoothing were done in FSL.
 47-1	7576-7581	Slice	_
 47-2	7582-7588	timing	_
 47-3	7589-7590	,	_
@@ -1384,6 +1431,7 @@
 47-27	7752-7755	FSL	_
 47-28	7756-7757	.	_
 
+Text=Regression of the nuisance signals, band-pass filtering and linear trend removal were done using AFNI version AFNI_17.3.03.
 48-1	7758-7768	Regression	_
 48-2	7769-7771	of	_
 48-3	7772-7775	the	_
@@ -1404,6 +1452,7 @@
 48-18	7869-7881	AFNI_17.3.03	_
 48-19	7882-7883	.	_
 
+Text=Functional connectome constructions We used an adapted version of the stability analysis performed by Vanderwal and colleagues to investigate intra-individual stability of the functional connectome.
 49-1	7884-7894	Functional	_
 49-2	7895-7905	connectome	_
 49-3	7906-7919	constructions	_
@@ -1431,6 +1480,7 @@
 49-25	8071-8081	connectome	_
 49-26	8082-8083	.	_
 
+Text=This analysis involved splitting the fMRI signal into two halves for each participant and comparing the similarity between halves.
 50-1	8084-8088	This	_
 50-2	8089-8097	analysis	_
 50-3	8098-8106	involved	_
@@ -1452,6 +1502,7 @@
 50-19	8207-8213	halves	_
 50-20	8214-8215	.	_
 
+Text=To complete this, each participant's fMRI time series was split into two equal datasets with 120 time points each.
 51-1	8216-8218	To	_
 51-2	8219-8227	complete	_
 51-3	8228-8232	this	_
@@ -1475,6 +1526,7 @@
 51-21	8327-8331	each	_
 51-22	8332-8333	.	_
 
+Text=Each half of the dataset, as well as the entire dataset (all time points), were separately run through the following functional connectome analysis in AFNI.
 52-1	8334-8338	Each	_
 52-2	8339-8343	half	_
 52-3	8344-8346	of	_
@@ -1506,6 +1558,7 @@
 52-29	8489-8493	AFNI	_
 52-30	8494-8495	.	_
 
+Text=The Automated Anatomical Labeling (AAL) template was used to subdivide each participant's brain into 90 regions excluding the cerebellum.
 53-1	8496-8499	The	_
 53-2	8500-8509	Automated	_
 53-3	8510-8520	Anatomical	_
@@ -1530,6 +1583,7 @@
 53-22	8625-8635	cerebellum	_
 53-23	8636-8637	.	_
 
+Text=The average time series was calculated within each AAL region, and then Pearson's correlation coefficients were calculated between the averaged time series of each pair of AAL regions and transformed to Fisher's z scores to create a 90 × 90 connectivity matrix for each dataset (Fig.
 54-1	8638-8641	The	_
 54-2	8642-8649	average	_
 54-3	8650-8654	time	_
@@ -1582,10 +1636,12 @@
 54-50	8921-8924	Fig	_
 54-51	8925-8926	.	_
 
+Text=1a).
 55-1	8927-8929	1a	_
 55-2	8930-8931	)	_
 55-3	8932-8933	.	_
 
+Text=Thus, three connectivity matrices were produced for each participant: one on the first half of their data, one on the second half, and one for the entire dataset.
 56-1	8934-8938	Thus	_
 56-2	8939-8940	,	_
 56-3	8941-8946	three	_
@@ -1620,6 +1676,7 @@
 56-32	9092-9099	dataset	_
 56-33	9100-9101	.	_
 
+Text=Analysis of the functional connectome First, we examined intra-participant stability during movie watching by correlating connectivity matrices from the first and the second halves of the dataset for each participant (Fig.
 57-1	9102-9110	Analysis	_
 57-2	9111-9113	of	_
 57-3	9114-9117	the	_
@@ -1655,10 +1712,12 @@
 57-33	9322-9325	Fig	_
 57-34	9326-9327	.	_
 
+Text=1a).
 58-1	9328-9330	1a	_
 58-2	9331-9332	)	_
 58-3	9333-9334	.	_
 
+Text=Correlation coefficients were transformed to Fisher's z scores and a permutation comparison test was performed between the PAE and control groups.
 59-1	9335-9346	Correlation	_
 59-2	9347-9359	coefficients	_
 59-3	9360-9364	were	_
@@ -1683,6 +1742,7 @@
 59-22	9475-9481	groups	_
 59-23	9482-9483	.	_
 
+Text=Age, sex, head motion (i.e., averaged relative FD), and total brain volume were included as covariates.
 60-1	9484-9487	Age	_
 60-2	9488-9489	,	_
 60-3	9490-9493	sex	_
@@ -1707,6 +1767,7 @@
 60-22	9582-9592	covariates	_
 60-23	9593-9594	.	_
 
+Text=Linear correlations between age and the intra-participant stability metric were calculated for each group with sex, head motion, and total brain volume as covariates.
 61-1	9595-9601	Linear	_
 61-2	9602-9614	correlations	_
 61-3	9615-9622	between	_
@@ -1735,6 +1796,7 @@
 61-26	9752-9762	covariates	_
 61-27	9763-9764	.	_
 
+Text=Second, inter-individual stability was examined within each group (Fig.
 62-1	9765-9771	Second	_
 62-2	9772-9773	,	_
 62-3	9774-9790	inter-individual	_
@@ -1748,10 +1810,12 @@
 62-11	9834-9837	Fig	_
 62-12	9838-9839	.	_
 
+Text=1b).
 63-1	9840-9842	1b	_
 63-2	9843-9844	)	_
 63-3	9845-9846	.	_
 
+Text=Pearson's correlation coefficients were calculated between each subject's whole connectivity matrix and that of every other participant in the same group (i.e., PAE or controls).
 64-1	9847-9854	Pearson	_
 64-2	9855-9857	's	_
 64-3	9858-9869	correlation	_
@@ -1784,6 +1848,7 @@
 64-30	10028-10029	)	_
 64-31	10030-10031	.	_
 
+Text=Then a 215 × 215 correlation matrix for the unexposed control group and a 34 × 34 correlation matrix for the PAE group were generated, and the average value of each row was calculated to generate an inter-individual stability value for each person in each dataset.
 65-1	10032-10036	Then	_
 65-2	10037-10038	a	_
 65-3	10039-10042	215	_
@@ -1833,6 +1898,7 @@
 65-47	10289-10296	dataset	_
 65-48	10297-10298	.	_
 
+Text=A permutation comparison test was performed between the inter-individual stability of two groups with age, sex, head motion, and total brain volume as covariates.
 66-1	10299-10300	A	_
 66-2	10301-10312	permutation	_
 66-3	10313-10323	comparison	_
@@ -1862,6 +1928,7 @@
 66-27	10453-10463	covariates	_
 66-28	10464-10465	.	_
 
+Text=The relationship between inter-individual stability and age was examined with sex, head motion, and total brain volume as covariates.
 67-1	10466-10469	The	_
 67-2	10470-10482	relationship	_
 67-3	10483-10490	between	_
@@ -1885,6 +1952,7 @@
 67-21	10590-10600	covariates	_
 67-22	10601-10602	.	_
 
+Text=Graph-theory based metrics calculation As in previous studies, the graph theoretical measurements were calculated for the thresholded and binarized individual connectivity matrix of the whole time series.
 68-1	10603-10615	Graph-theory	_
 68-2	10616-10621	based	_
 68-3	10622-10629	metrics	_
@@ -1915,6 +1983,7 @@
 68-28	10801-10807	series	_
 68-29	10808-10809	.	_
 
+Text=The threshold of the matrix was set at r = 0.17 as p <0.01.
 69-1	10810-10813	The	_
 69-2	10814-10823	threshold	_
 69-3	10824-10826	of	_
@@ -1932,6 +2001,7 @@
 69-15	10865-10869	0.01	_
 69-16	10870-10871	.	_
 
+Text=The graph theoretic metrics (global and nodal level of clustering coefficient, shortest path length, small-worldness, local efficiency, global efficiency, betweenness centrality and network degree centrality) were calculated for each binary matrix using the GRETNA toolbox.
 70-1	10872-10875	The	_
 70-2	10876-10881	graph	_
 70-3	10882-10891	theoretic	_
@@ -1976,6 +2046,7 @@
 70-42	11144-11151	toolbox	_
 70-43	11152-11153	.	_
 
+Text=Clustering coefficient measures the connection density among all neighbors of each node; shortest path length measures the fastest pathway to transfer information between any pair of nodes; sigma characterizes the ratio between clustering coefficient and shortest path length compared with the random networks; local efficiency measures the efficiency of transferring information from each node and its neighbors; global efficiency measures the efficiency of transferring information from each node to all other nodes in the whole graph, with higher efficiency indicating that fewer pathways are required to reach to other nodes in the network; betweenness centrality measures the intensity of the shortest pathway that passes each node; degree centrality measures the number of the connections of each node.
 71-1	11154-11164	Clustering	_
 71-2	11165-11176	coefficient	_
 71-3	11177-11185	measures	_
@@ -2102,6 +2173,7 @@
 71-124	11964-11968	node	_
 71-125	11969-11970	.	_
 
+Text=Permutation tests between the two groups for each metric were performed controlling for age, sex, head motion, and total brain volume.
 72-1	11971-11982	Permutation	_
 72-2	11983-11988	tests	_
 72-3	11989-11996	between	_
@@ -2128,6 +2200,7 @@
 72-24	12101-12107	volume	_
 72-25	12108-12109	.	_
 
+Text=The threshold for nodal metrics was set at p <0.05.
 73-1	12110-12113	The	_
 73-2	12114-12123	threshold	_
 73-3	12124-12127	for	_
@@ -2141,6 +2214,7 @@
 73-11	12157-12161	0.05	_
 73-12	12162-12163	.	_
 
+Text=For completeness, we report results both uncorrected and corrected using false discovery rate (FDR) for multiple comparisons.
 74-1	12164-12167	For	_
 74-2	12168-12180	completeness	_
 74-3	12181-12182	,	_
@@ -2163,6 +2237,7 @@
 74-20	12280-12291	comparisons	_
 74-21	12292-12293	.	_
 
+Text=We also analyzed metrics for linear correlations with age, and for group-age interactions.
 75-1	12294-12296	We	_
 75-2	12297-12301	also	_
 75-3	12302-12310	analyzed	_
@@ -2179,6 +2254,7 @@
 75-14	12372-12384	interactions	_
 75-15	12385-12386	.	_
 
+Text=All permutation tests were performed in the GRETNA toolbox.
 76-1	12387-12390	All	_
 76-2	12391-12402	permutation	_
 76-3	12403-12408	tests	_
@@ -2190,6 +2266,7 @@
 76-9	12438-12445	toolbox	_
 76-10	12446-12447	.	_
 
+Text=The nodal level results were displayed by BrainNet Viewer toolbox.
 77-1	12448-12451	The	_
 77-2	12452-12457	nodal	_
 77-3	12458-12463	level	_

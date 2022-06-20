@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Multimodal neuroimaging evidence for looser lexico-semantic networks in schizophrenia: Evidence from masked indirect semantic priming It has been hypothesized that schizophrenia is characterized by overly broad automatic activity within lexico-semantic networks.
 1-1	0-10	Multimodal	_
 1-2	11-23	neuroimaging	_
 1-3	24-32	evidence	_
@@ -36,6 +37,7 @@
 1-32	254-262	networks	_
 1-33	263-264	.	_
 
+Text=We used two complementary neuroimaging techniques, Magnetoencephalography (MEG) and functional Magnetic Resonance Imaging (fMRI), in combination with a highly automatic indirect semantic priming paradigm, to spatiotemporally localize this abnormality in the brain.
 2-1	265-267	We	_
 2-2	268-272	used	_
 2-3	273-276	two	_
@@ -77,6 +79,7 @@
 2-39	530-535	brain	_
 2-40	536-537	.	_
 
+Text=Eighteen people with schizophrenia and 20 demographically-matched control participants viewed target words (“ bell ”) preceded by directly related (“ church ”), indirectly related (“ priest ”), or unrelated (“ hammer ”) prime words in MEG and fMRI sessions.
 3-1	538-546	Eighteen	_
 3-2	547-553	people	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 3-3	554-558	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -128,6 +131,7 @@
 3-49	796-804	sessions	_
 3-50	805-806	.	_
 
+Text=To minimize top-down processing, the prime was masked, the target appeared only 140 ms after prime onset, and participants simply monitored for words within a particular semantic category that appeared in filler trials.
 4-1	807-809	To	_
 4-2	810-818	minimize	_
 4-3	819-827	top-down	_
@@ -166,6 +170,7 @@
 4-36	1022-1028	trials	_
 4-37	1029-1030	.	_
 
+Text=Both techniques revealed a significantly larger automatic indirect priming effect in people with schizophrenia than in control participants.
 5-1	1031-1035	Both	_
 5-2	1036-1046	techniques	_
 5-3	1047-1055	revealed	_
@@ -186,6 +191,7 @@
 5-18	1158-1170	participants	_
 5-19	1171-1172	.	_
 
+Text=MEG temporally localized this enhanced effect to the N400 time window (300–500 ms) — the critical stage of accessing meaning from words.
 6-1	1173-1176	MEG	_
 6-2	1177-1187	temporally	_
 6-3	1188-1197	localized	_
@@ -212,6 +218,7 @@
 6-24	1305-1310	words	_
 6-25	1311-1312	.	_
 
+Text=fMRI spatially localized the effect to the left temporal fusiform cortex, which plays a role in mapping of orthographic word-form on to meaning.
 7-1	1313-1317	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 7-2	1318-1327	spatially	_
 7-3	1328-1337	localized	_
@@ -238,6 +245,7 @@
 7-24	1450-1457	meaning	_
 7-25	1458-1459	.	_
 
+Text=There was no evidence of an enhanced automatic direct semantic priming effect in the schizophrenia group.
 8-1	1460-1465	There	_
 8-2	1466-1469	was	_
 8-3	1470-1472	no	_
@@ -256,6 +264,7 @@
 8-16	1559-1564	group	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-17	1565-1566	.	_
 
+Text=These findings provide converging neural evidence for abnormally broad highly automatic lexico-semantic activity in schizophrenia.
 9-1	1567-1572	These	_
 9-2	1573-1581	findings	_
 9-3	1582-1589	provide	_
@@ -273,6 +282,7 @@
 9-15	1683-1696	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-16	1697-1698	.	_
 
+Text=We argue that, rather than arising from an unconstrained spread of automatic activation across semantic memory, this broader automatic lexico-semantic activity stems from looser mappings between the form and meaning of words.
 10-1	1699-1701	We	_
 10-2	1702-1707	argue	_
 10-3	1708-1712	that	_
@@ -309,6 +319,7 @@
 10-34	1920-1925	words	_
 10-35	1926-1927	.	_
 
+Text=Methods Materials The stimulus materials have previously been described in detail.
 11-1	1928-1935	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	1936-1945	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	1946-1949	The	_
@@ -322,6 +333,7 @@
 11-11	2003-2009	detail	_
 11-12	2010-2011	.	_
 
+Text=They constituted 192 unique targets (e.g.
 12-1	2012-2016	They	_
 12-2	2017-2028	constituted	_
 12-3	2029-2032	192	_
@@ -331,6 +343,7 @@
 12-7	2050-2053	e.g	_
 12-8	2054-2055	.	_
 
+Text=“ bell ”) paired with primes that were either directly related (e.g.
 13-1	2056-2057	“	_
 13-2	2058-2062	bell	_
 13-3	2063-2064	”	_
@@ -347,6 +360,7 @@
 13-14	2122-2125	e.g	_
 13-15	2126-2127	.	_
 
+Text=“ church ”), indirectly related (e.g.
 14-1	2128-2129	“	_
 14-2	2130-2136	church	_
 14-3	2137-2138	”	_
@@ -358,6 +372,7 @@
 14-9	2164-2167	e.g	_
 14-10	2168-2169	.	_
 
+Text=“ priest ”), or unrelated (e.g.
 15-1	2170-2171	“	_
 15-2	2172-2178	priest	_
 15-3	2179-2180	”	_
@@ -369,12 +384,14 @@
 15-9	2200-2203	e.g	_
 15-10	2204-2205	.	_
 
+Text=“ hammer ”).
 16-1	2206-2207	“	_
 16-2	2208-2214	hammer	_
 16-3	2215-2216	”	_
 16-4	2217-2218	)	_
 16-5	2219-2220	.	_
 
+Text=As previously described, the primes of the indirectly related pairs did not share obvious categorical relationships or direct associations with their targets.
 17-1	2221-2223	As	_
 17-2	2224-2234	previously	_
 17-3	2235-2244	described	_
@@ -400,6 +417,7 @@
 17-23	2372-2379	targets	_
 17-24	2380-2381	.	_
 
+Text=However, they did share more global similarities with their targets than the unrelated word-pairs, as indexed by Latent Semantic Analysis (; see also), as well as by a norming study in which participants were explicitly asked to identify the unstated mediator word (described by, pages 553 and 556–557).
 18-1	2382-2389	However	_
 18-2	2390-2391	,	_
 18-3	2392-2396	they	_
@@ -458,6 +476,7 @@
 18-56	2691-2692	)	_
 18-57	2693-2694	.	_
 
+Text=The same targets were counterbalanced across three lists.
 19-1	2695-2698	The	_
 19-2	2699-2703	same	_
 19-3	2704-2711	targets	_
@@ -468,6 +487,7 @@
 19-8	2746-2751	lists	_
 19-9	2752-2753	.	_
 
+Text=Each list contained 64 directly related pairs, 64 indirectly related pairs, and 64 unrelated pairs, in randomized order.
 20-1	2754-2758	Each	_
 20-2	2759-2763	list	_
 20-3	2764-2773	contained	_
@@ -491,6 +511,7 @@
 20-21	2871-2876	order	_
 20-22	2877-2878	.	_
 
+Text=No prime or target word appeared twice in the same list, but across all participants, the same targets could appear in all three conditions.
 21-1	2879-2881	No	_
 21-2	2882-2887	prime	_
 21-3	2888-2890	or	_
@@ -519,6 +540,7 @@
 21-26	3010-3020	conditions	_
 21-27	3021-3022	.	_
 
+Text=Thus, differences between conditions could not be attributed to differences to the lexical properties of the targets or the primes.
 22-1	3023-3027	Thus	_
 22-2	3028-3029	,	_
 22-3	3030-3041	differences	_
@@ -542,6 +564,7 @@
 22-21	3148-3154	primes	_
 22-22	3155-3156	.	_
 
+Text=Each list also contained 40 filler unrelated word-pairs in which either the prime (50%) or the target (50%) was the name of an insect.
 23-1	3157-3161	Each	_
 23-2	3162-3166	list	_
 23-3	3167-3171	also	_
@@ -574,6 +597,7 @@
 23-30	3290-3296	insect	_
 23-31	3297-3298	.	_
 
+Text=These were included for the purpose of the semantic monitoring task (described below).
 24-1	3299-3304	These	_
 24-2	3305-3309	were	_
 24-3	3310-3318	included	_
@@ -591,6 +615,7 @@
 24-15	3385-3386	)	_
 24-16	3387-3388	.	_
 
+Text=Participants People with a DSM-IV diagnosis of schizophrenia or schizoaffective disorder (confirmed with a Structured Clinical Interview, see) were recruited from the Lindemann Mental Health Center, Boston.
 25-1	3389-3401	Participants	_
 25-2	3402-3408	People	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 25-3	3409-3413	with	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
@@ -624,6 +649,7 @@
 25-31	3592-3598	Boston	_
 25-32	3599-3600	.	_
 
+Text=Demographically matched volunteers without histories of psychiatric disorders were recruited by advertisement.
 26-1	3601-3616	Demographically	_
 26-2	3617-3624	matched	_
 26-3	3625-3635	volunteers	_
@@ -638,6 +664,7 @@
 26-12	3697-3710	advertisement	_
 26-13	3711-3712	.	_
 
+Text=All participants were right-handed, as assessed using the Edinburgh handedness questionnaire, and were native, primarily monolingual American English speakers.
 27-1	3713-3716	All	_
 27-2	3717-3729	participants	_
 27-3	3730-3734	were	_
@@ -662,6 +689,7 @@
 27-22	3866-3874	speakers	_
 27-23	3875-3876	.	_
 
+Text=Participants were excluded if they had a history of neurological injury, medical disorders impairing neurocognitive function, or if they met DSM-IV criteria for substance abuse (within three months) or substance dependence.
 28-1	3877-3889	Participants	_
 28-2	3890-3894	were	_
 28-3	3895-3903	excluded	_
@@ -699,6 +727,7 @@
 28-35	4093-4103	dependence	_
 28-36	4104-4105	.	_
 
+Text=Written consent was obtained following the guidelines of the Massachusetts General Hospital Human Subjects Research Committee.
 29-1	4106-4113	Written	_
 29-2	4114-4121	consent	_
 29-3	4122-4125	was	_
@@ -717,6 +746,7 @@
 29-16	4222-4231	Committee	_
 29-17	4232-4233	.	_
 
+Text=Most patients ’ symptoms were assessed on the day of either the fMRI or the MEG session using the Scale for the Assessment of Positive Symptoms (SAPS:), and the Scale for the Assessment of Negative Symptoms (SANS:).
 30-1	4234-4238	Most	_
 30-2	4239-4247	patients	_
 30-3	4248-4249	’	_
@@ -763,6 +793,7 @@
 30-44	4454-4455	)	_
 30-45	4456-4457	.	_
 
+Text=Our control dataset was n = 20 for fMRI and n = 18 for MEG.
 31-1	4458-4461	Our	_
 31-2	4462-4469	control	_
 31-3	4470-4477	dataset	_
@@ -780,6 +811,7 @@
 31-15	4513-4516	MEG	http://maven.renci.org/NeuroBridge/neurobridge#Magnetoencephalography
 31-16	4517-4518	.	_
 
+Text=Twenty-one control participants were originally recruited.
 32-1	4519-4529	Twenty-one	_
 32-2	4530-4537	control	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 32-3	4538-4550	participants	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
@@ -788,6 +820,7 @@
 32-6	4567-4576	recruited	_
 32-7	4577-4578	.	_
 
+Text=One was subsequently excluded because of a structural MRI abnormality, and two failed to return for the MEG session.
 33-1	4579-4582	One	_
 33-2	4583-4586	was	_
 33-3	4587-4599	subsequently	_
@@ -810,6 +843,7 @@
 33-20	4688-4695	session	_
 33-21	4696-4697	.	_
 
+Text=Our schizophrenia dataset was n = 16 for fMRI and n = 18 for MEG.
 34-1	4698-4701	Our	_
 34-2	4702-4715	schizophrenia	_
 34-3	4716-4723	dataset	_
@@ -827,6 +861,7 @@
 34-15	4759-4762	MEG	http://maven.renci.org/NeuroBridge/neurobridge#Magnetoencephalography
 34-16	4763-4764	.	_
 
+Text=Twenty-two schizophrenia participants were originally recruited, but two were excluded from both fMRI and MEG analysis (technical problems and a failure to complete the fMRI study).
 35-1	4765-4775	Twenty-two	_
 35-2	4776-4789	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 35-3	4790-4802	participants	_
@@ -858,6 +893,7 @@
 35-29	4947-4948	)	_
 35-30	4949-4950	.	_
 
+Text=Four additional patients were excluded from the fMRI analysis: two because more than 20% of volumes yielded evidence of artifact as detected using the ArtRepair toolbox (; for further details, see fMRI analysis below), one because of a susceptibility artifact on the functional scans (of unknown origin), and one because of poor behavioral performance.
 36-1	4951-4955	Four	_
 36-2	4956-4966	additional	_
 36-3	4967-4975	patients	_
@@ -923,6 +959,7 @@
 36-63	5300-5311	performance	_
 36-64	5312-5313	.	_
 
+Text=In addition, two patients failed to return for the MEG session.
 37-1	5314-5316	In	_
 37-2	5317-5325	addition	_
 37-3	5326-5327	,	_
@@ -937,6 +974,7 @@
 37-12	5370-5377	session	_
 37-13	5378-5379	.	_
 
+Text=In our analyses of the MEG and fMRI data, we included all participants who completed that session.
 38-1	5380-5382	In	_
 38-2	5383-5386	our	_
 38-3	5387-5395	analyses	_
@@ -957,6 +995,7 @@
 38-18	5471-5478	session	_
 38-19	5479-5480	.	_
 
+Text=Of these participants, 14 control participants and 18 people with schizophrenia participated in both fMRI and MEG sessions.
 39-1	5481-5483	Of	_
 39-2	5484-5489	these	_
 39-3	5490-5502	participants	_
@@ -978,6 +1017,7 @@
 39-19	5596-5604	sessions	http://maven.renci.org/NeuroBridge/neurobridge#Magnetoencephalography
 39-20	5605-5606	.	_
 
+Text=We show the demographic and clinical data of this subset of participants in Table 1.
 40-1	5607-5609	We	_
 40-2	5610-5614	show	_
 40-3	5615-5618	the	_
@@ -995,6 +1035,7 @@
 40-15	5689-5690	1	_
 40-16	5691-5692	.	_
 
+Text=The two groups were matched closely on gender, race, and ethnicity, all ps> 0.1, and on age, years of education, and parental socioeconomic status, all ps> 0.3.
 41-1	5693-5696	The	_
 41-2	5697-5700	two	_
 41-3	5701-5707	groups	_
@@ -1033,6 +1074,7 @@
 41-36	5858-5861	0.3	_
 41-37	5862-5863	.	_
 
+Text=Premorbid verbal IQ, assessed with the North American Adult Reading Test, was slightly lower in the patient than the control group (t (30) = 2.103, p = 0.044).
 42-1	5864-5873	Premorbid	_
 42-2	5874-5880	verbal	_
 42-3	5881-5883	IQ	_
@@ -1070,6 +1112,7 @@
 42-35	6028-6029	)	_
 42-36	6030-6031	.	_
 
+Text=Overall procedure For the subset of participants who completed both MEG and MRI sessions, these sessions were carried out on different days, with a minimum of two days in between sessions.
 43-1	6032-6039	Overall	_
 43-2	6040-6049	procedure	_
 43-3	6050-6053	For	_
@@ -1105,6 +1148,7 @@
 43-33	6213-6221	sessions	_
 43-34	6222-6223	.	_
 
+Text=The order of these sessions was counterbalanced across participants.
 44-1	6224-6227	The	_
 44-2	6228-6233	order	_
 44-3	6234-6236	of	_
@@ -1116,6 +1160,7 @@
 44-9	6279-6291	participants	_
 44-10	6292-6293	.	_
 
+Text=In addition, participants were assigned different lists in each session so that no participant saw the same list (or target word) twice.
 45-1	6294-6296	In	_
 45-2	6297-6305	addition	_
 45-3	6306-6307	,	_
@@ -1143,6 +1188,7 @@
 45-25	6427-6432	twice	_
 45-26	6433-6434	.	_
 
+Text=Stimuli presentation and task The structure of trials is shown in Fig.
 46-1	6435-6442	Stimuli	_
 46-2	6443-6455	presentation	_
 46-3	6456-6459	and	_
@@ -1157,9 +1203,11 @@
 46-12	6501-6504	Fig	_
 46-13	6505-6506	.	_
 
+Text=2.
 47-1	6507-6508	2	_
 47-2	6509-6510	.	_
 
+Text=For fMRI, additional fixations (2–8 s) were added after 25% of trials to optimize the de­convolution of the event-related hemodynamic response function (; see https: //surfer.nmr.mgh.harvard.edu/optseq).
 48-1	6511-6514	For	_
 48-2	6515-6519	fMRI	_
 48-3	6520-6521	,	_
@@ -1195,6 +1243,7 @@
 48-33	6719-6720	)	_
 48-34	6721-6722	.	_
 
+Text=For MEG, at least 700 ms was inserted between trials, allowing participants time to blink.
 49-1	6723-6726	For	_
 49-2	6727-6730	MEG	_
 49-3	6731-6732	,	_
@@ -1214,6 +1263,7 @@
 49-17	6809-6814	blink	_
 49-18	6815-6816	.	_
 
+Text=In both sessions, participants carried out a semantic monitoring task: to press a response button as quickly as possible whenever they saw an insect word, regardless of whether it appeared in the prime or target position.
 50-1	6817-6819	In	_
 50-2	6820-6824	both	_
 50-3	6825-6833	sessions	_
@@ -1255,6 +1305,7 @@
 50-39	7032-7040	position	_
 50-40	7041-7042	.	_
 
+Text=Responses were considered accurate if they were registered within 5 s of prime onset.
 51-1	7043-7052	Responses	_
 51-2	7053-7057	were	_
 51-3	7058-7068	considered	_
@@ -1271,6 +1322,7 @@
 51-14	7122-7127	onset	_
 51-15	7128-7129	.	_
 
+Text=Trials were presented in two runs, separated by a short break.
 52-1	7130-7136	Trials	_
 52-2	7137-7141	were	http://maven.renci.org/NeuroBridge/neurobridge#Immunoelectrophoresis
 52-3	7142-7151	presented	http://maven.renci.org/NeuroBridge/neurobridge#Immunoelectrophoresis
@@ -1285,6 +1337,7 @@
 52-12	7187-7192	break	_
 52-13	7193-7194	.	_
 
+Text=A brief practice session preceded both the MEG and fMRI sessions.
 53-1	7195-7196	A	_
 53-2	7197-7202	brief	_
 53-3	7203-7211	practice	_
@@ -1298,6 +1351,7 @@
 53-11	7251-7259	sessions	_
 53-12	7260-7261	.	_
 
+Text=MEG acquisition MEG data was acquired inside a magnetically shielded room (IMEDCO AG, Switzerland) using a Neuromag VectorView system (Elekta-Neuromag Oy, Finland; 102 sets of triplet sensors — two orthogonal planar gradiometers and one magnetometer), with an online bandpass filter of 0.03–200 Hz and continuously sampled at 600 Hz.
 54-1	7262-7265	MEG	http://maven.renci.org/NeuroBridge/neurobridge#Magnetoencephalography
 54-2	7266-7277	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#Magnetoencephalography
 54-3	7278-7281	MEG	http://maven.renci.org/NeuroBridge/neurobridge#Magnetoencephalography
@@ -1357,6 +1411,7 @@
 54-57	7600-7602	Hz	_
 54-58	7603-7604	.	_
 
+Text=We also collected EEG, EOG, and ECG data using a 70-channel MEG-compatible electrode system.
 55-1	7605-7607	We	_
 55-2	7608-7612	also	_
 55-3	7613-7622	collected	_
@@ -1375,6 +1430,7 @@
 55-16	7692-7698	system	_
 55-17	7699-7700	.	_
 
+Text=The EEG data are not reported here.
 56-1	7701-7704	The	_
 56-2	7705-7708	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 56-3	7709-7713	data	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -1384,6 +1440,7 @@
 56-7	7731-7735	here	_
 56-8	7736-7737	.	_
 
+Text=To record the position and orientation of the head with respect to the MEG sensor array, at the beginning of each run, the locations of three fiduciary points (nasion and two auricular), four head position indicator coils, the EEG electrodes, and 100+ additional points were digitized using a 3Space Fastrak Polhemus digitizer integrated with the Vectorview system.
 57-1	7738-7740	To	_
 57-2	7741-7747	record	_
 57-3	7748-7751	the	_
@@ -1450,6 +1507,7 @@
 57-64	8103-8109	system	_
 57-65	8110-8111	.	_
 
+Text=FMRI acquisition fMRI images were acquired using a 3T Siemens Trio scanner and a 32-channel head coil using a gradient-echo sequence (TR, 2 s; TE, 25 ms; flip angle 90°; interleaved acquisition) over two runs (each 148 functional volumes; 36 axial slices anterior commissure-posterior commissure aligned, 3 mm slice thickness, 0.3 mm skip, 200 mm field of view, in-plane resolution of 3.125 mm).
 58-1	8112-8116	FMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 58-2	8117-8128	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 58-3	8129-8133	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -1529,6 +1587,7 @@
 58-77	8519-8520	)	_
 58-78	8521-8522	.	_
 
+Text=We also acquired structural images at the beginning and the end of the session.
 59-1	8523-8525	We	_
 59-2	8526-8530	also	_
 59-3	8531-8539	acquired	_
@@ -1545,6 +1604,7 @@
 59-14	8594-8601	session	_
 59-15	8602-8603	.	_
 
+Text=MEG preprocessing Signal-space projection (SSP) was applied to MEG magnetometer data to suppress environmental noise and biological artifacts.
 60-1	8604-8607	MEG	_
 60-2	8608-8621	preprocessing	_
 60-3	8622-8634	Signal-space	_
@@ -1567,6 +1627,7 @@
 60-20	8738-8747	artifacts	_
 60-21	8748-8749	.	_
 
+Text=Additional SSPs were computed to estimate cardiac artifacts (detected using the bipolar ECG electrodes) and ocular artifacts (detected using the bipolar VEOG electrodes) and applied to the MEG gradiometer and magnetometer data.
 61-1	8750-8760	Additional	_
 61-2	8761-8765	SSPs	_
 61-3	8766-8770	were	_
@@ -1605,6 +1666,7 @@
 61-36	8976-8980	data	_
 61-37	8981-8982	.	_
 
+Text=Averaged event-related MEG signals were computed off-line from trials free of muscular artifacts after the application of a 20 Hz off-line low-pass filter.
 62-1	8983-8991	Averaged	_
 62-2	8992-9005	event-related	_
 62-3	9006-9009	MEG	_
@@ -1630,6 +1692,7 @@
 62-23	9131-9137	filter	_
 62-24	9138-9139	.	_
 
+Text=We then combined activity across the two planar gradiometers at each site, and calculated activity time-locked to target words in each condition using a baseline of −100 ms. We generated difference waveforms corresponding to the indirect and direct priming effects, and averaged these difference waveforms across 13 temporal sites where previous MEG studies have reported maximal modulation within the N400 time window (e.g.
 63-1	9140-9142	We	_
 63-2	9143-9147	then	_
 63-3	9148-9156	combined	_
@@ -1698,10 +1761,12 @@
 63-66	9563-9566	e.g	_
 63-67	9567-9568	.	_
 
+Text=;).
 64-1	9569-9570	;	_
 64-2	9571-9572	)	_
 64-3	9573-9574	.	_
 
+Text=MEG statistical analysis To determine whether the indirect or the direct priming effects differed between the schizophrenia and control groups, we used a mass univariate approach: We carried out independent-samples t-tests (comparing the two groups) at each sampling point (60 data points) on the difference waveforms (unrelated minus directly related; unrelated minus indirectly related) within the 300–500 ms time window of interest, averaged over the temporal sites.
 65-1	9575-9578	MEG	_
 65-2	9579-9590	statistical	_
 65-3	9591-9599	analysis	_
@@ -1781,6 +1846,7 @@
 65-77	10048-10053	sites	_
 65-78	10054-10055	.	_
 
+Text=We used cluster-based permutation tests to account for multiple comparisons using an open-source Matlab toolbox within the Fieldtrip software package.
 66-1	10056-10058	We	_
 66-2	10059-10063	used	_
 66-3	10064-10077	cluster-based	_
@@ -1803,6 +1869,7 @@
 66-20	10198-10205	package	_
 66-21	10206-10207	.	_
 
+Text=Consecutive data points that exceeded a pre-set uncorrected significance threshold of 5% were considered a cluster, and individual t-statistics within each cluster were summed to yield cluster-level test statistics.
 67-1	10208-10219	Consecutive	_
 67-2	10220-10224	data	_
 67-3	10225-10231	points	_
@@ -1836,6 +1903,7 @@
 67-31	10414-10424	statistics	_
 67-32	10425-10426	.	_
 
+Text=Next, a null distribution was created by randomly assigning difference values at each sampling point to either the schizophrenia or the control group 1000 times, calculating cluster-level statistics for each randomization and entering the largest cluster-level summed t statistic into the null distribution.
 68-1	10427-10431	Next	_
 68-2	10432-10433	,	_
 68-3	10434-10435	a	_
@@ -1883,6 +1951,7 @@
 68-45	10723-10735	distribution	_
 68-46	10736-10737	.	_
 
+Text=The actually observed cluster-level test statistics were compared with the null distribution, and any clusters falling within the highest or the lowest 2.5th percentile were considered significant.
 69-1	10738-10741	The	_
 69-2	10742-10750	actually	_
 69-3	10751-10759	observed	_
@@ -1913,6 +1982,7 @@
 69-28	10924-10935	significant	_
 69-29	10936-10937	.	_
 
+Text=To follow up any significant between-group differences, we examined priming effects within each group separately by carrying out dependent sample t-tests between conditions at each sampling point between 300 and 500 ms, and once again using a cluster-based permutation approach to account for multiple comparisons.
 70-1	10938-10940	To	_
 70-2	10941-10947	follow	_
 70-3	10948-10950	up	_
@@ -1962,6 +2032,7 @@
 70-47	11242-11253	comparisons	_
 70-48	11254-11255	.	_
 
+Text=fMRI preprocessing Analysis of the fMRI data was conducted in SPM8 (www.fil.ion.ucl.ac.uk/spm).
 71-1	11256-11260	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 71-2	11261-11274	preprocessing	_
 71-3	11275-11283	Analysis	_
@@ -1978,6 +2049,7 @@
 71-14	11351-11352	)	_
 71-15	11353-11354	.	_
 
+Text=After discarding the first four images, spikes and other artifacts were detected.
 72-1	11355-11360	After	_
 72-2	11361-11371	discarding	_
 72-3	11372-11375	the	_
@@ -1993,6 +2065,7 @@
 72-13	11428-11436	detected	_
 72-14	11437-11438	.	_
 
+Text=Bad slices (average: 0.5%; range: 0–7.6%) were interpolated from surrounding images using the ArtRepair toolbox.
 73-1	11439-11442	Bad	_
 73-2	11443-11449	slices	_
 73-3	11450-11451	(	_
@@ -2017,6 +2090,7 @@
 73-22	11550-11557	toolbox	_
 73-23	11558-11559	.	_
 
+Text=In each participant, images were then slice-time corrected and realigned to the first image of each run and then to each other.
 74-1	11560-11562	In	_
 74-2	11563-11567	each	_
 74-3	11568-11579	participant	_
@@ -2042,6 +2116,7 @@
 74-23	11682-11687	other	_
 74-24	11688-11689	.	_
 
+Text=The mean of the functional images was co-registered to the structural images.
 75-1	11690-11693	The	_
 75-2	11694-11698	mean	_
 75-3	11699-11701	of	_
@@ -2056,6 +2131,7 @@
 75-12	11760-11766	images	_
 75-13	11767-11768	.	_
 
+Text=The structural images were segmented into gray and white matter and the functional images were spatially normalized and then smoothed with a 10 mm FWHM Gaussian kernel.
 76-1	11769-11772	The	_
 76-2	11773-11783	structural	_
 76-3	11784-11790	images	_
@@ -2085,6 +2161,7 @@
 76-27	11930-11936	kernel	_
 76-28	11937-11938	.	_
 
+Text=The selection of this smoothing kernel was based on a previous semantic priming fMRI in healthy adults; it is appropriate for detecting small effects (such as the masked priming effect) at the group level, while still accommodating anatomical and functional variation between individuals (see for discussion) — a particularly important consideration in schizophrenia (e.g .).
 77-1	11939-11942	The	_
 77-2	11943-11952	selection	_
 77-3	11953-11955	of	_
@@ -2150,6 +2227,7 @@
 77-63	12320-12321	)	_
 77-64	12322-12323	.	_
 
+Text=We next used the Artifact Detection Toolbox (ART,) to calculate the percentage of time points/volumes (across all runs) in which either the composite motion was greater than 1 mm and/or the image intensity was greater than 6 * SD of the mean image intensity of that participant.
 78-1	12324-12326	We	_
 78-2	12327-12331	next	_
 78-3	12332-12336	used	_
@@ -2204,6 +2282,7 @@
 78-52	12595-12606	participant	_
 78-53	12607-12608	.	_
 
+Text=Participants in which more than 20% of volumes met one or both of these two criteria were excluded (as noted above, this resulted in the exclusion of two people with schizophrenia).
 79-1	12609-12621	Participants	_
 79-2	12622-12624	in	_
 79-3	12625-12630	which	_
@@ -2241,6 +2320,7 @@
 79-35	12792-12793	)	_
 79-36	12794-12795	.	_
 
+Text=In the remainder of participants, we used the toolbox to create additional regressors that identified any volume that met either or both of the above criteria.
 80-1	12796-12798	In	_
 80-2	12799-12802	the	_
 80-3	12803-12812	remainder	_
@@ -2270,6 +2350,7 @@
 80-27	12947-12955	criteria	_
 80-28	12956-12957	.	_
 
+Text=Across these remaining participants, less than 2% of volumes/time points were marked.
 81-1	12958-12964	Across	_
 81-2	12965-12970	these	_
 81-3	12971-12980	remaining	_
@@ -2286,6 +2367,7 @@
 81-14	13038-13044	marked	_
 81-15	13045-13046	.	_
 
+Text=At the first level of analysis, each run was modeled with a design matrix that included regressors for each of the three experimental conditions and the two types of filler trials (insect word in the prime and the target position).
 82-1	13047-13049	At	_
 82-2	13050-13053	the	_
 82-3	13054-13059	first	_
@@ -2331,6 +2413,7 @@
 82-43	13279-13280	)	_
 82-44	13281-13282	.	_
 
+Text=Trials were modeled from 100 ms before trial onset until the end of the trial (event duration: 1400 ms) and regressors were convolved with a canonical hemodynamic response function.
 83-1	13283-13289	Trials	_
 83-2	13290-13294	were	_
 83-3	13295-13302	modeled	_
@@ -2365,6 +2448,7 @@
 83-32	13458-13466	function	_
 83-33	13467-13468	.	_
 
+Text=The model also included the additional nuisance regressors created using the Artifact Detection Toolbox as described above.
 84-1	13469-13472	The	_
 84-2	13473-13478	model	_
 84-3	13479-13483	also	_
@@ -2384,6 +2468,7 @@
 84-17	13586-13591	above	_
 84-18	13592-13593	.	_
 
+Text=We defined three contrasts to take to the second level: (a) unrelated word-pairs versus implicit baseline, (b) indirectly related word-pairs versus implicit baseline, (c) directly related word-pairs versus implicit baseline.
 85-1	13594-13596	We	_
 85-2	13597-13604	defined	_
 85-3	13605-13610	three	_
@@ -2425,6 +2510,7 @@
 85-39	13818-13826	baseline	_
 85-40	13827-13828	.	_
 
+Text=fMRI statistical analysis At the group level, our main focus was on two a priori Regions of Interest (ROIs) which we used for small volume correction — bilateral temporal fusiform cortex (temp-fusiform) and the left anterior superior/middle temporal cortex (left ant-S/MTG), see Fig.
 86-1	13829-13833	fMRI	_
 86-2	13834-13845	statistical	_
 86-3	13846-13854	analysis	_
@@ -2478,12 +2564,14 @@
 86-51	14116-14119	Fig	_
 86-52	14120-14121	.	_
 
+Text=3 for full description.
 87-1	14122-14123	3	_
 87-2	14124-14127	for	_
 87-3	14128-14132	full	_
 87-4	14133-14144	description	_
 87-5	14145-14146	.	_
 
+Text=We carried out two separate ANOVAs that crossed Group (schizophrenia, control) and Relatedness (indirectly related vs. unrelated, or directly related vs. unrelated) and constructed Statistical Parametric Maps (SPMs) to reveal any voxels that showed a significant Group by Relatedness interaction, (i.e.
 88-1	14147-14149	We	_
 88-2	14150-14157	carried	_
 88-3	14158-14161	out	_
@@ -2537,6 +2625,7 @@
 88-51	14455-14458	i.e	_
 88-52	14459-14460	.	_
 
+Text=a between-group difference in either the indirect priming effect or the direct priming effect).
 89-1	14461-14462	a	_
 89-2	14463-14476	between-group	_
 89-3	14477-14487	difference	_
@@ -2554,6 +2643,7 @@
 89-15	14555-14556	)	_
 89-16	14557-14558	.	_
 
+Text=For these analyses, we set an initial voxel-level threshold of p <0.005 (whole brain), and we inferred significance if the peak voxel within the ROI reached a familywise error-corrected (FWE) threshold of p <0.05 using a small volume correction.
 90-1	14559-14562	For	_
 90-2	14563-14568	these	_
 90-3	14569-14577	analyses	_
@@ -2603,6 +2693,7 @@
 90-47	14801-14811	correction	_
 90-48	14812-14813	.	_
 
+Text=We report the MNI coordinates, z score and p value of this peak.
 91-1	14814-14816	We	_
 91-2	14817-14823	report	_
 91-3	14824-14827	the	_
@@ -2619,6 +2710,7 @@
 91-14	14874-14878	peak	_
 91-15	14879-14880	.	_
 
+Text=To follow up any Group by Relatedness interaction, we averaged across all voxels within the ROI that were activated at the p <0.005 whole brain voxel-wise threshold, and we carried out two-tailed t-tests to examine the effect of Relatedness in each group separately.
 92-1	14881-14883	To	_
 92-2	14884-14890	follow	_
 92-3	14891-14893	up	_
@@ -2667,6 +2759,7 @@
 92-46	15139-15149	separately	_
 92-47	15150-15151	.	_
 
+Text=In addition to these a priori analyses, we also carried out exploratory whole brain analyses.
 93-1	15152-15154	In	_
 93-2	15155-15163	addition	_
 93-3	15164-15166	to	_
@@ -2685,6 +2778,7 @@
 93-16	15237-15245	analyses	_
 93-17	15246-15247	.	_
 
+Text=First, we examined the direct and indirect priming effects in the schizophrenia and the control groups separately.
 94-1	15248-15253	First	_
 94-2	15254-15255	,	_
 94-3	15256-15258	we	_
@@ -2705,6 +2799,7 @@
 94-18	15352-15362	separately	_
 94-19	15363-15364	.	_
 
+Text=Second, we compared the contrast between all word-pairs and the implicit baseline between the schizophrenia and the control groups.
 95-1	15365-15371	Second	_
 95-2	15372-15373	,	_
 95-3	15374-15376	we	_
@@ -2727,6 +2822,7 @@
 95-20	15490-15496	groups	_
 95-21	15497-15498	.	_
 
+Text=In these exploratory whole brain analyses, we used a liberal initial voxel-level threshold of p <0.05.
 96-1	15499-15501	In	_
 96-2	15502-15507	these	_
 96-3	15508-15519	exploratory	_
@@ -2747,6 +2843,7 @@
 96-18	15598-15602	0.05	_
 96-19	15603-15604	.	_
 
+Text=This is because their main purpose was to determine whether there were any other regions that were modulated outside our regions of interest, even at a liberal threshold.
 97-1	15605-15609	This	_
 97-2	15610-15612	is	_
 97-3	15613-15620	because	_
@@ -2778,6 +2875,7 @@
 97-29	15766-15775	threshold	_
 97-30	15776-15777	.	_
 
+Text=We report any cluster that was significant at a cluster-level FWE-corrected threshold of p <0.05.
 98-1	15778-15780	We	_
 98-2	15781-15787	report	_
 98-3	15788-15791	any	_
@@ -2796,6 +2894,7 @@
 98-16	15871-15875	0.05	_
 98-17	15876-15877	.	_
 
+Text=We report the size and the p value of the cluster (as a whole) as well as the z scores and uncorrected p values of the individual peaks within that cluster.
 99-1	15878-15880	We	_
 99-2	15881-15887	report	_
 99-3	15888-15891	the	_
@@ -2831,6 +2930,7 @@
 99-33	16028-16035	cluster	_
 99-34	16036-16037	.	_
 
+Text=All coordinates reported are in MNI space.
 100-1	16038-16041	All	_
 100-2	16042-16053	coordinates	_
 100-3	16054-16062	reported	_

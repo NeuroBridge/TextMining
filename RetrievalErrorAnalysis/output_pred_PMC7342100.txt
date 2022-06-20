@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Dysbalanced Resting-State Functional Connectivity Within the Praxis Network Is Linked to Gesture Deficits in Schizophrenia Abstract Patients with schizophrenia frequently present deficits in gesture production and interpretation, greatly affecting their communication skills.
 1-1	0-11	Dysbalanced	_
 1-2	12-25	Resting-State	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 1-3	26-36	Functional	_
@@ -37,6 +38,7 @@
 1-33	269-275	skills	_
 1-34	276-277	.	_
 
+Text=As these gesture deficits can be found early in the course of illness and as they can predict later outcomes, exploring their neural basis may lead to a better understanding of schizophrenia.
 2-1	278-280	As	_
 2-2	281-286	these	_
 2-3	287-294	gesture	_
@@ -72,6 +74,7 @@
 2-33	456-469	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-34	470-471	.	_
 
+Text=While gesturing has been reported to rely on a left lateralized network of brain regions, termed praxis network, in healthy subjects and lesioned patients, studies in patients with schizophrenia are sparse.
 3-1	472-477	While	_
 3-2	478-487	gesturing	_
 3-3	488-491	has	_
@@ -108,6 +111,7 @@
 3-34	674-680	sparse	_
 3-35	681-682	.	_
 
+Text=It is currently unclear whether within-network connectivity at rest is linked to gesture deficit.
 4-1	683-685	It	_
 4-2	686-688	is	_
 4-3	689-698	currently	_
@@ -124,6 +128,7 @@
 4-14	772-779	deficit	_
 4-15	780-781	.	_
 
+Text=Here, we compared the functional connectivity between regions of the praxis network at rest between 46 patients and 44 healthy controls.
 5-1	782-786	Here	_
 5-2	787-788	,	_
 5-3	789-791	we	_
@@ -148,6 +153,7 @@
 5-22	910-918	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 5-23	919-920	.	_
 
+Text=All participants completed a validated test of hand gesture performance before resting-state functional magnetic resonance imaging (fMRI) was acquired.
 6-1	921-924	All	_
 6-2	925-937	participants	_
 6-3	938-947	completed	_
@@ -171,6 +177,7 @@
 6-21	1065-1073	acquired	_
 6-22	1074-1075	.	_
 
+Text=Patients performed gestures poorer than controls in all categories and domains.
 7-1	1076-1084	Patients	_
 7-2	1085-1094	performed	_
 7-3	1095-1103	gestures	_
@@ -184,6 +191,7 @@
 7-11	1147-1154	domains	_
 7-12	1155-1156	.	_
 
+Text=In patients, we also found significantly higher resting-state functional connectivity between left precentral gyrus and bilateral superior and inferior parietal lobule.
 8-1	1157-1159	In	_
 8-2	1160-1168	patients	_
 8-3	1169-1170	,	_
@@ -208,6 +216,7 @@
 8-22	1319-1325	lobule	_
 8-23	1326-1327	.	_
 
+Text=Likewise, patients had higher connectivity from right precentral gyrus to left inferior and bilateral superior parietal lobule (SPL).
 9-1	1328-1336	Likewise	_
 9-2	1337-1338	,	_
 9-3	1339-1347	patients	_
@@ -231,6 +240,7 @@
 9-21	1462-1463	)	_
 9-22	1464-1465	.	_
 
+Text=In contrast, they exhibited lower connectivity between bilateral superior temporal gyrus (STG).
 10-1	1466-1468	In	_
 10-2	1469-1477	contrast	_
 10-3	1478-1479	,	_
@@ -248,6 +258,7 @@
 10-15	1562-1563	)	_
 10-16	1564-1565	.	_
 
+Text=Connectivity between right precentral gyrus and left SPL, as well as connectivity between bilateral STG, correlated with gesture performance in healthy controls.
 11-1	1566-1578	Connectivity	_
 11-2	1579-1586	between	_
 11-3	1587-1592	right	_
@@ -274,6 +285,7 @@
 11-24	1720-1728	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 11-25	1729-1730	.	_
 
+Text=We failed to detect similar correlations in patients.
 12-1	1731-1733	We	_
 12-2	1734-1740	failed	_
 12-3	1741-1743	to	_
@@ -284,6 +296,7 @@
 12-8	1775-1783	patients	_
 12-9	1784-1785	.	_
 
+Text=We suggest that altered resting-state functional connectivity within the praxis network perturbs correct gesture planning in patients, reflecting the gesture deficit often seen in schizophrenia.
 13-1	1786-1788	We	_
 13-2	1789-1796	suggest	_
 13-3	1797-1801	that	_
@@ -312,6 +325,7 @@
 13-26	1967-1980	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 13-27	1981-1982	.	_
 
+Text=Methods Participants We included 46 patients with schizophrenia spectrum disorders and 44 age-, sex-, and education-matched healthy controls.
 14-1	1983-1990	Methods	_
 14-2	1991-2003	Participants	_
 14-3	2004-2006	We	_
@@ -334,6 +348,7 @@
 14-20	2117-2125	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 14-21	2126-2127	.	_
 
+Text=We have published behavioral data and fMRI task analyses in these participants before (eg,).
 15-1	2128-2130	We	_
 15-2	2131-2135	have	_
 15-3	2136-2145	published	_
@@ -353,6 +368,7 @@
 15-17	2221-2222	)	_
 15-18	2223-2224	.	_
 
+Text=Patients were recruited from inpatient and outpatient departments of University Hospital of Psychiatry, Bern, Switzerland.
 16-1	2225-2233	Patients	_
 16-2	2234-2238	were	_
 16-3	2239-2248	recruited	_
@@ -372,6 +388,7 @@
 16-17	2337-2348	Switzerland	_
 16-18	2349-2350	.	_
 
+Text=Controls were recruited among staff and via advertisements.
 17-1	2351-2359	Controls	_
 17-2	2360-2364	were	_
 17-3	2365-2374	recruited	_
@@ -382,6 +399,7 @@
 17-8	2395-2409	advertisements	_
 17-9	2410-2411	.	_
 
+Text=Exclusion criteria for both groups were substance abuse or dependence other than nicotine, current or history of medical conditions impairing movements, epilepsy, history of head trauma with loss of consciousness, and history of electroconvulsive therapy.
 18-1	2412-2421	Exclusion	_
 18-2	2422-2430	criteria	_
 18-3	2431-2434	for	_
@@ -423,6 +441,7 @@
 18-39	2663-2670	therapy	_
 18-40	2671-2672	.	_
 
+Text=Patients fulfilled DSM-5 criteria for schizophrenia, schizoaffective disorder, or schizophreniform disorder.
 19-1	2673-2681	Patients	_
 19-2	2682-2691	fulfilled	_
 19-3	2692-2697	DSM-5	_
@@ -438,6 +457,7 @@
 19-13	2774-2782	disorder	http://maven.renci.org/NeuroBridge/neurobridge#SchizophreniformDisorder
 19-14	2783-2784	.	_
 
+Text=Diagnosis was ensured using the Mini International Neuropsychiatric Interview and Comprehensive Assessment of Symptoms and History.
 20-1	2785-2794	Diagnosis	_
 20-2	2795-2798	was	_
 20-3	2799-2806	ensured	_
@@ -456,6 +476,7 @@
 20-16	2908-2915	History	_
 20-17	2916-2917	.	_
 
+Text=Controls with a history of any psychiatric disorder or first-degree relatives with schizophrenia or schizoaffective disorder were excluded.
 21-1	2918-2926	Controls	_
 21-2	2927-2931	with	_
 21-3	2932-2933	a	_
@@ -476,6 +497,7 @@
 21-18	3048-3056	excluded	_
 21-19	3057-3058	.	_
 
+Text=All participants were right-handed according to the Edinburgh Handedness Inventory.We employed the Frontal Assessment Battery (FAB) and the Test of nonverbal Intelligence (TONI) in all participants, as well as the Positive and Negative Syndrome Scale (PANSS), the Abnormal Involuntary Movement Scale (AIMS), and the Bush-Francis Catatonia Rating Scale (BFCRS) in patients.
 22-1	3059-3062	All	_
 22-2	3063-3075	participants	_
 22-3	3076-3080	were	_
@@ -542,6 +564,7 @@
 22-64	3435-3443	patients	_
 22-65	3444-3445	.	_
 
+Text=Written informed consent was obtained from all participants.
 23-1	3446-3453	Written	_
 23-2	3454-3462	informed	_
 23-3	3463-3470	consent	_
@@ -552,6 +575,7 @@
 23-8	3493-3505	participants	_
 23-9	3506-3507	.	_
 
+Text=The study protocol adhered to the Declaration of Helsinki and was approved by the local Ethics Committee.
 24-1	3508-3511	The	_
 24-2	3512-3517	study	_
 24-3	3518-3526	protocol	_
@@ -571,6 +595,7 @@
 24-17	3603-3612	Committee	_
 24-18	3613-3614	.	_
 
+Text=Gesture Assessment We evaluated gesture performance using the Test of Upper Limb Apraxia (TULIA).
 25-1	3615-3622	Gesture	_
 25-2	3623-3633	Assessment	_
 25-3	3634-3636	We	_
@@ -589,6 +614,7 @@
 25-16	3712-3713	)	http://maven.renci.org/NeuroBridge/neurobridge#TestofNonverbalIntelligence
 25-17	3714-3715	.	_
 
+Text=It consists of 48 items divided into imitation (upon demonstration) and pantomime (upon verbal command) domains.
 26-1	3716-3718	It	_
 26-2	3719-3727	consists	_
 26-3	3728-3730	of	_
@@ -611,6 +637,7 @@
 26-20	3824-3831	domains	_
 26-21	3832-3833	.	_
 
+Text=Both domains are further divided into 3 semantic categories: meaningless (gesture-like movements without semantic content), intransitive (communicative, non-object related), and transitive (object-related) gestures.
 27-1	3834-3838	Both	_
 27-2	3839-3846	domains	_
 27-3	3847-3850	are	_
@@ -646,6 +673,7 @@
 27-33	4050-4058	gestures	_
 27-34	4059-4060	.	_
 
+Text=Each item is scored on a 0–5 scale resulting in a maximum of 240 points.
 28-1	4061-4065	Each	_
 28-2	4066-4070	item	_
 28-3	4071-4073	is	_
@@ -663,6 +691,7 @@
 28-15	4126-4132	points	_
 28-16	4133-4134	.	_
 
+Text=Higher score indicates better performance.
 29-1	4135-4141	Higher	_
 29-2	4142-4147	score	_
 29-3	4148-4157	indicates	_
@@ -670,6 +699,7 @@
 29-5	4165-4176	performance	_
 29-6	4177-4178	.	_
 
+Text=The Test was recorded on video and analyzed by a rater who was blind to diagnoses following the TULIA scoring manual.
 30-1	4179-4182	The	_
 30-2	4183-4187	Test	_
 30-3	4188-4191	was	_
@@ -693,6 +723,7 @@
 30-21	4289-4295	manual	_
 30-22	4296-4297	.	_
 
+Text=To test laterality, the TULIA was performed bilaterally.
 31-1	4298-4300	To	_
 31-2	4301-4305	test	_
 31-3	4306-4316	laterality	_
@@ -704,6 +735,7 @@
 31-9	4343-4354	bilaterally	_
 31-10	4355-4356	.	_
 
+Text=Image Acquisition We then acquired structural and functional imaging data.
 32-1	4357-4362	Image	_
 32-2	4363-4374	Acquisition	_
 32-3	4375-4377	We	_
@@ -716,6 +748,7 @@
 32-10	4426-4430	data	_
 32-11	4431-4432	.	_
 
+Text=Imaging was conducted at the Institute of Neuroradiology at University Hospital of Bern on a 3T Siemens Magnetom Trio scanner (Siemens Medical Solutions) on the same day as the gesture behavior assessments.
 33-1	4433-4440	Imaging	_
 33-2	4441-4444	was	_
 33-3	4445-4454	conducted	_
@@ -752,6 +785,7 @@
 33-34	4629-4640	assessments	_
 33-35	4641-4642	.	_
 
+Text=First, we acquired structural T1-weighted modified driven equilibrium Fourier transform (MDEFT) images with 176 sagittal slices, matrix size of 256 × 256, FOV 256 × 256, yielding a voxel size of 1 × 1 × 1mm, repetition time (TR) 7.92 ms, echo time (TE) 2.48 ms, inversion time (TI) 910 ms and flip angle of 16°.
 34-1	4643-4648	First	_
 34-2	4649-4650	,	_
 34-3	4651-4653	we	_
@@ -825,6 +859,7 @@
 34-71	4965-4968	16°	_
 34-72	4969-4970	.	_
 
+Text=Second, we acquired a set of 256 functional BOLD T2 * images with 38 transverse slices, matrix dimensions 64 × 64, FOV 230 × 230, yielding a voxel size of 3.59 × 3.59 × 3mm, TR 2000 ms resulting in 8.5 min sequence duration, TE 30 ms, flip angle 90°.
 35-1	4971-4977	Second	_
 35-2	4978-4979	,	_
 35-3	4980-4982	we	_
@@ -884,6 +919,7 @@
 35-57	5224-5227	90°	_
 35-58	5228-5229	.	_
 
+Text=Preprocessing Preprocessing and analysis of imaging data were performed in CONN-toolbox (15.h, www.nitrc.org/projects/conn) for MATLAB (R2015a, MathWorks).
 36-1	5230-5243	Preprocessing	_
 36-2	5244-5257	Preprocessing	_
 36-3	5258-5261	and	_
@@ -909,6 +945,7 @@
 36-23	5389-5390	)	_
 36-24	5391-5392	.	_
 
+Text=We used its standard pipeline for preprocessing.
 37-1	5393-5395	We	_
 37-2	5396-5400	used	_
 37-3	5401-5404	its	_
@@ -918,6 +955,7 @@
 37-7	5427-5440	preprocessing	_
 37-8	5441-5442	.	_
 
+Text=This included segmentation and normalization of structural images to MNI template as well as slice-timing correction, realignment and unwarping, normalization to MNI space, coregistration to structural image, and smoothing with a Gaussian 8 mm FWHM kernel of functional images.
 38-1	5443-5447	This	_
 38-2	5448-5456	included	_
 38-3	5457-5469	segmentation	_
@@ -963,12 +1001,14 @@
 38-43	5717-5723	images	_
 38-44	5724-5725	.	_
 
+Text=Resulting images were detrended.
 39-1	5726-5735	Resulting	_
 39-2	5736-5742	images	_
 39-3	5743-5747	were	_
 39-4	5748-5757	detrended	_
 39-5	5758-5759	.	_
 
+Text=We then performed subject-wise first-level analyses to account for white matter and cerebrospinal fluid signal, movement parameters, and outliers, which were detected using ART-toolbox (11-06, https: //www.nitrc.org/projects/artifact_detect) included in CONN (global-signal Z-threshold: 9, subject motion thresholds: 2 mm, 0.02 rad).
 40-1	5760-5762	We	_
 40-2	5763-5767	then	_
 40-3	5768-5777	performed	_
@@ -1024,6 +1064,7 @@
 40-53	6104-6105	)	_
 40-54	6106-6107	.	_
 
+Text=Finally, resulting timelines were band-pass filtered between 0.008 and 0.09 Hz.
 41-1	6108-6115	Finally	_
 41-2	6116-6117	,	_
 41-3	6118-6127	resulting	_
@@ -1038,6 +1079,7 @@
 41-12	6185-6187	Hz	_
 41-13	6188-6189	.	_
 
+Text=Selection of Seed Regions We chose 11 ROIs for each hemisphere and used the gray matter (GM) Brodmann Area masks and the automated anatomical labeling (AAL) atlas in the Statistic Parametric Mapping (SPM) 12 (www.fil.ion.ucl.ac.uk/spm).
 42-1	6190-6199	Selection	_
 42-2	6200-6202	of	_
 42-3	6203-6207	Seed	_
@@ -1083,6 +1125,7 @@
 42-43	6432-6433	)	_
 42-44	6434-6435	.	_
 
+Text=The selection of these ROIs is based on structural and functional findings in healthy participants and patients with schizophrenia.
 43-1	6436-6439	The	_
 43-2	6440-6449	selection	_
 43-3	6450-6452	of	_
@@ -1104,6 +1147,7 @@
 43-19	6553-6566	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 43-20	6567-6568	.	_
 
+Text=The ROIs included the bilateral insula, IPL, SPL, supramarginal gyrus, MTG, STG, IFG subdivided into pars opercularis, triangularis and orbitalis, superior frontal gyrus, and precentral gyrus.
 44-1	6569-6572	The	_
 44-2	6573-6577	ROIs	_
 44-3	6578-6586	included	_
@@ -1141,6 +1185,7 @@
 44-35	6764-6769	gyrus	_
 44-36	6770-6771	.	_
 
+Text=Statistical Models Statistical analyses of clinical data were performed in IBM SPSS version 24.
 45-1	6772-6783	Statistical	_
 45-2	6784-6790	Models	_
 45-3	6791-6802	Statistical	_
@@ -1157,6 +1202,7 @@
 45-14	6864-6866	24	_
 45-15	6867-6868	.	_
 
+Text=Between-group sex differences were calculated using a Chi-square test.
 46-1	6869-6882	Between-group	_
 46-2	6883-6886	sex	_
 46-3	6887-6898	differences	_
@@ -1168,6 +1214,7 @@
 46-9	6934-6938	test	_
 46-10	6939-6940	.	_
 
+Text=We tested age, education, TONI, and FAB for normal distribution with Shapiro-Wilk tests and compared these variables between groups using 2-sample t-tests or Mann-Whitney U tests where appropriate.
 47-1	6941-6943	We	_
 47-2	6944-6950	tested	_
 47-3	6951-6954	age	_
@@ -1201,6 +1248,7 @@
 47-31	7129-7140	appropriate	_
 47-32	7141-7142	.	_
 
+Text=We have previously investigated group differences and presentation/semantic effects of the TULIA scores of this sample using a repeated-measures ANOVA.
 48-1	7143-7145	We	_
 48-2	7146-7150	have	_
 48-3	7151-7161	previously	_
@@ -1223,6 +1271,7 @@
 48-20	7288-7293	ANOVA	_
 48-21	7294-7295	.	_
 
+Text=Here, we also tested side (left or right hand) as possible within-subject factor in addition to domain (imitation or pantomime) and category (transitive, intransitive, or meaningless).
 49-1	7296-7300	Here	_
 49-2	7301-7302	,	_
 49-3	7303-7305	we	_
@@ -1260,6 +1309,7 @@
 49-35	7487-7488	)	_
 49-36	7489-7490	.	_
 
+Text=The only between-subject factor was group.
 50-1	7491-7494	The	_
 50-2	7495-7499	only	_
 50-3	7500-7515	between-subject	_
@@ -1268,6 +1318,7 @@
 50-6	7527-7532	group	_
 50-7	7533-7534	.	_
 
+Text=As performing side did not show any significant effect, we conducted all subsequent analyses with total TULIA-score of the right hand only.
 51-1	7535-7537	As	_
 51-2	7538-7548	performing	_
 51-3	7549-7553	side	_
@@ -1293,6 +1344,7 @@
 51-23	7670-7674	only	_
 51-24	7675-7676	.	_
 
+Text=We considered 2-tailed P <.05 to be significant after applying Benjamini-Hochberg procedure to account for multiple comparisons where appropriate in the analyses.
 52-1	7677-7679	We	_
 52-2	7680-7690	considered	_
 52-3	7691-7699	2-tailed	_
@@ -1318,6 +1370,7 @@
 52-23	7831-7839	analyses	_
 52-24	7840-7841	.	_
 
+Text=To examine the neural correlates of gesture deficit at rest, we employed a ROI-to-ROI analysis.
 53-1	7842-7844	To	_
 53-2	7845-7852	examine	_
 53-3	7853-7856	the	_
@@ -1336,6 +1389,7 @@
 53-16	7929-7937	analysis	_
 53-17	7938-7939	.	_
 
+Text=We entered age into the models as covariate of no interest, for age has been reported to influence gesture performance.
 54-1	7940-7942	We	_
 54-2	7943-7950	entered	_
 54-3	7951-7954	age	_
@@ -1359,6 +1413,7 @@
 54-21	8048-8059	performance	_
 54-22	8060-8061	.	_
 
+Text=We compared connectivity between the groups using a general linear model with group and age as regressors and contrasted T-statistics with healthy controls vs patients.
 55-1	8062-8064	We	_
 55-2	8065-8073	compared	_
 55-3	8074-8086	connectivity	_
@@ -1386,6 +1441,7 @@
 55-25	8221-8229	patients	_
 55-26	8230-8231	.	_
 
+Text=We applied analysis-level false discovery rate (FDR) -correction.
 56-1	8232-8234	We	_
 56-2	8235-8242	applied	_
 56-3	8243-8257	analysis-level	_
@@ -1398,6 +1454,7 @@
 56-10	8287-8298	-correction	_
 56-11	8299-8300	.	_
 
+Text=Second, we tested the association of gesture performance with connectivity values in the ROI-pairs with significant group differences applying a partial Spearman correlation with age as covariate.
 57-1	8301-8307	Second	_
 57-2	8308-8309	,	_
 57-3	8310-8312	we	_
@@ -1428,6 +1485,7 @@
 57-28	8488-8497	covariate	_
 57-29	8498-8499	.	_
 
+Text=We conducted correlation analyses both within the whole sample and separately for each group.
 58-1	8500-8502	We	_
 58-2	8503-8512	conducted	_
 58-3	8513-8524	correlation	_
@@ -1444,6 +1502,7 @@
 58-14	8587-8592	group	_
 58-15	8593-8594	.	_
 
+Text=To further examine effects of altered connectivity, we correlated FAB, TONI, AIMS, BFCRS, 5 factors of the PANSS, hallucination, and ego-disturbances according to CASH-present with connectivity in the ROI-pairs with significant group differences, applying partial Spearman correlation with age as covariate.
 59-1	8595-8597	To	_
 59-2	8598-8605	further	_
 59-3	8606-8613	examine	_

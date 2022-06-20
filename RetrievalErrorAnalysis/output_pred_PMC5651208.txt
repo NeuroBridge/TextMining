@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Decreased Hemispheric Connectivity and Decreased Intra- and Inter- Hemisphere Asymmetry of Resting State Functional Network Connectivity in Schizophrenia Many studies have shown that schizophrenia patients have aberrant functional network connectivity (FNC) among brain regions, suggesting schizophrenia manifests with significantly diminished (in majority of the cases) connectivity.
 1-1	0-9	Decreased	_
 1-2	10-21	Hemispheric	_
 1-3	22-34	Connectivity	_
@@ -55,6 +56,7 @@
 1-51	376-388	connectivity	_
 1-52	389-390	.	_
 
+Text=Schizophrenia is also associated with a lack of hemispheric lateralization.
 2-1	391-404	Schizophrenia	_
 2-2	405-407	is	_
 2-3	408-412	also	_
@@ -67,6 +69,7 @@
 2-10	451-465	lateralization	_
 2-11	466-467	.	_
 
+Text=reported lower inter-hemispheric connectivity in schizophrenia patients compared to controls using voxel-mirrored homotopic connectivity.
 3-1	468-476	reported	_
 3-2	477-482	lower	_
 3-3	483-500	inter-hemispheric	_
@@ -83,6 +86,7 @@
 3-14	592-604	connectivity	_
 3-15	605-606	.	_
 
+Text=In this study, we merge these two points of views together using a group independent component analysis (gICA) -based approach to generate hemisphere-specific timecourses and calculate intra-hemisphere and inter-hemisphere FNC on a resting state fMRI dataset consisting of age- and gender-balanced 151 schizophrenia patients and 163 healthy controls.
 4-1	607-609	In	_
 4-2	610-614	this	_
 4-3	615-620	study	_
@@ -136,6 +140,7 @@
 4-51	951-959	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 4-52	960-961	.	_
 
+Text=We analyzed the group differences between patients and healthy controls in each type of FNC measures along with age and gender effects.
 5-1	962-964	We	_
 5-2	965-973	analyzed	_
 5-3	974-977	the	_
@@ -160,6 +165,7 @@
 5-22	1089-1096	effects	_
 5-23	1097-1098	.	_
 
+Text=The results reveal that FNC in schizophrenia patients shows less hemispheric asymmetry compared to that of the healthy controls.
 6-1	1099-1102	The	_
 6-2	1103-1110	results	_
 6-3	1111-1117	reveal	_
@@ -181,6 +187,7 @@
 6-19	1218-1226	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 6-20	1227-1228	.	_
 
+Text=We also found a decrease in connectivity in all FNC types such as intra-left (L_FNC), intra-right (R_FNC) and inter-hemisphere (Inter_FNC) in the schizophrenia patients relative to healthy controls, but general patterns of connectivity were preserved in patients.
 7-1	1229-1231	We	_
 7-2	1232-1236	also	_
 7-3	1237-1242	found	_
@@ -228,6 +235,7 @@
 7-45	1491-1499	patients	_
 7-46	1500-1501	.	_
 
+Text=Analyses of age and gender effects yielded results similar to those reported in whole brain FNC studies.
 8-1	1502-1510	Analyses	_
 8-2	1511-1513	of	_
 8-3	1514-1517	age	_
@@ -247,6 +255,7 @@
 8-17	1598-1605	studies	_
 8-18	1606-1607	.	_
 
+Text=Methods and Materials Participants In this study, we used a large resting state fMRI dataset containing 314 subjects, 163 healthy controls (117 males, 46 females; mean age 36.9) and 151 schizophrenia patients that are matched in age and gender to a healthy control group (114 males, 37 females; mean age 37.8) combined from seven different sites across the United States (see Table 1) and passed the data quality control.
 9-1	1608-1615	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-2	1616-1619	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-3	1620-1629	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -330,6 +339,7 @@
 9-81	2033-2040	control	_
 9-82	2041-2042	.	_
 
+Text=Informed consent was received from each subject prior to scanning in accordance with the Internal Review Boards of corresponding institutions.
 10-1	2043-2051	Informed	_
 10-2	2052-2059	consent	_
 10-3	2060-2063	was	_
@@ -352,6 +362,7 @@
 10-20	2172-2184	institutions	_
 10-21	2185-2186	.	_
 
+Text=Cognitive and clinical measures were collected for 275 out of 314 subjects and analyzed as Computerized Multiphasic Interactive Neurocognitive System (CMINDS) composite scores.
 11-1	2187-2196	Cognitive	_
 11-2	2197-2200	and	_
 11-3	2201-2209	clinical	_
@@ -379,6 +390,7 @@
 11-25	2358-2364	scores	_
 11-26	2365-2366	.	_
 
+Text=The composite scores (see Table 2) summarize the overall cognition in six different measures: attention/vigilance, speed of processing, verbal learning, working memory, visual learning and reasoning/problem solving.
 12-1	2367-2370	The	_
 12-2	2371-2380	composite	_
 12-3	2381-2387	scores	_
@@ -415,6 +427,7 @@
 12-34	2581-2588	solving	_
 12-35	2589-2590	.	_
 
+Text=Positive and Negative Syndrome Scale (PANSS) were available for 148 out of 151 patients and antipsychotic chlorpromazine (CPZ) dose equivalents were available for 129 patients (112 subjects were treated with the second-generation or atypical medication, while 17 subjects were treated with first-generation typical antipsychotic medications.
 13-1	2591-2599	Positive	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 13-2	2600-2603	and	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 13-3	2604-2612	Negative	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
@@ -468,6 +481,7 @@
 13-51	2926-2937	medications	_
 13-52	2938-2939	.	_
 
+Text=Forty-eight patients were also treated with antidepressants, 24 with mood stabilizers, and 18 with anti-extrapyramidal symptoms medication (see Table 3).
 14-1	2940-2951	Forty-eight	_
 14-2	2952-2960	patients	_
 14-3	2961-2965	were	_
@@ -494,6 +508,7 @@
 14-24	3095-3096	)	_
 14-25	3097-3098	.	_
 
+Text=Data Acquisition Six of the seven sites collected imaging data using a 3T Siemens Tim Trio System and one site collected imaging data on a 3T General Electric Discovery MR750 scanner.
 15-1	3099-3103	Data	_
 15-2	3104-3115	Acquisition	_
 15-3	3116-3119	Six	_
@@ -527,6 +542,7 @@
 15-31	3274-3281	scanner	_
 15-32	3282-3283	.	_
 
+Text=Resting state fMRI scans were acquired using a standard gradient-echo echo planar imaging paradigm: FOV of 220 × 220 mm (64 × 64 matrix), TR=2 s, TE=30 ms, FA=770, 162 volumes, duration of 5 minutes and 24 seconds, 32 sequential ascending axial slices of 4 mm thickness and 1 mm gap.
 16-1	3284-3291	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 16-2	3292-3297	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 16-3	3298-3302	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -589,6 +605,7 @@
 16-60	3572-3575	gap	_
 16-61	3576-3577	.	_
 
+Text=Subjects were instructed to close their eyes and stay awake during the resting state scan.
 17-1	3578-3586	Subjects	_
 17-2	3587-3591	were	_
 17-3	3592-3602	instructed	_
@@ -606,6 +623,7 @@
 17-15	3663-3667	scan	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 17-16	3668-3669	.	_
 
+Text=Preprocessing Functional MRI data were preprocessed with the pipeline described in, using a combination of toolboxes such as AFNI (https: //afni.nimh.nih.gov), SPM (http: //www.fil.ion.ucl.ac.uk/spm), GIFT (http: mialab.mrn.org/software/gift) and MATLAB.
 18-1	3670-3683	Preprocessing	_
 18-2	3684-3694	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalNearInfraredSpectroscopy
 18-3	3695-3698	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -649,6 +667,7 @@
 18-41	3929-3935	MATLAB	_
 18-42	3936-3937	.	_
 
+Text=The INRIAlign toolbox in SPM was used for rigid body motion correction for subject head motion followed by slice-timing correction to account for timing differences in slice acquisition.
 19-1	3938-3941	The	_
 19-2	3942-3951	INRIAlign	_
 19-3	3952-3959	toolbox	_
@@ -679,6 +698,7 @@
 19-28	4112-4123	acquisition	_
 19-29	4124-4125	.	_
 
+Text=The 3D Despike algorithm in AFNI was used to remove spike artifacts from the fMRI data.
 20-1	4126-4129	The	_
 20-2	4130-4132	3D	_
 20-3	4133-4140	Despike	_
@@ -697,6 +717,7 @@
 20-16	4208-4212	data	_
 20-17	4213-4214	.	_
 
+Text=The fMRI data were warped to a Montreal Neurological Institute (MNI) template, resampled to 3 mm3 isotropic voxels, and smoothed with a 6 mm full width at half maximum (FWHM) using AFNI.
 21-1	4215-4218	The	_
 21-2	4219-4223	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 21-3	4224-4228	data	_
@@ -737,6 +758,7 @@
 21-38	4402-4406	AFNI	_
 21-39	4407-4408	.	_
 
+Text=Each voxel timecourse was variance normalized prior to the gICA; for additional image preprocessing details, see a previous study.
 22-1	4409-4413	Each	_
 22-2	4414-4419	voxel	_
 22-3	4420-4430	timecourse	_
@@ -760,6 +782,7 @@
 22-21	4535-4540	study	_
 22-22	4541-4542	.	_
 
+Text=Group Independent Component Analysis The preprocessed data was decomposed into 100 spatially independent components using gICA implemented in GIFT.
 23-1	4543-4548	Group	_
 23-2	4549-4560	Independent	_
 23-3	4561-4570	Component	_
@@ -781,6 +804,7 @@
 23-19	4685-4689	GIFT	_
 23-20	4690-4691	.	_
 
+Text=The gICA identifies spatially distinct, functionally-coherent networks by estimating maximally independent spatial sources (or spatial maps) from their linearly-mixed fMRI signals or timecourses.
 24-1	4692-4695	The	_
 24-2	4696-4700	gICA	_
 24-3	4701-4711	identifies	_
@@ -809,6 +833,7 @@
 24-26	4878-4889	timecourses	_
 24-27	4890-4891	.	_
 
+Text=Out of the original 100 components, 47 components were identified as resting state networks (RSNs) based on several criteria: maximally activated voxels located in identified gray matter, minimal spatial overlap with known vascular, ventricular and head-motion susceptible edge regions and combined with large low-to-high frequency spectral power ratios in the component timecourses.
 25-1	4892-4895	Out	_
 25-2	4896-4898	of	_
 25-3	4899-4902	the	_
@@ -869,6 +894,7 @@
 25-58	5269-5280	timecourses	_
 25-59	5281-5282	.	_
 
+Text=We refer the readers to previous research for a detailed discussion of the gICA analysis performed on this data and selection of RSNs.
 26-1	5283-5285	We	_
 26-2	5286-5291	refer	_
 26-3	5292-5295	the	_
@@ -894,6 +920,7 @@
 26-23	5412-5416	RSNs	_
 26-24	5417-5418	.	_
 
+Text=Generating Templates and Hemisphere-Specific Timecourses We utilized spatiotemporal regression on symmetrized aggregated spatial maps of the components to generate hemisphere-specific component timecourses.
 27-1	5419-5429	Generating	_
 27-2	5430-5439	Templates	_
 27-3	5440-5443	and	_
@@ -918,6 +945,7 @@
 27-22	5613-5624	timecourses	_
 27-23	5625-5626	.	_
 
+Text=Symmetrized aggregated spatial maps were generated by flipping the original aggregated spatial maps along their lateral axes and by then comparing each flipped voxel value with its unflipped voxel value and retaining the maximum intensity value.
 28-1	5627-5638	Symmetrized	_
 28-2	5639-5649	aggregated	_
 28-3	5650-5657	spatial	_
@@ -956,6 +984,7 @@
 28-36	5866-5871	value	_
 28-37	5872-5873	.	_
 
+Text=Hence, the symmetrized versions of the components that are mirror images of each other will be collinear (e.g., components 91, left lingual gyrus and 76, right lingual gyrus).
 29-1	5874-5879	Hence	_
 29-2	5880-5881	,	_
 29-3	5882-5885	the	_
@@ -992,6 +1021,7 @@
 29-34	6053-6054	)	_
 29-35	6055-6056	.	_
 
+Text=We tested collinearity of the components using a variance inflation factor and removed four RSNs (IC 6, 91, 66 and 84) from our analyses, which had high collinearity with components IC 10 (precentral and postcentral gyrus), IC 76 (lingual gyrus), IC 94 (inferior parietal lobule) and IC 95 (angular gyrus) respectively.
 30-1	6057-6059	We	_
 30-2	6060-6066	tested	_
 30-3	6067-6079	collinearity	_
@@ -1060,6 +1090,7 @@
 30-66	6378-6390	respectively	_
 30-67	6391-6392	.	_
 
+Text=We also removed four artifact components that had a large variance inflation factor (IC 17, 31 39 and 52).
 31-1	6393-6395	We	_
 31-2	6396-6400	also	_
 31-3	6401-6408	removed	_
@@ -1084,6 +1115,7 @@
 31-22	6500-6501	)	_
 31-23	6502-6503	.	_
 
+Text=After removals, the data comprised 92 symmetrized, aggregated spatial maps (43 RSNs & 49 artifacts) for subsequent analyses.
 32-1	6504-6509	After	_
 32-2	6510-6518	removals	_
 32-3	6519-6520	,	_
@@ -1108,6 +1140,7 @@
 32-22	6623-6631	analyses	_
 32-23	6632-6633	.	_
 
+Text=Then, we split the symmetrized spatial maps and preprocessed subject data into left and right hemispheres.
 33-1	6634-6638	Then	_
 33-2	6639-6640	,	_
 33-3	6641-6643	we	_
@@ -1127,6 +1160,7 @@
 33-17	6729-6740	hemispheres	_
 33-18	6741-6742	.	_
 
+Text=Finally, we applied spatiotemporal regression on the left and right hemispheres separately to generate subject-specific left- and right-hemisphere timecourses and spatial maps using GIFT.
 34-1	6743-6750	Finally	_
 34-2	6751-6752	,	_
 34-3	6753-6755	we	_
@@ -1154,6 +1188,7 @@
 34-25	6926-6930	GIFT	_
 34-26	6931-6932	.	_
 
+Text=Generated RSNs are displayed in Figure 1 in terms of t-statistics, and the corresponding MNI regions are presented in Table 4.
 35-1	6933-6942	Generated	_
 35-2	6943-6947	RSNs	_
 35-3	6948-6951	are	_
@@ -1178,6 +1213,7 @@
 35-22	7058-7059	4	_
 35-23	7060-7061	.	_
 
+Text=Functional Network Connectivity Calculation For each hemisphere, subject timecourses went through post-processing steps.
 36-1	7062-7072	Functional	_
 36-2	7073-7080	Network	_
 36-3	7081-7093	Connectivity	_
@@ -1194,6 +1230,7 @@
 36-14	7177-7182	steps	_
 36-15	7183-7184	.	_
 
+Text=Time series of RSNs were detrended and orthogonalized with respect to the estimated realignment parameters (including their derivatives and their squares and derivatives of their squares), despiked, and band-pass filtered using a fifth-order Butterworth filter with cutoff frequencies of [0.01- 0.15 Hz].
 37-1	7185-7189	Time	_
 37-2	7190-7196	series	_
 37-3	7197-7199	of	_
@@ -1244,6 +1281,7 @@
 37-48	7493-7494	]	_
 37-49	7495-7496	.	_
 
+Text=The FNC between the two components is calculated by using a cosine similarity measure as follows: The TCCX and TCcy are the timecourses of two different components and n is the length of the timecourses.
 38-1	7497-7500	The	_
 38-2	7501-7504	FNC	_
 38-3	7505-7512	between	_
@@ -1282,6 +1320,7 @@
 38-36	7689-7700	timecourses	_
 38-37	7701-7702	.	_
 
+Text=The FNC matrices are calculated using the timecourses of 43 left components and 43 right components.
 39-1	7703-7706	The	_
 39-2	7707-7710	FNC	_
 39-3	7711-7719	matrices	_
@@ -1300,6 +1339,7 @@
 39-16	7792-7802	components	_
 39-17	7803-7804	.	_
 
+Text=For each subject, we have an intra-left hemisphere (L_FNC) (903 pairs (432 – 43) /2), an intra-right hemisphere (R_FNC) (903 pairs) and an inter-hemisphere (Inter_FNC) (1849 pairs with 43 homotopic pairs (432)) FNC matrices.
 40-1	7805-7808	For	_
 40-2	7809-7813	each	_
 40-3	7814-7821	subject	_
@@ -1354,6 +1394,7 @@
 40-52	8038-8046	matrices	_
 40-53	8047-8048	.	_
 
+Text=Calculating Group Averages Both using all participants and also used separately for the patient and control subgroups, we tested whether the FNC means differ from zero by using one sample t-test with a 0.05 false discovery rate (FDR) correction.
 41-1	8049-8060	Calculating	_
 41-2	8061-8066	Group	_
 41-3	8067-8075	Averages	_
@@ -1398,6 +1439,7 @@
 41-42	8286-8296	correction	_
 41-43	8297-8298	.	_
 
+Text=Figure 2 shows the results for each of the FNCs of healthy control and schizophrenia patients.
 42-1	8299-8305	Figure	_
 42-2	8306-8307	2	_
 42-3	8308-8313	shows	_
@@ -1416,6 +1458,7 @@
 42-16	8384-8392	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 42-17	8393-8394	.	_
 
+Text=For visualization purposes, we displayed homotopic FNC results in a bar plot.
 43-1	8395-8398	For	_
 43-2	8399-8412	visualization	_
 43-3	8413-8421	purposes	_
@@ -1431,6 +1474,7 @@
 43-13	8468-8472	plot	_
 43-14	8473-8474	.	_
 
+Text=Comparing Strength of lateralized FNC types in Patients and Healthy Control For the patient and healthy control subgroups, we compared the strength of connectivity captured in L_FNC, R_FNC, and in Inter_FNC.
 44-1	8475-8484	Comparing	_
 44-2	8485-8493	Strength	_
 44-3	8494-8496	of	_
@@ -1467,6 +1511,7 @@
 44-34	8675-8684	Inter_FNC	_
 44-35	8685-8686	.	_
 
+Text=Inter_FNC ’ s upper triangular (RL_FNC) and lower triangular (LR_FNC) parts were taken separately for comparison.
 45-1	8687-8696	Inter_FNC	_
 45-2	8697-8698	’	_
 45-3	8699-8700	s	_
@@ -1489,6 +1534,7 @@
 45-20	8793-8803	comparison	_
 45-21	8804-8805	.	_
 
+Text=To do so for each group and for each type of FNC, we first regressed out motion as mean frame displacement and site ID.
 46-1	8806-8808	To	_
 46-2	8809-8811	do	_
 46-3	8812-8814	so	_
@@ -1516,6 +1562,7 @@
 46-25	8923-8925	ID	_
 46-26	8926-8927	.	_
 
+Text=Later, we performed a one sample t-test in each group separately and thresholded with 0.05 levels FDR correction, and then retained the FNC indices that were significantly different from 0.
 47-1	8928-8933	Later	_
 47-2	8934-8935	,	_
 47-3	8936-8938	we	_
@@ -1550,6 +1597,7 @@
 47-32	9117-9118	0	_
 47-33	9119-9120	.	_
 
+Text=Then for each pair of compared FNC types (FNCs that are significant in both of the FNC types that we are comparing), we retained network-pairs whose connectivity had the same directionality (positive or negative) and also were significant in both FNC matrices (the two FNCs that we are comparing).
 48-1	9121-9125	Then	_
 48-2	9126-9129	for	_
 48-3	9130-9134	each	_
@@ -1608,6 +1656,7 @@
 48-56	9423-9424	)	_
 48-57	9425-9426	.	_
 
+Text=We were interested in connectivity strength (as long as it was the same in both FNC types), so the network-pair connectivity was then converted to absolute values.
 49-1	9427-9429	We	_
 49-2	9430-9434	were	_
 49-3	9435-9445	interested	_
@@ -1640,6 +1689,7 @@
 49-30	9586-9592	values	_
 49-31	9593-9594	.	_
 
+Text=For each pair of FNC types, a paired t-test on magnitudes was then performed.
 50-1	9595-9598	For	_
 50-2	9599-9603	each	_
 50-3	9604-9608	pair	_
@@ -1657,6 +1707,7 @@
 50-15	9663-9672	performed	_
 50-16	9673-9674	.	_
 
+Text=Results were corrected with 0.05 levels FDR.
 51-1	9675-9682	Results	_
 51-2	9683-9687	were	_
 51-3	9688-9697	corrected	_
@@ -1666,6 +1717,7 @@
 51-7	9715-9718	FDR	_
 51-8	9719-9720	.	_
 
+Text=Later, for patient and control groups separately, we identified the number of significant network-pairs and recorded which FNC type they favored.
 52-1	9721-9726	Later	_
 52-2	9727-9728	,	_
 52-3	9729-9732	for	_
@@ -1691,6 +1743,7 @@
 52-23	9860-9867	favored	_
 52-24	9868-9869	.	_
 
+Text=Modeling Age, Gender, Schizophrenia and Handedness Effects in Intra FNC Differences In order to investigate the differences between left and right hemisphere-specific FNCs, a left-right FNC difference map was calculated for each subject (L_FNC minus R_FNC).
 53-1	9870-9878	Modeling	_
 53-2	9879-9882	Age	_
 53-3	9883-9884	,	_
@@ -1734,6 +1787,7 @@
 53-41	10130-10131	)	_
 53-42	10132-10133	.	_
 
+Text=The values from this difference map were then individually employed as the dependent variable in a multiple linear regression on age, gender, schizophrenia, handedness, and sites, as well as motion parameters.
 54-1	10134-10137	The	_
 54-2	10138-10144	values	_
 54-3	10145-10149	from	_
@@ -1772,6 +1826,7 @@
 54-36	10337-10347	parameters	_
 54-37	10348-10349	.	_
 
+Text=We prefer the regression method in order to regress out the motion, site ID and handedness effect on the differences.
 55-1	10350-10352	We	_
 55-2	10353-10359	prefer	_
 55-3	10360-10363	the	_
@@ -1795,6 +1850,7 @@
 55-21	10456-10467	differences	_
 55-22	10468-10469	.	_
 
+Text=The model used is formulized below: Xgen is a categorical variable representing the gender of subject with 1 for females and 0 for males before mean removal.
 56-1	10470-10473	The	_
 56-2	10474-10479	model	_
 56-3	10480-10484	used	_
@@ -1825,6 +1881,7 @@
 56-28	10620-10627	removal	_
 56-29	10628-10629	.	_
 
+Text=The age (Xage) is the demeaned subject age; Xdiag is 1 for schizophrenia patients and 0 is for healthy control before mean removal.
 57-1	10630-10633	The	_
 57-2	10634-10637	age	_
 57-3	10638-10639	(	_
@@ -1853,6 +1910,7 @@
 57-26	10756-10763	removal	_
 57-27	10764-10765	.	_
 
+Text=Handedness is the subject ’ s Edinburg handedness score ranges between -2 and 2 (positive for right handers) before mean removal; Xmot is the demeaned mean frame displacement; and Xsite1, 2, …6 are dummy coded site variables (six site variables coded with 1 for the site and 0s for the others, while site 7 represented as all 0s) representing seven different data sites; each variable was also demeaned.
 58-1	10766-10776	Handedness	_
 58-2	10777-10779	is	_
 58-3	10780-10783	the	_
@@ -1933,6 +1991,7 @@
 58-78	11170-11178	demeaned	_
 58-79	11179-11180	.	_
 
+Text=All β ’ s are the coefficients of the regression model, with ɛ being the error parameter for the model, and σ (i, j) is the difference between L_FNC and R_FNC.
 59-1	11181-11184	All	_
 59-2	11185-11186	β	_
 59-3	11187-11188	’	_
@@ -1971,6 +2030,7 @@
 59-36	11339-11344	R_FNC	_
 59-37	11345-11346	.	_
 
+Text=This analysis captures the network pairs for which the differences in left/right hemisphere-specific connectivity are significantly affected (p <0.05, following false discovery rate (FDR) correction for multiple comparisons) by age, gender, diagnosis, and handedness.
 60-1	11347-11351	This	_
 60-2	11352-11360	analysis	_
 60-3	11361-11369	captures	_
@@ -2016,6 +2076,7 @@
 60-43	11612-11622	handedness	_
 60-44	11623-11624	.	_
 
+Text=To further evaluate the effect of the scanner/site, we removed the subjects from the different brand scanner and repeated the analysis with the remaining 262 subjects; results were consistent with those of the whole dataset; therefore, we kept the analysis using the whole dataset.
 61-1	11625-11627	To	_
 61-2	11628-11635	further	_
 61-3	11636-11644	evaluate	_
@@ -2066,6 +2127,7 @@
 61-48	11902-11909	dataset	_
 61-49	11910-11911	.	_
 
+Text=Substantial efforts were taken to ensure motion was not a confounder.
 62-1	11912-11923	Substantial	_
 62-2	11924-11931	efforts	_
 62-3	11932-11936	were	_
@@ -2079,6 +2141,7 @@
 62-11	11970-11980	confounder	_
 62-12	11981-11982	.	_
 
+Text=First, ICA as a whole has been shown to be more robust to motion than seed-based approaches as the ICA approach is naturally denoising the data.
 63-1	11983-11988	First	_
 63-2	11989-11990	,	_
 63-3	11991-11994	ICA	_
@@ -2108,6 +2171,7 @@
 63-27	12123-12127	data	_
 63-28	12128-12129	.	_
 
+Text=In addition, the ICA time series of the RSNs were detrended and orthogonalized with respect to estimated motion parameters (including their derivatives, their squares and derivatives of the squares) and despiked (a step which is similar to scrubbing).
 64-1	12130-12132	In	_
 64-2	12133-12141	addition	_
 64-3	12142-12143	,	_
@@ -2154,6 +2218,7 @@
 64-44	12385-12386	)	_
 64-45	12387-12388	.	_
 
+Text=In addition, motion parameters were added as nuisance covariates in order to mitigate against residual motion effects.
 65-1	12389-12391	In	_
 65-2	12392-12400	addition	_
 65-3	12401-12402	,	_
@@ -2174,6 +2239,7 @@
 65-18	12500-12507	effects	_
 65-19	12508-12509	.	_
 
+Text=We also checked the motion differences between schizophrenia patients and healthy control on mean frame displacement using a two-sample t-test.
 66-1	12510-12512	We	_
 66-2	12513-12517	also	_
 66-3	12518-12525	checked	_
@@ -2196,6 +2262,7 @@
 66-20	12646-12652	t-test	_
 66-21	12653-12654	.	_
 
+Text=Results indicated significantly higher motion in patients than controls (For all subjects; mean = 0.2947, sd = 0.1308, group difference p = 4.6440e-04; for 163 healthy controls, mean = 0.27, sd = 0.1214; for 151 patients, mean= 0.3213, sd = 0.1356).
 67-1	12655-12662	Results	_
 67-2	12663-12672	indicated	_
 67-3	12673-12686	significantly	_
@@ -2250,6 +2317,7 @@
 67-52	12913-12914	)	_
 67-53	12915-12916	.	_
 
+Text=After excluding subjects whose mean frame displacement was greater than 0.45 mm, the remaining 150 healthy controls (initially 163) and 118 schizophrenia patients (initially 151) did not have a significant mean frame displacement difference (For these 268 subjects; mean = 0.2541, sd = 0.0889, group difference p = 0.1144; for 150 healthy controls, mean = 0.2464, sd = 0.0923; for 118 patients, mean = 0.2637, sd = 0.0838).
 68-1	12917-12922	After	_
 68-2	12923-12932	excluding	_
 68-3	12933-12941	subjects	_
@@ -2336,6 +2404,7 @@
 68-84	13354-13355	)	_
 68-85	13356-13357	.	_
 
+Text=We repeated the analysis with the retained 268 subjects; and found that the results were consistent with those of the whole dataset.
 69-1	13358-13360	We	_
 69-2	13361-13369	repeated	_
 69-3	13370-13373	the	_
@@ -2361,6 +2430,7 @@
 69-23	13483-13490	dataset	_
 69-24	13491-13492	.	_
 
+Text=In addition, an ANOVA test comparing mean frame displacement between sites showed a significant site difference.
 70-1	13493-13495	In	_
 70-2	13496-13504	addition	_
 70-3	13505-13506	,	_
@@ -2380,6 +2450,7 @@
 70-17	13595-13605	difference	_
 70-18	13606-13607	.	_
 
+Text=To further check how this impacted the results, we excluded the site with the different mean frame displacement (the only GE scanner) and repeated the ANOVA test, which showed that the means were no longer significantly different between sites (p=0.1683).
 71-1	13608-13610	To	_
 71-2	13611-13618	further	_
 71-3	13619-13624	check	_
@@ -2428,6 +2499,7 @@
 71-46	13867-13868	)	_
 71-47	13869-13870	.	_
 
+Text=Analysis using the six sites with the same brand scanner showed results consistent with those of the whole dataset.
 72-1	13871-13879	Analysis	_
 72-2	13880-13885	using	_
 72-3	13886-13889	the	_
@@ -2449,6 +2521,7 @@
 72-19	13978-13985	dataset	_
 72-20	13986-13987	.	_
 
+Text=Modeling Age, Gender, Schizophrenia and Handedness Effects in Intra Hemisphere and Inter Hemisphere FNC We also examined the effects of age, gender, diagnosis and handedness on the hemisphere-specific FNCs (L_FNC and R_FNC) and on the Inter_FNC.
 73-1	13988-13996	Modeling	_
 73-2	13997-14000	Age	_
 73-3	14001-14002	,	_
@@ -2493,6 +2566,7 @@
 73-42	14229-14238	Inter_FNC	_
 73-43	14239-14240	.	_
 
+Text=We used a similar regression model as described above, with σ (i, j) being the intra- or inter-FNC value rather than the differences.
 74-1	14241-14243	We	_
 74-2	14244-14248	used	_
 74-3	14249-14250	a	_
@@ -2522,6 +2596,7 @@
 74-27	14366-14377	differences	_
 74-28	14378-14379	.	_
 
+Text=Significance for beta values was later thresholded with 0.05 levels FDR.
 75-1	14380-14392	Significance	_
 75-2	14393-14396	for	_
 75-3	14397-14401	beta	_
@@ -2535,6 +2610,7 @@
 75-11	14448-14451	FDR	_
 75-12	14452-14453	.	_
 
+Text=Age and gender results on intra- and inter-FNC are presented in supplementary materials.
 76-1	14454-14457	Age	_
 76-2	14458-14461	and	_
 76-3	14462-14468	gender	_
@@ -2550,6 +2626,7 @@
 76-13	14532-14541	materials	_
 76-14	14542-14543	.	_
 
+Text=Modeling Effects of Cognitive Scores, Symptom Scores and Mean Antipsychotic Dose We examined the effect of cognitive scores (CMINDS), symptom PANSS scores, and mean antipsychotic dose (CPZ equivalent) in separate regression analysis on intra- and inter-FNCs and the left-right difference FNCs.
 77-1	14544-14552	Modeling	_
 77-2	14553-14560	Effects	_
 77-3	14561-14563	of	_
@@ -2600,6 +2677,7 @@
 77-48	14839-14843	FNCs	_
 77-49	14844-14845	.	_
 
+Text=Analysis of Euclidian Distance and Connectivity Strength Some studies have reported an inverse relationship between regional distance and connectivity strength.
 78-1	14846-14854	Analysis	_
 78-2	14855-14857	of	_
 78-3	14858-14867	Euclidian	_
@@ -2622,6 +2700,7 @@
 78-20	14997-15005	strength	_
 78-21	15006-15007	.	_
 
+Text=We examined whether distance was a factor in determining connectivity strength using a linear regression model.
 79-1	15008-15010	We	_
 79-2	15011-15019	examined	_
 79-3	15020-15027	whether	_
@@ -2640,6 +2719,7 @@
 79-16	15113-15118	model	_
 79-17	15119-15120	.	_
 
+Text=We first calculated the center of mass of the components and then the Euclidian distances between the components in left and right aggregated maps.
 80-1	15121-15123	We	_
 80-2	15124-15129	first	_
 80-3	15130-15140	calculated	_
@@ -2666,6 +2746,7 @@
 80-24	15263-15267	maps	_
 80-25	15268-15269	.	_
 
+Text=We separately analyzed the homotopic regions and heterotopic regions using only the significant network-pairs (determined by one sample t-tests followed by FDR correction) in a linear regression.
 81-1	15270-15272	We	_
 81-2	15273-15283	separately	_
 81-3	15284-15292	analyzed	_
@@ -2697,6 +2778,7 @@
 81-29	15456-15466	regression	_
 81-30	15467-15468	.	_
 
+Text=For heterotopic analysis, only positively correlated pairs are included.
 82-1	15469-15472	For	_
 82-2	15473-15484	heterotopic	_
 82-3	15485-15493	analysis	_

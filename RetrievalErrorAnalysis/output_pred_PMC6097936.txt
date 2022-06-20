@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Parenting and Salience Network Connectivity among African Americans: A Protective Pathway for Health-Risk Behaviors BACKGROUND Supportive parenting during childhood has been associated with many positive developmental outcomes for offspring in adulthood, including fewer health-risk behaviors.
 1-1	0-9	Parenting	http://maven.renci.org/NeuroBridge/neurobridge#PhysicalMeasurement
 1-2	10-13	and	http://maven.renci.org/NeuroBridge/neurobridge#PhysicalMeasurement
 1-3	14-22	Salience	http://maven.renci.org/NeuroBridge/neurobridge#PhysicalMeasurement
@@ -41,6 +42,7 @@
 1-37	285-294	behaviors	_
 1-38	295-296	.	_
 
+Text=Little is known about the neural mechanisms underlying these associations.
 2-1	297-303	Little	_
 2-2	304-306	is	_
 2-3	307-312	known	_
@@ -53,6 +55,7 @@
 2-10	358-370	associations	_
 2-11	371-372	.	_
 
+Text=METHODS The present study followed rural African Americans (n = 91, 52% female) from late childhood (ages 11–13) to emerging adulthood (age 25).
 3-1	373-380	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 3-2	381-384	The	_
 3-3	385-392	present	_
@@ -86,6 +89,7 @@
 3-31	523-524	)	_
 3-32	525-526	.	_
 
+Text=Parent-child communication was assessed at ages 11, 12, and 13.
 4-1	527-539	Parent-child	_
 4-2	540-553	communication	_
 4-3	554-557	was	_
@@ -100,6 +104,7 @@
 4-12	589-591	13	_
 4-13	592-593	.	_
 
+Text=Functional magnetic resonance imaging was used at age 25 to measure resting state functional connectivity (rsFC) of the anterior salience network (ASN).
 5-1	594-604	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 5-2	605-613	magnetic	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 5-3	614-623	resonance	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -128,6 +133,7 @@
 5-26	748-749	)	_
 5-27	750-751	.	_
 
+Text=Harmful alcohol use and emotional eating were also assessed at age 25.
 6-1	752-759	Harmful	_
 6-2	760-767	alcohol	_
 6-3	768-771	use	_
@@ -142,6 +148,7 @@
 6-12	819-821	25	_
 6-13	822-823	.	_
 
+Text=Structural equation modeling was used to test pathways from parent-child communication at ages 11–13 to harmful alcohol use and emotional eating at age 25, via rsFC of the ASN.
 7-1	824-834	Structural	_
 7-2	835-843	equation	_
 7-3	844-852	modeling	_
@@ -174,6 +181,7 @@
 7-30	997-1000	ASN	_
 7-31	1001-1002	.	_
 
+Text=RESULTS Greater parent-child communication across ages 11–13 forecast greater rsFC of the ASN at age 25, which, in turn, was associated with lower harmful alcohol use and emotional eating at age 25.
 8-1	1003-1010	RESULTS	_
 8-2	1011-1018	Greater	_
 8-3	1019-1031	parent-child	_
@@ -211,6 +219,7 @@
 8-35	1201-1203	25	_
 8-36	1204-1205	.	_
 
+Text=Significant indirect effects through the ASN were present for both outcomes.
 9-1	1206-1217	Significant	_
 9-2	1218-1226	indirect	_
 9-3	1227-1234	effects	_
@@ -224,6 +233,7 @@
 9-11	1273-1281	outcomes	_
 9-12	1282-1283	.	_
 
+Text=CONCLUSIONS These findings indicate the importance of parenting in late childhood for adaptive behaviors and suggest a pathway via higher ASN coherence.
 10-1	1284-1295	CONCLUSIONS	_
 10-2	1296-1301	These	_
 10-3	1302-1310	findings	_
@@ -248,6 +258,7 @@
 10-22	1426-1435	coherence	_
 10-23	1436-1437	.	_
 
+Text=This network was implicated in both harmful alcohol use and emotional eating, corroborating evidence of overlap in brain regions for dysregulated substance use and eating behaviors, and revealing divergent pathways.
 11-1	1438-1442	This	_
 11-2	1443-1450	network	_
 11-3	1451-1454	was	_
@@ -282,6 +293,7 @@
 11-32	1646-1654	pathways	_
 11-33	1655-1656	.	_
 
+Text=These findings support the value of prevention and intervention efforts targeting parenting skills in childhood toward fostering long-term, adaptive neurocognitive development.
 12-1	1657-1662	These	_
 12-2	1663-1671	findings	_
 12-3	1672-1679	support	_
@@ -306,6 +318,7 @@
 12-22	1822-1833	development	_
 12-23	1834-1835	.	_
 
+Text=METHODS Participants and Procedures A total of 119 right-handed rural African Americans age 25 years were recruited from participants in the Strong African American Families Healthy Adult Project to take part in a neuroimaging session.
 13-1	1836-1843	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 13-2	1844-1856	Participants	_
 13-3	1857-1860	and	_
@@ -343,6 +356,7 @@
 13-35	2063-2070	session	_
 13-36	2071-2072	.	_
 
+Text=All participants were right handed and screened to exclude standard MRI research contraindications (e.g., claustrophobia, pregnancy, ferrous metal implants) prior to enrollment.
 14-1	2073-2076	All	_
 14-2	2077-2089	participants	_
 14-3	2090-2094	were	_
@@ -372,6 +386,7 @@
 14-27	2244-2254	enrollment	_
 14-28	2255-2256	.	_
 
+Text=A total of 23 participants were removed for motion (motion correction details available in online supplement) and an additional 5 participants were removed due to other technical problems during preprocessing (i.e., artifacts within the magnetic field), resulting in a final sample of 91 (52% women; mean age 24.92 years of age, SD = 0.58).
 15-1	2257-2258	A	_
 15-2	2259-2264	total	_
 15-3	2265-2267	of	_
@@ -439,6 +454,7 @@
 15-65	2606-2607	)	_
 15-66	2608-2609	.	_
 
+Text=Comparisons between these 91 participants and the 28 participants who were excluded revealed no significant differences on the parent-child communication, harmful alcohol use, and emotional eating variables (all p>.05).
 16-1	2610-2621	Comparisons	_
 16-2	2622-2629	between	_
 16-3	2630-2635	these	_
@@ -476,6 +492,7 @@
 16-35	2833-2834	)	_
 16-36	2835-2836	.	_
 
+Text=Information on participants ’ substance use dependence and psychiatric status is available in supplemental material.
 17-1	2837-2848	Information	_
 17-2	2849-2851	on	_
 17-3	2852-2864	participants	_
@@ -493,6 +510,7 @@
 17-15	2944-2952	material	_
 17-16	2953-2954	.	_
 
+Text=The Institutional Review Board of the sponsoring research institution approved all study procedures, and all participants provided written informed consent.
 18-1	2955-2958	The	_
 18-2	2959-2972	Institutional	_
 18-3	2973-2979	Review	_
@@ -516,6 +534,7 @@
 18-21	3104-3111	consent	_
 18-22	3112-3113	.	_
 
+Text=Measures Parent-Child Communication Parent-child communication was measured via child report about the primary caregiver using a 9-item scale.
 19-1	3114-3122	Measures	_
 19-2	3123-3135	Parent-Child	_
 19-3	3136-3149	Communication	_
@@ -536,6 +555,7 @@
 19-18	3250-3255	scale	_
 19-19	3256-3257	.	_
 
+Text=This scale assessed the frequency of parent-child discussions, the extent of the child ’ s active involvement in them, and the extent of arguing that occurred.
 20-1	3258-3262	This	_
 20-2	3263-3268	scale	_
 20-3	3269-3277	assessed	_
@@ -566,6 +586,7 @@
 20-28	3410-3418	occurred	_
 20-29	3419-3420	.	_
 
+Text=Previous research has supported the validity of this measure with youth at similar ages.
 21-1	3421-3429	Previous	_
 21-2	3430-3438	research	_
 21-3	3439-3442	has	_
@@ -582,6 +603,7 @@
 21-14	3504-3508	ages	_
 21-15	3509-3510	.	_
 
+Text=In the current study, this measure was highly correlated with other parenting measures, including parental emotional support (r = .49), parent-child interactions (r = .49), and nurturant-involved parenting (r = .54).
 22-1	3511-3513	In	_
 22-2	3514-3517	the	_
 22-3	3518-3525	current	_
@@ -625,6 +647,7 @@
 22-41	3735-3736	)	_
 22-42	3737-3738	.	_
 
+Text=Self-reports were averaged across ages 11, 12, and 13.
 23-1	3739-3751	Self-reports	_
 23-2	3752-3756	were	_
 23-3	3757-3765	averaged	_
@@ -638,6 +661,7 @@
 23-11	3792-3794	13	_
 23-12	3795-3796	.	_
 
+Text=Example items include, “ How often do you and your caregiver talk about your choice of friends? ” (response options: 0 = “ never ” to 3 = “ we talk about it a lot ”), “ When you and your caregiver talk about your choice of friends how does the conversation go? ” (response options: 1 = “ my caregiver usually does most of the talking and usually just tells me what to do or believe ” to 3 = “ we usually talk about it openly and we each share our sides of the issue ”), and “ When you and your caregiver talk about your choice of friends, how often do you end up arguing? ” (response options: 0 = “ never ” to 4 = “ always/nearly every time ”).
 24-1	3797-3804	Example	_
 24-2	3805-3810	items	_
 24-3	3811-3818	include	_
@@ -790,6 +814,7 @@
 24-150	4455-4456	)	_
 24-151	4457-4458	.	_
 
+Text=Similar questions were asked with respect to “ school and school work ” and “ alcohol ”.
 25-1	4459-4466	Similar	_
 25-2	4467-4476	questions	_
 25-3	4477-4481	were	_
@@ -809,6 +834,7 @@
 25-17	4545-4546	”	_
 25-18	4547-4548	.	_
 
+Text=Scores were coded so that higher scores indicated more positive parent-child communication.
 26-1	4549-4555	Scores	_
 26-2	4556-4560	were	_
 26-3	4561-4566	coded	_
@@ -823,6 +849,7 @@
 26-12	4626-4639	communication	_
 26-13	4640-4641	.	_
 
+Text=Harmful Alcohol Use Harmful alcohol use was assessed at age 25 using a four-item subscale of the Alcohol Use Disorders Identification Test (AUDIT; 30).
 27-1	4642-4649	Harmful	_
 27-2	4650-4657	Alcohol	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseScale
 27-3	4658-4661	Use	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseScale
@@ -852,6 +879,7 @@
 27-27	4794-4795	)	_
 27-28	4796-4797	.	_
 
+Text=Items in this subscale address consumption that results in harm to the physical or mental health of the individual.
 28-1	4798-4803	Items	_
 28-2	4804-4806	in	_
 28-3	4807-4811	this	_
@@ -873,6 +901,7 @@
 28-19	4902-4912	individual	_
 28-20	4913-4914	.	_
 
+Text=Example items included, “ How often during the last year have you been unable to remember what happened the night before because you had been drinking? ” and “ Have you or someone else been injured because of your drinking? ” Answers ranged from 0 = “ never ” to 4 = “ daily or almost daily ” or 0 = “ no ” to 4 = “ yes, during the last year. ” Scores were coded so that higher scores indicated more harmful alcohol use.
 29-1	4915-4922	Example	_
 29-2	4923-4928	items	_
 29-3	4929-4937	included	_
@@ -965,6 +994,7 @@
 29-90	5335-5338	use	_
 29-91	5339-5340	.	_
 
+Text=Emotional Eating Emotional eating was assessed at age 25 using an 11-item Emotional Eating Scale.
 30-1	5341-5350	Emotional	_
 30-2	5351-5357	Eating	http://maven.renci.org/NeuroBridge/neurobridge#AlternativeHealthyEatingIndex2010
 30-3	5358-5367	Emotional	_
@@ -982,6 +1012,7 @@
 30-15	5432-5437	Scale	http://maven.renci.org/NeuroBridge/neurobridge#AlternativeHealthyEatingIndex2010
 30-16	5438-5439	.	_
 
+Text=The scale measures the strength of the desire to eat that anger, frustration, anxiety, and depression occasion.
 31-1	5440-5443	The	_
 31-2	5444-5449	scale	_
 31-3	5450-5458	measures	_
@@ -1004,6 +1035,7 @@
 31-20	5545-5553	occasion	_
 31-21	5554-5555	.	_
 
+Text=Answers ranged from 0 = “ I have no desire to eat ” to 4 = “ I have a very strong desire to eat. ” The items were coded so that higher scores indicated a stronger desire to eat.
 32-1	5556-5563	Answers	_
 32-2	5564-5570	ranged	_
 32-3	5571-5575	from	_
@@ -1046,6 +1078,7 @@
 32-40	5729-5732	eat	_
 32-41	5733-5734	.	_
 
+Text=Psychometric analyses of this scale have indicated that higher scores are strongly correlated with higher frequency of binge eating.
 33-1	5735-5747	Psychometric	_
 33-2	5748-5756	analyses	_
 33-3	5757-5759	of	_
@@ -1067,6 +1100,7 @@
 33-19	5860-5866	eating	_
 33-20	5867-5868	.	_
 
+Text=Notably, however, preliminary analyses indicated that emotional eating was not significantly correlated with body mass index (M = 29.06, SD = 8.66).
 34-1	5869-5876	Notably	_
 34-2	5877-5878	,	_
 34-3	5879-5886	however	_
@@ -1096,6 +1130,7 @@
 34-27	6020-6021	)	_
 34-28	6022-6023	.	_
 
+Text=This may be due to an artificial limit of body mass index in the current sample, as the practical limitations of MRI methodology disallow participation of individuals higher in body mass index.
 35-1	6024-6028	This	_
 35-2	6029-6032	may	_
 35-3	6033-6035	be	_
@@ -1131,6 +1166,7 @@
 35-33	6212-6217	index	_
 35-34	6218-6219	.	_
 
+Text=Therefore, body mass index was not further considered in subsequent analyses.
 36-1	6220-6229	Therefore	_
 36-2	6230-6231	,	_
 36-3	6232-6236	body	_
@@ -1145,6 +1181,7 @@
 36-12	6289-6297	analyses	_
 36-13	6298-6299	.	_
 
+Text=MRI Acquisition MRI data were collected using a GE 16-channel Signa HDx 3.0 Tesla scanner at the University of Georgia Bio-Imaging Research Center.
 37-1	6300-6303	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 37-2	6304-6315	Acquisition	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 37-3	6316-6319	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -1170,6 +1207,7 @@
 37-23	6440-6446	Center	_
 37-24	6447-6448	.	_
 
+Text=Whole-brain high-resolution structural images were acquired for anatomical reference using a high-resolution T1-weighted, fast-spoiled gradient echo scan (TR = 7.8ms; TE = 3.1ms; flip angle, 20°; FOV = 256×256mm; matrix = 256×256; 160 contiguous 1mm axial slices; voxel size = 1mm3).
 38-1	6449-6460	Whole-brain	_
 38-2	6461-6476	high-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 38-3	6477-6487	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1223,6 +1261,7 @@
 38-51	6740-6741	)	_
 38-52	6742-6743	.	_
 
+Text=Whole-brain functional images were acquired using T2 * echoplanar imaging with a single-shot gradient echo pulse sequence (TR = 2000 ms; TE = 25 ms; flip angle, 90°; FOV = 225×225mm; matrix = 64×64; 38 contiguous 3.5mm axial slices; voxel size = 3.5mm3).
 39-1	6744-6755	Whole-brain	http://maven.renci.org/NeuroBridge/neurobridge#DegenerativeBrainDisorder
 39-2	6756-6766	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 39-3	6767-6773	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -1277,6 +1316,7 @@
 39-52	7005-7006	)	_
 39-53	7007-7008	.	_
 
+Text=The resting state paradigm consisted of two 4-minute imaging runs of 120 brain volumes.
 40-1	7009-7012	The	_
 40-2	7013-7020	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 40-3	7021-7026	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1293,6 +1333,7 @@
 40-14	7088-7095	volumes	_
 40-15	7096-7097	.	_
 
+Text=Participants were instructed to keep their eyes open, look at a fixation cross, and allow their minds to wander freely.
 41-1	7098-7110	Participants	_
 41-2	7111-7115	were	_
 41-3	7116-7126	instructed	_
@@ -1317,6 +1358,7 @@
 41-22	7212-7218	freely	_
 41-23	7219-7220	.	_
 
+Text=Image Processing Data preprocessing for fMRI was conducted using Analysis of Functional Neuroimages software (AFNI; 32).
 42-1	7221-7226	Image	_
 42-2	7227-7237	Processing	_
 42-3	7238-7242	Data	_
@@ -1338,6 +1380,7 @@
 42-19	7342-7343	)	_
 42-20	7344-7345	.	_
 
+Text=Functional datasets were despiked, slice time shift corrected, and aligned to T1 datasets before warping into Montreal Neurological Institute (MNI) standardized space.
 43-1	7346-7356	Functional	_
 43-2	7357-7365	datasets	_
 43-3	7366-7370	were	_
@@ -1366,6 +1409,7 @@
 43-26	7511-7516	space	_
 43-27	7517-7518	.	_
 
+Text=The first four volumes of each run were removed to allow the scanner to reach steady state.
 44-1	7519-7522	The	_
 44-2	7523-7528	first	_
 44-3	7529-7533	four	_
@@ -1385,6 +1429,7 @@
 44-17	7604-7609	state	_
 44-18	7610-7611	.	_
 
+Text=Volumes with greater than 25% of voxels identified as outliers or intervolume movement greater than 0.2mm along any axis were censored.
 45-1	7612-7619	Volumes	_
 45-2	7620-7624	with	_
 45-3	7625-7632	greater	_
@@ -1409,6 +1454,7 @@
 45-22	7739-7747	censored	_
 45-23	7748-7749	.	_
 
+Text=Data were spatially smoothed using a 6mm full-width half-maximum Gaussian filter and masked to exclude voxels outside the brain.
 46-1	7750-7754	Data	_
 46-2	7755-7759	were	_
 46-3	7760-7769	spatially	_
@@ -1430,6 +1476,7 @@
 46-19	7872-7877	brain	_
 46-20	7878-7879	.	_
 
+Text=Bandpass filtering was applied to remove low and high frequency noise (.009 to .08 hz), and motion correction was accomplished by including the six standard (de-meaned) motion parameters and their temporal derivatives as regressors of no interest.
 47-1	7880-7888	Bandpass	_
 47-2	7889-7898	filtering	_
 47-3	7899-7902	was	_
@@ -1474,6 +1521,7 @@
 47-42	8123-8131	interest	_
 47-43	8132-8133	.	_
 
+Text=Functional Connectivity Analyses and Data Analysis Plan Regions of interest (ROIs) were selected based on the central coordinates of the ASN nodes reported by Shirer et al ..
 48-1	8134-8144	Functional	_
 48-2	8145-8157	Connectivity	_
 48-3	8158-8166	Analyses	_
@@ -1505,6 +1553,7 @@
 48-29	8305-8307	al	_
 48-30	8308-8310	..	_
 
+Text=Specifically, for each ROI, a 5mm sphere was placed around the reported coordinates (MNI) at the center of mass.
 49-1	8311-8323	Specifically	_
 49-2	8324-8325	,	_
 49-3	8326-8329	for	_
@@ -1530,6 +1579,7 @@
 49-23	8422-8426	mass	_
 49-24	8427-8428	.	_
 
+Text=As shown in Figure 1, these regions included left dorsal anterior cingulate cortex (x = −6, y = 17, z = 47), right dorsal anterior cingulate cortex (x = 6, y = 17, z = 47), left anterior insula (x = −42, y = 14, z = −3), right anterior insula (x = 43, y = 15, z = −1), left middle frontal gyrus (x = −31, y = 47, z = 22), and right middle frontal gyrus (x = 28, y = 46, z = 26).
 50-1	8429-8431	As	_
 50-2	8432-8437	shown	_
 50-3	8438-8440	in	_
@@ -1649,6 +1699,7 @@
 50-117	8835-8836	)	_
 50-118	8837-8838	.	_
 
+Text=Raw time series data for each voxel were de-meaned and converted to percent signal change scores to reduce variability between subjects and scanner sessions.
 51-1	8839-8842	Raw	_
 51-2	8843-8847	time	_
 51-3	8848-8854	series	_
@@ -1675,6 +1726,7 @@
 51-24	8987-8995	sessions	_
 51-25	8996-8997	.	_
 
+Text=ROI seed data were then calculated as the average percent signal change for all voxels contained in a given region.
 52-1	8998-9001	ROI	_
 52-2	9002-9006	seed	_
 52-3	9007-9011	data	_
@@ -1697,6 +1749,7 @@
 52-20	9106-9112	region	_
 52-21	9113-9114	.	_
 
+Text=RSFC was quantified using the correlation of the average time series in each ROI with the average time series in all other ROIs in the network using Pearson ’ s r. Next, r values were converted to Z-scores using Fischer ’ s r to Z transformation.
 53-1	9115-9119	RSFC	_
 53-2	9120-9123	was	_
 53-3	9124-9134	quantified	_
@@ -1746,6 +1799,7 @@
 53-47	9347-9361	transformation	_
 53-48	9362-9363	.	_
 
+Text=Finally, the Z-scores of all possible connections were averaged to compute a final value reflecting the connectivity of all possible nodes of the network (referred to as “ ASN connectivity ” below).
 54-1	9364-9371	Finally	_
 54-2	9372-9373	,	_
 54-3	9374-9377	the	_
@@ -1783,6 +1837,7 @@
 54-35	9563-9564	)	_
 54-36	9565-9566	.	_
 
+Text=The online supplement includes additional details on rationale and methodological details for the current approach.
 55-1	9567-9570	The	_
 55-2	9571-9577	online	_
 55-3	9578-9588	supplement	_
@@ -1800,6 +1855,7 @@
 55-15	9673-9681	approach	_
 55-16	9682-9683	.	_
 
+Text=Preliminary analyses were conducted, including descriptive analyses to determine normality of distributions.
 56-1	9684-9695	Preliminary	_
 56-2	9696-9704	analyses	_
 56-3	9705-9709	were	_
@@ -1815,6 +1871,7 @@
 56-13	9779-9792	distributions	_
 56-14	9793-9794	.	_
 
+Text=Harmful alcohol use was skewed (3.15) and kurtotic (12.18); thus, it was log transformed.
 57-1	9795-9802	Harmful	_
 57-2	9803-9810	alcohol	_
 57-3	9811-9814	use	_
@@ -1837,6 +1894,7 @@
 57-20	9878-9889	transformed	_
 57-21	9890-9891	.	_
 
+Text=After this transformation, all variables fell within acceptable ranges.
 58-1	9892-9897	After	_
 58-2	9898-9902	this	_
 58-3	9903-9917	transformation	_
@@ -1849,6 +1907,7 @@
 58-10	9957-9963	ranges	_
 58-11	9964-9965	.	_
 
+Text=Next, hypotheses were tested using structural equation modeling (SEM) with Mplus version 7.4 software.
 59-1	9966-9970	Next	_
 59-2	9971-9972	,	_
 59-3	9973-9983	hypotheses	_
@@ -1868,6 +1927,7 @@
 59-17	10062-10070	software	_
 59-18	10071-10072	.	_
 
+Text=Participant sex, child maltreatment as measured using the 28-item short form of the Childhood Trauma Questionnaire, parental educational attainment, and parental substance use were included as control variables.1 Overall model fit indices were determined by χ2 value, degrees of freedom, corresponding p-value, Root Mean Square Error of Approximation (RMSEA), and Comparative Fit Index (CFI).
 60-1	10073-10084	Participant	_
 60-2	10085-10088	sex	_
 60-3	10089-10090	,	_
@@ -1935,6 +1995,7 @@
 60-65	10474-10475	)	_
 60-66	10476-10477	.	_
 
+Text=For all tests of direct and indirect effects, bias-corrected bootstrapping was used with 1,000 draws and corresponding 95% confidence intervals.
 61-1	10478-10481	For	_
 61-2	10482-10485	all	_
 61-3	10486-10491	tests	_

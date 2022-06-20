@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=The Effects of Music Intervention on Pallidum-DMN Circuit of Schizophrenia Music intervention has been applied to improve symptoms of schizophrenic subjects as a complementary treatment in medicine.
 1-1	0-3	The	_
 1-2	4-11	Effects	_
 1-3	12-14	of	_
@@ -31,6 +32,7 @@
 1-27	189-197	medicine	_
 1-28	198-199	.	_
 
+Text=Although the psychiatric symptoms, especially for motivation and emotion, could be increased in schizophrenia, the underlying neural mechanisms remain poorly understood.
 2-1	200-208	Although	_
 2-2	209-212	the	_
 2-3	213-224	psychiatric	_
@@ -57,6 +59,7 @@
 2-24	361-371	understood	_
 2-25	372-373	.	_
 
+Text=We employed a longitudinal study to measure the alteration of striatum functional networks in schizophrenic subjects undergoing Mozart music listening using resting-state functional magnetic resonance imaging (fMRI).
 3-1	374-376	We	_
 3-2	377-385	employed	_
 3-3	386-387	a	_
@@ -88,6 +91,7 @@
 3-29	590-591	)	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 3-30	592-593	.	_
 
+Text=Forty-five schizophrenic inpatients were recruited and randomly assigned to two groups.
 4-1	594-604	Forty-five	_
 4-2	605-618	schizophrenic	http://maven.renci.org/NeuroBridge/neurobridge#AcuteSchizophrenicEpisode
 4-3	619-629	inpatients	http://maven.renci.org/NeuroBridge/neurobridge#AcuteSchizophrenicEpisode
@@ -101,6 +105,7 @@
 4-11	674-680	groups	_
 4-12	681-682	.	_
 
+Text=Under the standard care with antipsychotic medication, one group received music intervention for 1 month and the other group is set as control.
 5-1	683-688	Under	_
 5-2	689-692	the	_
 5-3	693-701	standard	_
@@ -127,6 +132,7 @@
 5-24	819-826	control	_
 5-25	827-828	.	_
 
+Text=Both schizophrenic groups were compared to healthy subjects.
 6-1	829-833	Both	_
 6-2	834-847	schizophrenic	_
 6-3	848-854	groups	_
@@ -137,6 +143,7 @@
 6-8	880-888	subjects	_
 6-9	889-890	.	_
 
+Text=Resting-state fMRI was acquired from schizophrenic subjects at baseline and after one-month music intervention and from healthy subjects at baseline.
 7-1	891-904	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 7-2	905-909	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 7-3	910-913	was	_
@@ -159,6 +166,7 @@
 7-20	1031-1039	baseline	_
 7-21	1040-1041	.	_
 
+Text=Striatum network was assessed through seed-based static and dynamic functional connectivity (FC) analyses.
 8-1	1042-1050	Striatum	_
 8-2	1051-1058	network	_
 8-3	1059-1062	was	_
@@ -176,6 +184,7 @@
 8-15	1141-1149	analyses	_
 8-16	1150-1151	.	_
 
+Text=After music intervention, increased static FC was observed between pallidum and ventral hippocampus in schizophrenic subjects.
 9-1	1152-1157	After	_
 9-2	1158-1163	music	_
 9-3	1164-1176	intervention	_
@@ -195,6 +204,7 @@
 9-17	1270-1278	subjects	http://maven.renci.org/NeuroBridge/neurobridge#AcuteSchizophrenicEpisode
 9-18	1279-1280	.	_
 
+Text=Increased dynamic FCs were also found between pallidus and subregions of default mode network (DMN), including cerebellum crus and posterior cingulate cortex.
 10-1	1281-1290	Increased	_
 10-2	1291-1298	dynamic	_
 10-3	1299-1302	FCs	_
@@ -222,6 +232,7 @@
 10-25	1435-1441	cortex	_
 10-26	1442-1443	.	_
 
+Text=Moreover, static pallidus-hippocampus FC increment was positively correlated with the improvement of negative symptoms in schizophrenic subjects.
 11-1	1444-1452	Moreover	_
 11-2	1453-1454	,	_
 11-3	1455-1461	static	_
@@ -242,6 +253,7 @@
 11-18	1581-1589	subjects	http://maven.renci.org/NeuroBridge/neurobridge#AcuteSchizophrenicEpisode
 11-19	1590-1591	.	_
 
+Text=Together, these findings provided evidence that music intervention might have an effect on the FC of the striatum-DMN circuit and might be related to the remission of symptoms of schizophrenia.
 12-1	1592-1600	Together	_
 12-2	1601-1602	,	_
 12-3	1603-1608	these	_
@@ -275,15 +287,18 @@
 12-31	1772-1785	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 12-32	1786-1787	.	_
 
+Text=2.
 13-1	1788-1789	2	_
 13-2	1790-1791	.	_
 
+Text=Materials and Methods 2.1.
 14-1	1792-1801	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-2	1802-1805	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-3	1806-1813	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-4	1814-1817	2.1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-5	1818-1819	.	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 
+Text=Demographic Characteristics Forty-five schizophrenic subjects were recruited in this study from the clinical hospital of Chengdu Brain Science Institute (CBSI).
 15-1	1820-1831	Demographic	_
 15-2	1832-1847	Characteristics	_
 15-3	1848-1858	Forty-five	_
@@ -308,6 +323,7 @@
 15-22	1980-1981	)	_
 15-23	1982-1983	.	_
 
+Text=The inclusion criterion for the inpatients was a diagnosis of schizophrenia based on the Structured Clinical Interview for the DSM-IV Axis I disorders—clinical version (SCID-I-CV).
 16-1	1984-1987	The	_
 16-2	1988-1997	inclusion	_
 16-3	1998-2007	criterion	_
@@ -337,6 +353,7 @@
 16-27	2164-2165	)	_
 16-28	2166-2167	.	_
 
+Text=The exclusion criteria were acute psychotic symptoms, a secondary diagnosis of organic psychosis or dementia, and unstable drug treatment.
 17-1	2168-2171	The	_
 17-2	2172-2181	exclusion	_
 17-3	2182-2190	criteria	_
@@ -360,6 +377,7 @@
 17-21	2298-2307	treatment	_
 17-22	2308-2309	.	_
 
+Text=The psychiatric symptoms of the patients were measured using Positive and Negative Symptom Scale (PANSS).
 18-1	2310-2313	The	_
 18-2	2314-2325	psychiatric	_
 18-3	2326-2334	symptoms	_
@@ -379,6 +397,7 @@
 18-17	2415-2416	)	http://maven.renci.org/NeuroBridge/neurobridge#NegativeSymptomScale
 18-18	2417-2418	.	_
 
+Text=A set of matched MRI data of healthy controls (HC, n = 19) were obtained from CBSI research databases, which were screened for a history of medical or neuropsychiatric illness, as well as for major neurological or psychiatric illness in their first-degree relatives.
 19-1	2419-2420	A	_
 19-2	2421-2424	set	_
 19-3	2425-2427	of	_
@@ -429,6 +448,7 @@
 19-48	2680-2689	relatives	_
 19-49	2690-2691	.	_
 
+Text=The study was approved by the Ethics Committee of the clinical hospital of CBSI in accordance with the Helsinki Declaration.
 20-1	2692-2695	The	_
 20-2	2696-2701	study	_
 20-3	2702-2705	was	_
@@ -451,6 +471,7 @@
 20-20	2804-2815	Declaration	_
 20-21	2816-2817	.	_
 
+Text=These data have been used to measure the music intervention on static global FC and insular networks, respectively, in schizophrenic subjects.
 21-1	2818-2823	These	_
 21-2	2824-2828	data	_
 21-3	2829-2833	have	_
@@ -476,6 +497,7 @@
 21-23	2953-2961	subjects	_
 21-24	2962-2963	.	_
 
+Text=In this study, we focused on music effects on static and dynamic FC of striatum in schizophrenia.
 22-1	2964-2966	In	_
 22-2	2967-2971	this	_
 22-3	2972-2977	study	_
@@ -496,9 +518,11 @@
 22-18	3048-3061	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 22-19	3062-3063	.	_
 
+Text=2.2.
 23-1	3064-3067	2.2	_
 23-2	3068-3069	.	_
 
+Text=Design and Content of Music Intervention A quasirandomized controlled trial was performed in this study.
 24-1	3070-3076	Design	_
 24-2	3077-3080	and	_
 24-3	3081-3088	Content	_
@@ -516,6 +540,7 @@
 24-15	3168-3173	study	_
 24-16	3174-3175	.	_
 
+Text=The experimental schizophrenic patients and controlled patients were compared using the reference of the HCs.
 25-1	3176-3179	The	_
 25-2	3180-3192	experimental	_
 25-3	3193-3206	schizophrenic	_
@@ -533,6 +558,7 @@
 25-15	3281-3284	HCs	_
 25-16	3285-3286	.	_
 
+Text=Then, the patients were randomly divided into two groups by psychiatrists.
 26-1	3287-3291	Then	_
 26-2	3292-3293	,	_
 26-3	3294-3297	the	_
@@ -547,6 +573,7 @@
 26-12	3348-3361	psychiatrists	_
 26-13	3362-3363	.	_
 
+Text=Twenty-two schizophrenic subjects were selected as the music intervention group (MTSZ).
 27-1	3364-3374	Twenty-two	_
 27-2	3375-3388	schizophrenic	http://maven.renci.org/NeuroBridge/neurobridge#AcuteSchizophrenicEpisode
 27-3	3389-3397	subjects	_
@@ -562,6 +589,7 @@
 27-13	3451-3452	)	http://maven.renci.org/NeuroBridge/neurobridge#Intervention
 27-14	3453-3454	.	_
 
+Text=Twenty-three inpatients were chosen as controls (UMTSZ).
 28-1	3455-3467	Twenty-three	_
 28-2	3468-3478	inpatients	_
 28-3	3479-3483	were	_
@@ -573,6 +601,7 @@
 28-9	3511-3512	)	_
 28-10	3513-3514	.	_
 
+Text=One professional music therapist participated in this study.
 29-1	3515-3518	One	_
 29-2	3519-3531	professional	_
 29-3	3532-3537	music	_
@@ -583,6 +612,7 @@
 29-8	3569-3574	study	_
 29-9	3575-3576	.	_
 
+Text=Two groups of schizophrenia are chronic schizophrenic subjects with a stable drug treatment strategy (changeless antipsychotic drugs and their doses) in CBSI.
 30-1	3577-3580	Two	_
 30-2	3581-3587	groups	_
 30-3	3588-3590	of	_
@@ -609,6 +639,7 @@
 30-24	3732-3736	CBSI	_
 30-25	3737-3738	.	_
 
+Text=Additionally, MTSZ inpatients listened Mozart's sonata K. 448 (half an hour per day, 30 days), which has been widely used in scientific studies to assess the effects of music.
 31-1	3739-3751	Additionally	_
 31-2	3752-3753	,	_
 31-3	3754-3758	MTSZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -646,6 +677,7 @@
 31-35	3914-3919	music	_
 31-36	3920-3921	.	_
 
+Text=During each session, the inpatients were peaceful listening to the music of Mozart's sonata K. 448 from a stereo system in a quiet room.
 32-1	3922-3928	During	_
 32-2	3929-3933	each	_
 32-3	3934-3941	session	_
@@ -674,9 +706,11 @@
 32-26	4055-4059	room	_
 32-27	4060-4061	.	_
 
+Text=2.3.
 33-1	4062-4065	2.3	_
 33-2	4066-4067	.	_
 
+Text=Data Acquisition and Image Preprocessing Imaging was conducted on a 3 T MRI scanner (GE DISCOVERY MR750).
 34-1	4068-4072	Data	_
 34-2	4073-4084	Acquisition	_
 34-3	4085-4088	and	_
@@ -698,6 +732,7 @@
 34-19	4173-4174	)	_
 34-20	4175-4176	.	_
 
+Text=During scanning, we used foam padding and earplugs to reduce head motion and scanner noise, respectively.
 35-1	4177-4183	During	_
 35-2	4184-4192	scanning	_
 35-3	4193-4194	,	_
@@ -718,6 +753,7 @@
 35-18	4271-4283	respectively	_
 35-19	4284-4285	.	_
 
+Text=High-resolution T1-weighted images were acquired using a 3-dimensional fast spoiled gradient-echo sequence (repetition time (TR) = 6.008 ms, flip angle (FA) = 9°, matrix = 256 × 256, field of view (FOV) = 256 × 256 mm2, slice thickness = 1 mm, no gap, and 152 slices).
 36-1	4286-4301	High-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 36-2	4302-4313	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 36-3	4314-4320	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -781,6 +817,7 @@
 36-61	4566-4567	)	_
 36-62	4568-4569	.	_
 
+Text=Subsequently, resting-state functional MRI data were acquired using gradient-echo echo-planar imaging sequences (TR = 2000 ms, echo time (TE) = 30 ms, FA = 90°, matrix = 64 × 64, FOV = 240 × 240 mm2, slice thickness/gap = 4 mm/0.4 mm, and number of slices = 35), with an eight-channel phased-array head coil.
 37-1	4570-4582	Subsequently	_
 37-2	4583-4584	,	_
 37-3	4585-4598	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -849,6 +886,7 @@
 37-66	4885-4889	coil	_
 37-67	4890-4891	.	_
 
+Text=All subjects underwent a 510-second resting-state scan to yield 255 volumes.
 38-1	4892-4895	All	_
 38-2	4896-4904	subjects	_
 38-3	4905-4914	underwent	_
@@ -862,6 +900,7 @@
 38-11	4960-4967	volumes	_
 38-12	4968-4969	.	_
 
+Text=During resting-state fMRI, all subjects were instructed to have their eyes closed and to move as little as possible without falling asleep.
 39-1	4970-4976	During	_
 39-2	4977-4990	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 39-3	4991-4995	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -887,6 +926,7 @@
 39-23	5103-5109	asleep	_
 39-24	5110-5111	.	_
 
+Text=Functional image preprocessing was performed using NIT (Neuroscience Information Toolbox) according to a standard pipeline and briefly described here.
 40-1	5112-5122	Functional	_
 40-2	5123-5128	image	_
 40-3	5129-5142	preprocessing	_
@@ -910,6 +950,7 @@
 40-21	5259-5263	here	_
 40-22	5264-5265	.	_
 
+Text=Slice time and head motion correction and normalization (3 mm ∗ 3 mm ∗ 3 mm) into EPI template were performed.
 41-1	5266-5271	Slice	_
 41-2	5272-5276	time	_
 41-3	5277-5280	and	_
@@ -935,6 +976,7 @@
 41-23	5368-5377	performed	_
 41-24	5378-5379	.	_
 
+Text=Further, the images were spatial smoothed (FWHM 6 mm).
 42-1	5380-5387	Further	_
 42-2	5388-5389	,	_
 42-3	5390-5393	the	_
@@ -949,12 +991,14 @@
 42-12	5435-5436	)	_
 42-13	5437-5438	.	_
 
+Text=Detrending analysis was performed.
 43-1	5439-5449	Detrending	_
 43-2	5450-5458	analysis	_
 43-3	5459-5462	was	_
 43-4	5463-5472	performed	_
 43-5	5473-5474	.	_
 
+Text=Temporal filtering was performed at bandpass 0.01–0.08 Hz.
 44-1	5475-5483	Temporal	_
 44-2	5484-5493	filtering	_
 44-3	5494-5497	was	_
@@ -965,6 +1009,7 @@
 44-8	5530-5532	Hz	_
 44-9	5533-5534	.	_
 
+Text=Then, the sources of nuisance signals were removed from these images, including six motion parameters and their first temporal derivative, white matter signal, and cerebrospinal fluid signal.
 45-1	5535-5539	Then	_
 45-2	5540-5541	,	_
 45-3	5542-5545	the	_
@@ -998,6 +1043,7 @@
 45-31	5723-5729	signal	_
 45-32	5730-5731	.	_
 
+Text=The global signal was not regressed out.
 46-1	5732-5735	The	_
 46-2	5736-5742	global	_
 46-3	5743-5749	signal	_
@@ -1007,6 +1053,7 @@
 46-7	5768-5771	out	_
 46-8	5772-5773	.	_
 
+Text=Power reported that head motion has a substantial impact on the functional map.
 47-1	5774-5779	Power	_
 47-2	5780-5788	reported	_
 47-3	5789-5793	that	_
@@ -1022,6 +1069,7 @@
 47-13	5849-5852	map	_
 47-14	5853-5854	.	_
 
+Text=Thus, in this study, subjects who had a maximum translation in any of orthogonal direction larger than 3 mm or rotation larger than 3 degrees were excluded.
 48-1	5855-5859	Thus	_
 48-2	5860-5861	,	_
 48-3	5862-5864	in	_
@@ -1053,6 +1101,7 @@
 48-29	6004-6012	excluded	_
 48-30	6013-6014	.	_
 
+Text=Moreover, framewise displacement (FD) was evaluated for all subjects as suggested by Power et al.
 49-1	6015-6023	Moreover	_
 49-2	6024-6025	,	_
 49-3	6026-6035	framewise	_
@@ -1073,6 +1122,7 @@
 49-18	6112-6114	al	_
 49-19	6115-6116	.	_
 
+Text=Structural images were processed using SPM8 toolbox.
 50-1	6117-6127	Structural	_
 50-2	6128-6134	images	_
 50-3	6135-6139	were	_
@@ -1082,6 +1132,7 @@
 50-7	6161-6168	toolbox	_
 50-8	6169-6170	.	_
 
+Text=The structural image was spatially normalized to MNI space using a diffeomorphic anatomical registration through exponentiated lie algebra (DARTEL) and segmented into gray matter (GM), white matter, and cerebrospinal fluid.
 51-1	6171-6174	The	_
 51-2	6175-6185	structural	_
 51-3	6186-6191	image	_
@@ -1120,6 +1171,7 @@
 51-36	6394-6399	fluid	_
 51-37	6400-6401	.	_
 
+Text=Then the segmented GM was modulated using nonlinear deformation.
 52-1	6402-6406	Then	_
 52-2	6407-6410	the	_
 52-3	6411-6420	segmented	_
@@ -1131,6 +1183,7 @@
 52-9	6454-6465	deformation	_
 52-10	6466-6467	.	_
 
+Text=The normalized GM score was calculated as follows: GM score divided by the total intracranial volume.
 53-1	6468-6471	The	_
 53-2	6472-6482	normalized	_
 53-3	6483-6485	GM	_
@@ -1150,6 +1203,7 @@
 53-17	6563-6569	volume	_
 53-18	6570-6571	.	_
 
+Text=The normalized GM score of subjects was as a variable in the statistical analysis to correct for the global GM volume of different subjects.
 54-1	6572-6575	The	_
 54-2	6576-6586	normalized	_
 54-3	6587-6589	GM	_
@@ -1176,9 +1230,11 @@
 54-24	6703-6711	subjects	_
 54-25	6712-6713	.	_
 
+Text=2.4.
 55-1	6714-6717	2.4	_
 55-2	6718-6719	.	_
 
+Text=Static and Sliding Window-Based Dynamic Functional Connectivity Analyses First, we calculated static functional networks of the striatum system.
 56-1	6720-6726	Static	_
 56-2	6727-6730	and	_
 56-3	6731-6738	Sliding	_
@@ -1200,6 +1256,7 @@
 56-19	6858-6864	system	_
 56-20	6865-6866	.	_
 
+Text=Six subregions within striatum systems were defined based on the automated anatomical labeling (AAL) template, including left and right caudate, left and right putamen, and left and right pallidum.
 57-1	6867-6870	Six	_
 57-2	6871-6881	subregions	_
 57-3	6882-6888	within	_
@@ -1236,6 +1293,7 @@
 57-34	7060-7068	pallidum	_
 57-35	7069-7070	.	_
 
+Text=The mean BOLD time courses of these regions were extracted.
 58-1	7071-7074	The	_
 58-2	7075-7079	mean	_
 58-3	7080-7084	BOLD	_
@@ -1248,6 +1306,7 @@
 58-10	7120-7129	extracted	_
 58-11	7130-7131	.	_
 
+Text=Subsequently, the Pearson correlation coefficients were calculated between these regions and all voxels in the brain.
 59-1	7132-7144	Subsequently	_
 59-2	7145-7146	,	_
 59-3	7147-7150	the	_
@@ -1267,6 +1326,7 @@
 59-17	7244-7249	brain	_
 59-18	7250-7251	.	_
 
+Text=This correlation coefficient was considered as static FC based on the whole time course.
 60-1	7252-7256	This	_
 60-2	7257-7268	correlation	_
 60-3	7269-7280	coefficient	_
@@ -1283,6 +1343,7 @@
 60-14	7333-7339	course	_
 60-15	7340-7341	.	_
 
+Text=The resulting values were transformed through Fisher's r-to-z transformation.
 61-1	7342-7345	The	_
 61-2	7346-7355	resulting	_
 61-3	7356-7362	values	_
@@ -1295,6 +1356,7 @@
 61-10	7405-7419	transformation	_
 61-11	7420-7421	.	_
 
+Text=We calculated the sliding window-based dynamic functional map for each subregion of the striatum system as follows: first, the time course was segmented into shorter windows.
 62-1	7422-7424	We	_
 62-2	7425-7435	calculated	_
 62-3	7436-7439	the	_
@@ -1325,6 +1387,7 @@
 62-28	7590-7597	windows	_
 62-29	7598-7599	.	_
 
+Text=In the sliding window-based dynamic functional connectivity analysis, the optimal window length is an open area of research.
 63-1	7600-7602	In	_
 63-2	7603-7606	the	_
 63-3	7607-7614	sliding	_
@@ -1346,6 +1409,7 @@
 63-19	7716-7724	research	_
 63-20	7725-7726	.	_
 
+Text=Recent study has indicated that the minimum window length should be no less than 1/fmin.
 64-1	7727-7733	Recent	_
 64-2	7734-7739	study	_
 64-3	7740-7743	has	_
@@ -1363,6 +1427,7 @@
 64-15	7808-7814	1/fmin	_
 64-16	7815-7816	.	_
 
+Text=Thus, the time courses were segmented into 100 s (50TR) windows (fmin = 0.01 Hz), sliding the onset by 2 s (1TR).
 65-1	7817-7821	Thus	_
 65-2	7822-7823	,	_
 65-3	7824-7827	the	_
@@ -1395,6 +1460,7 @@
 65-30	7936-7937	)	_
 65-31	7938-7939	.	_
 
+Text=Second, within each window, the Pearson correlation analysis was performed between the subregions of striatum and all voxels, respectively.
 66-1	7940-7946	Second	_
 66-2	7947-7948	,	_
 66-3	7949-7955	within	_
@@ -1419,6 +1485,7 @@
 66-22	8069-8081	respectively	_
 66-23	8082-8083	.	_
 
+Text=Finally, the dynamic FC was estimated by calculating the standard deviation (SD) in correlation coefficients at each voxel.
 67-1	8084-8091	Finally	_
 67-2	8092-8093	,	_
 67-3	8094-8097	the	_
@@ -1442,9 +1509,11 @@
 67-21	8204-8209	voxel	_
 67-22	8210-8211	.	_
 
+Text=2.5.
 68-1	8212-8215	2.5	_
 68-2	8216-8217	.	_
 
+Text=Statistical Analysis First, to measure the effects of music intervention on static and dynamic functional networks, the statistical analysis was performed on the longitudinal date of MTSZ and UMTSZ groups through repeated-measure ANOVA.
 69-1	8218-8229	Statistical	_
 69-2	8230-8238	Analysis	_
 69-3	8239-8244	First	_
@@ -1482,6 +1551,7 @@
 69-35	8450-8455	ANOVA	_
 69-36	8456-8457	.	_
 
+Text=The repeated-measure ANOVA was performed with age, gender, education years, GM, and medication dosage as covariates.
 70-1	8458-8461	The	_
 70-2	8462-8478	repeated-measure	_
 70-3	8479-8484	ANOVA	_
@@ -1504,6 +1574,7 @@
 70-20	8567-8577	covariates	_
 70-21	8578-8579	.	_
 
+Text=Multiple comparisons correction was performed using a high threshold (p=0.001) and an extent threshold based on Gaussian random field theory (pcorrected=0.05).
 71-1	8580-8588	Multiple	_
 71-2	8589-8600	comparisons	_
 71-3	8601-8611	correction	_
@@ -1531,6 +1602,7 @@
 71-25	8741-8742	)	_
 71-26	8743-8744	.	_
 
+Text=For the altered regions, we extracted the FC value in MTSZ and UMTSZ groups for post hoc analysis.
 72-1	8745-8748	For	_
 72-2	8749-8752	the	_
 72-3	8753-8760	altered	_
@@ -1552,6 +1624,7 @@
 72-19	8835-8843	analysis	_
 72-20	8844-8845	.	_
 
+Text=Second, for the altered FC from repeated-measure ANOVA, we established the baseline abnormalities between HC and MTSZ, and UMTSZ, respectively.
 73-1	8846-8852	Second	_
 73-2	8853-8854	,	_
 73-3	8855-8858	for	_
@@ -1578,6 +1651,7 @@
 73-24	8980-8992	respectively	_
 73-25	8993-8994	.	_
 
+Text=Two-sample t-test was calculated between HC and schizophrenic subjects (MTSZ and UMTSZ of baseline).
 74-1	8995-9005	Two-sample	_
 74-2	9006-9012	t-test	_
 74-3	9013-9016	was	_
@@ -1596,6 +1670,7 @@
 74-16	9095-9096	)	_
 74-17	9097-9098	.	_
 
+Text=Using the different FC between HC and patients as a reference, the inverse FC (1 month minus baseline) might be defined as normalized FC through music intervention in MTSZ.
 75-1	9099-9104	Using	_
 75-2	9105-9108	the	_
 75-3	9109-9118	different	_
@@ -1630,9 +1705,11 @@
 75-32	9269-9273	MTSZ	_
 75-33	9274-9275	.	_
 
+Text=2.6.
 76-1	9276-9279	2.6	_
 76-2	9280-9281	.	_
 
+Text=Correlations with Pathological Factors The partial correlation analysis was performed between the mean changed static/dynamic FC (1 month later minus baseline) with altered symptom scores (1 month later minus baseline) of schizophrenic subjects with age, gender, illness duration, education years, GM, and medication dosage as covariates in this study.
 77-1	9282-9294	Correlations	_
 77-2	9295-9299	with	_
 77-3	9300-9312	Pathological	_

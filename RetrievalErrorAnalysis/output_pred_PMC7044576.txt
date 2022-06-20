@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Spiritual experiences are related to engagement of a ventral frontotemporal functional brain network: Implications for prevention and treatment of behavioral and substance addictions Background and aims Spirituality is an important component of 12-step programs for behavioral and substance addictions and has been linked to recovery processes.
 1-1	0-9	Spiritual	_
 1-2	10-21	experiences	_
 1-3	22-25	are	_
@@ -51,6 +52,7 @@
 1-47	335-344	processes	_
 1-48	345-346	.	_
 
+Text=Understanding the neural correlates of spiritual experiences may help to promote efforts to enhance recovery processes in behavioral addictions.
 2-1	347-360	Understanding	_
 2-2	361-364	the	_
 2-3	365-371	neural	_
@@ -72,6 +74,7 @@
 2-19	480-490	addictions	_
 2-20	491-492	.	_
 
+Text=We recently used general linear model (GLM) analyses of functional magnetic resonance imaging data to examine neural correlates of spiritual experiences, with findings implicating cortical and subcortical brain regions.
 3-1	493-495	We	_
 3-2	496-504	recently	_
 3-3	505-509	used	_
@@ -106,6 +109,7 @@
 3-32	707-714	regions	_
 3-33	715-716	.	_
 
+Text=Although informative, the GLM-based approach does not provide insight into brain circuits that may underlie spiritual experiences.
 4-1	717-725	Although	_
 4-2	726-737	informative	_
 4-3	738-739	,	_
@@ -126,6 +130,7 @@
 4-18	836-847	experiences	_
 4-19	848-849	.	_
 
+Text=Methods Spatial independent component analysis (sICA) was used to identify functional brain networks specifically linked to spiritual (vs. stressful or neutral-relaxing) conditions using a previously validated guided imagery task in 27 young adults.
 5-1	850-857	Methods	_
 5-2	858-865	Spatial	_
 5-3	866-877	independent	_
@@ -165,6 +170,7 @@
 5-37	1096-1102	adults	_
 5-38	1103-1104	.	_
 
+Text=Results Using sICA, engagement of a ventral frontotemporal network was identified that was engaged at the onset and conclusion of the spiritual condition in a manner distinct from engagement during the stress or neutral-relaxing conditions.
 6-1	1105-1112	Results	_
 6-2	1113-1118	Using	_
 6-3	1119-1123	sICA	_
@@ -203,6 +209,7 @@
 6-36	1335-1345	conditions	_
 6-37	1346-1347	.	_
 
+Text=Degree of engagement correlated with subjective reports of spirituality in the scanner (r = .71, p <.001) and an out-of-the-magnet measure of spirituality (r = .48, p <.018).
 7-1	1348-1354	Degree	_
 7-2	1355-1357	of	_
 7-3	1358-1368	engagement	_
@@ -241,6 +248,7 @@
 7-36	1528-1529	)	_
 7-37	1530-1531	.	_
 
+Text=Discussion and conclusion The current findings suggest a distributed functional neural network associated with spiritual experiences and provide a foundation for investigating brain mechanisms underlying the role of spirituality in recovery from behavioral addictions.
 8-1	1532-1542	Discussion	_
 8-2	1543-1546	and	_
 8-3	1547-1557	conclusion	_
@@ -277,6 +285,7 @@
 8-34	1789-1799	addictions	_
 8-35	1800-1801	.	_
 
+Text=Materials and Methods Participants The study consisted of 27 community-recruited, native English-speaking participants, as described previously, as well as in “ Supplementary Material. ” Participants completed the Spirituality Scale, a global, holistic measure of human spirituality.
 9-1	1802-1811	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-2	1812-1815	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-3	1816-1823	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -320,6 +329,7 @@
 9-41	2077-2089	spirituality	_
 9-42	2090-2091	.	_
 
+Text=Study procedures were approved by the Yale Human Investigations Committee and were in accordance with the Declaration of Helsinki.
 10-1	2092-2097	Study	_
 10-2	2098-2108	procedures	_
 10-3	2109-2113	were	_
@@ -341,6 +351,7 @@
 10-19	2213-2221	Helsinki	_
 10-20	2222-2223	.	_
 
+Text=Participants provided written informed consent and received financial compensation for completing study procedures.
 11-1	2224-2236	Participants	_
 11-2	2237-2245	provided	_
 11-3	2246-2253	written	_
@@ -356,6 +367,7 @@
 11-13	2328-2338	procedures	_
 11-14	2339-2340	.	_
 
+Text=fMRI task, functional image acquisition, and processing The fMRI task, functional image acquisition, and image processing were performed as described previously and detailed in the “ Supplementary Material. ” Independent component analysis and network selection sICA was performed on the fMRI time series using the Group ICA of fMRI Toolbox (GIFT v1.3h; http: //mialab.mrn.org/software/gift/).
 12-1	2341-2345	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 12-2	2346-2350	task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 12-3	2351-2352	,	_
@@ -420,6 +432,7 @@
 12-62	2740-2741	)	_
 12-63	2742-2743	.	_
 
+Text=An estimate of 35 maximally independent components was determined using a minimum description length criterion.
 13-1	2744-2746	An	_
 13-2	2747-2755	estimate	_
 13-3	2756-2758	of	_
@@ -437,6 +450,7 @@
 13-15	2845-2854	criterion	_
 13-16	2855-2856	.	_
 
+Text=Data from all participants were concatenated into a single group and reduced through a principle component analysis.
 14-1	2857-2861	Data	_
 14-2	2862-2866	from	_
 14-3	2867-2870	all	_
@@ -456,6 +470,7 @@
 14-17	2964-2972	analysis	_
 14-18	2973-2974	.	_
 
+Text=Neural network algorithms were used to extract the 35 components from the group aggregate, and extraction was repeated 50 times using ICASSO to assess stability and consistency of identified components.
 15-1	2975-2981	Neural	_
 15-2	2982-2989	network	_
 15-3	2990-3000	algorithms	_
@@ -489,6 +504,7 @@
 15-31	3167-3177	components	_
 15-32	3178-3179	.	_
 
+Text=Component time courses and spatial source maps were reconstructed and scaled to percent signal change for each session for each participant.
 16-1	3180-3189	Component	_
 16-2	3190-3194	time	_
 16-3	3195-3202	courses	_
@@ -512,6 +528,7 @@
 16-21	3308-3319	participant	_
 16-22	3320-3321	.	_
 
+Text=The spatial source maps across the six runs of each participant were averaged together, and the average spatial maps for each component were tested for significant regional loading using one-sample t-tests in SPM12 at a voxel-level family-wise error (FWE) -corrected pFWE <.01 and a cluster extent threshold of 100 voxels.
 17-1	3322-3325	The	_
 17-2	3326-3333	spatial	_
 17-3	3334-3340	source	_
@@ -568,6 +585,7 @@
 17-54	3641-3647	voxels	_
 17-55	3648-3649	.	_
 
+Text=Positive and negative clusters in functional networks represent inversely related component time courses, indicating simultaneous positive and negative engagement of different regions in the same network.
 18-1	3650-3658	Positive	_
 18-2	3659-3662	and	_
 18-3	3663-3671	negative	_
@@ -597,6 +615,7 @@
 18-27	3847-3854	network	_
 18-28	3855-3856	.	_
 
+Text=That is, when a task-related β-weight is greater than zero, indicating positive network engagement, positive clusters exhibit positive signals (i.e., similar to the hemodynamic response function response) and negative clusters exhibit negative signals.
 19-1	3857-3861	That	_
 19-2	3862-3864	is	_
 19-3	3865-3866	,	_
@@ -638,6 +657,7 @@
 19-39	4107-4114	signals	_
 19-40	4115-4116	.	_
 
+Text=By comparison, when a task-related β-weight is less than zero, indicating negative network engagement, positive clusters exhibit negative signals and negative clusters exhibit positive signals.
 20-1	4117-4119	By	_
 20-2	4120-4130	comparison	_
 20-3	4131-4132	,	_
@@ -668,6 +688,7 @@
 20-28	4305-4312	signals	_
 20-29	4313-4314	.	_
 
+Text=To identify components that were differentially associated with guided imagery conditions, multiple regression analyses were used to assess the task-relatedness of the component time courses.
 21-1	4315-4317	To	_
 21-2	4318-4326	identify	_
 21-3	4327-4337	components	_
@@ -696,6 +717,7 @@
 21-26	4499-4506	courses	_
 21-27	4507-4508	.	_
 
+Text=Guided imagery runs were subdivided into 20 s blocks of interest: the rest period immediately preceding audio (R1), the two blocks at the beginning of audio (B1 and B2), the final blocks of audio (E1 and E2), and the rest period immediately after audio (R2; Figure 1).
 22-1	4509-4515	Guided	_
 22-2	4516-4523	imagery	_
 22-3	4524-4528	runs	_
@@ -758,6 +780,7 @@
 22-60	4788-4789	)	_
 22-61	4790-4791	.	_
 
+Text=We chose to focus on the beginning and end of the conditions based on our prior studies of emotional and motivational states (including gambling urges), given dynamic changes in brain function during these states.
 23-1	4792-4794	We	_
 23-2	4795-4800	chose	_
 23-3	4801-4803	to	_
@@ -797,6 +820,7 @@
 23-37	5001-5007	states	_
 23-38	5008-5009	.	_
 
+Text=This approach also permitted examination of similar blocks across subjects, given slight variation in temporal lengths of audiotapes.
 24-1	5010-5014	This	_
 24-2	5015-5023	approach	_
 24-3	5024-5028	also	_
@@ -818,6 +842,7 @@
 24-19	5133-5143	audiotapes	_
 24-20	5144-5145	.	_
 
+Text=Expected hemodynamic response functions were modeled for the six blocks and the single block of audio between B2 and E1 for each guided imagery run and compared to the time course of that run for each network for each participant.
 25-1	5146-5154	Expected	_
 25-2	5155-5166	hemodynamic	_
 25-3	5167-5175	response	_
@@ -860,6 +885,7 @@
 25-40	5364-5375	participant	_
 25-41	5376-5377	.	_
 
+Text=This process produced β-weights that represent a measure of “ engagement ” or “ recruitment ” of each network associated with each task event.
 26-1	5378-5382	This	_
 26-2	5383-5390	process	_
 26-3	5391-5399	produced	_
@@ -886,6 +912,7 @@
 26-24	5514-5519	event	_
 26-25	5520-5521	.	_
 
+Text=The β-weights for each block from the two runs of each condition were averaged for each participant.
 27-1	5522-5525	The	_
 27-2	5526-5535	β-weights	_
 27-3	5536-5539	for	_
@@ -905,6 +932,7 @@
 27-17	5610-5621	participant	_
 27-18	5622-5623	.	_
 
+Text=To identify components engaged during spirituality imagery, one-sample t-tests were performed on the β-weights of each block (B1, B2, E1, and E2) of the spirituality condition, identifying eight functional networks displaying significant spirituality-related engagement at a false discovery rate (FDR) corrected pFDR <.05.
 28-1	5624-5626	To	_
 28-2	5627-5635	identify	_
 28-3	5636-5646	components	_
@@ -960,6 +988,7 @@
 28-53	5952-5955	.05	_
 28-54	5956-5957	.	_
 
+Text=Two-way, four (block; B1–E2) by three (condition; spiritual, stressful, and neutral-relaxing) repeated-measures analyses of variance (ANOVAs) were then performed on β-weights to identify spirituality-related networks displaying a main effect of condition and/or a block-by-condition interaction, using Greenhouse–Geisser correction for sphericity violations.
 29-1	5958-5965	Two-way	_
 29-2	5966-5967	,	_
 29-3	5968-5972	four	_
@@ -1015,6 +1044,7 @@
 29-53	6317-6327	violations	_
 29-54	6328-6329	.	_
 
+Text=One functional network displayed a main effect of condition and a block-by-condition interaction (Bonferroni-corrected α .05/8 = .006).
 30-1	6330-6333	One	_
 30-2	6334-6344	functional	_
 30-3	6345-6352	network	_
@@ -1037,6 +1067,7 @@
 30-20	6465-6466	)	_
 30-21	6467-6468	.	_
 
+Text=Additional statistical procedures Ratings of vividness following guided imagery conditions were tested using a repeated-measures ANOVA.
 31-1	6469-6479	Additional	_
 31-2	6480-6491	statistical	_
 31-3	6492-6502	procedures	_
@@ -1055,6 +1086,7 @@
 31-16	6598-6603	ANOVA	_
 31-17	6604-6605	.	_
 
+Text=Paired t-tests were performed on average ratings of anxiety and spirituality to compare ratings before and after guided imagery.
 32-1	6606-6612	Paired	_
 32-2	6613-6620	t-tests	_
 32-3	6621-6625	were	_
@@ -1076,6 +1108,7 @@
 32-19	6726-6733	imagery	_
 32-20	6734-6735	.	_
 
+Text=Correlational analyses were performed to explore potential relationships between network engagement and subjective responses during the scanning sessions as well as a questionnaire assessment of spirituality on a Spirituality Scale.
 33-1	6736-6749	Correlational	_
 33-2	6750-6758	analyses	_
 33-3	6759-6763	were	_
@@ -1108,6 +1141,7 @@
 33-30	6962-6967	Scale	http://maven.renci.org/NeuroBridge/neurobridge#Scale
 33-31	6968-6969	.	_
 
+Text=Change in network engagement was computed as the difference in average β-weight during the final two blocks of each guided imagery (βE) relative to the average β-weight from the first two blocks (βB) of imagery.
 34-1	6970-6976	Change	_
 34-2	6977-6979	in	_
 34-3	6980-6987	network	_
@@ -1149,6 +1183,7 @@
 34-39	7177-7184	imagery	_
 34-40	7185-7186	.	_
 
+Text=Differences in β-weights were correlated with changes in spirituality/anxiety ratings following guided imagery relative to ratings preceding imagery.
 35-1	7187-7198	Differences	_
 35-2	7199-7201	in	_
 35-3	7202-7211	β-weights	_
@@ -1169,6 +1204,7 @@
 35-18	7328-7335	imagery	_
 35-19	7336-7337	.	_
 
+Text=The spirituality questionnaire was not completed by three participants; thus, correlations between network engagement and Spirituality Scale total scores were performed on a subset of 24 participants.
 36-1	7338-7341	The	_
 36-2	7342-7354	spirituality	_
 36-3	7355-7368	questionnaire	_
@@ -1200,6 +1236,7 @@
 36-29	7527-7539	participants	_
 36-30	7540-7541	.	_
 
+Text=Ethics All procedures performed in human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards.
 37-1	7542-7548	Ethics	_
 37-2	7549-7552	All	_
 37-3	7553-7563	procedures	_

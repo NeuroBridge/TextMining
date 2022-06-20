@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Abnormal degree centrality in chronic users of codeine-containing cough syrups: A resting-state functional magnetic resonance imaging study Codeine-containing cough syrups (CCS) have become one of the most popular drugs of abuse in young population worldwide.
 1-1	0-8	Abnormal	_
 1-2	9-15	degree	_
 1-3	16-26	centrality	_
@@ -42,6 +43,7 @@
 1-38	252-261	worldwide	_
 1-39	262-263	.	_
 
+Text=However, the neurobiological mechanisms underlying CCS-dependence are yet ill-defined.
 2-1	264-271	However	_
 2-2	272-273	,	_
 2-3	274-277	the	_
@@ -54,6 +56,7 @@
 2-10	339-350	ill-defined	_
 2-11	351-352	.	_
 
+Text=Therefore, understanding the brain abnormalities in chronic users of CCS is crucial for developing effective interventions.
 3-1	353-362	Therefore	_
 3-2	363-364	,	_
 3-3	365-378	understanding	_
@@ -73,6 +76,7 @@
 3-17	463-476	interventions	_
 3-18	477-478	.	_
 
+Text=The present study depicted the intrinsic dysconnectivity pattern of whole-brain functional networks at the voxel level in chronic users of CCS.
 4-1	479-482	The	_
 4-2	483-490	present	_
 4-3	491-496	study	_
@@ -96,6 +100,7 @@
 4-21	618-621	CCS	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 4-22	622-623	.	_
 
+Text=In addition, the degree centrality (DC) changes were correlated to the Barratt Impulsiveness Scale (BIS-11) total score, dose, duration of CCS use, and the age at first use of cough syrups.
 5-1	624-626	In	_
 5-2	627-635	addition	_
 5-3	636-637	,	_
@@ -137,6 +142,7 @@
 5-39	814-820	syrups	_
 5-40	821-822	.	_
 
+Text=The current study included 38 chronic CCS users and 34 matched control subjects.
 6-1	823-826	The	_
 6-2	827-834	current	_
 6-3	835-840	study	_
@@ -152,6 +158,7 @@
 6-13	894-902	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 6-14	903-904	.	_
 
+Text=All patients were evaluated using the BIS-11.
 7-1	905-908	All	_
 7-2	909-917	patients	_
 7-3	918-922	were	_
@@ -161,6 +168,7 @@
 7-7	943-949	BIS-11	_
 7-8	950-951	.	_
 
+Text=Next, resting-state functional magnetic resonance imaging (rs-fMRI) datasets were acquired from these CCS users and controls.
 8-1	952-956	Next	_
 8-2	957-958	,	_
 8-3	959-972	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -182,6 +190,7 @@
 8-19	1071-1079	controls	_
 8-20	1080-1081	.	_
 
+Text=Whole-brain connectivity was analyzed using a graph theory approach: degree centrality (DC).
 9-1	1082-1093	Whole-brain	_
 9-2	1094-1106	connectivity	_
 9-3	1107-1110	was	_
@@ -199,6 +208,7 @@
 9-15	1175-1176	)	_
 9-16	1177-1178	.	_
 
+Text=CCS-dependent individuals exhibited low DC values in the left inferior parietal lobule and the left middle temporal gyrus, while high DC values were noted in the right pallidum and the right hippocampus (P <0.01, AlphaSim corrected).
 10-1	1179-1192	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 10-2	1193-1204	individuals	_
 10-3	1205-1214	exhibited	_
@@ -242,6 +252,7 @@
 10-41	1415-1416	)	_
 10-42	1417-1418	.	_
 
+Text=Also, significant correlations were established between average DC value in the left inferior parietal lobule and attentional impulsivity scores and the age at first CCS use.
 11-1	1419-1423	Also	_
 11-2	1424-1425	,	_
 11-3	1426-1437	significant	_
@@ -271,6 +282,7 @@
 11-27	1590-1593	use	_
 11-28	1594-1595	.	_
 
+Text=The rs-fMRI study suggested that the abnormal intrinsic dysconnectivity pattern of whole-brain functional networks may provide an insight into the neural substrates of abnormalities in the cognitive control circuit, the reward circuit, and the learning and memory circuit in CCS-dependent individuals.
 12-1	1596-1599	The	_
 12-2	1600-1607	rs-fMRI	_
 12-3	1608-1613	study	_
@@ -316,6 +328,7 @@
 12-43	1887-1898	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 12-44	1899-1900	.	_
 
+Text=Highlights The abuse of CCS has gained a severe foothold among young individuals worldwide.
 13-1	1901-1911	Highlights	_
 13-2	1912-1915	The	_
 13-3	1916-1921	abuse	_
@@ -332,6 +345,7 @@
 13-14	1982-1991	worldwide	_
 13-15	1992-1993	.	_
 
+Text=DC is one of the more reliable and compelling measures among several nodal network metrics.
 14-1	1994-1996	DC	_
 14-2	1997-1999	is	_
 14-3	2000-2003	one	_
@@ -349,6 +363,7 @@
 14-15	2077-2084	metrics	_
 14-16	2085-2086	.	_
 
+Text=The present study depicted intrinsic dysconnectivity pattern of whole-brain functional networks in CCS-dependent individuals.
 15-1	2087-2090	The	_
 15-2	2091-2098	present	_
 15-3	2099-2104	study	_
@@ -365,6 +380,7 @@
 15-14	2200-2211	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 15-15	2212-2213	.	_
 
+Text=CCS-dependent individuals showed altered DC in the right pallidum, right hippocampus, left IPL and left middle temporal gyrus.
 16-1	2214-2227	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 16-2	2228-2239	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 16-3	2240-2246	showed	_
@@ -387,6 +403,7 @@
 16-20	2336-2341	gyrus	_
 16-21	2342-2343	.	_
 
+Text=Significant correlations were established between average DC value in the left IPL and attentional impulsivity scores and the age at first CCS use.
 17-1	2344-2355	Significant	_
 17-2	2356-2368	correlations	_
 17-3	2369-2373	were	_
@@ -412,6 +429,7 @@
 17-23	2487-2490	use	_
 17-24	2491-2492	.	_
 
+Text=Materials and methods Participants This prospective study was approved by the Ethics Committee of Guangdong Second Provincial General Hospital.
 18-1	2493-2502	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 18-2	2503-2506	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 18-3	2507-2514	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -433,6 +451,7 @@
 18-19	2627-2635	Hospital	_
 18-20	2636-2637	.	_
 
+Text=Written informed consent was obtained from all subjects.
 19-1	2638-2645	Written	_
 19-2	2646-2654	informed	_
 19-3	2655-2662	consent	_
@@ -443,6 +462,7 @@
 19-8	2685-2693	subjects	_
 19-9	2694-2695	.	_
 
+Text=A total of 72 right-handed participants, including 34 control subjects and 38 CCS-dependent individuals, were enrolled in this study.
 20-1	2696-2697	A	_
 20-2	2698-2703	total	_
 20-3	2704-2706	of	_
@@ -466,6 +486,7 @@
 20-21	2825-2830	study	_
 20-22	2831-2832	.	_
 
+Text=The CCS-dependent individuals were recruited from the patients seeking treatment at the Addiction Medicine Division of the Guangdong Second Provincial General Hospital.
 21-1	2833-2836	The	_
 21-2	2837-2850	CCS-dependent	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 21-3	2851-2862	individuals	_
@@ -490,6 +511,7 @@
 21-22	2992-3000	Hospital	_
 21-23	3001-3002	.	_
 
+Text=All the patients were screened based on the DSM-IV criteria from medical history and underwent a urine test and an interview on the same day.
 22-1	3003-3006	All	_
 22-2	3007-3010	the	_
 22-3	3011-3019	patients	_
@@ -517,6 +539,7 @@
 22-25	3140-3143	day	_
 22-26	3144-3145	.	_
 
+Text=All participants regularly smoked cigarettes but did not use any type of psychotropic agents prior to the rs-fMRI scan.
 23-1	3146-3149	All	_
 23-2	3150-3162	participants	_
 23-3	3163-3172	regularly	_
@@ -538,6 +561,7 @@
 23-19	3260-3264	scan	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 23-20	3265-3266	.	_
 
+Text=The exclusion criteria for all participants included central nervous system diseases, schizophrenia, bipolar disorder, prior significant head trauma, positive human immunodeficiency virus (HIV) status, diabetes, hepatitis C, other major medical illness, and left-handedness.
 24-1	3267-3270	The	_
 24-2	3271-3280	exclusion	_
 24-3	3281-3289	criteria	_
@@ -583,6 +607,7 @@
 24-43	3535-3550	left-handedness	_
 24-44	3551-3552	.	_
 
+Text=The inclusion criteria for the control subjects was the absence of diagnosis of any type of substance abuse or dependence.
 25-1	3553-3556	The	_
 25-2	3557-3566	inclusion	_
 25-3	3567-3575	criteria	_
@@ -605,6 +630,7 @@
 25-20	3664-3674	dependence	_
 25-21	3675-3676	.	_
 
+Text=Impulsivity assessment BIS-11 was used for assessing the impulsivity.
 26-1	3677-3688	Impulsivity	_
 26-2	3689-3699	assessment	_
 26-3	3700-3706	BIS-11	_
@@ -616,6 +642,7 @@
 26-9	3734-3745	impulsivity	_
 26-10	3746-3747	.	_
 
+Text=This 30-item self-rated scale has three oblique factors: attentional/cognitive that measures the toleration for cognitive complexity and persistence; motor that estimates the tendency to act on the spur of the moment; and non-planning impulsivity, which evaluates the lack of sense of the future.
 27-1	3748-3752	This	_
 27-2	3753-3760	30-item	_
 27-3	3761-3771	self-rated	_
@@ -665,6 +692,7 @@
 27-47	4041-4047	future	_
 27-48	4048-4049	.	_
 
+Text=Items are rated from 1 (rarely/never) to 4 (almost always/always).
 28-1	4050-4055	Items	_
 28-2	4056-4059	are	_
 28-3	4060-4065	rated	_
@@ -681,6 +709,7 @@
 28-14	4118-4119	)	_
 28-15	4120-4121	.	_
 
+Text=To determine the overall impulsiveness scores, all items are summed; high scores indicate remarkable impulsivity.
 29-1	4122-4124	To	_
 29-2	4125-4134	determine	_
 29-3	4135-4138	the	_
@@ -700,6 +729,7 @@
 29-17	4225-4236	impulsivity	_
 29-18	4237-4238	.	_
 
+Text=BIS-11 is a valid and reliable instrument for healthy Chinese and psychiatric populations.
 30-1	4239-4245	BIS-11	_
 30-2	4246-4248	is	_
 30-3	4249-4250	a	_
@@ -715,6 +745,7 @@
 30-13	4317-4328	populations	_
 30-14	4329-4330	.	_
 
+Text=Data acquisition All MRI datasets were obtained using a Philips Achieva 1.5 T Nova dual MR scanner at the Department of Medical Imaging, Guangdong Second Provincial General Hospital.
 31-1	4331-4335	Data	_
 31-2	4336-4347	acquisition	_
 31-3	4348-4351	All	_
@@ -746,6 +777,7 @@
 31-29	4505-4513	Hospital	_
 31-30	4514-4515	.	_
 
+Text=These datasets included rs-fMRI dataset and T1-weighted structural images.
 32-1	4516-4521	These	_
 32-2	4522-4530	datasets	_
 32-3	4531-4539	included	_
@@ -757,6 +789,7 @@
 32-9	4583-4589	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 32-10	4590-4591	.	_
 
+Text=The rs-fMRI dataset [22 axial slices, repetition time (TR) /echo time (TE) = 2000 ms/50 ms, matrix = 64 × 64, field of view (FOV) = 230 × 230 mm2, slice thickness = 4.5 mm without gap, flip angle = 90°] was acquired using an echo planar imaging (EPI) sequence.
 33-1	4592-4595	The	_
 33-2	4596-4603	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 33-3	4604-4611	dataset	_
@@ -824,6 +857,7 @@
 33-65	4858-4866	sequence	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 33-66	4867-4868	.	_
 
+Text=Each functional run contained 240 volumes (8 min) [the slices were approximately along the anterior commissure-posterior commissure (AC-PC) line and covered approximately 230 to 60 in the inferosuperior direction], and the subjects were asked to lie quietly with their eyes closed and avoid eye movement or thinking of anything specific or falling asleep while in the scanner, during the rs-fMRI data acquisition.
 34-1	4869-4873	Each	_
 34-2	4874-4884	functional	_
 34-3	4885-4888	run	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -896,6 +930,7 @@
 34-70	5278-5289	acquisition	_
 34-71	5290-5291	.	_
 
+Text=Sagittal structural images (160 sagittal slices, TR/TE = 25 ms/4.1 ms, thickness = 1.0 mm, no gap, in-plane resolution = 231 × 232, FOV = 230 × 230 mm, flip angle = 30°) were acquired using a fast field echo (FFE) three-dimensional (3D) T1-weighted sequence.
 35-1	5292-5300	Sagittal	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 35-2	5301-5311	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 35-3	5312-5318	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -955,6 +990,7 @@
 35-57	5553-5561	sequence	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 35-58	5562-5563	.	_
 
+Text=Data pre-processing and DC calculation Data Processing Assistant for Resting-State Functional MR Imaging toolbox (http: //www.restfmri.net.sci-hub.cc/forum/DPARSF,) was used for the post-processing of the imaging data.
 36-1	5564-5568	Data	_
 36-2	5569-5583	pre-processing	_
 36-3	5584-5587	and	_
@@ -986,6 +1022,7 @@
 36-29	5781-5785	data	_
 36-30	5786-5787	.	_
 
+Text=Before pre-processing, the first 10 volumes were discarded for each subject so that magnetization reached a steady state and subjects adapted to the MRI scanning noise.
 37-1	5788-5794	Before	_
 37-2	5795-5809	pre-processing	_
 37-3	5810-5811	,	_
@@ -1015,6 +1052,7 @@
 37-27	5951-5956	noise	_
 37-28	5957-5958	.	_
 
+Text=Then, the remaining 230 fMRI images were obtained with slice time correction for the acquisition time delay and realignment of the head motion correction.
 38-1	5959-5963	Then	_
 38-2	5964-5965	,	_
 38-3	5966-5969	the	_
@@ -1042,6 +1080,7 @@
 38-25	6103-6113	correction	_
 38-26	6114-6115	.	_
 
+Text=One patient and two control subjects, who showed head motion> 1.5 mm or 1.5° during image acquisition, were excluded in subsequent analysis.
 39-1	6116-6119	One	_
 39-2	6120-6127	patient	_
 39-3	6128-6131	and	_
@@ -1069,6 +1108,7 @@
 39-25	6250-6258	analysis	_
 39-26	6259-6260	.	_
 
+Text=All realigned images were normalized to the standard Montreal Neurological Institute (MNI) template by applying the echo planar imaging (EPI) template at a 3 × 3 × 3 mm3 resolution.
 40-1	6261-6264	All	_
 40-2	6265-6274	realigned	_
 40-3	6275-6281	images	_
@@ -1105,6 +1145,7 @@
 40-34	6435-6445	resolution	_
 40-35	6446-6447	.	_
 
+Text=The normalized functional image was subjected to spatial smoothing [6 mm half high full-width (FWHM) Gaussian kernel].
 41-1	6448-6451	The	_
 41-2	6452-6462	normalized	_
 41-3	6463-6473	functional	_
@@ -1128,6 +1169,7 @@
 41-21	6568-6569	]	_
 41-22	6570-6571	.	_
 
+Text=Finally, the imaging data were processed to remove the linear trends and filtered using typical temporal bandpass (0.01–0.08 Hz) to reduce the low-frequency drift and high-frequency noise.
 42-1	6572-6579	Finally	_
 42-2	6580-6581	,	_
 42-3	6582-6585	the	_
@@ -1160,6 +1202,7 @@
 42-30	6757-6762	noise	_
 42-31	6763-6764	.	_
 
+Text=For calculating the DC, we performed voxel-wise voxel-based whole-brain correlation analysis on the pre-processed fMRI data, as described previously.
 43-1	6765-6768	For	_
 43-2	6769-6780	calculating	_
 43-3	6781-6784	the	_
@@ -1183,6 +1226,7 @@
 43-21	6905-6915	previously	_
 43-22	6916-6917	.	_
 
+Text=The time course of each voxel in each brain was correlated to every other voxel time course in the GM mask.
 44-1	6918-6921	The	_
 44-2	6922-6926	time	_
 44-3	6927-6933	course	_
@@ -1206,6 +1250,7 @@
 44-21	7020-7024	mask	_
 44-22	7025-7026	.	_
 
+Text=Thus, we could acquire a n × n matrix of Pearson's correlation coefficients between any pair of voxels, where n is the voxel number of the GM mask.
 45-1	7027-7031	Thus	_
 45-2	7032-7033	,	_
 45-3	7034-7036	we	_
@@ -1239,6 +1284,7 @@
 45-31	7172-7176	mask	_
 45-32	7177-7178	.	_
 
+Text=Next, we transformed the Pearson's correlation data into normally distributed Fisher Z-scores and constructed the whole-brain functional network by thresholding each correlation at r> 0.25.
 46-1	7179-7183	Next	_
 46-2	7184-7185	,	_
 46-3	7186-7188	we	_
@@ -1269,6 +1315,7 @@
 46-28	7366-7370	0.25	_
 46-29	7371-7372	.	_
 
+Text=The threshold was the default setting while constructing the DC map.
 47-1	7373-7376	The	_
 47-2	7377-7386	threshold	_
 47-3	7387-7390	was	_
@@ -1282,6 +1329,7 @@
 47-11	7437-7440	map	_
 47-12	7441-7442	.	_
 
+Text=Only positive Pearson's correlation coefficients were considered in the present study.
 48-1	7443-7447	Only	_
 48-2	7448-7456	positive	_
 48-3	7457-7464	Pearson	_
@@ -1296,6 +1344,7 @@
 48-12	7524-7529	study	_
 48-13	7530-7531	.	_
 
+Text=For a given voxel, the DC was calculated as the sum of the significant connections at the individual level.
 49-1	7532-7535	For	_
 49-2	7536-7537	a	_
 49-3	7538-7543	given	_
@@ -1318,6 +1367,7 @@
 49-20	7634-7639	level	_
 49-21	7640-7641	.	_
 
+Text=As described by previous studies, DC represents the number of direct connections for a given voxel in the voxel-based graphs.
 50-1	7642-7644	As	_
 50-2	7645-7654	described	_
 50-3	7655-7657	by	_
@@ -1341,6 +1391,7 @@
 50-21	7761-7767	graphs	_
 50-22	7768-7769	.	_
 
+Text=It has been widely used to represent the node characteristics of large-scale brain intrinsic connectivity networks.
 51-1	7770-7772	It	_
 51-2	7773-7776	has	_
 51-3	7777-7781	been	_
@@ -1359,6 +1410,7 @@
 51-16	7876-7884	networks	_
 51-17	7885-7886	.	_
 
+Text=Statistical analysis The differences in age, education, and nicotine use between the CCS-dependent and control groups were assessed by two-sample two-tailed t-tests using SPSS statistical software.
 52-1	7887-7898	Statistical	_
 52-2	7899-7907	analysis	_
 52-3	7908-7911	The	_
@@ -1389,6 +1441,7 @@
 52-28	8077-8085	software	_
 52-29	8086-8087	.	_
 
+Text=A two-tailed Pearson's chi-square test was performed to determine the differences in the gender between the two groups.
 53-1	8088-8089	A	_
 53-2	8090-8100	two-tailed	_
 53-3	8101-8108	Pearson	_
@@ -1410,6 +1463,7 @@
 53-19	8201-8207	groups	_
 53-20	8208-8209	.	_
 
+Text=To examine the between-group differences in the DC using zDC maps, a two-sample t-test was performed between the two groups using REST.
 54-1	8210-8212	To	_
 54-2	8213-8220	examine	_
 54-3	8221-8224	the	_
@@ -1435,6 +1489,7 @@
 54-23	8341-8345	REST	_
 54-24	8346-8347	.	_
 
+Text=A correction for multiple comparisons was performed by Monte Carlo simulation using the AlphaSim program, (http: //afni.nimh.nih.gov).
 55-1	8348-8349	A	_
 55-2	8350-8360	correction	_
 55-3	8361-8364	for	_
@@ -1458,6 +1513,7 @@
 55-21	8484-8485	)	_
 55-22	8486-8487	.	_
 
+Text=The AlphaSim program was implemented in the REST software by combining the height threshold of P <0.001 and an extent threshold of P <0.01, which corresponded to a corrected P <0.01.
 56-1	8488-8491	The	_
 56-2	8492-8500	AlphaSim	_
 56-3	8501-8508	program	_
@@ -1495,6 +1551,7 @@
 56-35	8669-8673	0.01	_
 56-36	8674-8675	.	_
 
+Text=The average DC values of all voxels in the significantly different regions demonstrated by voxel-based analysis were extracted independently using the extract time series in REST and entered into SPSS.
 57-1	8676-8679	The	_
 57-2	8680-8687	average	_
 57-3	8688-8690	DC	_
@@ -1527,6 +1584,7 @@
 57-30	8872-8876	SPSS	_
 57-31	8877-8878	.	_
 
+Text=Then, a Pearson's correlation analysis was performed to clarify the relationships between abnormal DC values of significantly different regions and clinical characteristics in CCS-dependent patients, including the duration of CCS usage, age at first CCS use, and BIS-11 scores; the significance levels were set at P <0.05 (two-tailed).
 58-1	8879-8883	Then	_
 58-2	8884-8885	,	_
 58-3	8886-8887	a	_

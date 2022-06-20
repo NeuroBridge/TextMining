@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Polygenic Risk Score for Schizophrenia and Face-Processing Network in Young Adulthood Abstract Development of schizophrenia relates to both genetic and environmental factors.
 1-1	0-9	Polygenic	_
 1-2	10-14	Risk	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 1-3	15-20	Score	_
@@ -26,6 +27,7 @@
 1-22	166-173	factors	_
 1-23	174-175	.	_
 
+Text=Functional deficits in many cognitive domains, including the ability to communicate in social interactions and impaired recognition of facial expressions, are common for patients with schizophrenia and might also be present in individuals at risk of developing schizophrenia.
 2-1	176-186	Functional	_
 2-2	187-195	deficits	_
 2-3	196-198	in	_
@@ -68,6 +70,7 @@
 2-40	439-452	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-41	453-454	.	_
 
+Text=Here we explore whether an individual ’ s polygenic risk score (PRS) for schizophrenia is associated with the degree of interregional similarities in blood oxygen level–dependent (BOLD) signal and gray matter volume of the face-processing network and whether the exposure to early adversity moderates this association.
 3-1	455-459	Here	_
 3-2	460-462	we	_
 3-3	463-470	explore	_
@@ -120,6 +123,7 @@
 3-50	765-776	association	_
 3-51	777-778	.	_
 
+Text=A total of 90 individuals (mean age 22 years, both functional and structural data available) were used for discovery analyses, and 211 individuals (mean age 26 years, structural data available) were used for replication of the structural findings.
 4-1	779-780	A	_
 4-2	781-786	total	_
 4-3	787-789	of	_
@@ -167,6 +171,7 @@
 4-45	1024-1032	findings	_
 4-46	1033-1034	.	_
 
+Text=Both samples were drawn from the Northern Finland Birth Cohort 1986.
 5-1	1035-1039	Both	_
 5-2	1040-1047	samples	_
 5-3	1048-1052	were	_
@@ -180,6 +185,7 @@
 5-11	1098-1102	1986	_
 5-12	1103-1104	.	_
 
+Text=We found that the degree of interregional similarities in BOLD signal and gray matter volume vary as a function of PRS; lowest interregional correlation (both measures) was observed in individuals with high PRS.
 6-1	1105-1107	We	_
 6-2	1108-1113	found	_
 6-3	1114-1118	that	_
@@ -218,6 +224,7 @@
 6-36	1315-1318	PRS	_
 6-37	1319-1320	.	_
 
+Text=We also replicated the gray matter volume finding.
 7-1	1321-1323	We	_
 7-2	1324-1328	also	_
 7-3	1329-1339	replicated	_
@@ -228,6 +235,7 @@
 7-8	1363-1370	finding	_
 7-9	1371-1372	.	_
 
+Text=We did not find evidence for an interaction between early adversity and PRS on the interregional correlation of BOLD signal and gray matter volume.
 8-1	1373-1375	We	_
 8-2	1376-1379	did	_
 8-3	1380-1383	not	_
@@ -254,6 +262,7 @@
 8-24	1513-1519	volume	_
 8-25	1520-1521	.	_
 
+Text=We speculate that the observed group differences in PRS-related correlations in both modalities may result from differences in the concurrent functional engagement of the face-processing regions over time, eg, via differences in exposure to social interaction with other people.
 9-1	1522-1524	We	_
 9-2	1525-1534	speculate	_
 9-3	1535-1539	that	_
@@ -297,6 +306,7 @@
 9-41	1795-1801	people	_
 9-42	1802-1803	.	_
 
+Text=Materials and Methods Participants Participants were born between July 1, 1985, and June 30, 1986, in the Northern Finland provinces.
 10-1	1804-1813	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	1814-1817	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1818-1825	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -323,6 +333,7 @@
 10-24	1931-1940	provinces	_
 10-25	1941-1942	.	_
 
+Text=The local ethical committee approved the study.
 11-1	1943-1946	The	_
 11-2	1947-1952	local	_
 11-3	1953-1960	ethical	_
@@ -332,6 +343,7 @@
 11-7	1984-1989	study	_
 11-8	1990-1991	.	_
 
+Text=GWAS data in the NFBC 1986 originates from the visit conducted between August 2001 and June 2002 (N = 3743 in the final sample).
 12-1	1992-1996	GWAS	_
 12-2	1997-2001	data	_
 12-3	2002-2004	in	_
@@ -360,6 +372,7 @@
 12-26	2120-2121	)	_
 12-27	2122-2123	.	_
 
+Text=Using this sample, we explored whether PRS relates to later-life schizophrenia diagnosis.
 13-1	2124-2129	Using	_
 13-2	2130-2134	this	_
 13-3	2135-2141	sample	_
@@ -375,6 +388,7 @@
 13-13	2204-2213	diagnosis	_
 13-14	2214-2215	.	_
 
+Text=The register-based information about the individual ’ s later-life schizophrenia (followed until 2016) was formed by using the following nation-wide registry: Care Register for Health Care, Finnish Centre for Pensions, and the registers of the National Social Insurance Institute.
 14-1	2216-2219	The	_
 14-2	2220-2234	register-based	_
 14-3	2235-2246	information	_
@@ -421,6 +435,7 @@
 14-44	2491-2500	Institute	_
 14-45	2501-2502	.	_
 
+Text=We used both “ broad ” (International Classification of Diseases, Tenth Revision [ICD-10]: F20, F22, F24, and F25) and “ narrow ” (ICD-10: F20) definition of schizophrenia.
 15-1	2503-2505	We	_
 15-2	2506-2510	used	_
 15-3	2511-2515	both	_
@@ -462,6 +477,7 @@
 15-39	2673-2686	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 15-40	2687-2688	.	_
 
+Text=Next, two NFBC 1986 subsamples (referred to as neuroimaging subsamples hereinafter) were used for discovery and replication analyses.
 16-1	2689-2693	Next	_
 16-2	2694-2695	,	_
 16-3	2696-2699	two	_
@@ -485,6 +501,7 @@
 16-21	2816-2824	analyses	_
 16-22	2825-2826	.	_
 
+Text=These subsamples are described in detail in the supplementary material.
 17-1	2827-2832	These	_
 17-2	2833-2843	subsamples	_
 17-3	2844-2847	are	_
@@ -497,6 +514,7 @@
 17-10	2889-2897	material	_
 17-11	2898-2899	.	_
 
+Text=Briefly, the discovery sample (N = 90) was collected between 2007 and 2010 to investigate the risk of psychosis and the replication sample (N = 211) was obtained between 2011 and 2013 to examine associations between maternal smoking during pregnancy and the offspring ’ s brain and mental health.
 18-1	2900-2907	Briefly	_
 18-2	2908-2909	,	_
 18-3	2910-2913	the	_
@@ -553,6 +571,7 @@
 18-54	3194-3200	health	_
 18-55	3201-3202	.	_
 
+Text=Polygenic Risk Score Detailed information on the collection of the genetic samples and quality control of the genome-wide data are provided in the supplementary material.
 19-1	3203-3212	Polygenic	_
 19-2	3213-3217	Risk	_
 19-3	3218-3223	Score	_
@@ -580,6 +599,7 @@
 19-25	3364-3372	material	_
 19-26	3373-3374	.	_
 
+Text=The results of the GWAS by the Schizophrenia Working Group of the Psychiatric Genomics Consortium were used for the calculation of PRS for schizophrenia in the NFBC 1986 sample (N = 3743).
 20-1	3375-3378	The	_
 20-2	3379-3386	results	_
 20-3	3387-3389	of	_
@@ -616,6 +636,7 @@
 20-34	3563-3564	)	_
 20-35	3565-3566	.	_
 
+Text=The score was calculated on single-nucleotide polymorphisms (SNPs) reaching genome-wide significance (P = 5 × 10−8).
 21-1	3567-3570	The	_
 21-2	3571-3576	score	_
 21-3	3577-3580	was	_
@@ -638,6 +659,7 @@
 21-20	3685-3686	)	_
 21-21	3687-3688	.	_
 
+Text=A total of 112 SNPs were found in the imputed NFBC 1986 GWAS dataset.
 22-1	3689-3690	A	_
 22-2	3691-3696	total	_
 22-3	3697-3699	of	_
@@ -654,6 +676,7 @@
 22-14	3750-3757	dataset	_
 22-15	3758-3759	.	_
 
+Text=For each participant (N = 3743), we calculated the sum of the risk SNPs multiplied by the effect size (logarithm of the odds ratio for schizophrenia).
 23-1	3760-3763	For	_
 23-2	3764-3768	each	_
 23-3	3769-3780	participant	_
@@ -687,6 +710,7 @@
 23-31	3913-3914	)	_
 23-32	3915-3916	.	_
 
+Text=PRS was adjusted for 4 principal components to account for population stratification.
 24-1	3917-3920	PRS	_
 24-2	3921-3924	was	_
 24-3	3925-3933	adjusted	_
@@ -701,6 +725,7 @@
 24-12	3987-4001	stratification	_
 24-13	4002-4003	.	_
 
+Text=In the neuroimaging subsamples, we used the median split of PRS to create “ high ” and “ low ” PRS groups.
 25-1	4004-4006	In	_
 25-2	4007-4010	the	_
 25-3	4011-4023	neuroimaging	_
@@ -726,6 +751,7 @@
 25-23	4104-4110	groups	_
 25-24	4111-4112	.	_
 
+Text=Early Adversity Early adversities in the neuroimaging subsamples were evaluated with the Trauma and Distress Scale (TADS).
 26-1	4113-4118	Early	_
 26-2	4119-4128	Adversity	_
 26-3	4129-4134	Early	_
@@ -747,6 +773,7 @@
 26-19	4235-4236	)	http://maven.renci.org/NeuroBridge/neurobridge#PosttraumaticStressDisorderSymptomsScale
 26-20	4237-4238	.	_
 
+Text=TADS self-report contains 43 statements, of which 25 statements are used to evaluate psychological traumas (emotional abuse, physical abuse, sexual abuse, emotional neglect, and physical neglect).
 27-1	4239-4243	TADS	_
 27-2	4244-4255	self-report	_
 27-3	4256-4264	contains	_
@@ -782,6 +809,7 @@
 27-33	4440-4441	)	_
 27-34	4442-4443	.	_
 
+Text=All statements have 5 responding options scored on a scale from 0 to 4: Never, Rarely, Sometimes, Often, and Nearly always.
 28-1	4444-4447	All	_
 28-2	4448-4458	statements	_
 28-3	4459-4463	have	_
@@ -810,6 +838,7 @@
 28-26	4565-4571	always	_
 28-27	4572-4573	.	_
 
+Text=This study used total TADS scores.
 29-1	4574-4578	This	_
 29-2	4579-4584	study	_
 29-3	4585-4589	used	_
@@ -818,6 +847,7 @@
 29-6	4601-4607	scores	_
 29-7	4608-4609	.	_
 
+Text=In a previous study, the internal consistency of TADS self-reports was 0.92 (Cronbach ’ s α), and intraclass coefficients for TADS were good to excellent when compared with the interviewed TADS as a gold standard.
 30-1	4610-4612	In	_
 30-2	4613-4614	a	_
 30-3	4615-4623	previous	_
@@ -859,6 +889,7 @@
 30-39	4818-4826	standard	_
 30-40	4827-4828	.	_
 
+Text=TADS has been shown to associate with depression and help-seeking for mental problems.
 31-1	4829-4833	TADS	_
 31-2	4834-4837	has	_
 31-3	4838-4842	been	_
@@ -874,6 +905,7 @@
 31-13	4906-4914	problems	_
 31-14	4915-4916	.	_
 
+Text=In the discovery sample, TADS scores correlated with the prodromal syndrome as diagnosed with the SIPS interview.
 32-1	4917-4919	In	_
 32-2	4920-4923	the	_
 32-3	4924-4933	discovery	_
@@ -894,6 +926,7 @@
 32-18	5021-5030	interview	http://maven.renci.org/NeuroBridge/neurobridge#StructuredInterviewforProdromalSyndromesRatingScale
 32-19	5031-5032	.	_
 
+Text=Furthermore, TADS scores were higher in individuals exposed (vs nonexposed) to maternal cigarette smoking during pregnancy (replication sample).
 33-1	5033-5044	Furthermore	_
 33-2	5045-5046	,	_
 33-3	5047-5051	TADS	http://maven.renci.org/NeuroBridge/neurobridge#Stadiometer
@@ -919,6 +952,7 @@
 33-23	5180-5181	)	_
 33-24	5182-5183	.	_
 
+Text=For this reason, TADS scores were adjusted for the prodromal syndrome (discovery sample) and maternal smoking during pregnancy (replication sample) using linear regression.
 34-1	5184-5187	For	_
 34-2	5188-5192	this	_
 34-3	5193-5199	reason	_
@@ -949,6 +983,7 @@
 34-28	5350-5360	regression	_
 34-29	5361-5362	.	_
 
+Text=A median split of adjusted TADS scores was used to create “ high ” and “ low ” adversity groups in both samples.
 35-1	5363-5364	A	_
 35-2	5365-5371	median	_
 35-3	5372-5377	split	_
@@ -974,6 +1009,7 @@
 35-23	5467-5474	samples	_
 35-24	5475-5476	.	_
 
+Text=Neuroimaging Data Detailed descriptions relating to the neuroimaging parameters and preprocessing are provided in the supplementary material.
 36-1	5477-5489	Neuroimaging	_
 36-2	5490-5494	Data	_
 36-3	5495-5503	Detailed	_
@@ -993,6 +1029,7 @@
 36-17	5609-5617	material	_
 36-18	5618-5619	.	_
 
+Text=Face-task fMRI data were available only in the discovery sample.
 37-1	5620-5629	Face-task	_
 37-2	5630-5634	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 37-3	5635-5639	data	_
@@ -1005,6 +1042,7 @@
 37-10	5677-5683	sample	_
 37-11	5684-5685	.	_
 
+Text=T1-weighted MRI scans were available in both the discovery and the replication samples.
 38-1	5686-5697	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 38-2	5698-5701	MRI	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 38-3	5702-5707	scans	_
@@ -1020,6 +1058,7 @@
 38-13	5765-5772	samples	_
 38-14	5773-5774	.	_
 
+Text=Neuroimaging data were analyzed with FMRIB Software Library (FSL) and Analysis of Functional NeuroImages (AFNI) using the standard pipeline that included brain extraction, motion correction, spatial smoothing, prewhitening, high-pass filtering, and nonlinear normalization to the standard MNI-152 template (described in detail in the supplementary material).
 39-1	5775-5787	Neuroimaging	_
 39-2	5788-5792	data	_
 39-3	5793-5797	were	_
@@ -1078,6 +1117,7 @@
 39-56	6142-6143	)	_
 39-57	6144-6145	.	_
 
+Text=Face-Task fMRI We conducted fMRI while participants viewed 4 blocks of video clips of happy and 4 blocks of video clips of fearful facial expressions presented in pseudorandom order separated by blocks of a dynamic mosaic baseline (control stimulus).
 40-1	6146-6155	Face-Task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 40-2	6156-6160	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 40-3	6161-6163	We	_
@@ -1121,6 +1161,7 @@
 40-41	6396-6397	)	_
 40-42	6398-6399	.	_
 
+Text=The baseline stimulus was generated from the mosaic images of the facial expressions in the happy and fearful blocks.
 41-1	6400-6403	The	_
 41-2	6404-6412	baseline	_
 41-3	6413-6421	stimulus	_
@@ -1142,6 +1183,7 @@
 41-19	6510-6516	blocks	_
 41-20	6517-6518	.	_
 
+Text=Blocks of happy and fearful facial expressions consisted of 12 × 2.5-second dynamic video clips showing a neutral facial expression changing into a happy/fearful expression (figure 1).
 42-1	6519-6525	Blocks	_
 42-2	6526-6528	of	_
 42-3	6529-6534	happy	_
@@ -1173,6 +1215,7 @@
 42-29	6703-6704	)	_
 42-30	6705-6706	.	_
 
+Text=The total duration of each block (facial expressions and dynamic mosaic) was 30 seconds.
 43-1	6707-6710	The	_
 43-2	6711-6716	total	_
 43-3	6717-6725	duration	_
@@ -1191,6 +1234,7 @@
 43-16	6789-6796	seconds	_
 43-17	6797-6798	.	_
 
+Text=Six different people, each shown twice, performed the happy facial expressions.
 44-1	6799-6802	Six	_
 44-2	6803-6812	different	_
 44-3	6813-6819	people	_
@@ -1206,6 +1250,7 @@
 44-13	6868-6879	expressions	_
 44-14	6880-6881	.	_
 
+Text=Fearful facial expression blocks consisted of facial expressions of 5 different people, each shown 2 or 3 times.
 45-1	6882-6889	Fearful	_
 45-2	6890-6896	facial	_
 45-3	6897-6907	expression	_
@@ -1227,6 +1272,7 @@
 45-19	6989-6994	times	_
 45-20	6995-6996	.	_
 
+Text=The whole imaging session lasted 8 minutes 10 seconds.
 46-1	6997-7000	The	_
 46-2	7001-7006	whole	_
 46-3	7007-7014	imaging	_
@@ -1238,6 +1284,7 @@
 46-9	7043-7050	seconds	_
 46-10	7051-7052	.	_
 
+Text=Interregional Correlation of BOLD and Gray Matter Volume in the Face-Processing Network We used ROIs that were defined in the IMAGEN subsample of 1110 adolescents (mean age = 14 years).
 47-1	7053-7066	Interregional	_
 47-2	7067-7078	Correlation	_
 47-3	7079-7081	of	_
@@ -1272,6 +1319,7 @@
 47-32	7238-7239	)	_
 47-33	7240-7241	.	_
 
+Text=A total of 25 ROIs relevant for face processing were identified using a probabilistic map as described in detail elsewhere.
 48-1	7242-7243	A	_
 48-2	7244-7249	total	_
 48-3	7250-7252	of	_
@@ -1294,6 +1342,7 @@
 48-20	7355-7364	elsewhere	_
 48-21	7365-7366	.	_
 
+Text=Our previous study showed that these ROIs highly overlap with BOLD response to faces in the NFBC 1986 sample.
 49-1	7367-7370	Our	_
 49-2	7371-7379	previous	_
 49-3	7380-7385	study	_
@@ -1315,6 +1364,7 @@
 49-19	7469-7475	sample	_
 49-20	7476-7477	.	_
 
+Text=The fMRI data were analyzed as follows (figure 2).
 50-1	7478-7481	The	_
 50-2	7482-7486	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 50-3	7487-7491	data	_
@@ -1328,6 +1378,7 @@
 50-11	7528-7529	)	_
 50-12	7530-7531	.	_
 
+Text=For each individual and each ROI, the mean BOLD signal time series was calculated by averaging the BOLD signal from all voxels constituting the ROI at every time point (150 in total).
 51-1	7532-7535	For	_
 51-2	7536-7540	each	_
 51-3	7541-7551	individual	_
@@ -1365,6 +1416,7 @@
 51-35	7716-7717	)	_
 51-36	7718-7719	.	_
 
+Text=The BOLD time series for each face condition was realized by concatenating the BOLD signal from the corresponding blocks.
 52-1	7720-7723	The	_
 52-2	7724-7728	BOLD	_
 52-3	7729-7733	time	_
@@ -1386,6 +1438,7 @@
 52-19	7834-7840	blocks	_
 52-20	7841-7842	.	_
 
+Text=Nuisance covariates including white matter signals, and cerebrospinal fluid signals, and 6 motion parameters were regressed out from the BOLD signals.
 53-1	7843-7851	Nuisance	_
 53-2	7852-7862	covariates	_
 53-3	7863-7872	including	_
@@ -1411,6 +1464,7 @@
 53-23	7987-7994	signals	_
 53-24	7995-7996	.	_
 
+Text=For each group, we then created mean 25 × 25 correlation matrices for the BOLD signal by averaging Pearson correlation coefficients between each pair of ROIs.
 54-1	7997-8000	For	_
 54-2	8001-8005	each	_
 54-3	8006-8011	group	_
@@ -1440,6 +1494,7 @@
 54-27	8151-8155	ROIs	_
 54-28	8156-8157	.	_
 
+Text=Group comparisons of fMRI data were conducted using these average correlation matrices.
 55-1	8158-8163	Group	_
 55-2	8164-8175	comparisons	_
 55-3	8176-8178	of	_
@@ -1454,6 +1509,7 @@
 55-12	8236-8244	matrices	_
 55-13	8245-8246	.	_
 
+Text=Structural data were analyzed as follows (figure 2).
 56-1	8247-8257	Structural	_
 56-2	8258-8262	data	_
 56-3	8263-8267	were	_
@@ -1466,6 +1522,7 @@
 56-10	8299-8300	)	_
 56-11	8301-8302	.	_
 
+Text=T1-weighted MRI scans were used to measure regional gray matter volume and were processed using FSL ’ s optimized voxel-based morphometry pipeline.
 57-1	8303-8314	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 57-2	8315-8318	MRI	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 57-3	8319-8324	scans	_
@@ -1490,6 +1547,7 @@
 57-22	8441-8449	pipeline	_
 57-23	8450-8451	.	_
 
+Text=From each of the 25 ROIs, we extracted the gray matter volume for each participant.
 58-1	8452-8456	From	_
 58-2	8457-8461	each	_
 58-3	8462-8464	of	_
@@ -1508,6 +1566,7 @@
 58-16	8524-8535	participant	_
 58-17	8536-8537	.	_
 
+Text=For each group, we created 25 × 25 correlation matrices of gray matter data by correlating participants ’ gray matter volume across the 25 ROIs.
 59-1	8538-8541	For	_
 59-2	8542-8546	each	_
 59-3	8547-8552	group	_
@@ -1536,6 +1595,7 @@
 59-26	8678-8682	ROIs	_
 59-27	8683-8684	.	_
 
+Text=Group comparisons were conducted using these average correlation matrices of interregional gray matter volume.
 60-1	8685-8690	Group	_
 60-2	8691-8702	comparisons	_
 60-3	8703-8707	were	_
@@ -1552,6 +1612,7 @@
 60-14	8788-8794	volume	_
 60-15	8795-8796	.	_
 
+Text=Statistical Analyses For statistical analyses, we used R (http: //cran.r-project.org), version 3.4.0.
 61-1	8797-8808	Statistical	_
 61-2	8809-8817	Analyses	_
 61-3	8818-8821	For	_
@@ -1571,6 +1632,7 @@
 61-17	8897-8902	3.4.0	_
 61-18	8903-8904	.	_
 
+Text=Data were visually inspected to check for normality.
 62-1	8905-8909	Data	_
 62-2	8910-8914	were	_
 62-3	8915-8923	visually	_
@@ -1581,6 +1643,7 @@
 62-8	8947-8956	normality	_
 62-9	8957-8958	.	_
 
+Text=If necessary, we used Box–Cox power transformation on the data to fulfill the normality criteria.
 63-1	8959-8961	If	_
 63-2	8962-8971	necessary	_
 63-3	8972-8973	,	_
@@ -1599,6 +1662,7 @@
 63-16	9048-9056	criteria	_
 63-17	9057-9058	.	_
 
+Text=ANOVA, linear regression, linear mixed model, logistic regression, Pearson correlation, and t tests were used as specified in “ Results ” section.
 64-1	9059-9064	ANOVA	_
 64-2	9065-9066	,	_
 64-3	9067-9073	linear	_
@@ -1628,6 +1692,7 @@
 64-27	9202-9209	section	_
 64-28	9210-9211	.	_
 
+Text=Results are visualized with BrainNet Viewer, gplots, and the pirateplot.
 65-1	9212-9219	Results	_
 65-2	9220-9223	are	_
 65-3	9224-9234	visualized	_
@@ -1642,6 +1707,7 @@
 65-12	9275-9285	pirateplot	_
 65-13	9286-9287	.	_
 
+Text=The interregional correlation coefficients were estimated in the each groups ’ average correlation matrices.
 66-1	9288-9291	The	_
 66-2	9292-9305	interregional	_
 66-3	9306-9317	correlation	_
@@ -1658,6 +1724,7 @@
 66-14	9387-9395	matrices	_
 66-15	9396-9397	.	_
 
+Text=Note, therefore, that we conducted the following group comparisons at the level of average correlation coefficients of each group.
 67-1	9398-9402	Note	_
 67-2	9403-9404	,	_
 67-3	9405-9414	therefore	_
@@ -1681,6 +1748,7 @@
 67-21	9524-9529	group	_
 67-22	9530-9531	.	_
 
+Text=The group comparisons were carried out separately for BOLD signal (discovery sample) and gray matter volume data (discovery and replication sample).
 68-1	9532-9535	The	_
 68-2	9536-9541	group	_
 68-3	9542-9553	comparisons	_
@@ -1708,6 +1776,7 @@
 68-25	9682-9683	)	_
 68-26	9684-9685	.	_
 
+Text=Correlation coefficients in each groups ’ average correlation matrices were converted with Fisher r to z before statistical comparisons.
 69-1	9686-9697	Correlation	_
 69-2	9698-9710	coefficients	_
 69-3	9711-9713	in	_
@@ -1729,6 +1798,7 @@
 69-19	9810-9821	comparisons	_
 69-20	9822-9823	.	_
 
+Text=To analyze the PRS-related differences in interregional correlations, we used the following analytical strategy.
 70-1	9824-9826	To	_
 70-2	9827-9834	analyze	_
 70-3	9835-9838	the	_
@@ -1746,6 +1816,7 @@
 70-15	9928-9936	strategy	_
 70-16	9937-9938	.	_
 
+Text=First, we compared study groups for the mean of 300 pair-wise correlation coefficients (obtained from each groups ’ average correlation matrices) using unpaired t test.
 71-1	9939-9944	First	_
 71-2	9945-9946	,	_
 71-3	9947-9949	we	_
@@ -1776,6 +1847,7 @@
 71-28	10105-10109	test	_
 71-29	10110-10111	.	_
 
+Text=Statistical significance was considered at P value of <.05 as we test here the average of all the interregional correlation coefficients within the face-processing network.
 72-1	10112-10123	Statistical	_
 72-2	10124-10136	significance	_
 72-3	10137-10140	was	_
@@ -1804,6 +1876,7 @@
 72-26	10277-10284	network	_
 72-27	10285-10286	.	_
 
+Text=Second, if this comparison was significant, we compared study groups ’ average correlation matrices for the mean correlation coefficients: (1) between the core and the other face-processing regions (mean of 114 pair-wise correlations) and (2) within the core regions of face processing (mean of 15 pair-wise correlations).
 73-1	10287-10293	Second	_
 73-2	10294-10295	,	_
 73-3	10296-10298	if	_
@@ -1864,6 +1937,7 @@
 73-58	10618-10619	)	_
 73-59	10620-10621	.	_
 
+Text=We defined the core system to include the lateral occipital cortex, posterior STS, and FFA (figure 2).
 74-1	10622-10624	We	_
 74-2	10625-10632	defined	_
 74-3	10633-10636	the	_

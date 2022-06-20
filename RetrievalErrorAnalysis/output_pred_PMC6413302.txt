@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Multi-echo fMRI, resting-state connectivity, and high psychometric schizotypy Disrupted striatal functional connectivity is proposed to play a critical role in the development of psychotic symptoms.
 1-1	0-10	Multi-echo	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 1-2	11-15	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 1-3	16-17	,	_
@@ -31,6 +32,7 @@
 1-27	191-199	symptoms	_
 1-28	200-201	.	_
 
+Text=Previous resting-state functional magnetic resonance imaging (rs-fMRI) studies typically reported disrupted striatal connectivity in patients with psychosis and in individuals at clinical and genetic high risk of the disorder relative to healthy controls.
 2-1	202-210	Previous	_
 2-2	211-224	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 2-3	225-235	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -68,6 +70,7 @@
 2-35	450-458	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 2-36	459-460	.	_
 
+Text=This has not been widely studied in healthy individuals with subclinical psychotic-like experiences (schizotypy).
 3-1	461-465	This	_
 3-2	466-469	has	_
 3-3	470-473	not	_
@@ -86,6 +89,7 @@
 3-16	574-575	)	_
 3-17	576-577	.	_
 
+Text=Here we applied the emerging technology of multi-echo rs-fMRI to examine corticostriatal connectivity in this group, which is thought to drastically maximize physiological noise removal and increase BOLD contrast-to-noise ratio.
 4-1	578-582	Here	_
 4-2	583-585	we	_
 4-3	586-593	applied	_
@@ -119,6 +123,7 @@
 4-31	801-806	ratio	_
 4-32	807-808	.	_
 
+Text=Multi-echo rs-fMRI data (echo times, 12, 28, 44, 60 ms) were acquired from healthy individuals with low (LS, n = 20) and high (HS, n = 19) positive schizotypy as determined with the Oxford-Liverpool Inventory of Feelings and Experiences (O-LIFE).
 5-1	809-819	Multi-echo	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 5-2	820-827	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 5-3	828-832	data	_
@@ -175,6 +180,7 @@
 5-54	1067-1068	)	_
 5-55	1069-1070	.	_
 
+Text=After preprocessing to ensure optimal contrast and removal of non-BOLD signal components, whole-brain functional connectivity from six striatal seeds was compared between the HS and LS groups.
 6-1	1071-1076	After	_
 6-2	1077-1090	preprocessing	_
 6-3	1091-1093	to	_
@@ -205,6 +211,7 @@
 6-28	1257-1263	groups	_
 6-29	1264-1265	.	_
 
+Text=Effects were considered significant at cluster-level p <.05 family-wise error correction.
 7-1	1266-1273	Effects	_
 7-2	1274-1278	were	_
 7-3	1279-1289	considered	_
@@ -219,6 +226,7 @@
 7-12	1345-1355	correction	_
 7-13	1356-1357	.	_
 
+Text=Compared to LS, HS subjects showed lower rs-fMRI connectivity between ventromedial prefrontal regions and ventral striatal regions.
 8-1	1358-1366	Compared	_
 8-2	1367-1369	to	_
 8-3	1370-1372	LS	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -239,6 +247,7 @@
 8-18	1482-1489	regions	_
 8-19	1490-1491	.	_
 
+Text=Lower connectivity was also observed between the dorsal putamen and the hippocampus, occipital regions, as well as the cerebellum.
 9-1	1492-1497	Lower	_
 9-2	1498-1510	connectivity	_
 9-3	1511-1514	was	_
@@ -262,6 +271,7 @@
 9-21	1613-1623	cerebellum	_
 9-22	1624-1625	.	_
 
+Text=These results demonstrate that subclinical positive psychotic-like experiences in healthy individuals are associated with striatal hypoconnectivity as detected using multi-echo rs-fMRI.
 10-1	1626-1631	These	_
 10-2	1632-1639	results	_
 10-3	1640-1651	demonstrate	_
@@ -285,6 +295,7 @@
 10-21	1803-1810	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 10-22	1811-1812	.	_
 
+Text=Further application of this approach may aid in characterizing functional connectivity abnormalities across the extended psychosis phenotype.
 11-1	1813-1820	Further	_
 11-2	1821-1832	application	_
 11-3	1833-1835	of	_
@@ -304,6 +315,7 @@
 11-17	1944-1953	phenotype	_
 11-18	1954-1955	.	_
 
+Text=Highlights Multi-echo fMRI was used to investigate resting-state connectivity in subjects with low and high psychometric schizotypy (HS).
 12-1	1956-1966	Highlights	_
 12-2	1967-1977	Multi-echo	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 12-3	1978-1982	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -326,6 +338,7 @@
 12-20	2093-2094	)	_
 12-21	2095-2096	.	_
 
+Text=High schizotypy subjects showed hypoconnectivity between ventral striatum and ventromedial prefrontal cortex.
 13-1	2097-2101	High	_
 13-2	2102-2112	schizotypy	_
 13-3	2113-2121	subjects	_
@@ -340,6 +353,7 @@
 13-12	2199-2205	cortex	_
 13-13	2206-2207	.	_
 
+Text=These subjects also showed hypoconnectivity between dorsal striatum and temporooccipital regions.
 14-1	2208-2213	These	_
 14-2	2214-2222	subjects	_
 14-3	2223-2227	also	_
@@ -353,6 +367,7 @@
 14-11	2297-2304	regions	_
 14-12	2305-2306	.	_
 
+Text=Methods and materials Participants Two hundred and fifty potential participants who had responded to online advertising via the Research Volunteer Recruitment Webpage of King's College London were pre-screened using the short version of the Oxford-Liverpool Inventory of Feelings and Experiences (O-LIFE).
 15-1	2307-2314	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 15-2	2315-2318	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 15-3	2319-2328	materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -399,6 +414,7 @@
 15-44	2613-2614	)	_
 15-45	2615-2616	.	_
 
+Text=Subjects were invited to participate in the study if they scored <2 (low positive schizotypy, LS) or> 7 (high positive schizotypy, HS) on the Unusual Experiences subscale of the O-LIFE, as in a previous imaging study in our center.
 16-1	2617-2625	Subjects	_
 16-2	2626-2630	were	_
 16-3	2631-2638	invited	_
@@ -449,6 +465,7 @@
 16-48	2850-2856	center	_
 16-49	2857-2858	.	_
 
+Text=The UE subscale of the O-LIFE questionnaire reflects positive schizotypy and is associated with positive symptoms in schizophrenia patients.
 17-1	2859-2862	The	_
 17-2	2863-2865	UE	_
 17-3	2866-2874	subscale	_
@@ -470,6 +487,7 @@
 17-19	2990-2998	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 17-20	2999-3000	.	_
 
+Text=Participants were excluded if they had a history of neurologic/psychiatric disorders as assessed using the Mini International Neuropsychiatric Inventory and the Psychosis Screening Questionnaire (administered by a trained interviewer and reviewed by an experienced neuropsychologist, GM).
 18-1	3001-3013	Participants	_
 18-2	3014-3018	were	_
 18-3	3019-3027	excluded	_
@@ -511,6 +529,7 @@
 18-39	3290-3291	)	_
 18-40	3292-3293	.	_
 
+Text=Other exclusion criteria included contraindications to MRI scanning, having a first-degree relative with present/past history of psychotic disorder, present/past history of use of psychotropic medications, and use of recreational drugs in the two weeks prior to scanning or meeting criteria for substance abuse/dependence by self-report.
 19-1	3294-3299	Other	_
 19-2	3300-3309	exclusion	_
 19-3	3310-3318	criteria	_
@@ -561,6 +580,7 @@
 19-48	3622-3633	self-report	_
 19-49	3634-3635	.	_
 
+Text=The final sample included 20 participants in both the HS (10 males; age range 18–39 years, M = 26.35, SD = 5.47) and LS groups (11 males; age range 18–44 years, M = 26.70, SD = 7.06).
 20-1	3636-3639	The	_
 20-2	3640-3645	final	_
 20-3	3646-3652	sample	_
@@ -610,6 +630,7 @@
 20-47	3827-3828	)	_
 20-48	3829-3830	.	_
 
+Text=Three studies have reported previous findings from overlapping sub-samples of this cohort with other imaging modalities.
 21-1	3831-3836	Three	_
 21-2	3837-3844	studies	_
 21-3	3845-3849	have	_
@@ -628,6 +649,7 @@
 21-16	3940-3950	modalities	_
 21-17	3951-3952	.	_
 
+Text=Ethical approval for the study was obtained from the KCL College Research Ethics Committee (CREC) and all participants provided written informed consent before initiating any study procedures.
 22-1	3953-3960	Ethical	_
 22-2	3961-3969	approval	_
 22-3	3970-3973	for	_
@@ -659,6 +681,7 @@
 22-29	4136-4146	procedures	_
 22-30	4147-4148	.	_
 
+Text=Behavioral assessments On the day of scanning, before scanning commenced, participants completed a semi-structured interview adapted from the Early Psychosis Prevention and Intervention Centre (EPPIC) Drug and Alcohol Assessment Schedule (http: //www.eppic.org.au) to assess current/past medication use and current/past use of alcohol, tobacco and cannabis; the Social Function Questionnaire (SFQ) to measure social functioning; and a validated short version of the Wechsler Adult Intelligence Scale-III (WAIS- III) to measure intellectual ability.
 23-1	4149-4159	Behavioral	_
 23-2	4160-4171	assessments	_
 23-3	4172-4174	On	_
@@ -746,6 +769,7 @@
 23-85	4703-4710	ability	_
 23-86	4711-4712	.	_
 
+Text=Analysis of demographic and questionnaire data was performed in SPSS 24 (https: //www.ibm.com/analytics/us/en/technology/spss/), with the effect of group being tested using independent sample t-tests for parametric data and χ2-tests for non-parametric data (significance threshold p <.05).
 24-1	4713-4721	Analysis	_
 24-2	4722-4724	of	_
 24-3	4725-4736	demographic	_
@@ -791,6 +815,7 @@
 24-43	5007-5008	)	_
 24-44	5009-5010	.	_
 
+Text=Imaging acquisition Scanning was performed on a General Electric Discovery MR750 3 T system (Milwaukee, WI, USA) at the Institute of Psychiatry, Psychology & Neuroscience, King's College London.
 25-1	5011-5018	Imaging	_
 25-2	5019-5030	acquisition	_
 25-3	5031-5039	Scanning	_
@@ -828,6 +853,7 @@
 25-35	5205-5211	London	_
 25-36	5212-5213	.	_
 
+Text=For the rs-fMRI, participants were asked to lie still with their eyes open, and to think of nothing in particular while a fixation cross was displayed in the center of a screen which they viewed through a mirror system.
 26-1	5214-5217	For	_
 26-2	5218-5221	the	_
 26-3	5222-5229	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -871,6 +897,7 @@
 26-41	5428-5434	system	_
 26-42	5435-5436	.	_
 
+Text=Scanning time for the rs-fMRI was 12 min.
 27-1	5437-5445	Scanning	_
 27-2	5446-5450	time	_
 27-3	5451-5454	for	_
@@ -881,6 +908,7 @@
 27-8	5474-5477	min	_
 27-9	5478-5479	.	_
 
+Text=During this time, ME-EPI images sensitive to BOLD contrast were acquired to measure hemodynamic responses (repetition time: 2500 ms; echo times, 12, 28, 44, 60 ms; flip angle, 80°; 4.0 × 4.0 × 3.0-mm voxels; field of view, 240; 32 axial sections collected with sequential (top down) acquisition and 1-mm interslice gap).
 28-1	5480-5486	During	_
 28-2	5487-5491	this	_
 28-3	5492-5496	time	_
@@ -952,6 +980,7 @@
 28-69	5815-5816	)	_
 28-70	5817-5818	.	_
 
+Text=A structural scan was acquired for co-registration of the ME-EPI data by means of a three-dimensional T1-weighted inversion recovery-prepared gradient echo sequence (voxel size: 1.05 × 1.05 × 1.2 mm, field of view: 270 mm, 196 slices, repetition time: 7.3 ms, echo time: 3.0 ms, inversion time: 400 ms).
 29-1	5819-5820	A	_
 29-2	5821-5831	structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 29-3	5832-5836	scan	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
@@ -1015,6 +1044,7 @@
 29-61	6132-6133	)	_
 29-62	6134-6135	.	_
 
+Text=Imaging preprocessing After resetting of the origins for both T1-weighted and ME-EP images, a study specific template was created using Advanced Normalization Tools (ANTs; http: //stnava.github.io/ANTs/) for later normalization, in order to reduce localization error and improve sensitivity.
 30-1	6136-6143	Imaging	_
 30-2	6144-6157	preprocessing	_
 30-3	6158-6163	After	_
@@ -1061,6 +1091,7 @@
 30-44	6421-6432	sensitivity	_
 30-45	6433-6434	.	_
 
+Text=One subject from the HS group had to be excluded because of atypical anatomy which undermined the template quality, resulting in a final sample of 20 LS and 19 HS subjects.
 31-1	6435-6438	One	_
 31-2	6439-6446	subject	_
 31-3	6447-6451	from	_
@@ -1095,6 +1126,7 @@
 31-32	6599-6607	subjects	_
 31-33	6608-6609	.	_
 
+Text=The ME-EPI echoes were separated into four distinct time series (corresponding to the four individual echoes), which were then de-spiked using 3dDespike in the Analysis of Functional NeuroImages (AFNI) framework (https: //afni.nimh.nih.gov), and slice time corrected using SPM12 (http: //www.fil.ion.ucl.ac.uk/spm/software/spm12/).
 32-1	6610-6613	The	_
 32-2	6614-6620	ME-EPI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 32-3	6621-6627	echoes	_
@@ -1149,6 +1181,7 @@
 32-52	6951-6952	)	_
 32-53	6953-6954	.	_
 
+Text=Parameters for motion correction were estimated from the first echo, and applied to all four echoes using FSL's mcFLIRT.
 33-1	6955-6965	Parameters	_
 33-2	6966-6969	for	_
 33-3	6970-6976	motion	_
@@ -1172,6 +1205,7 @@
 33-21	7069-7076	mcFLIRT	_
 33-22	7077-7078	.	_
 
+Text=Subjects' ME-EP images were then co-registered to the T1 scan using boundary-based registration as implemented in FLIRT.
 34-1	7079-7087	Subjects	_
 34-2	7088-7089	'	_
 34-3	7090-7095	ME-EP	_
@@ -1192,6 +1226,7 @@
 34-18	7194-7199	FLIRT	_
 34-19	7200-7201	.	_
 
+Text=Again, parameters were estimated for the first echo, and subsequently applied to all four echoes.
 35-1	7202-7207	Again	_
 35-2	7208-7209	,	_
 35-3	7210-7220	parameters	_
@@ -1211,6 +1246,7 @@
 35-17	7294-7300	echoes	_
 35-18	7301-7302	.	_
 
+Text=All echoes were spatially normalized to the study-specific template, and from there to Montreal Neurological Institute (MNI) space.
 36-1	7303-7306	All	_
 36-2	7307-7313	echoes	_
 36-3	7314-7318	were	_
@@ -1234,6 +1270,7 @@
 36-21	7431-7436	space	_
 36-22	7437-7438	.	_
 
+Text=Finally, the images from all echoes were z-concatenated for further processing, i.e.
 37-1	7439-7446	Finally	_
 37-2	7447-7448	,	_
 37-3	7449-7452	the	_
@@ -1250,6 +1287,7 @@
 37-14	7521-7524	i.e	_
 37-15	7525-7526	.	_
 
+Text=the space-by-time matrices from each echo were appended to one another in the z-direction to form a single matrix using the 3dZcat function in AFNI.
 38-1	7527-7530	the	_
 38-2	7531-7544	space-by-time	_
 38-3	7545-7553	matrices	_
@@ -1277,6 +1315,7 @@
 38-25	7670-7674	AFNI	_
 38-26	7675-7676	.	_
 
+Text=TEDANA, a python script that forms part of the Multi Echo Independent Component Analysis (MEICA) package (https: //afni.nimh.nih.gov/pub/dist/src/pkundu/meica.py) was called to perform TE dependent ICA-based denoising and T2 * weighted averaging (optimal combination) of echoes as described above.
 39-1	7677-7683	TEDANA	_
 39-2	7684-7685	,	_
 39-3	7686-7687	a	_
@@ -1325,6 +1364,7 @@
 39-46	7976-7981	above	_
 39-47	7982-7983	.	_
 
+Text=The denoised, optimally combined images were subsequently taken forward for motion correction, removal of white matter (WM) and cerebrospinal fluid (CSF) signal via regression, and band-pass-filtering (frequency range 0.08–0.01 Hz).
 40-1	7984-7987	The	_
 40-2	7988-7996	denoised	_
 40-3	7997-7998	,	_
@@ -1366,6 +1406,7 @@
 40-39	8223-8224	)	_
 40-40	8225-8226	.	_
 
+Text=A comparison of the mean framewise displacement (FD) between HS and LS subjects revealed no significant difference in head motion between groups (t = 0.358, p = .72).
 41-1	8227-8228	A	_
 41-2	8229-8239	comparison	_
 41-3	8240-8242	of	_
@@ -1401,6 +1442,7 @@
 41-33	8396-8397	)	_
 41-34	8398-8399	.	_
 
+Text=No individual subject showed mean FD in excess of 0.12 mm.
 42-1	8400-8402	No	_
 42-2	8403-8413	individual	_
 42-3	8414-8421	subject	_
@@ -1414,6 +1456,7 @@
 42-11	8455-8457	mm	_
 42-12	8458-8459	.	_
 
+Text=Imaging analysis We defined six bilateral striatal seeds based on previous validated work on striatal connectivity: ventral striatum inferior/nucleus accumbens (VSi; ±9, 9, −8); ventral striatum superior (VSs; ±10, 15, 0); dorsal caudate (DC; ±13, 15, 9); dorsal caudal putamen (DCP; ±28, 1, 3); dorsal rostral putamen (DRP; ±25, 8, 6); and ventral rostral putamen (VRP; ±20, 12, –3) (Fig.
 43-1	8460-8467	Imaging	_
 43-2	8468-8476	analysis	_
 43-3	8477-8479	We	_
@@ -1513,6 +1556,7 @@
 43-97	8882-8885	Fig	_
 43-98	8886-8887	.	_
 
+Text=2A), with the radius set at 3.5 mm.
 44-1	8888-8890	2A	_
 44-2	8891-8892	)	_
 44-3	8893-8894	,	_
@@ -1525,6 +1569,7 @@
 44-10	8922-8924	mm	_
 44-11	8925-8926	.	_
 
+Text=The mean signal was extracted from the seed regions (voxel-wise) using the REST toolbox to perform Pearson's correlation coefficients between these regressors and the rest of the brain (voxel-wise), which were subsequently Fisher's Z transformed.
 45-1	8927-8930	The	_
 45-2	8931-8935	mean	_
 45-3	8936-8942	signal	_
@@ -1569,6 +1614,7 @@
 45-42	9168-9179	transformed	_
 45-43	9180-9181	.	_
 
+Text=The resulting Z-maps were then taken to group-level whole-brain analysis using the General Linear Model as implemented in SPM12.
 46-1	9182-9185	The	_
 46-2	9186-9195	resulting	_
 46-3	9196-9202	Z-maps	_
@@ -1590,6 +1636,7 @@
 46-19	9304-9309	SPM12	_
 46-20	9310-9311	.	_
 
+Text=Connectivity differences between groups were examined using t-contrasts.
 47-1	9312-9324	Connectivity	_
 47-2	9325-9336	differences	_
 47-3	9337-9344	between	_
@@ -1600,6 +1647,7 @@
 47-8	9372-9383	t-contrasts	_
 47-9	9384-9385	.	_
 
+Text=We used a cluster forming threshold of p <.001 uncorrected, to then enforce cluster-wise correction for multiple testing at p <.05 family-wise error (FWE) rate, based on previous studies.
 48-1	9386-9388	We	_
 48-2	9389-9393	used	_
 48-3	9394-9395	a	_
@@ -1637,6 +1685,7 @@
 48-35	9571-9578	studies	_
 48-36	9579-9580	.	_
 
+Text=Potential effects of age or substance use (alcohol, cigarettes and cannabis) on areas showing significant group differences in connectivity were examined with an additional ANCOVA in SPM.
 49-1	9581-9590	Potential	_
 49-2	9591-9598	effects	_
 49-3	9599-9601	of	_
@@ -1669,6 +1718,7 @@
 49-30	9767-9770	SPM	_
 49-31	9771-9772	.	_
 
+Text=Finally, associations between symptom scores (O-LIFE UE) in HS subjects and Z-scores averaged across clusters showing group differences were analyzed using linear regression in SPSS.
 50-1	9773-9780	Finally	_
 50-2	9781-9782	,	_
 50-3	9783-9795	associations	_

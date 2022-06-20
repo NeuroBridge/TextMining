@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Connectivity maps based analysis of EEG for the advanced diagnosis of schizophrenia attributes This article presents a novel connectivity analysis method that is suitable for multi-node networks such as EEG, MEG or EcOG electrode recordings.
 1-1	0-12	Connectivity	_
 1-2	13-17	maps	_
 1-3	18-23	based	_
@@ -40,6 +41,7 @@
 1-36	231-241	recordings	_
 1-37	242-243	.	_
 
+Text=Its diagnostic power and ability to interpret brain states in schizophrenia is demonstrated on a set of 50 subjects that constituted of 25 healthy and 25 diagnosed with schizophrenia and treated with medication.
 2-1	244-247	Its	_
 2-2	248-258	diagnostic	_
 2-3	259-264	power	_
@@ -75,6 +77,7 @@
 2-33	444-454	medication	_
 2-34	455-456	.	_
 
+Text=The method can also be used for the automatic detection of schizophrenia; it exhibits higher sensitivity than state-of-the-art methods with no false positives.
 3-1	457-460	The	_
 3-2	461-467	method	_
 3-3	468-471	can	_
@@ -101,6 +104,7 @@
 3-24	607-616	positives	_
 3-25	617-618	.	_
 
+Text=The detection is based on an analysis from a minute long pattern-recognition computer task.
 4-1	619-622	The	_
 4-2	623-632	detection	_
 4-3	633-635	is	_
@@ -117,6 +121,7 @@
 4-14	705-709	task	_
 4-15	710-711	.	_
 
+Text=Moreover, this connectivity analysis leads naturally to an optimal choice of electrodes and hence to highly statistically significant results that are based on data from only 3–5 electrodes.
 5-1	712-720	Moreover	_
 5-2	721-722	,	_
 5-3	723-727	this	_
@@ -148,6 +153,7 @@
 5-29	892-902	electrodes	_
 5-30	903-904	.	_
 
+Text=The method is general and can be used for the diagnosis of other psychiatric conditions, provided an appropriate computer task is devised.
 6-1	905-908	The	_
 6-2	909-915	method	_
 6-3	916-918	is	_
@@ -173,6 +179,7 @@
 6-23	1036-1043	devised	_
 6-24	1044-1045	.	_
 
+Text=2 Methodology – A novel measure of connectivity 2.1 –Connectivity maps The motivation for the proposed connectivity analysis is best explained by the following analysis of airline traffic.
 7-1	1046-1047	2	_
 7-2	1048-1059	Methodology	_
 7-3	1060-1061	–	_
@@ -203,6 +210,7 @@
 7-28	1226-1233	traffic	_
 7-29	1234-1235	.	_
 
+Text=Consider the air traffic from BOS to ATL and BOS to DEN.
 8-1	1236-1244	Consider	_
 8-2	1245-1248	the	_
 8-3	1249-1252	air	_
@@ -217,6 +225,7 @@
 8-12	1288-1291	DEN	_
 8-13	1292-1293	.	_
 
+Text=A classical connectivity analysis of the nodes ATL and DEN would examine the connection between these two cities.
 9-1	1294-1295	A	_
 9-2	1296-1305	classical	_
 9-3	1306-1318	connectivity	_
@@ -237,6 +246,7 @@
 9-18	1400-1406	cities	_
 9-19	1407-1408	.	_
 
+Text=For the sake of argument, let us assume that all the flights of a certain airline from BOS to DEN go through ATL.
 10-1	1409-1412	For	_
 10-2	1413-1416	the	_
 10-3	1417-1421	sake	_
@@ -263,6 +273,7 @@
 10-24	1519-1522	ATL	_
 10-25	1523-1524	.	_
 
+Text=We consider a more refined, high dimensional notion of connectivity by analyzing the changes in connectivity between ATL and DEN with reference to flights that emanated from other locations, such as BOS.
 11-1	1525-1527	We	_
 11-2	1528-1536	consider	_
 11-3	1537-1538	a	_
@@ -299,6 +310,7 @@
 11-34	1726-1729	BOS	_
 11-35	1730-1731	.	_
 
+Text=By observing that there was a reduction in connectivity between BOS and DEN but no change in or even an increase in connectivity between BOS and ATL.
 12-1	1732-1734	By	_
 12-2	1735-1744	observing	_
 12-3	1745-1749	that	_
@@ -328,6 +340,7 @@
 12-27	1877-1880	ATL	_
 12-28	1881-1882	.	_
 
+Text=In other words, we may observe that when the flights of one airline company that flies from BOS to DEN via ATL are canceled, it is possible that those passengers book alternative flights with another carrier due to the cancellations.
 13-1	1883-1885	In	_
 13-2	1886-1891	other	_
 13-3	1892-1897	words	_
@@ -372,6 +385,7 @@
 13-42	2104-2117	cancellations	_
 13-43	2118-2119	.	_
 
+Text=Note that the traffic between ATL and DEN includes flights by all other carriers; thus, it would be difficult to observe the reduction in traffic due to cancellations by a single carrier.
 14-1	2120-2124	Note	_
 14-2	2125-2129	that	_
 14-3	2130-2133	the	_
@@ -408,6 +422,7 @@
 14-34	2301-2308	carrier	_
 14-35	2309-2310	.	_
 
+Text=By finding a city, BOS, from which a given carrier ’ s flights to DEN only go through ATL, a cancellation becomes more apparent.
 15-1	2311-2313	By	_
 15-2	2314-2321	finding	_
 15-3	2322-2323	a	_
@@ -437,6 +452,7 @@
 15-27	2433-2441	apparent	_
 15-28	2442-2443	.	_
 
+Text=In Electroencephalography, such technique may reveal the same type of significant insights, while the nodes in this case are simply the electrodes placed on the scalp and a reference-based connectivity function is required to measure the relationships between them.
 16-1	2444-2446	In	_
 16-2	2447-2469	Electroencephalography	_
 16-3	2470-2471	,	_
@@ -480,6 +496,7 @@
 16-41	2706-2710	them	_
 16-42	2711-2712	.	_
 
+Text=Therefore, in the same way, we analyze the connectivity between electrodes A and B (Fig 1) by examining either the direct connectivity or information transfer between A and B (left panel) or the induced change in connectivity between A and B, as seen by the change in the information transfer between reference electrode C and A with respect to the information transfer between C and B.
 17-1	2713-2722	Therefore	_
 17-2	2723-2724	,	_
 17-3	2725-2727	in	_
@@ -555,6 +572,7 @@
 17-73	3104-3105	B	_
 17-74	3106-3107	.	_
 
+Text=Our proposed discrimination and classification mechanism is based on a novel connectivity analysis tool that we term “ Connectivity Maps ”.
 18-1	3108-3111	Our	_
 18-2	3112-3120	proposed	_
 18-3	3121-3135	discrimination	_
@@ -578,6 +596,7 @@
 18-21	3245-3246	”	_
 18-22	3247-3248	.	_
 
+Text=These maps are generated in a relatively simple process that consists of the following 6 steps: Several preprocessing tasks are performed, and the raw signals are broken into relevant intervals.
 19-1	3249-3254	These	_
 19-2	3255-3259	maps	_
 19-3	3260-3263	are	_
@@ -612,6 +631,7 @@
 19-32	3435-3444	intervals	_
 19-33	3445-3446	.	_
 
+Text=Technical description of the preprocessing phase is detailed below under “ Experimental Setup ”.
 20-1	3447-3456	Technical	_
 20-2	3457-3468	description	_
 20-3	3469-3471	of	_
@@ -628,6 +648,7 @@
 20-14	3541-3542	”	_
 20-15	3543-3544	.	_
 
+Text=The signal in several frequency bands is decomposed and reconstructed, and then time windows that maximize the correlation between electrodes are sought.
 21-1	3545-3548	The	_
 21-2	3549-3555	signal	_
 21-3	3556-3558	in	_
@@ -653,6 +674,7 @@
 21-23	3692-3698	sought	_
 21-24	3699-3700	.	_
 
+Text=A network of correlations with respect to different base or reference electrodes is constructed.
 22-1	3701-3702	A	_
 22-2	3703-3710	network	_
 22-3	3711-3713	of	_
@@ -669,6 +691,7 @@
 22-14	3785-3796	constructed	_
 22-15	3797-3798	.	_
 
+Text=Fisher-based feature extraction (See below definitions for Fisher and Relative Fisher matrices) from the set of connectivity maps obtained for the different reference electrodes is performed.
 23-1	3799-3811	Fisher-based	_
 23-2	3812-3819	feature	_
 23-3	3820-3830	extraction	_
@@ -699,6 +722,7 @@
 23-28	3982-3991	performed	_
 23-29	3992-3993	.	_
 
+Text=An optimization analysis is conducted based on the chronological presence of stimuli.
 24-1	3994-3996	An	_
 24-2	3997-4009	optimization	_
 24-3	4010-4018	analysis	_
@@ -713,6 +737,7 @@
 24-12	4071-4078	stimuli	_
 24-13	4079-4080	.	_
 
+Text=Post analysis and processing of the results is performed, including discrimination between the correlation matrix and Fisher-based features of the healthy subjects and those of the schizophrenia patients.
 25-1	4081-4085	Post	_
 25-2	4086-4094	analysis	_
 25-3	4095-4098	and	_
@@ -744,6 +769,7 @@
 25-29	4277-4285	patients	_
 25-30	4286-4287	.	_
 
+Text=In addition to the resulted parameters, this step is also performed under different constraints, such as specific time frames or following specific stimuli, for a broader statistical analysis.
 26-1	4288-4290	In	_
 26-2	4291-4299	addition	_
 26-3	4300-4302	to	_
@@ -777,6 +803,7 @@
 26-31	4474-4482	analysis	_
 26-32	4483-4484	.	_
 
+Text=These steps are shown in Fig 2 below.
 27-1	4485-4490	These	_
 27-2	4491-4496	steps	_
 27-3	4497-4500	are	_
@@ -787,6 +814,7 @@
 27-8	4516-4521	below	_
 27-9	4522-4523	.	_
 
+Text=Given a window size W, a maximum phase φ and a number of trials i ∈ {1 .. t} for an electrode, let us define a connectivity function Fconn between two electrodes, such as a cross correlation, as Fconn can be replaced with any other metric of bi-electrode connectivity.
 28-1	4524-4529	Given	_
 28-2	4530-4531	a	_
 28-3	4532-4538	window	_
@@ -844,6 +872,7 @@
 28-55	4785-4797	connectivity	_
 28-56	4798-4799	.	_
 
+Text=For example, the average-over-trials function could be replaced with the corresponding max or median function.
 29-1	4800-4803	For	_
 29-2	4804-4811	example	_
 29-3	4812-4813	,	_
@@ -862,6 +891,7 @@
 29-16	4902-4910	function	_
 29-17	4911-4912	.	_
 
+Text=For each electrode, two initial connectivity maps are created and presented using matrices.
 30-1	4913-4916	For	_
 30-2	4917-4921	each	_
 30-3	4922-4931	electrode	_
@@ -878,6 +908,7 @@
 30-14	4996-5004	matrices	_
 30-15	5005-5006	.	_
 
+Text=The correlation connectivity map for electrode A is defined by where N is the total number of subjects and W ∈ {50 ms, 100 ms, 150 ms, 200 ms}.
 31-1	5007-5010	The	_
 31-2	5011-5022	correlation	_
 31-3	5023-5035	connectivity	_
@@ -914,6 +945,7 @@
 31-34	5153-5154	}	_
 31-35	5155-5156	.	_
 
+Text=Such a cross-correlation function with different possible window sizes alongside a small phase limit φ can be efficient in detecting synchronization of the flow of information in a system.
 32-1	5157-5161	Such	_
 32-2	5162-5163	a	_
 32-3	5164-5181	cross-correlation	_
@@ -945,6 +977,7 @@
 32-29	5338-5344	system	_
 32-30	5345-5346	.	_
 
+Text=In a similar way, a standard deviation matrix map can be defined as follows: CM_STDA (B) = StdsubjectFConn (A, B).
 33-1	5347-5349	In	_
 33-2	5350-5351	a	_
 33-3	5352-5359	similar	_
@@ -974,6 +1007,7 @@
 33-27	5466-5467	)	_
 33-28	5468-5469	.	_
 
+Text=A healthy-schizophrenia patients Fisher-score matrix can then be created using the following equation: Feature matrices are then created for additional features, for prediction and classification.
 34-1	5470-5471	A	_
 34-2	5472-5493	healthy-schizophrenia	_
 34-3	5494-5502	patients	_
@@ -1003,6 +1037,7 @@
 34-27	5653-5667	classification	_
 34-28	5668-5669	.	_
 
+Text=Three characteristics were used to create these additional features: 1.
 35-1	5670-5675	Three	_
 35-2	5676-5691	characteristics	_
 35-3	5692-5696	were	_
@@ -1016,6 +1051,7 @@
 35-11	5740-5741	1	_
 35-12	5742-5743	.	_
 
+Text=Relative distances: the differences in the direct connectivity map are computed with respect to the reference electrode (see Fig 1).
 36-1	5744-5752	Relative	_
 36-2	5753-5762	distances	_
 36-3	5763-5764	:	_
@@ -1041,6 +1077,7 @@
 36-23	5877-5878	)	_
 36-24	5879-5880	.	_
 
+Text=The relative distances are defined by 2.
 37-1	5881-5884	The	_
 37-2	5885-5893	relative	_
 37-3	5894-5903	distances	_
@@ -1050,6 +1087,7 @@
 37-7	5919-5920	2	_
 37-8	5921-5922	.	_
 
+Text=Feature multiplication: Multiplication elements that are extensions of the relative distances are defined.
 38-1	5923-5930	Feature	_
 38-2	5931-5945	multiplication	_
 38-3	5946-5947	:	_
@@ -1066,6 +1104,7 @@
 38-14	6022-6029	defined	_
 38-15	6030-6031	.	_
 
+Text=As reference electrode is shared by both elements of each multiplication matrix, these features amplify contribution of such successful, “ multi-purpose ” reference points.
 39-1	6032-6034	As	_
 39-2	6035-6044	reference	_
 39-3	6045-6054	electrode	_
@@ -1094,6 +1133,7 @@
 39-26	6199-6205	points	_
 39-27	6206-6207	.	_
 
+Text=For each pair of relative elements, as defined above, a multiplication element is created, defined as follows: 3.
 40-1	6208-6211	For	_
 40-2	6212-6216	each	_
 40-3	6217-6221	pair	_
@@ -1118,6 +1158,7 @@
 40-22	6323-6324	3	_
 40-23	6325-6326	.	_
 
+Text=Fisher relative score features matrix: This matrix is defined by The feature classification procedure collects only the most statistically significant discriminating features rather than the holistic network connectivity level.
 41-1	6327-6333	Fisher	_
 41-2	6334-6342	relative	_
 41-3	6343-6348	score	_
@@ -1150,6 +1191,7 @@
 41-30	6549-6554	level	_
 41-31	6555-6556	.	_
 
+Text=The procedure is as follows: Set the parameters K1, K2 with the goal of limiting the number of electrodes involved in the process of interest.
 42-1	6557-6560	The	_
 42-2	6561-6570	procedure	_
 42-3	6571-6573	is	_
@@ -1179,6 +1221,7 @@
 42-27	6692-6700	interest	_
 42-28	6701-6702	.	_
 
+Text=Construct a feature matrix F of size K1 electrodes x K2 features by letting each row Fi represent the source electrode i and its derived features.
 43-1	6703-6712	Construct	_
 43-2	6713-6714	a	_
 43-3	6715-6722	feature	_
@@ -1207,6 +1250,7 @@
 43-26	6840-6848	features	_
 43-27	6849-6850	.	_
 
+Text=Steps 2–6 were tested with K1 chosen from {0.1N, 0.2N, .., N}, and K2 from {5%,10%}.
 44-1	6851-6856	Steps	_
 44-2	6857-6860	2–6	_
 44-3	6861-6865	were	_
@@ -1236,6 +1280,7 @@
 44-27	6944-6945	}	_
 44-28	6946-6947	.	_
 
+Text=The elements of row i of the feature matrix are all features obtained from electrode i, as defined above:.
 45-1	6948-6951	The	_
 45-2	6952-6960	elements	_
 45-3	6961-6963	of	_
@@ -1259,6 +1304,7 @@
 45-21	7054-7055	:	_
 45-22	7056-7057	.	_
 
+Text=To increase the clarity of the maps, only the top 10% of features in terms of healthy-schizophrenia patients variance were retained.
 46-1	7058-7060	To	_
 46-2	7061-7069	increase	_
 46-3	7070-7073	the	_
@@ -1284,6 +1330,7 @@
 46-23	7183-7191	retained	_
 46-24	7192-7193	.	_
 
+Text=For each row, calculate the average of the maximal K1 elements.
 47-1	7194-7197	For	_
 47-2	7198-7202	each	_
 47-3	7203-7206	row	_
@@ -1298,6 +1345,7 @@
 47-12	7249-7257	elements	_
 47-13	7258-7259	.	_
 
+Text=Choose the K2 features that have maximal scores.
 48-1	7260-7266	Choose	_
 48-2	7267-7270	the	_
 48-3	7271-7273	K2	_
@@ -1308,6 +1356,7 @@
 48-8	7301-7307	scores	_
 48-9	7308-7309	.	_
 
+Text=Use Laplacian regularization for feature scoring.
 49-1	7310-7313	Use	_
 49-2	7314-7323	Laplacian	_
 49-3	7324-7338	regularization	_
@@ -1316,6 +1365,7 @@
 49-6	7351-7358	scoring	_
 49-7	7359-7360	.	_
 
+Text=Alternatively, another feature scoring method may also be used.
 50-1	7361-7374	Alternatively	_
 50-2	7375-7376	,	_
 50-3	7377-7384	another	_
@@ -1328,6 +1378,7 @@
 50-10	7420-7424	used	_
 50-11	7425-7426	.	_
 
+Text=Analyze the projected results for new segments of acquired data using a statistical model that features 2 states or models; compare the likelihood of each model (healthy individuals or schizophrenia patient) using Chi-squared tests followed by model comparison.
 51-1	7427-7434	Analyze	_
 51-2	7435-7438	the	_
 51-3	7439-7448	projected	_
@@ -1371,6 +1422,7 @@
 51-41	7680-7690	comparison	_
 51-42	7691-7692	.	_
 
+Text=Classify the feature set according to the likelihoods of the two models.
 52-1	7693-7701	Classify	_
 52-2	7702-7705	the	_
 52-3	7706-7713	feature	_
@@ -1385,6 +1437,7 @@
 52-12	7758-7764	models	_
 52-13	7765-7766	.	_
 
+Text=Post-procedure validation: Perform cross-validation between patients ’ data using the ‘ leave one out ’ method.
 53-1	7767-7781	Post-procedure	_
 53-2	7782-7792	validation	_
 53-3	7793-7794	:	_
@@ -1404,6 +1457,7 @@
 53-17	7872-7878	method	_
 53-18	7879-7880	.	_
 
+Text=In each phase, one subject ’ s data is left out of the training set, and all properties are computed without using this data.
 54-1	7881-7883	In	_
 54-2	7884-7888	each	_
 54-3	7889-7894	phase	_
@@ -1432,6 +1486,7 @@
 54-26	8003-8007	data	_
 54-27	8008-8009	.	_
 
+Text=Testing and predictions are then conducted with the data that was left out, treating this data as a fresh, newly acquired dataset.
 55-1	8010-8017	Testing	_
 55-2	8018-8021	and	_
 55-3	8022-8033	predictions	_
@@ -1458,6 +1513,7 @@
 55-24	8134-8141	dataset	_
 55-25	8142-8143	.	_
 
+Text=2.2 –Experimental setup We demonstrate an analysis of EEG data from a previously reported study; this data provided evidence for contextual processing deficits in patients with schizophrenia by demonstrating alterations in the neural correlates of local contextual processing.
 56-1	8144-8147	2.2	_
 56-2	8148-8161	–Experimental	_
 56-3	8162-8167	setup	_
@@ -1499,6 +1555,7 @@
 56-39	8410-8420	processing	_
 56-40	8421-8422	.	_
 
+Text=This experimental data was acquired while the subjects played a computer simulation game.
 57-1	8423-8427	This	_
 57-2	8428-8440	experimental	_
 57-3	8441-8445	data	_
@@ -1514,6 +1571,7 @@
 57-13	8507-8511	game	_
 57-14	8512-8513	.	_
 
+Text=The game featured a basic visual-stimuli identification-response task.
 58-1	8514-8517	The	_
 58-2	8518-8522	game	_
 58-3	8523-8531	featured	_
@@ -1524,6 +1582,7 @@
 58-8	8579-8583	task	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 58-9	8584-8585	.	_
 
+Text=Three different triangles were presented, each pointing in a different direction, with different patterns of recurrence.
 59-1	8586-8591	Three	_
 59-2	8592-8601	different	_
 59-3	8602-8611	triangles	_
@@ -1544,6 +1603,7 @@
 59-18	8697-8707	recurrence	_
 59-19	8708-8709	.	_
 
+Text=One of the shapes (‘ P ’ stimulus type) had a recurrence pattern that created a higher level of cognitive activity (“ anticipation ”) among the subjects in comparison to the other two; we focused on the EEG data that was recorded while responding to this specific stimulus.
 60-1	8710-8713	One	_
 60-2	8714-8716	of	_
 60-3	8717-8720	the	_
@@ -1599,6 +1659,7 @@
 60-53	8979-8987	stimulus	_
 60-54	8988-8989	.	_
 
+Text=EEG data was recorded from a 64-electrode array using the ActiveTwo system (Biosemi, The Netherlands).
 61-1	8990-8993	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 61-2	8994-8998	data	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 61-3	8999-9002	was	_
@@ -1619,6 +1680,7 @@
 61-18	9093-9094	)	_
 61-19	9095-9096	.	_
 
+Text=External electrodes above and below the right eye monitored vertical eye movements, and electrodes placed laterally to the left and right eyes monitored horizontal eye movements.
 62-1	9097-9105	External	_
 62-2	9106-9116	electrodes	_
 62-3	9117-9122	above	_
@@ -1648,6 +1710,7 @@
 62-27	9266-9275	movements	_
 62-28	9276-9277	.	_
 
+Text=Signals were sampled at 512 Hz.
 63-1	9278-9285	Signals	_
 63-2	9286-9290	were	_
 63-3	9291-9298	sampled	_
@@ -1656,6 +1719,7 @@
 63-6	9306-9308	Hz	_
 63-7	9309-9310	.	_
 
+Text=The stimuli consisted of black triangles on a gray background (triangles pointing to the left, upwards and to the right, in 90-degree increments).
 64-1	9311-9314	The	_
 64-2	9315-9322	stimuli	_
 64-3	9323-9332	consisted	_
@@ -1685,6 +1749,7 @@
 64-27	9459-9460	)	_
 64-28	9461-9462	.	_
 
+Text=In each block, a total of 78 stimuli were presented for 150 ms each with an inter-stimulus interval (ISI) of 1 s. The stimuli blocks were a mixture of randomized sequences of standards and sequences including a three-standard predictive sequence.
 65-1	9463-9465	In	_
 65-2	9466-9470	each	_
 65-3	9471-9476	block	_
@@ -1730,6 +1795,7 @@
 65-43	9703-9711	sequence	_
 65-44	9712-9713	.	_
 
+Text=The predictive sequence always consisted of the three triangles facing to the left, up and to the right, always in that order.
 66-1	9714-9717	The	_
 66-2	9718-9728	predictive	_
 66-3	9729-9737	sequence	_
@@ -1756,6 +1822,7 @@
 66-24	9836-9841	order	_
 66-25	9842-9843	.	_
 
+Text=We focused our analysis on the response to the predictive sequences (“ P ” stimuli), as these are considered to be significant indicators of schizophrenia.
 67-1	9844-9846	We	_
 67-2	9847-9854	focused	_
 67-3	9855-9858	our	_
@@ -1786,6 +1853,7 @@
 67-28	9988-10001	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 67-29	10002-10003	.	_
 
+Text=In the preprocessing phase, a band-pass filter was implemented to pass frequencies in the interval of 0.1 Hz-30 Hz (excluding the gamma-1 and gamma-2 bands), and the filtered data were normalized by the standard deviation.
 68-1	10004-10006	In	_
 68-2	10007-10010	the	_
 68-3	10011-10024	preprocessing	_
@@ -1827,6 +1895,7 @@
 68-39	10220-10229	deviation	_
 68-40	10230-10231	.	_
 
+Text=The data were analyzed in 1.2-s epochs that began 200 ms prior to the appearance of the ‘ P ’ stimulus.
 69-1	10232-10235	The	_
 69-2	10236-10240	data	_
 69-3	10241-10245	were	_
@@ -1850,6 +1919,7 @@
 69-21	10326-10334	stimulus	_
 69-22	10335-10336	.	_
 
+Text=Eye blinks were removed using ICA.
 70-1	10337-10340	Eye	_
 70-2	10341-10347	blinks	_
 70-3	10348-10352	were	_
@@ -1858,6 +1928,7 @@
 70-6	10367-10370	ICA	_
 70-7	10371-10372	.	_
 
+Text=Epochs containing misses (no button press 150–1150 ms post stimulus onset) and eye saccades were excluded from further analysis.
 71-1	10373-10379	Epochs	_
 71-2	10380-10390	containing	_
 71-3	10391-10397	misses	_
@@ -1881,6 +1952,7 @@
 71-21	10494-10502	analysis	_
 71-22	10503-10504	.	_
 
+Text=EEG epochs with amplitudes of more than 75 μV at any electrode were excluded.
 72-1	10505-10508	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 72-2	10509-10515	epochs	_
 72-3	10516-10520	with	_
@@ -1897,6 +1969,7 @@
 72-14	10573-10581	excluded	_
 72-15	10582-10583	.	_
 
+Text=The parameters used for preprocessing and arguments for repetition analysis and optimization were the same as those used in a recent study that analyzed the same data set.
 73-1	10584-10587	The	_
 73-2	10588-10598	parameters	_
 73-3	10599-10603	used	_
@@ -1927,6 +2000,7 @@
 73-28	10751-10754	set	_
 73-29	10755-10756	.	_
 
+Text=The process described above was applied using a set of time windows separated into different frequency bands.
 74-1	10757-10760	The	_
 74-2	10761-10768	process	_
 74-3	10769-10778	described	_
@@ -1946,6 +2020,7 @@
 74-17	10860-10865	bands	_
 74-18	10866-10867	.	_
 
+Text=Windows were created to overlap 90% of the 1.2-s epochs starting 200 ms before the stimulus and ending 1000 ms post stimulus.
 75-1	10868-10875	Windows	_
 75-2	10876-10880	were	_
 75-3	10881-10888	created	_
@@ -1971,6 +2046,7 @@
 75-23	10985-10993	stimulus	_
 75-24	10994-10995	.	_
 
+Text=After pre-processing, bands of 0.1 Hz-30 Hz were separated into 6 equal 5-Hz intervals, and different combinations of these intervals (all subsets of the full band including the full band itself), in addition to the classical Alpha/Beta/Theta/Delta/Gamma bands, were tested.
 76-1	10996-11001	After	_
 76-2	11002-11016	pre-processing	_
 76-3	11017-11018	,	_
@@ -2019,6 +2095,7 @@
 76-46	11269-11275	tested	_
 76-47	11276-11277	.	_
 
+Text=The responses to 5 to 15 stimuli from the beginning of each recording were analyzed, as described previously; the number of responses analyzed was constant per iteration.
 77-1	11278-11281	The	_
 77-2	11282-11291	responses	_
 77-3	11292-11294	to	_
@@ -2050,6 +2127,7 @@
 77-29	11440-11449	iteration	_
 77-30	11450-11451	.	_
 
+Text=The full data set included 50 subjects: 25 were healthy, with no history of psychiatric illness or problematic behavior, and 25 had been diagnosed with schizophrenia, hospitalized and treated with appropriate medication.
 78-1	11452-11455	The	_
 78-2	11456-11460	full	_
 78-3	11461-11465	data	_
@@ -2088,6 +2166,7 @@
 78-36	11665-11675	medication	_
 78-37	11676-11677	.	_
 
+Text=Signed, informed consent was obtained from all subjects.
 79-1	11678-11684	Signed	_
 79-2	11685-11686	,	_
 79-3	11687-11695	informed	_
@@ -2099,6 +2178,7 @@
 79-9	11726-11734	subjects	_
 79-10	11735-11736	.	_
 
+Text=All participants had full capacity to consent, following a clinical evaluation of a psychiatrist.
 80-1	11737-11740	All	_
 80-2	11741-11753	participants	_
 80-3	11754-11757	had	_
@@ -2116,6 +2196,7 @@
 80-15	11822-11834	psychiatrist	_
 80-16	11835-11836	.	_
 
+Text=The local ethics committees of A Curuna University and Shaar Menashe Hospital approved the study.
 81-1	11837-11840	The	_
 81-2	11841-11846	local	_
 81-3	11847-11853	ethics	_
@@ -2133,6 +2214,7 @@
 81-15	11928-11933	study	_
 81-16	11934-11935	.	_
 
+Text=Patients were diagnosed with schizophrenia according to the Structured Clinical Interview for DMS-IV-Tr, and the severity of their symptoms was rated using the Positive (SAPS) and Negative (SANS) Syndrome Scale.
 82-1	11936-11944	Patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 82-2	11945-11949	were	_
 82-3	11950-11959	diagnosed	_
@@ -2170,6 +2252,7 @@
 82-35	12146-12151	Scale	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 82-36	12152-12153	.	_
 
+Text=We note that during the recording phase, schizophrenia patients were receiving their regular medications.
 83-1	12154-12156	We	_
 83-2	12157-12161	note	_
 83-3	12162-12166	that	_

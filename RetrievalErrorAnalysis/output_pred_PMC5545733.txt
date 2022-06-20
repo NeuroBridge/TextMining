@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Functional neuroimaging effects of recently discovered genetic risk loci for schizophrenia and polygenic risk profile in five RDoC subdomains Recently, 125 loci with genome-wide support for association with schizophrenia were identified.
 1-1	0-10	Functional	_
 1-2	11-23	neuroimaging	_
 1-3	24-31	effects	_
@@ -36,6 +37,7 @@
 1-32	227-237	identified	_
 1-33	238-239	.	_
 
+Text=We investigated the impact of these variants and their accumulated genetic risk on brain activation in five neurocognitive domains of the Research Domain Criteria (working memory, reward processing, episodic memory, social cognition and emotion processing).
 2-1	240-242	We	_
 2-2	243-255	investigated	_
 2-3	256-259	the	_
@@ -78,6 +80,7 @@
 2-40	500-501	)	_
 2-41	502-503	.	_
 
+Text=In 578 healthy subjects we tested for association (i) of a polygenic risk profile score (RPS) including all single-nucleotide polymorphisms (SNPs) reaching genome-wide significance in the recent genome-wide association studies (GWAS) meta-analysis and (ii) of all independent genome-wide significant loci separately that showed sufficient distribution of all allelic groups in our sample (105 SNPs).
 3-1	504-506	In	_
 3-2	507-510	578	_
 3-3	511-518	healthy	_
@@ -146,6 +149,7 @@
 3-66	913-914	)	_
 3-67	915-916	.	_
 
+Text=The RPS was nominally associated with perigenual anterior cingulate and posterior cingulate/precuneus activation during episodic memory (PFWE (ROI) =0.047) and social cognition (PFWE (ROI) =0.025), respectively.
 4-1	917-920	The	_
 4-2	921-924	RPS	_
 4-3	925-928	was	_
@@ -183,6 +187,7 @@
 4-35	1124-1136	respectively	_
 4-36	1137-1138	.	_
 
+Text=Single SNP analyses revealed that rs9607782, located near EP300, was significantly associated with amygdala recruitment during emotion processing (PFWE (ROI) =1.63 × 10−4, surpassing Bonferroni correction for the number of SNPs).
 5-1	1139-1145	Single	_
 5-2	1146-1149	SNP	_
 5-3	1150-1158	analyses	_
@@ -223,6 +228,7 @@
 5-38	1373-1374	)	_
 5-39	1375-1376	.	_
 
+Text=Importantly, this association was replicable in an independent sample (N=150; PFWE (ROI) <0.025).
 6-1	1377-1388	Importantly	_
 6-2	1389-1390	,	_
 6-3	1391-1395	this	_
@@ -245,6 +251,7 @@
 6-20	1479-1480	)	_
 6-21	1481-1482	.	_
 
+Text=Other SNP effects previously associated with imaging phenotypes were nominally significant, but did not withstand correction for the number of SNPs tested.
 7-1	1483-1488	Other	_
 7-2	1489-1492	SNP	_
 7-3	1493-1500	effects	_
@@ -270,6 +277,7 @@
 7-23	1632-1638	tested	_
 7-24	1639-1640	.	_
 
+Text=To assess whether there was true signal within our data, we repeated single SNP analyses with 105 randomly chosen non-schizophrenia-associated variants, observing fewer significant results and lower association probabilities.
 8-1	1641-1643	To	_
 8-2	1644-1650	assess	_
 8-3	1651-1658	whether	_
@@ -303,6 +311,7 @@
 8-31	1854-1867	probabilities	_
 8-32	1868-1869	.	_
 
+Text=Applying stringent methodological procedures, we found preliminary evidence for the notion that genetic risk for schizophrenia conferred by rs9607782 may be mediated by amygdala function.
 9-1	1870-1878	Applying	_
 9-2	1879-1888	stringent	_
 9-3	1889-1903	methodological	_
@@ -331,6 +340,7 @@
 9-26	2049-2057	function	_
 9-27	2058-2059	.	_
 
+Text=We critically evaluate the potential caveats of the methodological approaches employed and offer suggestions for future studies.
 10-1	2060-2062	We	_
 10-2	2063-2073	critically	_
 10-3	2074-2082	evaluate	_
@@ -350,6 +360,7 @@
 10-17	2180-2187	studies	_
 10-18	2188-2189	.	_
 
+Text=Materials and methods Subjects A total of 578 German volunteers who never suffered from psychiatric disorder (evidenced by SCID-I) were recruited at Mannheim, Berlin and Bonn as part of an ongoing study on neurogenetic mechanisms of unipolar depression, bipolar disorder and schizophrenia (http: //www.ngfn.de/en/ schizophrenie.html; http: //www.sys-med.de/en/consortia/integrament/).
 11-1	2190-2199	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	2200-2203	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	2204-2211	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -408,6 +419,7 @@
 11-56	2581-2582	)	_
 11-57	2583-2584	.	_
 
+Text=N=333 participants had no lifetime family history of schizophrenia or an affective disorder, and n=245 subjects had at least one first-degree relative affected by schizophrenia (n=72), bipolar disorder (n=71) or depression (n=102).
 12-1	2585-2590	N=333	_
 12-2	2591-2603	participants	_
 12-3	2604-2607	had	_
@@ -450,6 +462,7 @@
 12-40	2822-2823	)	_
 12-41	2824-2825	.	_
 
+Text=Affected index patients did not suffer from any other psychotic or affective disorder, and the investigated relatives had no family history of multiple different psychiatric diagnoses (for example, cases of both, affective and psychotic disorders).
 13-1	2826-2834	Affected	_
 13-2	2835-2840	index	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 13-3	2841-2849	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -492,6 +505,7 @@
 13-40	3077-3078	)	_
 13-41	3079-3080	.	_
 
+Text=All subjects had grandparents of European origin.
 14-1	3081-3084	All	_
 14-2	3085-3093	subjects	_
 14-3	3094-3097	had	_
@@ -501,6 +515,7 @@
 14-7	3123-3129	origin	_
 14-8	3130-3131	.	_
 
+Text=Following application of exclusion criteria n=472–509 subjects were included in the analyses of the respective tasks (see Supplementary Material for details).
 15-1	3132-3141	Following	_
 15-2	3142-3153	application	_
 15-3	3154-3156	of	_
@@ -526,6 +541,7 @@
 15-23	3290-3291	)	_
 15-24	3292-3293	.	_
 
+Text=N=150 controls recruited as part of a study on the neurogenetic mechanisms of alcohol dependence in Berlin and Bonn (http: //www.ngfn.de/en/alkoholabh__ngigkeit.html) served as replication sample.
 16-1	3294-3299	N=150	_
 16-2	3300-3308	controls	_
 16-3	3309-3318	recruited	_
@@ -556,6 +572,7 @@
 16-28	3486-3492	sample	_
 16-29	3493-3494	.	_
 
+Text=All participants never suffered from psychiatric disorder according to the Structured Clinical Interview of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) Axis-I Disorders (SCID-I).
 17-1	3495-3498	All	_
 17-2	3499-3511	participants	_
 17-3	3512-3517	never	_
@@ -588,6 +605,7 @@
 17-30	3698-3699	)	_
 17-31	3700-3701	.	_
 
+Text=Demographic characteristics of the respective subsamples are given in Supplementary Tables S1 and S2.
 18-1	3702-3713	Demographic	_
 18-2	3714-3729	characteristics	_
 18-3	3730-3732	of	_
@@ -604,6 +622,7 @@
 18-14	3800-3802	S2	_
 18-15	3803-3804	.	_
 
+Text=The study was approved by local ethics committees of the universities of Heidelberg, Berlin and Bonn.
 19-1	3805-3808	The	_
 19-2	3809-3814	study	_
 19-3	3815-3818	was	_
@@ -623,6 +642,7 @@
 19-17	3902-3906	Bonn	_
 19-18	3907-3908	.	_
 
+Text=All participants gave written informed consent to the study according to the Declaration of Helsinki.
 20-1	3909-3912	All	_
 20-2	3913-3925	participants	_
 20-3	3926-3930	gave	_
@@ -640,6 +660,7 @@
 20-15	4001-4009	Helsinki	_
 20-16	4010-4011	.	_
 
+Text=DNA extraction and genotyping Ethylenediaminetetraacetic acid anticoagulated venous blood samples were collected from all individuals.
 21-1	4012-4015	DNA	_
 21-2	4016-4026	extraction	_
 21-3	4027-4030	and	_
@@ -657,6 +678,7 @@
 21-15	4134-4145	individuals	_
 21-16	4146-4147	.	_
 
+Text=Lymphocyte DNA was isolated using the Chemagic Magnetic Separation Module I (Chemagen, Baesweiler, Germany) according to the manufacturer ’ s recommendations.
 22-1	4148-4158	Lymphocyte	_
 22-2	4159-4162	DNA	_
 22-3	4163-4166	was	_
@@ -684,6 +706,7 @@
 22-25	4294-4309	recommendations	_
 22-26	4310-4311	.	_
 
+Text=A genome-wide data set was generated at the Department of Genomics, Life & Brain Center, University of Bonn using Illumina ’ s Human610Quad, Human660W-Quad and Infinium PsychArray-24 BeadChips (Illumina, San Diego, CA, USA).
 23-1	4312-4313	A	_
 23-2	4314-4325	genome-wide	_
 23-3	4326-4330	data	_
@@ -727,6 +750,7 @@
 23-41	4542-4543	)	_
 23-42	4544-4545	.	_
 
+Text=Quality control and imputation were performed with standard parameters used by the Psychiatric Genetics Consortium (PGC) Statistical Analyses Group and RPS were calculated using methods described by Purcell et al.
 24-1	4546-4553	Quality	_
 24-2	4554-4561	control	_
 24-3	4562-4565	and	_
@@ -761,6 +785,7 @@
 24-32	4758-4760	al	_
 24-33	4761-4762	.	_
 
+Text=(see Supplementary Material for details).
 25-1	4763-4764	(	_
 25-2	4765-4768	see	_
 25-3	4769-4782	Supplementary	_
@@ -770,6 +795,7 @@
 25-7	4804-4805	)	_
 25-8	4806-4807	.	_
 
+Text=Functional imaging tasks During functional magnetic resonance imaging (fMRI) subjects completed an associative episodic memory (EM) task requiring encoding, recall and recognition of face-profession pairs.
 26-1	4808-4818	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 26-2	4819-4826	imaging	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 26-3	4827-4832	tasks	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -802,6 +828,7 @@
 26-30	5012-5017	pairs	_
 26-31	5018-5019	.	_
 
+Text=The WM n-back task required continuous updating and retrieval of elements held in short-time memory.
 27-1	5020-5023	The	_
 27-2	5024-5026	WM	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 27-3	5027-5033	n-back	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -819,6 +846,7 @@
 27-15	5113-5119	memory	_
 27-16	5120-5121	.	_
 
+Text=The RP monetary incentive delay task allowed the study of anticipation of monetary gains or losses.
 28-1	5122-5125	The	_
 28-2	5126-5128	RP	_
 28-3	5129-5137	monetary	_
@@ -837,6 +865,7 @@
 28-16	5214-5220	losses	_
 28-17	5221-5222	.	_
 
+Text=The Theory of Mind (ToM) task consisted of cartoon stories requiring subjects to take the protagonist ’ s perspective and judge changes in his/her affective states.
 29-1	5223-5226	The	_
 29-2	5227-5233	Theory	http://maven.renci.org/NeuroBridge/neurobridge#AuditoryOddballTask
 29-3	5234-5236	of	http://maven.renci.org/NeuroBridge/neurobridge#AuditoryOddballTask
@@ -867,6 +896,7 @@
 29-28	5382-5388	states	_
 29-29	5389-5390	.	_
 
+Text=The face-matching task (FMT) operationalized subjects ’ implicit processing of negative emotions while viewing faces showing either fearful or angry expressions (for detailed descriptions see refs and Supplementary Material).
 30-1	5391-5394	The	_
 30-2	5395-5408	face-matching	http://maven.renci.org/NeuroBridge/neurobridge#FingerTappingTask
 30-3	5409-5413	task	http://maven.renci.org/NeuroBridge/neurobridge#FingerTappingTask
@@ -902,6 +932,7 @@
 30-33	5618-5619	)	_
 30-34	5620-5621	.	_
 
+Text=All tasks were previously shown to robustly activate target structures and to possess excellent test–retest reliability in between-group designs.
 31-1	5622-5625	All	_
 31-2	5626-5631	tasks	_
 31-3	5632-5636	were	_
@@ -923,6 +954,7 @@
 31-19	5759-5766	designs	_
 31-20	5767-5768	.	_
 
+Text=Imaging parameters Blood-oxygen-level dependent fMRI was performed on three Siemens Trio 3 T MR-Tomographs at the Life and Brain Center of the University of Bonn, the Central Institute of Mental Health Mannheim, and the Charité-Universitätsmedizin Berlin.
 32-1	5769-5776	Imaging	_
 32-2	5777-5787	parameters	_
 32-3	5788-5806	Blood-oxygen-level	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
@@ -963,6 +995,7 @@
 32-38	6019-6025	Berlin	_
 32-39	6026-6027	.	_
 
+Text=At all sites, identical sequences and scanner protocols were employed (EM: 33 slices, axially tilted (−30°), slice thickness 2.4 mm+0.6 mm gap, field of view (FOV) 192 mm, repetition time (TR) 1.96 s, echo time (TE) 30 ms, flip angle 80°, all other fMRI tasks: 28 slices, slice thickness 4 mm+1 mm gap, FOV 192 mm, TR 2 s, TE 30 ms, flip angle 80°).
 33-1	6028-6030	At	_
 33-2	6031-6034	all	_
 33-3	6035-6040	sites	_
@@ -1055,6 +1088,7 @@
 33-90	6400-6401	)	_
 33-91	6402-6403	.	_
 
+Text=Quality-control measurements were conducted at all sites on every day of data collection according to a multicenter quality-assurance protocol, revealing stable parameters over time.
 34-1	6404-6419	Quality-control	_
 34-2	6420-6432	measurements	_
 34-3	6433-6437	were	_
@@ -1082,6 +1116,7 @@
 34-25	6582-6586	time	_
 34-26	6587-6588	.	_
 
+Text=To account for any variance related to differences across sites, the site was used as a covariate for all statistical analyses.
 35-1	6589-6591	To	_
 35-2	6592-6599	account	_
 35-3	6600-6603	for	_
@@ -1106,6 +1141,7 @@
 35-22	6708-6716	analyses	_
 35-23	6717-6718	.	_
 
+Text=Functional image processing Image processing and statistical analyses were conducted using statistical parametric mapping methods as implemented in SPM8 (http: //www.fil.ion.ucl.ac.uk/spm/software/spm8/).
 36-1	6719-6729	Functional	_
 36-2	6730-6735	image	_
 36-3	6736-6746	processing	_
@@ -1132,6 +1168,7 @@
 36-24	6924-6925	)	_
 36-25	6926-6927	.	_
 
+Text=Scans were subjected to a strict quality assessment before inclusion into further analyses.
 37-1	6928-6933	Scans	_
 37-2	6934-6938	were	_
 37-3	6939-6948	subjected	_
@@ -1147,6 +1184,7 @@
 37-13	7010-7018	analyses	_
 37-14	7019-7020	.	_
 
+Text=Following data-quality assessment and application of general exclusion criteria (see above) n=472–509 subjects were included in the respective analyses (see Supplementary Figure 1 and Supplementary Methods for details).
 38-1	7021-7030	Following	_
 38-2	7031-7043	data-quality	_
 38-3	7044-7054	assessment	_
@@ -1181,6 +1219,7 @@
 38-32	7242-7243	)	_
 38-33	7244-7245	.	_
 
+Text=During pre-processing, images were realigned to a mean image (movement parameters confined to <3 mm translation and <1.7° rotation between volumes), slice-time-corrected, spatially normalized to a standard stereotactic space (a brain template created by the Montreal Neurological Institute) with a voxel size of 3 × 3 × 3 mm and smoothed with a 9 mm full width at half maximum Gaussian filter.
 39-1	7246-7252	During	_
 39-2	7253-7267	pre-processing	_
 39-3	7268-7269	,	_
@@ -1254,6 +1293,7 @@
 39-71	7641-7647	filter	_
 39-72	7648-7649	.	_
 
+Text=A first-level fixed-effects model was computed for each participant and task.
 40-1	7650-7651	A	_
 40-2	7652-7663	first-level	_
 40-3	7664-7677	fixed-effects	_
@@ -1267,6 +1307,7 @@
 40-11	7722-7726	task	_
 40-12	7727-7728	.	_
 
+Text=Regressors were created from the time course of the experimental conditions of interest per task and convolved with a canonical hemodynamic response function.
 41-1	7729-7739	Regressors	_
 41-2	7740-7744	were	_
 41-3	7745-7752	created	_
@@ -1292,6 +1333,7 @@
 41-23	7878-7886	function	_
 41-24	7887-7888	.	_
 
+Text=Movement parameters, and for the ToM task also instructions and button presses, were included in the first-level models as covariates of no interest.
 42-1	7889-7897	Movement	_
 42-2	7898-7908	parameters	_
 42-3	7909-7910	,	_
@@ -1319,6 +1361,7 @@
 42-25	8031-8039	interest	_
 42-26	8040-8041	.	_
 
+Text=For each subject, individual contrast images of the task effect (WM: 2-back> 0-back; EM: memory> control; RP: anticipation of monetary win/loss> anticipation of neutral outcomes; ToM: mentalizing> control; FMT: faces> shapes) were subsequently entered into group statistics.
 43-1	8042-8045	For	_
 43-2	8046-8050	each	_
 43-3	8051-8058	subject	_
@@ -1375,6 +1418,7 @@
 43-54	8322-8332	statistics	_
 43-55	8333-8334	.	_
 
+Text=Statistical group analyses RPS: To test for genetic association with the intermediate phenotypes, the respective individual contrast images were analyzed using second-level multiple regression models for each task, including the RPS as regressor of interest, and age, sex, site, subgroup (no familial liability for psychiatric disorders, affected first-degree relative of patients with schizophrenia, bipolar disorder or depression), chip used for genotyping and the first three principal components (derived from a statistically independent set of common SNPs representing potential population stratification) as nuisance covariates.
 44-1	8335-8346	Statistical	_
 44-2	8347-8352	group	_
 44-3	8353-8361	analyses	_
@@ -1474,6 +1518,7 @@
 44-97	8972-8982	covariates	_
 44-98	8983-8984	.	_
 
+Text=Effects of RPS on predefined regions of interest (ROIs) were assessed determining the familywise error (FWE) -corrected significance values of the maximally activated voxel within each ROI using undirected tests.
 45-1	8985-8992	Effects	_
 45-2	8993-8995	of	_
 45-3	8996-8999	RPS	_
@@ -1510,6 +1555,7 @@
 45-34	9195-9200	tests	_
 45-35	9201-9202	.	_
 
+Text=For the WM, EM and FMT tasks, ROIs were defined a priori using anatomical labels provided by the Wake Forest University Pick Atlas (www.fmri.wfubmc.edu/downloads).
 46-1	9203-9206	For	_
 46-2	9207-9210	the	_
 46-3	9211-9213	WM	_
@@ -1540,6 +1586,7 @@
 46-28	9368-9369	)	_
 46-29	9370-9371	.	_
 
+Text=These were the bilateral dorsolateral prefrontal cortex (BA46 and BA9 with subtraction of medial voxels of BA9, see Esslinger et al.
 47-1	9372-9377	These	_
 47-2	9378-9382	were	_
 47-3	9383-9386	the	_
@@ -1565,6 +1612,7 @@
 47-23	9503-9505	al	_
 47-24	9506-9507	.	_
 
+Text=for details) for the WM task, the left and right hippocampus and perigenual anterior cingulate cortex (pgACC) for EM tasks and the bilateral amygdala, as well as the pgACC for the FMT (Supplementary Figure S2).
 48-1	9508-9511	for	_
 48-2	9512-9519	details	_
 48-3	9520-9521	)	_
@@ -1609,6 +1657,7 @@
 48-42	9723-9724	)	_
 48-43	9725-9726	.	_
 
+Text=As the AAL atlas does not provide anatomical labels for the ventral striatum, a spherical ROI was created for the RP task using a voxel located in the center of the ventral striatum (x=±9, y=11, z=−8) surrounded by a sphere of 10 mm.
 49-1	9727-9729	As	_
 49-2	9730-9733	the	_
 49-3	9734-9737	AAL	_
@@ -1659,6 +1708,7 @@
 49-48	9962-9964	mm	_
 49-49	9965-9966	.	_
 
+Text=For the ToM task, four functional ROIs were created for those regions previously shown to be aberrantly activated in patients with schizophrenia (for example, Sugranyes et al.
 50-1	9967-9970	For	_
 50-2	9971-9974	the	_
 50-3	9975-9978	ToM	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -1691,6 +1741,7 @@
 50-30	10142-10144	al	_
 50-31	10145-10146	.	_
 
+Text=; Walter et al.)
 51-1	10147-10148	;	_
 51-2	10149-10155	Walter	_
 51-3	10156-10158	et	_
@@ -1698,6 +1749,7 @@
 51-5	10162-10163	.	_
 51-6	10164-10165	)	_
 
+Text=and to be genetically modulated.
 52-1	10166-10169	and	_
 52-2	10170-10172	to	_
 52-3	10173-10175	be	_
@@ -1705,6 +1757,7 @@
 52-5	10188-10197	modulated	_
 52-6	10198-10199	.	_
 
+Text=As these regions were not covered by specific AAL ROIs, masks for the medial prefrontal cortex, bilateral temporal parietal junction (TPJ) and posterior cingulate cortex/precuneus (PCC/Pcu) were created based on coordinates reported by a meta-analysis on brain areas involved in ToM using the toolbox TWURoi (see Supplementary Material for details).
 53-1	10200-10202	As	_
 53-2	10203-10208	these	_
 53-3	10209-10216	regions	_
@@ -1765,6 +1818,7 @@
 53-58	10555-10556	)	_
 53-59	10557-10558	.	_
 
+Text=Single SNP fMRI analyses Comparable to RPS analyses, second-level multiple regression models were computed for each SNP and each task with number of minor alleles as regressor of interest, and age, sex, site, subgroup, genotyping chip and the first three principal components of potential population stratification as nuisance covariates.
 54-1	10559-10565	Single	_
 54-2	10566-10569	SNP	_
 54-3	10570-10574	fMRI	_
@@ -1822,6 +1876,7 @@
 54-55	10892-10902	covariates	_
 54-56	10903-10904	.	_
 
+Text=We excluded SNPs with less than 10 subjects in one allelic group, resulting in 105 independent analyses.
 55-1	10905-10907	We	_
 55-2	10908-10916	excluded	_
 55-3	10917-10921	SNPs	_
@@ -1842,6 +1897,7 @@
 55-18	11001-11009	analyses	_
 55-19	11010-11011	.	_
 
+Text=Similar to RPS analyses, we extracted FWE-corrected P-values of the maximally activated voxel within each ROI for each SNP from an undirected test.
 56-1	11012-11019	Similar	_
 56-2	11020-11022	to	_
 56-3	11023-11026	RPS	_
@@ -1868,6 +1924,7 @@
 56-24	11155-11159	test	_
 56-25	11160-11161	.	_
 
+Text=These significance values were then Bonferroni-corrected for the number of autosomal SNPs tested, that is, 105 (P <4.76 × 10−4).
 57-1	11162-11167	These	_
 57-2	11168-11180	significance	_
 57-3	11181-11187	values	_
@@ -1895,6 +1952,7 @@
 57-25	11293-11294	)	_
 57-26	11295-11296	.	_
 
+Text=We used an undirected F-test in all analyses, as, for the investigated RPS and the vast majority of SNPs, we had no hypotheses about the directionality of effects.
 58-1	11297-11299	We	_
 58-2	11300-11304	used	_
 58-3	11305-11307	an	_
@@ -1928,6 +1986,7 @@
 58-31	11455-11462	effects	_
 58-32	11463-11464	.	_
 
+Text=Associations with the intermediate phenotype could be represented by reduced or increased activation, being either indicative of dysfunction, inefficiency or compensatory resilience mechanisms.
 59-1	11465-11477	Associations	_
 59-2	11478-11482	with	_
 59-3	11483-11486	the	_

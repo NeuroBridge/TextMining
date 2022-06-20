@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Identifying functional network changing patterns in individuals at clinical high-risk for psychosis and patients with early illness schizophrenia: A group ICA study Although individuals at clinical high risk (CHR) for psychosis exhibit a psychosis-risk syndrome involving attenuated forms of the positive symptoms typical of schizophrenia (SZ), it remains unclear whether their resting-state brain intrinsic functional networks (INs) show attenuated or qualitatively distinct patterns of functional dysconnectivity relative to SZ patients.
 1-1	0-11	Identifying	_
 1-2	12-22	functional	_
 1-3	23-30	network	_
@@ -82,6 +83,7 @@
 1-78	538-546	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 1-79	547-548	.	_
 
+Text=Based on resting-state functional magnetic imaging data from 70 healthy controls (HCs), 53 CHR individuals (among which 41 subjects were antipsychotic medication-naive), and 58 early illness SZ (ESZ) patients (among which 53 patients took antipsychotic medication) within five years of illness onset, we estimated subject-specific INs using a novel group information guided independent component analysis (GIG-ICA) and investigated group differences in INs.
 2-1	549-554	Based	_
 2-2	555-557	on	_
 2-3	558-571	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -159,6 +161,7 @@
 2-75	1015-1018	INs	_
 2-76	1019-1020	.	_
 
+Text=We found that when compared to HCs, both CHR and ESZ groups showed significant differences, primarily in default mode, salience, auditory-related, visuospatial, sensory-motor, and parietal INs.
 3-1	1021-1023	We	_
 3-2	1024-1029	found	_
 3-3	1030-1034	that	_
@@ -194,6 +197,7 @@
 3-33	1217-1220	INs	_
 3-34	1221-1222	.	_
 
+Text=Our findings suggest that widespread INs were diversely impacted.
 4-1	1223-1226	Our	_
 4-2	1227-1235	findings	_
 4-3	1236-1243	suggest	_
@@ -205,6 +209,7 @@
 4-9	1279-1287	impacted	_
 4-10	1288-1289	.	_
 
+Text=More than 25% of voxels in the identified significant discriminative regions (obtained using all 19 possible changing patterns excepting the no-difference pattern) from six of the 15 interrogated INs exhibited monotonically decreasing Z-scores (in INs) from the HC to CHR to ESZ, and the related regions included the left lingual gyrus of two vision-related networks, the right postcentral cortex of the visuospatial network, the left thalamus region of the salience network, the left calcarine region of the fronto-occipital network and fronto-parieto-occipital network.
 5-1	1290-1294	More	_
 5-2	1295-1299	than	_
 5-3	1300-1302	25	_
@@ -298,6 +303,7 @@
 5-91	1862-1869	network	_
 5-92	1870-1871	.	_
 
+Text=Compared to HCs and CHR individuals, ESZ patients showed both increasing and decreasing connectivity, mainly hypo-connectivity involving 15% of the altered voxels from four INs.
 6-1	1872-1880	Compared	_
 6-2	1881-1883	to	_
 6-3	1884-1887	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -328,6 +334,7 @@
 6-28	2048-2051	INs	_
 6-29	2052-2053	.	_
 
+Text=The left supplementary motor area from the sensory-motor network and the right inferior occipital gyrus in the vision-related network showed a common abnormality in CHR and ESZ groups.
 7-1	2054-2057	The	_
 7-2	2058-2062	left	_
 7-3	2063-2076	supplementary	_
@@ -358,6 +365,7 @@
 7-28	2231-2237	groups	http://maven.renci.org/NeuroBridge/neurobridge#ParallelGroupTrial
 7-29	2238-2239	.	_
 
+Text=Some brain regions also showed a CHR-unique alteration (primarily the CHR-increasing connectivity).
 8-1	2240-2244	Some	_
 8-2	2245-2250	brain	_
 8-3	2251-2258	regions	_
@@ -374,6 +382,7 @@
 8-14	2339-2340	)	_
 8-15	2341-2342	.	_
 
+Text=In summary, CHR individuals generally showed intermediate connectivity between HCs and ESZ patients across multiple INs, suggesting that some dysconnectivity patterns evident in ESZ predate psychosis in attenuated form during the psychosis risk stage.
 9-1	2343-2345	In	_
 9-2	2346-2353	summary	_
 9-3	2354-2355	,	_
@@ -412,6 +421,7 @@
 9-36	2590-2595	stage	_
 9-37	2596-2597	.	_
 
+Text=Hence, these connectivity measures may serve as possible biomarkers to predict schizophrenia progression.
 10-1	2598-2603	Hence	_
 10-2	2604-2605	,	_
 10-3	2606-2611	these	_
@@ -428,6 +438,7 @@
 10-14	2692-2703	progression	_
 10-15	2704-2705	.	_
 
+Text=Highlights This is the first study exploring functional networks in clinical high risk for psychosis using ICA.
 11-1	2706-2716	Highlights	_
 11-2	2717-2721	This	_
 11-3	2722-2724	is	_
@@ -447,6 +458,7 @@
 11-17	2813-2816	ICA	_
 11-18	2817-2818	.	_
 
+Text=Novel group information guided ICA was applied to accurately estimate networks.
 12-1	2819-2824	Novel	_
 12-2	2825-2830	group	_
 12-3	2831-2842	information	_
@@ -460,6 +472,7 @@
 12-11	2889-2897	networks	_
 12-12	2898-2899	.	_
 
+Text=Multiple networks altered in early schizophrenia and clinical high risk groups.
 13-1	2900-2908	Multiple	_
 13-2	2909-2917	networks	_
 13-3	2918-2925	altered	_
@@ -473,6 +486,7 @@
 13-11	2972-2978	groups	_
 13-12	2979-2980	.	_
 
+Text=Some regions showed step-wise worsening of dysconnectivity from healthy condition to psychosis risk to schizophrenia.
 14-1	2981-2985	Some	_
 14-2	2986-2993	regions	_
 14-3	2994-3000	showed	_
@@ -490,6 +504,7 @@
 14-15	3084-3097	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-16	3098-3099	.	_
 
+Text=Early schizophrenia and psychosis risk groups also showed common abnormalities.
 15-1	3100-3105	Early	_
 15-2	3106-3119	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 15-3	3120-3123	and	_
@@ -502,6 +517,7 @@
 15-10	3165-3178	abnormalities	_
 15-11	3179-3180	.	_
 
+Text=Materials and methods Subjects We analyzed resting-state fMRI data from 70 HCs, 53 CHR individuals, and 58 ESZ patients.
 16-1	3181-3190	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 16-2	3191-3194	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 16-3	3195-3202	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -525,6 +541,7 @@
 16-21	3294-3302	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 16-22	3303-3304	.	_
 
+Text=Subject demographic and clinical information are presented in Table 1.
 17-1	3305-3312	Subject	_
 17-2	3313-3324	demographic	_
 17-3	3325-3328	and	_
@@ -537,6 +554,7 @@
 17-10	3373-3374	1	_
 17-11	3375-3376	.	_
 
+Text=There were no significant differences among the three groups in age or gender (see Table 1).
 18-1	3377-3382	There	_
 18-2	3383-3387	were	_
 18-3	3388-3390	no	_
@@ -557,6 +575,7 @@
 18-18	3469-3470	)	_
 18-19	3471-3472	.	_
 
+Text=CHR individuals were recruited from a psychosis-risk research clinic at the University of California, San Francisco (UCSF).
 19-1	3473-3476	CHR	http://maven.renci.org/NeuroBridge/neurobridge#ChronicPain
 19-2	3477-3488	individuals	_
 19-3	3489-3493	were	_
@@ -579,6 +598,7 @@
 19-20	3597-3598	)	_
 19-21	3599-3600	.	_
 
+Text=Individuals recruited to the CHR group met the Criteria of Prodromal Syndromes (COPS) based on a Structured Interview for Prodromal Syndromes (SIPS) administered by trained clinicians.
 20-1	3601-3612	Individuals	_
 20-2	3613-3622	recruited	_
 20-3	3623-3625	to	_
@@ -611,6 +631,7 @@
 20-30	3778-3788	clinicians	_
 20-31	3789-3790	.	_
 
+Text=The COPS comprises three non-mutually exclusive syndromes: Attenuated Positive Symptom Syndrome (APSS), Brief Intermittent Psychotic Syndrome (BIPS), and/or Genetic Risk and Deterioration Syndrome (GRD).
 21-1	3791-3794	The	_
 21-2	3795-3799	COPS	_
 21-3	3800-3809	comprises	_
@@ -646,6 +667,7 @@
 21-33	4001-4002	)	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 21-34	4003-4004	.	_
 
+Text=In our study, the majority (49/53, 92.5%) of CHR subjects met COPS criteria for APSS.
 22-1	4005-4007	In	_
 22-2	4008-4011	our	_
 22-3	4012-4017	study	_
@@ -668,6 +690,7 @@
 22-20	4090-4094	APSS	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 22-21	4095-4096	.	_
 
+Text=Supplementary Table S1 shows the number and percentage of CHR subjects with each syndrome.
 23-1	4097-4110	Supplementary	_
 23-2	4111-4116	Table	_
 23-3	4117-4119	S1	_
@@ -684,6 +707,7 @@
 23-14	4178-4186	syndrome	_
 23-15	4187-4188	.	_
 
+Text=Ratings of symptom severity in CHR individuals were obtained using the Scale of Prodromal Symptoms (SOPS), an embedded scale within the SIPS.
 24-1	4189-4196	Ratings	_
 24-2	4197-4199	of	_
 24-3	4200-4207	symptom	_
@@ -711,6 +735,7 @@
 24-25	4328-4332	SIPS	_
 24-26	4333-4334	.	_
 
+Text=Most of the CHR subjects (41/53; 77%) were antipsychotic medication-naive at the time of scanning.
 25-1	4335-4339	Most	_
 25-2	4340-4342	of	_
 25-3	4343-4346	the	_
@@ -732,6 +757,7 @@
 25-19	4428-4436	scanning	_
 25-20	4437-4438	.	_
 
+Text=ESZ patients within five (mean ± standard deviation = 2.08 ± 1.37) years of illness onset were recruited from an early psychosis clinic at UCSF and from community clinics.
 26-1	4439-4442	ESZ	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 26-2	4443-4451	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 26-3	4452-4458	within	_
@@ -765,6 +791,7 @@
 26-31	4604-4611	clinics	_
 26-32	4612-4613	.	_
 
+Text=Diagnosis of schizophrenia or schizoaffective disorder in ESZ subjects was verified using the Structured Clinical Interview for DSM-IV (SCID) and symptom severity was assessed using the Positive and Negative Syndrome Scale (PANSS).
 27-1	4614-4623	Diagnosis	_
 27-2	4624-4626	of	_
 27-3	4627-4640	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -803,6 +830,7 @@
 27-36	4847-4848	)	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 27-37	4849-4850	.	_
 
+Text=Most of the ESZ patients (53/58; 91%) were taking antipsychotic medication at the time of testing.
 28-1	4851-4855	Most	_
 28-2	4856-4858	of	_
 28-3	4859-4862	the	_
@@ -825,6 +853,7 @@
 28-20	4945-4952	testing	_
 28-21	4953-4954	.	_
 
+Text=HC subjects were recruited from the community and did not meet current or lifetime criteria for major Axis I psychiatric disorders based on the SCID.
 29-1	4955-4957	HC	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 29-2	4958-4966	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 29-3	4967-4971	were	_
@@ -852,6 +881,7 @@
 29-25	5099-5103	SCID	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 29-26	5104-5105	.	_
 
+Text=The same data were analyzed using dynamic connectivity analysis in our previous study.
 30-1	5106-5109	The	_
 30-2	5110-5114	same	_
 30-3	5115-5119	data	_
@@ -867,6 +897,7 @@
 30-13	5186-5191	study	_
 30-14	5192-5193	.	_
 
+Text=MRI scan acquisition All brain images were acquired on a 3 T Siemens TIM Trio scanner at the UCSF Neuroimaging Center.
 31-1	5194-5197	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
 31-2	5198-5202	scan	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
 31-3	5203-5214	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
@@ -890,6 +921,7 @@
 31-21	5305-5311	Center	_
 31-22	5312-5313	.	_
 
+Text=Resting-state scans were acquired using whole-brain echo-planar imaging (EPI) sequences.
 32-1	5314-5327	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 32-2	5328-5333	scans	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 32-3	5334-5338	were	_
@@ -904,6 +936,7 @@
 32-12	5394-5403	sequences	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 32-13	5404-5405	.	_
 
+Text=Rest scans lasted 6 min, during which 180 functional images were obtained (32 axial slices, 3.5 mm slice thickness, 1.05 mm inter-slice gap, TR = 2 s, TE = 29 ms, flip angle = 75°, FOV = 24 cm, 64 × 64 matrix).
 33-1	5406-5410	Rest	_
 33-2	5411-5416	scans	_
 33-3	5417-5423	lasted	_
@@ -959,6 +992,7 @@
 33-53	5624-5625	)	_
 33-54	5626-5627	.	_
 
+Text=Subjects were instructed to rest with their eyes closed and to stay awake.
 34-1	5628-5636	Subjects	_
 34-2	5637-5641	were	_
 34-3	5642-5652	instructed	_
@@ -974,6 +1008,7 @@
 34-13	5696-5701	awake	_
 34-14	5702-5703	.	_
 
+Text=MRI data preprocessing FMRI data from each subject were preprocessed using Statistical Parametric Mapping (SPM8) (http: //www.fil.ion.ucl.ac.uk/spm).
 35-1	5704-5707	MRI	_
 35-2	5708-5712	data	_
 35-3	5713-5726	preprocessing	_
@@ -998,6 +1033,7 @@
 35-22	5856-5857	)	_
 35-23	5858-5859	.	_
 
+Text=The first ten volumes were discarded to allow for T1 equilibration effects, and the remaining volumes in the run were then slice-time corrected and realigned to the first volume to correct for head motion.
 36-1	5860-5863	The	_
 36-2	5864-5869	first	_
 36-3	5870-5873	ten	_
@@ -1035,6 +1071,7 @@
 36-35	6059-6065	motion	_
 36-36	6066-6067	.	_
 
+Text=In terms of head motion, translations were <4 mm and rotations did not exceed 4° in all axes over the entire fMRI run for all included subjects.
 37-1	6068-6070	In	_
 37-2	6071-6076	terms	_
 37-3	6077-6079	of	_
@@ -1066,6 +1103,7 @@
 37-29	6205-6213	subjects	_
 37-30	6214-6215	.	_
 
+Text=There were no significant group differences (p> 0.05, tested by analysis of variance) in the motion parameters displayed in Table 1.
 38-1	6216-6221	There	_
 38-2	6222-6226	were	_
 38-3	6227-6229	no	_
@@ -1093,6 +1131,7 @@
 38-25	6350-6351	1	_
 38-26	6352-6353	.	_
 
+Text=Subsequently, the images were spatially normalized to the Montreal Neurological Institute (MNI) EPI template, resliced to 3 mm × 3 mm × 3 mm voxels, and smoothed with a Gaussian kernel with a full-width at half-maximum (FWHM) of 6 mm.
 39-1	6354-6366	Subsequently	_
 39-2	6367-6368	,	_
 39-3	6369-6372	the	_
@@ -1142,6 +1181,7 @@
 39-47	6592-6594	mm	_
 39-48	6595-6596	.	_
 
+Text=Estimating intrinsic functional networks using GIG-ICA We applied GIG-ICA to the preprocessed fMRI data of all subjects to estimate each subject's INs, resulting in INs with correspondence across subjects while also retaining subject-specific network features.
 40-1	6597-6607	Estimating	_
 40-2	6608-6617	intrinsic	_
 40-3	6618-6628	functional	_
@@ -1181,6 +1221,7 @@
 40-37	6850-6858	features	_
 40-38	6859-6860	.	_
 
+Text=Our method primarily involved the following three steps.
 41-1	6861-6864	Our	_
 41-2	6865-6871	method	_
 41-3	6872-6881	primarily	_
@@ -1191,6 +1232,7 @@
 41-8	6911-6916	steps	_
 41-9	6917-6918	.	_
 
+Text=First, based on the temporally-concatenated fMRI data of 181 subjects, ICA with the Infomax algorithm was used to estimate the group-level ICs.
 42-1	6919-6924	First	_
 42-2	6925-6926	,	_
 42-3	6927-6932	based	_
@@ -1217,6 +1259,7 @@
 42-24	7060-7063	ICs	_
 42-25	7064-7065	.	_
 
+Text=In order to decrease the influence of random initializations, we performed ICASSO with 20 ICA runs followed by selection of the most reliable ICA run to obtain reliable group-level ICs.
 43-1	7066-7068	In	_
 43-2	7069-7074	order	_
 43-3	7075-7077	to	_
@@ -1250,6 +1293,7 @@
 43-31	7248-7251	ICs	_
 43-32	7252-7253	.	_
 
+Text=Before the group-level ICA, subject-level and group-level PCAs were applied to reduce the dimensionality of the fMRI data.
 44-1	7254-7260	Before	_
 44-2	7261-7264	the	_
 44-3	7265-7276	group-level	_
@@ -1271,6 +1315,7 @@
 44-19	7372-7376	data	_
 44-20	7377-7378	.	_
 
+Text=In this study, the number of ICs was set to 30 based on previous work, and the number of principle components used in the subject-level PCAs was specified as a greater number (i.e., 60) as recommended.
 45-1	7379-7381	In	_
 45-2	7382-7386	this	_
 45-3	7387-7392	study	_
@@ -1314,6 +1359,7 @@
 45-41	7573-7584	recommended	_
 45-42	7585-7586	.	_
 
+Text=Thus, 30 group -level ICs were obtained and Z-scored.
 46-1	7587-7591	Thus	_
 46-2	7592-7593	,	_
 46-3	7594-7596	30	_
@@ -1326,6 +1372,7 @@
 46-10	7632-7640	Z-scored	_
 46-11	7641-7642	.	_
 
+Text=It is worth noting that the sign of each resulting group-level IC is arbitrary.
 47-1	7643-7645	It	_
 47-2	7646-7648	is	_
 47-3	7649-7654	worth	_
@@ -1342,6 +1389,7 @@
 47-14	7712-7721	arbitrary	_
 47-15	7722-7723	.	_
 
+Text=In our study, we computed the skewness of each IC and flipped the IC if its skewness was negative.
 48-1	7724-7726	In	_
 48-2	7727-7730	our	_
 48-3	7731-7736	study	_
@@ -1364,6 +1412,7 @@
 48-20	7814-7822	negative	_
 48-21	7823-7824	.	_
 
+Text=Consequently, the positive Z-scores in each IC represented the voxels contributing the most to the associated network.
 49-1	7825-7837	Consequently	_
 49-2	7838-7839	,	_
 49-3	7840-7843	the	_
@@ -1384,6 +1433,7 @@
 49-18	7936-7943	network	_
 49-19	7944-7945	.	_
 
+Text=Second, we manually identified the meaningful group-level networks after carefully inspecting all group-level ICs' spatial maps.
 50-1	7946-7952	Second	_
 50-2	7953-7954	,	_
 50-3	7955-7957	we	_
@@ -1404,6 +1454,7 @@
 50-18	8071-8075	maps	_
 50-19	8076-8077	.	_
 
+Text=If the primary activation of one IC's spatial map is located in gray matter, smooth and continuous, we preferred to regard it as an interesting functional network.
 51-1	8078-8080	If	_
 51-2	8081-8084	the	_
 51-3	8085-8092	primary	_
@@ -1436,6 +1487,7 @@
 51-30	8236-8243	network	_
 51-31	8244-8245	.	_
 
+Text=Also, we referred to networks reported in previous studies to further confirm.
 52-1	8246-8250	Also	_
 52-2	8251-8252	,	_
 52-3	8253-8255	we	_
@@ -1451,6 +1503,7 @@
 52-13	8317-8324	confirm	_
 52-14	8325-8326	.	_
 
+Text=The removed noise-related group-level ICs reflected head motion, physiological noise, and influence of scanner.
 53-1	8327-8330	The	_
 53-2	8331-8338	removed	_
 53-3	8339-8352	noise-related	_
@@ -1469,6 +1522,7 @@
 53-16	8432-8439	scanner	_
 53-17	8440-8441	.	_
 
+Text=Third, the remaining meaningful group-level ICs were characterized as the group-level INs and then used to calculate the subject-specific INs based on a multi-objective function optimization algorithm.
 54-1	8442-8447	Third	_
 54-2	8448-8449	,	_
 54-3	8450-8453	the	_
@@ -1499,6 +1553,7 @@
 54-28	8634-8643	algorithm	_
 54-29	8644-8645	.	_
 
+Text=GIG-ICA automatically yields Z-scored the subject-specific INs.
 55-1	8646-8653	GIG-ICA	_
 55-2	8654-8667	automatically	_
 55-3	8668-8674	yields	_
@@ -1508,6 +1563,7 @@
 55-7	8705-8708	INs	_
 55-8	8709-8710	.	_
 
+Text=Finally, a regression model was utilized to estimate the corresponding time courses (reflecting fluctuations) of the individual INs for each subject's fMRI data.
 56-1	8711-8718	Finally	_
 56-2	8719-8720	,	_
 56-3	8721-8722	a	_
@@ -1537,6 +1593,7 @@
 56-27	8871-8875	data	_
 56-28	8876-8877	.	_
 
+Text=It is known that for each voxel in a given individual IN, a positive Z-score indicates that the time series (after preprocessing) in the voxel has a positive correlation with the time course of the IN; in contrast a negative Z-score represents that the time series in the voxel has a negative correlation with the time course of the IN.
 57-1	8878-8880	It	_
 57-2	8881-8883	is	_
 57-3	8884-8889	known	_
@@ -1603,6 +1660,7 @@
 57-64	9215-9217	IN	_
 57-65	9218-9219	.	_
 
+Text=Therefore, for one specific IN, a region containing voxels with high positive Z-scores (taking a region only including two voxels as an example, Z-scores of two voxels = 10 and 9) tends to have stronger co-activation (i.e., positive correlation) within the IN compared to a region containing voxels with low positive Z-scores (e.g., Z-scores of two voxels = 2 and 1).
 58-1	9220-9229	Therefore	_
 58-2	9230-9231	,	_
 58-3	9232-9235	for	_
@@ -1677,6 +1735,7 @@
 58-72	9596-9597	)	_
 58-73	9598-9599	.	_
 
+Text=In such case, the mean of the Z-scores in one region can reflect the co-activation extent of the region.
 59-1	9600-9602	In	_
 59-2	9603-9607	such	_
 59-3	9608-9612	case	_
@@ -1699,6 +1758,7 @@
 59-20	9698-9704	region	_
 59-21	9705-9706	.	_
 
+Text=In fact, if a region contains voxels with greater negative Z-scores (e.g., Z-scores of two voxels = − 10 and − 9) relative to the other region (e.g., Z-scores of two voxels = − 2 and − 1), the former also tends to have stronger co-activation than the later.
 60-1	9707-9709	In	_
 60-2	9710-9714	fact	_
 60-3	9715-9716	,	_
@@ -1758,6 +1818,7 @@
 60-57	9966-9971	later	_
 60-58	9972-9973	.	_
 
+Text=In this study, considering that the positive Z-scores contributing the most include important spatial maps in each IN, we focused on investigating group differences in voxels primarily associated with positive Z-scores to simplify the subsequent analyses.
 61-1	9974-9976	In	_
 61-2	9977-9981	this	_
 61-3	9982-9987	study	_
@@ -1798,6 +1859,7 @@
 61-38	10222-10230	analyses	_
 61-39	10231-10232	.	_
 
+Text=It is also worth pointing out that if one region includes both higher and lower positive Z-scores (e.g., Z-scores of two voxels = 10 and 1) compared to the other region (e.g., Z-scores of two voxels = 2 and 8), we cannot determine which region has greater co-activation using Z-scores.
 62-1	10233-10235	It	_
 62-2	10236-10238	is	_
 62-3	10239-10243	also	_
@@ -1858,6 +1920,7 @@
 62-58	10517-10525	Z-scores	_
 62-59	10526-10527	.	_
 
+Text=Therefore, in this work, we applied two-sample t-tests (rather than analysis of variance) to identify brain regions including voxels with consistent changing patterns between groups.
 63-1	10528-10537	Therefore	_
 63-2	10538-10539	,	_
 63-3	10540-10542	in	_
@@ -1889,6 +1952,7 @@
 63-29	10707-10713	groups	_
 63-30	10714-10715	.	_
 
+Text=Identifying significant discriminative regions in intrinsic functional networks Based on the estimated subject-specific INs, we investigated differences in each corresponding IN across the three groups in order to examine the network abnormalities of the ESZ and CHR group relative to each other and to the HC group.
 64-1	10716-10727	Identifying	_
 64-2	10728-10739	significant	_
 64-3	10740-10754	discriminative	_
@@ -1939,6 +2003,7 @@
 64-48	11027-11032	group	_
 64-49	11033-11034	.	_
 
+Text=For each IN, we performed three analysis steps that include (1) extracting important voxels positively contributing to the network (i.e., voxels primarily involving positive Z-scores) and generating a network mask, (2) identifying regions based on all possible 19 inter-group changing patterns in the network mask, and (3) investigating group differences in the co-activation of each significant discriminative region.
 65-1	11035-11038	For	_
 65-2	11039-11043	each	_
 65-3	11044-11046	IN	_
@@ -2011,6 +2076,7 @@
 65-70	11458-11464	region	_
 65-71	11465-11466	.	_
 
+Text=We describe the detailed processing on each IC as follows.
 66-1	11467-11469	We	_
 66-2	11470-11478	describe	_
 66-3	11479-11482	the	_
@@ -2023,6 +2089,7 @@
 66-10	11517-11524	follows	_
 66-11	11525-11526	.	_
 
+Text=In the first step, for each voxel, a right-tailed one-sample t-test (p <0.01 with Bonferroni correction, i.e., p <0.01/the number of voxels in a brain mask = 0.01/69078 = 1.45e − 7) was applied to the voxel's Z-scores from the corresponding subject-specific INs of all 181 subjects to identify voxels whose Z-scores were positive in most of the subjects, resulting a network mask.
 67-1	11527-11529	In	_
 67-2	11530-11533	the	_
 67-3	11534-11539	first	_
@@ -2098,6 +2165,7 @@
 67-73	11912-11916	mask	_
 67-74	11917-11918	.	_
 
+Text=The subsequent second and third steps were performed on the voxels in the network mask.
 68-1	11919-11922	The	_
 68-2	11923-11933	subsequent	_
 68-3	11934-11940	second	_
@@ -2115,6 +2183,7 @@
 68-15	12001-12005	mask	_
 68-16	12006-12007	.	_
 
+Text=Additionally, we tested if our strategy may fail to find group differences in some important voxels (or regions) showing positive Z-scores in one group (e.g., HC) but not showing positive Z-scores in other groups (e.g., CHR and ESZ).
 69-1	12008-12020	Additionally	_
 69-2	12021-12022	,	_
 69-3	12023-12025	we	_
@@ -2164,6 +2233,7 @@
 69-47	12248-12249	)	_
 69-48	12250-12251	.	_
 
+Text=So, we examined whether performing one-sample t-tests on each group separately may generate significantly different network masks compared to performing one-sample t-tests on all the three groups.
 70-1	12252-12254	So	_
 70-2	12255-12256	,	_
 70-3	12257-12259	we	_
@@ -2194,6 +2264,7 @@
 70-28	12442-12448	groups	_
 70-29	12449-12450	.	_
 
+Text=For each group (e.g., HC), voxel-wise right-tailed one-sample t-tests were applied on the corresponding individual-subject's networks.
 71-1	12451-12454	For	_
 71-2	12455-12459	each	_
 71-3	12460-12465	group	_
@@ -2217,6 +2288,7 @@
 71-21	12581-12589	networks	_
 71-22	12590-12591	.	_
 
+Text=The parameter (p <0.01 with Bonferroni correction, i.e., p <0.01/the number of voxels in brain mask = 0.01/69078 = 1.45e − 7) used in one-sample t-tests on each group's subjects was as same as the parameter of one-sample t-tests on all subjects of three groups.
 72-1	12592-12595	The	_
 72-2	12596-12605	parameter	_
 72-3	12606-12607	(	_
@@ -2271,6 +2343,7 @@
 72-52	12853-12859	groups	_
 72-53	12860-12861	.	_
 
+Text=We then combined the three masks obtained separately from the three groups in order to compare them with the mask obtained using the whole dataset.
 73-1	12862-12864	We	_
 73-2	12865-12869	then	_
 73-3	12870-12878	combined	_
@@ -2298,6 +2371,7 @@
 73-25	13001-13008	dataset	_
 73-26	13009-13010	.	_
 
+Text=In the second step, we defined 19 non-overlapping patterns (see Fig.
 74-1	13011-13013	In	_
 74-2	13014-13017	the	_
 74-3	13018-13024	second	_
@@ -2313,6 +2387,7 @@
 74-13	13077-13080	Fig	_
 74-14	13081-13082	.	_
 
+Text=1) that reflect all possible significant differences among the three groups based on statistical analysis results from two-tailed two-sample t-tests, and then identified regions including voxels coinciding with each pattern.
 75-1	13083-13084	1	_
 75-2	13085-13086	)	_
 75-3	13087-13091	that	_
@@ -2347,6 +2422,7 @@
 75-32	13301-13308	pattern	_
 75-33	13309-13310	.	_
 
+Text=Specifically, for each significant voxel in the network mask identified, we performed two-tailed two-sample t-tests (p <0.05) on its Z-score for three pairs of groups (HC vs. CHR, CHR vs. ESZ, and HC vs. ESZ) and then examined whether its Z-score exhibited one of 19 characteristic patterns.
 76-1	13311-13323	Specifically	_
 76-2	13324-13325	,	_
 76-3	13326-13329	for	_
@@ -2405,6 +2481,7 @@
 76-56	13602-13610	patterns	_
 76-57	13611-13612	.	_
 
+Text=Among the 19 patterns, two patterns (Fig.
 77-1	13613-13618	Among	_
 77-2	13619-13622	the	_
 77-3	13623-13625	19	_
@@ -2416,6 +2493,7 @@
 77-9	13652-13655	Fig	_
 77-10	13656-13657	.	_
 
+Text=1A–B) corresponded to strictly decreasing and strictly increasing Z-scores from HC to CHR to ESZ.
 78-1	13658-13662	1A–B	_
 78-2	13663-13664	)	_
 78-3	13665-13677	corresponded	_
@@ -2434,6 +2512,7 @@
 78-16	13752-13755	ESZ	_
 78-17	13756-13757	.	_
 
+Text=For example, for the strictly decreasing pattern, t-value> 0 was required for both the HC vs. CHR test and the CHR vs. ESZ test, reflecting significant decreases in Z-scores from the healthy condition to the psychosis-risk state and from the risk-state to full-blown schizophrenia.
 79-1	13758-13761	For	_
 79-2	13762-13769	example	_
 79-3	13770-13771	,	_
@@ -2484,12 +2563,14 @@
 79-48	14029-14042	schizophrenia	_
 79-49	14043-14044	.	_
 
+Text=Four patterns (Fig.
 80-1	14045-14049	Four	_
 80-2	14050-14058	patterns	_
 80-3	14059-14060	(	_
 80-4	14061-14064	Fig	_
 80-5	14065-14066	.	_
 
+Text=1C–F) involved situations where the ESZ or HC group was significantly lower or significantly higher than the other two groups.
 81-1	14067-14071	1C–F	_
 81-2	14072-14073	)	_
 81-3	14074-14082	involved	_
@@ -2513,6 +2594,7 @@
 81-21	14187-14193	groups	_
 81-22	14194-14195	.	_
 
+Text=For example, in the ESZ-decreasing pattern, t-value> 0 was required for both the HC vs. ESZ and CHR vs. ESZ comparisons, with no significant difference between the HC and CHR groups.
 82-1	14196-14199	For	_
 82-2	14200-14207	example	_
 82-3	14208-14209	,	_
@@ -2550,6 +2632,7 @@
 82-35	14375-14381	groups	_
 82-36	14382-14383	.	_
 
+Text=Six additional patterns (Fig.
 83-1	14384-14387	Six	_
 83-2	14388-14398	additional	_
 83-3	14399-14407	patterns	_
@@ -2557,6 +2640,7 @@
 83-5	14410-14413	Fig	_
 83-6	14414-14415	.	_
 
+Text=2G–L) were CHR-unique alteration related patterns in which the CHR group had significantly lower or higher Z-scores than the other two groups.
 84-1	14416-14420	2G–L	_
 84-2	14421-14422	)	_
 84-3	14423-14427	were	_
@@ -2582,6 +2666,7 @@
 84-23	14552-14558	groups	_
 84-24	14559-14560	.	_
 
+Text=For example, in terms of the CHR-decreasing pattern 1 (Fig.
 85-1	14561-14564	For	_
 85-2	14565-14572	example	_
 85-3	14573-14574	,	_
@@ -2596,6 +2681,7 @@
 85-12	14618-14621	Fig	_
 85-13	14622-14623	.	_
 
+Text=2G), we required t-value> 0 for the HC vs. CHR comparison as well as t-value <0 for the CHR vs. ESZ comparison, with no significant difference between the ESZ and HC groups.
 86-1	14624-14626	2G	_
 86-2	14627-14628	)	_
 86-3	14629-14630	,	_
@@ -2635,6 +2721,7 @@
 86-37	14795-14801	groups	_
 86-38	14802-14803	.	_
 
+Text=There were also six patterns (Fig.
 87-1	14804-14809	There	_
 87-2	14810-14814	were	_
 87-3	14815-14819	also	_
@@ -2644,6 +2731,7 @@
 87-7	14835-14838	Fig	_
 87-8	14839-14840	.	_
 
+Text=1M–R) in which only one pair of groups showed a group difference.
 88-1	14841-14845	1M–R	_
 88-2	14846-14847	)	_
 88-3	14848-14850	in	_
@@ -2659,6 +2747,7 @@
 88-13	14896-14906	difference	_
 88-14	14907-14908	.	_
 
+Text=Taking the HC> ESZ pattern for an example, t-value> 0 for the HC vs. ESZ comparison and no group differences for other comparisons were required.
 89-1	14909-14915	Taking	_
 89-2	14916-14919	the	_
 89-3	14920-14922	HC	_
@@ -2689,6 +2778,7 @@
 89-28	15048-15056	required	_
 89-29	15057-15058	.	_
 
+Text=Finally, a no-difference pattern (Fig.
 90-1	15059-15066	Finally	_
 90-2	15067-15068	,	_
 90-3	15069-15070	a	_
@@ -2698,6 +2788,7 @@
 90-7	15095-15098	Fig	_
 90-8	15099-15100	.	_
 
+Text=2S) was possible, where all three groups showed no significant differences (i.e., p> 0.05 for all comparisons).
 91-1	15101-15103	2S	_
 91-2	15104-15105	)	_
 91-3	15106-15109	was	_
@@ -2723,6 +2814,7 @@
 91-23	15216-15217	)	_
 91-24	15218-15219	.	_
 
+Text=Regarding each pattern, the associated voxels were identified and then corrected (p <0.05) for multiple comparisons using Monte Carlo simulation (N = 1000) to obtain regions each of which were spatially continuous.
 92-1	15220-15229	Regarding	_
 92-2	15230-15234	each	_
 92-3	15235-15242	pattern	_
@@ -2763,6 +2855,7 @@
 92-38	15429-15439	continuous	_
 92-39	15440-15441	.	_
 
+Text=Thus, each remaining region was required to have a size greater than a given voxel number that was determined by the threshold p <0.05 and the network mask from the voxel-wise one-sample t-tests using 1000 Monte Carlo simulations.
 93-1	15442-15446	Thus	_
 93-2	15447-15448	,	_
 93-3	15449-15453	each	_
@@ -2805,6 +2898,7 @@
 93-40	15662-15673	simulations	_
 93-41	15674-15675	.	_
 
+Text=Except for the last pattern representing no significant difference across groups, we named the identified regions as significant discriminative regions (SDRs) within the associated INs.
 94-1	15676-15682	Except	_
 94-2	15683-15686	for	_
 94-3	15687-15690	the	_
@@ -2835,6 +2929,7 @@
 94-28	15860-15863	INs	_
 94-29	15864-15865	.	_
 
+Text=In our work, we applied two-tailed two-sample t-tests to define the changing patterns because we cannot make a hypothesis that one group (e.g., HC) shows higher (or lower) Z-scores in network than the other group (e.g., CHR).
 95-1	15866-15868	In	_
 95-2	15869-15872	our	_
 95-3	15873-15877	work	_
@@ -2884,6 +2979,7 @@
 95-47	16099-16100	)	_
 95-48	16101-16102	.	_
 
+Text=We are testing for the possibility of the relationship in both directions (i.e., the possibility of one group shows higher and lower Z-scores than the other group).
 96-1	16103-16105	We	_
 96-2	16106-16109	are	_
 96-3	16110-16117	testing	_
@@ -2916,6 +3012,7 @@
 96-30	16268-16269	)	_
 96-31	16270-16271	.	_
 
+Text=In the third step, for each SDR including voxels with the same pattern in a specific IN, we tested whether its co-activation differed significantly among the HC, CHR and ESZ groups.
 97-1	16272-16274	In	_
 97-2	16275-16278	the	_
 97-3	16279-16284	third	_
@@ -2952,6 +3049,7 @@
 97-34	16449-16455	groups	_
 97-35	16456-16457	.	_
 
+Text=Based on the results from the above mentioned voxel-wise two-sample t-tests of different voxels in one SDR, we applied a Fisher's combined probability test to measure the group difference of each SDR's co-activation, resulting in a combined p-value for any comparison between two groups (e.g., HC vs. CHR).
 98-1	16458-16463	Based	_
 98-2	16464-16466	on	_
 98-3	16467-16470	the	_
@@ -3009,6 +3107,7 @@
 98-55	16769-16770	)	_
 98-56	16771-16772	.	_
 
+Text=Since Fisher's combined probability test was proposed originally under an assumption of independence among separate tests, we also performed a non-parametric combination method including 10,000 permutations as a supplement.
 99-1	16773-16778	Since	_
 99-2	16779-16785	Fisher	_
 99-3	16786-16788	's	_
@@ -3042,6 +3141,7 @@
 99-31	16987-16997	supplement	_
 99-32	16998-16999	.	_
 
+Text=The non-parametric combination procedure works even when independence is untenable.
 100-1	17000-17003	The	_
 100-2	17004-17018	non-parametric	_
 100-3	17019-17030	combination	_
@@ -3054,6 +3154,7 @@
 100-10	17073-17082	untenable	_
 100-11	17083-17084	.	_
 
+Text=The detailed steps for the non-parametric combination method are described in the Supplementary materials.
 101-1	17085-17088	The	_
 101-2	17089-17097	detailed	_
 101-3	17098-17103	steps	_
@@ -3070,6 +3171,7 @@
 101-14	17181-17190	materials	_
 101-15	17191-17192	.	_
 
+Text=If the combined p-value of one comparison between two groups was smaller than 0.05/3, we regarded the co-activation in SDR significantly different between the two groups.
 102-1	17193-17195	If	_
 102-2	17196-17199	the	_
 102-3	17200-17208	combined	_
@@ -3099,6 +3201,7 @@
 102-27	17357-17363	groups	_
 102-28	17364-17365	.	_
 
+Text=Additionally, since the mean Z-score within voxels of each SDR can be used to reflect co-activation strength in the SDR, we calculated the Pearson correlation between the co-activation strengths of each SDR within one specific IN and the symptom severity ratings (in Table 1) for the CHR group and the ESZ group to explore the association between network measures and symptoms.
 103-1	17366-17378	Additionally	_
 103-2	17379-17380	,	_
 103-3	17381-17386	since	_
@@ -3166,6 +3269,7 @@
 103-65	17738-17746	symptoms	_
 103-66	17747-17748	.	_
 
+Text=The significance level was set to p <0.05 for the correlation analyses.
 104-1	17749-17752	The	_
 104-2	17753-17765	significance	_
 104-3	17766-17771	level	_
@@ -3181,6 +3285,7 @@
 104-13	17812-17820	analyses	_
 104-14	17821-17822	.	_
 
+Text=The whole analysis framework is shown in Fig.
 105-1	17823-17826	The	_
 105-2	17827-17832	whole	_
 105-3	17833-17841	analysis	_
@@ -3191,9 +3296,11 @@
 105-8	17864-17867	Fig	_
 105-9	17868-17869	.	_
 
+Text=2.
 106-1	17870-17871	2	_
 106-2	17872-17873	.	_
 
+Text=We also tested if medication has significant effects on the identified measures showing group differences.
 107-1	17874-17876	We	_
 107-2	17877-17881	also	_
 107-3	17882-17888	tested	_
@@ -3211,6 +3318,7 @@
 107-15	17968-17979	differences	_
 107-16	17980-17981	.	_
 
+Text=First, we converted all anti-psychotic data to their respective chlorpromazine (CPZ) dosage equivalents for ESZ patients with available dose-level medication data.
 108-1	17982-17987	First	_
 108-2	17988-17989	,	_
 108-3	17990-17992	we	_
@@ -3237,6 +3345,7 @@
 108-24	18143-18147	data	_
 108-25	18148-18149	.	_
 
+Text=Only one ESZ patient had no CPZ data.
 109-1	18150-18154	Only	_
 109-2	18155-18158	one	_
 109-3	18159-18162	ESZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
@@ -3247,6 +3356,7 @@
 109-8	18182-18186	data	_
 109-9	18187-18188	.	_
 
+Text=We then used a non-parametric Spearman's rank correlation method to evaluate the association between the CPZ equivalent and the co-activation (reflected by the mean Z-score) of each SDR (p <0.05 with Bonferroni correction, i.e., p-value threshold = 0.05/the number of all SDRs) for ESZ patients.
 110-1	18189-18191	We	_
 110-2	18192-18196	then	_
 110-3	18197-18201	used	_
@@ -3302,6 +3412,7 @@
 110-53	18483-18491	patients	_
 110-54	18492-18493	.	_
 
+Text=Spearman's rank correlation analysis was applied due to the non-normality of the CPZ variable.
 111-1	18494-18502	Spearman	_
 111-2	18503-18505	's	_
 111-3	18506-18510	rank	_
@@ -3319,6 +3430,7 @@
 111-15	18580-18588	variable	_
 111-16	18589-18590	.	_
 
+Text=For CHR subjects, we did not perform correlation analysis on the CPZ equivalents due to the small number of the medicated CHR subjects and the relatively noisy property of CPZ equivalents.
 112-1	18591-18594	For	_
 112-2	18595-18598	CHR	_
 112-3	18599-18607	subjects	_
@@ -3353,6 +3465,7 @@
 112-32	18768-18779	equivalents	_
 112-33	18780-18781	.	_
 
+Text=Instead, we examined difference in the co-activation of each SDR between the CHR individuals without medication treatment and the CHR individuals taking medication using a two-tailed two-sample t-test (p <0.05 with Bonferroni correction, i.e., p-value threshold = 0.05/the number of all SDRs).
 113-1	18782-18789	Instead	_
 113-2	18790-18791	,	_
 113-3	18792-18794	we	_

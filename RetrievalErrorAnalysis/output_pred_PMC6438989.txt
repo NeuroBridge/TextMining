@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Resting state connectivity best predicts alcohol use severity in moderate to heavy alcohol users Background In the United States, 13% of adults are estimated to have alcohol use disorder (AUD).
 1-1	0-7	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 1-2	8-13	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 1-3	14-26	connectivity	_
@@ -38,6 +39,7 @@
 1-34	195-196	)	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 1-35	197-198	.	_
 
+Text=Most studies examining the neurobiology of AUD treat individuals with this disorder as a homogeneous group; however, the theories of the neurocircuitry of AUD call for a quantitative and dimensional approach.
 2-1	199-203	Most	_
 2-2	204-211	studies	_
 2-3	212-221	examining	_
@@ -73,6 +75,7 @@
 2-33	400-408	approach	_
 2-34	409-410	.	_
 
+Text=Previous imaging studies find differences in brain structure, function, and resting-state connectivity in AUD, but few use a multimodal approach to understand the association between severity of alcohol use and the brain differences.
 3-1	411-419	Previous	_
 3-2	420-427	imaging	_
 3-3	428-435	studies	_
@@ -111,6 +114,7 @@
 3-36	635-646	differences	_
 3-37	647-648	.	_
 
+Text=Methods Adults (ages 22–60) with problem drinking patterns (n = 59) completed a behavioral and neuroimaging protocol at the National Institutes of Health.
 4-1	649-656	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 4-2	657-663	Adults	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 4-3	664-665	(	_
@@ -140,6 +144,7 @@
 4-27	800-806	Health	_
 4-28	807-808	.	_
 
+Text=Alcohol severity was quantified with the Alcohol Use Disorders Identification Test (AUDIT).
 5-1	809-816	Alcohol	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 5-2	817-825	severity	_
 5-3	826-829	was	_
@@ -156,6 +161,7 @@
 5-14	900-901	)	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
 5-15	902-903	.	_
 
+Text=In a 3 T MRI scanner, participants underwent a structural MRI as well as resting-state, monetary incentive delay, and face matching fMRI scans.
 6-1	904-906	In	_
 6-2	907-908	a	_
 6-3	909-910	3	_
@@ -184,6 +190,7 @@
 6-26	1044-1049	scans	_
 6-27	1050-1051	.	_
 
+Text=Machine learning was applied and trained using the neural data from MRI scanning.
 7-1	1052-1059	Machine	_
 7-2	1060-1068	learning	_
 7-3	1069-1072	was	_
@@ -199,6 +206,7 @@
 7-13	1124-1132	scanning	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 7-14	1133-1134	.	_
 
+Text=The model was tested for generalizability in a validation sample (n = 24).
 8-1	1135-1138	The	_
 8-2	1139-1144	model	_
 8-3	1145-1148	was	_
@@ -216,6 +224,7 @@
 8-15	1209-1210	)	_
 8-16	1211-1212	.	_
 
+Text=Results The resting state-connectivity features model best predicted AUD severity in the naïve sample, compared to task fMRI, structural MRI, combined MRI features, or demographic features.
 9-1	1213-1220	Results	_
 9-2	1221-1224	The	_
 9-3	1225-1232	resting	_
@@ -248,6 +257,7 @@
 9-30	1397-1405	features	_
 9-31	1406-1407	.	_
 
+Text=Network connectivity features between salience network, default mode network, executive control network, and sensory networks explained 33% of the variance associated with AUDIT in this model.
 10-1	1408-1415	Network	_
 10-2	1416-1428	connectivity	_
 10-3	1429-1437	features	_
@@ -280,6 +290,7 @@
 10-30	1598-1603	model	_
 10-31	1604-1605	.	_
 
+Text=Conclusions These findings indicate that the neural effects of AUD vary according to severity.
 11-1	1606-1617	Conclusions	_
 11-2	1618-1623	These	_
 11-3	1624-1632	findings	_
@@ -296,6 +307,7 @@
 11-14	1691-1699	severity	_
 11-15	1700-1701	.	_
 
+Text=Our results emphasize the utility of resting state fMRI as a neuroimaging biomarker for quantitative clinical evaluation of AUD.
 12-1	1702-1705	Our	_
 12-2	1706-1713	results	_
 12-3	1714-1723	emphasize	_
@@ -317,6 +329,7 @@
 12-19	1826-1829	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 12-20	1830-1831	.	_
 
+Text=Highlights Brain features predict alcohol use disorder severity.
 13-1	1832-1842	Highlights	_
 13-2	1843-1848	Brain	_
 13-3	1849-1857	features	_
@@ -327,6 +340,7 @@
 13-8	1887-1895	severity	_
 13-9	1896-1897	.	_
 
+Text=Resting state brain connectivity is the most stable predictive feature set.
 14-1	1898-1905	Resting	_
 14-2	1906-1911	state	_
 14-3	1912-1917	brain	_
@@ -340,6 +354,7 @@
 14-11	1969-1972	set	_
 14-12	1973-1974	.	_
 
+Text=Salience, default mode, and executive control networks predict alcohol use severity.
 15-1	1975-1983	Salience	_
 15-2	1984-1985	,	_
 15-3	1986-1993	default	_
@@ -355,6 +370,7 @@
 15-13	2052-2060	severity	_
 15-14	2061-2062	.	_
 
+Text=Differing imaging modalities detect shared and distinct alcohol related features.
 16-1	2063-2072	Differing	_
 16-2	2073-2080	imaging	_
 16-3	2081-2091	modalities	_
@@ -367,6 +383,7 @@
 16-10	2135-2143	features	_
 16-11	2144-2145	.	_
 
+Text=Methods and materials Participants Primary sample Adult men and women with moderate to heavy alcohol use (N = 59) completed a neuroimaging protocol at the National Institutes of Alcohol Abuse and Alcoholism (NIAAA).
 17-1	2146-2153	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 17-2	2154-2157	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 17-3	2158-2167	materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -406,6 +423,7 @@
 17-37	2363-2364	)	_
 17-38	2365-2366	.	_
 
+Text=Participants were recruited from NIAAA inpatient treatment and from the community (See Supplemental Table 3 for the demographic features of inpatient and outpatient samples).
 18-1	2367-2379	Participants	_
 18-2	2380-2384	were	_
 18-3	2385-2394	recruited	_
@@ -434,6 +452,7 @@
 18-26	2541-2542	)	_
 18-27	2543-2544	.	_
 
+Text=This study was carried out in accordance with and as approved by the National Institutes of Health Addictions Institutional Review Board.
 19-1	2545-2549	This	_
 19-2	2550-2555	study	_
 19-3	2556-2559	was	_
@@ -457,6 +476,7 @@
 19-21	2676-2681	Board	_
 19-22	2682-2683	.	_
 
+Text=All participants gave written, informed consent in accordance with the Declaration of Helsinki.
 20-1	2684-2687	All	_
 20-2	2688-2700	participants	_
 20-3	2701-2705	gave	_
@@ -473,6 +493,7 @@
 20-14	2771-2779	Helsinki	_
 20-15	2780-2781	.	_
 
+Text=See Table 1 (A & C) for a description of the sample demographics.
 21-1	2782-2785	See	_
 21-2	2786-2791	Table	_
 21-3	2792-2793	1	_
@@ -490,6 +511,7 @@
 21-15	2836-2848	demographics	_
 21-16	2849-2850	.	_
 
+Text=Exclusion criteria were as follows: currently experiencing withdrawal from alcohol, left handedness, currently testing positive for drugs (THC, cocaine, methamphetamine, opiates, or benzodiazepine), or MRI contraindicated.
 22-1	2851-2860	Exclusion	_
 22-2	2861-2869	criteria	_
 22-3	2870-2874	were	_
@@ -528,6 +550,7 @@
 22-36	3067-3082	contraindicated	_
 22-37	3083-3084	.	_
 
+Text=Additionally, participants with IQ <70 or age> 60 were excluded from analysis.
 23-1	3085-3097	Additionally	_
 23-2	3098-3099	,	_
 23-3	3100-3112	participants	_
@@ -545,6 +568,7 @@
 23-15	3157-3165	analysis	_
 23-16	3166-3167	.	_
 
+Text=The final sample included four subjects with one comorbid substance use disorder (cannabis abuse, mild cannabis use disorder, cocaine abuse, and anxiolytic dependence).
 24-1	3168-3171	The	_
 24-2	3172-3177	final	_
 24-3	3178-3184	sample	_
@@ -575,6 +599,7 @@
 24-28	3339-3340	)	_
 24-29	3341-3342	.	_
 
+Text=This sub-group (75% male, 50% inpatient) did not differ significantly from the overall sample on age, IQ, years of education, AUDIT, average drinks per day, or Fagerstrom Test of Nicotine Dependence smoking score.
 25-1	3343-3347	This	_
 25-2	3348-3357	sub-group	_
 25-3	3358-3359	(	_
@@ -620,6 +645,7 @@
 25-43	3560-3565	score	_
 25-44	3566-3567	.	_
 
+Text=Validation sample Participants (n = 24) were recruited and included based on the procedures described above.
 26-1	3568-3578	Validation	_
 26-2	3579-3585	sample	_
 26-3	3586-3598	Participants	_
@@ -640,6 +666,7 @@
 26-18	3672-3677	above	_
 26-19	3678-3679	.	_
 
+Text=See Table 1 (B & D) for a description of sample demographics.
 27-1	3680-3683	See	_
 27-2	3684-3689	Table	_
 27-3	3690-3691	1	_
@@ -656,6 +683,7 @@
 27-14	3730-3742	demographics	_
 27-15	3743-3744	.	_
 
+Text=Behavioral data collection Participants completed a standardized screening procedure, including demographic, health, and alcohol use information.
 28-1	3745-3755	Behavioral	_
 28-2	3756-3760	data	_
 28-3	3761-3771	collection	_
@@ -677,6 +705,7 @@
 28-19	3881-3892	information	_
 28-20	3893-3894	.	_
 
+Text=We collected the AUDIT to measure problem alcohol use severity; when we refer to alcohol use severity, we are referring to score on the AUDIT, rather than DSM-5 diagnosed disorder severity.
 29-1	3895-3897	We	_
 29-2	3898-3907	collected	_
 29-3	3908-3911	the	_
@@ -713,6 +742,7 @@
 29-34	4078-4086	severity	_
 29-35	4087-4088	.	_
 
+Text=The AUDIT is a 10-item self-report measure covering alcohol consumption, drinking behavior, and alcohol-related problems.
 30-1	4089-4092	The	_
 30-2	4093-4098	AUDIT	_
 30-3	4099-4101	is	_
@@ -732,6 +762,7 @@
 30-17	4203-4211	problems	_
 30-18	4212-4213	.	_
 
+Text=Each item is scored between 0 (least severe) and 4 (most severe).
 31-1	4214-4218	Each	_
 31-2	4219-4223	item	_
 31-3	4224-4226	is	_
@@ -750,6 +781,7 @@
 31-16	4281-4282	)	_
 31-17	4283-4284	.	_
 
+Text=When the AUDIT is used for diagnosis, a score of 8 or above is suggested to indicate AUD.
 32-1	4285-4289	When	_
 32-2	4290-4293	the	_
 32-3	4294-4299	AUDIT	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholUseDisordersIdentificationTest
@@ -771,6 +803,7 @@
 32-19	4371-4374	AUD	http://maven.renci.org/NeuroBridge/neurobridge#Audiometer
 32-20	4375-4376	.	_
 
+Text=Average number of consumed alcoholic drinks per day was collected using the Alcohol Timeline Follow Back, which assesses drinking over the last 90 days.
 33-1	4377-4384	Average	_
 33-2	4385-4391	number	_
 33-3	4392-4394	of	_
@@ -798,6 +831,7 @@
 33-25	4525-4529	days	_
 33-26	4530-4531	.	_
 
+Text=We also collected the Wechsler Abbreviated Scale of Intelligence II (WASI) to assess IQ.
 34-1	4532-4534	We	_
 34-2	4535-4539	also	_
 34-3	4540-4549	collected	_
@@ -816,6 +850,7 @@
 34-16	4619-4621	IQ	_
 34-17	4622-4623	.	_
 
+Text=The WASI is a short form measurement to estimate intelligence based on two-subtests: vocabulary and matrix reasoning.
 35-1	4624-4627	The	_
 35-2	4628-4632	WASI	_
 35-3	4633-4635	is	_
@@ -836,6 +871,7 @@
 35-18	4732-4741	reasoning	_
 35-19	4742-4743	.	_
 
+Text=The Fagerstrom Test for Nicotine Dependence was collected to quantify levels of smoking.
 36-1	4744-4747	The	_
 36-2	4748-4758	Fagerstrom	http://maven.renci.org/NeuroBridge/neurobridge#FagerstromTestforNicotineDependence
 36-3	4759-4763	Test	http://maven.renci.org/NeuroBridge/neurobridge#FagerstromTestforNicotineDependence
@@ -851,6 +887,7 @@
 36-13	4824-4831	smoking	_
 36-14	4832-4833	.	_
 
+Text=Participants were breathalyzed at the beginning of each study visit, and were not run with a blood alcohol level> 0.00 g/dl.
 37-1	4834-4846	Participants	_
 37-2	4847-4851	were	_
 37-3	4852-4864	breathalyzed	_
@@ -876,6 +913,7 @@
 37-23	4955-4959	g/dl	_
 37-24	4960-4961	.	_
 
+Text=fMRI tasks Monetary Incentive Delay (MID) Task Anticipation of monetary reward and loss was measured following a modified version of the procedures described in.
 38-1	4962-4966	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#DegenerativeDiseaseoftheCentralNervousSystem
 38-2	4967-4972	tasks	http://maven.renci.org/NeuroBridge/neurobridge#DegenerativeDiseaseoftheCentralNervousSystem
 38-3	4973-4981	Monetary	http://maven.renci.org/NeuroBridge/neurobridge#DegenerativeDiseaseoftheCentralNervousSystem
@@ -904,6 +942,7 @@
 38-26	5122-5124	in	_
 38-27	5125-5126	.	_
 
+Text=During this task, participants saw cue symbols to indicate one of five conditions: 1) low reward (win $0.20), 2) high reward (win $1.00), 3) low loss (lose $0.20), 4) high loss (lose $1.00), and 5) neutral (no loss or reward).
 39-1	5127-5133	During	_
 39-2	5134-5138	this	_
 39-3	5139-5143	task	_
@@ -971,6 +1010,7 @@
 39-65	5376-5377	)	_
 39-66	5378-5379	.	_
 
+Text=Following this cue at a variable interval (2000–2500 msec), the participant responded to a target stimulus with a button press.
 40-1	5380-5389	Following	_
 40-2	5390-5394	this	_
 40-3	5395-5398	cue	_
@@ -996,6 +1036,7 @@
 40-23	5504-5509	press	_
 40-24	5510-5511	.	_
 
+Text=For reward conditions, successfully pressing during the target period resulted in receipt of monetary reward.
 41-1	5512-5515	For	_
 41-2	5516-5522	reward	_
 41-3	5523-5533	conditions	_
@@ -1014,6 +1055,7 @@
 41-16	5615-5621	reward	_
 41-17	5622-5623	.	_
 
+Text=For loss conditions, failing to press during the target period resulted in loss of monetary reward.
 42-1	5624-5627	For	_
 42-2	5628-5632	loss	_
 42-3	5633-5643	conditions	_
@@ -1033,6 +1075,7 @@
 42-17	5717-5723	reward	_
 42-18	5724-5725	.	_
 
+Text=Failure to hit a reward target, successfully hitting a loss target, and all responses to neutral targets did not result in any monetary outcome.
 43-1	5726-5733	Failure	_
 43-2	5734-5736	to	_
 43-3	5737-5740	hit	_
@@ -1061,6 +1104,7 @@
 43-26	5864-5871	outcome	_
 43-27	5872-5873	.	_
 
+Text=Participants were given feedback after another jittered delay of 1500–5000 msec following their button press.
 44-1	5874-5886	Participants	_
 44-2	5887-5891	were	_
 44-3	5892-5897	given	_
@@ -1078,6 +1122,7 @@
 44-15	5977-5982	press	_
 44-16	5983-5984	.	_
 
+Text=There were 17 trials per cue type.
 45-1	5985-5990	There	_
 45-2	5991-5995	were	_
 45-3	5996-5998	17	_
@@ -1087,6 +1132,7 @@
 45-7	6014-6018	type	_
 45-8	6019-6020	.	_
 
+Text=Face matching task Processing of emotional faces was measured following a modified version of the procedures described in.
 46-1	6021-6025	Face	_
 46-2	6026-6034	matching	_
 46-3	6035-6039	task	_
@@ -1107,6 +1153,7 @@
 46-18	6140-6142	in	_
 46-19	6143-6144	.	_
 
+Text=During this task, participants viewed a target picture and two additional pictures; participants were instructed to select the picture that matched the target by pressing the corresponding button.
 47-1	6145-6151	During	_
 47-2	6152-6156	this	_
 47-3	6157-6161	task	_
@@ -1139,6 +1186,7 @@
 47-30	6336-6342	button	_
 47-31	6343-6344	.	_
 
+Text=Six types of pictures were shown: 1) angry faces, 2) sad faces, 3) fearful faces, 4) happy faces, 5) neutral faces, and 6) shapes.
 48-1	6345-6348	Six	_
 48-2	6349-6354	types	_
 48-3	6355-6357	of	_
@@ -1177,6 +1225,7 @@
 48-36	6480-6486	shapes	_
 48-37	6487-6488	.	_
 
+Text=There were two interleaved blocks of each picture type.
 49-1	6489-6494	There	_
 49-2	6495-6499	were	_
 49-3	6500-6503	two	_
@@ -1188,6 +1237,7 @@
 49-9	6539-6543	type	_
 49-10	6544-6545	.	_
 
+Text=Prior to each block, instructions were presented for two seconds for subjects to “ match shapes ” or “ match faces ”.
 50-1	6546-6551	Prior	_
 50-2	6552-6554	to	_
 50-3	6555-6559	each	_
@@ -1213,6 +1263,7 @@
 50-23	6662-6663	”	_
 50-24	6664-6665	.	_
 
+Text=Each block contained 6 images of the same type, displayed for 5 s with no inter-stimulus interval, for a total of 30 s per block.
 51-1	6666-6670	Each	_
 51-2	6671-6676	block	_
 51-3	6677-6686	contained	_
@@ -1242,6 +1293,7 @@
 51-27	6791-6796	block	_
 51-28	6797-6798	.	_
 
+Text=Male and female faces were equally represented.
 52-1	6799-6803	Male	_
 52-2	6804-6807	and	_
 52-3	6808-6814	female	_
@@ -1251,6 +1303,7 @@
 52-7	6834-6845	represented	_
 52-8	6846-6847	.	_
 
+Text=For the purpose of this study, we focused on negative emotional faces because the previous literature has consistently found alcohol-related effects in this domain and in fact have used happy faces as a control condition in some cases.
 53-1	6848-6851	For	_
 53-2	6852-6855	the	_
 53-3	6856-6863	purpose	_
@@ -1292,6 +1345,7 @@
 53-39	7078-7083	cases	_
 53-40	7084-7085	.	_
 
+Text=This task is an implicit processing task; behavioral responses were not of interest and thus not included in the model.
 54-1	7086-7090	This	_
 54-2	7091-7095	task	_
 54-3	7096-7098	is	_
@@ -1315,6 +1369,7 @@
 54-21	7200-7205	model	_
 54-22	7206-7207	.	_
 
+Text=Imaging data acquisition Participants were scanned on a Siemens 3T Skyra Magnetic Resonance Imaging (MRI) machine at the NIH Clinical Center.
 55-1	7208-7215	Imaging	_
 55-2	7216-7220	data	_
 55-3	7221-7232	acquisition	_
@@ -1340,6 +1395,7 @@
 55-23	7344-7350	Center	_
 55-24	7351-7352	.	_
 
+Text=While in the scanner, they completed a sMRI scan, a rs-fMRI scan, and then two task- fMRI scans, described above.
 56-1	7353-7358	While	_
 56-2	7359-7361	in	_
 56-3	7362-7365	the	_
@@ -1366,6 +1422,7 @@
 56-24	7464-7469	above	_
 56-25	7470-7471	.	_
 
+Text=For the rs-fMRI, participants lay in the dark for ten minutes with eyes open and no additional stimuli.
 57-1	7472-7475	For	_
 57-2	7476-7479	the	_
 57-3	7480-7487	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1387,6 +1444,7 @@
 57-19	7568-7575	stimuli	_
 57-20	7576-7577	.	_
 
+Text=All three functional scans were acquired using an echoplanar-imaging pulse sequence (TR: 2000 msec, TE: 30 msec, flip angle: 90°, FOV: 24 × 24 cm, 38 mm slice thickness, 36 slices, multi-slice mode: interleaved).
 58-1	7578-7581	All	_
 58-2	7582-7587	three	_
 58-3	7588-7598	functional	_
@@ -1436,6 +1494,7 @@
 58-47	7801-7802	)	_
 58-48	7803-7804	.	_
 
+Text=Tasks were presented during fMRI using Presentation® software (Version 18.0,, Berkeley, CA, www.neurojobs.com) in a counterbalanced order.
 59-1	7805-7810	Tasks	_
 59-2	7811-7815	were	_
 59-3	7816-7825	presented	_
@@ -1461,6 +1520,7 @@
 59-23	7943-7948	order	_
 59-24	7949-7950	.	_
 
+Text=The sMRI scan was acquired using a T1-MPRAGE sequence (TR: 1900 msec, TE: 3.09 msec, flip angle: 10°, FOV: 24 × 24 cm, 1 mm slice thickness, 144 slices, muli-slice mode: single shot).
 60-1	7951-7954	The	_
 60-2	7955-7959	sMRI	http://maven.renci.org/NeuroBridge/neurobridge#ComputedTomographyScan
 60-3	7960-7964	scan	http://maven.renci.org/NeuroBridge/neurobridge#ComputedTomographyScan
@@ -1509,6 +1569,7 @@
 60-46	8145-8146	)	_
 60-47	8147-8148	.	_
 
+Text=Image processing and data analysis See Fig.
 61-1	8149-8154	Image	_
 61-2	8155-8165	processing	_
 61-3	8166-8169	and	_
@@ -1518,6 +1579,7 @@
 61-7	8188-8191	Fig	_
 61-8	8192-8193	.	_
 
+Text=1 for a flowchart of analysis procedures.
 62-1	8194-8195	1	_
 62-2	8196-8199	for	_
 62-3	8200-8201	a	_
@@ -1527,6 +1589,7 @@
 62-7	8224-8234	procedures	_
 62-8	8235-8236	.	_
 
+Text=The fMRI data from each subject were processed using AFNI (v16.2.16: afni.nimh.nih.gov).
 63-1	8237-8240	The	_
 63-2	8241-8245	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 63-3	8246-8250	data	_
@@ -1544,6 +1607,7 @@
 63-15	8326-8327	)	_
 63-16	8328-8329	.	_
 
+Text=Preprocessing was done on a single-subject basis.
 64-1	8330-8343	Preprocessing	_
 64-2	8344-8347	was	_
 64-3	8348-8352	done	_
@@ -1553,6 +1617,7 @@
 64-7	8373-8378	basis	_
 64-8	8379-8380	.	_
 
+Text=The first three TRs were removed from each time course.
 65-1	8381-8384	The	_
 65-2	8385-8390	first	_
 65-3	8391-8396	three	_
@@ -1565,6 +1630,7 @@
 65-10	8429-8435	course	_
 65-11	8436-8437	.	_
 
+Text=Then, 3dDespike was applied to smooth spikes in signal over the time course.
 66-1	8438-8442	Then	_
 66-2	8443-8444	,	_
 66-3	8445-8454	3dDespike	_
@@ -1581,6 +1647,7 @@
 66-14	8508-8514	course	_
 66-15	8515-8516	.	_
 
+Text=Next, time courses were shifted for each voxel to be aligned to the same temporal origin by detrending then interpolating the time series.
 67-1	8517-8521	Next	_
 67-2	8522-8523	,	_
 67-3	8524-8528	time	_
@@ -1607,6 +1674,7 @@
 67-24	8649-8655	series	_
 67-25	8656-8657	.	_
 
+Text=Volumes across the time series were then aligned to the base volume and to the skull-stripped anatomy of the subject, then warped to standard Talairach space using the non-linear warping procedure 3dNwarpApply.
 68-1	8658-8665	Volumes	_
 68-2	8666-8672	across	_
 68-3	8673-8676	the	_
@@ -1642,6 +1710,7 @@
 68-33	8856-8868	3dNwarpApply	_
 68-34	8869-8870	.	_
 
+Text=Finally, each volume was blurred with a 4-mm full-width at half-maximum Gaussian smoothing kernel.
 69-1	8871-8878	Finally	_
 69-2	8879-8880	,	_
 69-3	8881-8885	each	_
@@ -1659,6 +1728,7 @@
 69-15	8963-8969	kernel	_
 69-16	8970-8971	.	_
 
+Text=For the task-fMRI data, TRs where the motion derivative value was 0.3 mm/TR or higher were censored from future analysis and stimuli onset times were regressed to identify signal associated with each condition, with demeaned motion parameters and their derivatives regressed to remove variance associated with movement.
 70-1	8972-8975	For	_
 70-2	8976-8979	the	_
 70-3	8980-8989	task-fMRI	_
@@ -1710,6 +1780,7 @@
 70-49	9284-9292	movement	_
 70-50	9293-9294	.	_
 
+Text=In rest data, individual data with an average motion derivative value of 0.3 mm/TR or higher (n = 5), with> 3% of TRs being identified as above that cut off (n = 2), or with> 50 TRs having motion were removed prior to group level analysis.
 71-1	9295-9297	In	_
 71-2	9298-9302	rest	_
 71-3	9303-9307	data	_
@@ -1768,6 +1839,7 @@
 71-56	9535-9543	analysis	_
 71-57	9544-9545	.	_
 
+Text=Additional control for nuisance variables occurred as part of the independent components analysis (ICA) procedure, described below, which identified and extracted signal due to sources such as motion or physiologic noise.
 72-1	9546-9556	Additional	_
 72-2	9557-9564	control	_
 72-3	9565-9568	for	_
@@ -1805,6 +1877,7 @@
 72-35	9765-9770	noise	_
 72-36	9771-9772	.	_
 
+Text=Individual masks and registrations across modality were visually inspected to ensure quality and several additional subjects were removed from the analysis (MID: n = 2, Face: n = 3; final subjects: rs-fMRI, n = 52, sMRI, n = 59, MID n = 57, Face Matching n = 56).
 73-1	9773-9783	Individual	_
 73-2	9784-9789	masks	_
 73-3	9790-9793	and	_
@@ -1867,6 +1940,7 @@
 73-60	10046-10047	)	_
 73-61	10048-10049	.	_
 
+Text=The rs-fMRI data were analyzed using ICA in the GIFT (v3.0b) toolbox in SPM 12 after the preprocessing described above (: mialab.mrn.org/software/gift/).
 74-1	10050-10053	The	_
 74-2	10054-10061	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 74-3	10062-10066	data	_
@@ -1895,6 +1969,7 @@
 74-26	10205-10206	)	_
 74-27	10207-10208	.	_
 
+Text=ICA is a data-driven technique that extracts maximally different independent sources from signal data.
 75-1	10209-10212	ICA	_
 75-2	10213-10215	is	_
 75-3	10216-10217	a	_
@@ -1911,6 +1986,7 @@
 75-14	10306-10310	data	_
 75-15	10311-10312	.	_
 
+Text=It concatenates data across the time series, extracting networks of related fluctuating activity.
 76-1	10313-10315	It	_
 76-2	10316-10328	concatenates	_
 76-3	10329-10333	data	_
@@ -1927,6 +2003,7 @@
 76-14	10402-10410	activity	_
 76-15	10411-10412	.	_
 
+Text=In the primary sample, group ICA was used to extract 75 component time series using a PCA based separation algorithm at a single-subject level.
 77-1	10413-10415	In	_
 77-2	10416-10419	the	_
 77-3	10420-10427	primary	_
@@ -1954,6 +2031,7 @@
 77-25	10551-10556	level	_
 77-26	10557-10558	.	_
 
+Text=Then a group PCA step was run to reduce the data to a single set of components for the group.
 78-1	10559-10563	Then	_
 78-2	10564-10565	a	_
 78-3	10566-10571	group	_
@@ -1976,6 +2054,7 @@
 78-20	10646-10651	group	_
 78-21	10652-10653	.	_
 
+Text=Single-subject time courses for each group IC were back-reconstructed using the GICA3 algorithm.
 79-1	10654-10668	Single-subject	_
 79-2	10669-10673	time	_
 79-3	10674-10681	courses	_
@@ -1991,6 +2070,7 @@
 79-13	10740-10749	algorithm	_
 79-14	10750-10751	.	_
 
+Text=ICs were reviewed manually, and 31 components were identified as noise related and removed.
 80-1	10752-10755	ICs	_
 80-2	10756-10760	were	_
 80-3	10761-10769	reviewed	_
@@ -2008,6 +2088,7 @@
 80-15	10836-10843	removed	_
 80-16	10844-10845	.	_
 
+Text=Resulting independent components (ICs) were labeled using the Component Labeling toolbox within GIFT, where the label was generated based on correlation with Resting State Network mask.
 81-1	10846-10855	Resulting	_
 81-2	10856-10867	independent	_
 81-3	10868-10878	components	_
@@ -2039,6 +2120,7 @@
 81-29	11029-11033	mask	_
 81-30	11034-11035	.	_
 
+Text=Based on our a priori hypotheses, ICs labeled anterior salience network (ASN), posterior salience network (PSN), dorsal Default Mode Network (dDMN), ventral Default Mode Network (vDMN), left or right Executive Control Network (ECN), or basal ganglia (BG) were identified.
 82-1	11036-11041	Based	_
 82-2	11042-11044	on	_
 82-3	11045-11048	our	_
@@ -2098,6 +2180,7 @@
 82-57	11314-11324	identified	_
 82-58	11325-11326	.	_
 
+Text=Following all data selection procedures, rs-fMRI data from the validation sample was processed by back-reconstructing subject data into the already defined component space using the GIG-ICA algorithm.
 83-1	11327-11336	Following	_
 83-2	11337-11340	all	_
 83-3	11341-11345	data	_
@@ -2128,6 +2211,7 @@
 83-28	11518-11527	algorithm	_
 83-29	11528-11529	.	_
 
+Text=Between component functional network connectivity (FNC) was also examined.
 84-1	11530-11537	Between	_
 84-2	11538-11547	component	_
 84-3	11548-11558	functional	_
@@ -2141,6 +2225,7 @@
 84-11	11597-11605	examined	_
 84-12	11606-11607	.	_
 
+Text=This procedure correlated the time courses of each IC with each other, creating a matrix of component connectivity.
 85-1	11608-11612	This	_
 85-2	11613-11622	procedure	_
 85-3	11623-11633	correlated	_
@@ -2162,6 +2247,7 @@
 85-19	11711-11723	connectivity	_
 85-20	11724-11725	.	_
 
+Text=This matrix was calculated individually for each subject, based on back-reconstructed component data.
 86-1	11726-11730	This	_
 86-2	11731-11737	matrix	_
 86-3	11738-11741	was	_
@@ -2178,6 +2264,7 @@
 86-14	11823-11827	data	_
 86-15	11828-11829	.	_
 
+Text=See Supplemental Material 1 for unimodal analysis methods and results.
 87-1	11830-11833	See	_
 87-2	11834-11846	Supplemental	_
 87-3	11847-11855	Material	_
@@ -2190,6 +2277,7 @@
 87-10	11892-11899	results	_
 87-11	11900-11901	.	_
 
+Text=sMRI data were analyzed using Freesurfer (version 5.3.0: surfer.nmr.mgh.harvard.edu).
 88-1	11902-11906	sMRI	_
 88-2	11907-11911	data	_
 88-3	11912-11916	were	_
@@ -2204,6 +2292,7 @@
 88-12	11988-11989	)	_
 88-13	11990-11991	.	_
 
+Text=We used an auto-segmentation procedure on individual subjects based on the standard Freesurfer and Destrieux atlases to measure gray matter volume of structures.
 89-1	11992-11994	We	_
 89-2	11995-11999	used	_
 89-3	12000-12002	an	_
@@ -2229,6 +2318,7 @@
 89-23	12142-12152	structures	_
 89-24	12153-12154	.	_
 
+Text=The T1-MPRAGE sMRI scan was first conformed to 1 mm voxel size, resliced using trilinear interpolation, transformed to Talairach space, corrected for intensity non-uniformity using NU intensity correction, and skull stripped using a watershed algorithm and surface deformation process.
 90-1	12155-12158	The	_
 90-2	12159-12168	T1-MPRAGE	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 90-3	12169-12173	sMRI	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -2274,6 +2364,7 @@
 90-43	12436-12443	process	_
 90-44	12444-12445	.	_
 
+Text=Then auto-segmentation proceeded with labels assigned based on probabilistic location of structures.
 91-1	12446-12450	Then	_
 91-2	12451-12468	auto-segmentation	_
 91-3	12469-12478	proceeded	_
@@ -2288,6 +2379,7 @@
 91-12	12535-12545	structures	_
 91-13	12546-12547	.	_
 
+Text=10% of auto-segmented volumes were manually checked with recon_checker from FreeSurfer's QATools.
 92-1	12548-12550	10	_
 92-2	12551-12552	%	_
 92-3	12553-12555	of	_
@@ -2304,6 +2396,7 @@
 92-14	12639-12646	QATools	_
 92-15	12647-12648	.	_
 
+Text=This included checking for outliers, calculating signal-to-noise ratio, and visually examining generated snapshots of brain volume segmentation.
 93-1	12649-12653	This	_
 93-2	12654-12662	included	_
 93-3	12663-12671	checking	_
@@ -2325,6 +2418,7 @@
 93-19	12782-12794	segmentation	_
 93-20	12795-12796	.	_
 
+Text=From the auto-segmented regions, GMV from regions of interest (ROIs) were selected for inclusion in the analysis based on previous associations with AUD within selected networks of interest (ECN, SN, DMN, basal ganglia): the amygdala, hippocampus, ACC, PCC, NAcc, GP, caudate, putamen, thalamus, cerebellum, OFC, SFG, MFG, TPJ, temporal poles, anterior insula, and posterior insula.
 94-1	12797-12801	From	_
 94-2	12802-12805	the	_
 94-3	12806-12820	auto-segmented	_
@@ -2407,6 +2501,7 @@
 94-80	13197-13203	insula	_
 94-81	13204-13205	.	_
 
+Text=Right and left regions were extracted separately, as applicable.
 95-1	13206-13211	Right	_
 95-2	13212-13215	and	_
 95-3	13216-13220	left	_
@@ -2419,6 +2514,7 @@
 95-10	13260-13270	applicable	_
 95-11	13271-13272	.	_
 
+Text=See Supplemental Material 2 for unimodal analysis methods and results.
 96-1	13273-13276	See	_
 96-2	13277-13289	Supplemental	_
 96-3	13290-13298	Material	_
@@ -2431,6 +2527,7 @@
 96-10	13335-13342	results	_
 96-11	13343-13344	.	_
 
+Text=Task-fMRI data was analyzed for the primary data set only using multivariate modeling (3dMVM) in AFNI.
 97-1	13345-13354	Task-fMRI	_
 97-2	13355-13359	data	_
 97-3	13360-13363	was	_
@@ -2451,6 +2548,7 @@
 97-18	13444-13448	AFNI	_
 97-19	13449-13450	.	_
 
+Text=First, masks were created from the rest ICs described above (see Fig.
 98-1	13451-13456	First	_
 98-2	13457-13458	,	_
 98-3	13459-13464	masks	_
@@ -2467,6 +2565,7 @@
 98-14	13518-13521	Fig	_
 98-15	13522-13523	.	_
 
+Text=2A for a depiction of these masks).
 99-1	13524-13526	2A	_
 99-2	13527-13530	for	_
 99-3	13531-13532	a	_
@@ -2477,6 +2576,7 @@
 99-8	13558-13559	)	_
 99-9	13560-13561	.	_
 
+Text=Each was used as a mask in 6 separate runs of 3dMVM.
 100-1	13562-13566	Each	_
 100-2	13567-13570	was	_
 100-3	13571-13575	used	_
@@ -2491,6 +2591,7 @@
 100-12	13608-13613	3dMVM	_
 100-13	13614-13615	.	_
 
+Text=For each mask, the full MVM ([AUDIT+age + IQ + education + gender] * condition) was run for overall significance for all main effects and interactions.
 101-1	13616-13619	For	_
 101-2	13620-13624	each	_
 101-3	13625-13629	mask	_
@@ -2524,6 +2625,7 @@
 101-31	13759-13771	interactions	_
 101-32	13772-13773	.	_
 
+Text=Then, conditions of interest were modeled using general linear tests and related to AUDIT score.
 102-1	13774-13778	Then	_
 102-2	13779-13780	,	_
 102-3	13781-13791	conditions	_
@@ -2542,6 +2644,7 @@
 102-16	13865-13870	score	_
 102-17	13871-13872	.	_
 
+Text=For the MID task-fMRI, our conditions of interest were Reward Anticipation (High Reward – Neutral) and Loss Anticipation (High Loss – Neutral).
 103-1	13873-13876	For	_
 103-2	13877-13880	the	_
 103-3	13881-13884	MID	_
@@ -2571,6 +2674,7 @@
 103-27	14019-14020	)	_
 103-28	14021-14022	.	_
 
+Text=Percentage of hits for reward and loss cued targets was examined behaviorally.
 104-1	14023-14033	Percentage	_
 104-2	14034-14036	of	_
 104-3	14037-14041	hits	_
@@ -2585,6 +2689,7 @@
 104-12	14088-14100	behaviorally	_
 104-13	14101-14102	.	_
 
+Text=In the Face Matching task-fMRI, our condition of interest was Negative Emotional Face Processing ([Angry Faces + Sad Faces + Fearful Faces] /3 – Neutral Faces).
 105-1	14103-14105	In	_
 105-2	14106-14109	the	_
 105-3	14110-14114	Face	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -2618,6 +2723,7 @@
 105-31	14266-14267	)	_
 105-32	14268-14269	.	_
 
+Text=See Supplemental Material 3 for results from these unimodal analyses.
 106-1	14270-14273	See	_
 106-2	14274-14286	Supplemental	_
 106-3	14287-14295	Material	_
@@ -2630,6 +2736,7 @@
 106-10	14330-14338	analyses	_
 106-11	14339-14340	.	_
 
+Text=We then used a machine learning procedure trained in a subsample of our subjects to predict AUDIT score based on neural features.
 107-1	14341-14343	We	_
 107-2	14344-14348	then	_
 107-3	14349-14353	used	_
@@ -2654,6 +2761,7 @@
 107-22	14461-14469	features	_
 107-23	14470-14471	.	_
 
+Text=The inputs to these learning models were neural features extracted from the rs-fMRI, task-fMRI, and sMRI analyses.
 108-1	14472-14475	The	_
 108-2	14476-14482	inputs	_
 108-3	14483-14485	to	_
@@ -2675,6 +2783,7 @@
 108-19	14579-14587	analyses	_
 108-20	14588-14589	.	_
 
+Text=For rs-fMRI, beta coefficients within 5 mm radius spheres of locations in ICs related to AUDIT (based on the primary sample only) were extracted and included as within-network connectivity features.
 109-1	14590-14593	For	_
 109-2	14594-14601	rs-fMRI	_
 109-3	14602-14603	,	_
@@ -2710,6 +2819,7 @@
 109-33	14782-14790	features	_
 109-34	14791-14792	.	_
 
+Text=FNC connectivity matrices for each subject were also included as between-network connectivity features.
 110-1	14793-14796	FNC	_
 110-2	14797-14809	connectivity	_
 110-3	14810-14818	matrices	_
@@ -2725,6 +2835,7 @@
 110-13	14887-14895	features	_
 110-14	14896-14897	.	_
 
+Text=For task-fMRI data, peak beta coefficients within 5 mm radius spheres of locations of AUDIT * condition effects (defined based on primary sample only) at a per-voxel p-value threshold of p = .05 were extracted and included as task-fMRI features.
 111-1	14898-14901	For	_
 111-2	14902-14911	task-fMRI	_
 111-3	14912-14916	data	_
@@ -2770,6 +2881,7 @@
 111-43	15137-15145	features	_
 111-44	15146-15147	.	_
 
+Text=The beta-coefficients were also extracted at these locations in the validation sample.
 112-1	15148-15151	The	_
 112-2	15152-15169	beta-coefficients	_
 112-3	15170-15174	were	_
@@ -2784,6 +2896,7 @@
 112-12	15227-15233	sample	_
 112-13	15234-15235	.	_
 
+Text=This uncorrected p-value was used for feature selection only, not for evaluation of statistical significance.
 113-1	15236-15240	This	_
 113-2	15241-15252	uncorrected	_
 113-3	15253-15260	p-value	_
@@ -2802,6 +2915,7 @@
 113-16	15333-15345	significance	_
 113-17	15346-15347	.	_
 
+Text=Behavioral data was not included because there was not a significant correlation between AUDIT and hit percentages for reward or loss cued targets in the primary sample.
 114-1	15348-15358	Behavioral	_
 114-2	15359-15363	data	_
 114-3	15364-15367	was	_
@@ -2831,6 +2945,7 @@
 114-27	15510-15516	sample	_
 114-28	15517-15518	.	_
 
+Text=For sMRI data, volumes of ROIs, described in the preceding paragraph, were included as features.
 115-1	15519-15522	For	_
 115-2	15523-15527	sMRI	_
 115-3	15528-15532	data	_
@@ -2851,6 +2966,7 @@
 115-18	15609-15617	features	_
 115-19	15618-15619	.	_
 
+Text=The overlap between these features was evaluated qualitatively.
 116-1	15620-15623	The	_
 116-2	15624-15631	overlap	_
 116-3	15632-15639	between	_
@@ -2861,6 +2977,7 @@
 116-8	15669-15682	qualitatively	_
 116-9	15683-15684	.	_
 
+Text=Within the initial sample that had data for all fMRI and sMRI scans (n = 44), we used 10 repeats of a 10-fold cross validation procedure to train a fast implementation random forest regression tree model through the ‘ ranger ’ method using the caret package in R. This model generated 500 trees and was tuned (tunelength = 10) in each iteration across number of randomly selected predictors, tree split rule (variance or extra trees), and minimum node size; by default, maximum tree depth was set to unlimited while other options (probability, replace, scale.permutation.importance, keep.inbag, houldout, quantreg, save.memory) are set to FALSE.
 117-1	15685-15691	Within	_
 117-2	15692-15695	the	_
 117-3	15696-15703	initial	_
@@ -2984,6 +3101,7 @@
 117-121	16343-16348	FALSE	_
 117-122	16349-16350	.	_
 
+Text=Feature importance was evaluated using an impurity measure based on standardized response variance in prediction of AUDIT across trees.
 118-1	16351-16358	Feature	_
 118-2	16359-16369	importance	_
 118-3	16370-16373	was	_
@@ -3005,6 +3123,7 @@
 118-19	16480-16485	trees	_
 118-20	16486-16487	.	_
 
+Text=This feature importance was then normalized such that the feature with the maximum importance is scaled to 100.
 119-1	16488-16492	This	_
 119-2	16493-16500	feature	_
 119-3	16501-16511	importance	_
@@ -3025,6 +3144,7 @@
 119-18	16595-16598	100	_
 119-19	16599-16600	.	_
 
+Text=The optimum model was selected based on minimizing Root-Mean-Square Error (RMSE).
 120-1	16601-16604	The	_
 120-2	16605-16612	optimum	_
 120-3	16613-16618	model	_
@@ -3040,6 +3160,7 @@
 120-13	16682-16683	)	_
 120-14	16684-16685	.	_
 
+Text=We also report R2 as a goodness of fit measure (calculated as the squared correlation between the predicted and observed AUDIT scores).
 121-1	16686-16688	We	_
 121-2	16689-16693	also	_
 121-3	16694-16700	report	_
@@ -3066,6 +3187,7 @@
 121-24	16821-16822	)	_
 121-25	16823-16824	.	_
 
+Text=The significance of the R2 values was evaluated using a permutation testing procedure in which we compare the observed R2 with a distribution of R2 values generated based on 2000 random permutations of the sample data.
 122-1	16825-16828	The	_
 122-2	16829-16841	significance	_
 122-3	16842-16844	of	_
@@ -3104,6 +3226,7 @@
 122-36	17038-17042	data	_
 122-37	17043-17044	.	_
 
+Text=The number of simulated R2 values that were as or more extreme than the observed R2 was divided by the number of simulations to produce a p-value for determining significance.
 123-1	17045-17048	The	_
 123-2	17049-17055	number	_
 123-3	17056-17058	of	_
@@ -3136,6 +3259,7 @@
 123-30	17207-17219	significance	_
 123-31	17220-17221	.	_
 
+Text=Then, the capacity of that model to generalize was tested using the validation data set (n = 24), which was not used in any way to determine which features were included in the models, providing us an estimate of the true error and performance of the model.
 124-1	17222-17226	Then	_
 124-2	17227-17228	,	_
 124-3	17229-17232	the	_
@@ -3190,6 +3314,7 @@
 124-52	17478-17483	model	_
 124-53	17484-17485	.	_
 
+Text=This procedures follows recommendations by.
 125-1	17486-17490	This	_
 125-2	17491-17501	procedures	_
 125-3	17502-17509	follows	_
@@ -3197,6 +3322,7 @@
 125-5	17526-17528	by	_
 125-6	17529-17530	.	_
 
+Text=Demographic features included were age, IQ, years of education, and gender; we selected these features to serve as a baseline comparison model to aid in understanding the utility of the neuroimaging feature sets above features that could be more easily and affordably collected in primary care or hospital settings.
 126-1	17531-17542	Demographic	_
 126-2	17543-17551	features	_
 126-3	17552-17560	included	_
@@ -3252,6 +3378,7 @@
 126-53	17841-17849	settings	_
 126-54	17850-17851	.	_
 
+Text=In order to evaluate the relative performance of rs-fMRI, task-fMRI, sMRI, and demographic features, five versions of these models were trained, tested, and then compared: all neural features in combination (#features = 5653), just rs-fMRI features (#features = 922), just task-fMRI features (#features = 4699), just sMRI features (#features = 32), and just demographic features (#features = 4).
 127-1	17852-17854	In	_
 127-2	17855-17860	order	_
 127-3	17861-17863	to	_

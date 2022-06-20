@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=On the integrity of functional brain networks in schizophrenia, Parkinson ’ s disease, and advanced age: Evidence from connectivity-based single-subject classification Previous whole-brain functional connectivity studies achieved successful classifications of patients and healthy controls but only offered limited specificity as to affected brain systems.
 1-1	0-2	On	_
 1-2	3-6	the	_
 1-3	7-16	integrity	_
@@ -51,6 +52,7 @@
 1-47	351-358	systems	_
 1-48	359-360	.	_
 
+Text=Here, we examined whether the connectivity patterns of functional systems affected in schizophrenia (SCZ), Parkinson ’ s disease (PD), or normal aging equally translate into high classification accuracies for these conditions.
 2-1	361-365	Here	_
 2-2	366-367	,	_
 2-3	368-370	we	_
@@ -91,6 +93,7 @@
 2-38	583-593	conditions	_
 2-39	594-595	.	_
 
+Text=We compared classification performance between pre-defined networks for each group and, for any given network, between groups.
 3-1	596-598	We	_
 3-2	599-607	compared	_
 3-3	608-622	classification	_
@@ -112,6 +115,7 @@
 3-19	717-723	groups	_
 3-20	724-725	.	_
 
+Text=Separate support vector machine classifications of 86 SCZ patients, 80 PD patients, and 95 older adults relative to their matched healthy/young controls, respectively, were performed on functional connectivity in 12 task-based, meta-analytically defined networks using 25 replications of a nested 10-fold cross-validation scheme.
 4-1	726-734	Separate	_
 4-2	735-742	support	_
 4-3	743-749	vector	_
@@ -162,6 +166,7 @@
 4-48	1053-1059	scheme	_
 4-49	1060-1061	.	_
 
+Text=Classification performance of the various networks clearly differed between conditions, as those networks that best classified one disease were usually non-informative for the other.
 5-1	1062-1076	Classification	_
 5-2	1077-1088	performance	_
 5-3	1089-1091	of	_
@@ -189,6 +194,7 @@
 5-25	1239-1244	other	_
 5-26	1245-1246	.	_
 
+Text=For SCZ, but not PD, emotion-processing, empathy, and cognitive action-control networks distinguished patients most accurately from controls.
 6-1	1247-1250	For	_
 6-2	1251-1254	SCZ	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 6-3	1255-1256	,	_
@@ -212,6 +218,7 @@
 6-21	1383-1391	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 6-22	1392-1393	.	_
 
+Text=For PD, but not SCZ, networks subserving autobiographical or semantic memory, motor execution, and theory-of-mind cognition yielded the best classifications.
 7-1	1394-1397	For	_
 7-2	1398-1400	PD	_
 7-3	1401-1402	,	_
@@ -238,6 +245,7 @@
 7-24	1539-1554	classifications	_
 7-25	1555-1556	.	_
 
+Text=In contrast, young–old classification was excellent based on all networks and outperformed both clinical classifications.
 8-1	1557-1559	In	_
 8-2	1560-1568	contrast	_
 8-3	1569-1570	,	_
@@ -256,6 +264,7 @@
 8-16	1663-1678	classifications	_
 8-17	1679-1680	.	_
 
+Text=Our pattern-classification approach captured associations between clinical and developmental conditions and functional network integrity with a higher level of specificity than did previous whole-brain analyses.
 9-1	1681-1684	Our	_
 9-2	1685-1707	pattern-classification	_
 9-3	1708-1716	approach	_
@@ -283,6 +292,7 @@
 9-25	1883-1891	analyses	_
 9-26	1892-1893	.	_
 
+Text=Taken together, our results support resting-state connectivity as a marker of functional dysregulation in specific networks known to be affected by SCZ and PD, while suggesting that aging affects network integrity in a more global way.
 10-1	1894-1899	Taken	_
 10-2	1900-1908	together	_
 10-3	1909-1910	,	_
@@ -323,9 +333,11 @@
 10-38	2127-2130	way	_
 10-39	2131-2132	.	_
 
+Text=2.
 11-1	2133-2134	2	_
 11-2	2135-2136	.	_
 
+Text=MATERIALS AND METHODS 2.1 Samples Schizophrenia Resting-state (RS) functional magnetic resonance imaging (fMRI) data and phenotypical information of 86 SCZ patients and 84 HCs obtained from the COBRE sample (http: //fcon_1000.projects.nitrc.org/indi/retro/cobre.html) and the University Hospital of Göttingen, Germany, were included in the analysis.
 12-1	2137-2146	MATERIALS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	2147-2150	AND	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	2151-2158	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -380,6 +392,7 @@
 12-52	2486-2494	analysis	_
 12-53	2495-2496	.	_
 
+Text=SCZ diagnosis was assigned as assessed by the DSM-IV-TR based on the structured clinical interview (SCID-P) and the International Classification of Diseases (ICD-10), respectively.
 13-1	2497-2500	SCZ	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 13-2	2501-2510	diagnosis	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 13-3	2511-2514	was	_
@@ -411,6 +424,7 @@
 13-29	2669-2681	respectively	_
 13-30	2682-2683	.	_
 
+Text=SCZ symptom severity was assed using the Positive and Negative Symptom Scale (PANSS) evaluating the severity of positive and negative symptoms as well as the general psychopathology.
 14-1	2684-2687	SCZ	_
 14-2	2688-2695	symptom	_
 14-3	2696-2704	severity	_
@@ -442,6 +456,7 @@
 14-29	2852-2867	psychopathology	_
 14-30	2868-2869	.	_
 
+Text=Patients received their regular medication therapy with considerable variability in the exact compounds used and a high prevalence of combination drug therapy (medicated patients but exact medication and dose unknown for Olanzapine equivalent dose: COBRE: 50,9%; Göttingen: 25,8%; medication status unknown: COBRE: 1 SCZ patient; Göttingen: 2 SCZ patients).
 15-1	2870-2878	Patients	_
 15-2	2879-2887	received	_
 15-3	2888-2893	their	_
@@ -506,6 +521,7 @@
 15-62	3238-3239	)	_
 15-63	3240-3241	.	_
 
+Text=Parkinson ’ s disease RS fMRI data of 80 PD patients and 84 HCs obtained from the RWTH Aachen University Hospital and the University Hospital Düsseldorf, Germany, were included in the analysis.
 16-1	3242-3251	Parkinson	http://maven.renci.org/NeuroBridge/neurobridge#Parkinson'sDisease
 16-2	3252-3253	’	http://maven.renci.org/NeuroBridge/neurobridge#Parkinson'sDisease
 16-3	3254-3255	s	http://maven.renci.org/NeuroBridge/neurobridge#Parkinson'sDisease
@@ -542,6 +558,7 @@
 16-34	3428-3436	analysis	_
 16-35	3437-3438	.	_
 
+Text=Diagnosis of PD was assigned by consultant neurologists with longstanding expertise in movement disorders based on clinical examination and review of the medical history.
 17-1	3439-3448	Diagnosis	_
 17-2	3449-3451	of	_
 17-3	3452-3454	PD	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -568,6 +585,7 @@
 17-24	3601-3608	history	_
 17-25	3609-3610	.	_
 
+Text=Included PD patients fulfilled the standard UK Brain Bank criteria for PD and had on average a mild cognitive impairment as confirmed by the Montreal Cognitive Assessment (MoCA) but no major depression symptoms.
 18-1	3611-3619	Included	_
 18-2	3620-3622	PD	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 18-3	3623-3631	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -605,6 +623,7 @@
 18-35	3815-3823	symptoms	_
 18-36	3824-3825	.	_
 
+Text=To assess PD symptom severity and evaluate motor impairments the Unified Parkinson ’ s disease Rating Scale Part III (UPDRS) and Hoehn and Yahr Scale (H & Y Scale) were applied.
 19-1	3826-3828	To	_
 19-2	3829-3835	assess	_
 19-3	3836-3838	PD	_
@@ -642,6 +661,7 @@
 19-35	3999-4006	applied	_
 19-36	4007-4008	.	_
 
+Text=All patients were medicated with their regular individual PD-related treatment (medication and dose unknown for Levodopa equivalent daily dose: RWTH Aachen: 28,1%; HHU Düsseldorf: 12,5%).
 20-1	4009-4012	All	_
 20-2	4013-4021	patients	_
 20-3	4022-4026	were	_
@@ -677,6 +697,7 @@
 20-33	4202-4203	)	_
 20-34	4204-4205	.	_
 
+Text=Healthy controls (HC) RS fMRI data of HC (HCSCZ and HCPD) were obtained from the four different sites as respective clinical subjects (SCZ and PD), and were without any record of neurological or psychiatric disorders as confirmed via structured clinical screening (SCID).
 21-1	4206-4213	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 21-2	4214-4222	controls	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 21-3	4223-4224	(	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
@@ -730,6 +751,7 @@
 21-51	4484-4485	)	_
 21-52	4486-4487	.	_
 
+Text=Normal Aging RS fMRI data of 95 old (age range: 55 – 70 years) and 93 young (age range: 20 – 35 years) participants with an age range of 15 years in each group were obtained from the population-based 1000BRAINS study and another separate study at the Research Centre Jülich, Germany.
 22-1	4488-4494	Normal	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 22-2	4495-4500	Aging	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 22-3	4501-4503	RS	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -790,6 +812,7 @@
 22-58	4770-4777	Germany	_
 22-59	4778-4779	.	_
 
+Text=This relative small age-range aims to enhance the subsample homogeneity.
 23-1	4780-4784	This	_
 23-2	4785-4793	relative	_
 23-3	4794-4799	small	_
@@ -802,6 +825,7 @@
 23-10	4840-4851	homogeneity	_
 23-11	4852-4853	.	_
 
+Text=“ Normal aging ” in old participants refers to the absence of neurodegenerative diseases.
 24-1	4854-4855	“	_
 24-2	4856-4862	Normal	_
 24-3	4863-4868	aging	_
@@ -818,6 +842,7 @@
 24-14	4934-4942	diseases	_
 24-15	4943-4944	.	_
 
+Text=Older adults showed cognitive performance adequate for their age (DemTect> 13) as assessed by the Mild Cognitive Impairment and Early Dementia Detection (DemTect) assessment and all participants did not exhibit clinically relevant symptoms for depression (BDI-II <13) as evaluated via the Beck Depression Inventory-II.
 25-1	4945-4950	Older	_
 25-2	4951-4957	adults	_
 25-3	4958-4964	showed	_
@@ -872,6 +897,7 @@
 25-52	5258-5270	Inventory-II	_
 25-53	5271-5272	.	_
 
+Text=Importantly, target and control groups (i.e., patients vs. healthy controls, old vs. young adults) of all three samples (PD, SCZ, NA) represent subsamples from larger samples that were post-hoc matched for gender, within-scanner movement and (only for the clinical samples) age (cf.
 26-1	5273-5284	Importantly	_
 26-2	5285-5286	,	_
 26-3	5287-5293	target	_
@@ -929,6 +955,7 @@
 26-55	5565-5567	cf	_
 26-56	5568-5569	.	_
 
+Text=Table I for sample and group matching characteristics).
 27-1	5570-5575	Table	_
 27-2	5576-5577	I	_
 27-3	5578-5581	for	_
@@ -940,6 +967,7 @@
 27-9	5624-5625	)	_
 27-10	5626-5627	.	_
 
+Text=Written informed consent from all subjects and approval by the local ethics committees was obtained from all sites.
 28-1	5628-5635	Written	_
 28-2	5636-5644	informed	_
 28-3	5645-5652	consent	_
@@ -960,6 +988,7 @@
 28-18	5737-5742	sites	_
 28-19	5743-5744	.	_
 
+Text=Joint reanalysis of the anonymized data was approved by the ethics committee of the HHU Düsseldorf.
 29-1	5745-5750	Joint	_
 29-2	5751-5761	reanalysis	_
 29-3	5762-5764	of	_
@@ -978,6 +1007,7 @@
 29-16	5833-5843	Düsseldorf	_
 29-17	5844-5845	.	_
 
+Text=2.2 Resting-state fMRI data acquisition, preprocessing, and analysis During image acquisition (see Table SI for fMRI parameters), participants were instructed to lie still, let their mind wander and not fall asleep (confirmed at debriefing).
 30-1	5846-5849	2.2	_
 30-2	5850-5863	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 30-3	5864-5868	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1022,6 +1052,7 @@
 30-42	6093-6094	)	_
 30-43	6095-6096	.	_
 
+Text=SPM8 (www.fil.ion.ucl.ac.uk/spm) was used for image realignment, spatial normalization to the MNI-152 template using the unified segmentation approach, and smoothing (5-mm full width at half maximum Gaussian).
 31-1	6097-6101	SPM8	_
 31-2	6102-6103	(	_
 31-3	6104-6129	www.fil.ion.ucl.ac.uk/spm	_
@@ -1057,6 +1088,7 @@
 31-33	6310-6311	)	_
 31-34	6312-6313	.	_
 
+Text=We investigated 12 functional networks, robustly defined by previous quantitative meta-analyses, to reflect neural correlates of a broad set of cognitive, social-affective/motivational and motor functions (see Table II for an overview and Table SII for detailed network coordinates and corresponding brain regions).
 32-1	6314-6316	We	_
 32-2	6317-6329	investigated	_
 32-3	6330-6332	12	_
@@ -1106,6 +1138,7 @@
 32-47	6632-6633	)	_
 32-48	6634-6635	.	_
 
+Text=Only meta-analytic networks with a minimum of 10 nodes were included, since a lower number of features are uninformative for robust classification.
 33-1	6636-6640	Only	_
 33-2	6641-6654	meta-analytic	_
 33-3	6655-6663	networks	_
@@ -1131,6 +1164,7 @@
 33-23	6769-6783	classification	_
 33-24	6784-6785	.	_
 
+Text=Resting-state functional connectivity (RSFC) within each network was computed per subject by first extracting the time-series for each node within 6 mm of the meta-analytic peaks.
 34-1	6786-6799	Resting-state	_
 34-2	6800-6810	functional	_
 34-3	6811-6823	connectivity	_
@@ -1161,6 +1195,7 @@
 34-28	6961-6966	peaks	_
 34-29	6967-6968	.	_
 
+Text=To reduce spurious correlations, variance explained by the 6 movement parameters and their derivatives (modeled as 1st and 2nd order effects) as well as the mean white-matter and Cerebrospinal fluid signal time-courses was removed from the time series.
 35-1	6969-6971	To	_
 35-2	6972-6978	reduce	_
 35-3	6979-6987	spurious	_
@@ -1204,6 +1239,7 @@
 35-41	7217-7223	series	_
 35-42	7224-7225	.	_
 
+Text=Subsequently, time series were high-pass filtered retaining frequencies above 0.01 Hz.
 36-1	7226-7238	Subsequently	_
 36-2	7239-7240	,	_
 36-3	7241-7245	time	_
@@ -1218,6 +1254,7 @@
 36-12	7310-7312	Hz	_
 36-13	7313-7314	.	_
 
+Text=Connectivity was computed as the Fisher ’ s Z-transformed Pearson correlation between the time series of each network ’ s nodes; connectivity values were adjusted for effects of acquisition site, gender, movement, total brain volume, and (only for the clinical samples) age (cf.)
 37-1	7315-7327	Connectivity	_
 37-2	7328-7331	was	_
 37-3	7332-7340	computed	_
@@ -1272,6 +1309,7 @@
 37-52	7601-7602	.	_
 37-53	7603-7604	)	_
 
+Text=to avoid classification based on spurious between-subject effects.
 38-1	7605-7607	to	_
 38-2	7608-7613	avoid	_
 38-3	7614-7628	classification	_
@@ -1282,6 +1320,7 @@
 38-8	7663-7670	effects	_
 38-9	7671-7672	.	_
 
+Text=2.3 Support Vector Machine Features and Classification To examine whether the RSFC pattern of a network contains predictive information on the respective groups (SCZ vs. HCSCZ, PD vs. HCPD, old vs. young) non-sparse linear two-class SVMs were computed using LibSVM (https: //www.csie.ntu.edu.tw/~cjlin/libsvm).
 39-1	7673-7676	2.3	_
 39-2	7677-7684	Support	_
 39-3	7685-7691	Vector	_
@@ -1333,6 +1372,7 @@
 39-49	7988-7989	)	_
 39-50	7990-7991	.	_
 
+Text=SVMs ’ were trained separately for each of all three analyses (PD, SCZ, NA) and each of the functional networks.
 40-1	7992-7996	SVMs	_
 40-2	7997-7998	’	_
 40-3	7999-8003	were	_
@@ -1359,6 +1399,7 @@
 40-24	8099-8107	networks	_
 40-25	8108-8109	.	_
 
+Text=Of note, we did not attempt between-patient classification (i.e., PD vs. SCZ), as the different groups were closely matched to their respective controls but substantially different from each other with respect to age, gender, and movement.
 41-1	8110-8112	Of	_
 41-2	8113-8117	note	_
 41-3	8118-8119	,	_
@@ -1404,6 +1445,7 @@
 41-43	8347-8355	movement	_
 41-44	8356-8357	.	_
 
+Text=The input variables (features) to the SVM consisted of edge-wise RSFC between all nodes of a given network.
 42-1	8358-8361	The	_
 42-2	8362-8367	input	_
 42-3	8368-8377	variables	_
@@ -1426,6 +1468,7 @@
 42-20	8459-8466	network	_
 42-21	8467-8468	.	_
 
+Text=Each SVM was trained and tested by a nested 10-fold cross validation scheme for each individual group (see example Figure 1) (cf .).
 43-1	8469-8473	Each	_
 43-2	8474-8477	SVM	_
 43-3	8478-8481	was	_
@@ -1455,6 +1498,7 @@
 43-27	8603-8604	)	_
 43-28	8605-8606	.	_
 
+Text=The inner loop used a 10-fold cross-validation within the training group to optimize the soft-margin slack parameter.
 44-1	8607-8610	The	_
 44-2	8611-8616	inner	_
 44-3	8617-8621	loop	_
@@ -1474,6 +1518,7 @@
 44-17	8714-8723	parameter	_
 44-18	8724-8725	.	_
 
+Text=For each fold of the outer loop, the left-out (unseen) 10% were then classified using the SVM trained on the (entire) training-set using the optimized parameter.
 45-1	8726-8729	For	_
 45-2	8730-8734	each	_
 45-3	8735-8739	fold	_
@@ -1508,6 +1553,7 @@
 45-32	8883-8892	parameter	_
 45-33	8893-8894	.	_
 
+Text=This nested scheme ensured that classifier optimization and evaluation was performed independent of each other.
 46-1	8895-8899	This	_
 46-2	8900-8906	nested	_
 46-3	8907-8913	scheme	_
@@ -1525,6 +1571,7 @@
 46-15	9000-9005	other	_
 46-16	9006-9007	.	_
 
+Text=Classification performance was evaluated based on accuracy (Acc.
 47-1	9008-9022	Classification	_
 47-2	9023-9034	performance	_
 47-3	9035-9038	was	_
@@ -1536,6 +1583,7 @@
 47-9	9069-9072	Acc	_
 47-10	9073-9074	.	_
 
+Text=), balanced accuracy (bAcc.
 48-1	9075-9076	)	_
 48-2	9077-9078	,	_
 48-3	9079-9087	balanced	_
@@ -1544,6 +1592,7 @@
 48-6	9099-9103	bAcc	_
 48-7	9104-9105	.	_
 
+Text=), sensitivity (Sens.
 49-1	9106-9107	)	_
 49-2	9108-9109	,	_
 49-3	9110-9121	sensitivity	_
@@ -1551,6 +1600,7 @@
 49-5	9124-9128	Sens	_
 49-6	9129-9130	.	_
 
+Text=), and specificity (Spec.)
 50-1	9131-9132	)	_
 50-2	9133-9134	,	_
 50-3	9135-9138	and	_
@@ -1560,6 +1610,7 @@
 50-7	9158-9159	.	_
 50-8	9160-9161	)	_
 
+Text=as well as two measures derived from signal-detection theory: the area under the receiver operating characteristics curve (AUC) and d ’.
 51-1	9162-9164	as	_
 51-2	9165-9169	well	_
 51-3	9170-9172	as	_
@@ -1586,9 +1637,11 @@
 51-24	9299-9300	’	_
 51-25	9301-9302	.	_
 
+Text=Acc.
 52-1	9303-9306	Acc	_
 52-2	9307-9308	.	_
 
+Text=denotes the overall proportion of subjects correctly classified as patients (PD, SCZ) or advanced age versus healthy or younger age, respectively.
 53-1	9309-9316	denotes	_
 53-2	9317-9320	the	_
 53-3	9321-9328	overall	_
@@ -1616,10 +1669,12 @@
 53-25	9446-9458	respectively	_
 53-26	9459-9460	.	_
 
+Text=The bAcc.
 54-1	9461-9464	The	_
 54-2	9465-9469	bAcc	_
 54-3	9470-9471	.	_
 
+Text=is calculated as the average proportion of subjects correctly classified as patients (PD, SCZ) or advanced age versus healthy or younger age, respectively.
 55-1	9472-9474	is	_
 55-2	9475-9485	calculated	_
 55-3	9486-9488	as	_
@@ -1649,9 +1704,11 @@
 55-27	9618-9630	respectively	_
 55-28	9631-9632	.	_
 
+Text=Sens.
 56-1	9633-9637	Sens	_
 56-2	9638-9639	.	_
 
+Text=indicates the percentage of patients (SCZ or PD) correctly classified as ill or subjects correctly classified as old in the aging sample (true positives).
 57-1	9640-9649	indicates	_
 57-2	9650-9653	the	_
 57-3	9654-9664	percentage	_
@@ -1682,9 +1739,11 @@
 57-28	9796-9797	)	_
 57-29	9798-9799	.	_
 
+Text=Spec.
 58-1	9800-9804	Spec	_
 58-2	9805-9806	.	_
 
+Text=in turn represents the fraction of HCs correctly classified as healthy or subjects correctly identified as young in the aging sample (true negatives).
 59-1	9807-9809	in	_
 59-2	9810-9814	turn	_
 59-3	9815-9825	represents	_
@@ -1712,6 +1771,7 @@
 59-25	9957-9958	)	_
 59-26	9959-9960	.	_
 
+Text=AUC refers to the area under the receiver operating characteristics (ROC) curve.
 60-1	9961-9964	AUC	_
 60-2	9965-9971	refers	_
 60-3	9972-9974	to	_
@@ -1728,6 +1788,7 @@
 60-14	10037-10042	curve	_
 60-15	10043-10044	.	_
 
+Text=An ROC curve depicts the relationship between true positive rate and false positive rate, and its AUC value indicates the sensitivity of the diagnostic process independent of any specific decision criterion.
 61-1	10045-10047	An	_
 61-2	10048-10051	ROC	_
 61-3	10052-10057	curve	_
@@ -1762,6 +1823,7 @@
 61-32	10243-10252	criterion	_
 61-33	10253-10254	.	_
 
+Text=Finally, we assessed d ’, an alternative index of diagnostic sensitivity independent of the decision criterion, calculated as z (true positive rate) – z (false positive rate).
 62-1	10255-10262	Finally	_
 62-2	10263-10264	,	_
 62-3	10265-10267	we	_
@@ -1798,6 +1860,7 @@
 62-34	10435-10436	)	_
 62-35	10437-10438	.	_
 
+Text=To increase robustness, the entire procedure was repeated 25 times, and each performance measures was averaged across repetitions.
 63-1	10439-10441	To	_
 63-2	10442-10450	increase	_
 63-3	10451-10461	robustness	_
@@ -1820,6 +1883,7 @@
 63-20	10559-10570	repetitions	_
 63-21	10571-10572	.	_
 
+Text=To examine significant differences in classification performance between networks within each group, pairwise t-tests were performed for each of the 12 networks based on the accuracies obtained from the 25 cross-validation outer-loop replications of the separate SVMs (significance threshold of p <0.05, Bonferroni-corrected for the number of pairwise network comparisons).
 64-1	10573-10575	To	_
 64-2	10576-10583	examine	_
 64-3	10584-10595	significant	_
@@ -1877,6 +1941,7 @@
 64-55	10949-10950	)	_
 64-56	10951-10952	.	_
 
+Text=To compare the separately conducted classifications for SCZ vs. HCSCZ and PD vs. HCPD subgroups, accuracies obtained for each individual analysis for every network were converted to standardized z-scores by reference to the binomial distribution reflecting chance level and corrected for multiple comparisons by the amount of networks-based classifications.
 65-1	10953-10955	To	_
 65-2	10956-10963	compare	_
 65-3	10964-10967	the	_
@@ -1929,6 +1994,7 @@
 65-50	11295-11310	classifications	_
 65-51	11311-11312	.	_
 
+Text=Log-likelihood ratios (LLRs) were estimated to identify networks showing better classification performance for one patient group than the other.
 66-1	11313-11327	Log-likelihood	_
 66-2	11328-11334	ratios	_
 66-3	11335-11336	(	_
@@ -1952,6 +2018,7 @@
 66-21	11453-11458	other	_
 66-22	11459-11460	.	_
 
+Text=To investigate significant differences in classification performance between the groups, t-tests were calculated based on the 25 accuracies obtained from the cross-validation outer-loop replications of the separate SVMs performed in each group (SCZ, PD, NA) for each of the 12 networks (significance threshold of p <0.05, Bonferroni-corrected for the number of groups and networks).
 67-1	11461-11463	To	_
 67-2	11464-11475	investigate	_
 67-3	11476-11487	significant	_

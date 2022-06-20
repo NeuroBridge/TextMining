@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Cocaine dependence and thalamic functional connectivity: a multivariate pattern analysis Cocaine dependence is associated with deficits in cognitive control.
 1-1	0-7	Cocaine	_
 1-2	8-18	dependence	_
 1-3	19-22	and	_
@@ -24,6 +25,7 @@
 1-20	150-157	control	_
 1-21	158-159	.	_
 
+Text=Previous studies demonstrated that chronic cocaine use affects the activity and functional connectivity of the thalamus, a subcortical structure critical for cognitive functioning.
 2-1	160-168	Previous	_
 2-2	169-176	studies	_
 2-3	177-189	demonstrated	_
@@ -50,6 +52,7 @@
 2-24	329-340	functioning	_
 2-25	341-342	.	_
 
+Text=However, the thalamus contains nuclei heterogeneous in functions, and it is not known how thalamic subregions contribute to cognitive dysfunctions in cocaine dependence.
 3-1	343-350	However	_
 3-2	351-352	,	_
 3-3	353-356	the	_
@@ -77,6 +80,7 @@
 3-25	503-513	dependence	_
 3-26	514-515	.	_
 
+Text=To address this issue, we used multivariate pattern analysis (MVPA) to examine how functional connectivity of the thalamus distinguishes 100 cocaine-dependent participants (CD) from 100 demographically matched healthy control individuals (HC).
 4-1	516-518	To	_
 4-2	519-526	address	_
 4-3	527-531	this	_
@@ -117,6 +121,7 @@
 4-38	764-765	)	_
 4-39	766-767	.	_
 
+Text=We characterized six task-related networks with independent component analysis of fMRI data of a stop signal task and employed MVPA to distinguish CD from HC on the basis of voxel-wise thalamic connectivity to the six independent components.
 5-1	768-770	We	_
 5-2	771-784	characterized	_
 5-3	785-788	six	_
@@ -156,6 +161,7 @@
 5-37	998-1008	components	_
 5-38	1009-1010	.	_
 
+Text=In an unbiased model of distinct training and testing data, the analysis correctly classified 72% of subjects with leave-one-out cross-validation (p <0.001), superior to comparison brain regions with similar voxel counts (p <0.004, two-sample t test).
 6-1	1011-1013	In	_
 6-2	1014-1016	an	_
 6-3	1017-1025	unbiased	_
@@ -204,6 +210,7 @@
 6-46	1270-1271	)	_
 6-47	1272-1273	.	_
 
+Text=Thalamic voxels that form the basis of classification aggregate in distinct subclusters, suggesting that connectivities of thalamic subnuclei distinguish CD from HC.
 7-1	1274-1282	Thalamic	_
 7-2	1283-1289	voxels	_
 7-3	1290-1294	that	_
@@ -229,6 +236,7 @@
 7-23	1437-1439	HC	_
 7-24	1440-1441	.	_
 
+Text=Further, linear regressions provided suggestive evidence for a correlation of the thalamic connectivities with clinical variables and performance measures on the stop signal task.
 8-1	1442-1449	Further	_
 8-2	1450-1451	,	_
 8-3	1452-1458	linear	_
@@ -256,6 +264,7 @@
 8-25	1617-1621	task	_
 8-26	1622-1623	.	_
 
+Text=Together, these findings support thalamic circuit dysfunction in cognitive control as an important neural marker of cocaine dependence.
 9-1	1624-1632	Together	_
 9-2	1633-1634	,	_
 9-3	1635-1640	these	_
@@ -277,6 +286,7 @@
 9-19	1749-1759	dependence	_
 9-20	1760-1761	.	_
 
+Text=Highlights Cocaine dependence is associated with thalamic dysfunction and cognitive deficits.
 10-1	1762-1772	Highlights	_
 10-2	1773-1780	Cocaine	_
 10-3	1781-1791	dependence	_
@@ -290,6 +300,7 @@
 10-11	1846-1854	deficits	_
 10-12	1855-1856	.	_
 
+Text=The thalamus comprises subnuclei that differ in cognitive functions.
 11-1	1857-1860	The	_
 11-2	1861-1869	thalamus	_
 11-3	1870-1879	comprises	_
@@ -301,6 +312,7 @@
 11-9	1915-1924	functions	_
 11-10	1925-1926	.	_
 
+Text=MVPA of thalamic connectivity distinguishes addicted from healthy individuals.
 12-1	1927-1931	MVPA	_
 12-2	1932-1934	of	_
 12-3	1935-1943	thalamic	_
@@ -312,6 +324,7 @@
 12-9	1993-2004	individuals	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 12-10	2005-2006	.	_
 
+Text=Thalamic voxels that identify addicts aggregate in clusters, resembling subnuclei.
 13-1	2007-2015	Thalamic	_
 13-2	2016-2022	voxels	_
 13-3	2023-2027	that	_
@@ -325,6 +338,7 @@
 13-11	2080-2089	subnuclei	_
 13-12	2090-2091	.	_
 
+Text=Connectivity of thalamic clusters reflects specific changes in SST performance.
 14-1	2092-2104	Connectivity	_
 14-2	2105-2107	of	_
 14-3	2108-2116	thalamic	_
@@ -337,6 +351,7 @@
 14-10	2159-2170	performance	_
 14-11	2171-2172	.	_
 
+Text=Materials and methods Subjects, informed consent, and assessment One hundred recently abstinent participants (62 men) with cocaine dependence (CD) and one hundred age- and gender-matched healthy adult (HC) subjects (55 men) participated in this study (Table 1).
 15-1	2173-2182	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 15-2	2183-2186	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 15-3	2187-2194	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -388,6 +403,7 @@
 15-49	2444-2445	)	_
 15-50	2446-2447	.	_
 
+Text=CD met criteria for current cocaine dependence, as diagnosed by the Structured Clinical Interview for DSM-IV.
 16-1	2448-2450	CD	_
 16-2	2451-2454	met	_
 16-3	2455-2463	criteria	_
@@ -407,6 +423,7 @@
 16-17	2551-2557	DSM-IV	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 16-18	2558-2559	.	_
 
+Text=Recent cocaine use was confirmed by urine toxicology screens.
 17-1	2560-2566	Recent	_
 17-2	2567-2574	cocaine	_
 17-3	2575-2578	use	_
@@ -418,6 +435,7 @@
 17-9	2613-2620	screens	_
 17-10	2621-2622	.	_
 
+Text=They were drug-free while staying in an inpatient unit prior to the current fMRI study.
 18-1	2623-2627	They	_
 18-2	2628-2632	were	_
 18-3	2633-2642	drug-free	_
@@ -435,6 +453,7 @@
 18-15	2704-2709	study	_
 18-16	2710-2711	.	_
 
+Text=All subjects were physically healthy with no major medical illnesses or current use of prescription medications.
 19-1	2712-2715	All	_
 19-2	2716-2724	subjects	_
 19-3	2725-2729	were	_
@@ -453,6 +472,7 @@
 19-16	2812-2823	medications	_
 19-17	2824-2825	.	_
 
+Text=None reported having a history of head injury or neurological illness.
 20-1	2826-2830	None	_
 20-2	2831-2839	reported	_
 20-3	2840-2846	having	_
@@ -466,6 +486,7 @@
 20-11	2888-2895	illness	_
 20-12	2896-2897	.	_
 
+Text=Other exclusion criteria included dependence on another psychoactive substance (except nicotine) and current or past history of psychotic disorders.
 21-1	2898-2903	Other	_
 21-2	2904-2913	exclusion	_
 21-3	2914-2922	criteria	_
@@ -489,6 +510,7 @@
 21-21	3038-3047	disorders	_
 21-22	3048-3049	.	_
 
+Text=Individuals with current depressive or anxiety symptoms requiring treatment or currently being treated for these symptoms were excluded as well.
 22-1	3050-3061	Individuals	_
 22-2	3062-3066	with	_
 22-3	3067-3074	current	_
@@ -511,6 +533,7 @@
 22-20	3189-3193	well	_
 22-21	3194-3195	.	_
 
+Text=The Human Investigation committee at Yale University School of Medicine approved all study procedures, and all subjects signed an informed consent prior to study participation.
 23-1	3196-3199	The	_
 23-2	3200-3205	Human	_
 23-3	3206-3219	Investigation	_
@@ -539,6 +562,7 @@
 23-26	3359-3372	participation	_
 23-27	3373-3374	.	_
 
+Text=CD's were assessed with the Beck Depression Inventory and the State-Trait Anxiety Inventory at admission.
 24-1	3375-3377	CD	_
 24-2	3378-3380	's	_
 24-3	3381-3385	were	_
@@ -557,6 +581,7 @@
 24-16	3471-3480	admission	_
 24-17	3481-3482	.	_
 
+Text=The mean (± SD) BDI (12.2 ± 8.9) and STAI state (36.2 ± 10.7) and trait (40.7 ± 11.2) scores were within the range reported previously for individuals with cocaine dependence.
 25-1	3483-3486	The	_
 25-2	3487-3491	mean	_
 25-3	3492-3493	(	_
@@ -598,6 +623,7 @@
 25-39	3655-3665	dependence	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 25-40	3666-3667	.	_
 
+Text=Cocaine craving was assessed with the cocaine craving questionnaire, brief version (CCQ-Brief), for all participants every two to three days.
 26-1	3668-3675	Cocaine	_
 26-2	3676-3683	craving	_
 26-3	3684-3687	was	_
@@ -624,6 +650,7 @@
 26-24	3808-3812	days	_
 26-25	3813-3814	.	_
 
+Text=The CCQ-Brief is a 10-item questionnaire, abbreviated from the CCQ-Now.
 27-1	3815-3818	The	_
 27-2	3819-3828	CCQ-Brief	_
 27-3	3829-3831	is	_
@@ -637,6 +664,7 @@
 27-11	3879-3886	CCQ-Now	_
 27-12	3887-3888	.	_
 
+Text=It is highly correlated with the CCQ-Now and other cocaine craving measures.
 28-1	3889-3891	It	_
 28-2	3892-3894	is	_
 28-3	3895-3901	highly	_
@@ -651,6 +679,7 @@
 28-12	3956-3964	measures	_
 28-13	3965-3966	.	_
 
+Text=Each item was rated on a scale from 1 to 7, with a higher total score (ranging from 10 to 70) indicating greater craving.
 29-1	3967-3971	Each	_
 29-2	3972-3976	item	_
 29-3	3977-3980	was	_
@@ -680,6 +709,7 @@
 29-27	4083-4090	craving	_
 29-28	4091-4092	.	_
 
+Text=CDs averaged CCQ scores of 20.0 ± 7.8 across all assessments and 18.0 ± 5.5 on the day or within 2–3 days of the scan.
 30-1	4093-4096	CDs	_
 30-2	4097-4105	averaged	_
 30-3	4106-4109	CCQ	_
@@ -707,6 +737,7 @@
 30-25	4206-4210	scan	_
 30-26	4211-4212	.	_
 
+Text=The majority of CDs received all of these assessments, and subjects with missing data were not included in the correlation analyses (see below).
 31-1	4213-4216	The	_
 31-2	4217-4225	majority	_
 31-3	4226-4228	of	_
@@ -735,6 +766,7 @@
 31-26	4358-4359	)	_
 31-27	4360-4361	.	_
 
+Text=Behavioral task and scan procedures We employed a stop-signal task (SST) as detailed in our previous studies.
 32-1	4362-4372	Behavioral	_
 32-2	4373-4377	task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 32-3	4378-4381	and	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -756,6 +788,7 @@
 32-19	4465-4472	studies	_
 32-20	4473-4474	.	_
 
+Text=Briefly, there were two trial types: “ go ” and “ stop, ” randomly intermixed.
 33-1	4475-4482	Briefly	_
 33-2	4483-4484	,	_
 33-3	4485-4490	there	_
@@ -776,6 +809,7 @@
 33-18	4545-4555	intermixed	_
 33-19	4556-4557	.	_
 
+Text=A small dot appeared on the screen to engage attention at the beginning of a go trial.
 34-1	4558-4559	A	_
 34-2	4560-4565	small	_
 34-3	4566-4569	dot	_
@@ -795,6 +829,7 @@
 34-17	4638-4643	trial	_
 34-18	4644-4645	.	_
 
+Text=After a randomized time interval (fore-period) between 1s and 5s, the dot turned into a circle, prompting the subjects to quickly press a button.
 35-1	4646-4651	After	_
 35-2	4652-4653	a	_
 35-3	4654-4664	randomized	_
@@ -825,6 +860,7 @@
 35-28	4788-4794	button	_
 35-29	4795-4796	.	_
 
+Text=The circle vanished at button press or after 1s had elapsed, whichever came first, and the trial terminated.
 36-1	4797-4800	The	_
 36-2	4801-4807	circle	_
 36-3	4808-4816	vanished	_
@@ -847,6 +883,7 @@
 36-20	4896-4906	terminated	_
 36-21	4907-4908	.	_
 
+Text=A premature button press prior to the appearance of the circle also terminated the trial.
 37-1	4909-4910	A	_
 37-2	4911-4920	premature	_
 37-3	4921-4927	button	_
@@ -864,6 +901,7 @@
 37-15	4992-4997	trial	_
 37-16	4998-4999	.	_
 
+Text=Three quarters of all trials were go trials.
 38-1	5000-5005	Three	_
 38-2	5006-5014	quarters	_
 38-3	5015-5017	of	_
@@ -874,6 +912,7 @@
 38-8	5037-5043	trials	_
 38-9	5044-5045	.	_
 
+Text=In a stop trial, an additional “ X, ” the “ stop ” signal, appeared after the go signal.
 39-1	5046-5048	In	_
 39-2	5049-5050	a	_
 39-3	5051-5055	stop	_
@@ -898,6 +937,7 @@
 39-22	5130-5136	signal	_
 39-23	5137-5138	.	_
 
+Text=The subjects were instructed to withhold button pressing upon seeing the stop signal.
 40-1	5139-5142	The	_
 40-2	5143-5151	subjects	_
 40-3	5152-5156	were	_
@@ -913,6 +953,7 @@
 40-13	5217-5223	signal	_
 40-14	5224-5225	.	_
 
+Text=Likewise, a trial terminated at button press or when 1s had elapsed since the appearance of the stop signal.
 41-1	5226-5234	Likewise	_
 41-2	5235-5236	,	_
 41-3	5237-5238	a	_
@@ -935,6 +976,7 @@
 41-20	5328-5334	signal	_
 41-21	5335-5336	.	_
 
+Text=The stop trials constituted the remaining one quarter of the trials.
 42-1	5337-5340	The	_
 42-2	5341-5345	stop	_
 42-3	5346-5352	trials	_
@@ -948,6 +990,7 @@
 42-11	5398-5404	trials	_
 42-12	5405-5406	.	_
 
+Text=There was an inter-trial-interval of 2 s. The stop signal delay (SSD) started at 200 ms and varied from one stop trial to the next according to a staircase procedure, increasing and decreasing by 64 ms each after a successful and failed stop trial.
 43-1	5407-5412	There	_
 43-2	5413-5416	was	_
 43-3	5417-5419	an	_
@@ -997,6 +1040,7 @@
 43-47	5652-5657	trial	_
 43-48	5658-5659	.	_
 
+Text=Subjects were instructed to respond to the go signal quickly while keeping in mind that a stop signal could appear occasionally.
 44-1	5660-5668	Subjects	_
 44-2	5669-5673	were	_
 44-3	5674-5684	instructed	_
@@ -1020,6 +1064,7 @@
 44-21	5775-5787	occasionally	_
 44-22	5788-5789	.	_
 
+Text=Each subject completed four 10 min runs of the task after a practice session outside the scanner.
 45-1	5790-5794	Each	_
 45-2	5795-5802	subject	_
 45-3	5803-5812	completed	_
@@ -1039,6 +1084,7 @@
 45-17	5879-5886	scanner	_
 45-18	5887-5888	.	_
 
+Text=With the staircase procedure, we anticipated that the subjects would succeed in withholding their response in approximately 50% of stop trials.
 46-1	5889-5893	With	_
 46-2	5894-5897	the	_
 46-3	5898-5907	staircase	_
@@ -1064,6 +1110,7 @@
 46-23	6027-6033	trials	_
 46-24	6034-6035	.	_
 
+Text=Analyses of behavioral data We computed a critical SSD that represents the time delay between go and stop signals that a subject would need to succeed in 50% of the stop trials.
 47-1	6036-6044	Analyses	_
 47-2	6045-6047	of	_
 47-3	6048-6058	behavioral	_
@@ -1099,6 +1146,7 @@
 47-33	6207-6213	trials	_
 47-34	6214-6215	.	_
 
+Text=Specifically, SSDs across trials were grouped into runs, with each run defined as a monotonically increasing or decreasing series.
 48-1	6216-6228	Specifically	_
 48-2	6229-6230	,	_
 48-3	6231-6235	SSDs	_
@@ -1122,6 +1170,7 @@
 48-21	6341-6347	series	_
 48-22	6348-6349	.	_
 
+Text=We derived a mid-run estimate by taking the middle SSD (or average of the two middle SSDs when there was an even number of SSDs) of every second run.
 49-1	6350-6352	We	_
 49-2	6353-6360	derived	_
 49-3	6361-6362	a	_
@@ -1155,6 +1204,7 @@
 49-31	6497-6500	run	_
 49-32	6501-6502	.	_
 
+Text=The critical SSD was computed by taking the mean of all mid-run SSDs.
 50-1	6503-6506	The	_
 50-2	6507-6515	critical	_
 50-3	6516-6519	SSD	_
@@ -1170,6 +1220,7 @@
 50-13	6567-6571	SSDs	_
 50-14	6572-6573	.	_
 
+Text=It was reported that, except for experiments with a small number of trials (less than 30), the mid-run estimate was close to the maximum likelihood estimate of X50 (50% positive response; i.e., 50% stop success or SS in the SST,).
 51-1	6574-6576	It	_
 51-2	6577-6580	was	_
 51-3	6581-6589	reported	_
@@ -1223,6 +1274,7 @@
 51-51	6813-6814	)	_
 51-52	6815-6816	.	_
 
+Text=The stop signal reaction time (SSRT) was computed by subtracting the critical SSD from the median go trial reaction time (RT).
 52-1	6817-6820	The	_
 52-2	6821-6825	stop	_
 52-3	6826-6832	signal	_
@@ -1250,6 +1302,7 @@
 52-25	6945-6946	)	_
 52-26	6947-6948	.	_
 
+Text=We computed the fore-period effect as an index of motor preparedness during the SST.
 53-1	6949-6951	We	_
 53-2	6952-6960	computed	_
 53-3	6961-6964	the	_
@@ -1266,6 +1319,7 @@
 53-14	7029-7032	SST	_
 53-15	7033-7034	.	_
 
+Text=Briefly, longer fore-periods are associated with faster RTs.
 54-1	7035-7042	Briefly	_
 54-2	7043-7044	,	_
 54-3	7045-7051	longer	_
@@ -1277,6 +1331,7 @@
 54-9	7092-7095	RTs	_
 54-10	7096-7097	.	_
 
+Text=RT was compared between go trials with a fore-period between 3 and 5 s and between 1 and 3 s, and the effect size of RT difference was defined as fore-period effect.
 55-1	7098-7100	RT	_
 55-2	7101-7104	was	_
 55-3	7105-7113	compared	_
@@ -1312,6 +1367,7 @@
 55-33	7257-7263	effect	_
 55-34	7264-7265	.	_
 
+Text=It is also known that in a RT task, the RT of a correct response is prolonged following an error, compared with other correct responses, and this prolonged RT is thought to reflect error monitoring.
 56-1	7266-7268	It	_
 56-2	7269-7271	is	_
 56-3	7272-7276	also	_
@@ -1352,6 +1408,7 @@
 56-38	7456-7466	monitoring	_
 56-39	7467-7468	.	_
 
+Text=We thus computed the RT difference between the go trials that followed a stop error (SE) and those that followed another go trial, and termed the effect size of this RT difference “ post-error slowing ” (PES).
 57-1	7469-7471	We	_
 57-2	7472-7476	thus	_
 57-3	7477-7485	computed	_
@@ -1396,6 +1453,7 @@
 57-42	7681-7682	)	_
 57-43	7683-7684	.	_
 
+Text=Imaging protocol Conventional T1-weighted spin echo sagittal anatomical images were acquired for slice localization using a 3T scanner (Siemens Trio).
 58-1	7685-7692	Imaging	_
 58-2	7693-7701	protocol	_
 58-3	7702-7714	Conventional	_
@@ -1420,6 +1478,7 @@
 58-22	7835-7836	)	_
 58-23	7837-7838	.	_
 
+Text=Anatomical images of the functional slice locations were next obtained with spin-echo imaging in the axial plane parallel to the AC–PC line with TR = 300 ms, TE = 2.5 ms, bandwidth = 300 Hz/pixel, flip angle = 60°, field of view = 220 mm × 220 mm, matrix = 256 × 256, 32 slices with slice thickness = 4 mm and no gap.
 59-1	7839-7849	Anatomical	_
 59-2	7850-7856	images	_
 59-3	7857-7859	of	_
@@ -1492,6 +1551,7 @@
 59-70	8158-8161	gap	_
 59-71	8162-8163	.	_
 
+Text=Functional, blood oxygen level-dependent (BOLD) signals were then acquired with a single-shot gradient echo echo planar imaging (EPI) sequence.
 60-1	8164-8174	Functional	_
 60-2	8175-8176	,	_
 60-3	8177-8182	blood	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
@@ -1518,6 +1578,7 @@
 60-24	8303-8311	sequence	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 60-25	8312-8313	.	_
 
+Text=Thirty-two axial slices parallel to the AC–PC line covering the whole brain were acquired with TR = 2000 ms, TE = 25ms, bandwidth = 2004 Hz/pixel, flip angle = 85°, field of view = 220 mm × 220mm, matrix = 64 × 64, 32 slices with slice thickness = 4 mm and no gap.
 61-1	8314-8324	Thirty-two	_
 61-2	8325-8330	axial	_
 61-3	8331-8337	slices	_
@@ -1580,6 +1641,7 @@
 61-60	8580-8583	gap	_
 61-61	8584-8585	.	_
 
+Text=Spatial preprocessing Data were analyzed with Statistical Parametric Mapping (SPM8, Wellcome Department of Imaging Neuroscience, University College London, U.K.).
 62-1	8586-8593	Spatial	_
 62-2	8594-8607	preprocessing	_
 62-3	8608-8612	Data	_
@@ -1606,6 +1668,7 @@
 62-24	8751-8752	)	_
 62-25	8753-8754	.	_
 
+Text=Images from the first five TRs at the beginning of each trial were discarded to enable the signal to achieve steady-state equilibrium between RF pulsing and relaxation.
 63-1	8755-8761	Images	_
 63-2	8762-8766	from	_
 63-3	8767-8770	the	_
@@ -1635,6 +1698,7 @@
 63-27	8912-8922	relaxation	_
 63-28	8923-8924	.	_
 
+Text=Standard image preprocessing was performed.
 64-1	8925-8933	Standard	_
 64-2	8934-8939	image	_
 64-3	8940-8953	preprocessing	_
@@ -1642,6 +1706,7 @@
 64-5	8958-8967	performed	_
 64-6	8968-8969	.	_
 
+Text=Images of each individual subject were first realigned (motion corrected) and corrected for slice timing.
 65-1	8970-8976	Images	_
 65-2	8977-8979	of	_
 65-3	8980-8984	each	_
@@ -1661,6 +1726,7 @@
 65-17	9070-9076	timing	_
 65-18	9077-9078	.	_
 
+Text=A mean functional image volume was constructed for each subject per run from the realigned image volumes.
 66-1	9079-9080	A	_
 66-2	9081-9085	mean	_
 66-3	9086-9096	functional	_
@@ -1680,6 +1746,7 @@
 66-17	9176-9183	volumes	_
 66-18	9184-9185	.	_
 
+Text=These mean images were co-registered with the high-resolution structural image and then segmented for normalization with affine registration followed by nonlinear transformation.
 67-1	9186-9191	These	_
 67-2	9192-9196	mean	_
 67-3	9197-9203	images	_
@@ -1704,6 +1771,7 @@
 67-22	9349-9363	transformation	_
 67-23	9364-9365	.	_
 
+Text=The normalization parameters determined for the structure volume were then applied to the corresponding functional image volumes for each subject.
 68-1	9366-9369	The	_
 68-2	9370-9383	normalization	_
 68-3	9384-9394	parameters	_
@@ -1726,6 +1794,7 @@
 68-20	9504-9511	subject	_
 68-21	9512-9513	.	_
 
+Text=Finally, the images were smoothed with a Gaussian kernel of 8 mm at Full Width at Half Maximum.
 69-1	9514-9521	Finally	_
 69-2	9522-9523	,	_
 69-3	9524-9527	the	_
@@ -1747,6 +1816,7 @@
 69-19	9602-9609	Maximum	_
 69-20	9610-9611	.	_
 
+Text=Independent component analysis Preprocessed time series were analyzed with a group ICA algorithm (GIFT, http: //icatb.sourceforge.net/, version 1.3i) to identify spatially independent and temporally coherent networks.
 70-1	9612-9623	Independent	_
 70-2	9624-9633	component	_
 70-3	9634-9642	analysis	_
@@ -1780,6 +1850,7 @@
 70-31	9825-9833	networks	_
 70-32	9834-9835	.	_
 
+Text=ICA identifies distinct groups of brain regions with the same temporal pattern of hemodynamic signal change.
 71-1	9836-9839	ICA	_
 71-2	9840-9850	identifies	_
 71-3	9851-9859	distinct	_
@@ -1798,6 +1869,7 @@
 71-16	9937-9943	change	_
 71-17	9944-9945	.	_
 
+Text=The data of CD (n = 100) and HC (n = 100) individuals were reduced through principal component analysis and separated into 30 maximally independent components (ICs) with an infomax algorithm.
 72-1	9946-9949	The	_
 72-2	9950-9954	data	_
 72-3	9955-9957	of	_
@@ -1837,6 +1909,7 @@
 72-37	10133-10142	algorithm	_
 72-38	10143-10144	.	_
 
+Text=The dimensionality was determined by the modified minimal description length (MDL) criteria as implemented in GIFT and averaged across subjects.
 73-1	10145-10148	The	_
 73-2	10149-10163	dimensionality	_
 73-3	10164-10167	was	_
@@ -1861,6 +1934,7 @@
 73-22	10282-10290	subjects	_
 73-23	10291-10292	.	_
 
+Text=A time course for each IC and its corresponding spatial map was obtained.
 74-1	10293-10294	A	_
 74-2	10295-10299	time	_
 74-3	10300-10306	course	_
@@ -1876,6 +1950,7 @@
 74-13	10357-10365	obtained	_
 74-14	10366-10367	.	_
 
+Text=This analysis was repeated 20 times with ICASSO to assess the repeatability of ICs.
 75-1	10368-10372	This	_
 75-2	10373-10381	analysis	_
 75-3	10382-10385	was	_
@@ -1892,6 +1967,7 @@
 75-14	10447-10450	ICs	_
 75-15	10451-10452	.	_
 
+Text=Finally, component time courses and spatial maps, which captured individual differences in the expression of the ICA-derived component, were back reconstructed for each participant.
 76-1	10453-10460	Finally	_
 76-2	10461-10462	,	_
 76-3	10463-10472	component	_
@@ -1921,6 +1997,7 @@
 76-27	10625-10636	participant	_
 76-28	10637-10638	.	_
 
+Text=Following our previous study, six ICs, including a motor cortical network for motor preparation and execution, a right fronto-parietal network for attentional monitoring, a left fronto-parietal network for response inhibition, a midline cortico-subcortical network for error processing, a cuneus-precuneus network for behavioral engagement, and a default-mode network (DMN) for self-referential processing, were included for further analyses.
 77-1	10639-10648	Following	_
 77-2	10649-10652	our	_
 77-3	10653-10661	previous	_
@@ -1989,6 +2066,7 @@
 77-66	11082-11090	analyses	_
 77-67	11091-11092	.	_
 
+Text=We normalized back-reconstructed spatial maps of each IC into z-scores and averaged them across runs for each participant.
 78-1	11093-11095	We	_
 78-2	11096-11106	normalized	_
 78-3	11107-11125	back-reconstructed	_
@@ -2009,6 +2087,7 @@
 78-18	11203-11214	participant	_
 78-19	11215-11216	.	_
 
+Text=A one-sample t test was applied to the “ z maps ” across all participants to define significant brain regions associated with each IC.
 79-1	11217-11218	A	_
 79-2	11219-11229	one-sample	_
 79-3	11230-11231	t	_
@@ -2035,6 +2114,7 @@
 79-24	11348-11350	IC	_
 79-25	11351-11352	.	_
 
+Text=Multivariate pattern analysis (MVPA) of the thalamic connectivity Fig.
 80-1	11353-11365	Multivariate	_
 80-2	11366-11373	pattern	_
 80-3	11374-11382	analysis	_
@@ -2048,6 +2128,7 @@
 80-11	11421-11424	Fig	_
 80-12	11425-11426	.	_
 
+Text=1 illustrates the analyses step-by-step with details described as follows.
 81-1	11427-11428	1	_
 81-2	11429-11440	illustrates	_
 81-3	11441-11444	the	_
@@ -2060,6 +2141,7 @@
 81-10	11493-11500	follows	_
 81-11	11501-11502	.	_
 
+Text=A multivariate pattern classifier was trained to identify CD from HC, followed by cross-validation using “ leave-one-out ”.
 82-1	11503-11504	A	_
 82-2	11505-11517	multivariate	_
 82-3	11518-11525	pattern	_
@@ -2081,6 +2163,7 @@
 82-19	11625-11626	”	_
 82-20	11627-11628	.	_
 
+Text=Briefly, one CD or HC was left out as testing data while the remaining subjects were used to train the classifier.
 83-1	11629-11636	Briefly	_
 83-2	11637-11638	,	_
 83-3	11639-11642	one	_
@@ -2105,6 +2188,7 @@
 83-22	11733-11743	classifier	_
 83-23	11744-11745	.	_
 
+Text=This procedure was repeated until each of the 100 CD and 100 HC was selected once as the validation data.
 84-1	11746-11750	This	_
 84-2	11751-11760	procedure	_
 84-3	11761-11764	was	_
@@ -2127,6 +2211,7 @@
 84-20	11846-11850	data	_
 84-21	11851-11852	.	_
 
+Text=A thalamus mask (698 voxels) was obtained from the Automated Anatomical Labeling atlas.
 85-1	11853-11854	A	_
 85-2	11855-11863	thalamus	_
 85-3	11864-11868	mask	_
@@ -2144,6 +2229,7 @@
 85-15	11936-11941	atlas	_
 85-16	11942-11943	.	_
 
+Text=For each participant, we extracted z values of thalamic voxels for all 6 ICs as a classification feature vector, resulting in a total of 698 × 6 = 4188 features.
 86-1	11944-11947	For	_
 86-2	11948-11952	each	_
 86-3	11953-11964	participant	_
@@ -2178,6 +2264,7 @@
 86-32	12098-12106	features	_
 86-33	12107-12108	.	_
 
+Text=The feature space was refined by retaining the most discriminating features, as assessed by feature-wise two-sample t tests of CD versus HC using training data only; features that differed between CD and HC at p <0.05, uncorrected were included in the feature set for classification.
 87-1	12109-12112	The	_
 87-2	12113-12120	feature	_
 87-3	12121-12126	space	_
@@ -2229,6 +2316,7 @@
 87-49	12381-12395	classification	_
 87-50	12396-12397	.	_
 
+Text=Since a distinct set of features were selected from each set of training data, the final feature set differed slightly from iteration to iteration.
 88-1	12398-12403	Since	_
 88-2	12404-12405	a	_
 88-3	12406-12414	distinct	_
@@ -2256,6 +2344,7 @@
 88-25	12536-12545	iteration	_
 88-26	12546-12547	.	_
 
+Text=We thus used the frequency with which each feature was included in the classification sets across all iterations to represent its discriminative power.
 89-1	12548-12550	We	_
 89-2	12551-12555	thus	_
 89-3	12556-12560	used	_
@@ -2281,6 +2370,7 @@
 89-23	12693-12698	power	_
 89-24	12699-12700	.	_
 
+Text=We employed a support vector machine (SVM) classifier with a linear kernel function for classification, as in previous work of MVPA.
 90-1	12701-12703	We	_
 90-2	12704-12712	employed	_
 90-3	12713-12714	a	_
@@ -2307,6 +2397,7 @@
 90-24	12831-12835	MVPA	_
 90-25	12836-12837	.	_
 
+Text=Linear SVM helps to weigh down the effect of noisy features that are highly correlated.
 91-1	12838-12844	Linear	_
 91-2	12845-12848	SVM	_
 91-3	12849-12854	helps	_
@@ -2324,6 +2415,7 @@
 91-15	12914-12924	correlated	_
 91-16	12925-12926	.	_
 
+Text=According to the results of cross-validation, we used the generalization rate, sensitivity and specificity to quantify the performance of our classifier.
 92-1	12927-12936	According	_
 92-2	12937-12939	to	_
 92-3	12940-12943	the	_
@@ -2349,6 +2441,7 @@
 92-23	13071-13081	classifier	_
 92-24	13082-13083	.	_
 
+Text=The generalization rate represents the overall prediction rate of CD and HC combined, whereas the sensitivity and specificity each characterizes the prediction rates of CD and HC.
 93-1	13084-13087	The	_
 93-2	13088-13102	generalization	_
 93-3	13103-13107	rate	_
@@ -2379,6 +2472,7 @@
 93-28	13261-13263	HC	_
 93-29	13264-13265	.	_
 
+Text=We used permutation tests to examine the statistical significance of the observed classification accuracy.
 94-1	13266-13268	We	_
 94-2	13269-13273	used	_
 94-3	13274-13285	permutation	_
@@ -2395,6 +2489,7 @@
 94-14	13363-13371	accuracy	_
 94-15	13372-13373	.	_
 
+Text=In each permutation, the group label of the training data were randomly permuted prior to training and a generalization rate was computed.
 95-1	13374-13376	In	_
 95-2	13377-13381	each	_
 95-3	13382-13393	permutation	_
@@ -2420,6 +2515,7 @@
 95-23	13504-13512	computed	_
 95-24	13513-13514	.	_
 
+Text=The permutation was repeated 1000 times to obtain a distribution of generalization rates, against which the accuracy in classification of the veridically labeled data was tested.
 96-1	13515-13518	The	_
 96-2	13519-13530	permutation	_
 96-3	13531-13534	was	_
@@ -2449,6 +2545,7 @@
 96-27	13687-13693	tested	_
 96-28	13694-13695	.	_
 
+Text=In addition to the thalamus, we examined other AAL masks with a similar volume for comparison.
 97-1	13696-13698	In	_
 97-2	13699-13707	addition	_
 97-3	13708-13710	to	_
@@ -2468,6 +2565,7 @@
 97-17	13780-13790	comparison	_
 97-18	13791-13792	.	_
 
+Text=These regions included the paracentral lobule (695 voxels), the caudate (658 voxels), middle part of orbital frontal gyrus (694 voxels), parahippocampal gyrus (728 voxels), and inferior occipital gyrus (638 voxels), all with a volume close to the thalamus (698 voxels).
 98-1	13793-13798	These	_
 98-2	13799-13806	regions	_
 98-3	13807-13815	included	_

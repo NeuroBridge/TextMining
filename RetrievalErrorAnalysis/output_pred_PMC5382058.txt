@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Neural responses to negative outcomes predict success in community-based substance use treatment Background and aims Activation in some specific brain regions has demonstrated promise as prognostic indicators in substance dependent individuals (SDIs) but this issue has not yet been explored in SDIs attending typical of community-based treatment.
 1-1	0-6	Neural	_
 1-2	7-16	responses	_
 1-3	17-19	to	_
@@ -53,6 +54,7 @@
 1-49	339-348	treatment	_
 1-50	349-350	.	_
 
+Text=We used a data-driven, exploratory approach to identify brain-based predictors of treatment outcome in a representative community sample of SDIs.
 2-1	351-353	We	_
 2-2	354-358	used	_
 2-3	359-360	a	_
@@ -76,6 +78,7 @@
 2-21	492-496	SDIs	_
 2-22	497-498	.	_
 
+Text=The predictive utility of brain-based measures was evaluated against clinical indicators, cognitive-behavioral performance, and self-report assessments.
 3-1	499-502	The	_
 3-2	503-513	predictive	_
 3-3	514-521	utility	_
@@ -96,6 +99,7 @@
 3-18	641-652	assessments	_
 3-19	653-654	.	_
 
+Text=Design Prospective clinical outcome design, evaluating baseline functional magnetic resonance imaging data from the Balloon Analogue Risk Task (BART) as a predictor of 3-month substance use treatment outcomes.
 4-1	655-661	Design	_
 4-2	662-673	Prospective	_
 4-3	674-682	clinical	_
@@ -129,6 +133,7 @@
 4-31	858-866	outcomes	_
 4-32	867-868	.	_
 
+Text=Setting Community-based substance use programs in Bloomington, Indiana, USA.
 5-1	869-876	Setting	_
 5-2	877-892	Community-based	_
 5-3	893-902	substance	_
@@ -142,6 +147,7 @@
 5-11	943-946	USA	_
 5-12	947-948	.	_
 
+Text=Participants Twenty-three SDIs (17 male, ages 18–43) in an intensive outpatient or residential treatment program; abstinent 1–4 weeks at baseline.
 6-1	949-961	Participants	_
 6-2	962-974	Twenty-three	_
 6-3	975-979	SDIs	http://maven.renci.org/NeuroBridge/neurobridge#GravesDisease
@@ -168,6 +174,7 @@
 6-24	1090-1098	baseline	_
 6-25	1099-1100	.	_
 
+Text=Measurements Event-related brain response, BART performance, and self-report scores at treatment onset, substance use outcome measure (based on days of use) Findings Using voxel-level predictive modeling and leave-one-out cross-validation, an elevated response to unexpected negative feedback in bilateral amygdala and anterior hippocampus (Amyg/aHipp) at baseline successfully predicted greater substance use over the 3-month study interval (p ≤ 0.006, cluster-corrected).
 7-1	1101-1113	Measurements	_
 7-2	1114-1127	Event-related	_
 7-3	1128-1133	brain	_
@@ -240,6 +247,7 @@
 7-70	1583-1584	)	_
 7-71	1585-1586	.	_
 
+Text=This effect was robust to inclusion of significant non-brain-based covariates.
 8-1	1587-1591	This	_
 8-2	1592-1598	effect	_
 8-3	1599-1602	was	_
@@ -252,6 +260,7 @@
 8-10	1654-1664	covariates	_
 8-11	1665-1666	.	_
 
+Text=A larger response to negative feedback in bilateral Amyg/aHipp was also associated with faster reward-seeking responses after negative feedback (r (23) = −0.544, p = 0.007; r (23) = −0.588, p = 0.003).
 9-1	1667-1668	A	_
 9-2	1669-1675	larger	_
 9-3	1676-1684	response	_
@@ -296,6 +305,7 @@
 9-42	1875-1876	)	_
 9-43	1877-1878	.	_
 
+Text=A model including Amyg/aHipp activation, faster reward-seeking after negative feedback, and significant self-report scores accounted for 45% of the variance in substance use outcomes in our sample.
 10-1	1879-1880	A	_
 10-2	1881-1886	model	_
 10-3	1887-1896	including	_
@@ -328,6 +338,7 @@
 10-30	2072-2078	sample	_
 10-31	2079-2080	.	_
 
+Text=Conclusions An elevated response to unexpected negative feedback in bilateral amygdala and anterior hippocampus (Amyg/aHipp) appears to predict relapse to substance use in people attending community-based treatment.
 11-1	2081-2092	Conclusions	_
 11-2	2093-2095	An	_
 11-3	2096-2104	elevated	_
@@ -359,6 +370,7 @@
 11-29	2288-2297	treatment	_
 11-30	2298-2299	.	_
 
+Text=Methods Design We utilized a prospective clinical outcome design.
 12-1	2300-2307	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 12-2	2308-2314	Design	_
 12-3	2315-2317	We	_
@@ -370,6 +382,7 @@
 12-9	2358-2364	design	_
 12-10	2365-2366	.	_
 
+Text=Neuroimaging, cognitive-behavioral, and self-report measures were collected at the beginning of treatment and examined as candidate predictors of three-month substance use outcomes.
 13-1	2367-2379	Neuroimaging	_
 13-2	2380-2381	,	_
 13-3	2382-2402	cognitive-behavioral	_
@@ -396,6 +409,7 @@
 13-24	2541-2549	outcomes	_
 13-25	2550-2551	.	_
 
+Text=Participants Twenty-six SDIs were enrolled upon engagement with community-based treatment and assessed within 1–4 weeks of self-reported abstinence; a sample of 23 (ages 18–43) was followed for 3 months (see Table 1 for demographic and recruitment data).
 14-1	2552-2564	Participants	_
 14-2	2565-2575	Twenty-six	_
 14-3	2576-2580	SDIs	http://maven.renci.org/NeuroBridge/neurobridge#GravesDisease
@@ -440,6 +454,7 @@
 14-42	2809-2810	)	_
 14-43	2811-2812	.	_
 
+Text=Participants received treatment-as-usual through one of two abstinence-oriented, community-based addiction treatment programs (one intensive outpatient and one residential program; see Supporting Materials for additional information) and were not receiving replacement pharmacotherapy.
 15-1	2813-2825	Participants	_
 15-2	2826-2834	received	_
 15-3	2835-2853	treatment-as-usual	_
@@ -477,6 +492,7 @@
 15-35	3086-3101	pharmacotherapy	_
 15-36	3102-3103	.	_
 
+Text=All met DSM-IV criteria for alcohol, drug, or polysubstance dependence, without history of traumatic brain injury, neurocognitive disorders, Bipolar, or psychotic illness.
 16-1	3104-3107	All	_
 16-2	3108-3111	met	_
 16-3	3112-3118	DSM-IV	_
@@ -507,6 +523,7 @@
 16-28	3273-3280	illness	_
 16-29	3281-3282	.	_
 
+Text=An electronic breathalyzer and 6-panel urine drug screen were conducted at baseline and 3-month follow-up; behavioral signs of intoxication were also evaluated.
 17-1	3283-3285	An	_
 17-2	3286-3296	electronic	_
 17-3	3297-3309	breathalyzer	_
@@ -532,6 +549,7 @@
 17-23	3434-3443	evaluated	_
 17-24	3444-3445	.	_
 
+Text=Assessments were only conducted if blood alcohol content was 0.000 percent by volume, urinalysis was negative for illicit substances, and behavioral signs of intoxication were absent.
 18-1	3446-3457	Assessments	_
 18-2	3458-3462	were	_
 18-3	3463-3467	only	_
@@ -562,6 +580,7 @@
 18-28	3624-3630	absent	_
 18-29	3631-3632	.	_
 
+Text=Participants provided written informed consent; all methods were approved by the Indiana University Institutional Review Board.
 19-1	3633-3645	Participants	_
 19-2	3646-3654	provided	_
 19-3	3655-3662	written	_
@@ -581,6 +600,7 @@
 19-17	3755-3760	Board	_
 19-18	3761-3762	.	_
 
+Text=fMRI Acquisition and BART Procedure Imaging data were acquired at baseline and 3-month follow-up using a 32-channel head coil-equipped, Siemens Magnetom Trio 3-Tesla MRI scanner; follow-up data are reported elsewhere.
 20-1	3763-3767	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 20-2	3768-3779	Acquisition	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 20-3	3780-3783	and	_
@@ -615,6 +635,7 @@
 20-32	3972-3981	elsewhere	_
 20-33	3982-3983	.	_
 
+Text=Echo-planar gradient-echo T2 * -weighted sequences of 240 whole-brain volumes measured the functional blood-oxygen-level-dependent (BOLD) response during two eight-minute blocks of BART (see Figure 1).
 21-1	3984-3995	Echo-planar	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 21-2	3996-4009	gradient-echo	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 21-3	4010-4012	T2	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -646,6 +667,7 @@
 21-29	4187-4188	)	_
 21-30	4189-4190	.	_
 
+Text=Acquisition, task, and preprocessing parameters were identical to previous work; details provided in Supporting Information.
 22-1	4191-4202	Acquisition	_
 22-2	4203-4204	,	_
 22-3	4205-4209	task	_
@@ -666,6 +688,7 @@
 22-18	4306-4317	Information	_
 22-19	4318-4319	.	_
 
+Text=In brief, the BART involved button-press responses to either ‘ Inflate ’ a balloon – incrementally and quasi-exponentially increasing its size and value in parallel with the probability of explosion – or ‘ Redeem ’ it for its current value.
 23-1	4320-4322	In	_
 23-2	4323-4328	brief	_
 23-3	4329-4330	,	_
@@ -709,6 +732,7 @@
 23-41	4555-4560	value	_
 23-42	4561-4562	.	_
 
+Text=Stimuli were presented using E-Prime (Psychology Software Tools, Pittsburgh, PA); a projector was used for display within the scanner bore.
 24-1	4563-4570	Stimuli	_
 24-2	4571-4575	were	_
 24-3	4576-4585	presented	_
@@ -736,6 +760,7 @@
 24-25	4702-4706	bore	_
 24-26	4707-4708	.	_
 
+Text=Trials began with an image of a balloon.
 25-1	4709-4715	Trials	_
 25-2	4716-4721	began	_
 25-3	4722-4726	with	_
@@ -746,6 +771,7 @@
 25-8	4741-4748	balloon	_
 25-9	4749-4750	.	_
 
+Text=A red rectangle was presented for 1.5–2.5 seconds, indicating to wait before responding and subsequently turned green, indicating to respond when ready.
 26-1	4751-4752	A	_
 26-2	4753-4756	red	_
 26-3	4757-4766	rectangle	_
@@ -772,6 +798,7 @@
 26-24	4899-4904	ready	_
 26-25	4905-4906	.	_
 
+Text=Participants responded with left or right index fingers (response-mapping counterbalanced across subjects).
 27-1	4907-4919	Participants	_
 27-2	4920-4929	responded	_
 27-3	4930-4934	with	_
@@ -788,6 +815,7 @@
 27-14	5014-5015	)	_
 27-15	5016-5017	.	_
 
+Text=Each balloon sequence began with a balloon worth $0.00.
 28-1	5018-5022	Each	_
 28-2	5023-5030	balloon	_
 28-3	5031-5039	sequence	_
@@ -800,6 +828,7 @@
 28-10	5069-5073	0.00	_
 28-11	5074-5075	.	_
 
+Text=After each response, a jittered delay of 0–6 seconds preceded feedback (‘ Successful_Gamble ’, ‘ Explode ’, ‘ Confirmed_Gain ’) such that the BOLD response could be estimated separately for decision and outcome intervals.
 29-1	5076-5081	After	_
 29-2	5082-5086	each	_
 29-3	5087-5095	response	_
@@ -841,6 +870,7 @@
 29-39	5292-5301	intervals	_
 29-40	5302-5303	.	_
 
+Text=‘ Inflate ’ responses could result in either 1) a ‘ Successful_Gamble, ’ whereupon the display was updated with a larger balloon and increased wager value, initiating the next decision or 2) ‘ Explode ’ feedback, indicating loss of the current wager.
 30-1	5304-5305	‘	_
 30-2	5306-5313	Inflate	_
 30-3	5314-5315	’	_
@@ -890,6 +920,7 @@
 30-47	5553-5558	wager	_
 30-48	5559-5560	.	_
 
+Text=‘ Redeem ’ responses always resulted in ‘ Confirmed_Gain ’ feedback and addition of the balloon value to block winnings (visible at bottom of screen).
 31-1	5561-5562	‘	_
 31-2	5563-5569	Redeem	_
 31-3	5570-5571	’	_
@@ -919,6 +950,7 @@
 31-27	5711-5712	)	_
 31-28	5713-5714	.	_
 
+Text=Participants completed an average of 95 decision trials and 16 balloon sequences per block.
 32-1	5715-5727	Participants	_
 32-2	5728-5737	completed	_
 32-3	5738-5740	an	_
@@ -935,6 +967,7 @@
 32-14	5800-5805	block	_
 32-15	5806-5807	.	_
 
+Text=Additional Measures The timeline follow-back procedure was administered at 1-, 2-, and 3-month timepoints to document drug and alcohol use during the study interval.
 33-1	5808-5818	Additional	_
 33-2	5819-5827	Measures	_
 33-3	5828-5831	The	_
@@ -963,6 +996,7 @@
 33-26	5966-5974	interval	_
 33-27	5975-5976	.	_
 
+Text=Narrative details of use (e.g., subjective intoxication) were also acquired.
 34-1	5977-5986	Narrative	_
 34-2	5987-5994	details	_
 34-3	5995-5997	of	_
@@ -978,6 +1012,7 @@
 34-13	6047-6055	acquired	_
 34-14	6056-6057	.	_
 
+Text=Details of the timeline follow-back procedure, as well as psychodiagnostic, self-report, and cognitive-behavioral assessments are provided in Supporting Information.
 35-1	6058-6065	Details	_
 35-2	6066-6068	of	_
 35-3	6069-6072	the	_
@@ -1002,6 +1037,7 @@
 35-22	6214-6225	Information	_
 35-23	6226-6227	.	_
 
+Text=fMRI Analysis Imaging data were analyzed using SPM5 and Matlab R2013a.
 36-1	6228-6232	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 36-2	6233-6241	Analysis	_
 36-3	6242-6249	Imaging	_
@@ -1015,6 +1051,7 @@
 36-11	6291-6297	R2013a	_
 36-12	6298-6299	.	_
 
+Text=BART BOLD responses were estimated using a general linear model with 20 regressors: six motion regressors, two constants, five main effect regressors (‘ Redeem ’, ‘ Inflate ’, ‘ Explode ’, ‘ Successful_Gamble ’, ‘ Confirmed_Gain ’), five parametric modulators representing explosion probability for each event, and 2 parametric modulators representing ‘ Redeem ’ and ‘ Inflate ’ response times (RTs).
 37-1	6300-6304	BART	_
 37-2	6305-6309	BOLD	_
 37-3	6310-6319	responses	_
@@ -1091,6 +1128,7 @@
 37-74	6711-6712	)	_
 37-75	6713-6714	.	_
 
+Text=A canonical hemodynamic response function was used to model event-related signals during decision (i.e., RT) and outcome (i.e., feedback onset) intervals.
 38-1	6715-6716	A	_
 38-2	6717-6726	canonical	_
 38-3	6727-6738	hemodynamic	_
@@ -1120,6 +1158,7 @@
 38-27	6865-6874	intervals	_
 38-28	6875-6876	.	_
 
+Text=Subject was included as a random effect at the second-level.
 39-1	6877-6884	Subject	_
 39-2	6885-6888	was	_
 39-3	6889-6897	included	_
@@ -1132,6 +1171,7 @@
 39-10	6924-6936	second-level	_
 39-11	6937-6938	.	_
 
+Text=Contrasts isolated effects associated with negative outcomes over uncertain (‘ Explode – Successful_Gamble ’) and certain gains (‘ Explode – Confirmed_Gain ’), decisions to pursue uncertain gains (‘ Inflate – Redeem ’), and decisions to pursue certain gains (‘ Redeem – Inflate ’), as well as regions in which trial-to-trial fluctuations in BOLD signal correlated with the probability of explosion (i.e.
 40-1	6939-6948	Contrasts	_
 40-2	6949-6957	isolated	_
 40-3	6958-6965	effects	_
@@ -1207,6 +1247,7 @@
 40-73	7350-7353	i.e	_
 40-74	7354-7355	.	_
 
+Text=parametric modulators, designated by ‘ * p (Explode) ’).
 41-1	7356-7366	parametric	_
 41-2	7367-7377	modulators	_
 41-3	7378-7379	,	_
@@ -1222,6 +1263,7 @@
 41-13	7414-7415	)	_
 41-14	7416-7417	.	_
 
+Text=Using a cluster-forming threshold of p <0.001, clusters of 30 or more voxels with a cluster-corrected p-value of <0.05, were identified as regions of interest (ROIs).
 42-1	7418-7423	Using	_
 42-2	7424-7425	a	_
 42-3	7426-7441	cluster-forming	_
@@ -1256,6 +1298,7 @@
 42-32	7588-7589	)	_
 42-33	7590-7591	.	_
 
+Text=The cluster-extent threshold was determined using AFNI ’ s 3dClustSim to provide a type I error rate of α = 0.005.
 43-1	7592-7595	The	_
 43-2	7596-7610	cluster-extent	_
 43-3	7611-7620	threshold	_
@@ -1279,6 +1322,7 @@
 43-21	7700-7705	0.005	_
 43-22	7706-7707	.	_
 
+Text=Two participants were excluded from the second-level ‘ Explode * p (Explode) ’ contrast because low explosion frequency precluded unique specification in the first-level general linear model.
 44-1	7708-7711	Two	_
 44-2	7712-7724	participants	_
 44-3	7725-7729	were	_
@@ -1310,6 +1354,7 @@
 44-29	7895-7900	model	_
 44-30	7901-7902	.	_
 
+Text=Whole-brain correlational analyses were conducted for each contrast to identify regions in which task-related activity was associated with substance use during the study interval.
 45-1	7903-7914	Whole-brain	_
 45-2	7915-7928	correlational	_
 45-3	7929-7937	analyses	_
@@ -1336,6 +1381,7 @@
 45-24	8073-8081	interval	_
 45-25	8082-8083	.	_
 
+Text=A substance use metric (SUM) was calculated from timeline follow-back data for each participant, representing incidents of drug and alcohol use during the study, weighted by presence/absence of intoxication; 1 a log-odds transformation was applied prior to analysis.
 46-1	8084-8085	A	_
 46-2	8086-8095	substance	_
 46-3	8096-8099	use	_
@@ -1381,6 +1427,7 @@
 46-43	8346-8354	analysis	_
 46-44	8355-8356	.	_
 
+Text=This approach was chosen to better capture variability in substance use outcomes within the study sample (see Supporting Information).
 47-1	8357-8361	This	_
 47-2	8362-8370	approach	_
 47-3	8371-8374	was	_
@@ -1404,6 +1451,7 @@
 47-21	8491-8492	)	_
 47-22	8493-8494	.	_
 
+Text=Next, voxel-level predictive modeling and leave-one-out cross-validation were used to identify ROIs predictive of substance use outcomes and compare performance of models based on brain- and/or non-brain-based predictors (see Supporting Information for details).
 48-1	8495-8499	Next	_
 48-2	8500-8501	,	_
 48-3	8502-8513	voxel-level	_
@@ -1442,6 +1490,7 @@
 48-36	8758-8759	)	_
 48-37	8760-8761	.	_
 
+Text=Briefly, linear regression was applied with cross-validation on a voxel-by-voxel basis.
 49-1	8762-8769	Briefly	_
 49-2	8770-8771	,	_
 49-3	8772-8778	linear	_
@@ -1456,6 +1505,7 @@
 49-12	8844-8849	basis	_
 49-13	8850-8851	.	_
 
+Text=Clusters wherein constituent voxels yielded predicted SUM values for left-out participants that strongly correlated with actual SUM values were targeted for further investigation.
 50-1	8852-8860	Clusters	_
 50-2	8861-8868	wherein	_
 50-3	8869-8880	constituent	_
@@ -1481,6 +1531,7 @@
 50-23	9017-9030	investigation	_
 50-24	9031-9032	.	_
 
+Text=Leave-one-out cross-validation was selected for optimism-correction because this approach has been recommended for small neuroimaging datasets and used in similar work with a comparable sample size.
 51-1	9033-9046	Leave-one-out	_
 51-2	9047-9063	cross-validation	_
 51-3	9064-9067	was	_
@@ -1509,6 +1560,7 @@
 51-26	9226-9230	size	_
 51-27	9231-9232	.	_
 
+Text=Predictive analysis of binary treatment outcomes was also conducted using Receiver Operating Characteristic curves and is described in Supporting Information and Figure S1.
 52-1	9233-9243	Predictive	_
 52-2	9244-9252	analysis	_
 52-3	9253-9255	of	_
@@ -1534,6 +1586,7 @@
 52-23	9402-9404	S1	_
 52-24	9405-9406	.	_
 
+Text=Analysis of Cognitive-behavioral and Self-Report Measures Pearson correlations with the substance use outcome variable (i.e., SUM) were calculated for each measure.
 53-1	9407-9415	Analysis	_
 53-2	9416-9418	of	_
 53-3	9419-9439	Cognitive-behavioral	_
@@ -1560,6 +1613,7 @@
 53-24	9566-9573	measure	_
 53-25	9574-9575	.	_
 
+Text=Paired t-tests and repeated measures analysis of variance (ANOVA) were utilized for comparisons between conditions, as necessary.
 54-1	9576-9582	Paired	_
 54-2	9583-9590	t-tests	_
 54-3	9591-9594	and	_
@@ -1582,6 +1636,7 @@
 54-20	9698-9707	necessary	_
 54-21	9708-9709	.	_
 
+Text=Statistics were computed in SPSS.
 55-1	9710-9720	Statistics	_
 55-2	9721-9725	were	_
 55-3	9726-9734	computed	_
@@ -1589,6 +1644,7 @@
 55-5	9738-9742	SPSS	_
 55-6	9743-9744	.	_
 
+Text=Self-report and behavioral findings for cognitive-behavioral tasks other than BART are summarized in Supporting Information and Table S1.
 56-1	9745-9756	Self-report	_
 56-2	9757-9760	and	_
 56-3	9761-9771	behavioral	_

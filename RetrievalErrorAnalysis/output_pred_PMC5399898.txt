@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Identifying dynamic functional connectivity biomarkers using GIG-ICA: application to schizophrenia, schizoaffective disorder and psychotic bipolar disorder Functional magnetic resonance imaging (fMRI) studies have shown altered brain dynamic functional connectivity (DFC) in mental disorders.
 1-1	0-11	Identifying	_
 1-2	12-19	dynamic	_
 1-3	20-30	functional	_
@@ -43,6 +44,7 @@
 1-39	288-297	disorders	_
 1-40	298-299	.	_
 
+Text=Here we aim to explore DFC across a spectrum of symptomatically-related disorders including bipolar disorder with psychosis (BPP), schizoaffective disorder (SAD) and schizophrenia (SZ).
 2-1	300-304	Here	_
 2-2	305-307	we	_
 2-3	308-311	aim	_
@@ -76,6 +78,7 @@
 2-31	490-491	)	_
 2-32	492-493	.	_
 
+Text=We introduce a group information guided independent component analysis (GIG-ICA) procedure to estimate both group-level and subject-specific connectivity states from DFC.
 3-1	494-496	We	_
 3-2	497-506	introduce	_
 3-3	507-508	a	_
@@ -101,6 +104,7 @@
 3-23	662-665	DFC	_
 3-24	666-667	.	_
 
+Text=Using resting-state fMRI data of 238 healthy controls (HCs), 140 BPP, 132 SAD and 113 SZ patients, we identified measures differentiating groups from the whole-brain DFC and traditional static functional connectivity (SFC), separately.
 4-1	668-673	Using	_
 4-2	674-687	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 4-3	688-692	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -144,6 +148,7 @@
 4-41	900-910	separately	_
 4-42	911-912	.	_
 
+Text=Results show that DFC provided more informative measures than SFC.
 5-1	913-920	Results	_
 5-2	921-925	show	_
 5-3	926-930	that	_
@@ -156,6 +161,7 @@
 5-10	975-978	SFC	_
 5-11	979-980	.	_
 
+Text=Diagnosis-related connectivity states were evident using DFC analysis.
 6-1	981-998	Diagnosis-related	_
 6-2	999-1011	connectivity	_
 6-3	1012-1018	states	_
@@ -166,6 +172,7 @@
 6-8	1042-1050	analysis	_
 6-9	1051-1052	.	_
 
+Text=For the dominant state consistent across groups, we found 22 instances of hypoconnectivity (with decreasing trends from HC to BPP to SAD to SZ) mainly involving post-central, frontal and cerebellar cortices as well as 34 examples of hyperconnectivity (with increasing trends HC through SZ) primarily involving thalamus and temporal cortices.
 7-1	1053-1056	For	_
 7-2	1057-1060	the	_
 7-3	1061-1069	dominant	_
@@ -224,6 +231,7 @@
 7-56	1391-1399	cortices	_
 7-57	1400-1401	.	_
 
+Text=Hypoconnectivities/hyperconnectivities also showed negative/positive correlations, respectively, with clinical symptom scores.
 8-1	1402-1440	Hypoconnectivities/hyperconnectivities	_
 8-2	1441-1445	also	_
 8-3	1446-1452	showed	_
@@ -238,6 +246,7 @@
 8-12	1523-1529	scores	_
 8-13	1530-1531	.	_
 
+Text=Specifically, hypoconnectivities linking postcentral and frontal gyri were significantly negatively correlated with the PANSS positive/negative scores.
 9-1	1532-1544	Specifically	_
 9-2	1545-1546	,	_
 9-3	1547-1565	hypoconnectivities	_
@@ -257,6 +266,7 @@
 9-17	1677-1683	scores	_
 9-18	1684-1685	.	_
 
+Text=For frontal connectivities, BPP resembled HC while SAD and SZ were more similar.
 10-1	1686-1689	For	_
 10-2	1690-1697	frontal	_
 10-3	1698-1712	connectivities	_
@@ -273,6 +283,7 @@
 10-14	1759-1766	similar	_
 10-15	1767-1768	.	_
 
+Text=Three connectivities involving the left cerebellar crus differentiated SZ from other groups and one connection linking frontal and fusiform cortices showed a SAD-unique change.
 11-1	1769-1774	Three	_
 11-2	1775-1789	connectivities	_
 11-3	1790-1799	involving	_
@@ -299,6 +310,7 @@
 11-24	1938-1944	change	_
 11-25	1945-1946	.	_
 
+Text=In summary, our method is promising for assessing DFC and may yield imaging biomarkers for quantifying the dimension of psychosis.
 12-1	1947-1949	In	_
 12-2	1950-1957	summary	_
 12-3	1958-1959	,	_
@@ -322,9 +334,11 @@
 12-21	2068-2077	psychosis	_
 12-22	2078-2079	.	_
 
+Text=2.
 13-1	2080-2081	2	_
 13-2	2082-2083	.	_
 
+Text=Materials and methods We analyzed resting-state fMRI data of the aforementioned four groups.
 14-1	2084-2093	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-2	2094-2097	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-3	2098-2105	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -340,6 +354,7 @@
 14-13	2169-2175	groups	_
 14-14	2176-2177	.	_
 
+Text=Firstly, the whole-brain dynamic connectivities of each subject were calculated using the sliding time window approach.
 15-1	2178-2185	Firstly	_
 15-2	2186-2187	,	_
 15-3	2188-2191	the	_
@@ -359,6 +374,7 @@
 15-17	2289-2297	approach	_
 15-18	2298-2299	.	_
 
+Text=Then, we applied GIG-ICA to each group ’ s dynamic connectivity patterns to extract both group-level and subject-specific connectivity states.
 16-1	2300-2304	Then	_
 16-2	2305-2306	,	_
 16-3	2307-2309	we	_
@@ -382,6 +398,7 @@
 16-21	2436-2442	states	_
 16-22	2443-2444	.	_
 
+Text=Subsequently, we investigated inter-group differences in the group-level connectivity states, the fluctuations of connectivity states, and the dominant subject-specific connectivity states.
 17-1	2445-2457	Subsequently	_
 17-2	2458-2459	,	_
 17-3	2460-2462	we	_
@@ -408,6 +425,7 @@
 17-24	2630-2636	states	_
 17-25	2637-2638	.	_
 
+Text=Finally, we conducted traditional static connectivity analyses on the same dataset for a comparison.
 18-1	2639-2646	Finally	_
 18-2	2647-2648	,	_
 18-3	2649-2651	we	_
@@ -425,9 +443,11 @@
 18-15	2729-2739	comparison	_
 18-16	2740-2741	.	_
 
+Text=2.1.
 19-1	2742-2745	2.1	_
 19-2	2746-2747	.	_
 
+Text=Materials Resting-state fMRI data from 623 subjects including 238 HCs, 140 BPP, 132 SAD, and 113 SZ patients were analyzed.
 20-1	2748-2757	Materials	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 20-2	2758-2771	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 20-3	2772-2776	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -453,6 +473,7 @@
 20-23	2865-2873	analyzed	_
 20-24	2874-2875	.	_
 
+Text=There were no significant group differences of age or sex (p = 0.31 for sex examined by Chi Square test; p = 0.19 for age examined by analysis of variance).
 21-1	2876-2881	There	_
 21-2	2882-2886	were	_
 21-3	2887-2889	no	_
@@ -488,6 +509,7 @@
 21-33	3033-3034	)	_
 21-34	3035-3036	.	_
 
+Text=The data were provided from participants in the multi-site Bipolar and Schizophrenia Network on Intermediate Phenotypes (BSNIP) study.
 22-1	3037-3040	The	_
 22-2	3041-3045	data	_
 22-3	3046-3050	were	_
@@ -510,6 +532,7 @@
 22-20	3167-3172	study	_
 22-21	3173-3174	.	_
 
+Text=Subjects were recruited and scanned at six sites (Baltimore, Boston, Chicago, Dallas, Detroit, and Hartford).
 23-1	3175-3183	Subjects	_
 23-2	3184-3188	were	_
 23-3	3189-3198	recruited	_
@@ -534,6 +557,7 @@
 23-22	3289-3290	)	_
 23-23	3291-3292	.	_
 
+Text=The scanning period was about five minutes for all sites.
 24-1	3293-3296	The	_
 24-2	3297-3305	scanning	_
 24-3	3306-3312	period	_
@@ -546,6 +570,7 @@
 24-10	3344-3349	sites	_
 24-11	3350-3351	.	_
 
+Text=All subjects were psychiatrically stable and on stable medication regimens at the time of study.
 25-1	3352-3355	All	_
 25-2	3356-3364	subjects	_
 25-3	3365-3369	were	_
@@ -563,6 +588,7 @@
 25-15	3442-3447	study	_
 25-16	3448-3449	.	_
 
+Text=Participants were instructed to rest with eyes closed and stay awake.
 26-1	3450-3462	Participants	_
 26-2	3463-3467	were	_
 26-3	3468-3478	instructed	_
@@ -576,6 +602,7 @@
 26-11	3513-3518	awake	_
 26-12	3519-3520	.	_
 
+Text=Demographic information is shown in Table 1.
 27-1	3521-3532	Demographic	_
 27-2	3533-3544	information	_
 27-3	3545-3547	is	_
@@ -585,6 +612,7 @@
 27-7	3563-3564	1	_
 27-8	3565-3566	.	_
 
+Text=The detailed imaging acquisition parameters for each site can be found in supplementary Table S1.
 28-1	3567-3570	The	_
 28-2	3571-3579	detailed	_
 28-3	3580-3587	imaging	_
@@ -602,6 +630,7 @@
 28-15	3661-3663	S1	_
 28-16	3664-3665	.	_
 
+Text=We preprocessed the fMRI data of each subject using a Data Processing Assistant for Resting-State fMRI (DPARSF) toolbox based on Statistical Parametric Mapping (SPM8) (http: //www.fil.ion.ucl.ac.uk/spm).
 29-1	3666-3668	We	_
 29-2	3669-3681	preprocessed	_
 29-3	3682-3685	the	_
@@ -637,6 +666,7 @@
 29-33	3874-3875	)	_
 29-34	3876-3877	.	_
 
+Text=The first six volumes were discarded, and then the remaining images were slice-time corrected and realigned to the first volume for head-motion correction.
 30-1	3878-3881	The	_
 30-2	3882-3887	first	_
 30-3	3888-3891	six	_
@@ -663,6 +693,7 @@
 30-24	4023-4033	correction	_
 30-25	4034-4035	.	_
 
+Text=The output of realignment demonstrated that the head motion was slight in all subjects (the translations were less than 3mm, and rotation did not exceed 3° in all axis through the whole scanning process, see Table 1).
 31-1	4036-4039	The	_
 31-2	4040-4046	output	_
 31-3	4047-4049	of	_
@@ -706,6 +737,7 @@
 31-41	4255-4256	)	_
 31-42	4257-4258	.	_
 
+Text=Subsequently, we spatially normalized the images to the Montreal Neurological Institute (MNI) EPI template, resliced them to 3mm×3mm×3mm voxels, and smoothed them with a Gaussian kernel with a full-width at half-maximum (FWHM) of 8 mm.
 32-1	4259-4271	Subsequently	_
 32-2	4272-4273	,	_
 32-3	4274-4276	we	_
@@ -750,6 +782,7 @@
 32-42	4498-4500	mm	_
 32-43	4501-4502	.	_
 
+Text=Detrending and filtering (0.01Hz-0.08Hz) were then performed.
 33-1	4503-4513	Detrending	_
 33-2	4514-4517	and	_
 33-3	4518-4527	filtering	_
@@ -761,6 +794,7 @@
 33-9	4556-4565	performed	_
 33-10	4566-4567	.	_
 
+Text=Finally, nuisance covariates including six head motion parameters, white matter signal, cerebrospinal fluid signal and global mean signal were regressed out.
 34-1	4568-4575	Finally	_
 34-2	4576-4577	,	_
 34-3	4578-4586	nuisance	_
@@ -787,13 +821,16 @@
 34-24	4724-4727	out	_
 34-25	4728-4729	.	_
 
+Text=2.2.
 35-1	4730-4733	2.2	_
 35-2	4734-4735	.	_
 
+Text=Method 2.2.1.
 36-1	4736-4742	Method	http://maven.renci.org/NeuroBridge/neurobridge#DataAnalysisMethod
 36-2	4743-4748	2.2.1	http://maven.renci.org/NeuroBridge/neurobridge#DataAnalysisMethod
 36-3	4749-4750	.	http://maven.renci.org/NeuroBridge/neurobridge#DataAnalysisMethod
 
+Text=Computing dynamic functional connectivity via a sliding time window method For each subject, we computed whole-brain time-varying connectivity matrices based on m (m = 116) regions of interest (ROIs) from the automated anatomical labeling (AAL) template using a sliding time window method.
 37-1	4751-4760	Computing	_
 37-2	4761-4768	dynamic	_
 37-3	4769-4779	functional	_
@@ -845,9 +882,11 @@
 37-49	5040-5046	method	_
 37-50	5047-5048	.	_
 
+Text=Fig.
 38-1	5049-5052	Fig	_
 38-2	5053-5054	.	_
 
+Text=1 (A) shows an example of estimation.
 39-1	5055-5056	1	_
 39-2	5057-5058	(	_
 39-3	5059-5060	A	_
@@ -859,6 +898,7 @@
 39-9	5083-5093	estimation	_
 39-10	5094-5095	.	_
 
+Text=The indices (IDs) and names of ROIs are included in supplementary Table S2.
 40-1	5096-5099	The	_
 40-2	5100-5107	indices	_
 40-3	5108-5109	(	_
@@ -876,6 +916,7 @@
 40-15	5170-5172	S2	_
 40-16	5173-5174	.	_
 
+Text=Firstly, the averaged BOLD time-series Yi in ROI Yi, the windowed time-series Yi.
 41-1	5175-5182	Firstly	_
 41-2	5183-5184	,	_
 41-3	5185-5188	the	_
@@ -893,6 +934,7 @@
 41-15	5255-5257	Yi	_
 41-16	5258-5259	.	_
 
+Text=Here, n and w denote the number of windows and the window ID, respectively.
 42-1	5260-5264	Here	_
 42-2	5265-5266	,	_
 42-3	5267-5268	n	_
@@ -911,6 +953,7 @@
 42-16	5324-5336	respectively	_
 42-17	5337-5338	.	_
 
+Text=According to previous work, a tapered window was created by convolving a rectangle (width = 20 TRs) with Gaussian kernel (σ = 3 TRs) and moved in step of 1 TR.
 43-1	5339-5348	According	_
 43-2	5349-5351	to	_
 43-3	5352-5360	previous	_
@@ -949,6 +992,7 @@
 43-36	5500-5502	TR	_
 43-37	5503-5504	.	_
 
+Text=For different sites, the window length ranged from 30s to 60s, which has been shown to be reasonable for capturing non-stationarity in connectivity strengths.
 44-1	5505-5508	For	_
 44-2	5509-5518	different	_
 44-3	5519-5524	sites	_
@@ -977,6 +1021,7 @@
 44-26	5655-5664	strengths	_
 44-27	5665-5666	.	_
 
+Text=Supplementary Table S1 includes the value of n for each site.
 45-1	5667-5680	Supplementary	_
 45-2	5681-5686	Table	_
 45-3	5687-5689	S1	_
@@ -990,6 +1035,7 @@
 45-11	5723-5727	site	_
 45-12	5728-5729	.	_
 
+Text=Thirdly, for each window w, we calculated a connectivity matrix Rw (size:) that included the connectivity strengths between all pairs of.
 46-1	5730-5737	Thirdly	_
 46-2	5738-5739	,	_
 46-3	5740-5743	for	_
@@ -1018,6 +1064,7 @@
 46-26	5869-5871	of	_
 46-27	5872-5873	.	_
 
+Text=Consistent with previous studies, we initially estimated the regularized inverse covariance matrix based on graphical LASSO model.
 47-1	5874-5884	Consistent	_
 47-2	5885-5889	with	_
 47-3	5890-5898	previous	_
@@ -1038,6 +1085,7 @@
 47-18	5999-6004	model	_
 47-19	6005-6006	.	_
 
+Text=For improving accuracy of dynamic connectivity estimation, LASSO imposed sparsity by placing a L1 norm penalty on the inverse covariance matrix to decrease noise effect of short time series in each window.
 48-1	6007-6010	For	_
 48-2	6011-6020	improving	_
 48-3	6021-6029	accuracy	_
@@ -1073,6 +1121,7 @@
 48-33	6206-6212	window	_
 48-34	6213-6214	.	_
 
+Text=When using the graphical LASSO, the regularization (penalty) parameter was optimized separately for each subject by evaluating the log-likelihood in a cross-validation framework (see details in the supplementary materials).
 49-1	6215-6219	When	_
 49-2	6220-6225	using	_
 49-3	6226-6229	the	_
@@ -1109,6 +1158,7 @@
 49-34	6441-6442	)	_
 49-35	6443-6444	.	_
 
+Text=After that, the covariance matrix was calculated based on the regularized inverse covariance matrix, and then was transformed into the correlation matrix that was taken as the estimation of Rw.
 50-1	6445-6450	After	_
 50-2	6451-6455	that	_
 50-3	6456-6457	,	_
@@ -1143,6 +1193,7 @@
 50-32	6637-6639	Rw	_
 50-33	6640-6641	.	_
 
+Text=Thus, for each subject, n matrices denoted by Rw were obtained, representing the subject ’ s dynamic connectivity patterns during the whole scan period.
 51-1	6642-6646	Thus	_
 51-2	6647-6648	,	_
 51-3	6649-6652	for	_
@@ -1172,9 +1223,11 @@
 51-27	6790-6796	period	_
 51-28	6797-6798	.	_
 
+Text=2.2.2.
 52-1	6799-6804	2.2.2	_
 52-2	6805-6806	.	_
 
+Text=Extracting functional connectivity states via GIG-ICA Instead of focusing only on the group-level connectivity states, we applied GIG-ICA method to the window-direction concatenated dynamic connectivity patterns of multiple subjects to extract the inherent connectivity states at both group-level and subject-level.
 53-1	6807-6817	Extracting	_
 53-2	6818-6828	functional	_
 53-3	6829-6841	connectivity	_
@@ -1218,6 +1271,7 @@
 53-41	7109-7122	subject-level	_
 53-42	7123-7124	.	_
 
+Text=Considering the subtle differences among groups, GIG-ICA was applied to each of the four groups separately.
 54-1	7125-7136	Considering	_
 54-2	7137-7140	the	_
 54-3	7141-7147	subtle	_
@@ -1237,6 +1291,7 @@
 54-17	7222-7232	separately	_
 54-18	7233-7234	.	_
 
+Text=Due to the symmetry of the connectivity matrix, all connectivity strengths among m ROIs corresponding to the wth window can be converted to a vector containing only upper triangular elements in Rw.
 55-1	7235-7238	Due	_
 55-2	7239-7241	to	_
 55-3	7242-7245	the	_
@@ -1272,6 +1327,7 @@
 55-33	7430-7432	Rw	_
 55-34	7433-7434	.	_
 
+Text=Thus, the time-varying connectivity patterns of the kth subject can be represented by a window-by-connectivity matrix (size:).
 56-1	7435-7439	Thus	_
 56-2	7440-7441	,	_
 56-3	7442-7445	the	_
@@ -1295,6 +1351,7 @@
 56-21	7563-7564	)	_
 56-22	7565-7566	.	_
 
+Text=Consequently, the window-direction concatenated dynamic connectivity patterns of all subjects can be represented by where N is the number of subjects in one group.
 57-1	7567-7579	Consequently	_
 57-2	7580-7581	,	_
 57-3	7582-7585	the	_
@@ -1322,6 +1379,7 @@
 57-25	7725-7730	group	_
 57-26	7731-7732	.	_
 
+Text=At the first step of GIG-ICA (Fig.
 58-1	7733-7735	At	_
 58-2	7736-7739	the	_
 58-3	7740-7745	first	_
@@ -1332,6 +1390,7 @@
 58-8	7764-7767	Fig	_
 58-9	7768-7769	.	_
 
+Text=1 (B)), we applied the Infomax algorithm to the Fisher-transformed X to estimate the group-level connectivity states.
 59-1	7770-7771	1	_
 59-2	7772-7773	(	_
 59-3	7774-7775	B	_
@@ -1355,6 +1414,7 @@
 59-21	7884-7890	states	_
 59-22	7891-7892	.	_
 
+Text=To decrease the influence of initialization randomness in ICA, we applied ICASSO technique by running ICA multiple times and then finding reliable ICs.
 60-1	7893-7895	To	_
 60-2	7896-7904	decrease	_
 60-3	7905-7908	the	_
@@ -1381,6 +1441,7 @@
 60-24	8041-8044	ICs	_
 60-25	8045-8046	.	_
 
+Text=In our work, we selected the most stable run from 20 runs of ICA according to an improved method and then regarded the components associated with the most stable ICA run as the reliable ICs (see supplementary materials), which is different from the original ICASSO technique taking the centrotypes of multiple runs as reliable ICs.
 61-1	8047-8049	In	_
 61-2	8050-8053	our	_
 61-3	8054-8058	work	_
@@ -1442,6 +1503,7 @@
 61-59	8378-8381	ICs	_
 61-60	8382-8383	.	_
 
+Text=Note that before the group-level ICA, a two-step PCA (including subject-level PCAs and group-level PCA) was performed for data reduction.
 62-1	8384-8388	Note	_
 62-2	8389-8393	that	_
 62-3	8394-8400	before	_
@@ -1467,6 +1529,7 @@
 62-23	8514-8523	reduction	_
 62-24	8524-8525	.	_
 
+Text=In our study, the principal component numbers preserved in the subject-level and group-level PCAs were set to be the same for simplification.
 63-1	8526-8528	In	_
 63-2	8529-8532	our	_
 63-3	8533-8538	study	_
@@ -1492,6 +1555,7 @@
 63-23	8653-8667	simplification	_
 63-24	8668-8669	.	_
 
+Text=Thus, we obtained where includes the estimated group-level (common) ICs, representing the group-level connectivity states (GSs).
 64-1	8670-8674	Thus	_
 64-2	8675-8676	,	_
 64-3	8677-8679	we	_
@@ -1516,6 +1580,7 @@
 64-22	8802-8803	)	_
 64-23	8804-8805	.	_
 
+Text=M denotes the number of states.
 65-1	8806-8807	M	_
 65-2	8808-8815	denotes	_
 65-3	8816-8819	the	_
@@ -1524,6 +1589,7 @@
 65-6	8830-8836	states	_
 65-7	8837-8838	.	_
 
+Text=Greater M will preserve more variances from individual-subject dynamic connectivity.
 66-1	8839-8846	Greater	_
 66-2	8847-8848	M	_
 66-3	8849-8853	will	_
@@ -1536,6 +1602,7 @@
 66-10	8910-8922	connectivity	_
 66-11	8923-8924	.	_
 
+Text=In order to simplify state matching and consequent comparisons among different groups, M was determined to be the same number for all groups in our study.
 67-1	8925-8927	In	_
 67-2	8928-8933	order	_
 67-3	8934-8936	to	_
@@ -1565,6 +1632,7 @@
 67-27	9074-9079	study	_
 67-28	9080-9081	.	_
 
+Text=It is known that the selection of number of components is always difficult in blind signal decomposition problem, since different rules could result in different numbers.
 68-1	9082-9084	It	_
 68-2	9085-9087	is	_
 68-3	9088-9093	known	_
@@ -1594,6 +1662,7 @@
 68-27	9245-9252	numbers	_
 68-28	9253-9254	.	_
 
+Text=In dynamic connectivity analyses using fMRI data, many previous studies applied spatial ICA, temporal ICA, PCA and K-means to estimate connectivity states with the number of states as 5.
 69-1	9255-9257	In	_
 69-2	9258-9265	dynamic	_
 69-3	9266-9278	connectivity	_
@@ -1628,6 +1697,7 @@
 69-32	9442-9443	5	_
 69-33	9444-9445	.	_
 
+Text=Considering the similarity between our method and spatial ICA, we also set M to 5, under which relatively high variance was preserved in individual PCAs (mean of the preserved variance percentage = 72%).
 70-1	9446-9457	Considering	_
 70-2	9458-9461	the	_
 70-3	9462-9472	similarity	_
@@ -1668,6 +1738,7 @@
 70-38	9652-9653	)	_
 70-39	9654-9655	.	_
 
+Text=Furthermore, we also evaluated the reliability of the estimated connectivity states under conditions of 20 ICA runs in one ICASSO, 100 additional ICASSO runs, and 100 subsets of original samples using different settings (M = 2, 4, 5, 6 and 10).
 71-1	9656-9667	Furthermore	_
 71-2	9668-9669	,	_
 71-3	9670-9672	we	_
@@ -1719,6 +1790,7 @@
 71-49	9906-9907	)	_
 71-50	9908-9909	.	_
 
+Text=We found that the parameter 5 yielded greater reliability than bigger number (i.e., 6 and 10) while preserving acceptable variance compared to smaller number (i.e., 2 and 4).
 72-1	9910-9912	We	_
 72-2	9913-9918	found	_
 72-3	9919-9923	that	_
@@ -1755,6 +1827,7 @@
 72-34	10088-10089	)	_
 72-35	10090-10091	.	_
 
+Text=The relevant results can be found in Fig.
 73-1	10092-10095	The	_
 73-2	10096-10104	relevant	_
 73-3	10105-10112	results	_
@@ -1765,12 +1838,15 @@
 73-8	10129-10132	Fig	_
 73-9	10133-10134	.	_
 
+Text=S1–Fig.
 74-1	10135-10141	S1–Fig	_
 74-2	10142-10143	.	_
 
+Text=S3.
 75-1	10144-10146	S3	_
 75-2	10147-10148	.	_
 
+Text=Next, each state (size:) was Z-scored to zero mean and unit variance for the following analysis.
 76-1	10149-10153	Next	_
 76-2	10154-10155	,	_
 76-3	10156-10160	each	_
@@ -1793,6 +1869,7 @@
 76-20	10240-10248	analysis	_
 76-21	10249-10250	.	_
 
+Text=In equation (1), contains N mixing matrices corresponding to N subjects.
 77-1	10251-10253	In	_
 77-2	10254-10262	equation	_
 77-3	10263-10264	(	_
@@ -1809,6 +1886,7 @@
 77-14	10317-10325	subjects	_
 77-15	10326-10327	.	_
 
+Text=For the kth subject, the associated mixing matrix is (size:).
 78-1	10328-10331	For	_
 78-2	10332-10335	the	_
 78-3	10336-10339	kth	_
@@ -1825,6 +1903,7 @@
 78-14	10391-10392	)	_
 78-15	10393-10394	.	_
 
+Text=Given, the lth column of (i.e.,) represents the subject-specific fluctuation (SF) of the lth GS (i.e.,) in the kth subject ’ s dynamic connectivity.
 79-1	10395-10400	Given	_
 79-2	10401-10402	,	_
 79-3	10403-10406	the	_
@@ -1860,6 +1939,7 @@
 79-33	10539-10551	connectivity	_
 79-34	10552-10553	.	_
 
+Text=Since is the loading (or weight) coefficients in ICA, the sum of the absolute value of can reflect the state ’ s importance to the kth subject ’ s dynamic connectivity.
 80-1	10554-10559	Since	_
 80-2	10560-10562	is	_
 80-3	10563-10566	the	_
@@ -1896,6 +1976,7 @@
 80-34	10712-10724	connectivity	_
 80-35	10725-10726	.	_
 
+Text=Therefore, we measured the contribution of each GS to all subjects ’ dynamic connectivity using, where is the lth column of A.
 81-1	10727-10736	Therefore	_
 81-2	10737-10738	,	_
 81-3	10739-10741	we	_
@@ -1922,6 +2003,7 @@
 81-24	10853-10854	A	_
 81-25	10855-10856	.	_
 
+Text=We term the GS with the greatest contribution the dominant GS, which included the most information (i.e., power) across the entire time-varying connectivity patterns of all subjects.
 82-1	10857-10859	We	_
 82-2	10860-10864	term	_
 82-3	10865-10868	the	_
@@ -1955,6 +2037,7 @@
 82-31	11034-11042	subjects	_
 82-32	11043-11044	.	_
 
+Text=At the second step of GIG-ICA (Fig.
 83-1	11045-11047	At	_
 83-2	11048-11051	the	_
 83-3	11052-11058	second	_
@@ -1965,6 +2048,7 @@
 83-8	11077-11080	Fig	_
 83-9	11081-11082	.	_
 
+Text=1 (C)), based on the identified dominant GS and the individual-subject Fisher-transformed), we estimated the corresponding dominant subject-specific connectivity state (SS) for each subject.
 84-1	11083-11084	1	_
 84-2	11085-11086	(	_
 84-3	11087-11088	C	_
@@ -1999,6 +2083,7 @@
 84-32	11273-11280	subject	_
 84-33	11281-11282	.	_
 
+Text=Using a multiple-objective optimization function (2), the method simultaneously optimizes the independence of the subject-specific IC (i.e., SS) as well as the correspondence between the subject-specific IC (i.e., SS) and the group-level IC (i.e., GS).
 85-1	11283-11288	Using	_
 85-2	11289-11290	a	_
 85-3	11291-11309	multiple-objective	_
@@ -2048,6 +2133,7 @@
 85-47	11545-11546	)	_
 85-48	11547-11548	.	_
 
+Text=To simplify description, we use to denote the identified dominant GS and to denote the corresponding dominant SS to estimate.
 86-1	11549-11551	To	_
 86-2	11552-11560	simplify	_
 86-3	11561-11572	description	_
@@ -2071,6 +2157,7 @@
 86-21	11666-11674	estimate	_
 86-22	11675-11676	.	_
 
+Text=Here, denotes one subject-specific IC of the kth subject.
 87-1	11677-11681	Here	_
 87-2	11682-11683	,	_
 87-3	11684-11691	denotes	_
@@ -2083,17 +2170,20 @@
 87-10	11727-11734	subject	_
 87-11	11735-11736	.	_
 
+Text=is the whitened.
 88-1	11737-11739	is	_
 88-2	11740-11743	the	_
 88-3	11744-11752	whitened	_
 88-4	11753-11754	.	_
 
+Text=is the unmixing vector.
 89-1	11755-11757	is	_
 89-2	11758-11761	the	_
 89-3	11762-11770	unmixing	_
 89-4	11771-11777	vector	_
 89-5	11778-11779	.	_
 
+Text=v is a Gaussian variable with zero mean and unit variance.
 90-1	11780-11781	v	_
 90-2	11782-11784	is	_
 90-3	11785-11786	a	_
@@ -2107,12 +2197,14 @@
 90-11	11829-11837	variance	_
 90-12	11838-11839	.	_
 
+Text=is a nonquadratic function.
 91-1	11840-11842	is	_
 91-2	11843-11844	a	_
 91-3	11845-11857	nonquadratic	_
 91-4	11858-11866	function	_
 91-5	11867-11868	.	_
 
+Text=, the negentropy of the estimated with updates on, serves to measure the independence of.
 92-1	11869-11870	,	_
 92-2	11871-11874	the	_
 92-3	11875-11885	negentropy	_
@@ -2131,6 +2223,7 @@
 92-16	11956-11958	of	_
 92-17	11959-11960	.	_
 
+Text=denotes the expectation of variable.
 93-1	11961-11968	denotes	_
 93-2	11969-11972	the	_
 93-3	11973-11984	expectation	_
@@ -2138,6 +2231,7 @@
 93-5	11988-11996	variable	_
 93-6	11997-11998	.	_
 
+Text=, which equals to the Pearson correlation between and, was used to measures the similarity between and.
 94-1	11999-12000	,	_
 94-2	12001-12006	which	_
 94-3	12007-12013	equals	_
@@ -2158,6 +2252,7 @@
 94-18	12099-12102	and	_
 94-19	12103-12104	.	_
 
+Text=Solving the optimization function results in the optimal, which represents the dominant SS of the kth subject.
 95-1	12105-12112	Solving	_
 95-2	12113-12116	the	_
 95-3	12117-12129	optimization	_
@@ -2178,6 +2273,7 @@
 95-18	12208-12215	subject	_
 95-19	12216-12217	.	_
 
+Text=The algorithm automatically generates Z-scored, which can be compared across subjects.
 96-1	12218-12221	The	_
 96-2	12222-12231	algorithm	_
 96-3	12232-12245	automatically	_
@@ -2192,6 +2288,7 @@
 96-12	12296-12304	subjects	_
 96-13	12305-12306	.	_
 
+Text=From the above derivation, is the corresponding SF of.
 97-1	12307-12311	From	_
 97-2	12312-12315	the	_
 97-3	12316-12321	above	_
@@ -2204,6 +2301,7 @@
 97-10	12359-12361	of	_
 97-11	12362-12363	.	_
 
+Text=Hence, for each group we obtained five GSs, among which one GS was identified as the dominant GS.
 98-1	12364-12369	Hence	_
 98-2	12370-12371	,	_
 98-3	12372-12375	for	_
@@ -2226,6 +2324,7 @@
 98-20	12460-12462	GS	_
 98-21	12463-12464	.	_
 
+Text=For each subject, we computed the dominant SS and SFs.
 99-1	12465-12468	For	_
 99-2	12469-12473	each	_
 99-3	12474-12481	subject	_
@@ -2239,6 +2338,7 @@
 99-11	12516-12519	SFs	_
 99-12	12520-12521	.	_
 
+Text=It is worth noting that four groups of GSs may have diverse patterns and could not be very corresponding across groups, since they were estimated separately for each group.
 100-1	12522-12524	It	_
 100-2	12525-12527	is	_
 100-3	12528-12533	worth	_
@@ -2271,6 +2371,7 @@
 100-30	12689-12694	group	_
 100-31	12695-12696	.	_
 
+Text=In order to make the GSs, the associated SFs and the dominant SS to be comparable across groups, we matched the results of the four groups using a greedy search rule (see supplementary materials).
 101-1	12697-12699	In	_
 101-2	12700-12705	order	_
 101-3	12706-12708	to	_
@@ -2311,9 +2412,11 @@
 101-38	12895-12896	)	_
 101-39	12897-12898	.	_
 
+Text=2.2.3.
 102-1	12899-12904	2.2.3	_
 102-2	12905-12906	.	_
 
+Text=Investigating group differences in the group-level states and the states ’ fluctuations We expected to examine whether BPP, SAD and SZ display disorder-related connectivity states and whether the fluctuations of states show different features among groups.
 103-1	12907-12920	Investigating	_
 103-2	12921-12926	group	_
 103-3	12927-12938	differences	_
@@ -2353,6 +2456,7 @@
 103-37	13157-13163	groups	_
 103-38	13164-13165	.	_
 
+Text=In order to show the overall difference in the GSs ’ connectivity patterns, we visualized them using the BrainNet Viewer toolbox.
 104-1	13166-13168	In	_
 104-2	13169-13174	order	_
 104-3	13175-13177	to	_
@@ -2377,6 +2481,7 @@
 104-22	13288-13295	toolbox	_
 104-23	13296-13297	.	_
 
+Text=Furthermore, in order to assess the similarity of GSs across different groups, we computed Pearson correlation coefficients among the matched GSs, and took the mean of the absolute correlations as their similarity measure.
 105-1	13298-13309	Furthermore	_
 105-2	13310-13311	,	_
 105-3	13312-13314	in	_
@@ -2415,6 +2520,7 @@
 105-36	13515-13522	measure	_
 105-37	13523-13524	.	_
 
+Text=We investigated the states ’ fluctuations from two aspects.
 106-1	13525-13527	We	_
 106-2	13528-13540	investigated	_
 106-3	13541-13544	the	_
@@ -2426,6 +2532,7 @@
 106-9	13576-13583	aspects	_
 106-10	13584-13585	.	_
 
+Text=(1) To assess the variability of each state ’ s SF for each subject, we computed the fractional amplitude of low frequency fluctuation (fALFF) of the normalized SF (with zero mean and unit variance) using its low-frequency (<0.0125Hz) to high-frequency (> 0.025Hz) power ratio.
 107-1	13586-13587	(	_
 107-2	13588-13589	1	_
 107-3	13590-13591	)	_
@@ -2484,6 +2591,7 @@
 107-56	13869-13874	ratio	_
 107-57	13875-13876	.	_
 
+Text=For each state, we then compared the fALFF across groups using analysis of covariance (ANCOVA) (p <0.05 with Bonferroni correction for multiple comparisons, i.e., p-value threshold = 0.05/number of states) with age, gender, and site information as covariates and two-tailed two-sample t-tests (p <0.05 with Boneferroni correction, i.e., p-value threshold = 0.05/number of group pairs).
 108-1	13877-13880	For	_
 108-2	13881-13885	each	_
 108-3	13886-13891	state	_
@@ -2556,6 +2664,7 @@
 108-70	14275-14276	)	_
 108-71	14277-14278	.	_
 
+Text=Additionally, we also compared the differences in fALFF among different states in each group using analysis of variance (p <0.05 with Bonferroni correction, i.e., p-value threshold = 0.05/number of groups).
 109-1	14279-14291	Additionally	_
 109-2	14292-14293	,	_
 109-3	14294-14296	we	_
@@ -2594,6 +2703,7 @@
 109-36	14489-14490	)	_
 109-37	14491-14492	.	_
 
+Text=(2) We evaluated the activation mode of the states.
 110-1	14493-14494	(	_
 110-2	14495-14496	2	_
 110-3	14497-14498	)	_
@@ -2607,6 +2717,7 @@
 110-11	14539-14545	states	_
 110-12	14546-14547	.	_
 
+Text=For each state, the positive (or negative) values of all subjects ’ SFs were thresholded by preserving half number of windows with greater absolute values using a manner similar to previous work, and then the percentage of the positively (or negatively) active windows to all windows was calculated for each subject.
 111-1	14548-14551	For	_
 111-2	14552-14556	each	_
 111-3	14557-14562	state	_
@@ -2666,6 +2777,7 @@
 111-57	14862-14869	subject	_
 111-58	14870-14871	.	_
 
+Text=Afterwards, for each state, we compared the positively (or negatively) active percentage among groups via ANCOVA (p <0.05 with Bonferroni correction, i.e., p-value threshold = 0.05/number of states) with age, gender, and site information as covariates and then two-tailed two-sample t-tests (p <0.05 with Boneferroni correction, i.e., p-value threshold = 0.05/number of group pairs).
 112-1	14872-14882	Afterwards	_
 112-2	14883-14884	,	_
 112-3	14885-14888	for	_
@@ -2738,6 +2850,7 @@
 112-70	15269-15270	)	_
 112-71	15271-15272	.	_
 
+Text=As mentioned in section 2.2.2, we tested the reliability of the estimated GSs of each group using different ICASSO runs.
 113-1	15273-15275	As	_
 113-2	15276-15285	mentioned	_
 113-3	15286-15288	in	_
@@ -2761,6 +2874,7 @@
 113-21	15389-15393	runs	_
 113-22	15394-15395	.	_
 
+Text=For each group, we repeated additional 100 ICASSO runs, each of which resulted in M GSs.
 114-1	15396-15399	For	_
 114-2	15400-15404	each	_
 114-3	15405-15410	group	_
@@ -2781,6 +2895,7 @@
 114-18	15482-15485	GSs	_
 114-19	15486-15487	.	_
 
+Text=Then, we computed the similarity among GSs obtained from both original and additional 100 ICASSO runs.
 115-1	15488-15492	Then	_
 115-2	15493-15494	,	_
 115-3	15495-15497	we	_
@@ -2800,6 +2915,7 @@
 115-17	15586-15590	runs	_
 115-18	15591-15592	.	_
 
+Text=Furthermore, we also evaluated if the estimated GSs of each group are stable when using different samples.
 116-1	15593-15604	Furthermore	_
 116-2	15605-15606	,	_
 116-3	15607-15609	we	_
@@ -2820,6 +2936,7 @@
 116-18	15692-15699	samples	_
 116-19	15700-15701	.	_
 
+Text=For each group, we generated 100 permutations, each of which randomly included 80% of the original subjects.
 117-1	15702-15705	For	_
 117-2	15706-15710	each	_
 117-3	15711-15716	group	_
@@ -2842,6 +2959,7 @@
 117-20	15804-15812	subjects	_
 117-21	15813-15814	.	_
 
+Text=In each permutation run, we applied the group-level ICA (as shown in Fig.
 118-1	15815-15817	In	_
 118-2	15818-15822	each	_
 118-3	15823-15834	permutation	_
@@ -2859,6 +2977,7 @@
 118-15	15886-15889	Fig	_
 118-16	15890-15891	.	_
 
+Text=1 (B)) to analyze the selected subjects ’ dynamic connectivity, resulting in new GSs of the group.
 119-1	15892-15893	1	_
 119-2	15894-15895	(	_
 119-3	15896-15897	B	_
@@ -2882,6 +3001,7 @@
 119-21	15988-15993	group	_
 119-22	15994-15995	.	_
 
+Text=For each group, we further investigated similarity among those new GSs obtained from 100 permutations as well as the relationship between the GSs from the original subjects and the GSs from 100 permutations.
 120-1	15996-15999	For	_
 120-2	16000-16004	each	_
 120-3	16005-16010	group	_
@@ -2918,6 +3038,7 @@
 120-34	16191-16203	permutations	_
 120-35	16204-16205	.	_
 
+Text=(1) We computed Pearson correlation coefficients among the new GSs.
 121-1	16206-16207	(	_
 121-2	16208-16209	1	_
 121-3	16210-16211	)	_
@@ -2932,6 +3053,7 @@
 121-12	16271-16274	GSs	_
 121-13	16275-16276	.	_
 
+Text=(2) We projected the estimated GSs from both 100 permutations and the original subjects into a 2D-plane using the t-Distributed Stochastic Neighbor Embedding (t-SNE) projection method.
 122-1	16277-16278	(	_
 122-2	16279-16280	2	_
 122-3	16281-16282	)	_
@@ -2964,6 +3086,7 @@
 122-30	16458-16464	method	_
 122-31	16465-16466	.	_
 
+Text=(3) We averaged the corresponding GSs from 100 permutations, and then calculated Pearson correlation coefficient between each mean GS and the relevant GS obtained from the original subjects.
 123-1	16467-16468	(	_
 123-2	16469-16470	3	_
 123-3	16471-16472	)	_
@@ -2997,6 +3120,7 @@
 123-31	16651-16659	subjects	_
 123-32	16660-16661	.	_
 
+Text=Note for each permutation run, we matched the resulting states with the original states using a greedy rule for facilitating comparison.
 124-1	16662-16666	Note	_
 124-2	16667-16670	for	_
 124-3	16671-16675	each	_
@@ -3021,9 +3145,11 @@
 124-22	16788-16798	comparison	_
 124-23	16799-16800	.	_
 
+Text=2.2.4.
 125-1	16801-16806	2.2.4	_
 125-2	16807-16808	.	_
 
+Text=Investigating group differences in the functional connectivities of the dominant state Considering that the dominant state contained the most information of dynamic connectivity patterns, we compared the dominant connectivity state across groups in detail.
 126-1	16809-16822	Investigating	_
 126-2	16823-16828	group	_
 126-3	16829-16840	differences	_
@@ -3061,6 +3187,7 @@
 126-35	17059-17065	detail	_
 126-36	17066-17067	.	_
 
+Text=We expected to explore the following aspects.
 127-1	17068-17070	We	_
 127-2	17071-17079	expected	_
 127-3	17080-17082	to	_
@@ -3070,6 +3197,7 @@
 127-7	17105-17112	aspects	_
 127-8	17113-17114	.	_
 
+Text=(1) Whether functional connectivity (FC) strengths are impaired in those diagnoses.
 128-1	17115-17116	(	_
 128-2	17117-17118	1	_
 128-3	17119-17120	)	_
@@ -3087,6 +3215,7 @@
 128-15	17192-17201	diagnoses	_
 128-16	17202-17203	.	_
 
+Text=If true, which brain regions are involved in the altered FCs?
 129-1	17204-17206	If	_
 129-2	17207-17211	true	_
 129-3	17212-17213	,	_
@@ -3101,6 +3230,7 @@
 129-12	17262-17265	FCs	_
 129-13	17266-17267	?	_
 
+Text=(2) What kinds of deficits are related to symptomatology across diagnoses?
 130-1	17268-17269	(	_
 130-2	17270-17271	2	_
 130-3	17272-17273	)	_
@@ -3116,6 +3246,7 @@
 130-13	17334-17343	diagnoses	_
 130-14	17344-17345	?	_
 
+Text=Whether there is a gradual alteration from HC to BPP to SAD to SZ?
 131-1	17346-17353	Whether	_
 131-2	17354-17359	there	_
 131-3	17360-17362	is	_
@@ -3132,6 +3263,7 @@
 131-14	17409-17411	SZ	_
 131-15	17412-17413	?	_
 
+Text=Which impairments are common or unique?
 132-1	17414-17419	Which	_
 132-2	17420-17431	impairments	_
 132-3	17432-17435	are	_
@@ -3140,6 +3272,7 @@
 132-6	17446-17452	unique	_
 132-7	17453-17454	?	_
 
+Text=In order to investigate differences among the four diagnostic groups, we performed ANCOVA (p <0.01 with Bonferroni correction, i.e., p-value threshold = 0.01/number of all ROI pairs) with age, gender, and site information as covariates on each element (reflecting one FC ’ s strength) in the dominant SS.
 133-1	17455-17457	In	_
 133-2	17458-17463	order	_
 133-3	17464-17466	to	_
@@ -3200,6 +3333,7 @@
 133-58	17766-17768	SS	_
 133-59	17769-17770	.	_
 
+Text=For each significantly discriminative FC, we further explored difference between any paired groups in the connectivity strength using a two-tailed two-sample t-test (p <0.01 with Bonferroni correction, i.e., p-value threshold = 0.01/number of group pairs).
 134-1	17771-17774	For	_
 134-2	17775-17779	each	_
 134-3	17780-17793	significantly	_
@@ -3243,6 +3377,7 @@
 134-41	18031-18032	)	_
 134-42	18033-18034	.	_
 
+Text=Furthermore, for each discriminative FC, we computed the correlation (p <0.05 with Bonferroni correction, i.e., p-value threshold = 0.05/number of symptom scores) between the connectivity strengths and the symptom scores (displayed in Table 1) for patients to explore their association.
 135-1	18035-18046	Furthermore	_
 135-2	18047-18048	,	_
 135-3	18049-18052	for	_
@@ -3294,6 +3429,7 @@
 135-49	18318-18329	association	_
 135-50	18330-18331	.	_
 
+Text=We also tested medication effects using two types of analyses.
 136-1	18332-18334	We	_
 136-2	18335-18339	also	_
 136-3	18340-18346	tested	_
@@ -3306,6 +3442,7 @@
 136-10	18385-18393	analyses	_
 136-11	18394-18395	.	_
 
+Text=First, we converted all available anti-psychotic data to their respective chlorpromazine (CPZ) dosage equivalents for 244 patients with available dose-level medication data, as prescribed by Andreasen et al.
 137-1	18396-18401	First	_
 137-2	18402-18403	,	_
 137-3	18404-18406	we	_
@@ -3340,6 +3477,7 @@
 137-32	18604-18606	al	_
 137-33	18607-18608	.	_
 
+Text=We then used a multiple linear regression model to evaluate associations between CPZ measures and strengths of each FC (p <0.05 with Bonferroni correction, i.e., p-value threshold = 0.05/number of all ROI pairs).
 138-1	18609-18611	We	_
 138-2	18612-18616	then	_
 138-3	18617-18621	used	_
@@ -3380,6 +3518,7 @@
 138-38	18824-18825	)	_
 138-39	18826-18827	.	_
 
+Text=Second, we recoded available medication data into a binary “ on ” / ” off ” format for main drug classes (anti-psychotics, anti-depressants, mood stabilizers, anxiolytic/sedatives/hypnotic, and anti-cholinergic/anti-parkinsonian).
 139-1	18828-18834	Second	_
 139-2	18835-18836	,	_
 139-3	18837-18839	we	_
@@ -3417,6 +3556,7 @@
 139-35	19063-19064	)	_
 139-36	19065-19066	.	_
 
+Text=Then, for each drug class, we performed a two-tailed two-sample t-test (p <0.05 with Bonferroni correction, i.e., p-value threshold = 0.05/number of all ROI pairs) to examine group differences in FC strengths between the patients taking a particular medication and patients not taking the medication.
 140-1	19067-19071	Then	_
 140-2	19072-19073	,	_
 140-3	19074-19077	for	_
@@ -3471,6 +3611,7 @@
 140-52	19363-19373	medication	_
 140-53	19374-19375	.	_
 
+Text=In our study, we applied GIG-ICA to each group ’ s dynamic connectivity separately to estimate the group-specific connectivity states, which may raise concerns on whether the identified group differences were due to the grouping.
 141-1	19376-19378	In	_
 141-2	19379-19382	our	_
 141-3	19383-19388	study	_
@@ -3510,6 +3651,7 @@
 141-37	19598-19606	grouping	_
 141-38	19607-19608	.	_
 
+Text=In order to assess the validity of the identified group differences, we performed a permutation test based on 1000 permutations by randomly rearranging all 623 subjects of the original four groups (i.e., HC, BPP, SAD and SZ).
 142-1	19609-19611	In	_
 142-2	19612-19617	order	_
 142-3	19618-19620	to	_
@@ -3555,6 +3697,7 @@
 142-43	19838-19839	)	_
 142-44	19840-19841	.	_
 
+Text=For each of 1000 permutations, we first generated four dummy groups each of which had the same number of subjects with the original group.
 143-1	19842-19845	For	_
 143-2	19846-19850	each	_
 143-3	19851-19853	of	_
@@ -3582,6 +3725,7 @@
 143-25	19975-19980	group	_
 143-26	19981-19982	.	_
 
+Text=Consistent with the processing on the original groups, we first estimated the group-level states by performing the group-level ICA on the dynamic connectivity of each dummy group, and then we identified the dominant group-level state according to the states ’ contributions, finally we estimated the dominant subject-specific states on the basis of the dominant group-level state.
 144-1	19983-19993	Consistent	_
 144-2	19994-19998	with	_
 144-3	19999-20002	the	_
@@ -3643,6 +3787,7 @@
 144-59	20360-20365	state	_
 144-60	20366-20367	.	_
 
+Text=Afterwards, in each permutation run, we employed ANCOVA with age, gender, and site information as covariates on each FC ’ s strengths of the dominant subject-specific states.
 145-1	20368-20378	Afterwards	_
 145-2	20379-20380	,	_
 145-3	20381-20383	in	_
@@ -3676,6 +3821,7 @@
 145-31	20539-20545	states	_
 145-32	20546-20547	.	_
 
+Text=While performing ANCOVA, the used age, gender and site information of each subject was the subject ’ s real age, gender and site information.
 146-1	20548-20553	While	_
 146-2	20554-20564	performing	_
 146-3	20565-20571	ANCOVA	_
@@ -3705,6 +3851,7 @@
 146-27	20680-20691	information	_
 146-28	20692-20693	.	_
 
+Text=Finally, for each FC in the dominant state, we calculated the occurring frequency of the case where the p-value obtained from ANCOVA using rearranged groups (i.e., one permutation) was smaller than the corresponding p-value obtained from ANCOVA using the original (i.e., real) groups.
 147-1	20694-20701	Finally	_
 147-2	20702-20703	,	_
 147-3	20704-20707	for	_
@@ -3758,6 +3905,7 @@
 147-51	20979-20985	groups	_
 147-52	20986-20987	.	_
 
+Text=The frequency (i.e., the tail probability computed from 1000 permutations) reflects the significance level of the identified group difference.
 148-1	20988-20991	The	_
 148-2	20992-21001	frequency	_
 148-3	21002-21003	(	_
@@ -3782,6 +3930,7 @@
 148-22	21122-21132	difference	_
 148-23	21133-21134	.	_
 
+Text=Smaller tail probability indicates lower possibility of false positives of the identified group difference.
 149-1	21135-21142	Smaller	_
 149-2	21143-21147	tail	_
 149-3	21148-21159	probability	_
@@ -3798,9 +3947,11 @@
 149-14	21231-21241	difference	_
 149-15	21242-21243	.	_
 
+Text=2.2.5.
 150-1	21244-21249	2.2.5	_
 150-2	21250-21251	.	_
 
+Text=Static functional connectivity analyses We performed the conventional SFC analyses for a comparison.
 151-1	21252-21258	Static	_
 151-2	21259-21269	functional	_
 151-3	21270-21282	connectivity	_
@@ -3816,6 +3967,7 @@
 151-13	21341-21351	comparison	_
 151-14	21352-21353	.	_
 
+Text=For each subject, we computed Pearson correlation coefficients between any pair of Yi, resulting in a connectivity matrix R (size:).
 152-1	21354-21357	For	_
 152-2	21358-21362	each	_
 152-3	21363-21370	subject	_
@@ -3843,6 +3995,7 @@
 152-25	21489-21490	)	_
 152-26	21491-21492	.	_
 
+Text=Fisher ’ s r-to-z transformation was applied to the connectivity strengths, and then ANCOVA (p <0.01 with Bonferroni correction, i.e., p-value threshold = 0.01/number of all ROI pairs) with age, gender and site information as covariates was performed on each element (reflection one FC ’ s strength) in R. Based on each discriminative FC identified, we further explored the difference between any pair of groups using a two-tailed two-sample t-test (p <0.01 with Bonferroni correction, i.e., p-value threshold = 0.01/number of group pairs).
 153-1	21493-21499	Fisher	_
 153-2	21500-21501	’	_
 153-3	21502-21503	s	_
@@ -3943,6 +4096,7 @@
 153-98	22046-22047	)	_
 153-99	22048-22049	.	_
 
+Text=Similar to DFC analyses, we also computed Pearson correlation coefficients between the FC strengths and the symptom scores, and tested the medication effects for patients.
 154-1	22050-22057	Similar	_
 154-2	22058-22060	to	_
 154-3	22061-22064	DFC	_
@@ -3972,6 +4126,7 @@
 154-27	22214-22222	patients	_
 154-28	22223-22224	.	_
 
+Text=Furthermore, in order to show the connectivity patterns, we averaged R matrices across subjects for each group.
 155-1	22225-22236	Furthermore	_
 155-2	22237-22238	,	_
 155-3	22239-22241	in	_

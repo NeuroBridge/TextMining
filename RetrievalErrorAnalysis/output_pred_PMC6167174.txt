@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Expression of dopamine D2 and D3 receptors in the human retina revealed by positron emission tomography and targeted mass spectrometry Dopamine D2 receptors (D2R) are expressed in the human retina and play an important role in the modulation of neural responses to light-adaptation.
 1-1	0-10	Expression	_
 1-2	11-13	of	_
 1-3	14-22	dopamine	_
@@ -49,6 +50,7 @@
 1-45	267-283	light-adaptation	_
 1-46	284-285	.	_
 
+Text=However, it is unknown whether dopamine D3 receptors (D3R) are expressed in the human retina.
 2-1	286-293	However	_
 2-2	294-295	,	_
 2-3	296-298	it	_
@@ -69,6 +71,7 @@
 2-18	375-381	retina	_
 2-19	382-383	.	_
 
+Text=Using positron emission tomography (PET), we have observed significant uptake of the D3R-preferring agonist radiotracer [11C] - (+) -PHNO into the retina of humans in vivo.
 3-1	384-389	Using	_
 3-2	390-398	positron	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
 3-3	399-407	emission	_
@@ -104,6 +107,7 @@
 3-33	558-562	vivo	_
 3-34	563-564	.	_
 
+Text=This led us to examine whether [11C] - (+) -PHNO binding in the retina was quantifiable using reference tissue methods and if D3R are expressed in human post-mortem retinal tissue.
 4-1	565-569	This	_
 4-2	570-573	led	_
 4-3	574-576	us	_
@@ -140,6 +144,7 @@
 4-34	742-748	tissue	_
 4-35	749-750	.	_
 
+Text=[11C] - (+) -PHNO data from 49 healthy controls (mean age: 39.96 ± 14.36; 16 female) and 12 antipsychotic-naïve patients with schizophrenia (mean age: 25.75 ± 6.25; 4 female) were analyzed.
 5-1	751-752	[	_
 5-2	753-756	11C	_
 5-3	757-758	]	_
@@ -185,6 +190,7 @@
 5-43	943-951	analyzed	_
 5-44	952-953	.	_
 
+Text=We observed no differences in [11C] - (+) -PHNO binding in the retina between first-episode, drug-naïve patients with schizophrenia and healthy controls.
 6-1	954-956	We	_
 6-2	957-965	observed	_
 6-3	966-968	no	_
@@ -214,6 +220,7 @@
 6-27	1103-1111	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 6-28	1112-1113	.	_
 
+Text=Post-mortem retinal tissues from four healthy persons (mean age: 59.75 ± 9.11; 2 female) and four patients with schizophrenia (mean age: 54 ± 17.11; 2 female) were analyzed using a targeted mass spectrometry technique: parallel reaction monitoring (PRM) analysis.
 7-1	1114-1125	Post-mortem	_
 7-2	1126-1133	retinal	_
 7-3	1134-1141	tissues	_
@@ -266,6 +273,7 @@
 7-50	1379-1387	analysis	_
 7-51	1388-1389	.	_
 
+Text=Using targeted mass spectrometry, we confirmed that D3R are expressed in human retinal tissue ex vivo.
 8-1	1390-1395	Using	_
 8-2	1396-1404	targeted	_
 8-3	1405-1409	mass	_
@@ -285,6 +293,7 @@
 8-17	1488-1492	vivo	_
 8-18	1493-1494	.	_
 
+Text=Notably, there was far greater expression of D2R relative to D3R in the healthy human retina (~12:1).
 9-1	1495-1502	Notably	_
 9-2	1503-1504	,	_
 9-3	1505-1510	there	_
@@ -307,6 +316,7 @@
 9-20	1597-1598	)	_
 9-21	1599-1600	.	_
 
+Text=Moreover, PRM analysis revealed reduced D2R, but not D3R, expression in the retinas of non-first episode patients with schizophrenia compared to healthy controls.
 10-1	1601-1609	Moreover	_
 10-2	1610-1611	,	_
 10-3	1612-1615	PRM	_
@@ -335,6 +345,7 @@
 10-26	1757-1765	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 10-27	1766-1767	.	_
 
+Text=We confirm that D3R are expressed in the human retina.
 11-1	1768-1770	We	_
 11-2	1771-1778	confirm	_
 11-3	1779-1783	that	_
@@ -347,6 +358,7 @@
 11-10	1815-1821	retina	_
 11-11	1822-1823	.	_
 
+Text=Future studies are needed to determine what proportion of the [11C] - (+) -PHNO signal in the human retina in vivo is due to binding to D3R versus D2R.
 12-1	1824-1830	Future	_
 12-2	1831-1838	studies	_
 12-3	1839-1842	are	_
@@ -382,6 +394,7 @@
 12-33	1975-1978	D2R	_
 12-34	1979-1980	.	_
 
+Text=Knowledge that both D2R and D3R are expressed in the human retina, and potentially quantifiable in vivo using [11C] - (+) -PHNO, poses new research avenues for better understanding the role of retinal dopamine in human vision.
 13-1	1981-1990	Knowledge	_
 13-2	1991-1995	that	_
 13-3	1996-2000	both	_
@@ -427,6 +440,7 @@
 13-43	2206-2212	vision	_
 13-44	2213-2214	.	_
 
+Text=This work may have important implications for elucidating pathophysiological and antipsychotic induced visual deficits in schizophrenia.
 14-1	2215-2219	This	_
 14-2	2220-2224	work	_
 14-3	2225-2228	may	_
@@ -445,15 +459,18 @@
 14-16	2337-2350	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-17	2351-2352	.	_
 
+Text=2.
 15-1	2353-2354	2	_
 15-2	2355-2356	.	_
 
+Text=Material and methods 2.1.
 16-1	2357-2365	Material	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 16-2	2366-2369	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 16-3	2370-2377	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 16-4	2378-2381	2.1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 16-5	2382-2383	.	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 
+Text=[11C] - (+) -PHNO participants PET data from healthy persons and drug-naive persons with schizophrenia, previously reported in the literature, were re-analyzed for the current investigation.
 17-1	2384-2385	[	_
 17-2	2386-2389	11C	_
 17-3	2390-2391	]	_
@@ -488,6 +505,7 @@
 17-32	2566-2579	investigation	_
 17-33	2580-2581	.	_
 
+Text=These studies were approved by the Research Ethics Board of the Centre for Addiction and Mental Health (CAMH), Toronto.
 18-1	2582-2587	These	_
 18-2	2588-2595	studies	_
 18-3	2596-2600	were	_
@@ -512,6 +530,7 @@
 18-22	2696-2703	Toronto	_
 18-23	2704-2705	.	_
 
+Text=Healthy participants were right-handed adults free of any major medical or psychiatric disorders as determined by clinical interview, the Mini International Neuropsychiatric Interview-Plus (MINI-Plus), basic clinical laboratory tests, and electrocardiography.
 19-1	2706-2713	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 19-2	2714-2726	participants	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 19-3	2727-2731	were	_
@@ -549,6 +568,7 @@
 19-35	2950-2969	electrocardiography	_
 19-36	2970-2971	.	_
 
+Text=Participants with schizophrenia were antipsychotic-naïve and met criteria for the diagnosis of schizophrenia or schizoaffective disorder based on the DSM-IV and the MINI-Plus.
 20-1	2972-2984	Participants	_
 20-2	2985-2989	with	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 20-3	2990-3003	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -574,6 +594,7 @@
 20-23	3137-3146	MINI-Plus	_
 20-24	3147-3148	.	_
 
+Text=Participants were excluded if they had a current diagnosis of substance abuse or dependence, a history of clinically significant physical illness, or metal implants precluding the ability to be scanned with MRI.
 21-1	3149-3161	Participants	_
 21-2	3162-3166	were	_
 21-3	3167-3175	excluded	_
@@ -610,6 +631,7 @@
 21-34	3358-3361	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 21-35	3362-3363	.	_
 
+Text=At inclusion and before the PET scan, participants were required to have a negative urine screen for drugs of abuse and/or pregnancy.
 22-1	3364-3366	At	_
 22-2	3367-3376	inclusion	_
 22-3	3377-3380	and	_
@@ -635,6 +657,7 @@
 22-23	3488-3497	pregnancy	_
 22-24	3498-3499	.	_
 
+Text=All participants provided written informed consent.
 23-1	3500-3503	All	_
 23-2	3504-3516	participants	_
 23-3	3517-3525	provided	_
@@ -643,6 +666,7 @@
 23-6	3543-3550	consent	_
 23-7	3551-3552	.	_
 
+Text=The average age of illness onset for the patient sample was 24.42 ± 6.75 (range: 17–42), with an average duration of illness of 16.33 ± 14.74 (range: 2–48) months.
 24-1	3553-3556	The	_
 24-2	3557-3564	average	_
 24-3	3565-3568	age	_
@@ -681,9 +705,11 @@
 24-36	3716-3722	months	_
 24-37	3723-3724	.	_
 
+Text=2.2.
 25-1	3725-3728	2.2	_
 25-2	3729-3730	.	_
 
+Text=[11C] - (+) -PHNO synthesis & acquisition A full description of the radiosynthesis of [11C] - (+) -PHNO, as well as how PET images were acquired, can be found in previous publications.
 26-1	3731-3732	[	_
 26-2	3733-3736	11C	_
 26-3	3737-3738	]	_
@@ -728,6 +754,7 @@
 26-42	3912-3924	publications	_
 26-43	3925-3926	.	_
 
+Text=Briefly, [11C] -propionyl chloride was reacted with 9-hydroxynaph-thoxazine to generate a [11C] -amide.
 27-1	3927-3934	Briefly	_
 27-2	3935-3936	,	_
 27-3	3937-3938	[	_
@@ -748,6 +775,7 @@
 27-18	4028-4034	-amide	_
 27-19	4035-4036	.	_
 
+Text=This was subsequently reduced by lithium aluminium hydride.
 28-1	4037-4041	This	_
 28-2	4042-4045	was	_
 28-3	4046-4058	subsequently	_
@@ -758,6 +786,7 @@
 28-8	4088-4095	hydride	_
 28-9	4096-4097	.	_
 
+Text=Purification by HPLC and formulation gave radio-chemically pure [11C] - (+) -PHNO as a sterile, pyrogen-free solution.
 29-1	4098-4110	Purification	_
 29-2	4111-4113	by	_
 29-3	4114-4118	HPLC	_
@@ -782,6 +811,7 @@
 29-22	4212-4220	solution	_
 29-23	4221-4222	.	_
 
+Text=PET images were acquired using a high-resolution head-dedicated PET camera system (CPS-HRRT; Siemens Molecular Imaging, USA).
 30-1	4223-4226	PET	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
 30-2	4227-4233	images	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
 30-3	4234-4238	were	_
@@ -804,6 +834,7 @@
 30-20	4350-4351	)	_
 30-21	4352-4353	.	_
 
+Text=The CPS-HRRT measures radioactivity in 207 brain slices, each with a thickness of 1.2 mm.
 31-1	4354-4357	The	_
 31-2	4358-4366	CPS-HRRT	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 31-3	4367-4375	measures	_
@@ -822,6 +853,7 @@
 31-16	4441-4443	mm	_
 31-17	4444-4445	.	_
 
+Text=The in-plane resolution was approximately 2.8 mm full-width at half-maximum (FWHM).
 32-1	4446-4449	The	_
 32-2	4450-4458	in-plane	_
 32-3	4459-4469	resolution	_
@@ -837,6 +869,7 @@
 32-13	4529-4530	)	_
 32-14	4531-4532	.	_
 
+Text=Notably, significant [11C] - (+) -PHNO uptake into the retina could not be observed on scans collected using a high-resolution PET CT, Siemens-Biograph HiRez XVI (Siemens Molecular Imaging, Knoxville, TN, USA) operating in 3D mode with an in-plane resolution of approximately 4.6 mm FWHM (almost half the resolution of the CPS-HRRT).
 33-1	4533-4540	Notably	_
 33-2	4541-4542	,	_
 33-3	4543-4554	significant	_
@@ -903,6 +936,7 @@
 33-64	4877-4878	)	_
 33-65	4879-4880	.	_
 
+Text=Thus, PET camera systems of ~2.8 mm FWHM or better are likely required to have the appropriate resolution to image [11C] - (+) -PHNO uptake into the retina.
 34-1	4881-4885	Thus	_
 34-2	4886-4887	,	_
 34-3	4888-4891	PET	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
@@ -938,6 +972,7 @@
 34-33	5035-5041	retina	_
 34-34	5042-5043	.	_
 
+Text=Transmission scans were acquired using a 137Cs (T1/2=30.2 yr, E=662 KeV) single photon point source to provide attenuation correction, and the emission data were acquired in list mode.
 35-1	5044-5056	Transmission	_
 35-2	5057-5062	scans	_
 35-3	5063-5067	were	_
@@ -972,6 +1007,7 @@
 35-32	5227-5231	mode	_
 35-33	5232-5233	.	_
 
+Text=The raw data were reconstructed by filtered-back projection and the emission data were re-binned into a series of 3D sonograms.
 36-1	5234-5237	The	_
 36-2	5238-5241	raw	_
 36-3	5242-5246	data	_
@@ -994,6 +1030,7 @@
 36-20	5351-5360	sonograms	_
 36-21	5361-5362	.	_
 
+Text=Scanning time was 90-min in length, wherein 30 frames were defined: 1 to 15 of 1-min duration and 16 to 30 of 5-min duration.
 37-1	5363-5371	Scanning	_
 37-2	5372-5376	time	_
 37-3	5377-5380	was	_
@@ -1022,6 +1059,7 @@
 37-26	5481-5489	duration	_
 37-27	5490-5491	.	_
 
+Text=A custom-fitted thermoplastic mask (Tru-Scan Imaging, Annapolis) was created for each subject and used with a head fixation system during PET scans to reduce movement during the acquisition.
 38-1	5492-5493	A	_
 38-2	5494-5507	custom-fitted	_
 38-3	5508-5521	thermoplastic	_
@@ -1055,6 +1093,7 @@
 38-31	5673-5684	acquisition	_
 38-32	5685-5686	.	_
 
+Text=[11C] - (+) -PHNO was injected as a bolus followed by a flush of 2 mL saline into an intravenous line placed in an antecubital vein.
 39-1	5687-5688	[	_
 39-2	5689-5692	11C	_
 39-3	5693-5694	]	_
@@ -1087,6 +1126,7 @@
 39-30	5818-5822	vein	_
 39-31	5823-5824	.	_
 
+Text=The mean radioactivity dose was 9.38 (±1.34) mCi, with a specific activity of 1160.82 (±401.58) mCi/µmol, an injected mass of 2.07 (±0.46) µg, and an injected mass per kilogram of 0.03 (±0.008) µg/Kg.
 40-1	5825-5828	The	_
 40-2	5829-5833	mean	_
 40-3	5834-5847	radioactivity	_
@@ -1133,6 +1173,7 @@
 40-44	6030-6035	µg/Kg	_
 40-45	6036-6037	.	_
 
+Text=None of the participants included in this sample reported nausea associated with [11C] - (+) -PHNO injection.
 41-1	6038-6042	None	_
 41-2	6043-6045	of	_
 41-3	6046-6049	the	_
@@ -1156,9 +1197,11 @@
 41-21	6141-6150	injection	_
 41-22	6151-6152	.	_
 
+Text=2.3.
 42-1	6153-6156	2.3	_
 42-2	6157-6158	.	_
 
+Text=MRI imaging Subjects provided a T1-weighted MRI image (TE=17, TR=6000, FOV=22 cm 2D, 256×256, slice thickness of 2 mm, NEX=2) acquired on a 1.5 T Signa scanner (General Electric Medical Systems, Milwaukee, WI).
 43-1	6159-6162	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 43-2	6163-6170	imaging	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 43-3	6171-6179	Subjects	_
@@ -1205,6 +1248,7 @@
 43-44	6378-6379	)	_
 43-45	6380-6381	.	_
 
+Text=These images were used to enhance the analysis of PET scans, via co-registration (described in detail below, under [11C] - (+) -PHNO Image Analyses).
 44-1	6382-6387	These	_
 44-2	6388-6394	images	_
 44-3	6395-6399	were	_
@@ -1239,9 +1283,11 @@
 44-32	6537-6538	)	_
 44-33	6539-6540	.	_
 
+Text=2.4.
 45-1	6541-6544	2.4	_
 45-2	6545-6546	.	_
 
+Text=[11C] - (+) -PHNO Image Analyses Two complementary approaches were employed for quantifying [11C] - (+) -PHNO binding in the retina.
 46-1	6547-6548	[	_
 46-2	6549-6552	11C	_
 46-3	6553-6554	]	_
@@ -1273,6 +1319,7 @@
 46-29	6680-6686	retina	_
 46-30	6687-6688	.	_
 
+Text=For the first approach (termed “ manual ”), retina ROIs were drawn manually on each subjects averaged dynamic [11C] - (+) -PHNO image in native-space (on every slice where the retina could be observed), employing previous PET guidelines (See Fig.
 47-1	6689-6692	For	_
 47-2	6693-6696	the	_
 47-3	6697-6702	first	_
@@ -1326,10 +1373,12 @@
 47-51	6942-6945	Fig	_
 47-52	6946-6947	.	_
 
+Text=2).
 48-1	6948-6949	2	_
 48-2	6950-6951	)	_
 48-3	6952-6953	.	_
 
+Text=These manually drawn ROIs were then used to extract time activity curves from each subjects' dynamic PET image in native-space (See Fig.
 49-1	6954-6959	These	_
 49-2	6960-6968	manually	_
 49-3	6969-6974	drawn	_
@@ -1356,10 +1405,12 @@
 49-24	7088-7091	Fig	_
 49-25	7092-7093	.	_
 
+Text=3).
 50-1	7094-7095	3	_
 50-2	7096-7097	)	_
 50-3	7098-7099	.	_
 
+Text=This was done with reference to each subjects co-registered T1-weighted MRI image, to confirm the placement of the retina ROIs.
 51-1	7100-7104	This	_
 51-2	7105-7108	was	_
 51-3	7109-7113	done	_
@@ -1383,6 +1434,7 @@
 51-21	7223-7227	ROIs	_
 51-22	7228-7229	.	_
 
+Text=The co-registration of each subjects MRI to PET space was done using the normalized mutual information algorithm as implemented in SPM2 (SPM2, Wellcome Department of Cognitive Neurology, London; http: //www.fil.ion.ucl.ac.uk/spm).
 52-1	7230-7233	The	_
 52-2	7234-7249	co-registration	_
 52-3	7250-7252	of	_
@@ -1421,6 +1473,7 @@
 52-36	7464-7465	)	_
 52-37	7466-7467	.	_
 
+Text=The TACs from the manually drawn retina ROIs were analyzed using both the Simplified Reference Tissue Method (SRTM) and Ichise's Multilinear Reference Tissue Model (MRTM), both of which have been validated for use with [11C] - (+) -PHNO.
 53-1	7468-7471	The	_
 53-2	7472-7476	TACs	_
 53-3	7477-7481	from	_
@@ -1471,6 +1524,7 @@
 53-48	7709-7714	-PHNO	_
 53-49	7715-7716	.	_
 
+Text=For both models, the cerebellum was used as the reference region to derive a quantitative estimate of binding – binding potential relative to the non-displaceable compartment (BPND) – as defined by the consensus nomenclature for in vivo imaging of reversibly binding radioligands.
 54-1	7717-7720	For	_
 54-2	7721-7725	both	_
 54-3	7726-7732	models	_
@@ -1518,6 +1572,7 @@
 54-45	7987-7999	radioligands	_
 54-46	8000-8001	.	_
 
+Text=It has been noted for in vivo human studies with [11C] - (+) -PHNO that there is a small displaceable signal in cerebellum (BPND=~0.4) representing binding to D3R in cerebellar lobes IX and X.
 55-1	8002-8004	It	_
 55-2	8005-8008	has	_
 55-3	8009-8013	been	_
@@ -1560,6 +1615,7 @@
 55-40	8198-8199	X	_
 55-41	8200-8201	.	_
 
+Text=Thus, while we have done our best to exclude lobes IX and X in our cerebellar ROI, using the cerebellum as the reference region with [11C] - (+) -PHNO may result in some underestimation of BPND at D3R.
 56-1	8202-8206	Thus	_
 56-2	8207-8208	,	_
 56-3	8209-8214	while	_
@@ -1606,6 +1662,7 @@
 56-44	8405-8408	D3R	_
 56-45	8409-8410	.	_
 
+Text=Moreover, we recognize that use of the SRTM and MRTM is predicated on the assumption that blood flow into and out of the target and reference regions are similar.
 57-1	8411-8419	Moreover	_
 57-2	8420-8421	,	_
 57-3	8422-8424	we	_
@@ -1638,6 +1695,7 @@
 57-30	8566-8573	similar	_
 57-31	8574-8575	.	_
 
+Text=This assumption may not be true for both the blood-brain barrier (cerebellar reference region) and the retina-brain barrier (retina target region), thus biasing our estimate of BPND.
 58-1	8576-8580	This	_
 58-2	8581-8591	assumption	_
 58-3	8592-8595	may	_
@@ -1672,6 +1730,7 @@
 58-32	8758-8762	BPND	_
 58-33	8763-8764	.	_
 
+Text=This poses a limitation in quantification which can only be avoided using arterial sampling of [11C] - (+) -PHNO, which is both invasive and costly.
 59-1	8765-8769	This	_
 59-2	8770-8775	poses	_
 59-3	8776-8777	a	_
@@ -1704,6 +1763,7 @@
 59-30	8911-8917	costly	_
 59-31	8918-8919	.	_
 
+Text=For the second approach (termed “ automated ”), the basis function implementation of the SRTM was applied to the dynamic PET images to generate parametric voxel-wise BPND maps using PMOD (v2.7, PMOD Technologies, Zurich, Switzerland).
 60-1	8920-8923	For	_
 60-2	8924-8927	the	_
 60-3	8928-8934	second	_
@@ -1749,6 +1809,7 @@
 60-43	9160-9161	)	_
 60-44	9162-9163	.	_
 
+Text=These images were spatially normalized into MNI brain space by Nearest Neighbour Interpolation with a voxel size fixed in 2 × 2 × 2 mm3 using SPM2.
 61-1	9164-9169	These	_
 61-2	9170-9176	images	_
 61-3	9177-9181	were	_
@@ -1778,6 +1839,7 @@
 61-27	9306-9310	SPM2	_
 61-28	9311-9312	.	_
 
+Text=Regional BPND estimates were then derived from a manually drawn retina ROI defined in MNI space.
 62-1	9313-9321	Regional	_
 62-2	9322-9326	BPND	_
 62-3	9327-9336	estimates	_
@@ -1796,6 +1858,7 @@
 62-16	9403-9408	space	_
 62-17	9409-9410	.	_
 
+Text=The drawing of this ROI was aided by superimposing the average of the parametric voxel-wise BPND maps of all the subjects onto an MNI template.
 63-1	9411-9414	The	_
 63-2	9415-9422	drawing	_
 63-3	9423-9425	of	_
@@ -1823,9 +1886,11 @@
 63-25	9545-9553	template	_
 63-26	9554-9555	.	_
 
+Text=2.5.
 64-1	9556-9559	2.5	_
 64-2	9560-9561	.	_
 
+Text=Post-mortem retinal tissue samples Post-mortem retinal tissues from four patients with schizophrenia, and four age- and sex-matched healthy controls, were acquired from the St. Michael's Hospital Human Eye Biobank (http: //www.stmichaelshospital.com/eye-biobank/; Toronto, Ontario, Canada) (See Table 3).
 65-1	9562-9573	Post-mortem	_
 65-2	9574-9581	retinal	_
 65-3	9582-9588	tissue	_
@@ -1876,6 +1941,7 @@
 65-48	9875-9876	)	_
 65-49	9877-9878	.	_
 
+Text=Samples were formalin-fixed paraffin-embedded (FFPE).
 66-1	9879-9886	Samples	_
 66-2	9887-9891	were	_
 66-3	9892-9906	formalin-fixed	_
@@ -1885,9 +1951,11 @@
 66-7	9932-9933	)	_
 66-8	9934-9935	.	_
 
+Text=2.6.
 67-1	9936-9939	2.6	_
 67-2	9940-9941	.	_
 
+Text=Sample preparation and high-resolution parallel reaction monitoring (PRM) analyses Total sample homogenates (approx.
 68-1	9942-9948	Sample	_
 68-2	9949-9960	preparation	_
 68-3	9961-9964	and	_
@@ -1906,6 +1974,7 @@
 68-16	10054-10060	approx	_
 68-17	10061-10062	.	_
 
+Text=2 µg) were subjected to a modified filter-aided sample preparation (FASP) protocol as previously described, with additional precipitation using an equal volume of 2M KCL for depletion of residual detergents.
 69-1	10063-10064	2	_
 69-2	10065-10067	µg	_
 69-3	10068-10069	)	_
@@ -1942,6 +2011,7 @@
 69-34	10263-10273	detergents	_
 69-35	10274-10275	.	_
 
+Text=Lys-C and tryptic peptides were combined and processed on Pierce C18 Tips reversed phase resin (Thermo Scientific) for desalting and concentration.
 70-1	10276-10281	Lys-C	_
 70-2	10282-10285	and	_
 70-3	10286-10293	tryptic	_
@@ -1967,6 +2037,7 @@
 70-23	10411-10424	concentration	_
 70-24	10425-10426	.	_
 
+Text=High-resolution parallel reaction monitoring (HR-PRM) analyses were performed on a Q Exactive HF quadrupole–orbitrap mass spectrometer (Thermo Fisher Scientific) coupled to an EASY nanoflow liquid chromatography (EASY-nLC™) system (Thermo Fisher Scientific).
 71-1	10427-10442	High-resolution	_
 71-2	10443-10451	parallel	_
 71-3	10452-10460	reaction	_
@@ -2008,6 +2079,7 @@
 71-39	10691-10692	)	_
 71-40	10693-10694	.	_
 
+Text=Peptides were separated on a 50 cm column (75 µm inner diameter) packed with PepMap®RSLC C18 resin at 60 °C, using a flow rate of 250 nl/min on a 0% –42% acetonitrile (ACN) in 0.1% formic acid (FA) gradient and Buffer B (80% ACN with 0.1% FA) over 60 min.
 72-1	10695-10703	Peptides	_
 72-2	10704-10708	were	_
 72-3	10709-10718	separated	_
@@ -2074,6 +2146,7 @@
 72-64	10960-10963	min	_
 72-65	10964-10965	.	_
 
+Text=Column washes were performed on a 30% –90% acetonitrile in 0.1% formic acid gradient for 2 min.
 73-1	10966-10972	Column	_
 73-2	10973-10979	washes	_
 73-3	10980-10984	were	_
@@ -2096,6 +2169,7 @@
 73-20	11060-11063	min	_
 73-21	11064-11065	.	_
 
+Text=The IonMax electrospray ion source settings were: spray voltage, +1900 V and capillary temperature, +250 °C.
 74-1	11066-11069	The	_
 74-2	11070-11076	IonMax	_
 74-3	11077-11089	electrospray	_
@@ -2117,6 +2191,7 @@
 74-19	11174-11176	°C	_
 74-20	11177-11178	.	_
 
+Text=In the PRM method, we only observed charge states as described in the inclusion list and skyline file.
 75-1	11179-11181	In	_
 75-2	11182-11185	the	_
 75-3	11186-11189	PRM	_
@@ -2138,6 +2213,7 @@
 75-19	11277-11281	file	_
 75-20	11282-11283	.	_
 
+Text=The targeted MS/MS was run at an Orbitrap resolution of 30,000 at m/z 200, an AGC target value of 2 × 105, and maximum fill times of 100 ms.
 76-1	11284-11287	The	_
 76-2	11288-11296	targeted	_
 76-3	11297-11302	MS/MS	_
@@ -2171,6 +2247,7 @@
 76-31	11423-11425	ms	_
 76-32	11426-11427	.	_
 
+Text=The targeted peptide was isolated using a 0.8 m/z unit window.
 77-1	11428-11431	The	_
 77-2	11432-11440	targeted	_
 77-3	11441-11448	peptide	_
@@ -2184,6 +2261,7 @@
 77-11	11483-11489	window	_
 77-12	11490-11491	.	_
 
+Text=Fragmentation was performed with normalized collision energy (NCE) of 32 eV.
 78-1	11492-11505	Fragmentation	_
 78-2	11506-11509	was	_
 78-3	11510-11519	performed	_
@@ -2199,6 +2277,7 @@
 78-13	11567-11569	eV	_
 78-14	11570-11571	.	_
 
+Text=In the PRM method, we only observed charge states as described in the inclusion list and skyline file.
 79-1	11572-11574	In	_
 79-2	11575-11578	the	_
 79-3	11579-11582	PRM	_
@@ -2220,6 +2299,7 @@
 79-19	11670-11674	file	_
 79-20	11675-11676	.	_
 
+Text=Seven peptides and their corresponding heavy peptides (Table 4) were comprised in the inclusion list.
 80-1	11677-11682	Seven	_
 80-2	11683-11691	peptides	_
 80-3	11692-11695	and	_
@@ -2239,6 +2319,7 @@
 80-17	11775-11779	list	_
 80-18	11780-11781	.	_
 
+Text=Target peptides were selected based on in silico cleavage of the proteins using the Peptide Mass feature of ExPASy bioinformatics portal (http: //web.expasy.org/peptide_mass/).
 81-1	11782-11788	Target	_
 81-2	11789-11797	peptides	_
 81-3	11798-11802	were	_
@@ -2267,6 +2348,7 @@
 81-26	11959-11960	)	_
 81-27	11961-11962	.	_
 
+Text=The following settings were used: enzyme (trypsin); 0 missed cleavage and display the peptides with a mass bigger than 500 Da.
 82-1	11963-11966	The	_
 82-2	11967-11976	following	_
 82-3	11977-11985	settings	_
@@ -2294,9 +2376,11 @@
 82-25	12090-12092	Da	_
 82-26	12093-12094	.	_
 
+Text=2.7.
 83-1	12095-12098	2.7	_
 83-2	12099-12100	.	_
 
+Text=PRM data analysis Mass spectrometry analysis was performed at the SPARC Biocentre (The Hospital for Sick Children; SickKids, Toronto).
 84-1	12101-12104	PRM	_
 84-2	12105-12109	data	_
 84-3	12110-12118	analysis	_
@@ -2322,6 +2406,7 @@
 84-23	12237-12238	)	_
 84-24	12239-12240	.	_
 
+Text=We attempted to quantify 4 and 3 unique peptides for D2R and D3R, respectively (see Table 4).
 85-1	12241-12243	We	_
 85-2	12244-12253	attempted	_
 85-3	12254-12256	to	_
@@ -2344,6 +2429,7 @@
 85-20	12335-12336	)	_
 85-21	12337-12338	.	_
 
+Text=However, because of the relatively low protein yield in our FFPE slide samples, only a single unique peptide of either protein was detected and subsequently used for identification.
 86-1	12339-12346	However	_
 86-2	12347-12348	,	_
 86-3	12349-12356	because	_
@@ -2376,6 +2462,7 @@
 86-30	12507-12521	identification	_
 86-31	12522-12523	.	_
 
+Text=Data analysis and quantification of PRM runs was performed using Skyline software.
 87-1	12524-12528	Data	_
 87-2	12529-12537	analysis	_
 87-3	12538-12541	and	_
@@ -2390,6 +2477,7 @@
 87-12	12597-12605	software	_
 87-13	12606-12607	.	_
 
+Text=Relative quantification of D2R and D3R peptides from schizophrenia patient and control samples was based on the sum of the area under the curves (AUC) of the top three most intense peptide fragments.
 88-1	12608-12616	Relative	_
 88-2	12617-12631	quantification	_
 88-3	12632-12634	of	_
@@ -2427,6 +2515,7 @@
 88-35	12799-12808	fragments	_
 88-36	12809-12810	.	_
 
+Text=The use of a subset of three to six fragment ions (with acceptable peak purity) for peptide quantitation has been previously suggested to yield more accurate results than the entire set.
 89-1	12811-12814	The	_
 89-2	12815-12818	use	_
 89-3	12819-12821	of	_
@@ -2462,6 +2551,7 @@
 89-33	12995-12998	set	_
 89-34	12999-13000	.	_
 
+Text=Endogenous peptides were matched to heavy isotope peptides based on their similar retention times and transition patterns.
 90-1	13001-13011	Endogenous	_
 90-2	13012-13020	peptides	_
 90-3	13021-13025	were	_
@@ -2481,9 +2571,11 @@
 90-17	13114-13122	patterns	_
 90-18	13123-13124	.	_
 
+Text=2.8.
 91-1	13125-13128	2.8	_
 91-2	13129-13130	.	_
 
+Text=Statistical analyses Statistical analyses were performed using IBM SPSS (v.20) and GraphPad (v.5.0; GraphPad Software, La Jolla California).
 92-1	13131-13142	Statistical	_
 92-2	13143-13151	analyses	_
 92-3	13152-13163	Statistical	_
@@ -2510,6 +2602,7 @@
 92-24	13275-13276	)	_
 92-25	13277-13278	.	_
 
+Text=Normality of variables was determined using the D'Agostino-Pearson test.
 93-1	13279-13288	Normality	_
 93-2	13289-13291	of	_
 93-3	13292-13301	variables	_
@@ -2521,6 +2614,7 @@
 93-9	13346-13350	test	_
 93-10	13351-13352	.	_
 
+Text=The significance level for all tests was set at p <.05 (two-tailed).
 94-1	13353-13356	The	_
 94-2	13357-13369	significance	_
 94-3	13370-13375	level	_

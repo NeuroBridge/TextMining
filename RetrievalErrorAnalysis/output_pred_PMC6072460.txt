@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=An approach to directly link ICA and seed-based functional connectivity: application to schizophrenia Independent component analysis (ICA) and seed-based analyses are widely used techniques for studying intrinsic neuronal activity in task-based or resting scans.
 1-1	0-2	An	_
 1-2	3-11	approach	_
 1-3	12-14	to	_
@@ -41,6 +42,7 @@
 1-37	259-264	scans	_
 1-38	265-266	.	_
 
+Text=In this work, we show there is a direct link between the two, and show that there are some important differences between the two approaches in terms of what information they capture.
 2-1	267-269	In	_
 2-2	270-274	this	_
 2-3	275-279	work	_
@@ -77,6 +79,7 @@
 2-34	443-450	capture	_
 2-35	451-452	.	_
 
+Text=We developed an enhanced connectivity-matrix independent component analysis (cmICA) for calculating whole brain voxel maps of functional connectivity, which reduces the computational complexity of voxel-based connectivity analysis on performing many temporal correlations.
 3-1	453-455	We	_
 3-2	456-465	developed	_
 3-3	466-468	an	_
@@ -114,6 +117,7 @@
 3-35	715-727	correlations	_
 3-36	728-729	.	_
 
+Text=We also show there is a mathematical equivalency between parcellations on voxel-to-voxel functional connectivity and simplified cmICA.
 4-1	730-732	We	_
 4-2	733-737	also	_
 4-3	738-742	show	_
@@ -133,6 +137,7 @@
 4-17	858-863	cmICA	_
 4-18	864-865	.	_
 
+Text=Next, we used this cost-efficient data-driven method to examine the resting state fMRI connectivity in schizophrenia patients (SZ) and healthy controls (HC) on a whole brain scale and further quantified the relationship between brain functional connectivity and cognitive performances measured by the Measurement and Treatment Research to Improve Cognition in Schizophrenia (MATRICS) battery.
 5-1	866-870	Next	_
 5-2	871-872	,	_
 5-3	873-875	we	_
@@ -195,6 +200,7 @@
 5-60	1257-1264	battery	_
 5-61	1265-1266	.	_
 
+Text=Current results suggest that SZ exhibit a wide-range abnormality, primarily a decrease, in functional connectivity both between networks and within different network hubs.
 6-1	1267-1274	Current	_
 6-2	1275-1282	results	_
 6-3	1283-1290	suggest	_
@@ -222,6 +228,7 @@
 6-25	1435-1439	hubs	_
 6-26	1440-1441	.	_
 
+Text=Specific functional connectivity decreases were associated with MATRICS performance deficits.
 7-1	1442-1450	Specific	_
 7-2	1451-1461	functional	_
 7-3	1462-1474	connectivity	_
@@ -234,6 +241,7 @@
 7-10	1526-1534	deficits	_
 7-11	1535-1536	.	_
 
+Text=In addition, we found that resting state functional connectivity decreases was extensively associated with aging regardless of groups.
 8-1	1537-1539	In	_
 8-2	1540-1548	addition	_
 8-3	1549-1550	,	_
@@ -255,6 +263,7 @@
 8-19	1665-1671	groups	_
 8-20	1672-1673	.	_
 
+Text=In contrast, there was no relationship between positive and negative symptoms in the patients and functional connectivity.
 9-1	1674-1676	In	_
 9-2	1677-1685	contrast	_
 9-3	1686-1687	,	_
@@ -275,6 +284,7 @@
 9-18	1784-1796	connectivity	_
 9-19	1797-1798	.	_
 
+Text=In sum, we have developed a novel mathematical relationship between ICA and seed-based connectivity that reduces computational complexity, which has broad applicability, and showed a specific application of this approach to characterize connectivity changes associated with cognitive scores in SZ.
 10-1	1799-1801	In	_
 10-2	1802-1805	sum	_
 10-3	1806-1807	,	_
@@ -320,10 +330,12 @@
 10-43	2096-2098	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 10-44	2099-2100	.	_
 
+Text=Methods 1.
 11-1	2101-2108	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	2109-2110	1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	2111-2112	.	_
 
+Text=Theory We present a novel simplification of cmICA that is specifically applicable to fMRI data sets, when connectivity between two voxels is defined as the temporal cross-correlation between them.
 12-1	2113-2119	Theory	_
 12-2	2120-2122	We	_
 12-3	2123-2130	present	_
@@ -356,6 +368,7 @@
 12-30	2305-2309	them	_
 12-31	2310-2311	.	_
 
+Text=This simplification arises because the first step of ICA is principle component analysis (PCA), and we show that PCA of a voxel-based connectivity map can be done directly based on the BOLD signal, without first calculating individual connectivity maps.
 13-1	2312-2316	This	_
 13-2	2317-2331	simplification	_
 13-3	2332-2338	arises	_
@@ -401,6 +414,7 @@
 13-43	2564-2568	maps	_
 13-44	2569-2570	.	_
 
+Text=Some of the advantages of cmICA and its meaning have been discussed previously in the context of diffusion imaging data, and these ideas apply here as well.
 14-1	2571-2575	Some	_
 14-2	2576-2578	of	_
 14-3	2579-2582	the	_
@@ -431,6 +445,7 @@
 14-28	2723-2727	well	_
 14-29	2728-2729	.	_
 
+Text=Specifically, we will decompose each subject ’ s voxel-wise brain connectivity matrix (C = ΣSkRk) into a sum of source regions (Sk), and their respective connectivity maps (Rk) to the whole brain with that source.
 15-1	2730-2742	Specifically	_
 15-2	2743-2744	,	_
 15-3	2745-2747	we	_
@@ -476,6 +491,7 @@
 15-43	2944-2950	source	_
 15-44	2951-2952	.	_
 
+Text=One limitation of the original cmICA algorithm is the high computational burden if employed on a voxel-wise basis for the whole brain, as it requires generating the entire connectivity matrix prior to the ICA decomposition as well as data reduction on a fairly large adjacency matrix for each subject.
 16-1	2953-2956	One	_
 16-2	2957-2967	limitation	_
 16-3	2968-2970	of	_
@@ -528,6 +544,7 @@
 16-50	3247-3254	subject	_
 16-51	3255-3256	.	_
 
+Text=To calculate functional connectivity (temporal correlation) per voxel pairs from a standard 3mm3 fMRI and store whole brain connectivity matrices would require 1×109~2×109 times of correlation calculations and 18~26GB of memory per subject, depending on the mask size.
 17-1	3257-3259	To	_
 17-2	3260-3269	calculate	_
 17-3	3270-3280	functional	_
@@ -571,6 +588,7 @@
 17-41	3523-3527	size	_
 17-42	3528-3529	.	_
 
+Text=In practice, it is critical to optimize the algorithm in terms of calculation speed and memory cost.
 18-1	3530-3532	In	_
 18-2	3533-3541	practice	_
 18-3	3542-3543	,	_
@@ -591,6 +609,7 @@
 18-18	3626-3630	cost	_
 18-19	3631-3632	.	_
 
+Text=1) Single subject optimization The original cmICA performed PCA/ICA directly on the brain connectivity matrix C, and parcellated it into spatially independent source maps S and corresponding connectivity profile maps R that define the connectivity of each source S to the whole brain, i.e., C = RS.
 19-1	3633-3634	1	_
 19-2	3635-3636	)	_
 19-3	3637-3643	Single	_
@@ -644,6 +663,7 @@
 19-51	3932-3934	RS	_
 19-52	3935-3936	.	_
 
+Text=In the case of functional connectivity, each connectivity element in matrix C is carried out as a standard Pearson ’ s correlation coefficient on temporal courses per voxel pair in fMRI BOLD signal.
 20-1	3937-3939	In	_
 20-2	3940-3943	the	_
 20-3	3944-3948	case	_
@@ -680,6 +700,7 @@
 20-34	4129-4135	signal	_
 20-35	4136-4137	.	_
 
+Text=The connectivity matrix C (voxel×voxel) from BOLD data X (time×voxel) is where is the temporally normalized X for each voxel, where μx is the mean and σx is the standard deviation.
 21-1	4138-4141	The	_
 21-2	4142-4154	connectivity	_
 21-3	4155-4161	matrix	_
@@ -718,6 +739,7 @@
 21-36	4313-4322	deviation	_
 21-37	4323-4324	.	_
 
+Text=A standard SVD/PCA analysis of gives (where U and V are the unitary matrices and Σ is the eigenvalue diagonal matrix), which implies that.
 22-1	4325-4326	A	_
 22-2	4327-4335	standard	_
 22-3	4336-4343	SVD/PCA	_
@@ -747,6 +769,7 @@
 22-27	4461-4465	that	_
 22-28	4466-4467	.	_
 
+Text=In other words PCA decomposition of C can be calculated from PCA of, importantly without calculating the connectivity matrix C. If W is ICA demixing matrix after ICA on the reduced dimension PCA output corresponding to U, then with C = RS, we have This clearly shows that an ICA decomposition of C can simply be derived from the PCA/ICA decomposition of without prior computation of functional connectivity matrix C (see in Appendix 1).
 23-1	4468-4470	In	_
 23-2	4471-4476	other	_
 23-3	4477-4482	words	_
@@ -828,6 +851,7 @@
 23-79	4907-4908	)	_
 23-80	4909-4910	.	_
 
+Text=2) Group level derivation The group-level cmICA adapts the same 2-step PCA procedure as is typically used in group ICA, where it runs the standard 1st PCA on individual subject, and concatenates the PCA results per subject to run the 2nd PCA and ICA to compute the group maps.
 24-1	4911-4912	2	_
 24-2	4913-4914	)	_
 24-3	4915-4920	Group	_
@@ -882,6 +906,7 @@
 24-52	5185-5189	maps	_
 24-53	5190-5191	.	_
 
+Text=However, since the connectivity matrix C is not computed; the original group level cmICA ’ s back-reconstruction has no individual input to project from.
 25-1	5192-5199	However	_
 25-2	5200-5201	,	_
 25-3	5202-5207	since	_
@@ -910,6 +935,7 @@
 25-26	5342-5346	from	_
 25-27	5347-5348	.	_
 
+Text=Therefore, it needs a new derivation accordingly.
 26-1	5349-5358	Therefore	_
 26-2	5359-5360	,	_
 26-3	5361-5363	it	_
@@ -920,6 +946,7 @@
 26-8	5387-5398	accordingly	_
 26-9	5399-5400	.	_
 
+Text=Here, we applied the similar GICA principle from previous work complemented by matching each subjects loadings/contributions to the final PCA/ICA, where it yielded.
 27-1	5401-5405	Here	_
 27-2	5406-5407	,	_
 27-3	5408-5410	we	_
@@ -947,6 +974,7 @@
 27-25	5559-5566	yielded	_
 27-26	5567-5568	.	_
 
+Text=where is the reduced SVD/PCA result from single subject k, and is the reduced SVD/PCA result at concatenated group level where is the partition of for the subject k, and W is the demixing matrix in ICA decomposition.
 28-1	5569-5574	where	_
 28-2	5575-5577	is	_
 28-3	5578-5581	the	_
@@ -989,6 +1017,7 @@
 28-40	5773-5786	decomposition	_
 28-41	5787-5788	.	_
 
+Text=We chose GICA for back-reconstruction instead of other approaches, e.g., dual regression, because it filters out the artifact (low PCA variance) contribution to the R maps Using this approach, cmICA for functional connectivity is now optimized to be to an execution of spatial ICA on normalized BOLD data, rather than on the original voxel-wise connectivity matrix.
 29-1	5789-5791	We	_
 29-2	5792-5797	chose	_
 29-3	5798-5802	GICA	_
@@ -1054,6 +1083,7 @@
 29-63	6154-6160	matrix	_
 29-64	6161-6162	.	_
 
+Text=This eliminates the original limitation of high memory and computation costs.
 30-1	6163-6167	This	_
 30-2	6168-6178	eliminates	_
 30-3	6179-6182	the	_
@@ -1067,6 +1097,7 @@
 30-11	6234-6239	costs	_
 30-12	6240-6241	.	_
 
+Text=3) cmICA maps as seeds for seed-based connectivity Seed-based approach for functional connectivity analysis requires creating seed regions first.
 31-1	6242-6243	3	_
 31-2	6244-6245	)	_
 31-3	6246-6251	cmICA	_
@@ -1089,6 +1120,7 @@
 31-20	6382-6387	first	_
 31-21	6388-6389	.	_
 
+Text=The (average) time series of BOLD signal is extracted from the seed and the connectivity map is then computed by temporal correlating this reference time series with the time courses of all other brain voxels.
 32-1	6390-6393	The	_
 32-2	6394-6395	(	_
 32-3	6396-6403	average	_
@@ -1128,6 +1160,7 @@
 32-37	6594-6600	voxels	_
 32-38	6601-6602	.	_
 
+Text=However, there is no golden standard for seed selection and there are numerous options available.
 33-1	6603-6610	However	_
 33-2	6611-6612	,	_
 33-3	6613-6618	there	_
@@ -1146,6 +1179,7 @@
 33-16	6691-6700	available	_
 33-17	6701-6702	.	_
 
+Text=One option is to use the ICA source maps S as seeding regions or to use seed regions as constraints in a spatial ICA analysis.
 34-1	6703-6706	One	_
 34-2	6707-6713	option	_
 34-3	6714-6716	is	_
@@ -1173,6 +1207,7 @@
 34-25	6820-6828	analysis	_
 34-26	6829-6830	.	_
 
+Text=In optimized cmICA for functional connectivity analysis, the derived source maps S can be interpreted as “ seed ” regions.
 35-1	6831-6833	In	_
 35-2	6834-6843	optimized	_
 35-3	6844-6849	cmICA	_
@@ -1196,6 +1231,7 @@
 35-21	6946-6953	regions	_
 35-22	6954-6955	.	_
 
+Text=Since in spatial ICA, the temporal component T represents each S map ’ s common time course, the connectivity map for each seed region S can be computed as the temporal correlation between the representative time course T and all brain BOLD time series.
 36-1	6956-6961	Since	_
 36-2	6962-6964	in	_
 36-3	6965-6972	spatial	_
@@ -1244,6 +1280,7 @@
 36-46	7204-7210	series	_
 36-47	7211-7212	.	_
 
+Text=i.e., a seed-based correlation map is equivalent to a (normalized) connectivity map R in cmICA, using an ICA-defined source as seed.
 37-1	7213-7217	i.e.	_
 37-2	7218-7219	,	_
 37-3	7220-7221	a	_
@@ -1271,6 +1308,7 @@
 37-25	7344-7348	seed	_
 37-26	7349-7350	.	_
 
+Text=We revisit this topic in the Discussion.
 38-1	7351-7353	We	_
 38-2	7354-7361	revisit	_
 38-3	7362-7366	this	_
@@ -1280,6 +1318,7 @@
 38-7	7380-7390	Discussion	_
 38-8	7391-7392	.	_
 
+Text=In cmICA, S and R maps represent two different spatial components, which has been interpreted in extensively.
 39-1	7393-7395	In	_
 39-2	7396-7401	cmICA	_
 39-3	7402-7403	,	_
@@ -1301,6 +1340,7 @@
 39-19	7492-7503	extensively	_
 39-20	7504-7505	.	_
 
+Text=S maps define the spatial segregations of connectivity restricted by statistical independence, whose distributions are relatively sparse, (i.e., super-Gaussian).
 40-1	7506-7507	S	_
 40-2	7508-7512	maps	_
 40-3	7513-7519	define	_
@@ -1327,6 +1367,7 @@
 40-24	7670-7671	)	_
 40-25	7672-7673	.	_
 
+Text=S are also more consistent across different individuals, mental status (task/rest) and disease states.
 41-1	7674-7675	S	_
 41-2	7676-7679	are	_
 41-3	7680-7684	also	_
@@ -1346,6 +1387,7 @@
 41-17	7772-7778	states	_
 41-18	7779-7780	.	_
 
+Text=R maps, the loadings in ICA, define the shared connectivity maps using the corresponding S regions as “ seeds ”, without spatial independence or stationary constraints.
 42-1	7781-7782	R	_
 42-2	7783-7787	maps	_
 42-3	7788-7789	,	_
@@ -1377,6 +1419,7 @@
 42-29	7940-7951	constraints	_
 42-30	7952-7953	.	_
 
+Text=Therefore, R maps are less sparse and may capture more inter-subject variability.
 43-1	7954-7963	Therefore	_
 43-2	7964-7965	,	_
 43-3	7966-7967	R	_
@@ -1392,6 +1435,7 @@
 43-13	8024-8035	variability	_
 43-14	8036-8037	.	_
 
+Text=An inter-subject variability test of S and R was conducted in Appendix 2.
 44-1	8038-8040	An	_
 44-2	8041-8054	inter-subject	_
 44-3	8055-8066	variability	_
@@ -1407,9 +1451,11 @@
 44-13	8109-8110	2	_
 44-14	8111-8112	.	_
 
+Text=2.
 45-1	8113-8114	2	_
 45-2	8115-8116	.	_
 
+Text=Subjects Subjects were recruited via a Center of Biomedical Research Excellence (COBRE, http: //cobre.mrn.org) program at the Mind Research Network.
 46-1	8117-8125	Subjects	_
 46-2	8126-8134	Subjects	_
 46-3	8135-8139	were	_
@@ -1436,6 +1482,7 @@
 46-24	8261-8268	Network	_
 46-25	8269-8270	.	_
 
+Text=In this paper, we used fMRI data from the same group of SZ subjects (n = 60, age = 38.6 ± 3.4 years) and HC subjects (n = 61, age = 35.0 ± 10.5 years) that we previously studied for diffusion imaging.
 47-1	8271-8273	In	_
 47-2	8274-8278	this	_
 47-3	8279-8284	paper	_
@@ -1487,6 +1534,7 @@
 47-49	8470-8477	imaging	_
 47-50	8478-8479	.	_
 
+Text=Four SZ and three HC subjects were excluded (5 without fMRI collections and 2 with excessive motions - maximum translation above 3mm or maximum rotation above 3°).
 48-1	8480-8484	Four	_
 48-2	8485-8487	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 48-3	8488-8491	and	_
@@ -1518,6 +1566,7 @@
 48-29	8643-8644	)	_
 48-30	8645-8646	.	_
 
+Text=COBRE data is also shared via the COINS data exchange (http: //coins.mrn.org/dx).
 49-1	8647-8652	COBRE	_
 49-2	8653-8657	data	_
 49-3	8658-8660	is	_
@@ -1535,6 +1584,7 @@
 49-15	8729-8730	)	_
 49-16	8731-8732	.	_
 
+Text=Each subject provided written informed consent according to guidelines at the University of New Mexico and compensated for their participation.
 50-1	8733-8737	Each	_
 50-2	8738-8745	subject	_
 50-3	8746-8754	provided	_
@@ -1557,6 +1607,7 @@
 50-20	8862-8875	participation	_
 50-21	8876-8877	.	_
 
+Text=Prior to inclusion in the study, all healthy subjects were screened to ensure they were free from neurological or psychiatric diseases (DSM-IV Axis I) as well as active substance use disorders (except for nicotine).
 51-1	8878-8883	Prior	_
 51-2	8884-8886	to	_
 51-3	8887-8896	inclusion	_
@@ -1598,6 +1649,7 @@
 51-39	9096-9097	)	_
 51-40	9098-9099	.	_
 
+Text=Structural clinical interviews for DSM-IV (SCID) and case file reviews confirmed diagnosis of schizophrenia for the patients.
 52-1	9100-9110	Structural	_
 52-2	9111-9119	clinical	_
 52-3	9120-9130	interviews	_
@@ -1619,6 +1671,7 @@
 52-19	9218-9226	patients	_
 52-20	9227-9228	.	_
 
+Text=The specific clinical screening protocol can be referred to our recent work, SZ and HC subject groups did not differ in age (p=0.11), gender (p=0.24), race (p=0.61) and parental socioeconomic status (p=0.22), a less biased premorbid intelligence estimate.
 53-1	9229-9232	The	_
 53-2	9233-9241	specific	_
 53-3	9242-9250	clinical	_
@@ -1671,6 +1724,7 @@
 53-50	9487-9495	estimate	_
 53-51	9496-9497	.	_
 
+Text=Table 1 provides demographic and clinical data.
 54-1	9498-9503	Table	_
 54-2	9504-9505	1	_
 54-3	9506-9514	provides	_
@@ -1680,9 +1734,11 @@
 54-7	9540-9544	data	_
 54-8	9545-9546	.	_
 
+Text=3.
 55-1	9547-9548	3	_
 55-2	9549-9550	.	_
 
+Text=Cognitive and clinical assessment All assessments were performed within 1 week of the scan date.
 56-1	9551-9560	Cognitive	_
 56-2	9561-9564	and	_
 56-3	9565-9573	clinical	_
@@ -1700,6 +1756,7 @@
 56-15	9642-9646	date	_
 56-16	9647-9648	.	_
 
+Text=Three cognitive assessments were collected in all subjects.
 57-1	9649-9654	Three	_
 57-2	9655-9664	cognitive	_
 57-3	9665-9676	assessments	_
@@ -1710,6 +1767,7 @@
 57-8	9699-9707	subjects	_
 57-9	9708-9709	.	_
 
+Text=1) The WTAR was conducted to provide a measure of premorbid intelligence for neuropsychological evaluation.
 58-1	9710-9711	1	_
 58-2	9712-9713	)	_
 58-3	9714-9717	The	_
@@ -1728,6 +1786,7 @@
 58-16	9807-9817	evaluation	_
 58-17	9818-9819	.	_
 
+Text=The age-standardized score was used for this study.
 59-1	9820-9823	The	_
 59-2	9824-9840	age-standardized	_
 59-3	9841-9846	score	_
@@ -1738,6 +1797,7 @@
 59-8	9865-9870	study	_
 59-9	9871-9872	.	_
 
+Text=2) WASI-II battery was chosen for intelligence evaluation.
 60-1	9873-9874	2	_
 60-2	9875-9876	)	_
 60-3	9877-9884	WASI-II	http://maven.renci.org/NeuroBridge/neurobridge#II
@@ -1749,6 +1809,7 @@
 60-9	9921-9931	evaluation	_
 60-10	9932-9933	.	_
 
+Text=The standardized full scale IQ, calculated from four subtests (vocabulary, similarities, block design and matrix reasoning), was used for this current study.
 61-1	9934-9937	The	_
 61-2	9938-9950	standardized	_
 61-3	9951-9955	full	_
@@ -1779,6 +1840,7 @@
 61-28	10091-10096	study	_
 61-29	10097-10098	.	_
 
+Text=3) MATRICS is a cognition measure specifically designed for patients diagnosed with schizophrenia and related disorders.
 62-1	10099-10100	3	_
 62-2	10101-10102	)	_
 62-3	10103-10110	MATRICS	_
@@ -1798,6 +1860,7 @@
 62-17	10210-10219	disorders	_
 62-18	10220-10221	.	_
 
+Text=The composite T-score, summarized from seven cognitive domains (speed of processing, attention/vigilance, working memory, verbal learning, visual learning, reasoning and problem solving, and social cognition) were used.
 63-1	10222-10225	The	_
 63-2	10226-10235	composite	_
 63-3	10236-10243	T-score	_
@@ -1836,6 +1899,7 @@
 63-36	10445-10449	used	_
 63-37	10450-10451	.	_
 
+Text=All sub-category scores are provided in the Supplemental A.
 64-1	10452-10455	All	_
 64-2	10456-10468	sub-category	_
 64-3	10469-10475	scores	_
@@ -1847,6 +1911,7 @@
 64-9	10509-10510	A	_
 64-10	10511-10512	.	_
 
+Text=In addition, the Positive and Negative Syndrome Scale (PANSS) was collected for all SZ, with the positive, negative and general psychopathology subscales used in the current study.
 65-1	10513-10515	In	_
 65-2	10516-10524	addition	_
 65-3	10525-10526	,	_
@@ -1881,9 +1946,11 @@
 65-32	10692-10697	study	_
 65-33	10698-10699	.	_
 
+Text=4.
 66-1	10700-10701	4	_
 66-2	10702-10703	.	_
 
+Text=Data acquisition and preprocessing All participants were scanned on a 3Tesla Siemens TIM trio equipped with 12-channel radio frequency coil at MRN.
 67-1	10704-10708	Data	_
 67-2	10709-10720	acquisition	_
 67-3	10721-10724	and	_
@@ -1908,6 +1975,7 @@
 67-22	10847-10850	MRN	_
 67-23	10851-10852	.	_
 
+Text=Subjects were instructed to fixate on a central cross hair presented with eyes open at rest.
 68-1	10853-10861	Subjects	_
 68-2	10862-10866	were	_
 68-3	10867-10877	instructed	_
@@ -1926,6 +1994,7 @@
 68-16	10940-10944	rest	_
 68-17	10945-10946	.	_
 
+Text=Resting state functional scans were collected by means of T2 * -weighted gradient echo planar imaging sequences at 5 minutes long, 150 volumes with the following parameters: repeat time (TR) = 2s, echo time (TE) = 29ms, field of view = 240mm, acquisition matrix = 64×64, flip angle = 75°, voxel size = 3.75×3.75×4.55mm3, gap = 1.05mm, 33 slices, ascending acquisition.
 69-1	10947-10954	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 69-2	10955-10960	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 69-3	10961-10971	functional	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -2003,6 +2072,7 @@
 69-75	11317-11328	acquisition	_
 69-76	11329-11330	.	_
 
+Text=A high-resolution structural anatomy was also acquired via a 3D MPRAGE T1 sequence (sagittal; matrix, 256×256; FOV, 256 mm; slice thickness, 1 mm; no gap; in-plane voxel size, 1 mm×1 mm; flip angle, 7°; TR, 2.53 s; TE, 1.64 ms) to provide the anatomical reference for the functional scan.
 70-1	11331-11332	A	_
 70-2	11333-11348	high-resolution	_
 70-3	11349-11359	structural	_
@@ -2071,6 +2141,7 @@
 70-66	11631-11635	scan	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 70-67	11636-11637	.	_
 
+Text=FMRI data were preprocessed using the software package SPM8.
 71-1	11638-11642	FMRI	_
 71-2	11643-11647	data	_
 71-3	11648-11652	were	_
@@ -2082,6 +2153,7 @@
 71-9	11693-11697	SPM8	_
 71-10	11698-11699	.	_
 
+Text=The first five image volumes were removed to avoid T1 equilibration effects.
 72-1	11700-11703	The	_
 72-2	11704-11709	first	_
 72-3	11710-11714	five	_
@@ -2096,6 +2168,7 @@
 72-12	11768-11775	effects	_
 72-13	11776-11777	.	_
 
+Text=Images were then realigned using INRI align – a motion correction algorithm unbiased by local signal changes.
 73-1	11778-11784	Images	_
 73-2	11785-11789	were	_
 73-3	11790-11794	then	_
@@ -2115,6 +2188,7 @@
 73-17	11879-11886	changes	_
 73-18	11887-11888	.	_
 
+Text=Slice timing was corrected using the middle slice as the reference frame.
 74-1	11889-11894	Slice	_
 74-2	11895-11901	timing	_
 74-3	11902-11905	was	_
@@ -2129,6 +2203,7 @@
 74-12	11956-11961	frame	_
 74-13	11962-11963	.	_
 
+Text=Next, data were spatially normalized into standard Montreal Neurological Institute space, spatially smoothed with a 5mm full width at half-maximum Gaussian kernel and sub-sampled to 3×3×3 mm, resulting in a total of 53×63×46 voxels.
 75-1	11964-11968	Next	_
 75-2	11969-11970	,	_
 75-3	11971-11975	data	_
@@ -2168,6 +2243,7 @@
 75-37	12192-12198	voxels	_
 75-38	12199-12200	.	_
 
+Text=The data were also detrended and temporal band-pass filtered from 0.001 to 0.15 Hz to remove non-spontaneous artefacts (scanner drift, slow vascular/metabolic oscillation) and other high frequency noises (motion, breathing, heartbeat), and to be as close to the resting-state “ low frequency fluctuation ”.
 76-1	12201-12204	The	_
 76-2	12205-12209	data	_
 76-3	12210-12214	were	_
@@ -2222,6 +2298,7 @@
 76-52	12513-12514	”	_
 76-53	12515-12516	.	_
 
+Text=The potential impact of temporal filtering on ICA results were investigated (see Supplemental B).
 77-1	12517-12520	The	_
 77-2	12521-12530	potential	_
 77-3	12531-12537	impact	_
@@ -2240,6 +2317,7 @@
 77-16	12614-12615	)	_
 77-17	12616-12617	.	_
 
+Text=Last, voxel time courses were normalized for the purpose of the cmICA optimization.
 78-1	12618-12622	Last	_
 78-2	12623-12624	,	_
 78-3	12625-12630	voxel	_
@@ -2256,6 +2334,7 @@
 78-14	12689-12701	optimization	_
 78-15	12702-12703	.	_
 
+Text=As temporal variance normalization minimizes the possible bias in subsequent data reduction, it is usually preferred for connectivity and/or temporal modulation analysis.
 79-1	12704-12706	As	_
 79-2	12707-12715	temporal	_
 79-3	12716-12724	variance	_
@@ -2281,6 +2360,7 @@
 79-23	12866-12874	analysis	_
 79-24	12875-12876	.	_
 
+Text=5. cmICA model order selection In our original cmICA paper for diffusion connectivity, we explored both low (Nc = 30) and high (Nc = 100) model order, and found the low model order matched better with the JHU tract atlas.
 80-1	12877-12879	5.	_
 80-2	12880-12885	cmICA	_
 80-3	12886-12891	model	_
@@ -2329,6 +2409,7 @@
 80-46	13098-13103	atlas	_
 80-47	13104-13105	.	_
 
+Text=In this study, we chose a medium model order (Nc = 50) for cmICA after multiple tests and comparisons for the following reasons.
 81-1	13106-13108	In	_
 81-2	13109-13113	this	_
 81-3	13114-13119	study	_
@@ -2357,6 +2438,7 @@
 81-26	13229-13236	reasons	_
 81-27	13237-13238	.	_
 
+Text=First, functional data contains larger variance than structural data, in both noise level and physiological signal level.
 82-1	13239-13244	First	_
 82-2	13245-13246	,	_
 82-3	13247-13257	functional	_
@@ -2378,6 +2460,7 @@
 82-19	13356-13361	level	_
 82-20	13362-13363	.	_
 
+Text=Second, structural connectivity from diffusion imaging (a very sparse matrix) is much more localized than functional connectivity (a non-sparse matrix).
 83-1	13364-13370	Second	_
 83-2	13371-13372	,	_
 83-3	13373-13383	structural	_
@@ -2405,6 +2488,7 @@
 83-25	13519-13520	)	_
 83-26	13521-13522	.	_
 
+Text=Third, high/medium model order provides a finer-grained regional separation of sources in the cortical and subcortical compartments.
 84-1	13523-13528	Third	_
 84-2	13529-13530	,	_
 84-3	13531-13542	high/medium	_
@@ -2425,6 +2509,7 @@
 84-18	13643-13655	compartments	_
 84-19	13656-13657	.	_
 
+Text=We chose medium order over high order, 70-100 typically used in fMRI spatial ICA literatures, because temporal filtering in the initial preprocessing removes considerable variance associated with the non- “ low-frequency fluctuation ” (LFF) artefacts (see detailed model order estimation in Appendix 3).
 85-1	13658-13660	We	_
 85-2	13661-13666	chose	_
 85-3	13667-13673	medium	_
@@ -2476,6 +2561,7 @@
 85-49	13965-13966	)	_
 85-50	13967-13968	.	_
 
+Text=To ensure the validity of model order selection on our dataset, ICASSO with 20 re-runs and random initial conditions, was used to test the convergence during ICA training and the stability and the “ best run ” was selected to provide a robust and replicable result using a minimum spanning tree (MST) method introduced in and implemented in the GIFT toolbox.
 86-1	13969-13971	To	_
 86-2	13972-13978	ensure	_
 86-3	13979-13982	the	_
@@ -2543,6 +2629,7 @@
 86-65	14323-14330	toolbox	_
 86-66	14331-14332	.	_
 
+Text=After cmICA, data was decomposed into functional source maps S and corresponding connectivity maps R. The resulting 50 independent source maps were manually evaluated using existing procedures with motion, imaging and physiological artefact removal (including mixed components consisting of artifact and RSN sources, see Supplemental F for details), yielding 28 resting state network (RSN) components for further study.
 87-1	14333-14338	After	_
 87-2	14339-14344	cmICA	_
 87-3	14345-14346	,	_
@@ -2611,9 +2698,11 @@
 87-66	14754-14759	study	_
 87-67	14760-14761	.	_
 
+Text=6.
 88-1	14762-14763	6	_
 88-2	14764-14765	.	_
 
+Text=Connectivity group difference analysis As in, we observed that the cmICA back-reconstructed source S maps - the “ seeds ” - were fairly stable among individuals while the dual connectivity R maps maintained more variability.
 89-1	14766-14778	Connectivity	_
 89-2	14779-14784	group	_
 89-3	14785-14795	difference	_
@@ -2652,6 +2741,7 @@
 89-36	14979-14990	variability	_
 89-37	14991-14992	.	_
 
+Text=This is mainly because of the spatial stationarity assumption on S across subjects on spatial ICA, whereas R maps, i.e., the mixing matrix in ICA, have no explicit statistical/mathematical restrictions.
 90-1	14993-14997	This	_
 90-2	14998-15000	is	_
 90-3	15001-15007	mainly	_
@@ -2688,6 +2778,7 @@
 90-34	15186-15198	restrictions	_
 90-35	15199-15200	.	_
 
+Text=Prior to statistical analysis, the normality tests (see Supplemental C) were performed on back-reconstructed maps to ensure the Student t-tests and/or linear regressions were the suitable statistical approach.
 91-1	15201-15206	Prior	_
 91-2	15207-15209	to	_
 91-3	15210-15221	statistical	_
@@ -2721,6 +2812,7 @@
 91-31	15404-15412	approach	_
 91-32	15413-15414	.	_
 
+Text=We then examined S and R maps ’ group differences between SZ and HC separately via simple two sample T-tests as a pre-screening step.
 92-1	15415-15417	We	_
 92-2	15418-15422	then	_
 92-3	15423-15431	examined	_
@@ -2747,6 +2839,7 @@
 92-24	15543-15547	step	_
 92-25	15548-15549	.	_
 
+Text=We found that the S maps did not show any statistically significant differences at p * smaller than 0.05 with FDR multiple comparison correction at whole brain level and cluster extent larger than 20 voxels, while a greater proportion of cells in the R maps showed group differences.
 93-1	15550-15552	We	_
 93-2	15553-15558	found	_
 93-3	15559-15563	that	_
@@ -2798,6 +2891,7 @@
 93-49	15822-15833	differences	_
 93-50	15834-15835	.	_
 
+Text=It is important to notice that the inter-subject variability on source maps S may still be detectable in many cases which have been explored extensively in, but in this study it didn ’ t pass the significance test.
 94-1	15836-15838	It	_
 94-2	15839-15841	is	_
 94-3	15842-15851	important	_
@@ -2839,6 +2933,7 @@
 94-39	16046-16050	test	_
 94-40	16051-16052	.	_
 
+Text=Therefore, the following (demographic/cognitive/clinical) multivariate regression analyses were conducted on connectivity R maps (per voxel) only.
 95-1	16053-16062	Therefore	_
 95-2	16063-16064	,	_
 95-3	16065-16068	the	_
@@ -2862,6 +2957,7 @@
 95-21	16199-16203	only	_
 95-22	16204-16205	.	_
 
+Text=This agrees with previous findings from, that independent S maps partial out the variances across subjects (or task conditions) significantly, whereas R maps (or seed based maps) would keep those variances.
 96-1	16206-16210	This	_
 96-2	16211-16217	agrees	_
 96-3	16218-16222	with	_
@@ -2901,6 +2997,7 @@
 96-37	16408-16417	variances	_
 96-38	16418-16419	.	_
 
+Text=This results in S maps being less dependent on individual variabilities and external-induced co-activations (see Appendix 2).
 97-1	16420-16424	This	_
 97-2	16425-16432	results	_
 97-3	16433-16435	in	_
@@ -2922,6 +3019,7 @@
 97-19	16545-16546	)	_
 97-20	16547-16548	.	_
 
+Text=Next, different demographic factors were investigated as covariates on functional connectivity R. Previous studies have indicated effects of age and gender on resting state functional connectivity.
 98-1	16549-16553	Next	_
 98-2	16554-16555	,	_
 98-3	16556-16565	different	_
@@ -2951,6 +3049,7 @@
 98-27	16734-16746	connectivity	_
 98-28	16747-16748	.	_
 
+Text=Age effects were also found in same set of subjects from our previous work in structural connectivity.
 99-1	16749-16752	Age	_
 99-2	16753-16760	effects	_
 99-3	16761-16765	were	_
@@ -2970,6 +3069,7 @@
 99-17	16838-16850	connectivity	_
 99-18	16851-16852	.	_
 
+Text=In this study, we first used a backward multivariate model selection procedure to check the impact of different demographic factors by performing a multivariate analysis of covariance (MANCOVAN, http: //www.mathworks.com/matlabcentral/fileexchange/27014-mancovan) on effects of age, gender (male 0, female 1), social economic status (SES, education, and parental education) and group label (SZ 1 HC 0), as well as their interactions to detect which predictor (s) in the design matrix showed variabilities in the response.
 100-1	16853-16855	In	_
 100-2	16856-16860	this	_
 100-3	16861-16866	study	_
@@ -3064,6 +3164,7 @@
 100-92	17384-17392	response	_
 100-93	17393-17394	.	_
 
+Text=In addition, potential motion effects on functional connectivity were also examined by including motion nuisance parameters (x, y, and z translations and pitch, roll, and yaw rotations) from SPM INRIalign motion estimations and by adding additional motion cleaning, e.g.
 101-1	17395-17397	In	_
 101-2	17398-17406	addition	_
 101-3	17407-17408	,	_
@@ -3113,10 +3214,12 @@
 101-47	17669-17672	e.g	_
 101-48	17673-17674	.	_
 
+Text=data despiking.
 102-1	17675-17679	data	_
 102-2	17680-17689	despiking	_
 102-3	17690-17691	.	_
 
+Text=No significant motion effect was found in either case (see Supplemental D).
 103-1	17692-17694	No	_
 103-2	17695-17706	significant	_
 103-3	17707-17713	motion	_
@@ -3133,6 +3236,7 @@
 103-14	17767-17768	)	_
 103-15	17769-17770	.	_
 
+Text=This is likely because the motion residuals are reduced via the initial temporal filtering and the removal of motion-related artifacts via spatial ICA, and because of the low correlations between motion parameters and regressors in design matrix.
 104-1	17771-17775	This	_
 104-2	17776-17778	is	_
 104-3	17779-17785	likely	_
@@ -3173,6 +3277,7 @@
 104-38	18011-18017	matrix	_
 104-39	18018-18019	.	_
 
+Text=The final regressions were only performed on retained regressor (s) in order to decrease the degrees of freedom used in the MANCOVAN computation.
 105-1	18020-18023	The	_
 105-2	18024-18029	final	_
 105-3	18030-18041	regressions	_
@@ -3200,9 +3305,11 @@
 105-25	18155-18166	computation	_
 105-26	18167-18168	.	_
 
+Text=7.
 106-1	18169-18170	7	_
 106-2	18171-18172	.	_
 
+Text=Multivariate analysis on cognition and clinical assessment During the regression analysis on various cognitive performances, we noticed a high multicollinearity (Tolerance <0.2, variance inflation factor> 5) among WTAR, WASI and MATRICS due to the high correlations (r = 0.59~0.7) among these three variables.
 107-1	18173-18185	Multivariate	_
 107-2	18186-18194	analysis	_
 107-3	18195-18197	on	_
@@ -3257,6 +3364,7 @@
 107-52	18481-18490	variables	_
 107-53	18491-18492	.	_
 
+Text=Without proper model selection, this may lead to invalid estimation in individual responses.
 108-1	18493-18500	Without	_
 108-2	18501-18507	proper	_
 108-3	18508-18513	model	_
@@ -3273,6 +3381,7 @@
 108-14	18576-18585	responses	_
 108-15	18586-18587	.	_
 
+Text=To ensure prediction accuracy, we first tested effects on three cognitive scores without differentiating group types, searching for significant effects associated with function connectivity.
 109-1	18588-18590	To	_
 109-2	18591-18597	ensure	_
 109-3	18598-18608	prediction	_
@@ -3301,6 +3410,7 @@
 109-26	18767-18779	connectivity	_
 109-27	18780-18781	.	_
 
+Text=We also tested effects on three group interaction terms (group×WTAR, group×WASI, and group×MATRICS) looking for disease-related regressor (s) associated with functional connectivity changes.
 110-1	18782-18784	We	_
 110-2	18785-18789	also	_
 110-3	18790-18796	tested	_
@@ -3332,6 +3442,7 @@
 110-29	18970-18977	changes	_
 110-30	18978-18979	.	_
 
+Text=The final regression was only performed on the most significant covariates and collinearity safe model (Variance inflation factor (VIF) <5) M = (group, age, WTAR, WASI, and MATRICS), OZP was removed due to no significant effects and no significant impacts on WTAR/WASI/MATRICS ’ responses.
 111-1	18980-18983	The	_
 111-2	18984-18989	final	_
 111-3	18990-19000	regression	_
@@ -3390,6 +3501,7 @@
 111-56	19271-19280	responses	_
 111-57	19281-19282	.	_
 
+Text=Similarly, in symptom-based analysis, PANSS general psychopathology score were correlated with positive and negative scores (r = 0.51, 0.35).
 112-1	19283-19292	Similarly	_
 112-2	19293-19294	,	_
 112-3	19295-19297	in	_
@@ -3416,6 +3528,7 @@
 112-24	19427-19428	)	_
 112-25	19429-19430	.	_
 
+Text=The general score was removed in regression model due to the high multicollinearity (VIF> 5), and the final regression model was M = [group, age, PANSS POS, PANSS NEG, and OZP].
 113-1	19431-19434	The	_
 113-2	19435-19442	general	_
 113-3	19443-19448	score	_
@@ -3459,6 +3572,7 @@
 113-41	19616-19617	]	_
 113-42	19618-19619	.	_
 
+Text=All tests are attached in Supplemental E. The detected regions were adjusted using the same significance test as before.
 114-1	19620-19623	All	_
 114-2	19624-19629	tests	_
 114-3	19630-19633	are	_
@@ -3480,6 +3594,7 @@
 114-19	19733-19739	before	_
 114-20	19740-19741	.	_
 
+Text=In addition, we examined the impact of patients ’ medication usage (using total OZP dose equivalence) on MATRICS and PANSS performances as well as on functional connectivity, since it has been reported that medications have large impact on symptoms and/or cognitions, which may potentially affect functional dysconnectivity associations.
 115-1	19742-19744	In	_
 115-2	19745-19753	addition	_
 115-3	19754-19755	,	_

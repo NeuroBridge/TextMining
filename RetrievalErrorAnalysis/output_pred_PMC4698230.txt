@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Mapping thalamocortical functional connectivity in chronic and early stages of psychotic disorders Objective There is considerable evidence that the thalamus is abnormal in psychotic disorders.
 1-1	0-7	Mapping	_
 1-2	8-23	thalamocortical	_
 1-3	24-34	functional	_
@@ -29,6 +30,7 @@
 1-25	183-192	disorders	_
 1-26	193-194	.	_
 
+Text=Resting-state fMRI (RS-fMRI) has revealed an intriguing pattern of thalamic dysconnectivity in psychosis characterized by reduced prefrontal cortex (PFC) connectivity and increased somatomotor-thalamic connectivity.
 2-1	195-208	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 2-2	209-213	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 2-3	214-215	(	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -59,6 +61,7 @@
 2-28	401-413	connectivity	_
 2-29	414-415	.	_
 
+Text=However, critical knowledge gaps remain with respect to the onset, anatomical specificity, and clinical correlates of thalamic dysconnectivity in psychosis.
 3-1	416-423	However	_
 3-2	424-425	,	_
 3-3	426-434	critical	_
@@ -84,6 +87,7 @@
 3-23	565-574	psychosis	_
 3-24	575-576	.	_
 
+Text=Method RS-fMRI was collected on 105 healthy subjects and 148 individuals with psychosis, including 53 early stage psychosis patients.
 4-1	577-583	Method	_
 4-2	584-591	RS-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 4-3	592-595	was	_
@@ -106,6 +110,7 @@
 4-20	702-710	patients	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
 4-21	711-712	.	_
 
+Text=Using all 253 subjects, the thalamus was parceled into functional regions-of-interest (ROIs) on the basis of connectivity with six a-priori defined cortical ROIs covering most of the cortical mantle.
 5-1	713-718	Using	_
 5-2	719-722	all	_
 5-3	723-726	253	_
@@ -140,6 +145,7 @@
 5-32	908-914	mantle	_
 5-33	915-916	.	_
 
+Text=Functional connectivity between each cortical ROI and its corresponding thalamic ROI was quantified and compared across groups.
 6-1	917-927	Functional	_
 6-2	928-940	connectivity	_
 6-3	941-948	between	_
@@ -159,6 +165,7 @@
 6-17	1037-1043	groups	_
 6-18	1044-1045	.	_
 
+Text=Significant differences in the ROI-to-ROI analysis were followed up with voxel-wise seed-based analyses to further localize thalamic dysconnectivity.
 7-1	1046-1057	Significant	_
 7-2	1058-1069	differences	_
 7-3	1070-1072	in	_
@@ -179,6 +186,7 @@
 7-18	1179-1194	dysconnectivity	_
 7-19	1195-1196	.	_
 
+Text=Results ROI analysis revealed reduced PFC-thalamic connectivity and increased somatomotor-thalamic connectivity in both chronic and early stages psychosis patients.
 8-1	1197-1204	Results	_
 8-2	1205-1208	ROI	_
 8-3	1209-1217	analysis	_
@@ -200,6 +208,7 @@
 8-19	1352-1360	patients	_
 8-20	1361-1362	.	_
 
+Text=PFC hypo-connectivity and motor cortex hyper-connectivity correlated in patients suggesting they result from a common pathophysiological mechanism.
 9-1	1363-1366	PFC	_
 9-2	1367-1384	hypo-connectivity	_
 9-3	1385-1388	and	_
@@ -219,6 +228,7 @@
 9-17	1500-1509	mechanism	_
 9-18	1510-1511	.	_
 
+Text=Seed-based analyses revealed thalamic hypo-connectivity in psychosis localized to dorsolateral PFC, medial PFC, and cerebellar areas of the well-described ‘ executive control ’ network.
 10-1	1512-1522	Seed-based	_
 10-2	1523-1531	analyses	_
 10-3	1532-1540	revealed	_
@@ -247,6 +257,7 @@
 10-26	1691-1698	network	_
 10-27	1699-1700	.	_
 
+Text=Across all subjects, thalamic connectivity with areas of the fronto-parietal network correlated with cognitive functioning, including verbal learning and memory.
 11-1	1701-1707	Across	_
 11-2	1708-1711	all	_
 11-3	1712-1720	subjects	_
@@ -271,6 +282,7 @@
 11-22	1857-1863	memory	_
 11-23	1864-1865	.	_
 
+Text=Conclusions Thalamocortical dysconnectivity is present in both chronic and early stages of psychosis, includes reduced thalamic connectivity with the executive control network, and is related to cognitive impairment.
 12-1	1866-1877	Conclusions	_
 12-2	1878-1893	Thalamocortical	_
 12-3	1894-1909	dysconnectivity	_
@@ -303,6 +315,7 @@
 12-30	2073-2083	impairment	_
 12-31	2084-2085	.	_
 
+Text=METHODS AND MATERIALS Study Participants 105 healthy subjects and 148 individuals with a psychotic disorder were included in this investigation (see Table 1).
 13-1	2086-2093	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-2	2094-2097	AND	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-3	2098-2107	MATERIALS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -330,6 +343,7 @@
 13-25	2244-2245	)	_
 13-26	2246-2247	.	_
 
+Text=The psychosis group included individuals with schizophrenia/schizoaffective disorder (i.e.
 14-1	2248-2251	The	_
 14-2	2252-2261	psychosis	_
 14-3	2262-2267	group	_
@@ -342,6 +356,7 @@
 14-10	2335-2338	i.e	_
 14-11	2339-2340	.	_
 
+Text=non-affective psychosis) and bipolar I disorder with psychotic features (i.e.
 15-1	2341-2354	non-affective	_
 15-2	2355-2364	psychosis	_
 15-3	2365-2366	)	_
@@ -356,11 +371,13 @@
 15-12	2416-2419	i.e	_
 15-13	2420-2421	.	_
 
+Text=affective psychosis).
 16-1	2422-2431	affective	_
 16-2	2432-2441	psychosis	_
 16-3	2442-2443	)	_
 16-4	2444-2445	.	_
 
+Text=53 patients were within two years of illness onset and considered early stage.
 17-1	2446-2448	53	_
 17-2	2449-2457	patients	_
 17-3	2458-2462	were	_
@@ -376,6 +393,7 @@
 17-13	2518-2523	stage	_
 17-14	2524-2525	.	_
 
+Text=Most early stage psychosis patients were studied at the time of their first hospitalization for a psychotic disorder, or very shortly thereafter, and had been ill for less than 4 months on average.
 18-1	2526-2530	Most	_
 18-2	2531-2536	early	_
 18-3	2537-2542	stage	_
@@ -413,6 +431,7 @@
 18-35	2717-2724	average	_
 18-36	2725-2726	.	_
 
+Text=At the time of study participation, 25 early stage patients were diagnosed with schizophreniform disorder.
 19-1	2727-2729	At	_
 19-2	2730-2733	the	_
 19-3	2734-2738	time	_
@@ -431,6 +450,7 @@
 19-16	2825-2833	disorder	_
 19-17	2834-2835	.	_
 
+Text=Follow-up diagnostic data was available on 22 of these patients; 20 converted to a non-affective psychotic disorder, 1 remained diagnosed with schizophreniform disorder, and 1 was subsequently re-classified as affective psychosis.
 20-1	2836-2845	Follow-up	_
 20-2	2846-2856	diagnostic	_
 20-3	2857-2861	data	_
@@ -467,6 +487,7 @@
 20-34	3059-3068	psychosis	_
 20-35	3069-3070	.	_
 
+Text=All subjects underwent a structured clinical interview and completed a brief cognitive assessment that included the Wechsler Test of Adult Reading to estimate pre-morbid IQ and the Screen for Cognitive Impairment in Psychiatry which includes tests of verbal learning, working memory, verbal fluency, and processing speed.
 21-1	3071-3074	All	_
 21-2	3075-3083	subjects	_
 21-3	3084-3093	underwent	_
@@ -518,6 +539,7 @@
 21-49	3389-3394	speed	_
 21-50	3395-3396	.	_
 
+Text=In addition, patients were also assessed with the Positive and Negative Syndrome Scale (PANSS: 22) to quantify severity of clinical symptoms.
 22-1	3397-3399	In	_
 22-2	3400-3408	addition	_
 22-3	3409-3410	,	_
@@ -545,6 +567,7 @@
 22-25	3533-3541	symptoms	_
 22-26	3542-3543	.	_
 
+Text=Study procedures and exclusion criteria are described in detail in the Supplemental Material.
 23-1	3544-3549	Study	_
 23-2	3550-3560	procedures	_
 23-3	3561-3564	and	_
@@ -560,6 +583,7 @@
 23-13	3628-3636	Material	_
 23-14	3637-3638	.	_
 
+Text=This study was approved by the Vanderbilt University Institutional Review Board.
 24-1	3639-3643	This	_
 24-2	3644-3649	study	_
 24-3	3650-3653	was	_
@@ -573,6 +597,7 @@
 24-11	3713-3718	Board	_
 24-12	3719-3720	.	_
 
+Text=Neuroimaging Data Acquisition and Functional Connectivity Analysis Imaging data acquisition and pre-processing are described in detail in the Supplemental Material.
 25-1	3721-3733	Neuroimaging	_
 25-2	3734-3738	Data	_
 25-3	3739-3750	Acquisition	_
@@ -595,6 +620,7 @@
 25-20	3876-3884	Material	_
 25-21	3885-3886	.	_
 
+Text=Briefly, a 7-minute echo-planar imaging resting-state scan and a high-resolution T1-weighted structural scan were collected on each subject.
 26-1	3887-3894	Briefly	_
 26-2	3895-3896	,	_
 26-3	3897-3898	a	_
@@ -616,6 +642,7 @@
 26-19	4020-4027	subject	_
 26-20	4028-4029	.	_
 
+Text=Functional images were slice-time corrected, motion corrected, co-registered to native space structural data, and normalized to MNI space.
 27-1	4030-4040	Functional	_
 27-2	4041-4047	images	_
 27-3	4048-4052	were	_
@@ -639,6 +666,7 @@
 27-21	4165-4170	space	_
 27-22	4171-4172	.	_
 
+Text=As described earlier, prior investigations of thalamocortical functional dysconnectivity in psychosis have either: 1) parceled the cortex into large, anatomically defined ROIs corresponding to the primary cortical targets of specific thalamic sub-regions (e.g.
 28-1	4173-4175	As	_
 28-2	4176-4185	described	_
 28-3	4186-4193	earlier	_
@@ -679,6 +707,7 @@
 28-38	4434-4437	e.g	_
 28-39	4438-4439	.	_
 
+Text=PFC) and used these as seeds to identify functional connectivity within the thalamus; or 2) used the whole thalamus as a seed to map thalamic connectivity with the rest of the brain.
 29-1	4440-4443	PFC	_
 29-2	4444-4445	)	_
 29-3	4446-4449	and	_
@@ -716,6 +745,7 @@
 29-35	4619-4624	brain	_
 29-36	4625-4626	.	_
 
+Text=The primary advantage of the first method is that it can map multiple thalamic networks and segment the thalamus according to its functional connectivity.
 30-1	4627-4630	The	_
 30-2	4631-4638	primary	_
 30-3	4639-4648	advantage	_
@@ -742,6 +772,7 @@
 30-24	4768-4780	connectivity	_
 30-25	4781-4782	.	_
 
+Text=However, the use of large cortical ROIs limits spatial specificity within the cortex.
 31-1	4783-4790	However	_
 31-2	4791-4792	,	_
 31-3	4793-4796	the	_
@@ -758,6 +789,7 @@
 31-14	4862-4868	cortex	_
 31-15	4869-4870	.	_
 
+Text=Using the whole thalamus as a seed overcomes this limitation, but, by averaging BOLD signals from the entire thalamus, precludes an analysis of specific thalamocortical networks.
 32-1	4871-4876	Using	_
 32-2	4877-4880	the	_
 32-3	4881-4886	whole	_
@@ -789,6 +821,7 @@
 32-29	5043-5051	networks	_
 32-30	5052-5053	.	_
 
+Text=To overcome these limitations, we combined elements of both methods.
 33-1	5054-5056	To	_
 33-2	5057-5065	overcome	_
 33-3	5066-5071	these	_
@@ -802,6 +835,7 @@
 33-11	5115-5122	methods	_
 33-12	5123-5124	.	_
 
+Text=First, we performed a ‘ cortical ROI-to-thalamus ROI ’ analysis in which connectivity between anatomically defined cortical ROIs and functionally defined thalamic ROIs was calculated and compared across groups (see Figure 1A).
 34-1	5125-5130	First	_
 34-2	5131-5132	,	_
 34-3	5133-5135	we	_
@@ -839,6 +873,7 @@
 34-35	5352-5353	)	_
 34-36	5354-5355	.	_
 
+Text=This primary analysis was followed up with seed-based analyses examining connectivity of functionally defined thalamic sub-regions with the rest of the brain.
 35-1	5356-5360	This	_
 35-2	5361-5368	primary	_
 35-3	5369-5377	analysis	_
@@ -863,6 +898,7 @@
 35-22	5508-5513	brain	_
 35-23	5514-5515	.	_
 
+Text=The analysis steps were as follows.
 36-1	5516-5519	The	_
 36-2	5520-5528	analysis	_
 36-3	5529-5534	steps	_
@@ -871,6 +907,7 @@
 36-6	5543-5550	follows	_
 36-7	5551-5552	.	_
 
+Text=First, as described previously, the cortex was divided into six, a-priori defined non-overlapping ROIs shown in Figure 1A.
 37-1	5553-5558	First	_
 37-2	5559-5560	,	_
 37-3	5561-5563	as	_
@@ -894,6 +931,7 @@
 37-21	5675-5677	1A	_
 37-22	5678-5679	.	_
 
+Text=Functional connectivity maps, restricted to the Harvard-Oxford thalamus probabilistic atlas (thresholded at 10%), were then created for each cortical ROI.
 38-1	5680-5690	Functional	_
 38-2	5691-5703	connectivity	_
 38-3	5704-5708	maps	_
@@ -921,6 +959,7 @@
 38-25	5835-5838	ROI	_
 38-26	5839-5840	.	_
 
+Text=Using the entire dataset of 253 individuals, the thalamus was parceled into functional ROIs using the ‘ winner take all ’ strategy; each voxel in the thalamus was assigned to the cortical ROI it was most strongly connected to.
 39-1	5841-5846	Using	_
 39-2	5847-5850	the	_
 39-3	5851-5857	entire	_
@@ -964,6 +1003,7 @@
 39-41	6066-6068	to	_
 39-42	6069-6070	.	_
 
+Text=Average connectivity of the voxels within each thalamic ROI with its respective cortical ROI was then calculated resulting in 6 thalamocortical ‘ network ’ values for each subject; one for each cortical anatomical ROI and its corresponding thalamic functional ROI which served as the dependent variables in the statistical analysis.
 40-1	6071-6078	Average	_
 40-2	6079-6091	connectivity	_
 40-3	6092-6094	of	_
@@ -1017,6 +1057,7 @@
 40-51	6395-6403	analysis	_
 40-52	6404-6405	.	_
 
+Text=Thalamocortical network values were analyzed using multivariate repeated measures ANOVA with network entered as the within the subjects variable, group a between subjects variable, and age and sex entered as covariates.
 41-1	6406-6421	Thalamocortical	_
 41-2	6422-6429	network	_
 41-3	6430-6436	values	_
@@ -1052,6 +1093,7 @@
 41-33	6616-6626	covariates	_
 41-34	6627-6628	.	_
 
+Text=The ‘ cortical ROI-to-thalamic ROI ’ analysis described above was followed up with seed-based connectivity analyses using the thalamic functional ROIs as seeds to examine connectivity of specific thalamic sub-regions with the rest of the brain.
 42-1	6629-6632	The	_
 42-2	6633-6634	‘	_
 42-3	6635-6643	cortical	_
@@ -1090,6 +1132,7 @@
 42-36	6867-6872	brain	_
 42-37	6873-6874	.	_
 
+Text=Briefly, the mean BOLD times series derived from the thalamic ROIs was extracted from each subjects ’ unsmoothed functional data and entered into a general linear model to create functional connectivity maps of specific thalamic ROIs.
 43-1	6875-6882	Briefly	_
 43-2	6883-6884	,	_
 43-3	6885-6888	the	_
@@ -1129,6 +1172,7 @@
 43-37	7105-7109	ROIs	_
 43-38	7110-7111	.	_
 
+Text=The functional connectivity maps, in beta units, were then smoothed (6 mm) and entered into a one-way ANOVA with group entered as the between subjects variable, and age and sex as covariates.
 44-1	7112-7115	The	_
 44-2	7116-7126	functional	_
 44-3	7127-7139	connectivity	_
@@ -1168,6 +1212,7 @@
 44-37	7297-7307	covariates	_
 44-38	7308-7309	.	_
 
+Text=A priori contrasts comparing healthy subjects to psychosis patients and each patient group (i.e.
 45-1	7310-7311	A	_
 45-2	7312-7318	priori	_
 45-3	7319-7328	contrasts	_
@@ -1185,6 +1230,7 @@
 45-15	7403-7406	i.e	_
 45-16	7407-7408	.	_
 
+Text=chronic, early stage) to healthy subjects were performed.
 46-1	7409-7416	chronic	_
 46-2	7417-7418	,	_
 46-3	7419-7424	early	_
@@ -1197,6 +1243,7 @@
 46-10	7458-7467	performed	_
 46-11	7468-7469	.	_
 
+Text=Results were thresholded at the cluster-level pFWE-corrected=.05 for voxel-wise p=.005, masked to include only voxels that demonstrated significant positive functional connectivity in healthy subjects and/or psychosis patients at the cluster-level pFWE-corrected=.05 for voxel-wise p=.005.
 47-1	7470-7477	Results	_
 47-2	7478-7482	were	_
 47-3	7483-7494	thresholded	_
@@ -1234,6 +1281,7 @@
 47-35	7753-7759	p=.005	_
 47-36	7760-7761	.	_
 
+Text=Functional connectivity maps for the thalamic ROIs were created using the CONN-fMRI Functional Connectivity toolbox.
 48-1	7762-7772	Functional	_
 48-2	7773-7785	connectivity	_
 48-3	7786-7790	maps	_
@@ -1251,6 +1299,7 @@
 48-15	7870-7877	toolbox	_
 48-16	7878-7879	.	_
 
+Text=Briefly, the mean BOLD time series was extracted from an ROI and entered as a predictor in a multiple regression general linear model (GLM).
 49-1	7880-7887	Briefly	_
 49-2	7888-7889	,	_
 49-3	7890-7893	the	_
@@ -1280,6 +1329,7 @@
 49-27	8021-8022	)	_
 49-28	8023-8024	.	_
 
+Text=Regressors corresponding to the 6 motion correction parameters and their first temporal derivatives, along with grey matter, white matter, and CSF were included to remove variance related to head motion, the global grey matter signal, white matter, and CSF, respectively.
 50-1	8025-8035	Regressors	_
 50-2	8036-8049	corresponding	_
 50-3	8050-8052	to	_
@@ -1329,6 +1379,7 @@
 50-47	8290-8302	respectively	_
 50-48	8303-8304	.	_
 
+Text=Functional data were band-pass filtered (.01-.10 Hz).
 51-1	8305-8315	Functional	_
 51-2	8316-8320	data	_
 51-3	8321-8325	were	_
@@ -1340,6 +1391,7 @@
 51-9	8358-8359	)	_
 51-10	8360-8361	.	_
 
+Text=We took several steps to limit the effects of head motion.
 52-1	8362-8364	We	_
 52-2	8365-8369	took	_
 52-3	8370-8377	several	_
@@ -1353,6 +1405,7 @@
 52-11	8413-8419	motion	_
 52-12	8420-8421	.	_
 
+Text=First, resting-state scans underwent “ motion scrubbing ” as described by Power et al ..
 53-1	8422-8427	First	_
 53-2	8428-8429	,	_
 53-3	8430-8443	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1370,6 +1423,7 @@
 53-15	8506-8508	al	_
 53-16	8509-8511	..	_
 
+Text=Volumes with frame-wise displacement greater than 0.5 and BOLD intensity changes between frames greater than 0.5% were identified and excluded from the functional connectivity analysis by including the tagged scans as nuisance regressors in the connectivity GLM.
 54-1	8512-8519	Volumes	_
 54-2	8520-8524	with	_
 54-3	8525-8535	frame-wise	_
@@ -1410,6 +1464,7 @@
 54-38	8771-8774	GLM	_
 54-39	8775-8776	.	_
 
+Text=Second, nuisance regressors for white matter and CSF were derived from each subject ’ s white matter and CSF segmentations using the anatomical component-based noise reduction method (aCompCor), as implemented in the Conn-fMRI toolbox.
 55-1	8777-8783	Second	_
 55-2	8784-8785	,	_
 55-3	8786-8794	nuisance	_
@@ -1450,6 +1505,7 @@
 55-38	9008-9015	toolbox	_
 55-39	9016-9017	.	_
 
+Text=The aCompCor method has been shown to be effective at reducing the effects of head movement on functional connectivity estimates.
 56-1	9018-9021	The	_
 56-2	9022-9030	aCompCor	_
 56-3	9031-9037	method	_
@@ -1472,6 +1528,7 @@
 56-20	9137-9146	estimates	_
 56-21	9147-9148	.	_
 
+Text=Finally, motion correction parameters were regressed out before temporal band pass filtering was applied as performing these steps in reverse order (i.e.
 57-1	9149-9156	Finally	_
 57-2	9157-9158	,	_
 57-3	9159-9165	motion	_
@@ -1498,6 +1555,7 @@
 57-24	9300-9303	i.e	_
 57-25	9304-9305	.	_
 
+Text=band-pass filtering before nuisance regression) over-estimates connectivity and exacerbates the effects of head motion due to re-introduction of nuisance related variation.
 58-1	9306-9315	band-pass	_
 58-2	9316-9325	filtering	_
 58-3	9326-9332	before	_

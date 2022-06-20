@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Affinity States of Striatal Dopamine D2 Receptors in Antipsychotic-Free Patients with Schizophrenia Abstract Background Dopamine D2 receptors are reported to have high-affinity (D2High) and low-affinity (D2Low) states.
 1-1	0-8	Affinity	_
 1-2	9-15	States	_
 1-3	16-18	of	_
@@ -35,6 +36,7 @@
 1-31	215-221	states	_
 1-32	222-223	.	_
 
+Text=Although an increased proportion of D2High has been demonstrated in animal models of schizophrenia, few clinical studies have investigated this alteration of D2High in schizophrenia in vivo.
 2-1	224-232	Although	_
 2-2	233-235	an	_
 2-3	236-245	increased	_
@@ -65,6 +67,7 @@
 2-28	410-414	vivo	_
 2-29	415-416	.	_
 
+Text=Methods Eleven patients with schizophrenia, including 10 antipsychotic-naive and 1 antipsychotic-free individuals, and 17 healthy controls were investigated.
 3-1	417-424	Methods	_
 3-2	425-431	Eleven	_
 3-3	432-440	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -87,6 +90,7 @@
 3-20	563-575	investigated	_
 3-21	576-577	.	_
 
+Text=Psychopathology was assessed by Positive and Negative Syndrome Scale, and a 5-factor model was used.
 4-1	578-593	Psychopathology	_
 4-2	594-597	was	_
 4-3	598-606	assessed	_
@@ -105,6 +109,7 @@
 4-16	674-678	used	_
 4-17	679-680	.	_
 
+Text=Two radioligands, [11C] raclopride and [11C] MNPA, were employed to quantify total dopamine D2 receptor and D2High, respectively, in the striatum by measuring their binding potentials.
 5-1	681-684	Two	_
 5-2	685-697	radioligands	_
 5-3	698-699	,	_
@@ -141,6 +146,7 @@
 5-34	862-872	potentials	_
 5-35	873-874	.	_
 
+Text=Binding potential values of [11C] raclopride and [11C] MNPA and the binding potential ratio of [11C] MNPA to [11C] raclopride in the striatal subregions were statistically compared between the 2 diagnostic groups using multivariate analysis of covariance controlling for age, gender, and smoking.
 6-1	875-882	Binding	_
 6-2	883-892	potential	_
 6-3	893-899	values	_
@@ -196,6 +202,7 @@
 6-53	1173-1180	smoking	_
 6-54	1181-1182	.	_
 
+Text=Correlations between binding potential and Positive and Negative Syndrome Scale scores were also examined.
 7-1	1183-1195	Correlations	_
 7-2	1196-1203	between	_
 7-3	1204-1211	binding	_
@@ -212,6 +219,7 @@
 7-14	1280-1288	examined	_
 7-15	1289-1290	.	_
 
+Text=Results Multivariate analysis of covariance demonstrated a significant effect of diagnosis (schizophrenia and control) on the binding potential ratio (P=.018), although the effects of diagnosis on binding potential values obtained with either [11C] raclopride or [11C] MNPA were nonsignificant.
 8-1	1291-1298	Results	_
 8-2	1299-1311	Multivariate	_
 8-3	1312-1320	analysis	_
@@ -262,6 +270,7 @@
 8-48	1579-1593	nonsignificant	_
 8-49	1594-1595	.	_
 
+Text=Posthoc test showed that the binding potential ratio was significantly higher in the putamen of patients (P=.017).
 9-1	1596-1603	Posthoc	_
 9-2	1604-1608	test	_
 9-3	1609-1615	showed	_
@@ -283,6 +292,7 @@
 9-19	1710-1711	)	_
 9-20	1712-1713	.	_
 
+Text=The Positive and Negative Syndrome Scale “ depressed ” factor in patients was positively correlated with binding potential values of both ligands in the caudate.
 10-1	1714-1717	The	_
 10-2	1718-1726	Positive	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 10-3	1727-1730	and	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
@@ -310,6 +320,7 @@
 10-25	1867-1874	caudate	_
 10-26	1875-1876	.	_
 
+Text=Conclusions The present study indicates the possibilities of: (1) a higher proportion of D2High in the putamen despite unaltered amounts of total dopamine D2 receptors; and (2) associations between depressive symptoms and amounts of caudate dopamine D2 receptors in patients with schizophrenia.
 11-1	1877-1888	Conclusions	_
 11-2	1889-1892	The	_
 11-3	1893-1900	present	_
@@ -360,6 +371,7 @@
 11-48	2163-2176	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-49	2177-2178	.	_
 
+Text=Methods Participants A total of 11 patients with schizophrenia (4 men and 7 women) were recruited from affiliated hospitals or clinics.
 12-1	2179-2186	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 12-2	2187-2199	Participants	_
 12-3	2200-2201	A	_
@@ -385,6 +397,7 @@
 12-23	2308-2315	clinics	_
 12-24	2316-2317	.	_
 
+Text=Seventeen healthy controls (8 men and 9 women) were recruited by the National Institute of Radiological Sciences, Chiba, Japan, for participation in this study.
 13-1	2318-2327	Seventeen	_
 13-2	2328-2335	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 13-3	2336-2344	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -416,6 +429,7 @@
 13-29	2477-2482	study	_
 13-30	2483-2484	.	_
 
+Text=The patient group was comprised of 10 antipsychotic-naive patients (one had taken benzodiazepines the night before her PET scans) and 1 patient who had been antipsychotic-free for 2 years after 1-year treatment with aripiprazole.
 14-1	2485-2488	The	_
 14-2	2489-2496	patient	_
 14-3	2497-2502	group	_
@@ -454,6 +468,7 @@
 14-36	2703-2715	aripiprazole	_
 14-37	2716-2717	.	_
 
+Text=All patients fulfilled the diagnostic criteria for schizophrenia according to DSM-IV.
 15-1	2718-2721	All	_
 15-2	2722-2730	patients	_
 15-3	2731-2740	fulfilled	_
@@ -467,6 +482,7 @@
 15-11	2796-2802	DSM-IV	_
 15-12	2803-2804	.	_
 
+Text=None of the patients were comorbid with other neuropsychiatric disorders or had substance abuse.
 16-1	2805-2809	None	_
 16-2	2810-2812	of	_
 16-3	2813-2816	the	_
@@ -483,6 +499,7 @@
 16-14	2895-2900	abuse	_
 16-15	2901-2902	.	_
 
+Text=Psychopathology was assessed using the Positive and Negative Syndrome Scale (PANSS), and a 5-factor model was used to calculate PANSS subscale scores (positive, negative, disorganized/concrete, excited, and depressed factors).
 17-1	2903-2918	Psychopathology	_
 17-2	2919-2922	was	_
 17-3	2923-2931	assessed	_
@@ -523,6 +540,7 @@
 17-38	3136-3137	)	_
 17-39	3138-3139	.	_
 
+Text=The healthy control volunteers were recruited by public notices.
 18-1	3140-3143	The	_
 18-2	3144-3151	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 18-3	3152-3159	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -534,6 +552,7 @@
 18-9	3196-3203	notices	_
 18-10	3204-3205	.	_
 
+Text=They had no history of psychiatric disease, neurological injury or disease, severe medical diseases, substance abuse that may affect brain functions, or first-degree relatives suffering from psychotic episodes.
 19-1	3206-3210	They	_
 19-2	3211-3214	had	_
 19-3	3215-3217	no	_
@@ -568,6 +587,7 @@
 19-32	3411-3419	episodes	_
 19-33	3420-3421	.	_
 
+Text=All the diagnostic interviews and PANSS ratings were conducted by trained psychiatrists.
 20-1	3422-3425	All	_
 20-2	3426-3429	the	_
 20-3	3430-3440	diagnostic	_
@@ -582,6 +602,7 @@
 20-12	3496-3509	psychiatrists	_
 20-13	3510-3511	.	_
 
+Text=Table 1 presents the participants ’ demographic information.
 21-1	3512-3517	Table	_
 21-2	3518-3519	1	_
 21-3	3520-3528	presents	_
@@ -592,6 +613,7 @@
 21-8	3560-3571	information	_
 21-9	3572-3573	.	_
 
+Text=This study was approved by the Radiation Drug Safety Committee and the Institutional Review Board of the National Institute of Radiological Sciences, Japan, and was carried out in accordance with the Code of Ethics of the World Medical Association.
 22-1	3574-3578	This	_
 22-2	3579-3584	study	_
 22-3	3585-3588	was	_
@@ -635,6 +657,7 @@
 22-41	3812-3823	Association	_
 22-42	3824-3825	.	_
 
+Text=After complete description of the study, written informed consent was obtained from all participants.
 23-1	3826-3831	After	_
 23-2	3832-3840	complete	_
 23-3	3841-3852	description	_
@@ -652,6 +675,7 @@
 23-15	3915-3927	participants	_
 23-16	3928-3929	.	_
 
+Text=Data were collected between April 2008 and October 2016.
 24-1	3930-3934	Data	_
 24-2	3935-3939	were	_
 24-3	3940-3949	collected	_
@@ -663,6 +687,7 @@
 24-9	3981-3985	2016	_
 24-10	3986-3987	.	_
 
+Text=PET Procedures All subjects underwent 2 PET scans on the same day, one with [11C] raclopride and the other with [11C] MNPA, except 1 control subject who took the 2 scans on separate days due to technical trouble.
 25-1	3988-3991	PET	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
 25-2	3992-4002	Procedures	_
 25-3	4003-4006	All	_
@@ -709,6 +734,7 @@
 25-44	4198-4205	trouble	_
 25-45	4206-4207	.	_
 
+Text=[11C] MNPA-PET preceded [11C] raclopride-PET in 10 patients and 11 controls, and [11C] raclopride-PET was followed by [11C] MNPA-PET in 1 patient and 6 controls.
 26-1	4208-4209	[	_
 26-2	4210-4213	11C	_
 26-3	4214-4215	]	_
@@ -745,10 +771,12 @@
 26-34	4369-4377	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 26-35	4378-4379	.	_
 
+Text=After i.v.
 27-1	4380-4385	After	_
 27-2	4386-4389	i.v	_
 27-3	4390-4391	.	_
 
+Text=rapid bolus injection of [11C] raclopride, a PET scan was performed for 60 minutes.
 28-1	4392-4397	rapid	_
 28-2	4398-4403	bolus	_
 28-3	4404-4413	injection	_
@@ -768,12 +796,14 @@
 28-17	4470-4477	minutes	_
 28-18	4478-4479	.	_
 
+Text=Similarly, after i.v.
 29-1	4480-4489	Similarly	_
 29-2	4490-4491	,	_
 29-3	4492-4497	after	_
 29-4	4498-4501	i.v	_
 29-5	4502-4503	.	_
 
+Text=rapid bolus injection of [11C] MNPA, a PET scan was performed for 90 minutes.
 30-1	4504-4509	rapid	_
 30-2	4510-4515	bolus	_
 30-3	4516-4525	injection	_
@@ -793,6 +823,7 @@
 30-17	4576-4583	minutes	_
 30-18	4584-4585	.	_
 
+Text=The time interval between initiations of the first and second PET scans was 120 minutes or longer.
 31-1	4586-4589	The	_
 31-2	4590-4594	time	_
 31-3	4595-4603	interval	_
@@ -812,6 +843,7 @@
 31-17	4677-4683	longer	_
 31-18	4684-4685	.	_
 
+Text=For both PET scans, 3-dimensional dynamic PET data were acquired with a Siemens ECAT Exact HR+ system (CTI/Siemens), which provides 63 sections with an axial field of view of 15.5 cm.
 32-1	4686-4689	For	_
 32-2	4690-4694	both	_
 32-3	4695-4698	PET	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
@@ -849,6 +881,7 @@
 32-35	4870-4872	cm	_
 32-36	4873-4874	.	_
 
+Text=PET images were reconstructed with a filtered back-projection method with corrections for attenuation and scatter.
 33-1	4875-4878	PET	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
 33-2	4879-4885	images	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
 33-3	4886-4890	were	_
@@ -866,6 +899,7 @@
 33-15	4981-4988	scatter	_
 33-16	4989-4990	.	_
 
+Text=The reconstructed in-plane resolution was 7.5 mm full-width at half-maximum.
 34-1	4991-4994	The	_
 34-2	4995-5008	reconstructed	_
 34-3	5009-5017	in-plane	_
@@ -878,6 +912,7 @@
 34-10	5054-5066	half-maximum	_
 34-11	5067-5068	.	_
 
+Text=A 10-minute transmission scan using a 68Ge/68Ga line source was performed before each PET scan for attenuation correction.
 35-1	5069-5070	A	_
 35-2	5071-5080	10-minute	_
 35-3	5081-5093	transmission	_
@@ -898,6 +933,7 @@
 35-18	5180-5190	correction	_
 35-19	5191-5192	.	_
 
+Text=A thermoplastic head fixation device was used to minimize head movement during PET scanning.
 36-1	5193-5194	A	_
 36-2	5195-5208	thermoplastic	_
 36-3	5209-5213	head	_
@@ -914,6 +950,7 @@
 36-14	5276-5284	scanning	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
 36-15	5285-5286	.	_
 
+Text=The dynamic scans consisted of twelve 20-second frames, sixteen 60-second frames, and ten 240-second frames for [11C] raclopride, and nine 20-second frames, five 60-second frames, four 120-second frames, eleven 240-second frames, and six 300-second frames for [11C] MNPA.
 37-1	5287-5290	The	_
 37-2	5291-5298	dynamic	_
 37-3	5299-5304	scans	_
@@ -965,6 +1002,7 @@
 37-49	5564-5568	MNPA	_
 37-50	5569-5570	.	_
 
+Text=MRI Procedures Because of replacements of MRI machines during this study, 3 types of MRI devices were used depending on the time of participant recruitment.
 38-1	5571-5574	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 38-2	5575-5585	Procedures	_
 38-3	5586-5593	Because	_
@@ -993,6 +1031,7 @@
 38-26	5716-5727	recruitment	_
 38-27	5728-5729	.	_
 
+Text=For the initial 4 patients and 7 controls, MR images were acquired with a 1.5-T MR scanner (Intera, Philips Medical Systems).
 39-1	5730-5733	For	_
 39-2	5734-5737	the	_
 39-3	5738-5745	initial	_
@@ -1020,6 +1059,7 @@
 39-25	5857-5858	)	_
 39-26	5859-5860	.	_
 
+Text=3D volumetric acquisition of a T1-weighted gradient echo sequence produced a gapless series of thin transverse sections (TE 9.2 ms, TR 21 ms, flip angle 30°, field of view 256 mm, acquisition matrix 256 × 256, slice thickness 1 mm).
 40-1	5861-5863	3D	_
 40-2	5864-5874	volumetric	_
 40-3	5875-5886	acquisition	_
@@ -1069,6 +1109,7 @@
 40-47	6098-6099	)	_
 40-48	6100-6101	.	_
 
+Text=Then, for the next 6 patients, a 3-T MR scanner (Sigma HDx, General Electric) was used.
 41-1	6102-6106	Then	_
 41-2	6107-6108	,	_
 41-3	6109-6112	for	_
@@ -1092,6 +1133,7 @@
 41-21	6189-6193	used	_
 41-22	6194-6195	.	_
 
+Text=3D volumetric acquisition of a T1-weighted 3-dimensional fast spoiled gradient-recalled acquisition in the steady-state sequence produced a gapless series of thin transverse sections (TE 2.8 ms, TR 7.0 ms, flip angle 8°, field of view 260 mm, acquisition matrix 256 × 256, slice thickness 1 mm).
 42-1	6196-6198	3D	_
 42-2	6199-6209	volumetric	_
 42-3	6210-6221	acquisition	_
@@ -1147,6 +1189,7 @@
 42-53	6496-6497	)	_
 42-54	6498-6499	.	_
 
+Text=Finally, for 1 patient and 10 controls, T1-weighted MR images were obtained with another 3-T MR scanner (MAGNETOM Verio, Siemens).
 43-1	6500-6507	Finally	_
 43-2	6508-6509	,	_
 43-3	6510-6513	for	_
@@ -1174,6 +1217,7 @@
 43-25	6633-6634	)	_
 43-26	6635-6636	.	_
 
+Text=3D volumetric acquisition of a T1-weighted gradient echo sequence produced a gapless series of thin sagittal sections (TE 1.95 ms, TR 2300 ms, TI 900 ms, flip angle 9°, field of view 250 mm, acquisition matrix 256×256, slice thickness 1 mm).
 44-1	6637-6639	3D	_
 44-2	6640-6650	volumetric	_
 44-3	6651-6662	acquisition	_
@@ -1225,6 +1269,7 @@
 44-49	6884-6885	)	_
 44-50	6886-6887	.	_
 
+Text=Region of Interest (ROI) Definition All ROIs used in our analyses were initially defined on a standard anatomic orientation (MNI standard space; Montreal Neurological Institute).
 45-1	6888-6894	Region	_
 45-2	6895-6897	of	_
 45-3	6898-6906	Interest	_
@@ -1257,6 +1302,7 @@
 45-30	7069-7070	)	_
 45-31	7071-7072	.	_
 
+Text=Striatum ROIs (caudate, putamen, and ventral striata) were defined using a striatum anatomical atlas.
 46-1	7073-7081	Striatum	_
 46-2	7082-7086	ROIs	_
 46-3	7087-7088	(	_
@@ -1277,6 +1323,7 @@
 46-18	7172-7177	atlas	_
 46-19	7178-7179	.	_
 
+Text=A cerebellum ROI was defined with a probabilistic cerebellar atlas, excluding the vermis.
 47-1	7180-7181	A	_
 47-2	7182-7192	cerebellum	_
 47-3	7193-7196	ROI	_
@@ -1293,6 +1340,7 @@
 47-14	7263-7269	vermis	_
 47-15	7270-7271	.	_
 
+Text=These ROIs were transformed into individual MR spaces with transformation matrices calculated with the “ normalize ” function of statistical parametric mapping software (SPM12; Wellcome Department of Imaging Neuroscience) and were thresholded using FreeSurfer ’ s automated anatomical segmentation to exclude neighboring white matter, ventricles, and non-brain regions.
 48-1	7272-7277	These	_
 48-2	7278-7282	ROIs	_
 48-3	7283-7287	were	_
@@ -1348,6 +1396,7 @@
 48-53	7638-7645	regions	_
 48-54	7646-7647	.	_
 
+Text=Time-activity curves for each ROI were extracted by applying these ROIs to individual dynamic PET images based on the transformation parameters for the coregistration of MR images to the PET spaces using PMOD software ver.
 49-1	7648-7661	Time-activity	_
 49-2	7662-7668	curves	_
 49-3	7669-7672	for	_
@@ -1385,6 +1434,7 @@
 49-35	7866-7869	ver	_
 49-36	7870-7871	.	_
 
+Text=3.7 (PMOD Technologies Ltd).
 50-1	7872-7875	3.7	_
 50-2	7876-7877	(	_
 50-3	7878-7882	PMOD	_
@@ -1393,6 +1443,7 @@
 50-6	7900-7901	)	_
 50-7	7902-7903	.	_
 
+Text=Quantification of Total D2R and D2High Availabilities in the Striatum Availabilities of striatal total D2R and D2High were quantified as binding potentials relative to the nondisplaceable tissue (BPND) of [11C] raclopride and [11C] MNPA, respectively.
 51-1	7904-7918	Quantification	_
 51-2	7919-7921	of	_
 51-3	7922-7927	Total	_
@@ -1437,6 +1488,7 @@
 51-42	8149-8161	respectively	_
 51-43	8162-8163	.	_
 
+Text=[11C] raclopride BPND and [11C] MNPA BPND were calculated for each ROI using a 3-parameter simplified reference tissue model and cerebellar cortex as reference tissue, which has negligible density of D2R.
 52-1	8164-8165	[	_
 52-2	8166-8169	11C	_
 52-3	8170-8171	]	_
@@ -1475,6 +1527,7 @@
 52-36	8369-8372	D2R	_
 52-37	8373-8374	.	_
 
+Text=BPND was defined as follows: where fND is the free fraction of radioligand in the nondisplaceable tissue compartment and Bavail indicates the neuroreceptor density.
 53-1	8375-8379	BPND	_
 53-2	8380-8383	was	_
 53-3	8384-8391	defined	_
@@ -1502,6 +1555,7 @@
 53-25	8532-8539	density	_
 53-26	8540-8541	.	_
 
+Text=All kinetic analyses were performed using PMOD software ver.
 54-1	8542-8545	All	_
 54-2	8546-8553	kinetic	_
 54-3	8554-8562	analyses	_
@@ -1513,9 +1567,11 @@
 54-9	8598-8601	ver	_
 54-10	8602-8603	.	_
 
+Text=3.7.
 55-1	8604-8607	3.7	_
 55-2	8608-8609	.	_
 
+Text=Statistical Analysis Statistical analyses were conducted with SPSS 23.0 (SPSS Inc).
 56-1	8610-8621	Statistical	_
 56-2	8622-8630	Analysis	_
 56-3	8631-8642	Statistical	_
@@ -1531,6 +1587,7 @@
 56-13	8693-8694	)	_
 56-14	8695-8696	.	_
 
+Text=First, MANCOVA was applied to examine group differences in: (1) BPND of [11C] raclopride; (2) BPND of [11C] MNPA; and (3) the BPND ratio (ratio of [11C] MNPA BPND to [11C] raclopride BPND) in 3 striatal ROIs (caudate, putamen, and ventral striata), separately.
 57-1	8697-8702	First	_
 57-2	8703-8704	,	_
 57-3	8705-8712	MANCOVA	_
@@ -1601,6 +1658,7 @@
 57-68	8971-8981	separately	_
 57-69	8982-8983	.	_
 
+Text=A fixed factor was diagnosis (patients = 1, controls = 0).
 58-1	8984-8985	A	_
 58-2	8986-8991	fixed	_
 58-3	8992-8998	factor	_
@@ -1617,6 +1675,7 @@
 58-14	9043-9044	)	_
 58-15	9045-9046	.	_
 
+Text=Nuisance covariates were defined as age, gender, and smoking state (smoker = 1, nonsmoker = 0) to control for their potential effects on D2Rs.
 59-1	9047-9055	Nuisance	_
 59-2	9056-9066	covariates	_
 59-3	9067-9071	were	_
@@ -1648,6 +1707,7 @@
 59-29	9189-9193	D2Rs	_
 59-30	9194-9195	.	_
 
+Text=Statistical significance threshold was defined as P <.05 (2-tailed).
 60-1	9196-9207	Statistical	_
 60-2	9208-9220	significance	_
 60-3	9221-9230	threshold	_
@@ -1662,6 +1722,7 @@
 60-12	9265-9266	)	_
 60-13	9267-9268	.	_
 
+Text=Second, correlational analyses were performed between the BPND values mentioned above and each of the PANSS factor scores (positive, negative, disorganized/concrete, excited, and depressed factors) in patients.
 61-1	9269-9275	Second	_
 61-2	9276-9277	,	_
 61-3	9278-9291	correlational	_
@@ -1698,6 +1759,7 @@
 61-34	9477-9485	patients	_
 61-35	9486-9487	.	_
 
+Text=The statistical threshold was set at P <.05 with Bonferroni correction for the 3 striatal subregions (caudate, putamen, and ventral striata), as in previous studies.
 62-1	9488-9491	The	_
 62-2	9492-9503	statistical	_
 62-3	9504-9513	threshold	_
@@ -1731,6 +1793,7 @@
 62-31	9651-9658	studies	_
 62-32	9659-9660	.	_
 
+Text=Because of the small sample size and exploratory nature of this study, corrections were not applied for multiple comparisons of the 5 PANSS factor scores and the 3 binding parameters ([11C] raclopride BPND, [11C] MNPA BPND, and their ratio).
 63-1	9661-9668	Because	_
 63-2	9669-9671	of	_
 63-3	9672-9675	the	_
@@ -1781,6 +1844,7 @@
 63-48	9909-9910	)	_
 63-49	9911-9912	.	_
 
+Text=In case significant correlations were found, partial correlation analyses were also performed, controlling for age, gender, smoking state, or duration of illness.
 64-1	9913-9915	In	_
 64-2	9916-9920	case	_
 64-3	9921-9932	significant	_
@@ -1810,6 +1874,7 @@
 64-27	10072-10079	illness	_
 64-28	10080-10081	.	_
 
+Text=Statistical significance threshold was defined as P <.05 (2-tailed).
 65-1	10082-10093	Statistical	_
 65-2	10094-10106	significance	_
 65-3	10107-10116	threshold	_

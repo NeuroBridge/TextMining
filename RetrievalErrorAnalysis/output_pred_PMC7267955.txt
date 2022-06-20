@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Impaired interactions among white‐matter functional networks in antipsychotic‐naive first‐episode schizophrenia Abstract Schizophrenia has been conceptualized as a disorder arising from structurally pathological alterations to white‐matter fibers in the brain.
 1-1	0-8	Impaired	_
 1-2	9-21	interactions	_
 1-3	22-27	among	_
@@ -33,6 +34,7 @@
 1-29	254-259	brain	_
 1-30	260-261	.	_
 
+Text=However, few studies have focused on white‐matter functional changes in schizophrenia.
 2-1	262-269	However	_
 2-2	270-271	,	_
 2-3	272-275	few	_
@@ -47,6 +49,7 @@
 2-12	335-348	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-13	349-350	.	_
 
+Text=Considering that converging evidence suggests that white‐matter resting state functional MRI (rsfMRI) signals can effectively depict neuronal activity and psychopathological status, this study examined white‐matter network‐level interactions in antipsychotic‐naive first‐episode schizophrenia (FES) to facilitate the interpretation of the psychiatric pathological mechanisms in schizophrenia.
 3-1	351-362	Considering	_
 3-2	363-367	that	_
 3-3	368-378	converging	_
@@ -97,6 +100,7 @@
 3-48	734-747	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 3-49	748-749	.	_
 
+Text=We recruited 42 FES patients (FESs) and 38 healthy controls (HCs), all of whom underwent rsfMRI.
 4-1	750-752	We	_
 4-2	753-762	recruited	_
 4-3	763-765	42	_
@@ -120,6 +124,7 @@
 4-21	844-850	rsfMRI	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 4-22	851-852	.	_
 
+Text=We identified 11 white‐matter functional networks, which could be further classified into deep, middle, and superficial layers of networks.
 5-1	853-855	We	_
 5-2	856-866	identified	_
 5-3	867-869	11	_
@@ -144,6 +149,7 @@
 5-22	986-994	networks	_
 5-23	995-996	.	_
 
+Text=We then examined network‐level interactions among these 11 white‐matter functional networks using coefficient Granger causality analysis.
 6-1	997-999	We	_
 6-2	1000-1004	then	_
 6-3	1005-1013	examined	_
@@ -162,6 +168,7 @@
 6-16	1125-1133	analysis	_
 6-17	1134-1135	.	_
 
+Text=We employed group comparisons on the influences among 11 networks using network‐based statistic.
 7-1	1136-1138	We	_
 7-2	1139-1147	employed	_
 7-3	1148-1153	group	_
@@ -177,6 +184,7 @@
 7-13	1222-1231	statistic	_
 7-14	1232-1233	.	_
 
+Text=Excitatory influences from the middle superior corona radiate network to the superficial orbitofrontal and deep networks were disrupted in FESs compared with HCs.
 8-1	1234-1244	Excitatory	_
 8-2	1245-1255	influences	_
 8-3	1256-1260	from	_
@@ -202,6 +210,7 @@
 8-23	1392-1395	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 8-24	1396-1397	.	_
 
+Text=Additionally, an extra failure of suppression within superficial networks (including the frontoparietal network, temporofrontal network, and the orbitofrontal network) was observed in FESs.
 9-1	1398-1410	Additionally	_
 9-2	1411-1412	,	_
 9-3	1413-1415	an	_
@@ -232,6 +241,7 @@
 9-28	1587-1591	FESs	_
 9-29	1592-1593	.	_
 
+Text=We additionally recruited an independent cohort (13 FESs and 13 HCs) from another center to examine the replicability of our findings across centers.
 10-1	1594-1596	We	_
 10-2	1597-1609	additionally	_
 10-3	1610-1619	recruited	_
@@ -259,6 +269,7 @@
 10-25	1737-1744	centers	_
 10-26	1745-1746	.	_
 
+Text=Similar replication results further verified the white‐matter functional network interaction model of schizophrenia.
 11-1	1747-1754	Similar	_
 11-2	1755-1766	replication	_
 11-3	1767-1774	results	_
@@ -274,6 +285,7 @@
 11-13	1849-1862	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-14	1863-1864	.	_
 
+Text=The novel findings of impaired interactions among white‐matter functional networks in schizophrenia indicate that the pathophysiology of schizophrenia may also lie in white‐matter functional abnormalities.
 12-1	1865-1868	The	_
 12-2	1869-1874	novel	_
 12-3	1875-1883	findings	_
@@ -301,6 +313,7 @@
 12-25	2056-2069	abnormalities	_
 12-26	2070-2071	.	_
 
+Text=METHODS Participants Primary cohort A total of 80 right‐handed participants were recruited, including 42 FESs, and 38 sex‐, age‐, and education level‐matched HCs with informed consent (see Table 1 for detailed demographic and clinical information).
 13-1	2072-2079	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 13-2	2080-2092	Participants	_
 13-3	2093-2100	Primary	_
@@ -344,6 +357,7 @@
 13-41	2324-2325	)	_
 13-42	2326-2327	.	_
 
+Text=All examinations were carried out under the guidance of the Declaration of Helsinki.
 14-1	2328-2331	All	_
 14-2	2332-2344	examinations	_
 14-3	2345-2349	were	_
@@ -359,6 +373,7 @@
 14-13	2403-2411	Helsinki	_
 14-14	2412-2413	.	_
 
+Text=This study was approved by the Ethics Committee of the Second Affiliated Hospital of Xinxiang Medical University, China.
 15-1	2414-2418	This	_
 15-2	2419-2424	study	_
 15-3	2425-2428	was	_
@@ -380,6 +395,7 @@
 15-19	2529-2534	China	_
 15-20	2535-2536	.	_
 
+Text=Patients were recruited from outpatient treatment settings at the Second Affiliated Hospital of Xinxiang Medical University, a psychiatric hospital with 1,500 beds.
 16-1	2537-2545	Patients	_
 16-2	2546-2550	were	_
 16-3	2551-2560	recruited	_
@@ -405,6 +421,7 @@
 16-23	2697-2701	beds	_
 16-24	2702-2703	.	_
 
+Text=Controls were recruited through media advertisements.
 17-1	2704-2712	Controls	_
 17-2	2713-2717	were	_
 17-3	2718-2727	recruited	_
@@ -413,6 +430,7 @@
 17-6	2742-2756	advertisements	_
 17-7	2757-2758	.	_
 
+Text=All the subjects were Chinese Han people living in towns around the hospital, with household earnings around the national average.
 18-1	2759-2762	All	_
 18-2	2763-2766	the	_
 18-3	2767-2775	subjects	_
@@ -436,6 +454,7 @@
 18-21	2882-2889	average	_
 18-22	2890-2891	.	_
 
+Text=The diagnosis of schizophrenia was in accordance with the Structured Clinical Interview for DSM‐IV‐TR, patient version (SCID‐I/P), and was confirmed by two trained psychiatrists.
 19-1	2892-2895	The	_
 19-2	2896-2905	diagnosis	_
 19-3	2906-2908	of	_
@@ -466,6 +485,7 @@
 19-28	3060-3073	psychiatrists	_
 19-29	3074-3075	.	_
 
+Text=All the patients were experiencing first‐episode psychosis with less than 1‐year disease duration.
 20-1	3076-3079	All	_
 20-2	3080-3083	the	_
 20-3	3084-3092	patients	_
@@ -481,6 +501,7 @@
 20-13	3165-3173	duration	_
 20-14	3174-3175	.	_
 
+Text=Psychiatric symptomatology of the FESs was evaluated using the Positive and Negative Syndrome Scale (PANSS).
 21-1	3176-3187	Psychiatric	_
 21-2	3188-3202	symptomatology	_
 21-3	3203-3205	of	_
@@ -500,6 +521,7 @@
 21-17	3284-3285	)	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 21-18	3286-3287	.	_
 
+Text=Both HCs and their first‐degree relatives were screened using the nonpatient version of the SCID to rule out individuals who presented with any history of neurological disorders or psychiatric illnesses.
 22-1	3288-3292	Both	_
 22-2	3293-3296	HCs	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 22-3	3297-3300	and	_
@@ -532,6 +554,7 @@
 22-30	3481-3490	illnesses	_
 22-31	3491-3492	.	_
 
+Text=Participants were excluded if they (a) were <18 years old; (b) had current comorbid substance‐use disorder (daily consumption of substances for at least 1 year); (c) had a history of neurological disorders or family history of hereditary neurological disorders; (d) had gross morphological anomalies as evidenced by brain MRI scans; and (d) had any electronic or metal implants.
 23-1	3493-3505	Participants	_
 23-2	3506-3510	were	_
 23-3	3511-3519	excluded	_
@@ -609,6 +632,7 @@
 23-75	3879-3887	implants	_
 23-76	3888-3889	.	_
 
+Text=Replication cohort Considering the methodological novelty of this study and increasing concern about reproducibility of neuroscientific findings (Button et al., 2013), an independent replication cohort was necessary to determine the replicability of current findings.
 24-1	3890-3901	Replication	_
 24-2	3902-3908	cohort	_
 24-3	3909-3920	Considering	_
@@ -649,6 +673,7 @@
 24-38	4152-4160	findings	_
 24-39	4161-4162	.	_
 
+Text=A total of 26 right‐handed participants were recruited (see Table S3 in Supplementary 5 for detailed demographic information), including 13 FESs, and 13 sex‐, age‐, and education level‐matched HCs after providing informed consent according to the guidelines of the First Affiliated Hospital of Chongqing Medical University.
 25-1	4163-4164	A	_
 25-2	4165-4170	total	_
 25-3	4171-4173	of	_
@@ -703,6 +728,7 @@
 25-52	4481-4491	University	_
 25-53	4492-4493	.	_
 
+Text=Patients were recruited from outpatient treatment settings at the First Affiliated Hospital of Chongqing Medical University, which is a general hospital with 3,200 beds.
 26-1	4494-4502	Patients	_
 26-2	4503-4507	were	_
 26-3	4508-4517	recruited	_
@@ -730,6 +756,7 @@
 26-25	4659-4663	beds	_
 26-26	4664-4665	.	_
 
+Text=All the patients were experiencing first‐episode psychosis with less than 1‐year disease duration.
 27-1	4666-4669	All	_
 27-2	4670-4673	the	_
 27-3	4674-4682	patients	_
@@ -745,6 +772,7 @@
 27-13	4755-4763	duration	_
 27-14	4764-4765	.	_
 
+Text=Controls were recruited through media advertisements.
 28-1	4766-4774	Controls	_
 28-2	4775-4779	were	_
 28-3	4780-4789	recruited	_
@@ -753,6 +781,7 @@
 28-6	4804-4818	advertisements	_
 28-7	4819-4820	.	_
 
+Text=All the participants were Chinese Han people living in towns around the hospital, with household earnings around the national average.
 29-1	4821-4824	All	_
 29-2	4825-4828	the	_
 29-3	4829-4841	participants	_
@@ -776,6 +805,7 @@
 29-21	4948-4955	average	_
 29-22	4956-4957	.	_
 
+Text=The exclusion criteria were the same for both the primary cohort and the replication cohort.
 30-1	4958-4961	The	_
 30-2	4962-4971	exclusion	_
 30-3	4972-4980	criteria	_
@@ -793,6 +823,7 @@
 30-15	5043-5049	cohort	_
 30-16	5050-5051	.	_
 
+Text=See Supplementary 5 for data acquisition.
 31-1	5052-5055	See	_
 31-2	5056-5069	Supplementary	_
 31-3	5070-5071	5	_
@@ -801,6 +832,7 @@
 31-6	5081-5092	acquisition	_
 31-7	5093-5094	.	_
 
+Text=One FES patient and one HC were excluded for their excessive head motion (see following data preprocessing).
 32-1	5095-5098	One	_
 32-2	5099-5102	FES	http://maven.renci.org/NeuroBridge/neurobridge#QualityofLifeScale
 32-3	5103-5110	patient	_
@@ -822,6 +854,7 @@
 32-19	5203-5204	)	_
 32-20	5205-5206	.	_
 
+Text=Ultimately, 24 subjects took part in further analyses, which were identical with data analyses of the primary cohort described below.
 33-1	5207-5217	Ultimately	_
 33-2	5218-5219	,	_
 33-3	5220-5222	24	_
@@ -846,6 +879,7 @@
 33-22	5336-5341	below	_
 33-23	5342-5343	.	_
 
+Text=Data acquisition Imaging data of the primary cohort were collected using a 3.0 Tesla MRI scanner (Siemens Medical Systems, Erlangen, Germany) at the Second Affiliated Hospital of Xinxiang Medical University.
 34-1	5344-5348	Data	_
 34-2	5349-5360	acquisition	_
 34-3	5361-5368	Imaging	_
@@ -882,6 +916,7 @@
 34-34	5544-5554	University	_
 34-35	5555-5556	.	_
 
+Text=Participants were instructed to stay awake with their eyes closed and not to think of anything in particular.
 35-1	5557-5569	Participants	_
 35-2	5570-5574	were	_
 35-3	5575-5585	instructed	_
@@ -902,6 +937,7 @@
 35-18	5655-5665	particular	_
 35-19	5666-5667	.	_
 
+Text=T1‐weighted anatomical images were acquired by a three‐dimensional fast spoiled gradient‐echo sequence with the following parameters: TR = 1,900 ms; TE = 2.52 ms; flip angle = 90°; field of view = 250 × 250 mm2; matrix = 256 × 256, 176 axial slices; slice thickness = 1 mm, no gap.
 36-1	5668-5679	T1‐weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 36-2	5680-5690	anatomical	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 36-3	5691-5697	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -963,6 +999,7 @@
 36-59	5953-5956	gap	_
 36-60	5957-5958	.	_
 
+Text=Resting‐state functional images were acquired using an echo‐planar imaging (EPI) sequence with the following parameters: TR = 2,000 ms; TE = 30 ms; flip angle = 90°; field of view = 220 × 220 mm2; matrix = 64 × 64, 33 axial slices; slice thickness = 3 mm, 0.6 mm gap; 240 volumes.
 37-1	5959-5972	Resting‐state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 37-2	5973-5983	functional	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 37-3	5984-5990	images	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1029,6 +1066,7 @@
 37-64	6242-6249	volumes	_
 37-65	6250-6251	.	_
 
+Text=Data Preprocessing fMRI data of both the primary cohort and the replication cohort were preprocessed using the Data Processing Assistant for resting‐state fMRI software (DPARSF, Advanced Edition, V4.3; http: //www.restfmri.net) and Statistical Parametric Mapping toolkits (SPM8; http: //www.fil.ion.ucl.ac.uk/spm).
 38-1	6252-6256	Data	_
 38-2	6257-6270	Preprocessing	_
 38-3	6271-6275	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1079,6 +1117,7 @@
 38-48	6574-6575	)	_
 38-49	6576-6577	.	_
 
+Text=T1‐weighted anatomical images were segmented into white‐matter, gray‐matter, and cerebrospinal fluid (CSF) using SPM8's New Segment algorithm and then normalized to the Montreal Neurological Institute template.
 39-1	6578-6589	T1‐weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 39-2	6590-6600	anatomical	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 39-3	6601-6607	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1112,6 +1151,7 @@
 39-31	6784-6792	template	_
 39-32	6793-6794	.	_
 
+Text=The first 10 volumes were discarded.
 40-1	6795-6798	The	_
 40-2	6799-6804	first	_
 40-3	6805-6807	10	_
@@ -1120,6 +1160,7 @@
 40-6	6821-6830	discarded	_
 40-7	6831-6832	.	_
 
+Text=The remaining volumes were then slice‐time corrected and motion corrected (cutoff <3 mm or 3°) to the mean functional image, and coregistered with an anatomical image.
 41-1	6833-6836	The	_
 41-2	6837-6846	remaining	_
 41-3	6847-6854	volumes	_
@@ -1152,6 +1193,7 @@
 41-30	6998-7003	image	_
 41-31	7004-7005	.	_
 
+Text=One FES patient and one HC in the replication cohort were excluded for excessive head movement, and no participant was excluded in the primary cohort.
 42-1	7006-7009	One	_
 42-2	7010-7013	FES	http://maven.renci.org/NeuroBridge/neurobridge#QualityofLifeScale
 42-3	7014-7021	patient	_
@@ -1180,6 +1222,7 @@
 42-26	7150-7156	cohort	_
 42-27	7157-7158	.	_
 
+Text=The framewise displacement (FD) was calculated and used to determine motion “ spikes ” (FD> 1 mm) to further minimize motion effects (J. Guo et al., 2019; X. Guo et al., 2019; Power, Barnes, Snyder, Schlaggar, & Petersen, 2012).
 43-1	7159-7162	The	_
 43-2	7163-7172	framewise	_
 43-3	7173-7185	displacement	_
@@ -1237,6 +1280,7 @@
 43-55	7401-7402	)	_
 43-56	7403-7404	.	_
 
+Text=The functional images were then detrended to remove linear drifts.
 44-1	7405-7408	The	_
 44-2	7409-7419	functional	_
 44-3	7420-7426	images	_
@@ -1249,6 +1293,7 @@
 44-10	7464-7470	drifts	_
 44-11	7471-7472	.	_
 
+Text=Next, nuisance covariates, including 24 head motion parameters (Friston, Williams, Howard, Frackowiak, & Turner, 1996) and the mean CSF signals were regressed out, while the white‐matter and global brain signals (Han et al., 2019) were not regressed out to avoid eliminating signals of interest.
 45-1	7473-7477	Next	_
 45-2	7478-7479	,	_
 45-3	7480-7488	nuisance	_
@@ -1308,6 +1353,7 @@
 45-57	7772-7780	interest	_
 45-58	7781-7782	.	_
 
+Text=Additionally, motion “ spikes ” were also included as separate regressors to effectively censored the data at the spike without further changes to correlation values (Jiang et al., 2018; R. Li et al., 2018).
 46-1	7783-7795	Additionally	_
 46-2	7796-7797	,	_
 46-3	7798-7804	motion	_
@@ -1350,6 +1396,7 @@
 46-40	7994-7995	)	_
 46-41	7996-7997	.	_
 
+Text=A 0.01–0.15 Hz temporal band‐pass filter was applied to reduce nonneuronal contributions to BOLD fluctuations.
 47-1	7998-7999	A	_
 47-2	8000-8009	0.01–0.15	_
 47-3	8010-8012	Hz	_
@@ -1367,6 +1414,7 @@
 47-15	8095-8107	fluctuations	_
 47-16	8108-8109	.	_
 
+Text=Next, white‐matter functional images were spatially smoothed.
 48-1	8110-8114	Next	_
 48-2	8115-8116	,	_
 48-3	8117-8129	white‐matter	_
@@ -1377,6 +1425,7 @@
 48-8	8163-8171	smoothed	_
 48-9	8172-8173	.	_
 
+Text=Specifically, the T1 segmentation image for each participant was coregistered to the functional space for identifying the white‐matter mask (using a threshold of 0.5 as a previous study suggested) (Peer et al., 2017).
 49-1	8174-8186	Specifically	_
 49-2	8187-8188	,	_
 49-3	8189-8192	the	_
@@ -1418,6 +1467,7 @@
 49-39	8395-8396	)	_
 49-40	8397-8398	.	_
 
+Text=The functional images were then smoothed (4 mm full‐width half‐maximum) on the mask.
 50-1	8399-8402	The	_
 50-2	8403-8413	functional	_
 50-3	8414-8420	images	_
@@ -1435,6 +1485,7 @@
 50-15	8480-8484	mask	_
 50-16	8485-8486	.	_
 
+Text=The smoothed white‐matter functional images were used for further analyses.
 51-1	8487-8490	The	_
 51-2	8491-8499	smoothed	_
 51-3	8500-8512	white‐matter	_
@@ -1447,6 +1498,7 @@
 51-10	8553-8561	analyses	_
 51-11	8562-8563	.	_
 
+Text=Finally, the images were normalized to the standard EPI template and resampling to 3 mm3 cubic voxels.
 52-1	8564-8571	Finally	_
 52-2	8572-8573	,	_
 52-3	8574-8577	the	_
@@ -1467,6 +1519,7 @@
 52-18	8660-8666	voxels	_
 52-19	8667-8668	.	_
 
+Text=White‐matter functional networks clustering The analysis codes were adapted from the online codes published by Peer and colleagues (Peer et al., 2017), and the analysis steps are briefly described here.
 53-1	8669-8681	White‐matter	_
 53-2	8682-8692	functional	_
 53-3	8693-8701	networks	_
@@ -1503,6 +1556,7 @@
 53-34	8870-8874	here	_
 53-35	8875-8876	.	_
 
+Text=First, the unified group‐level white‐matter masks were obtained using the T1‐weighted anatomical image segmentation results.
 54-1	8877-8882	First	_
 54-2	8883-8884	,	_
 54-3	8885-8888	the	_
@@ -1521,6 +1575,7 @@
 54-16	8994-9001	results	_
 54-17	9002-9003	.	_
 
+Text=Voxels with a percentage of participants> 60% were identified as the group‐level white‐matter mask (Peer et al., 2017).
 55-1	9004-9010	Voxels	_
 55-2	9011-9015	with	_
 55-3	9016-9017	a	_
@@ -1546,6 +1601,7 @@
 55-23	9126-9127	)	_
 55-24	9128-9129	.	_
 
+Text=The subcortical areas (based on the Harvard‐Oxford Atlas) were removed from the white‐matter mask.
 56-1	9130-9133	The	_
 56-2	9134-9145	subcortical	_
 56-3	9146-9151	areas	_
@@ -1564,6 +1620,7 @@
 56-16	9225-9229	mask	_
 56-17	9230-9231	.	_
 
+Text=Next, the white‐matter functional networks were identified by a clustering approach based on the Pearson's correlation matrices between white‐matter voxels that group masks restricted.
 57-1	9232-9236	Next	_
 57-2	9237-9238	,	_
 57-3	9239-9242	the	_
@@ -1592,6 +1649,7 @@
 57-26	9407-9417	restricted	_
 57-27	9418-9419	.	_
 
+Text=K‐means clustering (distance metric‐correlation, 10 replicates) was employed on the averaged correlation matrices across groups.
 58-1	9420-9427	K‐means	_
 58-2	9428-9438	clustering	_
 58-3	9439-9440	(	_
@@ -1612,6 +1670,7 @@
 58-18	9544-9550	groups	_
 58-19	9551-9552	.	_
 
+Text=The numbers of clusters ranged from 2 to 22.
 59-1	9553-9556	The	_
 59-2	9557-9564	numbers	_
 59-3	9565-9567	of	_
@@ -1623,6 +1682,7 @@
 59-9	9594-9596	22	_
 59-10	9597-9598	.	_
 
+Text=Finally, by assessing the stability of the number of clusters using an averaged Dice's coefficient (the threshold was set at 0.85), the most stable and detailed white‐matter functional network masks were obtained.
 60-1	9599-9606	Finally	_
 60-2	9607-9608	,	_
 60-3	9609-9611	by	_
@@ -1662,6 +1722,7 @@
 60-37	9808-9816	obtained	_
 60-38	9817-9818	.	_
 
+Text=(See Supplementary 1 for further details concerning the steps taken in white‐matter functional networks clustering.)
 61-1	9819-9820	(	_
 61-2	9821-9824	See	_
 61-3	9825-9838	Supplementary	_
@@ -1681,6 +1742,7 @@
 61-17	9935-9936	.	_
 61-18	9937-9938	)	_
 
+Text=In the primary cohort, according to the Dice's coefficient of each number of clusters, the most stable and detailed white‐matter functional network number was 11 (see Figure S1 in Supplementary 1).
 62-1	9939-9941	In	_
 62-2	9942-9945	the	_
 62-3	9946-9953	primary	_
@@ -1719,6 +1781,7 @@
 62-36	10139-10140	)	_
 62-37	10141-10142	.	_
 
+Text=Similar to the previous study (Peer et al., 2017), each white‐matter functional network was compared with 20 major white‐matter fiber tracts based on the JHU white‐matter tractography atlas (Hua et al., 2008) to measure the network‐tract correspondence.
 63-1	10143-10150	Similar	_
 63-2	10151-10153	to	_
 63-3	10154-10157	the	_
@@ -1765,6 +1828,7 @@
 63-44	10388-10402	correspondence	_
 63-45	10403-10404	.	_
 
+Text=Moreover, as suggested by Peer et al., these networks were further compared with 48 white‐matter tracts defined by the ICBM DTI workgroup to estimate more accurate correspondence.
 64-1	10405-10413	Moreover	_
 64-2	10414-10415	,	_
 64-3	10416-10418	as	_
@@ -1796,6 +1860,7 @@
 64-29	10571-10585	correspondence	_
 64-30	10586-10587	.	_
 
+Text=The symmetrical, interlaced pattern of white‐matter functional networks could be divided into three layers (superficial, middle, and deep).
 65-1	10588-10591	The	_
 65-2	10592-10603	symmetrical	_
 65-3	10604-10605	,	_
@@ -1821,6 +1886,7 @@
 65-23	10730-10731	)	_
 65-24	10732-10733	.	_
 
+Text=(Detailed network information is shown in Table 2.)
 66-1	10734-10735	(	_
 66-2	10736-10744	Detailed	_
 66-3	10745-10752	network	_
@@ -1833,6 +1899,7 @@
 66-10	10785-10786	.	_
 66-11	10787-10788	)	_
 
+Text=In the replication cohort, the most stable and detailed white‐matter functional network number was 11 according to the Dice's coefficient of each number of clusters (see Figure S4 in Supplementary 5), which were also classified into deep, middle, and superficial layers of networks.
 67-1	10789-10791	In	_
 67-2	10792-10795	the	_
 67-3	10796-10807	replication	_
@@ -1885,6 +1952,7 @@
 67-50	11069-11077	networks	_
 67-51	11078-11079	.	_
 
+Text=Coefficient GCA Out‐strength: Sum of absolute regression coefficients of certain network where the network is the source variable to significantly predict other networks.
 68-1	11080-11091	Coefficient	_
 68-2	11092-11095	GCA	_
 68-3	11096-11108	Out‐strength	_
@@ -1911,6 +1979,7 @@
 68-24	11242-11250	networks	_
 68-25	11251-11252	.	_
 
+Text=It denotes Granger causal afferent connections of each network.
 69-1	11253-11255	It	_
 69-2	11256-11263	denotes	_
 69-3	11264-11271	Granger	_
@@ -1922,6 +1991,7 @@
 69-9	11308-11315	network	_
 69-10	11316-11317	.	_
 
+Text=In‐strength: Sum of absolute regression coefficients of certain network where the network is the target variable significantly predicted by other networks.
 70-1	11318-11329	In‐strength	_
 70-2	11330-11331	:	_
 70-3	11332-11335	Sum	_
@@ -1946,6 +2016,7 @@
 70-22	11465-11473	networks	_
 70-23	11474-11475	.	_
 
+Text=It denotes Granger causal efferent connections of each network.
 71-1	11476-11478	It	_
 71-2	11479-11486	denotes	_
 71-3	11487-11494	Granger	_
@@ -1957,6 +2028,7 @@
 71-9	11531-11538	network	_
 71-10	11539-11540	.	_
 
+Text=The signed and directional influences among 11 white‐matter functional networks were measured using cGCA.
 72-1	11541-11544	The	_
 72-2	11545-11551	signed	_
 72-3	11552-11555	and	_
@@ -1973,6 +2045,7 @@
 72-14	11641-11645	cGCA	_
 72-15	11646-11647	.	_
 
+Text=For each network, the individual preprocessed resting‐state fMRI time series was extracted by averaging the time series of all voxels within it.
 73-1	11648-11651	For	_
 73-2	11652-11656	each	_
 73-3	11657-11664	network	_
@@ -1998,6 +2071,7 @@
 73-23	11790-11792	it	_
 73-24	11793-11794	.	_
 
+Text=The influence strengths among functional networks were evaluated by regression coefficients of the multivariate autoregression model in REST software (V1.8, http: //www.restfmri.net) (see Supplementary 2 for details).
 74-1	11795-11798	The	_
 74-2	11799-11808	influence	_
 74-3	11809-11818	strengths	_
@@ -2033,6 +2107,7 @@
 74-33	12016-12017	)	_
 74-34	12018-12019	.	_
 
+Text=Each regression coefficient characterizes the signed strength and direction of the relationship between two networks, in line with our previous works (Liao et al., 2018).
 75-1	12020-12024	Each	_
 75-2	12025-12035	regression	_
 75-3	12036-12047	coefficient	_
@@ -2064,6 +2139,7 @@
 75-29	12192-12193	)	_
 75-30	12194-12195	.	_
 
+Text=Positive coefficients denote excitant paths (source activity predicts subsequent increases in target activity), while negative coefficients denote inhibited paths (source predicts subsequent decreases in target).
 76-1	12196-12204	Positive	_
 76-2	12205-12217	coefficients	_
 76-3	12218-12224	denote	_
@@ -2096,6 +2172,7 @@
 76-30	12411-12412	)	_
 76-31	12413-12414	.	_
 
+Text=Finally, a directed asymmetric matrix (11 × 11 regression coefficient matrix) was obtained for each participant.
 77-1	12415-12422	Finally	_
 77-2	12423-12424	,	_
 77-3	12425-12426	a	_
@@ -2117,6 +2194,7 @@
 77-19	12518-12529	participant	_
 77-20	12530-12531	.	_
 
+Text=The definition of the following cGCA graph‐theoretic metric (Liao et al., 2011) is listed to describe the outflow/inflow influence strengths of each network: Disturbance of correlation analyses Considering the relatively low frequency scale of our study, the spread of hemodynamic effects across time may potentially disturb direct correlation at the same time point.
 78-1	12532-12535	The	_
 78-2	12536-12546	definition	_
 78-3	12547-12549	of	_
@@ -2177,6 +2255,7 @@
 78-58	12898-12903	point	_
 78-59	12904-12905	.	_
 
+Text=Therefore, the seemingly across‐time causality we observed can be simply due to disturbance of correlation.
 79-1	12906-12915	Therefore	_
 79-2	12916-12917	,	_
 79-3	12918-12921	the	_
@@ -2195,6 +2274,7 @@
 79-16	13002-13013	correlation	_
 79-17	13014-13015	.	_
 
+Text=For diluting the effect of direct correlation, the Pearson's correlations among white‐matter functional networks were calculated and added as covariates in group comparison of cGCA in the primary cohort (see Supplementary 2 for further details).
 80-1	13016-13019	For	_
 80-2	13020-13028	diluting	_
 80-3	13029-13032	the	_
@@ -2236,6 +2316,7 @@
 80-39	13263-13264	)	_
 80-40	13265-13266	.	_
 
+Text=Statistical analyses In the primary cohort, the within‐group 11 networks influence patterns were examined using one‐sample t tests on the influence coefficient matrices across all participants including FESs and HCs.
 81-1	13267-13278	Statistical	_
 81-2	13279-13287	analyses	_
 81-3	13288-13290	In	_
@@ -2269,6 +2350,7 @@
 81-31	13480-13483	HCs	_
 81-32	13484-13485	.	_
 
+Text=The out/in strengths of each network were calculated within the significant group mask across all subjects.
 82-1	13486-13489	The	_
 82-2	13490-13496	out/in	_
 82-3	13497-13506	strengths	_
@@ -2287,6 +2369,7 @@
 82-16	13584-13592	subjects	_
 82-17	13593-13594	.	_
 
+Text=The 11 networks influence differences between FESs and HCs were measured using permutation tests (5,000 times permutations) (Zhang et al., 2011), controlling for sex, age, and education level as confounding variables.
 83-1	13595-13598	The	_
 83-2	13599-13601	11	_
 83-3	13602-13610	networks	_
@@ -2328,6 +2411,7 @@
 83-39	13810-13819	variables	_
 83-40	13820-13821	.	_
 
+Text=Specifically, a permutation distribution of differences was generated by randomly assigning each subject to one of the two groups with the same size as the original FES and HC groups and computing their between‐group differences using two‐sample t tests with sex, age, and education level as confounding variables.
 84-1	13822-13834	Specifically	_
 84-2	13835-13836	,	_
 84-3	13837-13838	a	_
@@ -2381,6 +2465,7 @@
 84-51	14129-14138	variables	_
 84-52	14139-14140	.	_
 
+Text=This procedure was repeated for 5,000 permutations.
 85-1	14141-14145	This	_
 85-2	14146-14155	procedure	_
 85-3	14156-14159	was	_
@@ -2390,6 +2475,7 @@
 85-7	14179-14191	permutations	_
 85-8	14192-14193	.	_
 
+Text=The p value was estimated by calculating the percentage of permutations higher than the actual group difference measured by two‐sample t test with the same covariates.
 86-1	14194-14197	The	_
 86-2	14198-14199	p	_
 86-3	14200-14205	value	_
@@ -2418,6 +2504,7 @@
 86-26	14350-14360	covariates	_
 86-27	14361-14362	.	_
 
+Text=The statistical significance level was set at p <.05 and network‐based statistic (NBS) adjusted for multiple testing.
 87-1	14363-14366	The	_
 87-2	14367-14378	statistical	_
 87-3	14379-14391	significance	_
@@ -2440,6 +2527,7 @@
 87-20	14475-14482	testing	_
 87-21	14483-14484	.	_
 
+Text=By using this statistical method, connected subnetworks of edges showing a particular effect of a size larger than which would be expected by chance can be identified (Zalesky, Fornito, & Bullmore, 2010).
 88-1	14485-14487	By	_
 88-2	14488-14493	using	_
 88-3	14494-14498	this	_
@@ -2480,6 +2568,7 @@
 88-38	14693-14694	)	_
 88-39	14695-14696	.	_
 
+Text=As the 11 white‐matter networks can be further classified into deep, middle, and superficial layers of networks, for each subject, the out/in strengths of each layer were calculated by summing the absolute out/in strengths of all belonging networks.
 89-1	14697-14699	As	_
 89-2	14700-14703	the	_
 89-3	14704-14706	11	_
@@ -2524,6 +2613,7 @@
 89-42	14941-14949	networks	_
 89-43	14950-14951	.	_
 
+Text=The out/in strengths of tri‐layer networks were compared between FESs and HCs using two‐sample t tests (p <.05), false discovery rate (FDR) corrected.
 90-1	14952-14955	The	_
 90-2	14956-14962	out/in	_
 90-3	14963-14972	strengths	_
@@ -2555,6 +2645,7 @@
 90-29	15098-15107	corrected	_
 90-30	15108-15109	.	_
 
+Text=The relationships between altered 11 networks influence values and symptom severity (PANSS‐N or PANSS‐P scores) were investigated using Pearson's correlation analyses in FESs.
 91-1	15110-15113	The	_
 91-2	15114-15127	relationships	_
 91-3	15128-15135	between	_
@@ -2583,6 +2674,7 @@
 91-26	15283-15287	FESs	_
 91-27	15288-15289	.	_
 
+Text=In the replication cohort, the within‐group networks influence patterns were also examined using one‐sample t tests across all participants including FESs and HCs.
 92-1	15290-15292	In	_
 92-2	15293-15296	the	_
 92-3	15297-15308	replication	_
@@ -2609,6 +2701,7 @@
 92-24	15450-15453	HCs	_
 92-25	15454-15455	.	_
 
+Text=Group differences on the 11 networks influence between FESs and HCs were measured using two‐sample t tests (p <.05, FDR corrected), controlling for sex, age, and education level as confounding variables.
 93-1	15456-15461	Group	_
 93-2	15462-15473	differences	_
 93-3	15474-15476	on	_
@@ -2649,6 +2742,7 @@
 93-38	15656-15665	variables	_
 93-39	15666-15667	.	_
 
+Text=The out strengths of tri‐layer networks were compared between FESs and HCs using two‐sample t tests (p <.05, FDR corrected).
 94-1	15668-15671	The	_
 94-2	15672-15675	out	_
 94-3	15676-15685	strengths	_
@@ -2675,6 +2769,7 @@
 94-24	15794-15795	)	_
 94-25	15796-15797	.	_
 
+Text=Validation analyses Considering that potential leakage of the gray‐matter fMRI signal may affect the clustering pattern of the white‐matter fMRI signal, two relative stricter group‐level masks (percentages> 70 and 80%) were applied to identify white‐matter voxels to validate the consistency of the main results of the primary cohort (see Supplementary 3 for further details).
 95-1	15798-15808	Validation	_
 95-2	15809-15817	analyses	_
 95-3	15818-15829	Considering	_

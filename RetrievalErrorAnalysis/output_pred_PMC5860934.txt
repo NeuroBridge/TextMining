@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Characterizing Dynamic Amplitude of Low-Frequency Fluctuation and Its Relationship with Dynamic Functional Connectivity: An Application to Schizophrenia The human brain is a highly dynamic system with non-stationary neural activity and rapidly-changing neural interaction.
 1-1	0-14	Characterizing	_
 1-2	15-22	Dynamic	_
 1-3	23-32	Amplitude	_
@@ -38,6 +39,7 @@
 1-34	261-272	interaction	_
 1-35	273-274	.	_
 
+Text=Resting-state dynamic functional connectivity (dFC) has been widely studied during recent years, and the emerging aberrant dFC patterns have been identified as important features of many mental disorders such as schizophrenia (SZ).
 2-1	275-288	Resting-state	_
 2-2	289-296	dynamic	_
 2-3	297-307	functional	_
@@ -77,6 +79,7 @@
 2-37	509-510	)	_
 2-38	511-512	.	_
 
+Text=However, only focusing on the time-varying patterns in FC is not enough, since the local neural activity itself (in contrast to the inter-connectivity) is also found to be highly fluctuating from research using high-temporal-resolution imaging techniques.
 3-1	513-520	However	_
 3-2	521-522	,	_
 3-3	523-527	only	_
@@ -119,6 +122,7 @@
 3-40	761-771	techniques	_
 3-41	772-773	.	_
 
+Text=Exploring the time-varying patterns in brain activity and their relationships with time-varying brain connectivity is important for advancing our understanding of the co-evolutionary property of brain network and the underlying mechanism of brain dynamics.
 4-1	774-783	Exploring	_
 4-2	784-787	the	_
 4-3	788-800	time-varying	_
@@ -155,6 +159,7 @@
 4-34	1021-1029	dynamics	_
 4-35	1030-1031	.	_
 
+Text=In this study, we introduced a framework for characterizing time-varying brain activity and exploring its associations with time-varying brain connectivity, and applied this framework to a resting-state fMRI dataset including 151 SZ patients and 163 age- and gender matched healthy controls (HCs).
 5-1	1032-1034	In	_
 5-2	1035-1039	this	_
 5-3	1040-1045	study	_
@@ -203,6 +208,7 @@
 5-46	1331-1332	)	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 5-47	1333-1334	.	_
 
+Text=In this framework, 48 brain regions were first identified as intrinsic connectivity networks (ICNs) using group independent component analysis (GICA).
 6-1	1335-1337	In	_
 6-2	1338-1342	this	_
 6-3	1343-1352	framework	_
@@ -230,6 +236,7 @@
 6-25	1488-1489	)	_
 6-26	1490-1491	.	_
 
+Text=A sliding window approach was then adopted for the estimation of dynamic amplitude of low-frequency fluctuation (dALFF) and dFC, which were used to measure time-varying brain activity and time-varying brain connectivity respectively.
 7-1	1492-1493	A	_
 7-2	1494-1501	sliding	_
 7-3	1502-1508	window	_
@@ -267,6 +274,7 @@
 7-35	1715-1727	respectively	_
 7-36	1728-1729	.	_
 
+Text=The dALFF was further clustered into six reoccurring states by the k-means clustering method and the group difference in occurrences of dALFF states was explored.
 8-1	1730-1733	The	_
 8-2	1734-1739	dALFF	_
 8-3	1740-1743	was	_
@@ -294,6 +302,7 @@
 8-25	1883-1891	explored	_
 8-26	1892-1893	.	_
 
+Text=Lastly, correlation coefficients between dALFF and dFC were calculated and the group difference in these dALFF-dFC correlations was explored.
 9-1	1894-1900	Lastly	_
 9-2	1901-1902	,	_
 9-3	1903-1914	correlation	_
@@ -316,6 +325,7 @@
 9-20	2027-2035	explored	_
 9-21	2036-2037	.	_
 
+Text=Our results suggested that 1) ALFF of brain regions was highly fluctuating during the resting-state and such dynamic patterns are altered in SZ, 2) dALFF and dFC were correlated in time and their correlations are altered in SZ.
 10-1	2038-2041	Our	_
 10-2	2042-2049	results	_
 10-3	2050-2059	suggested	_
@@ -359,6 +369,7 @@
 10-41	2265-2267	SZ	_
 10-42	2268-2269	.	_
 
+Text=The overall results support and expand prior work on abnormalities of brain activity, static FC (sFC) and dFC in SZ, and provide new evidence on aberrant time-varying brain activity and its associations with brain connectivity in SZ, which might underscore the disrupted brain cognitive functions in this mental disorder.
 11-1	2270-2273	The	_
 11-2	2274-2281	overall	_
 11-3	2282-2289	results	_
@@ -415,9 +426,11 @@
 11-54	2587-2595	disorder	_
 11-55	2596-2597	.	_
 
+Text=2.
 12-1	2598-2599	2	_
 12-2	2600-2601	.	_
 
+Text=Material and methods 2.1 Participants and fMRI dataset acquisition Resting-state fMRI dataset from a total of 163 HCs (117 males, 46 females; mean age 36.9 and standard deviation of age 11.0) and 151 age- and gender-matched SZ patients (114 males, 37 females; mean age 37.8 and standard deviation of age 11.4) were used in present study.
 13-1	2602-2610	Material	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-2	2611-2614	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-3	2615-2622	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -484,6 +497,7 @@
 13-64	2941-2946	study	_
 13-65	2947-2948	.	_
 
+Text=All participants were provided written, informed consent prior to scanning in accordance with the Internal Review Boards of corresponding institutions.
 14-1	2949-2952	All	_
 14-2	2953-2965	participants	_
 14-3	2966-2970	were	_
@@ -507,6 +521,7 @@
 14-21	3088-3100	institutions	_
 14-22	3101-3102	.	_
 
+Text=All patients had chronic SZ and most of the participants were assessed with the CMINDS cognitive battery (included processing speed, attention vigilance, working memory, verbal learning, visual learning, reasoning problem solving and a composite score).
 15-1	3103-3106	All	_
 15-2	3107-3115	patients	_
 15-3	3116-3119	had	_
@@ -551,6 +566,7 @@
 15-42	3361-3362	)	_
 15-43	3363-3364	.	_
 
+Text=Participants were scanned during the eyes-closed rest condition at 7 different sites across the United States and passed data quality control.
 16-1	3365-3377	Participants	_
 16-2	3378-3382	were	_
 16-3	3383-3390	scanned	_
@@ -574,6 +590,7 @@
 16-21	3499-3506	control	_
 16-22	3507-3508	.	_
 
+Text=Images were collected on 3T Siemens Tim Trio Systems at six sites and on a 3T General Electric Discovery MR750 scanner at one site.
 17-1	3509-3515	Images	_
 17-2	3516-3520	were	_
 17-3	3521-3530	collected	_
@@ -600,6 +617,7 @@
 17-24	3635-3639	site	_
 17-25	3640-3641	.	_
 
+Text=All resting-state fMRI data were acquired using a standard gradient-echo echo planar imaging sequence with TE = 30 ms, TR = 2 s, FA = 77o, slice thickness = 4 mm, slice gap = 1 mm.
 18-1	3642-3645	All	_
 18-2	3646-3659	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 18-3	3660-3664	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -642,6 +660,7 @@
 18-40	3823-3825	mm	_
 18-41	3826-3827	.	_
 
+Text=The duration of each resting-state scan was 5 min 24 s (162 volumes).
 19-1	3828-3831	The	_
 19-2	3832-3840	duration	_
 19-3	3841-3843	of	_
@@ -659,6 +678,7 @@
 19-15	3897-3898	)	_
 19-16	3899-3900	.	_
 
+Text=2.2 Preprocessing Data processing was performed using a combination of toolboxes, AFNI3 (https: //afni.nimh.nih.gov), SPM12 (http: //www.fil.ion.ucl.ac.uk/spm/) and GIFT4.0b (http: //mialab.mrn.org/software/gift), and custom code written in MATLAB.
 20-1	3901-3904	2.2	_
 20-2	3905-3918	Preprocessing	_
 20-3	3919-3923	Data	_
@@ -700,6 +720,7 @@
 20-39	4154-4160	MATLAB	_
 20-40	4161-4162	.	_
 
+Text=We performed rigid body motion correction using the toolbox in SPM to correct subject head motion, followed by slice-timing correction to account for timing difference in slice acquisition.
 21-1	4163-4165	We	_
 21-2	4166-4175	performed	_
 21-3	4176-4181	rigid	_
@@ -731,6 +752,7 @@
 21-29	4341-4352	acquisition	_
 21-30	4353-4354	.	_
 
+Text=Then the fMRI data were despiked using AFNI3 3dDespike algorithm to mitigate the impact of outliers.
 22-1	4355-4359	Then	_
 22-2	4360-4363	the	_
 22-3	4364-4368	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -749,6 +771,7 @@
 22-16	4446-4454	outliers	_
 22-17	4455-4456	.	_
 
+Text=The fMRI data were subsequently warped to a Montreal Neurological Institute (MNI) template and were resampled to 3 mm3 isotropic voxels.
 23-1	4457-4460	The	_
 23-2	4461-4465	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 23-3	4466-4470	data	_
@@ -774,6 +797,7 @@
 23-23	4588-4594	voxels	_
 23-24	4595-4596	.	_
 
+Text=All functional images were smoothed using a Gaussian kernel (FWHM = 5 mm).
 24-1	4597-4600	All	_
 24-2	4601-4611	functional	_
 24-3	4612-4618	images	_
@@ -791,6 +815,7 @@
 24-15	4671-4672	)	_
 24-16	4673-4674	.	_
 
+Text=Prior to GICA, time course of each voxel was variance normalized.
 25-1	4675-4680	Prior	_
 25-2	4681-4683	to	_
 25-3	4684-4688	GICA	_
@@ -805,6 +830,7 @@
 25-12	4730-4740	normalized	_
 25-13	4741-4742	.	_
 
+Text=2.3 The framework to characterize dALFF and its relationship with dFC The proposed framework was illustrated using a flowchart in Figure 1.
 26-1	4743-4746	2.3	_
 26-2	4747-4750	The	_
 26-3	4751-4760	framework	_
@@ -829,6 +855,7 @@
 26-22	4880-4881	1	_
 26-23	4882-4883	.	_
 
+Text=6 major steps were included in this framework.
 27-1	4884-4885	6	_
 27-2	4886-4891	major	_
 27-3	4892-4897	steps	_
@@ -839,6 +866,7 @@
 27-8	4920-4929	framework	_
 27-9	4930-4931	.	_
 
+Text=2.4 Spatial GICA Spatial GICA was performed on the fMRI data using the GIFT toolbox.
 28-1	4932-4935	2.4	_
 28-2	4936-4943	Spatial	_
 28-3	4944-4948	GICA	_
@@ -856,6 +884,7 @@
 28-15	5008-5015	toolbox	_
 28-16	5016-5017	.	_
 
+Text=Principal components analysis (PCA) was first applied to reduce the subject specific data into 120 principal components which preserve more than 99% of the variance.
 29-1	5018-5027	Principal	_
 29-2	5028-5038	components	_
 29-3	5039-5047	analysis	_
@@ -886,6 +915,7 @@
 29-28	5177-5185	variance	_
 29-29	5186-5187	.	_
 
+Text=Next, reduced data of all subjects were concatenated across time and decomposed into 100 independent components (ICs) using the infomax algorithm.
 30-1	5188-5192	Next	_
 30-2	5193-5194	,	_
 30-3	5195-5202	reduced	_
@@ -912,6 +942,7 @@
 30-24	5327-5336	algorithm	_
 30-25	5337-5338	.	_
 
+Text=The infomax ICA algorithm was repeated 10 times in ICASSO and the best run was selected to ensure the estimation stability.
 31-1	5339-5342	The	_
 31-2	5343-5350	infomax	_
 31-3	5351-5354	ICA	_
@@ -935,6 +966,7 @@
 31-21	5452-5461	stability	_
 31-22	5462-5463	.	_
 
+Text=After estimating the aggregate spatial maps, spatiotemporal regression back reconstruction was performed to obtain the subject specific spatial maps and time courses.
 32-1	5464-5469	After	_
 32-2	5470-5480	estimating	_
 32-3	5481-5484	the	_
@@ -960,6 +992,7 @@
 32-23	5623-5630	courses	_
 32-24	5631-5632	.	_
 
+Text=Additional post-processing steps were performed on the time courses of selected ICNs, which included: 1) detrending linear, quadratic, and cubic trends; 2) conducting multiple regressions of the 6 realignment parameters and their temporal derivatives; 3) despiking detected outliers; 4) low-pass filtering with cut-off frequency of 0.15 Hz.
 33-1	5633-5643	Additional	_
 33-2	5644-5659	post-processing	_
 33-3	5660-5665	steps	_
@@ -1020,6 +1053,7 @@
 33-58	5981-5983	Hz	_
 33-59	5984-5985	.	_
 
+Text=2.5 Estimation of dALFF In this study, we used ALFF to measure the pattern of local BOLD activity.
 34-1	5986-5989	2.5	_
 34-2	5990-6000	Estimation	_
 34-3	6001-6003	of	_
@@ -1041,6 +1075,7 @@
 34-19	6076-6084	activity	_
 34-20	6085-6086	.	_
 
+Text=ALFF is the square root of power spectrum integrated in a low-frequency range, which could capture the property of the most dominant frequency component during the resting-state.
 35-1	6087-6091	ALFF	_
 35-2	6092-6094	is	_
 35-3	6095-6098	the	_
@@ -1071,6 +1106,7 @@
 35-28	6252-6265	resting-state	_
 35-29	6266-6267	.	_
 
+Text=The dynamic patterns in ALFF were characterized by using a sliding window approach.
 36-1	6268-6271	The	_
 36-2	6272-6279	dynamic	_
 36-3	6280-6288	patterns	_
@@ -1086,6 +1122,7 @@
 36-13	6342-6350	approach	_
 36-14	6351-6352	.	_
 
+Text=The window was created by convolving a rectangle with a Gaussian (σ = 3 TRs).
 37-1	6353-6356	The	_
 37-2	6357-6363	window	_
 37-3	6364-6367	was	_
@@ -1105,6 +1142,7 @@
 37-17	6430-6431	)	_
 37-18	6432-6433	.	_
 
+Text=The window size was chosen as 20 TR (40s), because the window size in the range of 30 s to 1 min was shown to be a reasonable choice for capturing brain dynamics.
 38-1	6434-6437	The	_
 38-2	6438-6444	window	_
 38-3	6445-6449	size	_
@@ -1143,6 +1181,7 @@
 38-36	6590-6598	dynamics	_
 38-37	6599-6600	.	_
 
+Text=We also examined the results with other window sizes, and they were provided in the supplementary materials.
 39-1	6601-6603	We	_
 39-2	6604-6608	also	_
 39-3	6609-6617	examined	_
@@ -1163,6 +1202,7 @@
 39-18	6700-6709	materials	_
 39-19	6710-6711	.	_
 
+Text=The window was slid along time in steps of 1 TR, resulting in W = 135 windows.
 40-1	6712-6715	The	_
 40-2	6716-6722	window	_
 40-3	6723-6726	was	_
@@ -1183,6 +1223,7 @@
 40-18	6783-6790	windows	_
 40-19	6791-6792	.	_
 
+Text=dALFF of each ICN was estimated using the windowed data between the frequency band [0.025 – 0.15 Hz] using the REST toolbox.
 41-1	6793-6798	dALFF	_
 41-2	6799-6801	of	_
 41-3	6802-6806	each	_
@@ -1209,6 +1250,7 @@
 41-24	6911-6918	toolbox	_
 41-25	6919-6920	.	_
 
+Text=Each windowed data was first filtered (bandpass, [0.025 – 0.15 Hz]) to remove the effects of very low-frequency drift and high-frequency noise.
 42-1	6921-6925	Each	_
 42-2	6926-6934	windowed	_
 42-3	6935-6939	data	_
@@ -1238,6 +1280,7 @@
 42-27	7063-7068	noise	_
 42-28	7069-7070	.	_
 
+Text=Then the windowed data was transformed to a frequency domain and the power spectrum was estimated.
 43-1	7071-7075	Then	_
 43-2	7076-7079	the	_
 43-3	7080-7088	windowed	_
@@ -1256,6 +1299,7 @@
 43-16	7159-7168	estimated	_
 43-17	7169-7170	.	_
 
+Text=The square root was calculated as each frequency of power spectrum.
 44-1	7171-7174	The	_
 44-2	7175-7181	square	_
 44-3	7182-7186	root	_
@@ -1269,6 +1313,7 @@
 44-11	7229-7237	spectrum	_
 44-12	7238-7239	.	_
 
+Text=The ALFF of each window was obtained by averaging the square root across the given frequency band ([0.025 – 0.15 Hz]).
 45-1	7240-7243	The	_
 45-2	7244-7248	ALFF	_
 45-3	7249-7251	of	_
@@ -1296,6 +1341,7 @@
 45-25	7360-7361	)	_
 45-26	7362-7363	.	_
 
+Text=dALFF estimates of all windows were finally concatenated to form an N×W dALFF matrix (where N denotes the number of ICNs and W denotes the number of windows) representing the changes in dALFF of ICNs as a function of time.
 46-1	7364-7369	dALFF	_
 46-2	7370-7379	estimates	_
 46-3	7380-7382	of	_
@@ -1340,6 +1386,7 @@
 46-42	7583-7587	time	_
 46-43	7588-7589	.	_
 
+Text=2.6 Clustering analysis To assess the reoccurring dALFF patterns, a k-means clustering algorithm was performed on dALFF estimates of all subjects (Combining HC and SZ subjects).
 47-1	7590-7593	2.6	_
 47-2	7594-7604	Clustering	_
 47-3	7605-7613	analysis	_
@@ -1371,6 +1418,7 @@
 47-29	7768-7769	)	_
 47-30	7770-7771	.	_
 
+Text=L1 norm was used as the distance function in k-means.
 48-1	7772-7774	L1	_
 48-2	7775-7779	norm	_
 48-3	7780-7783	was	_
@@ -1383,6 +1431,7 @@
 48-10	7817-7824	k-means	_
 48-11	7825-7826	.	_
 
+Text=A subset of windows with maximal variability in dALFF across components was chosen for the initial clustering.
 49-1	7827-7828	A	_
 49-2	7829-7835	subset	_
 49-3	7836-7838	of	_
@@ -1402,6 +1451,7 @@
 49-17	7926-7936	clustering	_
 49-18	7937-7938	.	_
 
+Text=The number of cluster was determined as k = 6 using the elbow criterion, defined as the ratio of within-cluster to between-cluster distances.
 50-1	7939-7942	The	_
 50-2	7943-7949	number	_
 50-3	7950-7952	of	_
@@ -1428,6 +1478,7 @@
 50-24	8071-8080	distances	_
 50-25	8081-8082	.	_
 
+Text=Our previous work has shown that the clustering patterns were consistent over a range of k from 5 to 7.
 51-1	8083-8086	Our	_
 51-2	8087-8095	previous	_
 51-3	8096-8100	work	_
@@ -1450,6 +1501,7 @@
 51-20	8184-8185	7	_
 51-21	8186-8187	.	_
 
+Text=The group centroids obtained by clustering exemplars were then used as a starting point to cluster all dALFF windows from all subjects.
 52-1	8188-8191	The	_
 52-2	8192-8197	group	_
 52-3	8198-8207	centroids	_
@@ -1474,6 +1526,7 @@
 52-22	8314-8322	subjects	_
 52-23	8323-8324	.	_
 
+Text=2.7 Occurrences of states The aberrant patterns of dALFF in SZ were first investigated by examining the group difference in the occurrences of dALFF states.
 53-1	8325-8328	2.7	_
 53-2	8329-8340	Occurrences	_
 53-3	8341-8343	of	_
@@ -1501,6 +1554,7 @@
 53-25	8474-8480	states	_
 53-26	8481-8482	.	_
 
+Text=The occurrence of each dALFF state was measured by the number of time windows which were assigned to each state.
 54-1	8483-8486	The	_
 54-2	8487-8497	occurrence	_
 54-3	8498-8500	of	_
@@ -1523,6 +1577,7 @@
 54-20	8589-8594	state	_
 54-21	8595-8596	.	_
 
+Text=The percentage occurrence of each dALFF state was calculated by dividing the number of total windows by the number of time windows which were assigned to each state.
 55-1	8597-8600	The	_
 55-2	8601-8611	percentage	_
 55-3	8612-8622	occurrence	_
@@ -1553,6 +1608,7 @@
 55-28	8756-8761	state	_
 55-29	8762-8763	.	_
 
+Text=A two-sample t-test was performed to identify significant group difference in the occurrences of dALFF states.
 56-1	8764-8765	A	_
 56-2	8766-8776	two-sample	_
 56-3	8777-8783	t-test	_
@@ -1571,6 +1627,7 @@
 56-16	8867-8873	states	_
 56-17	8874-8875	.	_
 
+Text=To investigate whether the occurrences of states are associated cognitive processes, we calculated the sample linear partial correlation coefficients between the occurrences and cognitive scores, controlled by several variables (the age and gender for HC and SZ group; age, gender and diagnosis for all subjects).
 57-1	8876-8878	To	_
 57-2	8879-8890	investigate	_
 57-3	8891-8898	whether	_
@@ -1624,6 +1681,7 @@
 57-51	9193-9194	)	_
 57-52	9195-9196	.	_
 
+Text=We chose partial correlation as the measure of association between the atypical patterns and the cognitive score because we want to control the potential covariates (such as gender, age and diagnosis), which might have influences on the estimated relationships.
 58-1	9197-9199	We	_
 58-2	9200-9205	chose	_
 58-3	9206-9213	partial	_
@@ -1669,6 +1727,7 @@
 58-43	9448-9461	relationships	_
 58-44	9462-9463	.	_
 
+Text=2.8 Difference in ALFF and FC among states After identifying reoccurring patterns of dALFF, we sought to investigate whether FC changes among dALFF states and whether such changes in FC are coupled with the changes in ALFF.
 59-1	9464-9467	2.8	_
 59-2	9468-9478	Difference	_
 59-3	9479-9481	in	_
@@ -1709,6 +1768,7 @@
 59-38	9683-9687	ALFF	_
 59-39	9688-9689	.	_
 
+Text=A subject-specific correlation coefficient matrix of each dALFF state was computed using the subject ’ s time points within the windows that were assigned to that state, as a representative pattern of FC of the subject for that state.
 60-1	9690-9691	A	_
 60-2	9692-9708	subject-specific	_
 60-3	9709-9720	correlation	_
@@ -1751,6 +1811,7 @@
 60-40	9919-9924	state	_
 60-41	9925-9926	.	_
 
+Text=Nonparametric repeated measures analysis of variance (ANOVA) was first conducted to test the difference in FC among states.
 61-1	9927-9940	Nonparametric	_
 61-2	9941-9949	repeated	_
 61-3	9950-9958	measures	_
@@ -1773,6 +1834,7 @@
 61-20	10045-10051	states	_
 61-21	10052-10053	.	_
 
+Text=If the difference is significant, then a post-hoc two-sample t-test was conducted element-wise to examine FC difference between each pair of states.
 62-1	10054-10056	If	_
 62-2	10057-10060	the	_
 62-3	10061-10071	difference	_
@@ -1798,6 +1860,7 @@
 62-23	10196-10202	states	_
 62-24	10203-10204	.	_
 
+Text=To explore the potential coupling between ALFF and changes in FC among states, we chose thalamus as a seed region and investigated the difference in its ALFF and in its FC to sensory regions among states.
 63-1	10205-10207	To	_
 63-2	10208-10215	explore	_
 63-3	10216-10219	the	_
@@ -1837,6 +1900,7 @@
 63-37	10403-10409	states	_
 63-38	10410-10411	.	_
 
+Text=Thalamus was chosen here because its BOLD activity and its FC to sensory networks are important correlates of SZ.
 64-1	10412-10420	Thalamus	_
 64-2	10421-10424	was	_
 64-3	10425-10431	chosen	_
@@ -1858,6 +1922,7 @@
 64-19	10522-10524	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 64-20	10525-10526	.	_
 
+Text=The ALFF of thalamus was first averaged across windows of the same state, and a two-sample t-test was then conducted on the mean ALFF of thalamus to examine the ALFF difference between each pair of states.
 65-1	10527-10530	The	_
 65-2	10531-10535	ALFF	_
 65-3	10536-10538	of	_
@@ -1897,6 +1962,7 @@
 65-37	10726-10732	states	_
 65-38	10733-10734	.	_
 
+Text=The two-sample t-test was also conducted on the mean thalamus FC with sensory regions, which was obtained by averaging all FC between thalamus and regions within auditory network (ADN), somatomotor network (SMN) and visual network (VSN), to examine the FC difference between each pair of states.
 66-1	10735-10738	The	_
 66-2	10739-10749	two-sample	_
 66-3	10750-10756	t-test	_
@@ -1954,6 +2020,7 @@
 66-55	11032-11038	states	_
 66-56	11039-11040	.	_
 
+Text=2.9 Analysis of associations between dALFF and dFC Both ALFF and FC changed significantly among dALFF states, and more importantly, such changes were found to be coupled across states.
 67-1	11041-11044	2.9	_
 67-2	11045-11053	Analysis	_
 67-3	11054-11056	of	_
@@ -1987,6 +2054,7 @@
 67-31	11220-11226	states	_
 67-32	11227-11228	.	_
 
+Text=To explore the detailed associations between ALFF and FC in time, we conducted following analysis.
 68-1	11229-11231	To	_
 68-2	11232-11239	explore	_
 68-3	11240-11243	the	_
@@ -2005,6 +2073,7 @@
 68-16	11319-11327	analysis	_
 68-17	11328-11329	.	_
 
+Text=Firstly, dFC was estimated using a sliding window approach.
 69-1	11330-11337	Firstly	_
 69-2	11338-11339	,	_
 69-3	11340-11343	dFC	_
@@ -2017,6 +2086,7 @@
 69-10	11381-11389	approach	_
 69-11	11390-11391	.	_
 
+Text=The window parameters were exactly the same as those used in the dALFF estimation.
 70-1	11392-11395	The	_
 70-2	11396-11402	window	_
 70-3	11403-11413	parameters	_
@@ -2033,6 +2103,7 @@
 70-14	11463-11473	estimation	_
 70-15	11474-11475	.	_
 
+Text=The FC matrices were computed from the regularized precision matrix (inverse covariance matrix).
 71-1	11476-11479	The	_
 71-2	11480-11482	FC	_
 71-3	11483-11491	matrices	_
@@ -2050,6 +2121,7 @@
 71-15	11572-11573	)	_
 71-16	11574-11575	.	_
 
+Text=The graphic LASSO algorithm was used for the estimation of the precision matrix.
 72-1	11576-11579	The	_
 72-2	11580-11587	graphic	_
 72-3	11588-11593	LASSO	_
@@ -2065,6 +2137,7 @@
 72-13	11649-11655	matrix	_
 72-14	11656-11657	.	_
 
+Text=The L1 penalty was used for promoting sparsity in the precision matrix and the regularization parameter lambda λ was selected for each subject by cross-validation.
 73-1	11658-11661	The	_
 73-2	11662-11664	L1	_
 73-3	11665-11672	penalty	_
@@ -2092,6 +2165,7 @@
 73-25	11804-11820	cross-validation	_
 73-26	11821-11822	.	_
 
+Text=For each subject, the FC estimates were concatenated to form an N×N×W dFC matrix representing the changes in FC between ICNs as a function of time.
 74-1	11823-11826	For	_
 74-2	11827-11831	each	_
 74-3	11832-11839	subject	_
@@ -2121,6 +2195,7 @@
 74-27	11966-11970	time	_
 74-28	11971-11972	.	_
 
+Text=The correlation coefficient between dALFF of each ICN and each dFC (dALFF-dFC correlation) was calculated to measure the association between ALFF and FC.
 75-1	11973-11976	The	_
 75-2	11977-11988	correlation	_
 75-3	11989-12000	coefficient	_
@@ -2148,6 +2223,7 @@
 75-25	12125-12127	FC	_
 75-26	12128-12129	.	_
 
+Text=A one sample t-test was applied to examine whether the dALFF-dFC correlations are significantly different from 0 (for both the HC and SZ groups).
 76-1	12130-12131	A	_
 76-2	12132-12135	one	_
 76-3	12136-12142	sample	_
@@ -2176,6 +2252,7 @@
 76-26	12275-12276	)	_
 76-27	12277-12278	.	_
 
+Text=We categorized the dALFF-dFC correlations with group difference into three types: Type 1 (dALFF-dFC correlations with group difference significantly deviated from 0 for HC only), Type 2 (dALFF-dFC correlations with group difference significantly deviated from 0 for SZ only), and Type 3 (dALFF-dFC correlations with group difference are significantly deviated from 0 for both HC and SZ groups).
 77-1	12279-12281	We	_
 77-2	12282-12293	categorized	_
 77-3	12294-12297	the	_
@@ -2245,6 +2322,7 @@
 77-67	12680-12681	)	_
 77-68	12682-12683	.	_
 
+Text=Next, the group difference in the dALFF-dFC correlations was further explored via a twosample t-test.
 78-1	12684-12688	Next	_
 78-2	12689-12690	,	_
 78-3	12691-12694	the	_
@@ -2263,6 +2341,7 @@
 78-16	12779-12785	t-test	_
 78-17	12786-12787	.	_
 
+Text=Finally, to assess whether the dALFF-dFC correlations are related to cognitive processes, we calculated sample linear partial correlation coefficients between Type 3 dALFF-dFC correlations and cognitive scores, controlled by several variables (the age and gender for HC and SZ group; age, gender and diagnosis for all subjects).
 79-1	12788-12795	Finally	_
 79-2	12796-12797	,	_
 79-3	12798-12800	to	_

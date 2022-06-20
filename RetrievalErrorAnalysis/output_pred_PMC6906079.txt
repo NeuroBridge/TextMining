@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Disrupted resting-state brain functional network in methamphetamine abusers: A brain source space study by EEG This study aimed to examine the effects of chronic methamphetamine use on the topological organization of whole-brain functional connectivity network (FCN) by reconstruction of neural-activity time series at resting-state.
 1-1	0-9	Disrupted	_
 1-2	10-23	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 1-3	24-29	brain	_
@@ -51,6 +52,7 @@
 1-47	322-335	resting-state	_
 1-48	336-337	.	_
 
+Text=The EEG of 36 individuals with methamphetamine use disorder (IWMUD) and 24 normal controls (NCs) were recorded, pre-processed and source-reconstructed using standardized low-resolution tomography (sLORETA).
 2-1	338-341	The	_
 2-2	342-345	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 2-3	346-348	of	_
@@ -85,6 +87,7 @@
 2-32	549-550	)	_
 2-33	551-552	.	_
 
+Text=The brain FCNs of participants were constructed and between-group differences in network topological properties were investigated using graph theoretical analysis.
 3-1	553-556	The	_
 3-2	557-562	brain	_
 3-3	563-567	FCNs	_
@@ -107,6 +110,7 @@
 3-20	707-715	analysis	_
 3-21	716-717	.	_
 
+Text=IWMUD showed decreased characteristic path length, increased clustering coefficient and small-world index at delta and gamma frequency bands compared to NCs.
 4-1	718-723	IWMUD	_
 4-2	724-730	showed	_
 4-3	731-740	decreased	_
@@ -131,6 +135,7 @@
 4-22	872-875	NCs	_
 4-23	876-877	.	_
 
+Text=Moreover, abnormal changes in inter-regional connectivity and network hubs were observed in all the frequency bands.
 5-1	878-886	Moreover	_
 5-2	887-888	,	_
 5-3	889-897	abnormal	_
@@ -150,6 +155,7 @@
 5-17	989-994	bands	_
 5-18	995-996	.	_
 
+Text=The results suggest that the IWMUD and NCs have distinct FCNs at all the frequency bands, particularly at the delta and gamma bands, in which deviated small-world brain topology was found in IWMUD.
 6-1	997-1000	The	_
 6-2	1001-1008	results	_
 6-3	1009-1016	suggest	_
@@ -187,9 +193,11 @@
 6-35	1190-1195	IWMUD	_
 6-36	1196-1197	.	_
 
+Text=2.
 7-1	1198-1199	2	_
 7-2	1200-1201	.	_
 
+Text=Materials and methods 2.1 Participants Thirty-six IWMUD, with a minimum of 1 and maximum of 6 months of abstinence, were recruited from "Peyrovan Hemmat Harm Reduction Institute" and "Iranian National Center for Addiction Studies (INCAS) Academic Clinic" located in Tehran.
 8-1	1202-1211	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 8-2	1212-1215	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 8-3	1216-1223	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -240,6 +248,7 @@
 8-48	1480-1486	Tehran	_
 8-49	1487-1488	.	_
 
+Text=24 age-matched NCs were also recruited in our research.
 9-1	1489-1491	24	_
 9-2	1492-1503	age-matched	_
 9-3	1504-1507	NCs	_
@@ -251,6 +260,7 @@
 9-9	1535-1543	research	_
 9-10	1544-1545	.	_
 
+Text=This research is part of a registered brain stimulation trial in Iranian Registry of Clinical Trials (IRCT) in 2018 (IRCT20170808035562N2).
 10-1	1546-1550	This	_
 10-2	1551-1559	research	_
 10-3	1560-1562	is	_
@@ -277,6 +287,7 @@
 10-24	1687-1688	)	_
 10-25	1689-1690	.	_
 
+Text=The rest EEG were recorded before any intervention.
 11-1	1691-1694	The	_
 11-2	1695-1699	rest	_
 11-3	1700-1703	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -287,6 +298,7 @@
 11-8	1729-1741	intervention	_
 11-9	1742-1743	.	_
 
+Text=All subjects signed a written informed consent form.
 12-1	1744-1747	All	_
 12-2	1748-1756	subjects	_
 12-3	1757-1763	signed	_
@@ -297,6 +309,7 @@
 12-8	1791-1795	form	_
 12-9	1796-1797	.	_
 
+Text=Table 1 shows the demographic characteristics and drug use history of the participants.
 13-1	1798-1803	Table	_
 13-2	1804-1805	1	_
 13-3	1806-1811	shows	_
@@ -312,6 +325,7 @@
 13-13	1872-1884	participants	_
 13-14	1885-1886	.	_
 
+Text=2.2 EEG data acquisition We recorded five minutes of rEEG while the participants' eyes were open.
 14-1	1887-1890	2.2	_
 14-2	1891-1894	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 14-3	1895-1899	data	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -331,6 +345,7 @@
 14-17	1980-1984	open	_
 14-18	1985-1986	.	_
 
+Text=We instructed all individuals to pay attention to a black-background screen in front of them during the recording and attempt not to think about anything.
 15-1	1987-1989	We	_
 15-2	1990-2000	instructed	_
 15-3	2001-2004	all	_
@@ -358,6 +373,7 @@
 15-25	2132-2140	anything	_
 15-26	2141-2142	.	_
 
+Text=All EEG data were recorded using a 62-channel g.tec (http: //www.gtec.at/) EEG system (g. HIamp) in National Brain Mapping Laboratory (NBML) (https: //nbml.ir/EN).
 16-1	2143-2146	All	_
 16-2	2147-2150	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 16-3	2151-2155	data	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -393,6 +409,7 @@
 16-33	2314-2315	)	_
 16-34	2316-2317	.	_
 
+Text=The reference channel was placed on right ear lobe for all individuals.
 17-1	2318-2321	The	_
 17-2	2322-2331	reference	_
 17-3	2332-2339	channel	_
@@ -407,6 +424,7 @@
 17-12	2377-2388	individuals	_
 17-13	2389-2390	.	_
 
+Text=The sampling frequency of 512 Hz was selected for EEG recording.
 18-1	2391-2394	The	_
 18-2	2395-2403	sampling	_
 18-3	2404-2413	frequency	_
@@ -420,6 +438,7 @@
 18-11	2445-2454	recording	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 18-12	2455-2456	.	_
 
+Text=All data were resampled to 200 Hz in preprocessing step to decrease the computational cost.
 19-1	2457-2460	All	_
 19-2	2461-2465	data	_
 19-3	2466-2470	were	_
@@ -437,6 +456,7 @@
 19-15	2543-2547	cost	_
 19-16	2548-2549	.	_
 
+Text=2.3 Data preprocessing EEG data were preprocessed using EEGLAB and Fieldtrip toolboxes of MATLAB.
 20-1	2550-2553	2.3	_
 20-2	2554-2558	Data	_
 20-3	2559-2572	preprocessing	_
@@ -453,6 +473,7 @@
 20-14	2640-2646	MATLAB	_
 20-15	2647-2648	.	_
 
+Text=The datasets were filtered by a 0.1 Hz high-pass filter and a notch filter to remove the voltage drift and 50 Hz power line noise.
 21-1	2649-2652	The	_
 21-2	2653-2661	datasets	_
 21-3	2662-2666	were	_
@@ -480,6 +501,7 @@
 21-25	2773-2778	noise	_
 21-26	2779-2780	.	_
 
+Text=The data were referenced to common average and artifact rejection was firstly performed by visual inspection.
 22-1	2781-2784	The	_
 22-2	2785-2789	data	_
 22-3	2790-2794	were	_
@@ -498,6 +520,7 @@
 22-16	2879-2889	inspection	_
 22-17	2890-2891	.	_
 
+Text=Independent component analysis was employed to remove artifactual components (e.g.
 23-1	2892-2903	Independent	_
 23-2	2904-2913	component	_
 23-3	2914-2922	analysis	_
@@ -511,6 +534,7 @@
 23-11	2971-2974	e.g	_
 23-12	2975-2976	.	_
 
+Text=eye blinks, eye movements, heartbeat, and muscle artifacts).
 24-1	2977-2980	eye	_
 24-2	2981-2987	blinks	_
 24-3	2988-2989	,	_
@@ -525,6 +549,7 @@
 24-12	3039-3040	)	_
 24-13	3041-3042	.	_
 
+Text=Then, with a moving window and a peak-to-peak threshold all parts, which exceeded ±100 μv were removed.
 25-1	3043-3047	Then	_
 25-2	3048-3049	,	_
 25-3	3050-3054	with	_
@@ -546,6 +571,7 @@
 25-19	3140-3147	removed	_
 25-20	3148-3149	.	_
 
+Text=The preprocessed data, containing the least amount of artifacts, was segmented into 5-second trials (24 trials, totally 120 sec) which were in the range of other resting-state EEG studies.
 26-1	3150-3153	The	_
 26-2	3154-3166	preprocessed	_
 26-3	3167-3171	data	_
@@ -582,9 +608,11 @@
 26-34	3335-3342	studies	_
 26-35	3343-3344	.	_
 
+Text=2.4.
 27-1	3345-3348	2.4	_
 27-2	3349-3350	.	_
 
+Text=Weighted phase lag index (WPLI) description WPLI is the improved version of PLI connectivity index, proposed by Vinck et al ..
 28-1	3351-3359	Weighted	_
 28-2	3360-3365	phase	_
 28-3	3366-3369	lag	_
@@ -610,6 +638,7 @@
 28-23	3475-3477	al	_
 28-24	3478-3480	..	_
 
+Text=It is highly sensitive and powerful to properly detect phase interactions of spatially close signals and has shown robustness to volume conduction that outperforms PLI, coherence, and imaginary coherence (IC).
 29-1	3481-3483	It	_
 29-2	3484-3486	is	_
 29-3	3487-3493	highly	_
@@ -646,6 +675,7 @@
 29-34	3692-3693	)	_
 29-35	3694-3695	.	_
 
+Text=WPLI estimates the phase leads and lags between two interacted time-series as follows.
 30-1	3696-3700	WPLI	_
 30-2	3701-3710	estimates	_
 30-3	3711-3714	the	_
@@ -661,6 +691,7 @@
 30-13	3774-3781	follows	_
 30-14	3782-3783	.	_
 
+Text=Where Sxyt is the cross-spectrum of time-series x and y at time point t, and sgn is the sign function.
 31-1	3784-3789	Where	_
 31-2	3790-3794	Sxyt	_
 31-3	3795-3797	is	_
@@ -684,11 +715,13 @@
 31-21	3878-3886	function	_
 31-22	3887-3888	.	_
 
+Text=Function imag (.
 32-1	3889-3897	Function	_
 32-2	3898-3902	imag	_
 32-3	3903-3904	(	_
 32-4	3905-3906	.	_
 
+Text=) returns only the imaginary component of the cross-spectrum.
 33-1	3907-3908	)	_
 33-2	3909-3916	returns	_
 33-3	3917-3921	only	_
@@ -700,6 +733,7 @@
 33-9	3953-3967	cross-spectrum	_
 33-10	3968-3969	.	_
 
+Text=WPLI weights the cross-spectrum according to the imaginary component ’ s magnitude.
 34-1	3970-3974	WPLI	_
 34-2	3975-3982	weights	_
 34-3	3983-3986	the	_
@@ -714,6 +748,7 @@
 34-12	4043-4052	magnitude	_
 34-13	4053-4054	.	_
 
+Text=This allows it to limit the impact of small noise on “ true “ sign of cross-spectrum around the real axes.
 35-1	4055-4059	This	_
 35-2	4060-4066	allows	_
 35-3	4067-4069	it	_
@@ -737,6 +772,7 @@
 35-21	4156-4160	axes	_
 35-22	4161-4162	.	_
 
+Text=2.5 Graph theory analysis 2.5.1.
 36-1	4163-4166	2.5	_
 36-2	4167-4172	Graph	_
 36-3	4173-4179	theory	_
@@ -744,6 +780,7 @@
 36-5	4189-4194	2.5.1	_
 36-6	4195-4196	.	_
 
+Text=Network construction After applying Laplacian filter to EEG data to reduce the volume conduction effect and spatially enhance the data quality, functional connectivity was computed in EEG-sensor space among pairwise electrodes.
 37-1	4197-4204	Network	_
 37-2	4205-4217	construction	_
 37-3	4218-4223	After	_
@@ -778,6 +815,7 @@
 37-32	4414-4424	electrodes	_
 37-33	4425-4426	.	_
 
+Text=The connectivity values were calculated for five EEG frequency bands: delta (1–4 Hz), theta (4–8 Hz), alpha (8–15 Hz), beta (15–30 Hz), and gamma (30–45 Hz) according to previous addiction studies.
 38-1	4427-4430	The	_
 38-2	4431-4443	connectivity	_
 38-3	4444-4450	values	_
@@ -826,6 +864,7 @@
 38-46	4631-4638	studies	_
 38-47	4639-4640	.	_
 
+Text=Accordingly, we obtained a functional network with 61 nodes in five bands (5×61×61 connectivity matrix) for each subject, where the nodes were considered the sensors and the link between them were acquired using the absolute value of the WPLI matrix.
 39-1	4641-4652	Accordingly	_
 39-2	4653-4654	,	_
 39-3	4655-4657	we	_
@@ -872,6 +911,7 @@
 39-44	4888-4894	matrix	_
 39-45	4895-4896	.	_
 
+Text=2.5.2 Graph measures 2.5.2.1 Node strength (NS).
 40-1	4897-4902	2.5.2	_
 40-2	4903-4908	Graph	_
 40-3	4909-4917	measures	_
@@ -883,6 +923,7 @@
 40-9	4945-4946	)	_
 40-10	4947-4948	.	_
 
+Text=It is sum of the weights of links or edges connected to a node.
 41-1	4949-4951	It	_
 41-2	4952-4954	is	_
 41-3	4955-4958	sum	_
@@ -899,6 +940,7 @@
 41-14	5007-5011	node	_
 41-15	5012-5013	.	_
 
+Text=Where N is the set of all nodes in the network and the links (i, j) are related by connection weight wij.
 42-1	5014-5019	Where	_
 42-2	5020-5021	N	_
 42-3	5022-5024	is	_
@@ -926,6 +968,7 @@
 42-25	5118-5121	wij	_
 42-26	5122-5123	.	_
 
+Text=2.5.2.2 Characteristic path length (CP).
 43-1	5124-5131	2.5.2.2	_
 43-2	5132-5146	Characteristic	_
 43-3	5147-5151	path	_
@@ -935,6 +978,7 @@
 43-7	5164-5165	)	_
 43-8	5166-5167	.	_
 
+Text=Shortest weighted path length between two nodes i and j is determined by where f is a map (e.g.
 44-1	5168-5176	Shortest	_
 44-2	5177-5185	weighted	_
 44-3	5186-5190	path	_
@@ -957,6 +1001,7 @@
 44-20	5260-5263	e.g	_
 44-21	5264-5265	.	_
 
+Text=an inverse) from weight to length and indicates the shortest weighted path between nodes i and j.
 45-1	5266-5268	an	_
 45-2	5269-5276	inverse	_
 45-3	5277-5278	)	_
@@ -977,6 +1022,7 @@
 45-18	5362-5363	j	_
 45-19	5364-5365	.	_
 
+Text=The averaged shortest path length between all the node pairs in a network is known as the characteristic path length: where n shows the number of nodes.
 46-1	5366-5369	The	_
 46-2	5370-5378	averaged	_
 46-3	5379-5387	shortest	_
@@ -1007,6 +1053,7 @@
 46-28	5513-5518	nodes	_
 46-29	5519-5520	.	_
 
+Text=2.5.2.3 Clustering coefficient (CC).
 47-1	5521-5528	2.5.2.3	_
 47-2	5529-5539	Clustering	_
 47-3	5540-5551	coefficient	_
@@ -1015,6 +1062,7 @@
 47-6	5557-5558	)	_
 47-7	5559-5560	.	_
 
+Text=The number of weighted triangles around a node i is defined as a basis for measuring segregation: Clustering coefficient reflects the degree that the connected nodes in a graph tend to form clusters and can illustrate the degree of local connectivity in the network.
 48-1	5561-5564	The	_
 48-2	5565-5571	number	_
 48-3	5572-5574	of	_
@@ -1062,6 +1110,7 @@
 48-45	5820-5827	network	_
 48-46	5828-5829	.	_
 
+Text=The clustering coefficient of the network is described by: Characteristic path length measures the integration of the network, while the clustering coefficient is a measure for the network functional segregation.
 49-1	5830-5833	The	_
 49-2	5834-5844	clustering	_
 49-3	5845-5856	coefficient	_
@@ -1096,6 +1145,7 @@
 49-32	6032-6043	segregation	_
 49-33	6044-6045	.	_
 
+Text=Next to C and L, by following previous studies, the small-world index (SWI = CCw/CPw) was obtained for each individual.
 50-1	6046-6050	Next	_
 50-2	6051-6053	to	_
 50-3	6054-6055	C	_
@@ -1122,6 +1172,7 @@
 50-24	6158-6168	individual	_
 50-25	6169-6170	.	_
 
+Text=The larger the SWI value is, the more small-world the network is.
 51-1	6171-6174	The	_
 51-2	6175-6181	larger	_
 51-3	6182-6185	the	_
@@ -1137,6 +1188,7 @@
 51-13	6234-6236	is	_
 51-14	6237-6238	.	_
 
+Text=The small world organizations have simultaneously notably segregated and integrated topologies.
 52-1	6239-6242	The	_
 52-2	6243-6248	small	_
 52-3	6249-6254	world	_
@@ -1150,6 +1202,7 @@
 52-11	6323-6333	topologies	_
 52-12	6334-6335	.	_
 
+Text=2.5.3 Hub identification Hubs refer to highly linked nodes in the network.
 53-1	6336-6341	2.5.3	_
 53-2	6342-6345	Hub	_
 53-3	6346-6360	identification	_
@@ -1164,6 +1217,7 @@
 53-12	6402-6409	network	_
 53-13	6410-6411	.	_
 
+Text=Following the method used in previous studies we used the node strength, betweenness centrality and eigenvector centrality to identify hubs using BCT toolbox.
 54-1	6412-6421	Following	_
 54-2	6422-6425	the	_
 54-3	6426-6432	method	_
@@ -1190,6 +1244,7 @@
 54-24	6563-6570	toolbox	_
 54-25	6571-6572	.	_
 
+Text=Nodes in each of the mentioned measures that exceed one standard deviation from the mean value of the measure were considered as hubs.
 55-1	6573-6578	Nodes	_
 55-2	6579-6581	in	_
 55-3	6582-6586	each	_
@@ -1215,6 +1270,7 @@
 55-23	6702-6706	hubs	_
 55-24	6707-6708	.	_
 
+Text=Once the hubs were identified using the different techniques, those hubs that were commonly obtained by the different techniques were compared between MA abusers and controls.
 56-1	6709-6713	Once	_
 56-2	6714-6717	the	_
 56-3	6718-6722	hubs	_
@@ -1244,9 +1300,11 @@
 56-27	6876-6884	controls	_
 56-28	6885-6886	.	_
 
+Text=2.6.
 57-1	6887-6890	2.6	_
 57-2	6891-6892	.	_
 
+Text=Source reconstruction Standardized low-resolution brain electromagnetic tomography (sLORETA) was used to estimate the intracerebral electrical sources, using FieldTrip.
 58-1	6893-6899	Source	_
 58-2	6900-6914	reconstruction	_
 58-3	6915-6927	Standardized	_
@@ -1270,6 +1328,7 @@
 58-21	7054-7063	FieldTrip	_
 58-22	7064-7065	.	_
 
+Text=sLORETA computes neuronal activity in current density (A/m2) without assuming a predefined number of active sources.
 59-1	7066-7073	sLORETA	_
 59-2	7074-7082	computes	_
 59-3	7083-7091	neuronal	_
@@ -1290,6 +1349,7 @@
 59-18	7176-7183	sources	_
 59-19	7184-7185	.	_
 
+Text=We first acquired a lead field (forward model) by creating a FEM volume conduction model of the head.
 60-1	7186-7188	We	_
 60-2	7189-7194	first	_
 60-3	7195-7203	acquired	_
@@ -1312,6 +1372,7 @@
 60-20	7284-7288	head	_
 60-21	7289-7290	.	_
 
+Text=To do this, we used 61 electrodes, a grid with 3 mm3 resolution, and voxels of the anatomical MRI (colin27 brain), segmented (i.e.
 61-1	7291-7293	To	_
 61-2	7294-7296	do	_
 61-3	7297-7301	this	_
@@ -1344,6 +1405,7 @@
 61-30	7424-7427	i.e	_
 61-31	7428-7429	.	_
 
+Text=separated) into the five different tissue types: scalp, skull, CSF (Cerebro-Spinal Fluid), gray and white matter.
 62-1	7430-7439	separated	_
 62-2	7440-7441	)	_
 62-3	7442-7446	into	_
@@ -1369,6 +1431,7 @@
 62-23	7543-7549	matter	_
 62-24	7550-7551	.	_
 
+Text=We used sLORETA to reconstruct neuronal activities in source points in the gray matter (cortical regions).
 63-1	7552-7554	We	_
 63-2	7555-7559	used	_
 63-3	7560-7567	sLORETA	_
@@ -1389,6 +1452,7 @@
 63-18	7658-7659	)	_
 63-19	7660-7661	.	_
 
+Text=To parcellate the brain into 90 (45 in each hemisphere) regions of interest (ROIs), automated anatomical labeling (AAL) atlas were applied.
 64-1	7662-7664	To	_
 64-2	7665-7675	parcellate	_
 64-3	7676-7679	the	_
@@ -1419,6 +1483,7 @@
 64-28	7800-7807	applied	_
 64-29	7808-7809	.	_
 
+Text=Table 2 lists the name of the ROIs and their corresponding abbreviations.
 65-1	7810-7815	Table	_
 65-2	7816-7817	2	_
 65-3	7818-7823	lists	_
@@ -1433,6 +1498,7 @@
 65-12	7869-7882	abbreviations	_
 65-13	7883-7884	.	_
 
+Text=The single nearest voxel to central voxel has been considered as the great representation of each ROI by following previous studies.
 66-1	7885-7888	The	_
 66-2	7889-7895	single	_
 66-3	7896-7903	nearest	_
@@ -1456,6 +1522,7 @@
 66-21	8009-8016	studies	_
 66-22	8017-8018	.	_
 
+Text=Accordingly, we obtained a functional network with 90 nodes in the five frequency bands (5×90×90 connectivity matrix) for each subject, where the nodes are equivalent to the central points of ROIs of AAL template and the link between them are the absolute value of the WPLI matrix.
 67-1	8019-8030	Accordingly	_
 67-2	8031-8032	,	_
 67-3	8033-8035	we	_
@@ -1509,6 +1576,7 @@
 67-51	8297-8303	matrix	_
 67-52	8304-8305	.	_
 
+Text=MNI coordinates of the selected central voxels are brought in S1 Table.
 68-1	8306-8309	MNI	_
 68-2	8310-8321	coordinates	_
 68-3	8322-8324	of	_
@@ -1523,6 +1591,7 @@
 68-12	8371-8376	Table	_
 68-13	8377-8378	.	_
 
+Text=3.Statistical analysis We used the most relevant study carried out by Ahmadlou et al.
 69-1	8379-8392	3.Statistical	_
 69-2	8393-8401	analysis	_
 69-3	8402-8404	We	_
@@ -1539,6 +1608,7 @@
 69-14	8461-8463	al	_
 69-15	8464-8465	.	_
 
+Text=to obtain the effect size for most important variable.
 70-1	8466-8468	to	_
 70-2	8469-8475	obtain	_
 70-3	8476-8479	the	_
@@ -1550,6 +1620,7 @@
 70-9	8511-8519	variable	_
 70-10	8520-8521	.	_
 
+Text=As in that study, SWI in the gamma frequency band, which is a ratio of CC and CP, has been suggested as a potential bio-marker for IWMD who are in early stage of MA withdrawal (<1 month), we considered it as the most important variable, primary endpoint, to assess it for IWMD who are in middle stage of MA abstinence (> 1 month).
 71-1	8522-8524	As	_
 71-2	8525-8527	in	_
 71-3	8528-8532	that	_
@@ -1626,6 +1697,7 @@
 71-74	8861-8862	)	_
 71-75	8863-8864	.	_
 
+Text=We obtained an effect size of 0.96 and yielded a size of 18 in each group with type I error 5% (α = 0.05) and study power 80% (β = 0.2) using two-tailed test and G * Power software.
 72-1	8865-8867	We	_
 72-2	8868-8876	obtained	_
 72-3	8877-8879	an	_
@@ -1673,6 +1745,7 @@
 72-45	9043-9051	software	_
 72-46	9052-9053	.	_
 
+Text=A multivariate analysis of variance (MANOVA) model was used to investigate statistical differences between topological metrics of brain FCN in IWMD and NCs.
 73-1	9054-9055	A	_
 73-2	9056-9068	multivariate	_
 73-3	9069-9077	analysis	_
@@ -1700,6 +1773,7 @@
 73-25	9208-9211	NCs	_
 73-26	9212-9213	.	_
 
+Text=The model assumptions were checked to be held: multivariate normality by Shapiro-Wilk test; homogeneity of covariance matrices by Box ’ s M test; homogeneity of variance by Levene ’ s test; further, the absence of multicollinearity was checked by variance inflation factor.
 74-1	9214-9217	The	_
 74-2	9218-9223	model	_
 74-3	9224-9235	assumptions	_
@@ -1749,6 +1823,7 @@
 74-47	9485-9491	factor	_
 74-48	9492-9493	.	_
 
+Text=The effects of potential baseline confounding variables, including age and total-score of depression, anxiety and stress (DASS-21 scale) were controlled in the model.
 75-1	9494-9497	The	_
 75-2	9498-9505	effects	_
 75-3	9506-9508	of	_
@@ -1778,6 +1853,7 @@
 75-27	9658-9663	model	_
 75-28	9664-9665	.	_
 
+Text=There was no any missing variable in the twenty topological characteristics but there were a few ones for the DASS-21 scale that have been replaced by mean imputation.
 76-1	9666-9671	There	_
 76-2	9672-9675	was	_
 76-3	9676-9678	no	_
@@ -1808,6 +1884,7 @@
 76-28	9822-9832	imputation	_
 76-29	9833-9834	.	_
 
+Text=Among the twenty variables, just six variables met the assumptions.
 77-1	9835-9840	Among	_
 77-2	9841-9844	the	_
 77-3	9845-9851	twenty	_
@@ -1821,6 +1898,7 @@
 77-11	9891-9902	assumptions	_
 77-12	9903-9904	.	_
 
+Text=Hence, the MANOVA in sensor and source spaces comprised six dependent variables (DVs) and one independent variable with two levels (IWMD vs. NCs).
 78-1	9905-9910	Hence	_
 78-2	9911-9912	,	_
 78-3	9913-9916	the	_
@@ -1851,6 +1929,7 @@
 78-28	10054-10055	)	_
 78-29	10056-10057	.	_
 
+Text=For the remaining variables, non-parametric test (Mann–Whitney) was used.
 79-1	10058-10061	For	_
 79-2	10062-10065	the	_
 79-3	10066-10075	remaining	_
@@ -1865,6 +1944,7 @@
 79-12	10129-10133	used	_
 79-13	10134-10135	.	_
 
+Text=An α level of less than 0.05 was considered significant.
 80-1	10136-10138	An	_
 80-2	10139-10140	α	_
 80-3	10141-10146	level	_
@@ -1877,6 +1957,7 @@
 80-10	10180-10191	significant	_
 80-11	10192-10193	.	_
 
+Text=The analysis was carried out using “ SPSS 22 ”.
 81-1	10194-10197	The	_
 81-2	10198-10206	analysis	_
 81-3	10207-10210	was	_
@@ -1889,6 +1970,7 @@
 81-10	10239-10240	”	_
 81-11	10241-10242	.	_
 
+Text=To control the type I error in multiple comparisons of connectivity differences in each frequency band, Benjamini–Hochberg procedure was carried out with false discovery rate 0.05 (q-value <0.05).
 82-1	10243-10245	To	_
 82-2	10246-10253	control	_
 82-3	10254-10257	the	_
@@ -1923,6 +2005,7 @@
 82-32	10441-10442	)	_
 82-33	10443-10444	.	_
 
+Text=The analysis was performed using MATLAB software.
 83-1	10445-10448	The	_
 83-2	10449-10457	analysis	_
 83-3	10458-10461	was	_

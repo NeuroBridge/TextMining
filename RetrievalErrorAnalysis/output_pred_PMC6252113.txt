@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Reduced higher-dimensional resting state fMRI dynamism in clinical high-risk individuals for schizophrenia identified by meta-state analysis New techniques to investigate functional network connectivity in resting state functional magnetic resonance imaging data have recently emerged.
 1-1	0-7	Reduced	_
 1-2	8-26	higher-dimensional	_
 1-3	27-34	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -38,6 +39,7 @@
 1-34	277-284	emerged	_
 1-35	285-286	.	_
 
+Text=One novel approach, called meta-state analysis, goes beyond the mere cross-correlation of time courses of distinct brain areas and explores temporal dynamism in more detail, allowing for connectivity states to overlap in time and capturing global dynamic behavior.
 2-1	287-290	One	_
 2-2	291-296	novel	_
 2-3	297-305	approach	_
@@ -81,6 +83,7 @@
 2-41	545-553	behavior	_
 2-42	554-555	.	_
 
+Text=Previous studies have shown that patients with chronic schizophrenia exhibit reduced neural dynamism compared to healthy controls, but it is not known whether these alterations extend to earlier phases of the illness.
 3-1	556-564	Previous	_
 3-2	565-572	studies	_
 3-3	573-577	have	_
@@ -116,6 +119,7 @@
 3-33	766-773	illness	_
 3-34	774-775	.	_
 
+Text=In this study, we analyzed individuals at clinical high-risk (CHR, n= 53) for developing psychosis, patients in an early stage of schizophrenia (ESZ, n= 58), and healthy controls (HC, n= 70).
 4-1	776-778	In	_
 4-2	779-783	this	_
 4-3	784-789	study	_
@@ -161,6 +165,7 @@
 4-43	977-978	)	_
 4-44	979-980	.	_
 
+Text=ESZ individuals exhibit reduced neural dynamism across all domains compared to HC.
 5-1	981-984	ESZ	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 5-2	985-996	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 5-3	997-1004	exhibit	_
@@ -175,6 +180,7 @@
 5-12	1060-1062	HC	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 5-13	1063-1064	.	_
 
+Text=CHR individuals also show reduced neural dynamism but only in 2 out of 4 domains investigated.
 6-1	1065-1068	CHR	http://maven.renci.org/NeuroBridge/neurobridge#ChronicPain
 6-2	1069-1080	individuals	_
 6-3	1081-1085	also	_
@@ -193,6 +199,7 @@
 6-16	1146-1158	investigated	_
 6-17	1159-1160	.	_
 
+Text=Overall, meta-state analysis adds information about dynamic fluidity of functional connectivity.
 7-1	1161-1168	Overall	_
 7-2	1169-1170	,	_
 7-3	1171-1181	meta-state	_
@@ -207,15 +214,18 @@
 7-12	1245-1257	connectivity	_
 7-13	1258-1259	.	_
 
+Text=2.
 8-1	1260-1261	2	_
 8-2	1262-1263	.	_
 
+Text=Material and methods 2.1.
 9-1	1264-1272	Material	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-2	1273-1276	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-3	1277-1284	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-4	1285-1288	2.1	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-5	1289-1290	.	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 
+Text=Participants CHR individuals (n=53) were recruited from University of California, San Francisco (UCSF) Early Psychosis Clinical Research Program, local clinics, and school counseling centers.
 10-1	1291-1303	Participants	_
 10-2	1304-1307	CHR	_
 10-3	1308-1319	individuals	_
@@ -249,6 +259,7 @@
 10-31	1481-1488	centers	_
 10-32	1489-1490	.	_
 
+Text=The CHR for psychosis syndrome was diagnosed based on the Criteria of Prodromal Syndromes (COPS) as assessed using the Structured Interview for Prodromal Syndromes (SIPS).
 11-1	1491-1494	The	_
 11-2	1495-1498	CHR	http://maven.renci.org/NeuroBridge/neurobridge#ChronicPain
 11-3	1499-1502	for	_
@@ -280,6 +291,7 @@
 11-29	1664-1665	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredInterviewforProdromalSyndromesRatingScale
 11-30	1666-1667	.	_
 
+Text=Individuals met criteria for one or more of three non-mutually exclusive prodromal syndromes: Attenuated Psychotic Symptoms (92.5%), Brief Intermittent Psychotic Symptoms (1.9%), and Genetic Risk and Deterioration (7.5%).
 12-1	1668-1679	Individuals	_
 12-2	1680-1683	met	_
 12-3	1684-1692	criteria	_
@@ -322,6 +334,7 @@
 12-40	1899-1900	)	_
 12-41	1901-1902	.	_
 
+Text=ESZ patients (n=58) were recruited from the Early Psychosis Clinical Research Program at USCF and from local community clinics.
 13-1	1903-1906	ESZ	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 13-2	1907-1915	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 13-3	1916-1917	(	_
@@ -345,6 +358,7 @@
 13-21	2024-2031	clinics	_
 13-22	2032-2033	.	_
 
+Text=ESZ patients met DSM-IV criteria for schizophrenia (n=63.8%), schizoaffective (n=27.6%) or schizophreniform (n=6.9%) disorder based on the Structured Clinical Interview for DSM-IV (SCID) administered by a trained interviewer.
 14-1	2034-2037	ESZ	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-2	2038-2046	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-3	2047-2050	met	_
@@ -387,6 +401,7 @@
 14-40	2259-2270	interviewer	_
 14-41	2271-2272	.	_
 
+Text=The mean illness duration for ESZ patients was 2.09 years (standard deviation, SD, 1.37).
 15-1	2273-2276	The	_
 15-2	2277-2281	mean	_
 15-3	2282-2289	illness	_
@@ -407,6 +422,7 @@
 15-18	2364-2365	)	_
 15-19	2366-2367	.	_
 
+Text=Symptom severity was assessed by trained clinical raters using the Scale of Prodromal Symptoms (SOPS) for CHR individuals and the Positive and Negative Syndrome Scale (PANSS) for ESZ patients.
 16-1	2368-2375	Symptom	_
 16-2	2376-2384	severity	_
 16-3	2385-2388	was	_
@@ -442,6 +458,7 @@
 16-33	2555-2563	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 16-34	2564-2565	.	_
 
+Text=HC individuals (n=70) were recruited from the community and did not meet criteria for any axis I diagnosis based on the SCID.
 17-1	2566-2568	HC	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 17-2	2569-2580	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 17-3	2581-2582	(	_
@@ -468,6 +485,7 @@
 17-24	2688-2692	SCID	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 17-25	2693-2694	.	_
 
+Text=For participants <16 years of age, the Schedule for Affective Disorders and Schizophrenia for School-Age Children (Kiddie-SADS), Present and Lifetime Version was used in order to assess for Axis I diagnoses in younger teenagers.
 18-1	2695-2698	For	_
 18-2	2699-2711	participants	_
 18-3	2712-2713	<	_
@@ -509,6 +527,7 @@
 18-39	2918-2927	teenagers	_
 18-40	2928-2929	.	_
 
+Text=General exclusion criteria included DSM-IV substance dependence in the past year (except nicotine), a history of head injury with loss of consciousness, neurological disorders, or a first-degree relative with a psychotic illness (for HC individuals only).
 19-1	2930-2937	General	_
 19-2	2938-2947	exclusion	_
 19-3	2948-2956	criteria	_
@@ -554,6 +573,7 @@
 19-43	3190-3191	)	_
 19-44	3192-3193	.	_
 
+Text=Written informed consent was obtained from participants, or from their parents/legal guardians in the case of minors (who also provided written assent), under protocols approved by the institutional review board at UCSF.
 20-1	3194-3201	Written	_
 20-2	3202-3210	informed	_
 20-3	3211-3218	consent	_
@@ -592,6 +612,7 @@
 20-36	3413-3417	UCSF	_
 20-37	3418-3419	.	_
 
+Text=Demographic data are presented in Table 1.
 21-1	3420-3431	Demographic	_
 21-2	3432-3436	data	_
 21-3	3437-3440	are	_
@@ -601,6 +622,7 @@
 21-7	3460-3461	1	_
 21-8	3462-3463	.	_
 
+Text=The final sample comprised 70 HC, 53 CHR, and 58 ESZ individuals and groups did not differ significantly with regard to age and gender.
 22-1	3464-3467	The	_
 22-2	3468-3473	final	_
 22-3	3474-3480	sample	_
@@ -629,6 +651,7 @@
 22-26	3594-3600	gender	_
 22-27	3601-3602	.	_
 
+Text=12 CHR (22.6%) and 53 ESZ (91.4%) individuals were medicated with antipsychotics (supplementary table 1) at the time of fMRI scanning.
 23-1	3603-3605	12	_
 23-2	3606-3609	CHR	_
 23-3	3610-3611	(	_
@@ -660,9 +683,11 @@
 23-29	3736-3744	scanning	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 23-30	3745-3746	.	_
 
+Text=2.2.
 24-1	3747-3750	2.2	_
 24-2	3751-3752	.	_
 
+Text=Data acquisition Resting state fMRI data were collected at the UCSF Neuroimaging Center using a 3T Siemens Trio (Erlangen, Germany) scanner.
 25-1	3753-3757	Data	_
 25-2	3758-3769	acquisition	_
 25-3	3770-3777	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -689,9 +714,11 @@
 25-24	3888-3895	scanner	_
 25-25	3896-3897	.	_
 
+Text=2.2.1.
 26-1	3898-3903	2.2.1	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 26-2	3904-3905	.	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 
+Text=Resting state fMRI pre-processing Participants were instructed to keep their eyes closed while scanning and to stay awake.
 27-1	3906-3913	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 27-2	3914-3919	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 27-3	3920-3924	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -712,6 +739,7 @@
 27-18	4022-4027	awake	_
 27-19	4028-4029	.	_
 
+Text=Resting state scans were acquired using a high-speed whole brain echo planar imaging sequence (32 axial slices, thickness 3.5mm, FOV 24cm, TR 2s, echo time 29ms, flip angle 75°).
 28-1	4030-4037	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 28-2	4038-4043	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 28-3	4044-4049	scans	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -750,6 +778,7 @@
 28-36	4213-4214	)	_
 28-37	4215-4216	.	_
 
+Text=Pre-processing was computed with SPM 8 (http: //www.fil.ion.ucl.ac.uk/spm) and the Data Processing Assistant for Resting State fMRI (DPARSF) toolbox.
 29-1	4217-4231	Pre-processing	_
 29-2	4232-4235	was	_
 29-3	4236-4244	computed	_
@@ -776,6 +805,7 @@
 29-24	4363-4370	toolbox	_
 29-25	4371-4372	.	_
 
+Text=The first 10 images were discarded due to equilibration effects, leaving 170 images for further analysis.
 30-1	4373-4376	The	_
 30-2	4377-4382	first	_
 30-3	4383-4385	10	_
@@ -795,6 +825,7 @@
 30-17	4470-4478	analysis	_
 30-18	4479-4480	.	_
 
+Text=Further pre-processing included slice time correction, realignment to the first volume, spatial normalization to a standard MNI template, reslicing to a voxel size of 3×3×3mm, and smoothing with a 6mm Gaussian kernel.
 31-1	4481-4488	Further	_
 31-2	4489-4503	pre-processing	_
 31-3	4504-4512	included	_
@@ -833,6 +864,7 @@
 31-36	4695-4701	kernel	_
 31-37	4702-4703	.	_
 
+Text=Individuals included did not exceed 4mm/4 degrees movement across volumes.
 32-1	4704-4715	Individuals	_
 32-2	4716-4724	included	_
 32-3	4725-4728	did	_
@@ -845,9 +877,11 @@
 32-10	4770-4777	volumes	_
 32-11	4778-4779	.	_
 
+Text=2.3.
 33-1	4780-4783	2.3	_
 33-2	4784-4785	.	_
 
+Text=Functional network connectivity analysis The meta-state analysis is based on windowed FNC matrices.
 34-1	4786-4796	Functional	_
 34-2	4797-4804	network	_
 34-3	4805-4817	connectivity	_
@@ -863,6 +897,7 @@
 34-13	4876-4884	matrices	_
 34-14	4885-4886	.	_
 
+Text=Therefore, we describe all FNC processing steps in detail below.
 35-1	4887-4896	Therefore	_
 35-2	4897-4898	,	_
 35-3	4899-4901	we	_
@@ -876,9 +911,11 @@
 35-11	4946-4951	below	_
 35-12	4952-4953	.	_
 
+Text=2.3.1.
 36-1	4954-4959	2.3.1	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 36-2	4960-4961	.	_
 
+Text=Group Independent Component Analysis (GICA) Figure 1 depicts analysis steps for GICA and for the k-means meta-state approach.
 37-1	4962-4967	Group	_
 37-2	4968-4979	Independent	_
 37-3	4980-4989	Component	_
@@ -901,6 +938,7 @@
 37-20	5080-5088	approach	_
 37-21	5089-5090	.	_
 
+Text=Spatial GICA decomposes the whole brain rs-fMRI data into linear mixtures of spatially independent components.
 38-1	5091-5098	Spatial	_
 38-2	5099-5103	GICA	_
 38-3	5104-5114	decomposes	_
@@ -918,6 +956,7 @@
 38-15	5190-5200	components	_
 38-16	5201-5202	.	_
 
+Text=GICA was performed using the Group ICA fMRI toolbox (GIFT) (http: //mialab.mrn.org/software/gift/index.html) with two data reduction steps using principal component analysis: 1) a subject-specific reduction of time points from 170 time points to 120 temporal principle components comprising weighted sums of time points, and 2) a group-wise reduction of the concatenated subject-reduced data to 100 aggregate components each consisting of a spatial map and a corresponding time course using the expectation-maximization algorithm.
 39-1	5203-5207	GICA	_
 39-2	5208-5211	was	_
 39-3	5212-5221	performed	_
@@ -1001,6 +1040,7 @@
 39-81	5732-5741	algorithm	_
 39-82	5742-5743	.	_
 
+Text=Pre-processing in GIFT included z-scoring of time courses in order to normalize variance.
 40-1	5744-5758	Pre-processing	_
 40-2	5759-5761	in	_
 40-3	5762-5766	GIFT	_
@@ -1016,6 +1056,7 @@
 40-13	5824-5832	variance	_
 40-14	5833-5834	.	_
 
+Text=ICA was repeated 20 times in ICASSO using the infomax algorithm in order to ensure stability of estimation.
 41-1	5835-5838	ICA	_
 41-2	5839-5842	was	_
 41-3	5843-5851	repeated	_
@@ -1036,6 +1077,7 @@
 41-18	5931-5941	estimation	_
 41-19	5942-5943	.	_
 
+Text=We used spatial-temporal back reconstruction to estimate subject-specific time courses and spatial maps for each independent component.
 42-1	5944-5946	We	_
 42-2	5947-5951	used	_
 42-3	5952-5968	spatial-temporal	_
@@ -1055,6 +1097,7 @@
 42-17	6069-6078	component	_
 42-18	6079-6080	.	_
 
+Text=The resulting 100 independent components were manually reviewed in order to identify meaningful ICNs based on the Automated Anatomic Labeling atlas.
 43-1	6081-6084	The	_
 43-2	6085-6094	resulting	_
 43-3	6095-6098	100	_
@@ -1078,6 +1121,7 @@
 43-21	6223-6228	atlas	_
 43-22	6229-6230	.	_
 
+Text=ICNs should show peak locations in gray matter with minimal overlap with white matter, ventricles, blood vessels, and non-brain structures.
 44-1	6231-6235	ICNs	_
 44-2	6236-6242	should	_
 44-3	6243-6247	show	_
@@ -1103,6 +1147,7 @@
 44-23	6362-6372	structures	_
 44-24	6373-6374	.	_
 
+Text=Further, spectral power of the time courses of meaningful ICNs should obey the power law, showing exponentially higher power at the lowest frequencies and lowest power at the highest frequencies.
 45-1	6375-6382	Further	_
 45-2	6383-6384	,	_
 45-3	6385-6393	spectral	_
@@ -1137,6 +1182,7 @@
 45-32	6560-6571	frequencies	_
 45-33	6572-6573	.	_
 
+Text=Inspection of the 100 independent components yielded 47 meaningful ICNs which were assigned to 8 functional domains based on prior scientific literature (http: //neurosynth.org/): subcortical (SC), salience (SAL), auditory (AUD), sensorimotor (SM), visual (VIS), cognitive control (CC), default mode network (DMN), and cerebellum (CB).
 46-1	6574-6584	Inspection	_
 46-2	6585-6587	of	_
 46-3	6588-6591	the	_
@@ -1210,6 +1256,7 @@
 46-71	6934-6935	)	_
 46-72	6936-6937	.	_
 
+Text=Supplementary figure 1 shows all functional domains and supplementary table 2 contains ICNs assigned to each domain.
 47-1	6938-6951	Supplementary	_
 47-2	6952-6958	figure	_
 47-3	6959-6960	1	_
@@ -1229,9 +1276,11 @@
 47-17	7047-7053	domain	_
 47-18	7054-7055	.	_
 
+Text=2.3.2.
 48-1	7056-7061	2.3.2	_
 48-2	7062-7063	.	_
 
+Text=Post-processing of time courses Post-processing of time courses included linear, quadratic, and cubic detrending and regression of motion parameters (in x-, y-, and z-direction as well as pitch, roll, and yaw) as well as their derivatives and squares, in a single multiple regression framework.
 49-1	7064-7079	Post-processing	_
 49-2	7080-7082	of	_
 49-3	7083-7087	time	_
@@ -1287,6 +1336,7 @@
 49-53	7357-7366	framework	_
 49-54	7367-7368	.	_
 
+Text=Time courses were also despiked.
 50-1	7369-7373	Time	_
 50-2	7374-7381	courses	_
 50-3	7382-7386	were	_
@@ -1294,6 +1344,7 @@
 50-5	7392-7400	despiked	_
 50-6	7401-7402	.	_
 
+Text=Spikes were defined as time points with a root mean square of the frame-wise displacement> 0.5mm.
 51-1	7403-7409	Spikes	_
 51-2	7410-7414	were	_
 51-3	7415-7422	defined	_
@@ -1313,6 +1364,7 @@
 51-17	7495-7500	0.5mm	_
 51-18	7501-7502	.	_
 
+Text=These were identified based on the 3Ddespike algorithm as implemented in Analysis of Functional NeuroImages (AFNI) and interpolated using a 3rd order spline fit to ‘ clean ’ neighboring data.
 52-1	7503-7508	These	_
 52-2	7509-7513	were	_
 52-3	7514-7524	identified	_
@@ -1347,6 +1399,7 @@
 52-32	7691-7695	data	_
 52-33	7696-7697	.	_
 
+Text=Temporal filtering was applied with a bandpass 5th order Butterworth filter (passband 0.01 – 0.15 Hz).
 53-1	7698-7706	Temporal	_
 53-2	7707-7716	filtering	_
 53-3	7717-7720	was	_
@@ -1367,6 +1420,7 @@
 53-18	7800-7801	)	_
 53-19	7802-7803	.	_
 
+Text=FNC was computed after post-processing and interpolation of time points identified as spikes.
 54-1	7804-7807	FNC	_
 54-2	7808-7811	was	_
 54-3	7812-7820	computed	_
@@ -1382,9 +1436,11 @@
 54-13	7890-7896	spikes	_
 54-14	7897-7898	.	_
 
+Text=2.3.3.
 55-1	7899-7904	2.3.3	_
 55-2	7905-7906	.	_
 
+Text=Windowed functional network connectivity matrices As in earlier studies, we applied a sliding temporal window approach to rs-fMRI data in order to capture fluctuations of functional connectivity.
 56-1	7907-7915	Windowed	_
 56-2	7916-7926	functional	_
 56-3	7927-7934	network	_
@@ -1415,6 +1471,7 @@
 56-28	8090-8102	connectivity	_
 56-29	8103-8104	.	_
 
+Text=A rectangular window (width 22 TRs = 44s) was convolved with a Gaussian of sigma 3 TRs in order to obtain tapering along the edges of the window and slid in steps of 1 TR across concatenated time courses.
 57-1	8105-8106	A	_
 57-2	8107-8118	rectangular	_
 57-3	8119-8125	window	_
@@ -1458,6 +1515,7 @@
 57-41	8303-8310	courses	_
 57-42	8311-8312	.	_
 
+Text=For each window, a separate FNC matrix consisting of cross-correlations of ICNs (size ICN x ICN) was calculated.
 58-1	8313-8316	For	_
 58-2	8317-8321	each	_
 58-3	8322-8328	window	_
@@ -1481,6 +1539,7 @@
 58-21	8417-8427	calculated	_
 58-22	8428-8429	.	_
 
+Text=2.3.4 Connectivity patterns (CP) and meta-states Unlike Miller et al., we solely applied a k-means clustering algorithm to windowed FNC (wFNC) matrices (representing a connectivity pattern in an individual at a certain point in time) in order to make results between the dynamic FNC approach and the meta-states approach more comparable.
 59-1	8430-8435	2.3.4	_
 59-2	8436-8448	Connectivity	_
 59-3	8449-8457	patterns	_
@@ -1541,6 +1600,7 @@
 59-58	8763-8773	comparable	_
 59-59	8774-8775	.	_
 
+Text=Estimated wFNC matrices were clustered based on the k-means algorithm implemented in Matlab (7.12.0 (R2011a), The MathWorks Inc., Natick, MA) with squared Euclidean distance as similarity measure (150 iterations, 5 replicates).
 60-1	8776-8785	Estimated	_
 60-2	8786-8790	wFNC	_
 60-3	8791-8799	matrices	_
@@ -1584,6 +1644,7 @@
 60-41	9011-9012	)	_
 60-42	9013-9014	.	_
 
+Text=The optimal number of cluster centroids was estimated to be 5 based on the elbow criterion (supplementary figure 2).
 61-1	9015-9018	The	_
 61-2	9019-9026	optimal	_
 61-3	9027-9033	number	_
@@ -1607,6 +1668,7 @@
 61-21	9131-9132	)	_
 61-22	9133-9134	.	_
 
+Text=Supplementary figure 3 shows the k-means clustering process in more detail.
 62-1	9135-9148	Supplementary	_
 62-2	9149-9155	figure	_
 62-3	9156-9157	3	_
@@ -1620,6 +1682,7 @@
 62-11	9203-9209	detail	_
 62-12	9210-9211	.	_
 
+Text=The resulting cluster centroids were used as main connectivity patterns (CPs) in order to generate distance vectors for each wFNC matrix.
 63-1	9212-9215	The	_
 63-2	9216-9225	resulting	_
 63-3	9226-9233	cluster	_
@@ -1645,6 +1708,7 @@
 63-23	9344-9350	matrix	_
 63-24	9351-9352	.	_
 
+Text=The distance was measured as squared Euclidean distance of each wFNC matrix to the five cluster centroids in the 5-dimensional meta-state space resulting in a vector consisting of 5 distances, see Figure 1.
 64-1	9353-9356	The	_
 64-2	9357-9365	distance	_
 64-3	9366-9369	was	_
@@ -1681,6 +1745,7 @@
 64-34	9558-9559	1	_
 64-35	9560-9561	.	_
 
+Text=This distance vector is then parameterized by replacing each concrete distance value with the quartile this distance falls in based on the group ’ s distance.
 65-1	9562-9566	This	_
 65-2	9567-9575	distance	_
 65-3	9576-9582	vector	_
@@ -1709,6 +1774,7 @@
 65-26	9711-9719	distance	_
 65-27	9720-9721	.	_
 
+Text=These parameterized vectors are called meta-states.
 66-1	9722-9727	These	_
 66-2	9728-9741	parameterized	_
 66-3	9742-9749	vectors	_
@@ -1717,6 +1783,7 @@
 66-6	9761-9772	meta-states	_
 66-7	9773-9774	.	_
 
+Text=The following measures of dynamism can be calculated from the discretized distance vectors: The number of changes of meta-states, i.e., how often does an individual switch between distinct meta-states; The number of distinct meta-states, i.e., how many unique distance vectors are present in an individual; The span of meta-states, i.e., the actual range of the 5-dimensional meta-state space that one individual covers during the entire scan; The total distance traveled through the meta-state space.
 67-1	9775-9778	The	_
 67-2	9779-9788	following	_
 67-3	9789-9797	measures	_
@@ -1803,6 +1870,7 @@
 67-84	10280-10285	space	_
 67-85	10286-10287	.	_
 
+Text=Using analysis of variance (ANOVA), we tested for differences between groups separately for each measure of neural dynamism (significance level p <0.05).
 68-1	10288-10293	Using	_
 68-2	10294-10302	analysis	_
 68-3	10303-10305	of	_
@@ -1833,6 +1901,7 @@
 68-28	10445-10446	)	_
 68-29	10447-10448	.	_
 
+Text=Significant results were followed up using the inbuilt Matlab (7.12.0 (R2011a), The MathWorks Inc., Natick, MA) function multcompare that uses Tukey ’ s HSD tests in order to determine which groups differed.
 69-1	10449-10460	Significant	_
 69-2	10461-10468	results	_
 69-3	10469-10473	were	_
@@ -1874,6 +1943,7 @@
 69-39	10654-10662	differed	_
 69-40	10663-10664	.	_
 
+Text=Tukey ’ s HSD test was designed to control for type 1 errors and corrects for multiple comparisons by itself.
 70-1	10665-10670	Tukey	_
 70-2	10671-10672	’	_
 70-3	10673-10674	s	_
@@ -1896,9 +1966,11 @@
 70-20	10767-10773	itself	_
 70-21	10774-10775	.	_
 
+Text=2.3.4.1.
 71-1	10776-10783	2.3.4.1	_
 71-2	10784-10785	.	_
 
+Text=Summary In the current study, a meta-state represents a whole brain connectivity pattern in time consisting of overlapping manifestations of 5 main connectivity patterns.
 72-1	10786-10793	Summary	_
 72-2	10794-10796	In	_
 72-3	10797-10800	the	_
@@ -1926,6 +1998,7 @@
 72-25	10948-10956	patterns	_
 72-26	10957-10958	.	_
 
+Text=Thus, the term meta-state refers to a high-level summary of overlapping connectivity states.
 73-1	10959-10963	Thus	_
 73-2	10964-10965	,	_
 73-3	10966-10969	the	_
@@ -1942,6 +2015,7 @@
 73-14	11045-11051	states	_
 73-15	11052-11053	.	_
 
+Text=Meta-states are then used to calculate metrics reflecting dynamic properties of whole-brain connectivity, i.e., number of meta-states changes, number of meta-states, span of meta-states, and total distance travelled in the 5-dimensional meta-state space.
 74-1	11054-11065	Meta-states	_
 74-2	11066-11069	are	_
 74-3	11070-11074	then	_
@@ -1982,9 +2056,11 @@
 74-38	11307-11312	space	_
 74-39	11313-11314	.	_
 
+Text=2.3.5.
 75-1	11315-11320	2.3.5	_
 75-2	11321-11322	.	_
 
+Text=Association between neural dynamism and symptom severity In order to investigate possible associations between neural dynamism and symptom severity, we computed bivariate Pearson ’ s correlations for CHR and ESZ groups and each dynamic measure.
 76-1	11323-11334	Association	_
 76-2	11335-11342	between	_
 76-3	11343-11349	neural	_
@@ -2023,6 +2099,7 @@
 76-36	11560-11567	measure	_
 76-37	11568-11569	.	_
 
+Text=Positive and negative symptom scores based on SOPS for CHR individuals and PANSS for ESZ individuals were correlated with measures of neural dynamism.
 77-1	11570-11578	Positive	_
 77-2	11579-11582	and	_
 77-3	11583-11591	negative	_
@@ -2048,6 +2125,7 @@
 77-23	11711-11719	dynamism	_
 77-24	11720-11721	.	_
 
+Text=Results were considered significant when reaching a Bonferroni adjusted α-level of 0.0031 (0.05/16, i.e.
 78-1	11722-11729	Results	_
 78-2	11730-11734	were	_
 78-3	11735-11745	considered	_
@@ -2066,6 +2144,7 @@
 78-16	11824-11827	i.e	_
 78-17	11828-11829	.	_
 
+Text=nominal type I error/number of tests).
 79-1	11830-11837	nominal	_
 79-2	11838-11842	type	_
 79-3	11843-11844	I	_
@@ -2075,6 +2154,7 @@
 79-7	11867-11868	)	_
 79-8	11869-11870	.	_
 
+Text=Clinical data were available for 36 CHR and 56 ESZ individuals for this analysis.
 80-1	11871-11879	Clinical	_
 80-2	11880-11884	data	_
 80-3	11885-11889	were	_
@@ -2091,6 +2171,7 @@
 80-14	11943-11951	analysis	_
 80-15	11952-11953	.	_
 
+Text=2.3.6 Influence of antipsychotic medication on neural dynamism in CHR individuals In order to test medication effects, we compared measures of dynamism in unmedicated (N= 41, 77.4%) vs. medicated (N= 12, 22.6%) CHR individuals.
 81-1	11954-11959	2.3.6	_
 81-2	11960-11969	Influence	_
 81-3	11970-11972	of	_
@@ -2136,6 +2217,7 @@
 81-43	12178-12189	individuals	_
 81-44	12190-12191	.	_
 
+Text=Due to the unbalanced sample size, we computed non-parametric Wilcoxon rank sum tests.
 82-1	12192-12195	Due	_
 82-2	12196-12198	to	_
 82-3	12199-12202	the	_
@@ -2152,6 +2234,7 @@
 82-14	12273-12278	tests	_
 82-15	12279-12280	.	_
 
+Text=Since there were not enough ESZ patients without antipsychotic medication (n= 5, 8.6%) we could not apply the same approach to the ESZ sample.
 83-1	12281-12286	Since	_
 83-2	12287-12292	there	_
 83-3	12293-12297	were	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Capturing spontaneous activity in the medial prefrontal cortex using near-infrared spectroscopy and its application to schizophrenia Near-infrared spectroscopy (NIRS) is an optimal imaging modality used to examine spontaneous brain activity because it can quietly measure blood flow changes with less physical restriction during the resting state.
 1-1	0-9	Capturing	_
 1-2	10-21	spontaneous	_
 1-3	22-30	activity	_
@@ -52,6 +53,7 @@
 1-48	343-348	state	_
 1-49	349-350	.	_
 
+Text=Here, NIRS was used at rest to measure spontaneous activity in the medial prefrontal cortex (mPFC), a main locus of default mode network.
 2-1	351-355	Here	_
 2-2	356-357	,	_
 2-3	358-362	NIRS	_
@@ -81,6 +83,7 @@
 2-27	484-491	network	_
 2-28	492-493	.	_
 
+Text=Consistent with previous fMRI studies, magnitude of the spontaneous activity in this region declined with increasing age in healthy subjects.
 3-1	494-504	Consistent	_
 3-2	505-509	with	_
 3-3	510-518	previous	_
@@ -104,6 +107,7 @@
 3-21	627-635	subjects	_
 3-22	636-637	.	_
 
+Text=The magnitude reduced in the mPFC of patients with schizophrenia.
 4-1	638-641	The	_
 4-2	642-651	magnitude	_
 4-3	652-659	reduced	_
@@ -116,6 +120,7 @@
 4-10	689-702	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 4-11	703-704	.	_
 
+Text=Additionally, in the mPFC of patients with schizophrenia, the spontaneous activity did not show any age-related decline; the activity was already low in younger patients.
 5-1	705-717	Additionally	_
 5-2	718-719	,	_
 5-3	720-722	in	_
@@ -146,6 +151,7 @@
 5-28	869-877	patients	_
 5-29	878-879	.	_
 
+Text=Further analysis using fractional amplitude of low-frequency fluctuations confirmed the reduction of spontaneous activity in the mPFC of patients with schizophrenia, consistent with the findings of fMRI studies.
 6-1	880-887	Further	_
 6-2	888-896	analysis	_
 6-3	897-902	using	_
@@ -177,6 +183,7 @@
 6-29	1084-1091	studies	_
 6-30	1092-1093	.	_
 
+Text=Our findings demonstrate the ability of NIRS to evaluate the spontaneous activity in the mPFC of patients with schizophrenia, particularly younger patients.
 7-1	1094-1097	Our	_
 7-2	1098-1106	findings	_
 7-3	1107-1118	demonstrate	_
@@ -202,6 +209,7 @@
 7-23	1242-1250	patients	_
 7-24	1251-1252	.	_
 
+Text=Considering the safety and ease of the NIRS measurements, the current NIRS study of the resting-state activity indicates its utility for clinical applications to schizophrenia, which may facilitate chronological assessment of larger cohorts of patients with schizophrenia in further studies.
 8-1	1253-1264	Considering	_
 8-2	1265-1268	the	_
 8-3	1269-1275	safety	_
@@ -246,6 +254,7 @@
 8-42	1538-1545	studies	_
 8-43	1546-1547	.	_
 
+Text=Methods Subjects Fifty-three healthy, right-handed males aged between 23 and 66 years (mean ± s.e.m.
 9-1	1548-1555	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 9-2	1556-1564	Subjects	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 9-3	1565-1576	Fifty-three	_
@@ -265,6 +274,7 @@
 9-17	1644-1649	s.e.m	_
 9-18	1650-1651	.	_
 
+Text== 41.1 ± 1.5) with no history of neurological or psychiatric disorders participated in this study.
 10-1	1652-1653	=	_
 10-2	1654-1658	41.1	_
 10-3	1659-1660	±	_
@@ -284,6 +294,7 @@
 10-17	1745-1750	study	_
 10-18	1751-1752	.	_
 
+Text=Twenty right-handed male patients (25–68 years, 50.6 ± 3.0) hospitalised with schizophrenia and having apparent deficits in social functioning based on a GAF score of ≤35 were also included.
 11-1	1753-1759	Twenty	_
 11-2	1760-1772	right-handed	_
 11-3	1773-1777	male	_
@@ -318,6 +329,7 @@
 11-32	1937-1945	included	_
 11-33	1946-1947	.	_
 
+Text=Two or more psychiatrists diagnosed each patient on the basis of the DSM-5 criteria for schizophrenia.
 12-1	1948-1951	Two	_
 12-2	1952-1954	or	_
 12-3	1955-1959	more	_
@@ -336,6 +348,7 @@
 12-16	2036-2049	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 12-17	2050-2051	.	_
 
+Text=The diagnosis was verified based on detailed clinical observations during hospitalisation.
 13-1	2052-2055	The	_
 13-2	2056-2065	diagnosis	_
 13-3	2066-2069	was	_
@@ -349,6 +362,7 @@
 13-11	2126-2141	hospitalisation	_
 13-12	2142-2143	.	_
 
+Text=All patients were administered antipsychotics, and none had a history of substance/alcohol abuse.
 14-1	2144-2147	All	_
 14-2	2148-2156	patients	_
 14-3	2157-2161	were	_
@@ -365,6 +379,7 @@
 14-14	2236-2241	abuse	_
 14-15	2242-2243	.	_
 
+Text=Clinical variables of the patients were as follows: GAF score, 24.2 ± 1.4; illness duration, 27.9 ± 3.5 years; onset age, 23.9 ± 1.6 years; and chlorpromazine-equivalent antipsychotic dose, 804.5 ± 143.7 mg/day.
 15-1	2244-2252	Clinical	_
 15-2	2253-2262	variables	_
 15-3	2263-2265	of	_
@@ -408,6 +423,7 @@
 15-41	2456-2462	mg/day	_
 15-42	2463-2464	.	_
 
+Text=The symptoms of the patients with schizophrenia were assessed based on Clinician-Rated Dimensions of Psychosis Symptom Severity (CRDPSS) by two research psychiatrists who were blinded to the NIRS data, along with the information obtained from the clinical psychiatrist in charge and ward nurses.
 16-1	2465-2468	The	_
 16-2	2469-2477	symptoms	_
 16-3	2478-2480	of	_
@@ -456,6 +472,7 @@
 16-46	2756-2762	nurses	_
 16-47	2763-2764	.	_
 
+Text=The CRDPSS scores were as follows; Hallucinations (mean ± s.e.m.
 17-1	2765-2768	The	_
 17-2	2769-2775	CRDPSS	_
 17-3	2776-2782	scores	_
@@ -470,6 +487,7 @@
 17-12	2825-2830	s.e.m	_
 17-13	2831-2832	.	_
 
+Text== 2.5 ± 0.3, Delusions (2.6 ± 0.2), Disorganized speech (3.0 ± 0.2), Abnormal psychomotor behaviour (2.5 ± 0.2), Negative symptoms (3.3 ± 0.2), Impaired cognition (3.2 ± 0.2), Depression (0.9 ± 0.1) and Mania (0.3 ± 0.2).
 18-1	2833-2834	=	_
 18-2	2835-2838	2.5	_
 18-3	2839-2840	±	_
@@ -530,6 +548,7 @@
 18-58	3072-3073	)	_
 18-59	3074-3075	.	_
 
+Text=A complete description of the study was provided, and written informed consent was obtained from all subjects.
 19-1	3076-3077	A	_
 19-2	3078-3086	complete	_
 19-3	3087-3098	description	_
@@ -550,6 +569,7 @@
 19-18	3178-3186	subjects	_
 19-19	3187-3188	.	_
 
+Text=The study was approved by the Ethics Committee of the Kindai University Faculty of Medicine and was conducted in accordance with the relevant guidelines and regulations.
 20-1	3189-3192	The	_
 20-2	3193-3198	study	_
 20-3	3199-3202	was	_
@@ -578,6 +598,7 @@
 20-26	3346-3357	regulations	_
 20-27	3358-3359	.	_
 
+Text=Near-infrared spectroscopy NIRS measurements were conducted using a 10-channel NIRS device (WOT-100 system; Hitachi High-Technologies Corporation, Tokyo, Japan), as previously described.
 21-1	3360-3373	Near-infrared	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalNearInfraredSpectroscopy
 21-2	3374-3386	spectroscopy	_
 21-3	3387-3391	NIRS	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
@@ -607,6 +628,7 @@
 21-27	3542-3551	described	_
 21-28	3552-3553	.	_
 
+Text=Briefly, the device measured relative changes in oxygenated- (oxy-) and deoxygenated- (deoxy-) haemoglobin (Hb) concentrations using two wavelengths (705 and 830 nm) with a sampling rate of 200 ms. Optical data were analysed using the modified Beer–Lambert law to calculate the signals reflecting changes in Hb levels expressed as arbitrary units (mM–mm) because the differential path lengths of the wavelengths are indefinite in this system.
 22-1	3554-3561	Briefly	_
 22-2	3562-3563	,	_
 22-3	3564-3567	the	_
@@ -685,6 +707,7 @@
 22-76	4000-4006	system	_
 22-77	4007-4008	.	_
 
+Text=The NIRS probe unit has a 2 × 4 alternating arrangement of irradiation and detection positions.
 23-1	4009-4012	The	_
 23-2	4013-4017	NIRS	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
 23-3	4018-4023	probe	_
@@ -703,6 +726,7 @@
 23-16	4094-4103	positions	_
 23-17	4104-4105	.	_
 
+Text=The lowest probes were positioned along the Fp1-Fp2 line, according to the International 10–20 system.
 24-1	4106-4109	The	_
 24-2	4110-4116	lowest	_
 24-3	4117-4123	probes	_
@@ -721,6 +745,7 @@
 24-16	4202-4208	system	_
 24-17	4209-4210	.	_
 
+Text=The distance between pairs of emission and detector probes was set at 30 mm, and the measurement area between the probes was defined as a channel.
 25-1	4211-4214	The	_
 25-2	4215-4223	distance	_
 25-3	4224-4231	between	_
@@ -750,6 +775,7 @@
 25-27	4350-4357	channel	_
 25-28	4358-4359	.	_
 
+Text=The arrangement of channels covered the entire forehead to monitor activation in prefrontal regions.
 26-1	4360-4363	The	_
 26-2	4364-4375	arrangement	_
 26-3	4376-4378	of	_
@@ -766,6 +792,7 @@
 26-14	4452-4459	regions	_
 26-15	4460-4461	.	_
 
+Text=This experimental setup was corroborated by that of a multi-individual study of anatomical craniocerebral correction using the International 10–20 system.
 27-1	4462-4466	This	_
 27-2	4467-4479	experimental	_
 27-3	4480-4485	setup	_
@@ -788,6 +815,7 @@
 27-20	4609-4615	system	_
 27-21	4616-4617	.	_
 
+Text=Three-dimensional coordinates of the channels were obtained from six healthy subjects using a three-dimensional digitiser (Patriot, POLHEMUS, Inc., Colchester, Vermont, USA), and the mean estimate for the spatial registration of the channels using the probabilistic-determination method was mapped onto the Montreal Neurological Institute space based on NIRS-SPM (http: //bispl.weebly.com/nirs-spm.html #/), as shown in Fig.
 28-1	4618-4635	Three-dimensional	_
 28-2	4636-4647	coordinates	_
 28-3	4648-4650	of	_
@@ -857,6 +885,7 @@
 28-67	5051-5054	Fig	_
 28-68	5055-5056	.	_
 
+Text=3a and Supplementary Table S1.
 29-1	5057-5059	3a	_
 29-2	5060-5063	and	_
 29-3	5064-5077	Supplementary	_
@@ -864,6 +893,7 @@
 29-5	5084-5086	S1	_
 29-6	5087-5088	.	_
 
+Text=Resting-state paradigm For the resting-state acquisition, the subjects were seated in a comfortable chair in a silent room.
 30-1	5089-5102	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 30-2	5103-5111	paradigm	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 30-3	5112-5115	For	_
@@ -885,6 +915,7 @@
 30-19	5208-5212	room	_
 30-20	5213-5214	.	_
 
+Text=They were instructed to keep their eyes open and remain still while focusing on the central fixation point (cross hair) displayed on a monitor.
 31-1	5215-5219	They	_
 31-2	5220-5224	were	_
 31-3	5225-5235	instructed	_
@@ -913,6 +944,7 @@
 31-26	5352-5359	monitor	_
 31-27	5360-5361	.	_
 
+Text=The NIRS measurement commenced when the cross hair appeared on the monitor and continued for three minutes at rest.
 32-1	5362-5365	The	_
 32-2	5366-5370	NIRS	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
 32-3	5371-5382	measurement	_
@@ -934,6 +966,7 @@
 32-19	5472-5476	rest	_
 32-20	5477-5478	.	_
 
+Text=Data analysis Magnitude of low-frequency fluctuations (Δoxy-Hbpeak) Relative changes in oxy-Hb signals were analysed according to a previous report that demonstrated a strong correlation between oxy-Hb NIRS measurements and blood oxygenation level-dependent signals measured using fMRI.
 33-1	5479-5483	Data	_
 33-2	5484-5492	analysis	_
 33-3	5493-5502	Magnitude	_
@@ -974,6 +1007,7 @@
 33-38	5762-5766	fMRI	_
 33-39	5767-5768	.	_
 
+Text=Further, relative changes in deoxy-Hb signals were analysed supplementarily.
 34-1	5769-5776	Further	_
 34-2	5777-5778	,	_
 34-3	5779-5787	relative	_
@@ -986,6 +1020,7 @@
 34-10	5830-5845	supplementarily	_
 34-11	5846-5847	.	_
 
+Text=The time courses of oxy- and deoxy-Hb signals were diagrammed using the BRainSuite_Analyzer (BRSystems.
 35-1	5848-5851	The	_
 35-2	5852-5856	time	_
 35-3	5857-5864	courses	_
@@ -1003,6 +1038,7 @@
 35-15	5942-5951	BRSystems	_
 35-16	5952-5953	.	_
 
+Text=Inc., Kanagawa, Japan) with low pass filter (<0.1 Hz) to eliminate physiological noises, such as those of heart beat, respiration and quick body movements.
 36-1	5954-5958	Inc.	_
 36-2	5959-5960	,	_
 36-3	5961-5969	Kanagawa	_
@@ -1037,6 +1073,7 @@
 36-32	6107-6116	movements	_
 36-33	6117-6118	.	_
 
+Text=Figure 3b presents the representative time course of oxy- and deoxy-Hb signals during the resting state.
 37-1	6119-6125	Figure	_
 37-2	6126-6128	3b	_
 37-3	6129-6137	presents	_
@@ -1055,6 +1092,7 @@
 37-16	6217-6222	state	_
 37-17	6223-6224	.	_
 
+Text=To represent the magnitude of low-frequency fluctuations during the resting state, Δoxy-Hbpeak was indexed as the peak value minus the lowest value for oxy-Hb signals during the resting state (Fig.
 38-1	6225-6227	To	_
 38-2	6228-6237	represent	_
 38-3	6238-6241	the	_
@@ -1089,10 +1127,12 @@
 38-32	6420-6423	Fig	_
 38-33	6424-6425	.	_
 
+Text=3b).
 39-1	6426-6428	3b	_
 39-2	6429-6430	)	_
 39-3	6431-6432	.	_
 
+Text=The Δoxy-Hbpeak was calculated for the 10 individual channels of NIRS, and selectively, the following region of interest (ROI) was chosen to examine the spontaneous activity.
 40-1	6433-6436	The	_
 40-2	6437-6448	Δoxy-Hbpeak	_
 40-3	6449-6452	was	_
@@ -1125,6 +1165,7 @@
 40-30	6602-6610	activity	_
 40-31	6611-6612	.	_
 
+Text=The ROI was set as channels 5 and 6 located on the superficial part of the mPFC, and then, the Δoxy-Hbpeak of channels 5 and 6 were averaged for the ROI signal.
 41-1	6613-6616	The	_
 41-2	6617-6620	ROI	_
 41-3	6621-6624	was	_
@@ -1161,6 +1202,7 @@
 41-34	6768-6774	signal	_
 41-35	6775-6776	.	_
 
+Text=Fractional Amplitude of the low frequency fluctuations (fALFF) fALFF was calculated using the ALFF/fALFF software (BRSystems Inc.; Brainsuit ALFF; Kanagawa, Japan) according to previous reports.
 42-1	6777-6787	Fractional	_
 42-2	6788-6797	Amplitude	_
 42-3	6798-6800	of	_
@@ -1195,6 +1237,7 @@
 42-32	6970-6977	reports	_
 42-33	6978-6979	.	_
 
+Text=In this software, first, the time series for each channel was transformed to a frequency domain using the fast Fourier transform, and the power spectrum was obtained.
 43-1	6980-6982	In	_
 43-2	6983-6987	this	_
 43-3	6988-6996	software	_
@@ -1227,6 +1270,7 @@
 43-30	7140-7148	obtained	_
 43-31	7149-7150	.	_
 
+Text=Then, the square root was calculated at each frequency of the power spectrum.
 44-1	7151-7155	Then	_
 44-2	7156-7157	,	_
 44-3	7158-7161	the	_
@@ -1243,6 +1287,7 @@
 44-14	7220-7228	spectrum	_
 44-15	7229-7230	.	_
 
+Text=The sum of the square root across the low-frequency range (0.01–0.08 Hz) was divided by that across the entire frequency range (0–0.25 Hz) to calculate fALFF.
 45-1	7231-7234	The	_
 45-2	7235-7238	sum	_
 45-3	7239-7241	of	_
@@ -1275,6 +1320,7 @@
 45-30	7387-7392	fALFF	_
 45-31	7393-7394	.	_
 
+Text=The fALFF was analysed for ROI as selected in the previous section.
 46-1	7395-7398	The	_
 46-2	7399-7404	fALFF	_
 46-3	7405-7408	was	_
@@ -1289,6 +1335,7 @@
 46-12	7454-7461	section	_
 46-13	7462-7463	.	_
 
+Text=Statistical analysis Between-group difference of the NIIRS data between the patients with schizophrenia and healthy subjects was examined using a general linear model with the Δoxy−/deoxy-Hbpeak or fALFF as dependent variables, group (patients with schizophrenia/healthy subjects) as a between-subject factor and age as a covariate.
 47-1	7464-7475	Statistical	_
 47-2	7476-7484	analysis	_
 47-3	7485-7498	Between-group	_
@@ -1339,6 +1386,7 @@
 47-48	7789-7798	covariate	_
 47-49	7799-7800	.	_
 
+Text=To examine the relationships between the Δoxy−/deoxy-Hbpeak or fALFF and clinical variables in patients with schizophrenia, Spearman ’ s correlation coefficient (rs) was initially analysed.
 48-1	7801-7803	To	_
 48-2	7804-7811	examine	_
 48-3	7812-7815	the	_
@@ -1369,6 +1417,7 @@
 48-28	7984-7992	analysed	_
 48-29	7993-7994	.	_
 
+Text=If any significance was found, multiple regression analysis was conducted with the NIRS measurements as dependent variables, thereby controlling for other potential confounding variables (age and antipsychotic dose), and added factors such as GAF and CRDPSS scores.
 49-1	7995-7997	If	_
 49-2	7998-8001	any	_
 49-3	8002-8014	significance	_
@@ -1413,6 +1462,7 @@
 49-42	8258-8264	scores	_
 49-43	8265-8266	.	_
 
+Text=The threshold for the significance of p-values was set at 0.05.
 50-1	8267-8270	The	_
 50-2	8271-8280	threshold	_
 50-3	8281-8284	for	_
@@ -1426,6 +1476,7 @@
 50-11	8325-8329	0.05	_
 50-12	8330-8331	.	_
 
+Text=All statistical tests were two-tailed and were performed using GraphPad Prism 6.0 for Windows version 6.07 (GraphPad Software, Inc., La Jolla, CA, USA) or SPSS version 25.0 (IBM Inc., New York, USA).
 51-1	8332-8335	All	_
 51-2	8336-8347	statistical	_
 51-3	8348-8353	tests	_
@@ -1470,6 +1521,7 @@
 51-42	8539-8540	)	_
 51-43	8541-8542	.	_
 
+Text=Exclusion of probe error channels Within the 10 channels measured using NIRS, those judged to be probe errors for each subject by the WOT-100 software were excluded from the analysis.
 52-1	8543-8552	Exclusion	_
 52-2	8553-8555	of	_
 52-3	8556-8561	probe	_
@@ -1503,6 +1555,7 @@
 52-31	8718-8726	analysis	_
 52-32	8727-8728	.	_
 
+Text=According to this criterion, ch.
 53-1	8729-8738	According	_
 53-2	8739-8741	to	_
 53-3	8742-8746	this	_
@@ -1511,11 +1564,13 @@
 53-6	8759-8761	ch	_
 53-7	8762-8763	.	_
 
+Text=1 and ch.
 54-1	8764-8765	1	_
 54-2	8766-8769	and	_
 54-3	8770-8772	ch	_
 54-4	8773-8774	.	_
 
+Text=9 were excluded for one healthy subject and ch.
 55-1	8775-8776	9	_
 55-2	8777-8781	were	_
 55-3	8782-8790	excluded	_
@@ -1527,6 +1582,7 @@
 55-9	8819-8821	ch	_
 55-10	8822-8823	.	_
 
+Text=10 was excluded for two.
 56-1	8824-8826	10	_
 56-2	8827-8830	was	_
 56-3	8831-8839	excluded	_
@@ -1534,17 +1590,20 @@
 56-5	8844-8847	two	_
 56-6	8848-8849	.	_
 
+Text=In schizophrenia, ch.
 57-1	8850-8852	In	_
 57-2	8853-8866	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 57-3	8867-8868	,	_
 57-4	8869-8871	ch	_
 57-5	8872-8873	.	_
 
+Text=2 and ch.
 58-1	8874-8875	2	_
 58-2	8876-8879	and	_
 58-3	8880-8882	ch	_
 58-4	8883-8884	.	_
 
+Text=3 were excluded for two patients, ch.
 59-1	8885-8886	3	_
 59-2	8887-8891	were	_
 59-3	8892-8900	excluded	_
@@ -1555,11 +1614,13 @@
 59-8	8920-8922	ch	_
 59-9	8923-8924	.	_
 
+Text=7 and ch.
 60-1	8925-8926	7	_
 60-2	8927-8930	and	_
 60-3	8931-8933	ch	_
 60-4	8934-8935	.	_
 
+Text=9 were excluded for one, ch.
 61-1	8936-8937	9	_
 61-2	8938-8942	were	_
 61-3	8943-8951	excluded	_
@@ -1569,6 +1630,7 @@
 61-7	8962-8964	ch	_
 61-8	8965-8966	.	_
 
+Text=8 was excluded for three, and ch.
 62-1	8967-8968	8	_
 62-2	8969-8972	was	_
 62-3	8973-8981	excluded	_
@@ -1579,6 +1641,7 @@
 62-8	8998-9000	ch	_
 62-9	9001-9002	.	_
 
+Text=10 was excluded for seven.
 63-1	9003-9005	10	_
 63-2	9006-9009	was	_
 63-3	9010-9018	excluded	_
@@ -1586,21 +1649,25 @@
 63-5	9023-9028	seven	_
 63-6	9029-9030	.	_
 
+Text=Notably, ch.
 64-1	9031-9038	Notably	_
 64-2	9039-9040	,	_
 64-3	9041-9043	ch	_
 64-4	9044-9045	.	_
 
+Text=4, ch.
 65-1	9046-9047	4	_
 65-2	9048-9049	,	_
 65-3	9050-9052	ch	_
 65-4	9053-9054	.	_
 
+Text=5 and ch.
 66-1	9055-9056	5	_
 66-2	9057-9060	and	_
 66-3	9061-9063	ch	_
 66-4	9064-9065	.	_
 
+Text=6 were intact for all healthy subjects and patients with schizophrenia.
 67-1	9066-9067	6	_
 67-2	9068-9072	were	_
 67-3	9073-9079	intact	_

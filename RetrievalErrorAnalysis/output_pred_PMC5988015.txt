@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Dynamic network dysfunction in cocaine dependence: Graph theoretical metrics and stop signal reaction time Graphic theoretical metrics have become increasingly popular in characterizing functional connectivity of neural networks and how network connectivity is compromised in neuropsychiatric illnesses.
 1-1	0-7	Dynamic	_
 1-2	8-15	network	_
 1-3	16-27	dysfunction	_
@@ -42,6 +43,7 @@
 1-38	294-303	illnesses	_
 1-39	304-305	.	_
 
+Text=Here, we add to this literature by describing dynamic network connectivities of 78 cocaine dependent (CD) and 85 non-drug using healthy control (HC) participants who underwent fMRI during performance of a stop signal task (SST).
 2-1	306-310	Here	_
 2-2	311-312	,	_
 2-3	313-315	we	_
@@ -86,6 +88,7 @@
 2-42	539-540	)	http://maven.renci.org/NeuroBridge/neurobridge#AuditoryOddballTask
 2-43	541-542	.	_
 
+Text=Compared to HC, CD showed prolonged stop signal reaction time (SSRT), consistent with deficits in response inhibition.
 3-1	543-551	Compared	_
 3-2	552-554	to	_
 3-3	555-557	HC	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -109,6 +112,7 @@
 3-21	654-664	inhibition	_
 3-22	665-666	.	_
 
+Text=In graph theoretical analysis of dynamic functional connectivity, we examined temporal flexibility and spatiotemporal diversity of 14 networks covering the whole brain.
 4-1	667-669	In	_
 4-2	670-675	graph	_
 4-3	676-687	theoretical	_
@@ -134,6 +138,7 @@
 4-23	830-835	brain	_
 4-24	836-837	.	_
 
+Text=Temporal flexibility quantifies how frequently a brain region interacts with regions of other communities across time, with high temporal flexibility indicating that a region interacts predominantly with regions outside its own community.
 5-1	838-846	Temporal	_
 5-2	847-858	flexibility	_
 5-3	859-869	quantifies	_
@@ -169,6 +174,7 @@
 5-33	1067-1076	community	_
 5-34	1077-1078	.	_
 
+Text=Spatiotemporal diversity quantifies how uniformly a brain region interacts with regions in other communities over time, with high spatiotemporal diversity indicating that the interactions are more evenly distributed across communities.
 6-1	1079-1093	Spatiotemporal	_
 6-2	1094-1103	diversity	_
 6-3	1104-1114	quantifies	_
@@ -202,6 +208,7 @@
 6-31	1303-1314	communities	_
 6-32	1315-1316	.	_
 
+Text=Compared to HC, CD exhibited decreased temporal flexibility and increased spatiotemporal diversity in the great majority of neural networks.
 7-1	1317-1325	Compared	_
 7-2	1326-1328	to	_
 7-3	1329-1331	HC	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -224,6 +231,7 @@
 7-20	1449-1457	networks	_
 7-21	1458-1459	.	_
 
+Text=The graph metric measures of the default mode network negatively correlated with SSRT in CD but not HC.
 8-1	1460-1463	The	_
 8-2	1464-1469	graph	_
 8-3	1470-1476	metric	_
@@ -244,6 +252,7 @@
 8-18	1560-1562	HC	_
 8-19	1563-1564	.	_
 
+Text=The findings are consistent with diminished temporal flexibility and a compensatory increase in spatiotemporal diversity, in association with impairment of a critical executive function, in cocaine addiction.
 9-1	1565-1568	The	_
 9-2	1569-1577	findings	_
 9-3	1578-1581	are	_
@@ -275,6 +284,7 @@
 9-29	1765-1774	addiction	_
 9-30	1775-1776	.	_
 
+Text=More broadly, the findings suggest that graph theoretical metrics provide new insights for connectivity analyses to elucidate network dysfunction that may elude conventional measures.
 10-1	1777-1781	More	_
 10-2	1782-1789	broadly	_
 10-3	1790-1791	,	_
@@ -302,6 +312,7 @@
 10-25	1952-1960	measures	_
 10-26	1961-1962	.	_
 
+Text=Highlights Cocaine addiction (CA) is associated with prolonged stop signal reaction time (SSRT).
 11-1	1963-1973	Highlights	_
 11-2	1974-1981	Cocaine	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 11-3	1982-1991	addiction	_
@@ -321,6 +332,7 @@
 11-17	2061-2062	)	_
 11-18	2063-2064	.	_
 
+Text=CA is associated with decreased temporal flexibility (TF) of neural networks.
 12-1	2065-2067	CA	_
 12-2	2068-2070	is	_
 12-3	2071-2081	associated	_
@@ -336,6 +348,7 @@
 12-13	2135-2143	networks	_
 12-14	2144-2145	.	_
 
+Text=CA is associated with increased spatial temporal diversity (STD) of neural networks.
 13-1	2146-2148	CA	_
 13-2	2149-2151	is	_
 13-3	2152-2162	associated	_
@@ -352,6 +365,7 @@
 13-14	2223-2231	networks	_
 13-15	2232-2233	.	_
 
+Text=The TF and STD of default mode network correlated negatively with SSRT in CA.
 14-1	2234-2237	The	_
 14-2	2238-2240	TF	_
 14-3	2241-2244	and	_
@@ -368,6 +382,7 @@
 14-14	2308-2310	CA	_
 14-15	2311-2312	.	_
 
+Text=Dynamic connectivity captures network dysfunction in link with inhibition deficits in CA.
 15-1	2313-2320	Dynamic	_
 15-2	2321-2333	connectivity	_
 15-3	2334-2342	captures	_
@@ -382,6 +397,7 @@
 15-12	2399-2401	CA	_
 15-13	2402-2403	.	_
 
+Text=Materials and methods Subjects and behavioral task Eighty-five healthy control (HC) and 78 cocaine dependent (CD) adults participated in this study.
 16-1	2404-2413	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 16-2	2414-2417	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 16-3	2418-2425	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -409,6 +425,7 @@
 16-25	2550-2555	study	_
 16-26	2556-2557	.	_
 
+Text=CD resided in an inpatient treatment unit and was abstinent between 1 and 2 weeks before fMRI scan was conducted.
 17-1	2558-2560	CD	_
 17-2	2561-2568	resided	_
 17-3	2569-2571	in	_
@@ -431,6 +448,7 @@
 17-20	2661-2670	conducted	_
 17-21	2671-2672	.	_
 
+Text=All participants reported no major medical, neurological, or other psychiatric illnesses (except nicotine use disorder), denied use of other illicit substances and tested negative for cannabis, opioids, amphetamine, methamphetamine, phencyclidine, benzodiazepine, and barbiturate on the day of fMRI.
 18-1	2673-2676	All	_
 18-2	2677-2689	participants	_
 18-3	2690-2698	reported	_
@@ -482,6 +500,7 @@
 18-49	2978-2982	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 18-50	2983-2984	.	_
 
+Text=All participants signed a written, informed consent in accordance with a protocol approved by the Yale Human Investigation Committee.
 19-1	2985-2988	All	_
 19-2	2989-3001	participants	_
 19-3	3002-3008	signed	_
@@ -504,6 +523,7 @@
 19-20	3109-3118	Committee	_
 19-21	3119-3120	.	_
 
+Text=Participants performed a stop signal task or SST, which was described in details in our previous studies.
 20-1	3121-3133	Participants	_
 20-2	3134-3143	performed	_
 20-3	3144-3145	a	_
@@ -524,6 +544,7 @@
 20-18	3219-3226	studies	_
 20-19	3227-3228	.	_
 
+Text=Briefly, a “ go ” signal set up a pre-potent response tendency in go trials (~75%), and an additional, less frequent “ stop ” signal instructed subjects to withhold their response in stop trials (~25%).
 21-1	3229-3236	Briefly	_
 21-2	3237-3238	,	_
 21-3	3239-3240	a	_
@@ -570,6 +591,7 @@
 21-44	3438-3439	)	_
 21-45	3440-3441	.	_
 
+Text=Go and stop trials were randomized in presentation, with an inter-trial-interval of 2 s. The time delay between go and stop signal – stop signal delay (SSD) – was staircased, increasing and decreasing by 67 ms each following a stop success and error trial.
 22-1	3442-3444	Go	_
 22-2	3445-3448	and	_
 22-3	3449-3453	stop	_
@@ -620,6 +642,7 @@
 22-48	3696-3701	trial	_
 22-49	3702-3703	.	_
 
+Text=Participants were instructed to respond as quickly as they could to “ go ” signal, while watching out for the “ stop ” signal.
 23-1	3704-3716	Participants	_
 23-2	3717-3721	were	_
 23-3	3722-3732	instructed	_
@@ -647,6 +670,7 @@
 23-25	3824-3830	signal	_
 23-26	3831-3832	.	_
 
+Text=In the scanner, participants completed four 10-minute runs of the SST, with approximately 100 trials in each run.
 24-1	3833-3835	In	_
 24-2	3836-3839	the	_
 24-3	3840-3847	scanner	_
@@ -669,6 +693,7 @@
 24-20	3944-3947	run	_
 24-21	3948-3949	.	_
 
+Text=With the staircase procedure, participants succeeded in stopping approximately half of time.
 25-1	3950-3954	With	_
 25-2	3955-3958	the	_
 25-3	3959-3968	staircase	_
@@ -684,6 +709,7 @@
 25-13	4038-4042	time	_
 25-14	4043-4044	.	_
 
+Text=The stop signal reaction time (SSRT) – the time needed for one to stop the response half of the time, was estimated on the basis of a race model.
 26-1	4045-4048	The	_
 26-2	4049-4053	stop	_
 26-3	4054-4060	signal	_
@@ -718,6 +744,7 @@
 26-32	4187-4192	model	_
 26-33	4193-4194	.	_
 
+Text=Briefly, in the race model, go and stop processes independently race toward a finish line and whichever finishes first determines the trial outcome.
 27-1	4195-4202	Briefly	_
 27-2	4203-4204	,	_
 27-3	4205-4207	in	_
@@ -745,6 +772,7 @@
 27-25	4337-4344	outcome	_
 27-26	4345-4346	.	_
 
+Text=With the race model, the SSRT can be estimated by subtracting a critical SSD (where subjects would succeed in stopping half of the time) from the mean go trial RT.
 28-1	4347-4351	With	_
 28-2	4352-4355	the	_
 28-3	4356-4360	race	_
@@ -780,6 +808,7 @@
 28-33	4510-4512	RT	_
 28-34	4513-4514	.	_
 
+Text=The SSRT indexes the capacity of response inhibition, with shorter SSRT reflecting better ability of inhibitory control.
 29-1	4515-4518	The	_
 29-2	4519-4523	SSRT	_
 29-3	4524-4531	indexes	_
@@ -800,6 +829,7 @@
 29-18	4628-4635	control	_
 29-19	4636-4637	.	_
 
+Text=Imaging protocol Conventional T1-weighted spin-echo sagittal anatomical images were acquired for slice localization using a 3-T scanner (Siemens Trio, Erlangen, Germany).
 30-1	4638-4645	Imaging	_
 30-2	4646-4654	protocol	_
 30-3	4655-4667	Conventional	_
@@ -827,6 +857,7 @@
 30-25	4810-4811	)	_
 30-26	4812-4813	.	_
 
+Text=Anatomical images of the functional slice locations were obtained with spin-echo imaging in the axial plane parallel to the anterior commissure–posterior commissure (AC–PC) line with TR = 300 ms, TE = 2.5 ms, bandwidth = 300 Hz/pixel, flip angle = 60°, field of view = 220 × 220 mm, matrix = 256 × 256, 32 slices with slice thickness = 4 mm and no gap.
 31-1	4814-4824	Anatomical	_
 31-2	4825-4831	images	_
 31-3	4832-4834	of	_
@@ -902,6 +933,7 @@
 31-73	5170-5173	gap	_
 31-74	5174-5175	.	_
 
+Text=A single high-resolution T1-weighted gradient-echo scan was obtained.
 32-1	5176-5177	A	_
 32-2	5178-5184	single	_
 32-3	5185-5200	high-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
@@ -912,6 +944,7 @@
 32-8	5236-5244	obtained	_
 32-9	5245-5246	.	_
 
+Text=One hundred seventy-six slices parallel to the AC–PC line covering the whole brain were acquired with TR = 2530 ms, TE = 3.66 ms, bandwidth = 181 Hz/pixel, flip angle = 7°, field of view = 256 × 256 mm, matrix = 256 × 256, 1 mm3 isotropic voxels.
 33-1	5247-5250	One	_
 33-2	5251-5258	hundred	_
 33-3	5259-5270	seventy-six	_
@@ -969,6 +1002,7 @@
 33-55	5492-5498	voxels	_
 33-56	5499-5500	.	_
 
+Text=Functional scans were conducted with the SST.
 34-1	5501-5511	Functional	_
 34-2	5512-5517	scans	_
 34-3	5518-5522	were	_
@@ -978,6 +1012,7 @@
 34-7	5542-5545	SST	_
 34-8	5546-5547	.	_
 
+Text=Blood oxygenation level dependent (BOLD) signals were acquired with a single-shot gradient-echo echo-planar imaging (EPI) sequence.
 35-1	5548-5553	Blood	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
 35-2	5554-5565	oxygenation	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
 35-3	5566-5571	level	http://maven.renci.org/NeuroBridge/neurobridge#BloodOxygenLevel
@@ -1000,6 +1035,7 @@
 35-20	5674-5682	sequence	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 35-21	5683-5684	.	_
 
+Text=Thirty-two axial slices parallel to the AC–PC line covering the whole brain were acquired with TR = 2000 ms, TE = 25 ms, bandwidth = 2004 Hz/pixel, flip angle = 85°, field of view = 220 × 220 mm, matrix = 64 × 64, 32 slices with slice thickness = 4 mm and no gap.
 36-1	5685-5695	Thirty-two	_
 36-2	5696-5701	axial	_
 36-3	5702-5708	slices	_
@@ -1063,6 +1099,7 @@
 36-61	5950-5953	gap	_
 36-62	5954-5955	.	_
 
+Text=There were 10 min (three hundred images) in each run for a total of four runs of the SST.
 37-1	5956-5961	There	_
 37-2	5962-5966	were	_
 37-3	5967-5969	10	_
@@ -1086,6 +1123,7 @@
 37-21	6043-6046	SST	_
 37-22	6047-6048	.	_
 
+Text=Data pre-processing All data were first analyzed with Statistical Parametric Mapping (SPM, Wellcome Department of Imaging Neuroscience, University College London, U.K.).
 38-1	6049-6053	Data	_
 38-2	6054-6068	pre-processing	_
 38-3	6069-6072	All	_
@@ -1114,6 +1152,7 @@
 38-26	6221-6222	)	_
 38-27	6223-6224	.	_
 
+Text=In the pre-processing of BOLD data, images of each participant were realigned (motion-corrected) and corrected for slice timing.
 39-1	6225-6227	In	_
 39-2	6228-6231	the	_
 39-3	6232-6246	pre-processing	_
@@ -1137,6 +1176,7 @@
 39-21	6349-6355	timing	_
 39-22	6356-6357	.	_
 
+Text=A mean functional image volume was constructed for each participant for each run from the realigned image volumes.
 40-1	6358-6359	A	_
 40-2	6360-6364	mean	_
 40-3	6365-6375	functional	_
@@ -1157,6 +1197,7 @@
 40-18	6464-6471	volumes	_
 40-19	6472-6473	.	_
 
+Text=These mean images were co-registered with the high resolution structural image and then segmented for normalization to a Montreal Neurological Institute EPI template with affine registration followed by nonlinear transformation.
 41-1	6474-6479	These	_
 41-2	6480-6484	mean	_
 41-3	6485-6491	images	_
@@ -1189,6 +1230,7 @@
 41-30	6687-6701	transformation	_
 41-31	6702-6703	.	_
 
+Text=Images were then smoothed with a Gaussian kernel of 8 mm at full width at half maximum.
 42-1	6704-6710	Images	_
 42-2	6711-6715	were	_
 42-3	6716-6720	then	_
@@ -1208,6 +1250,7 @@
 42-17	6783-6790	maximum	_
 42-18	6791-6792	.	_
 
+Text=A multiple linear regression with 12 realignment parameters (3 translations, 3 rotations, and their first temporal derivatives) was applied to the smoothed data.
 43-1	6793-6794	A	_
 43-2	6795-6803	multiple	_
 43-3	6804-6810	linear	_
@@ -1237,6 +1280,7 @@
 43-27	6953-6957	data	_
 43-28	6958-6959	.	_
 
+Text=Averaged signals from predefined white matter and cerebrospinal fluid masks were computed, detrended, and regressed out of the preprocessed data.
 44-1	6960-6968	Averaged	_
 44-2	6969-6976	signals	_
 44-3	6977-6981	from	_
@@ -1261,6 +1305,7 @@
 44-22	7102-7106	data	_
 44-23	7107-7108	.	_
 
+Text=The first 5 frames of BOLD data were discarded to enable the signal to achieve steady-state equilibrium between radio frequency pulsing and relaxation.
 45-1	7109-7112	The	_
 45-2	7113-7118	first	_
 45-3	7119-7120	5	_
@@ -1286,6 +1331,7 @@
 45-23	7249-7259	relaxation	_
 45-24	7260-7261	.	_
 
+Text=Finally, for each subject, data were concatenated across the four runs of SST for analyses.
 46-1	7262-7269	Finally	_
 46-2	7270-7271	,	_
 46-3	7272-7275	for	_
@@ -1305,6 +1351,7 @@
 46-17	7346-7354	analyses	_
 46-18	7355-7356	.	_
 
+Text=Graph model metrics We largely followed in the computation of graph metrics.
 47-1	7357-7362	Graph	_
 47-2	7363-7368	model	_
 47-3	7369-7376	metrics	_
@@ -1319,6 +1366,7 @@
 47-12	7425-7432	metrics	_
 47-13	7433-7434	.	_
 
+Text=The workflow is summarized in Fig.
 48-1	7435-7438	The	_
 48-2	7439-7447	workflow	_
 48-3	7448-7450	is	_
@@ -1327,9 +1375,11 @@
 48-6	7465-7468	Fig	_
 48-7	7469-7470	.	_
 
+Text=1.
 49-1	7471-7472	1	_
 49-2	7473-7474	.	_
 
+Text=Node definition Nodes were defined from Power's atlas with 264 brain regions.
 50-1	7475-7479	Node	_
 50-2	7480-7490	definition	_
 50-3	7491-7496	Nodes	_
@@ -1345,6 +1395,7 @@
 50-13	7545-7552	regions	_
 50-14	7553-7554	.	_
 
+Text=The 264 nodes were grouped to form 14 large scale networks, including the salience network (SN), cingulo-opercular task control network (CON), fronto-parietal task control network (FPN), dorsal attention network (DAN), ventral attention network (VAN), subcortical network, default mode network (DMN), memory retrieval network, visual network, auditory network, sensory-motor networks as well as the cerebellum network.
 51-1	7555-7558	The	_
 51-2	7559-7562	264	_
 51-3	7563-7568	nodes	_
@@ -1425,6 +1476,7 @@
 51-78	7988-7995	network	_
 51-79	7996-7997	.	_
 
+Text=Voxel signals were extracted, detrended and averaged for each node.
 52-1	7998-8003	Voxel	_
 52-2	8004-8011	signals	_
 52-3	8012-8016	were	_
@@ -1438,6 +1490,7 @@
 52-11	8061-8065	node	_
 52-12	8066-8067	.	_
 
+Text=A band-pass filter (0.008 Hz <f <0.25 Hz) was applied to remove low-frequency signal drifts and increase the signal noise ratio.
 53-1	8068-8069	A	_
 53-2	8070-8079	band-pass	_
 53-3	8080-8086	filter	_
@@ -1465,6 +1518,7 @@
 53-25	8194-8199	ratio	_
 53-26	8200-8201	.	_
 
+Text=Time varying functional connectivity A sliding window with no gap or overlap between windows was applied to the time series to obtain dynamic functional connectivity between nodes.
 54-1	8202-8206	Time	_
 54-2	8207-8214	varying	_
 54-3	8215-8225	functional	_
@@ -1494,6 +1548,7 @@
 54-27	8376-8381	nodes	_
 54-28	8382-8383	.	_
 
+Text=Exponentially decaying weights were applied to each time point within a window.
 55-1	8384-8397	Exponentially	_
 55-2	8398-8406	decaying	_
 55-3	8407-8414	weights	_
@@ -1508,6 +1563,7 @@
 55-12	8456-8462	window	_
 55-13	8463-8464	.	_
 
+Text=The exponentially decaying weights were computed as: where w0 = (1 − e−1/θ) / (1 − e−T/θ), t is the tth time point within the sliding window, T is the window length (= 40 s), and the exponent θ controls the influence from distant time points, set to a third of the window length.
 56-1	8465-8468	The	_
 56-2	8469-8482	exponentially	_
 56-3	8483-8491	decaying	_
@@ -1575,6 +1631,7 @@
 56-65	8748-8754	length	_
 56-66	8755-8756	.	_
 
+Text=Connectivity matrix for each time window was obtained by computing the weighted Pearson correlation between the time-series of any two nodes xt and yt as: where and.
 57-1	8757-8769	Connectivity	_
 57-2	8770-8776	matrix	_
 57-3	8777-8780	for	_
@@ -1605,6 +1662,7 @@
 57-28	8919-8922	and	_
 57-29	8923-8924	.	_
 
+Text=The resulting connectivity matrix for each window was z-transformed within the subject for subsequent analysis.
 58-1	8925-8928	The	_
 58-2	8929-8938	resulting	_
 58-3	8939-8951	connectivity	_
@@ -1622,6 +1680,7 @@
 58-15	9027-9035	analysis	_
 58-16	9036-9037	.	_
 
+Text=Modularity Modularity was used to determine the optimal community structure within the unthresholded connectivity matrix by grouping nodes into non-overlapping communities or modules that maximize intra-modular connectivity and minimize inter-modular connectivity.
 59-1	9038-9048	Modularity	_
 59-2	9049-9059	Modularity	_
 59-3	9060-9063	was	_
@@ -1655,6 +1714,7 @@
 59-31	9289-9301	connectivity	_
 59-32	9302-9303	.	_
 
+Text=Louvain community detection algorithm from the Brain Connectivity Toolbox was employed to identify community structure in both static and time-varying connectivity matrices.
 60-1	9304-9311	Louvain	_
 60-2	9312-9321	community	_
 60-3	9322-9331	detection	_
@@ -1679,6 +1739,7 @@
 60-22	9468-9476	matrices	_
 60-23	9477-9478	.	_
 
+Text=The algorithm optimizes a quality function Q, defined as the difference between the observed intra-modular and inter-modular connectivity, while penalizing assignment of nodes with negative correlations to the same community.
 61-1	9479-9482	The	_
 61-2	9483-9492	algorithm	_
 61-3	9493-9502	optimizes	_
@@ -1713,6 +1774,7 @@
 61-32	9696-9705	community	_
 61-33	9706-9707	.	_
 
+Text=The algorithm was repeated 100 times and the results with the highest Q was extracted as the optimal community structure, for the computation of group static matrix and each subject's temporal co-occurrence matrix.
 62-1	9708-9711	The	_
 62-2	9712-9721	algorithm	_
 62-3	9722-9725	was	_
@@ -1750,6 +1812,7 @@
 62-35	9917-9923	matrix	_
 62-36	9924-9925	.	_
 
+Text=Temporal co-occurrence matrix To investigate dynamic interactions between nodes, temporal co-occurrence matrices were computed based on subject's optimal community structures as obtained from the time-varying connectivity matrix.
 63-1	9926-9934	Temporal	_
 63-2	9935-9948	co-occurrence	_
 63-3	9949-9955	matrix	_
@@ -1781,6 +1844,7 @@
 63-29	10150-10156	matrix	_
 63-30	10157-10158	.	_
 
+Text=The community structure within each sliding window was used to construct an adjacency matrix Aijtk, such that Aijtk = 1 if node i and node j are in the same community within time window t for participantk, otherwise Aijtk = 0.
 64-1	10159-10162	The	_
 64-2	10163-10172	community	_
 64-3	10173-10182	structure	_
@@ -1826,6 +1890,7 @@
 64-43	10385-10386	0	_
 64-44	10387-10388	.	_
 
+Text=The temporal co-occurrence matrix was thus computed as the temporal mean of the adjacency matrix.
 65-1	10389-10392	The	_
 65-2	10393-10401	temporal	_
 65-3	10402-10415	co-occurrence	_
@@ -1843,6 +1908,7 @@
 65-15	10479-10485	matrix	_
 65-16	10486-10487	.	_
 
+Text=Each element measures the proportion of times that two nodes are part of the same community.
 66-1	10488-10492	Each	_
 66-2	10493-10500	element	_
 66-3	10501-10509	measures	_
@@ -1861,6 +1927,7 @@
 66-16	10570-10579	community	_
 66-17	10580-10581	.	_
 
+Text=A higher value indicates that the two corresponding nodes participate in the same community more frequently.
 67-1	10582-10583	A	_
 67-2	10584-10590	higher	_
 67-3	10591-10596	value	_
@@ -1879,6 +1946,7 @@
 67-16	10679-10689	frequently	_
 67-17	10690-10691	.	_
 
+Text=Group static functional connectivity Two levels of static functional connectivity were defined and computed.
 68-1	10692-10697	Group	_
 68-2	10698-10704	static	_
 68-3	10705-10715	functional	_
@@ -1895,6 +1963,7 @@
 68-14	10791-10799	computed	_
 68-15	10800-10801	.	_
 
+Text=At the first level, for each individual, the static connectivity between nodes was computed by applying Pearson correlations on the nodes' time-series.
 69-1	10802-10804	At	_
 69-2	10805-10808	the	_
 69-3	10809-10814	first	_
@@ -1922,6 +1991,7 @@
 69-25	10944-10955	time-series	_
 69-26	10956-10957	.	_
 
+Text=At the second level, the resulting correlation matrices from individual subjects were z-transformed and averaged to form a group averaged connectivity matrix.
 70-1	10958-10960	At	_
 70-2	10961-10964	the	_
 70-3	10965-10971	second	_
@@ -1947,6 +2017,7 @@
 70-23	11110-11116	matrix	_
 70-24	11117-11118	.	_
 
+Text=Modularity analysis was performed with random initialization for 100 times on group averaged connectivity matrix to determine the optimal static community structure, to be used for the computation of node-level metrics.
 71-1	11119-11129	Modularity	_
 71-2	11130-11138	analysis	_
 71-3	11139-11142	was	_
@@ -1981,6 +2052,7 @@
 71-32	11331-11338	metrics	_
 71-33	11339-11340	.	_
 
+Text=Node-level metrics With the temporal co-occurrence matrix Cijk and the group static community, we characterized the dynamic spatiotemporal properties of each node using two measures: temporal flexibility and spatiotemporal diversity.
 72-1	11341-11351	Node-level	_
 72-2	11352-11359	metrics	_
 72-3	11360-11364	With	_
@@ -2015,6 +2087,7 @@
 72-32	11566-11575	diversity	_
 72-33	11576-11577	.	_
 
+Text=The temporal flexibility of node i and participant k was computed as: where Cijk is the temporal co-occurrence matrix for individual k, ui is the community to which node i belongs, and ∑j∉uiCijk measures the total frequency with which node i interacts with nodes outside its native community.
 73-1	11578-11581	The	_
 73-2	11582-11590	temporal	_
 73-3	11591-11602	flexibility	_
@@ -2068,6 +2141,7 @@
 73-51	11863-11872	community	_
 73-52	11873-11874	.	_
 
+Text=Temporal flexibility of the node captures the tendency of deviation from its own native community and interaction with nodes from other community.
 74-1	11875-11883	Temporal	_
 74-2	11884-11895	flexibility	_
 74-3	11896-11898	of	_
@@ -2092,6 +2166,7 @@
 74-22	12011-12020	community	_
 74-23	12021-12022	.	_
 
+Text=The spatiotemporal diversity of node i and participant k was computed as: where, sik is the degree/strength of node i among all communities for participant k, sik (u) is the degree/strength of node i in community u for participant k, m is the total number of communities, and M is the set of communities.
 75-1	12023-12026	The	_
 75-2	12027-12041	spatiotemporal	_
 75-3	12042-12051	diversity	_
@@ -2155,6 +2230,7 @@
 75-61	12322-12333	communities	_
 75-62	12334-12335	.	_
 
+Text=Nodes with high spatiotemporal diversity scores are those that have relatively spatially varied distribution of time-varying interactions with all communities and are putative loci for integrating information between communities.
 76-1	12336-12341	Nodes	_
 76-2	12342-12346	with	_
 76-3	12347-12351	high	_
@@ -2186,6 +2262,7 @@
 76-29	12553-12564	communities	_
 76-30	12565-12566	.	_
 
+Text=Correlation with behavioral performance We used both Pearson correlation to examine the relationship between graph metrics and the stop signal reaction time (SSRT), the primary outcome measure of the SST.
 77-1	12567-12578	Correlation	_
 77-2	12579-12583	with	_
 77-3	12584-12594	behavioral	_
@@ -2221,6 +2298,7 @@
 77-33	12770-12773	SST	_
 77-34	12774-12775	.	_
 
+Text=We focused on four networks that are known to be associated with inhibitory control – the saliency network, default mode network (DMN), cingulo-opercular network (CON), and fronto-parietal network (FPN) – in Pearson regression with the two connectivity metrics – temporal flexibility and spatiotemporal diversity.
 78-1	12776-12778	We	_
 78-2	12779-12786	focused	_
 78-3	12787-12789	on	_
@@ -2276,6 +2354,7 @@
 78-53	13088-13097	diversity	_
 78-54	13098-13099	.	_
 
+Text=A corrected p value of 0.05/8 = 0.0063 was used to examine the correlation results.
 79-1	13100-13101	A	_
 79-2	13102-13111	corrected	_
 79-3	13112-13113	p	_

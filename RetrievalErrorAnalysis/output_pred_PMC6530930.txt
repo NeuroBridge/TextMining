@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Classification of cocaine-dependent participants with dynamic functional connectivity from functional magnetic resonance imaging data Static functional connectivity (FC) analyses based on functional magnetic resonance imaging (fMRI) data have been extensively explored for studying various psychiatric conditions in the brain, including cocaine addiction.
 1-1	0-14	Classification	_
 1-2	15-17	of	_
 1-3	18-35	cocaine-dependent	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
@@ -51,6 +52,7 @@
 1-47	350-359	addiction	_
 1-48	360-361	.	_
 
+Text=A recently emerging, more powerful technique, dynamic functional connectivity (DFC), studies how the FC dynamics change during the course of the fMRI experiments.
 2-1	362-363	A	_
 2-2	364-372	recently	_
 2-3	373-381	emerging	_
@@ -81,6 +83,7 @@
 2-28	517-528	experiments	_
 2-29	529-530	.	_
 
+Text=The aim in this paper was to develop a computational approach, using a machine learning framework, to determine if DFC features were more successful than FC features in the classification of cocaine-dependent patients and healthy controls.
 3-1	531-534	The	_
 3-2	535-538	aim	_
 3-3	539-541	in	_
@@ -121,6 +124,7 @@
 3-38	763-771	controls	_
 3-39	772-773	.	_
 
+Text=fMRI data were obtained from of 25 healthy and 58 cocaine-dependent participants while performing a motor response inhibition task, stop signal task.
 4-1	774-778	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 4-2	779-783	data	_
 4-3	784-788	were	_
@@ -146,6 +150,7 @@
 4-23	919-923	task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 4-24	924-925	.	_
 
+Text=Group independent component analysis was carried out on all participant data to compute spatially independent components (ICs).
 5-1	926-931	Group	_
 5-2	932-943	independent	_
 5-3	944-953	component	_
@@ -167,6 +172,7 @@
 5-19	1053-1054	)	_
 5-20	1055-1056	.	_
 
+Text=Eight ICs were selected manually as relevant brain networks, which were used to classify healthy versus cocaine-dependent participants.
 6-1	1057-1062	Eight	_
 6-2	1063-1066	ICs	_
 6-3	1067-1071	were	_
@@ -188,6 +194,7 @@
 6-19	1180-1192	participants	_
 6-20	1193-1194	.	_
 
+Text=FC and DFC measures of the chosen IC pairs were used as features for the classification algorithm.
 7-1	1195-1197	FC	_
 7-2	1198-1201	and	_
 7-3	1202-1205	DFC	_
@@ -207,6 +214,7 @@
 7-17	1283-1292	algorithm	_
 7-18	1293-1294	.	_
 
+Text=Support Vector Machines were used for both feature selection/reduction and participant classification.
 8-1	1295-1302	Support	_
 8-2	1303-1309	Vector	_
 8-3	1310-1318	Machines	_
@@ -221,6 +229,7 @@
 8-12	1382-1396	classification	_
 8-13	1397-1398	.	_
 
+Text=Based on DFC with only seven IC pairs, participants were successfully classified with 95% accuracy (and with 90% accuracy with three IC pairs), whereas static FC yielded only 81% accuracy.
 9-1	1399-1404	Based	_
 9-2	1405-1407	on	_
 9-3	1408-1411	DFC	_
@@ -260,6 +269,7 @@
 9-37	1585-1593	accuracy	_
 9-38	1594-1595	.	_
 
+Text=Visual, sensorimotor, default mode, and executive control networks, amygdala, and insula played the most significant role in the DFC-based classification.
 10-1	1596-1602	Visual	_
 10-2	1603-1604	,	_
 10-3	1605-1617	sensorimotor	_
@@ -287,6 +297,7 @@
 10-25	1740-1754	classification	_
 10-26	1755-1756	.	_
 
+Text=These findings support the use of DFC-based classification of fMRI data as a potential biomarker for the identification of cocaine dependence.
 11-1	1757-1762	These	_
 11-2	1763-1771	findings	_
 11-3	1772-1779	support	_
@@ -310,6 +321,7 @@
 11-21	1888-1898	dependence	_
 11-22	1899-1900	.	_
 
+Text=METHODS AND MATERIALS Participants Research participants were 58 cocaine-dependent individuals and 25 age-matched healthy controls.
 12-1	1901-1908	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	1909-1912	AND	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	1913-1922	MATERIALS	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -327,6 +339,7 @@
 12-15	2023-2031	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 12-16	2032-2033	.	_
 
+Text=Cocaine-dependent participants were recruited from three residential treatment programs in Dallas, Texas: the VA North Texas Health Care System, Homeward Bound, Inc., and Nexus Recovery Center, Inc.
 13-1	2034-2051	Cocaine-dependent	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 13-2	2052-2064	participants	_
 13-3	2065-2069	were	_
@@ -362,6 +375,7 @@
 13-33	2234-2237	Inc	_
 13-34	2238-2239	.	_
 
+Text=Participants were financially compensated for their participation.
 14-1	2240-2252	Participants	_
 14-2	2253-2257	were	_
 14-3	2258-2269	financially	_
@@ -371,6 +385,7 @@
 14-7	2292-2305	participation	_
 14-8	2306-2307	.	_
 
+Text=The criteria for cocaine dependence was the Structured Clinical Interview for DSM-IV-TR Axis I Disorders; all cocaine-dependent participants endorsed cocaine as their primary drug of choice.
 15-1	2308-2311	The	_
 15-2	2312-2320	criteria	_
 15-3	2321-2324	for	_
@@ -400,6 +415,7 @@
 15-27	2492-2498	choice	_
 15-28	2499-2500	.	_
 
+Text=Cocaine-dependent participants were administered a comprehensive medical history and physical examination, a general laboratory panel, urine drug screen, and a guided interview of lifetime substance use history during the first and second week of inpatient treatment.
 16-1	2501-2518	Cocaine-dependent	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 16-2	2519-2531	participants	_
 16-3	2532-2536	were	_
@@ -441,6 +457,7 @@
 16-39	2761-2770	treatment	_
 16-40	2771-2772	.	_
 
+Text=Participants were excluded if they had any history of major illness, had an estimated IQ below 70 (per the Wechsler Test of Adult Reading), met criteria for any neurological or active Axis I disorder (other than substance use disorders), or were on any central nervous system active medications (including all psychotropics).
 17-1	2773-2785	Participants	_
 17-2	2786-2790	were	_
 17-3	2791-2799	excluded	_
@@ -503,6 +520,7 @@
 17-60	3105-3106	)	_
 17-61	3107-3108	.	_
 
+Text=Other drug use among cocaine-dependent individuals was not a criterion for exclusion, as long as cocaine dependence was the primary diagnosis.
 18-1	3109-3114	Other	_
 18-2	3115-3119	drug	_
 18-3	3120-3123	use	_
@@ -527,6 +545,7 @@
 18-22	3242-3251	diagnosis	_
 18-23	3252-3253	.	_
 
+Text=15 of the CD participants also had history of alcohol, whereas none of the CD participants had alcohol abuse history.
 19-1	3254-3256	15	_
 19-2	3257-3259	of	_
 19-3	3260-3263	the	_
@@ -550,6 +569,7 @@
 19-21	3364-3371	history	_
 19-22	3372-3373	.	_
 
+Text=Cocaine-dependent participants were recruited following admission to one of three residential cocaine dependence treatment programs in Dallas, Texas, and were admitted as soon as possible after their last reported use of cocaine.
 20-1	3374-3391	Cocaine-dependent	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 20-2	3392-3404	participants	_
 20-3	3405-3409	were	_
@@ -586,6 +606,7 @@
 20-34	3597-3604	cocaine	_
 20-35	3605-3606	.	_
 
+Text=All three programs utilized the Minnesota Model psychosocial treatment approach.
 21-1	3607-3610	All	_
 21-2	3611-3616	three	_
 21-3	3617-3625	programs	_
@@ -598,6 +619,7 @@
 21-10	3678-3686	approach	_
 21-11	3687-3688	.	_
 
+Text=Urine drug screens were conducted throughout residential treatment to verify abstinence.
 22-1	3689-3694	Urine	_
 22-2	3695-3699	drug	_
 22-3	3700-3707	screens	_
@@ -611,6 +633,7 @@
 22-11	3766-3776	abstinence	_
 22-12	3777-3778	.	_
 
+Text=The time in treatment varied between 2 and 4 weeks.
 23-1	3779-3782	The	_
 23-2	3783-3787	time	_
 23-3	3788-3790	in	_
@@ -623,6 +646,7 @@
 23-10	3824-3829	weeks	_
 23-11	3830-3831	.	_
 
+Text=This time frame allowed the resolution of cocaine intoxication, cocaine withdrawal symptoms, and reasonable stability of other mood symptoms while remaining in a monitored residential setting.
 24-1	3832-3836	This	_
 24-2	3837-3841	time	_
 24-3	3842-3847	frame	_
@@ -653,6 +677,7 @@
 24-28	4018-4025	setting	_
 24-29	4026-4027	.	_
 
+Text=It was anticipated that variability with this small window of abstinence in a substance-free, residential treatment program would be minimal.
 25-1	4028-4030	It	_
 25-2	4031-4034	was	_
 25-3	4035-4046	anticipated	_
@@ -676,6 +701,7 @@
 25-21	4162-4169	minimal	_
 25-22	4170-4171	.	_
 
+Text=All participants admitted into the three treatment programs over a 4-year period were screened.
 26-1	4172-4175	All	_
 26-2	4176-4188	participants	_
 26-3	4189-4197	admitted	_
@@ -692,6 +718,7 @@
 26-14	4258-4266	screened	_
 26-15	4267-4268	.	_
 
+Text=Informed consent was obtained on 180 participants (46 female, 134 male).
 27-1	4269-4277	Informed	_
 27-2	4278-4285	consent	_
 27-3	4286-4289	was	_
@@ -708,6 +735,7 @@
 27-14	4342-4343	)	_
 27-15	4344-4345	.	_
 
+Text=Ninety seven were excluded from the analyses of this paper due to not meeting inclusion criteria, early discharge from program, or withdrawal of consent or technical problems with fMRI data.
 28-1	4346-4352	Ninety	_
 28-2	4353-4358	seven	_
 28-3	4359-4363	were	_
@@ -742,6 +770,7 @@
 28-32	4533-4537	data	_
 28-33	4538-4539	.	_
 
+Text=Healthy control participants had no lifetime history of substance use disorder.
 29-1	4540-4547	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 29-2	4548-4555	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 29-3	4556-4568	participants	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -755,6 +784,7 @@
 29-11	4610-4618	disorder	_
 29-12	4619-4620	.	_
 
+Text=Other psychiatric, medical, and cognitive exclusion criteria were similar to that of the cocaine-dependent participants.
 30-1	4621-4626	Other	_
 30-2	4627-4638	psychiatric	_
 30-3	4639-4640	,	_
@@ -774,6 +804,7 @@
 30-17	4730-4742	participants	_
 30-18	4743-4744	.	_
 
+Text=All aspects of the research protocol were reviewed and approved by the Institutional Review Boards of the University of Texas Southwestern Medical Center at Dallas and the Veterans Administration North Texas Health Care System.
 31-1	4745-4748	All	_
 31-2	4749-4756	aspects	_
 31-3	4757-4759	of	_
@@ -810,6 +841,7 @@
 31-34	4965-4971	System	_
 31-35	4972-4973	.	_
 
+Text=Participants signed an informed consent before study participation and were compensated for their participation.
 32-1	4974-4986	Participants	_
 32-2	4987-4993	signed	_
 32-3	4994-4996	an	_
@@ -826,6 +858,7 @@
 32-14	5072-5085	participation	_
 32-15	5086-5087	.	_
 
+Text=Relevant demographic and clinical characteristics of the participants are provided in Table 1.
 33-1	5088-5096	Relevant	_
 33-2	5097-5108	demographic	_
 33-3	5109-5112	and	_
@@ -841,6 +874,7 @@
 33-13	5180-5181	1	_
 33-14	5182-5183	.	_
 
+Text=MRI data acquisition Cocaine-dependent individuals completed scans during their final week of a 2- to 4-week residential treatment program.
 34-1	5184-5187	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 34-2	5188-5192	data	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 34-3	5193-5204	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -862,6 +896,7 @@
 34-19	5315-5322	program	_
 34-20	5323-5324	.	_
 
+Text=Participants completed fMRI scans during which they were instructed to lie as still as possible with their eyes open.
 35-1	5325-5337	Participants	_
 35-2	5338-5347	completed	_
 35-3	5348-5352	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -883,6 +918,7 @@
 35-19	5437-5441	open	_
 35-20	5442-5443	.	_
 
+Text=Two control participants were excluded from all imaging analysis due to a technical error during acquisition of the resting data.
 36-1	5444-5447	Two	_
 36-2	5448-5455	control	_
 36-3	5456-5468	participants	_
@@ -905,6 +941,7 @@
 36-20	5568-5572	data	_
 36-21	5573-5574	.	_
 
+Text=Functional MRI acquisition was performed on a Philips 3T magnetic resonance scanner (Philips Medical Systems, Best, The Netherlands).
 37-1	5575-5585	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 37-2	5586-5589	MRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 37-3	5590-5601	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -929,6 +966,7 @@
 37-22	5710-5711	)	_
 37-23	5712-5713	.	_
 
+Text=BOLD fMRI data during the SST experiment were acquired using a single-shot echo-planar imaging sequence with 3.25 χ 3.25 mm2 in-plane resolution, 36 slices (thickness/gap = 3/0 mm), field-of-view (FOV) 208 × 208 × 108 mm, matrix size 64 × 64 × 36, repetition time/echo time = 1,700/25 milliseconds, gradient-echo echo-planar imaging (EPI) with flip angle 70°, and 384 volumes over the duration of about 653 s. For spatial normalization purposes, high-resolution T1-weighted images were acquired with a spatial resolution of 1 × 1 × 1 mm3.
 38-1	5714-5718	BOLD	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 38-2	5719-5723	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 38-3	5724-5728	data	_
@@ -1031,6 +1069,7 @@
 38-100	6261-6264	mm3	_
 38-101	6265-6266	.	_
 
+Text=Stop signal task The task has previously been proposed and described by and been used to classify ADHD from healthy controls with almost 80% classification accuracy.
 39-1	6267-6271	Stop	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 39-2	6272-6278	signal	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 39-3	6279-6283	task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -1060,6 +1099,7 @@
 39-27	6424-6432	accuracy	_
 39-28	6433-6434	.	_
 
+Text=Goggles were used for stimulus presentation.
 40-1	6435-6442	Goggles	_
 40-2	6443-6447	were	_
 40-3	6448-6452	used	_
@@ -1068,6 +1108,7 @@
 40-6	6466-6478	presentation	_
 40-7	6479-6480	.	_
 
+Text=A rapid mixed-trial event-related fMRI design was used.
 41-1	6481-6482	A	_
 41-2	6483-6488	rapid	_
 41-3	6489-6500	mixed-trial	_
@@ -1078,6 +1119,7 @@
 41-8	6531-6535	used	_
 41-9	6536-6537	.	_
 
+Text=Horizontal white arrows (“ Go ” stimulus) on a black background pointing either left or right appeared for 500 ms with a mean inter-stimulus interval (ISI) of 1.8 s (1.6, 1.8, 2.0 s).
 42-1	6538-6548	Horizontal	_
 42-2	6549-6554	white	_
 42-3	6555-6561	arrows	_
@@ -1121,6 +1163,7 @@
 42-41	6727-6728	)	_
 42-42	6729-6730	.	_
 
+Text=The three ISIs were randomly presented to optimize statistical efficiency.
 43-1	6731-6734	The	_
 43-2	6735-6740	three	_
 43-3	6741-6745	ISIs	_
@@ -1133,6 +1176,7 @@
 43-10	6794-6804	efficiency	_
 43-11	6805-6806	.	_
 
+Text=Participants were instructed to make a button response to Go signals with their left or right thumb corresponding to the arrow direction as soon as possible.
 44-1	6807-6819	Participants	_
 44-2	6820-6824	were	_
 44-3	6825-6835	instructed	_
@@ -1161,6 +1205,7 @@
 44-26	6955-6963	possible	_
 44-27	6964-6965	.	_
 
+Text=In the unpredictable, infrequent Stop trials (74 Stop trials, approximately 20% of the trials), horizontal arrows were followed (after a variable 250–900 ms delay), by vertical arrows pointing upward (“ Stop ” stimulus).
 45-1	6966-6968	In	_
 45-2	6969-6972	the	_
 45-3	6973-6986	unpredictable	_
@@ -1207,6 +1252,7 @@
 45-44	7195-7196	)	_
 45-45	7197-7198	.	_
 
+Text=Participants were instructed to inhibit their response to the preceding Go stimulus when a Stop arrow was presented after the Go stimulus.
 46-1	7199-7211	Participants	_
 46-2	7212-7216	were	_
 46-3	7217-7227	instructed	_
@@ -1231,6 +1277,7 @@
 46-22	7328-7336	stimulus	_
 46-23	7337-7338	.	_
 
+Text=The delay between Go and Stop stimuli was titrated, according to each participant ’ s performance.
 47-1	7339-7342	The	_
 47-2	7343-7348	delay	_
 47-3	7349-7356	between	_
@@ -1250,6 +1297,7 @@
 47-17	7426-7437	performance	_
 47-18	7438-7439	.	_
 
+Text=The tracking algorithm was designed to assure the task was equally challenging for each individual, providing 50% successful (StopSuccess) and 50% unsuccessful (StopFail) inhibition trials.
 48-1	7440-7443	The	_
 48-2	7444-7452	tracking	_
 48-3	7453-7462	algorithm	_
@@ -1284,6 +1332,7 @@
 48-32	7629-7635	trials	_
 48-33	7636-7637	.	_
 
+Text=Seventy-four Stop trials (evenly distributed between right and left Go arrows) were pseudo-randomly interspersed with 288 Go trials.
 49-1	7638-7650	Seventy-four	_
 49-2	7651-7655	Stop	_
 49-3	7656-7662	trials	_
@@ -1306,6 +1355,7 @@
 49-20	7765-7771	trials	_
 49-21	7772-7773	.	_
 
+Text=Successive Stop trials were separated by at least three Go trials to allow better separation of the hemodynamic response.
 50-1	7774-7784	Successive	_
 50-2	7785-7789	Stop	_
 50-3	7790-7796	trials	_
@@ -1327,6 +1377,7 @@
 50-19	7886-7894	response	_
 50-20	7895-7896	.	_
 
+Text=Stop and Go trials were equally distributed between right and left arrows.
 51-1	7897-7901	Stop	_
 51-2	7902-7905	and	_
 51-3	7906-7908	Go	_
@@ -1341,6 +1392,7 @@
 51-12	7964-7970	arrows	_
 51-13	7971-7972	.	_
 
+Text=The number of Stop and Go trials, 74 and 288, respectively, were the same for each participant.
 52-1	7973-7976	The	_
 52-2	7977-7983	number	_
 52-3	7984-7986	of	_
@@ -1363,6 +1415,7 @@
 52-20	8059-8070	participant	_
 52-21	8071-8072	.	_
 
+Text=Performance on the SST was calculated for each participant.
 53-1	8073-8084	Performance	_
 53-2	8085-8087	on	_
 53-3	8088-8091	the	_
@@ -1374,6 +1427,7 @@
 53-9	8120-8131	participant	_
 53-10	8132-8133	.	_
 
+Text=The Stop Signal Response Time (SSRT) is the time required for a participant to cancel their movement after seeing the stop signal, where longer SSRTs indicate poorer response inhibition.
 54-1	8134-8137	The	_
 54-2	8138-8142	Stop	_
 54-3	8143-8149	Signal	_
@@ -1408,6 +1462,7 @@
 54-32	8312-8322	inhibition	_
 54-33	8323-8324	.	_
 
+Text=SSRT was calculated by subtracting the average stop signal delay at which participants achieve 50% of inhibition from the average reaction time to go signals.
 55-1	8325-8329	SSRT	_
 55-2	8330-8333	was	_
 55-3	8334-8344	calculated	_
@@ -1436,6 +1491,7 @@
 55-26	8476-8483	signals	_
 55-27	8484-8485	.	_
 
+Text=The mean and standard deviation of the SSRT for each of the two groups, as well as other task performance measures such as mean response time to Go trials (MRT), stop signal delay (SSD), omission percentage to Go trials, and inhibition percentage, are presented in Table 1.
 56-1	8486-8489	The	_
 56-2	8490-8494	mean	_
 56-3	8495-8498	and	_
@@ -1494,6 +1550,7 @@
 56-56	8766-8767	1	_
 56-57	8768-8769	.	_
 
+Text=Data processing and analysis The fMRI time series data were realigned (motion-corrected) using MCFLIRT, slice time corrected, resampled, and normalized into standard 2 mm × 2 mm × 2 mm MNI space (91 × 109 × 91 matrix) for all of the volumes, using FSL (http: //fsl.fmrib.ox.ac.uk).
 57-1	8770-8774	Data	_
 57-2	8775-8785	processing	_
 57-3	8786-8789	and	_
@@ -1554,6 +1611,7 @@
 57-58	9060-9061	)	_
 57-59	9062-9063	.	_
 
+Text=Spatial smoothing with a Gaussian kernel of 5-mm full-width at half-maximum (FWHM) was also performed.
 58-1	9064-9071	Spatial	_
 58-2	9072-9081	smoothing	_
 58-3	9082-9086	with	_
@@ -1573,6 +1631,7 @@
 58-17	9158-9167	performed	_
 58-18	9168-9169	.	_
 
+Text=A 2 mm MNI T1 brain mask was applied for the brain extraction.
 59-1	9170-9171	A	_
 59-2	9172-9173	2	_
 59-3	9174-9176	mm	_
@@ -1588,6 +1647,7 @@
 59-13	9221-9231	extraction	_
 59-14	9232-9233	.	_
 
+Text=Spatial group ICA was done on normalized data using the Group ICA of fMRI (GIFT) Toolbox (http: //mialab.mrn.org/ software/gift).
 60-1	9234-9241	Spatial	_
 60-2	9242-9247	group	_
 60-3	9248-9251	ICA	_
@@ -1614,6 +1674,7 @@
 60-24	9366-9367	)	_
 60-25	9368-9369	.	_
 
+Text=The number of independent components was set to 20 to keep the number or ICs manageable.
 61-1	9370-9373	The	_
 61-2	9374-9380	number	_
 61-3	9381-9383	of	_
@@ -1632,6 +1693,7 @@
 61-16	9447-9457	manageable	_
 61-17	9458-9459	.	_
 
+Text=Static FC and DFC analyses were done using a MATLAB-based graphical user interface software which was developed in-house and was based on an earlier work by.
 62-1	9460-9466	Static	_
 62-2	9467-9469	FC	_
 62-3	9470-9473	and	_
@@ -1660,6 +1722,7 @@
 62-26	9614-9616	by	_
 62-27	9617-9618	.	_
 
+Text=Procedurally the Group ICA begins by reducing the ICs to be evaluated by ICA by first using principal component analysis (PCA) in two stages.
 63-1	9619-9631	Procedurally	_
 63-2	9632-9635	the	_
 63-3	9636-9641	Group	_
@@ -1688,6 +1751,7 @@
 63-26	9755-9761	stages	_
 63-27	9762-9763	.	_
 
+Text=Each participant file contains 384 fMRI time points.
 64-1	9764-9768	Each	_
 64-2	9769-9780	participant	_
 64-3	9781-9785	file	_
@@ -1698,6 +1762,7 @@
 64-8	9809-9815	points	_
 64-9	9816-9817	.	_
 
+Text=The first stage reduced each of the 83 participants with 384 BOLD fMRI time points to 83 participants, each with 20 ICs.
 65-1	9818-9821	The	_
 65-2	9822-9827	first	_
 65-3	9828-9833	stage	_
@@ -1723,6 +1788,7 @@
 65-23	9935-9938	ICs	_
 65-24	9939-9940	.	_
 
+Text=The second stage of PCA reduced this group to a single group of 20 ICs for the participants grouped together.
 66-1	9941-9944	The	_
 66-2	9945-9951	second	_
 66-3	9952-9957	stage	_
@@ -1745,6 +1811,7 @@
 66-20	10041-10049	together	_
 66-21	10050-10051	.	_
 
+Text=This final group is evaluated with InfoMax ICA.
 67-1	10052-10056	This	_
 67-2	10057-10062	final	_
 67-3	10063-10068	group	_
@@ -1755,6 +1822,7 @@
 67-8	10095-10098	ICA	_
 67-9	10099-10100	.	_
 
+Text=InfoMax ICA was setup with bias and sphering on.
 68-1	10101-10108	InfoMax	_
 68-2	10109-10112	ICA	_
 68-3	10113-10116	was	_
@@ -1766,6 +1834,7 @@
 68-9	10146-10148	on	_
 68-10	10149-10150	.	_
 
+Text=Block size, stop, Irate, max step, anneal, and anneal angle were set to default values of 275, 1 × 106, 0.0050071, 512, 0.9, and 60 degrees, respectively.
 69-1	10151-10156	Block	_
 69-2	10157-10161	size	_
 69-3	10162-10163	,	_
@@ -1806,6 +1875,7 @@
 69-38	10303-10315	respectively	_
 69-39	10316-10317	.	_
 
+Text=The results are then back reconstructed for each of the 83 participants, each with 20 ICs and an accompanying time course for each IC.
 70-1	10318-10321	The	_
 70-2	10322-10329	results	_
 70-3	10330-10333	are	_
@@ -1833,6 +1903,7 @@
 70-25	10450-10452	IC	_
 70-26	10453-10454	.	_
 
+Text=After detailed visual inspection, 12 of the 20 ICs were found to be artifactual or nonrelevant components; therefore, the number of relevant ICs were reduced to 8, which constitute the relevant brain networks for our analysis.
 71-1	10455-10460	After	_
 71-2	10461-10469	detailed	_
 71-3	10470-10476	visual	_
@@ -1875,6 +1946,7 @@
 71-40	10676-10684	analysis	_
 71-41	10685-10686	.	_
 
+Text=Static FC between any two ICs was measured by calculating the 2D correlation between the time courses of the two ICs.
 72-1	10687-10693	Static	_
 72-2	10694-10696	FC	_
 72-3	10697-10704	between	_
@@ -1898,6 +1970,7 @@
 72-21	10800-10803	ICs	_
 72-22	10804-10805	.	_
 
+Text=The result is a single cross-correlation coefficient (cc), which reveals how strong the connection is between the two ICs.
 73-1	10806-10809	The	_
 73-2	10810-10816	result	_
 73-3	10817-10819	is	_
@@ -1922,6 +1995,7 @@
 73-22	10927-10930	ICs	_
 73-23	10931-10932	.	_
 
+Text=A matrix of cc values is generated by calculating the 2D correlation for all IC and participant combinations.
 74-1	10933-10934	A	_
 74-2	10935-10941	matrix	_
 74-3	10942-10944	of	_
@@ -1942,6 +2016,7 @@
 74-18	11029-11041	combinations	_
 74-19	11042-11043	.	_
 
+Text=Therefore, with 83 participants, 8 ICs and 28 IC-pair combinations, a matrix with 83 rows and 28 columns is generated.
 75-1	11044-11053	Therefore	_
 75-2	11054-11055	,	_
 75-3	11056-11060	with	_
@@ -1967,6 +2042,7 @@
 75-23	11155-11164	generated	_
 75-24	11165-11166	.	_
 
+Text=Column labels were added to the data to identify the IC combinations the data belonged to.
 76-1	11167-11173	Column	_
 76-2	11174-11180	labels	_
 76-3	11181-11185	were	_
@@ -1985,6 +2061,7 @@
 76-16	11254-11256	to	_
 76-17	11257-11258	.	_
 
+Text=Row labels were added to identify which group (control or CD) each participant belonged to.
 77-1	11259-11262	Row	_
 77-2	11263-11269	labels	_
 77-3	11270-11274	were	_
@@ -2004,6 +2081,7 @@
 77-17	11349-11351	to	_
 77-18	11352-11353	.	_
 
+Text=This static FC matrix is then used for classification between control and CD.
 78-1	11354-11358	This	_
 78-2	11359-11365	static	_
 78-3	11366-11368	FC	_
@@ -2019,6 +2097,7 @@
 78-13	11428-11430	CD	_
 78-14	11431-11432	.	_
 
+Text=The method used to calculate DFC was by sweeping a time window across a time course (Figure 2).
 79-1	11433-11436	The	_
 79-2	11437-11443	method	_
 79-3	11444-11448	used	_
@@ -2041,6 +2120,7 @@
 79-20	11528-11529	)	_
 79-21	11530-11531	.	_
 
+Text=All points from each time course that are inside the sliding window rectangle are used in the 2D correlation to produce a single cross-correlation coefficient (cc).
 80-1	11532-11535	All	_
 80-2	11536-11542	points	_
 80-3	11543-11547	from	_
@@ -2071,6 +2151,7 @@
 80-28	11696-11697	)	_
 80-29	11698-11699	.	_
 
+Text=For each participant, pair-wise regions are determined and their fMRI time courses are recorded in two single-dimensional arrays.
 81-1	11700-11703	For	_
 81-2	11704-11708	each	_
 81-3	11709-11720	participant	_
@@ -2092,6 +2173,7 @@
 81-19	11823-11829	arrays	_
 81-20	11830-11831	.	_
 
+Text=Two parameters were required: window size and window step size.
 82-1	11832-11835	Two	_
 82-2	11836-11846	parameters	_
 82-3	11847-11851	were	_
@@ -2105,6 +2187,7 @@
 82-11	11891-11895	size	_
 82-12	11896-11897	.	_
 
+Text=Correlation coefficients of the resulting DFC, which is also a dynamic time series data, are calculated for each of the windowed time courses of each IC pair, at every window step.
 83-1	11898-11909	Correlation	_
 83-2	11910-11922	coefficients	_
 83-3	11923-11925	of	_
@@ -2141,6 +2224,7 @@
 83-34	12076-12080	step	_
 83-35	12081-12082	.	_
 
+Text=Each IC for each of the participants has a corresponding time course, and thereby the time coursers were extracted from the ICA ’ s computations, for the IC ’ s of interest (the ones that are deemed to represent meaningful brain networks, not artifacts).
 84-1	12083-12087	Each	_
 84-2	12088-12090	IC	_
 84-3	12091-12094	for	_
@@ -2192,6 +2276,7 @@
 84-49	12340-12341	)	_
 84-50	12342-12343	.	_
 
+Text=Throughout this paper, the calculation of DFC correlation coefficients from two time courses is considered the smallest calculation unit of the DFC analyses.
 85-1	12344-12354	Throughout	_
 85-2	12355-12359	this	_
 85-3	12360-12365	paper	_
@@ -2218,6 +2303,7 @@
 85-24	12493-12501	analyses	_
 85-25	12502-12503	.	_
 
+Text=In general, once the time courses are extracted (via ICA or otherwise, such as ROI-based average time course extraction), DFC analyses investigate interactions among brain networks or regions using sliding window correlation.
 86-1	12504-12506	In	_
 86-2	12507-12514	general	_
 86-3	12515-12516	,	_
@@ -2257,6 +2343,7 @@
 86-37	12722-12733	correlation	_
 86-38	12734-12735	.	_
 
+Text=The outcome of DFC analysis between two networks or brain regions is also another time course that summarizes dynamics between the regions of interest.
 87-1	12736-12739	The	_
 87-2	12740-12747	outcome	_
 87-3	12748-12750	of	_
@@ -2283,6 +2370,7 @@
 87-24	12878-12886	interest	_
 87-25	12887-12888	.	_
 
+Text=At the end, this method identified pairs of brain areas that are interacting together and the dynamics of the interaction.
 88-1	12889-12891	At	_
 88-2	12892-12895	the	_
 88-3	12896-12899	end	_
@@ -2306,6 +2394,7 @@
 88-21	13000-13011	interaction	_
 88-22	13012-13013	.	_
 
+Text=The DFC between two brain networks or regions is summarized in Figure 2.
 89-1	13014-13017	The	_
 89-2	13018-13021	DFC	_
 89-3	13022-13029	between	_
@@ -2321,6 +2410,7 @@
 89-13	13084-13085	2	_
 89-14	13086-13087	.	_
 
+Text=In our case, we determined the brain networks via ICA.
 90-1	13088-13090	In	_
 90-2	13091-13094	our	_
 90-3	13095-13099	case	_
@@ -2334,6 +2424,7 @@
 90-11	13139-13142	ICA	_
 90-12	13143-13144	.	_
 
+Text=More details on the methodology of the DFC can be found in.
 91-1	13145-13149	More	_
 91-2	13150-13157	details	_
 91-3	13158-13160	on	_
@@ -2348,6 +2439,7 @@
 91-12	13201-13203	in	_
 91-13	13204-13205	.	_
 
+Text=In our study, the size of the sliding window is 32 time points.
 92-1	13206-13208	In	_
 92-2	13209-13212	our	_
 92-3	13213-13218	study	_
@@ -2364,6 +2456,7 @@
 92-14	13263-13269	points	_
 92-15	13270-13271	.	_
 
+Text=With a TR = 1.7 s, the time window is 54.4 s wide.
 93-1	13272-13276	With	_
 93-2	13277-13278	a	_
 93-3	13279-13281	TR	_
@@ -2380,6 +2473,7 @@
 93-14	13318-13322	wide	_
 93-15	13323-13324	.	_
 
+Text=Each time the window steps across the TCs, 8 time points are jumped over (window step size of 8), which corresponds to a 13.6 s. We chose the size of 32 for the sliding window since one needs n> 30 data points in order to obtain a reliable correlation coefficient statistically (for n> 30 samples, the t-distribution and the Normal distribution are very similar).
 94-1	13325-13329	Each	_
 94-2	13330-13334	time	_
 94-3	13335-13338	the	_
@@ -2455,6 +2549,7 @@
 94-73	13695-13696	)	_
 94-74	13697-13698	.	_
 
+Text=Choice of 8 for the window step size was somewhat arbitrary; we wanted to keep a balance between having too short of a step size (which would probably not capture any real DFC changes but probably mostly noise) and too long (which could miss any real DFC changes).
 95-1	13699-13705	Choice	_
 95-2	13706-13708	of	_
 95-3	13709-13710	8	_
@@ -2510,6 +2605,7 @@
 95-53	13966-13967	)	_
 95-54	13968-13969	.	_
 
+Text=We discuss the effects of our window size and the window step size more in the Discussion section.
 96-1	13970-13972	We	_
 96-2	13973-13980	discuss	_
 96-3	13981-13984	the	_
@@ -2530,6 +2626,7 @@
 96-18	14060-14067	section	_
 96-19	14068-14069	.	_
 
+Text=In our case, since there are 384 total time points, as a result, the DFC analysis results in 45 cc values.
 97-1	14070-14072	In	_
 97-2	14073-14076	our	_
 97-3	14077-14081	case	_
@@ -2556,6 +2653,7 @@
 97-24	14172-14178	values	_
 97-25	14179-14180	.	_
 
+Text=There are 28 pairing combinations between 8 ICs.
 98-1	14181-14186	There	_
 98-2	14187-14190	are	_
 98-3	14191-14193	28	_
@@ -2566,6 +2664,7 @@
 98-8	14225-14228	ICs	_
 98-9	14229-14230	.	_
 
+Text=Therefore, with 83 participants, 8 ICs, 28 IC pairs, and 45 cc values per IC combination, a matrix with 83 rows and 1,260 columns was generated.
 99-1	14231-14240	Therefore	_
 99-2	14241-14242	,	_
 99-3	14243-14247	with	_
@@ -2599,6 +2698,7 @@
 99-31	14370-14379	generated	_
 99-32	14380-14381	.	_
 
+Text=Column labels were added to the data to identify the IC combination that the data belonged to as well as the order number of the cc.
 100-1	14382-14388	Column	_
 100-2	14389-14395	labels	_
 100-3	14396-14400	were	_
@@ -2627,6 +2727,7 @@
 100-26	14511-14513	cc	_
 100-27	14514-14515	.	_
 
+Text=Row labels were added to identify which group (controls or CD) each participant belonged to.
 101-1	14516-14519	Row	_
 101-2	14520-14526	labels	_
 101-3	14527-14531	were	_
@@ -2646,6 +2747,7 @@
 101-17	14607-14609	to	_
 101-18	14610-14611	.	_
 
+Text=This DFC cc matrix was then used for classification between controls and CD.
 102-1	14612-14616	This	_
 102-2	14617-14620	DFC	_
 102-3	14621-14623	cc	_
@@ -2661,6 +2763,7 @@
 102-13	14685-14687	CD	_
 102-14	14688-14689	.	_
 
+Text=Anatomical identification of the independent components Anatomical identification of the ICs was performed using the Harvard-Oxford brain atlas in order to determine which anatomical brain regions that had the most coverage by each IC.
 103-1	14690-14700	Anatomical	_
 103-2	14701-14715	identification	_
 103-3	14716-14718	of	_
@@ -2697,6 +2800,7 @@
 103-34	14922-14924	IC	_
 103-35	14925-14926	.	_
 
+Text=The procedure which is used to score the coverage of each atlas region by an IC network is described in the pseudocode shown in Table 2.
 104-1	14927-14930	The	_
 104-2	14931-14940	procedure	_
 104-3	14941-14946	which	_
@@ -2725,6 +2829,7 @@
 104-26	15061-15062	2	_
 104-27	15063-15064	.	_
 
+Text=In this process, we calculate regionCoverage, which is the percent coverage of the region by the IC.
 105-1	15065-15067	In	_
 105-2	15068-15072	this	_
 105-3	15073-15080	process	_
@@ -2746,6 +2851,7 @@
 105-19	15164-15166	IC	_
 105-20	15167-15168	.	_
 
+Text=Only ICA voxels for which the absolute value Z-score is greater than 1.7 qualify as region covering voxels.
 106-1	15169-15173	Only	_
 106-2	15174-15177	ICA	_
 106-3	15178-15184	voxels	_
@@ -2766,6 +2872,7 @@
 106-18	15269-15275	voxels	_
 106-19	15276-15277	.	_
 
+Text=The value of 1.7 indicates that the voxel is beyond 99% of the Z-score distribution.
 107-1	15278-15281	The	_
 107-2	15282-15287	value	_
 107-3	15288-15290	of	_
@@ -2784,6 +2891,7 @@
 107-16	15350-15362	distribution	_
 107-17	15363-15364	.	_
 
+Text=For the Harvard-Oxford atlas, the values outside the region have a value zero, but the values inside the region are between the values 0 and 1.
 108-1	15365-15368	For	_
 108-2	15369-15372	the	_
 108-3	15373-15387	Harvard-Oxford	_
@@ -2814,6 +2922,7 @@
 108-28	15508-15509	1	_
 108-29	15510-15511	.	_
 
+Text=The Harvard-Oxford atlas is a probability map so the voxel values inside a region increase as the likelihood of being in the region increases.
 109-1	15512-15515	The	_
 109-2	15516-15530	Harvard-Oxford	_
 109-3	15531-15536	atlas	_
@@ -2840,6 +2949,7 @@
 109-24	15644-15653	increases	_
 109-25	15654-15655	.	_
 
+Text=Therefore, the regionCoverage for the Harvard-Oxford atlas is percent likelihood of being a specific region as opposed to being a flat coverage or overlap of the region.
 110-1	15656-15665	Therefore	_
 110-2	15666-15667	,	_
 110-3	15668-15671	the	_
@@ -2870,6 +2980,7 @@
 110-28	15819-15825	region	_
 110-29	15826-15827	.	_
 
+Text=Feature selection and classification Classification was performed using Weka, a widely used data mining and classification software written with a Java platform.
 111-1	15828-15835	Feature	_
 111-2	15836-15845	selection	_
 111-3	15846-15849	and	_
@@ -2895,6 +3006,7 @@
 111-23	15981-15989	platform	_
 111-24	15990-15991	.	_
 
+Text=The FC and DFC matrices were converted from MATLAB into Weka ’ s.arff data format to be compatible with the Weka software.
 112-1	15992-15995	The	_
 112-2	15996-15998	FC	_
 112-3	15999-16002	and	_
@@ -2919,6 +3031,7 @@
 112-22	16105-16113	software	_
 112-23	16114-16115	.	_
 
+Text=All features, which are cross-correlation coefficients, are normalized between [−1, 1]; however, no standardization (zero-mean, unit-standard deviation) was applied to the dataset.
 113-1	16116-16119	All	_
 113-2	16120-16128	features	_
 113-3	16129-16130	,	_
@@ -2953,6 +3066,7 @@
 113-32	16298-16305	dataset	_
 113-33	16306-16307	.	_
 
+Text=Each column (28 columns in FC, 1,232 columns in DFC) in the two matrices was initially considered a feature to be used in the classification.
 114-1	16308-16312	Each	_
 114-2	16313-16319	column	_
 114-3	16320-16321	(	_
@@ -2983,6 +3097,7 @@
 114-28	16437-16451	classification	_
 114-29	16452-16453	.	_
 
+Text=The SVM classification algorithm from LIBSVM, a popular open source machine learning library, was used.
 115-1	16454-16457	The	_
 115-2	16458-16461	SVM	_
 115-3	16462-16476	classification	_
@@ -3002,6 +3117,7 @@
 115-17	16554-16558	used	_
 115-18	16559-16560	.	_
 
+Text=During classification, the least significant IC pairs were iteratively reduced one at a time, in order to determine how the classification accuracy changed after removal of the pair.
 116-1	16561-16567	During	_
 116-2	16568-16582	classification	_
 116-3	16583-16584	,	_
@@ -3034,6 +3150,7 @@
 116-30	16740-16744	pair	_
 116-31	16745-16746	.	_
 
+Text=Having a high number of features does not simply yield the highest classification accuracy for nonlinear classification algorithms such as SVM, and in general when the number of samples are not high (curse of dimensionality).
 117-1	16747-16753	Having	_
 117-2	16754-16755	a	_
 117-3	16756-16760	high	_
@@ -3074,6 +3191,7 @@
 117-38	16973-16974	)	_
 117-39	16975-16976	.	_
 
+Text=Therefore, the number of features were reduced.
 118-1	16977-16986	Therefore	_
 118-2	16987-16988	,	_
 118-3	16989-16992	the	_
@@ -3084,6 +3202,7 @@
 118-8	17017-17024	reduced	_
 118-9	17025-17026	.	_
 
+Text=This process constitutes the first step in feature reduction in which the minimal set of ICs yielding the best classification accuracy was found.
 119-1	17027-17031	This	_
 119-2	17032-17039	process	_
 119-3	17040-17051	constitutes	_
@@ -3109,6 +3228,7 @@
 119-23	17166-17171	found	_
 119-24	17172-17173	.	_
 
+Text=The process of iterative removal of IC pairs started with the set of all 28 pairs, including all initial feature sets used in SVM classification.
 120-1	17174-17177	The	_
 120-2	17178-17185	process	_
 120-3	17186-17188	of	_
@@ -3137,6 +3257,7 @@
 120-26	17305-17319	classification	_
 120-27	17320-17321	.	_
 
+Text=In the case of DFC-based classification, the features associated with an IC pair were removed all together as a group, i.e., removal of an IC pair required removal of all 45 DFC measures computed for the IC pair.
 121-1	17322-17324	In	_
 121-2	17325-17328	the	_
 121-3	17329-17333	case	_
@@ -3180,6 +3301,7 @@
 121-41	17532-17536	pair	_
 121-42	17537-17538	.	_
 
+Text=This group removal process was only specific to DFC since each pair in FC involves only one FC measure, not a group of 45 features as in DFC.
 122-1	17539-17543	This	_
 122-2	17544-17549	group	_
 122-3	17550-17557	removal	_
@@ -3211,6 +3333,7 @@
 122-29	17677-17680	DFC	_
 122-30	17681-17682	.	_
 
+Text=In the beginning of DFC experiments, the number of features was 28 × 45, whereas FC experiments started with only 28 features (one for each IC pair).
 123-1	17683-17685	In	_
 123-2	17686-17689	the	_
 123-3	17690-17699	beginning	_
@@ -3244,6 +3367,7 @@
 123-31	17834-17835	)	_
 123-32	17836-17837	.	_
 
+Text=In both experiments (DFC, FC), the pair to be removed in each iteration were selected utilizing a weight vector (where n = 28 for FC and n = 28 × 45 for DFC) in SVM.
 124-1	17838-17840	In	_
 124-2	17841-17845	both	_
 124-3	17846-17857	experiments	_
@@ -3287,6 +3411,7 @@
 124-41	18005-18008	SVM	_
 124-42	18009-18010	.	_
 
+Text=Since each entry of w corresponds to a feature in the classification problem, showed that the larger ∣wj∣, j ≤ n, the more the contribution to the classification decision.
 125-1	18011-18016	Since	_
 125-2	18017-18021	each	_
 125-3	18022-18027	entry	_
@@ -3321,6 +3446,7 @@
 125-32	18176-18184	decision	_
 125-33	18185-18186	.	_
 
+Text=In this notation, n is the number of features in the classification problem, and n-element w vector is the weight vector, which, after iterations of the classification algorithm, becomes the solution of the classification problem.
 126-1	18187-18189	In	_
 126-2	18190-18194	this	_
 126-3	18195-18203	notation	_
@@ -3363,6 +3489,7 @@
 126-40	18414-18421	problem	_
 126-41	18422-18423	.	_
 
+Text=Wj is the jth element of w. Following, linear SVM classifiers were run iteratively, removing the least significant pair from the current set at every iteration.
 127-1	18424-18426	Wj	_
 127-2	18427-18429	is	_
 127-3	18430-18433	the	_
@@ -3393,6 +3520,7 @@
 127-28	18576-18585	iteration	_
 127-29	18586-18587	.	_
 
+Text=The stopping condition was satisfied once all but one pair was removed.
 128-1	18588-18591	The	_
 128-2	18592-18600	stopping	_
 128-3	18601-18610	condition	_
@@ -3407,6 +3535,7 @@
 128-12	18651-18658	removed	_
 128-13	18659-18660	.	_
 
+Text=In each iteration, participants were classified using the leave-one-out (LOO) model validation method.
 129-1	18661-18663	In	_
 129-2	18664-18668	each	_
 129-3	18669-18678	iteration	_
@@ -3425,6 +3554,7 @@
 129-16	18759-18765	method	_
 129-17	18766-18767	.	_
 
+Text=The LOO scheme is the exhaustive version of k-fold cross-validation with k = N = 83 and avoids the combination-driven calculation problem of k-fold cross-validation.
 130-1	18768-18771	The	_
 130-2	18772-18775	LOO	_
 130-3	18776-18782	scheme	_
@@ -3452,6 +3582,7 @@
 130-25	18916-18932	cross-validation	_
 130-26	18933-18934	.	_
 
+Text=In an LOO scheme, one test participant, S, is excluded from the overall group of N = 83, and it is classified to be control or CD using the model built based on the remaining N – S = 82 participants, which is the training group.
 131-1	18935-18937	In	_
 131-2	18938-18940	an	_
 131-3	18941-18944	LOO	_
@@ -3505,6 +3636,7 @@
 131-51	19162-19167	group	_
 131-52	19168-19169	.	_
 
+Text=S is also called the validation participant.
 132-1	19170-19171	S	_
 132-2	19172-19174	is	_
 132-3	19175-19179	also	_
@@ -3514,6 +3646,7 @@
 132-7	19202-19213	participant	_
 132-8	19214-19215	.	_
 
+Text=This classification process is repeated N = 83 times, once for each of the participants.
 133-1	19216-19220	This	_
 133-2	19221-19235	classification	_
 133-3	19236-19243	process	_
@@ -3532,6 +3665,7 @@
 133-16	19292-19304	participants	_
 133-17	19305-19306	.	_
 
+Text=The accuracy of model is reported in each case.
 134-1	19307-19310	The	_
 134-2	19311-19319	accuracy	_
 134-3	19320-19322	of	_
@@ -3543,6 +3677,7 @@
 134-9	19349-19353	case	_
 134-10	19354-19355	.	_
 
+Text=Note that SVM classification models obtained for each training dataset result in different but similar classification models (a hyperline in multidimensional space) even if the SVM is trained with exactly the same parameters and constraints.
 135-1	19356-19360	Note	_
 135-2	19361-19365	that	_
 135-3	19366-19369	SVM	_
@@ -3582,6 +3717,7 @@
 135-37	19587-19598	constraints	_
 135-38	19599-19600	.	_
 
+Text=In general, a dataset with significant informative features would be more robust to removal of a particular S, assuming that the other participants who are of the same class as S will cover the missing information excluded by the removal of S. Because of the nature of SVM ’ s heavy dependence to parameter selection, in each iteration, training and classification were done using various parameters and kernels.
 136-1	19601-19603	In	_
 136-2	19604-19611	general	_
 136-3	19612-19613	,	_
@@ -3656,6 +3792,7 @@
 136-72	20009-20016	kernels	_
 136-73	20017-20018	.	_
 
+Text=The list of parameters and kernels is provided in Table 3.
 137-1	20019-20022	The	_
 137-2	20023-20027	list	_
 137-3	20028-20030	of	_
@@ -3669,6 +3806,7 @@
 137-11	20075-20076	3	_
 137-12	20077-20078	.	_
 
+Text=The parameters used for DFC-based results, which provide the best classification with 7 IC pairs, are provided in bold font.
 138-1	20079-20082	The	_
 138-2	20083-20093	parameters	_
 138-3	20094-20098	used	_

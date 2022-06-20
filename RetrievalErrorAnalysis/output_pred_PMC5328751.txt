@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Polygenic risk for five psychiatric disorders and cross-disorder and disorder-specific neural connectivity in two independent populations Major psychiatric disorders, including attention deficit hyperactivity disorder (ADHD), autism (AUT), bipolar disorder (BD), major depressive disorder (MDD), and schizophrenia (SZ), are highly heritable and polygenic.
 1-1	0-9	Polygenic	_
 1-2	10-14	risk	_
 1-3	15-18	for	_
@@ -62,6 +63,7 @@
 1-58	361-370	polygenic	_
 1-59	371-372	.	_
 
+Text=Evidence suggests that these five disorders have both shared and distinct genetic risks and neural connectivity abnormalities.
 2-1	373-381	Evidence	_
 2-2	382-390	suggests	_
 2-3	391-395	that	_
@@ -81,6 +83,7 @@
 2-17	485-498	abnormalities	_
 2-18	499-500	.	_
 
+Text=To measure aggregate genetic risks, the polygenic risk score (PGRS) was computed.
 3-1	501-503	To	_
 3-2	504-511	measure	_
 3-3	512-521	aggregate	_
@@ -98,6 +101,7 @@
 3-15	576-584	computed	_
 3-16	585-586	.	_
 
+Text=Two independent general populations (N = 360 and N = 323) were separately examined to investigate whether the cross-disorder PGRS and PGRS for a specific disorder were associated with individual variability in functional connectivity.
 4-1	587-590	Two	_
 4-2	591-602	independent	_
 4-3	603-610	general	_
@@ -136,6 +140,7 @@
 4-36	810-822	connectivity	_
 4-37	823-824	.	_
 
+Text=Consistent altered functional connectivity was found with the bilateral insula: for the left supplementary motor area and the left superior temporal gyrus with the cross-disorder PGRS, for the left insula and right middle and superior temporal lobe associated with the PGRS for autism, for the bilateral midbrain, posterior cingulate, cuneus, and precuneus associated with the PGRS for BD, and for the left angular gyrus and the left dorsolateral prefrontal cortex associated with the PGRS for schizophrenia.
 5-1	825-835	Consistent	_
 5-2	836-843	altered	_
 5-3	844-854	functional	_
@@ -221,6 +226,7 @@
 5-83	1326-1339	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 5-84	1340-1341	.	_
 
+Text=No significant functional connectivity was found associated with the PGRS for ADHD and MDD.
 6-1	1342-1344	No	_
 6-2	1345-1356	significant	_
 6-3	1357-1367	functional	_
@@ -237,6 +243,7 @@
 6-14	1429-1432	MDD	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
 6-15	1433-1434	.	_
 
+Text=Our findings indicated that genetic effects on the cross-disorder and disorder-specific neural connectivity of common genetic risk loci are detectable in the general population.
 7-1	1435-1438	Our	_
 7-2	1439-1447	findings	_
 7-3	1448-1457	indicated	_
@@ -263,6 +270,7 @@
 7-24	1601-1611	population	_
 7-25	1612-1613	.	_
 
+Text=Our findings also indicated that polygenic risk contributes to the main neurobiological phenotypes of psychiatric disorders and that identifying cross-disorder and specific functional connectivity related to polygenic risks may elucidate the neural pathways for these disorders.
 8-1	1614-1617	Our	_
 8-2	1618-1626	findings	_
 8-3	1627-1631	also	_
@@ -301,6 +309,7 @@
 8-36	1882-1891	disorders	_
 8-37	1892-1893	.	_
 
+Text=Highlights Altered cross-disorder functional connectivity related to PGRSs is detected.
 9-1	1894-1904	Highlights	_
 9-2	1905-1912	Altered	_
 9-3	1913-1927	cross-disorder	_
@@ -313,6 +322,7 @@
 9-10	1972-1980	detected	_
 9-11	1981-1982	.	_
 
+Text=Altered disorder-specific functional connectivity related to PGRSs is detected.
 10-1	1983-1990	Altered	_
 10-2	1991-2008	disorder-specific	_
 10-3	2009-2019	functional	_
@@ -324,6 +334,7 @@
 10-9	2053-2061	detected	_
 10-10	2062-2063	.	_
 
+Text=Altered functional connectivity related to PGRSs is involved in brain networks.
 11-1	2064-2071	Altered	_
 11-2	2072-2082	functional	_
 11-3	2083-2095	connectivity	_
@@ -337,6 +348,7 @@
 11-11	2134-2142	networks	_
 11-12	2143-2144	.	_
 
+Text=Polygenic risk contributes to neurobiological phenotypes of psychiatric disorders.
 12-1	2145-2154	Polygenic	_
 12-2	2155-2159	risk	_
 12-3	2160-2171	contributes	_
@@ -348,6 +360,7 @@
 12-9	2217-2226	disorders	_
 12-10	2227-2228	.	_
 
+Text=Materials and methods Demographics of participants Dataset 1: Dataset 1 included 360 healthy young Chinese subjects (Table 1).
 13-1	2229-2238	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-2	2239-2242	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-3	2243-2250	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -371,6 +384,7 @@
 13-21	2356-2357	)	_
 13-22	2358-2359	.	_
 
+Text=The subjects and their relatives within the third-degree had no history of psychiatric disorders.
 14-1	2360-2363	The	_
 14-2	2364-2372	subjects	_
 14-3	2373-2376	and	_
@@ -387,6 +401,7 @@
 14-14	2447-2456	disorders	_
 14-15	2457-2458	.	_
 
+Text=None of the participants had a history of psychiatric treatment, drug or alcohol abuse, traumatic brain injury, or visible brain lesions on conventional magnetic resonance imaging (MRI).
 15-1	2459-2463	None	_
 15-2	2464-2466	of	_
 15-3	2467-2470	the	_
@@ -421,6 +436,7 @@
 15-32	2648-2649	)	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 15-33	2650-2651	.	_
 
+Text=They all gave full written informed consent to join the study.
 16-1	2652-2656	They	_
 16-2	2657-2660	all	_
 16-3	2661-2665	gave	_
@@ -434,6 +450,7 @@
 16-11	2708-2713	study	_
 16-12	2714-2715	.	_
 
+Text=The Ethics Committee of the School of Life Science and Technology at the University of Electronic Science and Technology of China approved this study.
 17-1	2716-2719	The	_
 17-2	2720-2726	Ethics	_
 17-3	2727-2736	Committee	_
@@ -460,6 +477,7 @@
 17-24	2860-2865	study	_
 17-25	2866-2867	.	_
 
+Text=Dataset 2: 323 healthy young Chinese subjects were included in Dataset 2 (Table 1).
 18-1	2868-2875	Dataset	_
 18-2	2876-2877	2	_
 18-3	2878-2879	:	_
@@ -479,6 +497,7 @@
 18-17	2952-2953	)	_
 18-18	2954-2955	.	_
 
+Text=None of the subjects nor their first-degree relatives had a history of psychiatric diagnoses, of neurological or metabolic illnesses, or of drug or alcohol abuse.
 19-1	2956-2960	None	_
 19-2	2961-2963	of	_
 19-3	2964-2967	the	_
@@ -508,6 +527,7 @@
 19-27	3114-3119	abuse	_
 19-28	3120-3121	.	_
 
+Text=They all gave full written informed consent to participate in the study.
 20-1	3122-3126	They	_
 20-2	3127-3130	all	_
 20-3	3131-3135	gave	_
@@ -522,6 +542,7 @@
 20-12	3188-3193	study	_
 20-13	3194-3195	.	_
 
+Text=The Ethics Committee of Tianjin Medical University approved this study.
 21-1	3196-3199	The	_
 21-2	3200-3206	Ethics	_
 21-3	3207-3216	Committee	_
@@ -534,6 +555,7 @@
 21-10	3261-3266	study	_
 21-11	3267-3268	.	_
 
+Text=Genotyping and quality control We collected whole blood and extracted genomic DNA using the EZgene Blood gDNA Miniprep Kit for all subjects.
 22-1	3269-3279	Genotyping	_
 22-2	3280-3283	and	_
 22-3	3284-3291	quality	_
@@ -558,6 +580,7 @@
 22-22	3400-3408	subjects	_
 22-23	3409-3410	.	_
 
+Text=Next we performed whole-genome genotyping using the standard Illumina genotyping protocol on Illumina Human OmniZhongHua-8 BeadChips.
 23-1	3411-3415	Next	_
 23-2	3416-3418	we	_
 23-3	3419-3428	performed	_
@@ -576,6 +599,7 @@
 23-16	3534-3543	BeadChips	_
 23-17	3544-3545	.	_
 
+Text=Plink was used to perform quality control, using the same procedure for both datasets.
 24-1	3546-3551	Plink	_
 24-2	3552-3555	was	_
 24-3	3556-3560	used	_
@@ -593,6 +617,7 @@
 24-15	3624-3632	datasets	_
 24-16	3633-3634	.	_
 
+Text=First, the individuals, 1 from Dataset 1 and 3 from Dataset 2, whose missing genotype rates were> 0.05 were excluded.
 25-1	3635-3640	First	_
 25-2	3641-3642	,	_
 25-3	3643-3646	the	_
@@ -619,6 +644,7 @@
 25-24	3747-3755	excluded	_
 25-25	3756-3757	.	_
 
+Text=Then, we removed the one with the greater missing genotype rate from each pair that had more similar genotypes identified by estimating the pairwise identity-by-descent (IBD) than we would have expected in a random sample, removing 2 individuals from Dataset 1 and 5 individuals from Dataset 2.
 26-1	3758-3762	Then	_
 26-2	3763-3764	,	_
 26-3	3765-3767	we	_
@@ -672,6 +698,7 @@
 26-51	4054-4055	2	_
 26-52	4056-4057	.	_
 
+Text=Next, SNPs with missing genotype rates> 0.05, a minor allele frequency <0.01, or a significant departure from Hardy-Weinberg Equilibrium (P <0.001) were excluded.
 27-1	4058-4062	Next	_
 27-2	4063-4064	,	_
 27-3	4065-4069	SNPs	_
@@ -705,6 +732,7 @@
 27-31	4219-4227	excluded	_
 27-32	4228-4229	.	_
 
+Text=Finally, a principal component analysis (PCA) was performed to control for population stratification using EIGENSTART on a linkage disequilibrium (LD) pruned set of autosomal SNPs obtained by carrying out LD pruning with PLINK and removing 5 long-range LD regions with the HapMap phase 3 reference dataset.
 28-1	4230-4237	Finally	_
 28-2	4238-4239	,	_
 28-3	4240-4241	a	_
@@ -758,6 +786,7 @@
 28-51	4533-4540	dataset	_
 28-52	4541-4542	.	_
 
+Text=We removed the outliers of the sample (> 6 SD) after we identified 10 principle components.
 29-1	4543-4545	We	_
 29-2	4546-4553	removed	_
 29-3	4554-4557	the	_
@@ -778,6 +807,7 @@
 29-18	4625-4635	components	_
 29-19	4636-4637	.	_
 
+Text=A Q-Q plot was applied and showed that the population stratification was well controlled with λ = 1.03043 (Supplementary Fig.
 30-1	4638-4639	A	_
 30-2	4640-4643	Q-Q	_
 30-3	4644-4648	plot	_
@@ -801,10 +831,12 @@
 30-21	4760-4763	Fig	_
 30-22	4764-4765	.	_
 
+Text=1).
 31-1	4766-4767	1	_
 31-2	4768-4769	)	_
 31-3	4770-4771	.	_
 
+Text=After these quality control procedures, 356 and 311 subjects respectively in Datasets 1 and 2 were included for subsequent analyses.
 32-1	4772-4777	After	_
 32-2	4778-4783	these	_
 32-3	4784-4791	quality	_
@@ -828,6 +860,7 @@
 32-21	4896-4904	analyses	_
 32-22	4905-4906	.	_
 
+Text=Additionally,> 700.000 SNPs survived the pruning procedures.
 33-1	4907-4919	Additionally	_
 33-2	4920-4921	,	_
 33-3	4922-4923	>	_
@@ -839,6 +872,7 @@
 33-9	4958-4968	procedures	_
 33-10	4969-4970	.	_
 
+Text=Imputation and PGRS generation The genome coordinates were converted from hg19 to hg18 assembly using liftOver (https: //genome.ucsc.edu/cgi-bin/hgLiftOver) to be consistent with the reference dataset used to perform imputation and the training dataset used to calculate the PGRS.
 34-1	4971-4981	Imputation	_
 34-2	4982-4985	and	_
 34-3	4986-4990	PGRS	_
@@ -882,6 +916,7 @@
 34-41	5249-5253	PGRS	_
 34-42	5254-5255	.	_
 
+Text=Ungenotyped SNPs were imputed using SHAPEIT and IMPUTE2 with an HapMap phase 3 reference dataset.
 35-1	5256-5267	Ungenotyped	_
 35-2	5268-5272	SNPs	_
 35-3	5273-5277	were	_
@@ -899,6 +934,7 @@
 35-15	5345-5352	dataset	_
 35-16	5353-5354	.	_
 
+Text=After imputation, 1,381,116 SNPs were included for the following analysis.
 36-1	5355-5360	After	_
 36-2	5361-5371	imputation	_
 36-3	5372-5373	,	_
@@ -912,6 +948,7 @@
 36-11	5421-5429	analysis	_
 36-12	5430-5431	.	_
 
+Text=We removed the SNPs with imputation quality scores <0.8, missing genotype rates> 0.05, a minor allele frequency <0.01, or significant departure from Hardy-Weinberg Equilibrium (P <0.0001).
 37-1	5432-5434	We	_
 37-2	5435-5442	removed	_
 37-3	5443-5446	the	_
@@ -949,6 +986,7 @@
 37-35	5627-5628	)	_
 37-36	5629-5630	.	_
 
+Text=About 960,000 SNPs survived the pruning procedures and were used to calculate the PGRSs.
 38-1	5631-5636	About	_
 38-2	5637-5644	960,000	_
 38-3	5645-5649	SNPs	_
@@ -965,6 +1003,7 @@
 38-14	5713-5718	PGRSs	_
 38-15	5719-5720	.	_
 
+Text=The GWAS data used to calculate the PGRS was pruned for linkage disequilibrium (r2 <0.25) at thresholds of PT <0.01, PT <0.05, PT <0.1 and PT <0.5.
 39-1	5721-5724	The	_
 39-2	5725-5729	GWAS	_
 39-3	5730-5734	data	_
@@ -1003,6 +1042,7 @@
 39-36	5873-5876	0.5	_
 39-37	5877-5878	.	_
 
+Text=It is important to choose an appropriate P-threshold to define PGRS and methods are proposed to choose the threshold.
 40-1	5879-5881	It	_
 40-2	5882-5884	is	_
 40-3	5885-5894	important	_
@@ -1024,6 +1064,7 @@
 40-19	5986-5995	threshold	_
 40-20	5996-5997	.	_
 
+Text=However, since this is a data driven study without predefined phenotypes, this method could not work on our study.
 41-1	5998-6005	However	_
 41-2	6006-6007	,	_
 41-3	6008-6013	since	_
@@ -1047,6 +1088,7 @@
 41-21	6108-6113	study	_
 41-22	6114-6115	.	_
 
+Text=A more stringent threshold generates a SNP set with less SNPs being truly associated with the disorders.
 42-1	6116-6117	A	_
 42-2	6118-6122	more	_
 42-3	6123-6132	stringent	_
@@ -1066,6 +1108,7 @@
 42-17	6210-6219	disorders	_
 42-18	6220-6221	.	_
 
+Text=With a more liberal threshold, more SNPs will be included, which will help increase the statistical power.
 43-1	6222-6226	With	_
 43-2	6227-6228	a	_
 43-3	6229-6233	more	_
@@ -1087,6 +1130,7 @@
 43-19	6324-6329	power	_
 43-20	6330-6331	.	_
 
+Text=But too liberal threshold will include SNPs that are too weakly associated with the disorders.
 44-1	6332-6335	But	_
 44-2	6336-6339	too	_
 44-3	6340-6347	liberal	_
@@ -1104,6 +1148,7 @@
 44-15	6416-6425	disorders	_
 44-16	6426-6427	.	_
 
+Text=So the statistical power will decrease.
 45-1	6428-6430	So	_
 45-2	6431-6434	the	_
 45-3	6435-6446	statistical	_
@@ -1112,6 +1157,7 @@
 45-6	6458-6466	decrease	_
 45-7	6467-6468	.	_
 
+Text=Among these four thresholds, PT <0.05 could be a balance of statistical power and the number of SNPs.
 46-1	6469-6474	Among	_
 46-2	6475-6480	these	_
 46-3	6481-6485	four	_
@@ -1134,6 +1180,7 @@
 46-20	6567-6571	SNPs	_
 46-21	6572-6573	.	_
 
+Text=So our research was primarily based on the PGRS calculated at PT <0.05, and we analyzed PGRS at other thresholds based on the results of PT <0.05.
 47-1	6574-6576	So	_
 47-2	6577-6580	our	_
 47-3	6581-6589	research	_
@@ -1166,6 +1213,7 @@
 47-30	6718-6722	0.05	_
 47-31	6723-6724	.	_
 
+Text=We calculated the PGRS using the method described in a previous paper.
 48-1	6725-6727	We	_
 48-2	6728-6738	calculated	_
 48-3	6739-6742	the	_
@@ -1180,6 +1228,7 @@
 48-12	6789-6794	paper	_
 48-13	6795-6796	.	_
 
+Text=First we calculated the cross-disorder PGRSs and then calculated PGRSs for each of these five disorders (ADHD, autism, BD, MDD, schizophrenia) separately.
 49-1	6797-6802	First	_
 49-2	6803-6805	we	_
 49-3	6806-6816	calculated	_
@@ -1210,6 +1259,7 @@
 49-28	6946-6956	separately	_
 49-29	6957-6958	.	_
 
+Text=The summary GWAS results from the PGC GWAS Cross Disorder group were used as training datasets.
 50-1	6959-6962	The	_
 50-2	6963-6970	summary	_
 50-3	6971-6975	GWAS	_
@@ -1228,6 +1278,7 @@
 50-16	7045-7053	datasets	_
 50-17	7054-7055	.	_
 
+Text=fMRI image acquisition and preprocessing The image acquisition from each scanner was finished within six months.
 51-1	7056-7060	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 51-2	7061-7066	image	_
 51-3	7067-7078	acquisition	_
@@ -1246,6 +1297,7 @@
 51-16	7161-7167	months	_
 51-17	7168-7169	.	_
 
+Text=There were no hardware or system upgrades for either scanner, and the sequence and protocols for each subject were kept constant in each scanning period.
 52-1	7170-7175	There	_
 52-2	7176-7180	were	_
 52-3	7181-7183	no	_
@@ -1274,6 +1326,7 @@
 52-26	7317-7323	period	_
 52-27	7324-7325	.	_
 
+Text=The subjects from Dataset 1 were scanned on a MR750 3.0T magnetic resonance scanner (GE Healthcare, Milwaukee, WI).
 53-1	7326-7329	The	_
 53-2	7330-7338	subjects	_
 53-3	7339-7343	from	_
@@ -1298,6 +1351,7 @@
 53-22	7443-7444	)	_
 53-23	7445-7446	.	_
 
+Text=Resting-state functional imaging data was obtained using a gradient-echo echo-planar-imaging (GRE-EPI) sequence with the following configuration: echo time (TE) = 30 ms, repetition time (TR) = 2000 ms, flip angle = 90°, field of view (FOV) = 240 × 240 mm2, matrix = 64 × 64, voxel size = 3.75 × 3.75 × 4.00 mm3, 39 slices and 255 volumes.
 54-1	7447-7460	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 54-2	7461-7471	functional	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 54-3	7472-7479	imaging	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1375,6 +1429,7 @@
 54-75	7792-7799	volumes	_
 54-76	7800-7801	.	_
 
+Text=The subjects from Dataset 2 were scanned using a Signa HDx 3.0T scanner (GE Healthcare, Milwaukee, WI).
 55-1	7802-7805	The	_
 55-2	7806-7814	subjects	_
 55-3	7815-7819	from	_
@@ -1398,6 +1453,7 @@
 55-21	7907-7908	)	_
 55-22	7909-7910	.	_
 
+Text=We used a single-shot gradient-echo echo-planar imaging (SS-GRE-EPI) sequence to perform resting-state functional imaging with the following parameters: repetition time (TR) = 2000 ms, echo time (TE) = 30 ms, field of view (FOV) = 240 × 240 mm2, matrix = 64 × 64, flip angle = 90°, voxel size = 3.75 × 3.75 × 4.00 mm3, 40 slices, and 180 volumes.
 56-1	7911-7913	We	_
 56-2	7914-7918	used	_
 56-3	7919-7920	a	_
@@ -1478,6 +1534,7 @@
 56-78	8265-8272	volumes	_
 56-79	8273-8274	.	_
 
+Text=All participants were asked to close their eyes and avoid movement, think about nothing in particular, and avoid sleeping.
 57-1	8275-8278	All	_
 57-2	8279-8291	participants	_
 57-3	8292-8296	were	_
@@ -1501,6 +1558,7 @@
 57-21	8390-8398	sleeping	_
 57-22	8399-8400	.	_
 
+Text=After scanning, the subjects were asked if they fell asleep to ensure that they had all remained awake.
 58-1	8401-8406	After	_
 58-2	8407-8415	scanning	_
 58-3	8416-8417	,	_
@@ -1522,6 +1580,7 @@
 58-19	8499-8504	awake	_
 58-20	8505-8506	.	_
 
+Text=The same preprocessing procedures were applied to each dataset, and DPARSFA (Data Processing Assistant for Resting State fMRI Advanced Edition, http: //www.restfmri.net/forum/DPARSF) was used to preprocess the images.
 59-1	8507-8510	The	_
 59-2	8511-8515	same	_
 59-3	8516-8529	preprocessing	_
@@ -1557,6 +1616,7 @@
 59-33	8722-8728	images	_
 59-34	8729-8730	.	_
 
+Text=The preprocessing procedures included: (1) removing the first 10 volumes; (2) slice timing; (3) head motion correction; (4) spatial normalization; (5) smoothing with a 6 mm Gaussian kernel; (6) removing the influence of the whole brain signals, head motions, and linear trends; and (7) temporal band-pass filtration (0.01–0.08 HZ).
 60-1	8731-8734	The	_
 60-2	8735-8748	preprocessing	_
 60-3	8749-8759	procedures	_
@@ -1633,6 +1693,7 @@
 60-74	9085-9086	)	_
 60-75	9087-9088	.	_
 
+Text=After preprocessing, 28 and 14 subjects respectively from Datasets 1 and 2 were excluded due to a maximum displacement> 2 mm or a spin> 2° in any of the cardinal directions.
 61-1	9089-9094	After	_
 61-2	9095-9108	preprocessing	_
 61-3	9109-9110	,	_
@@ -1669,6 +1730,7 @@
 61-34	9254-9264	directions	_
 61-35	9265-9266	.	_
 
+Text=ROI definition Since cross-disorder PGRS indicates shared genetic risks for these five psychiatric disorders, brain regions that showed disruption in all five major psychiatric disorders were chosen as a ROI to investigate the associations between functional connectivity and cross-disorder PGRS and contributions of subscores for each of these five disorders to the cross-disorder impacts using resting-state fMRI.
 62-1	9267-9270	ROI	_
 62-2	9271-9281	definition	_
 62-3	9282-9287	Since	_
@@ -1729,6 +1791,7 @@
 62-58	9678-9682	fMRI	_
 62-59	9683-9684	.	_
 
+Text=We used statistical inference maps acquired from Neurosynth (http: //neurosynth.org/) to define the region of interest (ROI) for further functional connectivity analysis.
 63-1	9685-9687	We	_
 63-2	9688-9692	used	_
 63-3	9693-9704	statistical	_
@@ -1758,6 +1821,7 @@
 63-27	9851-9859	analysis	_
 63-28	9860-9861	.	_
 
+Text=We searched the meta-analysis results from Neurosynth (http: //neurosynth.org/) for the 5 major psychiatric disorders, separately using ADHD, autism, bipolar, depression, and schizophrenia as search terms.
 64-1	9862-9864	We	_
 64-2	9865-9873	searched	_
 64-3	9874-9877	the	_
@@ -1794,6 +1858,7 @@
 64-34	10069-10074	terms	_
 64-35	10075-10076	.	_
 
+Text=If a study used one of the searched keywords, we obtained statistical inference maps displaying z-scores according to the probability of a region's being activated.
 65-1	10077-10079	If	_
 65-2	10080-10081	a	_
 65-3	10082-10087	study	_
@@ -1823,6 +1888,7 @@
 65-27	10233-10242	activated	_
 65-28	10243-10244	.	_
 
+Text=In other words, these maps displayed the brain regions that were consistently activated in studies that loaded highly on a specific term.
 66-1	10245-10247	In	_
 66-2	10248-10253	other	_
 66-3	10254-10259	words	_
@@ -1848,6 +1914,7 @@
 66-23	10378-10382	term	_
 66-24	10383-10384	.	_
 
+Text=A large z-score means that this region was reported more often than expectation under the hypothesis that activations in the brain would be equally likely.
 67-1	10385-10386	A	_
 67-2	10387-10392	large	_
 67-3	10393-10400	z-score	_
@@ -1875,6 +1942,7 @@
 67-25	10533-10539	likely	_
 67-26	10540-10541	.	_
 
+Text=These maps were thresholded at a false discovery rate (FDR) of 0.01 (Fig.
 68-1	10542-10547	These	_
 68-2	10548-10552	maps	_
 68-3	10553-10557	were	_
@@ -1893,10 +1961,12 @@
 68-16	10614-10617	Fig	_
 68-17	10618-10619	.	_
 
+Text=1).
 69-1	10620-10621	1	_
 69-2	10622-10623	)	_
 69-3	10624-10625	.	_
 
+Text=The brain regions affected by all 5 disorders were defined as an ROI.
 70-1	10626-10629	The	_
 70-2	10630-10635	brain	_
 70-3	10636-10643	regions	_
@@ -1912,6 +1982,7 @@
 70-13	10691-10694	ROI	_
 70-14	10695-10696	.	_
 
+Text=This ROI primarily included the bilateral insula, which is reasonable since the insulae have been suggested as being affected by all five major psychiatric disorders.
 71-1	10697-10701	This	_
 71-2	10702-10705	ROI	_
 71-3	10706-10715	primarily	_
@@ -1940,6 +2011,7 @@
 71-26	10854-10863	disorders	_
 71-27	10864-10865	.	_
 
+Text=Then we resampled the voxel size of the ROI to 3 × 3 × 3 mm3 to match the voxel size of the fMRI images we acquired after preprocessing (Fig.
 72-1	10866-10870	Then	_
 72-2	10871-10873	we	_
 72-3	10874-10883	resampled	_
@@ -1973,10 +2045,12 @@
 72-31	11004-11007	Fig	_
 72-32	11008-11009	.	_
 
+Text=1).
 73-1	11010-11011	1	_
 73-2	11012-11013	)	_
 73-3	11014-11015	.	_
 
+Text=Functional connectivity calculation Based on the defined ROI, we calculated voxel-wise bilateral insular functional connectivity maps for each subject throughout the whole brain.
 74-1	11016-11026	Functional	_
 74-2	11027-11039	connectivity	_
 74-3	11040-11051	calculation	_
@@ -2003,6 +2077,7 @@
 74-24	11189-11194	brain	_
 74-25	11195-11196	.	_
 
+Text=These functional maps were calculated by computing the Pearson's correlation coefficient between the average BOLD time series in the ROI and the time series from all the voxels within a gray matter mask of the whole brain.
 75-1	11197-11202	These	_
 75-2	11203-11213	functional	_
 75-3	11214-11218	maps	_
@@ -2043,6 +2118,7 @@
 75-38	11414-11419	brain	_
 75-39	11420-11421	.	_
 
+Text=The correlations were transformed to a Gaussian distribution using Fisher's z-transformation.
 76-1	11422-11425	The	_
 76-2	11426-11438	correlations	_
 76-3	11439-11443	were	_
@@ -2057,6 +2133,7 @@
 76-12	11499-11515	z-transformation	_
 76-13	11516-11517	.	_
 
+Text=Statistical analysis We performed a second-level analysis using SPM12 (http: //www.fil.ion.ucl.ac.uk/spm/) with the subjects in the two independent datasets, separately.
 77-1	11518-11529	Statistical	_
 77-2	11530-11538	analysis	_
 77-3	11539-11541	We	_
@@ -2083,6 +2160,7 @@
 77-24	11680-11690	separately	_
 77-25	11691-11692	.	_
 
+Text=We applied a multiple regression model and voxel-wise t-test to test for significant correlations between the PGRSs and the voxel-wise functional connectivity.
 78-1	11693-11695	We	_
 78-2	11696-11703	applied	_
 78-3	11704-11705	a	_
@@ -2107,6 +2185,7 @@
 78-22	11839-11851	connectivity	_
 78-23	11852-11853	.	_
 
+Text=Age, sex, and the 3 top principle components were included in the model as covariates.
 79-1	11854-11857	Age	_
 79-2	11858-11859	,	_
 79-3	11860-11863	sex	_
@@ -2126,6 +2205,7 @@
 79-17	11931-11941	covariates	_
 79-18	11942-11943	.	_
 
+Text=To correct for multiple comparisons, an Alphasim algorithm implemented in REST was applied.
 80-1	11944-11946	To	_
 80-2	11947-11954	correct	_
 80-3	11955-11958	for	_
@@ -2142,6 +2222,7 @@
 80-14	12028-12035	applied	_
 80-15	12036-12037	.	_
 
+Text=Statistical maps were thresholded at a voxel-level of p <0.05 and cluster size> 90 voxels to reach a cluster-level significance of alpha <0.05.
 81-1	12038-12049	Statistical	_
 81-2	12050-12054	maps	_
 81-3	12055-12059	were	_
@@ -2170,6 +2251,7 @@
 81-26	12179-12183	0.05	_
 81-27	12184-12185	.	_
 
+Text=After correcting for multiple comparisons, we conducted conjunction analyses.
 82-1	12186-12191	After	_
 82-2	12192-12202	correcting	_
 82-3	12203-12206	for	_
@@ -2182,6 +2264,7 @@
 82-10	12255-12263	analyses	_
 82-11	12264-12265	.	_
 
+Text=First we performed a conjunction analysis to find consistent functional connectivity alterations associated with cross-disorder PGRS between these two datasets.
 83-1	12266-12271	First	_
 83-2	12272-12274	we	_
 83-3	12275-12284	performed	_
@@ -2204,6 +2287,7 @@
 83-20	12417-12425	datasets	_
 83-21	12426-12427	.	_
 
+Text=Then we conducted another two conjunction analyses to find disorder-specific functional connectivity alterations, first performing a conjunction analysis for each dataset to find disorder-specific functional connectivity alterations and then conducting the second conjunction analysis to find consistent disorder-specific functional connectivity patterns with the bilateral insula in both datasets.
 84-1	12428-12432	Then	_
 84-2	12433-12435	we	_
 84-3	12436-12445	conducted	_
@@ -2255,6 +2339,7 @@
 84-49	12818-12826	datasets	_
 84-50	12827-12828	.	_
 
+Text=Clusters larger than 10 voxels were retained.
 85-1	12829-12837	Clusters	_
 85-2	12838-12844	larger	_
 85-3	12845-12849	than	_
@@ -2264,6 +2349,7 @@
 85-7	12865-12873	retained	_
 85-8	12874-12875	.	_
 
+Text=Then to find whether PGRSs calculated using other thresholds produce similar results, we conducted the same analysis as above using PGRS calculated with PT <0.01, 0.1 and 0.5 separately, but only considering the significant voxels at PT <0.05, not the voxels in the whole brain.
 86-1	12876-12880	Then	_
 86-2	12881-12883	to	_
 86-3	12884-12888	find	_
@@ -2317,6 +2403,7 @@
 86-51	13154-13159	brain	_
 86-52	13160-13161	.	_
 
+Text=To correct for multiple comparisons, an Alphasim algorithm implemented in REST was applied.
 87-1	13162-13164	To	_
 87-2	13165-13172	correct	_
 87-3	13173-13176	for	_
@@ -2333,6 +2420,7 @@
 87-14	13246-13253	applied	_
 87-15	13254-13255	.	_
 
+Text=Statistical maps were thresholded at a voxel-level of p <0.05 and cluster size> 12 voxels for autism, 9 voxels for BD and 7 voxels for schizophrenia to reach a cluster-level significance of alpha <0.05.
 88-1	13256-13267	Statistical	_
 88-2	13268-13272	maps	_
 88-3	13273-13277	were	_

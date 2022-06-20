@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=The Role of Diversity in Data-driven Analyses of Multi-subject fMRI Data Data-driven methods have been widely used in functional magnetic resonance imaging (fMRI) data analysis.
 1-1	0-3	The	_
 1-2	4-8	Role	_
 1-3	9-11	of	_
@@ -31,6 +32,7 @@
 1-27	170-178	analysis	_
 1-28	179-180	.	_
 
+Text=They extract latent factors, generally, through the use of a simple generative model.
 2-1	181-185	They	_
 2-2	186-193	extract	_
 2-3	194-200	latent	_
@@ -48,6 +50,7 @@
 2-15	262-267	model	_
 2-16	268-269	.	_
 
+Text=Independent component analysis (ICA) and dictionary learning (DL) are two popular data-driven methods that are based on two different forms of diversity—statistical properties of the data—statistical independence for ICA and sparsity for DL.
 3-1	270-281	Independent	_
 3-2	282-291	component	_
 3-3	292-300	analysis	_
@@ -87,6 +90,7 @@
 3-37	512-514	DL	_
 3-38	515-516	.	_
 
+Text=Despite their popularity, the comparative advantage of emphasizing one property over another in the decomposition of fMRI data is not well understood.
 4-1	517-524	Despite	_
 4-2	525-530	their	_
 4-3	531-541	popularity	_
@@ -112,6 +116,7 @@
 4-23	657-667	understood	_
 4-24	668-669	.	_
 
+Text=Such a comparison is made harder due to the differences in the modeling assumptions between ICA and DL, as well as within different ICA algorithms where different algorithms exploit different forms of diversity.
 5-1	670-674	Such	_
 5-2	675-676	a	_
 5-3	677-687	comparison	_
@@ -148,6 +153,7 @@
 5-34	872-881	diversity	_
 5-35	882-883	.	_
 
+Text=In this paper, we propose the use of objective global measures, such as time course frequency power ratio, network connection summary and graph-theoretical metrics, to gain insight into the role that different types of diversity have on the analyses of fMRI data.
 6-1	884-886	In	_
 6-2	887-891	this	_
 6-3	892-897	paper	_
@@ -196,6 +202,7 @@
 6-46	1146-1150	data	_
 6-47	1151-1152	.	_
 
+Text=Four ICA algorithms that account for different types of diversity and one DL algorithm are studied.
 7-1	1153-1157	Four	_
 7-2	1158-1161	ICA	_
 7-3	1162-1172	algorithms	_
@@ -214,6 +221,7 @@
 7-16	1244-1251	studied	_
 7-17	1252-1253	.	_
 
+Text=We apply these algorithms to real fMRI data collected from patients with schizophrenia and healthy controls.
 8-1	1254-1256	We	_
 8-2	1257-1262	apply	_
 8-3	1263-1268	these	_
@@ -232,6 +240,7 @@
 8-16	1353-1361	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 8-17	1362-1363	.	_
 
+Text=Our results suggest that no one particular method has the best performance using all metrics, implying that the optimal method will change depending on the goal of the analysis.
 9-1	1364-1367	Our	_
 9-2	1368-1375	results	_
 9-3	1376-1383	suggest	_
@@ -264,6 +273,7 @@
 9-30	1533-1541	analysis	_
 9-31	1542-1543	.	_
 
+Text=However, we note that there is no scenario where the popular Infomax has the best performance, demonstrating the cost to of exploiting fewer forms of diversity.
 10-1	1544-1551	However	_
 10-2	1552-1553	,	_
 10-3	1554-1556	we	_
@@ -294,6 +304,7 @@
 10-28	1696-1705	diversity	_
 10-29	1706-1707	.	_
 
+Text=Materials and methods Data acquisition The data used in this study is a resting state fMRI data from the Center of Biomedical Research Excellence (COBRE), which is available on the collaborative informatics and neuroimaging suite data exchange repository (http: //coins.mrn.org/dx),.
 11-1	1708-1717	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	1718-1721	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	1722-1729	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -343,6 +354,7 @@
 11-47	1996-1997	,	_
 11-48	1998-1999	.	_
 
+Text=The data includes 88 SZs (average age: 37 ± 14) and 91 HCs (average age: 38 ± 12).
 12-1	2000-2003	The	_
 12-2	2004-2008	data	_
 12-3	2009-2017	includes	_
@@ -369,6 +381,7 @@
 12-24	2086-2087	)	_
 12-25	2088-2089	.	_
 
+Text=All images were collected on a single 3-Tesla Siemens Trio scanner with a 12-channel radio frequency coil using the following parameters: TE = 29 ms, TR = 2 s, flip angle = 75°, slice thickness = 3.5 mm, slice gap = 1.05 mm, voxel size 3.75 × 3.75 × 4.55 mm3.
 13-1	2090-2093	All	_
 13-2	2094-2100	images	_
 13-3	2101-2105	were	_
@@ -428,6 +441,7 @@
 13-57	2351-2354	mm3	_
 13-58	2355-2356	.	_
 
+Text=Participants were instructed to keep their eyes open during the scan and stare passively at a central fixation cross.
 14-1	2357-2369	Participants	_
 14-2	2370-2374	were	_
 14-3	2375-2385	instructed	_
@@ -449,6 +463,7 @@
 14-19	2468-2473	cross	_
 14-20	2474-2475	.	_
 
+Text=Each resting state scan consists of 150 volumes.
 15-1	2476-2480	Each	_
 15-2	2481-2488	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 15-3	2489-2494	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -459,6 +474,7 @@
 15-8	2516-2523	volumes	_
 15-9	2524-2525	.	_
 
+Text=To eliminate the T1-related signal fluctuations (T1 effect), the first 6 volumes are removed in this study, thus 144 volumes remain for each subject.
 16-1	2526-2528	To	_
 16-2	2529-2538	eliminate	_
 16-3	2539-2542	the	_
@@ -489,6 +505,7 @@
 16-28	2671-2678	subject	_
 16-29	2679-2680	.	_
 
+Text=The fMRI data are realigned with INRIalign algorithm, slice-timing correction is applied using the middle slice as the reference frame in the functional data pipeline and spatially normalized to the standard Montreal Neurological Institute space and resampled to 3 × 3 × 3 mm3, resulting in 53 × 63 × 46 voxels.
 17-1	2681-2684	The	_
 17-2	2685-2689	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 17-3	2690-2694	data	_
@@ -545,6 +562,7 @@
 17-54	2987-2993	voxels	_
 17-55	2994-2995	.	_
 
+Text=Afterwards, the fMRI data are smoothed using a Gaussian kernel with a full-width at half-maximum of 10 mm.
 18-1	2996-3006	Afterwards	_
 18-2	3007-3008	,	_
 18-3	3009-3012	the	_
@@ -566,6 +584,7 @@
 18-19	3100-3102	mm	_
 18-20	3103-3104	.	_
 
+Text=Group ICA The group ICA framework enables analysis of fMRI data from multiple subjects.
 19-1	3105-3110	Group	_
 19-2	3111-3114	ICA	_
 19-3	3115-3118	The	_
@@ -582,6 +601,7 @@
 19-14	3183-3191	subjects	_
 19-15	3192-3193	.	_
 
+Text=Let the observed fMRI data from the kth subject be denoted by, 1 ≤ k ≤ K, where T denotes the number of time points and V denotes the number of voxels.
 20-1	3194-3197	Let	_
 20-2	3198-3201	the	_
 20-3	3202-3210	observed	_
@@ -618,6 +638,7 @@
 20-34	3340-3346	voxels	_
 20-35	3347-3348	.	_
 
+Text=To reduce the contamination from noise, principal component analysis (PCA), using an order suggested by the entropy rate based order selection technique described in, is employed to reduce the dimension of the data for each subject.
 21-1	3349-3351	To	_
 21-2	3352-3358	reduce	_
 21-3	3359-3362	the	_
@@ -661,6 +682,7 @@
 21-41	3578-3585	subject	_
 21-42	3586-3587	.	_
 
+Text=The order estimation method proposed in takes sample dependence into consideration without downsampling, which leads to improved estimation of the signal subspace.
 22-1	3588-3591	The	_
 22-2	3592-3597	order	_
 22-3	3598-3608	estimation	_
@@ -686,6 +708,7 @@
 22-23	3743-3751	subspace	_
 22-24	3752-3753	.	_
 
+Text=For each subject, the dimension of is reduced from T to T′, computed as, where † represents the pseudoinverse and is the subject level reduction matrix, whose columns are the eigenvectors of and the reduced data is.
 23-1	3754-3757	For	_
 23-2	3758-3762	each	_
 23-3	3763-3770	subject	_
@@ -729,6 +752,7 @@
 23-41	3970-3972	is	_
 23-42	3973-3974	.	_
 
+Text=The reduced data matrix, X [k], consists of the first T′ principal components of that represent the informative signals from the kth subject.
 24-1	3975-3978	The	_
 24-2	3979-3986	reduced	_
 24-3	3987-3991	data	_
@@ -758,6 +782,7 @@
 24-27	4112-4119	subject	_
 24-28	4120-4121	.	_
 
+Text=It is assumed that the subjects share a common component subspace.
 25-1	4122-4124	It	_
 25-2	4125-4127	is	_
 25-3	4128-4135	assumed	_
@@ -771,6 +796,7 @@
 25-11	4179-4187	subspace	_
 25-12	4188-4189	.	_
 
+Text=In order to estimate the common signals across subjects, the datasets are temporally concatenated to form a single data matrix, which is then reduced to by a group level PCA,, with as the group level reduction matrix and N as the order for the common observation subspace.
 26-1	4190-4192	In	_
 26-2	4193-4198	order	_
 26-3	4199-4201	to	_
@@ -824,6 +850,7 @@
 26-51	4457-4465	subspace	_
 26-52	4466-4467	.	_
 
+Text=Group components are then estimated by performing ICA on the common group subspace Y, where is the mixing matrix.
 27-1	4468-4473	Group	_
 27-2	4474-4484	components	_
 27-3	4485-4488	are	_
@@ -846,6 +873,7 @@
 27-20	4575-4581	matrix	_
 27-21	4582-4583	.	_
 
+Text=ICA seeks to find a group demixing matrix, W, such that the estimated sources are obtained as.
 28-1	4584-4587	ICA	_
 28-2	4588-4593	seeks	_
 28-3	4594-4596	to	_
@@ -867,6 +895,7 @@
 28-19	4677-4679	as	_
 28-20	4680-4681	.	_
 
+Text=The use of a single ICA on the common subspace of all datasets helps to preserve the order of the components across subjects.
 29-1	4682-4685	The	_
 29-2	4686-4689	use	_
 29-3	4690-4692	of	_
@@ -892,6 +921,7 @@
 29-23	4798-4806	subjects	_
 29-24	4807-4808	.	_
 
+Text=Following the completion of ICA, back-reconstruction is performed on to generate the corresponding subject-specific source estimates.
 30-1	4809-4818	Following	_
 30-2	4819-4822	the	_
 30-3	4823-4833	completion	_
@@ -911,6 +941,7 @@
 30-17	4933-4942	estimates	_
 30-18	4943-4944	.	_
 
+Text=In order to obtain the back-reconstructed signals,, the group level reduction matrix G† is blocked by columns, G† = [(G [1]) †, (G [2]) †, ⋯, (G [K]) †] with and, is reconstructed using, and the corresponding subject-specific time courses are obtained using.
 31-1	4945-4947	In	_
 31-2	4948-4953	order	_
 31-3	4954-4956	to	_
@@ -978,6 +1009,7 @@
 31-65	5219-5224	using	_
 31-66	5225-5226	.	_
 
+Text=Independence-based ICA: Algorithm choice The differences in separation performance for separate ICA algorithms, such as Infomax, EBM and ERBM, are related to differences in their assumed latent source models.
 32-1	5227-5245	Independence-based	_
 32-2	5246-5249	ICA	_
 32-3	5250-5251	:	_
@@ -1013,6 +1045,7 @@
 32-33	5432-5438	models	_
 32-34	5439-5440	.	_
 
+Text=In order to estimate the demixing matrix W, Infomax and EBM equivalently aim at minimizing the mutual information between the source estimates.
 33-1	5441-5443	In	_
 33-2	5444-5449	order	_
 33-3	5450-5452	to	_
@@ -1038,6 +1071,7 @@
 33-23	5575-5584	estimates	_
 33-24	5585-5586	.	_
 
+Text=The corresponding cost function is where H (·) = −E [logp (·)] refers to (differential) entropy of a random variable, with p referring to the probability density function (PDF) of corresponding variable.
 34-1	5587-5590	The	_
 34-2	5591-5604	corresponding	_
 34-3	5605-5609	cost	_
@@ -1083,6 +1117,7 @@
 34-43	5792-5800	variable	_
 34-44	5801-5802	.	_
 
+Text=The last term H (Y) is a constant as it is independent of W. Estimation of the PDF of sources is a crucial task.
 35-1	5803-5806	The	_
 35-2	5807-5811	last	_
 35-3	5812-5816	term	_
@@ -1111,6 +1146,7 @@
 35-26	5912-5916	task	_
 35-27	5917-5918	.	_
 
+Text=To resolve this task, Infomax takes only the diversity of higher-order statistics into consideration using a distribution model implied by a fixed sigmoidal nonlinearity.
 36-1	5919-5921	To	_
 36-2	5922-5929	resolve	_
 36-3	5930-5934	this	_
@@ -1138,6 +1174,7 @@
 36-25	6077-6089	nonlinearity	_
 36-26	6090-6091	.	_
 
+Text=This fixed nonlinearity is a good match for very focal regions of activation, however it might significantly bias latent sources relating to broad regions, such as the default mode network (DMN).
 37-1	6092-6096	This	_
 37-2	6097-6102	fixed	_
 37-3	6103-6115	nonlinearity	_
@@ -1175,6 +1212,7 @@
 37-35	6289-6290	)	_
 37-36	6291-6292	.	_
 
+Text=In contrast to Infomax, EBM does not assume one specific distribution for the latent sources but instead attempts to upper bound their entropy through the use of several measuring functions.
 38-1	6293-6295	In	_
 38-2	6296-6304	contrast	_
 38-3	6305-6307	to	_
@@ -1208,6 +1246,7 @@
 38-31	6474-6483	functions	_
 38-32	6484-6485	.	_
 
+Text=Each of these functions provides bounds on the entropy, with the tightest bound being closest to the true entropy.
 39-1	6486-6490	Each	_
 39-2	6491-6493	of	_
 39-3	6494-6499	these	_
@@ -1230,6 +1269,7 @@
 39-20	6593-6600	entropy	_
 39-21	6601-6602	.	_
 
+Text=The use of these measuring functions makes it possible to match a wide variety of distributions, including those that are sub-Gaussian, super-Gaussian, unimodal, bimodal, symmetric, as well as skewed, thus potentially leading to more accurate estimation of the latent sources.
 40-1	6603-6606	The	_
 40-2	6607-6610	use	_
 40-3	6611-6613	of	_
@@ -1279,6 +1319,7 @@
 40-47	6878-6885	sources	_
 40-48	6886-6887	.	_
 
+Text=Instead of bounding the entropy of latent sources, ERBM attempts to bound their entropy rate using measuring functions.
 41-1	6888-6895	Instead	_
 41-2	6896-6898	of	_
 41-3	6899-6907	bounding	_
@@ -1300,6 +1341,7 @@
 41-19	6998-7007	functions	_
 41-20	7008-7009	.	_
 
+Text=The cost function, thus, is given by where refers to the entropy rate of, thus the cost function becomes the mutual information rate between the source estimates.
 42-1	7010-7013	The	_
 42-2	7014-7018	cost	_
 42-3	7019-7027	function	_
@@ -1332,6 +1374,7 @@
 42-30	7165-7174	estimates	_
 42-31	7175-7176	.	_
 
+Text=Note that the third term Hr (Y) is a constant and wont be counted in optimization.
 43-1	7177-7181	Note	_
 43-2	7182-7186	that	_
 43-3	7187-7190	the	_
@@ -1352,6 +1395,7 @@
 43-18	7248-7260	optimization	_
 43-19	7261-7262	.	_
 
+Text=By calculating the entropy rate of sources, one more type of diversity, namely, sample dependence, is taken into consideration.
 44-1	7263-7265	By	_
 44-2	7266-7277	calculating	_
 44-3	7278-7281	the	_
@@ -1377,6 +1421,7 @@
 44-23	7380-7393	consideration	_
 44-24	7394-7395	.	_
 
+Text=Since EBM and ERBM relax the assumptions placed on the fMRI sources by assuming flexible source distributions, they are expected to provide improved performance over Infomax.
 45-1	7396-7401	Since	_
 45-2	7402-7405	EBM	_
 45-3	7406-7409	and	_
@@ -1406,6 +1451,7 @@
 45-27	7563-7570	Infomax	_
 45-28	7571-7572	.	_
 
+Text=Additionally, ERBM is expected to have superior performance over EBM as well as Infomax, since it takes advantage of the underlying properties of the fMRI components, namely, higher-order statistics and voxel-wise dependence.
 46-1	7573-7585	Additionally	_
 46-2	7586-7587	,	_
 46-3	7588-7592	ERBM	_
@@ -1444,6 +1490,7 @@
 46-36	7791-7801	dependence	_
 46-37	7802-7803	.	_
 
+Text=Sparsity-based DL DL is one of the data-driven method that only takes the sparsity of latent sources into consideration.
 47-1	7804-7818	Sparsity-based	_
 47-2	7819-7821	DL	_
 47-3	7822-7824	DL	_
@@ -1465,6 +1512,7 @@
 47-19	7910-7923	consideration	_
 47-20	7924-7925	.	_
 
+Text=Recently, it has been successfully applied to fMRI data analysis,.
 48-1	7926-7934	Recently	_
 48-2	7935-7936	,	_
 48-3	7937-7939	it	_
@@ -1479,6 +1527,7 @@
 48-12	7992-7993	,	_
 48-13	7994-7995	.	_
 
+Text=DL expresses the observations as sparse combinations of the atoms (columns) in a dictionary, seeking to estimate the latent sources that is conveyed in the sparse loadings.
 49-1	7996-7998	DL	_
 49-2	7999-8008	expresses	_
 49-3	8009-8012	the	_
@@ -1511,6 +1560,7 @@
 49-30	8162-8170	loadings	_
 49-31	8171-8172	.	_
 
+Text=The cost of DL procedure is given by where are the spatial maps,, and λ is the regularization parameter.
 50-1	8173-8176	The	_
 50-2	8177-8181	cost	_
 50-3	8182-8184	of	_
@@ -1534,6 +1584,7 @@
 50-21	8269-8278	parameter	_
 50-22	8279-8280	.	_
 
+Text=The DL algorithm used in this work achieves the decomposition using an online optimization algorithm, making it suitable for large datasets with millions of samples.
 51-1	8281-8284	The	_
 51-2	8285-8287	DL	_
 51-3	8288-8297	algorithm	_
@@ -1562,6 +1613,7 @@
 51-26	8439-8446	samples	_
 51-27	8447-8448	.	_
 
+Text=Balancing independence and sparsity Due to the desirable performance of methods that take either sparsity or independence into account, recently, a unified mathematical framework is proposed to account for both independence and sparsity of sources by incorporating a sparsity term into the cost function of ICA,.
 52-1	8449-8458	Balancing	_
 52-2	8459-8471	independence	_
 52-3	8472-8475	and	_
@@ -1613,6 +1665,7 @@
 52-49	8762-8763	,	_
 52-50	8764-8765	.	_
 
+Text=EBM is utilized to demonstrate its application and the corresponding algorithm is referred to as SparseICA-EBM.
 53-1	8766-8769	EBM	_
 53-2	8770-8772	is	_
 53-3	8773-8781	utilized	_
@@ -1631,6 +1684,7 @@
 53-16	8863-8876	SparseICA-EBM	_
 53-17	8877-8878	.	_
 
+Text=The cost function of SparseICA-EBM is constructed of two terms, i.e., an independence term and a sparsity term.
 54-1	8879-8882	The	_
 54-2	8883-8887	cost	_
 54-3	8888-8896	function	_
@@ -1653,6 +1707,7 @@
 54-20	8987-8991	term	_
 54-21	8992-8993	.	_
 
+Text=The independence refers to (2) and the sparsity is written as the summation of the regularization function of all estimates.
 55-1	8994-8997	The	_
 55-2	8998-9010	independence	_
 55-3	9011-9017	refers	_
@@ -1677,6 +1732,7 @@
 55-22	9110-9119	estimates	_
 55-23	9120-9121	.	_
 
+Text=The final cost function is given by where is the regularization term with respect to the nth source estimate, λn is the sparsity parameter and ϵn is the smoothing parameter.
 56-1	9122-9125	The	_
 56-2	9126-9131	final	_
 56-3	9132-9136	cost	_
@@ -1710,6 +1766,7 @@
 56-31	9286-9295	parameter	_
 56-32	9296-9297	.	_
 
+Text=The third term in (2) is removed here since it is a constant with respect to W. From the cost function we can see that different sparsity and smoothing parameters enable different estimates.
 57-1	9298-9301	The	_
 57-2	9302-9307	third	_
 57-3	9308-9312	term	_
@@ -1747,6 +1804,7 @@
 57-35	9480-9489	estimates	_
 57-36	9490-9491	.	_
 
+Text=Parameter selection One important parameter in the application of an ICA algorithm is the model order, i.e., the number of common signals, N. However, for fMRI data, classical order estimation techniques based on information theoretic criteria may overestimate the order due to the inherent sample dependence of fMRI data,.
 58-1	9492-9501	Parameter	_
 58-2	9502-9511	selection	_
 58-3	9512-9515	One	_
@@ -1804,6 +1862,7 @@
 58-55	9819-9820	,	_
 58-56	9821-9822	.	_
 
+Text=A common way to overcome this issue is by using downsampling to obtain effectively independent and identically distributed samples,.
 59-1	9823-9824	A	_
 59-2	9825-9831	common	_
 59-3	9832-9835	way	_
@@ -1826,6 +1885,7 @@
 59-20	9954-9955	,	_
 59-21	9956-9957	.	_
 
+Text=Unfortunately, methods based on downsampling suffer from a loss of information associated with the downsampling.
 60-1	9958-9971	Unfortunately	_
 60-2	9972-9973	,	_
 60-3	9974-9981	methods	_
@@ -1844,6 +1904,7 @@
 60-16	10058-10070	downsampling	_
 60-17	10071-10072	.	_
 
+Text=More recently, two entropy rate (ER) -based order estimation techniques are proposed that account for sample dependence without the use of downsampling: ER using a finite memory length model (ER-FM) and ER using an autoregressive model (ER-AR).
 61-1	10073-10077	More	_
 61-2	10078-10086	recently	_
 61-3	10087-10088	,	_
@@ -1891,6 +1952,7 @@
 61-45	10323-10324	)	_
 61-46	10325-10326	.	_
 
+Text=Therefore, these two methods are used in this paper to estimate the number of common signals.
 62-1	10327-10336	Therefore	_
 62-2	10337-10338	,	_
 62-3	10339-10344	these	_
@@ -1910,6 +1972,7 @@
 62-17	10413-10420	signals	_
 62-18	10421-10422	.	_
 
+Text=As introduced above, SparseICA-EBM seeks to achieve the decomposition by assuming both independence and sparsity using a sparsity parameter λn, which enables the sparse solution for the nth source,.
 63-1	10423-10425	As	_
 63-2	10426-10436	introduced	_
 63-3	10437-10442	above	_
@@ -1944,6 +2007,7 @@
 63-32	10622-10623	,	_
 63-33	10624-10625	.	_
 
+Text=The balance between independence and sparsity can be adjusted by tuning λn.
 64-1	10626-10629	The	_
 64-2	10630-10637	balance	_
 64-3	10638-10645	between	_
@@ -1958,6 +2022,7 @@
 64-12	10698-10700	λn	_
 64-13	10701-10702	.	_
 
+Text=Smaller λn in (5) emphasizes independence more, and larger λn places greater weight on sparsity.
 65-1	10703-10710	Smaller	_
 65-2	10711-10713	λn	_
 65-3	10714-10716	in	_
@@ -1978,6 +2043,7 @@
 65-18	10793-10801	sparsity	_
 65-19	10802-10803	.	_
 
+Text=Another parameter for SparseICA-EBM is the smoothing parameter ϵn.
 66-1	10804-10811	Another	_
 66-2	10812-10821	parameter	_
 66-3	10822-10825	for	_
@@ -1989,6 +2055,7 @@
 66-9	10867-10869	ϵn	_
 66-10	10870-10871	.	_
 
+Text=In (5), the regularization term of sparsity was originally, which is non-differentiable.
 67-1	10872-10874	In	_
 67-2	10875-10876	(	_
 67-3	10877-10878	5	_
@@ -2007,6 +2074,7 @@
 67-16	10945-10963	non-differentiable	_
 67-17	10964-10965	.	_
 
+Text=To resolve this issue, it is replaced by the sum of multi-quadratic functions, as given by (6).
 68-1	10966-10968	To	_
 68-2	10969-10976	resolve	_
 68-3	10977-10981	this	_
@@ -2030,6 +2098,7 @@
 68-21	11063-11064	)	_
 68-22	11065-11066	.	_
 
+Text=Higher smoothing parameter ϵn will help to produce smoother sources.
 69-1	11067-11073	Higher	_
 69-2	11074-11083	smoothing	_
 69-3	11084-11093	parameter	_
@@ -2042,6 +2111,7 @@
 69-10	11127-11134	sources	_
 69-11	11135-11136	.	_
 
+Text=However, the effect of this parameter with application to fMRI data analysis has not been explored.
 70-1	11137-11144	However	_
 70-2	11145-11146	,	_
 70-3	11147-11150	the	_
@@ -2061,6 +2131,7 @@
 70-17	11228-11236	explored	_
 70-18	11237-11238	.	_
 
+Text=For this reason, in this work, different values of λn and ϵn are considered.
 71-1	11239-11242	For	_
 71-2	11243-11247	this	_
 71-3	11248-11254	reason	_
@@ -2079,6 +2150,7 @@
 71-16	11306-11316	considered	_
 71-17	11317-11318	.	_
 
+Text=Similarly, an appropriate value should be set for the regularization parameter λ for DL.
 72-1	11319-11328	Similarly	_
 72-2	11329-11330	,	_
 72-3	11331-11333	an	_
@@ -2096,6 +2168,7 @@
 72-15	11405-11407	DL	_
 72-16	11408-11409	.	_
 
+Text=The analytic link between λ and the corresponding effective sparsity of is not clearly investigated.
 73-1	11410-11413	The	_
 73-2	11414-11422	analytic	_
 73-3	11423-11427	link	_
@@ -2113,6 +2186,7 @@
 73-15	11497-11509	investigated	_
 73-16	11510-11511	.	_
 
+Text=The performance of DL is highly dependent on the selection of λ for the tradeoff between accuracy and sparsity.
 74-1	11512-11515	The	_
 74-2	11516-11527	performance	_
 74-3	11528-11530	of	_
@@ -2134,6 +2208,7 @@
 74-19	11614-11622	sparsity	_
 74-20	11623-11624	.	_
 
+Text=There has been no clear guidance for the choice of λ in real world applications.
 75-1	11625-11630	There	_
 75-2	11631-11634	has	_
 75-3	11635-11639	been	_
@@ -2151,6 +2226,7 @@
 75-15	11692-11704	applications	_
 75-16	11705-11706	.	_
 
+Text=Hence, in this work, we investigate the influence of different values of λ on the performance for our relatively large real fMRI data.
 76-1	11707-11712	Hence	_
 76-2	11713-11714	,	_
 76-3	11715-11717	in	_
@@ -2178,6 +2254,7 @@
 76-25	11838-11842	data	_
 76-26	11843-11844	.	_
 
+Text=There is another key parameter for DL in practice, the number of atoms in dictionary.
 77-1	11845-11850	There	_
 77-2	11851-11853	is	_
 77-3	11854-11861	another	_
@@ -2196,6 +2273,7 @@
 77-16	11920-11930	dictionary	_
 77-17	11931-11932	.	_
 
+Text=As we are seeking to compare the performance of ICA algorithms and DL algorithm, to make it easier for implementation, we set the atom number to be the same with the number of latent sources that is estimated for ICA.
 78-1	11933-11935	As	_
 78-2	11936-11938	we	_
 78-3	11939-11942	are	_
@@ -2240,6 +2318,7 @@
 78-42	12148-12151	ICA	_
 78-43	12152-12153	.	_
 
+Text=Global metrics for performance evaluation To compare the performance of these five algorithms, proper measures are needed.
 79-1	12154-12160	Global	_
 79-2	12161-12168	metrics	_
 79-3	12169-12172	for	_
@@ -2260,6 +2339,7 @@
 79-18	12270-12276	needed	_
 79-19	12277-12278	.	_
 
+Text=Since it can be difficult to exactly match all of the estimated components across different algorithms, it is hard to directly compare algorithmic performance on real fMRI data.
 80-1	12279-12284	Since	_
 80-2	12285-12287	it	_
 80-3	12288-12291	can	_
@@ -2291,6 +2371,7 @@
 80-29	12452-12456	data	_
 80-30	12457-12458	.	_
 
+Text=In order to resolve this issue, we propose the use of global measures to compare the performances of data-driven algorithms on real data.
 81-1	12459-12461	In	_
 81-2	12462-12467	order	_
 81-3	12468-12470	to	_
@@ -2317,6 +2398,7 @@
 81-24	12592-12596	data	_
 81-25	12597-12598	.	_
 
+Text=Following are three global measures that are used.
 82-1	12599-12608	Following	_
 82-2	12609-12612	are	_
 82-3	12613-12618	three	_
@@ -2327,6 +2409,7 @@
 82-8	12644-12648	used	_
 82-9	12649-12650	.	_
 
+Text=Frequency analysis: The first global measure of data-driven algorithmic performance on real fMRI data is the ratio of time course power spectra in low-frequency band (<0.1Hz) to the high-frequency band (> 0.15 Hz) for each IC.
 83-1	12651-12660	Frequency	_
 83-2	12661-12669	analysis	_
 83-3	12670-12671	:	_
@@ -2371,6 +2454,7 @@
 83-42	12880-12882	IC	_
 83-43	12883-12884	.	_
 
+Text=Since the activation in the components is due to the BOLD response, which corresponds to the low frequencies, the higher power ratios implies that the components are more closely associated with true neural function.
 84-1	12885-12890	Since	_
 84-2	12891-12894	the	_
 84-3	12895-12905	activation	_
@@ -2409,6 +2493,7 @@
 84-36	13094-13102	function	_
 84-37	13103-13104	.	_
 
+Text=Conversely, the lower the ratio, the more likely the component is to be describing cardiac or respiratory noise as opposed to true BOLD activation,.
 85-1	13105-13115	Conversely	_
 85-2	13116-13117	,	_
 85-3	13118-13121	the	_
@@ -2438,6 +2523,7 @@
 85-27	13254-13255	,	_
 85-28	13256-13257	.	_
 
+Text=Network connection summary: Another global measure of the performance is network connection summary.
 86-1	13258-13265	Network	_
 86-2	13266-13276	connection	_
 86-3	13277-13284	summary	_
@@ -2454,6 +2540,7 @@
 86-14	13351-13358	summary	_
 86-15	13359-13360	.	_
 
+Text=Prior to the construction of network connection summary, for each algorithm, M ICs out of N that refer to brain functional networks are selected based on their time course power ratio and visual inspection.
 87-1	13361-13366	Prior	_
 87-2	13367-13369	to	_
 87-3	13370-13373	the	_
@@ -2492,6 +2579,7 @@
 87-36	13558-13568	inspection	_
 87-37	13569-13570	.	_
 
+Text=First, all the components are separated into two categories, one containing those with time course power ratio higher than 3, and the other containing the remaining ones.
 88-1	13571-13576	First	_
 88-2	13577-13578	,	_
 88-3	13579-13582	all	_
@@ -2524,6 +2612,7 @@
 88-30	13739-13743	ones	_
 88-31	13744-13745	.	_
 
+Text=After that, through visual inspection the components with large edge effects and ventricles are removed from the first category, and those with low power ratio but obviously refer to meaningful network are put back to the first category, which is finally used for network connection analysis.
 89-1	13746-13751	After	_
 89-2	13752-13756	that	_
 89-3	13757-13758	,	_
@@ -2575,6 +2664,7 @@
 89-49	14032-14040	analysis	_
 89-50	14041-14042	.	_
 
+Text=Using time course power ratio to separate components into two categories in the first step will significantly reduce the difficulty of visual inspection in the second step.
 90-1	14043-14048	Using	_
 90-2	14049-14053	time	_
 90-3	14054-14060	course	_
@@ -2604,6 +2694,7 @@
 90-27	14210-14214	step	_
 90-28	14215-14216	.	_
 
+Text=For ICA algorithms, though they assume that the latent sources are fully independent, following the performance of ICA the extracted ICs generally have some dependence due to their functional relevance.
 91-1	14217-14220	For	_
 91-2	14221-14224	ICA	_
 91-3	14225-14235	algorithms	_
@@ -2638,6 +2729,7 @@
 91-32	14411-14420	relevance	_
 91-33	14421-14422	.	_
 
+Text=Consequently, after identifying the functional networks that are conveyed in the ICs, we estimate the brain connectivity by calculating the full-order statistical dependence, mutual information (MI), among them.
 92-1	14423-14435	Consequently	_
 92-2	14436-14437	,	_
 92-3	14438-14443	after	_
@@ -2674,6 +2766,7 @@
 92-34	14635-14639	them	_
 92-35	14640-14641	.	_
 
+Text=The functional connectivity is constructed using normalized MI,, as the measure.
 93-1	14642-14645	The	_
 93-2	14646-14656	functional	_
 93-3	14657-14669	connectivity	_
@@ -2689,6 +2782,7 @@
 93-13	14716-14723	measure	_
 93-14	14724-14725	.	_
 
+Text=The normalized MI is given by where is the MI between two estimated components and.
 94-1	14726-14729	The	_
 94-2	14730-14740	normalized	_
 94-3	14741-14743	MI	_
@@ -2706,6 +2800,7 @@
 94-15	14805-14808	and	_
 94-16	14809-14810	.	_
 
+Text=The performance of three Shannon entropy based MI estimation methods, k-nearest neighborhood, analytical formula corresponding in the chosen exponential family and Parzen window based method is investigated.
 95-1	14811-14814	The	_
 95-2	14815-14826	performance	_
 95-3	14827-14829	of	_
@@ -2737,6 +2832,7 @@
 95-29	15007-15019	investigated	_
 95-30	15020-15021	.	_
 
+Text=The former two methods are from information theoretical estimators (ITE) toolbox (https: //bitbucket.org/szzoli/ite/).
 96-1	15022-15025	The	_
 96-2	15026-15032	former	_
 96-3	15033-15036	two	_
@@ -2757,6 +2853,7 @@
 96-18	15143-15144	)	_
 96-19	15145-15146	.	_
 
+Text=Our exploration shows that for super-Gaussian variable, the method proposed in performs the best, and it is used in our work.
 97-1	15147-15150	Our	_
 97-2	15151-15162	exploration	_
 97-3	15163-15168	shows	_
@@ -2782,6 +2879,7 @@
 97-23	15269-15273	work	_
 97-24	15274-15275	.	_
 
+Text=After the normalization, the connectivity between two similar sources would be close to 1 and that of two dissimilar sources would be close to 0.
 98-1	15276-15281	After	_
 98-2	15282-15285	the	_
 98-3	15286-15299	normalization	_
@@ -2810,6 +2908,7 @@
 98-26	15420-15421	0	_
 98-27	15422-15423	.	_
 
+Text=Functional networks identified from these data-driven algorithms are expected to have the ability to reconstruct the brain network connections.
 99-1	15424-15434	Functional	_
 99-2	15435-15443	networks	_
 99-3	15444-15454	identified	_
@@ -2831,6 +2930,7 @@
 99-19	15555-15566	connections	_
 99-20	15567-15568	.	_
 
+Text=A better connection reconstruction shows better decomposition performance and will improve the results of post analyses, such as clustering, on these estimated networks.
 100-1	15569-15570	A	_
 100-2	15571-15577	better	_
 100-3	15578-15588	connection	_
@@ -2858,6 +2958,7 @@
 100-25	15731-15739	networks	_
 100-26	15740-15741	.	_
 
+Text=To measure the modularity of the functional networks, the ratio of the average intra-module connectivity to the average inter-module connectivity is defined as: where Q is the number of modules, Ni is the number of connections within the ith module, Ni, j is the number of connections between the ith and jth modules, eu and ev refer to the intra- and inter-module connectivity respectively, and Nintra and Ninter refer to the total number of intra- and intermodule connectivity, respectively.
 101-1	15742-15744	To	_
 101-2	15745-15752	measure	_
 101-3	15753-15756	the	_
@@ -2947,6 +3048,7 @@
 101-87	16230-16242	respectively	_
 101-88	16243-16244	.	_
 
+Text=The larger the ratio, the more compact the modules are.
 102-1	16245-16248	The	_
 102-2	16249-16255	larger	_
 102-3	16256-16259	the	_
@@ -2960,6 +3062,7 @@
 102-11	16297-16300	are	_
 102-12	16301-16302	.	_
 
+Text=Graph-theoretical metrics: Graph-theoretical metrics are other global measures that are used for performance comparison.
 103-1	16303-16320	Graph-theoretical	_
 103-2	16321-16328	metrics	_
 103-3	16329-16330	:	_
@@ -2977,6 +3080,7 @@
 103-15	16413-16423	comparison	_
 103-16	16424-16425	.	_
 
+Text=For each algorithm and subject, the M selected components are used to construct the graph.
 104-1	16426-16429	For	_
 104-2	16430-16434	each	_
 104-3	16435-16444	algorithm	_
@@ -2995,6 +3099,7 @@
 104-16	16511-16516	graph	_
 104-17	16517-16518	.	_
 
+Text=With the M ICs of interest as nodes and the normalized MI between them as the edges, e, a fully connected graph, G, is constructed.
 105-1	16519-16523	With	_
 105-2	16524-16527	the	_
 105-3	16528-16529	M	_
@@ -3026,6 +3131,7 @@
 105-29	16642-16653	constructed	_
 105-30	16654-16655	.	_
 
+Text=Beginning with G, a edge threshold, et, is used to retain only the highest P percent of the edges, thus generating a new graph G. We define the percentage of the edges that remain after thresholding as the link density, which increases as the threshold decreases.
 106-1	16656-16665	Beginning	_
 106-2	16666-16670	with	_
 106-3	16671-16672	G	_
@@ -3079,6 +3185,7 @@
 106-51	16914-16923	decreases	_
 106-52	16924-16925	.	_
 
+Text=The weighted graphs are converted to binary ones, with the edges below the threshold et having a value of 0 and those above having a value of 1.
 107-1	16926-16929	The	_
 107-2	16930-16938	weighted	_
 107-3	16939-16945	graphs	_
@@ -3110,6 +3217,7 @@
 107-29	17069-17070	1	_
 107-30	17071-17072	.	_
 
+Text=In order to avoid very sparse graphs with small link densities and those with too large link densities, we limit the link density to range from 20% to 70%.
 108-1	17073-17075	In	_
 108-2	17076-17081	order	_
 108-3	17082-17084	to	_
@@ -3144,6 +3252,7 @@
 108-32	17229-17230	%	_
 108-33	17231-17232	.	_
 
+Text=Graph-theoretical analysis is done on these graphs by calculating different graph metrics.
 109-1	17233-17250	Graph-theoretical	_
 109-2	17251-17259	analysis	_
 109-3	17260-17262	is	_
@@ -3158,6 +3267,7 @@
 109-12	17315-17322	metrics	_
 109-13	17323-17324	.	_
 
+Text=There have been several reviews, see,,, showing that graph metrics highlight different topological characteristics of graphs.
 110-1	17325-17330	There	_
 110-2	17331-17335	have	_
 110-3	17336-17340	been	_
@@ -3180,6 +3290,7 @@
 110-20	17447-17453	graphs	_
 110-21	17454-17455	.	_
 
+Text=The characteristic path length (PL), global efficiency and centrality are measures that can facilitate functional integration in graphs.
 111-1	17456-17459	The	_
 111-2	17460-17474	characteristic	_
 111-3	17475-17479	path	_
@@ -3203,6 +3314,7 @@
 111-21	17588-17594	graphs	_
 111-22	17595-17596	.	_
 
+Text=They are globally calculated, which means that all the other nodes are taken into consideration in their calculation, and provide measures of how information is transferred in the functional network.
 112-1	17597-17601	They	_
 112-2	17602-17605	are	_
 112-3	17606-17614	globally	_
@@ -3237,6 +3349,7 @@
 112-32	17790-17797	network	_
 112-33	17798-17799	.	_
 
+Text=Clustering coefficient (CC) is a measure that can capture the segregation of networks by measuring the transfer of information in the immediate neighborhood of each node.
 113-1	17800-17810	Clustering	_
 113-2	17811-17822	coefficient	_
 113-3	17823-17824	(	_
@@ -3267,6 +3380,7 @@
 113-28	17967-17971	node	_
 113-29	17972-17973	.	_
 
+Text=The global graph CC that is averaged across all the nodes is explored.
 114-1	17974-17977	The	_
 114-2	17978-17984	global	_
 114-3	17985-17990	graph	_
@@ -3282,6 +3396,7 @@
 114-13	18035-18043	explored	_
 114-14	18044-18045	.	_
 
+Text=Small-worldness (SW) of the network is also calculated to measure the degree of small-world organization in the overall functional network.
 115-1	18046-18061	Small-worldness	_
 115-2	18062-18063	(	_
 115-3	18064-18066	SW	_
@@ -3306,9 +3421,11 @@
 115-22	18179-18186	network	_
 115-23	18187-18188	.	_
 
+Text=Table.
 116-1	18189-18194	Table	_
 116-2	18195-18196	.	_
 
+Text=I presents the metrics that are used in this work.
 117-1	18197-18198	I	_
 117-2	18199-18207	presents	_
 117-3	18208-18211	the	_
@@ -3321,6 +3438,7 @@
 117-10	18242-18246	work	_
 117-11	18247-18248	.	_
 
+Text=The formulas of these metrics are described in detail in –.
 118-1	18249-18252	The	_
 118-2	18253-18261	formulas	_
 118-3	18262-18264	of	_
@@ -3334,6 +3452,7 @@
 118-11	18306-18307	–	_
 118-12	18308-18309	.	_
 
+Text=All the implementations are performed using Matlab codes in the Brain Connectivity Toolbox (https: //sites.google.com/site/bctnet/).
 119-1	18310-18313	All	_
 119-2	18314-18317	the	_
 119-3	18318-18333	implementations	_

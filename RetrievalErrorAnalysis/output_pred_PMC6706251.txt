@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Cocaine and HIV are independently associated with neural activation in response to gain and loss valuation during economic risky choice Stimulant abuse is disproportionately common in HIV-positive persons.
 1-1	0-7	Cocaine	_
 1-2	8-11	and	_
 1-3	12-15	HIV	_
@@ -32,6 +33,7 @@
 1-28	197-204	persons	http://maven.renci.org/NeuroBridge/neurobridge#Person
 1-29	205-206	.	_
 
+Text=Both HIV and stimulants are independently associated with deficits in reward-based decision making, but their interactive and/or additive effects are poorly understood despite their prevalent comorbidity.
 2-1	207-211	Both	_
 2-2	212-215	HIV	_
 2-3	216-219	and	_
@@ -61,6 +63,7 @@
 2-27	400-411	comorbidity	_
 2-28	412-413	.	_
 
+Text=Here, we examined the effects of cocaine dependence and HIV infection in 69 adults who underwent functional magnetic resonance imaging (fMRI) while completing an economic loss aversion task.
 3-1	414-418	Here	_
 3-2	419-420	,	_
 3-3	421-423	we	_
@@ -94,6 +97,7 @@
 3-31	602-606	task	http://maven.renci.org/NeuroBridge/neurobridge#SocioEconomicStatus
 3-32	607-608	.	_
 
+Text=We identified two neural networks that correlated with the evaluation of the favorable characteristics of the gamble (i.e., higher gains/lower losses; ventromedial prefrontal cortex, anterior cingulate, anterior and posterior precuneus, and visual cortex) versus unfavorable characteristics of the gamble (i.e., lower gains/higher losses; dorsal prefrontal, lateral orbitofrontal, and posterior parietal cortex, anterior insula, and dorsal caudate).
 4-1	609-611	We	_
 4-2	612-622	identified	_
 4-3	623-626	two	_
@@ -167,6 +171,7 @@
 4-71	1071-1072	)	_
 4-72	1073-1074	.	_
 
+Text=Behaviorally, cocaine and HIV had additive effects on loss aversion scores, with HIV-positive cocaine users being the least loss averse.
 5-1	1075-1087	Behaviorally	_
 5-2	1088-1089	,	_
 5-3	1090-1097	cocaine	_
@@ -191,6 +196,7 @@
 5-22	1206-1212	averse	_
 5-23	1213-1214	.	_
 
+Text=Cocaine users had greater activation in brain regions that tracked the favorability of gamble characteristics (i.e., increased activation to gains, but decreased activation to losses).
 6-1	1215-1222	Cocaine	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 6-2	1223-1228	users	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 6-3	1229-1232	had	_
@@ -222,6 +228,7 @@
 6-29	1401-1402	)	_
 6-30	1403-1404	.	_
 
+Text=In contrast, HIV infection was independently associated with lesser activation in regions that tracked the unfavorability of gamble characteristics.
 7-1	1405-1407	In	_
 7-2	1408-1416	contrast	_
 7-3	1417-1418	,	_
@@ -244,6 +251,7 @@
 7-20	1538-1553	characteristics	_
 7-21	1554-1555	.	_
 
+Text=These results suggest that cocaine is associated with an overactive reward-seeking system, while HIV is associated with an underactive cognitive control system.
 8-1	1556-1561	These	_
 8-2	1562-1569	results	_
 8-3	1570-1577	suggest	_
@@ -269,6 +277,7 @@
 8-23	1710-1716	system	_
 8-24	1717-1718	.	_
 
+Text=Together, these alterations may leave HIV-positive cocaine users particularly vulnerable to making unfavorable decisions when outcomes are uncertain.
 9-1	1719-1727	Together	_
 9-2	1728-1729	,	_
 9-3	1730-1735	these	_
@@ -290,6 +299,7 @@
 9-19	1859-1868	uncertain	_
 9-20	1869-1870	.	_
 
+Text=Material and Methods Participants The sample included adults aged 18–55 years who differed on cocaine and HIV status.
 10-1	1871-1879	Material	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	1880-1883	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1884-1891	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -310,6 +320,7 @@
 10-18	1981-1987	status	_
 10-19	1988-1989	.	_
 
+Text=Exclusion criteria were: <8th grade education; severe learning disability; illiteracy; non-fluency in English; serious neurological disorders; acute opportunistic brain infections or a history of such infections without return to normal cognition; severe head trauma with loss of consciousness> 30 minutes and persistent functional decline; severe mental illness; MRI contraindications; and impaired mental status.
 11-1	1990-1999	Exclusion	_
 11-2	2000-2008	criteria	_
 11-3	2009-2013	were	_
@@ -377,6 +388,7 @@
 11-65	2409-2415	status	_
 11-66	2416-2417	.	_
 
+Text=Cocaine (COC) status.
 12-1	2418-2425	Cocaine	_
 12-2	2426-2427	(	_
 12-3	2428-2431	COC	_
@@ -384,6 +396,7 @@
 12-5	2434-2440	status	_
 12-6	2441-2442	.	_
 
+Text=COC+ was defined as: ≥3 days of cocaine use in the past month or a positive urine drug screen for cocaine; ≥1 year of regular cocaine use; and lifetime cocaine dependence.
 13-1	2443-2447	COC+	_
 13-2	2448-2451	was	_
 13-3	2452-2459	defined	_
@@ -420,6 +433,7 @@
 13-34	2606-2616	dependence	_
 13-35	2617-2618	.	_
 
+Text=For COC+, current alcohol or marijuana dependence were permitted if cocaine dependence was the principal diagnosis.
 14-1	2619-2622	For	_
 14-2	2623-2627	COC+	_
 14-3	2628-2629	,	_
@@ -439,6 +453,7 @@
 14-17	2725-2734	diagnosis	_
 14-18	2735-2736	.	_
 
+Text=Exclusions for COC+ were: any other drug use disorder within the past 20 years; regular use of other drugs in the past year; any other drug use in the past 30 days (other than alcohol and marijuana); and positive urine screen for non-prescribed opioids or amphetamines.
 15-1	2737-2747	Exclusions	_
 15-2	2748-2751	for	_
 15-3	2752-2756	COC+	_
@@ -493,6 +508,7 @@
 15-52	2999-3011	amphetamines	_
 15-53	3012-3013	.	_
 
+Text=COC-was defined as: no lifetime cocaine use disorder; no history of regular cocaine use; no cocaine use in the past year; and a cocaine negative drug screen.
 16-1	3014-3021	COC-was	_
 16-2	3022-3029	defined	_
 16-3	3030-3032	as	_
@@ -526,6 +542,7 @@
 16-31	3168-3174	screen	_
 16-32	3175-3176	.	_
 
+Text=Exclusions for COC-were: current alcohol or marijuana dependence; lifetime abuse or dependence on any other drug; history of regular drug use; any drug use in the past 30 days (other than alcohol and marijuana); and positive urine screen for any other drug.
 17-1	3177-3187	Exclusions	_
 17-2	3188-3191	for	_
 17-3	3192-3200	COC-were	_
@@ -577,10 +594,12 @@
 17-49	3436-3440	drug	_
 17-50	3441-3442	.	_
 
+Text=HIV status.
 18-1	3443-3446	HIV	_
 18-2	3447-3453	status	_
 18-3	3454-3455	.	_
 
+Text=For individuals with diagnosed HIV infection, HIV+ status was verified by medical record review.
 19-1	3456-3459	For	_
 19-2	3460-3471	individuals	_
 19-3	3472-3476	with	_
@@ -598,6 +617,7 @@
 19-15	3546-3552	review	_
 19-16	3553-3554	.	_
 
+Text=For others, an OraQuick© rapid test was conducted to verify HIV-status.
 20-1	3555-3558	For	_
 20-2	3559-3565	others	_
 20-3	3566-3567	,	_
@@ -612,6 +632,7 @@
 20-12	3616-3626	HIV-status	_
 20-13	3627-3628	.	_
 
+Text=Procedures Participants were recruited via advertisements in local newspapers, websites, community-based organizations, and infectious diseases clinics.
 21-1	3629-3639	Procedures	_
 21-2	3640-3652	Participants	_
 21-3	3653-3657	were	_
@@ -633,6 +654,7 @@
 21-19	3776-3783	clinics	_
 21-20	3784-3785	.	_
 
+Text=After completing a telephone pre-screen, potential participants completed an in-person screening.
 22-1	3786-3791	After	_
 22-2	3792-3802	completing	_
 22-3	3803-3804	a	_
@@ -647,6 +669,7 @@
 22-12	3874-3883	screening	_
 22-13	3884-3885	.	_
 
+Text=Eligible participants returned on another day for an MRI scan.
 23-1	3886-3894	Eligible	_
 23-2	3895-3907	participants	_
 23-3	3908-3916	returned	_
@@ -659,6 +682,7 @@
 23-10	3943-3947	scan	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
 23-11	3948-3949	.	_
 
+Text=Participants gave informed consent, and all procedures were approved by the Institutional Review Board at Duke University Health System.
 24-1	3950-3962	Participants	_
 24-2	3963-3967	gave	_
 24-3	3968-3976	informed	_
@@ -681,6 +705,7 @@
 24-20	4080-4086	System	_
 24-21	4087-4088	.	_
 
+Text=Screening measures Participants completed demographics and smoking history surveys and provided a urine sample for drug and pregnancy testing.
 25-1	4089-4098	Screening	_
 25-2	4099-4107	measures	_
 25-3	4108-4120	Participants	_
@@ -702,6 +727,7 @@
 25-19	4223-4230	testing	_
 25-20	4231-4232	.	_
 
+Text=The screening measures included: Wechsler Test of Adult Reading for premorbid verbal IQ; Structured Clinical Interview for DSM-IV-TR for substance use disorders; Addiction Severity Index-Lite for substance use; and timeline follow-back for frequency of substance use in the past 90 days.
 26-1	4233-4236	The	_
 26-2	4237-4246	screening	_
 26-3	4247-4255	measures	_
@@ -749,6 +775,7 @@
 26-45	4519-4523	days	_
 26-46	4524-4525	.	_
 
+Text=Participants provided a release for their medical records, which were used to obtain HIV disease indicators (e.g., CD4 cell counts).
 27-1	4526-4538	Participants	_
 27-2	4539-4547	provided	_
 27-3	4548-4549	a	_
@@ -775,6 +802,7 @@
 27-24	4660-4661	)	_
 27-25	4662-4663	.	_
 
+Text=HIV+ participants estimated adherence to their antiretroviral medications using a visual analogue scale.
 28-1	4664-4668	HIV+	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
 28-2	4669-4681	participants	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
 28-3	4682-4691	estimated	_
@@ -790,6 +818,7 @@
 28-13	4762-4767	scale	_
 28-14	4768-4769	.	_
 
+Text=fMRI task The loss aversion task presents participants with gambles that have an equal probability of gaining or losing a variable amount of money Gambles were sampled from a matrix that ranged from $0 to $40 in $4 increments for gains and $0 to - $20 in - $2 increments for losses (Figure 1).
 29-1	4770-4774	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 29-2	4775-4779	task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 29-3	4780-4783	The	_
@@ -854,6 +883,7 @@
 29-62	5069-5070	)	_
 29-63	5071-5072	.	_
 
+Text=Participants were extensively trained on the task prior to scanning.
 30-1	5073-5085	Participants	_
 30-2	5086-5090	were	_
 30-3	5091-5102	extensively	_
@@ -866,6 +896,7 @@
 30-10	5132-5140	scanning	_
 30-11	5141-5142	.	_
 
+Text=All 120 combinations of gambles (excluding $0/ $0) were randomized once and divided across three functional runs (each 6 min).
 31-1	5143-5146	All	_
 31-2	5147-5150	120	_
 31-3	5151-5163	combinations	_
@@ -894,6 +925,7 @@
 31-26	5273-5274	)	_
 31-27	5275-5276	.	_
 
+Text=The order of the runs was randomized across participants.
 32-1	5277-5280	The	_
 32-2	5281-5286	order	_
 32-3	5287-5289	of	_
@@ -905,6 +937,7 @@
 32-9	5321-5333	participants	_
 32-10	5334-5335	.	_
 
+Text=Participants chose whether to accept or reject each gamble.
 33-1	5336-5348	Participants	_
 33-2	5349-5354	chose	_
 33-3	5355-5362	whether	_
@@ -916,6 +949,7 @@
 33-9	5388-5394	gamble	_
 33-10	5395-5396	.	_
 
+Text=They were instructed to consider each gamble independently, like a coin flip, and the gambles were not played out during the scan.
 34-1	5397-5401	They	_
 34-2	5402-5406	were	_
 34-3	5407-5417	instructed	_
@@ -942,6 +976,7 @@
 34-24	5524-5528	scan	_
 34-25	5529-5530	.	_
 
+Text=Each trial was presented for 5.75s, during which participants made their choice, followed by a variable inter-stimulus interval of 2–8s (M= 3.2s).
 35-1	5531-5535	Each	_
 35-2	5536-5541	trial	_
 35-3	5542-5545	was	_
@@ -970,6 +1005,7 @@
 35-26	5679-5680	)	_
 35-27	5681-5682	.	_
 
+Text=This task was programed in MATLAB R2012a (Mathworks, Natick, MA) using the Psychtoolbox extension (www.psychtoolbox.org).
 36-1	5683-5687	This	_
 36-2	5688-5692	task	_
 36-3	5693-5696	was	_
@@ -993,6 +1029,7 @@
 36-21	5808-5809	)	_
 36-22	5810-5811	.	_
 
+Text=Visual stimuli were displayed via projector onto a screen within the scanner bore, and responses were recorded using an MR-compatible response box held in the right hand.
 37-1	5812-5818	Visual	_
 37-2	5819-5826	stimuli	_
 37-3	5827-5831	were	_
@@ -1023,6 +1060,7 @@
 37-28	5978-5982	hand	_
 37-29	5983-5984	.	_
 
+Text=Participants were told that, after the scan, one trial would be randomly selected.
 38-1	5985-5997	Participants	_
 38-2	5998-6002	were	_
 38-3	6003-6007	told	_
@@ -1040,6 +1078,7 @@
 38-15	6060-6068	selected	_
 38-16	6069-6070	.	_
 
+Text=If they had rejected that gamble, the gamble was not played.
 39-1	6071-6073	If	_
 39-2	6074-6078	they	_
 39-3	6079-6082	had	_
@@ -1054,6 +1093,7 @@
 39-12	6125-6131	played	_
 39-13	6132-6133	.	_
 
+Text=If they had accepted that gamble, the outcome was determined with a coin flip.
 40-1	6134-6136	If	_
 40-2	6137-6141	they	_
 40-3	6142-6145	had	_
@@ -1071,6 +1111,7 @@
 40-15	6208-6212	flip	_
 40-16	6213-6214	.	_
 
+Text=Rewards were scaled: $0 for losses of $11–20, $1 for losses of $0–10, $2 for gain of $1–10, $3 for gains of $11–13, $4 for gains of $21–30, and $5 for gains of $31–40.
 41-1	6215-6222	Rewards	_
 41-2	6223-6227	were	_
 41-3	6228-6234	scaled	_
@@ -1125,6 +1166,7 @@
 41-52	6394-6399	31–40	_
 41-53	6400-6401	.	_
 
+Text=To estimate behavioral loss aversion (lambda), a logistic regression predicting participants ’ choice to accept each gamble was used to generate unstandardized regression coefficients (β values) for gains and losses.
 42-1	6402-6404	To	_
 42-2	6405-6413	estimate	_
 42-3	6414-6424	behavioral	_
@@ -1162,6 +1204,7 @@
 42-35	6616-6622	losses	_
 42-36	6623-6624	.	_
 
+Text=Trials with a $0 gain or $0 loss option were excluded from this analysis.
 43-1	6625-6631	Trials	_
 43-2	6632-6636	with	_
 43-3	6637-6638	a	_
@@ -1180,6 +1223,7 @@
 43-16	6691-6699	analysis	_
 43-17	6700-6701	.	_
 
+Text=As in prior studies, lambda was computed as -βloss/ βgain; higher scores indicate greater loss aversion.
 44-1	6702-6704	As	_
 44-2	6705-6707	in	_
 44-3	6708-6713	prior	_
@@ -1200,6 +1244,7 @@
 44-18	6799-6807	aversion	_
 44-19	6808-6809	.	_
 
+Text=MRI data acquisition Imaging was performed on a 3T General Electric Signa EXCITE HD scanner (Milwaukee, WI) equipped with 40 mT/m gradients and an 8-channel head coil.
 45-1	6810-6813	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 45-2	6814-6818	data	_
 45-3	6819-6830	acquisition	_
@@ -1232,6 +1277,7 @@
 45-30	6975-6979	coil	_
 45-31	6980-6981	.	_
 
+Text=Whole-brain BOLD images were collected using high-throughput T2 * -weighted echo-planar imaging with the following parameters: TR= 2000ms; TE= 25ms; FOV= 24.0cm; flip angle= 90°; in-plane matrix size= 64 × 64; and slice thickness= 3.8mm, resulting in functional data from 35 axial slices with voxels of 3.75×3.75×3.8mm.
 46-1	6982-6993	Whole-brain	http://maven.renci.org/NeuroBridge/neurobridge#DegenerativeBrainDisorder
 46-2	6994-6998	BOLD	_
 46-3	6999-7005	images	_
@@ -1288,6 +1334,7 @@
 46-54	7292-7307	3.75×3.75×3.8mm	_
 46-55	7308-7309	.	_
 
+Text=High-resolution T1-weighted structural images were acquired with the following parameters: TR= 8.156ms; TE= 3.18ms; FOV= 25.6cm; flip angle= 12°; in-plane matrix size= 256 × 256; slice thickness= 1mm; and number of slices= 166.
 47-1	7310-7325	High-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 47-2	7326-7337	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 47-3	7338-7348	structural	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -1330,6 +1377,7 @@
 47-40	7540-7543	166	_
 47-41	7544-7545	.	_
 
+Text=These images were collected as part of a 90-minute scanning session.
 48-1	7546-7551	These	_
 48-2	7552-7558	images	_
 48-3	7559-7563	were	_
@@ -1343,6 +1391,7 @@
 48-11	7606-7613	session	_
 48-12	7614-7615	.	_
 
+Text=Quality control Of the 81 participants who completed the experiment, one was excluded because of a procedural error during the scan.
 49-1	7616-7623	Quality	_
 49-2	7624-7631	control	_
 49-3	7632-7634	Of	_
@@ -1367,6 +1416,7 @@
 49-22	7744-7748	scan	_
 49-23	7749-7750	.	_
 
+Text=Ten participants were excluded because their behavioral performance on the loss aversion task indicated inattention or poor comprehension.
 50-1	7751-7754	Ten	_
 50-2	7755-7767	participants	_
 50-3	7768-7772	were	_
@@ -1387,6 +1437,7 @@
 50-18	7875-7888	comprehension	_
 50-19	7889-7890	.	_
 
+Text=Specifically, they were excluded for: a negative βgain value (i.e., they were less likely to accept gambles as potential gains increased); a positive βloss value (i.e., they were more likely to accept gambles as potential loss increased); and/or very small regression coefficients that indicated random or heuristic responding (βgain <.03 and βloss values> −.015).
 51-1	7891-7903	Specifically	_
 51-2	7904-7905	,	_
 51-3	7906-7910	they	_
@@ -1457,6 +1508,7 @@
 51-68	8267-8268	)	_
 51-69	8269-8270	.	_
 
+Text=Visual inspection of heatmaps converged with the initial quality control check (see Supplementary Figure S1 for examples).
 52-1	8271-8277	Visual	_
 52-2	8278-8288	inspection	_
 52-3	8289-8291	of	_
@@ -1478,6 +1530,7 @@
 52-19	8393-8394	)	_
 52-20	8395-8396	.	_
 
+Text=One additional participant was excluded for skipping> 30% of trials.
 53-1	8397-8400	One	_
 53-2	8401-8411	additional	_
 53-3	8412-8423	participant	_
@@ -1492,6 +1545,7 @@
 53-12	8460-8466	trials	_
 53-13	8467-8468	.	_
 
+Text=Among the 69 participants in the final analysis, 63 (91%) missed ≤10% of trials (M= 2.58, SD= 4.69).
 54-1	8469-8474	Among	_
 54-2	8475-8478	the	_
 54-3	8479-8481	69	_
@@ -1520,6 +1574,7 @@
 54-26	8575-8576	)	_
 54-27	8577-8578	.	_
 
+Text=The heatmaps of the 6 participants who missed> 10% showed clear response patterns consistent with their loss aversion scores.
 55-1	8579-8582	The	_
 55-2	8583-8591	heatmaps	_
 55-3	8592-8594	of	_
@@ -1543,6 +1598,7 @@
 55-21	8699-8705	scores	_
 55-22	8706-8707	.	_
 
+Text=FSL ’ s Motion Outliers tool was used to calculate motion metrics during scanning.
 56-1	8708-8711	FSL	_
 56-2	8712-8713	’	_
 56-3	8714-8715	s	_
@@ -1559,6 +1615,7 @@
 56-14	8781-8789	scanning	_
 56-15	8790-8791	.	_
 
+Text=Framewise displacement (FD) ranged from 0.06 to 1.30 (M= 0.15, SD= 0.15).
 57-1	8792-8801	Framewise	_
 57-2	8802-8814	displacement	_
 57-3	8815-8816	(	_
@@ -1578,6 +1635,7 @@
 57-17	8868-8869	)	_
 57-18	8870-8871	.	_
 
+Text=An analysis of variance (ANOVA) revealed a main effect of cocaine on FD [F (1,65) = 4.62, p= .035], such that COC+ had higher values than COC-.
 58-1	8872-8874	An	_
 58-2	8875-8883	analysis	_
 58-3	8884-8886	of	_
@@ -1615,6 +1673,7 @@
 58-35	9018-9022	COC-	_
 58-36	9023-9024	.	_
 
+Text=There was no significant effect of HIV (both p>.20).
 59-1	9025-9030	There	_
 59-2	9031-9034	was	_
 59-3	9035-9037	no	_
@@ -1630,6 +1689,7 @@
 59-13	9079-9080	)	_
 59-14	9081-9082	.	_
 
+Text=No participants were excluded for motion.
 60-1	9083-9085	No	_
 60-2	9086-9098	participants	_
 60-3	9099-9103	were	_
@@ -1638,6 +1698,7 @@
 60-6	9117-9123	motion	_
 60-7	9124-9125	.	_
 
+Text=To control for the effects of motion, six motion parameters calculated with MCFLIRT were included as regressors in the first level analyses.
 61-1	9126-9128	To	_
 61-2	9129-9136	control	_
 61-3	9137-9140	for	_
@@ -1663,6 +1724,7 @@
 61-23	9258-9266	analyses	_
 61-24	9267-9268	.	_
 
+Text=We also added mean FD as a covariate in the group comparison model.
 62-1	9269-9271	We	_
 62-2	9272-9276	also	_
 62-3	9277-9282	added	_
@@ -1678,12 +1740,14 @@
 62-13	9330-9335	model	_
 62-14	9336-9337	.	_
 
+Text=Data analysis Behavioral data.
 63-1	9338-9342	Data	_
 63-2	9343-9351	analysis	_
 63-3	9352-9362	Behavioral	_
 63-4	9363-9367	data	_
 63-5	9368-9369	.	_
 
+Text=Participants were characterized in terms of demographics, substance use, and HIV infection using descriptive statistics.
 64-1	9370-9382	Participants	_
 64-2	9383-9387	were	_
 64-3	9388-9401	characterized	_
@@ -1703,6 +1767,7 @@
 64-17	9481-9491	statistics	_
 64-18	9492-9493	.	_
 
+Text=Group differences were identified using chi-square, ANOVA, and Mann-Whitney tests.
 65-1	9494-9499	Group	_
 65-2	9500-9511	differences	_
 65-3	9512-9516	were	_
@@ -1717,6 +1782,7 @@
 65-12	9572-9577	tests	_
 65-13	9578-9579	.	_
 
+Text=Loss aversion scores were examined using a 2 (COC+/COC-) x 2 (HIV+/HIV-) between-subjects ANOVA.
 66-1	9580-9584	Loss	_
 66-2	9585-9593	aversion	_
 66-3	9594-9600	scores	_
@@ -1737,6 +1803,7 @@
 66-18	9674-9679	ANOVA	_
 66-19	9680-9681	.	_
 
+Text=All behavioral analyses were conducted in SPSS 22.0. fMRI data.
 67-1	9682-9685	All	_
 67-2	9686-9696	behavioral	_
 67-3	9697-9705	analyses	_
@@ -1749,6 +1816,7 @@
 67-10	9740-9744	data	_
 67-11	9745-9746	.	_
 
+Text=Functional images were processed using FMRIB Software Library FSL v5.0.
 68-1	9747-9757	Functional	_
 68-2	9758-9764	images	_
 68-3	9765-9769	were	_
@@ -1761,6 +1829,7 @@
 68-10	9813-9817	v5.0	_
 68-11	9818-9819	.	_
 
+Text=The first 5 volumes of each run were deleted to allow for magnetic resonance equilibrium.
 69-1	9820-9823	The	_
 69-2	9824-9829	first	_
 69-3	9830-9831	5	_
@@ -1778,6 +1847,7 @@
 69-15	9897-9908	equilibrium	_
 69-16	9909-9910	.	_
 
+Text=Functional images were temporally realigned to correct for interleaved slice acquisition, motion corrected using the MCFLIRT linear realignment tool, and high-pass temporal filtered (cutoff= 100s).
 70-1	9911-9921	Functional	_
 70-2	9922-9928	images	_
 70-3	9929-9933	were	_
@@ -1809,6 +1879,7 @@
 70-29	10110-10111	)	_
 70-30	10112-10113	.	_
 
+Text=Nonbrain voxels were removed from the anatomical images using the brain extraction tool (BET).
 71-1	10114-10122	Nonbrain	_
 71-2	10123-10129	voxels	_
 71-3	10130-10134	were	_
@@ -1827,6 +1898,7 @@
 71-16	10208-10209	)	_
 71-17	10210-10211	.	_
 
+Text=Functional images were co-registered to participants ’ anatomical image with a 12-degrees of freedom (DOF) linear transformation, and then normalized to the Montreal Neurological Institute 152 template (2×2×2mm) using FNIRT.
 72-1	10212-10222	Functional	_
 72-2	10223-10229	images	_
 72-3	10230-10234	were	_
@@ -1864,6 +1936,7 @@
 72-35	10435-10440	FNIRT	_
 72-36	10441-10442	.	_
 
+Text=Functional images were spatially smoothed using a 5mm full-width half-maximum (FWHM) Gaussian kernel.
 73-1	10443-10453	Functional	_
 73-2	10454-10460	images	_
 73-3	10461-10465	were	_
@@ -1881,6 +1954,7 @@
 73-15	10539-10545	kernel	_
 73-16	10546-10547	.	_
 
+Text=Data from individual runs for each participant were subjected to a general linear model using FILM prewhitening, a temporal derivative, and temporal filtering.
 74-1	10548-10552	Data	_
 74-2	10553-10557	from	_
 74-3	10558-10568	individual	_
@@ -1908,6 +1982,7 @@
 74-25	10699-10708	filtering	_
 74-26	10709-10710	.	_
 
+Text=Explanatory variables were modeled by convolving a delta function representing trial onset times with a canonical (double-gamma) hemodynamic response function.
 75-1	10711-10722	Explanatory	_
 75-2	10723-10732	variables	_
 75-3	10733-10737	were	_
@@ -1932,6 +2007,7 @@
 75-22	10863-10871	function	_
 75-23	10872-10873	.	_
 
+Text=All trials were modeled using a single condition representing overall task-related activation, and two additional orthogonal regressors were included representing the magnitude of the potential gains (gain-related BOLD) and the magnitude of the potential losses (loss-related BOLD).
 76-1	10874-10877	All	_
 76-2	10878-10884	trials	_
 76-3	10885-10889	were	_
@@ -1976,6 +2052,7 @@
 76-42	11159-11160	)	_
 76-43	11161-11162	.	_
 
+Text=Contrasts were defined for each of these three explanatory variables, and then were averaged across the three functional runs for each participant using a fixed-effects model.
 77-1	11163-11172	Contrasts	_
 77-2	11173-11177	were	_
 77-3	11178-11185	defined	_
@@ -2005,6 +2082,7 @@
 77-27	11333-11338	model	_
 77-28	11339-11340	.	_
 
+Text=In all analyses, gain and loss were analyzed separately.
 78-1	11341-11343	In	_
 78-2	11344-11347	all	_
 78-3	11348-11356	analyses	_
@@ -2017,6 +2095,7 @@
 78-10	11387-11397	separately	_
 78-11	11398-11399	.	_
 
+Text=First, the overall pattern of gain-and loss-related activations in the sample was examined using one-sample t-tests.
 79-1	11400-11405	First	_
 79-2	11406-11407	,	_
 79-3	11408-11411	the	_
@@ -2036,6 +2115,7 @@
 79-17	11509-11516	t-tests	_
 79-18	11517-11518	.	_
 
+Text=These whole-brain images were thresholded at z> 3.1.
 80-1	11519-11524	These	_
 80-2	11525-11536	whole-brain	_
 80-3	11537-11543	images	_
@@ -2047,6 +2127,7 @@
 80-9	11568-11571	3.1	_
 80-10	11572-11573	.	_
 
+Text=Cluster correction was determined using 3DClustSim using FWHM and running 10,000 Monte Carlo simulations on a whole-brain mask composed of 258,298 voxels (https: //afni.nimh.nih.gov/).
 81-1	11574-11581	Cluster	_
 81-2	11582-11592	correction	_
 81-3	11593-11596	was	_
@@ -2076,6 +2157,7 @@
 81-27	11759-11760	)	_
 81-28	11761-11762	.	_
 
+Text=This produced an individual voxel threshold of p <0.001 and an extent threshold of ≥30 contiguous voxels for an overall corrected false positive rate of p <0.05.
 82-1	11763-11767	This	_
 82-2	11768-11776	produced	_
 82-3	11777-11779	an	_
@@ -2107,6 +2189,7 @@
 82-29	11921-11925	0.05	_
 82-30	11926-11927	.	_
 
+Text=To ensure subsequent analyses were related to the main effects of the gain-and loss-related activations, a mask was created by adding both gain-and loss-related main effects using a more liberal threshold of p <0.01, extent threshold ≥80 voxels.
 83-1	11928-11930	To	_
 83-2	11931-11937	ensure	_
 83-3	11938-11948	subsequent	_
@@ -2150,6 +2233,7 @@
 83-41	12169-12175	voxels	_
 83-42	12176-12177	.	_
 
+Text=Second, gain-and loss-related activations were correlated with behavioral loss aversion scores, which were natural log transformed and mean-centered.
 84-1	12178-12184	Second	_
 84-2	12185-12186	,	_
 84-3	12187-12195	gain-and	_
@@ -2172,6 +2256,7 @@
 84-20	12315-12328	mean-centered	_
 84-21	12329-12330	.	_
 
+Text=The results of the correlations were masked with the main effects and thresholded at p <0.001, extent threshold ≥20 voxels for an overall corrected false positive detection rate of p <0.05.
 85-1	12331-12334	The	_
 85-2	12335-12342	results	_
 85-3	12343-12345	of	_
@@ -2208,6 +2293,7 @@
 85-34	12518-12522	0.05	_
 85-35	12523-12524	.	_
 
+Text=Third, group differences in gain-and loss-related activations were examined using mixed-effects 2 (COC+/COC-) by 2 (HIV+/HIV-) ANOVAs controlling for motion.
 86-1	12525-12530	Third	_
 86-2	12531-12532	,	_
 86-3	12533-12538	group	_
@@ -2235,6 +2321,7 @@
 86-25	12680-12686	motion	_
 86-26	12687-12688	.	_
 
+Text=ANOVA results were masked with the main effects and thresholded at p <0.001, extent threshold ≥20 voxels for an overall corrected false positive detection rate of p <0.05.
 87-1	12689-12694	ANOVA	_
 87-2	12695-12702	results	_
 87-3	12703-12707	were	_
@@ -2268,6 +2355,7 @@
 87-31	12858-12862	0.05	_
 87-32	12863-12864	.	_
 
+Text=To reduce the likelihood of Type II errors, clusters that survived p <0.005, extent threshold ≥40 voxels are also reported.
 88-1	12865-12867	To	_
 88-2	12868-12874	reduce	_
 88-3	12875-12878	the	_
@@ -2293,6 +2381,7 @@
 88-23	12982-12990	reported	_
 88-24	12991-12992	.	_
 
+Text=The Harvard-Oxford cortical and subcortical structural atlases were used to identify neuroanatomical locations of activation peaks.
 89-1	12993-12996	The	_
 89-2	12997-13011	Harvard-Oxford	_
 89-3	13012-13020	cortical	_
@@ -2311,6 +2400,7 @@
 89-16	13118-13123	peaks	_
 89-17	13124-13125	.	_
 
+Text=Figures were made using MRIcron (www.mccauslandcenter.sc.edu/mricro/).
 90-1	13126-13133	Figures	_
 90-2	13134-13138	were	_
 90-3	13139-13143	made	_

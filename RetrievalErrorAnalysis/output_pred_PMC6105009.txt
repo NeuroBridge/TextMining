@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Modeling subjective relevance in schizophrenia and its relation to aberrant salience In schizophrenia, increased aberrant salience to irrelevant events and reduced learning of relevant information may relate to an underlying deficit in relevance detection.
 1-1	0-8	Modeling	_
 1-2	9-19	subjective	_
 1-3	20-29	relevance	_
@@ -39,6 +40,7 @@
 1-35	247-256	detection	_
 1-36	257-258	.	_
 
+Text=So far, subjective estimates of relevance have not been probed in schizophrenia patients.
 2-1	259-261	So	_
 2-2	262-265	far	_
 2-3	266-267	,	_
@@ -55,6 +57,7 @@
 2-14	340-348	patients	_
 2-15	349-350	.	_
 
+Text=The mechanisms underlying belief formation about relevance and their translation into decisions are unclear.
 3-1	351-354	The	_
 3-2	355-365	mechanisms	_
 3-3	366-376	underlying	_
@@ -71,6 +74,7 @@
 3-14	451-458	unclear	_
 3-15	459-460	.	_
 
+Text=Using novel computational methods, we investigated relevance detection during implicit learning in 42 schizophrenia patients and 42 healthy individuals.
 4-1	461-466	Using	_
 4-2	467-472	novel	_
 4-3	473-486	computational	_
@@ -93,6 +97,7 @@
 4-20	602-613	individuals	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 4-21	614-615	.	_
 
+Text=Participants underwent functional magnetic resonance imaging while detecting the outcomes in a learning task.
 5-1	616-628	Participants	_
 5-2	629-638	underwent	_
 5-3	639-649	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -109,6 +114,7 @@
 5-14	720-724	task	_
 5-15	725-726	.	_
 
+Text=These were preceded by cues differing in color and shape, which were either relevant or irrelevant for outcome prediction.
 6-1	727-732	These	_
 6-2	733-737	were	_
 6-3	738-746	preceded	_
@@ -131,6 +137,7 @@
 6-20	839-849	prediction	_
 6-21	850-851	.	_
 
+Text=We provided a novel definition of relevance based on Bayesian precision and modeled reaction times as a function of relevance weighted unsigned prediction errors (UPE).
 7-1	852-854	We	_
 7-2	855-863	provided	_
 7-3	864-865	a	_
@@ -160,6 +167,7 @@
 7-27	1020-1021	)	_
 7-28	1022-1023	.	_
 
+Text=For aberrant salience, we assessed responses to subjectively irrelevant cue manifestations.
 8-1	1024-1027	For	_
 8-2	1028-1036	aberrant	_
 8-3	1037-1045	salience	_
@@ -174,6 +182,7 @@
 8-12	1101-1115	manifestations	_
 8-13	1116-1117	.	_
 
+Text=Participants learned the contingencies and slowed down their responses following unexpected events.
 9-1	1118-1130	Participants	_
 9-2	1131-1138	learned	_
 9-3	1139-1142	the	_
@@ -188,6 +197,7 @@
 9-12	1210-1216	events	_
 9-13	1217-1218	.	_
 
+Text=Model selection revealed that individuals inferred the relevance of cue features and used it for behavioral adaption to the relevant cue feature.
 10-1	1219-1224	Model	_
 10-2	1225-1234	selection	_
 10-3	1235-1243	revealed	_
@@ -212,6 +222,7 @@
 10-22	1356-1363	feature	_
 10-23	1364-1365	.	_
 
+Text=Relevance weighted UPEs correlated with dorsal anterior cingulate cortex activation and hippocampus deactivation.
 11-1	1366-1375	Relevance	_
 11-2	1376-1384	weighted	_
 11-3	1385-1389	UPEs	_
@@ -227,6 +238,7 @@
 11-13	1466-1478	deactivation	_
 11-14	1479-1480	.	_
 
+Text=In patients, the aberrant salience bias to subjectively task-irrelevant information was increased and correlated with decreased striatal UPE activation and increased negative symptoms.
 12-1	1481-1483	In	_
 12-2	1484-1492	patients	_
 12-3	1493-1494	,	_
@@ -253,6 +265,7 @@
 12-24	1657-1665	symptoms	_
 12-25	1666-1667	.	_
 
+Text=This study shows that relevance estimates based on Bayesian precision can be inferred from observed behavior.
 13-1	1668-1672	This	_
 13-2	1673-1678	study	_
 13-3	1679-1684	shows	_
@@ -271,6 +284,7 @@
 13-16	1768-1776	behavior	_
 13-17	1777-1778	.	_
 
+Text=This underscores the importance of relevance detection as an underlying mechanism for behavioral adaptation in complex environments and enhances the understanding of aberrant salience in schizophrenia.
 14-1	1779-1783	This	_
 14-2	1784-1795	underscores	_
 14-3	1796-1799	the	_
@@ -299,6 +313,7 @@
 14-26	1966-1979	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-27	1980-1981	.	_
 
+Text=Author summary Schizophrenia patients display deficits in the appropriate attribution of meaningfulness to stimuli; such as aberrantly increased processing of irrelevant and insufficient processing of relevant information.
 15-1	1982-1988	Author	_
 15-2	1989-1996	summary	_
 15-3	1997-2010	Schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -329,6 +344,7 @@
 15-28	2193-2204	information	_
 15-29	2205-2206	.	_
 
+Text=We aimed to investigate the subjective nature of relevance detection and its deficit in schizophrenia and developed an implicit learning paradigm that allowed for parallel learning from relevant and irrelevant information.
 16-1	2207-2209	We	_
 16-2	2210-2215	aimed	_
 16-3	2216-2218	to	_
@@ -362,6 +378,7 @@
 16-31	2417-2428	information	_
 16-32	2429-2430	.	_
 
+Text=Based on the idea that subjective relevance might be captured by Bayesian precision we set up different computational models of how subjective relevance guides learning and behavioral adaptation.
 17-1	2431-2436	Based	_
 17-2	2437-2439	on	_
 17-3	2440-2443	the	_
@@ -392,6 +409,7 @@
 17-28	2615-2625	adaptation	_
 17-29	2626-2627	.	_
 
+Text=We found that subjects use Bayesian precision to estimate stimulus relevance in order to integrate multidimensional information and adapt more to the subjectively relevant stimuli.
 18-1	2628-2630	We	_
 18-2	2631-2636	found	_
 18-3	2637-2641	that	_
@@ -419,6 +437,7 @@
 18-25	2800-2807	stimuli	_
 18-26	2808-2809	.	_
 
+Text=This relevance weighted adaptation correlated with brain activation within the salience network.
 19-1	2810-2814	This	_
 19-2	2815-2824	relevance	_
 19-3	2825-2833	weighted	_
@@ -433,6 +452,7 @@
 19-12	2898-2905	network	_
 19-13	2906-2907	.	_
 
+Text=Further, schizophrenia patients displayed an increased aberrant tendency to irrelevant events which related to decreased striatal coding of the relevant learning signal.
 20-1	2908-2915	Further	_
 20-2	2916-2917	,	_
 20-3	2918-2931	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -458,6 +478,7 @@
 20-23	3071-3077	signal	_
 20-24	3078-3079	.	_
 
+Text=To conclude, our findings demonstrate how individual beliefs about relevance can be inferred from computational models.
 21-1	3080-3082	To	_
 21-2	3083-3091	conclude	_
 21-3	3092-3093	,	_
@@ -477,6 +498,7 @@
 21-17	3193-3199	models	_
 21-18	3200-3201	.	_
 
+Text=Furthermore, we suggest that aberrant salience observed in patients with schizophrenia reflects an idiosyncratic bias in states of high subjective uncertainty.
 22-1	3202-3213	Furthermore	_
 22-2	3214-3215	,	_
 22-3	3216-3218	we	_
@@ -501,6 +523,7 @@
 22-22	3350-3361	uncertainty	_
 22-23	3362-3363	.	_
 
+Text=Materials and methods Ethics statement All participants gave written informed consent and received monetary compensation as well as the total wins of the task battery.
 23-1	3364-3373	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 23-2	3374-3377	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 23-3	3378-3385	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -528,6 +551,7 @@
 23-25	3523-3530	battery	_
 23-26	3531-3532	.	_
 
+Text=The study was performed in accordance with the Declaration of Helsinki and was approved by the local ethics committee of Charité Universitätsmedizin.
 24-1	3533-3536	The	_
 24-2	3537-3542	study	_
 24-3	3543-3546	was	_
@@ -552,6 +576,7 @@
 24-22	3662-3681	Universitätsmedizin	_
 24-23	3682-3683	.	_
 
+Text=Participants In total, 42 schizophrenia patients and a matched healthy control group of 42 individuals participated in this study.
 25-1	3684-3696	Participants	_
 25-2	3697-3699	In	_
 25-3	3700-3705	total	_
@@ -574,6 +599,7 @@
 25-20	3809-3814	study	_
 25-21	3815-3816	.	_
 
+Text=Healthy individuals reported no past or present psychiatric disorder according to the SKID-I.
 26-1	3817-3824	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 26-2	3825-3836	individuals	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 26-3	3837-3845	reported	_
@@ -589,6 +615,7 @@
 26-13	3903-3909	SKID-I	http://maven.renci.org/NeuroBridge/neurobridge#Type1DiabetesMellitus
 26-14	3910-3911	.	_
 
+Text=Patients were diagnosed with schizophrenia according to the DSM-IV and ICD-10.
 27-1	3912-3920	Patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 27-2	3921-3925	were	_
 27-3	3926-3935	diagnosed	_
@@ -602,6 +629,7 @@
 27-11	3983-3989	ICD-10	_
 27-12	3990-3991	.	_
 
+Text=Psychopathology was assessed using the Positive and Negative Syndrome Scale (PANSS) as well as the subscale for delusions and anhedonia of the Scale for the Assessment of Positive (SAPS) and Negative Symptoms (SANS), respectively (for information on demographics and psychopathology, see Table 1).
 28-1	3992-4007	Psychopathology	_
 28-2	4008-4011	was	_
 28-3	4012-4020	assessed	_
@@ -657,6 +685,7 @@
 28-53	4297-4298	)	_
 28-54	4299-4300	.	_
 
+Text=All patients were on antipsychotic medication (for more details, see Table A in the Supplement).
 29-1	4301-4304	All	_
 29-2	4305-4313	patients	_
 29-3	4314-4318	were	_
@@ -677,6 +706,7 @@
 29-18	4398-4399	)	_
 29-19	4400-4401	.	_
 
+Text=They were recruited from the inpatient and outpatient units of the Department of Psychiatry and Psychotherapy, Charité-Universitätsmedizin Berlin and the Psychiatric Department of the Schlossparkklinik Berlin.
 30-1	4402-4406	They	_
 30-2	4407-4411	were	_
 30-3	4412-4421	recruited	_
@@ -706,6 +736,7 @@
 30-27	4605-4611	Berlin	_
 30-28	4612-4613	.	_
 
+Text=Aberrant salience raw data scores of a partially overlapping sample (37 healthy controls and 34 schizophrenia patients) were reported in a previous publication.
 31-1	4614-4622	Aberrant	_
 31-2	4623-4631	salience	_
 31-3	4632-4635	raw	_
@@ -733,6 +764,7 @@
 31-25	4764-4775	publication	_
 31-26	4776-4777	.	_
 
+Text=Implicit salience paradigm (ISP) This paradigm was explicitly instructed like a target-detection task though implicitly being a learning paradigm where features of neutral stimuli predicted certain outcomes.
 32-1	4778-4786	Implicit	_
 32-2	4787-4795	salience	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 32-3	4796-4804	paradigm	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -764,6 +796,7 @@
 32-29	4978-4986	outcomes	_
 32-30	4987-4988	.	_
 
+Text=It consisted of 160 trials where subjects were told to discriminate the outcomes (10 Eurocent coin or blue circle) of each trial.
 33-1	4989-4991	It	_
 33-2	4992-5001	consisted	_
 33-3	5002-5004	of	_
@@ -790,6 +823,7 @@
 33-24	5114-5119	trial	_
 33-25	5120-5121	.	_
 
+Text=Therefore, their only task was to press a respective button when they saw a coin, versus another button when they saw the blue circle.
 34-1	5122-5131	Therefore	_
 34-2	5132-5133	,	_
 34-3	5134-5139	their	_
@@ -818,6 +852,7 @@
 34-26	5251-5257	circle	_
 34-27	5258-5259	.	_
 
+Text=Subjects were told that they would receive the amount of money they had seen during the task irrespective of whether they had pressed a button or not, though they were encouraged by the experimenters not to miss too many trials because this would impede the analysis.
 35-1	5260-5268	Subjects	_
 35-2	5269-5273	were	_
 35-3	5274-5278	told	_
@@ -867,6 +902,7 @@
 35-47	5519-5527	analysis	_
 35-48	5528-5529	.	_
 
+Text=The outcomes were preceded by conditioned stimuli that differed in color and shape: gray or colorful squares or triangles (see Fig 1A and 1B).
 36-1	5530-5533	The	_
 36-2	5534-5542	outcomes	_
 36-3	5543-5547	were	_
@@ -896,6 +932,7 @@
 36-27	5673-5674	)	_
 36-28	5675-5676	.	_
 
+Text=During the instructions, subjects were told not to pay attention to these stimuli preceding the outcomes.
 37-1	5677-5683	During	_
 37-2	5684-5687	the	_
 37-3	5688-5700	instructions	_
@@ -915,6 +952,7 @@
 37-17	5774-5782	outcomes	_
 37-18	5783-5784	.	_
 
+Text=However, prior to scanning, participants were primed with the stimulus features while they were asked to name the color and the shape of each of the four conditioned stimuli.
 38-1	5785-5792	However	_
 38-2	5793-5794	,	_
 38-3	5795-5800	prior	_
@@ -948,6 +986,7 @@
 38-31	5953-5960	stimuli	_
 38-32	5961-5962	.	_
 
+Text=Then, they practiced the outcome detection for 10 trials.
 39-1	5963-5967	Then	_
 39-2	5968-5969	,	_
 39-3	5970-5974	they	_
@@ -960,6 +999,7 @@
 39-10	6014-6020	trials	_
 39-11	6021-6022	.	_
 
+Text=In this practice session, all outcomes were preceded by a stimulus that was not presented during the main experiment in the scanner.
 40-1	6023-6025	In	_
 40-2	6026-6030	this	_
 40-3	6031-6039	practice	_
@@ -985,6 +1025,7 @@
 40-23	6148-6155	scanner	_
 40-24	6156-6157	.	_
 
+Text=In the main experiment, the conditioned stimuli predicted the outcome types in a probabilistic manner that reversed during the task.
 41-1	6158-6160	In	_
 41-2	6161-6164	the	_
 41-3	6165-6169	main	_
@@ -1008,6 +1049,7 @@
 41-21	6286-6290	task	_
 41-22	6291-6292	.	_
 
+Text=Importantly, only one stimulus feature reliably predicted the outcome (eg, shape).
 42-1	6293-6304	Importantly	_
 42-2	6305-6306	,	_
 42-3	6307-6311	only	_
@@ -1025,6 +1067,7 @@
 42-15	6377-6378	)	_
 42-16	6379-6380	.	_
 
+Text=For instance, 80% of all triangles were followed by the coin (20% circle), and 80% of all squares were followed by the blue circle (20% coin).
 43-1	6381-6384	For	_
 43-2	6385-6393	instance	_
 43-3	6394-6395	,	_
@@ -1063,6 +1106,7 @@
 43-36	6531-6532	)	_
 43-37	6533-6534	.	_
 
+Text=Whether the square or the triangle predicted the coin reversed every 20 trials.
 44-1	6535-6542	Whether	_
 44-2	6543-6546	the	_
 44-3	6547-6553	square	_
@@ -1078,6 +1122,7 @@
 44-13	6607-6613	trials	_
 44-14	6614-6615	.	_
 
+Text=In the meantime, the color of the stimuli was irrelevant in predicting the outcome; colorful and gray stimuli were equally followed by coins and circles (50% each).
 45-1	6616-6618	In	_
 45-2	6619-6622	the	_
 45-3	6623-6631	meantime	_
@@ -1112,6 +1157,7 @@
 45-32	6783-6784	)	_
 45-33	6785-6786	.	_
 
+Text=After the first half of the experiment this was reversed, and then the formerly irrelevant feature (here: shape) predicted the outcome, whereas the other feature turned irrelevant (see Fig 2).
 46-1	6787-6792	After	_
 46-2	6793-6796	the	_
 46-3	6797-6802	first	_
@@ -1151,6 +1197,7 @@
 46-37	6984-6985	)	_
 46-38	6986-6987	.	_
 
+Text=The relevant dimensions were counterbalanced across participants and coins and neutral outcomes were each displayed in 50% of all trials.
 47-1	6988-6991	The	_
 47-2	6992-7000	relevant	_
 47-3	7001-7011	dimensions	_
@@ -1174,6 +1221,7 @@
 47-21	7119-7125	trials	_
 47-22	7126-7127	.	_
 
+Text=In total, the experiment lasted 15 minutes and took place during fMRI scanning.
 48-1	7128-7130	In	_
 48-2	7131-7136	total	_
 48-3	7137-7138	,	_
@@ -1190,6 +1238,7 @@
 48-14	7199-7207	scanning	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 48-15	7208-7209	.	_
 
+Text=Participants received the amount of coins seen in the experiment (8 Euro).
 49-1	7210-7222	Participants	_
 49-2	7223-7231	received	_
 49-3	7232-7235	the	_
@@ -1206,6 +1255,7 @@
 49-14	7284-7285	)	_
 49-15	7286-7287	.	_
 
+Text=Raw data analysis In our raw data analysis of reaction times, we focused on two aspects: (i) learning of the regularly reversing relevant feature and (ii) aberrant salience towards one manifestation of the irrelevant feature.
 50-1	7288-7291	Raw	_
 50-2	7292-7296	data	_
 50-3	7297-7305	analysis	_
@@ -1249,6 +1299,7 @@
 50-41	7511-7518	feature	_
 50-42	7519-7520	.	_
 
+Text=Extreme reaction times (<150 ms and> 1.5 s) were excluded.
 51-1	7521-7528	Extreme	_
 51-2	7529-7537	reaction	_
 51-3	7538-7543	times	_
@@ -1265,6 +1316,7 @@
 51-14	7574-7582	excluded	_
 51-15	7583-7584	.	_
 
+Text=For analyses of potential learning, reaction times (in ms) were log transformed to achieve normal distribution required for variance analyses.
 52-1	7585-7588	For	_
 52-2	7589-7597	analyses	_
 52-3	7598-7600	of	_
@@ -1290,6 +1342,7 @@
 52-23	7721-7729	analyses	_
 52-24	7730-7731	.	_
 
+Text=First, we tested whether subjects learned the cue-outcome contingencies and slowed down their responses if the outcome could not be predicted based on the preceding cues and thus violated their expectation.
 53-1	7732-7737	First	_
 53-2	7738-7739	,	_
 53-3	7740-7742	we	_
@@ -1324,6 +1377,7 @@
 53-32	7927-7938	expectation	_
 53-33	7939-7940	.	_
 
+Text=For that, log reaction times were compared for expected (i.e.
 54-1	7941-7944	For	_
 54-2	7945-7949	that	_
 54-3	7950-7951	,	_
@@ -1338,6 +1392,7 @@
 54-12	8000-8003	i.e	_
 54-13	8004-8005	.	_
 
+Text=trials when the 0.8 rewarded feature was followed by reward and trials when the 0.8 non-rewarded feature was followed by a circle) versus unexpected events (i.e.
 55-1	8006-8012	trials	_
 55-2	8013-8017	when	_
 55-3	8018-8021	the	_
@@ -1368,6 +1423,7 @@
 55-28	8165-8168	i.e	_
 55-29	8169-8170	.	_
 
+Text=trials when the 0.8 rewarded feature was followed by the circle and trials when the 0.8 non-rewarded feature was followed by a coin) of the relevant condition in a repeated-measures ANOVA with group as between-subject factor (HC versus patients) and event type as within factor (expected versus unexpected).
 56-1	8171-8177	trials	_
 56-2	8178-8182	when	_
 56-3	8183-8186	the	_
@@ -1423,6 +1479,7 @@
 56-53	8481-8482	)	_
 56-54	8483-8484	.	_
 
+Text=Second, a change in reaction times over time following contingency changes inside the relevant cue feature was tested using a repeated-measures ANOVA.
 57-1	8485-8491	Second	_
 57-2	8492-8493	,	_
 57-3	8494-8495	a	_
@@ -1448,6 +1505,7 @@
 57-23	8630-8635	ANOVA	_
 57-24	8636-8637	.	_
 
+Text=For all eight blocks with 20 trials each, log-reaction times of the 16 expected events (ie, spanning those 8 trials when the rewarded feature was followed by reward and the 8 trials when the non-rewarded feature was followed by a circle) were grouped for rewarded versus neutral outcome trials (Condition factor) and combined into 4 time bins each, consisting of 2 consecutive trials (Time factor).
 58-1	8638-8641	For	_
 58-2	8642-8645	all	_
 58-3	8646-8651	eight	_
@@ -1524,6 +1582,7 @@
 58-74	9043-9044	)	_
 58-75	9045-9046	.	_
 
+Text=For analyses targeting responses with regard to different cue features, please see the Supplement.
 59-1	9047-9050	For	_
 59-2	9051-9059	analyses	_
 59-3	9060-9069	targeting	_
@@ -1541,6 +1600,7 @@
 59-15	9135-9145	Supplement	_
 59-16	9146-9147	.	_
 
+Text=For aberrant salience attribution, aberrant salience scores were calculated as in the previous literature, and reflected an individual bias towards one of the two irrelevant cue manifestations based on the ground truth contingencies.
 60-1	9148-9151	For	_
 60-2	9152-9160	aberrant	_
 60-3	9161-9169	salience	_
@@ -1578,6 +1638,7 @@
 60-35	9369-9382	contingencies	_
 60-36	9383-9384	.	_
 
+Text=For that, the mean reaction times (in ms) to each of the four cue features when they were irrelevant to the task were calculated.
 61-1	9385-9388	For	_
 61-2	9389-9393	that	_
 61-3	9394-9395	,	_
@@ -1607,6 +1668,7 @@
 61-27	9506-9516	calculated	_
 61-28	9517-9518	.	_
 
+Text=Then, aberrant salience was calculated as the absolute difference in reaction times between both manifestations of each condition (eg, square over triangle when shape is irrelevant).
 62-1	9519-9523	Then	_
 62-2	9524-9525	,	_
 62-3	9526-9534	aberrant	_
@@ -1639,6 +1701,7 @@
 62-30	9703-9704	)	_
 62-31	9705-9706	.	_
 
+Text=Then, these two scores were collapsed across test halves.
 63-1	9707-9711	Then	_
 63-2	9712-9713	,	_
 63-3	9714-9719	these	_
@@ -1651,6 +1714,7 @@
 63-10	9758-9764	halves	_
 63-11	9765-9766	.	_
 
+Text=Computational modeling of relevant and irrelevant predictions We used detailed computational modeling combined with model selection in order to assess the learning mechanisms driving the observed individual behavior.
 64-1	9767-9780	Computational	_
 64-2	9781-9789	modeling	_
 64-3	9790-9792	of	_
@@ -1681,6 +1745,7 @@
 64-28	9974-9982	behavior	_
 64-29	9983-9984	.	_
 
+Text=By that we tested if subjects learned the underlying cue-outcome associations and inferred the relevant cue feature.
 65-1	9985-9987	By	_
 65-2	9988-9992	that	_
 65-3	9993-9995	we	_
@@ -1700,6 +1765,7 @@
 65-17	10093-10100	feature	_
 65-18	10101-10102	.	_
 
+Text=In keeping with our initial definition of relevance, a cue feature should be perceived as more relevant the more precisely it is believed to predict the outcome.
 66-1	10103-10105	In	_
 66-2	10106-10113	keeping	_
 66-3	10114-10118	with	_
@@ -1730,6 +1796,7 @@
 66-28	10257-10264	outcome	_
 66-29	10265-10266	.	_
 
+Text=In contrast, if the association between cue feature and outcome is very noisy, because the occurrence of reward and circle are equally probable this feature should be perceived as irrelevant.
 67-1	10267-10269	In	_
 67-2	10270-10278	contrast	_
 67-3	10279-10280	,	_
@@ -1764,6 +1831,7 @@
 67-32	10449-10459	irrelevant	_
 67-33	10460-10461	.	_
 
+Text=We set up novel response models that postulated slowing down of responses when the expectations were violated.
 68-1	10462-10464	We	_
 68-2	10465-10468	set	_
 68-3	10469-10471	up	_
@@ -1783,6 +1851,7 @@
 68-17	10563-10571	violated	_
 68-18	10572-10573	.	_
 
+Text=Computationally, a violation was captured by the unsigned PE of each feature.
 69-1	10574-10589	Computationally	_
 69-2	10590-10591	,	_
 69-3	10592-10593	a	_
@@ -1798,6 +1867,7 @@
 69-13	10644-10651	feature	_
 69-14	10652-10653	.	_
 
+Text=In different models, we compared if unsigned PEs of the different cue features differentially affected behavior based on their current relevance.
 70-1	10654-10656	In	_
 70-2	10657-10666	different	_
 70-3	10667-10673	models	_
@@ -1822,6 +1892,7 @@
 70-22	10790-10799	relevance	_
 70-23	10800-10801	.	_
 
+Text=By the relevance weighted PE, we implemented increased adaptation to surprising events (unsigned PE) predicted by the most relevant cue feature as well as decreased adaptation to the irrelevant cue feature.
 71-1	10802-10804	By	_
 71-2	10805-10808	the	_
 71-3	10809-10818	relevance	_
@@ -1858,6 +1929,7 @@
 71-34	11003-11010	feature	_
 71-35	11011-11012	.	_
 
+Text=Thereby, we tested if individuals adapted their behavior less to events when these had proven to be noisy and uninformative in the past.
 72-1	11013-11020	Thereby	_
 72-2	11021-11022	,	_
 72-3	11023-11025	we	_
@@ -1884,6 +1956,7 @@
 72-24	11145-11149	past	_
 72-25	11150-11151	.	_
 
+Text=Instead, they would adapt their behavior to those unexpected events that were held to be informative because these may actually signal a real change in the environment (as the contingency changes in our task).
 73-1	11152-11159	Instead	_
 73-2	11160-11161	,	_
 73-3	11162-11166	they	_
@@ -1923,6 +1996,7 @@
 73-37	11362-11363	)	_
 73-38	11364-11365	.	_
 
+Text=Our modeling analysis was guided by two aims: Modeling two parallel learning processes of predicting the relevant and the irrelevant cue feature in order to compute distinct prediction error trajectories [for a comparable learning model, please see].
 74-1	11366-11369	Our	_
 74-2	11370-11378	modeling	_
 74-3	11379-11387	analysis	_
@@ -1966,6 +2040,7 @@
 74-41	11618-11619	]	_
 74-42	11620-11621	.	_
 
+Text=Here, it is crucial to determine a formal definition of “ relevance ” since the participants had to dynamically infer which cue feature was relevant for predicting the outcome (even though this was not necessary to solve the task, that is, discriminating between a coin and a circle).
 75-1	11622-11626	Here	_
 75-2	11627-11628	,	_
 75-3	11629-11631	it	_
@@ -2021,6 +2096,7 @@
 75-53	11909-11910	)	_
 75-54	11911-11912	.	_
 
+Text=Describing the aberrant salience effect to an irrelevant feature as seen in previous analyses on a computational level by finding interindividual differences in model parameters capturing this effect.
 76-1	11913-11923	Describing	_
 76-2	11924-11927	the	_
 76-3	11928-11936	aberrant	_
@@ -2051,6 +2127,7 @@
 76-28	12106-12112	effect	_
 76-29	12113-12114	.	_
 
+Text=We modeled predictions for each of the two cue features, shape and color, in separate HGF learning models so that a trial-by-trial expectation was computed for each feature (learning model).
 77-1	12115-12117	We	_
 77-2	12118-12125	modeled	_
 77-3	12126-12137	predictions	_
@@ -2087,6 +2164,7 @@
 77-34	12307-12308	)	_
 77-35	12309-12310	.	_
 
+Text=We did not model relevant and irrelevant conditions separately because of two reasons.
 78-1	12311-12313	We	_
 78-2	12314-12317	did	_
 78-3	12318-12321	not	_
@@ -2102,6 +2180,7 @@
 78-13	12389-12396	reasons	_
 78-14	12397-12398	.	_
 
+Text=First, the generative model was supposed to capture the subjects ’ learning experience and they were not instructed about the task structure having relevant and irrelevant conditions.
 79-1	12399-12404	First	_
 79-2	12405-12406	,	_
 79-3	12407-12410	the	_
@@ -2132,6 +2211,7 @@
 79-28	12572-12582	conditions	_
 79-29	12583-12584	.	_
 
+Text=Instead they were only primed with the distinction by feature, color and shape, in the practice session.
 80-1	12585-12592	Instead	_
 80-2	12593-12597	they	_
 80-3	12598-12602	were	_
@@ -2153,6 +2233,7 @@
 80-19	12683-12690	session	_
 80-20	12691-12692	.	_
 
+Text=Second, after the first half of the experiment we switched the relevant dimension (e.g.
 81-1	12693-12699	Second	_
 81-2	12700-12701	,	_
 81-3	12702-12707	after	_
@@ -2171,12 +2252,14 @@
 81-16	12778-12781	e.g	_
 81-17	12782-12783	.	_
 
+Text=shape to color).
 82-1	12784-12789	shape	_
 82-2	12790-12792	to	_
 82-3	12793-12798	color	_
 82-4	12799-12800	)	_
 82-5	12801-12802	.	_
 
+Text=Hence, modeling separately for relevance versus irrelevance would have introduced external information on the task structure that was not accessible to subjects and thus not generative.
 83-1	12803-12808	Hence	_
 83-2	12809-12810	,	_
 83-3	12811-12819	modeling	_
@@ -2206,6 +2289,7 @@
 83-27	12978-12988	generative	_
 83-28	12989-12990	.	_
 
+Text=The resulting learning trajectories for shape and color were transformed into trial-by-trial predictors of reaction times (response model).
 84-1	12991-12994	The	_
 84-2	12995-13004	resulting	_
 84-3	13005-13013	learning	_
@@ -2228,6 +2312,7 @@
 84-20	13130-13131	)	_
 84-21	13132-13133	.	_
 
+Text=Hierarchical Gaussian filter [HGF;] According to the ‘ Bayesian brain ’ hypothesis, an agent forms a generative model of the world in part by increasing the precision of predictions (μ) to successfully adapt one ’ s behavior.
 85-1	13134-13146	Hierarchical	_
 85-2	13147-13155	Gaussian	_
 85-3	13156-13162	filter	_
@@ -2273,6 +2358,7 @@
 85-43	13356-13364	behavior	_
 85-44	13365-13366	.	_
 
+Text=The HGF offers a generic framework for Bayesian learning on multiple hierarchical levels.
 86-1	13367-13370	The	_
 86-2	13371-13374	HGF	_
 86-3	13375-13381	offers	_
@@ -2288,6 +2374,7 @@
 86-13	13449-13455	levels	_
 86-14	13456-13457	.	_
 
+Text=Crucially, the belief update at each level is comprised of a lower-level prediction error that is weighted according to a cross-level precision ratio (Eqs 1 and 2; i for learning level, and k for trial number).
 87-1	13458-13467	Crucially	_
 87-2	13468-13469	,	_
 87-3	13470-13473	the	_
@@ -2331,6 +2418,7 @@
 87-41	13671-13672	)	_
 87-42	13673-13674	.	_
 
+Text=The precision of each level ’ s prediction is defined as the inverse variance of the prediction.
 88-1	13675-13678	The	_
 88-2	13679-13688	precision	_
 88-3	13689-13691	of	_
@@ -2350,6 +2438,7 @@
 88-17	13760-13770	prediction	_
 88-18	13771-13772	.	_
 
+Text=We used a “ two branches ” version of the HGF for parallel learning of the shape and color associations with the outcome.
 89-1	13773-13775	We	_
 89-2	13776-13780	used	_
 89-3	13781-13782	a	_
@@ -2375,6 +2464,7 @@
 89-23	13886-13893	outcome	_
 89-24	13894-13895	.	_
 
+Text=In our modelling, we focused on the reliability and thus undirected beliefs about associations.
 90-1	13896-13898	In	_
 90-2	13899-13902	our	_
 90-3	13903-13912	modelling	_
@@ -2392,6 +2482,7 @@
 90-15	13979-13991	associations	_
 90-16	13992-13993	.	_
 
+Text=Thus, the direction of the learning trajectories (association beliefs and prediction errors δ) did not reflect the reward value but an arbitrarily determined relationship between cue feature manifestations and outcomes.
 91-1	13994-13998	Thus	_
 91-2	13999-14000	,	_
 91-3	14001-14004	the	_
@@ -2427,6 +2518,7 @@
 91-33	14207-14215	outcomes	_
 91-34	14216-14217	.	_
 
+Text=A more detailed description of the HGF and its levels can be found in the Supplement.
 92-1	14218-14219	A	_
 92-2	14220-14224	more	_
 92-3	14225-14233	detailed	_
@@ -2445,6 +2537,7 @@
 92-16	14292-14302	Supplement	_
 92-17	14303-14304	.	_
 
+Text=A novel definition of relevance: First-level precision Since the core aim of this study was the dissociation between learning about relevant versus irrelevant cue features, the term relevance needs to be defined formally.
 93-1	14305-14306	A	_
 93-2	14307-14312	novel	_
 93-3	14313-14323	definition	_
@@ -2482,6 +2575,7 @@
 93-35	14519-14527	formally	_
 93-36	14528-14529	.	_
 
+Text=In terms of the ISP, a cue feature should be perceived as more relevant the more precisely it is believed to predict the outcome.
 94-1	14530-14532	In	_
 94-2	14533-14538	terms	_
 94-3	14539-14541	of	_
@@ -2509,6 +2603,7 @@
 94-25	14652-14659	outcome	_
 94-26	14660-14661	.	_
 
+Text=In contrast, if the belief of an association is 0.5 it should be perceived as irrelevant for outcome prediction (because in this case reward and circle will occur with the same probability and cannot be reliably predicted).
 95-1	14662-14664	In	_
 95-2	14665-14673	contrast	_
 95-3	14674-14675	,	_
@@ -2552,6 +2647,7 @@
 95-41	14887-14888	)	_
 95-42	14889-14890	.	_
 
+Text=In the HGF framework, this interpretation of relevance is reflected in the estimated precision of prediction on the first level (see 4).
 96-1	14891-14893	In	_
 96-2	14894-14897	the	_
 96-3	14898-14901	HGF	_
@@ -2579,6 +2675,7 @@
 96-25	15028-15029	)	_
 96-26	15030-15031	.	_
 
+Text=It is a function only of the first-level association prediction, which ranges between 0 and 1. has a minimum of 4 for and increases symmetrically to infinity as approaches 0 or 1.
 97-1	15032-15034	It	_
 97-2	15035-15037	is	_
 97-3	15038-15039	a	_
@@ -2614,6 +2711,7 @@
 97-33	15210-15211	1	_
 97-34	15212-15213	.	_
 
+Text=This relevance could affect how beliefs are updated (for this implementation (‘ precision feedback ’), see the Supplement) and/or how learning signals affect behavior, which we implemented in four response models.
 98-1	15214-15218	This	_
 98-2	15219-15228	relevance	_
 98-3	15229-15234	could	_
@@ -2653,6 +2751,7 @@
 98-37	15426-15432	models	_
 98-38	15433-15434	.	_
 
+Text=Our learning model space contained 2-level and 3-level HGFs with and without precision feedback (see Supplement), leading to four different hierarchical learning models: 2HGF, 2HGFprecfb, 3HGF, and 3HGFprecfb.
 99-1	15435-15438	Our	_
 99-2	15439-15447	learning	_
 99-3	15448-15453	model	_
@@ -2690,6 +2789,7 @@
 99-35	15640-15650	3HGFprecfb	_
 99-36	15651-15652	.	_
 
+Text=Response models Prediction errors relating to the cue feature that is thought to be more relevant might translate more strongly into reaction times, and the aberrant salience effect found in the raw data may be explained as a bias towards one of the irrelevant features on a trial-by-trial basis.
 100-1	15653-15661	Response	_
 100-2	15662-15668	models	_
 100-3	15669-15679	Prediction	_
@@ -2742,6 +2842,7 @@
 100-50	15944-15949	basis	_
 100-51	15950-15951	.	_
 
+Text=Both aspects were formalized in the following four response models.
 101-1	15952-15956	Both	_
 101-2	15957-15964	aspects	_
 101-3	15965-15969	were	_
@@ -2754,6 +2855,7 @@
 101-10	16012-16018	models	_
 101-11	16019-16020	.	_
 
+Text=The baseline response model (see Eq 4) postulates that trial-by-trial reaction times are a linear function of the mean of the prediction errors of both features (4.1.1), a constant bias towards one feature manifestation (eg, triangles over squares) and the outcome (eg, slower for circles than for coin trials; 4.2.1).
 102-1	16021-16024	The	_
 102-2	16025-16033	baseline	_
 102-3	16034-16042	response	_
@@ -2818,6 +2920,7 @@
 102-62	16349-16350	)	_
 102-63	16351-16352	.	_
 
+Text=The four cue manifestation vectors m reflect whether the respective manifestations were displayed for every trial (eg, 1 for triangles and 0 for squares in mtriangle).
 103-1	16353-16356	The	_
 103-2	16357-16361	four	_
 103-3	16362-16365	cue	_
@@ -2849,6 +2952,7 @@
 103-29	16521-16522	)	_
 103-30	16523-16524	.	_
 
+Text=This response model was modified in three ways.
 104-1	16525-16529	This	_
 104-2	16530-16538	response	_
 104-3	16539-16544	model	_
@@ -2859,6 +2963,7 @@
 104-8	16567-16571	ways	_
 104-9	16572-16573	.	_
 
+Text=In a first modification (4.1.2), the absolute prediction errors of each feature were weighted according to their respective relevance weight (rel; 5).
 105-1	16574-16576	In	_
 105-2	16577-16578	a	_
 105-3	16579-16584	first	_
@@ -2889,6 +2994,7 @@
 105-28	16728-16729	)	_
 105-29	16730-16731	.	_
 
+Text=The latter is formalized as the relative amount of each feature ’ s precision given the overall precisions of both features.
 106-1	16732-16735	The	_
 106-2	16736-16742	latter	_
 106-3	16743-16745	is	_
@@ -2912,6 +3018,7 @@
 106-21	16847-16855	features	_
 106-22	16856-16857	.	_
 
+Text=In a second modification and in line with the aberrant salience effect, the constant bias was weighted according to its feature ’ s irrelevance (irrel; see Eq 4.2.2).
 107-1	16858-16860	In	_
 107-2	16861-16862	a	_
 107-3	16863-16869	second	_
@@ -2946,6 +3053,7 @@
 107-32	17026-17027	)	_
 107-33	17028-17029	.	_
 
+Text=The irrelevance weight of one feature was defined as the relevance weight of the opposing feature (see Eq 5).
 108-1	17030-17033	The	_
 108-2	17034-17045	irrelevance	_
 108-3	17046-17052	weight	_
@@ -2969,6 +3077,7 @@
 108-21	17139-17140	)	_
 108-22	17141-17142	.	_
 
+Text=From the four cue feature parameters (β2, …, β5) one composite parameter was calculated in two steps.
 109-1	17143-17147	From	_
 109-2	17148-17151	the	_
 109-3	17152-17156	four	_
@@ -2992,6 +3101,7 @@
 109-21	17242-17247	steps	_
 109-22	17248-17249	.	_
 
+Text=First, the individual absolute differences between the β2 and β3 for irrelevance weighted manifestations within color (and between the β4 and β5 for shape manifestations) were calculated.
 110-1	17250-17255	First	_
 110-2	17256-17257	,	_
 110-3	17258-17261	the	_
@@ -3024,6 +3134,7 @@
 110-30	17429-17439	calculated	_
 110-31	17440-17441	.	_
 
+Text=Then, they were collapsed across color and shape to achieve one parameter βirrelevance capturing the bias towards one cue feature manifestation that increased with subjective irrelevance.
 111-1	17442-17446	Then	_
 111-2	17447-17448	,	_
 111-3	17449-17453	they	_
@@ -3053,6 +3164,7 @@
 111-27	17618-17629	irrelevance	_
 111-28	17630-17631	.	_
 
+Text=Thus, we compared four different response models: the baseline model (Eq 4), the baseline model with relevance weighted absolute prediction errors (Eq 4 with modification term 4.1.2; RelPE), the baseline model with only the irrelevance bias (Eq 4 with modification term 4.2.2; IrrelBias), and a full model with both modifications (Eq 4 with modification terms 4.1.2 and 4.2.2; RelPE+IrrelBias).
 112-1	17632-17636	Thus	_
 112-2	17637-17638	,	_
 112-3	17639-17641	we	_
@@ -3130,6 +3242,7 @@
 112-75	18040-18041	)	_
 112-76	18042-18043	.	_
 
+Text=This led to a total model space of 16 model combinations (see Figure S1).
 113-1	18044-18048	This	_
 113-2	18049-18052	led	_
 113-3	18053-18055	to	_
@@ -3148,6 +3261,7 @@
 113-16	18117-18118	)	_
 113-17	18119-18120	.	_
 
+Text=Model fitting and Bayesian model comparison All models were fitted using the HGF toolbox 4.15 as part of TNU Algorithms for Psychiatry-Advancing Science (TAPAS, http: //www.translationalneuromodeling.org/tapas/).
 114-1	18121-18126	Model	_
 114-2	18127-18134	fitting	_
 114-3	18135-18138	and	_
@@ -3180,6 +3294,7 @@
 114-30	18335-18336	)	_
 114-31	18337-18338	.	_
 
+Text=For optimization, a quasi-Newton optimization algorithm was applied.
 115-1	18339-18342	For	_
 115-2	18343-18355	optimization	_
 115-3	18356-18357	,	_
@@ -3191,6 +3306,7 @@
 115-9	18400-18407	applied	_
 115-10	18408-18409	.	_
 
+Text=We used random-effects Bayesian Model Selection [BMS, spm_BMS in SPM12, www.fil.ion.ucl.uk/spm;] for each subject ’ s and each model ’ s negative free energy (as an approximation to log-model evidence) in order to identify which of the competing models best explained the subjects ’ response time data.
 116-1	18410-18412	We	_
 116-2	18413-18417	used	_
 116-3	18418-18432	random-effects	_
@@ -3247,6 +3363,7 @@
 116-54	18714-18718	data	_
 116-55	18719-18720	.	_
 
+Text=BMS takes into account accuracy of each model and also penalizes for complexity.
 117-1	18721-18724	BMS	_
 117-2	18725-18730	takes	_
 117-3	18731-18735	into	_
@@ -3262,6 +3379,7 @@
 117-13	18790-18800	complexity	_
 117-14	18801-18802	.	_
 
+Text=It accounts for heterogeneity across subjects and treats each model as a random variable in the population.
 118-1	18803-18805	It	_
 118-2	18806-18814	accounts	_
 118-3	18815-18818	for	_
@@ -3281,6 +3399,7 @@
 118-17	18899-18909	population	_
 118-18	18910-18911	.	_
 
+Text=We report protected exceedance probabilities for each model (PXP) and posterior probabilities (PP) as well as exceedance probabilities (XP) for model families (HGF vs. HGFprecfb; 2HGF vs. 3HGF; BL vs. RelPE vs. IrrelBias vs. RelPE+IrrelBias).
 119-1	18912-18914	We	_
 119-2	18915-18921	report	_
 119-3	18922-18931	protected	_
@@ -3328,6 +3447,7 @@
 119-45	19162-19163	)	_
 119-46	19164-19165	.	_
 
+Text=The XP describes the relative probability that the model would better replicate the data in comparison with the other models.
 120-1	19166-19169	The	_
 120-2	19170-19172	XP	_
 120-3	19173-19182	describes	_
@@ -3350,6 +3470,7 @@
 120-20	19284-19290	models	_
 120-21	19291-19292	.	_
 
+Text=The PXP that governed our model selection protects against the ‘ null ’ possibility that there are no differences in the likelihood of models across the population.
 121-1	19293-19296	The	_
 121-2	19297-19300	PXP	_
 121-3	19301-19305	that	_
@@ -3379,6 +3500,7 @@
 121-27	19446-19456	population	_
 121-28	19457-19458	.	_
 
+Text=Simulation analyses Based on the estimated individual parameters from the best-fitting model, we simulated trial-by-trial reaction time data.
 122-1	19459-19469	Simulation	_
 122-2	19470-19478	analyses	_
 122-3	19479-19484	Based	_
@@ -3400,6 +3522,7 @@
 122-19	19596-19600	data	_
 122-20	19601-19602	.	_
 
+Text=In addition to the Bayesian model comparison, we tested the model ’ s credibility by carrying out the same analyses as in the raw data section on the simulated data ((1) Expectedness * Group ANOVA, (2) Condition * Time * Group ANOVA, (3) ‘ ground truth ’ aberrant salience group differences).
 123-1	19603-19605	In	_
 123-2	19606-19614	addition	_
 123-3	19615-19617	to	_
@@ -3464,6 +3587,7 @@
 123-62	19904-19905	)	_
 123-63	19906-19907	.	_
 
+Text=Using this approach, we checked whether the model was capable of reproducing the meaningful effects and group differences that were evident in the data.
 124-1	19908-19913	Using	_
 124-2	19914-19918	this	_
 124-3	19919-19927	approach	_
@@ -3491,6 +3615,7 @@
 124-25	20056-20060	data	_
 124-26	20061-20062	.	_
 
+Text=Functional magnetic resonance imaging For single and group statistics, an event-related analysis was applied using the general linear model (GLM) approach as implemented in SPM12 (http: //www.fil.ion.ucl.ac.uk/spm/software/spm12/).
 125-1	20063-20073	Functional	_
 125-2	20074-20082	magnetic	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 125-3	20083-20092	resonance	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -3526,6 +3651,7 @@
 125-33	20298-20299	)	_
 125-34	20300-20301	.	_
 
+Text=On the single subject level, the outcome onsets were convolved with the hemodynamic response function and its temporal derivative.
 126-1	20302-20304	On	_
 126-2	20305-20308	the	_
 126-3	20309-20315	single	_
@@ -3548,6 +3674,7 @@
 126-20	20422-20432	derivative	_
 126-21	20433-20434	.	_
 
+Text=As parametric modulator, the mean of the relevance weighted absolute prediction errors of the best fitting model (2HGF-RelPe+IrrelBias) was introduced, representing how unexpected and salient the observed outcome was based on the subjects ’ learned expectations about the two cue features.
 127-1	20435-20437	As	_
 127-2	20438-20448	parametric	_
 127-3	20449-20458	modulator	_
@@ -3595,6 +3722,7 @@
 127-45	20719-20727	features	_
 127-46	20728-20729	.	_
 
+Text=Regressors of no interest were no response trials, trials with reaction times> 1.5 seconds and <150 milliseconds, realignment parameters with their first temporal derivative of translational movement, and one regressor for scans with> 1mm scan-to-scan movement.
 128-1	20730-20740	Regressors	_
 128-2	20741-20743	of	_
 128-3	20744-20746	no	_
@@ -3639,6 +3767,7 @@
 128-42	20988-20996	movement	_
 128-43	20997-20998	.	_
 
+Text=For random effects group-level analysis, the individual contrast images for mean relevance weighted PEs were used in a two-sample t-test for between-group comparisons (controls vs. patients).
 129-1	20999-21002	For	_
 129-2	21003-21009	random	_
 129-3	21010-21017	effects	_
@@ -3670,6 +3799,7 @@
 129-29	21191-21192	)	_
 129-30	21193-21194	.	_
 
+Text=Explorative analysis probed the association between model parameter βirrelevance and neural relevance weighted PE signals in schizophrenia patients.
 130-1	21195-21206	Explorative	_
 130-2	21207-21215	analysis	_
 130-3	21216-21222	probed	_
@@ -3690,6 +3820,7 @@
 130-18	21334-21342	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 130-19	21343-21344	.	_
 
+Text=Hence, interindividual βirrelevance scores were introduced as a covariate in a one-sample t-test using the Mean relevance weighted PE contrast.
 131-1	21345-21350	Hence	_
 131-2	21351-21352	,	_
 131-3	21353-21368	interindividual	_
@@ -3713,6 +3844,7 @@
 131-21	21480-21488	contrast	_
 131-22	21489-21490	.	_
 
+Text=Results are reported using FWE correction at the voxel level across the whole brain.
 132-1	21491-21498	Results	_
 132-2	21499-21502	are	_
 132-3	21503-21511	reported	_
@@ -3729,6 +3861,7 @@
 132-14	21569-21574	brain	_
 132-15	21575-21576	.	_
 
+Text=Based on our hypothesis concerning activations in areas previously shown to code salience such as the ACC and insula, namely the so-called salience network, and the nucleus accumbens, we applied small volume correction at the voxel level for the respective bilateral anatomical masks derived from the WFU PickAtlas (http: //fmri.wfubmc.edu/software/pickatlas).
 133-1	21577-21582	Based	_
 133-2	21583-21585	on	_
 133-3	21586-21589	our	_
@@ -3787,6 +3920,7 @@
 133-56	21941-21942	)	_
 133-57	21943-21944	.	_
 
+Text=Thus, three VOIs were used for small volume correction at pFWE <0.05 and we indicate which results survive Bonferroni correction for three tests.
 134-1	21945-21949	Thus	_
 134-2	21950-21951	,	_
 134-3	21952-21957	three	_

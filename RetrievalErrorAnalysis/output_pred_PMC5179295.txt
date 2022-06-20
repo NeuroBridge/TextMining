@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Magnetoencephalographic and functional MRI connectomics in schizophrenia via intra- and inter-network connectivity Examination of intrinsic functional connectivity using functional MRI (fMRI) has provided important findings regarding dysconnectivity in schizophrenia.
 1-1	0-23	Magnetoencephalographic	_
 1-2	24-27	and	_
 1-3	28-38	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalNearInfraredSpectroscopy
@@ -35,6 +36,7 @@
 1-31	255-268	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 1-32	269-270	.	_
 
+Text=Extending these results using a complementary neuroimaging modality, magnetoencephalography (MEG), we present the first direct comparison of functional connectivity between schizophrenia patients and controls, using these two modalities combined.
 2-1	271-280	Extending	_
 2-2	281-286	these	_
 2-3	287-294	results	_
@@ -71,6 +73,7 @@
 2-34	513-521	combined	_
 2-35	522-523	.	_
 
+Text=We developed a novel MEG approach for estimation of networks using MEG that incorporates spatial independent component analysis (ICA) and pairwise correlations between independent component timecourses, to estimate intra- and intern-network connectivity.
 3-1	524-526	We	_
 3-2	527-536	developed	_
 3-3	537-538	a	_
@@ -108,6 +111,7 @@
 3-35	768-780	connectivity	_
 3-36	781-782	.	_
 
+Text=This analysis enables group-level inference and testing of between-group differences.
 4-1	783-787	This	_
 4-2	788-796	analysis	_
 4-3	797-804	enables	_
@@ -120,6 +124,7 @@
 4-10	856-867	differences	_
 4-11	868-869	.	_
 
+Text=Resting state MEG and fMRI data were acquired from a large sample of healthy controls (n=45) and schizophrenia patients (n=46).
 5-1	870-877	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 5-2	878-883	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 5-3	884-887	MEG	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -146,6 +151,7 @@
 5-24	999-1000	)	_
 5-25	1001-1002	.	_
 
+Text=Group spatial ICA was performed on fMRI and MEG data to extract intrinsic fMRI and MEG networks and to compensate for signal leakage in MEG.
 6-1	1003-1008	Group	_
 6-2	1009-1016	spatial	_
 6-3	1017-1020	ICA	_
@@ -173,6 +179,7 @@
 6-25	1139-1142	MEG	_
 6-26	1143-1144	.	_
 
+Text=Similar, but not identical spatial independent components were detected for MEG and fMRI.
 7-1	1145-1152	Similar	_
 7-2	1153-1154	,	_
 7-3	1155-1158	but	_
@@ -189,6 +196,7 @@
 7-14	1230-1234	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 7-15	1235-1236	.	_
 
+Text=Analysis of functional network connectivity (FNC; i.e., pairwise correlations in network (ICA component) timecourses) revealed a differential between-modalities pattern, with greater connectivity among occipital networks in fMRI and among frontal networks in MEG.
 8-1	1237-1245	Analysis	_
 8-2	1246-1248	of	_
 8-3	1249-1259	functional	_
@@ -231,6 +239,7 @@
 8-40	1503-1506	MEG	_
 8-41	1507-1508	.	_
 
+Text=Most importantly, significant differences between controls and patients were observed in both modalities.
 9-1	1509-1513	Most	_
 9-2	1514-1525	importantly	_
 9-3	1526-1527	,	_
@@ -247,6 +256,7 @@
 9-14	1604-1614	modalities	_
 9-15	1615-1616	.	_
 
+Text=MEG FNC results in particular indicated dysfunctional hyperconnectivity within frontal and temporal networks in patients, while in fMRI FNC was always greater for controls than for patients.
 10-1	1617-1620	MEG	_
 10-2	1621-1624	FNC	_
 10-3	1625-1632	results	_
@@ -277,6 +287,7 @@
 10-28	1799-1807	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 10-29	1808-1809	.	_
 
+Text=This is the first study to apply group spatial ICA as an approach to leakage correction, and as such our results may be biased by spatial leakage effects.
 11-1	1810-1814	This	_
 11-2	1815-1817	is	_
 11-3	1818-1821	the	_
@@ -308,6 +319,7 @@
 11-29	1957-1964	effects	_
 11-30	1965-1966	.	_
 
+Text=Results suggest that combining these two neuroimaging modalities reveals additional disease-relevant patterns of connectivity that were not detectable with fMRI or MEG alone.
 12-1	1967-1974	Results	_
 12-2	1975-1982	suggest	_
 12-3	1983-1987	that	_
@@ -333,9 +345,11 @@
 12-23	2135-2140	alone	_
 12-24	2141-2142	.	_
 
+Text=2.
 13-1	2143-2144	2	_
 13-2	2145-2146	.	_
 
+Text=Materials and Methods 2.1 Participants This investigation combined existing data from 91 participants, 46 schizophrenia patients and 45 healthy controls.
 14-1	2147-2156	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-2	2157-2160	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-3	2161-2168	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -359,6 +373,7 @@
 14-21	2292-2300	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 14-22	2301-2302	.	_
 
+Text=Informed consent was obtained from all participants according to institutional guidelines at the University of New Mexico Human Research Protections Office (HRPO).
 15-1	2303-2311	Informed	_
 15-2	2312-2319	consent	_
 15-3	2320-2323	was	_
@@ -385,6 +400,7 @@
 15-24	2466-2467	)	_
 15-25	2468-2469	.	_
 
+Text=All participants were compensated for their participation.
 16-1	2470-2473	All	_
 16-2	2474-2486	participants	_
 16-3	2487-2491	were	_
@@ -394,6 +410,7 @@
 16-7	2514-2527	participation	_
 16-8	2528-2529	.	_
 
+Text=Patients with a diagnosis of schizophrenia or schizoaffective disorder were invited to participate.
 17-1	2530-2538	Patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 17-2	2539-2543	with	_
 17-3	2544-2545	a	_
@@ -409,6 +426,7 @@
 17-13	2617-2628	participate	_
 17-14	2629-2630	.	_
 
+Text=Each patient completed the Structured Clinical Interview for DSM-IV Axis I Disorders for diagnostic confirmation and evaluation of co-morbidities.
 18-1	2631-2635	Each	_
 18-2	2636-2643	patient	_
 18-3	2644-2653	completed	_
@@ -430,6 +448,7 @@
 18-19	2762-2776	co-morbidities	_
 18-20	2777-2778	.	_
 
+Text=Patients with a history of neurological disorders including head trauma (loss of consciousness> 5 minutes), mental retardation, history of substance dependence, or active substance abuse (except for nicotine) within the past year were excluded, as were patients who were clinically unstable (e.g., in the previous month were discharged from the hospital or had any changes in their psychotropic medications).
 19-1	2779-2787	Patients	_
 19-2	2788-2792	with	_
 19-3	2793-2794	a	_
@@ -503,6 +522,7 @@
 19-71	3197-3198	)	_
 19-72	3199-3200	.	_
 
+Text=Stability was also monitored throughout the study to confirm that patients had no clinically meaningful symptom changes.
 20-1	3201-3210	Stability	_
 20-2	3211-3214	was	_
 20-3	3215-3219	also	_
@@ -522,6 +542,7 @@
 20-17	3313-3320	changes	_
 20-18	3321-3322	.	_
 
+Text=All patients had a negative urine toxicology for drugs of abuse at the time of enrollment in the study.
 21-1	3323-3326	All	_
 21-2	3327-3335	patients	_
 21-3	3336-3339	had	_
@@ -543,6 +564,7 @@
 21-19	3420-3425	study	_
 21-20	3426-3427	.	_
 
+Text=Patients were treated with a variety of antipsychotic medications.
 22-1	3428-3436	Patients	_
 22-2	3437-3441	were	_
 22-3	3442-3449	treated	_
@@ -554,6 +576,7 @@
 22-9	3482-3493	medications	_
 22-10	3494-3495	.	_
 
+Text=The doses of antipsychotic medications were converted to olanzapine equivalents (see Table 1:).
 23-1	3496-3499	The	_
 23-2	3500-3505	doses	_
 23-3	3506-3508	of	_
@@ -572,6 +595,7 @@
 23-16	3592-3593	)	_
 23-17	3594-3595	.	_
 
+Text=Healthy controls were recruited from the same geographic location and completed the SCID – Non-Patient Edition to rule out Axis I conditions.
 24-1	3596-3603	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 24-2	3604-3612	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 24-3	3613-3617	were	_
@@ -596,6 +620,7 @@
 24-22	3726-3736	conditions	_
 24-23	3737-3738	.	_
 
+Text=Although patients and controls were not yoked, demographic characteristics including age, gender, and caregiver socio-economic status were monitored throughout recruitment to ensure that both groups were of similar composition.
 25-1	3739-3747	Although	_
 25-2	3748-3756	patients	_
 25-3	3757-3760	and	_
@@ -630,6 +655,7 @@
 25-32	3957-3968	composition	_
 25-33	3969-3970	.	_
 
+Text=There were no significant between-group differences on these measures (see Table 1), and results were largely unchanged when demographic characteristics were included as covariates.
 26-1	3971-3976	There	_
 26-2	3977-3981	were	_
 26-3	3982-3984	no	_
@@ -659,6 +685,7 @@
 26-27	4144-4154	covariates	_
 26-28	4155-4156	.	_
 
+Text=All participant smokers were instructed not to use tobacco during the two hours prior to each scan to minimize acute effects.
 27-1	4157-4160	All	_
 27-2	4161-4172	participant	_
 27-3	4173-4180	smokers	_
@@ -682,6 +709,7 @@
 27-21	4274-4281	effects	_
 27-22	4282-4283	.	_
 
+Text=This was confirmed via a breath carbon monoxide measure of less than 8 ppm.
 28-1	4284-4288	This	_
 28-2	4289-4292	was	_
 28-3	4293-4302	confirmed	_
@@ -698,6 +726,7 @@
 28-14	4355-4358	ppm	_
 28-15	4359-4360	.	_
 
+Text=Each participant completed resting MEG and MRI scans.
 29-1	4361-4365	Each	_
 29-2	4366-4377	participant	_
 29-3	4378-4387	completed	_
@@ -708,6 +737,7 @@
 29-8	4408-4413	scans	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 29-9	4414-4415	.	_
 
+Text=Scans were collected in counterbalanced order, with a median time between scans of approximately 22 days.
 30-1	4416-4421	Scans	_
 30-2	4422-4426	were	_
 30-3	4427-4436	collected	_
@@ -727,6 +757,7 @@
 30-17	4517-4521	days	_
 30-18	4522-4523	.	_
 
+Text=2.2 fMRI Data Acquisition All fMRI data were collected on a 3-Tesla Siemens Trio scanner with a 12-channel radio frequency coil.
 31-1	4524-4527	2.2	_
 31-2	4528-4532	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 31-3	4533-4537	Data	_
@@ -750,6 +781,7 @@
 31-21	4647-4651	coil	_
 31-22	4652-4653	.	_
 
+Text=High-resolution T1-weighted structural images were acquired with a five-echo MPRAGE sequence with TE = 1.64, 3.5, 5.36, 7.22, 9.08 ms, TR = 2.53 s, TI = 1.2 s, flip angle = 7°, number of excitations = 1, slice thickness = 1 mm, field of view = 256 mm, resolution = 256×256.
 32-1	4654-4669	High-resolution	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 32-2	4670-4681	T1-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 32-3	4682-4692	structural	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -814,6 +846,7 @@
 32-62	4930-4937	256×256	_
 32-63	4938-4939	.	_
 
+Text=T2 * -weighted functional images were acquired using a gradient-echo EPI sequence with TE = 29 ms, TR = 2 s, flip angle = 75°, slice thickness = 3.5 mm, slice gap = 1.05 mm, field of view 240 mm, matrix size = 64x64, voxel size = 3.75 mm×3.75 mm×4.55 mm.
 33-1	4940-4942	T2	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 33-2	4943-4944	*	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 33-3	4945-4954	-weighted	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -874,6 +907,7 @@
 33-58	5198-5200	mm	_
 33-59	5201-5202	.	_
 
+Text=Resting-state scans consisted of 149 volumes per run.
 34-1	5203-5216	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 34-2	5217-5222	scans	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 34-3	5223-5232	consisted	_
@@ -884,6 +918,7 @@
 34-8	5252-5255	run	_
 34-9	5256-5257	.	_
 
+Text=2.3 fMRI Data Preprocessing An automated preprocessing pipeline and neuroinformatics system developed at MRN was used to preprocess the fMRI data.
 35-1	5258-5261	2.3	_
 35-2	5262-5266	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 35-3	5267-5271	Data	_
@@ -907,6 +942,7 @@
 35-21	5399-5403	data	_
 35-22	5404-5405	.	_
 
+Text=The first four volumes were discarded to remove T1 equilibration effects.
 36-1	5406-5409	The	_
 36-2	5410-5415	first	_
 36-3	5416-5420	four	_
@@ -920,6 +956,7 @@
 36-11	5471-5478	effects	_
 36-12	5479-5480	.	_
 
+Text=Images were realigned and slice-timing correction was applied using the middle slice as the reference frame in the functional data pipeline.
 37-1	5481-5487	Images	_
 37-2	5488-5492	were	_
 37-3	5493-5502	realigned	_
@@ -943,6 +980,7 @@
 37-21	5612-5620	pipeline	_
 37-22	5621-5622	.	_
 
+Text=The data were then spatially normalized to the standard MNI space, resampled to 3×3× 3 mm voxels, and smoothed using a Gaussian kernel with a full-width at half-maximum (FWHM) of 10 mm.
 38-1	5623-5626	The	_
 38-2	5627-5631	data	_
 38-3	5632-5636	were	_
@@ -981,6 +1019,7 @@
 38-36	5809-5811	mm	_
 38-37	5812-5813	.	_
 
+Text=The preprocessed time series data were scaled to a mean of 100.
 39-1	5814-5817	The	_
 39-2	5818-5830	preprocessed	_
 39-3	5831-5835	time	_
@@ -995,6 +1034,7 @@
 39-12	5873-5876	100	_
 39-13	5877-5878	.	_
 
+Text=2.4 fMRI Group Spatial Independent Component Analysis (gsICA) Following Allen et al., we performed a subject-specific data reduction PCA retaining 100 principal components (PC).
 40-1	5879-5882	2.4	_
 40-2	5883-5887	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 40-3	5888-5893	Group	_
@@ -1026,6 +1066,7 @@
 40-29	6059-6060	)	_
 40-30	6061-6062	.	_
 
+Text=In order to use memory more efficiently, group data reduction was performed using an EM-based PCA algorithm and C = 75 PCs were retained.
 41-1	6063-6065	In	_
 41-2	6066-6071	order	_
 41-3	6072-6074	to	_
@@ -1053,6 +1094,7 @@
 41-25	6192-6200	retained	_
 41-26	6201-6202	.	_
 
+Text=The infomax algorithm (cf.)
 42-1	6203-6206	The	_
 42-2	6207-6214	infomax	_
 42-3	6215-6224	algorithm	_
@@ -1061,12 +1103,14 @@
 42-6	6230-6231	.	_
 42-7	6232-6233	)	_
 
+Text=was used for gICA.
 43-1	6234-6237	was	_
 43-2	6238-6242	used	_
 43-3	6243-6246	for	_
 43-4	6247-6251	gICA	_
 43-5	6252-6253	.	_
 
+Text=It was performed using the GIFT Toolbox (http: //mialab.mrn.org/software/gift/).
 44-1	6254-6256	It	_
 44-2	6257-6260	was	_
 44-3	6261-6270	performed	_
@@ -1081,6 +1125,7 @@
 44-12	6335-6336	)	_
 44-13	6337-6338	.	_
 
+Text=This high model order ICA (number of components, C = 75) affords a number of advantages, including the ability to use the resulting FNC matrix to infer how components would group in the case of a lower-dimension estimation, as well as refined components that correspond to known anatomical and functional segmentation.
 45-1	6339-6343	This	_
 45-2	6344-6348	high	_
 45-3	6349-6354	model	_
@@ -1139,6 +1184,7 @@
 45-56	6649-6661	segmentation	_
 45-57	6662-6663	.	_
 
+Text=In order to estimate the reliability of the decomposition, the Infomax ICA algorithm was applied repeatedly via ICASSO and resulting components were clustered.
 46-1	6664-6666	In	_
 46-2	6667-6672	order	_
 46-3	6673-6675	to	_
@@ -1165,6 +1211,7 @@
 46-24	6814-6823	clustered	_
 46-25	6824-6825	.	_
 
+Text=Subject-specific maps and timecourses were estimated using a back-reconstruction approach based on PCA compression and projection.
 47-1	6826-6842	Subject-specific	_
 47-2	6843-6847	maps	_
 47-3	6848-6851	and	_
@@ -1183,6 +1230,7 @@
 47-16	6945-6955	projection	_
 47-17	6956-6957	.	_
 
+Text=2.5 fMRI Feature Identification To identify non-artifactual components that contain features associated with resting state networks a combination of two methods was used.
 48-1	6958-6961	2.5	_
 48-2	6962-6966	fMRI	_
 48-3	6967-6974	Feature	_
@@ -1208,6 +1256,7 @@
 48-23	7123-7127	used	_
 48-24	7128-7129	.	_
 
+Text=In the first method we examined the power spectra with two criteria in mind: dynamic range and low frequency/high frequency ratio.
 49-1	7130-7132	In	_
 49-2	7133-7136	the	_
 49-3	7137-7142	first	_
@@ -1232,6 +1281,7 @@
 49-22	7255-7260	ratio	_
 49-23	7261-7262	.	_
 
+Text=Dynamic range refers to the difference between the peak power and minimum power at frequencies to the right of the peak in the power spectra.
 50-1	7263-7270	Dynamic	_
 50-2	7271-7276	range	_
 50-3	7277-7283	refers	_
@@ -1259,6 +1309,7 @@
 50-25	7396-7403	spectra	_
 50-26	7404-7405	.	_
 
+Text=Low frequency to high frequency power ratio is the ratio of the integral of spectral power below 0.10 Hz to the integral of power between 0.15 and 0.25 Hz.
 51-1	7406-7409	Low	_
 51-2	7410-7419	frequency	_
 51-3	7420-7422	to	_
@@ -1290,6 +1341,7 @@
 51-29	7558-7560	Hz	_
 51-30	7561-7562	.	_
 
+Text=To verify the results, three expert reviewers evaluated the components for functional relevance.
 52-1	7563-7565	To	_
 52-2	7566-7572	verify	_
 52-3	7573-7576	the	_
@@ -1306,6 +1358,7 @@
 52-14	7650-7659	relevance	_
 52-15	7660-7661	.	_
 
+Text=In this evaluation, if a component exhibited 1) peak activation in gray matter, 2) low spatial overlap with known vascular, ventricular, motion, and susceptibility artifacts, and 3) TCs dominated by low frequency fluctuations, it was classified as a non-artifactual component.
 53-1	7662-7664	In	_
 53-2	7665-7669	this	_
 53-3	7670-7680	evaluation	_
@@ -1358,6 +1411,7 @@
 53-50	7938-7947	component	_
 53-51	7948-7949	.	_
 
+Text=Of the 75 components returned by the gICA, 39 were identified as BOLD-related component; see Fig.
 54-1	7950-7952	Of	_
 54-2	7953-7956	the	_
 54-3	7957-7959	75	_
@@ -1378,9 +1432,11 @@
 54-18	8045-8048	Fig	_
 54-19	8049-8050	.	_
 
+Text=S1.
 55-1	8051-8053	S1	_
 55-2	8054-8055	.	_
 
+Text=2.6 MEG data acquisition MEG data were collected in a magnetically and electrically shielded room (VAC Series Ak3B, Vacuumschmelze GmbH) using a whole-cortex 306-channel MEG array (Elekta Neuromag™) at the Mind Research Network.
 56-1	8056-8059	2.6	_
 56-2	8060-8063	MEG	_
 56-3	8064-8068	data	_
@@ -1421,6 +1477,7 @@
 56-38	8281-8288	Network	_
 56-39	8289-8290	.	_
 
+Text=Before positioning the participant in the MEG, four coils were affixed to the participant ’ s head: two on the forehead and one behind each ear.
 57-1	8291-8297	Before	_
 57-2	8298-8309	positioning	_
 57-3	8310-8313	the	_
@@ -1451,6 +1508,7 @@
 57-28	8433-8436	ear	_
 57-29	8437-8438	.	_
 
+Text=These coils allow determination of the position of the participant ’ s head relative to the position and orientation of the MEG sensors.
 58-1	8439-8444	These	_
 58-2	8445-8450	coils	_
 58-3	8451-8456	allow	_
@@ -1476,6 +1534,7 @@
 58-23	8567-8574	sensors	_
 58-24	8575-8576	.	_
 
+Text=Additional positioning data were collected using a 3D digitizer (Polhemus Fastrak) in order to permit co-localization of MEG activity with the anatomical MRI result for each participant.
 59-1	8577-8587	Additional	_
 59-2	8588-8599	positioning	_
 59-3	8600-8604	data	_
@@ -1507,6 +1566,7 @@
 59-29	8753-8764	participant	_
 59-30	8765-8766	.	_
 
+Text=Two channels of electro-oculogram (EOG), one vertical and one horizontal, and one channel of electrocardiogram (ECG) were collected simultaneously with MEG.
 60-1	8767-8770	Two	_
 60-2	8771-8779	channels	_
 60-3	8780-8782	of	_
@@ -1536,6 +1596,7 @@
 60-27	8925-8928	MEG	_
 60-28	8929-8930	.	_
 
+Text=MEG data were sampled at a rate of 1000 Hz, with a bandpass filter of 0.10 to 330 Hz.
 61-1	8931-8934	MEG	_
 61-2	8935-8939	data	_
 61-3	8940-8944	were	_
@@ -1558,6 +1619,7 @@
 61-20	9014-9016	Hz	_
 61-21	9017-9018	.	_
 
+Text=Head position was monitored continuously throughout the MEG session.
 62-1	9019-9023	Head	_
 62-2	9024-9032	position	_
 62-3	9033-9036	was	_
@@ -1569,6 +1631,7 @@
 62-9	9079-9086	session	_
 62-10	9087-9088	.	_
 
+Text=Raw data were collected and stored.
 63-1	9089-9092	Raw	_
 63-2	9093-9097	data	_
 63-3	9098-9102	were	_
@@ -1577,6 +1640,7 @@
 63-6	9117-9123	stored	_
 63-7	9124-9125	.	_
 
+Text=Participants were instructed to keep their eyes open and maintain fixation during the 6-minute scan to minimize occipital alpha rhythm.
 64-1	9126-9138	Participants	_
 64-2	9139-9143	were	_
 64-3	9144-9154	instructed	_
@@ -1599,6 +1663,7 @@
 64-20	9254-9260	rhythm	_
 64-21	9261-9262	.	_
 
+Text=2.7 MEG data preprocessing Artifact removal, correction for head movement, and downsampling to 250 Hz were conducted offline using Elekta Maxfilter software, with 123 basis vectors, a spatiotemporal buffer of 10 s, and a correlation limit of r=.95.
 65-1	9263-9266	2.7	_
 65-2	9267-9270	MEG	_
 65-3	9271-9275	data	_
@@ -1644,6 +1709,7 @@
 65-43	9510-9515	r=.95	_
 65-44	9516-9517	.	_
 
+Text=Cardiac and blink artefacts were removed using a signal-space projection (SSP) approach.
 66-1	9518-9525	Cardiac	_
 66-2	9526-9529	and	_
 66-3	9530-9535	blink	_
@@ -1660,6 +1726,7 @@
 66-14	9599-9607	approach	_
 66-15	9608-9609	.	_
 
+Text=To facilitate an exploratory comparison with previous research, data were bandpass filtered into four frequency ranges of interest: delta (1–4 Hz), theta (5–9 Hz), alpha (10–15 Hz), and beta (16–29 Hz).
 67-1	9610-9612	To	_
 67-2	9613-9623	facilitate	_
 67-3	9624-9626	an	_
@@ -1706,6 +1773,7 @@
 67-44	9823-9824	)	_
 67-45	9825-9826	.	_
 
+Text=2.8 MEG beamformer projection Covariance matrices were generated independently for each subject and frequency band, using all recorded data.
 68-1	9827-9830	2.8	_
 68-2	9831-9834	MEG	_
 68-3	9835-9845	beamformer	_
@@ -1728,6 +1796,7 @@
 68-20	9963-9967	data	_
 68-21	9968-9969	.	_
 
+Text=Covariance matrices were regularized using a value of 4 times the minimum singular value of the unregularized matrix.
 69-1	9970-9980	Covariance	_
 69-2	9981-9989	matrices	_
 69-3	9990-9994	were	_
@@ -1748,6 +1817,7 @@
 69-18	10080-10086	matrix	_
 69-19	10087-10088	.	_
 
+Text=That is, after estimation of the covariance matrix we regularized the matrix by adding a constant to the diagonal.
 70-1	10089-10093	That	_
 70-2	10094-10096	is	_
 70-3	10097-10098	,	_
@@ -1770,6 +1840,7 @@
 70-20	10195-10203	diagonal	_
 70-21	10204-10205	.	_
 
+Text=The constant added was four times the minimum singular value of the unregularized covariance matrix.
 71-1	10206-10209	The	_
 71-2	10210-10218	constant	_
 71-3	10219-10224	added	_
@@ -1787,6 +1858,7 @@
 71-15	10299-10305	matrix	_
 71-16	10306-10307	.	_
 
+Text=Voxels were placed on a regular 6-mm3 grid spanning the brain image.
 72-1	10308-10314	Voxels	_
 72-2	10315-10319	were	_
 72-3	10320-10326	placed	_
@@ -1801,6 +1873,7 @@
 72-12	10370-10375	image	_
 72-13	10376-10377	.	_
 
+Text=Source orientation at each voxel was based on a nonlinear search for maximum projected signal-to-noise ratio.
 73-1	10378-10384	Source	_
 73-2	10385-10396	orientation	_
 73-3	10397-10399	at	_
@@ -1819,6 +1892,7 @@
 73-16	10481-10486	ratio	_
 73-17	10487-10488	.	_
 
+Text=The forward solution was based on a dipole model and a single-shell boundary element model.
 74-1	10489-10492	The	_
 74-2	10493-10500	forward	_
 74-3	10501-10509	solution	_
@@ -1836,6 +1910,7 @@
 74-15	10574-10579	model	_
 74-16	10580-10581	.	_
 
+Text=Beamformer projection was performed separately for each subject and frequency range.
 75-1	10582-10592	Beamformer	_
 75-2	10593-10603	projection	_
 75-3	10604-10607	was	_
@@ -1849,6 +1924,7 @@
 75-11	10660-10665	range	_
 75-12	10666-10667	.	_
 
+Text=After beamformer projection, source-space signals were normalized by an estimate of projected noise and transformed to standard (MNI) space using FLIRT in FSL.
 76-1	10668-10673	After	_
 76-2	10674-10684	beamformer	_
 76-3	10685-10695	projection	_
@@ -1877,6 +1953,7 @@
 76-26	10826-10829	FSL	_
 76-27	10830-10831	.	_
 
+Text=A Hilbert transform was applied to the time course at each voxel time to derive the analytic signal.
 77-1	10832-10833	A	_
 77-2	10834-10841	Hilbert	_
 77-3	10842-10851	transform	_
@@ -1897,6 +1974,7 @@
 77-18	10925-10931	signal	_
 77-19	10932-10933	.	_
 
+Text=The absolute value of this analytic signal was computed to yield the Hilbert envelope, an amplitude envelope of oscillatory power.
 78-1	10934-10937	The	_
 78-2	10938-10946	absolute	_
 78-3	10947-10952	value	_
@@ -1920,6 +1998,7 @@
 78-21	11059-11064	power	_
 78-22	11065-11066	.	_
 
+Text=The Hilbert envelope at each voxel was downsampled to an effective sampling rate of 1 Hz.
 79-1	11067-11070	The	_
 79-2	11071-11078	Hilbert	_
 79-3	11079-11087	envelope	_
@@ -1938,6 +2017,7 @@
 79-16	11153-11155	Hz	_
 79-17	11156-11157	.	_
 
+Text=Source space envelope data were smoothed spatially (6 mm3 at full-width half-maximum), and the voxel size was resampled to 3×3×3 mm to facilitate comparison with the fMRI data.
 80-1	11158-11164	Source	_
 80-2	11165-11170	space	_
 80-3	11171-11179	envelope	_
@@ -1971,6 +2051,7 @@
 80-31	11332-11336	data	_
 80-32	11337-11338	.	_
 
+Text=While strong and sustained correlations between brain regions can lead to beamformer failure, this requires correlations that persist through 30–40% of the period analyzed, unlikely in resting data.
 81-1	11339-11344	While	_
 81-2	11345-11351	strong	_
 81-3	11352-11355	and	_
@@ -2004,6 +2085,7 @@
 81-31	11535-11539	data	_
 81-32	11540-11541	.	_
 
+Text=2.9 MEG Group Spatial Independent Component Analysis (gsICA) Group spatial ICA was applied to the individual subject data using the GIFT toolbox.
 82-1	11542-11545	2.9	_
 82-2	11546-11549	MEG	_
 82-3	11550-11555	Group	_
@@ -2030,6 +2112,7 @@
 82-24	11681-11688	toolbox	_
 82-25	11689-11690	.	_
 
+Text=The gsICA approach was selected over group temporal ICA (gtICA) for two reasons: 1) Because components produced by gsICA are not temporally independent, relations among network timecourses can be evaluated; and 2) gtICA of participant timecourses carries the assumption of temporal consistency, limiting its utility in group analysis of resting data.
 83-1	11691-11694	The	_
 83-2	11695-11700	gsICA	_
 83-3	11701-11709	approach	_
@@ -2091,6 +2174,7 @@
 83-59	12044-12048	data	_
 83-60	12049-12050	.	_
 
+Text=Replicating and extending the work of, each frequency range was treated as a session in GIFT to permit exploratory analysis of each band, as well as the mean across bands.
 84-1	12051-12062	Replicating	_
 84-2	12063-12066	and	_
 84-3	12067-12076	extending	_
@@ -2125,6 +2209,7 @@
 84-32	12218-12223	bands	_
 84-33	12224-12225	.	_
 
+Text=MEG ICA processing generally followed the procedures applied to the fMRI.
 85-1	12226-12229	MEG	_
 85-2	12230-12233	ICA	_
 85-3	12234-12244	processing	_
@@ -2138,6 +2223,7 @@
 85-11	12294-12298	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 85-12	12299-12300	.	_
 
+Text=Reduction steps were applied using principal component analysis.
 86-1	12301-12310	Reduction	_
 86-2	12311-12316	steps	_
 86-3	12317-12321	were	_
@@ -2148,6 +2234,7 @@
 86-8	12356-12364	analysis	_
 86-9	12365-12366	.	_
 
+Text=First, subject-specific data reduction was applied, retaining 100 principal components.
 87-1	12367-12372	First	_
 87-2	12373-12374	,	_
 87-3	12375-12391	subject-specific	_
@@ -2162,6 +2249,7 @@
 87-12	12445-12455	components	_
 87-13	12456-12457	.	_
 
+Text=Next, group level data reduction was applied to reduce the dataset to 75 principal components.
 88-1	12458-12462	Next	_
 88-2	12463-12464	,	_
 88-3	12465-12470	group	_
@@ -2180,6 +2268,7 @@
 88-16	12542-12552	components	_
 88-17	12553-12554	.	_
 
+Text=Infomax ICA was applied 20 times in ICASSO and the resulting components were clustered.
 89-1	12555-12562	Infomax	_
 89-2	12563-12566	ICA	_
 89-3	12567-12570	was	_
@@ -2196,6 +2285,7 @@
 89-14	12632-12641	clustered	_
 89-15	12642-12643	.	_
 
+Text=Spatial maps were generated by decomposing the mixed MEG timecourses to yield a set of spatially independent and temporally coherent networks.
 90-1	12644-12651	Spatial	_
 90-2	12652-12656	maps	_
 90-3	12657-12661	were	_
@@ -2219,6 +2309,7 @@
 90-21	12777-12785	networks	_
 90-22	12786-12787	.	_
 
+Text=As with fMRI, subject-specific maps and timecourses were estimated using a back-reconstruction approach based on PCA compression and projection.
 91-1	12788-12790	As	_
 91-2	12791-12795	with	_
 91-3	12796-12800	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -2241,6 +2332,7 @@
 91-20	12922-12932	projection	_
 91-21	12933-12934	.	_
 
+Text=This approach was chosen over alternate reconstruction approaches (e.g., GICA1, GICA2, dual regression) because it provides more accurate estimates for each subject and is more readily interpretable.
 92-1	12935-12939	This	_
 92-2	12940-12948	approach	_
 92-3	12949-12952	was	_
@@ -2275,6 +2367,7 @@
 92-32	13125-13138	interpretable	_
 92-33	13139-13140	.	_
 
+Text=2.10 MEG feature identification Consistent with standard practice, component quality was assessed both qualitatively, to remove components situated in white matter and ventricles, and quantitatively, using assessments of dynamic range and the ratio of low-frequency to high-frequency power in each component.
 93-1	13141-13145	2.10	_
 93-2	13146-13149	MEG	_
 93-3	13150-13157	feature	_
@@ -2322,6 +2415,7 @@
 93-45	13443-13452	component	_
 93-46	13453-13454	.	_
 
+Text=Components were separated into artifactual and non-artifactual components.
 94-1	13455-13465	Components	_
 94-2	13466-13470	were	_
 94-3	13471-13480	separated	_
@@ -2332,6 +2426,7 @@
 94-8	13518-13528	components	_
 94-9	13529-13530	.	_
 
+Text=Of the 75 components requested from the group ICA, 29 were retained as non-artifactual components; see Fig.
 95-1	13531-13533	Of	_
 95-2	13534-13537	the	_
 95-3	13538-13540	75	_
@@ -2353,9 +2448,11 @@
 95-19	13636-13639	Fig	_
 95-20	13640-13641	.	_
 
+Text=S2.
 96-1	13642-13644	S2	_
 96-2	13645-13646	.	_
 
+Text=In the present context these criteria, originally applied previously to fMRI ICA components, also appeared to perform well for MEG.
 97-1	13647-13649	In	_
 97-2	13650-13653	the	_
 97-3	13654-13661	present	_
@@ -2380,6 +2477,7 @@
 97-22	13776-13779	MEG	_
 97-23	13780-13781	.	_
 
+Text=As with fMRI, MEG FNC was defined as the zero-lag cross-correlations among reconstructed timecourses.
 98-1	13782-13784	As	_
 98-2	13785-13789	with	_
 98-3	13790-13794	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging

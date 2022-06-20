@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=The cerebellum and learning of non-motor associations in individuals at clinical-high risk for psychosis The cerebello-thalamo-cortical circuit (CTCC) has been implicated in schizophrenia.
 1-1	0-3	The	_
 1-2	4-14	cerebellum	_
 1-3	15-18	and	_
@@ -29,6 +30,7 @@
 1-25	176-189	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 1-26	190-191	.	_
 
+Text=However, this work has been limited to structural and functional networks, or behavior, and to date, has not been evaluated in clinical high-risk (CHR) youth, a group at elevated risk for psychosis.
 2-1	192-199	However	_
 2-2	200-201	,	_
 2-3	202-206	this	_
@@ -70,6 +72,7 @@
 2-39	387-396	psychosis	_
 2-40	397-398	.	_
 
+Text=Here, we used an innovative learning paradigm known to activate the CTCC (while limiting potential motor confounds) to evaluate CHR and healthy control individuals during functional magnetic resonance imaging (fMRI).
 3-1	399-403	Here	_
 3-2	404-405	,	_
 3-3	406-408	we	_
@@ -107,6 +110,7 @@
 3-35	618-619	)	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 3-36	620-621	.	_
 
+Text=20 CHR and 21 healthy control individuals performed a second-order rule learning task while undergoing fMRI.
 4-1	622-624	20	_
 4-2	625-628	CHR	http://maven.renci.org/NeuroBridge/neurobridge#ChronicPain
 4-3	629-632	and	_
@@ -125,6 +129,7 @@
 4-16	725-729	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 4-17	730-731	.	_
 
+Text=This was preceded and followed by the paradigm under dual-task conditions.
 5-1	732-736	This	_
 5-2	737-740	was	_
 5-3	741-749	preceded	_
@@ -138,6 +143,7 @@
 5-11	795-805	conditions	_
 5-12	806-807	.	_
 
+Text=In addition, all participants underwent structured clinical interviews to confirm a prodromal syndrome and assess symptom severity.
 6-1	808-810	In	_
 6-2	811-819	addition	_
 6-3	820-821	,	_
@@ -158,6 +164,7 @@
 6-18	931-939	severity	_
 6-19	940-941	.	_
 
+Text=The rate of learning did not differ between groups.
 7-1	942-945	The	_
 7-2	946-950	rate	_
 7-3	951-953	of	_
@@ -169,6 +176,7 @@
 7-9	986-992	groups	_
 7-10	993-994	.	_
 
+Text=However, the CHR group consistently performed more poorly under dual-task conditions, and exhibited a higher dual-task cost after learning.
 8-1	995-1002	However	_
 8-2	1003-1004	,	_
 8-3	1005-1008	the	_
@@ -192,6 +200,7 @@
 8-21	1127-1135	learning	_
 8-22	1136-1137	.	_
 
+Text=Further, learning rate in the CHR group was significantly associated with symptom severity.
 9-1	1138-1145	Further	_
 9-2	1146-1147	,	_
 9-3	1148-1156	learning	_
@@ -208,6 +217,7 @@
 9-14	1221-1229	severity	_
 9-15	1230-1231	.	_
 
+Text=Both groups showed activation in regions of the CTCC.
 10-1	1232-1236	Both	_
 10-2	1237-1243	groups	_
 10-3	1244-1250	showed	_
@@ -219,6 +229,7 @@
 10-9	1280-1284	CTCC	_
 10-10	1285-1286	.	_
 
+Text=During early learning, the CHR group exhibited greater engagement of regions of the default mode network, suggesting that they were less able to engage the appropriate task positive networks.
 11-1	1287-1293	During	_
 11-2	1294-1299	early	_
 11-3	1300-1308	learning	_
@@ -252,6 +263,7 @@
 11-31	1471-1479	networks	_
 11-32	1480-1481	.	_
 
+Text=During late learning, there were qualitative differences wherein controls showed more prefrontal cortical activation.
 12-1	1482-1488	During	_
 12-2	1489-1493	late	_
 12-3	1494-1502	learning	_
@@ -269,6 +281,7 @@
 12-15	1589-1599	activation	_
 12-16	1600-1601	.	_
 
+Text=Higher order cognitive rule learning is related to symptom severity in CHR individuals.
 13-1	1602-1608	Higher	_
 13-2	1609-1614	order	_
 13-3	1615-1624	cognitive	_
@@ -284,6 +297,7 @@
 13-13	1677-1688	individuals	http://maven.renci.org/NeuroBridge/neurobridge#SubstanceDisorderStatus
 13-14	1689-1690	.	_
 
+Text=fMRI revealed that CHR individuals may not reliably disengage the default mode network, and during late learning high-risk youth may not engage the prefrontal cortex as extensively as controls.
 14-1	1691-1695	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 14-2	1696-1704	revealed	_
 14-3	1705-1709	that	_
@@ -316,6 +330,7 @@
 14-30	1876-1884	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 14-31	1885-1886	.	_
 
+Text=Highlights There are few fMRI studies in youth at clinical high-risk (CHR) of psychosis.
 15-1	1887-1897	Highlights	_
 15-2	1898-1903	There	_
 15-3	1904-1907	are	_
@@ -334,6 +349,7 @@
 15-16	1967-1976	psychosis	_
 15-17	1977-1978	.	_
 
+Text=This is the first task-based fMRI study of the cerebellum in a CHR population.
 16-1	1979-1983	This	_
 16-2	1984-1986	is	_
 16-3	1987-1990	the	_
@@ -350,6 +366,7 @@
 16-14	2046-2056	population	_
 16-15	2057-2058	.	_
 
+Text=CHR learn at a similar rate, but not as well, as healthy controls.
 17-1	2059-2062	CHR	_
 17-2	2063-2068	learn	_
 17-3	2069-2071	at	_
@@ -367,6 +384,7 @@
 17-15	2118-2126	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 17-16	2127-2128	.	_
 
+Text=Learning rate is related to disorganized symptom severity in the CHR group.
 18-1	2129-2137	Learning	_
 18-2	2138-2142	rate	_
 18-3	2143-2145	is	_
@@ -381,6 +399,7 @@
 18-12	2198-2203	group	_
 18-13	2204-2205	.	_
 
+Text=The groups engage cerebello-thalamo-cortical circuits differently during learning.
 19-1	2206-2209	The	_
 19-2	2210-2216	groups	_
 19-3	2217-2223	engage	_
@@ -391,6 +410,7 @@
 19-8	2279-2287	learning	_
 19-9	2288-2289	.	_
 
+Text=Methods Participants Here, we investigated 20 adolescent and young adult CHR individuals (mean age = 20.8 ± 1.54 years, 7 female), and 21 healthy controls (mean age = 21.5 ± 1.83 years, 11 female).
 20-1	2290-2297	Methods	_
 20-2	2298-2310	Participants	_
 20-3	2311-2315	Here	_
@@ -435,6 +455,7 @@
 20-42	2493-2494	)	_
 20-43	2495-2496	.	_
 
+Text=See Table 1 for demographic information.
 21-1	2497-2500	See	_
 21-2	2501-2506	Table	_
 21-3	2507-2508	1	_
@@ -443,6 +464,7 @@
 21-6	2525-2536	information	_
 21-7	2537-2538	.	_
 
+Text=All participants had previously enrolled in a longitudinal study investigating psychosis risk as part of the Adolescent Development and Preventative Treatment (ADAPT) research program at the University of Colorado Boulder.
 22-1	2539-2542	All	_
 22-2	2543-2555	participants	_
 22-3	2556-2559	had	_
@@ -477,6 +499,7 @@
 22-32	2755-2762	Boulder	_
 22-33	2763-2764	.	_
 
+Text=Participants were recruited for participation in this investigation at the end of their annual study visit, or were directly contacted over the phone.
 23-1	2765-2777	Participants	_
 23-2	2778-2782	were	_
 23-3	2783-2792	recruited	_
@@ -503,6 +526,7 @@
 23-24	2910-2915	phone	_
 23-25	2916-2917	.	_
 
+Text=Prior to beginning the study all participants signed an IRB-approved consent form.
 24-1	2918-2923	Prior	_
 24-2	2924-2926	to	_
 24-3	2927-2936	beginning	_
@@ -517,6 +541,7 @@
 24-12	2995-2999	form	_
 24-13	3000-3001	.	_
 
+Text=Exclusion criteria for both groups included a history of head injury, the presence of a neurological disorder, life-time substance dependence as assessed by the Structured Clinical Interview for Axis-I DSM IV Disorders, and the presence of any contraindications for the magnetic resonance imaging environment.
 25-1	3002-3011	Exclusion	_
 25-2	3012-3020	criteria	_
 25-3	3021-3024	for	_
@@ -566,6 +591,7 @@
 25-47	3302-3313	environment	_
 25-48	3314-3315	.	_
 
+Text=In the CHR group, we also excluded individuals with an Axis I psychotic disorder.
 26-1	3316-3318	In	_
 26-2	3319-3322	the	_
 26-3	3323-3326	CHR	_
@@ -583,6 +609,7 @@
 26-15	3389-3397	disorder	_
 26-16	3398-3399	.	_
 
+Text=In the control sample, we excluded individuals with any diagnosis of an Axis I disorder.
 27-1	3400-3402	In	_
 27-2	3403-3406	the	_
 27-3	3407-3414	control	_
@@ -601,6 +628,7 @@
 27-16	3480-3488	disorder	_
 27-17	3489-3490	.	_
 
+Text=Further, the presence of a psychotic disorder in first-degree relatives was an additional exclusion criterion for the control group.
 28-1	3491-3498	Further	_
 28-2	3499-3500	,	_
 28-3	3501-3504	the	_
@@ -623,6 +651,7 @@
 28-20	3618-3623	group	_
 28-21	3624-3625	.	_
 
+Text=Symptom assessment The Structured Interview for Prodromal Syndromes (SIPS) measures distinct categories of prodromal symptom domains (positive, negative, disorganized, general) and is scored from 0 to 6 for each symptom.
 29-1	3626-3633	Symptom	_
 29-2	3634-3644	assessment	_
 29-3	3645-3648	The	_
@@ -662,6 +691,7 @@
 29-37	3845-3852	symptom	_
 29-38	3853-3854	.	_
 
+Text=Inclusion in the CHR group was determined by moderate levels of positive symptoms (a SIPS score of 3–5 in one or more of the 5 positive symptom categories), and/or a decline in global functioning in association with the presence of schizotypal personality disorder, and/or a family history of schizophrenia.
 30-1	3855-3864	Inclusion	_
 30-2	3865-3867	in	_
 30-3	3868-3871	the	_
@@ -717,6 +747,7 @@
 30-53	4152-4165	schizophrenia	_
 30-54	4166-4167	.	_
 
+Text=All interviewers had inter-rater reliabilities that exceeded Kappa ≥80.
 31-1	4168-4171	All	_
 31-2	4172-4184	interviewers	_
 31-3	4185-4188	had	_
@@ -728,6 +759,7 @@
 31-9	4235-4238	≥80	_
 31-10	4239-4240	.	_
 
+Text=Because we were recruiting participants from an ongoing study, if the individual had been administered the SIPS (and SCID-IV) within one month prior to the scan, those assessments were used to minimize participant burden.
 32-1	4241-4248	Because	_
 32-2	4249-4251	we	_
 32-3	4252-4256	were	_
@@ -768,6 +800,7 @@
 32-38	4459-4465	burden	_
 32-39	4466-4467	.	_
 
+Text=For those with assessments over one month from the time of scan, individuals underwent an additional clinical interview.
 33-1	4468-4471	For	_
 33-2	4472-4477	those	_
 33-3	4478-4482	with	_
@@ -789,6 +822,7 @@
 33-19	4579-4588	interview	_
 33-20	4589-4590	.	_
 
+Text=The frequency of alcohol and marijuana consumption was measured based on self-report on a scale from 0 to 5 where 0 indicates “ never uses ” and 5 indicates “ daily use ”.
 34-1	4591-4594	The	_
 34-2	4595-4604	frequency	_
 34-3	4605-4607	of	_
@@ -824,6 +858,7 @@
 34-33	4760-4761	”	_
 34-34	4762-4763	.	_
 
+Text=Second-order rule learning task In order to assess non-motor rule learning while targeting the CTCC, we used a second-order rule learning task developed by.
 35-1	4764-4776	Second-order	_
 35-2	4777-4781	rule	_
 35-3	4782-4790	learning	_
@@ -851,6 +886,7 @@
 35-25	4918-4920	by	_
 35-26	4921-4922	.	_
 
+Text=This task was designed to dissociate the motoric response to a visual stimulus from the rule-learning itself.
 36-1	4923-4927	This	_
 36-2	4928-4932	task	_
 36-3	4933-4936	was	_
@@ -870,6 +906,7 @@
 36-17	5025-5031	itself	_
 36-18	5032-5033	.	_
 
+Text=To do so, we used an event-related imaging design (described in more detail below) wherein we were able to dissociate the activation associated with the rule itself, from that associated with the preparation and execution of the motor response.
 37-1	5034-5036	To	_
 37-2	5037-5039	do	_
 37-3	5040-5042	so	_
@@ -915,6 +952,7 @@
 37-43	5273-5281	response	_
 37-44	5282-5283	.	_
 
+Text=Because we were particularly interested in cerebellar activation during learning in a non-motor paradigm in CHR individuals, we adapted the second-order rule learning condition to investigate group differences in cerebellar activation during learning.
 38-1	5284-5291	Because	_
 38-2	5292-5294	we	_
 38-3	5295-5299	were	_
@@ -951,6 +989,7 @@
 38-34	5527-5535	learning	_
 38-35	5536-5537	.	_
 
+Text=In order to focus on learning of the associations over time, we adapted the task such that participants completed 6 blocks of learning, whereas, also included several additional conditions, including a first-order rule.
 39-1	5538-5540	In	_
 39-2	5541-5546	order	_
 39-3	5547-5549	to	_
@@ -990,6 +1029,7 @@
 39-37	5756-5760	rule	_
 39-38	5761-5762	.	_
 
+Text=Just learning blocks allow for the collection of enough data to look at early versus late learning, and to asses group differences in both behavior and brain activation during these phases.
 40-1	5763-5767	Just	_
 40-2	5768-5776	learning	_
 40-3	5777-5783	blocks	_
@@ -1024,6 +1064,7 @@
 40-32	5946-5952	phases	_
 40-33	5953-5954	.	_
 
+Text=Further, we modified this task slightly in terms of timing to work with multi-band imaging, but were careful to keep task timing as close to the original paradigm as possible (timing details described below).
 41-1	5955-5962	Further	_
 41-2	5963-5964	,	_
 41-3	5965-5967	we	_
@@ -1064,6 +1105,7 @@
 41-38	6165-6166	)	_
 41-39	6167-6168	.	_
 
+Text=Participants were instructed to match an abstract shape with a color.
 42-1	6169-6181	Participants	_
 42-2	6182-6186	were	_
 42-3	6187-6197	instructed	_
@@ -1077,6 +1119,7 @@
 42-11	6232-6237	color	_
 42-12	6238-6239	.	_
 
+Text=There were four colors and four shapes.
 43-1	6240-6245	There	_
 43-2	6246-6250	were	_
 43-3	6251-6255	four	_
@@ -1086,6 +1129,7 @@
 43-7	6272-6278	shapes	_
 43-8	6279-6280	.	_
 
+Text=Initial responses were made by guessing.
 44-1	6281-6288	Initial	_
 44-2	6289-6298	responses	_
 44-3	6299-6303	were	_
@@ -1094,6 +1138,7 @@
 44-6	6312-6320	guessing	_
 44-7	6321-6322	.	_
 
+Text=Participants received feedback about their performance after making their responses.
 45-1	6323-6335	Participants	_
 45-2	6336-6344	received	_
 45-3	6345-6353	feedback	_
@@ -1106,6 +1151,7 @@
 45-10	6397-6406	responses	_
 45-11	6407-6408	.	_
 
+Text=During the task, participants were presented with an abstract shape in green, on a grey background for 460 ms (“ instruction cue ”), with four blanks below it, indicative of the buttons to be used for responding.
 46-1	6409-6415	During	_
 46-2	6416-6419	the	_
 46-3	6420-6424	task	_
@@ -1151,6 +1197,7 @@
 46-43	6616-6626	responding	_
 46-44	6627-6628	.	_
 
+Text=This was both preceded and followed by a variable delay.
 47-1	6629-6633	This	_
 47-2	6634-6637	was	_
 47-3	6638-6642	both	_
@@ -1163,6 +1210,7 @@
 47-10	6679-6684	delay	_
 47-11	6685-6686	.	_
 
+Text=After the delay, participants were presented with the word “ Go! ” written in red on a grey background for 230 ms, and were instructed to make a button-press response following the cue.
 48-1	6687-6692	After	_
 48-2	6693-6696	the	_
 48-3	6697-6702	delay	_
@@ -1201,6 +1249,7 @@
 48-36	6871-6874	cue	_
 48-37	6875-6876	.	_
 
+Text=Next, participants saw four hourglass shapes, each one a different color (black, blue, pink, or yellow) from left to right for 920 ms (“ response cue ”).
 49-1	6877-6881	Next	_
 49-2	6882-6883	,	_
 49-3	6884-6896	participants	_
@@ -1239,6 +1288,7 @@
 49-36	7037-7038	)	_
 49-37	7039-7040	.	_
 
+Text=From left to right, the hourglass shapes corresponded with the four button box keys.
 50-1	7041-7045	From	_
 50-2	7046-7050	left	_
 50-3	7051-7053	to	_
@@ -1256,6 +1306,7 @@
 50-15	7121-7125	keys	_
 50-16	7126-7127	.	_
 
+Text=Finally, after the presentation of the response cue, participants were presented with feedback.
 51-1	7128-7135	Finally	_
 51-2	7136-7137	,	_
 51-3	7138-7143	after	_
@@ -1273,6 +1324,7 @@
 51-15	7216-7224	feedback	_
 51-16	7225-7226	.	_
 
+Text=They saw either a green circle (correct response), red circle (incorrect response), or the word “ Missed ” presented for 230 ms.
 52-1	7227-7231	They	_
 52-2	7232-7235	saw	_
 52-3	7236-7242	either	_
@@ -1303,6 +1355,7 @@
 52-28	7358-7360	ms	_
 52-29	7361-7362	.	_
 
+Text=If participants did not make a button press during the 920 ms “ response cue ” presentation, they received the “ Missed ” screen.
 53-1	7363-7365	If	_
 53-2	7366-7378	participants	_
 53-3	7379-7382	did	_
@@ -1330,6 +1383,7 @@
 53-25	7486-7492	screen	_
 53-26	7493-7494	.	_
 
+Text=Timing of the “ Go! ” screen, response cue, and feedback was variable over a period of 3680 ms. All participants completed 6 blocks of the task, each with 25 trials.
 54-1	7495-7501	Timing	_
 54-2	7502-7504	of	_
 54-3	7505-7508	the	_
@@ -1367,6 +1421,7 @@
 54-35	7657-7663	trials	_
 54-36	7664-7665	.	_
 
+Text=The variable periods during both the initial “ instruction cue ” period and later during the “ response ” period were implemented so as to allow for jittering between events such that fMRI data could be analyzed in an event-related manner.
 55-1	7666-7669	The	_
 55-2	7670-7678	variable	_
 55-3	7679-7686	periods	_
@@ -1410,6 +1465,7 @@
 55-41	7898-7904	manner	_
 55-42	7905-7906	.	_
 
+Text=Jittering during both phases of the task was done over a period of 3680 ms (equivalent to 8 TRs).
 56-1	7907-7916	Jittering	_
 56-2	7917-7923	during	_
 56-3	7924-7928	both	_
@@ -1433,6 +1489,7 @@
 56-21	8004-8005	)	_
 56-22	8006-8007	.	_
 
+Text=In particular, because we are interested in the second-order non-motor rule, this allowed us to focus on an investigation of activation during the “ instruction cue ” when processing is of the rule information and the association, as opposed to during the “ response cue ”, where processing is related to motor preparation and execution.
 57-1	8008-8010	In	_
 57-2	8011-8021	particular	_
 57-3	8022-8023	,	_
@@ -1494,6 +1551,7 @@
 57-59	8339-8348	execution	_
 57-60	8349-8350	.	_
 
+Text=While we cannot have a task without an overt motor response, we were however able to parse the activation associated with different components of the task, with the imaging design, consistent with prior work using this task.
 58-1	8351-8356	While	_
 58-2	8357-8359	we	_
 58-3	8360-8363	can	_
@@ -1537,6 +1595,7 @@
 58-41	8574-8578	task	_
 58-42	8579-8580	.	_
 
+Text=To assess the degree to which participants learned the task, participants also completed the task under dual-task conditions both before and after the learning blocks This condition served as a manipulation check to evaluate learning, and as such was not a condition of interest with respect to brain activity.
 59-1	8581-8583	To	_
 59-2	8584-8590	assess	_
 59-3	8591-8594	the	_
@@ -1590,6 +1649,7 @@
 59-51	8884-8892	activity	_
 59-52	8893-8894	.	_
 
+Text=During the dual-task condition, all aspects of the task remained the same; however, participants were asked to count backwards by 7, starting from 500.
 60-1	8895-8901	During	_
 60-2	8902-8905	the	_
 60-3	8906-8915	dual-task	_
@@ -1620,6 +1680,7 @@
 60-28	9046-9049	500	_
 60-29	9050-9051	.	_
 
+Text=They were asked to count approximately once per second.
 61-1	9052-9056	They	_
 61-2	9057-9061	were	_
 61-3	9062-9067	asked	_
@@ -1631,6 +1692,7 @@
 61-9	9100-9106	second	_
 61-10	9107-9108	.	_
 
+Text=We did not record counting accuracy, though we did encourage participants to continue counting throughout the task in any instances where the participant paused for> 3 s. As we were interested in cerebellar activity during learning, all data collection was conducted in the MRI environment.
 62-1	9109-9111	We	_
 62-2	9112-9115	did	_
 62-3	9116-9119	not	_
@@ -1681,6 +1743,7 @@
 62-48	9390-9401	environment	_
 62-49	9402-9403	.	_
 
+Text=However, we did not run the scanner during the pre- and post-learning dual-task blocks.
 63-1	9404-9411	However	_
 63-2	9412-9413	,	_
 63-3	9414-9416	we	_
@@ -1698,6 +1761,7 @@
 63-15	9485-9491	blocks	_
 63-16	9492-9493	.	_
 
+Text=This allowed the participant to speak without any additional motion confounds, and enabled us to hear their verbal counting without the background noise of the scanner.
 64-1	9494-9498	This	_
 64-2	9499-9506	allowed	_
 64-3	9507-9510	the	_
@@ -1727,6 +1791,7 @@
 64-27	9655-9662	scanner	_
 64-28	9663-9664	.	_
 
+Text=We quantified accuracy and reaction time.
 65-1	9665-9667	We	_
 65-2	9668-9678	quantified	_
 65-3	9679-9687	accuracy	_
@@ -1735,6 +1800,7 @@
 65-6	9701-9705	time	_
 65-7	9706-9707	.	_
 
+Text=Accuracy was reported as the percent of correct responses, and was computed on a block by block basis.
 66-1	9708-9716	Accuracy	_
 66-2	9717-9720	was	_
 66-3	9721-9729	reported	_
@@ -1756,6 +1822,7 @@
 66-19	9805-9810	basis	_
 66-20	9811-9812	.	_
 
+Text=We also looked at both of these variables during the pre- and post-learning dual-task blocks.
 67-1	9813-9815	We	_
 67-2	9816-9820	also	_
 67-3	9821-9827	looked	_
@@ -1773,6 +1840,7 @@
 67-15	9899-9905	blocks	_
 67-16	9906-9907	.	_
 
+Text=Finally, we quantified the dual-task cost, in terms of accuracy during the post-learning dual-task block, as compared to the accuracy during the final learning block.
 68-1	9908-9915	Finally	_
 68-2	9916-9917	,	_
 68-3	9918-9920	we	_
@@ -1803,6 +1871,7 @@
 68-28	10071-10076	block	_
 68-29	10077-10078	.	_
 
+Text=Behavioral statistical analysis Demographic and behavioral variables were analyzed using IBM SPSS 22 (IBM Corporation Armonk, NY, 2012).
 69-1	10079-10089	Behavioral	_
 69-2	10090-10101	statistical	_
 69-3	10102-10110	analysis	_
@@ -1827,6 +1896,7 @@
 69-22	10217-10218	)	_
 69-23	10219-10220	.	_
 
+Text=Group demographic differences were investigated using independent-samples t-tests.
 70-1	10221-10226	Group	_
 70-2	10227-10238	demographic	_
 70-3	10239-10250	differences	_
@@ -1837,6 +1907,7 @@
 70-8	10295-10302	t-tests	_
 70-9	10303-10304	.	_
 
+Text=We investigated accuracy during the pre- and post-test periods to ensure that all participants did in fact learn the shape-color associations.
 71-1	10305-10307	We	_
 71-2	10308-10320	investigated	_
 71-3	10321-10329	accuracy	_
@@ -1860,6 +1931,7 @@
 71-21	10434-10446	associations	_
 71-22	10447-10448	.	_
 
+Text=We calculated the difference between post-test accuracy and pre-test accuracy, and excluded any individual who was below 3 standard deviations from the group mean.
 72-1	10449-10451	We	_
 72-2	10452-10462	calculated	_
 72-3	10463-10466	the	_
@@ -1887,6 +1959,7 @@
 72-25	10608-10612	mean	_
 72-26	10613-10614	.	_
 
+Text=Using this method, three HC individuals were excluded from our analyses.
 73-1	10615-10620	Using	_
 73-2	10621-10625	this	_
 73-3	10626-10632	method	_
@@ -1901,6 +1974,7 @@
 73-12	10679-10687	analyses	_
 73-13	10688-10689	.	_
 
+Text=2 of the 3 were below chance in their post-test responses; the third individual showed poor post-test accuracy, little change from pre- to post-test, and had below chance accuracy on blocks 3–6 of the learning task suggesting a lack of compliance with task instructions.
 74-1	10690-10691	2	_
 74-2	10692-10694	of	_
 74-3	10695-10698	the	_
@@ -1950,6 +2024,7 @@
 74-47	10950-10962	instructions	_
 74-48	10963-10964	.	_
 
+Text=First, as a manipulation check to test whether learning did indeed occur, we compared accuracy under dual-task conditions before and after the learning paradigm using a 2 × 2 (group x timepoint) mixed model ANOVA.
 75-1	10965-10970	First	_
 75-2	10971-10972	,	_
 75-3	10973-10975	as	_
@@ -1991,6 +2066,7 @@
 75-39	11176-11181	ANOVA	_
 75-40	11182-11183	.	_
 
+Text=To investigate learning during the 6 learning blocks themselves, we took two approaches.
 76-1	11184-11186	To	_
 76-2	11187-11198	investigate	_
 76-3	11199-11207	learning	_
@@ -2007,6 +2083,7 @@
 76-14	11262-11272	approaches	_
 76-15	11273-11274	.	_
 
+Text=First, we used a 2 × 6 (group x block) mixed model ANOVA to investigate performance across the task blocks.
 77-1	11275-11280	First	_
 77-2	11281-11282	,	_
 77-3	11283-11285	we	_
@@ -2032,6 +2109,7 @@
 77-23	11378-11384	blocks	_
 77-24	11385-11386	.	_
 
+Text=We were also interested in investigating the rate of learning, paralleling approaches taken in motor learning paradigms.
 78-1	11387-11389	We	_
 78-2	11390-11394	were	_
 78-3	11395-11399	also	_
@@ -2052,6 +2130,7 @@
 78-18	11498-11507	paradigms	_
 78-19	11508-11509	.	_
 
+Text=Here, we were especially interested in the initial early learning phase, as cerebellar engagement has been shown to change during the early phases of learning.
 79-1	11510-11514	Here	_
 79-2	11515-11516	,	_
 79-3	11517-11519	we	_
@@ -2081,6 +2160,7 @@
 79-27	11662-11670	learning	_
 79-28	11671-11672	.	_
 
+Text=To determine the early learning phase, we followed the procedures outlined by Anguera and colleagues.
 80-1	11673-11675	To	_
 80-2	11676-11685	determine	_
 80-3	11686-11689	the	_
@@ -2099,6 +2179,7 @@
 80-16	11764-11774	colleagues	_
 80-17	11775-11776	.	_
 
+Text=We collapsed across groups and calculated the slope for consecutive blocks of increasing length (e.g., first two blocks, first three blocks), and tested which combination resulted in a significant drop in slope.
 81-1	11777-11779	We	_
 81-2	11780-11789	collapsed	_
 81-3	11790-11796	across	_
@@ -2138,6 +2219,7 @@
 81-37	11987-11992	slope	_
 81-38	11993-11994	.	_
 
+Text=We limited our analyses to the first four blocks, as upon visual inspection, participants in both groups began to reach asymptotic performance after block 4.
 82-1	11995-11997	We	_
 82-2	11998-12005	limited	_
 82-3	12006-12009	our	_
@@ -2167,6 +2249,7 @@
 82-27	12152-12153	4	_
 82-28	12154-12155	.	_
 
+Text=We then compared the early learning rate between the two groups.
 83-1	12156-12158	We	_
 83-2	12159-12163	then	_
 83-3	12164-12172	compared	_
@@ -2180,6 +2263,7 @@
 83-11	12213-12219	groups	_
 83-12	12220-12221	.	_
 
+Text=While the dual-task condition is critical for testing the learning manipulation, it also allows us to investigate the dual-task cost, which can provide further insight into the degree to which individuals learned and automatized a task.
 84-1	12222-12227	While	_
 84-2	12228-12231	the	_
 84-3	12232-12241	dual-task	_
@@ -2220,6 +2304,7 @@
 84-38	12455-12459	task	_
 84-39	12460-12461	.	_
 
+Text=Thus, we investigated group differences in the dual-task cost between the CHR and control groups after learning.
 85-1	12462-12466	Thus	_
 85-2	12467-12468	,	_
 85-3	12469-12471	we	_
@@ -2240,6 +2325,7 @@
 85-18	12566-12574	learning	_
 85-19	12575-12576	.	_
 
+Text=Dual-task cost was operationalized as the difference in accuracy between the last block of the learning task and the dual-task condition that immediately followed (block 6 accuracy – dual-task accuracy).
 86-1	12577-12586	Dual-task	_
 86-2	12587-12591	cost	_
 86-3	12592-12595	was	_
@@ -2274,6 +2360,7 @@
 86-32	12780-12781	)	_
 86-33	12782-12783	.	_
 
+Text=Positive values indicate better performance under the single task conditions, and the higher the value, the greater cost of performing under dual-task conditions.
 87-1	12784-12792	Positive	_
 87-2	12793-12799	values	_
 87-3	12800-12808	indicate	_
@@ -2301,6 +2388,7 @@
 87-25	12937-12947	conditions	_
 87-26	12948-12949	.	_
 
+Text=Finally, as we were interested in whether or not non-motor learning is related to symptom severity in CHR individuals, we also investigated correlations between early learning slope, and severity of positive, negative, and disorganized symptoms in the CHR group.
 88-1	12950-12957	Finally	_
 88-2	12958-12959	,	_
 88-3	12960-12962	as	_
@@ -2347,6 +2435,7 @@
 88-44	13211-13216	group	_
 88-45	13217-13218	.	_
 
+Text=fMRI data acquisition All functional imaging data was collected using a 3 T Siemens Magnetom Tim Trio (software version VB17A; Munich, Germany), using multi-band functional pulse sequences with a 32-channel head coil.
 89-1	13219-13223	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 89-2	13224-13228	data	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 89-3	13229-13240	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -2386,6 +2475,7 @@
 89-37	13436-13440	coil	_
 89-38	13441-13442	.	_
 
+Text=Sequences for multi-band functional imaging were acquired from the Center for Magnetic Resonance Research (http: //www.cmrr.umn.edu/multiband/index.shtml) and modified as needed for the UCB scanner.
 90-1	13443-13452	Sequences	_
 90-2	13453-13456	for	_
 90-3	13457-13467	multi-band	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -2415,6 +2505,7 @@
 90-27	13636-13643	scanner	_
 90-28	13644-13645	.	_
 
+Text=The multi-band pulse sequences allow for faster data acquisition, wherein we were able to decrease the TR while still maintaining the full-brain coverage required to investigate the cerebellum.
 91-1	13646-13649	The	_
 91-2	13650-13660	multi-band	_
 91-3	13661-13666	pulse	_
@@ -2446,6 +2537,7 @@
 91-29	13829-13839	cerebellum	_
 91-30	13840-13841	.	_
 
+Text=Furthermore, these sequences eliminate the need for slice timing correction, and increases buffering against motion artifacts as multiple slices are collected in the same time it takes traditional imaging sequences to collect one.
 92-1	13842-13853	Furthermore	_
 92-2	13854-13855	,	_
 92-3	13856-13861	these	_
@@ -2483,6 +2575,7 @@
 92-35	14070-14073	one	_
 92-36	14074-14075	.	_
 
+Text=The latter motion factor is particularly useful when working with adolescent and clinical populations where participants may be more likely to move in the scanner.
 93-1	14076-14079	The	_
 93-2	14080-14086	latter	_
 93-3	14087-14093	motion	_
@@ -2510,6 +2603,7 @@
 93-25	14231-14238	scanner	_
 93-26	14239-14240	.	_
 
+Text=Structural images were acquired using a sagittal T1-weighted interleaved sequence (repetition time (TR) = 2400 ms, echo-time (TE) = 2.01 ms, echo spacing = 7.4 ms, flip angle = 8°, field-of-view = 256 mm × 256 mm × 180 mm, voxel resolution = 0.8 mm isotropic).
 94-1	14241-14251	Structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 94-2	14252-14258	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 94-3	14259-14263	were	_
@@ -2569,6 +2663,7 @@
 94-57	14510-14511	)	_
 94-58	14512-14513	.	_
 
+Text=Six runs of multiband EPIs, corresponding to our 6 task blocks (described above), were acquired in the posterior to anterior direction with the following parameters (multiband acceleration factor = 8, bandwidth = 2772 Hz/Px, TR = 460 ms, TE = 29.0, echo-spacing = 0.51 ms, flip-angle = 44°, field-of-view = 248 × 248 × 168 mm, voxel resolution = 3.0 mm isotropic, number of slices = 56, time = 4:00 min).
 95-1	14514-14517	Six	_
 95-2	14518-14522	runs	_
 95-3	14523-14525	of	_
@@ -2657,6 +2752,7 @@
 95-86	14931-14932	)	_
 95-87	14933-14934	.	_
 
+Text=We also collected two brief (20 volumes each) scans prior to the functional imaging runs, using the same EPI parameters but collected in both the anterior-to-posterior and posterior-to-anterior directions.
 96-1	14935-14937	We	_
 96-2	14938-14942	also	_
 96-3	14943-14952	collected	_
@@ -2691,6 +2787,7 @@
 96-32	15132-15142	directions	_
 96-33	15143-15144	.	_
 
+Text=These scans acquired in order to estimate and correct for distortion.
 97-1	15145-15150	These	_
 97-2	15151-15156	scans	_
 97-3	15157-15165	acquired	_
@@ -2704,6 +2801,7 @@
 97-11	15203-15213	distortion	_
 97-12	15214-15215	.	_
 
+Text=The 6 runs of functional data were collected while individuals were performing the second-order learning task.
 98-1	15216-15219	The	_
 98-2	15220-15221	6	_
 98-3	15222-15226	runs	_
@@ -2722,6 +2820,7 @@
 98-16	15321-15325	task	_
 98-17	15326-15327	.	_
 
+Text=fMRI data pre-processing and analysis As noted above, 3 HC individuals were excluded from our subsequent analyses due to poor performance and a demonstrable lack of learning during the learning paradigm.
 99-1	15328-15332	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 99-2	15333-15337	data	_
 99-3	15338-15352	pre-processing	_
@@ -2756,6 +2855,7 @@
 99-32	15523-15531	paradigm	_
 99-33	15532-15533	.	_
 
+Text=As such, our final sample for analysis included 18 HC individuals, and 20 CHR.
 100-1	15534-15536	As	_
 100-2	15537-15541	such	_
 100-3	15542-15543	,	_
@@ -2774,6 +2874,7 @@
 100-16	15610-15613	CHR	_
 100-17	15614-15615	.	_
 
+Text=The first 6 volumes of each functional run were removed to allow for scanner equilibrium, and functional data was corrected for distortions using FSL's topup.
 101-1	15616-15619	The	_
 101-2	15620-15625	first	_
 101-3	15626-15627	6	_
@@ -2803,6 +2904,7 @@
 101-27	15770-15775	topup	_
 101-28	15776-15777	.	_
 
+Text=Additional FMRI data preprocessing was carried out using FEAT (FMRI Expert Analysis Tool) Version 6.00, part of FSL (FMRIB's Software Library, www.fmrib.ox.ac.uk/fsl).
 102-1	15778-15788	Additional	_
 102-2	15789-15793	FMRI	_
 102-3	15794-15798	data	_
@@ -2834,6 +2936,7 @@
 102-29	15950-15951	)	_
 102-30	15952-15953	.	_
 
+Text=The following pre-statistics processing was applied: motion correction using MCFLIRT; non-brain removal using BET; spatial smoothing using a Gaussian kernel of FWHM 6 mm; and grand-mean intensity normalization of the entire 4D dataset by a single multiplicative factor.
 103-1	15954-15957	The	_
 103-2	15958-15967	following	_
 103-3	15968-15982	pre-statistics	_
@@ -2878,6 +2981,7 @@
 103-42	16220-16226	factor	_
 103-43	16227-16228	.	_
 
+Text=Motion artifacts were then removed using automated ICA-based methods.
 104-1	16229-16235	Motion	_
 104-2	16236-16245	artifacts	_
 104-3	16246-16250	were	_
@@ -2889,6 +2993,7 @@
 104-9	16290-16297	methods	_
 104-10	16298-16299	.	_
 
+Text=Registration to high resolution structural and/or standard space images was carried out using FLIRT with the Boundary Based Registration (BBR) cost function.
 105-1	16300-16312	Registration	_
 105-2	16313-16315	to	_
 105-3	16316-16320	high	_
@@ -2915,6 +3020,7 @@
 105-24	16450-16458	function	_
 105-25	16459-16460	.	_
 
+Text=Registration from high resolution structural to standard space was then further refined using FNIRT nonlinear registration.
 106-1	16461-16473	Registration	_
 106-2	16474-16478	from	_
 106-3	16479-16483	high	_
@@ -2933,6 +3039,7 @@
 106-16	16571-16583	registration	_
 106-17	16584-16585	.	_
 
+Text=Registration as completed with FSL does a particularly good job of normalizing the cerebellum, and because we were particularly interested in both cerebellar, as well as whole-brain activation patterns, we used a whole-brain analysis approach.
 107-1	16586-16598	Registration	_
 107-2	16599-16601	as	_
 107-3	16602-16611	completed	_
@@ -2973,6 +3080,7 @@
 107-38	16823-16831	approach	_
 107-39	16832-16833	.	_
 
+Text=First-level time-series statistical analysis was carried out using FILM (FMRIB's Improved Linear Model) with local autocorrelation correction.
 108-1	16834-16845	First-level	_
 108-2	16846-16857	time-series	_
 108-3	16858-16869	statistical	_
@@ -2995,6 +3103,7 @@
 108-20	16968-16978	correction	_
 108-21	16979-16980	.	_
 
+Text=Data were highpass temporal filtered (Gaussian-weighted least-squares straight line fitting, with sigma = 45.0 s).
 109-1	16981-16985	Data	_
 109-2	16986-16990	were	_
 109-3	16991-16999	highpass	_
@@ -3015,6 +3124,7 @@
 109-18	17096-17097	)	_
 109-19	17098-17099	.	_
 
+Text=The BOLD response was modeled for correct task response and incorrect task responses, using a double gamma hemodynamic response function (HRF) convolution as well as the temporal derivative to account for fluctuations in the timing of the HRF waveform.
 110-1	17100-17103	The	_
 110-2	17104-17108	BOLD	_
 110-3	17109-17117	response	_
@@ -3059,6 +3169,7 @@
 110-42	17346-17354	waveform	_
 110-43	17355-17356	.	_
 
+Text=Here, given our focus on activation related to the second-order rule, our events were defined by the “ instruction cue ” as this was temporally distinct and dissociable from the response period, and no motor responses were being made at this time.
 111-1	17357-17361	Here	_
 111-2	17362-17363	,	_
 111-3	17364-17369	given	_
@@ -3106,6 +3217,7 @@
 111-45	17602-17606	time	_
 111-46	17607-17608	.	_
 
+Text=We time-locked to the onset of the instruction cue presentation to the participant.
 112-1	17609-17611	We	_
 112-2	17612-17623	time-locked	_
 112-3	17624-17626	to	_
@@ -3121,6 +3233,7 @@
 112-13	17680-17691	participant	_
 112-14	17692-17693	.	_
 
+Text=Summary statistics were carried out in two-stages.
 113-1	17694-17701	Summary	_
 113-2	17702-17712	statistics	_
 113-3	17713-17717	were	_
@@ -3130,6 +3243,7 @@
 113-7	17733-17743	two-stages	_
 113-8	17744-17745	.	_
 
+Text=A fixed effect model was defined to define contrasts for early and late learning.
 114-1	17746-17747	A	_
 114-2	17748-17753	fixed	_
 114-3	17754-17760	effect	_
@@ -3146,6 +3260,7 @@
 114-14	17818-17826	learning	_
 114-15	17827-17828	.	_
 
+Text=Early learning was defined as the mean response in the first two blocks and late learning was defined as the mean response in the last two blocks.
 115-1	17829-17834	Early	_
 115-2	17835-17843	learning	_
 115-3	17844-17847	was	_
@@ -3175,6 +3290,7 @@
 115-27	17968-17974	blocks	_
 115-28	17975-17976	.	_
 
+Text=Contrasts were defined for the mean of early and late learning, as well as the difference between early and late learning.
 116-1	17977-17986	Contrasts	_
 116-2	17987-17991	were	_
 116-3	17992-17999	defined	_
@@ -3199,6 +3315,7 @@
 116-22	18091-18099	learning	_
 116-23	18100-18101	.	_
 
+Text=We limited our analyses to the data from correct trials only, for all of our contrasts.
 117-1	18102-18104	We	_
 117-2	18105-18112	limited	_
 117-3	18113-18116	our	_
@@ -3218,6 +3335,7 @@
 117-17	18180-18189	contrasts	_
 117-18	18190-18191	.	_
 
+Text=Group means and group differences for early and late learning were calculated using a mixed model using FLAME (FMRIB's Local Analysis of Mixed Effects).
 118-1	18192-18197	Group	_
 118-2	18198-18203	means	_
 118-3	18204-18207	and	_
@@ -3247,6 +3365,7 @@
 118-27	18345-18346	)	_
 118-28	18347-18348	.	_
 
+Text=Final group-level Z (Gaussianised T/F) statistic images were thresholded non-parametrically using clusters determined by Z> 3.1 and a cluster significance threshold of pFWE <0.05 using permutation methods with 5000 permutations.
 119-1	18349-18354	Final	_
 119-2	18355-18366	group-level	_
 119-3	18367-18368	Z	_
@@ -3283,6 +3402,7 @@
 119-34	18568-18580	permutations	_
 119-35	18581-18582	.	_
 
+Text=3-D statistics maps were projected to the midthickness surface (generated by averaging the white and pial surface coordinates) of the Human Connectome Project 900 subject group average and visualized using the Connectome Workbench v.1.2.3, while subcortical and cerebellar activation was depicted using FSLeyes (v. 0.21.1), as the Workbench does not represent subcortical structures or the cerebellum.
 120-1	18583-18586	3-D	_
 120-2	18587-18597	statistics	_
 120-3	18598-18602	maps	_
@@ -3347,6 +3467,7 @@
 120-62	18979-18989	cerebellum	_
 120-63	18990-18991	.	_
 
+Text=Tables were generated with FSL's autoaq tool, which queries whether regions of clusters belong or not to one of various atlases available.
 121-1	18992-18998	Tables	_
 121-2	18999-19003	were	_
 121-3	19004-19013	generated	_
@@ -3373,6 +3494,7 @@
 121-24	19122-19131	available	_
 121-25	19132-19133	.	_
 
+Text=Atlases used included the “ Cerebellar Atlas in MNI152 space after normalization with FNIRT ”, “ Harvard-Oxford Cortical Structural Atlas ”, and “ Harvard-Oxford Subcortical Structural Atlas. ” The cluster size, max z-statistic, and coordinate of the center of mass for each cluster is reported.
 122-1	19134-19141	Atlases	_
 122-2	19142-19146	used	_
 122-3	19147-19155	included	_
@@ -3424,6 +3546,7 @@
 122-49	19424-19432	reported	_
 122-50	19433-19434	.	_
 
+Text=Cluster names come from autoaq reports, and for large clusters, we report the top regions from autoaq along with the mean probabilities (range from 0 to 100).
 123-1	19435-19442	Cluster	_
 123-2	19443-19448	names	_
 123-3	19449-19453	come	_
@@ -3457,6 +3580,7 @@
 123-31	19595-19596	)	_
 123-32	19597-19598	.	_
 
+Text=The mean probabilities for each cluster will not add up to 100 where the cluster lies on the outside, or on the edge of, the ROIs featured in the atlas.
 124-1	19599-19602	The	_
 124-2	19603-19607	mean	_
 124-3	19608-19621	probabilities	_
@@ -3491,6 +3615,7 @@
 124-32	19747-19752	atlas	_
 124-33	19753-19754	.	_
 
+Text=Large probabilities were associated with Left or Right Cerebral Cortex and Left or Right White Matter, but these were omitted from the tables as they were non-informative.
 125-1	19755-19760	Large	_
 125-2	19761-19774	probabilities	_
 125-3	19775-19779	were	_

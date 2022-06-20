@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Cell-specific histone modification maps link schizophrenia risk to the neuronal epigenome Risk variants for schizophrenia affect more than 100 genomic loci, yet cell- and tissue-specific roles underlying disease liability remain poorly characterized.
 1-1	0-13	Cell-specific	_
 1-2	14-21	histone	_
 1-3	22-34	modification	_
@@ -37,6 +38,7 @@
 1-33	237-250	characterized	_
 1-34	251-252	.	_
 
+Text=We have generated for two cortical areas implicated in psychosis, dorsolateral prefrontal cortex and anterior cingulate cortex, 157 reference maps from neuronal, neuronal-depleted and bulk tissue chromatin for two histone marks associated with active promoters and enhancers, H3-trimethyl-lysine 4 (H3K4me3) and H3-acetyl-lysine 27 (H3K27ac).
 2-1	253-255	We	_
 2-2	256-260	have	_
 2-3	261-270	generated	_
@@ -91,6 +93,7 @@
 2-52	601-602	)	_
 2-53	603-604	.	_
 
+Text=Differences between neuronal and neuronal-depleted chromatin states were the major axis of variation in histone modification profiles followed by substantial variability across subjects and cortical areas.
 3-1	605-616	Differences	_
 3-2	617-624	between	_
 3-3	625-633	neuronal	_
@@ -119,6 +122,7 @@
 3-26	804-809	areas	_
 3-27	810-811	.	_
 
+Text=Thousands of significant histone quantitative trait loci (hQTLs) were identified in neuronal and neuronal-depleted samples.
 4-1	812-821	Thousands	_
 4-2	822-824	of	_
 4-3	825-836	significant	_
@@ -138,6 +142,7 @@
 4-17	929-936	samples	_
 4-18	937-938	.	_
 
+Text=Risk variants for schizophrenia, depressive symptoms and neuroticism were significantly overrepresented in neuronal H3K4me3 and H3K27ac landscapes.
 5-1	939-943	Risk	_
 5-2	944-952	variants	_
 5-3	953-956	for	_
@@ -158,6 +163,7 @@
 5-18	1076-1086	landscapes	_
 5-19	1087-1088	.	_
 
+Text=Our PsychENCODE and CommonMind sponsored resource highlights the critical role of cell-type specific signatures at regulatory and disease-associated non-coding sequences in the human frontal lobe.
 6-1	1089-1092	Our	_
 6-2	1093-1104	PsychENCODE	_
 6-3	1105-1108	and	_
@@ -185,6 +191,7 @@
 6-25	1280-1284	lobe	_
 6-26	1285-1286	.	_
 
+Text=METHODS Brains All tissue donors of the present study were from the Human Brain Collection Core (HBCC) at the National Institutes of Health.
 7-1	1287-1294	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 7-2	1295-1301	Brains	_
 7-3	1302-1305	All	_
@@ -212,6 +219,7 @@
 7-25	1422-1428	Health	_
 7-26	1429-1430	.	_
 
+Text=None of the brains had known neurological or psychiatric disease.
 8-1	1431-1435	None	_
 8-2	1436-1438	of	_
 8-3	1439-1442	the	_
@@ -224,6 +232,7 @@
 8-10	1488-1495	disease	_
 8-11	1496-1497	.	_
 
+Text=All brains had undergone a detailed neuropathological exam (incl.
 9-1	1498-1501	All	_
 9-2	1502-1508	brains	_
 9-3	1509-1512	had	_
@@ -236,6 +245,7 @@
 9-10	1559-1563	incl	_
 9-11	1564-1565	.	_
 
+Text=Bielschowsky stain) and were considered normal by histopathology.
 10-1	1566-1578	Bielschowsky	_
 10-2	1579-1584	stain	_
 10-3	1585-1586	)	_
@@ -247,6 +257,7 @@
 10-9	1617-1631	histopathology	_
 10-10	1632-1633	.	_
 
+Text=Demographics of the brain cohort, and toxicology and neuropathology reports are summarized Table S1.
 11-1	1634-1646	Demographics	_
 11-2	1647-1649	of	_
 11-3	1650-1653	the	_
@@ -264,6 +275,7 @@
 11-15	1732-1734	S1	_
 11-16	1735-1736	.	_
 
+Text=Sample size: No statistical methods were used to pre-determine sample sizes but our sample sizes exceeded those reported in previous publications focused on cell-type specific histone profiling in human brain (references) by several-fold.
 12-1	1737-1743	Sample	_
 12-2	1744-1748	size	_
 12-3	1749-1750	:	_
@@ -302,6 +314,7 @@
 12-36	1965-1977	several-fold	_
 12-37	1978-1979	.	_
 
+Text=Antibodies, ChIP-Seq library preparation and sequencing Nuclei were extracted from approximately 300mg aliquots of frozen frontal (dorsolateral prefrontal and anterior cingulate gyrus) cortex tissue, immunotagged with Anti-NeuN-Alexa488 (Cat #MAB377X, EMD Millipore) antibody which robustly stains human cortical neuron nuclei for subsequent fluorescence-activated nuclei sorting.
 13-1	1980-1990	Antibodies	_
 13-2	1991-1992	,	_
 13-3	1993-2001	ChIP-Seq	_
@@ -356,6 +369,7 @@
 13-52	2360-2367	sorting	_
 13-53	2368-2369	.	_
 
+Text=Next, chromatin of sorted nuclei was digested with micrococcal nuclease and subsequently pulled down with anti-histone antibodies, followed by library preparation and sequencing.
 14-1	2370-2374	Next	_
 14-2	2375-2376	,	_
 14-3	2377-2386	chromatin	_
@@ -383,6 +397,7 @@
 14-25	2539-2549	sequencing	_
 14-26	2550-2551	.	_
 
+Text=Two histone antibodies, anti-H3K4me3 (Cat #9751BC, lot 7; Cell Signaling, Danvers, MA) and anti-H3K27ac (Cat #39133, Lot #01613007; Active Motif, Carlsbad, CA) were used for immunoprecipitation.
 15-1	2552-2555	Two	_
 15-2	2556-2563	histone	_
 15-3	2564-2574	antibodies	_
@@ -427,6 +442,7 @@
 15-42	2742-2761	immunoprecipitation	_
 15-43	2762-2763	.	_
 
+Text=Antibody specificity was tested using peptide binding assays and immunoblotting of nuclear extracts from human postmortem cortical tissue.
 16-1	2764-2772	Antibody	_
 16-2	2773-2784	specificity	_
 16-3	2785-2788	was	_
@@ -447,6 +463,7 @@
 16-18	2895-2901	tissue	_
 16-19	2902-2903	.	_
 
+Text=A commercially available histone H3 peptide array (Cat #16–667; Millipore) containing 46 peptides representing 46 different histone H3 posttranslational modifications was used as previously described.
 17-1	2904-2905	A	_
 17-2	2906-2918	commercially	_
 17-3	2919-2928	available	_
@@ -478,6 +495,7 @@
 17-29	3098-3107	described	_
 17-30	3108-3109	.	_
 
+Text=All procedures were performed as described in the recent PsychENCODE methods paper, providing a detailed description of the protocol.
 18-1	3110-3113	All	_
 18-2	3114-3124	procedures	_
 18-3	3125-3129	were	_
@@ -500,6 +518,7 @@
 18-20	3235-3243	protocol	_
 18-21	3244-3245	.	_
 
+Text=For each cell-type specific ChIP-assay, a minimum of 400,000 sorted neuronal (NeuN+) or neuron-depleted/non-neuronal (NeuN−) nuclei was required as starting material.
 19-1	3246-3249	For	_
 19-2	3250-3254	each	_
 19-3	3255-3264	cell-type	_
@@ -528,6 +547,7 @@
 19-26	3408-3416	material	_
 19-27	3417-3418	.	_
 
+Text=For selected gene promoters ChIP-PCR was conducted to validate cell-type specific peak profiles (Figure S18 and ref .).
 20-1	3419-3422	For	_
 20-2	3423-3431	selected	_
 20-3	3432-3436	gene	_
@@ -550,6 +570,7 @@
 20-20	3538-3539	)	_
 20-21	3540-3541	.	_
 
+Text=Furthermore, quality controls for nuclei post-FACS included visual inspection under the microscope as described.
 21-1	3542-3553	Furthermore	_
 21-2	3554-3555	,	_
 21-3	3556-3563	quality	_
@@ -567,6 +588,7 @@
 21-15	3645-3654	described	_
 21-16	3655-3656	.	_
 
+Text=Of note, due to our stringent FACS gating criteria with maximized specificity (not sensitivity) (Figure S19), 100% of sorted nuclei in the neuronal fraction showed green fluorescence confirming NeuN+ status, while 100% of sorted nuclei in the non-neuronal fraction only showed blue DAPI stain, confirming NeuN− status.
 22-1	3657-3659	Of	_
 22-2	3660-3664	note	_
 22-3	3665-3666	,	_
@@ -626,6 +648,7 @@
 22-57	3978-3984	status	_
 22-58	3985-3986	.	_
 
+Text=For the prefrontal cortex samples, we collected (mean±SD) NeuN+ (PFC) 667,675±196,847 and NeuN- (PFC) 611,025±203,172 nuclei.
 23-1	3987-3990	For	_
 23-2	3991-3994	the	_
 23-3	3995-4005	prefrontal	_
@@ -651,6 +674,7 @@
 23-23	4112-4118	nuclei	_
 23-24	4119-4120	.	_
 
+Text=For the anterior cingulate cortex samples, we collected NeuN+ (ACC) 490,585±184,358 and NeuN- (ACC) 653,743±389,284 nuclei.
 24-1	4121-4124	For	_
 24-2	4125-4128	the	_
 24-3	4129-4137	anterior	_
@@ -674,6 +698,7 @@
 24-21	4242-4248	nuclei	_
 24-22	4249-4250	.	_
 
+Text=Additional ChIP-seq studies were conducted with homogenized dorsolateral prefrontal cortex as input.
 25-1	4251-4261	Additional	_
 25-2	4262-4270	ChIP-seq	_
 25-3	4271-4278	studies	_
@@ -688,6 +713,7 @@
 25-12	4345-4350	input	_
 25-13	4351-4352	.	_
 
+Text=To this end, frozen human postmortem brain tissue (approximately 20–200mg) was homogenized in lysis buffer and the total nuclei were purified.
 26-1	4353-4355	To	_
 26-2	4356-4360	this	_
 26-3	4361-4364	end	_
@@ -714,6 +740,7 @@
 26-24	4489-4497	purified	_
 26-25	4498-4499	.	_
 
+Text=The nuclei solution was resuspended in 300ul of douncing buffer, treated with 2uL of micrococcal nuclease (0.2U/uL) for 5 minutes at 28 degrees Celsius, followed by 30uL of 500mM of EDTA to stop the reaction.
 27-1	4500-4503	The	_
 27-2	4504-4510	nuclei	_
 27-3	4511-4519	solution	_
@@ -755,6 +782,7 @@
 27-39	4703-4711	reaction	_
 27-40	4712-4713	.	_
 
+Text=After this initial procedure for nuclei preparation and digestion, the sample was processed in the same manner as described for the FACS sorted nuclei samples.
 28-1	4714-4719	After	_
 28-2	4720-4724	this	_
 28-3	4725-4732	initial	_
@@ -783,6 +811,7 @@
 28-26	4866-4873	samples	_
 28-27	4874-4875	.	_
 
+Text=Randomization and blinding To avoid batch effects and other confounds, samples underwent repeated rounds of randomization, including (i) chromatin immunoprecipitation procedures and (ii) library preparation.
 29-1	4876-4889	Randomization	_
 29-2	4890-4893	and	_
 29-3	4894-4902	blinding	_
@@ -816,6 +845,7 @@
 29-31	5077-5088	preparation	_
 29-32	5089-5090	.	_
 
+Text=Blinding was not relevant to this study, analysts were aware of data generation, processing and donor metadata.
 30-1	5091-5099	Blinding	_
 30-2	5100-5103	was	_
 30-3	5104-5107	not	_
@@ -837,6 +867,7 @@
 30-19	5195-5203	metadata	_
 30-20	5204-5205	.	_
 
+Text=ChIP-Seq Alignment Sequenced cell-specific and homogenate ChIP-Seq FASTQ files were aligned to Hg19 (Feb 2009, GRCh37) human genome using the Burrows-Wheeler Aligner (BWA-0.7.8-r455) method with default settings ..
 31-1	5206-5214	ChIP-Seq	_
 31-2	5215-5224	Alignment	_
 31-3	5225-5234	Sequenced	_
@@ -871,6 +902,7 @@
 31-32	5414-5422	settings	_
 31-33	5423-5425	..	_
 
+Text=The output files were exported as BAM files.
 32-1	5426-5429	The	_
 32-2	5430-5436	output	_
 32-3	5437-5442	files	_
@@ -881,6 +913,7 @@
 32-8	5464-5469	files	_
 32-9	5470-5471	.	_
 
+Text=Filtering and quality control PCR duplicates in aligned BAM files were removed using picard 2.2.4 tool.
 33-1	5472-5481	Filtering	_
 33-2	5482-5485	and	_
 33-3	5486-5493	quality	_
@@ -899,6 +932,7 @@
 33-16	5570-5574	tool	_
 33-17	5575-5576	.	_
 
+Text=After filtering out duplicates, all BAM files were preprocessed to remove unmapped reads and any inter-chromosomal read pairs of length> 10 kb.
 34-1	5577-5582	After	_
 34-2	5583-5592	filtering	_
 34-3	5593-5596	out	_
@@ -925,6 +959,7 @@
 34-24	5719-5721	kb	_
 34-25	5722-5723	.	_
 
+Text=The mapped reads were subsampled to the median number of paired-end reads of each dataset; H3K4me3=13M and H3K27ac=23M (Figure S1).
 35-1	5724-5727	The	_
 35-2	5728-5734	mapped	_
 35-3	5735-5740	reads	_
@@ -950,6 +985,7 @@
 35-23	5856-5857	)	_
 35-24	5858-5859	.	_
 
+Text=Any samples after removing duplicates with sequencing depth <10M (from ENCODE) were flagged in this study.
 36-1	5860-5863	Any	_
 36-2	5864-5871	samples	_
 36-3	5872-5877	after	_
@@ -971,6 +1007,7 @@
 36-19	5963-5968	study	_
 36-20	5969-5970	.	_
 
+Text=These uniformly subsampled files were used for further downstream analysis.
 37-1	5971-5976	These	_
 37-2	5977-5986	uniformly	_
 37-3	5987-5997	subsampled	_
@@ -983,6 +1020,7 @@
 37-10	6037-6045	analysis	_
 37-11	6046-6047	.	_
 
+Text=Experimental design and statistical analyses For a general overview of the bioinformatical analyses see Figure S2.
 38-1	6048-6060	Experimental	_
 38-2	6061-6067	design	_
 38-3	6068-6071	and	_
@@ -1001,6 +1039,7 @@
 38-16	6159-6161	S2	_
 38-17	6162-6163	.	_
 
+Text=To determine the best Peak calling method, we used p-value from irreproducible discovery rate (IDR) analysis where the input was peaks called using MACS2, PeakSeq and SPP methods.
 39-1	6164-6166	To	_
 39-2	6167-6176	determine	_
 39-3	6177-6180	the	_
@@ -1035,6 +1074,7 @@
 39-32	6339-6346	methods	_
 39-33	6347-6348	.	_
 
+Text=To identify differentially modified histone peaks across cell types and brain regions, we applied quasi-likelihood negative binomial generalized log-linear model on normalized CPM matrix.
 40-1	6349-6351	To	_
 40-2	6352-6360	identify	_
 40-3	6361-6375	differentially	_
@@ -1062,6 +1102,7 @@
 40-25	6530-6536	matrix	_
 40-26	6537-6538	.	_
 
+Text=For multiple testing correction of identified differential peaks, we used Benjamini-Hochberg method on the p-values to control false discovery rate.
 41-1	6539-6542	For	_
 41-2	6543-6551	multiple	_
 41-3	6552-6559	testing	_
@@ -1085,6 +1126,7 @@
 41-21	6683-6687	rate	_
 41-22	6688-6689	.	_
 
+Text=For pathway enrichment analysis of differentially modified peaks, we used p-values from hypergeometric test computed by GREAT and did multiple testing correction using Bonferroni correction method.
 42-1	6690-6693	For	_
 42-2	6694-6701	pathway	_
 42-3	6702-6712	enrichment	_
@@ -1114,6 +1156,7 @@
 42-27	6881-6887	method	_
 42-28	6888-6889	.	_
 
+Text=To test overlap of identified peaks with disease and trait-associated genetic variants, we used LDSR method which take p-values of peak regions as an input.
 43-1	6890-6892	To	_
 43-2	6893-6897	test	_
 43-3	6898-6905	overlap	_
@@ -1142,6 +1185,7 @@
 43-26	7041-7046	input	_
 43-27	7047-7048	.	_
 
+Text=See methods paragraphs below for additional details on statistical methods.
 44-1	7049-7052	See	_
 44-2	7053-7060	methods	_
 44-3	7061-7071	paragraphs	_
@@ -1154,6 +1198,7 @@
 44-10	7116-7123	methods	_
 44-11	7124-7125	.	_
 
+Text=Variant Calling Variants were called from BAM files using GATK 3.5–0 to produce gVCF files.
 45-1	7126-7133	Variant	_
 45-2	7134-7141	Calling	_
 45-3	7142-7150	Variants	_
@@ -1171,6 +1216,7 @@
 45-15	7211-7216	files	_
 45-16	7217-7218	.	_
 
+Text=Variant concordance analysis was performed to identify any mislabeling issues.
 46-1	7219-7226	Variant	_
 46-2	7227-7238	concordance	_
 46-3	7239-7247	analysis	_
@@ -1183,6 +1229,7 @@
 46-10	7290-7296	issues	_
 46-11	7297-7298	.	_
 
+Text=Variants on chr22 were merged using GATK ’ s CombineVCFs functionality.
 47-1	7299-7307	Variants	_
 47-2	7308-7310	on	_
 47-3	7311-7316	chr22	_
@@ -1196,6 +1243,7 @@
 47-11	7356-7369	functionality	_
 47-12	7370-7371	.	_
 
+Text=Variant concordance between all pairs of samples was evaluated with bcftools v1.3.
 48-1	7372-7379	Variant	_
 48-2	7380-7391	concordance	_
 48-3	7392-7399	between	_
@@ -1210,6 +1258,7 @@
 48-12	7449-7453	v1.3	_
 48-13	7454-7455	.	_
 
+Text=Two mislabeled samples were identified and were relabeled appropriately for all downstream analysis.
 49-1	7456-7459	Two	_
 49-2	7460-7470	mislabeled	_
 49-3	7471-7478	samples	_
@@ -1225,6 +1274,7 @@
 49-13	7547-7555	analysis	_
 49-14	7556-7557	.	_
 
+Text=Comparison of peak calling methods For each histone mark, we consolidated BAMs across all individuals for PFC neuronal set and subsampled 3 files.
 50-1	7558-7568	Comparison	_
 50-2	7569-7571	of	_
 50-3	7572-7576	peak	_
@@ -1251,6 +1301,7 @@
 50-24	7699-7704	files	_
 50-25	7705-7706	.	_
 
+Text=Our approach to determine best peak calling method was to derive irreproducible discovery rate (IDR) after calling peaks using MACS (v.2.1.0), SPP (v.1.13) and PeakSeq methods.
 51-1	7707-7710	Our	_
 51-2	7711-7719	approach	_
 51-3	7720-7722	to	_
@@ -1286,6 +1337,7 @@
 51-33	7882-7889	methods	_
 51-34	7890-7891	.	_
 
+Text=Afterwards, the method which gave maximum number of overlapping regions between subsamples at 5% IDR was used for peak calling on full dataset.
 52-1	7892-7902	Afterwards	_
 52-2	7903-7904	,	_
 52-3	7905-7908	the	_
@@ -1313,6 +1365,7 @@
 52-25	8029-8036	dataset	_
 52-26	8037-8038	.	_
 
+Text=We find that MACS2 is the best peak caller method with maximum number of peak regions at 5% IDR for both marks (Figure S1D).
 53-1	8039-8041	We	_
 53-2	8042-8046	find	_
 53-3	8047-8051	that	_
@@ -1342,6 +1395,7 @@
 53-27	8164-8165	)	_
 53-28	8166-8167	.	_
 
+Text=ENCODE uses IDR on technical replicates of samples to determine the reproducibility of peaks while we have used it globally on our dataset.
 54-1	8168-8174	ENCODE	_
 54-2	8175-8179	uses	_
 54-3	8180-8183	IDR	_
@@ -1367,6 +1421,7 @@
 54-23	8299-8306	dataset	_
 54-24	8307-8308	.	_
 
+Text=We applied following parameters in MACS2: SE, SE no model, PE, PE no model and p-values = 0.01, 0.1, 0.5, SPP: FDR 0.01, 0.05, 0.99, background model=simulated, minimum interpeak distance=150 and PeakSeq: target FDR=0.01, 0.05, 0.99.
 55-1	8309-8311	We	_
 55-2	8312-8319	applied	_
 55-3	8320-8329	following	_
@@ -1420,6 +1475,7 @@
 55-51	8552-8556	0.99	_
 55-52	8557-8558	.	_
 
+Text=Consolidating Datasets For cell-specific data set, we consolidated uniformly processed BAMs by cell type for each brain region.
 56-1	8559-8572	Consolidating	_
 56-2	8573-8581	Datasets	_
 56-3	8582-8585	For	_
@@ -1441,6 +1497,7 @@
 56-19	8680-8686	region	_
 56-20	8687-8688	.	_
 
+Text=For example H3K4me3 modified Chip-seq BAMs from neuronal cells from PFC brain region for all individuals (n=17) were consolidated as H3K4me3-PFC neuronal data set.
 57-1	8689-8692	For	_
 57-2	8693-8700	example	_
 57-3	8701-8708	H3K4me3	_
@@ -1469,6 +1526,7 @@
 57-26	8850-8853	set	_
 57-27	8854-8855	.	_
 
+Text=Consolidating the BAMs by cell type for each brain region produces 8 large BAM files for both marks: 1) H3K4me3-PFC neuronal 2) H3K4me3-PFC neuron-depleted 3) H3K4me3-ACC neuronal 4) H3K4me3-ACC neuron-depleted and 5) H3K27ac-PFC neuronal 6) H3K27ac-PFC neuron-depleted 7) H3K27ac-ACC neuronal 8) H3K27ac-ACC neuron-depleted.
 58-1	8856-8869	Consolidating	_
 58-2	8870-8873	the	_
 58-3	8874-8878	BAMs	_
@@ -1523,6 +1581,7 @@
 58-52	9174-9189	neuron-depleted	_
 58-53	9190-9191	.	_
 
+Text=Chip-seq BAMs for homogenate were generated from one brain region, therefore, all individuals BAMs were consolidated into 2 large BAM files for both marks as 1) H3K4me3-PFC HBCC homogenate 2) H3K27ac-PFC HBCC homogenate.
 59-1	9192-9200	Chip-seq	_
 59-2	9201-9205	BAMs	_
 59-3	9206-9209	for	_
@@ -1562,6 +1621,7 @@
 59-37	9405-9415	homogenate	_
 59-38	9416-9417	.	_
 
+Text=Similarly input samples were consolidated separately for cell-specific and homogenate datasets.
 60-1	9418-9427	Similarly	_
 60-2	9428-9433	input	_
 60-3	9434-9441	samples	_
@@ -1575,6 +1635,7 @@
 60-11	9504-9512	datasets	_
 60-12	9513-9514	.	_
 
+Text=For details of set of individual files contributing to consolidated dataset (Table S3).
 61-1	9515-9518	For	_
 61-2	9519-9526	details	_
 61-3	9527-9529	of	_
@@ -1592,6 +1653,7 @@
 61-15	9602-9603	)	_
 61-16	9604-9605	.	_
 
+Text=We use these cell-specific (n=8) and homogenate (n=2) consolidated BAMs for further downstream analysis.
 62-1	9606-9608	We	_
 62-2	9609-9612	use	_
 62-3	9613-9618	these	_
@@ -1612,6 +1674,7 @@
 62-18	9705-9713	analysis	_
 62-19	9714-9715	.	_
 
+Text=Peak Calling Narrow peak regions were called for H3K4me3 histone mark datasets on each of the consolidated cell-specific and homogenate BAMs: 1) H3K4me3-PFC neuronal 2) H3K4me3-PFC neuron-depleted 3) H3K4me3-ACC neuronal 4) H3K4me3-ACC neuron-depleted 5) H3K4me3-PFC HBCC homogenate with Poisson p-value = 0.01 with--keep-dup all--nomodel--extsize = fragment length.
 63-1	9716-9720	Peak	_
 63-2	9721-9728	Calling	_
 63-3	9729-9735	Narrow	_
@@ -1673,6 +1736,7 @@
 63-59	10087-10093	length	_
 63-60	10094-10095	.	_
 
+Text=Broad peak regions were called for H3K27ac histone mark datasets on each of the consolidated BAMs 6) H3K27ac-PFC neuronal 7) H3K27ac-PFC neuron-depleted 8) H3K27ac-ACC neuronal 9) H3K27ac-ACC neuron-depleted and 10) H3K27ac-PFC HBCC homogenate using latter parameters.
 64-1	10096-10101	Broad	_
 64-2	10102-10106	peak	_
 64-3	10107-10114	regions	_
@@ -1716,6 +1780,7 @@
 64-41	10358-10368	parameters	_
 64-42	10369-10370	.	_
 
+Text=The consolidated cell-type and homogenate input control samples were used as control inputs for peak calling on cell-specific and homogenate datasets respectively.
 65-1	10371-10374	The	_
 65-2	10375-10387	consolidated	_
 65-3	10388-10397	cell-type	_
@@ -1740,6 +1805,7 @@
 65-22	10521-10533	respectively	_
 65-23	10534-10535	.	_
 
+Text=All called peaks were filtered from blacklisted region peaks and p-values> 3.05 (p-value obtained from IDR analysis) for downstream analysis.
 66-1	10536-10539	All	_
 66-2	10540-10546	called	_
 66-3	10547-10552	peaks	_
@@ -1765,6 +1831,7 @@
 66-23	10671-10679	analysis	_
 66-24	10680-10681	.	_
 
+Text=For each mark, the coordinates for peaks for each set PFC neuronal, PFC neuron-depleted, ACC neuronal, ACC neuron-depleted used in this study are given for cell specifc-H3K4me3=syn11306591, homogenate-H3K4me3=syn11306589, cell specific-H3K27ac= syn9998643 and homogenate-H3K27ac= syn11485660.
 67-1	10682-10685	For	_
 67-2	10686-10690	each	_
 67-3	10691-10695	mark	_
@@ -1807,6 +1874,7 @@
 67-40	10968-10979	syn11485660	_
 67-41	10980-10981	.	_
 
+Text=Before calling peaks using MACS2, we first ran SPP to find the fragment length using maximum strand cross correlation (Figure S1B, S2).
 68-1	10982-10988	Before	_
 68-2	10989-10996	calling	_
 68-3	10997-11002	peaks	_
@@ -1835,6 +1903,7 @@
 68-26	11119-11120	)	_
 68-27	11121-11122	.	_
 
+Text=For QC parameters (NSC, RSC, PBC and number of mapped reads) of uniformly reprocessed and consolidated ChIP-Seq sets we used phantompeakqualtools.
 69-1	11123-11126	For	_
 69-2	11127-11129	QC	_
 69-3	11130-11140	parameters	_
@@ -1862,6 +1931,7 @@
 69-25	11252-11272	phantompeakqualtools	_
 69-26	11273-11274	.	_
 
+Text=The NSC of all samples used in this study were above threshold of 1.1 (Figure S1C).
 70-1	11275-11278	The	_
 70-2	11279-11282	NSC	_
 70-3	11283-11285	of	_
@@ -1882,6 +1952,7 @@
 70-18	11358-11359	)	_
 70-19	11360-11361	.	_
 
+Text=We provide summarized QC parameters of individual files (Table S2) and consolidated (Table S5) data sets respectively.
 71-1	11362-11364	We	_
 71-2	11365-11372	provide	_
 71-3	11373-11383	summarized	_
@@ -1905,6 +1976,7 @@
 71-21	11471-11483	respectively	_
 71-22	11484-11485	.	_
 
+Text=Functional enrichment of non-overlapping cell- and tissue-specific histone peaks In order to interpret the specificity of cell-type and homogenate data, we identified their respective unique or non-overlapping peak regions.
 72-1	11486-11496	Functional	_
 72-2	11497-11507	enrichment	_
 72-3	11508-11510	of	_
@@ -1937,6 +2009,7 @@
 72-30	11702-11709	regions	_
 72-31	11710-11711	.	_
 
+Text=Non-overlapping regions in a dataset are defined as all genomic regions except the ones that have at least 50% overlap with the dataset they are compared with.
 73-1	11712-11727	Non-overlapping	_
 73-2	11728-11735	regions	_
 73-3	11736-11738	in	_
@@ -1967,6 +2040,7 @@
 73-28	11867-11871	with	_
 73-29	11872-11873	.	_
 
+Text=We have examined the biological function of nearby genes of these non-overlapping peak regions using Genomic Regions Enrichment of Annotations Tool (GREAT).
 74-1	11874-11876	We	_
 74-2	11877-11881	have	_
 74-3	11882-11890	examined	_
@@ -1993,6 +2067,7 @@
 74-24	12030-12031	)	_
 74-25	12032-12033	.	_
 
+Text=The settings for genomic regions used are (proximal: 5.0 kb upstream, 5.0kb upstream and distal to 100 kb.)
 75-1	12034-12037	The	_
 75-2	12038-12046	settings	_
 75-3	12047-12050	for	_
@@ -2017,6 +2092,7 @@
 75-22	12143-12144	.	_
 75-23	12145-12146	)	_
 
+Text=Gene set enrichment analysis based on single cell RNA-seq We next examined the difference between the Chip-seq signal in cell specific and homogenate datasets by measuring the enrichment of gene sets identified in neuronal and neuron-depleted chromatin subtypes by massive parallel profiling of single brain nuclei.
 76-1	12147-12151	Gene	_
 76-2	12152-12155	set	_
 76-3	12156-12166	enrichment	_
@@ -2065,6 +2141,7 @@
 76-46	12455-12461	nuclei	_
 76-47	12462-12463	.	_
 
+Text=For neuronal subtypes we used identified gene sets for excitatory neurons (n=24), pyramidal neurons CA1 (n=132), pyramidal neurons CA2 (n=111), pyramidal neurons CA3 (n=50), GABAergic interneurons (n=145) and granule cells DG (n=163) and for non-neuronal subtypes we used identified genes sets for radial glia (n=10), myelin (n=16), oligodendrocytes (n=120), astrocytes (n=155) and oligoprogenitor cells (n=42).
 77-1	12464-12467	For	_
 77-2	12468-12476	neuronal	_
 77-3	12477-12485	subtypes	_
@@ -2151,6 +2228,7 @@
 77-84	12902-12903	)	_
 77-85	12904-12905	.	_
 
+Text=nsgplot v2.61 was used to quantify ChIP-Seq reads enrichment of 7 datasets for both marks: 1) PFC neuronal 2) PFC neuron-depleted, 3) ACC neuronal 4) ACC neuron-depleted, 5) PFC HBCC homogenate, 6) PFC REP Homogenate 7) ACC REP homogenate for abovementioned neuronal and non-neuronal gene sets as a function of 15kb distance upstream, downstream around TSS for both marks.
 78-1	12906-12913	nsgplot	_
 78-2	12914-12919	v2.61	_
 78-3	12920-12923	was	_
@@ -2224,6 +2302,7 @@
 78-71	13284-13289	marks	_
 78-72	13290-13291	.	_
 
+Text=We calculated the magnitude of area under these ChIP-Seq reads enrichment curve to examine the difference between the enrichment of cell-specific and homogenate datasets for neuronal and non-neuronal subtypes.
 79-1	13292-13294	We	_
 79-2	13295-13305	calculated	_
 79-3	13306-13309	the	_
@@ -2255,6 +2334,7 @@
 79-29	13492-13500	subtypes	_
 79-30	13501-13502	.	_
 
+Text=In addition to these genesets we measured the enrichment of ChIP-Seq reads for neuropsychiatric disease signatures as well.
 80-1	13503-13505	In	_
 80-2	13506-13514	addition	_
 80-3	13515-13517	to	_
@@ -2275,6 +2355,7 @@
 80-18	13621-13625	well	_
 80-19	13626-13627	.	_
 
+Text=We curated these genesets for 1) CMC schizophrenia (n=693) based on RNA-seq differential gene expression between cases and controls from PFC region from 690 individuals (p-value <= 0.05) and 2) schizophrenia (n=884), 3) bipolar disorder (n=179), 4) major depressive disorder (n=25) 5) autism spectrum disorder (n=933) based on differential gene expression cerebral cortex region from microarray studied done on 715 individuals (p-value <= 0.05 and log2FC> = 2.)
 81-1	13628-13630	We	_
 81-2	13631-13638	curated	_
 81-3	13639-13644	these	_
@@ -2369,6 +2450,7 @@
 81-92	14111-14112	.	_
 81-93	14113-14114	)	_
 
+Text=Quantification of ChIP-seq signal in each peak To determine the reads coverage across the whole genoßme for a BAM file, we used featureCounts from subread 1.5.2.
 82-1	14115-14129	Quantification	_
 82-2	14130-14132	of	_
 82-3	14133-14141	ChIP-seq	_
@@ -2398,6 +2480,7 @@
 82-27	14271-14276	1.5.2	_
 82-28	14277-14278	.	_
 
+Text=The data input to featureCounts consists of a) uniformly processed BAM files and b) a consensus peak file in Simplified Automation Format (SAF).
 83-1	14279-14282	The	_
 83-2	14283-14287	data	_
 83-3	14288-14293	input	_
@@ -2427,6 +2510,7 @@
 83-27	14425-14426	)	_
 83-28	14427-14428	.	_
 
+Text=The consensus peak signals for H3K4me3 and H3K27ac were generated by taking the union of MACS2 narrowPeak files of cell-specific and homogenate consolidated datasets which are 1) H3K4me3-PFC neuronal, 2) H3K4me3-PFC non-neuronal, 3) H3K4me3-ACC neuronal, 4) H3K4me3-ACC neuron-depleted and 5) H3K4me3-PFC HBCC homogenate and union of MACS2 broadPeaks files of 5) H3K27ac-PFC neuronal, 6) H3K27ac-PFC neuron-depleted, 7) H3K27ac-ACC neuronal, 8) H3K27ac-ACC neuron-depleted respectively.
 84-1	14429-14432	The	_
 84-2	14433-14442	consensus	_
 84-3	14443-14447	peak	_
@@ -2507,6 +2591,7 @@
 84-78	14917-14929	respectively	_
 84-79	14930-14931	.	_
 
+Text=featureCounts quantifies number of reads for each sample in every peak region of consensus signal.
 85-1	14932-14945	featureCounts	_
 85-2	14946-14956	quantifies	_
 85-3	14957-14963	number	_
@@ -2524,6 +2609,7 @@
 85-15	15023-15029	signal	_
 85-16	15030-15031	.	_
 
+Text=The counts were put together in a matrix separately for H3K4me3 and H3K27ac marks with 74 (cell-specifc=63, homogenate=11) samples from 28 individuals (cell-specific=17, homogenate=11) as rows for H3K4me3 and 83 (cell-specific=66, homogenate=17) from 34 individuals (cell-specific=17, homogenate=17) as rows for H3K27ac and 107,480 (152,590) peak regions as columns for H3K4me3 (H3K27ac).
 86-1	15032-15035	The	_
 86-2	15036-15042	counts	_
 86-3	15043-15047	were	_
@@ -2593,6 +2679,7 @@
 86-67	15434-15435	)	_
 86-68	15436-15437	.	_
 
+Text=This matrix was converted into log2 counts per million (CPM) using TMM normalization to correct for the total number of reads.
 87-1	15438-15442	This	_
 87-2	15443-15449	matrix	_
 87-3	15450-15453	was	_
@@ -2618,6 +2705,7 @@
 87-23	15560-15565	reads	_
 87-24	15566-15567	.	_
 
+Text=The log2 CPM matrix was used for downstream analysis.
 88-1	15568-15571	The	_
 88-2	15572-15576	log2	_
 88-3	15577-15580	CPM	_
@@ -2629,6 +2717,7 @@
 88-9	15612-15620	analysis	_
 88-10	15621-15622	.	_
 
+Text=Decomposing variation into multiple components with variancePartition For cell-specific dataset for each histone mark, the epigenetic variance of each peak was decomposed into variation attributable to cell type, subject, brain region, sex, plus the residual variation: These 4 variables are categorical and so were modeled as random effects.
 89-1	15623-15634	Decomposing	_
 89-2	15635-15644	variation	_
 89-3	15645-15649	into	_
@@ -2685,6 +2774,7 @@
 89-54	15963-15970	effects	_
 89-55	15971-15972	.	_
 
+Text=The analysis was performed by modeling the log2 CPM with a linear mixed model implemented in variancePartition v1.4.1 and treating each variable as a random effect.
 90-1	15973-15976	The	_
 90-2	15977-15985	analysis	_
 90-3	15986-15989	was	_
@@ -2713,6 +2803,7 @@
 90-26	16130-16136	effect	_
 90-27	16137-16138	.	_
 
+Text=Each peak was considered separately and the results for all peaks were aggregated afterwards.
 91-1	16139-16143	Each	_
 91-2	16144-16148	peak	_
 91-3	16149-16152	was	_
@@ -2729,6 +2820,7 @@
 91-14	16221-16231	afterwards	_
 91-15	16232-16233	.	_
 
+Text=Results were summarized in terms of the fraction of total variation explained by each variable for each peak.
 92-1	16234-16241	Results	_
 92-2	16242-16246	were	_
 92-3	16247-16257	summarized	_
@@ -2749,6 +2841,7 @@
 92-18	16338-16342	peak	_
 92-19	16343-16344	.	_
 
+Text=A variancePartition analysis was also performed on additional metadata variables such as QC statistics (i.e.
 93-1	16345-16346	A	_
 93-2	16347-16364	variancePartition	_
 93-3	16365-16373	analysis	_
@@ -2767,6 +2860,7 @@
 93-16	16450-16453	i.e	_
 93-17	16454-16455	.	_
 
+Text=NSC, RSC, PCR PBC and NRF), and sample processing batches (library preparation date of chip, chip DNA volume, chip DNA amount (ng), total chip DNA in a library, library preparation operator, library AMpure beads lot, library PCR cycles number, library volume, library sequencing batch, library sequencing submission date, library preparation library batch.)
 94-1	16456-16459	NSC	_
 94-2	16460-16461	,	_
 94-3	16462-16465	RSC	_
@@ -2839,6 +2933,7 @@
 94-70	16829-16830	.	_
 94-71	16831-16832	)	_
 
+Text=Continuous variables were modeled as fixed effects and categorical variables were modeled as random effects.
 95-1	16833-16843	Continuous	_
 95-2	16844-16853	variables	_
 95-3	16854-16858	were	_
@@ -2856,6 +2951,7 @@
 95-15	16933-16940	effects	_
 95-16	16941-16942	.	_
 
+Text=The percentage variation explained by technical variables such as experimental batches or QC statistics was either relatively small or better explained by the 4 major variables described above.
 96-1	16943-16946	The	_
 96-2	16947-16957	percentage	_
 96-3	16958-16967	variation	_
@@ -2886,6 +2982,7 @@
 96-28	17130-17135	above	_
 96-29	17136-17137	.	_
 
+Text=Principal components analysis As a QC step, performed PCA on the log2 CPM matrix in order to identify outliers.
 97-1	17138-17147	Principal	_
 97-2	17148-17158	components	_
 97-3	17159-17167	analysis	_
@@ -2908,6 +3005,7 @@
 97-20	17241-17249	outliers	_
 97-21	17250-17251	.	_
 
+Text=8 samples were identified as outliers (Table S2) and these corresponded to samples that barely passed our previous QC cutoffs.
 98-1	17252-17253	8	_
 98-2	17254-17261	samples	_
 98-3	17262-17266	were	_
@@ -2932,6 +3030,7 @@
 98-22	17372-17379	cutoffs	_
 98-23	17380-17381	.	_
 
+Text=These samples were excluded from further analysis.
 99-1	17382-17387	These	_
 99-2	17388-17395	samples	_
 99-3	17396-17400	were	_
@@ -2941,6 +3040,7 @@
 99-7	17423-17431	analysis	_
 99-8	17432-17433	.	_
 
+Text=Differential histone modification For cell-specific dataset for each mark, we performed differential analysis to identify peak regions with significant differences 1) across the cell types (neuronal and non-neuronal) 2) across brain regions (ACC neuronal and PFC neuronal) and (ACC neuron-depleted and PFC neuron-depleted) using edgeR v.3.14.0.
 100-1	17434-17446	Differential	_
 100-2	17447-17454	histone	_
 100-3	17455-17467	modification	_
@@ -2998,6 +3098,7 @@
 100-55	17778-17786	v.3.14.0	_
 100-56	17787-17788	.	_
 
+Text=The CPM matrix was prefiltered to regions with CPM> 1 in at least 5 samples for both histone marks and normalized using calcNormFactors function which uses trimmed mean of M-values (TMM).
 101-1	17789-17792	The	_
 101-2	17793-17796	CPM	_
 101-3	17797-17803	matrix	_
@@ -3034,6 +3135,7 @@
 101-34	17977-17978	)	_
 101-35	17979-17980	.	_
 
+Text=The edgeR software modeled the reads counts matrix as negative binomial distribution using cell types and brain regions as covariates.
 102-1	17981-17984	The	_
 102-2	17985-17990	edgeR	_
 102-3	17991-17999	software	_
@@ -3056,6 +3158,7 @@
 102-20	18104-18114	covariates	_
 102-21	18115-18116	.	_
 
+Text=We fit the normalized CPM matrix to quasi-likelihood negative binomial generalized log-linear model using glmQLFit function with robust = TRUE option.
 103-1	18117-18119	We	_
 103-2	18120-18123	fit	_
 103-3	18124-18127	the	_
@@ -3079,6 +3182,7 @@
 103-21	18260-18266	option	_
 103-22	18267-18268	.	_
 
+Text=The Quasi-Likelihood F-test was then applied to test to identify peak regions that are significantly different across cell types and brain region (for both neuronal and non-neuronal cell types) using glmQLFTest (glmQLFit object, contrast=cell type or brain region).
 104-1	18269-18272	The	_
 104-2	18273-18289	Quasi-Likelihood	_
 104-3	18290-18296	F-test	_
@@ -3124,6 +3228,7 @@
 104-43	18537-18538	)	_
 104-44	18539-18540	.	_
 
+Text=Multiple testing was done by applying the Benjamini-Hochberg method on the p-values to control false discovery rate.
 105-1	18541-18549	Multiple	_
 105-2	18550-18557	testing	_
 105-3	18558-18561	was	_
@@ -3143,6 +3248,7 @@
 105-17	18652-18656	rate	_
 105-18	18657-18658	.	_
 
+Text=The total number of differential peaks was determined at a FDR of 5%.
 106-1	18659-18662	The	_
 106-2	18663-18668	total	_
 106-3	18669-18675	number	_
@@ -3159,6 +3265,7 @@
 106-14	18727-18728	%	_
 106-15	18729-18730	.	_
 
+Text=The coordinates of neuronal, non-neuronal, ACC neuronal, PFC neuronal, PFC neuronal, PFC non-neuronal genomic regions are given in Table S8, S9.
 107-1	18731-18734	The	_
 107-2	18735-18746	coordinates	_
 107-3	18747-18749	of	_
@@ -3188,6 +3295,7 @@
 107-27	18878-18880	S9	_
 107-28	18881-18882	.	_
 
+Text=Comparison with Roadmap Epigenomics Project For each mark, we measured the similarity of genomic regions of cell specific (4) and homogenate (1) consolidated data sets: ACC neuronal, PFC neuronal, PFC neuronal, PFC neuron-depleted/non-neuronal and PFC HBCC homogenate with REP data from 111 tissues.
 108-1	18883-18893	Comparison	_
 108-2	18894-18898	with	_
 108-3	18899-18906	Roadmap	_
@@ -3242,6 +3350,7 @@
 108-52	19183-19190	tissues	_
 108-53	19191-19192	.	_
 
+Text=We used bedtools jaccard –a sample bed file –b REP bed file.
 109-1	19193-19195	We	_
 109-2	19196-19200	used	_
 109-3	19201-19209	bedtools	_
@@ -3256,6 +3365,7 @@
 109-12	19248-19252	file	_
 109-13	19253-19254	.	_
 
+Text=This command outputs Jaccard index parameter (see Table S4) which is evaluated as Cell composition analysis Cell type proportions were quantified using R library CellMix.
 110-1	19255-19259	This	_
 110-2	19260-19267	command	_
 110-3	19268-19275	outputs	_
@@ -3285,6 +3395,7 @@
 110-27	19419-19426	CellMix	_
 110-28	19427-19428	.	_
 
+Text=Using our neuronal and non-neuronal ChIP-seq datasets, we generated cell type signatures to run deconvolution on homogenate samples to quantify the proportion of each cell type for every sample.
 111-1	19429-19434	Using	_
 111-2	19435-19438	our	_
 111-3	19439-19447	neuronal	_
@@ -3317,6 +3428,7 @@
 111-30	19617-19623	sample	_
 111-31	19624-19625	.	_
 
+Text=We first created the basis set for neuronal and non-neuronal cell types by taking the mean of RPKM values for each peak across neuronal samples and neuron-depleted samples respectively for both marks.
 112-1	19626-19628	We	_
 112-2	19629-19634	first	_
 112-3	19635-19642	created	_
@@ -3351,6 +3463,7 @@
 112-32	19820-19825	marks	_
 112-33	19826-19827	.	_
 
+Text=We defined as our input matrix the HBCC homogenate samples ’ RPKM matrix.
 113-1	19828-19830	We	_
 113-2	19831-19838	defined	_
 113-3	19839-19841	as	_
@@ -3366,6 +3479,7 @@
 113-13	19894-19900	matrix	_
 113-14	19901-19902	.	_
 
+Text=We then used the “ lsfit ” method from CellMix library for decomposition of RPKM matrix to calculate the coefficients of neuronal and non-neuronal cell types.
 114-1	19903-19905	We	_
 114-2	19906-19910	then	_
 114-3	19911-19915	used	_
@@ -3394,6 +3508,7 @@
 114-26	20055-20060	types	_
 114-27	20061-20062	.	_
 
+Text=Genic annotation We used CHIPSeeker v.1.8.9 to annotate peaks to seven distinct categories: promoter, 5′UTR, exons, introns, 3′UTR, downstream (<=3 kb) and distal intergenic regions within 5Kb of downstream and upstream of the transcription start site.
 115-1	20063-20068	Genic	_
 115-2	20069-20079	annotation	_
 115-3	20080-20082	We	_
@@ -3441,6 +3556,7 @@
 115-45	20319-20323	site	_
 115-46	20324-20325	.	_
 
+Text=The transcript database used for the annotation is ENSEMBL v75 for GRCh37.70.
 116-1	20326-20329	The	_
 116-2	20330-20340	transcript	_
 116-3	20341-20349	database	_
@@ -3455,6 +3571,7 @@
 116-12	20393-20402	GRCh37.70	_
 116-13	20403-20404	.	_
 
+Text=Correlation of ChIP-Seq reads counts with RNA-Seq expression We next examined the enrichment of ChIP-Seq reads counts around transcription start site (TSS) region of protein coding genes with RNA-Seq expressions from 537 individuals for 20,330 genes from PFC brain regions.
 117-1	20405-20416	Correlation	_
 117-2	20417-20419	of	_
 117-3	20420-20428	ChIP-Seq	_
@@ -3499,6 +3616,7 @@
 117-42	20672-20679	regions	_
 117-43	20680-20681	.	_
 
+Text=We use nsgplot v2.61 to plot ChIP-Seq read enrichment of combined PFC neuronal data sets as a function of 15kb distance upstream, downstream around TSS for both marks.
 118-1	20682-20684	We	_
 118-2	20685-20688	use	_
 118-3	20689-20696	nsgplot	_
@@ -3530,6 +3648,7 @@
 118-29	20844-20849	marks	_
 118-30	20850-20851	.	_
 
+Text=Enrichments plots were made for all protein coding genes grouped into 5 categories sorted by the RPKM mean values across 537 subjects from the CommonMind RNA-Seq dataset.
 119-1	20852-20863	Enrichments	_
 119-2	20864-20869	plots	_
 119-3	20870-20874	were	_
@@ -3559,6 +3678,7 @@
 119-27	21014-21021	dataset	_
 119-28	21022-21023	.	_
 
+Text=Histone QTL enrichment analysis The overlap between peak regions with a) histone QTLs detected in lymphoblastoid cell lines (LCL) and peak regions exceeding a variance percentage cutoff for a particular variable for both marks is computed.
 120-1	21024-21031	Histone	_
 120-2	21032-21035	QTL	_
 120-3	21036-21046	enrichment	_
@@ -3600,6 +3720,7 @@
 120-39	21257-21265	computed	_
 120-40	21266-21267	.	_
 
+Text=This overlap is then compared to the overlap computed from randomly permutated variance percentages.
 121-1	21268-21272	This	_
 121-2	21273-21280	overlap	_
 121-3	21281-21283	is	_
@@ -3616,6 +3737,7 @@
 121-14	21356-21367	percentages	_
 121-15	21368-21369	.	_
 
+Text=Each peak region is assigned a value based on the percentage of variance explained by a particular variable in the variancePartition analysis.
 122-1	21370-21374	Each	_
 122-2	21375-21379	peak	_
 122-3	21380-21386	region	_
@@ -3640,6 +3762,7 @@
 122-22	21503-21511	analysis	_
 122-23	21512-21513	.	_
 
+Text=At each of 40 cutoff values, the overlap between peak regions with values exceeding this cutoff and the peak regions with a histone QTL for the same histone mark in LCLs/PFC is evaluated using the Jaccard index.
 123-1	21514-21516	At	_
 123-2	21517-21521	each	_
 123-3	21522-21524	of	_
@@ -3680,6 +3803,7 @@
 123-38	21720-21725	index	_
 123-39	21726-21727	.	_
 
+Text=The overlap was computed for the observed data and 10,000 datasets with the variance percentages randomly permutated.
 124-1	21728-21731	The	_
 124-2	21732-21739	overlap	_
 124-3	21740-21743	was	_
@@ -3699,6 +3823,7 @@
 124-17	21834-21844	permutated	_
 124-18	21845-21846	.	_
 
+Text=At each cutoff, the enrichment is computed as The mean enrichment value and the 90% confidence interval are shown in the plot.
 125-1	21847-21849	At	_
 125-2	21850-21854	each	_
 125-3	21855-21861	cutoff	_
@@ -3725,6 +3850,7 @@
 125-24	21970-21974	plot	_
 125-25	21975-21976	.	_
 
+Text=Only regions on autosomes are considered leaving 9,575 H3K4me3 hQTLs in LCLs and 1,912 H3K27ac hQTLs in post mortem PCF.
 126-1	21977-21981	Only	_
 126-2	21982-21989	regions	_
 126-3	21990-21992	on	_
@@ -3747,6 +3873,7 @@
 126-20	22093-22096	PCF	_
 126-21	22097-22098	.	_
 
+Text=Permutation and overlap calculations were performed using regioneR.
 127-1	22099-22110	Permutation	_
 127-2	22111-22114	and	_
 127-3	22115-22122	overlap	_
@@ -3757,6 +3884,7 @@
 127-8	22157-22165	regioneR	_
 127-9	22166-22167	.	_
 
+Text=We ran similar analysis to test the overlap between the peak regions with a) hQTLs in H3K27ac modified peak regions from PFC homogenate from Sun et.al.
 128-1	22168-22170	We	_
 128-2	22171-22174	ran	_
 128-3	22175-22182	similar	_
@@ -3786,6 +3914,7 @@
 128-27	22314-22319	et.al	_
 128-28	22320-22321	.	_
 
+Text=b) hQTLs in H3K9ac modified peak regions from PFC homogenate from Ng et.al.
 129-1	22322-22323	b	_
 129-2	22324-22325	)	_
 129-3	22326-22331	hQTLs	_
@@ -3802,6 +3931,7 @@
 129-14	22392-22397	et.al	_
 129-15	22398-22399	.	_
 
+Text=with peak regions from 1) H3K27ac-PFC neuronal 2) H3K27ac-PFC non-neuronal, 3) H3K27ac-ACC neuronal 4) H3K27ac-ACC non-neuronal datasets and 5) differentially modified neuronal and 6) non-neuronal H3K27ac modified peak regions.
 130-1	22400-22404	with	_
 130-2	22405-22409	peak	_
 130-3	22410-22417	regions	_
@@ -3840,6 +3970,7 @@
 130-36	22626-22633	regions	_
 130-37	22634-22635	.	_
 
+Text=The overlapobserved is the jaccard index between a, b hQTL regions and 1–6 datasets.
 131-1	22636-22639	The	_
 131-2	22640-22655	overlapobserved	_
 131-3	22656-22658	is	_
@@ -3857,6 +3988,7 @@
 131-15	22712-22720	datasets	_
 131-16	22721-22722	.	_
 
+Text=The overlappermuted is the jaccard index between abovementioned 1–6 datsets and 1000 datsets obtained by randomly permuting x no.
 132-1	22723-22726	The	_
 132-2	22727-22742	overlappermuted	_
 132-3	22743-22745	is	_
@@ -3878,6 +4010,7 @@
 132-19	22849-22851	no	_
 132-20	22852-22853	.	_
 
+Text=of peak regions from a) PFC homogenate from Sun et.al b) PFC homogenate from Ng et.al.
 133-1	22854-22856	of	_
 133-2	22857-22861	peak	_
 133-3	22862-22869	regions	_
@@ -3898,6 +4031,7 @@
 133-18	22936-22941	et.al	_
 133-19	22942-22943	.	_
 
+Text=(x = length of hQTLs) Pathway Enrichment analysis Genomic Regions Enrichment of Annotations Tool (GREAT) was used to interpret differentially modified peaks in terms of the biological function of nearby genes.
 134-1	22944-22945	(	_
 134-2	22946-22947	x	_
 134-3	22948-22949	=	_
@@ -3935,6 +4069,7 @@
 134-35	23151-23156	genes	_
 134-36	23157-23158	.	_
 
+Text=We took the sets of peaks that showed significant (<5% FDR) differences across cell types (neurons and non-neurons) from edgeR analysis and tested for functional enrichment using the consensus peaks for each mark as a background (see Table S7, S9).
 135-1	23159-23161	We	_
 135-2	23162-23166	took	_
 135-3	23167-23170	the	_
@@ -3986,6 +4121,7 @@
 135-49	23414-23415	)	_
 135-50	23416-23417	.	_
 
+Text=The settings for genomic regions used are (proximal: 5.0 kb upstream, 5.0kb upstream and distal to 100 kb.)
 136-1	23418-23421	The	_
 136-2	23422-23430	settings	_
 136-3	23431-23434	for	_
@@ -4010,6 +4146,7 @@
 136-22	23527-23528	.	_
 136-23	23529-23530	)	_
 
+Text=Since many of the gene set from different databases are redundant, we only considered REACTOME, KEGG and PID for a total of gene sets.
 137-1	23531-23536	Since	_
 137-2	23537-23541	many	_
 137-3	23542-23544	of	_
@@ -4038,6 +4175,7 @@
 137-26	23662-23666	sets	_
 137-27	23667-23668	.	_
 
+Text=Significance testing for the enrichment analysis was based on the binomial test compute by GREAT and using a Bonferroni cutoff 4.7 X 10−5 based on these tests.
 138-1	23669-23681	Significance	_
 138-2	23682-23689	testing	_
 138-3	23690-23693	for	_
@@ -4067,6 +4205,7 @@
 138-27	23822-23827	tests	_
 138-28	23828-23829	.	_
 
+Text=Overlap of identified peaks with disease and trait-associated genetic variants To assess if the genomic regions carrying the two assayed histone marks in the different brain regions and cell types play a role in the various traits and diseases, we examined the overlap with common genetic variants identified by genome-wide association studies (GWAS).
 139-1	23830-23837	Overlap	_
 139-2	23838-23840	of	_
 139-3	23841-23851	identified	_
@@ -4125,6 +4264,7 @@
 139-56	24182-24183	)	_
 139-57	24184-24185	.	_
 
+Text=For this, we employed LD-score partitioned heritability, which estimates if common genetic variants in the genomic regions of interest explain more of the heritability of a given trait than genetic variants not overlapping the genomic regions of interest normalized by the number of variants in either category.
 140-1	24186-24189	For	_
 140-2	24190-24194	this	_
 140-3	24195-24196	,	_
@@ -4176,6 +4316,7 @@
 140-49	24490-24498	category	_
 140-50	24499-24500	.	_
 
+Text=The algorithm allows for correction of the general genetic context of the annotation using a baseline model of broad genomic annotations (like coding, intronic, and conserved).
 141-1	24501-24504	The	_
 141-2	24505-24514	algorithm	_
 141-3	24515-24521	allows	_
@@ -4208,6 +4349,7 @@
 141-30	24679-24680	)	_
 141-31	24681-24682	.	_
 
+Text=By using this baseline model, the algorithm focuses on enrichments above those expected from the genetic context of the interrogated regions.
 142-1	24683-24685	By	_
 142-2	24686-24691	using	_
 142-3	24692-24696	this	_
@@ -4232,6 +4374,7 @@
 142-22	24817-24824	regions	_
 142-23	24825-24826	.	_
 
+Text=We applied the method to a range of GWAS traits with presumed involvement of the brain and well powered studies of traits not believed to involve the brain.
 143-1	24827-24829	We	_
 143-2	24830-24837	applied	_
 143-3	24838-24841	the	_
@@ -4262,6 +4405,7 @@
 143-28	24977-24982	brain	_
 143-29	24983-24984	.	_
 
+Text=For the Alzheimer ’ s GWAS, see Materials and Methods for the Alzheimer ’ s GWAS.
 144-1	24985-24988	For	_
 144-2	24989-24992	the	_
 144-3	24993-25002	Alzheimer	_
@@ -4281,6 +4425,7 @@
 144-17	25062-25066	GWAS	_
 144-18	25067-25068	.	_
 
+Text=We used the European only versions of the summary statistics when available.
 145-1	25069-25071	We	_
 145-2	25072-25076	used	_
 145-3	25077-25080	the	_
@@ -4295,6 +4440,7 @@
 145-12	25135-25144	available	_
 145-13	25145-25146	.	_
 
+Text=This led to only coronary artery disease having a somewhat mixed ancestry (77% Europeans).
 146-1	25147-25151	This	_
 146-2	25152-25155	led	_
 146-3	25156-25158	to	_
@@ -4314,6 +4460,7 @@
 146-17	25238-25239	)	_
 146-18	25240-25241	.	_
 
+Text=We excluded the broad MHC-region (chr6:25–35MB) and otherwise used default parameters.
 147-1	25242-25244	We	_
 147-2	25245-25253	excluded	_
 147-3	25254-25257	the	_
@@ -4329,6 +4476,7 @@
 147-13	25319-25329	parameters	_
 147-14	25330-25331	.	_
 
+Text=Allele specific QTL analysis We used RASQUAL to call cell- and tissue- specific cis-hQTLs (histone QTLs) in our dataset PFC neuronal, ACC neuronal, PFC non-neuronal, ACC non-neuronal and PFC tissue homogenate for each of the two histone marks, H3K27ac and H3K4me3.
 148-1	25332-25338	Allele	_
 148-2	25339-25347	specific	_
 148-3	25348-25351	QTL	_
@@ -4378,6 +4526,7 @@
 148-47	25594-25601	H3K4me3	_
 148-48	25602-25603	.	_
 
+Text=RASQUAL uses allele specific reads counts at heterozygous sites to increase power to detect cis-hQTLs correlated with quantitative variation in histone modification.
 149-1	25604-25611	RASQUAL	_
 149-2	25612-25616	uses	_
 149-3	25617-25623	allele	_
@@ -4402,6 +4551,7 @@
 149-22	25756-25768	modification	_
 149-23	25769-25770	.	_
 
+Text=With RASQUAL a feature in our ChIP-seq dataset is defined by a set of start and end coordinates of identified peaks for calling a cis-hQTLs.
 150-1	25771-25775	With	_
 150-2	25776-25783	RASQUAL	_
 150-3	25784-25785	a	_
@@ -4429,6 +4579,7 @@
 150-25	25901-25910	cis-hQTLs	_
 150-26	25911-25912	.	_
 
+Text=RASQUAL requires few data preprocessing steps before calling cis-hQTLs.
 151-1	25913-25920	RASQUAL	_
 151-2	25921-25929	requires	_
 151-3	25930-25933	few	_
@@ -4440,6 +4591,7 @@
 151-9	25974-25983	cis-hQTLs	_
 151-10	25984-25985	.	_
 
+Text=1) ChIP-seq read counts and offset matrices as text and bin files for each dataset and mark.
 152-1	25986-25987	1	_
 152-2	25988-25989	)	_
 152-3	25990-25998	ChIP-seq	_
@@ -4460,6 +4612,7 @@
 152-18	26074-26078	mark	_
 152-19	26079-26080	.	_
 
+Text=We used bedtools –nuc option to obtain GC content for each identified peak region and use that as an input for offset calculation from counts matrix in their custom makeOffset.R script file.
 153-1	26081-26083	We	_
 153-2	26084-26088	used	_
 153-3	26089-26097	bedtools	_
@@ -4494,6 +4647,7 @@
 153-32	26266-26270	file	_
 153-33	26271-26272	.	_
 
+Text=All text files were converted to bin file using text2bin.R script file.
 154-1	26273-26276	All	_
 154-2	26277-26281	text	_
 154-3	26282-26287	files	_
@@ -4508,6 +4662,7 @@
 154-12	26339-26343	file	_
 154-13	26344-26345	.	_
 
+Text=2) Covariates text and bin file for each dataset and mark.
 155-1	26346-26347	2	_
 155-2	26348-26349	)	_
 155-3	26350-26360	Covariates	_
@@ -4522,6 +4677,7 @@
 155-12	26400-26404	mark	_
 155-13	26405-26406	.	_
 
+Text=The confounding factors in ChIP-seq reads counts are obtained by applying PCA onto log FPKMs with and without permutation and outputs the first N components whose variances are greater than those from permutation results.
 156-1	26407-26410	The	_
 156-2	26411-26422	confounding	_
 156-3	26423-26430	factors	_
@@ -4558,6 +4714,7 @@
 156-34	26620-26627	results	_
 156-35	26628-26629	.	_
 
+Text=We used the makeCovariates.R script file and found 5 components as covariates for PFC neuronal, ACC neuronal, PFC non-neuronal, ACC non-neuronal dataset for H3K4me3 and H3K27ac marks whereas PFC homogenate samples have 3 (4) components for H3K4me3 (H3K27ac).
 157-1	26630-26632	We	_
 157-2	26633-26637	used	_
 157-3	26638-26641	the	_
@@ -4605,6 +4762,7 @@
 157-45	26893-26894	)	_
 157-46	26895-26896	.	_
 
+Text=3) Allele specific counts VCF file.
 158-1	26897-26898	3	_
 158-2	26899-26900	)	_
 158-3	26901-26907	Allele	_
@@ -4614,6 +4772,7 @@
 158-7	26928-26932	file	_
 158-8	26933-26934	.	_
 
+Text=createASVF.sh script file was used to count allele specific reads for every individual for a given SNP within a feature.
 159-1	26935-26948	createASVF.sh	_
 159-2	26949-26955	script	_
 159-3	26956-26960	file	_
@@ -4636,6 +4795,7 @@
 159-20	27047-27054	feature	_
 159-21	27055-27056	.	_
 
+Text=We used whole genome sequenced data of 17 individuals to generate allele specific counts.
 160-1	27057-27059	We	_
 160-2	27060-27064	used	_
 160-3	27065-27070	whole	_
@@ -4652,6 +4812,7 @@
 160-14	27139-27145	counts	_
 160-15	27146-27147	.	_
 
+Text=WGS paired-end 150bp reads were aligned to the GRCh37 human reference using the Burrows-Wheeler Aligner (BWA-MEM v0.78) and processed using the best-practices pipeline that includes marking of duplicate reads by the use of Picard tools (v1.83, http: //picard.sourceforge.net), realignment around indels, and base recalibration via Genome Analysis Toolkit (GATK v3.2.2).
 161-1	27148-27151	WGS	_
 161-2	27152-27162	paired-end	_
 161-3	27163-27168	150bp	_
@@ -4714,6 +4875,7 @@
 161-60	27525-27526	)	_
 161-61	27527-27528	.	_
 
+Text=All individuals WGS data was merged into a single vcf file and was used as one of the inputs to createASVF.sh.
 162-1	27529-27532	All	_
 162-2	27533-27544	individuals	_
 162-3	27545-27548	WGS	_
@@ -4737,6 +4899,7 @@
 162-21	27625-27638	createASVF.sh	_
 162-22	27639-27640	.	_
 
+Text=We ran RASQUAL feature on 90767 H3K4me3 peaks of PFC neuronal (n=17), ACC neuronal (n=14), PFC non-neuronal (n=17), ACC non-neuronal (n=15) and PFC homogenate (n=11) and 127773 H3K27ac peaks from PFC neuronal (n=17), ACC neuronal (n=17), PFC non-neuronal (n=17), ACC non-neuronal (n=15) and PFC homogenate (n=17).
 163-1	27641-27643	We	_
 163-2	27644-27647	ran	_
 163-3	27648-27655	RASQUAL	_
@@ -4811,6 +4974,7 @@
 163-72	27978-27979	)	_
 163-73	27980-27981	.	_
 
+Text=SNPs were tested within 10 kb of cis region from peak start and end points.
 164-1	27982-27986	SNPs	_
 164-2	27987-27991	were	_
 164-3	27992-27998	tested	_
@@ -4828,6 +4992,7 @@
 164-15	28050-28056	points	_
 164-16	28057-28058	.	_
 
+Text=We used Benjamini-Hochberg q-value <0.05 as a threshold to determine the significant cis-hQTLs.
 165-1	28059-28061	We	_
 165-2	28062-28066	used	_
 165-3	28067-28085	Benjamini-Hochberg	_
@@ -4844,6 +5009,7 @@
 165-14	28145-28154	cis-hQTLs	_
 165-15	28155-28156	.	_
 
+Text=hQTL-GWAS overlap In order to test the overlap of significant hQTLs (RASQUAL qvalue> 0.05) with GWAS identified SCZ loci, we took the list of lead SNPs and SNPs in LD (R^2> 0.8) with the latter.
 166-1	28157-28166	hQTL-GWAS	_
 166-2	28167-28174	overlap	_
 166-3	28175-28177	In	_
@@ -4888,6 +5054,7 @@
 166-42	28351-28357	latter	_
 166-43	28358-28359	.	_
 
+Text=The list was downloaded from https: //www.med.unc.edu/pgc/results-and-downloads/downloads.
 167-1	28360-28363	The	_
 167-2	28364-28368	list	_
 167-3	28369-28372	was	_
@@ -4898,6 +5065,7 @@
 167-8	28397-28450	//www.med.unc.edu/pgc/results-and-downloads/downloads	_
 167-9	28451-28452	.	_
 
+Text=We report the overlapping loci separately with cell specific hQTLs: - PFC NeuN+, PFC NeuN−, ACC NeuN+, ACC NeuN−) and PFC HBCC tissue homogenate.
 168-1	28453-28455	We	_
 168-2	28456-28462	report	_
 168-3	28463-28466	the	_
@@ -4929,6 +5097,7 @@
 168-29	28592-28602	homogenate	_
 168-30	28603-28604	.	_
 
+Text=hQTLs for both marks are listed in Table S10.
 169-1	28605-28610	hQTLs	_
 169-2	28611-28614	for	_
 169-3	28615-28619	both	_
@@ -4940,6 +5109,7 @@
 169-9	28646-28649	S10	_
 169-10	28650-28651	.	_
 
+Text=Materials and Methods for the Alzheimer ’ s GWAS Summary statistics for Alzheimer ’ s disease were provided by the International Genomics of Alzheimer ’ s Project (IGAP).
 170-1	28652-28661	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 170-2	28662-28665	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 170-3	28666-28673	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -4972,6 +5142,7 @@
 170-30	28822-28823	)	_
 170-31	28824-28825	.	_
 
+Text=IGAP is a large two-stage study based upon genome-wide association studies (GWAS) on individuals of European ancestry.
 171-1	28826-28830	IGAP	_
 171-2	28831-28833	is	_
 171-3	28834-28835	a	_
@@ -4993,6 +5164,7 @@
 171-19	28937-28945	ancestry	_
 171-20	28946-28947	.	_
 
+Text=In stage 1, IGAP used genotyped and imputed data on 7,055,881 single nucleotide polymorphisms (SNPs) to meta-analyse four previously-published GWAS datasets consisting of 17,008 Alzheimer ’ s disease cases and 37,154 controls (The European Alzheimer ’ s disease Initiative – EADI the Alzheimer Disease Genetics Consortium – ADGC The Cohorts for Heart and Aging Research in Genomic Epidemiology consortium – CHARGE The Genetic and Environmental Risk in AD consortium – GERAD).
 172-1	28948-28950	In	_
 172-2	28951-28956	stage	_
 172-3	28957-28958	1	_
@@ -5071,6 +5243,7 @@
 172-76	29426-29427	)	_
 172-77	29428-29429	.	_
 
+Text=In stage 2,11,632 SNPs were genotyped and tested for association in an independent set of 8,572 Alzheimer ’ s disease cases and 11,312 controls.
 173-1	29430-29432	In	_
 173-2	29433-29438	stage	_
 173-3	29439-29447	2,11,632	_
@@ -5097,6 +5270,7 @@
 173-24	29565-29573	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 173-25	29574-29575	.	_
 
+Text=Finally, a meta-analysis was performed combining results from stages 1 & 2.
 174-1	29576-29583	Finally	_
 174-2	29584-29585	,	_
 174-3	29586-29587	a	_
@@ -5112,6 +5286,7 @@
 174-13	29650-29651	2	_
 174-14	29652-29653	.	_
 
+Text=Data Availability Statement for the current study The data analyzed for this article is available through the psychENCODE Knowledge Portal (psychencode.org).
 175-1	29654-29658	Data	_
 175-2	29659-29671	Availability	_
 175-3	29672-29681	Statement	_
@@ -5137,6 +5312,7 @@
 175-23	29811-29812	)	_
 175-24	29813-29814	.	_
 
+Text=Access to the data is controlled by the NIMH Repository and Genomics Resources (NRGR) https: //www.nimhgenetics.org.
 176-1	29815-29821	Access	_
 176-2	29822-29824	to	_
 176-3	29825-29828	the	_
@@ -5158,6 +5334,7 @@
 176-19	29911-29933	//www.nimhgenetics.org	_
 176-20	29934-29935	.	_
 
+Text=See instructions for in the PsychENCODE Knowledge Portal: https: //www.synapse.org/ #! Synapse: syn4921369.
 177-1	29936-29939	See	_
 177-2	29940-29952	instructions	_
 177-3	29953-29956	for	_
@@ -5177,6 +5354,7 @@
 177-17	30036-30046	syn4921369	_
 177-18	30047-30048	.	_
 
+Text=Data and results are at https: //www.synapse.org/ #! Synapse: syn4566010.
 178-1	30049-30053	Data	_
 178-2	30054-30057	and	_
 178-3	30058-30065	results	_
@@ -5192,6 +5370,7 @@
 178-13	30114-30124	syn4566010	_
 178-14	30125-30126	.	_
 
+Text=The site includes link to UCSC browser visualizations.
 179-1	30127-30130	The	_
 179-2	30131-30135	site	_
 179-3	30136-30144	includes	_
@@ -5202,6 +5381,7 @@
 179-8	30166-30180	visualizations	_
 179-9	30181-30182	.	_
 
+Text=URLs Data access instructions (for ChIP-seq data presented in our paper): https: //www.synapse.org/ #! Synapse: syn4921369/wiki/235539 Data, results and visualizations (for ChIP-seq data presented in our paper): https: //www.synapse.org/ #! Synapse: syn4566010 Psychiatric Genomics Consortium: med.unc.edu/pgc International Genomics of Alzheimer ’ s Project: web.pasteur-lille.fr/en/recherche/u744 The Social Science Genetic Association Consortium: ssgac.org Sleep phenotypes: www.t2diabetesgenes.org/data Genetic Investigation of ANthropometric Traits: portals.broadinstitute.org/collaboration/giant Coronary Artery Disease: cardiogramplusc4d.org International Inflammatory Bowel Disease Genetics Consortium: ibdgenetics.org CommonMind Consortium: commonmind.org Roadmap Epigenomics Project: roadmapepigenomics.org Grubert, et al.
 180-1	30183-30187	URLs	_
 180-2	30188-30192	Data	_
 180-3	30193-30199	access	_
@@ -5308,6 +5488,7 @@
 180-104	31034-31036	al	_
 180-105	31037-31038	.	_
 
+Text=(Cell 2015) histone QTLs: http: //chromovar3d.stanford.edu/
 181-1	31039-31040	(	_
 181-2	31041-31045	Cell	_
 181-3	31046-31050	2015	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Alterations in intrinsic fronto-thalamo-parietal connectivity are associated with cognitive control deficits in psychotic disorders Despite a growing number of reports about alterations in intrinsic/resting brain activity observed in patients with psychotic disorders, their relevance to well-established cognitive control deficits in this patient group is not well understood.
 1-1	0-11	Alterations	_
 1-2	12-14	in	_
 1-3	15-24	intrinsic	_
@@ -52,6 +53,7 @@
 1-48	367-377	understood	_
 1-49	378-379	.	_
 
+Text=88 clinically stabilized patients with a psychotic disorder and 50 healthy controls participated in a resting-state magnetic resonance imaging study (rs-MRI) and performed an antisaccade task in the laboratory to assess voluntary inhibitory control ability.
 2-1	380-382	88	_
 2-2	383-393	clinically	_
 2-3	394-404	stabilized	http://maven.renci.org/NeuroBridge/neurobridge#RandomizedControlTrial
@@ -91,6 +93,7 @@
 2-37	631-638	ability	_
 2-38	639-640	.	_
 
+Text=Deficits on this task are a well-established biomarker across psychotic disorders as we found in the present patient sample.
 3-1	641-649	Deficits	_
 3-2	650-652	on	_
 3-3	653-657	this	_
@@ -112,6 +115,7 @@
 3-19	758-764	sample	_
 3-20	765-766	.	_
 
+Text=First, regional cerebral function was evaluated by measuring the amplitude of low frequency fluctuations (ALFF) in rs-MRI BOLD signals.
 4-1	767-772	First	_
 4-2	773-774	,	_
 4-3	775-783	regional	_
@@ -136,6 +140,7 @@
 4-22	897-904	signals	_
 4-23	905-906	.	_
 
+Text=We found reduced ALFF in patients in regions known to be relevant to antisaccade task performance including bilateral frontal eye fields (FEF), supplementary eye fields (SEF) and thalamus.
 5-1	907-909	We	_
 5-2	910-915	found	_
 5-3	916-923	reduced	_
@@ -171,6 +176,7 @@
 5-33	1091-1099	thalamus	_
 5-34	1100-1101	.	_
 
+Text=Second, areas with ALFF alterations were used as seed areas in whole-brain functional connectivity (FC) analysis.
 6-1	1102-1108	Second	_
 6-2	1109-1110	,	_
 6-3	1111-1116	areas	_
@@ -192,6 +198,7 @@
 6-19	1209-1217	analysis	_
 6-20	1218-1219	.	_
 
+Text=Altered FC was observed in a fronto-thalamo-parietal network that was associated with inhibition error rate in patients but not in controls.
 7-1	1220-1227	Altered	_
 7-2	1228-1230	FC	_
 7-3	1231-1234	was	_
@@ -215,6 +222,7 @@
 7-21	1351-1359	controls	_
 7-22	1360-1361	.	_
 
+Text=In contrast, faster time to generate a correct antisaccade was associated with FC in FEF and SEF in controls but this effect was not seen in patients.
 8-1	1362-1364	In	_
 8-2	1365-1373	contrast	_
 8-3	1374-1375	,	_
@@ -245,6 +253,7 @@
 8-28	1504-1512	patients	_
 8-29	1513-1514	.	_
 
+Text=These findings establish a behavioural relevance of resting-state fMRI findings in psychotic disorders, and extend previous reports of alterations in fronto-thalamo-parietal network activation during antisaccade performance seen in task-based fMRI studies.
 9-1	1515-1520	These	_
 9-2	1521-1529	findings	_
 9-3	1530-1539	establish	_
@@ -279,6 +288,7 @@
 9-32	1764-1771	studies	_
 9-33	1772-1773	.	_
 
+Text=Material and methods Subjects Antisaccade performance was assessed in 88 patients with a psychotic disorder (schizophrenia N=32, schizoaffective disorder N=13, and bipolar disorder with psychotic features N=43) and 50 healthy control participants studied at the Chicago site of the B-SNIP consortium as described previously.
 10-1	1774-1782	Material	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	1783-1786	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1787-1794	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -329,6 +339,7 @@
 10-48	2091-2101	previously	_
 10-49	2102-2103	.	_
 
+Text=Diagnoses were made by a consensus process using all available clinical information including the Structured Clinical Interview for DSM IV.
 11-1	2104-2113	Diagnoses	_
 11-2	2114-2118	were	_
 11-3	2119-2123	made	_
@@ -351,6 +362,7 @@
 11-20	2240-2242	IV	_
 11-21	2243-2244	.	_
 
+Text=Patients were clinically stable and receiving consistent psychopharmacological treatment for at least one month.
 12-1	2245-2253	Patients	_
 12-2	2254-2258	were	_
 12-3	2259-2269	clinically	_
@@ -367,6 +379,7 @@
 12-14	2351-2356	month	_
 12-15	2357-2358	.	_
 
+Text=Current symptoms and cognitive status were assessed using standard rating scales, Table I (Table I S).
 13-1	2359-2366	Current	_
 13-2	2367-2375	symptoms	_
 13-3	2376-2379	and	_
@@ -388,6 +401,7 @@
 13-19	2462-2463	)	_
 13-20	2464-2465	.	_
 
+Text=Inclusion criteria for all subjects were: (1) age 15–65; (2) WRAT reading score ≥ 65; (3) no history of neurologic illness or systemic disease; (4) minimum of 20/40 acuity (with or without correction), (5) no history of substance abuse within the last month or substance dependence within the last three months, and negative urine toxicology on assessment day, (6) no potentially sedating medication, i.e.
 14-1	2466-2475	Inclusion	_
 14-2	2476-2484	criteria	_
 14-3	2485-2488	for	_
@@ -476,6 +490,7 @@
 14-86	2889-2892	i.e	_
 14-87	2893-2894	.	_
 
+Text=benzodiazepines, and (7) head translation <1.5mm and rotation <1.5° during fMRI scanning.
 15-1	2895-2910	benzodiazepines	_
 15-2	2911-2912	,	_
 15-3	2913-2916	and	_
@@ -495,6 +510,7 @@
 15-17	2980-2988	scanning	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 15-18	2989-2990	.	_
 
+Text=Inclusion criteria for control subjects additionally included: (1) no personal or family history (first-degree relative) of psychotic or bipolar disorder; (2) no history of recurrent depression; and (3) no history of psychosis spectrum personality traits defined as meeting full or within one criteria of a Cluster A (psychosis spectrum) Axis-II diagnosis.
 16-1	2991-3000	Inclusion	_
 16-2	3001-3009	criteria	_
 16-3	3010-3013	for	_
@@ -561,6 +577,7 @@
 16-64	3350-3359	diagnosis	_
 16-65	3360-3361	.	_
 
+Text=The median time for completion of the full protocol was two days.
 17-1	3362-3365	The	_
 17-2	3366-3372	median	_
 17-3	3373-3377	time	_
@@ -575,6 +592,7 @@
 17-12	3422-3426	days	_
 17-13	3427-3428	.	_
 
+Text=T1 and T2 weighted magnetic resonance images were inspected by an experienced neuroradiologist to exclude significant structural abnormalities, e.g.
 18-1	3429-3431	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 18-2	3432-3435	and	_
 18-3	3436-3438	T2	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -597,6 +615,7 @@
 18-20	3574-3577	e.g	_
 18-21	3578-3579	.	_
 
+Text=tumors, in all participants.
 19-1	3580-3586	tumors	_
 19-2	3587-3588	,	_
 19-3	3589-3591	in	_
@@ -604,6 +623,7 @@
 19-5	3596-3608	participants	_
 19-6	3609-3610	.	_
 
+Text=The study was approved by the institutional review board of the University of Illinois at Chicago and written informed consent was obtained prior to study participation.
 20-1	3611-3614	The	_
 20-2	3615-3620	study	_
 20-3	3621-3624	was	_
@@ -632,6 +652,7 @@
 20-26	3766-3779	participation	_
 20-27	3780-3781	.	_
 
+Text=Eye movement testing Antisaccade testing and analysis procedures have been described in detail previously.
 21-1	3782-3785	Eye	_
 21-2	3786-3794	movement	_
 21-3	3795-3802	testing	_
@@ -648,6 +669,7 @@
 21-14	3877-3887	previously	_
 21-15	3888-3889	.	_
 
+Text=Eye movements were acquired with a video-based eye tracker in a darkened room (Eyelink II, SR Research Ltd., Ontario/Canada, sampling rate 500 Hz).
 22-1	3890-3893	Eye	_
 22-2	3894-3903	movements	_
 22-3	3904-3908	were	_
@@ -678,6 +700,7 @@
 22-28	4040-4041	)	_
 22-29	4042-4043	.	_
 
+Text=Before testing, participants refrained from nicotine or caffeine exposure for at least 30 minutes.
 23-1	4044-4050	Before	_
 23-2	4051-4058	testing	_
 23-3	4059-4060	,	_
@@ -695,6 +718,7 @@
 23-15	4135-4142	minutes	_
 23-16	4143-4144	.	_
 
+Text=They were seated 60 cm from a 22-inch CRT monitor (1360 × 768 resolution; 150 Hz refresh rate) with their heads stabilized with a chin and forehead restraint.
 24-1	4145-4149	They	_
 24-2	4150-4154	were	_
 24-3	4155-4161	seated	_
@@ -728,6 +752,7 @@
 24-31	4296-4305	restraint	_
 24-32	4306-4307	.	_
 
+Text=The target was a red cross in a box covering 0.5°.
 25-1	4308-4311	The	_
 25-2	4312-4318	target	_
 25-3	4319-4322	was	_
@@ -741,6 +766,7 @@
 25-11	4353-4357	0.5°	_
 25-12	4358-4359	.	_
 
+Text=The antisaccade task consisted of 80 overlap trials divided into four blocks.
 26-1	4360-4363	The	http://maven.renci.org/NeuroBridge/neurobridge#DementiaoftheLewyBodyType
 26-2	4364-4375	antisaccade	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 26-3	4376-4380	task	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -755,6 +781,7 @@
 26-12	4430-4436	blocks	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 26-13	4437-4438	.	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 
+Text=After a period of central fixation (1500 – 2500 msec), the central target was extinguished 200ms after peripheral target appearance at either 10° or 15° to the left or right from center.
 27-1	4439-4444	After	_
 27-2	4445-4446	a	_
 27-3	4447-4453	period	_
@@ -792,6 +819,7 @@
 27-35	4621-4627	center	_
 27-36	4628-4629	.	_
 
+Text=Subjects were instructed to not look to the peripheral target (antisaccade error) but instead immediately look to the mirror image location in the opposite hemi-field.
 28-1	4630-4638	Subjects	_
 28-2	4639-4643	were	_
 28-3	4644-4654	instructed	_
@@ -821,6 +849,7 @@
 28-27	4788-4798	hemi-field	_
 28-28	4799-4800	.	_
 
+Text=The percentage of trials with antisaccade errors was recorded indicating failed inhibitory control.
 29-1	4801-4804	The	_
 29-2	4805-4815	percentage	_
 29-3	4816-4818	of	_
@@ -836,6 +865,7 @@
 29-13	4892-4899	control	_
 29-14	4900-4901	.	_
 
+Text=The mean latency of correct antisaccades for each subject was also determined, which reflects time to inhibit an antisaccade error and implement of task-appropriate correct goal-directed voluntary behavior.
 30-1	4902-4905	The	_
 30-2	4906-4910	mean	_
 30-3	4911-4918	latency	_
@@ -867,6 +897,7 @@
 30-29	5100-5108	behavior	_
 30-30	5109-5110	.	_
 
+Text=Resting State fMRI Data Acquisition Brain scans were conducted using a GE Signa EXCITE 3.0 Tesla MR imaging system and an 8-channel phased array head coil.
 31-1	5111-5118	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 31-2	5119-5124	State	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 31-3	5125-5129	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -895,6 +926,7 @@
 31-26	5261-5265	coil	_
 31-27	5266-5267	.	_
 
+Text=Resting-state MR scanning was performed while subjects fixated a central crosshair for the duration of a 5-minute scan.
 32-1	5268-5281	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 32-2	5282-5284	MR	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 32-3	5285-5293	scanning	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -915,6 +947,7 @@
 32-18	5382-5386	scan	_
 32-19	5387-5388	.	_
 
+Text=Video monitoring of participants ’ eyes confirmed adherence to this instruction.
 33-1	5389-5394	Video	_
 33-2	5395-5405	monitoring	_
 33-3	5406-5408	of	_
@@ -928,6 +961,7 @@
 33-11	5457-5468	instruction	_
 33-12	5469-5470	.	_
 
+Text=Soft ear plugs were used to reduce scan noise, and head motion was minimized with head cushions.
 34-1	5471-5475	Soft	_
 34-2	5476-5479	ear	_
 34-3	5480-5485	plugs	_
@@ -948,6 +982,7 @@
 34-18	5559-5567	cushions	_
 34-19	5568-5569	.	_
 
+Text=During scanning, subjects were instructed to relax with eyes closed, without falling asleep and without directed, systematic thought.
 35-1	5570-5576	During	_
 35-2	5577-5585	scanning	_
 35-3	5586-5587	,	_
@@ -971,6 +1006,7 @@
 35-21	5698-5705	thought	_
 35-22	5706-5707	.	_
 
+Text=Echo-planar imaging (repetition time= 1775msec, echo time= 27msec, flip angle= 60°) was performed with slice thickness of 4 mm (1mm gap), a matrix size of 64×64 and a field of view of 220×220 mm², resulting in a voxel size for analysis of 3.44×3.44×5 mm.
 36-1	5708-5719	Echo-planar	_
 36-2	5720-5727	imaging	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 36-3	5728-5729	(	_
@@ -1025,6 +1061,7 @@
 36-52	5967-5969	mm	_
 36-53	5970-5971	.	_
 
+Text=Each brain volume was comprised of 29 axial slices, and each functional run contained 210 image volumes.
 37-1	5972-5976	Each	_
 37-2	5977-5982	brain	_
 37-3	5983-5989	volume	_
@@ -1045,6 +1082,7 @@
 37-18	6069-6076	volumes	_
 37-19	6077-6078	.	_
 
+Text=Resting State Data Analyses Amplitude of low frequency fluctuations (ALFF) Pre-processing steps were performed using the Data Processing Assistant for Resting-State fMRI (DPARSF) toolbox that runs on the REST software platform (http: //resting-fmri.sourceforge.net).
 38-1	6079-6086	Resting	_
 38-2	6087-6092	State	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 38-3	6093-6097	Data	_
@@ -1087,6 +1125,7 @@
 38-40	6350-6351	)	_
 38-41	6352-6353	.	_
 
+Text=The first five scans were discarded to establish magnetization stabilization.
 39-1	6354-6357	The	_
 39-2	6358-6363	first	_
 39-3	6364-6368	five	_
@@ -1099,6 +1138,7 @@
 39-10	6417-6430	stabilization	_
 39-11	6431-6432	.	_
 
+Text=For each subject, EPI images were slice-timing corrected, and realigned to the middle slice.
 40-1	6433-6436	For	_
 40-2	6437-6441	each	_
 40-3	6442-6449	subject	_
@@ -1117,6 +1157,7 @@
 40-16	6521-6526	slice	_
 40-17	6527-6528	.	_
 
+Text=The Friston 24-parameter model was used to regress out head motion effects from the realigned data, which has demonstrated benefits in removing head motion effects in recent reports.
 41-1	6529-6532	The	_
 41-2	6533-6540	Friston	_
 41-3	6541-6553	24-parameter	_
@@ -1148,6 +1189,7 @@
 41-29	6704-6711	reports	_
 41-30	6712-6713	.	_
 
+Text=Motion scrubbing was not applied to avoid the possibility of losing data leading to a biased estimate of further distant connectivity, specifically in visual and posterior parietal regions.
 42-1	6714-6720	Motion	_
 42-2	6721-6730	scrubbing	_
 42-3	6731-6734	was	_
@@ -1179,6 +1221,7 @@
 42-29	6896-6903	regions	_
 42-30	6904-6905	.	_
 
+Text=Next, functional images were spatially normalized to the Montreal Neurological Institute (MNI) EPI template in SPM8, resampled to 3×3×3mm³, and smoothed with an 6-mm full-width at half-maximum (FWHM) Gaussian kernel.
 43-1	6906-6910	Next	_
 43-2	6911-6912	,	_
 43-3	6913-6923	functional	_
@@ -1218,6 +1261,7 @@
 43-37	7122-7128	kernel	_
 43-38	7129-7130	.	_
 
+Text=Measurement of the amplitude of low-frequency fluctuations of the BOLD signal (ALFF), considered to be related to regional spontaneous neural activity, was used to identify differences between the patient group and controls in regional resting cerebral function.
 44-1	7131-7142	Measurement	_
 44-2	7143-7145	of	_
 44-3	7146-7149	the	_
@@ -1261,6 +1305,7 @@
 44-41	7388-7396	function	_
 44-42	7397-7398	.	_
 
+Text=After bandpass filtering (0.01–0.08 Hz), signals from white matter and cerebrospinal fluid were removed.
 45-1	7399-7404	After	_
 45-2	7405-7413	bandpass	_
 45-3	7414-7423	filtering	_
@@ -1280,6 +1325,7 @@
 45-17	7498-7505	removed	_
 45-18	7506-7507	.	_
 
+Text=Following linear detrending, the voxel-wise time series were transformed to the frequency domain using fast Fourier transformation to obtain the power spectrum.
 46-1	7508-7517	Following	_
 46-2	7518-7524	linear	_
 46-3	7525-7535	detrending	_
@@ -1305,6 +1351,7 @@
 46-23	7660-7668	spectrum	_
 46-24	7669-7670	.	_
 
+Text=The ALFF measure at each voxel represents the square root of the power across a low-frequency range.
 47-1	7671-7674	The	_
 47-2	7675-7679	ALFF	_
 47-3	7680-7687	measure	_
@@ -1324,6 +1371,7 @@
 47-17	7765-7770	range	_
 47-18	7771-7772	.	_
 
+Text=The ALFF value of each voxel was divided by the global mean ALFF value of each individual subject to standardize data for comparisons across subjects.
 48-1	7773-7776	The	_
 48-2	7777-7781	ALFF	_
 48-3	7782-7787	value	_
@@ -1351,6 +1399,7 @@
 48-25	7914-7922	subjects	_
 48-26	7923-7924	.	_
 
+Text=Functional connectivity analysis To investigate functional circuitry alterations, we first identified regional group differences of ALFF values.
 49-1	7925-7935	Functional	_
 49-2	7936-7948	connectivity	_
 49-3	7949-7957	analysis	_
@@ -1371,6 +1420,7 @@
 49-18	8063-8069	values	_
 49-19	8070-8071	.	_
 
+Text=These were used to create seed regions for functional connectivity analyses by creating a spherical region of interest centered on the voxel with peak group difference in ALFF data that had a radius of 3mm.
 50-1	8072-8077	These	_
 50-2	8078-8082	were	_
 50-3	8083-8087	used	_
@@ -1408,6 +1458,7 @@
 50-35	8274-8277	3mm	_
 50-36	8278-8279	.	_
 
+Text=Voxels in the region of interest sphere were averaged to create the seed for FC analysis between eye movement relevant regions with altered ALFF values and the remainder of the brain.
 51-1	8280-8286	Voxels	_
 51-2	8287-8289	in	_
 51-3	8290-8293	the	_
@@ -1441,6 +1492,7 @@
 51-31	8457-8462	brain	_
 51-32	8463-8464	.	_
 
+Text=The first step in the analysis was to extract a reference time series by obtaining the average of the time series of voxels within each sphere as described above.
 52-1	8465-8468	The	_
 52-2	8469-8474	first	_
 52-3	8475-8479	step	_
@@ -1472,6 +1524,7 @@
 52-29	8621-8626	above	_
 52-30	8627-8628	.	_
 
+Text=Correlations were then computed between the time series of the seed reference and all brain voxels outside the seed region.
 53-1	8629-8641	Correlations	_
 53-2	8642-8646	were	_
 53-3	8647-8651	then	_
@@ -1494,6 +1547,7 @@
 53-20	8745-8751	region	_
 53-21	8752-8753	.	_
 
+Text=Finally, these correlation coefficients were transformed by Fisher r-to-z transformation to increase their normality before averaging correlations across participants and testing for associations with antisaccade task performance.
 54-1	8754-8761	Finally	_
 54-2	8762-8763	,	_
 54-3	8764-8769	these	_
@@ -1524,6 +1578,7 @@
 54-28	8973-8984	performance	_
 54-29	8985-8986	.	_
 
+Text=Statistical analyses Voxel-based comparison of ALFF maps from patient and control groups was performed using pairwise t tests in SPM8 (http: //www.fil.ion.ecl.ac.uk/spm).
 55-1	8987-8998	Statistical	_
 55-2	8999-9007	analyses	_
 55-3	9008-9019	Voxel-based	_
@@ -1551,6 +1606,7 @@
 55-25	9158-9159	)	_
 55-26	9160-9161	.	_
 
+Text=Age, sex and race were used as covariates in group comparisons.
 56-1	9162-9165	Age	_
 56-2	9166-9167	,	_
 56-3	9168-9171	sex	_
@@ -1565,6 +1621,7 @@
 56-12	9214-9225	comparisons	_
 56-13	9226-9227	.	_
 
+Text=Connectivity was examined from the selected seed areas using pairwise t-tests comparing patients and controls.
 57-1	9228-9240	Connectivity	_
 57-2	9241-9244	was	_
 57-3	9245-9253	examined	_
@@ -1582,6 +1639,7 @@
 57-15	9329-9337	controls	_
 57-16	9338-9339	.	_
 
+Text=In all image analyses, a threshold of p=0.05 after AlphaSim correction was used to correct for multiple comparisons corresponding to a minimum cluster size of 80 contiguous voxels significant individually at a threshold of p <0.01.
 58-1	9340-9342	In	_
 58-2	9343-9346	all	_
 58-3	9347-9352	image	_
@@ -1622,6 +1680,7 @@
 58-38	9568-9572	0.01	_
 58-39	9573-9574	.	_
 
+Text=The AlphaSim calculation based on Monte Carlo simulations was conducted using REST software (http: //restfmri.net/forum/index.php).
 59-1	9575-9578	The	_
 59-2	9579-9587	AlphaSim	_
 59-3	9588-9599	calculation	_
@@ -1642,6 +1701,7 @@
 59-18	9707-9708	)	_
 59-19	9709-9710	.	_
 
+Text=To determine relations between alterations of mean ALFF and FC values with antisaccade performance measures, we used stepwise backward regression analysis that allows for consideration of several independent variables simultaneously.
 60-1	9711-9713	To	_
 60-2	9714-9723	determine	_
 60-3	9724-9733	relations	_
@@ -1675,6 +1735,7 @@
 60-31	9930-9944	simultaneously	_
 60-32	9945-9946	.	_
 
+Text=This procedure yielded a regression model using imaging parameters to predict antisaccade performance with a significance threshold for entry of 0.05 and that for removal of 0.10.
 61-1	9947-9951	This	_
 61-2	9952-9961	procedure	_
 61-3	9962-9969	yielded	_
@@ -1704,6 +1765,7 @@
 61-27	10121-10125	0.10	_
 61-28	10126-10127	.	_
 
+Text=Standardized z-scores for antisaccade error rate and latency, derived from a normative regression approach described previously, were entered as dependent variables while mean values of peak coordinate-defined spherical regions of altered ALFF and altered FC clusters in patients were used as independent variables in these analyses.
 62-1	10128-10140	Standardized	_
 62-2	10141-10149	z-scores	_
 62-3	10150-10153	for	_

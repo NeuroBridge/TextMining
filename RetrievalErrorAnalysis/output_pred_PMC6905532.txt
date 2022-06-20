@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Whole brain polarity regime dynamics are significantly disrupted in schizophrenia and correlate strongly with network connectivity measures From a large clinical blood oxygenation level dependent (BOLD) functional magnetic resonance imaging (fMRI) study, we report several interrelated findings involving transient supra-network brainwide states characterized by a saturation phenomenon we are referring to as “ polarization. ” These are whole-brain states in which the voxelwise-normalized BOLD (vn-BOLD) activation of a large proportion of voxels is simultaneously either very high or very low.
 1-1	0-5	Whole	_
 1-2	6-11	brain	_
 1-3	12-20	polarity	_
@@ -91,6 +92,7 @@
 1-87	599-602	low	_
 1-88	603-604	.	_
 
+Text=The presence of such states during a resting-state fMRI (rs-fMRI) scan is significantly anti-correlated with diagnosed schizophrenia, significantly anti-correlated with connectivity between subcortical networks and auditory, visual and sensorimotor networks and also significantly anti-correlated with contemporaneous occupancy of transient functional network connectivity states featuring broad disconnectivity or strong inhibitory connections between the default mode and other networks.
 2-1	605-608	The	_
 2-2	609-617	presence	_
 2-3	618-620	of	_
@@ -154,6 +156,7 @@
 2-61	1089-1097	networks	_
 2-62	1098-1099	.	_
 
+Text=Conversely, the presence of highly polarized vn-BOLD states is significantly correlated with connectivity strength between auditory, visual and sensorimotor networks and with contemporaneous occupancy of transient whole-brain patterns of strongly modularized network connectivity and diffuse hyperconnectivity.
 3-1	1100-1110	Conversely	_
 3-2	1111-1112	,	_
 3-3	1113-1116	the	_
@@ -194,6 +197,7 @@
 3-38	1394-1411	hyperconnectivity	_
 3-39	1412-1413	.	_
 
+Text=Despite their consistency with well-documented effects of schizophrenia on static and time-varying functional network connectivity, the observed relationships between polarization and network connectivity are with very few exceptions unmediated by schizophrenia diagnosis.
 4-1	1414-1421	Despite	_
 4-2	1422-1427	their	_
 4-3	1428-1439	consistency	_
@@ -229,6 +233,7 @@
 4-33	1677-1686	diagnosis	_
 4-34	1687-1688	.	_
 
+Text=Many differences observed between patients and controls are echoed within the patient population itself in the effect patterns of positive symptomology (e.g.
 5-1	1689-1693	Many	_
 5-2	1694-1705	differences	_
 5-3	1706-1714	observed	_
@@ -254,6 +259,7 @@
 5-23	1843-1846	e.g	_
 5-24	1847-1848	.	_
 
+Text=hallucinations, delusions, grandiosity).
 6-1	1849-1863	hallucinations	_
 6-2	1864-1865	,	_
 6-3	1866-1875	delusions	_
@@ -262,6 +268,7 @@
 6-6	1890-1891	)	_
 6-7	1892-1893	.	_
 
+Text=Our findings highlight a particular whole-brain spatiotemporal BOLD activation phenomenon that differs markedly between healthy subjects and schizophrenia patients, one that also strongly informs time-resolved network connectivity patterns that are associated with this serious clinical disorder.
 7-1	1894-1897	Our	_
 7-2	1898-1906	findings	_
 7-3	1907-1916	highlight	_
@@ -301,6 +308,7 @@
 7-37	2182-2190	disorder	_
 7-38	2191-2192	.	_
 
+Text=Materials and methods Participants, preprocessing, network identification and dynamic functional connectivity We summarize below some basic information about data collection, preprocessing, network identification and computation of dynamic functional connectivity.
 8-1	2193-2202	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 8-2	2203-2206	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 8-3	2207-2214	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -336,12 +344,14 @@
 8-33	2448-2460	connectivity	_
 8-34	2461-2462	.	_
 
+Text=Details are available in.
 9-1	2463-2470	Details	_
 9-2	2471-2474	are	_
 9-3	2475-2484	available	_
 9-4	2485-2487	in	_
 9-5	2488-2489	.	_
 
+Text=Resting state functional magnetic resonance imaging data was collected from 163 healthy controls (117 males, 46 females; mean age 36.9) and 151 age and gender matched patients with schizophrenia (114 males, 37 females; mean age 37.8) during eyes-closed conditions at 7 different sites across United States.
 10-1	2490-2497	Resting	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 10-2	2498-2503	state	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 10-3	2504-2514	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -398,6 +408,7 @@
 10-54	2797-2803	States	_
 10-55	2804-2805	.	_
 
+Text=Data for six of the seven sites was collected on a 3T Siemens Tim Trio System.
 11-1	2806-2810	Data	_
 11-2	2811-2814	for	_
 11-3	2815-2818	six	_
@@ -416,6 +427,7 @@
 11-16	2877-2883	System	_
 11-17	2884-2885	.	_
 
+Text=One site used a 3T General Electric Discovery MR750 scanner.
 12-1	2886-2889	One	_
 12-2	2890-2894	site	_
 12-3	2895-2899	used	_
@@ -428,6 +440,7 @@
 12-10	2938-2945	scanner	_
 12-11	2946-2947	.	_
 
+Text=All resting state fMRI scans were acquired using a standard gradient-echo echo planar imaging paradigm: FOV of 220 × 220 mm (64 × 64 matrix), TR = 2 s, TE = 30 ms, FA = 770, 162 volumes, 32 sequential ascending axial slices of 4 mm thickness and 1 mm skip.
 13-1	2948-2951	All	_
 13-2	2952-2959	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 13-3	2960-2965	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -489,6 +502,7 @@
 13-59	3207-3211	skip	_
 13-60	3212-3213	.	_
 
+Text=Data processing was performed using a combination of toolboxes (AFNI1, SPM2, GIFT3) and custom code written in Matlab.
 14-1	3214-3218	Data	_
 14-2	3219-3229	processing	_
 14-3	3230-3233	was	_
@@ -513,6 +527,7 @@
 14-22	3329-3335	Matlab	_
 14-23	3336-3337	.	_
 
+Text=We performed rigid body motion correction using the INRIAlign toolbox in SPM to correct for subject head motion followed by slice-timing correction to account for timing differences in slice acquisition.
 15-1	3338-3340	We	_
 15-2	3341-3350	performed	_
 15-3	3351-3356	rigid	_
@@ -545,6 +560,7 @@
 15-30	3529-3540	acquisition	_
 15-31	3541-3542	.	_
 
+Text=To mitigate the impact of outliers, the data was despiked using AFNI's 3dDespike algorithm.
 16-1	3543-3545	To	_
 16-2	3546-3554	mitigate	_
 16-3	3555-3558	the	_
@@ -563,6 +579,7 @@
 16-16	3626-3635	algorithm	_
 16-17	3636-3637	.	_
 
+Text=Individual subject scans were then warped to a Montreal Neurological Institute (MNI) template and resampled to 3 mm3 isotropic voxels.
 17-1	3638-3648	Individual	_
 17-2	3649-3656	subject	_
 17-3	3657-3662	scans	_
@@ -587,6 +604,7 @@
 17-22	3767-3773	voxels	_
 17-23	3774-3775	.	_
 
+Text=Instead of gaussian smoothing, we smoothed the data to 6 mm full width at half maximum (FWHM) using AFNI's BlurToFWHM algorithm which performs smoothing by a conservative finite difference approximation to the diffusion equation, an approach that has been shown to reduce scanner specific variability in smoothness providing “ smoothness equivalence ” to data across sites.
 18-1	3776-3783	Instead	_
 18-2	3784-3786	of	_
 18-3	3787-3795	gaussian	_
@@ -650,6 +668,7 @@
 18-61	4148-4153	sites	_
 18-62	4154-4155	.	_
 
+Text=Each voxel time course was variance normalized prior to performing group independent component analysis as this has shown to better decompose subcortical sources in addition to cortical networks.
 19-1	4156-4160	Each	_
 19-2	4161-4166	voxel	_
 19-3	4167-4171	time	_
@@ -680,6 +699,7 @@
 19-28	4342-4350	networks	_
 19-29	4351-4352	.	_
 
+Text=Following the early stage processing, the data from all subjects was decomposed using group independent component analysis (GICA) into 100 network spatial maps (http: //icatb.sourceforge.net) of which 47 were identified as functionally meaningful resting state networks (RSNs).
 20-1	4353-4362	Following	_
 20-2	4363-4366	the	_
 20-3	4367-4372	early	_
@@ -727,6 +747,7 @@
 20-45	4636-4637	)	_
 20-46	4638-4639	.	_
 
+Text=Subject specific spatial maps (SMs) and timecourses (TCs) were obtained from the group level spatial maps via spatiotemporal regression.
 21-1	4640-4647	Subject	_
 21-2	4648-4656	specific	_
 21-3	4657-4664	spatial	_
@@ -752,6 +773,7 @@
 21-23	4769-4779	regression	_
 21-24	4780-4781	.	_
 
+Text=The timecourses were detrended, orthogonalized with respect to estimated subject motion parameters, then despiked and band-pass filtered into [0.05,0.15] Hz using a 5th order Butterworth filter.
 22-1	4782-4785	The	_
 22-2	4786-4797	timecourses	_
 22-3	4798-4802	were	_
@@ -784,6 +806,7 @@
 22-30	4973-4979	filter	_
 22-31	4980-4981	.	_
 
+Text=Dynamic functional connectivity (dFNC) between RSN timecourses was estimated using a sliding window approach.
 23-1	4982-4989	Dynamic	_
 23-2	4990-5000	functional	_
 23-3	5001-5013	connectivity	_
@@ -802,6 +825,7 @@
 23-16	5084-5092	approach	_
 23-17	5093-5094	.	_
 
+Text=Following protocols from recent studies on dynamic connectivity, we used a tapered rectangular window length of 22 TRs (44 seconds), shifted 1TR forward at a time and computed pairwise correlations between RSN time courses within these windows.
 24-1	5095-5104	Following	_
 24-2	5105-5114	protocols	_
 24-3	5115-5119	from	_
@@ -845,6 +869,7 @@
 24-41	5335-5342	windows	_
 24-42	5343-5344	.	_
 
+Text=Static, or traditional functional network connectivity (FNC) simply uses a single untapered window of length 162TR, the length of the scan.
 25-1	5345-5351	Static	_
 25-2	5352-5353	,	_
 25-3	5354-5356	or	_
@@ -872,6 +897,7 @@
 25-25	5483-5487	scan	_
 25-26	5488-5489	.	_
 
+Text=The 47 functionally meaningful networks retained from the 100 component GICA all into 5 broad functional domains: subcortical (SC, 5 networks), auditory (AUD, 2 networks); visual (VIS, 11 networks), sensorimotor (SM, 6 networks), cognitive control (CC, 13 networks), default mode network (DMN, 7 networks), cerebellar (CB, 2 networks).
 26-1	5490-5493	The	_
 26-2	5494-5496	47	_
 26-3	5497-5509	functionally	_
@@ -950,6 +976,7 @@
 26-76	5851-5852	)	_
 26-77	5853-5854	.	_
 
+Text=Pre-processing of 4D volumes for the polarity analysis was identical to that for dFNC, except for the inclusion of a voxelwise detrending step and the omission of the spatial smoothing step that typically precedes GICA.
 27-1	5855-5869	Pre-processing	_
 27-2	5870-5872	of	_
 27-3	5873-5875	4D	_
@@ -988,6 +1015,7 @@
 27-36	6070-6074	GICA	_
 27-37	6075-6076	.	_
 
+Text=This choice was made to control for cases in which a relatively small number of evenly distributed extremely high (or low) intensity voxels distort polarity measurements for the regions they are distributed within.
 28-1	6077-6081	This	_
 28-2	6082-6088	choice	_
 28-3	6089-6092	was	_
@@ -1025,6 +1053,7 @@
 28-35	6286-6292	within	_
 28-36	6293-6294	.	_
 
+Text=Dynamic polarity states, polarity metric and polarity participation maps We construct several measures intended to capture spatial patterns in the brain formed by the set of voxels that are either simultaneously very highly activated or simultaneously minimally activated.
 29-1	6295-6302	Dynamic	_
 29-2	6303-6311	polarity	_
 29-3	6312-6318	states	_
@@ -1066,6 +1095,7 @@
 29-39	6558-6567	activated	_
 29-40	6568-6569	.	_
 
+Text=These co-polarized voxels do not exclude voxel collections that share correlative relationships, but they are far more general.
 30-1	6570-6575	These	_
 30-2	6576-6588	co-polarized	_
 30-3	6589-6595	voxels	_
@@ -1087,6 +1117,7 @@
 30-19	6690-6697	general	_
 30-20	6698-6699	.	_
 
+Text=Included in the set of voxels, for example, that are highly activated during a given TR there would usually be a subset that rose together from an earlier TR, a subset that dropped together from an even higher previous level of activation and a subset that are roughly unchanged from the previous TR.
 31-1	6700-6708	Included	_
 31-2	6709-6711	in	_
 31-3	6712-6715	the	_
@@ -1145,6 +1176,7 @@
 31-56	7000-7002	TR	_
 31-57	7003-7004	.	_
 
+Text=Which is to say that within the set of highly activated voxels at a given TR can be, in a temporally localized sense, subsets consisting of correlated voxels, anti-correlated voxels and uncorrelated voxels.
 32-1	7005-7010	Which	_
 32-2	7011-7013	is	_
 32-3	7014-7016	to	_
@@ -1183,6 +1215,7 @@
 32-36	7207-7213	voxels	_
 32-37	7214-7215	.	_
 
+Text=Voxel activation profiles and polarity coding The timeseries of each gray matter voxel is individually z-scored to create a normalized (intrinsic) activation profile.
 33-1	7216-7221	Voxel	_
 33-2	7222-7232	activation	_
 33-3	7233-7241	profiles	_
@@ -1210,6 +1243,7 @@
 33-25	7376-7383	profile	_
 33-26	7384-7385	.	_
 
+Text=Values in each z-scored timeseries are then discretized into discrete intrinsic activation level (IALs), i.e.
 34-1	7386-7392	Values	_
 34-2	7393-7395	in	_
 34-3	7396-7400	each	_
@@ -1230,6 +1264,7 @@
 34-18	7494-7497	i.e	_
 34-19	7498-7499	.	_
 
+Text=they are recoded as −1s, 0s or +1s according to whether they are in the lower third (z <−0.43, ‘ Low Polar ’), middle third (z∈ (−0.43,0.43), ‘ Neutral ’) or upper third (z> 0.43, ‘ High Polar ’) of the voxel ’ s intrinsic activation profile (see Fig 2).
 35-1	7500-7504	they	_
 35-2	7505-7508	are	_
 35-3	7509-7516	recoded	_
@@ -1299,6 +1334,7 @@
 35-67	7769-7770	)	_
 35-68	7771-7772	.	_
 
+Text=The resulting discretized timeseries in for each voxel will be referred to as the its discretized intrinsic activation level timeseries, IALv (t).
 36-1	7773-7776	The	_
 36-2	7777-7786	resulting	_
 36-3	7787-7798	discretized	_
@@ -1326,6 +1362,7 @@
 36-25	7920-7921	)	_
 36-26	7922-7923	.	_
 
+Text=Dynamic polarity regimes (dPRs) Every individual voxel intrinsic activation level timeseries assumes, by design, each of the values −1, 0 and 1 exactly 1/3 of the time.
 37-1	7924-7931	Dynamic	_
 37-2	7932-7940	polarity	_
 37-3	7941-7948	regimes	_
@@ -1360,6 +1397,7 @@
 37-32	8092-8096	time	_
 37-33	8097-8098	.	_
 
+Text=This however provides no information about the proportion of voxels simultaneously at the same IAL at any given TR.
 38-1	8099-8103	This	_
 38-2	8104-8111	however	_
 38-3	8112-8120	provides	_
@@ -1381,6 +1419,7 @@
 38-19	8211-8213	TR	_
 38-20	8214-8215	.	_
 
+Text=Switching from the individual voxel standpoint to the whole brain standpoint, we characterize each TR by a length-3 vector, h (t), l (t), n (t) ∈ [0,1], h (t) +l (t) +n (t) = 1 of proportions where are the proportion of voxels at each intrinsic activation level at TR = t. If we do not keep track of the entire history of each voxel, the number of voxels in any of the three intrinsic activation levels observed at a given TR would follow a binomial distribution with p = 1/3,.
 39-1	8216-8225	Switching	_
 39-2	8226-8230	from	_
 39-3	8231-8234	the	_
@@ -1495,6 +1534,7 @@
 39-112	8712-8713	,	_
 39-113	8714-8715	.	_
 
+Text=The expected number for any of the levels would be and the expected proportion in each level would simply be.
 40-1	8716-8719	The	_
 40-2	8720-8728	expected	_
 40-3	8729-8735	number	_
@@ -1517,6 +1557,7 @@
 40-20	8822-8824	be	_
 40-21	8825-8826	.	_
 
+Text=Empirically we see μ (h) = 0.333, μ (l) = 0.335, μ (n) = 0.332.
 41-1	8827-8838	Empirically	_
 41-2	8839-8841	we	_
 41-3	8842-8845	see	_
@@ -1542,6 +1583,7 @@
 41-23	8892-8897	0.332	_
 41-24	8898-8899	.	_
 
+Text=Applying k-means clustering (Matlab ’ s built-in k-means function with 3 clusters, 3000 iterates, 300 replicates, Euclidean distance, number of clusters selected by the elbow criterion) to all 50240 of these 3-vectors (one for each of 314 subjects at 160 TRs) suggest the brain dynamically organizes into three very stylized polarity regimes (dPRs) (see Fig 3): a High-Polarized regime whose cluster centroid (0.46,0.24,0.30) presents h≫1/3, l≪1/3 and n~1/3; a Low-Polarized regime whose cluster centroid (0.23,0.46,0.31) presents h≪1/3, l≫1/3 and n~1/3; and a Non-Polarized or Equidistributed Regime whose cluster centroid (0.33,0.33,0.34) presents h~1/3, l~1/3 and n~1/3 (see Fig 4).
 42-1	8900-8908	Applying	_
 42-2	8909-8916	k-means	_
 42-3	8917-8927	clustering	_
@@ -1668,6 +1710,7 @@
 42-124	9609-9610	)	_
 42-125	9611-9612	.	_
 
+Text=Polarity metric We also define a real-valued polarity metric.
 43-1	9613-9621	Polarity	_
 43-2	9622-9628	metric	_
 43-3	9629-9631	We	_
@@ -1679,6 +1722,7 @@
 43-9	9667-9673	metric	_
 43-10	9674-9675	.	_
 
+Text=Since and the polarized states are characterized by having both h> 1/3 and l <1/3, a given subject ’ s degree of polarization at TR = t can be summarized with Π (t) = − (h_z (t) l_z (t)), where hz and lz are z-scored versions of the timeseries h (t) and l (t) respectively, recentered to have mean 0.
 44-1	9676-9681	Since	_
 44-2	9682-9685	and	_
 44-3	9686-9689	the	_
@@ -1758,6 +1802,7 @@
 44-77	9991-9992	0	_
 44-78	9993-9994	.	_
 
+Text=Large positive values of hz (resp.
 45-1	9995-10000	Large	_
 45-2	10001-10009	positive	_
 45-3	10010-10016	values	_
@@ -1767,6 +1812,7 @@
 45-7	10025-10029	resp	_
 45-8	10030-10031	.	_
 
+Text=lz) represent values of h (t) (resp.
 46-1	10032-10034	lz	_
 46-2	10035-10036	)	_
 46-3	10037-10046	represent	_
@@ -1780,6 +1826,7 @@
 46-11	10067-10071	resp	_
 46-12	10072-10073	.	_
 
+Text=l (t)) that are much larger than 1/3, while high magnitude negative values of hz (resp.
 47-1	10074-10075	l	_
 47-2	10076-10077	(	_
 47-3	10078-10079	t	_
@@ -1803,6 +1850,7 @@
 47-21	10161-10165	resp	_
 47-22	10166-10167	.	_
 
+Text=lz) represent values of h (t) (resp.
 48-1	10168-10170	lz	_
 48-2	10171-10172	)	_
 48-3	10173-10182	represent	_
@@ -1816,6 +1864,7 @@
 48-11	10203-10207	resp	_
 48-12	10208-10209	.	_
 
+Text=l (t)) that are much smaller than 1/3.
 49-1	10210-10211	l	_
 49-2	10212-10213	(	_
 49-3	10214-10215	t	_
@@ -1829,6 +1878,7 @@
 49-11	10247-10250	1/3	_
 49-12	10251-10252	.	_
 
+Text=The most polarized timepoints are those in which one of hz or lz is large and positive, while the other is large and negative.
 50-1	10253-10256	The	_
 50-2	10257-10261	most	_
 50-3	10262-10271	polarized	_
@@ -1856,6 +1906,7 @@
 50-25	10371-10379	negative	_
 50-26	10380-10381	.	_
 
+Text=So Π (t) is rising with the degree of polarization at TR = t, is near zero when the brain is balanced between h (t), l (t) and n (t) and grows more negative when both h (t) and l (t) are simultaneously much larger or much smaller than 1/3 (brain is not polarized but also not well balanced between h (t), l (t) and n (t)) (see Fig 5).
 51-1	10382-10384	So	_
 51-2	10385-10386	Π	_
 51-3	10387-10388	(	_
@@ -1953,6 +2004,7 @@
 51-95	10739-10740	)	_
 51-96	10741-10742	.	_
 
+Text=Polarity participation maps (PPMs) The dPRs are crude summaries and capture nothing about the locations or identities of voxels that contribute to the computed proportion of voxels in each of the three levels at a given TR, and thus nothing about the overall role of specific voxels in producing the a subject ’ s polarized regimes.
 52-1	10743-10751	Polarity	_
 52-2	10752-10765	participation	_
 52-3	10766-10770	maps	_
@@ -2014,6 +2066,7 @@
 52-59	11070-11077	regimes	_
 52-60	11078-11079	.	_
 
+Text=To capture this information we create a polarity participation map (PPM) for each subject in which each voxel is assigned a value in [0,1] according to the proportion of polarized dPR states it contributes to, i.e.
 53-1	11080-11082	To	_
 53-2	11083-11090	capture	_
 53-3	11091-11095	this	_
@@ -2057,6 +2110,7 @@
 53-41	11295-11298	i.e	_
 53-42	11299-11300	.	_
 
+Text=the sum of the proportion of that subject ’ s Polarized-High states during which that voxel ’ s IALv (t) = 1 and the proportion of their Polarized-Low states during which the voxel ’ s IALv = −1 (see Fig 4).
 54-1	11301-11304	the	_
 54-2	11305-11308	sum	_
 54-3	11309-11311	of	_
@@ -2104,6 +2158,7 @@
 54-45	11510-11511	)	_
 54-46	11512-11513	.	_
 
+Text=Applying k-means clustering (Matlab ’ s built-in k-means function with 2 clusters, 3000 iterates, 300 replicates, Euclidean distance, number of clusters selected by the elbow criterion) to all 314 of these 60303-vectors (one for each of 314 subjects) yields clusters whose centroids evidently represent different spatial distributions of highly participating voxel (Fig 6, bottom left).
 55-1	11514-11522	Applying	_
 55-2	11523-11530	k-means	_
 55-3	11531-11541	clustering	_
@@ -2172,6 +2227,7 @@
 55-66	11909-11910	)	_
 55-67	11911-11912	.	_
 
+Text=Network-level polarity participation To assess the role that different functional networks play in whole-brain polarized states, we threshhold and binarize the 47 group-level network spatial maps and then average the value of each subject ’ s z-scored polarity participation map restricted to the threshold-surviving voxels in each network spatial map (see Fig 7, bottom row).
 56-1	11913-11926	Network-level	_
 56-2	11927-11935	polarity	_
 56-3	11936-11949	participation	_
@@ -2233,6 +2289,7 @@
 56-59	12291-12292	)	_
 56-60	12293-12294	.	_
 
+Text=Specifically, each group spatial map is z-scored (since scale in GICA spatial maps is arbitrary) and thresholded at z≥1.25 to retain the only the top decile of voxels.
 57-1	12295-12307	Specifically	_
 57-2	12308-12309	,	_
 57-3	12310-12314	each	_
@@ -2266,6 +2323,7 @@
 57-31	12458-12464	voxels	_
 57-32	12465-12466	.	_
 
+Text=The polarity participation rates are also z-scored and averaged, for each subject, over each network ’ s threshold-surviving voxels.
 58-1	12467-12470	The	_
 58-2	12471-12479	polarity	_
 58-3	12480-12493	participation	_
@@ -2289,6 +2347,7 @@
 58-21	12594-12600	voxels	_
 58-22	12601-12602	.	_
 
+Text=The measured network participation for a given subject and a given network can thus be negative, indicating that the average voxel in that network participates in the subject ’ s whole-brain polarized states at a sub-mean level.
 59-1	12603-12606	The	_
 59-2	12607-12615	measured	_
 59-3	12616-12623	network	_
@@ -2329,6 +2388,7 @@
 59-38	12826-12831	level	_
 59-39	12832-12833	.	_
 
+Text=Dynamic brainwide co-polarization patterns (CoPPs) The low-dimensional dPRs give a rough sense of how overall counts of co-polarized voxels vary through time and PPMs provide a time-averaged picture of which regions of the brain are most commonly implicated in whole-brain polarized states.
 60-1	12834-12841	Dynamic	_
 60-2	12842-12851	brainwide	_
 60-3	12852-12867	co-polarization	_
@@ -2375,6 +2435,7 @@
 60-44	13119-13125	states	_
 60-45	13126-13127	.	_
 
+Text=Neither approach, however, provides insight into how highly polarized whole-brain states evolve and dissolve, nor what role they may play in longer whole-brain itineraries that involve more structured or intricate spatial patterns of polarity-coded voxels.
 61-1	13128-13135	Neither	_
 61-2	13136-13144	approach	_
 61-3	13145-13146	,	_
@@ -2415,6 +2476,7 @@
 61-38	13380-13386	voxels	_
 61-39	13387-13388	.	_
 
+Text=Toward this end we extract transient whole-brain patterns of co-polarization in a voxel-intrisic analogy to whole-brain co-activation patterns (CAPs) employed in several published studies.
 62-1	13389-13395	Toward	_
 62-2	13396-13400	this	_
 62-3	13401-13404	end	_
@@ -2443,6 +2505,7 @@
 62-26	13571-13578	studies	_
 62-27	13579-13580	.	_
 
+Text=Replacing each continuous voxel timeseries v (t) with its discretized intrinsic activation level timeseries IALv (t) yields a representation of the entire brain in at each TR.
 63-1	13581-13590	Replacing	_
 63-2	13591-13595	each	_
 63-3	13596-13606	continuous	_
@@ -2476,6 +2539,7 @@
 63-31	13757-13759	TR	_
 63-32	13760-13761	.	_
 
+Text=Applying k-means clustering (Matlab built-in k-means function with 13 clusters, 3000 iterates, 100 replicates, Euclidean distance, number of clusters selected by the elbow criterion) to all 50240 of these = 6030-dimensional observations (one for each of 314 subjects at 160 TRs) spatially elaborates the crude numerical counts/proportions captured by the 3-dimensional dynamic dPRs.
 64-1	13762-13770	Applying	_
 64-2	13771-13778	k-means	_
 64-3	13779-13789	clustering	_
@@ -2539,6 +2603,7 @@
 64-61	14147-14151	dPRs	_
 64-62	14152-14153	.	_
 
+Text=The brainwide co-polarization patterns (CoPPs) that emerge as centroids of these clusters indicate that the cruder dPRs are capturing spatially structured voxel-level arrangements whose population-level occupancy rates are relatively uniform (, top left).
 65-1	14154-14157	The	_
 65-2	14158-14167	brainwide	_
 65-3	14168-14183	co-polarization	_
@@ -2578,6 +2643,7 @@
 65-37	14411-14412	)	_
 65-38	14413-14414	.	_
 
+Text=Among the CoPPs associated with TRs that are assigned to one of the polarized dPR states are some that are pervasively polarized, i.e., the proportion of voxels simultaneously at either High or Low levels is much higher than the ~45% or so in the associated dPR cluster centroid (see Fig 8, bottom left).
 66-1	14415-14420	Among	_
 66-2	14421-14424	the	_
 66-3	14425-14430	CoPPs	_
@@ -2639,6 +2705,7 @@
 66-59	14723-14724	)	_
 66-60	14725-14726	.	_
 
+Text=Identification of the most ‘ strongly polarized ’ CoPPs Although the samples being clustered are 60303-dimensional vectors of −1 ’ s 0 ’ s and +1 ’ s, the elements of the cluster centroids are averages in the continuous interval [−1,1].
 67-1	14727-14741	Identification	_
 67-2	14742-14744	of	_
 67-3	14745-14748	the	_
@@ -2685,6 +2752,7 @@
 67-44	14964-14965	]	_
 67-45	14966-14967	.	_
 
+Text=Due to the high dimensionality of the samples (i.e., membership in a given cluster can arise predominantly from good matching of some arbitrary collection of tens of thousands of voxels to other cluster members, while still leaving thousands of degrees of freedom), the determination of what it means for one of these centroids to represent a “ pervasively polarized ” brain state is necessarily somewhat subjective.
 68-1	14968-14971	Due	_
 68-2	14972-14974	to	_
 68-3	14975-14978	the	_
@@ -2758,6 +2826,7 @@
 68-71	15378-15388	subjective	_
 68-72	15389-15390	.	_
 
+Text=We have decided on a criterion based loosely on the asymptotic distributions of sample means for a set of identically distributed uniform discrete random variables under a convenient (but not entirely valid assumption) of independence.
 69-1	15391-15393	We	_
 69-2	15394-15398	have	_
 69-3	15399-15406	decided	_
@@ -2797,6 +2866,7 @@
 69-37	15615-15627	independence	_
 69-38	15628-15629	.	_
 
+Text=The sample is quite large so the asymptotic framing is not entirely unreasonable.
 70-1	15630-15633	The	_
 70-2	15634-15640	sample	_
 70-3	15641-15643	is	_
@@ -2812,6 +2882,7 @@
 70-13	15698-15710	unreasonable	_
 70-14	15711-15712	.	_
 
+Text=We will say that a CoPP represents a strongly polarized state if the probability that the magnitude of the absolute mean |μCoPP| of its elements would have probability less than α = 0.001 under a very conservative adaptation of above-stated model.
 71-1	15713-15715	We	_
 71-2	15716-15720	will	_
 71-3	15721-15724	say	_
@@ -2855,6 +2926,7 @@
 71-41	15954-15959	model	_
 71-42	15960-15961	.	_
 
+Text=The sign of μCoPP in such a case determines if that CoPP is positively or negatively polarized.
 72-1	15962-15965	The	_
 72-2	15966-15970	sign	_
 72-3	15971-15973	of	_
@@ -2874,6 +2946,7 @@
 72-17	16047-16056	polarized	_
 72-18	16057-16058	.	_
 
+Text=Since voxels assume values +1,0 ans -1 with equal probability, i.e.
 73-1	16059-16064	Since	_
 73-2	16065-16071	voxels	_
 73-3	16072-16078	assume	_
@@ -2888,6 +2961,7 @@
 73-12	16123-16126	i.e	_
 73-13	16127-16128	.	_
 
+Text=, we assume by the central limit theorem that the within-cluster voxel means are distributed as where ci is the number of observations in the cluster, and thus the global mean μi of the whole set of v = 60303 random variables is distributed as.
 74-1	16129-16130	,	_
 74-2	16131-16133	we	_
 74-3	16134-16140	assume	_
@@ -2936,6 +3010,7 @@
 74-46	16371-16373	as	_
 74-47	16374-16375	.	_
 
+Text=The rescaling factor vci> 107 for all i, which makes the standard deviation so close to 0 that absolute values as small as 10−5 are in the extreme α = 0.001 tails of the distribution.
 75-1	16376-16379	The	_
 75-2	16380-16389	rescaling	_
 75-3	16390-16396	factor	_
@@ -2975,6 +3050,7 @@
 75-37	16548-16560	distribution	_
 75-38	16561-16562	.	_
 
+Text=To account for the high level of spatiotemporal dependence and produce a distribution whose far tails do not include values with magnitude smaller than 10−5, we first reduce ci by treating all timepoints from a given subject as dependent, so that cluster i is treated as containing ni = 314ri samples, where ri is the population-averaged occupancy rate of cluster i.
 76-1	16563-16565	To	_
 76-2	16566-16573	account	_
 76-3	16574-16577	for	_
@@ -3041,6 +3117,7 @@
 76-64	16930-16931	i	_
 76-65	16932-16933	.	_
 
+Text=We further assume, based on the group spatial ICA (GICA) performed on this data that there are 47 independent units of space (the set of “ good ” spatially independent networks identified by the GICA).
 77-1	16934-16936	We	_
 77-2	16937-16944	further	_
 77-3	16945-16951	assume	_
@@ -3083,6 +3160,7 @@
 77-40	17138-17139	)	_
 77-41	17140-17141	.	_
 
+Text=The test distribution for μi thus becomes, a distribution with much more conservative tails than.
 78-1	17142-17145	The	_
 78-2	17146-17150	test	_
 78-3	17151-17163	distribution	_
@@ -3101,6 +3179,7 @@
 78-16	17235-17239	than	_
 78-17	17240-17241	.	_
 
+Text=Using the α = 0.001 tails of this distribution as a threshold we identify 3 positively (see Fig 9) and 3 negatively polarized CoPPs.
 79-1	17242-17247	Using	_
 79-2	17248-17251	the	_
 79-3	17252-17253	α	_
@@ -3129,6 +3208,7 @@
 79-26	17370-17375	CoPPs	_
 79-27	17376-17377	.	_
 
+Text=Longer itineraries in polarity space We take two approaches to investigating forward-time CoPP itineraries: Itineraries from group-averaged transition probabilities We find the forward-time group-level most-probable itinerary from a source CoPP Ci through a set of subsequent distinct CoPPs Cj, Ck, Cl, … where i≠j≠k≠l≠⋯ by using transition probabilities computed at the group level: from Ci the most probable forward-time transition out of Ci at the group-averaged level is to Cj, and from Cj the most probable transition is to Ck etc.
 80-1	17378-17384	Longer	_
 80-2	17385-17396	itineraries	_
 80-3	17397-17399	in	_
@@ -3218,6 +3298,7 @@
 80-87	17916-17919	etc	_
 80-88	17920-17921	.	_
 
+Text=This process which can be extended until one of the elements of the path repeats, at which point the remainder of the forward-time itinerary is determined by the segment that contains the initial instance and the successor instance of the repeated element.
 81-1	17922-17926	This	_
 81-2	17927-17934	process	_
 81-3	17935-17940	which	_
@@ -3263,6 +3344,7 @@
 81-43	18171-18178	element	_
 81-44	18179-18180	.	_
 
+Text=Note that these are itineraries with respect to CoPP transitions from one state to a new distinct state, not accounting for the probability of remaining in the presently occupied CoPP.
 82-1	18181-18185	Note	_
 82-2	18186-18190	that	_
 82-3	18191-18196	these	_
@@ -3296,6 +3378,7 @@
 82-31	18361-18365	CoPP	_
 82-32	18366-18367	.	_
 
+Text=For purposes of interpretation it is important to keep in mind both that the reported itineraries are computed from group-level average transition probabilities and that they are expressed in terms of successive distinct states rather than successive timepoints.
 83-1	18368-18371	For	_
 83-2	18372-18380	purposes	_
 83-3	18381-18383	of	_
@@ -3336,6 +3419,7 @@
 83-38	18619-18629	timepoints	_
 83-39	18630-18631	.	_
 
+Text=We are employing this approach to better understand how healthy and patient populations move through the polarity space (parameterized in terms of CoPPs) and specifically to probe the role the most pervasively polarized states may be playing in overall brain function.
 84-1	18632-18634	We	_
 84-2	18635-18638	are	_
 84-3	18639-18648	employing	_
@@ -3381,6 +3465,7 @@
 84-43	18893-18901	function	_
 84-44	18902-18903	.	_
 
+Text=Sparse convolutional coding of CoPP occupancy timeseries Another way to study longer sequences of CoPP occupancies is to perform multichannel 1-dimensional convolutional sparse coding (CSC) of the symbolic timeseries of CoPP occupancies.
 85-1	18904-18910	Sparse	_
 85-2	18911-18924	convolutional	_
 85-3	18925-18931	coding	_
@@ -3417,6 +3502,7 @@
 85-34	19131-19142	occupancies	_
 85-35	19143-19144	.	_
 
+Text=These are symbolic timeseries because although we are indexing the CoPPs with a set of nonnegative integers, the actual index values have no numerical meaning: they can be permuted, replaced with large negative numbers, replaced with letters or words or any other way of identifying a given CoPP with some tag or label.
 86-1	19145-19150	These	_
 86-2	19151-19154	are	_
 86-3	19155-19163	symbolic	_
@@ -3476,6 +3562,7 @@
 86-57	19462-19467	label	_
 86-58	19468-19469	.	_
 
+Text=This is a slightly unconventional type of timeseries to approach with convolutional feature extraction techniques, however it can be handles by treating the 1D symbolic timeseries in a N-letter alphabet as an N-channel binary 1D timeseries, which is effectively a multivariate timeseries in which exactly one of the channels (or univariate consitutent timeseries) takes value 1 at every timestep, while all others are 0 at that timestep.
 87-1	19470-19474	This	_
 87-2	19475-19477	is	_
 87-3	19478-19479	a	_
@@ -3550,6 +3637,7 @@
 87-72	19903-19911	timestep	_
 87-73	19912-19913	.	_
 
+Text=This encodes the occupancies in channel form and allows the use of convolutional sparse coding algorithms, such as those developed for the the publicly available Python-based sparse coding package Sporco.
 88-1	19914-19918	This	_
 88-2	19919-19926	encodes	_
 88-3	19927-19930	the	_
@@ -3583,6 +3671,7 @@
 88-31	20112-20118	Sporco	_
 88-32	20119-20120	.	_
 
+Text=Based on initial exploratory work, resource/efficiency considerations and concern with ease of interpretation we used Sporco ’ s convolutional basis pursuit denoising (CBPDN) dictionary learning algorithm to represent the CoPP symbolic timeseries data with a dictionary of 64 mutichannel (in this case 13 channels, one for each CoPP) elements of temporal duration 7TRs.
 89-1	20121-20126	Based	_
 89-2	20127-20129	on	_
 89-3	20130-20137	initial	_
@@ -3644,6 +3733,7 @@
 89-59	20491-20495	7TRs	_
 89-60	20496-20497	.	_
 
+Text=The elements represent replicable translation-invariant features of the mutichannel timeseries data that combine additively at each timepoint to reproduce the local properties of the signal.
 90-1	20498-20501	The	_
 90-2	20502-20510	elements	_
 90-3	20511-20520	represent	_
@@ -3671,6 +3761,7 @@
 90-25	20681-20687	signal	_
 90-26	20688-20689	.	_
 
+Text=The elements of the dictionary are also, as an entire set, optimized so that only a small number of the elements are making the largest proportion of nonzero contributions to signal reconstruction, e.g.
 91-1	20690-20693	The	_
 91-2	20694-20702	elements	_
 91-3	20703-20705	of	_
@@ -3709,6 +3800,7 @@
 91-36	20891-20894	e.g	_
 91-37	20895-20896	.	_
 
+Text=they are translation-invariant features, built from a nonlinear feature extraction algorithm, that ultimately reproduce the data additively with the largest rate of nontrivial contribution coming from a subset of the features.
 92-1	20897-20901	they	_
 92-2	20902-20905	are	_
 92-3	20906-20927	translation-invariant	_
@@ -3744,6 +3836,7 @@
 92-33	21116-21124	features	_
 92-34	21125-21126	.	_
 
+Text=Statistical analyses All reported schizoprenia or symptom effects from regression analyses were obtained from mutiple regressions in which age gender and mean frame displacement (motion) were included as nuisance variables, i.e.
 93-1	21127-21138	Statistical	_
 93-2	21139-21147	analyses	_
 93-3	21148-21151	All	_
@@ -3780,6 +3873,7 @@
 93-34	21354-21357	i.e	_
 93-35	21358-21359	.	_
 
+Text=the reported effects are already corrected for age, gender and motion.
 94-1	21360-21363	the	_
 94-2	21364-21372	reported	_
 94-3	21373-21380	effects	_
@@ -3794,6 +3888,7 @@
 94-12	21424-21430	motion	_
 94-13	21431-21432	.	_
 
+Text=In the case of symptom effect, the reported results for a specific category of symptom, e.g.
 95-1	21433-21435	In	_
 95-2	21436-21439	the	_
 95-3	21440-21444	case	_
@@ -3814,6 +3909,7 @@
 95-18	21523-21526	e.g	_
 95-19	21527-21528	.	_
 
+Text=positive symptoms of schizophrenia, are also corrected for confounding effects of the remaining symptom categories, e.g.
 96-1	21529-21537	positive	_
 96-2	21538-21546	symptoms	_
 96-3	21547-21549	of	_
@@ -3834,6 +3930,7 @@
 96-18	21647-21650	e.g	_
 96-19	21651-21652	.	_
 
+Text=negative and general symtoms.
 97-1	21653-21661	negative	_
 97-2	21662-21665	and	_
 97-3	21666-21673	general	_

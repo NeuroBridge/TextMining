@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=D1-Dopamine Receptor Availability in First-Episode Neuroleptic Naive Psychosis Patients Abstract Background Positron emission tomography studies examining differences in D1-dopamine receptor binding between control subjects and patients with schizophrenia have been inconsistent, reporting higher, lower, and no difference in the frontal cortex.
 1-1	0-11	D1-Dopamine	http://maven.renci.org/NeuroBridge/neurobridge#AmphetamineAbuse
 1-2	12-20	Receptor	_
 1-3	21-33	Availability	_
@@ -48,6 +49,7 @@
 1-44	341-347	cortex	_
 1-45	348-349	.	_
 
+Text=Exposure to antipsychotic medication has been suggested to be a likely source of this heterogeneity, and thus there is a need for studies of patients at early stages of the disorder who have not been exposed to such drugs.
 2-1	350-358	Exposure	_
 2-2	359-361	to	_
 2-3	362-375	antipsychotic	_
@@ -90,6 +92,7 @@
 2-40	567-572	drugs	_
 2-41	573-574	.	_
 
+Text=Methods Here, we compared 17 healthy control subjects and 18 first-episode neuroleptic naive patients with schizophrenia or schizophreniform psychosis using positron emission tomography and the D1-dopamine receptor radioligand [11C] SCH23390.
 3-1	575-582	Methods	_
 3-2	583-587	Here	_
 3-3	588-589	,	_
@@ -125,6 +128,7 @@
 3-33	811-819	SCH23390	_
 3-34	820-821	.	_
 
+Text=Results We observed a statistically significant difference in the dorsolateral prefrontal cortex.
 4-1	822-829	Results	_
 4-2	830-832	We	_
 4-3	833-841	observed	_
@@ -139,6 +143,7 @@
 4-12	912-918	cortex	_
 4-13	919-920	.	_
 
+Text=Contrary to our expectations, patients had less D1-dopamine receptor availability with a moderate effect size.
 5-1	921-929	Contrary	_
 5-2	930-932	to	_
 5-3	933-936	our	_
@@ -157,6 +162,7 @@
 5-16	1027-1031	size	_
 5-17	1032-1033	.	_
 
+Text=In a Bayesian analysis, we show that the data are over 50 times more likely to have occurred under the decrease as opposed to the increase hypothesis.
 6-1	1034-1036	In	_
 6-2	1037-1038	a	_
 6-3	1039-1047	Bayesian	_
@@ -187,6 +193,7 @@
 6-28	1174-1184	hypothesis	_
 6-29	1185-1186	.	_
 
+Text=This effect was not global, as our analysis showed that the null hypothesis was preferred over either hypothesis in the striatum.
 7-1	1187-1191	This	_
 7-2	1192-1198	effect	_
 7-3	1199-1202	was	_
@@ -211,6 +218,7 @@
 7-22	1308-1316	striatum	_
 7-23	1317-1318	.	_
 
+Text=Conclusions This investigation represents the largest single sample of neuroleptic-naive patients examined for D1-dopamine receptor availability using PET and suggests a reduction of prefrontal D1-dopamine receptor density in the pathophysiology of schizophrenia.
 8-1	1319-1330	Conclusions	_
 8-2	1331-1335	This	_
 8-3	1336-1349	investigation	_
@@ -245,6 +253,7 @@
 8-32	1568-1581	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-33	1582-1583	.	_
 
+Text=However, further work will be required to reach a consensus.
 9-1	1584-1591	However	_
 9-2	1592-1593	,	_
 9-3	1594-1601	further	_
@@ -258,6 +267,7 @@
 9-11	1635-1644	consensus	_
 9-12	1645-1646	.	_
 
+Text=Materials and Methods Subjects The study was conducted in compliance with the ethical principles originating in the Declaration of Helsinki and the Good Clinical Practice Guidelines of the International Conference on Harmonization.
 10-1	1647-1656	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	1657-1660	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1661-1668	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -292,6 +302,7 @@
 10-32	1864-1877	Harmonization	_
 10-33	1878-1879	.	_
 
+Text=The study was approved by the Ethics Committee and the Radiation Safety Committee at the Karolinska University Hospital (Stockholm, Sweden).
 11-1	1880-1883	The	_
 11-2	1884-1889	study	_
 11-3	1890-1893	was	_
@@ -317,6 +328,7 @@
 11-23	2021-2022	)	_
 11-24	2023-2024	.	_
 
+Text=Eighteen patients, aged 19 to 51 years, and 18 healthy control subjects, aged 22 to 52 years, were enrolled after written informed consent at the Center for Psychiatry Research, Department of Clinical Neuroscience, Karolinska Institutet, and Stockholm County Council, Stockholm, Sweden.
 12-1	2025-2033	Eighteen	_
 12-2	2034-2042	patients	_
 12-3	2043-2044	,	_
@@ -369,6 +381,7 @@
 12-50	2313-2319	Sweden	_
 12-51	2320-2321	.	_
 
+Text=None of these patients were included in our previous study of D1R in first-episode psychosis.
 13-1	2322-2326	None	_
 13-2	2327-2329	of	_
 13-3	2330-2335	these	_
@@ -386,6 +399,7 @@
 13-15	2405-2414	psychosis	_
 13-16	2415-2416	.	_
 
+Text=Exclusion criteria for the healthy volunteers and the patients were nonpsychiatric brain disorder, other somatic disorder, history of head injury with loss of consciousness for more than 5 minutes, cranial fracture, history or presence of epilepsy, previous treatment with antipsychotic drugs, clinically significant abnormal laboratory test results, pregnancy, and history of alcohol or drug abuse according to DSM-III-R criteria or frequent nicotine use and brain injury.
 14-1	2417-2426	Exclusion	_
 14-2	2427-2435	criteria	_
 14-3	2436-2439	for	_
@@ -462,6 +476,7 @@
 14-74	2891-2897	injury	_
 14-75	2898-2899	.	_
 
+Text=Further exclusion criteria for the healthy volunteers were history or presence of any psychiatric disorder and history of a psychiatric disorder in a first-degree relative.
 15-1	2900-2907	Further	_
 15-2	2908-2917	exclusion	_
 15-3	2918-2926	criteria	_
@@ -489,6 +504,7 @@
 15-25	3063-3071	relative	_
 15-26	3072-3073	.	_
 
+Text=All patients were recruited by P.S.
 16-1	3074-3077	All	_
 16-2	3078-3086	patients	_
 16-3	3087-3091	were	_
@@ -497,6 +513,7 @@
 16-6	3105-3108	P.S	_
 16-7	3109-3110	.	_
 
+Text=from the psychiatry clinic at the Karolinska University Hospital, admitted for the first time to psychiatric services, and diagnosed with schizophrenia or schizophreniform psychosis according to DSM-III-R (Table 1).
 17-1	3111-3115	from	_
 17-2	3116-3119	the	_
 17-3	3120-3130	psychiatry	_
@@ -532,6 +549,7 @@
 17-33	3328-3329	)	_
 17-34	3330-3331	.	_
 
+Text=The recruitment phase lasted from 1994 to 2007.
 18-1	3332-3335	The	_
 18-2	3336-3347	recruitment	_
 18-3	3348-3353	phase	_
@@ -542,6 +560,7 @@
 18-8	3374-3378	2007	_
 18-9	3379-3380	.	_
 
+Text=In addition, each patient was followed prospectively regarding diagnosis for 1 year after inclusion in the study.
 19-1	3381-3383	In	_
 19-2	3384-3392	addition	_
 19-3	3393-3394	,	_
@@ -562,6 +581,7 @@
 19-18	3489-3494	study	_
 19-19	3495-3496	.	_
 
+Text=Clinical Ratings Patients ’ clinical symptoms were rated by using the 18-item Brief Psychiatric Rating Scale (BPRS) (each item rated on a 0–6 scale).
 20-1	3497-3505	Clinical	_
 20-2	3506-3513	Ratings	_
 20-3	3514-3522	Patients	_
@@ -592,6 +612,7 @@
 20-28	3648-3649	)	_
 20-29	3650-3651	.	_
 
+Text=The overall total rating and scores on positive and negative symptom clusters were used.
 21-1	3652-3655	The	_
 21-2	3656-3663	overall	_
 21-3	3664-3669	total	_
@@ -608,6 +629,7 @@
 21-14	3735-3739	used	_
 21-15	3740-3741	.	_
 
+Text=The positive symptom cluster consists of conceptual disorganization, suspiciousness, hallucinatory behavior, and unusual thought content (BPRS items 4, 11, 12, and 15).
 22-1	3742-3745	The	_
 22-2	3746-3754	positive	_
 22-3	3755-3762	symptom	_
@@ -640,6 +662,7 @@
 22-30	3916-3917	)	_
 22-31	3918-3919	.	_
 
+Text=The negative symptom cluster consists of emotional withdrawal, motor retardation, and blunted affect (BPRS items 3, 13 and 16).
 23-1	3920-3923	The	_
 23-2	3924-3932	negative	_
 23-3	3933-3940	symptom	_
@@ -666,6 +689,7 @@
 23-24	4050-4051	)	_
 23-25	4052-4053	.	_
 
+Text=General Comments on MRI and PET Imaging Due to the 14 years between examination of the first and the last subject, there were technical changes along the way in some of the experimental procedures.
 24-1	4054-4061	General	_
 24-2	4062-4070	Comments	_
 24-3	4071-4073	on	_
@@ -703,6 +727,7 @@
 24-35	4241-4251	procedures	_
 24-36	4252-4253	.	_
 
+Text=The changes comprised the use of different MRI protocols, the use of Neuroinsert (a PET gantry device in lead shielding radiation originating from the trunk), the PET acquisition time length, reconstruction parameters, and file formats.
 25-1	4254-4257	The	_
 25-2	4258-4265	changes	_
 25-3	4266-4275	comprised	_
@@ -746,6 +771,7 @@
 25-41	4488-4495	formats	_
 25-42	4496-4497	.	_
 
+Text=The experimental procedures and settings are for each individual listed in Supplementary Materials 2.
 26-1	4498-4501	The	_
 26-2	4502-4514	experimental	_
 26-3	4515-4525	procedures	_
@@ -762,6 +788,7 @@
 26-14	4597-4598	2	_
 26-15	4599-4600	.	_
 
+Text=As described below, the differences in experimental procedures were, when so required, included as confounders in the statistical analysis.
 27-1	4601-4603	As	_
 27-2	4604-4613	described	_
 27-3	4614-4619	below	_
@@ -786,6 +813,7 @@
 27-22	4734-4742	analysis	_
 27-23	4743-4744	.	_
 
+Text=MRI Examination All subjects underwent a T2-weighted MRI measurement to rule out any brain abnormality.
 28-1	4745-4748	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 28-2	4749-4760	Examination	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 28-3	4761-4764	All	_
@@ -803,6 +831,7 @@
 28-15	4836-4847	abnormality	_
 28-16	4848-4849	.	_
 
+Text=In the beginning of data collection, only the T2 sequence was performed (n = 16) on a 1.5-T Signa unit (General Electric, Milwaukee, WI).
 29-1	4850-4852	In	_
 29-2	4853-4856	the	_
 29-3	4857-4866	beginning	_
@@ -836,6 +865,7 @@
 29-31	4992-4993	)	_
 29-32	4994-4995	.	_
 
+Text=A standard spin-echo sequence with a 256 × 256 matrix was used with a repetition time of 4 seconds.
 30-1	4996-4997	A	_
 30-2	4998-5006	standard	_
 30-3	5007-5016	spin-echo	_
@@ -857,6 +887,7 @@
 30-19	5087-5094	seconds	_
 30-20	5095-5096	.	_
 
+Text=Echo times 85 msec with a total scanning time of about 10 minutes.
 31-1	5097-5101	Echo	_
 31-2	5102-5107	times	_
 31-3	5108-5110	85	_
@@ -872,6 +903,7 @@
 31-13	5155-5162	minutes	_
 31-14	5163-5164	.	_
 
+Text=The long echo time was to enhance the grey and white matter segmentation to allow the delineation of regions of interest (ROIs).
 32-1	5165-5168	The	_
 32-2	5169-5173	long	_
 32-3	5174-5178	echo	_
@@ -898,6 +930,7 @@
 32-24	5293-5294	)	_
 32-25	5295-5296	.	_
 
+Text=The rationale for having only one MRI sequence was to reduce the risk of noncompliance with a longer examination including several sequences.
 33-1	5297-5300	The	_
 33-2	5301-5310	rationale	_
 33-3	5311-5314	for	_
@@ -922,6 +955,7 @@
 33-22	5428-5437	sequences	_
 33-23	5438-5439	.	_
 
+Text=In addition, the primary purpose of the MRI was a clinical examination to rule out any pathology.
 34-1	5440-5442	In	_
 34-2	5443-5451	addition	_
 34-3	5452-5453	,	_
@@ -942,6 +976,7 @@
 34-18	5528-5537	pathology	_
 34-19	5538-5539	.	_
 
+Text=Later in the data collection, software and coil upgrade with improved MR sequences allowed for shorter scanning time, and the remaining subjects (n = 19) had, in addition to the T2-weighted protocol, a T1-weighted sequence for improved grey and white matter segmentation with a total scanning time of about 10 minutes.
 35-1	5540-5545	Later	_
 35-2	5546-5548	in	_
 35-3	5549-5552	the	_
@@ -1001,6 +1036,7 @@
 35-57	5856-5863	minutes	_
 35-58	5864-5865	.	_
 
+Text=This T2 protocol was based on the following sequence: repetition time/echo time = 6060/92.6 milliseconds, field of view 260 mm, image matrix 256 × 256, thickness/spacing 3/0,1 mm, flip angle 150°, slice thickness = 5 mm.
 36-1	5866-5870	This	_
 36-2	5871-5873	T2	_
 36-3	5874-5882	protocol	_
@@ -1045,6 +1081,7 @@
 36-42	6089-6091	mm	_
 36-43	6092-6093	.	_
 
+Text=The T1 protocol was based on a 3-dimensional axial Spoiled Gradient Recalled Acquisition with the following sequence: repetition time/echo time = 20/5 milliseconds, field of view 260 mm, image matrix 256 × 256, thickness/spacing 1/0 mm, flip angle 35°.
 37-1	6094-6097	The	_
 37-2	6098-6100	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 37-3	6101-6109	protocol	_
@@ -1091,6 +1128,7 @@
 37-44	6347-6350	35°	_
 37-45	6351-6352	.	_
 
+Text=PET Examination For each subject, PET examinations were performed on the Siemens ECAT EXACT HR PET system.
 38-1	6353-6356	PET	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
 38-2	6357-6368	Examination	_
 38-3	6369-6372	For	_
@@ -1111,6 +1149,7 @@
 38-18	6453-6459	system	_
 38-19	6460-6461	.	_
 
+Text=Radioactivity in brain was measured with 2D data acquisition, except for 2 subjects who had 3D data acquisition.
 39-1	6462-6475	Radioactivity	_
 39-2	6476-6478	in	_
 39-3	6479-6484	brain	_
@@ -1132,6 +1171,7 @@
 39-19	6563-6574	acquisition	_
 39-20	6575-6576	.	_
 
+Text=The spatial resolution in the reconstructed sections is 3.8 mm at the center of the field of view.
 40-1	6577-6580	The	_
 40-2	6581-6588	spatial	_
 40-3	6589-6599	resolution	_
@@ -1152,6 +1192,7 @@
 40-18	6670-6674	view	_
 40-19	6675-6676	.	_
 
+Text=A transmission scan was performed using 3 rotating 68Ge rod sources for about 5 minutes.
 41-1	6677-6678	A	_
 41-2	6679-6691	transmission	_
 41-3	6692-6696	scan	_
@@ -1169,6 +1210,7 @@
 41-15	6757-6764	minutes	_
 41-16	6765-6766	.	_
 
+Text=To minimize head movement during the PET measurement, a plaster helmet was made for each subject individually and used during the PET measurement.
 42-1	6767-6769	To	_
 42-2	6770-6778	minimize	_
 42-3	6779-6783	head	_
@@ -1195,6 +1237,7 @@
 42-24	6902-6913	measurement	_
 42-25	6914-6915	.	_
 
+Text=At the start of the PET measurement, a sterile phosphate buffer (pH = 7.4) containing [11C] SCH23390 was injected as a bolus during several seconds into the cubital vein.
 43-1	6916-6918	At	_
 43-2	6919-6922	the	_
 43-3	6923-6928	start	_
@@ -1231,6 +1274,7 @@
 43-34	7086-7090	vein	_
 43-35	7091-7092	.	_
 
+Text=The venous catheter was then immediately flushed with up to 10-mL saline solution.
 44-1	7093-7096	The	_
 44-2	7097-7103	venous	_
 44-3	7104-7112	catheter	_
@@ -1246,6 +1290,7 @@
 44-13	7166-7174	solution	_
 44-14	7175-7176	.	_
 
+Text=[11C] SCH23390 was prepared as previously described.
 45-1	7177-7178	[	_
 45-2	7179-7182	11C	_
 45-3	7183-7184	]	_
@@ -1257,6 +1302,7 @@
 45-9	7221-7230	described	_
 45-10	7231-7232	.	_
 
+Text=The injected radioactivity was 317 ± 22 MBq (mean, SD).
 46-1	7233-7236	The	_
 46-2	7237-7245	injected	_
 46-3	7246-7259	radioactivity	_
@@ -1272,6 +1318,7 @@
 46-13	7289-7290	)	_
 46-14	7291-7292	.	_
 
+Text=The molar activity was not analyzed for 2 of the healthy controls and 1 of the patients due to the small amount of product left in the vial after injection.
 47-1	7293-7296	The	_
 47-2	7297-7302	molar	_
 47-3	7303-7311	activity	_
@@ -1304,6 +1351,7 @@
 47-30	7439-7448	injection	_
 47-31	7449-7450	.	_
 
+Text=The molar radioactivity for the remaining 32 subjects was 104 ± 133 MBq/nmol, which corresponded to an injected mass of 3.6 ± 5.7 μg (range 0.17–32 μg, median 2.62 μg).
 48-1	7451-7454	The	_
 48-2	7455-7460	molar	_
 48-3	7461-7474	radioactivity	_
@@ -1340,6 +1388,7 @@
 48-34	7621-7622	)	_
 48-35	7623-7624	.	_
 
+Text=All subjects received 8 μg or less except for one patient who received 32 μg.
 49-1	7625-7628	All	_
 49-2	7629-7637	subjects	_
 49-3	7638-7646	received	_
@@ -1357,6 +1406,7 @@
 49-15	7699-7701	μg	_
 49-16	7702-7703	.	_
 
+Text=This was due to delay of injection with subsequent decrease in molar radioactivity.
 50-1	7704-7708	This	_
 50-2	7709-7712	was	_
 50-3	7713-7716	due	_
@@ -1372,6 +1422,7 @@
 50-13	7773-7786	radioactivity	_
 50-14	7787-7788	.	_
 
+Text=Estimation of D1R occupancy by 32 μg SCH23390 based on published data is 6.0%, that is, the binding potential (BPND) was underestimated by 6%, which was corrected for in the statistical analysis by dividing this subject ’ s subjects BPND value by 0.94.
 51-1	7789-7799	Estimation	_
 51-2	7800-7802	of	_
 51-3	7803-7806	D1R	_
@@ -1424,6 +1475,7 @@
 51-50	8043-8047	0.94	_
 51-51	8048-8049	.	_
 
+Text=The radioactivity and mass did not differ significantly between the patients and controls.
 52-1	8050-8053	The	_
 52-2	8054-8067	radioactivity	_
 52-3	8068-8071	and	_
@@ -1439,6 +1491,7 @@
 52-13	8131-8139	controls	_
 52-14	8140-8141	.	_
 
+Text=The PET protocol for each individual is listed in supplementary Materials 2.
 53-1	8142-8145	The	_
 53-2	8146-8149	PET	_
 53-3	8150-8158	protocol	_
@@ -1453,6 +1506,7 @@
 53-12	8216-8217	2	_
 53-13	8218-8219	.	_
 
+Text=Following injection, emission data were collected in a sequence of time frames.
 54-1	8220-8229	Following	_
 54-2	8230-8239	injection	_
 54-3	8240-8241	,	_
@@ -1468,6 +1522,7 @@
 54-13	8293-8299	frames	_
 54-14	8300-8301	.	_
 
+Text=The time frames of acquisition data were reconstructed and corrected for attenuation and scatter using 2D filtered-back projection into a series of 3D PET images of radioactivity concentration.
 55-1	8302-8305	The	_
 55-2	8306-8310	time	_
 55-3	8311-8317	frames	_
@@ -1498,6 +1553,7 @@
 55-28	8481-8494	concentration	_
 55-29	8495-8496	.	_
 
+Text=The voxel size for the reconstructed volume was 2.030 × 2.030 × 3.125 mm.
 56-1	8497-8500	The	_
 56-2	8501-8506	voxel	_
 56-3	8507-8511	size	_
@@ -1514,6 +1570,7 @@
 56-14	8567-8569	mm	_
 56-15	8570-8571	.	_
 
+Text=Image Processing and Quantification Despite the collection of data being conducted over several years, all image processing and quantification of the data were performed at the same time during 2018 using current analysis software.
 57-1	8572-8577	Image	_
 57-2	8578-8588	Processing	_
 57-3	8589-8592	and	_
@@ -1551,6 +1608,7 @@
 57-35	8795-8803	software	_
 57-36	8804-8805	.	_
 
+Text=Three-dimensional PET images were for each time frame corrected for head motion using a postreconstruction frame-by-frame realignment algorithm, in which the dynamic PET image was first divided into blocks of frames of a minute or longer, that is, frames of less than a minute were summed together.
 58-1	8806-8823	Three-dimensional	_
 58-2	8824-8827	PET	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
 58-3	8828-8834	images	_
@@ -1603,6 +1661,7 @@
 58-50	9098-9106	together	_
 58-51	9107-9108	.	_
 
+Text=Then all images were individually aligned to the first minute of acquisition using the SPM5 (Wellcome Department of Cognitive Neurology, University College London).
 59-1	9109-9113	Then	_
 59-2	9114-9117	all	_
 59-3	9118-9124	images	_
@@ -1631,6 +1690,7 @@
 59-26	9274-9275	)	_
 59-27	9276-9277	.	_
 
+Text=Integral PET images were created using ecatsum (v 1.4.3, Turku PET Centre).
 60-1	9278-9286	Integral	_
 60-2	9287-9290	PET	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
 60-3	9291-9297	images	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
@@ -1648,6 +1708,7 @@
 60-15	9354-9355	)	_
 60-16	9356-9357	.	_
 
+Text=Finally, MR images were reoriented into the AC-PC plane and coregistered to integral PET images using SPM5.
 61-1	9358-9365	Finally	_
 61-2	9366-9367	,	_
 61-3	9368-9370	MR	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -1668,6 +1729,7 @@
 61-18	9461-9465	SPM5	_
 61-19	9466-9467	.	_
 
+Text=Kinetic modelling was performed using the R package kinfitr (v 0.2.0) (https: //github.com/mathesong/kinfitr).
 62-1	9468-9475	Kinetic	_
 62-2	9476-9485	modelling	_
 62-3	9486-9489	was	_
@@ -1688,6 +1750,7 @@
 62-18	9581-9582	)	_
 62-19	9583-9584	.	_
 
+Text=Regional BPND values were calculated using the simplified reference tissue model with the cerebellar grey matter as reference region.
 63-1	9585-9593	Regional	_
 63-2	9594-9598	BPND	_
 63-3	9599-9605	values	_
@@ -1709,6 +1772,7 @@
 63-19	9711-9717	region	_
 63-20	9718-9719	.	_
 
+Text=ROI Delineation The MR images were used to delineate anatomical ROIs for the striatum (STR) (caudate and putamen), the dorsolateral prefrontal cortex (DLPFC) and the cerebellum (CBL).
 64-1	9720-9723	ROI	_
 64-2	9724-9735	Delineation	_
 64-3	9736-9739	The	_
@@ -1747,6 +1811,7 @@
 64-36	9910-9911	)	_
 64-37	9912-9913	.	_
 
+Text=The STR and DLPFC were chosen since they are regions of central interest in schizophrenia research.
 65-1	9914-9917	The	_
 65-2	9918-9921	STR	_
 65-3	9922-9925	and	_
@@ -1765,6 +1830,7 @@
 65-16	10004-10012	research	_
 65-17	10013-10014	.	_
 
+Text=For the DLPFC, several convergent findings relevant for schizophrenia and D1R transmission have been reported.
 66-1	10015-10018	For	_
 66-2	10019-10022	the	_
 66-3	10023-10028	DLPFC	_
@@ -1783,6 +1849,7 @@
 66-16	10117-10125	reported	_
 66-17	10126-10127	.	_
 
+Text=In addition, we performed an exploratory analysis of additional cortical regions—anterior cingulate cortex (ACC), temporal cortex (TC), medial prefrontal cortex (MPFC), and orbito frontal cortex (OFC) —based on previous studies investigating D1-R in psychosis.
 67-1	10128-10130	In	_
 67-2	10131-10139	addition	_
 67-3	10140-10141	,	_
@@ -1831,6 +1898,7 @@
 67-46	10390-10399	psychosis	_
 67-47	10400-10401	.	_
 
+Text=The CBL was chosen as reference region for the concentration of free and nonspecifically bound [11C] SCH23390.
 68-1	10402-10405	The	_
 68-2	10406-10409	CBL	_
 68-3	10410-10413	was	_
@@ -1852,6 +1920,7 @@
 68-19	10505-10513	SCH23390	_
 68-20	10514-10515	.	_
 
+Text=Grey matter, white matter, and CSF were segmented using the SPM5 Unified Segmetation routine on both T1 and T2 MR images.
 69-1	10516-10520	Grey	_
 69-2	10521-10527	matter	_
 69-3	10528-10529	,	_
@@ -1877,6 +1946,7 @@
 69-23	10632-10638	images	_
 69-24	10639-10640	.	_
 
+Text=These maps were used to mask ROIs.
 70-1	10641-10646	These	_
 70-2	10647-10651	maps	_
 70-3	10652-10656	were	_
@@ -1886,6 +1956,7 @@
 70-7	10670-10674	ROIs	_
 70-8	10675-10676	.	_
 
+Text=For the manual method, an in-house software, HBA, was used where the MR images were loaded into a 3-D volume for delineation of the ROIs on 1 of the 3 orthogonal projections with 1-mm slice thickness.
 71-1	10677-10680	For	_
 71-2	10681-10684	the	_
 71-3	10685-10691	manual	_
@@ -1927,6 +1998,7 @@
 71-39	10870-10879	thickness	_
 71-40	10880-10881	.	_
 
+Text=The manual segmentation was performed by one investigator blinded to patient status (P.S.)
 72-1	10882-10885	The	_
 72-2	10886-10892	manual	_
 72-3	10893-10905	segmentation	_
@@ -1944,6 +2016,7 @@
 72-15	10972-10973	.	_
 72-16	10974-10975	)	_
 
+Text=who has more than 20 years of experience in manual ROI delineation.
 73-1	10976-10979	who	_
 73-2	10980-10983	has	_
 73-3	10984-10988	more	_
@@ -1958,6 +2031,7 @@
 73-12	11031-11042	delineation	_
 73-13	11043-11044	.	_
 
+Text=The caudate and putamen were delineated as described by with the modification that the sagittal planes were used instead of the coronal.
 74-1	11045-11048	The	_
 74-2	11049-11056	caudate	_
 74-3	11057-11060	and	_
@@ -1982,6 +2056,7 @@
 74-22	11173-11180	coronal	_
 74-23	11181-11182	.	_
 
+Text=The ventral striatum was not included.
 75-1	11183-11186	The	_
 75-2	11187-11194	ventral	_
 75-3	11195-11203	striatum	_
@@ -1990,6 +2065,7 @@
 75-6	11212-11220	included	_
 75-7	11221-11222	.	_
 
+Text=The DLPFC, MPFC, and OFC were traced on 20 coronal planes anterior to the genu of the corpus callosum.
 76-1	11223-11226	The	_
 76-2	11227-11232	DLPFC	_
 76-3	11233-11234	,	_
@@ -2013,6 +2089,7 @@
 76-21	11318-11326	callosum	_
 76-22	11327-11328	.	_
 
+Text=The anterior cingulate cortex and temporal cortex were traced on sagittal planes in their entirety.
 77-1	11329-11332	The	_
 77-2	11333-11341	anterior	_
 77-3	11342-11351	cingulate	_
@@ -2030,6 +2107,7 @@
 77-15	11419-11427	entirety	_
 77-16	11428-11429	.	_
 
+Text=The cortical regions were masked by the GM map for gray-white matter segmentation.
 78-1	11430-11433	The	_
 78-2	11434-11442	cortical	_
 78-3	11443-11450	regions	_
@@ -2045,6 +2123,7 @@
 78-13	11499-11511	segmentation	_
 78-14	11512-11513	.	_
 
+Text=The cerebellum was drawn on the central 6 transaxial planes of the cerebellum and about 1 cm distant from the subarachnoidal space.
 79-1	11514-11517	The	_
 79-2	11518-11528	cerebellum	_
 79-3	11529-11532	was	_
@@ -2069,6 +2148,7 @@
 79-22	11639-11644	space	_
 79-23	11645-11646	.	_
 
+Text=The ROIs were translated into the respective PET image space using the inter-modality coregistration matrices.
 80-1	11647-11650	The	_
 80-2	11651-11655	ROIs	_
 80-3	11656-11660	were	_
@@ -2086,6 +2166,7 @@
 80-15	11748-11756	matrices	_
 80-16	11757-11758	.	_
 
+Text=Statistical Analysis The aim was to compare BPND between healthy controls and first-episode psychosis patients.
 81-1	11759-11770	Statistical	_
 81-2	11771-11779	Analysis	_
 81-3	11780-11783	The	_
@@ -2103,6 +2184,7 @@
 81-15	11861-11869	patients	_
 81-16	11870-11871	.	_
 
+Text=Inference was performed using both frequentist methods (i.e., P values) as well as Bayesian hypothesis testing methods.
 82-1	11872-11881	Inference	_
 82-2	11882-11885	was	_
 82-3	11886-11895	performed	_
@@ -2125,6 +2207,7 @@
 82-20	11986-11993	methods	_
 82-21	11994-11995	.	_
 
+Text=For both analyses, we included age in the regression model, as an age effect on [11C] SCH23390 BPND has consistently been reported.
 83-1	11996-11999	For	_
 83-2	12000-12004	both	_
 83-3	12005-12013	analyses	_
@@ -2153,6 +2236,7 @@
 83-26	12122-12130	reported	_
 83-27	12131-12132	.	_
 
+Text=For the frequentist models, age was entered as a covariate in the multiple linear regression models.
 84-1	12133-12136	For	_
 84-2	12137-12140	the	_
 84-3	12141-12152	frequentist	_
@@ -2172,6 +2256,7 @@
 84-17	12227-12233	models	_
 84-18	12234-12235	.	_
 
+Text=For the Bayesian models, we defined informative priors for the relationship between age and [11C] SCH23390 BPND based on a weighted average of the results of previous studies examining this association.
 85-1	12236-12239	For	_
 85-2	12240-12243	the	_
 85-3	12244-12252	Bayesian	_
@@ -2208,6 +2293,7 @@
 85-34	12429-12440	association	_
 85-35	12441-12442	.	_
 
+Text=This procedure functions to essentially constrain the model to likely values of the parameter estimating the effect of age on [11C] SCH23390 BPND based on previous reports.
 86-1	12443-12447	This	_
 86-2	12448-12457	procedure	_
 86-3	12458-12467	functions	_
@@ -2239,6 +2325,7 @@
 86-29	12609-12616	reports	_
 86-30	12617-12618	.	_
 
+Text=This procedure limits the influence of uncertainty in the estimation of the association between age and binding estimated in this particular dataset, which might otherwise affect estimates of the effect of psychosis on binding estimates.
 87-1	12619-12623	This	_
 87-2	12624-12633	procedure	_
 87-3	12634-12640	limits	_
@@ -2277,6 +2364,7 @@
 87-36	12847-12856	estimates	_
 87-37	12857-12858	.	_
 
+Text=This prior was parameterized as follows: for the DLPFC, mean = −1.56% per year, SD = 0.66%; for the STR, mean = −0.76% per year, SD = 0.04%.
 88-1	12859-12863	This	_
 88-2	12864-12869	prior	_
 88-3	12870-12873	was	_
@@ -2317,6 +2405,7 @@
 88-38	13007-13008	%	_
 88-39	13009-13010	.	_
 
+Text=For the assessment of the influence of patient status, we tailored our statistical models based on the mixed results in previous clinical PET studies assessing differences in D1R availability between schizophrenia patients and controls.
 89-1	13011-13014	For	_
 89-2	13015-13018	the	_
 89-3	13019-13029	assessment	_
@@ -2354,6 +2443,7 @@
 89-35	13239-13247	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 89-36	13248-13249	.	_
 
+Text=For the frequentist analysis, we made use of a 2-sided test, due to the mixed results, using an alpha of 0.05.
 90-1	13250-13253	For	_
 90-2	13254-13257	the	_
 90-3	13258-13269	frequentist	_
@@ -2380,6 +2470,7 @@
 90-24	13358-13362	0.05	_
 90-25	13363-13364	.	_
 
+Text=For the Bayesian analysis, we made use of Bayesian hypothesis testing (i.e., Bayes Factors, BFs) to compare the relative plausibility of separate hypotheses: of higher and lower [11C] SCH23390 BPND, respectively, in patients compared wiith controls.
 91-1	13365-13368	For	_
 91-2	13369-13372	the	_
 91-3	13373-13381	Bayesian	_
@@ -2428,6 +2519,7 @@
 91-46	13615-13623	controls	_
 91-47	13624-13625	.	_
 
+Text=For the differences between patients and controls, we defined 1-sided half-normal distributions for the hypotheses of increased and decreased BPND in patients compared with controls, respectively, from previous studies using [11C] SCH23390 BPND.
 92-1	13626-13629	For	_
 92-2	13630-13633	the	_
 92-3	13634-13645	differences	_
@@ -2468,6 +2560,7 @@
 92-38	13871-13875	BPND	_
 92-39	13876-13877	.	_
 
+Text=Previous studies making use of [11C] NNC112 were not included, as the percentage change may not be directly applicable to [11C] SCH23390 BPND for several reasons.
 93-1	13878-13886	Previous	_
 93-2	13887-13894	studies	_
 93-3	13895-13901	making	_
@@ -2501,6 +2594,7 @@
 93-31	14037-14044	reasons	_
 93-32	14045-14046	.	_
 
+Text=First, [11C] NNC112 has a significantly higher affinity for the D1R.
 94-1	14047-14052	First	_
 94-2	14053-14054	,	_
 94-3	14055-14056	[	_
@@ -2517,6 +2611,7 @@
 94-14	14114-14117	D1R	_
 94-15	14118-14119	.	_
 
+Text=Second, for both radioligands 5-HT2A receptor binding contributes to a nonnegligible fraction of cortical binding, and differences in this fraction might cause systematic differences.
 95-1	14120-14126	Second	_
 95-2	14127-14128	,	_
 95-3	14129-14132	for	_
@@ -2545,6 +2640,7 @@
 95-26	14293-14304	differences	_
 95-27	14305-14306	.	_
 
+Text=Although this fraction has been shown to be similar in magnitude for both tracers, for [11C] SCH23390 this estimate was derived from a PET examination of only 2 baboons and not from humans.
 96-1	14307-14315	Although	_
 96-2	14316-14320	this	_
 96-3	14321-14329	fraction	_
@@ -2583,6 +2679,7 @@
 96-36	14492-14498	humans	_
 96-37	14499-14500	.	_
 
+Text=Lastly, in studies using [11C] NNC112, the main outcome parameter has been BPP, with BPND calculated in all cases but one using arterial plasma measurements.
 97-1	14501-14507	Lastly	_
 97-2	14508-14509	,	_
 97-3	14510-14512	in	_
@@ -2615,6 +2712,7 @@
 97-30	14650-14662	measurements	_
 97-31	14663-14664	.	_
 
+Text=To assure that these hypotheses were not differentially influenced by different sizes of previously reported effects, we opted to use the same scale for both the increase and decrease prior based on a weighted average of previous differences.
 98-1	14665-14667	To	_
 98-2	14668-14674	assure	_
 98-3	14675-14679	that	_
@@ -2656,6 +2754,7 @@
 98-39	14896-14907	differences	_
 98-40	14908-14909	.	_
 
+Text=We therefore used a SD of 31% for DLPFC and of 21% for the STR.
 99-1	14910-14912	We	_
 99-2	14913-14922	therefore	_
 99-3	14923-14927	used	_
@@ -2675,6 +2774,7 @@
 99-17	14971-14974	STR	_
 99-18	14975-14976	.	_
 
+Text=More details regarding selection of priors are provided in Supplementary Materials 1.
 100-1	14977-14981	More	_
 100-2	14982-14989	details	_
 100-3	14990-14999	regarding	_
@@ -2689,6 +2789,7 @@
 100-12	15060-15061	1	_
 100-13	15062-15063	.	_
 
+Text=We also tested whether other factors differing between measurements might have a substantial impact on the results and thereby act as a confounder.
 101-1	15064-15066	We	_
 101-2	15067-15071	also	_
 101-3	15072-15078	tested	_
@@ -2714,6 +2815,7 @@
 101-23	15200-15210	confounder	_
 101-24	15211-15212	.	_
 
+Text=These factors relate to PET acquisition (2D or 3D PET acquisition, presence of absence of the Neuroinsert, measurement length, date of measurement, i.e., drift over time), PET reconstruction (R-Z filter resolution, R-Z filter cutoff), ROI delineation (unconscious biases during delineation, anatomical MR image modality - T1w vs T2w), data conversions (ecat6 or ecat7 as the original file format), and participant factors (sex and movement).
 102-1	15213-15218	These	_
 102-2	15219-15226	factors	_
 102-3	15227-15233	relate	_
@@ -2801,6 +2903,7 @@
 102-85	15673-15674	)	_
 102-86	15675-15676	.	_
 
+Text=For the assessment of whether BPND was affected by participant sex, we also made use of the outcome data from de Boer et al, with gender provided through personal communication, as well as the raw data utilized in Bäckman et al.
 103-1	15677-15680	For	_
 103-2	15681-15684	the	_
 103-3	15685-15695	assessment	_
@@ -2847,6 +2950,7 @@
 103-44	15905-15907	al	_
 103-45	15908-15909	.	_
 
+Text=but with image analysis and modelling performed in a manner identical to the present study.
 104-1	15910-15913	but	_
 104-2	15914-15918	with	_
 104-3	15919-15924	image	_
@@ -2864,6 +2968,7 @@
 104-15	15995-16000	study	_
 104-16	16001-16002	.	_
 
+Text=To assess whether these factors impacted our outcomes, we tested whether a large specific effect was absent for each factor.
 105-1	16003-16005	To	_
 105-2	16006-16012	assess	_
 105-3	16013-16020	whether	_
@@ -2887,6 +2992,7 @@
 105-21	16121-16127	factor	_
 105-22	16128-16129	.	_
 
+Text=Such conclusions cannot be drawn from an insignificant P value assessing the differences between groups but rather requires a test of groups ’ similarity.
 106-1	16130-16134	Such	_
 106-2	16135-16146	conclusions	_
 106-3	16147-16150	can	_
@@ -2914,6 +3020,7 @@
 106-25	16274-16284	similarity	_
 106-26	16285-16286	.	_
 
+Text=For this reason, we made use of equivalence testing.
 107-1	16287-16290	For	_
 107-2	16291-16295	this	_
 107-3	16296-16302	reason	_
@@ -2926,6 +3033,7 @@
 107-10	16332-16339	testing	_
 107-11	16340-16341	.	_
 
+Text=This allows for testing of the equivalence of outcomes, rather than the difference, and requires the description of appropriate equivalence bounds within which the outcomes are assumed to be sufficiently similar.
 108-1	16342-16346	This	_
 108-2	16347-16353	allows	_
 108-3	16354-16357	for	_
@@ -2961,6 +3069,7 @@
 108-33	16548-16555	similar	_
 108-34	16556-16557	.	_
 
+Text=We performed a power analysis for the equivalence bound for 2-sample equivalence tests with a type I error rate of 0.05, a power of 0.8, and samples of 18 in each group.
 109-1	16558-16560	We	_
 109-2	16561-16570	performed	_
 109-3	16571-16572	a	_
@@ -2997,6 +3106,7 @@
 109-34	16723-16728	group	_
 109-35	16729-16730	.	_
 
+Text=According to this analysis, there was sufficient power to assess equivalence within bounds of −1 <Cohen ’ s D <1.
 110-1	16731-16740	According	_
 110-2	16741-16743	to	_
 110-3	16744-16748	this	_
@@ -3022,6 +3132,7 @@
 110-23	16845-16846	1	_
 110-24	16847-16848	.	_
 
+Text=Since Cohen ’ s D = 0.8 represents a large effect size, we can thereby rule out large effects.
 111-1	16849-16854	Since	_
 111-2	16855-16860	Cohen	_
 111-3	16861-16862	’	_
@@ -3044,6 +3155,7 @@
 111-20	16936-16943	effects	_
 111-21	16944-16945	.	_
 
+Text=While it would have been desirable to assess equivalence within more restrictive equivalence bounds, this approach is nonetheless superior to the statistically invalid approach of accepting (as opposed to failing to reject) the null hypothesis based on a nonsignificant P value in a test assessing differences.
 112-1	16946-16951	While	_
 112-2	16952-16954	it	_
 112-3	16955-16960	would	_
@@ -3095,6 +3207,7 @@
 112-49	17247-17258	differences	_
 112-50	17259-17260	.	_
 
+Text=Transparency Statement We present the following transparency statement suggested by Simmons et al .. All requirements are presented below.
 113-1	17261-17273	Transparency	_
 113-2	17274-17283	Statement	_
 113-3	17284-17286	We	_
@@ -3116,6 +3229,7 @@
 113-19	17393-17398	below	_
 113-20	17399-17400	.	_
 
+Text=We report how we determined our sample size, all data exclusions (if any), all manipulations, and all measures in the study.
 114-1	17401-17403	We	_
 114-2	17404-17410	report	_
 114-3	17411-17414	how	_
@@ -3144,6 +3258,7 @@
 114-26	17524-17529	study	_
 114-27	17530-17531	.	_
 
+Text=Sample Size Determination The final study sample size was determined by the number of participants included in the study when it was decided that data collection was to be concluded in 2008 and consisted of 18 patients and 18 healthy controls.
 115-1	17532-17538	Sample	_
 115-2	17539-17543	Size	_
 115-3	17544-17557	Determination	_
@@ -3187,6 +3302,7 @@
 115-41	17766-17774	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 115-42	17775-17776	.	_
 
+Text=No power analysis was performed before or during the study; however, a power analysis was performed prior to statistical analysis.
 116-1	17777-17779	No	_
 116-2	17780-17785	power	_
 116-3	17786-17794	analysis	_
@@ -3211,6 +3327,7 @@
 116-22	17900-17908	analysis	_
 116-23	17909-17910	.	_
 
+Text=For a 2 independent sample t test, with an alpha of 0.05, this study had 80% power to detect an effect size of Cohen ’ s D = 0.96.
 117-1	17911-17914	For	_
 117-2	17915-17916	a	_
 117-3	17917-17918	2	_
@@ -3245,6 +3362,7 @@
 117-32	18039-18043	0.96	_
 117-33	18044-18045	.	_
 
+Text=This corresponds to a Cohen ’ s U3 of 83% and a common language effect size of 75%.
 118-1	18046-18050	This	_
 118-2	18051-18062	corresponds	_
 118-3	18063-18065	to	_
@@ -3267,6 +3385,7 @@
 118-20	18129-18130	%	_
 118-21	18131-18132	.	_
 
+Text=This effect is larger than we would expect, and we determined a priori that if significant, this result could likely represent a Type M error, and if insignificant, this result could likely represent a Type II error.
 119-1	18133-18137	This	_
 119-2	18138-18144	effect	_
 119-3	18145-18147	is	_
@@ -3310,6 +3429,7 @@
 119-41	18347-18352	error	_
 119-42	18353-18354	.	_
 
+Text=Exclusions One PET measurement from a control subject was excluded from the analysis since it was only stored on an optical disc whose content could not be accessed.
 120-1	18355-18365	Exclusions	_
 120-2	18366-18369	One	_
 120-3	18370-18373	PET	http://maven.renci.org/NeuroBridge/neurobridge#PositronEmissionTomography
@@ -3340,6 +3460,7 @@
 120-28	18511-18519	accessed	_
 120-29	18520-18521	.	_
 
+Text=All other measurements were included in the analysis.
 121-1	18522-18525	All	_
 121-2	18526-18531	other	_
 121-3	18532-18544	measurements	_
@@ -3350,6 +3471,7 @@
 121-8	18566-18574	analysis	_
 121-9	18575-18576	.	_
 
+Text=Measures and Analyses The authors confirm that all ROI delineation was performed blind to the patient or control status of the subjects and that no regions other than the whole STR and the DLPFC were analyzed.
 122-1	18577-18585	Measures	_
 122-2	18586-18589	and	_
 122-3	18590-18598	Analyses	_
@@ -3388,6 +3510,7 @@
 122-36	18777-18785	analyzed	_
 122-37	18786-18787	.	_
 
+Text=All confounder checks were analyzed without testing whether they influenced the final outcome, and patient-control status was not included in any analysis other than that of ROI delineation bias, where it was the independent variable.
 123-1	18788-18791	All	_
 123-2	18792-18802	confounder	_
 123-3	18803-18809	checks	_
@@ -3427,6 +3550,7 @@
 123-37	19015-19023	variable	_
 123-38	19024-19025	.	_
 
+Text=For transparency, we note that an exploratory SPM analysis was run on a subset of subjects during the data collection phase for which there were no significant differences between the groups using conventional statistical thresholds.
 124-1	19026-19029	For	_
 124-2	19030-19042	transparency	_
 124-3	19043-19044	,	_
@@ -3465,6 +3589,7 @@
 124-36	19249-19259	thresholds	_
 124-37	19260-19261	.	_
 
+Text=Hence, there were no significant findings guiding the ROI analysis.
 125-1	19262-19267	Hence	_
 125-2	19268-19269	,	_
 125-3	19270-19275	there	_
@@ -3478,6 +3603,7 @@
 125-11	19321-19329	analysis	_
 125-12	19330-19331	.	_
 
+Text=However, due to the differences in MR modality, the fact that this analysis was not corrected for different lengths of measurement as well as the poor reliability of voxelwise estimates of cortical [11C] SCH23390 BPND, we do not consider these results to be valid, and this is reported solely for the purpose of transparency.
 126-1	19332-19339	However	_
 126-2	19340-19341	,	_
 126-3	19342-19345	due	_
@@ -3540,6 +3666,7 @@
 126-60	19650-19662	transparency	_
 126-61	19663-19664	.	_
 
+Text=In the current analysis, we restricted the a priori ROIs to the DLPFC and STR, as we have in previous studies (REF here: https: //www.biorxiv.org/content/10.1101/321646v2) to reduce the potential influence of multiple comparisons to test the D1R hypothesis.
 127-1	19665-19667	In	_
 127-2	19668-19671	the	_
 127-3	19672-19679	current	_
@@ -3586,6 +3713,7 @@
 127-44	19917-19927	hypothesis	_
 127-45	19928-19929	.	_
 
+Text=Data and Code Availability All analysis code is available at https: //github.com/mathesong/D1DNPsychosis.
 128-1	19930-19934	Data	_
 128-2	19935-19938	and	_
 128-3	19939-19943	Code	_
@@ -3601,6 +3729,7 @@
 128-13	19999-20035	//github.com/mathesong/D1DNPsychosis	_
 128-14	20036-20037	.	_
 
+Text=Due to institutional restrictions, the data cannot be shared openly within this repository.
 129-1	20038-20041	Due	_
 129-2	20042-20044	to	_
 129-3	20045-20058	institutional	_
@@ -3618,6 +3747,7 @@
 129-15	20120-20130	repository	_
 129-16	20131-20132	.	_
 
+Text=These data are pseudonymized according to national (Swedish) and EU legislation and cannot be anonymized and published in an open repository.
 130-1	20133-20138	These	_
 130-2	20139-20143	data	_
 130-3	20144-20147	are	_
@@ -3644,6 +3774,7 @@
 130-24	20266-20276	repository	_
 130-25	20277-20278	.	_
 
+Text=Metadata can be openly published, and the underlying data can instead be made available upon request on a case by case basis as allowed by the legislation and ethical permits.
 131-1	20279-20287	Metadata	_
 131-2	20288-20291	can	_
 131-3	20292-20294	be	_
@@ -3677,6 +3808,7 @@
 131-31	20447-20454	permits	_
 131-32	20455-20456	.	_
 
+Text=Requests for access can be made to the Karolinska Institutet ’ s Research Data Office at rdo @ ki.se.
 132-1	20457-20465	Requests	_
 132-2	20466-20469	for	_
 132-3	20470-20476	access	_

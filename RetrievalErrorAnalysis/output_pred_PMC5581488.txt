@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Disrupted Olfactory Integration in Schizophrenia: Functional Connectivity Study Abstract Background Evidence for olfactory dysfunction in schizophrenia has been firmly established.
 1-1	0-9	Disrupted	_
 1-2	10-19	Olfactory	_
 1-3	20-31	Integration	_
@@ -25,6 +26,7 @@
 1-21	169-180	established	_
 1-22	181-182	.	_
 
+Text=However, in the typical understanding of schizophrenia, olfaction is not recognized to contribute to or interact with the illness.
 2-1	183-190	However	_
 2-2	191-192	,	_
 2-3	193-195	in	_
@@ -48,6 +50,7 @@
 2-21	307-314	illness	_
 2-22	315-316	.	_
 
+Text=Despite the solid presence of olfactory dysfunction in schizophrenia, its relation to the rest of the illness remains largely unclear.
 3-1	317-324	Despite	_
 3-2	325-328	the	_
 3-3	329-334	solid	_
@@ -71,6 +74,7 @@
 3-21	444-451	unclear	_
 3-22	452-453	.	_
 
+Text=Here, we aimed to examine functional connectivity of the olfactory bulb, olfactory tract, and piriform cortices and isolate the network that would account for the altered olfaction in schizophrenia.
 4-1	454-458	Here	_
 4-2	459-460	,	_
 4-3	461-463	we	_
@@ -105,6 +109,7 @@
 4-32	641-654	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 4-33	655-656	.	_
 
+Text=Methods We examined the functional connectivity of these specific olfactory regions in order to isolate other brain regions associated with olfactory processing in schizophrenia.
 5-1	657-664	Methods	_
 5-2	665-667	We	_
 5-3	668-676	examined	_
@@ -131,6 +136,7 @@
 5-24	821-834	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 5-25	835-836	.	_
 
+Text=Using the resting state functional MRI data from the Center for Biomedical Research Excellence in Brain Function and Mental Illness, we compared 84 patients of schizophrenia and 90 individuals without schizophrenia.
 6-1	837-842	Using	_
 6-2	843-846	the	_
 6-3	847-854	resting	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -165,6 +171,7 @@
 6-32	1039-1052	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 6-33	1053-1054	.	_
 
+Text=Results The schizophrenia group showed disconnectivity between the anterior piriform cortex and the nucleus accumbens, between the posterior piriform cortex and the middle frontal gyrus, and between the olfactory tract and the visual cortices.
 7-1	1055-1062	Results	_
 7-2	1063-1066	The	_
 7-3	1067-1080	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -203,6 +210,7 @@
 7-36	1291-1299	cortices	_
 7-37	1300-1301	.	_
 
+Text=Conclusions The current results suggest functional disconnectivity of olfactory regions in schizophrenia, which may account for olfactory dysfunction and disrupted integration with other sensory modalities in schizophrenia.
 8-1	1302-1313	Conclusions	_
 8-2	1314-1317	The	_
 8-3	1318-1325	current	_
@@ -233,6 +241,7 @@
 8-28	1512-1525	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-29	1526-1527	.	_
 
+Text=Materials and Methods Data Acquisition The MRI images, the clinical data, and the demographic data from the Center for Biomedical Research Excellence in Brain Function and Mental Illness were obtained from Collaborative Informatics and Neuroimaging Suite (http: //coins.mrn.org/).
 9-1	1528-1537	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-2	1538-1541	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 9-3	1542-1549	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -278,6 +287,7 @@
 9-43	1811-1812	)	_
 9-44	1813-1814	.	_
 
+Text=This data subset consisted of 183 individuals for whom both resting state and structural data were available.
 10-1	1815-1819	This	_
 10-2	1820-1824	data	_
 10-3	1825-1831	subset	_
@@ -297,6 +307,7 @@
 10-17	1914-1923	available	_
 10-18	1924-1925	.	_
 
+Text=Among these individuals, 84 had a diagnosis of schizophrenia or schizoaffective disorder (hereafter SZ group, 36.85±14.09 years old) based on the Structural Clinical Interview for DSM-IV for Axis I DSM-IV Disorders, and 90 were nonpsychiatric age-matched controls (control group, 37.5±11.40 years old).
 11-1	1926-1931	Among	_
 11-2	1932-1937	these	_
 11-3	1938-1949	individuals	_
@@ -349,6 +360,7 @@
 11-50	2234-2235	)	_
 11-51	2236-2237	.	_
 
+Text=Nine individuals who had a diagnosis of bipolar disorder were excluded from further analysis.
 12-1	2238-2242	Nine	_
 12-2	2243-2254	individuals	_
 12-3	2255-2258	who	_
@@ -365,6 +377,7 @@
 12-14	2322-2330	analysis	_
 12-15	2331-2332	.	_
 
+Text=Resting state echo planner image (EPI) volumes had 32 slices of 4 mm 64x64 matrix with 4-mm thickness (voxel size = 3x3x4 mm), with repetition time (TR) of 2000 milliseconds and echo time (TE) of 29 milliseconds.
 13-1	2333-2340	Resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 13-2	2341-2346	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 13-3	2347-2351	echo	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -413,6 +426,7 @@
 13-46	2541-2553	milliseconds	_
 13-47	2554-2555	.	_
 
+Text=A total of 150 volumes (5 minutes) were used in the analysis.
 14-1	2556-2557	A	_
 14-2	2558-2563	total	_
 14-3	2564-2566	of	_
@@ -429,6 +443,7 @@
 14-14	2610-2618	analysis	_
 14-15	2619-2620	.	_
 
+Text=High-resolution structural T1 volume was acquired as 176 sagittal slices of 256 mm x 256 mm with 1-mm thickness (voxel size = 1x1x1 mm, TR=2530 milliseconds and TE=3.25 milliseconds).
 15-1	2621-2636	High-resolution	_
 15-2	2637-2647	structural	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 15-3	2648-2650	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -463,6 +478,7 @@
 15-32	2805-2806	)	_
 15-33	2807-2808	.	_
 
+Text=Data Processing Data preprocessing and statistical analyses were conducted using FMRIB Software Library (FSL) as well as Analysis of Functional NeuroImages.
 16-1	2809-2813	Data	_
 16-2	2814-2824	Processing	_
 16-3	2825-2829	Data	_
@@ -488,6 +504,7 @@
 16-23	2955-2966	NeuroImages	_
 16-24	2967-2968	.	_
 
+Text=The anatomical volume for each subject was skull stripped, segmented (gray matter, white matter, and CSF), and registered to the MNI 2-mm standard brain.
 17-1	2969-2972	The	_
 17-2	2973-2983	anatomical	_
 17-3	2984-2990	volume	_
@@ -520,6 +537,7 @@
 17-30	3122-3127	brain	_
 17-31	3128-3129	.	_
 
+Text=The first 4 EPI volumes were removed.
 18-1	3130-3133	The	_
 18-2	3134-3139	first	_
 18-3	3140-3141	4	_
@@ -529,6 +547,7 @@
 18-7	3159-3166	removed	_
 18-8	3167-3168	.	_
 
+Text=Transient signal spikes were removed by despiking interpolation.
 19-1	3169-3178	Transient	_
 19-2	3179-3185	signal	_
 19-3	3186-3192	spikes	_
@@ -539,6 +558,7 @@
 19-8	3219-3232	interpolation	_
 19-9	3233-3234	.	_
 
+Text=To correct head motion, the volumes were linearly registered to the then-first volume, through which 6 motion parameters and displacement distance between 2 consecutive volumes were estimated.
 20-1	3235-3237	To	_
 20-2	3238-3245	correct	_
 20-3	3246-3250	head	_
@@ -570,6 +590,7 @@
 20-29	3419-3428	estimated	_
 20-30	3429-3430	.	_
 
+Text=Each of the resting state volumes was regressed by white matter and cerebrospinal fluid signal fluctuations as well as the 6 motion parameters.
 21-1	3431-3435	Each	_
 21-2	3436-3438	of	_
 21-3	3439-3442	the	_
@@ -595,6 +616,7 @@
 21-23	3563-3573	parameters	_
 21-24	3574-3575	.	_
 
+Text=After smoothing with a 6-mm FWHM Gaussian kernel, the volumes were resampled, spatially transformed, and aligned to the MNI 2-mm standard brain space.
 22-1	3576-3581	After	_
 22-2	3582-3591	smoothing	_
 22-3	3592-3596	with	_
@@ -623,6 +645,7 @@
 22-26	3723-3728	space	_
 22-27	3729-3730	.	_
 
+Text=Through this registration, 12 affine parameters were created between rs-fMRI volume and MNI152 2-mm space, so that a seed ROI can later be registered to each individual rs-fMRI space.
 23-1	3731-3738	Through	_
 23-2	3739-3743	this	_
 23-3	3744-3756	registration	_
@@ -656,6 +679,7 @@
 23-31	3910-3915	space	_
 23-32	3916-3917	.	_
 
+Text=To perform scrubbing where the volumes with excess motion are removed, as a displacement distance between 2 EPI volumes, the root mean square deviation was calculated from motion correction parameters, at an r=40-mm spherical surface using FSL ’ s rmsdiff tool.
 24-1	3918-3920	To	_
 24-2	3921-3928	perform	_
 24-3	3929-3938	scrubbing	_
@@ -702,6 +726,7 @@
 24-44	4177-4181	tool	_
 24-45	4182-4183	.	_
 
+Text=Volumes whose displacement distance exceeded the threshold (0.3 mm) were removed (scrubbed) from further statistical analyses.
 25-1	4184-4191	Volumes	_
 25-2	4192-4197	whose	_
 25-3	4198-4210	displacement	_
@@ -724,6 +749,7 @@
 25-20	4305-4313	analyses	_
 25-21	4314-4315	.	_
 
+Text=The olfactory bulb, olfactory tract, anterior piriform cortex, and posterior piriform cortex were manually segmented in the MNI 2-mm space (Figure 1) following anatomical descriptions in the literature.
 26-1	4316-4319	The	_
 26-2	4320-4329	olfactory	_
 26-3	4330-4334	bulb	_
@@ -759,6 +785,7 @@
 26-33	4512-4522	literature	_
 26-34	4523-4524	.	_
 
+Text=For each ROI, voxel-wise connectivity analysis was conducted.
 27-1	4525-4528	For	_
 27-2	4529-4533	each	_
 27-3	4534-4537	ROI	_
@@ -770,6 +797,7 @@
 27-9	4577-4586	conducted	_
 27-10	4587-4588	.	_
 
+Text=The time course was spatially averaged within the ROI that was registered to the EPI space so that correlations can be tested between the ROI and each individual voxel across the brain.
 28-1	4589-4592	The	_
 28-2	4593-4597	time	_
 28-3	4598-4604	course	_
@@ -804,6 +832,7 @@
 28-32	4768-4773	brain	_
 28-33	4774-4775	.	_
 
+Text=The Z-scores representing the correlations between the ROI and a voxel were used for group-level analysis after registration to the MNI 2-mm brain space.
 29-1	4776-4779	The	_
 29-2	4780-4788	Z-scores	_
 29-3	4789-4801	representing	_
@@ -830,6 +859,7 @@
 29-24	4923-4928	space	_
 29-25	4929-4930	.	_
 
+Text=The SZ and control groups were compared by randomise script in FSL.
 30-1	4931-4934	The	_
 30-2	4935-4937	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 30-3	4938-4941	and	_
@@ -844,6 +874,7 @@
 30-12	4994-4997	FSL	_
 30-13	4998-4999	.	_
 
+Text=Z-statistic images were estimated where clusters were determined by the statistical threshold of Z> 2.326 with a family-wise error-corrected cluster significance threshold, assuming a Gaussian random field for the Z-statistics.
 31-1	5000-5011	Z-statistic	_
 31-2	5012-5018	images	_
 31-3	5019-5023	were	_
@@ -878,6 +909,7 @@
 31-32	5216-5228	Z-statistics	_
 31-33	5229-5230	.	_
 
+Text=The peak voxels within a cluster were calculated by using voxelwise family-wise error corrected t test images.
 32-1	5231-5234	The	_
 32-2	5235-5239	peak	_
 32-3	5240-5246	voxels	_

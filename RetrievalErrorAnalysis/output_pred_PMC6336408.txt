@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Decreased brain connectivity in smoking contrasts with increased connectivity in drinking In a group of 831 participants from the general population in the Human Connectome Project, smokers exhibited low overall functional connectivity, and more specifically of the lateral orbitofrontal cortex which is associated with non-reward mechanisms, the adjacent inferior frontal gyrus, and the precuneus.
 1-1	0-9	Decreased	_
 1-2	10-15	brain	_
 1-3	16-28	connectivity	_
@@ -62,6 +63,7 @@
 1-58	392-401	precuneus	_
 1-59	402-403	.	_
 
+Text=Participants who drank a high amount had overall increases in resting state functional connectivity, and specific increases in reward-related systems including the medial orbitofrontal cortex and the cingulate cortex.
 2-1	404-416	Participants	_
 2-2	417-420	who	_
 2-3	421-426	drank	_
@@ -94,6 +96,7 @@
 2-30	615-621	cortex	_
 2-31	622-623	.	_
 
+Text=Increased impulsivity was found in smokers, associated with decreased functional connectivity of the non-reward-related lateral orbitofrontal cortex; and increased impulsivity was found in high amount drinkers, associated with increased functional connectivity of the reward-related medial orbitofrontal cortex.
 3-1	624-633	Increased	_
 3-2	634-645	impulsivity	_
 3-3	646-649	was	_
@@ -136,6 +139,7 @@
 3-40	931-937	cortex	_
 3-41	938-939	.	_
 
+Text=The main findings were cross-validated in an independent longitudinal dataset with 1176 participants, IMAGEN.
 4-1	940-943	The	_
 4-2	944-948	main	_
 4-3	949-957	findings	_
@@ -153,6 +157,7 @@
 4-15	1043-1049	IMAGEN	_
 4-16	1050-1051	.	_
 
+Text=Further, the functional connectivities in 14-year-old non-smokers (and also in female low-drinkers) were related to who would smoke or drink at age 19.
 5-1	1052-1059	Further	_
 5-2	1060-1061	,	_
 5-3	1062-1065	the	_
@@ -181,6 +186,7 @@
 5-26	1203-1205	19	_
 5-27	1206-1207	.	_
 
+Text=An implication is that these differences in brain functional connectivities play a role in smoking and drinking, together with other factors.
 6-1	1208-1210	An	_
 6-2	1211-1222	implication	_
 6-3	1223-1225	is	_
@@ -205,6 +211,7 @@
 6-22	1342-1349	factors	_
 6-23	1350-1351	.	_
 
+Text=eLife digest To understand why people become addicted to alcohol or smoking, it is important to look at how the brains of people who use these substances may be different than those who abstain.
 7-1	1352-1357	eLife	_
 7-2	1358-1364	digest	_
 7-3	1365-1367	To	_
@@ -242,6 +249,7 @@
 7-35	1539-1546	abstain	_
 7-36	1547-1548	.	_
 
+Text=Many studies show that substance use activates the reward systems in the brain via a chemical called dopamine.
 8-1	1549-1553	Many	_
 8-2	1554-1561	studies	_
 8-3	1562-1566	show	_
@@ -262,6 +270,7 @@
 8-18	1650-1658	dopamine	_
 8-19	1659-1660	.	_
 
+Text=Changes or differences in parts of the brain that control decision-making and restraint also have been implicated in substance use.
 9-1	1661-1668	Changes	_
 9-2	1669-1671	or	_
 9-3	1672-1683	differences	_
@@ -284,6 +293,7 @@
 9-20	1788-1791	use	_
 9-21	1792-1793	.	_
 
+Text=Functional magnetic resonance imaging (fMRI) is one tool scientists can use to explore such differences.
 10-1	1794-1804	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 10-2	1805-1813	magnetic	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 10-3	1814-1823	resonance	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -303,6 +313,7 @@
 10-17	1888-1899	differences	_
 10-18	1900-1901	.	_
 
+Text=It can measure how well different parts of the brain are communicating with each other by measuring their activity when a person is at rest.
 11-1	1902-1904	It	_
 11-2	1905-1908	can	_
 11-3	1909-1916	measure	_
@@ -330,6 +341,7 @@
 11-25	2037-2041	rest	_
 11-26	2042-2043	.	_
 
+Text=The patterns of activity reveal which parts of the brain are working closely together or have high functional connectivity and which parts are less well connected, or have low functional connectivity.
 12-1	2044-2047	The	_
 12-2	2048-2056	patterns	_
 12-3	2057-2059	of	_
@@ -364,6 +376,7 @@
 12-32	2232-2244	connectivity	_
 12-33	2245-2246	.	_
 
+Text=Cheng, Rolls et al.
 13-1	2247-2252	Cheng	_
 13-2	2253-2254	,	_
 13-3	2255-2260	Rolls	_
@@ -371,6 +384,7 @@
 13-5	2264-2266	al	_
 13-6	2267-2268	.	_
 
+Text=measured the functional connectivity between different parts of the brain in people who smoke and people who drink alcohol.
 14-1	2269-2277	measured	_
 14-2	2278-2281	the	_
 14-3	2282-2292	functional	_
@@ -392,6 +406,7 @@
 14-19	2384-2391	alcohol	_
 14-20	2392-2393	.	_
 
+Text=Smokers had a low overall functional connectivity between brain regions.
 15-1	2394-2401	Smokers	http://maven.renci.org/NeuroBridge/neurobridge#Person
 15-2	2402-2405	had	_
 15-3	2406-2407	a	_
@@ -404,6 +419,7 @@
 15-10	2458-2465	regions	_
 15-11	2466-2467	.	_
 
+Text=Specifically, they had weaker connections involving two brain regions that help people change or stop a behavior, the lateral orbitofrontal cortex and inferior frontal gyrus.
 16-1	2468-2480	Specifically	_
 16-2	2481-2482	,	_
 16-3	2483-2487	they	_
@@ -433,6 +449,7 @@
 16-27	2638-2643	gyrus	_
 16-28	2644-2645	.	_
 
+Text=These differences may make people more impulsive and less able to resist smoking.
 17-1	2646-2651	These	_
 17-2	2652-2663	differences	_
 17-3	2664-2667	may	_
@@ -448,6 +465,7 @@
 17-13	2719-2726	smoking	_
 17-14	2727-2728	.	_
 
+Text=The stimulating effects of nicotine may enhance communication between different parts of the brain, so people also may use it to overcome some underlying communication deficits.
 18-1	2729-2732	The	_
 18-2	2733-2744	stimulating	_
 18-3	2745-2752	effects	_
@@ -477,6 +495,7 @@
 18-27	2898-2906	deficits	_
 18-28	2907-2908	.	_
 
+Text=Those who drink alcohol had high overall functional connectivity.
 19-1	2909-2914	Those	_
 19-2	2915-2918	who	_
 19-3	2919-2924	drink	_
@@ -488,6 +507,7 @@
 19-9	2961-2973	connectivity	_
 19-10	2974-2975	.	_
 
+Text=Reward-related systems, including the medial orbitofrontal cortex and the cingulate cortex, were especially strongly connected.
 20-1	2976-2990	Reward-related	_
 20-2	2991-2998	systems	_
 20-3	2999-3000	,	_
@@ -507,6 +527,7 @@
 20-17	3095-3104	connected	_
 20-18	3105-3106	.	_
 
+Text=This may make them more sensitive to the rewarding aspects of drinking, or more impulsive.
 21-1	3107-3111	This	_
 21-2	3112-3115	may	_
 21-3	3116-3120	make	_
@@ -525,6 +546,7 @@
 21-16	3188-3197	impulsive	_
 21-17	3198-3199	.	_
 
+Text=To confirm their results, Cheng, Rolls et al.
 22-1	3200-3202	To	_
 22-2	3203-3210	confirm	_
 22-3	3211-3216	their	_
@@ -537,6 +559,7 @@
 22-10	3244-3246	al	_
 22-11	3247-3248	.	_
 
+Text=analyzed fMRI data from another study.
 23-1	3249-3257	analyzed	_
 23-2	3258-3262	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 23-3	3263-3267	data	_
@@ -545,6 +568,7 @@
 23-6	3281-3286	study	_
 23-7	3287-3288	.	_
 
+Text=These showed that the characteristic differences in brain connectivity were already present in 14-year olds who would go on to drink or smoke at age 19.
 24-1	3289-3294	These	_
 24-2	3295-3301	showed	_
 24-3	3302-3306	that	_
@@ -573,6 +597,7 @@
 24-26	3438-3440	19	_
 24-27	3441-3442	.	_
 
+Text=This suggests that these functional connectivity differences in the brain make people more likely to smoke or drink.
 25-1	3443-3447	This	_
 25-2	3448-3456	suggests	_
 25-3	3457-3461	that	_
@@ -593,6 +618,7 @@
 25-18	3553-3558	drink	_
 25-19	3559-3560	.	_
 
+Text=Materials and methods Participants and data preprocessing The dataset used for this investigation was selected from the November 2015 public data release from the Human Connectome Project (HCP, N = 900), WU-Minn Consortium.
 26-1	3561-3570	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 26-2	3571-3574	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 26-3	3575-3582	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -632,6 +658,7 @@
 26-37	3777-3787	Consortium	_
 26-38	3788-3789	.	_
 
+Text=Our sample includes 831 subjects (ages 22–35 years, 463 females) scanned on a 3 T Siemens connectome-Skyra scanner.
 27-1	3790-3793	Our	_
 27-2	3794-3800	sample	_
 27-3	3801-3809	includes	_
@@ -655,6 +682,7 @@
 27-21	3900-3907	scanner	http://maven.renci.org/NeuroBridge/neurobridge#ConnersRatingScaleRevised
 27-22	3908-3909	.	_
 
+Text=The HCP consortium is a public shared large-scale neuroimaging dataset which aims to map macroscopic human brain circuits and their relationship to behavior in a large population of healthy adults and which has been widely used in neuroimaging studies.
 28-1	3910-3913	The	_
 28-2	3914-3917	HCP	_
 28-3	3918-3928	consortium	_
@@ -696,6 +724,7 @@
 28-39	4154-4161	studies	_
 28-40	4162-4163	.	_
 
+Text=The sibships with individual having severe neurodevelopmental disorders, neuropsychiatric disorders or neurologic disorders were excluded, but individuals who are smokers, are overweight, or have a history of heavy drinking or recreational drug use without having experienced severe symptoms were included in HCP consortium.
 29-1	4164-4167	The	_
 29-2	4168-4176	sibships	_
 29-3	4177-4181	with	_
@@ -745,6 +774,7 @@
 29-47	4481-4491	consortium	_
 29-48	4492-4493	.	_
 
+Text=The details on the inclusion and exclusion criteria of HCP consortium were provided in the previous studies and the HCP website (https: //www.humanconnectome.org/).
 30-1	4494-4497	The	_
 30-2	4498-4505	details	_
 30-3	4506-4508	on	_
@@ -773,6 +803,7 @@
 30-26	4659-4660	)	_
 30-27	4661-4662	.	_
 
+Text=It should be noted that the HCP dataset was not specifically designed for the study of substance use, but it is useful for investigating the impact of alcohol and cigarette use in a community sample.
 31-1	4663-4665	It	_
 31-2	4666-4672	should	_
 31-3	4673-4675	be	_
@@ -811,6 +842,7 @@
 31-36	4856-4862	sample	_
 31-37	4863-4864	.	_
 
+Text=Two resting state fMRI acquisitions on different days were used.
 32-1	4865-4868	Two	_
 32-2	4869-4876	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 32-3	4877-4882	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -823,6 +855,7 @@
 32-10	4924-4928	used	_
 32-11	4929-4930	.	_
 
+Text=The four resting-state runs of approximately 15 min each were acquired in separate sessions on two different days, with eyes open with relaxed fixation on a projected bright cross-hair on a dark background.
 33-1	4931-4934	The	_
 33-2	4935-4939	four	_
 33-3	4940-4953	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -859,6 +892,7 @@
 33-34	5127-5137	background	_
 33-35	5138-5139	.	_
 
+Text=The WU-Minn HCP Consortium obtained full informed consent from all participants, and research procedures and ethical guidelines were followed in accordance with the Washington University Institutional Review Boards (IRB #201204036; Title: ‘ Mapping the Human Connectome: Structure, Function, and Heritability ’).
 34-1	5140-5143	The	_
 34-2	5144-5151	WU-Minn	_
 34-3	5152-5155	HCP	_
@@ -911,6 +945,7 @@
 34-50	5459-5460	)	_
 34-51	5461-5462	.	_
 
+Text=The demographic characteristics of participants are summarized in Table 2.
 35-1	5463-5466	The	_
 35-2	5467-5478	demographic	_
 35-3	5479-5494	characteristics	_
@@ -923,6 +958,7 @@
 35-10	5535-5536	2	_
 35-11	5537-5538	.	_
 
+Text=More details of subjects are provided in the Supplementary Material and the collection and preprocessing of the data are provided at the HCP website (http: //www.humanconnectome.org/).
 36-1	5539-5543	More	_
 36-2	5544-5551	details	_
 36-3	5552-5554	of	_
@@ -954,6 +990,7 @@
 36-29	5724-5725	)	_
 36-30	5726-5727	.	_
 
+Text=We obtained minimally preprocessed R-fMRI data conducted using the HCP Functional Pipeline v2.0 involving gradient distortion correction, head motion correction, image distortion correction and spatial transformation to the Montreal Neurological Institute (MNI) space using one step spline resampling from the original functional images followed by then intensity normalization.
 37-1	5728-5730	We	_
 37-2	5731-5739	obtained	_
 37-3	5740-5749	minimally	_
@@ -1008,6 +1045,7 @@
 37-52	6096-6109	normalization	_
 37-53	6110-6111	.	_
 
+Text=In this study, these minimally preprocessed images were further analyzed using FSL and AFNI.
 38-1	6112-6114	In	_
 38-2	6115-6119	this	_
 38-3	6120-6125	study	_
@@ -1025,6 +1063,7 @@
 38-15	6200-6204	AFNI	_
 38-16	6205-6206	.	_
 
+Text=Briefly, first the constant, linear and quadratic trend were removed from these functional images.
 39-1	6207-6214	Briefly	_
 39-2	6215-6216	,	_
 39-3	6217-6222	first	_
@@ -1043,6 +1082,7 @@
 39-16	6300-6306	images	_
 39-17	6307-6308	.	_
 
+Text=Next, several nuisance signals were regressed from the time course of each voxel using multiple linear regression, including cerebrospinal fluid signal, white matter signal, and Friston ’ s 24 head motion parameters.
 40-1	6309-6313	Next	_
 40-2	6314-6315	,	_
 40-3	6316-6323	several	_
@@ -1081,6 +1121,7 @@
 40-36	6518-6528	parameters	_
 40-37	6529-6530	.	_
 
+Text=Then, temporal band-pass filtering (0.01-0.1 Hz) was performed to reduce the influence of low-frequency drift and the high-frequency physiological noise.
 41-1	6531-6535	Then	_
 41-2	6536-6537	,	_
 41-3	6538-6546	temporal	_
@@ -1106,6 +1147,7 @@
 41-23	6681-6686	noise	_
 41-24	6687-6688	.	_
 
+Text=Finally, 3D spatial smoothing is applied to each volume of the fMRI data using a Gaussian kernel with Full-width at Half Maximum (FWHM) equaling to 4 mm.
 42-1	6689-6696	Finally	_
 42-2	6697-6698	,	_
 42-3	6699-6701	3D	_
@@ -1138,6 +1180,7 @@
 42-30	6842-6844	mm	_
 42-31	6845-6846	.	_
 
+Text=The first 50 volumes were discarded to suppress equilibration effects and participants without the full 1200 time points in four resting-state runs were also removed from the following analysis.
 43-1	6847-6850	The	_
 43-2	6851-6856	first	_
 43-3	6857-6859	50	_
@@ -1169,6 +1212,7 @@
 43-29	7032-7040	analysis	_
 43-30	7041-7042	.	_
 
+Text=Any data affected by head motion (mean framewise displacement larger than 0.3 mm) were excluded using the protocol of.
 44-1	7043-7046	Any	_
 44-2	7047-7051	data	_
 44-3	7052-7060	affected	_
@@ -1192,6 +1236,7 @@
 44-21	7160-7162	of	_
 44-22	7163-7164	.	_
 
+Text=The resulting time courses were used for the construction and analysis of the brain network.
 45-1	7165-7168	The	_
 45-2	7169-7178	resulting	_
 45-3	7179-7183	time	_
@@ -1209,6 +1254,7 @@
 45-15	7249-7256	network	_
 45-16	7257-7258	.	_
 
+Text=We also compared the findings based on the pipeline described above and elsewhere with alternative pipelines for data preprocessing including the HCP minimal preprocessing pipeline, and our pipeline but with global signal removal.
 46-1	7259-7261	We	_
 46-2	7262-7266	also	_
 46-3	7267-7275	compared	_
@@ -1245,6 +1291,7 @@
 46-34	7482-7489	removal	_
 46-35	7490-7491	.	_
 
+Text=More details on the effect of the preprocessing pipelines are shown in the Supplementary Material (Figure 1—figure supplements 1).
 47-1	7492-7496	More	_
 47-2	7497-7504	details	_
 47-3	7505-7507	on	_
@@ -1268,6 +1315,7 @@
 47-21	7622-7623	)	_
 47-22	7624-7625	.	_
 
+Text=Construction of the whole-brain functional network After preprocessing, the whole brain (gray matter) was parcellated into 94 regions of interest (ROI) according to the automated anatomical labeling (AAL2) atlas (47 regions in each hemisphere), and the time series were extracted in each ROI by averaging the signals of all voxels within that region.
 48-1	7626-7638	Construction	_
 48-2	7639-7641	of	_
 48-3	7642-7645	the	_
@@ -1333,6 +1381,7 @@
 48-63	7979-7985	region	_
 48-64	7986-7987	.	_
 
+Text=The names of the ROIs and their corresponding abbreviations are listed in Supplementary file 1.
 49-1	7988-7991	The	_
 49-2	7992-7997	names	_
 49-3	7998-8000	of	_
@@ -1350,6 +1399,7 @@
 49-15	8081-8082	1	_
 49-16	8083-8084	.	_
 
+Text=(This is a standard parcellation scheme, which provides a usable number of different divisions for statistical purposes when differences between regions are being investigated, and includes a useful parcellation of the orbitofrontal cortex .).
 50-1	8085-8086	(	_
 50-2	8087-8091	This	_
 50-3	8092-8094	is	_
@@ -1390,6 +1440,7 @@
 50-38	8330-8331	)	_
 50-39	8332-8333	.	_
 
+Text=For comparison, we also provide the results (Figure 1—figure supplement 2) based on another atlas which has also been validated in resting state fMRI studies, although its parcellation of the orbitofrontal cortex is less good than the AAL2 atlas.
 51-1	8334-8337	For	_
 51-2	8338-8348	comparison	_
 51-3	8349-8350	,	_
@@ -1435,6 +1486,7 @@
 51-43	8578-8583	atlas	_
 51-44	8584-8585	.	_
 
+Text=The Pearson cross-correlations between all pairs of regional BOLD signals were calculated for each subject followed by z-transformation to improve normality, and the whole-brain functional connectivity network (94 × 94 region-based network with 4371 links) was constructed.
 52-1	8586-8589	The	_
 52-2	8590-8597	Pearson	_
 52-3	8598-8616	cross-correlations	_
@@ -1477,6 +1529,7 @@
 52-40	8850-8861	constructed	_
 52-41	8862-8863	.	_
 
+Text=Finally, the mean functional connectivity across two scans (each scan containing left to right and right to left phase encoding directions) was used for the following analysis to provide a more reliable estimation of functional connectivity.
 53-1	8864-8871	Finally	_
 53-2	8872-8873	,	_
 53-3	8874-8877	the	_
@@ -1518,6 +1571,7 @@
 53-39	9095-9107	connectivity	_
 53-40	9108-9109	.	_
 
+Text=The correlation of the functional connectivities was high between the two different scans as shown in the Supplementary Material (Figure 1—figure supplement 3).
 54-1	9110-9113	The	_
 54-2	9114-9125	correlation	_
 54-3	9126-9128	of	_
@@ -1545,6 +1599,7 @@
 54-25	9270-9271	)	_
 54-26	9272-9273	.	_
 
+Text=Categorization of participants into groups The following factors were considered in choosing the measures to define the groups.
 55-1	9274-9288	Categorization	_
 55-2	9289-9291	of	_
 55-3	9292-9304	participants	_
@@ -1565,6 +1620,7 @@
 55-18	9394-9400	groups	_
 55-19	9401-9402	.	_
 
+Text=The main purpose of the current study was to investigate whether there were differences in functional connectivity that were related to smoking or drinking.
 56-1	9403-9406	The	_
 56-2	9407-9411	main	_
 56-3	9412-9419	purpose	_
@@ -1591,6 +1647,7 @@
 56-24	9550-9558	drinking	_
 56-25	9559-9560	.	_
 
+Text=Accordingly, in the initial analysis, we categorized the participants for the smoking analysis into two groups, one which used significant amounts of cigarettes, and the other using no or low amounts of cigarettes.
 57-1	9561-9572	Accordingly	_
 57-2	9573-9574	,	_
 57-3	9575-9577	in	_
@@ -1630,6 +1687,7 @@
 57-37	9768-9778	cigarettes	_
 57-38	9779-9780	.	_
 
+Text=The same was performed for the division into two groups with respect to the amount of alcohol drunk.
 58-1	9781-9784	The	_
 58-2	9785-9789	same	_
 58-3	9790-9793	was	_
@@ -1650,6 +1708,7 @@
 58-18	9875-9880	drunk	_
 58-19	9881-9882	.	_
 
+Text=In making the cutoff, we ensured that there were reasonable numbers of participants in the high and the low amount groups.
 59-1	9883-9885	In	_
 59-2	9886-9892	making	_
 59-3	9893-9896	the	_
@@ -1674,6 +1733,7 @@
 59-22	9999-10005	groups	_
 59-23	10006-10007	.	_
 
+Text=After the initial analysis, we wished to investigate the effect of the different amounts of use of cigarettes or alcohol, and therefore used measures of the different amounts of drinking of each participant, and the number of times each participant had smoked, as described in the results section (Figures 5 and 6).
 60-1	10008-10013	After	_
 60-2	10014-10017	the	_
 60-3	10018-10025	initial	_
@@ -1734,6 +1794,7 @@
 60-58	10327-10328	)	_
 60-59	10329-10330	.	_
 
+Text=Accordingly, to investigate smoking-associated functional connectivity, we divided all participants into three groups according to their smoking history (SSAGA_TB_Smoking_History), that is non-smokers (417 participants), occasional smokers (161 participants) and regular smokers (203 participants).
 61-1	10331-10342	Accordingly	_
 61-2	10343-10344	,	_
 61-3	10345-10347	to	_
@@ -1781,6 +1842,7 @@
 61-45	10639-10640	)	_
 61-46	10641-10642	.	_
 
+Text=The non-smoker group contained participants who had never smoked during their lifetime.
 62-1	10643-10646	The	_
 62-2	10647-10657	non-smoker	http://maven.renci.org/NeuroBridge/neurobridge#ReproductiveDisease
 62-3	10658-10663	group	_
@@ -1795,6 +1857,7 @@
 62-12	10721-10729	lifetime	_
 62-13	10730-10731	.	_
 
+Text=The occasional smoker group contained participants who experimented with cigarettes at least once in their lifetime but never became a regular smoker.
 63-1	10732-10735	The	_
 63-2	10736-10746	occasional	_
 63-3	10747-10753	smoker	_
@@ -1819,6 +1882,7 @@
 63-22	10875-10881	smoker	_
 63-23	10882-10883	.	_
 
+Text=The regular smoker group included those who smoked at least 100 cigarettes in his or her lifetime and smoked at least one day per week when they were smoking regularly.
 64-1	10884-10887	The	_
 64-2	10888-10895	regular	_
 64-3	10896-10902	smoker	_
@@ -1851,6 +1915,7 @@
 64-30	11042-11051	regularly	_
 64-31	11052-11053	.	_
 
+Text=(A score of 3 indicates a regular smoker; of 1 and 2 indicates an occasional smoker, and 0 a non-smoker.)
 65-1	11054-11055	(	_
 65-2	11056-11057	A	_
 65-3	11058-11063	score	_
@@ -1877,6 +1942,7 @@
 65-24	11161-11162	.	_
 65-25	11163-11164	)	_
 
+Text=In the main analyses described in this paper to investigate whether there was an effect of smoking, two of these groups were used, the non-smoker and regular smoker groups.
 66-1	11165-11167	In	_
 66-2	11168-11171	the	_
 66-3	11172-11176	main	_
@@ -1910,6 +1976,7 @@
 66-31	11332-11338	groups	_
 66-32	11339-11340	.	_
 
+Text=The third group was helpful in further analyses to investigate effects of the amount of smoking (Figure 5).
 67-1	11341-11344	The	_
 67-2	11345-11350	third	_
 67-3	11351-11356	group	_
@@ -1932,6 +1999,7 @@
 67-20	11448-11449	)	_
 67-21	11450-11451	.	_
 
+Text=To investigate drinking-associated functional connectivities, we divided all participants into two groups.
 68-1	11452-11454	To	_
 68-2	11455-11466	investigate	_
 68-3	11467-11486	drinking-associated	_
@@ -1947,6 +2015,7 @@
 68-13	11552-11558	groups	_
 68-14	11559-11560	.	_
 
+Text=A Low Amount (LA) group with 311 participants drank one or fewer drinks per drinking day in the past 12 months.
 69-1	11561-11562	A	_
 69-2	11563-11566	Low	_
 69-3	11567-11573	Amount	_
@@ -1972,6 +2041,7 @@
 69-23	11667-11673	months	_
 69-24	11674-11675	.	_
 
+Text=A High Amount (HA) group with 470 participants drank two or more drinks per drinking day in the past 12 months.
 70-1	11676-11677	A	_
 70-2	11678-11682	High	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 70-3	11683-11689	Amount	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
@@ -1997,6 +2067,7 @@
 70-23	11782-11788	months	_
 70-24	11789-11790	.	_
 
+Text=(The descriptor was SSAGA_Alc_12_Drinks_Per_Day, and this division into two groups was made to help comparison with the initial analysis for smokers, which also used two groups.)
 71-1	11791-11792	(	_
 71-2	11793-11796	The	_
 71-3	11797-11807	descriptor	_
@@ -2029,6 +2100,7 @@
 71-30	11971-11972	.	_
 71-31	11973-11974	)	_
 
+Text=It should be noted that the ‘ amount ’ of drinking in the current study refers to the amount of drinks per drinking day (and not for example to the total number of drinks in the past 12 months).
 72-1	11975-11977	It	_
 72-2	11978-11984	should	_
 72-3	11985-11987	be	_
@@ -2072,6 +2144,7 @@
 72-41	12169-12170	)	_
 72-42	12171-12172	.	_
 
+Text=The rationale for the use of this measure is provided in the Discussion section, and a complementary analysis showed that there was a good correlation between the association pattern of the functional connectivities when the measures were the 'total drinks' and the 'drinks per drinking day' (r = 0.72, p <1 × 10−10).
 73-1	12173-12176	The	_
 73-2	12177-12186	rationale	_
 73-3	12187-12190	for	_
@@ -2134,6 +2207,7 @@
 73-60	12495-12496	)	_
 73-61	12497-12498	.	_
 
+Text=In order to compare the results for smoking and drinking, only participants with information about both drinking and smoking behavior were included.
 74-1	12499-12501	In	_
 74-2	12502-12507	order	_
 74-3	12508-12510	to	_
@@ -2159,6 +2233,7 @@
 74-23	12639-12647	included	_
 74-24	12648-12649	.	_
 
+Text=The demographic characteristics of the participants in each group are summarized in Table 2.
 75-1	12650-12653	The	_
 75-2	12654-12665	demographic	_
 75-3	12666-12681	characteristics	_
@@ -2175,6 +2250,7 @@
 75-14	12740-12741	2	_
 75-15	12742-12743	.	_
 
+Text=Statistical analysis In order to investigate the relationship between functional connectivity (FC) and smoking, two sample two-tailed t tests were used to test whether smoking was associated with functional connectivity after removing the confounding effects of age, gender, years of education, race, handedness, head motion (mean framewise displacement, FD), BMI, blood pressure (diastolic and systolic), total gray matter volume, total white matter volume, drinking, and marijuana use.
 76-1	12744-12755	Statistical	_
 76-2	12756-12764	analysis	_
 76-3	12765-12767	In	_
@@ -2263,6 +2339,7 @@
 76-86	13246-13249	use	_
 76-87	13250-13251	.	_
 
+Text=Considering the purpose of this study described above and the sample size in each sub-group, we used a two sample t-test rather than a 2 × 2 ANOVA.
 77-1	13252-13263	Considering	_
 77-2	13264-13267	the	_
 77-3	13268-13275	purpose	_
@@ -2294,6 +2371,7 @@
 77-29	13394-13399	ANOVA	_
 77-30	13400-13401	.	_
 
+Text=Then a Storey's FDR procedure was used to correct for multiple comparisons.
 78-1	13402-13406	Then	_
 78-2	13407-13408	a	_
 78-3	13409-13415	Storey	_
@@ -2309,6 +2387,7 @@
 78-13	13466-13477	comparisons	_
 78-14	13478-13479	.	_
 
+Text=Storey ’ s FDR is a modification of FDR, also called positive False Discovery Rate (pFDR) by conditioning on one false positive finding having occurred.
 79-1	13480-13486	Storey	_
 79-2	13487-13488	’	_
 79-3	13489-13490	s	_
@@ -2339,6 +2418,7 @@
 79-28	13626-13634	occurred	_
 79-29	13635-13636	.	_
 
+Text=The Storey's FDR method was implemented by the Matlab function mafdr.m with default parameters.
 80-1	13637-13640	The	_
 80-2	13641-13647	Storey	_
 80-3	13648-13650	's	_
@@ -2356,6 +2436,7 @@
 80-15	13722-13732	parameters	_
 80-16	13733-13734	.	_
 
+Text=In the present study FDR correction for the functional connectivity between any pair of AAL2 regions was used, and the results for smoking are presented based on this statistical test with FDR p <0.005.
 81-1	13735-13737	In	_
 81-2	13738-13741	the	_
 81-3	13742-13749	present	_
@@ -2394,6 +2475,7 @@
 81-36	13933-13938	0.005	_
 81-37	13939-13940	.	_
 
+Text=We then performed the same statistical analysis on the high drinking and low drinking groups with the FDR correction at p <0.05.
 82-1	13941-13943	We	_
 82-2	13944-13948	then	_
 82-3	13949-13958	performed	_
@@ -2419,6 +2501,7 @@
 82-23	14065-14069	0.05	_
 82-24	14070-14071	.	_
 
+Text=The effects of any use of the other substance was always removed by regression when we performed the analysis on the use of one of the substances.
 83-1	14072-14075	The	_
 83-2	14076-14083	effects	_
 83-3	14084-14086	of	_
@@ -2448,6 +2531,7 @@
 83-27	14207-14217	substances	_
 83-28	14218-14219	.	_
 
+Text=For the effect of the most recent drink/cigarette use, a correlation analysis confirmed that the association pattern was highly consistent in the cases with and without the covariates of the total drinks and total times smoked in the past 7 days (r = 0.957 for smoking and r = 0.927 for drinking).
 84-1	14220-14223	For	_
 84-2	14224-14227	the	_
 84-3	14228-14234	effect	_
@@ -2505,6 +2589,7 @@
 84-55	14518-14519	)	_
 84-56	14520-14521	.	_
 
+Text=This provides evidence that it is whether one is a smoker or drinker that is relevant to the results described in this paper, and not just the most recent drug use.
 85-1	14522-14526	This	_
 85-2	14527-14535	provides	_
 85-3	14536-14544	evidence	_
@@ -2539,6 +2624,7 @@
 85-32	14683-14686	use	_
 85-33	14687-14688	.	_
 
+Text=Correlation of functional connectivity differences for substances with extent of use and a measure of impulsivity We explored the relationship between the functional connectivity links identified above as different in substance use groups with behavioral measures (i.e.
 86-1	14689-14700	Correlation	_
 86-2	14701-14703	of	_
 86-3	14704-14714	functional	_
@@ -2579,6 +2665,7 @@
 86-38	14955-14958	i.e	_
 86-39	14959-14960	.	_
 
+Text=drinks per drinking day in the past 12 months and the amount of smoking).
 87-1	14961-14967	drinks	_
 87-2	14968-14971	per	_
 87-3	14972-14980	drinking	_
@@ -2596,6 +2683,7 @@
 87-15	15033-15034	)	_
 87-16	15035-15036	.	_
 
+Text=Specifically, a partial correlation analysis was used to measure the correlation between the identified functional connectivity and these behavioral measures with removal of the confounding variables of age, gender, years of education, race, handedness, head motion (mean FD), BMI, blood pressure (diastolic and systolic), total gray matter volume, total white matter volume and use of the other substance.
 88-1	15037-15049	Specifically	_
 88-2	15050-15051	,	_
 88-3	15052-15053	a	_
@@ -2670,6 +2758,7 @@
 88-72	15447-15456	substance	_
 88-73	15457-15458	.	_
 
+Text=We also investigated the relationship between the functional connectivity links identified above as different in substance use groups and behavioral scores related to self-regulation and impulsivity.
 89-1	15459-15461	We	_
 89-2	15462-15466	also	_
 89-3	15467-15479	investigated	_
@@ -2698,6 +2787,7 @@
 89-26	15646-15657	impulsivity	_
 89-27	15658-15659	.	_
 
+Text=We performed a partial correlation of the delay discounting score with the amount of drinking per drinking day and the amount of smoking respectively.
 90-1	15660-15662	We	_
 90-2	15663-15672	performed	_
 90-3	15673-15674	a	_
@@ -2724,6 +2814,7 @@
 90-24	15797-15809	respectively	_
 90-25	15810-15811	.	_
 
+Text=The score of self-regulation and impulsivity was based on the delay discounting task which measures the undervaluing of rewards delayed in time.
 91-1	15812-15815	The	_
 91-2	15816-15821	score	_
 91-3	15822-15824	of	_
@@ -2748,6 +2839,7 @@
 91-22	15951-15955	time	_
 91-23	15956-15957	.	_
 
+Text=We used an area-under-the-curve discounting measure (AUC) that provides a valid and reliable index of how steeply an individual discounts delayed rewards.
 92-1	15958-15960	We	_
 92-2	15961-15965	used	_
 92-3	15966-15968	an	_
@@ -2774,6 +2866,7 @@
 92-24	16106-16113	rewards	_
 92-25	16114-16115	.	_
 
+Text=Specifically, we calculated the canonical correlation between the area under the curve for discounting of $200 and $40,000 (DDisc_AUC_200 and DDisc_AUC_40K) with the strength of associated functional connectivities for drinking and smoking respectively, after removing the effects of age, gender, years of education, race, handedness, head motion (mean FD), BMI, blood pressure (diastolic and systolic) total gray matter volume, total white matter volume and use of the other two substances.
 93-1	16116-16128	Specifically	_
 93-2	16129-16130	,	_
 93-3	16131-16133	we	_
@@ -2864,6 +2957,7 @@
 93-88	16614-16624	substances	_
 93-89	16625-16626	.	_
 
+Text=Cross-validation with the IMAGEN dataset We used another separate large longitudinal fMRI dataset (the IMAGEN dataset) which included 1176 participants to test whether the findings based on the HCP dataset could be cross-validated with an independent dataset, which would considerably strengthen the findings.
 94-1	16627-16643	Cross-validation	_
 94-2	16644-16648	with	_
 94-3	16649-16652	the	_
@@ -2912,6 +3006,7 @@
 94-46	16930-16938	findings	_
 94-47	16939-16940	.	_
 
+Text=This dataset also enabled examination of whether functional connectivity at age 14 when participants neither smoke nor drank was associated with who would become drinkers or smokers at age 19.
 95-1	16941-16945	This	_
 95-2	16946-16953	dataset	_
 95-3	16954-16958	also	_
@@ -2944,6 +3039,7 @@
 95-30	17130-17132	19	_
 95-31	17133-17134	.	_
 
+Text=This potentially thus provides a way to investigate whether differences between individuals that were not caused by smoking and drinking (as there was little smoking and drinking when the participants were 14) might lead to smoking or drinking by the time that the participants were 19.
 96-1	17135-17139	This	_
 96-2	17140-17151	potentially	_
 96-3	17152-17156	thus	_
@@ -2994,6 +3090,7 @@
 96-48	17420-17422	19	_
 96-49	17423-17424	.	_
 
+Text=The IMAGEN dataset also enabled investigation of gender differences in the behaviors that may be predictable from brain functional connectivity in this important period of development.
 97-1	17425-17428	The	_
 97-2	17429-17435	IMAGEN	_
 97-3	17436-17443	dataset	_
@@ -3022,6 +3119,7 @@
 97-26	17597-17608	development	_
 97-27	17609-17610	.	_
 
+Text=The details of demographic characteristics of participants from the IMAGEN dataset are presented in Supplementary file 2.
 98-1	17611-17614	The	_
 98-2	17615-17622	details	_
 98-3	17623-17625	of	_
@@ -3041,6 +3139,7 @@
 98-17	17730-17731	2	_
 98-18	17732-17733	.	_
 
+Text=Participants IMAGEN adopted a longitudinal design to collect genetic, neuroimaging, environmental, and behavioural data in the UK and Europe, starting at age 14 years old with a sample 2087 healthy adolescents, and followed at ages 16 and 19 years.
 99-1	17734-17746	Participants	_
 99-2	17747-17753	IMAGEN	_
 99-3	17754-17761	adopted	_
@@ -3087,6 +3186,7 @@
 99-44	17981-17986	years	_
 99-45	17987-17988	.	_
 
+Text=The neuroimaging data were acquired at ages 14 and 19 years.
 100-1	17989-17992	The	_
 100-2	17993-18005	neuroimaging	_
 100-3	18006-18010	data	_
@@ -3100,6 +3200,7 @@
 100-11	18043-18048	years	_
 100-12	18049-18050	.	_
 
+Text=The demographic characteristics of participants who included resting state fMRI scans are summarized in Supplementary file 2.
 101-1	18051-18054	The	_
 101-2	18055-18066	demographic	_
 101-3	18067-18082	characteristics	_
@@ -3119,6 +3220,7 @@
 101-17	18174-18175	2	_
 101-18	18176-18177	.	_
 
+Text=IMAGEN 19: For the dataset at age 19, by using a similar criterion to define the sub-groups as in the HCP database, a Low Amount (LA) drinking group with 378 participants who drank two or fewer drinks per drinking day, and a High Amount (HA) drinking group with 566 participants who drank three or more drinks per drinking day, were identified.
 102-1	18178-18184	IMAGEN	_
 102-2	18185-18187	19	_
 102-3	18188-18189	:	_
@@ -3191,6 +3293,7 @@
 102-70	18520-18530	identified	_
 102-71	18531-18532	.	_
 
+Text=The small difference in the different definitions for the drinking groups for the HCP and IMAGEN samples is because they used different questionnaires.
 103-1	18533-18536	The	_
 103-2	18537-18542	small	_
 103-3	18543-18553	difference	_
@@ -3216,6 +3319,7 @@
 103-23	18669-18683	questionnaires	_
 103-24	18684-18685	.	_
 
+Text=We used the European School Survey Project on Alcohol and Other Drugs (ESPAD) to assess the lifetime drinking and smoking in the IMAGEN dataset.
 104-1	18686-18688	We	_
 104-2	18689-18693	used	_
 104-3	18694-18697	the	_
@@ -3244,6 +3348,7 @@
 104-26	18824-18831	dataset	_
 104-27	18832-18833	.	_
 
+Text=The measure of drinking in the IMAGEN dataset is as follows: “ How many drinks containing alcohol do you have on a typical day when you are drinking?
 105-1	18834-18837	The	_
 105-2	18838-18845	measure	_
 105-3	18846-18848	of	_
@@ -3275,6 +3380,7 @@
 105-29	18975-18983	drinking	_
 105-30	18984-18985	?	_
 
+Text=1: 1 or 2 2: 3 or 4 3: 5 or 6 4: 7 to 9 5: 10 or more ’ For comparison, the measure of drinking in the HCP dataset is: ‘ Drinks consumed per drinking day in past 12 months: 0, 1, 2, 3, 4, 5–6 = 5, 7+ = 6. ’ In fact, the control group for the HCP and IMAGEN datasets were similar, in that they had not drunk alcohol.
 106-1	18986-18987	1	_
 106-2	18988-18989	:	_
 106-3	18990-18991	1	_
@@ -3367,6 +3473,7 @@
 106-90	19309-19316	alcohol	_
 106-91	19317-19318	.	_
 
+Text=For the smoking dataset, a smoking group (regular smoker) was defined as those who smoked at least 100 cigarettes in his or her lifetime and smoked at least one day per week when they were smoking regularly (180 participants), and a non-smoking group (who had never smoked, 295 participants).
 107-1	19319-19322	For	_
 107-2	19323-19326	the	_
 107-3	19327-19334	smoking	_
@@ -3427,6 +3534,7 @@
 107-58	19618-19619	)	_
 107-59	19620-19621	.	_
 
+Text=IMAGEN 14: Since almost all participants did not take any cigarettes and alcohol at age 14, it was not suitable to assess the difference between smoking and non-smoking group (or low drinking and high drinking group).
 108-1	19622-19628	IMAGEN	_
 108-2	19629-19631	14	_
 108-3	19632-19633	:	_
@@ -3469,6 +3577,7 @@
 108-40	19841-19842	)	_
 108-41	19843-19844	.	_
 
+Text=However, this longitudinal data enabled us to investigate possible causal associations between substance use behaviors and functional connectivities.
 109-1	19845-19852	However	_
 109-2	19853-19854	,	_
 109-3	19855-19859	this	_
@@ -3490,6 +3599,7 @@
 109-19	19980-19994	connectivities	_
 109-20	19995-19996	.	_
 
+Text=Therefore, for the dataset at age 14, to investigate possible causal associations between drinking and functional connectivities, we focused only on the subjects who drank two or fewer drinks per drinking day.
 110-1	19997-20006	Therefore	_
 110-2	20007-20008	,	_
 110-3	20009-20012	for	_
@@ -3527,6 +3637,7 @@
 110-35	20205-20208	day	_
 110-36	20209-20210	.	_
 
+Text=(This was the great majority of participants.)
 111-1	20211-20212	(	_
 111-2	20213-20217	This	_
 111-3	20218-20221	was	_
@@ -3538,6 +3649,7 @@
 111-9	20257-20258	.	_
 111-10	20259-20260	)	_
 
+Text=We also divided all participants into two groups according to their drinking behavior at age 14 and 19.
 112-1	20261-20263	We	_
 112-2	20264-20268	also	_
 112-3	20269-20276	divided	_
@@ -3558,6 +3670,7 @@
 112-18	20361-20363	19	_
 112-19	20364-20365	.	_
 
+Text=Specifically, a Future Low Amount (FLA) group with 86 participants drank with two or fewer drinks per drinking day at both age 14 and 19.
 113-1	20366-20378	Specifically	_
 113-2	20379-20380	,	_
 113-3	20381-20382	a	_
@@ -3588,6 +3701,7 @@
 113-28	20503-20505	19	_
 113-29	20506-20507	.	_
 
+Text=A Future High Amount (FHA) group with 91 participants drank with three or more drinks per drinking day at age 19.
 114-1	20508-20509	A	_
 114-2	20510-20516	Future	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
 114-3	20517-20521	High	http://maven.renci.org/NeuroBridge/neurobridge#HighRisk
@@ -3613,6 +3727,7 @@
 114-23	20620-20622	19	_
 114-24	20623-20624	.	_
 
+Text=It should be noted that both of these groups drank two or fewer drinks per drinking day at age 14.
 115-1	20625-20627	It	_
 115-2	20628-20634	should	_
 115-3	20635-20637	be	_
@@ -3635,6 +3750,7 @@
 115-20	20720-20722	14	_
 115-21	20723-20724	.	_
 
+Text=Similarly to the above, for the analysis of smoking, we still focused on the participants who never smoked cigarettes at age 14: specifically, on a future non-smoking group with 56 participants who never smoked at both age 14 and 19; and a future regular smoking group with 19 participants who experienced smoking at age 19.
 116-1	20725-20734	Similarly	_
 116-2	20735-20737	to	_
 116-3	20738-20741	the	_
@@ -3697,6 +3813,7 @@
 116-60	21051-21053	19	_
 116-61	21054-21055	.	_
 
+Text=Then a two sample two-tailed t-test was used to assess the difference between the (F) LA group and (F) HA group and the smoking and non-smoking groups in the datasets at both the ages of 14 and 19 after removing the effect of gender, BMI, head motion (mean FD) and the use of the another substances use.
 117-1	21056-21060	Then	_
 117-2	21061-21062	a	_
 117-3	21063-21066	two	_
@@ -3764,6 +3881,7 @@
 117-65	21363-21366	use	_
 117-66	21367-21368	.	_
 
+Text=We also investigate the impulsivity of participants at age 14 by using the IMAGEN dataset.
 118-1	21369-21371	We	_
 118-2	21372-21376	also	_
 118-3	21377-21388	investigate	_
@@ -3781,6 +3899,7 @@
 118-15	21451-21458	dataset	_
 118-16	21459-21460	.	_
 
+Text=The impulsivity measure is based on the Substance Use Risk Profile Scale by using the sum of the following question scores: I often don't think things through before I speak.
 119-1	21461-21464	The	_
 119-2	21465-21476	impulsivity	_
 119-3	21477-21484	measure	_
@@ -3815,6 +3934,7 @@
 119-32	21631-21636	speak	_
 119-33	21637-21638	.	_
 
+Text=I often involve myself in situations that I later regret being involved in.
 120-1	21639-21640	I	_
 120-2	21641-21646	often	_
 120-3	21647-21654	involve	_
@@ -3830,6 +3950,7 @@
 120-13	21711-21713	in	_
 120-14	21714-21715	.	_
 
+Text=I usually act without stopping to think.
 121-1	21716-21717	I	_
 121-2	21718-21725	usually	_
 121-3	21726-21729	act	_
@@ -3839,6 +3960,7 @@
 121-7	21750-21755	think	_
 121-8	21756-21757	.	_
 
+Text=Generally, I am an impulsive person.
 122-1	21758-21767	Generally	_
 122-2	21768-21769	,	_
 122-3	21770-21771	I	_
@@ -3848,6 +3970,7 @@
 122-7	21788-21794	person	_
 122-8	21795-21796	.	_
 
+Text=I feel I have to be manipulative to get what I want.
 123-1	21797-21798	I	_
 123-2	21799-21803	feel	_
 123-3	21804-21805	I	_
@@ -3862,6 +3985,7 @@
 123-12	21844-21848	want	_
 123-13	21849-21850	.	_
 
+Text=Drinking and smoking behavior We used the European School Survey Project on Alcohol and Other Drugs (ESPAD) at ages 14 and 19 years to assess life time drinking and smoking.
 124-1	21851-21859	Drinking	_
 124-2	21860-21863	and	_
 124-3	21864-21871	smoking	_
@@ -3896,6 +4020,7 @@
 124-32	22018-22025	smoking	_
 124-33	22026-22027	.	_
 
+Text=The primary question of interest was regarding lifetime alcohol and cigarette use and the questionnaire were as follows: 1.
 125-1	22028-22031	The	_
 125-2	22032-22039	primary	_
 125-3	22040-22048	question	_
@@ -3918,6 +4043,7 @@
 125-20	22150-22151	1	_
 125-21	22152-22153	.	_
 
+Text=On how many occasions during your lifetime have you smoked cigarettes?
 126-1	22154-22156	On	_
 126-2	22157-22160	how	_
 126-3	22161-22165	many	_
@@ -3931,6 +4057,7 @@
 126-11	22213-22223	cigarettes	_
 126-12	22224-22225	?	_
 
+Text=0: 0 1: 1–2 2: 3–5 3: 6–9 4: 10–19 5: 20–39 6: 40 or mor 2.
 127-1	22226-22227	0	_
 127-2	22228-22229	:	_
 127-3	22230-22231	0	_
@@ -3957,6 +4084,7 @@
 127-24	22290-22291	2	_
 127-25	22292-22293	.	_
 
+Text=How frequently have you smoked cigarettes during the last 30 days?
 128-1	22294-22297	How	_
 128-2	22298-22308	frequently	_
 128-3	22309-22313	have	_
@@ -3970,6 +4098,7 @@
 128-11	22355-22359	days	_
 128-12	22360-22361	?	_
 
+Text=6: more than 20 cigarettes per day 999: non smoker 0: not at all 1: less than one cigarette per week 2: less than one cigarette per day 3: 1–5 cigarettes per day 4: 6–10 cigarettes per day 5: 11–20 cigarettes per day 3.
 129-1	22362-22363	6	_
 129-2	22364-22365	:	_
 129-3	22366-22370	more	_
@@ -4024,6 +4153,7 @@
 129-52	22587-22588	3	_
 129-53	22589-22590	.	_
 
+Text=How many drinks containing alcohol do you have on a typical day when you are drinking?
 130-1	22591-22594	How	_
 130-2	22595-22599	many	_
 130-3	22600-22606	drinks	_
@@ -4042,6 +4172,7 @@
 130-16	22668-22676	drinking	_
 130-17	22677-22678	?	_
 
+Text=1: 1 or 2 2: 3 or 4 3: 5 or 6 4: 7 to 9 5: 10 or more 4.
 131-1	22679-22680	1	_
 131-2	22681-22682	:	_
 131-3	22683-22684	1	_
@@ -4070,6 +4201,7 @@
 131-26	22738-22739	4	_
 131-27	22740-22741	.	_
 
+Text=On how many occasions over the last 12 months have you had any alcoholic beverage to drink?
 132-1	22742-22744	On	_
 132-2	22745-22748	how	_
 132-3	22749-22753	many	_
@@ -4089,6 +4221,7 @@
 132-17	22827-22832	drink	_
 132-18	22833-22834	?	_
 
+Text=0: 0 1: 1–2 2: 3–5 3: 6–9 4: 10–19 5: 20–39 6: 40 or more Imaging data preprocessing for the IMAGEN dataset Data preprocessing was performed using DPARSF (http: // restfmri.net) which is a toolbox based on the SPM8 software package.
 133-1	22835-22836	0	_
 133-2	22837-22838	:	_
 133-3	22839-22840	0	_
@@ -4143,6 +4276,7 @@
 133-52	23069-23076	package	_
 133-53	23077-23078	.	_
 
+Text=The first 10 EPI scans were discarded to suppress equilibration effects.
 134-1	23079-23082	The	_
 134-2	23083-23088	first	_
 134-3	23089-23091	10	_
@@ -4156,6 +4290,7 @@
 134-11	23143-23150	effects	_
 134-12	23151-23152	.	_
 
+Text=The remaining scans of each subject underwent slice timing correction by sinc interpolating volume slices, motion correction for volume to volume displacement, spatial normalization to standard Montreal Neurological Institute (MNI) space using affine transformation and nonlinear deformation with a voxel size of, followed by spatial smoothing (6 mm Full Width Half Maximum FWHM).
 135-1	23153-23156	The	_
 135-2	23157-23166	remaining	_
 135-3	23167-23172	scans	_
@@ -4218,6 +4353,7 @@
 135-60	23538-23539	)	_
 135-61	23540-23541	.	_
 
+Text=To remove the sources of spurious correlations present in resting-state BOLD data, all fMRI time-series underwent band-pass temporal filtering (0.01-0.1 Hz), nuisance signal removal from the ventricles, and deep white matter, and regressing out any effects of head motion using Friston ’ s 24 head motion parameters procedure.
 136-1	23542-23544	To	_
 136-2	23545-23551	remove	_
 136-3	23552-23555	the	_
@@ -4274,6 +4410,7 @@
 136-54	23864-23873	procedure	_
 136-55	23874-23875	.	_
 
+Text=Finally, subjects with the mean framewise displacement (FD) of head motion large than 0.3 were completely excluded from the analysis as it is likely that such high-level of movement would have had an influence on several volumes.
 137-1	23876-23883	Finally	_
 137-2	23884-23885	,	_
 137-3	23886-23894	subjects	_
@@ -4316,6 +4453,7 @@
 137-40	24100-24107	volumes	_
 137-41	24108-24109	.	_
 
+Text=Methodological notes Effect of the pipeline of data preprocessing A comparison between different pipelines of data preprocessing was performed, as follows.
 138-1	24110-24124	Methodological	_
 138-2	24125-24130	notes	_
 138-3	24131-24137	Effect	_
@@ -4340,6 +4478,7 @@
 138-22	24258-24265	follows	_
 138-23	24266-24267	.	_
 
+Text=1) The complete HCP pipeline.
 139-1	24268-24269	1	_
 139-2	24270-24271	)	_
 139-3	24272-24275	The	_
@@ -4348,6 +4487,7 @@
 139-6	24289-24297	pipeline	_
 139-7	24298-24299	.	_
 
+Text=Data pre-processing was carried out using FSL (FMRIB Software Library), FreeSurfer, and the Connectome Workbench software.
 140-1	24300-24304	Data	_
 140-2	24305-24319	pre-processing	_
 140-3	24320-24323	was	_
@@ -4370,6 +4510,7 @@
 140-20	24417-24425	software	_
 140-21	24426-24427	.	_
 
+Text=All the data preprocessing procedures were performed by the human connectome project (HCP) as described in.
 141-1	24428-24431	All	_
 141-2	24432-24435	the	_
 141-3	24436-24440	data	_
@@ -4390,6 +4531,7 @@
 141-18	24534-24536	in	_
 141-19	24537-24538	.	_
 
+Text=Briefly, the data preprocessing included correction for spatial and gradient distortions and head motion, intensity normalization and bias field removal, registration to the T1 weighted structural image, transformation to 2 mm Montreal Neurological Institute (MNI) space, and the FIX artefact removal procedure.
 142-1	24539-24546	Briefly	_
 142-2	24547-24548	,	_
 142-3	24549-24552	the	_
@@ -4441,6 +4583,7 @@
 142-49	24847-24856	procedure	_
 142-50	24857-24858	.	_
 
+Text=2) The HCP minimal preprocessing pipeline + other standard preprocessing procedures but without global signal removal.
 143-1	24859-24860	2	_
 143-2	24861-24862	)	_
 143-3	24863-24866	The	_
@@ -4460,6 +4603,7 @@
 143-17	24970-24977	removal	_
 143-18	24978-24979	.	_
 
+Text=The HCP minimal preprocessing pipeline was used for the HCP data set.
 144-1	24980-24983	The	_
 144-2	24984-24987	HCP	_
 144-3	24988-24995	minimal	_
@@ -4474,6 +4618,7 @@
 144-12	25045-25048	set	_
 144-13	25049-25050	.	_
 
+Text=This pipeline includes artifact removal, motion correction and registration to standard space.
 145-1	25051-25055	This	_
 145-2	25056-25064	pipeline	_
 145-3	25065-25073	includes	_
@@ -4489,6 +4634,7 @@
 145-13	25140-25145	space	_
 145-14	25146-25147	.	_
 
+Text=Then standard preprocessing procedures were applied to the fMRI data: first the linear trend and quadratic term were removed from these functional images; several nuisance signals were regressed from the time course of each voxel using multiple linear regression, including cerebrospinal fluid, white matter and head motion parameters; finally, temporal band-pass filtering (0.09–0.1 Hz) was performed to reduce the influence of low-frequency drift and the high-frequency physiological noise.
 146-1	25148-25152	Then	_
 146-2	25153-25161	standard	_
 146-3	25162-25175	preprocessing	_
@@ -4567,6 +4713,7 @@
 146-76	25642-25647	noise	_
 146-77	25648-25649	.	_
 
+Text=This pipeline has been widely used in previous studies based on the HCP dataset and our paper also focuses on the results based on this pipeline.
 147-1	25650-25654	This	_
 147-2	25655-25663	pipeline	_
 147-3	25664-25667	has	_
@@ -4595,6 +4742,7 @@
 147-26	25786-25794	pipeline	_
 147-27	25795-25796	.	_
 
+Text=3) The HCP minimal preprocessing pipeline + other standard preprocessing procedures and with global signal removal.
 148-1	25797-25798	3	_
 148-2	25799-25800	)	_
 148-3	25801-25804	The	_
@@ -4614,6 +4762,7 @@
 148-17	25905-25912	removal	_
 148-18	25913-25914	.	_
 
+Text=Same as pipeline two but with the global signal removal.
 149-1	25915-25919	Same	_
 149-2	25920-25922	as	_
 149-3	25923-25931	pipeline	_

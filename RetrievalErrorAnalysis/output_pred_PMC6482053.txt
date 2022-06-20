@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Impaired prefrontal functional connectivity associated with working memory task performance and disorganization despite intact activations in schizophrenia.
 1-1	0-8	Impaired	_
 1-2	9-19	prefrontal	_
 1-3	20-30	functional	_
@@ -21,6 +22,7 @@
 1-17	142-155	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 1-18	156-157	.	_
 
+Text=Working memory (WM) deficits are key features of schizophrenia and are associated with significant functional impairment.
 2-1	158-165	Working	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
 2-2	166-172	memory	http://maven.renci.org/NeuroBridge/neurobridge#WorkingMemoryTask
 2-3	173-174	(	_
@@ -41,6 +43,7 @@
 2-18	270-280	impairment	_
 2-19	281-282	.	_
 
+Text=The precise mechanisms of WM and their relationship between WM deficits with other clinical symptoms of schizophrenia remain unclear.
 3-1	283-286	The	_
 3-2	287-294	precise	_
 3-3	295-305	mechanisms	_
@@ -62,6 +65,7 @@
 3-19	408-415	unclear	_
 3-20	416-417	.	_
 
+Text=Contemporary models propose that WM requires synchronous activity across brain regions within a distributed network, including lateral prefrontal cortex (PFC) and task-relevant posterior sensory cortical regions.
 4-1	418-430	Contemporary	_
 4-2	431-437	models	_
 4-3	438-445	propose	_
@@ -93,6 +97,7 @@
 4-29	625-632	regions	_
 4-30	633-634	.	_
 
+Text=This suggests that WM deficits in patients may be due to PFC functional connectivity (FC) impairments rather than activation impairments per se.
 5-1	635-639	This	_
 5-2	640-648	suggests	_
 5-3	649-653	that	_
@@ -119,6 +124,7 @@
 5-24	778-780	se	_
 5-25	781-782	.	_
 
+Text=We tested this hypothesis by measuring the magnitude of FC between lateral PFC and visual cortex and univariate activations within these regions during visual WM.
 6-1	783-785	We	_
 6-2	786-792	tested	_
 6-3	793-797	this	_
@@ -146,6 +152,7 @@
 6-25	942-944	WM	_
 6-26	945-946	.	_
 
+Text=We found decreased FC in patients compared to healthy subjects in the context of similar levels of univariate activity.
 7-1	947-949	We	_
 7-2	950-955	found	_
 7-3	956-965	decreased	_
@@ -167,6 +174,7 @@
 7-19	1057-1065	activity	_
 7-20	1066-1067	.	_
 
+Text=Furthermore, this decreased FC was associated with task performance and clinical symptomatology in patients.
 8-1	1068-1079	Furthermore	_
 8-2	1080-1081	,	_
 8-3	1082-1086	this	_
@@ -184,6 +192,7 @@
 8-15	1168-1176	patients	_
 8-16	1177-1178	.	_
 
+Text=The magnitude of FC, particularly during the delay period, was positively correlated with WM task accuracy, while FC during cue was inversely correlated with severity of disorganization.
 9-1	1179-1182	The	_
 9-2	1183-1192	magnitude	_
 9-3	1193-1195	of	_
@@ -216,6 +225,7 @@
 9-30	1352-1367	disorganization	_
 9-31	1368-1369	.	_
 
+Text=Taken together, these results suggest that impairment in lateral PFC FC is a key aspect of information processing impairment in patients with schizophrenia, and may be a sensitive index of altered neurophysiology.
 10-1	1370-1375	Taken	_
 10-2	1376-1384	together	_
 10-3	1385-1386	,	_
@@ -252,6 +262,7 @@
 10-34	1569-1584	neurophysiology	_
 10-35	1585-1586	.	_
 
+Text=METHODS Subjects 18 patients with schizophrenia or schizoaffective disorder (SZ) and 19 healthy control (HC) subjects were recruited from the community for this study.
 11-1	1587-1594	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 11-2	1595-1603	Subjects	_
 11-3	1604-1606	18	_
@@ -282,6 +293,7 @@
 11-28	1752-1757	study	_
 11-29	1758-1759	.	_
 
+Text=Two SZ and one HC subject were excluded due to excessive movement and/or very poor performance on the WM task.
 12-1	1760-1763	Two	_
 12-2	1764-1766	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 12-3	1767-1770	and	_
@@ -304,6 +316,7 @@
 12-20	1865-1869	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 12-21	1870-1871	.	_
 
+Text=Data from 16 SZ and 18 HC subjects were used for further analyses (Table 1).
 13-1	1872-1876	Data	_
 13-2	1877-1881	from	_
 13-3	1882-1884	16	_
@@ -323,6 +336,7 @@
 13-17	1948-1949	)	_
 13-18	1950-1951	.	_
 
+Text=All patients were clinically stable with medications that were unchanged within two weeks of study participation.
 14-1	1952-1955	All	_
 14-2	1956-1964	patients	_
 14-3	1965-1969	were	_
@@ -341,6 +355,7 @@
 14-16	2051-2064	participation	_
 14-17	2065-2066	.	_
 
+Text=Master ’ s- and doctoral-level clinicians evaluated subjects with the Structured Clinical Interview for Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) to confirm the diagnoses in SZ and to exclude the presence of a major psychiatric illness in HC.
 15-1	2067-2073	Master	_
 15-2	2074-2075	’	_
 15-3	2076-2078	s-	_
@@ -391,6 +406,7 @@
 15-48	2365-2367	HC	_
 15-49	2368-2369	.	_
 
+Text=All patients were taking antipsychotics at the time of testing.
 16-1	2370-2373	All	_
 16-2	2374-2382	patients	_
 16-3	2383-2387	were	_
@@ -403,6 +419,7 @@
 16-10	2425-2432	testing	_
 16-11	2433-2434	.	_
 
+Text=Exclusion criteria for HC were 1) presence of a lifetime diagnosis of an axis I disorder or 2) a first- degree relative with a psychotic disorder.
 17-1	2435-2444	Exclusion	_
 17-2	2445-2453	criteria	_
 17-3	2454-2457	for	_
@@ -433,6 +450,7 @@
 17-28	2574-2582	disorder	_
 17-29	2583-2584	.	_
 
+Text=Exclusion criteria for both study groups were: 1) IQ <70, 2) history of drug or alcohol dependence or abuse within three months of study or a positive urine drug screen on day of study, 3) significant head trauma, or 4) any known contraindication to MRI.
 18-1	2585-2594	Exclusion	_
 18-2	2595-2603	criteria	_
 18-3	2604-2607	for	_
@@ -489,6 +507,7 @@
 18-54	2844-2847	MRI	_
 18-55	2848-2849	.	_
 
+Text=After complete description of the study was given, written informed consent was obtained from all participants.
 19-1	2850-2855	After	_
 19-2	2856-2864	complete	_
 19-3	2865-2876	description	_
@@ -508,6 +527,7 @@
 19-17	2949-2961	participants	_
 19-18	2962-2963	.	_
 
+Text=The study was approved by the University of California Davis Institutional Review Board.
 20-1	2964-2967	The	_
 20-2	2968-2973	study	_
 20-3	2974-2977	was	_
@@ -523,6 +543,7 @@
 20-13	3046-3051	Board	_
 20-14	3052-3053	.	_
 
+Text=Cognitive Paradigm Stimulus presentation and response recordings were conducted with E-Prime (Psychology Software Tools, Inc., Pittsburgh, PA; http: //www.pstnet.com).
 21-1	3054-3063	Cognitive	_
 21-2	3064-3072	Paradigm	_
 21-3	3073-3081	Stimulus	_
@@ -551,6 +572,7 @@
 21-26	3226-3227	)	_
 21-27	3228-3229	.	_
 
+Text=Stimuli were projected onto a screen viewed by participants through a mirror mounted on the head coil.
 22-1	3230-3237	Stimuli	_
 22-2	3238-3242	were	_
 22-3	3243-3252	projected	_
@@ -570,6 +592,7 @@
 22-17	3327-3331	coil	_
 22-18	3332-3333	.	_
 
+Text=Participants performed the cognitive paradigm displayed in Figure 1.
 23-1	3334-3346	Participants	_
 23-2	3347-3356	performed	_
 23-3	3357-3360	the	_
@@ -581,6 +604,7 @@
 23-9	3400-3401	1	_
 23-10	3402-3403	.	_
 
+Text=We designed a novel visual WM paradigm to facilitate the planned unbiased, functional ROI-based fMRI analyses.
 24-1	3404-3406	We	_
 24-2	3407-3415	designed	_
 24-3	3416-3417	a	_
@@ -600,6 +624,7 @@
 24-17	3506-3514	analyses	_
 24-18	3515-3516	.	_
 
+Text=The design of our visual object WM task temporally segregates the phases of cue, delay, and probe.
 25-1	3517-3520	The	_
 25-2	3521-3527	design	_
 25-3	3528-3530	of	_
@@ -621,6 +646,7 @@
 25-19	3611-3616	probe	_
 25-20	3617-3618	.	_
 
+Text=In this manner, this task can be considered a variant of the Sternberg Task.
 26-1	3619-3621	In	_
 26-2	3622-3626	this	_
 26-3	3627-3633	manner	_
@@ -638,6 +664,7 @@
 26-15	3691-3695	Task	_
 26-16	3696-3697	.	_
 
+Text=This design was chosen over a traditional N-back task in which the three phases cannot be temporally separated.
 27-1	3698-3702	This	_
 27-2	3703-3709	design	_
 27-3	3710-3713	was	_
@@ -659,6 +686,7 @@
 27-19	3800-3809	separated	_
 27-20	3810-3811	.	_
 
+Text=There were two tasks in this paradigm, which were identical in terms of trial structure, stimulus presentations, order and timing, but differed in WM requirements.
 28-1	3812-3817	There	_
 28-2	3818-3822	were	_
 28-3	3823-3826	two	_
@@ -690,6 +718,7 @@
 28-29	3966-3978	requirements	_
 28-30	3979-3980	.	_
 
+Text=The first stimulus presented in both tasks is referred to as the “ cue ” face.
 29-1	3981-3984	The	_
 29-2	3985-3990	first	_
 29-3	3991-3999	stimulus	_
@@ -708,6 +737,7 @@
 29-16	4054-4058	face	_
 29-17	4059-4060	.	_
 
+Text=It was displayed for one second and then it was replaced by a crosshair.
 30-1	4061-4063	It	_
 30-2	4064-4067	was	_
 30-3	4068-4077	displayed	_
@@ -724,6 +754,7 @@
 30-14	4123-4132	crosshair	_
 30-15	4133-4134	.	_
 
+Text=The color of the crosshair was initially black, but changed color after two seconds.
 31-1	4135-4138	The	_
 31-2	4139-4144	color	_
 31-3	4145-4147	of	_
@@ -741,6 +772,7 @@
 31-15	4212-4219	seconds	_
 31-16	4220-4221	.	_
 
+Text=This new color indicated the task of the trial: blue indicated the WM task, which required subjects to maintain the cue face in WM across a 15 s delay period and to make a match discrimination with the face appearing at the end of the delay; red indicated the Gender ID (GID) task, which did not require WM for task completion but rather for the subjects to make a gender discrimination of the face appearing at the end of the delay period.
 32-1	4222-4226	This	_
 32-2	4227-4230	new	_
 32-3	4231-4236	color	_
@@ -831,6 +863,7 @@
 32-88	4661-4667	period	_
 32-89	4668-4669	.	_
 
+Text=The faces shown were chosen to be gender ambiguous, so the results from the GID task are not expected to be meaningful.
 33-1	4670-4673	The	_
 33-2	4674-4679	faces	_
 33-3	4680-4685	shown	_
@@ -856,6 +889,7 @@
 33-23	4779-4789	meaningful	_
 33-24	4790-4791	.	_
 
+Text=A critical aspect of the design was that the task for a particular trial was revealed only after cue face offset.
 34-1	4792-4793	A	_
 34-2	4794-4802	critical	_
 34-3	4803-4809	aspect	_
@@ -879,6 +913,7 @@
 34-21	4898-4904	offset	_
 34-22	4905-4906	.	_
 
+Text=This design forced subjects to encode into WM a cue face whenever it appeared, even during GID trials.
 35-1	4907-4911	This	_
 35-2	4912-4918	design	_
 35-3	4919-4925	forced	_
@@ -900,6 +935,7 @@
 35-19	5003-5009	trials	_
 35-20	5010-5011	.	_
 
+Text=Furthermore, the trial task was revealed two seconds, and not immediately, after cue offset in order to enhance the temporal separation between the engagement of encoding and maintenance related neural processes by the subject.
 36-1	5012-5023	Furthermore	_
 36-2	5024-5025	,	_
 36-3	5026-5029	the	_
@@ -939,6 +975,7 @@
 36-37	5234-5241	subject	_
 36-38	5242-5243	.	_
 
+Text=This temporal separation is necessary to disambiguate the BOLD signal reflecting encoding and maintenance related events.
 37-1	5244-5248	This	_
 37-2	5249-5257	temporal	_
 37-3	5258-5268	separation	_
@@ -957,6 +994,7 @@
 37-16	5358-5364	events	_
 37-17	5365-5366	.	_
 
+Text=Subjects completed 40 trials of each task.
 38-1	5367-5375	Subjects	_
 38-2	5376-5385	completed	_
 38-3	5386-5388	40	_
@@ -966,6 +1004,7 @@
 38-7	5404-5408	task	_
 38-8	5409-5410	.	_
 
+Text=There were ten trials within each of eight runs.
 39-1	5411-5416	There	_
 39-2	5417-5421	were	_
 39-3	5422-5425	ten	_
@@ -977,6 +1016,7 @@
 39-9	5454-5458	runs	_
 39-10	5459-5460	.	_
 
+Text=Trial order was randomly intermixed.
 40-1	5461-5466	Trial	_
 40-2	5467-5472	order	_
 40-3	5473-5476	was	_
@@ -984,6 +1024,7 @@
 40-5	5486-5496	intermixed	_
 40-6	5497-5498	.	_
 
+Text=To ensure that all subjects were engaged with the task, we imposed a performance criterion of 60% accuracy on the WM task.
 41-1	5499-5501	To	_
 41-2	5502-5508	ensure	_
 41-3	5509-5513	that	_
@@ -1010,6 +1051,7 @@
 41-24	5618-5622	task	_
 41-25	5623-5624	.	_
 
+Text=We chose a WM task that was not too difficult for both healthy control (HC) and schizophrenia (SZ) groups to accurately complete so that there would be sufficient number of correct trials with which to conduct the FC analyses.
 42-1	5625-5627	We	_
 42-2	5628-5633	chose	_
 42-3	5634-5635	a	_
@@ -1055,6 +1097,7 @@
 42-43	5846-5854	analyses	_
 42-44	5855-5856	.	_
 
+Text=A task that was too difficult would likely have yielded a fairly large difference across groups in the number of correct trials.
 43-1	5857-5858	A	_
 43-2	5859-5863	task	_
 43-3	5864-5868	that	_
@@ -1079,6 +1122,7 @@
 43-22	5978-5984	trials	_
 43-23	5985-5986	.	_
 
+Text=Low correct trial numbers in the patient group would reduce our ability to reliably measure true FC strength and a large group difference in trial numbers could introduce bias in terms of group comparisons.
 44-1	5987-5990	Low	_
 44-2	5991-5998	correct	_
 44-3	5999-6004	trial	_
@@ -1115,6 +1159,7 @@
 44-34	6181-6192	comparisons	_
 44-35	6193-6194	.	_
 
+Text=Using this approach, we identified task relevant functional ROIs in the lateral PFC and visual cortex and derived estimates of the strength of PFC-visual cortex FC to test the hypothesis of PFC FC impairments and their associations with task performance and symptomatology in schizophrenia.
 45-1	6195-6200	Using	_
 45-2	6201-6205	this	_
 45-3	6206-6214	approach	_
@@ -1162,6 +1207,7 @@
 45-45	6472-6485	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 45-46	6486-6487	.	_
 
+Text=fMRI acquisition and processing fMRI scans were completed on a Siemens 3T TRIO MR system with an eight channel phased array head coil.
 46-1	6488-6492	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 46-2	6493-6504	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 46-3	6505-6508	and	_
@@ -1187,6 +1233,7 @@
 46-23	6617-6621	coil	_
 46-24	6622-6623	.	_
 
+Text=fMRI volumes were acquired using the following parameters: 36 3.5-mm oblique axial T2 * -weighted gradient-echo EPI slices, with 2000 ms TR, 28 ms TE, 60 degree flip angle and 240 mm × 240 mm field of view in a 64 × 64 matrix.
 47-1	6624-6628	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 47-2	6629-6636	volumes	_
 47-3	6637-6641	were	_
@@ -1237,6 +1284,7 @@
 47-48	6847-6853	matrix	_
 47-49	6854-6855	.	_
 
+Text=Each functional run was preceded by five images of unanalyzed data to allow steady-state magnetization to be achieved.
 48-1	6856-6860	Each	_
 48-2	6861-6871	functional	_
 48-3	6872-6875	run	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1257,6 +1305,7 @@
 48-18	6965-6973	achieved	_
 48-19	6974-6975	.	_
 
+Text=Preprocessing of fMRI volumes with the Statistical Parametric Mapping, version 8 (SPM8) software package included temporal and spatial realignment, normalization to the EPI template, .001 Hz high-pass filtering and spatial smoothing with 8 mm FWHM Gaussian kernel.
 49-1	6976-6989	Preprocessing	_
 49-2	6990-6992	of	_
 49-3	6993-6997	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1301,6 +1350,7 @@
 49-42	7238-7244	kernel	_
 49-43	7245-7246	.	_
 
+Text=We excluded two SZ and one HC subject for exhibiting greater than 4 mm within-run movement.
 50-1	7247-7249	We	_
 50-2	7250-7258	excluded	_
 50-3	7259-7262	two	_
@@ -1319,6 +1369,7 @@
 50-16	7329-7337	movement	_
 50-17	7338-7339	.	_
 
+Text=This threshold was chosen as the size of a voxel was 4 mm in plane.
 51-1	7340-7344	This	_
 51-2	7345-7354	threshold	_
 51-3	7355-7358	was	_
@@ -1336,6 +1387,7 @@
 51-15	7401-7406	plane	_
 51-16	7407-7408	.	_
 
+Text=A comparison of mean framewise displacement of included subjects during scanning indicated absence of significant between-group difference in this variable (p=0.292).
 52-1	7409-7410	A	_
 52-2	7411-7421	comparison	_
 52-3	7422-7424	of	_
@@ -1361,6 +1413,7 @@
 52-23	7575-7576	)	_
 52-24	7577-7578	.	_
 
+Text=In addition, we also found no group difference in the frame-by-frame changes in any of the six movement parameters, p> 0.13.
 53-1	7579-7581	In	_
 53-2	7582-7590	addition	_
 53-3	7591-7592	,	_
@@ -1387,6 +1440,7 @@
 53-24	7701-7705	0.13	_
 53-25	7706-7707	.	_
 
+Text=We also conducted additional post-hoc analyses, described below, to rule out the possibility of head movement confounding our results.
 54-1	7708-7710	We	_
 54-2	7711-7715	also	_
 54-3	7716-7725	conducted	_
@@ -1410,6 +1464,7 @@
 54-21	7836-7843	results	_
 54-22	7844-7845	.	_
 
+Text=fMRI analysis fMRI modeling fMRI data modeling proceeded under a slow event-related design framework, with the canonical double-gaussian hemodynamic response function convolved with regressors for WM encoding, maintenance and response, corresponding to cue, delay and probe events.
 55-1	7846-7850	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 55-2	7851-7859	analysis	_
 55-3	7860-7864	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1453,6 +1508,7 @@
 55-41	8124-8130	events	_
 55-42	8131-8132	.	_
 
+Text=The three task phases were modeled in the following manner: encoding—a single covariate during cue presentation at the beginning of the trial (t=0 s); maintenance—a single covariate in the middle of the delay period (t=7 s) and response—a single covariate during probe presentation (t=16 s).
 56-1	8133-8136	The	_
 56-2	8137-8142	three	_
 56-3	8143-8147	task	_
@@ -1508,6 +1564,7 @@
 56-53	8430-8431	)	_
 56-54	8432-8433	.	_
 
+Text=We included the first temporal derivative of covariates in the regression matrix to account for potential group differences in BOLD signal temporal dynamics resulting from differences in response times or other variables.
 57-1	8434-8436	We	_
 57-2	8437-8445	included	_
 57-3	8446-8449	the	_
@@ -1542,6 +1599,7 @@
 57-32	8645-8654	variables	_
 57-33	8655-8656	.	_
 
+Text=We also included the six movement parameters in our models.
 58-1	8657-8659	We	_
 58-2	8660-8664	also	_
 58-3	8665-8673	included	_
@@ -1554,6 +1612,7 @@
 58-10	8709-8715	models	_
 58-11	8716-8717	.	_
 
+Text=There were separate covariates for correct and incorrect trials, but only correct trials were analyzed because the number of incorrect trials was too small to produce meaningful results.
 59-1	8718-8723	There	_
 59-2	8724-8728	were	_
 59-3	8729-8737	separate	_
@@ -1585,6 +1644,7 @@
 59-29	8897-8904	results	_
 59-30	8905-8906	.	_
 
+Text=We included an analogous set of covariates for the GID trials.
 60-1	8907-8909	We	_
 60-2	8910-8918	included	_
 60-3	8919-8921	an	_
@@ -1598,6 +1658,7 @@
 60-11	8962-8968	trials	_
 60-12	8969-8970	.	_
 
+Text=Localization of functional ROIs Given the abundant empirical data implicating the specific brain regions involved in visual WM and the connectivity model of WM with these ROIs, we did not employ a whole brain, voxel-wise analysis and instead we utilized an ROI based approach for hypothesis testing.
 61-1	8971-8983	Localization	_
 61-2	8984-8986	of	_
 61-3	8987-8997	functional	_
@@ -1649,6 +1710,7 @@
 61-49	9264-9271	testing	_
 61-50	9272-9273	.	_
 
+Text=This approached required specifying a priori the ROIs to be analyzed (lateral PFC and ventral visual cortex).
 62-1	9274-9278	This	_
 62-2	9279-9289	approached	_
 62-3	9290-9298	required	_
@@ -1670,6 +1732,7 @@
 62-19	9383-9384	)	_
 62-20	9385-9386	.	_
 
+Text=We utilized functional ROIs, rather than anatomic ROIs, for hypothesis testing to enhance sensitivity to detect true effects.
 63-1	9387-9389	We	_
 63-2	9390-9398	utilized	_
 63-3	9399-9409	functional	_
@@ -1692,6 +1755,7 @@
 63-20	9506-9513	effects	_
 63-21	9514-9515	.	_
 
+Text=The lateral PFC is a relatively broad region that encompasses functionally heterogeneous sub-regions.
 64-1	9516-9519	The	_
 64-2	9520-9527	lateral	_
 64-3	9528-9531	PFC	_
@@ -1707,6 +1771,7 @@
 64-13	9605-9616	sub-regions	_
 64-14	9617-9618	.	_
 
+Text=Thus, the use of anatomically defined ROIs of the lateral PFC would likely significantly diminish our ability to detect WM-specific fMRI signal.
 65-1	9619-9623	Thus	_
 65-2	9624-9625	,	_
 65-3	9626-9629	the	_
@@ -1732,6 +1797,7 @@
 65-23	9757-9763	signal	_
 65-24	9764-9765	.	_
 
+Text=One of the major challenges in functional localization is the “ curse of circularity ”.
 66-1	9766-9769	One	_
 66-2	9770-9772	of	_
 66-3	9773-9776	the	_
@@ -1749,6 +1815,7 @@
 66-15	9851-9852	”	_
 66-16	9853-9854	.	_
 
+Text=This problem arises when fMRI data that is not independent from the fMRI data to be analyzed is used to identify or define ROIs used in the analysis.
 67-1	9855-9859	This	_
 67-2	9860-9867	problem	_
 67-3	9868-9874	arises	_
@@ -1779,6 +1846,7 @@
 67-28	9995-10003	analysis	_
 67-29	10004-10005	.	_
 
+Text=We avoided this problem by using scans independent of WM scans, e.g.
 68-1	10006-10008	We	_
 68-2	10009-10016	avoided	_
 68-3	10017-10021	this	_
@@ -1794,6 +1862,7 @@
 68-13	10071-10074	e.g	_
 68-14	10075-10076	.	_
 
+Text=GID scans, to localize ROIs and used these ROIs to interrogate WM scans.
 69-1	10077-10080	GID	_
 69-2	10081-10086	scans	_
 69-3	10087-10088	,	_
@@ -1810,6 +1879,7 @@
 69-14	10144-10149	scans	_
 69-15	10150-10151	.	_
 
+Text=We first generated within-group activation maps (one map for HC and one map for SZ) (Figure 2) which were defined by the contrast of GID cue vs. implicit baseline.
 70-1	10152-10154	We	_
 70-2	10155-10160	first	_
 70-3	10161-10170	generated	_
@@ -1845,6 +1915,7 @@
 70-33	10310-10318	baseline	_
 70-34	10319-10320	.	_
 
+Text=These were restricted using anatomic masks from Wake Forest University Pickatlas (http: //www.fmri.wfubmc.edu).
 71-1	10321-10326	These	_
 71-2	10327-10331	were	_
 71-3	10332-10342	restricted	_
@@ -1863,6 +1934,7 @@
 71-16	10433-10434	)	_
 71-17	10435-10436	.	_
 
+Text=The union of the superior and middle inferior gyri and the union of fusiform and lingual gyri served as inclusive masks for the lateral PFC and ventral visual cortex, respectively.
 72-1	10437-10440	The	_
 72-2	10441-10446	union	_
 72-3	10447-10449	of	_
@@ -1896,6 +1968,7 @@
 72-31	10605-10617	respectively	_
 72-32	10618-10619	.	_
 
+Text=The size of the functional ROIs was determined by the inclusion of all voxels surviving a voxel-wise FDR threshold of p=0.05 were included in the functional ROIs.
 73-1	10620-10623	The	_
 73-2	10624-10628	size	_
 73-3	10629-10631	of	_
@@ -1925,6 +1998,7 @@
 73-27	10777-10781	ROIs	_
 73-28	10782-10783	.	_
 
+Text=There were two sets of PFC and visual cortex ROIs, one set for HC, and another set for SZ.
 74-1	10784-10789	There	_
 74-2	10790-10794	were	_
 74-3	10795-10798	two	_
@@ -1948,6 +2022,7 @@
 74-21	10873-10875	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 74-22	10876-10877	.	_
 
+Text=For exploratory analyses, we created left and right ROIs for the PFC and visual cortex in the same manner described above, with the added constraint of hemisphere.
 75-1	10878-10881	For	_
 75-2	10882-10893	exploratory	_
 75-3	10894-10902	analyses	_
@@ -1979,6 +2054,7 @@
 75-29	11032-11042	hemisphere	_
 75-30	11043-11044	.	_
 
+Text=Univariate analysis We completed two types of univariate analyses– ROI and voxel-wise whole brain.
 76-1	11045-11055	Univariate	_
 76-2	11056-11064	analysis	_
 76-3	11065-11067	We	_
@@ -1995,6 +2071,7 @@
 76-14	11137-11142	brain	_
 76-15	11143-11144	.	_
 
+Text=The former was conducted so that we could directly compare univariate and FC ROI data.
 77-1	11145-11148	The	_
 77-2	11149-11155	former	_
 77-3	11156-11159	was	_
@@ -2012,6 +2089,7 @@
 77-15	11226-11230	data	_
 77-16	11231-11232	.	_
 
+Text=We obtained spatially averaged beta estimates from univariate fMRI model estimation described above.
 78-1	11233-11235	We	_
 78-2	11236-11244	obtained	_
 78-3	11245-11254	spatially	_
@@ -2027,6 +2105,7 @@
 78-13	11327-11332	above	_
 78-14	11333-11334	.	_
 
+Text=We also conducted voxel-wise whole brain between-group analyses to explore if regions beyond the functional ROIs exhibited activation differences.
 79-1	11335-11337	We	_
 79-2	11338-11342	also	_
 79-3	11343-11352	conducted	_
@@ -2048,6 +2127,7 @@
 79-19	11469-11480	differences	_
 79-20	11481-11482	.	_
 
+Text=For these analyses, we deliberately chose a liberal threshold of p <0.01, uncorrected, in order to maximize the chances of finding any group differences.
 80-1	11483-11486	For	_
 80-2	11487-11492	these	_
 80-3	11493-11501	analyses	_
@@ -2078,6 +2158,7 @@
 80-28	11628-11639	differences	_
 80-29	11640-11641	.	_
 
+Text=We also conducted within group voxel-wise whole brain analyses to examine the level of activations in each group.
 81-1	11642-11644	We	_
 81-2	11645-11649	also	_
 81-3	11650-11659	conducted	_
@@ -2098,6 +2179,7 @@
 81-18	11749-11754	group	_
 81-19	11755-11756	.	_
 
+Text=For these analyses, we employed conservative corrected methods for determining activation significance, a cluster-defining threshold of p=0.001 and FDR cluster corrected p <0.05.
 82-1	11757-11760	For	_
 82-2	11761-11766	these	_
 82-3	11767-11775	analyses	_
@@ -2126,6 +2208,7 @@
 82-26	11933-11937	0.05	_
 82-27	11938-11939	.	_
 
+Text=Functional connectivity The beta-series correlation method quantified task phase-specific FC between brain regions.
 83-1	11940-11950	Functional	_
 83-2	11951-11963	connectivity	_
 83-3	11964-11967	The	_
@@ -2141,6 +2224,7 @@
 83-13	12047-12054	regions	_
 83-14	12055-12056	.	_
 
+Text=This method employs unique covariates for every trial and task epoch to generate trial and task epoch specific estimates of activity for each voxel within the brain (beta series).
 84-1	12057-12061	This	_
 84-2	12062-12068	method	_
 84-3	12069-12076	employs	_
@@ -2174,6 +2258,7 @@
 84-31	12236-12237	)	_
 84-32	12238-12239	.	_
 
+Text=Beta series of voxels within ROIs (PFC and visual cortex) were spatially averaged to generate PFC and visual cortex beta series, which were then correlated with each other to quantify strength of PFC-visual cortex FC.
 85-1	12240-12244	Beta	_
 85-2	12245-12251	series	_
 85-3	12252-12254	of	_
@@ -2214,6 +2299,7 @@
 85-38	12457-12459	FC	_
 85-39	12460-12461	.	_
 
+Text=Correlations The Pearson ’ s r was calculated for all correlational analyses.
 86-1	12462-12474	Correlations	_
 86-2	12475-12478	The	_
 86-3	12479-12486	Pearson	_
@@ -2228,6 +2314,7 @@
 86-12	12530-12538	analyses	_
 86-13	12539-12540	.	_
 
+Text=Brief Psychiatric Rating Scale (BPRS), Scale for the Assessment of Negative Symptoms (SANS), Scale for the Assessment of Positive Symptoms (SAPS), and Global Assessment Scale (GAS) quantified symptoms in patients, and were used for exploratory analyses.
 87-1	12541-12546	Brief	http://maven.renci.org/NeuroBridge/neurobridge#BriefPsychiatricRatingScale
 87-2	12547-12558	Psychiatric	http://maven.renci.org/NeuroBridge/neurobridge#BriefPsychiatricRatingScale
 87-3	12559-12565	Rating	http://maven.renci.org/NeuroBridge/neurobridge#BriefPsychiatricRatingScale
@@ -2278,6 +2365,7 @@
 87-48	12797-12805	analyses	_
 87-49	12806-12807	.	_
 
+Text=Pearson ’ s r was calculated to examine their association with a measure of FC.
 88-1	12808-12815	Pearson	_
 88-2	12816-12817	’	_
 88-3	12818-12819	s	_
@@ -2295,6 +2383,7 @@
 88-15	12884-12886	FC	_
 88-16	12887-12888	.	_
 
+Text=Magnitude of disorganization (distinct from psychotic or negative symptoms) was quantified by combining component item scores listed below from these scales as described elsewhere: BPRS – conceptual disorganization, mannerism and posturing, and disorientation; SANS – global attention; SAPS - global formal thought disorder and global bizarre behavior .. Pearson ’ s r was calculated to test for an association between disorganization and FC.
 89-1	12889-12898	Magnitude	_
 89-2	12899-12901	of	_
 89-3	12902-12917	disorganization	_

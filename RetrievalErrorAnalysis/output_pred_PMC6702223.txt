@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Evidence for cerebello-thalamo-cortical hyperconnectivity as a heritable trait for schizophrenia Our recent study has demonstrated that increased connectivity in the cerebello-thalamo-cortical (CTC) circuitry is a state-independent neural trait that can potentially predict the onset of psychosis.
 1-1	0-8	Evidence	_
 1-2	9-12	for	_
 1-3	13-39	cerebello-thalamo-cortical	_
@@ -42,6 +43,7 @@
 1-38	289-298	psychosis	_
 1-39	299-300	.	_
 
+Text=One possible cause of such “ trait ” abnormality would be genetic predisposition.
 2-1	301-304	One	_
 2-2	305-313	possible	_
 2-3	314-319	cause	_
@@ -57,6 +59,7 @@
 2-13	367-381	predisposition	_
 2-14	382-383	.	_
 
+Text=Here, we tested this hypothesis using multi-paradigm functional magnetic resonance imaging (fMRI) data from two independent twin cohorts.
 3-1	384-388	Here	_
 3-2	389-390	,	_
 3-3	391-393	we	_
@@ -80,6 +83,7 @@
 3-21	516-523	cohorts	_
 3-22	524-525	.	_
 
+Text=In a sample of 85 monozygotic (MZ) and 52 dizygotic (DZ) healthy twin pairs acquired from the Human Connectome Project, we showed that the connectivity pattern of the identified CTC circuitry was more similar in the MZ twins (r = 0.54) compared with that in the DZ twins (r = 0.22).
 4-1	526-528	In	_
 4-2	529-530	a	_
 4-3	531-537	sample	_
@@ -142,6 +146,7 @@
 4-60	815-816	)	_
 4-61	817-818	.	_
 
+Text=The structural equation modeling analysis revealed a heritability estimate of 0.52 for the CTC connectivity, suggesting a moderately strong genetic effect.
 5-1	819-822	The	_
 5-2	823-833	structural	_
 5-3	834-842	equation	_
@@ -166,6 +171,7 @@
 5-22	968-974	effect	_
 5-23	975-976	.	_
 
+Text=Moreover, using an independent schizophrenia cotwin sample (10 discordant MZ cotwins, 30 discordant DZ cotwins, and 32 control cotwins), we observed a significant linear relationship between genetic distance to schizophrenia and the connectivity strength in the CTC circuitry (i.e., schizophrenia MZ cotwins> schizophrenia DZ cotwins> control twins, P = 0.045).
 6-1	977-985	Moreover	_
 6-2	986-987	,	_
 6-3	988-993	using	_
@@ -230,6 +236,7 @@
 6-62	1348-1349	)	_
 6-63	1350-1351	.	_
 
+Text=The present data provide converging evidence that increased connectivity in the CTC circuitry is likely to be a heritable trait that is associated with the genetic risk of schizophrenia.
 7-1	1352-1355	The	_
 7-2	1356-1363	present	_
 7-3	1364-1368	data	_
@@ -261,6 +268,7 @@
 7-29	1524-1537	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-30	1538-1539	.	_
 
+Text=Methods Subjects Two independent twin data sets were used in this study: the HCP twin sample and the STAR sample.
 8-1	1540-1547	Methods	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 8-2	1548-1556	Subjects	_
 8-3	1557-1560	Two	_
@@ -284,6 +292,7 @@
 8-21	1647-1653	sample	_
 8-22	1654-1655	.	_
 
+Text=The HCP data included a total of 137 healthy twin pairs that have completed all eight fMRI paradigms used in the project (resting state, gambling, emotional processing, motor, working memory, relational processing, language processing, and social cognition) and have genotyping data available.
 9-1	1656-1659	The	_
 9-2	1660-1663	HCP	_
 9-3	1664-1668	data	_
@@ -337,6 +346,7 @@
 9-51	1948-1957	available	_
 9-52	1958-1959	.	_
 
+Text=Among these twin pairs, 85 were MZ (age 29.32 ± 3.39 years, 70 males) and 52 were DZ (age 28.50 ± 3.50 years, 52 males).
 10-1	1960-1965	Among	_
 10-2	1966-1971	these	_
 10-3	1972-1976	twin	_
@@ -371,6 +381,7 @@
 10-32	2085-2086	)	_
 10-33	2087-2088	.	_
 
+Text=The STAR sample comprised of 40 schizophrenia discordant cotwins (10 MZ, age 43.79 ± 11.94 years, 7 males; 30 DZ, age 51.11 ± 10.07 years, 16 males) and 32 healthy control twins (46.37 ± 6.92 years, 14 males), each assessed with a battery of two fMRI paradigms (working memory, emotional processing).
 11-1	2089-2092	The	_
 11-2	2093-2097	STAR	http://maven.renci.org/NeuroBridge/neurobridge#Stadiometer
 11-3	2098-2104	sample	_
@@ -438,6 +449,7 @@
 11-65	2401-2402	)	_
 11-66	2403-2404	.	_
 
+Text=The zygosity in both data sets was determined by genotyping data from subjects ’ blood samples.
 12-1	2405-2408	The	_
 12-2	2409-2417	zygosity	_
 12-3	2418-2420	in	_
@@ -456,6 +468,7 @@
 12-16	2492-2499	samples	_
 12-17	2500-2501	.	_
 
+Text=The STAR participants were recruited through the Swedish Twin Registry and were evaluated by psychiatrists using the Structured Clinical Interview for DSM-IV.
 13-1	2502-2505	The	_
 13-2	2506-2510	STAR	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
 13-3	2511-2523	participants	http://maven.renci.org/NeuroBridge/neurobridge#MethamphetamineDependence
@@ -480,6 +493,7 @@
 13-22	2653-2659	DSM-IV	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 13-23	2660-2661	.	_
 
+Text=The exclusion criteria for control twins included prior history of neurological or psychiatric disorders, head injury, substance dependence in the last 6 months, mental retardation, and inability to read or comprehend Swedish.
 14-1	2662-2665	The	_
 14-2	2666-2675	exclusion	_
 14-3	2676-2684	criteria	_
@@ -518,6 +532,7 @@
 14-36	2884-2891	Swedish	_
 14-37	2892-2893	.	_
 
+Text=All schizophrenia discordant cotwins were free of any psychotic disorders according to the DSM-IV criteria.
 15-1	2894-2897	All	_
 15-2	2898-2911	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 15-3	2912-2922	discordant	_
@@ -535,6 +550,7 @@
 15-15	2992-3000	criteria	_
 15-16	3001-3002	.	_
 
+Text=The participants provided written informed consents and the research protocol was approved by the Regional Ethical Review Board in Stockholm.
 16-1	3003-3006	The	_
 16-2	3007-3019	participants	_
 16-3	3020-3028	provided	_
@@ -557,6 +573,7 @@
 16-20	3134-3143	Stockholm	_
 16-21	3144-3145	.	_
 
+Text=For sample details, see Tables 1 and 2.
 17-1	3146-3149	For	_
 17-2	3150-3156	sample	_
 17-3	3157-3164	details	_
@@ -568,6 +585,7 @@
 17-9	3184-3185	2	_
 17-10	3186-3187	.	_
 
+Text=Imaging paradigms A total of eight fMRI paradigms were employed in the HCP project.
 18-1	3188-3195	Imaging	_
 18-2	3196-3205	paradigms	_
 18-3	3206-3207	A	_
@@ -584,6 +602,7 @@
 18-14	3263-3270	project	_
 18-15	3271-3272	.	_
 
+Text=For details on these paradigms see previously published work.
 19-1	3273-3276	For	_
 19-2	3277-3284	details	_
 19-3	3285-3287	on	_
@@ -595,6 +614,7 @@
 19-9	3329-3333	work	_
 19-10	3334-3335	.	_
 
+Text=Notably, the resting-state paradigm was scanned with four sessions spanned across two consecutive days, and the other paradigms were scanned with two sessions on a single day.
 20-1	3336-3343	Notably	_
 20-2	3344-3345	,	_
 20-3	3346-3349	the	_
@@ -626,6 +646,7 @@
 20-29	3509-3512	day	_
 20-30	3513-3514	.	_
 
+Text=To balance the amount of data across paradigms and to avoid overrepresentation of resting state in the following cross-paradigm computations, we only used the resting-state data from the two sessions acquired on the first day.
 21-1	3515-3517	To	_
 21-2	3518-3525	balance	_
 21-3	3526-3529	the	_
@@ -664,6 +685,7 @@
 21-36	3738-3741	day	_
 21-37	3742-3743	.	_
 
+Text=The STAR data set used two fMRI paradigms that have been described previously.
 22-1	3744-3747	The	_
 22-2	3748-3752	STAR	_
 22-3	3753-3757	data	_
@@ -679,6 +701,7 @@
 22-13	3811-3821	previously	_
 22-14	3822-3823	.	_
 
+Text=In brief, the spatial working memory task used an event-related design where subjects were asked to encode the location of three target circles and to indicate whether the ensuing probe circle appeared at the same location as one of the target circles.
 23-1	3824-3826	In	_
 23-2	3827-3832	brief	_
 23-3	3833-3834	,	_
@@ -724,6 +747,7 @@
 23-43	4069-4076	circles	_
 23-44	4077-4078	.	_
 
+Text=During the block-designed emotional face processing task, subjects were shown a series of emotional faces and geometric shapes and were instructed to match either the target faces or the target shapes.
 24-1	4079-4085	During	_
 24-2	4086-4089	the	_
 24-3	4090-4104	block-designed	_
@@ -758,6 +782,7 @@
 24-32	4274-4280	shapes	_
 24-33	4281-4282	.	_
 
+Text=Data acquisition The HCP data were collected from a customized 3T Siemens Connectome scanner equipped with a 32-channel head coil.
 25-1	4283-4287	Data	_
 25-2	4288-4299	acquisition	_
 25-3	4300-4303	The	_
@@ -780,6 +805,7 @@
 25-20	4408-4412	coil	_
 25-21	4413-4414	.	_
 
+Text=BOLD images were acquired using a multiband GRE-EPI sequence with the following parameters: TR = 720 ms, TE = 33.1 ms, FA = 52°, FOV = 208 × 180 mm2, 2 mm slice thickness, 72 slices, multiband factor = 8.
 26-1	4415-4419	BOLD	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 26-2	4420-4426	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 26-3	4427-4431	were	_
@@ -829,6 +855,7 @@
 26-47	4624-4625	8	_
 26-48	4626-4627	.	_
 
+Text=Of note, unlike the commonly applied phase-encoding directions along the “ anterior-posterior ” axis, the HCP fMRI data were acquired using left-right and right-left phase-encoding directions to accelerate scan time and to minimize image distortion.
 27-1	4628-4630	Of	_
 27-2	4631-4635	note	_
 27-3	4636-4637	,	_
@@ -868,6 +895,7 @@
 27-37	4868-4878	distortion	_
 27-38	4879-4880	.	_
 
+Text=Each paradigm was scanned with two sessions, with each direction per session.
 28-1	4881-4885	Each	_
 28-2	4886-4894	paradigm	_
 28-3	4895-4898	was	_
@@ -883,6 +911,7 @@
 28-13	4951-4958	session	_
 28-14	4959-4960	.	_
 
+Text=In addition, T1-weighted and T2-weighted images were acquired using 3D-MPRAGE and 3D-T2-SPACE sequences with 0.7 mm voxel size and 224 × 224 mm2 FOV.
 29-1	4961-4963	In	_
 29-2	4964-4972	addition	_
 29-3	4973-4974	,	_
@@ -910,6 +939,7 @@
 29-25	5107-5110	FOV	_
 29-26	5111-5112	.	_
 
+Text=The T1 images used a TR of 2400 ms and TE of 2.14 ms, and the T2 images used a TR of 3200 ms and TE of 565 ms.
 30-1	5113-5116	The	_
 30-2	5117-5119	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
 30-3	5120-5126	images	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging
@@ -942,6 +972,7 @@
 30-30	5221-5223	ms	_
 30-31	5224-5225	.	_
 
+Text=The STAR data were acquired from a 1.5 T GE scanner equipped with a standard 8-channel head coil.
 31-1	5226-5229	The	_
 31-2	5230-5234	STAR	http://maven.renci.org/NeuroBridge/neurobridge#StudyData
 31-3	5235-5239	data	http://maven.renci.org/NeuroBridge/neurobridge#StudyData
@@ -962,6 +993,7 @@
 31-18	5318-5322	coil	_
 31-19	5323-5324	.	_
 
+Text=GRE-EPI sequence was used for functional imaging: TR = 2500 ms, TE = 40 ms, FA = 90°, 3.5 mm slice thickness, voxel size 3.44 × 3.44 × 4.5 mm3.
 32-1	5325-5332	GRE-EPI	_
 32-2	5333-5341	sequence	_
 32-3	5342-5345	was	_
@@ -999,6 +1031,7 @@
 32-35	5469-5472	mm3	_
 32-36	5473-5474	.	_
 
+Text=T2-weighted images were scanned using a spin-echo sequence with 4000 ms TR, 82 ms TE, and 4 mm slice thickness.
 33-1	5475-5486	T2-weighted	http://maven.renci.org/NeuroBridge/neurobridge#T2WeightedImaging
 33-2	5487-5493	images	http://maven.renci.org/NeuroBridge/neurobridge#T2WeightedImaging
 33-3	5494-5498	were	_
@@ -1023,6 +1056,7 @@
 33-22	5578-5587	thickness	_
 33-23	5588-5589	.	_
 
+Text=Data preprocessing The HCP data were downloaded after the completion of imaging preprocessing (https: //db.humanconnectome.org).
 34-1	5590-5594	Data	_
 34-2	5595-5608	preprocessing	_
 34-3	5609-5612	The	_
@@ -1043,6 +1077,7 @@
 34-18	5719-5720	)	_
 34-19	5721-5722	.	_
 
+Text=The preprocessing procedure followed the standard HCP preprocessing pipeline including five major steps: PreFreeSurfer, FreeSurfer, PostFreeSurfer, fMRIVolume, and fMRISurface.
 35-1	5723-5726	The	_
 35-2	5727-5740	preprocessing	_
 35-3	5741-5750	procedure	_
@@ -1069,6 +1104,7 @@
 35-24	5892-5903	fMRISurface	_
 35-25	5904-5905	.	_
 
+Text=In brief, images were corrected for gradient nonlinearity induced distortion, head motion, and phase-encoding related distortion, registered to individuals ’ T1-weighted images, and normalized to the MNI space.
 36-1	5906-5908	In	_
 36-2	5909-5914	brief	_
 36-3	5915-5916	,	_
@@ -1104,6 +1140,7 @@
 36-33	6115-6120	space	_
 36-34	6121-6122	.	_
 
+Text=The STAR data were preprocessed using the standard pipeline implemented in the Statistical Parametric Mapping software (SPM12, https: //www.fil.ion.ucl.ac.uk/spm/software/spm12/), including slice timing, head motion realignment, functional-structural image coregistration, MNI space normalization, and spatial smoothing.
 37-1	6123-6126	The	_
 37-2	6127-6131	STAR	_
 37-3	6132-6136	data	_
@@ -1149,6 +1186,7 @@
 37-43	6442-6451	smoothing	_
 37-44	6452-6453	.	_
 
+Text=All preprocessed images were further scrutinized for head motion using the measure of frame-wise displacement (FD) to ensure data quality.
 38-1	6454-6457	All	_
 38-2	6458-6470	preprocessed	_
 38-3	6471-6477	images	_
@@ -1173,6 +1211,7 @@
 38-22	6586-6593	quality	_
 38-23	6594-6595	.	_
 
+Text=All subjects in both data sets had a mean FD <0.5 mm.
 39-1	6596-6599	All	_
 39-2	6600-6608	subjects	_
 39-3	6609-6611	in	_
@@ -1188,6 +1227,7 @@
 39-13	6647-6649	mm	_
 39-14	6650-6651	.	_
 
+Text=Cross-paradigm connectivity and extraction of CTC network The overall processing pipeline of this study is presented in Fig.
 40-1	6652-6666	Cross-paradigm	_
 40-2	6667-6679	connectivity	_
 40-3	6680-6683	and	_
@@ -1208,9 +1248,11 @@
 40-18	6772-6775	Fig	_
 40-19	6776-6777	.	_
 
+Text=1.
 41-1	6778-6779	1	_
 41-2	6780-6781	.	_
 
+Text=The cross-paradigm connectivity (CPC) computation and extraction of CTC network followed our prior work.
 42-1	6782-6785	The	_
 42-2	6786-6800	cross-paradigm	_
 42-3	6801-6813	connectivity	_
@@ -1229,6 +1271,7 @@
 42-16	6883-6887	work	_
 42-17	6888-6889	.	_
 
+Text=Specifically, the mean time series for each of the 270 nodes in the expanded Power brain atlas were extracted from the preprocessed images.
 43-1	6890-6902	Specifically	_
 43-2	6903-6904	,	_
 43-3	6905-6908	the	_
@@ -1255,6 +1298,7 @@
 43-24	7023-7029	images	_
 43-25	7030-7031	.	_
 
+Text=The extracted time series were further corrected for task-related coactivations (for task data), white matter and cerebrospinal fluid signals, the 24 head motion parameters (i.e., the six rigid-body parameters generated from the realignment step, their first derivatives, and the squares of these 12 parameters), and the FD.
 44-1	7032-7035	The	_
 44-2	7036-7045	extracted	_
 44-3	7046-7050	time	_
@@ -1314,6 +1358,7 @@
 44-57	7363-7365	FD	_
 44-58	7366-7367	.	_
 
+Text=The corrected time series were then temporally filtered (task data: 0.008 Hz high pass, rest data: 0.008–0.1 Hz band pass) to account for scanner and physiological noise.
 45-1	7368-7371	The	_
 45-2	7372-7381	corrected	_
 45-3	7382-7386	time	_
@@ -1348,6 +1393,7 @@
 45-32	7537-7542	noise	_
 45-33	7543-7544	.	_
 
+Text=Subsequently, a 270 × 270 pairwise connectivity matrix was generated using Pearson correlation for each subject during each paradigm and scan session.
 46-1	7545-7557	Subsequently	_
 46-2	7558-7559	,	_
 46-3	7560-7561	a	_
@@ -1373,6 +1419,7 @@
 46-23	7688-7695	session	_
 46-24	7696-7697	.	_
 
+Text=Following prior suggestions, we averaged the derived connectivity matrices across the two sessions for each paradigm to boost signals, generating eight paradigm-specific connectivity matrices for each subject in the HCP data and two paradigm-specific connectivity matrices for each subject in the STAR data.
 47-1	7698-7707	Following	_
 47-2	7708-7713	prior	_
 47-3	7714-7725	suggestions	_
@@ -1420,6 +1467,7 @@
 47-45	8002-8006	data	_
 47-46	8007-8008	.	_
 
+Text=The matrices for each subject were vectorized, concatenated across paradigms, and then decomposed into a set of principal components (PCs) using singular value decomposition (SVD).
 48-1	8009-8012	The	_
 48-2	8013-8021	matrices	_
 48-3	8022-8025	for	_
@@ -1453,6 +1501,7 @@
 48-31	8193-8194	)	_
 48-32	8195-8196	.	_
 
+Text=The first PCs generated from the analysis represented the shared CPC and were thus extracted.
 49-1	8197-8200	The	_
 49-2	8201-8206	first	_
 49-3	8207-8210	PCs	_
@@ -1470,6 +1519,7 @@
 49-15	8280-8289	extracted	_
 49-16	8290-8291	.	_
 
+Text=From these CPC matrices we further extracted the identified CTC network based on our prior work.
 50-1	8292-8296	From	_
 50-2	8297-8302	these	_
 50-3	8303-8306	CPC	_
@@ -1488,6 +1538,7 @@
 50-16	8383-8387	work	_
 50-17	8388-8389	.	_
 
+Text=Heritability estimation of CTC connectivity The HCP data were employed to quantify heritability of the CTC connectivity.
 51-1	8390-8402	Heritability	_
 51-2	8403-8413	estimation	_
 51-3	8414-8416	of	_
@@ -1507,6 +1558,7 @@
 51-17	8497-8509	connectivity	_
 51-18	8510-8511	.	_
 
+Text=We first calculated the similarities of the MZ and DZ twin pairs using intra-class correlations.
 52-1	8512-8514	We	_
 52-2	8515-8520	first	_
 52-3	8521-8531	calculated	_
@@ -1524,6 +1576,7 @@
 52-15	8595-8607	correlations	_
 52-16	8608-8609	.	_
 
+Text=A larger correlation coefficient between MZ pairs compared with that between DZ pairs indicates a potential genetic effect.
 53-1	8610-8611	A	_
 53-2	8612-8618	larger	_
 53-3	8619-8630	correlation	_
@@ -1544,6 +1597,7 @@
 53-18	8726-8732	effect	_
 53-19	8733-8734	.	_
 
+Text=Since the MZ correlation was larger than twice of the DZ correlation in our sample (see Results section), we estimated an ADE model using structural equation modeling (SEM).
 54-1	8735-8740	Since	_
 54-2	8741-8744	the	_
 54-3	8745-8747	MZ	_
@@ -1579,6 +1633,7 @@
 54-33	8911-8912	)	_
 54-34	8913-8914	.	_
 
+Text=This is due to the fact that dominant genetic effects (D) would decrease the DZ correlation relative to the MZ correlation.
 55-1	8915-8919	This	_
 55-2	8920-8922	is	_
 55-3	8923-8926	due	_
@@ -1604,6 +1659,7 @@
 55-23	9028-9039	correlation	_
 55-24	9040-9041	.	_
 
+Text=Specifically, using the SEM toolbox OpenMx implemented in R (https: //openmx.ssri.psu.edu/), we decomposed the total variance of phenotype into additive genetic effects (A), dominant genetic effects (D), and unique environmental effects (E).
 56-1	9042-9054	Specifically	_
 56-2	9055-9056	,	_
 56-3	9057-9062	using	_
@@ -1651,6 +1707,7 @@
 56-45	9294-9295	)	_
 56-46	9296-9297	.	_
 
+Text=In general, the MZ twins share 100% of additive and dominant genetic effects, while the DZ twins share 50% and 25% of additive and dominant genetic effects, respectively.
 57-1	9298-9300	In	_
 57-2	9301-9308	general	_
 57-3	9309-9310	,	_
@@ -1687,6 +1744,7 @@
 57-34	9461-9473	respectively	_
 57-35	9474-9475	.	_
 
+Text=Based on this information, we estimated the squares of each path coefficients (a2, d2, e2) that reflect the proportion of phenotypic variation attributable to the A, D, E effects, respectively.
 58-1	9476-9481	Based	_
 58-2	9482-9484	on	_
 58-3	9485-9489	this	_
@@ -1727,6 +1785,7 @@
 58-38	9664-9676	respectively	_
 58-39	9677-9678	.	_
 
+Text=This was done by iteratively maximizing the log-likelihood between observed and predicted covariance matrices.
 59-1	9679-9683	This	_
 59-2	9684-9687	was	_
 59-3	9688-9692	done	_
@@ -1743,6 +1802,7 @@
 59-14	9780-9788	matrices	_
 59-15	9789-9790	.	_
 
+Text=The goodness-of-fit of the estimated model was quantified by −2 times the log-likelihood (−2LL, ref.)
 60-1	9791-9794	The	_
 60-2	9795-9810	goodness-of-fit	_
 60-3	9811-9813	of	_
@@ -1763,6 +1823,7 @@
 60-18	9893-9894	.	_
 60-19	9895-9896	)	_
 
+Text=as well as the Akaike Information Criterion (AIC, ref.
 61-1	9897-9899	as	_
 61-2	9900-9904	well	_
 61-3	9905-9907	as	_
@@ -1776,6 +1837,7 @@
 61-11	9949-9952	ref	_
 61-12	9953-9954	.	_
 
+Text=), and was compared to the saturated model in which all covariances were treated as free parameters using Chi-squared test.
 62-1	9955-9956	)	_
 62-2	9957-9958	,	_
 62-3	9959-9962	and	_
@@ -1799,6 +1861,7 @@
 62-21	10074-10078	test	_
 62-22	10079-10080	.	_
 
+Text=A non-significant P value (> 0.05) indicates a good model fit.
 63-1	10081-10082	A	_
 63-2	10083-10098	non-significant	_
 63-3	10099-10100	P	_
@@ -1814,6 +1877,7 @@
 63-13	10141-10144	fit	_
 63-14	10145-10146	.	_
 
+Text=Moreover, the full ADE model was further compared with nested AE, DE, and E models, and the most parsimonious model was determined by the one with the smallest −2LL and AIC values.
 64-1	10147-10155	Moreover	_
 64-2	10156-10157	,	_
 64-3	10158-10161	the	_
@@ -1852,6 +1916,7 @@
 64-36	10324-10330	values	_
 64-37	10331-10332	.	_
 
+Text=Heritability (h2) was subsequently quantified as the proportion of phenotypic variance attributable to genetic effects in the most parsimonious model.
 65-1	10333-10345	Heritability	_
 65-2	10346-10347	(	_
 65-3	10348-10350	h2	_
@@ -1876,6 +1941,7 @@
 65-22	10479-10484	model	_
 65-23	10485-10486	.	_
 
+Text=Association of CTC connectivity with schizophrenia genetic risk We examined the association between CTC connectivity and genetic risk of schizophrenia in the STAR data.
 66-1	10487-10498	Association	_
 66-2	10499-10501	of	_
 66-3	10502-10505	CTC	_
@@ -1902,6 +1968,7 @@
 66-24	10650-10654	data	_
 66-25	10655-10656	.	_
 
+Text=Specifically, a linear regression model was employed where CTC connectivity was included as dependent variable and genetic proximity to schizophrenia (i.e., schizophrenia MZ cotwins> schizophrenia DZ cotwins> control twins), age, sex, and FD were included as regressors.
 67-1	10657-10669	Specifically	_
 67-2	10670-10671	,	_
 67-3	10672-10673	a	_
@@ -1950,6 +2017,7 @@
 67-46	10925-10935	regressors	_
 67-47	10936-10937	.	_
 
+Text=A significant regression coefficient for genetic proximity indicates that CTC connectivity is associated with schizophrenia genetic risk.
 68-1	10938-10939	A	_
 68-2	10940-10951	significant	_
 68-3	10952-10962	regression	_
@@ -1969,6 +2037,7 @@
 68-17	11070-11074	risk	_
 68-18	11075-11076	.	_
 
+Text=Since the size of STAR sample was relatively small, we further included all twins in the HCP sample as controls in the regression model.
 69-1	11077-11082	Since	_
 69-2	11083-11086	the	_
 69-3	11087-11091	size	_
@@ -1996,6 +2065,7 @@
 69-25	11208-11213	model	_
 69-26	11214-11215	.	_
 
+Text=To control for discrepancy between the two data sets, cohort was included as an additional regressor in the model for the combined sample.
 70-1	11216-11218	To	_
 70-2	11219-11226	control	_
 70-3	11227-11230	for	_

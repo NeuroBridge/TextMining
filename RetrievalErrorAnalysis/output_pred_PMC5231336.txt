@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Regional Homogeneity Changes in Nicotine Addicts by Resting-State fMRI Objective To reveal the brain functional changes of nicotine addicts compared with those of non-smokers and explore the objective biomarker for nicotine dependence evaluation.
 1-1	0-8	Regional	_
 1-2	9-20	Homogeneity	_
 1-3	21-28	Changes	_
@@ -37,6 +38,7 @@
 1-33	235-245	evaluation	_
 1-34	246-247	.	_
 
+Text=Methods A total of 14 smokers and 11 non-smoking controls were recruited for this study.
 2-1	248-255	Methods	_
 2-2	256-257	A	_
 2-3	258-263	total	_
@@ -54,6 +56,7 @@
 2-15	330-335	study	_
 2-16	336-337	.	_
 
+Text=Resting-state functional magnetic resonance imaging and regional homogeneity (ReHo) were applied in the neural activity analysis.
 3-1	338-351	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 3-2	352-362	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 3-3	363-371	magnetic	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -74,6 +77,7 @@
 3-18	460-468	analysis	_
 3-19	469-470	.	_
 
+Text=Two-sample t-test was performed to examine the voxel-wise difference between the smokers and the controls.
 4-1	471-481	Two-sample	_
 4-2	482-488	t-test	_
 4-3	489-492	was	_
@@ -91,6 +95,7 @@
 4-15	568-576	controls	_
 4-16	577-578	.	_
 
+Text=Correlation analysis between the ReHo values and the Fagerstrom Test for Nicotine Dependence (FTND) scores were performed to explore the biomarkers for the clinical characteristics of smokers.
 5-1	579-590	Correlation	_
 5-2	591-599	analysis	_
 5-3	600-607	between	_
@@ -122,6 +127,7 @@
 5-29	765-772	smokers	_
 5-30	773-774	.	_
 
+Text=Results The ReHo values from the right superior frontal gyrus of the Brodmann ’ s area (BA) 9 to the right middle frontal gyrus and the ReHo value from the left and right precuneus (BA 23) to the left and right middle cingulum gyrus were lower in the smokers than in the non-smokers.
 6-1	775-782	Results	_
 6-2	783-786	The	_
 6-3	787-791	ReHo	_
@@ -181,6 +187,7 @@
 6-57	1050-1061	non-smokers	_
 6-58	1062-1063	.	_
 
+Text=The ReHo value in the precuneus (BA 23) was significantly and positively correlated with the FTND score of smokers.
 7-1	1064-1067	The	_
 7-2	1068-1072	ReHo	_
 7-3	1073-1078	value	_
@@ -204,6 +211,7 @@
 7-21	1173-1180	smokers	http://maven.renci.org/NeuroBridge/neurobridge#Person
 7-22	1181-1182	.	_
 
+Text=Conclusion The ReHo values in the right superior frontal gyrus and left precuneus can be used to separate the smokers from the non-smokers.
 8-1	1183-1193	Conclusion	_
 8-2	1194-1197	The	_
 8-3	1198-1202	ReHo	_
@@ -229,6 +237,7 @@
 8-23	1310-1321	non-smokers	_
 8-24	1322-1323	.	_
 
+Text=In particular, the left precuneus is a potential neuroimaging biomarker for nicotine addicts.
 9-1	1324-1326	In	_
 9-2	1327-1337	particular	_
 9-3	1338-1339	,	_
@@ -245,6 +254,7 @@
 9-14	1410-1417	addicts	_
 9-15	1418-1419	.	_
 
+Text=Materials and Methods Participants The study was approved by the Ethics Committee of Affiliated Hospital of Guilin Medical University (Guilin, Guangxi, China).
 10-1	1420-1429	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-2	1430-1433	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 10-3	1434-1441	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -273,6 +283,7 @@
 10-26	1581-1582	)	_
 10-27	1583-1584	.	_
 
+Text=A total of 14 smokers and 11 non-smoking controls were recruited for this study.
 11-1	1585-1586	A	_
 11-2	1587-1592	total	_
 11-3	1593-1595	of	_
@@ -289,6 +300,7 @@
 11-14	1659-1664	study	_
 11-15	1665-1666	.	_
 
+Text=All the participants signed consents to the experiment.
 12-1	1667-1670	All	_
 12-2	1671-1674	the	_
 12-3	1675-1687	participants	_
@@ -299,6 +311,7 @@
 12-8	1711-1721	experiment	_
 12-9	1722-1723	.	_
 
+Text=The demographic and clinical data of subjects are summarized in Table 1.
 13-1	1724-1727	The	_
 13-2	1728-1739	demographic	_
 13-3	1740-1743	and	_
@@ -313,6 +326,7 @@
 13-12	1794-1795	1	_
 13-13	1796-1797	.	_
 
+Text=All participants were healthy males, received 12 years of education or longer, right-handed, showed no contraindications for MRI check, and exhibited no brain structural abnormality.
 14-1	1798-1801	All	_
 14-2	1802-1814	participants	_
 14-3	1815-1819	were	_
@@ -344,6 +358,7 @@
 14-29	1972-1983	abnormality	_
 14-30	1984-1985	.	_
 
+Text=All smokers in the study were diagnosed based on the Diagnostic and Statistical Manual of Mental Disorders-IV, and they were smoking more than 10 cigarettes per day for 5 years or longer.
 15-1	1986-1989	All	_
 15-2	1990-1997	smokers	_
 15-3	1998-2000	in	_
@@ -379,6 +394,7 @@
 15-33	2167-2173	longer	_
 15-34	2174-2175	.	_
 
+Text=The smoking participants had no marijuana, heroin, alcohol, and other drug addiction.
 16-1	2176-2179	The	_
 16-2	2180-2187	smoking	http://maven.renci.org/NeuroBridge/neurobridge#QuestionnaireonSmokingUrges
 16-3	2188-2200	participants	_
@@ -396,6 +412,7 @@
 16-15	2254-2263	addiction	_
 16-16	2264-2265	.	_
 
+Text=They had no previous epilepsy, family history of epilepsy, and other psychiatric disorders.
 17-1	2266-2270	They	_
 17-2	2271-2274	had	_
 17-3	2275-2277	no	_
@@ -413,6 +430,7 @@
 17-15	2349-2358	disorders	_
 17-16	2359-2360	.	_
 
+Text=All smokers were tested by FTND.
 18-1	2361-2364	All	_
 18-2	2365-2372	smokers	_
 18-3	2373-2377	were	_
@@ -421,6 +439,7 @@
 18-6	2388-2392	FTND	_
 18-7	2393-2394	.	_
 
+Text=Data Acquisition MRI data were collected with a 3T Siemens Verio MRI scanner at the Affiliated Hospital of Guilin Medical University using a 12-channel head coil.
 19-1	2395-2399	Data	_
 19-2	2400-2411	Acquisition	_
 19-3	2412-2415	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -449,6 +468,7 @@
 19-26	2552-2556	coil	_
 19-27	2557-2558	.	_
 
+Text=Participants laid in the scanner in the supine position.
 20-1	2559-2571	Participants	_
 20-2	2572-2576	laid	_
 20-3	2577-2579	in	_
@@ -460,6 +480,7 @@
 20-9	2606-2614	position	_
 20-10	2615-2616	.	_
 
+Text=Cushions and forehead straps were used to immobilize the head to minimize movement.
 21-1	2617-2625	Cushions	_
 21-2	2626-2629	and	_
 21-3	2630-2638	forehead	_
@@ -475,6 +496,7 @@
 21-13	2691-2699	movement	_
 21-14	2700-2701	.	_
 
+Text=During rs-fMRI data acquisition, participants were instructed to rest with their eyes close.
 22-1	2702-2708	During	_
 22-2	2709-2716	rs-fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 22-3	2717-2721	data	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -491,6 +513,7 @@
 22-14	2789-2794	close	_
 22-15	2795-2796	.	_
 
+Text=Functional images were acquired using a single-shot gradient echo-echo planar imaging sequence.
 23-1	2797-2807	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 23-2	2808-2814	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 23-3	2815-2819	were	_
@@ -505,6 +528,7 @@
 23-12	2883-2891	sequence	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 23-13	2892-2893	.	_
 
+Text=The imaging parameters were as follows: field of view (FOV) = 22 cm × 22 cm, slices = 43, slice thickness = 3.2 mm, no slice gap, repetition time (TR) = 2000 ms, echo time (TE) = 30 ms, flip angle (FA) = 90 with nominal resolution = 3.4 mm × 3.4 mm × 3.2 mm and matrix = 64 × 64.
 24-1	2894-2897	The	_
 24-2	2898-2905	imaging	_
 24-3	2906-2916	parameters	_
@@ -584,6 +608,7 @@
 24-77	3185-3187	64	_
 24-78	3188-3189	.	_
 
+Text=The scan time of each rs-fMRI was 480 s, and a total of 240 volumes were collected.
 25-1	3190-3193	The	_
 25-2	3194-3198	scan	_
 25-3	3199-3203	time	_
@@ -604,6 +629,7 @@
 25-18	3264-3273	collected	_
 25-19	3274-3275	.	_
 
+Text=Structural images were acquired using a three-dimensional magnetization- prepared rapid gradient-echo sequence with TR = 1900 ms, TE = 2.52 ms, FA = 8, matrix = 256 × 256, FOV = 25.6 cm × 25.6 cm, slice thickness = 1.0 mm, and no slice gap.
 26-1	3276-3286	Structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 26-2	3287-3293	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging
 26-3	3294-3298	were	_
@@ -657,6 +683,7 @@
 26-51	3518-3521	gap	_
 26-52	3522-3523	.	_
 
+Text=A total of 176 slices were used to cover the whole brain.
 27-1	3524-3525	A	_
 27-2	3526-3531	total	_
 27-3	3532-3534	of	_
@@ -671,6 +698,7 @@
 27-12	3575-3580	brain	_
 27-13	3581-3582	.	_
 
+Text=Data Analysis All rs-fMRI data were preprocessed using the software for Data Processing Assistant for Resting-State fMRI (DPARSF, http: //www.restfmri.net/forum/DPARSF) based on Statistical Parametric Mapping (SPM8, http: //www.fil.ion.ucl.ac.uk/spm) and Resting-state fMRI Data Analysis Toolkit (REST, http: //www.restfmri.net).
 28-1	3583-3587	Data	_
 28-2	3588-3596	Analysis	_
 28-3	3597-3600	All	_
@@ -722,6 +750,7 @@
 28-49	3922-3923	)	_
 28-50	3924-3925	.	_
 
+Text=We converted the DICOM data to NIfTI format.
 29-1	3926-3928	We	_
 29-2	3929-3938	converted	_
 29-3	3939-3942	the	_
@@ -732,6 +761,7 @@
 29-8	3963-3969	format	_
 29-9	3970-3971	.	_
 
+Text=The first 10 volumes of each time series of echo-planar images were discarded to prevent the effect of the un-equilibrium of tissue magnetization that may introduce artifacts in the signal.
 30-1	3972-3975	The	_
 30-2	3976-3981	first	_
 30-3	3982-3984	10	_
@@ -764,6 +794,7 @@
 30-30	4154-4160	signal	_
 30-31	4161-4162	.	_
 
+Text=The remaining 230 time points of each time course image series were used for analysis.
 31-1	4163-4166	The	_
 31-2	4167-4176	remaining	_
 31-3	4177-4180	230	_
@@ -781,6 +812,7 @@
 31-15	4240-4248	analysis	_
 31-16	4249-4250	.	_
 
+Text=The selected time course images were subsequently corrected for slice timing and realigned to the image of the first time point for the correction of the rigid-body head movement.
 32-1	4251-4254	The	_
 32-2	4255-4263	selected	_
 32-3	4264-4268	time	_
@@ -812,6 +844,7 @@
 32-29	4421-4429	movement	_
 32-30	4430-4431	.	_
 
+Text=At any time course, data exhibiting distortion from the movement larger than 1.5 mm and rotation larger than 1.5° were discarded.
 33-1	4432-4434	At	_
 33-2	4435-4438	any	_
 33-3	4439-4443	time	_
@@ -836,6 +869,7 @@
 33-22	4552-4561	discarded	_
 33-23	4562-4563	.	_
 
+Text=The time course images (3 mm × 3 mm × 3 mm) were then spatially normalized into the standard Montreal Neurological Institute space.
 34-1	4564-4567	The	_
 34-2	4568-4572	time	_
 34-3	4573-4579	course	_
@@ -863,6 +897,7 @@
 34-25	4691-4696	space	_
 34-26	4697-4698	.	_
 
+Text=Data were temporal band-pass filtered (0.01–0.08 Hz) to reduce the effects of low-frequency drift and physiological high-frequency noise.
 35-1	4699-4703	Data	_
 35-2	4704-4708	were	_
 35-3	4709-4717	temporal	_
@@ -885,6 +920,7 @@
 35-20	4832-4837	noise	_
 35-21	4838-4839	.	_
 
+Text=The linear trend was also removed.
 36-1	4840-4843	The	_
 36-2	4844-4850	linear	_
 36-3	4851-4856	trend	_
@@ -893,6 +929,7 @@
 36-6	4866-4873	removed	_
 36-7	4874-4875	.	_
 
+Text=The ReHo analysis was performed with the REST toolkit.
 37-1	4876-4879	The	_
 37-2	4880-4884	ReHo	_
 37-3	4885-4893	analysis	_
@@ -904,6 +941,7 @@
 37-9	4922-4929	toolkit	_
 37-10	4930-4931	.	_
 
+Text=The ReHo maps were generated for each subject by calculating the Kendall coefficient of concordance (KCC) of the time series of a given voxel.
 38-1	4932-4935	The	_
 38-2	4936-4940	ReHo	_
 38-3	4941-4945	maps	_
@@ -932,6 +970,7 @@
 38-26	5070-5075	voxel	_
 38-27	5076-5077	.	_
 
+Text=The KCC for each voxel in the brain was calculated voxel-wise by 27 voxels (one given voxel plus its adjacent 26 voxels).
 39-1	5078-5081	The	_
 39-2	5082-5085	KCC	_
 39-3	5086-5089	for	_
@@ -958,6 +997,7 @@
 39-24	5199-5200	)	_
 39-25	5201-5202	.	_
 
+Text=The standard ReHo value for each voxel is the KCC value of the voxel/the mean of the KCC values of the whole brain.
 40-1	5203-5206	The	_
 40-2	5207-5215	standard	_
 40-3	5216-5220	ReHo	_
@@ -983,6 +1023,7 @@
 40-23	5312-5317	brain	_
 40-24	5318-5319	.	_
 
+Text=Spatial smoothing was then performed on the standardized individual ReHo maps using an isotropic Gaussian filter with a Gaussian kernel of 6 mm and full-width at half maximum (FWHM).
 41-1	5320-5327	Spatial	_
 41-2	5328-5337	smoothing	_
 41-3	5338-5341	was	_
@@ -1016,6 +1057,7 @@
 41-31	5502-5503	)	_
 41-32	5504-5505	.	_
 
+Text=Statistical Analysis For the demographic and clinical data, two-sample t-tests were conducted to identify the difference in age and education between the smokers and the controls.
 42-1	5506-5517	Statistical	_
 42-2	5518-5526	Analysis	_
 42-3	5527-5530	For	_
@@ -1045,6 +1087,7 @@
 42-27	5677-5685	controls	_
 42-28	5686-5687	.	_
 
+Text=The threshold for all statistical significance was set at p <0.05.
 43-1	5688-5691	The	_
 43-2	5692-5701	threshold	_
 43-3	5702-5705	for	_
@@ -1059,6 +1102,7 @@
 43-12	5750-5754	0.05	_
 43-13	5755-5756	.	_
 
+Text=For ReHo, two-sample t-test was performed to examine the voxel-wise difference between the smokers and the controls by the REST toolbox.
 44-1	5757-5760	For	_
 44-2	5761-5765	ReHo	_
 44-3	5766-5767	,	_
@@ -1083,6 +1127,7 @@
 44-22	5886-5893	toolbox	_
 44-23	5894-5895	.	_
 
+Text=Voxels with p <0.01 and cluster size> 54 voxels were observed, which resulted in a corrected threshold of p <0.005 determined by AlphaSim (individual voxel P value = 0.01, FWHM = 6 mm, iterations = 1000, rmm = 5, with mask).
 45-1	5896-5902	Voxels	_
 45-2	5903-5907	with	_
 45-3	5908-5909	p	_
@@ -1136,6 +1181,7 @@
 45-51	6128-6129	)	_
 45-52	6130-6131	.	_
 
+Text=These voxels were regarded as the regions of interest (ROI) showing significant difference between the two groups.
 46-1	6132-6137	These	_
 46-2	6138-6144	voxels	_
 46-3	6145-6149	were	_
@@ -1157,6 +1203,7 @@
 46-19	6241-6247	groups	_
 46-20	6248-6249	.	_
 
+Text=To further explore the brain region that may be related to the clinical variable of smokers, correlation analysis was performed between FTND and mean ReHo in a sphere with 5 mm radius centered on the location with the maximal t-value in the t-map in each ROI.
 47-1	6250-6252	To	_
 47-2	6253-6260	further	_
 47-3	6261-6268	explore	_
@@ -1206,6 +1253,7 @@
 47-47	6506-6509	ROI	_
 47-48	6510-6511	.	_
 
+Text=In the analysis, p <0.05 was considered to be statistically significant.
 48-1	6512-6514	In	_
 48-2	6515-6518	the	_
 48-3	6519-6527	analysis	_

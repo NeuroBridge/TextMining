@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Adolescent binge drinking disrupts normal trajectories of brain functional organization and personality maturation Adolescent binge drinking has been associated with higher risks for the development of many health problems throughout the lifespan.
 1-1	0-10	Adolescent	_
 1-2	11-16	binge	_
 1-3	17-25	drinking	_
@@ -36,6 +37,7 @@
 1-32	238-246	lifespan	_
 1-33	247-248	.	_
 
+Text=Adolescents undergo multiple changes that involve the co-development processes of brain, personality and behavior; therefore, certain behavior, such as alcohol consumption, can have disruptive effects on both brain development and personality maturation.
 2-1	249-260	Adolescents	_
 2-2	261-268	undergo	_
 2-3	269-277	multiple	_
@@ -75,6 +77,7 @@
 2-37	497-507	maturation	_
 2-38	508-509	.	_
 
+Text=However, these effects remain unclear due to the scarcity of longitudinal studies.
 3-1	510-517	However	_
 3-2	518-519	,	_
 3-3	520-525	these	_
@@ -90,6 +93,7 @@
 3-13	585-592	studies	_
 3-14	593-594	.	_
 
+Text=In the current study, we used multivariate approaches to explore discriminative features in brain functional architecture, personality traits, and genetic variants in 19-year-old individuals (n = 212).
 4-1	595-597	In	_
 4-2	598-601	the	_
 4-3	602-609	current	_
@@ -124,6 +128,7 @@
 4-32	799-800	)	_
 4-33	801-802	.	_
 
+Text=Taking advantage of a longitudinal design, we selected features that were more drastically altered in drinkers with an earlier onset of binge drinking.
 5-1	803-809	Taking	_
 5-2	810-819	advantage	_
 5-3	820-822	of	_
@@ -150,6 +155,7 @@
 5-24	946-954	drinking	_
 5-25	955-956	.	_
 
+Text=With the selected features, we trained a hierarchical model of support vector machines using a training sample (n = 139).
 6-1	957-961	With	_
 6-2	962-965	the	_
 6-3	966-974	selected	_
@@ -175,6 +181,7 @@
 6-23	1079-1080	)	_
 6-24	1081-1082	.	_
 
+Text=Using an independent sample (n = 73), we tested the model and achieved a classification accuracy of 71.2%.
 7-1	1083-1088	Using	_
 7-2	1089-1091	an	_
 7-3	1092-1103	independent	_
@@ -199,6 +206,7 @@
 7-22	1191-1192	%	_
 7-23	1193-1194	.	_
 
+Text=We demonstrated longitudinally that after the onset of binge drinking the developmental trajectory of improvement in impulsivity slowed down.
 8-1	1195-1197	We	_
 8-2	1198-1210	demonstrated	_
 8-3	1211-1225	longitudinally	_
@@ -220,6 +228,7 @@
 8-19	1331-1335	down	_
 8-20	1336-1337	.	_
 
+Text=This study identified the disrupting effects of adolescent binge drinking on the developmental trajectories of both brain and personality.
 9-1	1338-1342	This	_
 9-2	1343-1348	study	_
 9-3	1349-1359	identified	_
@@ -241,6 +250,7 @@
 9-19	1464-1475	personality	_
 9-20	1476-1477	.	_
 
+Text=Highlights History of binge drinking could be identified by multivariate features at age 19.
 10-1	1478-1488	Highlights	_
 10-2	1489-1496	History	_
 10-3	1497-1499	of	_
@@ -257,6 +267,7 @@
 10-14	1567-1569	19	_
 10-15	1570-1571	.	_
 
+Text=Adolescent binge drinking disrupted frontal connectivity maturation in the brain.
 11-1	1572-1582	Adolescent	_
 11-2	1583-1588	binge	_
 11-3	1589-1597	drinking	_
@@ -269,6 +280,7 @@
 11-10	1647-1652	brain	_
 11-11	1653-1654	.	_
 
+Text=Impulsivity improvement slowed down after the onset of adolescent binge drinking.
 12-1	1655-1666	Impulsivity	_
 12-2	1667-1678	improvement	_
 12-3	1679-1685	slowed	_
@@ -282,6 +294,7 @@
 12-11	1727-1735	drinking	http://maven.renci.org/NeuroBridge/neurobridge#DrinkingBinge
 12-12	1736-1737	.	_
 
+Text=Materials and methods Participants The IMAGEN study recruited a cohort of healthy adolescents at the age of 14.
 13-1	1738-1747	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-2	1748-1751	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 13-3	1752-1759	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -302,6 +315,7 @@
 13-18	1846-1848	14	_
 13-19	1849-1850	.	_
 
+Text=Informed consent was obtained from all subjects and their parents/guardians.
 14-1	1851-1859	Informed	_
 14-2	1860-1867	consent	_
 14-3	1868-1871	was	_
@@ -314,6 +328,7 @@
 14-10	1909-1926	parents/guardians	_
 14-11	1927-1928	.	_
 
+Text=The genetic data were collected at baseline, the neuroimaging data were collected at ages 14 and 19, and environmental and behavioral data were collected at ages 14, 16 and 19.
 15-1	1929-1932	The	_
 15-2	1933-1940	genetic	_
 15-3	1941-1945	data	_
@@ -349,6 +364,7 @@
 15-33	2105-2107	19	_
 15-34	2108-2109	.	_
 
+Text=The details of the study design and data quality are described in a previous report (G).
 16-1	2110-2113	The	_
 16-2	2114-2121	details	_
 16-3	2122-2124	of	_
@@ -369,6 +385,7 @@
 16-18	2198-2199	)	_
 16-19	2200-2201	.	_
 
+Text=In total, 212 participants were included in the current study; a flowchart of the inclusion criterion is presented in eFig.
 17-1	2202-2204	In	_
 17-2	2205-2210	total	_
 17-3	2211-2212	,	_
@@ -393,9 +410,11 @@
 17-22	2322-2326	eFig	_
 17-23	2327-2328	.	_
 
+Text=1.
 18-1	2329-2330	1	_
 18-2	2331-2332	.	_
 
+Text=Measurements Resting-state functional imaging data A proportion of the participants in the IMAGEN study underwent resting-state fMRI (rsfMRI).
 19-1	2333-2345	Measurements	_
 19-2	2346-2359	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 19-3	2360-2370	functional	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -418,6 +437,7 @@
 19-20	2475-2476	)	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 19-21	2477-2478	.	_
 
+Text=In the IMAGEN study, much less rsfMRI data (n = 389) were collected at the base line (i.e.
 20-1	2479-2481	In	_
 20-2	2482-2485	the	_
 20-3	2486-2492	IMAGEN	_
@@ -442,11 +462,13 @@
 20-22	2569-2572	i.e	_
 20-23	2573-2574	.	_
 
+Text=age 14).
 21-1	2575-2578	age	_
 21-2	2579-2581	14	_
 21-3	2582-2583	)	_
 21-4	2584-2585	.	_
 
+Text=As rsfMRI got more and more attention, more data (n = 1069) were collected at the follow-up stage (i.e.
 22-1	2586-2588	As	_
 22-2	2589-2595	rsfMRI	_
 22-3	2596-2599	got	_
@@ -472,11 +494,13 @@
 22-23	2689-2692	i.e	_
 22-24	2693-2694	.	_
 
+Text=age 19).
 23-1	2695-2698	age	_
 23-2	2699-2701	19	_
 23-3	2702-2703	)	_
 23-4	2704-2705	.	_
 
+Text=All fMRI data were preprocessed by the Data Processing Assistant for Resting State fMRI (rfmri.org/DPARSF).
 24-1	2706-2709	All	_
 24-2	2710-2714	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 24-3	2715-2719	data	_
@@ -496,6 +520,7 @@
 24-17	2813-2814	)	_
 24-18	2815-2816	.	_
 
+Text=For each individual, we calculated the resting-state functional connectivity (rsFC) between each pair of brain regions [19,900 links for 200 atlas-defined brain regions, Craddock 2011 Atlas eTable 3].
 25-1	2817-2820	For	_
 25-2	2821-2825	each	_
 25-3	2826-2836	individual	_
@@ -532,6 +557,7 @@
 25-34	3021-3022	]	_
 25-35	3023-3024	.	_
 
+Text=Genome-wide genotype data Details of genetic data have been reported previously; we have included detailed descriptions in the eMethods.
 26-1	3025-3036	Genome-wide	_
 26-2	3037-3045	genotype	_
 26-3	3046-3050	data	_
@@ -554,6 +580,7 @@
 26-20	3153-3161	eMethods	_
 26-21	3162-3163	.	_
 
+Text=Briefly, we converted all single nucleotide polymorphisms (SNP) into binary variables; no mutations were assigned the number “ zero ” and mutations were assigned the number “ one ”.
 27-1	3164-3171	Briefly	_
 27-2	3172-3173	,	_
 27-3	3174-3176	we	_
@@ -589,6 +616,7 @@
 27-33	3347-3348	”	_
 27-34	3349-3350	.	_
 
+Text=Substance use We used the European School Survey Project on Alcohol and Drugs [ESPAD (G.)] for ages 14, 16, and 19 years to assess the alcohol consumption, smoking, and cannabis use.
 28-1	3351-3360	Substance	_
 28-2	3361-3364	use	_
 28-3	3365-3367	We	_
@@ -630,6 +658,7 @@
 28-39	3537-3540	use	_
 28-40	3541-3542	.	_
 
+Text=The ESPAD category scores are as follows: 0 (0), 1 (1–2), 2 (3–5), 3 (6–9), 4 (10–19), 5 (20–39), 6 (≥40).
 29-1	3543-3546	The	_
 29-2	3547-3552	ESPAD	_
 29-3	3553-3561	category	_
@@ -674,6 +703,7 @@
 29-42	3668-3669	)	_
 29-43	3670-3671	.	_
 
+Text=The primary questions of interest concerned lifetime alcohol use [for example, On how many occasions (if any) in your lifetime have you had any alcoholic beverage?
 30-1	3672-3675	The	_
 30-2	3676-3683	primary	_
 30-3	3684-3693	questions	_
@@ -706,6 +736,7 @@
 30-30	3830-3838	beverage	_
 30-31	3839-3840	?	_
 
+Text=]; lifetime drunken episodes [for example, On how many occasions (if any) in your lifetime have you been drunk from drinking alcoholic beverages?
 31-1	3841-3842	]	_
 31-2	3843-3844	;	_
 31-3	3845-3853	lifetime	_
@@ -736,6 +767,7 @@
 31-28	3981-3990	beverages	_
 31-29	3991-3992	?	_
 
+Text=]; lifetime smoking (for example, On how many occasions during your lifetime have you smoked cigarettes?
 32-1	3993-3994	]	_
 32-2	3995-3996	;	_
 32-3	3997-4005	lifetime	_
@@ -757,6 +789,7 @@
 32-19	4089-4099	cigarettes	_
 32-20	4100-4101	?	_
 
+Text=); and lifetime cannabis use (for example, On how many occasions in your whole lifetime have you used marijuana or hashish?).
 33-1	4102-4103	)	_
 33-2	4104-4105	;	_
 33-3	4106-4109	and	_
@@ -785,6 +818,7 @@
 33-26	4230-4231	)	_
 33-27	4232-4233	.	_
 
+Text=Variables associated with the occasions of alcohol use and the episodes of binge drinking were measured at three time points (ages 14, 16, and 19), and the data were organized according to the duration and amount of binge drinking during adolescence (Fig.
 34-1	4234-4243	Variables	_
 34-2	4244-4254	associated	_
 34-3	4255-4259	with	_
@@ -835,15 +869,18 @@
 34-48	4491-4494	Fig	_
 34-49	4495-4496	.	_
 
+Text=1, eFig.
 35-1	4497-4498	1	_
 35-2	4499-4500	,	_
 35-3	4501-4505	eFig	_
 35-4	4506-4507	.	_
 
+Text=1).
 36-1	4508-4509	1	_
 36-2	4510-4511	)	_
 36-3	4512-4513	.	_
 
+Text=More details are provided in the eMethods.
 37-1	4514-4518	More	_
 37-2	4519-4526	details	_
 37-3	4527-4530	are	_
@@ -853,6 +890,7 @@
 37-7	4547-4555	eMethods	_
 37-8	4556-4557	.	_
 
+Text=Cognition and personality We used the Cambridge Neuropsychological Test Automated Battery [Cantab], Monetary-Choice Questionnaire (KIRBY rate), personality characteristics tests, including the Revised NEO Personality Inventory [NEO-PI-R], and the Substance Use Risk Profile Scale [SURPS] to assess cognition and personality factors.
 38-1	4558-4567	Cognition	_
 38-2	4568-4571	and	http://maven.renci.org/NeuroBridge/neurobridge#PhysicalMeasurement
 38-3	4572-4583	personality	_
@@ -907,6 +945,7 @@
 38-52	4894-4901	factors	_
 38-53	4902-4903	.	_
 
+Text=Further details are provided in the eMethods.
 39-1	4904-4911	Further	_
 39-2	4912-4919	details	_
 39-3	4920-4923	are	_
@@ -916,6 +955,7 @@
 39-7	4940-4948	eMethods	_
 39-8	4949-4950	.	_
 
+Text=Statistical analyses Univariate approach We used two-sample Student's t-tests, controlling for covariates (sex and site) for univariate analyses, and employed a false discovery rate (FDR) correction for multiple comparisons.
 40-1	4951-4962	Statistical	_
 40-2	4963-4971	analyses	_
 40-3	4972-4982	Univariate	_
@@ -954,6 +994,7 @@
 40-36	5170-5181	comparisons	_
 40-37	5182-5183	.	_
 
+Text=Multivariate approach with hypothesis-guided feature selection To identify discriminative features in high dimensional space and control for the over-fitting problem, we combined several dimension reduction approaches with the multivariate pattern analysis approach [Support-Vector Machine (SVM),].
 41-1	5184-5196	Multivariate	_
 41-2	5197-5205	approach	_
 41-3	5206-5210	with	_
@@ -997,6 +1038,7 @@
 41-41	5486-5487	]	_
 41-42	5488-5489	.	_
 
+Text=The main steps are described below and additional details are provided in the eMethods.
 42-1	5490-5493	The	_
 42-2	5494-5498	main	_
 42-3	5499-5504	steps	_
@@ -1013,6 +1055,7 @@
 42-14	5568-5576	eMethods	_
 42-15	5577-5578	.	_
 
+Text=Candidate feature selection and dimension reduction To reduce dimensionality, we first used the lasso-regularized logistic regression to select the most discriminative rsFCs between the binge drinkers and non-drinking controls.
 43-1	5579-5588	Candidate	_
 43-2	5589-5596	feature	_
 43-3	5597-5606	selection	_
@@ -1045,6 +1088,7 @@
 43-30	5798-5806	controls	_
 43-31	5807-5808	.	_
 
+Text=Chi-squared tests were used to select the SNPs with significantly different frequencies in subjects with a history of binge drinking compared to those without a binge drinking history.
 44-1	5809-5820	Chi-squared	_
 44-2	5821-5826	tests	_
 44-3	5827-5831	were	_
@@ -1075,6 +1119,7 @@
 44-28	5985-5992	history	_
 44-29	5993-5994	.	_
 
+Text=Next, instead of using these features as inputs to the SVM, we further reduced the dimensionality by calculating four summary scores, including increased/decreased rsFC (iFC/dFC) or risk/protective SNP (rSNP/pSNP) scores (Fig.
 45-1	5995-5999	Next	_
 45-2	6000-6001	,	_
 45-3	6002-6009	instead	_
@@ -1116,10 +1161,12 @@
 45-39	6225-6228	Fig	_
 45-40	6229-6230	.	_
 
+Text=2A).
 46-1	6231-6233	2A	_
 46-2	6234-6235	)	_
 46-3	6236-6237	.	_
 
+Text=To prevent model over-fitting in the training sample, we applied the leave-one-out (LOO) cross-validation procedure to the SVM, which was built by the two steps described above.
 47-1	6238-6240	To	_
 47-2	6241-6248	prevent	_
 47-3	6249-6254	model	_
@@ -1153,6 +1200,7 @@
 47-31	6413-6418	above	_
 47-32	6419-6420	.	_
 
+Text=Only those features (rsFC and SNP) that were repeatedly selected in> 90% of iterations during the LOO were considered robustly discriminating features (namely, the candidate features) between the binge drinkers and the control subjects.
 48-1	6421-6425	Only	_
 48-2	6426-6431	those	_
 48-3	6432-6440	features	_
@@ -1196,6 +1244,7 @@
 48-41	6655-6663	subjects	_
 48-42	6664-6665	.	_
 
+Text=We trained one SVM for the long-term drinkers (SVM-long classifier) and the other SVM for the short-term drinkers (SVM-short classifier).
 49-1	6666-6668	We	_
 49-2	6669-6676	trained	_
 49-3	6677-6680	one	_
@@ -1222,6 +1271,7 @@
 49-24	6805-6806	)	_
 49-25	6807-6808	.	_
 
+Text=To assess the contribution of each domain (SNP, rsFC, and covariates) in classification, we compared the model performance before and after the removal of each domain from the model inputs.
 50-1	6809-6811	To	_
 50-2	6812-6818	assess	_
 50-3	6819-6822	the	_
@@ -1259,6 +1309,7 @@
 50-35	6996-7002	inputs	_
 50-36	7003-7004	.	_
 
+Text=The candidate features in the domains significantly contributed to SVM-long and SVM-short were summarized into four new scores (iFC, dFC, rSNP, and pSNP) for next stage.
 51-1	7005-7008	The	_
 51-2	7009-7018	candidate	_
 51-3	7019-7027	features	_
@@ -1292,6 +1343,7 @@
 51-31	7173-7178	stage	_
 51-32	7179-7180	.	_
 
+Text=Hypothesis-guided feature selection According to our hypothesis of trend for the consequences of adolescent binge drinking, we focused on the personality scores and the four new scores established by candidate features.
 52-1	7181-7198	Hypothesis-guided	_
 52-2	7199-7206	feature	_
 52-3	7207-7216	selection	_
@@ -1326,6 +1378,7 @@
 52-32	7392-7400	features	_
 52-33	7401-7402	.	_
 
+Text=We employed the Jonckheere-Terpstra trend test to identify the features that were consistent with the hypothesis of trend (i.e.
 53-1	7403-7405	We	_
 53-2	7406-7414	employed	_
 53-3	7415-7418	the	_
@@ -1348,6 +1401,7 @@
 53-20	7527-7530	i.e	_
 53-21	7531-7532	.	_
 
+Text=the discriminative features having the largest, intermediate and smallest deviations from the control group in the binge drinkers with the longest, medium, and shortest history of binge drinking, respectively; Fig.
 54-1	7533-7536	the	_
 54-2	7537-7551	discriminative	_
 54-3	7552-7560	features	_
@@ -1385,6 +1439,7 @@
 54-35	7748-7751	Fig	_
 54-36	7752-7753	.	_
 
+Text=3A, B, and C).
 55-1	7754-7756	3A	_
 55-2	7757-7758	,	_
 55-3	7759-7760	B	_
@@ -1394,6 +1449,7 @@
 55-7	7769-7770	)	_
 55-8	7771-7772	.	_
 
+Text=Hierarchical classifier Finally, we built a hierarchical classifier, which consisted of two layers: the in-layer and the out-layer (Fig.
 56-1	7773-7785	Hierarchical	_
 56-2	7786-7796	classifier	_
 56-3	7797-7804	Finally	_
@@ -1419,10 +1475,12 @@
 56-23	7909-7912	Fig	_
 56-24	7913-7914	.	_
 
+Text=3D).
 57-1	7915-7917	3D	_
 57-2	7918-7919	)	_
 57-3	7920-7921	.	_
 
+Text=To further reduce dimensionality, we constructed the in-layer with three SVMs taking the inputs from covariates (SVM1), rsFC and SNP (SVM2), and personality (SVM3).
 58-1	7922-7924	To	_
 58-2	7925-7932	further	_
 58-3	7933-7939	reduce	_
@@ -1458,6 +1516,7 @@
 58-33	8093-8094	)	_
 58-34	8095-8096	.	_
 
+Text=Each of these SVMs was trained using the LOO procedure on the training data, including the Control I group, the long-term binge drinking group, and the short-term binge drinking group.
 59-1	8097-8101	Each	_
 59-2	8102-8104	of	_
 59-3	8105-8110	these	_
@@ -1493,6 +1552,7 @@
 59-33	8278-8283	group	_
 59-34	8284-8285	.	_
 
+Text=In the out-layer, one SVM (SVM4) received only 3 input values from the output values of SVM1–3 (a greater output value means more likely to be a binge drinker).
 60-1	8286-8288	In	_
 60-2	8289-8292	the	_
 60-3	8293-8302	out-layer	_
@@ -1529,6 +1589,7 @@
 60-34	8449-8450	)	_
 60-35	8451-8452	.	_
 
+Text=With this hierarchical classifier, we significantly reduced the model complexity by taking the inputs from three kinds of features, so as to achieve a better generalizability.
 61-1	8453-8457	With	_
 61-2	8458-8462	this	_
 61-3	8463-8475	hierarchical	_
@@ -1559,6 +1620,7 @@
 61-28	8613-8629	generalizability	_
 61-29	8630-8631	.	_
 
+Text=The model was then tested using an independent test sample (i.e.
 62-1	8632-8635	The	_
 62-2	8636-8641	model	_
 62-3	8642-8645	was	_
@@ -1573,6 +1635,7 @@
 62-12	8693-8696	i.e	_
 62-13	8697-8698	.	_
 
+Text=the medium-term drinkers and the Control II group).
 63-1	8699-8702	the	_
 63-2	8703-8714	medium-term	_
 63-3	8715-8723	drinkers	_
@@ -1584,6 +1647,7 @@
 63-9	8749-8750	)	_
 63-10	8751-8752	.	_
 
+Text=Longitudinal analysis We could not conduct a longitudinal analysis on the rsfMRI data because we only had 32 subjects (18 binge drinkers and 14 controls) with rsfMRI data available at the age of 14 after participant selection (eFig.
 64-1	8753-8765	Longitudinal	_
 64-2	8766-8774	analysis	_
 64-3	8775-8777	We	_
@@ -1627,10 +1691,12 @@
 64-41	8983-8987	eFig	_
 64-42	8988-8989	.	_
 
+Text=1).
 65-1	8990-8991	1	_
 65-2	8992-8993	)	_
 65-3	8994-8995	.	_
 
+Text=However, personalities were assessed at three time points (ages 14, 16, and 19); therefore, we estimated changes in personality between 14 and 16 years (difference16–14) and between 16 and 19 years (difference19–16).
 66-1	8996-9003	However	_
 66-2	9004-9005	,	_
 66-3	9006-9019	personalities	_
@@ -1676,6 +1742,7 @@
 66-43	9221-9222	)	_
 66-44	9223-9224	.	_
 
+Text=To compare the developmental trajectory of personality between the two different time periods (i.e.
 67-1	9225-9227	To	_
 67-2	9228-9235	compare	_
 67-3	9236-9239	the	_
@@ -1693,6 +1760,7 @@
 67-15	9321-9324	i.e	_
 67-16	9325-9326	.	_
 
+Text=from 14 to 16 and from 16 to 19), difference16–14 and difference19–16 in binge drinkers must be established before and after binge drinking onset, respectively, thus only the short-term drinkers satisfied this condition.
 68-1	9327-9331	from	_
 68-2	9332-9334	14	_
 68-3	9335-9337	to	_
@@ -1732,6 +1800,7 @@
 68-37	9541-9550	condition	_
 68-38	9551-9552	.	_
 
+Text=These differences were compared before and after the onset of binge drinking (significance was given by 1000 permutations of the paired median test).
 69-1	9553-9558	These	_
 69-2	9559-9570	differences	_
 69-3	9571-9575	were	_
@@ -1759,6 +1828,7 @@
 69-25	9702-9703	)	_
 69-26	9704-9705	.	_
 
+Text=By conducting an Analysis of Variance (ANOVA) with repeated measures using SPSS (Released 2011.
 70-1	9706-9708	By	_
 70-2	9709-9719	conducting	_
 70-3	9720-9722	an	_
@@ -1778,6 +1848,7 @@
 70-17	9799-9803	2011	_
 70-18	9804-9805	.	_
 
+Text=IBM SPSS Statistics for Windows, Version 20.0.
 71-1	9806-9809	IBM	_
 71-2	9810-9814	SPSS	_
 71-3	9815-9825	Statistics	_
@@ -1788,6 +1859,7 @@
 71-8	9848-9852	20.0	_
 71-9	9853-9854	.	_
 
+Text=Armonk, NY: IBM Corp), we were able to compare the longitudinal evolutions of both the impulsivity and the sensation-seeking scores between the short-term drinkers and the control subjects.
 72-1	9855-9861	Armonk	_
 72-2	9862-9863	,	_
 72-3	9864-9866	NY	_
@@ -1822,6 +1894,7 @@
 72-32	10039-10047	subjects	_
 72-33	10048-10049	.	_
 
+Text=The same approach was also applied to difference16–14 and difference19–16.
 73-1	10050-10053	The	_
 73-2	10054-10058	same	_
 73-3	10059-10067	approach	_
@@ -1834,6 +1907,7 @@
 73-10	10108-10123	difference19–16	_
 73-11	10124-10125	.	_
 
+Text=The covariates (sex and data collection sites) were regressing out from the measurements before the group comparisons.
 74-1	10126-10129	The	_
 74-2	10130-10140	covariates	_
 74-3	10141-10142	(	_

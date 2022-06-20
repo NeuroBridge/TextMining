@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Connectivity-enhanced diffusion analysis reveals white matter density disruptions in first episode and chronic schizophrenia Reduced fractional anisotropy (FA) is a well-established correlate of schizophrenia, but it remains unclear whether these tensor-based differences are the result of axon damage and/or organizational changes and whether the changes are progressive in the adult course of illness.
 1-1	0-21	Connectivity-enhanced	_
 1-2	22-31	diffusion	_
 1-3	32-40	analysis	_
@@ -60,6 +61,7 @@
 1-56	398-405	illness	_
 1-57	406-407	.	_
 
+Text=Diffusion MRI data were collected in 81 schizophrenia patients (54 first episode and 27 chronic) and 64 controls.
 2-1	408-417	Diffusion	_
 2-2	418-421	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 2-3	422-426	data	_
@@ -82,6 +84,7 @@
 2-20	514-522	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 2-21	523-524	.	_
 
+Text=Analysis of FA was combined with “ fixel-based ” analysis, the latter of which leverages connectivity and crossing-fiber information to assess both fiber bundle density and organizational complexity (i.e., presence and magnitude of off-axis diffusion signal).
 3-1	525-533	Analysis	_
 3-2	534-536	of	_
 3-3	537-539	FA	_
@@ -124,6 +127,7 @@
 3-40	786-787	)	_
 3-41	788-789	.	_
 
+Text=Compared with controls, patients with schizophrenia displayed clusters of significantly lower FA in the bilateral frontal lobes, right dorsal centrum semiovale, and the left anterior limb of the internal capsule.
 4-1	790-798	Compared	_
 4-2	799-803	with	_
 4-3	804-812	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -159,6 +163,7 @@
 4-33	997-1004	capsule	_
 4-34	1005-1006	.	_
 
+Text=All FA-based group differences overlapped substantially with regions containing complex fiber architecture.
 5-1	1007-1010	All	_
 5-2	1011-1019	FA-based	_
 5-3	1020-1025	group	_
@@ -173,6 +178,7 @@
 5-12	1101-1113	architecture	_
 5-13	1114-1115	.	_
 
+Text=FA within these clusters was positively correlated with principal axis fiber density, but inversely correlated with both secondary/tertiary axis fiber density and voxel-wise fiber complexity.
 6-1	1116-1118	FA	_
 6-2	1119-1125	within	_
 6-3	1126-1131	these	_
@@ -201,6 +207,7 @@
 6-26	1297-1307	complexity	_
 6-27	1308-1309	.	_
 
+Text=Crossing fiber complexity had the strongest (inverse) association with FA (r = −0.82).
 7-1	1310-1318	Crossing	_
 7-2	1319-1324	fiber	_
 7-3	1325-1335	complexity	_
@@ -220,6 +227,7 @@
 7-17	1398-1399	)	_
 7-18	1400-1401	.	_
 
+Text=When crossing fiber structure was modeled in the MRtrix fixel-based analysis pipeline, patients exhibited significantly lower fiber density compared to controls in the dorsal and posterior corpus callosum (central, postcentral, and forceps major).
 8-1	1402-1406	When	_
 8-2	1407-1415	crossing	_
 8-3	1416-1421	fiber	_
@@ -260,6 +268,7 @@
 8-38	1652-1653	)	_
 8-39	1654-1655	.	_
 
+Text=Findings of lower FA in patients with schizophrenia likely reflect two inversely related signals: reduced density of principal axis fiber tracts and increased off-axis diffusion sources.
 9-1	1656-1664	Findings	_
 9-2	1665-1667	of	_
 9-3	1668-1673	lower	_
@@ -289,6 +298,7 @@
 9-27	1835-1842	sources	_
 9-28	1843-1844	.	_
 
+Text=Whereas the former confirms at least some regions where myelin and or/axon count are lower in schizophrenia, the latter indicates that the FA signal from principal axis fiber coherence is broadly contaminated by macrostructural complexity, and therefore does not necessarily reflect microstructural group differences.
 10-1	1845-1852	Whereas	_
 10-2	1853-1856	the	_
 10-3	1857-1863	former	_
@@ -337,6 +347,7 @@
 10-46	2152-2163	differences	_
 10-47	2164-2165	.	_
 
+Text=These results underline the need to move beyond tensor-based models in favor of acquisition and analysis techniques that can help disambiguate different sources of white matter disruptions associated with schizophrenia.
 11-1	2166-2171	These	_
 11-2	2172-2179	results	_
 11-3	2180-2189	underline	_
@@ -369,6 +380,7 @@
 11-30	2371-2384	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-31	2385-2386	.	_
 
+Text=Graphical abstract Highlights MRtrix3's fixel-based analysis pipeline performs crossing-fiber modeling and anatomically precise whole-brain white matter registration Axon bundle density and organizational complexity appear to underlie white matter alterations in first episode and chronic schizophrenia Results underline the need to incorporate techniques that can help disambiguate sources of white matter alterations Methods and materials Sample recruitment and demographics All participants were recruited as part of the Center for Neurocognition and Emotion in Schizophrenia research.
 12-1	2387-2396	Graphical	_
 12-2	2397-2405	abstract	_
 12-3	2406-2416	Highlights	_
@@ -446,6 +458,7 @@
 12-75	2967-2975	research	_
 12-76	2976-2977	.	_
 
+Text=The study protocol and consent form were approved by the institutional review boards of the University of California, Los Angeles (UCLA) and Yale University, and all participants provided written informed consent.
 13-1	2978-2981	The	_
 13-2	2982-2987	study	_
 13-3	2988-2996	protocol	_
@@ -483,6 +496,7 @@
 13-35	3187-3194	consent	_
 13-36	3195-3196	.	_
 
+Text=The present sample included individuals who had recently experienced their first episode (FE) of schizophrenia (within two years prior to recruitment), individuals with chronic schizophrenia, and matched healthy controls.
 14-1	3197-3200	The	_
 14-2	3201-3208	present	_
 14-3	3209-3215	sample	_
@@ -520,6 +534,7 @@
 14-35	3415-3423	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 14-36	3424-3425	.	_
 
+Text=Schizophrenia diagnosis was determined using the Structured Clinical Interview for DSM-IV Axis I disorders (SCID-I).
 15-1	3426-3439	Schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 15-2	3440-3449	diagnosis	_
 15-3	3450-3453	was	_
@@ -539,6 +554,7 @@
 15-17	3542-3543	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 15-18	3544-3545	.	_
 
+Text=Patients were excluded on the basis of drug induced psychosis, substance dependence within the last 6 months, or history of traumatic brain injury or neurological disorder.
 16-1	3546-3554	Patients	_
 16-2	3555-3559	were	_
 16-3	3560-3568	excluded	_
@@ -569,6 +585,7 @@
 16-28	3711-3719	disorder	_
 16-29	3720-3721	.	_
 
+Text=Patients were recruited from public and private clinics and hospitals in the Los Angeles area, and all FE patients were under the care of the UCLA Aftercare Research Program.
 17-1	3722-3730	Patients	_
 17-2	3731-3735	were	_
 17-3	3736-3745	recruited	_
@@ -601,6 +618,7 @@
 17-30	3889-3896	Program	_
 17-31	3897-3898	.	_
 
+Text=All FE patients were clinically stabilized at the time of test (61% Risperidone, 19% Olanzapine, 6% Aripiprazole, 8% Other antipsychotic, 6% missing; missing data were due to computer error).
 18-1	3899-3902	All	_
 18-2	3903-3905	FE	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 18-3	3906-3914	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -644,6 +662,7 @@
 18-41	4100-4101	)	_
 18-42	4102-4103	.	_
 
+Text=Chronic patients were drawn from a sample of patients previously recruited and treated as FE patients through the Aftercare program, but whose initial psychotic episode occurred 5 years or more prior to the imaging assessment.
 19-1	4104-4111	Chronic	http://maven.renci.org/NeuroBridge/neurobridge#ChronicPain
 19-2	4112-4120	patients	_
 19-3	4121-4125	were	_
@@ -682,6 +701,7 @@
 19-36	4320-4330	assessment	_
 19-37	4331-4332	.	_
 
+Text=The medication profile of the Chronic patient subset was somewhat more diverse: 33% Risperidone, 20% Aripiprazole, 11% Haldol, 30% other antipsychotic, 6% no current antipsychotic medication.
 20-1	4333-4336	The	_
 20-2	4337-4347	medication	_
 20-3	4348-4355	profile	_
@@ -720,6 +740,7 @@
 20-36	4523-4533	medication	_
 20-37	4534-4535	.	_
 
+Text=Healthy control participants were recruited through local advertisements (newspapers and posters).
 21-1	4536-4543	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 21-2	4544-4551	control	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 21-3	4552-4564	participants	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -735,6 +756,7 @@
 21-13	4634-4635	)	_
 21-14	4636-4637	.	_
 
+Text=Control participants were excluded based on the following criteria: history of any major DSM-IV Axis I disorder, neurological disorder, traumatic brain injury, or drug dependence or recent abuse (as assessed by the SCID-I).
 22-1	4638-4645	Control	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 22-2	4646-4658	participants	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 22-3	4659-4663	were	_
@@ -776,6 +798,7 @@
 22-39	4865-4866	)	_
 22-40	4867-4868	.	_
 
+Text=Potential control participants were also excluded if they had a first-degree relative with psychosis, or if they were currently pregnant.
 23-1	4869-4878	Potential	_
 23-2	4879-4886	control	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
 23-3	4887-4899	participants	http://maven.renci.org/NeuroBridge/neurobridge#ControlSubject
@@ -799,6 +822,7 @@
 23-21	4998-5006	pregnant	_
 23-22	5007-5008	.	_
 
+Text=The initial MRI sample comprised 163 patients and controls aged 18–40.
 24-1	5009-5012	The	_
 24-2	5013-5020	initial	_
 24-3	5021-5024	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -812,6 +836,7 @@
 24-11	5073-5078	18–40	_
 24-12	5079-5080	.	_
 
+Text=Following visual inspection for scan quality, 18 scans were removed: 15 based on Field of View errors (7 controls) and 3 based on overt MR artifacts, such as blurring or warping (2 controls).
 25-1	5081-5090	Following	_
 25-2	5091-5097	visual	_
 25-3	5098-5108	inspection	_
@@ -854,6 +879,7 @@
 25-40	5277-5278	)	_
 25-41	5279-5280	.	_
 
+Text=The final sample included 81 patients (54 FE and 27 Chronic) and 64 age-matched controls.
 26-1	5281-5284	The	_
 26-2	5285-5290	final	_
 26-3	5291-5297	sample	_
@@ -873,6 +899,7 @@
 26-17	5363-5371	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 26-18	5372-5373	.	_
 
+Text=Patients and controls did not differ significantly in age (t (139) = 1.56, p = 0.12) or sex (X2 = 0.39, p = 0.53).
 27-1	5374-5382	Patients	_
 27-2	5383-5386	and	_
 27-3	5387-5395	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -907,6 +934,7 @@
 27-32	5494-5495	)	_
 27-33	5496-5497	.	_
 
+Text=Sample demographics are presented in Table 1.
 28-1	5498-5504	Sample	_
 28-2	5505-5517	demographics	_
 28-3	5518-5521	are	_
@@ -916,6 +944,7 @@
 28-7	5541-5542	1	_
 28-8	5543-5544	.	_
 
+Text=Neuroimaging data acquisition & preprocessing Imaging was performed on a 3T Siemens Trio Scanner using a 12-channel head coil at the Staglin Center for Cognitive Neuroscience at UCLA.
 29-1	5545-5557	Neuroimaging	_
 29-2	5558-5562	data	_
 29-3	5563-5574	acquisition	_
@@ -946,6 +975,7 @@
 29-28	5723-5727	UCLA	_
 29-29	5728-5729	.	_
 
+Text=The diffusion image was acquired as a single-shot spin-echo echo planar imaging pulse sequence, with 64 diffusion sensitized gradients (b = 1000) and seven b = 0 volumes collected (b = 0 images stacked at the beginning of the sequence).
 30-1	5730-5733	The	_
 30-2	5734-5743	diffusion	http://maven.renci.org/NeuroBridge/neurobridge#DiffusionWeightedImaging
 30-3	5744-5749	image	http://maven.renci.org/NeuroBridge/neurobridge#DiffusionWeightedImaging
@@ -993,6 +1023,7 @@
 30-45	5969-5970	)	_
 30-46	5971-5972	.	_
 
+Text=Repetition time (TR) /echo time (TE) was 7000 ms/93 ms, voxel size = 1.98 × 1.98 × 3.00, matrix = 96 × 96 × 50, and acquisition time was 8 min, 24 s. In order to approximate and control for subtle effects of motion, data were processed using FSL's EDDY tool, which provides estimates of relative volume-to-volume motion for each participant, adjusted for translation in the Phase Encoding direction.
 31-1	5973-5983	Repetition	_
 31-2	5984-5988	time	_
 31-3	5989-5990	(	_
@@ -1076,6 +1107,7 @@
 31-81	6374-6383	direction	_
 31-82	6384-6385	.	_
 
+Text=Patients had higher mean relative motion compared to controls (Patient mean = 0.20 (0.12), Control mean = 0.16 (0.08), t (143) = −2.26, p <0.05).
 32-1	6386-6394	Patients	_
 32-2	6395-6398	had	_
 32-3	6399-6405	higher	_
@@ -1115,6 +1147,7 @@
 32-37	6541-6542	)	_
 32-38	6543-6544	.	_
 
+Text=To account for motion effects, mean relative motion was included as a covariate in all analyses.
 33-1	6545-6547	To	_
 33-2	6548-6555	account	_
 33-3	6556-6559	for	_
@@ -1134,6 +1167,7 @@
 33-17	6633-6641	analyses	_
 33-18	6642-6643	.	_
 
+Text=In addition, we formed matched groups of patients and controls (whereby each control was matched with one or more patients based on the mean relative motion parameter, excluding any patients for whom motion was unmatched with a control subject) and tested whether the primary results held when motion was perfectly balanced between diagnostic groups.
 34-1	6644-6646	In	_
 34-2	6647-6655	addition	_
 34-3	6656-6657	,	_
@@ -1194,6 +1228,7 @@
 34-58	6991-6997	groups	_
 34-59	6998-6999	.	_
 
+Text=This motion-matched subset consisted of 64 patients (mean motion = 0.16 (0.05)) and 64 controls (mean motion = 0.16 (0.08)); t (126) = 0.30, p = 0.76.
 35-1	7000-7004	This	_
 35-2	7005-7019	motion-matched	_
 35-3	7020-7026	subset	_
@@ -1235,6 +1270,7 @@
 35-39	7157-7161	0.76	_
 35-40	7162-7163	.	_
 
+Text=Since signal-to-noise ratio (SNR) of diffusion-weighted images may have important implications for diffusion metric estimation, we also calculated SNR using the tools outlined in.
 36-1	7164-7169	Since	_
 36-2	7170-7185	signal-to-noise	_
 36-3	7186-7191	ratio	_
@@ -1264,6 +1300,7 @@
 36-27	7343-7345	in	_
 36-28	7346-7347	.	_
 
+Text=Mean SNR across the whole sample was 7.79 (0.70), which indicates good-to-excellent SNR across the sample.
 37-1	7348-7352	Mean	_
 37-2	7353-7356	SNR	_
 37-3	7357-7363	across	_
@@ -1285,6 +1322,7 @@
 37-19	7450-7456	sample	_
 37-20	7457-7458	.	_
 
+Text=Patients had slightly lower SNR compared to controls (t (143) = 2.03, p <0.05), but this difference was explained entirely by the high correlation between relative motion and SNR (r (143) = −0.83, p <0.001).
 38-1	7459-7467	Patients	_
 38-2	7468-7471	had	_
 38-3	7472-7480	slightly	_
@@ -1335,6 +1373,7 @@
 38-48	7677-7678	)	_
 38-49	7679-7680	.	_
 
+Text=Tract based spatial statistics Dicom files were converted to nifti using dcm2nii (http: //www.mccauslandcenter.sc.edu/mricro/mricron/dcm2nii.html).
 39-1	7681-7686	Tract	_
 39-2	7687-7692	based	_
 39-3	7693-7700	spatial	_
@@ -1354,6 +1393,7 @@
 39-17	7829-7830	)	_
 39-18	7831-7832	.	_
 
+Text=The preprocessing steps and all analyses were completed using tools in FMRIB Software Library (FSL 5.0.3; http: //www.fmrib.ox.ac.uk/fsl).
 40-1	7833-7836	The	_
 40-2	7837-7850	preprocessing	_
 40-3	7851-7856	steps	_
@@ -1378,6 +1418,7 @@
 40-22	7973-7974	)	_
 40-23	7975-7976	.	_
 
+Text=All images were corrected for motion and eddy current distortions using EDDY, which also outputs corrected bvecs files for use in subsequent tensor-fitting steps.
 41-1	7977-7980	All	_
 41-2	7981-7987	images	_
 41-3	7988-7992	were	_
@@ -1405,6 +1446,7 @@
 41-25	8134-8139	steps	_
 41-26	8140-8141	.	_
 
+Text=Brain extractions were completed using the FSL brain extraction tool (bet), and dtifit was used to calculate diffusion parameters using the adjusted bvecs files.
 42-1	8142-8147	Brain	_
 42-2	8148-8159	extractions	_
 42-3	8160-8164	were	_
@@ -1434,6 +1476,7 @@
 42-27	8300-8305	files	_
 42-28	8306-8307	.	_
 
+Text=FA images were normalized to an FA template in Montreal Neurological Institute (MNI) space using the non-linear registration algorithm FNIRT.
 43-1	8308-8310	FA	_
 43-2	8311-8317	images	_
 43-3	8318-8322	were	_
@@ -1458,6 +1501,7 @@
 43-22	8445-8450	FNIRT	_
 43-23	8451-8452	.	_
 
+Text=A mean FA image was calculated from the spatially normalized images of all subjects.
 44-1	8453-8454	A	_
 44-2	8455-8459	mean	_
 44-3	8460-8462	FA	_
@@ -1474,6 +1518,7 @@
 44-14	8528-8536	subjects	_
 44-15	8537-8538	.	_
 
+Text=This image was then “ skeletonized ” to allow for the comparison of FA values across spatially matched tract structures across all subjects.
 45-1	8539-8543	This	_
 45-2	8544-8549	image	_
 45-3	8550-8553	was	_
@@ -1499,6 +1544,7 @@
 45-23	8670-8678	subjects	_
 45-24	8679-8680	.	_
 
+Text=FA values of each subject were projected on the mean sample-based FA skeleton for use in regression analyses.
 46-1	8681-8683	FA	_
 46-2	8684-8690	values	_
 46-3	8691-8693	of	_
@@ -1519,6 +1565,7 @@
 46-18	8781-8789	analyses	_
 46-19	8790-8791	.	_
 
+Text=Voxel-wise whole-brain statistical analyses were performed using the “ randomise ” command in FSL.
 47-1	8792-8802	Voxel-wise	_
 47-2	8803-8814	whole-brain	_
 47-3	8815-8826	statistical	_
@@ -1535,6 +1582,7 @@
 47-14	8886-8889	FSL	_
 47-15	8890-8891	.	_
 
+Text=Randomise uses the general linear model in conjunction with 5000 non-parametric permutation tests to generate test statistics.
 48-1	8892-8901	Randomise	_
 48-2	8902-8906	uses	_
 48-3	8907-8910	the	_
@@ -1554,6 +1602,7 @@
 48-17	9007-9017	statistics	_
 48-18	9018-9019	.	_
 
+Text=Threshold-free cluster enhancement (TFCE) was used because it avoids an arbitrarily predefined T-threshold or cluster threshold.
 49-1	9020-9034	Threshold-free	_
 49-2	9035-9042	cluster	_
 49-3	9043-9054	enhancement	_
@@ -1574,6 +1623,7 @@
 49-18	9140-9149	threshold	_
 49-19	9150-9151	.	_
 
+Text=Whole-brain family wise error (FWE) corrected p-maps were thresholded at an FWE of 0.05.
 50-1	9152-9163	Whole-brain	_
 50-2	9164-9170	family	_
 50-3	9171-9175	wise	_
@@ -1592,6 +1642,7 @@
 50-16	9237-9241	0.05	_
 50-17	9242-9243	.	_
 
+Text=All reported coordinates are in MNI_152 space, and results are reported using the JHU-White-Matter Tractography Atlas and the JHU ICBM-DTI-81 White Matter Labels Atlases.
 51-1	9244-9247	All	_
 51-2	9248-9256	reported	_
 51-3	9257-9268	coordinates	_
@@ -1619,6 +1670,7 @@
 51-25	9407-9414	Atlases	_
 51-26	9415-9416	.	_
 
+Text=Per the FSL GLM recommendation, all continuous variables were mean centered prior to being entered into regression.
 52-1	9417-9420	Per	_
 52-2	9421-9424	the	_
 52-3	9425-9428	FSL	_
@@ -1639,6 +1691,7 @@
 52-18	9522-9532	regression	_
 52-19	9533-9534	.	_
 
+Text=Using FSL's GLM tool, the main effect model of interest in the present study was set up to test for group differences in FA between patients and controls, covarying for age, sex, and mean relative head motion.
 53-1	9535-9540	Using	_
 53-2	9541-9544	FSL	_
 53-3	9545-9547	's	_
@@ -1683,6 +1736,7 @@
 53-42	9742-9748	motion	_
 53-43	9749-9750	.	_
 
+Text=Secondary analyses were conducted to determine whether there was an interaction effect between age and diagnosis (all interaction effects were tested in separate models, and the interaction terms were never included in models from which main effects are reported).
 54-1	9751-9760	Secondary	_
 54-2	9761-9769	analyses	_
 54-3	9770-9774	were	_
@@ -1727,6 +1781,7 @@
 54-42	10016-10017	)	_
 54-43	10018-10019	.	_
 
+Text=Fixel-based processing and analysis All fixel-based processing steps were carried out using MRtrix3 version RC2, according to the procedures outlined in the MRtrix3 documentation (www.MRtrix.readthedocs.io).
 55-1	10020-10031	Fixel-based	_
 55-2	10032-10042	processing	_
 55-3	10043-10046	and	_
@@ -1757,6 +1812,7 @@
 55-28	10228-10229	)	_
 55-29	10230-10231	.	_
 
+Text=The processing steps are summarized briefly here (see Supplemental Materials for further details).
 56-1	10232-10235	The	_
 56-2	10236-10246	processing	_
 56-3	10247-10252	steps	_
@@ -1774,6 +1830,7 @@
 56-15	10330-10331	)	_
 56-16	10332-10333	.	_
 
+Text=Following dcm2nii conversion, data were converted from nifti format to MRtrix3 format (“ .mif ”) using mrconvert and preprocessed according to the MRtrix3 fixel-based workflow.
 57-1	10334-10343	Following	_
 57-2	10344-10351	dcm2nii	_
 57-3	10352-10362	conversion	_
@@ -1804,6 +1861,7 @@
 57-28	10504-10512	workflow	_
 57-29	10513-10514	.	_
 
+Text=All images were denoised (; see supplemental methods for more detail) preprocessed via FSL's EDDY, and bias field corrected.
 58-1	10515-10518	All	_
 58-2	10519-10525	images	_
 58-3	10526-10530	were	_
@@ -1829,6 +1887,7 @@
 58-23	10633-10642	corrected	_
 58-24	10643-10644	.	_
 
+Text=In order to adjust for free water compartment influences, tissue-specific (CSF and white matter) response functions were then generated for each subject and then averaged to create sample-specific response functions for white matter and CSF, respectively.
 59-1	10645-10647	In	_
 59-2	10648-10653	order	_
 59-3	10654-10656	to	_
@@ -1871,6 +1930,7 @@
 59-40	10891-10903	respectively	_
 59-41	10904-10905	.	_
 
+Text=B = 0 images can be leveraged as a second “ shell ” from which CSF-specific response functions can be estimated in each participant.
 60-1	10906-10907	B	_
 60-2	10908-10909	=	_
 60-3	10910-10911	0	_
@@ -1897,6 +1957,7 @@
 60-24	11026-11037	participant	_
 60-25	11038-11039	.	_
 
+Text=Modeling the distinct response functions for white matter and CSF in this way makes it possible to apply multi-shell, multi-tissue deconvolution in single-shell data, thereby enhancing the signal from white matter relative to CSF.
 61-1	11040-11048	Modeling	_
 61-2	11049-11052	the	_
 61-3	11053-11061	distinct	_
@@ -1935,6 +1996,7 @@
 61-36	11268-11271	CSF	_
 61-37	11272-11273	.	_
 
+Text=This strategy is technically referred to as “ single shell, multi tissue ” constrained spherical deconvolution (SSMT-CSD), and is useful because the better signal-to-noise ratio ameliorates the problem of white matter volume overestimation that can arise from the standard “ single shell, single tissue ” approach.
 62-1	11274-11278	This	_
 62-2	11279-11287	strategy	_
 62-3	11288-11290	is	_
@@ -1988,6 +2050,7 @@
 62-51	11584-11592	approach	_
 62-52	11593-11594	.	_
 
+Text=The SSMT-CSD technique has been successfully applied in a recent study of optic neuritis in multiple sclerosis.
 63-1	11595-11598	The	_
 63-2	11599-11607	SSMT-CSD	http://maven.renci.org/NeuroBridge/neurobridge#UCSDPerformancebasedSkillsAssessment
 63-3	11608-11617	technique	_
@@ -2007,6 +2070,7 @@
 63-17	11696-11705	sclerosis	_
 63-18	11706-11707	.	_
 
+Text=In order to demonstrate that algorithm can appropriately identify white matter vs. CSF voxels in our single-shell data, we randomly selected 6 participants and included the graphical output of the voxel selection procedure in the Supplemental Material (Supplemental Fig.
 64-1	11708-11710	In	_
 64-2	11711-11716	order	_
 64-3	11717-11719	to	_
@@ -2050,10 +2114,12 @@
 64-41	11976-11979	Fig	_
 64-42	11980-11981	.	_
 
+Text=4).
 65-1	11982-11983	4	_
 65-2	11984-11985	)	_
 65-3	11986-11987	.	_
 
+Text=Multi-shell, multi-tissue constrained spherical deconvolution was performed for white matter and CSF, respectively, using the previously estimated response functions, and the resulting white matter Fiber Orientation Distribution (FOD) images were fed forward into all subsequent analysis steps.
 66-1	11988-11999	Multi-shell	_
 66-2	12000-12001	,	_
 66-3	12002-12014	multi-tissue	_
@@ -2099,6 +2165,7 @@
 66-43	12282-12287	steps	_
 66-44	12288-12289	.	_
 
+Text=The mtnormalise command was used to correct for intensity inhomogeneities across subjects, and the normalized white matter FOD images were then coregisistered to create a sample-specific FOD template.
 67-1	12290-12293	The	_
 67-2	12294-12305	mtnormalise	_
 67-3	12306-12313	command	_
@@ -2130,6 +2197,7 @@
 67-29	12482-12490	template	_
 67-30	12491-12492	.	_
 
+Text=Peak FOD amplitudes at each fixel in this template were calculated and thresholded (at 0.30) to remove fixels containing residual gray matter peaks.
 68-1	12493-12497	Peak	_
 68-2	12498-12501	FOD	_
 68-3	12502-12512	amplitudes	_
@@ -2157,6 +2225,7 @@
 68-25	12637-12642	peaks	_
 68-26	12643-12644	.	_
 
+Text=This thresholded image was then used to create an “ analysis fixel mask ” and an “ analysis voxel mask ”, which represent the coregistered fixel- and voxel-space in white matter across all subjects in the sample.
 69-1	12645-12649	This	_
 69-2	12650-12661	thresholded	_
 69-3	12662-12667	image	_
@@ -2197,6 +2266,7 @@
 69-38	12851-12857	sample	_
 69-39	12858-12859	.	_
 
+Text=Individual subjects' FOD images were then transformed into a sample-specific FOD template space, segmented into fiber density-based (FD) fixels within each voxel, and reoriented to the template space.
 70-1	12860-12870	Individual	_
 70-2	12871-12879	subjects	_
 70-3	12880-12881	'	_
@@ -2232,6 +2302,7 @@
 70-33	13059-13064	space	_
 70-34	13065-13066	.	_
 
+Text=The final FD images for each subject were computed by taking each fixel in reoriented subject space and assigning it to the corresponding fixel in template space.
 71-1	13067-13070	The	_
 71-2	13071-13076	final	_
 71-3	13077-13079	FD	_
@@ -2261,6 +2332,7 @@
 71-27	13223-13228	space	_
 71-28	13229-13230	.	_
 
+Text=Fiber cross-section (FC) is then computed based on the deformation fields of the warps generated during registration, allowing for some measure of the macroscopic diameter of fiber bundles spanning multiple voxels (see Fig.
 72-1	13231-13236	Fiber	_
 72-2	13237-13250	cross-section	_
 72-3	13251-13252	(	_
@@ -2300,10 +2372,12 @@
 72-37	13454-13457	Fig	_
 72-38	13458-13459	.	_
 
+Text=1).
 73-1	13460-13461	1	_
 73-2	13462-13463	)	_
 73-3	13464-13465	.	_
 
+Text=Because connectivity-based fixel enhancement (CFE) capitalizes on tractography-based connectivity information to inform the spatial extent of clustering in fixel-wise analyses, whole brain tractography was performed on the unbiased FOD sample-specific FOD template, and the resulting 20-million streamline tractogram was reduced using SIFT to contain 2 million streamlines for use in analyses.
 74-1	13466-13473	Because	_
 74-2	13474-13492	connectivity-based	_
 74-3	13493-13498	fixel	_
@@ -2361,6 +2435,7 @@
 74-55	13854-13862	analyses	_
 74-56	13863-13864	.	_
 
+Text=Finally, the fixelcfestats command, which uses GLM in concert with non-parametric permutation testing (5000 permutations) was used to perform whole-brain fixel analyses for fiber density and cross-section, respectively.
 75-1	13865-13872	Finally	_
 75-2	13873-13874	,	_
 75-3	13875-13878	the	_
@@ -2396,6 +2471,7 @@
 75-33	14076-14088	respectively	_
 75-34	14089-14090	.	_
 
+Text=In order to verify the spatial extent of FA group differences from TBSS, we also performed FA analysis using MRtrix tools.
 76-1	14091-14093	In	_
 76-2	14094-14099	order	_
 76-3	14100-14102	to	_
@@ -2420,6 +2496,7 @@
 76-22	14208-14213	tools	_
 76-23	14214-14215	.	_
 
+Text=Starting with native space images that were processed with EDDY, the tensor model was fit at each voxel using dwi2tensor, and FA images were created using the tensor2metric command.
 77-1	14216-14224	Starting	_
 77-2	14225-14229	with	_
 77-3	14230-14236	native	_
@@ -2453,6 +2530,7 @@
 77-31	14391-14398	command	_
 77-32	14399-14400	.	_
 
+Text=To ensure robust registration based on underlying fiber architecture, MRtrix-derived FA images were transformed to the same template space used in fixel-based analyses.
 78-1	14401-14403	To	_
 78-2	14404-14410	ensure	_
 78-3	14411-14417	robust	_
@@ -2479,6 +2557,7 @@
 78-24	14561-14569	analyses	_
 78-25	14570-14571	.	_
 
+Text=In addition, a complexity metric was computed across each subject's template-space fixel image and stored at the voxel level.
 79-1	14572-14574	In	_
 79-2	14575-14583	addition	_
 79-3	14584-14585	,	_
@@ -2502,6 +2581,7 @@
 79-21	14693-14698	level	_
 79-22	14699-14700	.	_
 
+Text=The complexity metric ranges from zero to one (where zero represents a voxel with a single fixel), and nears one when multiple fixels within a voxel have the same fiber density.
 80-1	14701-14704	The	_
 80-2	14705-14715	complexity	_
 80-3	14716-14722	metric	_
@@ -2538,6 +2618,7 @@
 80-34	14873-14880	density	_
 80-35	14881-14882	.	_
 
+Text=Since small densities may be spurious, complexity was computed based on both the raw fixel images, and then again on fixel images that were thresholded to remove small densities (<0.1).
 81-1	14883-14888	Since	_
 81-2	14889-14894	small	_
 81-3	14895-14904	densities	_
@@ -2575,6 +2656,7 @@
 81-35	15071-15072	)	_
 81-36	15073-15074	.	_
 
+Text=For voxel-wise analyses, both complexity and FA images were then smoothed at FWHM = 3 and entered into regression models using MRtrix3's mrclusterstats.
 82-1	15075-15078	For	_
 82-2	15079-15089	voxel-wise	_
 82-3	15090-15098	analyses	_
@@ -2602,6 +2684,7 @@
 82-25	15214-15228	mrclusterstats	_
 82-26	15229-15230	.	_
 
+Text=The mrclusterstats command is similar to FSL's randomise in that it uses Threshold-free cluster enhancement, and performs FWE correction using non-parametric bootstrapping (5000 permutations).
 83-1	15231-15234	The	_
 83-2	15235-15249	mrclusterstats	_
 83-3	15250-15257	command	_
@@ -2632,6 +2715,7 @@
 83-28	15425-15426	)	_
 83-29	15427-15428	.	_
 
+Text=All mrclusterstats and fixelcfestats regression models included sex, age, and mean relative subject motion as covariates.
 84-1	15429-15432	All	_
 84-2	15433-15447	mrclusterstats	_
 84-3	15448-15451	and	_
@@ -2652,6 +2736,7 @@
 84-18	15541-15551	covariates	_
 84-19	15552-15553	.	_
 
+Text=Reported results from TBSS and MRtrix analyses are Family Wise Error (FWE) corrected.
 85-1	15554-15562	Reported	_
 85-2	15563-15570	results	_
 85-3	15571-15575	from	_
@@ -2669,6 +2754,7 @@
 85-15	15631-15640	corrected	_
 85-16	15641-15642	.	_
 
+Text=Extracted region-of-interest based metrics were analyzed using R statistical software.
 86-1	15643-15652	Extracted	_
 86-2	15653-15671	region-of-interest	_
 86-3	15672-15677	based	_

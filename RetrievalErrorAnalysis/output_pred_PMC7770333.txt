@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Intrinsic connectivity patterns of task-defined brain networks allow individual prediction of cognitive symptom dimension of schizophrenia and are linked to molecular architecture Background: Despite the marked inter-individual variability in the clinical presentation of schizophrenia, it remains unclear the extent to which individual dimensions of psychopathology relate to the functional variability in brain networks among patients.
 1-1	0-9	Intrinsic	_
 1-2	10-22	connectivity	_
 1-3	23-31	patterns	_
@@ -61,6 +62,7 @@
 1-57	430-438	patients	_
 1-58	439-440	.	_
 
+Text=Here, we address this question using network-based predictive modeling of individual psychopathology along four data-driven symptom dimensions.
 2-1	441-445	Here	_
 2-2	446-447	,	_
 2-3	448-450	we	_
@@ -81,6 +83,7 @@
 2-18	574-584	dimensions	_
 2-19	585-586	.	_
 
+Text=Follow-up analyses assess the molecular underpinnings of predictive networks by relating them to neurotransmitter-receptor distribution patterns.
 3-1	587-596	Follow-up	_
 3-2	597-605	analyses	_
 3-3	606-612	assess	_
@@ -99,6 +102,7 @@
 3-16	723-731	patterns	_
 3-17	732-733	.	_
 
+Text=Methods: We investigated resting-state fMRI data from 147 schizophrenia patients recruited at seven sites.
 4-1	734-741	Methods	_
 4-2	742-743	:	_
 4-3	744-746	We	_
@@ -116,6 +120,7 @@
 4-15	835-840	sites	_
 4-16	841-842	.	_
 
+Text=Individual expression along negative, positive, affective, and cognitive symptom dimensions was predicted using relevance vector machine based on functional connectivity within 17 meta-analytic task-networks following a repeated 10-fold cross-validation and leave-one-site-out analyses.
 5-1	843-853	Individual	_
 5-2	854-864	expression	_
 5-3	865-870	along	_
@@ -153,6 +158,7 @@
 5-35	1123-1131	analyses	_
 5-36	1132-1133	.	_
 
+Text=Results were validated in an independent sample.
 6-1	1134-1141	Results	_
 6-2	1142-1146	were	_
 6-3	1147-1156	validated	_
@@ -162,6 +168,7 @@
 6-7	1175-1181	sample	_
 6-8	1182-1183	.	_
 
+Text=Networks robustly predicting individual symptom dimensions were spatially correlated with density maps of nine receptors/transporters from prior molecular imaging in healthy populations.
 7-1	1184-1192	Networks	_
 7-2	1193-1201	robustly	_
 7-3	1202-1212	predicting	_
@@ -186,6 +193,7 @@
 7-22	1358-1369	populations	_
 7-23	1370-1371	.	_
 
+Text=Results: Ten-fold and leave-one-site-out analyses revealed five predictive network-symptom associations.
 8-1	1372-1379	Results	_
 8-2	1380-1381	:	_
 8-3	1382-1390	Ten-fold	_
@@ -199,6 +207,7 @@
 8-11	1464-1476	associations	_
 8-12	1477-1478	.	_
 
+Text=Connectivity within theory-of-mind, cognitive reappraisal, and mirror neuron networks predicted negative, positive, and affective symptom dimensions, respectively.
 9-1	1479-1491	Connectivity	_
 9-2	1492-1498	within	_
 9-3	1499-1513	theory-of-mind	_
@@ -223,6 +232,7 @@
 9-22	1634-1646	respectively	_
 9-23	1647-1648	.	_
 
+Text=Cognitive dimension was predicted by theory-of-mind and socio-affective-default networks.
 10-1	1649-1658	Cognitive	_
 10-2	1659-1668	dimension	_
 10-3	1669-1672	was	_
@@ -234,6 +244,7 @@
 10-9	1729-1737	networks	_
 10-10	1738-1739	.	_
 
+Text=Importantly, these predictions generalized to the independent sample.
 11-1	1740-1751	Importantly	_
 11-2	1752-1753	,	_
 11-3	1754-1759	these	_
@@ -245,6 +256,7 @@
 11-9	1803-1809	sample	_
 11-10	1810-1811	.	_
 
+Text=Intriguingly, these two networks were positively associated with D1 dopamine receptor and serotonin reuptake transporter densities as well as dopamine-synthesis-capacity.
 12-1	1812-1824	Intriguingly	_
 12-2	1825-1826	,	_
 12-3	1827-1832	these	_
@@ -268,6 +280,7 @@
 12-21	1955-1982	dopamine-synthesis-capacity	_
 12-22	1983-1984	.	_
 
+Text=Conclusions: We revealed a robust association between intrinsic functional connectivity within networks for socio-affective processes and the cognitive dimension of psychopathology.
 13-1	1985-1996	Conclusions	_
 13-2	1997-1998	:	_
 13-3	1999-2001	We	_
@@ -292,6 +305,7 @@
 13-22	2151-2166	psychopathology	_
 13-23	2167-2168	.	_
 
+Text=By investigating the molecular architecture, this work links dopaminergic and serotonergic systems with the functional topography of brain networks underlying cognitive symptoms in schizophrenia.
 14-1	2169-2171	By	_
 14-2	2172-2185	investigating	_
 14-3	2186-2189	the	_
@@ -319,6 +333,7 @@
 14-25	2351-2364	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 14-26	2365-2366	.	_
 
+Text=Materials and Methods Sample A total of 147 schizophrenia patients from seven centers located in Europe and the USA represented the main sample (Table S1; Supplement).
 15-1	2367-2376	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 15-2	2377-2380	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 15-3	2381-2388	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -350,6 +365,7 @@
 15-29	2535-2536	)	_
 15-30	2537-2538	.	_
 
+Text=These sites differed significantly in illness duration (p <0.001) (Table S1).
 16-1	2539-2544	These	_
 16-2	2545-2550	sites	_
 16-3	2551-2559	differed	_
@@ -368,6 +384,7 @@
 16-16	2619-2620	)	_
 16-17	2621-2622	.	_
 
+Text=An independent sample with 117 schizophrenia patients (Table S2; Supplement) retrieved from the Bipolar-Schizophrenia Network on Intermediate Phenotypes (B-SNIP) database was used for independent model validation.
 17-1	2623-2625	An	_
 17-2	2626-2637	independent	_
 17-3	2638-2644	sample	_
@@ -401,6 +418,7 @@
 17-31	2830-2840	validation	_
 17-32	2841-2842	.	_
 
+Text=For both samples, diagnosis of schizophrenia was established based on the DSM-IV, the DSM-IV-TR, or the ICD-10 criteria (see Supplement and [6]).
 18-1	2843-2846	For	_
 18-2	2847-2851	both	_
 18-3	2852-2859	samples	_
@@ -432,6 +450,7 @@
 18-29	2993-2994	)	_
 18-30	2995-2996	.	_
 
+Text=These international datasets cover a broad range of clinical states, settings, and medical systems, facilitating identification of robust network-symptom associations.
 19-1	2997-3002	These	_
 19-2	3003-3016	international	_
 19-3	3017-3025	datasets	_
@@ -457,6 +476,7 @@
 19-23	3154-3166	associations	_
 19-24	3167-3168	.	_
 
+Text=Current drug dosages of antipsychotic medication were olanzapine-equivalent transformed.
 20-1	3169-3176	Current	_
 20-2	3177-3181	drug	_
 20-3	3182-3189	dosages	_
@@ -468,6 +488,7 @@
 20-9	3245-3256	transformed	_
 20-10	3257-3258	.	_
 
+Text=For each site, subjects gave written informed consent and study approval was given by the respective ethics committees/institutional review boards.
 21-1	3259-3262	For	_
 21-2	3263-3267	each	_
 21-3	3268-3272	site	_
@@ -491,6 +512,7 @@
 21-21	3400-3406	boards	_
 21-22	3407-3408	.	_
 
+Text=Approval for pooled re-analysis was provided by the ethics committee of the University of Düsseldorf, Germany.
 22-1	3409-3417	Approval	_
 22-2	3418-3421	for	_
 22-3	3422-3428	pooled	_
@@ -510,6 +532,7 @@
 22-17	3512-3519	Germany	_
 22-18	3520-3521	.	_
 
+Text=Calculation of dimensional symptom scores Severity of psychopathology was assessed using the PANSS.
 23-1	3522-3533	Calculation	_
 23-2	3534-3536	of	_
 23-3	3537-3548	dimensional	_
@@ -525,6 +548,7 @@
 23-13	3615-3620	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 23-14	3621-3622	.	_
 
+Text=The 30 PANSS items were compressed into four (negative, positive, affective, and cognitive) symptom dimensions (Figure S1A) identified in our prior factorization analysis on two large, multi-site schizophrenia samples as stable and well-generalizable across populations, settings, and medical systems.
 24-1	3623-3626	The	_
 24-2	3627-3629	30	_
 24-3	3630-3635	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
@@ -576,6 +600,7 @@
 24-49	3926-3933	systems	_
 24-50	3934-3935	.	_
 
+Text=Each dimensional score for an individual was calculated as the dot product between the coefficients loaded on the particular dimension within the dimensional-structure (Figure S1) and the 30 PANSS item scores of that individual (as implemented in DCTS: http: //webtools.inm7.de/sczDCTS/).
 25-1	3936-3940	Each	_
 25-2	3941-3952	dimensional	_
 25-3	3953-3958	score	_
@@ -624,6 +649,7 @@
 25-46	4228-4229	)	_
 25-47	4230-4231	.	_
 
+Text=Higher scores on a dimension indicate more-severe symptoms (Figure S1B).
 26-1	4232-4238	Higher	_
 26-2	4239-4245	scores	_
 26-3	4246-4248	on	_
@@ -638,6 +664,7 @@
 26-12	4304-4305	)	_
 26-13	4306-4307	.	_
 
+Text=Definition of functional brain networks Seventeen functional networks, which cover a broad range of domains reflecting cognitive, socio-affective, and sensory-motor functions that have been implicated in schizophrenia, were employed (Table S3).
 27-1	4308-4318	Definition	_
 27-2	4319-4321	of	_
 27-3	4322-4332	functional	_
@@ -677,6 +704,7 @@
 27-37	4556-4557	)	_
 27-38	4558-4559	.	_
 
+Text=These networks were based on coordinate-based meta-analyses and represent regions demonstrating convergent activations associated with specific functional domains across many prior task-fMRI studies.
 28-1	4560-4565	These	_
 28-2	4566-4574	networks	_
 28-3	4575-4579	were	_
@@ -702,6 +730,7 @@
 28-23	4751-4758	studies	_
 28-24	4759-4760	.	_
 
+Text=They hence provide the best “ a priori ” estimate of the location of specific functional networks and hence here assessed by resting-state fMRI in new subjects.
 29-1	4761-4765	They	_
 29-2	4766-4771	hence	_
 29-3	4772-4779	provide	_
@@ -731,6 +760,7 @@
 29-27	4912-4920	subjects	_
 29-28	4921-4922	.	_
 
+Text=For convenience, we grouped these 17 networks into six broad functional domains (Figure 1 & Table S3), though it must be stressed that each network was analyzed separately.
 30-1	4923-4926	For	_
 30-2	4927-4938	convenience	_
 30-3	4939-4940	,	_
@@ -765,6 +795,7 @@
 30-32	5088-5098	separately	_
 30-33	5099-5100	.	_
 
+Text=FMRI data processing All resting-state fMRI scans (Tables S4 & S5) were preprocessed using SPM12 (http: //www.fil.ion.ucl.ac.uk/spm) (see [6] and Supplement).
 31-1	5101-5105	FMRI	_
 31-2	5106-5110	data	_
 31-3	5111-5121	processing	_
@@ -797,6 +828,7 @@
 31-30	5266-5267	)	_
 31-31	5268-5269	.	_
 
+Text=After excluding subjects with excessive head-motion or poor image quality (cf.
 32-1	5270-5275	After	_
 32-2	5276-5285	excluding	_
 32-3	5286-5294	subjects	_
@@ -811,6 +843,7 @@
 32-12	5346-5348	cf	_
 32-13	5349-5350	.	_
 
+Text=Supplement), 126 and 100 schizophrenia patients were retained in the main and the B-SNIP validation sample, respectively (Table 1).
 33-1	5351-5361	Supplement	_
 33-2	5362-5363	)	_
 33-3	5364-5365	,	_
@@ -837,6 +870,7 @@
 33-24	5485-5486	)	_
 33-25	5487-5488	.	_
 
+Text=Head motion differed significantly between the sites but did not correlate with the residuals of any symptom dimensions after adjusting for age/gender/site.
 34-1	5489-5493	Head	_
 34-2	5494-5500	motion	_
 34-3	5501-5509	differed	_
@@ -861,6 +895,7 @@
 34-22	5629-5644	age/gender/site	_
 34-23	5645-5646	.	_
 
+Text=Still, we adjusted head-motion effects in predictive modeling as a conservative approach to rule out (any) possible predictability based on movement.
 35-1	5647-5652	Still	_
 35-2	5653-5654	,	_
 35-3	5655-5657	we	_
@@ -887,6 +922,7 @@
 35-24	5790-5798	movement	_
 35-25	5799-5800	.	_
 
+Text=White matter and CSF signals as well as 24 head-motion parameters were regressed out from the overall fMRI time-series but the global mean signals were not removed given ongoing controversies.
 36-1	5801-5806	White	_
 36-2	5807-5813	matter	_
 36-3	5814-5817	and	_
@@ -919,6 +955,7 @@
 36-30	5979-5992	controversies	_
 36-31	5993-5994	.	_
 
+Text=Voxels within a 6 mm sphere around each of the meta-analytically derived peak-activation coordinate formed a node.
 37-1	5995-6001	Voxels	_
 37-2	6002-6008	within	_
 37-3	6009-6010	a	_
@@ -938,6 +975,7 @@
 37-17	6104-6108	node	_
 37-18	6109-6110	.	_
 
+Text=The first eigenvariate of the time-series from all the voxels within each node was calculated as the regional characteristic time-series containing better signal-to-noise ratio than the peak voxel alone.
 38-1	6111-6114	The	_
 38-2	6115-6120	first	_
 38-3	6121-6133	eigenvariate	_
@@ -969,6 +1007,7 @@
 38-29	6308-6313	alone	_
 38-30	6314-6315	.	_
 
+Text=For each network, Pearson ’ s correlation was calculated between the characteristic time-series for each pair of the nodes resulting in an N x N matrix of resting-state functional connectivity (rs-FC).
 39-1	6316-6319	For	_
 39-2	6320-6324	each	_
 39-3	6325-6332	network	_
@@ -1005,6 +1044,7 @@
 39-34	6518-6519	)	_
 39-35	6520-6521	.	_
 
+Text=The upper triangle of the resulting connectivity matrix was extracted, linearized and Fisher ’ s Z-transformed to provide the features for our predictive modeling.
 40-1	6522-6525	The	_
 40-2	6526-6531	upper	_
 40-3	6532-6540	triangle	_
@@ -1032,6 +1072,7 @@
 40-25	6677-6685	modeling	_
 40-26	6686-6687	.	_
 
+Text=Prediction of symptom dimensions using network rs-FC Multivariable regression via a relevance vector machine (RVM) was implemented and evaluated using 500x repeated10-fold cross-validation, individually for each combination of functional network and symptom dimension in the main sample.
 41-1	6688-6698	Prediction	_
 41-2	6699-6701	of	_
 41-3	6702-6709	symptom	_
@@ -1074,6 +1115,7 @@
 41-40	6971-6977	sample	_
 41-41	6978-6979	.	_
 
+Text=Using each network individually in the model was intended to ensure the functional specificity of our results.
 42-1	6980-6985	Using	_
 42-2	6986-6990	each	_
 42-3	6991-6998	network	_
@@ -1093,6 +1135,7 @@
 42-17	7082-7089	results	_
 42-18	7090-7091	.	_
 
+Text=Importantly, RVM is a sparse learning method, i.e., only a few of the learned feature weights are non-zero, lending interpretability as to which features (connections) are predictive.
 43-1	7092-7103	Importantly	_
 43-2	7104-7105	,	_
 43-3	7106-7109	RVM	_
@@ -1128,6 +1171,7 @@
 43-33	7270-7280	predictive	_
 43-34	7281-7282	.	_
 
+Text=As recommended, the symptom dimensional-scores and rs-FC features were adjusted for confounding effects of age, gender, site, and head-motion (DVARS).
 44-1	7283-7285	As	_
 44-2	7286-7297	recommended	_
 44-3	7298-7299	,	_
@@ -1156,6 +1200,7 @@
 44-26	7437-7438	)	_
 44-27	7439-7440	.	_
 
+Text=To avoid data-leakage within cross-validation, confound regression models were learned only on the training-set and then applied on both training and test data.
 45-1	7441-7443	To	_
 45-2	7444-7449	avoid	_
 45-3	7450-7462	data-leakage	_
@@ -1182,6 +1227,7 @@
 45-24	7597-7601	data	_
 45-25	7602-7603	.	_
 
+Text=The RVM model trained on the (confound-adjusted) training data and was then applied to the (confound-adjusted) held-out data.
 46-1	7604-7607	The	_
 46-2	7608-7611	RVM	_
 46-3	7612-7617	model	_
@@ -1206,6 +1252,7 @@
 46-22	7728-7732	data	_
 46-23	7733-7734	.	_
 
+Text=Folds were stratified to accommodate different sample sizes across sites.
 47-1	7735-7740	Folds	_
 47-2	7741-7745	were	_
 47-3	7746-7756	stratified	_
@@ -1218,6 +1265,7 @@
 47-10	7802-7807	sites	_
 47-11	7808-7809	.	_
 
+Text=Prediction performance was evaluated using Pearson ’ s correlation between the (adjusted) scores and their predictions.
 48-1	7810-7820	Prediction	_
 48-2	7821-7832	performance	_
 48-3	7833-7836	was	_
@@ -1238,6 +1286,7 @@
 48-18	7919-7930	predictions	_
 48-19	7931-7932	.	_
 
+Text=Significant predictions were further validated for their generalizability across sites using leave-one-site-out cross-validation following the same schematic but training on all sites but one and testing on the left-out site (Supplement).
 49-1	7933-7944	Significant	_
 49-2	7945-7956	predictions	_
 49-3	7957-7961	were	_
@@ -1273,6 +1322,7 @@
 49-33	8171-8172	)	_
 49-34	8173-8174	.	_
 
+Text=Statistical significance of the cross-validation-based correlations was determined through 1000 permutations by shuffling the symptom dimensional-scores (lowest p=0.001, right-tailed; Supplement).
 50-1	8175-8186	Statistical	_
 50-2	8187-8199	significance	_
 50-3	8200-8202	of	_
@@ -1299,6 +1349,7 @@
 50-24	8373-8374	)	_
 50-25	8375-8376	.	_
 
+Text=Critically, we validated predictive associations confirmed by leave-one-site-out cross-validation in the independent B-SNIP sample.
 51-1	8377-8387	Critically	_
 51-2	8388-8389	,	_
 51-3	8390-8392	we	_
@@ -1316,6 +1367,7 @@
 51-15	8502-8508	sample	_
 51-16	8509-8510	.	_
 
+Text=For this, we trained RVM models on the significantly predictive networks in the entire main sample and then, without further fitting or modification, applied them to held-out B-SNIP data.
 52-1	8511-8514	For	_
 52-2	8515-8519	this	_
 52-3	8520-8521	,	_
@@ -1350,6 +1402,7 @@
 52-32	8696-8700	data	_
 52-33	8701-8702	.	_
 
+Text=Robust associations passing this strict three-step validation procedure were then further assessed as described below.
 53-1	8703-8709	Robust	_
 53-2	8710-8722	associations	_
 53-3	8723-8730	passing	_
@@ -1367,6 +1420,7 @@
 53-15	8815-8820	below	_
 53-16	8821-8822	.	_
 
+Text=In addition, connections within the networks identified with robust associations with symptoms were combined to test the possible improvement in prediction performance.
 54-1	8823-8825	In	_
 54-2	8826-8834	addition	_
 54-3	8835-8836	,	_
@@ -1392,6 +1446,7 @@
 54-23	8980-8991	performance	_
 54-24	8992-8993	.	_
 
+Text=Control analyses were performed by repeating all validation procedures by including illness duration or olanzapine-equivalent dosage as confounds.
 55-1	8994-9001	Control	_
 55-2	9002-9010	analyses	_
 55-3	9011-9015	were	_
@@ -1412,6 +1467,7 @@
 55-18	9130-9139	confounds	_
 55-19	9140-9141	.	_
 
+Text=For comparison, i) we predicted the three PANSS subscales (positive, negative, and general psychopathology) using the same three-step validation procedure and each network individually as in our main analyses, and ii) we predicted the four symptom dimensions using whole-connectome (39060 connections) which comprised pairwise connectivity between all the nodes pooled from the 17 meta-analytic networks.
 56-1	9142-9145	For	_
 56-2	9146-9156	comparison	_
 56-3	9157-9158	,	_
@@ -1479,6 +1535,7 @@
 56-65	9547-9555	networks	_
 56-66	9556-9557	.	_
 
+Text=Identification of reliably predictive connections and subnetworks The intrinsic feature selection in RVM through its sparse modeling was leveraged to identify reliably predictive connections and the potential subnetworks formed by them.
 57-1	9558-9572	Identification	_
 57-2	9573-9575	of	_
 57-3	9576-9584	reliably	_
@@ -1512,6 +1569,7 @@
 57-31	9789-9793	them	_
 57-32	9794-9795	.	_
 
+Text=A connection was identified as reliably predictive when it had non-zero weights in: i) at least 80% of the 10-fold cross-validation repetitions, ii) at least six out of the seven (i.e.,> 80%) leave-one-site-out analyses, and iii) the models trained on the entire main sample for validation in B-SNIP.
 58-1	9796-9797	A	_
 58-2	9798-9808	connection	_
 58-3	9809-9812	was	_
@@ -1574,6 +1632,7 @@
 58-60	10101-10107	B-SNIP	_
 58-61	10108-10109	.	_
 
+Text=The cutoff of 80% is suggested as a conservative threshold in both real and simulated data.
 59-1	10110-10113	The	_
 59-2	10114-10120	cutoff	_
 59-3	10121-10123	of	_
@@ -1593,6 +1652,7 @@
 59-17	10197-10201	data	_
 59-18	10202-10203	.	_
 
+Text=To assess the predictive capacity of the subnetworks, RVM models were trained using the rs-FC of the subnetworks on the main sample and tested in B-SNIP.
 60-1	10204-10206	To	_
 60-2	10207-10213	assess	_
 60-3	10214-10217	the	_
@@ -1622,6 +1682,7 @@
 60-27	10351-10357	B-SNIP	_
 60-28	10358-10359	.	_
 
+Text=Spatial correlation with receptor/transporter densities Finally, we evaluated the topographical relationship between network-node location and the distribution of several receptor/transporter systems, assessing for highly-expressed receptors/transporters in the identified networks relative to the entire brain.
 61-1	10360-10367	Spatial	_
 61-2	10368-10379	correlation	_
 61-3	10380-10384	with	_
@@ -1660,6 +1721,7 @@
 61-36	10667-10672	brain	_
 61-37	10673-10674	.	_
 
+Text=This was tested by comparing the average receptor/transporter density across all nodes within a given network against a null-distribution based on 1000 random network configurations generated by re-distributing the nodes throughout the grey matter while preserving the between-node distances (±6mm tolerance).
 62-1	10675-10679	This	_
 62-2	10680-10683	was	_
 62-3	10684-10690	tested	_
@@ -1705,6 +1767,7 @@
 62-43	10984-10985	)	_
 62-44	10986-10987	.	_
 
+Text=Seven dopamine and serotonin receptors (dopaminergic: D1 and D2/3; serotonergic: 5-HT1a, 5-HT1b, and 5-HT2a) and transporters (dopamine transporter and 5-HTT serotonin reuptake transporter), together with F-DOPA (a reflection of presynaptic dopamine-synthesis-capacity) and the GABAergic receptor GABAa were investigated.
 63-1	10988-10993	Seven	_
 63-2	10994-11002	dopamine	_
 63-3	11003-11006	and	_
@@ -1757,6 +1820,7 @@
 63-50	11308-11320	investigated	_
 63-51	11321-11322	.	_
 
+Text=While all systems are linked to schizophrenia, we here tested specific receptors/transporters.
 64-1	11323-11328	While	_
 64-2	11329-11332	all	_
 64-3	11333-11340	systems	_
@@ -1772,6 +1836,7 @@
 64-13	11395-11417	receptors/transporters	_
 64-14	11418-11419	.	_
 
+Text=Density estimates were derived from average group maps of healthy volunteers (D1: N=13; D2/3: N=7; 5-HT1a: N=35; 5-HT1b: N=23; 5-HT2a: N=19; 5-HTT: N=18; dopamine transporter: N=147; F-DOPA: N=12; GABAa: N=6) scanned in prior multi-tracer molecular imaging studies (Supplement).
 65-1	11420-11427	Density	_
 65-2	11428-11437	estimates	_
 65-3	11438-11442	were	_
@@ -1833,6 +1898,7 @@
 65-59	11717-11718	)	_
 65-60	11719-11720	.	_
 
+Text=For comparability, these maps, in MNI152 space, were all resampled to an isotropic 2mm spatial resolution as in our fMRI data and linearly rescaled to 0-100.
 66-1	11721-11724	For	_
 66-2	11725-11738	comparability	_
 66-3	11739-11740	,	_
@@ -1864,6 +1930,7 @@
 66-29	11875-11880	0-100	_
 66-30	11881-11882	.	_
 
+Text=Furthermore, the significantly higher expressed receptors/transporters were entered into a spatial correlation analysis calculated as rank correlation between the node importance scores and receptor/transporter densities calculated for these nodes (Figure 4B).
 67-1	11883-11894	Furthermore	_
 67-2	11895-11896	,	_
 67-3	11897-11900	the	_
@@ -1900,6 +1967,7 @@
 67-34	12144-12145	)	_
 67-35	12146-12147	.	_
 
+Text=The node importance score was calculated by summing the selection frequency of the connections of each node derived from the repeated 10-fold cross-validation.
 68-1	12148-12151	The	_
 68-2	12152-12156	node	_
 68-3	12157-12167	importance	_
@@ -1925,6 +1993,7 @@
 68-23	12290-12306	cross-validation	_
 68-24	12307-12308	.	_
 
+Text=Bootstrap analysis was conducted to ensure robustness.
 69-1	12309-12318	Bootstrap	_
 69-2	12319-12327	analysis	_
 69-3	12328-12331	was	_
@@ -1934,6 +2003,7 @@
 69-7	12352-12362	robustness	_
 69-8	12363-12364	.	_
 
+Text=To establish the statistical significance of a spatial correlation against chance, spatial permutation test was employed where the null distribution was estimated based on the correlations between the node importance scores for a given network and the nodal receptor/transporter densities extracted from1000 simulated (random) networks (Supplement).
 70-1	12365-12367	To	_
 70-2	12368-12377	establish	_
 70-3	12378-12381	the	_

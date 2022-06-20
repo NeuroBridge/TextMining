@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Machine learning identifies unaffected first-degree relatives with functional network patterns and cognitive impairment similar to those of schizophrenia patients Schizophrenia (SCZ) patients and their unaffected first-degree relatives (FDRs) share similar functional neuroanatomy.
 1-1	0-7	Machine	_
 1-2	8-16	learning	_
 1-3	17-27	identifies	_
@@ -40,6 +41,7 @@
 1-36	272-284	neuroanatomy	_
 1-37	285-286	.	_
 
+Text=However, it remains largely unknown to what extent unaffected FDRs with functional neuroanatomy patterns similar to patients can be identified at an individual level.
 2-1	287-294	However	_
 2-2	295-296	,	_
 2-3	297-299	it	_
@@ -67,6 +69,7 @@
 2-25	448-453	level	_
 2-26	454-455	.	_
 
+Text=In this study, we used a multivariate pattern classification method to learn informative large-scale functional networks (FNs) and build classifiers to distinguish 32 patients from 30 healthy controls and to classify 34 FDRs as with or without FNs similar to patients.
 3-1	456-458	In	_
 3-2	459-463	this	_
 3-3	464-469	study	_
@@ -113,6 +116,7 @@
 3-44	718-726	patients	_
 3-45	727-728	.	_
 
+Text=Four informative FNs were identified based on a training cohort – the cerebellum, default mode network (DMN), ventral fronto-temporal network, and posterior DMN with parahippocampal gyrus – and pattern classifiers built upon these FNs achieved a correct classification rate of 83.9% (sensitivity 87.5%, specificity 80.0%, and area under the ROC [AUC] 0.914) estimated based on leave-one-out cross-validation for the training cohort and a correct classification rate of 77.5% (sensitivity 72.5%, specificity 82.5%, and AUC 0.811) for an independent validation cohort.
 4-1	729-733	Four	_
 4-2	734-745	informative	_
 4-3	746-749	FNs	_
@@ -216,6 +220,7 @@
 4-101	1309-1315	cohort	_
 4-102	1316-1317	.	_
 
+Text=The classification scores of the FDRs and patients were negatively correlated with their measures of cognitive function.
 5-1	1318-1321	The	_
 5-2	1322-1336	classification	_
 5-3	1337-1343	scores	_
@@ -235,6 +240,7 @@
 5-17	1429-1437	function	_
 5-18	1438-1439	.	_
 
+Text=FDRs identified by the classifiers as having SCZ patterns were similar to the patients, but significantly different from the controls and FDRs with normal patterns in terms of their cognitive measures.
 6-1	1440-1444	FDRs	_
 6-2	1445-1455	identified	_
 6-3	1456-1458	by	_
@@ -269,6 +275,7 @@
 6-32	1633-1641	measures	_
 6-33	1642-1643	.	_
 
+Text=These results demonstrate that the pattern classifiers built upon the informative FNs can serve as biomarkers for quantifying brain alterations in schizophrenia and help to identify FDRs with FN patterns and cognitive impairment similar to those of SCZ patients.
 7-1	1644-1649	These	_
 7-2	1650-1657	results	_
 7-3	1658-1669	demonstrate	_
@@ -310,6 +317,7 @@
 7-39	1897-1905	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-40	1906-1907	.	_
 
+Text=Methods and Materials Participants The study included 60 SCZ patients, 43 unaffected FDRs of patients (18 siblings, 15 sons/daughters, and 10 parents), and 50 healthy controls.
 8-1	1908-1915	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 8-2	1916-1919	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 8-3	1920-1929	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -344,6 +352,7 @@
 8-32	2081-2089	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 8-33	2090-2091	.	_
 
+Text=Of the 43 unaffected FDRs, 10 were relatives of the patients recruited in this study.
 9-1	2092-2094	Of	_
 9-2	2095-2098	the	_
 9-3	2099-2101	43	_
@@ -362,6 +371,7 @@
 9-16	2172-2177	study	_
 9-17	2178-2179	.	_
 
+Text=An independent dataset of 40 patients and 40 controls was used as a validation cohort to evaluate the performance of classifiers developed in our study (see Supplementary material for details).
 10-1	2180-2182	An	_
 10-2	2183-2194	independent	_
 10-3	2195-2202	dataset	_
@@ -396,6 +406,7 @@
 10-32	2373-2374	)	_
 10-33	2375-2376	.	_
 
+Text=All participants provided written informed consent and the protocol was approved by the Ethics Committee of Beijing Hui-Long-Guan Hospital, Beijing, China.
 11-1	2377-2380	All	_
 11-2	2381-2393	participants	_
 11-3	2394-2402	provided	_
@@ -421,6 +432,7 @@
 11-23	2528-2533	China	_
 11-24	2534-2535	.	_
 
+Text=Participants were interviewed with the Structured Clinical Interview of the Diagnostic and Statistical Manual of Mental Disorders, 4th edition, text revision (DSM-IV-TR) axis I disorders (SCID-I, Chinese version).
 12-1	2536-2548	Participants	_
 12-2	2549-2553	were	_
 12-3	2554-2565	interviewed	_
@@ -458,6 +470,7 @@
 12-35	2754-2755	)	_
 12-36	2756-2757	.	_
 
+Text=Based on interviews and reviews of clinical history, patients who met the DSM-IV-TR criteria for SCZ were included.
 13-1	2758-2763	Based	_
 13-2	2764-2766	on	_
 13-3	2767-2777	interviews	_
@@ -479,6 +492,7 @@
 13-19	2865-2873	included	_
 13-20	2874-2875	.	_
 
+Text=FDRs were excluded for Axis I psychopathology and all FDRs included in this study did not have personal history of Axis I disorders according to SCID-I.
 14-1	2876-2880	FDRs	_
 14-2	2881-2885	were	_
 14-3	2886-2894	excluded	_
@@ -507,6 +521,7 @@
 14-26	3021-3027	SCID-I	_
 14-27	3028-3029	.	_
 
+Text=The controls did not have family history of SCZ, personal psychiatric, or neurological disorder.
 15-1	3030-3033	The	_
 15-2	3034-3042	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 15-3	3043-3046	did	_
@@ -525,6 +540,7 @@
 15-16	3119-3127	disorder	_
 15-17	3128-3129	.	_
 
+Text=The following exclusion criteria were applied to all groups: (a) <18 or> 45 years of age; (b) left-handedness; (c) history of brain trauma with loss of consciousness, neurological diseases, or serious physical diseases (such as respiratory disorders and cardiovascular disease); (d) diagnosis of alcohol/substance abuse within 12 months before participation; and (e) contraindications for MRI scan.
 16-1	3130-3133	The	_
 16-2	3134-3143	following	_
 16-3	3144-3153	exclusion	_
@@ -604,6 +620,7 @@
 16-77	3544-3548	scan	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImagingInstrument
 16-78	3549-3550	.	_
 
+Text=SCZ patients were also evaluated with the Positive and Negative Syndrome Scale for symptom severity.
 17-1	3551-3554	SCZ	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 17-2	3555-3563	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 17-3	3564-3568	were	_
@@ -621,6 +638,7 @@
 17-15	3642-3650	severity	_
 17-16	3651-3652	.	_
 
+Text=In addition, cognitive function was assessed using the digit-span and digit-symbol coding tests of the Wechsler Adult Intelligence Scale in all participants.
 18-1	3653-3655	In	_
 18-2	3656-3664	addition	_
 18-3	3665-3666	,	_
@@ -646,6 +664,7 @@
 18-23	3798-3810	participants	_
 18-24	3811-3812	.	_
 
+Text=More information on the medication histories of the patients can be found in the supplemental material.
 19-1	3813-3817	More	_
 19-2	3818-3829	information	_
 19-3	3830-3832	on	_
@@ -664,6 +683,7 @@
 19-16	3907-3915	material	_
 19-17	3916-3917	.	_
 
+Text=Data acquisition and preprocessing MR images were collected using a Siemens Magnetom Trio 3.0 Tesla imaging system with a standard head coil at Peking University Third Hospital.
 20-1	3918-3922	Data	_
 20-2	3923-3934	acquisition	_
 20-3	3935-3938	and	_
@@ -693,6 +713,7 @@
 20-27	4086-4094	Hospital	_
 20-28	4095-4096	.	_
 
+Text=For image registration, high-resolution structural T1 MRI data were acquired (256×256×192 matrix; slice thickness 1 mm; voxel resolution 1×1×1 mm3; flip angle 7°; repetition time [TR] 2530 ms; echo time [TE] 3.44 ms; inversion time 1100 ms).
 21-1	4097-4100	For	_
 21-2	4101-4106	image	_
 21-3	4107-4119	registration	_
@@ -745,6 +766,7 @@
 21-50	4349-4350	)	_
 21-51	4351-4352	.	_
 
+Text=RsfMRI scans were obtained using a gradient-recalled echo-planar imaging sequence (field of view 220 mm, 64×64×64 matrix; TR 2000 ms; TE 30 ms; flip angle 90°; slice thickness 4 mm; voxel resolution 3.4×3.4×4.0 mm³).
 22-1	4353-4359	RsfMRI	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 22-2	4360-4365	scans	_
 22-3	4366-4370	were	_
@@ -789,6 +811,7 @@
 22-42	4575-4576	)	_
 22-43	4577-4578	.	_
 
+Text=Each rsfMRI scan had 240 volumes of 33 axial slices.
 23-1	4579-4583	Each	_
 23-2	4584-4590	rsfMRI	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 23-3	4591-4595	scan	_
@@ -801,6 +824,7 @@
 23-10	4624-4630	slices	_
 23-11	4631-4632	.	_
 
+Text=During acquisition, participants were instructed to close their eyes, relax, and remain awake.
 24-1	4633-4639	During	_
 24-2	4640-4651	acquisition	_
 24-3	4652-4653	,	_
@@ -819,6 +843,7 @@
 24-16	4724-4729	awake	_
 24-17	4730-4731	.	_
 
+Text=All images were visually checked for artefacts, structural abnormalities, and pathologies by neuroradiologists.
 25-1	4732-4735	All	_
 25-2	4736-4742	images	_
 25-3	4743-4747	were	_
@@ -836,6 +861,7 @@
 25-15	4827-4844	neuroradiologists	_
 25-16	4845-4846	.	_
 
+Text=Frame-wise displacement (FD) was calculated to measure volume-to-volume changes in head position.
 26-1	4847-4857	Frame-wise	_
 26-2	4858-4870	displacement	_
 26-3	4871-4872	(	_
@@ -852,6 +878,7 @@
 26-14	4937-4945	position	_
 26-15	4946-4947	.	_
 
+Text=Thirty-seven participants were excluded because of large head-movements (mean FD> 0.5 mm).
 27-1	4948-4960	Thirty-seven	_
 27-2	4961-4973	participants	_
 27-3	4974-4978	were	_
@@ -869,6 +896,7 @@
 27-15	5039-5040	)	_
 27-16	5041-5042	.	_
 
+Text=The final sample comprised 40 controls, 34 FDRs, and 42 SCZ patients.
 28-1	5043-5046	The	_
 28-2	5047-5052	final	_
 28-3	5053-5059	sample	_
@@ -885,6 +913,7 @@
 28-14	5105-5113	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 28-15	5114-5115	.	_
 
+Text=The preprocessing steps are outlined in the supplemental material.
 29-1	5116-5119	The	_
 29-2	5120-5133	preprocessing	_
 29-3	5134-5139	steps	_
@@ -896,6 +925,7 @@
 29-9	5173-5181	material	_
 29-10	5182-5183	.	_
 
+Text=Identification of informative functional networks in schizophrenia Independent component analysis guided by group information (GIG-ICA) was adopted to extract subject-specific FNs from the rsfMRI data of patients, unaffected FDRs, and controls.
 30-1	5184-5198	Identification	_
 30-2	5199-5201	of	_
 30-3	5202-5213	informative	_
@@ -933,6 +963,7 @@
 30-35	5423-5431	controls	_
 30-36	5432-5433	.	_
 
+Text=The number of independent components (ICs) was estimated automatically to be 15, based on 10 randomly selected controls and 10 randomly selected SCZ patients for computing group-level ICs using FSL Melodic with its default setting of Laplace approximation to the evidence of the model order.
 31-1	5434-5437	The	_
 31-2	5438-5444	number	_
 31-3	5445-5447	of	_
@@ -983,6 +1014,7 @@
 31-48	5722-5727	order	_
 31-49	5728-5729	.	_
 
+Text=The resulting group-level ICs were then used as guidance information to compute the ICs of the remaining participants using GIG-ICA, finally each subject was characterized with 15 FNs (supplemental Figure S1).
 32-1	5730-5733	The	_
 32-2	5734-5743	resulting	_
 32-3	5744-5755	group-level	_
@@ -1019,6 +1051,7 @@
 32-34	5940-5941	)	_
 32-35	5942-5943	.	_
 
+Text=Particularly, we used a gray matter mask in ICA in order to minimize the partial volume effects of cerebrospinal fluid and spurious effects on connectivity measures, as well as to increase the sensitivity to BOLD signal changes.
 33-1	5944-5956	Particularly	_
 33-2	5957-5958	,	_
 33-3	5959-5961	we	_
@@ -1060,6 +1093,7 @@
 33-39	6166-6173	changes	_
 33-40	6174-6175	.	_
 
+Text=A pattern classification method was used to identify informative FNs and build SVM classifiers to distinguish 32 patients from 30 controls who were not included in the computation of group-level ICs.
 34-1	6176-6177	A	_
 34-2	6178-6185	pattern	_
 34-3	6186-6200	classification	_
@@ -1093,6 +1127,7 @@
 34-31	6371-6374	ICs	_
 34-32	6375-6376	.	_
 
+Text=Particularly, we built classifiers on a subset of FNs that were selected to optimize the classification performance for distinguishing SCZs from HCs using an SVM classification algorithm.
 35-1	6377-6389	Particularly	_
 35-2	6390-6391	,	_
 35-3	6392-6394	we	_
@@ -1123,6 +1158,7 @@
 35-28	6555-6564	algorithm	_
 35-29	6565-6566	.	_
 
+Text=The SVM classification was based on similarity measures between subjects computed based on their FNs.
 36-1	6567-6570	The	_
 36-2	6571-6574	SVM	_
 36-3	6575-6589	classification	_
@@ -1140,6 +1176,7 @@
 36-15	6664-6667	FNs	_
 36-16	6668-6669	.	_
 
+Text=A forward component selection technique was adopted to identify the most discriminative set of FNs using following procedure.
 37-1	6670-6671	A	_
 37-2	6672-6679	forward	_
 37-3	6680-6689	component	_
@@ -1160,6 +1197,7 @@
 37-18	6785-6794	procedure	_
 37-19	6795-6796	.	_
 
+Text=Classifiers were first built on individual FNs, one for each FN, then the classifiers were evaluated with a leave-one-out (LOO) cross-validation, and finally the FN with the best classification performance was selected to be included in the classification.
 38-1	6797-6808	Classifiers	_
 38-2	6809-6813	were	_
 38-3	6814-6819	first	_
@@ -1205,6 +1243,7 @@
 38-43	7043-7057	classification	_
 38-44	7058-7059	.	_
 
+Text=By combining the first selected FN and one of the other FNs, a classifier could be built upon two FNs.
 39-1	7060-7062	By	_
 39-2	7063-7072	combining	_
 39-3	7073-7076	the	_
@@ -1228,6 +1267,7 @@
 39-21	7159-7162	FNs	_
 39-22	7163-7164	.	_
 
+Text=All classifiers built on two FNs were then evaluated using the same LOO cross‐validation, and the FNs with the best classification performance were selected to be included in the classification.
 40-1	7165-7168	All	_
 40-2	7169-7180	classifiers	_
 40-3	7181-7186	built	_
@@ -1261,6 +1301,7 @@
 40-31	7345-7359	classification	_
 40-32	7360-7361	.	_
 
+Text=This procedure was repeated to include more FNs in the classification one by one until one single classifier was built upon all available FNs.
 41-1	7362-7366	This	_
 41-2	7367-7376	procedure	_
 41-3	7377-7380	was	_
@@ -1287,6 +1328,7 @@
 41-24	7500-7503	FNs	_
 41-25	7504-7505	.	_
 
+Text=Finally, the combination of FNs with the overall best classification performance was identified to be included in the final classification.
 42-1	7506-7513	Finally	_
 42-2	7514-7515	,	_
 42-3	7516-7519	the	_
@@ -1310,6 +1352,7 @@
 42-21	7631-7645	classification	_
 42-22	7646-7647	.	_
 
+Text=The FN selection and the classifier construction were carried out based on the training data.
 43-1	7648-7651	The	_
 43-2	7652-7654	FN	_
 43-3	7655-7664	selection	_
@@ -1327,6 +1370,7 @@
 43-15	7736-7740	data	_
 43-16	7741-7742	.	_
 
+Text=In the LOO cross-validation setting, each participant was analyzed as testing data once to evaluate a sigmoid kernel SVM classifier that was built upon the data of all other subjects.
 44-1	7743-7745	In	_
 44-2	7746-7749	the	_
 44-3	7750-7753	LOO	_
@@ -1360,6 +1404,7 @@
 44-31	7918-7926	subjects	_
 44-32	7927-7928	.	_
 
+Text=To avoid bias of the classification, we applied a nested LOO procedure to optimize the parameters of the SVM classifier by tuning them and choosing an optimal combination of FNs with a forward component selection algorithm (details in supplemental material).
 45-1	7929-7931	To	_
 45-2	7932-7937	avoid	_
 45-3	7938-7942	bias	_
@@ -1405,6 +1450,7 @@
 45-43	8188-8189	)	_
 45-44	8190-8191	.	_
 
+Text=FNs with high frequency (frequency> 0.8) were defined as informative FNs.
 46-1	8192-8195	FNs	_
 46-2	8196-8200	with	_
 46-3	8201-8205	high	_
@@ -1421,6 +1467,7 @@
 46-14	8264-8267	FNs	_
 46-15	8268-8269	.	_
 
+Text=Based on the informative FNs of 62 subjects, the LOO cross-validation model yielded 62 SVM classifiers.
 47-1	8270-8275	Based	_
 47-2	8276-8278	on	_
 47-3	8279-8282	the	_
@@ -1440,6 +1487,7 @@
 47-17	8362-8373	classifiers	_
 47-18	8374-8375	.	_
 
+Text=Each of the SVM classifiers generated a classification score which was a median value of classification scores of its nested LOO classifiers, with a positive value to indicate SCZ or a negative value to indicate normal.
 48-1	8376-8380	Each	_
 48-2	8381-8383	of	_
 48-3	8384-8387	the	_
@@ -1479,6 +1527,7 @@
 48-37	8589-8595	normal	_
 48-38	8596-8597	.	_
 
+Text=In addition to classification accuracy, sensitivity, and specificity, the receiver operating characteristic curve (ROC) and the area under the ROC (AUC) were also calculated to evaluate the classification performance.
 49-1	8598-8600	In	_
 49-2	8601-8609	addition	_
 49-3	8610-8612	to	_
@@ -1517,6 +1566,7 @@
 49-36	8810-8821	performance	_
 49-37	8822-8823	.	_
 
+Text=Nonparametric permutation tests were used to estimate the statistical significance of the classification performance.
 50-1	8824-8837	Nonparametric	_
 50-2	8838-8849	permutation	_
 50-3	8850-8855	tests	_
@@ -1533,6 +1583,7 @@
 50-14	8929-8940	performance	_
 50-15	8941-8942	.	_
 
+Text=The null distribution of the classification rate was estimated for all subject-specific SVM models using 10-fold cross-validation by performing 10000 random permutation tests with subject class labels randomly permuted.
 51-1	8943-8946	The	_
 51-2	8947-8951	null	_
 51-3	8952-8964	distribution	_
@@ -1564,6 +1615,7 @@
 51-29	9153-9161	permuted	_
 51-30	9162-9163	.	_
 
+Text=Finally, the null distribution of the classification error was visualized as a histogram of classification rates.
 52-1	9164-9171	Finally	_
 52-2	9172-9173	,	_
 52-3	9174-9177	the	_
@@ -1583,6 +1635,7 @@
 52-17	9272-9277	rates	_
 52-18	9278-9279	.	_
 
+Text=The informative FNs were further validated in terms of their classification performance using an independent dataset (see supplemental material for details).
 53-1	9280-9283	The	_
 53-2	9284-9295	informative	_
 53-3	9296-9299	FNs	_
@@ -1608,6 +1661,7 @@
 53-23	9437-9438	)	_
 53-24	9439-9440	.	_
 
+Text=The LOO cross-validation classifiers were applied to the FNs of FDRs, so each FDR was given 62 individual classification scores.
 54-1	9441-9444	The	_
 54-2	9445-9448	LOO	_
 54-3	9449-9465	cross-validation	_
@@ -1631,6 +1685,7 @@
 54-21	9563-9569	scores	_
 54-22	9570-9571	.	_
 
+Text=The median of the individual classification scores was finally used as a robust measure to characterize the affinity of each FDR to SCZ (a positive score indicates a SCZ pattern).
 55-1	9572-9575	The	_
 55-2	9576-9582	median	_
 55-3	9583-9585	of	_
@@ -1665,6 +1720,7 @@
 55-32	9751-9752	)	_
 55-33	9753-9754	.	_
 
+Text=A flowchart of the pattern classification algorithm is shown in supplemental Figure S3.
 56-1	9755-9756	A	_
 56-2	9757-9766	flowchart	_
 56-3	9767-9769	of	_
@@ -1680,6 +1736,7 @@
 56-13	9839-9841	S3	_
 56-14	9842-9843	.	_
 
+Text=Based on the classification scores, the FDRs were classified as SCZ-specific (S-FDRs) or HC-specific (H-FDRs).
 57-1	9844-9849	Based	_
 57-2	9850-9852	on	_
 57-3	9853-9856	the	_
@@ -1702,6 +1759,7 @@
 57-20	9957-9958	)	_
 57-21	9959-9960	.	_
 
+Text=We also adopted a certainty measure to evaluate the classification reliability for each individual subject based on the LOO cross-validation classifiers.
 58-1	9961-9963	We	_
 58-2	9964-9968	also	_
 58-3	9969-9976	adopted	_
@@ -1725,6 +1783,7 @@
 58-21	10102-10113	classifiers	_
 58-22	10114-10115	.	_
 
+Text=Particularly, the classification certainty was measured by, where np is the number of positive classification scores and n is the total number of LOO classifiers.
 59-1	10116-10128	Particularly	_
 59-2	10129-10130	,	_
 59-3	10131-10134	the	_
@@ -1754,6 +1813,7 @@
 59-27	10268-10279	classifiers	_
 59-28	10280-10281	.	_
 
+Text=A higher value indicated a higher classification reliability, and vice versa.
 60-1	10282-10283	A	_
 60-2	10284-10290	higher	_
 60-3	10291-10296	value	_
@@ -1768,6 +1828,7 @@
 60-12	10354-10359	versa	_
 60-13	10360-10361	.	_
 
+Text=We excluded subjects with lower classification certainty (<0.9) in post-hoc analyses.
 61-1	10362-10364	We	_
 61-2	10365-10373	excluded	_
 61-3	10374-10382	subjects	_
@@ -1784,6 +1845,7 @@
 61-14	10441-10449	analyses	_
 61-15	10450-10451	.	_
 
+Text=Finally, the sample comprised 27 controls, 33 FDRs, and 28 SCZs in the post-hoc analysis.
 62-1	10452-10459	Finally	_
 62-2	10460-10461	,	_
 62-3	10462-10465	the	_
@@ -1804,6 +1866,7 @@
 62-18	10535-10543	analysis	_
 62-19	10544-10545	.	_
 
+Text=Voxelwise functional connectivity (FC) measures of each informative FN were computed as Pearson correlation coefficients between time courses of the whole-brain voxels and the FN, and transferred to z-scores for every participant.
 63-1	10546-10555	Voxelwise	_
 63-2	10556-10566	functional	_
 63-3	10567-10579	connectivity	_
@@ -1841,6 +1904,7 @@
 63-35	10767-10778	participant	_
 63-36	10779-10780	.	_
 
+Text=Then, the voxelwise FC measures were compared between any two groups using statistical nonparametric mapping software (SnPM13, http: //warwick.ac.uk/snpm; p = 0.05, permutation tests n = 10000, age, sex, years of education, and FD as covariates).
 64-1	10781-10785	Then	_
 64-2	10786-10787	,	_
 64-3	10788-10791	the	_
@@ -1890,6 +1954,7 @@
 64-47	11036-11037	)	_
 64-48	11038-11039	.	_
 
+Text=The comparisons were restricted to brain regions with significant FC within the FN (one sample t-test, p = 0.05, family-wise error correction, and cluster size> 100).
 65-1	11040-11043	The	_
 65-2	11044-11055	comparisons	_
 65-3	11056-11060	were	_
@@ -1924,6 +1989,7 @@
 65-32	11210-11211	)	_
 65-33	11212-11213	.	_
 
+Text=Similarity measures of informative FNs between individuals were computed based on principal angles for visualizing the similarity among FDRs, SCZs, and HCs.
 66-1	11214-11224	Similarity	_
 66-2	11225-11233	measures	_
 66-3	11234-11236	of	_
@@ -1950,6 +2016,7 @@
 66-24	11368-11371	HCs	_
 66-25	11372-11373	.	_
 
+Text=Statistical comparisons of clinical characteristics between groups To identify functional patterns for clinical characteristics analysis, FDRs were divided into two subgroups: those with SCZ-specific classification scores> 0, and those with HC-specific classification scores ≤0 (positive scores reflect the presence of an SZC-specific functional pattern, and negative scores indicate a control-specific pattern).
 67-1	11374-11385	Statistical	_
 67-2	11386-11397	comparisons	_
 67-3	11398-11400	of	_
@@ -2010,6 +2077,7 @@
 67-58	11791-11792	)	_
 67-59	11793-11794	.	_
 
+Text=The pseudo two-sample t-test at 5% significance level (permutation tests, n = 10000) was used to quantify the statistical significance of group differences.
 68-1	11795-11798	The	_
 68-2	11799-11805	pseudo	_
 68-3	11806-11816	two-sample	_
@@ -2039,6 +2107,7 @@
 68-27	11943-11954	differences	_
 68-28	11955-11956	.	_
 
+Text=Correlation analysis between cognitive function and classification scores A general linear model with outliers removed at 95% confidence intervals was used to investigate correlations between the classification scores and measures of cognitive function in groups, with age, sex, years of education, and FD as covariates.
 69-1	11957-11968	Correlation	_
 69-2	11969-11977	analysis	_
 69-3	11978-11985	between	_

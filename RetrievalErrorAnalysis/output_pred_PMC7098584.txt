@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Alcohol effects on globus pallidus connectivity: Role of impulsivity and binge drinking Despite the harm caused by binge drinking, the neural mechanisms leading to risky and disinhibited intoxication-related behaviors are not well understood.
 1-1	0-7	Alcohol	_
 1-2	8-15	effects	_
 1-3	16-18	on	_
@@ -39,6 +40,7 @@
 1-35	233-243	understood	_
 1-36	244-245	.	_
 
+Text=Evidence suggests that the globus pallidus externus (GPe), a substructure within the basal ganglia, participates in inhibitory control processes, as examined in stop-signaling tasks.
 2-1	246-254	Evidence	_
 2-2	255-263	suggests	_
 2-3	264-268	that	_
@@ -70,6 +72,7 @@
 2-29	427-432	tasks	_
 2-30	433-434	.	_
 
+Text=In fact, studies in rodents have revealed that alcohol can change GPe activity by decreasing neuronal firing rates, suggesting that the GPe may have a central role in explaining impulsive behaviors and failures of inhibition that occur during binge drinking.
 3-1	435-437	In	_
 3-2	438-442	fact	_
 3-3	443-444	,	_
@@ -114,6 +117,7 @@
 3-42	686-694	drinking	_
 3-43	695-696	.	_
 
+Text=In this study, twenty-five healthy volunteers underwent intravenous alcohol infusion to achieve a blood alcohol level of 0.08 g/dl, which is equivalent to a binge drinking episode.
 4-1	697-699	In	_
 4-2	700-704	this	_
 4-3	705-710	study	_
@@ -145,6 +149,7 @@
 4-29	871-878	episode	_
 4-30	879-880	.	_
 
+Text=A resting state functional magnetic resonance imaging scan was collected prior to the infusion and at binge-level exposure.
 5-1	881-882	A	_
 5-2	883-890	resting	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 5-3	891-896	state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -165,6 +170,7 @@
 5-18	995-1003	exposure	_
 5-19	1004-1005	.	_
 
+Text=Functional connectivity analysis was used to investigate the association between alcohol-induced changes in GPe connectivity, drinking behaviors, and impulsivity traits.
 6-1	1006-1016	Functional	_
 6-2	1017-1029	connectivity	_
 6-3	1030-1038	analysis	_
@@ -189,6 +195,7 @@
 6-22	1170-1176	traits	_
 6-23	1177-1178	.	_
 
+Text=We found that individuals with greater number of drinks or heavy drinking days in the recent past had greater alcohol-induced deficits in GPe connectivity, particularly to the striatum.
 7-1	1179-1181	We	_
 7-2	1182-1187	found	_
 7-3	1188-1192	that	_
@@ -220,6 +227,7 @@
 7-29	1356-1364	striatum	_
 7-30	1365-1366	.	_
 
+Text=Our data also indicated an association between impulsivity and alcohol-induced deficits in GPe—frontal/precentral connectivity.
 8-1	1367-1370	Our	_
 8-2	1371-1375	data	_
 8-3	1376-1380	also	_
@@ -236,6 +244,7 @@
 8-14	1481-1493	connectivity	_
 8-15	1494-1495	.	_
 
+Text=Moreover, alcohol induced changes in GPe-amygdala circuitry suggested greater vulnerabilities to stress-related drinking in some individuals.
 9-1	1496-1504	Moreover	_
 9-2	1505-1506	,	_
 9-3	1507-1514	alcohol	_
@@ -255,6 +264,7 @@
 9-17	1626-1637	individuals	_
 9-18	1638-1639	.	_
 
+Text=Taken together, these findings suggest that alcohol may interact with impulsive personality traits and drinking patterns to drive alterations in GPe circuitry associated with behavioral inhibition, possibly indicating a neural mechanism by which binge drinking could lead to impulsive behaviors.
 10-1	1640-1645	Taken	_
 10-2	1646-1654	together	_
 10-3	1655-1656	,	_
@@ -299,6 +309,7 @@
 10-42	1927-1936	behaviors	_
 10-43	1937-1938	.	_
 
+Text=Methods This study was approved by the NIH Addictions Institutional Review Board under 12-AA-0032.
 11-1	1939-1946	Methods	_
 11-2	1947-1951	This	_
 11-3	1952-1957	study	_
@@ -315,6 +326,7 @@
 11-14	2026-2036	12-AA-0032	_
 11-15	2037-2038	.	_
 
+Text=All subjects provided written informed consent prior to their participation in the study.
 12-1	2039-2042	All	_
 12-2	2043-2051	subjects	_
 12-3	2052-2060	provided	_
@@ -330,6 +342,7 @@
 12-13	2122-2127	study	_
 12-14	2128-2129	.	_
 
+Text=Participants Twenty-five healthy (13 males, 12 females; mean age: 28.85 years), light social drinkers were recruited by local advertisement, according to approved National Institutes of Health Institutional Review Board procedures.
 13-1	2130-2142	Participants	_
 13-2	2143-2154	Twenty-five	_
 13-3	2155-2162	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -369,6 +382,7 @@
 13-37	2357-2367	procedures	_
 13-38	2368-2369	.	_
 
+Text=The demographic data of participants is summarized in Table 1.
 14-1	2370-2373	The	_
 14-2	2374-2385	demographic	_
 14-3	2386-2390	data	_
@@ -381,6 +395,7 @@
 14-10	2430-2431	1	_
 14-11	2432-2433	.	_
 
+Text=After obtaining written informed consent, all participants underwent a comprehensive medical screen, including blood work, urinalysis, medical history, physical exam, and a Structured Clinical Interview for the DSM Axis-I Disorders (SCID-IV).
 15-1	2434-2439	After	_
 15-2	2440-2449	obtaining	_
 15-3	2450-2457	written	_
@@ -422,6 +437,7 @@
 15-39	2682-2683	)	http://maven.renci.org/NeuroBridge/neurobridge#MoodDisorder
 15-40	2684-2685	.	_
 
+Text=Criteria for inclusion in this study were: healthy, 21–45 years old, consumption of 1 to 10 drinks per week for females and 1 to 14 drinks per week for males.
 16-1	2686-2694	Criteria	_
 16-2	2695-2698	for	_
 16-3	2699-2708	inclusion	_
@@ -457,6 +473,7 @@
 16-33	2841-2846	males	_
 16-34	2847-2848	.	_
 
+Text=Subjects also had to have consumed at least two standard drinks of alcohol within one hour on at least one occasion in their lifetime.
 17-1	2849-2857	Subjects	_
 17-2	2858-2862	also	_
 17-3	2863-2866	had	_
@@ -483,6 +500,7 @@
 17-24	2974-2982	lifetime	_
 17-25	2983-2984	.	_
 
+Text=Criteria for exclusion included: abnormal blood or urine lab test values or findings from the medical screen, DSM-IV criteria for alcohol or other substance dependence (excluding nicotine) at any time; current or past major psychiatric disorder (DSM-IV Axis I), head injury requiring hospitalization, Body Mass Index (BMI) value over 30, inability to stop taking any medication or drugs 3 days prior to study days, and MRI contraindications.
 18-1	2985-2993	Criteria	_
 18-2	2994-2997	for	_
 18-3	2998-3007	exclusion	_
@@ -565,6 +583,7 @@
 18-80	3421-3438	contraindications	_
 18-81	3439-3440	.	_
 
+Text=Also, non-drinkers were excluded from the study due to ethical concerns related to alcohol administration.
 19-1	3441-3445	Also	_
 19-2	3446-3447	,	_
 19-3	3448-3460	non-drinkers	_
@@ -583,6 +602,7 @@
 19-16	3533-3547	administration	_
 19-17	3548-3549	.	_
 
+Text=Measures Alcohol drinking measures The amount of daily alcohol consumption over the last 90 days was measured using the Alcohol Timeline-Followback (TLFB) calendar—a drinking assessment method with good psychometric characteristics for estimating retrospective daily drinking patterns.
 20-1	3550-3558	Measures	_
 20-2	3559-3566	Alcohol	http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse
 20-3	3567-3575	drinking	_
@@ -623,6 +643,7 @@
 20-38	3828-3836	patterns	_
 20-39	3837-3838	.	_
 
+Text=The number of heavy drinking days in the last 90 days was calculated from the TLFB; a heavy drinking day is defined as 4 or more drinks per day for women and 5 or more drinks per day for men.
 21-1	3839-3842	The	_
 21-2	3843-3849	number	_
 21-3	3850-3852	of	_
@@ -666,6 +687,7 @@
 21-41	4027-4030	men	_
 21-42	4031-4032	.	_
 
+Text=We used this as a measure for binge drinking.
 22-1	4033-4035	We	_
 22-2	4036-4040	used	_
 22-3	4041-4045	this	_
@@ -677,6 +699,7 @@
 22-9	4069-4077	drinking	_
 22-10	4078-4079	.	_
 
+Text=Total drinks in the past 30 days was also calculated from the TLFB.
 23-1	4080-4085	Total	_
 23-2	4086-4092	drinks	_
 23-3	4093-4095	in	_
@@ -692,6 +715,7 @@
 23-13	4142-4146	TLFB	_
 23-14	4147-4148	.	_
 
+Text=Past 30-day drinking was used rather than 90-day drinking given that we were interested in recent drinking, and that recent reports of drinking may be more reliable.
 24-1	4149-4153	Past	_
 24-2	4154-4160	30-day	_
 24-3	4161-4169	drinking	_
@@ -722,6 +746,7 @@
 24-28	4306-4314	reliable	_
 24-29	4315-4316	.	_
 
+Text=Impulsivity measures Impulsive behavioral traits were measured using the Barratt Impulsiveness Scale (BIS-11) and the UPPS-P Impulsive Behavior Scale, two of the most widely-used self-report tools in the evaluation of trait impulsivity.
 25-1	4317-4328	Impulsivity	_
 25-2	4329-4337	measures	_
 25-3	4338-4347	Impulsive	_
@@ -759,6 +784,7 @@
 25-35	4544-4555	impulsivity	_
 25-36	4556-4557	.	_
 
+Text=The BIS-11 scale evaluates impulsive behavior in general, and the motor, attentional and non-planning sub-scales evaluate acting without thinking, inability to focus attention and lack of forethought, respectively.
 26-1	4558-4561	The	_
 26-2	4562-4568	BIS-11	_
 26-3	4569-4574	scale	_
@@ -793,6 +819,7 @@
 26-32	4763-4775	respectively	_
 26-33	4776-4777	.	_
 
+Text=The UPPS-P measures personality traits conducive to impulsive behavior including Urgency (negative) —tendency to impulsively act under strong negative emotions, Premeditation (lack of) —tendency to act without thinking, Perseverance (lack of) to remain focused on a task, Sensation-seeking—tendency to seek out novel/thrilling experiences, and Positive-urgency—tendency to impulsively act under strong positive emotions.
 27-1	4778-4781	The	_
 27-2	4782-4788	UPPS-P	_
 27-3	4789-4797	measures	_
@@ -857,6 +884,7 @@
 27-62	5199-5207	emotions	_
 27-63	5208-5209	.	_
 
+Text=We also evaluated choice impulsivity with the Delay Discounting Task (DDT).
 28-1	5210-5212	We	_
 28-2	5213-5217	also	_
 28-3	5218-5227	evaluated	_
@@ -872,6 +900,7 @@
 28-13	5285-5286	)	http://maven.renci.org/NeuroBridge/neurobridge#FingerTappingTask
 28-14	5287-5288	.	_
 
+Text=The DDT measures impulsivity by presenting the subject with a series of hypothetical choices between receiving a smaller immediate monetary reward or a larger delayed reward.
 29-1	5289-5292	The	_
 29-2	5293-5296	DDT	_
 29-3	5297-5305	measures	_
@@ -900,6 +929,7 @@
 29-26	5456-5462	reward	_
 29-27	5463-5464	.	_
 
+Text=Subjects were presented as their immediate reward values between $100 and $0 dollars in increments of $10, while the delayed reward was $100.
 30-1	5465-5473	Subjects	_
 30-2	5474-5478	were	_
 30-3	5479-5488	presented	_
@@ -930,6 +960,7 @@
 30-28	5607-5610	100	_
 30-29	5611-5612	.	_
 
+Text=Delays were 0, 7, 14, 20, 25, or 30 days.
 31-1	5613-5619	Delays	_
 31-2	5620-5624	were	_
 31-3	5625-5626	0	_
@@ -947,6 +978,7 @@
 31-15	5654-5658	days	_
 31-16	5659-5660	.	_
 
+Text=Subjects completed trials with all iterations of these parameters.
 32-1	5661-5669	Subjects	_
 32-2	5670-5679	completed	_
 32-3	5680-5686	trials	_
@@ -958,6 +990,7 @@
 32-9	5716-5726	parameters	_
 32-10	5727-5728	.	_
 
+Text=The rate of discounting of the delayed outcome (k) was calculated and then a natural log-transformation was applied to correct for the non-normal distribution of k values.
 33-1	5729-5732	The	_
 33-2	5733-5737	rate	_
 33-3	5738-5740	of	_
@@ -989,6 +1022,7 @@
 33-29	5895-5901	values	_
 33-30	5902-5903	.	_
 
+Text=The resulting ln (k) is used to represent delay discounting, where higher ln (k) values mean greater preference for immediate rewards (see Table 1 for descriptive statistics of drinking and impulsivity scores for the sample).
 34-1	5904-5907	The	_
 34-2	5908-5917	resulting	_
 34-3	5918-5920	ln	_
@@ -1033,6 +1067,7 @@
 34-42	6134-6135	)	_
 34-43	6136-6137	.	_
 
+Text=Experimental design and statistical analysis Overall timeline In this two-session study, healthy light drinkers received an IV alcohol infusion on two separate days.
 35-1	6138-6150	Experimental	_
 35-2	6151-6157	design	_
 35-3	6158-6161	and	_
@@ -1059,6 +1094,7 @@
 35-24	6299-6303	days	_
 35-25	6304-6305	.	_
 
+Text=The first session was conducted outside the scanner to establish the alcohol infusion rate profile to achieve and maintain the target BrAC exposure, and to ensure tolerability.
 36-1	6306-6309	The	_
 36-2	6310-6315	first	_
 36-3	6316-6323	session	_
@@ -1089,6 +1125,7 @@
 36-28	6470-6482	tolerability	_
 36-29	6483-6484	.	_
 
+Text=The alcohol infusion for the second session was conducted inside the scanner at least three days after the first session (Fig 1).
 37-1	6485-6488	The	_
 37-2	6489-6496	alcohol	_
 37-3	6497-6505	infusion	_
@@ -1115,6 +1152,7 @@
 37-24	6614-6615	)	_
 37-25	6616-6617	.	_
 
+Text=Participants were asked to fast the night before each session.
 38-1	6618-6630	Participants	_
 38-2	6631-6635	were	_
 38-3	6636-6641	asked	_
@@ -1127,6 +1165,7 @@
 38-10	6672-6679	session	_
 38-11	6680-6681	.	_
 
+Text=At the start of each visit, breath alcohol levels, urine pregnancy tests (if applicable) and urine drug screens were collected.
 39-1	6682-6684	At	_
 39-2	6685-6688	the	_
 39-3	6689-6694	start	_
@@ -1153,6 +1192,7 @@
 39-24	6803-6812	collected	_
 39-25	6813-6814	.	_
 
+Text=In addition, we conducted a brief history interview about recent alcohol, medication, and nicotine use, changes in physical health, and menstruation (if applicable).
 40-1	6815-6817	In	_
 40-2	6818-6826	addition	_
 40-3	6827-6828	,	_
@@ -1185,6 +1225,7 @@
 40-30	6985-6986	)	_
 40-31	6987-6988	.	_
 
+Text=Alcohol infusion to binge level exposure We performed the alcohol infusion procedure following previously published methods (fMRI and PET).
 41-1	6989-6996	Alcohol	_
 41-2	6997-7005	infusion	_
 41-3	7006-7008	to	_
@@ -1208,6 +1249,7 @@
 41-21	7128-7129	)	_
 41-22	7130-7131	.	_
 
+Text=In both sessions, participants received an intravenous (IV) infusion of 6% v/v ethanol solution in saline to achieve a target breath alcohol concentration (BrAC) of 0.08 ± 0.005 g/dl at 15 min after the start of the infusion, and to maintain (or clamp) the target BrAC level for 30 min (Fig 1).
 42-1	7132-7134	In	_
 42-2	7135-7139	both	_
 42-3	7140-7148	sessions	_
@@ -1273,6 +1315,7 @@
 42-63	7435-7436	)	_
 42-64	7437-7438	.	_
 
+Text=The infusion-rate profile was computed for each subject using a physiologically-based pharmacokinetic (PBPK) model-based algorithm, with individualized estimates of the model parameters estimated from the subject ’ s height, weight, age and sex.
 43-1	7439-7442	The	_
 43-2	7443-7456	infusion-rate	_
 43-3	7457-7464	profile	_
@@ -1313,6 +1356,7 @@
 43-38	7685-7688	sex	_
 43-39	7689-7690	.	_
 
+Text=During the first session conducted outside the scanner, serial BrACs were measured at frequent intervals (5–15 minutes) using the Alcotest 7410+ handheld breathalyzer (Drager Safety Inc., CO), to ensure that each BrAC was within 0.005 g/dl of the target, and to enable minor adjustments to the infusion rates to overcome errors in parameter estimation and experimental variability.
 44-1	7691-7697	During	_
 44-2	7698-7701	the	_
 44-3	7702-7707	first	_
@@ -1380,6 +1424,7 @@
 44-65	8068-8079	variability	_
 44-66	8080-8081	.	_
 
+Text=The adjusted infusion rate profile from the first session was used in the imaging session to replicate the target BrAC profile for each subject.
 45-1	8082-8085	The	_
 45-2	8086-8094	adjusted	_
 45-3	8095-8103	infusion	_
@@ -1406,6 +1451,7 @@
 45-24	8218-8225	subject	_
 45-25	8226-8227	.	_
 
+Text=This approach has been used to successfully achieve and maintain target BrACs, as verified by blood alcohol concentrations measured in samples drawn during the scan in other neuroimaging studies.
 46-1	8228-8232	This	_
 46-2	8233-8241	approach	_
 46-3	8242-8245	has	_
@@ -1438,6 +1484,7 @@
 46-30	8416-8423	studies	_
 46-31	8424-8425	.	_
 
+Text=After the end of the infusion, subjects were provided a meal, and BrAC was tracked until it dropped to 0.02 g/dL or below, at which time subjects were taken home by a designated driver or taxi.
 47-1	8426-8431	After	_
 47-2	8432-8435	the	_
 47-3	8436-8439	end	_
@@ -1479,6 +1526,7 @@
 47-39	8617-8621	taxi	_
 47-40	8622-8623	.	_
 
+Text=Neuroimaging acquisition and preprocessing During session 2, after the IV catheters were placed for alcohol infusion, participants were placed in a 3T SIEMENS Skyra MR scanner at the NMR Research Center at the NIH.
 48-1	8624-8636	Neuroimaging	_
 48-2	8637-8648	acquisition	_
 48-3	8649-8652	and	_
@@ -1517,6 +1565,7 @@
 48-36	8836-8839	NIH	_
 48-37	8840-8841	.	_
 
+Text=Before starting the IV infusion of alcohol, a 5-min closed eyes resting-state fMRI scan was acquired with an echo-planar imaging sequence (36 axial slices, 3.8 mm thickness, 64 × 64 matrix and repetition time of 2000 ms, echo time 30, flip angle 90).
 49-1	8842-8848	Before	_
 49-2	8849-8857	starting	_
 49-3	8858-8861	the	_
@@ -1569,6 +1618,7 @@
 49-50	9097-9098	)	_
 49-51	9099-9100	.	_
 
+Text=After collecting this baseline resting-state fMRI scan, the alcohol infusion started and once the target BAC was achieved, a 10-minute waiting period was allowed to ensure the BAC was stable at the 0.08 g/dl level.
 50-1	9101-9106	After	_
 50-2	9107-9117	collecting	_
 50-3	9118-9122	this	_
@@ -1608,6 +1658,7 @@
 50-37	9311-9316	level	_
 50-38	9317-9318	.	_
 
+Text=During the waiting period, whole-brain structural and diffusion-weighted images of the brain were collected.
 51-1	9319-9325	During	_
 51-2	9326-9329	the	_
 51-3	9330-9337	waiting	_
@@ -1625,6 +1676,7 @@
 51-15	9418-9427	collected	_
 51-16	9428-9429	.	_
 
+Text=Then, a second eyes-closed resting-state fMRI scan was collected while the target BAC (0.08 g/dl) was maintained.
 52-1	9430-9434	Then	_
 52-2	9435-9436	,	_
 52-3	9437-9438	a	_
@@ -1647,6 +1699,7 @@
 52-20	9535-9545	maintained	_
 52-21	9546-9547	.	_
 
+Text=Following the MRI session, the Drug Effects Questionnaire was used to evaluate and quantify subjective effects of alcohol (DEQ).
 53-1	9548-9557	Following	_
 53-2	9558-9561	the	_
 53-3	9562-9565	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
@@ -1671,6 +1724,7 @@
 53-22	9677-9678	)	_
 53-23	9679-9680	.	_
 
+Text=CONN ver.17f (http: //www.conn-toolbox.org), a MATLAB/SPM-based (www.fil.ion.ucl.ac.uk/spm/) software, was used to conduct spatial/temporal preprocessing and analyses.
 54-1	9681-9685	CONN	_
 54-2	9686-9693	ver.17f	_
 54-3	9694-9695	(	_
@@ -1696,6 +1750,7 @@
 54-23	9846-9854	analyses	_
 54-24	9855-9856	.	_
 
+Text=Spatial preprocessing included slice-timing correction, realignment, co-registration, normalization, and spatial smoothing (8 mm).
 55-1	9857-9864	Spatial	_
 55-2	9865-9878	preprocessing	_
 55-3	9879-9887	included	_
@@ -1717,6 +1772,7 @@
 55-19	9991-9992	)	_
 55-20	9993-9994	.	_
 
+Text=Using the default settings in CONN, images were resliced into isotropic 2mm voxels.
 56-1	9995-10000	Using	_
 56-2	10001-10004	the	_
 56-3	10005-10012	default	_
@@ -1733,6 +1789,7 @@
 56-14	10072-10078	voxels	_
 56-15	10079-10080	.	_
 
+Text=Anatomical volumes were segmented into grey matter, white matter, and cerebrospinal fluid (CSF) areas and the resulting masks were eroded to minimize partial volume effects.
 57-1	10081-10091	Anatomical	_
 57-2	10092-10099	volumes	_
 57-3	10100-10104	were	_
@@ -1764,6 +1821,7 @@
 57-29	10250-10257	effects	_
 57-30	10258-10259	.	_
 
+Text=At the individual level, the temporal timeseries of the participant-specific six rotation-translation motion parameters and the timeseries from within the white matter/CSF masks were used as temporal covariates, and removed from the blood oxygen level-dependent (BOLD) functional data using linear regression.
 58-1	10260-10262	At	_
 58-2	10263-10266	the	_
 58-3	10267-10277	individual	_
@@ -1811,6 +1869,7 @@
 58-45	10562-10572	regression	_
 58-46	10573-10574	.	_
 
+Text=The resulting residual BOLD timeseries were band-pass filtered (0.008Hz <f <0.15Hz).
 59-1	10575-10578	The	_
 59-2	10579-10588	resulting	_
 59-3	10589-10597	residual	_
@@ -1828,6 +1887,7 @@
 59-15	10661-10662	)	_
 59-16	10663-10664	.	_
 
+Text=Neuroimaging analysis To our knowledge there is no reported sub-division of human GPe with concrete landmark definition and/or Talairach coordinate demarcation.
 60-1	10665-10677	Neuroimaging	_
 60-2	10678-10686	analysis	_
 60-3	10687-10689	To	_
@@ -1851,6 +1911,7 @@
 60-21	10813-10824	demarcation	_
 60-22	10825-10826	.	_
 
+Text=Therefore, for these analyses, we used right and left GPe masks obtained from the Lead-DBS toolbox (http: //www.lead-dbs.org/).
 61-1	10827-10836	Therefore	_
 61-2	10837-10838	,	_
 61-3	10839-10842	for	_
@@ -1876,6 +1937,7 @@
 61-23	10957-10958	)	_
 61-24	10959-10960	.	_
 
+Text=These anatomical masks were generated using manual tracing of several structural MRIs and subsequent co-registration with histological studies, and have a combined volume of approximately 929 mm3.
 62-1	10961-10966	These	_
 62-2	10967-10977	anatomical	_
 62-3	10978-10983	masks	_
@@ -1906,6 +1968,7 @@
 62-28	11154-11157	mm3	_
 62-29	11158-11159	.	_
 
+Text=Seed-based correlations were calculated as Fisher-transformed bivariate correlation coefficients between the BOLD activity timeseries in the seed ROI and each other individual voxel BOLD.
 63-1	11160-11170	Seed-based	_
 63-2	11171-11183	correlations	_
 63-3	11184-11188	were	_
@@ -1932,6 +1995,7 @@
 63-24	11342-11346	BOLD	_
 63-25	11347-11348	.	_
 
+Text=CSF, grey matter, white matter signals and motion were included as covariates for this model at the single subject level.
 64-1	11349-11352	CSF	_
 64-2	11353-11354	,	_
 64-3	11355-11359	grey	_
@@ -1956,6 +2020,7 @@
 64-22	11466-11471	level	_
 64-23	11472-11473	.	_
 
+Text=These correlations were calculated separately for the pre-infusion and post-infusion scans and for right and left GPe seeds.
 65-1	11474-11479	These	_
 65-2	11480-11492	correlations	_
 65-3	11493-11497	were	_
@@ -1976,6 +2041,7 @@
 65-18	11592-11597	seeds	_
 65-19	11598-11599	.	_
 
+Text=For each of the pre- and post-infusion analyses, 150 time points (across 300 seconds) were used.
 66-1	11600-11603	For	_
 66-2	11604-11608	each	_
 66-3	11609-11611	of	_
@@ -1997,6 +2063,7 @@
 66-19	11694-11698	used	_
 66-20	11699-11700	.	_
 
+Text=To examine group level effects, the resulting single-subject connectivity maps were used as input for second level analyses in a general linear model.
 67-1	11701-11703	To	_
 67-2	11704-11711	examine	_
 67-3	11712-11717	group	_
@@ -2023,6 +2090,7 @@
 67-24	11846-11851	model	_
 67-25	11852-11853	.	_
 
+Text=We modeled the within-subject effect of timepoint (i.e., post- versus pre-alcohol infusion; see S1 File, S1 Fig and S1 Table for report of the main effects of alcohol administration) and between-subject effects of impulsivity (BIS-11, UPPS-P, and DDT) and recent drinking behaviors (number of drinks in the last 30 days, number of heavy drinking days).
 68-1	11854-11856	We	_
 68-2	11857-11864	modeled	_
 68-3	11865-11868	the	_
@@ -2092,6 +2160,7 @@
 68-67	12216-12217	)	_
 68-68	12218-12219	.	_
 
+Text=S1 Table indicates clusters identified as showing significant changes from pre to post alcohol infusion, as well as associated statistics.
 69-1	12220-12222	S1	_
 69-2	12223-12228	Table	_
 69-3	12229-12238	indicates	_
@@ -2115,6 +2184,7 @@
 69-21	12348-12358	statistics	_
 69-22	12359-12360	.	_
 
+Text=For the seed-to-voxel analysis, reported clusters survived a height threshold of uncorrected p <0.001 with a cluster level extent threshold of FDR-corrected p <0.05.
 70-1	12361-12364	For	_
 70-2	12365-12368	the	_
 70-3	12369-12382	seed-to-voxel	_
@@ -2144,6 +2214,7 @@
 70-27	12524-12528	0.05	_
 70-28	12529-12530	.	_
 
+Text=In Figs 3–5, these clusters are shown overlaid on structural brain cutaways.
 71-1	12531-12533	In	_
 71-2	12534-12538	Figs	_
 71-3	12539-12542	3–5	_
@@ -2159,6 +2230,7 @@
 71-13	12599-12607	cutaways	_
 71-14	12608-12609	.	_
 
+Text=Corresponding line plots are only for visual interpretation of these effects.
 72-1	12610-12623	Corresponding	_
 72-2	12624-12628	line	_
 72-3	12629-12634	plots	_
@@ -2172,6 +2244,7 @@
 72-11	12679-12686	effects	_
 72-12	12687-12688	.	_
 
+Text=We also examined sex effects on alcohol-related changes in GPe connectivity at the whole brain level; there were no significant differences between males and females.
 73-1	12689-12691	We	_
 73-2	12692-12696	also	_
 73-3	12697-12705	examined	_
@@ -2200,6 +2273,7 @@
 73-26	12848-12855	females	_
 73-27	12856-12857	.	_
 
+Text=In order to test our hypothesis that the interaction between recent drinking behaviors and impulsivity would contribute to alcohol-induced changes in GPe functional connectivity, we extracted ROI-to-voxel correlation values between the seeds and significant clusters and used those values to conduct multiple regression analysis in R/RStudio (version 3.4.2/1.1.383).
 74-1	12858-12860	In	_
 74-2	12861-12866	order	_
 74-3	12867-12869	to	_
@@ -2253,6 +2327,7 @@
 74-51	13225-13226	)	_
 74-52	13227-13228	.	_
 
+Text=We modeled drinking history, impulsivity, and the interaction between the two as independent variables on the dependent variable of change in GPe connectivity.
 75-1	13229-13231	We	_
 75-2	13232-13239	modeled	_
 75-3	13240-13248	drinking	_
@@ -2280,6 +2355,7 @@
 75-25	13377-13389	connectivity	_
 75-26	13390-13391	.	_
 
+Text=We conducted these analyses only for significant clusters identified in the seed-to-voxel analysis, and only for the significant drinking and impulsivity measures.
 76-1	13392-13394	We	_
 76-2	13395-13404	conducted	_
 76-3	13405-13410	these	_
@@ -2305,6 +2381,7 @@
 76-23	13547-13555	measures	_
 76-24	13556-13557	.	_
 
+Text=For the drinking measures identified in that seed-to-voxel analysis, models (for the specific significant cluster only) included the significant drinking variable as well as one of the two significant impulsivity variables; thus, 2 regressions per cluster were run.
 77-1	13558-13561	For	_
 77-2	13562-13565	the	_
 77-3	13566-13574	drinking	_
@@ -2350,6 +2427,7 @@
 77-43	13824-13827	run	_
 77-44	13828-13829	.	_
 
+Text=Similarly, for significant impulsivity measures, 2 regressions per cluster were run (as there are two drinking variables).
 78-1	13830-13839	Similarly	_
 78-2	13840-13841	,	_
 78-3	13842-13845	for	_
@@ -2373,6 +2451,7 @@
 78-21	13954-13955	)	_
 78-22	13956-13957	.	_
 
+Text=This resulted in a total of 20 tests.
 79-1	13958-13962	This	_
 79-2	13963-13971	resulted	_
 79-3	13972-13974	in	_
@@ -2383,6 +2462,7 @@
 79-8	13989-13994	tests	_
 79-9	13995-13996	.	_
 
+Text=We then adjusted the omnibus test statistics to correct for multiple comparisons using FDR of <0.05.
 80-1	13997-13999	We	_
 80-2	14000-14004	then	_
 80-3	14005-14013	adjusted	_
@@ -2402,6 +2482,7 @@
 80-17	14093-14097	0.05	_
 80-18	14098-14099	.	_
 
+Text=Of those regressions, only those with significant interaction effects are reported.
 81-1	14100-14102	Of	_
 81-2	14103-14108	those	_
 81-3	14109-14120	regressions	_

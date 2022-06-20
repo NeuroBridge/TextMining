@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Altered anterior cingulate cortex to hippocampus effective connectivity in response to drug cues in men with cocaine use disorder Drug-related attentional bias may have significant implications for the treatment of cocaine use disorder (CocUD).
 1-1	0-7	Altered	_
 1-2	8-16	anterior	_
 1-3	17-26	cingulate	_
@@ -40,6 +41,7 @@
 1-36	244-245	)	http://maven.renci.org/NeuroBridge/neurobridge#CognitiveDisorder
 1-37	246-247	.	_
 
+Text=However, the neurobiology of attentional bias is not completely understood.
 2-1	248-255	However	_
 2-2	256-257	,	_
 2-3	258-261	the	_
@@ -53,6 +55,7 @@
 2-11	313-323	understood	_
 2-12	324-325	.	_
 
+Text=This study employed dynamic causal modeling (DCM) to conduct an analysis of effective (directional) connectivity involved in drug-related attentional bias in treatment-seeking CocUD subjects.
 3-1	326-330	This	_
 3-2	331-336	study	_
 3-3	337-345	employed	_
@@ -83,6 +86,7 @@
 3-28	512-520	subjects	_
 3-29	521-522	.	_
 
+Text=The DCM analysis was conducted based on functional magnetic resonance imaging (fMRI) data acquired from fifteen CocUD subjects while performing a cocaine-word Stroop task, during which blocks of Cocaine Words (CW) and Neutral Words (NW) alternated.
 4-1	523-526	The	_
 4-2	527-530	DCM	_
 4-3	531-539	analysis	_
@@ -128,6 +132,7 @@
 4-43	767-777	alternated	_
 4-44	778-779	.	_
 
+Text=There was no significant attentional bias at group level.
 5-1	780-785	There	_
 5-2	786-789	was	_
 5-3	790-792	no	_
@@ -139,6 +144,7 @@
 5-9	831-836	level	_
 5-10	837-838	.	_
 
+Text=Although no significant brain activation was found, the DCM analysis found that, relative to the NW, the CW caused a significant increase in the strength of the right (R) anterior cingulate cortex (ACC) to R hippocampus effective connectivity.
 6-1	839-847	Although	_
 6-2	848-850	no	_
 6-3	851-862	significant	_
@@ -186,6 +192,7 @@
 6-45	1076-1088	connectivity	_
 6-46	1089-1090	.	_
 
+Text=Greater increase of this connectivity was associated with greater CW reaction time (relative to NW reaction time).
 7-1	1091-1098	Greater	_
 7-2	1099-1107	increase	_
 7-3	1108-1110	of	_
@@ -207,6 +214,7 @@
 7-19	1205-1206	)	_
 7-20	1207-1208	.	_
 
+Text=The increased strength of R ACC to R hippocampus connectivity may reflect ACC activation of hippocampal memories related to drug use, which was triggered by the drug cues.
 8-1	1209-1212	The	_
 8-2	1213-1222	increased	_
 8-3	1223-1231	strength	_
@@ -238,6 +246,7 @@
 8-29	1376-1380	cues	_
 8-30	1381-1382	.	_
 
+Text=This circuit could be a potential target for therapeutics in CocUD patients.
 9-1	1383-1387	This	_
 9-2	1388-1395	circuit	_
 9-3	1396-1401	could	_
@@ -252,6 +261,7 @@
 9-12	1450-1458	patients	_
 9-13	1459-1460	.	_
 
+Text=No significant change was found in the other modeled connectivities.
 10-1	1461-1463	No	_
 10-2	1464-1475	significant	_
 10-3	1476-1482	change	_
@@ -264,9 +274,11 @@
 10-10	1514-1528	connectivities	_
 10-11	1529-1530	.	_
 
+Text=2.
 11-1	1531-1532	2	_
 11-2	1533-1534	.	_
 
+Text=METHODS 2.1 Subjects The study was officially approved by the local Institutional Review Board, and was performed in accordance with the Code of Ethics of the World Medical Association (Declaration of Helsinki).
 12-1	1535-1542	METHODS	http://maven.renci.org/NeuroBridge/neurobridge#DataCollectionMethod
 12-2	1543-1546	2.1	_
 12-3	1547-1555	Subjects	_
@@ -304,6 +316,7 @@
 12-35	1747-1748	)	_
 12-36	1749-1750	.	_
 
+Text=Informed consent was obtained from each subject.
 13-1	1751-1759	Informed	_
 13-2	1760-1767	consent	_
 13-3	1768-1771	was	_
@@ -313,6 +326,7 @@
 13-7	1791-1798	subject	_
 13-8	1799-1800	.	_
 
+Text=The CocUD subjects were from a treatment study, in which the majority of the participants were male.
 14-1	1801-1804	The	_
 14-2	1805-1810	CocUD	http://maven.renci.org/NeuroBridge/neurobridge#CocaineAbuse
 14-3	1811-1819	subjects	_
@@ -333,6 +347,7 @@
 14-18	1897-1901	male	_
 14-19	1902-1903	.	_
 
+Text=All MRI scans took place prior to the initiation of medication treatment.
 15-1	1904-1907	All	_
 15-2	1908-1911	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 15-3	1912-1917	scans	_
@@ -347,6 +362,7 @@
 15-12	1967-1976	treatment	_
 15-13	1977-1978	.	_
 
+Text=All subjects were screened using the Structured Clinical Interview for DSM-IV (SCID) and underwent physical examination and medical history.
 16-1	1979-1982	All	_
 16-2	1983-1991	subjects	_
 16-3	1992-1996	were	_
@@ -370,6 +386,7 @@
 16-21	2113-2120	history	_
 16-22	2121-2122	.	_
 
+Text=The Addiction Severity Index was obtained to document lifetime drug and alcohol use.
 17-1	2123-2126	The	_
 17-2	2127-2136	Addiction	_
 17-3	2137-2145	Severity	_
@@ -385,6 +402,7 @@
 17-13	2203-2206	use	_
 17-14	2207-2208	.	_
 
+Text=Female subjects were screened with a urine pregnancy test immediately prior to MRI scanning.
 18-1	2209-2215	Female	_
 18-2	2216-2224	subjects	_
 18-3	2225-2229	were	_
@@ -401,6 +419,7 @@
 18-14	2292-2300	scanning	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 18-15	2301-2302	.	_
 
+Text=Each subject ’ s urine was screened for tetrahydrocannabinol (THC), opiates, cocaine, amphetamines, and benzodiazepines (Syva Company, Deerfield, IL), and each subject was screened for alcohol with an Intoximeter Alco-Sensor III breathalyzer (Intoximeters, Inc., St. Louis, MO) immediately prior to MRI scanning.
 19-1	2303-2307	Each	_
 19-2	2308-2315	subject	_
 19-3	2316-2317	’	_
@@ -461,6 +480,7 @@
 19-58	2622-2630	scanning	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 19-59	2631-2632	.	_
 
+Text=Subject inclusion criteria were: (1) 18–55 years old; (2) right-handed; (3) free of alcohol at the time of MRI scanning; (4) met Diagnostic and Statistical Manual Fourth Edition (DSM-IV) criteria for current cocaine dependence based on the Structured Clinical Interview for DSM-IV.
 20-1	2633-2640	Subject	_
 20-2	2641-2650	inclusion	_
 20-3	2651-2659	criteria	_
@@ -519,6 +539,7 @@
 20-56	2921-2927	DSM-IV	_
 20-57	2928-2929	.	_
 
+Text=Exclusion criteria were: (1) subjects who met current or past DSM-IV Axis I disorder other than substance abuse or substance dependence; (2) medical disorders or taking medication that may affect the central nervous system; (3) claustrophobia experienced during MRI or MRI simulator sessions; (4) any definite or suspected clinically significant abnormalities of the brain on Fluid Attenuated Inversion Recovery (FLAIR) MRI scans; (5) positive pregnancy test result.
 21-1	2930-2939	Exclusion	_
 21-2	2940-2948	criteria	_
 21-3	2949-2953	were	_
@@ -605,6 +626,7 @@
 21-84	3406-3412	result	_
 21-85	3413-3414	.	_
 
+Text=Based on above criteria, fifteen CocUD subjects, among the 26 CocUD subjects who were scanned, were included for final analysis.
 22-1	3415-3420	Based	_
 22-2	3421-3423	on	_
 22-3	3424-3429	above	_
@@ -630,6 +652,7 @@
 22-23	3537-3545	analysis	_
 22-24	3546-3547	.	_
 
+Text=See Table 1 for the demographics and drug-use information of these subjects.
 23-1	3548-3551	See	_
 23-2	3552-3557	Table	_
 23-3	3558-3559	1	_
@@ -644,6 +667,7 @@
 23-12	3615-3623	subjects	_
 23-13	3624-3625	.	_
 
+Text=This is a free-standing study; all the CocUD subjects (n=26) who were scanned were considered.
 24-1	3626-3630	This	_
 24-2	3631-3633	is	_
 24-3	3634-3635	a	_
@@ -664,6 +688,7 @@
 24-18	3712-3722	considered	_
 24-19	3723-3724	.	_
 
+Text=Eleven CocUD subjects were excuded because of either missing behavioral performance data (n=1); excessive head motion during the fMRI scan (n=2); clinically significant abnormal results on FLAIR scan of the brain (n=4); subject ’ s request to terminate the scanning (n=2); or current alcohol dependence (n=2).
 25-1	3725-3731	Eleven	_
 25-2	3732-3737	CocUD	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 25-3	3738-3746	subjects	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
@@ -726,6 +751,7 @@
 25-60	4046-4047	)	_
 25-61	4048-4049	.	_
 
+Text=The majority of the participants were male.
 26-1	4050-4053	The	_
 26-2	4054-4062	majority	_
 26-3	4063-4065	of	_
@@ -735,6 +761,7 @@
 26-7	4088-4092	male	_
 26-8	4093-4094	.	_
 
+Text=The one female subject who was scanned was excluded because of excessive head motion.
 27-1	4095-4098	The	_
 27-2	4099-4102	one	_
 27-3	4103-4109	female	_
@@ -751,6 +778,7 @@
 27-14	4173-4179	motion	_
 27-15	4180-4181	.	_
 
+Text=2.2 Cocaine-word Stroop fMRI Task The subject was presented with ten cocaine words (CW) and ten neutral words (NW), one word at a time.
 28-1	4182-4185	2.2	_
 28-2	4186-4198	Cocaine-word	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 28-3	4199-4205	Stroop	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -782,6 +810,7 @@
 28-29	4317-4321	time	_
 28-30	4322-4323	.	_
 
+Text=The CW and NW were matched in letter length.
 29-1	4324-4327	The	_
 29-2	4328-4330	CW	_
 29-3	4331-4334	and	_
@@ -793,6 +822,7 @@
 29-9	4361-4367	length	_
 29-10	4368-4369	.	_
 
+Text=Both CW (e.g., “ cocaine ”, “ crack ”) and NW (e.g., “ kitchen ”, “ table ”) were frequently used words in the English language.
 30-1	4370-4374	Both	_
 30-2	4375-4377	CW	_
 30-3	4378-4379	(	_
@@ -829,6 +859,7 @@
 30-34	4497-4505	language	_
 30-35	4506-4507	.	_
 
+Text=Each word when presented was randomly printed in one of three different colors (blue, green, or red).
 31-1	4508-4512	Each	_
 31-2	4513-4517	word	_
 31-3	4518-4522	when	_
@@ -852,6 +883,7 @@
 31-21	4611-4612	)	_
 31-22	4613-4614	.	_
 
+Text=The subject was instructed to ignore the meaning of the word and to press the appropriate button to denote the color in which the word was printed.
 32-1	4615-4618	The	_
 32-2	4619-4626	subject	_
 32-3	4627-4630	was	_
@@ -881,6 +913,7 @@
 32-27	4754-4761	printed	_
 32-28	4762-4763	.	_
 
+Text=Each word was shown for a maximum duration of 1800 ms (if no response), but the display of the word was terminated by a response, after which a blank screen was shown for the remainder of the trial up to 1900 ms.
 33-1	4764-4768	Each	_
 33-2	4769-4773	word	_
 33-3	4774-4777	was	_
@@ -929,6 +962,7 @@
 33-46	4977-4979	ms	_
 33-47	4980-4981	.	_
 
+Text=The next trial immediately began with the presentation of the next word.
 34-1	4982-4985	The	_
 34-2	4986-4990	next	_
 34-3	4991-4996	trial	_
@@ -943,6 +977,7 @@
 34-12	5049-5053	word	_
 34-13	5054-5055	.	_
 
+Text=Four CW blocks and four NW blocks alternated with a 12 s pause between blocks.
 35-1	5056-5060	Four	_
 35-2	5061-5063	CW	_
 35-3	5064-5070	blocks	_
@@ -960,6 +995,7 @@
 35-15	5127-5133	blocks	_
 35-16	5134-5135	.	_
 
+Text=Within each block (58 s per block), thirty words were presented.
 36-1	5136-5142	Within	_
 36-2	5143-5147	each	_
 36-3	5148-5153	block	_
@@ -976,6 +1012,7 @@
 36-14	5193-5202	presented	_
 36-15	5203-5204	.	_
 
+Text=The effect of drug cues on the reaction times (ΔRT) was measured by the mean reaction time during all the CW blocks minus that during all of the NW blocks, i.e., ΔRT = RT (CW) minus RT (NW).
 37-1	5205-5208	The	_
 37-2	5209-5215	effect	_
 37-3	5216-5218	of	_
@@ -1024,6 +1061,7 @@
 37-46	5401-5402	)	_
 37-47	5403-5404	.	_
 
+Text=Only the correct-response trials were included when calculating the mean reaction times.
 38-1	5405-5409	Only	_
 38-2	5410-5413	the	_
 38-3	5414-5430	correct-response	_
@@ -1038,6 +1076,7 @@
 38-12	5487-5492	times	_
 38-13	5493-5494	.	_
 
+Text=ΔRT was treated as a measure of attentional bias at the behavioral level in the present study.
 39-1	5495-5498	ΔRT	_
 39-2	5499-5502	was	_
 39-3	5503-5510	treated	_
@@ -1057,6 +1096,7 @@
 39-17	5583-5588	study	_
 39-18	5589-5590	.	_
 
+Text=2.3 fMRI Data Acquisition MRI data were acquired on a Philips 3.0 T Intera system with an eight channel receive head coil (Philips Medical Systems, Best, Netherlands).
 40-1	5591-5594	2.3	_
 40-2	5595-5599	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 40-3	5600-5604	Data	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
@@ -1090,6 +1130,7 @@
 40-31	5760-5761	)	_
 40-32	5762-5763	.	_
 
+Text=Single shot spin echo echoplanar imaging (EPI) was used for acquiring fMRI data.
 41-1	5764-5770	Single	_
 41-2	5771-5775	shot	_
 41-3	5776-5780	spin	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
@@ -1107,6 +1148,7 @@
 41-15	5841-5845	data	_
 41-16	5846-5847	.	_
 
+Text=The fMRI acquisition parameters were: SENSE acceleration factor 2.0, repetition time 2500 ms, echo time 75 ms, flip angle 90 degrees, field of view 240 mm × 240 mm, in-plane resolution 3.75 mm × 3.75 mm, 25 axial slices, slice thickness 3.75 mm, interslice gap 1.25 mm, 224 repetitions per run after 10 dummy acquisitions, total duration per run was 10 min 40 s. 2.4 fMRI Preprocessing During an fMRI run, individual scans in which the fMRI signal exceeded plus or minus four standard deviations from the mean were considered to be outliers and were replaced by the mean of the two nearest neighbors using the Analysis of Functional NeuroImages (AFNI) software command “ 3dDespike ” (http: //afni.nimh.nih.gov/afni/).
 42-1	5848-5851	The	_
 42-2	5852-5856	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 42-3	5857-5868	acquisition	_
@@ -1244,6 +1286,7 @@
 42-135	6580-6581	)	_
 42-136	6582-6583	.	_
 
+Text=All subsequent preprocessing used Statistical Parametric Mapping 12 (SPM12) software (http: //www.fil.ion.ucl.ac.uk/spm/) implemented in Matlab R2007b (Mathworks Inc. Sherborn MA, USA).
 43-1	6584-6587	All	_
 43-2	6588-6598	subsequent	_
 43-3	6599-6612	preprocessing	_
@@ -1275,6 +1318,7 @@
 43-29	6775-6776	)	_
 43-30	6777-6778	.	_
 
+Text=After slice timing correction, the fMRI series was realigned to the first image to correct for head motion.
 44-1	6779-6784	After	_
 44-2	6785-6790	slice	_
 44-3	6791-6797	timing	_
@@ -1296,6 +1340,7 @@
 44-19	6880-6886	motion	_
 44-20	6887-6888	.	_
 
+Text=Runs with head motion greater than 1 voxel (3.75 mm translation on any axis) or rotation greater than 3.75 degrees were removed from the analysis.
 45-1	6889-6893	Runs	_
 45-2	6894-6898	with	_
 45-3	6899-6903	head	_
@@ -1325,6 +1370,7 @@
 45-27	7028-7036	analysis	_
 45-28	7037-7038	.	_
 
+Text=The anatomical image was coregistered to the fMRI images and spatially transformed to Montreal Neurological Institute (MNI) standard atlas coordinates using the SPM12 Normalise module with the SPM12 T1 MNI template image.
 46-1	7039-7042	The	_
 46-2	7043-7053	anatomical	_
 46-3	7054-7059	image	_
@@ -1361,6 +1407,7 @@
 46-34	7256-7261	image	_
 46-35	7262-7263	.	_
 
+Text=The transformation parameters were applied to the fMRI images, which were resliced to 2 mm isotropic resolution and spatially smoothed with a Gaussian filter of 8 mm isotropic full width at half maximum.
 47-1	7264-7267	The	_
 47-2	7268-7282	transformation	_
 47-3	7283-7293	parameters	_
@@ -1397,6 +1444,7 @@
 47-34	7460-7467	maximum	_
 47-35	7468-7469	.	_
 
+Text=2.5 SPM univariate analysis First level univariate statistical analysis of the fMRI data was conducted using SPM12.
 48-1	7470-7473	2.5	_
 48-2	7474-7477	SPM	_
 48-3	7478-7488	univariate	_
@@ -1416,6 +1464,7 @@
 48-17	7579-7584	SPM12	_
 48-18	7585-7586	.	_
 
+Text=CW and NW blocks (conditions) were modeled by boxcar functions convolved with the SPM12 canonical hemodynamic response function.
 49-1	7587-7589	CW	_
 49-2	7590-7593	and	_
 49-3	7594-7596	NW	_
@@ -1438,6 +1487,7 @@
 49-20	7708-7716	function	_
 49-21	7717-7718	.	_
 
+Text=The parameters for each condition were estimated using the General Linear Model at each voxel without global normalization.
 50-1	7719-7722	The	_
 50-2	7723-7733	parameters	_
 50-3	7734-7737	for	_
@@ -1458,6 +1508,7 @@
 50-18	7828-7841	normalization	_
 50-19	7842-7843	.	_
 
+Text=The fMRI time series was high-pass filtered with an optimized cut-off period of 188 s determined by the Fourier transformation of each condition ’ s time model.
 51-1	7844-7847	The	_
 51-2	7848-7852	fMRI	_
 51-3	7853-7857	time	_
@@ -1487,6 +1538,7 @@
 51-27	7998-8003	model	_
 51-28	8004-8005	.	_
 
+Text=Attentional bias activation was defined as the contrast at each voxel of the parameter estimate for CW blocks minus the parameter estimate for NW blocks (CW minus NW contrast).
 52-1	8006-8017	Attentional	_
 52-2	8018-8022	bias	_
 52-3	8023-8033	activation	_
@@ -1520,6 +1572,7 @@
 52-31	8182-8183	)	_
 52-32	8184-8185	.	_
 
+Text=The resulting set of voxel values for this contrast constitutes a statistical parametric map for that contrast.
 53-1	8186-8189	The	_
 53-2	8190-8199	resulting	_
 53-3	8200-8203	set	_
@@ -1539,6 +1592,7 @@
 53-17	8288-8296	contrast	_
 53-18	8297-8298	.	_
 
+Text=The CW minus NW contrast image (one per subject) was then entered at the SPM12 second level (i.e., random effects) group analysis.
 54-1	8299-8302	The	_
 54-2	8303-8305	CW	_
 54-3	8306-8311	minus	_
@@ -1568,6 +1622,7 @@
 54-27	8425-8433	analysis	_
 54-28	8434-8435	.	_
 
+Text=To determine the group level blood-oxygen-level dependent (BOLD) activation, a SPM12 second level Random Effects one-sample t-test was conducted voxel-wise throughout the whole brain for the contrast image (CW minus NW).
 55-1	8436-8438	To	_
 55-2	8439-8448	determine	_
 55-3	8449-8452	the	_
@@ -1606,6 +1661,7 @@
 55-36	8659-8660	)	_
 55-37	8661-8662	.	_
 
+Text=Statistical significance was defined as family-wise error (FWE) corrected cluster probability (p) less than 0.05 (two tail).
 56-1	8663-8674	Statistical	_
 56-2	8675-8687	significance	_
 56-3	8688-8691	was	_
@@ -1631,6 +1687,7 @@
 56-23	8791-8792	)	_
 56-24	8793-8794	.	_
 
+Text=The brain activations found by this analysis were used for DCM nodes (regions of interest) selection, but the statistical significance was defined as uncorrected cluster p less than 0.05 (two tail).
 57-1	8795-8798	The	_
 57-2	8799-8804	brain	_
 57-3	8805-8816	activations	_
@@ -1669,6 +1726,7 @@
 57-36	8996-8997	)	_
 57-37	8998-8999	.	_
 
+Text=It is commonly accepted to use uncorrected cluster p less than 0.05 (two tail) for determining DCM nodes.
 58-1	9000-9002	It	_
 58-2	9003-9005	is	_
 58-3	9006-9014	commonly	_
@@ -1691,6 +1749,7 @@
 58-20	9101-9106	nodes	_
 58-21	9107-9108	.	_
 
+Text=For all SPM12 second level analyses, the cluster-defining threshold was t = 2.4.
 59-1	9109-9112	For	_
 59-2	9113-9116	all	_
 59-3	9117-9122	SPM12	_
@@ -1707,6 +1766,7 @@
 59-14	9186-9189	2.4	_
 59-15	9190-9191	.	_
 
+Text=Anatomical labels for regions of activation were determined using the Anatomical Automatic Labeling (AAL) toolbox.
 60-1	9192-9202	Anatomical	_
 60-2	9203-9209	labels	_
 60-3	9210-9213	for	_
@@ -1726,6 +1786,7 @@
 60-17	9300-9307	toolbox	_
 60-18	9308-9309	.	_
 
+Text=2.6 Dynamic causal modeling FMRI-based DCM is a biophysical model of the underlying neuronal connectivity and of how the neuronal connectivity generates the observed BOLD signal.
 61-1	9310-9313	2.6	_
 61-2	9314-9321	Dynamic	_
 61-3	9322-9328	causal	_
@@ -1754,6 +1815,7 @@
 61-26	9481-9487	signal	_
 61-27	9488-9489	.	_
 
+Text=DCM with stochastic option, as implemented in SPM12 (Revision 6906), was used for effective connectivity analysis.
 62-1	9490-9493	DCM	_
 62-2	9494-9498	with	_
 62-3	9499-9509	stochastic	_
@@ -1776,6 +1838,7 @@
 62-20	9599-9607	analysis	_
 62-21	9608-9609	.	_
 
+Text=DCM has been described elsewhere.
 63-1	9610-9613	DCM	_
 63-2	9614-9617	has	_
 63-3	9618-9622	been	_
@@ -1783,6 +1846,7 @@
 63-5	9633-9642	elsewhere	_
 63-6	9643-9644	.	_
 
+Text=In brief, the mathematical model of the underlying neuronal connectivity among an a priori selected set of brain regions is a system of bilinear differential state equations with coefficients specified by three matrices (A matrix, B matrix and C matrix).
 64-1	9645-9647	In	_
 64-2	9648-9653	brief	_
 64-3	9654-9655	,	_
@@ -1829,6 +1893,7 @@
 64-44	9901-9902	)	_
 64-45	9903-9904	.	_
 
+Text=In this model, the experimental conditions (i.e., CW and NW) can serve as inputs to the model as either driving inputs, or modulatory inputs, or both.
 65-1	9905-9907	In	_
 65-2	9908-9912	this	_
 65-3	9913-9918	model	_
@@ -1863,6 +1928,7 @@
 65-32	10056-10060	both	_
 65-33	10061-10062	.	_
 
+Text=The DCM analysis determines which particular nodes in the model exhibit effective connectivity with other specific nodes in the model, which nodes receive driving inputs from experimental conditions into the model, and which specific connectivities between nodes in the model are modulated (i.e., changed in connectivity strength, in units of Hz) under experimental conditions.
 66-1	10063-10066	The	_
 66-2	10067-10070	DCM	_
 66-3	10071-10079	analysis	_
@@ -1925,6 +1991,7 @@
 66-60	10435-10445	conditions	_
 66-61	10446-10447	.	_
 
+Text=A node (driving input location) in the model that receives driving inputs, as quantified by the C matrix parameters, is the brain region among the nodes in the model which first experiences a change in neuronal activity.
 67-1	10448-10449	A	_
 67-2	10450-10454	node	_
 67-3	10455-10456	(	_
@@ -1968,6 +2035,7 @@
 67-41	10663-10671	activity	_
 67-42	10672-10673	.	_
 
+Text=The node that receives the driving input then influences (“ drives ”) the connectivity to other nodes in the model.
 68-1	10674-10677	The	_
 68-2	10678-10682	node	_
 68-3	10683-10687	that	_
@@ -1992,6 +2060,7 @@
 68-22	10785-10790	model	_
 68-23	10791-10792	.	_
 
+Text=The endogenous (or fixed) connectivity in DCM is quantified by the A matrix parameters, which measure the effective connectivity strengths (in units of Hz) between nodes, regardless of the moment-to-moment switching on and off of inputs.
 69-1	10793-10796	The	_
 69-2	10797-10807	endogenous	_
 69-3	10808-10809	(	_
@@ -2036,6 +2105,7 @@
 69-42	11029-11035	inputs	_
 69-43	11036-11037	.	_
 
+Text=Experimental conditions (CW and NW) can modulate the endogenous connectivity among nodes.
 70-1	11038-11050	Experimental	_
 70-2	11051-11061	conditions	_
 70-3	11062-11063	(	_
@@ -2052,6 +2122,7 @@
 70-14	11123-11128	nodes	_
 70-15	11129-11130	.	_
 
+Text=These modulation effects are quantified by the B matrix parameters as increased or decreased connectivity strength compared to the endogenous connectivity at different times in the experiment that are related to the timing of changes in the particular experimental conditions.
 71-1	11131-11136	These	_
 71-2	11137-11147	modulation	_
 71-3	11148-11155	effects	_
@@ -2094,6 +2165,7 @@
 71-40	11396-11406	conditions	_
 71-41	11407-11408	.	_
 
+Text=2.6.1 DCM nodes DCM node selection criteria were: (1) the brain activations found in this study, (2) previous fMRI studies using cocaine stimulus Stroop tasks (e.g.,), and (3) theories about attentional bias (e.g.,).
 72-1	11409-11414	2.6.1	_
 72-2	11415-11418	DCM	_
 72-3	11419-11424	nodes	_
@@ -2144,6 +2216,7 @@
 72-48	11638-11639	)	_
 72-49	11640-11641	.	_
 
+Text=Based on meeting the combined presence of all of the above three criteria, the following five regions served as nodes for the DCM analysis: (1) left (L) anterior cingulate cortex (ACC) (x= −8, y=46, z= −4); (2) R ACC (x=10, y=26, z=24); (3) right (R) insula (x=42, y= −10, z= −6); (4) R hippocampus (x=36, y= −18, z= −14); and (5) L caudate (x= −18, y= −8, z=22).
 73-1	11642-11647	Based	_
 73-2	11648-11650	on	_
 73-3	11651-11658	meeting	_
@@ -2256,6 +2329,7 @@
 73-110	12045-12046	)	_
 73-111	12047-12048	.	_
 
+Text=The x, y, z values are the MNI coordinates of the center of each node, which were defined as a sphere with 5 mm radius and centered at local maximum of the regional fMRI activation corresponding to that node.
 74-1	12049-12052	The	_
 74-2	12053-12054	x	_
 74-3	12055-12056	,	_
@@ -2300,6 +2374,7 @@
 74-42	12255-12259	node	_
 74-43	12260-12261	.	_
 
+Text=For each node, the functional activation BOLD time-series, which was used for DCM analysis, was extracted using the methods described in.
 75-1	12262-12265	For	_
 75-2	12266-12270	each	_
 75-3	12271-12275	node	_
@@ -2326,6 +2401,7 @@
 75-24	12399-12401	in	_
 75-25	12402-12403	.	_
 
+Text=2.6.2 Driving input and modulatory input The CW and NW experimental conditions were not directly used as inputs.
 76-1	12404-12409	2.6.2	_
 76-2	12410-12417	Driving	_
 76-3	12418-12423	input	_
@@ -2346,6 +2422,7 @@
 76-18	12509-12515	inputs	_
 76-19	12516-12517	.	_
 
+Text=Following and, we created a parametric regressor for “ All Words ” contrast, and another parametric regressor for CW minus NW contrast.
 77-1	12518-12527	Following	_
 77-2	12528-12531	and	_
 77-3	12532-12533	,	_
@@ -2372,6 +2449,7 @@
 77-24	12646-12654	contrast	_
 77-25	12655-12656	.	_
 
+Text=The method of constructing these regressors can be found online (https: //github.com/HaukeHillebrandt/SPM_connectome).
 78-1	12657-12660	The	_
 78-2	12661-12667	method	_
 78-3	12668-12670	of	_
@@ -2389,6 +2467,7 @@
 78-15	12776-12777	)	_
 78-16	12778-12779	.	_
 
+Text=The “ All Words ” contrast, which reflects the common features of the CW and NW, was used as a single input to the DCM (driving input).
 79-1	12780-12783	The	_
 79-2	12784-12785	“	_
 79-3	12786-12789	All	_
@@ -2422,6 +2501,7 @@
 79-31	12917-12918	)	_
 79-32	12919-12920	.	_
 
+Text=The CW minus NW contrast, which reflects the special effect of CW over NW, was used as a putative modulator (modulatory input) of effective connectivity (the factor causing changes in the effective connectivities).
 80-1	12921-12924	The	_
 80-2	12925-12927	CW	_
 80-3	12928-12933	minus	_
@@ -2463,6 +2543,7 @@
 80-39	13139-13140	)	_
 80-40	13141-13142	.	_
 
+Text=In the present study, the changes of effective connectivities (relative to the endogenous connectivities) caused by the CW minus NW modulator are termed as modulatory changes.
 81-1	13143-13145	In	_
 81-2	13146-13149	the	_
 81-3	13150-13157	present	_
@@ -2494,6 +2575,7 @@
 81-29	13313-13320	changes	_
 81-30	13321-13322	.	_
 
+Text=By definition, a modulatory change reflects the change in an effective connectivity caused by the CW minus the change in this effective connectivity caused by the NW.
 82-1	13323-13325	By	_
 82-2	13326-13336	definition	_
 82-3	13337-13338	,	_
@@ -2524,6 +2606,7 @@
 82-28	13487-13489	NW	_
 82-29	13490-13491	.	_
 
+Text=Thus the effects of drug cues (CW) on the behavioral performance (reaction time), brain activation, and effective connectivity were all assessed relative to NW in the present study.
 83-1	13492-13496	Thus	_
 83-2	13497-13500	the	_
 83-3	13501-13508	effects	_
@@ -2560,6 +2643,7 @@
 83-34	13673-13678	study	_
 83-35	13679-13680	.	_
 
+Text=2.6.3 DCM inference Given the nodes of the model, a DCM post-hoc optimization analysis was used for model structure inference.
 84-1	13681-13686	2.6.3	_
 84-2	13687-13690	DCM	_
 84-3	13691-13700	inference	_
@@ -2583,6 +2667,7 @@
 84-21	13798-13807	inference	_
 84-22	13808-13809	.	_
 
+Text=Starting from a fully-connected model, the post hoc optimization analysis systematically searches for an optimal “ sparse ” model that determines which particular nodes exhibit effective connectivity with other nodes (i.e., endogenous connectivity), which nodes first experience a change in neuronal activity associated with the “ All Words ” input (i.e., driving input effects), and which effective connectivities showed modulatory changes associated with the CW minus NW modulator.
 85-1	13810-13818	Starting	_
 85-2	13819-13823	from	_
 85-3	13824-13825	a	_
@@ -2662,6 +2747,7 @@
 85-77	14292-14301	modulator	_
 85-78	14302-14303	.	_
 
+Text=Based on the results of the post hoc optimization analysis, a Bayesian model averaging (BMA) analysis was conducted for DCM parameter inference, with a model space consisting of the fully-connected model and the optimal sparse model.
 86-1	14304-14309	Based	_
 86-2	14310-14312	on	_
 86-3	14313-14316	the	_
@@ -2704,6 +2790,7 @@
 86-40	14535-14540	model	_
 86-41	14541-14542	.	_
 
+Text=BMA averages each DCM parameter across models (and across subjects) such that the contribution of each model (of each subject) for that parameter was weighted by the model ’ s posterior probability.
 87-1	14543-14546	BMA	_
 87-2	14547-14555	averages	_
 87-3	14556-14560	each	_

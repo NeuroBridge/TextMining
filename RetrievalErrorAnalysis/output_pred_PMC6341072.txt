@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Dysconnectivity of the medio-dorsal thalamic nucleus in drug-naïve first episode schizophrenia: diagnosis-specific or trans-diagnostic effect?
 1-1	0-15	Dysconnectivity	_
 1-2	16-18	of	_
 1-3	19-22	the	_
@@ -20,6 +21,7 @@
 1-16	136-142	effect	_
 1-17	143-144	?	_
 
+Text=Converging lines of evidence implicate the thalamocortical network in schizophrenia.
 2-1	145-155	Converging	_
 2-2	156-161	lines	_
 2-3	162-164	of	_
@@ -32,6 +34,7 @@
 2-10	215-228	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 2-11	229-230	.	_
 
+Text=In particular, the onset of the illness is associated with aberrant functional integration between the medio-dorsal thalamic nucleus (MDN) and widespread prefrontal, temporal and parietal cortical regions.
 3-1	231-233	In	_
 3-2	234-244	particular	_
 3-3	245-246	,	_
@@ -65,6 +68,7 @@
 3-31	432-439	regions	_
 3-32	440-441	.	_
 
+Text=Because the thalamus is also implicated in other psychiatric illnesses including post-traumatic stress disorder (PTSD) and major depressive disorder (MDD), the diagnostic specificity of these alterations is unclear.
 4-1	442-449	Because	_
 4-2	450-453	the	_
 4-3	454-462	thalamus	_
@@ -100,6 +104,7 @@
 4-33	654-661	unclear	_
 4-34	662-663	.	_
 
+Text=Here, we determined whether aberrant functional integration between the MDN and the cortex is a specific feature of schizophrenia or a trans-diagnostic feature of psychiatric illness.
 5-1	664-668	Here	_
 5-2	669-670	,	_
 5-3	671-673	we	_
@@ -129,6 +134,7 @@
 5-27	840-847	illness	_
 5-28	848-849	.	_
 
+Text=Effective connectivity (EC) between the MDN and rest of the cortex was measured by applying psychophysiological interaction analysis to resting-state functional magnetic resonance imaging data of 50 patients with first episode schizophrenia (FES), 50 patients with MDD, 50 patients with PTSD and 122 healthy controls.
 6-1	850-859	Effective	_
 6-2	860-872	connectivity	_
 6-3	873-874	(	_
@@ -182,12 +188,14 @@
 6-51	1164-1172	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 6-52	1173-1174	.	_
 
+Text=All participants were medication-naïve.
 7-1	1175-1178	All	_
 7-2	1179-1191	participants	_
 7-3	1192-1196	were	_
 7-4	1197-1213	medication-naïve	_
 7-5	1214-1215	.	_
 
+Text=The only significant schizophrenia-specific effect was increased EC between the right MDN and the right pallidum (p <0.05 corrected).
 8-1	1216-1219	The	_
 8-2	1220-1224	only	_
 8-3	1225-1236	significant	_
@@ -212,6 +220,7 @@
 8-22	1350-1351	)	_
 8-23	1352-1353	.	_
 
+Text=In contrast, there were a number of significant trans-diagnostic alterations, with both right and left MDN displaying trans-diagnostic increased EC with several prefrontal and parietal regions bilaterally (p <0.05 corrected).
 9-1	1354-1356	In	_
 9-2	1357-1365	contrast	_
 9-3	1366-1367	,	_
@@ -249,6 +258,7 @@
 9-35	1582-1583	)	_
 9-36	1584-1585	.	_
 
+Text=EC alterations between the MDN and the cortex are not specific to schizophrenia but are a trans-diagnostic feature of psychiatric disorders, consistent with emerging conceptualizations of mental illness based on a single general psychopathology factor.
 10-1	1586-1588	EC	_
 10-2	1589-1600	alterations	_
 10-3	1601-1608	between	_
@@ -287,6 +297,7 @@
 10-36	1832-1838	factor	_
 10-37	1839-1840	.	_
 
+Text=Therefore, dysconnectivity of the MDN could potentially be used to assess the presence of general psychopathology above and beyond traditional diagnostic boundaries.
 11-1	1841-1850	Therefore	_
 11-2	1851-1852	,	_
 11-3	1853-1868	dysconnectivity	_
@@ -312,6 +323,7 @@
 11-23	1996-2006	boundaries	_
 11-24	2007-2008	.	_
 
+Text=Materials and methods Participants The study was approved by the Medical Ethics Committee of West China Hospital of Sichuan University and all participants provided written informed consent.
 12-1	2009-2018	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	2019-2022	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	2023-2030	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -341,6 +353,7 @@
 12-27	2191-2198	consent	_
 12-28	2199-2200	.	_
 
+Text=Subsets of the data used here have been used in previous studies.
 13-1	2201-2208	Subsets	_
 13-2	2209-2211	of	_
 13-3	2212-2215	the	_
@@ -355,6 +368,7 @@
 13-12	2258-2265	studies	_
 13-13	2266-2267	.	_
 
+Text=While in a recent article we consider functional integration within and between three networks of interest (default mode, central exectutive, and salience), in the present investigation we focus on the EC between the MDN and the cortex.
 14-1	2268-2273	While	_
 14-2	2274-2276	in	_
 14-3	2277-2278	a	_
@@ -399,6 +413,7 @@
 14-42	2502-2508	cortex	_
 14-43	2509-2510	.	_
 
+Text=All patients were recruited as they presented to the West China Hospital of Sichuan University, and were came from the inner city of Chengdu with the exception of the PTSD group who tended to come from surrounding rural areas (see below) Exclusion criteria applicable to all participants included (i) history of drug or alcohol abuse, (ii) pregnancy and (iii) any physical illness such as hepatitis, cardiovascular disease, or neurological disorder, as assessed by interview and review of medical records.
 15-1	2511-2514	All	_
 15-2	2515-2523	patients	_
 15-3	2524-2528	were	_
@@ -493,6 +508,7 @@
 15-92	3021-3028	records	_
 15-93	3029-3030	.	_
 
+Text=Further information on each group are provided below.
 16-1	3031-3038	Further	_
 16-2	3039-3050	information	_
 16-3	3051-3053	on	_
@@ -503,6 +519,7 @@
 16-8	3078-3083	below	_
 16-9	3084-3085	.	_
 
+Text=First episode schizophrenia Fifty patients with FES were included (see Table 1).
 17-1	3086-3091	First	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
 17-2	3092-3099	episode	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
 17-3	3100-3113	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#FirstEpisodePsychosis
@@ -519,6 +536,7 @@
 17-14	3166-3167	)	_
 17-15	3168-3169	.	_
 
+Text=The presence of psychotic illness was determined by the consensus of two experienced psychiatrists using the Structured Interview for the DSM-IV Axis I Disorder, Patient Edition (SCID).
 18-1	3170-3173	The	_
 18-2	3174-3182	presence	_
 18-3	3183-3185	of	_
@@ -551,6 +569,7 @@
 18-30	3356-3357	)	_
 18-31	3358-3359	.	_
 
+Text=Psychopathology was measured on the day of scanning using the Positive and Negative Syndrome Scale (PANSS).
 19-1	3360-3375	Psychopathology	_
 19-2	3376-3379	was	_
 19-3	3380-3388	measured	_
@@ -571,6 +590,7 @@
 19-18	3467-3468	)	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 19-19	3469-3470	.	_
 
+Text=The use of these clinical instruments indicated that all patients met criteria for schizophrenia—a diagnosis that was confirmed in subsequent clinical follow-ups.
 20-1	3471-3474	The	_
 20-2	3475-3478	use	_
 20-3	3479-3481	of	_
@@ -595,6 +615,7 @@
 20-22	3622-3632	follow-ups	_
 20-23	3633-3634	.	_
 
+Text=At the time of scanning, all patients were medication-naïve.
 21-1	3635-3637	At	_
 21-2	3638-3641	the	_
 21-3	3642-3646	time	_
@@ -607,6 +628,7 @@
 21-10	3679-3695	medication-naïve	_
 21-11	3696-3697	.	_
 
+Text=Major depressive disorder Fifty participants with MDD were included (see Table 1).
 22-1	3698-3703	Major	_
 22-2	3704-3714	depressive	_
 22-3	3715-3723	disorder	_
@@ -623,6 +645,7 @@
 22-14	3780-3781	)	_
 22-15	3782-3783	.	_
 
+Text=These participants were part of a larger cohort study of depression in the Chinese population of Han nationality.
 23-1	3784-3789	These	_
 23-2	3790-3802	participants	_
 23-3	3803-3807	were	_
@@ -643,6 +666,7 @@
 23-18	3885-3896	nationality	_
 23-19	3897-3898	.	_
 
+Text=Diagnosis of MDD was made with the SCID; although psychotic symptoms can occur during depressive episodes, none of the participants reported suffering from them.
 24-1	3899-3908	Diagnosis	_
 24-2	3909-3911	of	_
 24-3	3912-3915	MDD	http://maven.renci.org/NeuroBridge/neurobridge#MajorDepressiveDisorder
@@ -671,6 +695,7 @@
 24-26	4057-4061	them	_
 24-27	4062-4063	.	_
 
+Text=On the day of scanning, severity of depression was quantified using the 17-item Hamilton depression rating scale (HAM-D) and all participants had a total HAM-D score ≥18.
 25-1	4064-4066	On	_
 25-2	4067-4070	the	_
 25-3	4071-4074	day	_
@@ -703,6 +728,7 @@
 25-30	4233-4236	≥18	_
 25-31	4237-4238	.	_
 
+Text=All patients were medication-naïve at the time of scanning.
 26-1	4239-4242	All	_
 26-2	4243-4251	patients	_
 26-3	4252-4256	were	_
@@ -714,6 +740,7 @@
 26-9	4289-4297	scanning	_
 26-10	4298-4299	.	_
 
+Text=Post-traumatic stress disorder Fifty participants with PTSD were included (see Table 1).
 27-1	4300-4314	Post-traumatic	_
 27-2	4315-4321	stress	_
 27-3	4322-4330	disorder	_
@@ -730,6 +757,7 @@
 27-14	4388-4389	)	_
 27-15	4390-4391	.	_
 
+Text=These participants were survivors of the 2008 Sichuan earthquake who lived in rural areas, had all physically experienced the earthquake, personally witnessed death, serious injury or the collapse of buildings and not suffered any physical injury; because these patients were recruited in the aftermath of the earthquake, they came from rural areas (where the Earthquake was strongest) and were older relative to the other clinical groups.
 28-1	4392-4397	These	_
 28-2	4398-4410	participants	_
 28-3	4411-4415	were	_
@@ -805,6 +833,7 @@
 28-73	4831-4837	groups	_
 28-74	4838-4839	.	_
 
+Text=All participants were assessed using the PTSD Checklist (PCL) and met threshold criteria (PCL score ≥ 35) for diagnosis of PTSD on the day of scanning.
 29-1	4840-4843	All	_
 29-2	4844-4856	participants	_
 29-3	4857-4861	were	_
@@ -837,6 +866,7 @@
 29-30	4986-4994	scanning	_
 29-31	4995-4996	.	_
 
+Text=At the time of scanning, all patients were medication-naïve.
 30-1	4997-4999	At	_
 30-2	5000-5003	the	_
 30-3	5004-5008	time	_
@@ -849,6 +879,7 @@
 30-10	5041-5057	medication-naïve	_
 30-11	5058-5059	.	_
 
+Text=Healthy controls One hundred and twenty two HC were included (Table 1).
 31-1	5060-5067	Healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 31-2	5068-5076	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 31-3	5077-5080	One	_
@@ -865,6 +896,7 @@
 31-14	5131-5132	)	_
 31-15	5133-5134	.	_
 
+Text=All were recruited by poster advertisement, and screened using the non-patient edition of the SCID to confirm the lifetime absence of psychiatric illnesses.
 32-1	5135-5138	All	_
 32-2	5139-5143	were	_
 32-3	5144-5153	recruited	_
@@ -891,6 +923,7 @@
 32-24	5282-5291	illnesses	_
 32-25	5292-5293	.	_
 
+Text=In addition, all were interviewed to exclude individuals with a known history of psychiatric illness in first-degree relatives.
 33-1	5294-5296	In	_
 33-2	5297-5305	addition	_
 33-3	5306-5307	,	_
@@ -912,6 +945,7 @@
 33-19	5412-5421	relatives	_
 33-20	5422-5423	.	_
 
+Text=Data acquisition All neuroimaging data was acquired from a 3T MRI scanner (EXCITE; General Electric, Milwaukee, Wisconsin) with an 8-channel phased array head coil.
 34-1	5424-5428	Data	_
 34-2	5429-5440	acquisition	_
 34-3	5441-5444	All	_
@@ -943,6 +977,7 @@
 34-29	5588-5592	coil	_
 34-30	5593-5594	.	_
 
+Text=Images were acquired using a gradient-echo echo-planar imaging sequence with a repetition time (TR) = 2000 ms, an echo time (TE) = 30 ms, flip-angle = 90°, slice thickness = 5 mm (no slice gap), 64 × 64 matrix and field of view = 24 cm2 resulting in a voxel size of 3.75 × 3.75 × 5 mm3.
 35-1	5595-5601	Images	_
 35-2	5602-5606	were	_
 35-3	5607-5615	acquired	_
@@ -1013,6 +1048,7 @@
 35-68	5887-5890	mm3	_
 35-69	5891-5892	.	_
 
+Text=Scanning lasted for 410 s, with each brain volume comprising 30 axial slices and each functional run containing 205 image volumes.
 36-1	5893-5901	Scanning	_
 36-2	5902-5908	lasted	_
 36-3	5909-5912	for	_
@@ -1037,6 +1073,7 @@
 36-22	6016-6023	volumes	_
 36-23	6024-6025	.	_
 
+Text=During scanning, participants were instructed to relax with their eyes closed without falling asleep.
 37-1	6026-6032	During	_
 37-2	6033-6041	scanning	_
 37-3	6042-6043	,	_
@@ -1054,6 +1091,7 @@
 37-15	6121-6127	asleep	_
 37-16	6128-6129	.	_
 
+Text=After the experiment, each participant confirmed as to not having fallen asleep during scanning.
 38-1	6130-6135	After	_
 38-2	6136-6139	the	_
 38-3	6140-6150	experiment	_
@@ -1071,6 +1109,7 @@
 38-15	6218-6226	scanning	_
 38-16	6227-6228	.	_
 
+Text=Data analysis Preprocessing Functional images were pre-processed using SPM12 software (http: //www.fil.ion.ucl.ac.uk/spm) running under Matlab 7.1 (Math Works, USA).
 39-1	6229-6233	Data	_
 39-2	6234-6242	analysis	_
 39-3	6243-6256	Preprocessing	_
@@ -1098,6 +1137,7 @@
 39-25	6398-6399	)	_
 39-26	6400-6401	.	_
 
+Text=For each participant, the first five scans were discarded to remove the impact of magnetization stabilization, and the images were realigned to the first of the run and resliced with sinc interpolation.
 40-1	6402-6405	For	_
 40-2	6406-6410	each	_
 40-3	6411-6422	participant	_
@@ -1134,6 +1174,7 @@
 40-34	6592-6605	interpolation	_
 40-35	6606-6607	.	_
 
+Text=The resulting images were normalized to the Montreal Neurological Institute (MNI) 152 template and then linearly de-trended and band pass filtered (0.01–0.08 Hz) to remove low-frequency drift and high-frequency physiological noise.
 41-1	6608-6611	The	_
 41-2	6612-6621	resulting	_
 41-3	6622-6628	images	_
@@ -1171,6 +1212,7 @@
 41-35	6837-6842	noise	_
 41-36	6843-6844	.	_
 
+Text=Finally the normalized images were smoothed with an 8-mm full width at half maximum isotropic Gaussian kernel, and the global signal, the white matter signal and the cerebrospinal fluid signal were regressed out.
 42-1	6845-6852	Finally	_
 42-2	6853-6856	the	_
 42-3	6857-6867	normalized	_
@@ -1208,6 +1250,7 @@
 42-35	7055-7058	out	_
 42-36	7059-7060	.	_
 
+Text=None of the subjects who enrolled on the study had to be excluded due to excessive head motion during scanning (defined as translational movement> 1.5 mm and/or rotation> 1.5°).
 43-1	7061-7065	None	_
 43-2	7066-7068	of	_
 43-3	7069-7072	the	_
@@ -1243,6 +1286,7 @@
 43-33	7240-7241	)	_
 43-34	7242-7243	.	_
 
+Text=In order to test for differences in head movement, we estimated the framewise displacement of each subject—a measure of head movement from one volume to the next calculated as the sum of the absolute values of the realignment estimates at every time point; an ANOVA did not reveal significant differences across the four groups (df = 3, F = 1.903, p = 0.129).
 44-1	7244-7246	In	_
 44-2	7247-7252	order	_
 44-3	7253-7255	to	_
@@ -1314,6 +1358,7 @@
 44-69	7607-7608	)	_
 44-70	7609-7610	.	_
 
+Text=Psychophysiological interaction analysis Psychophysiological interaction analysis was conducted using SPM12 software running under MATLAB 8.6.
 45-1	7611-7630	Psychophysiological	_
 45-2	7631-7642	interaction	_
 45-3	7643-7651	analysis	_
@@ -1331,6 +1376,7 @@
 45-15	7749-7752	8.6	_
 45-16	7753-7754	.	_
 
+Text=Firstly, the left and right MDN were selected as regions of interest and anatomically identified using the Talairach Daemon Brodmann Areas + atlas on WFU_PickAtlas 3.0.5 software.
 46-1	7755-7762	Firstly	_
 46-2	7763-7764	,	_
 46-3	7765-7768	the	_
@@ -1361,6 +1407,7 @@
 46-28	7926-7934	software	_
 46-29	7935-7936	.	_
 
+Text=The left MDN centered on (−6.15, −17, 7.85; MNI co-ordinates) and the right MDN centered on (6.31, −17, 7.85).
 47-1	7937-7940	The	_
 47-2	7941-7945	left	_
 47-3	7946-7949	MDN	_
@@ -1391,6 +1438,7 @@
 47-28	8054-8055	)	_
 47-29	8056-8057	.	_
 
+Text=The raw mean time-series of voxels in each region of interest were then extracted for each subject using the MarsBaR toolbox for SPM.
 48-1	8058-8061	The	_
 48-2	8062-8065	raw	_
 48-3	8066-8070	mean	_
@@ -1416,6 +1464,7 @@
 48-23	8187-8190	SPM	_
 48-24	8191-8192	.	_
 
+Text=For each subject, the extracted values were correlated with all other voxels in the brain using linear regression with the subject head motion parameters modeled as co-variates of no interest.
 49-1	8193-8196	For	_
 49-2	8197-8201	each	_
 49-3	8202-8209	subject	_
@@ -1449,6 +1498,7 @@
 49-31	8377-8385	interest	_
 49-32	8386-8387	.	_
 
+Text=Subject-level t-contrast maps were combined into a group-level analysis of variance (ANOVA) with age and gender modeled as covariates of no interest.
 50-1	8388-8401	Subject-level	_
 50-2	8402-8412	t-contrast	_
 50-3	8413-8417	maps	_
@@ -1475,6 +1525,7 @@
 50-24	8530-8538	interest	_
 50-25	8539-8540	.	_
 
+Text=Effectively, this seed-based approach conforms to a psychophysiological interaction analysis.
 51-1	8541-8552	Effectively	_
 51-2	8553-8554	,	_
 51-3	8555-8559	this	_
@@ -1488,6 +1539,7 @@
 51-11	8626-8634	analysis	_
 51-12	8635-8636	.	_
 
+Text=In other words, we use the regression slope of activity in any given voxel on activity in the (thalamic) seed region as a measure of direct (linear) coupling and then compared this measure between diagnostic groups.
 52-1	8637-8639	In	_
 52-2	8640-8645	other	_
 52-3	8646-8651	words	_
@@ -1531,6 +1583,7 @@
 52-41	8850-8856	groups	_
 52-42	8857-8858	.	_
 
+Text=This psychophysiological interaction analysis has the advantage of not conflating coupling with the amplitude of error terms—a recognized methodological issue in the statistical analysis of (Z-transformed) functional correlation measures.
 53-1	8859-8863	This	_
 53-2	8864-8883	psychophysiological	_
 53-3	8884-8895	interaction	_
@@ -1564,6 +1617,7 @@
 53-31	9090-9098	measures	_
 53-32	9099-9100	.	_
 
+Text=Alterations specific to schizophrenia were identified by comparing this group against the other three groups (e.g., schizophrenia vs. HC, PTSD, and MDD) and then using the inclusive masking option (at p <0.05 uncorrected) in SPM12 software to identify those regions that survived the individual comparisons (i.e., schizophrenia vs. HC; schizophrenia vs. PTSD; schizophrenia vs. MDD).
 54-1	9101-9112	Alterations	_
 54-2	9113-9121	specific	_
 54-3	9122-9124	to	_
@@ -1634,6 +1688,7 @@
 54-68	9495-9496	)	_
 54-69	9497-9498	.	_
 
+Text=Here the use of inclusive masking enabled a simple form of conjunction analysis that allowed us to identify alterations specific to the schizophrenia group.
 55-1	9499-9503	Here	_
 55-2	9504-9507	the	_
 55-3	9508-9511	use	_
@@ -1660,6 +1715,7 @@
 55-24	9649-9654	group	_
 55-25	9655-9656	.	_
 
+Text=Alterations common to the three diagnostic groups were identified by comparing schizophrenia, PTSD, and MDD patients against HC (e.g., schizophrenia, PTSD and MDD vs. HC) and then using the inclusive masking option (at p <0.05 uncorrected) in SPM12 software to identify those regions that survived the diagnosis-specific comparisons (i.e., schizophrenia vs. HC; PTSD vs. HC; and MDD vs. HC).
 56-1	9657-9668	Alterations	_
 56-2	9669-9675	common	_
 56-3	9676-9678	to	_
@@ -1735,6 +1791,7 @@
 56-73	10060-10061	)	_
 56-74	10062-10063	.	_
 
+Text=Here the use of inclusive masking enabled us to detect alterations in schizophrenia group that reflect a trans-diagnostic feature of psychiatric illness.
 57-1	10064-10068	Here	_
 57-2	10069-10072	the	_
 57-3	10073-10076	use	_
@@ -1759,6 +1816,7 @@
 57-22	10209-10216	illness	_
 57-23	10217-10218	.	_
 
+Text=Statistical inferences were made at p <0.05 after family-wise error (FWE) correction with a minimum extent threshold of 5 voxels.
 58-1	10219-10230	Statistical	_
 58-2	10231-10241	inferences	_
 58-3	10242-10246	were	_
@@ -1784,6 +1842,7 @@
 58-23	10344-10350	voxels	_
 58-24	10351-10352	.	_
 
+Text=Post hoc correlation analysis in schizophrenia To further elucidate the above alterations, a series of exploratory post hoc correlation analyses were performed with clinical scores in patients with schizophrenia using IBM SPSS version 21.0 (IBM Corp, Armonk, NY, USA).
 59-1	10353-10357	Post	_
 59-2	10358-10361	hoc	_
 59-3	10362-10373	correlation	_
@@ -1831,6 +1890,7 @@
 59-45	10625-10626	)	_
 59-46	10627-10628	.	_
 
+Text=This identified three significant correlations with clinical scores.
 60-1	10629-10633	This	_
 60-2	10634-10644	identified	_
 60-3	10645-10650	three	_
@@ -1841,6 +1901,7 @@
 60-8	10690-10696	scores	_
 60-9	10697-10698	.	_
 
+Text=First, the trans-diagnostic EC increase between the left MDN and the right medial superior frontal gyrus was negatively correlated with the PANSS negative score (Pearson correlation = −0.328; two-tailed p-value: 0.020).
 61-1	10699-10704	First	_
 61-2	10705-10706	,	_
 61-3	10707-10710	the	_
@@ -1879,6 +1940,7 @@
 61-36	10921-10922	)	_
 61-37	10923-10924	.	_
 
+Text=Second, the trans-diagnostic EC increase between the left MDN and the right putamen was positively correlated with the Global Assessment of Functioning scores (Pearson correlation = 0.389; two-tailed p-value: 0.005).
 62-1	10925-10931	Second	_
 62-2	10932-10933	,	_
 62-3	10934-10937	the	_
@@ -1916,6 +1978,7 @@
 62-35	11144-11145	)	_
 62-36	11146-11147	.	_
 
+Text=Third, the trans-diagnostic EC increase between the right MDN and the right medial superior frontal gyrus was negatively associated with the PANSS general psychopathology score (Pearson correlation = −0.323; two-tailed p-value: 0.022).
 63-1	11148-11153	Third	_
 63-2	11154-11155	,	_
 63-3	11156-11159	the	_

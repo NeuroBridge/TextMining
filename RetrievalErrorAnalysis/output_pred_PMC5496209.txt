@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=A joint time-frequency analysis of resting-state functional connectivity reveals novel patterns of connectivity shared between or unique to schizophrenia patients and healthy controls Functional connectivity of the resting-state (RS) brain is a vehicle to study brain dysconnectivity aspects of diseases such as schizophrenia and bipolar.
 1-1	0-1	A	_
 1-2	2-7	joint	_
 1-3	8-22	time-frequency	_
@@ -51,6 +52,7 @@
 1-47	332-339	bipolar	_
 1-48	340-341	.	_
 
+Text=Methods that are developed to measure functional connectivity are based on the underlying hypotheses regarding the actual nature of RS-connectivity including evidence of temporally dynamic versus static RS-connectivity and evidence of frequency-specific versus hemodynamically-driven connectivity over a wide frequency range.
 2-1	342-349	Methods	_
 2-2	350-354	that	_
 2-3	355-358	are	_
@@ -93,6 +95,7 @@
 2-40	661-666	range	_
 2-41	667-668	.	_
 
+Text=This study is derived by these observations of variation of RS-connectivity in temporal and frequency domains and evaluates such characteristics of RS-connectivity in clinical population and jointly in temporal and frequency domains (the spectro-temporal domain).
 3-1	669-673	This	_
 3-2	674-679	study	_
 3-3	680-682	is	_
@@ -132,6 +135,7 @@
 3-37	932-933	)	_
 3-38	934-935	.	_
 
+Text=We base this study on the hypothesis that by studying functional connectivity of schizophrenia patients and comparing it to the one of healthy controls in the spectro-temporal domain we might be able to make new observations regarding the differences and similarities between diseased and healthy brain connectivity and such observations could be obscured by studies which investigate such characteristics separately.
 4-1	936-938	We	_
 4-2	939-943	base	_
 4-3	944-948	this	_
@@ -194,6 +198,7 @@
 4-60	1342-1352	separately	_
 4-61	1353-1354	.	_
 
+Text=Interestingly, our results include, but are not limited to, a spectrally localized (mostly mid-range frequencies) modular dynamic connectivity pattern in which sensory motor networks are anti-correlated with visual, auditory and sub-cortical networks in schizophrenia, as well as evidence of lagged dependence between default-mode and sensory networks in schizophrenia.
 5-1	1355-1368	Interestingly	_
 5-2	1369-1370	,	_
 5-3	1371-1374	our	_
@@ -251,6 +256,7 @@
 5-55	1717-1730	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 5-56	1731-1732	.	_
 
+Text=These observations are unique to the proposed augmented domain of connectivity analysis.
 6-1	1733-1738	These	_
 6-2	1739-1751	observations	_
 6-3	1752-1755	are	_
@@ -265,6 +271,7 @@
 6-12	1812-1820	analysis	_
 6-13	1821-1822	.	_
 
+Text=We conclude this study by arguing not only resting-state connectivity has structured spectro-temporal variability, but also that studying properties of connectivity in this joint domain reveals distinctive group-based differences and similarities between clinical and healthy populations.
 7-1	1823-1825	We	_
 7-2	1826-1834	conclude	_
 7-3	1835-1839	this	_
@@ -304,6 +311,7 @@
 7-37	2100-2111	populations	_
 7-38	2112-2113	.	_
 
+Text=Highlights RS-connectivity of Schizophrenia and healthy is studied in domain of time and frequency.
 8-1	2114-2124	Highlights	_
 8-2	2125-2140	RS-connectivity	_
 8-3	2141-2143	of	_
@@ -320,6 +328,7 @@
 8-14	2203-2212	frequency	_
 8-15	2213-2214	.	_
 
+Text=Dynamic connectivity is now superposition of connectivities with unique frequencies.
 9-1	2215-2222	Dynamic	_
 9-2	2223-2235	connectivity	_
 9-3	2236-2238	is	_
@@ -332,6 +341,7 @@
 9-10	2287-2298	frequencies	_
 9-11	2299-2300	.	_
 
+Text=Augmented domain reveals novel connectivity patterns unique to schizophrenia/healthy.
 10-1	2301-2310	Augmented	_
 10-2	2311-2317	domain	_
 10-3	2318-2325	reveals	_
@@ -343,6 +353,7 @@
 10-9	2364-2385	schizophrenia/healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 10-10	2386-2387	.	_
 
+Text=Materials and method Participants, image acquisition and pre-processing Subjects include 163 healthy controls (46 females) with average age of 36.9 and 151 (37 females) patients diagnosed with schizophrenia with average age of 37.8.
 11-1	2388-2397	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-2	2398-2401	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 11-3	2402-2408	method	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -383,6 +394,7 @@
 11-38	2620-2624	37.8	_
 11-39	2625-2626	.	_
 
+Text=In accordance with the internal review boards of corresponding institutes, informed consent was obtained from all the subjects.
 12-1	2627-2629	In	_
 12-2	2630-2640	accordance	_
 12-3	2641-2645	with	_
@@ -404,6 +416,7 @@
 12-19	2746-2754	subjects	_
 12-20	2755-2756	.	_
 
+Text=Details on the image acquisition and the pre-processing are provided in Supplementary Material A. Group-ICA and post-processing We study connectivity between anatomically and functionally meaningful regions in the brain.
 13-1	2757-2764	Details	_
 13-2	2765-2767	on	_
 13-3	2768-2771	the	_
@@ -435,6 +448,7 @@
 13-29	2971-2976	brain	_
 13-30	2977-2978	.	_
 
+Text=We choose group spatial independent component analysis (gsICA) as the data-driven approach to define these regions with no need for prior knowledge of the regions or a task-design.
 14-1	2979-2981	We	_
 14-2	2982-2988	choose	_
 14-3	2989-2994	group	_
@@ -467,6 +481,7 @@
 14-30	3149-3160	task-design	_
 14-31	3161-3162	.	_
 
+Text=It is achieved by linearly decomposing voxel-level time series into maximally independent spatial maps with corresponding time-courses per-subject.
 15-1	3163-3165	It	_
 15-2	3166-3168	is	_
 15-3	3169-3177	achieved	_
@@ -487,6 +502,7 @@
 15-18	3298-3309	per-subject	_
 15-19	3310-3311	.	_
 
+Text=The GIFT toolbox implementation of gsICA is used.
 16-1	3312-3315	The	_
 16-2	3316-3320	GIFT	_
 16-3	3321-3328	toolbox	_
@@ -497,6 +513,7 @@
 16-8	3356-3360	used	_
 16-9	3361-3362	.	_
 
+Text=More details on implementation of gsICA in GIFT are provided in Supplementary Material B. Temporally-dynamic and frequency-specific connectivity states To estimate connectivity, in the spectro-temporal domain, we first, decompose each subject-specific network time-courses into a time-frequency domain by leveraging a wavelet decomposition by convolving each time-course with complex Morlet wavelet as our choice of wavelet kernel.
 17-1	3363-3367	More	_
 17-2	3368-3375	details	_
 17-3	3376-3378	on	_
@@ -558,6 +575,7 @@
 17-59	3790-3796	kernel	_
 17-60	3797-3798	.	_
 
+Text=The complex Morlet kernel has the following formulation, which has both real and imaginary parts: The kernel has a Gaussian-shaped frequency spectrum whose fc is center frequency, and σ is standard deviation.
 18-1	3799-3802	The	_
 18-2	3803-3810	complex	_
 18-3	3811-3817	Morlet	_
@@ -595,6 +613,7 @@
 18-35	4000-4009	deviation	_
 18-36	4010-4011	.	_
 
+Text=σ is set to 0.02 Hz throughout the study.
 19-1	4012-4013	σ	_
 19-2	4014-4016	is	_
 19-3	4017-4020	set	_
@@ -606,6 +625,7 @@
 19-9	4047-4052	study	_
 19-10	4053-4054	.	_
 
+Text=Each input time-course is convolved with 5 different Morlet kernels each centered equally in the interval of 0.01 and 0.25 Hz which when stacked, it would result into the time-frequency representation of the input time-course (Fig.
 20-1	4055-4059	Each	_
 20-2	4060-4065	input	_
 20-3	4066-4077	time-course	_
@@ -646,10 +666,12 @@
 20-38	4284-4287	Fig	_
 20-39	4288-4289	.	_
 
+Text=1A).
 21-1	4290-4292	1A	_
 21-2	4293-4294	)	_
 21-3	4295-4296	.	_
 
+Text=Next we use wavelet transform coherence (WTC) for the estimation of dependence in this joint domain.
 22-1	4297-4301	Next	_
 22-2	4302-4304	we	_
 22-3	4305-4308	use	_
@@ -670,6 +692,7 @@
 22-18	4392-4398	domain	_
 22-19	4399-4400	.	_
 
+Text=WTC is defined as follows: Wxy represents element-wise conjugate multiplication of wavelet transforms of input signals x and y which are represented as Wx and Wy.
 23-1	4401-4404	WTC	_
 23-2	4405-4407	is	_
 23-3	4408-4415	defined	_
@@ -699,6 +722,7 @@
 23-27	4561-4563	Wy	_
 23-28	4564-4565	.	_
 
+Text=S and S′ are the smoothing parameters.
 24-1	4566-4567	S	_
 24-2	4568-4571	and	_
 24-3	4572-4574	S′	_
@@ -708,6 +732,7 @@
 24-7	4593-4603	parameters	_
 24-8	4604-4605	.	_
 
+Text=Details on the WTC and its formulation are provided in Yaesoubi et al .. WTC is used to measure dependence between all pairs of time-frequency representation of network time-courses.
 25-1	4606-4613	Details	_
 25-2	4614-4616	on	_
 25-3	4617-4620	the	_
@@ -739,6 +764,7 @@
 25-29	4775-4787	time-courses	_
 25-30	4788-4789	.	_
 
+Text=Such dependence is what we call “ dynamic coherence ”.
 26-1	4790-4794	Such	_
 26-2	4795-4805	dependence	_
 26-3	4806-4808	is	_
@@ -751,6 +777,7 @@
 26-10	4842-4843	”	_
 26-11	4844-4845	.	_
 
+Text=Dynamic coherence has a complex value with both real and imaginary parts.
 27-1	4846-4853	Dynamic	_
 27-2	4854-4863	coherence	_
 27-3	4864-4867	has	_
@@ -765,6 +792,7 @@
 27-12	4913-4918	parts	_
 27-13	4919-4920	.	_
 
+Text=Its magnitude measures the degree of the dependence within a given frequency band between two time-series at a given point in time, with phase capturing the lag at which maximum correlation is achieved.
 28-1	4921-4924	Its	_
 28-2	4925-4934	magnitude	_
 28-3	4935-4943	measures	_
@@ -801,9 +829,11 @@
 28-34	5115-5123	achieved	_
 28-35	5124-5125	.	_
 
+Text=Fig.
 29-1	5126-5129	Fig	_
 29-2	5130-5131	.	_
 
+Text=1B Right, explains this property as well as the color-coding that is used through out of this work to present our complexed-value dynamic coherence.
 30-1	5132-5134	1B	_
 30-2	5135-5140	Right	_
 30-3	5141-5142	,	_
@@ -831,6 +861,7 @@
 30-25	5271-5280	coherence	_
 30-26	5281-5282	.	_
 
+Text=The lightness of the colormap represents the magnitude of the measurement and phase is encoded with the selected circular colormap.
 31-1	5283-5286	The	_
 31-2	5287-5296	lightness	_
 31-3	5297-5299	of	_
@@ -853,6 +884,7 @@
 31-20	5405-5413	colormap	_
 31-21	5414-5415	.	_
 
+Text=Following procedure proposed by Yaesoubi et al.
 32-1	5416-5425	Following	_
 32-2	5426-5435	procedure	_
 32-3	5436-5444	proposed	_
@@ -862,6 +894,7 @@
 32-7	5460-5462	al	_
 32-8	5463-5464	.	_
 
+Text=to estimate spectro-temporal connectivity states, estimations of dynamic coherence for all pairs of networks are concatenated along time, frequency and subjects followed by a clustering analysis to summarize it into finite number of states.
 33-1	5465-5467	to	_
 33-2	5468-5476	estimate	_
 33-3	5477-5493	spectro-temporal	_
@@ -900,6 +933,7 @@
 33-36	5700-5706	states	_
 33-37	5707-5708	.	_
 
+Text=We use k-means clustering and k is set to ‘ 5 ’ (Fig.
 34-1	5709-5711	We	_
 34-2	5712-5715	use	_
 34-3	5716-5723	k-means	_
@@ -916,6 +950,7 @@
 34-14	5759-5762	Fig	_
 34-15	5763-5764	.	_
 
+Text=1C).
 35-1	5765-5767	1C	_
 35-2	5768-5769	)	_
 35-3	5770-5771	.	_

@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Reduced activity and connectivity of left amygdala in patients with schizophrenia treated with clozapine or olanzapine Obsessive–compulsive symptoms (OCS) in patients with schizophrenia are a common co-occurring condition, often associated with additional impairments.
 1-1	0-7	Reduced	_
 1-2	8-16	activity	_
 1-3	17-20	and	_
@@ -40,6 +41,7 @@
 1-36	259-270	impairments	_
 1-37	271-272	.	_
 
+Text=A subgroup of these patients develops OCS during treatment with second-generation antipsychotics (SGAs), most importantly clozapine and olanzapine.
 2-1	273-274	A	_
 2-2	275-283	subgroup	_
 2-3	284-286	of	_
@@ -63,6 +65,7 @@
 2-21	412-422	olanzapine	_
 2-22	423-424	.	_
 
+Text=So far, little is known about possible neural mechanism of these SGAs, which seem to aggravate or induce OCS.
 3-1	425-427	So	_
 3-2	428-431	far	_
 3-3	432-433	,	_
@@ -86,6 +89,7 @@
 3-21	532-535	OCS	_
 3-22	536-537	.	_
 
+Text=To investigate the role of SGA treatment on neural activation and connectivity during emotional processing, patients were stratified according to their monotherapy into two groups (group I: clozapine or olanzapine, n = 20; group II: amisulpride or aripiprazole, n = 20).
 4-1	538-540	To	_
 4-2	541-552	investigate	_
 4-3	553-556	the	_
@@ -137,6 +141,7 @@
 4-49	814-815	)	_
 4-50	816-817	.	_
 
+Text=We used an fMRI approach, applying an implicit emotion recognition task.
 5-1	818-820	We	_
 5-2	821-825	used	_
 5-3	826-828	an	_
@@ -151,6 +156,7 @@
 5-12	886-890	task	http://maven.renci.org/NeuroBridge/neurobridge#PennEmotionRecognitionTask
 5-13	891-892	.	_
 
+Text=Group comparisons showed significantly higher frequency and severity of comorbid OCS in group I than group II.
 6-1	893-898	Group	_
 6-2	899-910	comparisons	_
 6-3	911-917	showed	_
@@ -170,6 +176,7 @@
 6-17	1000-1002	II	_
 6-18	1003-1004	.	_
 
+Text=Task specific activation was attenuated in group I in the left amygdala.
 7-1	1005-1009	Task	_
 7-2	1010-1018	specific	_
 7-3	1019-1029	activation	_
@@ -184,6 +191,7 @@
 7-12	1068-1076	amygdala	_
 7-13	1077-1078	.	_
 
+Text=Furthermore, functional connectivity from left amygdala to right ventral striatum was reduced in group I.
 8-1	1079-1090	Furthermore	_
 8-2	1091-1092	,	_
 8-3	1093-1103	functional	_
@@ -202,6 +210,7 @@
 8-16	1183-1184	I	_
 8-17	1185-1186	.	_
 
+Text=Reduced amygdala activation was associated with OCS severity.
 9-1	1187-1194	Reduced	_
 9-2	1195-1203	amygdala	_
 9-3	1204-1214	activation	_
@@ -212,6 +221,7 @@
 9-8	1239-1247	severity	_
 9-9	1248-1249	.	_
 
+Text=Recent literature suggests an involvement of an amygdala–cortico–striatal network in the pathogenesis of obsessive–compulsive disorder.
 10-1	1250-1256	Recent	_
 10-2	1257-1267	literature	_
 10-3	1268-1276	suggests	_
@@ -229,6 +239,7 @@
 10-15	1376-1384	disorder	_
 10-16	1385-1386	.	_
 
+Text=The observed differential activation and connectivity pattern of the amygdala might thus indicate a neural mechanism for the development of SGA-associated OCS in patients with schizophrenia.
 11-1	1387-1390	The	_
 11-2	1391-1399	observed	_
 11-3	1400-1412	differential	_
@@ -257,6 +268,7 @@
 11-26	1563-1576	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-27	1577-1578	.	_
 
+Text=Further neurobiological research and interventional studies are needed for causal inferences.
 12-1	1579-1586	Further	_
 12-2	1587-1602	neurobiological	_
 12-3	1603-1611	research	_
@@ -270,6 +282,7 @@
 12-11	1661-1671	inferences	_
 12-12	1672-1673	.	_
 
+Text=Method Study design and participants This neuroimaging approach was part of a multimodal assessment.
 13-1	1674-1680	Method	_
 13-2	1681-1686	Study	_
 13-3	1687-1693	design	_
@@ -286,6 +299,7 @@
 13-14	1763-1773	assessment	_
 13-15	1774-1775	.	_
 
+Text=Patients were divided into two groups, those with an inherent antiserotonergic profile (group I: olanzapine and clozapine) and those with a primarily dopaminergic treatment profile (group II: amisulpride and aripiprazole).
 14-1	1776-1784	Patients	_
 14-2	1785-1789	were	_
 14-3	1790-1797	divided	_
@@ -325,6 +339,7 @@
 14-37	2003-2004	)	_
 14-38	2005-2006	.	_
 
+Text=As described earlier, participants were aged 18–60 years, diagnosed with a schizophrenia spectrum disorder according to DSM-IV-TR, received stable monotherapy with clozapine, olanzapine, amisulpride or aripiprazole and showed stable psychopathology over a period of at least 2 weeks with constant severity scores in psychosocial functioning (PSP) and the Positive and Negative Syndrome Scale (PANSS).
 15-1	2007-2009	As	_
 15-2	2010-2019	described	_
 15-3	2020-2027	earlier	_
@@ -390,6 +405,7 @@
 15-63	2414-2415	)	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale
 15-64	2416-2417	.	_
 
+Text=Exclusion criteria included a history of alcohol or drug addiction or current treatment with antidepressants (except for reboxetine and bupropion—substances without marked serotonergic effects).
 16-1	2418-2427	Exclusion	_
 16-2	2428-2436	criteria	_
 16-3	2437-2445	included	_
@@ -418,6 +434,7 @@
 16-26	2612-2613	)	_
 16-27	2614-2615	.	_
 
+Text=Benzodiazepine intake was no exclusion criteria, but only one patient was prescribed clonazepam on demand.
 17-1	2616-2630	Benzodiazepine	_
 17-2	2631-2637	intake	_
 17-3	2638-2641	was	_
@@ -436,6 +453,7 @@
 17-16	2716-2722	demand	_
 17-17	2723-2724	.	_
 
+Text=The investigation was approved by the ethical committee of the University of Heidelberg (no.
 18-1	2725-2728	The	_
 18-2	2729-2742	investigation	_
 18-3	2743-2746	was	_
@@ -453,6 +471,7 @@
 18-15	2815-2817	no	_
 18-16	2818-2819	.	_
 
+Text=2008-235N-MA) and performed in agreement with the guidelines of good clinical practice.
 19-1	2820-2832	2008-235N-MA	_
 19-2	2833-2834	)	_
 19-3	2835-2838	and	_
@@ -468,6 +487,7 @@
 19-13	2899-2907	practice	_
 19-14	2908-2909	.	_
 
+Text=All participants provided written informed consent prior to study inclusion.
 20-1	2910-2913	All	_
 20-2	2914-2926	participants	_
 20-3	2927-2935	provided	_
@@ -480,6 +500,7 @@
 20-10	2976-2985	inclusion	_
 20-11	2986-2987	.	_
 
+Text=Clinical assessment Sociodemographic and clinical variables were assessed using questionnaires and structured clinical interviews by a trained and certified rater (FS).
 21-1	2988-2996	Clinical	_
 21-2	2997-3007	assessment	_
 21-3	3008-3024	Sociodemographic	_
@@ -505,6 +526,7 @@
 21-23	3156-3157	)	_
 21-24	3158-3159	.	_
 
+Text=The Yale–Brown Obsessive–Compulsive Scale (YBOCS) was applied to assess OCS severity, which has been validated in schizophrenia populations.
 22-1	3160-3163	The	_
 22-2	3164-3174	Yale–Brown	http://maven.renci.org/NeuroBridge/neurobridge#Yale–BrownObsessive–CompulsiveScale
 22-3	3175-3195	Obsessive–Compulsive	http://maven.renci.org/NeuroBridge/neurobridge#Yale–BrownObsessive–CompulsiveScale
@@ -528,6 +550,7 @@
 22-21	3291-3302	populations	_
 22-22	3303-3304	.	_
 
+Text=The YBOCS allows the rating of compulsions and obsessions on 5-point Likert scales (0–4), yielding subtotal scores ranging from 0 to 20.
 23-1	3305-3308	The	_
 23-2	3309-3314	YBOCS	_
 23-3	3315-3321	allows	_
@@ -555,6 +578,7 @@
 23-25	3441-3443	20	_
 23-26	3444-3445	.	_
 
+Text=According to the interpretation guidelines of the original authors, total scores of ≤ 7 are likely to be subclinical, whereas scores of ≥ 8 are likely to represent at least a mild case of OCD.
 24-1	3446-3455	According	_
 24-2	3456-3458	to	_
 24-3	3459-3462	the	_
@@ -594,6 +618,7 @@
 24-37	3636-3639	OCD	_
 24-38	3640-3641	.	_
 
+Text=In addition, the Hamburger Zwangsinventar (HZI) was applied as a self-rating questionnaire to measure the presence of obsessions and different types of compulsions.
 25-1	3642-3644	In	_
 25-2	3645-3653	addition	_
 25-3	3654-3655	,	_
@@ -622,6 +647,7 @@
 25-26	3797-3808	compulsions	_
 25-27	3809-3810	.	_
 
+Text=The severity of psychotic symptoms was rated with the PANSS positive, negative and general psychopathology subscale.
 26-1	3811-3814	The	_
 26-2	3815-3823	severity	_
 26-3	3824-3826	of	_
@@ -641,6 +667,7 @@
 26-17	3919-3927	subscale	_
 26-18	3928-3929	.	_
 
+Text=Subdomains of negative symptoms were further explored with the five subscales of the Scale for the Assessment of Negative Symptoms (SANS).
 27-1	3930-3940	Subdomains	_
 27-2	3941-3943	of	_
 27-3	3944-3952	negative	_
@@ -666,6 +693,7 @@
 27-23	4068-4069	)	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofNegativeSymptoms
 27-24	4070-4071	.	_
 
+Text=Comorbid depressive symptoms were rated with the Calgary Depression Scale for Schizophrenia (CDSS).
 28-1	4072-4080	Comorbid	_
 28-2	4081-4091	depressive	_
 28-3	4092-4100	symptoms	_
@@ -683,6 +711,7 @@
 28-15	4171-4172	)	http://maven.renci.org/NeuroBridge/neurobridge#CalgaryDepressionScale
 28-16	4173-4174	.	_
 
+Text=General and social functioning was assessed with the Personal and Social Performance Scale (PSP).
 29-1	4175-4182	General	_
 29-2	4183-4186	and	_
 29-3	4187-4193	social	_
@@ -701,6 +730,7 @@
 29-16	4272-4273	)	http://maven.renci.org/NeuroBridge/neurobridge#PersonalandSocialPerformanceScale
 29-17	4274-4275	.	_
 
+Text=Functional MRI To elicit amygdala response, we used the classical implicit emotion recognition face-matching paradigm of Hariri et al ..
 30-1	4276-4286	Functional	_
 30-2	4287-4290	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 30-3	4291-4293	To	_
@@ -723,6 +753,7 @@
 30-20	4408-4410	al	_
 30-21	4411-4413	..	_
 
+Text=In this task, participants see three items on a screen: either faces showing emotional states such as anger or fear in the experimental condition or geometrical figures in the control condition.
 31-1	4414-4416	In	_
 31-2	4417-4421	this	_
 31-3	4422-4426	task	_
@@ -758,6 +789,7 @@
 31-33	4600-4609	condition	_
 31-34	4610-4611	.	_
 
+Text=A reference item is shown at the top and two items for comparison left and right below the target item.
 32-1	4612-4613	A	_
 32-2	4614-4623	reference	_
 32-3	4624-4628	item	_
@@ -780,6 +812,7 @@
 32-20	4710-4714	item	_
 32-21	4715-4716	.	_
 
+Text=The task is to indicate which of the two comparison items is identical to the target item.
 33-1	4717-4720	The	_
 33-2	4721-4725	task	_
 33-3	4726-4728	is	_
@@ -799,6 +832,7 @@
 33-17	4802-4806	item	_
 33-18	4807-4808	.	_
 
+Text=Each face and object was presented for 5 s in an A–B block design.
 34-1	4809-4813	Each	_
 34-2	4814-4818	face	_
 34-3	4819-4822	and	_
@@ -815,6 +849,7 @@
 34-14	4868-4874	design	_
 34-15	4875-4876	.	_
 
+Text=Each block lasted around 30 s with a total experimental duration of 4.5 min.
 35-1	4877-4881	Each	_
 35-2	4882-4887	block	_
 35-3	4888-4894	lasted	_
@@ -831,6 +866,7 @@
 35-14	4949-4952	min	_
 35-15	4953-4954	.	_
 
+Text=The task was presented with presentation (neurobehavioral systems) and responses were given via button press (current design).
 36-1	4955-4958	The	_
 36-2	4959-4963	task	_
 36-3	4964-4967	was	_
@@ -854,6 +890,7 @@
 36-21	5083-5084	)	_
 36-22	5085-5086	.	_
 
+Text=Data acquisition and analyses Sociodemographic characteristics and clinical variables at baseline were compared between groups using parametric Student t test and χ2 test.
 37-1	5087-5091	Data	_
 37-2	5092-5103	acquisition	_
 37-3	5104-5107	and	_
@@ -879,6 +916,7 @@
 37-23	5253-5257	test	_
 37-24	5258-5259	.	_
 
+Text=In case the assumption of normal distribution was violated, non-parametric Mann–Whitney U test was applied.
 38-1	5260-5262	In	_
 38-2	5263-5267	case	_
 38-3	5268-5271	the	_
@@ -897,6 +935,7 @@
 38-16	5360-5367	applied	_
 38-17	5368-5369	.	_
 
+Text=Effect-sizes were calculated for between-group differences using Cohens ’ d for normally distributed and Rosenthals ’ r for non-normally distributed data.
 39-1	5370-5382	Effect-sizes	_
 39-2	5383-5387	were	_
 39-3	5388-5398	calculated	_
@@ -920,6 +959,7 @@
 39-21	5519-5523	data	_
 39-22	5524-5525	.	_
 
+Text=Statistical analyses were performed using the Statistical package for Social Sciences (SPSS version 24.0, Chicago, IL, US), assuming a two-sided significance levels of α <0.05.
 40-1	5526-5537	Statistical	_
 40-2	5538-5546	analyses	_
 40-3	5547-5551	were	_
@@ -954,6 +994,7 @@
 40-32	5704-5708	0.05	_
 40-33	5709-5710	.	_
 
+Text=Functional imaging data was acquired with a 3 T Siemens Tim TRIO (Siemens Erlangen).
 41-1	5711-5721	Functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 41-2	5722-5729	imaging	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 41-3	5730-5734	data	_
@@ -972,6 +1013,7 @@
 41-16	5795-5796	)	_
 41-17	5797-5798	.	_
 
+Text=An echo-planar imaging (EPI) sequence was used with the following parameters: 28 axial slices, field of view 19.2 cm, matrix 64 × 64, voxel size 3 × 3 × 5 mm3, repetition time 2000 ms, echo time 30 ms. Scans were acquired in descending order.
 42-1	5799-5801	An	_
 42-2	5802-5813	echo-planar	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
 42-3	5814-5821	imaging	http://maven.renci.org/NeuroBridge/neurobridge#MolecularImaging
@@ -1027,6 +1069,7 @@
 42-53	6043-6048	order	_
 42-54	6049-6050	.	_
 
+Text=134 scans were acquired for the face-matching task.
 43-1	6051-6054	134	_
 43-2	6055-6060	scans	_
 43-3	6061-6065	were	_
@@ -1037,6 +1080,7 @@
 43-8	6097-6101	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 43-9	6102-6103	.	_
 
+Text=The first four volumes were discarded to account for saturation effects.
 44-1	6104-6107	The	_
 44-2	6108-6113	first	_
 44-3	6114-6118	four	_
@@ -1050,6 +1094,7 @@
 44-11	6168-6175	effects	_
 44-12	6176-6177	.	_
 
+Text=Functional imaging data was analyzed using SPM8 (http: //www.fil.ion.ucl.ac.uk/spm/software/spm8/).
 45-1	6178-6188	Functional	_
 45-2	6189-6196	imaging	_
 45-3	6197-6201	data	_
@@ -1064,6 +1109,7 @@
 45-12	6278-6279	)	_
 45-13	6280-6281	.	_
 
+Text=Pre-processing involved realignment, slice time correction, normalization to the standard MNI-EPI-template (Montreal Neurological Institute [MNI] EPI template) with resampling to an isotropic 3 × 3 × 3 mm voxel size and smoothing with a 9 mm full-width at half-maximum Gaussian filter.
 46-1	6282-6296	Pre-processing	_
 46-2	6297-6305	involved	_
 46-3	6306-6317	realignment	_
@@ -1113,6 +1159,7 @@
 46-47	6566-6572	filter	_
 46-48	6573-6574	.	_
 
+Text=To estimate individual neural activity, the general linear model (GLM) was applied to the BOLD-signal change.
 47-1	6575-6577	To	_
 47-2	6578-6586	estimate	_
 47-3	6587-6597	individual	_
@@ -1134,6 +1181,7 @@
 47-19	6680-6686	change	_
 47-20	6687-6688	.	_
 
+Text=BOLD changes for each condition (faces, geometrical shapes) were modeled as a convolution of the canonical hemodynamic response function with a box-car function of the corresponding condition.
 48-1	6689-6693	BOLD	_
 48-2	6694-6701	changes	_
 48-3	6702-6705	for	_
@@ -1166,6 +1214,7 @@
 48-30	6874-6883	condition	_
 48-31	6884-6885	.	_
 
+Text=Additionally, head movement was taken into account by means of six regressors (three translations, three rotations) obtained from realignment.
 49-1	6886-6898	Additionally	_
 49-2	6899-6900	,	_
 49-3	6901-6905	head	_
@@ -1191,6 +1240,7 @@
 49-23	7020-7031	realignment	_
 49-24	7032-7033	.	_
 
+Text=For functional connectivity analyses with the left amygdala (seed region), eigenvariate time series were extracted from this region, and used as an additional regressor in the second GLM analysis.
 50-1	7034-7037	For	_
 50-2	7038-7048	functional	_
 50-3	7049-7061	connectivity	_
@@ -1226,6 +1276,7 @@
 50-33	7225-7233	analysis	_
 50-34	7234-7235	.	_
 
+Text=Further, eigenvariate time series from white matter and cerebrospinal fluid were extracted and used as covariates.
 51-1	7236-7243	Further	_
 51-2	7244-7245	,	_
 51-3	7246-7258	eigenvariate	_
@@ -1245,6 +1296,7 @@
 51-17	7340-7350	covariates	_
 51-18	7351-7352	.	_
 
+Text=To avoid confounding effects of task activation, amygdala ’ s eigenvariates were calculated after task activations were regressed out of the data in the first GLM.
 52-1	7353-7355	To	_
 52-2	7356-7361	avoid	_
 52-3	7362-7373	confounding	_
@@ -1274,6 +1326,7 @@
 52-27	7513-7516	GLM	_
 52-28	7517-7518	.	_
 
+Text=For activity analyses of the contrast faces> geometrical figures, second-level group statistics were conducted by one-sample and two-sample t tests, and regression analyses.
 53-1	7519-7522	For	_
 53-2	7523-7531	activity	_
 53-3	7532-7540	analyses	_
@@ -1302,6 +1355,7 @@
 53-26	7686-7694	analyses	_
 53-27	7695-7696	.	_
 
+Text=Second-level connectivity analyses were achieved with two-sample t test.
 54-1	7697-7709	Second-level	_
 54-2	7710-7722	connectivity	_
 54-3	7723-7731	analyses	_
@@ -1313,6 +1367,7 @@
 54-9	7764-7768	test	_
 54-10	7769-7770	.	_
 
+Text=Significance threshold at the voxel level was set to p <0.05 FWE corrected, k = 10 for whole brain analyses.
 55-1	7771-7783	Significance	_
 55-2	7784-7793	threshold	_
 55-3	7794-7796	at	_
@@ -1337,6 +1392,7 @@
 55-22	7872-7880	analyses	_
 55-23	7881-7882	.	_
 
+Text=In addition, region of interest (ROI) analyses for activity differences were conducted for left and right amygdala.
 56-1	7883-7885	In	_
 56-2	7886-7894	addition	_
 56-3	7895-7896	,	_
@@ -1359,6 +1415,7 @@
 56-20	7992-8000	amygdala	_
 56-21	8001-8002	.	_
 
+Text=Furthermore, to investigate differences between groups in connectivity of the amygdala with the corticolimbic-ventral striatal circuitry, we applied ROIs for left and right ventral striatum.
 57-1	8003-8014	Furthermore	_
 57-2	8015-8016	,	_
 57-3	8017-8019	to	_
@@ -1388,6 +1445,7 @@
 57-27	8186-8194	striatum	_
 57-28	8195-8196	.	_
 
+Text=Masks were taken from the Wake Forest University (WFU) -Pickatlas.
 58-1	8197-8202	Masks	_
 58-2	8203-8207	were	_
 58-3	8208-8213	taken	_
@@ -1402,6 +1460,7 @@
 58-12	8254-8264	-Pickatlas	_
 58-13	8265-8266	.	_
 
+Text=The ROI of the left amygdala was also taken for eigenvariate extraction for functional connectivity.
 59-1	8267-8270	The	_
 59-2	8271-8274	ROI	_
 59-3	8275-8277	of	_
@@ -1419,6 +1478,7 @@
 59-15	8354-8366	connectivity	_
 59-16	8367-8368	.	_
 
+Text=Significance threshold for the ROI analyses at the voxel level was set to p <0.05, small volume corrected (svc), k = 10.
 60-1	8369-8381	Significance	_
 60-2	8382-8391	threshold	_
 60-3	8392-8395	for	_

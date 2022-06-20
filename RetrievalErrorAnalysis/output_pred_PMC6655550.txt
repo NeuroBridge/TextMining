@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=fMRI evidence of aberrant neural adaptation for objects in schizophrenia and bipolar disorder Functional magnetic resonance imaging (fMRI) adaptation (also known as fMRI repetition suppression) has been widely used to characterize stimulus selectivity in vivo, a fundamental feature of neuronal processing in the brain.
 1-1	0-4	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 1-2	5-13	evidence	_
 1-3	14-16	of	_
@@ -53,6 +54,7 @@
 1-49	318-323	brain	_
 1-50	324-325	.	_
 
+Text=We investigated whether SZ patients and BD patients show aberrant fMRI adaptation for object perception.
 2-1	326-328	We	_
 2-2	329-341	investigated	_
 2-3	342-349	whether	_
@@ -70,6 +72,7 @@
 2-15	419-429	perception	_
 2-16	430-431	.	_
 
+Text=Fifty-two SZ patients, 55 BD patients and 53 community controls completed an object discrimination task with three conditions: the same object presented twice, two exemplars from the same category, and two exemplars from different categories.
 3-1	432-441	Fifty-two	_
 3-2	442-444	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 3-3	445-453	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
@@ -111,6 +114,7 @@
 3-39	667-677	categories	_
 3-40	678-679	.	_
 
+Text=We also administered two functional localizer tasks.
 4-1	680-682	We	_
 4-2	683-687	also	_
 4-3	688-700	administered	_
@@ -120,6 +124,7 @@
 4-7	726-731	tasks	_
 4-8	732-733	.	_
 
+Text=A region of interest analysis was employed to evaluate a priori hypotheses about the lateral occipital complex (LOC) and early visual cortex (EVC).
 5-1	734-735	A	_
 5-2	736-742	region	_
 5-3	743-745	of	_
@@ -149,6 +154,7 @@
 5-27	883-884	)	_
 5-28	885-886	.	_
 
+Text=An exploratory whole brain analysis was also conducted.
 6-1	887-889	An	_
 6-2	890-901	exploratory	_
 6-3	902-907	whole	_
@@ -159,6 +165,7 @@
 6-8	932-941	conducted	_
 6-9	942-943	.	_
 
+Text=In the LOC and EVC, controls showed the expected reduced fMRI responses to repeated presentation of the same objects compared to different objects (i.e., fMRI adaptation for objects, p <.001).
 7-1	944-946	In	_
 7-2	947-950	the	_
 7-3	951-954	LOC	_
@@ -197,6 +204,7 @@
 7-36	1140-1141	)	_
 7-37	1142-1143	.	_
 
+Text=SZ patients showed an adaptation effect that was significantly smaller compared to controls.
 8-1	1144-1146	SZ	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-2	1147-1155	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 8-3	1156-1162	showed	_
@@ -212,6 +220,7 @@
 8-13	1227-1235	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 8-14	1236-1237	.	_
 
+Text=BD patients showed a lack of fMRI adaptation.
 9-1	1238-1240	BD	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-2	1241-1249	patients	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 9-3	1250-1256	showed	_
@@ -222,6 +231,7 @@
 9-8	1272-1282	adaptation	_
 9-9	1283-1284	.	_
 
+Text=The whole brain analyses showed enhanced fMRI responses to repeated presentation of the same objects only in BD patients in several brain regions including anterior cingulate cortex.
 10-1	1285-1288	The	_
 10-2	1289-1294	whole	_
 10-3	1295-1300	brain	_
@@ -251,6 +261,7 @@
 10-27	1460-1466	cortex	_
 10-28	1467-1468	.	_
 
+Text=This study was the first to employ fMRI adaptation for objects in SZ and BD.
 11-1	1469-1473	This	_
 11-2	1474-1479	study	_
 11-3	1480-1483	was	_
@@ -268,6 +279,7 @@
 11-15	1542-1544	BD	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 11-16	1545-1546	.	_
 
+Text=The current findings provide empirical evidence of aberrant fMRI adaptation in the visual cortex in SZ and BD, but in distinctly different ways.
 12-1	1547-1550	The	_
 12-2	1551-1558	current	_
 12-3	1559-1567	findings	_
@@ -294,6 +306,7 @@
 12-24	1687-1691	ways	_
 12-25	1692-1693	.	_
 
+Text=METHOD Participants Fifty-three SZ outpatients, 55 BD outpatients and 53 community controls enrolled in the study.
 13-1	1694-1700	METHOD	http://maven.renci.org/NeuroBridge/neurobridge#DataAnalysisMethod
 13-2	1701-1713	Participants	_
 13-3	1714-1725	Fifty-three	_
@@ -313,6 +326,7 @@
 13-17	1803-1808	study	_
 13-18	1809-1810	.	_
 
+Text=Patients were recruited from local board and care facilities in Los Angeles, outpatient clinics at University of California Los Angeles (UCLA) and the Veterans Affairs Greater Los Angeles Healthcare System (VAGLAHS).
 14-1	1811-1819	Patients	_
 14-2	1820-1824	were	_
 14-3	1825-1834	recruited	_
@@ -351,6 +365,7 @@
 14-36	2030-2031	)	_
 14-37	2032-2033	.	_
 
+Text=Controls were recruited through website postings.
 15-1	2034-2042	Controls	_
 15-2	2043-2047	were	_
 15-3	2048-2057	recruited	_
@@ -359,6 +374,7 @@
 15-6	2074-2082	postings	_
 15-7	2083-2084	.	_
 
+Text=All participants were evaluated for the capacity to give informed consent and provided written informed consents after procedures were fully explained, as approved by the Institutional Review Boards at UCLA and VAGLAHS.
 16-1	2085-2088	All	_
 16-2	2089-2101	participants	_
 16-3	2102-2106	were	_
@@ -394,6 +410,7 @@
 16-33	2297-2304	VAGLAHS	_
 16-34	2305-2306	.	_
 
+Text=Diagnostic eligibility for all participants was determined with the Structured Clinical Interview for DSM-IV Axis I Disorders (SCID-I) for all participants and the Structured Clinical Interview for DSM-IV Axis II Disorders (SCID-II) for controls.
 17-1	2307-2317	Diagnostic	_
 17-2	2318-2329	eligibility	_
 17-3	2330-2333	for	_
@@ -434,6 +451,7 @@
 17-38	2548-2556	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 17-39	2557-2558	.	_
 
+Text=Inclusion criteria for patients were: 1) a diagnosis of SZ or BD based on SCID-I; and 2) clinical stability (i.e., no inpatient hospitalization for three months prior to enrollment, no change in psychoactive medication in the 4 weeks prior to enrollment).
 18-1	2559-2568	Inclusion	_
 18-2	2569-2577	criteria	_
 18-3	2578-2581	for	_
@@ -485,6 +503,7 @@
 18-49	2820-2821	)	_
 18-50	2822-2823	.	_
 
+Text=Inclusion criteria for controls were: 1) no history of psychotic disorder, bipolar spectrum disorder or other major mood disorder based on SCID-I; 2) no diagnosis of avoidant, paranoid, schizotypal, schizoid, or borderline personality disorders based on SCID-II; and 3) no first-degree relative with a psychotic disorder or BD based on self-report.
 19-1	2824-2833	Inclusion	_
 19-2	2834-2842	criteria	_
 19-3	2843-2846	for	_
@@ -549,6 +568,7 @@
 19-62	3171-3182	self-report	_
 19-63	3183-3184	.	_
 
+Text=We did not exclude controls for other Axis-I disorders, including obsessive-compulsive disorder or post-traumatic stress disorder.
 20-1	3185-3187	We	_
 20-2	3188-3191	did	_
 20-3	3192-3195	not	_
@@ -568,6 +588,7 @@
 20-17	3307-3315	disorder	_
 20-18	3316-3317	.	_
 
+Text=Additional inclusion criteria for all participants were: 1) age 18–65 years; 2) sufficient fluency in English to understand study procedures; 3) no evidence of IQ <70 or development disability based on medical record and/or the Wide Range Achievement Test, Reading-Recognition subtest; 4) no substance or alcohol dependence in the past three months and no evidence of substance or alcohol abuse in the past month; 5) no clinically significant neurological disorder that could affect cognitive function (e.g., epilepsy); 6) no loss of consciousness greater than one hour, neuropsychological sequelae or cognitive rehabilitation post head injury; 7) normal or corrected to normal vision; 8) no history of mood episode in the past two months; 9) no known contraindications for MRI scanning; and 10) no sedatives or benzodiazepines within 12 hours of testing and no positive urine toxicology screening on the day of assessment.
 21-1	3318-3328	Additional	_
 21-2	3329-3338	inclusion	_
 21-3	3339-3347	criteria	_
@@ -737,6 +758,7 @@
 21-167	4256-4266	assessment	_
 21-168	4267-4268	.	_
 
+Text=Clinical characteristics for patients were assessed with the Expanded 24-item version of the Brief Psychiatric Rating Scale (BPRS), the Clinical Assessment Interview for Negative Symptoms, Young Mania Rating Scale (YMRS), and Hamilton Depression Rating Scale (HAMD).
 22-1	4269-4277	Clinical	_
 22-2	4278-4293	characteristics	_
 22-3	4294-4297	for	_
@@ -784,6 +806,7 @@
 22-45	4542-4543	)	http://maven.renci.org/NeuroBridge/neurobridge#DepressionRatingScale
 22-46	4544-4545	.	_
 
+Text=Cognitive function was assessed using MATRICS Consensus Cognitive Battery.
 23-1	4546-4555	Cognitive	_
 23-2	4556-4564	function	_
 23-3	4565-4568	was	_
@@ -795,6 +818,7 @@
 23-9	4612-4619	Battery	_
 23-10	4620-4621	.	_
 
+Text=All interviewers were trained through the Treatment Unit of the Department of VA VISN 22 Mental Illness Research, Education, and Clinical Center.
 24-1	4622-4625	All	_
 24-2	4626-4638	interviewers	_
 24-3	4639-4643	were	_
@@ -821,6 +845,7 @@
 24-24	4762-4768	Center	_
 24-25	4769-4770	.	_
 
+Text=SCID interviewers were trained to a minimum kappa of 0.75 for key psychotic and mood items, and symptom raters were trained to a minimum intraclass correlation of 0.80.
 25-1	4771-4775	SCID	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders
 25-2	4776-4788	interviewers	_
 25-3	4789-4793	were	_
@@ -852,6 +877,7 @@
 25-29	4935-4939	0.80	_
 25-30	4940-4941	.	_
 
+Text=Procedures All participants completed the object discrimination task, along with two localizer tasks (EVC and LOC), in the MRI scanner.
 26-1	4942-4952	Procedures	_
 26-2	4953-4956	All	_
 26-3	4957-4969	participants	_
@@ -878,6 +904,7 @@
 26-24	5073-5080	scanner	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 26-25	5081-5082	.	_
 
+Text=The object discrimination task consisted of three conditions, each trial of which presented a pair of objects in sequence: 1) two of the same object (SS), 2) different exemplars from the same category (SD); and 3) different exemplars from different categories (DD).
 27-1	5083-5086	The	_
 27-2	5087-5093	object	_
 27-3	5094-5108	discrimination	_
@@ -935,6 +962,7 @@
 27-55	5359-5360	)	_
 27-56	5361-5362	.	_
 
+Text=Stimuli subtended approximately 6 degrees of visual angle and comprised two exemplars from five categories of common household objects (i.e., chair, couch, desk, glass, table).
 28-1	5363-5370	Stimuli	_
 28-2	5371-5380	subtended	_
 28-3	5381-5394	approximately	_
@@ -969,6 +997,7 @@
 28-32	5544-5545	)	_
 28-33	5546-5547	.	_
 
+Text=In a rapid event-related design, each trial started with two 100 ms flashes of a fixation cross.
 29-1	5548-5550	In	_
 29-2	5551-5552	a	_
 29-3	5553-5558	rapid	_
@@ -989,6 +1018,7 @@
 29-18	5639-5644	cross	_
 29-19	5645-5646	.	_
 
+Text=Then, a pair of objects was shown for 400 ms each, separated by a 200-ms interstimulus interval (Figure 1).
 30-1	5647-5651	Then	_
 30-2	5652-5653	,	_
 30-3	5654-5655	a	_
@@ -1014,6 +1044,7 @@
 30-23	5756-5757	)	_
 30-24	5758-5759	.	_
 
+Text=The two objects were presented in slightly different locations (jittered by approximately 1 degree of visual angle).
 31-1	5760-5763	The	_
 31-2	5764-5767	two	_
 31-3	5768-5775	objects	_
@@ -1035,6 +1066,7 @@
 31-19	5876-5877	)	_
 31-20	5878-5879	.	_
 
+Text=Participants were asked to decide whether the second object was the same as the first.
 32-1	5880-5892	Participants	_
 32-2	5893-5897	were	_
 32-3	5898-5903	asked	_
@@ -1052,6 +1084,7 @@
 32-15	5960-5965	first	_
 32-16	5966-5967	.	_
 
+Text=They had 2100 ms to make a response, and a complete trial lasted 3.5 seconds.
 33-1	5968-5972	They	_
 33-2	5973-5976	had	_
 33-3	5977-5981	2100	_
@@ -1070,6 +1103,7 @@
 33-16	6038-6045	seconds	_
 33-17	6046-6047	.	_
 
+Text=The task had 3 runs, each with 24 trials per condition and 24 null trials that included fixation but no stimuli.
 34-1	6048-6051	The	_
 34-2	6052-6056	task	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
 34-3	6057-6060	had	http://maven.renci.org/NeuroBridge/neurobridge#BackTaskTest
@@ -1094,6 +1128,7 @@
 34-22	6153-6160	stimuli	_
 34-23	6161-6162	.	_
 
+Text=Within each run, the order of trials was randomized using maximum-length shift register sequences or m-sequence.
 35-1	6163-6169	Within	_
 35-2	6170-6174	each	_
 35-3	6175-6178	run	_
@@ -1113,6 +1148,7 @@
 35-17	6265-6275	m-sequence	_
 35-18	6276-6277	.	_
 
+Text=Full descriptions of the two localizer tasks are provided elsewhere.
 36-1	6278-6282	Full	_
 36-2	6283-6295	descriptions	_
 36-3	6296-6298	of	_
@@ -1125,6 +1161,7 @@
 36-10	6336-6345	elsewhere	_
 36-11	6346-6347	.	_
 
+Text=For the EVC, participants viewed slowly rotating wedges of a contrast-reversing checkerboard.
 37-1	6348-6351	For	_
 37-2	6352-6355	the	_
 37-3	6356-6359	EVC	_
@@ -1140,6 +1177,7 @@
 37-13	6429-6441	checkerboard	_
 37-14	6442-6443	.	_
 
+Text=For the LOC localizer, participants viewed alternating blocked presentations of pictures of abstract sculptures and scrambled sculptures.
 38-1	6444-6447	For	_
 38-2	6448-6451	the	_
 38-3	6452-6455	LOC	_
@@ -1160,6 +1198,7 @@
 38-18	6571-6581	sculptures	_
 38-19	6582-6583	.	_
 
+Text=fMRI data acquisition All MR data were collected at the UCLA Staglin Center for Cognitive Neuroscience on a 3T Siemens Tim Trio scanner with a 12-channel head coil (Siemens Medical Solutions, Erlangen, Germany) using MR-compatible LCD goggles (Resonance Technology, Northridge, CA) (see Supplement for details).
 39-1	6584-6588	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 39-2	6589-6593	data	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
 39-3	6594-6605	acquisition	http://maven.renci.org/NeuroBridge/neurobridge#TaskParadigmImaging
@@ -1217,6 +1256,7 @@
 39-55	6903-6904	)	_
 39-56	6905-6906	.	_
 
+Text=All tasks were presented using E-prime software and behavioral performance was recorded using an MR-compatible 4-button response box (Resonance Technology, Northridge, CA).
 40-1	6907-6910	All	_
 40-2	6911-6916	tasks	_
 40-3	6917-6921	were	_
@@ -1245,6 +1285,7 @@
 40-26	7081-7082	)	_
 40-27	7083-7084	.	_
 
+Text=fMRI data analysis fMRI data were analyzed using the FMRIB Software Library (FSL version 5.0.9,).
 41-1	7085-7089	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
 41-2	7090-7094	data	_
 41-3	7095-7103	analysis	_
@@ -1265,6 +1306,7 @@
 41-18	7183-7184	)	_
 41-19	7185-7186	.	_
 
+Text=To examine neural adaptation for object, we conducted fMRI analyses in two complementary ways: an ROI-based analysis and an exploratory whole brain analysis.
 42-1	7187-7189	To	_
 42-2	7190-7197	examine	_
 42-3	7198-7204	neural	_
@@ -1292,6 +1334,7 @@
 42-25	7337-7345	analysis	_
 42-26	7346-7347	.	_
 
+Text=Additional details are provided in the Supplement.
 43-1	7348-7358	Additional	_
 43-2	7359-7366	details	_
 43-3	7367-7370	are	_
@@ -1301,6 +1344,7 @@
 43-7	7387-7397	Supplement	_
 43-8	7398-7399	.	_
 
+Text=In the ROI analysis, we first identified EVC and LOC in each participant using the functional localizer tasks.
 44-1	7400-7402	In	_
 44-2	7403-7406	the	_
 44-3	7407-7410	ROI	_
@@ -1322,6 +1366,7 @@
 44-19	7505-7510	tasks	_
 44-20	7511-7512	.	_
 
+Text=The EVC was defined as a set of contiguously activated voxels p <0.001, uncorrected; ≥ 10 voxels) on the medial surface of the occipital lobe that was temporally correlated with a sinusoid at the stimulus frequency.
 45-1	7513-7516	The	_
 45-2	7517-7520	EVC	_
 45-3	7521-7524	was	_
@@ -1364,6 +1409,7 @@
 45-40	7722-7731	frequency	_
 45-41	7732-7733	.	_
 
+Text=The EVC primarily includes, but is not limited to, V1.
 46-1	7734-7737	The	_
 46-2	7738-7741	EVC	_
 46-3	7742-7751	primarily	_
@@ -1378,6 +1424,7 @@
 46-12	7787-7789	V1	_
 46-13	7790-7791	.	_
 
+Text=LOC was identified as a cluster of contiguously activated voxels (object> scrambled) within the lateral occipital cortex bilaterally (p <0.001, uncorrected; ≥ 10 voxels).
 47-1	7792-7795	LOC	_
 47-2	7796-7799	was	_
 47-3	7800-7810	identified	_
@@ -1412,6 +1459,7 @@
 47-32	7968-7969	)	_
 47-33	7970-7971	.	_
 
+Text=Three groups did not differ in terms of the size of LOC (voxels, SZ=500 ± 764, BD=442±568, CO=560±664; F2,156=.42, NS) or EVC (voxels, SZ=3223±1691, BD=3790±1608, CO=3554±1432; F2,156=1.79, NS).
 48-1	7972-7977	Three	_
 48-2	7978-7984	groups	_
 48-3	7985-7988	did	_
@@ -1456,6 +1504,7 @@
 48-42	8178-8179	)	_
 48-43	8180-8181	.	_
 
+Text=See the Supplement for representative images of LOC and EVC.
 49-1	8182-8185	See	_
 49-2	8186-8189	the	_
 49-3	8190-8200	Supplement	_
@@ -1468,6 +1517,7 @@
 49-10	8238-8241	EVC	_
 49-11	8242-8243	.	_
 
+Text=After identifying each ROI for each participant, we extracted response-amplitudes for each ROI during the object discrimination task.
 50-1	8244-8249	After	_
 50-2	8250-8261	identifying	_
 50-3	8262-8266	each	_
@@ -1489,6 +1539,7 @@
 50-19	8373-8377	task	_
 50-20	8378-8379	.	_
 
+Text=Specifically, we modeled hemodynamic response functions (HRFs) for each condition using 7 finite impulse responses (FIR), one for each peristimulus time-point (total window = 17.5 s).
 51-1	8380-8392	Specifically	_
 51-2	8393-8394	,	_
 51-3	8395-8397	we	_
@@ -1525,6 +1576,7 @@
 51-34	8569-8570	)	_
 51-35	8571-8572	.	_
 
+Text=The FIR model is well suited to average each trial type in this study because it provides unbiased and statistically efficient estimates of hemodynamic responses associated with task conditions in a rapid event-related design with few assumptions about the exact shape of the HRF.
 52-1	8573-8576	The	_
 52-2	8577-8580	FIR	_
 52-3	8581-8586	model	_
@@ -1571,6 +1623,7 @@
 52-44	8849-8852	HRF	_
 52-45	8853-8854	.	_
 
+Text=Next, response amplitudes were calculated by averaging event-related responses across trials, separately for each condition, within each ROI.
 53-1	8855-8859	Next	_
 53-2	8860-8861	,	_
 53-3	8862-8870	response	_
@@ -1594,6 +1647,7 @@
 53-21	8995-8998	ROI	_
 53-22	8999-9000	.	_
 
+Text=To identify the peak activation, mean amplitudes of three peristimulus time-points (2.5, 5, and 7.5 s post-stimulus) were averaged for each condition in each ROI and utilized for further analyses.
 54-1	9001-9003	To	_
 54-2	9004-9012	identify	_
 54-3	9013-9016	the	_

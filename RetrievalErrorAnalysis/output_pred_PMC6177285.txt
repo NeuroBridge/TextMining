@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Resting-State Connectivity Biomarkers of Cognitive Performance and Social Function in Schizophrenia Spectrum Disorders and Healthy Controls Background Deficits in neurocognition and social cognition are drivers of reduced functioning in schizophrenia spectrum disorders (SSDs), with potentially shared neurobiological underpinnings.
 1-1	0-13	Resting-State	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging
 1-2	14-26	Connectivity	_
 1-3	27-37	Biomarkers	_
@@ -45,6 +46,7 @@
 1-41	321-334	underpinnings	_
 1-42	335-336	.	_
 
+Text=Many studies have sought to identify brain-based biomarkers of these clinical variables using a priori dichotomies (i.e., good vs. poor cognition, deficit vs. nondeficit syndrome).
 2-1	337-341	Many	_
 2-2	342-349	studies	_
 2-3	350-354	have	_
@@ -76,6 +78,7 @@
 2-29	519-520	)	_
 2-30	521-522	.	_
 
+Text=Methods We evaluated a fully data-driven approach to do the same by building and validating a brain-connectivity-based biomarker of social cognitive and neurocognitive performance in a sample using resting state and task-based fMRI (n=75/133 healthy controls/SSDs, 188 total).
 3-1	523-530	Methods	_
 3-2	531-533	We	_
 3-3	534-543	evaluated	_
@@ -119,6 +122,7 @@
 3-41	800-801	)	_
 3-42	802-803	.	_
 
+Text=We used canonical correlation analysis followed by clustering to identify a functional connectivity signature of normal and poorly-performing social cognitive and neurocognitive performance.
 4-1	804-806	We	_
 4-2	807-811	used	_
 4-3	812-821	canonical	_
@@ -144,6 +148,7 @@
 4-23	982-993	performance	_
 4-24	994-995	.	_
 
+Text=Results Those with poor social cognitive and neurocognitive performance were differentiated from those with normal performance by greater resting-state connectivity in the mirror neuron and mentalizing systems.
 5-1	996-1003	Results	_
 5-2	1004-1009	Those	_
 5-3	1010-1014	with	_
@@ -173,6 +178,7 @@
 5-27	1198-1205	systems	_
 5-28	1206-1207	.	_
 
+Text=We validated our findings by showing that poor-performers also scored lower on functional outcome measures not included in the original analysis, and demonstrating neuroanatomical differences between the normal and poorly-performing groups.
 6-1	1208-1210	We	_
 6-2	1211-1220	validated	_
 6-3	1221-1224	our	_
@@ -207,6 +213,7 @@
 6-32	1442-1448	groups	_
 6-33	1449-1450	.	_
 
+Text=We used a support vector machine classifier to demonstrate that functional connectivity alone is enough to distinguish normal and poorly-performing subjects, and replicated our findings in an independent sample (n=75 total).
 7-1	1451-1453	We	_
 7-2	1454-1458	used	_
 7-3	1459-1460	a	_
@@ -243,6 +250,7 @@
 7-34	1676-1677	)	_
 7-35	1678-1679	.	_
 
+Text=Conclusions A brief fMRI scan may ultimately be useful in future studies aimed at characterizing long term illness trajectories, and treatments that target specific brain circuitry in those with impaired cognition and function.
 8-1	1680-1691	Conclusions	_
 8-2	1692-1693	A	_
 8-3	1694-1699	brief	_
@@ -279,6 +287,7 @@
 8-34	1899-1907	function	_
 8-35	1908-1909	.	_
 
+Text=Methods We analyzed participant data from the three site Social Processes Initiative in Neurobiology of the Schizophrenia (s) (SPINS) study (n=188, age=33.0±10.2 years; SSD=133, age=34.1±10.1; controls=75, age=31.3±10.1).
 9-1	1910-1917	Methods	_
 9-2	1918-1920	We	_
 9-3	1921-1929	analyzed	_
@@ -319,6 +328,7 @@
 9-38	2140-2141	)	_
 9-39	2142-2143	.	_
 
+Text=Demographics are summarized in table 1, see table s5 for demographics at each site split by diagnosis.
 10-1	2144-2156	Demographics	_
 10-2	2157-2160	are	_
 10-3	2161-2171	summarized	_
@@ -339,6 +349,7 @@
 10-18	2237-2246	diagnosis	_
 10-19	2247-2248	.	_
 
+Text=See supplement for inclusion/exclusion criteria.
 11-1	2249-2252	See	_
 11-2	2253-2263	supplement	_
 11-3	2264-2267	for	_
@@ -346,6 +357,7 @@
 11-5	2288-2296	criteria	_
 11-6	2297-2298	.	_
 
+Text=All participants signed an informed consent agreement and the study was approved by institutional ethics boards at all participating institutions.
 12-1	2299-2302	All	_
 12-2	2303-2315	participants	_
 12-3	2316-2322	signed	_
@@ -368,6 +380,7 @@
 12-20	2432-2444	institutions	_
 12-21	2445-2446	.	_
 
+Text=All participants completed multiple assessments out of the MRI scanner.
 13-1	2447-2450	All	_
 13-2	2451-2463	participants	_
 13-3	2464-2473	completed	_
@@ -380,6 +393,7 @@
 13-10	2510-2517	scanner	_
 13-11	2518-2519	.	_
 
+Text=SC/NC functioning was assessed via the Penn Emotion Recognition Task (ER40), Reading the Mind in the Eyes Test (RMET), Relationships Across Domains (RAD), the three scales from the Awareness of Social Inference Test Revised (TASIT), and six neurocognitive domains of the MATRICS.
 14-1	2520-2525	SC/NC	http://maven.renci.org/NeuroBridge/neurobridge#Thing
 14-2	2526-2537	functioning	_
 14-3	2538-2541	was	_
@@ -436,6 +450,7 @@
 14-54	2803-2810	MATRICS	http://maven.renci.org/NeuroBridge/neurobridge#PediatricSleepQuestionnaire
 14-55	2811-2812	.	_
 
+Text=Social functioning and quality of life was assessed via the Birchwood Social Functioning Scale (BSFS) and Quality of Life Scale (QLS).
 15-1	2813-2819	Social	_
 15-2	2820-2831	functioning	_
 15-3	2832-2835	and	_
@@ -463,6 +478,7 @@
 15-25	2949-2950	)	http://maven.renci.org/NeuroBridge/neurobridge#QualityofLifeScale
 15-26	2951-2952	.	_
 
+Text=Psychiatric symptom burden was assessed via the Brief Psychiatric Rating Scale (BPRS) and Scale for the Assessment of Negative Symptoms (SANS).
 16-1	2953-2964	Psychiatric	_
 16-2	2965-2972	symptom	_
 16-3	2973-2979	burden	_
@@ -490,6 +506,7 @@
 16-25	3098-3099	)	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofNegativeSymptoms
 16-26	3100-3101	.	_
 
+Text=Two additional SANS-based measures of diminished emotional expression and poor motivation were included as they relate to functional outcomes in SSD.
 17-1	3102-3105	Two	_
 17-2	3106-3116	additional	_
 17-3	3117-3127	SANS-based	_
@@ -513,6 +530,7 @@
 17-21	3247-3250	SSD	http://maven.renci.org/NeuroBridge/neurobridge#AcuteStressDisorder
 17-22	3251-3252	.	_
 
+Text=Extrapyramidal symptoms were assessed via The Simpson-Angus Scale (SAS), general medical burden via the Cumulative Illness Rating Scale – Geriatrics (CIRSG) and antipsychotic medication exposure via chlorpromazine equivalents.
 18-1	3253-3267	Extrapyramidal	_
 18-2	3268-3276	symptoms	_
 18-3	3277-3281	were	_
@@ -548,6 +566,7 @@
 18-33	3472-3483	equivalents	_
 18-34	3484-3485	.	_
 
+Text=All sites used weekly phantom scans to ensure the stability of the T1-weighted, DTI, and EPI-based sequences over time.
 19-1	3486-3489	All	_
 19-2	3490-3495	sites	_
 19-3	3496-3500	used	_
@@ -571,6 +590,7 @@
 19-21	3602-3606	time	_
 19-22	3607-3608	.	_
 
+Text=At all sites, we implemented standardized operating protocols (SOPs) to minimize inter-site variance in how the data was collected and how the participants behaved.
 20-1	3609-3611	At	_
 20-2	3612-3615	all	_
 20-3	3616-3621	sites	_
@@ -600,6 +620,7 @@
 20-27	3768-3775	behaved	_
 20-28	3776-3777	.	_
 
+Text=These SOPs standardized the administration of all in and out-of-scanner tasks.
 21-1	3778-3783	These	_
 21-2	3784-3788	SOPs	_
 21-3	3789-3801	standardized	_
@@ -613,6 +634,7 @@
 21-11	3850-3855	tasks	_
 21-12	3856-3857	.	_
 
+Text=In addition, participants were trained on how to participate in all in-scanner tasks (including the resting state scan) with minimal head motion.
 22-1	3858-3860	In	_
 22-2	3861-3869	addition	_
 22-3	3870-3871	,	_
@@ -640,6 +662,7 @@
 22-25	3999-4005	motion	_
 22-26	4006-4007	.	_
 
+Text=An in-scanner camera was also employed to monitor participant movement during all scans.
 23-1	4008-4010	An	_
 23-2	4011-4021	in-scanner	_
 23-3	4022-4028	camera	_
@@ -655,6 +678,7 @@
 23-13	4090-4095	scans	_
 23-14	4096-4097	.	_
 
+Text=Finally, prior to analysis, all scans were checked for sufficient quality by experienced research staff, making use of in-house developed quality control system and accompanying dashboard (https: //github.com/TIGRLab/datman; https: //github.com/TIGRLab/dashboard).
 24-1	4098-4105	Finally	_
 24-2	4106-4107	,	_
 24-3	4108-4113	prior	_
@@ -695,6 +719,7 @@
 24-38	4368-4369	)	_
 24-39	4370-4371	.	_
 
+Text=Quality control involved both quantitative (e.g., framewise displacement, signal-to-noise measures) and qualitative monitoring (e.g., detecting ‘ sufficiently bad ’ ghosting or blurring by eye).
 25-1	4372-4379	Quality	_
 25-2	4380-4387	control	_
 25-3	4388-4396	involved	_
@@ -728,6 +753,7 @@
 25-31	4571-4572	)	_
 25-32	4573-4574	.	_
 
+Text=Some of results demonstrating inter-site stability have been documented in two recently published papers.
 26-1	4575-4579	Some	_
 26-2	4580-4582	of	_
 26-3	4583-4590	results	_
@@ -744,6 +770,7 @@
 26-14	4673-4679	papers	_
 26-15	4680-4681	.	_
 
+Text=We report participants who pass quality control after completing a T1-weighted and resting state (n=164) fMRI scan, imitate/observe (n=93) task, and empathic accuracy (n=183) task.
 27-1	4682-4684	We	_
 27-2	4685-4691	report	_
 27-3	4692-4704	participants	_
@@ -779,6 +806,7 @@
 27-33	4865-4869	task	_
 27-34	4870-4871	.	_
 
+Text=All three data types were analyzed via connectivity analysis, and the two tasks were also analyzed using a general linear model (GLM) to detect task activations using the original paper ’ s methods.
 28-1	4872-4875	All	_
 28-2	4876-4881	three	_
 28-3	4882-4886	data	_
@@ -817,6 +845,7 @@
 28-36	5065-5072	methods	_
 28-37	5073-5074	.	_
 
+Text=All connectivity data was preprocessed with FreeSurfer, AFNI, and FSL, including steps to minimize the impact of head motion artifact (i.e., nuisance parameter regression, removing high-motion timepoints, rejecting high motion subjects).
 29-1	5075-5078	All	_
 29-2	5079-5091	connectivity	_
 29-3	5092-5096	data	_
@@ -858,6 +887,7 @@
 29-39	5318-5319	)	_
 29-40	5320-5321	.	_
 
+Text=Both tasks also separately underwent standard task-based fMRI pre-processing.
 30-1	5322-5326	Both	_
 30-2	5327-5332	tasks	_
 30-3	5333-5337	also	_
@@ -869,6 +899,7 @@
 30-9	5384-5398	pre-processing	_
 30-10	5399-5400	.	_
 
+Text=For connectivity analysis, the Pearson ’ s correlation between the mean timeseries from each region of interest (ROI) in a 268-region atlas was calculated for a total of 35,778 r-values per participant.
 31-1	5401-5404	For	_
 31-2	5405-5417	connectivity	_
 31-3	5418-5426	analysis	_
@@ -906,6 +937,7 @@
 31-35	5594-5605	participant	_
 31-36	5606-5607	.	_
 
+Text=For task activations, the mean t-statistic from each ROI was calculated for a total of 268 t-values per participant.
 32-1	5608-5611	For	_
 32-2	5612-5616	task	_
 32-3	5617-5628	activations	_
@@ -928,12 +960,14 @@
 32-20	5713-5724	participant	_
 32-21	5725-5726	.	_
 
+Text=See supplement for details.
 33-1	5727-5730	See	_
 33-2	5731-5741	supplement	_
 33-3	5742-5745	for	_
 33-4	5746-5753	details	_
 33-5	5754-5755	.	_
 
+Text=The biotype analysis groups participants with similar brain connectivity/function in regions associated with the SC/NC variables.
 34-1	5756-5759	The	_
 34-2	5760-5767	biotype	_
 34-3	5768-5776	analysis	_
@@ -952,6 +986,7 @@
 34-16	5875-5884	variables	_
 34-17	5885-5886	.	_
 
+Text=First, we found a low-dimensional representation of cognitively-relevant brain connections/task-activations (defined here by the 12 SC/NC variables) using canonical correlation analysis (CCA), which is then clustered (hierarchical using Ward ’ s method) into groups of participants with similar brain connectivity/function in regions associated with the cognitive variable of interest.
 35-1	5887-5892	First	_
 35-2	5893-5894	,	_
 35-3	5895-5897	we	_
@@ -1011,6 +1046,7 @@
 35-57	6271-6279	interest	_
 35-58	6280-6281	.	_
 
+Text=Group differences in brain connectivity/function between biotypes were calculated (q [FDR] =0.05) to visualize these regions.
 36-1	6282-6287	Group	_
 36-2	6288-6299	differences	_
 36-3	6300-6302	in	_
@@ -1033,12 +1069,14 @@
 36-20	6403-6410	regions	_
 36-21	6411-6412	.	_
 
+Text=See supplement for details.
 37-1	6413-6416	See	_
 37-2	6417-6427	supplement	_
 37-3	6428-6431	for	_
 37-4	6432-6439	details	_
 37-5	6440-6441	.	_
 
+Text=We ranked the utility of each fMRI input (resting state, imitate/observe, and empathic accuracy) and analysis method (connectivity vs. task activations) by comparing SC/NC scores between biotypes.
 38-1	6442-6444	We	_
 38-2	6445-6451	ranked	_
 38-3	6452-6455	the	_
@@ -1074,6 +1112,7 @@
 38-33	6635-6643	biotypes	_
 38-34	6644-6645	.	_
 
+Text=We validated our biotypes by comparing functional outcome and symptom burden scores, which were not included in the original analysis.
 39-1	6646-6648	We	_
 39-2	6649-6658	validated	_
 39-3	6659-6662	our	_
@@ -1097,6 +1136,7 @@
 39-21	6772-6780	analysis	_
 39-22	6781-6782	.	_
 
+Text=For all SC/NC comparisons, we conducted a series of t-tests to contrast the mean score of each group after Z-scoring against the controls.
 40-1	6783-6786	For	_
 40-2	6787-6790	all	_
 40-3	6791-6796	SC/NC	_
@@ -1123,6 +1163,7 @@
 40-24	6913-6921	controls	_
 40-25	6922-6923	.	_
 
+Text=Functional outcome and symptom burden scores were Z-scored and analyzed using only SSDs.
 41-1	6924-6934	Functional	_
 41-2	6935-6942	outcome	_
 41-3	6943-6946	and	_
@@ -1138,6 +1179,7 @@
 41-13	7007-7011	SSDs	_
 41-14	7012-7013	.	_
 
+Text=All tests were corrected for multiple comparisons using false discovery rate (q [FDR] =0.05).
 42-1	7014-7017	All	_
 42-2	7018-7023	tests	_
 42-3	7024-7028	were	_
@@ -1158,6 +1200,7 @@
 42-18	7109-7110	)	_
 42-19	7111-7112	.	_
 
+Text=We further validated our biotypes using both FreeSurfer-derived cortical thickness and subcortical volumes, as well as tract-based spatial statistics-derived fractional anisotropy (FA) and mean diffusivity (MD).
 43-1	7113-7115	We	_
 43-2	7116-7123	further	_
 43-3	7124-7133	validated	_
@@ -1191,12 +1234,14 @@
 43-31	7327-7328	)	_
 43-32	7329-7330	.	_
 
+Text=See supplement for details.
 44-1	7331-7334	See	_
 44-2	7335-7345	supplement	_
 44-3	7346-7349	for	_
 44-4	7350-7357	details	_
 44-5	7358-7359	.	_
 
+Text=We assessed the relationship between the fMRI features and defined groups (biotypes, cognitive score-based, or diagnosis-based) by training a linear SVC (using 10-fold cross validation) to predict the group of held-out participants (test-set) using the fMRI features from a training set.
 45-1	7360-7362	We	_
 45-2	7363-7371	assessed	_
 45-3	7372-7375	the	_
@@ -1248,6 +1293,7 @@
 45-49	7651-7654	set	_
 45-50	7655-7656	.	_
 
+Text=Each column of the fMRI input matrix was Z-scored before training.
 46-1	7657-7661	Each	_
 46-2	7662-7668	column	_
 46-3	7669-7671	of	_
@@ -1261,6 +1307,7 @@
 46-11	7714-7722	training	_
 46-12	7723-7724	.	_
 
+Text=For all classification analyses conducted with biotype-groups, CCA and clustering was performed on the training set alone for each fold, to prevent any information sharing between the training and test set.
 47-1	7725-7728	For	_
 47-2	7729-7732	all	_
 47-3	7733-7747	classification	_
@@ -1296,6 +1343,7 @@
 47-33	7929-7932	set	_
 47-34	7933-7934	.	_
 
+Text=The mean accuracy, recall, precision, f1 score (harmonic mean of precision and recall), and area under the curve of the receiver operator characteristic (AUC) was calculated across all folds.
 48-1	7935-7938	The	_
 48-2	7939-7943	mean	_
 48-3	7944-7952	accuracy	_
@@ -1335,6 +1383,7 @@
 48-37	8128-8133	folds	_
 48-38	8134-8135	.	_
 
+Text=For all cognitive-score based group analyses, we split participants into a normal and poorly-performing group based on a percentile split of the first principal component of the 12 SC/NC scores.
 49-1	8136-8139	For	_
 49-2	8140-8143	all	_
 49-3	8144-8159	cognitive-score	_
@@ -1368,6 +1417,7 @@
 49-31	8324-8330	scores	_
 49-32	8331-8332	.	_
 
+Text=We took diagnosis-prediction performance as baseline.
 50-1	8333-8335	We	_
 50-2	8336-8340	took	_
 50-3	8341-8361	diagnosis-prediction	_
@@ -1376,6 +1426,7 @@
 50-6	8377-8385	baseline	_
 50-7	8386-8387	.	_
 
+Text=See figure s1 for an overview, and supplement for details.
 51-1	8388-8391	See	_
 51-2	8392-8398	figure	_
 51-3	8399-8401	s1	_
@@ -1389,6 +1440,7 @@
 51-11	8439-8446	details	_
 51-12	8447-8448	.	_
 
+Text=To rank the utility of the fMRI features, we compared their ability to split the sample into groups with large SC/NC score differences via the t-scores computed comparing SC/NC scores between biotypes (we report the mean t statistic across the 12 SC/NC scores assessed between groups in each case), and their performance when used to train a SVC to predict the biotype of held-out participants via the mean test-set AUC computed during cross-validation.
 52-1	8449-8451	To	_
 52-2	8452-8456	rank	_
 52-3	8457-8460	the	_
@@ -1468,6 +1520,7 @@
 52-77	8889-8905	cross-validation	_
 52-78	8906-8907	.	_
 
+Text=Each biotype model must surpass baseline SC/NC score differences between diagnostic groups to be considered useful.
 53-1	8908-8912	Each	_
 53-2	8913-8920	biotype	_
 53-3	8921-8926	model	_
@@ -1486,6 +1539,7 @@
 53-16	9016-9022	useful	_
 53-17	9023-9024	.	_
 
+Text=While SC/NC score differences between biotypes are expected given that CCA selected fMRI features with a strong relationship to the SC/NC, the magnitude of the between-group differences should modulate depending on the strength of that relationship.
 54-1	9025-9030	While	_
 54-2	9031-9036	SC/NC	_
 54-3	9037-9042	score	_
@@ -1525,6 +1579,7 @@
 54-37	9262-9274	relationship	_
 54-38	9275-9276	.	_
 
+Text=We then attempted to replicate our main fMRI findings an independent sample of 75 participants who completed the resting state and imitate/observe tasks; see supplement for details.
 55-1	9277-9279	We	_
 55-2	9280-9284	then	_
 55-3	9285-9294	attempted	_
@@ -1555,6 +1610,7 @@
 55-28	9451-9458	details	_
 55-29	9459-9460	.	_
 
+Text=The analysis code is packaged as a freely-available tool ‘ xbrain ’ (www.github.com/josephdviviano/xbrain), and the follow-up scripts used to analyze the outputs of xbrain can be found here (www.github.com/josephdviviano/biotype).
 56-1	9461-9464	The	_
 56-2	9465-9473	analysis	_
 56-3	9474-9478	code	_

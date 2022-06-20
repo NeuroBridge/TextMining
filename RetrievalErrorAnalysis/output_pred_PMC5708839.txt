@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Graph-based analysis of brain connectivity in schizophrenia The present study evaluated brain connectivity using electroencephalography (EEG) data from 14 patients with schizophrenia and 14 healthy controls.
 1-1	0-11	Graph-based	_
 1-2	12-20	analysis	_
 1-3	21-23	of	_
@@ -32,6 +33,7 @@
 1-28	200-208	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 1-29	209-210	.	_
 
+Text=Phase-Locking Value (PLV), Phase-Lag Index (PLI) and Directed Transfer Function (DTF) were calculated for the original EEG data and following current source density (CSD) transformation, re-referencing using the average reference electrode (AVERAGE) and reference electrode standardization techniques (REST).
 2-1	211-224	Phase-Locking	_
 2-2	225-230	Value	_
 2-3	231-232	(	_
@@ -86,6 +88,7 @@
 2-52	531-532	)	_
 2-53	533-534	.	_
 
+Text=The statistical analysis of adjacency matrices was carried out using indices based on graph theory.
 3-1	535-538	The	_
 3-2	539-550	statistical	_
 3-3	551-559	analysis	_
@@ -103,6 +106,7 @@
 3-15	627-633	theory	_
 3-16	634-635	.	_
 
+Text=Both CSD and REST reduced the influence of volume conducted currents.
 4-1	636-640	Both	_
 4-2	641-644	CSD	_
 4-3	645-648	and	_
@@ -116,6 +120,7 @@
 4-11	696-704	currents	_
 4-12	705-706	.	_
 
+Text=The largest group differences in connectivity were observed for the alpha band.
 5-1	707-710	The	_
 5-2	711-718	largest	_
 5-3	719-724	group	_
@@ -130,6 +135,7 @@
 5-12	781-785	band	_
 5-13	786-787	.	_
 
+Text=Schizophrenic patients showed reduced connectivity strength, as well as a lower clustering coefficient and shorter characteristic path length for both measures of phase synchronization following CSD transformation or REST re-referencing.
 6-1	788-801	Schizophrenic	_
 6-2	802-810	patients	_
 6-3	811-817	showed	_
@@ -163,6 +169,7 @@
 6-31	1011-1025	re-referencing	_
 6-32	1026-1027	.	_
 
+Text=Reduced synchronization was accompanied by increased directional flow from the occipital region for the alpha band.
 7-1	1028-1035	Reduced	_
 7-2	1036-1051	synchronization	_
 7-3	1052-1055	was	_
@@ -181,6 +188,7 @@
 7-16	1138-1142	band	_
 7-17	1143-1144	.	_
 
+Text=Following the REST re-referencing, the sources of alpha activity were located at parietal rather than occipital derivations.
 8-1	1145-1154	Following	_
 8-2	1155-1158	the	_
 8-3	1159-1163	REST	_
@@ -201,6 +209,7 @@
 8-18	1258-1269	derivations	_
 8-19	1270-1271	.	_
 
+Text=The results of PLV and DTF demonstrated group differences in fronto-posterior asymmetry following CSD transformation, while for PLI the differences were significant only using REST.
 9-1	1272-1275	The	_
 9-2	1276-1283	results	_
 9-3	1284-1286	of	_
@@ -229,6 +238,7 @@
 9-26	1449-1453	REST	_
 9-27	1454-1455	.	_
 
+Text=The only analysis that identified group differences in inter-hemispheric asymmetry was DTF calculated for REST.
 10-1	1456-1459	The	_
 10-2	1460-1464	only	_
 10-3	1465-1473	analysis	_
@@ -246,6 +256,7 @@
 10-15	1562-1566	REST	_
 10-16	1567-1568	.	_
 
+Text=Our results suggest that a comparison of different connectivity measures using graph-based indices for each frequency band, separately, may be a useful tool in the study of disconnectivity disorders such as schizophrenia.
 11-1	1569-1572	Our	_
 11-2	1573-1580	results	_
 11-3	1581-1588	suggest	_
@@ -282,6 +293,7 @@
 11-34	1778-1791	schizophrenia	_
 11-35	1792-1793	.	_
 
+Text=Materials and methods Participant recruitment The study comprised of 14 patients (7 males: 27.9 ± 3.3 years, 7 females: 28.3 ± 4.1 years) with paranoid schizophrenia, who were hospitalized at the Institute of Psychiatry and Neurology in Warsaw, Poland, and 14 healthy controls (7 males: 26.8 ± 2.9, 7 females: 28.7 ± 3.4 years).
 12-1	1794-1803	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-2	1804-1807	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 12-3	1808-1815	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -351,6 +363,7 @@
 12-67	2133-2134	)	_
 12-68	2135-2136	.	_
 
+Text=The patients met International Classification of Diseases ICD–10 criteria for paranoid schizophrenia (category F20.0).
 13-1	2137-2140	The	_
 13-2	2141-2149	patients	_
 13-3	2150-2153	met	_
@@ -369,6 +382,7 @@
 13-16	2255-2256	)	_
 13-17	2257-2258	.	_
 
+Text=Study protocol was approved by the Ethics Committee of the Institute of Psychiatry and Neurology in Warsaw.
 14-1	2259-2264	Study	_
 14-2	2265-2273	protocol	_
 14-3	2274-2277	was	_
@@ -388,6 +402,7 @@
 14-17	2359-2365	Warsaw	_
 14-18	2366-2367	.	_
 
+Text=All participants received a written description of the protocol and provided written consent to take part in this study.
 15-1	2368-2371	All	_
 15-2	2372-2384	participants	_
 15-3	2385-2393	received	_
@@ -409,6 +424,7 @@
 15-19	2482-2487	study	_
 15-20	2488-2489	.	_
 
+Text=Inclusion criteria were: a minimum age of 18, ICD-10 diagnosis F20.0, and medication washout period of a minimum of seven days.
 16-1	2490-2499	Inclusion	_
 16-2	2500-2508	criteria	_
 16-3	2509-2513	were	_
@@ -435,6 +451,7 @@
 16-24	2615-2619	days	_
 16-25	2620-2621	.	_
 
+Text=Exclusion criteria were: pregnancy, organic brain pathology, severe neurological diseases (e.g.
 17-1	2622-2631	Exclusion	_
 17-2	2632-2640	criteria	_
 17-3	2641-2645	were	_
@@ -452,6 +469,7 @@
 17-15	2717-2720	e.g	_
 17-16	2721-2722	.	_
 
+Text=epilepsy, Alzheimer ’ s, or Parkinson disease), presence of a general medical condition, and very early stage of schizophrenia, i.e., first episode of schizophrenia.
 18-1	2723-2731	epilepsy	_
 18-2	2732-2733	,	_
 18-3	2734-2743	Alzheimer	_
@@ -485,6 +503,7 @@
 18-31	2881-2894	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 18-32	2895-2896	.	_
 
+Text=The control group was matched in gender and age to the 14 patients completing the study.
 19-1	2897-2900	The	_
 19-2	2901-2908	control	_
 19-3	2909-2914	group	_
@@ -503,6 +522,7 @@
 19-16	2979-2984	study	_
 19-17	2985-2986	.	_
 
+Text=EEG recording and preprocessing Fifteen minutes of EEG data were recorded in all subjects during an eyes-closed resting state condition.
 20-1	2987-2990	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 20-2	2991-3000	recording	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 20-3	3001-3004	and	_
@@ -525,6 +545,7 @@
 20-20	3113-3122	condition	_
 20-21	3123-3124	.	_
 
+Text=Data were acquired with the sampling frequency of 250 Hz using the standard 10–20 EEG montage with 19 EEG channels: Fp1, Fp2, F7, F3, Fz, F4, F8, T3, C3, Cz, C4, T4, T5, P3, Pz, P4, T6, O1, O2.
 21-1	3125-3129	Data	_
 21-2	3130-3134	were	_
 21-3	3135-3143	acquired	_
@@ -585,6 +606,7 @@
 21-58	3334-3336	O2	_
 21-59	3337-3338	.	_
 
+Text=The reference electrode was placed at FCz.
 22-1	3339-3342	The	_
 22-2	3343-3352	reference	_
 22-3	3353-3362	electrode	_
@@ -594,6 +616,7 @@
 22-7	3377-3380	FCz	_
 22-8	3381-3382	.	_
 
+Text=EEG analysis was carried out using thirty second segments without artefacts (i.e.
 23-1	3383-3386	EEG	_
 23-2	3387-3395	analysis	_
 23-3	3396-3399	was	_
@@ -609,6 +632,7 @@
 23-13	3461-3464	i.e	_
 23-14	3465-3466	.	_
 
+Text=eye movements, cardiac activity, muscle contractions).
 24-1	3467-3470	eye	_
 24-2	3471-3480	movements	_
 24-3	3481-3482	,	_
@@ -620,6 +644,7 @@
 24-9	3522-3523	)	_
 24-10	3524-3525	.	_
 
+Text=Then, the signals of each EEG channel were filtered using a Butterworth filter of order 2 in the following physiological frequency bands: 2–4 Hz (delta), 4.5–7.5 Hz (theta), 8–12.5 Hz (alpha), 13–30 Hz (beta), 30–45 Hz (gamma).
 25-1	3526-3530	Then	_
 25-2	3531-3532	,	_
 25-3	3533-3536	the	_
@@ -675,6 +700,7 @@
 25-53	3767-3768	)	_
 25-54	3769-3770	.	_
 
+Text=EEG analysis was carried out using the raw EEG data, as well as the re-referenced data relative to scalp surface Laplacian estimators (commonly referred to as current source density (CSD)), the average reference electrode (AVERAGE), and the reference electrode standardization techniques (REST).
 26-1	3771-3774	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
 26-2	3775-3783	analysis	_
 26-3	3784-3787	was	_
@@ -730,6 +756,7 @@
 26-53	4075-4076	)	_
 26-54	4077-4078	.	_
 
+Text=This permitted us to examine the potential effect of reference electrode choice on connectivity results.
 27-1	4079-4083	This	_
 27-2	4084-4093	permitted	_
 27-3	4094-4096	us	_
@@ -747,6 +774,7 @@
 27-15	4175-4182	results	_
 27-16	4183-4184	.	_
 
+Text=CSD transformation was calculated using the CSD Toolbox, which allows for estimation of surface potentials using a spherical spline algorithm.
 28-1	4185-4188	CSD	_
 28-2	4189-4203	transformation	_
 28-3	4204-4207	was	_
@@ -770,6 +798,7 @@
 28-21	4318-4327	algorithm	_
 28-22	4328-4329	.	_
 
+Text=REST was carried out using the REST Toolbox (http: //www.neuro.uestc.edu.cn/rest/).
 29-1	4330-4334	REST	_
 29-2	4335-4338	was	_
 29-3	4339-4346	carried	_
@@ -785,6 +814,7 @@
 29-13	4414-4415	)	_
 29-14	4416-4417	.	_
 
+Text=REST is a method that allows for the transformation of original EEG data—with the reference electrode placed at an arbitrary point on the head—to a new dataset with the reference at infinity and the potential at zero or a constant.
 30-1	4418-4422	REST	_
 30-2	4423-4425	is	_
 30-3	4426-4427	a	_
@@ -827,6 +857,7 @@
 30-40	4640-4648	constant	_
 30-41	4649-4650	.	_
 
+Text=The procedure is based on the calculation of the leadfield matrix for the canonical concentric-three-spheres head model.
 31-1	4651-4654	The	_
 31-2	4655-4664	procedure	_
 31-3	4665-4667	is	_
@@ -846,6 +877,7 @@
 31-17	4765-4770	model	_
 31-18	4771-4772	.	_
 
+Text=The current widely recommended reference is the REST.
 32-1	4773-4776	The	_
 32-2	4777-4784	current	_
 32-3	4785-4791	widely	_
@@ -856,6 +888,7 @@
 32-8	4821-4825	REST	_
 32-9	4826-4827	.	_
 
+Text=It was shown that the relative error of REST is always smaller than AVERAGE and it decreases by increasing the number of channels in contrast to the error of AVERAGE.
 33-1	4828-4830	It	_
 33-2	4831-4834	was	_
 33-3	4835-4840	shown	_
@@ -888,6 +921,7 @@
 33-30	4986-4993	AVERAGE	_
 33-31	4994-4995	.	_
 
+Text=Moreover, considering that the CSD transform is free from reference effects, we expected a greater correlation between CSD and REST than between CSD and another reference electrode.
 34-1	4996-5004	Moreover	_
 34-2	5005-5006	,	_
 34-3	5007-5018	considering	_
@@ -919,6 +953,7 @@
 34-29	5169-5178	electrode	_
 34-30	5179-5180	.	_
 
+Text=Connectivity measures EEG data were analyzed using three connectivity methods: Phase-Locking Value, Phase-Lag Index, and Directed Transfer Function, as well as indices based on graph theory.
 35-1	5181-5193	Connectivity	_
 35-2	5194-5202	measures	_
 35-3	5203-5206	EEG	http://maven.renci.org/NeuroBridge/neurobridge#Electroencephalogram
@@ -951,6 +986,7 @@
 35-30	5368-5374	theory	_
 35-31	5375-5376	.	_
 
+Text=Below, is the brief theoretical basis for each method.
 36-1	5377-5382	Below	_
 36-2	5383-5384	,	_
 36-3	5385-5387	is	_
@@ -963,6 +999,7 @@
 36-10	5425-5431	method	_
 36-11	5432-5433	.	_
 
+Text=Phase-locking value The amplitude A (t) and the instantaneous phase Ф (t) of a signal s (t) can be estimated using the Hilbert transform H {·}: The analytic signal z (t) can be understood as an embedding of the one dimensional time-series in the two dimensional complex plane.
 37-1	5434-5447	Phase-locking	_
 37-2	5448-5453	value	_
 37-3	5454-5457	The	_
@@ -1024,6 +1061,7 @@
 37-59	5715-5720	plane	_
 37-60	5721-5722	.	_
 
+Text=The phase is computed by the following expression: The phase synchronization is defined as the locking of phases of two oscillators: where Φ1 (t) and Φ2 (t) denote the phases of the oscillators, and Φ12 (t) is defined as their relative phase.
 38-1	5723-5726	The	_
 38-2	5727-5732	phase	_
 38-3	5733-5735	is	_
@@ -1077,6 +1115,7 @@
 38-51	5968-5973	phase	_
 38-52	5974-5975	.	_
 
+Text=The phase-locking value (PLV) is defined as: where i–imaginary unit; N–the total number of samples; Φ12 –the relative phase of two signals; Δt–time between the successive samples j from 1 to N-1.
 39-1	5976-5979	The	_
 39-2	5980-5993	phase-locking	_
 39-3	5994-5999	value	_
@@ -1117,6 +1156,7 @@
 39-38	6173-6176	N-1	_
 39-39	6177-6178	.	_
 
+Text=The value of PLV is bounded between zero and one with zero indicating unsynchronized phases and one indicating when the phase difference is constant, i.e.
 40-1	6179-6182	The	_
 40-2	6183-6188	value	_
 40-3	6189-6191	of	_
@@ -1145,6 +1185,7 @@
 40-26	6330-6333	i.e	_
 40-27	6334-6335	.	_
 
+Text=the synchronization of signals is perfect.
 41-1	6336-6339	the	_
 41-2	6340-6355	synchronization	_
 41-3	6356-6358	of	_
@@ -1153,6 +1194,7 @@
 41-6	6370-6377	perfect	_
 41-7	6378-6379	.	_
 
+Text=A decrease of the phase-locking value between two signals indicates a loss of synchronization between them.
 42-1	6380-6381	A	_
 42-2	6382-6390	decrease	_
 42-3	6391-6393	of	_
@@ -1171,6 +1213,7 @@
 42-16	6482-6486	them	_
 42-17	6487-6488	.	_
 
+Text=Phase-Lag Index Phase-Lag Index (PLI) was introduced to reduce the impact of common sources (e.g., volume conduction and/or active reference electrodes in the case of EEG) in the estimation of phase synchronization.
 43-1	6489-6498	Phase-Lag	_
 43-2	6499-6504	Index	_
 43-3	6505-6514	Phase-Lag	_
@@ -1210,6 +1253,7 @@
 43-37	6693-6708	synchronization	_
 43-38	6709-6710	.	_
 
+Text=An asymmetry index for the distribution of phase differences centered around 0 mod π, is defined as: where–π <ΔΦ (tn) ≤ π, n = 1…N is a time series of phase differences.
 44-1	6711-6713	An	_
 44-2	6714-6723	asymmetry	_
 44-3	6724-6729	index	_
@@ -1250,6 +1294,7 @@
 44-38	6874-6885	differences	_
 44-39	6886-6887	.	_
 
+Text=The PLI ranges between zero and one, with zero indicating either no coupling or coupling with a phase difference centered around 0 mod π, and one indicating perfect phase locking at a value of ΔΦ different from 0 mod π.
 45-1	6888-6891	The	_
 45-2	6892-6895	PLI	_
 45-3	6896-6902	ranges	_
@@ -1294,6 +1339,7 @@
 45-42	7107-7108	π	_
 45-43	7109-7110	.	_
 
+Text=Directed Transfer Function Directed Transfer Function (DTF) is a measure based on Granger Causality, but defined in the frequency domain: For a multivariate k-channel process: X (t) = (X1 (t), X2 (t), …, Xk (t)), the multivariate autoregressive model takes the form: where E (t) is a k–dimensional vector, is a square k x k matrix.
 46-1	7111-7119	Directed	_
 46-2	7120-7128	Transfer	_
 46-3	7129-7137	Function	_
@@ -1375,6 +1421,7 @@
 46-79	7458-7464	matrix	_
 46-80	7465-7466	.	_
 
+Text=Transforming the multivariate autoregressive model to the frequency domain we obtain: The matrix of coefficients H is called the transfer matrix.
 47-1	7467-7479	Transforming	_
 47-2	7480-7483	the	_
 47-3	7484-7496	multivariate	_
@@ -1399,6 +1446,7 @@
 47-22	7606-7612	matrix	_
 47-23	7613-7614	.	_
 
+Text=The Directed Transfer Function is defined as a normalized version of the transfer matrix: The following relation should be satisfied to guarantee the quality of fitting of the model: where N is the window length; d is the model order; and k is the number of EEG channels.
 48-1	7615-7618	The	_
 48-2	7619-7627	Directed	_
 48-3	7628-7636	Transfer	_
@@ -1453,6 +1501,7 @@
 48-52	7881-7889	channels	_
 48-53	7890-7891	.	_
 
+Text=The model order was estimated using the Akaike information criterion.
 49-1	7892-7895	The	_
 49-2	7896-7901	model	_
 49-3	7902-7907	order	_
@@ -1465,6 +1514,7 @@
 49-10	7951-7960	criterion	_
 49-11	7961-7962	.	_
 
+Text=In this paper the model order d was set to 10.
 50-1	7963-7965	In	_
 50-2	7966-7970	this	_
 50-3	7971-7976	paper	_
@@ -1478,6 +1528,7 @@
 50-11	8006-8008	10	_
 50-12	8009-8010	.	_
 
+Text=Graph analysis All of the measures (PLV, PLI, DTF) were calculated from 30-second EEG epochs subdivided into three consecutive 10-second trials.
 51-1	8011-8016	Graph	_
 51-2	8017-8025	analysis	_
 51-3	8026-8029	All	_
@@ -1505,6 +1556,7 @@
 51-25	8152-8158	trials	_
 51-26	8159-8160	.	_
 
+Text=For each connectivity measure, matrices of significant connections (the so-called adjacency matrices) were produced for each frequency band separately, as well as for whole spectrum, and used as weighted adjacency matrices.
 52-1	8161-8164	For	_
 52-2	8165-8169	each	_
 52-3	8170-8182	connectivity	_
@@ -1543,6 +1595,7 @@
 52-36	8380-8388	matrices	_
 52-37	8389-8390	.	_
 
+Text=To assure the correct estimation of the autoregressive model, the DTF was calculated in the whole frequency band, and then the adjacency matrices were identified for individual frequency bands separately.
 53-1	8391-8393	To	_
 53-2	8394-8400	assure	_
 53-3	8401-8404	the	_
@@ -1577,6 +1630,7 @@
 53-32	8586-8596	separately	_
 53-33	8597-8598	.	_
 
+Text=The adjacency matrices were analyzed using indices based on graph theory.
 54-1	8599-8602	The	_
 54-2	8603-8612	adjacency	_
 54-3	8613-8621	matrices	_
@@ -1590,6 +1644,7 @@
 54-11	8665-8671	theory	_
 54-12	8672-8673	.	_
 
+Text=In graph theory, the brain is modeled as a graph composed of nodes, representing brain regions or EEG channels, and undirected or directed links between them, representing functional connections determined by PLV, PLI and DTF.
 55-1	8674-8676	In	_
 55-2	8677-8682	graph	_
 55-3	8683-8689	theory	_
@@ -1632,6 +1687,7 @@
 55-40	8901-8904	DTF	_
 55-41	8905-8906	.	_
 
+Text=The connectivity measures were calculated using algorithms included in the MATLAB Toolbox—HERMES (http: //hermes.ctb.upm.es), while the graph-based indices were calculated using MATLAB functions embedded in the Brain Connectivity Toolbox (http: //www.brain-connectivity-toolbox.net).
 56-1	8907-8910	The	_
 56-2	8911-8923	connectivity	_
 56-3	8924-8932	measures	_
@@ -1672,6 +1728,7 @@
 56-38	9195-9196	)	_
 56-39	9197-9198	.	_
 
+Text=For each of the obtained graphs, the following indices were calculated: (1) basic measures (i.e., density, degree, and strength); (2) measure of integration (i.e., characteristic path length); (3) measure of segregation (i.e., clustering coefficient).
 57-1	9199-9202	For	_
 57-2	9203-9207	each	_
 57-3	9208-9210	of	_
@@ -1729,6 +1786,7 @@
 57-55	9469-9470	)	_
 57-56	9471-9472	.	_
 
+Text=Additionally, measures of asymmetry (i.e., DFP, IFP, DLR, ILR) were calculated.
 58-1	9473-9485	Additionally	_
 58-2	9486-9487	,	_
 58-3	9488-9496	measures	_
@@ -1749,6 +1807,7 @@
 58-18	9548-9558	calculated	_
 58-19	9559-9560	.	_
 
+Text=The degree of an individual node is equal to the number of links connected to that node, which, in practice, is also equal to the number of neighbors of the node.
 59-1	9561-9564	The	_
 59-2	9565-9571	degree	_
 59-3	9572-9574	of	_
@@ -1785,6 +1844,7 @@
 59-34	9721-9725	node	_
 59-35	9726-9727	.	_
 
+Text=Individual values of the degree therefore reflect the relative importance of a node in the network.
 60-1	9728-9738	Individual	_
 60-2	9739-9745	values	_
 60-3	9746-9748	of	_
@@ -1803,6 +1863,7 @@
 60-16	9819-9826	network	_
 60-17	9827-9828	.	_
 
+Text=The mean network degree is commonly used as a measure of the graph density, or of the total “ wiring cost ” of the network.
 61-1	9829-9832	The	_
 61-2	9833-9837	mean	_
 61-3	9838-9845	network	_
@@ -1831,6 +1892,7 @@
 61-26	9945-9952	network	_
 61-27	9953-9954	.	_
 
+Text=The directed variant of the degree distinguishes the number of inward links from the number of outward links, while the weighted variant of the degree, termed the strength, is defined as the sum of all neighboring link weights.
 62-1	9955-9958	The	_
 62-2	9959-9967	directed	_
 62-3	9968-9975	variant	_
@@ -1874,6 +1936,7 @@
 62-41	10177-10184	weights	_
 62-42	10185-10186	.	_
 
+Text=Measures of integration estimate the ease of communication between distributed nodes.
 63-1	10187-10195	Measures	_
 63-2	10196-10198	of	_
 63-3	10199-10210	integration	_
@@ -1887,6 +1950,7 @@
 63-11	10266-10271	nodes	_
 63-12	10272-10273	.	_
 
+Text=Specifically, the characteristic path length is defined as the average shortest path length between all pairs of nodes in the network.
 64-1	10274-10286	Specifically	_
 64-2	10287-10288	,	_
 64-3	10289-10292	the	_
@@ -1911,6 +1975,7 @@
 64-22	10401-10408	network	_
 64-23	10409-10410	.	_
 
+Text=Measures of segregation characterize the ability for specialized processing within densely interconnected groups of nodes (clusters or modules).
 65-1	10411-10419	Measures	_
 65-2	10420-10422	of	_
 65-3	10423-10434	segregation	_
@@ -1933,6 +1998,7 @@
 65-20	10555-10556	)	_
 65-21	10557-10558	.	_
 
+Text=The clustering coefficient is defined as the fraction of the node's neighbors that are also neighbors of each other.
 66-1	10559-10562	The	_
 66-2	10563-10573	clustering	_
 66-3	10574-10585	coefficient	_
@@ -1955,6 +2021,7 @@
 66-20	10670-10675	other	_
 66-21	10676-10677	.	_
 
+Text=Displacement and influence were introduced to analyze asymmetry between frontal and posterior parts of brain, as well as between left and right hemispheres.
 67-1	10678-10690	Displacement	_
 67-2	10691-10694	and	_
 67-3	10695-10704	influence	_
@@ -1981,6 +2048,7 @@
 67-24	10823-10834	hemispheres	_
 67-25	10835-10836	.	_
 
+Text=These measures are defined as follows: where D–displacement; I–influence; k–number of all EEG channels, i.e.
 68-1	10837-10842	These	_
 68-2	10843-10851	measures	_
 68-3	10852-10855	are	_
@@ -2002,6 +2070,7 @@
 68-19	10945-10948	i.e	_
 68-20	10949-10950	.	_
 
+Text=the number of rows or columns in the connectivity matrix; kF−number of connections within the frontal half of the brain (the first k/2 rows and the first k/2 columns of connectivity matrix); kP−number of connections within the posterior half of the brain (the last k/2 rows and the last k/2 columns); kP→F−number of connections from posterior to frontal areas of the brain (the first k/2 rows and the last k/2 columns of connectivity matrix); kF→P−number of connections from frontal to posterior areas of the brain (the last k/2 rows and the first k/2 columns of connectivity matrix).
 69-1	10951-10954	the	_
 69-2	10955-10961	number	_
 69-3	10962-10964	of	_
@@ -2113,6 +2182,7 @@
 69-109	11545-11546	)	_
 69-110	11547-11548	.	_
 
+Text=By analogy, the measures of asymmetry between the left and right hemispheres (DLR, ILR) are defined.
 70-1	11549-11551	By	_
 70-2	11552-11559	analogy	_
 70-3	11560-11561	,	_
@@ -2135,6 +2205,7 @@
 70-20	11645-11652	defined	_
 70-21	11653-11654	.	_
 
+Text=Statistical analysis In the adjacency matrix, only the connectivity values above a significance threshold of 0.05 were considered, while all non-significant values were set to zero.
 71-1	11655-11666	Statistical	_
 71-2	11667-11675	analysis	_
 71-3	11676-11678	In	_
@@ -2165,6 +2236,7 @@
 71-28	11833-11837	zero	_
 71-29	11838-11839	.	_
 
+Text=The significance of the connectivity values was determined by surrogate data analysis.
 72-1	11840-11843	The	_
 72-2	11844-11856	significance	_
 72-3	11857-11859	of	_
@@ -2179,6 +2251,7 @@
 72-12	11917-11925	analysis	_
 72-13	11926-11927	.	_
 
+Text=The surrogate data method involves maintaining the amplitudes while destroying the phase relationship between the original signals by randomly shuffling the data in the frequency domain and then transforming them back to the time domain.
 73-1	11928-11931	The	_
 73-2	11932-11941	surrogate	_
 73-3	11942-11946	data	_
@@ -2216,6 +2289,7 @@
 73-35	12158-12164	domain	_
 73-36	12165-12166	.	_
 
+Text=The significance was tested by comparing values from the original data to values obtained from surrogate data.
 74-1	12167-12170	The	_
 74-2	12171-12183	significance	_
 74-3	12184-12187	was	_
@@ -2235,6 +2309,7 @@
 74-17	12272-12276	data	_
 74-18	12277-12278	.	_
 
+Text=The number of surrogates, which were calculated for each signal, was 100.
 75-1	12279-12282	The	_
 75-2	12283-12289	number	_
 75-3	12290-12292	of	_
@@ -2251,6 +2326,7 @@
 75-14	12350-12353	100	_
 75-15	12354-12355	.	_
 
+Text=To evidence different connectivity patterns between the two groups (i.e., healthy persons and patients with schizophrenia) a three-way ANOVA model was separately applied to the following indices for each metric: degree and strength.
 76-1	12356-12358	To	_
 76-2	12359-12367	evidence	_
 76-3	12368-12377	different	_
@@ -2290,6 +2366,7 @@
 76-37	12583-12591	strength	_
 76-38	12592-12593	.	_
 
+Text=The ANOVA had the following factors: Group, Band (delta; theta; alpha; beta; gamma), and EEG channels (system of 19 channels: Fp1, Fp2, F7, F3, Fz, F4, F8, T3, C3, Cz, C4, T4, T5, P3, Pz, P4, T6, O1, and O2).
 77-1	12594-12597	The	_
 77-2	12598-12603	ANOVA	_
 77-3	12604-12607	had	_
@@ -2362,6 +2439,7 @@
 77-70	12830-12831	)	_
 77-71	12832-12833	.	_
 
+Text=Moreover, a two-way ANOVA model with variables: Group and EEG channels, was analyzed for the same indices in each band separately.
 78-1	12834-12842	Moreover	_
 78-2	12843-12844	,	_
 78-3	12845-12846	a	_
@@ -2388,6 +2466,7 @@
 78-24	12956-12966	separately	_
 78-25	12967-12968	.	_
 
+Text=A two-way ANOVA model with variables: Group and Band, was analyzed for density, characteristic path length, clustering coefficient, displacement and influence.
 79-1	12969-12970	A	_
 79-2	12971-12978	two-way	_
 79-3	12979-12984	ANOVA	_
@@ -2416,6 +2495,7 @@
 79-26	13123-13132	influence	_
 79-27	13133-13134	.	_
 
+Text=In case of significant effects, post hoc tests (Bonferroni correction) were performed.
 80-1	13135-13137	In	_
 80-2	13138-13142	case	_
 80-3	13143-13145	of	_
@@ -2433,6 +2513,7 @@
 80-15	13214-13223	performed	_
 80-16	13224-13225	.	_
 
+Text=The statistical threshold was set at p <0.05, with correction for multiple comparisons by controlling the family wise error (FWE).
 81-1	13226-13229	The	_
 81-2	13230-13241	statistical	_
 81-3	13242-13251	threshold	_

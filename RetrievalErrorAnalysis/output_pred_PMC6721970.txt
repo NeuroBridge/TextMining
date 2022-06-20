@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Associations between drinking and cortical thickness in younger adult drinkers: Findings from the Human Connectome Project Background.
 1-1	0-12	Associations	_
 1-2	13-20	between	_
 1-3	21-29	drinking	_
@@ -22,6 +23,7 @@
 1-18	124-134	Background	_
 1-19	135-136	.	_
 
+Text=Previous neuroimaging studies examining relations between alcohol misuse and cortical thickness have revealed that increased drinking quantity and alcohol-related problems are associated with thinner cortex.
 2-1	137-145	Previous	_
 2-2	146-158	neuroimaging	_
 2-3	159-166	studies	_
@@ -49,6 +51,7 @@
 2-25	337-343	cortex	_
 2-26	344-345	.	_
 
+Text=Although conflicting regional effects are often observed, associations are generally localized to frontal regions (e.g., dorsolateral prefrontal cortex (DLPFC), inferior frontal gyrus (IFG), and anterior cingulate cortex).
 3-1	346-354	Although	_
 3-2	355-366	conflicting	_
 3-3	367-375	regional	_
@@ -88,6 +91,7 @@
 3-37	576-577	)	_
 3-38	578-579	.	_
 
+Text=Inconsistent findings may be attributed to methodological differences, modest sample sizes, and limited consideration of sex differences.
 4-1	580-592	Inconsistent	_
 4-2	593-601	findings	_
 4-3	602-605	may	_
@@ -109,9 +113,11 @@
 4-19	707-718	differences	_
 4-20	719-720	.	_
 
+Text=Method.
 5-1	721-727	Method	_
 5-2	728-729	.	_
 
+Text=This study examined neuroanatomical correlates of drinking quantity and heavy episodic drinking in a large sample of younger adults (N=706; M age = 28.8; 51% female) using magnetic resonance imaging data from the Human Connectome Project.
 6-1	730-734	This	_
 6-2	735-740	study	_
 6-3	741-749	examined	_
@@ -155,6 +161,7 @@
 6-41	965-972	Project	_
 6-42	973-974	.	_
 
+Text=Exploratory analyses examined neuroanatomical correlates of executive function (flanker task) and working memory (list sorting).
 7-1	975-986	Exploratory	_
 7-2	987-995	analyses	_
 7-3	996-1004	examined	_
@@ -176,9 +183,11 @@
 7-19	1105-1106	)	_
 7-20	1107-1108	.	_
 
+Text=Results.
 8-1	1109-1116	Results	_
 8-2	1117-1118	.	_
 
+Text=Hierarchical linear regression models (controlling for age, sex, education, income, smoking, drug use, twin status, and intracranial volume) revealed significant inverse associations between drinks in past week and frequency of heavy drinking and cortical thickness in a majority of regions examined.
 9-1	1119-1131	Hierarchical	_
 9-2	1132-1138	linear	_
 9-3	1139-1149	regression	_
@@ -231,6 +240,7 @@
 9-50	1419-1427	examined	_
 9-51	1428-1429	.	_
 
+Text=The largest effect sizes were found for frontal regions (DLPFC, IFG, and the precentral gyrus).
 10-1	1430-1433	The	_
 10-2	1434-1441	largest	_
 10-3	1442-1448	effect	_
@@ -252,6 +262,7 @@
 10-19	1527-1528	)	_
 10-20	1529-1530	.	_
 
+Text=Follow-up regression models revealed that the left DLPFC was uniquely associated with both drinking variables.
 11-1	1531-1540	Follow-up	_
 11-2	1541-1551	regression	_
 11-3	1552-1558	models	_
@@ -269,6 +280,7 @@
 11-15	1631-1640	variables	_
 11-16	1641-1642	.	_
 
+Text=Sex differences were also observed, with significant effects largely specific to men.
 12-1	1643-1646	Sex	_
 12-2	1647-1658	differences	_
 12-3	1659-1663	were	_
@@ -284,9 +296,11 @@
 12-13	1725-1728	men	_
 12-14	1729-1730	.	_
 
+Text=Conclusions.
 13-1	1731-1742	Conclusions	_
 13-2	1743-1744	.	_
 
+Text=This study adds to the understanding of brain correlates of alcohol use in a large, gender-balanced sample of younger adults.
 14-1	1745-1749	This	_
 14-2	1750-1755	study	_
 14-3	1756-1760	adds	_
@@ -310,6 +324,7 @@
 14-21	1864-1870	adults	_
 14-22	1871-1872	.	_
 
+Text=Although the cross-sectional methodology precludes causal inferences, these findings provide a foundation for rigorous hypothesis testing in future longitudinal investigations.
 15-1	1873-1881	Although	_
 15-2	1882-1885	the	_
 15-3	1886-1901	cross-sectional	_
@@ -333,6 +348,7 @@
 15-21	2035-2049	investigations	_
 15-22	2050-2051	.	_
 
+Text=Materials and Methods Participants Structural MRI brain scans were drawn from the 1200 Subjects HCP dataset (released March 1, 2017; available at http: //www.humanconnectome.org/).
 16-1	2052-2061	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 16-2	2062-2065	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 16-3	2066-2073	Methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -364,6 +380,7 @@
 16-29	2235-2236	)	_
 16-30	2237-2238	.	_
 
+Text=The primary HCP participant pool consisted of community adults between the ages of 22–37.
 17-1	2239-2242	The	_
 17-2	2243-2250	primary	_
 17-3	2251-2254	HCP	_
@@ -380,6 +397,7 @@
 17-14	2322-2327	22–37	_
 17-15	2328-2329	.	_
 
+Text=Participants were excluded from the HCP study if they had a history of neurodevelopmental, neuropsychiatric, or neurological disorders, as well as significant medical conditions such as diabetes or high blood pressure.
 18-1	2330-2342	Participants	_
 18-2	2343-2347	were	_
 18-3	2348-2356	excluded	_
@@ -416,6 +434,7 @@
 18-34	2542-2550	pressure	_
 18-35	2551-2552	.	_
 
+Text=The use of drugs or tobacco were not exclusionary and these variables were included as covariates in all analyses (see below).
 19-1	2553-2556	The	_
 19-2	2557-2560	use	_
 19-3	2561-2563	of	_
@@ -441,6 +460,7 @@
 19-23	2679-2680	)	_
 19-24	2681-2682	.	_
 
+Text=The current study sample consisted of HCP participants who reported consuming at least one alcoholic drink in the past-week retrospective alcohol assessment (details below), resulting in a sample of 711 participants.
 20-1	2683-2686	The	_
 20-2	2687-2694	current	_
 20-3	2695-2700	study	_
@@ -477,6 +497,7 @@
 20-34	2889-2901	participants	_
 20-35	2902-2903	.	_
 
+Text=An additional 5 participants were excluded due to incomplete data (3 did not complete the drinking assessments, and 2 did not provide full demographic information).
 21-1	2904-2906	An	_
 21-2	2907-2917	additional	_
 21-3	2918-2919	5	_
@@ -507,6 +528,7 @@
 21-28	3069-3070	)	_
 21-29	3071-3072	.	_
 
+Text=The final sample consisted of 706 participants.
 22-1	3073-3076	The	_
 22-2	3077-3082	final	_
 22-3	3083-3089	sample	_
@@ -516,6 +538,7 @@
 22-7	3107-3119	participants	_
 22-8	3120-3121	.	_
 
+Text=Assessments Access to restricted participant demographic and clinical data was granted via written authorization from the HCP Connectome Coordination Facility.
 23-1	3122-3133	Assessments	_
 23-2	3134-3140	Access	_
 23-3	3141-3143	to	_
@@ -538,6 +561,7 @@
 23-20	3272-3280	Facility	_
 23-21	3281-3282	.	_
 
+Text=Participants completed the Semi-Structured Assessment for the Genetics of Alcoholism (SSAGA,).
 24-1	3283-3295	Participants	_
 24-2	3296-3305	completed	_
 24-3	3306-3309	the	_
@@ -554,6 +578,7 @@
 24-14	3378-3379	)	_
 24-15	3380-3381	.	_
 
+Text=The SSAGA assesses physical, psychological, and social symptoms of alcohol abuse and dependence as well as other psychiatric disorders using DSM-III-R and DSM-IV criteria.
 25-1	3382-3385	The	_
 25-2	3386-3391	SSAGA	_
 25-3	3392-3400	assesses	_
@@ -582,6 +607,7 @@
 25-26	3546-3554	criteria	_
 25-27	3555-3556	.	_
 
+Text=The SSAGA also covers general demographic information, medical history, information about tobacco and drug use, and other mental health variables.
 26-1	3557-3560	The	_
 26-2	3561-3566	SSAGA	_
 26-3	3567-3571	also	_
@@ -607,6 +633,7 @@
 26-23	3696-3705	variables	_
 26-24	3706-3707	.	_
 
+Text=Participants also completed a seven-day retrospective report of alcohol and tobacco use.
 27-1	3708-3720	Participants	_
 27-2	3721-3725	also	_
 27-3	3726-3735	completed	_
@@ -621,6 +648,7 @@
 27-12	3792-3795	use	_
 27-13	3796-3797	.	_
 
+Text=Participants provided a commercially available urine drug screen for biochemical testing of recent drug use.
 28-1	3798-3810	Participants	_
 28-2	3811-3819	provided	_
 28-3	3820-3821	a	_
@@ -638,6 +666,7 @@
 28-15	3902-3905	use	_
 28-16	3906-3907	.	_
 
+Text=Two neurocognitive measures from the HCP behavioral assessment battery were assessed here.
 29-1	3908-3911	Two	_
 29-2	3912-3926	neurocognitive	_
 29-3	3927-3935	measures	_
@@ -652,6 +681,7 @@
 29-12	3993-3997	here	_
 29-13	3998-3999	.	_
 
+Text=These measures were drawn from the NIH Toolbox (http: //www.healthmeasures.net/exploremeasurement-systems/nih-toolbox), including a measure of executive function/inhibition (flanker task) and a measure of working memory (list sorting).
 30-1	4000-4005	These	_
 30-2	4006-4014	measures	_
 30-3	4015-4019	were	_
@@ -688,6 +718,7 @@
 30-34	4241-4242	)	_
 30-35	4243-4244	.	_
 
+Text=Full details of the HCP behavioral measures are provided elsewhere.
 31-1	4245-4249	Full	_
 31-2	4250-4257	details	_
 31-3	4258-4260	of	_
@@ -700,6 +731,7 @@
 31-10	4302-4311	elsewhere	_
 31-11	4312-4313	.	_
 
+Text=Alcohol Variables Two alcohol variables from the HCP dataset were examined in the current study.
 32-1	4314-4321	Alcohol	_
 32-2	4322-4331	Variables	_
 32-3	4332-4335	Two	_
@@ -717,6 +749,7 @@
 32-15	4404-4409	study	_
 32-16	4410-4411	.	_
 
+Text=The first, “ Total drinks in past 7 days ”, was taken from the retrospective alcohol use assessment.
 33-1	4412-4415	The	_
 33-2	4416-4421	first	_
 33-3	4422-4423	,	_
@@ -739,6 +772,7 @@
 33-20	4503-4513	assessment	_
 33-21	4514-4515	.	_
 
+Text=The second, “ Frequency of drinking 5+ drinks in past 12 months ”, was taken from the SSAGA assessment.
 34-1	4516-4519	The	_
 34-2	4520-4526	second	_
 34-3	4527-4528	,	_
@@ -762,6 +796,7 @@
 34-21	4610-4620	assessment	_
 34-22	4621-4622	.	_
 
+Text=This variable was coded categorically in the HCP dataset, but the coding for the highest frequency differed for males and females (i.e., the maximum response of 3+ days/week was coded as 1 for males, but 2 for females).
 35-1	4623-4627	This	_
 35-2	4628-4636	variable	_
 35-3	4637-4640	was	_
@@ -807,6 +842,7 @@
 35-43	4845-4846	)	_
 35-44	4847-4848	.	_
 
+Text=The next lowest value (1–2 days/week) was coded as 2 for both males and females.
 36-1	4849-4852	The	_
 36-2	4853-4857	next	_
 36-3	4858-4864	lowest	_
@@ -826,6 +862,7 @@
 36-17	4923-4930	females	_
 36-18	4931-4932	.	_
 
+Text=Therefore, no distinction could be made between 1–2 vs. 3+ days/week for females.
 37-1	4933-4942	Therefore	_
 37-2	4943-4944	,	_
 37-3	4945-4947	no	_
@@ -842,6 +879,7 @@
 37-14	5007-5014	females	_
 37-15	5015-5016	.	_
 
+Text=To standardize the maximum response, the data were recoded as follows (and reverse-scored such that higher values reflect greater frequency): 1 = never; 1–11 days/year = 2; 13 days/month = 3; weekly or greater = 4.
 38-1	5017-5019	To	_
 38-2	5020-5031	standardize	_
 38-3	5032-5035	the	_
@@ -887,6 +925,7 @@
 38-43	5236-5237	4	_
 38-44	5238-5239	.	_
 
+Text=Selection of these two alcohol variables was based on previous research examining continuous associations between recent drinking quantity and cortical thickness (e.g.,) and prior research that focused specifically on structural brain correlates of binge drinking as a unique predictor of cortical thickness differences (e.g.,).
 39-1	5240-5249	Selection	_
 39-2	5250-5252	of	_
 39-3	5253-5258	these	_
@@ -939,6 +978,7 @@
 39-50	5572-5573	)	_
 39-51	5574-5575	.	_
 
+Text=MRI Data Acquisition and Data Quality Control High-resolution T1-weighted structural images were collected on a 3T Siemens Skyra scanner (Siemens AG, Erlanger, Germany) with a 32-channel head coil (for full acquisition protocol, see).
 40-1	5576-5579	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 40-2	5580-5584	Data	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 40-3	5585-5596	Acquisition	_
@@ -981,6 +1021,7 @@
 40-40	5815-5816	)	_
 40-41	5817-5818	.	_
 
+Text=Briefly, images were acquired with a 0.7 mm3 isotropic resolution (FOV = 224 × 240, matrix = 320 × 320, 256 sagittal slices; TR = 2400 ms and TE = 2.14 ms).
 41-1	5819-5826	Briefly	_
 41-2	5827-5828	,	_
 41-3	5829-5835	images	_
@@ -1021,6 +1062,7 @@
 41-38	5979-5980	)	_
 41-39	5981-5982	.	_
 
+Text=Following MRI, each structural scan was examined by a trained rater to assess the overall quality of the scan ’ s contrast, blurring, ringing, and other possible artifacts.
 42-1	5983-5992	Following	_
 42-2	5993-5996	MRI	http://maven.renci.org/NeuroBridge/neurobridge#MagneticResonanceImaging
 42-3	5997-5998	,	_
@@ -1055,6 +1097,7 @@
 42-32	6149-6158	artifacts	_
 42-33	6159-6160	.	_
 
+Text=Only the scans rated as excellent were released as part of the HCP dataset.
 43-1	6161-6165	Only	_
 43-2	6166-6169	the	_
 43-3	6170-6175	scans	_
@@ -1071,6 +1114,7 @@
 43-14	6228-6235	dataset	_
 43-15	6236-6237	.	_
 
+Text=For full explanation of HCP quality control procedures, see.
 44-1	6238-6241	For	_
 44-2	6242-6246	full	_
 44-3	6247-6258	explanation	_
@@ -1083,6 +1127,7 @@
 44-10	6295-6298	see	_
 44-11	6299-6300	.	_
 
+Text=FreeSurfer Processing Pipelines Cortical thickness data were generated using the HCP minimal preprocessing pipeline described in.
 45-1	6301-6311	FreeSurfer	_
 45-2	6312-6322	Processing	_
 45-3	6323-6332	Pipelines	_
@@ -1101,6 +1146,7 @@
 45-16	6427-6429	in	_
 45-17	6430-6431	.	_
 
+Text=In the first part of the pipeline, PreFreeSurfer is used to produce a clear structural volume space for each subject, align the images, perform a B1 correction, and register the subject ’ s structural volume space to the MNI space.
 46-1	6432-6434	In	_
 46-2	6435-6438	the	_
 46-3	6439-6444	first	_
@@ -1147,6 +1193,7 @@
 46-44	6661-6666	space	_
 46-45	6667-6668	.	_
 
+Text=The second part of the pipeline is based on FreeSurfer version 5.2 (http: //surfer.nmr.mgh.harvard.edu).
 47-1	6669-6672	The	_
 47-2	6673-6679	second	_
 47-3	6680-6684	part	_
@@ -1166,6 +1213,7 @@
 47-17	6774-6775	)	_
 47-18	6776-6777	.	_
 
+Text=This pipeline ensures that the volume is segmented into predefined structures, that the white and pial surfaces are reconstructed, and that FreeSurfer ’ s folding based surface registration (to the surface atlas fsaverage) is performed.
 48-1	6778-6782	This	_
 48-2	6783-6791	pipeline	_
 48-3	6792-6799	ensures	_
@@ -1207,6 +1255,7 @@
 48-39	7008-7017	performed	_
 48-40	7018-7019	.	_
 
+Text=Structural data analyzed for the current study came from this second step.
 49-1	7020-7030	Structural	_
 49-2	7031-7035	data	_
 49-3	7036-7044	analyzed	_
@@ -1221,6 +1270,7 @@
 49-12	7089-7093	step	_
 49-13	7094-7095	.	_
 
+Text=This pipeline generates 34 anatomical regions of interest (ROIs) per cortical hemisphere.
 50-1	7096-7100	This	_
 50-2	7101-7109	pipeline	_
 50-3	7110-7119	generates	_
@@ -1237,6 +1287,7 @@
 50-14	7176-7186	hemisphere	_
 50-15	7187-7188	.	_
 
+Text=The mean cortical thickness in each of the 68 ROIs was provided per person in the HCP public dataset.
 51-1	7189-7192	The	_
 51-2	7193-7197	mean	_
 51-3	7198-7206	cortical	_
@@ -1258,6 +1309,7 @@
 51-19	7282-7289	dataset	_
 51-20	7290-7291	.	_
 
+Text=Selection of Regions of Interest We examined cortical thickness in a series of a priori regions that were chosen based on previous studies on cortical thickness in alcohol use samples.
 52-1	7292-7301	Selection	_
 52-2	7302-7304	of	_
 52-3	7305-7312	Regions	_
@@ -1290,6 +1342,7 @@
 52-30	7468-7475	samples	_
 52-31	7476-7477	.	_
 
+Text=Specifically, we identified 18 bilateral ROIs that have shown significant differences in at least one of these prior studies.
 53-1	7478-7490	Specifically	_
 53-2	7491-7492	,	_
 53-3	7493-7495	we	_
@@ -1312,6 +1365,7 @@
 53-20	7596-7603	studies	_
 53-21	7604-7605	.	_
 
+Text=Following conventions used in prior studies (e.g.,), a subset of these regions were combined into composite regions corresponding to the ACC, OFC, IFG, and DLPFC, reducing the number of regions from 18 to 12.
 54-1	7606-7615	Following	_
 54-2	7616-7627	conventions	_
 54-3	7628-7632	used	_
@@ -1356,6 +1410,7 @@
 54-42	7819-7821	12	_
 54-43	7822-7823	.	_
 
+Text=The ACC composite region was created by combining the caudal and rostral ACC segments.
 55-1	7824-7827	The	_
 55-2	7828-7831	ACC	_
 55-3	7832-7841	composite	_
@@ -1372,6 +1427,7 @@
 55-14	7901-7909	segments	_
 55-15	7910-7911	.	_
 
+Text=The DLPFC composite was created by combining the caudal MFG, rostral MFG, and the SFG segments.
 56-1	7912-7915	The	_
 56-2	7916-7921	DLPFC	_
 56-3	7922-7931	composite	_
@@ -1392,6 +1448,7 @@
 56-18	8000-8008	segments	_
 56-19	8009-8010	.	_
 
+Text=Lastly, the OFC composite was created by combining the lateral and medial OFC segments.
 57-1	8011-8017	Lastly	_
 57-2	8018-8019	,	_
 57-3	8020-8023	the	_
@@ -1409,6 +1466,7 @@
 57-15	8090-8098	segments	_
 57-16	8099-8100	.	_
 
+Text=The only previous study to observe significant results for the IFG did not indicate a specific sub-component of the IFG (pars opercularis, pars orbitalis, pars triangularis), so these three regions were combined into a single IFG composite region.
 58-1	8101-8104	The	_
 58-2	8105-8109	only	_
 58-3	8110-8118	previous	_
@@ -1454,6 +1512,7 @@
 58-43	8346-8352	region	_
 58-44	8353-8354	.	_
 
+Text=The final list of 12 a priori ROIs and the studies reporting differences in these areas is provided in Table 1.
 59-1	8355-8358	The	_
 59-2	8359-8364	final	_
 59-3	8365-8369	list	_
@@ -1477,6 +1536,7 @@
 59-21	8464-8465	1	_
 59-22	8466-8467	.	_
 
+Text=The anatomical locations of individual ROIs and composite regions are depicted in Figure 1.
 60-1	8468-8471	The	_
 60-2	8472-8482	anatomical	_
 60-3	8483-8492	locations	_
@@ -1493,6 +1553,7 @@
 60-14	8557-8558	1	_
 60-15	8559-8560	.	_
 
+Text=These ROIs were examined separately for the left and right hemispheres using the average cortical thickness values for each region provided in the HCP dataset.
 61-1	8561-8566	These	_
 61-2	8567-8571	ROIs	_
 61-3	8572-8576	were	_
@@ -1520,6 +1581,7 @@
 61-25	8712-8719	dataset	_
 61-26	8720-8721	.	_
 
+Text=Data Analytic Plan Selection of the covariates was based on previous work that has shown that age (e.g.,), sex (e.g.,), socioeconomic status (e.g.,), education (e.g.,), use of tobacco (e.g.,) and cannabis and other drug use (e.g.,) are significantly associated with variation in cortical thickness.
 62-1	8722-8726	Data	_
 62-2	8727-8735	Analytic	_
 62-3	8736-8740	Plan	_
@@ -1588,6 +1650,7 @@
 62-66	9032-9041	thickness	_
 62-67	9042-9043	.	_
 
+Text=Twin status (i.e., monozygotic or not; dizygotic or not) was included given the twin enrichment of the HCP dataset.
 63-1	9044-9048	Twin	_
 63-2	9049-9055	status	_
 63-3	9056-9057	(	_
@@ -1613,6 +1676,7 @@
 63-23	9155-9162	dataset	_
 63-24	9163-9164	.	_
 
+Text=Estimated total intracranial volume was included to control for differences in overall head size.
 64-1	9165-9174	Estimated	_
 64-2	9175-9180	total	_
 64-3	9181-9193	intracranial	_
@@ -1629,6 +1693,7 @@
 64-14	9257-9261	size	_
 64-15	9262-9263	.	_
 
+Text=Hierarchical multiple linear regression models were conducted to examine associations between cortical thickness indices and alcohol variables.
 65-1	9264-9276	Hierarchical	_
 65-2	9277-9285	multiple	_
 65-3	9286-9292	linear	_
@@ -1648,6 +1713,7 @@
 65-17	9397-9406	variables	_
 65-18	9407-9408	.	_
 
+Text=Separate regression models were calculated for each of the ROIs.
 66-1	9409-9417	Separate	_
 66-2	9418-9428	regression	_
 66-3	9429-9435	models	_
@@ -1660,6 +1726,7 @@
 66-10	9468-9472	ROIs	_
 66-11	9473-9474	.	_
 
+Text=Step one of the models included age, sex, education, income, twin status, total intracranial volume, tobacco use, cannabis use, and other drug use as covariates.
 67-1	9475-9479	Step	_
 67-2	9480-9483	one	_
 67-3	9484-9486	of	_
@@ -1695,6 +1762,7 @@
 67-33	9633-9643	covariates	_
 67-34	9644-9645	.	_
 
+Text=On the SSAGA, tobacco use was defined as total tobacco use in the past 7 days, cannabis use was defined as the total times participants reported using marijuana on the SSAGA; and other illicit drug use was defined as the total times participants reporting cocaine, hallucinogens, opiates, sedatives or other drugs on the SSAGA.
 68-1	9646-9648	On	_
 68-2	9649-9652	the	_
 68-3	9653-9658	SSAGA	_
@@ -1757,6 +1825,7 @@
 68-60	9973-9978	SSAGA	_
 68-61	9979-9980	.	_
 
+Text=In addition to the selfreport drug use variables, a binary variable was calculated based on any positive screen on the urine drug test (1 = any positive; 0 = all negative).
 69-1	9981-9983	In	_
 69-2	9984-9992	addition	_
 69-3	9993-9995	to	_
@@ -1794,6 +1863,7 @@
 69-35	10155-10156	)	_
 69-36	10157-10158	.	_
 
+Text=Each cortical thickness ROI was added in the second step of the model and change in R2 was examined.
 70-1	10159-10163	Each	_
 70-2	10164-10172	cortical	_
 70-3	10173-10182	thickness	_
@@ -1815,6 +1885,7 @@
 70-19	10250-10258	examined	_
 70-20	10259-10260	.	_
 
+Text=Separate regression models were calculated for drinks in past week and frequency of heavy drinking.
 71-1	10261-10269	Separate	_
 71-2	10270-10280	regression	_
 71-3	10281-10287	models	_
@@ -1832,6 +1903,7 @@
 71-15	10351-10359	drinking	_
 71-16	10360-10361	.	_
 
+Text=Given the relatively large number of ROIs, we applied a two-tailed False Discovery Rate (FDR) correction of q <.05 to reduce inflation of type I error rate in the individual regression analyses.
 72-1	10362-10367	Given	_
 72-2	10368-10371	the	_
 72-3	10372-10382	relatively	_
@@ -1870,6 +1942,7 @@
 72-36	10551-10559	analyses	_
 72-37	10560-10561	.	_
 
+Text=We then conducted an iterative regression analysis to determine the unique contributions of the ROIs that were significantly associated with the drinking variables in the individual regression models, after correcting for multiple comparisons (similar to the approach used in.
 73-1	10562-10564	We	_
 73-2	10565-10569	then	_
 73-3	10570-10579	conducted	_
@@ -1913,6 +1986,7 @@
 73-41	10837-10839	in	_
 73-42	10840-10841	.	_
 
+Text=In these models, individual ROIs that were found to be associated with alcohol use at FDR q <.05 in the previous step were entered sequentially starting with the largest effect size and proceeding to the smallest effect size.
 74-1	10842-10844	In	_
 74-2	10845-10850	these	_
 74-3	10851-10857	models	_
@@ -1955,6 +2029,7 @@
 74-40	11064-11068	size	_
 74-41	11069-11070	.	_
 
+Text=At each iteration, ROIs that significantly increased the variance explained by the model (i.e., had a significant ΔR2) were retained in the model.
 75-1	11071-11073	At	_
 75-2	11074-11078	each	_
 75-3	11079-11088	iteration	_
@@ -1984,6 +2059,7 @@
 75-27	11215-11220	model	_
 75-28	11221-11222	.	_
 
+Text=The iterative regression analysis used a conventional significance level of p <.05 and 95% confidence intervals are reported for regression coefficients.
 76-1	11223-11226	The	_
 76-2	11227-11236	iterative	_
 76-3	11237-11247	regression	_
@@ -2009,6 +2085,7 @@
 76-23	11365-11377	coefficients	_
 76-24	11378-11379	.	_
 
+Text=Finally, we conducted two exploratory analyses.
 77-1	11380-11387	Finally	_
 77-2	11388-11389	,	_
 77-3	11390-11392	we	_
@@ -2018,6 +2095,7 @@
 77-7	11419-11427	analyses	_
 77-8	11428-11429	.	_
 
+Text=First, we examined potential sex difference associations between cortical thickness and the alcohol variables by repeating the primary analyses (i.e., the hierarchical multiple linear regression models) including an interaction term that was calculated by standardizing each region and sex, then multiplying each region by sex.
 78-1	11430-11435	First	_
 78-2	11436-11437	,	_
 78-3	11438-11440	we	_
@@ -2070,6 +2148,7 @@
 78-50	11758-11761	sex	_
 78-51	11762-11763	.	_
 
+Text=All 24 ROIs were examined and an FDR of q <.05 was used.
 79-1	11764-11767	All	_
 79-2	11768-11770	24	_
 79-3	11771-11775	ROIs	_
@@ -2086,6 +2165,7 @@
 79-14	11816-11820	used	_
 79-15	11821-11822	.	_
 
+Text=Continuous associations between cortical thickness in the 24 ROIs and cognitive performance on the flanker and list sorting tasks were explored using Pearson correlations with an FDR of q <.05 applied.
 80-1	11823-11833	Continuous	_
 80-2	11834-11846	associations	_
 80-3	11847-11854	between	_

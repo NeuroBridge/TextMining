@@ -2,6 +2,7 @@
 #T_SP=webanno.custom.ConceptLayer|identifier
 
 
+Text=Linked functional network abnormalities during intrinsic and extrinsic activity in schizophrenia as revealed by a data-fusion approach Abnormalities in functional brain networks in schizophrenia have been studied by examining intrinsic and extrinsic brain activity under various experimental paradigms.
 1-1	0-6	Linked	_
 1-2	7-17	functional	_
 1-3	18-25	network	_
@@ -42,6 +43,7 @@
 1-38	292-301	paradigms	_
 1-39	302-303	.	_
 
+Text=However, the identified patterns of abnormal functional connectivity (FC) vary depending on the adopted paradigms.
 2-1	304-311	However	_
 2-2	312-313	,	_
 2-3	314-317	the	_
@@ -62,6 +64,7 @@
 2-18	411-420	paradigms	_
 2-19	421-422	.	_
 
+Text=Thus, it is unclear whether and how these patterns are inter-related.
 3-1	423-427	Thus	_
 3-2	428-429	,	_
 3-3	430-432	it	_
@@ -76,6 +79,7 @@
 3-12	479-492	inter-related	_
 3-13	493-494	.	_
 
+Text=In order to assess relationships between abnormal patterns of FC during intrinsic activity and those during extrinsic activity, we adopted a data-fusion approach and applied partial least square (PLS) analyses to FC datasets from 25 patients with chronic schizophrenia and 25 age- and sex-matched normal controls.
 4-1	495-497	In	_
 4-2	498-503	order	_
 4-3	504-506	to	_
@@ -127,6 +131,7 @@
 4-49	802-810	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder
 4-50	811-812	.	_
 
+Text=For the input to the PLS analyses, we generated a pair of FC maps during the resting state (REST) and the auditory deviance response (ADR) from each participant using the common seed region in the left middle temporal gyrus, which is a focus of activity associated with auditory verbal hallucinations (AVHs).
 5-1	813-816	For	_
 5-2	817-820	the	_
 5-3	821-826	input	_
@@ -188,6 +193,7 @@
 5-59	1127-1128	)	_
 5-60	1129-1130	.	_
 
+Text=PLS correlation (PLS-C) analysis revealed that patients with schizophrenia have significantly lower loadings of a component containing positive FCs in default-mode network regions during REST and a component containing positive FCs in the auditory and attention-related networks during ADR.
 6-1	1131-1134	PLS	_
 6-2	1135-1146	correlation	_
 6-3	1147-1148	(	_
@@ -231,6 +237,7 @@
 6-41	1419-1422	ADR	_
 6-42	1423-1424	.	_
 
+Text=Specifically, loadings of the REST component were significantly correlated with the severities of positive symptoms and AVH in patients with schizophrenia.
 7-1	1425-1437	Specifically	_
 7-2	1438-1439	,	_
 7-3	1440-1448	loadings	_
@@ -255,6 +262,7 @@
 7-22	1567-1580	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 7-23	1581-1582	.	_
 
+Text=The co-occurrence of such altered FC patterns during REST and ADR was replicated using PLS regression, wherein FC patterns during REST are modeled to predict patterns during ADR.
 8-1	1583-1586	The	_
 8-2	1587-1600	co-occurrence	_
 8-3	1601-1603	of	_
@@ -286,6 +294,7 @@
 8-29	1758-1761	ADR	_
 8-30	1762-1763	.	_
 
+Text=These findings provide an integrative understanding of altered FCs during intrinsic and extrinsic activity underlying core schizophrenia symptoms.
 9-1	1764-1769	These	_
 9-2	1770-1778	findings	_
 9-3	1779-1786	provide	_
@@ -306,6 +315,7 @@
 9-18	1901-1909	symptoms	_
 9-19	1910-1911	.	_
 
+Text=Highlights A new fMRI analysis method for data fusion was applied to schizophrenia fMRI data.
 10-1	1912-1922	Highlights	_
 10-2	1923-1924	A	_
 10-3	1925-1928	new	_
@@ -323,6 +333,7 @@
 10-15	2000-2004	data	_
 10-16	2005-2006	.	_
 
+Text=Multiple patterns of abnormal functional connectivity were linked in schizophrenia.
 11-1	2007-2015	Multiple	_
 11-2	2016-2024	patterns	_
 11-3	2025-2027	of	_
@@ -335,6 +346,7 @@
 11-10	2076-2089	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia
 11-11	2090-2091	.	_
 
+Text=Abnormal networks included the auditory language and saliency networks and DMN.
 12-1	2092-2100	Abnormal	_
 12-2	2101-2109	networks	_
 12-3	2110-2118	included	_
@@ -348,6 +360,7 @@
 12-11	2167-2170	DMN	_
 12-12	2171-2172	.	_
 
+Text=The identified patterns of connectivity abnormalities were correlated with symptoms.
 13-1	2173-2176	The	_
 13-2	2177-2187	identified	_
 13-3	2188-2196	patterns	_
@@ -360,6 +373,7 @@
 13-10	2248-2256	symptoms	_
 13-11	2257-2258	.	_
 
+Text=Materials and methods Participants Twenty-five patients with SCZ and 25 age- and sex-matched HCs participated in this study.
 14-1	2259-2268	Materials	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-2	2269-2272	and	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
 14-3	2273-2280	methods	http://maven.renci.org/NeuroBridge/neurobridge#StudyMethod
@@ -380,6 +394,7 @@
 14-18	2377-2382	study	_
 14-19	2383-2384	.	_
 
+Text=The patients were recruited at Karasuyama Hospital at the Showa University School of Medicine in Tokyo, Japan.
 15-1	2385-2388	The	_
 15-2	2389-2397	patients	_
 15-3	2398-2402	were	_
@@ -400,6 +415,7 @@
 15-18	2490-2495	Japan	_
 15-19	2496-2497	.	_
 
+Text=Diagnoses were made by 2 experienced psychiatrists, based on the Structured Clinical Interview for the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition.
 16-1	2498-2507	Diagnoses	_
 16-2	2508-2512	were	_
 16-3	2513-2517	made	_
@@ -428,6 +444,7 @@
 16-26	2665-2672	Edition	_
 16-27	2673-2674	.	_
 
+Text=Patients were excluded if they had other major psychiatric or neurological disease, severe somatic disorders, alcohol intake within 24 h of the examination, or current or past alcohol abuse.
 17-1	2675-2683	Patients	_
 17-2	2684-2688	were	_
 17-3	2689-2697	excluded	_
@@ -462,6 +479,7 @@
 17-32	2862-2867	abuse	_
 17-33	2868-2869	.	_
 
+Text=Psychiatric symptoms were assessed using the Positive and Negative Syndrome Scale (PANSS), and the severities of the auditory hallucinations were rated using the Auditory Hallucination Rating Scale (AHRS).
 18-1	2870-2881	Psychiatric	_
 18-2	2882-2890	symptoms	_
 18-3	2891-2895	were	_
@@ -497,6 +515,7 @@
 18-33	3078-3079	)	http://maven.renci.org/NeuroBridge/neurobridge#AuditoryHallucinationsSubscaleofPsychoticSymptomsRatingScale
 18-34	3080-3081	.	_
 
+Text=None of the HCs reported any severe medical problems or neurological or psychiatric histories, and none satisfied the diagnostic criteria for any psychiatric disorder.
 19-1	3082-3086	None	_
 19-2	3087-3089	of	_
 19-3	3090-3093	the	_
@@ -524,6 +543,7 @@
 19-25	3241-3249	disorder	_
 19-26	3250-3251	.	_
 
+Text=Written informed consent was obtained from all participants.
 20-1	3252-3259	Written	_
 20-2	3260-3268	informed	_
 20-3	3269-3276	consent	_
@@ -534,6 +554,7 @@
 20-8	3299-3311	participants	_
 20-9	3312-3313	.	_
 
+Text=Handedness of each participant was assessed using the Edinburgh Handedness Inventory.
 21-1	3314-3324	Handedness	_
 21-2	3325-3327	of	_
 21-3	3328-3332	each	_
@@ -547,6 +568,7 @@
 21-11	3389-3398	Inventory	_
 21-12	3399-3400	.	_
 
+Text=The patient's premorbid intelligence was estimated using the Japanese version of the National Adult Reading Test.
 22-1	3401-3404	The	_
 22-2	3405-3412	patient	_
 22-3	3413-3415	's	_
@@ -566,6 +588,7 @@
 22-17	3510-3514	Test	http://maven.renci.org/NeuroBridge/neurobridge#GlucoseToleranceTest
 22-18	3515-3516	.	_
 
+Text=Demographic data for the SCZ and HC groups are shown in Table 1.
 23-1	3517-3528	Demographic	_
 23-2	3529-3533	data	_
 23-3	3534-3537	for	_
@@ -581,6 +604,7 @@
 23-13	3579-3580	1	_
 23-14	3581-3582	.	_
 
+Text=This study was conducted in accordance with the principles of the Declaration of Helsinki and was approved by the Ethics Committee of the Faculty of Medicine of Showa University.
 24-1	3583-3587	This	_
 24-2	3588-3593	study	_
 24-3	3594-3597	was	_
@@ -612,6 +636,7 @@
 24-29	3750-3760	University	_
 24-30	3761-3762	.	_
 
+Text=The patients' primary physicians determined the patients' ability to provide informed consent before recruitment.
 25-1	3763-3766	The	_
 25-2	3767-3775	patients	_
 25-3	3776-3777	'	_
@@ -630,6 +655,7 @@
 25-16	3866-3877	recruitment	_
 25-17	3878-3879	.	_
 
+Text=Data acquisition All MRI data were acquired using a 1.5-T GE Signa system (General Electric; Milwaukee, WI, USA) with a phased-array whole-head coil.
 26-1	3880-3884	Data	_
 26-2	3885-3896	acquisition	_
 26-3	3897-3900	All	_
@@ -660,6 +686,7 @@
 26-28	4029-4033	coil	_
 26-29	4034-4035	.	_
 
+Text=Every participant underwent the two functional imaging runs for the REST and ADR paradigms in a single fMRI session.
 27-1	4036-4041	Every	_
 27-2	4042-4053	participant	_
 27-3	4054-4063	underwent	_
@@ -681,6 +708,7 @@
 27-19	4144-4151	session	_
 27-20	4152-4153	.	_
 
+Text=The functional images were acquired using a gradient echo-planar imaging sequence.
 28-1	4154-4157	The	_
 28-2	4158-4168	functional	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 28-3	4169-4175	images	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
@@ -694,6 +722,7 @@
 28-11	4227-4235	sequence	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalImagingProtocol
 28-12	4236-4237	.	_
 
+Text=Except for parameters of slice thickness and the number of volumes, the following parameters were the same between the two fMRI runs: in-plane resolution = 3.4375 × 3.4375 mm2, echo time (TE) = 40 ms, repetition time (TR) = 2000 ms, flip angle = 90°, matrix size: 64 × 64, and 27 axial slices.
 29-1	4238-4244	Except	_
 29-2	4245-4248	for	_
 29-3	4249-4259	parameters	_
@@ -762,6 +791,7 @@
 29-66	4536-4542	slices	_
 29-67	4543-4544	.	_
 
+Text=Slice thickness was 4 mm with a 1-mm slice gap for REST and 4 mm without a gap for ADR.
 30-1	4545-4550	Slice	_
 30-2	4551-4560	thickness	_
 30-3	4561-4564	was	_
@@ -784,6 +814,7 @@
 30-20	4628-4631	ADR	_
 30-21	4632-4633	.	_
 
+Text=In each fMRI run, the first four volumes were discarded to allow for equilibration effects.
 31-1	4634-4636	In	_
 31-2	4637-4641	each	_
 31-3	4642-4646	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -802,6 +833,7 @@
 31-16	4718-4725	effects	_
 31-17	4726-4727	.	_
 
+Text=At the end of the MRI session, a high-resolution T1-weighted spoiled gradient recalled three-dimensional MRI image was acquired (in-plane resolution: 0.9375 × 0.9375 mm2, 1.4 mm slice thickness, TR: 25 ms, TE: 9.2 ms, matrix size: 256 × 256, 128 sagittal slices).
 32-1	4728-4730	At	_
 32-2	4731-4734	the	_
 32-3	4735-4738	end	_
@@ -858,6 +890,7 @@
 32-54	5001-5002	)	_
 32-55	5003-5004	.	_
 
+Text=Task For the REST run, the participants were instructed to lie in the supine position in the scanner, to remain as still as possible, and to keep their eyes closed, but stay awake in the dim scanner room.
 33-1	5005-5009	Task	_
 33-2	5010-5013	For	_
 33-3	5014-5017	the	_
@@ -902,6 +935,7 @@
 33-42	5208-5212	room	_
 33-43	5213-5214	.	_
 
+Text=In total, 204 volumes were acquired over 6 min 48 s. For the ADR run, we adopted an auditory oddball paradigm originally used in a previous study wherein the neural sources of ADR were identified.
 34-1	5215-5217	In	_
 34-2	5218-5223	total	_
 34-3	5224-5225	,	_
@@ -941,6 +975,7 @@
 34-37	5402-5412	identified	_
 34-38	5413-5414	.	_
 
+Text=In this paradigm, sequences consisting of two types of tones were presented: Tone 1 (TN1) was a 400-Hz tone and Tone 2 (TN2) was a 500-Hz tone.
 35-1	5415-5417	In	_
 35-2	5418-5422	this	_
 35-3	5423-5431	paradigm	_
@@ -976,6 +1011,7 @@
 35-33	5559-5563	tone	_
 35-34	5564-5565	.	_
 
+Text=Both tones had durations of 100 ms. Each run consisted of alternating “ standard ” blocks (24 s per block) and “ deviant ” blocks (24 s per block), with intervening rest blocks (24 s per block).
 36-1	5566-5570	Both	_
 36-2	5571-5576	tones	_
 36-3	5577-5580	had	_
@@ -1022,6 +1058,7 @@
 36-44	5765-5766	)	_
 36-45	5767-5768	.	_
 
+Text=The standard blocks consisted of two tones alternating in a regular fashion (i.e., TN1, TN2, TN1, TN2, TN1, TN2 …).
 37-1	5769-5772	The	_
 37-2	5773-5781	standard	_
 37-3	5782-5788	blocks	_
@@ -1052,6 +1089,7 @@
 37-28	5890-5891	)	_
 37-29	5892-5893	.	_
 
+Text=In the deviant blocks, the two tones were presented in a pseudo-random order (e.g., TN1, TN2, TN2, TN1, TN1, TN1, TN2 …).
 38-1	5894-5896	In	_
 38-2	5897-5900	the	_
 38-3	5901-5908	deviant	_
@@ -1086,6 +1124,7 @@
 38-32	6023-6024	)	_
 38-33	6025-6026	.	_
 
+Text=The tones were presented with an inter-stimulus interval of 400 ms.
 39-1	6027-6030	The	_
 39-2	6031-6036	tones	_
 39-3	6037-6041	were	_
@@ -1099,6 +1138,7 @@
 39-11	6091-6093	ms	_
 39-12	6094-6095	.	_
 
+Text=The single run consisted of 6 standard blocks and 6 deviant blocks, with rest blocks without auditory stimulation interposed in between.
 40-1	6096-6099	The	_
 40-2	6100-6106	single	http://maven.renci.org/NeuroBridge/neurobridge#SinglePhotonImaging
 40-3	6107-6110	run	http://maven.renci.org/NeuroBridge/neurobridge#SinglePhotonImaging
@@ -1123,6 +1163,7 @@
 40-22	6225-6232	between	_
 40-23	6233-6234	.	_
 
+Text=The number of volumes was 291 (9 min 42 s).
 41-1	6235-6238	The	_
 41-2	6239-6245	number	_
 41-3	6246-6248	of	_
@@ -1137,6 +1178,7 @@
 41-12	6278-6279	)	_
 41-13	6280-6281	.	_
 
+Text=During the run, a gray checkerboard (a visual distractor) appeared on the screen at irregular intervals.
 42-1	6282-6288	During	_
 42-2	6289-6292	the	_
 42-3	6293-6296	run	_
@@ -1158,6 +1200,7 @@
 42-19	6379-6388	intervals	_
 42-20	6389-6390	.	_
 
+Text=The participants were instructed to pay attention to the screen and to press a button whenever the checkerboard appeared on the screen.
 43-1	6391-6394	The	_
 43-2	6395-6407	participants	_
 43-3	6408-6412	were	_
@@ -1182,6 +1225,7 @@
 43-22	6519-6525	screen	_
 43-23	6526-6527	.	_
 
+Text=They were also instructed that their task was to respond to the checkerboard and that the auditory tones were irrelevant to the task.
 44-1	6528-6532	They	_
 44-2	6533-6537	were	_
 44-3	6538-6542	also	_
@@ -1207,6 +1251,7 @@
 44-23	6656-6660	task	_
 44-24	6661-6662	.	_
 
+Text=The frequency of the appearance of the checkerboard was balanced over the “ standard, ” “ deviant, ” and rest blocks.
 45-1	6663-6666	The	_
 45-2	6667-6676	frequency	_
 45-3	6677-6679	of	_
@@ -1232,6 +1277,7 @@
 45-23	6775-6781	blocks	_
 45-24	6782-6783	.	_
 
+Text=The participants wore MRI-compatible headsets (Serene Sound; Resonance Technology; Northridge, CA, USA).
 46-1	6784-6787	The	_
 46-2	6788-6800	participants	_
 46-3	6801-6805	wore	_
@@ -1252,6 +1298,7 @@
 46-18	6892-6893	)	_
 46-19	6894-6895	.	_
 
+Text=During the ADR run, participant responses (response time and accuracy) were collected via a fiber-optic response pad connected to a PC interface (Current Designs; Philadelphia, PA, USA).
 47-1	6896-6902	During	_
 47-2	6903-6906	the	_
 47-3	6907-6910	ADR	http://maven.renci.org/NeuroBridge/neurobridge#FunctionalMagneticResonanceImaging
@@ -1289,6 +1336,7 @@
 47-35	7088-7089	)	_
 47-36	7090-7091	.	_
 
+Text=Stimulus presentation and response collection were controlled using Neurobehavioral Systems Presentation software (Neurobehavioral Systems; Albany, CA, USA).
 48-1	7092-7100	Stimulus	_
 48-2	7101-7113	presentation	_
 48-3	7114-7117	and	_
@@ -1313,6 +1361,7 @@
 48-22	7252-7253	)	_
 48-23	7254-7255	.	_
 
+Text=fMRI Data analyses Preprocessing For each of the REST and ADR runs, we first applied a series of preprocessing steps and then performed seed-based FC analyses for each subject before the PLS data-fusion step.
 49-1	7256-7260	fMRI	_
 49-2	7261-7265	Data	_
 49-3	7266-7274	analyses	_
@@ -1350,6 +1399,7 @@
 49-35	7460-7464	step	_
 49-36	7465-7466	.	_
 
+Text=The same preprocessing steps were used for the REST and ADR paradigms as follows: [1] slice-timing correction, [2] head motion correction, [3] normalization and resampling to a resolution of 2 × 2 × 2 mm3, and [4] spatial smoothing using a Gaussian kernel (6-mm full width at half-maximum).
 50-1	7467-7470	The	_
 50-2	7471-7475	same	_
 50-3	7476-7489	preprocessing	_
@@ -1414,6 +1464,7 @@
 50-62	7769-7770	)	_
 50-63	7771-7772	.	_
 
+Text=All of these preprocessing steps were performed using Statistical Parametric Mapping software (SPM8; Wellcome Department of Cognitive Neurology; London, UK).
 51-1	7773-7776	All	_
 51-2	7777-7779	of	_
 51-3	7780-7785	these	_
@@ -1441,6 +1492,7 @@
 51-25	7933-7934	)	_
 51-26	7935-7936	.	_
 
+Text=We also generated a task-specific brain mask by including voxels that were present in all of the participants and survived at a 25% gray matter (GM) probability mask used to restrict the FC analyses within the GM volume.
 52-1	7937-7939	We	_
 52-2	7940-7944	also	_
 52-3	7945-7954	generated	_
@@ -1484,6 +1536,7 @@
 52-41	8153-8159	volume	_
 52-42	8160-8161	.	_
 
+Text=To remove artefactual components from the time-series in each voxel during the REST run, we performed multiple linear regression analyses using the following confound regressors: [1] six head motion parameters and their temporal derivatives, [2] a mean signal from white matter voxels, and [3] a mean signal from cerebrospinal fluid voxels.
 53-1	8162-8164	To	_
 53-2	8165-8171	remove	_
 53-3	8172-8183	artefactual	_
@@ -1547,6 +1600,7 @@
 53-61	8505-8511	voxels	_
 53-62	8512-8513	.	_
 
+Text=We did not remove the global signal in order to avoid the risk of yielding spurious negative correlations.
 54-1	8514-8516	We	_
 54-2	8517-8520	did	_
 54-3	8521-8524	not	_
@@ -1567,6 +1621,7 @@
 54-18	8607-8619	correlations	_
 54-19	8620-8621	.	_
 
+Text=A band-pass filter (0.01–0.1 Hz) was applied to reduce the effects of low-frequency drift and physiological noise.
 55-1	8622-8623	A	_
 55-2	8624-8633	band-pass	_
 55-3	8634-8640	filter	_
@@ -1588,6 +1643,7 @@
 55-19	8732-8737	noise	_
 55-20	8738-8739	.	_
 
+Text=Furthermore, to reduce spurious changes in FC due to head motion, we used a scrubbing method adopted from a previous study.
 56-1	8740-8751	Furthermore	_
 56-2	8752-8753	,	_
 56-3	8754-8756	to	_
@@ -1613,6 +1669,7 @@
 56-23	8859-8864	study	_
 56-24	8865-8866	.	_
 
+Text=Specifically, we calculated a frame-wise displacement (FD) at each time point using the six motion parameters.
 57-1	8867-8879	Specifically	_
 57-2	8880-8881	,	_
 57-3	8882-8884	we	_
@@ -1634,6 +1691,7 @@
 57-19	8969-8979	parameters	_
 57-20	8980-8981	.	_
 
+Text=We then flagged volumes with FDs larger than 0.5 mm and removed these volumes along with the previous and subsequent two volumes from the correlation analysis.
 58-1	8982-8984	We	_
 58-2	8985-8989	then	_
 58-3	8990-8997	flagged	_
@@ -1662,6 +1720,7 @@
 58-26	9132-9140	analysis	_
 58-27	9141-9142	.	_
 
+Text=There were no significant differences between the two groups either in the mean FD (HCs: 0.11 ± 0.03 mm; patients with SCZ: 0.11 ± 0.04 mm; t = − 0.41, p = 0.68) or the number of frames with FDs larger than 0.5 mm (HCs: 1.8 ± 0.70; patient with SCZ: 3.04 ± 0.70; t = 1.25, p = 0.22).
 59-1	9143-9148	There	_
 59-2	9149-9153	were	_
 59-3	9154-9156	no	_
@@ -1738,6 +1797,7 @@
 59-74	9438-9439	)	_
 59-75	9440-9441	.	_
 
+Text=For the ADR run, we also confirmed that there were no significant differences between the two groups either in the mean FD (HCs: 0.097 ± 0.007 mm; patients with SCZ: 0.120 ± 0.011 mm; t = 1.75, p = 0.09) or in the number of frames with FDs larger than 0.5 mm (HCs: 2.96 ± 1.11; patients with SCZ: 4.28 ± 1.11; t = 0.84, p = 0.40).
 60-1	9442-9445	For	_
 60-2	9446-9449	the	_
 60-3	9450-9453	ADR	_
@@ -1823,6 +1883,7 @@
 60-83	9785-9786	)	_
 60-84	9787-9788	.	_
 
+Text=Generation of FC maps for the REST and ADR runs The first step in the preparation for PLS analyses was to generate pairs of fMRI FC maps for REST and ADR between which critical latent patterns of FC features are expected.
 61-1	9789-9799	Generation	_
 61-2	9800-9802	of	_
 61-3	9803-9805	FC	_
@@ -1866,6 +1927,7 @@
 61-41	10001-10009	expected	_
 61-42	10010-10011	.	_
 
+Text=Hence, we determined a common seed-region for REST and ADR and generated a pair of seed-based FC maps for each subject (25 patients with SCZ and 25 matched HCs).
 62-1	10012-10017	Hence	_
 62-2	10018-10019	,	_
 62-3	10020-10022	we	_
@@ -1900,6 +1962,7 @@
 62-32	10174-10175	)	_
 62-33	10176-10177	.	_
 
+Text=Based on numerous previous studies showing that auditory and speech-related areas underlie various schizophrenia symptoms, particularly AVH, we focused on the left lateral temporal cortex as the primary candidate for the common seed for REST and ADR.
 63-1	10178-10183	Based	_
 63-2	10184-10186	on	_
 63-3	10187-10195	numerous	_
@@ -1941,6 +2004,7 @@
 63-39	10426-10429	ADR	_
 63-40	10430-10431	.	_
 
+Text=Based on a previous meta-analysis that revealed a significant association between AVH and abnormal activation, we determined a 6-mm sphere centered at the Montreal Neurological Institute coordinate [-56 -30 -2] in the left middle temporal gyrus (MTG) as the seed.
 64-1	10432-10437	Based	_
 64-2	10438-10440	on	_
 64-3	10441-10442	a	_
@@ -1988,6 +2052,7 @@
 64-45	10695-10699	seed	_
 64-46	10700-10701	.	_
 
+Text=Because this location was near the superior temporal sulcus (STS), we named the seed location the left MTG/STS.
 65-1	10702-10709	Because	_
 65-2	10710-10714	this	_
 65-3	10715-10723	location	_
@@ -2011,6 +2076,7 @@
 65-21	10808-10815	MTG/STS	_
 65-22	10816-10817	.	_
 
+Text=An FC map of the REST run in each subject was generated by assessing correlations between the time-series data at the seed location and data from each voxel in the GM volume.
 66-1	10818-10820	An	_
 66-2	10821-10823	FC	_
 66-3	10824-10827	map	_
@@ -2045,6 +2111,7 @@
 66-32	10985-10991	volume	_
 66-33	10992-10993	.	_
 
+Text=Finally, an FC map was generated for each participant by computing Pearson's correlation coefficients between time courses extracted from the seed location and those of all other voxels.
 67-1	10994-11001	Finally	_
 67-2	11002-11003	,	_
 67-3	11004-11006	an	_
@@ -2077,6 +2144,7 @@
 67-30	11175-11181	voxels	_
 67-31	11182-11183	.	_
 
+Text=The seed time-course was extracted from an area within a 6-mm radius of the aforementioned coordinate.
 68-1	11184-11187	The	_
 68-2	11188-11192	seed	_
 68-3	11193-11204	time-course	_
@@ -2095,6 +2163,7 @@
 68-16	11275-11285	coordinate	_
 68-17	11286-11287	.	_
 
+Text=The correlation coefficients were converted to z-scores using Fisher's r-to-z transform.
 69-1	11288-11291	The	_
 69-2	11292-11303	correlation	_
 69-3	11304-11316	coefficients	_
@@ -2109,6 +2178,7 @@
 69-12	11367-11376	transform	_
 69-13	11377-11378	.	_
 
+Text=The resulting z-maps were fed into the PLS.
 70-1	11379-11382	The	_
 70-2	11383-11392	resulting	_
 70-3	11393-11399	z-maps	_
@@ -2119,6 +2189,7 @@
 70-8	11418-11421	PLS	_
 70-9	11422-11423	.	_
 
+Text=In the calculation of FC maps for ADR, the effects of the auditory oddball (i.e., ADR) on FCs were estimated using Psychophysiological Interaction (PPI) analysis in SPM8.
 71-1	11424-11426	In	_
 71-2	11427-11430	the	_
 71-3	11431-11442	calculation	_
@@ -2154,6 +2225,7 @@
 71-33	11595-11599	SPM8	_
 71-34	11600-11601	.	_
 
+Text=The PPI analysis consisted of a first regressor representing the seed fMRI time-series data extracted from the seed location that was deconvolved with a hemodynamic response function, a second regressor representing the psychological variable of Deviant - Standard blocks, and a third regressor representing the interaction between these two factors.
 72-1	11602-11605	The	_
 72-2	11606-11609	PPI	_
 72-3	11610-11618	analysis	_
@@ -2208,6 +2280,7 @@
 72-52	11946-11953	factors	_
 72-53	11954-11955	.	_
 
+Text=The seed fMRI time-series was extracted from a sphere with a 6-mm radius centered at the seed coordinate.
 73-1	11956-11959	The	_
 73-2	11960-11964	seed	_
 73-3	11965-11969	fMRI	_
@@ -2228,6 +2301,7 @@
 73-18	12050-12060	coordinate	_
 73-19	12061-12062	.	_
 
+Text=The six parameters for head motion were also used as nuisance regressors.
 74-1	12063-12066	The	_
 74-2	12067-12070	six	_
 74-3	12071-12081	parameters	_
@@ -2242,6 +2316,7 @@
 74-12	12125-12135	regressors	_
 74-13	12136-12137	.	_
 
+Text=We generated a contrast map for the third regressor for each individual.
 75-1	12138-12140	We	_
 75-2	12141-12150	generated	_
 75-3	12151-12152	a	_
@@ -2256,6 +2331,7 @@
 75-12	12199-12209	individual	_
 75-13	12210-12211	.	_
 
+Text=This map was then fed into the PLS analyses.
 76-1	12212-12216	This	_
 76-2	12217-12220	map	_
 76-3	12221-12224	was	_
@@ -2267,6 +2343,7 @@
 76-9	12247-12255	analyses	_
 76-10	12256-12257	.	_
 
+Text=Group comparisons of REST and ADR FC maps In a separate analysis from the PLS, we performed two-sample t-tests to compare z-maps during the REST run between HCs and patients with SCZ.
 77-1	12258-12263	Group	_
 77-2	12264-12275	comparisons	_
 77-3	12276-12278	of	_
@@ -2302,6 +2379,7 @@
 77-33	12438-12441	SCZ	_
 77-34	12442-12443	.	_
 
+Text=The statistical threshold was set to p <0.001 at the voxel level and the spatial extent threshold was set to k> 250 voxels, as determined using 3dFWHMx and 3dClustSim to achieve a corrected p <0.05 at the cluster level.
 78-1	12444-12447	The	_
 78-2	12448-12459	statistical	_
 78-3	12460-12469	threshold	_
@@ -2347,6 +2425,7 @@
 78-43	12661-12666	level	_
 78-44	12667-12668	.	_
 
+Text=For the ADR run, we performed group comparisons using the contrast maps for the regressor for the psychophysiological interaction.
 79-1	12669-12672	For	_
 79-2	12673-12676	the	_
 79-3	12677-12680	ADR	_
@@ -2369,6 +2448,7 @@
 79-20	12788-12799	interaction	_
 79-21	12800-12801	.	_
 
+Text=The voxel-level threshold of p <0.001 and the spatial extent threshold of k> 86 were used to achieve a cluster-level corrected p <0.05, as determined using 3dFWHMx and 3dClustSim.
 80-1	12802-12805	The	_
 80-2	12806-12817	voxel-level	_
 80-3	12818-12827	threshold	_
@@ -2404,6 +2484,7 @@
 80-33	12974-12984	3dClustSim	_
 80-34	12985-12986	.	_
 
+Text=Data fusion: PLS PLS correlation (PLS-C) is a multivariate statistical technique used to investigate statistical associations between two sets of variables by identifying latent components in one variable set (i.e., REST) that maximally co-vary with those in another set (i.e., ADR) across participants.
 81-1	12987-12991	Data	_
 81-2	12992-12998	fusion	_
 81-3	12999-13000	:	_
@@ -2458,6 +2539,7 @@
 81-52	13286-13298	participants	_
 81-53	13299-13300	.	_
 
+Text=The procedure is illustrated in Fig.
 82-1	13301-13304	The	_
 82-2	13305-13314	procedure	_
 82-3	13315-13317	is	_
@@ -2466,9 +2548,11 @@
 82-6	13333-13336	Fig	_
 82-7	13337-13338	.	_
 
+Text=1.
 83-1	13339-13340	1	_
 83-2	13341-13342	.	_
 
+Text=A pair of FC maps, REST and ADR, generated by seeding the left MTG/STS in each individual were separately flattened into two rows, which were then fed into row vectors in X and Y data matrices, respectively.
 84-1	13343-13344	A	_
 84-2	13345-13349	pair	_
 84-3	13350-13352	of	_
@@ -2512,6 +2596,7 @@
 84-41	13541-13553	respectively	_
 84-42	13554-13555	.	_
 
+Text=Therefore, the X and Y matrices had 50 rows and their number of columns corresponded to the number of voxels in the FC maps of REST and ADR.
 85-1	13556-13565	Therefore	_
 85-2	13566-13567	,	_
 85-3	13568-13571	the	_
@@ -2543,6 +2628,7 @@
 85-29	13693-13696	ADR	_
 85-30	13697-13698	.	_
 
+Text=A standard approach for solving the PLS-C problem is to apply singular value decomposition (SVD) to the covariance matrix XTY, which represents the covariance of all of the pairs of a voxel in one condition (i.e., REST) and those in another condition (i.e., ADR) across participants.
 86-1	13699-13700	A	_
 86-2	13701-13709	standard	_
 86-3	13710-13718	approach	_
@@ -2600,6 +2686,7 @@
 86-55	13978-13990	participants	_
 86-56	13991-13992	.	_
 
+Text=Briefly, SVD generates a set of mutually orthogonal composite components by decomposing XTY into UΔVT, wherein U and V are matrices of left and right singular vectors and Δ is a diagonal matrix with singular values along the diagonal.
 87-1	13993-14000	Briefly	_
 87-2	14001-14002	,	_
 87-3	14003-14006	SVD	_
@@ -2643,6 +2730,7 @@
 87-41	14220-14228	diagonal	_
 87-42	14229-14230	.	_
 
+Text=Here, the ith composite component consists of the ith column vectors of matrices U and V and the ith singular value in matrix Δ.
 88-1	14231-14235	Here	_
 88-2	14236-14237	,	_
 88-3	14238-14241	the	_
@@ -2670,6 +2758,7 @@
 88-25	14358-14359	Δ	_
 88-26	14360-14361	.	_
 
+Text=The number of composite components was 46, which was equal to the full rank of the covariance matrix XTY.
 89-1	14362-14365	The	_
 89-2	14366-14372	number	_
 89-3	14373-14375	of	_
@@ -2692,6 +2781,7 @@
 89-20	14464-14467	XTY	_
 89-21	14468-14469	.	_
 
+Text=The ith column vectors of U and V represent voxel values in FC maps of the REST and ADR runs.
 90-1	14470-14473	The	_
 90-2	14474-14477	ith	_
 90-3	14478-14484	column	_
@@ -2714,6 +2804,7 @@
 90-20	14558-14562	runs	_
 90-21	14563-14564	.	_
 
+Text=More specifically, before being fed into SVD, the effects of age, handedness, and sex from each column in the X and Y matrices were regressed out, as these factors might impact the results of PLS.
 91-1	14565-14569	More	_
 91-2	14570-14582	specifically	_
 91-3	14583-14584	,	_
@@ -2756,6 +2847,7 @@
 91-40	14762-14765	PLS	_
 91-41	14766-14767	.	_
 
+Text=The X and Y data matrices were then standardized to each column.
 92-1	14768-14771	The	_
 92-2	14772-14773	X	_
 92-3	14774-14777	and	_
@@ -2770,6 +2862,7 @@
 92-12	14825-14831	column	_
 92-13	14832-14833	.	_
 
+Text=The application of SVD to the covariance matrix (i.e., XTY) is computationally expensive because of the high dimensionality of the matrix (i.e., the number of voxels in REST and ADR).
 93-1	14834-14837	The	_
 93-2	14838-14849	application	_
 93-3	14850-14852	of	_
@@ -2808,6 +2901,7 @@
 93-36	15021-15022	)	_
 93-37	15023-15024	.	_
 
+Text=In this study, we used an alternative computationally efficient method proposed in a previous study.
 94-1	15025-15027	In	_
 94-2	15028-15032	this	_
 94-3	15033-15038	study	_
@@ -2826,6 +2920,7 @@
 94-16	15120-15125	study	_
 94-17	15126-15127	.	_
 
+Text=Briefly, during the decomposition of XTY into UΔVT, XTYYTX may be represented as UΔ2UT and is related to eigenvalue decomposition.
 95-1	15128-15135	Briefly	_
 95-2	15136-15137	,	_
 95-3	15138-15144	during	_
@@ -2850,6 +2945,7 @@
 95-22	15246-15259	decomposition	_
 95-23	15260-15261	.	_
 
+Text=In addition, YYT, which is in the middle of XTYYTX, is an N x N positive semi-definite matrix.
 96-1	15262-15264	In	_
 96-2	15265-15273	addition	_
 96-3	15274-15275	,	_
@@ -2873,6 +2969,7 @@
 96-21	15352-15358	matrix	_
 96-22	15359-15360	.	_
 
+Text=Based on the properties of positive semi-definite matrices, YYT may be replaced by ZTZ, where Z is a square matrix that satisfies YYT = ZTZ.
 97-1	15361-15366	Based	_
 97-2	15367-15369	on	_
 97-3	15370-15373	the	_
@@ -2902,6 +2999,7 @@
 97-27	15499-15502	ZTZ	_
 97-28	15503-15504	.	_
 
+Text=XTYYTX can then be rewritten as (ZX) T (ZX).
 98-1	15505-15511	XTYYTX	_
 98-2	15512-15515	can	_
 98-3	15516-15520	then	_
@@ -2917,6 +3015,7 @@
 98-13	15551-15552	)	_
 98-14	15553-15554	.	_
 
+Text=Based on the fact that eig (ATA) is equivalent to eig (AAT), we can calculate matrices U, V, and Δ using a substantially reduced number of dimensions (i.e., 46 × 46).
 99-1	15555-15560	Based	_
 99-2	15561-15563	on	_
 99-3	15564-15567	the	_
@@ -2960,6 +3059,7 @@
 99-41	15729-15730	)	_
 99-42	15731-15732	.	_
 
+Text=When the SVD is applied, the ith column vectors of U and V represent voxel values in FC maps of the REST and ADR runs such that the two maps maximally co-vary with each other across participants.
 100-1	15733-15737	When	_
 100-2	15738-15741	the	_
 100-3	15742-15745	SVD	_
@@ -3000,6 +3100,7 @@
 100-38	15916-15928	participants	_
 100-39	15929-15930	.	_
 
+Text=Therefore, the column vectors of U and V may be interpreted as optimal combinations of FC patterns during the two conditions.
 101-1	15931-15940	Therefore	_
 101-2	15941-15942	,	_
 101-3	15943-15946	the	_
@@ -3024,6 +3125,7 @@
 101-22	16046-16056	conditions	_
 101-23	16057-16058	.	_
 
+Text=Each combination of the two FC patterns is associated with a scalar singular value represented in the diagonal of matrix Δ, which reflects the covariance between the two original FC maps and is explained by the composite component.
 102-1	16059-16063	Each	_
 102-2	16064-16075	combination	_
 102-3	16076-16078	of	_
@@ -3065,6 +3167,7 @@
 102-39	16281-16290	component	_
 102-40	16291-16292	.	_
 
+Text=See Appendix B for further details of PLS-C. To assess the statistical significance of each of the composite components, we performed permutation tests for the top 10 composite components, which accounted for 42.6% of the total covariance.
 103-1	16293-16296	See	_
 103-2	16297-16305	Appendix	_
 103-3	16306-16307	B	_
@@ -3107,6 +3210,7 @@
 103-40	16524-16534	covariance	_
 103-41	16535-16536	.	_
 
+Text=In each cycle of permutation, we randomly reordered the rows of data matrix X, such that the original link between X and Y was destroyed.
 104-1	16537-16539	In	_
 104-2	16540-16544	each	_
 104-3	16545-16550	cycle	_
@@ -3136,6 +3240,7 @@
 104-27	16666-16675	destroyed	_
 104-28	16676-16677	.	_
 
+Text=The permutation was repeated 10,000 times to obtain a null distribution of singular values at each component.
 105-1	16678-16681	The	_
 105-2	16682-16693	permutation	_
 105-3	16694-16697	was	_
@@ -3155,6 +3260,7 @@
 105-17	16777-16786	component	_
 105-18	16787-16788	.	_
 
+Text=Measured values falling outside the 95% probability of the null distribution were regarded as significant components (p <0.05).
 106-1	16789-16797	Measured	_
 106-2	16798-16804	values	_
 106-3	16805-16812	falling	_
@@ -3179,6 +3285,7 @@
 106-22	16918-16919	)	_
 106-23	16920-16921	.	_
 
+Text=For statistically significant components, we used a two-sample t-test to determine whether there were significant group differences between HCs and patients with SCZ in individual component loadings.
 107-1	16922-16925	For	_
 107-2	16926-16939	statistically	_
 107-3	16940-16951	significant	_
@@ -3209,6 +3316,7 @@
 107-28	17113-17121	loadings	_
 107-29	17122-17123	.	_
 
+Text=In the composite component maps, contribution and reliability (statistical significance) of FC strength at each voxel was estimated by bootstrap resampling for cross-validation of the derived pattern of FC.
 108-1	17124-17126	In	_
 108-2	17127-17130	the	_
 108-3	17131-17140	composite	_
@@ -3243,6 +3351,7 @@
 108-32	17330-17332	FC	_
 108-33	17333-17334	.	_
 
+Text=Bootstrapping was performed by randomly resampling 50 participants with replacement (rows of data matrices X and Y).
 109-1	17335-17348	Bootstrapping	_
 109-2	17349-17352	was	_
 109-3	17353-17362	performed	_
@@ -3264,6 +3373,7 @@
 109-19	17451-17452	)	_
 109-20	17453-17454	.	_
 
+Text=The resampled data were subjected to SVD to generate sampling distributions for each voxel in the singular vectors.
 110-1	17455-17458	The	_
 110-2	17459-17468	resampled	_
 110-3	17469-17473	data	_
@@ -3284,6 +3394,7 @@
 110-18	17562-17569	vectors	_
 110-19	17570-17571	.	_
 
+Text=The bootstrap distribution was used to estimate the standard error for each voxel.
 111-1	17572-17575	The	_
 111-2	17576-17585	bootstrap	_
 111-3	17586-17598	distribution	_
@@ -3299,6 +3410,7 @@
 111-13	17648-17653	voxel	_
 111-14	17654-17655	.	_
 
+Text=Finally, bootstrap ratios were calculated for each voxel in U and V by dividing the voxel values from the singular vector by their bootstrap-estimated standard error.
 112-1	17656-17663	Finally	_
 112-2	17664-17665	,	_
 112-3	17666-17675	bootstrap	_
@@ -3328,6 +3440,7 @@
 112-27	17817-17822	error	_
 112-28	17823-17824	.	_
 
+Text=We used a statistical threshold of p <0.05 for both positive and negative values (| z |> 2.0).
 113-1	17825-17827	We	_
 113-2	17828-17832	used	_
 113-3	17833-17834	a	_
@@ -3352,6 +3465,7 @@
 113-22	17921-17922	)	_
 113-23	17923-17924	.	_
 
+Text=In order to further examine whether and how the identified composite components are influenced by a particular model within the PLS framework, we also performed PLS Regression (PLS-R), which is another PLS model with the assumption that the FC patterns during one condition contain components that are predictive of the FC patterns during another condition.
 114-1	17925-17927	In	_
 114-2	17928-17933	order	_
 114-3	17934-17936	to	_
@@ -3413,6 +3527,7 @@
 114-59	18276-18285	condition	_
 114-60	18286-18287	.	_
 
+Text=In contrast to PLS-C, where X and Y are interchangeable, PLS-R aims to build a model that predicts Y (ADR) from X (REST) while avoiding the multicollinearity of variables.
 115-1	18288-18290	In	_
 115-2	18291-18299	contrast	_
 115-3	18300-18302	to	_
@@ -3450,6 +3565,7 @@
 115-35	18455-18464	variables	_
 115-36	18465-18466	.	_
 
+Text=Here, X and Y are modeled to be decomposed into TPT and UQT, respectively, where P and Q are composite FC maps for X and Y, respectively, and T and U are matrices of latent variables for X and Y, respectively.
 116-1	18467-18471	Here	_
 116-2	18472-18473	,	_
 116-3	18474-18475	X	_
@@ -3499,6 +3615,7 @@
 116-47	18669-18681	respectively	_
 116-48	18682-18683	.	_
 
+Text=This is because we assume that U can be predicted by T, U = TB, where B is the diagonal matrix.
 117-1	18684-18688	This	_
 117-2	18689-18691	is	_
 117-3	18692-18699	because	_
@@ -3524,6 +3641,7 @@
 117-23	18774-18780	matrix	_
 117-24	18781-18782	.	_
 
+Text=Formally, this yields the prediction model as follows: Y = TBQT = XWPLS, with WPLS = PT + BQT, where PT + is the Moore-Penrose pseudo-inverse of PT.
 118-1	18783-18791	Formally	_
 118-2	18792-18793	,	_
 118-3	18794-18798	this	_
@@ -3558,6 +3676,7 @@
 118-32	18932-18934	PT	_
 118-33	18935-18936	.	_
 
+Text=We estimated the parameters T, B, U, Q, and WPLS using non-linear iterative partial least squares (NIPALS), as proposed by.
 119-1	18937-18939	We	_
 119-2	18940-18949	estimated	_
 119-3	18950-18953	the	_
@@ -3587,6 +3706,7 @@
 119-27	19064-19066	by	_
 119-28	19067-19068	.	_
 
+Text=See Appendix B for further details of PLS-R.
 120-1	19069-19072	See	_
 120-2	19073-19081	Appendix	_
 120-3	19082-19083	B	_
@@ -3597,6 +3717,7 @@
 120-8	19107-19112	PLS-R	_
 120-9	19113-19114	.	_
 
+Text=The number of latent components is determined based on Krzanowski's W criterion with leave-one-out cross-validation (LOOCV).
 121-1	19115-19118	The	_
 121-2	19119-19125	number	_
 121-3	19126-19128	of	_
@@ -3618,6 +3739,7 @@
 121-19	19240-19241	)	_
 121-20	19242-19243	.	_
 
+Text=Krzanowski's W is calculated as follows: where The Predicted Estimated Sum of Squares was used as the measure of the quality of the prediction.
 122-1	19244-19254	Krzanowski	_
 122-2	19255-19257	's	_
 122-3	19258-19259	W	_
@@ -3646,6 +3768,7 @@
 122-26	19378-19388	prediction	_
 122-27	19389-19390	.	_
 
+Text=In the equation above, is the predicted value of y from N-1 samples and N is the number of participants.
 123-1	19391-19393	In	_
 123-2	19394-19397	the	_
 123-3	19398-19406	equation	_
@@ -3669,6 +3792,7 @@
 123-21	19483-19495	participants	_
 123-22	19496-19497	.	_
 
+Text=k was the optimal number of latent components when Wk had a maximum value within the set of Wk values> 1.
 124-1	19498-19499	k	_
 124-2	19500-19503	was	_
 124-3	19504-19507	the	_
@@ -3693,6 +3817,7 @@
 124-22	19602-19603	1	_
 124-23	19604-19605	.	_
 
+Text=The optimal number of composite components was 4, as determined using Krzanowski's W with LOOCV.
 125-1	19606-19609	The	_
 125-2	19610-19617	optimal	_
 125-3	19618-19624	number	_
@@ -3712,6 +3837,7 @@
 125-17	19698-19703	LOOCV	_
 125-18	19704-19705	.	_
 
+Text=As in PLS-C, bootstrapping was used to estimate the contribution and reliability (statistical significance) of FC strength at each voxel of the identified component maps.
 126-1	19706-19708	As	_
 126-2	19709-19711	in	_
 126-3	19712-19717	PLS-C	_
@@ -3742,6 +3868,7 @@
 126-28	19874-19878	maps	_
 126-29	19879-19880	.	_
 
+Text=Bootstrapping was performed by randomly resampling 50 participants with replacement.
 127-1	19881-19894	Bootstrapping	_
 127-2	19895-19898	was	_
 127-3	19899-19908	performed	_
@@ -3754,6 +3881,7 @@
 127-10	19953-19964	replacement	_
 127-11	19965-19966	.	_
 
+Text=The resampled data were subjected to NIPALS to generate a sampling distribution for each voxel in the composite components.
 128-1	19967-19970	The	_
 128-2	19971-19980	resampled	_
 128-3	19981-19985	data	_
@@ -3775,6 +3903,7 @@
 128-19	20079-20089	components	_
 128-20	20090-20091	.	_
 
+Text=The bootstrap distribution was used to estimate the standard error for each voxel.
 129-1	20092-20095	The	_
 129-2	20096-20105	bootstrap	_
 129-3	20106-20118	distribution	_
@@ -3790,6 +3919,7 @@
 129-13	20168-20173	voxel	_
 129-14	20174-20175	.	_
 
+Text=Finally, the bootstrap ratio was calculated for each voxel in P and Q by dividing the voxel values from the singular vector by their bootstrap-estimated standard error.
 130-1	20176-20183	Finally	_
 130-2	20184-20185	,	_
 130-3	20186-20189	the	_
@@ -3820,6 +3950,7 @@
 130-28	20339-20344	error	_
 130-29	20345-20346	.	_
 
+Text=We used a statistical threshold of p <0.05 for both positive and negative values (| z |> 2.0).
 131-1	20347-20349	We	_
 131-2	20350-20354	used	_
 131-3	20355-20356	a	_
@@ -3844,6 +3975,7 @@
 131-22	20443-20444	)	_
 131-23	20445-20446	.	_
 
+Text=Post-hoc correlation analyses using clinical scores The PLS-C and PLS-R analyses identified composite component maps with significant group differences for REST and ADR.
 132-1	20447-20455	Post-hoc	_
 132-2	20456-20467	correlation	_
 132-3	20468-20476	analyses	_
@@ -3869,6 +4001,7 @@
 132-23	20612-20615	ADR	_
 132-24	20616-20617	.	_
 
+Text=In order to identify brain regions in the composite component maps whose altered FCs are specifically associated with the severities of clinical symptoms, we performed post-hoc voxel-wise correlation analyses using the individual FC maps (seed: left MTG/STS) and clinical scores on either PANSS (P) or AHRS.
 133-1	20618-20620	In	_
 133-2	20621-20626	order	_
 133-3	20627-20629	to	_
@@ -3923,6 +4056,7 @@
 133-52	20926-20930	AHRS	_
 133-53	20931-20932	.	_
 
+Text=Correlation analyses were performed separately for REST and ADR.
 134-1	20933-20944	Correlation	_
 134-2	20945-20953	analyses	_
 134-3	20954-20958	were	_
@@ -3934,6 +4068,7 @@
 134-9	20993-20996	ADR	_
 134-10	20997-20998	.	_
 
+Text=In order to restrict the analyses into voxels identified by the PLS analyses, we generated a binary inclusive mask for both REST and ADR.
 135-1	20999-21001	In	_
 135-2	21002-21007	order	_
 135-3	21008-21010	to	_
@@ -3961,6 +4096,7 @@
 135-25	21133-21136	ADR	_
 135-26	21137-21138	.	_
 
+Text=For the inclusive mask for REST, we generated a binary map for supra-threshold voxels of the REST component map identified using PLS-C, and a binary map for the REST component map identified using PLS-R. We then generated a binary image by combining the two binary maps.
 136-1	21139-21142	For	_
 136-2	21143-21146	the	_
 136-3	21147-21156	inclusive	_
@@ -4011,6 +4147,7 @@
 136-48	21406-21410	maps	_
 136-49	21411-21412	.	_
 
+Text=The voxel-level threshold was set to p <0.001.
 137-1	21413-21416	The	_
 137-2	21417-21428	voxel-level	_
 137-3	21429-21438	threshold	_
@@ -4022,6 +4159,7 @@
 137-9	21454-21459	0.001	_
 137-10	21460-21461	.	_
 
+Text=In order to achieve a cluster-level corrected p <0.05, we determined the spatial extent threshold using 3dFWHMx and 3dClustSim.
 138-1	21462-21464	In	_
 138-2	21465-21470	order	_
 138-3	21471-21473	to	_
@@ -4045,6 +4183,7 @@
 138-21	21580-21590	3dClustSim	_
 138-22	21591-21592	.	_
 
+Text=The spatial extent thresholds were determined to be 78 and 69 for correlation with PANSS (P) and AHRS, respectively.
 139-1	21593-21596	The	_
 139-2	21597-21604	spatial	_
 139-3	21605-21611	extent	_
@@ -4069,6 +4208,7 @@
 139-22	21699-21711	respectively	_
 139-23	21712-21713	.	_
 
+Text=The same procedures were used for ADR.
 140-1	21714-21717	The	_
 140-2	21718-21722	same	_
 140-3	21723-21733	procedures	_
@@ -4078,6 +4218,7 @@
 140-7	21748-21751	ADR	_
 140-8	21752-21753	.	_
 
+Text=Using 3dFWHMx and 3dClustSim, we found spatial extent thresholds of 51 and 47 for correlation with PANSS (P) and AHRS, respectively.
 141-1	21754-21759	Using	_
 141-2	21760-21767	3dFWHMx	_
 141-3	21768-21771	and	_

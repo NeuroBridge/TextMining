@@ -1,0 +1,287 @@
+__label__1 Cannabinoid administration reduced DMN hyperconnectivity and increased DMN-ECN anticorrelation .
+__label__1 Moreover , the magnitude of anticorrelation in the controls , and in the patients after cannabinoid administration , positively correlated with WM performance .
+__label__1 The finding that DMN brain connectivity is plastic may have implications for future pharmacotherapeutic development , as treatment efficacy could be assessed through the ability of therapies to normalize underlying circuit-level dysfunction .
+__label__0 Experimental Materials and Methods Subjects Twelve patients with SCZ and CUD and twelve healthy control subjects participated in this study .
+__label__0 As previously described in all patients were recruited from community mental health centers and met criteria for SCZ and CUD , defined as either current cannabis abuse or dependence with use within the past month prior to study enrollment , as determined by the Structured Clinical Interview for DSM-IV-TR ( SCID ) .
+__label__1 While a history of alcohol or substance use ( other than cannabis ) was permitted in the patient group , they were required to be alcohol and substance free for a minimum of seven days prior to testing and scanning .
+__label__1 Tobacco users were included in the study , since up to 90% of patients with SCZ smoke cigarettes .
+__label__1 All patients were on a stable dose of antipsychotic medication for a minimum of one month prior to study participation .
+__label__1 Patients taking clozapine were excluded given its proposed ability to decrease alcohol and cannabis use in patients with SCZ .
+__label__1 Pharmacotherapies for addiction , mental retardation , a history of head injury , or factors that contraindicate the use of fMRI served as exclusion criteria .
+__label__0 The healthy control group was matched to the patient sample on age , gender and handedness .
+__label__1 In addition to the exclusion criteria noted above , controls were excluded if they had any current or history of Axis I or II disorders , including any substance use disorder .
+__label__1 A signed informed consent was obtained from participants prior to initiation of the study .
+__label__1 The protocol was approved by the Committee for the Protection of Human Subjects ( IRB ) at Dartmouth College .
+__label__1 Further details of the study design were reviewed in .
+__label__0 Study Design and Procedure Participants refrained from substance use ( except for tobacco or caffeine ) for the duration of the study .
+__label__1 Subjects completed a ‘ baseline ’ session ( T1 ) , and then returned one week later for a second scan session ( T2 ) during which patients were randomized to one of two double-blinded cannabinoid intervention groups : an oral THC group ( N = 6 ) or an active cannabis cigarette ( 3.6% THC ) group ( N = 6 ) .
+__label__1 Those in the THC group were given a 15mg THC pill ( three hours prior to scanning ) and then smoked a placebo cannabis cigarette immediately prior to scanning .
+__label__1 Those in the cannabis group were given a placebo pill ( 3 hours prior to scanning ) and then smoked an active 3.6% THC cannabis cigarette immediately before scanning .
+__label__1 Smoking took place in a smoking chamber within the scanner bay , immediately prior to scanning ( Figure 1a ) .
+__label__1 Patients who were tobacco smokers were asked to smoke a cigarette 90 minutes prior to scanning , based upon pharmacokinetics of smoked tobacco .
+__label__1 Further details can be found in .
+__label__0 Healthy control participants followed the same study protocol , but did not receive any pharmacologic intervention during T2 .
+__label__1 In order to assist patients in remaining abstinent from substance use for the duration of the study , they were assessed three times in the week prior to each scan session .
+__label__0 Each time , they were screened for substance use with an alcohol breathalyzer , a Timeline Follow-Back interview , and a urine toxicology screen ( ToxCup Drug Screen cup ; CLIAwaived , Sand Diego , CA ) .
+__label__1 Patients were discontinued from the study if screening suggested substance use during study participation .
+__label__0 THC and symptom measures Venous blood samples were collected from patients at T1 , in the morning of the T2 session , immediately prior to fMRI scanning , and before cognitive testing ( Figure 1b ) .
+__label__0 The Marijuana Craving Questionnaire ( MCQ ) , Cannabis Withdrawal Scale ( CWS ) , and Positive and Negative Syndrome Scale ( PANSS ) were administered to assess for change in marijuana craving , withdrawal , and positive and negative symptoms .
+__label__1 Change in these measures was analyzed using repeated measures analysis of variance ( ANOVA ) with group as the between group factor and time as the within-subjects factor , followed by post-hoc analysis using Tukey ’ s LSD test for pairwise comparisons .
+__label__0 Working memory performance To assess for change in working memory performance induced by cannabis and THC , the Wechsler Adult Intelligence Scale ( WAIS ) III Letter Number Sequencing Test was administered approximately 30 minutes after the end of the scanning sessions at T1 and T2 .
+__label__1 This test was selected because of availability of alternate forms and thus its applicability to the repeated-measures study design .
+__label__1 The change in WM performance in patients was evaluated with a repeated-measures ANOVA .
+__label__0 A correlation analysis between WM performance and the magnitude of DMN-ECN anticorrelation was performed between the MPFC component of the DMN and the DLPFC component of the ECN . fMRI data acquisition fMRI data were obtained using a 3T Phillips Achieva fMRI scanner with an 8 channel head coil .
+__label__0 Each subject underwent two 8 - minute resting scans during the study with eyes open , one at baseline ( T1 ) , and the second during the ‘ intervention ’ session ( T2 ) .
+__label__1 Further details can be found in .
+__label__0 The resting state data were acquired transverse to the AC-PC plane , with a T2 * - weighted single shot echo planar imaging ( EPI ) pulse sequence designed to measure whole brain BOLD contrast with optimal temporal and spatial resolution [ repetition time ( TR ) = 2000ms ; echo time ( TE ) = 30ms ; Flip angle ( FA ) = 90 degrees ; field of view ( FOV ) = 240 mm ; Slice thickness = 2.5 mm ; Slice skip 0.5 ; Slice location = Pat .
+__label__1 Spec ; Fat saturation = SPIR ; Reps = 240 ; NEX = 1 ; yielding 36 contiguous transverse functional images in an 80 × 80 matrix with an isotropic resolution of 3.0 mm3 ] .
+__label__0 T1 - weighted anatomic reference images were acquired in the same planes and thickness immediately following the resting scans . fMRI data analysis Resting state data were analyzed using a seed driven approach ( http : / / www.nitrc.org / projects / conn ) .
+__label__1 We used methods that minimize the influence of motion and artifact and that allow for valid identification of correlated and anticorrelated networks .
+__label__1 Data were slice time corrected , realigned , coregistered , normalized , and spatially smoothed with a 6 - mm kernel .
+__label__1 To address the spurious correlations in resting-state networks caused by head motion we used quality assurance software Artifact Detection Tools ( http : / / www.nitrc.org / projects / artifact_detect ; http : / / www.nitrc.org / projects / conn ) to identify problematic time points during the scan .
+__label__1 Specifically , an image was defined as an outlier if the head displacement in x , y , or z direction was greater than .5mm from the previous frame , or if the global mean intensity in the image was greater than 3 standard deviations from the mean image intensity for the entire resting scan .
+__label__1 A single regressor for each outlier image was included in the first level general linear model along with motion parameters and first order derivatives .
+__label__1 Physiological and other spurious sources of noise were estimated and regressed using the anatomical CompCor method ( aCompCor ) as opposed to global signal regression , a widely used preprocessing method known to artificially introduce negative correlations .
+__label__0 The anatomical image for each participant was segmented into white matter , grey matter , and cerebrospinal fluid ( CSF ) masks using SPM8 .
+__label__1 To minimize partial voluming with grey matter , the white matter and CSF masks were eroded by one voxel , which resulted in substantially smaller masks than the original segmentations .
+__label__1 The eroded white matter and CSF masks were then used as noise regions of interest ( ROI ) .
+__label__1 Signals from the white matter and CSF noise ROIs were extracted from the unsmoothed functional volumes to avoid additional risk of contaminating white matter and CSF signals with grey matter signals .
+__label__1 Previous results showed that aCompCor signals were considerably different from the global signal , as regressing higher order principal components of the global signal diminished both positive and negative correlations whereas regressing aCompCor signals resulted in stronger anticorrelations and eliminated spurious correlations .
+__label__1 Based on previous results , five principal components of the signals from white matter and CSF noise ROIs were removed with regression .
+__label__1 A temporal band-pass filter of 0.009 Hz to 0.08 Hz was applied to the time series .
+__label__1 The residual BOLD time-series was band-pass filtered over a low-frequency window of interest ( 0.009Hz < f < 0.08Hz ) .
+__label__1 Correlation maps were produced by extracting the residual BOLD time course from seed regions based on the literature .
+__label__1 The DMN seed was defined using a 10 mm sphere around peak MPFC coordinates , as specified in .
+__label__1 Pearson ’ s correlation coefficients were then calculated between the DMN time course and the time course of all other voxels in the brain .
+__label__1 Correlation coefficients were converted to normally distributed scores using Fisher ’ s transformation to allow for second-level General Linear Model analyses .
+__label__1 Second-level within-group ( one sample t-tests ) and between group ( ANOVA ) analyses were performed on the Z-maps from the MPFC .
+__label__1 Correction for multiple comparisons on analyses were implemented with an FDR correction of p < 0.001 .
+__label__0 Reduced Parietal Alpha Power and Psychotic Symptoms : Test-Retest Reliability of Resting-State Magnetoencephalography in Schizophrenia and Healthy Controls Background : Despite increased reporting of resting-state magnetoencephalography ( MEG ) , reliability of those measures remains scarce and predominately reported in healthy controls ( HC ) .
+__label__0 As such , there is limited knowledge on MEG resting-state reliability in schizophrenia ( SZ ) .
+__label__1 Methods : To address test-retest reliability in psychosis , a reproducibility study of 26 participants ( 13 - SZ , 13 - HC ) was performed .
+__label__0 We collected eyes open and eyes closed resting-state data during 4 separate instances ( 2 Visits , 2 runs per visit ) to estimate spectral power reliability ( power , normalized power , alpha reactivity ) across one hour and one week .
+__label__1 Intraclass correlation coefficients ( ICCs ) were calculated .
+__label__1 For source modeling , we applied an anatomically constrained linear estimation inverse model known as dynamic statistical parametric mapping ( MNE dSPM ) and source-based connectivity using the weighted phase lag index .
+__label__1 Results : Across one week there was excellent test-retest reliability in global spectral measures in theta-gamma bands ( HC ICCAvg = 0.87 , SZ ICCAvg = 0.87 ) , regional spectral measures in all bands ( HC ICCAvg = 0.86 , SZ ICCAvg = 0.80 ) , and parietal alpha measures ( HC ICCAvg = 0.90 , SZ ICCAvg = 0.84 ) .
+__label__0 Conversely , functional connectivity had poor reliability , as did source spectral power across one hour for SZ .
+__label__0 Relative to HC , SZ also had reduced parietal alpha normalized power during eyes closed only , reduced alpha reactivity , and an association between higher PANSS positive scores and lower parietal alpha power .
+__label__0 Conclusions : There was excellent to good test-retest reliability in most MEG spectral measures with a few exceptions in the schizophrenia patient group .
+__label__1 Overall , these findings encourage the use of resting-state MEG while emphasizing the importance of determining reliability in clinical populations .
+__label__0 Materials and Methods Participants The current study included 13 individuals diagnosed with schizophrenia ( SZ ) and 13 healthy controls ( HC ) , age and gender matched , Table 1 .
+__label__1 Informed consent was obtained from all participants according to institutional guidelines .
+__label__1 The study was approved by the University of New Mexico Health Sciences Center Human Research Review Committee .
+__label__1 All participants were within 21 – 49 years of age with no history of neurological disorder ( e.g . epilepsy ) , no history of major head trauma ( loss of consciousness > 5 min ) , no current substance abuse diagnosis ( excluding nicotine ) , no current dependence / abuse of PCP / amphetamine / cocaine within the past 12 months , and were not currently on mood stabilizers such as lithium or valproic acid .
+__label__0 HC had IQ scores within the normal range and no history of developmental delays or neurological or psychiatric disorders based on the Structured Clinical Interview for DSM-IV-Non-patient ( SCIDNP ) .
+__label__1 HCs also did not have a family history of a psychotic disorder in first-degree relatives or a history of more than 1 lifetime depressive episode .
+__label__0 Participants with schizophrenia were confirmed to have a DSM-IV-TR diagnosis of schizophrenia with the Structured Clinical Interview for DSM-IV-Patient ( SCID-IP ) and retrospective clinical stability .
+__label__1 Participants were not excluded for nicotine use , however , they were not allowed to smoke within 1 hour of the MEG session or be more than 5 hours from their previous cigarette to avoid confounds of acute nicotine exposure or withdrawal .
+__label__0 The following assessments were collected in SZ participants and reported in Table 1 : Wechsler Test of Adult Reading ( WTAR ) , Standard and Predicted ( premorbid ) IQ , Positive and Negative Syndrome Scale ( PANSS ) , antipsychotic medication dose information , and duration of illness .
+__label__0 PANSS scores were determined for each visit .
+__label__1 Antipsychotic medication was converted to olanzapine equivalents for comparison between medication .
+__label__1 Duration of illness was calculated by subtracting age at onset of psychotic symptoms from current age .
+__label__1 MEG Behavioral Tasks All participants had two visits across 7 days [ HC = 7.54 days ± 60 minutes , SZ = 7.84 days ± 51 minutes ] .
+__label__1 Time of day between visits was matched to take into account circadian rhythm .
+__label__0 Each visit began with a 10 - minute rest task ( referred to as Rest10 ) and ended with a 4 - minute rest task ( referred to as Rest4 ) , see Figure 1 .
+__label__1 No responses were required from the participant ; however , participants were instructed to attend the instructions for prompts to close their eyes or fixate on a white cross .
+__label__1 Each task alternated between EC and EO .
+__label__0 In total , resting-state activity was recorded 4 separate times with 14 minutes of EO and 14 minutes of EC .
+__label__0 MEG Data Acquisition MEG data were collected in a magnetically shielded room ( Vacuumschmelze – Ak3B ) at the Mind Research Network in Albuquerque , New Mexico using a 306 - channel whole-head MEG system ( Elekta Neuromag ) with a sampling rate of 1000 Hz and an antialiasing filter with a passband of 0.1 – 330 Hz .
+__label__1 Prior to data acquisition , four electromagnetic coils were placed on the participant ’ s mastoid bone and upper forehead , along with electro-oculogram and electrocardiogram channels .
+__label__1 The location of the coils were registered to the nasion and preauricular points using three-dimensional digitization equipment ( Polhemus FastTrack ) .
+__label__0 Participants sat upright in the MEG during the task .
+__label__1 Continuous Head Position Indicator ( cHPI ) monitoring allowed for motion correction .
+__label__1 Head position was checked between visits .
+__label__0 For the Rest10 task , average Euclidean distance between visits was 4.62 mm for HC and 6.06 mm for SZ .
+__label__0 For the Rest4 task , the distance was 4.90 mm for HC and 6.12 mm for SZ .
+__label__0 Head position consistency was similar between HC and SZ ( all p ’ s > 0.31 ) .
+__label__0 Structural MRI Data Acquisition Structural MRIs were obtained for mapping source locations .
+__label__0 Sagittal T1 - weighted anatomical MR images were obtained using a Siemens TIM Trio 3 Tesla MRI system with a 32 - channel head coil .
+__label__0 Parameters of the multiecho 3D MPRAGE sequence were : TR / TE / TI = 2530 / 1.64 , 3.5 , 5.36 , 7.22 , 9.08 / 1200 ms , flip angle = 7 ° , field of view ( FOV ) = 256 mm x 256 mm , matrix = 256 × 256 , 1 mm thick slice , 192 slices , GRAPPA acceleration = 2 .
+__label__0 MEG Data Preprocessing Raw MEG data were filtered for noise and corrected for head motion with the Neuromag Max-Filter 2.2 software using the temporal extension of signal space separation ( t-SSS ) method with movement compensation .
+__label__0 MEG data from each subject ’ s Visit 2 was transformed to Visit 1 head position using Maxfilter 2.2 MaxMove option to ensure equivalent sensor locations between visits .
+__label__1 No downsampling of the data was implemented at the preprocessing stage .
+__label__1 Heartbeat and eye-blink artifacts were automatically detected and removed using signal space projection ( SSP ) in MNE software .
+__label__1 The continuous data were segmented into artifact-free 2 second epochs .
+__label__1 Epochs in which the magnetic field exceeded 5 pT were rejected .
+__label__0 HC had 2.4% and SZ had 4.6% of all epochs rejected .
+__label__0 The total number of epochs used for further analysis included 401 EC , 402 EO epochs in HC , and 393 EC , 403 EO epochs in SZ .
+__label__1 The number of closed / open epochs did not differ between groups ( all p ’ s > 0.25 ) .
+__label__0 MEG Spectral Analyses For sensor analysis , we applied the summary spectral measures described in to simplify multi-channel MEG spectral data .
+__label__1 Using only planar gradiometers , the sensor array was divided into left and right equivalent regions , see Figure 2 .
+__label__1 Spectral power was estimated using Matlab ’ s FFT function with a window size of 2048 for the following frequency bands : Delta ( 1 – 4 Hz ) , Theta ( 5 – 8 Hz ) , Alpha ( 9 – 13 Hz ) , Beta ( 14 – 29 Hz ) , and Gamma ( 31 – 58 Hz ) .
+__label__1 Spectral measures included : power , normalized power , half-power , Shannon Spectral Entropy ( SSE ) , and alpha reactivity .
+__label__1 Normalized power was obtained by dividing the power within the frequency band by total 1 – 50 Hz power .
+__label__1 Half power was defined as the midpoint frequency where half of the power is below / above for the 1 – 50 Hz range and indicates overall spectral power shifts from low to high frequencies .
+__label__1 Alpha reactivity was calculated using normalized spectral power values with the following : ( EC-EO ) / EO .
+__label__1 Global measures were the average of all regions and gradiometers .
+__label__0 For source analysis , the cortical surface of each participant was reconstructed from T1 - weighted MRI files using FreeSurfer with a repeatedly subdivided octahedron as the spatial subsampling method , creating 4,098 locations per hemisphere with a source space of 4.9 mm .
+__label__1 Source analysis was performed with MNE software using an anatomically constrained linear estimation inverse model known as dynamic statistical parametric mapping ( dSPM ) .
+__label__1 The regularization parameter corresponded with a signal-to-noise ratio of 3 .
+__label__1 Source orientation had a loose constraint of 0.2 .
+__label__1 The forward solution was calculated with a single layer ( inner skull ) boundary element method .
+__label__1 The dSPM inverse model identified where the estimated current at each cortical surface vertex differed significantly from baseline noise ( empty room data ) .
+__label__1 Power spectral density ( PSD ) measures were computed from epochs using a multi-taper method with Discrete Prolate Spheroidal Sequence ( DPSS ) windows for each frequency band and region , using 7 tapers at 4 Hz and regions of interest based on the FreeSurfer DKT atlas .
+__label__1 PSD represents the average spectral power derived from each voxel time series for each regional label .
+__label__1 Global measures were data from all regional labels averaged .
+__label__1 Normalized power was obtained by dividing the power within frequency band by the total 1 – 58 Hz power .
+__label__1 Functional network connectivity was estimated using a debiased estimator of the squared weighted phase lag index ( wPLI-debiased ) .
+__label__1 The FNC measure , wPLI-debiased , detects true changes in phase-synchronization , while reducing the influence of common noise sources , changes in phase of coherency , and avoids spuriously increases by volume-conduction .
+__label__1 It estimates the extent of observed phase leads and lags by the magnitude of the imaginary component of the cross-spectrum .
+__label__1 All data were exported to MATLAB ( 2018a , MathWorks ) and run through custom scripts .
+__label__1 Intraclass Correlation ( ICC ) ICC estimates and their 95% confidence intervals were calculated in SPSS to assess the between and within-subject variability using a two-way mixed effects model with absolute agreement , single measurement criteria , also known as ICC ( 3,1 ) model .
+__label__1 ICCs were calculated for multiple rest iterations : for each visit ( across one hour ) , for each task ( across one week ) and for all runs .
+__label__1 ICCs ranged from 0 to 1 ( negative values scored as zero ) with higher values indicating better reliability .
+__label__1 Following the guidelines of we defined ICCs as : excellent reliability > 0.75 , good reliability 0.75 – 0.60 , fair reliability 0.59 – 0.40 , and poor reliability < 0.40 .
+__label__1 Statistical Analysis All statistics were performed using SPSS ( version 25 for Macintosh ) .
+__label__1 Mixed Effect Repeated Measures-Analysis of Variance ( RM-ANOVAs ) had statistical thresholds set at p < 0.05 .
+__label__1 Greenhouse-Geisser corrections were made for sphericity violations .
+__label__1 The between-subject factor was Group ( HC , SZ ) , within-subject factors included Hemisphere ( Left , Right ) , Resting-State ( EO , EC ) , and / or Region [ Superior Parietal ( SupPar ) , Inferior Parietal ( InfPar ) , Precuneus ] depending on measure explored .
+__label__1 Significant interactions were followed-up with separate one-way ANOVAs , or t-tests on the factors of interest with familywise multiple comparisons correction using false discovery rate ( FDR ) correction with q = 0.05 .
+__label__1 Alcohol effects on globus pallidus connectivity : Role of impulsivity and binge drinking Despite the harm caused by binge drinking , the neural mechanisms leading to risky and disinhibited intoxication-related behaviors are not well understood .
+__label__1 Evidence suggests that the globus pallidus externus ( GPe ) , a substructure within the basal ganglia , participates in inhibitory control processes , as examined in stop-signaling tasks .
+__label__1 In fact , studies in rodents have revealed that alcohol can change GPe activity by decreasing neuronal firing rates , suggesting that the GPe may have a central role in explaining impulsive behaviors and failures of inhibition that occur during binge drinking .
+__label__0 In this study , twenty-five healthy volunteers underwent intravenous alcohol infusion to achieve a blood alcohol level of 0.08 g / dl , which is equivalent to a binge drinking episode .
+__label__0 A resting state functional magnetic resonance imaging scan was collected prior to the infusion and at binge-level exposure .
+__label__1 Functional connectivity analysis was used to investigate the association between alcohol-induced changes in GPe connectivity , drinking behaviors , and impulsivity traits .
+__label__0 We found that individuals with greater number of drinks or heavy drinking days in the recent past had greater alcohol-induced deficits in GPe connectivity , particularly to the striatum .
+__label__1 Our data also indicated an association between impulsivity and alcohol-induced deficits in GPe—frontal / precentral connectivity .
+__label__1 Moreover , alcohol induced changes in GPe-amygdala circuitry suggested greater vulnerabilities to stress-related drinking in some individuals .
+__label__1 Taken together , these findings suggest that alcohol may interact with impulsive personality traits and drinking patterns to drive alterations in GPe circuitry associated with behavioral inhibition , possibly indicating a neural mechanism by which binge drinking could lead to impulsive behaviors .
+__label__0 Methods This study was approved by the NIH Addictions Institutional Review Board under 12 - AA - 0032 .
+__label__1 All subjects provided written informed consent prior to their participation in the study .
+__label__0 Participants Twenty-five healthy ( 13 males , 12 females ; mean age : 28.85 years ) , light social drinkers were recruited by local advertisement , according to approved National Institutes of Health Institutional Review Board procedures .
+__label__1 The demographic data of participants is summarized in Table 1 .
+__label__0 After obtaining written informed consent , all participants underwent a comprehensive medical screen , including blood work , urinalysis , medical history , physical exam , and a Structured Clinical Interview for the DSM Axis-I Disorders ( SCID-IV ) .
+__label__0 Criteria for inclusion in this study were : healthy , 21 – 45 years old , consumption of 1 to 10 drinks per week for females and 1 to 14 drinks per week for males .
+__label__0 Subjects also had to have consumed at least two standard drinks of alcohol within one hour on at least one occasion in their lifetime .
+__label__1 Criteria for exclusion included : abnormal blood or urine lab test values or findings from the medical screen , DSM-IV criteria for alcohol or other substance dependence ( excluding nicotine ) at any time ; current or past major psychiatric disorder ( DSM-IV Axis I ) , head injury requiring hospitalization , Body Mass Index ( BMI ) value over 30 , inability to stop taking any medication or drugs 3 days prior to study days , and MRI contraindications .
+__label__1 Also , non-drinkers were excluded from the study due to ethical concerns related to alcohol administration .
+__label__1 Demographic , drinking , and impulsivity characteristics .
+__label__0 Variable Count Total n 25 Gender ( Male / Female ) 13 / 12 Smokers 1 Mean SD Age 28.85 7.40 Years Of Education 15.88 1.88 BIS : Total 54.76 9.62 Attentional Impulsiveness 12.96 2.99 Motor Impulsiveness 20.92 3.32 Nonplanning Impulsiveness 19.72 4.21 UPPS-P : Positive Urgency 1.36 0.31 Negative Urgency 1.66 0.44 Premeditation 1.78 0.42 Perseverence 1.53 0.39 Sensation Seeking 2.85 0.70 Delay Discounting Rate ( K ) 0.02 0.06 TLFB—Drinks Per Thirty Days 20.19 13.69 TLFB—Heavy Drinking Days 19.08 10.96 Abbreviations as follow : BIS - Barratt Impulsiveness Scale ; TLFB - Alcohol Timeline Followback .
+__label__0 Measures Alcohol drinking measures The amount of daily alcohol consumption over the last 90 days was measured using the Alcohol Timeline-Followback ( TLFB ) calendar—a drinking assessment method with good psychometric characteristics for estimating retrospective daily drinking patterns .
+__label__0 The number of heavy drinking days in the last 90 days was calculated from the TLFB ; a heavy drinking day is defined as 4 or more drinks per day for women and 5 or more drinks per day for men .
+__label__0 We used this as a measure for binge drinking .
+__label__0 Total drinks in the past 30 days was also calculated from the TLFB .
+__label__0 Past 30 - day drinking was used rather than 90 - day drinking given that we were interested in recent drinking , and that recent reports of drinking may be more reliable .
+__label__0 Impulsivity measures Impulsive behavioral traits were measured using the Barratt Impulsiveness Scale ( BIS - 11 ) and the UPPS-P Impulsive Behavior Scale , two of the most widely-used self-report tools in the evaluation of trait impulsivity .
+__label__0 The BIS - 11 scale evaluates impulsive behavior in general , and the motor , attentional and non-planning sub-scales evaluate acting without thinking , inability to focus attention and lack of forethought , respectively .
+__label__0 The UPPS-P measures personality traits conducive to impulsive behavior including Urgency ( negative ) — tendency to impulsively act under strong negative emotions , Premeditation ( lack of ) — tendency to act without thinking , Perseverance ( lack of ) to remain focused on a task , Sensation-seeking—tendency to seek out novel / thrilling experiences , and Positive-urgency—tendency to impulsively act under strong positive emotions .
+__label__0 We also evaluated choice impulsivity with the Delay Discounting Task ( DDT ) .
+__label__0 The DDT measures impulsivity by presenting the subject with a series of hypothetical choices between receiving a smaller immediate monetary reward or a larger delayed reward .
+__label__1 Subjects were presented as their immediate reward values between $100 and $0 dollars in increments of $10 , while the delayed reward was $100 .
+__label__1 Delays were 0 , 7 , 14 , 20 , 25 , or 30 days .
+__label__1 Subjects completed trials with all iterations of these parameters .
+__label__1 The rate of discounting of the delayed outcome ( k ) was calculated and then a natural log-transformation was applied to correct for the non-normal distribution of k values .
+__label__1 The resulting ln ( k ) is used to represent delay discounting , where higher ln ( k ) values mean greater preference for immediate rewards ( see Table 1 for descriptive statistics of drinking and impulsivity scores for the sample ) .
+__label__1 Experimental design and statistical analysis Overall timeline In this two-session study , healthy light drinkers received an IV alcohol infusion on two separate days .
+__label__1 The first session was conducted outside the scanner to establish the alcohol infusion rate profile to achieve and maintain the target BrAC exposure , and to ensure tolerability .
+__label__1 The alcohol infusion for the second session was conducted inside the scanner at least three days after the first session ( Fig 1 ) .
+__label__1 Participants were asked to fast the night before each session .
+__label__1 At the start of each visit , breath alcohol levels , urine pregnancy tests ( if applicable ) and urine drug screens were collected .
+__label__1 In addition , we conducted a brief history interview about recent alcohol , medication , and nicotine use , changes in physical health , and menstruation ( if applicable ) .
+__label__1 Timeline of intravenous alcohol infusion study .
+__label__1 The timeline depiction of the two-session intravenous alcohol infusion study ; sessions were separated at least three days from each other .
+__label__1 The session 2 timeline indicates timepoints of resting state and BAC measurement alongside IV infusion ; the first resting state scan occurred before the IV infusion at blood alcohol level of 0.0 g / dl and the second one was collected when the blood alcohol level reached the binge levels ( 0.08 g / dl ) .
+__label__0 Alcohol infusion to binge level exposure We performed the alcohol infusion procedure following previously published methods ( fMRI and PET ) .
+__label__1 In both sessions , participants received an intravenous ( IV ) infusion of 6% v / v ethanol solution in saline to achieve a target breath alcohol concentration ( BrAC ) of 0.08 ± 0.005 g / dl at 15 min after the start of the infusion , and to maintain ( or clamp ) the target BrAC level for 30 min ( Fig 1 ) .
+__label__1 The infusion-rate profile was computed for each subject using a physiologically-based pharmacokinetic ( PBPK ) model-based algorithm , with individualized estimates of the model parameters estimated from the subject ’ s height , weight , age and sex .
+__label__1 During the first session conducted outside the scanner , serial BrACs were measured at frequent intervals ( 5 – 15 minutes ) using the Alcotest 7410 + handheld breathalyzer ( Drager Safety Inc . , CO ) , to ensure that each BrAC was within 0.005 g / dl of the target , and to enable minor adjustments to the infusion rates to overcome errors in parameter estimation and experimental variability .
+__label__1 The adjusted infusion rate profile from the first session was used in the imaging session to replicate the target BrAC profile for each subject .
+__label__1 This approach has been used to successfully achieve and maintain target BrACs , as verified by blood alcohol concentrations measured in samples drawn during the scan in other neuroimaging studies .
+__label__1 After the end of the infusion , subjects were provided a meal , and BrAC was tracked until it dropped to 0.02 g / dL or below , at which time subjects were taken home by a designated driver or taxi .
+__label__1 Neuroimaging acquisition and preprocessing During session 2 , after the IV catheters were placed for alcohol infusion , participants were placed in a 3T SIEMENS Skyra MR scanner at the NMR Research Center at the NIH .
+__label__0 Before starting the IV infusion of alcohol , a 5 - min closed eyes resting-state fMRI scan was acquired with an echo-planar imaging sequence ( 36 axial slices , 3.8 mm thickness , 64 × 64 matrix and repetition time of 2000 ms , echo time 30 , flip angle 90 ) .
+__label__0 After collecting this baseline resting-state fMRI scan , the alcohol infusion started and once the target BAC was achieved , a 10 - minute waiting period was allowed to ensure the BAC was stable at the 0.08 g / dl level .
+__label__0 During the waiting period , whole-brain structural and diffusion-weighted images of the brain were collected .
+__label__0 Then , a second eyes-closed resting-state fMRI scan was collected while the target BAC ( 0.08 g / dl ) was maintained .
+__label__0 Following the MRI session , the Drug Effects Questionnaire was used to evaluate and quantify subjective effects of alcohol ( DEQ ) .
+__label__1 CONN ver .17f ( http : / / www.conn-toolbox.org ) , a MATLAB / SPM-based ( www.fil.ion.ucl.ac.uk / spm / ) software , was used to conduct spatial / temporal preprocessing and analyses .
+__label__1 Spatial preprocessing included slice-timing correction , realignment , co-registration , normalization , and spatial smoothing ( 8 mm ) .
+__label__1 Using the default settings in CONN , images were resliced into isotropic 2mm voxels .
+__label__1 Anatomical volumes were segmented into grey matter , white matter , and cerebrospinal fluid ( CSF ) areas and the resulting masks were eroded to minimize partial volume effects .
+__label__1 At the individual level , the temporal timeseries of the participant-specific six rotation-translation motion parameters and the timeseries from within the white matter / CSF masks were used as temporal covariates , and removed from the blood oxygen level-dependent ( BOLD ) functional data using linear regression .
+__label__1 The resulting residual BOLD timeseries were band-pass filtered ( 0.008Hz < f < 0.15Hz ) .
+__label__1 Neuroimaging analysis To our knowledge there is no reported sub-division of human GPe with concrete landmark definition and / or Talairach coordinate demarcation .
+__label__1 Therefore , for these analyses , we used right and left GPe masks obtained from the Lead-DBS toolbox ( http : / / www.lead-dbs.org / ) .
+__label__1 These anatomical masks were generated using manual tracing of several structural MRIs and subsequent co-registration with histological studies , and have a combined volume of approximately 929 mm3 .
+__label__1 Seed-based correlations were calculated as Fisher-transformed bivariate correlation coefficients between the BOLD activity timeseries in the seed ROI and each other individual voxel BOLD .
+__label__1 CSF , grey matter , white matter signals and motion were included as covariates for this model at the single subject level .
+__label__1 These correlations were calculated separately for the pre-infusion and post-infusion scans and for right and left GPe seeds .
+__label__1 For each of the pre - and post-infusion analyses , 150 time points ( across 300 seconds ) were used .
+__label__1 To examine group level effects , the resulting single-subject connectivity maps were used as input for second level analyses in a general linear model .
+__label__1 We modeled the within-subject effect of timepoint ( i.e . , post - versus pre-alcohol infusion ; see S1 File , S1 Fig and S1 Table for report of the main effects of alcohol administration ) and between-subject effects of impulsivity ( BIS - 11 , UPPS-P , and DDT ) and recent drinking behaviors ( number of drinks in the last 30 days , number of heavy drinking days ) .
+__label__1 S1 Table indicates clusters identified as showing significant changes from pre to post alcohol infusion , as well as associated statistics .
+__label__1 For the seed-to-voxel analysis , reported clusters survived a height threshold of uncorrected p < 0.001 with a cluster level extent threshold of FDR-corrected p < 0.05 .
+__label__1 In Figs 3 – 5 , these clusters are shown overlaid on structural brain cutaways .
+__label__1 Corresponding line plots are only for visual interpretation of these effects .
+__label__1 We also examined sex effects on alcohol-related changes in GPe connectivity at the whole brain level ; there were no significant differences between males and females .
+__label__1 In order to test our hypothesis that the interaction between recent drinking behaviors and impulsivity would contribute to alcohol-induced changes in GPe functional connectivity , we extracted ROI-to-voxel correlation values between the seeds and significant clusters and used those values to conduct multiple regression analysis in R / RStudio ( version 3.4.2 / 1.1.383 ) .
+__label__1 We modeled drinking history , impulsivity , and the interaction between the two as independent variables on the dependent variable of change in GPe connectivity .
+__label__1 We conducted these analyses only for significant clusters identified in the seed-to-voxel analysis , and only for the significant drinking and impulsivity measures .
+__label__1 For the drinking measures identified in that seed-to-voxel analysis , models ( for the specific significant cluster only ) included the significant drinking variable as well as one of the two significant impulsivity variables ; thus , 2 regressions per cluster were run .
+__label__1 Similarly , for significant impulsivity measures , 2 regressions per cluster were run ( as there are two drinking variables ) .
+__label__1 This resulted in a total of 20 tests .
+__label__1 We then adjusted the omnibus test statistics to correct for multiple comparisons using FDR of < 0.05 .
+__label__1 Of those regressions , only those with significant interaction effects are reported .
+__label__0 Disturbances across whole brain networks during reward anticipation in an abstinent addiction population Graphical abstract Network based statistics ( NBS ) analyses detected a graph sub-network comprising 153 edges between 59 nodes of the connectome where the ADD group demonstrated significantly less connectivity compared with the CON group .
+__label__1 These differences in connectivity were mostly intra-hemispheric ( 55% ) , the majority ( 38% ) being in the right hemisphere .
+__label__1 The anatomical distribution of these connectivity differences between the two groups involved frontal ( insula , inferior frontal gyrus , orbitofrontal cortex ) , limbic-associated ( anterior cingulate gyrus , thalamus ) , and striatal ( accumbens , caudate , pallidum ) regions .
+__label__0 The connectivity differences reported in this ADD sample indicate alterations between cognitive , striatal and limbic-associated regions during reward anticipation that persist into extended abstinence .
+__label__1 Highlights Analytical methods can capture key features of whole brain networks in addiction .
+__label__0 We compared reward network connectivity in addiction ( ADD ) and control ( CON ) groups .
+__label__0 The ADD group showed disruptions in global network connectivity .
+__label__1 Global network measures may be more sensitive than traditional voxel-wise analyses .
+__label__1 The prevalent spatial distribution of abnormalities reported in cognitive fMRI studies in addiction suggests there are extensive disruptions across whole brain networks .
+__label__1 Studies using resting state have reported disruptions in network connectivity in addiction , but these studies have not revealed characteristics of network functioning during critical psychological processes that are disrupted in addiction populations .
+__label__1 Analytic methods that can capture key features of whole brain networks during psychological processes may be more sensitive in revealing additional and widespread neural disturbances in addiction , that are the provisions for relapse risk , and targets for medication development .
+__label__0 The current study compared a substance addiction ( ADD ; n   =   83 ) group in extended abstinence with a control ( CON ; n   =   68 ) group on functional MRI ( voxel-wise activation ) and global network ( connectivity ) measures related to reward anticipation on a monetary incentive delay task .
+__label__0 In the absence of group differences on MID performance , the ADD group showed reduced activation predominantly across temporal and visual regions , but not across the striatum .
+__label__0 The ADD group also showed disruptions in global network connectivity ( lower clustering coefficient and higher characteristic path length ) , and significantly less connectivity across a sub-network comprising frontal , temporal , limbic and striatal nodes .
+__label__0 These results show that an addiction group in extended abstinence exhibit localised disruptions in brain activation , but more extensive disturbances in functional connectivity across whole brain networks .
+__label__1 We propose that measures of global network functioning may be more sensitive in highlighting latent and more widespread neural disruptions during critical psychological processes in addiction and other psychiatric disorders .
+__label__0 Material and methods Participants Sixty-eight control ( CON : mean age 39.79   ±   1.22 ; 18 females , 50 males ) and 83 addiction ( ADD : mean age 40.05   ±   0.92 ; 16 females , 67 males ) participants completed the current study .
+__label__1 The current dataset was collected as part of a multi-centre study involving three study sites in the United Kingdom ( Imperial College London , University of Cambridge and University of Manchester – ICCAM ) .
+__label__1 For a more detailed description of the ICCAM Platform , see ) and .
+__label__1 Inclusion criteria were individuals who met DSM-IV measures for current or prior substance dependence ( e.g . , alcohol , cocaine , opiates ) .
+__label__0 The ADD group consisted of 29 ( 35% ) pure alcohol-dependent , 42 ( 50% ) poly substance-dependent ( e.g . , alcohol and cocaine , cocaine and opiate ) and 12 ( 15% ) mono substance-dependent ( e.g . , cocaine , opiates ) volunteers .
+__label__1 While addiction studies typically recruit volunteers in early abstinence , there was no upper limit in the current study .
+__label__1 The mean abstinence length from alcohol in the current sample was 15.00   ±   3.50   months , while for cocaine and opiates it was 27.99   ±   3.72 and 39.04   ±   7.75   months , respectively .
+__label__1 Therefore , the current ADD group was made of a heterogenous sample with former substance-dependencies , and with variable levels of substance abstinence at the time of testing .
+__label__0 This meant that there was no substance dependence measure that was shared by all members of the ADD group .
+__label__0 The CON group had no previous history of substance abuse , as assessed using the Alcohol , Smoking and Substance Involvement Screening Test ( ASSIST ) and timeline follow-back .
+__label__1 All participants were required to provide a negative breath alcohol test and a negative urine sample for various drugs of abuse on the day of testing ( screening for the presence of amphetamines , benzodiazepines , cannabinoids , cocaine and opiates ) .
+__label__0 The Mini-International Neuropsychiatric Interview ( MINI ) was administered to all participants by a trained psychiatrist to screen for the presence of Axis I psychiatric disorders that were part of the study exclusion criteria .
+__label__1 Exclusion criteria included 1 ) current use of regular prescription or non-prescription medication that could not be stopped ; 2 ) current primary axis I diagnosis , past history of psychosis ( unless drug-induced ) ; 3 ) current or past history of enduring severe mental illness ( e.g . , schizophrenia , bipolar affective disorder ) ; 4 ) other current or past psychiatric history that , in the opinion of a psychiatrist , contraindicated participation ; 5 ) history or presence of a significant neurological diagnosis that may have influenced the outcome or analysis of the results ; 6 ) claustrophobia or unable to lie still in the MRI scanner for up to 90   min and 7 ) presence of a cardiac pacemaker , other electronic device or other MRI contraindication , including pregnancy , as assessed by a standard pre-MRI questionnaire .
+__label__0 Secondary or lifetime history of depression or anxiety was permitted in both the ADD and CON groups since these are very common psychiatric disorders .
+__label__1 All participants provided written informed consent .
+__label__1 The study was conducted in accordance with the Declaration of Helsinki .
+__label__1 Ethical approval was obtained from West London and Gene Therapy Advisory Committee National Research Ethics Service Committee ( 11 / H0707 / 9 ) and relevant research governance and Participant Identification Centre ( PIC ) approvals obtained .
+__label__1 Monetary incentive delay task ( MID ) We used a “ monetary incentive delay task ” ( MID ) , which was based on that originally employed by Knutson , and which we have used to already publish data from the ICCAM platform .
+__label__1 At the beginning of each trial , participants viewed one of three symbols ( a cue ) that indicated the potential to gain fifty pence ( square containing an ascending arrow ) , lose fifty pence ( square containing a descending arrow ) or experience no financial outcome ( square containing a horizontal line - here referred to as a neutral trial ) .
+__label__1 Each cue was presented for one second , with a variable duration ( 2 – 4   s ) for the subsequent anticipation period .
+__label__1 Following the anticipation period , participants made a button press response upon the presentation of a visual target ( star located within a circle ) .
+__label__1 Following their response to the visual target , participants received feedback ( 1.5   s ) as to whether they were successful ( “ Hit ” ) or unsuccessful ( “ Miss ” ) on that trial and saw a running total of their winnings up to that point in the task .
+__label__1 Following feedback , there was an end fixation period ( 3 – 5   s ) before the commencement of the next trial .
+__label__1 Because the primary objective of ICCAM was to examine the neural correlates of reward anticipation , we chose to use a smaller number of loss trials in order to amplify the incentive salience of the gain trials during the task .
+__label__1 Consequently , there was a total of 18 gain , 6 lose and 18 neutral trials on each run of the task .
+__label__1 The MID task was tailored to adapt to the visual target reaction time of each participant by using a staircase algorithm , such that the presentation of the visual target became shorter as performance improved during the experiment .
+__label__1 This enabled us to set a limit on the success rate of each participant ( ∼ 66% ) , which additionally served to incentivize participants to engage in the task .
+__label__1 Participants were instructed to maximize their winnings and were told they would receive them at the end of the study .
+__label__1 Dependent measures were accuracy ( percentage ) and mean reaction time ( milliseconds ) to the visual target on each of the gain , lose and neutral trials , and the amount won ( £ ) on the task .
+__label__1 Participants completed two runs of the task ( 432   s each ) during scanning .
+__label__1 The task was programmed using E-Prime version 2.0 ( Psychology Software Tools , Pittsburgh , USA ) .
+__label__1 Statistics Group demographics were compared using simple independent samples t-test analyses .
+__label__1 For analyses conducted on MID performance , two ( Group : CON vs .
+__label__1 ADD ) by two ( Condition : Gain vs .
+__label__1 Neutral ) analyses of variance were conducted .
+__label__0 The CON and ADD groups were also compared on the lose accuracy and lose reaction time performance measures , as well as the amount of money won ( £ ) , using analyses of variance .
+__label__1 These analyses were conducted controlling for study site .
+__label__1 For the graph measures ( see below ) we conducted two ( Group : CON vs .
+__label__1 ADD ) by five ( 1   ⩽   K   ⩽   5 ) analyses of variance , while also controlling for study site .
+__label__1 All these analyses were conducted using permutation testing ( 5000 iterations ) in the R statistical software package ( www.R-project.org ) .
+__label__0 Functional MRI ( fMRI ) Data acquisition The ICCAM platform was designed to allow the rapid testing across sites of multiple compounds relevant to addiction treatment .
+__label__1 Imaging at multiple sites in parallel on the ICCAM platform accelerated study completion , through the sharing of expertise , infrastructure and capacity .  
+__label__1 For a more comprehensive description of data acquisition across the three sites on ICCAM , please see McGonigle et al .
+__label__1 Briefly , all centres operated MRI machines with a main magnetic field of 3   T ( T ) .
+__label__1 Centres in London and Cambridge operated nominally identical 3   T Siemens Tim Trio systems running the syngo MR B17 software with a Siemens 32 channel receive-only phased-array head coil .
+__label__1 The Manchester centre operated a 3   T Philips Achieva running version 2.6.3.5 software and an 8 element SENSE head coil .

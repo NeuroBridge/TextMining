@@ -2,12 +2,12 @@
 
 Here lies code used to extract entity from raw text. 
 
-See TokenPipeline for our two-stage token level entity recognition work. Preprocessed data and results are available in this folder. 
+See TokenPipeline for our two-stage token level entity recognition work.
 
-See Data&Preprocessing for the wtsv documents and codes used to transform them in form that can be understood by BERT-NER and FastText. Data spliting function is also included.
+See DataPreprocessing for the wtsv documents and codes used to transform them in form that can be understood by BERT-NER (.conll). Codes used to process jsons and generate conll files for unannotated articles are also available here.
+
+See DataPostprocessing for codes regarding aligning output of two-stage model in article-level, after which we can get articles with their corresponding concepts and evaluate performance of the whole model. Query_generator is a file used to retrieve top-k articles using NBC, which can automatize the retrieval of articles used in human judgement.
 
 See TextClassification for a very simple example showing the performance of sentence-level classification.
 
-## Other code that will appear here later:
 
-Data preparation for usage of Solr search engine: some scripts used to generate json files containing information readable and necessary for Solr to index.

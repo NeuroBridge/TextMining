@@ -76,8 +76,8 @@ def ent_linking(tokens, onto):
   # search for closest entity based on Jaccard similarity
   
   s = ' '.join(tokens)
-  # if solr_search(tokens, 'NB'):
-           # return solr_search(tokens, 'NB')
+  if solr_search(tokens, 'Fuzzy_Matching'):
+           # return solr_search(tokens, 'Fuzzy_Matching')
   
   
   onto_list = [str(i).split('.')[-1] for i in onto.classes()]
@@ -97,11 +97,11 @@ def ent_linking(tokens, onto):
 onto = get_ontology("NeuroBridge_093021.owl").load()
 
 # load predicted results
-recog_file = open("label_test.txt",'r',encoding = 'utf-8')
+recog_file = open("output/result_dir/label_test.txt",'r',encoding = 'utf-8')
 lines = recog_file.read().split('\n')
 
 # load raw text
-words = [i for i in open("token_test.txt",'r',encoding = 'utf-8').read().split('\n') if i!='' and i!=' ']
+words = [i for i in open("data/test.txt",'r',encoding = 'utf-8').read().split('\n') if i!='' and i!=' ']
 words = [i.split(' ')[0] for i in words]
 
 y_test_list,y_pred_list= [],[]

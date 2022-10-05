@@ -16,9 +16,9 @@
     --learning_rate=2e-5   \
     --num_train_epochs=4.0   \
     --output_dir=./output/result_dir \
-    --data_train="token_train.txt"  \
-    --data_dev="token_dev.txt"  \
-    --data_test="test_token.txt"  
+    --data_train="train.txt"  \
+    --data_dev="dev.txt"  \
+    --data_test="test.txt"  
 
 
 perl conlleval.pl -d '\t' < ./output/result_dir/label_test.txt

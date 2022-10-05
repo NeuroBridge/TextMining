@@ -77,7 +77,7 @@ def ent_linking(tokens, onto):
   
   s = ' '.join(tokens)
   if solr_search(tokens, 'Fuzzy_Matching'):
-           # return solr_search(tokens, 'Fuzzy_Matching')
+           return solr_search(tokens, 'Fuzzy_Matching')
   
   
   onto_list = [str(i).split('.')[-1] for i in onto.classes()]

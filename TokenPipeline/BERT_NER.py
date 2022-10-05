@@ -17,9 +17,13 @@ from absl import flags,logging
 from bert import modeling
 from bert import optimization
 from bert import tokenization
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
+import tensorflow as tf2
+import tensorflow_addons as tfa
+#import tensorflow as tf
 import metrics
 import numpy as np
+tf.disable_v2_behavior()
 FLAGS = flags.FLAGS
 
 ## Required parameters
@@ -121,6 +125,9 @@ flags.DEFINE_integer(
 
 flags.DEFINE_string("middle_output", "middle_data", "Dir was used to store middle data!")
 flags.DEFINE_bool("crf", True, "use crf!")
+flags.DEFINE_string('data_train',None,'train_path')
+flags.DEFINE_string('data_dev',None,'dev_path')
+flags.DEFINE_string('data_test',None,'test_path')
 
 class InputExample(object):
   """A single training/test example for simple sequence classification."""
@@ -190,7 +197,7 @@ class DataProcessor(object):
             word = line.strip().split(' ')[0]
             label = line.strip().split(' ')[-1]
             # here we dont do "DOCSTART" check
-            if len(line.strip())==0 and words[-1] == '.':
+            if len(line.strip())==0:# and words[-1] == '.':
                 l = ' '.join([label for label in labels if len(label) > 0])
                 w = ' '.join([word for word in words if len(word) > 0])
                 lines.append((l,w))
@@ -204,17 +211,17 @@ class DataProcessor(object):
 class NerProcessor(DataProcessor):
     def get_train_examples(self, data_dir):
         return self._create_example(
-            self._read_data(os.path.join(data_dir, "train.txt")), "train"
+            self._read_data(os.path.join(data_dir, FLAGS.data_train)), "train"
         )
 
     def get_dev_examples(self, data_dir):
         return self._create_example(
-            self._read_data(os.path.join(data_dir, "dev.txt")), "dev"
+            self._read_data(os.path.join(data_dir, FLAGS.data_dev)), "dev"
         )
 
     def get_test_examples(self,data_dir):
         return self._create_example(
-            self._read_data(os.path.join(data_dir, "test.txt")), "test"
+            self._read_data(os.path.join(data_dir, FLAGS.data_test)), "test"
         )
 
 
@@ -227,7 +234,8 @@ class NerProcessor(DataProcessor):
         
         
         #return ["[PAD]","B-E","I-E", "O", "X","[CLS]","[SEP]"]
-        return ["[PAD]","B-E","I-E", 'B-FunctionalMagneticResonanceImaging', 'I-FunctionalMagneticResonanceImaging', 'O', 'B-CannabisAbuse', 'I-CannabisAbuse', 'B-NoKnownDisorder', 'I-NoKnownDisorder', 'B-StudyMethod', 'I-StudyMethod', 'B-SubstanceCravingScale', 'I-SubstanceCravingScale', 'B-StructuralImaging', 'I-StructuralImaging', 'B-TaskParadigmImaging', 'I-TaskParadigmImaging', 'B-T1WeightedImaging', 'I-T1WeightedImaging', 'B-Schizophrenia', 'B-Unmedicated', 'I-Unmedicated', 'I-Schizophrenia', 'B-PositronEmissionTomography', 'I-PositronEmissionTomography', 'B-PositiveandNegativeSyndromeScale', 'I-PositiveandNegativeSyndromeScale', 'B-ScaleforAssessmentofPositiveSymptoms', 'I-ScaleforAssessmentofPositiveSymptoms', 'B-ScaleforAssessmentofNegativeSymptoms', 'I-ScaleforAssessmentofNegativeSymptoms', 'B-RestingStateImaging', 'I-RestingStateImaging', 'B-AlcoholAbuse', 'I-AlcoholAbuse', 'B-Electrooculogram', 'I-Electrooculogram', 'B-Electroencephalogram', 'I-Electroencephalogram', 'B-SubstanceDisorder', 'I-SubstanceDisorder', 'B-GoNoGoTask', 'I-GoNoGoTask', 'B-Abstinent', 'I-Abstinent', 'B-FirstEpisodePsychosis', 'I-FirstEpisodePsychosis', 'B-MagneticResonanceImagingInstrument', 'I-MagneticResonanceImagingInstrument', 'B-NeurocognitiveTest', 'I-NeurocognitiveTest', 'B-AttentionDeficitHyperactivityDisorder', 'B-Questionnaire', 'I-Questionnaire', 'B-OpioidAbuse', 'I-OpioidAbuse', 'B-StructuredClinicalInterviewforDSMDisorders', 'I-StructuredClinicalInterviewforDSMDisorders', 'B-MajorDepressiveDisorder', 'I-MajorDepressiveDisorder', 'B-AnxietyDisorder', 'I-AnxietyDisorder', 'B-SubstanceUseScale', 'I-SubstanceUseScale', 'B-*', 'I-*', 'B-FunctionalNearInfraredSpectroscopy', 'I-FunctionalNearInfraredSpectroscopy', 'B-MagneticResonanceImaging', 'I-MagneticResonanceImaging', 'B-PsychopathologyScale', 'I-PsychopathologyScale', 'B-FunctionalImagingProtocol', 'B-PsychoticDisorder', 'I-PsychoticDisorder', 'B-MethamphetamineDependence', 'I-MethamphetamineDependence', 'B-ImpulseControlDisorder', 'I-ImpulseControlDisorder', 'B-MentalHealthDiagnosisScale', 'I-MentalHealthDiagnosisScale', 'I-FunctionalImagingProtocol', 'B-BarrattImpulsivenessQuestionnaire', 'I-BarrattImpulsivenessQuestionnaire', 'B-SubstanceDisorderStatus', 'I-SubstanceDisorderStatus', 'B-ComprehensiveAssessmentofSymptomsandHistory', 'I-ComprehensiveAssessmentofSymptomsandHistory', 'B-FamilyHistoryAssessmentModule', 'I-FamilyHistoryAssessmentModule', 'B-NationalAdultReadingTest', 'I-NationalAdultReadingTest', 'B-PersonalityRatingScale', 'I-PersonalityRatingScale', 'B-BeckDepressionInventory', 'I-BeckDepressionInventory', 'B-Semi-StructuredAssessmentfortheGeneticsofAlcoholism', 'B-TaskParadigmImagingProtocol', 'I-TaskParadigmImagingProtocol', 'B-CocaineAbuse', 'I-CocaineAbuse', 'B-NondependentAlcoholAbuse', 'I-NondependentAlcoholAbuse', 'B-AlcoholUseDisordersIdentificationTest', 'I-AlcoholUseDisordersIdentificationTest', 'B-FagerstromTestforNicotineDependence', 'I-FagerstromTestforNicotineDependence', 'B-MentalStateAssessmentScale', 'I-MentalStateAssessmentScale', 'B-T2WeightedImaging', 'I-T2WeightedImaging', 'B-Magnetoencephalography', 'B-DrinkingEpisode', 'I-DrinkingEpisode', 'B-DrinkingSession', 'I-DrinkingSession', 'B-ImpulsivityScale', 'I-ImpulsivityScale', 'B-AlcoholUseQuestionnaire', 'I-AlcoholUseQuestionnaire', 'B-DrinkingBinge', 'I-DrinkingBinge', 'B-DrinkingDay', 'I-DrinkingDay', 'B-DiffusionWeightedImaging', 'I-DiffusionWeightedImaging', "X","[CLS]","[SEP]"]
+        return ["[PAD]","B-E","I-E", 'O',  'B-Depression', 'B-Schizophrenia', 'I-Depression', 'I-Schizophrenia', 'B-NoKnownDisorder', 'I-NoKnownDisorder', 'B-FunctionalMagneticResonanceImaging', 'B-MagneticResonanceImaging', 'I-MagneticResonanceImaging', 'B-TaskParadigmImaging', 'I-TaskParadigmImaging', 'B-Questionnaire', 'B-StudyMethod', 'I-StudyMethod', 'B-MedicationStatus', 'I-MedicationStatus', 'B-NegativeSymptomScale', 'I-NegativeSymptomScale', 'I-FunctionalMagneticResonanceImaging', 'B-T2WeightedImaging', 'I-T2WeightedImaging', 'B-T1WeightedImaging', 'I-T1WeightedImaging', 'B-AttentionDeficitHyperactivityDisorder', 'B-CannabisAbuse', 'I-CannabisAbuse', 'B-GoNoGoTask', 'I-GoNoGoTask', 'I-AttentionDeficitHyperactivityDisorder', 'B-SubstanceDisorder', 'I-SubstanceDisorder', 'B-TaskParadigmImagingProtocol', 'I-Questionnaire', 'B-MagneticResonanceImagingInstrument', 'I-MagneticResonanceImagingInstrument', 'B-FunctionalImagingProtocol', 'I-FunctionalImagingProtocol', 'B-RestingStateImaging', 'I-RestingStateImaging', 'B-PositiveandNegativeSyndromeScale', 'I-PositiveandNegativeSyndromeScale', 'B-DiffusionWeightedImaging', 'I-DiffusionWeightedImaging', 'B-BipolarDisorder', 'I-BipolarDisorder', 'B-StructuredClinicalInterviewforDSMDisorders', 'I-StructuredClinicalInterviewforDSMDisorders', 'B-AlcoholAbuse', 'I-AlcoholAbuse', 'B-StructuralImaging', 'I-StructuralImaging', 'B-AlcoholUseDisordersIdentificationTest', 'I-AlcoholUseDisordersIdentificationTest', 'B-MentalHealthDiagnosisScale', 'I-MentalHealthDiagnosisScale', 'B-NicotineAbuse', 'I-NicotineAbuse', 'B-FagerstromTestforNicotineDependence', 'I-FagerstromTestforNicotineDependence', 'B-PositronEmissionTomography', 'I-PositronEmissionTomography', 'B-HighRisk', 'I-HighRisk', 'B-LowRisk', 'I-LowRisk', 'B-DrinkingandDrugHistoryQuestionnaire', 'I-DrinkingandDrugHistoryQuestionnaire', 'B-SchizoaffectiveDisorder', 'I-SchizoaffectiveDisorder', 'B-NeurocognitiveTest', 'I-NeurocognitiveTest', 'B-StimulantDependence', 'I-StimulantDependence', 'B-CocaineAbuse', 'B-MethamphetamineDependence', 'I-MethamphetamineDependence', 'I-CocaineAbuse', 'B-DrugDependence', 'I-DrugDependence', 'B-AddictionSeverityIndex', 'I-AddictionSeverityIndex', 'B-CocaineCravingQuestionnaire\\_BriefVersion', 'I-CocaineCravingQuestionnaire\\_BriefVersion', 'B-OpioidAbuse', 'I-OpioidAbuse', 'B-AnxietyDisorder', 'B-BeckDepressionInventory', 'I-BeckDepressionInventory', 'B-HamiltonAnxietyRatingScale', 'I-HamiltonAnxietyRatingScale', 'B-Electroencephalogram', 'I-Electroencephalogram', 'B-ScaleforAssessmentofPositiveSymptoms', 'I-ScaleforAssessmentofPositiveSymptoms', 'B-ScaleforAssessmentofNegativeSymptoms', 'I-ScaleforAssessmentofNegativeSymptoms', 'B-StructuralImagingProtocol', 'I-StructuralImagingProtocol', 'B-Electrocardiograph', 'I-Electrocardiograph', 'B-SubstanceCravingScale', 'I-SubstanceCravingScale', 'B-SubstanceUseScale', 'I-SubstanceUseScale', 'B-Spectroscopy', 'B-WorkingMemoryTask', 'I-WorkingMemoryTask', 'I-TaskParadigmImagingProtocol', 'I-Spectroscopy', 'B-PolysubstanceDependence', 'I-PolysubstanceDependence', 'B-DrugAbuse', 'B-Semi-StructuredAssessmentfortheGeneticsofAlcoholism', 'B-DepressionRatingScale', 'B-BalloonAnalogueRiskTask', 'B-DifffusionTensorImaging', 'B-ConductDisorder', 'I-ConductDisorder', 'B-Scale', 'I-Scale', 'B-RestingStateImagingProtocol', 'I-RestingStateImagingProtocol', 'I-DrugAbuse', 'B-Abstinent', 'I-Abstinent', 'B-StudyExclusionCriterion', 'I-StudyExclusionCriterion', 'B-CocaineSelectiveSeverityAssessmentScale', 'I-CocaineSelectiveSeverityAssessmentScale', 'B-ScheduleforDeficitSyndrome', 'I-ScheduleforDeficitSyndrome', 'B-BriefPsychiatricRatingScale', 'B-PsychoticDisorder', 'I-PsychoticDisorder', 'B-CAARMSPsychosisThresholdCriteria', 'I-CAARMSPsychosisThresholdCriteria', 'I-DepressionRatingScale', 'B-DrinkingBinge', 'I-DrinkingBinge', 'B-PersonalityRatingScale', 'I-PersonalityRatingScale', 'B-HarmfulUseofKetamine', 'I-HarmfulUseofKetamine', 'B-Magnetoencephalography', 'I-Magnetoencephalography', 'B-SocioEconomicStatus', 'I-SocioEconomicStatus', 'B-FirstEpisodePsychosis', 'I-FirstEpisodePsychosis', 'B-PsychopathologyScale', 'I-PsychopathologyScale', 'B-AlcoholUseQuestionnaire', 'I-AlcoholUseQuestionnaire', 'B-Unmedicated', 'I-Unmedicated', 'B-DiagnosticInterviewforGeneticStudies', 'I-DiagnosticInterviewforGeneticStudies', 'B-EdinburghHandednessInventoryQuestionnaire', 'I-EdinburghHandednessInventoryQuestionnaire', 'B-WechslerMemoryScale-Revised', 'B-MajorDepressiveDisorder', 'I-MajorDepressiveDisorder', 'B-*', 'I-BriefPsychiatricRatingScale', 'I-*', 'B-Education', 'I-Education', 'B-PathologicalGambling', 'I-PathologicalGambling', 'B-Electroencephalograph', 'I-Electroencephalograph', 'B-Electrooculogram', 'I-Electrooculogram', 'B-AmphetamineDependence', 'B-ChildhoodTraumaQuestionnaire', 'I-ChildhoodTraumaQuestionnaire', 'B-ImpulsiveSensationSeekingScale', 'I-ImpulsiveSensationSeekingScale', 'B-PolysubstanceAbuse', 'I-PolysubstanceAbuse', 'B-NondependentAlcoholAbuse', 'I-NondependentAlcoholAbuse', 'B-N-BackTaskTest', 'B-SpielbergerState-TraitAnxietyInventory', 'B-CambridgeNeuropsychologicalTestAutomatedBattery', 'I-CambridgeNeuropsychologicalTestAutomatedBattery', 'B-AutismSpectrumDisorder', 'I-AutismSpectrumDisorder', 'B-NeuroImagingProtocol', 'B-BehavioralActivationScale', 'I-BehavioralActivationScale', 'B-RewardSensitivitySubscale', 'I-RewardSensitivitySubscale', 'B-GamingDisorder', 'I-GamingDisorder', 'B-SimpsonAngusScale', 'I-SimpsonAngusScale', 'B-SpatialWorkingMemory', 'I-SpatialWorkingMemory', 'B-RatingScale', 'I-RatingScale', 'B-ImpulsivityScale', 'I-ImpulsivityScale', 'B-Electrocorticogram', 'B-ControlSubject', 'I-BalloonAnalogueRiskTask', "B-Children'sDepressionInventory", "I-Children'sDepressionInventory", "B-RevisedChildren'sManifestAnxietyScale", "I-RevisedChildren'sManifestAnxietyScale", 'B-AlcoholRelatedNeurodevelopmentalDisorder', 'I-AlcoholRelatedNeurodevelopmentalDisorder', 'B-FunctionalNearInfraredSpectroscopy', 'I-FunctionalNearInfraredSpectroscopy', 'B-NeurodevelopmentalDisorder', 'I-NeurodevelopmentalDisorder', 'B-MentalStateAssessmentScale', 'I-MentalStateAssessmentScale', 'B-PersonalandSocialPerformanceScale', 'I-PersonalandSocialPerformanceScale', 'I-AnxietyDisorder', 'B-BiphasicAlcoholEffectsScale', 'I-BiphasicAlcoholEffectsScale', 'B-AutisticDisorder', 'B-VerbalFluencyTask', 'I-VerbalFluencyTask', 'B-AuditoryHallucinationsSubscaleofPsychoticSymptomsRatingScale', 'I-AuditoryHallucinationsSubscaleofPsychoticSymptomsRatingScale', 'B-WisconsinSmokingWithdrawalScale', 'I-WisconsinSmokingWithdrawalScale', 'B-QuestionnaireonSmokingUrges', 'I-QuestionnaireonSmokingUrges', 'B-BarrattImpulsivenessQuestionnaire', 'I-BarrattImpulsivenessQuestionnaire', 'B-StructuredInterviewforProdromalSyndromesRatingScale', 'I-StructuredInterviewforProdromalSyndromesRatingScale', 'B-BriefIntermittentPsychoticSyndrome', 'I-BriefIntermittentPsychoticSyndrome', 'B-Parkinsonism', 'I-Parkinsonism', 'B-TheMontrealCognitiveAssessment', 'I-TheMontrealCognitiveAssessment', 'B-ImpulseControlDisorder', 'I-ImpulseControlDisorder', 'B-Montgomery–AsbergDepressionRatingScale', 'I-Montgomery–AsbergDepressionRatingScale', 'B-Hallucination', 'I-Hallucination', 'B-BriefAssessmentofCognitioninSchizophrenia', 'I-BriefAssessmentofCognitioninSchizophrenia', 'I-NeuroImagingProtocol', 'B-AuditoryOddballTask', 'I-AuditoryOddballTask', 'B-SternbergItemRecognitionParadigmTask', 'I-SternbergItemRecognitionParadigmTask', 'B-PostTraumaticStressDisorder', 'I-PostTraumaticStressDisorder', 'B-ClinicalRiskStatus', 'I-ClinicalRiskStatus', 'B-Sedative-hypnotic-anxiolyticUseDisorderScale', 'B-ComprehensiveAssessmentofSymptomsandHistory', 'I-ComprehensiveAssessmentofSymptomsandHistory', 'B-NationalAdultReadingTest', 'I-NationalAdultReadingTest', 'B-StructuredClinicalInterviewfortheDiagnosticStatisticalManualofMentalDisorder', 'I-StructuredClinicalInterviewfortheDiagnosticStatisticalManualofMentalDisorder', 'B-NondependentCannabisAbuse', 'I-NondependentCannabisAbuse', 'B-SocialStatusQuestionnaire', 'I-SocialStatusQuestionnaire', 'B-ChronicSchizophrenia', 'I-ChronicSchizophrenia', 'B-CaliforniaVerbalLearningTest-II', 'B-ObsessiveCompulsiveDisorder', 'I-ObsessiveCompulsiveDisorder', 'B-Yale–BrownObsessive–CompulsiveScale', 'I-Yale–BrownObsessive–CompulsiveScale', 'B-CalgaryDepressionScale', 'I-CalgaryDepressionScale', 'B-FullScaleIntelligenceQuotient', 'I-FullScaleIntelligenceQuotient', 'B-AmphetamineAbuse', 'I-AmphetamineAbuse', 'B-MoodDisorder', 'I-MoodDisorder', 'B-DrinkingEpisode', 'I-DrinkingEpisode', 'B-DrinkingSession', 'I-DrinkingSession', 'B-DrinkingDay', 'I-DrinkingDay', 'B-SchizotypalPersonalityQuestionnaire', 'B-FamilyHistoryAssessmentModule', 'I-FamilyHistoryAssessmentModule', "X","[CLS]","[SEP]"]
+        #return ["[PAD]","B-E","I-E", 'B-FunctionalMagneticResonanceImaging', 'I-FunctionalMagneticResonanceImaging', 'O', 'B-CannabisAbuse', 'I-CannabisAbuse', 'B-NoKnownDisorder', 'I-NoKnownDisorder', 'B-StudyMethod', 'I-StudyMethod', 'B-SubstanceCravingScale', 'I-SubstanceCravingScale', 'B-StructuralImaging', 'I-StructuralImaging', 'B-TaskParadigmImaging', 'I-TaskParadigmImaging', 'B-T1WeightedImaging', 'I-T1WeightedImaging', 'B-Schizophrenia', 'B-Unmedicated', 'I-Unmedicated', 'I-Schizophrenia', 'B-PositronEmissionTomography', 'I-PositronEmissionTomography', 'B-PositiveandNegativeSyndromeScale', 'I-PositiveandNegativeSyndromeScale', 'B-ScaleforAssessmentofPositiveSymptoms', 'I-ScaleforAssessmentofPositiveSymptoms', 'B-ScaleforAssessmentofNegativeSymptoms', 'I-ScaleforAssessmentofNegativeSymptoms', 'B-RestingStateImaging', 'I-RestingStateImaging', 'B-AlcoholAbuse', 'I-AlcoholAbuse', 'B-Electrooculogram', 'I-Electrooculogram', 'B-Electroencephalogram', 'I-Electroencephalogram', 'B-SubstanceDisorder', 'I-SubstanceDisorder', 'B-GoNoGoTask', 'I-GoNoGoTask', 'B-Abstinent', 'I-Abstinent', 'B-FirstEpisodePsychosis', 'I-FirstEpisodePsychosis', 'B-MagneticResonanceImagingInstrument', 'I-MagneticResonanceImagingInstrument', 'B-NeurocognitiveTest', 'I-NeurocognitiveTest', 'B-AttentionDeficitHyperactivityDisorder', 'B-Questionnaire', 'I-Questionnaire', 'B-OpioidAbuse', 'I-OpioidAbuse', 'B-StructuredClinicalInterviewforDSMDisorders', 'I-StructuredClinicalInterviewforDSMDisorders', 'B-MajorDepressiveDisorder', 'I-MajorDepressiveDisorder', 'B-AnxietyDisorder', 'I-AnxietyDisorder', 'B-SubstanceUseScale', 'I-SubstanceUseScale', 'B-*', 'I-*', 'B-FunctionalNearInfraredSpectroscopy', 'I-FunctionalNearInfraredSpectroscopy', 'B-MagneticResonanceImaging', 'I-MagneticResonanceImaging', 'B-PsychopathologyScale', 'I-PsychopathologyScale', 'B-FunctionalImagingProtocol', 'B-PsychoticDisorder', 'I-PsychoticDisorder', 'B-MethamphetamineDependence', 'I-MethamphetamineDependence', 'B-ImpulseControlDisorder', 'I-ImpulseControlDisorder', 'B-MentalHealthDiagnosisScale', 'I-MentalHealthDiagnosisScale', 'I-FunctionalImagingProtocol', 'B-BarrattImpulsivenessQuestionnaire', 'I-BarrattImpulsivenessQuestionnaire', 'B-SubstanceDisorderStatus', 'I-SubstanceDisorderStatus', 'B-ComprehensiveAssessmentofSymptomsandHistory', 'I-ComprehensiveAssessmentofSymptomsandHistory', 'B-FamilyHistoryAssessmentModule', 'I-FamilyHistoryAssessmentModule', 'B-NationalAdultReadingTest', 'I-NationalAdultReadingTest', 'B-PersonalityRatingScale', 'I-PersonalityRatingScale', 'B-BeckDepressionInventory', 'I-BeckDepressionInventory', 'B-Semi-StructuredAssessmentfortheGeneticsofAlcoholism', 'B-TaskParadigmImagingProtocol', 'I-TaskParadigmImagingProtocol', 'B-CocaineAbuse', 'I-CocaineAbuse', 'B-NondependentAlcoholAbuse', 'I-NondependentAlcoholAbuse', 'B-AlcoholUseDisordersIdentificationTest', 'I-AlcoholUseDisordersIdentificationTest', 'B-FagerstromTestforNicotineDependence', 'I-FagerstromTestforNicotineDependence', 'B-MentalStateAssessmentScale', 'I-MentalStateAssessmentScale', 'B-T2WeightedImaging', 'I-T2WeightedImaging', 'B-Magnetoencephalography', 'B-DrinkingEpisode', 'I-DrinkingEpisode', 'B-DrinkingSession', 'I-DrinkingSession', 'B-ImpulsivityScale', 'I-ImpulsivityScale', 'B-AlcoholUseQuestionnaire', 'I-AlcoholUseQuestionnaire', 'B-DrinkingBinge', 'I-DrinkingBinge', 'B-DrinkingDay', 'I-DrinkingDay', 'B-DiffusionWeightedImaging', 'I-DiffusionWeightedImaging', "X","[CLS]","[SEP]"]
         #return ["[PAD]","B-EdinburghHandednessInventoryQuestionnaire", "I-EdinburghHandednessInventoryQuestionnaire", "O", "B-FunctionalImagingProtocol", "I-FunctionalImagingProtocol", "B-NeurocognitiveTest", "I-NeurocognitiveTest", "B-NoKnownDisorder", "I-NoKnownDisorder", "B-PositiveandNegativeSyndromeScale", "I-PositiveandNegativeSyndromeScale","B-ScaleforAssessmentofNegativeSymptoms", "I-ScaleforAssessmentofNegativeSymptoms","B-Schizophrenia", "I-Schizophrenia","B-T1Wei  ghtedImaging", "I-T1WeightedImaging","B-Unmedicated", "I-Unmedicated","B-ScaleforAssessmentofPositiveSymptoms", "I-ScaleforAssessmentofPositiveSymptoms","X","[CLS]","[SEP]"]
         #return ["[PAD]","B-MISC", "I-MISC", "O", "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC", "X","[CLS]","[SEP]"]
 
@@ -398,10 +406,12 @@ def crf_loss(logits,labels,mask,num_labels,mask2len):
         trans = tf.get_variable(
                 "transition",
                 shape=[num_labels,num_labels],
-                initializer=tf.contrib.layers.xavier_initializer()
+                initializer=tf2.initializers.GlorotUniform()
+                #initializer=tf.contrib.layers.xavier_initializer()
         )
     
-    log_likelihood,transition = tf.contrib.crf.crf_log_likelihood(logits,labels,transition_params =trans ,sequence_lengths=mask2len)
+    log_likelihood,transition = tfa.text.crf_log_likelihood(logits,labels,transition_params =trans ,sequence_lengths=mask2len)
+    #log_likelihood,transition = tf.contrib.crf.crf_log_likelihood(logits,labels,transition_params =trans ,sequence_lengths=mask2len)
     loss = tf.math.reduce_mean(-log_likelihood)
    
     return loss,transition
@@ -444,7 +454,8 @@ def create_model(bert_config, is_training, input_ids, mask,
     if FLAGS.crf:
         mask2len = tf.reduce_sum(mask,axis=1)
         loss, trans = crf_loss(logits,labels,mask,num_labels,mask2len)
-        predict,viterbi_score = tf.contrib.crf.crf_decode(logits, trans, mask2len)
+        predict,viterbi_score = tfa.text.crf_decode(logits, trans, mask2len)
+        #predict,viterbi_score = tf.contrib.crf.crf_decode(logits, trans, mask2len)
         return (loss, logits,predict)
 
     else:
@@ -499,7 +510,7 @@ def model_fn_builder(bert_config, num_labels, init_checkpoint, learning_rate,
 
         if mode == tf.estimator.ModeKeys.TRAIN:
             train_op = optimization.create_optimizer(total_loss, learning_rate, num_train_steps, num_warmup_steps, use_tpu)
-            output_spec = tf.contrib.tpu.TPUEstimatorSpec(
+            output_spec = tf.estimator.tpu.TPUEstimatorSpec(
                 mode=mode,
                 loss=total_loss,
                 train_op=train_op,
@@ -520,7 +531,8 @@ def model_fn_builder(bert_config, num_labels, init_checkpoint, learning_rate,
                 eval_metrics=eval_metrics,
                 scaffold_fn=scaffold_fn)
         else:
-            output_spec = tf.contrib.tpu.TPUEstimatorSpec(
+            output_spec = tf.estimator.tpu.TPUEstimatorSpec(
+            #output_spec = tf.contrib.tpu.TPUEstimatorSpec(
                 mode=mode, predictions=predicts, scaffold_fn=scaffold_fn
             )
         return output_spec
@@ -579,13 +591,16 @@ def main(_):
     if FLAGS.use_tpu and FLAGS.tpu_name:
         tpu_cluster_resolver = tf.contrib.cluster_resolver.TPUClusterResolver(
             FLAGS.tpu_name, zone=FLAGS.tpu_zone, project=FLAGS.gcp_project)
-    is_per_host = tf.contrib.tpu.InputPipelineConfig.PER_HOST_V2
-    run_config = tf.contrib.tpu.RunConfig(
+    is_per_host = tf.estimator.tpu.InputPipelineConfig.PER_HOST_V2
+    #is_per_host = tf.contrib.tpu.InputPipelineConfig.PER_HOST_V2
+    run_config = tf.estimator.tpu.RunConfig(
+    #run_config = tf.contrib.tpu.RunConfig(
         cluster=tpu_cluster_resolver,
         master=FLAGS.master,
         model_dir=FLAGS.output_dir,
         save_checkpoints_steps=FLAGS.save_checkpoints_steps,
-        tpu_config=tf.contrib.tpu.TPUConfig(
+        tpu_config=tf.estimator.tpu.TPUConfig(
+#        tpu_config=tf.contrib.tpu.TPUConfig(
             iterations_per_loop=FLAGS.iterations_per_loop,
             num_shards=FLAGS.num_tpu_cores,
             per_host_input_for_training=is_per_host))
@@ -608,7 +623,8 @@ def main(_):
         num_warmup_steps=num_warmup_steps,
         use_tpu=FLAGS.use_tpu,
         use_one_hot_embeddings=FLAGS.use_tpu)
-    estimator = tf.contrib.tpu.TPUEstimator(
+    estimator = tf.estimator.tpu.TPUEstimator(
+    #estimator = tf.contrib.tpu.TPUEstimator(
         use_tpu=FLAGS.use_tpu,
         model_fn=model_fn,
         config=run_config,
